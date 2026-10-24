@@ -29,7 +29,7 @@ Meanwhile, Supramax and Handysize segments displayed relative resilience, with t
 ![Στιγμιότυπο Οθόνης 2024 10 28 101643](assets/2024-10-28_jc00owfigv51y67ymsdan8ee6lp8n9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_845c2b1df750.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 28 101643**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-28_jc00owfigv51y67ymsdan8ee6lp8n9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_845c2b1df750.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-10-28_jc00owfigv51y67ymsdan8ee6lp8n9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_845c2b1df750.png)
 
 The outlook for global economic growth remains stable yet constrained, as the International Monetary Fund (IMF) projects a gradual deceleration from 3.3 percent in 2023 to 3.1 percent by 2029. Growth dynamics among advanced economies show stagnation; the US economy is slowing as it nears its growth potential, while the euro area is gradually recovering from an economic slump due to improved exports. Emerging economies, particularly in Asia, have experienced growth from the tech and electronics sectors, driven by investments in artificial intelligence. In China, despite persisting weakness in the real estate sector and low consumer confidence, growth is projected to have slowed only marginally to 4.8 percent in 2024, largely thanks to better-than-expected net exports. Meanwhile, oil production cuts and geopolitical disruptions have dampened growth forecasts in regions like the Middle East and Africa, reinforcing a disparity in growth rates across regions. The stability in global projections underscores an economic environment that, although balanced, lacks significant momentum to spur a notable uptick in demand for dry bulk shipping.
 
@@ -44,7 +44,7 @@ The current state of the global economy and trade, while stabilized, remains fra
 ![Στιγμιότυπο Οθόνης 2024 10 28 101701](assets/2024-10-28_jc00owfigv51y67ymsdan8ee6lp8n9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee912cb5b982.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 28 101701**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-28_jc00owfigv51y67ymsdan8ee6lp8n9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee912cb5b982.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-10-28_jc00owfigv51y67ymsdan8ee6lp8n9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee912cb5b982.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

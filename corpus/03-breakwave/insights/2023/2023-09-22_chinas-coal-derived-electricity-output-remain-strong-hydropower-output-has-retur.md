@@ -28,11 +28,11 @@ Coal-derived electricity generation continues to make up the bulk of the nationâ
 ![Chart 1 (82)](assets/2023-09-22_chinas-coal-derived-electricity-output-remain-strong-hydropower-output-has-retur_img_chart1288229_5b9250e68d61.jpg)
 
 > **Figure 1: Chart 1 (82)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-22_chinas-coal-derived-electricity-output-remain-strong-hydropower-output-has-retur_img_chart1288229_5b9250e68d61.jpg)
+> [Local Asset](assets/2023-09-22_chinas-coal-derived-electricity-output-remain-strong-hydropower-output-has-retur_img_chart1288229_5b9250e68d61.jpg)
 
 Hydropower production totaled 146.6 billion kilowatt hours last month. This has marked a month-on-month increase of 25.5 billion kilowatt hours (21%) and is up year-on-year by 24 billion kilowatt hours (20%). Previously, hydropower output had contracted on a year-on-year basis during eleven of the prior twelve months. The return of growth in hydropower output has been a factor behind coal-derived electricity generation contracting last month.
 
 ![Chart 2 (70)](assets/2023-09-22_chinas-coal-derived-electricity-output-remain-strong-hydropower-output-has-retur_img_chart2287029_7b24f78162c7.jpg)
 
 > **Figure 2: Chart 2 (70)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-22_chinas-coal-derived-electricity-output-remain-strong-hydropower-output-has-retur_img_chart2287029_7b24f78162c7.jpg)
+> [Local Asset](assets/2023-09-22_chinas-coal-derived-electricity-output-remain-strong-hydropower-output-has-retur_img_chart2287029_7b24f78162c7.jpg)

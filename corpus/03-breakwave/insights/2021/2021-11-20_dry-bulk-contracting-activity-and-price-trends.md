@@ -41,7 +41,7 @@ Our Dry Bulk Newbuilding Chartpack illustrates the annual increase in the Chines
 ![Market Chart 1](assets/2021-11-20_dry-bulk-contracting-activity-and-price-trends_img_unnamed28129_cdf3379c5ac6.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-20_dry-bulk-contracting-activity-and-price-trends_img_unnamed28129_cdf3379c5ac6.png)
+> [Local Asset](assets/2021-11-20_dry-bulk-contracting-activity-and-price-trends_img_unnamed28129_cdf3379c5ac6.png)
 
 What is also interesting is that the annual rise of newbuilding prices in the Handysize segment is higher in percentage points than in the Capesize segment. YTD contracting activity comes first in the Kamsarmax and Ultramax asset classes, then in the Handysize segment and lastly in Capesize vessels. The month of October ended, however, with no reported orders for Handysize ships and the days of November still have not brought fresh activity in the smaller bulker ships.
 
@@ -50,7 +50,7 @@ In the Ultramax segment, we saw the order for eight 64,000 dwt Ultramax bulk car
 ![Market Chart 2](assets/2021-11-20_dry-bulk-contracting-activity-and-price-trends_img_unnamed28229_ac163b3d79fe.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-20_dry-bulk-contracting-activity-and-price-trends_img_unnamed28229_ac163b3d79fe.png)
+> [Local Asset](assets/2021-11-20_dry-bulk-contracting-activity-and-price-trends_img_unnamed28229_ac163b3d79fe.png)
 
 ### Orderbook and Fleet Growth
 

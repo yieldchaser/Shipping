@@ -24,14 +24,14 @@ There had been a shortage of power supply caused by high temperatures and worsen
 ![Screenshot 20220902 110742 Samsung Notes](assets/2022-09-02_brs-dry-bulk-weekly-newsletter_img_screenshot-20220902-110742-samsungno_938ed192e7da.jpg)
 
 > **Figure 1: Screenshot 20220902 110742 Samsung Notes**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-02_brs-dry-bulk-weekly-newsletter_img_screenshot-20220902-110742-samsungno_938ed192e7da.jpg)
+> [Local Asset](assets/2022-09-02_brs-dry-bulk-weekly-newsletter_img_screenshot-20220902-110742-samsungno_938ed192e7da.jpg)
 
 This year, however, the shortage of electricity was caused by “An Act of God”, extreme droughts. In Sichuan, the power shortage is a consequence of soaring electricity demand under high temperatures. Ironically, the drying out of reservoirs further aggravated the shortage of hydropower. To complicate matters, a large part of the power generation (82% via hydropower) in Sichuan is transferred to other Chinese provinces. For example, it forms 18% of electricity consumption in Shanghai. While accurate numbers are not yet available, it is estimated that entire hydropower generation in August will fall by around 20% from July to 12 billion kilowatt-hours. With the foreseeable weakening of the current heatwaves, power supply and industrial production are expected to see a rebound by late autumn. Hence, we cautiously estimate that the negative impact would be contained, affecting only industrial production in the local areas. As of writing, according to China Electricity Council officials, the power crunch in eastern and central China is forecasted to gradually subside, along with a decrease in air conditioning demand.
 
 ![Screenshot 20220902 110758 Samsung+notes](assets/2022-09-02_brs-dry-bulk-weekly-newsletter_img_screenshot-20220902-110758-samsung2b_cb9d04084100.jpg)
 
 > **Figure 2: Screenshot 20220902 110758 Samsung+notes**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-02_brs-dry-bulk-weekly-newsletter_img_screenshot-20220902-110758-samsung2b_cb9d04084100.jpg)
+> [Local Asset](assets/2022-09-02_brs-dry-bulk-weekly-newsletter_img_screenshot-20220902-110758-samsung2b_cb9d04084100.jpg)
 
 CHINA ELECTRICITY MARKET OVERVIEW
 
@@ -40,7 +40,7 @@ According to National Bureau of Statistics (NBS) data, China's thermal power gen
 ![Screenshot 20220902 110758 Samsung+notes](assets/2022-09-02_brs-dry-bulk-weekly-newsletter_img_screenshot-20220902-110758-samsung2b_a710bcdf40ec.jpg)
 
 > **Figure 3: Screenshot 20220902 110758 Samsung+notes**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-02_brs-dry-bulk-weekly-newsletter_img_screenshot-20220902-110758-samsung2b_a710bcdf40ec.jpg)
+> [Local Asset](assets/2022-09-02_brs-dry-bulk-weekly-newsletter_img_screenshot-20220902-110758-samsung2b_a710bcdf40ec.jpg)
 
 In recent years, on the back of the decarbonisation trend, wind power and solar power generation in China experienced rapid growth, accounting for 50% of total newly installed capacity of power generation facilities. Despite this trend, to ensure a reliable and stable electricity supply, thermal power will occupy an important role in the domestic electricity market, as evidenced by thermal power installed capacity managing to grow mildly year on year. Thermal power installation shall continue to grow in the next few years considering the successive commissioning of the on-going thermal power investment projects. Long run wise, the growth rate of thermal power installed capacity had to be significantly curbed to meet the government’s agenda on decarbonization and environmental protection.
 
@@ -57,4 +57,4 @@ Theoretically speaking, as opposed to domestic coal, which would be difficult to
 ![Screenshot 20220902 110817 Samsung Notes](assets/2022-09-02_brs-dry-bulk-weekly-newsletter_img_screenshot-20220902-110817-samsungno_a63a7fcbe175.jpg)
 
 > **Figure 4: Screenshot 20220902 110817 Samsung Notes**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-02_brs-dry-bulk-weekly-newsletter_img_screenshot-20220902-110817-samsungno_a63a7fcbe175.jpg)
+> [Local Asset](assets/2022-09-02_brs-dry-bulk-weekly-newsletter_img_screenshot-20220902-110817-samsungno_a63a7fcbe175.jpg)

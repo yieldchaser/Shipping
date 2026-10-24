@@ -37,7 +37,7 @@ We also see a downward trend in prices in the coal segment, where Newcastle coal
 ![Ch1](assets/2022-03-23_signal-dry-bulk-weekly-report_img_ch1_dde6a69e6644.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-23_signal-dry-bulk-weekly-report_img_ch1_dde6a69e6644.png)
+> [Local Asset](assets/2022-03-23_signal-dry-bulk-weekly-report_img_ch1_dde6a69e6644.png)
 
 - Capesize Brazil to NChina rates sustained levels around $29/t one week before the end of March, almost at the same levels from the previous week, with a soft declining sentiment due to Chinese economic instability from the rising COVID-19 cases. Market rates remain remarkably higher than the low of Week 3 $18/t. Panamax Continent to Far East rates continues at lower levels than the first half of March, dropping this week to around $50/t. It seems that the soaring levels of coal prices are reflected in uncertainty for seaborne coal transportation and freight rates.
 
@@ -53,7 +53,7 @@ Supply Trend Lines for Key Load Areas
 ![Ch2](assets/2022-03-23_signal-dry-bulk-weekly-report_img_ch2_9944aa0c229c.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-23_signal-dry-bulk-weekly-report_img_ch2_9944aa0c229c.png)
+> [Local Asset](assets/2022-03-23_signal-dry-bulk-weekly-report_img_ch2_9944aa0c229c.png)
 
 - The ballasters’ view keeps a firm decrease in the panamax segment over the last three weeks, while the number of ballasters remains significantly high in the supramax segment.
 
@@ -68,7 +68,7 @@ Supply Trend Lines for Key Load Areas
 ![Ch3](assets/2022-03-23_signal-dry-bulk-weekly-report_img_ch3_9db3e73507d0.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-23_signal-dry-bulk-weekly-report_img_ch3_9db3e73507d0.png)
+> [Local Asset](assets/2022-03-23_signal-dry-bulk-weekly-report_img_ch3_9db3e73507d0.png)
 
 - The last days of March confirm the upward evolution of demand ton days for the Panamax vessels, while the trend decreases for the smaller vessel sizes, supramax and Handysize.
 
@@ -84,7 +84,7 @@ Supply Trend Lines for Key Load Areas
 ![Ch4](assets/2022-03-23_signal-dry-bulk-weekly-report_img_ch4_af7bbfb3c499.png)
 
 > **Figure 4: Ch4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-23_signal-dry-bulk-weekly-report_img_ch4_af7bbfb3c499.png)
+> [Local Asset](assets/2022-03-23_signal-dry-bulk-weekly-report_img_ch4_af7bbfb3c499.png)
 
 - The number of ship congestion is on an increasing trend for four successive weeks. The levels have surpassed the minimum of 860 vessels since Week 8, while the overall trend is still below the record highs witnessed last quarter of the previous year.
 

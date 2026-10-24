@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-21_doric-weekly-market-i
 
 > **Figure 1: Bymichalis Voutsinas**  
 > *ByMichalis Voutsinas*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/michalis-voutsinas-587544163/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-21_doric-weekly-market-insight_img_page2b211_c497586f981c.png)](https://www.breakwaveadvisors.com/agenda22)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/michalis-voutsinas-587544163/) | [Local Asset](assets/2022-11-21_doric-weekly-market-insight_img_page2b211_c497586f981c.png)](https://www.breakwaveadvisors.com/agenda22)
 
 Breakwave Advisors 2nd annual shipping market event
 
@@ -40,7 +40,7 @@ The southern city is setting up hospitals and quarantine sites with capacity for
 ![Screenshot 20221121 103123 Samsung Notes](assets/2022-11-21_doric-weekly-market-insight_img_screenshot-20221121-103123-samsungno_ef32d70fc5e5.jpg)
 
 > **Figure 2: Screenshot 20221121 103123 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-21_doric-weekly-market-insight_img_screenshot-20221121-103123-samsungno_ef32d70fc5e5.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2022-11-21_doric-weekly-market-insight_img_screenshot-20221121-103123-samsungno_ef32d70fc5e5.jpg)
 
 Against this backdrop, Asian markets were in cautious mood on Friday, with investors preoccupied by the gloomy global economic picture and Covid’s persistence in China. The Nikkei ended the forty-sixth week marginally lower, reversing small gains from earlier. Hong Kong stocks dropped off amid more losses for Chinese property developers. China stocks trended mostly sideways, tracking the cautious mood in regional markets amid concerns of aggressive US tightening and domestic Covid19 outbreaks. In commodity markets, oil futures regained some ground but still nursed steep losses for the week on worries about Chinese demand and tighter monetary policy in the US.
 

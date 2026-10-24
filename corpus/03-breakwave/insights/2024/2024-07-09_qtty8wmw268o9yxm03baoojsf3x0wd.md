@@ -65,7 +65,7 @@ However, over the past two months, weekly cargo order volumes for nickel have de
 ![Στιγμιότυπο Οθόνης 2024 07 09 104353](assets/2024-07-09_qtty8wmw268o9yxm03baoojsf3x0wd_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_405117ccc3cb.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 09 104353**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-09_qtty8wmw268o9yxm03baoojsf3x0wd_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_405117ccc3cb.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-07-09_qtty8wmw268o9yxm03baoojsf3x0wd_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_405117ccc3cb.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

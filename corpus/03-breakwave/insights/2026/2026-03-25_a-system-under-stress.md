@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-03-25_a-system-under-stress
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-25_a-system-under-stress_img_unsplash-image-vosp2wly3bs_5b6875639c4f.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](assets/2026-03-25_a-system-under-stress_img_unsplash-image-vosp2wly3bs_5b6875639c4f.jpg)
 
 The past week has confirmed that the disruption in the Arabian Gulf is no longer just a supply shock but a market distortion that is beginning to erode demand itself. What initially supported freight through panic, dislocation and risk premiums is now evolving into something more complex: a shrinking cargo base, trapped tonnage and an increasingly fragmented tanker market.
 

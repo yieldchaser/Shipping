@@ -31,7 +31,7 @@ On the commodity front, iron ore sector has seen substantial import activity, re
 ![Στιγμιότυπο Οθόνης 2024 11 04 105257](assets/2024-11-04_the-capesize-segment-stood-out-for-its-volatility_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cd2fc6d61e80.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 11 04 105257**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-04_the-capesize-segment-stood-out-for-its-volatility_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cd2fc6d61e80.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-11-04_the-capesize-segment-stood-out-for-its-volatility_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cd2fc6d61e80.png)
 
 China’s steel production, however, has moved in the opposite direction, falling for a fourth consecutive month in September to 77.07 million tonnes, down 1.1 percent from August and 6.1 percent year-on-year. The total output for the first nine months of 2024 stands at 768.48 million tonnes, marking a 3.6 percent drop compared to the same period in 2023. This imbalance between imports and steel production has contributed to an increase in stockpiles, with iron ore inventories at 45 key.
 
@@ -42,14 +42,14 @@ China has also increased its agricultural imports amid concerns over potential t
 ![Στιγμιότυπο Οθόνης 2024 11 04 105424](assets/2024-11-04_the-capesize-segment-stood-out-for-its-volatility_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_173d48d1d1dc.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 11 04 105424**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-04_the-capesize-segment-stood-out-for-its-volatility_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_173d48d1d1dc.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-11-04_the-capesize-segment-stood-out-for-its-volatility_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_173d48d1d1dc.png)
 
 The dry bulk market's performance in October illustrates a complex mix of resilience and caution. While smaller segments like Supramax and Handysize showed relative stability, the Capesize and Panamax segments experienced notable declines, underscoring a more cautious market outlook. Elevated iron ore imports alongside rising stockpiles in China reflect an approach of preparedness amid slowing steel production, which could signal shifting demand dynamics ahead. Additionally, strong agricultural imports highlight China’s strategic stance on supply security amidst trade uncertainties. As the year nears its close, market trends will likely respond to policy shifts and economic signals once again, although the accumulation of high inventories suggests that any future increase in imports may be restrained rather than accelerated.
 
 ![Στιγμιότυπο Οθόνης 2024 11 04 105528](assets/2024-11-04_the-capesize-segment-stood-out-for-its-volatility_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5425f81e77ed.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 11 04 105528**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-04_the-capesize-segment-stood-out-for-its-volatility_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5425f81e77ed.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-11-04_the-capesize-segment-stood-out-for-its-volatility_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5425f81e77ed.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

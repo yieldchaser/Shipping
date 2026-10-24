@@ -30,7 +30,7 @@ Due to low water levels, dry bulk carrier queues at the Panama Canal spiked in e
 ![Market Chart 1](assets/2023-10-13_braemar-weekly-dry-market-report_img_image6_7bef9b6cb19f.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-13_braemar-weekly-dry-market-report_img_image6_7bef9b6cb19f.png)
+> [Local Asset](assets/2023-10-13_braemar-weekly-dry-market-report_img_image6_7bef9b6cb19f.png)
 
 Since then, lower numbers of waiting bulkers (mostly Supra/Ultramax and Handysize) at both Canal entrances can be viewed as a response to transit restrictions, while some receivers may be deterred from including the Panama Canal due to uncertainties surrounding waiting times (see chart on the next page), leading to avoidance and more longer-haul voyages that would normally be the case.
 
@@ -41,7 +41,7 @@ The second chart, top right, shows that in 2022 coal/coke cargoes reached 11m to
 ![Market Chart 2](assets/2023-10-13_braemar-weekly-dry-market-report_img_image7_2913406dd084.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-13_braemar-weekly-dry-market-report_img_image7_2913406dd084.png)
+> [Local Asset](assets/2023-10-13_braemar-weekly-dry-market-report_img_image7_2913406dd084.png)
 
 However, the third chart, below, demonstrates that southbound bulker traffic in the year to date has fallen significantly below year-ago levels.
 
@@ -52,7 +52,7 @@ However, the third chart, below, demonstrates that southbound bulker traffic in 
 ![Market Chart 3](assets/2023-10-13_braemar-weekly-dry-market-report_img_image8_5b9a2d55af64.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-13_braemar-weekly-dry-market-report_img_image8_5b9a2d55af64.png)
+> [Local Asset](assets/2023-10-13_braemar-weekly-dry-market-report_img_image8_5b9a2d55af64.png)
 
 The rest of the reason lies in a disappointing year for US grain exporters. In the six months between March and August, combined exports of corn, soybeans and wheat fell 18.6m tonnes YoY to 44.2m tonnes.
 
@@ -61,7 +61,7 @@ Indeed, soybean exports, with their China focus and high Panamax share, dwindled
 ![Market Chart 4](assets/2023-10-13_braemar-weekly-dry-market-report_img_image9_12fe8966b1f7.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-13_braemar-weekly-dry-market-report_img_image9_12fe8966b1f7.png)
+> [Local Asset](assets/2023-10-13_braemar-weekly-dry-market-report_img_image9_12fe8966b1f7.png)
 
 Soybean departures tend to concentrate in the Q4, implying that the positive effects on ship supply/demand balances will continue, unless there is a radical change in transit arrangements.
 
@@ -72,4 +72,4 @@ The International Grains Council (IGC) noted that storm activity is expected to 
 ![Market Chart 5](assets/2023-10-13_braemar-weekly-dry-market-report_img_image10_f975302c9c51.png)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-13_braemar-weekly-dry-market-report_img_image10_f975302c9c51.png)
+> [Local Asset](assets/2023-10-13_braemar-weekly-dry-market-report_img_image10_f975302c9c51.png)

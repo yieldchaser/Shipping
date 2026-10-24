@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-06-29_3b51ravouq9ez2jrv0yn9
 
 > **Figure 1: China Is Approving Plans for New Coal Power Plant Capacity At**  
 > *China is approving plans for new coal power plant capacity at the fastest rate since 2015, in a sign that pressure to stimulate the economy is undermining a transition towards cleaner energy sources.*  
-> **Interactive Data & Source:** [Ft](https://www.ft.com/content/cdcd8a02-81b5-48f1-a4a5-60a93a6ffa1e) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-29_3b51ravouq9ez2jrv0yn9fgjurgyy2_img_ship4_966cd4e3b9fb.jpg)
+> **Interactive Data & Source:** [Ft](https://www.ft.com/content/cdcd8a02-81b5-48f1-a4a5-60a93a6ffa1e) | [Local Asset](assets/2020-06-29_3b51ravouq9ez2jrv0yn9fgjurgyy2_img_ship4_966cd4e3b9fb.jpg)
 
 For almost a decade now and year after year, analysts have predicted the death of coal as a fossil fuel, and as a result, the structural decline in global coal trading. And yet, although still unpredictable from year to year, over the past decade coal trading has seen strong periods of activity pushing dry bulk rates higher in the process.
 
@@ -39,7 +39,7 @@ As BP reported last week in their[annual energy review](../pdfs/2020-06-29_3b51r
 ![Consumption Production Bp](assets/2020-06-29_3b51ravouq9ez2jrv0yn9fgjurgyy2_img_consumptionproductionbp_abef532cfa49.png)
 
 > **Figure 2: Consumption Production Bp**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-29_3b51ravouq9ez2jrv0yn9fgjurgyy2_img_consumptionproductionbp_abef532cfa49.png)
+> [Local Asset](assets/2020-06-29_3b51ravouq9ez2jrv0yn9fgjurgyy2_img_consumptionproductionbp_abef532cfa49.png)
 
 Looking closely at Asia-Pacific region, since 2010, consumption is up almost 20%, and although as a percentage of the total energy mix coal is down, coal demand is still growing, and given the higher base, more tons of coal are traded and shipped than a decade ago.
 
@@ -48,7 +48,7 @@ Last year, coal trading declined from the previous year’s all time high, mainl
 ![Coal Trade Movements, Bp](assets/2020-06-29_3b51ravouq9ez2jrv0yn9fgjurgyy2_img_coaltrademovements2cbp_000cae8f3f0e.png)
 
 > **Figure 3: Coal Trade Movements, Bp**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-29_3b51ravouq9ez2jrv0yn9fgjurgyy2_img_coaltrademovements2cbp_000cae8f3f0e.png)
+> [Local Asset](assets/2020-06-29_3b51ravouq9ez2jrv0yn9fgjurgyy2_img_coaltrademovements2cbp_000cae8f3f0e.png)
 
 For dry bulk this is good news, though the growth rate has declined significantly versus the previous decade. With coal being the second most important commodity for dry bulk, such a trend is having a profound impact on long term growth expectations that continue to come down versus the previous decade. On the other hand, with iron ore now the only driver of significant growth, the overall trend for dry bulk remains positive, though still at a much lower trend rate versus the 2000’s, when dry bulk growth averaged north of 5% per annum.
 
@@ -57,7 +57,7 @@ Finally, coal prices remains highly dependent and extremely levered to the globa
 ![Coal vs BDI](assets/2020-06-29_3b51ravouq9ez2jrv0yn9fgjurgyy2_img_coalvsbdi_7f137e3c1319.jpg)
 
 > **Figure 4: Coal vs BDI**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-29_3b51ravouq9ez2jrv0yn9fgjurgyy2_img_coalvsbdi_7f137e3c1319.jpg)
+> [Local Asset](assets/2020-06-29_3b51ravouq9ez2jrv0yn9fgjurgyy2_img_coalvsbdi_7f137e3c1319.jpg)
 
 ---
 

@@ -27,7 +27,7 @@ The French PM Francois Bayrou, called for a confidence vote on the 8th of Septem
 ![Market Chart 1](assets/2025-09-08_france-down-but-not-out_img_image002_d4aa3facff00.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-08_france-down-but-not-out_img_image002_d4aa3facff00.jpg)
+> [Local Asset](assets/2025-09-08_france-down-but-not-out_img_image002_d4aa3facff00.jpg)
 
 The vote is a political risk, calculated for a “win” or “blame”. Bayrou achieved his lifelong dream of becoming PM, so his legacy would matter to him.
 

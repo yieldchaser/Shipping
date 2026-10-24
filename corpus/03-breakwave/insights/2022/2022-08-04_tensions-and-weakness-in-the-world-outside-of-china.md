@@ -26,7 +26,7 @@ We remain most bearish for the world outside of China for the near-term. Global 
 ![Chart 1 (42)](assets/2022-08-04_tensions-and-weakness-in-the-world-outside-of-china_img_chart1284229_fb3aa0bb431c.jpg)
 
 > **Figure 1: Chart 1 (42)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-04_tensions-and-weakness-in-the-world-outside-of-china_img_chart1284229_fb3aa0bb431c.jpg)
+> [Local Asset](assets/2022-08-04_tensions-and-weakness-in-the-world-outside-of-china_img_chart1284229_fb3aa0bb431c.jpg)
 
 Conditions in much of the world are deteriorating and there are no signs that an improvement will be occurring anytime soon. Also of note throughout the world is that the global food and energy crises remain ongoing and some nations (including Sri Lanka, Panama, the Netherlands, and Italy) have witnessed intense protests/riots in recent days. More positive at least is that Ukraine and Russia (with help from the United Nations and Turkey) recently signed an agreement that will allow grain to be shipped from Ukrainian Black Sea ports, but tensions remain and Russia somewhat shockingly attacked targets at the Black Sea port of Odessa right after the agreement was signed.
 

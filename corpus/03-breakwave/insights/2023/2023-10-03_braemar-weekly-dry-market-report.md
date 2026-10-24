@@ -32,7 +32,7 @@ Yet, the country’s grain export flows have been subject to ups and downs, caus
 ![Market Chart 1](assets/2023-10-03_braemar-weekly-dry-market-report_img_image0281329_2a17da68aa0d.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-03_braemar-weekly-dry-market-report_img_image0281329_2a17da68aa0d.png)
+> [Local Asset](assets/2023-10-03_braemar-weekly-dry-market-report_img_image0281329_2a17da68aa0d.png)
 
 The historic drought helped squeeze Argentina’s combined grain and soy exports down by a massive 35m tonnes YoY to 58.4m tonnes in the various 2022/23 trade years, according to the US Department of Agriculture (USDA).
 
@@ -45,7 +45,7 @@ Strong August shipments of corn from Argentina prompted the USDA to upgrade its 
 ![Market Chart 2](assets/2023-10-03_braemar-weekly-dry-market-report_img_image1281329_2eeab66894bd.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-03_braemar-weekly-dry-market-report_img_image1281329_2eeab66894bd.png)
+> [Local Asset](assets/2023-10-03_braemar-weekly-dry-market-report_img_image1281329_2eeab66894bd.png)
 
 Argentina’s corn exports have—from a shipping perspective—been far more significant than wheat for example, given (1) larger volumes and (2) a broader spread of destinations. These range from Peru (on geared bulkers) and North Africa (mainly geared) to the Middle East and Southeast Asia, with significant volumes shipped to South Korea (mostly on Panamax).
 
@@ -58,7 +58,7 @@ Argentina is well established as the world’s largest supplier of soymeal. Expo
 ![Market Chart 3](assets/2023-10-03_braemar-weekly-dry-market-report_img_image2281229_80b32bafd874.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-03_braemar-weekly-dry-market-report_img_image2281229_80b32bafd874.png)
+> [Local Asset](assets/2023-10-03_braemar-weekly-dry-market-report_img_image2281229_80b32bafd874.png)
 
 Last year the USDA estimated 21.1m tonnes of soymeal exports from Argentina. Seeding in Argentina is expected imminently, and an El Niño event in growing areas may herald a return to normal weather. For 2022/23 the USDA projects exports of 23.4m tonnes, growth of 2.3m tonnes.
 

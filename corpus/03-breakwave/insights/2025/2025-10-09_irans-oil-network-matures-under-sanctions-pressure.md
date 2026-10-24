@@ -47,7 +47,7 @@ Roughly 85–90% of those volumes head to China, driven by deep[discounts](https
 ![Στιγμιότυπο Οθόνης 2025 10 09 095957](assets/2025-10-09_irans-oil-network-matures-under-sanctions-pressure_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0fc553a61a85.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 10 09 095957**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-09_irans-oil-network-matures-under-sanctions-pressure_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0fc553a61a85.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](assets/2025-10-09_irans-oil-network-matures-under-sanctions-pressure_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0fc553a61a85.png)
 
 ## A Stabilised Dark Fleet
 
@@ -58,7 +58,7 @@ Over the past three years, 82% of Iran–China voyages involved at least one STS
 ![Στιγμιότυπο Οθόνης 2025 10 09 100501](assets/2025-10-09_irans-oil-network-matures-under-sanctions-pressure_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3ade67b8833.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 10 09 100501**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-09_irans-oil-network-matures-under-sanctions-pressure_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3ade67b8833.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](assets/2025-10-09_irans-oil-network-matures-under-sanctions-pressure_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3ade67b8833.png)
 
 That system is no longer improvised — it’s optimised.
 
@@ -67,7 +67,7 @@ Voyage data show a long-term compression in voyage durations. Averaging around 8
 ![Στιγμιότυπο Οθόνης 2025 10 09 100545](assets/2025-10-09_irans-oil-network-matures-under-sanctions-pressure_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d6dacf9cc710.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 10 09 100545**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-09_irans-oil-network-matures-under-sanctions-pressure_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d6dacf9cc710.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](assets/2025-10-09_irans-oil-network-matures-under-sanctions-pressure_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d6dacf9cc710.png)
 
 Iran’s exports have not just weathered renewed sanctions — they’ve matured under them. Voyage durations have normalised, STS coordination is faster, and routing has become increasingly structured.
 

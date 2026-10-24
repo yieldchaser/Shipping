@@ -24,7 +24,7 @@ Downward revision of Capesize iron ore flows from Australia to China and Japan i
 ![Chart of the Week: Capesize Iron Ore Australia to the Far East](assets/2023-08-03_signal-dry-bulk-weekly-report_img_unnamed-2023-08-03t105115418_6f44791aa9f3.png)
 
 > **Figure 1: Chart of the Week: Capesize Iron Ore Australia to the Far East**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2p7m4b/337189878?h=TN9QfFZNbPyaNAwe_i4TmDv6h3MN5mfUlZWEnkifNb0) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-03_signal-dry-bulk-weekly-report_img_unnamed-2023-08-03t105115418_6f44791aa9f3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2p7m4b/337189878?h=TN9QfFZNbPyaNAwe_i4TmDv6h3MN5mfUlZWEnkifNb0) | [Local Asset](assets/2023-08-03_signal-dry-bulk-weekly-report_img_unnamed-2023-08-03t105115418_6f44791aa9f3.png)
 
 In early August, Atlantic Capesize freight rates posted significant increases on both a weekly and monthly basis, driving the Baltic C5TC (Timecharter Average $/d) to a weekly increase of 32%. Capesize route C8 (Transatlantic Round Gibraltar/Hamburg $/d) saw a 70% increase and the C7 route (Bolivar to Rotterdam $/mt) saw a 26% increase (WoW). Overall, the Baltic Dry Index ended yesterday up 16.5% (WoW), with Capesize and Panamax routes showing an upward trend, while downward pressure continued in the smaller ship size segments.
 
@@ -46,7 +46,7 @@ Market Rates ($/t) Firmer
 ![Market Chart 2](assets/2023-08-03_signal-dry-bulk-weekly-report_img_unnamed-2023-08-03t105215079_cdc32a9999e7.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-03_signal-dry-bulk-weekly-report_img_unnamed-2023-08-03t105215079_cdc32a9999e7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-08-03_signal-dry-bulk-weekly-report_img_unnamed-2023-08-03t105215079_cdc32a9999e7.png)
 
 August brought a surprising strengthening of the Capesize routes on the Atlantic, while the route from Brazil to North China has not yet fully recovered. For the other ship sizes, the downward spiral now seems to have stopped, and it remains to be seen whether August will bring firmer sentiment.
 
@@ -60,7 +60,7 @@ August brought a surprising strengthening of the Capesize routes on the Atlantic
 ![Supply Trend Lines for Key Load Areasballasters (# Vessels) Mixed](assets/2023-08-03_signal-dry-bulk-weekly-report_img_unnamed-2023-08-03t105853095_f8b7be2a98d0.png)
 
 > **Figure 3: Supply Trend Lines for Key Load Areasballasters (# Vessels) Mixed**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-03_signal-dry-bulk-weekly-report_img_unnamed-2023-08-03t105853095_f8b7be2a98d0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-08-03_signal-dry-bulk-weekly-report_img_unnamed-2023-08-03t105853095_f8b7be2a98d0.png)
 
 As July came to a close, there were varying trends in the supply of dry bulkers. The number of ballasters increased significantly in the Capesize, Panamax, and Supramax segments. However, there was a decline in the Handysize segment.
 
@@ -74,7 +74,7 @@ As July came to a close, there were varying trends in the supply of dry bulkers.
 ![Summary of Dry Bulk Demand, per Ship Sizetonnedays Decreasing](assets/2023-08-03_signal-dry-bulk-weekly-report_img_unnamed-2023-08-03t110159675_548827a905fd.png)
 
 > **Figure 4: Summary of Dry Bulk Demand, per Ship Sizetonnedays Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-03_signal-dry-bulk-weekly-report_img_unnamed-2023-08-03t110159675_548827a905fd.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-08-03_signal-dry-bulk-weekly-report_img_unnamed-2023-08-03t110159675_548827a905fd.png)
 
 Downward pressure (in tonne days) growth continued in early August, while there are signs of recovery in the Capesize segment.
 
@@ -88,7 +88,7 @@ Downward pressure (in tonne days) growth continued in early August, while there 
 ![Dry Bulk Ships Congested at Chinese Portsno of Vessels Increasing](assets/2023-08-03_signal-dry-bulk-weekly-report_img_unnamed-2023-08-03t110331367_ec5d50e0c597.png)
 
 > **Figure 5: Dry Bulk Ships Congested at Chinese Portsno of Vessels Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-03_signal-dry-bulk-weekly-report_img_unnamed-2023-08-03t110331367_ec5d50e0c597.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-08-03_signal-dry-bulk-weekly-report_img_unnamed-2023-08-03t110331367_ec5d50e0c597.png)
 
 The upward revision in the number of vessel congestions continued from the previous week, with a notable increase in the Panamax and Supramax segments.
 

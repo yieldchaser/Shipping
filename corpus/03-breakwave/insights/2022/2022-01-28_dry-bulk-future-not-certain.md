@@ -28,14 +28,14 @@ source_file: "corpus/03-breakwave/insights/2022/2022-01-28_dry-bulk-future-not-c
 
 > **Figure 1: While This Year As a Whole Can Still Look Forward to Robust**  
 > *While this year as a whole can still look forward to robust grain trade and the global energy crisis continuing to lead to strongdemandfor coal in various nations, there is still no guarantee that iron ore trade will increase or even coal trade for that matter. The year beginning with Indonesia deciding to withhold some of its coal could be a forebearer that while global coal demand is set to stay strong in 2022, seaborne volume might not be able to match demand. The recent successes of China’s coal miners could also be signaling that China has become better suited in meeting its own demand.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-28_dry-bulk-future-not-certain_img_chart1281629_b96c2bdfb394.jpg)
+> [Local Asset](assets/2022-01-28_dry-bulk-future-not-certain_img_chart1281629_b96c2bdfb394.jpg)
 
 In total, last year saw the dry bulk fleet grow by approximately 320 vessels. In comparison, the dry bulk fleet grew by approximately 325 vessels in 2020. For this year, we expect that the fleet will grow by anywhere from 275 to 350 vessels. While the dry bulk fleet remains likely to grow this year by less than 3%, seaborne trade growth still needs to exceed this level for freight rates to continue to strengthen cyclically. As we have been continuing to stress in our Weekly Dry Bulk Reports, however, this is in no means guaranteed to occur.
 
 ![Chart 2 (13)](assets/2022-01-28_dry-bulk-future-not-certain_img_chart2281329_379c9c081bbe.jpg)
 
 > **Figure 2: Chart 2 (13)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-28_dry-bulk-future-not-certain_img_chart2281329_379c9c081bbe.jpg)
+> [Local Asset](assets/2022-01-28_dry-bulk-future-not-certain_img_chart2281329_379c9c081bbe.jpg)
 
 It previously was a rarity for even 350 million tons of coal to be produced in a single month in China -- but as we have been highlighting in our weekly reports, those days have come to an end. As the market also remains well aware, Chinese iron ore import volume fell last year and Chinese steel output still remains down on a year-on-year basis. The world’s major global iron ore miners, though, at least continue to collectively show that their plans are to increase iron ore production this year. Global steel production outside of China has also continued to maintain year-on-year growth.
 

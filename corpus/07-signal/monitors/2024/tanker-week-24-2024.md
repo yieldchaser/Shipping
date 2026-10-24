@@ -32,7 +32,7 @@ tags:
 ![666c045013b7abb0c962e1d7 Tanker Chart](../../images/666c045013b7abb0c962e1d7_tanker chart.png)
 
 > **Figure 1: 666c045013b7abb0c962e1d7 Tanker Chart**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-24-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/666c045013b7abb0c962e1d7_tanker chart.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-24-2024) | [Local Asset](../../images/666c045013b7abb0c962e1d7_tanker chart.png)
 
 The third week of May saw an upward trend in market prices for the Aframax Mediterranean market, while sentiment in the VLCC MEG-China route showed a gradual In the first half of May, there was a weakening trend in dirty freight rates for the VLCC AG-China market, along with a significant downward revision on the Aframax Med route. On the demand side, the growth in dirty and clean tonne days has yet to show an increasing pace. Consequently, the supply of vessels will play a critical role in maintaining the robust environment for dirty and clean freight rates in the coming days.
 

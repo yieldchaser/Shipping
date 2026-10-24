@@ -27,7 +27,7 @@ April 16, 2025
 ![Στιγμιότυπο Οθόνης 2025 04 16 160007](assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23f415f58c08.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 04 16 160007**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23f415f58c08.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23f415f58c08.png)
 
 ## Shift in Global Soybean Trade Flows
 
@@ -44,7 +44,7 @@ In sharp contrast, Brazilian soybean exports to China have surged in 2025, with 
 ![Στιγμιότυπο Οθόνης 2025 04 16 160103](assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd606fb5ff99.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 04 16 160103**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd606fb5ff99.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd606fb5ff99.png)
 
 ​​​​Sentiment in the Capesize freight market is softening as the number of ballasters rises, while early signs also point to a weakening outlook in the Panamax segment.
 
@@ -56,7 +56,7 @@ In sharp contrast, Brazilian soybean exports to China have surged in 2025, with 
 ![Στιγμιότυπο Οθόνης 2025 04 16 160448](assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eaedd84e85ed.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 04 16 160448**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eaedd84e85ed.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eaedd84e85ed.png)
 
 The latest ballaster indicators suggest continued upward momentum for Capesize activity in Southeast Africa, while Panamax levels face downward pressure.
 
@@ -68,7 +68,7 @@ The latest ballaster indicators suggest continued upward momentum for Capesize a
 ![Στιγμιότυπο Οθόνης 2025 04 16 160457](assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_87d0179dfbf2.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 04 16 160457**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_87d0179dfbf2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_87d0179dfbf2.png)
 
 The third week of April is marked by a downward trajectory in the Panamax growth of tonne days, while a remarkable spike is recorded in the Supramax.
 
@@ -80,7 +80,7 @@ The third week of April is marked by a downward trajectory in the Panamax growth
 ![Στιγμιότυπο Οθόνης 2025 04 16 160506](assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca931192de7a.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 04 16 160506**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca931192de7a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca931192de7a.png)
 
 Dry bulk port congestion in China saw a significant rise across all vessel size categories.
 

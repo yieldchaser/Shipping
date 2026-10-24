@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-09-01_912026db-report2septd
 ![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](assets/2026-09-01_912026db-report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_727760a77d9a.png)
 
 > **Figure 1: Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-01_912026db-report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_727760a77d9a.png)
+> [Local Asset](assets/2026-09-01_912026db-report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_727760a77d9a.png)
 
 •**Iron Ore follows Coking Coal Higher Amidst the Worst Disaster since 2009**–**Coking coal,**the second most important ingredient in the steelmaking process, delivered an**unprecedented, record-breaking performance**, surging over 40% within the month after a catastrophic mining accident in Shanxi triggered nationwide safety inspections and sweeping production curtailments across China. While iron ore prices experienced a modest, low-single-digit sympathy increase, the steelmaking raw material complex faces shifting dynamics; forward-looking projections indicate ample iron ore supply, yet escalating input costs from both metallurgical coal and ocean freight are**actively compressing steel mill margins**to multi-year lows. Consequently, these severe margin pressures are likely to trigger downward adjustments in steel production, subsequently curtailing downstream demand for iron ore in the near term.
 
@@ -33,11 +33,11 @@ source_file: "corpus/03-breakwave/insights/2026/2026-09-01_912026db-report2septd
 ![Στιγμιότυπο Οθόνης 2026 09 01 094723](assets/2026-09-01_912026db-report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0092583bd781.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 09 01 094723**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-01_912026db-report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0092583bd781.png)
+> [Local Asset](assets/2026-09-01_912026db-report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0092583bd781.png)
 
 ![Στιγμιότυπο Οθόνης 2026 09 01 124950](assets/2026-09-01_912026db-report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2bb3cabf2f7.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 09 01 124950**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-01_912026db-report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2bb3cabf2f7.png)
+> [Local Asset](assets/2026-09-01_912026db-report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2bb3cabf2f7.png)
 
 ### Subscribe:

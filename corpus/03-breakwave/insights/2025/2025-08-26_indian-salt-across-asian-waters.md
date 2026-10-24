@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-08-26_indian-salt-across-as
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2025-08-26_indian-salt-across-asian-waters_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-26_indian-salt-across-asian-waters_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](assets/2025-08-26_indian-salt-across-asian-waters_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 India’s salt sector is a global heavyweight, ranking among the top three producers worldwide with output averaging 30 mln mt annually. Moreover, India became the world’s largest salt exporter in 2024, shipping 17.3 mln mt on bulkers, propelled by an extraordinary surge in Chinese demand. Exports to China alone topped 10 mln mt, doubling y-o-y and underscoring the structural reliance of its chlor-alkali and soda ash sectors on low-cost Indian solar salt.
 
@@ -32,7 +32,7 @@ India’s salt sector is a global heavyweight, ranking among the top three produ
 ![Στιγμιότυπο Οθόνης 2025 08 26 155949](assets/2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc6fbb9fbd7e.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 08 26 155949**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc6fbb9fbd7e.png)
+> [Local Asset](assets/2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc6fbb9fbd7e.png)
 
 India accounted for nearly 29% of world salt trade in 2024, ahead of Australia (~19%) and Chile (~15%). In the first seven months of 2025, exports rose 11.7% y-o-y, keeping India firmly on course to retain its top position. Gujarat contributes close to three-quarters of national output, with significant shipments also coming from Tamil Nadu’s coastal pans at Thoothukudi. Reliance on solar evaporation keeps costs among the world’s lowest, underscoring Indian exporters’ competitive edge.
 
@@ -43,7 +43,7 @@ In the first seven months of 2025, India exported 9.8 mln mt, of which 8.2 mln m
 ![Στιγμιότυπο Οθόνης 2025 08 26 160000](assets/2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9d8486efddec.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 08 26 160000**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9d8486efddec.png)
+> [Local Asset](assets/2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9d8486efddec.png)
 
 India’s domestic salt output rose about 10.1% y-o-y in 2024 to a 33.7 mln mt, underpinned by favourable dry conditions and the country’s low-cost solar evaporation model. Industrial demand remains a key anchor, with more than 60% of national salt consumption driven by chlor-alkali, soda ash, and allied sectors, thus ensuring steady offtake. Infrastructure improvements under the Sagarmala programme, a government initiative focused on port modernisation, coastal connectivity, and lowering logistics costs, further reinforced production momentum. Based on these fundamentals, output may reach about 35.8 mln mt in 2025. However, this outlook is tempered by risks from lease renewal delays in Gujarat’s salt pans, tightening environmental scrutiny, and climate volatility.
 
@@ -52,7 +52,7 @@ India’s domestic salt output rose about 10.1% y-o-y in 2024 to a 33.7 mln mt, 
 ![Στιγμιότυπο Οθόνης 2025 08 26 160012](assets/2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c10eaeb1091.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 08 26 160012**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c10eaeb1091.png)
+> [Local Asset](assets/2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c10eaeb1091.png)
 
 Unlike sugar, where India both imports and exports depending on domestic balances (see Page 7 for further details), salt is primarily exported. Cargoes in 7M2025 were lifted mainly from west coast ports, led by Kandla (7.6 mln mt), Mundra (1.1 mln mt), and Jakhau (1 mln mt), largely on Supramaxes. Trade flows remain heavily concentrated, with China, South Korea and Japan as the main buyers driven by industrial demand.
 
@@ -67,7 +67,7 @@ Japan lifted 0.6 mln mt in Jan–Jul 2025 (+37.9% y-o-y), the fastest growth amo
 ![Στιγμιότυπο Οθόνης 2025 08 26 160019](assets/2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c97c93b30c9e.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 08 26 160019**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c97c93b30c9e.png)
+> [Local Asset](assets/2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c97c93b30c9e.png)
 
 In 7M2025, India’s salt exports were overwhelmingly carried by Supramaxes and Panamaxes, which together accounted for more than 90% of liftings. Supramaxes hauled 7.35 mln mt (75.1% of total trade), reflecting their suitability for the typical 50–60,000 Dwt parcel sizes lifted out of Kandla, Mundra, and Jakhau. These vessels align closely with the requirements of major North Asian buyers, making them the backbone of India’s salt export logistics.
 

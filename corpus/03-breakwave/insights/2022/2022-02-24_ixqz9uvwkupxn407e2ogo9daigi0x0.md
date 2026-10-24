@@ -33,7 +33,7 @@ Despite the rising tensions, the trade flow from ports in the Black Sea remains 
 ![Uk](assets/2022-02-24_ixqz9uvwkupxn407e2ogo9daigi0x0_img_uk_a5f89f2d16c0.png)
 
 > **Figure 1: Uk**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-24_ixqz9uvwkupxn407e2ogo9daigi0x0_img_uk_a5f89f2d16c0.png)
+> [Local Asset](assets/2022-02-24_ixqz9uvwkupxn407e2ogo9daigi0x0_img_uk_a5f89f2d16c0.png)
 
 How disruptive any sanctions may become is also a function of the Chinese reaction. A continued, or even increased, flow of Russian exports to China would blunt some of the effects of the trade sanctions. However, if China is seen to help Russia circumvent any sanctions, it could face its own trade restrictions. Given the economic headwinds the country is currently facing and its dependence on uninterrupted imports and exports, overt support may be one step too far for the leadership in Beijing. For China, recognition of the breakaway regions may also prove problematic, as it would complicate its policy towards Taiwan and embolden its adversaries.
 

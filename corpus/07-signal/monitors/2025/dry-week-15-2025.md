@@ -29,7 +29,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/dry/dynamic/drybulkflows-Downloadable**  
 > *https://app.signalocean.com/dry/dynamic/drybulkflows-downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-15-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67f635afb1de1996f925833d_AD_4nXfrZTZD7fK6bw1oZvtDwn050IuDPnKIbqJ0BCovP_PSgv02bIwlHeeGdbfsI_Bt8FxcgCZZvcYzalcCJtQSC-FX_Q2KKIiNGo28vHy_TO5gmShZRxvpxTtP5JwRnzMgfkLKt9485g.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-15-2025) | [Local Asset](../../images/67f635afb1de1996f925833d_AD_4nXfrZTZD7fK6bw1oZvtDwn050IuDPnKIbqJ0BCovP_PSgv02bIwlHeeGdbfsI_Bt8FxcgCZZvcYzalcCJtQSC-FX_Q2KKIiNGo28vHy_TO5gmShZRxvpxTtP5JwRnzMgfkLKt9485g.png)
 
 
 ## Escalation of U.s.-China Trade Tensions: Implications for Dry Bulk Freight

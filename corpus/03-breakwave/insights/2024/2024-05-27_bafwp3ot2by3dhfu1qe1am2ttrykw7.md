@@ -39,7 +39,7 @@ Amidst challenging conditions in the steel and property markets, Chinese authori
 ![Στιγμιότυπο Οθόνης 2024 05 27 111839](assets/2024-05-27_bafwp3ot2by3dhfu1qe1am2ttrykw7_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7023690804c1.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 27 111839**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-27_bafwp3ot2by3dhfu1qe1am2ttrykw7_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7023690804c1.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-05-27_bafwp3ot2by3dhfu1qe1am2ttrykw7_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7023690804c1.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

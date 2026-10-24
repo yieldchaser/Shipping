@@ -33,7 +33,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/tanker/dynamic/timeseriestankerdownloadable**  
 > *https://app.signalocean.com/tanker/dynamic/timeseries_tanker_downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-32-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b4df072fcb862ff4a11df8_66b4deda271ee7f3340eaef0_tanker%20chart%20of%20the%20week.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-32-2024) | [Local Asset](../../images/66b4df072fcb862ff4a11df8_66b4deda271ee7f3340eaef0_tanker%20chart%20of%20the%20week.avif)
 
 This week's chart analysis revisits the growth in tonne days for dirty tankers across various vessel size categories. The left chart reveals that since May, the growth in tonne days for dirty cargoes has been progressing at a noticeably slower pace compared to the same period last year. This trend has become more pronounced as we move into August, where we observe a persistent decline in tonne days.
 

@@ -53,7 +53,7 @@ Coal remains an important component of dry bulk trade, but its role is evolving.
 ![Στιγμιότυπο Οθόνης 2026 02 11 133906](assets/2026-02-11_coal-and-the-freight-market-policy-direction-vs-market-reality_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e973d5989bc5.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 02 11 133906**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-11_coal-and-the-freight-market-policy-direction-vs-market-reality_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e973d5989bc5.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-02-11_coal-and-the-freight-market-policy-direction-vs-market-reality_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e973d5989bc5.png)
 
 Data Source:[Allied](https://www.allied-shipbroking.gr/)
 

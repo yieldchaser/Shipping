@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-03-16_chinese-economy-an-un
 ![Unsplash Image C1ebdhnxmdk](assets/2021-03-16_chinese-economy-an-uneven-recovery-highlights-the-need-to-support-the-domestic-d_img_unsplash-image-c1ebdhnxmdk_ce7921162b84.jpg)
 
 > **Figure 1: Unsplash Image C1ebdhnxmdk**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-16_chinese-economy-an-uneven-recovery-highlights-the-need-to-support-the-domestic-d_img_unsplash-image-c1ebdhnxmdk_ce7921162b84.jpg)
+> [Local Asset](assets/2021-03-16_chinese-economy-an-uneven-recovery-highlights-the-need-to-support-the-domestic-d_img_unsplash-image-c1ebdhnxmdk_ce7921162b84.jpg)
 
 Hot on the heels of Chinese Premier Li Keqiang’s speech, announcing that the country was targeting a fairly modest growth in excess of six per cent for the year, the latest economic data released on Monday suggest that large parts of the economy remain in rude health. Retail sales and industrial production grew by around 34 and 35 per cent respectively during the first two months of the year, beating the economists’ expectations by a considerable margin. While the year-on-year growth numbers were distorted by the weak comparison base from a coronavirus-hit 2020, the fact that they were better than expected signals that the economy has continued to gain momentum in the first two months of 2021.
 
@@ -34,7 +34,7 @@ However, unlike the data for industrial production and retail sales, investments
 ![Unsplash Image 5h Dmux 7re](assets/2021-03-16_chinese-economy-an-uneven-recovery-highlights-the-need-to-support-the-domestic-d_img_unsplash-image-5h-dmux-7re_b45c71c85b5e.jpg)
 
 > **Figure 2: Unsplash Image 5h Dmux 7re**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-16_chinese-economy-an-uneven-recovery-highlights-the-need-to-support-the-domestic-d_img_unsplash-image-5h-dmux-7re_b45c71c85b5e.jpg)
+> [Local Asset](assets/2021-03-16_chinese-economy-an-uneven-recovery-highlights-the-need-to-support-the-domestic-d_img_unsplash-image-5h-dmux-7re_b45c71c85b5e.jpg)
 
 The mixed messages from the latest data release further cement the perception established last year of a strong, yet uneven, economic recovery in China. The continued strength of the export industry, as illustrated by the large number of container vessels at anchor off the Californian coast due to congestion in the ports, is driving the manufacturing output to new heights. At the same time, the weaker-than-expected investment data indicate that manufacturers are still cautious about the continued strength of the export-driven growth. The rollout of vaccines across the world could potentially be the deciding factor, as it is widely expected to lead to a shift in consumption from goods to services. The unbalanced picture painted by the data also led the National Bureau of Statistics to highlight their view that the economic recovery is far from being on solid footing, with many risks remaining.
 

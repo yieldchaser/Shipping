@@ -32,7 +32,7 @@ As storm clouds gather, policymakers need to keep a steady hand, according to th
 ![1 (2)](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_128229_a466352fe19a.png)
 
 > **Figure 1: 1 (2)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_128229_a466352fe19a.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_128229_a466352fe19a.png)
 
 In reference to the two pillars of the dry bulk market, a weaker than expected output was projected for both China and India. In particular, growth in China weakened significantly since the start of 2022 and was subject to downward revision since the April 2022 lockdowns in Shanghai and elsewhere. Downside risks to China’s growth recovery dominated IMF's outlook, with signs of a significant slowdown in the real estate sector. Given that this sector constitutes circa one-fifth of GDP in China, the Fund downgraded China's growth to 3.3 percent in 2022 – the lowest level in more than four decades – and to 4.6 percent in 2023. The outlook for India was for growth of 6.8 percent in 2022 – a 0.6 percentage point downgrade since the July forecast, reflecting a weaker-than-expected outturn in the second quarter and more subdued external demand.
 
@@ -43,7 +43,7 @@ In these challenging times, Chinese President Xi Jinping took the stage to start
 ![1 (3)](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_128329_05a2c8f5298c.png)
 
 > **Figure 2: 1 (3)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_128329_05a2c8f5298c.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_128329_05a2c8f5298c.png)
 
 In the forty-second trading week, the spot market was trading within a very narrow range whilst China's third quarter GDP data were surprisingly not available on the official website. In fact, the only update from the government’s statistics department came to clarify that the renewed data would be delayed, without providing further explanation or comment. Away from the centre stage of the 20th National Congress of the Communist Party of China, a press conference on Monday addressed the delicate question of economic growth. “The economy rebounded significantly in the third quarter,” said Zhao Chenxin, a senior official at the National Development and Reform Commission. On the other hand, economists had forecast growth of just 3.3 percent – far below its 5.5 percent target for the year. Whilst a divergence of views between most of the economists and Zhao Chenxin became apparent, the latest official data published earlier this month indicated an economy trending sideways. In September, the Purchasing Manager Index (PMI) of China's manufacturing industry was 50.1 percent – up by 0.7 percentage points from the previous month – entering marginally into the expansion range.
 
@@ -56,7 +56,7 @@ As far as the dry bulk commodities are concerned, China imported 99.71 million t
 ![1 (4)](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_128429_2a92931c4e05.png)
 
 > **Figure 3: 1 (4)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_128429_2a92931c4e05.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_128429_2a92931c4e05.png)
 
 Whilst Chinese economy seemed to have built a certain momentum in the third quarter, albeit not comparable to those of recent past, all eyes were on the reverberations of the 20th National Congress of the Chinese Communist Party. Since the meeting was mostly about personnel changes, the absence of much-anticipated growthsupporting measures echoed across most markets. Hong Kong and mainland China stock markets fell sharply while other major AsiaPacific markets rose. Iron ore extended its rout to the lowest level in more than two years on mounting concerns over global steel demand. In tandem, Baltic indices were also in the red in the last trading week of October, losing more steam within the typically sturdy fourth quarter. The forty-fourth week was one of those uninspiring periods taking place in the conventionally seasonal weakest first quarter of every trading year.
 
@@ -65,7 +65,7 @@ In fact, with all sub-indices being in the red, Baltic Dry Index concluded on th
 ![1 (5)](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_128529_5ed0e176c87d.png)
 
 > **Figure 4: 1 (5)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_128529_5ed0e176c87d.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_128529_5ed0e176c87d.png)
 
 Further challenging an already sputtering global economy, the Federal Reserve raised the target range for the federal funds rate by another 75bps in early November to 3.75-4 percent. Being in line with market forecasts, the aforementioned rise marked a sixth consecutive rate hike and the fourth straight three-quarter point supersized increase, pushing borrowing costs to a fresh high since 2008. Policymakers anticipated that ongoing increases in the target range would be appropriate in order to attain a stance of monetary policy that is sufficiently restrictive to return inflation to 2 percent over time. Additionally, Federal Reserve chair Jay Powell warned interest rates would peak at a higher level than initially expected even as he held out the possibility of the Federal Reserve slowing the pace of its campaign to tighten monetary policy. The comments of Jerome Powell that it was "very premature" to be thinking about pausing its rate hikes sent stocks lower as US bond yields and the US dollar rose. The Dow Jones Industrial Average slid 505.44 points, or 1.55 percent, to settle at 32,147.76. The S&P 500 dropped by 2.5 percent to close at 3,759.69, whilst the Nasdaq Composite took a 3.36 percent dive to finish at 10,524.80. While inflation remained high, stocks began to rally in October in the hope that the Federal Reserve would start to pivot away from aggressive interest-rate hiking in December. However, the latest developments on the monetary policy front had a negative bearing on November’s opening.
 
@@ -80,7 +80,7 @@ The headline economic news in mid-November though was neither related to the COP
 ![1 (6)](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_128629_b0b09946d0d4.png)
 
 > **Figure 5: 1 (6)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_128629_b0b09946d0d4.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_128629_b0b09946d0d4.png)
 
 Nevertheless, the week was not over yet. On Friday November 11, Beijing eased some of its stringent Covid-19 rules, shortening quarantines by two days for close contacts and for inbound travellers and removing a penalty for airlines for bringing in too many cases. Additionally, China would stop trying to identify “secondary” contacts. Markets were cheered by the loosening of the curbs, albeit many sources stressing that these measures were only incremental and reopening possibly remained way off. Soever, oil prices reported strong gains in the last trading days of the week, on rising hopes of improved economic activity and demand in the world’s top crude importer. In tandem, industrial metal prices jumped, following a rise the day before in anticipation of a dovish pivot by the Fed. A weaker US dollar also supported commodity prices as it makes them relatively cheaper for buyers holding other currencies. Whilst short-term positive emotional factors are dominating most of the markets, dry bulk shipping seems to take small notice thereof.
 
@@ -93,7 +93,7 @@ Setting aside the stressed real estate sector, the world’s second largest econ
 ![1 (7)](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_128729_22c4470a3fee.png)
 
 > **Figure 6: 1 (7)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_128729_22c4470a3fee.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_128729_22c4470a3fee.png)
 
 Against this backdrop, Asian markets were in cautious mood during the third week of November, with investors preoccupied by the gloomy global economic picture and Covid’s persistence in China. The Nikkei ended the forty-sixth week marginally lower, reversing small gains from earlier. Hong Kong stocks dropped off amid more losses for Chinese property developers. China stocks trended mostly sideways, tracking the cautious mood in regional markets amid concerns of aggressive US tightening and domestic Covid outbreaks. In commodity markets, oil futures regained some ground but still nursed steep losses for the week on worries about Chinese demand and tighter monetary policy in the US. In sharp contrast, iron ore futures advanced and were set for their third straight weekly rise.
 
@@ -110,21 +110,21 @@ By contrast, infrastructure investment remained strong (+8.7 percent YTD), refle
 ![1 (8)](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_128829_7938d3575c4f.png)
 
 > **Figure 7: 1 (8)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_128829_7938d3575c4f.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_128829_7938d3575c4f.png)
 
 December started with the World Trade Organisation expressing concerns that trade growth is likely to decelerate in the closing months of 2022 and into 2023, according to the latest WTO Goods Trade Barometer. The latest reading of 96.2 was below both the baseline value for the index and the previous reading of 100.0, reflecting cooling demand for traded goods. The drop in the goods barometer was consistent with the WTO's trade forecast of early October, which predicted merchandise trade volume growth of 3.5 percent in 2022 and just 1.0 percent in 2023. Following an expansion of 4.8 percent in the first quarter, merchandise trade posted a 4.7 percent year-on-year increase in the second quarter. For the second half of 2022 materially lower pace of circa 2.4 percent is needed in order for the forecast to be realised.
 
 ![1 (9)](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_128929_3aab4fa222c1.png)
 
 > **Figure 8: 1 (9)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_128929_3aab4fa222c1.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_128929_3aab4fa222c1.png)
 
 This downward trend of the merchandise trade volume growth became apparent in both the dry bulk and container shipping markets. During the second half of the current trading year, the container market remained on the path towards “normalisation”, according to BIMCO. The Shanghai Containerized Freight Index (SCFI), which represents spot freight rates for loading in Shanghai, fell another 49 percent during the previous couple of months and lay 74 percent below its peak of early January 2022. The index for average freight rates for all containers loading in China, the China Containerized Freight Index (CCFI) continued to fall, balancing 40 percent lower than two and a half months ago, and 54 percent lower than at its peak reached in February 2022. The SCFI was back to levels last seen in September 2020. In parallel, the time charter rates and second-hand prices for vessels followed the freight rates downwards. Compared to two and a half months ago, average time charter rates and average second-hand prices were down 64 percent and 33 percent respectively, as quoted by the key shipping industry body BIMCO. In a similar vein, Baltic Dry Indices too held their course steady towards “normalisation”, reverting closer to their trailing decade average values. In particular, the general Baltic Dry Index ended the first Friday of December at 1324 points, tick less than the respective average value of the 2016-2020 period and tick above the 1301 points that the leading dry bulk index averaged in the second day of December during the five-year period ended in December 2015.
 
 ![1 (10)](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_1281029_84fa48f084d6.png)
 
 > **Figure 9: 1 (10)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_1281029_84fa48f084d6.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_1281029_84fa48f084d6.png)
 
 Just before the closing of the first trading week of December, stock exchanges were looking for answers to the US jobs data at the same time as dry bulk was focusing on China’s mounting bills of the stringent zero-Covid policy. In reference to the former, US stock indices moved south, as higher-than-expected job additions in November reignited investor concerns about the Federal Reserve continuing on its path of aggressive monetary policy tightening. On the other hand, Baltic indices were idly watching China’s attempt to gradually ease zero-Covid policy, awaiting for a substantiation to a broader extent of these measures to earn their attention.
 
@@ -133,7 +133,7 @@ November was a rather uninspiring month for the world's second largest economy, 
 ![1 (11)](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_1281129_6ee894d81bb6.png)
 
 > **Figure 10: 1 (11)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_1281129_6ee894d81bb6.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_1281129_6ee894d81bb6.png)
 
 In the dry bulk spectrum, a rather mixed picture came to light. On the one hand, on a monthly basis, iron ore and coal imports reported strong gains. On the other hand, they were still remaining considerably lower year-on-year. Particularly, Chinese customs cleared 98.85 million tonnes of iron ore during the previous month, up from an October reading of 94.98 million. However, November arrivals were 7.8 percent lower than the same month in 2021 and year-to-date imports were 2.1 percent down. Symmetrically, coal imports also looked strong in November, rising to 32.3 million tonnes from October's 29.18 million. However, total imports for the first 11 months of the year dropped 10.1 percent compared to the same period last year. Soybean November imports fell 14 percent on the year to 7.35 million tonnes. After slower loading of shipments and longer customs clearance time, the softer number followed October's plunge in arrivals to just 4.1 million tonnes – the lowest level since 2014. For the first 11 months of the year, imports of the protein-rich beans were down 8.1 percent at 80.53 million tonnes.
 
@@ -144,21 +144,21 @@ While the outlook for global trade remains uncertain, negative factors appear to
 ![1 (12)](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_1281229_58f09e8c6902.png)
 
 > **Figure 11: 1 (12)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_1281229_58f09e8c6902.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_1281229_58f09e8c6902.png)
 
 As far as the maritime trade is concerned, UNCTAD projects it will lose further steam, with growth slowing to 1.4 percent in 2022. Although freight and hire rates have fallen since mid-2022, they are still above pre-Covid-19 levels. Market levels remain high for oil and natural gas tanker cargo due to the ongoing energy crisis. In an increasingly unpredictable operating environment, future shipping costs will likely be higher and more volatile than in the past. For the period 2023-2027, maritime trade is expected to grow at 2.1 percent annually – considerably slower than the 3.3 percent average recorded during the past three decades.
 
 ![1 (13)](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_1281329_27a27b6714b3.png)
 
 > **Figure 12: 1 (13)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_1281329_27a27b6714b3.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_1281329_27a27b6714b3.png)
 
 In a similar vein, Dry Bulk Indices kept trading in a narrow range, bracing themselves for what the ill-famed first quarter will bring.
 
 ![1 (14)](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_1281429_4d1af86281a2.png)
 
 > **Figure 13: 1 (14)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_1281429_4d1af86281a2.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-30_doric-dry-bulk-review-2022-part-33_img_1281429_4d1af86281a2.png)
 
 ## Curtain Falls on 2022
 

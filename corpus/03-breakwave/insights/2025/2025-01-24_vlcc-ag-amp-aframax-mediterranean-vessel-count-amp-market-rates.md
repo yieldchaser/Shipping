@@ -33,7 +33,7 @@ Week 04, January 24, 2025
 ![Στιγμιότυπο Οθόνης 2025 01 24 180410](assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1aeae24d0f31.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 01 24 180410**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/-up-crude-supplies-2025-01-24-/2qvd9b/463983795/h/Uj-zRmMZ9oPmvBA47BZ7YNFSWf1ZOQ0AgYDgXNnoqCA) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1aeae24d0f31.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/-up-crude-supplies-2025-01-24-/2qvd9b/463983795/h/Uj-zRmMZ9oPmvBA47BZ7YNFSWf1ZOQ0AgYDgXNnoqCA) | [Local Asset](assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1aeae24d0f31.png)
 
 The fourth week of February brought a downward correction in the sharp rise of VLCC AG-China rates, which had surged following the announcement of U.S. sanctions on Russian crude oil destined for China and other Asian markets. The geopolitical shock once again played a critical role in driving volatility in dirty tanker freight rates, giving a temporary boost to a market that showed weak signs at the start of the year. While VLCC AG-China rates have declined, bullish sentiment remains stronger compared to the lows of January. However, the increased vessel count indicates robust availability, which may temper expectations of sustained firmness in the market.
 
@@ -46,7 +46,7 @@ By the end of the week,[oil prices](https://go.signalocean.com/e/983831/-up-crud
 ![Στιγμιότυπο Οθόνης 2025 01 24 180540](assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7bd9e651f447.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 01 24 180540**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7bd9e651f447.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7bd9e651f447.png)
 
 Sentiment in the dirty freight market was mixed as the month drew to a close. While the bullish sentiment on the VLCC MEG/China route experienced a downward correction, spikes in the Aframax Mediterranean segment continued.
 
@@ -56,28 +56,28 @@ Sentiment in the dirty freight market was mixed as the month drew to a close. Wh
 ![Στιγμιότυπο Οθόνης 2025 01 24 180553](assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7f2ba286a35b.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 01 24 180553**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7f2ba286a35b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7f2ba286a35b.png)
 
 - **LR2**AG freight rates climbed to approximately WS 140, marking a 40% increase month-on-month. However, they remain 60% lower compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2025 01 24 180603](assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c7c7e3f31b4.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 01 24 180603**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c7c7e3f31b4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c7c7e3f31b4.png)
 
 - **Panamax**Carib-to-USG rates have remained relatively stable throughout January recording slight downward corrections, hovering around WS 125. Recent levels reflect a 60% decrease compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2025 01 24 180614](assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32aaa0d80bc8.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 01 24 180614**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32aaa0d80bc8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32aaa0d80bc8.png)
 
 - **MR1**rates for shipments from the Baltic to the Continent increased to 200 WS, representing a 5% monthly rise but a 44% decline compared to the same week last year. Meanwhile,**MR2**rates for shipments from the Continent to the US Atlantic Coast (USAC) rose significantly to WS 185, reflecting a 48% monthly increase. In contrast, MR2 rates on the US Gulf to Continent route remained weaker at WS 115, marking a 30% decrease compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2025 01 24 180954](assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_153f26c0a224.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 01 24 180954**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_153f26c0a224.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_153f26c0a224.png)
 
 The supply of crude tankers has shown a downward trend, falling below the annual average for key routes such as the VLCC AG-Far East, Aframax Mediterranean, and Baltic. This decline highlights weaker tonnage availability in these regions, potentially impacting rates. However, it remains uncertain whether this trend will persist into February, as market dynamics and seasonal factors could influence the supply landscape in the coming weeks.
 
@@ -89,12 +89,12 @@ The supply of crude tankers has shown a downward trend, falling below the annual
 ![Στιγμιότυπο Οθόνης 2025 01 24 181043](assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c46086e2b49.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 01 24 181043**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c46086e2b49.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c46086e2b49.png)
 
 ![Στιγμιότυπο Οθόνης 2025 01 24 181054](assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ecd23ffd0ad3.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2025 01 24 181054**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ecd23ffd0ad3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ecd23ffd0ad3.png)
 
 - **Clean LR2 AG Jubail**: The end-of-month trend has shown an upward trajectory, though it remains slightly below the annual average of 11.
 
@@ -103,14 +103,14 @@ The supply of crude tankers has shown a downward trend, falling below the annual
 ![Στιγμιότυπο Οθόνης 2025 01 24 181149](assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_897b0e758a03.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 01 24 181149**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_897b0e758a03.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_897b0e758a03.png)
 
 - **Dirty**tonne days: The VLCC segment has experienced a significant decline in dirty tonne-day growth throughout the month, reaching its lowest levels since January of last year. Meanwhile, the Suezmax and Aframax segments have shown signs of an upward correction; however, their growth rates remain below the annual average.
 
 ![Στιγμιότυπο Οθόνης 2025 01 24 181201](assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3abf48cc8585.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 01 24 181201**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3abf48cc8585.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-01-24_vlcc-ag-amp-aframax-mediterranean-vessel-count-amp-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3abf48cc8585.png)
 
 - **Panamax**tonne days: The growth rate exhibited an almost steady trend in the last two weeks of January; at levels hovered nearly the annual average. The recent growth rate is now notably higher than the record low seen at week 40 in the previous year.
 

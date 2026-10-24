@@ -26,7 +26,7 @@ A risk-on tone helped boost sentiment across commodity markets, aided by supply 
 ![1686866433654](assets/2023-06-16_sentiment-supported-by-china-stimulus-talk_img_1686866433654_70469a7d726a.png)
 
 > **Figure 1: 1686866433654**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-16_sentiment-supported-by-china-stimulus-talk_img_1686866433654_70469a7d726a.png)
+> [Local Asset](assets/2023-06-16_sentiment-supported-by-china-stimulus-talk_img_1686866433654_70469a7d726a.png)
 
 Crude oil rallied amid prospects of stronger demand in China. The issue of larger than normal crude oil import quotas for domestic refiners boosted sentiment. Using data from China Customs and NBS, implied demand in May rose by 17.1% y/y to 14.58mb/d. This was supported by the prospect of further stimulus measures, which helped offset concerns that further rate hikes in the US would hurt demand. For the moment, higher interest rates don’t appear to be impacting US drivers. US gasoline demand climbed to 9.24mb/d last week, its highest level since December 2021. Significantly lower pump prices compared with a year ago have stoked demand in the US.
 

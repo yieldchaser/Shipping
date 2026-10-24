@@ -39,12 +39,12 @@ OFAC has also sanctioned 64 Suezmaxes; 174 Aframax/LR2s; 48 Panamax/LR1s; 94 MRs
 ![663f Image 0 1792085396183](assets/2026-10-16_would-ofac-sanctions-relief-cool-freight-costs_img_663f-image-0-1792085396183_32d43d1bbb0f.png)
 
 > **Figure 1: 663f Image 0 1792085396183**  
-> [Local Asset](file:///c:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-16_would-ofac-sanctions-relief-cool-freight-costs_img_663f-image-0-1792085396183_32d43d1bbb0f.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-16_would-ofac-sanctions-relief-cool-freight-costs_img_663f-image-0-1792085396183_32d43d1bbb0f.png)
 
 ![C2d3 Image 1 1792085404797](assets/2026-10-16_would-ofac-sanctions-relief-cool-freight-costs_img_c2d3-image-1-1792085404797_b79ed10c0dff.png)
 
 > **Figure 2: C2d3 Image 1 1792085404797**  
-> [Local Asset](file:///c:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-16_would-ofac-sanctions-relief-cool-freight-costs_img_c2d3-image-1-1792085404797_b79ed10c0dff.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-16_would-ofac-sanctions-relief-cool-freight-costs_img_c2d3-image-1-1792085404797_b79ed10c0dff.png)
 
 ---
 

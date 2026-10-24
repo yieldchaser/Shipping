@@ -37,7 +37,7 @@ tags:
 ![Key Takeaway](../../images/6a1d5b95dfe69a6480ddab13_48493305.png)
 
 > **Figure 1: Key Takeaway**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-23-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a1d5b95dfe69a6480ddab13_48493305.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-23-2026) | [Local Asset](../../images/6a1d5b95dfe69a6480ddab13_48493305.png)
 
 
 - C3 and C5 rates remain supported by resilient Chinese iron ore imports despite weak domestic steel production.
@@ -55,7 +55,7 @@ All data and commentary reflect market conditions as of [Friday, 29 May 2026], u
 
 > **Figure 1: Real-Time Capesize Spot Price Summary and BCI Seasonal Performance as of May 29, 2026**  
 > *Figure 1: Real-time Capesize Spot Price Summary and BCI Seasonal Performance as of May 29, 2026 (Source: [Signal Ocean Platform] Market Prices Dashboard).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-23-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a1d5b95dfe69a6480ddab10_a43a6e44.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-23-2026) | [Local Asset](../../images/6a1d5b95dfe69a6480ddab10_a43a6e44.png)
 
 The Baltic Capesize Index (BCI) closed at 5,503 points in the final week of May, while the Capesize Timecharter Average (C5TC) stands at $46k/day, reflecting a year-on-year increase of 170%. At the route level, the C3 route (Tubarao to Qingdao) is assessed at $38/MT, up 57% quarter-on-quarter and 90% year-on-year, supported by firm Brazil-China iron ore volumes and tighter tonnage availability in the Atlantic basin. The C5 route (West Australia to Qingdao) is currently assessed at $16.4/MT, also up 56% quarter-on-quarter and 97% year-on-year, reflecting stronger Pacific market conditions compared to the same period last year.
 
@@ -69,7 +69,7 @@ This year, a new dynamic driver has begun to show early signs in India-bound car
 
 > **Figure 2: Cargo Flows Trend Analysis Iron Ore to India**  
 > *Figure 2: Cargo Flows Trend Analysis Iron Ore to India (Source: [Signal Ocean Platform] Dry Bulk Flows Dashboard).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-23-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a1d5b95dfe69a6480ddab16_5e2a8d3c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-23-2026) | [Local Asset](../../images/6a1d5b95dfe69a6480ddab16_5e2a8d3c.png)
 
 
 - **Record Q1 Volume Peak** (5.0M Tonnes): Dry bulk flow data for Q1 2026 indicate the highest quarterly cargo volume recorded across the three-year observation period, underscoring a marked acceleration in trading activity.
@@ -136,7 +136,7 @@ Geopolitical tensions in the Middle East also contributed to shifting procuremen
 
 > **Figure 3: Tonne Miles Index View**  
 > *Figure 3: Tonne Miles Index View (Source: [Signal Ocean Platform] Tonne Charts Dashboard).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-23-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a1d5b95dfe69a6480ddab1c_312f9a63.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-23-2026) | [Local Asset](../../images/6a1d5b95dfe69a6480ddab1c_312f9a63.png)
 
 Metrics Description: [Index View](https://app.signalocean.com/dry/dynamic/timeseries\_dry)(Base 100) by total Tonne Miles over the selected period. This facilitates relative performance comparisons between segments of different sizes (e.g., comparing the growth rate of Supramax vs Capesize)
 
@@ -148,7 +148,7 @@ Metrics Description: [Index View](https://app.signalocean.com/dry/dynamic/timese
 
 > **Figure 4: Tonne Miles**  
 > *Figure 4: Tonne Miles (Source: [Signal Ocean Platform] Tonne Charts Dashboard).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-23-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a1d5b95dfe69a6480ddab19_8d1c95cb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-23-2026) | [Local Asset](../../images/6a1d5b95dfe69a6480ddab19_8d1c95cb.png)
 
 For the latest updates and insights, make sure to visit the [Signal Ocean Newsroom](https://www.thesignalgroup.com/newsroom) page & [subscribe to weekly reports](http://www.thesignalgroup.com/subscribe). Click [here to request a demo](https://www.thesignalgroup.com/request-demo?utm\_source=oceanhome&utm\_medium=website&utm\_campaign=demo). Click here to see the[previous dry bulk weekly](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-20-2026) report.
 

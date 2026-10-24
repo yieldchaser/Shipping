@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-01-12_2026-opening-market-c
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-12_2026-opening-market-commentary_img_unsplash-image-kuxraybuwfg_9a32986b6d97.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](assets/2026-01-12_2026-opening-market-commentary_img_unsplash-image-kuxraybuwfg_9a32986b6d97.jpg)
 
 2026 opens with a reminder that “seaborne trade” is not just demand and fleet numbers. It is politics, enforcement and the simple ability of a ship to load and sail. Venezuela is the clearest example. In December, Venezuelan crude output averaged roughly 963,000 b/d, down about 158,000 b/d month-on-month, while exports slid to around 17.6 million barrels versus 27.2 million in November as tankers struggled to access and depart Venezuelan waters amid tougher US enforcement.
 

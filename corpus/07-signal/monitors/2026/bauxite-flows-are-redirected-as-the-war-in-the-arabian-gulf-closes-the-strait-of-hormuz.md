@@ -40,7 +40,7 @@ India has emerged as a key destination for bauxite as risks in the Arabian Gulf 
 
 > **Figure 1: Source: Bauxite Carrying Capesize Tonne-Miles From Signal Ocean Https://app.signalocean.com/dry/dynamic/timeseriesdry**  
 > *Source: Bauxite carrying Capesize tonne-miles from Signal Ocean https://app.signalocean.com/dry/dynamic/timeseries_dry*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/bauxite-flows-are-redirected-as-the-war-in-the-arabian-gulf-closes-the-strait-of-hormuz) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69ba8976175a3690b66ae17d_Screenshot 2026-03-18 at 10.40.23.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/bauxite-flows-are-redirected-as-the-war-in-the-arabian-gulf-closes-the-strait-of-hormuz) | [Local Asset](../../images/69ba8976175a3690b66ae17d_Screenshot 2026-03-18 at 10.40.23.png)
 
 At the start of 2026, seaborne bauxite flows reached 22 mt in February, up 22% from the same period last year. China remains the largest importer of seaborne bauxite, with Signal Ocean tracking a 19% y/y increase in February.
 
@@ -55,7 +55,7 @@ Yet, with the war in Iran and the risks of transiting the Strait of Hormuz, many
 
 > **Figure 2: Source: Seaborne Bauxite Flow Destinations in February 2026 From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Seaborne bauxite flow destinations in February 2026 from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/bauxite-flows-are-redirected-as-the-war-in-the-arabian-gulf-closes-the-strait-of-hormuz) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69ba898f16458c1082324324_Screenshot 2026-03-18 at 10.40.31.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/bauxite-flows-are-redirected-as-the-war-in-the-arabian-gulf-closes-the-strait-of-hormuz) | [Local Asset](../../images/69ba898f16458c1082324324_Screenshot 2026-03-18 at 10.40.31.png)
 
 Current bauxite prices have declined by around 50% since January 2025, and with buyers from the Arabian Gulf unlikely to be buying in the market, prices will continue to face some pressure. As a result, we are seeing China increase its market share of imports, moving to over 91% in March 2026 so far. This price slump has not gone unnoticed, with the Guinean government looking at curbing production or strictly enforcing mining companies to keep outputs within their licensed tonnage. This would impact capesize demand.
 
@@ -66,7 +66,7 @@ Bauxite flows to India in March so far have softened, likely a result of slower 
 
 > **Figure 3: Source: India Alumina Flows in February and March (at-Time-of-Writing) 2026 From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: India alumina flows in February and March (at-time-of-writing) 2026 from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/bauxite-flows-are-redirected-as-the-war-in-the-arabian-gulf-closes-the-strait-of-hormuz) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69ba89c1cea156ccc62505c1_2d4853bd.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/bauxite-flows-are-redirected-as-the-war-in-the-arabian-gulf-closes-the-strait-of-hormuz) | [Local Asset](../../images/69ba89c1cea156ccc62505c1_2d4853bd.png)
 
 
 ## The War in Iran Has Shifted Bauxite Flows

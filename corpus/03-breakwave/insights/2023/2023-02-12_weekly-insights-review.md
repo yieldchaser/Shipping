@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-02-12_weekly-insights-revie
 ![Market Chart 1](assets/2023-02-12_weekly-insights-review_img_unnamed282429_602903fdbca0.jpg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/6/shipping-decarbonization-weekly-insights) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-12_weekly-insights-review_img_unnamed282429_602903fdbca0.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/6/shipping-decarbonization-weekly-insights) | [Local Asset](assets/2023-02-12_weekly-insights-review_img_unnamed282429_602903fdbca0.jpg)
 
 ## Shipping Decarbonization Weekly Insights
 
@@ -38,7 +38,7 @@ The U.S. Department of Transportation's Federal Transit Administration (FTA) has
 ![Unsplash Image Swoxpjw35j0](assets/2023-02-12_weekly-insights-review_img_unsplash-image-swoxpjw35j0_63909df6afe1.jpg)
 
 > **Figure 2: Unsplash Image Swoxpjw35j0**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/6/doric-weekly-market-insight) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-12_weekly-insights-review_img_unsplash-image-swoxpjw35j0_63909df6afe1.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/6/doric-weekly-market-insight) | [Local Asset](assets/2023-02-12_weekly-insights-review_img_unsplash-image-swoxpjw35j0_63909df6afe1.jpg)
 
 ## Doric Weekly Market Insight
 
@@ -57,7 +57,7 @@ Equity and bond markets continue to rally, with the FTSE 100 hitting all-time hi
 ![Unsplash Image Vrskruezsdy](assets/2023-02-12_weekly-insights-review_img_unsplash-image-vrskruezsdy_f83b148edbac.jpg)
 
 > **Figure 3: Unsplash Image Vrskruezsdy**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/7/the-big-picture-panamax-market) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-12_weekly-insights-review_img_unsplash-image-vrskruezsdy_f83b148edbac.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/7/the-big-picture-panamax-market) | [Local Asset](assets/2023-02-12_weekly-insights-review_img_unsplash-image-vrskruezsdy_f83b148edbac.jpg)
 
 ## Braemar Weekly Dry Bulk Report
 
@@ -69,7 +69,7 @@ The Baltic Panamax index time-charter equivalent declined by $368/day today, pri
 ![Market Chart 4](assets/2023-02-12_weekly-insights-review_img_unnamed282529_7c559de52eff.jpg)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/9/signal-dry-bulk-weekly-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-12_weekly-insights-review_img_unnamed282529_7c559de52eff.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/9/signal-dry-bulk-weekly-report) | [Local Asset](assets/2023-02-12_weekly-insights-review_img_unnamed282529_7c559de52eff.jpg)
 
 ## Signal Dry Bulk Weekly Report
 
@@ -81,12 +81,12 @@ The first half of February provides a weaker trend in freight rates, while the n
 ![Market Chart 5](assets/2023-02-12_weekly-insights-review_img_unnamed282629_32471d11a645.jpg)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/8/expectations-of-stronger-demand-in-china-pushed-crude-oil-higher) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-12_weekly-insights-review_img_unnamed282629_32471d11a645.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/8/expectations-of-stronger-demand-in-china-pushed-crude-oil-higher) | [Local Asset](assets/2023-02-12_weekly-insights-review_img_unnamed282629_32471d11a645.jpg)
 
 ![Market Chart 6](assets/2023-02-12_weekly-insights-review_img_unnamed282729_4191d008b634.jpg)
 
 > **Figure 6: Market Chart 6**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/8/expectations-of-stronger-demand-in-china-pushed-crude-oil-higher) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-12_weekly-insights-review_img_unnamed282729_4191d008b634.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/8/expectations-of-stronger-demand-in-china-pushed-crude-oil-higher) | [Local Asset](assets/2023-02-12_weekly-insights-review_img_unnamed282729_4191d008b634.jpg)
 
 ## Expectations of Stronger Demand in China Pushed Crude Oil Higher
 
@@ -98,7 +98,7 @@ Signs of improving demand boosted sentiment across commodity markets.
 ![Market Chart 7](assets/2023-02-12_weekly-insights-review_img_unnamed282829_79f9da7c18d0.jpg)
 
 > **Figure 7: Market Chart 7**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/8/chinas-housing-market-has-long-been-slowing) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-12_weekly-insights-review_img_unnamed282829_79f9da7c18d0.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/8/chinas-housing-market-has-long-been-slowing) | [Local Asset](assets/2023-02-12_weekly-insights-review_img_unnamed282829_79f9da7c18d0.jpg)
 
 ## China's Housing Market Has Long Been Slowing
 
@@ -117,12 +117,12 @@ China's commodity stockpiles have been rising. 136.5 million tons of iron ore is
 ![Market Chart 8](assets/2023-02-12_weekly-insights-review_img_unnamed282929_b28825f0f6d8.jpg)
 
 > **Figure 8: Market Chart 8**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/10/crude-oil-falls-despite-ongoing-supply-side-issues) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-12_weekly-insights-review_img_unnamed282929_b28825f0f6d8.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/10/crude-oil-falls-despite-ongoing-supply-side-issues) | [Local Asset](assets/2023-02-12_weekly-insights-review_img_unnamed282929_b28825f0f6d8.jpg)
 
 ![Market Chart 9](assets/2023-02-12_weekly-insights-review_img_unnamed283029_42716e52779b.jpg)
 
 > **Figure 9: Market Chart 9**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/10/crude-oil-falls-despite-ongoing-supply-side-issues) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-12_weekly-insights-review_img_unnamed283029_42716e52779b.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/10/crude-oil-falls-despite-ongoing-supply-side-issues) | [Local Asset](assets/2023-02-12_weekly-insights-review_img_unnamed283029_42716e52779b.jpg)
 
 ## Crude Oil Falls Despite Ongoing Supply Side Issues
 
@@ -134,7 +134,7 @@ Markets were mixed as traders balanced stronger demand in China against the pros
 ![Market Chart 10](assets/2023-02-12_weekly-insights-review_img_unnamed283129_06de34802c81.jpg)
 
 > **Figure 10: Market Chart 10**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/9/shipfix-global-market-update) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-12_weekly-insights-review_img_unnamed283129_06de34802c81.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/9/shipfix-global-market-update) | [Local Asset](assets/2023-02-12_weekly-insights-review_img_unnamed283129_06de34802c81.jpg)
 
 ## Shipfix-Global Market Update
 

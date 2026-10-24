@@ -29,7 +29,7 @@ After an eventful year, which saw iron ore prices gaining around fifty per cent 
 ![Ch1](assets/2022-01-15_iron-ore-prices-benefitting-from-supply-disruptions-and-lower-chinese-inflation_img_ch1_9f9bd71cb256.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-15_iron-ore-prices-benefitting-from-supply-disruptions-and-lower-chinese-inflation_img_ch1_9f9bd71cb256.png)
+> [Local Asset](assets/2022-01-15_iron-ore-prices-benefitting-from-supply-disruptions-and-lower-chinese-inflation_img_ch1_9f9bd71cb256.png)
 
 The recent gains have been driven by expectations of a rebound in demand for the steel-making ingredient, at the same time as supplies have been hampered by the adverse weather conditions affecting the world’s second-largest largest provider of the commodity.
 
@@ -40,7 +40,7 @@ Chinese steel mills have also been restocking iron ore in anticipation of a pick
 ![Ch2](assets/2022-01-15_iron-ore-prices-benefitting-from-supply-disruptions-and-lower-chinese-inflation_img_ch2_1c227a984724.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-15_iron-ore-prices-benefitting-from-supply-disruptions-and-lower-chinese-inflation_img_ch2_1c227a984724.png)
+> [Local Asset](assets/2022-01-15_iron-ore-prices-benefitting-from-supply-disruptions-and-lower-chinese-inflation_img_ch2_1c227a984724.png)
 
 Shrinking iron ore inventories across Chinese ports could herald a recovery in Chinese demand should the expected post-Olympics economic stimulus materialise. However, increasing infection rates in the wake of the arrival of the new Omicron variant could cause disruptions to both demand and port operations. China’s zero-covid policy could also potentially lead to new restrictions in the country’s second-largest iron ore port, Tianjin, as cases have been detected in the city. Any terminal closures would increase waiting times and force vessels to divert to alternative ports, causing a ripple effect of congestion across the region. Hence, reducing tonnage availability and providing some support to freight rates during what is typically the soft patch of the year.
 
@@ -51,21 +51,21 @@ The weather-induced disruptions to the Brazilian iron ore production have result
 ![Ch3](assets/2022-01-15_iron-ore-prices-benefitting-from-supply-disruptions-and-lower-chinese-inflation_img_ch3_ac11e2df2e1b.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-15_iron-ore-prices-benefitting-from-supply-disruptions-and-lower-chinese-inflation_img_ch3_ac11e2df2e1b.png)
+> [Local Asset](assets/2022-01-15_iron-ore-prices-benefitting-from-supply-disruptions-and-lower-chinese-inflation_img_ch3_ac11e2df2e1b.png)
 
 For the world’s largest exporter of iron ore, Australia, the year has started better. Volumes of seaborne exports are marginally ahead of last year’s record. Some 33 million tonnes have left Australia during the first thirteen days of the year, with almost 80 per cent destined for Chinese ports. So far this month, Australia has shipped fifteen per cent more iron ore than the average for the same period in the previous seven years.
 
 ![Ch4](assets/2022-01-15_iron-ore-prices-benefitting-from-supply-disruptions-and-lower-chinese-inflation_img_ch4_19f1ea500b77.png)
 
 > **Figure 4: Ch4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-15_iron-ore-prices-benefitting-from-supply-disruptions-and-lower-chinese-inflation_img_ch4_19f1ea500b77.png)
+> [Local Asset](assets/2022-01-15_iron-ore-prices-benefitting-from-supply-disruptions-and-lower-chinese-inflation_img_ch4_19f1ea500b77.png)
 
 The strong start of the year for Australian iron ore exports has seen inventories in Port Hedland falling following a build-up in the days leading up to Christmas. Levels are now in the low-end of the range seen in recent years. Hence, any disruptions to the iron ore production due to Australia’s rapidly rising Omicron infection levels could see shipments failing to continue to meet previous record levels.
 
 ![Ch5](assets/2022-01-15_iron-ore-prices-benefitting-from-supply-disruptions-and-lower-chinese-inflation_img_ch5_0e22bd9df074.png)
 
 > **Figure 5: Ch5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-15_iron-ore-prices-benefitting-from-supply-disruptions-and-lower-chinese-inflation_img_ch5_0e22bd9df074.png)
+> [Local Asset](assets/2022-01-15_iron-ore-prices-benefitting-from-supply-disruptions-and-lower-chinese-inflation_img_ch5_0e22bd9df074.png)
 
 Iron ore prices may continue to benefit from supply-side disruptions in the near term due to adverse weather and the continued spread of the new Omicron variant of the coronavirus. On the other hand, Seaborne volumes may come under pressure for the same reasons and add to the current seasonal weakness facing the dry bulk shipping sector. However, the increasing likelihood of disruptions in and around many Chinese ports, as the country tries to limit the spread of the new variant, could offset some of the weakness as it lowers the tonnage supply.
 

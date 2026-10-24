@@ -29,7 +29,7 @@ The recent move by the Chinese central bank, which caught many pundits off-guard
 ![Unsplash Image Gy Dn08336u](assets/2021-08-24_china-continues-to-write-its-own-economics-rule-book_img_unsplash-image-gy-dn08336u_986a0f597bc7.jpg)
 
 > **Figure 1: Unsplash Image Gy Dn08336u**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-24_china-continues-to-write-its-own-economics-rule-book_img_unsplash-image-gy-dn08336u_986a0f597bc7.jpg)
+> [Local Asset](assets/2021-08-24_china-continues-to-write-its-own-economics-rule-book_img_unsplash-image-gy-dn08336u_986a0f597bc7.jpg)
 
 It has been an expectation in many quarters that the Chinese economy, which in its current state is a hybrid between market and command economy, would see an increasing influence of market forces as the economy evolves. However, recent developments and policy initiatives suggest that the pendulum may not swing any further towards a capitalist system, as the leadership in Beijing is increasingly seeking to assert authority over the economy. The recent attempts to control the surging commodity prices serve to highlight an increasing unwillingness to submit to the conditions dictated by the markets. Speculators have also been blamed for much of the price increases seen during the first half of the year, with iron ore seen as particularly problematic. The rising iron ore prices also had a political dimension in light of the ongoing diplomatic rift between China and Australia. Despite the deteriorating relationship between the two countries, the imports of Australian iron ore remain vital to the health of the Chinese economy with no viable alternative. Hence, the high prices have seen a considerable wealth transfer from China to Australia, which under the circumstances must have added to Beijing’s irritation regarding the conditions in the commodity markets.
 
@@ -40,7 +40,7 @@ News that China is looking to merge two of its largest steel mills, Ansteel and 
 ![A1](assets/2021-08-24_china-continues-to-write-its-own-economics-rule-book_img_a1_1b14fe53dab4.jpg)
 
 > **Figure 2: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-24_china-continues-to-write-its-own-economics-rule-book_img_a1_1b14fe53dab4.jpg)
+> [Local Asset](assets/2021-08-24_china-continues-to-write-its-own-economics-rule-book_img_a1_1b14fe53dab4.jpg)
 
 There has been much focus on Chinese attempts to limit surging demand for many commodities in recent months, most notably iron ore. However, there is also a degree of contradiction in the policies as authorities are increasingly eager to support the flagging domestic economy. On one hand, there are policies to limit the country’s emissions, but at the same time, President Xi Jinping has been suggesting that environmental restrictions should be applied with reason and that the country should avoid a "campaign-style" decarbonization programme. Hence, Chinese commodity demand is likely to remain firm, as the importance to support the domestic economy remains paramount to maintain political stability.
 
@@ -49,14 +49,14 @@ With the double impact of steel output restrictions and a resurgent pandemic, Ch
 ![A2](assets/2021-08-24_china-continues-to-write-its-own-economics-rule-book_img_a2_c6946f82089b.png)
 
 > **Figure 3: A2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-24_china-continues-to-write-its-own-economics-rule-book_img_a2_c6946f82089b.png)
+> [Local Asset](assets/2021-08-24_china-continues-to-write-its-own-economics-rule-book_img_a2_c6946f82089b.png)
 
 Much to the delight of Capesize owners, Brazilian iron ore exports are continuing to recover and large parts of the increasing volumes are finding their way to the Chinese shores. The volumes shipped from Brazilian ports during August look set to be marginally below last month’s and also lower than in the same month in previous years. Nevertheless, this month’s exports can be expected to be well above 30 million tonnes. A level that is likely to provide continued support for freight rates in the larger tonnage segment.
 
 ![A3](assets/2021-08-24_china-continues-to-write-its-own-economics-rule-book_img_a3_9e8d425f10da.png)
 
 > **Figure 4: A3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-24_china-continues-to-write-its-own-economics-rule-book_img_a3_9e8d425f10da.png)
+> [Local Asset](assets/2021-08-24_china-continues-to-write-its-own-economics-rule-book_img_a3_9e8d425f10da.png)
 
 ---
 

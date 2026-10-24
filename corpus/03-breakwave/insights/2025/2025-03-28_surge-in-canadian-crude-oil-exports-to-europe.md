@@ -29,7 +29,7 @@ Week 13, 27 March, 2025
 ![Στιγμιότυπο Οθόνης 2025 03 28 142039](assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6e75421f5453.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 03 28 142039**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6e75421f5453.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6e75421f5453.png)
 
 **Following the recent imposition of U.S. tariffs on Canadian crude oil imports, trade flows have undergone a significant shift, with Canadian barrels increasingly redirected toward European markets. This trend is evident in the March 2025 data, which shows seaborne crude exports from Canada surging to nearly 8 million barrels—more than double the monthly average recorded in 2024.**
 
@@ -46,7 +46,7 @@ Looking ahead, the continued enforcement of U.S. tariffs, coupled with Europe’
 ![Στιγμιότυπο Οθόνης 2025 03 28 142055](assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_497a74fc0f00.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 03 28 142055**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_497a74fc0f00.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_497a74fc0f00.png)
 
 The final week of March brought positive momentum to the Aframax Mediterranean route, while downward pressure persisted on the VLCC front, and signs of recovery emerged on the Suezmax West Africa to Continent route.
 
@@ -56,21 +56,21 @@ The final week of March brought positive momentum to the Aframax Mediterranean r
 ![Στιγμιότυπο Οθόνης 2025 03 28 142104](assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b078237c48a6.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 03 28 142104**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b078237c48a6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b078237c48a6.png)
 
 - **LR2**AG freight rates recorded a soft downward trend with rates at WS145, reflecting a 10% weekly decrease.
 
 ![Στιγμιότυπο Οθόνης 2025 03 28 142113](assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e50ac62152b5.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 03 28 142113**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e50ac62152b5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e50ac62152b5.png)
 
 - **Panamax**Carib-to-USG settled at around 145 WS, which corresponds to an increase of 20 % compared to the previous month.
 
 ![Στιγμιότυπο Οθόνης 2025 03 28 142121](assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91f4649d2cf3.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 03 28 142121**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91f4649d2cf3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91f4649d2cf3.png)
 
 - **MR1**freight rates for Baltic-to-Continent shipments hovered around WS210, holding the same firmness as the previous week.
 
@@ -79,7 +79,7 @@ The final week of March brought positive momentum to the Aframax Mediterranean r
 ![Στιγμιότυπο Οθόνης 2025 03 28 142132](assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3d86ee3e057.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 03 28 142132**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3d86ee3e057.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3d86ee3e057.png)
 
 ​​​​​The number of available crude tankers remains below the yearly average, though signs of a modest increase are now emerging in the VLCC and Suezmax segments.
 
@@ -91,12 +91,12 @@ The final week of March brought positive momentum to the Aframax Mediterranean r
 ![Στιγμιότυπο Οθόνης 2025 03 28 142142](assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2e4eb7f4c1e7.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 03 28 142142**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2e4eb7f4c1e7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2e4eb7f4c1e7.png)
 
 ![Στιγμιότυπο Οθόνης 2025 03 28 142149](assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6967d450bf4c.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2025 03 28 142149**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6967d450bf4c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6967d450bf4c.png)
 
 - **Clean LR2 AG Jubail**: The downward trend persists, with soft signs of an increase and the vessel count remaining below the annual average of 11 over the last seven weeks.
 
@@ -105,14 +105,14 @@ The final week of March brought positive momentum to the Aframax Mediterranean r
 ![Στιγμιότυπο Οθόνης 2025 03 28 142202](assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b1c37f72813.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 03 28 142202**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b1c37f72813.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b1c37f72813.png)
 
 - **Dirty**tonne days: The final week of March appears to shift the positive momentum from the Suezmax segment towards the Aframax. This marks the first recorded increase in the growth of Aframax tonne days since the year began, now surpassing the annual average. Meanwhile, in the VLCC segment, the decline in growth continues, and there is a notable downward revision in the growth of Suezmax tonne days.
 
 ![Στιγμιότυπο Οθόνης 2025 03 28 142210](assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66bfffd9b3d3.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 03 28 142210**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66bfffd9b3d3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66bfffd9b3d3.png)
 
 - **Panamax**tonne days: The growth rate remains below this year's weekly average, with the downward trend persisting throughout March.
 

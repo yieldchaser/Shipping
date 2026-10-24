@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-06-30_the-venezuelan-crude-
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-30_the-venezuelan-crude-trade_img_unsplash-image-tlhkqqsnzrs_26b811e266d0.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](assets/2026-06-30_the-venezuelan-crude-trade_img_unsplash-image-tlhkqqsnzrs_26b811e266d0.jpg)
 
 The Venezuelan crude trade has moved from being a relatively narrow and politically constrained flow into one of the most important incremental demand drivers for the crude tanker market in the first half of 2026. Based on Signal Ocean data, during H1 2025, Venezuelan crude exports stood at 13.25 million mt across 106 cargoes, with China the leading destination at 4.96 million mt and the United States following at 4.15 million mt. In H1 2026, volumes more than doubled to 28.25 million mt, while cargo count increased to 273. More importantly, the destination mix changed materially, with the United States taking the leading position at 12.19 million mt, equal to around 43% of total exports, while India emerged as the second largest receiver with 5.07 million mt.
 

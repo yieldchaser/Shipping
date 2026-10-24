@@ -33,7 +33,7 @@ The current week comes with important news in Vale’s iron ore production. The 
 ![Ch1](assets/2022-01-11_signal-weekly-report_img_ch1_2e5552f594cd.png)
 
 > **Figure 1: Ch1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-11_signal-weekly-report_img_ch1_2e5552f594cd.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-01-11_signal-weekly-report_img_ch1_2e5552f594cd.png)
 
 - The current week intensifies the recovery of the Panamax segment seen towards the end of last year and Continent to Far East Rates are now edging towards $50/ton, compared to the lows of Week 51, 2021 ~$44/ton. In the Capesize segment, rates have kept a steadiness within the range from $22 to $23/ton.
 
@@ -49,7 +49,7 @@ Supply Trend Lines for Key Load Areas
 ![Ch2](assets/2022-01-11_signal-weekly-report_img_ch2_bf2d5117f871.png)
 
 > **Figure 2: Ch2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-11_signal-weekly-report_img_ch2_bf2d5117f871.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-01-11_signal-weekly-report_img_ch2_bf2d5117f871.png)
 
 - The number of vessels sailing in ballast keeps the increasing momentum of the Weeks 51 and 52 of 2021. Capesize vessels are now standing one step above the one-year average number~80 vessels, however, in the Panamax the number remains below the average~100 vessels despite the recent increase.
 
@@ -62,7 +62,7 @@ Supply Trend Lines for Key Load Areas
 ![Ch3](assets/2022-01-11_signal-weekly-report_img_ch3_881107abb6c1.png)
 
 > **Figure 3: Ch3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-11_signal-weekly-report_img_ch3_881107abb6c1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-01-11_signal-weekly-report_img_ch3_881107abb6c1.png)
 
 - The first days of the new year reversed the increasing trend in ton days demand we noticed at the fourth quarter of last year.
 
@@ -79,7 +79,7 @@ Supply Trend Lines for Key Load Areas
 ![Ch4](assets/2022-01-11_signal-weekly-report_img_ch4_f089b715dda0.png)
 
 > **Figure 4: Ch4**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-11_signal-weekly-report_img_ch4_f089b715dda0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-01-11_signal-weekly-report_img_ch4_f089b715dda0.png)
 
 - The first two weeks keep the upward trend of congested vessels witnessed since Week 52.
 

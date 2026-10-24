@@ -35,14 +35,14 @@ In mid-May, China reinstated five of the previously suspended exporters, a move 
 ![Στιγμιότυπο Οθόνης 2025 07 14 150619](assets/2025-07-14_the-panamax-market-burst-into-life_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_09b9de7ed8f0.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 07 14 150619**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-14_the-panamax-market-burst-into-life_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_09b9de7ed8f0.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-07-14_the-panamax-market-burst-into-life_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_09b9de7ed8f0.png)
 
 For months, the Panamax segment was weighed down by oversupply and tepid demand. Then, almost overnight, a spark caught fire. Owners stopped chasing stems; charterers began chasing ships. The charts moved, the sentiment flipped, and the market roared back to life. As history often reminds us, turnarounds in commodity and shipping markets sometimes come not with a whisper, but with a bang.
 
 ![Στιγμιότυπο Οθόνης 2025 07 14 150701](assets/2025-07-14_the-panamax-market-burst-into-life_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_45156a93d653.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 07 14 150701**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-14_the-panamax-market-burst-into-life_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_45156a93d653.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-07-14_the-panamax-market-burst-into-life_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_45156a93d653.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

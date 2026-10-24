@@ -32,7 +32,7 @@ tags:
 ![6674365f419b2a50713d9559 Chart of the Week 25 Tanker](../../images/6674365f419b2a50713d9559_chart of the week 25 tanker.avif)
 
 > **Figure 1: 6674365f419b2a50713d9559 Chart of the Week 25 Tanker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-25-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6674365f419b2a50713d9559_chart of the week 25 tanker.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-25-2024) | [Local Asset](../../images/6674365f419b2a50713d9559_chart of the week 25 tanker.avif)
 
 As the summer season unfolds, a subdued sentiment grips the freight market, particularly evident in the VLCC MEG-China route. The number of vessels at Ras Tanura has increased approaching the end of June, yet the growth in dirty tonne days shows no signs of strengthening. Against the backdrop of a declining freight market, VLCC ballast speeds in the Arabian Gulf have decreased, indicating a cautious approach among operators. Looking ahead to the month's end, market projections suggest a continuation of this trend, with supply dynamics playing a pivotal role in shaping crude oil freight rates.
 

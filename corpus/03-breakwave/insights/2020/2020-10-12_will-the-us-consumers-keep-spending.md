@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-10-12_will-the-us-consumers
 ![By Ulf Bergman](assets/2020-10-12_will-the-us-consumers-keep-spending_img_image-asset_3d02aa63731b.jpeg)
 
 > **Figure 1: By Ulf Bergman**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-12_will-the-us-consumers-keep-spending_img_image-asset_3d02aa63731b.jpeg)
+> [Local Asset](assets/2020-10-12_will-the-us-consumers-keep-spending_img_image-asset_3d02aa63731b.jpeg)
 
 Consumer spending accounts for around two-thirds of economic activity in the US and as such it is an important gauge of the health of the world’s largest economy. Friday this week will see the release of the data for consumer spending in September. After a sharp fall in the consumer activity during the first half of the year, as the pandemic forged its grip on the economy, retail spending has rebounded sharply with new highs recorded consecutively in June, July and August. The rapid return of the consumers has led to some pundits to believe the US economy on the path of a V-shaped recovery.
 
@@ -33,7 +33,7 @@ However, last month’s release of the August data was weaker than expected by m
 
 > **Figure 2: Source: Us Census Bureau**  
 > *Source: US Census Bureau*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-12_will-the-us-consumers-keep-spending_img_ulf20_f0a409b01891.png)
+> [Local Asset](assets/2020-10-12_will-the-us-consumers-keep-spending_img_ulf20_f0a409b01891.png)
 
 The strength of the recovery in consumer spending has surprised many US retailers, who are embarking on a major restocking exercise as a result. The trans-Pacific container trade is one of the beneficiaries of the resilience of the US consumer, with shipping volumes expected to be strong throughout the fourth quarter and possibly beyond. Record levels of US consumer spending are also another contributing factor to the strong recovery seen in recent months for Chinese industrial production.
 
@@ -45,7 +45,7 @@ The September data for US industrial production will also be released on Friday,
 
 > **Figure 3: Source: Federal Reserve Bank of St**  
 > *Source: Federal Reserve Bank of St. Louis*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-12_will-the-us-consumers-keep-spending_img_ulf21_e703cb3cba7c.png)
+> [Local Asset](assets/2020-10-12_will-the-us-consumers-keep-spending_img_ulf21_e703cb3cba7c.png)
 
 ---
 

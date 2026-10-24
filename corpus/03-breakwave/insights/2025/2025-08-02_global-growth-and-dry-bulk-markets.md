@@ -39,7 +39,7 @@ For dry bulk markets, the thirty-first trading week offered little in the way of
 ![Screenshot 2025 08 02 10.15.26](assets/2025-08-02_global-growth-and-dry-bulk-markets_img_screenshot2025-08-02101526_a3e5df089f12.png)
 
 > **Figure 1: Screenshot 2025 08 02 10.15.26**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-02_global-growth-and-dry-bulk-markets_img_screenshot2025-08-02101526_a3e5df089f12.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-08-02_global-growth-and-dry-bulk-markets_img_screenshot2025-08-02101526_a3e5df089f12.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

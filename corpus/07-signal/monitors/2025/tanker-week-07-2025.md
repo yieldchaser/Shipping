@@ -33,7 +33,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/tanker/dynamic/vlccinsightsdownloadable**  
 > *https://app.signalocean.com/tanker/dynamic/vlcc_insights_downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-07-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67af3caec9a85b10384f3d38_AD_4nXc-TzGjGSpj_FSjxarp_ZHGvt3ifZR4o7tRTn5-uO_ZnuZ6SLELloCu68cx8s9ngeCQ-2TST-87NzTZbKAEOCX2Gusf06wkqEgi_JcRGhakClPwDkh9DEkejsDkTB1z_qnTT6UR.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-07-2025) | [Local Asset](../../images/67af3caec9a85b10384f3d38_AD_4nXc-TzGjGSpj_FSjxarp_ZHGvt3ifZR4o7tRTn5-uO_ZnuZ6SLELloCu68cx8s9ngeCQ-2TST-87NzTZbKAEOCX2Gusf06wkqEgi_JcRGhakClPwDkh9DEkejsDkTB1z_qnTT6UR.avif)
 
 By early 2025, net supply has declined significantly from the peaks seen in 2023 and early 2024, reinforcing the inverse correlation between supply levels and TD3 rates. The sharp drop in net supply has driven a notable spike in TD3 rates, validating the fundamental supply-demand pricing mechanism in the VLCC market. A major supply peak in mid-2023 (~180 vessels) led to subdued TD3 rates, but recent volatility in Baltic TD3 rates suggests a strengthening trend, particularly if crude oil demand remains resilient. With net supply tightening, demand-side factors—such as refinery restocking and increased Chinese crude imports—could further support rates through Q1 2025.
 

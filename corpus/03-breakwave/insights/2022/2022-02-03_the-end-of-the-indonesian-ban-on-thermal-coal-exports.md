@@ -31,7 +31,7 @@ January’s partial exports ban took a hefty toll on the volumes shipped from th
 ![Ch1.jpg](assets/2022-02-03_the-end-of-the-indonesian-ban-on-thermal-coal-exports_img_ch1jpg_2d0d12b0f6be.png)
 
 > **Figure 1: Ch1.jpg**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-03_the-end-of-the-indonesian-ban-on-thermal-coal-exports_img_ch1jpg_2d0d12b0f6be.png)
+> [Local Asset](assets/2022-02-03_the-end-of-the-indonesian-ban-on-thermal-coal-exports_img_ch1jpg_2d0d12b0f6be.png)
 
 While Indonesian coal shipments shrank by 23 million tonnes year-on-year in January, global seaborne volumes fared somewhat better with a decrease of seventeen million tonnes. Nevertheless, only Colombia and South Africa increased their shipments among the world’s more prominent exporters of seaborne coal. Both countries increased their exports by around 35 per cent and offset close to three million tonnes of Indonesian reductions between them. However, it was the world’s smaller producers that delivered significant output increases, with seaborne exports from outside the top-seven almost doubling to nine million tonnes.
 
@@ -40,7 +40,7 @@ With shipments to the largest market, China, down by eighty per cent, the domina
 ![Ch2](assets/2022-02-03_the-end-of-the-indonesian-ban-on-thermal-coal-exports_img_ch2_c4611ffe6f25.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-03_the-end-of-the-indonesian-ban-on-thermal-coal-exports_img_ch2_c4611ffe6f25.png)
+> [Local Asset](assets/2022-02-03_the-end-of-the-indonesian-ban-on-thermal-coal-exports_img_ch2_c4611ffe6f25.png)
 
 With the export ban lifted for the Indonesian miners, a gradual return to more normal conditions in the global coal trade can be expected. As February is a short month, volumes are on average six per cent lower than in January. However, with coal demand remaining high and the Indonesian miners eager to sell their coal at international price levels again, the pattern is likely to be challenged this year. Since 2018, the quantities of coal shipped in February have remained stable at around 105 million tonnes. Assuming that the Indonesian coal miners are not facing any additional obstacles, around twenty million tonnes more will be shipped in the coming month from the country, compared to January. Such a bounce back in Indonesian export activities is likely to benefit the freight rates for the mid-sized tonnage.
 

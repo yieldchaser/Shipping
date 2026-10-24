@@ -29,7 +29,7 @@ Low rainfall since mid May has put pressure on this network and low water levels
 
 > **Figure 1: Data Source:gibson Shipbrokers**  
 > *Data source:Gibson Shipbrokers*  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-02_gibson-tanker-market-report-1_img_screenshot2023-07-31123651_0c08edb19eb3.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2023-08-02_gibson-tanker-market-report-1_img_screenshot2023-07-31123651_0c08edb19eb3.png)
 
 As of writing, the current water level at Kaub stands at 155cm following fresh rainfall but had stood at 92cm at the start of the week. Barges have been restricted to carry around 1,500mt of cargo versus a standard size of 2,500mt, which corresponds to a 40% reduction in barge carrying capacity. This in turn had led to congestion and waiting along the river and to load product in ARA.
 

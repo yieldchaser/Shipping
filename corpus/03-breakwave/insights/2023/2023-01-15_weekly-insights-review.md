@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-15_weekly-insights-revie
 ![Unsplash Image Jeek0iur8rk](assets/2023-01-15_weekly-insights-review_img_unsplash-image-jeek0iur8rk_5d511c3b1088.jpg)
 
 > **Figure 1: Unsplash Image Jeek0iur8rk**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/9/the-big-picture-2023-on-our-radar) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-15_weekly-insights-review_img_unsplash-image-jeek0iur8rk_5d511c3b1088.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/9/the-big-picture-2023-on-our-radar) | [Local Asset](assets/2023-01-15_weekly-insights-review_img_unsplash-image-jeek0iur8rk_5d511c3b1088.jpg)
 
 ## The Big Picture: 2023: On Our Radar
 
@@ -45,7 +45,7 @@ With the global newsflow still subdued in the past week, following the Christmas
 ![Unsplash Image Bqpb1vdg3zw](assets/2023-01-15_weekly-insights-review_img_unsplash-image-bqpb1vdg3zw_e3880af497d2.jpg)
 
 > **Figure 2: Unsplash Image Bqpb1vdg3zw**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/10/shipping-decarbonization-weekly-insights) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-15_weekly-insights-review_img_unsplash-image-bqpb1vdg3zw_e3880af497d2.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/10/shipping-decarbonization-weekly-insights) | [Local Asset](assets/2023-01-15_weekly-insights-review_img_unsplash-image-bqpb1vdg3zw_e3880af497d2.jpg)
 
 ## Shipping Decarbonization Weekly Insights
 
@@ -57,7 +57,7 @@ The IMO’s carbon intensity regulations, specifically the carbon intensity indi
 ![Unsplash Image Tno1zd3t6yy](assets/2023-01-15_weekly-insights-review_img_unsplash-image-tno1zd3t6yy_0b8f59546cfa.jpg)
 
 > **Figure 3: Unsplash Image Tno1zd3t6yy**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/10/mazars-note-opportunities-need-swift-entry-and-a-lot-of-patience) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-15_weekly-insights-review_img_unsplash-image-tno1zd3t6yy_0b8f59546cfa.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/10/mazars-note-opportunities-need-swift-entry-and-a-lot-of-patience) | [Local Asset](assets/2023-01-15_weekly-insights-review_img_unsplash-image-tno1zd3t6yy_0b8f59546cfa.jpg)
 
 ## Mazars Note: Opportunities Need Swift Entry and a Lot of Patience
 
@@ -69,7 +69,7 @@ Opportunities need swift entry and a lot of patience
 ![Unsplash Image Cv1izqkjqzu](assets/2023-01-15_weekly-insights-review_img_unsplash-image-cv1izqkjqzu_0448557f8cb1.jpg)
 
 > **Figure 4: Unsplash Image Cv1izqkjqzu**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/11/dry-bulk-annual-review-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-15_weekly-insights-review_img_unsplash-image-cv1izqkjqzu_0448557f8cb1.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/11/dry-bulk-annual-review-2022) | [Local Asset](assets/2023-01-15_weekly-insights-review_img_unsplash-image-cv1izqkjqzu_0448557f8cb1.jpg)
 
 ## Signal Dry Bulk Annual Review 2022january 11, 2023
 
@@ -81,7 +81,7 @@ The year ended with critical changes in grain flows due to geopolitical tensions
 ![Unsplash Image G47ysnlebc8 (1)](assets/2023-01-15_weekly-insights-review_img_unsplash-image-g47ysnlebc828129_a9884f44b329.jpg)
 
 > **Figure 5: Unsplash Image G47ysnlebc8 (1)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/11/crude-oil-gains-amid-signs-of-stronger-chinese-demand) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-15_weekly-insights-review_img_unsplash-image-g47ysnlebc828129_a9884f44b329.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/11/crude-oil-gains-amid-signs-of-stronger-chinese-demand) | [Local Asset](assets/2023-01-15_weekly-insights-review_img_unsplash-image-g47ysnlebc828129_a9884f44b329.jpg)
 
 ## Crude Oil Gains Amid Signs of Stronger Chinese Demand
 
@@ -90,7 +90,7 @@ The year ended with critical changes in grain flows due to geopolitical tensions
 ![Unsplash Image J7 Gimbyvj0](assets/2023-01-15_weekly-insights-review_img_unsplash-image-j7-gimbyvj0_324e3715678f.jpg)
 
 > **Figure 6: Unsplash Image J7 Gimbyvj0**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/11/crude-oil-gains-amid-signs-of-stronger-chinese-demand) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-15_weekly-insights-review_img_unsplash-image-j7-gimbyvj0_324e3715678f.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/11/crude-oil-gains-amid-signs-of-stronger-chinese-demand) | [Local Asset](assets/2023-01-15_weekly-insights-review_img_unsplash-image-j7-gimbyvj0_324e3715678f.jpg)
 
 Commodity markets were mixed as optimism over China’s reopening was offset by concerns of further monetary tightening by central banks.
 [Read More](https://www.breakwaveadvisors.com/insights/2023/1/11/crude-oil-gains-amid-signs-of-stronger-chinese-demand)
@@ -98,7 +98,7 @@ Commodity markets were mixed as optimism over China’s reopening was offset by 
 ![Unsplash Image Fswqzllhc3y](assets/2023-01-15_weekly-insights-review_img_unsplash-image-fswqzllhc3y_3b73c1da39ec.jpg)
 
 > **Figure 7: Unsplash Image Fswqzllhc3y**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/12/chinas-oil-quotas-strike-balance-between-economic-growth-and-emissions-control) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-15_weekly-insights-review_img_unsplash-image-fswqzllhc3y_3b73c1da39ec.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/12/chinas-oil-quotas-strike-balance-between-economic-growth-and-emissions-control) | [Local Asset](assets/2023-01-15_weekly-insights-review_img_unsplash-image-fswqzllhc3y_3b73c1da39ec.jpg)
 
 ## China’s Oil Quotas Strike Balance Between Economic Growth and Emissions Control
 
@@ -117,12 +117,12 @@ Whilst 2022 ended with a fanfare, there is now a quieter feel for tanker markets
 ![Unsplash Image Bfasvap7mf0 (1)](assets/2023-01-15_weekly-insights-review_img_unsplash-image-bfasvap7mf028129_b5460a654de2.jpg)
 
 > **Figure 8: Unsplash Image Bfasvap7mf0 (1)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/13/gold-rallies-amid-expectations-of-slower-rate-hikes-from-fed) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-15_weekly-insights-review_img_unsplash-image-bfasvap7mf028129_b5460a654de2.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/13/gold-rallies-amid-expectations-of-slower-rate-hikes-from-fed) | [Local Asset](assets/2023-01-15_weekly-insights-review_img_unsplash-image-bfasvap7mf028129_b5460a654de2.jpg)
 
 ![Unsplash Image Iysrkq5qq0q (1)](assets/2023-01-15_weekly-insights-review_img_unsplash-image-iysrkq5qq0q28129_6be84613290e.jpg)
 
 > **Figure 9: Unsplash Image Iysrkq5qq0q (1)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/13/gold-rallies-amid-expectations-of-slower-rate-hikes-from-fed) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-15_weekly-insights-review_img_unsplash-image-iysrkq5qq0q28129_6be84613290e.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/13/gold-rallies-amid-expectations-of-slower-rate-hikes-from-fed) | [Local Asset](assets/2023-01-15_weekly-insights-review_img_unsplash-image-iysrkq5qq0q28129_6be84613290e.jpg)
 
 ## Gold Rallies Amid Expectations of Slower Rate Hikes From Fed
 
@@ -136,7 +136,7 @@ This increased confidence of demand strengthening as China’s reopens its econo
 ![Unsplash Image Mykffc5zole (1)](assets/2023-01-15_weekly-insights-review_img_unsplash-image-mykffc5zole28129_9437bf088eae.jpg)
 
 > **Figure 10: Unsplash Image Mykffc5zole (1)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/12/chinese-consumers-buying-less-still-just-paying-more) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-15_weekly-insights-review_img_unsplash-image-mykffc5zole28129_9437bf088eae.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/12/chinese-consumers-buying-less-still-just-paying-more) | [Local Asset](assets/2023-01-15_weekly-insights-review_img_unsplash-image-mykffc5zole28129_9437bf088eae.jpg)
 
 ## Consumers in China Are Still Not Actually Buying More Goods Compared to a Year Ago
 

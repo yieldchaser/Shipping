@@ -49,7 +49,7 @@ Just last week, ‘ChatGPT’ appeared in 18,000 articles.
 
 > **Figure 1: In Memory of the Passed**  
 > *In Memory of the Passed*  
-> **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/Tay_(bot)) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-17_mazars-commenthow-chat-gpt-will-change-the-world-and-financial-advice-writtenbya_img_image00328129_a40447364510.jpg)
+> **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/Tay_(bot)) | [Local Asset](assets/2023-02-17_mazars-commenthow-chat-gpt-will-change-the-world-and-financial-advice-writtenbya_img_image00328129_a40447364510.jpg)
 
 Critics will say that the level of English and discussion is that of a high schooler. For the most part they are right. It presents information in a simplistic ‘first-it-was-the-dinosaurs’ fashion, which is why Chat GPT is initially heavily used by students to find a way around the usual copy-paste searches schools and university teachers run. It is though, still a big leap in technology. Until a few years ago, the world’s most successful chatbot had the intelligence of a 4-year old. Microsoft’s experiment with[Tay](https://en.wikipedia.org/wiki/Tay_(bot)), a chatbot let loose on Twitter, was an epic disaster. The bot turned into an internet troll and espoused right-wing fundamentalism within the 24 hours of life before its termination. The leap in just six years is enormous.
 
@@ -89,7 +89,7 @@ In just two months, ChatGPT is changing the landscape for the tech industry. Cur
 
 > **Figure 2: [#Writtenbyahuman]**  
 > *[#writtenbyahuman]*  
-> **Interactive Data & Source:** [Privatebankerinternational](https://www.privatebankerinternational.com/comment/robo-advisers/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-17_mazars-commenthow-chat-gpt-will-change-the-world-and-financial-advice-writtenbya_img_image00428429_b9d26bac89ca.jpg)
+> **Interactive Data & Source:** [Privatebankerinternational](https://www.privatebankerinternational.com/comment/robo-advisers/) | [Local Asset](assets/2023-02-17_mazars-commenthow-chat-gpt-will-change-the-world-and-financial-advice-writtenbya_img_image00428429_b9d26bac89ca.jpg)
 
 Google and Microsoft (Bing) have already announced that they are entering the AI race, as they see the industry-changing disruption wrought by the chatbot. Google, one of the biggest companies in the world, made $162 billion last year from search engine services alone (which account for 60% of its revenue). This implies a search engine industry size of nearly $175 bn. However, the implications are much bigger, as Google represents the main advertising channel of our times. A doctor advertising on Google may pay $200 per month for targeted adverts and make thousands more on the back of that. Sundar Pijay, Google’s CEO, was excited that the search engine industry will get a much-needed revamp and introduced us to Google’s chat AI, Bard. Investors may have been disappointed by Bard’s response, as the AI made an error, and plunged Alphabet’s stock 10% last week, but we are still at early development stages. Humans make mistakes. So do search engines and Google Maps.
 

@@ -64,6 +64,6 @@ Still, last week’s rebound looks unlikely to be a temporary blip and could spe
 ![Market Chart 1](assets/2023-10-12_shipfix-global-market-update_img_unnamed-2023-10-12t132331971_b2a472eea49d.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-12_shipfix-global-market-update_img_unnamed-2023-10-12t132331971_b2a472eea49d.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2023-10-12_shipfix-global-market-update_img_unnamed-2023-10-12t132331971_b2a472eea49d.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

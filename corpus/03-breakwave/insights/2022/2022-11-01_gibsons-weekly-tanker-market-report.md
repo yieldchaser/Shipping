@@ -26,7 +26,7 @@ If the price cap fails to materialize, EU shipping companies might be allowed to
 ![Screenshot 20221101 150410 Samsung Notes](assets/2022-11-01_gibsons-weekly-tanker-market-report_img_screenshot-20221101-150410-samsungno_95c28436515c.jpg)
 
 > **Figure 1: Screenshot 20221101 150410 Samsung Notes**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-01_gibsons-weekly-tanker-market-report_img_screenshot-20221101-150410-samsungno_95c28436515c.jpg)
+> [Local Asset](assets/2022-11-01_gibsons-weekly-tanker-market-report_img_screenshot-20221101-150410-samsungno_95c28436515c.jpg)
 
 Our analysis shows that in the last 6 months, 366 Afra/LR2 and Suezmax tankers have been observed loading in Russian ports (excluding CPC), with more than 55% of those vessels controlled from EU, G7 or allied countries. Of those 366 vessels, 37 have been involved in ownership changes this year, with further analysis of their current ownership suggesting they will largely remain in Russian trade. However, with over 200 vessels leaving Russian trade, it is reasonable to assume that there might be insufficient tonnage to transport Russian oil to market, particularly given that those barrels currently traded to Europe will have to be redirected longer haul.
 

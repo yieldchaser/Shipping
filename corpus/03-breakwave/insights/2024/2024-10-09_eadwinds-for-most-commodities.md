@@ -63,7 +63,7 @@ From a demand and supply perspective, the short-term outlook for the panamaxes l
 ![Στιγμιότυπο Οθόνης 2024 10 09 143944](assets/2024-10-09_eadwinds-for-most-commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cf0225de55bf.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 09 143944**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-09_eadwinds-for-most-commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cf0225de55bf.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-10-09_eadwinds-for-most-commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cf0225de55bf.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

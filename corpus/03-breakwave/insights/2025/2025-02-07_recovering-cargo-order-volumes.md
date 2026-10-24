@@ -67,7 +67,7 @@ Subdued Chinese rebar prices suggest that cargo ordering activities for the coun
 ![Στιγμιότυπο Οθόνης 2025 02 07 143307](assets/2025-02-07_recovering-cargo-order-volumes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7ee8edca4c8.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 02 07 143307**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-07_recovering-cargo-order-volumes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7ee8edca4c8.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2025-02-07_recovering-cargo-order-volumes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7ee8edca4c8.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

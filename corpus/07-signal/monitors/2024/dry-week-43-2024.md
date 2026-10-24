@@ -31,7 +31,7 @@ tags:
 ![6718eb3c27815f2c49a4a8b7 6718eb0ef53ba420de75b53d Chart%20of%20the%20week%20dry](../../images/6718eb3c27815f2c49a4a8b7_6718eb0ef53ba420de75b53d_chart%20of%20the%20week%20dry.avif)
 
 > **Figure 1: 6718eb3c27815f2c49a4a8b7 6718eb0ef53ba420de75b53d Chart%20of%20the%20week%20dry**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-43-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6718eb3c27815f2c49a4a8b7_6718eb0ef53ba420de75b53d_chart%20of%20the%20week%20dry.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-43-2024) | [Local Asset](../../images/6718eb3c27815f2c49a4a8b7_6718eb0ef53ba420de75b53d_chart%20of%20the%20week%20dry.avif)
 
 Russia plays a pivotal role as a supplier of wheat to Egypt, which holds the title of the world's largest wheat importer. The Egyptian economy relies heavily on Russian grain, particularly wheat, to satisfy its domestic demand. Over the years, Russia's share of Egypt's wheat imports has been substantial, and this relationship has only strengthened in recent times due to the relatively low cost and high availability of Russian grain.
 

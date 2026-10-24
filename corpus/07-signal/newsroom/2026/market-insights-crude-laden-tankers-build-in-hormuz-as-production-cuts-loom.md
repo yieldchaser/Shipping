@@ -39,7 +39,7 @@ What Vessel Data Show this Week
 
 > **Figure 1: The Signal Ocean Platform (Tsop) | Vessel Count**  
 > *The Signal Ocean Platform (TSOP) | Vessel Count*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-crude-laden-tankers-build-in-hormuz-as-production-cuts-loom) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69b924223c9f2b3057de7e7a_ff5005c1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-crude-laden-tankers-build-in-hormuz-as-production-cuts-loom) | [Local Asset](../../images/69b924223c9f2b3057de7e7a_ff5005c1.png)
 
 
 ## Executive Overview
@@ -59,7 +59,7 @@ Recent AIS data show a sharp reversal in the typical ballast–laden balance in 
 ![Laden Tanker Counts Reach Record Levels](../../images/69b9235d5fbcc74b937cab44_Screenshot 2026-03-17 at 09.47.54.png)
 
 > **Figure 2: Laden Tanker Counts Reach Record Levels**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-crude-laden-tankers-build-in-hormuz-as-production-cuts-loom) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69b9235d5fbcc74b937cab44_Screenshot 2026-03-17 at 09.47.54.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-crude-laden-tankers-build-in-hormuz-as-production-cuts-loom) | [Local Asset](../../images/69b9235d5fbcc74b937cab44_Screenshot 2026-03-17 at 09.47.54.png)
 
 
 ## Chart 1: Historical Tanker Traffic in the Strait of Hormuz (2020–2026)
@@ -69,7 +69,7 @@ Recent AIS data show a sharp reversal in the typical ballast–laden balance in 
 
 > **Figure 3: Source: Signal Ocean Data Warehouse (Tsop); Based on AIS Data**  
 > *Source: Signal Ocean Data Warehouse (TSOP); based on AIS data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-crude-laden-tankers-build-in-hormuz-as-production-cuts-loom) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69b924223c9f2b3057de7e83_880c4dda.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-crude-laden-tankers-build-in-hormuz-as-production-cuts-loom) | [Local Asset](../../images/69b924223c9f2b3057de7e83_880c4dda.png)
 
 During March 2026, owing to the effective closure of the Strait of Hormuz, a clear divergence emerged between ballast and laden tanker counts. Ballast tanker numbers declined sharply, falling from an average of 135 vessels to around 75. Over the same period, laden tanker counts increased significantly, rising from an average of 85 vessels to roughly 145.
 
@@ -81,7 +81,7 @@ During March 2026, owing to the effective closure of the Strait of Hormuz, a cle
 
 > **Figure 4: Source: Signal Ocean Data Warehouse (Tsop); Based on AIS Data**  
 > *Source: Signal Ocean Data Warehouse (TSOP); based on AIS data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-crude-laden-tankers-build-in-hormuz-as-production-cuts-loom) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69b924223c9f2b3057de7e7d_55868250.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-crude-laden-tankers-build-in-hormuz-as-production-cuts-loom) | [Local Asset](../../images/69b924223c9f2b3057de7e7d_55868250.png)
 
 
 ## Where the Distortion Is Most Visible
@@ -95,7 +95,7 @@ The imbalance becomes particularly clear when focusing on crude tankers specific
 
 > **Figure 5: Source: Signal Ocean Data Warehouse (Tsop); Based on AIS Data**  
 > *Source: Signal Ocean Data Warehouse (TSOP); based on AIS data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-crude-laden-tankers-build-in-hormuz-as-production-cuts-loom) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69b924223c9f2b3057de7e80_74be2d29.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-crude-laden-tankers-build-in-hormuz-as-production-cuts-loom) | [Local Asset](../../images/69b924223c9f2b3057de7e80_74be2d29.png)
 
 
 ## Crude Cargo Buildup Inside the Strait of Hormuz
@@ -108,7 +108,7 @@ The pattern is similar for clean product tankers, though on a smaller scale. Rou
 ![Crude Cargo Buildup Inside the Strait of Hormuz](../../images/69b9236a6d8d18a8df750fed_Screenshot 2026-03-17 at 09.48.00.png)
 
 > **Figure 6: Crude Cargo Buildup Inside the Strait of Hormuz**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-crude-laden-tankers-build-in-hormuz-as-production-cuts-loom) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69b9236a6d8d18a8df750fed_Screenshot 2026-03-17 at 09.48.00.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-crude-laden-tankers-build-in-hormuz-as-production-cuts-loom) | [Local Asset](../../images/69b9236a6d8d18a8df750fed_Screenshot 2026-03-17 at 09.48.00.png)
 
 **Chart 4: Utilized | Spare Tanker Capacity | Total Capacity**
 
@@ -117,7 +117,7 @@ The pattern is similar for clean product tankers, though on a smaller scale. Rou
 
 > **Figure 7: Source: Signal Ocean Data Warehouse (Tsop); Based on AIS Data**  
 > *Source: Signal Ocean Data Warehouse (TSOP); based on AIS data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-crude-laden-tankers-build-in-hormuz-as-production-cuts-loom) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69b924223c9f2b3057de7e86_605816ad.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-crude-laden-tankers-build-in-hormuz-as-production-cuts-loom) | [Local Asset](../../images/69b924223c9f2b3057de7e86_605816ad.png)
 
 
 ## Estimated Daily Transit Capacity
@@ -130,7 +130,7 @@ In January 2026, under normal operating conditions, the number of daily tanker t
 ![Estimated Daily Transit Capacity](../../images/69b924223c9f2b3057de7e8c_d5a7a878.png)
 
 > **Figure 8: Estimated Daily Transit Capacity**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-crude-laden-tankers-build-in-hormuz-as-production-cuts-loom) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69b924223c9f2b3057de7e8c_d5a7a878.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-crude-laden-tankers-build-in-hormuz-as-production-cuts-loom) | [Local Asset](../../images/69b924223c9f2b3057de7e8c_d5a7a878.png)
 
 
 ## Today’s Reality| Average Daily Transit <2 per Vessel Class, (March 1-16)
@@ -142,7 +142,7 @@ In January 2026, under normal operating conditions, the number of daily tanker t
 
 > **Figure 9: Source: Signal Ocean | Waypoints API Data (Last Update: March 16, 2026)**  
 > *Source: Signal Ocean | Waypoints API Data (last update: March 16, 2026)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-crude-laden-tankers-build-in-hormuz-as-production-cuts-loom) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69b924223c9f2b3057de7e92_a255b215.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-crude-laden-tankers-build-in-hormuz-as-production-cuts-loom) | [Local Asset](../../images/69b924223c9f2b3057de7e92_a255b215.png)
 
 *AIS vessel counts should be interpreted as indicators of traffic patterns rather than direct measures of crude or clean product export flows.*
 
@@ -162,7 +162,7 @@ The operator distribution also highlights a notable presence of Asian-linked com
 
 > **Figure 10: Source: Signal Ocean Data Warehouse (Tsop); Based on AIS Data**  
 > *Source: Signal Ocean Data Warehouse (TSOP); based on AIS data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-crude-laden-tankers-build-in-hormuz-as-production-cuts-loom) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69b924223c9f2b3057de7e89_5be6a689.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-crude-laden-tankers-build-in-hormuz-as-production-cuts-loom) | [Local Asset](../../images/69b924223c9f2b3057de7e89_5be6a689.png)
 
 
 ## Tanker Transits and Insurance Environment
@@ -171,7 +171,7 @@ The operator distribution also highlights a notable presence of Asian-linked com
 ![Tanker Transits and Insurance Environment](../../images/69b923f9afb086c41f448e5f_Screenshot 2026-03-17 at 09.50.33.png)
 
 > **Figure 11: Tanker Transits and Insurance Environment**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-crude-laden-tankers-build-in-hormuz-as-production-cuts-loom) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69b923f9afb086c41f448e5f_Screenshot 2026-03-17 at 09.50.33.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-crude-laden-tankers-build-in-hormuz-as-production-cuts-loom) | [Local Asset](../../images/69b923f9afb086c41f448e5f_Screenshot 2026-03-17 at 09.50.33.png)
 
 War-risk premiums for Gulf transits have risen significantly following the recent escalation. Industry [indications](https://moderndiplomacy.eu/2026/03/06/how-maritime-insurance-rates-reflect-a-widening-middle-east-war/?utm\_source=chatgpt.com) suggest that premiums have increased from roughly 0.2–0.4% of vessel value previously to around 1% in many cases, with significantly higher levels possible for voyages assessed as carrying elevated risk (from 3% to 5%).
 
@@ -180,7 +180,7 @@ War-risk premiums for Gulf transits have risen significantly following the recen
 
 > **Figure 12: The Signal Ocean Platform (Tsop) | Valuations Market Snapshot**  
 > *The Signal Ocean Platform (TSOP) | Valuations Market Snapshot*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-crude-laden-tankers-build-in-hormuz-as-production-cuts-loom) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69b924223c9f2b3057de7e8f_a44fcd61.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-crude-laden-tankers-build-in-hormuz-as-production-cuts-loom) | [Local Asset](../../images/69b924223c9f2b3057de7e8f_a44fcd61.png)
 
 Based on indicative VLCC market valuations of approximately $137 million for a five-year-old vessel and about $110 million for a ten-year-old vessel, a 1% premium could imply costs in the range of approximately $1–1.4 million per transit, with higher-risk scenarios potentially resulting in materially higher premiums.
 

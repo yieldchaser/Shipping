@@ -33,7 +33,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform**  
 > *Data Source: The Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-12-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/65fd5804c85ab069433b5669_chart of the week tanker (3).png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-12-2024) | [Local Asset](../../images/65fd5804c85ab069433b5669_chart of the week tanker (3).png)
 
 In the third week of March, there's a noticeable improvement in sentiment surrounding VLCC MEG-China rates, offering a glimmer of optimism. However, this comes against the backdrop of tonne days growth continuing to paint a picture of decreasing market conditions. In the Aframax Mediterranean region, market prices remained firm for another week, raising the possibility of reaching a new peak by month's end. Nevertheless, the freight market appears poised to grapple with ongoing instability, driven by the dwindling growth of dirty demand tonne days and the evolving supply trends in vessel activity, which could further influence market prices.
 

@@ -31,7 +31,7 @@ tags:
 ![Upward Revision of Grain Flows From Brazil to China Throughout This Year](../../images/64d34856908fa0e425cf278d_chart of the week grain.png)
 
 > **Figure 1: Upward Revision of Grain Flows From Brazil to China Throughout This Year**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-32-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/64d34856908fa0e425cf278d_chart of the week grain.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-32-2023) | [Local Asset](../../images/64d34856908fa0e425cf278d_chart of the week grain.png)
 
 As the second week of August commenced, the momentum in the freight market exhibited greater resilience, particularly marked by substantial gains in the larger vessel size segments. Concurrently, persistent geopolitical challenges continued to exert a downward influence on the smaller vessel size categories. Notably, the rising count of ballast ships sent escalating signals, raising apprehensions about the sustainability of the upward trajectory of freight rates as the summer season progresses.
 

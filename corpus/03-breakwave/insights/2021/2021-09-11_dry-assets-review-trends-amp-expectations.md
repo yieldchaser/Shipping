@@ -39,7 +39,7 @@ Overall, August brought a lot of activity in the Handysize segment for vessels b
 ![Market Chart 1](assets/2021-09-11_dry-assets-review-trends-amp-expectations_img_image006_43c0fbbf9370.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-11_dry-assets-review-trends-amp-expectations_img_image006_43c0fbbf9370.png)
+> [Local Asset](assets/2021-09-11_dry-assets-review-trends-amp-expectations_img_image006_43c0fbbf9370.png)
 
 ### Newbuilding Market
 
@@ -53,7 +53,7 @@ Overall, there was a flow of new orders in August mainly by Asian players. Firm 
 
 > **Figure 2: In Our Infographic Below**  
 > *In our infographic below, you can view the evolution of secondhand bulkers’ values this year:*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-11_dry-assets-review-trends-amp-expectations_img_image009_5544ac38328f.png)
+> [Local Asset](assets/2021-09-11_dry-assets-review-trends-amp-expectations_img_image009_5544ac38328f.png)
 
 ### Fleet Update
 
@@ -70,7 +70,7 @@ In conclusion, the overall fleet-to-orderbook picture provides a promising outlo
 ![Market Chart 3](assets/2021-09-11_dry-assets-review-trends-amp-expectations_img_image012_0eb97b9977c6.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-11_dry-assets-review-trends-amp-expectations_img_image012_0eb97b9977c6.png)
+> [Local Asset](assets/2021-09-11_dry-assets-review-trends-amp-expectations_img_image012_0eb97b9977c6.png)
 
 ---
 

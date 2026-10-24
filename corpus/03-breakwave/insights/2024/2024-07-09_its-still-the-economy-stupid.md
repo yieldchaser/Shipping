@@ -77,7 +77,7 @@ In an economy that suffers from poor demographics (especially in Europe), where 
 ![Market Chart 1](assets/2024-07-09_its-still-the-economy-stupid_img_image001_ad3dfd35aa06.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Ft](https://www.ft.com/content/96c77095-8a73-46c8-9b09-3ce5f9b2e956?sharetype=blocked) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-09_its-still-the-economy-stupid_img_image001_ad3dfd35aa06.png)
+> **Interactive Data & Source:** [Ft](https://www.ft.com/content/96c77095-8a73-46c8-9b09-3ce5f9b2e956?sharetype=blocked) | [Local Asset](assets/2024-07-09_its-still-the-economy-stupid_img_image001_ad3dfd35aa06.png)
 
 Either taxes or borrowing.
 
@@ -93,7 +93,7 @@ In an era of stagnant demographics and lower productivity, the best way to incre
 
 > **Figure 2: Thecatchphrasewas Widely Used in Bill Clinton’s the 1992**  
 > **Thecatchphrasewas widely used in Bill Clinton’s the 1992 election campaign. Incumbent President George Bush, a war veteran, former Vice President and victor of the war in Iraq and the Cold War, was defeated to upstart Bill Clinton, who emphasised the economy. To this day it signifies the importance of economic realities as a factor in making political choices.*  
-> **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/It%27s_the_economy,_stupid) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-09_its-still-the-economy-stupid_img_image003_eb78fd00337e.jpg)
+> **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/It%27s_the_economy,_stupid) | [Local Asset](assets/2024-07-09_its-still-the-economy-stupid_img_image003_eb78fd00337e.jpg)
 
 Governments, long used to relying on central banks to create wealth enough to buy their own debt, are now facing an existential problem: inflation. Unlike the first rounds of QE, debt accumulation in the last few years has passed right through the economy, increasing the supply of money and creating inflation.
 

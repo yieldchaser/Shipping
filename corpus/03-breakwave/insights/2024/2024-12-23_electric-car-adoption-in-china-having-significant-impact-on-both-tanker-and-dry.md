@@ -27,7 +27,7 @@ Electric car adoption in China is having a significant impact on both the tanker
 ![Chart](assets/2024-12-23_electric-car-adoption-in-china-having-significant-impact-on-both-tanker-and-dry_img_chart_68bdd5be3d7c.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-23_electric-car-adoption-in-china-having-significant-impact-on-both-tanker-and-dry_img_chart_68bdd5be3d7c.jpg)
+> [Local Asset](assets/2024-12-23_electric-car-adoption-in-china-having-significant-impact-on-both-tanker-and-dry_img_chart_68bdd5be3d7c.jpg)
 
 Going forward, electric car adoption in China is poised to remain a headwind for the tanker shipping market and a tailwind for the dry bulk shipping market as coal will continue to benefit. Other sources of power-grid electricity generation including hydropower, nuclear, wind, and solar power production will continue to benefit as well.
 

@@ -33,7 +33,7 @@ So, what would the impact be for the tanker markets? For VLCCs it is undoubtedly
 ![Screenshot 2025 03 24 11.06.14](assets/2025-03-24_opening-the-floodgates_img_screenshot2025-03-24110614_f6aedd4a196d.png)
 
 > **Figure 1: Screenshot 2025 03 24 11.06.14**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-24_opening-the-floodgates_img_screenshot2025-03-24110614_f6aedd4a196d.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-03-24_opening-the-floodgates_img_screenshot2025-03-24110614_f6aedd4a196d.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

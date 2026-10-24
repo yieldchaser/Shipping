@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-10-08_chinese-stimulus.html
 ![Hong Kong](assets/2024-10-08_chinese-stimulus_img_hong-kong_468e0a00db08.jpg)
 
 > **Figure 1: Hong Kong**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-08_chinese-stimulus_img_hong-kong_468e0a00db08.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-10-08_chinese-stimulus_img_hong-kong_468e0a00db08.jpg)
 
 Chinese oil demand has been underwhelming this year. The IEA had to revise their full year forecast downwards, largely based on lacklustre figures coming out of the country. It now sees Chinese oil demand growth at 180 kbd this year, and an additional 260 kbd in 2025 will bring the total to 17 mbd. The reasons cited were primarily the weak consumer spending on the back of an ongoing housing crisis and low industrial activity, whilst the growing share of EVs in the Chinese car fleet and higher uptake of LNG trucks also played an important role. Recently crude imports into China rebounded, though according to Reuters 1.85 mbd went into stockpiles in August, indicating domestic demand and refinery throughput remained low.
 
@@ -36,7 +36,7 @@ Overall, the stimulus measures are unlikely to bring the Chinese economy back on
 ![Στιγμιότυπο Οθόνης 2024 10 08 104507](assets/2024-10-08_chinese-stimulus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_187e62a5fed0.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 08 104507**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-08_chinese-stimulus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_187e62a5fed0.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-10-08_chinese-stimulus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_187e62a5fed0.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

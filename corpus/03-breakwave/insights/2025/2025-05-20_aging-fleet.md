@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-05-20_aging-fleet.html"
 ![Tankers 4 Square](assets/2025-05-20_aging-fleet_img_tankers-4-square_a310bd6dfbdb.jpg)
 
 > **Figure 1: Tankers 4 Square**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-20_aging-fleet_img_tankers-4-square_a310bd6dfbdb.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-05-20_aging-fleet_img_tankers-4-square_a310bd6dfbdb.jpg)
 
 The tanker fleet is aging. The last couple of years have seen few deliveries and little scrapping as a strong market and a growing dark fleet has kept many vessels from being beached. Second-hand asset values surged in the years following Russia’s invasion of Ukraine, as especially older vessels have found ready buyers in the dark fleet and sanctioned markets with prices far exceeding scrap values. With 51% of the total tanker fleet of 25,000 dwt and above aged 15 years and older and 22% above the age of 20, it begs the question of how aging has impacted fleet utilisation. Part of the answer lies in dark and sanctioned fleet activity, with 93% of the dark fleet aged 15 and over, and 64% aged 20 years and older.
 
@@ -40,7 +40,7 @@ The big question mark is the dark fleet, as any normalisation of relations betwe
 ![Στιγμιότυπο Οθόνης 2025 05 19 172712](assets/2025-05-20_aging-fleet_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c198e17b6a6.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 05 19 172712**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-20_aging-fleet_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c198e17b6a6.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-05-20_aging-fleet_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c198e17b6a6.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

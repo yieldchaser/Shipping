@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-02-16_crude-clampdown.html"
 ![Istock 1127778370](assets/2026-02-16_crude-clampdown_img_istock-1127778370_b75e3b48971e.jpg)
 
 > **Figure 1: Istock 1127778370**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/report/reassessing-russian-supply/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-16_crude-clampdown_img_istock-1127778370_b75e3b48971e.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/report/reassessing-russian-supply/) | [Local Asset](assets/2026-02-16_crude-clampdown_img_istock-1127778370_b75e3b48971e.jpg)
 
 The EU is considering a major change to its sanctions framework on Russian oil. As reported on the 6th of February, the upcoming 20th sanctions package proposes a full ban on maritime services for Russian crude oil. This would cover shipping, insurance, brokerage, and finance and would fully replace the current price cap mechanism. Under this approach, European shipping companies would be barred from carrying Russian crude regardless of the price at which it is sold. The proposal is limited to crude oil only and does not currently include refined products such as fuel oil or clean petroleum products. UK sanctions are expected to follow the EU’s approach, which would effectively shut Russian crude out of the mainstream tanker market.
 
@@ -44,7 +44,7 @@ On the clean side, Russian product exports are not currently included in the pro
 ![Στιγμιότυπο Οθόνης 2026 02 16 100055](assets/2026-02-16_crude-clampdown_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_960f686e084a.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 02 16 100055**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-16_crude-clampdown_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_960f686e084a.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-02-16_crude-clampdown_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_960f686e084a.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

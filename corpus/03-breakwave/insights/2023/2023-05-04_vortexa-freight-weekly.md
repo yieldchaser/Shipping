@@ -29,7 +29,7 @@ By[Dylan Simpson](https://www.linkedin.com/search/results/all/?fetchDeterministi
 
 > **Figure 1: Crude Utilisation Out of Russia per Vessel Class**  
 > *Crude utilisation out of Russia per vessel class*  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGLgYL5n1ZYlu7oCJ3IOfjskIOMB-kwZnVZdLf8bVn-bBXX3pAziy1VSzjS2AGPm0Xr7D--GYM=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-04_vortexa-freight-weekly_img_unnamed-2023-05-04t110454954_5122b3429391.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGLgYL5n1ZYlu7oCJ3IOfjskIOMB-kwZnVZdLf8bVn-bBXX3pAziy1VSzjS2AGPm0Xr7D--GYM=) | [Local Asset](assets/2023-05-04_vortexa-freight-weekly_img_unnamed-2023-05-04t110454954_5122b3429391.png)
 
 - Russian[exports](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGLgYL5n1ZYlu7oCJ3IOfjskIOMB-kwZnVZdLf8bVn-bBXX3pAziy1VSzjS2AGPm0Xr7D--GYM=)ended April almost 10% up m-o-m, mostly headed towards India and East Asia. At the same time, crude[tonne-miles](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGLgYL5oLFTvrLHY_UCBhUsBYT3lIJKuYHALPMz26Kg_oWiIrDwTZ8-3ATsRU-yFnEuyvDXO5Q=)out of Russia continue to breach record highs.
 - Aframax tankers have mostly benefited from this, with the majority of flows originating out of the Baltic. At the same time, the market share of Russian crude coming out of the Black Sea has remained flat despite the geographical advantage of sending cargoes to Asia from the Black Sea.
@@ -43,7 +43,7 @@ By[Dylan Simpson](https://www.linkedin.com/search/results/all/?fetchDeterministi
 
 > **Figure 2: Vortexa Crude Tanker Index per Vessel Class**  
 > *Vortexa crude tanker index per vessel class*  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGLgYL5oN2K81XOWMWj-ox1rRgdqOtJkEteRAR6-kzVq0iB-TMhkI9gAW2FD8Bg1kYe1lTZPeM=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-04_vortexa-freight-weekly_img_unnamed-2023-05-04t154611621_7fade00c0eaf.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGLgYL5oN2K81XOWMWj-ox1rRgdqOtJkEteRAR6-kzVq0iB-TMhkI9gAW2FD8Bg1kYe1lTZPeM=) | [Local Asset](assets/2023-05-04_vortexa-freight-weekly_img_unnamed-2023-05-04t154611621_7fade00c0eaf.png)
 
 - Crude tanker indices are following a downward trajectory for more than a month, across the main tanker segments. Modest availability figures in main producing regions such as the US Gulf and West Africa are signalling that the declining rates are a product of weaker trade fundamentals.
 - More importantly at these record-high exports coming out of main producing regions (Russia, US Gulf) seen recently are likely unsustainable and will lead to lower crude loadings in the next month. Despite the comeback of refineries post-maintenance season, purchasing activity appears to be limited pointing to softer product demand amid inventory drawdowns as reflected from the weaker CPP rates.

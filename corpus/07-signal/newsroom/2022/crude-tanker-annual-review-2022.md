@@ -29,7 +29,7 @@ tags:
 ![Heading](../../images/66b51ee8de06fef35588c376_63a1932493aadaa969e6fbcf_infographic.avif)
 
 > **Figure 1: Heading**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/crude-tanker-annual-review-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51ee8de06fef35588c376_63a1932493aadaa969e6fbcf_infographic.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/crude-tanker-annual-review-2022) | [Local Asset](../../images/66b51ee8de06fef35588c376_63a1932493aadaa969e6fbcf_infographic.avif)
 
 2022 saw a record boom in crude and product tanker freight rates. Geopolitical tensions between Russia and Ukraine reshaped the macroeconomic scene and we entered a new era of changed seaborne oil trade flows. December 5, 2022, was the day the new era began with the enforcement of the EU ban on Russian oil trade.
 
@@ -60,7 +60,7 @@ The reduction in European countries' dependence on Russian oil is shown in image
 
 > **Figure 2: Image 1 - Data Source: The Signal Ocean Platform, Oil Flows, From Russia to Europe, Main Destinations Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *Image 1 - Data Source: The Signal Ocean Platform, Oil Flows, from Russia to Europe, Main Destinations https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/crude-tanker-annual-review-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51ee8de06fef35588c3d9_63a1690912ba16dc0e7991fa_image%201.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/crude-tanker-annual-review-2022) | [Local Asset](../../images/66b51ee8de06fef35588c3d9_63a1690912ba16dc0e7991fa_image%201.avif)
 
 Looking at Asia (image 2), it is clear that China and India, as well as the main Asian countries, have steadily taken off larger volumes of Russian crude oil from April to November, resulting in a historic record for Russian oil shipments destined for Asia in the current year. It remains to be seen whether the price cap introduced by the G7 countries will affect the consistency of Russian crude oil supplies to Asia. A few days ago, [Reuters](https://www.reuters.com/business/energy/russian-oil-sold-india-below-price-cap-buyers-market-2022-12-14/) reported that Russia's flagship crude oil from the Urals was being sold at even greater discounts following the European ban on Russian oil imports, and that the main buyer, India, was buying barrels at a price well below the $60 price ceiling agreed to by the West. Overall, Russia is looking to Asian buyers for about 1 million barrels per day as the European Union cuts back on imports from Moscow.
 
@@ -69,7 +69,7 @@ Looking at Asia (image 2), it is clear that China and India, as well as the main
 
 > **Figure 3: Image 2 - Data Source: The Signal Ocean Platform, Oil Flows, From Russia to Asia, Main Destinations Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *Image 2 - Data Source: The Signal Ocean Platform, Oil Flows, from Russia to Asia, Main Destinations https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/crude-tanker-annual-review-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51ee8de06fef35588c36f_63a1692f3de9af8e526cf7c3_image%202.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/crude-tanker-annual-review-2022) | [Local Asset](../../images/66b51ee8de06fef35588c36f_63a1692f3de9af8e526cf7c3_image%202.avif)
 
 
 ## Ii. Demand Growth - Tonne Charts
@@ -81,7 +81,7 @@ The changing geopolitical situation, with Russia looking to Asian trading partne
 
 > **Figure 4: Image 3 - Data Source: The Signal Ocean Platform, Demand Dirty, VLCC - Suezmax- Aframax Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *Image 3 - Data Source: The Signal Ocean Platform, Demand Dirty, VLCC - Suezmax- Aframax https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/crude-tanker-annual-review-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51ee8de06fef35588c369_63a169623de9afc5fe6d4332_image%203.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/crude-tanker-annual-review-2022) | [Local Asset](../../images/66b51ee8de06fef35588c369_63a169623de9afc5fe6d4332_image%203.avif)
 
 The upward trend in aggregate demand is largely due to the increase in VLCC tonne days, (image 4), which have risen to over 140 million since August and remained high through November. Although there were signs of a significant downward trend in November below the 140 million ceiling recorded in the third quarter, the trend finally reversed in early December. Concerns have been raised in recent days that the exceptional growth may be eroding, but there is no denying that the current trend in VLCC demand growth remains exceptionally higher than last year.
 
@@ -90,7 +90,7 @@ The upward trend in aggregate demand is largely due to the increase in VLCC tonn
 
 > **Figure 5: Image 4 - Data Source: The Signal Ocean Platform, Demand Dirty, VLCC - Suezmax- Aframax Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *Image 4 - Data Source: The Signal Ocean Platform, Demand Dirty, VLCC - Suezmax- Aframax https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/crude-tanker-annual-review-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51ee8de06fef35588c36c_63a169913810de844ff70f45_image%204.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/crude-tanker-annual-review-2022) | [Local Asset](../../images/66b51ee8de06fef35588c36c_63a169913810de844ff70f45_image%204.avif)
 
 
 ## Iii. Freight Market - WS
@@ -106,7 +106,7 @@ Interestingly, the third quarter of this year brought an upswing for the VLCC se
 
 > **Figure 6: Image 5 - Data Source: The Signal Ocean Platform, Market Prices, 2020-2022 Https://app.signalocean.com/tanker/dynamic/market-Prices-Tankers**  
 > *Image 5 - Data Source: The Signal Ocean Platform, Market Prices, 2020-2022 https://app.signalocean.com/tanker/dynamic/market-prices-tankers*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/crude-tanker-annual-review-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51ee8de06fef35588c35e_63a169bb51a51d2d404a14f2_image%205.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/crude-tanker-annual-review-2022) | [Local Asset](../../images/66b51ee8de06fef35588c35e_63a169bb51a51d2d404a14f2_image%205.avif)
 
 
 ## Iv. Vessel Speeds
@@ -118,7 +118,7 @@ The upward cycle in the freight market this year has seen crude oil tanker balla
 
 > **Figure 7: Image 6 - Data Source: The Signal Ocean Platform, Vessel Speeds, Ballast, Crude Tankers (82-550kdwt) Https://app.signalocean.com/tanker/reports/vesselspeeds**  
 > *Image 6 - Data Source: The Signal Ocean Platform, Vessel Speeds, Ballast, Crude Tankers (82-550kDwt) https://app.signalocean.com/tanker/reports/vesselSpeeds*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/crude-tanker-annual-review-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51ee8de06fef35588c350_63a169e5779cf880d801a67d_image%206.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/crude-tanker-annual-review-2022) | [Local Asset](../../images/66b51ee8de06fef35588c350_63a169e5779cf880d801a67d_image%206.avif)
 
 Looking at the VLCC segment, (image 7), the ballast speed at sea increased to over 12.5 knots in November, while it was 12.4 knots in mid-December, compared to 11.7 knots in December last year. It is the first time since early 2020 that ballast speed of VLCC tankers exceeds 12 knots, and the upward trend will continue as long as freight rates remain stable on WS.
 
@@ -127,7 +127,7 @@ Looking at the VLCC segment, (image 7), the ballast speed at sea increased to ov
 
 > **Figure 8: Image 7 - Data Source: The Signal Ocean Platform, Vessel Speeds, Ballast, Crude Tankers (VLCC) Https://app.signalocean.com/tanker/reports/vesselspeeds**  
 > *Image 7 - Data Source: The Signal Ocean Platform, Vessel Speeds, Ballast, Crude Tankers (VLCC) https://app.signalocean.com/tanker/reports/vesselSpeeds*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/crude-tanker-annual-review-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51ee8de06fef35588c3d6_63a16a0fcf3828ffd7400ef5_image%207.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/crude-tanker-annual-review-2022) | [Local Asset](../../images/66b51ee8de06fef35588c3d6_63a16a0fcf3828ffd7400ef5_image%207.avif)
 
 
 ## V. Vessel Supply
@@ -139,7 +139,7 @@ The supply of vessels for VLCC tankers is now at its lowest level since the begi
 
 > **Figure 9: Image 8 - Data Source: The Signal Ocean Platform, Weekly Supply Trend, VLCC AG Ras Tanura-Fe, 2022**  
 > *Image 8 - Data Source: The Signal Ocean Platform, Weekly Supply Trend, VLCC AG Ras Tanura-FE, 2022*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/crude-tanker-annual-review-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51ee8de06fef35588c34b_63a16a4d51a51dc6824aa781_image%208.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/crude-tanker-annual-review-2022) | [Local Asset](../../images/66b51ee8de06fef35588c34b_63a16a4d51a51dc6824aa781_image%208.avif)
 
 
 ## Overall Outlook - Looking Ahead

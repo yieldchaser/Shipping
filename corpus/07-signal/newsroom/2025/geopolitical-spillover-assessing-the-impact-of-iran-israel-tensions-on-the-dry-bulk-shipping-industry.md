@@ -28,7 +28,7 @@ tags:
 ![‍](../../images/6852c6dda5cf2147edfbd1ea_AD_4nXdEh5HKTPhDd6RcaDThn7qckezyIwb974UsWYZnZRjZBVkPJRY9KTq6_6azjNpRMuegfwsRuXu4_q1udQcKfb709a47B7Hu7l7Ajpca_mTTBpWOxr81mHq6S2K2VhVksWiK_FoOIA.png)
 
 > **Figure 1: ‍**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-dry-bulk-shipping-industry) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6852c6dda5cf2147edfbd1ea_AD_4nXdEh5HKTPhDd6RcaDThn7qckezyIwb974UsWYZnZRjZBVkPJRY9KTq6_6azjNpRMuegfwsRuXu4_q1udQcKfb709a47B7Hu7l7Ajpca_mTTBpWOxr81mHq6S2K2VhVksWiK_FoOIA.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-dry-bulk-shipping-industry) | [Local Asset](../../images/6852c6dda5cf2147edfbd1ea_AD_4nXdEh5HKTPhDd6RcaDThn7qckezyIwb974UsWYZnZRjZBVkPJRY9KTq6_6azjNpRMuegfwsRuXu4_q1udQcKfb709a47B7Hu7l7Ajpca_mTTBpWOxr81mHq6S2K2VhVksWiK_FoOIA.png)
 
 
 ## Executive Summary:
@@ -60,27 +60,27 @@ Currently, the vessel count in the Strait moving in both directions sits within 
 
 > **Figure 2: Waypoint Analysis of the Strait of Hormuz From the Signal Ocean Platform (Tsop)**  
 > *Waypoint analysis of the Strait of Hormuz from the Signal Ocean Platform (TSOP)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-dry-bulk-shipping-industry) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6852c6dda5cf2147edfbd1cb_AD_4nXfGapoR8e8JkUXSimKmyldV005Y2Kkur_-HTfxM8og-WqzS5DYuKvghJYVS5JvOjE5GgIQheeMjzFFmWMR8_Gy4BYqaHOul9Rcgl4I58oTvecOs4hx7erS31mnnpagKPoqWaW4PBw.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-dry-bulk-shipping-industry) | [Local Asset](../../images/6852c6dda5cf2147edfbd1cb_AD_4nXfGapoR8e8JkUXSimKmyldV005Y2Kkur_-HTfxM8og-WqzS5DYuKvghJYVS5JvOjE5GgIQheeMjzFFmWMR8_Gy4BYqaHOul9Rcgl4I58oTvecOs4hx7erS31mnnpagKPoqWaW4PBw.png)
 
 
 ![Current View of the Dry Bulk Market in the Strait of Hormuz](../../images/6852c6dda5cf2147edfbd1c3_AD_4nXeJqQf9voUWD1jn8HfDuLknmqBAoyH4-qNlvjCTr7fLUe2S4iZee5cseB9Fy1vTzFk7pmYVtxyBdN_4wmDKkQeXZD0aiRb07Xn2bDPryA0vBr1wUp1xPXXWvW8-oYbAjb6bPscK3g.png)
 
 > **Figure 3: Current View of the Dry Bulk Market in the Strait of Hormuz**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-dry-bulk-shipping-industry) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6852c6dda5cf2147edfbd1c3_AD_4nXeJqQf9voUWD1jn8HfDuLknmqBAoyH4-qNlvjCTr7fLUe2S4iZee5cseB9Fy1vTzFk7pmYVtxyBdN_4wmDKkQeXZD0aiRb07Xn2bDPryA0vBr1wUp1xPXXWvW8-oYbAjb6bPscK3g.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-dry-bulk-shipping-industry) | [Local Asset](../../images/6852c6dda5cf2147edfbd1c3_AD_4nXeJqQf9voUWD1jn8HfDuLknmqBAoyH4-qNlvjCTr7fLUe2S4iZee5cseB9Fy1vTzFk7pmYVtxyBdN_4wmDKkQeXZD0aiRb07Xn2bDPryA0vBr1wUp1xPXXWvW8-oYbAjb6bPscK3g.png)
 
 
 ![Laden Vessel Count in the Strait of Hormuz vs Suez Canal From the Signal Ocean Platform (Tsop) as of Tuesday, 17 June 2025](../../images/6852c6dda5cf2147edfbd1ce_AD_4nXdkOUniO4efzopIoRSIzMXMONDkFCpv9t3deq_ugD9Oz9z3dsQE2lzGvtjOvMEuM-ebwtW3npEhtqsl9yLXcqY0vKiMAtGaZ87yfRHyxmcTmNNJJGfdboVV-gbkN2pHyAkHCqyv-A.png)
 
 > **Figure 4: Laden Vessel Count in the Strait of Hormuz vs Suez Canal From the Signal Ocean Platform (Tsop) as of Tuesday, 17 June 2025**  
 > *Laden vessel count in the Strait of Hormuz vs Suez Canal from the Signal Ocean Platform (TSOP) as of Tuesday, 17 June 2025*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-dry-bulk-shipping-industry) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6852c6dda5cf2147edfbd1ce_AD_4nXdkOUniO4efzopIoRSIzMXMONDkFCpv9t3deq_ugD9Oz9z3dsQE2lzGvtjOvMEuM-ebwtW3npEhtqsl9yLXcqY0vKiMAtGaZ87yfRHyxmcTmNNJJGfdboVV-gbkN2pHyAkHCqyv-A.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-dry-bulk-shipping-industry) | [Local Asset](../../images/6852c6dda5cf2147edfbd1ce_AD_4nXdkOUniO4efzopIoRSIzMXMONDkFCpv9t3deq_ugD9Oz9z3dsQE2lzGvtjOvMEuM-ebwtW3npEhtqsl9yLXcqY0vKiMAtGaZ87yfRHyxmcTmNNJJGfdboVV-gbkN2pHyAkHCqyv-A.png)
 
 
 ![Ballast Vessel Count in the Strait of Hormuz vs Suez Canal From the Signal Ocean Platform (Tsop) as of Tuesday, 17 June 2025](../../images/6852c6dda5cf2147edfbd1d1_AD_4nXfcSvkZMctla4Ht3KokR9DdnSWQDcAz4HtzCG1ASSYtCyeWAalU4kQS8ACztooIzCx7j8KNc5kvnmj7PYLrRJLXpIaozhYv-fdTMeYAK6ktCN83cK2Bwo42cID5XPgMTiZYEezboA.png)
 
 > **Figure 5: Ballast Vessel Count in the Strait of Hormuz vs Suez Canal From the Signal Ocean Platform (Tsop) as of Tuesday, 17 June 2025**  
 > *Ballast vessel count in the Strait of Hormuz vs Suez Canal from the Signal Ocean Platform (TSOP) as of Tuesday, 17 June 2025*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-dry-bulk-shipping-industry) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6852c6dda5cf2147edfbd1d1_AD_4nXfcSvkZMctla4Ht3KokR9DdnSWQDcAz4HtzCG1ASSYtCyeWAalU4kQS8ACztooIzCx7j8KNc5kvnmj7PYLrRJLXpIaozhYv-fdTMeYAK6ktCN83cK2Bwo42cID5XPgMTiZYEezboA.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-dry-bulk-shipping-industry) | [Local Asset](../../images/6852c6dda5cf2147edfbd1d1_AD_4nXfcSvkZMctla4Ht3KokR9DdnSWQDcAz4HtzCG1ASSYtCyeWAalU4kQS8ACztooIzCx7j8KNc5kvnmj7PYLrRJLXpIaozhYv-fdTMeYAK6ktCN83cK2Bwo42cID5XPgMTiZYEezboA.png)
 
 
 ## 2. Scenario Analysis
@@ -99,14 +99,14 @@ The UAE also leads in terms of dry bulk tonnage export from the Arabian Gulf, le
 
 > **Figure 6: Dry Bulk Flows to the Arabian Gulf From the Signal Ocean Platform (Tsop) Ytd**  
 > *Dry Bulk flows to the Arabian Gulf from the Signal Ocean Platform (TSOP) YTD*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-dry-bulk-shipping-industry) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6852c6dda5cf2147edfbd1d8_AD_4nXcoESiSnIEawLeJQb3jEDI4hOquziynckb9hwsdjYetiUmSTNV4h7U_Sh8Vj47IMBWt_o-OJCNg50JG6w8PKUEBlMstbpMoUd-C7CWlXyDi364upFAiJ1FaETu2NghtN7KV1DQz.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-dry-bulk-shipping-industry) | [Local Asset](../../images/6852c6dda5cf2147edfbd1d8_AD_4nXcoESiSnIEawLeJQb3jEDI4hOquziynckb9hwsdjYetiUmSTNV4h7U_Sh8Vj47IMBWt_o-OJCNg50JG6w8PKUEBlMstbpMoUd-C7CWlXyDi364upFAiJ1FaETu2NghtN7KV1DQz.png)
 
 
 ![Dry Bulk Flows From the Arabian Gulf From the Signal Ocean Platform (Tsop) Ytd](../../images/6852c6dda5cf2147edfbd1c8_AD_4nXeWji-O7ZGkbRzkGcJMB0Mq0W0BBt3QKJ9HgimBiQHSnsJBAzOMg2b_R98K4vVjzwoZVncuXxuUilJRt1Y_JaK_9CK4u-c0xiINgk-4gWk-Rpn33SCO8PTS_tNKMhCXuUyssMCjyg.png)
 
 > **Figure 7: Dry Bulk Flows From the Arabian Gulf From the Signal Ocean Platform (Tsop) Ytd**  
 > *Dry Bulk flows from the Arabian Gulf from the Signal Ocean Platform (TSOP) YTD*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-dry-bulk-shipping-industry) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6852c6dda5cf2147edfbd1c8_AD_4nXeWji-O7ZGkbRzkGcJMB0Mq0W0BBt3QKJ9HgimBiQHSnsJBAzOMg2b_R98K4vVjzwoZVncuXxuUilJRt1Y_JaK_9CK4u-c0xiINgk-4gWk-Rpn33SCO8PTS_tNKMhCXuUyssMCjyg.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-dry-bulk-shipping-industry) | [Local Asset](../../images/6852c6dda5cf2147edfbd1c8_AD_4nXeWji-O7ZGkbRzkGcJMB0Mq0W0BBt3QKJ9HgimBiQHSnsJBAzOMg2b_R98K4vVjzwoZVncuXxuUilJRt1Y_JaK_9CK4u-c0xiINgk-4gWk-Rpn33SCO8PTS_tNKMhCXuUyssMCjyg.png)
 
 
 ## Scenario B: Partial Disruption

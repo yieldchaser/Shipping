@@ -49,7 +49,7 @@ The Supply Trend Report (pictured below) can be used to quickly identify market 
 
 > **Figure 1: Here Is a the Supply Trend Report for VLCCs in Ras Tanura versus the VLCC AG-Far East Market Rates.**  
 > *Here is a the Supply Trend Report for VLCCs in Ras Tanura versus the VLCC AG-Far East market rates.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/digital-transformation-in-commercial-shipping-chartering-software) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51fc0e080abc09f7496b8_5fc15be53f21723d2975e422_Supply%20Trend%20Report%20for%20VLCCs%20in%20Ras%20Tanura%20versus%20the%20VLCC%20AG-Far%20East%20market%20rates.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/digital-transformation-in-commercial-shipping-chartering-software) | [Local Asset](../../images/66b51fc0e080abc09f7496b8_5fc15be53f21723d2975e422_Supply%20Trend%20Report%20for%20VLCCs%20in%20Ras%20Tanura%20versus%20the%20VLCC%20AG-Far%20East%20market%20rates.avif)
 
 This report is especially powerful when used in combination with the Fixture Counts Report for the same region and vessel class (pictured below).  Here we see VLCC Fixture counts for 2020 and 2019, broken down into months and decades.
 
@@ -58,7 +58,7 @@ This report is especially powerful when used in combination with the Fixture Cou
 
 > **Figure 2: The Fixture Count Dashboard Shows VLCC Fixtures by Region for 2020 and 2019**  
 > *The Fixture Count Dashboard shows VLCC Fixtures by region for 2020 and 2019. Here we see Fixtures per month and per decade, organized by region, for Aframax vessels.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/digital-transformation-in-commercial-shipping-chartering-software) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51fc0e080abc09f7496b4_5fc15be53f2172fed875e423_The%20Fixture%20Count%20Dashboard%20shows%20VLCC%20Fixtures%20-%20signal%20ocean%20platform.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/digital-transformation-in-commercial-shipping-chartering-software) | [Local Asset](../../images/66b51fc0e080abc09f7496b4_5fc15be53f2172fed875e423_The%20Fixture%20Count%20Dashboard%20shows%20VLCC%20Fixtures%20-%20signal%20ocean%20platform.avif)
 
 
 ## Real-Time View of a Vessel Under Your Charter
@@ -70,7 +70,7 @@ Use the Signal Ocean chartering software to quickly check the current commercial
 
 > **Figure 3: Using the Ports Dashboard, You Can See Whether a Vessel Has Berthed and What Operation She Is Currently Doing.**  
 > *Using the Ports Dashboard, you can see whether a vessel has berthed and what operation she is currently doing.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/digital-transformation-in-commercial-shipping-chartering-software) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51fc0e080abc09f7496b1_5fc15be53f21721a4e75e424_Ports%20Dashboard%20-%20signal%20ocean%20platform.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/digital-transformation-in-commercial-shipping-chartering-software) | [Local Asset](../../images/66b51fc0e080abc09f7496b1_5fc15be53f21721a4e75e424_Ports%20Dashboard%20-%20signal%20ocean%20platform.avif)
 
 Before coming to market and during a voyage, The Signal Ocean Platform enables charterers to spot both high-level market dynamics (including changes in vessel supply, freight rates,  Forward Freight Agreement (FFA) trends) and granular information about vessel movements and current operations, down to the jetty-level. and granular information about vessel movements and current operations, down to the jetty-level. Using Signal Ocean allows charterers to stay informed of market trends and, as a result, make optimal chartering decisions for their business.
 

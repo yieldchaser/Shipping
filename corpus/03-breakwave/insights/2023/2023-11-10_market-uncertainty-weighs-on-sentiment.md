@@ -26,7 +26,7 @@ Uncertainty over monetary policy saw a mixed performance from commodity markets.
 ![1699562648627](assets/2023-11-10_market-uncertainty-weighs-on-sentiment_img_1699562648627_57ea193f5e53.png)
 
 > **Figure 1: 1699562648627**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-10_market-uncertainty-weighs-on-sentiment_img_1699562648627_57ea193f5e53.png)
+> [Local Asset](assets/2023-11-10_market-uncertainty-weighs-on-sentiment_img_1699562648627_57ea193f5e53.png)
 
 **Gold**rallied late in the session after dovish comments from the Fed. Governor Raphael Bostic argued there’s probably no need for more rate increases. Even so, two other governors warned that the full effect of past rate hikes have not been fully felt. The comments supported gold’s appeal as an interest rate sensitive haven asset. The market is now pricing in almost no chance of a rate hike in December. The**Platinum Group Metals**remained under pressure amid concerns over demand.**Palladium**fell below USD1,000/oz for the first time in five years as a slowdown in car sales and the rise of electric vehicles weighs on demand. This fall as been magnified by users switching to cheaper**platinum.**
 

@@ -29,14 +29,14 @@ Global crude steel production outside of China totaled a very robust 74.9 millio
 ![Comm 1 6.30](assets/2021-07-01_even-stronger-steel-production-both-in-and-outside-of-china_img_comm1630_8b2815e3bd55.jpg)
 
 > **Figure 1: Comm 1 6.30**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-01_even-stronger-steel-production-both-in-and-outside-of-china_img_comm1630_8b2815e3bd55.jpg)
+> [Local Asset](assets/2021-07-01_even-stronger-steel-production-both-in-and-outside-of-china_img_comm1630_8b2815e3bd55.jpg)
 
 Even more recent data from China has also been made available and shows that China's steel production has continued to gain strength as well. Daily crude steel production at large and medium-sized mills in China averaged 2.4 million tons during June 11 - June 20. This is up by 3% from early June and is up year-on-year by 12%. As we have long been stressing in our Weekly Dry Bulk Reports and Weekly China Reports, China’s steel production has been poised to stay strong even as the central government has been working to place limitations on heavy polluting steel mills. Overall, the world's major economies continuing to strengthen remains yet another positive issue in the dry bulk shipping market, as this continues to lead to more steel being produced and more iron ore being consumed. Global iron ore exports remain seasonal and are poised to continue to increase much further as key iron ore producers continue to ramp up their production. Fortunately for the dry bulk market, there remains strong demand for imported iron ore both in and outside of China.
 
 ![Comm2 6.30](assets/2021-07-01_even-stronger-steel-production-both-in-and-outside-of-china_img_comm2630_5dada754e70b.jpg)
 
 > **Figure 2: Comm2 6.30**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-01_even-stronger-steel-production-both-in-and-outside-of-china_img_comm2630_5dada754e70b.jpg)
+> [Local Asset](assets/2021-07-01_even-stronger-steel-production-both-in-and-outside-of-china_img_comm2630_5dada754e70b.jpg)
 
 ---
 

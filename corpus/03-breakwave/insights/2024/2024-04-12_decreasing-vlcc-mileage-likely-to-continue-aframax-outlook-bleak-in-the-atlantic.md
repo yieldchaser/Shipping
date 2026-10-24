@@ -27,12 +27,12 @@ This week, in the East, we discuss falling VLCC average voyage mileage and the o
 ![Στιγμιότυπο Οθόνης 2024 04 11 103632](assets/2024-04-12_decreasing-vlcc-mileage-likely-to-continue-aframax-outlook-bleak-in-the-atlantic_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e017433986c7.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 04 11 103632**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSZ0fj3wvQVjEd-RgvyiMISO23VZbG_4rhEYiu07Hb5xyd4Q_Z_h4a8-N0e6avNdsW1Y_NG54=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-12_decreasing-vlcc-mileage-likely-to-continue-aframax-outlook-bleak-in-the-atlantic_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e017433986c7.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSZ0fj3wvQVjEd-RgvyiMISO23VZbG_4rhEYiu07Hb5xyd4Q_Z_h4a8-N0e6avNdsW1Y_NG54=) | [Local Asset](assets/2024-04-12_decreasing-vlcc-mileage-likely-to-continue-aframax-outlook-bleak-in-the-atlantic_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e017433986c7.png)
 
 ![Στιγμιότυπο Οθόνης 2024 04 11 103653](assets/2024-04-12_decreasing-vlcc-mileage-likely-to-continue-aframax-outlook-bleak-in-the-atlantic_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da818eeb31d5.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 04 11 103653**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSZ0fj3wvQVjEd-RgvyiMISO23VZbG_4rhEYiu07Hb5xyd4Q_Z_h4a8-N0e6avNdsW1Y_NG54=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-12_decreasing-vlcc-mileage-likely-to-continue-aframax-outlook-bleak-in-the-atlantic_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da818eeb31d5.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSZ0fj3wvQVjEd-RgvyiMISO23VZbG_4rhEYiu07Hb5xyd4Q_Z_h4a8-N0e6avNdsW1Y_NG54=) | [Local Asset](assets/2024-04-12_decreasing-vlcc-mileage-likely-to-continue-aframax-outlook-bleak-in-the-atlantic_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da818eeb31d5.png)
 
 - VLCCs are travelling shorter distances as a result of less Atlantic Basin crudes going to Northeast Asia. Through March,[average voyage mileage](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSZ0fj3wvQVjEd-RgvyiMISO23VZbG_4rhEYiu07Hb5xyd4Q_Z_h4a8-N0e6avNdsW1Y_NG54=)for completed voyages on VLCCs fell for the third month in a row.
 
@@ -42,7 +42,7 @@ This week, in the East, we discuss falling VLCC average voyage mileage and the o
 ![Στιγμιότυπο Οθόνης 2024 04 11 103716](assets/2024-04-12_decreasing-vlcc-mileage-likely-to-continue-aframax-outlook-bleak-in-the-atlantic_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cd006a8e3f77.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 04 11 103716**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSZ0fj4ZJQX_QexvAZgpBXBULEv0h_IBC7D6jRaTEXIElCRJ9KMgbd6z4s9rAVCqxK0MEIzek=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-12_decreasing-vlcc-mileage-likely-to-continue-aframax-outlook-bleak-in-the-atlantic_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cd006a8e3f77.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSZ0fj4ZJQX_QexvAZgpBXBULEv0h_IBC7D6jRaTEXIElCRJ9KMgbd6z4s9rAVCqxK0MEIzek=) | [Local Asset](assets/2024-04-12_decreasing-vlcc-mileage-likely-to-continue-aframax-outlook-bleak-in-the-atlantic_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cd006a8e3f77.png)
 
 - [LR voyages](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSZ0fj4ZJQX_QexvAZgpBXBULEv0h_IBC7D6jRaTEXIElCRJ9KMgbd6z4s9rAVCqxK0MEIzek=)on a departures basis reached an all-time high in March. Record-setting utilisation on the[Pacific Basin-to-Europe route](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSZ0fj4ItoqcsJx0grvWL2nr20ByDYSdgq0qPtp65uPRhj5dLDJK4HGvJvWjSA0yFlFTPj71Q=)- which includes the Cape of Good Hope rerouting – is boosting tonne-miles and keeping freight rates volatile.
 
@@ -52,7 +52,7 @@ This week, in the East, we discuss falling VLCC average voyage mileage and the o
 ![Στιγμιότυπο Οθόνης 2024 04 11 103759](assets/2024-04-12_decreasing-vlcc-mileage-likely-to-continue-aframax-outlook-bleak-in-the-atlantic_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c08bea331663.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 04 11 103759**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSZ0fj4ZBTpfwCcwJ51rPu0GnNEjsGQV8T0SW2z947sZZiewaq1FVGiXUq1r5mVt07UHC2cqc=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-12_decreasing-vlcc-mileage-likely-to-continue-aframax-outlook-bleak-in-the-atlantic_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c08bea331663.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSZ0fj4ZBTpfwCcwJ51rPu0GnNEjsGQV8T0SW2z947sZZiewaq1FVGiXUq1r5mVt07UHC2cqc=) | [Local Asset](assets/2024-04-12_decreasing-vlcc-mileage-likely-to-continue-aframax-outlook-bleak-in-the-atlantic_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c08bea331663.png)
 
 - According to our Aframax freight basket, freight rates are currently below 2023 averages. This is partially due to increased vessel supply in mainstream trade as increased sanctions enforcement sent tonnage from the Russian trade back to other markets. However, the main factor contributing to the recent downturn in Aframax rates is less tanker demand on the transatlantic route USG-to-Europe.
 
@@ -62,7 +62,7 @@ This week, in the East, we discuss falling VLCC average voyage mileage and the o
 ![Στιγμιότυπο Οθόνης 2024 04 11 103821](assets/2024-04-12_decreasing-vlcc-mileage-likely-to-continue-aframax-outlook-bleak-in-the-atlantic_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7d6389e1b9e.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 04 11 103821**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSZ0fj4Q2RiHc-0X29vMOAXYf90oq5_wYNXrgJbuoablh0nOWXYl-lv1FY2C1VWq6tUkiY67c=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-12_decreasing-vlcc-mileage-likely-to-continue-aframax-outlook-bleak-in-the-atlantic_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7d6389e1b9e.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSZ0fj4Q2RiHc-0X29vMOAXYf90oq5_wYNXrgJbuoablh0nOWXYl-lv1FY2C1VWq6tUkiY67c=) | [Local Asset](assets/2024-04-12_decreasing-vlcc-mileage-likely-to-continue-aframax-outlook-bleak-in-the-atlantic_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7d6389e1b9e.png)
 
 - The upside for[TC2 rates](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSZ0fj4Q2RiHc-0X29vMOAXYf90oq5_wYNXrgJbuoablh0nOWXYl-lv1FY2C1VWq6tUkiY67c=)is currently capped by narrow transatlantic arbitrage opportunities. European gasoline prices remain relatively high and have kept a lid on[transatlantic gasoline exports](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSZ0fj4j6hKq1c-yxlOo01wiVLqUj9uFIARZloynJW0sqRMUVv1jum8tIah3tYVs1XYezWl2A=), even with the expected seasonal peak in US gasoline demand around the corner.
 

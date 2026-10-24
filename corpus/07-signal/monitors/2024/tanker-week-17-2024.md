@@ -32,7 +32,7 @@ tags:
 ![662b8e3015ad45c470bb6a0c Chart of the Week Tanker](../../images/662b8e3015ad45c470bb6a0c_chart of the week tanker.png)
 
 > **Figure 1: 662b8e3015ad45c470bb6a0c Chart of the Week Tanker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-17-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/662b8e3015ad45c470bb6a0c_chart of the week tanker.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-17-2024) | [Local Asset](../../images/662b8e3015ad45c470bb6a0c_chart of the week tanker.png)
 
 As April draws to a close, the crude freight market sentiment for VLCC and Suezmax tankers segments confirms a downward trajectory, contrasting with a sense of stability observed in the Aframax Med route, albeit accompanied by a decline in vessel activity. Turning to the demand side, the outlook for both dirty and clean tanker vessel sizes paints a challenging picture for the upcoming days of May. A clear downward trend is evident, poised to exert pressure on market prices, while signals of increased supply further compound the situation.
 

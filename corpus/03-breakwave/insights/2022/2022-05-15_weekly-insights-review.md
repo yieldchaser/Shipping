@@ -32,7 +32,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-05-15_weekly-insights-revie
 ![1](assets/2022-05-15_weekly-insights-review_img_1_1a1f570fb0f8.jpg)
 
 > **Figure 1: 1**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/11/the-indian-heatwave-and-the-impact-on-trade) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-15_weekly-insights-review_img_1_1a1f570fb0f8.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/11/the-indian-heatwave-and-the-impact-on-trade) | [Local Asset](assets/2022-05-15_weekly-insights-review_img_1_1a1f570fb0f8.jpg)
 
 ## The Indian Heatwave and the Impact on Trade
 
@@ -43,7 +43,7 @@ Temperatures in India have been soaring to unprecedented levels in recent days a
 ![2](assets/2022-05-15_weekly-insights-review_img_2_5d4cde9b0b9c.jpg)
 
 > **Figure 2: 2**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/12/signal-dry-bulk-weekly-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-15_weekly-insights-review_img_2_5d4cde9b0b9c.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/12/signal-dry-bulk-weekly-report) | [Local Asset](assets/2022-05-15_weekly-insights-review_img_2_5d4cde9b0b9c.jpg)
 
 ## Signal Dry Bulk Weekly Report
 
@@ -54,7 +54,7 @@ The freight market sentiment sustained the firmness of the last days with reviva
 ![3](assets/2022-05-15_weekly-insights-review_img_3_9195c69bbf54.jpg)
 
 > **Figure 3: 3**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/12/coal-indias-production-remains-strong-but-electricity-generation-continuing-to-set-new-records) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-15_weekly-insights-review_img_3_9195c69bbf54.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/12/coal-indias-production-remains-strong-but-electricity-generation-continuing-to-set-new-records) | [Local Asset](assets/2022-05-15_weekly-insights-review_img_3_9195c69bbf54.jpg)
 
 ## Coal India's Production Remains Strong But Electricity Generation Continuing to Set New Records
 
@@ -65,7 +65,7 @@ Coal India produced approximately 53.5 million tons of coal last month, which ma
 ![4](assets/2022-05-15_weekly-insights-review_img_4_72a27bf81c7c.jpg)
 
 > **Figure 4: 4**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/13/european-gas-surges-higher-as-russia-gas-flows-continue-to-fall) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-15_weekly-insights-review_img_4_72a27bf81c7c.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/13/european-gas-surges-higher-as-russia-gas-flows-continue-to-fall) | [Local Asset](assets/2022-05-15_weekly-insights-review_img_4_72a27bf81c7c.jpg)
 
 ## European Gas Surges Higher As Russia Gas Flows Continue to Fall
 
@@ -76,7 +76,7 @@ Mounting growth concerns weigh on commodity markets, with metals leading the com
 ![5](assets/2022-05-15_weekly-insights-review_img_5_bd072408394a.jpg)
 
 > **Figure 5: 5**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/13/dry-bulk-demand-quarterly-review-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-15_weekly-insights-review_img_5_bd072408394a.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/13/dry-bulk-demand-quarterly-review-2022) | [Local Asset](assets/2022-05-15_weekly-insights-review_img_5_bd072408394a.jpg)
 
 ## Dry Bulk Demand Quarterly Review | 2022
 
@@ -87,4 +87,4 @@ The current year presents year to date an overall slower dry bulk demand growth 
 ![6](assets/2022-05-15_weekly-insights-review_img_6_9c0c98a8e9df.png)
 
 > **Figure 6: 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-15_weekly-insights-review_img_6_9c0c98a8e9df.png)
+> [Local Asset](assets/2022-05-15_weekly-insights-review_img_6_9c0c98a8e9df.png)

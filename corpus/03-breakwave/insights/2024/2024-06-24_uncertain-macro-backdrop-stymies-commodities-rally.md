@@ -37,7 +37,7 @@ A synchronised global easing cycle could be further delayed following better tha
 ![Chart](assets/2024-06-24_uncertain-macro-backdrop-stymies-commodities-rally_img_chart_8dc63c8b0b73.png)
 
 > **Figure 1: Chart**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-24_uncertain-macro-backdrop-stymies-commodities-rally_img_chart_8dc63c8b0b73.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-06-24_uncertain-macro-backdrop-stymies-commodities-rally_img_chart_8dc63c8b0b73.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

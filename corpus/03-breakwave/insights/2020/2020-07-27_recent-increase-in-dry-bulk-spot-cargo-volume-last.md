@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-07-27_recent-increase-in-dr
 ![Ship17](assets/2020-07-27_recent-increase-in-dry-bulk-spot-cargo-volume-last_img_ship17_f208084f1cf6.jpg)
 
 > **Figure 1: Ship17**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-07-27_recent-increase-in-dry-bulk-spot-cargo-volume-last_img_ship17_f208084f1cf6.jpg)
+> [Local Asset](assets/2020-07-27_recent-increase-in-dry-bulk-spot-cargo-volume-last_img_ship17_f208084f1cf6.jpg)
 
 Last week’s large declines in capesize and panamax rates exceeded most expectations, but more positive at least is that overall spot cargo volume increased by a large amount. 102 cargoes were reported in the spot market last week, which is 37 more than the previous week. Last week’s spot cargo volume marked the largest amount seen since the Week Ending June 12th. If a similar volume of spot cargoes continue to surface then rates throughout the market are likely to return to finding sustained support again soon.
 

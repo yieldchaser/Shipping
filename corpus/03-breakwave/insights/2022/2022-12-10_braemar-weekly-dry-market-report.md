@@ -35,7 +35,7 @@ Following a year in which the Baltic Capesize Index reached its highest level si
 
 > **Figure 1: Source: Refinitiv Period From 01-Nov-21 to 22-Jan-22 Unknown Due**  
 > *Source: Refinitiv Period from 01-Nov-21 to 22-Jan-22 unknown due to AIS blackout*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-10_braemar-weekly-dry-market-report_img_image028929_99e5f3a1116f.png)
+> [Local Asset](assets/2022-12-10_braemar-weekly-dry-market-report_img_image028929_99e5f3a1116f.png)
 
 This coupled with the removal of the 14-day minimum ballast requirement in West Australia later in the year meant the Capesize market has been operating much more efficiently, weighing on freight rates. Though we got a brief spike in Chinese queues in September due to Typhoon Moifa this wasn’t close to the peaks of the start of the year. The C5 roundtrip has now shed approximately 7 days compared to what it was a year ago, despite the fleet operating at considerably slower speeds.
 
@@ -44,7 +44,7 @@ As the congestion in China eased, the world was met with the alarming news of a 
 ![Market Chart 2](assets/2022-12-10_braemar-weekly-dry-market-report_img_image128929_d76468768e3e.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-10_braemar-weekly-dry-market-report_img_image128929_d76468768e3e.png)
+> [Local Asset](assets/2022-12-10_braemar-weekly-dry-market-report_img_image128929_d76468768e3e.png)
 
 European power stations started importing coal from the US, Colombia, South Africa and Australia with the long voyages suiting the Capes. As a result, Capesize demand from European coal imports increased by 79.4% YoY across March-November.
 
@@ -53,7 +53,7 @@ With the war now in full flow and European coal demand soaring, Q2 was trending 
 ![Market Chart 3](assets/2022-12-10_braemar-weekly-dry-market-report_img_image228929_34cac5d79c2b.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-10_braemar-weekly-dry-market-report_img_image228929_34cac5d79c2b.png)
+> [Local Asset](assets/2022-12-10_braemar-weekly-dry-market-report_img_image228929_34cac5d79c2b.png)
 
 Hitting new quarterly highs in both Q1 and Q2, West African bauxite has continued its rise in importance to the Cape market. Bauxite volumes surged 19.8% YoY in 1H22 to 42m tonnes. However, the inevitable weather-ridden Q3 took its toll and thus the West Africa option for ballasters was less fruitful and the Brazilian miners had more vessels to choose from. This was particularly impactful on Capesize returns as the VLOCs started grabbing a greater share of Brazilian iron ore shipments, reaching their highest daily volume of the year by October.
 
@@ -68,6 +68,6 @@ The macroeconomic environment and volatile freight returns this year has driven 
 ![Market Chart 4](assets/2022-12-10_braemar-weekly-dry-market-report_img_image328829_803d6371b5c1.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-10_braemar-weekly-dry-market-report_img_image328829_803d6371b5c1.png)
+> [Local Asset](assets/2022-12-10_braemar-weekly-dry-market-report_img_image328829_803d6371b5c1.png)
 
 Looking to next year, there remains several uncertainties with regards to new regulation, a Chinese recovery and a worsening economy in the West. And while the growth outlook for iron ore and coal is limited, we still see the potential for better days ahead.

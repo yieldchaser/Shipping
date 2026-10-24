@@ -27,7 +27,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-04-06_06m5d20vesu5oj8syk3lx
 
 > **Figure 1: ‍Our Analysis Focuses on How Russian Oil Flows Are Diverted To**  
 > *‍Our analysis focuses on how Russian oil flows are diverted to other, non-European countries and what sources other than Russian oil purchases arise for European countries.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642d66475a64e63665dcc202-oilflowsinf_4e05ca5862ad.png)
+> [Local Asset](assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642d66475a64e63665dcc202-oilflowsinf_4e05ca5862ad.png)
 
 ## Signal Ocean Looks at the Evolution of Oil Flows Amid the Enforcement of Eu Sanctions on Russian Oil
 
@@ -53,7 +53,7 @@ Overall, seaborne oil flows to European destinations (the Netherlands, Italy, Sp
 
 > **Figure 2: Image 1: Oil Flows to Top European Destinations (Netherlands**  
 > *Image 1: Oil flows to top European destinations (Netherlands, Italy, Spain, France, UK, Greece, Germany)https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/oilflows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afbadfc116369458231bb-image1oilex_f55f1378e688.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/oilflows) | [Local Asset](assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afbadfc116369458231bb-image1oilex_f55f1378e688.png)
 
 ## Top Asian Destinations
 
@@ -63,7 +63,7 @@ In contrast to the main European oil importing countries, where there was a stea
 
 > **Figure 3: Image 2: Oil Flows to Top Asian Destinations China**  
 > *Image 2: Oil flows to top Asian destinations China, India, Malaysia, Indonesia, Japan, Taiwanhttps://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/oilflows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afbdb04a8a2b09b5177df-image2oilex_7cb0c231e922.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/oilflows) | [Local Asset](assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afbdb04a8a2b09b5177df-image2oilex_7cb0c231e922.png)
 
 *The next two sections, focusing on Russian oil exports, examine the new patterns in oil flows for Russia's losses and the alternative sources of European energy demand in the first quarter of the year.*
 
@@ -81,13 +81,13 @@ Amid the enforcement of European import bans on Russian oil, China and India top
 
 > **Figure 4: Image 3: Crude Oil Exports to China From Russian Federation**  
 > *Image 3: Crude Oil exports to China from Russian Federation 2022-2023https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/oilflows?_gl=1*za1pzz*_ga*MTIwODIxODYwOS4xNjgwNzgyNjgx*_ga_2W2L38HL2W*MTY4MDc4MjY4MC4xLjAuMTY4MDc4MjY4MC42MC4wLjA.&_ga=2.8418301.951612248.1680782681-1208218609.1680782681) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afc2a6f284c92bee8c6e4-image3crude_2ccfaa62c66f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/oilflows?_gl=1*za1pzz*_ga*MTIwODIxODYwOS4xNjgwNzgyNjgx*_ga_2W2L38HL2W*MTY4MDc4MjY4MC4xLjAuMTY4MDc4MjY4MC42MC4wLjA.&_ga=2.8418301.951612248.1680782681-1208218609.1680782681) | [Local Asset](assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afc2a6f284c92bee8c6e4-image3crude_2ccfaa62c66f.png)
 
 ![Image 4: Crude Oil Exports to India From Russian Federation](assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afc0376de6a9e87cae46a-image4crude_945d481cff33.png)
 
 > **Figure 5: Image 4: Crude Oil Exports to India From Russian Federation**  
 > *Image 4: Crude Oil exports to India from Russian Federation 2022-2023https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/oilflows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afc0376de6a9e87cae46a-image4crude_945d481cff33.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/oilflows) | [Local Asset](assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afc0376de6a9e87cae46a-image4crude_945d481cff33.png)
 
 ‍
 
@@ -101,7 +101,7 @@ MR1 tankers seemed to capture nearly half of the business. However, the new dire
 
 > **Figure 6: Image 5: Clean Oil Exports to Morocco**  
 > *Image 5: Clean Oil exports to Morocco. Egypt, Turkey from Russian Federationhttps://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/oilflows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afcaafc0b524c65ab70b7-image5diese_1fd4a69cc2e9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/oilflows) | [Local Asset](assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afcaafc0b524c65ab70b7-image5diese_1fd4a69cc2e9.png)
 
 ‍
 
@@ -119,7 +119,7 @@ When it comes to European energy needs, the question is how the main importing c
 
 > **Figure 7: Image 6: Crude Oil Exports to Netherlands From Saudi**  
 > *Image 6: Crude Oil exports to Netherlands from Saudi Arabiahttps://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/oilflows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afccf0ad971408290c7fb-image6crude_888a69342da8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/oilflows) | [Local Asset](assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afccf0ad971408290c7fb-image6crude_888a69342da8.png)
 
 Before the end of last year, with the first enforcement of the European ban on Russian crude oil imports, there were various scenarios and forecasts for the U.S contribution to the energy import needs of European countries. For the first quarter of this year, U.S crude oil exports to the Netherlands increased by about 60% and to Germany by more than 100% (**Image**7) compared to a similar period in 2022, with February recording the highest growth for the U.S crude oil exports to Germany.
 
@@ -127,13 +127,13 @@ Before the end of last year, with the first enforcement of the European ban on R
 
 > **Figure 8: Image 7:crude Oil Exports to the Netherlands From the U**  
 > *Image 7:Crude Oil exports to the Netherlands from the U.S.https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/oilflows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afcfdd88e5f3aae3f2a1c-image7crude_fe60efe2418d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/oilflows) | [Local Asset](assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afcfdd88e5f3aae3f2a1c-image7crude_fe60efe2418d.png)
 
 ![Image 8:crude Oil Exports to Germany From the U](assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afd6dc5dae4bb50486658-image8crude_824af058511e.png)
 
 > **Figure 9: Image 8:crude Oil Exports to Germany From the U**  
 > *Image 8:Crude Oil exports to Germany from the U.S., 2022-2023https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/oilflows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afd6dc5dae4bb50486658-image8crude_824af058511e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/oilflows) | [Local Asset](assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afd6dc5dae4bb50486658-image8crude_824af058511e.png)
 
 ## Clean
 
@@ -143,7 +143,7 @@ In the clean segment, we have noticed a trend of more exports from Qatar to the 
 
 > **Figure 10: Image 9:clean Oil Exports to Netherlands From Qatarhttps://app**  
 > *Image 9:Clean Oil exports to Netherlands from Qatarhttps://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/oilflows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afda4f4d52f4f012ac239-image9diese_df08cab54e83.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/oilflows) | [Local Asset](assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afda4f4d52f4f012ac239-image9diese_df08cab54e83.png)
 
 ‍
 
@@ -155,7 +155,7 @@ In the clean segment, we have noticed a trend of more exports from Qatar to the 
 
 > **Figure 11: Image 10: Demand Tonne Charts**  
 > *Image 10: Demand Tonne Charts, Dirty Tankers, 2021-2022-2023https://app.signalocean.com/tanker/reports/toncharts-trade*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/reports/toncharts-trade) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afdcdc5dae467d2489778-image10crud_b8de4d5b33f7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/reports/toncharts-trade) | [Local Asset](assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afdcdc5dae467d2489778-image10crud_b8de4d5b33f7.png)
 
 ‍
 
@@ -163,7 +163,7 @@ In the clean segment, we have noticed a trend of more exports from Qatar to the 
 
 > **Figure 12: Image 11: Demand Tonne Charts**  
 > *Image 11: Demand Tonne Charts, Clean Tankers, 2021-2022-2023https://app.signalocean.com/tanker/reports/toncharts-trade*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/reports/toncharts-trade?_gl=1*16fst5k*_ga*MTIwODIxODYwOS4xNjgwNzgyNjgx*_ga_2W2L38HL2W*MTY4MDc4MjY4MC4xLjAuMTY4MDc4MjY4MC42MC4wLjA.&_ga=2.51852257.951612248.1680782681-1208218609.1680782681) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afdee1952f38ffb2edebb-image11clea_46a1b70319b1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/reports/toncharts-trade?_gl=1*16fst5k*_ga*MTIwODIxODYwOS4xNjgwNzgyNjgx*_ga_2W2L38HL2W*MTY4MDc4MjY4MC4xLjAuMTY4MDc4MjY4MC42MC4wLjA.&_ga=2.51852257.951612248.1680782681-1208218609.1680782681) | [Local Asset](assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afdee1952f38ffb2edebb-image11clea_46a1b70319b1.png)
 
 ‍
 
@@ -177,7 +177,7 @@ The first quarter of the year ended with the highest sea speed ever recorded for
 
 > **Figure 13: Image 12: Vessel Speeds & WS Rates**  
 > *Image 12: Vessel Speeds & WS Rates, VLCC Tankers, 2021-2022-2023https://app.signalocean.com/tanker/reports/vesselSpeedshttps://app.signalocean.com/tanker/dynamic/market-prices-tankers*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/reports/vesselSpeeds) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afe2bf77a0c69133b4f57-image12vess_5f6d05e76202.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/reports/vesselSpeeds) | [Local Asset](assets/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv_img_642afe2bf77a0c69133b4f57-image12vess_5f6d05e76202.png)
 
 ## Looking Ahead - Expectations
 

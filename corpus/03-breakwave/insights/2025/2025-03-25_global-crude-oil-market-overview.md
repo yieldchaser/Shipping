@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-03-25_global-crude-oil-mark
 ![Pexels Tomfisk 3840446](assets/2025-03-25_global-crude-oil-market-overview_img_pexels-tomfisk-3840446_7c5d1f6319e3.jpg)
 
 > **Figure 1: Pexels Tomfisk 3840446**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-25_global-crude-oil-market-overview_img_pexels-tomfisk-3840446_7c5d1f6319e3.jpg)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-03-25_global-crude-oil-market-overview_img_pexels-tomfisk-3840446_7c5d1f6319e3.jpg)
 
 Navigating Volatility Amid Strategic Shifts
 
@@ -32,21 +32,21 @@ The crude oil market is currently contending with a multifaceted landscape shape
 ![Στιγμιότυπο Οθόνης 2025 03 25 103145](assets/2025-03-25_global-crude-oil-market-overview_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8f6c7173a04e.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 03 25 103145**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-25_global-crude-oil-market-overview_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8f6c7173a04e.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-03-25_global-crude-oil-market-overview_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8f6c7173a04e.png)
 
 Oil Price Volatility and Market Sentiment: Global crude prices remain sensitive to geopolitical and economic shocks. From February through early March 2025, benchmark prices dropped by approximately $7 per barrel due to escalating trade tensions and subdued demand forecasts. Yet, the market rebounded following developments such as renewed U.S. sanctions on Iran and OPEC+’s reaffirmed commitment to coordinated production cuts.
 
 ![Στιγμιότυπο Οθόνης 2025 03 25 103151](assets/2025-03-25_global-crude-oil-market-overview_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_86bebaab020a.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 03 25 103151**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-25_global-crude-oil-market-overview_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_86bebaab020a.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-03-25_global-crude-oil-market-overview_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_86bebaab020a.png)
 
 U.S. Tariff Proposals and Their Impact on Crude Tanker Markets: The U.S. administration's proposed imposition of steep fees—up to $1.5 million—on China-built ships entering U.S. ports is causing disruptions across multiple sectors, notably in the crude oil tanker industry. Intended to support domestic shipbuilding, the policy has triggered a vessel shortage that threatens U.S. exports of coal and agricultural goods, potentially halting $130 billion in shipments and putting jobs at risk. Although the direct effects on crude tankers are still emerging, the uncertainty is already prompting oil traders to avoid long-term charters, complicating vessel valuations and hindering strategic planning in the tanker market.
 
 ![Στιγμιότυπο Οθόνης 2025 03 25 103159](assets/2025-03-25_global-crude-oil-market-overview_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0aaeb842da65.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 03 25 103159**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-25_global-crude-oil-market-overview_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0aaeb842da65.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-03-25_global-crude-oil-market-overview_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0aaeb842da65.png)
 
 Conclusion: Strategic Agility Required The global oil market is facing heightened complexity driven by coordinated production efforts from OPEC+, short-term price volatility, and rising geopolitical and policy-driven risks. As regulatory and trade landscapes shift, stakeholders across the supply chain—from producers and traders to shipowners—must adopt a more agile and forward-looking strategy to navigate disruptions and capture opportunities.
 

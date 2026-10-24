@@ -33,7 +33,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform**  
 > *Data Source: The Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-29-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/64ba4ee3271eaafb8885ab41_Tanker_Chart of the Week Russian Oil to India & Turkey.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-29-2023) | [Local Asset](../../images/64ba4ee3271eaafb8885ab41_Tanker_Chart of the Week Russian Oil to India & Turkey.png)
 
 As the third week of July unfolded, crude oil market rates continued to grapple with negative pressure, compounded by a noticeable increase in the supply of crude oil tankers. The demand for Very Large Crude Carriers (VLCC) tonne miles experienced a sharp decline since the second quarter, posing challenges for the industry. Looking ahead, the end of July holds the potential for optimism, contingent on the pivotal role of Chinese crude oil demand in shaping future market dynamics.
 

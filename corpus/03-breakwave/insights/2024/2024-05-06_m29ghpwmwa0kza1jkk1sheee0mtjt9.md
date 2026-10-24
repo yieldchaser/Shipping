@@ -37,12 +37,12 @@ Looking ahead, recent high-frequency indicators suggest that the recovery of glo
 ![Στιγμιότυπο Οθόνης 2024 05 06 093957](assets/2024-05-06_m29ghpwmwa0kza1jkk1sheee0mtjt9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e5f4e341e1d7.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 06 093957**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-06_m29ghpwmwa0kza1jkk1sheee0mtjt9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e5f4e341e1d7.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-05-06_m29ghpwmwa0kza1jkk1sheee0mtjt9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e5f4e341e1d7.png)
 
 ![Στιγμιότυπο Οθόνης 2024 05 06 094015](assets/2024-05-06_m29ghpwmwa0kza1jkk1sheee0mtjt9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ec9b8813568.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 05 06 094015**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-06_m29ghpwmwa0kza1jkk1sheee0mtjt9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ec9b8813568.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-05-06_m29ghpwmwa0kza1jkk1sheee0mtjt9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ec9b8813568.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

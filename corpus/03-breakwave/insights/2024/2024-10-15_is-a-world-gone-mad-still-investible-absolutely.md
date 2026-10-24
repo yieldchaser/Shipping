@@ -39,14 +39,14 @@ Yet, it sometimes seems that every piece of analysis (this newsletter can’t be
 ![Market Chart 1](assets/2024-10-15_is-a-world-gone-mad-still-investible-absolutely_img_image001_7328fd004527.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-15_is-a-world-gone-mad-still-investible-absolutely_img_image001_7328fd004527.jpg)
+> [Local Asset](assets/2024-10-15_is-a-world-gone-mad-still-investible-absolutely_img_image001_7328fd004527.jpg)
 
 or that, despite the bond malaise, a simple 60% equity, 40% bond portfolio is having a great year.
 
 ![Market Chart 2](assets/2024-10-15_is-a-world-gone-mad-still-investible-absolutely_img_image006_2fbc5a22bb42.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-15_is-a-world-gone-mad-still-investible-absolutely_img_image006_2fbc5a22bb42.png)
+> [Local Asset](assets/2024-10-15_is-a-world-gone-mad-still-investible-absolutely_img_image006_2fbc5a22bb42.png)
 
 So what is the catalyst for such a great performance? This is not a rebound year. That was 2023 when equities returned 23%.
 
@@ -57,7 +57,7 @@ Nor is it monetary policy. Along with above-5% interest rates, the Fed has reduc
 ![Market Chart 3](assets/2024-10-15_is-a-world-gone-mad-still-investible-absolutely_img_image002_a8d864f25a63.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-15_is-a-world-gone-mad-still-investible-absolutely_img_image002_a8d864f25a63.jpg)
+> [Local Asset](assets/2024-10-15_is-a-world-gone-mad-still-investible-absolutely_img_image002_a8d864f25a63.jpg)
 
 In total, since the end of 2022, the first year of the Ukraine war, global equities have nearly doubled their value (+46%). Bonds have had a decent performance for the period, +7%, although they have yet to recover from their losses during the recent rate hikes. And this performance comes in spite of, rather than because of policy.
 
@@ -66,7 +66,7 @@ For British investors, the numbers are a bit worse, but mostly due to the strong
 ![Market Chart 4](assets/2024-10-15_is-a-world-gone-mad-still-investible-absolutely_img_image003_28e146fef5ee.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-15_is-a-world-gone-mad-still-investible-absolutely_img_image003_28e146fef5ee.jpg)
+> [Local Asset](assets/2024-10-15_is-a-world-gone-mad-still-investible-absolutely_img_image003_28e146fef5ee.jpg)
 
 ---
 

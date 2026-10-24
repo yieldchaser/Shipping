@@ -43,14 +43,14 @@ BUT the tonne-mile story is not relevant here - as these new sanctions have the 
 ![Market Chart 1](assets/2025-01-13_the-big-picture-ofac-sanctions_img_image0_3df488752f90.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-13_the-big-picture-ofac-sanctions_img_image0_3df488752f90.png)
+> [Local Asset](assets/2025-01-13_the-big-picture-ofac-sanctions_img_image0_3df488752f90.png)
 
 NB: this new OFAC list is on top of the 245 tankers (of sizes that interest us, that were already sanctioned by OFAC)
 
 ![Market Chart 2](assets/2025-01-13_the-big-picture-ofac-sanctions_img_image1_65c81d05c5ea.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-13_the-big-picture-ofac-sanctions_img_image1_65c81d05c5ea.png)
+> [Local Asset](assets/2025-01-13_the-big-picture-ofac-sanctions_img_image1_65c81d05c5ea.png)
 
 ---
 

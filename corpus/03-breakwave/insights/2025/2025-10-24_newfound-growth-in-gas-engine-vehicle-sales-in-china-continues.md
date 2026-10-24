@@ -27,14 +27,14 @@ As we discussed in Commodore Research's most recent Weekly China Report, Septemb
 ![Chart 1](assets/2025-10-24_newfound-growth-in-gas-engine-vehicle-sales-in-china-continues_img_chart1_fe881655f0fe.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-24_newfound-growth-in-gas-engine-vehicle-sales-in-china-continues_img_chart1_fe881655f0fe.jpg)
+> [Local Asset](assets/2025-10-24_newfound-growth-in-gas-engine-vehicle-sales-in-china-continues_img_chart1_fe881655f0fe.jpg)
 
 China’s crude oil imports most recently totaled 47.3 million tons in September, which was down month-on-month by 2.2 million tons (-4%) but up year-on-year by 1.8 million tons (4%). Significant is that China's crude oil imports have now grown on a year-on-year basis during six of the last seven months. Previously, they had contracted on a year-on-year basis in nine of the prior ten month. The newfound growth in gas engine vehicle sales in China remains a tailwind for China's crude oil demand.
 
 ![Chart 2](assets/2025-10-24_newfound-growth-in-gas-engine-vehicle-sales-in-china-continues_img_chart2_4aa575332cd1.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-24_newfound-growth-in-gas-engine-vehicle-sales-in-china-continues_img_chart2_4aa575332cd1.jpg)
+> [Local Asset](assets/2025-10-24_newfound-growth-in-gas-engine-vehicle-sales-in-china-continues_img_chart2_4aa575332cd1.jpg)
 
 ---
 

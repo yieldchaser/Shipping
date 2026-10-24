@@ -1937,15 +1937,17 @@ def generate_markdown_audit():
         "## 11. Quality Assurance & Regression Prevention Rules",
         "",
         "1. **Strict Zero Emojis:** Zero emojis across all code, docstrings, commit messages, Markdown text, and terminal output.",
-        "2. **Strict File Linking:** All file paths referenced in documentation or system reports must utilize valid clickable `file:///` URLs formatted with forward slashes.",
+        "2. **Strict File Linking:** All file paths referenced in documentation or system reports are repo-relative links with forward slashes (no machine-local `file:///` URLs).",
         "3. **Automated Quality Gate & Dry-Run Simulation:** `scripts/extract/verify_broker_md_quality_gate.py` and `scripts/extract/dry_run_broker_simulation.py` validate every generated broker `.md` and `.tables.json` against historical peers (YAML frontmatter, non-empty sections, GFM table structure, zero running-header spam, and `.tables.json` sidecar parity).",
         "4. **Parity Verification Scripts:** `scripts/verify_all_12_books.py`, `scripts/extract/verify_broker_md_quality_gate.py`, and `scripts/audit/generate_cadence_audit.py` guarantee that 100% of corpus assets, books, and broker voices remain synchronized, audited, and error-free.",
         ""
     ])
 
     raw_root_posix = str(ROOT).replace("\\", "/")
-    final_md_text = "\n".join(md_lines).replace(
-        f"file:///{raw_root_posix}", f"file:///{CANONICAL_REPO_PREFIX}"
+    # Both outputs sit one folder below the repo root: repo links become ../<path>, never machine-local file:/// URIs
+    final_md_text = re.sub(
+        "file:///(?:" + re.escape(raw_root_posix) + "|" + re.escape(CANONICAL_REPO_PREFIX) + ")/",
+        "../", "\n".join(md_lines), flags=re.IGNORECASE,
     )
 
     target_md = ROOT / "corpus" / "CORPUS_REGISTRY_AND_CADENCE_AUDIT.md"

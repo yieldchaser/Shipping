@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-24_brs-dry-bulk-weekly-n
 ![Logo Brs Without Group](assets/2023-01-24_brs-dry-bulk-weekly-newsletter_img_logo-brs-withoutgroup_f5408ebf6fb3.jpg)
 
 > **Figure 1: Logo Brs Without Group**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-24_brs-dry-bulk-weekly-newsletter_img_logo-brs-withoutgroup_f5408ebf6fb3.jpg)
+> [Local Asset](assets/2023-01-24_brs-dry-bulk-weekly-newsletter_img_logo-brs-withoutgroup_f5408ebf6fb3.jpg)
 
 ## Cii : The New Pandora Box?
 
@@ -69,7 +69,7 @@ Hence, we believe any further downside to the fleet’s speed, if any, due to CI
 ![1 (4)](assets/2023-01-24_brs-dry-bulk-weekly-newsletter_img_128429_f1da576967c5.png)
 
 > **Figure 2: 1 (4)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-24_brs-dry-bulk-weekly-newsletter_img_128429_f1da576967c5.png)
+> [Local Asset](assets/2023-01-24_brs-dry-bulk-weekly-newsletter_img_128429_f1da576967c5.png)
 
 …incremental decrease in vessel’s average speed. That said, we believe that CII will be a crucial factor in heightening freight volatility during periods of strong demand. Typically, when demand is significant, ships will increase their laden speed to complete their current voyage and capitalize on expected freight increment. In 2023 and beyond, commercial incentives will now be substituted with compliance inertia. This will in turn raise supply inelasticity in a bullish, perfectly competitive market.
 

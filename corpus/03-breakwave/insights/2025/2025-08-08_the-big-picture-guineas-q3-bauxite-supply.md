@@ -43,12 +43,12 @@ Then, in**May 2025**, Guinea’s government announced the repossession of around
 ![Screenshot 2025 08 08 10.28.19](assets/2025-08-08_the-big-picture-guineas-q3-bauxite-supply_img_screenshot2025-08-08102819_988226e95244.png)
 
 > **Figure 1: Screenshot 2025 08 08 10.28.19**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-08_the-big-picture-guineas-q3-bauxite-supply_img_screenshot2025-08-08102819_988226e95244.png)
+> [Local Asset](assets/2025-08-08_the-big-picture-guineas-q3-bauxite-supply_img_screenshot2025-08-08102819_988226e95244.png)
 
 ![Screenshot 2025 08 08 10.28.30](assets/2025-08-08_the-big-picture-guineas-q3-bauxite-supply_img_screenshot2025-08-08102830_86b956facecd.png)
 
 > **Figure 2: Screenshot 2025 08 08 10.28.30**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-08_the-big-picture-guineas-q3-bauxite-supply_img_screenshot2025-08-08102830_86b956facecd.png)
+> [Local Asset](assets/2025-08-08_the-big-picture-guineas-q3-bauxite-supply_img_screenshot2025-08-08102830_86b956facecd.png)
 
 While some of the May concessions were dismissed at the time as including projects not in operation and some previously expired permits, the mines run by**Guinea Investment Corporation (GIC) and SD (Sunda) Mining**, which were originally part of a joint venture (AGB2A) in the Boffa-Fria corridor, were affected.
 
@@ -72,7 +72,7 @@ This would be Guinea’s second alumina refinery and provides another example of
 
 > **Figure 3: Annual Production Cap of 45m Tonnes Was Announced by China’s**  
 > *An annual production cap of 45m tonnes was announced by China’s authorities in 2017 and reportedly reconfirmed in the aluminium sector’sAction Plan for 2025-27.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-08_the-big-picture-guineas-q3-bauxite-supply_img_screenshot2025-08-08102847_27c1c293dd7a.png)
+> [Local Asset](assets/2025-08-08_the-big-picture-guineas-q3-bauxite-supply_img_screenshot2025-08-08102847_27c1c293dd7a.png)
 
 Moreover, China’s appetite for bauxite might run up against**self-imposed limitations on aluminium output by the end of next year**.
 

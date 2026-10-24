@@ -31,7 +31,7 @@ Despite the decarbonization debate topping the global agenda in recent years, se
 ![Ch1](assets/2022-03-31_king-coal-is-not-abdicating_img_ch1_ded58cf1e212.png)
 
 > **Figure 1: Ch1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-31_king-coal-is-not-abdicating_img_ch1_ded58cf1e212.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-03-31_king-coal-is-not-abdicating_img_ch1_ded58cf1e212.png)
 
 *Source: Shipfix*
 
@@ -42,7 +42,7 @@ Global seaborne exports of coal are dominated by Australia and Indonesia, which 
 ![Ch2](assets/2022-03-31_king-coal-is-not-abdicating_img_ch2_b7cf24743ef5.png)
 
 > **Figure 2: Ch2**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-31_king-coal-is-not-abdicating_img_ch2_b7cf24743ef5.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-03-31_king-coal-is-not-abdicating_img_ch2_b7cf24743ef5.png)
 
 *Source: Shipfix*
 
@@ -53,7 +53,7 @@ Shipfix weekly order data for coal cargoes have been declining from recent highs
 ![Ch3](assets/2022-03-31_king-coal-is-not-abdicating_img_ch3_a4d520cdf5c9.png)
 
 > **Figure 3: Ch3**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-31_king-coal-is-not-abdicating_img_ch3_a4d520cdf5c9.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-03-31_king-coal-is-not-abdicating_img_ch3_a4d520cdf5c9.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

@@ -29,7 +29,7 @@ Week 11, 13 March, 2025
 ![Στιγμιότυπο Οθόνης 2025 03 14 135631](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec5921b4ceff.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 03 14 135631**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec5921b4ceff.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec5921b4ceff.png)
 
 ### VLCC Net Supply Trends, Baltic Rates Performance & Cargo Demand Projections
 
@@ -50,7 +50,7 @@ Given China's dominance in crude oil imports, any shifts in refinery throughput,
 ![Στιγμιότυπο Οθόνης 2025 03 14 135728](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_31df86b4b9b7.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 03 14 135728**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_31df86b4b9b7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_31df86b4b9b7.png)
 
 VLCC MEG/China routes continue to face challenges in building momentum, while the Suezmax segment shows signs of strengthening as we enter the latter half of the month.
 
@@ -60,21 +60,21 @@ VLCC MEG/China routes continue to face challenges in building momentum, while th
 ![Στιγμιότυπο Οθόνης 2025 03 14 135819](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db455e194626.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 03 14 135819**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db455e194626.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db455e194626.png)
 
 - **LR2**AG freight rates held firmer levels of the previous week at around WS140, reflecting a 14% monthly increase.
 
 ![Στιγμιότυπο Οθόνης 2025 03 14 135902](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a7c0ac5d671d.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 03 14 135902**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a7c0ac5d671d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a7c0ac5d671d.png)
 
 - **Panamax**Carib-to-USG remained at around 150 WS, which corresponds to an increase of 25 % compared to the previous month.
 
 ![Στιγμιότυπο Οθόνης 2025 03 14 135944](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88e82d7ae6da.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 03 14 135944**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88e82d7ae6da.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88e82d7ae6da.png)
 
 - **MR1**freight rates for Baltic-to-Continent shipments hovered around WS190, reflecting a similar momentum of the previous week.
 
@@ -83,7 +83,7 @@ VLCC MEG/China routes continue to face challenges in building momentum, while th
 ![Στιγμιότυπο Οθόνης 2025 03 14 140250](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23974a957b95.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 03 14 140250**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23974a957b95.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23974a957b95.png)
 
 ​​​​​The availability of crude tankers remained relatively stable for VLCCs and Suezmax vessels but declined compared to the peaks seen earlier in the year. Meanwhile, recent estimates indicate a downward revision for Aframax vessels.
 
@@ -95,7 +95,7 @@ VLCC MEG/China routes continue to face challenges in building momentum, while th
 ![Στιγμιότυπο Οθόνης 2025 03 14 140843](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5778e021d26e.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 03 14 140843**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5778e021d26e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5778e021d26e.png)
 
 - **Clean LR2 AG Jubail**: The downward trend persists, with the vessel count remaining below the annual average of 11 over the last five weeks.
 
@@ -104,14 +104,14 @@ VLCC MEG/China routes continue to face challenges in building momentum, while th
 ![Στιγμιότυπο Οθόνης 2025 03 14 141001](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fce6889cb64a.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2025 03 14 141001**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fce6889cb64a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fce6889cb64a.png)
 
 - **Dirty**tonne days: The growth rate of dirty tonne-days for VLCCs remained sluggish for another week, reaching its lowest level in the past year. In contrast, the Suezmax segment experienced a remarkable recovery starting in the first week of March, while Aframax activity has been gaining momentum since late February, though it continues to hover around the annual average growth trend.
 
 ![Στιγμιότυπο Οθόνης 2025 03 14 141111](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_67bcfb177185.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 03 14 141111**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_67bcfb177185.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_67bcfb177185.png)
 
 - **Panamax**tonne days: The growth rate remains below the weekly annual average recorded since the beginning of the year, although it has recovered from its low point recorded six weeks ago.
 

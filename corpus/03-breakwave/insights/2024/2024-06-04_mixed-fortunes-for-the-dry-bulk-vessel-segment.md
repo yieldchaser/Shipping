@@ -63,7 +63,7 @@ The suggestion of an upward trend in demand for seaborne transportation of agric
 ![Στιγμιότυπο Οθόνης 2024 06 04 132803](assets/2024-06-04_mixed-fortunes-for-the-dry-bulk-vessel-segment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_64d77af89f91.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 06 04 132803**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-04_mixed-fortunes-for-the-dry-bulk-vessel-segment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_64d77af89f91.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-06-04_mixed-fortunes-for-the-dry-bulk-vessel-segment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_64d77af89f91.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

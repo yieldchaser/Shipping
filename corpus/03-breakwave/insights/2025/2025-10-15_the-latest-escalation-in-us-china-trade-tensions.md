@@ -27,7 +27,7 @@ The latest escalation in U.S.-China trade tensions marks a setback to hopes for 
 ![Στιγμιότυπο Οθόνης 2025 10 15 113351](assets/2025-10-15_the-latest-escalation-in-us-china-trade-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3be2265b08db.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 10 15 113351**  
-> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-15_the-latest-escalation-in-us-china-trade-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3be2265b08db.png)
+> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](assets/2025-10-15_the-latest-escalation-in-us-china-trade-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3be2265b08db.png)
 
 For the most part, Chinese fees broadly mirror U.S. port fees. A difference however is that China’s Special Port Fees targets U.S.- linked vessels and is generally applied without specifying particular sectors. In contrast, the U.S. measures include size-based exemptions and provisions for certain vessel segments, such as LNG carriers and vehicle carriers, aimed at supporting the domestic industry and promote U.S. shipbuilding.
 

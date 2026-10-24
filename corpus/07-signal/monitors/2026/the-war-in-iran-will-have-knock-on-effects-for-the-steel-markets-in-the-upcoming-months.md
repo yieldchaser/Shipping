@@ -40,7 +40,7 @@ Indonesia continues to absorb excess Chinese steel in 2026
 
 > **Figure 1: Source: Steel Tonne-Miles From Signal Ocean Https://app.signalocean.com/dry/dynamic/timeseriesdry**  
 > *Source: Steel tonne-miles from Signal Ocean https://app.signalocean.com/dry/dynamic/timeseries_dry*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/the-war-in-iran-will-have-knock-on-effects-for-the-steel-markets-in-the-upcoming-months) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69c53ccf15483128f97191e6_Screenshot 2026-03-26 at 12.21.11.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/the-war-in-iran-will-have-knock-on-effects-for-the-steel-markets-in-the-upcoming-months) | [Local Asset](../../images/69c53ccf15483128f97191e6_Screenshot 2026-03-26 at 12.21.11.png)
 
 Seaborne steel flows reached 21.1mt in February 2026, up less than 1% from the same period last year. The global flatline came despite a 6% rise in steel flows from China, as this was mitigated by an aggregated fall of 4% elsewhere.
 
@@ -53,7 +53,7 @@ The largest receiver of these increased flows has been nations in South East Asi
 
 > **Figure 2: Source: Seaborne Steel Flows From China From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Seaborne steel flows from China from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/the-war-in-iran-will-have-knock-on-effects-for-the-steel-markets-in-the-upcoming-months) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69c53f55889809eaf357ad79_91161a0f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/the-war-in-iran-will-have-knock-on-effects-for-the-steel-markets-in-the-upcoming-months) | [Local Asset](../../images/69c53f55889809eaf357ad79_91161a0f.png)
 
 The disruption in the Arabian Gulf has yet to materially impact global steel flows, although early signs of regional dislocation are emerging. Historically, the region accounts for around 11% of Chinese steel exports, making it the single largest regional destination. In 2026, this share has declined to 8.4%, falling behind key Southeast Asian markets and the African Atlantic coast. While this may partly reflect an acceleration of pre-existing trade reorientation toward Southeast Asia, continued disruption to transit via the Strait of Hormuz would likely reinforce this trend by increasing both cost and uncertainty around deliveries into the Gulf.
 
@@ -70,7 +70,7 @@ Against this backdrop, Chinese steel exports are expected to remain resilient. T
 
 > **Figure 3: Source: Chinese Steel Exports in 2026 by Destination Region From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Chinese steel exports in 2026 by destination region from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/the-war-in-iran-will-have-knock-on-effects-for-the-steel-markets-in-the-upcoming-months) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69c53f55889809eaf357ad7c_82f60596.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/the-war-in-iran-will-have-knock-on-effects-for-the-steel-markets-in-the-upcoming-months) | [Local Asset](../../images/69c53f55889809eaf357ad7c_82f60596.png)
 
 
 ## China’s Steel Exports Can Withstand the War in Iran

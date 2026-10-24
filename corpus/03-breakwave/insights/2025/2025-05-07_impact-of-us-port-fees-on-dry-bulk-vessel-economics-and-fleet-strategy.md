@@ -25,14 +25,14 @@ The United States remains a vital hub in the global dry bulk trade, with its por
 ![Στιγμιότυπο Οθόνης 2025 05 07 112918](assets/2025-05-07_impact-of-us-port-fees-on-dry-bulk-vessel-economics-and-fleet-strategy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_067d9bbf41e0.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 05 07 112918**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-07_impact-of-us-port-fees-on-dry-bulk-vessel-economics-and-fleet-strategy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_067d9bbf41e0.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-05-07_impact-of-us-port-fees-on-dry-bulk-vessel-economics-and-fleet-strategy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_067d9bbf41e0.png)
 
 A closer look at port-level data reveals a high degree of concentration. For grain exports, roughly 80% of shipments are consolidated through a few strategic hubs: Convent and New Orleans account for 40%, while Destrehan and Houston handle another 40%. In coal, Mobile dominates coking coal exports, managing 87% of outbound volume, while Convent processes 45% of steam coal shipments. These figures highlight the Gulf Coast’s pivotal role in U.S. dry bulk trade.This evolving trade landscape is reshaping vessel deployment strategies. For soybean exports, average vessel size increased from 67,7k deadweight tons (DWT) in 2023 to 69k DWT in 2024. Wheat shipments experienced an even more pronounced shift, with average DWT rising from 33k deadweight to 42k. These trends point to a clear move toward larger, more efficient vessels. Coal exports already favor high-capacity ships, with average coking coal vessels exceeding 81,000 DWT in 2024.
 
 ![Στιγμιότυπο Οθόνης 2025 05 07 112923](assets/2025-05-07_impact-of-us-port-fees-on-dry-bulk-vessel-economics-and-fleet-strategy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7c6a7198a7ba.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 05 07 112923**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-07_impact-of-us-port-fees-on-dry-bulk-vessel-economics-and-fleet-strategy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7c6a7198a7ba.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-05-07_impact-of-us-port-fees-on-dry-bulk-vessel-economics-and-fleet-strategy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7c6a7198a7ba.png)
 
 However, this growth in trade coincides with a new challenge: the U.S. Trade Representative’s (USTR) imposition of retaliatory port fees on Chinese-built vessels. These fees are reshaping the cost dynamics of vessel deployment depending on how frequently ships call at U.S. ports.
 
@@ -43,7 +43,7 @@ In a medium exposure scenario—three to five U.S. port calls per year—the cum
 ![Στιγμιότυπο Οθόνης 2025 05 07 112932](assets/2025-05-07_impact-of-us-port-fees-on-dry-bulk-vessel-economics-and-fleet-strategy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4d9fb2348c68.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 05 07 112932**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-07_impact-of-us-port-fees-on-dry-bulk-vessel-economics-and-fleet-strategy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4d9fb2348c68.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-05-07_impact-of-us-port-fees-on-dry-bulk-vessel-economics-and-fleet-strategy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4d9fb2348c68.png)
 
 In response, shipowners must adopt a more strategic approach to fleet management. Route planning, fleet composition, and shipyard selection are now interlinked decisions. Operators with significant U.S. exposure should consider diversifying their fleets to include vessels from multiple shipbuilding jurisdictions, hedging against future policy shifts. Sourcing newbuilds from Japanese or South Korean yards may also offer a more sustainable balance between cost efficiency and regulatory compliance. In conclusion, while Chinese-built vessels remain cost-effective for operators with limited U.S. exposure, frequent engagement with U.S. ports increasingly demands a shift in strategic priorities—from minimizing capital expenditure to maximizing long-term operational and regulatory resilience.
 

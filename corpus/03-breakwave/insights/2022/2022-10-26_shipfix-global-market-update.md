@@ -52,6 +52,6 @@ Following a strong recovery during September, the Baltic Exchange’s Capesize i
 ![Market Chart 1](assets/2022-10-26_shipfix-global-market-update_img_unnamed-2022-10-26t140709028_8125756a15dc.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-26_shipfix-global-market-update_img_unnamed-2022-10-26t140709028_8125756a15dc.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-10-26_shipfix-global-market-update_img_unnamed-2022-10-26t140709028_8125756a15dc.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

@@ -34,7 +34,7 @@ As far as the first half of 2023 goes, the vast majority is of the opinion that 
 ![1 (10)](assets/2023-01-16_doric-weekly-market-insight_img_1281029_f11bd0ef5750.png)
 
 > **Figure 1: 1 (10)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-16_doric-weekly-market-insight_img_1281029_f11bd0ef5750.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-01-16_doric-weekly-market-insight_img_1281029_f11bd0ef5750.png)
 
 In terms of the specific segments, Capesizes and Panamaxes are the most desirable sizes of this survey, with the former gathering one third of the replies and the latter 23.5 percent of them. The rest 43 percent was equally shared in the two geared segments. Following a period with the BHSI TC and BSI TC averages directly competing and challenging in most of the times the respective averages of the largest bulkers, the workhorses of the sector have seen their daily hires heading south in the trailing six months.
 
@@ -43,6 +43,6 @@ Against this backdrop, the more volatile gearless segments are believed to have 
 ![1 (11)](assets/2023-01-16_doric-weekly-market-insight_img_1281129_97593b86ee45.png)
 
 > **Figure 2: 1 (11)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-16_doric-weekly-market-insight_img_1281129_97593b86ee45.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-01-16_doric-weekly-market-insight_img_1281129_97593b86ee45.png)
 
 Data source:[Doric](https://www.doric.gr/)

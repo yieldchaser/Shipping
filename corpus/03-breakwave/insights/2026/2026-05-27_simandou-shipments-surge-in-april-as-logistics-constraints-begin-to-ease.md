@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-05-27_simandou-shipments-su
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2026-05-27_simandou-shipments-surge-in-april-as-logistics-constraints-begin-to-ease_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-27_simandou-shipments-surge-in-april-as-logistics-constraints-begin-to-ease_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](assets/2026-05-27_simandou-shipments-surge-in-april-as-logistics-constraints-begin-to-ease_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 According to AXSMarine data, iron ore shipments from Guinea’s Simandou project shipped via its export outlet at the port of Morebaya hit 1.82mln mt in April, significantly above the first quarter of this year. Indeed April may have represented the first truly meaningful milestone since the project’s initial commissioning, as total exports from Morebaya during Q1 stood at only 1.51mln mt.
 
@@ -40,14 +40,14 @@ As additional barges entered service, to some extent, the higher shipments also 
 ![Στιγμιότυπο Οθόνης 2026 05 27 102143](assets/2026-05-27_simandou-shipments-surge-in-april-as-logistics-constraints-begin-to-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_49f5e89ce666.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 05 27 102143**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-27_simandou-shipments-surge-in-april-as-logistics-constraints-begin-to-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_49f5e89ce666.png)
+> [Local Asset](assets/2026-05-27_simandou-shipments-surge-in-april-as-logistics-constraints-begin-to-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_49f5e89ce666.png)
 
 Nevertheless, while market sentiment has gradually improved, the approaching West African rainy season could still become the next major test for Simandou’s supply chain. In Guinea, the rainy season typically begins around May and lasts until October, with rainfall usually peaking between July and August.
 
 ![Στιγμιότυπο Οθόνης 2026 05 27 102153](assets/2026-05-27_simandou-shipments-surge-in-april-as-logistics-constraints-begin-to-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_78176ca81ab0.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 05 27 102153**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-27_simandou-shipments-surge-in-april-as-logistics-constraints-begin-to-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_78176ca81ab0.png)
+> [Local Asset](assets/2026-05-27_simandou-shipments-surge-in-april-as-logistics-constraints-begin-to-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_78176ca81ab0.png)
 
 Historical experience of Guinea’s bauxite exports suggests that the rainy season often creates noticeable disruptions across the country’s mining logistics chain. According to AXSMarine statistics covering Guinea’s monthly bauxite exports between 2019 and 2025, export volumes during the rainy season were on average around 20% lower than annual average levels.
 
@@ -62,7 +62,7 @@ At the same time, the project’s barging system itself still appears to have fu
 ![Στιγμιότυπο Οθόνης 2026 05 27 102209](assets/2026-05-27_simandou-shipments-surge-in-april-as-logistics-constraints-begin-to-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_16ddd5a07a05.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2026 05 27 102209**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-27_simandou-shipments-surge-in-april-as-logistics-constraints-begin-to-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_16ddd5a07a05.png)
+> [Local Asset](assets/2026-05-27_simandou-shipments-surge-in-april-as-logistics-constraints-begin-to-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_16ddd5a07a05.png)
 
 ---
 

@@ -29,7 +29,7 @@ The USDA is forecasting that global coarse grain exports in 2026/27 will total 2
 ![Chart](assets/2026-07-16_less-grain-exports-still-expected-next-season_img_chart_f5f70f1f5607.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-16_less-grain-exports-still-expected-next-season_img_chart_f5f70f1f5607.jpg)
+> [Local Asset](assets/2026-07-16_less-grain-exports-still-expected-next-season_img_chart_f5f70f1f5607.jpg)
 
 ---
 

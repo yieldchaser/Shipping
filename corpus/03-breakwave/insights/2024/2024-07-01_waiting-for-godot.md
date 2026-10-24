@@ -35,7 +35,7 @@ Regarding corn trading activity, Brazil has shipped 1.25 MMT of corn from March 
 ![Στιγμιότυπο Οθόνης 2024 07 01 122558](assets/2024-07-01_waiting-for-godot_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_704eb8d2e5b6.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 01 122558**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-01_waiting-for-godot_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_704eb8d2e5b6.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-07-01_waiting-for-godot_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_704eb8d2e5b6.png)
 
 Regarding coal, Asia's seaborne thermal coal imports are expected to decrease in June. According to data from commodity analysts Kpler, the region, which is the largest importer of this fuel for power generation, is projected to receive approximately 76.39 MMT. This figure represents a slight decrease from May's 78.67 MMT but shows an increase from 74.81 MMT imported in June last year. The decline in June's imports can largely be attributed to China, where seaborne thermal coal arrivals are anticipated to drop to 28.21 MMT, as reported by Kpler. This reduction is primarily due to increased hydroelectric generation. Similarly, India is expected to experience a decline during June, with estimated arrivals of 14.63 MMT, though still higher than the 13.43 MMT recorded in June last year. These trends do not necessarily indicate a decrease in electricity demand but rather reflect increased domestic coal production. In contrast, Japan is projected to import 7.65 MMT of thermal coal in June, up 22 percent M-o-M. South Korea's imports are forecasted to reach 6.82 MMT, marking the strongest month since February. Taiwan's estimated imports for June stand at 4.24 million tonnes, one of the highest records in the last nine months.
 
@@ -44,7 +44,7 @@ With the aforementioned dynamics at play, Kamsarmaxes averaged $15,910 daily for
 ![Στιγμιότυπο Οθόνης 2024 07 01 122617](assets/2024-07-01_waiting-for-godot_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cbe82480ed35.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 07 01 122617**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-01_waiting-for-godot_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cbe82480ed35.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-07-01_waiting-for-godot_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cbe82480ed35.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

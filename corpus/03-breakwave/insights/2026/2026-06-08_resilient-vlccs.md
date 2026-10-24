@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-06-08_resilient-vlccs.html"
 ![Singapore](assets/2026-06-08_resilient-vlccs_img_singapore_95f6d024c7f6.jpg)
 
 > **Figure 1: Singapore**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-08_resilient-vlccs_img_singapore_95f6d024c7f6.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-06-08_resilient-vlccs_img_singapore_95f6d024c7f6.jpg)
 
 The global VLCC market appears to have entered a phase of cautious stabilisation with freight rates retracing from their war-driven peak back toward pre-war benchmarks. The severe freefall many anticipated from structural tonnage oversupply has so far been avoided. Negotiations between the US and Iran on a 60-day memorandum of understanding (MOU) to extend the ceasefire and reopen the Strait of Hormuz are ongoing, but final diplomatic signatures are still pending as key sticking points remain unresolved. Recent military strikes by both sides have only added to the uncertainty surrounding the talks.
 
@@ -38,7 +38,7 @@ Looking ahead, the near-term trajectory of the VLCC market remains entirely hing
 ![Στιγμιότυπο Οθόνης 2026 06 08 120802](assets/2026-06-08_resilient-vlccs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_819b5ab883b2.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 06 08 120802**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-08_resilient-vlccs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_819b5ab883b2.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-06-08_resilient-vlccs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_819b5ab883b2.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

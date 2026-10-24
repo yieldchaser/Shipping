@@ -36,7 +36,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform- Oil Flows Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *Data Source: The Signal Ocean Platform- Oil Flows https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-18-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6454fc704745996b49233197_oil flows us europe vs china logoed.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-18-2023) | [Local Asset](../../images/6454fc704745996b49233197_oil flows us europe vs china logoed.png)
 
 Crude oil freight rates have lost momentum since the end of April, but demand from Asian countries continues unabated as the Chinese increasingly source oil from the U.S. (see image above). April ended with a 370% increase in Chinese crude oil flows from the US compared to April last year, while the second quarter of the year will end with a spectacular increase in monthly crude oil imports. In parallel, the US has already started exporting more to the Netherlands, where monthly crude oil imports will increase by 100% in April 2022. In China, 96% of crude oil trade is handled by VLCC tankers, while the share of VLCC in the Netherlands is 70%.
 

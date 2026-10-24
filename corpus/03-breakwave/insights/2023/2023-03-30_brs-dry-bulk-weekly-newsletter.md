@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-30_brs-dry-bulk-weekly-n
 ![Brs Logo No Background](assets/2023-03-30_brs-dry-bulk-weekly-newsletter_img_brslogo-nobackground_f39a57dd6dc6.png)
 
 > **Figure 1: Brs Logo No Background**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-30_brs-dry-bulk-weekly-newsletter_img_brslogo-nobackground_f39a57dd6dc6.png)
+> [Local Asset](assets/2023-03-30_brs-dry-bulk-weekly-newsletter_img_brslogo-nobackground_f39a57dd6dc6.png)
 
 China has been long considered as a policy maker, with every decision subsequently causing great impact (intended or unintended) on the shipping industry with respect to fluctuations in both trade flows and commodity prices. For instance, the restrictions implemented on steel output in November 2021 resulted in a sharp reduction of seaborne iron ore imports in China, the world’s largest consumer and importer of the steelmaking ingredient.
 
@@ -39,7 +39,7 @@ With a more flexible procurement plan, some cost-sensitive shippers aim to save 
 ![1 (2)](assets/2023-03-30_brs-dry-bulk-weekly-newsletter_img_128229_20b2fa4013bb.png)
 
 > **Figure 2: 1 (2)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-30_brs-dry-bulk-weekly-newsletter_img_128229_20b2fa4013bb.png)
+> [Local Asset](assets/2023-03-30_brs-dry-bulk-weekly-newsletter_img_128229_20b2fa4013bb.png)
 
 When looking at China’s global supply side, the domestic coal production has been relatively high, with the latest data from the National Bureau of Statistics showing that the daily average coal production in the first two months of this year reached 12.44 million tons, up by 6.9% year-on-year. Moreover, data shows that the 2023 annual target of major coal producing provinces including Shanxi, Shaanxi, and Inner Mongolia will increase by 120 million tons compared to last year.
 
@@ -48,7 +48,7 @@ Therefore, we shall witness a further increment for domestic coal production at 
 ![1 (3)](assets/2023-03-30_brs-dry-bulk-weekly-newsletter_img_128329_a37a97f372fd.png)
 
 > **Figure 3: 1 (3)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-30_brs-dry-bulk-weekly-newsletter_img_128329_a37a97f372fd.png)
+> [Local Asset](assets/2023-03-30_brs-dry-bulk-weekly-newsletter_img_128329_a37a97f372fd.png)
 
 Although supply has been strengthening, the country’s demand is not expected to show a particularly rosy picture with consumption likely to drop in the coming months. First, the heating season that runs from November to March is ending in Northern China, meaning that most parts of the country will soon enter a warmer season. Residential electricity consumption will therefore gradually decrease, whereas industrial electricity consumption still requires a substantial amount of time to recover from the covidrestrictions lifted in December last year.
 
@@ -59,7 +59,7 @@ However, due to factors such as the coming maintenance of the Daqin Railway, ris
 ![1 (4)](assets/2023-03-30_brs-dry-bulk-weekly-newsletter_img_128429_d5f4d11f633e.png)
 
 > **Figure 4: 1 (4)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-30_brs-dry-bulk-weekly-newsletter_img_128429_d5f4d11f633e.png)
+> [Local Asset](assets/2023-03-30_brs-dry-bulk-weekly-newsletter_img_128429_d5f4d11f633e.png)
 
 In the seaborne coal market, imported coal has remained strong since March. Although the import margin has narrowed recently with the weakening domestic coal market, high-calorific value thermal coal import margins now stand at about 100 yuan/t (see chart III on the bottom left), an acceptable price margin for shippers.
 
@@ -70,4 +70,4 @@ According to the latest data from the General Administration of Customs, China i
 ![1 (5)](assets/2023-03-30_brs-dry-bulk-weekly-newsletter_img_128529_5dd25494002f.png)
 
 > **Figure 5: 1 (5)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-30_brs-dry-bulk-weekly-newsletter_img_128529_5dd25494002f.png)
+> [Local Asset](assets/2023-03-30_brs-dry-bulk-weekly-newsletter_img_128529_5dd25494002f.png)

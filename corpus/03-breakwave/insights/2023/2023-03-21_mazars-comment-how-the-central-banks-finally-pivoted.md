@@ -30,7 +30,7 @@ Simultaneously, reports surfaced that the Fed had suppressed language in a commo
 ![Market Chart 1](assets/2023-03-21_mazars-comment-how-the-central-banks-finally-pivoted_img_image00228429_6eeca5e441e3.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-21_mazars-comment-how-the-central-banks-finally-pivoted_img_image00228429_6eeca5e441e3.jpg)
+> [Local Asset](assets/2023-03-21_mazars-comment-how-the-central-banks-finally-pivoted_img_image00228429_6eeca5e441e3.jpg)
 
 The best news of all week didn’t come from regulators but from the banks themselves. Major US banks deposited $30bn with the almost-bust First Republic. This is the world’s most cutthroat and realistic market trying to self-regulate.
 

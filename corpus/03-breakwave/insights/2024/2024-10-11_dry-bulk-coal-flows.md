@@ -31,7 +31,7 @@ October 11, 2024
 ![Στιγμιότυπο Οθόνης 2024 10 11 154627](assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a72b6bd9a3c9.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 11 154627**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a72b6bd9a3c9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a72b6bd9a3c9.png)
 
 This week's focus is on the increasing dependence of Southeast Asian countries on dry bulk coal flows, particularly as China and India are expected to reduce their share in the coming months. Southeast Asia is becoming a critical growth region for coal demand, even as global efforts to transition to renewable energy intensify. The energy industry has already identified countries such as Vietnam and the Philippines as key players set to expand their coal trade and consumption throughout this decade.
 
@@ -44,7 +44,7 @@ Southeast Asia’s growing demand for coal has broader implications for global e
 ![Στιγμιότυπο Οθόνης 2024 10 11 154741](assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b0278b7953d.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 11 154741**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b0278b7953d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b0278b7953d.png)
 
 The dry bulk freight market has displayed mixed sentiment in the second week of October, with a softening trend observed in the Capesize Brazil–North China route, while signs of an upward trend are emerging in the Panamax Continent–Far East route.
 
@@ -56,7 +56,7 @@ The dry bulk freight market has displayed mixed sentiment in the second week of 
 ![Στιγμιότυπο Οθόνης 2024 10 11 154837](assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13113c500e6b.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 10 11 154837**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13113c500e6b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13113c500e6b.png)
 
 The second week of October is characterised by a steady downward trend in the number of ballasters across all vessel size categories, with the exception of the Handysize NOPAC market. Meanwhile, the Capesize market in Southeast Africa has shown consistent signs of increase.
 
@@ -68,7 +68,7 @@ The second week of October is characterised by a steady downward trend in the nu
 ![Στιγμιότυπο Οθόνης 2024 10 11 154921](assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f645809ff6d.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 10 11 154921**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f645809ff6d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f645809ff6d.png)
 
 In the second week of October, the outlook for dry tonne-days shows a decreasing trend for the Capesize segment, while signs of upward revisions are emerging in the Panamax and Supramax vessel segments.
 
@@ -80,7 +80,7 @@ In the second week of October, the outlook for dry tonne-days shows a decreasing
 ![Στιγμιότυπο Οθόνης 2024 10 11 155010](assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ecb071aeab90.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 10 11 155010**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ecb071aeab90.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ecb071aeab90.png)
 
 Congestion at Chinese dry bulk ports maintained a steady pace during the first two weeks of October, following a peak observed at the end of week 39.
 

@@ -32,7 +32,7 @@ tags:
 ![66acb552c7c3b915407dc3e2 66acb516e26a6b203af271d8 Chart%20of%20the%20week%2031%20tanker](../../images/66acb552c7c3b915407dc3e2_66acb516e26a6b203af271d8_chart%20of%20the%20week%2031%20tanker.avif)
 
 > **Figure 1: 66acb552c7c3b915407dc3e2 66acb516e26a6b203af271d8 Chart%20of%20the%20week%2031%20tanker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-31-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66acb552c7c3b915407dc3e2_66acb516e26a6b203af271d8_chart%20of%20the%20week%2031%20tanker.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-31-2024) | [Local Asset](../../images/66acb552c7c3b915407dc3e2_66acb516e26a6b203af271d8_chart%20of%20the%20week%2031%20tanker.avif)
 
 In early August, the weakening momentum in the VLCC AG-China route persists, with the dirty demand tonne days growth remaining insufficient to support firmness during the summer season. While there are signs of a decreasing trend in the vessel count at Ras Tanura, indicating a tighter supply market, demand growth has not yet positively impacted market sentiment.
 

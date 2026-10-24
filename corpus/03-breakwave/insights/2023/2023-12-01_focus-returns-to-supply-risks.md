@@ -26,7 +26,7 @@ Supply side issues were back in focus across commodity markets. Broadly positive
 ![1701293702051](assets/2023-12-01_focus-returns-to-supply-risks_img_1701293702051_c2c03425f16b.png)
 
 > **Figure 1: 1701293702051**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-01_focus-returns-to-supply-risks_img_1701293702051_c2c03425f16b.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2023-12-01_focus-returns-to-supply-risks_img_1701293702051_c2c03425f16b.png)
 
 **Copper**briefly touched a 10-week high as mine closures brought supply risks back into focus. The government has said it will shut the Cobre mine owned by First Quantum, following a decision from Panama’s top court that the operation was unconstitutional. This dashed hopes by the company that it might be able to reach a new deal to keep it operating. The copper mine produces around 1.5% of world supply. The market’s lack of reaction suggests it feels this may be a temporary closure, but it is a significant risk to a currently balanced market. Risk of further supply disruptions eased after workers at MMG’s Las Bambas copper mine in Peru said they will return to work on Thursday. However, they vowed to continue pushing for a new profit-sharing agreement, which could keep industrial action a risk.
 

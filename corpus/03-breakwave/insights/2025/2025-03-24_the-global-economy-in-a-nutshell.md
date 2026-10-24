@@ -43,7 +43,7 @@ At this juncture of heightened uncertainty, where geopolitical developments appe
 ![Screenshot 2025 03 24 09.40.59](assets/2025-03-24_the-global-economy-in-a-nutshell_img_screenshot2025-03-24094059_886f74e33f0d.png)
 
 > **Figure 1: Screenshot 2025 03 24 09.40.59**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-24_the-global-economy-in-a-nutshell_img_screenshot2025-03-24094059_886f74e33f0d.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-03-24_the-global-economy-in-a-nutshell_img_screenshot2025-03-24094059_886f74e33f0d.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

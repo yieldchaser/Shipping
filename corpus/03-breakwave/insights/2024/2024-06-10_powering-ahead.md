@@ -37,7 +37,7 @@ Throughout May, the world’ largest coal consumer imported 43.82 million metric
 ![Screenshot 2024 06 08 19.08.46](assets/2024-06-10_powering-ahead_img_screenshot2024-06-08190846_5aafdda2369a.png)
 
 > **Figure 1: Screenshot 2024 06 08 19.08.46**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-10_powering-ahead_img_screenshot2024-06-08190846_5aafdda2369a.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-06-10_powering-ahead_img_screenshot2024-06-08190846_5aafdda2369a.png)
 
 Putting Posidonia and Chinese imports aside, the ECB reduced its record-high deposit rate by 25 basis points to 3.75 percent, aligning with the central banks of Canada, Sweden, and Switzerland in initiating the unwinding process of some of the steepest rate hikes implemented to curb post-pandemic inflationary pressures. This move precedes actions by the US Federal Reserve and the Bank of England, marking the ECB's first rate reduction in five years. However, the bank refrained from indicating any further actions. "Interest rate decisions will be made based on our assessment of the inflation outlook considering incoming economic and financial data, underlying inflation dynamics, and the effectiveness of monetary policy transmission," stated the ECB in a release. "The Governing Council does not commit to a specific rate trajectory in advance.
 
@@ -46,7 +46,7 @@ The wrap-up of the Posidonia 2024 week left market sentiment notably upbeat, fue
 ![Screenshot 2024 06 08 19.08.56](assets/2024-06-10_powering-ahead_img_screenshot2024-06-08190856_049d9befabab.png)
 
 > **Figure 2: Screenshot 2024 06 08 19.08.56**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-10_powering-ahead_img_screenshot2024-06-08190856_049d9befabab.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-06-10_powering-ahead_img_screenshot2024-06-08190856_049d9befabab.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

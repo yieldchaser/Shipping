@@ -27,14 +27,14 @@ As we discussed in Commodore Research's most recent Weekly Executive Report, ove
 ![Chart 1](assets/2025-07-04_weakness-recently-in-both-brazilian-and-australian-spot-iron-ore-cargo-volume_img_chart1_a8695b981f68.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-04_weakness-recently-in-both-brazilian-and-australian-spot-iron-ore-cargo-volume_img_chart1_a8695b981f68.jpg)
+> [Local Asset](assets/2025-07-04_weakness-recently-in-both-brazilian-and-australian-spot-iron-ore-cargo-volume_img_chart1_a8695b981f68.jpg)
 
 Australian spot iron ore cargo volume has also recently plummeted.
 
 ![Chart 2](assets/2025-07-04_weakness-recently-in-both-brazilian-and-australian-spot-iron-ore-cargo-volume_img_chart2_04b137fea52d.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-04_weakness-recently-in-both-brazilian-and-australian-spot-iron-ore-cargo-volume_img_chart2_04b137fea52d.jpg)
+> [Local Asset](assets/2025-07-04_weakness-recently-in-both-brazilian-and-australian-spot-iron-ore-cargo-volume_img_chart2_04b137fea52d.jpg)
 
 ---
 

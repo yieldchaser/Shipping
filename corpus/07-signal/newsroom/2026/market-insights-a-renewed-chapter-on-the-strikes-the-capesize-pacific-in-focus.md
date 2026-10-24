@@ -34,7 +34,7 @@ August opens with a renewed chapter on the Port Hedland strikes. Using AXS Dry I
 
 > **Figure 1: Australian Iron-Ore Shipments by Producer, Year-to-Date**  
 > *Australian iron-ore shipments by producer, year-to-date. BHP’s volumes move through Port Hedland, the terminal at the centre of the dispute (Source: AXS Dry Insights).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a7054625a0a01b8e484518c_6e620418.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus) | [Local Asset](../../images/6a7054625a0a01b8e484518c_6e620418.png)
 
 
 ## The Renewed Chapter
@@ -53,7 +53,7 @@ Current export flows do not point to a tightening physical market. Australian se
 
 > **Figure 2: Seaborne Iron-Ore Exports by Country, Year-to-Date**  
 > *Seaborne iron-ore exports by country, year-to-date (Source: AXS Dry Insights).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a7054625a0a01b8e4845198_ada69645.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus) | [Local Asset](../../images/6a7054625a0a01b8e4845198_ada69645.png)
 
 
 ## The Ballasters Map: Where the Ships Are
@@ -65,7 +65,7 @@ The ballasters map shows the prompt vessel supply around Western Australia. Arou
 
 > **Figure 3: Ballasters Map, Ballast Capesizes Positioned Off Western Australia: 110 Ships, 20.6 Mt DWT**  
 > *Ballasters map, ballast Capesizes positioned off Western Australia: 110 ships, 20.6 Mt dwt (Source: AXS Dry Insights).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a7054625a0a01b8e4845192_5fb36f75.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus) | [Local Asset](../../images/6a7054625a0a01b8e4845192_5fb36f75.png)
 
 The fleet balance suggests that prompt vessel supply remains elevated. As of 31 July, the Pacific Capesize fleet comprised 547 laden vessels and 534 in ballast, leaving 49% of the fleet available for its next voyage—above the level seen at the start of the year. The Atlantic-to-Pacific ballast ratio stood at around 0.38, remaining well below 1.0 and indicating a continued concentration of ballast tonnage in the Pacific. In that context, any temporary interruption to loading schedules would leave more vessels competing for available cargoes rather than reduce vessel availability.
 
@@ -74,14 +74,14 @@ The fleet balance suggests that prompt vessel supply remains elevated. As of 31 
 
 > **Figure 4: Capesize Fleet in the Pacific, Laden versus Ballast, 2026**  
 > *Capesize fleet in the Pacific, laden versus ballast, 2026 (Source: AXS Dry Insights).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a7054625a0a01b8e4845195_194984aa.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus) | [Local Asset](../../images/6a7054625a0a01b8e4845195_194984aa.png)
 
 
 ![Fleet Distribution, Atlantic: Pacific Ratio of Ballast Capesizes, by Year; Below 1.0 = More Tonnage in the Pacific](../../images/6a7054625a0a01b8e484518f_74e0e5bd.png)
 
 > **Figure 5: Fleet Distribution, Atlantic: Pacific Ratio of Ballast Capesizes, by Year; Below 1.0 = More Tonnage in the Pacific**  
 > *Fleet distribution, Atlantic: Pacific ratio of ballast Capesizes, by year; below 1.0 = more tonnage in the Pacific (Source: AXS Dry Insights).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a7054625a0a01b8e484518f_74e0e5bd.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus) | [Local Asset](../../images/6a7054625a0a01b8e484518f_74e0e5bd.png)
 
 
 ## The Spot Read: C5 the Weaker Leg
@@ -93,7 +93,7 @@ C5 (West Australia–Qingdao) is trading well below C3 (Brazil–Qingdao): the s
 
 > **Figure 6: Capesize C5 Minus C3 Spread ($/mt) Over the Past Year**  
 > *Capesize C5 minus C3 spread ($/mt) over the past year (Source: Signal Ocean).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a7054625a0a01b8e484519b_67b8f02f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus) | [Local Asset](../../images/6a7054625a0a01b8e484519b_67b8f02f.png)
 
 
 ## What to Watch

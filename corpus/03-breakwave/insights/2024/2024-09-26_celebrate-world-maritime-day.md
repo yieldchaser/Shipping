@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-09-26_celebrate-world-marit
 ![Στιγμιότυπο Οθόνης 2024 09 26 135804](assets/2024-09-26_celebrate-world-maritime-day_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_78a54c2d9965.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 26 135804**  
-> **Interactive Data & Source:** [Imo](https://www.imo.org/en/About/Conventions/Pages/International-Convention-for-the-Safety-of-Life-at-Sea-%28SOLAS%29%2c-1974.aspx) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-26_celebrate-world-maritime-day_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_78a54c2d9965.png)
+> **Interactive Data & Source:** [Imo](https://www.imo.org/en/About/Conventions/Pages/International-Convention-for-the-Safety-of-Life-at-Sea-%28SOLAS%29%2c-1974.aspx) | [Local Asset](assets/2024-09-26_celebrate-world-maritime-day_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_78a54c2d9965.png)
 
 ### Imo Secretary-General Message
 
@@ -39,6 +39,6 @@ The International Convention for the Safety of Life at Sea ([SOLAS](https://www.
 ![Στιγμιότυπο Οθόνης 2024 09 26 140108](assets/2024-09-26_celebrate-world-maritime-day_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a03ee23ac861.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 09 26 140108**  
-> **Interactive Data & Source:** [Imo](https://www.imo.org/en/About/Events/Pages/World-Maritime-theme-2024.aspx) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-26_celebrate-world-maritime-day_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a03ee23ac861.png)
+> **Interactive Data & Source:** [Imo](https://www.imo.org/en/About/Events/Pages/World-Maritime-theme-2024.aspx) | [Local Asset](assets/2024-09-26_celebrate-world-maritime-day_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a03ee23ac861.png)
 
 Explore more by clicking the link below:[Imo](https://www.imo.org/en/About/Events/Pages/World-Maritime-theme-2024.aspx)

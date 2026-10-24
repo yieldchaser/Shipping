@@ -33,7 +33,7 @@ Ramping up
 ![Market Chart 1](assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image0_2550cf225a23.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image0_2550cf225a23.png)
+> [Local Asset](assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image0_2550cf225a23.png)
 
 However this was just a taste of things to come. The market built up to a ten-year high of $44,817 in May, as we wrote that sentiment was approaching ‘good old days’ territory, with the continued disruption to coal trade flows tightening the market further. These trade distortions were compounded by a critical shortage of coal in several regions, an issue which persists today.
 
@@ -46,26 +46,26 @@ The ferrous market fundamentals were however rocked a few weeks later as Chinese
 ![Market Chart 2](assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image1_3e46c3e5ef32.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image1_3e46c3e5ef32.png)
+> [Local Asset](assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image1_3e46c3e5ef32.png)
 
 This set the stage for the highlight of this year: the scorching bull-run that sent average Cape rates just shy of $87,000 in Q3, the highest levels seen since 2009. Congestion in China became an even greater driving force of the market, with queues jumping to record levels which translated to over 5% of the trading fleet, with other factors such as Australia’s fourteen-day quarantine requirement and deviations for crew changes layering on additional inefficiencies. China’s intensified scramble for coal added to the heat, and with utilisation rates already at extremely high levels, rates pushed into exponential territory, brushing off the brewing concerns over China’s property sector and long-term economic growth prospects. The spike, however, had to correct eventually, and October saw rates slide back to ‘normal’ levels, losing about $60,000 in the space of a month. The freight derivatives market saw a similarly savage sell off in October, for both near-term and deferred contracts. December FFAs had plunged by 64% by mid-November, but have since reclaimed about half of this loss to trade at $34,875 at the time of writing. Calendar-year 2022 contracts dropped by 40% to a low of $18,000 and have since climbed back up to $22,750.
 
 ![Market Chart 3](assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image2_2cbc8011ed70.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image2_2cbc8011ed70.jpg)
+> [Local Asset](assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image2_2cbc8011ed70.jpg)
 
 ![Market Chart 4](assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image2_83cea02d96bc.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image2_83cea02d96bc.jpg)
+> [Local Asset](assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image2_83cea02d96bc.jpg)
 
 On the supply side, 2021 has so far seen 81 new ships join the Cape fleet, though within this, additions have focused heavily in the Newcastlemax segment. 21 vessels have been removed, but in dwt terms, 70% of this capacity has been old VLOCs built in the early 90s. The remaining 1.5m dwt removed was made up of sub-180k dwt designs with an average age of 22.5 years at demolition. The net effect of these changes has been a 3.5% YTD increase in Capesize capacity, the highest of all of the bulk carrier segments.
 
 ![Market Chart 5](assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image3_5c811f9a6b7c.png)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image3_5c811f9a6b7c.png)
+> [Local Asset](assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image3_5c811f9a6b7c.png)
 
 Where do we stand?
 
@@ -74,7 +74,7 @@ Although rates are still well below Q3’s levels, they remain extremely firm. T
 ![Market Chart 6](assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image4_694d9d7616cb.png)
 
 > **Figure 6: Market Chart 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image4_694d9d7616cb.png)
+> [Local Asset](assets/2021-12-05_the-big-picture-2021-in-review-pt1_img_image4_694d9d7616cb.png)
 
 ---
 

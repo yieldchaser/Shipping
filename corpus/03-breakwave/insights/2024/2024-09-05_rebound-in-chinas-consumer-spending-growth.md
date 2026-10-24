@@ -27,7 +27,7 @@ As we discussed in Commodore Research's most recent Weekly China Report, China�
 ![Chart 1](assets/2024-09-05_rebound-in-chinas-consumer-spending-growth_img_chart1_32250fe7501c.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-05_rebound-in-chinas-consumer-spending-growth_img_chart1_32250fe7501c.jpg)
+> [Local Asset](assets/2024-09-05_rebound-in-chinas-consumer-spending-growth_img_chart1_32250fe7501c.jpg)
 
 Retail sales growth has stayed low, but the growth at least continues to exceed inflation. During each of the last nineteen months, retail sales growth has come in higher than inflation. Prior to the last nineteen months, retail sales came in lower than inflation for four straight months. Of particular note regarding China’s inflation is July’s 0.5% inflation has marked the highest inflation seen since February.
 
@@ -36,14 +36,14 @@ Also of note on the consumer side is that furniture and household appliance sale
 ![Chart 2](assets/2024-09-05_rebound-in-chinas-consumer-spending-growth_img_chart2_65c8fa3e25d4.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-05_rebound-in-chinas-consumer-spending-growth_img_chart2_65c8fa3e25d4.jpg)
+> [Local Asset](assets/2024-09-05_rebound-in-chinas-consumer-spending-growth_img_chart2_65c8fa3e25d4.jpg)
 
 Household appliance sales (which includes consumer electronics) in China rose on a year-on-year basis by 1%. Sales have now increased on a year-on-year basis during six of the last seven months.
 
 ![Chart 3](assets/2024-09-05_rebound-in-chinas-consumer-spending-growth_img_chart3_fdc4d822d16f.jpg)
 
 > **Figure 3: Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-05_rebound-in-chinas-consumer-spending-growth_img_chart3_fdc4d822d16f.jpg)
+> [Local Asset](assets/2024-09-05_rebound-in-chinas-consumer-spending-growth_img_chart3_fdc4d822d16f.jpg)
 
 ---
 

@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-11-18_cementing-the-future.
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2024-11-18_cementing-the-future_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-18_cementing-the-future_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](assets/2024-11-18_cementing-the-future_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 The resilience of sustainable infrastructure investment has gained attention, as the world witnessed significant disruptions in economic growth and supply chain disruption resulting initially from the Covid pandemic, war, geopolitical tensions, natural catastrophes such as floods and storms, and inflation over the last few years. The definition of infrastructure broadens beyond airports, seaports, and roads to intermodal transport, and railways, energy extraction and distribution, real estate, and manufacturing sectors, urbanization and irrigation, social and healthcare centres etc, which is expected to grow significantly over the coming decade.
 
@@ -34,7 +34,7 @@ Likewise, growth in infrastructure is a key driver for cement. The market resear
 ![Στιγμιότυπο Οθόνης 2024 11 18 133307](assets/2024-11-18_cementing-the-future_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da9d652d3daf.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 11 18 133307**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-18_cementing-the-future_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da9d652d3daf.png)
+> [Local Asset](assets/2024-11-18_cementing-the-future_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da9d652d3daf.png)
 
 According to the World Population Review data, the Middle East region is the highest cement producing region with Iran (10%), India (8%), Turkey (7%), and Saudi Arabia (2%) – among the top ten cement-producing countries saw positive growth in their cement output in 2023. Despite being the world's largest producer of cement (2.1 mln mt), China's output has been decreasing over the last few years. No surprise, cement prices have been impacted by the persistent decline in the Chinese real estate industry, which has slashed the profit margins of cement makers. Moreover, the substantial capacity surplus remains a key issue in China, which is now scaling down its industry.
 
@@ -47,7 +47,7 @@ According to the AXSMarine data, since 2019 Turkey has surpassed Vietnam and Chi
 ![Στιγμιότυπο Οθόνης 2024 11 18 133324](assets/2024-11-18_cementing-the-future_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1b071df43b67.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 11 18 133324**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-18_cementing-the-future_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1b071df43b67.png)
+> [Local Asset](assets/2024-11-18_cementing-the-future_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1b071df43b67.png)
 
 Despite rising output, exports from Turkey remained lower in 2023 as the country diverted supplies to the domestic market. On the contrary, exports from Vietnam shot up 40% to 7.7 mln mt in 2023 despite registering a negative production growth of 8% to 110,000 mt in the same year and is expected to follow suit in 2024. This year, Turkey remained the swing factor due to the reversal of the 2023 export diversion and rising seaborne shipments. Production and exports from Japan have been on a steady decline as many cement plants have slashed operations due to rising fuel costs, a slowdown in construction activity, and decarbonization policies. Elsewhere in the EU, the Carbon Neutrality Roadmap, and inflation are the main hindrance to cement exports.
 
@@ -58,7 +58,7 @@ According to AXSMarine data, cement and clinker accounted for about 2.5% of the 
 ![Στιγμιότυπο Οθόνης 2024 11 18 133349](assets/2024-11-18_cementing-the-future_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c8bdbee68e90.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 11 18 133349**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-18_cementing-the-future_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c8bdbee68e90.png)
+> [Local Asset](assets/2024-11-18_cementing-the-future_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c8bdbee68e90.png)
 
 Meanwhile, the US continued to be the largest cement importer. The increased spending on infrastructure and commercial (non-housing) projects, the rise in prices of domestically produced cement on account of inflation, and the rise in investment in the construction sector and new manufacturing facilities have paved the way for comparatively inexpensive imports. Obviously, with the homecoming of the Trump administration, how it impacts domestic construction, will be widely watched by the cement sector. Even though this is an attempt to protect domestic companies who are suffering from cheaper imports, a possible increase in import duties will be a significant hinderance to import volume.
 

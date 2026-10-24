@@ -43,35 +43,35 @@ Another week of trade war back and forth and equity volatility is over. US equit
 ![Market Chart 1](assets/2025-03-18_this-wasnt-about-the-economy-the-next-one-could-be_img_image001_ec1a548e0388.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=IGj24KHhMFw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-18_this-wasnt-about-the-economy-the-next-one-could-be_img_image001_ec1a548e0388.png)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=IGj24KHhMFw) | [Local Asset](assets/2025-03-18_this-wasnt-about-the-economy-the-next-one-could-be_img_image001_ec1a548e0388.png)
 
 This confirms that what we have been living through is not investors pricing in a brand-new economic reality, as much as a healthy reaction to a very expensive US, tech-driven equity market and movement towards wider diversification.
 
 ![Market Chart 2](assets/2025-03-18_this-wasnt-about-the-economy-the-next-one-could-be_img_image002_af221907fede.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=IGj24KHhMFw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-18_this-wasnt-about-the-economy-the-next-one-could-be_img_image002_af221907fede.png)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=IGj24KHhMFw) | [Local Asset](assets/2025-03-18_this-wasnt-about-the-economy-the-next-one-could-be_img_image002_af221907fede.png)
 
 Certainly, European stocks would come in vogue after Germany decided to relax fiscal discipline and Chinese tech stocks would rise after Deepseek’s debut. But that could have only happened if we managed to take our eyes off the “Magnificent Seven”, a handful of stocks driving global equity performance for the past two years.
 
 ![Market Chart 3](assets/2025-03-18_this-wasnt-about-the-economy-the-next-one-could-be_img_image003_60b83917982f.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=IGj24KHhMFw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-18_this-wasnt-about-the-economy-the-next-one-could-be_img_image003_60b83917982f.png)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=IGj24KHhMFw) | [Local Asset](assets/2025-03-18_this-wasnt-about-the-economy-the-next-one-could-be_img_image003_60b83917982f.png)
 
 High valuations helped do that and so did the reversion of the carry trade (investors borrowing in cheap Japanese Yen to buy higher yielding US assets).
 
 ![Market Chart 4](assets/2025-03-18_this-wasnt-about-the-economy-the-next-one-could-be_img_image004_4cf2f0deda3f.png)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=IGj24KHhMFw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-18_this-wasnt-about-the-economy-the-next-one-could-be_img_image004_4cf2f0deda3f.png)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=IGj24KHhMFw) | [Local Asset](assets/2025-03-18_this-wasnt-about-the-economy-the-next-one-could-be_img_image004_4cf2f0deda3f.png)
 
 Economic worries were of course the trigger for the correction, but the market was looking to break free from monothematic US tech investing for some time. Hence the negative reaction of Thursday, even after the latest US inflation report came in better than anticipated
 
 ![Market Chart 5](assets/2025-03-18_this-wasnt-about-the-economy-the-next-one-could-be_img_image005_e4541e11fa8a.png)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=IGj24KHhMFw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-18_this-wasnt-about-the-economy-the-next-one-could-be_img_image005_e4541e11fa8a.png)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=IGj24KHhMFw) | [Local Asset](assets/2025-03-18_this-wasnt-about-the-economy-the-next-one-could-be_img_image005_e4541e11fa8a.png)
 
 .
 
@@ -96,14 +96,14 @@ In case you missed it, last week was not just about the February inflation numbe
 ![Market Chart 6](assets/2025-03-18_this-wasnt-about-the-economy-the-next-one-could-be_img_image006_83f5401f19b2.png)
 
 > **Figure 6: Market Chart 6**  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=IGj24KHhMFw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-18_this-wasnt-about-the-economy-the-next-one-could-be_img_image006_83f5401f19b2.png)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=IGj24KHhMFw) | [Local Asset](assets/2025-03-18_this-wasnt-about-the-economy-the-next-one-could-be_img_image006_83f5401f19b2.png)
 
 Take steel. Over the shorter term, local producers will try to cover extra demand, for, say, steel, but that assumes that they have been working well below capacity. This is true enough for the US steel industry which operates at[**74%-75%**](https://www.youtube.com/watch?v=IGj24KHhMFw)[**capacity**](https://www.steel.org/industry-data/). However, a[Fred Stlouisfed](https://fred.stlouisfed.org/series/CAPUTLG3311A2S)suggests that after 2008, the sector, which previously operated at 80% to 90%, hasn’t operated above 80% capacity.
 
 ![Careful Examination](assets/2025-03-18_this-wasnt-about-the-economy-the-next-one-could-be_img_image007_e343ce6a959f.png)
 
 > **Figure 7: Careful Examination**  
-> **Interactive Data & Source:** [Cato](https://www.cato.org/regulation/fall-2024/what-should-become-us-steel) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-18_this-wasnt-about-the-economy-the-next-one-could-be_img_image007_e343ce6a959f.png)
+> **Interactive Data & Source:** [Cato](https://www.cato.org/regulation/fall-2024/what-should-become-us-steel) | [Local Asset](assets/2025-03-18_this-wasnt-about-the-economy-the-next-one-could-be_img_image007_e343ce6a959f.png)
 
 What happened in 2008? It was not China expanding its steel industry. Rather, it was the Global Financial Crisis. It’s a decade of haphazard demand conditions, followed by the pandemic. We could re-iterate the point that a lot of what we are experiencing economically, financially and politically is still the wake of that crisis, which has defined the modern economy as much as the Great Depression defined much of the 20th century. But it’s a very large discussion and certainly beyond the scope of this document.
 

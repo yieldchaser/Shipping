@@ -25,7 +25,7 @@ The Beijing municipality government last week announced that it will be issuing 
 ![Market Chart 1](assets/2020-06-09_beijing-to-issue-consumption-vouchers_img_image-asset_511b5c195ecc.jpeg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-09_beijing-to-issue-consumption-vouchers_img_image-asset_511b5c195ecc.jpeg)
+> [Local Asset](assets/2020-06-09_beijing-to-issue-consumption-vouchers_img_image-asset_511b5c195ecc.jpeg)
 
 While China’s industrial sector has improved significantly in recent months, the consumer sector continues to lag. As we have been discussing in our weekly client notes, weekend traffic remains particularly low and in fact has stayed weakest in Beijing among the five major cities we have been monitoring. Consumers have not been as active during the weekends as they previously were before the start of the coronavirus outbreak.
 

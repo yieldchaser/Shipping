@@ -31,7 +31,7 @@ tags:
 ![672ce37dbb9d18108441564b 672ce2f60f0cb3ce7149b3ef Demand%20dry%20nov](../../images/672ce37dbb9d18108441564b_672ce2f60f0cb3ce7149b3ef_DEMAND%20DRY%20nov.avif)
 
 > **Figure 1: 672ce37dbb9d18108441564b 672ce2f60f0cb3ce7149b3ef Demand%20dry%20nov**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-45-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/672ce37dbb9d18108441564b_672ce2f60f0cb3ce7149b3ef_DEMAND%20DRY%20nov.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-45-2024) | [Local Asset](../../images/672ce37dbb9d18108441564b_672ce2f60f0cb3ce7149b3ef_DEMAND%20DRY%20nov.avif)
 
 November brought a significant downturn in dry bulk freight rates, with the Baltic Capesize Index plummeting by 40% on a monthly level. The Baltic Panamax Index also showed a decline, though at a slower pace of 14%. In smaller vessel categories, the Supramax and Handysize segments have seen milder decreases, with the Supramax index down by 10% and the Handysize index demonstrating notable resilience, remaining relatively stable at last month’s levels. This varied performance across vessel types reflects differing dynamics and demand factors influencing each segment.
 

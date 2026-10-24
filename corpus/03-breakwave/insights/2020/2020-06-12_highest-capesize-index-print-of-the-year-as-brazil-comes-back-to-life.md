@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-06-12_highest-capesize-inde
 ![Market Chart 1](assets/2020-06-12_highest-capesize-index-print-of-the-year-as-brazil-comes-back-to-life_img_image-asset_dae01bbd78db.jpeg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-12_highest-capesize-index-print-of-the-year-as-brazil-comes-back-to-life_img_image-asset_dae01bbd78db.jpeg)
+> [Local Asset](assets/2020-06-12_highest-capesize-index-print-of-the-year-as-brazil-comes-back-to-life_img_image-asset_dae01bbd78db.jpeg)
 
 Capesize spot rates continued to advance, as the Index hits the highest level of the year on the back of strong interest from major miners, both in Australia as well as in Brazil, for iron ore shipments to China. Still, the transatlantic market is lagging, as European demand for bulk commodities remains lackluster.
 
@@ -36,7 +36,7 @@ With third quarter Capesize futures trading at 16,000, and more importantly, wit
 
 > **Figure 2: Capesize Spot: +5103**  
 > *Capesize Spot: +5103*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-12_highest-capesize-index-print-of-the-year-as-brazil-comes-back-to-life_img_q3capesize_8e5616c79c4c.jpg)
+> [Local Asset](assets/2020-06-12_highest-capesize-index-print-of-the-year-as-brazil-comes-back-to-life_img_q3capesize_8e5616c79c4c.jpg)
 
 **Capesize Q3 2020 Contrac**t
 

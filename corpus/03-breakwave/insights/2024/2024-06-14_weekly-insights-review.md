@@ -31,12 +31,12 @@ source_file: "corpus/03-breakwave/insights/2024/2024-06-14_weekly-insights-revie
 ![Dry+report+top](assets/2024-06-14_weekly-insights-review_img_dry2breport2btop_e1683f2a3964.png)
 
 > **Figure 1: Dry+report+top**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/8/powering-ahead) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-14_weekly-insights-review_img_dry2breport2btop_e1683f2a3964.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/8/powering-ahead) | [Local Asset](assets/2024-06-14_weekly-insights-review_img_dry2breport2btop_e1683f2a3964.png)
 
 ![Read More](assets/2024-06-14_weekly-insights-review_img_image-asset28929_11ba1878b900.jpeg)
 
 > **Figure 2: Read More**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/8/powering-ahead) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-14_weekly-insights-review_img_image-asset28929_11ba1878b900.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/8/powering-ahead) | [Local Asset](assets/2024-06-14_weekly-insights-review_img_image-asset28929_11ba1878b900.jpeg)
 
 ## Powering Ahead
 
@@ -47,7 +47,7 @@ During the first trading week of June, Baltic indices mostly trended upwards, wi
 ![Market Chart 3](assets/2024-06-14_weekly-insights-review_img_image-asset_8e2505ea8d4f.jpeg)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/8/additional-coal-mine-accidents-in-china-in-may) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-14_weekly-insights-review_img_image-asset_8e2505ea8d4f.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/8/additional-coal-mine-accidents-in-china-in-may) | [Local Asset](assets/2024-06-14_weekly-insights-review_img_image-asset_8e2505ea8d4f.jpeg)
 
 ## Additional Coal Mine Accidents in China in May
 
@@ -60,7 +60,7 @@ As we discussed in Commodore Research's June 3rd Weekly Dry Bulk Report, two mor
 ![Market Chart 4](assets/2024-06-14_weekly-insights-review_img_image-asset28129_cd8dcee8dde4.jpeg)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/10/europe-there-we-need-to-talk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-14_weekly-insights-review_img_image-asset28129_cd8dcee8dde4.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/10/europe-there-we-need-to-talk) | [Local Asset](assets/2024-06-14_weekly-insights-review_img_image-asset28129_cd8dcee8dde4.jpeg)
 
 ## Europe There? We Need to Talk…
 
@@ -73,7 +73,7 @@ Last week’s strong US labour data pushed rate cut expectations even further do
 ![Market Chart 5](assets/2024-06-14_weekly-insights-review_img_image-asset28229_bf380499a22d.jpeg)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/12/renewed-supply-issues-push-global-gas-prices-higher) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-14_weekly-insights-review_img_image-asset28229_bf380499a22d.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/12/renewed-supply-issues-push-global-gas-prices-higher) | [Local Asset](assets/2024-06-14_weekly-insights-review_img_image-asset28229_bf380499a22d.jpeg)
 
 ## Renewed Supply Issues Push Global Gas Prices Higher
 
@@ -84,7 +84,7 @@ Metal markets remained under pressure amid concerns over demand in China. Ongoin
 ![Market Chart 6](assets/2024-06-14_weekly-insights-review_img_image-asset28329_c542287a2a4f.jpeg)
 
 > **Figure 6: Market Chart 6**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/12/dry-bulk-seasonal-weakness) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-14_weekly-insights-review_img_image-asset28329_c542287a2a4f.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/12/dry-bulk-seasonal-weakness) | [Local Asset](assets/2024-06-14_weekly-insights-review_img_image-asset28329_c542287a2a4f.jpeg)
 
 ## Dry Bulk Seasonal Weakness
 
@@ -95,7 +95,7 @@ The Baltic Dry Index retreated for the first time in over a week on Tuesday as t
 ![Market Chart 7](assets/2024-06-14_weekly-insights-review_img_image-asset28429_a4af410a959e.jpeg)
 
 > **Figure 7: Market Chart 7**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/13/o4yqangkjngcfym616mwvcwlr2py7b) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-14_weekly-insights-review_img_image-asset28429_a4af410a959e.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/13/o4yqangkjngcfym616mwvcwlr2py7b) | [Local Asset](assets/2024-06-14_weekly-insights-review_img_image-asset28429_a4af410a959e.jpeg)
 
 ## Increase in Suezmaxes in Fuel Oil Trade
 
@@ -106,7 +106,7 @@ This week, in the East, we examine increasing Suezmax exposure in the fuel oil t
 ![Market Chart 8](assets/2024-06-14_weekly-insights-review_img_image-asset28629_ddb75f74e8a5.jpeg)
 
 > **Figure 8: Market Chart 8**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/13/sale-and-purchase-activity-of-dry-bulk-comparatively-tanker) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-14_weekly-insights-review_img_image-asset28629_ddb75f74e8a5.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/13/sale-and-purchase-activity-of-dry-bulk-comparatively-tanker) | [Local Asset](assets/2024-06-14_weekly-insights-review_img_image-asset28629_ddb75f74e8a5.jpeg)
 
 ## Sale and Purchase Activity of Dry Bulk Comparatively Tanker
 
@@ -117,7 +117,7 @@ The dry bulk sale and purchase activity has demonstrated remarkable strength thi
 ![Market Chart 9](assets/2024-06-14_weekly-insights-review_img_image-asset28529_1bf4b0b62313.jpeg)
 
 > **Figure 9: Market Chart 9**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/13/port-congestion-far-east) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-14_weekly-insights-review_img_image-asset28529_1bf4b0b62313.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/13/port-congestion-far-east) | [Local Asset](assets/2024-06-14_weekly-insights-review_img_image-asset28529_1bf4b0b62313.jpeg)
 
 ## Port Congestion, Far East
 
@@ -130,7 +130,7 @@ In the second week of June, there's a notable development in Capesize vessel rat
 ![Img 3](assets/2024-06-14_weekly-insights-review_img_img-3_0fbff3f0ce57.jpg)
 
 > **Figure 10: Img 3**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/14/a-lot-of-moving-parts) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-14_weekly-insights-review_img_img-3_0fbff3f0ce57.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/14/a-lot-of-moving-parts) | [Local Asset](assets/2024-06-14_weekly-insights-review_img_img-3_0fbff3f0ce57.jpg)
 
 ## A Lot of Moving Parts
 
@@ -141,7 +141,7 @@ The long-awaited change in the product tanker market due to the 650kbd Dangote r
 ![Market Chart 11](assets/2024-06-14_weekly-insights-review_img_image-asset28729_d4c3a4a5f3bf.jpeg)
 
 > **Figure 11: Market Chart 11**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/14/supply-side-issues-push-global-gas-prices-higher) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-14_weekly-insights-review_img_image-asset28729_d4c3a4a5f3bf.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/14/supply-side-issues-push-global-gas-prices-higher) | [Local Asset](assets/2024-06-14_weekly-insights-review_img_image-asset28729_d4c3a4a5f3bf.jpeg)
 
 ## Supply Side Issues Push Global Gas Prices Higher
 
@@ -154,7 +154,7 @@ Mixed signals on the outlook for monetary policy saw commodity markets trade sid
 ![Στιγμιότυπο Οθόνης 2024 06 14 110755](assets/2024-06-14_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7baf79e25da6.png)
 
 > **Figure 12: Στιγμιότυπο Οθόνης 2024 06 14 110755**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/14/global-crude-exports-recover-in-may-but-atlantic-basin-loses-share) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-14_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7baf79e25da6.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/14/global-crude-exports-recover-in-may-but-atlantic-basin-loses-share) | [Local Asset](assets/2024-06-14_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7baf79e25da6.png)
 
 ## Global Crude Exports Recover in May But Atlantic Basin Loses Share
 
@@ -165,7 +165,7 @@ Global crude supplies were buoyed in May by an almost 700kbd m-o-m rise in globa
 ![Market Chart 13](assets/2024-06-14_weekly-insights-review_img_image-asset28829_6fb05a62df97.jpeg)
 
 > **Figure 13: Market Chart 13**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/14/dirty-crude-oil-flows-to-china) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-14_weekly-insights-review_img_image-asset28829_6fb05a62df97.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/14/dirty-crude-oil-flows-to-china) | [Local Asset](assets/2024-06-14_weekly-insights-review_img_image-asset28829_6fb05a62df97.jpeg)
 
 ## Dirty Crude Oil Flows to China
 

@@ -36,7 +36,7 @@ The anxiety feels a little unnecessary but perhaps understandable. OPEC can take
 ![Opec Eases Production Cuts Amid Signs of Growing Oil Demand](../../images/66b521a8cefafe409f941f0a_606b40351506745bed935070_Imports%20to%20China%2C%20India%2C%20Japan%2C%20Korea%201.avif)
 
 > **Figure 1: Opec Eases Production Cuts Amid Signs of Growing Oil Demand**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/opec-nervously-hikes-output-worries-about-resilience-of-oil-demand-recovery) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b521a8cefafe409f941f0a_606b40351506745bed935070_Imports%20to%20China%2C%20India%2C%20Japan%2C%20Korea%201.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/opec-nervously-hikes-output-worries-about-resilience-of-oil-demand-recovery) | [Local Asset](../../images/66b521a8cefafe409f941f0a_606b40351506745bed935070_Imports%20to%20China%2C%20India%2C%20Japan%2C%20Korea%201.avif)
 
 The VLCC figures for this month are provisional and likely to change due to ships changing course, speed and destinations. But there is supporting evidence from OPEC’s own research department of demand growth. OPEC itself expects world oil demand to rise by 2.57 mln bpd in the second quarter compared to the first. [March MOMR](https://www.opec.org/opec\_web/en/publications/338.htm). And to see further rises of 1.82 mln bpd and 1.48 mln bpd in the third and fourth quarters respectively.
 
@@ -52,7 +52,7 @@ According to data from the [Signal Ocean](/signal-ocean/signal-ocean-platform) p
 ![Opec Eases Production Cuts Amid Signs of Growing Oil Demand](../../images/66b521a8cefafe409f941f0e_606b415b6b3662744e101652_China%20imports%20from%20Arabian%20Gulf%204.avif)
 
 > **Figure 2: Opec Eases Production Cuts Amid Signs of Growing Oil Demand**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/opec-nervously-hikes-output-worries-about-resilience-of-oil-demand-recovery) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b521a8cefafe409f941f0e_606b415b6b3662744e101652_China%20imports%20from%20Arabian%20Gulf%204.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/opec-nervously-hikes-output-worries-about-resilience-of-oil-demand-recovery) | [Local Asset](../../images/66b521a8cefafe409f941f0e_606b415b6b3662744e101652_China%20imports%20from%20Arabian%20Gulf%204.avif)
 
 The global oil market is a self-organising and self-describing network with a flexible architecture. Oil tankers (and pipeline networks) continuously optimise the network of buyers and sellers based on price mismatches. A key challenge for OPEC is that this network is beginning to change shape more rapidly. And it will continue to do so as the world shifts towards less carbon intensive energy sources.
 

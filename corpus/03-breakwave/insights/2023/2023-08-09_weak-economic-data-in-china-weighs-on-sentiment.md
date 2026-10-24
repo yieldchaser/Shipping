@@ -26,7 +26,7 @@ Weak economic data in China weighed on sentiment across commodity markets. This 
 ![1691532005917](assets/2023-08-09_weak-economic-data-in-china-weighs-on-sentiment_img_1691532005917_d46a0e6b3493.png)
 
 > **Figure 1: 1691532005917**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-09_weak-economic-data-in-china-weighs-on-sentiment_img_1691532005917_d46a0e6b3493.png)
+> [Local Asset](assets/2023-08-09_weak-economic-data-in-china-weighs-on-sentiment_img_1691532005917_d46a0e6b3493.png)
 
 **Copper**fell after worse than expected trade data from China raised further concerns over the recovery of its economy. Customs data showed exports fell 15% y/y, driven by restrictions on high tech products including semiconductors. This was worse than market consensus, triggering a risk off tone across financial markets. However, there were some positive signs that things are stabilising.[Imports of commodity imports for July were robust](../pdfs/2023-08-09_weak-economic-data-in-china-weighs-on-sentiment_china-commodity-trade-data-july-2023_898182d14c9b.pdf). While primary copper imports were down 2.7% y/y, that was driven by strong domestic production. Strong underlying demand was highlighted by a 3.2% y/y rise in copper. This comes as copper stockpiles fall sharply. Stockpiles, as reported by the Shanghai Futures Exchange, dropped 15% last week and remain sharply below the seasonal average. Exports of aluminium fell nearly 25% y/y amid disruptions to domestic output.
 

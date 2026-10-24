@@ -27,12 +27,12 @@ This week, we investigate why Aframaxes entered the port of Ust Luga and then le
 ![Στιγμιότυπο Οθόνης 2024 07 11 083956](assets/2024-07-11_vjz1twli65m261jmmitks302mx9cvx_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32c513c00088.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 11 083956**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUO88lxtb78UlBpdR7J5ufJvquj9_9f4l173m6CABzfwPzsUQEc1IYzfwqZW0fcQf35yB5PS8=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-11_vjz1twli65m261jmmitks302mx9cvx_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32c513c00088.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUO88lxtb78UlBpdR7J5ufJvquj9_9f4l173m6CABzfwPzsUQEc1IYzfwqZW0fcQf35yB5PS8=) | [Local Asset](assets/2024-07-11_vjz1twli65m261jmmitks302mx9cvx_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32c513c00088.png)
 
 ![Στιγμιότυπο Οθόνης 2024 07 11 084013](assets/2024-07-11_vjz1twli65m261jmmitks302mx9cvx_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_308fc9e326f7.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 07 11 084013**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUO88lxtb78UlBpdR7J5ufJvquj9_9f4l173m6CABzfwPzsUQEc1IYzfwqZW0fcQf35yB5PS8=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-11_vjz1twli65m261jmmitks302mx9cvx_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_308fc9e326f7.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUO88lxtb78UlBpdR7J5ufJvquj9_9f4l173m6CABzfwPzsUQEc1IYzfwqZW0fcQf35yB5PS8=) | [Local Asset](assets/2024-07-11_vjz1twli65m261jmmitks302mx9cvx_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_308fc9e326f7.png)
 
 - As of the 9th July, there are[11 Aframaxes ballasting outside Ust Luga](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUO88lxtb78UlBpdR7J5ufJvquj9_9f4l173m6CABzfwPzsUQEc1IYzfwqZW0fcQf35yB5PS8=). Nine of these tankers are in Ust Luga anchorage whilst two are waiting just south of Porvoo. This could be the result of sanctions, as five of these 11 Aframaxes in anchorage north of the port are sanctioned. Eight of these 11 Aframaxes have entered the port but have then diverted away to anchorage, where they have been since.
 
@@ -42,7 +42,7 @@ This week, we investigate why Aframaxes entered the port of Ust Luga and then le
 ![Στιγμιότυπο Οθόνης 2024 07 11 084037](assets/2024-07-11_vjz1twli65m261jmmitks302mx9cvx_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c324d1992150.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 07 11 084037**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUO88lx0oRi09ryRnCtdjcemtKB_6prKVNBEdgCksNzHiLn7m3bXkqSpgyDnKPKj_v6I3zkuA=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-11_vjz1twli65m261jmmitks302mx9cvx_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c324d1992150.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUO88lx0oRi09ryRnCtdjcemtKB_6prKVNBEdgCksNzHiLn7m3bXkqSpgyDnKPKj_v6I3zkuA=) | [Local Asset](assets/2024-07-11_vjz1twli65m261jmmitks302mx9cvx_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c324d1992150.png)
 
 - The MR fleet distribution between the[Pacific](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUO88lx0oRi09ryRnCtdjcemtKB_6prKVNBEdgCksNzHiLn7m3bXkqSpgyDnKPKj_v6I3zkuA=)and the[Atlantic](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUO88lxgRBWnwc8GT1C4-EbBec_LcZEDiHXp20Si9lZnQZ_dDWBTaFalVuzfNh3kvSkZXltqM=)has tilted towards the former, on the back of higher Panama transits but recently also due to a[higher number of ballasters via the COGH from Europe and Africa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUO88lxl3BgmyIgAeP3okwx0uA2CR_dlLAsiIT7_2nYpHEhosZFQhPjaZ1VsPIVBQJUNhRZKc=).
 
@@ -52,7 +52,7 @@ This week, we investigate why Aframaxes entered the port of Ust Luga and then le
 ![Στιγμιότυπο Οθόνης 2024 07 11 084050](assets/2024-07-11_vjz1twli65m261jmmitks302mx9cvx_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d309b1208208.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 07 11 084050**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUO88lxohLxmPSxXqHEpv5KnlheXLt9ALsw2SjPSvxPj49zUjmIawCL1JGMhQjLRjbyRswgbo=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-11_vjz1twli65m261jmmitks302mx9cvx_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d309b1208208.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUO88lxohLxmPSxXqHEpv5KnlheXLt9ALsw2SjPSvxPj49zUjmIawCL1JGMhQjLRjbyRswgbo=) | [Local Asset](assets/2024-07-11_vjz1twli65m261jmmitks302mx9cvx_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d309b1208208.png)
 
 - Lightering activity (both[reverse lightering](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUO88lxohLxmPSxXqHEpv5KnlheXLt9ALsw2SjPSvxPj49zUjmIawCL1JGMhQjLRjbyRswgbo=)and[lightering](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUO88lxpRxgXo-o_DAey5E9wB2j9L2xdX0gxKmeHdlGFhet6bt4dVi7WUjQXFI3ejs4AWEdqE=)) in the US Gulf came to a halt over the weekend with the approach of Hurricane Beryl, but the disruption caused by the storm is likely to be short-lived. Lightering activity dropped almost 60% w-o-w, albeit after the previous week was very busy as a result of[increased loadings](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUO88lxm-cTyrBHy35FEHMRrV5uDj3oSEHoWSBBXCjADZQozOJNJhkuVhkFyXkFjlhwY1GEAg=)to Asia compared to recent weeks and a large parcel going to ARA.
 
@@ -62,7 +62,7 @@ This week, we investigate why Aframaxes entered the port of Ust Luga and then le
 ![Στιγμιότυπο Οθόνης 2024 07 11 084102](assets/2024-07-11_vjz1twli65m261jmmitks302mx9cvx_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1c6f0d350cc7.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 07 11 084102**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUO88lxh1_UWTgtfWYAcbgYnyOOxzSODge-5dXjzgygWKSY1YX59g1Q--1Ul8kOGFdEFHkqT8=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-11_vjz1twli65m261jmmitks302mx9cvx_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1c6f0d350cc7.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUO88lxh1_UWTgtfWYAcbgYnyOOxzSODge-5dXjzgygWKSY1YX59g1Q--1Ul8kOGFdEFHkqT8=) | [Local Asset](assets/2024-07-11_vjz1twli65m261jmmitks302mx9cvx_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1c6f0d350cc7.png)
 
 - During Q2, demand for European gasoline in North America East Coast (US Atlantic Coast and East Coast Canada) has been lacklustre compared to seasonal averages.[Voyage counts for MR2s carrying gasoline NW Europe-to-North America East Coast](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUO88lxh1_UWTgtfWYAcbgYnyOOxzSODge-5dXjzgygWKSY1YX59g1Q--1Ul8kOGFdEFHkqT8=)have remained well below the seasonal average for most of the quarter, only just approaching the seasonal average in June due to an increase in voyages to East Coast Canada in June.
 

@@ -27,7 +27,7 @@ Easing geopolitical risks continued to weigh on oil markets. Prospects of additi
 ![Στιγμιότυπο Οθόνης 2024 10 30 113434](assets/2024-10-30_oil-extends-losses-as-tensions-ease-in-the-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_99da29ce67d3.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 30 113434**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-30_oil-extends-losses-as-tensions-ease-in-the-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_99da29ce67d3.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-10-30_oil-extends-losses-as-tensions-ease-in-the-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_99da29ce67d3.png)
 
 ### Market Commentary
 
@@ -46,7 +46,7 @@ China's imports of coal continue to rise despite stockpiles at record levels. Th
 ![Στιγμιότυπο Οθόνης 2024 10 30 113459](assets/2024-10-30_oil-extends-losses-as-tensions-ease-in-the-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_497ce3f56aa3.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 30 113459**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-30_oil-extends-losses-as-tensions-ease-in-the-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_497ce3f56aa3.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-10-30_oil-extends-losses-as-tensions-ease-in-the-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_497ce3f56aa3.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-10-12_moderate-dry-bulk-fle
 ![Ship21](assets/2020-10-12_moderate-dry-bulk-fleet-growth_img_ship21_257dca2ede6f.jpg)
 
 > **Figure 1: Ship21**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-12_moderate-dry-bulk-fleet-growth_img_ship21_257dca2ede6f.jpg)
+> [Local Asset](assets/2020-10-12_moderate-dry-bulk-fleet-growth_img_ship21_257dca2ede6f.jpg)
 
 Approximately 40 dry bulk vessels were delivered last month. This is 14 more than were delivered in August. Last month saw the delivery of 7 handysize vessels, 10 handymax vessels, 13 panamax vessels, and 10 capesize vessels. In comparison, August saw the delivery of 5 handysize vessels, 4 handymax vessels, 10 panamax vessels, and 7 capesize vessels. Also of note is that approximately 18 dry bulk vessels were scrapped last month. This is 13 more than were scrapped in August. Last month saw the removal of 8 handysize vessels, 2 handymax vessels, 3 panamax vessels, and 5 capesize vessels. In comparison, August saw the removal of 2 handysize vessels, 1 handymax vessel, 1 panamax vessel, and 1 capesize vessel.
 

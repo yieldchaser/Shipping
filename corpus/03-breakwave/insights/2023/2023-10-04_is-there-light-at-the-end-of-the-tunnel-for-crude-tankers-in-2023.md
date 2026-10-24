@@ -29,7 +29,7 @@ Crude tanker rates have been sliding across the board in the last couple of mont
 
 > **Figure 1: Crude Tanker Indices per Vessel Class**  
 > *Crude tanker indices per vessel class*  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2021-01-01T00%3A00%3A00.000Z__2023-09-18T23%3A59%3A59.999Z&from=%5B%227bc5d2b5ea1cc552f6df9640185e8c7923106b0099a9c432437b8c5768aa670a%22%5D&latestProducts=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&page=FleetUtilisation&primarySplitProperty1=vessel_class_coarse&primarySplitProperty2=destination_shipping_region&secondaryTimeSeries1=hide&tabId=46d966b9-07a9-4569-a584-3fc8a0c9aaf5&v=3&vesselClasses=%5B%22aframax%22%2C%22suezmax%22%5D) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-04_is-there-light-at-the-end-of-the-tunnel-for-crude-tankers-in-2023_img_chart-1-9-1024x708_dd368f0303f3.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2021-01-01T00%3A00%3A00.000Z__2023-09-18T23%3A59%3A59.999Z&from=%5B%227bc5d2b5ea1cc552f6df9640185e8c7923106b0099a9c432437b8c5768aa670a%22%5D&latestProducts=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&page=FleetUtilisation&primarySplitProperty1=vessel_class_coarse&primarySplitProperty2=destination_shipping_region&secondaryTimeSeries1=hide&tabId=46d966b9-07a9-4569-a584-3fc8a0c9aaf5&v=3&vesselClasses=%5B%22aframax%22%2C%22suezmax%22%5D) | [Local Asset](assets/2023-10-04_is-there-light-at-the-end-of-the-tunnel-for-crude-tankers-in-2023_img_chart-1-9-1024x708_dd368f0303f3.png)
 
 ## Crude Tankers Show Adaptability, Switching to Alternative Markets
 
@@ -41,7 +41,7 @@ The VLCC segment has borne the brunt of reduced exports out of Saudi Arabia, whi
 
 > **Figure 2: Aframax/suezmax Utilisation From Selected West of Suez Origins**  
 > *Aframax/Suezmax utilisation from selected West of Suez origins (LHS, no. of vessels) vs. VLCCs located in West of Suez (RHS, no. of vessels)*  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=last-24-months&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22sts_o%22%2C%22c_o%22%2C%22w%22%2C%22sts%22%2C%22v_o%22%2C%22v_f%22%2C%22intra_d%22%5D&from=%5B%227bc5d2b5ea1cc552f6df9640185e8c7923106b0099a9c432437b8c5768aa670a%22%5D&metric=bpd&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&tabId=9bd621ca-e761-485b-b308-18da5cc93ef0&timeSeriesProperty=origin_country&v=2) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-04_is-there-light-at-the-end-of-the-tunnel-for-crude-tankers-in-2023_img_chart-2-8-1024x700_e5932fd98247.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=last-24-months&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22sts_o%22%2C%22c_o%22%2C%22w%22%2C%22sts%22%2C%22v_o%22%2C%22v_f%22%2C%22intra_d%22%5D&from=%5B%227bc5d2b5ea1cc552f6df9640185e8c7923106b0099a9c432437b8c5768aa670a%22%5D&metric=bpd&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&tabId=9bd621ca-e761-485b-b308-18da5cc93ef0&timeSeriesProperty=origin_country&v=2) | [Local Asset](assets/2023-10-04_is-there-light-at-the-end-of-the-tunnel-for-crude-tankers-in-2023_img_chart-2-8-1024x700_e5932fd98247.png)
 
 ## Rising Crude Prices and Seasonality to the Rescue?
 

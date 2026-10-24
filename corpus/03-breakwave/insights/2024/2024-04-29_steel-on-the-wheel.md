@@ -23,21 +23,21 @@ source_file: "corpus/03-breakwave/insights/2024/2024-04-29_steel-on-the-wheel.ht
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2024-04-29_steel-on-the-wheel_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-29_steel-on-the-wheel_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](assets/2024-04-29_steel-on-the-wheel_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 The World Steel Association (WSA) in its short-term outlook this month projects decent growth in global steel demand this year after a period of extreme market volatility emerging from several black swan events since the Covid outbreak. According to WSA projections, demand will increase by 1.7% this year to 1,793 mln mt and would grow further by 1.2% to 1,815 mln mt in 2025.
 
 ![Στιγμιότυπο Οθόνης 2024 04 29 105815 Brs1](assets/2024-04-29_steel-on-the-wheel_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b1ee3a89898.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 04 29 105815 Brs1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-29_steel-on-the-wheel_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b1ee3a89898.png)
+> [Local Asset](assets/2024-04-29_steel-on-the-wheel_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b1ee3a89898.png)
 
 According to the latest WSA report, in absolute terms, India (144.3 mln mt, +8.2% y-o-y) has emerged as the strongest driver of steel demand growth, in contrast to a 1.7% growth globally. The report expects that India will keep up its strong performance, driven by the government’s impetus in structural construction spending during the election year. Additionally, higher infrastructure spending, growth in the property market, and the government’s emphasis on ‘Make in India’ (turning India into a manufacturing hub) will also fuel steel demand growth this year as well.
 
 ![Στιγμιότυπο Οθόνης 2024 04 29 105855 Brs 2](assets/2024-04-29_steel-on-the-wheel_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ae2ce4e2861.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 04 29 105855 Brs 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-29_steel-on-the-wheel_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ae2ce4e2861.png)
+> [Local Asset](assets/2024-04-29_steel-on-the-wheel_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ae2ce4e2861.png)
 
 In 2018, India overtook Japan to become the world’s second largest steel producer. Since then, the steel production capacity of India has risen by 20%, or roughly 29 mln mt, to 171.35 mln mt as of February 2024. The real estate and infrastructure sectors have been the primary drivers. The government, in its annual budget, increased infrastructure spending by 11.1% YoY, to $134 million, for the fiscal year ending March 2025. Indian steel producers are preparing g themselves for a capacity increase in tandem with the rising domestic steel demand. According to the major steel producer’s annual capacity addition agendas published on their respective websites, about 10-12 mln mt of new Indian steelmaking capacity is expected to come online in the fiscal year ending March 2025. This will align production with rising demand. This is in line with the country’s target of raising per capita steel consumption from the current 87 kg to 158 kg and growing steel production capacity from the current 171 mln mt to 300 mln mt by 2030, thus meeting the robust growth and reducing import dependence.
 
@@ -48,12 +48,12 @@ Steel demand and raw-material costs have been impacted by several headwinds stem
 ![Στιγμιότυπο Οθόνης 2024 04 29 105936 Brs 3](assets/2024-04-29_steel-on-the-wheel_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_643cd24a4b94.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 04 29 105936 Brs 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-29_steel-on-the-wheel_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_643cd24a4b94.png)
+> [Local Asset](assets/2024-04-29_steel-on-the-wheel_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_643cd24a4b94.png)
 
 ![Στιγμιότυπο Οθόνης 2024 04 29 105957 Brs 4](assets/2024-04-29_steel-on-the-wheel_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c2fa31f72cec.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 04 29 105957 Brs 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-29_steel-on-the-wheel_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c2fa31f72cec.png)
+> [Local Asset](assets/2024-04-29_steel-on-the-wheel_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c2fa31f72cec.png)
 
 The cost of raw materials has increased sequentially even as steel prices have weakened. Prices for 62% Fe Australian iron ore increased dramatically from $80/mt FOB in 2019 before the pandemic to $110/mt in 1Q24. The cost of Australian premium hard coking coal has also increased from $190/mt FOB Hay Point in 2019 before the pandemic to $290/mt in 1Q24. Rising raw-material costs colliding with declining steel prices are weighing on steel mill profit margins.
 
@@ -64,7 +64,7 @@ The raw-material prices are not expected to cool because of the recent rebound i
 ![Στιγμιότυπο Οθόνης 2024 04 29 110034 Brs 5](assets/2024-04-29_steel-on-the-wheel_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4305bb36785e.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2024 04 29 110034 Brs 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-29_steel-on-the-wheel_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4305bb36785e.png)
+> [Local Asset](assets/2024-04-29_steel-on-the-wheel_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4305bb36785e.png)
 
 India’s growing demand for steel has raised the country’s consumption of iron ore and coking coal. The country is mostly self-reliant in iron ore due to its abundant availability; nonetheless, it imports about 3 mln mt of iron ore each year, mostly from Australia, Brazil and South Africa. The limited quantity of imports can be attributed to varying ore grades in multiple iron ore producing states, leading to price differences and higher inland logistics cost, making imports the most viable option for steel plants located on coastal areas. On the contrary, India remains 90% dependent on coking coal imports. Therefore, rising coking coal prices remain more of a concern than iron ore for Indian consumers.
 
@@ -79,7 +79,7 @@ Although India has maintained its role as the main supplier to the EU (65% or 2.
 ![Στιγμιότυπο Οθόνης 2024 04 29 110107 Brs 6](assets/2024-04-29_steel-on-the-wheel_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_de5976a6988c.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2024 04 29 110107 Brs 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-29_steel-on-the-wheel_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_de5976a6988c.png)
+> [Local Asset](assets/2024-04-29_steel-on-the-wheel_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_de5976a6988c.png)
 
 ### Challenges Ahead:
 

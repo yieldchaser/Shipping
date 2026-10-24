@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-02-14_post-cny-seaborne-mar
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2025-02-14_post-cny-seaborne-market-overview_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-14_post-cny-seaborne-market-overview_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](assets/2025-02-14_post-cny-seaborne-market-overview_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 In recent years, as Chinese players have become increasingly involved in both the shipping market and its downstream sectors, the impact of the Chinese New Year holiday on the shipping market has also grown in importance.
 
@@ -35,7 +35,7 @@ By comparing freight rates 7 days and 14 days after the Chinese New Year with th
 ![Στιγμιότυπο Οθόνης 2025 02 14 121616](assets/2025-02-14_post-cny-seaborne-market-overview_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1223410c1d9e.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 02 14 121616**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-14_post-cny-seaborne-market-overview_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1223410c1d9e.png)
+> [Local Asset](assets/2025-02-14_post-cny-seaborne-market-overview_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1223410c1d9e.png)
 
 Looking at this year, although the P5_82 index saw a significant increase of 55.7% within a week of the Chinese New Year, this was largely due to the previously low Panamax freight rate baseline. As of last Friday, even after some recovery, at $5,689/day, the P5 index is barely covering its operating costs of $5,231/day.
 
@@ -46,7 +46,7 @@ According to weather forecasts, cold air will continue to affect parts of China 
 ![Στιγμιότυπο Οθόνης 2025 02 14 121627](assets/2025-02-14_post-cny-seaborne-market-overview_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c54f8c773d6c.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 02 14 121627**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-14_post-cny-seaborne-market-overview_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c54f8c773d6c.png)
+> [Local Asset](assets/2025-02-14_post-cny-seaborne-market-overview_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c54f8c773d6c.png)
 
 On the iron ore side, although a rebound in steel production margins occurred in January, the market remained characterised by both weak supply and demand before the Chinese New Year.
 

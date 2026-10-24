@@ -32,7 +32,7 @@ With the ban on Australian coal imports still in place, Chinese buyers have uppe
 ![Bmr 1 7.1](assets/2021-07-02_the-big-picture-coal-market_img_bmr171_6aa4899b6dc5.png)
 
 > **Figure 1: Bmr 1 7.1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-02_the-big-picture-coal-market_img_bmr171_6aa4899b6dc5.png)
+> [Local Asset](assets/2021-07-02_the-big-picture-coal-market_img_bmr171_6aa4899b6dc5.png)
 
 To ease some of this pressure, which has been weighing on China’s power utilities, planners have allowed more imports into the country, which have mostly come from Indonesia.
 
@@ -41,7 +41,7 @@ Total coal imports in June reached an estimated 29.5m tonnes, a record monthly t
 ![Bmr 2 7.1](assets/2021-07-02_the-big-picture-coal-market_img_bmr271_cb45e091842c.png)
 
 > **Figure 2: Bmr 2 7.1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-02_the-big-picture-coal-market_img_bmr271_cb45e091842c.png)
+> [Local Asset](assets/2021-07-02_the-big-picture-coal-market_img_bmr271_cb45e091842c.png)
 
 ### Trade Shakeup Insulates Cape Demand
 
@@ -58,12 +58,12 @@ According to Refinitiv’s calculations, which compare the costs of electricity 
 ![Bmr 3 7.1](assets/2021-07-02_the-big-picture-coal-market_img_bmr371_f746de557cd7.png)
 
 > **Figure 3: Bmr 3 7.1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-02_the-big-picture-coal-market_img_bmr371_f746de557cd7.png)
+> [Local Asset](assets/2021-07-02_the-big-picture-coal-market_img_bmr371_f746de557cd7.png)
 
 ![Bmr 4 7.1](assets/2021-07-02_the-big-picture-coal-market_img_bmr471_9311eecf9017.png)
 
 > **Figure 4: Bmr 4 7.1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-02_the-big-picture-coal-market_img_bmr471_9311eecf9017.png)
+> [Local Asset](assets/2021-07-02_the-big-picture-coal-market_img_bmr471_9311eecf9017.png)
 
 Europe’s coal imports have been trending down for several years now. Total seaborne receipts in 2020 stood at just 68.8 m tonnes, less than half of 2015’s total, and we had previously expected this pattern to continue this year. However these energy shortages appear to have driven a short-term rebound, which could continue if the aforementioned conditions persist.
 

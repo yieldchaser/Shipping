@@ -37,7 +37,7 @@ The sanctions on Russian trade and the move by authorities in Moscow to limit ov
 ![Ch1.jpg](assets/2022-04-05_fertiliser-trade-under-pressure_img_ch1jpg_656f7e63a13a.png)
 
 > **Figure 1: Ch1.jpg**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-05_fertiliser-trade-under-pressure_img_ch1jpg_656f7e63a13a.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-04-05_fertiliser-trade-under-pressure_img_ch1jpg_656f7e63a13a.png)
 
 Source: Shipfix
 
@@ -46,7 +46,7 @@ Our cargo order data also highlight a significant drop in activities towards the
 ![Ch2](assets/2022-04-05_fertiliser-trade-under-pressure_img_ch2_3909b0899ebf.png)
 
 > **Figure 2: Ch2**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-05_fertiliser-trade-under-pressure_img_ch2_3909b0899ebf.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-04-05_fertiliser-trade-under-pressure_img_ch2_3909b0899ebf.png)
 
 Source: Shipfix
 
@@ -57,7 +57,7 @@ As Russia’s fertiliser exports started to decline in the wake of its military 
 ![Ch3](assets/2022-04-05_fertiliser-trade-under-pressure_img_ch3_e60ac09f1a13.png)
 
 > **Figure 3: Ch3**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-05_fertiliser-trade-under-pressure_img_ch3_e60ac09f1a13.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-04-05_fertiliser-trade-under-pressure_img_ch3_e60ac09f1a13.png)
 
 Source: Shipfix
 

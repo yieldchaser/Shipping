@@ -35,7 +35,7 @@ In the grain market, Chicago wheat futures were above the $11 per bushel level i
 ![Ch1](assets/2022-05-12_signal-dry-bulk-weekly-report_img_ch1_47c4a6751190.png)
 
 > **Figure 1: Ch1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-12_signal-dry-bulk-weekly-report_img_ch1_47c4a6751190.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-05-12_signal-dry-bulk-weekly-report_img_ch1_47c4a6751190.png)
 
 The revival continues with a significant upturn of freight rates in the Capesize segment, whereas there is a sustained steadiness in the Supramax.
 
@@ -53,7 +53,7 @@ Supply Trend Lines for Key Load Areas
 ![Ch2](assets/2022-05-12_signal-dry-bulk-weekly-report_img_ch2_8820ccc1f7cf.png)
 
 > **Figure 2: Ch2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-12_signal-dry-bulk-weekly-report_img_ch2_8820ccc1f7cf.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-05-12_signal-dry-bulk-weekly-report_img_ch2_8820ccc1f7cf.png)
 
 The number of ballasters increased sharply in the Panamax and Handysize segment for the second week of May, while in the Capesize, levels remain below the one-year average since the ending of Week 9.
 
@@ -69,7 +69,7 @@ The number of ballasters increased sharply in the Panamax and Handysize segment 
 ![Ch3](assets/2022-05-12_signal-dry-bulk-weekly-report_img_ch3_b4c2ee9ad850.png)
 
 > **Figure 3: Ch3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-12_signal-dry-bulk-weekly-report_img_ch3_b4c2ee9ad850.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-05-12_signal-dry-bulk-weekly-report_img_ch3_b4c2ee9ad850.png)
 
 The overall trend of demand ton-days sustained the decreasing trend for the last four weeks.
 
@@ -87,7 +87,7 @@ The overall trend of demand ton-days sustained the decreasing trend for the last
 ![Ch4](assets/2022-05-12_signal-dry-bulk-weekly-report_img_ch4_dda6a790dfc2.png)
 
 > **Figure 4: Ch4**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-12_signal-dry-bulk-weekly-report_img_ch4_dda6a790dfc2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-05-12_signal-dry-bulk-weekly-report_img_ch4_dda6a790dfc2.png)
 
 Dry bulk ships in congestion seemed to have sustained a softer pace in May since the last spike of Week 17.
 

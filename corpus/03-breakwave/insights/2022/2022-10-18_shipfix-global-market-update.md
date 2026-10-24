@@ -58,7 +58,7 @@ European buyers of coal have become increasingly dependent on South African supp
 ![Market Chart 1](assets/2022-10-18_shipfix-global-market-update_img_unnamed289729_8e319fa50c7f.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-18_shipfix-global-market-update_img_unnamed289729_8e319fa50c7f.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-10-18_shipfix-global-market-update_img_unnamed289729_8e319fa50c7f.png)
 
 Capesize freight rates have staged a remarkable recovery since the beginning of September, following an abysmal three months. Still, despite the rapid rebound, daily freight rates remain well below what has been observed during the same period in recent years. Hence, if history provides any guidance, there could be an additional upside, but rising economic and geopolitical headwinds could derail such assumptions.
 

@@ -26,7 +26,7 @@ Brazilian iron ore export volumes increased in August, leading to a boost in Cap
 ![Market Chart 1](assets/2023-09-13_signal-dry-bulk-weekly-report_img_unnamed-2023-09-13t115530524_4d7c928e9fc3.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Dynamic Timeseries](https://go.signalocean.com/e/983831/ic-timeseries-dry-downloadable/2pcmrx/345557934?h=zKu4Vss9Wc8o2XS2Y9d2XrwkpRGmFsNmN7lY_Ni-IB4) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-13_signal-dry-bulk-weekly-report_img_unnamed-2023-09-13t115530524_4d7c928e9fc3.png)
+> **Interactive Data & Source:** [Signal Ocean Dynamic Timeseries](https://go.signalocean.com/e/983831/ic-timeseries-dry-downloadable/2pcmrx/345557934?h=zKu4Vss9Wc8o2XS2Y9d2XrwkpRGmFsNmN7lY_Ni-IB4) | [Local Asset](assets/2023-09-13_signal-dry-bulk-weekly-report_img_unnamed-2023-09-13t115530524_4d7c928e9fc3.png)
 
 [Signal Ocean Dynamic Timeseries](https://go.signalocean.com/e/983831/ic-timeseries-dry-downloadable/2pcmrx/345557934?h=zKu4Vss9Wc8o2XS2Y9d2XrwkpRGmFsNmN7lY_Ni-IB4)
 [Signal Ocean Platform](https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2pcms1/345557934?h=zKu4Vss9Wc8o2XS2Y9d2XrwkpRGmFsNmN7lY_Ni-IB4)
@@ -49,7 +49,7 @@ Market Rates ($/t) Firmer
 ![Market Chart 2](assets/2023-09-13_signal-dry-bulk-weekly-report_img_unnamed-2023-09-13t115659592_71d831788a19.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-13_signal-dry-bulk-weekly-report_img_unnamed-2023-09-13t115659592_71d831788a19.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-09-13_signal-dry-bulk-weekly-report_img_unnamed-2023-09-13t115659592_71d831788a19.png)
 
 The second week of September saw Panamax rates continuing to recover and sentiment remaining buoyant, while signs of a weekly revamp emerged in the Capesize market.
 
@@ -66,7 +66,7 @@ Ballasters (# vessels) Increasing
 ![Market Chart 3](assets/2023-09-13_signal-dry-bulk-weekly-report_img_unnamed-2023-09-13t120052700_9272aac148f0.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-13_signal-dry-bulk-weekly-report_img_unnamed-2023-09-13t120052700_9272aac148f0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-09-13_signal-dry-bulk-weekly-report_img_unnamed-2023-09-13t120052700_9272aac148f0.png)
 
 The number of ballast vessels increased unexpectedly at the start of the week for the Panamax, Supramax and Handysize segments. Capesize levels for the week remained almost the same as the previous week with a minor increase.
 
@@ -80,7 +80,7 @@ The number of ballast vessels increased unexpectedly at the start of the week fo
 ![Summary of Dry Bulk Demand, per Ship Sizetonne Days Mixed](assets/2023-09-13_signal-dry-bulk-weekly-report_img_unnamed-2023-09-13t120247736_cada7f35ea34.png)
 
 > **Figure 4: Summary of Dry Bulk Demand, per Ship Sizetonne Days Mixed**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-13_signal-dry-bulk-weekly-report_img_unnamed-2023-09-13t120247736_cada7f35ea34.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-09-13_signal-dry-bulk-weekly-report_img_unnamed-2023-09-13t120247736_cada7f35ea34.png)
 
 The demand tonne days in the Capesize segment have increased during the last two weeks, leading to optimism for rate recovery in the second week of September compared to the beginning of August.
 
@@ -96,7 +96,7 @@ Dry bulk ships congested at Chinese ports
 ![No of Vessels Increasing](assets/2023-09-13_signal-dry-bulk-weekly-report_img_unnamed-2023-09-13t120601331_3cd34d38d622.png)
 
 > **Figure 5: No of Vessels Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-13_signal-dry-bulk-weekly-report_img_unnamed-2023-09-13t120601331_3cd34d38d622.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-09-13_signal-dry-bulk-weekly-report_img_unnamed-2023-09-13t120601331_3cd34d38d622.png)
 
 The sharp increase in vessel congestion in China in early September continued, with significant increases in the Handysize, Panamax and Capesize vessel segments.
 

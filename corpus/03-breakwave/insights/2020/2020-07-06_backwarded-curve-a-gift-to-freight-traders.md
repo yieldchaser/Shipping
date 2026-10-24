@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-07-06_backwarded-curve-a-gi
 ![Market Chart 1](assets/2020-07-06_backwarded-curve-a-gift-to-freight-traders_img_image-asset_3611bd6bb197.jpeg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/Chinese_economic_stimulus_program) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-07-06_backwarded-curve-a-gift-to-freight-traders_img_image-asset_3611bd6bb197.jpeg)
+> **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/Chinese_economic_stimulus_program) | [Local Asset](assets/2020-07-06_backwarded-curve-a-gift-to-freight-traders_img_image-asset_3611bd6bb197.jpeg)
 
 It is rare to see sentiment diverting considerably across financial markets. And yet, with China’s stock markets up almost 6% today, the best daily advance in more than 5 years, sentiment in that part of the world seems at least positive (one would even say ecstatic). On the other hand, freight futures, a market significantly exposed to China, is all but ecstatic when one looks a bit further out in the future.
 
@@ -34,7 +34,7 @@ Globally, a flood of stimulus money is slowly finding its way to different marke
 ![Capesize Spot, 2009 2011](assets/2020-07-06_backwarded-curve-a-gift-to-freight-traders_img_capesizespot2c2009-2011_3dad129018c4.jpg)
 
 > **Figure 2: Capesize Spot, 2009 2011**  
-> **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/Chinese_economic_stimulus_program) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-07-06_backwarded-curve-a-gift-to-freight-traders_img_capesizespot2c2009-2011_3dad129018c4.jpg)
+> **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/Chinese_economic_stimulus_program) | [Local Asset](assets/2020-07-06_backwarded-curve-a-gift-to-freight-traders_img_capesizespot2c2009-2011_3dad129018c4.jpg)
 
 This time the path will be different, but the effect might end up similar. The global dry bulk market is better balanced when it comes to supply and demand. Yet, the volatility in rates over the last three years might just communicate a tighter market than people think: After all, we have seen 30,000+ Capesize spot rates every year over the last three years. Iron ore is lower than earlier in the previous decade, but still it is at the highest point in at least five years on top of low inventories.
 

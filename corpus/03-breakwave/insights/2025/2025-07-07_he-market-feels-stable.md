@@ -39,7 +39,7 @@ As the industry gathers this week, the contrast between then and now lies not in
 ![Στιγμιότυπο Οθόνης 2025 07 07 102526](assets/2025-07-07_he-market-feels-stable_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72eae4e85a3a.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 07 07 102526**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-07_he-market-feels-stable_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72eae4e85a3a.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-07-07_he-market-feels-stable_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72eae4e85a3a.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

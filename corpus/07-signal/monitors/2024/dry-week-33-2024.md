@@ -31,7 +31,7 @@ tags:
 ![66bdda0973e6f6da7102d1a0 66bdd9c96d849ce1cc7321ee Wk%2033](../../images/66bdda0973e6f6da7102d1a0_66bdd9c96d849ce1cc7321ee_wk%2033.png)
 
 > **Figure 1: 66bdda0973e6f6da7102d1a0 66bdd9c96d849ce1cc7321ee Wk%2033**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-33-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66bdda0973e6f6da7102d1a0_66bdd9c96d849ce1cc7321ee_wk%2033.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-33-2024) | [Local Asset](../../images/66bdda0973e6f6da7102d1a0_66bdd9c96d849ce1cc7321ee_wk%2033.png)
 
 This week's charts highlight a recent surge in Chinese dry bulk port congestion across different vessel classes, with Tianjin port now ranking highest in congestion levels. Meanwhile, Capesize rates from Brazil to North China have begun to show a gradual improvement in freight market sentiment. However, iron ore prices are trending downward due to challenges in the Chinese economic environment.
 

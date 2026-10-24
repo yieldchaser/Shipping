@@ -29,7 +29,7 @@ It is also evident that the reshuffling is in full swing from both sides.[Europe
 
 > **Figure 1: Arrivals of Russian Oil Products in “Friendly” Markets (Excl**  
 > *Arrivals of Russian oil products in “friendly” markets (excl. G7, EU and OECD Asia, mbd)*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-12_eu-shipping-ban-to-be-the-deciding-factor-for-russia-volumes-and-tanker-fates_img_chart-1-4-1024x76128129_07d5edb6ab64.png)
+> [Local Asset](assets/2022-10-12_eu-shipping-ban-to-be-the-deciding-factor-for-russia-volumes-and-tanker-fates_img_chart-1-4-1024x76128129_07d5edb6ab64.png)
 
 In this insight we will focus on how recent developments affect Russia from a freight lens, and attempt to answer two questions:
 
@@ -50,7 +50,7 @@ Hence, this begs the question: Are there alternative candidates to carry Russia�
 
 > **Figure 2: Number of Candidates Viable for Carrying Russian Oil And**  
 > *Number of candidates viable for carrying Russian oil and products post-EU ban (no. of vessels)*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-12_eu-shipping-ban-to-be-the-deciding-factor-for-russia-volumes-and-tanker-fates_img_chart-2-3-1024x728_2a202afc3663.png)
+> [Local Asset](assets/2022-10-12_eu-shipping-ban-to-be-the-deciding-factor-for-russia-volumes-and-tanker-fates_img_chart-2-3-1024x728_2a202afc3663.png)
 
 As the chart illustrates, the dirty segment has a greater number of alternatives which have previously been involved Iranian/Venezuelan sanctioned trade or have ties with Russian ownership. Additionally, India which has evidently ramped up its Russian crude exposure has displayed intent to insure vessels with Russian barrels heading to the country. However, the same cannot be said for the clean segment. For September alone around 150 tankers were utilised carrying fuel products out of Russia, while an additional 115 were ballasting back to the country to retain the continuous flow of cargoes. Even for the scenario where Russia’s volumes are slashed by half, the number of viable candidates remains dwarfed when compared to the fleet needed to transport such volumes.
 

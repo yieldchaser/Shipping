@@ -39,7 +39,7 @@ Assuming that these trends will continue, with CPP exports maintaining their upw
 ![Στιγμιότυπο Οθόνης 2024 07 31 103805](assets/2024-07-31_3tdbk6zvml5wya7hvaa17wssfj6wm4_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_62881f2cb671.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 31 103805**  
-> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-31_3tdbk6zvml5wya7hvaa17wssfj6wm4_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_62881f2cb671.png)
+> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](assets/2024-07-31_3tdbk6zvml5wya7hvaa17wssfj6wm4_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_62881f2cb671.png)
 
 Data Source:[Intermodal](https://www.intermodal.gr/)
 

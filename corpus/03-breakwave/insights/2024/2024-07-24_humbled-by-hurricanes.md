@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-07-24_humbled-by-hurricanes
 ![VLCC Sunset](assets/2024-07-24_humbled-by-hurricanes_img_vlcc-sunset_7309e8085037.jpg)
 
 > **Figure 1: VLCC Sunset**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-24_humbled-by-hurricanes_img_vlcc-sunset_7309e8085037.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-07-24_humbled-by-hurricanes_img_vlcc-sunset_7309e8085037.jpg)
 
 With Hurricane Beryl recently striking the Caribbean and United States, making headlines worldwide for being the earliest category 5 Hurricane in history, many clients have been asking us what impact Hurricanes have on the tanker markets. The NOAA predicts a record number of tropical storms and hurricanes this year, expecting a quick transition to La Niña conditions following the recent El Niño. The administration forecasts between 17 and 25 named storms (up from an average of 15 since 1991), 8 to 13 hurricanes (above the average of 7 between 1991 and 2023), and 4 to 7 major hurricanes (compared to a historical average of 3). An active season points to broader risk for both the crude and clean markets, however, it is difficult to predict the overall impact.
 
@@ -36,7 +36,7 @@ Given that no two hurricanes are the same, it is difficult to predict what the i
 ![Στιγμιότυπο Οθόνης 2024 07 24 103638](assets/2024-07-24_humbled-by-hurricanes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e901781d8b8a.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 07 24 103638**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-24_humbled-by-hurricanes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e901781d8b8a.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-07-24_humbled-by-hurricanes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e901781d8b8a.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

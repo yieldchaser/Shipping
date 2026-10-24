@@ -35,7 +35,7 @@ Last year, global seaborne export volumes of dry bulk commodities grew by six pe
 ![Ch1](assets/2022-01-08_a-new-year-and-a-return-to-normality_img_ch1_d37ee1d17e79.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-08_a-new-year-and-a-return-to-normality_img_ch1_d37ee1d17e79.png)
+> [Local Asset](assets/2022-01-08_a-new-year-and-a-return-to-normality_img_ch1_d37ee1d17e79.png)
 
 The coming year is likely to drift in the general direction of normality, but with the coronavirus still in circulation, the process should be somewhat gradual. There is also the risk that yet another variant of the Covid-virus could wreak havoc on the global economy. Still, the increasing rollout of the vaccines should hopefully make any new outbreaks less severe. The resilience of global growth in the wake of the spread of the Omicron variant should also indicate that global demand for commodities will remain strong. Nevertheless, the rising headwinds for the Chinese economy could weigh on global demand for seaborne imports. However, once the Winter Olympics are over, there could be an increasing shift towards pro-cyclical stimulus with increasing demand for industrial commodities and seaborne transportation. In addition, the high likelihood of new disruptions in Chinese ports and limited deliveries of new tonnage should support freight rates.
 

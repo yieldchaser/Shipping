@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-04-03_doric-weekly-market-i
 
 > **Figure 1: Bymichalis Voutsinas**  
 > *ByMichalis Voutsinas*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/michalis-voutsinas-587544163/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-03_doric-weekly-market-insight_img_1281029_33f02b9ceb43.png)](https://www.breakwaveadvisors.com/insights/2023/4/3/did-you-know-1)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/michalis-voutsinas-587544163/) | [Local Asset](assets/2023-04-03_doric-weekly-market-insight_img_1281029_33f02b9ceb43.png)](https://www.breakwaveadvisors.com/insights/2023/4/3/did-you-know-1)
 
 ## “Looking Forward Towards the Seasonally Strongest Period of Q2 and Q3, Market Sentiment Remains Rather Mixed, Anticipating a Few Generous Spikes But Being Pensive for the Annual Average Performance.”
 
@@ -34,7 +34,7 @@ Trading activity was facing a double whammy of swelling Covid infections and the
 ![Unsplash Image S32zqwhnywk](assets/2023-04-03_doric-weekly-market-insight_img_unsplash-image-s32zqwhnywk_2f2cebc04dab.jpg)
 
 > **Figure 2: Unsplash Image S32zqwhnywk**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-03_doric-weekly-market-insight_img_unsplash-image-s32zqwhnywk_2f2cebc04dab.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-04-03_doric-weekly-market-insight_img_unsplash-image-s32zqwhnywk_2f2cebc04dab.jpg)
 
 Even with the country reopening and the government easing its leverage limits to boost growth, the locomotive of global economy had yet to gather the necessary momentum to steam steadfast. During the same period, the IMF was stressing that global economic uncertainty remained elevated, weighing on growth. In particular, global growth was projected to fall from an estimated 3.4 percent in 2022 to 2.9 percent in 2023, then rise to 3.1 percent in 2024, according to the Fund. The forecast for 2023 was 0.2 percentage point higher than predicted in October 2022 but below the historical (2000-19) average of 3.8 percent.
 
@@ -45,7 +45,7 @@ Speaking at a conference in Beijing, IMF managing director Kristalina Georgieva 
 ![Unsplash Image Rnndkkytnbm](assets/2023-04-03_doric-weekly-market-insight_img_unsplash-image-rnndkkytnbm_8723175e338b.jpg)
 
 > **Figure 3: Unsplash Image Rnndkkytnbm**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-03_doric-weekly-market-insight_img_unsplash-image-rnndkkytnbm_8723175e338b.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-04-03_doric-weekly-market-insight_img_unsplash-image-rnndkkytnbm_8723175e338b.jpg)
 
 In this juncture, the most China-centric among segments, Capesizes, had a rather lacklustre average of $9,144 daily for the first quarter of 2023, or down 15.8 percent from the average of the first quarters of the last five years. Additionally, the aforementioned average lay well below last year’s Q1 performance let alone the stronger second half of 2022. As far as the Panamax segment goes, the BPI 82 TCA experienced a dull first quarter average of $11,326 daily, or 17.4 percent below that of the five years.
 
@@ -58,6 +58,6 @@ As market is leaving a rather lukewarm first quarter behind, the dynamics of the
 ![1 (8)](assets/2023-04-03_doric-weekly-market-insight_img_128829_6827ea273bdc.png)
 
 > **Figure 4: 1 (8)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-03_doric-weekly-market-insight_img_128829_6827ea273bdc.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-04-03_doric-weekly-market-insight_img_128829_6827ea273bdc.png)
 
 Data source:[Doric](https://www.doric.gr/)

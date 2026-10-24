@@ -28,7 +28,7 @@ tags:
 ![Bauxite, Manganese Ore, and Forestry: More Protectionism to Come‍](../../images/68dd29c525c7f157ee110840_Minor Bulk newsroom image.png)
 
 > **Figure 1: Bauxite, Manganese Ore, and Forestry: More Protectionism to Come‍**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68dd29c525c7f157ee110840_Minor Bulk newsroom image.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](../../images/68dd29c525c7f157ee110840_Minor Bulk newsroom image.png)
 
 Minor bulk, made up of all dry cargo types that are not categorised as iron ore, coal, or grains, has consistently outperformed the previous year in terms of total tonnage exported. In August, this trend continued as the total tonnage of minor bulk exports increased by 7% compared to the same period last year. Through 2025 H2, there have been several protectionist policies announced that will impact vessel demand going forward. Signal Ocean will continue to monitor and report as the outcomes become more visible.
 
@@ -37,7 +37,7 @@ Minor bulk, made up of all dry cargo types that are not categorised as iron ore,
 
 > **Figure 2: Source: Total Minor Bulk Export Performance From Signal Ocean.minor Bulk Is Made Up of Dry Bulk That Is Not Categorised as Iron Ore, Coal, or Grains**  
 > *Source: Total minor bulk* export performance from Signal Ocean.*Minor bulk is made up of dry bulk that is not categorised as iron ore, coal, or grains. It includes the likes of bauxite, cement, steel, fertilizers, etc.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68dd281914a3579448be26eb_b1919e9a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](../../images/68dd281914a3579448be26eb_b1919e9a.png)
 
 
 ## Economic Environment
@@ -50,7 +50,7 @@ Minor bulk, made up of all dry cargo types that are not categorised as iron ore,
 
 > **Figure 3: Source: National Bureau of Statistics of China, Institute for Supply Management, Hcob, Hbsc India Manufacturing Pmi**  
 > *Source: National Bureau of Statistics of China, Institute for Supply Management, HCOB, HBSC India Manufacturing PMI*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68dd29e50b69f9b3e28cb899_378d79ca.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](../../images/68dd29e50b69f9b3e28cb899_378d79ca.png)
 
 
 ## Exchange Rates
@@ -62,7 +62,7 @@ Minor bulk, made up of all dry cargo types that are not categorised as iron ore,
 ![Usd Vs:](../../images/68dd29e50b69f9b3e28cb89c_92e245a1.png)
 
 > **Figure 4: Usd Vs:**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68dd29e50b69f9b3e28cb89c_92e245a1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](../../images/68dd29e50b69f9b3e28cb89c_92e245a1.png)
 
 
 ## Rmb Vs:
@@ -72,7 +72,7 @@ Minor bulk, made up of all dry cargo types that are not categorised as iron ore,
 
 > **Figure 5: Source: Imf**  
 > *Source: IMF*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68dd29e50b69f9b3e28cb89f_9875de5c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](../../images/68dd29e50b69f9b3e28cb89f_9875de5c.png)
 
 
 ## Baltic Indexes
@@ -82,7 +82,7 @@ Minor bulk, made up of all dry cargo types that are not categorised as iron ore,
 
 > **Figure 6: Source: The Baltic Exchange**  
 > *Source: The Baltic Exchange*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68dd29e50b69f9b3e28cb8a2_a91cf07d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](../../images/68dd29e50b69f9b3e28cb8a2_a91cf07d.png)
 
 
 ## Minor Bulk
@@ -103,21 +103,21 @@ Still, the deposit accounts for around 5% of the total 7.4bt worth of bauxite re
 
 > **Figure 7: Source: Global Monthly Bauxite Exports From Signal Ocean**  
 > *Source: Global monthly bauxite exports from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68dd29e50b69f9b3e28cb8a5_9ba78acf.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](../../images/68dd29e50b69f9b3e28cb8a5_9ba78acf.png)
 
 
 ![Source: National Bureau of Statistics of China, Value for January Is the Average of the Total Cumulative Output Listed in February](../../images/68dd29e50b69f9b3e28cb8a8_796b6f2b.png)
 
 > **Figure 8: Source: National Bureau of Statistics of China, Value for January Is the Average of the Total Cumulative Output Listed in February**  
 > *Source: National Bureau of Statistics of China, *value for January is the average of the total cumulative output listed in February*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68dd29e50b69f9b3e28cb8a8_796b6f2b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](../../images/68dd29e50b69f9b3e28cb8a8_796b6f2b.png)
 
 
 ![Source: Guinea Bauxite Reserves From Usgs 2025 Mineral Commodity Summaries](../../images/68dd29e50b69f9b3e28cb8ab_29f1f6d6.png)
 
 > **Figure 9: Source: Guinea Bauxite Reserves From Usgs 2025 Mineral Commodity Summaries**  
 > *Source: Guinea bauxite reserves from USGS 2025 Mineral Commodity Summaries*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68dd29e50b69f9b3e28cb8ab_29f1f6d6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](../../images/68dd29e50b69f9b3e28cb8ab_29f1f6d6.png)
 
 
 ## Manganese Ore
@@ -135,21 +135,21 @@ However, given the time frame, the policy will not come into effect until 2029, 
 
 > **Figure 10: Source: Total Manganese Ore Export Volumes From Signal Ocean**  
 > *Source: Total manganese ore export volumes from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68dd29e50b69f9b3e28cb8ae_3c484c82.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](../../images/68dd29e50b69f9b3e28cb8ae_3c484c82.png)
 
 
 ![Source: Origin of Supramax Demand From West Africa From the Signal Ocean Platform](../../images/68dd29e50b69f9b3e28cb8b6_35400254.png)
 
 > **Figure 11: Source: Origin of Supramax Demand From West Africa From the Signal Ocean Platform**  
 > *Source: Origin of supramax demand from West Africa from The Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68dd29e50b69f9b3e28cb8b6_35400254.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](../../images/68dd29e50b69f9b3e28cb8b6_35400254.png)
 
 
 ![Source: World Steel Association](../../images/68dd29e50b69f9b3e28cb8b9_40595067.png)
 
 > **Figure 12: Source: World Steel Association**  
 > *Source: World Steel Association*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68dd29e50b69f9b3e28cb8b9_40595067.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](../../images/68dd29e50b69f9b3e28cb8b9_40595067.png)
 
 
 ## Forestry
@@ -167,21 +167,21 @@ Approximately 50% of lumber exports to the U.S. originate from Germany, with 64%
 
 > **Figure 13: Source: Forestry Exports From Signal Ocean**  
 > *Source: Forestry exports from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68dd29e50b69f9b3e28cb8c0_c93d304d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](../../images/68dd29e50b69f9b3e28cb8c0_c93d304d.png)
 
 
 ![Source: Lumber Export Destinations From Signal Ocean](../../images/68dd29e50b69f9b3e28cb8c3_93472f62.png)
 
 > **Figure 14: Source: Lumber Export Destinations From Signal Ocean**  
 > *Source: Lumber export destinations from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68dd29e50b69f9b3e28cb8c3_93472f62.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](../../images/68dd29e50b69f9b3e28cb8c3_93472f62.png)
 
 
 ![Lumber Exports Vessel Classes From Signal Ocean](../../images/68dd29e50b69f9b3e28cb8c6_36f4495d.png)
 
 > **Figure 15: Lumber Exports Vessel Classes From Signal Ocean**  
 > *Lumber exports vessel classes from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68dd29e50b69f9b3e28cb8c6_36f4495d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](../../images/68dd29e50b69f9b3e28cb8c6_36f4495d.png)
 
 
 ## Recent Insights & Weekly Reports

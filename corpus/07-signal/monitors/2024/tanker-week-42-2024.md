@@ -32,7 +32,7 @@ tags:
 ![6711329a0b6d9787bb1f24bc 6711326416170c27333b4d8d Tanker](../../images/6711329a0b6d9787bb1f24bc_6711326416170c27333b4d8d_TANKER.avif)
 
 > **Figure 1: 6711329a0b6d9787bb1f24bc 6711326416170c27333b4d8d Tanker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-42-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6711329a0b6d9787bb1f24bc_6711326416170c27333b4d8d_TANKER.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-42-2024) | [Local Asset](../../images/6711329a0b6d9787bb1f24bc_6711326416170c27333b4d8d_TANKER.avif)
 
 China's crude oil imports from Arabian Gulf countries continue to flow smoothly despite ongoing tensions in the Middle East, with Saudi Arabia maintaining a dominant role in export activities. Following a downward trend recorded in September, October presents strong signals for a significant increase in the monthly quantity of tonnes (barrels) imported from these regions. Last month concluded with a 13% decrease in exports compared to August, yet indications for October suggest a remarkable 22% increase from September's figures, along with an 11% rise compared to October of the previous year.
 

@@ -25,7 +25,7 @@ Commercial tanker transits near zero, floating storage rising, war-risk premiums
 ![Market Chart 1](assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed_4f9ef0724327.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/nker-dynamic-waypoints-tankers/2rxckh/584073833/h/S6ZxPXESRmZLUBLVXDH9FXuvOZkLCmOKBA2uV0Ur_58) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed_4f9ef0724327.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/nker-dynamic-waypoints-tankers/2rxckh/584073833/h/S6ZxPXESRmZLUBLVXDH9FXuvOZkLCmOKBA2uV0Ur_58) | [Local Asset](assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed_4f9ef0724327.png)
 
 ### Strait of Hormuz Disruption
 
@@ -70,7 +70,7 @@ Policy discussions have already begun around naval escort missions and temporary
 ![Market Chart 2](assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed28129_f38dba846a57.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/nker-dynamic-waypoints-tankers/2rxckh/584073833/h/S6ZxPXESRmZLUBLVXDH9FXuvOZkLCmOKBA2uV0Ur_58) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed28129_f38dba846a57.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/nker-dynamic-waypoints-tankers/2rxckh/584073833/h/S6ZxPXESRmZLUBLVXDH9FXuvOZkLCmOKBA2uV0Ur_58) | [Local Asset](assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed28129_f38dba846a57.png)
 
 ### Scenario 4: Market Shock and Temporary Pricing Power
 
@@ -95,7 +95,7 @@ As the largest buyer of Gulf crude, China has a strong interest in preventing pr
 ![Market Chart 3](assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed28229_51578c911c33.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/nker-dynamic-waypoints-tankers/2rxckh/584073833/h/S6ZxPXESRmZLUBLVXDH9FXuvOZkLCmOKBA2uV0Ur_58) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed28229_51578c911c33.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/nker-dynamic-waypoints-tankers/2rxckh/584073833/h/S6ZxPXESRmZLUBLVXDH9FXuvOZkLCmOKBA2uV0Ur_58) | [Local Asset](assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed28229_51578c911c33.png)
 
 ### Scenario 7: Expansion of the Maritime Crisis
 

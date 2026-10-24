@@ -29,7 +29,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-12-24_vlcc-rates-languish-d
 ![Market Chart 1](assets/2024-12-24_vlcc-rates-languish-despite-chinese-import-growth-and-a-recent-swing-to-complian_img_image0_d4d3d8bedec8.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-24_vlcc-rates-languish-despite-chinese-import-growth-and-a-recent-swing-to-complian_img_image0_d4d3d8bedec8.png)
+> [Local Asset](assets/2024-12-24_vlcc-rates-languish-despite-chinese-import-growth-and-a-recent-swing-to-complian_img_image0_d4d3d8bedec8.png)
 
 - The 120k b/d Zawia refinery, Libya’s largest functioning refinery, remained shut down after fighting near the facility on Sunday caused a fire which severely damaged storage tanks. The nearby oil export terminal is unaffected. The shutting of the refinery and the damage to its tanks could redirect some crude oil for export.
 
@@ -44,7 +44,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-12-24_vlcc-rates-languish-d
 ![Market Chart 2](assets/2024-12-24_vlcc-rates-languish-despite-chinese-import-growth-and-a-recent-swing-to-complian_img_image0_3e8b7e90b1c4.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-24_vlcc-rates-languish-despite-chinese-import-growth-and-a-recent-swing-to-complian_img_image0_3e8b7e90b1c4.jpg)
+> [Local Asset](assets/2024-12-24_vlcc-rates-languish-despite-chinese-import-growth-and-a-recent-swing-to-complian_img_image0_3e8b7e90b1c4.jpg)
 
 - A narrower price premium of unsanctioned crude relative to Iranian barrels, recovering refining margins, and additional import quotas pushed Chinese crude imports to year-highs in November. At the same time, cost increases relative to compliant grades reduced the appeal of sanctioned grades, meaning more arrived in China on compliant tankers in November and December.
 
@@ -59,7 +59,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-12-24_vlcc-rates-languish-d
 ![Market Chart 3](assets/2024-12-24_vlcc-rates-languish-despite-chinese-import-growth-and-a-recent-swing-to-complian_img_image1_9707fa8649e1.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-24_vlcc-rates-languish-despite-chinese-import-growth-and-a-recent-swing-to-complian_img_image1_9707fa8649e1.png)
+> [Local Asset](assets/2024-12-24_vlcc-rates-languish-despite-chinese-import-growth-and-a-recent-swing-to-complian_img_image1_9707fa8649e1.png)
 
 - This is likely to continue next year as Chinese refiners, battered by thin margins and a faltering economy, continue to be increasingly price-sensitive. China’s economy is showing some signs of improvement. Factory activity expanded at the fastest pace in five months in November. If Beijing keeps injecting stimulus, the recovery is likely to continue. Rapid adoption of electric vehicles is cutting gasoline consumption and diesel demand is also weaker, having been hit by the switch to trucks powered by LNG. Much of November and December’s surge appears to have gone into storage with crude processing rates subdued in November. Tighter supply lifts the cost of the barrels, making them less attractive relative to other grades for price-sensitive Chinese buyers. Iranian Light was trading at a $2/bl discount to Brent, the highest discount over two years, partly due to higher risk premiums on sanctioned tankers.
 

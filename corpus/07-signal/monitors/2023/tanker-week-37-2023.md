@@ -33,7 +33,7 @@ tags:
 
 > **Figure 1: Data Source: Https://app.signalocean.com/tanker/dynamic/market-Prices-Tankers Https://app.signalocean.com/tanker/dynamic/timeseriestankerdownloadable**  
 > *Data Source: https://app.signalocean.com/tanker/dynamic/market-prices-tankers https://app.signalocean.com/tanker/dynamic/timeseries_tanker_downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-37-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/65030be2c52a77a8cc2e46de_tanker chart.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-37-2023) | [Local Asset](../../images/65030be2c52a77a8cc2e46de_tanker chart.png)
 
 The second week of September maintains its grip on the crude oil freight market's sentiments, as VLCC rates have yet to display the anticipated rebound. The struggle persists in the VLCC MEG-China rates, leaving industry observers closely monitoring the demand dynamics of the Chinese economy as we approach the end of September.
 

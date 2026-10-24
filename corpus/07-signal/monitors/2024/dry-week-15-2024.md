@@ -31,7 +31,7 @@ tags:
 ![6617c0d22cf3e3d9c8de8481 Chart of the Week Dry](../../images/6617c0d22cf3e3d9c8de8481_chart of the week dry.png)
 
 > **Figure 1: 6617c0d22cf3e3d9c8de8481 Chart of the Week Dry**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-15-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6617c0d22cf3e3d9c8de8481_chart of the week dry.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-15-2024) | [Local Asset](../../images/6617c0d22cf3e3d9c8de8481_chart of the week dry.png)
 
 In the second week of April, we observed a decline in the Capesize Brazil to North China rates. The outlook for Chinese iron ore demand remains uncertain, as expectations are tied to potential new stimulus plans. Iron ore prices showed some positivity on Thursday, with the most-traded September iron ore contract on China’s Dalian Commodity Exchange (DCE) closing 1.29% higher at 826 yuan ($114.14) per metric ton. However, doubts persist regarding solid Chinese demand, as a Reuters poll suggests that the country's economy is expected to grow by 4.6% in the first quarter compared to the previous year, marking the slowest growth in a year despite some signs of stabilisation.
 

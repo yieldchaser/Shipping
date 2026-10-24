@@ -27,7 +27,7 @@ July 02, 2024
 ![Στιγμιότυπο Οθόνης 2024 07 03 103239](assets/2024-07-03_a-positive-note-for-the-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0e53dba4576b.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 03 103239**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/arket-monitor-dry-week-26-2024/2qbw4l/420830975/h/s_Tqppxu6WuXBlb3qMCVOzuEWgcvI4Hwp5DWJOQ6ABM) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-03_a-positive-note-for-the-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0e53dba4576b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/arket-monitor-dry-week-26-2024/2qbw4l/420830975/h/s_Tqppxu6WuXBlb3qMCVOzuEWgcvI4Hwp5DWJOQ6ABM) | [Local Asset](assets/2024-07-03_a-positive-note-for-the-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0e53dba4576b.png)
 
 The first week of July began on a positive note for the Capesize dry freight market, with rates for Brazil to North China reaching one of the highest points for the year, surpassing the previous peak recorded in week 10. This rise is particularly noteworthy as it coincides with a decreasing trend in the number of Capesize ballasters in Southeast Africa, which fell below the annual average at the end of June.
 
@@ -46,7 +46,7 @@ In June, the Caixin/S&P Global manufacturing purchasing managers’ index (PMI) 
 ![Στιγμιότυπο Οθόνης 2024 07 03 103417](assets/2024-07-03_a-positive-note-for-the-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_739a21dd535a.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 07 03 103417**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-03_a-positive-note-for-the-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_739a21dd535a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-07-03_a-positive-note-for-the-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_739a21dd535a.png)
 
 In the first week of July, the dry bulk freight market experienced gains, driven by a significant boost in Capesize rates for the Brazil to North China route. Meanwhile, the sentiment in the smaller vessel size categories remained relatively steady.
 
@@ -58,7 +58,7 @@ In the first week of July, the dry bulk freight market experienced gains, driven
 ![Στιγμιότυπο Οθόνης 2024 07 03 103946](assets/2024-07-03_a-positive-note-for-the-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6bc4c3dd7b16.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 07 03 103946**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-03_a-positive-note-for-the-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6bc4c3dd7b16.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-07-03_a-positive-note-for-the-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6bc4c3dd7b16.png)
 
 In early July, there has been a notable decrease in the number of ballast ships in the Cape SE Africa segment, while signs of an increase have been observed in the Panamax segment. In contrast, for the smaller vessel size segments, this week's indications show a decrease in Supramax SE Asia and Handy NOPAC.
 
@@ -70,7 +70,7 @@ In early July, there has been a notable decrease in the number of ballast ships 
 ![Στιγμιότυπο Οθόνης 2024 07 03 104125](assets/2024-07-03_a-positive-note-for-the-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bd4ea99bfd78.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 07 03 104125**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-03_a-positive-note-for-the-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bd4ea99bfd78.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-07-03_a-positive-note-for-the-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bd4ea99bfd78.png)
 
 In the first week of July, the outlook for dry tonne days has shown significant improvement across all vessel size categories. Particularly notable is the increase in the Capesize segment, which stands out compared to the lows recorded six weeks ago.
 
@@ -82,7 +82,7 @@ In the first week of July, the outlook for dry tonne days has shown significant 
 ![Στιγμιότυπο Οθόνης 2024 07 03 104239](assets/2024-07-03_a-positive-note-for-the-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b8be65c8c35d.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 07 03 104239**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-03_a-positive-note-for-the-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b8be65c8c35d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-07-03_a-positive-note-for-the-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b8be65c8c35d.png)
 
 In the first week of July, Chinese dry bulk port congestion levels showed signs of decreasing, with a more pronounced decline observed in the smaller vessel size segments compared to the larger categories.
 

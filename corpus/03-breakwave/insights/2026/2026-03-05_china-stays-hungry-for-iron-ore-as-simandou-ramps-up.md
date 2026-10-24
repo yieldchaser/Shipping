@@ -25,7 +25,7 @@ China continues to fill its iron ore stocks as Simandou export starts to climb, 
 ![Market Chart 1](assets/2026-03-05_china-stays-hungry-for-iron-ore-as-simandou-ramps-up_img_unnamed28229_9df11c27ca63.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/al-ocean-signal-ocean-platform/2rwv45/582912754/h/4s2PFpf7gHCWo26iS_SoJ3KD4JiEgjqRxmBozBrIZpc) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-05_china-stays-hungry-for-iron-ore-as-simandou-ramps-up_img_unnamed28229_9df11c27ca63.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/al-ocean-signal-ocean-platform/2rwv45/582912754/h/4s2PFpf7gHCWo26iS_SoJ3KD4JiEgjqRxmBozBrIZpc) | [Local Asset](assets/2026-03-05_china-stays-hungry-for-iron-ore-as-simandou-ramps-up_img_unnamed28229_9df11c27ca63.png)
 
 ### Key Takeaways
 
@@ -44,7 +44,7 @@ Flows from Australia surged in January 13% y/y, while flows from Brazil remained
 ![Signal Ocean Platform](assets/2026-03-05_china-stays-hungry-for-iron-ore-as-simandou-ramps-up_img_unnamed_2ef2d6509d9a.png)
 
 > **Figure 2: Signal Ocean Platform**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-05_china-stays-hungry-for-iron-ore-as-simandou-ramps-up_img_unnamed_2ef2d6509d9a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-03-05_china-stays-hungry-for-iron-ore-as-simandou-ramps-up_img_unnamed_2ef2d6509d9a.png)
 
 Despite this, China is not expected to consume more iron ore in 2026. Domestic iron ore production fell by over 4% in 2025, so some increases in iron ore imports should be expected. However, given the 2% increase in 2024 and the 4% increase in 2025, lower crude steel production will continue to reduce the incentive to import higher volumes of iron ore.
 
@@ -53,7 +53,7 @@ There are some pockets of growth in iron ore demand forecast, but these remain s
 ![Market Chart 3](assets/2026-03-05_china-stays-hungry-for-iron-ore-as-simandou-ramps-up_img_unnamed28129_c28aafed1426.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-05_china-stays-hungry-for-iron-ore-as-simandou-ramps-up_img_unnamed28129_c28aafed1426.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-03-05_china-stays-hungry-for-iron-ore-as-simandou-ramps-up_img_unnamed28129_c28aafed1426.png)
 
 ## Guinea and Brazil Will Shape the Atlantic Iron Ore Market
 

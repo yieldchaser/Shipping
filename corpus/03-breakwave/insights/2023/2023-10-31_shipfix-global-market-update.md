@@ -62,6 +62,6 @@ In terms of lower demand and cargo destinations, the drop in order volumes was, 
 ![Market Chart 1](assets/2023-10-31_shipfix-global-market-update_img_unnamed-2023-10-31t105017477_1a8c4f968a43.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-31_shipfix-global-market-update_img_unnamed-2023-10-31t105017477_1a8c4f968a43.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2023-10-31_shipfix-global-market-update_img_unnamed-2023-10-31t105017477_1a8c4f968a43.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

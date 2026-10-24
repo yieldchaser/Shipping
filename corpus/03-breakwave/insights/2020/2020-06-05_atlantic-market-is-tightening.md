@@ -29,7 +29,7 @@ At the same time, iron ore inventories in China continue to decline, now below 1
 ![Inventories](assets/2020-06-05_atlantic-market-is-tightening_img_inventories_305591519f6e.jpg)
 
 > **Figure 1: Inventories**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-05_atlantic-market-is-tightening_img_inventories_305591519f6e.jpg)
+> [Local Asset](assets/2020-06-05_atlantic-market-is-tightening_img_inventories_305591519f6e.jpg)
 
 Next week will be interesting on how the spot versus paper markets interact, as premiums remain high, but optimism is in the air for further spot gains.
 

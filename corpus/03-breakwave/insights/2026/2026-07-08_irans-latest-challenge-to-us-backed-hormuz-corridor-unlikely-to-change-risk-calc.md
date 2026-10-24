@@ -36,7 +36,7 @@ Mideast Gulf to China VLCC was assessed at $317k/day today, up $20k/day on yeste
 
 > **Figure 1: Source: Baltic Exchange**  
 > *Source: Baltic Exchange*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-08_irans-latest-challenge-to-us-backed-hormuz-corridor-unlikely-to-change-risk-calc_img_c6f4-image-0-1783447774287_b5ec58aabf8f.png)
+> [Local Asset](assets/2026-07-08_irans-latest-challenge-to-us-backed-hormuz-corridor-unlikely-to-change-risk-calc_img_c6f4-image-0-1783447774287_b5ec58aabf8f.png)
 
 ### State of Play Before the Recent Attacks
 
@@ -59,7 +59,7 @@ Ships operating in the Mideast Gulf could soon be joined by others. According to
 ![E253 Image 1 1783447774289](assets/2026-07-08_irans-latest-challenge-to-us-backed-hormuz-corridor-unlikely-to-change-risk-calc_img_e253-image-1-1783447774289_6544d50d0a79.png)
 
 > **Figure 2: E253 Image 1 1783447774289**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-08_irans-latest-challenge-to-us-backed-hormuz-corridor-unlikely-to-change-risk-calc_img_e253-image-1-1783447774289_6544d50d0a79.png)
+> [Local Asset](assets/2026-07-08_irans-latest-challenge-to-us-backed-hormuz-corridor-unlikely-to-change-risk-calc_img_e253-image-1-1783447774289_6544d50d0a79.png)
 
 *Source: Vortexa*
 

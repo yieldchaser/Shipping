@@ -35,7 +35,7 @@ July 31, 2024
 ![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e659868944bb.png)
 
 > **Figure 1: Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/-expected-signal-boost-economy/2qfk2x/427700469/h/WEAOH5Ygaq3B9vUBQLV0s-fJ9q17ZYH6kuHL6g2hJbY) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e659868944bb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/-expected-signal-boost-economy/2qfk2x/427700469/h/WEAOH5Ygaq3B9vUBQLV0s-fJ9q17ZYH6kuHL6g2hJbY) | [Local Asset](assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e659868944bb.png)
 
 In the[iron ore market](https://go.signalocean.com/e/983831/-expected-signal-boost-economy/2qfk2x/427700469/h/WEAOH5Ygaq3B9vUBQLV0s-fJ9q17ZYH6kuHL6g2hJbY), The Politburo, China’s top decision-making body led by President Xi Jinping, announced on Tuesday that the country will enhance its policy support to bolster the economy. The focus will be on increasing consumption to drive domestic demand. The Politburo acknowledged the growing negative impacts from external changes, weak domestic demand, and the challenging shift from old growth drivers to new ones. Iron ore futures fell further on Tuesday, pressured by the results of China’s key Politburo meeting and a strong global supply outlook.
 
@@ -44,7 +44,7 @@ The September iron ore contract on China’s Dalian Commodity Exchange (DCE) end
 ![Στιγμιότυπο Οθόνης 2024 08 02 102956](assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_975163fc4417.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 08 02 102956**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_975163fc4417.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_975163fc4417.png)
 
 The dry bulk freight market has sustained a decline in rates for the Cape Brazil to North China routes, whereas the Panamax Continental Far East rates continue to trend upward.
 
@@ -56,7 +56,7 @@ The dry bulk freight market has sustained a decline in rates for the Cape Brazil
 ![Στιγμιότυπο Οθόνης 2024 08 02 103132](assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1e5ac4d698f2.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 08 02 103132**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1e5ac4d698f2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1e5ac4d698f2.png)
 
 In the last week of July, the Cape SE Africa market continued to experience an accelerated pace of ballasters. Meanwhile, the Panamax SE Africa market remained near its annual average. In contrast, the Supramax SE Asia and Handy NOPAC markets recorded decreases.
 
@@ -68,7 +68,7 @@ In the last week of July, the Cape SE Africa market continued to experience an a
 ![Στιγμιότυπο Οθόνης 2024 08 02 103313](assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb1daadf6c79.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 08 02 103313**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb1daadf6c79.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb1daadf6c79.png)
 
 In the last week of July, the outlook for dry tonne days showed an upward trend, especially for larger vessel segments.
 
@@ -80,7 +80,7 @@ In the last week of July, the outlook for dry tonne days showed an upward trend,
 ![Στιγμιότυπο Οθόνης 2024 08 02 103600](assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c087fcc5f75f.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 08 02 103600**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c087fcc5f75f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-08-02_upward-trend-in-the-number-of-ballasters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c087fcc5f75f.png)
 
 In the last week of July, Chinese dry bulk port congestion continued its upward trend from the previous week, reaching the highest level for the current year.
 

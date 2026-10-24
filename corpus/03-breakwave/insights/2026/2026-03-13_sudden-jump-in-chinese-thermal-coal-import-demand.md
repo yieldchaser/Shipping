@@ -27,7 +27,7 @@ Overall dry bulk rates rose last week, with only capesize rates coming under pre
 ![Στιγμιότυπο Οθόνης 2026 03 13 111349](assets/2026-03-13_sudden-jump-in-chinese-thermal-coal-import-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_76d5b01ab969.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 03 13 111349**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-13_sudden-jump-in-chinese-thermal-coal-import-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_76d5b01ab969.png)
+> [Local Asset](assets/2026-03-13_sudden-jump-in-chinese-thermal-coal-import-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_76d5b01ab969.png)
 
 ---
 

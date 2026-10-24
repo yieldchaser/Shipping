@@ -33,7 +33,7 @@ tags:
 
 > **Figure 1: All Data and Commentary Reflect Market Conditions as of [Tuesday, 31 March 2026], Unless Otherwise Stated**  
 > *All data and commentary reflect market conditions as of [Tuesday, 31 March 2026], unless otherwise stated. (Oil Flows Trend Analysis)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-14-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69cd22c454534930f86506be_807775d2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-14-2026) | [Local Asset](../../images/69cd22c454534930f86506be_807775d2.png)
 
 
 ## A Month on: Our Hormuz Call Validated
@@ -88,7 +88,7 @@ The knock-on effects for importing nations are equally severe. India, one of the
 ![Knock-On Effects: India's Energy Crisis Deepens](../../images/69cd22c454534930f86506c7_9964c0ae.png)
 
 > **Figure 2: Knock-On Effects: India's Energy Crisis Deepens**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-14-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69cd22c454534930f86506c7_9964c0ae.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-14-2026) | [Local Asset](../../images/69cd22c454534930f86506c7_9964c0ae.png)
 
 
 ## Signal Intelligence: Hormuz Storage Capacity Exhausted
@@ -102,7 +102,7 @@ What this shift means in practical terms is a fundamental change in the risk. Th
 
 > **Figure 3: Source: Signal Ocean Data Warehouse**  
 > *Source: Signal Ocean Data Warehouse*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-14-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69cd22c454534930f86506c1_308a0b5c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-14-2026) | [Local Asset](../../images/69cd22c454534930f86506c1_308a0b5c.png)
 
 
 ## Freight Market Overview - Dirty
@@ -114,7 +114,7 @@ The **Baltic Dirty Tanker Index** (BDTI) reached a new historical high of  3,72
 
 > **Figure 4: (Market Prices Available Dirty)**  
 > *(Market Prices available Dirty)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-14-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69cd22c454534930f86506c4_a61ed478.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-14-2026) | [Local Asset](../../images/69cd22c454534930f86506c4_a61ed478.png)
 
 
 ## Dirtytce$/day
@@ -131,7 +131,7 @@ The dirty tanker market into end-March is characterised by Suezmax strength, a f
 
 > **Figure 5: Source: Signal Ocean / Baltic Exchange**  
 > *Source: Signal Ocean / Baltic Exchange. Indicative late-March assessments, subject to revision.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-14-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69cd22c454534930f86506ca_c2dd923d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-14-2026) | [Local Asset](../../images/69cd22c454534930f86506ca_c2dd923d.png)
 
 
 - **VLCC**: The Middle East Gulf (AG) routes remain the strongest performers in the tanker market. Specifically, the TD3C-TCE (Middle East Gulf to China) and TD2-TCE (Middle East Gulf to Singapore) are still holding well above their 52-week average of $100k/d, despite having dropped significantly from the exceptional highs of $600k/d seen earlier in March.
@@ -149,7 +149,7 @@ In contrast, the Atlantic market is showing signs of softness. The TD15-TCE (Wes
 
 > **Figure 6: (Spot Comparison Available Here)**  
 > *(Spot Comparison available here)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-14-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69cd22c454534930f86506d0_3f13b591.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-14-2026) | [Local Asset](../../images/69cd22c454534930f86506d0_3f13b591.png)
 
 
 ## Supply Market Trends
@@ -165,7 +165,7 @@ This week, the VLCC West African market takes centre stage, where a pronounced b
 ![Supply Market Trends](../../images/69cd22c454534930f86506cd_3f939e03.png)
 
 > **Figure 7: Supply Market Trends**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-14-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69cd22c454534930f86506cd_3f939e03.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-14-2026) | [Local Asset](../../images/69cd22c454534930f86506cd_3f939e03.png)
 
 
 - The **Net Supply Spot/Relet** currently stands at 20 vessels (down 9% WoW), while Gross Supply sits at 48 (70% of total), with a Net/Gross ratio of 42%.
@@ -174,7 +174,7 @@ This week, the VLCC West African market takes centre stage, where a pronounced b
 ![Supply Market Trends](../../images/69cd22c454534930f86506d3_a7632cd4.png)
 
 > **Figure 8: Supply Market Trends**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-14-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69cd22c454534930f86506d3_a7632cd4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-14-2026) | [Local Asset](../../images/69cd22c454534930f86506d3_a7632cd4.png)
 
 **Aframax| USG**
 
@@ -185,7 +185,7 @@ This week, the VLCC West African market takes centre stage, where a pronounced b
 ![Supply Market Trends](../../images/69cd22c454534930f86506d6_86a90fc0.png)
 
 > **Figure 9: Supply Market Trends**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-14-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69cd22c454534930f86506d6_86a90fc0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-14-2026) | [Local Asset](../../images/69cd22c454534930f86506d6_86a90fc0.png)
 
 
 - Adding further weight to the tightness narrative, the USG Net Supply Spot/Relet has collapsed to just 2 vessels, a drop of 67% week-on-week and what appears to be a record low over the observed period.
@@ -194,7 +194,7 @@ This week, the VLCC West African market takes centre stage, where a pronounced b
 ![Supply Market Trends](../../images/69cd22c454534930f86506dc_99f1f9dc.png)
 
 > **Figure 10: Supply Market Trends**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-14-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69cd22c454534930f86506dc_99f1f9dc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-14-2026) | [Local Asset](../../images/69cd22c454534930f86506dc_99f1f9dc.png)
 
 
 ## Dirty Demand(tonne Miles)| 7d Ma - Index View
@@ -205,7 +205,7 @@ This week, the VLCC West African market takes centre stage, where a pronounced b
 ![‍dirty Demand (Tonne Miles)| 7d Ma - Index View](../../images/69cd22c454534930f86506d9_1ae73fdb.png)
 
 > **Figure 11: ‍dirty Demand (Tonne Miles)| 7d Ma - Index View**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-14-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69cd22c454534930f86506d9_1ae73fdb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-14-2026) | [Local Asset](../../images/69cd22c454534930f86506d9_1ae73fdb.png)
 
 VLCCs extended their underperformance, declining 3.0 ppts WoW to 55.3%, remaining well below the 100% threshold and highlighting continued demand weakness. Suezmaxes softened modestly, down 2.5 ppts WoW to 101.2%, though still holding slightly above the 100% mark and maintaining relative resilience. Aframaxes moved in the opposite direction, rising 5.1 ppts WoW to 120.6%, strengthening further and clearly outperforming the rest of the complex. Overall, the market reflects a three-speed dynamic: persistent VLCC weakness, stable-to-soft Suezmax performance, and continued Aframax strength.
 

@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-28_breakwave-bi-weekly-d
 ![Dbreporttop](assets/2023-03-28_breakwave-bi-weekly-dry-bulk-report-march-28-2023_img_dbreporttop_cfc6f7db626c.png)
 
 > **Figure 1: Dbreporttop**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/publications) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-28_breakwave-bi-weekly-dry-bulk-report-march-28-2023_img_dbreporttop_cfc6f7db626c.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/publications) | [Local Asset](assets/2023-03-28_breakwave-bi-weekly-dry-bulk-report-march-28-2023_img_dbreporttop_cfc6f7db626c.png)
 
 **•Patience is a virtue: consolidation underway in a rather supportive backdrop**– With freight rates back to their historical range for this time of the year and futures remaining quite optimistic about the prospects, attention now turns to the next meaningful move for a spot market, which, especially on the Capesize sector, looks well supported. However, we presently don’t anticipate any imminent major move either way: It is still early in the year, the macro environment remains challenging, headline risk has been elevated, and commodity prices have seen wild swings because of broader economic risks. Yet, the backdrop remains quite supportive for dry bulk. Absent a major global economic crisis, something that nowadays seems just a headline away, we see continuing strength on the demand side for bulk commodities led by a Chinese economy that is in a gradual healing with lots of room to “catch up” on lost trade volumes from last year. The futures curve remains in a contango but in a flatter shape than before, leaving room for potential gains if indeed such a scenario plays out. In such an environment, patience is a virtue, and although we remain optimistic for the development of freight rates going forward, we would wait for a few more weeks before there is an all-clear signal from the various external factors affecting the global markets prior to reengaging our bullish view without necessarily expressing a bearish stance on existing positions.
 
@@ -35,9 +35,9 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-28_breakwave-bi-weekly-d
 ![Dbreportchart](assets/2023-03-28_breakwave-bi-weekly-dry-bulk-report-march-28-2023_img_dbreportchart_1ab84d02d7ff.png)
 
 > **Figure 2: Dbreportchart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-28_breakwave-bi-weekly-dry-bulk-report-march-28-2023_img_dbreportchart_1ab84d02d7ff.png)
+> [Local Asset](assets/2023-03-28_breakwave-bi-weekly-dry-bulk-report-march-28-2023_img_dbreportchart_1ab84d02d7ff.png)
 
 ![Dbreportbottom](assets/2023-03-28_breakwave-bi-weekly-dry-bulk-report-march-28-2023_img_dbreportbottom_a42f0da05514.png)
 
 > **Figure 3: Dbreportbottom**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-28_breakwave-bi-weekly-dry-bulk-report-march-28-2023_img_dbreportbottom_a42f0da05514.png)
+> [Local Asset](assets/2023-03-28_breakwave-bi-weekly-dry-bulk-report-march-28-2023_img_dbreportbottom_a42f0da05514.png)

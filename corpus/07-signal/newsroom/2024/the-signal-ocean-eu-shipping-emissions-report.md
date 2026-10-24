@@ -25,7 +25,7 @@ tags:
 ![Heading](../../images/664743aed538071654ba3781_Add_a_heading_%286%29_%281%29.avif)
 
 > **Figure 1: Heading**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-signal-ocean-eu-shipping-emissions-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/664743aed538071654ba3781_Add_a_heading_%286%29_%281%29.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-signal-ocean-eu-shipping-emissions-report) | [Local Asset](../../images/664743aed538071654ba3781_Add_a_heading_%286%29_%281%29.avif)
 
 As the maritime industry navigates towards a more sustainable future, the focus intensifies on the pivotal contributions of dry bulk and tanker vessel size segments in the European Union's efforts to combat climate change. With the EU leading the charge in implementing stringent environmental policies aimed at reducing carbon emissions, the need for comprehensive analysis and decarbonization within the shipping sector becomes ever more pressing.
 
@@ -45,7 +45,7 @@ When examining the overall EU emissions in comparison to global emissions for bo
 
 > **Figure 2: Image 1: The % of European Union (EU) Emissions Attributed to Dry and Wet Voyages in the Year 2023**  
 > *Image 1: The % of European Union (EU) emissions attributed to dry and wet voyages in the year 2023*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-signal-ocean-eu-shipping-emissions-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51be464f81ead1209a420_66210756c557f5a05d43427b_Screenshot%202024-04-18%20at%2012.43.06.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-signal-ocean-eu-shipping-emissions-report) | [Local Asset](../../images/66b51be464f81ead1209a420_66210756c557f5a05d43427b_Screenshot%202024-04-18%20at%2012.43.06.avif)
 
 In the past year, global voyages by dry bulk vessels outnumbered those by tankers by 70%, resulting in over 160 million tons of CO₂ emissions from dry bulk vessels and approximately 100 million tons from tankers (**Image** 2). However, within EU waters, tankers seem to have a more pronounced environmental impact. This is primarily attributed to Europe's substantial reliance on imported crude oil and refined products, which necessitates extensive tanker operations, consequently contributing significantly to emissions. In 2023 alone, tankers emitted nearly 4 million tons of CO₂, approximately 30% more than dry bulk vessels. This shift in emission dominance between the two vessel segments when transitioning from a global to a European perspective underscores the dense and vital role of tanker traffic in European waters. It highlights the imperative for tailored strategies for each vessel segment to effectively reduce maritime emissions in Europe, considering the distinct operational characteristics and environmental footprints of tankers and dry bulk vessels.
 
@@ -54,7 +54,7 @@ In the past year, global voyages by dry bulk vessels outnumbered those by tanker
 
 > **Figure 3: Image 2: Number of Voyages, Co₂ Emissions & EU Co₂ Emissions, Year 2023 Dry & Tanker**  
 > *Image 2: Number of Voyages, CO₂ Emissions & EU CO₂ Emissions, Year 2023 Dry & Tanker*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-signal-ocean-eu-shipping-emissions-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51be464f81ead1209a400_6621078e81b2ac4b02654a35_Screenshot%202024-04-18%20at%2012.44.03.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-signal-ocean-eu-shipping-emissions-report) | [Local Asset](../../images/66b51be464f81ead1209a400_6621078e81b2ac4b02654a35_Screenshot%202024-04-18%20at%2012.44.03.avif)
 
 
 ## Assessing the Impact of EU Shipping Emissions per Vessel Size Segment
@@ -68,7 +68,7 @@ In the dry bulk segment, handysize vessels are renowned for their agility and ve
 
 > **Figure 4: Image 3: Co₂ in Tons EU Emitted, Dry per Vessel Class Category, Year 2023**  
 > *Image 3: CO₂ in tons EU emitted, Dry per Vessel Class Category, Year 2023*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-signal-ocean-eu-shipping-emissions-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51be464f81ead1209a45d_662107e4eb14dcd9e5df9863_Screenshot%202024-04-18%20at%2012.45.26.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-signal-ocean-eu-shipping-emissions-report) | [Local Asset](../../images/66b51be464f81ead1209a45d_662107e4eb14dcd9e5df9863_Screenshot%202024-04-18%20at%2012.45.26.avif)
 
 In contrast, Aframax tankers, with their mid-size stature, emerge as pivotal in the tanker segment, primarily transporting crude oil and petroleum products. The Aframax class strikes a compelling balance, offering large enough capacity for economic viability while maintaining access to a wide range of ports. This delicate equilibrium enables Aframax tankers to operate efficiently within Europe's complex port infrastructure, underscoring their significance in the region's emissions narrative. Despite their larger size compared to Handysize vessels, Aframax tankers dominate operations within Europe, reflecting the nuanced interplay of cargo type, vessel efficiency, and route optimization in shaping the emissions footprint of different shipping sectors. Thus, one could argue that if tankers, like the Aframax, can achieve substantial reductions in CO₂ emissions through efficient operational practices, then similar strategies could be applied to dry bulk transportation. This notion opens the door to exploring the feasibility of transitioning towards larger vessel sizes, such as Supras or even Panamaxes, in the context of reducing carbon footprint.
 
@@ -77,7 +77,7 @@ In contrast, Aframax tankers, with their mid-size stature, emerge as pivotal in 
 
 > **Figure 5: Image 4: Co₂ in Tons EU Emitted, Tanker per Vessel Class Category, Year 2023**  
 > *Image 4: CO₂ in tons EU emitted, Tanker per Vessel Class Category, Year 2023*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-signal-ocean-eu-shipping-emissions-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51be464f81ead1209a426_6621081741b40100ae748185_Screenshot%202024-04-18%20at%2012.46.18.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-signal-ocean-eu-shipping-emissions-report) | [Local Asset](../../images/66b51be464f81ead1209a426_6621081741b40100ae748185_Screenshot%202024-04-18%20at%2012.46.18.avif)
 
 The above insights into Handysize and Aframax vessels shed light on the intricate dynamics involved in reducing maritime emissions within Europe. They underscore the necessity for emissions reduction strategies that consider the unique operational profiles of different vessel classes, tailored to the specific logistical and environmental characteristics of European waters. ****
 
@@ -91,7 +91,7 @@ The environmental ramifications stemming from smaller vessel sizes within the dr
 
 > **Figure 6: Image 5: % Cii per Vessel Class and Age Group, Dry, Supramax - Handysize, Year 2023**  
 > *Image 5: % CII Per Vessel Class and Age Group, Dry, Supramax - Handysize, Year 2023*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-signal-ocean-eu-shipping-emissions-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51be464f81ead1209a40c_66210872443e76dd64e59f41_cii.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-signal-ocean-eu-shipping-emissions-report) | [Local Asset](../../images/66b51be464f81ead1209a40c_66210872443e76dd64e59f41_cii.avif)
 
 In contrast, a noteworthy pattern emerges within the Aframax category (**Image** 6). Here, the highest percentage shares at level A are found among vessels aged between 5 and 10 years. This suggests that newer Aframax vessels within this age range demonstrate commendable efficiency levels, possibly due to advancements in technology and adherence to stricter environmental standards. Particularly striking are the frequencies of levels C and D within Aframax vessels aged 15 years and older, as well as in the MR1 segment. This highlights a substantial presence of vessels operating at less efficient levels, warranting attention for environmental improvement efforts.
 
@@ -100,7 +100,7 @@ In contrast, a noteworthy pattern emerges within the Aframax category (**Image**
 
 > **Figure 7: Image 6: % Cii per Vessel Class and Age Group, Dry, Aframax - Mr1, Year 2023**  
 > *Image 6: % CII Per Vessel Class and Age Group, Dry, Aframax - MR1, Year 2023*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-signal-ocean-eu-shipping-emissions-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51be464f81ead1209a408_662108c395fc13cea32186b4_cii%20wet.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-signal-ocean-eu-shipping-emissions-report) | [Local Asset](../../images/66b51be464f81ead1209a408_662108c395fc13cea32186b4_cii%20wet.avif)
 
 Overall, the above findings underscore the diverse landscape of CII ratings across different vessel ages and segments within the dry bulk and tanker industry and the need for targeted strategies to address inefficiencies in older vessels while acknowledging and encouraging the positive strides made by newer ones.
 
@@ -111,7 +111,7 @@ The data presented in the Signal Ocean Platform's vessel emissions report offers
 
 > **Figure 8: Image 7: The Signal Ocean Platform Vessel Emissions Monitoring**  
 > *Image 7: The Signal Ocean Platform Vessel Emissions Monitoring*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-signal-ocean-eu-shipping-emissions-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51be464f81ead1209a405_662108e361e09718cd218173_Untitled.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-signal-ocean-eu-shipping-emissions-report) | [Local Asset](../../images/66b51be464f81ead1209a405_662108e361e09718cd218173_Untitled.avif)
 
 
 ## Parameters on Potential Reduction of the Carbon Footprint for EU and Non EU Waters
@@ -133,7 +133,7 @@ In the image below, we observe notable examples for a recent increase of ballast
 
 > **Figure 9: Image 8: Ballast Speed Knots, Dry and Tanker Vessel Size Case Categories, Seasonal View**  
 > *Image 8: Ballast speed knots, Dry and Tanker Vessel Size Case Categories, Seasonal View*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-signal-ocean-eu-shipping-emissions-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51be464f81ead1209a41c_66210934baa8dbb4ec0dff7c_ballast.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-signal-ocean-eu-shipping-emissions-report) | [Local Asset](../../images/66b51be464f81ead1209a41c_66210934baa8dbb4ec0dff7c_ballast.avif)
 
 
 ### - Asset Prices
@@ -145,7 +145,7 @@ Asset prices and fleet renewal are critical components of the maritime industry'
 
 > **Figure 10: Image 9: Aframax Asset Prices (Secondhand - Newbuilding - Resale), 2022-2024**  
 > *Image 9: Aframax Asset Prices (Secondhand - Newbuilding - Resale), 2022-2024*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-signal-ocean-eu-shipping-emissions-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51be464f81ead1209a419_66210992ec6c7df1cadc934c_Screenshot%202024-04-18%20at%2012.52.22.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-signal-ocean-eu-shipping-emissions-report) | [Local Asset](../../images/66b51be464f81ead1209a419_66210992ec6c7df1cadc934c_Screenshot%202024-04-18%20at%2012.52.22.avif)
 
 
 ## Long Run

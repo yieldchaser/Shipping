@@ -35,7 +35,7 @@ tags:
 ![66e407b501668e626ed90b6e 66e407840cad98ee11bf5694 Untitled%20(1)](../../images/66e407b501668e626ed90b6e_66e407840cad98ee11bf5694_Untitled%20(1).avif)
 
 > **Figure 1: 66e407b501668e626ed90b6e 66e407840cad98ee11bf5694 Untitled%20(1)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-37-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66e407b501668e626ed90b6e_66e407840cad98ee11bf5694_Untitled%20(1).avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-37-2024) | [Local Asset](../../images/66e407b501668e626ed90b6e_66e407840cad98ee11bf5694_Untitled%20(1).avif)
 
 This week, the oil market saw news of an increase in crude oil production from [Saudi Arabia.](https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Set-To-Boost-Crude-Oil-Supply-to-China-in-October.html)  Saudi Arabia is anticipated to boost its crude oil supply to China in October, following a recent price cut for its oil sold in Asia. This move comes as the world's leading crude exporter seeks to strengthen its market share amid fluctuating global oil dynamics. According to trade sources cited by Reuters, the Kingdom plans to ship a total of 46 million barrels of crude to China next month, an increase from the estimated 43 million barrels expected to arrive in September.
 

@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-06-22_coronavirus-update-dr
 ![Market Chart 1](assets/2020-06-22_coronavirus-update-drybulk_img_image-asset_5074f4ab62cb.jpeg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-22_coronavirus-update-drybulk_img_image-asset_5074f4ab62cb.jpeg)
+> [Local Asset](assets/2020-06-22_coronavirus-update-drybulk_img_image-asset_5074f4ab62cb.jpeg)
 
 The dry bulk spot market continues to strengthen. Iron ore spot cargo volume was not particularly strong last week, but capesize vessel availability has tightened further and helped lead to the jump in capesize rates. Brazil’s coronavirus outbreak remains concerning, though, and represents one of the largest unknowns that could ultimately negatively affect the market. Another new daily case record was set in Brazil last week, with a record 37,278 new cases reported on Tuesday.
 

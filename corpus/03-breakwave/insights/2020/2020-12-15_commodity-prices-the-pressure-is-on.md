@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-12-15_commodity-prices-the-
 ![By Ulf Bergman](assets/2020-12-15_commodity-prices-the-pressure-is-on_img_image-asset_50ac01d18a49.jpeg)
 
 > **Figure 1: By Ulf Bergman**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-15_commodity-prices-the-pressure-is-on_img_image-asset_50ac01d18a49.jpeg)
+> [Local Asset](assets/2020-12-15_commodity-prices-the-pressure-is-on_img_image-asset_50ac01d18a49.jpeg)
 
 China is starting to see surging commodity prices as a potential threat to industrial profit margins and the continued strength of the country’s industrial expansion, which by now is well beyond what can be deemed a recovery. In many aspects, the country is at risk of being a victim of its own success, with its appetite driving commodity prices higher. Recent news that Chinese authorities are requesting iron ore producers, such as BHP, to explain the surging prices must be seen as an acknowledgement that the strength of the industrial commodity markets could dent the ongoing industrial success story. That it could derail the expansion completely appears to be rather unlikely, but nevertheless the potential impact on the industrial output is significant enough for Chinese authorities to take notice.
 
@@ -36,7 +36,7 @@ An economic recovery in the rest of the world is also likely to work against the
 ![Ulf 84](assets/2020-12-15_commodity-prices-the-pressure-is-on_img_ulf84_0a70a2991245.jpg)
 
 > **Figure 2: Ulf 84**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-15_commodity-prices-the-pressure-is-on_img_ulf84_0a70a2991245.jpg)
+> [Local Asset](assets/2020-12-15_commodity-prices-the-pressure-is-on_img_ulf84_0a70a2991245.jpg)
 
 The depreciating dollar will mitigate some of the effects of rising iron ore prices for Chinese buyers, but if it is enough is clearly open for debate. Producers are likely to be wary of the negative impact any Chinese restrictions would have on their profits, as already illustrated with the bans of many Australian imports. However, given the importance of imported iron ore to Chinese industrial production, mining companies are not entirely without leverage, and it could potentially develop into a high-stake game of chicken.
 

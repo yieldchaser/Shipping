@@ -50,7 +50,7 @@ All other sources have **NOT** been run end-to-end. They fall into two distinct 
 
 A complete page-by-page layout and complexity profile across all **9,697 market PDFs (57,423 pages)** was completed on 2026-09-26 using the local in-process LiteParse engine (`lit is-complex`), consuming **0 Parse credits**.
 
-For the exhaustive source-by-source page tier breakdown and credit estimation register, see [CORPUS_COMPLEXITY_AND_CREDIT_ESTIMATE.md](file:///c:/Users/Dell/Github/Shipping/docs/CORPUS_COMPLEXITY_AND_CREDIT_ESTIMATE.md).
+For the exhaustive source-by-source page tier breakdown and credit estimation register, see [CORPUS_COMPLEXITY_AND_CREDIT_ESTIMATE.md](CORPUS_COMPLEXITY_AND_CREDIT_ESTIMATE.md).
 
 
 ---

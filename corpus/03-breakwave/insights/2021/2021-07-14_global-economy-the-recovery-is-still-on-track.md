@@ -27,7 +27,7 @@ The world’s developed economies are showing a continued vigour as they are eme
 ![A1.pnj](assets/2021-07-14_global-economy-the-recovery-is-still-on-track_img_a1pnj_af3241a9756b.png)
 
 > **Figure 1: A1.pnj**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-14_global-economy-the-recovery-is-still-on-track_img_a1pnj_af3241a9756b.png)
+> [Local Asset](assets/2021-07-14_global-economy-the-recovery-is-still-on-track_img_a1pnj_af3241a9756b.png)
 
 While the OECD’s indicators are pointing towards a continued healthy recovery for large parts of the global economy, the headwinds in the Chinese economy have been picking up and prompted the authorities to lower the reserve requirement ratio (RRR) in the banking system by half a percentage point. The move, which surprised most analysts, will release approximately one trillion yuan, USD 155 billion, of liquidity into the interbank markets. The initiative is aimed at providing credit to small and mid-sized companies, which are struggling as a result of the weak domestic market and high commodity prices. However, the change to the RRR has also left some economists cautious of the nation’s continued economic outlook, with some downgrading their growth expectations for the second half of the year. The lowering of the reserve requirements also saw iron ore prices rising, as demand is expected to strengthen as Beijing is attempting to reinvigorate the economic growth following the recent soft data releases.
 
@@ -38,7 +38,7 @@ A return to more stimulus-driven growth in China and a continued rebound in the 
 ![A2.pnj](assets/2021-07-14_global-economy-the-recovery-is-still-on-track_img_a2pnj_6a275a8742cd.png)
 
 > **Figure 2: A2.pnj**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-14_global-economy-the-recovery-is-still-on-track_img_a2pnj_6a275a8742cd.png)
+> [Local Asset](assets/2021-07-14_global-economy-the-recovery-is-still-on-track_img_a2pnj_6a275a8742cd.png)
 
 The disappearance of the seasonal effect on the seaborne coal flows is likely to be a function of the trade becoming increasingly China-centric, as many developed nations reduce their use of it in power generation. Increasing imports overland from Mongolia and political measures are likely to have had an impact on the trade patterns as well. Despite the recent loss of seasonality in the seaborne coal trade, volumes are likely to remain firm during the rest of the year. It is also worth remembering that many parts of the world are not covered by any emissions trading programmes and coal remain the cheapest source of energy for developing economies emerging from the pandemic.
 
@@ -47,7 +47,7 @@ Chinese seaborne coal imports have over the last few years not shown any coheren
 ![A3.pnj](assets/2021-07-14_global-economy-the-recovery-is-still-on-track_img_a3pnj_01846577c28e.png)
 
 > **Figure 3: A3.pnj**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-14_global-economy-the-recovery-is-still-on-track_img_a3pnj_01846577c28e.png)
+> [Local Asset](assets/2021-07-14_global-economy-the-recovery-is-still-on-track_img_a3pnj_01846577c28e.png)
 
 Nevertheless, last year’s drop in seaborne volumes during the second half looks unlikely to be repeated this year. Following last winter’s shortage, the National Development and Reform Commission has announced that it intends to build up considerable stockpiles to avoid a repeat. With domestic Chinese coal production facing occasional restrictions, due to environmental concerns and safety inspection, the ambition to build up considerable inventories will require imports to increase. Hence, the seasonality of yesteryears may return, with higher volumes during the second half of the year.
 

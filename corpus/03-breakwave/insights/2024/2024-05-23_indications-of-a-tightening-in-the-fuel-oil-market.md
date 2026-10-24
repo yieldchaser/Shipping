@@ -27,12 +27,12 @@ This week, in the East, we discuss why reduced Russian fuel oil exports going to
 ![Στιγμιότυπο Οθόνης 2024 05 23 103258](assets/2024-05-23_indications-of-a-tightening-in-the-fuel-oil-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a05cda143870.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 23 103258**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTP5NDS1fhmuTpvfnF9DFEpiZyy-mKSp3QgfioGxar9i106iYfdOJqayf8HciDwm3pkktasWg=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-23_indications-of-a-tightening-in-the-fuel-oil-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a05cda143870.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTP5NDS1fhmuTpvfnF9DFEpiZyy-mKSp3QgfioGxar9i106iYfdOJqayf8HciDwm3pkktasWg=) | [Local Asset](assets/2024-05-23_indications-of-a-tightening-in-the-fuel-oil-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a05cda143870.png)
 
 ![Στιγμιότυπο Οθόνης 2024 05 23 103321](assets/2024-05-23_indications-of-a-tightening-in-the-fuel-oil-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_47625bea97e3.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 05 23 103321**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTP5NDS1fhmuTpvfnF9DFEpiZyy-mKSp3QgfioGxar9i106iYfdOJqayf8HciDwm3pkktasWg=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-23_indications-of-a-tightening-in-the-fuel-oil-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_47625bea97e3.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTP5NDS1fhmuTpvfnF9DFEpiZyy-mKSp3QgfioGxar9i106iYfdOJqayf8HciDwm3pkktasWg=) | [Local Asset](assets/2024-05-23_indications-of-a-tightening-in-the-fuel-oil-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_47625bea97e3.png)
 
 - [Lower Russian HSFO exports](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTP5NDS1fhmuTpvfnF9DFEpiZyy-mKSp3QgfioGxar9i106iYfdOJqayf8HciDwm3pkktasWg=)in March and April (an impact of Ukrainian drone strikes on refineries) appear to have solidified the notable reduction in 2024 of these volumes going to the Middle East compared to last year. This has translated to less[Aframax tonne-mile demand for DPP going to the Middle East](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTP5NDTGnItm57XwN1CsGC6olTHlLXRDrzQQdxNpio98aSe7rqlbCJDv9ti9tLpdb4gY4QMH4=), although intra-Middle East Aframax utilisation is healthy.
 
@@ -42,7 +42,7 @@ This week, in the East, we discuss why reduced Russian fuel oil exports going to
 ![Στιγμιότυπο Οθόνης 2024 05 23 103348](assets/2024-05-23_indications-of-a-tightening-in-the-fuel-oil-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5c110ba32e71.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 05 23 103348**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTP5NDS0Tl1LD_PaK1a5tGMlKMzIFHoT34Um3F8j2cSP9ERU-ywW_jBmYjluksEDq5RIJyoq0=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-23_indications-of-a-tightening-in-the-fuel-oil-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5c110ba32e71.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTP5NDS0Tl1LD_PaK1a5tGMlKMzIFHoT34Um3F8j2cSP9ERU-ywW_jBmYjluksEDq5RIJyoq0=) | [Local Asset](assets/2024-05-23_indications-of-a-tightening-in-the-fuel-oil-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5c110ba32e71.png)
 
 - A steady uptick in LR freight rates for naphtha MEG-to-NE Asia ([TC1](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTP5NDS0Tl1LD_PaK1a5tGMlKMzIFHoT34Um3F8j2cSP9ERU-ywW_jBmYjluksEDq5RIJyoq0=),[TC5](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTP5NDTHvty0IpD6zqNqziRRoXlkBHc_g4HjrhqS24PrBOPdo186t8nYwOi_818QIyEt1mp8g=)) are pointing to a comeback in demand on this route. Upward momentum in rates is not supply-side driven, as[prompt vessel supply](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTP5NDTAsPTwQfkqCkxXBytVYQBEcxwUrSJYwB5pDO56dUwtsLcyxsPz5bktG5o0F6Yl4f7T4=)in the region is steady and European demand for MEG diesel has softened.
 
@@ -52,7 +52,7 @@ This week, in the East, we discuss why reduced Russian fuel oil exports going to
 ![Στιγμιότυπο Οθόνης 2024 05 23 103412](assets/2024-05-23_indications-of-a-tightening-in-the-fuel-oil-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21bee3c4bc87.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 05 23 103412**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTP5NDSxhulPWACLKg7yR7sQYhDgg8t83KAFxUX2ibeuQPKsFwXdUp1YogmaauQamSz56RIyU=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-23_indications-of-a-tightening-in-the-fuel-oil-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21bee3c4bc87.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTP5NDSxhulPWACLKg7yR7sQYhDgg8t83KAFxUX2ibeuQPKsFwXdUp1YogmaauQamSz56RIyU=) | [Local Asset](assets/2024-05-23_indications-of-a-tightening-in-the-fuel-oil-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21bee3c4bc87.png)
 
 - The recent increase in freight rates out of the US Gulf is related to tighter supply-side fundamentals as a higher number of VLCCs were ballasting towards[the Middle East](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTP5NDSxhulPWACLKg7yR7sQYhDgg8t83KAFxUX2ibeuQPKsFwXdUp1YogmaauQamSz56RIyU=)instead of the[Gulf](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTP5NDS7cjTgfwICIseqR-jgAZd0z0vDQ09ky7esWNYeQEFdXGXGD_ZS5rc3kEeLK1Wn8eNo0=)after discharging in East Asia, leaving a[tighter tonnage list in the USG](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTP5NDTMPMuz0MLjkiVMa5ESf9CeIT2jvVEoNDMqM8r_AxTBjMoEXS2leHJSrb1A8v6gahOpU=).
 
@@ -62,7 +62,7 @@ This week, in the East, we discuss why reduced Russian fuel oil exports going to
 ![Στιγμιότυπο Οθόνης 2024 05 23 103430](assets/2024-05-23_indications-of-a-tightening-in-the-fuel-oil-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2ca232472a9.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 05 23 103430**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTP5NDTImnyirRwP4XuIgh6mRcmgsCEUJxeP5NuVMV_cEgII592_Gy2Q9ddg5I1okgPGL4Jt4=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-23_indications-of-a-tightening-in-the-fuel-oil-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2ca232472a9.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTP5NDTImnyirRwP4XuIgh6mRcmgsCEUJxeP5NuVMV_cEgII592_Gy2Q9ddg5I1okgPGL4Jt4=) | [Local Asset](assets/2024-05-23_indications-of-a-tightening-in-the-fuel-oil-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2ca232472a9.png)
 
 - So far in 2024, we have observed increased employment of smaller vessel classes used for US LPG exports to Europe.[VLGC utilisation](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTP5NDTImnyirRwP4XuIgh6mRcmgsCEUJxeP5NuVMV_cEgII592_Gy2Q9ddg5I1okgPGL4Jt4=)on this route has remained relatively flat between Q4 2023 and Q1 2024. Over this same period,[MGC utilisation increased](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTP5NDTExLgt4rv1rDtJJ62iX2MfL1WWPiRzr-ybGO5QE0RqPjZc5v1Cpc6EkLlhq-DF1nPUY=).
 

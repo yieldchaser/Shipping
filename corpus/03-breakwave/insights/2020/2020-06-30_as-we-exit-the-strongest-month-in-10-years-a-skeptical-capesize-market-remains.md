@@ -25,7 +25,7 @@ A June for the records, as Capesize rates surged**10-fold**, from around 3,000 a
 
 > **Figure 1: With This Boost in Cargo Volumes**  
 > *With this boost in cargo volumes, available tonnage has become scarce, evident in the extremely low number of ships able to make West Australia loadings within the next ten days. Charterers in the Pacific have had to bid higher and higher keep owners from sending their ships to the Atlantic.*  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2020/6/17/is-it-time-for-a-breather-in-dry-bulk-rates) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-30_as-we-exit-the-strongest-month-in-10-years-a-skeptical-capesize-market-remains_img_ship31_3c5776a81ad6.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2020/6/17/is-it-time-for-a-breather-in-dry-bulk-rates) | [Local Asset](assets/2020-06-30_as-we-exit-the-strongest-month-in-10-years-a-skeptical-capesize-market-remains_img_ship31_3c5776a81ad6.jpg)
 
 However, freight traders remain unimpressed when judged by the reaction in futures, that although initially followed the spot market higher, more recently have failed to reflect any optimism about the future: Capesize futures for the second half of the year trade at**extremely steep discounts to spot**and at an average rate of 18,500 versus current spot rates of around 30,000.
 
@@ -40,7 +40,7 @@ The rush of fixing combined with high congestion has caused a tightness in tonna
 ![Braemar C5 Ships](assets/2020-06-30_as-we-exit-the-strongest-month-in-10-years-a-skeptical-capesize-market-remains_img_braemarc5ships_d3f3f028eecb.png)
 
 > **Figure 2: Braemar C5 Ships**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2020/6/17/is-it-time-for-a-breather-in-dry-bulk-rates) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-30_as-we-exit-the-strongest-month-in-10-years-a-skeptical-capesize-market-remains_img_braemarc5ships_d3f3f028eecb.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2020/6/17/is-it-time-for-a-breather-in-dry-bulk-rates) | [Local Asset](assets/2020-06-30_as-we-exit-the-strongest-month-in-10-years-a-skeptical-capesize-market-remains_img_braemarc5ships_d3f3f028eecb.png)
 
 Looking at the futures, the third quarter Capesize futures contract has traded around 20,000-22,000 for almost two weeks now, a level we though will lead to a[breather in the futures](https://www.breakwaveadvisors.com/insights/2020/6/17/is-it-time-for-a-breather-in-dry-bulk-rates)rally, despite the continuing increase in the spot during that period. We now think such a breather is overdone, and as we enter the third quarter tomorrow, the probability of a meaningful “short squeeze” in futures is increasing by the day. After all, futures settle against spot, and every day that goes by means another day of a higher potential settlement.
 
@@ -50,7 +50,7 @@ Although we also now believe that the probability of the spot market starting to
 
 > **Figure 3: Futures Prices As of End of June of Each Year**  
 > *Futures prices as of end of June of each year*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-30_as-we-exit-the-strongest-month-in-10-years-a-skeptical-capesize-market-remains_img_2hsettle_d495ef717307.jpg)
+> [Local Asset](assets/2020-06-30_as-we-exit-the-strongest-month-in-10-years-a-skeptical-capesize-market-remains_img_2hsettle_d495ef717307.jpg)
 
 Finally, in a market dominated by hedgers and not speculators, one should not blame market participants for being cautious and selling forward. After all, time and again, this market has seen extreme volatility that causes all gains to evaporate in a matter of weeks.
 

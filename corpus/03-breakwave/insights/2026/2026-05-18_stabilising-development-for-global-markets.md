@@ -33,7 +33,7 @@ Against this macro backdrop, China’s steel and raw materials trade continued t
 ![Στιγμιότυπο Οθόνης 2026 05 18 104428](assets/2026-05-18_stabilising-development-for-global-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_87d51e3d1207.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 05 18 104428**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-18_stabilising-development-for-global-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_87d51e3d1207.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2026-05-18_stabilising-development-for-global-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_87d51e3d1207.png)
 
 In contrast, China’s coal import profile softened further in April, with volumes declining to 33.1 million tonnes, representing a 14 percent year-on-year decrease and a 12.5 percent month-on-month decline on a daily-rate basis. This brought cumulative imports for JanuaryApril to 149.4 million tonnes, down 2.1 percent year-on-year. The weakness was primarily driven by a narrowing import arbitrage, as rising seaborne coal prices – partly influenced by geopolitical tensions in the Middle East – reduced the competitiveness of imported cargoes relative to domestic supply. With domestic pricing remaining comparatively more attractive, import appetite was consequently restrained despite otherwise stable underlying consumption indicators. Looking ahead, coal imports are expected to remain highly responsive to relative pricing dynamics, with freight developments and arbitrage conditions likely to determine whether any meaningful recovery in volumes materialises over the coming months.
 
@@ -42,7 +42,7 @@ In the agricultural segment, however, China continued to provide a more supporti
 ![Στιγμιότυπο Οθόνης 2026 05 18 104439](assets/2026-05-18_stabilising-development-for-global-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9405d3df1bf7.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 05 18 104439**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-18_stabilising-development-for-global-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9405d3df1bf7.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2026-05-18_stabilising-development-for-global-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9405d3df1bf7.png)
 
 Overall, despite divergent trends across individual commodity segments, underlying dry bulk fundamentals continue to point towards a broadly constructive environment. Iron ore flows remain resilient, agricultural demand is demonstrating clear cyclical strength, and coal volumes – while softer – are primarily reflecting price-driven rather than demand-driven constraints. Importantly, freight markets are still benefiting from a combination of steady cargo flow, relatively disciplined fleet growth and intermittent disruptions across key loading regions. Taken together, this has resulted in a backdrop where sentiment remains cautiously optimistic, with dry bulk earnings supported at levels that remain healthy by historical standards, even as macro uncertainty and policy risk continue to shape short-term volatility rather than structural direction.
 

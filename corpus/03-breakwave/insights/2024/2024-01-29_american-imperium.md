@@ -79,4 +79,4 @@ The Trump-Biden election is but a small episode in a very large turn of history:
 ![American Imperium](assets/2024-01-29_american-imperium_img_americanimperium_c40109d26819.jpg)
 
 > **Figure 1: American Imperium**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-29_american-imperium_img_americanimperium_c40109d26819.jpg)
+> [Local Asset](assets/2024-01-29_american-imperium_img_americanimperium_c40109d26819.jpg)

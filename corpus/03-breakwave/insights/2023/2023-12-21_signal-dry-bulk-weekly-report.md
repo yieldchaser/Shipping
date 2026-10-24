@@ -26,7 +26,7 @@ Significant increase in Capesize tonne days from Brazil to China since the begin
 ![Market Chart 1](assets/2023-12-21_signal-dry-bulk-weekly-report_img_unnamed-2023-12-21t134249576_c4f90922c618.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-21_signal-dry-bulk-weekly-report_img_unnamed-2023-12-21t134249576_c4f90922c618.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-21_signal-dry-bulk-weekly-report_img_unnamed-2023-12-21t134249576_c4f90922c618.png)
 
 In the third week of December, sentiment in the freight market for large vessel sizes has shown signs of weakening. However, optimism grows for a robust month-end, given the declining number of ballasters in the Panamax Continent Far East. Within the Capesize segment, there's been a notable increase in tonne days from Brazil to China, contrasting with the market price decline. Despite a rise in ballasters for Capesize vessels in SE Asia compared to recent lows, activity remains subdued, suggesting potential rate stabilisation through the month's end.
 
@@ -46,7 +46,7 @@ Market Rates ($/t) Weaker
 ![Market Chart 2](assets/2023-12-21_signal-dry-bulk-weekly-report_img_unnamed-2023-12-21t134520574_631daaba51d8.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-21_signal-dry-bulk-weekly-report_img_unnamed-2023-12-21t134520574_631daaba51d8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-21_signal-dry-bulk-weekly-report_img_unnamed-2023-12-21t134520574_631daaba51d8.png)
 
 In the third week of December, the dry freight market showed a weakening trend for the Capesize and Panamax, while the Handy-NOPAC-FE route showed signs of an upturn before the end of December.
 
@@ -60,7 +60,7 @@ In the third week of December, the dry freight market showed a weakening trend f
 ![Supply Trend Lines for Key Load Areasballasters (#Vessels) Increasing](assets/2023-12-21_signal-dry-bulk-weekly-report_img_unnamed-2023-12-21t134620989_631daaba51d8.png)
 
 > **Figure 3: Supply Trend Lines for Key Load Areasballasters (#Vessels) Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-21_signal-dry-bulk-weekly-report_img_unnamed-2023-12-21t134620989_631daaba51d8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-21_signal-dry-bulk-weekly-report_img_unnamed-2023-12-21t134620989_631daaba51d8.png)
 
 The number of ballasters was above the annual average for all ship size classes, with the exception of Panamax ships, where the number has been falling continuously since the end of week 38.
 
@@ -74,7 +74,7 @@ The number of ballasters was above the annual average for all ship size classes,
 ![Summary of Dry Bulk Demand, per Ship Sizetonne Days Mixed](assets/2023-12-21_signal-dry-bulk-weekly-report_img_unnamed-2023-12-21t134815760_2afb88f89ec5.png)
 
 > **Figure 4: Summary of Dry Bulk Demand, per Ship Sizetonne Days Mixed**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-21_signal-dry-bulk-weekly-report_img_unnamed-2023-12-21t134815760_2afb88f89ec5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-21_signal-dry-bulk-weekly-report_img_unnamed-2023-12-21t134815760_2afb88f89ec5.png)
 
 In the third week of December, the declining demand persisted; however, there were indications of a rebound in Capesize from the previous week, suggesting the potential for further recovery in the upcoming days.
 
@@ -88,7 +88,7 @@ In the third week of December, the declining demand persisted; however, there we
 ![Dry Bulk Ships Congested at Chinese Portsno of Vessels Increasing](assets/2023-12-21_signal-dry-bulk-weekly-report_img_unnamed-2023-12-21t134936408_e9fd94e6ae62.png)
 
 > **Figure 5: Dry Bulk Ships Congested at Chinese Portsno of Vessels Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-21_signal-dry-bulk-weekly-report_img_unnamed-2023-12-21t134936408_e9fd94e6ae62.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-21_signal-dry-bulk-weekly-report_img_unnamed-2023-12-21t134936408_e9fd94e6ae62.png)
 
 The number of dry bulk vessels congested at Chinese ports continued the previous week's rise and has now reached one of the highest levels since the peak in week 32.
 

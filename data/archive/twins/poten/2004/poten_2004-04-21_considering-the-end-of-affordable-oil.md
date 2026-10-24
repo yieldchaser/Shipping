@@ -74,4 +74,4 @@ Oil is a commodity whose price is affected by supply and demand factors but as a
 
 ![Exhibit 1: Considering the End of Affordable Oil](../../../charts/poten/2004/poten_2004-04-21_considering-the-end-of-affordable-oil_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-04-21_considering-the-end-of-affordable-oil_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../../extracted/charts/poten/2004/poten_2004-04-21_considering-the-end-of-affordable-oil_chart1.png)

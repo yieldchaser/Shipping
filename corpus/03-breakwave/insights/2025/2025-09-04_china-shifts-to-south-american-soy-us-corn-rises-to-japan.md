@@ -28,7 +28,7 @@ Spot Rates | Supply-Demand Trends | Port Congestion Overview**
 ![Στιγμιότυπο Οθόνης 2025 09 04 125729](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7c97e35b1aab.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 09 04 125729**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7c97e35b1aab.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7c97e35b1aab.png)
 
 This week we take a closer look at the shifting grain flows of 2025, as U.S.–China trade tensions continue to dominate global perspectives. Agriculture remains at the core of these frictions, with China’s move away from U.S. soybeans becoming increasingly evident and Brazil solidifying its role as the leading supplier.
 
@@ -41,14 +41,14 @@ Meanwhile, the U.S. soybean sector faces structural challenges in regaining lost
 ![Στιγμιότυπο Οθόνης 2025 09 04 125905](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_df2f58456fff.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 09 04 125905**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_df2f58456fff.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_df2f58456fff.png)
 
 C3 and C5 routes are showing signs of a downward revision, with current rates at $24/ton for Brazil–China and $10.4/ton for Australia–China. Oversupply in the South Atlantic is evident during the summer, with the excess consistently above 200, reaching around 255 since mid-August. Similarly, the C5 route has seen a decrease in ballasters heading to West Australia, now around 160, though this is still almost 20 more than the early August low.
 
 ![Στιγμιότυπο Οθόνης 2025 09 04 125954](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d593c268081b.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 09 04 125954**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d593c268081b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d593c268081b.png)
 
 ### Panamax - Ecsa / Far East | USG / China Weaker
 
@@ -57,64 +57,64 @@ As September begins, spot rates for Panamax vessels carrying cargo from East Coa
 ![Στιγμιότυπο Οθόνης 2025 09 04 130108](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a35beb36abd6.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 09 04 130108**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a35beb36abd6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a35beb36abd6.png)
 
 ![Στιγμιότυπο Οθόνης 2025 09 04 130117](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_65869eb35aba.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 09 04 130117**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_65869eb35aba.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_65869eb35aba.png)
 
 ![Στιγμιότυπο Οθόνης 2025 09 04 130125](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e58a3f062829.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 09 04 130125**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e58a3f062829.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e58a3f062829.png)
 
 Supramax spot rates saw increases in several routes. From the East Coast South America (ECSA) to the Far East, rates reached $36/tonne, a 13% increase from the prior week. The US Gulf (USG) to Far East route also saw gains, reaching $44/tonne, up 3%. This continued strength since July is linked to a consistent decline in supramax vessel supply to the USG/USEC, with counts now below 80, compared to over 100 in early June.
 
 ![Στιγμιότυπο Οθόνης 2025 09 04 130253](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_63328b4eb791.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 09 04 130253**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_63328b4eb791.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_63328b4eb791.png)
 
 ![Στιγμιότυπο Οθόνης 2025 09 04 130300](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1fa925806621.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2025 09 04 130300**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1fa925806621.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1fa925806621.png)
 
 **Capesize ballasters view:**The South Atlantic saw a significant 38% increase, while the North Atlantic experienced a more modest 8% rise. Conversely, the Pacific region demonstrated better absorption of ballasters, with a 7% decrease in the Far East/NOPAC region. Australasia, however, observed a 4% upward trend.
 
 ![Στιγμιότυπο Οθόνης 2025 09 04 130534](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e32b12483bc1.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 09 04 130534**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e32b12483bc1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e32b12483bc1.png)
 
 **Panamax ballasters view:**Significant increases in the number of ballasters are observed in both the Pacific (Australasia, +23%) and the North Atlantic (+30%).
 
 ![Στιγμιότυπο Οθόνης 2025 09 04 130621](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2a6528f20ea9.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 09 04 130621**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2a6528f20ea9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2a6528f20ea9.png)
 
 **Supramax ballasters view:**Oversupply in the Pacific basin intensified, with the number of ballasters increasing significantly by 30% in Australasia and 18% in the Indian Ocean/South Africa region. The Atlantic experienced a more moderate rise, with an 8% increase in the South and a 10% increase in the North.
 
 ![Στιγμιότυπο Οθόνης 2025 09 04 130730](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_693fe79b42cf.png)
 
 > **Figure 11: Στιγμιότυπο Οθόνης 2025 09 04 130730**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_693fe79b42cf.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_693fe79b42cf.png)
 
 **Handysize ballasters**: Increases have been substantial in the Pacific region, with the Far East/NOPAC seeing a 28% rise and Australasia a 15% rise. Conversely, the North Atlantic experienced a 20% increase in vessel oversupply, while the South Atlantic noted a slowdown in ballasters.
 
 ![Στιγμιότυπο Οθόνης 2025 09 04 130822](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4192ce8c32ec.png)
 
 > **Figure 12: Στιγμιότυπο Οθόνης 2025 09 04 130822**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4192ce8c32ec.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4192ce8c32ec.png)
 
 Amid signs of a strong first half in Capesize tonne-day growth for bauxite shipments from Africa to the Far East, the summer season has shown a clear slowdown, with tonne-day levels recently dropping to their lowest point of the year. Earlier projections of a deceleration from the rapid expansion seen in the first quarter toward the third quarter now seem confirmed. However, current growth remains about 40% higher than the levels recorded in early September.
 
 ![Στιγμιότυπο Οθόνης 2025 09 04 130904](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_94a86d05e70e.png)
 
 > **Figure 13: Στιγμιότυπο Οθόνης 2025 09 04 130904**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_94a86d05e70e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-09-04_china-shifts-to-south-american-soy-us-corn-rises-to-japan_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_94a86d05e70e.png)
 
 This week’s focus is on the rising port congestion in Tianjin, where the number of vessels waiting has surpassed 120, with the Supramax segment accounting for more than half of this activity. Estimated port days have also spiked to nearly 13, compared with the low of 8 recorded at the end of June. From a seasonal perspective, congestion at Tianjin has now reached its highest level not only this year but also relative to previous years. The key question in the coming days is whether this acceleration will be sustained, as prolonged congestion could provide additional support to the Baltic Supramax Index.
 

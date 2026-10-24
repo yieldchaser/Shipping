@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-12-28_cu30ilh04uxrnzrrk70zl
 ![Img 9513](assets/2023-12-28_cu30ilh04uxrnzrrk70zlk3n0gjgdz_img_img-9513_2cbd2f463671.png)
 
 > **Figure 1: Img 9513**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-28_cu30ilh04uxrnzrrk70zlk3n0gjgdz_img_img-9513_2cbd2f463671.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-28_cu30ilh04uxrnzrrk70zlk3n0gjgdz_img_img-9513_2cbd2f463671.png)
 
 In the fourth quarter, the Israel-Hamas conflict led to increased geopolitical tensions, especially within the oil sector, reshaping dynamics within the industry. After the end of September, freight rates firmed in October, influenced notably by Russia. Based on a Bloomberg study, Russia successfully sold a significant volume of crude oil exports surpassing the $60/barrel price threshold. The effectiveness of sanctions seems to have waned, potentially because of inadequate oversight and enforcement of the oil price restriction policy.
 

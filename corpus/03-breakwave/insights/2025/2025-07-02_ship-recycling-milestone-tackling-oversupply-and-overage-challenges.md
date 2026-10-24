@@ -27,7 +27,7 @@ First adopted in Hong Kong in 2009, the Convention’s implementation has been a
 ![Στιγμιότυπο Οθόνης 2025 07 02 111638](assets/2025-07-02_ship-recycling-milestone-tackling-oversupply-and-overage-challenges_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f0166939bac.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 07 02 111638**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-02_ship-recycling-milestone-tackling-oversupply-and-overage-challenges_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f0166939bac.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-07-02_ship-recycling-milestone-tackling-oversupply-and-overage-challenges_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f0166939bac.png)
 
 ### Oversupply and Fleet Modernization Pressures
 
@@ -36,7 +36,7 @@ Advancements in ship recycling show limited progress in primary demolition marke
 ![Στιγμιότυπο Οθόνης 2025 07 02 111646](assets/2025-07-02_ship-recycling-milestone-tackling-oversupply-and-overage-challenges_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c4897891fe20.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 07 02 111646**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-02_ship-recycling-milestone-tackling-oversupply-and-overage-challenges_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c4897891fe20.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-07-02_ship-recycling-milestone-tackling-oversupply-and-overage-challenges_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c4897891fe20.png)
 
 ### Demolition Trends: Dry Bulk Maintains Lead Over Tankers in 2025
 
@@ -45,7 +45,7 @@ By mid-2025, demolition activity remains centered in the dry bulk sector, with o
 ![Στιγμιότυπο Οθόνης 2025 07 02 111659](assets/2025-07-02_ship-recycling-milestone-tackling-oversupply-and-overage-challenges_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fca221de57d8.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 07 02 111659**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-02_ship-recycling-milestone-tackling-oversupply-and-overage-challenges_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fca221de57d8.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-07-02_ship-recycling-milestone-tackling-oversupply-and-overage-challenges_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fca221de57d8.png)
 
 ### India's Competitive Edge in Ship Recycling
 

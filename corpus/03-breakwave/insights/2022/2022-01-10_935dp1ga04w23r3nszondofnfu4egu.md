@@ -31,14 +31,14 @@ Finally, as inflation is gripping the world, it will be interesting to watch a s
 ![St](assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_st_70101b8c826f.png)
 
 > **Figure 1: St**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_st_70101b8c826f.png)
+> [Local Asset](assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_st_70101b8c826f.png)
 
 ### Lack of Normality Means Lack of Visibility
 
 ![COVID](assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_covid_bd85e646fdeb.png)
 
 > **Figure 2: COVID**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_covid_bd85e646fdeb.png)
+> [Local Asset](assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_covid_bd85e646fdeb.png)
 
 As we enter the third year of the pandemic, it is becoming increasingly apparent that aggregate economic performance will, once again, be largely dependent on the evolution of Covid-19. Economic performance doesn’t just boil down to GDP. Employment metrics are equally important, as is inflation, a key determinant of financial market activity, especially now that QE is truly taking a back seat for the first time in twelve years.
 
@@ -57,7 +57,7 @@ Thus, we intend to consider Omicron, and any other deviation from the path towar
 ![Unsplash Image T4cixluavie](assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_unsplash-image-t4cixluavie_05be066e3b11.jpg)
 
 > **Figure 3: Unsplash Image T4cixluavie**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_unsplash-image-t4cixluavie_05be066e3b11.jpg)
+> [Local Asset](assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_unsplash-image-t4cixluavie_05be066e3b11.jpg)
 
 If questions like ‘when is the pandemic going to end’ are unanswerable, we need to ask different questions: Will global policymakers work together to bring a swifter end to the pandemic? Will that even make a difference? Will companies switch business and logistics models to account for a ‘forever virus’ strategy? Is there a breakpoint for this to happen? These are the questions we should focus on for the next few months.
 
@@ -80,10 +80,10 @@ In a post-QE world, where ‘beta’ strategies will be less important and ‘al
 ![Unsplash Image Tujud0awapi](assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_unsplash-image-tujud0awapi_103ffc133ca9.jpg)
 
 > **Figure 4: Unsplash Image Tujud0awapi**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_unsplash-image-tujud0awapi_103ffc133ca9.jpg)![Co2](assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_co2_8010860a4235.jpg)
+> [Local Asset](assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_unsplash-image-tujud0awapi_103ffc133ca9.jpg)![Co2](assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_co2_8010860a4235.jpg)
 
 > **Figure 5: Co2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_co2_8010860a4235.jpg)
+> [Local Asset](assets/2022-01-10_935dp1ga04w23r3nszondofnfu4egu_img_co2_8010860a4235.jpg)
 
 The key takeaway from our predicament should be a sobering one: Humanity’s innate anthropocentrism* and technological prowess must not lead to the false conclusion that nature has been, or may yet be, conquered. A simple virus can upset civilisation as we know it.
 

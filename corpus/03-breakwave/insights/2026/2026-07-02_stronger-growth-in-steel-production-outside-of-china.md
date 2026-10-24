@@ -27,14 +27,14 @@ As we discussed in Commodore Research's most recent Weekly Executive Report, glo
 ![241](assets/2026-07-02_stronger-growth-in-steel-production-outside-of-china_img_241_da84c691b343.png)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-02_stronger-growth-in-steel-production-outside-of-china_img_241_da84c691b343.png)
+> [Local Asset](assets/2026-07-02_stronger-growth-in-steel-production-outside-of-china_img_241_da84c691b343.png)
 
 Steel production ex-China has now increased on a year-on-year basis for two straight months. Previously, it had contracted on a year-on-year basis for two straight months.
 
 ![242](assets/2026-07-02_stronger-growth-in-steel-production-outside-of-china_img_242_4fb167fd8f84.jpg)
 
 > **Figure 2: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-02_stronger-growth-in-steel-production-outside-of-china_img_242_4fb167fd8f84.jpg)
+> [Local Asset](assets/2026-07-02_stronger-growth-in-steel-production-outside-of-china_img_242_4fb167fd8f84.jpg)
 
 Taking India out of the equation, production grew year-on-year by 800,000 tons (1%). Previously, production ex-China/India had contracted on a year-on-year basis for three straight months.
 
@@ -43,7 +43,7 @@ India's own steel production totaled 14.1 million tons last month. This is up mo
 ![243](assets/2026-07-02_stronger-growth-in-steel-production-outside-of-china_img_243_d010bd300e27.jpg)
 
 > **Figure 3: 243**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-02_stronger-growth-in-steel-production-outside-of-china_img_243_d010bd300e27.jpg)
+> [Local Asset](assets/2026-07-02_stronger-growth-in-steel-production-outside-of-china_img_243_d010bd300e27.jpg)
 
 ---
 

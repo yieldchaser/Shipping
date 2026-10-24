@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-05-13_market-shifts-and-shi
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](assets/2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 Markets remain volatile, seemingly lurching from one macroeconomic crisis to the next, with few moments of stability. What began in early 2025 as cautious optimism around China’s property recovery—set against the backdrop of the Red Sea crisis—has since evolved into a broader trade tariff narrative dominated by movements in financial markets, fiscal manoeuvres, and currency disruptions. Once a beneficiary of volatility, the commodities and shipping sector now contends with its downside risks. President Trump’s tariff moves and trade negotiations have unsettled markets, reviving doubts over the US-led global order and a strong US Dollar. Meanwhile, shifting commodity flows and mounting currency interventions are fuelling market volatility. As markets wrestle with inflation fears, a looming bond-market spiral, and fragile geopolitical ceasefires, the dry bulk segment faces a reshaped trading landscape—one increasingly detached from the logic of efficiency.
 
@@ -37,19 +37,19 @@ Oil markets saw renewed volatility after OPEC unexpectedly accelerated its produ
 ![Στιγμιότυπο Οθόνης 2025 05 13 114242](assets/2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2d01a3597c4.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 05 13 114242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2d01a3597c4.png)
+> [Local Asset](assets/2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2d01a3597c4.png)
 
 Dry bulk freight rates tumbled in January and early February before staging a gravity-defying mid-February rebound—led by Capesizes—but shortly came back to earth. US tariffs and the US Trade Representative’s proposed port levies acted as a "heat check," stalling momentum across both freight markets and S&P activities. Though rates have since retreated, they remain well above the troughs seen in late 2024 and early 2025.
 
 ![Στιγμιότυπο Οθόνης 2025 05 13 114252](assets/2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5426105e9c22.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 05 13 114252**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5426105e9c22.png)
+> [Local Asset](assets/2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5426105e9c22.png)
 
 ![Στιγμιότυπο Οθόνης 2025 05 13 114304](assets/2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32e8407e3805.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 05 13 114304**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32e8407e3805.png)
+> [Local Asset](assets/2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32e8407e3805.png)
 
 USTR’s watered-down port fee proposal issued on 17 April, briefly lifted sentiments, with 5Y Supramax prices spiking higher. However, broader headwinds remain. Deal flow in the secondhand bulker market slumped in Q1, with just 77 transactions recorded—a 58% drop from 182 in the same period last year. Asset values declined year-on-year across nearly all segments, underscoring a more cautious tone among buyers amid macroeconomic and regulatory uncertainty.
 
@@ -59,7 +59,7 @@ Currency markets saw sharp swings in April and early May. The PBOC intervened to
 ![Στιγμιότυπο Οθόνης 2025 05 13 114314](assets/2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db3c676a8534.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 05 13 114314**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db3c676a8534.png)
+> [Local Asset](assets/2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db3c676a8534.png)
 
 ### Volatile Times Ahead
 

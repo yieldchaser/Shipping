@@ -37,7 +37,7 @@ For the dry bulk sector, the near-term outlook remains constructive. Seasonal re
 ![Στιγμιότυπο Οθόνης 2025 10 20 094606](assets/2025-10-20_for-the-dry-bulk-sector-outlook-remains-constructive_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bbc8aee9a161.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 10 20 094606**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-20_for-the-dry-bulk-sector-outlook-remains-constructive_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bbc8aee9a161.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-10-20_for-the-dry-bulk-sector-outlook-remains-constructive_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bbc8aee9a161.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

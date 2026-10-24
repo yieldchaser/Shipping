@@ -26,13 +26,13 @@ Recent weeks have seen Chinese steel production climb even higher, with last mon
 ![Chart 1 (77)](assets/2023-04-12_steel-production-now-likely-exceeding-demand-in-china_img_chart1287729_d71037a6c02b.jpg)
 
 > **Figure 1: Chart 1 (77)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-12_steel-production-now-likely-exceeding-demand-in-china_img_chart1287729_d71037a6c02b.jpg)
+> [Local Asset](assets/2023-04-12_steel-production-now-likely-exceeding-demand-in-china_img_chart1287729_d71037a6c02b.jpg)
 
 While 5% year-on-year growth is strong growth, it does mark a decline from the 10% year-on-year growth that was previously maintained during the first twenty days of March and during the middle of February. Still, though, it is much better than was seen in late December and at the beginning of this year. December ended with daily crude steel production at large and medium-sized mills down year-on-year by 8% and there was no growth in January.
 
 ![Chart 2 (65)](assets/2023-04-12_steel-production-now-likely-exceeding-demand-in-china_img_chart2286529_f5ee72cc3ba2.jpg)
 
 > **Figure 2: Chart 2 (65)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-12_steel-production-now-likely-exceeding-demand-in-china_img_chart2286529_f5ee72cc3ba2.jpg)
+> [Local Asset](assets/2023-04-12_steel-production-now-likely-exceeding-demand-in-china_img_chart2286529_f5ee72cc3ba2.jpg)
 
 At present, it does appear that steel production is now exceeding demand. While production has climbed to the highest level seen since June, steel prices in China have fallen during two of the last three weeks. The pace of decline in steel stockpiles in China has also slowed significantly.

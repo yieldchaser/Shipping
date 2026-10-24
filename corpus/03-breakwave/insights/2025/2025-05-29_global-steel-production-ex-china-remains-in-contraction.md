@@ -27,7 +27,7 @@ As we discussed in Commodore Research's most recent Weekly Executive Report, we 
 ![Chart](assets/2025-05-29_global-steel-production-ex-china-remains-in-contraction_img_chart_17f0d6b443c2.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-29_global-steel-production-ex-china-remains-in-contraction_img_chart_17f0d6b443c2.jpg)
+> [Local Asset](assets/2025-05-29_global-steel-production-ex-china-remains-in-contraction_img_chart_17f0d6b443c2.jpg)
 
 Overall, this contraction remains a headwind that the dry bulk market must continue to contend with. Going forward, we continue to stress that global iron ore production will continue to largely determine iron ore trade volume -- but iron ore prices will continue to largely determine global iron ore production. Weakness in steel production is not at all helpful for iron ore prices and ultimately could slow the growth in iron ore production if steel production does not rebound.
 

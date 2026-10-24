@@ -63,7 +63,7 @@ Over the past month, the panamaxes have benefitted from an improving demand situ
 ![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](assets/2024-06-18_headwinds-for-capesizes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f18c908f2109.png)
 
 > **Figure 1: Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-18_headwinds-for-capesizes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f18c908f2109.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-06-18_headwinds-for-capesizes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f18c908f2109.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

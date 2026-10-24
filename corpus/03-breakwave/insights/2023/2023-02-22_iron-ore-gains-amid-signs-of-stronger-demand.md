@@ -26,7 +26,7 @@ A risk-off tone across markets weighed on sentiment in key commodities. Ongoing 
 ![1677015418080](assets/2023-02-22_iron-ore-gains-amid-signs-of-stronger-demand_img_1677015418080_d3dd4e0db658.png)
 
 > **Figure 1: 1677015418080**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-22_iron-ore-gains-amid-signs-of-stronger-demand_img_1677015418080_d3dd4e0db658.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2023-02-22_iron-ore-gains-amid-signs-of-stronger-demand_img_1677015418080_d3dd4e0db658.png)
 
 **Crude oil**gained early in the session amid signs of improving Chinese demand. Refiners in China continue to ramp up purchases. Companies including PetroChina and Unipec have hired at least 10 supertankers to carry shipments from the US next month. This equates to around 20mbbl of crude oil. Road congestion in major cities is also the worst since the start of 2022, according to Baidu data. The number of people using public transport is also back to or above pre-pandemic levels. However, oil prices came under pressure later in the session as weak economic data raised concerns about demand in advanced economies. Sales of previously owned homes in the US fell for the 12th straight month. This comes ahead of the release of minutes from the Fed’s last meeting. Further rate hikes could dampen oil demand.
 

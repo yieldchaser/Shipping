@@ -69,7 +69,7 @@ An increase in tonnage supply in the US Gulf is likely to offset the recent rise
 ![Στιγμιότυπο Οθόνης 2024 07 16 103558](assets/2024-07-16_headwinds-for-the-chinese-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b67c90e78b9.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 16 103558**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-16_headwinds-for-the-chinese-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b67c90e78b9.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-07-16_headwinds-for-the-chinese-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b67c90e78b9.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-07-02_a-repeat-of-2019-coul
 ![Ship10](assets/2020-07-02_a-repeat-of-2019-could-mean-high-profits-for-freight-investors_img_ship10_f024c22dad29.jpg)
 
 > **Figure 1: Ship10**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-07-02_a-repeat-of-2019-could-mean-high-profits-for-freight-investors_img_ship10_f024c22dad29.jpg)
+> [Local Asset](assets/2020-07-02_a-repeat-of-2019-could-mean-high-profits-for-freight-investors_img_ship10_f024c22dad29.jpg)
 
 With the recent second quarter rally in freight rates behind us, market participants are currently taking a more cautious stance when it comes to the future, as the rapid and significant increase in spot rates, especially for Capesizes, has led a lot of people to start thinking that the best might be behind us.
 
@@ -35,7 +35,7 @@ What BDRYFF is telling us is that basically freight traders’**near term****exp
 ![Bdryff](assets/2020-07-02_a-repeat-of-2019-could-mean-high-profits-for-freight-investors_img_bdryff_1be5fedd899e.png)
 
 > **Figure 2: Bdryff**  
-> **Interactive Data & Source:** [Etfmg](https://etfmg.com/funds/bdry/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-07-02_a-repeat-of-2019-could-mean-high-profits-for-freight-investors_img_bdryff_1be5fedd899e.png)
+> **Interactive Data & Source:** [Etfmg](https://etfmg.com/funds/bdry/) | [Local Asset](assets/2020-07-02_a-repeat-of-2019-could-mean-high-profits-for-freight-investors_img_bdryff_1be5fedd899e.png)
 
 However, further out the futures curve, the market is more pessimistic. Q4 Capesize futures are now 20% lower versus this time last year (Panamax Q4 futures is only slightly lower).
 
@@ -50,7 +50,7 @@ As the chart below shows, in 2019, despite BDRY being up roughly 40% since the e
 ![Bdry](assets/2020-07-02_a-repeat-of-2019-could-mean-high-profits-for-freight-investors_img_bdry_d332f9714994.png)
 
 > **Figure 3: Bdry**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-07-02_a-repeat-of-2019-could-mean-high-profits-for-freight-investors_img_bdry_d332f9714994.png)
+> [Local Asset](assets/2020-07-02_a-repeat-of-2019-could-mean-high-profits-for-freight-investors_img_bdry_d332f9714994.png)
 
 Although the path of getting to the current level this year has been different mainly due to the weakness Capesize rates experienced during May, the overall performance of BDRY since late March is now quite similar to last year. That**does not mean that the future performance will match last year’s**, but it is interesting to put the recent increase in freight rates into perspective and compare it to last year.
 

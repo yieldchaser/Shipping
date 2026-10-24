@@ -35,7 +35,7 @@ Economic data out of the US, suggest that the economy might be going through a r
 ![Market Chart 1](assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image001_008c90d336e6.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image001_008c90d336e6.png)
+> [Local Asset](assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image001_008c90d336e6.png)
 
 However, while a US recession narrative fits the bill, we are not convinced that it is indeed driving equity markets. If anything, experience suggests that bad macroeconomic data and consequently higher rate cut expectations are more often fuel for market rallies, not pullbacks.
 
@@ -46,7 +46,7 @@ We should note that the move is taking place during July and August, months wher
 ![Market Chart 2](assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image002_4b19a88e51d5.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image002_4b19a88e51d5.png)
+> [Local Asset](assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image002_4b19a88e51d5.png)
 
 Let’s take it from the top.
 
@@ -55,21 +55,21 @@ Let’s take it from the top.
 ![Market Chart 3](assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image003_dfcddafac0ac.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image003_dfcddafac0ac.png)
+> [Local Asset](assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image003_dfcddafac0ac.png)
 
 **The selloff mainly focused on the Magnificent Seven, and especially Nvidia,**Microsoft and Amazon. Nvidia in particular, has shed more than 20% of its market value since the 10th of July. Despite the drop, the stock is still double its value at 2023 year-end, and trading 40x its forward earnings. While US large caps are down 5%, ex-the Magnificent 7, they are only down 0.75%. Notably, the FTSE 100 hasn’t moved significantly. As of Monday 5 August, we are seeing evidence of spillover in the wider market (the Nikkei down 12.5%, US futures down 3%). However, this is precisely the point where we’d expect the Fed to affirm it’s ‘Put’, one way or another.
 
 ![Market Chart 4](assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image004_c44ecace171d.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image004_c44ecace171d.png)
+> [Local Asset](assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image004_c44ecace171d.png)
 
 In terms of valuations things are similar. It is only the Magnificent Seven and some European stocks that were re-rated.
 
 ![Market Chart 5](assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image005_1d5d0e72b842.png)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image005_1d5d0e72b842.png)
+> [Local Asset](assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image005_1d5d0e72b842.png)
 
 Despite the Japanese ‘Black Monday’, the equity market downturn doesn’t have the classic elements of a broad sell-off and more resembles profit-taking after a long period of unfettered upside, high valuations and focus on one particular trade, prompted by a reduction in leverage due to higher costs of leveraging. So far, we don’t have evidence to call anything but the partial and concentrated unwinding of a very concentrated rally. Will it continue? Nvidia’s valuation is still expensive of course, at 40x earnings, and retracing some of the excesses should have been expected and could well persist. But we don’t see a fundamental shift in the positive factors that drove the AI rally so far. We still stand at the precipice of the fourth industrial revolution, with hundreds of operations borrowing immense amounts of cloud computing power to discover the next big AI application. Chip makers, who operate in an extremely oligopolistic market, are the direct beneficiaries of that demand.**So while we do understand the reasons behind a re-rating, we don’t see a narrative that would justify a complete unravelling.**
 
@@ -78,28 +78,28 @@ Turning our attention to the macroeconomy and the rally in the bond markets. In 
 ![Market Chart 6](assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image006_6e6f95827698.png)
 
 > **Figure 6: Market Chart 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image006_6e6f95827698.png)
+> [Local Asset](assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image006_6e6f95827698.png)
 
 Firstly, US durable goods orders fell by 6.6% in June. While the drop is significantly bigger than expected, the numbers look a lot better if one takes out the aircraft orders component, which is very volatile.
 
 ![Market Chart 7](assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image007_2d6f8c66345a.png)
 
 > **Figure 7: Market Chart 7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image007_2d6f8c66345a.png)
+> [Local Asset](assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image007_2d6f8c66345a.png)
 
 Second, both manufacturing PMI indicators (by the ISM Institute and Markit Economics) suggested a sharp slowdown in manufacturing orders.
 
 ![Market Chart 8](assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image008_afea6c6fcc44.png)
 
 > **Figure 8: Market Chart 8**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image008_afea6c6fcc44.png)
+> [Local Asset](assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image008_afea6c6fcc44.png)
 
 Third, data suggested weakness in the employment markets, with non-farm payrolls rising slower than anticipated, unemployment unexpectedly climbing to 4.3% from 4.1% and worker earnings slowing down.
 
 ![Market Chart 9](assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image009_d9804eb6b659.png)
 
 > **Figure 9: Market Chart 9**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image009_d9804eb6b659.png)
+> [Local Asset](assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image009_d9804eb6b659.png)
 
 While durable goods is by and large, a very volatile number, PMI and employment indicators suggest that overall economic activity is slowing down both in services and manufacturing.
 
@@ -110,14 +110,14 @@ Having said that, one of our key themes in the past couple of years has been the
 ![Market Chart 10](assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image010_af931f0e26ad.png)
 
 > **Figure 10: Market Chart 10**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image010_af931f0e26ad.png)
+> [Local Asset](assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image010_af931f0e26ad.png)
 
 Unemployment might have ticked up, but at 4.3% it remains significantly below the 5.7% long-term average. And inflation continues to come down. Core consumer expenditure, the Fed’s preferred gauge of inflation is now at 2.6%, which is good news for real growth.
 
 ![Market Chart 11](assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image011_1e5e2b093a2d.png)
 
 > **Figure 11: Market Chart 11**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image011_1e5e2b093a2d.png)
+> [Local Asset](assets/2024-08-06_dissecting-the-market-correction-the-carry-trade-unravelling_img_image011_1e5e2b093a2d.png)
 
 Most importantly, the Fed now seems ready to begin cutting interest rates, which should further alleviate economic pressures.
 

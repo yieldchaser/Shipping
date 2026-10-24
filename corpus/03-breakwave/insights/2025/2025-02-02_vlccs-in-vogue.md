@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-02-02_vlccs-in-vogue.html"
 ![Crude Tanker](assets/2025-02-02_vlccs-in-vogue_img_crude-tanker_fb6f869b3cec.jpg)
 
 > **Figure 1: Crude Tanker**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/report/sanctions-sting/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-02_vlccs-in-vogue_img_crude-tanker_fb6f869b3cec.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/report/sanctions-sting/) | [Local Asset](assets/2025-02-02_vlccs-in-vogue_img_crude-tanker_fb6f869b3cec.jpg)
 
 VLCCs are enjoying a moment in the spotlight. A low orderbook and sanctions news have put a spotlight on the largest asset class in the tanker markets. However, the outlook for VLCCs has been promising before and freight rates have consistently underwhelmed. Is it finally time for VLCCs to shine?
 
@@ -40,7 +40,7 @@ Thus, several factors have aligned to promise a good year for VLCCs. However, wh
 ![Στιγμιότυπο Οθόνης 2025 02 02 182521](assets/2025-02-02_vlccs-in-vogue_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1b5fdbd32221.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 02 02 182521**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-02_vlccs-in-vogue_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1b5fdbd32221.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-02-02_vlccs-in-vogue_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1b5fdbd32221.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-29_did-you-know.html"
 ![1 (11)](assets/2023-03-29_did-you-know_img_1281129_6b3edcdadb69.png)
 
 > **Figure 1: 1 (11)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-29_did-you-know_img_1281129_6b3edcdadb69.png)
+> [Local Asset](assets/2023-03-29_did-you-know_img_1281129_6b3edcdadb69.png)
 
 ### Jamnagar Refinery
 
@@ -31,12 +31,12 @@ The Jamnagar Refinery is the private sector crude oil refinery owned by Reliance
 ![Jamnagar Refinery](assets/2023-03-29_did-you-know_img_jamnagar-refinery_8b1634d9fb2b.jpg)
 
 > **Figure 2: Jamnagar Refinery**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-29_did-you-know_img_jamnagar-refinery_8b1634d9fb2b.jpg)
+> [Local Asset](assets/2023-03-29_did-you-know_img_jamnagar-refinery_8b1634d9fb2b.jpg)
 
 ![Market Chart 3](assets/2023-03-29_did-you-know_img_image-2-paraguana-refinery-complex_6e10e6a48ca1.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-29_did-you-know_img_image-2-paraguana-refinery-complex_6e10e6a48ca1.jpg)
+> [Local Asset](assets/2023-03-29_did-you-know_img_image-2-paraguana-refinery-complex_6e10e6a48ca1.jpg)
 
 ### Paraguaná Refinery
 
@@ -49,4 +49,4 @@ The Ruwais Refinery is operated by the Abu Dhabi National Oil Company. The compl
 ![Adnoc Refining Ruwais Site 187](assets/2023-03-29_did-you-know_img_adnoc-refining-ruwais-site-187_b9c1ef10ae37.jpg)
 
 > **Figure 4: Adnoc Refining Ruwais Site 187**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-29_did-you-know_img_adnoc-refining-ruwais-site-187_b9c1ef10ae37.jpg)
+> [Local Asset](assets/2023-03-29_did-you-know_img_adnoc-refining-ruwais-site-187_b9c1ef10ae37.jpg)

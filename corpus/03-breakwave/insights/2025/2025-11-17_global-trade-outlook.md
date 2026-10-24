@@ -37,7 +37,7 @@ For global shipping markets, the implications of the WTO’s revised outlook are
 ![Στιγμιότυπο Οθόνης 2025 11 17 103340](assets/2025-11-17_global-trade-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c633d9e7ee82.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 11 17 103340**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-17_global-trade-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c633d9e7ee82.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-11-17_global-trade-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c633d9e7ee82.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

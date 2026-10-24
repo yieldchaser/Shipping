@@ -33,7 +33,7 @@ tags:
 
 > **Figure 1: Data Source: Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *Data Source: https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-34-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/64e7664261f8b72cba8cb74f_saudi arabian oil flows.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-34-2023) | [Local Asset](../../images/64e7664261f8b72cba8cb74f_saudi arabian oil flows.png)
 
 In the third week of August, downward pressure continues on the VLCC MEG route to China, while Saudi Arabia's crude oil exports to all destinations are expected to decline significantly over the summer compared to the previous two years.
 

@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-11-30_dont-look-now-but-bul
 ![Ship4](assets/2020-11-30_dont-look-now-but-bulker-fleet-growth-is-about-to-crash-to-20-year-lows_img_ship4_966cd4e3b9fb.jpg)
 
 > **Figure 1: Ship4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-30_dont-look-now-but-bulker-fleet-growth-is-about-to-crash-to-20-year-lows_img_ship4_966cd4e3b9fb.jpg)
+> [Local Asset](assets/2020-11-30_dont-look-now-but-bulker-fleet-growth-is-about-to-crash-to-20-year-lows_img_ship4_966cd4e3b9fb.jpg)
 
 The past decade has been quite challenging (to say the least) for dry bulk, as the ordering frenzy of the late 2000s had a meaningful impact on fleet growth in the early years of the decade outpacing demand growth by a wide margin and pushing fleet utilization to low levels. The dry bulk fleet almost doubled from 2000 to 2010, and it went to further increase by another 70% from 2010 to 2020. Although weak freight rates also led to higher scrapping with about 25% of the fleet ending up in scrapyards during the decade, that was no match for the significant growth in new deliveries. With more than 900 million dwt in current capacity, the dry bulk fleet has more than tripled since 2000 when a mere 5,000 bulkers were sailing across the oceans.
 
@@ -32,7 +32,7 @@ But such trend is about to change. A slew of new regulations relating to environ
 ![Orderbook](assets/2020-11-30_dont-look-now-but-bulker-fleet-growth-is-about-to-crash-to-20-year-lows_img_orderbook_2f6aad0098c4.png)
 
 > **Figure 2: Orderbook**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-30_dont-look-now-but-bulker-fleet-growth-is-about-to-crash-to-20-year-lows_img_orderbook_2f6aad0098c4.png)
+> [Local Asset](assets/2020-11-30_dont-look-now-but-bulker-fleet-growth-is-about-to-crash-to-20-year-lows_img_orderbook_2f6aad0098c4.png)
 
 Dry bulk shipping remains an “old economy” sector, transporting such “dirty” materials as coal and iron ore. The relative price paid for such service has remained low as the value-added portion of oceangoing shipping has also been very low. However, in the last few years, performance and, more importantly,[safety and the environment](../pdfs/2020-11-30_dont-look-now-but-bulker-fleet-growth-is-about-to-crash-to-20-year-lows_imo20action20to20reduce20ghg20emissi_78e149dda3a4.pdf)is entering the picture with a vengeance and with that, sector-wide price inflation tends to follow. With investor appetite extremely low, an all-time low orderbook and an ever-changing regulatory environment, it is a sector ripe for transformation.
 

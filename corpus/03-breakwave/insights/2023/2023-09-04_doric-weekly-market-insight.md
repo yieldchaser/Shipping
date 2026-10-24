@@ -36,6 +36,6 @@ With Capesizes being in the doldrums and manufacturing activity in contraction a
 ![1 (4)](assets/2023-09-04_doric-weekly-market-insight_img_128429_b85c98403a87.png)
 
 > **Figure 1: 1 (4)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-04_doric-weekly-market-insight_img_128429_b85c98403a87.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-09-04_doric-weekly-market-insight_img_128429_b85c98403a87.png)
 
 Data source:[Doric](https://www.doric.gr/)

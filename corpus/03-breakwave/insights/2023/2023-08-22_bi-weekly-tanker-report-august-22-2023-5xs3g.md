@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-08-22_bi-weekly-tanker-repo
 ![Tankerreporttop](assets/2023-08-22_bi-weekly-tanker-report-august-22-2023-5xs3g_img_tankerreporttop_e6b9c7543057.png)
 
 > **Figure 1: Tankerreporttop**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-22_bi-weekly-tanker-report-august-22-2023-5xs3g_img_tankerreporttop_e6b9c7543057.png)
+> [Local Asset](assets/2023-08-22_bi-weekly-tanker-report-august-22-2023-5xs3g_img_tankerreporttop_e6b9c7543057.png)
 
 **• Summer blues for crude tankers as VLCC spot rates stabilize**– So far, August has been a quiet month for crude tankers, with relatively few deals concluded and limited prospects on the horizon for the VLCC market. We remain in a transitional phase between the remaining late August Middle East cargoes and the upcoming potential rise in the September ones. Breaking it down further, the route from the Middle East to the U.S. Gulf saw a steady decline during the last two weeks, while rates from the Middle East to China have remained fairly stable and resisted further declines. Interestingly, utilization of VLCC routes from the U.S. Gulf and the Middle East to China do not yet appear to have been affected by the recently announced Saudi Arabian oil production cuts and it remains to be seen how VLCC rates will eventually respond, if at all, given the reduced oil export flows. VLCC freight futures for the fourth quarter of the year call for a modest increase in spot rates, although in the last few years volatility has been much higher during periods of strong demand and thus we would expect higher spot rates versus what the futures market is indicating, if indeed demand for crude oil seasonally increases. Oil in transit remains elevated, some 10% above recent levels roughly matching the record high 2020 levels, while oil in storage is also some 20% above last year, both of which represent positives for the market as more tankers remain occupied and less available for spot trading.
 
@@ -33,11 +33,11 @@ source_file: "corpus/03-breakwave/insights/2023/2023-08-22_bi-weekly-tanker-repo
 ![Tankerreportchart](assets/2023-08-22_bi-weekly-tanker-report-august-22-2023-5xs3g_img_tankerreportchart_be71a81d69b6.png)
 
 > **Figure 2: Tankerreportchart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-22_bi-weekly-tanker-report-august-22-2023-5xs3g_img_tankerreportchart_be71a81d69b6.png)
+> [Local Asset](assets/2023-08-22_bi-weekly-tanker-report-august-22-2023-5xs3g_img_tankerreportchart_be71a81d69b6.png)
 
 ![Tankerreportbottom](assets/2023-08-22_bi-weekly-tanker-report-august-22-2023-5xs3g_img_tankerreportbottom_a5929eb9cfc5.png)
 
 > **Figure 3: Tankerreportbottom**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-22_bi-weekly-tanker-report-august-22-2023-5xs3g_img_tankerreportbottom_a5929eb9cfc5.png)
+> [Local Asset](assets/2023-08-22_bi-weekly-tanker-report-august-22-2023-5xs3g_img_tankerreportbottom_a5929eb9cfc5.png)
 
 ### Subscribe

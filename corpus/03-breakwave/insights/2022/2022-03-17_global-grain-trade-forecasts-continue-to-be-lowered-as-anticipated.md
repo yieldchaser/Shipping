@@ -29,28 +29,28 @@ Globally, of note is that expectations for global seaborne coarse grain exports 
 ![Chart 1 (22)](assets/2022-03-17_global-grain-trade-forecasts-continue-to-be-lowered-as-anticipated_img_chart1282229_339917774d1a.jpg)
 
 > **Figure 1: Chart 1 (22)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-17_global-grain-trade-forecasts-continue-to-be-lowered-as-anticipated_img_chart1282229_339917774d1a.jpg)
+> [Local Asset](assets/2022-03-17_global-grain-trade-forecasts-continue-to-be-lowered-as-anticipated_img_chart1282229_339917774d1a.jpg)
 
 Global wheat exports are expected to total 203.2 million tons. This is 3.5 million tons (-2%) less than was forecast a month ago and would mark a year-on-year increase of only 600,000 tons.
 
 ![Chart 2 (19)](assets/2022-03-17_global-grain-trade-forecasts-continue-to-be-lowered-as-anticipated_img_chart2281929_68fe39186e13.jpg)
 
 > **Figure 2: Chart 2 (19)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-17_global-grain-trade-forecasts-continue-to-be-lowered-as-anticipated_img_chart2281929_68fe39186e13.jpg)
+> [Local Asset](assets/2022-03-17_global-grain-trade-forecasts-continue-to-be-lowered-as-anticipated_img_chart2281929_68fe39186e13.jpg)
 
 Ironically, as the forecasts for Ukrainian and Russian exports have begun to be lowered, the forecast for Brazilian soybean exports continues to be lowered as well. This has led to the forecast for global soybean exports being lowered ever further. Global soybean exports (soybeans are not technically classified as a grain) are expected to total 158.6 million tons. This is 6.4 million tons (-4%) less than was forecast a month ago and would mark a year-on-year decline of 5.9 million tons (-4%)
 
 ![Chart 3 (15)](assets/2022-03-17_global-grain-trade-forecasts-continue-to-be-lowered-as-anticipated_img_chart3281529_efa0dfd4fe6e.jpg)
 
 > **Figure 3: Chart 3 (15)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-17_global-grain-trade-forecasts-continue-to-be-lowered-as-anticipated_img_chart3281529_efa0dfd4fe6e.jpg)
+> [Local Asset](assets/2022-03-17_global-grain-trade-forecasts-continue-to-be-lowered-as-anticipated_img_chart3281529_efa0dfd4fe6e.jpg)
 
 Global soymeal exports are expected to total 67.8 million tons. This is 800,000 tons (-1%) less than was forecast a month ago and would mark a year-on-year decline of 900,000 tons (-1%).
 
 ![Chart 4 (9)](assets/2022-03-17_global-grain-trade-forecasts-continue-to-be-lowered-as-anticipated_img_chart428929_14a0480e3de2.jpg)
 
 > **Figure 4: Chart 4 (9)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-17_global-grain-trade-forecasts-continue-to-be-lowered-as-anticipated_img_chart428929_14a0480e3de2.jpg)
+> [Local Asset](assets/2022-03-17_global-grain-trade-forecasts-continue-to-be-lowered-as-anticipated_img_chart428929_14a0480e3de2.jpg)
 
 ---
 

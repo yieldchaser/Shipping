@@ -27,14 +27,14 @@ Despite dry bulk rates having set new multi-year highs this year, newbuilding or
 ![Chart 1 Comm](assets/2021-06-02_second-hand-vessels-continue-to-be-strongly-favored_img_chart1comm_6fba2809aac9.jpg)
 
 > **Figure 1: Chart 1 Comm**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-02_second-hand-vessels-continue-to-be-strongly-favored_img_chart1comm_6fba2809aac9.jpg)
+> [Local Asset](assets/2021-06-02_second-hand-vessels-continue-to-be-strongly-favored_img_chart1comm_6fba2809aac9.jpg)
 
 In comparison, approximately 84 existing dry bulk vessels exchanged hands in the second hand market.
 
 ![Chart 2 Comm](assets/2021-06-02_second-hand-vessels-continue-to-be-strongly-favored_img_chart2comm_67f1189bb6fb.jpg)
 
 > **Figure 2: Chart 2 Comm**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-02_second-hand-vessels-continue-to-be-strongly-favored_img_chart2comm_67f1189bb6fb.jpg)
+> [Local Asset](assets/2021-06-02_second-hand-vessels-continue-to-be-strongly-favored_img_chart2comm_67f1189bb6fb.jpg)
 
 A lack of clarity on potential future environmental regulations have continued to lead to owners having hesitancy and delaying newbuilding purchases.
 

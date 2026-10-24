@@ -64,7 +64,7 @@ The past two weeks have seen a recovery in cargo ordering activities, with weekl
 
 > **Figure 1: Data Source:shipfix**  
 > *Data Source:Shipfix*  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-18_shipfix-global-market-update_img_241_cd2180982f38.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2023-07-18_shipfix-global-market-update_img_241_cd2180982f38.png)
 
 ---
 

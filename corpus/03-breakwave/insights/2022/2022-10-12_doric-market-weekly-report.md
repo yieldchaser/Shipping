@@ -28,7 +28,7 @@ In particular, the leading BCI TCA had a Q3 average of $13,695 daily, or down by
 ![Screenshot 20221012 143913 Samsung Notes (1)](assets/2022-10-12_doric-market-weekly-report_img_screenshot-20221012-143913-samsungno_c372e2d14ada.jpg)
 
 > **Figure 1: Screenshot 20221012 143913 Samsung Notes (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-12_doric-market-weekly-report_img_screenshot-20221012-143913-samsungno_c372e2d14ada.jpg)
+> [Local Asset](assets/2022-10-12_doric-market-weekly-report_img_screenshot-20221012-143913-samsungno_c372e2d14ada.jpg)
 
 The last quarter of this volatile trading year started this week with Baltic indices hovering at two-month highs. In spite of this positivity of late in the spot market, international organizations and central banks kept revisiting downwards their GDP growth and world trade volume projections. In particular, on Wednesday, World Trade Organization stressed that world trade is expected to lose momentum in the second half of 2022 and remain subdued in 2023 as multiple shocks weigh on the global economy.
 
@@ -45,4 +45,4 @@ Within this framework, Baltic indices keep navigating in choppy waters. Being on
 ![Screenshot 20221012 143956 Samsung Notes (1)](assets/2022-10-12_doric-market-weekly-report_img_screenshot-20221012-143956-samsungno_737dbca6f869.jpg)
 
 > **Figure 2: Screenshot 20221012 143956 Samsung Notes (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-12_doric-market-weekly-report_img_screenshot-20221012-143956-samsungno_737dbca6f869.jpg)
+> [Local Asset](assets/2022-10-12_doric-market-weekly-report_img_screenshot-20221012-143956-samsungno_737dbca6f869.jpg)

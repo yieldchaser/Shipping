@@ -30,4 +30,4 @@ For next year, expectations are most bullish for coarse grain exports. The USDA 
 ![Chart](assets/2023-05-19_more-grain-exports-expected-next-season_img_chart_4b9e4c745d2f.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-19_more-grain-exports-expected-next-season_img_chart_4b9e4c745d2f.jpg)
+> [Local Asset](assets/2023-05-19_more-grain-exports-expected-next-season_img_chart_4b9e4c745d2f.jpg)

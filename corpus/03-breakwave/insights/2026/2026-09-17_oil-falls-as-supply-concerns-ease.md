@@ -27,7 +27,7 @@ Energy markets dipped, as supply disruption concerns in the Middle East eased. P
 ![Στιγμιότυπο Οθόνης 2026 09 17 105148](assets/2026-09-17_oil-falls-as-supply-concerns-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cc7e28e952e8.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 09 17 105148**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-17_oil-falls-as-supply-concerns-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cc7e28e952e8.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2026-09-17_oil-falls-as-supply-concerns-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cc7e28e952e8.png)
 
 ### Market Commentary
 
@@ -50,7 +50,7 @@ Investors continue to pile into gold-backed EFTs despite the prospect of higher 
 ![Στιγμιότυπο Οθόνης 2026 09 17 105645](assets/2026-09-17_oil-falls-as-supply-concerns-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c428206cce36.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 09 17 105645**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-17_oil-falls-as-supply-concerns-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c428206cce36.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2026-09-17_oil-falls-as-supply-concerns-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c428206cce36.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

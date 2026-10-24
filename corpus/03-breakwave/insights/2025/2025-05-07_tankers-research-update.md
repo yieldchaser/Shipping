@@ -33,7 +33,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-05-07_tankers-research-upda
 ![9acb Image 0 1746540093621](assets/2025-05-07_tankers-research-update_img_9acb-image-0-1746540093621_b133fba7d784.png)
 
 > **Figure 1: 9acb Image 0 1746540093621**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-07_tankers-research-update_img_9acb-image-0-1746540093621_b133fba7d784.png)
+> [Local Asset](assets/2025-05-07_tankers-research-update_img_9acb-image-0-1746540093621_b133fba7d784.png)
 
 ### India Steps Up Us Crude Purchases
 
@@ -45,7 +45,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-05-07_tankers-research-upda
 ![Bcae Image 1 1746540093623](assets/2025-05-07_tankers-research-update_img_bcae-image-1-1746540093623_38585421fc36.png)
 
 > **Figure 2: Bcae Image 1 1746540093623**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-07_tankers-research-update_img_bcae-image-1-1746540093623_38585421fc36.png)
+> [Local Asset](assets/2025-05-07_tankers-research-update_img_bcae-image-1-1746540093623_38585421fc36.png)
 
 ### California Refinery Closures Could Boost Clean Tanker Demand
 

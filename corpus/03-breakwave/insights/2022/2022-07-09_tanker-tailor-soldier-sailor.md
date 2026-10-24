@@ -32,7 +32,7 @@ The bluefish is a marine pelagic fish (meaning it lives kind of in the middle of
 ![241](assets/2022-07-09_tanker-tailor-soldier-sailor_img_241_f7907183e48f.jpg)
 
 > **Figure 1: 241**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/company/the-shift-project/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-09_tanker-tailor-soldier-sailor_img_241_f7907183e48f.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/company/the-shift-project/) | [Local Asset](assets/2022-07-09_tanker-tailor-soldier-sailor_img_241_f7907183e48f.jpg)
 
 Over the course of the last weekend of June, I flew to Lyon to take part in the Univershifté 2022, organised by[**The Shift Project**](https://www.linkedin.com/company/the-shift-project/), under the leadership of French climate expert[**Jean-Marc Jancovici**](https://www.linkedin.com/in/jean-marc-jancovici/). Amongst other insightful panels: how to build resilient cities, what is the role of finance, our ocean’s role in our ecosystem as well as whether we have enough metals for the energy transition (hint: we do if we prioritise building solar panels and not 300m new iPhones every year). Alongside the panels, workshops were organised to learn more about one particular aspect of climate change and/or impact of human behaviour. The Ocean Workshop was of course the one closest to my heart. Around a clever game, the instructor raised awareness of the issues related to the ocean and the impacts of our activities on this ecosystem. I came out of it invigorated by the beauty and complexity of the maritime ecosystem but also ever-more aware of the challenges we are facing, specifically around commercial shipping to decarbonise whilst preserving its health. The energy transition however has fallen by the wayside, as energy security took centre stage in the last couple of months.
 
@@ -43,7 +43,7 @@ With the Group of Seven nations coming together at the end of last month, the in
 ![242](assets/2022-07-09_tanker-tailor-soldier-sailor_img_242_d8448b03de4e.jpg)
 
 > **Figure 2: 242**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-09_tanker-tailor-soldier-sailor_img_242_d8448b03de4e.jpg)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](assets/2022-07-09_tanker-tailor-soldier-sailor_img_242_d8448b03de4e.jpg)
 
 ### Are Renewables Really the Best Way to Achieve Energy Independence?
 
@@ -56,7 +56,7 @@ To claim that June 2022 has been a busy month for the industry is quite the unde
 ![1](assets/2022-07-09_tanker-tailor-soldier-sailor_img_1_bf5fbebdd960.png)
 
 > **Figure 3: 1**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-09_tanker-tailor-soldier-sailor_img_1_bf5fbebdd960.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](assets/2022-07-09_tanker-tailor-soldier-sailor_img_1_bf5fbebdd960.png)
 
 The dates for the next edition of Posidonia have already been confirmed for 2024. Two years seems like a long time away and yet it will feel like time went by in an instant once we get there. We can only wish that by then the world has become a safer place and that we are already seeing the progress made on the energy transition if the right & difficult decisions are taken today.
 

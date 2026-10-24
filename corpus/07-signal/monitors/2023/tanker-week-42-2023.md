@@ -32,7 +32,7 @@ tags:
 ![65312c803a3ace968d769ab6 Oil Flows](../../images/65312c803a3ace968d769ab6_oil flows.png)
 
 > **Figure 1: 65312c803a3ace968d769ab6 Oil Flows**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-42-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/65312c803a3ace968d769ab6_oil flows.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-42-2023) | [Local Asset](../../images/65312c803a3ace968d769ab6_oil flows.png)
 
 The third week of October saw a noticeable improvement in market sentiment in the crude oil freight sector. At the same time, we have observed an increase of rates in the clean tanker segment. This upswing can be attributed to the new geopolitical crisis between Iran and Israel, which has led to a significant level of uncertainty in the oil market. As a result, oil prices have risen noticeably, affecting crude oil freight rates.
 

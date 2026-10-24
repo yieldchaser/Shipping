@@ -27,7 +27,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-06-08_xbq09uocapnjex2zcrmjj
 
 > **Figure 1: Data Source: The Signal Ocean Platform**  
 > *Data Source: The Signal Ocean Platform, Dry Bulk Flows, Bauxite Guinea to China*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2p1rgj/324223008?h=WZR1BecXOJlVxM9PgLY_7FqIjy7EG4ttXbfge9zSJTc) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-08_xbq09uocapnjex2zcrmjjhbuz587tv_img_unnamed-2023-06-08t115953800_f36ccbbe4c8f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2p1rgj/324223008?h=WZR1BecXOJlVxM9PgLY_7FqIjy7EG4ttXbfge9zSJTc) | [Local Asset](assets/2023-06-08_xbq09uocapnjex2zcrmjjhbuz587tv_img_unnamed-2023-06-08t115953800_f36ccbbe4c8f.png)
 
 [*https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2p1rgj/324223008?h=WZR1BecXOJlVxM9PgLY_7FqIjy7EG4ttXbfge9zSJTc*](https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2p1rgj/324223008?h=WZR1BecXOJlVxM9PgLY_7FqIjy7EG4ttXbfge9zSJTc)
 
@@ -47,7 +47,7 @@ Freight Market, Supply, Demand and Port Congestion
 ![Market Chart 2](assets/2023-06-08_xbq09uocapnjex2zcrmjjhbuz587tv_img_unnamed-2023-06-08t120115023_ba513b2b2dc6.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-08_xbq09uocapnjex2zcrmjjhbuz587tv_img_unnamed-2023-06-08t120115023_ba513b2b2dc6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-06-08_xbq09uocapnjex2zcrmjjhbuz587tv_img_unnamed-2023-06-08t120115023_ba513b2b2dc6.png)
 
 The dry freight market has yet to show any signs of revival, with Panamax vessels experiencing the sharpest rate decline.
 
@@ -61,7 +61,7 @@ The dry freight market has yet to show any signs of revival, with Panamax vessel
 ![Supply Trend Lines for Key Load Areas](assets/2023-06-08_xbq09uocapnjex2zcrmjjhbuz587tv_img_unnamed-2023-06-08t120228052_09ede6cc7cdc.png)
 
 > **Figure 3: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-08_xbq09uocapnjex2zcrmjjhbuz587tv_img_unnamed-2023-06-08t120228052_09ede6cc7cdc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-06-08_xbq09uocapnjex2zcrmjjhbuz587tv_img_unnamed-2023-06-08t120228052_09ede6cc7cdc.png)
 
 The number of ballast ships has shown an upward trend in the last three weeks, especially in the larger ship categories Capesize and Panamax, while there has been a downward correction in Handysize.
 
@@ -73,7 +73,7 @@ The number of ballast ships has shown an upward trend in the last three weeks, e
 ![Section 3/ Demand - TonDays Weaker](assets/2023-06-08_xbq09uocapnjex2zcrmjjhbuz587tv_img_unnamed-2023-06-08t120325809_ba24f97315b1.png)
 
 > **Figure 4: Section 3/ Demand - TonDays Weaker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-08_xbq09uocapnjex2zcrmjjhbuz587tv_img_unnamed-2023-06-08t120325809_ba24f97315b1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-06-08_xbq09uocapnjex2zcrmjjhbuz587tv_img_unnamed-2023-06-08t120325809_ba24f97315b1.png)
 
 The first days of June have brought contrasting trends to the dry bulk shipping industry, with notable differences in demand growth between the Panamax and Capesize segments. In the Panamax segment, there has been a significant decline in demand growth compared to previous periods
 
@@ -87,7 +87,7 @@ The first days of June have brought contrasting trends to the dry bulk shipping 
 ![Market Chart 5](assets/2023-06-08_xbq09uocapnjex2zcrmjjhbuz587tv_img_unnamed-2023-06-08t120422227_12205e3cfb89.png)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-08_xbq09uocapnjex2zcrmjjhbuz587tv_img_unnamed-2023-06-08t120422227_12205e3cfb89.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-06-08_xbq09uocapnjex2zcrmjjhbuz587tv_img_unnamed-2023-06-08t120422227_12205e3cfb89.png)
 
 June began with a downward correction in the number of ships, with only the Handysize segment showing an aggressive increase
 

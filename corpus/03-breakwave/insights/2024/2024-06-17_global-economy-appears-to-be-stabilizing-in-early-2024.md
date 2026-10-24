@@ -41,7 +41,7 @@ Ignoring the broader macroeconomic trends, the Panamax and Supramax segments sho
 ![Στιγμιότυπο Οθόνης 2024 06 17 115538](assets/2024-06-17_global-economy-appears-to-be-stabilizing-in-early-2024_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5ddc4864d45.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 06 17 115538**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-17_global-economy-appears-to-be-stabilizing-in-early-2024_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5ddc4864d45.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-06-17_global-economy-appears-to-be-stabilizing-in-early-2024_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5ddc4864d45.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-05-10_global-dry-bulk-marke
 ![Vale Iron Ore 2](assets/2021-05-10_global-dry-bulk-market-continues-to-fare-very-well-indian-outbreak-not-having-la_img_valeironore2_073efe0c6191.jpg)
 
 > **Figure 1: Vale Iron Ore 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-10_global-dry-bulk-market-continues-to-fare-very-well-indian-outbreak-not-having-la_img_valeironore2_073efe0c6191.jpg)
+> [Local Asset](assets/2021-05-10_global-dry-bulk-market-continues-to-fare-very-well-indian-outbreak-not-having-la_img_valeironore2_073efe0c6191.jpg)
 
 Dry bulk rates increased across the board again last week, with panamax rates this time finding the largest amount of support. Capesize rates ended last week up by 2%. Panamax rates ended up by 11%. Supramax rates ended up by 2%. Handysize rates ended up by 4%. Also of note is that Chinese coastal coal freight rates increased and are now at the highest levels since December 2017. Overall, it is particularly encouraging that rates outside of the capesize market found the largest amount of support last week and that Chinese coastal coal freight rates are also now at even higher levels. The capesize market remains extremely healthy and their prospects remain very positive due in part as Brazilian iron ore exports have continued to experience consistent year-on-year strength (which is a relatively new development not seen since 2018), but the rest of the market is independently also enjoying its own strength.
 
@@ -38,7 +38,7 @@ We remain very bullish for the entire dry bulk shipping market and are most bull
 ![Comm 2ab](assets/2021-05-10_global-dry-bulk-market-continues-to-fare-very-well-indian-outbreak-not-having-la_img_comm2ab_0fff1bfc92a9.jpg)
 
 > **Figure 2: Comm 2ab**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-10_global-dry-bulk-market-continues-to-fare-very-well-indian-outbreak-not-having-la_img_comm2ab_0fff1bfc92a9.jpg)
+> [Local Asset](assets/2021-05-10_global-dry-bulk-market-continues-to-fare-very-well-indian-outbreak-not-having-la_img_comm2ab_0fff1bfc92a9.jpg)
 
 ---
 

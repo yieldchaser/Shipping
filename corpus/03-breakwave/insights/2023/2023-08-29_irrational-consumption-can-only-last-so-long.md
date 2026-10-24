@@ -48,14 +48,14 @@ One can ascertain government expenditure as the powers that be are usually on a 
 ![Market Chart 1](assets/2023-08-29_irrational-consumption-can-only-last-so-long_img_image00428629_2c9f4f0b1cf9.jpg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Mazars Co](https://www.mazars.co.uk/Home/Services/Financial-Planning/Latest-economic-market-and-investment-news/Quarterly-investment-outlook-Q1-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-29_irrational-consumption-can-only-last-so-long_img_image00428629_2c9f4f0b1cf9.jpg)
+> **Interactive Data & Source:** [Mazars Co](https://www.mazars.co.uk/Home/Services/Financial-Planning/Latest-economic-market-and-investment-news/Quarterly-investment-outlook-Q1-2023) | [Local Asset](assets/2023-08-29_irrational-consumption-can-only-last-so-long_img_image00428629_2c9f4f0b1cf9.jpg)
 
 Presently, credit conditions for consumers are as bad as they have been since the Euro Crisis.
 
 ![Market Chart 2](assets/2023-08-29_irrational-consumption-can-only-last-so-long_img_image00528829_0e7638479073.jpg)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Mazars Co](https://www.mazars.co.uk/Home/Services/Financial-Planning/Latest-economic-market-and-investment-news/Quarterly-investment-outlook-Q1-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-29_irrational-consumption-can-only-last-so-long_img_image00528829_0e7638479073.jpg)
+> **Interactive Data & Source:** [Mazars Co](https://www.mazars.co.uk/Home/Services/Financial-Planning/Latest-economic-market-and-investment-news/Quarterly-investment-outlook-Q1-2023) | [Local Asset](assets/2023-08-29_irrational-consumption-can-only-last-so-long_img_image00528829_0e7638479073.jpg)
 
 Yet, according to the Fed, consumption has been much stronger than anticipated. So why is the economy strong?
 
@@ -66,7 +66,7 @@ As a result, Gasoline prices also plunged, from over $5 per gallon to $2. The US
 ![Market Chart 3](assets/2023-08-29_irrational-consumption-can-only-last-so-long_img_image006281329_f4f5cb7b1588.jpg)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Mazars Co](https://www.mazars.co.uk/Home/Services/Financial-Planning/Latest-economic-market-and-investment-news/Quarterly-investment-outlook-Q1-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-29_irrational-consumption-can-only-last-so-long_img_image006281329_f4f5cb7b1588.jpg)
+> **Interactive Data & Source:** [Mazars Co](https://www.mazars.co.uk/Home/Services/Financial-Planning/Latest-economic-market-and-investment-news/Quarterly-investment-outlook-Q1-2023) | [Local Asset](assets/2023-08-29_irrational-consumption-can-only-last-so-long_img_image006281329_f4f5cb7b1588.jpg)
 
 Presently, Americans are still flush with cash after the pandemic checks. Credit card delinquencies might be going upwards, but at 0.5% for 90+ days they are still at half their historical average.
 

@@ -26,11 +26,11 @@ As we discussed in our most recent Weekly Dry Bulk Report, Coal India produced a
 ![Chart 1 (82)](assets/2023-11-13_coal-indias-production-continues-to-grow-stockpiles-continue-to-declinenbsp_img_chart1288229_52c9adc25c8f.jpg)
 
 > **Figure 1: Chart 1 (82)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-13_coal-indias-production-continues-to-grow-stockpiles-continue-to-declinenbsp_img_chart1288229_52c9adc25c8f.jpg)
+> [Local Asset](assets/2023-11-13_coal-indias-production-continues-to-grow-stockpiles-continue-to-declinenbsp_img_chart1288229_52c9adc25c8f.jpg)
 
 Offtake (amount sent to customers) totaled 61.6 million tons last month, which marks a month-on-month increase of 6.5 million tons (12%) and a year-on-year increase of 7.9 million tons (15%). Offtake has now increased on a year-on-year basis during thirty-one of the last thirty-two months, and last month again saw offtake exceed production. Prior to the last seven months, the previous five months all saw offtake fall short of production. Coal India’s stockpiles stand at approximately 41 million tons.
 
 ![Chart 2 (70)](assets/2023-11-13_coal-indias-production-continues-to-grow-stockpiles-continue-to-declinenbsp_img_chart2287029_2097bb4bb87f.jpg)
 
 > **Figure 2: Chart 2 (70)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-13_coal-indias-production-continues-to-grow-stockpiles-continue-to-declinenbsp_img_chart2287029_2097bb4bb87f.jpg)
+> [Local Asset](assets/2023-11-13_coal-indias-production-continues-to-grow-stockpiles-continue-to-declinenbsp_img_chart2287029_2097bb4bb87f.jpg)

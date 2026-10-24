@@ -33,7 +33,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-11-28_vlcc-freight-pulse-am
 ![High 124](assets/2025-11-28_vlcc-freight-pulse-amp-russia-flows_img_unnamed_8d69ac4a063a.png)
 
 > **Figure 1: High 124**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/025-dirty-tanker-market-review/2rn8w2/554679217/h/oxgOuAB3u2bO11phj9EnMcVPYDNgZq7GHXF_xoAA3l0) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-28_vlcc-freight-pulse-amp-russia-flows_img_unnamed_8d69ac4a063a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/025-dirty-tanker-market-review/2rn8w2/554679217/h/oxgOuAB3u2bO11phj9EnMcVPYDNgZq7GHXF_xoAA3l0) | [Local Asset](assets/2025-11-28_vlcc-freight-pulse-amp-russia-flows_img_unnamed_8d69ac4a063a.png)
 
 This week’s analysis focuses on VLCC performance and the evolving Russian crude flows. Building on our[October](https://go.signalocean.com/e/983831/025-dirty-tanker-market-review/2rn8w2/554679217/h/oxgOuAB3u2bO11phj9EnMcVPYDNgZq7GHXF_xoAA3l0)and[November](https://go.signalocean.com/e/983831/rrels-powering-the-dirty-rally/2rn8w5/554679217/h/oxgOuAB3u2bO11phj9EnMcVPYDNgZq7GHXF_xoAA3l0)Special Editions, we have already outlined the main drivers behind the recent market surge. In the November edition, we emphasised how structural inefficiencies are increasingly shaping market behaviour, reflected in elevated tonne-days despite relatively softer tonne-mile growth.
 
@@ -48,7 +48,7 @@ Trend Reversal: Late November shows a noticeable easing in Russian loadings to I
 ![Market Chart 2](assets/2025-11-28_vlcc-freight-pulse-amp-russia-flows_img_unnamed28129_08a58445976e.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/a-key-source-of-kremlin-funds-/2rn8w8/554679217/h/oxgOuAB3u2bO11phj9EnMcVPYDNgZq7GHXF_xoAA3l0) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-28_vlcc-freight-pulse-amp-russia-flows_img_unnamed28129_08a58445976e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/a-key-source-of-kremlin-funds-/2rn8w8/554679217/h/oxgOuAB3u2bO11phj9EnMcVPYDNgZq7GHXF_xoAA3l0) | [Local Asset](assets/2025-11-28_vlcc-freight-pulse-amp-russia-flows_img_unnamed28129_08a58445976e.png)
 
 India has not completely halted purchases of Russian crude. November arrivals are on track to reach a multi-month high as refiners front-loaded purchases ahead of the U.S. sanctions deadline. However, the TSOP 21-day moving average of Russian flows has already declined from its late-October peak and is now trending lower following the U.S. measures on Rosneft and Lukoil, announced in late October and effective from[21 November](https://go.signalocean.com/e/983831/a-key-source-of-kremlin-funds-/2rn8w8/554679217/h/oxgOuAB3u2bO11phj9EnMcVPYDNgZq7GHXF_xoAA3l0). Together with the sanctions wind-down, this points to a sharp drop in arrivals from December onward. Although Indian refiners can still buy Russian crude from non-sanctioned intermediaries, several developments indicate that inflows are likely to continue falling, rather than stabilising or rebounding:
 
@@ -65,7 +65,7 @@ India has not completely halted purchases of Russian crude. November arrivals ar
 ![Market Chart 3](assets/2025-11-28_vlcc-freight-pulse-amp-russia-flows_img_unnamed28229_2d0eb8267ea2.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/namic-congestion-report-tanker/2rn8wn/554679217/h/oxgOuAB3u2bO11phj9EnMcVPYDNgZq7GHXF_xoAA3l0) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-28_vlcc-freight-pulse-amp-russia-flows_img_unnamed28229_2d0eb8267ea2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/namic-congestion-report-tanker/2rn8wn/554679217/h/oxgOuAB3u2bO11phj9EnMcVPYDNgZq7GHXF_xoAA3l0) | [Local Asset](assets/2025-11-28_vlcc-freight-pulse-amp-russia-flows_img_unnamed28229_2d0eb8267ea2.png)
 
 ### Wafr | Last 12m Avg: 13 Vessels
 
@@ -74,7 +74,7 @@ India has not completely halted purchases of Russian crude. November arrivals ar
 ![Market Chart 4](assets/2025-11-28_vlcc-freight-pulse-amp-russia-flows_img_unnamed28329_b394d300f7d5.png)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/namic-congestion-report-tanker/2rn8wn/554679217/h/oxgOuAB3u2bO11phj9EnMcVPYDNgZq7GHXF_xoAA3l0) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-28_vlcc-freight-pulse-amp-russia-flows_img_unnamed28329_b394d300f7d5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/namic-congestion-report-tanker/2rn8wn/554679217/h/oxgOuAB3u2bO11phj9EnMcVPYDNgZq7GHXF_xoAA3l0) | [Local Asset](assets/2025-11-28_vlcc-freight-pulse-amp-russia-flows_img_unnamed28329_b394d300f7d5.png)
 
 **VLCC**[**Congestion**](https://go.signalocean.com/e/983831/namic-congestion-report-tanker/2rn8wn/554679217/h/oxgOuAB3u2bO11phj9EnMcVPYDNgZq7GHXF_xoAA3l0)**| Discharge China +11% WoW**
 
@@ -83,7 +83,7 @@ India has not completely halted purchases of Russian crude. November arrivals ar
 ![Market Chart 5](assets/2025-11-28_vlcc-freight-pulse-amp-russia-flows_img_unnamed28429_27e1bc612512.png)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/000026-html-fr-sycsrp-catchall/2rn8wr/554679217/h/oxgOuAB3u2bO11phj9EnMcVPYDNgZq7GHXF_xoAA3l0) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-28_vlcc-freight-pulse-amp-russia-flows_img_unnamed28429_27e1bc612512.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/000026-html-fr-sycsrp-catchall/2rn8wr/554679217/h/oxgOuAB3u2bO11phj9EnMcVPYDNgZq7GHXF_xoAA3l0) | [Local Asset](assets/2025-11-28_vlcc-freight-pulse-amp-russia-flows_img_unnamed28429_27e1bc612512.png)
 
 ### Macro Elements
 

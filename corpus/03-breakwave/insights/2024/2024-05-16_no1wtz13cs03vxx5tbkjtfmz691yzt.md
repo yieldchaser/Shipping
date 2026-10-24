@@ -27,12 +27,12 @@ This week, in the East, we discuss falling VLCC utilisation to China and record-
 ![Στιγμιότυπο Οθόνης 2024 05 16 101526](assets/2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8f708ad8bd0.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 16 101526**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTG7S3KxNN7We8o279n0hYBSzpH0bJx3PqAE0_ScUV45VTfXJtSti8T1AxVXWXn9CnUPGX4r4=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8f708ad8bd0.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTG7S3KxNN7We8o279n0hYBSzpH0bJx3PqAE0_ScUV45VTfXJtSti8T1AxVXWXn9CnUPGX4r4=) | [Local Asset](assets/2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8f708ad8bd0.png)
 
 ![Στιγμιότυπο Οθόνης 2024 05 16 101708](assets/2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_efa8e659cc50.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 05 16 101708**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTG7S3KxNN7We8o279n0hYBSzpH0bJx3PqAE0_ScUV45VTfXJtSti8T1AxVXWXn9CnUPGX4r4=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_efa8e659cc50.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTG7S3KxNN7We8o279n0hYBSzpH0bJx3PqAE0_ScUV45VTfXJtSti8T1AxVXWXn9CnUPGX4r4=) | [Local Asset](assets/2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_efa8e659cc50.png)
 
 - China’s crude oil demand is slowing down amidst declining refinery run rates among Shandong teapot refiners and the Yulong startup delay.[Crude/condensate exports to China (excl. Iran)](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTG7S3KxNN7We8o279n0hYBSzpH0bJx3PqAE0_ScUV45VTfXJtSti8T1AxVXWXn9CnUPGX4r4=)are sitting at 7.8mbd (May-24 days 1-12), a 1.3mb decline m-o-m.
 
@@ -42,7 +42,7 @@ This week, in the East, we discuss falling VLCC utilisation to China and record-
 ![Στιγμιότυπο Οθόνης 2024 05 16 101904](assets/2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fa0fa54ad5ee.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 05 16 101904**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTG7S3K8eblCDuA9lRG1SXfP3apYa6RLHgEGc9TS5QgtEaZ8p7M_wPjV8Cv4E19fMtgUIGbbY=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fa0fa54ad5ee.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTG7S3K8eblCDuA9lRG1SXfP3apYa6RLHgEGc9TS5QgtEaZ8p7M_wPjV8Cv4E19fMtgUIGbbY=) | [Local Asset](assets/2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fa0fa54ad5ee.png)
 
 - The contribution of Cape of Good Hope (COGH) re-routings to LR2 global demand continues to[increase](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTG7S3K8eblCDuA9lRG1SXfP3apYa6RLHgEGc9TS5QgtEaZ8p7M_wPjV8Cv4E19fMtgUIGbbY=), surpassing 50% for the month of April. This has assisted in bringing[LR2 global tonne-miles](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTG7S3LmBcmY0GoMoCbHX1yuJfW7eAbHA-akPc1LDEBnPeDY7mjSJWBKX6MqKnYAphe5P0YLc=)to record highs.
 
@@ -52,7 +52,7 @@ This week, in the East, we discuss falling VLCC utilisation to China and record-
 ![Στιγμιότυπο Οθόνης 2024 05 16 102012](assets/2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e20f20d79d82.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 05 16 102012**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTG7S3K97xYzZ1FN0gIzkKzW4P7NihkTUL-KhxlhdWw0-Omu0gpSrHV5HITesloH7jGIdg2Pk=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e20f20d79d82.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTG7S3K97xYzZ1FN0gIzkKzW4P7NihkTUL-KhxlhdWw0-Omu0gpSrHV5HITesloH7jGIdg2Pk=) | [Local Asset](assets/2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e20f20d79d82.png)
 
 - With the TMX opening, Westridge Terminal- which currently loads 2-3 Aframaxes a month - is expected to load around 30-40 Aframaxes a month. To demonstrate a realistic scenario, we looked at this from the perspective of potential monthly exports out of Vancouver. We believe 12 to 16 Aframaxes loaded per month are more likely in terms of seaborne exports (~300 kbd).
 
@@ -62,7 +62,7 @@ This week, in the East, we discuss falling VLCC utilisation to China and record-
 ![Στιγμιότυπο Οθόνης 2024 05 16 102159](assets/2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c36b8f75ce05.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 05 16 102159**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTG7S3LnuBqBMAA6ZjEZ8-eQq9cER5cOfimRaXb_xjTKbnoJdrt4deQPRJRFGjWuDQQ1F6OqI=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c36b8f75ce05.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTG7S3LnuBqBMAA6ZjEZ8-eQq9cER5cOfimRaXb_xjTKbnoJdrt4deQPRJRFGjWuDQQ1F6OqI=) | [Local Asset](assets/2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c36b8f75ce05.png)
 
 - Transatlantic MR demand is muted, despite hopes of a seasonal pick-up in PADD 1 gasoline demand as the summer driving season approaches.[MR tonne-mile demand](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTG7S3LnuBqBMAA6ZjEZ8-eQq9cER5cOfimRaXb_xjTKbnoJdrt4deQPRJRFGjWuDQQ1F6OqI=)on this route is currently well below seasonal norms and slightly below last year’s level. PADD 1 gasoline stocks are currently at the bottom of the five-year range (EIA). However, the arbitrage for gasoline to PADD 1 via the Colonial Pipeline is open, suggesting that if PADD 1 does build stocks in the near-future it will mostly be with pipeline volumes.
 

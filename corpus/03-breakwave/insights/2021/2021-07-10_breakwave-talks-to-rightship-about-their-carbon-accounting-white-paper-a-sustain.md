@@ -28,7 +28,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-07-10_breakwave-talks-to-ri
 
 > **Figure 1: Leading Maritime Risk and Due Diligence Firm Rightship Has Been**  
 > *Leading maritime risk and due diligence firm RightShip has been looking closely at the tools required for the industry to meet IMO emissions reductions targets. It recently completed research into the potential impact of Carbon Accounting. The many insights can be found in the company’s white paper:A Sustainable Road Map.*  
-> **Interactive Data & Source:** [Explore Rightship](https://explore.rightship.com/A_Sustainable_Roadmap) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_rightship_a64f85dd57c6.jpg)
+> **Interactive Data & Source:** [Explore Rightship](https://explore.rightship.com/A_Sustainable_Roadmap) | [Local Asset](assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_rightship_a64f85dd57c6.jpg)
 
 There is much industry discussion taking place regarding the feasibility of meeting IMO 2030 and 2050 emissions reduction targets.
 
@@ -47,17 +47,17 @@ Carbon Accounting insights include Cargo and voyage EEOI spread, emissions per c
 ![A1.jpg](assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a1jpg_409eb9ee54a4.png)
 
 > **Figure 2: A1.jpg**  
-> **Interactive Data & Source:** [Explore Rightship](https://explore.rightship.com/A_Sustainable_Roadmap) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a1jpg_409eb9ee54a4.png)
+> **Interactive Data & Source:** [Explore Rightship](https://explore.rightship.com/A_Sustainable_Roadmap) | [Local Asset](assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a1jpg_409eb9ee54a4.png)
 
 ![A2](assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a2_2c1ef9810170.png)
 
 > **Figure 3: A2**  
-> **Interactive Data & Source:** [Explore Rightship](https://explore.rightship.com/A_Sustainable_Roadmap) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a2_2c1ef9810170.png)
+> **Interactive Data & Source:** [Explore Rightship](https://explore.rightship.com/A_Sustainable_Roadmap) | [Local Asset](assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a2_2c1ef9810170.png)
 
 ![A3](assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a3_b918a23586ad.png)
 
 > **Figure 4: A3**  
-> **Interactive Data & Source:** [Explore Rightship](https://explore.rightship.com/A_Sustainable_Roadmap) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a3_b918a23586ad.png)
+> **Interactive Data & Source:** [Explore Rightship](https://explore.rightship.com/A_Sustainable_Roadmap) | [Local Asset](assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a3_b918a23586ad.png)
 
 Within the white paper, RightShip also considers world events and their impact on shipping, these include Covid-19 disruption, the rise of responsible lending and stakeholder expectations.
 
@@ -66,13 +66,13 @@ A key component of the white paper is a case study from RightShip customer Ixom 
 ![A4](assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a4_12617c81d57b.png)
 
 > **Figure 5: A4**  
-> **Interactive Data & Source:** [Explore Rightship](https://explore.rightship.com/A_Sustainable_Roadmap) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a4_12617c81d57b.png)
+> **Interactive Data & Source:** [Explore Rightship](https://explore.rightship.com/A_Sustainable_Roadmap) | [Local Asset](assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a4_12617c81d57b.png)
 
 ![Download Rightship’s White Papera Sustainable Road Map](assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a5_63465fd11979.png)
 
 > **Figure 6: Download Rightship’s White Papera Sustainable Road Map**  
 > *Download RightShip’s white paperA Sustainable Road Map*  
-> **Interactive Data & Source:** [Explore Rightship](https://explore.rightship.com/A_Sustainable_Roadmap) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a5_63465fd11979.png)
+> **Interactive Data & Source:** [Explore Rightship](https://explore.rightship.com/A_Sustainable_Roadmap) | [Local Asset](assets/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustain_img_a5_63465fd11979.png)
 
 RightShip points out that this is a clear example of how companies can reduce their emissions through strategic data assessment and accounting, while also improving operational efficiency, and therefore, the company’s bottom line.
 

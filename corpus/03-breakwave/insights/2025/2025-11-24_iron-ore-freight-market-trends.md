@@ -34,7 +34,7 @@ This week’s analysis examines iron ore freight market trends with a special fo
 ![Market Chart 1](assets/2025-11-24_iron-ore-freight-market-trends_img_unnamed_76ffc816a725.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-24_iron-ore-freight-market-trends_img_unnamed_76ffc816a725.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-11-24_iron-ore-freight-market-trends_img_unnamed_76ffc816a725.png)
 
 Atlantic Capesize sentiment has strengthened despite high ballast supply, while the Pacific C5 route has softened as November shipments from West Australia decline. At the same time, Brazil’s iron-ore share in China faces its first serious competitive threat in years with the long-anticipated emergence of Simandou. These market shifts are occurring alongside important changes in China’s procurement strategy. The state-backed China Mineral Resources Group has expanded its ban on select BHP iron-ore products as contract negotiations stall, signaling that Beijing is asserting greater procurement leverage.
 
@@ -45,7 +45,7 @@ Over the past month, Atlantic Capesize sentiment has firmed as the ballaster sup
 ![Market Chart 2](assets/2025-11-24_iron-ore-freight-market-trends_img_unnamed28129_d476e5ab7bc4.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-24_iron-ore-freight-market-trends_img_unnamed28129_d476e5ab7bc4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-11-24_iron-ore-freight-market-trends_img_unnamed28129_d476e5ab7bc4.png)
 
 ### West Australia Capesize Daily Volume Loaded
 
@@ -54,7 +54,7 @@ In the Pacific, C5 sentiment has softened as November’s West Australian daily 
 ![Market Chart 3](assets/2025-11-24_iron-ore-freight-market-trends_img_unnamed28229_3be45953f3ea.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-24_iron-ore-freight-market-trends_img_unnamed28229_3be45953f3ea.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-11-24_iron-ore-freight-market-trends_img_unnamed28229_3be45953f3ea.png)
 
 The key question is no longer whether Simandou will matter, but how quickly new supply corridors will alter medium and long-term capesize freight demand and vessel utilisation.
 

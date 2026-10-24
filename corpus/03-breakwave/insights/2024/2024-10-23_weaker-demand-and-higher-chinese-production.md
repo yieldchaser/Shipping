@@ -65,7 +65,7 @@ In absolute terms, the lower Indian demand has seen volumes from Indonesia decre
 ![Στιγμιότυπο Οθόνης 2024 10 23 154653](assets/2024-10-23_weaker-demand-and-higher-chinese-production_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2e9a9020bb1f.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 23 154653**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-23_weaker-demand-and-higher-chinese-production_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2e9a9020bb1f.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-10-23_weaker-demand-and-higher-chinese-production_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2e9a9020bb1f.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

@@ -12,11 +12,11 @@
 
 ### Official Governance & Sourcing Hierarchy:
 1. **Historical Monthly Source of Truth (Tier 1):**
-   - **Monthly CFTC Rule 4.22(h) Account Statements** ([`data/cftc_statements/parsed/`](file:///C:/Users/Dell/Github/Shipping/data/cftc_statements/parsed/)).
+   - **Monthly CFTC Rule 4.22(h) Account Statements** ([`data/cftc_statements/parsed/`](../data/cftc_statements/parsed)).
    - Sourced directly from Amplify CPO disclosures (100 statements for BDRY, 38 for BWET).
    - Source of truth for historical monthly shares outstanding, closing net assets, gross cash income, itemized expenses, CTA fee waivers, realized futures P&L, change in unrealized futures P&L, and net creation/redemption capital flows.
 2. **Independent Quarterly Cross-Checks (Tier 2):**
-   - **SEC Form 10-Q / Form 10-K Filings** ([`docs/BDRY-BWET_Form10-Q_March-31-2026.pdf`](file:///C:/Users/Dell/Github/Shipping/docs/BDRY-BWET_Form10-Q_March-31-2026.pdf)).
+   - **SEC Form 10-Q / Form 10-K Filings** ([`docs/BDRY-BWET_Form10-Q_March-31-2026.pdf`](BDRY-BWET_Form10-Q_March-31-2026.pdf)).
    - Quarterly balance sheets, schedule of investments, and 3-month statements of operations cross-check against CFTC monthly statement sums with **$0.00 discrepancy** across ending NAV, shares, and net income.
 3. **Current Dated Scenario Sensitivity (Tier 3):**
    - **Official Fund Page Shares & Disclosed Holdings:**
@@ -57,7 +57,7 @@
 
 ## 3. Atomic SEC Form 10-Q Dynamic Verification (March 31, 2026)
 
-Tested dynamically from atomic triples $(\text{Lots}_i, \text{Mark}_i, \text{Multiplier}_i)$ in [`scripts/test_10q_dynamic_engine.py`](file:///C:/Users/Dell/Github/Shipping/scripts/test_10q_dynamic_engine.py):
+Tested dynamically from atomic triples $(\text{Lots}_i, \text{Mark}_i, \text{Multiplier}_i)$ in [`scripts/test_10q_dynamic_engine.py`](../scripts/test_10q_dynamic_engine.py):
 
 | Balance Sheet / Schedule Metric | BDRY (Dry Bulk) | BWET (Tankers) | Engine Calculation Status |
 | :--- | :--- | :--- | :--- |

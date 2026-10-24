@@ -26,18 +26,18 @@ As we discussed in Commodore's most recent Weekly China Report, China’s clothi
 ![Chart 1 (74)](assets/2023-08-30_weakness-in-chinese-retail-sales_img_chart1287429_0d6179a4d026.jpg)
 
 > **Figure 1: Chart 1 (74)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-30_weakness-in-chinese-retail-sales_img_chart1287429_0d6179a4d026.jpg)
+> [Local Asset](assets/2023-08-30_weakness-in-chinese-retail-sales_img_chart1287429_0d6179a4d026.jpg)
 
 Furniture sales in China fell year-on-year by 6%. Sales have now contracted on a year-on-year basis for four straight months. Prior to these last four months, furniture sales had grown on a year-on-year basis for three straight months.
 
 ![Chart 2 (63)](assets/2023-08-30_weakness-in-chinese-retail-sales_img_chart2286329_6fc0774c7f9d.jpg)
 
 > **Figure 2: Chart 2 (63)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-30_weakness-in-chinese-retail-sales_img_chart2286329_6fc0774c7f9d.jpg)
+> [Local Asset](assets/2023-08-30_weakness-in-chinese-retail-sales_img_chart2286329_6fc0774c7f9d.jpg)
 
 Household appliance sales (which includes consumer electronics) in China fell on a year-on-year basis by 10%. Sales have now contracted during ten of the last eleven months.
 
 ![Chart 3 (45)](assets/2023-08-30_weakness-in-chinese-retail-sales_img_chart3284529_7ba1b6eb2af6.jpg)
 
 > **Figure 3: Chart 3 (45)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-30_weakness-in-chinese-retail-sales_img_chart3284529_7ba1b6eb2af6.jpg)
+> [Local Asset](assets/2023-08-30_weakness-in-chinese-retail-sales_img_chart3284529_7ba1b6eb2af6.jpg)

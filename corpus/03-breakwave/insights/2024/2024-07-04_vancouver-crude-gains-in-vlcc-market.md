@@ -27,12 +27,12 @@ This week, in the East, we discuss the outlook for Chinese crude demand as China
 ![Στιγμιότυπο Οθόνης 2024 07 04 115725](assets/2024-07-04_vancouver-crude-gains-in-vlcc-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c6a90af2b6b8.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 04 115725**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUGCLCDN3oEEYYRsrJOazGz9Ns6GSymWCr5h4P0Q_7E6xzObjytHSsjjQd0YrfLOQ5MC-So74=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-04_vancouver-crude-gains-in-vlcc-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c6a90af2b6b8.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUGCLCDN3oEEYYRsrJOazGz9Ns6GSymWCr5h4P0Q_7E6xzObjytHSsjjQd0YrfLOQ5MC-So74=) | [Local Asset](assets/2024-07-04_vancouver-crude-gains-in-vlcc-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c6a90af2b6b8.png)
 
 ![Στιγμιότυπο Οθόνης 2024 07 04 115736](assets/2024-07-04_vancouver-crude-gains-in-vlcc-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4f75595bb0db.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 07 04 115736**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUGCLCDN3oEEYYRsrJOazGz9Ns6GSymWCr5h4P0Q_7E6xzObjytHSsjjQd0YrfLOQ5MC-So74=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-04_vancouver-crude-gains-in-vlcc-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4f75595bb0db.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUGCLCDN3oEEYYRsrJOazGz9Ns6GSymWCr5h4P0Q_7E6xzObjytHSsjjQd0YrfLOQ5MC-So74=) | [Local Asset](assets/2024-07-04_vancouver-crude-gains-in-vlcc-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4f75595bb0db.png)
 
 - China-bound VLCC freight rates ([TD3C](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUGCLCDN3oEEYYRsrJOazGz9Ns6GSymWCr5h4P0Q_7E6xzObjytHSsjjQd0YrfLOQ5MC-So74=),[TD15](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUGCLCDksYiACwq5xX7IYAMJYZimVBMC3_39lRb-QKcowmt5g-e-VURlKg0-KZUmUE9R1ji4c=),[TD22](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUGCLCDi9O6q7w4XHUhyNbHScorN8FKAS5KuFFbg0OVf6yKf_mWSUutkGgBGMSxIpZbAIeSIQ=)) have been declining since mid-May, reaching year-to-date lows on July 1st.
 
@@ -42,7 +42,7 @@ This week, in the East, we discuss the outlook for Chinese crude demand as China
 ![Στιγμιότυπο Οθόνης 2024 07 04 120009](assets/2024-07-04_vancouver-crude-gains-in-vlcc-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8a86b0937530.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 07 04 120009**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUGCLCDoHeSNguzQu1EMe7PPFHHMRZQawvCjVicubvy_bIaELpkw0B03WzGzdGnPMFyUUUJdo=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-04_vancouver-crude-gains-in-vlcc-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8a86b0937530.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUGCLCDoHeSNguzQu1EMe7PPFHHMRZQawvCjVicubvy_bIaELpkw0B03WzGzdGnPMFyUUUJdo=) | [Local Asset](assets/2024-07-04_vancouver-crude-gains-in-vlcc-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8a86b0937530.png)
 
 - According to our data, there[are 14 Suezmaxes](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUGCLCDoHeSNguzQu1EMe7PPFHHMRZQawvCjVicubvy_bIaELpkw0B03WzGzdGnPMFyUUUJdo=)which either have or are in the process of switching from carrying dirty to clean cargoes in 2024. These tankers are involved in voyages predominantly originating from the East of Suez (mainly Middle East and India) and destined towards the West of Suez.
 
@@ -52,7 +52,7 @@ This week, in the East, we discuss the outlook for Chinese crude demand as China
 ![Στιγμιότυπο Οθόνης 2024 07 04 120202](assets/2024-07-04_vancouver-crude-gains-in-vlcc-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_056c276684f0.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 07 04 120202**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUGCLCDHNKFQadwKFpqGNWQnr9spF6oB6VjAO_9a5SyAOTOg4tOHwhdE4vH19X5VWMnVXC-ik=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-04_vancouver-crude-gains-in-vlcc-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_056c276684f0.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUGCLCDHNKFQadwKFpqGNWQnr9spF6oB6VjAO_9a5SyAOTOg4tOHwhdE4vH19X5VWMnVXC-ik=) | [Local Asset](assets/2024-07-04_vancouver-crude-gains-in-vlcc-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_056c276684f0.png)
 
 - With the ramp up of TMX and increased Aframax loadings at Westridge Terminal in Vancouver, reverse lightering of VLCCs for direct voyages to Asia is increasingly common. This allows for charterers to take advantage of economies of scale, as well as being an efficient use of Aframax tonnage as the VLCCs are loaded at the Pacific Lightering Zone (PLZ), only a short-haul voyage from Vancouver.
 
@@ -62,7 +62,7 @@ This week, in the East, we discuss the outlook for Chinese crude demand as China
 ![Στιγμιότυπο Οθόνης 2024 07 04 120222](assets/2024-07-04_vancouver-crude-gains-in-vlcc-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1dc942a9c37d.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 07 04 120222**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUGCLCDkEtwsETU9NpzvcBajFWZ5FClRlXZS2BYs-kDiODqEsvuO1dBwS7iYX7p0kAWGOm8Ac=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-04_vancouver-crude-gains-in-vlcc-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1dc942a9c37d.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUGCLCDkEtwsETU9NpzvcBajFWZ5FClRlXZS2BYs-kDiODqEsvuO1dBwS7iYX7p0kAWGOm8Ac=) | [Local Asset](assets/2024-07-04_vancouver-crude-gains-in-vlcc-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1dc942a9c37d.png)
 
 - Drone strikes on Russian refineries plus regular seasonal maintenance ushered in a marked reduction in CPP exports out of Russian since March. Focusing on diesel, Russia’s most profitable CPP export,[volumes remain low](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUGCLCDkEtwsETU9NpzvcBajFWZ5FClRlXZS2BYs-kDiODqEsvuO1dBwS7iYX7p0kAWGOm8Ac=)since refinery attacks (June exports were 22% lower y-o-y). This has translated to a decline in voyage counts for MRs carrying Russian diesel, which have consistently remained below last year’s levels. Voyage counts fell further in June, which also coincides with[falling demand for Russian diesel from Turkey](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUGCLCDrXw0Cvpkn3IpMahtNVjGzN1Uz7Ki-IsakZFvyWE80VjlTDOVNXWLgVyFmV0mMVNvWA=).
 

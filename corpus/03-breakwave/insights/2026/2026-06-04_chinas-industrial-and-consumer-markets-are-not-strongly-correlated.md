@@ -27,7 +27,7 @@ As we discussed in Commodore Research's most recent Weekly Executive Report, ret
 ![Chart 1](assets/2026-06-04_chinas-industrial-and-consumer-markets-are-not-strongly-correlated_img_chart1_e5b6d2e68c92.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-04_chinas-industrial-and-consumer-markets-are-not-strongly-correlated_img_chart1_e5b6d2e68c92.jpg)
+> [Local Asset](assets/2026-06-04_chinas-industrial-and-consumer-markets-are-not-strongly-correlated_img_chart1_e5b6d2e68c92.jpg)
 
 We have been examining the deterioration in China’s consumer market closely in our weekly reports (significant is that a year ago, retail sales growth adjusted for inflation set a peak of a robust 6.5%) but each month we have also made sure to stress that our bullishness for Chinese dry bulk import demand has stayed the same regardless of the deterioration in the consumer market. This view has been proven correct, and we cannot stress strongly enough that a strong dry bulk market can coexist at the same time that China’s consumer market is struggling.
 
@@ -36,14 +36,14 @@ The fact remains that China’s industrial and consumer markets are not extremel
 ![Chart 2](assets/2026-06-04_chinas-industrial-and-consumer-markets-are-not-strongly-correlated_img_chart2_7f62e1204451.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-04_chinas-industrial-and-consumer-markets-are-not-strongly-correlated_img_chart2_7f62e1204451.jpg)
+> [Local Asset](assets/2026-06-04_chinas-industrial-and-consumer-markets-are-not-strongly-correlated_img_chart2_7f62e1204451.jpg)
 
 China’s bauxite imports have been even stronger this year, with imports so far up year-on-year by 15%.
 
 ![Chart 3](assets/2026-06-04_chinas-industrial-and-consumer-markets-are-not-strongly-correlated_img_chart3_2c98d2c91e64.jpg)
 
 > **Figure 3: Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-04_chinas-industrial-and-consumer-markets-are-not-strongly-correlated_img_chart3_2c98d2c91e64.jpg)
+> [Local Asset](assets/2026-06-04_chinas-industrial-and-consumer-markets-are-not-strongly-correlated_img_chart3_2c98d2c91e64.jpg)
 
 ---
 

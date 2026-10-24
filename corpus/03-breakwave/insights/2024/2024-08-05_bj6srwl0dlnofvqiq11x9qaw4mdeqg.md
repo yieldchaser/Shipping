@@ -27,14 +27,14 @@ China's Purchasing Managers' Index (PMI) for the steel industry fell for the sec
 ![Στιγμιότυπο Οθόνης 2024 08 05 131548](assets/2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f471a01ef740.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 08 05 131548**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f471a01ef740.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f471a01ef740.png)
 
 In June, China's steel production remained on an uptrend and was still not showing any signs of slowing down, data from the National Bureau of Statistics showed mid-July, a trend that remains solid despite weak demand in the construction sector. Pig iron production in June was 3.3 percent lower year-on-year at 74.49 million tonnes, while crude steel output was 0.2 percent higher year-on-year at 91.61 million tonnes. Daily pig iron and crude steel outputs increased by 1.1 percent and 1.9 percent month-on-month, respectively, to 2.483 million tonnes and 3.054 million tonnes. These figures represent the highest daily pig iron output since July 2023 and the highest daily crude steel output since April 2023. For the first half of 2024, pig iron and crude steel outputs fell by 3.6 percent and 1.1 percent year-on-year to 435.62 million tonnes and 530.57 million tonnes, respectively.
 
 ![Στιγμιότυπο Οθόνης 2024 08 05 131733](assets/2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4aefbbddc05d.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 08 05 131733**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4aefbbddc05d.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4aefbbddc05d.png)
 
 The combination of robust production and sluggish demand has led to increased inventories. As of July 10, rebar and hot rolled coil inventories at major spot markets monitored by CISA rose to 4.68 million tonnes and 2.37 million tonnes, up 10.9 percent and 15.1 percent from the same period in 2023. Additionally, in the first two months of 2024, Chinese steel exports surged by 32.6 percent year-on-year to 15.9 million tonnes, the highest level for this period since 2016. Analysts believe Chinese steel exports are on track to match or exceed last year’s levels, which saw exports rise to about 90 million tonnes – the highest in seven years – as China struggles to stimulate its economy and initial efforts to reduce production appear insufficient. Reflecting this trend, steel exports increased by 24 percent year-on-year in January-June to 53.4 million tonnes, with the annual total likely approaching the record high of 110 million tonnes set in 2015.
 
@@ -45,7 +45,7 @@ The current state of the Chinese steel industry – characterized by waning dome
 ![Στιγμιότυπο Οθόνης 2024 08 05 132117](assets/2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_73d089456fce.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 08 05 132117**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_73d089456fce.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_73d089456fce.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

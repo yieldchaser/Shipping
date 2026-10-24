@@ -33,7 +33,7 @@ New sanctions were announced today, including from the US government, but the US
 ![Unsplash Image 1dgms4hhcva](assets/2022-02-25_russia-ukraine-update_img_unsplash-image-1dgms4hhcva_7108898ce38f.jpg)
 
 > **Figure 1: Unsplash Image 1dgms4hhcva**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-25_russia-ukraine-update_img_unsplash-image-1dgms4hhcva_7108898ce38f.jpg)
+> [Local Asset](assets/2022-02-25_russia-ukraine-update_img_unsplash-image-1dgms4hhcva_7108898ce38f.jpg)
 
 Two of the very best case scenarios to allow status quo to largely return to the financial and commodity markets is if Russia gives up (which is unlikely), or if the conflict ends very quickly with Russia taking two territories (Donetsk and Luhansk) as peacefully as possible. Years ago when Russia invaded and annexed Crimea in 2014, the annexation was at first shocking but the world moved on. NATO, the United States, the United Nations etc. did not intervene militarily -- and so far it appears that this will also be the case with Donetsk and Luhansk. It is a bit of a deja vu to see Russia again forcibly working to expand territory, and there being intense global outcry (and sanctions) but little else. Mockingly, some are again referring to NATO as "No Action Talk Only".
 

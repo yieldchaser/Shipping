@@ -67,7 +67,7 @@ Demand for transportation of the dirtiest of fossil fuels to India usually sees 
 ![Στιγμιότυπο Οθόνης 2024 09 20 165917](assets/2024-09-20_iron-ore-one-of-the-better-performers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33d969af3592.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 20 165917**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-20_iron-ore-one-of-the-better-performers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33d969af3592.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-09-20_iron-ore-one-of-the-better-performers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33d969af3592.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

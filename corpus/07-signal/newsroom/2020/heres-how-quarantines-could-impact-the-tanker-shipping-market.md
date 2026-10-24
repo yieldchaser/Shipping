@@ -38,7 +38,7 @@ What if the whole world — or a large part of the world — started imposing su
 
 > **Figure 1: “partial Quarantine”= a 14 Day Quarantine Imposed Only on Vessels Which Originated in Japan, Korea, Iran, France, Germany, Spain, the U.s.a, Singapore, and Italy**  
 > *“Partial Quarantine”= a 14 day quarantine imposed only on vessels which originated in Japan, Korea, Iran, France, Germany, Spain, the U.S.A, Singapore, and Italy. “Global Quarantine” = all vessels subject to quarantine, regardless of origin.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/heres-how-quarantines-could-impact-the-tanker-shipping-market) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b5209a515a6ee9692e2ce3_5fc15be53f2172a18875e44a_voyage%20durations%20per%20vessel%20class%20during%20covid.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/heres-how-quarantines-could-impact-the-tanker-shipping-market) | [Local Asset](../../images/66b5209a515a6ee9692e2ce3_5fc15be53f2172a18875e44a_voyage%20durations%20per%20vessel%20class%20during%20covid.avif)
 
 VLCCs, which typically have ballast or laden legs exceeding 14 days, would be minimally affected by the imposition of both a partial and a global quarantine.
 
@@ -54,7 +54,7 @@ Countries where volumes are high and short laden legs originate would contribute
 
 > **Figure 2: Here Are the Countries That Would Account for the Greatest Percentage Increase in Total Voyage Duration Across All Vessel Classes, Should They Be Included in a 14-Day Quarantine Scenario**  
 > *Here are the countries that would account for the greatest percentage increase in total voyage duration across all vessel classes, should they be included in a 14-day quarantine scenario. For example, a quarantine applied to voyages originating in Russia would alone account for a 4.72% increase in total voyage duration.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/heres-how-quarantines-could-impact-the-tanker-shipping-market) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b5209a515a6ee9692e2cdf_5fc15be53f2172872e75e44b_voyage%20durations%20per%20vessel%20class%20during%20covid%20per%20country.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/heres-how-quarantines-could-impact-the-tanker-shipping-market) | [Local Asset](../../images/66b5209a515a6ee9692e2cdf_5fc15be53f2172872e75e44b_voyage%20durations%20per%20vessel%20class%20during%20covid%20per%20country.avif)
 
 
 ## Additional Commercial Impacts of Quarantines

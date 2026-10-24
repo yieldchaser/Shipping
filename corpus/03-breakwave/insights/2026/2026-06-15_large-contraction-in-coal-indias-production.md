@@ -27,21 +27,21 @@ As we discussed in Commodore Research's most recent Weekly Executive Report, Coa
 ![Chart 1](assets/2026-06-15_large-contraction-in-coal-indias-production_img_chart1_c253be084d4f.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-15_large-contraction-in-coal-indias-production_img_chart1_c253be084d4f.jpg)
+> [Local Asset](assets/2026-06-15_large-contraction-in-coal-indias-production_img_chart1_c253be084d4f.jpg)
 
 Offtake (the amount sent to customers) totaled 66.7 million tons. This is up month-on-month by 3.5 million tons (6%) and is up year-on-year by 2.7 million tons (4%). Previously, offtake had contracted on a year-on-year basis in seven of the prior eight months.
 
 ![Chart 2](assets/2026-06-15_large-contraction-in-coal-indias-production_img_chart2_572db46cbcc1.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-15_large-contraction-in-coal-indias-production_img_chart2_572db46cbcc1.jpg)
+> [Local Asset](assets/2026-06-15_large-contraction-in-coal-indias-production_img_chart2_572db46cbcc1.jpg)
 
 With offtake again coming in above output, India’s stockpiles have fallen further. They now stand at approximately 130 million tons. This is down month-on-month by 11 million tons (-8%) but up year-on-year by 17 million tons (15%). Prior to the last two months, stockpiles had increased for five straight months.
 
 ![Chart 3](assets/2026-06-15_large-contraction-in-coal-indias-production_img_chart3_7e53e091cdc1.jpg)
 
 > **Figure 3: Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-15_large-contraction-in-coal-indias-production_img_chart3_7e53e091cdc1.jpg)
+> [Local Asset](assets/2026-06-15_large-contraction-in-coal-indias-production_img_chart3_7e53e091cdc1.jpg)
 
 ---
 

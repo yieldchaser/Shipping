@@ -33,7 +33,7 @@ This week’s chart highlights a notable decline in the quarterly vessel count f
 ![Στιγμιότυπο Οθόνης 2024 10 04 140923](assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9de8fd49ad0f.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 04 140923**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/bal-supply-outlook-2024-10-03-/2qlxqd/440544554/h/A1advEfbuIfWpdrwK1jtqd6NH62oBW5cq3vrMkjSByY) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9de8fd49ad0f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/bal-supply-outlook-2024-10-03-/2qlxqd/440544554/h/A1advEfbuIfWpdrwK1jtqd6NH62oBW5cq3vrMkjSByY) | [Local Asset](assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9de8fd49ad0f.png)
 
 The first days of October are marked by the latest wave of Middle Eastern geopolitical tensions, which have raised concerns over a potential increase in oil prices as the region edges toward a wider conflict. Market participants are increasingly anxious about the near-term outlook for oil prices, especially as risks in key maritime routes heighten. A particularly significant threat comes from Houthi attacks in the Red Sea, which continue to disrupt seaborne oil trading. The number of vessels transiting the Red Sea has noticeably declined, reflecting mounting apprehensions over the safety of shipments through this crucial waterway.
 
@@ -44,7 +44,7 @@ However, the situation remains highly fluid. Any further escalation in geopoliti
 ![Στιγμιότυπο Οθόνης 2024 10 04 141259](assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a8d30dd03cb1.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 04 141259**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a8d30dd03cb1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a8d30dd03cb1.png)
 
 ​​​​​Sentiment in the dirty freight market remained robust in early October, particularly for the VLCC AG-China route, with signs of an upward correction for the Aframax Mediterranean market.
 
@@ -55,28 +55,28 @@ However, the situation remains highly fluid. Any further escalation in geopoliti
 ![Στιγμιότυπο Οθόνης 2024 10 04 141358](assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_febec7effa33.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 10 04 141358**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_febec7effa33.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_febec7effa33.png)
 
 - **LR2**AG freight rates are currently around WS125, reflecting a 9% increase over the past month. These rates are holding steady and appear to be firmer than the levels seen in the first half of the previous month.
 
 ![Στιγμιότυπο Οθόνης 2024 10 04 141448](assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c9ae71811e76.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 10 04 141448**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c9ae71811e76.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c9ae71811e76.png)
 
 - **Panamax**Carib-to-USG rates have shown signs of increasing towards levels above WS140; however, early October data confirmed a decline from the end of September, with rates now falling below WS130. This represents a 14% decrease month-on-month.
 
 ![Στιγμιότυπο Οθόνης 2024 10 04 141626](assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e70bbf3ffc5d.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 10 04 141626**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e70bbf3ffc5d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e70bbf3ffc5d.png)
 
 - **MR1**rates for shipments from the Baltic to the continent experienced a significant downward revision in early October, dropping to nearly WS120. This marks a substantial 50% decrease compared to the previous month. Meanwhile,**MR2**rates for shipments from the Continent to the USAC fell WS90, indicating a 36% annual decrease. On the USG-Continent route,**MR2**rates rose to WS170, reflecting a 36% weekly decrease.
 
 ![Στιγμιότυπο Οθόνης 2024 10 04 141724](assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_84967d745fa9.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2024 10 04 141724**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_84967d745fa9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_84967d745fa9.png)
 
 ​​​​​​The supply of crude tankers continued its downward trend in early October, although there was a notable upward movement for the Aframax Mediterranean route.
 
@@ -88,12 +88,12 @@ However, the situation remains highly fluid. Any further escalation in geopoliti
 ![Στιγμιότυπο Οθόνης 2024 10 04 141856](assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ae98c89f4384.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2024 10 04 141856**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ae98c89f4384.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ae98c89f4384.png)
 
 ![Στιγμιότυπο Οθόνης 2024 10 04 141907](assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_38ae7b97e165.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2024 10 04 141907**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_38ae7b97e165.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_38ae7b97e165.png)
 
 - **Clean LR2 AG Jubail**: The upward trend observed in the final days of September has begun to surpass the annual average by 12, with an increase of 4 for the first week of October.
 
@@ -102,14 +102,14 @@ However, the situation remains highly fluid. Any further escalation in geopoliti
 ![Στιγμιότυπο Οθόνης 2024 10 04 142023](assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fdcd1f8b884b.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2024 10 04 142023**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fdcd1f8b884b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fdcd1f8b884b.png)
 
 - **Dirty**tonne days: The decline in VLCC tonne-days growth continued throughout September, extending the weakening trend into early October. In contrast, the Suezmax segment is showing steady signs of an upward trend. Despite the recent downturn in the VLCC segment, expectations remain bullish for the last quarter of the year, driven by anticipated winter seasonality.
 
 ![Στιγμιότυπο Οθόνης 2024 10 04 142124](assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a641a23eae73.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2024 10 04 142124**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a641a23eae73.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-10-04_dirty-tankers-red-sea_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a641a23eae73.png)
 
 - **Panamax**tonne days: The growth rate has now established an upward trend compared to the lows recorded at the end of Week 36. However, the recent pace remains significantly below the annual average.
 

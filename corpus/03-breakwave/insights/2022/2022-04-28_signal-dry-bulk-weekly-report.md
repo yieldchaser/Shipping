@@ -35,7 +35,7 @@ In the grain market, prices also posted firmer. Chicago wheat futures rose above
 ![Market Chart 1](assets/2022-04-28_signal-dry-bulk-weekly-report_img_unnamed281229_623b33821f48.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-28_signal-dry-bulk-weekly-report_img_unnamed281229_623b33821f48.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-04-28_signal-dry-bulk-weekly-report_img_unnamed281229_623b33821f48.png)
 
 The freight sentiment switched to negative for the last days of April, however, there are signs of revival in the Handysize segment following four weeks of successive declines.
 
@@ -51,7 +51,7 @@ The freight sentiment switched to negative for the last days of April, however, 
 ![Supply Trend Lines for Key Load Areas](assets/2022-04-28_signal-dry-bulk-weekly-report_img_unnamed281329_e7e5eef16547.png)
 
 > **Figure 2: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-28_signal-dry-bulk-weekly-report_img_unnamed281329_e7e5eef16547.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-04-28_signal-dry-bulk-weekly-report_img_unnamed281329_e7e5eef16547.png)
 
 The number of ballasters signals an increasing trend for all vessel size categories for the second consecutive week. Despite the sharp increase in the Supramax segment, both the Supramax and Handysize segments remain below the one-year average.
 
@@ -67,7 +67,7 @@ The number of ballasters signals an increasing trend for all vessel size categor
 ![Decreasing](assets/2022-04-28_signal-dry-bulk-weekly-report_img_unnamed281429_2cf390432353.png)
 
 > **Figure 3: Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-28_signal-dry-bulk-weekly-report_img_unnamed281429_2cf390432353.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-04-28_signal-dry-bulk-weekly-report_img_unnamed281429_2cf390432353.png)
 
 The overall trend of demand ton-days continues decreasing, with the Handysize and Panamax segments showing a clear downward direction, while signs of revival are seen in the Capesize segment since last week.
 
@@ -83,7 +83,7 @@ The overall trend of demand ton-days continues decreasing, with the Handysize an
 ![Dry Bulk Ships Congested at Chinese Ports](assets/2022-04-28_signal-dry-bulk-weekly-report_img_unnamed281529_8a97f5ee5626.png)
 
 > **Figure 4: Dry Bulk Ships Congested at Chinese Ports**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-28_signal-dry-bulk-weekly-report_img_unnamed281529_8a97f5ee5626.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-04-28_signal-dry-bulk-weekly-report_img_unnamed281529_8a97f5ee5626.png)
 
 Dry bulk ships in congestion recorded a further sharp increase following last week’s spike, stemming mainly from the Handysize segment, while the situation in the Panamax segment seems to have eased.
 

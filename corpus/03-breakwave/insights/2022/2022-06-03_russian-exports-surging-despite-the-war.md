@@ -28,7 +28,7 @@ Russian dry bulk export volumes during the early parts of the war were considera
 ![Ch1](assets/2022-06-03_russian-exports-surging-despite-the-war_img_ch1_87349fa7c58e.png)
 
 > **Figure 1: Ch1**  
-> **Interactive Data & Source:** [Blog Shipfix](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-6-fertilizer-trade-under-pressure) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-03_russian-exports-surging-despite-the-war_img_ch1_87349fa7c58e.png)
+> **Interactive Data & Source:** [Blog Shipfix](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-6-fertilizer-trade-under-pressure) | [Local Asset](assets/2022-06-03_russian-exports-surging-despite-the-war_img_ch1_87349fa7c58e.png)
 
 Source: Shipfix
 
@@ -37,7 +37,7 @@ Multiple factors are likely to be responsible for the recent surge. Many countri
 ![Ch2](assets/2022-06-03_russian-exports-surging-despite-the-war_img_ch2_90968ed81bac.png)
 
 > **Figure 2: Ch2**  
-> **Interactive Data & Source:** [Blog Shipfix](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-6-fertilizer-trade-under-pressure) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-03_russian-exports-surging-despite-the-war_img_ch2_90968ed81bac.png)
+> **Interactive Data & Source:** [Blog Shipfix](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-6-fertilizer-trade-under-pressure) | [Local Asset](assets/2022-06-03_russian-exports-surging-despite-the-war_img_ch2_90968ed81bac.png)
 
 Source: Shipfix
 
@@ -52,7 +52,7 @@ Russian exporters have also been able to profit from the rising prices of agricu
 ![Ch3](assets/2022-06-03_russian-exports-surging-despite-the-war_img_ch3_fc495353e8bf.png)
 
 > **Figure 3: Ch3**  
-> **Interactive Data & Source:** [Blog Shipfix](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-6-fertilizer-trade-under-pressure) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-03_russian-exports-surging-despite-the-war_img_ch3_fc495353e8bf.png)
+> **Interactive Data & Source:** [Blog Shipfix](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-6-fertilizer-trade-under-pressure) | [Local Asset](assets/2022-06-03_russian-exports-surging-despite-the-war_img_ch3_fc495353e8bf.png)
 
 Source: Shipfix
 
@@ -61,7 +61,7 @@ Thermal coal has been seen as fuel heading for the history books for some time. 
 ![Ch4](assets/2022-06-03_russian-exports-surging-despite-the-war_img_ch4_410d90cf0c7f.png)
 
 > **Figure 4: Ch4**  
-> **Interactive Data & Source:** [Blog Shipfix](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-6-fertilizer-trade-under-pressure) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-03_russian-exports-surging-despite-the-war_img_ch4_410d90cf0c7f.png)
+> **Interactive Data & Source:** [Blog Shipfix](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-6-fertilizer-trade-under-pressure) | [Local Asset](assets/2022-06-03_russian-exports-surging-despite-the-war_img_ch4_410d90cf0c7f.png)
 
 Source: Shipfix
 
@@ -70,7 +70,7 @@ As Shipfix discussed in a[previous blog post](https://blog.shipfix.com/market/sh
 ![Ch5](assets/2022-06-03_russian-exports-surging-despite-the-war_img_ch5_e5c1713a5ee6.png)
 
 > **Figure 5: Ch5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-03_russian-exports-surging-despite-the-war_img_ch5_e5c1713a5ee6.png)
+> [Local Asset](assets/2022-06-03_russian-exports-surging-despite-the-war_img_ch5_e5c1713a5ee6.png)
 
 Source: Shipfix
 

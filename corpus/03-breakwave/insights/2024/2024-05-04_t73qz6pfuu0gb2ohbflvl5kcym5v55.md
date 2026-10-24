@@ -29,12 +29,12 @@ source_file: "corpus/03-breakwave/insights/2024/2024-05-04_t73qz6pfuu0gb2ohbflvl
 ![Στιγμιότυπο Οθόνης 2024 05 04 135545](assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3e1bb54a7be.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 04 135545**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/4/29/bkql25bg3bufqvioabueoj1k2f7eb9) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3e1bb54a7be.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/4/29/bkql25bg3bufqvioabueoj1k2f7eb9) | [Local Asset](assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3e1bb54a7be.png)
 
 ![Read More](assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_image-asset28429_b2a33f9ea212.jpeg)
 
 > **Figure 2: Read More**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/4/29/bkql25bg3bufqvioabueoj1k2f7eb9) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_image-asset28429_b2a33f9ea212.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/4/29/bkql25bg3bufqvioabueoj1k2f7eb9) | [Local Asset](assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_image-asset28429_b2a33f9ea212.jpeg)
 
 ## The Chinese Economy Had a Strong Start in the First Quarter
 
@@ -45,7 +45,7 @@ Following last week's optimistic Chinese GDP data, Sheng Laiyun, a spokesperson 
 ![016 Chrisea 24 01 24](assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_016-chrisea-24-01-24_5bf83b085371.jpg)
 
 > **Figure 3: 016 Chrisea 24 01 24**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/4/29/steel-on-the-wheel) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_016-chrisea-24-01-24_5bf83b085371.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/4/29/steel-on-the-wheel) | [Local Asset](assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_016-chrisea-24-01-24_5bf83b085371.jpg)
 
 ## Steel on the Wheel
 
@@ -58,7 +58,7 @@ The World Steel Association (WSA) in its short-term outlook this month projects 
 ![Market Chart 4](assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_image-asset28529_bd277c787d23.jpeg)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/4/29/consumer-strength-in-china-continues-to-lessen) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_image-asset28529_bd277c787d23.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/4/29/consumer-strength-in-china-continues-to-lessen) | [Local Asset](assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_image-asset28529_bd277c787d23.jpeg)
 
 ## Consumer Strength in China Continues to Lessen
 
@@ -70,7 +70,7 @@ As we discussed in Commodore Research's April 22nd Weekly China Report, China’
 
 > **Figure 5: Three Things Investors Need to Know This Week**  
 > *The three things investors need to know this week*  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/4/29/and-then-there-were-none-whats-the-impact-of-the-feds-higher-for-longer) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_image-asset28629_8a091bd9c8d7.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/4/29/and-then-there-were-none-whats-the-impact-of-the-feds-higher-for-longer) | [Local Asset](assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_image-asset28629_8a091bd9c8d7.jpeg)
 
 ## And Then There Were None: What’s the Impact of the Fed’s “Higher for Longer”?
 
@@ -85,7 +85,7 @@ Mazars Weekly Note
 ![Στιγμιότυπο+οθόνης+2024 05 01+110753](assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ada1370e4c50.png)
 
 > **Figure 6: Στιγμιότυπο+οθόνης+2024 05 01+110753**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/5/1/global-oil-prices-stabilise-is-this-the-calm-before-the-storm) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ada1370e4c50.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/5/1/global-oil-prices-stabilise-is-this-the-calm-before-the-storm) | [Local Asset](assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ada1370e4c50.png)
 
 ## Global Oil Prices Stabilise. Is This the Calm Before the Storm?
 
@@ -98,7 +98,7 @@ The global oil price rally has stalled. Rising onshore crude inventories and fal
 ![Market Chart 7](assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_image-asset28729_6b9a2d724b8d.jpeg)
 
 > **Figure 7: Market Chart 7**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/5/1/positive-economic-data-in-china-boosts-sentiment) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_image-asset28729_6b9a2d724b8d.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/5/1/positive-economic-data-in-china-boosts-sentiment) | [Local Asset](assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_image-asset28729_6b9a2d724b8d.jpeg)
 
 ## Positive Economic Data in China Boosts Sentiment
 
@@ -111,7 +111,7 @@ Ongoing inflationary pressures in the US put further doubts on imminent rate cut
 ![Research Γçô Square 1](assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_research-ce93c387c3b4-square-1_c5975705eb43.jpg)
 
 > **Figure 8: Research Γçô Square 1**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/5/1/shifting-supply-chains) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_research-ce93c387c3b4-square-1_c5975705eb43.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/5/1/shifting-supply-chains) | [Local Asset](assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_research-ce93c387c3b4-square-1_c5975705eb43.jpg)
 
 ## Shifting Supply Chains
 
@@ -124,7 +124,7 @@ With the one third of the year already over and the Red Sea still off limits to 
 ![Market Chart 9](assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_image-asset_85a16aa3c4bb.jpeg)
 
 > **Figure 9: Market Chart 9**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/5/2/big-picture-tankers-in-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_image-asset_85a16aa3c4bb.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/5/2/big-picture-tankers-in-2025) | [Local Asset](assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_image-asset_85a16aa3c4bb.jpeg)
 
 ## Big Picture: Tankers in 2025
 
@@ -137,7 +137,7 @@ From the perspective of oil demand growth vs. tanker supply growth, we concede t
 ![Market Chart 10](assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_image-asset28129_0121bd230132.jpeg)
 
 > **Figure 10: Market Chart 10**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/5/2/falling-vlcc-voyages) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_image-asset28129_0121bd230132.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/5/2/falling-vlcc-voyages) | [Local Asset](assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_image-asset28129_0121bd230132.jpeg)
 
 ## Falling VLCC Voyages
 
@@ -150,7 +150,7 @@ This week, in the East, we discuss falling VLCC voyage counts after a record-hig
 ![Market Chart 11](assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_image-asset28229_4ddde39c3d9d.jpeg)
 
 > **Figure 11: Market Chart 11**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/5/3/7dm0lkx6wwi6hahl8sv0qhm4o9tvgl) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_image-asset28229_4ddde39c3d9d.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/5/3/7dm0lkx6wwi6hahl8sv0qhm4o9tvgl) | [Local Asset](assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_image-asset28229_4ddde39c3d9d.jpeg)
 
 ## Ongoing Growth in Steel Production Outside of China
 
@@ -163,7 +163,7 @@ Global steel production totaled approximately 161.2 million tons in March. This 
 ![Market Chart 12](assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_image-asset28329_b5e3e4c9e918.jpeg)
 
 > **Figure 12: Market Chart 12**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/5/3/sentiment-weighed-down-by-uncertain-economic-backdrop) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_image-asset28329_b5e3e4c9e918.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/5/3/sentiment-weighed-down-by-uncertain-economic-backdrop) | [Local Asset](assets/2024-05-04_t73qz6pfuu0gb2ohbflvl5kcym5v55_img_image-asset28329_b5e3e4c9e918.jpeg)
 
 ## Sentiment Weighed Down by Uncertain Economic Backdrop
 

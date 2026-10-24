@@ -23,21 +23,21 @@ source_file: "corpus/03-breakwave/insights/2025/2025-09-17_the-steel-behind-gear
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2025-09-17_the-steel-behind-geared_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-17_the-steel-behind-geared_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](assets/2025-09-17_the-steel-behind-geared_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 Typically speaking, steel has been one of the major provider of freight employment within the minor bulk cargoes category, To illustrate, looking at the tonmiles breakdown of geared shipments, from Handysizes to Ultramaxes, in the first eight months of this year, the top three categories are: Grain (excl Soybeans) (~10-20%), Fertilizers (~12-15%) and Steel (~11-14%).
 
 ![Στιγμιότυπο Οθόνης 2025 09 17 141135](assets/2025-09-17_the-steel-behind-geared_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_12ee4f3d253c.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 09 17 141135**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-17_the-steel-behind-geared_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_12ee4f3d253c.png)
+> [Local Asset](assets/2025-09-17_the-steel-behind-geared_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_12ee4f3d253c.png)
 
 From 2015 to 2020, global seaborne steel shipments had been on a gentle downward trend. However, this trend decisively changed from 2021 onwards, hitting a fresh peak last year. According to AXSMarine data, global seaborne steel volume, predominately carried by geared bulkers, reached 170 mln mt in FY2024, a y-o-y increase of 14.2%. Continuing this momentum, in the first eight months of 2025, this figure, rise by another 10% y-o-y, reaching120 mln mt by end August.
 
 ![Στιγμιότυπο Οθόνης 2025 09 17 141144](assets/2025-09-17_the-steel-behind-geared_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_be08ec03ba7a.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 09 17 141144**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-17_the-steel-behind-geared_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_be08ec03ba7a.png)
+> [Local Asset](assets/2025-09-17_the-steel-behind-geared_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_be08ec03ba7a.png)
 
 Meanwhile, over the past decade, Handysize (25-40K Dwt) and Supramax (50-60K Dwt) ranked first and second respectively in the average share of steel carried by small-sized bulk carriers, accounting for 41.6% and 36.8%. Handysize has maintained a relatively stable market share and consistently remained in the top position. In contrast, the share of Supramax declined from 46.3% in 2015 to 34.6% in 2024. It is worth noting that the share of Ultramax increased gradually from 5.7% in 2015 to 21% in 2025. This development coincided with the ramp up in Ultramax deliveries in recent years and in terms of vessel numbers, its fleet has grown by 20% over the past decade
 
@@ -48,7 +48,7 @@ On a side note, regarding fleet age profile, the average age of geared bulkers i
 ![Στιγμιότυπο Οθόνης 2025 09 17 141152](assets/2025-09-17_the-steel-behind-geared_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_85c5fbd294fd.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 09 17 141152**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-17_the-steel-behind-geared_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_85c5fbd294fd.png)
+> [Local Asset](assets/2025-09-17_the-steel-behind-geared_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_85c5fbd294fd.png)
 
 From a bird-eye perspective, the top five loading regions collectively account for 79% (concentrated) of the global seaborne steel export volume in the first eight months of 2025, while the top five discharge regions represented just 51% of the total (fragmented), painting a different picture of its seaborne trade flows compared to other major dry bulk commodities. This also highlights the vast repositioning opportunities for geared tonnage carrying stems with China-Japan range.
 

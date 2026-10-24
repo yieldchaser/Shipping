@@ -27,7 +27,7 @@ A weaker USD helped boost investor appetite in commodities. However, uncertainty
 ![Στιγμιότυπο Οθόνης 2025 05 30 121612](assets/2025-05-30_copper-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_988c2a7d208e.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 05 30 121612**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-30_copper-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_988c2a7d208e.png)
+> [Local Asset](assets/2025-05-30_copper-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_988c2a7d208e.png)
 
 ### Market Commentary
 
@@ -46,7 +46,7 @@ According to China’s NEA total electricity consumption in 2024 reached 9,852bn
 ![Στιγμιότυπο Οθόνης 2025 05 30 121720](assets/2025-05-30_copper-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1a69d4d3126e.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 05 30 121720**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-30_copper-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1a69d4d3126e.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-05-30_copper-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1a69d4d3126e.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

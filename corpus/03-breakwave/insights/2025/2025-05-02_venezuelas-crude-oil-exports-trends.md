@@ -29,7 +29,7 @@ Week 18, 02 May, 2025
 ![Στιγμιότυπο Οθόνης 2025 05 02 163818](assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0ebcd4fb3fec.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 05 02 163818**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0ebcd4fb3fec.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0ebcd4fb3fec.png)
 
 As of early May 2025, the crude oil trading relationship between the United States and Venezuela has undergone a major disruption, primarily due to recent geopolitical and regulatory shifts. The most pivotal development occurred in March 2025, when the U.S. Treasury revoked Chevron’s special license to operate in Venezuela. This license had previously allowed Chevron to export Venezuelan crude to the United States despite broader sanctions on the Maduro regime. The revocation was tied to the Venezuelan government’s failure to meet agreed electoral commitments. Consequently, Chevron has been instructed to wind down its operations entirely by May 27, 2025.
 
@@ -42,7 +42,7 @@ As Chevron exits Venezuela, the broader oil trade between the two countries cont
 ![Στιγμιότυπο Οθόνης 2025 05 02 164153](assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e15c026fcca.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 05 02 164153**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e15c026fcca.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e15c026fcca.png)
 
 Crude oil freight market sentiment shows signs of strengthening momentum in May; however, there has been a soft downward revision for the beginning of the month.
 
@@ -52,21 +52,21 @@ Crude oil freight market sentiment shows signs of strengthening momentum in May;
 ![Στιγμιότυπο Οθόνης 2025 05 02 164203](assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aa79d657563a.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 05 02 164203**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aa79d657563a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aa79d657563a.png)
 
 - **LR2**AG freight rates held nearly steady from the previous week at WS125, though they reflected a monthly drop of 20%.
 
 ![Στιγμιότυπο Οθόνης 2025 05 02 164214](assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aa896b9b2d5e.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 05 02 164214**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aa896b9b2d5e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aa896b9b2d5e.png)
 
 - **Panamax**Carib-to-USG rates experienced a further decline, settling near WS170. Despite this recent softening, these rates still represent a 15% increase compared to the previous month.
 
 ![Στιγμιότυπο Οθόνης 2025 05 02 164223](assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5df2a39f6bad.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 05 02 164223**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5df2a39f6bad.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5df2a39f6bad.png)
 
 - MR1 freight rates for Baltic-to-Continent shipments hovered around WS165, representing a 6% monthly decrease.
 
@@ -75,7 +75,7 @@ Crude oil freight market sentiment shows signs of strengthening momentum in May;
 ![Στιγμιότυπο Οθόνης 2025 05 02 164237](assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_43453e156e3e.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 05 02 164237**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_43453e156e3e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_43453e156e3e.png)
 
 ​​​​​Crude tanker availability is still lower than the yearly average, though VLCC and Suezmax sectors show signs of increasing pressure.
 
@@ -87,12 +87,12 @@ Crude oil freight market sentiment shows signs of strengthening momentum in May;
 ![Στιγμιότυπο Οθόνης 2025 05 02 164246](assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_17b4b0e4c51e.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 05 02 164246**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_17b4b0e4c51e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_17b4b0e4c51e.png)
 
 ![Στιγμιότυπο Οθόνης 2025 05 02 164255](assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_16b6c42a5df8.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2025 05 02 164255**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_16b6c42a5df8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_16b6c42a5df8.png)
 
 - **Clean LR2 AG Jubail:**The downward trend persists, with vessel count remaining below the annual average of 11 over the last ten weeks.
 
@@ -101,14 +101,14 @@ Crude oil freight market sentiment shows signs of strengthening momentum in May;
 ![Στιγμιότυπο Οθόνης 2025 05 02 164310](assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4913cd609d2.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 05 02 164310**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4913cd609d2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4913cd609d2.png)
 
 - **Dirty**tonne days: The end of the month followed a similar pattern to the previous week, with VLCC and Suezmax rates continuing to decline, while the Aframax segment maintained its earlier sharp upswing, though signs of a slight downward correction have begun to emerge.
 
 ![Στιγμιότυπο Οθόνης 2025 05 02 164318](assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_94b6b0e4805b.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 05 02 164318**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_94b6b0e4805b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_94b6b0e4805b.png)
 
 - **Panamax**tonne days: Over the past six weeks, the growth rate has remained below this year's weekly average, in contrast to the end of Week 8, when levels were close to surpassing the annual average.
 

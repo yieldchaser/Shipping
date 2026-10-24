@@ -27,28 +27,28 @@ Global seaborne grain trade prospects for the current 2021/22 season have long r
 ![Chart 1 (9)](assets/2021-11-18_even-larger-amount-of-global-grain-exports-expected_img_chart128929_11cf75da844e.jpg)
 
 > **Figure 1: Chart 1 (9)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-18_even-larger-amount-of-global-grain-exports-expected_img_chart128929_11cf75da844e.jpg)
+> [Local Asset](assets/2021-11-18_even-larger-amount-of-global-grain-exports-expected_img_chart128929_11cf75da844e.jpg)
 
 Global wheat exports are expected to total 203.2 million tons. This is 3.6 million tons (2%) more than was forecast a month ago and would mark a year-on-year increase of 900,000 tons.
 
 ![Chart 2 (7)](assets/2021-11-18_even-larger-amount-of-global-grain-exports-expected_img_chart228729_7a972210a493.jpg)
 
 > **Figure 2: Chart 2 (7)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-18_even-larger-amount-of-global-grain-exports-expected_img_chart228729_7a972210a493.jpg)
+> [Local Asset](assets/2021-11-18_even-larger-amount-of-global-grain-exports-expected_img_chart228729_7a972210a493.jpg)
 
 In addition, global soybean exports (soybeans are not technically classified as a grain) are expected to total 172.1 million tons. This is 1 million tons (-1%) less than was forecast a month ago but would mark a year-on-year increase of 7.3 million tons (4%).
 
 ![Chart 3 (5)](assets/2021-11-18_even-larger-amount-of-global-grain-exports-expected_img_chart328529_6d9981421a92.jpg)
 
 > **Figure 3: Chart 3 (5)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-18_even-larger-amount-of-global-grain-exports-expected_img_chart328529_6d9981421a92.jpg)
+> [Local Asset](assets/2021-11-18_even-larger-amount-of-global-grain-exports-expected_img_chart328529_6d9981421a92.jpg)
 
 Global soymeal exports are expected to total 70.9 million tons. This is 400,000 tons (1%) more than was forecast a month ago and would mark a year-on-year increase of 2 million tons (3%).
 
 ![Chart 4 (1)](assets/2021-11-18_even-larger-amount-of-global-grain-exports-expected_img_chart428129_b7afb65e88ea.jpg)
 
 > **Figure 4: Chart 4 (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-18_even-larger-amount-of-global-grain-exports-expected_img_chart428129_b7afb65e88ea.jpg)
+> [Local Asset](assets/2021-11-18_even-larger-amount-of-global-grain-exports-expected_img_chart428129_b7afb65e88ea.jpg)
 
 ---
 

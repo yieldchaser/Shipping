@@ -64,7 +64,7 @@ Yet, since the beginning of the year, rates began to climb down and credit sprea
 ![Market Chart 1](assets/2023-01-30_weekly-mazars-comment-the-risk-of-a-financial-accident-is-being-removed_img_image00128329_be39e0a14301.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-30_weekly-mazars-comment-the-risk-of-a-financial-accident-is-being-removed_img_image00128329_be39e0a14301.png)
+> [Local Asset](assets/2023-01-30_weekly-mazars-comment-the-risk-of-a-financial-accident-is-being-removed_img_image00128329_be39e0a14301.png)
 
 So what we have is a Fed that hiked aggressively against a bond market that wasn’t ready for it in any way. Inflation is currently retreating. As we enter what is presumed to be the final stretch of rate hikes before a pause, we look back and -not without some amazement- realise that nothing major has visibly broken. No bankruptcies that would shake the world, no emergency lending facilities, no bank runs. After fourteen years of rewriting regulations, transferring risk off banks, and flushing the system with cash, the need arose to test the resilience of the system in real-time. Could it survive an aggressive rate hike cycle and a return to rate hawkishness? The Fed took a very big risk, a leap of faith that its work over the past decade and a half was enough, and was vindicated.
 
@@ -82,7 +82,7 @@ There are several observations we should make going forward:
 ![Market Chart 2](assets/2023-01-30_weekly-mazars-comment-the-risk-of-a-financial-accident-is-being-removed_img_image00228329_50b30ae77766.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-30_weekly-mazars-comment-the-risk-of-a-financial-accident-is-being-removed_img_image00228329_50b30ae77766.png)
+> [Local Asset](assets/2023-01-30_weekly-mazars-comment-the-risk-of-a-financial-accident-is-being-removed_img_image00228329_50b30ae77766.png)
 
 Having said that, we can’t break out the champagne just yet. With the financial system (banks, equity and bond markets) coming out of multiple triple rate hikes visibly unscathed, the bulk of risk is now transferred to the economic and policy sphere. This means that we can still see resurgent market volatility and downturns in the next few months.
 
@@ -95,7 +95,7 @@ The other key risk is the possibility of ‘sticky inflation’. This could come
 ![Market Chart 3](assets/2023-01-30_weekly-mazars-comment-the-risk-of-a-financial-accident-is-being-removed_img_image00128329_be39e0a14301.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-30_weekly-mazars-comment-the-risk-of-a-financial-accident-is-being-removed_img_image00128329_be39e0a14301.png)
+> [Local Asset](assets/2023-01-30_weekly-mazars-comment-the-risk-of-a-financial-accident-is-being-removed_img_image00128329_be39e0a14301.png)
 
 The good news is that economic risks are much slower to materialise than financial risks, leaving room for policymakers to manoeuvre.
 

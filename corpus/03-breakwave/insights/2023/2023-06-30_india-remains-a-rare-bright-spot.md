@@ -26,7 +26,7 @@ Global crude steel production outside of China totaled 71.5 million tons in May.
 ![Chart 1 (75)](assets/2023-06-30_india-remains-a-rare-bright-spot_img_chart1287529_4aa26efdbc64.jpg)
 
 > **Figure 1: Chart 1 (75)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-30_india-remains-a-rare-bright-spot_img_chart1287529_4aa26efdbc64.jpg)
+> [Local Asset](assets/2023-06-30_india-remains-a-rare-bright-spot_img_chart1287529_4aa26efdbc64.jpg)
 
 While it remains concerning that the contraction outside of China has continued to stretch on for well over a year, May's most recent 2% year-on-year contraction has again marked the smallest contraction seen during this period (April also experienced a 2% contraction). It remains very clear, though, that much of the world outside of China continues to undergo significant economic distress, and that great problems remain on both the retail and industrial sides. India remains a rare bright spot, however, as we have also continued to stress in Commodore's Weekly Dry Bulk Reports.
 
@@ -35,4 +35,4 @@ India produced a record 11.2 million tons of crude steel in May. This is 500,000
 ![Chart 2 (64)](assets/2023-06-30_india-remains-a-rare-bright-spot_img_chart2286429_ec8fbbaa207e.jpg)
 
 > **Figure 2: Chart 2 (64)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-30_india-remains-a-rare-bright-spot_img_chart2286429_ec8fbbaa207e.jpg)
+> [Local Asset](assets/2023-06-30_india-remains-a-rare-bright-spot_img_chart2286429_ec8fbbaa207e.jpg)

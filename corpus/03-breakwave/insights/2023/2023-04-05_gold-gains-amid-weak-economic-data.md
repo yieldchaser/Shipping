@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-04-05_gold-gains-amid-weak-
 [![1+%2811%29](assets/2023-04-05_gold-gains-amid-weak-economic-data_img_12b2528112529_91b7a76fcf68.jpg)
 
 > **Figure 1: 1+%2811%29**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/dahynes/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-05_gold-gains-amid-weak-economic-data_img_12b2528112529_91b7a76fcf68.jpg)](https://www.breakwaveadvisors.com/insights/2023/4/5/odzn86c14jl5mxlgrju9q70dtly66k)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/dahynes/) | [Local Asset](assets/2023-04-05_gold-gains-amid-weak-economic-data_img_12b2528112529_91b7a76fcf68.jpg)](https://www.breakwaveadvisors.com/insights/2023/4/5/odzn86c14jl5mxlgrju9q70dtly66k)
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
@@ -31,7 +31,7 @@ Weak economic data weighed on sentiment across the commodity complex. The rally 
 ![1680645097584](assets/2023-04-05_gold-gains-amid-weak-economic-data_img_1680645097584_66c7e042de45.png)
 
 > **Figure 2: 1680645097584**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-05_gold-gains-amid-weak-economic-data_img_1680645097584_66c7e042de45.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2023-04-05_gold-gains-amid-weak-economic-data_img_1680645097584_66c7e042de45.png)
 
 **Gold**rallied amid concerns over a global economic slowdown. A monthly decline in US job openings raised the prospect of the US Federal Reserve may be nearing the end of its aggressive rate hike cycle. Treasury yields fell, and the USD weakened, adding to the tailwinds for gold. The precious metals surged to its highest level in a year amid the flight to safety.
 

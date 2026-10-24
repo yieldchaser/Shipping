@@ -38,7 +38,7 @@ Instead of looking at market levels, investors should be going back to fundament
 ![Market Chart 1](assets/2022-06-21_stocks-dont-capitulate-at-18x-they-capitulate-at-15x_img_unnamed282429_0ce9955dbd83.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-21_stocks-dont-capitulate-at-18x-they-capitulate-at-15x_img_unnamed282429_0ce9955dbd83.png)
+> [Local Asset](assets/2022-06-21_stocks-dont-capitulate-at-18x-they-capitulate-at-15x_img_unnamed282429_0ce9955dbd83.png)
 
 At current earnings this would mean the S&P 500 at 2800-3000. Assuming a 10% drop in earnings as the economy slows down, we would be looking at capitulation levels nearly one more thousand points below where we are today, 2550-2700 points for the S&P 500 or another 30% drop from current levels.
 

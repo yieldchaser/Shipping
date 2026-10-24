@@ -28,7 +28,7 @@ Following last week’s downward revision of merchandise trade volume growth by 
 ![1 (8)](assets/2023-04-17_doric-weekly-market-insight_img_128829_9f1beb3dfca1.png)
 
 > **Figure 1: 1 (8)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-17_doric-weekly-market-insight_img_128829_9f1beb3dfca1.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-04-17_doric-weekly-market-insight_img_128829_9f1beb3dfca1.png)
 
 Twelve months later, Capesizes stood $4,000 higher than the aforementioned value, but all other segments are largely lagging previous year’s vivid levels. Although, dry bulk shipping has managed to leave the unprofitable Q1 levels behind, it has yet to surpass last year’s performance. In particular, with a closing of $15,724 and $12,158 daily for the Kamsarmax and Supramax respectively, the mid-sizes are laying today circa 50 percent lower year-on-year. The drop in the Handysize sub-market is even steeper, with the respective Baltic TC index concluding today at $11,295 daily, down 57.4 percent year-on-year. At this crossroads, the global economy is yet again at a moment of high uncertainty, with the cumulative effects of the past three years of adverse shocks, manifesting in unforseen ways.
 
@@ -41,6 +41,6 @@ In the tug-of-war between alarming macro fundamentals pulling from one side and 
 ![1 (9)](assets/2023-04-17_doric-weekly-market-insight_img_128929_d4cf03af0755.png)
 
 > **Figure 2: 1 (9)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-17_doric-weekly-market-insight_img_128929_d4cf03af0755.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-04-17_doric-weekly-market-insight_img_128929_d4cf03af0755.png)
 
 Data source:[Doric](https://www.doric.gr/)

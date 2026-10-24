@@ -39,7 +39,7 @@ Missing image: https://images.squarespace-cdn.com/content/v1/5a4d1d26e5dd5b537a6
 ![Στιγμιότυπο Οθόνης 2025 06 01 214322](assets/2025-06-02_complex-picture_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_428e3307a7fc.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 06 01 214322**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-02_complex-picture_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_428e3307a7fc.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-06-02_complex-picture_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_428e3307a7fc.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

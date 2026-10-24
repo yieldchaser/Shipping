@@ -35,7 +35,7 @@ At the same time, China’s coal market has entered a renewed period of uncertai
 ![Στιγμιότυπο Οθόνης 2026 06 01 102159](assets/2026-06-01_chinas-commodity-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a988ea3097e.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 06 01 102159**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-01_chinas-commodity-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a988ea3097e.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2026-06-01_chinas-commodity-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a988ea3097e.png)
 
 Ultimately, China’s commodity demand profile is undergoing a gradual structural shift that is blurring traditional cyclical relationships. The link between steel production, property activity, and raw material imports is becoming increasingly distorted by inventory cycles, energy security priorities, and state-driven supply management. As a result, headline import volumes may remain relatively supported even in periods of weakening underlying demand, while volatility increasingly shifts to supply-side disruptions and policy responses rather than pure consumption cycles. For dry bulk markets, this implies a more stable but less predictable demand environment, where resilience in volumes coexists with a growing disconnect from fundamental economic strength.
 

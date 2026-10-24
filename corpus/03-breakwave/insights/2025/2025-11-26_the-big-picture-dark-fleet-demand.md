@@ -41,7 +41,7 @@ Without a change in Western sanctions, or without new ways being found to circum
 ![89ec Image 0 1764076703479](assets/2025-11-26_the-big-picture-dark-fleet-demand_img_89ec-image-0-1764076703479_db6295733e64.png)
 
 > **Figure 1: 89ec Image 0 1764076703479**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-26_the-big-picture-dark-fleet-demand_img_89ec-image-0-1764076703479_db6295733e64.png)
+> [Local Asset](assets/2025-11-26_the-big-picture-dark-fleet-demand_img_89ec-image-0-1764076703479_db6295733e64.png)
 
 *Source: Vortexa*
 
@@ -58,12 +58,12 @@ Since the start of this year, the participation of sanctioned VLCCs in shadow tr
 ![2c81 Image 1 1764076736617](assets/2025-11-26_the-big-picture-dark-fleet-demand_img_2c81-image-1-1764076736617_2e73d357333d.png)
 
 > **Figure 2: 2c81 Image 1 1764076736617**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-26_the-big-picture-dark-fleet-demand_img_2c81-image-1-1764076736617_2e73d357333d.png)
+> [Local Asset](assets/2025-11-26_the-big-picture-dark-fleet-demand_img_2c81-image-1-1764076736617_2e73d357333d.png)
 
 ![98d1 Image 2 1764076747848](assets/2025-11-26_the-big-picture-dark-fleet-demand_img_98d1-image-2-1764076747848_48b75c5683e2.png)
 
 > **Figure 3: 98d1 Image 2 1764076747848**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-26_the-big-picture-dark-fleet-demand_img_98d1-image-2-1764076747848_48b75c5683e2.png)
+> [Local Asset](assets/2025-11-26_the-big-picture-dark-fleet-demand_img_98d1-image-2-1764076747848_48b75c5683e2.png)
 
 ### Competition Between Shadow Barrels – Iran May Face Temporary Challenges
 
@@ -91,7 +91,7 @@ Sales of crude tankers over 15 years have fallen from their heights in the after
 
 > **Figure 4: Braemar Research**  
 > *Braemar Research*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-26_the-big-picture-dark-fleet-demand_img_7295-image-3-1764076871838_53829c320175.png)
+> [Local Asset](assets/2025-11-26_the-big-picture-dark-fleet-demand_img_7295-image-3-1764076871838_53829c320175.png)
 
 ---
 

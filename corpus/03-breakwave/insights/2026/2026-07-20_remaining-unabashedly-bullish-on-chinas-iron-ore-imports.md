@@ -27,14 +27,14 @@ As we discussed in Commodore Research's most recent Weekly Executive Report, Bra
 ![Chart 1](assets/2026-07-20_remaining-unabashedly-bullish-on-chinas-iron-ore-imports_img_chart1_2c9fb46c8fb3.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-20_remaining-unabashedly-bullish-on-chinas-iron-ore-imports_img_chart1_2c9fb46c8fb3.jpg)
+> [Local Asset](assets/2026-07-20_remaining-unabashedly-bullish-on-chinas-iron-ore-imports_img_chart1_2c9fb46c8fb3.jpg)
 
 The most recently released data shows that steel production at large and medium-sized mills in China averaged 2.02 million tons during June 21 - June 30. This is down 4% from mid-June and down 5% year-on-year. China's steel production has remained in a year-on-year contraction since September.
 
 ![Chart 2](assets/2026-07-20_remaining-unabashedly-bullish-on-chinas-iron-ore-imports_img_chart2_0460a439befb.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-20_remaining-unabashedly-bullish-on-chinas-iron-ore-imports_img_chart2_0460a439befb.jpg)
+> [Local Asset](assets/2026-07-20_remaining-unabashedly-bullish-on-chinas-iron-ore-imports_img_chart2_0460a439befb.jpg)
 
 China's iron ore imports most recently totaled 112.7 million tons in June. This is up month-on-month by 15 million tons (15%), up year-on-year by 6.7 million tons (6%), and has marked a record for the month of June. We have remained unabashedly bullish for China's iron ore imports -- despite periods of contraction in China's steel production and record high Chinese iron ore port stockpiles -- and we remain bullish. As we have stressed throughout the years even when many pundits turned bearish for China's iron ore import prospects, it is global iron ore mining that dictates China's iron ore import volume. We remain quite bullish even though China's steel production is still in a year-on-year contraction and even though iron ore port stockpiles remain close to their record high.
 

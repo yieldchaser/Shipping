@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-06-11_freight-rates-push-hi
 ![Market Chart 1](assets/2020-06-11_freight-rates-push-higher-as-oil-slumps_img_image-asset_9a2025b009a9.jpeg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-11_freight-rates-push-higher-as-oil-slumps_img_image-asset_9a2025b009a9.jpeg)
+> [Local Asset](assets/2020-06-11_freight-rates-push-higher-as-oil-slumps_img_image-asset_9a2025b009a9.jpeg)
 
 A good day for owners of dry bulk ships, as rates continue to advance across every asset class. This is particularly true for ships able to do business in the Atlantic, as cargo flow remains healthy and ship availability relatively low.
 
@@ -38,7 +38,7 @@ Shipping is not immune, but for now, things are looking up. Shipping is truly an
 ![Capes 6 11](assets/2020-06-11_freight-rates-push-higher-as-oil-slumps_img_capes6-11_5edd1ac83a75.jpg)
 
 > **Figure 2: Capes 6 11**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-11_freight-rates-push-higher-as-oil-slumps_img_capes6-11_5edd1ac83a75.jpg)
+> [Local Asset](assets/2020-06-11_freight-rates-push-higher-as-oil-slumps_img_capes6-11_5edd1ac83a75.jpg)
 
 Going back to last year, how did 2019 progress from June onward?
 

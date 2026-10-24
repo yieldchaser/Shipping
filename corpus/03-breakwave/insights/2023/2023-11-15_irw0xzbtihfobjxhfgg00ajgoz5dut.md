@@ -26,7 +26,7 @@ A risk-on tone across markets, triggered by lower inflation data helped boost se
 ![1699995347123](assets/2023-11-15_irw0xzbtihfobjxhfgg00ajgoz5dut_img_1699995347123_aa55fb397cb4.png)
 
 > **Figure 1: 1699995347123**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-15_irw0xzbtihfobjxhfgg00ajgoz5dut_img_1699995347123_aa55fb397cb4.png)
+> [Local Asset](assets/2023-11-15_irw0xzbtihfobjxhfgg00ajgoz5dut_img_1699995347123_aa55fb397cb4.png)
 
 **Gold**rallied after US inflation came in lower than expected. This triggered a fall in the USD while Treasury yields also dropped. The data is likely to take the pressure off the Fed to further tighten monetary policy this year. This sparked some strong buying in the precious metal and is likely to[support further investment demand of gold](../pdfs/2023-11-15_irw0xzbtihfobjxhfgg00ajgoz5dut_the-vault-gold-market-s-sanctuary_e63bf31c32b2.pdf). We also see geopolitical tensions becoming a recurring feature, which should see a structural risk premium embedded. A drive by central banks to diversify their reserves has been a feature of the gold market since early 2022. Increasing geopolitical risks will fuel this trend. This should reduce the burden on physical and investment demand for clearing the market surplus.
 

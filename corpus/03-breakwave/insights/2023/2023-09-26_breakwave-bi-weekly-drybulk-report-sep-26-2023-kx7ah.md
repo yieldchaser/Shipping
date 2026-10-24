@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-09-26_breakwave-bi-weekly-d
 ![Dbreporttop](assets/2023-09-26_breakwave-bi-weekly-drybulk-report-sep-26-2023-kx7ah_img_dbreporttop_f0ecc6191971.png)
 
 > **Figure 1: Dbreporttop**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-26_breakwave-bi-weekly-drybulk-report-sep-26-2023-kx7ah_img_dbreporttop_f0ecc6191971.png)
+> [Local Asset](assets/2023-09-26_breakwave-bi-weekly-drybulk-report-sep-26-2023-kx7ah_img_dbreporttop_f0ecc6191971.png)
 
 **• Capesize spot rates approaching the 20,000 mark as seasonality kicks in**– With the summer dull days coming to an end, dry bulk activity is once again picking up, and with that, Capesize spot rates have begun to creep higher, although still inside the tight range that has prevailed for most of the past 18 months. “Unexciting” has been the word to characterize the state of the dry bulk market recently, but as always has been the case in the last few years, the surprise element is always one headline away. Are we about to experience a stronger than expected winter rally? It is easy to argue against such a development if we looked at the macro picture where global demand growth is clearly suffering, with China continuing to deal with its ailing real estate sector, high interest rates in Europe and the US hurting economic growth, and a strong US dollar being a major headwind for commodities. However, shipping remains an uncorrelated asset class, and its idiosyncratic supply/demand fundamentals could at any given time lead to (temporary) stronger rates, providing an important trading tool during periods when other asset classes move in tandem. Coal demand has been a key driver for dry bulk rates, and production disruptions due to well publicized mine accidents in China should continue to support strong import volumes. Iron ore activity remains strong, while bauxite trading has once again resumed, following the seasonal decline due to summer rains in West Africa. With fleet operating efficiency at all-time highs, winter weather unpredictability seems to be the key for a tightening market which could propel spot rates higher and beyond what is already priced in the futures curve.
 
@@ -33,11 +33,11 @@ source_file: "corpus/03-breakwave/insights/2023/2023-09-26_breakwave-bi-weekly-d
 ![Dbreportchart](assets/2023-09-26_breakwave-bi-weekly-drybulk-report-sep-26-2023-kx7ah_img_dbreportchart_5b125d2f51c5.png)
 
 > **Figure 2: Dbreportchart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-26_breakwave-bi-weekly-drybulk-report-sep-26-2023-kx7ah_img_dbreportchart_5b125d2f51c5.png)
+> [Local Asset](assets/2023-09-26_breakwave-bi-weekly-drybulk-report-sep-26-2023-kx7ah_img_dbreportchart_5b125d2f51c5.png)
 
 ![Dbreportbottom](assets/2023-09-26_breakwave-bi-weekly-drybulk-report-sep-26-2023-kx7ah_img_dbreportbottom_0586f41cf886.png)
 
 > **Figure 3: Dbreportbottom**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-26_breakwave-bi-weekly-drybulk-report-sep-26-2023-kx7ah_img_dbreportbottom_0586f41cf886.png)
+> [Local Asset](assets/2023-09-26_breakwave-bi-weekly-drybulk-report-sep-26-2023-kx7ah_img_dbreportbottom_0586f41cf886.png)
 
 ### Subscribe:

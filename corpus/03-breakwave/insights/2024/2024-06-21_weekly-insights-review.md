@@ -31,12 +31,12 @@ source_file: "corpus/03-breakwave/insights/2024/2024-06-21_weekly-insights-revie
 ![Στιγμιότυπο Οθόνης 2024 06 18 104500](assets/2024-06-21_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d8836552a97e.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 06 18 104500**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/17/global-economy-appears-to-be-stabilizing-in-early-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-21_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d8836552a97e.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/17/global-economy-appears-to-be-stabilizing-in-early-2024) | [Local Asset](assets/2024-06-21_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d8836552a97e.png)
 
 ![Read More](assets/2024-06-21_weekly-insights-review_img_image-asset28129_90b611a5af4d.jpeg)
 
 > **Figure 2: Read More**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/17/global-economy-appears-to-be-stabilizing-in-early-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-21_weekly-insights-review_img_image-asset28129_90b611a5af4d.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/17/global-economy-appears-to-be-stabilizing-in-early-2024) | [Local Asset](assets/2024-06-21_weekly-insights-review_img_image-asset28129_90b611a5af4d.jpeg)
 
 ## Global Economy Appears to Be Stabilizing in Early 2024
 
@@ -47,7 +47,7 @@ Global trade growth is expected to recover to 2.5 percent in the current year, s
 ![Market Chart 3](assets/2024-06-21_weekly-insights-review_img_image-asset_94446043cb1c.jpeg)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/17/z105t87t5fyej9msyorn08l8vqlgmg) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-21_weekly-insights-review_img_image-asset_94446043cb1c.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/17/z105t87t5fyej9msyorn08l8vqlgmg) | [Local Asset](assets/2024-06-21_weekly-insights-review_img_image-asset_94446043cb1c.jpeg)
 
 ## India's Coal-Derived Electricity Generation Has Set Another Record As Predicted
 
@@ -60,7 +60,7 @@ India produced approximately 144.4 billion kilowatt hours of electricity last mo
 ![Market Chart 4](assets/2024-06-21_weekly-insights-review_img_image-asset28229_ac46e114851d.jpeg)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/18/headwinds-for-capesizes) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-21_weekly-insights-review_img_image-asset28229_ac46e114851d.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/18/headwinds-for-capesizes) | [Local Asset](assets/2024-06-21_weekly-insights-review_img_image-asset28229_ac46e114851d.jpeg)
 
 ## Headwinds for Capesizes
 
@@ -73,7 +73,7 @@ The mid-sized dry bulk segments propelled the Baltic Dry Index higher last week,
 ![Market Chart 5](assets/2024-06-21_weekly-insights-review_img_image-asset28329_600e358521ba.jpeg)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/19/fvl4v1lwo25dt8hr1p8l31ptr8ojdk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-21_weekly-insights-review_img_image-asset28329_600e358521ba.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/19/fvl4v1lwo25dt8hr1p8l31ptr8ojdk) | [Local Asset](assets/2024-06-21_weekly-insights-review_img_image-asset28329_600e358521ba.jpeg)
 
 ## Risk-On Tone Across Markets Boosts Sentiment
 
@@ -84,7 +84,7 @@ Markets remained well supported by the prospect of easing monetary policy. This 
 ![Market Chart 6](assets/2024-06-21_weekly-insights-review_img_image-asset28429_1204c66eb899.jpeg)
 
 > **Figure 6: Market Chart 6**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/19/downward-trend-to-the-orderbook) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-21_weekly-insights-review_img_image-asset28429_1204c66eb899.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/19/downward-trend-to-the-orderbook) | [Local Asset](assets/2024-06-21_weekly-insights-review_img_image-asset28429_1204c66eb899.jpeg)
 
 ## Downward Trend to the Orderbook
 
@@ -95,7 +95,7 @@ As we edge closer to the end of the first half of 2024, we have seen a downward 
 ![Istock 485480338](assets/2024-06-21_weekly-insights-review_img_istock-485480338_e8cd5e92a0e9.jpg)
 
 > **Figure 7: Istock 485480338**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/20/the-long-view) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-21_weekly-insights-review_img_istock-485480338_e8cd5e92a0e9.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/20/the-long-view) | [Local Asset](assets/2024-06-21_weekly-insights-review_img_istock-485480338_e8cd5e92a0e9.jpg)
 
 ## The Long View
 
@@ -106,7 +106,7 @@ Oil demand will peak this decade, that is the call by the International Energy A
 ![Market Chart 8](assets/2024-06-21_weekly-insights-review_img_image-asset28529_41e988be1c44.jpeg)
 
 > **Figure 8: Market Chart 8**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/20/vlcc-and-suezmaxes-cleaning-up) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-21_weekly-insights-review_img_image-asset28529_41e988be1c44.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/20/vlcc-and-suezmaxes-cleaning-up) | [Local Asset](assets/2024-06-21_weekly-insights-review_img_image-asset28529_41e988be1c44.jpeg)
 
 ## VLCC and Suezmaxes Cleaning Up
 
@@ -119,7 +119,7 @@ This week, in the East, we provide an update on the fleet trading Russian crude,
 ![Market Chart 9](assets/2024-06-21_weekly-insights-review_img_image-asset28629_41d89ce57514.jpeg)
 
 > **Figure 9: Market Chart 9**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/20/supply-demand-dynamics) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-21_weekly-insights-review_img_image-asset28629_41d89ce57514.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/20/supply-demand-dynamics) | [Local Asset](assets/2024-06-21_weekly-insights-review_img_image-asset28629_41d89ce57514.jpeg)
 
 ## Supply - Demand Dynamics
 
@@ -130,7 +130,7 @@ In the third week of June, significant developments are observed in the Capesize
 ![Market Chart 10](assets/2024-06-21_weekly-insights-review_img_image-asset28729_c5fc802115b3.jpeg)
 
 > **Figure 10: Market Chart 10**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/21/pbem9g3dlump0vlwezuuwygmwbdanr) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-21_weekly-insights-review_img_image-asset28729_c5fc802115b3.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/21/pbem9g3dlump0vlwezuuwygmwbdanr) | [Local Asset](assets/2024-06-21_weekly-insights-review_img_image-asset28729_c5fc802115b3.jpeg)
 
 ## More Headwinds Appearing for Dry Bulk Market
 
@@ -141,7 +141,7 @@ Dry bulk rates were mixed last week, with panamax and supramax rates rising whil
 ![Market Chart 11](assets/2024-06-21_weekly-insights-review_img_image-asset28829_bb961d27f5b4.jpeg)
 
 > **Figure 11: Market Chart 11**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/21/the-big-picture-global-steel-trades-and-chinas-steel-sector) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-21_weekly-insights-review_img_image-asset28829_bb961d27f5b4.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/21/the-big-picture-global-steel-trades-and-chinas-steel-sector) | [Local Asset](assets/2024-06-21_weekly-insights-review_img_image-asset28829_bb961d27f5b4.jpeg)
 
 ## The Big Picture: Global Steel Trades and China’s Steel Sector
 
@@ -152,7 +152,7 @@ China’s steel exports surged 23% in January-May to 44.6m tonnes, raising China
 ![Pexels Earl Andre Roca 530105282 16737194](assets/2024-06-21_weekly-insights-review_img_pexels-earl-andre-roca-530105282-167_1b1e4a1b171c.jpg)
 
 > **Figure 12: Pexels Earl Andre Roca 530105282 16737194**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/21/declining-trend-in-vlcc-ballast-speeds) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-21_weekly-insights-review_img_pexels-earl-andre-roca-530105282-167_1b1e4a1b171c.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/6/21/declining-trend-in-vlcc-ballast-speeds) | [Local Asset](assets/2024-06-21_weekly-insights-review_img_pexels-earl-andre-roca-530105282-167_1b1e4a1b171c.jpg)
 
 ## Declining Trend in VLCC Ballast Speeds
 

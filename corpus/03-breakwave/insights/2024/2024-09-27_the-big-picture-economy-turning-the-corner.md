@@ -33,7 +33,7 @@ The OECD projects broadlybut with variation within the group.
 ![Stable Growth Across the Emerging Market G20 Economies](assets/2024-09-27_the-big-picture-economy-turning-the-corner_img_image0_28ca3ee22130.png)
 
 > **Figure 1: Stable Growth Across the Emerging Market G20 Economies**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-27_the-big-picture-economy-turning-the-corner_img_image0_28ca3ee22130.png)
+> [Local Asset](assets/2024-09-27_the-big-picture-economy-turning-the-corner_img_image0_28ca3ee22130.png)
 
 **Chinese economic growth**is expected to decelerate from 5.2% last year to 4.9% this year and then to 4.5% next. Consumer demand is described by the OECD as “modest”, with the organisation highlighting the “ongoing deep correction in the property sector”.
 
@@ -42,7 +42,7 @@ is expected to continue, with GDP growth of 6.7% in 2024 and 6.8% in 2025.
 ![Strong Indian Growth](assets/2024-09-27_the-big-picture-economy-turning-the-corner_img_image1_78dc368fd218.png)
 
 > **Figure 2: Strong Indian Growth**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-27_the-big-picture-economy-turning-the-corner_img_image1_78dc368fd218.png)
+> [Local Asset](assets/2024-09-27_the-big-picture-economy-turning-the-corner_img_image1_78dc368fd218.png)
 
 In most advanced economies,**gradually moderating inflation**and easing labour market pressures are expected to support real incomes and should allow for monetary policy rate cuts, benefitting growth in the US, Canada, Europe, and Australia in 2024 and 2025.
 
@@ -57,7 +57,7 @@ While the OECD expect, it will remain higher than in advanced economies, with do
 ![Inflation to Ease in Emerging Markets](assets/2024-09-27_the-big-picture-economy-turning-the-corner_img_image2_8e80c8da496e.png)
 
 > **Figure 3: Inflation to Ease in Emerging Markets**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-27_the-big-picture-economy-turning-the-corner_img_image2_8e80c8da496e.png)
+> [Local Asset](assets/2024-09-27_the-big-picture-economy-turning-the-corner_img_image2_8e80c8da496e.png)
 
 The main**near-term risks**to the global economyinclude:
 

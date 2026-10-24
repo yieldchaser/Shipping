@@ -29,7 +29,7 @@ Week 39, September 27, 2024
 ![Στιγμιότυπο Οθόνης 2024 09 27 121800](assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4f1f405ff77b.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 27 121800**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/global-demand-woes-2024-09-26-/2ql98p/439223237/h/TohlXSIyAMVicA2RUIOSjsH8-xDk5glvmjcLjGDSBsE) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4f1f405ff77b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/global-demand-woes-2024-09-26-/2ql98p/439223237/h/TohlXSIyAMVicA2RUIOSjsH8-xDk5glvmjcLjGDSBsE) | [Local Asset](assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4f1f405ff77b.png)
 
 The last week of September is concluding with an upward trend in VLCC rates on the Arabian Gulf-China route, signalling a strengthening market as we approach the winter season, a period traditionally marked by increased energy demand. The momentum currently observed could extend into the coming months, especially as demand for oil typically rises during the colder months to meet heating and industrial needs. This seasonal factor, combined with a tightening vessel supply, may push freight rates higher.
 
@@ -44,7 +44,7 @@ Meanwhile in the[oil market](https://go.signalocean.com/e/983831/global-demand-w
 ![Στιγμιότυπο Οθόνης 2024 09 27 122132](assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b4b032c02110.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 09 27 122132**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b4b032c02110.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b4b032c02110.png)
 
 ​​​​​Sentiment in the dirty freight market remained strong in the last days of September, with current levels fueling optimism for a stronger VLCC fourth quarter.
 
@@ -55,28 +55,28 @@ Meanwhile in the[oil market](https://go.signalocean.com/e/983831/global-demand-w
 ![Στιγμιότυπο Οθόνης 2024 09 27 122218](assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e883aa2619d1.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 09 27 122218**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e883aa2619d1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e883aa2619d1.png)
 
 - **LR2**AG freight rates are approximately WS145, marking a 12% increase from the previous week and a 16% rise compared to the same week last year.
 
 ![Στιγμιότυπο Οθόνης 2024 09 27 122230](assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e816ba02e198.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 09 27 122230**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e816ba02e198.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e816ba02e198.png)
 
 - **Panamax**Carib-to-USG rates, which had previously maintained levels around WS148, have recently begun to decline, dropping below WS140. It remains uncertain whether this downward trend will persist into early October.
 
 ![Στιγμιότυπο Οθόνης 2024 09 27 122405](assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_202e733cfd3c.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 09 27 122405**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_202e733cfd3c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_202e733cfd3c.png)
 
 - **MR1**rates for shipments from the Baltic to the continent began the week with firm momentum, approaching WS230. However, by the week's end, they had decreased to around WS210. Meanwhile,**MR2**rates for shipments from the Continent to the USAC fell WS105, indicating a 43% annual decrease. On the USG-Continent route,**MR2**rates fell to WS120, reflecting a 25% monthly decrease.
 
 ![Στιγμιότυπο Οθόνης 2024 09 27 122503](assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_171f9466a1b0.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2024 09 27 122503**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_171f9466a1b0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_171f9466a1b0.png)
 
 ​​​​​​The supply of crude tankers declined during the last days of September on the VLCC AG and Aframax Mediterranean routes, while a slight upward trend is seen in the Suezmax Wafrican route.
 
@@ -88,12 +88,12 @@ Meanwhile in the[oil market](https://go.signalocean.com/e/983831/global-demand-w
 ![Στιγμιότυπο Οθόνης 2024 09 27 122602](assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_40b072c1ac60.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2024 09 27 122602**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_40b072c1ac60.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_40b072c1ac60.png)
 
 ![Στιγμιότυπο Οθόνης 2024 09 27 122613](assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_59f44436815d.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2024 09 27 122613**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_59f44436815d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_59f44436815d.png)
 
 - **Clean LR2 AG Jubail**: The downward trend observed in the third week of September has begun to shift toward an upward trajectory, with expectations of surpassing the annual average. Furthermore, indicators suggest that the end of the month may bring another increase.
 
@@ -102,14 +102,14 @@ Meanwhile in the[oil market](https://go.signalocean.com/e/983831/global-demand-w
 ![Στιγμιότυπο Οθόνης 2024 09 27 122723](assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1c41bd9d9c5f.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2024 09 27 122723**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1c41bd9d9c5f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1c41bd9d9c5f.png)
 
 - **Dirty**tonne days: The decrease in VLCC tonne-days growth has persisted through the first half of September extending the weakening trend for the second half of the month, and strengthening uncertainties about the recovery for dirty freight rates in the fourth quarter of the year with the winter season. Similarly, Suezmax tonne-days growth continued on a downward trajectory, whereas signs for a higher growth of tonne days emerged in the Aframax segment lately, but still recent estimates are below the annual trend.
 
 ![Στιγμιότυπο Οθόνης 2024 09 27 122818](assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_daf984c9a2f4.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2024 09 27 122818**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_daf984c9a2f4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_daf984c9a2f4.png)
 
 - **Panamax**tonne days: The growth rate has been revised slightly upward after experiencing a sharp decline in week 37.
 

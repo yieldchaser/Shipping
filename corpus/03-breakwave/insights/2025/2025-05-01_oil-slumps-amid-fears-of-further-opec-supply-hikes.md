@@ -27,7 +27,7 @@ Weak economic data in China weighed on sentiment across the commodity complex. P
 ![Στιγμιότυπο Οθόνης 2025 05 01 103157](assets/2025-05-01_oil-slumps-amid-fears-of-further-opec-supply-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d5bf5f4e4bca.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 05 01 103157**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-01_oil-slumps-amid-fears-of-further-opec-supply-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d5bf5f4e4bca.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-05-01_oil-slumps-amid-fears-of-further-opec-supply-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d5bf5f4e4bca.png)
 
 ### Market Commentary
 
@@ -48,7 +48,7 @@ Shipping rates are starting to fall sharply as US tariffs start to bite.
 ![Στιγμιότυπο Οθόνης 2025 05 01 103226](assets/2025-05-01_oil-slumps-amid-fears-of-further-opec-supply-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b2ff32abcd0.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 05 01 103226**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-01_oil-slumps-amid-fears-of-further-opec-supply-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b2ff32abcd0.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-05-01_oil-slumps-amid-fears-of-further-opec-supply-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b2ff32abcd0.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

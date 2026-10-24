@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-20_weekly-insights-revie
 ![Unsplash Image Drsflgeksyk](assets/2022-11-20_weekly-insights-review_img_unsplash-image-drsflgeksyk_393b5604579b.jpg)
 
 > **Figure 1: Unsplash Image Drsflgeksyk**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/14/shipping-decarbonization-weekly-insights) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-20_weekly-insights-review_img_unsplash-image-drsflgeksyk_393b5604579b.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/14/shipping-decarbonization-weekly-insights) | [Local Asset](assets/2022-11-20_weekly-insights-review_img_unsplash-image-drsflgeksyk_393b5604579b.jpg)
 
 ## Shipping Decarbonization Weekly Insights
 
@@ -45,7 +45,7 @@ The US inflation data for October that was released last week proved to be softe
 ![Unsplash Image Debvdbdh4p4](assets/2022-11-20_weekly-insights-review_img_unsplash-image-debvdbdh4p4_0d473dab285f.jpg)
 
 > **Figure 2: Unsplash Image Debvdbdh4p4**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/15/gibsons-weekly-tanker-market-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-20_weekly-insights-review_img_unsplash-image-debvdbdh4p4_0d473dab285f.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/15/gibsons-weekly-tanker-market-report) | [Local Asset](assets/2022-11-20_weekly-insights-review_img_unsplash-image-debvdbdh4p4_0d473dab285f.jpg)
 
 ## Gibson's Weekly Tanker Market Report
 
@@ -57,7 +57,7 @@ VLCC earnings have been remarkably strong over the past few months despite the p
 ![Unsplash Image Tm Pbz5uhiu](assets/2022-11-20_weekly-insights-review_img_unsplash-image-tm-pbz5uhiu_1a6c102e155c.jpg)
 
 > **Figure 3: Unsplash Image Tm Pbz5uhiu**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/17/signal-dry-bulk-weekly-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-20_weekly-insights-review_img_unsplash-image-tm-pbz5uhiu_1a6c102e155c.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/17/signal-dry-bulk-weekly-report) | [Local Asset](assets/2022-11-20_weekly-insights-review_img_unsplash-image-tm-pbz5uhiu_1a6c102e155c.jpg)
 
 ## Signal Dry Bulk Weekly Report
 
@@ -69,14 +69,14 @@ The third week of November is characterized by a continued weaker trend in freig
 ![Unsplash Image Ehlgkm8lpug](assets/2022-11-20_weekly-insights-review_img_unsplash-image-ehlgkm8lpug_8f0482d596ce.jpg)
 
 > **Figure 4: Unsplash Image Ehlgkm8lpug**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/16/the-shipping-logistics-behind-reshuffling-russian-crude) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-20_weekly-insights-review_img_unsplash-image-ehlgkm8lpug_8f0482d596ce.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/16/the-shipping-logistics-behind-reshuffling-russian-crude) | [Local Asset](assets/2022-11-20_weekly-insights-review_img_unsplash-image-ehlgkm8lpug_8f0482d596ce.jpg)
 
 ## The Shipping Logistics Behind Reshuffling Russian Crude
 
 ![Unsplash Image E Zl0alrqk8](assets/2022-11-20_weekly-insights-review_img_unsplash-image-e-zl0alrqk8_ad429b6cc0b4.jpg)
 
 > **Figure 5: Unsplash Image E Zl0alrqk8**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/16/the-shipping-logistics-behind-reshuffling-russian-crude) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-20_weekly-insights-review_img_unsplash-image-e-zl0alrqk8_ad429b6cc0b4.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/16/the-shipping-logistics-behind-reshuffling-russian-crude) | [Local Asset](assets/2022-11-20_weekly-insights-review_img_unsplash-image-e-zl0alrqk8_ad429b6cc0b4.jpg)
 
 ## Russia Is Already Having to Travel Further to Export Its Crude
 
@@ -86,7 +86,7 @@ Russian crude exports are having to travel farther as the country redirects flow
 ![Unsplash Image Eszrbtkq F8](assets/2022-11-20_weekly-insights-review_img_unsplash-image-eszrbtkq-f8_99c3b259913c.jpg)
 
 > **Figure 6: Unsplash Image Eszrbtkq F8**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/16/commodities-extend-gains-as-supply-issues-re-emerge) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-20_weekly-insights-review_img_unsplash-image-eszrbtkq-f8_99c3b259913c.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/16/commodities-extend-gains-as-supply-issues-re-emerge) | [Local Asset](assets/2022-11-20_weekly-insights-review_img_unsplash-image-eszrbtkq-f8_99c3b259913c.jpg)
 
 ## Commodities Extend Gains As Supply Issues Re-Emerge
 
@@ -104,12 +104,12 @@ Despite recent moves by the Chinese authorities to ease some of its Covid polici
 ![Unsplash Image Zlcv9nxr2y0](assets/2022-11-20_weekly-insights-review_img_unsplash-image-zlcv9nxr2y0_627c5947b2ee.jpg)
 
 > **Figure 7: Unsplash Image Zlcv9nxr2y0**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/18/global-grain-trade-forecast-lowered-again) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-20_weekly-insights-review_img_unsplash-image-zlcv9nxr2y0_627c5947b2ee.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/18/global-grain-trade-forecast-lowered-again) | [Local Asset](assets/2022-11-20_weekly-insights-review_img_unsplash-image-zlcv9nxr2y0_627c5947b2ee.jpg)
 
 ![Unsplash Image Cqbaoohfswq](assets/2022-11-20_weekly-insights-review_img_unsplash-image-cqbaoohfswq_ad3fe4477f9d.jpg)
 
 > **Figure 8: Unsplash Image Cqbaoohfswq**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/18/global-grain-trade-forecast-lowered-again) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-20_weekly-insights-review_img_unsplash-image-cqbaoohfswq_ad3fe4477f9d.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/18/global-grain-trade-forecast-lowered-again) | [Local Asset](assets/2022-11-20_weekly-insights-review_img_unsplash-image-cqbaoohfswq_ad3fe4477f9d.jpg)
 
 ## Global Grain Trade Forecast Lowered Again
 
@@ -121,7 +121,7 @@ The United States Department of Agriculture (USDA) recently released their lates
 ![Unsplash Image Ruaalw4bvy8 (2)](assets/2022-11-20_weekly-insights-review_img_unsplash-image-ruaalw4bvy828229_8d07df461a38.jpg)
 
 > **Figure 9: Unsplash Image Ruaalw4bvy8 (2)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/18/brs-dry-bulk-weekly-newsletter) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-20_weekly-insights-review_img_unsplash-image-ruaalw4bvy828229_8d07df461a38.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/18/brs-dry-bulk-weekly-newsletter) | [Local Asset](assets/2022-11-20_weekly-insights-review_img_unsplash-image-ruaalw4bvy828229_8d07df461a38.jpg)
 
 ## Brs Dry Bulk Weekly Newsletter
 
@@ -133,7 +133,7 @@ The world has moved on from the coronavirus pandemic - except for China.
 ![Unsplash Image Zdzo5pgyoba](assets/2022-11-20_weekly-insights-review_img_unsplash-image-zdzo5pgyoba_525fb9781a09.jpg)
 
 > **Figure 10: Unsplash Image Zdzo5pgyoba**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/19/gibsons-weekly-tanker-market-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-20_weekly-insights-review_img_unsplash-image-zdzo5pgyoba_525fb9781a09.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/19/gibsons-weekly-tanker-market-report) | [Local Asset](assets/2022-11-20_weekly-insights-review_img_unsplash-image-zdzo5pgyoba_525fb9781a09.jpg)
 
 ## Gibson's Weekly Tanker Market Report
 

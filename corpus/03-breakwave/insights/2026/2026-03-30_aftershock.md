@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-03-30_aftershock.html"
 ![Singapore 590x333](assets/2026-03-30_aftershock_img_singapore-590x333_b0a3a447b7b1.jpg)
 
 > **Figure 1: Singapore 590x333**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-30_aftershock_img_singapore-590x333_b0a3a447b7b1.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-03-30_aftershock_img_singapore-590x333_b0a3a447b7b1.jpg)
 
 With so much short-term uncertainty surrounding the Middle East War, most are focused on the near-term implications. However, the conflict will have lasting impacts, forcing many countries to reevaluate their attitudes towards energy security in terms of free trade and sourcing of essential commodities, alongside domestic energy production and the fuel mix which powers their economies. Yet in a less extreme sense, we have been here before with the Russia-Ukraine War. Here, the loss of energy supplies was primarily a European problem, with the conflict ultimately doing little to reduce Europe’s import burden and ironically making the region even more dependent on Middle East energy. So, with Europe facing its second major energy crisis in the space of 4 years, and Asia reeling from the loss of its most critical suppliers, surely economies around the world will be forced to make major changes to energy policy to avoid ever being crippled in the same way again?
 
@@ -40,7 +40,7 @@ So, what might this mean for tankers? Well, that depends on how long the crisis 
 ![Στιγμιότυπο Οθόνης 2026 03 29 192152](assets/2026-03-30_aftershock_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_edfb01168083.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 03 29 192152**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-30_aftershock_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_edfb01168083.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-03-30_aftershock_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_edfb01168083.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

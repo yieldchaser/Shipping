@@ -37,7 +37,7 @@ For all the segments we see that grain has a higher market share when we use the
 ![Klav 20](assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav20_dc18d7a5e624.png)
 
 > **Figure 1: Klav 20**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav20_dc18d7a5e624.png)
+> [Local Asset](assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav20_dc18d7a5e624.png)
 
 ### Grain Supply and Demand
 
@@ -50,14 +50,14 @@ In the current marketing year USDA estimates that North American export will reb
 ![Klav 21](assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav21_de351cf25ea3.png)
 
 > **Figure 2: Klav 21**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav21_de351cf25ea3.png)
+> [Local Asset](assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav21_de351cf25ea3.png)
 
 While the Pacific only accounts for 22% of grain exports, 58% of the import are in the Pacific. On the demand side, 58% of the imports is in the Pacific, with Far East and South East Asia as the largest demand centers. While on the export side, only 22% is in the Pacific. As the major grain export regions are in the Atlantic it means that the average distance of the grain trade is very long. If we look at export vs import per basin only on Panamaxes (the preferred carrier of long-haul grains) we see that 80% of imports are in the Pacific, while 84% of the export is in the Atlantic. If we look at the geared segments imports are higher in the Atlantic than in the Pacific, suggesting that the trade is more intra-basin than in the Panamax segment.
 
 ![Klav 22](assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav22_5359dab6db3e.png)
 
 > **Figure 3: Klav 22**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav22_5359dab6db3e.png)
+> [Local Asset](assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav22_5359dab6db3e.png)
 
 ### 2020 Grain Trade Figures – A Very Strong Year
 
@@ -68,7 +68,7 @@ ECSA grain export was exceptionally strong in the Q2 peak season and is up 4.5% 
 ![Klav 23](assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav23_25fe5d32439b.png)
 
 > **Figure 4: Klav 23**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav23_25fe5d32439b.png)
+> [Local Asset](assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav23_25fe5d32439b.png)
 
 US grain exports were weak in the previous two years because of the trade war with China. This year’s peak export season has started of at all time high levels as China is buying massive amounts of soybeans and corn from the US.
 
@@ -77,14 +77,14 @@ Ytd grain export out of the US is up 15% while exports in the last two months al
 ![Klav 24](assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav24_4ab25f6025ee.png)
 
 > **Figure 5: Klav 24**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav24_4ab25f6025ee.png)
+> [Local Asset](assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav24_4ab25f6025ee.png)
 
 Exports out of Med/BS – the third largest grain export region – is up 1.9% in the first 10 months of this year. Total grain export was recording seasonal all-time highs in the first 10 months of the year but has been down yoy since June. However, if look at Panamax shipments there is no signs of weakness in recent months. Panamax grain exports out of the Med/BS has been very strong as long-haul shipments of corn and barley to China has been on the rise.
 
 ![Klav Bs](assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klavbs_886d59132a44.png)
 
 > **Figure 6: Klav Bs**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klavbs_886d59132a44.png)
+> [Local Asset](assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klavbs_886d59132a44.png)
 
 ### Have You Heard About the Chinese Pig Herd?
 
@@ -97,7 +97,7 @@ As mentioned above, USDA expects the global grain trade to increase marginally i
 ![Klav 26](assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav26_1f6cf1963469.png)
 
 > **Figure 7: Klav 26**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav26_1f6cf1963469.png)
+> [Local Asset](assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav26_1f6cf1963469.png)
 
 ### Grain Demand – How Is the Long-Term Outlook?
 
@@ -107,7 +107,7 @@ Once a year USDA publishes their long-term projections for the coming 10-year pe
 
 > **Figure 8: All Trade Growth Numbers in This Article Is Derived From Our**  
 > **All trade growth numbers in this article is derived from our in-house analytical platform which includes data and material from AXSMarine, all rights reserved.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav27_e3572a92e477.png)
+> [Local Asset](assets/2020-11-13_2021-dry-bulk-outlook-grains_img_klav27_e3572a92e477.png)
 
 To summarize we expect global grain trade in the coming calendar year to grow with at least 2% in volume terms, and more in terms of vessel demand. The long term outlook for trade growth is positive as the global population continues to increase and as a rising middle class in Emerging Asia switches to a more protein rich diet. The lions share of demand growth will be in Asia while the export will continue to grow the most in the Atlantic. This means that growth in vessel demand will be healthy, especially in the Panamax segment which is the preferred carrier of long-haul grains.
 

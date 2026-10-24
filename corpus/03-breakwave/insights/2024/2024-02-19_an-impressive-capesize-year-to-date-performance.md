@@ -35,14 +35,14 @@ Structural challenges within China's real estate market, along with deflationary
 ![Screenshot 2024 02 19 13.20.34](assets/2024-02-19_an-impressive-capesize-year-to-date-performance_img_screenshot2024-02-19132034_770c73f7b871.png)
 
 > **Figure 1: Screenshot 2024 02 19 13.20.34**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-19_an-impressive-capesize-year-to-date-performance_img_screenshot2024-02-19132034_770c73f7b871.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-02-19_an-impressive-capesize-year-to-date-performance_img_screenshot2024-02-19132034_770c73f7b871.png)
 
 In conclusion, despite the challenges, the sluggish recovery of China’s property sector is prompting additional stimulus support this year, which could act as a tailwind for the iron ore market. Furthermore, the accumulation of imported iron ore stocks at China's major 45 ports, as reported in Mysteel's weekly survey, has propelled the volume to reach a 10-month high of 131.5 million tonnes. However, it's worth noting that despite this increase, the stockpiles of ore still remain 6 percent lower compared to the previous year.
 
 ![Screenshot 2024 02 19 13.20.43](assets/2024-02-19_an-impressive-capesize-year-to-date-performance_img_screenshot2024-02-19132043_097f9034b9bb.png)
 
 > **Figure 2: Screenshot 2024 02 19 13.20.43**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-19_an-impressive-capesize-year-to-date-performance_img_screenshot2024-02-19132043_097f9034b9bb.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-02-19_an-impressive-capesize-year-to-date-performance_img_screenshot2024-02-19132043_097f9034b9bb.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

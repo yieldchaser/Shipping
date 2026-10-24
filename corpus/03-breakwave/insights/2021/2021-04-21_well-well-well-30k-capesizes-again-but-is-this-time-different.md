@@ -27,7 +27,7 @@ As the spot Capesize index propels past the 30,000 mark once again and the futur
 ![Capes April 21](assets/2021-04-21_well-well-well-30k-capesizes-again-but-is-this-time-different_img_capesapril21_cd2c653d308f.jpg)
 
 > **Figure 1: Capes April 21**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-21_well-well-well-30k-capesizes-again-but-is-this-time-different_img_capesapril21_cd2c653d308f.jpg)
+> [Local Asset](assets/2021-04-21_well-well-well-30k-capesizes-again-but-is-this-time-different_img_capesapril21_cd2c653d308f.jpg)
 
 The bullish camp is mainly focused on a broader reflation trade that is pushing commodities and economic growth higher as a result of the resumption of economic activity. Such a trend does not last weeks; rather, it is a longer term trend, and although one has always to remember that shipping is highly cyclical, such upturns last months, if not even years. The COVID-related downcycle was severe for most of the world ( ex-China) and now there is a combination of inventory rebuilding and real demand for bulk goods simultaneously boosting demand.
 
@@ -40,7 +40,7 @@ Then there is the camp that sees the current rally as temporary, fueled by senti
 ![Ship18](assets/2021-04-21_well-well-well-30k-capesizes-again-but-is-this-time-different_img_ship18_12cd82abb0df.jpg)
 
 > **Figure 2: Ship18**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-21_well-well-well-30k-capesizes-again-but-is-this-time-different_img_ship18_12cd82abb0df.jpg)
+> [Local Asset](assets/2021-04-21_well-well-well-30k-capesizes-again-but-is-this-time-different_img_ship18_12cd82abb0df.jpg)
 
 At the same time, a longer, slower trend is emerging that exacerbates the situation, albeit not to the extent that prices are pointing to. The fleet growth is slowing and will slow further in the next few years. This is a trend that will have a meaningful impact on the market balance, but understandably is not the reason for any movement in rates in the short term. Yet, with a gradually tightening market come higher lows and higher highs, and that should support the market for the years to come.
 

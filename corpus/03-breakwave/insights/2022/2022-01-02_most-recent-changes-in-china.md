@@ -27,21 +27,21 @@ The most recent data from the China Iron and Steel Association (CISA) shows dail
 ![Chart 1 (12)](assets/2022-01-02_most-recent-changes-in-china_img_chart1281229_3c831260e68b.jpg)
 
 > **Figure 1: Chart 1 (12)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-02_most-recent-changes-in-china_img_chart1281229_3c831260e68b.jpg)
+> [Local Asset](assets/2022-01-02_most-recent-changes-in-china_img_chart1281229_3c831260e68b.jpg)
 
 Also of note is that flat and construction steel stockpiles at warehouses in major cities began this week at 10.3 million tons. This is down week-on-week by 300,000 tons (-3%) but up year-on-year by 1.8 million tons (21%).
 
 ![Chart 2 (10)](assets/2022-01-02_most-recent-changes-in-china_img_chart2281029_a0c94eddd07a.jpg)
 
 > **Figure 2: Chart 2 (10)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-02_most-recent-changes-in-china_img_chart2281029_a0c94eddd07a.jpg)
+> [Local Asset](assets/2022-01-02_most-recent-changes-in-china_img_chart2281029_a0c94eddd07a.jpg)
 
 In the iron ore market, of note is that 155.8 million tons of iron ore is now stockpiled at Chinese ports. This is 1.7 million tons (-1%) less than was stockpiled a week ago but is up year-on-year by 28.8 million tons (23%). Previously, stockpiles had increased for twelve consecutive weeks. Also of note is that global iron ore prices have climbed even higher. Spot benchmark Australian iron ore, for example, began this week at approximately $116/ton FOB. This is up week-on-week by $7 (6%).
 
 ![Chart 3 (8)](assets/2022-01-02_most-recent-changes-in-china_img_chart328829_310ef296ffad.jpg)
 
 > **Figure 3: Chart 3 (8)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-02_most-recent-changes-in-china_img_chart328829_310ef296ffad.jpg)
+> [Local Asset](assets/2022-01-02_most-recent-changes-in-china_img_chart328829_310ef296ffad.jpg)
 
 Elsewhere, of note is that the most recent data as of December 26th shows coal stockpiles at China's six major coastal power plants remain at 11.7 million tons. This is unchanged from the previous week and is down year-on-year by 2.8 million tons (-19%). Also of note and significant is that the daily coal burn rate at the six major coastal power plants has come in at 877,000 tons, which marks the highest daily burn rate ever seen. The previous daily burn rate record was 855,000 tons back in mid-July, and as another point of reference the daily burn rate a year ago stood at 701,000 tons. The coastal power plant stockpiles are now able to meet 13 days of demand. Prior to this week, there was no period in 2021 or 2020 where stockpiles were able to meet only 13 days of demand.
 

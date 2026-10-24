@@ -25,14 +25,14 @@ Vale, the Brazilian mining company, yesterday reported third quarter production 
 ![Invenotry Vale](assets/2020-10-20_vale-where-is-all-the-iron-ore-going-to_img_invenotryvale_66c93eff62a7.png)
 
 > **Figure 1: Invenotry Vale**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-20_vale-where-is-all-the-iron-ore-going-to_img_invenotryvale_66c93eff62a7.png)
+> [Local Asset](assets/2020-10-20_vale-where-is-all-the-iron-ore-going-to_img_invenotryvale_66c93eff62a7.png)
 
 Vale mentioned that in September such discrepancy had started to normalize, with further alignment (sales vs. production) expected for the rest of the year. Based on the reported numbers, Vale can hit their production target of ~310mt for 2020 but sales will fall well short of such number, most likely some 20mt+ below that. For shipping, it is not what is produced, but what is shipped, and despite production ending up being higher versus last year, sales volume will most likely end up being lower.
 
 ![Porto Teluk](assets/2020-10-20_vale-where-is-all-the-iron-ore-going-to_img_porto-teluk_7197bca2bc4b.jpg)
 
 > **Figure 2: Porto Teluk**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-20_vale-where-is-all-the-iron-ore-going-to_img_porto-teluk_7197bca2bc4b.jpg)
+> [Local Asset](assets/2020-10-20_vale-where-is-all-the-iron-ore-going-to_img_porto-teluk_7197bca2bc4b.jpg)
 
 Teluk Rubiah Terminal, Malaysia
 

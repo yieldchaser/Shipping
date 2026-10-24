@@ -30,7 +30,7 @@ In early 2023, monthly data pointed to a near-term improvement in growth prospec
 ![1 (8)](assets/2023-03-27_doric-weekly-market-insight_img_128829_aca1df036622.png)
 
 > **Figure 1: 1 (8)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-27_doric-weekly-market-insight_img_128829_aca1df036622.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-03-27_doric-weekly-market-insight_img_128829_aca1df036622.png)
 
 Looking forward, global growth is projected to remain at a belowtrend rate in 2023-24, with inflation moderating gradually as the quick and synchronised monetary policy tightening over the past year takes full effect, according to the OECD. In fact, average annual growth of global GDP in 2023 is projected to be 2.6 percent, recovering to 2.9 percent in 2024, a rate close to the pre-pandemic trend, but sub-par compared to earlier decades. All but two G20 economies are projected to have slower growth in 2023 than in 2022, with China being a bold exception due to the easing of anti-Covid restrictions.
 
@@ -39,7 +39,7 @@ However, signals from the world’s second largest economy have been rather mixe
 ![1 (9)](assets/2023-03-27_doric-weekly-market-insight_img_128929_e714363aa590.png)
 
 > **Figure 2: 1 (9)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-27_doric-weekly-market-insight_img_128929_e714363aa590.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-03-27_doric-weekly-market-insight_img_128929_e714363aa590.png)
 
 Concerns that China may cut crude steel output for the remainder of the year pressured the iron ore and Capesize markets early last week. But sentiment picked up on Friday. Dalian and Singapore iron ore futures rebounded during afternoon trading today, helped by data showing that inventories at Chinese ports continued to fall. Iron ore inventories at major Chinese ports fell for the fourth week in a row by a total of 4.3 percent to 136.05 million tonnes as of March 24, according to Mysteel. Against this backdrop, Baltic Dry Index concluded Friday in the green, with Capesizes in the front seat.
 

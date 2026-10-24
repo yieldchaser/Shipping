@@ -39,7 +39,7 @@ While 2024 spot market performance underscored the volatility and unpredictabili
 ![Στιγμιότυπο Οθόνης 2025 01 13 150409](assets/2025-01-13_a-buoyant-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ba5901331ea.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 01 13 150409**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-13_a-buoyant-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ba5901331ea.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-01-13_a-buoyant-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ba5901331ea.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

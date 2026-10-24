@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-09-28_the-overlooked-boom-i
 ![Rgb Color Brs Shipbrokers Monogram L](assets/2026-09-28_the-overlooked-boom-in-ship-repair_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram L**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-28_the-overlooked-boom-in-ship-repair_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](assets/2026-09-28_the-overlooked-boom-in-ship-repair_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 ### Ageing Fleets Are Creating the Next Capacity Challenge
 
@@ -38,7 +38,7 @@ By 2027, an estimated 2,869 current active dry bulk vessels will be older than 2
 ![2 Tow 1](assets/2026-09-28_the-overlooked-boom-in-ship-repair_img_2tow1_93c8b416c241.png)
 
 > **Figure 2: 2 Tow 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-28_the-overlooked-boom-in-ship-repair_img_2tow1_93c8b416c241.png)
+> [Local Asset](assets/2026-09-28_the-overlooked-boom-in-ship-repair_img_2tow1_93c8b416c241.png)
 
 **Strong freight markets are keeping older vessels alive.**Freight earnings remain sufficiently attractive to justify extending the operating lives of ageing ships. Transactions for further trading involving vessels above 20 years of age remain regular, suggesting that many owners still see commercial value in keeping older assets trading, these kinds of vessels no longer have loans on them and thus their profit is straight income generation for their owners. This is particularly evident in dry bulk shipping. During early September, Capesize earnings briefly exceeded $58,000/day. Under such conditions, taking a vessel out of service for a 20-day Special Survey could mean sacrificing around $1 mln in revenue. As a result, owners face a difficult trade-off.
 
@@ -47,7 +47,7 @@ On one hand, ageing vessels require more frequent inspections, steel renewals an
 ![3 Tow 2](assets/2026-09-28_the-overlooked-boom-in-ship-repair_img_3tow2_bf0cca31ecc6.png)
 
 > **Figure 3: 3 Tow 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-28_the-overlooked-boom-in-ship-repair_img_3tow2_bf0cca31ecc6.png)
+> [Local Asset](assets/2026-09-28_the-overlooked-boom-in-ship-repair_img_3tow2_bf0cca31ecc6.png)
 
 **Repair yards are becoming the next capacity bottleneck.**Unlike newbuilding capacity, which can be expanded through large-scale investment programmes over time, repair capacity is much more difficult to grow quickly.
 
@@ -62,7 +62,7 @@ Demand for repair services or adding equipment’s services are rising rapidly d
 ![4 Tow 3](assets/2026-09-28_the-overlooked-boom-in-ship-repair_img_4tow3_399ad6a6b0fa.png)
 
 > **Figure 4: 4 Tow 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-28_the-overlooked-boom-in-ship-repair_img_4tow3_399ad6a6b0fa.png)
+> [Local Asset](assets/2026-09-28_the-overlooked-boom-in-ship-repair_img_4tow3_399ad6a6b0fa.png)
 
 **Zhoushan is emerging as the centre of gravity for global ship repairs.**Few regions are better positioned to benefit from this structural trend than Zhoushan. According to the Zhoushan Customs Authority,during the first seven months of this year, 1,700 foreign vessels underwent repairs in the region, generating approximately $1.38 billion. The region currently accounts for over 45% of China's ship repair activity and more than 20% of the global market.Its dominance is equally evident at the company level. Five of the world's top ten repair yards are located in Zhoushan, with Xinya Shipyard, Huafeng Shipyard and Changhong International ranking among the world's leading facilities by annual repair completions.As more bulk carriers move into the 20-year-plus age category, these kinds of yards are likely to become critical infrastructure supporting the continued operation of the global fleet.
 

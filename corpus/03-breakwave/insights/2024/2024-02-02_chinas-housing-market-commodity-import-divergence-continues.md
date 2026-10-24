@@ -27,7 +27,7 @@ Last year saw China’s major dry bulk imports set a record as we anticipated, e
 ![241](assets/2024-02-02_chinas-housing-market-commodity-import-divergence-continues_img_241_e9a269ae5b5d.jpg)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-02_chinas-housing-market-commodity-import-divergence-continues_img_241_e9a269ae5b5d.jpg)
+> [Local Asset](assets/2024-02-02_chinas-housing-market-commodity-import-divergence-continues_img_241_e9a269ae5b5d.jpg)
 
 Also of note is that last year ended with 673 million square meters of floor space available in China's commercial buildings (which includes residential buildings), which marked the largest available since 2016.
 
@@ -40,7 +40,7 @@ Looking forward, there are still no signs that China's robust appetite for commo
 ![242](assets/2024-02-02_chinas-housing-market-commodity-import-divergence-continues_img_242_b19ec49e509e.jpg)
 
 > **Figure 2: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-02_chinas-housing-market-commodity-import-divergence-continues_img_242_b19ec49e509e.jpg)
+> [Local Asset](assets/2024-02-02_chinas-housing-market-commodity-import-divergence-continues_img_242_b19ec49e509e.jpg)
 
 ---
 

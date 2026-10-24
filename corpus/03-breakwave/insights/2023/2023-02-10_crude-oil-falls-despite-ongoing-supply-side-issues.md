@@ -26,7 +26,7 @@ Markets were mixed as traders balanced stronger demand in China against the pros
 ![1675976438371](assets/2023-02-10_crude-oil-falls-despite-ongoing-supply-side-issues_img_1675976438371_80eaa69f6ace.png)
 
 > **Figure 1: 1675976438371**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-10_crude-oil-falls-despite-ongoing-supply-side-issues_img_1675976438371_80eaa69f6ace.png)
+> [Local Asset](assets/2023-02-10_crude-oil-falls-despite-ongoing-supply-side-issues_img_1675976438371_80eaa69f6ace.png)
 
 **Crude oil**edged lower amid concerns that weakness in the US market would offset strong Chinese demand. The large build in inventories over recent weeks has hurt confidence in oil demand, as the Federal Reserve looks to continue raising rates. This offset further supply disruptions. Export of Azerbaijan oil from Turkey is unlikely to resume until late next week. The halt has halted about 600kb/d of shipments. Kazakh crude output has been curtailed by about 200kb/d due to unplanned maintenance. This points to a broader issue with supply.[**Sources of growth in supply to meet higher demand from China look limited**](../pdfs/2023-02-10_crude-oil-falls-despite-ongoing-supply-side-issues_commodity-call-supply-mirage_0ad0a84247d8.pdf). The Iran nuclear deal looks highly unlikely, removing 1.5mb/d that was expected to hit the market. OPEC has limited spare capacity. Over half of expected growth in supply this year is coming from US shale. But the fall in price has seen drilling activity fall. With most producers maintaining a cautious approach on investment, there is a significant risk that US supply will fail to meet expectations. A tight market and high prices look increasingly likely.
 

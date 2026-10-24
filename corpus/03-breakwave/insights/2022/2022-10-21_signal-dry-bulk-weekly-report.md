@@ -28,7 +28,7 @@ Freight rates in the Capesize and Panamax segments, as well as in the smaller ve
 
 > **Figure 1: Data Source: The Signal Ocean Platform**  
 > *Data Source: The Signal Ocean Platform, Dry Bulk Flowshttps://go.signalocean.com/e/983831/dry-reports-drybulkflows/2kk94v/280281820?h=kO7eAqUxpoIeVOcP1sJzboQA187-UsG8IoyZKvbCA0o*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-drybulkflows/2kk94v/280281820?h=kO7eAqUxpoIeVOcP1sJzboQA187-UsG8IoyZKvbCA0o) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-21_signal-dry-bulk-weekly-report_img_unnamed289829_dcccc4aa9408.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-drybulkflows/2kk94v/280281820?h=kO7eAqUxpoIeVOcP1sJzboQA187-UsG8IoyZKvbCA0o) | [Local Asset](assets/2022-10-21_signal-dry-bulk-weekly-report_img_unnamed289829_dcccc4aa9408.png)
 
 In the iron ore market, Mining.com news reported a drop in prices as China's zero-tolerance approach to Covid-19 has caused supply chain disruptions, dampened demand and dramatically slowed China's economy. According to Fastmarkets MB, 62% fine ore imported in northern China traded for $93.68 per tonne on Thursday morning, down 1.94%. In addition, Rio Tinto predicted slower growth in Chinese demand in its quarterly report, with iron ore prices tending to reach the lowest levels in 2022.
 
@@ -39,7 +39,7 @@ In the iron ore market, Mining.com news reported a drop in prices as China's zer
 ![Market Chart 2](assets/2022-10-21_signal-dry-bulk-weekly-report_img_unnamed289929_8f86b7f7c0b1.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-21_signal-dry-bulk-weekly-report_img_unnamed289929_8f86b7f7c0b1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-10-21_signal-dry-bulk-weekly-report_img_unnamed289929_8f86b7f7c0b1.png)
 
 The third week of October began with a downward trend in all size categories, with Panamax and Capesize rates still firmer than in September despite the recent slump.
 
@@ -53,7 +53,7 @@ The third week of October began with a downward trend in all size categories, wi
 ![Supply Trend Lines for Key Load Areas](assets/2022-10-21_signal-dry-bulk-weekly-report_img_unnamed2810029_e781e432ab06.png)
 
 > **Figure 3: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-21_signal-dry-bulk-weekly-report_img_unnamed2810029_e781e432ab06.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-10-21_signal-dry-bulk-weekly-report_img_unnamed2810029_e781e432ab06.png)
 
 The trend has decreased significantly in the Capesize segment, while a strong downward correction is observed in the Supramax segment.
 
@@ -67,7 +67,7 @@ The trend has decreased significantly in the Capesize segment, while a strong do
 ![Dry Bulk Ships Congested at Chinese Ports](assets/2022-10-21_signal-dry-bulk-weekly-report_img_unnamed-2022-10-21t124130908_ce2ebf557a82.png)
 
 > **Figure 4: Dry Bulk Ships Congested at Chinese Ports**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-21_signal-dry-bulk-weekly-report_img_unnamed-2022-10-21t124130908_ce2ebf557a82.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-10-21_signal-dry-bulk-weekly-report_img_unnamed-2022-10-21t124130908_ce2ebf557a82.png)
 
 The number of congested vessels showed a downward trend after an accelerated increase in the previous weeks, while in the smaller vessel categories the numbers seemed to remain at a high level.
 

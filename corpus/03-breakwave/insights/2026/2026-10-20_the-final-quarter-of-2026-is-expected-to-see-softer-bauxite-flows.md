@@ -30,7 +30,7 @@ Chinese front-loading is expected to have run its course, pointing to softer bau
 ![Market Chart 1](assets/2026-10-20_the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows_img_unnamed_5d19234ef6b4.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///c:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-20_the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows_img_unnamed_5d19234ef6b4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-10-20_the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows_img_unnamed_5d19234ef6b4.png)
 
 Bauxite flows in September 2026 rose 3% to 20.4 Mt, driven by higher flows from Guinea. Flows fell m/m, but this was expected as September falls within the wet season, which typically reduces the ability of material to flow out of the ports. Compared to September 2025, flows from Guinea increased by over 20%.
 
@@ -41,7 +41,7 @@ India has been a key landing spot for seaborne bauxite that could not reach the 
 ![Market Chart 2](assets/2026-10-20_the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows_img_unnamed28129_f0484f4a2a50.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///c:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-20_the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows_img_unnamed28129_f0484f4a2a50.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-10-20_the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows_img_unnamed28129_f0484f4a2a50.png)
 
 The outlook for global bauxite flows is softer in Q4 2026, with Guinea’s export restrictions expected to constrain shipments in the final months of the year. In June, Guinea introduced an annual export quota of 150 Mt, 18% below 2025 levels. However, Signal Ocean data show Guinean bauxite exports up 21% year-to-date, implying that shipments will need to slow materially in Q4.
 
@@ -50,7 +50,7 @@ Demand growth elsewhere is unlikely to offset this reduction. India remains well
 ![Market Chart 3](assets/2026-10-20_the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows_img_unnamed28229_1b91add3f984.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///c:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-20_the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows_img_unnamed28229_1b91add3f984.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-10-20_the-final-quarter-of-2026-is-expected-to-see-softer-bauxite-flows_img_unnamed28229_1b91add3f984.png)
 
 ## Front Loading Leads to a Weaker Final Quarter Outlook
 

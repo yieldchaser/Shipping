@@ -27,7 +27,7 @@ Following last week's optimistic Chinese GDP data, Sheng Laiyun, a spokesperson 
 ![Στιγμιότυπο Οθόνης 2024 04 29 101503 Doric](assets/2024-04-29_bkql25bg3bufqvioabueoj1k2f7eb9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2abb547537c.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 04 29 101503 Doric**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-29_bkql25bg3bufqvioabueoj1k2f7eb9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2abb547537c.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-04-29_bkql25bg3bufqvioabueoj1k2f7eb9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2abb547537c.png)
 
 The secondary industry (comprising industry and manufacturing) demonstrated the highest growth rate, climbing by 6 percent year-onyear to reach RMB 10.98 trillion (US$1.52 trillion). Concurrently, the tertiary sector (services) experienced a 5 percent year-on-year growth, while the primary sector (encompassing agriculture and resource extraction) saw a 3.3 percent increase compared to the previous year. Moreover, the manufacturing purchasing manager’s index (PMI) rebounded to 50.8 percent in March 2024, signaling a resurgence in expansion after languishing below 50 percent for five consecutive months.
 
@@ -40,7 +40,7 @@ Compared to the fourth quarter, the slowdown in real GDP growth in the first qua
 ![Στιγμιότυπο Οθόνης 2024 04 29 102105 Doric](assets/2024-04-29_bkql25bg3bufqvioabueoj1k2f7eb9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb11a235aeed.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 04 29 102105 Doric**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-29_bkql25bg3bufqvioabueoj1k2f7eb9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb11a235aeed.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-04-29_bkql25bg3bufqvioabueoj1k2f7eb9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb11a235aeed.png)
 
 Over time, the responsiveness of goods trade to global income fluctuations has diminished, though this relationship seems to have stabilized in recent years. In the 1990s, the volume of merchandise trade grew more than twice as fast as real-world GDP, and 1.5 times as fast in the early 2000s. However, the ratio declined from 2.3-to-1 in the 1990s to 1.5-to-1 in the 2000s. Since 2010, the ratio has further decreased to an average of 0.9-to-1, with fluctuations intensifying in later years. For the current trading year, World Trade Organization (WTO) anticipates that world merchandise trade will grow by 2.6 percent, with a projected increase of 3.3 percent in 2025 as demand for traded goods rebounds following a contraction in 2023. Despite a 3.0 percent expansion in 2022, trade volume experienced a decline of 1.2 percent last year. The enduring impacts of high energy prices and inflation particularly dampened demand for trade-intensive manufactured goods, but gradual recovery is expected by the WTO over the next two years as inflationary pressures alleviate and real household incomes improve. Should the WTO's forecast for the current trading year materialize, the ratio of trade to GDP is poised to rebound to 0.94-to-1 in 2024.
 
@@ -49,7 +49,7 @@ Concurrently, while the World Trade Organization anticipates increased trading a
 ![Στιγμιότυπο Οθόνης 2024 04 29 102540 Doric](assets/2024-04-29_bkql25bg3bufqvioabueoj1k2f7eb9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb6dc0553e4e.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 04 29 102540 Doric**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-29_bkql25bg3bufqvioabueoj1k2f7eb9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb6dc0553e4e.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-04-29_bkql25bg3bufqvioabueoj1k2f7eb9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb6dc0553e4e.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

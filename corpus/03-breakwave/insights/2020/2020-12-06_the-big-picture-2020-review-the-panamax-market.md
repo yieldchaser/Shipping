@@ -31,7 +31,7 @@ Like the smaller ships, which we reviewed last week, Panamaxes too have seen lar
 ![Bmr 50](assets/2020-12-06_the-big-picture-2020-review-the-panamax-market_img_bmr50_92bcd5cd7adb.png)
 
 > **Figure 1: Bmr 50**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-06_the-big-picture-2020-review-the-panamax-market_img_bmr50_92bcd5cd7adb.png)
+> [Local Asset](assets/2020-12-06_the-big-picture-2020-review-the-panamax-market_img_bmr50_92bcd5cd7adb.png)
 
 Rising in tandem with the Capes, the reversal came in June, with Panamax freight rising to a peak of just over $15,000/day in August. However the market did not seem able to climb to last-year’s highs, with average rates over Q3 settling 27% lower YoY. Over this period, demand has been pulled in both directions by bullish and bearish market forces, as the Covid-19 crisis has hit the various commodity markets in different ways.
 
@@ -42,7 +42,7 @@ As we covered previously, coal trade has been one of the dry bulk commodities wo
 ![Bmr 51](assets/2020-12-06_the-big-picture-2020-review-the-panamax-market_img_bmr51_d780fb31aa27.png)
 
 > **Figure 2: Bmr 51**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-06_the-big-picture-2020-review-the-panamax-market_img_bmr51_d780fb31aa27.png)
+> [Local Asset](assets/2020-12-06_the-big-picture-2020-review-the-panamax-market_img_bmr51_d780fb31aa27.png)
 
 Over the first eleven months of this year, total coal volumes shipped on Panamaxes (excluding cabotage trade) amounted to 507.5m tonnes, 9% lower YoY.
 
@@ -51,7 +51,7 @@ Last week’s report discussed the drivers of lower Pacific coal volumes, but At
 ![Bmr 52](assets/2020-12-06_the-big-picture-2020-review-the-panamax-market_img_bmr52_22ada0367d9d.png)
 
 > **Figure 3: Bmr 52**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-06_the-big-picture-2020-review-the-panamax-market_img_bmr52_22ada0367d9d.png)
+> [Local Asset](assets/2020-12-06_the-big-picture-2020-review-the-panamax-market_img_bmr52_22ada0367d9d.png)
 
 We saw this weakness in Atlantic flows reflected in transatlantic freight rates, which underperformed in the first half of the year. According to the Baltic Exchange, earnings on this trade slumped to just $716/day in May, only a few dollars higher than the all-time lows of 2014.
 
@@ -71,12 +71,12 @@ Corn trade also remained strong this year, though it fell slightly short of 2019
 
 > **Figure 4: Healthy Feed Demand in China Has Sustained Through the Second**  
 > *Healthy feed demand in China has sustained through the second half of the year, allowing US exporters to capitalise. The US export season kicked off in August, and there too, volumes have soared. Exports grew by around 75% YoY in October, and will likely remain strong as the year draws to a close (see ourBig Pictureon 20 November). This has recently helped to support rates in the USG and in the North Pacific.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-06_the-big-picture-2020-review-the-panamax-market_img_bmr53_f75c3bdc2258.png)
+> [Local Asset](assets/2020-12-06_the-big-picture-2020-review-the-panamax-market_img_bmr53_f75c3bdc2258.png)
 
 ![Bmr 54](assets/2020-12-06_the-big-picture-2020-review-the-panamax-market_img_bmr54_633f20c915f6.png)
 
 > **Figure 5: Bmr 54**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-06_the-big-picture-2020-review-the-panamax-market_img_bmr54_633f20c915f6.png)
+> [Local Asset](assets/2020-12-06_the-big-picture-2020-review-the-panamax-market_img_bmr54_633f20c915f6.png)
 
 Total grain trade on Panamaxes so far this year amounts to approximately 264m tonnes, marking an 18% improvement over the same period in 2019.
 
@@ -94,14 +94,14 @@ Further weighing on earnings, the Panamax fleet has seen the highest level of fl
 
 > **Figure 6: Removals of Over-Age Panamaxes Have Been Extremely Limited Over**  
 > *Removals of over-age Panamaxes have been extremely limited over the past couple of years, and many of these ships find employment in regional coal trades (see ourBig Pictureon 20 August), due to draft limitations on this business, though demolitions have seen a slight uptick in the past few weeks. The vessels in this group which have been scrapped so far this year had an average age of 28 years and an average size of around 73k dwt.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-06_the-big-picture-2020-review-the-panamax-market_img_bmr55_4d9b0a2ee2c6.png)
+> [Local Asset](assets/2020-12-06_the-big-picture-2020-review-the-panamax-market_img_bmr55_4d9b0a2ee2c6.png)
 
 Additions have focused heavily on the Kamsarmaxes. This relatively young vessel class has seen 9.5m dwt join the fleet since 1 January, pushing capacity up by 10.5%. This year also saw a milestone for the Kamsarmax fleet as it overtook the smaller Panamaxes by number of ships, a symbol of this design’s position as the new face of the Panamax fleet.
 
 ![Bmr 56](assets/2020-12-06_the-big-picture-2020-review-the-panamax-market_img_bmr56_203139b31100.png)
 
 > **Figure 7: Bmr 56**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-06_the-big-picture-2020-review-the-panamax-market_img_bmr56_203139b31100.png)
+> [Local Asset](assets/2020-12-06_the-big-picture-2020-review-the-panamax-market_img_bmr56_203139b31100.png)
 
 ---
 

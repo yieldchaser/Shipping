@@ -27,7 +27,7 @@ China's coal-derived electricity generation has continued to fare much better th
 ![Comm 5.26](assets/2021-05-26_coal-remains-king-in-china_img_comm526_dd0697e45851.jpg)
 
 > **Figure 1: Comm 5.26**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-26_coal-remains-king-in-china_img_comm526_dd0697e45851.jpg)
+> [Local Asset](assets/2021-05-26_coal-remains-king-in-china_img_comm526_dd0697e45851.jpg)
 
 As we have been stressing often in our Weekly Dry Bulk Reports and Weekly China Reports, coal has been set to remain king in China for many years. So far this year, coal has contributed to 75% of China’s total electricity production. While many renewable sources of electricity in China continue to experience significant growth — they still contribute to only a relatively small amount of China's total electricity production.
 

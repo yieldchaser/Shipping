@@ -29,7 +29,7 @@ The sale of Russian energy commodities to Western countries has become progressi
 ![Unsplash Image Sfjhrpzjhs](assets/2022-03-10_substitutions-and-shortages_img_unsplash-image-sfjhrpzjhs_ab647c89f540.jpg)
 
 > **Figure 1: Unsplash Image Sfjhrpzjhs**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-10_substitutions-and-shortages_img_unsplash-image-sfjhrpzjhs_ab647c89f540.jpg)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-03-10_substitutions-and-shortages_img_unsplash-image-sfjhrpzjhs_ab647c89f540.jpg)
 
 While European natural gas prices have been showing some of the most spectacular price gains, at around 200 per cent in the last month, in the wake of the Russian invasion of Ukraine, the energy source is far from the only one to be trading significantly higher than a few weeks ago. The risk of disruptions to Russian gas supplies and an even tighter global supply situation has resulted in many utilities looking to substitute natural gas with thermal coal, something that has driven prices sharply higher in recent days. Futures for thermal coal from the Australian port of Newcastle has reached new all-time high several days in a row following weekly gains of around 35 per cent. The dirtiest of fossil fuels is currently trading around 400 dollars per tonne, after spending most of the last six months in the 150 to 250 dollar range.
 
@@ -44,7 +44,7 @@ As tensions escalated in the run-up to the outbreak of the war, cargo orders for
 ![Ch1](assets/2022-03-10_substitutions-and-shortages_img_ch1_b47adfafa011.png)
 
 > **Figure 2: Ch1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-10_substitutions-and-shortages_img_ch1_b47adfafa011.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-03-10_substitutions-and-shortages_img_ch1_b47adfafa011.png)
 
 *Source: Shipfix*
 
@@ -55,7 +55,7 @@ South African coal exports have recovered after a long period of disruptions in 
 ![Ch2](assets/2022-03-10_substitutions-and-shortages_img_ch2_c463475ac849.png)
 
 > **Figure 3: Ch2**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-10_substitutions-and-shortages_img_ch2_c463475ac849.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-03-10_substitutions-and-shortages_img_ch2_c463475ac849.png)
 
 *Source: Shipfix*
 

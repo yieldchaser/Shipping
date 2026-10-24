@@ -35,14 +35,14 @@ Why are markets so bad at predicting is a big conversation. Humans have seldomly
 ![A1.png](assets/2022-03-14_the-great-commodity-crisis-gcc-may-force-the-feds-hand_img_a1png_184c471855e8.jpg)
 
 > **Figure 1: A1.png**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-14_the-great-commodity-crisis-gcc-may-force-the-feds-hand_img_a1png_184c471855e8.jpg)
+> [Local Asset](assets/2022-03-14_the-great-commodity-crisis-gcc-may-force-the-feds-hand_img_a1png_184c471855e8.jpg)
 
 Making things worse, instead of flocking to bonds, the traditional safety asset, last week saw the return of the US 10 year above 2%.
 
 ![A2](assets/2022-03-14_the-great-commodity-crisis-gcc-may-force-the-feds-hand_img_a2_6b02deaac29a.jpg)
 
 > **Figure 2: A2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-14_the-great-commodity-crisis-gcc-may-force-the-feds-hand_img_a2_6b02deaac29a.jpg)
+> [Local Asset](assets/2022-03-14_the-great-commodity-crisis-gcc-may-force-the-feds-hand_img_a2_6b02deaac29a.jpg)
 
 ### Why?
 
@@ -57,7 +57,7 @@ It's not just nickel of course. Global commodity prices are rising at a very fas
 ![A3.png](assets/2022-03-14_the-great-commodity-crisis-gcc-may-force-the-feds-hand_img_a3png_4ea8f4e91153.jpg)
 
 > **Figure 3: A3.png**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-14_the-great-commodity-crisis-gcc-may-force-the-feds-hand_img_a3png_4ea8f4e91153.jpg)
+> [Local Asset](assets/2022-03-14_the-great-commodity-crisis-gcc-may-force-the-feds-hand_img_a3png_4ea8f4e91153.jpg)
 
 Sanctions on Russia are taking an enormous toll on western markets. Volatility for stocks and bonds is one thing. But commodities markets are experiencing serious dislocations. The result of commodity volatility has a very direct impact on economies. Maybe ATMs won’t freeze within a week and the crisis won’t be as fast as in 2008. But it may well be equally potent. Price rises and shortages of everything for the second time in two years will prove challenging even for the most robust economies.
 

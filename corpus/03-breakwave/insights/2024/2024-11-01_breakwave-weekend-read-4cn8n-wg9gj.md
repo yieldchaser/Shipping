@@ -33,14 +33,14 @@ As we conclude the workweek and head into the weekend, take a moment to review t
 ![Στιγμιότυπο Οθόνης 2024 10 29 112340](assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_676c7ea8511d.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 29 112340**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/10/28/jc00owfigv51y67ymsdan8ee6lp8n9) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_676c7ea8511d.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/10/28/jc00owfigv51y67ymsdan8ee6lp8n9) | [Local Asset](assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_676c7ea8511d.png)
 
 ## Demand-Side Pressures in the Dry Bulk Sector
 
 ![Ανώνυμο Σχέδιο (7)](assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_8a6528ec239e.png)
 
 > **Figure 2: Ανώνυμο Σχέδιο (7)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/10/28/jc00owfigv51y67ymsdan8ee6lp8n9) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_8a6528ec239e.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/10/28/jc00owfigv51y67ymsdan8ee6lp8n9) | [Local Asset](assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_8a6528ec239e.png)
 
 The Baltic Dry Index’s closing at 1410 points this week highlights persistent demand-side pressures across vessel segments within the dry bulk sector.
 
@@ -53,7 +53,7 @@ Doric Weekly Market Insight
 ![Ανώνυμο Σχέδιο (8)](assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_1a74c8329bbe.png)
 
 > **Figure 3: Ανώνυμο Σχέδιο (8)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/10/28/rebound-in-chinas-consumer-spending-growth) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_1a74c8329bbe.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/10/28/rebound-in-chinas-consumer-spending-growth) | [Local Asset](assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_1a74c8329bbe.png)
 
 As we discussed in Commodore Research's most recent Weekly China Report, China’s retail sales in September grew year-on-year by 3.2%.
 
@@ -66,7 +66,7 @@ From Commodore's Weekly Dry Bulk Reports
 ![Προσθέστε Επικεφαλίδα](assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_cea0cf81cebfcf83ceb8ceadcf83cf84ceb5_8314895c764b.png)
 
 > **Figure 4: Προσθέστε Επικεφαλίδα**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/10/29/the-big-picture-sanctions) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_cea0cf81cebfcf83ceb8ceadcf83cf84ceb5_8314895c764b.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/10/29/the-big-picture-sanctions) | [Local Asset](assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_cea0cf81cebfcf83ceb8ceadcf83cf84ceb5_8314895c764b.png)
 
 Lower oil prices could open the door for Western countries to tighten sanctions on Russian and Iranian exports.
 
@@ -79,7 +79,7 @@ Braemar Tanker Big Picture
 ![Ανώνυμο Σχέδιο](assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_ac848fa23cfa.png)
 
 > **Figure 5: Ανώνυμο Σχέδιο**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/10/29/made-in-america) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_ac848fa23cfa.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/10/29/made-in-america) | [Local Asset](assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_ac848fa23cfa.png)
 
 American crude production has gone from strength to strength in recent years, despite a recent slowdown.
 
@@ -92,7 +92,7 @@ Gibson Tanker Market Report
 ![Ανώνυμο Σχέδιο (1)](assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_8a1d9cf0b92a.png)
 
 > **Figure 6: Ανώνυμο Σχέδιο (1)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/10/30/6ntgxchjmedwu1d6qbzbfrq5l5lbfo) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_8a1d9cf0b92a.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/10/30/6ntgxchjmedwu1d6qbzbfrq5l5lbfo) | [Local Asset](assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_8a1d9cf0b92a.png)
 
 The dry bulk sale and purchase activity continue to demonstrate remarkable strength this year so far,
 
@@ -105,7 +105,7 @@ Intermodal Weekly Market Report
 ![Ανώνυμο Σχέδιο (2)](assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_d4e6c3d5c79d.png)
 
 > **Figure 7: Ανώνυμο Σχέδιο (2)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/10/30/oil-extends-losses-as-tensions-ease-in-the-middle-east) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_d4e6c3d5c79d.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/10/30/oil-extends-losses-as-tensions-ease-in-the-middle-east) | [Local Asset](assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_d4e6c3d5c79d.png)
 
 Easing geopolitical risks continued to weigh on oil markets.
 
@@ -116,7 +116,7 @@ Commodities Wrap
 ![New Entrants on the Tmx Trade Support Aframax Employment](assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_newentrantsonthetmxtradesupportafram_4a02526f27d8.png)
 
 > **Figure 8: New Entrants on the Tmx Trade Support Aframax Employment**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/10/31/new-entrants-on-the-tmx-trade-support-aframax-employment) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_newentrantsonthetmxtradesupportafram_4a02526f27d8.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/10/31/new-entrants-on-the-tmx-trade-support-aframax-employment) | [Local Asset](assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_newentrantsonthetmxtradesupportafram_4a02526f27d8.png)
 
 Mideast Gulf crude loadings could potentially see downside risks in the weeks ahead as highlighted by several indicators:
 
@@ -129,7 +129,7 @@ Vortexa - Global Freight Snapshot
 ![Ανώνυμο Σχέδιο (3)](assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_72af0d115f81.png)
 
 > **Figure 9: Ανώνυμο Σχέδιο (3)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/10/31/vijsx2jd20a4mfbmgflsu7y0mlox6f) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_72af0d115f81.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/10/31/vijsx2jd20a4mfbmgflsu7y0mlox6f) | [Local Asset](assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_72af0d115f81.png)
 
 Brazil has increasingly solidified its dominant role in global grain production, particularly in soybeans,
 
@@ -140,7 +140,7 @@ Signal Ocean - Dry Weekly Market Monitor
 ![Ανώνυμο Σχέδιο (5)](assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_266e2f9552d0.png)
 
 > **Figure 10: Ανώνυμο Σχέδιο (5)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/1/dirty-tonne-days-vlcc) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_266e2f9552d0.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/1/dirty-tonne-days-vlcc) | [Local Asset](assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_266e2f9552d0.png)
 
 This week’s focus highlights a notable decrease in the growth of dirty tonne days throughout this year, reflecting a pace lower than that seen in the previous two years.
 
@@ -151,7 +151,7 @@ Signal Ocean - Tanker Weekly Market Monitor
 ![Ανώνυμο Σχέδιο (4)](assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_6c1cfe361828.png)
 
 > **Figure 11: Ανώνυμο Σχέδιο (4)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/1/oej89m96rcx7jz4rm92idp7vvri184) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_6c1cfe361828.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/1/oej89m96rcx7jz4rm92idp7vvri184) | [Local Asset](assets/2024-11-01_breakwave-weekend-read-4cn8n-wg9gj_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_6c1cfe361828.png)
 
 Renewed tensions in the Middle East lifted oil prices.
 

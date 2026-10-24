@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-01-18_a-new-year-same-old-s
 ![By Ulf Bergman](assets/2021-01-18_a-new-year-same-old-story_img_image-asset_54014a3fb1ad.jpeg)
 
 > **Figure 1: By Ulf Bergman**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-18_a-new-year-same-old-story_img_image-asset_54014a3fb1ad.jpeg)
+> [Local Asset](assets/2021-01-18_a-new-year-same-old-story_img_image-asset_54014a3fb1ad.jpeg)
 
 Only a few weeks into the new year and it is already looking extraordinarily similar to the second half of the previous one. The news flow feels remarkably familiar, i.e., China is doing very well, and the rest of the world is not. The Chinese economy has been widely expected to deliver positive growth for the full year, given the strength of the second half of last year, and the official 2.3 percent growth published on Monday was even slightly better than the economists’ expectations. While the full year growth was the lowest since 1976, incidentally the same year as Chairman Mao Zedong passed away, it is likely to be the only major economy that grew last year, as the coronavirus ravaged the global economy.
 
@@ -32,7 +32,7 @@ The data for the final quarter of last year also pointed towards a strong econom
 ![Ulf 210](assets/2021-01-18_a-new-year-same-old-story_img_ulf210_61a818d0cb5c.png)
 
 > **Figure 2: Ulf 210**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-18_a-new-year-same-old-story_img_ulf210_61a818d0cb5c.png)
+> [Local Asset](assets/2021-01-18_a-new-year-same-old-story_img_ulf210_61a818d0cb5c.png)
 
 The strong finish of the year could indicate that the momentum will carry into the new year, with continued strong industrial production and an increasing demand for industrial commodities. As a result, the usual seasonal weakness for commodities and shipping freight rates in the run up to the Chinese New Year looks unlikely to materialise this year, making 2021 yet another outlier. In addition, the extreme cold weather that have been descending on North- East Asia and the trade friction between China and Australia are factors supportive of dry bulk freight rates. Extended waiting times due to icy conditions in the ports, increased demand for thermal coal and changing trade patterns due to restrictions on many imports from Australia are all contributing to an increased tonnage demand.
 

@@ -28,7 +28,7 @@ tags:
 ![Heading](../../images/6807ba65405928019c224162_AD_4nXedtMAggZqmXbEU-I-i_FCvFNmBdNIz1Wgn7v-Zint6xXnvueZf8i7FbTx93lamGHzPokY1ScyyGYNol77us3irHqlfKuZ_K-7VGO17SUElve6Aderzpc98e6_gZipSCU2-Y8HthA.png)
 
 > **Figure 1: Heading**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/indian-iron-ore-exports-face-downward-pressure) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6807ba65405928019c224162_AD_4nXedtMAggZqmXbEU-I-i_FCvFNmBdNIz1Wgn7v-Zint6xXnvueZf8i7FbTx93lamGHzPokY1ScyyGYNol77us3irHqlfKuZ_K-7VGO17SUElve6Aderzpc98e6_gZipSCU2-Y8HthA.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/indian-iron-ore-exports-face-downward-pressure) | [Local Asset](../../images/6807ba65405928019c224162_AD_4nXedtMAggZqmXbEU-I-i_FCvFNmBdNIz1Wgn7v-Zint6xXnvueZf8i7FbTx93lamGHzPokY1ScyyGYNol77us3irHqlfKuZ_K-7VGO17SUElve6Aderzpc98e6_gZipSCU2-Y8HthA.png)
 
 
 ## Iron Ore Flows From India Slip From Previous Highs
@@ -41,7 +41,7 @@ Yet in 2025, total seaborne iron exports figures appear considerably weaker than
 ![Iron Ore Flows From India Slip From Previous Highs](../../images/6807ba661ad820f08688c0eb_AD_4nXeP011WsC4SSyx57ODjFMMmhvDnqejNXR611BRKPDygzQZwRjcFCxLrdvga5c9FntCaS_Roye9J49e95rlGgAV-6Cwky9sVg7QDCSvbmGgfIpsx9TmZTy0pShr7ve-yP1gwltAy.png)
 
 > **Figure 2: Iron Ore Flows From India Slip From Previous Highs**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/indian-iron-ore-exports-face-downward-pressure) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6807ba661ad820f08688c0eb_AD_4nXeP011WsC4SSyx57ODjFMMmhvDnqejNXR611BRKPDygzQZwRjcFCxLrdvga5c9FntCaS_Roye9J49e95rlGgAV-6Cwky9sVg7QDCSvbmGgfIpsx9TmZTy0pShr7ve-yP1gwltAy.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/indian-iron-ore-exports-face-downward-pressure) | [Local Asset](../../images/6807ba661ad820f08688c0eb_AD_4nXeP011WsC4SSyx57ODjFMMmhvDnqejNXR611BRKPDygzQZwRjcFCxLrdvga5c9FntCaS_Roye9J49e95rlGgAV-6Cwky9sVg7QDCSvbmGgfIpsx9TmZTy0pShr7ve-yP1gwltAy.png)
 
 
 ## Domestic Needs and Sliding Chinese Demand Weigh on Iron Ore Exports.
@@ -67,7 +67,7 @@ One thing we could see is greater steel cargoes arriving in India. Demand for st
 ![Future Outlook](../../images/6807ba65d7f24cc84e144312_AD_4nXeXV4-GAO30qAdPcEbfD-UtA6gs6EbLHUOmv6yxpZQrDMvQ4qd4jlQbQ4AW5CtLofNQ1kXAP0z6u4JkfJIjYnivugQBzqJeF0B7Jh5NAhd-WHwYnJfMgZwas433NwBUu3P2nhJT.png)
 
 > **Figure 3: Future Outlook**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/indian-iron-ore-exports-face-downward-pressure) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6807ba65d7f24cc84e144312_AD_4nXeXV4-GAO30qAdPcEbfD-UtA6gs6EbLHUOmv6yxpZQrDMvQ4qd4jlQbQ4AW5CtLofNQ1kXAP0z6u4JkfJIjYnivugQBzqJeF0B7Jh5NAhd-WHwYnJfMgZwas433NwBUu3P2nhJT.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/indian-iron-ore-exports-face-downward-pressure) | [Local Asset](../../images/6807ba65d7f24cc84e144312_AD_4nXeXV4-GAO30qAdPcEbfD-UtA6gs6EbLHUOmv6yxpZQrDMvQ4qd4jlQbQ4AW5CtLofNQ1kXAP0z6u4JkfJIjYnivugQBzqJeF0B7Jh5NAhd-WHwYnJfMgZwas433NwBUu3P2nhJT.png)
 
 
 ## Key Takeaways

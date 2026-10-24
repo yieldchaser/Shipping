@@ -40,7 +40,7 @@ Steel flows climb in 2025 as weak domestic demand in China leads to greater reli
 
 > **Figure 1: Source: Steel-Driven Tonne-Miles From Signal Ocean**  
 > *Source: Steel-driven tonne-miles from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/china-drives-growth-in-steel-flows-as-the-rest-of-the-world-sees-a-small-contraction) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/699331a966553bb8d0a7b2e3_b390a42d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/china-drives-growth-in-steel-flows-as-the-rest-of-the-world-sees-a-small-contraction) | [Local Asset](../../images/699331a966553bb8d0a7b2e3_b390a42d.png)
 
 Global steel flows reached 283mt in 2025, according to Signal Ocean, an increase of over 5%. This growth was driven entirely by China, which saw outward steel flows reach 119mt, up 15% y/y. China increased its share of steel flow origins from 38% in 2024 to 42% in 2025. Outside of China, combined outward flows fell 1% to 164mt.
 
@@ -53,7 +53,7 @@ We are yet to see China’s crude steel production figures for January 2026, but
 
 > **Figure 2: Source: China Steel Exports From Signal Ocean**  
 > *Source: China steel exports from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/china-drives-growth-in-steel-flows-as-the-rest-of-the-world-sees-a-small-contraction) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/699331a966553bb8d0a7b2e0_616626a9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/china-drives-growth-in-steel-flows-as-the-rest-of-the-world-sees-a-small-contraction) | [Local Asset](../../images/699331a966553bb8d0a7b2e0_616626a9.png)
 
 Despite expectations of lower steel production in China in 2026, the subsequent typical increase in steel exports will face some headwinds. The most notable is the new structure of export licensing in the country. This new legislation covers 245 steel products, a large increase from the 66 carbon steel products listed in the 2007 version.
 
@@ -64,7 +64,7 @@ Global steel demand is expected to grow modestly in 2026, with stronger performa
 
 > **Figure 3: Source: China Crude Steel Production From the World Steel Association**  
 > *Source: China crude steel production from the World Steel Association*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/china-drives-growth-in-steel-flows-as-the-rest-of-the-world-sees-a-small-contraction) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/699331a966553bb8d0a7b2e6_e9b6c0f1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/china-drives-growth-in-steel-flows-as-the-rest-of-the-world-sees-a-small-contraction) | [Local Asset](../../images/699331a966553bb8d0a7b2e6_e9b6c0f1.png)
 
 
 ## China's Steel Exports Will Drive Supramax Demand

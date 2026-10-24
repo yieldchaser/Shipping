@@ -66,6 +66,6 @@ The recovery of the Australian coal trade with China has primarily benefitted th
 ![Market Chart 1](assets/2023-10-25_shipfix-global-market-update_img_unnamed-2023-10-25t154531902_a785cb4f27fd.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-25_shipfix-global-market-update_img_unnamed-2023-10-25t154531902_a785cb4f27fd.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2023-10-25_shipfix-global-market-update_img_unnamed-2023-10-25t154531902_a785cb4f27fd.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

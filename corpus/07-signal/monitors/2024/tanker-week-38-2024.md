@@ -32,7 +32,7 @@ tags:
 ![66ed4daffd57fe419036c0d9 66ed4d84fd57fe419036986f Untitled%20(4)](../../images/66ed4daffd57fe419036c0d9_66ed4d84fd57fe419036986f_Untitled%20(4).avif)
 
 > **Figure 1: 66ed4daffd57fe419036c0d9 66ed4d84fd57fe419036986f Untitled%20(4)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-38-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66ed4daffd57fe419036c0d9_66ed4d84fd57fe419036986f_Untitled%20(4).avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-38-2024) | [Local Asset](../../images/66ed4daffd57fe419036c0d9_66ed4d84fd57fe419036986f_Untitled%20(4).avif)
 
 This week’s special focus delves into the dynamics between dirty tonne days and VLCC tonne days. The data reveals a distinct downward trend in VLCC tonne days, particularly noticeable from the end of the first quarter of this year. This trend suggests a weakening in the VLCC segment, reflecting broader market challenges.
 

@@ -31,21 +31,21 @@ The World Trade Organization has also recently upgraded its outlook for global t
 ![Ch1](assets/2021-11-11_global-trade-holding-up-amid-economic-headwinds_img_ch1_50ebf690da0d.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-11_global-trade-holding-up-amid-economic-headwinds_img_ch1_50ebf690da0d.png)
+> [Local Asset](assets/2021-11-11_global-trade-holding-up-amid-economic-headwinds_img_ch1_50ebf690da0d.png)
 
 Data from Oceanbolt confirm the robust recovery of global trade in the wake of the pandemic. In October, total dry bulk export volumes edged up to a new monthly record, with 471 million tonnes shipped. Since March, global seaborne volumes have been at par with the pre-pandemic levels of 2019, and last month’s record represented a four per cent increase on the same month two years ago.
 
 ![Ch2](assets/2021-11-11_global-trade-holding-up-amid-economic-headwinds_img_ch2_3806aefe5572.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-11_global-trade-holding-up-amid-economic-headwinds_img_ch2_3806aefe5572.png)
+> [Local Asset](assets/2021-11-11_global-trade-holding-up-amid-economic-headwinds_img_ch2_3806aefe5572.png)
 
 For China, the situation looks rather different. While global monthly exports have remained stable over the last eight months, cargo volumes destined for China have trended lower since June. Last month dry bulk shipments bound for Chinese ports declined by eleven per cent compared to September and were fourteen per cent lower than the same month a year ago. In October, most of the drop can be attributed to declining iron ore volumes, with sixteen million tonnes less shipped to China.
 
 ![Ch3](assets/2021-11-11_global-trade-holding-up-amid-economic-headwinds_img_ch3_d0949824cad7.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-11_global-trade-holding-up-amid-economic-headwinds_img_ch3_d0949824cad7.png)
+> [Local Asset](assets/2021-11-11_global-trade-holding-up-amid-economic-headwinds_img_ch3_d0949824cad7.png)
 
 The shrinking export shipments to China can be seen as leading indicators for the Chinese economy, suggesting growth will remain under pressure in the coming months. Less appetite for iron ore and other commodities from Chinese buyers will see industrial output weaken further. Environmental restrictions ahead of the Winter Olympics and the energy crisis are likely to keep the pressure on the economy, especially as the solid exports enable Beijing to delay any policy initiatives to support growth. Global demand for seaborne dry bulk commodities, on the other hand, looks set to remain robust, especially as flagging demand from Chinese buyers already has been offset globally. The newly approved US infrastructure bill is likely to lend support to the global demand, as is the continued recovery in countries such as India.
 

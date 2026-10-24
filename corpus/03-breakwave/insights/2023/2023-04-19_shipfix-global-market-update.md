@@ -60,6 +60,6 @@ The cargo order data highlights China’s dominance in the global copper market.
 ![Market Chart 1](assets/2023-04-19_shipfix-global-market-update_img_unnamed-2023-04-19t125950980_ddfa71f8f520.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-19_shipfix-global-market-update_img_unnamed-2023-04-19t125950980_ddfa71f8f520.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2023-04-19_shipfix-global-market-update_img_unnamed-2023-04-19t125950980_ddfa71f8f520.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

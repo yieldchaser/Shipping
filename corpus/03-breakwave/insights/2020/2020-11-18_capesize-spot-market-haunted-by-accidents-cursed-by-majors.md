@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-11-18_capesize-spot-market-
 
 > **Figure 1: Spot Brazilian Capesize Fixtures**  
 > *Spot Brazilian Capesize Fixtures*  
-> **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/Brumadinho_dam_disaster) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-18_capesize-spot-market-haunted-by-accidents-cursed-by-majors_img_image-asset_88cb27b9bf65.jpeg)
+> **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/Brumadinho_dam_disaster) | [Local Asset](assets/2020-11-18_capesize-spot-market-haunted-by-accidents-cursed-by-majors_img_image-asset_88cb27b9bf65.jpeg)
 
 It is no secret that the Capesize spot market has struggled to reach sustainable profitability over the last few years, reflecting a number of unexpected events let alone a global pandemic that has wreak havoc on the global economy and as a result on global trade. Yet, under the surface, there has been a number of changes in how the market operates that have had a profound impact on the spot Capesize market along the way. Although the anticipated runup in iron ore exports out of Brazil in the next several years and the very low existing orderbook should still support sequential improvements in average freight rates, the Capesize spot market has shrunk considerably, and as a result, more and more spot Capesize vessels are available for hire at any give time versus recent history.
 
@@ -34,7 +34,7 @@ To begin with, spot fixtures for Capesize vessels (170,000dwt-180,000 dwt ships)
 
 > **Figure 2: Source: Commodore Research**  
 > *Source: Commodore Research*  
-> **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/Brumadinho_dam_disaster) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-18_capesize-spot-market-haunted-by-accidents-cursed-by-majors_img_historicalspotfixtures_7b7ad88213ed.png)
+> **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/Brumadinho_dam_disaster) | [Local Asset](assets/2020-11-18_capesize-spot-market-haunted-by-accidents-cursed-by-majors_img_historicalspotfixtures_7b7ad88213ed.png)
 
 Now, this is to be expected: In 2019, a major dam accident threw Vale’s iron ore production and exports into a tailspin, and as a result, Capesize chartering demand declined. The[Brumadinho incident](https://en.wikipedia.org/wiki/Brumadinho_dam_disaster)continues to affect Brazilian iron ore exports to this day, and as a result, exports remain below capacity rate. But it is not only Brumadinho. In 2015, another[dam rapture](https://en.wikipedia.org/wiki/Mariana_dam_disaster)led to the stoppage of Samarco’s pellet exports (yet to resume) while a similar incident in a pipeline in Anglo American’s Minas-Rio project also led to a temporary export stoppage in 2018. Although gradually the above incidents have and are currently being restarted, the impact on exports, and thus shipping demand, has been significant.
 
@@ -44,7 +44,7 @@ And indeed, the spot market has suffered quite a bit. Spot fixtures out of Brazi
 
 > **Figure 3: Source: Commodore Research**  
 > *Source: Commodore Research*  
-> **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/Bulk_carrier#Categories) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-18_capesize-spot-market-haunted-by-accidents-cursed-by-majors_img_spotvsaveragefixtures_06c8440cbeb4.png)
+> **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/Bulk_carrier#Categories) | [Local Asset](assets/2020-11-18_capesize-spot-market-haunted-by-accidents-cursed-by-majors_img_spotvsaveragefixtures_06c8440cbeb4.png)
 
 But it is not only lower exports that is having such a considerable impact on the spot Capesize market. In the last 3 years some 30+[Very Large Ore Carriers](https://en.wikipedia.org/wiki/Bulk_carrier#Categories)(VLOC) and more than 25 Guaibamax carriers (vessels with a carrying capacity of about 325,000 dwt, the maximum size for the[Guaiba Island](http://www.vale.com/EN/business/logistics/ports-terminals/Pages/default.aspx)loading terminal in Sepetiba Bay, southern Brazil) have been delivered. Such tonnage is directly controlled by Vale and is the first choice when it comes to iron ore transportation by the major miner due to the vessel’s economies of scale. Although actual ownership is not tied to Vale, such tonnage can be thought of a dedicated ships for Vale’s own use. The impact on those additional monster-size vessels to the traditional spot Capesize market has also been significant.
 
@@ -53,7 +53,7 @@ Estimating such impact of lower exports and higher VLOC and Guaibamax capacity t
 ![Brazil Spot Fixtures](assets/2020-11-18_capesize-spot-market-haunted-by-accidents-cursed-by-majors_img_brazilspotfixtures_bb4a97444e06.png)
 
 > **Figure 4: Brazil Spot Fixtures**  
-> **Interactive Data & Source:** [Mining](https://www.mining.com/vale-targets-400m-tonnes-iron-ore-production/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-18_capesize-spot-market-haunted-by-accidents-cursed-by-majors_img_brazilspotfixtures_bb4a97444e06.png)
+> **Interactive Data & Source:** [Mining](https://www.mining.com/vale-targets-400m-tonnes-iron-ore-production/) | [Local Asset](assets/2020-11-18_capesize-spot-market-haunted-by-accidents-cursed-by-majors_img_brazilspotfixtures_bb4a97444e06.png)
 
 Where does the above leave the ever important spot Capesize market for the years ahead?
 

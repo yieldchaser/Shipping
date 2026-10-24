@@ -35,12 +35,12 @@ Specifically, in late November 2016, the HS7TC index was approximately $7,000 pe
 ![Στιγμιότυπο Οθόνης 2025 02 12 113546](assets/2025-02-12_geopolitical-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8ca92e71cfa5.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 02 12 113546**  
-> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-12_geopolitical-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8ca92e71cfa5.png)
+> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](assets/2025-02-12_geopolitical-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8ca92e71cfa5.png)
 
 ![Στιγμιότυπο Οθόνης 2025 02 12 113558](assets/2025-02-12_geopolitical-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9fb1674dd597.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 02 12 113558**  
-> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-12_geopolitical-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9fb1674dd597.png)
+> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](assets/2025-02-12_geopolitical-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9fb1674dd597.png)
 
 The extent of the correction remains debatable, with a 20-25% decline being a more common scenario, given the liquidity that previous years provided to shipowners and the uncertain environment that could lead to both negative and also positive outcomes. What is certain, however, is that 2025 could prove to be a year of increased buyer interest, particularly for those looking to capitalize on the declining prices.
 

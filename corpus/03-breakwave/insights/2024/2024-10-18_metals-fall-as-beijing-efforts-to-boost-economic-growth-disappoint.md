@@ -27,7 +27,7 @@ Disappointment over China’s stimulus measures weighed on sentiment in metal ma
 ![Στιγμιότυπο Οθόνης 2024 10 18 104108](assets/2024-10-18_metals-fall-as-beijing-efforts-to-boost-economic-growth-disappoint_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_42e1aeeb14ce.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 18 104108**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-18_metals-fall-as-beijing-efforts-to-boost-economic-growth-disappoint_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_42e1aeeb14ce.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-10-18_metals-fall-as-beijing-efforts-to-boost-economic-growth-disappoint_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_42e1aeeb14ce.png)
 
 ### Market Commentary
 
@@ -48,7 +48,7 @@ A stronger USD has failed to halt gold's rise in recent weeks
 ![Στιγμιότυπο Οθόνης 2024 10 18 104222](assets/2024-10-18_metals-fall-as-beijing-efforts-to-boost-economic-growth-disappoint_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8de021985060.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 18 104222**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-18_metals-fall-as-beijing-efforts-to-boost-economic-growth-disappoint_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8de021985060.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-10-18_metals-fall-as-beijing-efforts-to-boost-economic-growth-disappoint_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8de021985060.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

@@ -26,7 +26,7 @@ China's coal import data for June by origin has been released and shows imports 
 ![Chart 1 (41)](assets/2022-08-01_chinas-coal-imports-from-russia-continue-to-climb-as-predicted_img_chart1284129_693f5b5184fd.jpg)
 
 > **Figure 1: Chart 1 (41)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-01_chinas-coal-imports-from-russia-continue-to-climb-as-predicted_img_chart1284129_693f5b5184fd.jpg)
+> [Local Asset](assets/2022-08-01_chinas-coal-imports-from-russia-continue-to-climb-as-predicted_img_chart1284129_693f5b5184fd.jpg)
 
 Indonesia has been exporting more of its coal to other buyers, and at the same time China has also been continuing to strengthen its relationship with Russia as we have been stressing in Commodore's Weekly China Reports and Weekly Dry Bulk Reports. As we first discussed back in February, just as Russia’s tensions with Ukraine shifted into Russia launching its unjust war, Russia’s Ministry of Energy announced it had signed an agreement to increase its coal exports to China to 100 million tons in three to five years (in comparison, 2021 saw China import 57 million tons of coal from Russia). New more recently has been April’s coal import tariff being cut to zero, which we continue to believe was carried out with Russia coal imports in mind. As we stressed after that tariff announcement was made, China’s thermal coal imports from Russia previously had a 6% tariff. Imports from Indonesia already had a tariff rate of zero.
 
@@ -35,4 +35,4 @@ Imports from Russia totaled 6.1 million tons, which is up from May by 1.1 millio
 ![Chart 2 (38)](assets/2022-08-01_chinas-coal-imports-from-russia-continue-to-climb-as-predicted_img_chart2283829_8a3c5f9a4013.jpg)
 
 > **Figure 2: Chart 2 (38)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-01_chinas-coal-imports-from-russia-continue-to-climb-as-predicted_img_chart2283829_8a3c5f9a4013.jpg)
+> [Local Asset](assets/2022-08-01_chinas-coal-imports-from-russia-continue-to-climb-as-predicted_img_chart2283829_8a3c5f9a4013.jpg)

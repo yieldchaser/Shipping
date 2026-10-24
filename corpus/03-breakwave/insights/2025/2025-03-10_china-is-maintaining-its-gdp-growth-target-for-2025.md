@@ -29,7 +29,7 @@ The U.S. has imposed additional 20 percent tariffs on Chinese exports since Pres
 ![Στιγμιότυπο Οθόνης 2025 03 10 122354](assets/2025-03-10_china-is-maintaining-its-gdp-growth-target-for-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_17a6dfadbf50.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 03 10 122354**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-10_china-is-maintaining-its-gdp-growth-target-for-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_17a6dfadbf50.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-03-10_china-is-maintaining-its-gdp-growth-target-for-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_17a6dfadbf50.png)
 
 Amid these developments, pressure is mounting on Chinese policymakers to introduce stronger stimulus measures to support domestic consumption and the struggling housing sector while reducing reliance on exports and investment. Li’s report referenced "consumption" 31 times, up from 21 last year, and "technology" 28 times, slightly more than the 26 mentions in 2024, according to Guotai Junan analysts. While China has pursued a "proactive" fiscal policy for 16 consecutive years, this year’s report signaled a shift toward a "more proactive fiscal policy."
 
@@ -40,7 +40,7 @@ Expectations that China’s annual parliamentary meeting would introduce substan
 ![Στιγμιότυπο Οθόνης 2025 03 10 122402](assets/2025-03-10_china-is-maintaining-its-gdp-growth-target-for-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9747f2f0ba8f.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 03 10 122402**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-10_china-is-maintaining-its-gdp-growth-target-for-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9747f2f0ba8f.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-03-10_china-is-maintaining-its-gdp-growth-target-for-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9747f2f0ba8f.png)
 
 Despite these structural shifts, the seasonal upswing in spot market activity is approaching, with momentum expected to build in the coming weeks. For now, the market remains optimistic about seasonal strength. However, higher tariffs, retaliatory measures, and the sluggish performance of China’s economy provide little assurance of sustained growth in overall trading activity in the long run.
 

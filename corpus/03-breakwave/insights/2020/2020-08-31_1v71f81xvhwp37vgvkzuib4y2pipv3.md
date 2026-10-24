@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-08-31_1v71f81xvhwp37vgvkzui
 
 > **Figure 1: China's Agricultural Import Orders for the Second Half of The**  
 > *China's agricultural import orders for the second half of the year are surging. The upshot to food uncertainty, for global markets anyway, is that China is importing more agricultural goods than ever. Purchases of soybeans, wheat, sorghum and corn are all up. Forbes notes that China is on pace to make the highest annual rate of soybean purchases from the U.S. since 2014, whileBloomberg reportsthat “China is set to buy a record amount of American soybeans this year as lower prices help the Asian nation boost purchases pledged under the phase-one trade deal, according to people familiar with the matter.”*  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2020-08-26/cheap-american-soybeans-set-to-lure-record-chinese-purchases) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-08-31_1v71f81xvhwp37vgvkzuib4y2pipv3_img_water2_2d0df1bd3969.jpg)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2020-08-26/cheap-american-soybeans-set-to-lure-record-chinese-purchases) | [Local Asset](assets/2020-08-31_1v71f81xvhwp37vgvkzuib4y2pipv3_img_water2_2d0df1bd3969.jpg)
 
 China has also turned a net importer of steel. Strong demand for steel as the country unleashed stimulus programs has ramped up consumption of raw materials. China is buying all the iron ore, the main ingredient for steel, they can find. In Vale we trust/pray to deliver.
 

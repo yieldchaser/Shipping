@@ -30,7 +30,7 @@ Policy changes in Guinea provide the largest near-side risk to bauxite flows
 ![Στιγμιότυπο Οθόνης 2026 08 27 110712](assets/2026-08-27_front-loading-masks-a-market-at-a-crossroads_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98bf133e3afe.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 08 27 110712**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-27_front-loading-masks-a-market-at-a-crossroads_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98bf133e3afe.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-08-27_front-loading-masks-a-market-at-a-crossroads_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98bf133e3afe.png)
 
 Bauxite flows in July 2026 reached 20 Mt, up over 3% from the same month last year. This was driven by a 5% increase in flows destined for China, which counteracted the large drop-off in flows to almost every other region. India has seen a surge in bauxite imports, but shipments of bauxite destined for the country fell by 2% in July, only the second month in 2026 to record a decrease.
 
@@ -39,7 +39,7 @@ The conflict in the Arabian Gulf region continues to impact bauxite flows to the
 ![Στιγμιότυπο Οθόνης 2026 08 27 110720](assets/2026-08-27_front-loading-masks-a-market-at-a-crossroads_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b63f55d91f20.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 08 27 110720**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-27_front-loading-masks-a-market-at-a-crossroads_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b63f55d91f20.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-08-27_front-loading-masks-a-market-at-a-crossroads_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b63f55d91f20.png)
 
 The outlook for August and September is broadly positive, though the picture is more nuanced than the July headline suggests. Guinea's front-loading dynamic is the central question: if export restrictions are formalised in the coming weeks, the July surge could give way to a sharp pullback in loadings, tightening supply precisely when Chinese refiners are most dependent on Guinean ore. Conversely, if restrictions are delayed or watered down, the buying incentive dissipates and flows normalise from elevated levels. Either way, volatility around Guinea is the dominant near-term risk.
 
@@ -50,7 +50,7 @@ The UAE remains effectively offline as a destination for the foreseeable future 
 ![Στιγμιότυπο Οθόνης 2026 08 27 110728](assets/2026-08-27_front-loading-masks-a-market-at-a-crossroads_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a501ce79e76e.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 08 27 110728**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-27_front-loading-masks-a-market-at-a-crossroads_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a501ce79e76e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-08-27_front-loading-masks-a-market-at-a-crossroads_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a501ce79e76e.png)
 
 ## The Guinea Question Defines the Outlook
 

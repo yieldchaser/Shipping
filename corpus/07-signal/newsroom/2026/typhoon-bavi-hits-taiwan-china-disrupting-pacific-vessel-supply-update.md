@@ -30,7 +30,7 @@ As reported earlier this week on [Signal Newsroom](https://www.thesignalgroup.co
 ![Typhoon Bavi Hits Taiwan & China, Disrupting Pacific Vessel Supply (Update)](../../images/6a50d20b5cfa2f6a4aff7e21_69b0b413.png)
 
 > **Figure 1: Typhoon Bavi Hits Taiwan & China, Disrupting Pacific Vessel Supply (Update)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/typhoon-bavi-hits-taiwan-china-disrupting-pacific-vessel-supply-update) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a50d20b5cfa2f6a4aff7e21_69b0b413.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/typhoon-bavi-hits-taiwan-china-disrupting-pacific-vessel-supply-update) | [Local Asset](../../images/6a50d20b5cfa2f6a4aff7e21_69b0b413.png)
 
 Several safety bulletins have been issued by [China Maritime Safety Administration](https://www.msa.gov.cn/msacncms\_wap/pages/content.jhtml?articleId=6a036566f23d4aebb41310cadc21cec2&channelId=5bf518aa3b6b46fd985e61de4155bcdc) to restrict navigation during the Typhoon.
 
@@ -40,6 +40,6 @@ The impact is already visible in the dry bulk segment: vessel activity around Sh
 ![Typhoon Bavi Hits Taiwan & China, Disrupting Pacific Vessel Supply (Update)](../../images/6a50d20b5cfa2f6a4aff7e24_2fcbb0c8.png)
 
 > **Figure 2: Typhoon Bavi Hits Taiwan & China, Disrupting Pacific Vessel Supply (Update)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/typhoon-bavi-hits-taiwan-china-disrupting-pacific-vessel-supply-update) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a50d20b5cfa2f6a4aff7e24_2fcbb0c8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/typhoon-bavi-hits-taiwan-china-disrupting-pacific-vessel-supply-update) | [Local Asset](../../images/6a50d20b5cfa2f6a4aff7e24_2fcbb0c8.png)
 
 Winds are expected to ease as Bavi makes landfall but will remain elevated until Monday/Tuesday next week, continuing to disrupt port operations from Shanghai to Qingdao.

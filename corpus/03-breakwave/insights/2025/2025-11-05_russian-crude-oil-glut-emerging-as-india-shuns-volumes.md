@@ -29,7 +29,7 @@ However, this comes at the same time both state-owned and private refiners in In
 ![9079 Image 0 1762253199282](assets/2025-11-05_russian-crude-oil-glut-emerging-as-india-shuns-volumes_img_9079-image-0-1762253199282_5013387ef605.png)
 
 > **Figure 1: 9079 Image 0 1762253199282**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-05_russian-crude-oil-glut-emerging-as-india-shuns-volumes_img_9079-image-0-1762253199282_5013387ef605.png)
+> [Local Asset](assets/2025-11-05_russian-crude-oil-glut-emerging-as-india-shuns-volumes_img_9079-image-0-1762253199282_5013387ef605.png)
 
 *Source: Vortexa*
 
@@ -38,7 +38,7 @@ Additionally, the difference between Russia’s exports this month towards India
 ![F565 Image 1 1762253199283](assets/2025-11-05_russian-crude-oil-glut-emerging-as-india-shuns-volumes_img_f565-image-1-1762253199283_f1c77757c670.png)
 
 > **Figure 2: F565 Image 1 1762253199283**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-05_russian-crude-oil-glut-emerging-as-india-shuns-volumes_img_f565-image-1-1762253199283_f1c77757c670.png)
+> [Local Asset](assets/2025-11-05_russian-crude-oil-glut-emerging-as-india-shuns-volumes_img_f565-image-1-1762253199283_f1c77757c670.png)
 
 *Source: Vortexa*
 

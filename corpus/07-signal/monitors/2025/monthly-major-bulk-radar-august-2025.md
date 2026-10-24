@@ -31,7 +31,7 @@ Exports volumes of major bulk, made up of iron ore, coal, or grains, remained fl
 
 > **Figure 1: Source: Total Major Bulk Export Performance From Signal Ocean.major Bulk Is Made Up of Iron Ore, Coal, and Grains.**  
 > *Source: Total major bulk* export performance from Signal Ocean.*Major bulk is made up of iron ore, coal, and grains.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68b00b737d3d66ba92e33dc1_AD_4nXdFW4_yVqJ5Msd0OK4ITxcURnZoQPyx3AaiEZMcbEPVboh0KV71-0rHwmN-Z-WvtR9vj7yaazYlFIc5itwpEm964W6Jt5jPE-HI6Q9PPqq-UoftrjGzdpBlCniV-tVEeZfCk_rX.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](../../images/68b00b737d3d66ba92e33dc1_AD_4nXdFW4_yVqJ5Msd0OK4ITxcURnZoQPyx3AaiEZMcbEPVboh0KV71-0rHwmN-Z-WvtR9vj7yaazYlFIc5itwpEm964W6Jt5jPE-HI6Q9PPqq-UoftrjGzdpBlCniV-tVEeZfCk_rX.png)
 
 
 ## Economic Environment
@@ -44,7 +44,7 @@ Exports volumes of major bulk, made up of iron ore, coal, or grains, remained fl
 
 > **Figure 2: Source: National Bureau of Statistics of China, Institute for Supply Management, Hcob, Hbsc India Manufacturing Pmi**  
 > *Source: National Bureau of Statistics of China, Institute for Supply Management, HCOB, HBSC India Manufacturing PMI*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/689b085e38c7e3c25c6151e2_AD_4nXduJH83MheH6lfbsyZRvTGFfOwk2WeCcna6yCy7DYTBcPQqxWEJ6yg8g9CU3WUMRVtBoY45F6LDai_gBrZ1dv2qM4WaaflL54kYmfAXgFYlpsqwQ6srymdF2iuSOt2bOuxhB2NTrA.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](../../images/689b085e38c7e3c25c6151e2_AD_4nXduJH83MheH6lfbsyZRvTGFfOwk2WeCcna6yCy7DYTBcPQqxWEJ6yg8g9CU3WUMRVtBoY45F6LDai_gBrZ1dv2qM4WaaflL54kYmfAXgFYlpsqwQ6srymdF2iuSOt2bOuxhB2NTrA.png)
 
 
 ## Exchange Rates
@@ -56,7 +56,7 @@ Exports volumes of major bulk, made up of iron ore, coal, or grains, remained fl
 ![Usd Vs:‍](../../images/689b085e38c7e3c25c615200_AD_4nXesBT-7u7cxpRwPYNZXX7etbDVNpdkkSrV8uV38FmHSOEX9mbVL0WZpli6q-OmluuIsZMsvWJ59IbGX0hqxEKPxeDbbys4kJTBAdIpZhjryB7dl4dY_A8frJBm_M3b1bzSQkbFSjQ.png)
 
 > **Figure 3: Usd Vs:‍**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/689b085e38c7e3c25c615200_AD_4nXesBT-7u7cxpRwPYNZXX7etbDVNpdkkSrV8uV38FmHSOEX9mbVL0WZpli6q-OmluuIsZMsvWJ59IbGX0hqxEKPxeDbbys4kJTBAdIpZhjryB7dl4dY_A8frJBm_M3b1bzSQkbFSjQ.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](../../images/689b085e38c7e3c25c615200_AD_4nXesBT-7u7cxpRwPYNZXX7etbDVNpdkkSrV8uV38FmHSOEX9mbVL0WZpli6q-OmluuIsZMsvWJ59IbGX0hqxEKPxeDbbys4kJTBAdIpZhjryB7dl4dY_A8frJBm_M3b1bzSQkbFSjQ.png)
 
 
 ## Rmb Vs:
@@ -66,7 +66,7 @@ Exports volumes of major bulk, made up of iron ore, coal, or grains, remained fl
 
 > **Figure 4: Source: Imf**  
 > *Source: IMF*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/689b085e38c7e3c25c6151df_AD_4nXfs7wUaeGRqXBwKLRgTcKh6IItrWdl_pQYcYTj8c4bdd_qUcL-yt9FVzB_DYZggJNP19vYlxq_NViI5wdmG0ltOWIa4I2sa9oNSsntlyyjrDDwfIIoWCHZegqJWgi0UUqGlg06_JQ.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](../../images/689b085e38c7e3c25c6151df_AD_4nXfs7wUaeGRqXBwKLRgTcKh6IItrWdl_pQYcYTj8c4bdd_qUcL-yt9FVzB_DYZggJNP19vYlxq_NViI5wdmG0ltOWIa4I2sa9oNSsntlyyjrDDwfIIoWCHZegqJWgi0UUqGlg06_JQ.png)
 
 
 ## Baltic Indexes
@@ -75,7 +75,7 @@ Exports volumes of major bulk, made up of iron ore, coal, or grains, remained fl
 ![Baltic Indexes](../../images/689b085e38c7e3c25c6151f7_AD_4nXc-XumnwvM9swYjZPC7IFqx0m1tU10v_vTad8cMFy80C7uQYtacQrdrQJhMAEnk-WpGe8NKxoQ0ow8Vc4VdqNhsE_JaNwjFV3CcijML-Jk3e0X0lfnMWMZcWngiEs8mWrNzXnPFow.png)
 
 > **Figure 5: Baltic Indexes**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/689b085e38c7e3c25c6151f7_AD_4nXc-XumnwvM9swYjZPC7IFqx0m1tU10v_vTad8cMFy80C7uQYtacQrdrQJhMAEnk-WpGe8NKxoQ0ow8Vc4VdqNhsE_JaNwjFV3CcijML-Jk3e0X0lfnMWMZcWngiEs8mWrNzXnPFow.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](../../images/689b085e38c7e3c25c6151f7_AD_4nXc-XumnwvM9swYjZPC7IFqx0m1tU10v_vTad8cMFy80C7uQYtacQrdrQJhMAEnk-WpGe8NKxoQ0ow8Vc4VdqNhsE_JaNwjFV3CcijML-Jk3e0X0lfnMWMZcWngiEs8mWrNzXnPFow.png)
 
 
 ## Major Bulk
@@ -94,21 +94,21 @@ In the [previous major bulk radar](https://www.thesignalgroup.com/weekly-market-
 
 > **Figure 6: Source: Global Monthly Iron Ore Exports From Signal Ocean**  
 > *Source: Global monthly iron ore exports from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68b00b737d3d66ba92e33dc4_AD_4nXcL5zFHeC9OvZ5OmTLFjUO0oDNJHnpSCVrqJiP0V6jS792XdcnLCtxWRH3khZIkFPiB8qb-r_zfbdXfOTN6C5pcuHBunNY1NUcta2fwtes5SDRwpIy6lLjENl7v8bD8YOkiUNoErQ.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](../../images/68b00b737d3d66ba92e33dc4_AD_4nXcL5zFHeC9OvZ5OmTLFjUO0oDNJHnpSCVrqJiP0V6jS792XdcnLCtxWRH3khZIkFPiB8qb-r_zfbdXfOTN6C5pcuHBunNY1NUcta2fwtes5SDRwpIy6lLjENl7v8bD8YOkiUNoErQ.png)
 
 
 ![Source: World Steel Association](../../images/68b00b737d3d66ba92e33dbe_AD_4nXdjfNDl3_VaNxmSyHVnp_FFpioqr31KHqVKlzqBYQcmb5MLe7CFHq28vvyulgrh3CUhgD_uNjOgraM_Ja5Lkw_Y_5gsq1wV3sdKyh_YcMMjW-4Ov9GVwAatm3QuInt6swSadeblzg.png)
 
 > **Figure 7: Source: World Steel Association**  
 > *Source: World Steel Association*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68b00b737d3d66ba92e33dbe_AD_4nXdjfNDl3_VaNxmSyHVnp_FFpioqr31KHqVKlzqBYQcmb5MLe7CFHq28vvyulgrh3CUhgD_uNjOgraM_Ja5Lkw_Y_5gsq1wV3sdKyh_YcMMjW-4Ov9GVwAatm3QuInt6swSadeblzg.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](../../images/68b00b737d3d66ba92e33dbe_AD_4nXdjfNDl3_VaNxmSyHVnp_FFpioqr31KHqVKlzqBYQcmb5MLe7CFHq28vvyulgrh3CUhgD_uNjOgraM_Ja5Lkw_Y_5gsq1wV3sdKyh_YcMMjW-4Ov9GVwAatm3QuInt6swSadeblzg.png)
 
 
 ![Source: World Steel Association](../../images/68b00b737d3d66ba92e33db8_AD_4nXe97O_kMDqiqUx5Y1-d0nRuDp734PitgNf2gVssN6EnsKdGEPfyRL79Oqj_gNBjWizTFAmrMTEfpY9GPT-IZDNIhONs6rLzuywJEUqKg9eHZo4LFAn0-SUwebgjyc8TUJeHPni_OA.png)
 
 > **Figure 8: Source: World Steel Association**  
 > *Source: World Steel Association*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68b00b737d3d66ba92e33db8_AD_4nXe97O_kMDqiqUx5Y1-d0nRuDp734PitgNf2gVssN6EnsKdGEPfyRL79Oqj_gNBjWizTFAmrMTEfpY9GPT-IZDNIhONs6rLzuywJEUqKg9eHZo4LFAn0-SUwebgjyc8TUJeHPni_OA.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](../../images/68b00b737d3d66ba92e33db8_AD_4nXe97O_kMDqiqUx5Y1-d0nRuDp734PitgNf2gVssN6EnsKdGEPfyRL79Oqj_gNBjWizTFAmrMTEfpY9GPT-IZDNIhONs6rLzuywJEUqKg9eHZo4LFAn0-SUwebgjyc8TUJeHPni_OA.png)
 
 
 ## Coal
@@ -126,27 +126,27 @@ The largest growth area for coal comes from the ASEAN, the Association of Southe
 
 > **Figure 9: Source: Total Coal Export Volumes From Signal Ocean**  
 > *Source: Total coal export volumes from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68b00b737d3d66ba92e33dc8_AD_4nXf45uR5UPhDzibeJjTl6mWeQx2eO9T68AMkxhDFkbWpwK-h9KvmeIvtTc3DmKkthRo7yiWInjlDFTQB6la1oTgQpBOIA_QxXHYs1lTnjpMwGyVlPQeMAWddfBijFfwC4oXVDtl-.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](../../images/68b00b737d3d66ba92e33dc8_AD_4nXf45uR5UPhDzibeJjTl6mWeQx2eO9T68AMkxhDFkbWpwK-h9KvmeIvtTc3DmKkthRo7yiWInjlDFTQB6la1oTgQpBOIA_QxXHYs1lTnjpMwGyVlPQeMAWddfBijFfwC4oXVDtl-.png)
 
 
 ![Source: National Bureau of Statistics of China, January and February Figures Are the Monthly Average of Cumulative Production Posted in February](../../images/68b00b737d3d66ba92e33dd3_AD_4nXctZVROQHFGNoDQoh5S3ev0oXgWeEYL2nHh2q23O0D5ZaJxEY19dWVKbVuvAGP-ti4b08Rev5b9Uq9GPBTNfoGsQ7yntqGBGFVHw3ahplSGRJoxll2c1QptT6WnF1lj0C1wy9yL_g.png)
 
 > **Figure 10: Source: National Bureau of Statistics of China, January and February Figures Are the Monthly Average of Cumulative Production Posted in February**  
 > *Source: National Bureau of Statistics of China, *January and February figures are the monthly average of cumulative production posted in February*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68b00b737d3d66ba92e33dd3_AD_4nXctZVROQHFGNoDQoh5S3ev0oXgWeEYL2nHh2q23O0D5ZaJxEY19dWVKbVuvAGP-ti4b08Rev5b9Uq9GPBTNfoGsQ7yntqGBGFVHw3ahplSGRJoxll2c1QptT6WnF1lj0C1wy9yL_g.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](../../images/68b00b737d3d66ba92e33dd3_AD_4nXctZVROQHFGNoDQoh5S3ev0oXgWeEYL2nHh2q23O0D5ZaJxEY19dWVKbVuvAGP-ti4b08Rev5b9Uq9GPBTNfoGsQ7yntqGBGFVHw3ahplSGRJoxll2c1QptT6WnF1lj0C1wy9yL_g.png)
 
 
 ![Coal](../../images/68b00b737d3d66ba92e33dbb_AD_4nXe-TEqeLTDQ2AFLjWo1m3VCNjZ05DtOW4YiOsZNx97E5vjLdaburXdPas70M2fTuLgE0H0E_7r5JIYviA3pSHD90aK0PMRgfQtnvlS-Atg6fPunxg2RmNU8mhnFXsVhtEkGhbp08Q.png)
 
 > **Figure 11: Coal**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68b00b737d3d66ba92e33dbb_AD_4nXe-TEqeLTDQ2AFLjWo1m3VCNjZ05DtOW4YiOsZNx97E5vjLdaburXdPas70M2fTuLgE0H0E_7r5JIYviA3pSHD90aK0PMRgfQtnvlS-Atg6fPunxg2RmNU8mhnFXsVhtEkGhbp08Q.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](../../images/68b00b737d3d66ba92e33dbb_AD_4nXe-TEqeLTDQ2AFLjWo1m3VCNjZ05DtOW4YiOsZNx97E5vjLdaburXdPas70M2fTuLgE0H0E_7r5JIYviA3pSHD90aK0PMRgfQtnvlS-Atg6fPunxg2RmNU8mhnFXsVhtEkGhbp08Q.png)
 
 
 ![Source: IEA Mid-Year Coal Update, Asean Is the Association of South East Asian Nations](../../images/68b00b737d3d66ba92e33dd0_AD_4nXeFCG7Gbgc3nazpJAHGjFFS3_B__nYWP21rYkxNc_ynrFVvWksnUSw3_TdlGnV72JtNfFbox_gTF0p8-UFN6qz_DMvFtpLkaLufi0nxUhJgwqUaC-wgrqlFAHNe-Aj2-WEsuud1Xg.png)
 
 > **Figure 12: Source: IEA Mid-Year Coal Update, Asean Is the Association of South East Asian Nations**  
 > *Source: IEA mid-year Coal update, *ASEAN is the Association of South East Asian Nations*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68b00b737d3d66ba92e33dd0_AD_4nXeFCG7Gbgc3nazpJAHGjFFS3_B__nYWP21rYkxNc_ynrFVvWksnUSw3_TdlGnV72JtNfFbox_gTF0p8-UFN6qz_DMvFtpLkaLufi0nxUhJgwqUaC-wgrqlFAHNe-Aj2-WEsuud1Xg.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](../../images/68b00b737d3d66ba92e33dd0_AD_4nXeFCG7Gbgc3nazpJAHGjFFS3_B__nYWP21rYkxNc_ynrFVvWksnUSw3_TdlGnV72JtNfFbox_gTF0p8-UFN6qz_DMvFtpLkaLufi0nxUhJgwqUaC-wgrqlFAHNe-Aj2-WEsuud1Xg.png)
 
 
 ## Grains- Corn
@@ -168,21 +168,21 @@ The U.S., however, already diverts around 40% of corn production into ethanol, a
 
 > **Figure 13: Source: Global Grain Exports vs Corn Exports From Signal Ocean**  
 > *Source: Global grain exports vs Corn exports from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68b00b737d3d66ba92e33dcb_AD_4nXdQiIWr8UsCLyBcOb5PCE2HCIa7qeUcFUWKK4-et97C_3JN_J_MkIYfBZDtig1OqDnFCduRDbnRb_w5sfr_91eAeXurfyGTq1Ti3iUMEysVPaKkDJPdEzTEspdhJNb2c9cqAfPJ2w.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](../../images/68b00b737d3d66ba92e33dcb_AD_4nXdQiIWr8UsCLyBcOb5PCE2HCIa7qeUcFUWKK4-et97C_3JN_J_MkIYfBZDtig1OqDnFCduRDbnRb_w5sfr_91eAeXurfyGTq1Ti3iUMEysVPaKkDJPdEzTEspdhJNb2c9cqAfPJ2w.png)
 
 
 ![Source: Usda August Corn Report](../../images/68b00b737d3d66ba92e33dda_AD_4nXelPadZx_gGsx6VTBDSPPwQ3UrjFA76OijFrSPUSGC9Ee4fzqKeafGoVz9tQ80JfA9RtK6JHeSVfmjO98DwfBww8hzPqTE8mb5krfQxMK1lunz_RzDPp_MPxB80or51n7HspzKtbw.png)
 
 > **Figure 14: Source: Usda August Corn Report**  
 > *Source: USDA August Corn Report*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68b00b737d3d66ba92e33dda_AD_4nXelPadZx_gGsx6VTBDSPPwQ3UrjFA76OijFrSPUSGC9Ee4fzqKeafGoVz9tQ80JfA9RtK6JHeSVfmjO98DwfBww8hzPqTE8mb5krfQxMK1lunz_RzDPp_MPxB80or51n7HspzKtbw.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](../../images/68b00b737d3d66ba92e33dda_AD_4nXelPadZx_gGsx6VTBDSPPwQ3UrjFA76OijFrSPUSGC9Ee4fzqKeafGoVz9tQ80JfA9RtK6JHeSVfmjO98DwfBww8hzPqTE8mb5krfQxMK1lunz_RzDPp_MPxB80or51n7HspzKtbw.png)
 
 
 ![Source: Destinations of U.s](../../images/68b00b737d3d66ba92e33dd6_AD_4nXcRyi6l1uMzdH3JmsgTPH_sxKNbFR5ez-jb7uWuGg7vcIKlNc8vyJecDjZhHUZA8td5ZWZrBkLq-viF6w2wg0u6IJmRzouWt5E9Htg0xR5pL9n4zY5pGQOlP7YcLyh3RizxtRtv.png)
 
 > **Figure 15: Source: Destinations of U.s**  
 > *Source: Destinations of U.S. corn shipments from 2024- now from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68b00b737d3d66ba92e33dd6_AD_4nXcRyi6l1uMzdH3JmsgTPH_sxKNbFR5ez-jb7uWuGg7vcIKlNc8vyJecDjZhHUZA8td5ZWZrBkLq-viF6w2wg0u6IJmRzouWt5E9Htg0xR5pL9n4zY5pGQOlP7YcLyh3RizxtRtv.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-august-2025) | [Local Asset](../../images/68b00b737d3d66ba92e33dd6_AD_4nXcRyi6l1uMzdH3JmsgTPH_sxKNbFR5ez-jb7uWuGg7vcIKlNc8vyJecDjZhHUZA8td5ZWZrBkLq-viF6w2wg0u6IJmRzouWt5E9Htg0xR5pL9n4zY5pGQOlP7YcLyh3RizxtRtv.png)
 
 
 ## Recent Insights & Weekly Reports

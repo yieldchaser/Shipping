@@ -27,12 +27,12 @@ This week, in the East, we discuss falling VLCC voyage counts after a record-hig
 ![Στιγμιότυπο Οθόνης 2024 05 02 140442](assets/2024-05-02_falling-vlcc-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d63f4fe0743e.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 02 140442**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS0xsn5sSZqNQfpJ2ArxyBiwtfSqrb-zr26SKs2bAADXZIy--3OmzC4nhNdDy05yXDKMGzY-w=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-02_falling-vlcc-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d63f4fe0743e.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS0xsn5sSZqNQfpJ2ArxyBiwtfSqrb-zr26SKs2bAADXZIy--3OmzC4nhNdDy05yXDKMGzY-w=) | [Local Asset](assets/2024-05-02_falling-vlcc-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d63f4fe0743e.png)
 
 ![Στιγμιότυπο Οθόνης 2024 05 02 140524](assets/2024-05-02_falling-vlcc-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_178fc1fa215e.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 05 02 140524**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS0xsn5sSZqNQfpJ2ArxyBiwtfSqrb-zr26SKs2bAADXZIy--3OmzC4nhNdDy05yXDKMGzY-w=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-02_falling-vlcc-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_178fc1fa215e.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS0xsn5sSZqNQfpJ2ArxyBiwtfSqrb-zr26SKs2bAADXZIy--3OmzC4nhNdDy05yXDKMGzY-w=) | [Local Asset](assets/2024-05-02_falling-vlcc-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_178fc1fa215e.png)
 
 - [VLCC laden voyage counts](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS0xsn5sSZqNQfpJ2ArxyBiwtfSqrb-zr26SKs2bAADXZIy--3OmzC4nhNdDy05yXDKMGzY-w=)declined over 10% in April after all-time highs in March. High March employment came from a few factors: increased[MEG loadings towards NE Asia](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS0xsn6e6aZ8CUpkTfAX2Roq7oQ3c1MbV3hSjJj0eFgTOvzylsHJVViyI4DWZSTyJB4qJ_XGA=)and a 58% increase in the number of[voyages ex-USG to NE and SE Asia](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS0xsn6PA-caNVXO8FitVQK6bgWmCrVb1CUM5e7zox9CzQjuemW-NYNqBS-1rmhIfcVAh6q8E=). In April, these USG long-haul voyages to Asia halved, partially due to unfavourable arbitrage economics for WTI to Asia, which is sending more barrels to Europe on smaller vessel classes.
 
@@ -42,7 +42,7 @@ This week, in the East, we discuss falling VLCC voyage counts after a record-hig
 ![Στιγμιότυπο Οθόνης 2024 05 02 140551](assets/2024-05-02_falling-vlcc-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1448d7c7cdb2.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 05 02 140551**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS0xsn6CYjWQivFUYMKuAcir4WrGzMGrNpzu16vDvFSTbfAQQDXnSTXvnqyO0E6EPMUq-R_qs=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-02_falling-vlcc-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1448d7c7cdb2.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS0xsn6CYjWQivFUYMKuAcir4WrGzMGrNpzu16vDvFSTbfAQQDXnSTXvnqyO0E6EPMUq-R_qs=) | [Local Asset](assets/2024-05-02_falling-vlcc-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1448d7c7cdb2.png)
 
 - China’s[clean fuel exports hit year-to-date lows in April](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS0xsn6CYjWQivFUYMKuAcir4WrGzMGrNpzu16vDvFSTbfAQQDXnSTXvnqyO0E6EPMUq-R_qs=), as CPP production declined m-o-m amid the refinery maintenance peak and refiners prioritised domestic supplies to meet rising travel demand during the Labour Day Golden Week holidays.
 
@@ -52,7 +52,7 @@ This week, in the East, we discuss falling VLCC voyage counts after a record-hig
 ![Στιγμιότυπο Οθόνης 2024 05 02 140614](assets/2024-05-02_falling-vlcc-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6307666763f8.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 05 02 140614**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS0xsn5r0J0NZLM5OoOIOx4LKzBPn6_R6NhMS2l09bHaXbshHjLyeFY-2oZfS3Hb-FQxrvCbk=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-02_falling-vlcc-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6307666763f8.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS0xsn5r0J0NZLM5OoOIOx4LKzBPn6_R6NhMS2l09bHaXbshHjLyeFY-2oZfS3Hb-FQxrvCbk=) | [Local Asset](assets/2024-05-02_falling-vlcc-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6307666763f8.png)
 
 - The[market share of Aframaxes](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS0xsn5r0J0NZLM5OoOIOx4LKzBPn6_R6NhMS2l09bHaXbshHjLyeFY-2oZfS3Hb-FQxrvCbk=)(from a number of voyages perspective) operating in the transatlantic US Gulf-to-Europe route has drastically declined over the past 3 years from 85-90% to hovering around 50%.
 
@@ -62,7 +62,7 @@ This week, in the East, we discuss falling VLCC voyage counts after a record-hig
 ![Στιγμιότυπο Οθόνης 2024 05 02 140651](assets/2024-05-02_falling-vlcc-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4d9fb9f23257.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 05 02 140651**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS0xsn6G21yiGCAq8fev4kX5jpoGSImgWnKSwUPENebns4mJZ3V9gOcBktEUaldooDhZh_wyc=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-02_falling-vlcc-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4d9fb9f23257.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS0xsn6G21yiGCAq8fev4kX5jpoGSImgWnKSwUPENebns4mJZ3V9gOcBktEUaldooDhZh_wyc=) | [Local Asset](assets/2024-05-02_falling-vlcc-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4d9fb9f23257.png)
 
 - Russia has reportedly managed to restore partial operations at some of the refineries affected by Ukrainian drone strikes (Argus), though strikes are continuing. From a seasonal perspective, Russian diesel exports in April (days 1-27) are over 15% lower yoy. However, in the week ending 28 Apr,[diesel exports](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS0xsn6G21yiGCAq8fev4kX5jpoGSImgWnKSwUPENebns4mJZ3V9gOcBktEUaldooDhZh_wyc=)were 167kbd higher yoy.
 

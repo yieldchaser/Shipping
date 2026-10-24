@@ -23,12 +23,12 @@ source_file: "corpus/03-breakwave/insights/2026/2026-06-30_does-scale-equal-domi
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2026-06-30_does-scale-equal-dominance_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-30_does-scale-equal-dominance_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](assets/2026-06-30_does-scale-equal-dominance_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 ![6](assets/2026-06-30_does-scale-equal-dominance_img_6_3a4dd939ea52.jpg)
 
 > **Figure 2: 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-30_does-scale-equal-dominance_img_6_3a4dd939ea52.jpg)
+> [Local Asset](assets/2026-06-30_does-scale-equal-dominance_img_6_3a4dd939ea52.jpg)
 
 Over the past few years, Chinese-controlled tonnage has continued to increase across major shipping segments, with particularly strong growth in the dry bulk and tanker fleets. In terms of vessel numbers, Chinese-controlled tonnage, where the beneficial shipowner refers to the underlying entity that effectively controls and benefits from a vessel, regardless of its registered ownership, now accounts for around 25% of the global fleet, far exceeding Greece’s share of around 11%. This shift does not necessarily diminish Greece’s established role in global shipping, but it does raise questions on the future outlook for maritime ownership.
 
@@ -45,7 +45,7 @@ Compared with China, Greek-controlled tonnage is more evenly distributed across 
 ![7](assets/2026-06-30_does-scale-equal-dominance_img_7_2701ba0b626c.jpg)
 
 > **Figure 3: 7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-30_does-scale-equal-dominance_img_7_2701ba0b626c.jpg)
+> [Local Asset](assets/2026-06-30_does-scale-equal-dominance_img_7_2701ba0b626c.jpg)
 
 Greece’s loss of the whole fleet top position should not be interpreted simply as a passive decline. In recent years, the Greek-controlled dry bulker fleet has continued to expand, but growth rate has slowed to 3.2% from 5.4% in 2016. This slowdown does not reflect a lack of capital among Greek shipowners or a withdrawal from the market. Rather, it reflects a deliberate strategy of selling older vessels in order to rejuvenate the fleet and optimize asset structure.
 

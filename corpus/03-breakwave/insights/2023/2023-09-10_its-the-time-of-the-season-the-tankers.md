@@ -30,7 +30,7 @@ In recent years, both the Covid-19 pandemic and the Russian invasion of Ukraine 
 
 > **Figure 1: Source: Poten & Partners**  
 > *Source: Poten & Partners*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-10_its-the-time-of-the-season-the-tankers_img_screenshot2023-09-09125553_069988feaae9.png)
+> [Local Asset](assets/2023-09-10_its-the-time-of-the-season-the-tankers_img_screenshot2023-09-09125553_069988feaae9.png)
 
 As always, there are different views in the market as lower exports out of the Middle East, due to the recent OPEC export cuts, may reduce demand for tonnage.
 

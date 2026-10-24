@@ -41,7 +41,7 @@ Poten & Partners recently shared a compelling outlook in their "Ready For A Rebo
 ![Td3ccurve82625](assets/2025-08-27_are-vlccs-poised-for-a-comeback_img_td3ccurve8262528129_38875f2526c1.png)
 
 > **Figure 1: Td3ccurve82625**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-27_are-vlccs-poised-for-a-comeback_img_td3ccurve8262528129_38875f2526c1.png)
+> [Local Asset](assets/2025-08-27_are-vlccs-poised-for-a-comeback_img_td3ccurve8262528129_38875f2526c1.png)
 
 ### Summary for Investors
 

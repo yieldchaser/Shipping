@@ -33,7 +33,7 @@ In the coal segment, there is significant breaking news from the Indonesian expo
 ![Ch1](assets/2022-01-26_signal-dry-bulk-weekly-report_img_ch1_3eb86dd9ba07.png)
 
 > **Figure 1: Ch1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-26_signal-dry-bulk-weekly-report_img_ch1_3eb86dd9ba07.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-01-26_signal-dry-bulk-weekly-report_img_ch1_3eb86dd9ba07.png)
 
 - Capesize Brazil to NChina rates dropped below $18/t (vs ~$30/t Week 49, 2021) and Panamax Continent to Far East rates are now ~$43/t vs $(53/t at Week 49 of last year.
 
@@ -49,7 +49,7 @@ Supply Trend Lines for Key Load Areas
 ![Ch2](assets/2022-01-26_signal-dry-bulk-weekly-report_img_ch2_3528939b585f.png)
 
 > **Figure 2: Ch2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-26_signal-dry-bulk-weekly-report_img_ch2_3528939b585f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-01-26_signal-dry-bulk-weekly-report_img_ch2_3528939b585f.png)
 
 - The number of vessels sailing in ballast status is still evolving above the average trend line for the handysize and Panamax segment, at levels of above 65 for handysize and 100 for Panamax.
 
@@ -63,7 +63,7 @@ Supply Trend Lines for Key Load Areas
 ![Ch3](assets/2022-01-26_signal-dry-bulk-weekly-report_img_ch3_506678605583.png)
 
 > **Figure 3: Ch3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-26_signal-dry-bulk-weekly-report_img_ch3_506678605583.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-01-26_signal-dry-bulk-weekly-report_img_ch3_506678605583.png)
 
 - Looking at the evolution of demand growth, the current fundamentals for the iron market and Chinese economy remain in a silent mode a few days before the Chinese New Year.
 
@@ -79,7 +79,7 @@ Supply Trend Lines for Key Load Areas
 ![Ch4](assets/2022-01-26_signal-dry-bulk-weekly-report_img_ch4_40e5c4ca15f3.png)
 
 > **Figure 4: Ch4**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-26_signal-dry-bulk-weekly-report_img_ch4_40e5c4ca15f3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-01-26_signal-dry-bulk-weekly-report_img_ch4_40e5c4ca15f3.png)
 
 - The number of congestion remains hovering below the average of ~1120 vessels since Week 46, 2021.
 

@@ -33,7 +33,7 @@ Crude oil tankers have a vital role to play within the energy value chain. Their
 ![A2](assets/2022-02-13_tanker-shipping-market-10-noamz_img_a2_3c03b551138f.jpg)
 
 > **Figure 1: A2**  
-> **Interactive Data & Source:** [Euronav](https://www.euronav.com) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-13_tanker-shipping-market-10-noamz_img_a2_3c03b551138f.jpg)
+> **Interactive Data & Source:** [Euronav](https://www.euronav.com) | [Local Asset](assets/2022-02-13_tanker-shipping-market-10-noamz_img_a2_3c03b551138f.jpg)
 
 ### The Asset
 
@@ -43,7 +43,7 @@ Crude oil tankers come in various sizes, the biggest standard size being a Very 
 
 > **Figure 2: January 1**  
 > ** January 1, 2018 (Source: Clarksons SIN Excludes shuttle tankers)*  
-> **Interactive Data & Source:** [Euronav](https://www.euronav.com) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-13_tanker-shipping-market-10-noamz_img_a3_bb53bd05963d.jpg)
+> **Interactive Data & Source:** [Euronav](https://www.euronav.com) | [Local Asset](assets/2022-02-13_tanker-shipping-market-10-noamz_img_a3_bb53bd05963d.jpg)
 
 Construction of crude oil tankers takes 9 to 15 months from the time the keel is first laid. This means that it will take at least two years from the time of newbuilding contract signature until the vessel is delivered because many critical parts are long-lead items that needs to be ordered and produced before the construction of the ship can commence.
 
@@ -58,14 +58,14 @@ The economic lifespan of an oil tanker has historically been 25 years, although 
 ![Unsplash Image 983knf8azec](assets/2022-02-13_tanker-shipping-market-10-noamz_img_unsplash-image-983knf8azec_a8c28c128365.jpg)
 
 > **Figure 3: Unsplash Image 983knf8azec**  
-> **Interactive Data & Source:** [Euronav](https://www.euronav.com) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-13_tanker-shipping-market-10-noamz_img_unsplash-image-983knf8azec_a8c28c128365.jpg)
+> **Interactive Data & Source:** [Euronav](https://www.euronav.com) | [Local Asset](assets/2022-02-13_tanker-shipping-market-10-noamz_img_unsplash-image-983knf8azec_a8c28c128365.jpg)
 
 ### The Cost Structure
 
 ![A4](assets/2022-02-13_tanker-shipping-market-10-noamz_img_a4_61a1a190f4d5.jpg)
 
 > **Figure 4: A4**  
-> **Interactive Data & Source:** [Euronav](https://www.euronav.com) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-13_tanker-shipping-market-10-noamz_img_a4_61a1a190f4d5.jpg)
+> **Interactive Data & Source:** [Euronav](https://www.euronav.com) | [Local Asset](assets/2022-02-13_tanker-shipping-market-10-noamz_img_a4_61a1a190f4d5.jpg)
 
 A ship owner chartering his vessel to a customer is paid 'freight'; this is the gross revenue agreed with the charterer to cover the entire voyage from port of loading to port of discharge. This revenue is used to cover the cost for the owner to undertake the voyage, the cost of operating the vessel, any interest payments to loan providers and other costs associated with owning a ship. Certain fixed costs vary between shipping companies, most important the purchase price, and each will therefore have their individual breakeven cost at which it becomes profitable to run the vessels. However, once these fixed costs are covered, all additional revenue results in profit.
 
@@ -74,7 +74,7 @@ Earnings are reported by companies and market watchers in terms of 'dollars per 
 ![A5](assets/2022-02-13_tanker-shipping-market-10-noamz_img_a5_5265c5c5844e.jpg)
 
 > **Figure 5: A5**  
-> **Interactive Data & Source:** [Euronav](https://www.euronav.com) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-13_tanker-shipping-market-10-noamz_img_a5_5265c5c5844e.jpg)
+> **Interactive Data & Source:** [Euronav](https://www.euronav.com) | [Local Asset](assets/2022-02-13_tanker-shipping-market-10-noamz_img_a5_5265c5c5844e.jpg)
 
 ### Tanker Customers
 
@@ -91,7 +91,7 @@ When a charterer requires a tanker to move oil from A to B they will typically g
 ![Unsplash Image Subrryxv8a](assets/2022-02-13_tanker-shipping-market-10-noamz_img_unsplash-image-subrryxv8a_026143df9ea7.jpg)
 
 > **Figure 6: Unsplash Image Subrryxv8a**  
-> **Interactive Data & Source:** [Euronav](https://www.euronav.com) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-13_tanker-shipping-market-10-noamz_img_unsplash-image-subrryxv8a_026143df9ea7.jpg)
+> **Interactive Data & Source:** [Euronav](https://www.euronav.com) | [Local Asset](assets/2022-02-13_tanker-shipping-market-10-noamz_img_unsplash-image-subrryxv8a_026143df9ea7.jpg)
 
 ### How the Price of Freight Is Set
 
@@ -101,7 +101,7 @@ The following chart gives a broad worked example on how the price of freight is 
 
 > **Figure 7: This Is the End of Part 1**  
 > *This is the end of part 1. Next Sunday, the final part 2.*  
-> **Interactive Data & Source:** [Euronav](https://www.euronav.com) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-13_tanker-shipping-market-10-noamz_img_a6_c56a4a286914.jpg)
+> **Interactive Data & Source:** [Euronav](https://www.euronav.com) | [Local Asset](assets/2022-02-13_tanker-shipping-market-10-noamz_img_a6_c56a4a286914.jpg)
 
 Quite simply the higher the number of potential ships, the lower the eventual freight rate will likely be as more qualifying bidders logically should mean more pressure on the price. However, it is important to understand only one ship will be selected to go through a final vetting process whereby the cargo owner will assess the vessel’s seaworthiness and suitability for the trade via previous survey results and inspections. Ship owners competing with each other drive pricing down sometimes below fixed costs.
 
@@ -113,7 +113,7 @@ Quite simply the higher the number of potential ships, the lower the eventual fr
 
 > **Figure 8: ﻿Data Source:euronav**  
 > *﻿Data Source:Euronav*  
-> **Interactive Data & Source:** [Euronav](https://www.euronav.com) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-13_tanker-shipping-market-10-noamz_img_a1_8e20eea7091e.jpg)
+> **Interactive Data & Source:** [Euronav](https://www.euronav.com) | [Local Asset](assets/2022-02-13_tanker-shipping-market-10-noamz_img_a1_8e20eea7091e.jpg)
 
 ---
 

@@ -32,7 +32,7 @@ The Baltic Panamax index time-charter equivalent declined by $368/day today, pri
 ![Market Chart 1](assets/2023-02-07_the-big-picture-panamax-market_img_image00128329_cd9906efc671.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-07_the-big-picture-panamax-market_img_image00128329_cd9906efc671.png)
+> [Local Asset](assets/2023-02-07_the-big-picture-panamax-market_img_image00128329_cd9906efc671.png)
 
 Compared to the first print of the new year, Panamax FFA prices have moved higher across much of the curve, owed to growing optimism on China’s demand prospects later in the year. The Panamaxes have traded at a premium to the larger Capesizes for much of the year so far, though FFAs are currently pricing in a sharp reversal in this trend for the second half of the year. The Cape v Panamax Q2 contract spread lies at -$250 at the time of writing, whereas the Q3 print shows $4,725, according to Braemar Screen.
 
@@ -45,7 +45,7 @@ As Chinese volumes remain light, Indonesian miners have found buyers elsewhere i
 ![Market Chart 2](assets/2023-02-07_the-big-picture-panamax-market_img_image00228229_7f182f0f2582.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-07_the-big-picture-panamax-market_img_image00228229_7f182f0f2582.png)
+> [Local Asset](assets/2023-02-07_the-big-picture-panamax-market_img_image00228229_7f182f0f2582.png)
 
 It has recently been reported Japanese utilities are aiming to lower coal import costs by purchasing greater quantities of lower-grade coal. While this is beneficial to the Indonesian miners, it does create a net-negative scenario in terms of Panamax demand, given the much shorter distances travelled compared to a stem from Australia to the Far East. On the Panamaxes, Japanese and South Korean imports of Australian coal declined by 11.4% and 31.2% to 6.7m and 1.2m tonnes respectively.
 
@@ -53,7 +53,7 @@ It has recently been reported Japanese utilities are aiming to lower coal import
 
 > **Figure 3: Printing $6**  
 > *Printing $6,625/day at the time of writing, the Baltic-assessed P1A_82 route is now at its lowest point since June 2020. Fresh cargoes in the Atlantic have been few and far between, with new reports of delays to the Brazilian soybean export season surfacing in the past several days. Following on from last week’sBig Picture, new reports show grain trucks getting stuck on the roads heading to ports due to heavy rainfall. Though this is likely to delay export demand in the short-term, we continue to anticipate a strong soybean season out of Brazil once these issues are resolved. From ECSA, including non-grain cargoes, 14-day average daily Panamax liftings now amount to just 355k tonnes, a decline of 10.5% since the start of the year.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-07_the-big-picture-panamax-market_img_image00328129_539ec828b2d5.png)
+> [Local Asset](assets/2023-02-07_the-big-picture-panamax-market_img_image00328129_539ec828b2d5.png)
 
 The Panamaxes have also seen limited benefit from the surge in European demand for Australian coal, as this is done primarily on the larger Capesizes. As a result, total Australian dry bulk exports on Panamaxes have been softer to start the year, amounting to 21.2m tonnes, declining by 11.8% YoY, mostly due to the weakness in coal, while grains have proven relatively steady. Despite the unofficial ban lifted in China, very few cargoes have hit the market so far.
 
@@ -64,6 +64,6 @@ Overall, the lack of activity in the Pacific, has driven a steady migration of t
 ![Market Chart 4](assets/2023-02-07_the-big-picture-panamax-market_img_image00428229_ffb1dbb40b62.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-07_the-big-picture-panamax-market_img_image00428229_ffb1dbb40b62.png)
+> [Local Asset](assets/2023-02-07_the-big-picture-panamax-market_img_image00428229_ffb1dbb40b62.png)
 
 With activity muted in the Pacific for the most part in 2023, the amount of vessel arrivals into the Atlantic basin in recent weeks consistently risen. At the start of the year, 9.5m dwt in unladen Panamax tonnage was positioned in the South Atlantic. This has since climbed to 14.2m dwt at the time of writing, an increase of 48.8%. This has come amidst an already soft period for demand, as Brazil has ben unable to ramp up soybean shipments. In South Africa, Panamax demand has been steady, with these vessels loading 2.5m tonnes of dry bulk commodities (mostly coal) in January, a 12.6% increase MoM, albeit not enough to soak up the supply moving back West.

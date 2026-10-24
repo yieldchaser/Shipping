@@ -35,14 +35,14 @@ With the futures curve in steep backwardation, the market is expecting the seaso
 ![BDI Q1 Ftures](assets/2020-12-29_a-quiet-week-for-dry-bulk-while-futures-fairly-priced-based-on-history_img_bdiq1ftures_42f74f8d0db3.png)
 
 > **Figure 1: BDI Q1 Ftures**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-29_a-quiet-week-for-dry-bulk-while-futures-fairly-priced-based-on-history_img_bdiq1ftures_42f74f8d0db3.png)
+> [Local Asset](assets/2020-12-29_a-quiet-week-for-dry-bulk-while-futures-fairly-priced-based-on-history_img_bdiq1ftures_42f74f8d0db3.png)
 
 Capesize futures also have a similar pattern, basically priced very close to historical levels, yet a touch less optimistic versus the BDI pattern:
 
 ![Capesize Q1 Futures](assets/2020-12-29_a-quiet-week-for-dry-bulk-while-futures-fairly-priced-based-on-history_img_capesizeq1futures_a927d208d620.png)
 
 > **Figure 2: Capesize Q1 Futures**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-29_a-quiet-week-for-dry-bulk-while-futures-fairly-priced-based-on-history_img_capesizeq1futures_a927d208d620.png)
+> [Local Asset](assets/2020-12-29_a-quiet-week-for-dry-bulk-while-futures-fairly-priced-based-on-history_img_capesizeq1futures_a927d208d620.png)
 
 The sharp rise in iron ore prices during the past few months combined with broader optimism in capital markets around the world, could potentially explain the slight optimism in freight futures. Combining that with the fact that last week the Capesize market closed with a positive momentum, and it is easy to understand such a slight optimism towards the near future.
 

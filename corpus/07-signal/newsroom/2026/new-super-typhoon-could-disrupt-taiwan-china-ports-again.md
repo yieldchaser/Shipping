@@ -30,7 +30,7 @@ Super Typhoon Dolphin is currently rated Category 5 by [ECMWF](https://www.ecmwf
 ![New Super Typhoon Could Disrupt Taiwan & China Ports Again](../../images/6a6b460f83df65a83893c7f9_60b10faa.png)
 
 > **Figure 1: New Super Typhoon Could Disrupt Taiwan & China Ports Again**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/new-super-typhoon-could-disrupt-taiwan-china-ports-again) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a6b460f83df65a83893c7f9_60b10faa.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/new-super-typhoon-could-disrupt-taiwan-china-ports-again) | [Local Asset](../../images/6a6b460f83df65a83893c7f9_60b10faa.png)
 
 The precise track and intensity may still change, but the projected conditions would be sufficient to disrupt navigation and port operations across the region.
 
@@ -38,13 +38,13 @@ The precise track and intensity may still change, but the projected conditions w
 ![New Super Typhoon Could Disrupt Taiwan & China Ports Again](../../images/6a6b460f83df65a83893c7f3_1f554a34.png)
 
 > **Figure 2: New Super Typhoon Could Disrupt Taiwan & China Ports Again**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/new-super-typhoon-could-disrupt-taiwan-china-ports-again) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a6b460f83df65a83893c7f3_1f554a34.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/new-super-typhoon-could-disrupt-taiwan-china-ports-again) | [Local Asset](../../images/6a6b460f83df65a83893c7f3_1f554a34.png)
 
 
 ![New Super Typhoon Could Disrupt Taiwan & China Ports Again](../../images/6a6b460f83df65a83893c7f6_238af840.png)
 
 > **Figure 3: New Super Typhoon Could Disrupt Taiwan & China Ports Again**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/new-super-typhoon-could-disrupt-taiwan-china-ports-again) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a6b460f83df65a83893c7f6_238af840.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/new-super-typhoon-could-disrupt-taiwan-china-ports-again) | [Local Asset](../../images/6a6b460f83df65a83893c7f6_238af840.png)
 
 
 ## Potential Impact Across Vessel Segments
@@ -60,7 +60,7 @@ Bavi’s impact remains visible in Chinese dry bulk vessel activity. Around the 
 ![Existing Congestion Could Amplify the Impact](../../images/6a6b460f83df65a83893c7fc_e63a6efc.png)
 
 > **Figure 4: Existing Congestion Could Amplify the Impact**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/new-super-typhoon-could-disrupt-taiwan-china-ports-again) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a6b460f83df65a83893c7fc_e63a6efc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/new-super-typhoon-could-disrupt-taiwan-china-ports-again) | [Local Asset](../../images/6a6b460f83df65a83893c7fc_e63a6efc.png)
 
 Alphaliner reports that Bavi also caused a noticeable increase in container vessel congestion in China. Both the amount of container capacity waiting at anchorage and completed vessel waiting times rose following the storm. While conditions have started to improve, the disruption has not yet been fully absorbed, leaving the market more exposed to another round of port restrictions or vessel bunching if Dolphin follows its current projected path.
 
@@ -68,7 +68,7 @@ Alphaliner reports that Bavi also caused a noticeable increase in container vess
 ![Existing Congestion Could Amplify the Impact](../../images/6a6b460f83df65a83893c7ff_302a3cb6.png)
 
 > **Figure 5: Existing Congestion Could Amplify the Impact**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/new-super-typhoon-could-disrupt-taiwan-china-ports-again) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a6b460f83df65a83893c7ff_302a3cb6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/new-super-typhoon-could-disrupt-taiwan-china-ports-again) | [Local Asset](../../images/6a6b460f83df65a83893c7ff_302a3cb6.png)
 
 
 ## More Than 66 Million Tonnes Scheduled for Discharge
@@ -82,6 +82,6 @@ Iron ore, thermal and coking coal, bauxite, soybeans, and nickel ore are the com
 ![Top 6 Commodities to Be Discharged in China (Million Tons) Seaborne](../../images/6a6b45d71ea68ba2a789db29_Screenshot 2026-07-30 at 13.38.24.png)
 
 > **Figure 6: Top 6 Commodities to Be Discharged in China (Million Tons) Seaborne**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/new-super-typhoon-could-disrupt-taiwan-china-ports-again) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a6b45d71ea68ba2a789db29_Screenshot 2026-07-30 at 13.38.24.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/new-super-typhoon-could-disrupt-taiwan-china-ports-again) | [Local Asset](../../images/6a6b45d71ea68ba2a789db29_Screenshot 2026-07-30 at 13.38.24.png)
 
 The immediate risk is a potential delay in discharge activity, which could extend anchorage congestion and tighten available vessel supply across the Pacific. With Bavi's backlog still clearing and a second storm now approaching the same corridor within a month, the key indicators to watch over the coming days will be changes to Dolphin's projected track, port suspension notices, vessel accumulation at Chinese anchorages, and the pace at which congestion clears once the storm passes. We will continue tracking crossing volumes and discharge data across all vessel segments as the picture develops.

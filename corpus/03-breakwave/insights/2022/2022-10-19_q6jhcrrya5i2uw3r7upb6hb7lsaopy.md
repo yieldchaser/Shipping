@@ -24,7 +24,7 @@ Last week, OPEC+ agreed to make production cuts of 2 mbd for the next 14 months 
 ![Screenshot 20221019 134223 Samsung Notes](assets/2022-10-19_q6jhcrrya5i2uw3r7upb6hb7lsaopy_img_screenshot-20221019-134223-samsungno_920cfc0b590d.jpg)
 
 > **Figure 1: Screenshot 20221019 134223 Samsung Notes**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-19_q6jhcrrya5i2uw3r7upb6hb7lsaopy_img_screenshot-20221019-134223-samsungno_920cfc0b590d.jpg)
+> [Local Asset](assets/2022-10-19_q6jhcrrya5i2uw3r7upb6hb7lsaopy_img_screenshot-20221019-134223-samsungno_920cfc0b590d.jpg)
 
 Under the new quotas, the OPEC 10 will be required to make a combined cut of 1.273 mbd, whilst associate members will cut up to 727 kbd. The largest of these cuts will come from Saudi Arabia and Russia who will both be required to reduce production by 526 kbd respectivly; as well as Iraq by 220 kbd and the UAE by 160 kbd. Other members will make varying levels of much smaller cuts meaning the bulk of these cuts will come from the Middle East (55%) and Russia (26%). These producers have adequate capacity to make such production cuts given their steady increases in production in line with previous OPEC+ policy since April 2021. In contrast, Russia is a special case, where output has been falling since April 2022 and is currently producing below its output quota.
 

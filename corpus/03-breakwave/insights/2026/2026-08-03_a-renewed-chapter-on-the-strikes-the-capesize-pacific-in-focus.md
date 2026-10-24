@@ -29,7 +29,7 @@ August opens with a renewed chapter on the Port Hedland strikes. Using AXS Dry I
 ![Στιγμιότυπο Οθόνης 2026 08 03 153426](assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3884fd081b19.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 08 03 153426**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3884fd081b19.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3884fd081b19.png)
 
 THE RENEWED CHAPTER
 
@@ -44,7 +44,7 @@ Current export flows do not point to a tightening physical market. Australian se
 ![Στιγμιότυπο Οθόνης 2026 08 03 154010](assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_95c5536906ae.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 08 03 154010**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_95c5536906ae.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_95c5536906ae.png)
 
 THE BALLASTERS MAP: WHERE THE SHIPS ARE
 
@@ -53,19 +53,19 @@ The ballasters map shows the prompt vessel supply around Western Australia. Arou
 ![Στιγμιότυπο Οθόνης 2026 08 03 154020](assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3b902ff6091d.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 08 03 154020**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3b902ff6091d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3b902ff6091d.png)
 
 The fleet balance suggests that prompt vessel supply remains elevated. As of 31 July, the Pacific Capesize fleet comprised 547 laden vessels and 534 in ballast, leaving 49% of the fleet available for its next voyage—above the level seen at the start of the year. The Atlantic-to-Pacific ballast ratio stood at around 0.38, remaining well below 1.0 and indicating a continued concentration of ballast tonnage in the Pacific. In that context, any temporary interruption to loading schedules would leave more vessels competing for available cargoes rather than reduce vessel availability.
 
 ![Στιγμιότυπο Οθόνης 2026 08 03 154150](assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5f6b5db6f9e2.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2026 08 03 154150**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5f6b5db6f9e2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5f6b5db6f9e2.png)
 
 ![Στιγμιότυπο Οθόνης 2026 08 03 154202](assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_86e2df42a956.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2026 08 03 154202**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_86e2df42a956.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_86e2df42a956.png)
 
 THE SPOT READ: C5 THE WEAKER LEG
 
@@ -74,7 +74,7 @@ C5 (West Australia–Qingdao) is trading well below C3 (Brazil–Qingdao): the s
 ![Στιγμιότυπο Οθόνης 2026 08 03 154309](assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ab193ee2029.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2026 08 03 154309**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ab193ee2029.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-08-03_a-renewed-chapter-on-the-strikes-the-capesize-pacific-in-focus_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ab193ee2029.png)
 
 WHAT TO WATCH
 

@@ -46,7 +46,7 @@ Rebooting means volatility and uncertainty, but investors should remember that v
 ![Market Chart 1](assets/2022-12-19_mazars-notea-positive-message-for-2023-the-world-is-rebooting-and-thats-good_img_image00228229_8afe2200a445.jpg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=0FJU4GrXztE) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-19_mazars-notea-positive-message-for-2023-the-world-is-rebooting-and-thats-good_img_image00228229_8afe2200a445.jpg)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=0FJU4GrXztE) | [Local Asset](assets/2022-12-19_mazars-notea-positive-message-for-2023-the-world-is-rebooting-and-thats-good_img_image00228229_8afe2200a445.jpg)
 
 So the lesson is simple.
 

@@ -31,12 +31,12 @@ Diplomatic activity surrounding the Russia–Ukraine conflict attracted increase
 ![Στιγμιότυπο Οθόνης 2025 12 04 102055](assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_562b65613275.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 12 04 102055**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_562b65613275.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_562b65613275.png)
 
 ![Στιγμιότυπο Οθόνης 2025 12 04 102102](assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e39411038645.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 12 04 102102**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e39411038645.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e39411038645.png)
 
 **Russian Export System Under Mounting Pressure**| Coal Identified as the Main Cause of Revenue Drop
 
@@ -45,7 +45,7 @@ Allied Quantumsea Research reviewed the latest CREA data, which show a pronounce
 ![Στιγμιότυπο Οθόνης 2025 12 04 102211](assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fd9557715fdf.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 12 04 102211**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fd9557715fdf.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fd9557715fdf.png)
 
 Other energy segments delivered a more mixed performance. Crude revenues were broadly stable at EUR 238 million per day, split between EUR 59 million from pipelines and EUR 179 million from seaborne exports.
 
@@ -54,7 +54,7 @@ LNG was the only segment showing clear upside, rising 10% to EUR 38 million dail
 ![Στιγμιότυπο Οθόνης 2025 12 04 102310](assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e83432b97b15.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 12 04 102310**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e83432b97b15.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e83432b97b15.png)
 
 ### China & India – Dominant Buyers, Evolving Dynamics
 
@@ -65,7 +65,7 @@ India was the second-largest buyer, with EUR 3.1 bn in imports, almost entirely 
 ![Στιγμιότυπο Οθόνης 2025 12 04 102320](assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_baa86d00dcd9.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 12 04 102320**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_baa86d00dcd9.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_baa86d00dcd9.png)
 
 ### Price Cap Effects – Urals Still Trades Above the Ceiling
 
@@ -74,7 +74,7 @@ Urals crude averaged USD 59/bbl in October (about 4% lower than the previous mon
 ![Στιγμιότυπο Οθόνης 2025 12 04 102338](assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b7353be0e88f.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 12 04 102338**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b7353be0e88f.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b7353be0e88f.png)
 
 ### Tanker Participation – The Gradual Return of G7+ Tonnage
 
@@ -83,7 +83,7 @@ G7-aligned tankers continued to regain ground in October, accounting for 38% of 
 ![Στιγμιότυπο Οθόνης 2025 12 04 102349](assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8aa9283d78b.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 12 04 102349**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8aa9283d78b.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-12-04_energy-markets-sanctions-dynamics-amp-the-2026-rebalancing-scenario_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8aa9283d78b.png)
 
 ### How 2026 Could Evolve Under a Peace Scenario
 

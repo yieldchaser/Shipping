@@ -31,7 +31,7 @@ With the Winter Olympics approaching, emission control became increasingly impor
 ![Ch1](assets/2021-12-22_iron-ore-inventories-could-signal-a-pick-up-in-tonne-mile-demand_img_ch1_28478be63ea3.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-22_iron-ore-inventories-could-signal-a-pick-up-in-tonne-mile-demand_img_ch1_28478be63ea3.png)
+> [Local Asset](assets/2021-12-22_iron-ore-inventories-could-signal-a-pick-up-in-tonne-mile-demand_img_ch1_28478be63ea3.png)
 
 As discussed in a previous Ocean Analytics contribution, iron ore prices have been recovering somewhat during the past six weeks after the epic retreat from the highs recorded in May. The rebound has been fuelled by expectations of higher steel production and demand once the Olympics have passed and more stimulus to support the flagging growth rate are introduced. Also, November saw a pick up in production, as many steel mills had met their annual production cuts and were allowed to boost output.
 
@@ -40,28 +40,28 @@ Despite China’s restrictions on steel production, global seaborne iron ore exp
 ![Ch2](assets/2021-12-22_iron-ore-inventories-could-signal-a-pick-up-in-tonne-mile-demand_img_ch2_bf3ae3d24142.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-22_iron-ore-inventories-could-signal-a-pick-up-in-tonne-mile-demand_img_ch2_bf3ae3d24142.png)
+> [Local Asset](assets/2021-12-22_iron-ore-inventories-could-signal-a-pick-up-in-tonne-mile-demand_img_ch2_bf3ae3d24142.png)
 
 At the same time, as Brazilian export shipments are softening, iron ore inventory levels are building up in the Port of Tubarao. Recent satellite-based inventory data for Brazil’s largest port for iron ore suggest that levels are among the highest recorded in recent years. Hence, there is the chance that December’s export volumes may catch up following a sluggish start.
 
 ![Ch3](assets/2021-12-22_iron-ore-inventories-could-signal-a-pick-up-in-tonne-mile-demand_img_ch3_fe8183c48bf3.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-22_iron-ore-inventories-could-signal-a-pick-up-in-tonne-mile-demand_img_ch3_fe8183c48bf3.png)
+> [Local Asset](assets/2021-12-22_iron-ore-inventories-could-signal-a-pick-up-in-tonne-mile-demand_img_ch3_fe8183c48bf3.png)
 
 On the other hand, recent export volumes have held up better for the world’s largest iron ore exporter, Australia. The first half of the month has seen more than 40 million tonnes leaving the country’s ports, which means that it could be on track to join an exclusive group that tops 80 million tonnes. However, full-year exports are on course to fall seven million tonnes short of last year’s record 926 million tonnes.
 
 ![Ch4](assets/2021-12-22_iron-ore-inventories-could-signal-a-pick-up-in-tonne-mile-demand_img_ch4_d9752aa8a875.png)
 
 > **Figure 4: Ch4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-22_iron-ore-inventories-could-signal-a-pick-up-in-tonne-mile-demand_img_ch4_d9752aa8a875.png)
+> [Local Asset](assets/2021-12-22_iron-ore-inventories-could-signal-a-pick-up-in-tonne-mile-demand_img_ch4_d9752aa8a875.png)
 
 Unlike in Brazil, portside iron ore inventories in Port Hedland have been trending lower during the second half of the year. In recent weeks, the stockpiles in Australia’s largest port for iron ore shipments have shrunk to the lowest levels since July last year, suggesting that export volumes may soften in the near future.
 
 ![Ch6](assets/2021-12-22_iron-ore-inventories-could-signal-a-pick-up-in-tonne-mile-demand_img_ch6_932bfbd0bc8e.png)
 
 > **Figure 5: Ch6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-22_iron-ore-inventories-could-signal-a-pick-up-in-tonne-mile-demand_img_ch6_932bfbd0bc8e.png)
+> [Local Asset](assets/2021-12-22_iron-ore-inventories-could-signal-a-pick-up-in-tonne-mile-demand_img_ch6_932bfbd0bc8e.png)
 
 The diverging developments for the portside iron ore inventories in the world’s two largest exporters of the commodity could see a pick up in tonne-mile demand in the Capesize segment if Chinese imports remain robust. An opportunity to source more of the steel-making ingredient from Brazilian mines, at the expense of Australia, would no doubt delight Chinese buyers in the current diplomatic climate. It would also triple the distance the shipments need to travel and tie up the vessels employed in the trade for much longer.
 

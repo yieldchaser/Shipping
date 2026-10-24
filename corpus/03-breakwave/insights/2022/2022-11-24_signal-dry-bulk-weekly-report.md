@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-24_signal-dry-bulk-weekl
 
 > **Figure 1: Current Levels Are at the Lowest Compared to a Similar Period In**  
 > *Current levels are at the lowest compared to a similar period in 2021-2020*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-vesselSpeeds/2l66vj/287121756?h=3E2GAJ3d3YyNT46BsvLMBg5xZZrLppARiyEPCZQGeFU) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-24_signal-dry-bulk-weekly-report_img_buttonwdate_d45d644f7990.png)](https://www.breakwaveadvisors.com/agenda22)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-vesselSpeeds/2l66vj/287121756?h=3E2GAJ3d3YyNT46BsvLMBg5xZZrLppARiyEPCZQGeFU) | [Local Asset](assets/2022-11-24_signal-dry-bulk-weekly-report_img_buttonwdate_d45d644f7990.png)](https://www.breakwaveadvisors.com/agenda22)
 
 In the fourth week of November, the weaker dynamics of freight market rates have yet to be reversed in all ship size classes, while demand continues to signal a downward trend. Economic uncertainties for the Chinese economy and the escalation of geopolitical tensions between Russia and Ukraine appear to be shaking the strength of freight rates, as the number of ships sailing in ballast for supramax and handysize vessels has declined significantly from the increase recorded in early November. As shown in the chart below based on Signal Ocean Data, the vessel speed for seagoing ballasted and loaded vessels has dropped to its lowest level compared to a similar period in the previous two years as freight rates continue to decline and demand has not yet turned to positive momentum.
 
@@ -34,7 +34,7 @@ In the iron ore market, prices for iron ore shipments have fallen due to the inc
 ![Market Chart 2](assets/2022-11-24_signal-dry-bulk-weekly-report_img_unnamed-2022-11-23t211959927_de1e106d1bba.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-vesselSpeeds/2l66vj/287121756?h=3E2GAJ3d3YyNT46BsvLMBg5xZZrLppARiyEPCZQGeFU) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-24_signal-dry-bulk-weekly-report_img_unnamed-2022-11-23t211959927_de1e106d1bba.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-vesselSpeeds/2l66vj/287121756?h=3E2GAJ3d3YyNT46BsvLMBg5xZZrLppARiyEPCZQGeFU) | [Local Asset](assets/2022-11-24_signal-dry-bulk-weekly-report_img_unnamed-2022-11-23t211959927_de1e106d1bba.png)
 
 Data Source: The Signal Ocean Platform, Vessel Speed
 
@@ -45,7 +45,7 @@ Data Source: The Signal Ocean Platform, Vessel Speed
 ![Market Chart 3](assets/2022-11-24_signal-dry-bulk-weekly-report_img_unnamed-2022-11-23t212105517_d4a48f262bbc.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-24_signal-dry-bulk-weekly-report_img_unnamed-2022-11-23t212105517_d4a48f262bbc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-11-24_signal-dry-bulk-weekly-report_img_unnamed-2022-11-23t212105517_d4a48f262bbc.png)
 
 In the last days of November, the weaker sentiment from the beginning of the month continues, while a sustained downward trend seems to emerge in the following days.
 
@@ -59,7 +59,7 @@ In the last days of November, the weaker sentiment from the beginning of the mon
 ![Supply Trend Lines for Key Load Areas](assets/2022-11-24_signal-dry-bulk-weekly-report_img_unnamed-2022-11-23t212244084_c85efc46a098.png)
 
 > **Figure 4: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-24_signal-dry-bulk-weekly-report_img_unnamed-2022-11-23t212244084_c85efc46a098.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-11-24_signal-dry-bulk-weekly-report_img_unnamed-2022-11-23t212244084_c85efc46a098.png)
 
 The number of ships in ballast was down only in the Panamax segment, while the other ship size classes showed an accelerated increase compared to the previous weeks of November.
 
@@ -73,7 +73,7 @@ The number of ships in ballast was down only in the Panamax segment, while the o
 ![TonDays Decreasing](assets/2022-11-24_signal-dry-bulk-weekly-report_img_unnamed-2022-11-24t123725014_9933e3c762ec.png)
 
 > **Figure 5: TonDays Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-24_signal-dry-bulk-weekly-report_img_unnamed-2022-11-24t123725014_9933e3c762ec.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-11-24_signal-dry-bulk-weekly-report_img_unnamed-2022-11-24t123725014_9933e3c762ec.png)
 
 Demand growth continues to decline, with stronger signs in the Panamax segment, while the trend in the Capesize segment is clearly downward.
 
@@ -87,7 +87,7 @@ Demand growth continues to decline, with stronger signs in the Panamax segment, 
 ![Dry Bulk Ships Congested at Chinese Ports](assets/2022-11-24_signal-dry-bulk-weekly-report_img_unnamed-2022-11-24t123920556_ac50db9e9469.png)
 
 > **Figure 6: Dry Bulk Ships Congested at Chinese Ports**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-24_signal-dry-bulk-weekly-report_img_unnamed-2022-11-24t123920556_ac50db9e9469.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-11-24_signal-dry-bulk-weekly-report_img_unnamed-2022-11-24t123920556_ac50db9e9469.png)
 
 This week, the new highs in total bulk carrier congestion are led by the Panamax, Supramax, and Handysize segments.
 

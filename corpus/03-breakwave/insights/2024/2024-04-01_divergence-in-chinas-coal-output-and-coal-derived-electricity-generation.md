@@ -27,21 +27,21 @@ As we discussed in client notes last month and in Commodore Research's March 25t
 ![241](assets/2024-04-01_divergence-in-chinas-coal-output-and-coal-derived-electricity-generation_img_241_ba70ab0b8271.jpg)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-01_divergence-in-chinas-coal-output-and-coal-derived-electricity-generation_img_241_ba70ab0b8271.jpg)
+> [Local Asset](assets/2024-04-01_divergence-in-chinas-coal-output-and-coal-derived-electricity-generation_img_241_ba70ab0b8271.jpg)
 
 China's coal-derived electricity generation averaged 540.1 billion kilowatt hours in January/February. This has marked a normal month-on-month decline of 70.8 billion kilowatt hours (-12%) from December but is up year-on-year by 52.2 billion kilowatt hours (11%). Remaining helpful for the coal and dry bulk markets is that throughout much of last year and so far all of this year, China's coal-derived electricity generation growth has exceeded coal output growth. This has continued to help support robust coal import demand.
 
 ![242](assets/2024-04-01_divergence-in-chinas-coal-output-and-coal-derived-electricity-generation_img_242_fb315beb2c2b.jpg)
 
 > **Figure 2: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-01_divergence-in-chinas-coal-output-and-coal-derived-electricity-generation_img_242_fb315beb2c2b.jpg)
+> [Local Asset](assets/2024-04-01_divergence-in-chinas-coal-output-and-coal-derived-electricity-generation_img_242_fb315beb2c2b.jpg)
 
 China's hydropower production averaged 69.5 billion kilowatt hours in January/February. This has marked a month-on-month decline of 8 billion kilowatt hours (-10%) but is up year-on-year by 1.1 billion kilowatt hours (2%). China’s hydropower production has increased on a year-on-year basis for seven straight months and remains a headwind in the coal market, but growth has at least continued to slow recently. Last month's 2% year-on-year growth has marked the lowest growth in hydropower production seen during these last seven months.
 
 ![243](assets/2024-04-01_divergence-in-chinas-coal-output-and-coal-derived-electricity-generation_img_243_3cc4982840b7.jpg)
 
 > **Figure 3: 243**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-01_divergence-in-chinas-coal-output-and-coal-derived-electricity-generation_img_243_3cc4982840b7.jpg)
+> [Local Asset](assets/2024-04-01_divergence-in-chinas-coal-output-and-coal-derived-electricity-generation_img_243_3cc4982840b7.jpg)
 
 ---
 

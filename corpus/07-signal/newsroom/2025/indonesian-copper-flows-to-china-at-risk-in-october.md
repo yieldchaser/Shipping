@@ -39,7 +39,7 @@ tags:
 ![Indonesian Copper Flows to China at Risk in October](../../images/68e4f468a93c61811c7083e6_f61a916e.png)
 
 > **Figure 1: Indonesian Copper Flows to China at Risk in October**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/indonesian-copper-flows-to-china-at-risk-in-october) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68e4f468a93c61811c7083e6_f61a916e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/indonesian-copper-flows-to-china-at-risk-in-october) | [Local Asset](../../images/68e4f468a93c61811c7083e6_f61a916e.png)
 
 The September 8 accident at Indonesia’s Grasberg copper mine is expected to disrupt exports to Asian markets, particularly China. Although a force majeure has been declared, the impact is unlikely to be reflected in September shipments, as some cargoes had already been loaded or were en route.
 
@@ -47,7 +47,7 @@ The September 8 accident at Indonesia’s Grasberg copper mine is expected to di
 ![Indonesian Copper Flows to China at Risk in October](../../images/68e4f468a93c61811c7083ea_40c9de3c.png)
 
 > **Figure 2: Indonesian Copper Flows to China at Risk in October**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/indonesian-copper-flows-to-china-at-risk-in-october) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68e4f468a93c61811c7083ea_40c9de3c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/indonesian-copper-flows-to-china-at-risk-in-october) | [Local Asset](../../images/68e4f468a93c61811c7083ea_40c9de3c.png)
 
 The voyage details highlight a series of copper concentrate shipments from Amamapare, Indonesia, during early to mid-September 2025, a period that coincides directly with the Grasberg mining accident on September 8. The data shows a clear dominance of China as the key destination market, with indicative fixtures discharging at major smelter hubs such as Qingdao, Nanjing, Lianyungang, Yantai, and Zhangjiagang. Typical parcel sizes range between 14,000 and 27,000 tonnes, carried primarily on Handysize vessels due to port draft restrictions. Taken together, these voyages represent some of the last uninterrupted flows before Grasberg’s suspension, confirming both China’s reliance on Indonesian supply and the potential scale of disruption in October.
 
@@ -55,7 +55,7 @@ The voyage details highlight a series of copper concentrate shipments from Amama
 ![Indonesian Copper Flows to China at Risk in October](../../images/68e4f468a93c61811c7083ed_ffbd8be9.png)
 
 > **Figure 3: Indonesian Copper Flows to China at Risk in October**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/indonesian-copper-flows-to-china-at-risk-in-october) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68e4f468a93c61811c7083ed_ffbd8be9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/indonesian-copper-flows-to-china-at-risk-in-october) | [Local Asset](../../images/68e4f468a93c61811c7083ed_ffbd8be9.png)
 
 **From October onward, export disruptions are set to strain copper markets, leaving Chinese buyers with narrowing options for alternative supplies.**
 

@@ -27,7 +27,7 @@ A broad risk-on sentiment has returned to commodity markets, with prices rising 
 ![Στιγμιότυπο Οθόνης 2026 02 19 110104](assets/2026-02-19_oil-gains-as-iran-prepares-for-confrontation-with-us_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30b4105eb8fe.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 02 19 110104**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-19_oil-gains-as-iran-prepares-for-confrontation-with-us_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30b4105eb8fe.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2026-02-19_oil-gains-as-iran-prepares-for-confrontation-with-us_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30b4105eb8fe.png)
 
 ### Market Commentary
 
@@ -46,7 +46,7 @@ Russia’s crude shipments have edged higher over the past couple of weeks, as a
 ![Στιγμιότυπο Οθόνης 2026 02 19 110205](assets/2026-02-19_oil-gains-as-iran-prepares-for-confrontation-with-us_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1ef9a817f3aa.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 02 19 110205**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-19_oil-gains-as-iran-prepares-for-confrontation-with-us_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1ef9a817f3aa.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2026-02-19_oil-gains-as-iran-prepares-for-confrontation-with-us_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1ef9a817f3aa.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

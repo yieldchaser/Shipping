@@ -29,7 +29,7 @@ Week 22, 30 May, 2025
 ![Στιγμιότυπο Οθόνης 2025 05 30 160048](assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b70c2167074.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 05 30 160048**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b70c2167074.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b70c2167074.png)
 
 Europe witnessed a 10% increase in crude oil imports in May 2025, likely due to refineries completing maintenance ahead of schedule, boosting crude demand. This period also saw a notable change in import origins, with a decrease in volumes from the United States.
 
@@ -48,12 +48,12 @@ A key factor tightening crude tanker availability in 2025 is the latest wave of 
 ![Market Chart 2](assets/2025-05-30_dirty-oil-flows-shift_img_unnamed_61e13e36c6a5.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-30_dirty-oil-flows-shift_img_unnamed_61e13e36c6a5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-30_dirty-oil-flows-shift_img_unnamed_61e13e36c6a5.png)
 
 ![Στιγμιότυπο Οθόνης 2025 05 30 160220](assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_acdd5d91d47c.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 05 30 160220**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_acdd5d91d47c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_acdd5d91d47c.png)
 
 The Baltic Dirty Tanker Index (BDTI) has fallen by 25% compared to last year. This downward trend is influenced by increasing net supply in the Arabian Gulf, particularly impacting VLCC AG-China rates. The anticipated summer season is expected to further pressure the dirty oil freight market due to the ongoing mismatch between projected global oil supply and demand. This broader weakness is also reflected across specific vessel classes and routes.
 
@@ -62,28 +62,28 @@ The Baltic Dirty Tanker Index (BDTI) has fallen by 25% compared to last year. Th
 ![Στιγμιότυπο Οθόνης 2025 05 30 160451](assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d829c0544434.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 05 30 160451**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d829c0544434.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d829c0544434.png)
 
 - **LR2**clean freight rates on the AG route rose to WS138. While this reflects an 11% weekly decline, rates are up 8% compared to a month ago, indicating signs of a rebound. The upward momentum appears to be supported by a recent drop in vessel availability in the Arabian Gulf, observed during the final days of May.
 
 ![Στιγμιότυπο Οθόνης 2025 05 30 160544](assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66132994673b.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 05 30 160544**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66132994673b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66132994673b.png)
 
 - **Panamax**Carib-to-USG rates declined to WS150, continuing the weakening trend seen since last week. This level is 8% lower than a month ago, with further downside potential linked to decreasing dirty tonne-days for Panamax vessels from the Caribbean. In May, tonne-day levels to all destinations, including the USG, have dropped below those recorded in both 2023 and 2024, signaling weaker underlying demand.
 
 ![Στιγμιότυπο Οθόνης 2025 05 30 160632](assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_190bfb018d6e.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 05 30 160632**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_190bfb018d6e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_190bfb018d6e.png)
 
 - **Baltic-to-Continent MR1**freight rates remained steady around WS180, continuing last week's positive trend and showing a 7% increase for the month. Despite this, the outlook for June is unclear due to an anticipated rise in vessel supply above the yearly average by the close of May.**Continent-to-USAC MR2**freight rates increased to WS158, a 5% weekly gain. This rise is highly attributed to stronger clean tonne-day growth in the MR2 sector compared to MR1, alongside decreased vessel activity in Amsterdam.
 
 ![Στιγμιότυπο Οθόνης 2025 05 30 160741](assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e7893b186bf.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 05 30 160741**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e7893b186bf.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e7893b186bf.png)
 
 The bearish outlook for VLCC crude oil freight is reinforced by a surge in vessel availability in the Arabian Gulf. For the last four weeks, cargo volumes have consistently lagged behind vessel activity, indicating that a swift rebound seems unlikely.
 
@@ -92,12 +92,12 @@ The bearish outlook for VLCC crude oil freight is reinforced by a surge in vesse
 ![Στιγμιότυπο Οθόνης 2025 05 30 160833](assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4f535459c150.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2025 05 30 160833**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4f535459c150.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4f535459c150.png)
 
 ![Στιγμιότυπο Οθόνης 2025 05 30 160839](assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3f24110d984.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 05 30 160839**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3f24110d984.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3f24110d984.png)
 
 - Clean tanker supply showed signs of tightening in**Jubail for LR2 vessels**and in**Amsterdam for the MR2**segment toward the end of May. In both regions, ship counts fell below their respective annual averages, with LR2 vessel count volume in the AG notably weak.
 
@@ -106,7 +106,7 @@ The bearish outlook for VLCC crude oil freight is reinforced by a surge in vesse
 ![Στιγμιότυπο Οθόνης 2025 05 30 160942](assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e4f7a53a1f37.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 05 30 160942**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e4f7a53a1f37.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e4f7a53a1f37.png)
 
 - **Dirty**tonne days: The seasonal development of dirty tonne days remains below the growth rates observed in 2023 and early 2024, largely due to continued weakness in the VLCC segment. In the Suezmax segment, growth has been more volatile, with a mild uptick observed mid-March. In contrast, the Aframax segment is maintaining weekly growth slightly above its historical average over the past month.
 
@@ -115,7 +115,7 @@ The bearish outlook for VLCC crude oil freight is reinforced by a surge in vesse
 ![Στιγμιότυπο Οθόνης 2025 05 30 161047](assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_71077d264c92.png)
 
 > **Figure 11: Στιγμιότυπο Οθόνης 2025 05 30 161047**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_71077d264c92.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_71077d264c92.png)
 
 - **Panamax**tonne days: The seasonal development of tonne days in the Panamax tanker vessel size category for the clean cargo type continues the decrease seen since the end of mid-March, with gasoil recently indicating extremely low levels of growth rates.
 

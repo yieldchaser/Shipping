@@ -22,13 +22,13 @@ source_file: "corpus/03-breakwave/insights/2023/2023-11-21_so-is-inflation-reall
 ![Homepage+banner+1](assets/2023-11-21_so-is-inflation-really-beaten-this-time_img_homepage2bbanner2b1_5d7211685255.png)
 
 > **Figure 1: Homepage+banner+1**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-21_so-is-inflation-really-beaten-this-time_img_homepage2bbanner2b1_5d7211685255.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](assets/2023-11-21_so-is-inflation-really-beaten-this-time_img_homepage2bbanner2b1_5d7211685255.png)
 
 [![Three Things Investors Should Know at the Beginning of the Week](assets/2023-11-21_so-is-inflation-really-beaten-this-time_img_homepage2bbutton_1d014100cc65.png)
 
 > **Figure 2: Three Things Investors Should Know at the Beginning of the Week**  
 > *The three things investors should know at the beginning of the week*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/george-lagarias-mba-3baa769/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-21_so-is-inflation-really-beaten-this-time_img_homepage2bbutton_1d014100cc65.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/george-lagarias-mba-3baa769/) | [Local Asset](assets/2023-11-21_so-is-inflation-really-beaten-this-time_img_homepage2bbutton_1d014100cc65.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
 
 1. *Inflation might be down, but it is probably not out. Consumers might come back for the festive season, geopolitics remain challenging, the labour market remains tight and rent prices are still high.*
 2. *Where we stand today, we need to see more compelling evidence of consumer weakness, as well as government restraint against pro-cyclical fiscal expansion.*
@@ -41,14 +41,14 @@ Last week, inflation readings in both the US and the UK were encouraging. For Se
 ![Market Chart 3](assets/2023-11-21_so-is-inflation-really-beaten-this-time_img_image00428429_62f06b656d54.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-21_so-is-inflation-really-beaten-this-time_img_image00428429_62f06b656d54.jpg)
+> [Local Asset](assets/2023-11-21_so-is-inflation-really-beaten-this-time_img_image00428429_62f06b656d54.jpg)
 
 Yields dropped significantly last week, and stocks resumed their rally towards all-time highs, as markets are now pricing in rate cuts early to mid-next year.
 
 ![Market Chart 4](assets/2023-11-21_so-is-inflation-really-beaten-this-time_img_image00528629_795c4e2538fe.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-21_so-is-inflation-really-beaten-this-time_img_image00528629_795c4e2538fe.jpg)
+> [Local Asset](assets/2023-11-21_so-is-inflation-really-beaten-this-time_img_image00528629_795c4e2538fe.jpg)
 
 With the conflict in the Middle East contained within the region and no oil embargoes in sight, the question in everyone’s mind is whether this second wave of inflation is finally pushed back. Are we inching towards normality?
 
@@ -71,7 +71,7 @@ And then there’s the issue of debt. Global debt to GDP stands at a near record
 ![Market Chart 5](assets/2023-11-21_so-is-inflation-really-beaten-this-time_img_image00628929_859951e3a82e.jpg)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-21_so-is-inflation-really-beaten-this-time_img_image00628929_859951e3a82e.jpg)
+> [Local Asset](assets/2023-11-21_so-is-inflation-really-beaten-this-time_img_image00628929_859951e3a82e.jpg)
 
 Inflation might be down, but it is probably not out. Central bankers are right to worry about declaring victory too soon. They have been burned in the past. To quote Winston Churchill, “we must be very careful not to assign to this deliverance the attributes of a victory”. At least not just yet. Where we stand today, we need to see more compelling evidence of consumer weakness, as well as government restraint against pro-cyclical fiscal expansion.
 

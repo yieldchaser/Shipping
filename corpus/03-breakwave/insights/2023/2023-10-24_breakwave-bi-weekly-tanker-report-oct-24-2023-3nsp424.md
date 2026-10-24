@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-10-24_breakwave-bi-weekly-t
 ![Dbreporttop](assets/2023-10-24_breakwave-bi-weekly-tanker-report-oct-24-2023-3nsp424_img_dbreporttop_cbcfc73f5f24.png)
 
 > **Figure 1: Dbreporttop**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-24_breakwave-bi-weekly-tanker-report-oct-24-2023-3nsp424_img_dbreporttop_cbcfc73f5f24.png)
+> [Local Asset](assets/2023-10-24_breakwave-bi-weekly-tanker-report-oct-24-2023-3nsp424_img_dbreporttop_cbcfc73f5f24.png)
 
 **• What goes up, must come down. But how fast? –**Capesize rates probably have peaked for the year. Following considerable tightness in the Atlantic, Capesize spot rates touched 31,000 last week, a level that was unthinkable just a month ago. Although our view has always been for a Capesize winter spike towards the 30s, the intensity of the rise was surprising. High volatility also means steep drops after strong rallies, and we are about to experience such an environment. However, freight futures never bought into the spot rally, other than the October contract, so the impact on the futures curve will be muted. One actually could argue that the risk/reward is tilted towards higher futures prices, as the speed of the decline and the intermediate bottom is up for debate. As we look at the Capesize futures curve, a lot of bearishness is already priced in, and although there is no crystal ball on such short-term fluctuations, rates must go straight down to the single digits in the next 60 days just to match the futures curve. Even for freight, that is a significant decline and assumes a very weak demand environment. We are not ready to make a call neither on the intensity of the decline nor on the short-term bottom, but at first look, freight futures pricing seems too aggressive on the negative side. The sub-Cape segments have been more stable and should maintain the current 13,000-14,000 range for the near future as demand for minerals and grains remains supportive.
 
@@ -33,11 +33,11 @@ source_file: "corpus/03-breakwave/insights/2023/2023-10-24_breakwave-bi-weekly-t
 ![Dbreportchart](assets/2023-10-24_breakwave-bi-weekly-tanker-report-oct-24-2023-3nsp424_img_dbreportchart_5adb5e11d147.png)
 
 > **Figure 2: Dbreportchart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-24_breakwave-bi-weekly-tanker-report-oct-24-2023-3nsp424_img_dbreportchart_5adb5e11d147.png)
+> [Local Asset](assets/2023-10-24_breakwave-bi-weekly-tanker-report-oct-24-2023-3nsp424_img_dbreportchart_5adb5e11d147.png)
 
 ![Dbreportbottom](assets/2023-10-24_breakwave-bi-weekly-tanker-report-oct-24-2023-3nsp424_img_dbreportbottom_2519b9fa9d1e.png)
 
 > **Figure 3: Dbreportbottom**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-24_breakwave-bi-weekly-tanker-report-oct-24-2023-3nsp424_img_dbreportbottom_2519b9fa9d1e.png)
+> [Local Asset](assets/2023-10-24_breakwave-bi-weekly-tanker-report-oct-24-2023-3nsp424_img_dbreportbottom_2519b9fa9d1e.png)
 
 ### Subscribe:

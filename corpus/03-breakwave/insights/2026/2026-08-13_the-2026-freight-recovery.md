@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-08-13_the-2026-freight-reco
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-13_the-2026-freight-recovery_img_image-asset_96060c6f44c8.jpeg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](assets/2026-08-13_the-2026-freight-recovery_img_image-asset_96060c6f44c8.jpeg)
 
 The dry bulk freight market delivered a considerably stronger performance during the first seven months of 2026, with Baltic Exchange time-charter equivalent earnings improving across all four major vessel segments compared with January–July 2025. The recovery was broad-based rather than dependent on a single vessel class, reflecting stronger cargo volumes, improved fleet utilisation and firmer demand across both major and minor bulk trades.
 

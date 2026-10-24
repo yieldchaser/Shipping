@@ -33,7 +33,7 @@ Crude freight rates across VLCCs and[Suezmaxes have hit multi-month highs](https
 ![Στιγμιότυπο Οθόνης 2025 10 23 110756](assets/2025-10-23_regulatory-disruptions-and-oversupply-support-crude-freight_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7b28e95c2f9.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 10 23 110756**  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/Flows?dateRange=2023-01-01T00%3A00%3A00.000Z__2025-10-20T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22intra_d%22%2C%22sts_o%22%2C%22c_o%22%2C%22w%22%5D&intraMovementDropdown=all&metric=bpd&movementEvent=oil_on_water_state&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&tabId=3025bf1d-43de-4cb0-86fc-9afc2c18d0b2&timeSeriesChartView=seasonal&v=3) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-23_regulatory-disruptions-and-oversupply-support-crude-freight_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7b28e95c2f9.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/Flows?dateRange=2023-01-01T00%3A00%3A00.000Z__2025-10-20T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22intra_d%22%2C%22sts_o%22%2C%22c_o%22%2C%22w%22%5D&intraMovementDropdown=all&metric=bpd&movementEvent=oil_on_water_state&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&tabId=3025bf1d-43de-4cb0-86fc-9afc2c18d0b2&timeSeriesChartView=seasonal&v=3) | [Local Asset](assets/2025-10-23_regulatory-disruptions-and-oversupply-support-crude-freight_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7b28e95c2f9.png)
 
 [Global crude/condensates on water](https://analytics.vortexa.com/Flows?dateRange=2023-01-01T00%3A00%3A00.000Z__2025-10-20T23%3A59%3A59.999Z&filtersEnabled=%5B%22p%22%2C%22o%22%2C%22d%22%2C%22d_r%22%2C%22v%22%2C%22intra_d%22%2C%22sts_o%22%2C%22c_o%22%2C%22w%22%5D&intraMovementDropdown=all&metric=bpd&movementEvent=oil_on_water_state&page=Flows&products=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&tabId=3025bf1d-43de-4cb0-86fc-9afc2c18d0b2&timeSeriesChartView=seasonal&v=3)have been steadily rising since August, reaching historical highs so far in October. While the oversupply of seaborne crude/condensates is tied to exports of sanctioned barrels ([read more here](https://analytics.vortexa.com/InsightsHubPage?articleId=6m8MkY5ELAb6OAVsVtalxX&articleType=Highlight&page=InsightsHubPage&searchTerm=&tabId=90ad0d2c-d0a8-418a-bce8-3cdce4895219)), elevated levels of non-sanctioned oil on water have nonetheless benefitted mainstream tonnage.
 
@@ -42,7 +42,7 @@ Mainstream VLCC utilisation has climbed close to 5% y-o-y, supported by long-hau
 ![Στιγμιότυπο Οθόνης 2025 10 23 110918](assets/2025-10-23_regulatory-disruptions-and-oversupply-support-crude-freight_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b439c4ab832.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 10 23 110918**  
-> **Interactive Data & Source:** [Tinyurl](https://tinyurl.com/2fweucr2) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-23_regulatory-disruptions-and-oversupply-support-crude-freight_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b439c4ab832.png)
+> **Interactive Data & Source:** [Tinyurl](https://tinyurl.com/2fweucr2) | [Local Asset](assets/2025-10-23_regulatory-disruptions-and-oversupply-support-crude-freight_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b439c4ab832.png)
 
 LHS Chart:[Average monthly mainstream VLCC crude voyages (voyages per day)](https://tinyurl.com/2fweucr2)
 
@@ -61,7 +61,7 @@ At the same time,[crude inflows to the Atlantic Basin](https://tinyurl.com/ezbhv
 ![Στιγμιότυπο Οθόνης 2025 10 23 111029](assets/2025-10-23_regulatory-disruptions-and-oversupply-support-crude-freight_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_711473d895c7.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 10 23 111029**  
-> **Interactive Data & Source:** [Tinyurl](https://tinyurl.com/msxy5uda) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-23_regulatory-disruptions-and-oversupply-support-crude-freight_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_711473d895c7.png)
+> **Interactive Data & Source:** [Tinyurl](https://tinyurl.com/msxy5uda) | [Local Asset](assets/2025-10-23_regulatory-disruptions-and-oversupply-support-crude-freight_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_711473d895c7.png)
 
 LHS Chart:[Mainstream Suezmax utilisation (no. of vessels, LHS)](https://tinyurl.com/msxy5uda)versus[average voyage distance travelled (nmi, RHS)](https://tinyurl.com/e2xd4mb3)
 

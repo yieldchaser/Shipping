@@ -27,7 +27,7 @@ Easing trade tension helped push commodity markets higher. This was aided by the
 ![Στιγμιότυπο Οθόνης 2025 01 21 142442](assets/2025-01-21_metals-gains-as-trade-tensions-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c680277063fb.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 01 21 142442**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-21_metals-gains-as-trade-tensions-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c680277063fb.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-01-21_metals-gains-as-trade-tensions-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c680277063fb.png)
 
 ### Market Commentary
 
@@ -48,7 +48,7 @@ US President Donald Trump may struggle to achieve his goal is boosting US oil ou
 ![Στιγμιότυπο Οθόνης 2025 01 21 142536](assets/2025-01-21_metals-gains-as-trade-tensions-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6036490d0f0d.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 01 21 142536**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-21_metals-gains-as-trade-tensions-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6036490d0f0d.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-01-21_metals-gains-as-trade-tensions-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6036490d0f0d.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

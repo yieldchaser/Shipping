@@ -35,7 +35,7 @@ China’s import of thermal coal so far this year trails the same period in 2024
 ![Market Chart 1](assets/2025-12-03_chinas-coal-imports-slide-amp-what-it-means-for-capes-and-panamaxes_img_unnamed_0c513e6e369a.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-03_chinas-coal-imports-slide-amp-what-it-means-for-capes-and-panamaxes_img_unnamed_0c513e6e369a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-12-03_chinas-coal-imports-slide-amp-what-it-means-for-capes-and-panamaxes_img_unnamed_0c513e6e369a.png)
 
 China has imported less thermal coal each month, year-over-year, since the start of 2025. The results of which have seen Chinese thermal coal imports down by around 52mt YTD.
 
@@ -46,7 +46,7 @@ This also weighed on total cape demand, which has seen tonne-miles and tonnes-da
 ![Market Chart 2](assets/2025-12-03_chinas-coal-imports-slide-amp-what-it-means-for-capes-and-panamaxes_img_unnamed28129_1dfadcdeb46d.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-03_chinas-coal-imports-slide-amp-what-it-means-for-capes-and-panamaxes_img_unnamed28129_1dfadcdeb46d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-12-03_chinas-coal-imports-slide-amp-what-it-means-for-capes-and-panamaxes_img_unnamed28129_1dfadcdeb46d.png)
 
 Thermal coal drives Chinese electricity generation, yet the importance of coal has waned as the country has rapidly expanded non-fossil fuel electricity generation. Reports state that China used coal for around 70% of electricity generation in the mid-2000’s but this fell to around 60% in 2023, the latest official number.
 
@@ -59,7 +59,7 @@ Typically, Chinese coal demand increases in the final quarter of the year. This 
 ![Market Chart 3](assets/2025-12-03_chinas-coal-imports-slide-amp-what-it-means-for-capes-and-panamaxes_img_unnamed28229_6a64e7e71047.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-03_chinas-coal-imports-slide-amp-what-it-means-for-capes-and-panamaxes_img_unnamed28229_6a64e7e71047.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-12-03_chinas-coal-imports-slide-amp-what-it-means-for-capes-and-panamaxes_img_unnamed28229_6a64e7e71047.png)
 
 Weaker coal production through the final quarter of 2025, at a time when demand is expected to rise, will draw down domestic stocks of thermal coal. Therefore, if Chinese coal stocks are to be replenished over the next month, we would expect greater coal imports into China. This will likely come from Indonesia, given that 64% of all Chinese coal imports have originated from Indonesia since 2022.
 
@@ -68,7 +68,7 @@ Beyond the end of the year, the first couple of months of 2026 are expected to b
 ![Market Chart 4](assets/2025-12-03_chinas-coal-imports-slide-amp-what-it-means-for-capes-and-panamaxes_img_unnamed28329_bea67627bb49.png)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-03_chinas-coal-imports-slide-amp-what-it-means-for-capes-and-panamaxes_img_unnamed28329_bea67627bb49.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-12-03_chinas-coal-imports-slide-amp-what-it-means-for-capes-and-panamaxes_img_unnamed28329_bea67627bb49.png)
 
 ### Coal Imports Will Keep Falling, But by How Much…
 

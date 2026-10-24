@@ -23,14 +23,14 @@ source_file: "corpus/03-breakwave/insights/2025/2025-06-10_vietnams-energy-tight
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2025-06-10_vietnams-energy-tightrope-between-black-and-green_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-10_vietnams-energy-tightrope-between-black-and-green_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](assets/2025-06-10_vietnams-energy-tightrope-between-black-and-green_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 Vietnam’s rapid economic growth from the 2010s to the present has solidified its status as a Southeast Asian manufacturing powerhouse. However, this has come at the cost of growing reliance on fossil fuel imports. This sustained growth has positioned Vietnam as the world’s fifth-largest coal importer in 2025 and the leading coal importer in Southeast Asia, accounting for over one-third of the region’s 75 mln tonnes of imports. The country’s power sector remains heavily reliant on coal, which underpins both industrial expansion and rising electricity demand.
 
 ![Στιγμιότυπο Οθόνης 2025 06 10 165457](assets/2025-06-10_vietnams-energy-tightrope-between-black-and-green_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7b89f745390d.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 06 10 165457**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-10_vietnams-energy-tightrope-between-black-and-green_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7b89f745390d.png)
+> [Local Asset](assets/2025-06-10_vietnams-energy-tightrope-between-black-and-green_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7b89f745390d.png)
 
 In 2024, Vietnam’s total electricity generation reached 308 TWh, with coal-fired power contributing the largest share at 148 TWh—48% of the total—outpacing all other sources combined. Hydropower followed 98 TWh (32%), although its output was constrained by drought. Solar and wind generation together produced 39 TWh (13%), reflecting steady growth despite ongoing grid bottlenecks. Gas-fired power accounted for 23.4 TWh, or 7% of total generation. To sustain its coal-heavy power mix, Vietnam imported 42 mln tonnes of thermal coal in 2024, a 27% y-o-y increase, primarily from Indonesia, driven by its low cost and reliable delivery timelines.
 
@@ -49,7 +49,7 @@ According to AXSMarine data, Southeast Asia imported approximately 75 mln tonnes
 ![Στιγμιότυπο Οθόνης 2025 06 10 165512](assets/2025-06-10_vietnams-energy-tightrope-between-black-and-green_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ba15ee702269.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 06 10 165512**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-10_vietnams-energy-tightrope-between-black-and-green_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ba15ee702269.png)
+> [Local Asset](assets/2025-06-10_vietnams-energy-tightrope-between-black-and-green_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ba15ee702269.png)
 
 Last year Vietnam ranked among the world’s top five coal importers, and 2025 has started strongly as it has imported 29 mln tonnes of seaborne coal so far in 2025. This marks a 19.5% y-o-y increase from the 19.7 mln tonnes imported during the same period of 2024. This rise is driven by growing electricity consumption and expansion in energy-intensive industries, particularly the cement and clinker sector.
 
@@ -60,7 +60,7 @@ Vietnam’s coal imports have increasingly favoured Indonesia so far this year, 
 ![Στιγμιότυπο Οθόνης 2025 06 10 165520](assets/2025-06-10_vietnams-energy-tightrope-between-black-and-green_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8f82b1f13c8e.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 06 10 165520**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-10_vietnams-energy-tightrope-between-black-and-green_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8f82b1f13c8e.png)
+> [Local Asset](assets/2025-06-10_vietnams-energy-tightrope-between-black-and-green_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8f82b1f13c8e.png)
 
 In 2024, East Kalimantan accounted for 65% of Vietnam’s coal imports. Port upgrades and greater use of Panamax vessels have further improved the efficiency of short-haul sourcing. So far this year, the top five suppliers accounted for 27.03 mln tonnes of Vietnam’s 29 mln tonnes of seaborne coal imports: Indonesian deliveries rose 24.1% to 11.85 mln tonnes (+2.30 mln tonnes), while Australia’s volumes jumped 34.0% to 9.72 mln tonnes (+2.47 mln tonnes). Mozambique’s shipments increased 25.7% to 2.03 mln tonnes (+0.42 mln tonnes), reflecting efforts to diversify supply sources. Russian volumes declined 3.2% to 2.37 mln tonnes (-0.08 mln tonnes), hindered by logistical bottlenecks and sanctions. South African exports fell sharply by 57.2% to 1.06 mln tonnes (-1.41 mln tonnes), likely due to infrastructure challenges and competition from lower-cost coal, according to AXSMarine.
 
@@ -73,7 +73,7 @@ LNG import development faces cost- competitiveness challenges. Brent-linked LNG 
 ![Στιγμιότυπο Οθόνης 2025 06 10 165530](assets/2025-06-10_vietnams-energy-tightrope-between-black-and-green_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_10d3c59f1ada.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 06 10 165530**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-10_vietnams-energy-tightrope-between-black-and-green_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_10d3c59f1ada.png)
+> [Local Asset](assets/2025-06-10_vietnams-energy-tightrope-between-black-and-green_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_10d3c59f1ada.png)
 
 Vietnam’s seaborne coal imports from January–May 2020 to January–May 2025 have shifted significantly towards Panamax (68–100K Dwt) vessels, driven by rising domestic power demand and port infrastructure upgrades. Panamax coal volumes surged from ~6.0 mln tonnes in the first five months of 2020 to 17.8 mln tonnes this year, now holding the largest share of coal deliveries. Cam Pha Port in Quang Ninh, handling 36% of Panamax discharged (6.5 mln tonnes) so far in 2025 (+33.5% y-o-y), leverages its proximity to northern coal-fired power plants (e.g., Quang Ninh, Mao Khe, Uong Bi). In the south, Go Gia Port processed 23% of Panamax discharges (~4.0 mln tonnes), up 96.5% y-o-y, reflecting the growing role of southern ports.
 

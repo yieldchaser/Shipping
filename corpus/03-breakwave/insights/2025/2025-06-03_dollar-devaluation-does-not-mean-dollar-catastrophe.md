@@ -49,7 +49,7 @@ Our Chief Investment Officer,[Ben Seager-Scottt](https://www.linkedin.com/in/ben
 ![Market Chart 1](assets/2025-06-03_dollar-devaluation-does-not-mean-dollar-catastrophe_img_image001_9d38ad0afa36.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-03_dollar-devaluation-does-not-mean-dollar-catastrophe_img_image001_9d38ad0afa36.jpg)
+> [Local Asset](assets/2025-06-03_dollar-devaluation-does-not-mean-dollar-catastrophe_img_image001_9d38ad0afa36.jpg)
 
 **We have, in our previous publications, factored in lower US and global growth, and higher US inflation. The likelihood of both increases significantly in the third quarter of the year when pre-tariff inventories begin to run out. As such, market volatility is also part of the course.**
 
@@ -58,7 +58,7 @@ At the time of writing,**the assumption that by then the trade war will be over 
 ![Market Chart 2](assets/2025-06-03_dollar-devaluation-does-not-mean-dollar-catastrophe_img_image005_f17d563fb722.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-03_dollar-devaluation-does-not-mean-dollar-catastrophe_img_image005_f17d563fb722.jpg)
+> [Local Asset](assets/2025-06-03_dollar-devaluation-does-not-mean-dollar-catastrophe_img_image005_f17d563fb722.jpg)
 
 To be sure, elevated inflation makes the job of the central bank difficult, as it may have to choose between its growth and inflation mandates. But over and above those mandates, they have another: financial stability. If Mr Dimon’s warnings about rising debt affecting bond markets are right, then the Fed will likely have to re-start bond purchases to make sure the Treasury market remains stable- and keep the government funded at the same time. And while it may seem like the sacred central bank independence is sacrificed to the gods of politics, we should remember that central banks are not independent enough to ignore the political predicaments of their own countries and could print money to fight fires, like the ECB in 2012, the Bank of Japan for over 40 years or the Bank of England after the disastrous mini-budget of 2022, to name a few.
 
@@ -73,14 +73,14 @@ Hardly. From the 750 currencies used in 1700, around a fifth remains, and all ha
 ![Market Chart 3](assets/2025-06-03_dollar-devaluation-does-not-mean-dollar-catastrophe_img_image003_66280fc8094f.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-03_dollar-devaluation-does-not-mean-dollar-catastrophe_img_image003_66280fc8094f.png)
+> [Local Asset](assets/2025-06-03_dollar-devaluation-does-not-mean-dollar-catastrophe_img_image003_66280fc8094f.png)
 
 Yet, none of these has come near to strip the Dollar of its reserve currency status
 
 ![Market Chart 4](assets/2025-06-03_dollar-devaluation-does-not-mean-dollar-catastrophe_img_image006_1155c924097a.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-03_dollar-devaluation-does-not-mean-dollar-catastrophe_img_image006_1155c924097a.jpg)
+> [Local Asset](assets/2025-06-03_dollar-devaluation-does-not-mean-dollar-catastrophe_img_image006_1155c924097a.jpg)
 
 The currency reserve status is a behavioural issue. Which currency will someone in Turkey or Argentina or another country with high inflation choose to convert their salary into at the first of the month? Which currency will they choose when their own face a crisis or a devaluation?
 

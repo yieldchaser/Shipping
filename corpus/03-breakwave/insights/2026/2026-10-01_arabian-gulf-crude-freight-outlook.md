@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-10-01_arabian-gulf-crude-fr
 
 > **Figure 1: Saudi Exports Are Recovering Through Both Hormuz and Yanbu**  
 > *Saudi exports are recovering through both Hormuz and Yanbu, but the additional barrels are moving through a vessel intensive system that has not restored normal tanker availability or voyage costs.*  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_90560891a7d7.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_90560891a7d7.png)
 
 East West Pipeline Red Sea Risk and the Wider Tanker Market
 
@@ -33,7 +33,7 @@ This week's Allied QuantumSea Research reviews the latest phase of Saudi crude e
 ![Στιγμιότυπο Οθόνης 2026 09 30 142441](assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1ccedbd17c3c.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 09 30 142441**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1ccedbd17c3c.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1ccedbd17c3c.png)
 
 ### Saudi Export Recovery Is Material But Remains Operationally Constrained
 
@@ -42,7 +42,7 @@ September oil shipments through Hormuz are estimated at approximately 7.4 millio
 ![Στιγμιότυπο Οθόνης 2026 09 30 142453](assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dc31ada600e4.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 09 30 142453**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dc31ada600e4.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dc31ada600e4.png)
 
 ### Higher Exports Have Not Produced Cheaper Freight
 
@@ -51,7 +51,7 @@ Daily TCE assessments on 24 September remained well above their recent monthly c
 ![Στιγμιότυπο Οθόνης 2026 09 30 142506](assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3c83cff227d.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2026 09 30 142506**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3c83cff227d.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3c83cff227d.png)
 
 ### The Bypass Has Its Own Maritime Constraint
 
@@ -76,7 +76,7 @@ This shift points to a wider tightening across the crude-tanker complex. Atlanti
 ![Στιγμιότυπο Οθόνης 2026 09 30 142523](assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c59a3de473c9.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2026 09 30 142523**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c59a3de473c9.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c59a3de473c9.png)
 
 ### Fuel Remains Expensive But Is Not the Sole Driver
 
@@ -88,7 +88,7 @@ The combination of declining weekly bunker prices and rising VLCC and Aframax ea
 
 > **Figure 6: Freight and Bunker Benchmarks Reflect the Supplied Market Table**  
 > *Freight and bunker benchmarks reflect the supplied market table dated 24 September 2026. Percentage comparisons are calculated from the displayed TCE values. Pipeline, export and vessel-transit figures reflect public operational and tracking updates available through 28 September 2026. Pipeline throughput has not been confirmed by Saudi Aramco. Shipment and transit estimates are preliminary, use different measurement scopes and may be revised. AIS-based movements may be undercount protected or non-transmitting vessels.*  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_709f697db75f.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-10-01_arabian-gulf-crude-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_709f697db75f.png)
 
 ### Crude Tanker Market Outlook
 

@@ -27,7 +27,7 @@ Energy markets were a touch weaker as tensions in the Middle East eased slightly
 ![Στιγμιότυπο Οθόνης 2024 04 10 131450](assets/2024-04-10_metals-gains-amid-tightness-in-supplies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8db960bdc275.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 04 10 131450**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-10_metals-gains-amid-tightness-in-supplies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8db960bdc275.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-04-10_metals-gains-amid-tightness-in-supplies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8db960bdc275.png)
 
 **Crude oil**edged lower as traders assessed the geopolitical backdrop. Israel said progress had been made in negotiations for a ceasefire in Gaza. However, this was rejected by Hamas. Moreover, Iran’s Revolutionary Guard made a veiled threat, warning it has the option of disrupting trade through the Strait of Hormuz but chooses not to. This should keep the risk of disruption to oil supply high. Meanwhile the broader fundamental outlook remains positive. A new Chinese mega-refinery received an import quota for this year. The volume would equate to about 167kb/d of additional crude import demand. This comes amid an improvement in its manufacturing sector. Sentiment out of the FT Commodity Summit has been bullish. Vitol, the world’s largest independent trader, expects demand growth of 1.9mb/d this year, which is more than 30% higher than IEA’s estimate.
 
@@ -42,7 +42,7 @@ Energy markets were a touch weaker as tensions in the Middle East eased slightly
 ![Στιγμιότυπο Οθόνης 2024 04 10 131529](assets/2024-04-10_metals-gains-amid-tightness-in-supplies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_754e5bc00e53.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 04 10 131529**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-10_metals-gains-amid-tightness-in-supplies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_754e5bc00e53.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-04-10_metals-gains-amid-tightness-in-supplies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_754e5bc00e53.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

@@ -27,12 +27,12 @@ This week, in the East, we discuss why the return of Mexico’s crude exports is
 ![Στιγμιότυπο Οθόνης 2024 05 30 104541](assets/2024-05-30_vlcc-utilisation-meg-to-usg-likely-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5584735caefe.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 30 104541**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTY5-iVC1_0iRg1eSmMBEidXwr2XOu6DBdqeH-qW8Fot8PKlh2CCDG2lKBQzJg_b8lB713lXs=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-30_vlcc-utilisation-meg-to-usg-likely-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5584735caefe.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTY5-iVC1_0iRg1eSmMBEidXwr2XOu6DBdqeH-qW8Fot8PKlh2CCDG2lKBQzJg_b8lB713lXs=) | [Local Asset](assets/2024-05-30_vlcc-utilisation-meg-to-usg-likely-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5584735caefe.png)
 
 ![Στιγμιότυπο Οθόνης 2024 05 30 104606](assets/2024-05-30_vlcc-utilisation-meg-to-usg-likely-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_37afd1ebac29.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 05 30 104606**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTY5-iVC1_0iRg1eSmMBEidXwr2XOu6DBdqeH-qW8Fot8PKlh2CCDG2lKBQzJg_b8lB713lXs=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-30_vlcc-utilisation-meg-to-usg-likely-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_37afd1ebac29.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTY5-iVC1_0iRg1eSmMBEidXwr2XOu6DBdqeH-qW8Fot8PKlh2CCDG2lKBQzJg_b8lB713lXs=) | [Local Asset](assets/2024-05-30_vlcc-utilisation-meg-to-usg-likely-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_37afd1ebac29.png)
 
 - [Mexico’s crude exports](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTY5-iVC1_0iRg1eSmMBEidXwr2XOu6DBdqeH-qW8Fot8PKlh2CCDG2lKBQzJg_b8lB713lXs=)declined since January and hit a clear record-low in April. Exports are now recovering and have increased about 20% m-o-m so far in May (days 1-26). However, these volumes are still well-under historical levels. The loss of Mexico’s heavy crude prompted US Gulf refiners to turn to the Middle East.
 
@@ -42,7 +42,7 @@ This week, in the East, we discuss why the return of Mexico’s crude exports is
 ![Στιγμιότυπο Οθόνης 2024 05 30 105814](assets/2024-05-30_vlcc-utilisation-meg-to-usg-likely-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_403aca2e6e2b.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 05 30 105814**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTY5-iVDprXJcKnfaxvDlG2Fml25R7sK3iH7ufFgkXt1cDvkiS88sZwogXGGD1acjPweLfFm0=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-30_vlcc-utilisation-meg-to-usg-likely-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_403aca2e6e2b.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTY5-iVDprXJcKnfaxvDlG2Fml25R7sK3iH7ufFgkXt1cDvkiS88sZwogXGGD1acjPweLfFm0=) | [Local Asset](assets/2024-05-30_vlcc-utilisation-meg-to-usg-likely-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_403aca2e6e2b.png)
 
 - Demand for LRs in the Pacific for transport fuels has been currently at an all-time high as tonne-miles on these vessel classes surpass a 40% market share for intra-Pacific traffic at the expense of the smaller-sized MR tankers.
 
@@ -52,7 +52,7 @@ This week, in the East, we discuss why the return of Mexico’s crude exports is
 ![Στιγμιότυπο Οθόνης 2024 05 30 105932](assets/2024-05-30_vlcc-utilisation-meg-to-usg-likely-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4239087f2f4d.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 05 30 105932**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTY5-iVGkyYDFy9LbKan5cfzz29mefOmqVN6JQgT6Ugr91j8xQdYJELSo6a5nskrmOyouY6rI=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-30_vlcc-utilisation-meg-to-usg-likely-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4239087f2f4d.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTY5-iVGkyYDFy9LbKan5cfzz29mefOmqVN6JQgT6Ugr91j8xQdYJELSo6a5nskrmOyouY6rI=) | [Local Asset](assets/2024-05-30_vlcc-utilisation-meg-to-usg-likely-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4239087f2f4d.png)
 
 - Four Aframaxes have loaded from Vancouver’s Westridge Marine Terminal so far in May. DUBAI ANGEL (chartered by Suncor) is en route to Laizhou, China and expected to discharge during the second week of June with the cargo most likely bought by Sinochem.
 
@@ -62,7 +62,7 @@ This week, in the East, we discuss why the return of Mexico’s crude exports is
 ![Στιγμιότυπο Οθόνης 2024 05 30 105956](assets/2024-05-30_vlcc-utilisation-meg-to-usg-likely-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_25046a42bbcc.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 05 30 105956**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTY5-iVNn5UDDdjeNR_Ip6D2DLyEP0J5z5IGYFBw-WwkYG_QAaPY4D7OVjpUVTj3YEJj0AGJQ=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-30_vlcc-utilisation-meg-to-usg-likely-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_25046a42bbcc.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTY5-iVNn5UDDdjeNR_Ip6D2DLyEP0J5z5IGYFBw-WwkYG_QAaPY4D7OVjpUVTj3YEJj0AGJQ=) | [Local Asset](assets/2024-05-30_vlcc-utilisation-meg-to-usg-likely-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_25046a42bbcc.png)
 
 - Mexico West Coast is still[sourcing road fuel from NE and SE Asia](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTY5-iVNn5UDDdjeNR_Ip6D2DLyEP0J5z5IGYFBw-WwkYG_QAaPY4D7OVjpUVTj3YEJj0AGJQ=), even after high refinery runs in recent months.[MR2 arrivals into the region](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTY5-iVAxQ8ZiihSie7wnfm9NujxTphQbhM5VZ-jKvG-hAHCwGT9crD1NiMiCSvn3ZjI2j6LI=)from NE and SE Asia accounted for 16% of May’s arrivals on a voyage count basis (days 1-27). Additionally, high voyage counts from the West Coast Americas (Mexico West Coast and US West Coast) point to the continued reliance on supplies from outside the US Gulf.
 

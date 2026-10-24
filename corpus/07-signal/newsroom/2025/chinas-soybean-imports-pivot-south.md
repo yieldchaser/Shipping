@@ -40,7 +40,7 @@ Shipments reached a peak of 4.1 Mt in January and decreased to 2.7 Mt in Februar
 
 > **Figure 1: Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chinas-soybean-imports-pivot-south) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68f8b73f031a57384cfd7ad7_e8adeb0f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chinas-soybean-imports-pivot-south) | [Local Asset](../../images/68f8b73f031a57384cfd7ad7_e8adeb0f.png)
 
 
 ## Argentina Steps Up - Export Incentives Spark Surge
@@ -52,7 +52,7 @@ From August to October 2025, shipments experienced a significant increase. Septe
 
 > **Figure 2: Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chinas-soybean-imports-pivot-south) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68f8b73f031a57384cfd7ad4_40e85ff3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chinas-soybean-imports-pivot-south) | [Local Asset](../../images/68f8b73f031a57384cfd7ad4_40e85ff3.png)
 
 
 ## Brazil Maintains Dominance
@@ -64,7 +64,7 @@ Sustained high volumes from April to August (10–11 Mt/month) and elevated Sept
 
 > **Figure 3: Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chinas-soybean-imports-pivot-south) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68f8b73f031a57384cfd7ada_8f7904ae.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/chinas-soybean-imports-pivot-south) | [Local Asset](../../images/68f8b73f031a57384cfd7ada_8f7904ae.png)
 
 
 ## Market Reaction and Outlook

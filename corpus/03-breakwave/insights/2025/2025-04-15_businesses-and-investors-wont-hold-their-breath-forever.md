@@ -47,7 +47,7 @@ The result of imposing the highest tariffs in over a century across the globe, h
 ![Market Chart 1](assets/2025-04-15_businesses-and-investors-wont-hold-their-breath-forever_img_image001_02cd9430b517.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Forvismazars](https://www.forvismazars.com/uk/en/insights/latest-economic-market-and-investment-news/us-tariffs-how-uk-businesses-can-mitigate-impact) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-15_businesses-and-investors-wont-hold-their-breath-forever_img_image001_02cd9430b517.png)
+> **Interactive Data & Source:** [Forvismazars](https://www.forvismazars.com/uk/en/insights/latest-economic-market-and-investment-news/us-tariffs-how-uk-businesses-can-mitigate-impact) | [Local Asset](assets/2025-04-15_businesses-and-investors-wont-hold-their-breath-forever_img_image001_02cd9430b517.png)
 
 More importantly, investors have noticed significant economic dislocations. The Dollar, the world’s reserve currency continues to drop, despite the initial inflationary impact of tariffs (which all other things being equal should mean higher interest rates). At the same time, US borrowing costs are moving higher.
 
@@ -58,7 +58,7 @@ To be sure we are very far from the Dollar’s retreat as the global reserve cur
 ![Market Chart 2](assets/2025-04-15_businesses-and-investors-wont-hold-their-breath-forever_img_image002_dbff70224dad.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Forvismazars](https://www.forvismazars.com/uk/en/insights/latest-economic-market-and-investment-news/us-tariffs-how-uk-businesses-can-mitigate-impact) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-15_businesses-and-investors-wont-hold-their-breath-forever_img_image002_dbff70224dad.png)
+> **Interactive Data & Source:** [Forvismazars](https://www.forvismazars.com/uk/en/insights/latest-economic-market-and-investment-news/us-tariffs-how-uk-businesses-can-mitigate-impact) | [Local Asset](assets/2025-04-15_businesses-and-investors-wont-hold-their-breath-forever_img_image002_dbff70224dad.png)
 
 And while the Euro has unexpectedly picked up, it is difficult to imagine emerging market consumers rushing to buy either the European common currency or the Renminbi in times of crisis
 
@@ -75,7 +75,7 @@ Policy uncertainty continues to climb. Businesses and markets are still weighing
 ![Market Chart 3](assets/2025-04-15_businesses-and-investors-wont-hold-their-breath-forever_img_image003_00843a9cc157.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Forvismazars](https://www.forvismazars.com/uk/en/insights/latest-economic-market-and-investment-news/us-tariffs-how-uk-businesses-can-mitigate-impact) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-15_businesses-and-investors-wont-hold-their-breath-forever_img_image003_00843a9cc157.png)
+> **Interactive Data & Source:** [Forvismazars](https://www.forvismazars.com/uk/en/insights/latest-economic-market-and-investment-news/us-tariffs-how-uk-businesses-can-mitigate-impact) | [Local Asset](assets/2025-04-15_businesses-and-investors-wont-hold-their-breath-forever_img_image003_00843a9cc157.png)
 
 However, this isn’t a newspaper. And the data will likely change very soon again in the next few hours. To jump ahead, we need to recognise pillars of stability in an increasingly unstable world. Thus far, we see two: The Fed and Europe.
 

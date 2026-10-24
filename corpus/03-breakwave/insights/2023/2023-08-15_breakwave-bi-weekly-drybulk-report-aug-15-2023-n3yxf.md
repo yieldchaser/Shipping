@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-08-15_breakwave-bi-weekly-d
 ![Dbreporttop](assets/2023-08-15_breakwave-bi-weekly-drybulk-report-aug-15-2023-n3yxf_img_dbreporttop_e86f82327f05.png)
 
 > **Figure 1: Dbreporttop**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-15_breakwave-bi-weekly-drybulk-report-aug-15-2023-n3yxf_img_dbreporttop_e86f82327f05.png)
+> [Local Asset](assets/2023-08-15_breakwave-bi-weekly-drybulk-report-aug-15-2023-n3yxf_img_dbreporttop_e86f82327f05.png)
 
 **• Panamax spot rates shine as grain and mineral demand increases**– The past few weeks have been quite positive for the smaller size dry bulk vessels, with Panamax spot rates up more than 60% from recent lows while Supramax spot rates also have followed the move higher, though to a lesser extent. Strong demand for grains but also for coal are the main reasons for the recovery, which should remain in place for the foreseeable future as the North Atlantic market appears tight in tonnage. On the other hand, little has changed in the Capesize sector that continues to see spot earnings in the middle of the recent three-month range of 11,000-15,000. However, we believe we are about to enter a period of heightened volatility as September cargoes for Capesizes come into play and the seasonal demand kicks in. Although the macro picture seems bleak especially when it comes to China, the structural base demand combined with the seasonal increase should be enough to push spot rates higher as we head into the fourth quarter. Once again, the Atlantic Capesize market will be the leader when it comes to rate changes, as expensive bunkers resulting from stronger oil prices make it uneconomical for ships to ballast to the Atlantic without first securing employment. The overall dry bulk market remains healthy, though not to the extent that forecasters expected it to be earlier in the year as China’s economy remains under pressure while the rest of the world is barely growing when it comes to the industrial sectors of the economy.
 
@@ -33,11 +33,11 @@ source_file: "corpus/03-breakwave/insights/2023/2023-08-15_breakwave-bi-weekly-d
 ![Dbreportchart](assets/2023-08-15_breakwave-bi-weekly-drybulk-report-aug-15-2023-n3yxf_img_dbreportchart_9c12e637094e.png)
 
 > **Figure 2: Dbreportchart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-15_breakwave-bi-weekly-drybulk-report-aug-15-2023-n3yxf_img_dbreportchart_9c12e637094e.png)
+> [Local Asset](assets/2023-08-15_breakwave-bi-weekly-drybulk-report-aug-15-2023-n3yxf_img_dbreportchart_9c12e637094e.png)
 
 ![Dbreportbottom](assets/2023-08-15_breakwave-bi-weekly-drybulk-report-aug-15-2023-n3yxf_img_dbreportbottom_d0f1b1fa6bcf.png)
 
 > **Figure 3: Dbreportbottom**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-15_breakwave-bi-weekly-drybulk-report-aug-15-2023-n3yxf_img_dbreportbottom_d0f1b1fa6bcf.png)
+> [Local Asset](assets/2023-08-15_breakwave-bi-weekly-drybulk-report-aug-15-2023-n3yxf_img_dbreportbottom_d0f1b1fa6bcf.png)
 
 ## Subscribe:

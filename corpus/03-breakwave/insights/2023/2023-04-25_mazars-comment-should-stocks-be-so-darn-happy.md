@@ -34,28 +34,28 @@ In the past few months, we have rung the bell often (perhaps too often) about si
 ![Market Chart 1](assets/2023-04-25_mazars-comment-should-stocks-be-so-darn-happy_img_image006_785443847776.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-25_mazars-comment-should-stocks-be-so-darn-happy_img_image006_785443847776.jpg)
+> [Local Asset](assets/2023-04-25_mazars-comment-should-stocks-be-so-darn-happy_img_image006_785443847776.jpg)
 
 If one considers that policy transmission (the time it takes for a rate decision to have a real economic impact) takes at least eight to ten months, as well as the fact that consumer leverage is not very high (so the pressure from higher rates will be less immense), we are now just experiencing the impact of the first rate hikes that started in the first half of 2022.
 
 ![Market Chart 2](assets/2023-04-25_mazars-comment-should-stocks-be-so-darn-happy_img_image007_a8c25b4a97c5.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-25_mazars-comment-should-stocks-be-so-darn-happy_img_image007_a8c25b4a97c5.jpg)
+> [Local Asset](assets/2023-04-25_mazars-comment-should-stocks-be-so-darn-happy_img_image007_a8c25b4a97c5.jpg)
 
 Credit conditions are set to tighten a lot more. Additionally, SVB and Credit Suisse gave a stark warning signal to all banks that it’s time to batten down the hatches and reduce their exposure to potentially damaging loans. All other things being equal, we could be seeing increasingly tighter credit until this time in 2024. Given the current depths of the global credit impulse, it is entirely possible that we will see more casualties from the higher interest rate environment.
 
 ![Market Chart 3](assets/2023-04-25_mazars-comment-should-stocks-be-so-darn-happy_img_image008_a81bdbbadb9f.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-25_mazars-comment-should-stocks-be-so-darn-happy_img_image008_a81bdbbadb9f.jpg)
+> [Local Asset](assets/2023-04-25_mazars-comment-should-stocks-be-so-darn-happy_img_image008_a81bdbbadb9f.jpg)
 
 Yet a month after that episode, global equities are near their highest levels in over a year. Bond markets have somewhat come off their seasonal lows (i.e. prices have dropped from their highs), but don’t seem to reflect higher risks.
 
 ![Market Chart 4](assets/2023-04-25_mazars-comment-should-stocks-be-so-darn-happy_img_image009_470f23e6a479.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-25_mazars-comment-should-stocks-be-so-darn-happy_img_image009_470f23e6a479.jpg)
+> [Local Asset](assets/2023-04-25_mazars-comment-should-stocks-be-so-darn-happy_img_image009_470f23e6a479.jpg)
 
 We rejoice of course that portfolios make money in these conditions. But to make sure that returns are maintained, we have also taken protective measures by reducing our risk exposure to reflect the fact that we are (probably) not in a bull market.
 
@@ -73,7 +73,7 @@ Let’s start with the good ones.
 ![We Aren’t Seeing Evidence of Irrational Exuberance](assets/2023-04-25_mazars-comment-should-stocks-be-so-darn-happy_img_image01028129_4bfdbf7c93f5.jpg)
 
 > **Figure 5: We Aren’t Seeing Evidence of Irrational Exuberance**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-25_mazars-comment-should-stocks-be-so-darn-happy_img_image01028129_4bfdbf7c93f5.jpg)
+> [Local Asset](assets/2023-04-25_mazars-comment-should-stocks-be-so-darn-happy_img_image01028129_4bfdbf7c93f5.jpg)
 
 However, there’s also some bad news.
 

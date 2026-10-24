@@ -27,7 +27,7 @@ Sentiment was bolstered by a broader risk-on tone across markets. Further supply
 ![Στιγμιότυπο Οθόνης 2024 06 28 094122](assets/2024-06-28_risk-on-tone-across-markets-pushed-commodities-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1bb6d08e4350.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 06 28 094122**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-28_risk-on-tone-across-markets-pushed-commodities-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1bb6d08e4350.png)
+> [Local Asset](assets/2024-06-28_risk-on-tone-across-markets-pushed-commodities-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1bb6d08e4350.png)
 
 ### Market Commentary
 
@@ -44,7 +44,7 @@ Sentiment was bolstered by a broader risk-on tone across markets. Further supply
 ![Στιγμιότυπο Οθόνης 2024 06 28 094247](assets/2024-06-28_risk-on-tone-across-markets-pushed-commodities-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2c7a1867d5c.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 06 28 094247**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-28_risk-on-tone-across-markets-pushed-commodities-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2c7a1867d5c.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-06-28_risk-on-tone-across-markets-pushed-commodities-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2c7a1867d5c.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

@@ -29,7 +29,7 @@ The USDA is now forecasting that global coarse grain exports in 2024/25 will tot
 ![241](assets/2025-03-24_even-larger-global-grain-trade-contraction-expected_img_241_fc522a699d83.jpg)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-24_even-larger-global-grain-trade-contraction-expected_img_241_fc522a699d83.jpg)
+> [Local Asset](assets/2025-03-24_even-larger-global-grain-trade-contraction-expected_img_241_fc522a699d83.jpg)
 
 ---
 

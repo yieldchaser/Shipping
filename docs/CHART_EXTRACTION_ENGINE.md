@@ -100,7 +100,7 @@ Brokers frequently reorder legend items or update formatting. Relying on legend 
 1. **Outlined Vector Glyphs:**  
    In publishers like Intermodal, date labels (`30/Sep/25 ... 31/Aug/26`) are vector outlines rather than text. The engine identifies label tick mark clusters and calculates exact calendar dates using the publisher's fixed trailing window (e.g. 52 weeks or 12 month-ends).
 2. **Multi-Report Median Consensus:**  
-   Weekly reports carry rolling trailing windows (e.g. 1 to 2 years). Consecutive reports overlap by 98%. Rather than treating overlapping readings as conflicting duplicates, [`scripts/extract/publishers/run_ism_series.py`](file:///c:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_ism_series.py) and [`merge_intermodal_charts.py`](file:///c:/Users/Dell/Github/Shipping/scripts/extract/publishers/merge_intermodal_charts.py) calculate the **multi-report median consensus** across all overlapping observations:
+   Weekly reports carry rolling trailing windows (e.g. 1 to 2 years). Consecutive reports overlap by 98%. Rather than treating overlapping readings as conflicting duplicates, [`scripts/extract/publishers/run_ism_series.py`](../scripts/extract/publishers/run_ism_series.py) and [`merge_intermodal_charts.py`](../scripts/extract/publishers/merge_intermodal_charts.py) calculate the **multi-report median consensus** across all overlapping observations:
    - Eliminates minor single-report printing artifacts.
    - Reconstructs a seamless, continuous multi-year weekly time series.
 
@@ -139,7 +139,7 @@ When aligned by the **true ISO calendar week**, the numbers snapped into exact m
 ### 2. Multi-Report Median Consensus Algorithm
 Because each weekly report plots a 52-week rolling window, every historical week is reprinted across up to 52 consecutive weekly issues.
 
-We implemented the **Multi-Report Median Consensus Engine** in [`scripts/extract/publishers/run_ism_series.py`](file:///c:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_ism_series.py):
+We implemented the **Multi-Report Median Consensus Engine** in [`scripts/extract/publishers/run_ism_series.py`](../scripts/extract/publishers/run_ism_series.py):
 
 1. **Outlier Filtering via Median:**  
    If an analyst at the brokerage accidentally nudged a curve point in Week 31, the median across the other 51 issues filters it out automatically.
@@ -162,8 +162,8 @@ Executed across the entire 112-report ISM archive (2021–2026):
 ```
 
 **Generated Master Datasets:**
-- [`ism_coaster_freight_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ism_coaster_freight_series.csv): **13,281 rows** covering European coasters, Black Sea, Danube, and Mediterranean routes.
-- [`ism_handy_freight_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ism_handy_freight_series.csv): **18,833 rows** covering Handysize & Supramax routes.
+- [`ism_coaster_freight_series.csv`](../data/extracted/series/ism_coaster_freight_series.csv): **13,281 rows** covering European coasters, Black Sea, Danube, and Mediterranean routes.
+- [`ism_handy_freight_series.csv`](../data/extracted/series/ism_handy_freight_series.csv): **18,833 rows** covering Handysize & Supramax routes.
 - **Total:** **32,114 clean, verified time-series data points** extracted from PDFs that contain **zero tables**.
 
 ---
@@ -172,17 +172,17 @@ Executed across the entire 112-report ISM archive (2021–2026):
 
 | Publisher / Series | Method Used | Scale Extracted | Precision & Error | Master Output File |
 | :--- | :--- | :---: | :---: | :--- |
-| **ISM Coasters** | Vector Path Interpolation | 112 / 112 PDFs (2021–2026) | $0.004\%$ scale residual | [`ism_coaster_freight_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ism_coaster_freight_series.csv) (13,281 rows) |
-| **ISM Handysize** | Vector Path Interpolation | 112 / 112 PDFs (2021–2026) | $0.004\%$ scale residual | [`ism_handy_freight_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ism_handy_freight_series.csv) (18,833 rows) |
-| **Intermodal Baltic & TC** | Vector Frame & Ladder Join | 252 / 252 PDFs (2021–2026) | $0.01\text{ pt}$ raster alignment | [`intermodal_baltic_tc_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/intermodal_baltic_tc_series.csv) (51,980 rows) |
+| **ISM Coasters** | Vector Path Interpolation | 112 / 112 PDFs (2021–2026) | $0.004\%$ scale residual | [`ism_coaster_freight_series.csv`](../data/extracted/series/ism_coaster_freight_series.csv) (13,281 rows) |
+| **ISM Handysize** | Vector Path Interpolation | 112 / 112 PDFs (2021–2026) | $0.004\%$ scale residual | [`ism_handy_freight_series.csv`](../data/extracted/series/ism_handy_freight_series.csv) (18,833 rows) |
+| **Intermodal Baltic & TC** | Vector Frame & Ladder Join | 252 / 252 PDFs (2021–2026) | $0.01\text{ pt}$ raster alignment | [`intermodal_baltic_tc_series.csv`](../data/extracted/series/intermodal_baltic_tc_series.csv) (51,980 rows) |
 | **SSY Capesize Index** | Vector Curve Interpolation, gated against the printed index | 503 / 518 reports accepted (2019–2026 lines) | median 0.27% vs print (worst accepted 0.64%) | `data/extracted/series/ssy_capesize_index_series.csv` (916 rows) |
-| **Star Asia (Raster)** | Hybrid: Text Table + Vision | 194 / 194 PDFs (2022–2026) | Table text authority | [`star_asia_ldt_comparison_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/star_asia_ldt_comparison_series.csv) (210 rows) |
+| **Star Asia (Raster)** | Hybrid: Text Table + Vision | 194 / 194 PDFs (2022–2026) | Table text authority | [`star_asia_ldt_comparison_series.csv`](../data/extracted/series/star_asia_ldt_comparison_series.csv) (210 rows) |
 
 ---
 
 ## 5. The Raster Exception: When Vector Extraction Does Not Apply
 
-Not all publishers use native vector graphics. As established in [`docs/star_asia_survey.md`](file:///c:/Users/Dell/Github/Shipping/docs/star_asia_survey.md):
+Not all publishers use native vector graphics. As established in [`docs/star_asia_survey.md`](star_asia_survey.md):
 - **Star Asia** embeds **raster screenshots (PNG/JPEG)** for its visual trends (Pages 4, 7, 9, 11).
 - **Rule of Thumb:**
   1. Inspect `page.get_drawings()`. If line strokes $< 50$, the chart is raster.

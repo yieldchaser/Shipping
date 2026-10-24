@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-11-05_australian-exports-to
 ![By Ulf Bergman](assets/2020-11-05_australian-exports-to-china-facing-more-disruptions_img_image-asset_fb28d0a19eb1.jpeg)
 
 > **Figure 1: By Ulf Bergman**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-05_australian-exports-to-china-facing-more-disruptions_img_image-asset_fb28d0a19eb1.jpeg)
+> [Local Asset](assets/2020-11-05_australian-exports-to-china-facing-more-disruptions_img_image-asset_fb28d0a19eb1.jpeg)
 
 The ongoing political friction between China and Australia has heated up quite a few notches in the last few days, with additional trade restrictions imposed by China on multiple Australian products. The spat between the two nations is a long running saga, which has turned increasingly acrimonious this year. Authorities in China have orally informed traders that many products imported from Australia will not clear customs, from as early as this week. The new ban covers a wide array of products from wine and lobster to coal and some other commodities, but with the notable exclusions of both natural gas and iron ore. Disrupting the large flow of iron ore and LNG from Australia could have a negative impact on the industrial production in China and potentially slowing the Chinese economic recovery. Hence, political considerations are likely to have been superseded by economic calculations.
 
@@ -37,7 +37,7 @@ Despite the rising tensions this year, Australia’s portion of the total Chines
 
 > **Figure 2: Source: General Administration of Customs of the People’s**  
 > *Source: General Administration of Customs of the People’s Republic of China*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-05_australian-exports-to-china-facing-more-disruptions_img_ulf50_766a5e7de5cc.png)
+> [Local Asset](assets/2020-11-05_australian-exports-to-china-facing-more-disruptions_img_ulf50_766a5e7de5cc.png)
 
 Coking coal used in the steel production accounts for around a quarter of the total Chinese coal imports, with Australia and Mongolia being the dominant suppliers. A prohibition of imports from Australia would remove approximately half of the coking coal volumes (based on 2019 volumes). In the medium to long-term, China is looking to increase its imports from Mongolia considerably, with new railways being laid down to accommodate this trade flow. However, in the short-term the lost imports from Australia looks likely to be replaced by other seaborne imports. Depending on where from the replacement volumes would come, the demand for the dry bulk tonnage carrying it would change. Supply from the Russian Pacific ports would reduce the distance travelled, but if the replacement supply were to come from across the Pacific there would be a significant increase in the tonne-mile demand.
 
@@ -45,7 +45,7 @@ Coking coal used in the steel production accounts for around a quarter of the to
 
 > **Figure 3: Source: General Administration of Customs of the People’s**  
 > *Source: General Administration of Customs of the People’s Republic of China*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-05_australian-exports-to-china-facing-more-disruptions_img_ulf51_70bfbf3668ef.png)
+> [Local Asset](assets/2020-11-05_australian-exports-to-china-facing-more-disruptions_img_ulf51_70bfbf3668ef.png)
 
 With iron ore excluded from the current blacklist, the current seaborne trade between Australia and China should, in theory at least, continue as before for the ore carrying vessels. However, a further worsening of relations could increase Chinese appetite for Brazilian iron ore on the expense of Australian ore, which would push up the demand for dry bulk tonnage.
 

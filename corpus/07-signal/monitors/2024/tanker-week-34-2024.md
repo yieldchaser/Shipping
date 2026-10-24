@@ -38,7 +38,7 @@ tags:
 ![66c71d4d753685254895efe1 66c71d0de98af700f725f47f Tanker%20chart%20week%2034](../../images/66c71d4d753685254895efe1_66c71d0de98af700f725f47f_tanker%20chart%20week%2034.avif)
 
 > **Figure 1: 66c71d4d753685254895efe1 66c71d0de98af700f725f47f Tanker%20chart%20week%2034**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-34-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66c71d4d753685254895efe1_66c71d0de98af700f725f47f_tanker%20chart%20week%2034.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-34-2024) | [Local Asset](../../images/66c71d4d753685254895efe1_66c71d0de98af700f725f47f_tanker%20chart%20week%2034.avif)
 
 As August draws to a close, the earlier weakening momentum on the VLCC AG-China route appears to have stabilised to a firmer momentum. Despite this stabilisation, the weekly percentage growth in demand tonne days has not yet surpassed previous weeks, indicating that a strong recovery remains elusive.
 

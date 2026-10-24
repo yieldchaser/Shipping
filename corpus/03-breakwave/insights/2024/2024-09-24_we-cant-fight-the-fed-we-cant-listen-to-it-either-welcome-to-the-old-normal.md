@@ -70,7 +70,7 @@ B. The Fed sees risks that we (the market) do not. This is entirely possible. Bu
 ![Market Chart 1](assets/2024-09-24_we-cant-fight-the-fed-we-cant-listen-to-it-either-welcome-to-the-old-normal_img_image002_7d812453bc60.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-24_we-cant-fight-the-fed-we-cant-listen-to-it-either-welcome-to-the-old-normal_img_image002_7d812453bc60.jpg)
+> [Local Asset](assets/2024-09-24_we-cant-fight-the-fed-we-cant-listen-to-it-either-welcome-to-the-old-normal_img_image002_7d812453bc60.jpg)
 
 Bloomberg- stories with the word “recession per week”. JP Morgan’s Jamie Dimon reiterated his view that he’s sceptical about the “soft landing” narrative after the double cut. Even if that is not the case, the fact that the Fed didn’t make a solid case for the double cut, while at the same time keeping growth projections highs (a nearly impossible feat) now leaves room for doubt.
 

@@ -26,18 +26,18 @@ As we have highlighted most recently in this week's Weekly Dry Bulk Report and W
 ![Chart 1 (70)](assets/2023-02-10_ongoing-climb-in-chinese-commodity-stockpiles_img_chart1287029_17b3c1d8e549.jpg)
 
 > **Figure 1: Chart 1 (70)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-10_ongoing-climb-in-chinese-commodity-stockpiles_img_chart1287029_17b3c1d8e549.jpg)
+> [Local Asset](assets/2023-02-10_ongoing-climb-in-chinese-commodity-stockpiles_img_chart1287029_17b3c1d8e549.jpg)
 
 Stockpiles of flat and construction steel products at warehouses in major cities in China ended last week at approximately 16.1 million tons. This is 2 million tons (14%) more than a week ago and up year-on-year by 1.7 million tons (12%). Stockpiles have increased during each of the last six weeks.
 
 ![Chart 2 (60)](assets/2023-02-10_ongoing-climb-in-chinese-commodity-stockpiles_img_chart2286029_42348484070f.jpg)
 
 > **Figure 2: Chart 2 (60)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-10_ongoing-climb-in-chinese-commodity-stockpiles_img_chart2286029_42348484070f.jpg)
+> [Local Asset](assets/2023-02-10_ongoing-climb-in-chinese-commodity-stockpiles_img_chart2286029_42348484070f.jpg)
 
 The amount of coal stockpiled at major northern ports in China now stands at 26.7 million tons. This is up week-on-week by 1.1 million tons (4%) and is up year-on-year by 11.6 million tons (-77%). Stockpiles have now increased during each of the last seven weeks.
 
 ![Chart 3 (45)](assets/2023-02-10_ongoing-climb-in-chinese-commodity-stockpiles_img_chart3284529_985922d75d80.jpg)
 
 > **Figure 3: Chart 3 (45)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-10_ongoing-climb-in-chinese-commodity-stockpiles_img_chart3284529_985922d75d80.jpg)
+> [Local Asset](assets/2023-02-10_ongoing-climb-in-chinese-commodity-stockpiles_img_chart3284529_985922d75d80.jpg)

@@ -31,7 +31,7 @@ Thanks in part to December’s monthly dive of 11%, as reported by the National 
 ![Market Chart 1](assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image1_26494b16b772.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image1_26494b16b772.png)
+> [Local Asset](assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image1_26494b16b772.png)
 
 However, after allowing for net export growth, last year’s apparent steel demand slid by -2.1%, a figure more reflective of the domestic demand picture.
 
@@ -44,7 +44,7 @@ The result is displayed in the chart below, a jump in steel product exports to 9
 ![Market Chart 2](assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image0_41320d647f21.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image0_41320d647f21.png)
+> [Local Asset](assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image0_41320d647f21.png)
 
 This was achieved, in some respects,**at the expense of other steel producers**.
 
@@ -57,7 +57,7 @@ Using customs data as a basis, a steep drop in steel exports was apparent from R
 ![Taiwan](assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image2_a2650a2f5f8b.png)
 
 > **Figure 3: Taiwan**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image2_a2650a2f5f8b.png)
+> [Local Asset](assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image2_a2650a2f5f8b.png)
 
 The chart above shows last year’s annual growth in steel exports by destination. South East Asia and MENA countries predominate, but gains were in evidence to a wide range of countries.
 
@@ -76,7 +76,7 @@ India remains a leading destination for Chinese metcoke with 1.3m tonnes, but so
 ![Market Chart 4](assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image3_efa9a4360e97.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image3_efa9a4360e97.png)
+> [Local Asset](assets/2024-04-05_the-big-picture-chinas-steel-sector-and-export-outlook_img_image3_efa9a4360e97.png)
 
 ---
 

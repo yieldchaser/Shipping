@@ -62,6 +62,6 @@ Cargo order volumes for copper discharging in Chinese ports are on course for a 
 ![Market Chart 1](assets/2024-01-25_3q5400kas5mk0mczmk0hzfq65genok_img_unnamed-2024-01-25t083958688_641a194c3610.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-25_3q5400kas5mk0mczmk0hzfq65genok_img_unnamed-2024-01-25t083958688_641a194c3610.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-01-25_3q5400kas5mk0mczmk0hzfq65genok_img_unnamed-2024-01-25t083958688_641a194c3610.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

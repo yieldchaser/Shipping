@@ -27,7 +27,7 @@ Markets were subdued as they look ahead to the FOMC meeting later this week. Thi
 ![Στιγμιότυπο Οθόνης 2024 09 18 143408](assets/2024-09-18_oil-gains-amid-renewed-tensions-in-the-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d52ea5683794.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 18 143408**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-18_oil-gains-amid-renewed-tensions-in-the-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d52ea5683794.png)
+> [Local Asset](assets/2024-09-18_oil-gains-amid-renewed-tensions-in-the-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d52ea5683794.png)
 
 ### Market Commentary
 
@@ -46,7 +46,7 @@ Speculative net long positions in Brent futures hit all-time record low.
 ![Στιγμιότυπο Οθόνης 2024 09 18 143453](assets/2024-09-18_oil-gains-amid-renewed-tensions-in-the-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d8633879d593.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 09 18 143453**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-18_oil-gains-amid-renewed-tensions-in-the-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d8633879d593.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-09-18_oil-gains-amid-renewed-tensions-in-the-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d8633879d593.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

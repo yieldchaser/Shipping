@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-09-02_dry-bulk-trade-from-t
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-02_dry-bulk-trade-from-the-black-sea-has-moved-into-a-markedly-weaker-phase_img_unsplash-image-yjimtqtm7ns_3d1c23fc00b6.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](assets/2026-09-02_dry-bulk-trade-from-the-black-sea-has-moved-into-a-markedly-weaker-phase_img_unsplash-image-yjimtqtm7ns_3d1c23fc00b6.jpg)
 
 Dry bulk trade from the Black Sea has moved into a markedly weaker phase during the summer months, with exports from Russia and Ukraine falling sharply compared with the preceding spring period. Based on Signal Ocean data, between June and August 2026, combined dry bulk shipments reached 21.60 million MT, down 42.0% from the 37.27 million MT exported during March–May. Cargo departures followed the same direction, declining from 2,323 to 1,302 voyages, a 43.9% contraction. Although part of this fall reflects the normal transition between agricultural seasons, the magnitude of the decline increasingly points to geopolitical and operational disruption rather than seasonality alone.
 

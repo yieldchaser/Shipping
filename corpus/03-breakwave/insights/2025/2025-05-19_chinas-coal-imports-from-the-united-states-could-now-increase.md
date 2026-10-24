@@ -29,7 +29,7 @@ March (data is still pending for April) saw coal imports from Indonesia total 18
 ![Chart](assets/2025-05-19_chinas-coal-imports-from-the-united-states-could-now-increase_img_chart_58f64ca4e7a0.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-19_chinas-coal-imports-from-the-united-states-could-now-increase_img_chart_58f64ca4e7a0.jpg)
+> [Local Asset](assets/2025-05-19_chinas-coal-imports-from-the-united-states-could-now-increase_img_chart_58f64ca4e7a0.jpg)
 
 ---
 

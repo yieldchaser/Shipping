@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-09-11_ukraine-ferrous-expor
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2025-09-11_ukraine-ferrous-export-flux-ups-and-downs_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-11_ukraine-ferrous-export-flux-ups-and-downs_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](assets/2025-09-11_ukraine-ferrous-export-flux-ups-and-downs_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 Ukraine’s dry bulk exports, particularly through the Black Sea, continue to encounter headwinds both domestically and internationally. For shipping, these political flashpoints translate directly into risks over the security of the Black Sea corridor, higher insurance premiums, and potential diversions through EU ports such as Constanta or Sulina. Recently, the Kyiv Independent reported that Russia has ordered ports in the occupied cities of Mariupol and Berdiansk in southern Ukraine to be opened up to international ships. Against this backdrop of political theatre and market strain, it is worth taking stock of recent developments and assessing what lies ahead.
 
@@ -32,7 +32,7 @@ Traditionally, Ukraine’s reputation as the “Breadbasket of Europe” has led
 ![Στιγμιότυπο Οθόνης 2025 09 10 120256](assets/2025-09-11_ukraine-ferrous-export-flux-ups-and-downs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e34101ba1b7.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 09 10 120256**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-11_ukraine-ferrous-export-flux-ups-and-downs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e34101ba1b7.png)
+> [Local Asset](assets/2025-09-11_ukraine-ferrous-export-flux-ups-and-downs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e34101ba1b7.png)
 
 Iron Ore - For much of the past decade, Ukraine ranked among the world’s top 10 iron ore producers and exporters. This was despite Russia’s annexation of Crimea in March 2015, which cost Ukraine the Kerch iron ore basin containing about 14% of its reserves, along with direct access to Crimean ports. As a result, exports were rerouted through Pivdennyi and Odessa, adding pressure to already congested facilities. By 2020, Ukraine was the seventh largest producer and the fifth largest exporter globally, with roughly 85% of volumes shipped to China on Capesizes, thereby accounting for around 3% of total seaborne iron ore exports.
 
@@ -51,7 +51,7 @@ It is also worth highlighting that Ukrainian iron ore loadings via Romania in th
 ![Στιγμιότυπο Οθόνης 2025 09 10 120308](assets/2025-09-11_ukraine-ferrous-export-flux-ups-and-downs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e1fdbe80dd3a.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 09 10 120308**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-11_ukraine-ferrous-export-flux-ups-and-downs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e1fdbe80dd3a.png)
+> [Local Asset](assets/2025-09-11_ukraine-ferrous-export-flux-ups-and-downs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e1fdbe80dd3a.png)
 
 Steel – similar to iron ore, Ukrainian seaborne steel exports have fallen from 10.9 mln mt in 2021 to at historical low of 0.5 mln mt in 2023 and remained relatively flatlined thereafter. Beside the above-mentioned woes, steel is facing stiff competition from China. Historically, most steel (circa 60-70%) is exported to short-haul destinations, notably the Mediterranean, Black Sea and Arabian Gulf.
 

@@ -14,7 +14,7 @@ Milestone 3 focuses exclusively on authoritative data acquisition and objective 
 In accordance with strict financial accounting directives:
 - **Zero Synthetic Defaults:** No spot index proxies (BDI, BCI, BPI, BSI, BDTI, BCTI), no inferred shares, no forward-filled NAVs, and no synthetic execution prices were used.
 - **Zero Engine / UI Alterations:** The accounting engine, UI simulator, and scenario controls remained 100% frozen and unmodified.
-- **Cryptographic Provenance:** Every on-disk dataset has been audited and cataloged with immutable SHA-256 checksums, retrieval URLs, and schema definitions in [`data/manifests/data_acquisition_manifest.json`](file:///C:/Users/Dell/Github/Shipping/data/manifests/data_acquisition_manifest.json).
+- **Cryptographic Provenance:** Every on-disk dataset has been audited and cataloged with immutable SHA-256 checksums, retrieval URLs, and schema definitions in [`data/manifests/data_acquisition_manifest.json`](../data/manifests/data_acquisition_manifest.json).
 
 ---
 
@@ -44,7 +44,7 @@ In accordance with strict financial accounting directives:
 
 ## 3. Cryptographic Provenance & Manifest Registry
 
-Summary of files cryptographically registered in [`data/manifests/data_acquisition_manifest.json`](file:///C:/Users/Dell/Github/Shipping/data/manifests/data_acquisition_manifest.json):
+Summary of files cryptographically registered in [`data/manifests/data_acquisition_manifest.json`](../data/manifests/data_acquisition_manifest.json):
 
 ```text
 ========================================================================================================================

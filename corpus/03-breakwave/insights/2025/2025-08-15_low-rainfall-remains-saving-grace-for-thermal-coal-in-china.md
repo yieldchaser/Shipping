@@ -27,7 +27,7 @@ As we have been highlighting in Commodore Research's Weekly China Reports, Decem
 ![Chart](assets/2025-08-15_low-rainfall-remains-saving-grace-for-thermal-coal-in-china_img_chart_f3461f592317.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-15_low-rainfall-remains-saving-grace-for-thermal-coal-in-china_img_chart_f3461f592317.jpg)
+> [Local Asset](assets/2025-08-15_low-rainfall-remains-saving-grace-for-thermal-coal-in-china_img_chart_f3461f592317.jpg)
 
 Overall, the dry bulk and thermal coal markets have been catching a break with rainfall staying lower than usual where so many of China’s major hydropower stations are located. Unfortunately, we have been continuing to stress in our reports that rainfall, of course, will not always be lower than usual here — and China’s coal-derived electricity generation will very likely come under pressure again whenever the rainfall does eventually normalize.
 

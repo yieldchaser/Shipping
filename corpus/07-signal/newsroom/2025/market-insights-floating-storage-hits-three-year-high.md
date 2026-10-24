@@ -34,7 +34,7 @@ A data-driven review facilitated by the [**Floating Storage platform report**](h
 
 > **Figure 1: Powered by Voyages API**  
 > *Powered by Voyages API*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-floating-storage-hits-three-year-high) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6932e5f58e58320271a431d1_6ed7abf7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-floating-storage-hits-three-year-high) | [Local Asset](../../images/6932e5f58e58320271a431d1_6ed7abf7.png)
 
 
 - [Floating](https://app.signalocean.com/tanker/dynamic/floating\_storage) storage is rising sharply across the tanker segments, VLCC, Suezmax, and Aframax, signalling a market increasingly shaped by oversupply concerns. The latest readings point to a decisive break higher through late 2025, with floating barrels approaching the 150 million bbl threshold peak recorded back in November 2022.
@@ -43,7 +43,7 @@ A data-driven review facilitated by the [**Floating Storage platform report**](h
 ![Offshore Volumes Rise Amid Growing Oversupply Signals](../../images/6932e5f58e58320271a431dd_2ab5a4ca.png)
 
 > **Figure 2: Offshore Volumes Rise Amid Growing Oversupply Signals**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-floating-storage-hits-three-year-high) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6932e5f58e58320271a431dd_2ab5a4ca.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-floating-storage-hits-three-year-high) | [Local Asset](../../images/6932e5f58e58320271a431dd_2ab5a4ca.png)
 
 
 ## Floatingstorage Trends | Per Vessel Size Segment
@@ -57,7 +57,7 @@ A data-driven review facilitated by the [**Floating Storage platform report**](h
 ![Floating Storage Trends | Per Vessel Size Segment](../../images/6932e5f58e58320271a431d7_11f934b9.png)
 
 > **Figure 3: Floating Storage Trends | Per Vessel Size Segment**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-floating-storage-hits-three-year-high) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6932e5f58e58320271a431d7_11f934b9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-floating-storage-hits-three-year-high) | [Local Asset](../../images/6932e5f58e58320271a431d7_11f934b9.png)
 
 **Suezmax |** 7D MA: ~40 Mbbl, compared with a mid-year low of ~13.7 Mbbl (+185%)
 
@@ -65,7 +65,7 @@ A data-driven review facilitated by the [**Floating Storage platform report**](h
 ![Floating Storage Trends | Per Vessel Size Segment](../../images/6932e5f58e58320271a431d4_d24f1ba2.png)
 
 > **Figure 4: Floating Storage Trends | Per Vessel Size Segment**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-floating-storage-hits-three-year-high) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6932e5f58e58320271a431d4_d24f1ba2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-floating-storage-hits-three-year-high) | [Local Asset](../../images/6932e5f58e58320271a431d4_d24f1ba2.png)
 
 **Aframax |** 7D MA: ~29 Mbbl, up from an early-September low of ~9.1 Mbbl (+220%)
 
@@ -73,7 +73,7 @@ A data-driven review facilitated by the [**Floating Storage platform report**](h
 ![Floating Storage Trends | Per Vessel Size Segment](../../images/6932e5f58e58320271a431da_d80d63b8.png)
 
 > **Figure 5: Floating Storage Trends | Per Vessel Size Segment**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-floating-storage-hits-three-year-high) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6932e5f58e58320271a431da_d80d63b8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-floating-storage-hits-three-year-high) | [Local Asset](../../images/6932e5f58e58320271a431da_d80d63b8.png)
 
 
 ## Iranian Barrels Dominate Floating Storage
@@ -85,7 +85,7 @@ A data-driven review facilitated by the [**Floating Storage platform report**](h
 ![Iranian Barrels Dominate Floating Storage](../../images/6932e5f58e58320271a431e0_2d6fe162.png)
 
 > **Figure 6: Iranian Barrels Dominate Floating Storage**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-floating-storage-hits-three-year-high) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6932e5f58e58320271a431e0_2d6fe162.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-floating-storage-hits-three-year-high) | [Local Asset](../../images/6932e5f58e58320271a431e0_2d6fe162.png)
 
 Compared with earlier months, the recent increase in floating crude volumes coincides with indications that China’s independent refiners had exhausted their import quotas and that teapot run rates had softened amid weak margins, both of which have historically influenced refiners’ willingness to take cargo from offshore. The time series shows a clear rise in floating barrels in early December, returning toward levels seen during previous spikes. However, the recent announcement of a new batch of crude import quotas for the remainder of the year will work in the direction of clearing those extra flows waiting on tankers.
 
@@ -93,7 +93,7 @@ Compared with earlier months, the recent increase in floating crude volumes coin
 ![Iranian Barrels Dominate Floating Storage](../../images/6932e5f58e58320271a431e3_d1ecfe4b.png)
 
 > **Figure 7: Iranian Barrels Dominate Floating Storage**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-floating-storage-hits-three-year-high) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6932e5f58e58320271a431e3_d1ecfe4b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-floating-storage-hits-three-year-high) | [Local Asset](../../images/6932e5f58e58320271a431e3_d1ecfe4b.png)
 
 At the same time, the distribution of stored volumes has shifted decisively toward offshore transfer hubs. As of 4 December, approximately 86% of floating barrels were concentrated in the Singapore/Malaysia area, which is commonly used for ship-to-ship transfers and the temporary holding of sanctioned or discounted crude, including Iranian grades. Vessel-level data further shows that the build-up is dominated by VLCCs (80%) carrying almost exclusively Iranian crude (≈99.7%), underscoring that the surge is not broad-based but tied to a specific supply stream facing slower onward absorption.
 

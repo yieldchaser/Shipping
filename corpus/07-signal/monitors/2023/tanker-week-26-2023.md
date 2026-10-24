@@ -33,7 +33,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform**  
 > *Data Source: The Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-26-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/649e76a2fa6fadd734d56ed3_chart of the week (1).png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-26-2023) | [Local Asset](../../images/649e76a2fa6fadd734d56ed3_chart of the week (1).png)
 
 The performance of tanker freight rates in June has shown a weaker sentiment for crude tanker rates, while the Aframax Med route has maintained a relatively steady momentum. As depicted in the image above, the dirty segment, specifically Aframax tonne days growth, has experienced a significant recovery during the second quarter. On the other hand, the clean trading sector has faced a noticeable decline during the same period. This difference in performance underscores the contrasting dynamics between these two segments. The strong rebound in Aframax tonne days growth suggests improved market conditions and increased demand for dirty trading. Conversely, the slump in clean trading indicates challenges and a weaker performance in that particular sector.
 

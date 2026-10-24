@@ -22,14 +22,14 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-20_did-you-know.html"
 ![1 (4)](assets/2023-03-20_did-you-know_img_128429_ee65bb836fa8.png)
 
 > **Figure 1: 1 (4)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-20_did-you-know_img_128429_ee65bb836fa8.png)
+> [Local Asset](assets/2023-03-20_did-you-know_img_128429_ee65bb836fa8.png)
 
 Named for the Persian prophet Zarathustra, the world’s first tanker ship – the Zoroaster tanker was put into operation in the year 1878. The tanker ship was built with steel while its oil tanker holds were built of iron.
 
 ![142 235 Nobel Zoraster](assets/2023-03-20_did-you-know_img_142-235-nobel-zoraster_50a295df9c29.jpg)
 
 > **Figure 2: 142 235 Nobel Zoraster**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-20_did-you-know_img_142-235-nobel-zoraster_50a295df9c29.jpg)
+> [Local Asset](assets/2023-03-20_did-you-know_img_142-235-nobel-zoraster_50a295df9c29.jpg)
 
 Prior to the use of tanker ships, oil was transported by a crude method across water channels, which caused problems, and that’s why it was essential the creation of a new, fast and safe way of transport.
 
@@ -44,4 +44,4 @@ Prior to the use of tanker ships, oil was transported by a crude method across w
 ![1 (2)](assets/2023-03-20_did-you-know_img_128229_c08440bac04e.png)
 
 > **Figure 3: 1 (2)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-20_did-you-know_img_128229_c08440bac04e.png)
+> [Local Asset](assets/2023-03-20_did-you-know_img_128229_c08440bac04e.png)

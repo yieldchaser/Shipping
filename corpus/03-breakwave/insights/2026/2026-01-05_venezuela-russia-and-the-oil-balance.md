@@ -32,7 +32,7 @@ Venezuela holds one of the world’s largest proven crude oil reserves. However,
 
 > **Figure 1: Differing Crude Quality Profiles of Venezuelan Heavy Sour Grades**  
 > *The differing crude quality profiles of Venezuelan heavy sour grades and Russia's Urals blend underscore structural variations in their compatibility with refineries and typical trade routes. Specifically, Venezuelan grades, such as high-sulphur, extra-heavy, Maya-like crudes, are characterized by their low API gravity and high sulphur content, placing them in the low-API/high-sulphur sector of the crude quality distribution chart.*  
-> **Interactive Data & Source:** [Signal Ocean Tanker Dynamic Crude Oil Flows](https://go.signalocean.com/e/983831/tanker-dynamic-crude-oil-flows/2rqw4y/565781923/h/fLXYReNi7N6RD0oQ3vAYRxmd_TP2OVmMHb_GgMgNzJg) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-05_venezuela-russia-and-the-oil-balance_img_unnamed_f290f768ef8c.png)
+> **Interactive Data & Source:** [Signal Ocean Tanker Dynamic Crude Oil Flows](https://go.signalocean.com/e/983831/tanker-dynamic-crude-oil-flows/2rqw4y/565781923/h/fLXYReNi7N6RD0oQ3vAYRxmd_TP2OVmMHb_GgMgNzJg) | [Local Asset](assets/2026-01-05_venezuela-russia-and-the-oil-balance_img_unnamed_f290f768ef8c.png)
 
 Current Venezuelan production and export capacity remain constrained by infrastructure conditions, investment requirements, and the quality of crude oil. Venezuelan output is predominantly heavy and extra-heavy, which limits the range of compatible refineries and typically favors Atlantic Basin destinations with complex refining capabilities. Any increase in exports is therefore expected to be incremental rather than large enough to alter the global supply balance in the near term materially.
 
@@ -60,7 +60,7 @@ The combined impact of Venezuela and Russia reveals that freight outcomes are co
 
 > **Figure 2: Concentration of Long-Haul Global Crude Exports Into Asia Is**  
 > *The concentration of long-haul global crude exports into Asia is pronounced. Analysis of these flows by origin and destination underscores the structural significance of Russia in meeting the import demands of China and India.*  
-> **Interactive Data & Source:** [Signal Ocean Tanker Dynamic Crude Oil Flows](https://go.signalocean.com/e/983831/tanker-dynamic-crude-oil-flows/2rqw4y/565781923/h/fLXYReNi7N6RD0oQ3vAYRxmd_TP2OVmMHb_GgMgNzJg) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-05_venezuela-russia-and-the-oil-balance_img_unnamed28129_474f675165a5.png)
+> **Interactive Data & Source:** [Signal Ocean Tanker Dynamic Crude Oil Flows](https://go.signalocean.com/e/983831/tanker-dynamic-crude-oil-flows/2rqw4y/565781923/h/fLXYReNi7N6RD0oQ3vAYRxmd_TP2OVmMHb_GgMgNzJg) | [Local Asset](assets/2026-01-05_venezuela-russia-and-the-oil-balance_img_unnamed28129_474f675165a5.png)
 
 ### Supply–demand Balance and Price Signals
 
@@ -72,7 +72,7 @@ Oil prices reflect this configuration. Brent crude ended December 2025 near $60.
 
 > **Figure 3: Monthly Global Crude Flows Show Stable Volumes with Seasonal**  
 > *Monthly global crude flows show stable volumes with seasonal variation, indicating that changes in tanker demand are driven by routing, storage, and time at sea rather than step-change volume growth.*  
-> **Interactive Data & Source:** [Signal Ocean Tanker Dynamic Crude Oil Flows](https://go.signalocean.com/e/983831/tanker-dynamic-crude-oil-flows/2rqw4y/565781923/h/fLXYReNi7N6RD0oQ3vAYRxmd_TP2OVmMHb_GgMgNzJg) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-05_venezuela-russia-and-the-oil-balance_img_unnamed28229_05e69f4e2566.png)
+> **Interactive Data & Source:** [Signal Ocean Tanker Dynamic Crude Oil Flows](https://go.signalocean.com/e/983831/tanker-dynamic-crude-oil-flows/2rqw4y/565781923/h/fLXYReNi7N6RD0oQ3vAYRxmd_TP2OVmMHb_GgMgNzJg) | [Local Asset](assets/2026-01-05_venezuela-russia-and-the-oil-balance_img_unnamed28229_05e69f4e2566.png)
 
 ### Longer-Term Considerations for Oil Prices
 

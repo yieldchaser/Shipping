@@ -27,7 +27,7 @@ As we discussed in Commodore Research’s most recent Weekly China Report, China
 ![Chart 1](assets/2025-09-26_consumption-growth-in-chinas-retail-sector-remains-well-below-2025s-peak_img_chart1_8632bf6d92eb.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-26_consumption-growth-in-chinas-retail-sector-remains-well-below-2025s-peak_img_chart1_8632bf6d92eb.jpg)
+> [Local Asset](assets/2025-09-26_consumption-growth-in-chinas-retail-sector-remains-well-below-2025s-peak_img_chart1_8632bf6d92eb.jpg)
 
 While growth remains below this year’s peak, important is that retail sales growth has at least again come in higher than any inflation. This has now occurred for thirty-two straight months. Prior to the last thirty-two months, retail sales came in lower than inflation for four straight months. Of note on the consumer side is that furniture sales, clothing sales, and appliance sales (which includes consumer electronics) again all experienced year-on-year growth. Furniture sales continue to fare the best.
 
@@ -36,7 +36,7 @@ Furniture sales in China in August increased year-on-year by 31%. They have now 
 ![Chart 2](assets/2025-09-26_consumption-growth-in-chinas-retail-sector-remains-well-below-2025s-peak_img_chart2_873a3edd8d8d.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-26_consumption-growth-in-chinas-retail-sector-remains-well-below-2025s-peak_img_chart2_873a3edd8d8d.jpg)
+> [Local Asset](assets/2025-09-26_consumption-growth-in-chinas-retail-sector-remains-well-below-2025s-peak_img_chart2_873a3edd8d8d.jpg)
 
 ---
 

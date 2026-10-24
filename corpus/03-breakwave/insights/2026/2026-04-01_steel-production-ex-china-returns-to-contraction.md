@@ -27,14 +27,14 @@ As we discussed in Commodore Research's most recent Weekly Executive Report, glo
 ![$1.png](assets/2026-04-01_steel-production-ex-china-returns-to-contraction_img_241png_df78db7207ec.jpg)
 
 > **Figure 1: $1.png**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-01_steel-production-ex-china-returns-to-contraction_img_241png_df78db7207ec.jpg)
+> [Local Asset](assets/2026-04-01_steel-production-ex-china-returns-to-contraction_img_241png_df78db7207ec.jpg)
 
 Steel production ex-China had previously grown on a year-on-year basis for seven straight months (before that period, it had contracted during eight of the prior ten months).
 
 ![242](assets/2026-04-01_steel-production-ex-china-returns-to-contraction_img_242_cf44cd522f1c.jpg)
 
 > **Figure 2: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-01_steel-production-ex-china-returns-to-contraction_img_242_cf44cd522f1c.jpg)
+> [Local Asset](assets/2026-04-01_steel-production-ex-china-returns-to-contraction_img_242_cf44cd522f1c.jpg)
 
 Taking India out of the equation, production also reverted back to a contraction. Steel production ex-Chin/India contracted on a year-on-year basis last month by 1 million tons (-2%). Previously, it grew year-on-year for four straight months. Indian steel production totaled 13.6 million tons last month. This is down month-on-month by 1.5 million tons (-10%) but is up year-on-year by 900,000 tons (7%). India’s steel production has grown year-on-year for thirty-six straight months.
 
@@ -43,7 +43,7 @@ Indian steel production totaled 13.6 million tons last month. This is down month
 ![243](assets/2026-04-01_steel-production-ex-china-returns-to-contraction_img_243_55c4702c4ef1.jpg)
 
 > **Figure 3: 243**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-01_steel-production-ex-china-returns-to-contraction_img_243_55c4702c4ef1.jpg)
+> [Local Asset](assets/2026-04-01_steel-production-ex-china-returns-to-contraction_img_243_55c4702c4ef1.jpg)
 
 ---
 

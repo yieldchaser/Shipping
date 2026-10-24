@@ -31,7 +31,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-08-26_weekly-insights-revie
 ![Tanker+report+top (3)](assets/2023-08-26_weekly-insights-review_img_tanker2breport2btop28329_e6b9c7543057.png)
 
 > **Figure 1: Tanker+report+top (3)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/8/21/end-of-an-era) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-26_weekly-insights-review_img_tanker2breport2btop28329_e6b9c7543057.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/8/21/end-of-an-era) | [Local Asset](assets/2023-08-26_weekly-insights-review_img_tanker2breport2btop28329_e6b9c7543057.png)
 
 ## End of an Era
 
@@ -43,7 +43,7 @@ For product tankers, much of the past decade’s investment was focused on chang
 ![Market Chart 2](assets/2023-08-26_weekly-insights-review_img_image-asset281929_89986ca5a0be.jpeg)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/8/21/china-continues-to-consume-large-amount-of-thermal-coal-and-iron-ore) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-26_weekly-insights-review_img_image-asset281929_89986ca5a0be.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/8/21/china-continues-to-consume-large-amount-of-thermal-coal-and-iron-ore) | [Local Asset](assets/2023-08-26_weekly-insights-review_img_image-asset281929_89986ca5a0be.jpeg)
 
 ## China Continues to Consume Large Amount of Thermal Coal and Iron Ore
 
@@ -54,7 +54,7 @@ The most recently released data shows that daily crude steel output at large and
 ![Market Chart 3](assets/2023-08-26_weekly-insights-review_img_unnamed283929_ca380fe022c4.jpg)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/8/21/china-continues-to-consume-large-amount-of-thermal-coal-and-iron-ore) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-26_weekly-insights-review_img_unnamed283929_ca380fe022c4.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/8/21/china-continues-to-consume-large-amount-of-thermal-coal-and-iron-ore) | [Local Asset](assets/2023-08-26_weekly-insights-review_img_unnamed283929_ca380fe022c4.jpg)
 
 ## China Continues to Consume Large Amount of Thermal Coal and Iron Ore
 
@@ -65,7 +65,7 @@ The most recently released data shows that daily crude steel output at large and
 ![Market Chart 4](assets/2023-08-26_weekly-insights-review_img_unnamed284029_964efd0ebc4e.jpg)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/8/22/gas-prices-rally-as-risk-of-supply-disruptions-increase) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-26_weekly-insights-review_img_unnamed284029_964efd0ebc4e.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/8/22/gas-prices-rally-as-risk-of-supply-disruptions-increase) | [Local Asset](assets/2023-08-26_weekly-insights-review_img_unnamed284029_964efd0ebc4e.jpg)
 
 ## Gas Prices Rally As Risk of Supply Disruptions Increase
 
@@ -83,7 +83,7 @@ Thermal coal-derived electricity generation continues to make up the bulk of Chi
 
 > **Figure 5: Third Week of August Began with More Robust Sentiment**  
 > *The third week of August began with more robust sentiment, which countered fears about a possible downward trend in the Capesize segment.Read More*  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/8/23/signal-dry-bulk-weekly-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-26_weekly-insights-review_img_unnamed284129_863a02ee88ea.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/8/23/signal-dry-bulk-weekly-report) | [Local Asset](assets/2023-08-26_weekly-insights-review_img_unnamed284129_863a02ee88ea.jpg)
 
 ## Signal Dry Bulk Weekly Report
 
@@ -92,7 +92,7 @@ Thermal coal-derived electricity generation continues to make up the bulk of Chi
 ![Market Chart 6](assets/2023-08-26_weekly-insights-review_img_unnamed284229_07ec2ee284ad.jpg)
 
 > **Figure 6: Market Chart 6**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/8/24/signal-tanker-weekly-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-26_weekly-insights-review_img_unnamed284229_07ec2ee284ad.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/8/24/signal-tanker-weekly-report) | [Local Asset](assets/2023-08-26_weekly-insights-review_img_unnamed284229_07ec2ee284ad.jpg)
 
 ## Signal Tanker Weekly Report
 
@@ -104,4 +104,4 @@ In the third week of August, downward pressure continues on the VLCC MEG route t
 ![Market Chart 7](assets/2023-08-26_weekly-insights-review_img_unnamed284329_727e7c0b0be2.jpg)
 
 > **Figure 7: Market Chart 7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-26_weekly-insights-review_img_unnamed284329_727e7c0b0be2.jpg)
+> [Local Asset](assets/2023-08-26_weekly-insights-review_img_unnamed284329_727e7c0b0be2.jpg)

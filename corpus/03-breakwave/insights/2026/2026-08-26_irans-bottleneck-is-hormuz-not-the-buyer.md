@@ -29,7 +29,7 @@ Iranian crude sitting in Asian waters peaked at 44.4 million barrels in December
 ![Στιγμιότυπο Οθόνης 2026 08 26 095344](assets/2026-08-26_irans-bottleneck-is-hormuz-not-the-buyer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c7142e218ac.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 08 26 095344**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-26_irans-bottleneck-is-hormuz-not-the-buyer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c7142e218ac.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-08-26_irans-bottleneck-is-hormuz-not-the-buyer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c7142e218ac.png)
 
 ### The Region Emptied Around It
 
@@ -38,7 +38,7 @@ What makes the Iranian build stand out is that it ran against the tide. Asia's t
 ![Στιγμιότυπο Οθόνης 2026 08 26 095457](assets/2026-08-26_irans-bottleneck-is-hormuz-not-the-buyer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_57a232ca7725.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 08 26 095457**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-26_irans-bottleneck-is-hormuz-not-the-buyer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_57a232ca7725.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-08-26_irans-bottleneck-is-hormuz-not-the-buyer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_57a232ca7725.png)
 
 Two months break the pattern and they belong together. July is a surge in cargo moving, up 22.4% on June and the busiest month since February. August gives all of it back. Barrels moved, then they stopped moving.
 
@@ -49,7 +49,7 @@ Divide crude into floating storage and in transit and you get a rough measure of
 ![Στιγμιότυπο Οθόνης 2026 08 26 095559](assets/2026-08-26_irans-bottleneck-is-hormuz-not-the-buyer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_efdbd741e794.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 08 26 095559**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-26_irans-bottleneck-is-hormuz-not-the-buyer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_efdbd741e794.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-08-26_irans-bottleneck-is-hormuz-not-the-buyer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_efdbd741e794.png)
 
 The number itself is not unprecedented. January 2023 printed higher than any month of 2026 and reverted within weeks. What is new is that it took longer to revert. Eight of the eleven months since October 2025 have printed at or above 0.61; one month in the previous thirty-three did. And the fourth quarter of 2025 averaged 0.63 the same as for the eight months of 2026
 
@@ -62,7 +62,7 @@ The fleet tells the same story as the volumes, and it tells it the whole way alo
 ![Στιγμιότυπο Οθόνης 2026 08 26 095715](assets/2026-08-26_irans-bottleneck-is-hormuz-not-the-buyer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_129609fdca25.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2026 08 26 095715**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-26_irans-bottleneck-is-hormuz-not-the-buyer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_129609fdca25.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-08-26_irans-bottleneck-is-hormuz-not-the-buyer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_129609fdca25.png)
 
 **August looks like a stoppage. It is not one.**
 
@@ -79,7 +79,7 @@ Which points to the reading that ties the year together. Iranian crude floating 
 ![Στιγμιότυπο Οθόνης 2026 08 26 095902](assets/2026-08-26_irans-bottleneck-is-hormuz-not-the-buyer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ae35775fcadc.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2026 08 26 095902**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-26_irans-bottleneck-is-hormuz-not-the-buyer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ae35775fcadc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-08-26_irans-bottleneck-is-hormuz-not-the-buyer_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ae35775fcadc.png)
 
 August is the part worth stopping on. Chinese-zone holdings fell 45%, from 16.3 million barrels to 9.0, while the Malacca hub grew 6%. That is what discharge looks like in this dataset, and it is the first clear instance of it all year.
 

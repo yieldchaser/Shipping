@@ -63,7 +63,7 @@ The increase in Chinese exports of cheap steel has resulted in substantial headw
 ![Στιγμιότυπο Οθόνης 2024 07 02 112152](assets/2024-07-02_he-capesizes-fortunes-shifted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6f3e0cb98285.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 02 112152**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-02_he-capesizes-fortunes-shifted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6f3e0cb98285.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-07-02_he-capesizes-fortunes-shifted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6f3e0cb98285.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

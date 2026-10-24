@@ -26,7 +26,7 @@ The grim economic outlook in China continued to weigh on sentiment in commodity 
 ![1653515253536](assets/2022-05-26_commodities-under-pressure-amid-chinas-weakening-economic-backdrop_img_1653515253536_f90cb825d5cd.png)
 
 > **Figure 1: 1653515253536**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-26_commodities-under-pressure-amid-chinas-weakening-economic-backdrop_img_1653515253536_f90cb825d5cd.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2022-05-26_commodities-under-pressure-amid-chinas-weakening-economic-backdrop_img_1653515253536_f90cb825d5cd.png)
 
 **Base metals**fell across the board amid signals of weak economic growth in China. Premier Li Keqiang told officials that the country is faring worse in some respects to 2020. He urged them to help reduce joblessness and keep growth “in a reasonable range” this quarter to help mitigate the impact of its COVID-zero policy. This has seen the market’s consensus forecast for China’s GDP fall to 4.5%, well below the official target of 5.5%. Sentiment wasn’t helped by US durable goods rising only 0.4% in April. Copper fell after Freeport Indonesia said it aims to increase daily copper ore production to 178kt per day this year, up from 145kt/d in 2021.
 

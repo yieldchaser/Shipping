@@ -37,7 +37,7 @@ The contrast between 2024 and 2025 highlights the growing influence of broader m
 ![Screenshot 2025 09 15 11.31.06](assets/2025-09-15_the-big-picture-of-the-dry-bulk-market_img_screenshot2025-09-15113106_aac57f4c5278.png)
 
 > **Figure 1: Screenshot 2025 09 15 11.31.06**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-15_the-big-picture-of-the-dry-bulk-market_img_screenshot2025-09-15113106_aac57f4c5278.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-09-15_the-big-picture-of-the-dry-bulk-market_img_screenshot2025-09-15113106_aac57f4c5278.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

@@ -31,7 +31,7 @@ The Supramax market has gone from strength to strength so far this year, with th
 ![Bmr 1 6.3](assets/2021-06-04_the-big-picture-supramax-market_img_bmr163_dcdac14a1202.png)
 
 > **Figure 1: Bmr 1 6.3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-04_the-big-picture-supramax-market_img_bmr163_dcdac14a1202.png)
+> [Local Asset](assets/2021-06-04_the-big-picture-supramax-market_img_bmr163_dcdac14a1202.png)
 
 ### Trade Boost
 
@@ -41,7 +41,7 @@ Naturally, underlying the surge in freight has been a jump in raw material trade
 
 > **Figure 2: Volumes of Aggregates on Supras**  
 > *Volumes of aggregates on Supras, another relatively low-value commodity group, have also made gains. Some market share has been lost to the bigger ships, given that stem sizes for this type of good can be upped relatively easily (seeThe Big Pictureon 20 May), but liftings grew by 11% YoY in the last five months to almost 30m tonnes, underpinned again by growth from developing regions.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-04_the-big-picture-supramax-market_img_bmr263_2ceb40b9fb1d.png)
+> [Local Asset](assets/2021-06-04_the-big-picture-supramax-market_img_bmr263_2ceb40b9fb1d.png)
 
 Supramax shipments of cement so far this year are up by 30% YoY, and hit a record 7.8m tonnes in March, accounting for 745 voyages. The jump in imports has partly been driven by China (which sits on the margin of being an importer or exporter) as the recent infrastructure push has raised domestic demand for this good. But we’ve also seen a surge in demand from developing countries such as Bangladesh, Ghana and the Ivory Coast, which are also urbanising at a rapid pace. At the same time, US imports of this material grew by 25% YoY over January - May. This is likely down to elevated construction activity following the country’s enormous stimulus injection, which is now being felt in the dry bulk market.
 
@@ -54,7 +54,7 @@ Wheat exports from Australia, for example, have also surged so far this year, wi
 ![Bmr 3 6.3](assets/2021-06-04_the-big-picture-supramax-market_img_bmr363_ff4453cb5d9e.png)
 
 > **Figure 3: Bmr 3 6.3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-04_the-big-picture-supramax-market_img_bmr363_ff4453cb5d9e.png)
+> [Local Asset](assets/2021-06-04_the-big-picture-supramax-market_img_bmr363_ff4453cb5d9e.png)
 
 ### Ore-Some Growth
 
@@ -65,14 +65,14 @@ Indian iron ore exports on Supras have boomed, which is partly down to lower dom
 ![Bmr 4 6.3](assets/2021-06-04_the-big-picture-supramax-market_img_bmr463_b8a279843ec3.png)
 
 > **Figure 4: Bmr 4 6.3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-04_the-big-picture-supramax-market_img_bmr463_b8a279843ec3.png)
+> [Local Asset](assets/2021-06-04_the-big-picture-supramax-market_img_bmr463_b8a279843ec3.png)
 
 There are plenty of other positive growth stories across the smaller commodities, but the bottom line is that the geared fleet is well placed to supply re-opening economies with the wide variety of raw materials needed to get growth back on track. This is also evident in rapidly rising vessel speeds, which indicate that spare capacity is being squeezed out of the fleet where it can be.
 
 ![Bmr 5 6.3](assets/2021-06-04_the-big-picture-supramax-market_img_bmr563_f8c76b0bd92d.png)
 
 > **Figure 5: Bmr 5 6.3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-04_the-big-picture-supramax-market_img_bmr563_f8c76b0bd92d.png)
+> [Local Asset](assets/2021-06-04_the-big-picture-supramax-market_img_bmr563_f8c76b0bd92d.png)
 
 Average laden speeds for Supras jumped to 11.6 kts in May, up by 6% from 2020’s average, while ballast speeds have increased by 3% to 12.1 kts, despite bunker prices also being on the rise. At these high utilisation rates, we expect the continued global economic rebound to keep rates elevated over the next few months.
 

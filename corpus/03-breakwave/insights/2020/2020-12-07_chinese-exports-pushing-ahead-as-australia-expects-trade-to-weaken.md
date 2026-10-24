@@ -30,7 +30,7 @@ Chinese imports, on the other hand, fell short of expectations last month. While
 
 > **Figure 1: Source: China General Administration of Customs**  
 > *Source: China General Administration of Customs*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-07_chinese-exports-pushing-ahead-as-australia-expects-trade-to-weaken_img_ulf85_0cb6eeb2b8cc.png)
+> [Local Asset](assets/2020-12-07_chinese-exports-pushing-ahead-as-australia-expects-trade-to-weaken_img_ulf85_0cb6eeb2b8cc.png)
 
 The strong growth in exports have pushed the Chinese trade surplus to a new record, with previous record set in May on the back of a dip in imports. The current export strength looks likely to carry into next year, but with vaccines being rolled out a general shift from spending on medical supplies to services could see the growth in exports softening to some extent. The Chinese foreign exchange reserves have also benefited from the growing trade surplus, with current holdings at levels not seen since the third quarter of 2016. The increase in foreign exchange reserves is likely to be a welcome development for the Chinese leadership, as they are looking to develop the economy towards less dependence on global supply chains and greater autonomy.
 
@@ -39,7 +39,7 @@ In contrast to the strong export figures presented by China, Australian authorit
 ![Aus Ch](assets/2020-12-07_chinese-exports-pushing-ahead-as-australia-expects-trade-to-weaken_img_ausch_971ce2cc8d0d.jpeg)
 
 > **Figure 2: Aus Ch**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-07_chinese-exports-pushing-ahead-as-australia-expects-trade-to-weaken_img_ausch_971ce2cc8d0d.jpeg)
+> [Local Asset](assets/2020-12-07_chinese-exports-pushing-ahead-as-australia-expects-trade-to-weaken_img_ausch_971ce2cc8d0d.jpeg)
 
 Despite a rising domestic demand and prices of wheat in China, Australian officials are warning that the commodity may get caught in the ongoing trade spat and face similar restriction as other grains. However, unlike other commodities, such as barley and coal, China is not a major buyer of Australian wheat. Australia is expecting to more than double its shipments of wheat to 21 million tonnes in 2020-21, but it may be unlikely that much of that increase end up in China. Meanwhile, Chinese wheat imports are likely to reach a 25-year high, but additional quantities are likely to come from more distant producers in the US and the Black Sea region, rather than Australia. Hence, Australian wheat exporters can also be expected to seek more distant buyers for their output.
 

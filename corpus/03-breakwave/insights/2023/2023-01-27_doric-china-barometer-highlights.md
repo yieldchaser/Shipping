@@ -33,7 +33,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-27_doric-china-barometer
 ![1 (3)](assets/2023-01-27_doric-china-barometer-highlights_img_128329_de79a22fced7.png)
 
 > **Figure 1: 1 (3)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-27_doric-china-barometer-highlights_img_128329_de79a22fced7.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-01-27_doric-china-barometer-highlights_img_128329_de79a22fced7.png)
 
 ### Manufacturing 1/2
 
@@ -44,7 +44,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-27_doric-china-barometer
 ![1+(3)](assets/2023-01-27_doric-china-barometer-highlights_img_12b28329_6f7edbe6c176.png)
 
 > **Figure 2: 1+(3)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-27_doric-china-barometer-highlights_img_12b28329_6f7edbe6c176.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-01-27_doric-china-barometer-highlights_img_12b28329_6f7edbe6c176.png)
 
 ### Manufacturing 2/2
 
@@ -55,7 +55,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-27_doric-china-barometer
 ![1+%284%29](assets/2023-01-27_doric-china-barometer-highlights_img_12b252842529_b6f80e6537f2.jpg)
 
 > **Figure 3: 1+%284%29**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-27_doric-china-barometer-highlights_img_12b252842529_b6f80e6537f2.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-01-27_doric-china-barometer-highlights_img_12b252842529_b6f80e6537f2.jpg)
 
 ### Crude Oil
 
@@ -67,7 +67,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-27_doric-china-barometer
 ![1 (4)](assets/2023-01-27_doric-china-barometer-highlights_img_128429_989f444cb8a2.png)
 
 > **Figure 4: 1 (4)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-27_doric-china-barometer-highlights_img_128429_989f444cb8a2.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-01-27_doric-china-barometer-highlights_img_128429_989f444cb8a2.png)
 
 ### Iron Ore
 
@@ -81,7 +81,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-27_doric-china-barometer
 ![1 (5)](assets/2023-01-27_doric-china-barometer-highlights_img_128529_b47a4076523a.png)
 
 > **Figure 5: 1 (5)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-27_doric-china-barometer-highlights_img_128529_b47a4076523a.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-01-27_doric-china-barometer-highlights_img_128529_b47a4076523a.png)
 
 ### Coal
 
@@ -96,6 +96,6 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-27_doric-china-barometer
 ![1 (6)](assets/2023-01-27_doric-china-barometer-highlights_img_128629_8add7ed20e76.png)
 
 > **Figure 6: 1 (6)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-27_doric-china-barometer-highlights_img_128629_8add7ed20e76.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-01-27_doric-china-barometer-highlights_img_128629_8add7ed20e76.png)
 
 Data source:[Doric](https://www.doric.gr/)

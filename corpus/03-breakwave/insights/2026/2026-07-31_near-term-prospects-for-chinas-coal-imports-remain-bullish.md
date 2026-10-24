@@ -27,21 +27,21 @@ As we discussed in Commodore Research's most recent Weekly China Report, An in-d
 ![Chart 1](assets/2026-07-31_near-term-prospects-for-chinas-coal-imports-remain-bullish_img_chart1_4c947e8008bc.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-31_near-term-prospects-for-chinas-coal-imports-remain-bullish_img_chart1_4c947e8008bc.jpg)
+> [Local Asset](assets/2026-07-31_near-term-prospects-for-chinas-coal-imports-remain-bullish_img_chart1_4c947e8008bc.jpg)
 
 Consumption for power generation and heating, of course, remains the primary driver of thermal coal consumption. Consumption for power generation and heating has now increased on a year-on-year basis for six straight months. Previously, it had contracted on a year-on-year basis in three of the prior four months.
 
 ![Chart 2](assets/2026-07-31_near-term-prospects-for-chinas-coal-imports-remain-bullish_img_chart2_b6e641dff40e.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-31_near-term-prospects-for-chinas-coal-imports-remain-bullish_img_chart2_b6e641dff40e.jpg)
+> [Local Asset](assets/2026-07-31_near-term-prospects-for-chinas-coal-imports-remain-bullish_img_chart2_b6e641dff40e.jpg)
 
 Coal imports prospects are very promising for the near term. July normally sees even greater strength in power generation and heating, and even more strength is also then normally seen every August. This seasonality will occur at the same time that coal production is coming under new government-mandated pressure (due to the catastrophic coal mine accident in Shanxi province). It is also very encouraging that consumption for power generation and heating has increased on a year-on-year basis during each of the last six months.
 
 ![Chart 3](assets/2026-07-31_near-term-prospects-for-chinas-coal-imports-remain-bullish_img_chart3_08cbf48b68cb.jpg)
 
 > **Figure 3: Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-31_near-term-prospects-for-chinas-coal-imports-remain-bullish_img_chart3_08cbf48b68cb.jpg)
+> [Local Asset](assets/2026-07-31_near-term-prospects-for-chinas-coal-imports-remain-bullish_img_chart3_08cbf48b68cb.jpg)
 
 ---
 

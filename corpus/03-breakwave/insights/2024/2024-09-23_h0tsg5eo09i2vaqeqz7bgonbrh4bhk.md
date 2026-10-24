@@ -65,7 +65,7 @@ The current downward trend for weekly cargo order volumes for coal bound for Chi
 ![Στιγμιότυπο Οθόνης 2024 09 23 174601](assets/2024-09-23_h0tsg5eo09i2vaqeqz7bgonbrh4bhk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51da2577234a.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 23 174601**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-23_h0tsg5eo09i2vaqeqz7bgonbrh4bhk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51da2577234a.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-09-23_h0tsg5eo09i2vaqeqz7bgonbrh4bhk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51da2577234a.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

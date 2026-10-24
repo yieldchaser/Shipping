@@ -25,7 +25,7 @@ Sinokor has positioned itself as the single largest VLCC commercial operator - a
 ![Στιγμιότυπο Οθόνης 2026 02 24 111656](assets/2026-02-24_vlccs-entering-the-sinokor-era_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b6866cc820ea.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 02 24 111656**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-24_vlccs-entering-the-sinokor-era_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b6866cc820ea.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-02-24_vlccs-entering-the-sinokor-era_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b6866cc820ea.png)
 
 ### Executive Overview
 
@@ -38,7 +38,7 @@ Data derived from the Signal Ocean Platform (TSOP) were used to evaluate the imp
 ![Market Chart 2](assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed_76f71cf61dc3.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed_76f71cf61dc3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed_76f71cf61dc3.png)
 
 ## Sinokor's Strategic Expansion
 
@@ -51,7 +51,7 @@ The aggressive expansion is noteworthy, as the decision coincides with an upward
 ![Market Chart 3](assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28129_5c5dcff084fc.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28129_5c5dcff084fc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28129_5c5dcff084fc.png)
 
 ## Mapping the New VLCC Commercial Order
 
@@ -68,7 +68,7 @@ Following the dissolution of that partnership in January 2026, Sinokor consolida
 ![Market Chart 4](assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28229_946e0e47bc02.png)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28229_946e0e47bc02.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28229_946e0e47bc02.png)
 
 ## Unprecedented Concentration in the VLCC Spot Market
 
@@ -83,7 +83,7 @@ This development marks a fundamental change in the competitive dynamics of the V
 ![Market Chart 5](assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28329_12c9fd86e1bb.png)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28329_12c9fd86e1bb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28329_12c9fd86e1bb.png)
 
 ## Sinokor Fleet Age Profile vs. Major VLCC Operators
 
@@ -94,7 +94,7 @@ TSOP data show that Sinokor's fleet has an average age of 12.6 years, with rough
 ![Market Chart 6](assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28429_4bf90377c28c.png)
 
 > **Figure 6: Market Chart 6**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28429_4bf90377c28c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-02-24_vlccs-entering-the-sinokor-era_img_unnamed28429_4bf90377c28c.png)
 
 ### Key Takeaway
 

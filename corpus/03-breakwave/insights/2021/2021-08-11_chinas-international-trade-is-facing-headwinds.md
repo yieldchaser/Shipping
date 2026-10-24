@@ -31,7 +31,7 @@ According to cargo tracking data from Oceanbolt, China’s seaborne iron ore imp
 ![A1](assets/2021-08-11_chinas-international-trade-is-facing-headwinds_img_a1_7cf364302b27.png)
 
 > **Figure 1: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-11_chinas-international-trade-is-facing-headwinds_img_a1_7cf364302b27.png)
+> [Local Asset](assets/2021-08-11_chinas-international-trade-is-facing-headwinds_img_a1_7cf364302b27.png)
 
 Chinese attempts to reduce, at least marginally, its reliance on Australian iron ore, also showed during the second quarter. While the total seaborne volumes fell by two per cent, Australian shipments discharged in Chinese ports dropped by five per cent. At the same time, Brazilian consignments increased by two per cent. Many other lesser suppliers, such as India and Peru, also saw their shipments to China increase during the second quarter. Malaysia also saw its exports to China doubling during the last quarter, but with its role as a transhipment hub, much of the cargoes are of Brazilian origin. Hence, the shipments are contributing to increasing tonne-mile demand.
 
@@ -40,19 +40,19 @@ The decreasing volumes of iron ore discharged in Chinese ports are also contribu
 ![A2](assets/2021-08-11_chinas-international-trade-is-facing-headwinds_img_a2_4a6ac0d3c526.png)
 
 > **Figure 2: A2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-11_chinas-international-trade-is-facing-headwinds_img_a2_4a6ac0d3c526.png)
+> [Local Asset](assets/2021-08-11_chinas-international-trade-is-facing-headwinds_img_a2_4a6ac0d3c526.png)
 
 ![A3](assets/2021-08-11_chinas-international-trade-is-facing-headwinds_img_a3_8139bd8256ac.png)
 
 > **Figure 3: A3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-11_chinas-international-trade-is-facing-headwinds_img_a3_8139bd8256ac.png)
+> [Local Asset](assets/2021-08-11_chinas-international-trade-is-facing-headwinds_img_a3_8139bd8256ac.png)
 
 For coal, the picture is rather different, with seaborne imports maintaining positive momentum with increasing volumes despite rising prices. After last year’s import restrictions, and subsequent shortage, imports have been boosted and the first half of the year saw nine per cent more coal offloaded in Chinese ports. The third quarter also appears to be on course to exceed last year’s third-quarter volumes, with almost 60 per cent already discharged. Seaborne imports have benefited from reduced Chinese output in the wake of increasing safety inspections and pollution restrictions, but with many mines recently allowed to resume production the volumes look set to recover. However, with last winter’s shortages in fresh memory seaborne volumes are likely to remain healthy. Especially, as they, at around 250 million tonnes, are a fairly small portion of China’s annual domestic production of 3.8 billion tonnes.
 
 ![A4](assets/2021-08-11_chinas-international-trade-is-facing-headwinds_img_a4_83b4d711cdbd.png)
 
 > **Figure 4: A4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-11_chinas-international-trade-is-facing-headwinds_img_a4_83b4d711cdbd.png)
+> [Local Asset](assets/2021-08-11_chinas-international-trade-is-facing-headwinds_img_a4_83b4d711cdbd.png)
 
 ---
 

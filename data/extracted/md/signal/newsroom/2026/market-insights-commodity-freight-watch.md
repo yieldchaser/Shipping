@@ -38,7 +38,7 @@ Key factors in dry bulk include Chinese and Indian coal policies, Indonesian exp
 ![Maria Bertzeletou | Senior Market Analyst | 23 October 2026](../../images/6adb1156203c4cd3caa95aa6_929e61fd.png)
 
 > **Figure 1: Maria Bertzeletou | Senior Market Analyst | 23 October 2026**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-commodity-freight-watch) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6adb1156203c4cd3caa95aa6_929e61fd.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-commodity-freight-watch) | [Local Asset](../../../../../../corpus/07-signal/images/6adb1156203c4cd3caa95aa6_929e61fd.png)
 
 
 ## Spotlight of the Week | Grain
@@ -49,7 +49,7 @@ Key factors in dry bulk include Chinese and Indian coal policies, Indonesian exp
 ![Spotlight of the Week | Grain](../../images/6adb11909b5c326f4e74be59_7e85302e.png)
 
 > **Figure 2: Spotlight of the Week | Grain**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-commodity-freight-watch) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6adb11909b5c326f4e74be59_7e85302e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-commodity-freight-watch) | [Local Asset](../../../../../../corpus/07-signal/images/6adb11909b5c326f4e74be59_7e85302e.png)
 
 **Chinese soybean purchases strengthen the US forward cargo book.** USDA reported **558,000 tonnes** of soybean sales to China on 16 October, following **330,000 tonnes** on 15 October. China-designated sales announced during 14–16 October reached **1.36 million tonnes** for the 2026/27 marketing year. Additional sales included 236,000 tonnes of soybeans to unknown destinations and 127,000 tonnes of corn to Japan. These commitments support future US grain export programmes, although their contribution to Panamax and Kamsarmax employment will depend on shipment dates and loading ports.
 
@@ -86,7 +86,7 @@ Geopolitical disruptions are reshaping the geography of seaborne crude trade, wi
 ![Oil | Crude Flows in Focus](../../images/6adb12a77f8279abadfd3bbb_371066af.png)
 
 > **Figure 3: Oil | Crude Flows in Focus**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-commodity-freight-watch) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6adb12a77f8279abadfd3bbb_371066af.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-commodity-freight-watch) | [Local Asset](../../../../../../corpus/07-signal/images/6adb12a77f8279abadfd3bbb_371066af.png)
 
 **2025** - Saudi Arabia held the largest share of seaborne crude origins at 13.6%, ahead of Russia (10.9%) and the United States (8.3%). China accounted for 22.9% of destinations, more than twice India's 10.6% share. At the loading-port level, Ras Tanura led with 11.3%, reflecting the importance of Saudi export infrastructure in the distribution of crude cargoes.
 

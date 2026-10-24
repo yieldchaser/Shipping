@@ -35,7 +35,7 @@ Weaker thermal generation and improving daily mine output favour the lower part 
 
 > **Figure 1: China Seaborne Thermal Coal Importssource: Signal Voyage API; Analyst Assumption**  
 > *Figure 1 China seaborne thermal coal importsSource: Signal Voyage API; Analyst Assumption. Solid lines show monthly arrivals in 2024–2026. Grey shading marks provisional July–August 2026 observations. The single dashed line shows the September–December reference under a 720 Mt Indonesian production scenario.The reference assumes domestic allocations of 259.5 Mt, no net inventory change, a fixed trade relationship and unchanged other-origin purchasing pace. Its monthly profile follows historical patterns. It illustrates supply availability, not a forecast of Chinese buying.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-thermal-coal-import-outlook-and-indonesian-supply-assumptions) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab0eef507429862525ce536_5108a543.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-thermal-coal-import-outlook-and-indonesian-supply-assumptions) | [Local Asset](../../images/6ab0eef507429862525ce536_5108a543.png)
 
 
 ## Improving Mine Supply Could Curb Replacement Buying
@@ -49,7 +49,7 @@ Mine output is recovering from July’s low. Average daily raw-coal production r
 
 > **Figure 2: Thermal Generation Weakened as Daily Mine Output Recoveredsource: NBS, July and August 2026 Energy-Production Releases, Published 17 August and 15 September**  
 > *Figure 2 Thermal generation weakened as daily mine output recoveredSource: NBS, July and August 2026 energy-production releases, published 17 August and 15 September. Generation changes are measured year on year for each source and should not be added together. Both series cover industrial enterprises above designated size; raw coal includes all coal types.For coastal buyers, the decisive issue is whether the recovery improves deliveries of the required coal grades at a competitive price. Better mine and rail supply would reduce replacement imports. Low utility stocks, constrained deliveries or cheaper imported cargoes could sustain purchasing even while thermal generation is weaker.These observations inform the outlook range rather than a precise import requirement. Utility inventories and delivered price comparisons are needed to judge the next buying round; neither is measured in the supply reference.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-thermal-coal-import-outlook-and-indonesian-supply-assumptions) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab0eef507429862525ce533_e0c2c751.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-thermal-coal-import-outlook-and-indonesian-supply-assumptions) | [Local Asset](../../images/6ab0eef507429862525ce533_e0c2c751.png)
 
 
 ## Panamax Resilience Depends Heavily on Indonesian Cargoes
@@ -63,7 +63,7 @@ Panamax carried 132.7 Mt over the eight months, up 1.9% year on year, while Supr
 
 > **Figure 3: Indonesian Origins Dominate as Vessel Segments Diverge.source: Signal Voyage API**  
 > *Figure 3 Indonesian origins dominate as vessel segments diverge.Source: Signal Voyage API. Chinese seaborne thermal coal imports. July–August shipments are provisional. Other origins are the remainder of the Panamax total.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-thermal-coal-import-outlook-and-indonesian-supply-assumptions) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab0eef507429862525ce539_f248925b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-thermal-coal-import-outlook-and-indonesian-supply-assumptions) | [Local Asset](../../images/6ab0eef507429862525ce539_f248925b.png)
 
 Panamax voyage records rose from 1,845 to 1,861, an increase of about 0.9%, below the 1.9% gain in tonnes. The difference is consistent with slightly larger average cargoes. Tonnage growth consequently overstates the increase in the number of recorded voyages, and those records should not be treated as a count of new fixtures.
 
@@ -88,7 +88,7 @@ Our 300–315 Mt upside sensitivity requires stronger purchasing and additional 
 
 > **Figure 4: Source: Signal Voyage API; Analyst Assumption**  
 > *Source: Signal Voyage API; Analyst Assumption. Ranges are judgemental assessments, not statistical confidence intervals. The 720 Mt production reference is a conditional calculation. The supply-disruption stress is shown separately from the central range.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-thermal-coal-import-outlook-and-indonesian-supply-assumptions) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab0eec3abeb553d4e8983ac_Screenshot 2026-09-21 at 09.45.37.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-thermal-coal-import-outlook-and-indonesian-supply-assumptions) | [Local Asset](../../images/6ab0eec3abeb553d4e8983ac_Screenshot 2026-09-21 at 09.45.37.png)
 
 
 ## Cargo Programmes Will Determine the Freight Response

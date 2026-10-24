@@ -31,7 +31,7 @@ Round the clock 24/7 data acquisition from all available sources provides a rich
 ![Ch1.jpg](assets/2022-02-12_artificial-intelligence-and-machine-learning-offer-value-to-the-shipping-communi_img_ch1jpg_f77fe34601c8.png)
 
 > **Figure 1: Ch1.jpg**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-12_artificial-intelligence-and-machine-learning-offer-value-to-the-shipping-communi_img_ch1jpg_f77fe34601c8.png)
+> [Local Asset](assets/2022-02-12_artificial-intelligence-and-machine-learning-offer-value-to-the-shipping-communi_img_ch1jpg_f77fe34601c8.png)
 
 The volume of data produced by all kinds of equipment is so large at the time being that specialized techniques and methodologies have been implemented in order to handle, process and utilize them. Machine Learning as the dominant technology that represents the concepts of Artificial Intelligence, consists of a set of algorithms, tools and techniques, optimized to handle big data in a way that mimics the human learning process. More specifically, the process involves the utilization of existing datasets to develop models that will learn to recognize trends and patterns that couldn’t be noticed with other methods, in order to be able to identify and predict future behaviors. Significant part of the process is that the models are retrained by themselves, thus shelf-improving their accuracy and intelligence.
 
@@ -40,7 +40,7 @@ However, the greatest innovation that offers an invaluable competitive advantage
 ![Ch2](assets/2022-02-12_artificial-intelligence-and-machine-learning-offer-value-to-the-shipping-communi_img_ch2_2a296b75b48e.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-12_artificial-intelligence-and-machine-learning-offer-value-to-the-shipping-communi_img_ch2_2a296b75b48e.png)
+> [Local Asset](assets/2022-02-12_artificial-intelligence-and-machine-learning-offer-value-to-the-shipping-communi_img_ch2_2a296b75b48e.png)
 
 In practice, the solutions powered by such digital technologies essentially set the artificial intelligence in the service of the shipping community. Any shipowner monitors in real time a wide range of vessel parameters, records thousands of signals, combines data from third party services (weather providers, AIS) and is able as using a “virtual personal assistant” to make valuable conclusions, reply to ad-hoc queries and requests of any kind, send notifications about critical events and prepare personalized per user/department reports.
 

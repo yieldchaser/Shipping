@@ -42,7 +42,7 @@ At the same time, headline and core inflation has continued to decline from its 
 ![Market Chart 1](assets/2024-01-17_the-big-picture-world-bank-diverging-prospects-in-the-global-economy_img_image00128429_975f75ec5637.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-17_the-big-picture-world-bank-diverging-prospects-in-the-global-economy_img_image00128429_975f75ec5637.png)
+> [Local Asset](assets/2024-01-17_the-big-picture-world-bank-diverging-prospects-in-the-global-economy_img_image00128429_975f75ec5637.png)
 
 At the timing of the report’s writing, hostilities in the Middle East were assessed to have had only a “muted” impact on commodity prices. On the (admittedly large) assumption that the conflict does not escalate, the World Bank assumes oil prices will edge lower this year.
 
@@ -51,7 +51,7 @@ Food prices too are expected to soften further in 2024 thanks to ample supplies.
 ![Market Chart 2](assets/2024-01-17_the-big-picture-world-bank-diverging-prospects-in-the-global-economy_img_image00228329_feaecf86226f.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-17_the-big-picture-world-bank-diverging-prospects-in-the-global-economy_img_image00228329_feaecf86226f.png)
+> [Local Asset](assets/2024-01-17_the-big-picture-world-bank-diverging-prospects-in-the-global-economy_img_image00228329_feaecf86226f.png)
 
 ### Negatives
 
@@ -68,7 +68,7 @@ Weather events and climate change feature as a downside risk, with last year’s
 ![Market Chart 3](assets/2024-01-17_the-big-picture-world-bank-diverging-prospects-in-the-global-economy_img_image00328229_3fe4d95af6b0.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-17_the-big-picture-world-bank-diverging-prospects-in-the-global-economy_img_image00328229_3fe4d95af6b0.png)
+> [Local Asset](assets/2024-01-17_the-big-picture-world-bank-diverging-prospects-in-the-global-economy_img_image00328229_3fe4d95af6b0.png)
 
 **China’s prospects deserve particular attention.**
 

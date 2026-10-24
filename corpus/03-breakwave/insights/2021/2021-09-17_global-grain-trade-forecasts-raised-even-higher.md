@@ -27,28 +27,28 @@ Global grain trade prospects still remain just one of many bullish facets of the
 ![Ch1 Jef](assets/2021-09-17_global-grain-trade-forecasts-raised-even-higher_img_ch1jef_e08f0d0f4c62.jpg)
 
 > **Figure 1: Ch1 Jef**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-17_global-grain-trade-forecasts-raised-even-higher_img_ch1jef_e08f0d0f4c62.jpg)
+> [Local Asset](assets/2021-09-17_global-grain-trade-forecasts-raised-even-higher_img_ch1jef_e08f0d0f4c62.jpg)
 
 Global wheat exports are expected to total 199.7 million tons. This is 1.5 million tons (1%) more than was forecast a month ago and would mark a year-on-year increase of 100,000 tons.
 
 ![Ch2 Jef](assets/2021-09-17_global-grain-trade-forecasts-raised-even-higher_img_ch2jef_8dc2a5981533.jpg)
 
 > **Figure 2: Ch2 Jef**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-17_global-grain-trade-forecasts-raised-even-higher_img_ch2jef_8dc2a5981533.jpg)
+> [Local Asset](assets/2021-09-17_global-grain-trade-forecasts-raised-even-higher_img_ch2jef_8dc2a5981533.jpg)
 
 In addition, global soybean exports (soybeans are not technically classified as a grain) are expected to total 173.2 million tons. This is 900,000 tons (1%) more than was forecast a month ago and would mark a year-on-year increase of 7.4 million tons (4%).
 
 ![Ch3 Jef](assets/2021-09-17_global-grain-trade-forecasts-raised-even-higher_img_ch3jef_59feda8539cc.jpg)
 
 > **Figure 3: Ch3 Jef**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-17_global-grain-trade-forecasts-raised-even-higher_img_ch3jef_59feda8539cc.jpg)
+> [Local Asset](assets/2021-09-17_global-grain-trade-forecasts-raised-even-higher_img_ch3jef_59feda8539cc.jpg)
 
 Global soymeal exports are expected to total 70.6 million tons. This is 400,000 tons (1%) more than was forecast a month ago and would mark a year-on-year increase of 1.2 million tons (2%).
 
 ![Ch4jef](assets/2021-09-17_global-grain-trade-forecasts-raised-even-higher_img_ch4jef_6532f6c049c9.jpg)
 
 > **Figure 4: Ch4jef**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-17_global-grain-trade-forecasts-raised-even-higher_img_ch4jef_6532f6c049c9.jpg)
+> [Local Asset](assets/2021-09-17_global-grain-trade-forecasts-raised-even-higher_img_ch4jef_6532f6c049c9.jpg)
 
 ---
 

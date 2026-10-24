@@ -33,7 +33,7 @@ China's hydropower production totaled only 68.4 billion kilowatt hours last mont
 ![241](assets/2023-04-21_chinas-coal-output-sets-another-record-hydropower-output-remains-low_img_241_afd13f6ecfc3.png)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-21_chinas-coal-output-sets-another-record-hydropower-output-remains-low_img_241_afd13f6ecfc3.png)
+> [Local Asset](assets/2023-04-21_chinas-coal-output-sets-another-record-hydropower-output-remains-low_img_241_afd13f6ecfc3.png)
 
 ---
 

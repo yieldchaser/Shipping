@@ -32,8 +32,8 @@ On the crude side, we may see a pickup in exports from the U.S. when domestic re
 
 ![Exhibit 1: Do We Need To Plan For A Diesel Export Ban](../../../charts/poten/2026/poten_2026-09-25_do-we-need-to-plan-for-a-diesel-export-ban_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-09-25_do-we-need-to-plan-for-a-diesel-export-ban_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2026/poten_2026-09-25_do-we-need-to-plan-for-a-diesel-export-ban_chart1.png)
 
 ![Exhibit 2: Do We Need To Plan For A Diesel Export Ban](../../../charts/poten/2026/poten_2026-09-25_do-we-need-to-plan-for-a-diesel-export-ban_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2026/poten_2026-09-25_do-we-need-to-plan-for-a-diesel-export-ban_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../charts/poten/2026/poten_2026-09-25_do-we-need-to-plan-for-a-diesel-export-ban_chart2.png)

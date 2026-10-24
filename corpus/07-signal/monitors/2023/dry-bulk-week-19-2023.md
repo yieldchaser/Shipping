@@ -31,7 +31,7 @@ tags:
 ![‍rise in April to Highest Level in a Year, with Dharma the Top Destination Port](../../images/645c8bc5a9079dbcfd4fd7bf_chart of the week dry logo.png)
 
 > **Figure 1: ‍rise in April to Highest Level in a Year, with Dharma the Top Destination Port**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-bulk-week-19-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/645c8bc5a9079dbcfd4fd7bf_chart of the week dry logo.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-bulk-week-19-2023) | [Local Asset](../../images/645c8bc5a9079dbcfd4fd7bf_chart of the week dry logo.png)
 
 In the second week of May, we saw weaker dynamics in freight rates, with the Capesize segment registering some firmness. Interestingly, the Indian economy is seeing strong South African coal imports, with the Capesize segment gaining strength in this type of trade, with recent weekly volumes reaching their highest levels in the last year. (See chart of 25-day moving average above left). In the previous month, the Capesize and Panamax segments reached peak levels in shipments of South African coal for the Indian economy.
 

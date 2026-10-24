@@ -27,7 +27,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-02-12_elevated-tensions-in-
 ![Screenshot 2024 02 12 11.48.24](assets/2024-02-12_elevated-tensions-in-middle-east-push-oil-prices-higher_img_screenshot2024-02-12114824_201cae98df0a.png)
 
 > **Figure 1: Screenshot 2024 02 12 11.48.24**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-12_elevated-tensions-in-middle-east-push-oil-prices-higher_img_screenshot2024-02-12114824_201cae98df0a.png)
+> [Local Asset](assets/2024-02-12_elevated-tensions-in-middle-east-push-oil-prices-higher_img_screenshot2024-02-12114824_201cae98df0a.png)
 
 **Crude oil**rallied last week as the prospect of a ceasefire agreement in Gaza diminished. Israel’s Prime Minister, Benjamin Netanyahu, said that he sees no other solution than total victory, following a counterproposal from Hamas for a hostage and ceasefire agreement. He also ordered another military push in southern Gaza, raising the risk of an escalation in the conflict. Risks were magnified as Houthi rebels increased their attacks on merchant ships in the Red Sea. Positive fundamentals also boosted sentiment. US gasoline inventories were drawn down sharply last week while its premium over crude increased to its highest level since September, signalling strong demand.
 

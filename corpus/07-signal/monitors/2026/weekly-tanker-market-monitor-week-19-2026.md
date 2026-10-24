@@ -35,7 +35,7 @@ Asset market anomaly - not just freight
 
 > **Figure 1: Indicative Benchmark Valuations by Age Profile**  
 > *Indicative benchmark valuations by age profile*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-19-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69fc67022b88f96aecc1d844_5ac97103.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-19-2026) | [Local Asset](../../images/69fc67022b88f96aecc1d844_5ac97103.png)
 
 We take a closer look at the evolution of ship price assessment in the crude carrier segment. At the end of [February,](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) we highlighted growth in values for the VLCC segment and foresaw an upward trend, despite the threat of geopolitical risk at the time. We also highlighted the age discount tightening and the narrowing of the spread between five- and ten-year-old vessels, with buyers’ interest in mid-aged tonnage. Now, after more than 60 days of Hormuz disruption, we review the evolution again, and it seems that the age depreciation curve has been lost.
 
@@ -45,20 +45,20 @@ In normal conditions, a resale vessel earns a modest premium for saved wait time
 ![Spotlight |asset Benchmark Assessments — Nb vs 5y & Nb vs Resale](../../images/69fc67022b88f96aecc1d856_f20268e7.png)
 
 > **Figure 2: Spotlight |asset Benchmark Assessments — Nb vs 5y & Nb vs Resale**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-19-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69fc67022b88f96aecc1d856_f20268e7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-19-2026) | [Local Asset](../../images/69fc67022b88f96aecc1d856_f20268e7.png)
 
 
 ![Spotlight |asset Benchmark Assessments — Nb vs 5y & Nb vs Resale](../../images/69fc67022b88f96aecc1d841_a59466b9.png)
 
 > **Figure 3: Spotlight |asset Benchmark Assessments — Nb vs 5y & Nb vs Resale**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-19-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69fc67022b88f96aecc1d841_a59466b9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-19-2026) | [Local Asset](../../images/69fc67022b88f96aecc1d841_a59466b9.png)
 
 
 ![Benchmark Methodologyvaluations for Newbuilds, Resale, and Age-Specific Benchmarks Are Derived From Statistical Models Based on Benchmark Vessels per Vessel Class.· VLCC Benchmark: 310k DWT (44,170 Lwt), Built in Korea · Suezmax Benchmark: 157k DWT (24,387 Lwt), Built in Korea · Aframax Benchmark: 114k DWT (18,899 Lwt), Built in Korea](../../images/69fc67022b88f96aecc1d85c_40ba127a.png)
 
 > **Figure 4: Benchmark Methodologyvaluations for Newbuilds, Resale, and Age-Specific Benchmarks Are Derived From Statistical Models Based on Benchmark Vessels per Vessel Class.· VLCC Benchmark: 310k DWT (44,170 Lwt), Built in Korea · Suezmax Benchmark: 157k DWT (24,387 Lwt), Built in Korea · Aframax Benchmark: 114k DWT (18,899 Lwt), Built in Korea**  
 > *Benchmark MethodologyValuations for newbuilds, resale, and age-specific benchmarks are derived from statistical models based on benchmark vessels per vessel class.· VLCC benchmark: 310k dwt (44,170 lwt), built in Korea · Suezmax benchmark: 157k dwt (24,387 lwt), built in Korea · Aframax benchmark: 114k dwt (18,899 lwt), built in Korea*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-19-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69fc67022b88f96aecc1d85c_40ba127a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-19-2026) | [Local Asset](../../images/69fc67022b88f96aecc1d85c_40ba127a.png)
 
 
 ## Vessel Crossings | May Observations
@@ -69,7 +69,7 @@ Disruption in the Middle East has continued to dominate oil and tanker market dy
 ![Vessel Crossings | May Observations](../../images/69fc67022b88f96aecc1d84d_b98a79ad.png)
 
 > **Figure 5: Vessel Crossings | May Observations**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-19-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69fc67022b88f96aecc1d84d_b98a79ad.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-19-2026) | [Local Asset](../../images/69fc67022b88f96aecc1d84d_b98a79ad.png)
 
 
 ## Transits on Iranian Waters
@@ -109,7 +109,7 @@ Two producer-side developments complicate the picture. The UAE's departure from 
 ![Freight | VLCC Latest Signal Trends](../../images/69fc67022b88f96aecc1d847_4a74bb04.png)
 
 > **Figure 6: Freight | VLCC Latest Signal Trends**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-19-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69fc67022b88f96aecc1d847_4a74bb04.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-19-2026) | [Local Asset](../../images/69fc67022b88f96aecc1d847_4a74bb04.png)
 
 With Atlantic freight markets increasingly driven by supply-side signals, one clear trend has been the growing number of ballast VLCCs in the US Gulf. Average vessel counts have risen toward the 60 mark, contributing to the downward pressure on rates observed at the start of May.
 
@@ -118,7 +118,7 @@ With Atlantic freight markets increasingly driven by supply-side signals, one cl
 
 > **Figure 7: Https://app.signalocean.com/tanker/dynamic/vesselcounttanker**  
 > *https://app.signalocean.com/tanker/dynamic/vessel_count_tanker*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-19-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69fc67022b88f96aecc1d850_29354204.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-19-2026) | [Local Asset](../../images/69fc67022b88f96aecc1d850_29354204.png)
 
 Based on the current supply levels, the TD22 route has shown an increasing trend over the last 15 days, with the daily vessel count now more than 20, compared with a record low of 2 at the start of April.
 
@@ -126,7 +126,7 @@ Based on the current supply levels, the TD22 route has shown an increasing trend
 ![Freight | VLCC Latest Signal Trends](../../images/69fc67022b88f96aecc1d853_07f58faf.png)
 
 > **Figure 8: Freight | VLCC Latest Signal Trends**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-19-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69fc67022b88f96aecc1d853_07f58faf.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-19-2026) | [Local Asset](../../images/69fc67022b88f96aecc1d853_07f58faf.png)
 
 Current monthly freight metrics indicate a 34% decline, though the year-on-year increase remains substantial at 78%. While net supply has been trending upward since mid-April, this has not yet translated into a significant market correction. However, the rapid buildup of ballasting vessels may begin to exert more downward pressure in the near term. A review of the net supply over the past 15 days shows that the West African (TD15) route is experiencing a downward trend; despite this, market sentiment for the current week remains stable with no notable volatility.
 
@@ -135,7 +135,7 @@ Current monthly freight metrics indicate a 34% decline, though the year-on-year 
 
 > **Figure 9: Https://app.signalocean.com/tanker/dynamic/vlccinsightsdownloadable**  
 > *https://app.signalocean.com/tanker/dynamic/vlcc_insights_downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-19-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69fc67022b88f96aecc1d859_b97c34d2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-19-2026) | [Local Asset](../../images/69fc67022b88f96aecc1d859_b97c34d2.png)
 
 For freight markets, the impact is less about a complete halt in global flows and more about the severe distortion of vessel availability and trade patterns caused by the dual-sided blockade of the Strait of Hormuz. The combination of physical transit restrictions, unresolved mine risk, elevated war risk premiums, and the absence of reliable freedom of navigation has effectively prevented a large share of the mainstream international tanker fleet from operating through the region. This has accelerated the reallocation of vessels from the Gulf toward the Atlantic Basin, reinforcing the role of the US Gulf as a key marginal supplier, particularly into Asia, and driving a substantial increase in tonne-mile demand as longer haul Atlantic routes replace disrupted Middle Eastern exports.
 
@@ -144,7 +144,7 @@ For freight markets, the impact is less about a complete halt in global flows an
 
 > **Figure 10: Https://app.signalocean.com/tanker/dynamic/timeseriestanker**  
 > *https://app.signalocean.com/tanker/dynamic/timeseries_tanker*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-19-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69fc67022b88f96aecc1d84a_4cedca7b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-19-2026) | [Local Asset](../../images/69fc67022b88f96aecc1d84a_4cedca7b.png)
 
 For the latest updates and insights, make sure to visit the [Signal Ocean Newsroom](https://www.thesignalgroup.com/newsroom) page & [subscribe to weekly reports](http://www.thesignalgroup.com/subscribe). Click [here to request a demo](https://www.thesignalgroup.com/request-demo?utm\_source=oceanhome&utm\_medium=website&utm\_campaign=demo). Click here to see the[previous tanker weekly](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-14-2026) report.
 

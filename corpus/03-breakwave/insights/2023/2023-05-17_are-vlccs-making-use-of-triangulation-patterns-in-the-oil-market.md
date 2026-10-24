@@ -33,7 +33,7 @@ The VLCC routes we investigated consisted of the main VLCC routes, namely: TD1 (
 
 > **Figure 1: Proportion of Cases Displaying Various Behaviour Types**  
 > *Proportion of cases displaying various behaviour types*  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/product-api-and-sdk/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-17_are-vlccs-making-use-of-triangulation-patterns-in-the-oil-market_img_chart1-1-1024x739_f8e2697a6732.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/product-api-and-sdk/) | [Local Asset](assets/2023-05-17_are-vlccs-making-use-of-triangulation-patterns-in-the-oil-market_img_chart1-1-1024x739_f8e2697a6732.png)
 
 According to data from our[Freight API/SDK](https://www.vortexa.com/product-api-and-sdk/), VLCCs operating on TD1 and TD3C tend to perform round voyages, with ballasters very rarely heading to destinations other than the Middle East. This pattern persists today (particularly on TD3C), despite the trade shifts that have occurred due to Russia-related reshuffling. Additionally, the newfound VLCC activity on TD25 has turned out to be largely made up of round voyages between the US and Europe. That said, we did pick up some signs of triangulation on other routes.
 
@@ -49,7 +49,7 @@ Although we found these triangulation patterns, they were very rare, and were of
 
 > **Figure 2: VLCC Voyage Durations (Days) per Voyage Status**  
 > *VLCC voyage durations (days) per voyage status*  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2021-01-01T00%3A00%3A00.000Z__2023-05-07T23%3A59%3A59.999Z&latestProducts=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&page=FleetUtilisation&primaryChartView1=line&primaryChartView3=bar&primarySplitProperty2=origin_shipping_region&primaryTimeSeries1=utilisation&primaryTimeSeries2=tonne-miles&primaryTimeSeries3=tonne-days&secondaryTimeSeries1=hide&tabId=46d966b9-07a9-4569-a584-3fc8a0c9aaf5&v=3&vesselClasses=%5B%22vlcc_plus%22%5D&voyageStatus=%5B%22laden%22%5D) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-17_are-vlccs-making-use-of-triangulation-patterns-in-the-oil-market_img_chart2-1-1024x730_0a65f5687462.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2021-01-01T00%3A00%3A00.000Z__2023-05-07T23%3A59%3A59.999Z&latestProducts=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&page=FleetUtilisation&primaryChartView1=line&primaryChartView3=bar&primarySplitProperty2=origin_shipping_region&primaryTimeSeries1=utilisation&primaryTimeSeries2=tonne-miles&primaryTimeSeries3=tonne-days&secondaryTimeSeries1=hide&tabId=46d966b9-07a9-4569-a584-3fc8a0c9aaf5&v=3&vesselClasses=%5B%22vlcc_plus%22%5D&voyageStatus=%5B%22laden%22%5D) | [Local Asset](assets/2023-05-17_are-vlccs-making-use-of-triangulation-patterns-in-the-oil-market_img_chart2-1-1024x730_0a65f5687462.png)
 
 As a result of their preference for round voyages, VLCCs across the globe seem to be splitting laden and ballast time down the middle, which is evident in laden and ballast voyage duration being very similar. The slight downward trend in durations (see chart above) can likely be attributed to the increasing tendency of vessels to operate round voyages on TD3C, which has seen a steadily increasing number of completed voyages since H2 of 2022 (see chart below).
 
@@ -57,7 +57,7 @@ As a result of their preference for round voyages, VLCCs across the globe seem t
 
 > **Figure 3: Monthly Number of Completed VLCC Voyages per Route (No**  
 > *Monthly number of completed VLCC voyages per route (no. of voyages)*  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2021-01-01T00%3A00%3A00.000Z__2023-05-07T23%3A59%3A59.999Z&latestProducts=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&page=FleetUtilisation&primaryChartView1=line&primaryChartView3=bar&primarySplitProperty2=origin_shipping_region&primaryTimeSeries1=utilisation&primaryTimeSeries2=tonne-miles&primaryTimeSeries3=tonne-days&secondaryTimeSeries1=hide&tabId=46d966b9-07a9-4569-a584-3fc8a0c9aaf5&v=3&vesselClasses=%5B%22vlcc_plus%22%5D&voyageStatus=%5B%22laden%22%5D) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-17_are-vlccs-making-use-of-triangulation-patterns-in-the-oil-market_img_chart3-1024x741_e5e46329dab9.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/?dateRange=2021-01-01T00%3A00%3A00.000Z__2023-05-07T23%3A59%3A59.999Z&latestProducts=%5B%2254af755a090118dcf9b0724c9a4e9f14745c26165385ffa7f1445bc768f06f11%22%5D&page=FleetUtilisation&primaryChartView1=line&primaryChartView3=bar&primarySplitProperty2=origin_shipping_region&primaryTimeSeries1=utilisation&primaryTimeSeries2=tonne-miles&primaryTimeSeries3=tonne-days&secondaryTimeSeries1=hide&tabId=46d966b9-07a9-4569-a584-3fc8a0c9aaf5&v=3&vesselClasses=%5B%22vlcc_plus%22%5D&voyageStatus=%5B%22laden%22%5D) | [Local Asset](assets/2023-05-17_are-vlccs-making-use-of-triangulation-patterns-in-the-oil-market_img_chart3-1024x741_e5e46329dab9.png)
 
 ### Will Triangulation Behaviour Increase?
 

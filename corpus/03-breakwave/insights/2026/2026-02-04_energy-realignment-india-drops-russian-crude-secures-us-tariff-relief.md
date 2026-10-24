@@ -30,7 +30,7 @@ On Monday, 2nd February 2026, U.S. President Donald Trump announced a new trade 
 ![Market Chart 1](assets/2026-02-04_energy-realignment-india-drops-russian-crude-secures-us-tariff-relief_img_unnamed28929_700ef5f90aa4.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/er-market-monitor-week-04-2026/2rtjdz/575211467/h/Y58Ykbd733mKxvaWFfe8usIQjtXIlrCKuT6RPRNylSQ) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-04_energy-realignment-india-drops-russian-crude-secures-us-tariff-relief_img_unnamed28929_700ef5f90aa4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/er-market-monitor-week-04-2026/2rtjdz/575211467/h/Y58Ykbd733mKxvaWFfe8usIQjtXIlrCKuT6RPRNylSQ) | [Local Asset](assets/2026-02-04_energy-realignment-india-drops-russian-crude-secures-us-tariff-relief_img_unnamed28929_700ef5f90aa4.png)
 
 Source: Crude oil flows from Russia to India from Signal Ocean
 
@@ -47,7 +47,7 @@ The tariff reductions do, though, offer significant upside for India if it can m
 ![Market Chart 2](assets/2026-02-04_energy-realignment-india-drops-russian-crude-secures-us-tariff-relief_img_unnamed281029_350dae08530c.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-04_energy-realignment-india-drops-russian-crude-secures-us-tariff-relief_img_unnamed281029_350dae08530c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-02-04_energy-realignment-india-drops-russian-crude-secures-us-tariff-relief_img_unnamed281029_350dae08530c.png)
 
 Source: Indian crude oil sources in 2025 from Signal Ocean
 

@@ -33,7 +33,7 @@ Going forward, there is a solid chance that China’s iron ore import demand wil
 ![A1](assets/2021-08-27_containerization-in-dry-bulk-correction-in-iron-ore-prices-but-strength-in-capes_img_a1_8ab51351d185.jpg)
 
 > **Figure 1: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-27_containerization-in-dry-bulk-correction-in-iron-ore-prices-but-strength-in-capes_img_a1_8ab51351d185.jpg)
+> [Local Asset](assets/2021-08-27_containerization-in-dry-bulk-correction-in-iron-ore-prices-but-strength-in-capes_img_a1_8ab51351d185.jpg)
 
 ---
 

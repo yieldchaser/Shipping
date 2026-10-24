@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-05-17_signal-dry-bulk-weekl
 ![Brazilian Soybean Exports to China Increase Higher Than Last Year](assets/2023-05-17_signal-dry-bulk-weekly-report_img_unnamed-2023-05-17t125327877_5df34f651423.png)
 
 > **Figure 1: Brazilian Soybean Exports to China Increase Higher Than Last Year**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2nyfgm/319669314?h=lROgeqzzaKabyu2dPQkB7ciQZBxMVUBe6dcwQHeP9gg) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-17_signal-dry-bulk-weekly-report_img_unnamed-2023-05-17t125327877_5df34f651423.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2nyfgm/319669314?h=lROgeqzzaKabyu2dPQkB7ciQZBxMVUBe6dcwQHeP9gg) | [Local Asset](assets/2023-05-17_signal-dry-bulk-weekly-report_img_unnamed-2023-05-17t125327877_5df34f651423.png)
 
 Data Source: The Signal Ocean Platform, Dry Bulk Flows
 
@@ -45,7 +45,7 @@ Capesize - Firmer | Panamax - Supramax - Handysize - Weaker
 ![Market Chart 2](assets/2023-05-17_signal-dry-bulk-weekly-report_img_unnamed-2023-05-17t130026604_ce10f6cfc10c.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-17_signal-dry-bulk-weekly-report_img_unnamed-2023-05-17t130026604_ce10f6cfc10c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-05-17_signal-dry-bulk-weekly-report_img_unnamed-2023-05-17t130026604_ce10f6cfc10c.png)
 
 In the third week of May, the Capesize segment recorded a similar firm level to the previous week, while rates for other vessel size classes offered a weaker outlook over the past five weeks.
 
@@ -61,7 +61,7 @@ Capesize-Panamax- Decreasing | Supramax - Handysize Increasing
 ![Supply Trend Lines for Key Load Areas](assets/2023-05-17_signal-dry-bulk-weekly-report_img_unnamed-2023-05-17t125527751_5357b5a08170.png)
 
 > **Figure 3: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-17_signal-dry-bulk-weekly-report_img_unnamed-2023-05-17t125527751_5357b5a08170.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-05-17_signal-dry-bulk-weekly-report_img_unnamed-2023-05-17t125527751_5357b5a08170.png)
 
 As far as the number of ballast ships is concerned, an upward trend can be observed for the smaller ship categories, while a downward correction seems to be taking place for the Capesize and Panamax ships.
 
@@ -73,7 +73,7 @@ As far as the number of ballast ships is concerned, an upward trend can be obser
 ![Section 3/ Demand - TonDays Softening](assets/2023-05-17_signal-dry-bulk-weekly-report_img_unnamed-2023-05-17t125638736_006fe1c7059c.png)
 
 > **Figure 4: Section 3/ Demand - TonDays Softening**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-17_signal-dry-bulk-weekly-report_img_unnamed-2023-05-17t125638736_006fe1c7059c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-05-17_signal-dry-bulk-weekly-report_img_unnamed-2023-05-17t125638736_006fe1c7059c.png)
 
 **In the third week of May, there is a significant downward correction in the Panamax and Supramax segments, while the Capesize segment continues to show a firm trend.**
 
@@ -88,7 +88,7 @@ As far as the number of ballast ships is concerned, an upward trend can be obser
 
 > **Figure 5: For the Second Week in a Row**  
 > *For the second week in a row, congestion increased in May as the number of Panamax and Handysize vessels increased.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-17_signal-dry-bulk-weekly-report_img_unnamed-2023-05-17t125729056_9e07705fe25c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-05-17_signal-dry-bulk-weekly-report_img_unnamed-2023-05-17t125729056_9e07705fe25c.png)
 
 - Capesize: The number of vessels now stands at 105, down 9 from the first week of May.
 - Panamax: The number of ships is now at 266, 17 more than the previous week and the highest level since the beginning of the year.

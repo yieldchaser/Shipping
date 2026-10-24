@@ -28,25 +28,25 @@ The USDA is now forecasting that global coarse grain exports in 2023/24 will tot
 ![Chart 1 (87)](assets/2023-12-18_even-more-grain-exports-expected-globally_img_chart1288729_5583680e1362.jpg)
 
 > **Figure 1: Chart 1 (87)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-18_even-more-grain-exports-expected-globally_img_chart1288729_5583680e1362.jpg)
+> [Local Asset](assets/2023-12-18_even-more-grain-exports-expected-globally_img_chart1288729_5583680e1362.jpg)
 
 Global wheat exports in 2023/24 are now expected to total 207.2 million tons, which would mark a year-on-year decline of 13.3 million tons (-6%).
 
 ![Chart 2 (76)](assets/2023-12-18_even-more-grain-exports-expected-globally_img_chart2287629_d25bf5582853.jpg)
 
 > **Figure 2: Chart 2 (76)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-18_even-more-grain-exports-expected-globally_img_chart2287629_d25bf5582853.jpg)
+> [Local Asset](assets/2023-12-18_even-more-grain-exports-expected-globally_img_chart2287629_d25bf5582853.jpg)
 
 Global soybean exports in 2023/24 are now expected to total 170.3 million tons, which would mark a year-on-year decline of just 800,000 tons.
 
 ![Chart 3 (54)](assets/2023-12-18_even-more-grain-exports-expected-globally_img_chart3285429_43204649b3b8.jpg)
 
 > **Figure 3: Chart 3 (54)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-18_even-more-grain-exports-expected-globally_img_chart3285429_43204649b3b8.jpg)
+> [Local Asset](assets/2023-12-18_even-more-grain-exports-expected-globally_img_chart3285429_43204649b3b8.jpg)
 
 Global soymeal exports in 2023/24 are now expected to total 69.8 million tons, which would mark a year-on-year increase of 3.2 million tons (5%).
 
 ![Chart 4 (25)](assets/2023-12-18_even-more-grain-exports-expected-globally_img_chart4282529_162a436189a0.jpg)
 
 > **Figure 4: Chart 4 (25)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-18_even-more-grain-exports-expected-globally_img_chart4282529_162a436189a0.jpg)
+> [Local Asset](assets/2023-12-18_even-more-grain-exports-expected-globally_img_chart4282529_162a436189a0.jpg)

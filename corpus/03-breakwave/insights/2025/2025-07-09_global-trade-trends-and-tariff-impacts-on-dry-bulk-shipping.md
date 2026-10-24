@@ -27,7 +27,7 @@ In 2025, global export patterns continue to shape the backbone of dry bulk shipp
 ![Στιγμιότυπο Οθόνης 2025 07 09 112750](assets/2025-07-09_global-trade-trends-and-tariff-impacts-on-dry-bulk-shipping_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1c52be622e46.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 07 09 112750**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-09_global-trade-trends-and-tariff-impacts-on-dry-bulk-shipping_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1c52be622e46.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-07-09_global-trade-trends-and-tariff-impacts-on-dry-bulk-shipping_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1c52be622e46.png)
 
 ### Global Export Leaders and Tradeflows
 

@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-07-18_orderbooks-old-ships-
 ![Tankers Secondary](assets/2025-07-18_orderbooks-old-ships-and-sanctions_img_tankers-secondary_0d029e248e3f.jpg)
 
 > **Figure 1: Tankers Secondary**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-18_orderbooks-old-ships-and-sanctions_img_tankers-secondary_0d029e248e3f.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-07-18_orderbooks-old-ships-and-sanctions_img_tankers-secondary_0d029e248e3f.jpg)
 
 Tanker ordering activity for vessels above 25,000 dwt has dropped sharply this year, with total orders around 110 units. This decline reflects a mix of regulatory and market uncertainties, along with persistently high newbuilding prices. Current prices remain just below the multiyear peaks seen last year, while shipyards face little pressure to offer significant discounts. 2025 orders are well below the nearly 850 tankers contracted in 2023 and 2024, and broadly in line with the limited ordering activity seen between 2016 and 2022. The only segment where fresh contracting has remained relatively robust is Suezmaxes, with 36 tankers ordered so far this year.
 
@@ -40,7 +40,7 @@ Taken together, although fresh tanker orders have slowed considerably this year,
 ![Στιγμιότυπο Οθόνης 2025 07 18 124346](assets/2025-07-18_orderbooks-old-ships-and-sanctions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_49556c25dce1.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 07 18 124346**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-18_orderbooks-old-ships-and-sanctions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_49556c25dce1.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-07-18_orderbooks-old-ships-and-sanctions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_49556c25dce1.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

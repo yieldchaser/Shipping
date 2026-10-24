@@ -33,7 +33,7 @@ In the grain market, the situation of exports is worsening day by day and Ukrain
 ![Ch1](assets/2022-03-30_signal-dry-bulk-weekly-report_img_ch1_a333683729d5.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-30_signal-dry-bulk-weekly-report_img_ch1_a333683729d5.png)
+> [Local Asset](assets/2022-03-30_signal-dry-bulk-weekly-report_img_ch1_a333683729d5.png)
 
 A weaker sentiment of freight rates is mainly reflected in the Capesize and Handysize segment for this week, while freight rates still sustain a high level in the Supramax and Panamax segments.
 
@@ -51,7 +51,7 @@ Supply Trend Lines for Key Load Areas
 ![Ch2](assets/2022-03-30_signal-dry-bulk-weekly-report_img_ch2_9db3e73507d0.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-30_signal-dry-bulk-weekly-report_img_ch2_9db3e73507d0.png)
+> [Local Asset](assets/2022-03-30_signal-dry-bulk-weekly-report_img_ch2_9db3e73507d0.png)
 
 The overall trend of ballasters continues to decrease in the bigger vessel sizes, whereas it has not yet shown any indications of downward movement for the smaller Handysize ships.
 
@@ -69,7 +69,7 @@ As long as vessel availability remains low in the Capesize and Panamax segment, 
 ![Ch3](assets/2022-03-30_signal-dry-bulk-weekly-report_img_ch3_9db3e73507d0.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-30_signal-dry-bulk-weekly-report_img_ch3_9db3e73507d0.png)
+> [Local Asset](assets/2022-03-30_signal-dry-bulk-weekly-report_img_ch3_9db3e73507d0.png)
 
 The overall trend of demand ton-days is increasing for the Panamax segment, whereas it is softening for the smaller vessel sizes.
 
@@ -87,7 +87,7 @@ The overall trend of demand ton-days is increasing for the Panamax segment, wher
 ![Ch4](assets/2022-03-30_signal-dry-bulk-weekly-report_img_ch4_af7bbfb3c499.png)
 
 > **Figure 4: Ch4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-30_signal-dry-bulk-weekly-report_img_ch4_af7bbfb3c499.png)
+> [Local Asset](assets/2022-03-30_signal-dry-bulk-weekly-report_img_ch4_af7bbfb3c499.png)
 
 Dry bulk ships in congestion have shown a sharp increase over the last two weeks and the number is nearing the one-year average of 1090 vessels.
 

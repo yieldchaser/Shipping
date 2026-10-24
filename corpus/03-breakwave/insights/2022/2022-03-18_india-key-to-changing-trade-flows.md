@@ -37,7 +37,7 @@ Following the Chinese import ban on Australian coal, the flow of the commodity f
 ![Ch1](assets/2022-03-18_india-key-to-changing-trade-flows_img_ch1_a63929dcbb01.png)
 
 > **Figure 1: Ch1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-18_india-key-to-changing-trade-flows_img_ch1_a63929dcbb01.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-03-18_india-key-to-changing-trade-flows_img_ch1_a63929dcbb01.png)
 
 *Source: Shipfix*
 
@@ -48,7 +48,7 @@ As Shipfix has previously reported, cargo orders for coal destined for Europe su
 ![Ch2](assets/2022-03-18_india-key-to-changing-trade-flows_img_ch2_9946a5ff71c0.png)
 
 > **Figure 2: Ch2**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-18_india-key-to-changing-trade-flows_img_ch2_9946a5ff71c0.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-03-18_india-key-to-changing-trade-flows_img_ch2_9946a5ff71c0.png)
 
 *Source: Shipfix*
 
@@ -57,7 +57,7 @@ It is not only coal that India is considering buying at discounted rates from Ru
 ![Ch3](assets/2022-03-18_india-key-to-changing-trade-flows_img_ch3_103f24e42e57.png)
 
 > **Figure 3: Ch3**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-18_india-key-to-changing-trade-flows_img_ch3_103f24e42e57.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-03-18_india-key-to-changing-trade-flows_img_ch3_103f24e42e57.png)
 
 *Source: Shipfix*
 
@@ -68,7 +68,7 @@ The freight rates for the dry bulk sector are also likely to benefit from an Ind
 ![Ch4](assets/2022-03-18_india-key-to-changing-trade-flows_img_ch4_ef36569a8847.png)
 
 > **Figure 4: Ch4**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-18_india-key-to-changing-trade-flows_img_ch4_ef36569a8847.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-03-18_india-key-to-changing-trade-flows_img_ch4_ef36569a8847.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

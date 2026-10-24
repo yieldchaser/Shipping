@@ -45,7 +45,7 @@ As Washington blames Beijing for the pandemic and espionage and Beijing blames t
 
 > **Figure 1: From This Week’s Economist**  
 > *From this week’s Economist*  
-> **Interactive Data & Source:** [Reuters](https://www.reuters.com/world/asia-pacific/us-concerned-about-debt-pakistan-owes-china-official-says-2023-02-16/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-06_mazars-comment_img_image00228329_c6c4e0684724.jpg)
+> **Interactive Data & Source:** [Reuters](https://www.reuters.com/world/asia-pacific/us-concerned-about-debt-pakistan-owes-china-official-says-2023-02-16/) | [Local Asset](assets/2023-03-06_mazars-comment_img_image00228329_c6c4e0684724.jpg)
 
 The rest of the world is quickly falling in line. Russia has picked a side, easily but at a heavy (future) cost. Chinese leaders may soon have a say in Mr. Putin’s decisions, and those of his successors. A lot of Africa is beholden to Beijing by means of debt and so are[some Asian countries](https://www.reuters.com/world/asia-pacific/us-concerned-about-debt-pakistan-owes-china-official-says-2023-02-16/). The EU is wavering, but its allegiance to NATO and America is strong. The same with Japan, even though China is now its biggest trading partner. India will try to balance and might just achieve that. So will commodity-rich South America and the Arab world.
 

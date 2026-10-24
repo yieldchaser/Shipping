@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-02-09_bdi-vs-bci-ahead-of-t
 ![Market Chart 1](assets/2026-02-09_bdi-vs-bci-ahead-of-the-lunar-new-year_img_unnamed_b7db68e4ae04.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/0-fESQvJa2FM4Sof8m1WN36VYpqbtQ/2rtyyv/577090996/h/UVPJkJTTUXffOw9NT6O9oql2rRkTS_wNWb8sSs5k-_8) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-09_bdi-vs-bci-ahead-of-the-lunar-new-year_img_unnamed_b7db68e4ae04.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/0-fESQvJa2FM4Sof8m1WN36VYpqbtQ/2rtyyv/577090996/h/UVPJkJTTUXffOw9NT6O9oql2rRkTS_wNWb8sSs5k-_8) | [Local Asset](assets/2026-02-09_bdi-vs-bci-ahead-of-the-lunar-new-year_img_unnamed_b7db68e4ae04.png)
 
 ### Market Overview
 
@@ -46,7 +46,7 @@ Iron ore trade flows continue to be supported by almost steady annual volume gro
 ![Market Chart 2](assets/2026-02-09_bdi-vs-bci-ahead-of-the-lunar-new-year_img_unnamed28129_d74372306407.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-09_bdi-vs-bci-ahead-of-the-lunar-new-year_img_unnamed28129_d74372306407.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-02-09_bdi-vs-bci-ahead-of-the-lunar-new-year_img_unnamed28129_d74372306407.png)
 
 ### Fleet Supply
 
@@ -55,7 +55,7 @@ Fleet supply dynamics remain a key risk factor. In early 2015, freight rates col
 ![Market Chart 3](assets/2026-02-09_bdi-vs-bci-ahead-of-the-lunar-new-year_img_unnamed28229_df1c879e03bb.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-09_bdi-vs-bci-ahead-of-the-lunar-new-year_img_unnamed28229_df1c879e03bb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-02-09_bdi-vs-bci-ahead-of-the-lunar-new-year_img_unnamed28229_df1c879e03bb.png)
 
 ### Outlook
 

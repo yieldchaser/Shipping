@@ -32,7 +32,7 @@ So what does it mean exactly? Derived demand is a demand based on, a good or ser
 
 > **Figure 1: Gold Fever (Courtesy Ofnational Geographic)**  
 > *Gold Fever (Courtesy ofNational Geographic)*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/company/national-geographic-society/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-05_1aozoe8qjjo8zf5mcznujk9a5sunpo_img_tankers_3eaaf4216f74.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/company/national-geographic-society/) | [Local Asset](assets/2022-03-05_1aozoe8qjjo8zf5mcznujk9a5sunpo_img_tankers_3eaaf4216f74.png)
 
 ### So If One Goes Up, So Does the Other?
 
@@ -52,7 +52,7 @@ Thus, the price of crude oil is dependent on the balance between supply and dema
 
 > **Figure 2: This Year Prices Have Been at Their Highest in the Last 5 Years**  
 > *This year prices have been at their highest in the last 5 years and more due to supply tightness in the market (if you’re interested in learning more about US crude oil prices and freight specifically join me for the followingwebinar)*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/posts/vortexa_vortexa-argus-virtualevent-activity-6891719717254414339-6zl9) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-05_1aozoe8qjjo8zf5mcznujk9a5sunpo_img_tankers_f4ee65b525c2.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/posts/vortexa_vortexa-argus-virtualevent-activity-6891719717254414339-6zl9) | [Local Asset](assets/2022-03-05_1aozoe8qjjo8zf5mcznujk9a5sunpo_img_tankers_f4ee65b525c2.png)
 
 ### 2. What Moves Tanker Rates?
 

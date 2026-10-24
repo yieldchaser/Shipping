@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-06-15_signal-dry-bulk-weekl
 ![Market Chart 1](assets/2023-06-15_signal-dry-bulk-weekly-report_img_unnamed-2023-06-15t130824965_475e35a73f0b.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2p2gvc/326428723?h=6QyN_LLR3qfIJcgNfmvH9PcjgayothwKpwgCTHaoY0c) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-15_signal-dry-bulk-weekly-report_img_unnamed-2023-06-15t130824965_475e35a73f0b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2p2gvc/326428723?h=6QyN_LLR3qfIJcgNfmvH9PcjgayothwKpwgCTHaoY0c) | [Local Asset](assets/2023-06-15_signal-dry-bulk-weekly-report_img_unnamed-2023-06-15t130824965_475e35a73f0b.png)
 
 The Capesize and Panamax freight rates are showing signs of a revival, suggesting a positive turnaround in the shipping industry. Furthermore, the number of Capesize vessels ballasting in SE Africa has experienced a significant downward trend after maintaining persistently high levels above the annual average for several weeks. This decline in ballasters can potentially reinforce the recent recovery in the sector.
 Despite the fragile nature of the Panamax freight market recovery, there has been a substantial surge in the monthly volume of seaborne agricultural products being shipped from Brazil to multiple destinations. Particularly noteworthy is the growing market share of Panamax vessels in the trading business, as illustrated in the provided image.
@@ -42,7 +42,7 @@ Freight Market, Supply, Demand and Port Congestion
 ![Market Rates ($/T) Firmer](assets/2023-06-15_signal-dry-bulk-weekly-report_img_unnamed-2023-06-15t131422119_be9cc027f8be.png)
 
 > **Figure 2: Market Rates ($/T) Firmer**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-15_signal-dry-bulk-weekly-report_img_unnamed-2023-06-15t131422119_be9cc027f8be.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-06-15_signal-dry-bulk-weekly-report_img_unnamed-2023-06-15t131422119_be9cc027f8be.png)
 
 The dry freight market began to strengthen, with the Capesize and Panamax segments leading the revival, while weaker momentum was seen in the smaller vessel categories.
 
@@ -56,7 +56,7 @@ The dry freight market began to strengthen, with the Capesize and Panamax segmen
 ![Market Chart 3](assets/2023-06-15_signal-dry-bulk-weekly-report_img_unnamed-2023-06-15t133002264_0dfbb2e3c5c5.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-15_signal-dry-bulk-weekly-report_img_unnamed-2023-06-15t133002264_0dfbb2e3c5c5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-06-15_signal-dry-bulk-weekly-report_img_unnamed-2023-06-15t133002264_0dfbb2e3c5c5.png)
 
 The number of ballast ships is still on an upward trend, but there are signs of a downward correction in Capesize ships after more than ten weeks of steady increases and a strong upward movement in Handysize.
 
@@ -68,7 +68,7 @@ The number of ballast ships is still on an upward trend, but there are signs of 
 ![Section 3/ Demandsummary of Dry Bulk Demand, per Ship Size](assets/2023-06-15_signal-dry-bulk-weekly-report_img_unnamed-2023-06-15t133148856_390b39ab168e.png)
 
 > **Figure 4: Section 3/ Demandsummary of Dry Bulk Demand, per Ship Size**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-15_signal-dry-bulk-weekly-report_img_unnamed-2023-06-15t133148856_390b39ab168e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-06-15_signal-dry-bulk-weekly-report_img_unnamed-2023-06-15t133148856_390b39ab168e.png)
 
 The first half of June saw a downward trend in demand for Panamax and Handysize tonnage days, while Capesize vessels gradually regained momentum after bottoming out in week 8.
 
@@ -80,7 +80,7 @@ The first half of June saw a downward trend in demand for Panamax and Handysize 
 ![Section 4/ Port Congestiondry Bulk Ships Congested at Chinese Ports](assets/2023-06-15_signal-dry-bulk-weekly-report_img_unnamed-2023-06-15t133306866_42d6372e4ebd.png)
 
 > **Figure 5: Section 4/ Port Congestiondry Bulk Ships Congested at Chinese Ports**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-15_signal-dry-bulk-weekly-report_img_unnamed-2023-06-15t133306866_42d6372e4ebd.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-06-15_signal-dry-bulk-weekly-report_img_unnamed-2023-06-15t133306866_42d6372e4ebd.png)
 
 The first half of June ends with a a sustained upward trend in the number of vessel congestions in the Handysize and Supramax segments.
 

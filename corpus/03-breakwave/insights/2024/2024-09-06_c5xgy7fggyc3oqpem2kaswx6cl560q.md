@@ -63,7 +63,7 @@ As demand for shipments to ports in eastern Asia has seen a relative decline, ca
 ![Στιγμιότυπο Οθόνης 2024 09 06 154310](assets/2024-09-06_c5xgy7fggyc3oqpem2kaswx6cl560q_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d831122c32d5.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 06 154310**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-06_c5xgy7fggyc3oqpem2kaswx6cl560q_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d831122c32d5.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-09-06_c5xgy7fggyc3oqpem2kaswx6cl560q_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d831122c32d5.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

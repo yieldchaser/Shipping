@@ -33,14 +33,14 @@ As widely expected, the US economy bounced back in the third quarter following a
 ![Unsplash Image 6zyrb7itvkw (2)](assets/2022-11-06_weekly-insights-review_img_unsplash-image-6zyrb7itvkw28229_325a55fba534.jpg)
 
 > **Figure 1: Unsplash Image 6zyrb7itvkw (2)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/10/31/morning-note-christmas-in-october) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-06_weekly-insights-review_img_unsplash-image-6zyrb7itvkw28229_325a55fba534.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/10/31/morning-note-christmas-in-october) | [Local Asset](assets/2022-11-06_weekly-insights-review_img_unsplash-image-6zyrb7itvkw28229_325a55fba534.jpg)
 
 ## Mazars Note: Christmas... in October?
 
 ![Market Chart 2](assets/2022-11-06_weekly-insights-review_img_image0052b28229_135732a7d2ff.jpg)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/10/31/morning-note-christmas-in-october) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-06_weekly-insights-review_img_image0052b28229_135732a7d2ff.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/10/31/morning-note-christmas-in-october) | [Local Asset](assets/2022-11-06_weekly-insights-review_img_image0052b28229_135732a7d2ff.jpg)
 
 ## Make No Mistake. an Equity Rebound Means Health. and Relief Rallies of This Magnitude Are Surprisingly Good
 
@@ -57,12 +57,12 @@ Yet, the festive and perma-happy crowd seems to disagree with me, almost as much
 ![Unsplash Image 1ajn 9k936u](assets/2022-11-06_weekly-insights-review_img_unsplash-image-1ajn-9k936u_dd9017455115.jpg)
 
 > **Figure 3: Unsplash Image 1ajn 9k936u**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/2/shipfix-global-market-update) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-06_weekly-insights-review_img_unsplash-image-1ajn-9k936u_dd9017455115.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/2/shipfix-global-market-update) | [Local Asset](assets/2022-11-06_weekly-insights-review_img_unsplash-image-1ajn-9k936u_dd9017455115.jpg)
 
 ![Market Chart 4](assets/2022-11-06_weekly-insights-review_img_unnamed281129_fe611aaec6dc.jpg)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/2/shipfix-global-market-update) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-06_weekly-insights-review_img_unnamed281129_fe611aaec6dc.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/2/shipfix-global-market-update) | [Local Asset](assets/2022-11-06_weekly-insights-review_img_unnamed281129_fe611aaec6dc.jpg)
 
 ## Shipfix-Global Market Update
 
@@ -81,7 +81,7 @@ With just over 5 weeks to go until the European Union’s ban on Russian crude o
 ![Market Chart 5](assets/2022-11-06_weekly-insights-review_img_unnamed281229_9683fcb9a56d.jpg)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/2/commodities-rally-amid-speculation-china-will-ease-covid-19-policy) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-06_weekly-insights-review_img_unnamed281229_9683fcb9a56d.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/2/commodities-rally-amid-speculation-china-will-ease-covid-19-policy) | [Local Asset](assets/2022-11-06_weekly-insights-review_img_unnamed281229_9683fcb9a56d.jpg)
 
 ## Commodities Rally Amid Speculation China Will Ease COVID-19 Policy
 
@@ -93,12 +93,12 @@ Commodities rallied on reports that China will ease COVID-19 restrictions.
 ![Market Chart 6](assets/2022-11-06_weekly-insights-review_img_unnamed281329_d7063e346dda.jpg)
 
 > **Figure 6: Market Chart 6**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/3/recent-decline-in-chinese-coastal-coal-freight-rates-and-steel-prices) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-06_weekly-insights-review_img_unnamed281329_d7063e346dda.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/3/recent-decline-in-chinese-coastal-coal-freight-rates-and-steel-prices) | [Local Asset](assets/2022-11-06_weekly-insights-review_img_unnamed281329_d7063e346dda.jpg)
 
 ![Unsplash Image Io7dx 1efcg](assets/2022-11-06_weekly-insights-review_img_unsplash-image-io7dx-1efcg_9b298de40814.jpg)
 
 > **Figure 7: Unsplash Image Io7dx 1efcg**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/3/recent-decline-in-chinese-coastal-coal-freight-rates-and-steel-prices) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-06_weekly-insights-review_img_unsplash-image-io7dx-1efcg_9b298de40814.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/3/recent-decline-in-chinese-coastal-coal-freight-rates-and-steel-prices) | [Local Asset](assets/2022-11-06_weekly-insights-review_img_unsplash-image-io7dx-1efcg_9b298de40814.jpg)
 
 ## Recent Decline in Chinese Coastal Coal Freight Rates and Steel Prices
 
@@ -110,7 +110,7 @@ Recently released data shows that daily crude output at large and medium-sized m
 ![Unsplash Image Guadzpf9pdi](assets/2022-11-06_weekly-insights-review_img_unsplash-image-guadzpf9pdi_8fbc8c28a887.jpg)
 
 > **Figure 8: Unsplash Image Guadzpf9pdi**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/4/crude-oil-gains-following-further-drawdowns-in-inventories) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-06_weekly-insights-review_img_unsplash-image-guadzpf9pdi_8fbc8c28a887.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/4/crude-oil-gains-following-further-drawdowns-in-inventories) | [Local Asset](assets/2022-11-06_weekly-insights-review_img_unsplash-image-guadzpf9pdi_8fbc8c28a887.jpg)
 
 ## Crude Oil Gains Following Further Drawdowns in Inventories
 
@@ -124,7 +124,7 @@ Commodity markets were mixed as signs of tightness via lower inventories was wei
 ![Unsplash Image J27fzuc7smc](assets/2022-11-06_weekly-insights-review_img_unsplash-image-j27fzuc7smc_917d3e9e93c5.jpg)
 
 > **Figure 9: Unsplash Image J27fzuc7smc**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/4/opec-crudecondensate-loadings-flat-as-drop-from-saudi-arabia-offset-by-other-middle-east-and-africa-1) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-06_weekly-insights-review_img_unsplash-image-j27fzuc7smc_917d3e9e93c5.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/4/opec-crudecondensate-loadings-flat-as-drop-from-saudi-arabia-offset-by-other-middle-east-and-africa-1) | [Local Asset](assets/2022-11-06_weekly-insights-review_img_unsplash-image-j27fzuc7smc_917d3e9e93c5.jpg)
 
 ## Weaker Saudi Crude Loadings Constrained Total OPEC+ Seaborne Supply in October, Despite a M-O-M Increase in Loadings From Africa and Other OPEC Middle East Producers
 

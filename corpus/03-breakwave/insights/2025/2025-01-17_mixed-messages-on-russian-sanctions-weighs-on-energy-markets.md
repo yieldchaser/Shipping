@@ -27,7 +27,7 @@ Energy markets fluctuated due to geopolitical tensions, while metals found suppo
 ![Στιγμιότυπο Οθόνης 2025 01 17 084357](assets/2025-01-17_mixed-messages-on-russian-sanctions-weighs-on-energy-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fcdeac623d0b.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 01 17 084357**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-17_mixed-messages-on-russian-sanctions-weighs-on-energy-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fcdeac623d0b.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-01-17_mixed-messages-on-russian-sanctions-weighs-on-energy-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fcdeac623d0b.png)
 
 ### Market Commentary
 
@@ -46,7 +46,7 @@ Gold has started the year on a positive note, with gains supported by strong inf
 ![Στιγμιότυπο Οθόνης 2025 01 17 084457](assets/2025-01-17_mixed-messages-on-russian-sanctions-weighs-on-energy-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dcc953638faf.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 01 17 084457**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-17_mixed-messages-on-russian-sanctions-weighs-on-energy-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dcc953638faf.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-01-17_mixed-messages-on-russian-sanctions-weighs-on-energy-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dcc953638faf.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

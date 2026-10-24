@@ -41,7 +41,7 @@ A pervasive narrative in the past few weeks is the assumed return to some sort o
 ![Market Chart 1](assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image008_8a387c07c5b0.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image008_8a387c07c5b0.jpg)
+> [Local Asset](assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image008_8a387c07c5b0.jpg)
 
 Additionally, at the time of writing, the US government shutdown, the longest in history, was close to ending.
 
@@ -64,19 +64,19 @@ Yet, equity allocations are at year-long highs.
 ![Market Chart 2](assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image011_79539cfbcba3.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image011_79539cfbcba3.jpg)
+> [Local Asset](assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image011_79539cfbcba3.jpg)
 
 And equity markets seem to eagerly dismiss a more hawkish Fed.
 
 ![Market Chart 3](assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image012_b2efdd5d62c9.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image012_b2efdd5d62c9.jpg)
+> [Local Asset](assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image012_b2efdd5d62c9.jpg)
 
 ![Even As Valuations Are Expensive](assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image013_b75e9fe3d150.jpg)
 
 > **Figure 4: Even As Valuations Are Expensive**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image013_b75e9fe3d150.jpg)
+> [Local Asset](assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image013_b75e9fe3d150.jpg)
 
 and worries about an AI-stock bubble grow louder.
 
@@ -84,14 +84,14 @@ and worries about an AI-stock bubble grow louder.
 
 > **Figure 5: Source: Bloomberg**  
 > *Source: Bloomberg, # of stories about a “bubble”*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image014_b66cb5fdff3b.jpg)
+> [Local Asset](assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image014_b66cb5fdff3b.jpg)
 
 The US 10-year Treasury, which was just a few weeks ago at the epicentre of global news as an asset endangered in the age of debt, is not yielding 5% but a relatively benign 4% and, if anything, it is on a downward trajectory since January.
 
 ![Market Chart 6](assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image015_afe917cfecc6.jpg)
 
 > **Figure 6: Market Chart 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image015_afe917cfecc6.jpg)
+> [Local Asset](assets/2025-11-11_the-geopolitical-centre-doesnt-hold-why-you-should-care_img_image015_afe917cfecc6.jpg)
 
 Are markets being too complacent? Are they so well-equipped to see through the noise that none of this matters?
 

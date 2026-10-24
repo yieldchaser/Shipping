@@ -32,7 +32,7 @@ tags:
 ![664f50f7c250d3421600c872 Chart of the Week 21. Tanker](../../images/664f50f7c250d3421600c872_chart of the week 21. tanker.avif)
 
 > **Figure 1: 664f50f7c250d3421600c872 Chart of the Week 21. Tanker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-21-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/664f50f7c250d3421600c872_chart of the week 21. tanker.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-21-2024) | [Local Asset](../../images/664f50f7c250d3421600c872_chart of the week 21. tanker.avif)
 
 The third week of May saw an upward trend in market prices for the Aframax Mediterranean market, while sentiment in the VLCC MEG-China route showed a gradual improvement. However, the increasing supply of vessels continues to challenge market price performance. On the demand side, there is no firm growth in tonne-days. This week's chart indicates a sharp downward trend in the Aframax segment, mirroring last week's highlighted decline in the [VLCC segment](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-20-2024).
 

@@ -30,4 +30,4 @@ For the dry bulk market, it is concerning that the United Kingdom is practicing 
 ![Chart 1 (53)](assets/2022-10-06_decades-where-nothing-happens-and-weeks-when-decades-happen_img_chart1285329_06cfa1d7c317.jpg)
 
 > **Figure 1: Chart 1 (53)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-06_decades-where-nothing-happens-and-weeks-when-decades-happen_img_chart1285329_06cfa1d7c317.jpg)
+> [Local Asset](assets/2022-10-06_decades-where-nothing-happens-and-weeks-when-decades-happen_img_chart1285329_06cfa1d7c317.jpg)

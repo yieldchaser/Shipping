@@ -29,7 +29,7 @@ Over the past three decades, seaborne bauxite trade has expanded significantly. 
 ![Στιγμιότυπο Οθόνης 2025 05 28 091125](assets/2025-05-28_bauxite-a-critical-raw-material_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc07dc495e9f.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 05 28 091125**  
-> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-28_bauxite-a-critical-raw-material_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc07dc495e9f.png)
+> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](assets/2025-05-28_bauxite-a-critical-raw-material_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc07dc495e9f.png)
 
 Contrary to the prevailing trends in dry bulk trade, bauxite is poised to be the strongest-performing minor bulk commodity in 2025. While major bulks face headwinds and other minor bulks anticipate only marginal growth, bauxite trade stands out as a notable exception, adding to tonnage demand for bulkers within an otherwise uneven dry bulk landscape, which has been influenced by weakened Chinese dry bulk demand due to declining local manufacturing activity and projected slower GDP growth.
 

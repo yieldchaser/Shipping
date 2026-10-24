@@ -58,24 +58,24 @@ The world is currently short of nearly all commodities. Replenishing inventories
 ![Market Chart 1](assets/2022-04-30_the-bigger-picture-shipping-in-the-next-decade_img_image028229_badf0b28f0ce.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-30_the-bigger-picture-shipping-in-the-next-decade_img_image028229_badf0b28f0ce.png)
+> [Local Asset](assets/2022-04-30_the-bigger-picture-shipping-in-the-next-decade_img_image028229_badf0b28f0ce.png)
 
 Nevertheless, restocking has to happen. A decade ago, the world was all about efficiency. Nowadays, the new buzz word is resilience, which can be roughly translated into holding abundant inventories.
 
 ![Market Chart 2](assets/2022-04-30_the-bigger-picture-shipping-in-the-next-decade_img_image128229_e858659caa7b.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-30_the-bigger-picture-shipping-in-the-next-decade_img_image128229_e858659caa7b.png)
+> [Local Asset](assets/2022-04-30_the-bigger-picture-shipping-in-the-next-decade_img_image128229_e858659caa7b.png)
 
 ![Market Chart 3](assets/2022-04-30_the-bigger-picture-shipping-in-the-next-decade_img_image228229_e40998b1d453.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-30_the-bigger-picture-shipping-in-the-next-decade_img_image228229_e40998b1d453.png)
+> [Local Asset](assets/2022-04-30_the-bigger-picture-shipping-in-the-next-decade_img_image228229_e40998b1d453.png)
 
 ![Market Chart 4](assets/2022-04-30_the-bigger-picture-shipping-in-the-next-decade_img_image328329_5c65241b9989.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-30_the-bigger-picture-shipping-in-the-next-decade_img_image328329_5c65241b9989.png)
+> [Local Asset](assets/2022-04-30_the-bigger-picture-shipping-in-the-next-decade_img_image328329_5c65241b9989.png)
 
 The current crisis is a commodity crisis. That is why central banks’ tools cannot be particularly effective. Especially when it is their own countries imposing sanctions.
 
@@ -94,12 +94,12 @@ The newbuilding market cannot come to the rescue. Yards’ forward cover extends
 ![Market Chart 5](assets/2022-04-30_the-bigger-picture-shipping-in-the-next-decade_img_image428229_2d55f6e21e08.png)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-30_the-bigger-picture-shipping-in-the-next-decade_img_image428229_2d55f6e21e08.png)
+> [Local Asset](assets/2022-04-30_the-bigger-picture-shipping-in-the-next-decade_img_image428229_2d55f6e21e08.png)
 
 ![Market Chart 6](assets/2022-04-30_the-bigger-picture-shipping-in-the-next-decade_img_image5_c7794977afb2.png)
 
 > **Figure 6: Market Chart 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-30_the-bigger-picture-shipping-in-the-next-decade_img_image5_c7794977afb2.png)
+> [Local Asset](assets/2022-04-30_the-bigger-picture-shipping-in-the-next-decade_img_image5_c7794977afb2.png)
 
 If commodity and in turn shipping demand proves to be as firm as we laid out above in the coming years, then second-hand ship values should remain elevated despite any short-lived fluctuations.
 

@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-07-06_flow-recovers.html"
 ![Istock 1155718700](assets/2026-07-06_flow-recovers_img_istock-115571870028129_fabb1516784c.jpg)
 
 > **Figure 1: Istock 1155718700**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-06_flow-recovers_img_istock-115571870028129_fabb1516784c.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-07-06_flow-recovers_img_istock-115571870028129_fabb1516784c.jpg)
 
 The Middle East tanker market in June was shaped by a cautious recovery as a temporary US-Iran ceasefire helped boost regional transit activity. Both crude and clean product exports saw a significant jump in volumes, offering a welcome lift to regional loadings. However, the increase in activity was quickly met by a growing influx of available vessels, which began outpacing demand and putting downward pressure on record-high spot rates.
 
@@ -48,7 +48,7 @@ In the clean space, downward pressure on the LR segments may find a floor in the
 ![Στιγμιότυπο Οθόνης 2026 07 06 140210](assets/2026-07-06_flow-recovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_517c648f892d.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 07 06 140210**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-06_flow-recovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_517c648f892d.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-07-06_flow-recovers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_517c648f892d.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

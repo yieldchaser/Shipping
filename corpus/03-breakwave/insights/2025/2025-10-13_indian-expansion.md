@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-10-13_indian-expansion.html
 ![Istock 1298139701 Resize](assets/2025-10-13_indian-expansion_img_istock-1298139701-resize_850e2d5df027.jpg)
 
 > **Figure 1: Istock 1298139701 Resize**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-13_indian-expansion_img_istock-1298139701-resize_850e2d5df027.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-10-13_indian-expansion_img_istock-1298139701-resize_850e2d5df027.jpg)
 
 Until recently, Indian CPP exports were broadly flat for the past 9 years, averaging around 1.2mbd. Whilst domestic refining capacity grew over this period, incremental output was largely used to service domestic customers. This year, exports have grown at the fastest pace since 2021 and could be set for further growth as the country continues to expand its refining capacity.
 
@@ -36,7 +36,7 @@ Nevertheless, in the short term, product tankers may enjoy one last increase in 
 ![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](assets/2025-10-13_indian-expansion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f6a28eac7778.png)
 
 > **Figure 2: Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-13_indian-expansion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f6a28eac7778.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-10-13_indian-expansion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f6a28eac7778.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

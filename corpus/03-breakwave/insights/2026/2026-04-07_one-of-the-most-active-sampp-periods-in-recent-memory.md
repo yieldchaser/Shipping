@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-04-07_one-of-the-most-activ
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-07_one-of-the-most-active-sampp-periods-in-recent-memory_img_tankersfromegina_c704dad9eda0.jpeg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](assets/2026-04-07_one-of-the-most-active-sampp-periods-in-recent-memory_img_tankersfromegina_c704dad9eda0.jpeg)
 
 The first quarter of 2026 delivered one of the most active S&P periods in recent memory, with 351 transactions recorded across tankers and dry bulk, representing a combined investment of approximately $11.5 billion. Activity was front-loaded into January, which alone accounted for nearly 40% of total volume, reflecting a wave of positioning decisions as the new year opened against an already elevated geopolitical backdrop.
 

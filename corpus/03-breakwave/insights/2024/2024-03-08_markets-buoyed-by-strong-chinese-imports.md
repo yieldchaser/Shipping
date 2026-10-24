@@ -27,7 +27,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-08_markets-buoyed-by-str
 ![Screenshot 2024 03 08 08.54.07](assets/2024-03-08_markets-buoyed-by-strong-chinese-imports_img_screenshot2024-03-08085407_0c543af0512c.png)
 
 > **Figure 1: Screenshot 2024 03 08 08.54.07**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-08_markets-buoyed-by-strong-chinese-imports_img_screenshot2024-03-08085407_0c543af0512c.png)
+> [Local Asset](assets/2024-03-08_markets-buoyed-by-strong-chinese-imports_img_screenshot2024-03-08085407_0c543af0512c.png)
 
 **Gold**extended its record-breaking rally amid further dovish commentary from central bankers. Federal Reserve Chair, Jerome Powell, told a Senate panel the Fed is not far from being confident enough to cut rates. President, Christine Lagarde, indicated the ECB may ease in June. This came amid fresh projections showing inflation falling to 2% in 2025. Safe haven buying is also likely to be behind the move, after a Houthi attack on a ship in the Red Sea led to the first confirmed deaths of crew. While investors are still pulling metal out of gold-backed ETFs, central banks remain strong buyers. The PBoC added to its gold reserves for a 16th straight month in January, Total holdings rose by about 390koz to 72.58m.
 

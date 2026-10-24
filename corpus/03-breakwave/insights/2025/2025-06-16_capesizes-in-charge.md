@@ -39,7 +39,7 @@ Yet, amid the broader climate of uncertainty and rising geopolitical and economi
 ![Στιγμιότυπο Οθόνης 2025 06 16 110410](assets/2025-06-16_capesizes-in-charge_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fd2dc2ab8e98.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 06 16 110410**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-16_capesizes-in-charge_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fd2dc2ab8e98.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-06-16_capesizes-in-charge_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fd2dc2ab8e98.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

@@ -33,7 +33,7 @@ Turning to global trade, growth is anticipated to reach 4.2 percent in 2025, ref
 ![Στιγμιότυπο Οθόνης 2025 12 07 234635](assets/2025-12-08_resilience-of-global-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_476d3ec70fbe.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 12 07 234635**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-08_resilience-of-global-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_476d3ec70fbe.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-12-08_resilience-of-global-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_476d3ec70fbe.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

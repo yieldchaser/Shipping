@@ -33,7 +33,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform**  
 > *Data Source: The Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-27-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/64a7d97aced6f79dab5e98c6_chart of the week tanker dirty.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-27-2023) | [Local Asset](../../images/64a7d97aced6f79dab5e98c6_chart of the week tanker dirty.png)
 
 The first week of July ended with rates in the crude oil freight market coming under pressure, while weaker sentiment in clean tanker freight rates continued. Interestingly, Chinese oil demand is driving up tonne-mile volumes for VLCC routes between the Arabian Gulf (AG) and West Africa despite signs of a downward correction. VLCC tonne-miles from Wafr and AG to China have increased significantly in July since early May.
 

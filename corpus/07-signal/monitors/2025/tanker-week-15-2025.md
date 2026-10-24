@@ -30,7 +30,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/tanker/dynamic/voyages-Dashboard-Tankers-Downloadable**  
 > *https://app.signalocean.com/tanker/dynamic/voyages-dashboard-tankers-downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-15-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67f7e94c5a41bc4557c3fd7a_AD_4nXfkimUFtMPs8YHzo6647YNchrQFT6p8bi06ypmqxcfVAy_3lEaK9gRa4jiAybKU1XorVQCq_9d7JrRvvSsoOCK3iIkb5dOL5JBLpm2BsHjRJzaK--WU8JNbykFVgf6UE6MT4qCtrQ.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-15-2025) | [Local Asset](../../images/67f7e94c5a41bc4557c3fd7a_AD_4nXfkimUFtMPs8YHzo6647YNchrQFT6p8bi06ypmqxcfVAy_3lEaK9gRa4jiAybKU1XorVQCq_9d7JrRvvSsoOCK3iIkb5dOL5JBLpm2BsHjRJzaK--WU8JNbykFVgf6UE6MT4qCtrQ.png)
 
 
 ## Signal Ocean Data Highlights a March 2025 Spike in Aframax Voyages to the Far East

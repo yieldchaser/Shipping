@@ -40,7 +40,7 @@ Steel flows slip into negative growth in April 2026
 
 > **Figure 1: Source: Steel Tonne-Miles From Signal Ocean Https://app.signalocean.com/dry/dynamic/timeseriesdry**  
 > *Source: Steel tonne-miles from Signal Ocean https://app.signalocean.com/dry/dynamic/timeseries_dry*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/chinese-steel-flows-face-ongoing-and-new-headwinds) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a16b31f1d172b5cfda581eb_e791ff88.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/chinese-steel-flows-face-ongoing-and-new-headwinds) | [Local Asset](../../images/6a16b31f1d172b5cfda581eb_e791ff88.png)
 
 Seaborne steel flows reached 21.4mt in April 2026, down 8% y/y and 7% m/m. The ongoing situation in the Strait of Hormuz is having a material impact on flows of Chinese steel, and has led to a y/y decline of 5% as the Arabian Gulf is effectively cut off for Chinese steel exports. China typically sends close to 11% of all its seaborne steel to the Arabian Gulf, but in April 2026, this fell to less than 2%.
 
@@ -53,7 +53,7 @@ There was an increase in steel flows destined for Indonesia. The rise was close 
 
 > **Figure 2: Source: Seaborne Steel Flows From Signal Oceanhttps://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Seaborne steel flows from Signal Oceanhttps://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/chinese-steel-flows-face-ongoing-and-new-headwinds) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a16b31f1d172b5cfda581e5_d51c995e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/chinese-steel-flows-face-ongoing-and-new-headwinds) | [Local Asset](../../images/6a16b31f1d172b5cfda581e5_d51c995e.png)
 
 Looking ahead, the near-term outlook for seaborne steel flows remains challenging, with headwinds compounding on multiple fronts. The Strait of Hormuz disruption shows little sign of near-term resolution, and with Chinese exports to the Arabian Gulf running at a fraction of typical volumes, a swift recovery in overall flow tonnage looks unlikely by the end of Q2.
 
@@ -66,7 +66,7 @@ The net effect is a market caught between supply-side constraints and demand dis
 
 > **Figure 3: Source: Chinese Steel Exports From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Chinese steel exports from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/chinese-steel-flows-face-ongoing-and-new-headwinds) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a16b31f1d172b5cfda581e8_fd003d4b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/chinese-steel-flows-face-ongoing-and-new-headwinds) | [Local Asset](../../images/6a16b31f1d172b5cfda581e8_fd003d4b.png)
 
 
 ## China’s Steel Exports Face Mounting Challenges

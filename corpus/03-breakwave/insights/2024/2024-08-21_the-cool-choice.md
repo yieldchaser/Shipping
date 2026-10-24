@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-08-21_the-cool-choice.html"
 ![Unsplash Image Zryoqguerti](assets/2024-08-21_the-cool-choice_img_unsplash-image-zryoqguerti_d362acbfef2f.jpg)
 
 > **Figure 1: Unsplash Image Zryoqguerti**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-21_the-cool-choice_img_unsplash-image-zryoqguerti_d362acbfef2f.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-08-21_the-cool-choice_img_unsplash-image-zryoqguerti_d362acbfef2f.jpg)
 
 LNG as a marine fuel appears to be coming back in vogue. Having lost ground to methanol, ammonia and conventional fuels in recent years, several Owners have placed or announced plans to place large orders of LNG dual fuel ships, most notably Maersk Line who have previously been advocating for methanol as their primary decarbonisation pathway.
 
@@ -38,7 +38,7 @@ Nonetheless, despite improvements in the fuelling economics and potential regula
 ![Screenshot 2024 08 21 08.59.38](assets/2024-08-21_the-cool-choice_img_screenshot2024-08-21085938_1cd0cdfe85d4.png)
 
 > **Figure 2: Screenshot 2024 08 21 08.59.38**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-21_the-cool-choice_img_screenshot2024-08-21085938_1cd0cdfe85d4.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-08-21_the-cool-choice_img_screenshot2024-08-21085938_1cd0cdfe85d4.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

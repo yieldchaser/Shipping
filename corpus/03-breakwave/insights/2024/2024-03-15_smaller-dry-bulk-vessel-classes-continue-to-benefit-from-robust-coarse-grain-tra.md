@@ -29,14 +29,14 @@ Of particular note is that the USDA is now forecasting that global coarse grain 
 ![241](assets/2024-03-15_smaller-dry-bulk-vessel-classes-continue-to-benefit-from-robust-coarse-grain-tra_img_241_3ce7ea89b30c.jpg)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-15_smaller-dry-bulk-vessel-classes-continue-to-benefit-from-robust-coarse-grain-tra_img_241_3ce7ea89b30c.jpg)
+> [Local Asset](assets/2024-03-15_smaller-dry-bulk-vessel-classes-continue-to-benefit-from-robust-coarse-grain-tra_img_241_3ce7ea89b30c.jpg)
 
 China’s primary grain imports remain soybeans, but also of note and significant for the dry bulk market is that China’s coarse grain imports are expected to continue to strengthen due to both stronger consumption in China and an increase in stockpiling (as well as more global supply). Even more imports are now expected for China, with the USDA now predicting 39.9 million tons of coarse grain will be imported. A month ago, the USDA was predicting that 39.5 million tons would be imported. Imports totaled 32.6 million tons in 2022/23.
 
 ![242](assets/2024-03-15_smaller-dry-bulk-vessel-classes-continue-to-benefit-from-robust-coarse-grain-tra_img_242_70239e7a1af0.jpg)
 
 > **Figure 2: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-15_smaller-dry-bulk-vessel-classes-continue-to-benefit-from-robust-coarse-grain-tra_img_242_70239e7a1af0.jpg)
+> [Local Asset](assets/2024-03-15_smaller-dry-bulk-vessel-classes-continue-to-benefit-from-robust-coarse-grain-tra_img_242_70239e7a1af0.jpg)
 
 ---
 

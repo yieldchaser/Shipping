@@ -28,7 +28,7 @@ Frankly, we are somewhat surprised also. Not by persisting inflation but by the 
 ![Market Chart 1](assets/2022-06-13_morning-comment-what-do-you-do-when-the-only-game-in-town-is-a-bad-one_img_image001_a8e063ac5fc1.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-13_morning-comment-what-do-you-do-when-the-only-game-in-town-is-a-bad-one_img_image001_a8e063ac5fc1.png)
+> [Local Asset](assets/2022-06-13_morning-comment-what-do-you-do-when-the-only-game-in-town-is-a-bad-one_img_image001_a8e063ac5fc1.png)
 
 Last year, inflation was all about post-pandemic supply chain dislocations. While supply chains remain at the epicentre of rising prices, this time around, the reason is not simply pandemic-related dislocations but a confluence of much more severe and impactful events:
 

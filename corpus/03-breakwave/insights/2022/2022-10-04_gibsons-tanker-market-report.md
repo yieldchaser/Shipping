@@ -24,7 +24,7 @@ With the global economic picture continuing to be dominated by bearish sentiment
 ![Screenshot 20221004 112533 Samsung Notes](assets/2022-10-04_gibsons-tanker-market-report_img_screenshot-20221004-112533-samsungno_46277b47cb7a.jpg)
 
 > **Figure 1: Screenshot 20221004 112533 Samsung Notes**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-04_gibsons-tanker-market-report_img_screenshot-20221004-112533-samsungno_46277b47cb7a.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2022-10-04_gibsons-tanker-market-report_img_screenshot-20221004-112533-samsungno_46277b47cb7a.jpg)
 
 Firstly, oil demand must avoid a major collapse with this being largely reliant on developing economies such as India and China to offset sluggish growth in the OECD and struggling emerging economies. China alone accounts for 48% of 2023’s total oil demand growth, highlighting how dependent the market is on China adopting a new covid strategy. Secondly, Europe must continue to implement oil sanctions on Russia. If the EU backtracks, or Russia ends the conflict (although unlikely in light of latest events), then the seismic shifts in trade flows predicted for 2023 would fail to materialise, limiting tonne mile demand growth, which if combined with weaker economic growth, would serve as a double blow to the tanker market. However, if the war was to end, then the economic outlook would also improve, softening the downside.
 

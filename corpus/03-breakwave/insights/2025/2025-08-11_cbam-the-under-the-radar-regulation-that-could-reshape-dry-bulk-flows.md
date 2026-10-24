@@ -41,7 +41,7 @@ CBAM will initially apply to imports of:
 ![Screenshot 2025 08 11 11.37.43](assets/2025-08-11_cbam-the-under-the-radar-regulation-that-could-reshape-dry-bulk-flows_img_screenshot2025-08-11113743_3e7c9551565b.png)
 
 > **Figure 1: Screenshot 2025 08 11 11.37.43**  
-> **Interactive Data & Source:** [Windward-shipping](https://www.windward-shipping.com) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-11_cbam-the-under-the-radar-regulation-that-could-reshape-dry-bulk-flows_img_screenshot2025-08-11113743_3e7c9551565b.png)
+> **Interactive Data & Source:** [Windward-shipping](https://www.windward-shipping.com) | [Local Asset](assets/2025-08-11_cbam-the-under-the-radar-regulation-that-could-reshape-dry-bulk-flows_img_screenshot2025-08-11113743_3e7c9551565b.png)
 
 Importers will need to report embedded emissions and purchase CBAM certificates, priced in line with the EU ETS. The financial impact will be phased in gradually starting at 2.5% of the ETS price in 2026, ramping up to 100% by 2034.
 

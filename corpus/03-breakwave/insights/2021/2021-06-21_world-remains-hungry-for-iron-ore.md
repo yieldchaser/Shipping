@@ -27,7 +27,7 @@ Iron ore consumption has continued to fare very well both in and outside of Chin
 ![Comm 1 6.20](assets/2021-06-21_world-remains-hungry-for-iron-ore_img_comm1620_177d971944fd.jpg)
 
 > **Figure 1: Comm 1 6.20**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-21_world-remains-hungry-for-iron-ore_img_comm1620_177d971944fd.jpg)
+> [Local Asset](assets/2021-06-21_world-remains-hungry-for-iron-ore_img_comm1620_177d971944fd.jpg)
 
 As we have long been stressing in our Weekly Dry Bulk Reports and Weekly China Reports, China’s steel output has been poised to stay strong even as the government has been working to place limitations on heavy polluting mills near Beijing. Also of note in China is that steel prices have remained at strong levels. The average price of hot rolled coil, for example, ended last week at 5,640 yuan/ton which is just 70 yuan (-1%) less than a week ago. It remains positive that prices have continued to maintain strength even as a large amount of steel continues to be produced. In addition, steel stockpiles have stayed at a moderate level. Stockpiles of flat and construction steel products at warehouses in major cities in China ended last week at approximately 15.1 million tons. This is 300,000 tons (1%) more than a week ago and is just 600,000 tons (4%) more than was stockpiled at this time last year.
 
@@ -36,7 +36,7 @@ In addition to steel production in China continuing to surge and most recently g
 ![Comm2 6.20](assets/2021-06-21_world-remains-hungry-for-iron-ore_img_comm2620_3c4d5649ce2a.jpg)
 
 > **Figure 2: Comm2 6.20**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-21_world-remains-hungry-for-iron-ore_img_comm2620_3c4d5649ce2a.jpg)
+> [Local Asset](assets/2021-06-21_world-remains-hungry-for-iron-ore_img_comm2620_3c4d5649ce2a.jpg)
 
 Overall, the global economy’s ongoing recovery from last year’s coronavirus-induced slowdown remains yet another positive issue in the dry bulk market. Steel output both in and outside of China has continued to fare well and iron ore consumption continues to increase. Global iron ore exports are very seasonal (with production highest during the second half of every year), and fortunately for the dry bulk market the world remains very hungry for iron ore. Capesize rates stand to benefit the most from what will likely be even stronger global iron ore trade during the next several months.
 

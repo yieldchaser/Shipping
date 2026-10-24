@@ -29,7 +29,7 @@ As we have stressed often in our Weekly Executive Reports, such a sustained cont
 ![Chart](assets/2026-03-02_india-becoming-more-of-an-issue-for-dry-bulk_img_chart_97718272fc89.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-02_india-becoming-more-of-an-issue-for-dry-bulk_img_chart_97718272fc89.jpg)
+> [Local Asset](assets/2026-03-02_india-becoming-more-of-an-issue-for-dry-bulk_img_chart_97718272fc89.jpg)
 
 ---
 

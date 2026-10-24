@@ -29,7 +29,7 @@ In the first half of 2024, global economy has demonstrated notable resilience, w
 ![Στιγμιότυπο Οθόνης 2024 09 30 143331](assets/2024-09-30_g09ctnwln6m3okcz9hy8t0xfgip5d1_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3671905ce14e.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 30 143331**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-30_g09ctnwln6m3okcz9hy8t0xfgip5d1_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3671905ce14e.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-09-30_g09ctnwln6m3okcz9hy8t0xfgip5d1_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3671905ce14e.png)
 
 Focusing on the United States, economic activity has gained considerable momentum in the second quarter due to rising real wages facilitated by lower inflation. However, forecasts indicate a potential deceleration in growth, with real GDP expected to expand by 2.6 percent in 2024 and further slow to 1.6 percent in 2025. Other advanced economies, including Canada, Spain, and the United Kingdom, have also reported solid GDP growth figures. However, recent developments in economies like Germany have been less encouraging. Europe is expected to benefit from reductions in policy rates and a recovery in real incomes, with euro area growth projected at 0.7 percent in 2024 and 1.3 percent in 2025. Japan's overall growth for 2024 is slightly negative at -0.1 percent due to a weak first quarter, but strong real wage gains are anticipated to drive a recovery, with growth of 1.4 percent projected for 2025. In Australia, economic growth is expected to rise from 1.1 percent this year to 1.8 percent in 2025, bolstered by an increase in household consumption linked to higher real disposable incomes.
 
@@ -40,7 +40,7 @@ While the global economy shows signs of stability amid various challenges, the r
 ![Στιγμιότυπο Οθόνης 2024 09 30 143342](assets/2024-09-30_g09ctnwln6m3okcz9hy8t0xfgip5d1_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9202724226fc.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 09 30 143342**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-30_g09ctnwln6m3okcz9hy8t0xfgip5d1_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9202724226fc.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-09-30_g09ctnwln6m3okcz9hy8t0xfgip5d1_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9202724226fc.png)
 
 At this juncture, following the Federal Reserve's bold rate cut last week, China’s central bank has responded by lowering interest rates and injecting liquidity into the banking system. This move is part of Beijing's urgent effort to steer economic growth back towards its target of approximately 5 percent for this year. The stimulus package, which marks the largest since the pandemic, includes substantial funding from the central bank to bolster the stock market, along with policy rate cuts and measures aimed at enhancing bank liquidity. Notably, it also addresses China’s ongoing property crisis with a 50- basis point cut in mortgage rates. This stimulus initiative was accompanied by a strong declaration from China's politburo, which conducted what analysts described as an “emergency” meeting focused on economic issues. The politburo announced plans to ramp up fiscal spending to further support growth.
 

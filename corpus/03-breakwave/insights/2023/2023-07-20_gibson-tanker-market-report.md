@@ -30,7 +30,7 @@ Argentina’s primary shale region, the Vaca Muerta in Patagonia saw drilling ac
 
 > **Figure 1: Data Source:gibson Shipbrokers**  
 > *Data source:Gibson Shipbrokers*  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-20_gibson-tanker-market-report_img_screenshot2023-07-20160101_48a8715fe073.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2023-07-20_gibson-tanker-market-report_img_screenshot2023-07-20160101_48a8715fe073.png)
 
 In terms of crude trade, Argentina rarely imports seaborne crude, meaning that expanded production will have little impact here. However, as capacity expands, it is likely that most of the incremental barrels will be exported. Currently, most of the country’s crude exports head out of Puerto Rosales on Panamaxes or Caletta Cordova on Suezmaxes. However, state owned oil company YPF is currently in the early stages of a $1.2 billion project to export up to 380kbd on VLCCs and Suezmaxes from the Atlantic Coast. The project is still in its infancy and could be altered or delayed; yet, it is certainly one to watch. More recently, an export route via Chile to the Pacific has opened. The 110kbd Trans-Andean pipeline, which ceased operations in the early 2000’s has recently been renovated, offering an export route for Argentinian production to the Bio Bio refinery (ENAP) at San Vicente in Chile. The pipeline also opens up the possibility to export crude from San Vicente on Aframaxes and Suezmaxes; however, volumes will be constrained by demand from ENAP and could compete with seaborne imports into San Vicente.
 

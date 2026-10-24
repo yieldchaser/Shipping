@@ -32,7 +32,7 @@ The volume of bauxite shipped on Capes totalled 40.7m tonnes from January-April 
 ![Market Chart 1](assets/2023-05-29_braemar-weekly-dry-market-report_img_image0281229_0664357eb00a.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-29_braemar-weekly-dry-market-report_img_image0281229_0664357eb00a.png)
+> [Local Asset](assets/2023-05-29_braemar-weekly-dry-market-report_img_image0281229_0664357eb00a.png)
 
 This has made bauxite an important source of Cape utilisation.**While bauxite accounted for 6% of volumes shipped on Capes in April, it accounted for 12% of total Cape demand**(measured in deadweight tonne days).
 
@@ -43,7 +43,7 @@ The second graph demonstrates how Guinea has increased its share of cargoes rela
 ![Market Chart 2](assets/2023-05-29_braemar-weekly-dry-market-report_img_image1281229_9899497f9ae2.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-29_braemar-weekly-dry-market-report_img_image1281229_9899497f9ae2.png)
+> [Local Asset](assets/2023-05-29_braemar-weekly-dry-market-report_img_image1281229_9899497f9ae2.png)
 
 While the overall trend has shifted towards Guinea, there is a clear seasonal pullback during Guinea’s rainy season from around June to August/September. Last year, Guinea’s ratio of Cape loadings compared to Brazil went from 28% in May to less than 16% in August. Since 2019, Capesize bauxite volumes out of Guinea have declined by an average of 31% from the previous quarter in Q3, while drier weather in Brazil typically allows miners to increase exports during this period.
 
@@ -60,7 +60,7 @@ The ban has already increased demand for Guinea’s bauxite and reportedly accel
 ![Market Chart 3](assets/2023-05-29_braemar-weekly-dry-market-report_img_image2281129_a43682115a49.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-29_braemar-weekly-dry-market-report_img_image2281129_a43682115a49.png)
+> [Local Asset](assets/2023-05-29_braemar-weekly-dry-market-report_img_image2281129_a43682115a49.png)
 
 Indonesian authorities hope the ban will encourage domestic processing and exports of higher valuable alumina and aluminium, as a similar ban did with nickel.
 
@@ -81,7 +81,7 @@ Efforts to reduce emissions have also led to a national production cap of 45m to
 ![Market Chart 4](assets/2023-05-29_braemar-weekly-dry-market-report_img_image3281029_858107551c2c.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-29_braemar-weekly-dry-market-report_img_image3281029_858107551c2c.png)
+> [Local Asset](assets/2023-05-29_braemar-weekly-dry-market-report_img_image3281029_858107551c2c.png)
 
 Despite this, a drawdown in aluminium stocks, which have declined by 47% since 9 March, suggests apparent aluminium consumption has remained strong.
 

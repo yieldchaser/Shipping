@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-06-22_fourteen-points.html"
 ![Hormuz](assets/2026-06-22_fourteen-points_img_hormuz_e7d7a49f81b1.png)
 
 > **Figure 1: Hormuz**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-22_fourteen-points_img_hormuz_e7d7a49f81b1.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-06-22_fourteen-points_img_hormuz_e7d7a49f81b1.png)
 
 After more than three months of disruption, the prospect of the Iran conflict drawing to a close appears higher than ever. The memorandum of understanding (MOU) between Iran and the US, signed twice over the past week, sets out fourteen points charting a path towards normalisation.
 
@@ -44,7 +44,7 @@ Overall, the deal appears fragile, and a return to hostilities cannot be ruled o
 ![Στιγμιότυπο Οθόνης 2026 06 22 102844](assets/2026-06-22_fourteen-points_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0975834db7aa.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 06 22 102844**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-22_fourteen-points_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0975834db7aa.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-06-22_fourteen-points_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0975834db7aa.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

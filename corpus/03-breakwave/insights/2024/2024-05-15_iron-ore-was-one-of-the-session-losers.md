@@ -65,7 +65,7 @@ While Chinese imports of US coal look set to increase in the coming months, as i
 ![Market Chart 1](assets/2024-05-15_iron-ore-was-one-of-the-session-losers_img_unnamed_9be314d4130a.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-15_iron-ore-was-one-of-the-session-losers_img_unnamed_9be314d4130a.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-05-15_iron-ore-was-one-of-the-session-losers_img_unnamed_9be314d4130a.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

@@ -27,7 +27,7 @@ Energy fell as the market awaits the Trump-Xi meeting. Industrial metals extende
 ![Στιγμιότυπο Οθόνης 2026 05 14 110255](assets/2026-05-14_oil-edges-lower-as-market-watches-trump-xi-meeting_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2744060d3ffa.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 05 14 110255**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-14_oil-edges-lower-as-market-watches-trump-xi-meeting_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2744060d3ffa.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2026-05-14_oil-edges-lower-as-market-watches-trump-xi-meeting_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2744060d3ffa.png)
 
 ### Market Commentary
 
@@ -48,7 +48,7 @@ India’s gold imports are likely to take a hit following the more than doubling
 ![Στιγμιότυπο Οθόνης 2026 05 14 110343](assets/2026-05-14_oil-edges-lower-as-market-watches-trump-xi-meeting_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7262a0430cab.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 05 14 110343**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-14_oil-edges-lower-as-market-watches-trump-xi-meeting_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7262a0430cab.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2026-05-14_oil-edges-lower-as-market-watches-trump-xi-meeting_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7262a0430cab.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

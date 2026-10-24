@@ -26,7 +26,7 @@ Steel flows climb in 2025 as weak domestic demand in China leads to greater reli
 
 > **Figure 1: Source:steel-Driven Tonne-Miles From Signal Ocean**  
 > *Source:Steel-driven tonne-miles from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-17_china-drives-growth-in-steel-flows-as-the-rest-of-the-world-sees-a-small-contrac_img_unnamed_1d02278cecf1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-02-17_china-drives-growth-in-steel-flows-as-the-rest-of-the-world-sees-a-small-contrac_img_unnamed_1d02278cecf1.png)
 
 ### Key Takeaways
 
@@ -48,7 +48,7 @@ We are yet to see China's crude steel production figures for January 2026, but T
 
 > **Figure 2: Source:china Steel Exports From Signal Ocean**  
 > *Source:China steel exports from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-17_china-drives-growth-in-steel-flows-as-the-rest-of-the-world-sees-a-small-contrac_img_unnamed28129_086e3613c866.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-02-17_china-drives-growth-in-steel-flows-as-the-rest-of-the-world-sees-a-small-contrac_img_unnamed28129_086e3613c866.png)
 
 Despite expectations of lower steel production in China in 2026, the subsequent typical increase in steel exports will face some headwinds. The most notable is the new structure of export licensing in the country. This new legislation covers 245 steel products, a large increase from the 66 carbon steel products listed in the 2007 version.
 
@@ -58,7 +58,7 @@ Global steel demand is expected to grow modestly in 2026, with stronger performa
 
 > **Figure 3: Source:china Crude Steel Production From the World Steel**  
 > *Source:China crude steel production from the World Steel Association*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-17_china-drives-growth-in-steel-flows-as-the-rest-of-the-world-sees-a-small-contrac_img_unnamed28229_eab1bc420416.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-02-17_china-drives-growth-in-steel-flows-as-the-rest-of-the-world-sees-a-small-contrac_img_unnamed28229_eab1bc420416.png)
 
 ## China's Steel Exports Will Drive Supramax Demand
 

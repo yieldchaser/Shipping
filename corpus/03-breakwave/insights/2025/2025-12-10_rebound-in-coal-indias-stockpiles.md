@@ -27,21 +27,21 @@ Coal India (which is responsible for over 75% of India’s coal output) produced
 ![Chart 1](assets/2025-12-10_rebound-in-coal-indias-stockpiles_img_chart1_048369986910.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-10_rebound-in-coal-indias-stockpiles_img_chart1_048369986910.jpg)
+> [Local Asset](assets/2025-12-10_rebound-in-coal-indias-stockpiles_img_chart1_048369986910.jpg)
 
 Offtake (the amount sent to customers) totaled 62.7 million tons, which is up month-on-month by 4.4 million tons (8%) but down year-on-year by 300,000 tons (-1%). Prior to last month, offtake had exceeded production for seven straight months.
 
 ![Chart 2](assets/2025-12-10_rebound-in-coal-indias-stockpiles_img_chart2_b7fd096e784c.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-10_rebound-in-coal-indias-stockpiles_img_chart2_b7fd096e784c.jpg)
+> [Local Asset](assets/2025-12-10_rebound-in-coal-indias-stockpiles_img_chart2_b7fd096e784c.jpg)
 
 Stockpiles have rebounded with offtake finally exceeding production. Coal India's stockpiles now stand at approximately 95 million tons. This is 20 million tons (-17%) less than March’s record 115 million tons, but it is up month-on-month by 5 million tons (6%) and year-on-year by 22 million tons (30%).
 
 ![Chart 3](assets/2025-12-10_rebound-in-coal-indias-stockpiles_img_chart3_2265e520fc71.jpg)
 
 > **Figure 3: Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-10_rebound-in-coal-indias-stockpiles_img_chart3_2265e520fc71.jpg)
+> [Local Asset](assets/2025-12-10_rebound-in-coal-indias-stockpiles_img_chart3_2265e520fc71.jpg)
 
 ---
 

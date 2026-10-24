@@ -33,7 +33,7 @@ It is helpful that more grain cargoes are now expected, but nevertheless a year-
 ![Chart 1](assets/2024-09-19_solid-week-for-dry-bulk-market-last-week-but-fleet-continues-to-grow_img_chart1_aa3cd2aa02c5.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-19_solid-week-for-dry-bulk-market-last-week-but-fleet-continues-to-grow_img_chart1_aa3cd2aa02c5.jpg)
+> [Local Asset](assets/2024-09-19_solid-week-for-dry-bulk-market-last-week-but-fleet-continues-to-grow_img_chart1_aa3cd2aa02c5.jpg)
 
 ---
 

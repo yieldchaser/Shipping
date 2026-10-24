@@ -27,7 +27,7 @@ Easing geopolitical tensions weighed on energy markets, with oil and gas ending 
 ![Στιγμιότυπο Οθόνης 2025 11 20 102104](assets/2025-11-20_easing-geopolitical-risks-weigh-on-energy-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_852139abd76b.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 11 20 102104**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-20_easing-geopolitical-risks-weigh-on-energy-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_852139abd76b.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-11-20_easing-geopolitical-risks-weigh-on-energy-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_852139abd76b.png)
 
 ### Market Commentary
 
@@ -46,7 +46,7 @@ China is the world’s largest producer of refined zinc, making up over half of 
 ![Στιγμιότυπο Οθόνης 2025 11 20 102212](assets/2025-11-20_easing-geopolitical-risks-weigh-on-energy-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec4bc545cc83.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 11 20 102212**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-20_easing-geopolitical-risks-weigh-on-energy-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec4bc545cc83.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-11-20_easing-geopolitical-risks-weigh-on-energy-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec4bc545cc83.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

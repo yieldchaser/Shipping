@@ -27,21 +27,21 @@ As we discussed in Commodore. Research's most recent Weekly Executive Report, gl
 ![Chart 1](assets/2025-09-05_return-of-steel-production-growth-ex-china-but-only-because-of-india_img_chart1_e6733c2c8a9e.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-05_return-of-steel-production-growth-ex-china-but-only-because-of-india_img_chart1_e6733c2c8a9e.jpg)
+> [Local Asset](assets/2025-09-05_return-of-steel-production-growth-ex-china-but-only-because-of-india_img_chart1_e6733c2c8a9e.jpg)
 
 July has marked only the third time during the last eleven months that steel production ex-China has grown on a year-on-year basis. However, taking India out of the equation, it has contracted on a year-on-year basis during all eleven of these months.
 
 ![Chart 2](assets/2025-09-05_return-of-steel-production-growth-ex-china-but-only-because-of-india_img_chart2_d866b3c0eff9.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-05_return-of-steel-production-growth-ex-china-but-only-because-of-india_img_chart2_d866b3c0eff9.jpg)
+> [Local Asset](assets/2025-09-05_return-of-steel-production-growth-ex-china-but-only-because-of-india_img_chart2_d866b3c0eff9.jpg)
 
 India’s steel production set a new record in July. Indian steel production totaled 14 million tons last month. This is up month-on-month by 400,000 tons (3%) and is up year-on-year by 1.7 million tons (14%). India’s steel production has now grown for twenty-nine straight months.
 
 ![Chart 3](assets/2025-09-05_return-of-steel-production-growth-ex-china-but-only-because-of-india_img_chart3_461281a2ed18.jpg)
 
 > **Figure 3: Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-05_return-of-steel-production-growth-ex-china-but-only-because-of-india_img_chart3_461281a2ed18.jpg)
+> [Local Asset](assets/2025-09-05_return-of-steel-production-growth-ex-china-but-only-because-of-india_img_chart3_461281a2ed18.jpg)
 
 ---
 

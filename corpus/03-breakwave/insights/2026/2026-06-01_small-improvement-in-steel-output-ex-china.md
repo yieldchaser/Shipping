@@ -27,14 +27,14 @@ Global steel production totaled approximately 153.4 million tons in April. This 
 ![Chart 1](assets/2026-06-01_small-improvement-in-steel-output-ex-china_img_chart1_2e4fcff39284.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-01_small-improvement-in-steel-output-ex-china_img_chart1_2e4fcff39284.jpg)
+> [Local Asset](assets/2026-06-01_small-improvement-in-steel-output-ex-china_img_chart1_2e4fcff39284.jpg)
 
 Previously, steel production ex-China had contracted on a year-on-year basis for two straight months. Prior to those two months, steel production ex-China had increased for seven straight months.
 
 ![Chart 2](assets/2026-06-01_small-improvement-in-steel-output-ex-china_img_chart2_18bbc5328f0c.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-01_small-improvement-in-steel-output-ex-china_img_chart2_18bbc5328f0c.jpg)
+> [Local Asset](assets/2026-06-01_small-improvement-in-steel-output-ex-china_img_chart2_18bbc5328f0c.jpg)
 
 Taking India out of the equation, though, production contracted year-on-year by 800,000 tons (-1%). Steel production ex-Chin/India has now contracted on a year-on-year basis for three straight months.
 
@@ -43,7 +43,7 @@ Indian steel production totaled 13.8 million tons last month. This is down month
 ![Chart 3](assets/2026-06-01_small-improvement-in-steel-output-ex-china_img_chart3_13925290ce04.jpg)
 
 > **Figure 3: Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-01_small-improvement-in-steel-output-ex-china_img_chart3_13925290ce04.jpg)
+> [Local Asset](assets/2026-06-01_small-improvement-in-steel-output-ex-china_img_chart3_13925290ce04.jpg)
 
 ---
 

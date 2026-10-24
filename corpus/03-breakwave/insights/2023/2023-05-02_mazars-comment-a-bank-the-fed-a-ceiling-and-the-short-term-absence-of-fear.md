@@ -42,7 +42,7 @@ And while it is the really problematic entities that failed, the pressure contin
 ![Market Chart 1](assets/2023-05-02_mazars-comment-a-bank-the-fed-a-ceiling-and-the-short-term-absence-of-fear_img_image00128329_d3884e0439c3.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-02_mazars-comment-a-bank-the-fed-a-ceiling-and-the-short-term-absence-of-fear_img_image00128329_d3884e0439c3.png)
+> [Local Asset](assets/2023-05-02_mazars-comment-a-bank-the-fed-a-ceiling-and-the-short-term-absence-of-fear_img_image00128329_d3884e0439c3.png)
 
 that the bank was allowed to fail on a Monday instead of a Friday (which would give markets some time to digest the news) suggests that regulators didn’t fear a market backlash. On Monday (the US market was open) stocks barely moved on the news, ending the session nearly flat. The yield on the US 10-year bond inched upward, of course, but not significantly.
 
@@ -51,14 +51,14 @@ What’s more important, the implied market expectations for Fed rates were also
 ![Market Chart 2](assets/2023-05-02_mazars-comment-a-bank-the-fed-a-ceiling-and-the-short-term-absence-of-fear_img_image00228229_af55809b69ce.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-02_mazars-comment-a-bank-the-fed-a-ceiling-and-the-short-term-absence-of-fear_img_image00228229_af55809b69ce.png)
+> [Local Asset](assets/2023-05-02_mazars-comment-a-bank-the-fed-a-ceiling-and-the-short-term-absence-of-fear_img_image00228229_af55809b69ce.png)
 
 The market still expects the US central bank to go ahead with at least one more rate hike. What will be infinitely more important this time around, is the statement, where Jay Powell’s policy team is expected to provide some guidance as to their intentions regarding further rate hikes. Whereas the bond market isn’t pricing in any further tightening, strategists in Wall Street expect that the Fed, which has already acknowledged that credit conditions are tighter, could squeeze in one more hike until pausing. That means that the Fed remains undaunted by bank failures (after all, these happen), or even the fact that interest rates will now be higher than actual inflation for the first time in years bar the pandemic.
 
 ![Market Chart 3](assets/2023-05-02_mazars-comment-a-bank-the-fed-a-ceiling-and-the-short-term-absence-of-fear_img_image00328129_4939b0a479d7.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-02_mazars-comment-a-bank-the-fed-a-ceiling-and-the-short-term-absence-of-fear_img_image00328129_4939b0a479d7.png)
+> [Local Asset](assets/2023-05-02_mazars-comment-a-bank-the-fed-a-ceiling-and-the-short-term-absence-of-fear_img_image00328129_4939b0a479d7.png)
 
 But policymakers remain fearless in their fight against inflation, and markets have started to share their sentiment.
 
@@ -69,7 +69,7 @@ CDS markets are, naturally afraid, pricing in a US default in the next twelve mo
 ![Market Chart 4](assets/2023-05-02_mazars-comment-a-bank-the-fed-a-ceiling-and-the-short-term-absence-of-fear_img_image00428229_291dafaf3650.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-02_mazars-comment-a-bank-the-fed-a-ceiling-and-the-short-term-absence-of-fear_img_image00428229_291dafaf3650.png)
+> [Local Asset](assets/2023-05-02_mazars-comment-a-bank-the-fed-a-ceiling-and-the-short-term-absence-of-fear_img_image00428229_291dafaf3650.png)
 
 Yet, bond markets remain by and large unperturbed. Lawmakers have threatened us with the debt ceiling so many times, why should this be different?
 

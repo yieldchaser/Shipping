@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-07-14_cyclicality-vs-volati
 ![Market Chart 1](assets/2020-07-14_cyclicality-vs-volatility_img_image-asset_3c0c6b991fac.jpeg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-07-14_cyclicality-vs-volatility_img_image-asset_3c0c6b991fac.jpeg)
+> [Local Asset](assets/2020-07-14_cyclicality-vs-volatility_img_image-asset_3c0c6b991fac.jpeg)
 
 As is the case when rates are rising with demand exceeding available supply, when rates are falling, the opposite can be said. However, it is not always as straightforward as it sounds. Capesize rates recently experienced one of the best four weeks on record and arguing about the absolute level of rates that the market should clear is not really a useful exercise. Instead, one should focus on “the flow of demand” (i.e. cargo flow) and relative changes on that front. Such flow has recently declined, and with charterers being less eager to fix, spot rates have been easing for the last week or so.
 
@@ -36,7 +36,7 @@ History, might provide some clues to the future development of rates, though we 
 ![19 vs 20](assets/2020-07-14_cyclicality-vs-volatility_img_19vs20_05cd71010189.jpg)
 
 > **Figure 2: 19 vs 20**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-07-14_cyclicality-vs-volatility_img_19vs20_05cd71010189.jpg)
+> [Local Asset](assets/2020-07-14_cyclicality-vs-volatility_img_19vs20_05cd71010189.jpg)
 
 We believe Capesize rates might follow a similar bottoming process to last year, with a two-week lag. That puts a potential bottom sometime during the last 10 days in July at the low 20,000s.
 

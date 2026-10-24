@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-11-26_persistent-weakness.h
 ![Istock 840821750](assets/2024-11-26_persistent-weakness_img_istock-840821750_a72909c7e9f5.jpg)
 
 > **Figure 1: Istock 840821750**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-26_persistent-weakness_img_istock-840821750_a72909c7e9f5.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-11-26_persistent-weakness_img_istock-840821750_a72909c7e9f5.jpg)
 
 Crude and product tanker markets have been under heavy pressure so far in Q4, with clean West rates currently the only bright spot. Whilst markets are frequently volatile, persistently weaker returns in the middle of a traditionally strong fourth quarter are causing concern. What are the demand factors behind weaker rates and earnings?
 
@@ -40,7 +40,7 @@ Whilst some factors behind weaker rates are individual for specific segments, th
 ![Στιγμιότυπο Οθόνης 2024 11 26 114515](assets/2024-11-26_persistent-weakness_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_57a45e87c280.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 11 26 114515**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-26_persistent-weakness_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_57a45e87c280.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-11-26_persistent-weakness_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_57a45e87c280.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

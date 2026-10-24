@@ -49,12 +49,12 @@ The blue dots on our map highlight new and existing Mongolian/Chinese border cro
 ![Market Chart 1](assets/2024-08-30_the-big-picture-chinas-coal-imports-overland-gain-but-seaborne-drop-from-russia_img_image028129_d8a647100966.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-30_the-big-picture-chinas-coal-imports-overland-gain-but-seaborne-drop-from-russia_img_image028129_d8a647100966.png)
+> [Local Asset](assets/2024-08-30_the-big-picture-chinas-coal-imports-overland-gain-but-seaborne-drop-from-russia_img_image028129_d8a647100966.png)
 
 ![Market Chart 2](assets/2024-08-30_the-big-picture-chinas-coal-imports-overland-gain-but-seaborne-drop-from-russia_img_image128129_91a5e0cc32ee.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-30_the-big-picture-chinas-coal-imports-overland-gain-but-seaborne-drop-from-russia_img_image128129_91a5e0cc32ee.png)
+> [Local Asset](assets/2024-08-30_the-big-picture-chinas-coal-imports-overland-gain-but-seaborne-drop-from-russia_img_image128129_91a5e0cc32ee.png)
 
 The main border crossing for railed Mongolian coal into China at**Erenhot**has been supplemented since late 2022 by the**completion of the Tavan Tolgoi-Gashuun Sukhait Railway (Tavan T-GS Railway)**.
 
@@ -67,7 +67,7 @@ With Mongolian coal exports confirmed at 6.9m tonnes in July, Braemar has includ
 ![Market Chart 3](assets/2024-08-30_the-big-picture-chinas-coal-imports-overland-gain-but-seaborne-drop-from-russia_img_image2_522746cf7568.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-30_the-big-picture-chinas-coal-imports-overland-gain-but-seaborne-drop-from-russia_img_image2_522746cf7568.png)
+> [Local Asset](assets/2024-08-30_the-big-picture-chinas-coal-imports-overland-gain-but-seaborne-drop-from-russia_img_image2_522746cf7568.png)
 
 ### How Then Do These Developments Relate to Seaborne Volumes?
 

@@ -27,12 +27,12 @@ This week, in the East, we discuss the outlook for crude tanker demand in the co
 ![Στιγμιότυπο Οθόνης 2024 06 27 113125](assets/2024-06-27_limited-momentum-for-crude-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f4ee3ff4b7cf.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 06 27 113125**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGT88PUbrTAFqS-aJnmIeZSN_F125dN2hSdLR0HPDE1qbCQ-w4O7DprUlvxbe3GU3QIcRGZ4k4=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-27_limited-momentum-for-crude-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f4ee3ff4b7cf.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGT88PUbrTAFqS-aJnmIeZSN_F125dN2hSdLR0HPDE1qbCQ-w4O7DprUlvxbe3GU3QIcRGZ4k4=) | [Local Asset](assets/2024-06-27_limited-momentum-for-crude-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f4ee3ff4b7cf.png)
 
 ![Στιγμιότυπο Οθόνης 2024 06 27 113140](assets/2024-06-27_limited-momentum-for-crude-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ba632e45178.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 06 27 113140**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGT88PUbrTAFqS-aJnmIeZSN_F125dN2hSdLR0HPDE1qbCQ-w4O7DprUlvxbe3GU3QIcRGZ4k4=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-27_limited-momentum-for-crude-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ba632e45178.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGT88PUbrTAFqS-aJnmIeZSN_F125dN2hSdLR0HPDE1qbCQ-w4O7DprUlvxbe3GU3QIcRGZ4k4=) | [Local Asset](assets/2024-06-27_limited-momentum-for-crude-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ba632e45178.png)
 
 - As we approach the halfway point of 2024, has crude tanker demand so far this year been different from the record-setting year in 2023? Demand in terms of the[number of voyages](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGT88PUbrTAFqS-aJnmIeZSN_F125dN2hSdLR0HPDE1qbCQ-w4O7DprUlvxbe3GU3QIcRGZ4k4=)has been consistently lower than last year’s numbers on a seasonal basis, but still above seasonal norms.
 
@@ -42,7 +42,7 @@ This week, in the East, we discuss the outlook for crude tanker demand in the co
 ![Στιγμιότυπο Οθόνης 2024 06 27 113338](assets/2024-06-27_limited-momentum-for-crude-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d05e90d04bb3.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 06 27 113338**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGT88PUbgT2CluG34Xcb2FHEtdNFyrkfBgy5FfJybbnbdZgTX1mrmIYjP-3J-C0ifkAMT-0YN4=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-27_limited-momentum-for-crude-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d05e90d04bb3.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGT88PUbgT2CluG34Xcb2FHEtdNFyrkfBgy5FfJybbnbdZgTX1mrmIYjP-3J-C0ifkAMT-0YN4=) | [Local Asset](assets/2024-06-27_limited-momentum-for-crude-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d05e90d04bb3.png)
 
 - Demand for MR2s in the East is muted, with[utilisation](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGT88PUbgT2CluG34Xcb2FHEtdNFyrkfBgy5FfJybbnbdZgTX1mrmIYjP-3J-C0ifkAMT-0YN4=)per day dropping by 4% q-o-q. Despite the current CPP oversupply in the region which has suppressed margins, the drop seems to be driven from non-transportation fuels.
 
@@ -52,7 +52,7 @@ This week, in the East, we discuss the outlook for crude tanker demand in the co
 ![Στιγμιότυπο Οθόνης 2024 06 27 114924](assets/2024-06-27_limited-momentum-for-crude-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_63538653c274.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 06 27 114924**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGT88PUbvp1XP_gQsTQ1fa_rqyyjQDy7TW5nl8gAmAMK2GLXMxqcTTwl5cn7XuMitL0xCtjNJM=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-27_limited-momentum-for-crude-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_63538653c274.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGT88PUbvp1XP_gQsTQ1fa_rqyyjQDy7TW5nl8gAmAMK2GLXMxqcTTwl5cn7XuMitL0xCtjNJM=) | [Local Asset](assets/2024-06-27_limited-momentum-for-crude-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_63538653c274.png)
 
 - US Gulf Coast VLCC tonne-miles have fallen for the month of June as larger cargoes to Europe decrease as buyers show a lack of interest. This comes even as[US Gulf crude/condensate exports in June increased towards Europe (days 1-25)](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGT88PUbvp1XP_gQsTQ1fa_rqyyjQDy7TW5nl8gAmAMK2GLXMxqcTTwl5cn7XuMitL0xCtjNJM=), but moving forward European buying interest for light sweet barrels is slowing down.
 
@@ -62,7 +62,7 @@ This week, in the East, we discuss the outlook for crude tanker demand in the co
 ![Στιγμιότυπο Οθόνης 2024 06 27 115104](assets/2024-06-27_limited-momentum-for-crude-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a8b9ebe55ae2.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 06 27 115104**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGT88PUbqNewwX2ecS636qbkTShxKS3QnnnaPbedXNV7uLhTkpwCJJ3lKNaMBVhSLZ2iJyikoI=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-27_limited-momentum-for-crude-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a8b9ebe55ae2.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGT88PUbqNewwX2ecS636qbkTShxKS3QnnnaPbedXNV7uLhTkpwCJJ3lKNaMBVhSLZ2iJyikoI=) | [Local Asset](assets/2024-06-27_limited-momentum-for-crude-voyages_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a8b9ebe55ae2.png)
 
 - [MR freight rates](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGT88PUbqNewwX2ecS636qbkTShxKS3QnnnaPbedXNV7uLhTkpwCJJ3lKNaMBVhSLZ2iJyikoI=)out of the US Gulf have shown a lot of volatility over the last month. After a big rally in early June, rates then fell around 30% before beginning another rally that has resulted in an increase in rates of over 60% over the last 2 weeks. Vessel supply fundamentals are undoubtedly contributing to the recent rally, as[prompt vessel supply in the USG dropped sharply](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGT88PUbmJmKIHz8kgxF_Z8700Rzl73H1G1SlapAS6qqf-1osHXKnmoINe7YzcV-GJdLQhvV_o=)over the past week. However, we want to focus on some of the positive tanker demand signals we are seeing.
 

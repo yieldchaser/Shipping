@@ -27,7 +27,7 @@ Supply disruption across the metals sector continues to provide support. Oil mar
 ![Στιγμιότυπο Οθόνης 2024 04 19 101419](assets/2024-04-19_metals-gains-following-sanctions-on-russian-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_07eecbc891f3.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 04 19 101419**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-19_metals-gains-following-sanctions-on-russian-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_07eecbc891f3.png)
+> [Local Asset](assets/2024-04-19_metals-gains-following-sanctions-on-russian-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_07eecbc891f3.png)
 
 The rally across the**base metals**continued amid fears of tightening supplies. Tin led the gains as a slew of supply disruptions from Southeast Asia to Africa have led one market participant to build a holding of 40% of long positions for LME tin contracts for May delivery. In other metals, there were large orders to withdraw metal from LME warehouses as the market adjusts to the US and UK bans on Russian metals. Trade flows for these metals were already adjusting to European, UK and US sanctions on Russia following its invasion of Ukraine in 2022. Increasing amounts have found their way to Asia. However, there has also been a build-up of Russian-origin metal in LME warehouses, including off-warrant material. LME’s position as the global hub of metals trading means these bans could cause disruption to trade flows in the short term. This comes amid already tight markets, which should[**support prices in the short term**](../pdfs/2024-04-19_metals-gains-following-sanctions-on-russian-supply_commodity-call-sanctioned-metals_7070ad848de0.pdf). However, we expect the sanctions to only temporarily disrupt supply. Moreover, premiums in certain regions (such as Europe) are likely to rise as the pool of non-sanction metal shrinks rapidly.
 
@@ -42,7 +42,7 @@ The rally across the**base metals**continued amid fears of tightening supplies. 
 ![Στιγμιότυπο Οθόνης 2024 04 19 101606](assets/2024-04-19_metals-gains-following-sanctions-on-russian-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_69a3780ac7fe.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 04 19 101606**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-19_metals-gains-following-sanctions-on-russian-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_69a3780ac7fe.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-04-19_metals-gains-following-sanctions-on-russian-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_69a3780ac7fe.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

@@ -38,7 +38,7 @@ tags:
 ![66d9c1710e053cadccd9604e 66d9c13f535e192cb4ec15cd Chart%20of%20the%20week%20tanker](../../images/66d9c1710e053cadccd9604e_66d9c13f535e192cb4ec15cd_chart%20of%20the%20week%20tanker.avif)
 
 > **Figure 1: 66d9c1710e053cadccd9604e 66d9c13f535e192cb4ec15cd Chart%20of%20the%20week%20tanker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-36-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66d9c1710e053cadccd9604e_66d9c13f535e192cb4ec15cd_chart%20of%20the%20week%20tanker.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-36-2024) | [Local Asset](../../images/66d9c1710e053cadccd9604e_66d9c13f535e192cb4ec15cd_chart%20of%20the%20week%20tanker.avif)
 
 The first week of September has shown weaker momentum for both dirty and clean freight market rates. The supply trend, which is expected to be a challenging factor in the coming days, has recorded an increase. Notably, in the MR clean segment, there has been a surprising upswing, pushing levels above the annual average. Meanwhile, VLCC Ras Tanura levels are approaching the annual average, indicating potential shifts in market dynamics. It remains to be seen whether this trend in tonne days growth will be driven by increasing demand and translate into higher freight market rates.
 

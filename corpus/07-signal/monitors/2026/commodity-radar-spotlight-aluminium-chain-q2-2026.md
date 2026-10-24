@@ -44,7 +44,7 @@ China and India both saw imports increase, whilst the UAE saw imports fall as ma
 
 > **Figure 1: Source: Seaborne Bauxite Flows Origins and Destinations From Signal Ocean**  
 > *Source: Seaborne bauxite flows origins and destinations from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-aluminium-chain-q2-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a58a7069c46b10c5eafda9e_4a0bfa5c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-aluminium-chain-q2-2026) | [Local Asset](../../images/6a58a7069c46b10c5eafda9e_4a0bfa5c.png)
 
 
 ## Global Seaborne Alumina
@@ -57,7 +57,7 @@ If the conflict continues to re-escalate, the alumina trade is likely to remain 
 
 > **Figure 2: Source: Seaborne Aluminal Flows Origins and Destinations From Signal Ocean**  
 > *Source: Seaborne aluminal flows origins and destinations from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-aluminium-chain-q2-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a58a73ee9bb8994dfe4e430_2888e4fb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-aluminium-chain-q2-2026) | [Local Asset](../../images/6a58a73ee9bb8994dfe4e430_2888e4fb.png)
 
 
 ## Global Seaborne Aluminium
@@ -71,6 +71,6 @@ The United States saw similar levels of seaborne bulk aluminium imports in 2026 
 
 > **Figure 3: Source: Seaborne Aluminium Flows, Origins, and Destinations From Signal Ocean**  
 > *Source: Seaborne aluminium flows, origins, and destinations from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-aluminium-chain-q2-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a58a760de3014055e2602e5_408f61b9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-aluminium-chain-q2-2026) | [Local Asset](../../images/6a58a760de3014055e2602e5_408f61b9.png)
 
 **Explore the data yourself:** All flow figures in this report are drawn from [The Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean/signal-ocean-platform), where you can filter by commodity, route, and date range to track the aluminium chain in real time. [Get in touch](https://www.thesignalgroup.com/request-demo) for a walkthrough of our dry bulk flows module.

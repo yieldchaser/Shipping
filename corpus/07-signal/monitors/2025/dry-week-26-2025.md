@@ -29,7 +29,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/dry/dynamic/drybulkflows-Downloadable**  
 > *https://app.signalocean.com/dry/dynamic/drybulkflows-downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-26-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/685d7573fde7a7a0572e8b0a_AD_4nXf5WnUywYlz8mxUpm0XFX8TInYPzCTqq9SYgFZ6oN3pEPMNEOLUX6PlD7g3lWARg-vUaXWMgl7e17hV2x8AZSTBmMM7PVJw5aE7xPf-JKQoj1S_Vgiajbd38V5kPsk42VtCymT-xA.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-26-2025) | [Local Asset](../../images/685d7573fde7a7a0572e8b0a_AD_4nXf5WnUywYlz8mxUpm0XFX8TInYPzCTqq9SYgFZ6oN3pEPMNEOLUX6PlD7g3lWARg-vUaXWMgl7e17hV2x8AZSTBmMM7PVJw5aE7xPf-JKQoj1S_Vgiajbd38V5kPsk42VtCymT-xA.png)
 
 This week’s **Market Monitor** highlights a notable shift in thermal coal trade flows, particularly in the evolving import strategies of China and India. According to the latest dry bulk flow data, **Indonesia** continues to account for 48% of global thermal coal exports, with Taboneo and Muara Berau remaining the most active origin terminals. However, Chinese and Indian buyers are increasingly turning to higher-grade coal alternatives from countries such as Australia and Russia. This trend appears to be mainly driven by the current downturn in global coal prices, which has made energy-dense coal from non-Indonesian sources more cost-competitive.
 

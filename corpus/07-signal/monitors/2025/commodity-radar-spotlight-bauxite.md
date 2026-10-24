@@ -40,7 +40,7 @@ A 22% increase YTD in bauxite exports from Guinea has helped to stabilise the ca
 
 > **Figure 1: Source: Bauxite Carrying Capesize Tonne-Miles to China From Signal Ocean**  
 > *Source: Bauxite carrying Capesize tonne-miles to China from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-bauxite) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/694aa7cfed2eff02f922b906_1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-bauxite) | [Local Asset](../../images/694aa7cfed2eff02f922b906_1.png)
 
 Bauxite exports from Guinea have experienced uninterrupted y/y growth every month so far in 2025, with the final month of December likely to be no different. As a result, bauxite exports from Guinea are likely to reach 175mt, 22% higher than in 2024. This has led to bauxite being the best-performing capesize commodity behind iron ore on a tonne-mile basis.
 
@@ -51,7 +51,7 @@ Guinea is the largest bauxite exporter, accounting for 69% of all bauxite export
 
 > **Figure 2: Source: Guinea Bauxite Exports From Signal Ocean**  
 > *Source: Guinea bauxite exports from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-bauxite) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/694aa825470061d55326a8b4_947c2d4e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-bauxite) | [Local Asset](../../images/694aa825470061d55326a8b4_947c2d4e.png)
 
 China consumed 86% of all bauxite exports in 2025 to feed its aluminium industry. In China, aluminium production has a self-imposed cap of 45mt tonnes per annum, introduced in 2017 to curb emissions and help prevent oversupply. According to China’s National Bureau of Statistics, Chinese aluminium production for the first 11 months of 2025 sits at 41.4mt, meaning December production can be no more than 3.6mt to be within the cap. This figure is much lower than the 3.8mt monthly average 2025 has produced.
 
@@ -62,7 +62,7 @@ Given the cap restarts in January, the outlook for bauxite demand in China remai
 
 > **Figure 3: Source: China Aluminium Production From the National Bureau of Statistics**  
 > *Source: China aluminium production from the National Bureau of Statistics*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-bauxite) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/694aa825470061d55326a8b1_ca9a429a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-bauxite) | [Local Asset](../../images/694aa825470061d55326a8b1_ca9a429a.png)
 
 Looking further ahead to 2030, bauxite exports raise more intriguing questions. Guinea plans to achieve roughly 7mt of alumina production annually by that year, which would require about 14mt of bauxite. Based on 2025 export levels, this could reduce global bauxite exports by around 5%. While this initial decline is modest, additional alumina capacity could be brought online rapidly if government revenues increase as expected from higher-value alumina exports. Over time, this may drive a steady and prolonged contraction in Guinea’s bauxite exports.
 
@@ -73,7 +73,7 @@ Weaker bauxite exports would compound the expectations of weaker coal exports an
 
 > **Figure 4: Source: Capesize Demand by Commodity.**  
 > *Source: Capesize demand by commodity.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-bauxite) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/694aa825470061d55326a8b7_70d7e84e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-bauxite) | [Local Asset](../../images/694aa825470061d55326a8b7_70d7e84e.png)
 
 
 ## Bauxite Will Continue to Drive Capesize …

@@ -42,12 +42,12 @@ As the leading steel production expansion story in Southeast Asia,has resumed it
 ![Vietnam](assets/2024-07-26_opkxxsvz4942ihmm856nho7nv2uqn3_img_image0_55c2e95d2f23.png)
 
 > **Figure 1: Vietnam**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-26_opkxxsvz4942ihmm856nho7nv2uqn3_img_image0_55c2e95d2f23.png)
+> [Local Asset](assets/2024-07-26_opkxxsvz4942ihmm856nho7nv2uqn3_img_image0_55c2e95d2f23.png)
 
 ![Market Chart 2](assets/2024-07-26_opkxxsvz4942ihmm856nho7nv2uqn3_img_image128129_fa550a66e1dc.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-26_opkxxsvz4942ihmm856nho7nv2uqn3_img_image128129_fa550a66e1dc.png)
+> [Local Asset](assets/2024-07-26_opkxxsvz4942ihmm856nho7nv2uqn3_img_image128129_fa550a66e1dc.png)
 
 However, while Japan, South Korea and Taiwan imported in the region of 130m tonnes of iron ore and coking coal during the 1H 2024, the equivalent for India and Vietnam was estimated at 51-52m tonnes, thanks mainly to the availability of domestic ore in India.
 
@@ -66,7 +66,7 @@ The chart also shows that this year’s annual growth in Turkish crude steel pro
 ![Market Chart 3](assets/2024-07-26_opkxxsvz4942ihmm856nho7nv2uqn3_img_image2_4d7fadf0fcf9.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-26_opkxxsvz4942ihmm856nho7nv2uqn3_img_image2_4d7fadf0fcf9.png)
+> [Local Asset](assets/2024-07-26_opkxxsvz4942ihmm856nho7nv2uqn3_img_image2_4d7fadf0fcf9.png)
 
 ---
 

@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-04-09_a-review-of-q1-24-the
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2024-04-09_a-review-of-q1-24-the-red-sea-living-in-a-vuca-world_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-09_a-review-of-q1-24-the-red-sea-living-in-a-vuca-world_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](assets/2024-04-09_a-review-of-q1-24-the-red-sea-living-in-a-vuca-world_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 As we close the first quarter of 2024, tensions in the Red Sea remain at fever pitch. On 6 March, 3 seafarers were killed in a missile attack on the MV True Confidence (50,448-dwt; built in 2011). The fatalities were the first in the ongoing assault on shipping by Yemen’s Houthi rebels. The region is further inflamed by the resurgence of Somali piracy activity. This was a prominent threat in the 2010s. On 12 March 2024, a Bangladeshi bulker, the MV Abdullah (58,068-dwt; built in 2015) was hijacked in the Indian Ocean with 23 seafarers taken hostage.
 
@@ -38,7 +38,7 @@ Firstly, for the first time in shipping history both Panama and Suez Canals’ a
 ![Εικόνα3](assets/2024-04-09_a-review-of-q1-24-the-red-sea-living-in-a-vuca-world_img_ce95ceb9cebacf8ccebdceb13_881675216ffd.png)
 
 > **Figure 2: Εικόνα3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-09_a-review-of-q1-24-the-red-sea-living-in-a-vuca-world_img_ce95ceb9cebacf8ccebdceb13_881675216ffd.png)
+> [Local Asset](assets/2024-04-09_a-review-of-q1-24-the-red-sea-living-in-a-vuca-world_img_ce95ceb9cebacf8ccebdceb13_881675216ffd.png)
 
 The chaos that canal disruptions can induce, whereby its impact on dry bulk shipping is probably only matched by the recent memory of the unprecedented Chinese port congestion in 2021 (due to then restrictions on pilotage in the wake of Covid).
 
@@ -49,7 +49,7 @@ However, assuming full transits resume immediately, will everything simply retur
 ![Στιγμιότυπο Οθόνης 2024 04 09 114703](assets/2024-04-09_a-review-of-q1-24-the-red-sea-living-in-a-vuca-world_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5c1e18666c3f.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 04 09 114703**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-09_a-review-of-q1-24-the-red-sea-living-in-a-vuca-world_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5c1e18666c3f.png)
+> [Local Asset](assets/2024-04-09_a-review-of-q1-24-the-red-sea-living-in-a-vuca-world_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5c1e18666c3f.png)
 
 From 3Q23 (when vessels began to reroute away from the Panama Canal) to date, ships circumvented the canal with the understanding that after discharging, it will also take much longer to ballast back to the prior loading areas than in previous years.
 
@@ -58,7 +58,7 @@ Meanwhile, incumbent ballasters are unable to promptly reposition themselves fro
 ![Στιγμιότυπο Οθόνης 2024 04 09 114910](assets/2024-04-09_a-review-of-q1-24-the-red-sea-living-in-a-vuca-world_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c4ebbb8e8292.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 04 09 114910**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-09_a-review-of-q1-24-the-red-sea-living-in-a-vuca-world_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c4ebbb8e8292.png)
+> [Local Asset](assets/2024-04-09_a-review-of-q1-24-the-red-sea-living-in-a-vuca-world_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c4ebbb8e8292.png)
 
 The collective impact of such developments means that the efficient deployment of the bulker fleet across basins to meet any anticipated transportation demand is now practically unattainable. A sudden need to export a commodity out of key regions could be harder to satisfy. Hence, higher freight upside down the road is more likely than not to occur as positional demand/supply imbalances become more frequent.
 
@@ -72,7 +72,7 @@ Meanwhile, the Chinese economy is not out of the woods. While overall dry import
 
 > **Figure 5: Second-Order Consequences (a Series of Cause-and-Effects) Meant**  
 > *Second-order consequences (a series of cause-and-effects) meant we cannot naively extrapolate into the future solely on existing circumstances. As mentioned in ourWeekly Newsletterissue #105, 29 February 2024, by the end of last year certain operational challenges were not contemplated, but these reared their heads after end-January.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-09_a-review-of-q1-24-the-red-sea-living-in-a-vuca-world_img_ce95ceb9cebacf8ccebdceb15_86fc0692b299.png)
+> [Local Asset](assets/2024-04-09_a-review-of-q1-24-the-red-sea-living-in-a-vuca-world_img_ce95ceb9cebacf8ccebdceb15_86fc0692b299.png)
 
 According to AXSMarine, during the first 12 weeks of this year, Chinese seaborne import volumes totaled 482 mln mt, at pace with last year 480 mln mt.
 
@@ -123,7 +123,7 @@ Under such key assumptions, a bifurcation of strategies by shipping players rega
 ![Στιγμιότυπο Οθόνης 2024 04 09 115333](assets/2024-04-09_a-review-of-q1-24-the-red-sea-living-in-a-vuca-world_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a3e3c9072f43.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2024 04 09 115333**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-09_a-review-of-q1-24-the-red-sea-living-in-a-vuca-world_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a3e3c9072f43.png)
+> [Local Asset](assets/2024-04-09_a-review-of-q1-24-the-red-sea-living-in-a-vuca-world_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a3e3c9072f43.png)
 
 ---
 

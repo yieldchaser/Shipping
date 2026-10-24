@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-04-10_doric-weekly-market-i
 
 > **Figure 1: Bymichalis Voutsinas**  
 > *ByMichalis Voutsinas*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/michalis-voutsinas-587544163/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-10_doric-weekly-market-insight_img_128529_45b76cb7cdd6.png)](https://www.breakwaveadvisors.com/insights/2023/4/10/did-you-know)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/michalis-voutsinas-587544163/) | [Local Asset](assets/2023-04-10_doric-weekly-market-insight_img_128529_45b76cb7cdd6.png)](https://www.breakwaveadvisors.com/insights/2023/4/10/did-you-know)
 
 ## “With the Brazilian Soybean's Solid Global Demand and Favorable Competitiveness Due to the Strong Us Dollar, Refinitiv Forecasts 2022/23 Brazilian Soybean Exports at 92.8 Million Tonnes, Considerably Higher Year-on-Year.”
 
@@ -36,14 +36,14 @@ The new order index balanced at 53.6 percent, pointing to a continuous increase 
 ![1 (2)](assets/2023-04-10_doric-weekly-market-insight_img_128229_38b13066c563.png)
 
 > **Figure 2: 1 (2)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-10_doric-weekly-market-insight_img_128229_38b13066c563.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-04-10_doric-weekly-market-insight_img_128229_38b13066c563.png)
 
 Leaving the Chinese colossal manufacturing sector a bit on the background, dry bulk shipping’s eyes were on the staple grain trades this week. The vibrant East Coast South America granary injected optimism in the market along with a plethora of cargoes. Tuning in to that frequency, the Panamax bulker sector reached its highest point in almost six months. With the leading P6 (ECSA rv) trading in the very high teens, increased activity in the centre stage of the Atlantic has had a positive bearing on the Panamax market across the board.
 
 ![1 (4)](assets/2023-04-10_doric-weekly-market-insight_img_128429_e112454fa61a.png)
 
 > **Figure 3: 1 (4)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-10_doric-weekly-market-insight_img_128429_e112454fa61a.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-04-10_doric-weekly-market-insight_img_128429_e112454fa61a.png)
 
 Historically, March is the highest month for US corn exports. However, US corn exports totalled a preliminary 4.3 million tonnes in the previous month, some 35.7 percent below the three-year average for the month. By contrast, China became the primary destination of Brazilian corn exports by volume, surpassing the traditional importers, according to trade data from the Brazilian government. If United States Department of Agriculture’s estimates are confirmed, Brazil will surpass the US as the world’s largest corn exporter in the 2022-23 marketing year. Looking forward, Brazil's focus is now on soybeans. The main soybean producer shipped 14.2 million tonnes of the high-protein beans in March, 19.3 percent above the five-year average, according to Refinitiv trade flows.
 
@@ -52,7 +52,7 @@ As of April 5, the accumulated 2022/23 Brazilian soybean exports are at 23.5 mil
 ![1 (3)](assets/2023-04-10_doric-weekly-market-insight_img_128329_543d28b8eaad.png)
 
 > **Figure 4: 1 (3)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-10_doric-weekly-market-insight_img_128329_543d28b8eaad.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-04-10_doric-weekly-market-insight_img_128329_543d28b8eaad.png)
 
 Setting aside the sterile macros, everyday life of the spot market is heavily affected by local and international Holidays as well. However, eventually Holiday periods will be over paving the way for the underlying dynamics to fully deploy their potential.
 

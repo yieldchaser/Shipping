@@ -33,7 +33,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform**  
 > *Data Source: The Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-15-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69c271142b29a96047f788c8_66192da43cd7727008df029b_tanker%20chart.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-15-2024) | [Local Asset](../../images/69c271142b29a96047f788c8_66192da43cd7727008df029b_tanker%20chart.png)
 
 In the second week of April, the crude oil freight market maintained a relatively stable sentiment in the VLCC Ras Tanura segment, while indications of an upward trend emerged in the Aframax Mediterranean, accompanied by a decrease in vessel supply. April appears poised to challenge the sentiment in the VLCC freight market, as there are signals of increased vessel activity for Ras Tanura, despite the tonne-day demand growth slowing down, with the last peak observed almost seven weeks ago.
 

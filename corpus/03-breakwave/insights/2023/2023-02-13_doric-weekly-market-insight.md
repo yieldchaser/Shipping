@@ -28,7 +28,7 @@ Reporting double-digit weekly gains but still balancing at uninspiring levels, t
 ![1 (2)](assets/2023-02-13_doric-weekly-market-insight_img_128229_2a09420b9b6c.png)
 
 > **Figure 1: 1 (2)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-13_doric-weekly-market-insight_img_128229_2a09420b9b6c.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-02-13_doric-weekly-market-insight_img_128229_2a09420b9b6c.png)
 
 Following a one-and-a-half-month downward trend, Capesize started off the sixth trading week on the wrong foot. Deepening weekly losses as traders reassessed demand prospects in China, Dalian iron ore futures were largely in the red during last Friday. Inventories of imported iron ore at China's 45 major ports climbed to a four-month high of 137.3 million tonnes, based on the January 20-27 survey by industry data provider Mysteel, up 5.2 million tonnes or 4 percent week-on-week. Against this backdrop, Singapore iron ore futures moved down on Monday to their lowest in nearly three weeks. In sharp contrast to market consensus, steel demand in China has yet to pick up after the Lunar New Year holidays. On the same wavelength, the blast furnace utilization rate among 247 steel mills across China surveyed by Mysteel consultancy was at 84.32 percent as of February 2, marginally higher week-on-week. On Tuesday, Dalian and Singapore iron ore futures took another dive, as the latest Chinese property market indicators were rather discouraging. On Wednesday, the Dalian iron ore benchmark trended mostly sideways, with traders being in a reassessment mood. Iron ore futures reported gains on Thursday, with the Dalian market hitting a one-week high, with sentiment turning positive ahead of the release of Chinese lending data.
 
@@ -41,6 +41,6 @@ Going back to China, market transactions in the Dalian Commodity Exchange were m
 ![1 (3)](assets/2023-02-13_doric-weekly-market-insight_img_128329_028abd95cedf.png)
 
 > **Figure 2: 1 (3)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-13_doric-weekly-market-insight_img_128329_028abd95cedf.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-02-13_doric-weekly-market-insight_img_128329_028abd95cedf.png)
 
 Data source:[Doric](https://www.doric.gr/)

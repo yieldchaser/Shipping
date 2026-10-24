@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-05-13_asset-price-ambiguity
 ![Nissos Nikouria 4](assets/2024-05-13_asset-price-ambiguity_img_nissos-nikouria-4_967132817018.jpg)
 
 > **Figure 1: Nissos Nikouria 4**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-13_asset-price-ambiguity_img_nissos-nikouria-4_967132817018.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-05-13_asset-price-ambiguity_img_nissos-nikouria-4_967132817018.jpg)
 
 VLCC asset prices appear to be caught in a paradoxical market scenario. While conventional market sentiment and pricing models would suggest that prices are reaching overheated levels, mirroring the peaks seen in 2008, the underlying supply dynamics seem to justify these increases for now.
 
@@ -40,7 +40,7 @@ However, the combination of geopolitical tensions, reasonably low orderbook and 
 ![Στιγμιότυπο Οθόνης 2024 05 13 133919](assets/2024-05-13_asset-price-ambiguity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_53b0ef0d3c67.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 05 13 133919**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-13_asset-price-ambiguity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_53b0ef0d3c67.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-05-13_asset-price-ambiguity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_53b0ef0d3c67.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

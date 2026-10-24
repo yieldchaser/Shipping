@@ -27,7 +27,7 @@ Signs of strong demand helped boost sentiment in the energy sector. However, ris
 ![Στιγμιότυπο Οθόνης 2024 07 11 091721](assets/2024-07-11_oil-gains-amid-increasing-travel-by-us-consumers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c38667a2cb40.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 11 091721**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-11_oil-gains-amid-increasing-travel-by-us-consumers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c38667a2cb40.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-07-11_oil-gains-amid-increasing-travel-by-us-consumers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c38667a2cb40.png)
 
 ### Market Commentary
 
@@ -44,7 +44,7 @@ The prospect of easing monetary policy boosted sentiment in the**base metals**se
 ![Στιγμιότυπο Οθόνης 2024 07 11 091635](assets/2024-07-11_oil-gains-amid-increasing-travel-by-us-consumers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_90d886a31e05.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 07 11 091635**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-11_oil-gains-amid-increasing-travel-by-us-consumers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_90d886a31e05.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-07-11_oil-gains-amid-increasing-travel-by-us-consumers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_90d886a31e05.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

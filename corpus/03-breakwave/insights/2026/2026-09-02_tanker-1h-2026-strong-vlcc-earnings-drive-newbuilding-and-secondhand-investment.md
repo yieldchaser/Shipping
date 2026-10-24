@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-09-02_tanker-1h-2026-strong
 ![Pexels Atmadeep Das 1776637129 28247236](assets/2026-09-02_tanker-1h-2026-strong-vlcc-earnings-drive-newbuilding-and-secondhand-investment_img_pexels-atmadeep-das-1776637129-28247_28f5ca7edab3.jpg)
 
 > **Figure 1: Pexels Atmadeep Das 1776637129 28247236**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-02_tanker-1h-2026-strong-vlcc-earnings-drive-newbuilding-and-secondhand-investment_img_pexels-atmadeep-das-1776637129-28247_28f5ca7edab3.jpg)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-09-02_tanker-1h-2026-strong-vlcc-earnings-drive-newbuilding-and-secondhand-investment_img_pexels-atmadeep-das-1776637129-28247_28f5ca7edab3.jpg)
 
 This week’s Allied QuantumSea Research examines tanker fleet and orderbook developments during the first half of 2026, covering fleet growth, age profiles, deliveries, removals and the forward supply outlook.
 
@@ -32,7 +32,7 @@ Freight-market strength following the disruption around the Strait of Hormuz pus
 ![Στιγμιότυπο Οθόνης 2026 09 02 142320](assets/2026-09-02_tanker-1h-2026-strong-vlcc-earnings-drive-newbuilding-and-secondhand-investment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_04c01a2b71e9.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 09 02 142320**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-02_tanker-1h-2026-strong-vlcc-earnings-drive-newbuilding-and-secondhand-investment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_04c01a2b71e9.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-09-02_tanker-1h-2026-strong-vlcc-earnings-drive-newbuilding-and-secondhand-investment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_04c01a2b71e9.png)
 
 ### Fleet in Service: Growth Across Every Main Segment
 
@@ -43,7 +43,7 @@ Aframax/LR2 led at capacity with 4.82m dwt, followed by VLCC at 4.36m dwt, Suezm
 ![Στιγμιότυπο Οθόνης 2026 09 02 142330](assets/2026-09-02_tanker-1h-2026-strong-vlcc-earnings-drive-newbuilding-and-secondhand-investment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98b47e7e615b.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 09 02 142330**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-02_tanker-1h-2026-strong-vlcc-earnings-drive-newbuilding-and-secondhand-investment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98b47e7e615b.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-09-02_tanker-1h-2026-strong-vlcc-earnings-drive-newbuilding-and-secondhand-investment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98b47e7e615b.png)
 
 ### Where the Capacity Sits
 
@@ -54,7 +54,7 @@ MR leads on unit count with 2,978 vessels and Aframax/LR2 at 1,239, so numbers s
 ![Στιγμιότυπο Οθόνης 2026 09 02 142337](assets/2026-09-02_tanker-1h-2026-strong-vlcc-earnings-drive-newbuilding-and-secondhand-investment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9eb10ff11f94.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2026 09 02 142337**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-02_tanker-1h-2026-strong-vlcc-earnings-drive-newbuilding-and-secondhand-investment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9eb10ff11f94.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-09-02_tanker-1h-2026-strong-vlcc-earnings-drive-newbuilding-and-secondhand-investment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9eb10ff11f94.png)
 
 ### Hormuz Risk Repriced the Fleet
 
@@ -65,7 +65,7 @@ Asset values followed, and the gains steepened with age. Over the past year VLCC
 ![Στιγμιότυπο Οθόνης 2026 09 02 142349](assets/2026-09-02_tanker-1h-2026-strong-vlcc-earnings-drive-newbuilding-and-secondhand-investment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_febc7b8407cb.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2026 09 02 142349**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-02_tanker-1h-2026-strong-vlcc-earnings-drive-newbuilding-and-secondhand-investment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_febc7b8407cb.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-09-02_tanker-1h-2026-strong-vlcc-earnings-drive-newbuilding-and-secondhand-investment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_febc7b8407cb.png)
 
 ### Secondhand Is on Fire, But Newbuilding Is the Cheaper Ship
 
@@ -76,7 +76,7 @@ Newbuilding prices rose only around 5% over the year, the slowest move anywhere 
 ![Στιγμιότυπο Οθόνης 2026 09 02 142355](assets/2026-09-02_tanker-1h-2026-strong-vlcc-earnings-drive-newbuilding-and-secondhand-investment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_737854524a84.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2026 09 02 142355**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-02_tanker-1h-2026-strong-vlcc-earnings-drive-newbuilding-and-secondhand-investment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_737854524a84.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-09-02_tanker-1h-2026-strong-vlcc-earnings-drive-newbuilding-and-secondhand-investment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_737854524a84.png)
 
 ### Orderbook: VLCC Drove the Expansion
 
@@ -87,7 +87,7 @@ VLCC accounted for a net 120 vessels and 36.68m dwt, on new contracting of 139 v
 ![Στιγμιότυπο Οθόνης 2026 09 02 142409](assets/2026-09-02_tanker-1h-2026-strong-vlcc-earnings-drive-newbuilding-and-secondhand-investment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ecf19effbad3.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2026 09 02 142409**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-02_tanker-1h-2026-strong-vlcc-earnings-drive-newbuilding-and-secondhand-investment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ecf19effbad3.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-09-02_tanker-1h-2026-strong-vlcc-earnings-drive-newbuilding-and-secondhand-investment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ecf19effbad3.png)
 
 ### Removals Stayed Limited While Older Tonnage Earns
 

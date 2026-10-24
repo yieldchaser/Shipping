@@ -49,21 +49,21 @@ Since Mr Trump’s announcement of worldwide tariffs on 185 countries, financial
 ![Market Chart 1](assets/2025-04-08_the-greatest-economic-gambit-of-our-time_img_image001_62f3631205e7.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-08_the-greatest-economic-gambit-of-our-time_img_image001_62f3631205e7.png)
+> [Local Asset](assets/2025-04-08_the-greatest-economic-gambit-of-our-time_img_image001_62f3631205e7.png)
 
 US large caps had one of their worst 2-day performance in recent history. Only three times since 1950 was a two-day event worse: 1987 Black Monday, the first days of the Pandemic and November 2008, the depths of the Global Financial Crisis.
 
 ![Market Chart 2](assets/2025-04-08_the-greatest-economic-gambit-of-our-time_img_image002_758b4fb81863.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-08_the-greatest-economic-gambit-of-our-time_img_image002_758b4fb81863.png)
+> [Local Asset](assets/2025-04-08_the-greatest-economic-gambit-of-our-time_img_image002_758b4fb81863.png)
 
 **Despite being in equity-crisis mode, the good news is that in this risk-off year (so far) markets, and diversified portfolios, behave the way they are supposed to.**Previously inflated US tech valuations have come a lot closer to planet Earth. Meanwhile, bonds behave like the safe assets they are supposed to be.
 
 ![Market Chart 3](assets/2025-04-08_the-greatest-economic-gambit-of-our-time_img_image003_a9839964b63d.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-08_the-greatest-economic-gambit-of-our-time_img_image003_a9839964b63d.png)
+> [Local Asset](assets/2025-04-08_the-greatest-economic-gambit-of-our-time_img_image003_a9839964b63d.png)
 
 So, before reading on, it’s good to remember that**diversification exists precisely for events like that.**
 
@@ -94,7 +94,7 @@ To answer that, we must first answer three questions:
 ![Market Chart 4](assets/2025-04-08_the-greatest-economic-gambit-of-our-time_img_image004_7cb604bf6f68.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-08_the-greatest-economic-gambit-of-our-time_img_image004_7cb604bf6f68.png)
+> [Local Asset](assets/2025-04-08_the-greatest-economic-gambit-of-our-time_img_image004_7cb604bf6f68.png)
 
 2.**What’s the possible damage?**The potential damage from insistence on exorbitant tariffs is higher for the real economy than it is for markets, at least over the short and medium term. If history is any guide, the Fed tends to make some sort of intervention (money printing, lower rates, credit lines, verbal assurances of their “Put”) around the -20% to -25% mark. Currently, US large caps are down 17.5%.**So the markets have an immediate policy safety net.**
 
@@ -107,7 +107,7 @@ Which brings us to the ostensible $2tn question:
 ![To Be Sure, Strategic](assets/2025-04-08_the-greatest-economic-gambit-of-our-time_img_image005_95db653ee28b.png)
 
 > **Figure 5: To Be Sure, Strategic**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-08_the-greatest-economic-gambit-of-our-time_img_image005_95db653ee28b.png)
+> [Local Asset](assets/2025-04-08_the-greatest-economic-gambit-of-our-time_img_image005_95db653ee28b.png)
 
 Some countries are getting some sort of a deal. Mexico and Canada who sat down with the US are getting a less hostile treatment (Mexico especially). So did Panama who agreed to remove control of the canal from China and Britain, which got hit with just the base 10%.
 

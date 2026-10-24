@@ -44,7 +44,7 @@ Having a country’s sovereign debt on the front page of every financial news ou
 ![Market Chart 1](assets/2022-10-17_5xjj5vdn5fijgvrqwinpd3m9demwgj_img_image00428229_bd68d87e5bf7.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-17_5xjj5vdn5fijgvrqwinpd3m9demwgj_img_image00428229_bd68d87e5bf7.jpg)
+> [Local Asset](assets/2022-10-17_5xjj5vdn5fijgvrqwinpd3m9demwgj_img_image00428229_bd68d87e5bf7.jpg)
 
 With the UK, however, things ought to be different. The country features a comfortable 87% government debt-to-GDP, below the 91% global average and significantly lower than the 140%-plus for Greece and Italy. The economy has firm roots in big sectors like finance, exports, technology, healthcare and logistics. And unlike the two Eurozone nations, it has complete liberty to print its own money. In a monetary world, monetary independence is important. It means that a country can always print money to pay off what it owes- even at the cost of a weaker currency.
 
@@ -62,7 +62,7 @@ And when extreme volatility is met by the false assumption that markets can be i
 
 > **Figure 2: MR Kwarteng’s Transgression**  
 > *Mr Kwarteng’s transgression, in fact, is probably dwarfed by the present Fed’s belief that it can ignore market volatility in its fight against inflation. For years we have said that markets were behaving like Pavlov’s dogs, responding to the Fed’s stimulus. This may have been the case when markets were going up. But when bond markets are collapsing, we find that the metaphor is no longer useful. Markets are big and deep and can run wild.Theyare the bedrock of capitalism, not central banks. They can react much faster to events and challenges than any political body can decide on how to respond to them.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-17_5xjj5vdn5fijgvrqwinpd3m9demwgj_img_image00528129_b067974975f8.jpg)
+> [Local Asset](assets/2022-10-17_5xjj5vdn5fijgvrqwinpd3m9demwgj_img_image00528129_b067974975f8.jpg)
 
 2008, was all about the moral hazard created by the financial industry. Banks were thereafter shackled and risk was transferred to private, non-systemic investors, like asset managers and private equity funds.
 
@@ -93,4 +93,4 @@ Having said that, we believe that the UK is in a much stronger position that Gre
 ![Market Chart 3](assets/2022-10-17_5xjj5vdn5fijgvrqwinpd3m9demwgj_img_image00628229_02dc4a31ed0d.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-17_5xjj5vdn5fijgvrqwinpd3m9demwgj_img_image00628229_02dc4a31ed0d.jpg)
+> [Local Asset](assets/2022-10-17_5xjj5vdn5fijgvrqwinpd3m9demwgj_img_image00628229_02dc4a31ed0d.jpg)

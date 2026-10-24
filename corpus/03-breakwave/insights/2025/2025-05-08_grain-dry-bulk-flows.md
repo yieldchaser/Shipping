@@ -27,7 +27,7 @@ May 07, 2025
 ![Στιγμιότυπο Οθόνης 2025 05 08 093037](assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_828bd569478f.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 05 08 093037**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_828bd569478f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_828bd569478f.png)
 
 Between 2022 and 2024, US grain exports to Mexico have shown a significant upward trend, with Mexico's share rising from 7.6% in 2022 to 9.3% in 2024, indicating a strong and growing demand from its southern neighbor. This 1.7 percentage point increase reflects deeper trade ties and potentially changing sourcing strategies amid ongoing global uncertainties.
 
@@ -42,7 +42,7 @@ In summary, the current growth of exports to Mexico and the prominence of smalle
 ![Στιγμιότυπο Οθόνης 2025 05 08 093341](assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a2295e95941.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 05 08 093341**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a2295e95941.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a2295e95941.png)
 
 Capesize freight market sentiment remains stable, supported by a slight decrease in the number of ballast vessels.
 
@@ -54,7 +54,7 @@ Capesize freight market sentiment remains stable, supported by a slight decrease
 ![Στιγμιότυπο Οθόνης 2025 05 08 093653](assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_812297bc1298.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 05 08 093653**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_812297bc1298.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_812297bc1298.png)
 
 The latest ballaster indicators point to downward momentum, with signals approaching the annual average for Capesize and Panamax activity in Southeast Africa.
 
@@ -66,7 +66,7 @@ The latest ballaster indicators point to downward momentum, with signals approac
 ![Στιγμιότυπο Οθόνης 2025 05 08 093832](assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4b9734d27e6.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 05 08 093832**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4b9734d27e6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4b9734d27e6.png)
 
 Tonne-day growth declined in the first week of May, with the Supramax segment appearing to be the only one showing resistance to this downward trend.
 
@@ -78,7 +78,7 @@ Tonne-day growth declined in the first week of May, with the Supramax segment ap
 ![Στιγμιότυπο Οθόνης 2025 05 08 093921](assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f7628f085964.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 05 08 093921**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f7628f085964.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f7628f085964.png)
 
 Dry bulk port congestion in China began to ease in early May, following three consecutive weeks of increases.
 

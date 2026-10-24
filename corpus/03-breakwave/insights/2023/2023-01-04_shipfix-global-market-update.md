@@ -60,6 +60,6 @@ In the wake of the European import ban on Russian coal, the continent’s buyers
 ![Market Chart 1](assets/2023-01-04_shipfix-global-market-update_img_unnamed-2023-01-04t141106158_4cc6567368ae.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-04_shipfix-global-market-update_img_unnamed-2023-01-04t141106158_4cc6567368ae.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2023-01-04_shipfix-global-market-update_img_unnamed-2023-01-04t141106158_4cc6567368ae.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

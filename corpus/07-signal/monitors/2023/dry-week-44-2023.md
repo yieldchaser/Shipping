@@ -31,7 +31,7 @@ tags:
 ![Increase in the Percentage Share of Supramax Vessel Size for October](../../images/654280045bcc091f7babe2fe_middle east grain exports.png)
 
 > **Figure 1: Increase in the Percentage Share of Supramax Vessel Size for October**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-44-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/654280045bcc091f7babe2fe_middle east grain exports.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-44-2023) | [Local Asset](../../images/654280045bcc091f7babe2fe_middle east grain exports.png)
 
 As November starts, there is uncertainty about how dry bulk freight rates will perform in the future. Optimism in earlier days has faded due to recent weekly declines, and the market's strength in the final quarter of the year is now in question. On the supply side, there has been an increase in the number of ballasters for Capesize vessels, while in the Panamax category, there is still a decrease, indicating the possibility of a more robust rate environment.
 

@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-05-20_dark-flows.html"
 ![Projects](assets/2024-05-20_dark-flows_img_projects_41577ba61ed3.jpg)
 
 > **Figure 1: Projects**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-20_dark-flows_img_projects_41577ba61ed3.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-05-20_dark-flows_img_projects_41577ba61ed3.jpg)
 
 Despite operating under long running sanctions, Iranian crude exports continue to flow. The large shadow tanker fleet as well as the network of traders and financial intermediaries that make this trade possible have occasionally faced sanctions enforcement. US Treasury officials have recently been in Malaysia and Singapore to have discussions with local players about the ongoing presence of large-scale Ship-to-Ship (STS) operations of sanctioned Iranian, Venezuelan crudes off the Malaysian coast. The basis of this latest action involves concerns that Iran is using this region to generate revenue to finance its proxies and terrorism in the Middle East.
 
@@ -38,7 +38,7 @@ Even if greater sanctions enforcement attempts to slow the growth of the Iranian
 ![Στιγμιότυπο Οθόνης 2024 05 20 104816](assets/2024-05-20_dark-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_52f2d1bdfd1f.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 05 20 104816**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-20_dark-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_52f2d1bdfd1f.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-05-20_dark-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_52f2d1bdfd1f.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

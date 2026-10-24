@@ -34,7 +34,7 @@ The first round of import tariffs (25% on steel and 10% on aluminium) in March 2
 
 > **Figure 1: As Indicated in Our360 Degreesof 29 October**  
 > *As indicated in our360 Degreesof 29 October, moves towardssteel trade protectionism are certainly not limited to the US and China, with the EU and others considering steps against a range of exporters.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-08_the-big-picture-us-election-tariffs-to-the-fore_img_image0_705d163f817c.png)
+> [Local Asset](assets/2024-11-08_the-big-picture-us-election-tariffs-to-the-fore_img_image0_705d163f817c.png)
 
 Although Section 232 tariffs (on grounds of national security) were mostly retained by the Biden administration, US steel imports are**now running at an annual rate of around 27.5m tonnes**(with Canada’s share at 6-7m tonnes).
 
@@ -49,7 +49,7 @@ As outlined in the second chart below, it can be argued that a greater impact on
 ![20% Tariff on Imported Us Soybeans](assets/2024-11-08_the-big-picture-us-election-tariffs-to-the-fore_img_image1_9f903f46a363.png)
 
 > **Figure 2: 20% Tariff on Imported Us Soybeans**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-08_the-big-picture-us-election-tariffs-to-the-fore_img_image1_9f903f46a363.png)
+> [Local Asset](assets/2024-11-08_the-big-picture-us-election-tariffs-to-the-fore_img_image1_9f903f46a363.png)
 
 ### Us Soybean Exports: October Peak
 
@@ -64,7 +64,7 @@ With a nod towards the US presidential election, US-based consultants AgResource
 ![Buyers in China Were Avoiding the Us for January Delivery Onwards](assets/2024-11-08_the-big-picture-us-election-tariffs-to-the-fore_img_image228129_4a21a05f608f.png)
 
 > **Figure 3: Buyers in China Were Avoiding the Us for January Delivery Onwards**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-08_the-big-picture-us-election-tariffs-to-the-fore_img_image228129_4a21a05f608f.png)
+> [Local Asset](assets/2024-11-08_the-big-picture-us-election-tariffs-to-the-fore_img_image228129_4a21a05f608f.png)
 
 The IGC also forecast a 4m tonne gain in US soybean exports in 2024/25 (Oct-Sep). Even if achieved, this would fall short of both 2021/22 and 2022/23.
 

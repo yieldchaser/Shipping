@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-09-10_chinas-plan-to-stockp
 
 > **Figure 1: “Beijing Is Keen to Heed the Lessons of the Coronavirus Crisis**  
 > *“Beijing is keen to heed the lessons of the coronavirus crisis and deteriorating relations with the U.S. and its allies, according to the officials, who participated in the drafting of the plan. That means ensuring the nation’s secretive stockpiles, almost certainly among the world’s largest, are plentiful enough to withstand supply disruptions that could cripple its economy, the officials said, asking not to be identified because the matter is sensitive.*  
-> **Interactive Data & Source:** [Scmp](https://www.scmp.com/economy/china-economy/article/3091182/why-has-china-australia-relationship-deteriorated-what-some) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-10_chinas-plan-to-stockpile-commodities-should-support-shipping_img_image-asset_03cb63cc2cd6.jpeg)
+> **Interactive Data & Source:** [Scmp](https://www.scmp.com/economy/china-economy/article/3091182/why-has-china-australia-relationship-deteriorated-what-some) | [Local Asset](assets/2020-09-10_chinas-plan-to-stockpile-commodities-should-support-shipping_img_image-asset_03cb63cc2cd6.jpeg)
 
 Although the day-to-day drivers of freight rates are usually dominating shipping market discussions, long term fundamentals remain vague in an industry with such a high degree of volatility. And yet, shipping cycles can be longer and stronger versus short term shipping rate fluctuations as investors learned well in the 2000’s shipping cycle.
 
@@ -40,7 +40,7 @@ Bloomberg writes:
 
 > **Figure 2: Obviously**  
 > *Obviously, for investors in commodities such a development is good news, as it creates a new, unexpected source of demand. However,what is most levered to such a scenario is shipping. With an orderbook at multi-year lows and with minimal appetite for new ship orders, the industry is currently set for subdued demand growth in the medium term. If indeed such a stockpiling scenario becomes a reality, demand for shipping will be stronger that currently expected, and, with supply growth constrained, the balance will favor a stronger rate plateau versus what is currently priced-in.*  
-> **Interactive Data & Source:** [Scmp](https://www.scmp.com/economy/china-economy/article/3091182/why-has-china-australia-relationship-deteriorated-what-some) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-10_chinas-plan-to-stockpile-commodities-should-support-shipping_img_ship18_12cd82abb0df.jpg)
+> **Interactive Data & Source:** [Scmp](https://www.scmp.com/economy/china-economy/article/3091182/why-has-china-australia-relationship-deteriorated-what-some) | [Local Asset](assets/2020-09-10_chinas-plan-to-stockpile-commodities-should-support-shipping_img_ship18_12cd82abb0df.jpg)
 
 If one considers that the Capesize forward curve for the next 3 years is in the 13,000 region, which is in line with the 10-year trailing average (a period of significant oversupply and a few years of flat demand growth),**the odds of a tighter market and thus higher realized rates for the next 2-5 years is skewed to the upside.**
 

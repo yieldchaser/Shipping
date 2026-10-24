@@ -29,21 +29,21 @@ In the European Union, manufacturing production has now grown on a year-on-year 
 ![Chart 1](assets/2026-03-05_ongoing-global-industrial-improvement_img_chart1_78e63f00074e.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-05_ongoing-global-industrial-improvement_img_chart1_78e63f00074e.jpg)
+> [Local Asset](assets/2026-03-05_ongoing-global-industrial-improvement_img_chart1_78e63f00074e.jpg)
 
 In the United States, manufacturing production has grown on a year-on-year basis for thirteen straight months. Previously, it had contracted on a year-on-year basis during nineteen of the prior twenty-two months.
 
 ![Chart 2](assets/2026-03-05_ongoing-global-industrial-improvement_img_chart2_d155832bb189.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-05_ongoing-global-industrial-improvement_img_chart2_d155832bb189.jpg)
+> [Local Asset](assets/2026-03-05_ongoing-global-industrial-improvement_img_chart2_d155832bb189.jpg)
 
 In Japan, manufacturing production has grown on a year-on-year basis during three of the last four months. It previously had contracted on a year-on-year basis during three of the prior four months.
 
 ![Chart 3](assets/2026-03-05_ongoing-global-industrial-improvement_img_chart3_b303441c9fe0.jpg)
 
 > **Figure 3: Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-05_ongoing-global-industrial-improvement_img_chart3_b303441c9fe0.jpg)
+> [Local Asset](assets/2026-03-05_ongoing-global-industrial-improvement_img_chart3_b303441c9fe0.jpg)
 
 A key theme in Commodore Research's Weekly Executive Reports has been that nations have been turning more inwards to boost their own production, and that individual demand for industrial commodities has continued to strengthen. Heightened war risk and global instability on their own also continue to lead to nations focusing more on importing and stockpiling commodities.
 

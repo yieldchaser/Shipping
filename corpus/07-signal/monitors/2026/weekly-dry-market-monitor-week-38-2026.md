@@ -37,7 +37,7 @@ tags:
 
 > **Figure 1: US Soybean Departures to China — Seven-Day Moving Average, 2026 Through 19 September Against the Same Series in 2025**  
 > *Figure 1: US soybean departures to China — seven-day moving average, 2026 through 19 September against the same series in 2025 (Source: Signal). The series measures vessel departures from US origins to Chinese destinations, grouped by export date, and is stated in tonnes. It is not segmented by vessel class, so it does not on its own establish demand for any particular size, and the most recent observations may be revised as voyages settle.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab24cf47d24d501c627d9a7_3a99183d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](../../images/6ab24cf47d24d501c627d9a7_3a99183d.png)
 
 USDA figures put China’s total US soybean commitments for the **2026/27 marketing year at 9.858 million tonnes through 10 September**, including completed shipments and outstanding sales. The outstanding portion represents cargoes still to be shipped, making their loading schedules relevant to the development of US–China vessel demand over the coming months.[https://www.ams.usda.gov/sites/default/files/media/GTR09172026.pdf](https://www.ams.usda.gov/sites/default/files/media/GTR09172026.pdf)Purchases reported on 10 September covered approximately **1 million tonnes**, with Sinograin booking cargoes from **US Gulf Coast export terminals to China for December 2026–February 2027 shipment**. Earlier buying, reported on 3 August, included at least eight cargoes from US Gulf Coast terminals and six from US Pacific Northwest ports, scheduled for October–November shipment to China. The autumn bookings therefore involve both US export regions, while the later Sinograin purchases extend the US Gulf–China loading programme into winter. These shipment dates fall beyond the September recovery visible in the departure data, placing the associated vessel employment in the fourth quarter and early 2027.[https://www.brecorder.com/news/amp/40438824](https://www.brecorder.com/news/amp/40438824)
 
@@ -52,7 +52,7 @@ Private Chinese crushers have largely avoided US cargoes because of the addition
 ![Freight Market Overview | BDI & Segment Metrics](../../images/6ab24c51082fb6177a3b07ac_Screenshot 2026-09-22 at 10.36.34.png)
 
 > **Figure 2: Freight Market Overview | BDI & Segment Metrics**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab24c51082fb6177a3b07ac_Screenshot 2026-09-22 at 10.36.34.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](../../images/6ab24c51082fb6177a3b07ac_Screenshot 2026-09-22 at 10.36.34.png)
 
 **The Atlantic did the work in the small sizes.** The single largest route move of the week was **Handysize** in the **US Gulf**: HS4\_38 rose $5,221 to $24,000/day, with HS3\_38 (Rio de Janeiro–Recalada) up $945 to $25,167/day, HS2\_38 up $536 to $12,700/day, and HS1\_38 up $471 to $9,464/day. The **Pacific Handysize** routes were flat to slightly lower over the same days. **Supramax** gains were centred on Asia and West Africa, with S8 (South China via Indonesia) up $1,560 to $25,229/day and S3 (North China to West Africa) up $1,109 to $20,892/day, while the two **US Gulf Supramax routes** eased, S1C by $363 and S4A by $337.
 
@@ -61,7 +61,7 @@ Private Chinese crushers have largely avoided US cargoes because of the addition
 
 > **Figure 2: Baltic Dry Index — Spot Rate Summary Across Segments and BDI Performance as of 18 Sep 2026**  
 > *Figure 2: Baltic Dry Index — spot rate summary across segments and BDI performance as of 18 Sep 2026 (Source: Signal).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab24cf47d24d501c627d9ad_7ba9dc19.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](../../images/6ab24cf47d24d501c627d9ad_7ba9dc19.png)
 
 **The larger sizes weakened on the Pacific legs.** Within **Capesize** the decline was concentrated on the Pacific and backhaul routes, C10\_182 (China–Japan transpacific round) down $7,038 to $50,341/day and C16\_182 (Far East–Atlantic backhaul) down $1,944 to $21,778/day, while C14\_182 rose $606 and the Brazil–China voyage route C3 firmed $0.83 to $42.96/mt. **Panamax** fell on every route, with the largest declines on P3A\_82 (−$1,763) and P6\_82 (−$1,703); the **grain routes** eased more modestly, P7 (US Gulf–Qingdao) down $0.34 to $75.95/mt and P8 (Santos–Qingdao) down $0.72 to $56.53/mt.
 
@@ -72,7 +72,7 @@ Private Chinese crushers have largely avoided US cargoes because of the addition
 ![Ballasters - By Region](../../images/6ab24c66082fb6177a3b0818_Screenshot 2026-09-22 at 10.36.44.png)
 
 > **Figure 4: Ballasters - By Region**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab24c66082fb6177a3b0818_Screenshot 2026-09-22 at 10.36.44.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](../../images/6ab24c66082fb6177a3b0818_Screenshot 2026-09-22 at 10.36.44.png)
 
 *Global ballaster fleet and regional counts as of 18 September 2026 (Source: Signal).*
 
@@ -89,7 +89,7 @@ The **Pacific** timecharter routes led the decline: C10\_182 (China–Japan tran
 ![Capesize | Analysis](../../images/6ab24cf47d24d501c627d9b3_6763f349.png)
 
 > **Figure 5: Capesize | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab24cf47d24d501c627d9b3_6763f349.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](../../images/6ab24cf47d24d501c627d9b3_6763f349.png)
 
 *Figure 3: Baltic Capesize Index (BCI) — spot rate summary and BCI performance (Source: Signal).*
 
@@ -99,7 +99,7 @@ The **Pacific** timecharter routes led the decline: C10\_182 (China–Japan tran
 ![Capesize | Analysis](../../images/6ab24cf47d24d501c627d9b6_94f2b34c.png)
 
 > **Figure 6: Capesize | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab24cf47d24d501c627d9b6_94f2b34c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](../../images/6ab24cf47d24d501c627d9b6_94f2b34c.png)
 
 *Figure 4: Capesize — Global ballaster fleet and regional positioning (Source: Signal).*
 
@@ -109,7 +109,7 @@ The **Pacific** timecharter routes led the decline: C10\_182 (China–Japan tran
 ![Capesize | Analysis](../../images/6ab24cf47d24d501c627d9b9_d031211e.png)
 
 > **Figure 7: Capesize | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab24cf47d24d501c627d9b9_d031211e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](../../images/6ab24cf47d24d501c627d9b9_d031211e.png)
 
 *Figure 5: Capesize — C3 & C5 forward balance: cumulative Supply vs Expected Demand over days forward (Source: Signal).*
 
@@ -119,7 +119,7 @@ The **Pacific** timecharter routes led the decline: C10\_182 (China–Japan tran
 ![Capesize | Analysis](../../images/6ab24cf47d24d501c627d9aa_8874b059.png)
 
 > **Figure 8: Capesize | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab24cf47d24d501c627d9aa_8874b059.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](../../images/6ab24cf47d24d501c627d9aa_8874b059.png)
 
 *Figure 6: Capesize — demand-to-supply ratio (LHS bars, four-week-average year-on-year growth; above 1.00 = tonne-mile demand growing faster than available tonnage) against the C5TC weekly average (RHS line). Available tonnage excludes VLOC tonnage on long-term contract. Shaded band = latest six provisional weeks. The line and its annotated value are the settled weekly average for the week ending 17 September 2026 and cover a different period from the 18 September closing assessments quoted above (Source: Signal). The reading is provisional, and the side of 1.00 may still shift on revision; the final loading day of the week is incomplete, and the Capesize demand leg carries no settlement nowcast.*
 
@@ -132,7 +132,7 @@ The **Pacific** timecharter routes led the decline: C10\_182 (China–Japan tran
 ![Panamax | Analysis](../../images/6ab24cf47d24d501c627d9bc_eeccec77.png)
 
 > **Figure 9: Panamax | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab24cf47d24d501c627d9bc_eeccec77.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](../../images/6ab24cf47d24d501c627d9bc_eeccec77.png)
 
 *Figure 7: Baltic Panamax Index (BPI) — spot rate summary and BPI performance (Source: Signal).*
 
@@ -142,7 +142,7 @@ The **Pacific** timecharter routes led the decline: C10\_182 (China–Japan tran
 ![Panamax | Analysis](../../images/6ab24cf47d24d501c627d9b0_50d74627.png)
 
 > **Figure 10: Panamax | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab24cf47d24d501c627d9b0_50d74627.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](../../images/6ab24cf47d24d501c627d9b0_50d74627.png)
 
 *Figure 8: Panamax — Global ballaster fleet and regional positioning (Source: Signal).*
 
@@ -152,7 +152,7 @@ The **Pacific** timecharter routes led the decline: C10\_182 (China–Japan tran
 ![Panamax | Analysis](../../images/6ab24cf47d24d501c627d9bf_462139a4.png)
 
 > **Figure 11: Panamax | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab24cf47d24d501c627d9bf_462139a4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](../../images/6ab24cf47d24d501c627d9bf_462139a4.png)
 
 *Figure 9: Panamax — P1/P2/P7, P3, P5 & P6: cumulative Supply vs Expected Demand over days forward (Source: Signal).*
 
@@ -162,7 +162,7 @@ The **Pacific** timecharter routes led the decline: C10\_182 (China–Japan tran
 ![Panamax | Analysis](../../images/6ab24cf47d24d501c627d9c5_0fb01f0e.png)
 
 > **Figure 12: Panamax | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab24cf47d24d501c627d9c5_0fb01f0e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](../../images/6ab24cf47d24d501c627d9c5_0fb01f0e.png)
 
 *Figure 10: Panamax — demand-to-supply ratio (LHS bars, four-week-average year-on-year growth; above 1.00 = tonne-mile demand growing faster than available tonnage) against the P5TC weekly average (RHS line). Available tonnage excludes VLOC tonnage on long-term contract. Shaded band = latest six provisional weeks. The line and its annotated value are the settled weekly average for the week ending 17 September 2026 and cover a different period from the 18 September closing assessments quoted above (Source: Signal). The reading is provisional, and the tonne-mile leg carries a settlement nowcast for the incomplete final loading day.*
 
@@ -175,7 +175,7 @@ The **Pacific** timecharter routes led the decline: C10\_182 (China–Japan tran
 ![Supramax | Analysis](../../images/6ab24cf47d24d501c627d9c2_24a4ea2d.png)
 
 > **Figure 13: Supramax | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab24cf47d24d501c627d9c2_24a4ea2d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](../../images/6ab24cf47d24d501c627d9c2_24a4ea2d.png)
 
 *Figure 11: Baltic Supramax Index (BSI) — spot rate summary and BSI performance (Source: Signal).*
 
@@ -185,7 +185,7 @@ The **Pacific** timecharter routes led the decline: C10\_182 (China–Japan tran
 ![Supramax | Analysis](../../images/6ab24cf47d24d501c627d9cb_f8d35221.png)
 
 > **Figure 14: Supramax | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab24cf47d24d501c627d9cb_f8d35221.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](../../images/6ab24cf47d24d501c627d9cb_f8d35221.png)
 
 *Figure 12: Supramax — Global ballaster fleet and regional positioning (Source: Signal).*
 
@@ -195,7 +195,7 @@ The **Pacific** timecharter routes led the decline: C10\_182 (China–Japan tran
 ![Supramax | Analysis](../../images/6ab24cf47d24d501c627d9c8_f05e6adb.png)
 
 > **Figure 15: Supramax | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab24cf47d24d501c627d9c8_f05e6adb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](../../images/6ab24cf47d24d501c627d9c8_f05e6adb.png)
 
 *Figure 13: Supramax — S4A/S1C, S4B, S5 & S8/S10: cumulative Supply vs Expected Demand over days forward (Source: Signal).*
 
@@ -205,7 +205,7 @@ The **Pacific** timecharter routes led the decline: C10\_182 (China–Japan tran
 ![Supramax | Analysis](../../images/6ab24cf47d24d501c627d9ce_84440492.png)
 
 > **Figure 16: Supramax | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab24cf47d24d501c627d9ce_84440492.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](../../images/6ab24cf47d24d501c627d9ce_84440492.png)
 
 *Figure 14: Supramax — demand-to-supply ratio (LHS bars, four-week-average year-on-year growth; above 1.00 = tonne-mile demand growing faster than available tonnage) against the S11TC weekly average (RHS line). Available tonnage excludes VLOC tonnage on long-term contract. Shaded band = latest six provisional weeks. The line and its annotated value are the settled weekly average for the week ending 17 September 2026 and cover a different period from the 18 September closing assessments quoted above (Source: Signal). The reading is provisional, and the tonne-mile leg carries a settlement nowcast for the incomplete final loading day.*
 
@@ -218,7 +218,7 @@ The **Pacific** timecharter routes led the decline: C10\_182 (China–Japan tran
 ![Handysize | Analysis](../../images/6ab24cf47d24d501c627d9d7_2d760c7b.png)
 
 > **Figure 17: Handysize | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab24cf47d24d501c627d9d7_2d760c7b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](../../images/6ab24cf47d24d501c627d9d7_2d760c7b.png)
 
 *Figure 15: Baltic Handysize Index (BHSI) — spot rate summary and BHSI performance (Source: Signal).*
 
@@ -228,7 +228,7 @@ The **Pacific** timecharter routes led the decline: C10\_182 (China–Japan tran
 ![Handysize | Analysis](../../images/6ab24cf47d24d501c627d9d4_83bdcbdf.png)
 
 > **Figure 18: Handysize | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab24cf47d24d501c627d9d4_83bdcbdf.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](../../images/6ab24cf47d24d501c627d9d4_83bdcbdf.png)
 
 *Figure 16: Handysize — Global ballaster fleet and regional positioning (Source: Signal).*
 
@@ -238,7 +238,7 @@ The **Pacific** timecharter routes led the decline: C10\_182 (China–Japan tran
 ![Handysize | Analysis](../../images/6ab24cf47d24d501c627d9da_461858d1.png)
 
 > **Figure 19: Handysize | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab24cf47d24d501c627d9da_461858d1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](../../images/6ab24cf47d24d501c627d9da_461858d1.png)
 
 *Figure 17: Handysize — HS1/HS2, HS5, HS6 & HS7: cumulative Supply vs Expected Demand over days forward (Source: Signal).*
 
@@ -248,7 +248,7 @@ The **Pacific** timecharter routes led the decline: C10\_182 (China–Japan tran
 ![Handysize | Analysis](../../images/6ab24cf47d24d501c627d9d1_52030c50.png)
 
 > **Figure 20: Handysize | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab24cf47d24d501c627d9d1_52030c50.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](../../images/6ab24cf47d24d501c627d9d1_52030c50.png)
 
 *Figure 18: Handysize — demand-to-supply ratio (LHS bars, four-week-average year-on-year growth; above 1.00 = tonne-mile demand growing faster than available tonnage) against the HS7TC weekly average (RHS line). Available tonnage excludes VLOC tonnage on long-term contract. Shaded band = latest six provisional weeks. The line and its annotated value are the settled weekly average for the week ending 17 September 2026 and cover a different period from the 18 September closing assessments quoted above (Source: Signal). Handysize demand is built from Voyage API tonne-mile alone, a different basis from the Panamax and Supramax blended series, so the level should be read within the Handysize series only. The reading is provisional.*
 
@@ -256,7 +256,7 @@ The **Pacific** timecharter routes led the decline: C10\_182 (China–Japan tran
 ![Handysize | Analysis](../../images/6ab24cd47d24d501c627d0da_Screenshot 2026-09-22 at 10.37.00.png)
 
 > **Figure 21: Handysize | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ab24cd47d24d501c627d0da_Screenshot 2026-09-22 at 10.37.00.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-38-2026) | [Local Asset](../../images/6ab24cd47d24d501c627d0da_Screenshot 2026-09-22 at 10.37.00.png)
 
 Demand contracting faster than tonnage
 

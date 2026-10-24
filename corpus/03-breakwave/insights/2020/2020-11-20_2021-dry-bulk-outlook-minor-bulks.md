@@ -33,7 +33,7 @@ We include everything that is not iron ore, coal, grains or bauxite in the minor
 ![Klav 30](assets/2020-11-20_2021-dry-bulk-outlook-minor-bulks_img_klav30_d3b9a5e00a1e.png)
 
 > **Figure 1: Klav 30**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-20_2021-dry-bulk-outlook-minor-bulks_img_klav30_d3b9a5e00a1e.png)
+> [Local Asset](assets/2020-11-20_2021-dry-bulk-outlook-minor-bulks_img_klav30_d3b9a5e00a1e.png)
 
 If we break it down by segment, we clearly see dominance of the geared vessels. 45% of all minor bulk volumes were carried on Supramaxes in 2019 (right chart above), followed by Handysize at 34% and short sea vessels at 12%. The market share of the Panamaxes segment is only 9% while the market share of Capesize vessels is virtually zero. If we pivot and instead look at the market share of minor bulks in each vessel segment’s carrying capacity, we see that minor bulks constitutes 78% of the demand for short sea vessels, 68% of the demand for Handysize vessels and 55% of the demand for Supramaxes (middle graph).
 
@@ -46,7 +46,7 @@ The commodity group of minor bulks includes a wide range of commodities, whereof
 ![Klav 31](assets/2020-11-20_2021-dry-bulk-outlook-minor-bulks_img_klav31_a6aa0e48817b.png)
 
 > **Figure 2: Klav 31**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-20_2021-dry-bulk-outlook-minor-bulks_img_klav31_a6aa0e48817b.png)
+> [Local Asset](assets/2020-11-20_2021-dry-bulk-outlook-minor-bulks_img_klav31_a6aa0e48817b.png)
 
 Total minor bulk export volumes are down 40 million tonnes (-3.1%) in the first ten months of 2020 compared to the same period last year. This can broadly speaking be explained by two factors: the Indonesian ban on exports of nickel ore and decreasing global industrial production because of the Covid-19 epidemic.
 
@@ -59,7 +59,7 @@ Indonesia was the largest nickel ore exporter up until 2014 when a ban on the ex
 ![Klav 32](assets/2020-11-20_2021-dry-bulk-outlook-minor-bulks_img_klav32_f7e971b710f0.png)
 
 > **Figure 3: Klav 32**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-20_2021-dry-bulk-outlook-minor-bulks_img_klav32_f7e971b710f0.png)
+> [Local Asset](assets/2020-11-20_2021-dry-bulk-outlook-minor-bulks_img_klav32_f7e971b710f0.png)
 
 Global nickel ore export is down 31% year to date (see middle graph below) and this explains two thirds of the demand destruction we have seen in the minor bulk volumes in the first ten months of this year. About 80% of all nickel ore exports are destined for China. Nickel ore prices have been increasing in line with China’s recovering industrial production since April. On the back of increasing nickel prices we do expect the Philippines and other smaller exporters to increase their export somewhat in 2021, but it will not be anywhere close to offset the loss in volumes seen this year out of Indonesia. Nevertheless, the growth in nickel ore export will turn from sharply negative in 2020 to slightly positive in 2021.
 
@@ -67,7 +67,7 @@ Global nickel ore export is down 31% year to date (see middle graph below) and t
 
 > **Figure 4: All Trade Growth Numbers in This Article Is Derived From Our**  
 > **All trade growth numbers in this article is derived from our in-house analytical platform which includes data and material from AXSMarine, all rights reserved.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-20_2021-dry-bulk-outlook-minor-bulks_img_klav33_449b299e8127.png)
+> [Local Asset](assets/2020-11-20_2021-dry-bulk-outlook-minor-bulks_img_klav33_449b299e8127.png)
 
 ### The Negative Impact of COVID-19
 

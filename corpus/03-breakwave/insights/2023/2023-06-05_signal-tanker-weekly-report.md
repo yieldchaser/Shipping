@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-06-05_signal-tanker-weekly-
 ![VLCC Growth in Ton-Miles Declines vs. Better Outlook for Suezmax\](assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t120630421_f962124df506.png)
 
 > **Figure 1: VLCC Growth in Ton-Miles Declines vs. Better Outlook for Suezmax\**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-dynamic-oilflows/2p1dqx/323633154?h=GYf1pH_Zrw1ISo2rLKkQ-mt7nlY03zuBOD9Z5HOSAc8) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t120630421_f962124df506.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-dynamic-oilflows/2p1dqx/323633154?h=GYf1pH_Zrw1ISo2rLKkQ-mt7nlY03zuBOD9Z5HOSAc8) | [Local Asset](assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t120630421_f962124df506.png)
 
 Data Source: The Signal Ocean Platform- Oil Flows
 
@@ -40,7 +40,7 @@ Freight Market, Supply and Demand
 ![‘Dirty’ VLCC - Suezmax - Aframax Weaker](assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t120743065_4c470b0e180f.png)
 
 > **Figure 2: ‘Dirty’ VLCC - Suezmax - Aframax Weaker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t120743065_4c470b0e180f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t120743065_4c470b0e180f.png)
 
 Overall sentiment in the crude oil freight market remained weaker in May, except for the Aframax Med route, which finally saw a rebound after the last low in week 17.
 
@@ -51,7 +51,7 @@ Overall sentiment in the crude oil freight market remained weaker in May, except
 ![‘Product’ Lr Steady](assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t120820794_f2f1e7938e13.png)
 
 > **Figure 3: ‘Product’ Lr Steady**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t120820794_f2f1e7938e13.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t120820794_f2f1e7938e13.png)
 
 - LR2 AG freight rates continue to be stable and are now around 148 WS, while LR1 MEG Jpn rates also continue to be around 158 WS with no fluctuations.
 
@@ -62,7 +62,7 @@ Product’ Panamax - Softening
 ![‘Clean’ MR2 - Weaker | MR1 - Steady](assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t120920448_c542e4c3ca2b.png)
 
 > **Figure 4: ‘Clean’ MR2 - Weaker | MR1 - Steady**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t120920448_c542e4c3ca2b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t120920448_c542e4c3ca2b.png)
 
 - The MR1 rates for shipments from Algeria to the Mediterranean have shown continued weakness, staying consistent with the previous week's settled levels of around WS135. Notably, the MR1 rates for the Baltic Continent have now matched the rates for the Algeria-Mediterranean route, reaching the same levels.
 
@@ -73,7 +73,7 @@ Product’ Panamax - Softening
 ![Market Chart 5](assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t121018455_03ef155632f0.png)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t121018455_03ef155632f0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t121018455_03ef155632f0.png)
 
 Despite an overall increasing trend in the supply of crude oil tankers, recent data reveals that both the VLCC Ras Tanura and Aframax Baltic are currently experiencing levels below the annual average.
 
@@ -85,14 +85,14 @@ Despite an overall increasing trend in the supply of crude oil tankers, recent d
 ![‘Clean’ Supply Trend Lines for Key Load Areas | LR2 | Decreasing](assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t121106252_e30472b8b1da.png)
 
 > **Figure 6: ‘Clean’ Supply Trend Lines for Key Load Areas | LR2 | Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t121106252_e30472b8b1da.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t121106252_e30472b8b1da.png)
 
 ## ‘Clean’ Supply Trend Lines for Key Load Areas |MR1| Decreasing
 
 ![Market Chart 7](assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t121148458_2a91b15628dc.png)
 
 > **Figure 7: Market Chart 7**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t121148458_2a91b15628dc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t121148458_2a91b15628dc.png)
 
 - Clean LR2 AG Jubail: The significant downward trend recorded in the last three weeks continues in early June. The number of ships now stands at 6, 7 lower than the average for the year.
 
@@ -103,14 +103,14 @@ Despite an overall increasing trend in the supply of crude oil tankers, recent d
 ![‘Dirty’ | VLCC - Suezmax - Aframax - Increasing](assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t121310537_e698a2957a63.png)
 
 > **Figure 8: ‘Dirty’ | VLCC - Suezmax - Aframax - Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t121310537_e698a2957a63.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t121310537_e698a2957a63.png)
 
 ## ‘Clean’ |Panamax - MR Increasing
 
 ![Panamax - MR Increasing](assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t121359044_6b06234d5270.png)
 
 > **Figure 9: Panamax - MR Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t121359044_6b06234d5270.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-06-05_signal-tanker-weekly-report_img_unnamed-2023-06-05t121359044_6b06234d5270.png)
 
 - Dirty demand ton-days: The demand for crude oil tankers in the Suezmax segment has remained considerably strong, indicating a positive outlook. Additionally, there are early indications of a recovery in the growth of VLCC ton days, suggesting a ​​​potential turnaround in this sector.
 

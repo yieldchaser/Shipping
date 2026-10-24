@@ -43,7 +43,7 @@ b. The slowdown in ordering is likely to focus on ships that would have been tri
 ![Market Chart 1](assets/2025-01-07_the-big-picture-tanker-ordering_img_image0_fb59ae03a7f3.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-07_the-big-picture-tanker-ordering_img_image0_fb59ae03a7f3.png)
+> [Local Asset](assets/2025-01-07_the-big-picture-tanker-ordering_img_image0_fb59ae03a7f3.png)
 
 c. We expect capacity at Chinese yards will continue to expand, opening new slots from 2027. CGT expected to be built worldwide in 2026 is already 3% higher than 2025, which was itself up 4% on 2023.
 
@@ -52,7 +52,7 @@ d. More Chinese capacity will be targeting tankers. Not just those yards that al
 ![Market Chart 2](assets/2025-01-07_the-big-picture-tanker-ordering_img_image128129_371de1d3e5f5.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-07_the-big-picture-tanker-ordering_img_image128129_371de1d3e5f5.png)
+> [Local Asset](assets/2025-01-07_the-big-picture-tanker-ordering_img_image128129_371de1d3e5f5.png)
 
 Even if tankers were to maintain their 2026 share of total CGT built worldwide, this would requireacity of today’s delivery schedule for 2027 to grow by 12%.
 
@@ -67,7 +67,7 @@ Having revised our NB delivery numbers upward, we could of course now risk overs
 ![Braemar’s Estimate of Nb Tanker Deliveries In…](assets/2025-01-07_the-big-picture-tanker-ordering_img_image2_e060d549604b.png)
 
 > **Figure 3: Braemar’s Estimate of Nb Tanker Deliveries In…**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-07_the-big-picture-tanker-ordering_img_image2_e060d549604b.png)
+> [Local Asset](assets/2025-01-07_the-big-picture-tanker-ordering_img_image2_e060d549604b.png)
 
 ---
 

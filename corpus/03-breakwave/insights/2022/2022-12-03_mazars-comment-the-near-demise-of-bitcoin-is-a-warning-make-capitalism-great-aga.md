@@ -28,7 +28,7 @@ Cryptocurrencies were one of these novel, ground-breaking ideas bound to garner 
 ![Market Chart 1](assets/2022-12-03_mazars-comment-the-near-demise-of-bitcoin-is-a-warning-make-capitalism-great-aga_img_image00128129_4c3a0490dbd4.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-03_mazars-comment-the-near-demise-of-bitcoin-is-a-warning-make-capitalism-great-aga_img_image00128129_4c3a0490dbd4.png)
+> [Local Asset](assets/2022-12-03_mazars-comment-the-near-demise-of-bitcoin-is-a-warning-make-capitalism-great-aga_img_image00128129_4c3a0490dbd4.png)
 
 For the time being, there seems to be no significant financial contagion. After all, the whole point of the enterprise was avoiding banks altogether. This means that the crypto world operated in a rather closed loop. But there are important lessons to be learned.
 
@@ -51,7 +51,7 @@ Second, quite tangent is people’s evident disillusionment with the financial a
 ![Market Chart 2](assets/2022-12-03_mazars-comment-the-near-demise-of-bitcoin-is-a-warning-make-capitalism-great-aga_img_image002_2f5c74671158.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-03_mazars-comment-the-near-demise-of-bitcoin-is-a-warning-make-capitalism-great-aga_img_image002_2f5c74671158.png)
+> [Local Asset](assets/2022-12-03_mazars-comment-the-near-demise-of-bitcoin-is-a-warning-make-capitalism-great-aga_img_image002_2f5c74671158.png)
 
 Third, the global financial and political system could have easily quashed cryptocurrencies in their infancy. But it chose not to. Its goal is rather transparent. To use cryptocurrencies as a way to get people talking about digital currencies, produced by central banks. The era of the physical ‘wallet’ is fast coming to an end, and paper money, that have existed since at least the 10th century, may soon be consigned to history.
 

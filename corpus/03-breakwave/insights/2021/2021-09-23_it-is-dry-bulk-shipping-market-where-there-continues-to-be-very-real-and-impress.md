@@ -29,7 +29,7 @@ In our view, the Evergrande situation remains more than anything a stark reflect
 ![Unsplash Image Do5nh0hxngo](assets/2021-09-23_it-is-dry-bulk-shipping-market-where-there-continues-to-be-very-real-and-impress_img_unsplash-image-do5nh0hxngo_f9456d0f547f.jpg)
 
 > **Figure 1: Unsplash Image Do5nh0hxngo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-23_it-is-dry-bulk-shipping-market-where-there-continues-to-be-very-real-and-impress_img_unsplash-image-do5nh0hxngo_f9456d0f547f.jpg)
+> [Local Asset](assets/2021-09-23_it-is-dry-bulk-shipping-market-where-there-continues-to-be-very-real-and-impress_img_unsplash-image-do5nh0hxngo_f9456d0f547f.jpg)
 
 China’s government is incredibly powerful, and we anticipate that it will continue to focus on reigning in parts of the economy while also continuing to generate moderate economic growth. What is also very interesting about Evergrande, however, is that the company has never reported a loss — including most recently in the first half of this year. It has been troubling (but not at all surprising to us) that a company that has always officially been profitable is having difficulty meeting debt obligations. For many companies globally, generating regular profit is seemingly of no concern these days — and for some other companies, the profit that is reported at best likely only exists from extremely creative accounting. This has been a global issue we have remained concerned about for a great many years. For the dry bulk market at least, shipowners this year continue to make very real and impressive profit.
 

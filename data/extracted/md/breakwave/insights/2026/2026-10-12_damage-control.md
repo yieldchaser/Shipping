@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-10-12_damage-control.html"
 ![1 Tanker Smoke](assets/2026-10-12_damage-control_img_1-tanker-smoke_32eb2229ad66.jpg)
 
 > **Figure 1: 1 Tanker Smoke**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///c:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-12_damage-control_img_1-tanker-smoke_32eb2229ad66.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-12_damage-control_img_1-tanker-smoke_32eb2229ad66.jpg)
 
 Last week, tanker attacks in the Middle East hit their highest levels since the war began and that pace has continued this week. Further, in the past 48 hours, attacks have broadened to the Gulf of Oman and Arabian Gulf, expanding beyond the Hormuz chokepoint. Since the war started, Gibson has tracked 95 attacks on tankers in the region, including Iranian trading tonnage. The actual number is likely higher due to suppressed reporting. Damage has ranged from superficial to severe, with some vessels requiring extensive repairs or being lost entirely. We count 9 VLCCs being struck in the last 12 days alone.
 
@@ -40,7 +40,7 @@ So long as tensions persist, tankers will remain vulnerable. Growing risks in th
 ![Στιγμιότυπο Οθόνης 2026 10 12 101055](assets/2026-10-12_damage-control_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98bdb4f1f7e8.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 10 12 101055**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///c:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-12_damage-control_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98bdb4f1f7e8.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-12_damage-control_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98bdb4f1f7e8.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

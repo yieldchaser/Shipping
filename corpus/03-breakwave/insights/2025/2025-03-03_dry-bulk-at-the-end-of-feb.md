@@ -27,7 +27,7 @@ A year ago, Doric Weekly Insight opened on a note of euphoria, highlighting that
 ![Screenshot 2025 03 03 09.59.59](assets/2025-03-03_dry-bulk-at-the-end-of-feb_img_screenshot2025-03-03095959_a67f9d55d884.png)
 
 > **Figure 1: Screenshot 2025 03 03 09.59.59**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-03_dry-bulk-at-the-end-of-feb_img_screenshot2025-03-03095959_a67f9d55d884.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-03-03_dry-bulk-at-the-end-of-feb_img_screenshot2025-03-03095959_a67f9d55d884.png)
 
 Against this backdrop, 2025 has been relatively lukewarm, yet the end-February level still stands above both the average and median values of the past fifteen years. By segment, Capesize led the market, closing at $15,074 per day – its highest level of the year and significantly above mid-February’s multi-month lows. The Panamax and Supramax markets, settling at $9,569 and $9,275 per day, respectively, remained below their recent peaks. Meanwhile, the Handysize segment erased all its 2025 losses by month-end, balancing at $9,844 per day.
 
@@ -46,7 +46,7 @@ Whether India alone can drive a broader market recovery remains debatable, but i
 ![Screenshot 2025 03 03 10.01.10](assets/2025-03-03_dry-bulk-at-the-end-of-feb_img_screenshot2025-03-03100110_84ae4f1a73e6.png)
 
 > **Figure 2: Screenshot 2025 03 03 10.01.10**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-03_dry-bulk-at-the-end-of-feb_img_screenshot2025-03-03100110_84ae4f1a73e6.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-03-03_dry-bulk-at-the-end-of-feb_img_screenshot2025-03-03100110_84ae4f1a73e6.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

@@ -27,21 +27,21 @@ As we discussed in Commodore Research's most recent Weekly Dry Bulk Report, glob
 ![Chart 1](assets/2024-11-27_ongoing-growth-in-china-ongoing-contraction-outside-china_img_chart1_9d945e7684de.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-27_ongoing-growth-in-china-ongoing-contraction-outside-china_img_chart1_9d945e7684de.jpg)
+> [Local Asset](assets/2024-11-27_ongoing-growth-in-china-ongoing-contraction-outside-china_img_chart1_9d945e7684de.jpg)
 
 Steel production outside of China has now contracted on a year-on-year basis for two straight months. As we have predicted and have been stressing in our work, the contraction began just as China’s own production returned to finding growth. Prior to the last two months, steel production outside of China had grown on a year-on-year basis for twelve straight months.
 
 ![Chart 2](assets/2024-11-27_ongoing-growth-in-china-ongoing-contraction-outside-china_img_chart2_1ecc5cf85168.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-27_ongoing-growth-in-china-ongoing-contraction-outside-china_img_chart2_1ecc5cf85168.jpg)
+> [Local Asset](assets/2024-11-27_ongoing-growth-in-china-ongoing-contraction-outside-china_img_chart2_1ecc5cf85168.jpg)
 
 Of note is that the most recent data also shows that daily crude steel production at large and medium-sized mills in China averaged 2.08 million tons during November 11 - November 20. This is down by 1% from the previous ten days but is up year-on-year by 6%. This marks the first decline since late August, but it is encouraging that China's current steel production remains above last year's level. Year-on-year growth in China's steel production returned this year in the middle of October. Prior to the middle of October, China's steel production had remained stuck in a year-on-year contraction this year through virtually all of late February through early October.
 
 ![Chart 3](assets/2024-11-27_ongoing-growth-in-china-ongoing-contraction-outside-china_img_chart3_8b8e52590644.jpg)
 
 > **Figure 3: Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-27_ongoing-growth-in-china-ongoing-contraction-outside-china_img_chart3_8b8e52590644.jpg)
+> [Local Asset](assets/2024-11-27_ongoing-growth-in-china-ongoing-contraction-outside-china_img_chart3_8b8e52590644.jpg)
 
 ---
 

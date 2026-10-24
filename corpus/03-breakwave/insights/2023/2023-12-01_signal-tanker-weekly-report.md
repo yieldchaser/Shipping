@@ -22,12 +22,12 @@ source_file: "corpus/03-breakwave/insights/2023/2023-12-01_signal-tanker-weekly-
 ![Homepage2bbanner2b1](assets/2023-12-01_signal-tanker-weekly-report_img_homepage2bbanner2b128129_5d7211685255.png)
 
 > **Figure 1: Homepage2bbanner2b1**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-01_signal-tanker-weekly-report_img_homepage2bbanner2b128129_5d7211685255.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](assets/2023-12-01_signal-tanker-weekly-report_img_homepage2bbanner2b128129_5d7211685255.png)
 
 [![Homepage2bbutton](assets/2023-12-01_signal-tanker-weekly-report_img_homepage2bbutton28129_1d014100cc65.png)
 
 > **Figure 2: Homepage2bbutton**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-01_signal-tanker-weekly-report_img_homepage2bbutton28129_1d014100cc65.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-01_signal-tanker-weekly-report_img_homepage2bbutton28129_1d014100cc65.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
 
 ## Chart of the Week: MR Panama Canal Congestion
 
@@ -36,7 +36,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-12-01_signal-tanker-weekly-
 ![Market Chart 3](assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t125832556_fa86a7e3682d.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t125832556_fa86a7e3682d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t125832556_fa86a7e3682d.png)
 
 Sentiment for crude oil freight rates deteriorated in November, which was particularly evident in the weaker trend towards the end of the month. However, there was a glimmer of optimism in the Very Large Crude Carrier (VLCC) segment, supported by a downward trend in supply below the annual average.
 In particular, the growth rate of VLCC demand in tonne-days recovered in the second half of the month, creating the conditions for more robust momentum in VLCC freight rates at the beginning of December.
@@ -56,7 +56,7 @@ Market Rates (WS)
 ![‘Dirty’ WS - Weaker​vlcc - Suezmax - Aframax](assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130134255_e53b8349bee7.png)
 
 > **Figure 4: ‘Dirty’ WS - Weaker​vlcc - Suezmax - Aframax**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130134255_e53b8349bee7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130134255_e53b8349bee7.png)
 
 ​​​​Crude oil freight rates closed November with weaker momentum, but there appears to be a glimmer of hope for a recovery in VLCCs.
 
@@ -67,21 +67,21 @@ Market Rates (WS)
 ![‘Product’ Wslr2 Weaker](assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130311463_a1bd03bec760.png)
 
 > **Figure 5: ‘Product’ Wslr2 Weaker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130311463_a1bd03bec760.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130311463_a1bd03bec760.png)
 
 - LR2 AG freight rates stood at around 120 WS, which is 30% weaker than a month ago.
 
 ![PANAMAX (Sentiment: Steady)](assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130347290_600325636ad1.png)
 
 > **Figure 6: PANAMAX (Sentiment: Steady)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130347290_600325636ad1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130347290_600325636ad1.png)
 
 - Panamax Carib-to-USG rates are holding a steady sentiment for three consecutive weeks at around 230WS, 16% higher than a month ago.
 
 ![‘Clean’mr Mixed](assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130506857_46906ede9280.png)
 
 > **Figure 7: ‘Clean’mr Mixed**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130506857_46906ede9280.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130506857_46906ede9280.png)
 
 - MR1 rates for the Baltic continent held a firmer momentum at levels around 184 WS, a 60% decrease compared to a similar week a year ago.
 
@@ -92,7 +92,7 @@ Market Rates (WS)
 !['Dirty' (#Vessels) - Mixed](assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130551359_9a563867785f.png)
 
 > **Figure 8: 'Dirty' (#Vessels) - Mixed**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130551359_9a563867785f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130551359_9a563867785f.png)
 
 At the end of November, the strong picture of the previous days was confirmed in the Suezmax Wafr, while signs of a decline were observed in the VLCC and Aframax segments.
 
@@ -104,12 +104,12 @@ At the end of November, the strong picture of the previous days was confirmed in
 !['Clean'lr2 (#Vessels) - Increasing](assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130703459_ae0ed9681d88.png)
 
 > **Figure 9: 'Clean'lr2 (#Vessels) - Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130703459_ae0ed9681d88.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130703459_ae0ed9681d88.png)
 
 ![MR1 (#Vessels) - Decreasing](assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130741251_8b1993440397.png)
 
 > **Figure 10: MR1 (#Vessels) - Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130741251_8b1993440397.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130741251_8b1993440397.png)
 
 - Clean LR2 AG Jubail: At the end of November, there are signs of an upward trend despite the significant decline two weeks ago. The latest figures show a number of ships around 14, which is 5 above the annual average.
 
@@ -120,14 +120,14 @@ At the end of November, the strong picture of the previous days was confirmed in
 ![​​‘Dirty’ Decreasing](assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130849660_277df03d96b9.png)
 
 > **Figure 11: ​​‘Dirty’ Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130849660_277df03d96b9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130849660_277df03d96b9.png)
 
 - Dirty tonne days: The end of the month has not yet changed the declining growth trend in the Suezmax and Aframax segments, while there appears to be a late recovery in the VLCC segment, which will only be reflected in freight market sentiment in the coming days of December.
 
 ![‘Clean’ Decreasing](assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130849660_277df03d96b9.png)
 
 > **Figure 12: ‘Clean’ Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130849660_277df03d96b9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-01_signal-tanker-weekly-report_img_unnamed-2023-12-01t130849660_277df03d96b9.png)
 
 - Panamax tonne days: The modest upturn seen in the previous week ended eventually with a downward correction, while the last peak was seen in week 42.
 

@@ -27,7 +27,7 @@ Trump said this week that he wants to make a deal with Iran rather than return t
 ![F3f1 Image 0 1738949748957](assets/2025-02-10_the-big-picture-maximum-uncertainty_img_f3f1-image-0-1738949748957_902b3eb5dc2d.png)
 
 > **Figure 1: F3f1 Image 0 1738949748957**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-10_the-big-picture-maximum-uncertainty_img_f3f1-image-0-1738949748957_902b3eb5dc2d.png)
+> [Local Asset](assets/2025-02-10_the-big-picture-maximum-uncertainty_img_f3f1-image-0-1738949748957_902b3eb5dc2d.png)
 
 ### If Iran’s Crude Exports Drop to Zero…
 
@@ -42,7 +42,7 @@ But the loss in utilisation for smaller ships would be a small price to pay for 
 ![86bc Image 1 1738949811416](assets/2025-02-10_the-big-picture-maximum-uncertainty_img_86bc-image-1-1738949811416_06d9c769162c.png)
 
 > **Figure 2: 86bc Image 1 1738949811416**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-10_the-big-picture-maximum-uncertainty_img_86bc-image-1-1738949811416_06d9c769162c.png)
+> [Local Asset](assets/2025-02-10_the-big-picture-maximum-uncertainty_img_86bc-image-1-1738949811416_06d9c769162c.png)
 
 ### If No Change in Iran’s Crude Exports…
 
@@ -57,7 +57,7 @@ Trump will drop his policy of maximum pressure once he feels Iran has been, or h
 ![A44b Image 2 1738949896413](assets/2025-02-10_the-big-picture-maximum-uncertainty_img_a44b-image-2-1738949896413_ff20581299de.png)
 
 > **Figure 3: A44b Image 2 1738949896413**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-10_the-big-picture-maximum-uncertainty_img_a44b-image-2-1738949896413_ff20581299de.png)
+> [Local Asset](assets/2025-02-10_the-big-picture-maximum-uncertainty_img_a44b-image-2-1738949896413_ff20581299de.png)
 
 ---
 

@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-08-10_positive-developments
 ![Soya Panamax](assets/2020-08-10_positive-developments-in-india-and-brazil_img_soyapanamax_9058e861a1ed.jpg)
 
 > **Figure 1: Soya Panamax**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-08-10_positive-developments-in-india-and-brazil_img_soyapanamax_9058e861a1ed.jpg)
+> [Local Asset](assets/2020-08-10_positive-developments-in-india-and-brazil_img_soyapanamax_9058e861a1ed.jpg)
 
 For the dry bulk market, India and Brazil still remain two of the most significant dry bulk-centric nations with very large coronavirus outbreaks. In India, the outbreak in recent months has primarily had an impact on the demand-side, with India’s partial lockdown putting pressure on the overall economy including electricity production and coal consumption. India’s electricity production was finally able to achieve year-on-year growth last month, though, and India’s coal- derived electricity production also finally came close to normalizing. Also noteworthy is that last week marked the first time in months where India’s new daily coronavirus cases did not set a record. Any further improvement in India’s coronavirus outbreak and a normalization in Indian coal consumption would be helpful for the dry bulk market. As we have also continued to stress in our Weekly Dry Bulk Reports this week, Brazil’s commodity production and logistics in recent months have been able to remain relatively unscathed despite Brazil’s own coronavirus outbreak.
 

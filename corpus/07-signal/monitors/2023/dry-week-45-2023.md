@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform Data**  
 > *Data Source: The Signal Ocean Platform Data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-45-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/654a796fd2609498fe702c21_grain brazil to china.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-45-2023) | [Local Asset](../../images/654a796fd2609498fe702c21_grain brazil to china.png)
 
 During the second week of November, freight rates showed a weaker outlook due to the lack of adequate support from demand growth rates. Additionally, the number of ballasters for Capesize vessels in Southeast Africa has notably increased over the past three weeks, further fueled by uncertainty surrounding Chinese economic activity. However, there is a glimmer of hope for the market as iron ore prices have recently been boosted by Beijing's efforts to stimulate and stabilise its economy.
 

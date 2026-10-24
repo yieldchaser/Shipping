@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-09-08_capesize-forecasts-ch
 
 > **Figure 1: Capesize Spot Index**  
 > *Capesize Spot Index, 2017-Today*  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/9/7/bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-08_capesize-forecasts-chinas-wrath-guinea-pigs-and-the-brazilian-comrades_img_unsplash-image-54o0oppz4a0_54428dfb171c.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/9/7/bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies) | [Local Asset](assets/2021-09-08_capesize-forecasts-chinas-wrath-guinea-pigs-and-the-brazilian-comrades_img_unsplash-image-54o0oppz4a0_54428dfb171c.jpg)
 
 “Be careful what you wish for”… Such an expression describes particularly well the humility that one has to possess when making forecasts for the shipping markets. Supply and demand projections and the resulting balance are the easiest way for analysts to promote their own narrative in a convincing way but the hard truth is that shipping is much more complicated and virtually impossible to model using such simplistic econometric equations. In an ever-changing geopolitical map, shipping plays the role of connecting economies through mutual trade, and thus remains highly sensitive to global events that affect and transform such economic relationships, in the process throwing out of balance any analyst’s supply and demand forecast.
 
@@ -39,7 +39,7 @@ Although achieving spot rates of $50,000 per day should not be dismissed, the Ca
 ![Capes Sep 3](assets/2021-09-08_capesize-forecasts-chinas-wrath-guinea-pigs-and-the-brazilian-comrades_img_capessep3_e04cf44f6e33.jpg)
 
 > **Figure 2: Capes Sep 3**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/9/7/bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-08_capesize-forecasts-chinas-wrath-guinea-pigs-and-the-brazilian-comrades_img_capessep3_e04cf44f6e33.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/9/7/bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies) | [Local Asset](assets/2021-09-08_capesize-forecasts-chinas-wrath-guinea-pigs-and-the-brazilian-comrades_img_capessep3_e04cf44f6e33.jpg)
 
 In the midst of all the above, additional unforeseen events add to the uncertainty. Without trying to become experts in West African politics (for us as for most,**Guinea**was a quiet country with lots of bauxite just a few days back) the recent coup in Guinea brought to the table another risk for future Capesize demand from a region that a few years back was irrelevant to shipping but that currently accounts for almost 5% of Capesize loadings. It would be foolish to disregard the situation and pretend the future will look like the past. And yet, given our ignorance, we can not make any intelligent analysis on the political stability for that part of the world without sounding like “cocktail hour experts”. Ulf Bergman from Ocean Analytics has an excellent piece[here](https://www.breakwaveadvisors.com/insights/2021/9/7/bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies)on the issue and the fine relationships associated with the events.
 
@@ -47,7 +47,7 @@ In the midst of all the above, additional unforeseen events add to the uncertain
 
 > **Figure 3: China Steel Production Yoy Growth**  
 > *China Steel Production YoY Growth, 2015-Current*  
-> **Interactive Data & Source:** [Reuters](https://www.reuters.com/world/americas/brazil-braces-pro-bolsonaro-rallies-tuesday-2021-09-06/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-08_capesize-forecasts-chinas-wrath-guinea-pigs-and-the-brazilian-comrades_img_s111dvale_99bd5738a0bf.png)
+> **Interactive Data & Source:** [Reuters](https://www.reuters.com/world/americas/brazil-braces-pro-bolsonaro-rallies-tuesday-2021-09-06/) | [Local Asset](assets/2021-09-08_capesize-forecasts-chinas-wrath-guinea-pigs-and-the-brazilian-comrades_img_s111dvale_99bd5738a0bf.png)
 
 **Brazil**is also another area where recent developments are becoming more concerning: Political stability is important when half of Capesize demand originates from that country. The[news flow has been concerning](https://www.reuters.com/world/americas/brazil-braces-pro-bolsonaro-rallies-tuesday-2021-09-06/)and once again political predictions are a fool’s game, especially when it comes to Latin America politics (we still remember the early 2000s forecasts of Venezuela surpassing Saudi Arabia in oil production; today, Venezuela’s oil industry is decimated and oil output from the country represents a rounding error in the global oil markets).
 
@@ -57,7 +57,7 @@ On the opposite spectrum, coal trade remains a shinning area, ironically reflect
 ![China Steel Growth (3)](assets/2021-09-08_capesize-forecasts-chinas-wrath-guinea-pigs-and-the-brazilian-comrades_img_chinasteelgrowth28329_be3b245e14fc.jpg)
 
 > **Figure 4: China Steel Growth (3)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-08_capesize-forecasts-chinas-wrath-guinea-pigs-and-the-brazilian-comrades_img_chinasteelgrowth28329_be3b245e14fc.jpg)
+> [Local Asset](assets/2021-09-08_capesize-forecasts-chinas-wrath-guinea-pigs-and-the-brazilian-comrades_img_chinasteelgrowth28329_be3b245e14fc.jpg)
 
 All of the above are**red flags when it comes to**Capesize demand. Such an environment, especially as it relates to China, sounds at best challenging. And yet, here we are with the spot index at ~$40,000 (though on the way down) after reaching decade highs a few weeks back, and with most market participants optimistic enough to be bidding physical ships to multi-year highs.
 

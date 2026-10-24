@@ -29,28 +29,28 @@ Global coarse grain exports in 2021/22 are expected to total 245.1 million tons.
 ![A1](assets/2021-08-19_global-grain-trade-prospects-remain-encouraging_img_a1_d7b0bdef986d.jpg)
 
 > **Figure 1: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-19_global-grain-trade-prospects-remain-encouraging_img_a1_d7b0bdef986d.jpg)
+> [Local Asset](assets/2021-08-19_global-grain-trade-prospects-remain-encouraging_img_a1_d7b0bdef986d.jpg)
 
 Global wheat exports are expected to total 198.2 million tons. This is 5.8 million tons (-3%) less than was forecast a month ago and would mark a year-on-year decline of 3.4 million tons (-2%).
 
 ![A2](assets/2021-08-19_global-grain-trade-prospects-remain-encouraging_img_a2_f1f84410968b.jpg)
 
 > **Figure 2: A2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-19_global-grain-trade-prospects-remain-encouraging_img_a2_f1f84410968b.jpg)
+> [Local Asset](assets/2021-08-19_global-grain-trade-prospects-remain-encouraging_img_a2_f1f84410968b.jpg)
 
 In addition, global soybean exports (soybeans are not technically classified as a grain) are expected to total 172.3 million tons. This is 600,000 tons less than was forecast a month ago but would mark a year-on-year increase of 7.4 million tons (4%).
 
 ![A3](assets/2021-08-19_global-grain-trade-prospects-remain-encouraging_img_a3_82e7404bb51d.jpg)
 
 > **Figure 3: A3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-19_global-grain-trade-prospects-remain-encouraging_img_a3_82e7404bb51d.jpg)
+> [Local Asset](assets/2021-08-19_global-grain-trade-prospects-remain-encouraging_img_a3_82e7404bb51d.jpg)
 
 Global soymeal exports are expected to total 70.2 million tons. This is the same amount that was forecast a month ago and would mark a year-on-year increase of 1 million tons (1%).
 
 ![A4](assets/2021-08-19_global-grain-trade-prospects-remain-encouraging_img_a4_1d7d77aeb396.jpg)
 
 > **Figure 4: A4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-19_global-grain-trade-prospects-remain-encouraging_img_a4_1d7d77aeb396.jpg)
+> [Local Asset](assets/2021-08-19_global-grain-trade-prospects-remain-encouraging_img_a4_1d7d77aeb396.jpg)
 
 ---
 

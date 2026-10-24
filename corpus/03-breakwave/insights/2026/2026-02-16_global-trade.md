@@ -35,7 +35,7 @@ The cumulative effect of these developments is a fundamental shift in the struct
 ![Στιγμιότυπο Οθόνης 2026 02 16 103059](assets/2026-02-16_global-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee2a8f3bb2c7.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 02 16 103059**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-16_global-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee2a8f3bb2c7.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2026-02-16_global-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee2a8f3bb2c7.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

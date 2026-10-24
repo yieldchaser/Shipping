@@ -28,7 +28,7 @@ Trump’s win saw a stronger USD weigh on investor appetite. This was exacerbate
 
 > **Figure 1: Crude Oilstruggled for Direction Following Trump’s Election Win**  
 > *Crude oilstruggled for direction following Trump’s election win. Prices initially came under pressure as the USD strengthened amid fears Trump’s policies are inflationary. However, that gave way to some concerns that his foreign policies could stoke supply disruptions. Overall, we expect a Trump White House to beneutral to slightly bullish for the oil market. A watered-downInflation Reduction Actwould ultimately keep oil demand higher for longer, as could geopolitical tensions. Markets weren’t helped by mixed fundamentals. EIA’s weekly inventory report showed some bearish builds in oil, gasoline and distillate. Commercial stockpiles of crude oil gained 2149kbbl last week. Hurricane Rafael could curtail oil production in the US gulf: Chevron Corp shut its production in the region, and Shell evacuated personnel from the area.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-07_trumps-election-win-sparks-selloff_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bf4ae82feb3d.png)
+> [Local Asset](assets/2024-11-07_trumps-election-win-sparks-selloff_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bf4ae82feb3d.png)
 
 ### Market Commentary
 
@@ -45,7 +45,7 @@ China's imports of US LNG have risen sharply since Trump's first term in office.
 ![Στιγμιότυπο Οθόνης 2024 11 07 124305](assets/2024-11-07_trumps-election-win-sparks-selloff_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6585392a8433.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 11 07 124305**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-07_trumps-election-win-sparks-selloff_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6585392a8433.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-11-07_trumps-election-win-sparks-selloff_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6585392a8433.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

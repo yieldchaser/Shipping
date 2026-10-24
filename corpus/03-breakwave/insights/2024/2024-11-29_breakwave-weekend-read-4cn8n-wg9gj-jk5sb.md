@@ -33,14 +33,14 @@ As we conclude the workweek and head into the weekend, take a moment to review t
 ![Στιγμιότυπο Οθόνης 2024 11 26 123327](assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2003866de6f9.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 11 26 123327**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/24/all-segments-remain-in-the-red) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2003866de6f9.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/24/all-segments-remain-in-the-red) | [Local Asset](assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2003866de6f9.png)
 
 ## All Segments Remain in the Red
 
 ![Ανώνυμο Σχέδιο (1)](assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_a4431bab838c.png)
 
 > **Figure 2: Ανώνυμο Σχέδιο (1)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/24/all-segments-remain-in-the-red) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_a4431bab838c.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/24/all-segments-remain-in-the-red) | [Local Asset](assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_a4431bab838c.png)
 
 The Baltic Dry Index (BDI) ended the week at 1,537 points, with all segments remaining in the red.
 
@@ -53,7 +53,7 @@ Doric Weekly Market Insight
 ![Ανώνυμο Σχέδιο](assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_675cc373333d.png)
 
 > **Figure 3: Ανώνυμο Σχέδιο**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/24/q4-rally-runs-out-of-steam) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_675cc373333d.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/24/q4-rally-runs-out-of-steam) | [Local Asset](assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_675cc373333d.png)
 
 **Mideast Gulf to China VLCC (TD3C)**climbed from $24,373/day on 7 November to $37,616/day on 19 November, its highest level since 9 October but had fallen back to $32,721/day on 21 November.
 
@@ -66,7 +66,7 @@ Braemar Tankers Research Update
 ![Προσθέστε Επικεφαλίδα](assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_cea0cf81cebfcf83ceb8ceadcf83cf84ceb5_f0c5ff1cb8e1.png)
 
 > **Figure 4: Προσθέστε Επικεφαλίδα**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/25/how-will-emission-control-area-changes-affect-fuel-oil-demand-in-the-mediterranean) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_cea0cf81cebfcf83ceb8ceadcf83cf84ceb5_f0c5ff1cb8e1.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/25/how-will-emission-control-area-changes-affect-fuel-oil-demand-in-the-mediterranean) | [Local Asset](assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_cea0cf81cebfcf83ceb8ceadcf83cf84ceb5_f0c5ff1cb8e1.png)
 
 The upcoming Mediterranean Emission Control Area will likely tighten ULSFO supplies in the region and free up VLSFO supplies for the East.
 
@@ -79,7 +79,7 @@ Vortexa Freight Weekly
 ![Ανώνυμο Σχέδιο (2)](assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_9003c06b2312.png)
 
 > **Figure 5: Ανώνυμο Σχέδιο (2)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/26/persistent-weakness) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_9003c06b2312.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/26/persistent-weakness) | [Local Asset](assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_9003c06b2312.png)
 
 Crude and product tanker markets have been under heavy pressure so far in Q4, with clean West rates currently the only bright spot.
 
@@ -92,7 +92,7 @@ Gibson Tanker Market Report
 ![China’s Critical Role in the Global Crude Oil Market](assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_chinae28099scriticalroleintheglobalc_b3e1fd4a3363.png)
 
 > **Figure 6: China’s Critical Role in the Global Crude Oil Market**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/27/0iqwe6esi758ld1fo143x2aakqkqtc) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_chinae28099scriticalroleintheglobalc_b3e1fd4a3363.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/27/0iqwe6esi758ld1fo143x2aakqkqtc) | [Local Asset](assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_chinae28099scriticalroleintheglobalc_b3e1fd4a3363.png)
 
 China’s decision to grant an additional crude oil import quota of at least 5.84 million metric tons for delivery through late 2024 and early 2025 ..
 
@@ -105,7 +105,7 @@ Intermodal Weekly Market Report
 ![Προσθέστε Επικεφαλίδα (1)](assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_cea0cf81cebfcf83ceb8ceadcf83cf84ceb5_468381e71065.png)
 
 > **Figure 7: Προσθέστε Επικεφαλίδα (1)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/27/ongoing-growth-in-china-ongoing-contraction-outside-china) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_cea0cf81cebfcf83ceb8ceadcf83cf84ceb5_468381e71065.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/27/ongoing-growth-in-china-ongoing-contraction-outside-china) | [Local Asset](assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_cea0cf81cebfcf83ceb8ceadcf83cf84ceb5_468381e71065.png)
 
 As we discussed in Commodore Research's most recent Weekly Dry Bulk Report, global steel production totaled approximately 151.2 million tons in October.
 
@@ -116,7 +116,7 @@ From Commodore's Weekly Dry Bulk Reports
 ![Ανώνυμο Σχέδιο (3)](assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_0f2bc12eb2fb.png)
 
 > **Figure 8: Ανώνυμο Σχέδιο (3)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/28/volatility-muted-amid-uncertain-economic-outlook) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_0f2bc12eb2fb.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/28/volatility-muted-amid-uncertain-economic-outlook) | [Local Asset](assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_0f2bc12eb2fb.png)
 
 A weaker USD and signs of improvement in China’s economy helped boost sentiment.
 
@@ -127,7 +127,7 @@ Commodities Wrap
 ![Ανώνυμο Σχέδιο (5)](assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_6ce7faad191a.png)
 
 > **Figure 9: Ανώνυμο Σχέδιο (5)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/28/suezmaxes-seek-alternate-routes-as-european-crude-demand-is-limited) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_6ce7faad191a.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/28/suezmaxes-seek-alternate-routes-as-european-crude-demand-is-limited) | [Local Asset](assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_6ce7faad191a.png)
 
 Suezmax employment for West African crude shipments to East of Suez is increasing in November, while VLCC voyage counts are steady.
 
@@ -138,7 +138,7 @@ Vortexa - Global Freight Snapshot
 ![Ανώνυμο Σχέδιο (7)](assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_0a85d700e4ef.png)
 
 > **Figure 10: Ανώνυμο Σχέδιο (7)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/29/capesize-market-ballasters-tonne-days-market-rates) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_0a85d700e4ef.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/29/capesize-market-ballasters-tonne-days-market-rates) | [Local Asset](assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_0a85d700e4ef.png)
 
 The end of November marked a significant downturn in dry bulk freight rates, with the Baltic Capesize Index plunging by 30% year-on-year.
 
@@ -149,7 +149,7 @@ Signal Ocean - Dry Weekly Market Monitor
 ![Ανώνυμο Σχέδιο (6)](assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_2d4dd145e9a5.png)
 
 > **Figure 11: Ανώνυμο Σχέδιο (6)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/29/gxmb3m27vo7uqrw5tu0wyqvtzkopls) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_2d4dd145e9a5.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/11/29/gxmb3m27vo7uqrw5tu0wyqvtzkopls) | [Local Asset](assets/2024-11-29_breakwave-weekend-read-4cn8n-wg9gj-jk5sb_img_ce91cebdcf8ecebdcf85cebccebfcf83cf87_2d4dd145e9a5.png)
 
 The ongoing energy transition is significantly impacting dry bulk shipping and commodity consumption in China through shifts in energy demand,
 

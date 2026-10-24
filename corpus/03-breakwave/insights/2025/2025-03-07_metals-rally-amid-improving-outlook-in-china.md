@@ -27,7 +27,7 @@ Sentiment was buoyed by Beijing’s efforts to support economic growth. However,
 ![Στιγμιότυπο Οθόνης 2025 03 07 112201](assets/2025-03-07_metals-rally-amid-improving-outlook-in-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ada95c62b037.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 03 07 112201**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-07_metals-rally-amid-improving-outlook-in-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ada95c62b037.png)
+> [Local Asset](assets/2025-03-07_metals-rally-amid-improving-outlook-in-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ada95c62b037.png)
 
 ### Market Commentary
 
@@ -48,7 +48,7 @@ Chinese steel inventories are at their lowest level on a seasonal basis in more 
 ![Στιγμιότυπο Οθόνης 2025 03 07 112305](assets/2025-03-07_metals-rally-amid-improving-outlook-in-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_05028beb66b3.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 03 07 112305**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-07_metals-rally-amid-improving-outlook-in-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_05028beb66b3.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-03-07_metals-rally-amid-improving-outlook-in-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_05028beb66b3.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

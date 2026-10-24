@@ -22,12 +22,12 @@ source_file: "corpus/03-breakwave/insights/2023/2023-11-29_e7lbo71vfzzt2bf0ppdda
 ![Homepage+banner+1](assets/2023-11-29_e7lbo71vfzzt2bf0ppddaw8umxx9f5_img_homepage2bbanner2b1_5d7211685255.png)
 
 > **Figure 1: Homepage+banner+1**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-29_e7lbo71vfzzt2bf0ppddaw8umxx9f5_img_homepage2bbanner2b1_5d7211685255.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](assets/2023-11-29_e7lbo71vfzzt2bf0ppddaw8umxx9f5_img_homepage2bbanner2b1_5d7211685255.png)
 
 [![Homepage2bbutton](assets/2023-11-29_e7lbo71vfzzt2bf0ppddaw8umxx9f5_img_homepage2bbutton_1d014100cc65.png)
 
 > **Figure 2: Homepage2bbutton**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-29_e7lbo71vfzzt2bf0ppddaw8umxx9f5_img_homepage2bbutton_1d014100cc65.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-11-29_e7lbo71vfzzt2bf0ppddaw8umxx9f5_img_homepage2bbutton_1d014100cc65.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
 
 ## Chart of the Week : Dry Bulk Panamax Tonne Days Cont to the Far East​​​​​
 
@@ -36,7 +36,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-11-29_e7lbo71vfzzt2bf0ppdda
 ![Market Chart 3](assets/2023-11-29_e7lbo71vfzzt2bf0ppddaw8umxx9f5_img_unnamed-2023-11-29t144006181_648c4f577998.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-29_e7lbo71vfzzt2bf0ppddaw8umxx9f5_img_unnamed-2023-11-29t144006181_648c4f577998.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-11-29_e7lbo71vfzzt2bf0ppddaw8umxx9f5_img_unnamed-2023-11-29t144006181_648c4f577998.png)
 
 The dynamics of the freight market at the end of November fueled market participants' expectations of an upturn in the final month of the year, with the Panamax ship size continuing to gain significant strength compared to the smaller vessel categories. In addition, rates for Capesize vessels from Brazil to North China saw renewed gains, the stability of which is yet to be confirmed as iron ore prices have recently gained momentum, providing positive momentum for the end of the final quarter of this year.
 In the Panamax vessel segment, the increase in tonne days between the Continent and the Far East after a slump at the end of October is interesting to observe. This recent upward trend appears to have supported the rise in the Baltic Panamax Index, which points to a late recovery also aided by an increase in Chinese coal imports.
@@ -55,7 +55,7 @@ Market Rates ($/t) Firmer
 ![Market Chart 4](assets/2023-11-29_e7lbo71vfzzt2bf0ppddaw8umxx9f5_img_unnamed-2023-11-29t144131403_257d0a2eaf9b.png)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-29_e7lbo71vfzzt2bf0ppddaw8umxx9f5_img_unnamed-2023-11-29t144131403_257d0a2eaf9b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-11-29_e7lbo71vfzzt2bf0ppddaw8umxx9f5_img_unnamed-2023-11-29t144131403_257d0a2eaf9b.png)
 
 The last week of November fueled optimism for firmness in December with a significant upturn in the Capesize segment, while Panamax maintained the robust sentiment of previous weeks. The smaller vessel categories are still struggling with lower prices, but there was an immediate upswing in the Handysize segment.
 
@@ -69,7 +69,7 @@ The last week of November fueled optimism for firmness in December with a signif
 ![Supply Trend Lines for Key Load Areasballasters (#Vessels) Increasing](assets/2023-11-29_e7lbo71vfzzt2bf0ppddaw8umxx9f5_img_unnamed-2023-11-29t144238420_30e2b1b6a4f4.png)
 
 > **Figure 5: Supply Trend Lines for Key Load Areasballasters (#Vessels) Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-29_e7lbo71vfzzt2bf0ppddaw8umxx9f5_img_unnamed-2023-11-29t144238420_30e2b1b6a4f4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-11-29_e7lbo71vfzzt2bf0ppddaw8umxx9f5_img_unnamed-2023-11-29t144238420_30e2b1b6a4f4.png)
 
 The number of ballasters was above the annual average for all ship size classes, with the exception of Panamax ships, where the number has been falling continuously since the end of week 38.
 
@@ -83,7 +83,7 @@ The number of ballasters was above the annual average for all ship size classes,
 ![Summary of Dry Bulk Demand, per Ship Sizetonne Days Decreasing](assets/2023-11-29_e7lbo71vfzzt2bf0ppddaw8umxx9f5_img_unnamed-2023-11-29t144339102_4e7e8c208b7e.png)
 
 > **Figure 6: Summary of Dry Bulk Demand, per Ship Sizetonne Days Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-29_e7lbo71vfzzt2bf0ppddaw8umxx9f5_img_unnamed-2023-11-29t144339102_4e7e8c208b7e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-11-29_e7lbo71vfzzt2bf0ppddaw8umxx9f5_img_unnamed-2023-11-29t144339102_4e7e8c208b7e.png)
 
 Demand growth has declined for all ship sizes, with the Capesize segment seeing an interruption to the downward correction of recent days.
 
@@ -97,7 +97,7 @@ Demand growth has declined for all ship sizes, with the Capesize segment seeing 
 ![Dry Bulk Ships Congested at Chinese Portsno of Vessels Increasing](assets/2023-11-29_e7lbo71vfzzt2bf0ppddaw8umxx9f5_img_unnamed-2023-11-29t144454267_3ed3830a34c6.png)
 
 > **Figure 7: Dry Bulk Ships Congested at Chinese Portsno of Vessels Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-29_e7lbo71vfzzt2bf0ppddaw8umxx9f5_img_unnamed-2023-11-29t144454267_3ed3830a34c6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-11-29_e7lbo71vfzzt2bf0ppddaw8umxx9f5_img_unnamed-2023-11-29t144454267_3ed3830a34c6.png)
 
 The level of ship congestion continued the upward trend of the previous week, with congestion increasing in all ship size categories at the end of the month.
 

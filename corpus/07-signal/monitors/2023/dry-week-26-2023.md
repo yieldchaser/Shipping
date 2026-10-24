@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform Data**  
 > *Data Source: The Signal Ocean Platform Data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-26-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/649be4d9b931a4ea7394bdea_chart of the week (1).png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-26-2023) | [Local Asset](../../images/649be4d9b931a4ea7394bdea_chart of the week (1).png)
 
 As we are nearing the end of June, the freight market sentiment remained robust for the Capesize segment, while the softening trend is still there for the other smaller vessel size categories. The market remains challenging from the number of ballasters, where there is an increasing trend throughout the June with the Capesize segment recording significant downward revisions.
 

@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-06-09_chasing-the-rally-ana
 
 > **Figure 1: Others Are Still Cautious**  
 > *Others are still cautious. According to Bloomberg, ANZ said that the“rally looks increasingly stretched, with strengthening headwinds in the steel industry likely to put downward pressure on prices in the coming months”though they also noted that“ Vale disruption comes amid strong demand from China. Imports in May were up 3.9% y/y, pushing the year-to-date total up 5%,”*  
-> **Interactive Data & Source:** [Spglobal](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/global-steel-sector-faces-uncertain-road-to-recovery-in-wake-of-pandemic-58611532) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-09_chasing-the-rally-analysts-raising-their-iron-ore-forecasts_img_image-asset_b5a625fe3458.jpeg)
+> **Interactive Data & Source:** [Spglobal](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/global-steel-sector-faces-uncertain-road-to-recovery-in-wake-of-pandemic-58611532) | [Local Asset](assets/2020-06-09_chasing-the-rally-analysts-raising-their-iron-ore-forecasts_img_image-asset_b5a625fe3458.jpeg)
 
 Once again, the iron ore market find itself in a position where macroeconomic forecasts and prices are diverging. A few months ago, the majority of analysts where looking for lower iron ore prices as increasing supply out of Brazil and weaker steel production would lead to looser iron ore balances and thus lower prices.
 
@@ -37,7 +37,7 @@ From Arrow Research:*“Dire conditions in the European steel industry**is forci
 
 > **Figure 2: “Some Are Skeptical**  
 > *“Some are skeptical. Vale will have to ramp-up drastically to achieve full-year guidance, something that won’t be easy given the outbreak, according to Hongyuan Futures Ltd. It needs to ship 180 million tons in the second half, requiring a scale that is “near impossible to achieve,” analysts including Sun Jiaxing said in a report. “Supply will still not be able to meet demand.”*  
-> **Interactive Data & Source:** [Abc Net](https://www.abc.net.au/news/2020-06-07/australia-china-racism-coronavirus-how-did-relationship-get-here/12330250) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-09_chasing-the-rally-analysts-raising-their-iron-ore-forecasts_img_arrow_d2d09ee0d34a.jpg)
+> **Interactive Data & Source:** [Abc Net](https://www.abc.net.au/news/2020-06-07/australia-china-racism-coronavirus-how-did-relationship-get-here/12330250) | [Local Asset](assets/2020-06-09_chasing-the-rally-analysts-raising-their-iron-ore-forecasts_img_arrow_d2d09ee0d34a.jpg)
 
 Still a number of bullish voices remain, citing the chronic inability of Vale to deliver results in line with their guidance. As Bloomberg reports, this is what continues to drive bullish sentiment:
 
@@ -46,4 +46,4 @@ Finally, the question is what happens to iron ore prices if Europe recovers fast
 ![Market Chart 3](assets/2020-06-09_chasing-the-rally-analysts-raising-their-iron-ore-forecasts_img_image-asset_06e250205128.jpeg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-09_chasing-the-rally-analysts-raising-their-iron-ore-forecasts_img_image-asset_06e250205128.jpeg)
+> [Local Asset](assets/2020-06-09_chasing-the-rally-analysts-raising-their-iron-ore-forecasts_img_image-asset_06e250205128.jpeg)

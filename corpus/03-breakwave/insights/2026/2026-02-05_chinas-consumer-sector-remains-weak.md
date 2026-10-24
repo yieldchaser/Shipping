@@ -27,7 +27,7 @@ As we discussed in Commodore Research's most recent Weekly China Report, Chinaâ€
 ![Chart](assets/2026-02-05_chinas-consumer-sector-remains-weak_img_chart_2de1ff4b0b33.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-05_chinas-consumer-sector-remains-weak_img_chart_2de1ff4b0b33.jpg)
+> [Local Asset](assets/2026-02-05_chinas-consumer-sector-remains-weak_img_chart_2de1ff4b0b33.jpg)
 
 Overall, consumption growth in China's consumer sector continues to decline and during the last two months has been extremely concerning. China is very close to the point where consumers are buying less actual goods than they did the previous year. The industrial side continues to fare much better, however, as we have continued to discuss in Commodore Research's Weekly Executive Reports.
 

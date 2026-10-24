@@ -25,12 +25,12 @@ Record crude accumulation and a historic shift in ballast–laden ratios signal 
 ![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_df3955f12aab.png)
 
 > **Figure 1: Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_df3955f12aab.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_df3955f12aab.png)
 
 ![Market Chart 2](assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_unnamed_5c62f36b5a42.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_unnamed_5c62f36b5a42.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_unnamed_5c62f36b5a42.png)
 
 Tensions in the Gulf have been escalating for nearly two weeks, culminating most recently in U.S. strikes on military targets on Kharg Island, Iran's primary crude export terminal. In parallel with disruptions to export flows, Gulf producers have announced production curtailments of approximately 10 million barrels per day, equivalent to around 5 VLCC cargoes per day, removed from the seaborne market.
 
@@ -55,14 +55,14 @@ Recent AIS data show a sharp reversal in the typical ballast–laden balance in 
 ![Στιγμιότυπο Οθόνης 2026 03 17 132950](assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91eca8f6c43e.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 03 17 132950**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91eca8f6c43e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91eca8f6c43e.png)
 
 During March 2026, owing to the effective closure of the Strait of Hormuz, a clear divergence emerged between ballast and laden tanker counts. Ballast tanker numbers declined sharply, falling from an average of 135 vessels to around 75. Over the same period, laden tanker counts increased significantly, rising from an average of 85 vessels to roughly 145.
 
 ![Στιγμιότυπο Οθόνης 2026 03 17 133006](assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_478689c814e7.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2026 03 17 133006**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_478689c814e7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_478689c814e7.png)
 
 ## Where the Distortion Is Most Visible
 
@@ -71,7 +71,7 @@ The imbalance becomes particularly clear when focusing on crude tankers specific
 ![Στιγμιότυπο Οθόνης 2026 03 17 133015](assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cdd901c3962b.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2026 03 17 133015**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cdd901c3962b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cdd901c3962b.png)
 
 ## Crude Cargo Buildup Inside the Strait of Hormuz
 
@@ -80,7 +80,7 @@ Based on AIS-derived estimates, approximately 130 million barrels of crude oil a
 ![Στιγμιότυπο Οθόνης 2026 03 17 134955](assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_52281134bcf5.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2026 03 17 134955**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_52281134bcf5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_52281134bcf5.png)
 
 ## Estimated Daily Transit Capacity
 
@@ -89,12 +89,12 @@ In January 2026, under normal operating conditions, the number of daily tanker t
 ![Στιγμιότυπο Οθόνης 2026 03 17 133147](assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ef2b8ae110f.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2026 03 17 133147**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ef2b8ae110f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ef2b8ae110f.png)
 
 ![Στιγμιότυπο Οθόνης 2026 03 17 133154](assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4239f820bb81.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2026 03 17 133154**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4239f820bb81.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4239f820bb81.png)
 
 Although only one or two confirmed vessel transits per day per vessel class are observed on average, this does not necessarily mean that only that number of ships are passing through the strait. Limited AIS visibility, delayed reporting, or selective disclosure by operators can significantly reduce the number of visible movements. Even under elevated security conditions, the strait may still record approximately 10 to 15 tanker movements per day, if including the vessels not detectable via AIS, which tends to make traffic patterns less predictable due to shadow fleet activity.
 
@@ -105,21 +105,21 @@ The operator distribution highlights a notable presence of Asian-linked companie
 ![Στιγμιότυπο Οθόνης 2026 03 17 133203](assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e5043f1667a.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2026 03 17 133203**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e5043f1667a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e5043f1667a.png)
 
 ## Tanker Transits and Insurance Environment
 
 ![Στιγμιότυπο Οθόνης 2026 03 17 133211](assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3d311530f88.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2026 03 17 133211**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3d311530f88.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3d311530f88.png)
 
 War-risk premiums for Gulf transits have risen significantly following the recent escalation. Industry indications suggest that premiums have increased from roughly 0.2–0.4% of vessel value previously to around 1% in many cases, with significantly higher levels possible for voyages assessed as carrying elevated risk (from 3% to 5%).
 
 ![Market Chart 11](assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_unnamed28329_845ee3a191c0.png)
 
 > **Figure 11: Market Chart 11**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_unnamed28329_845ee3a191c0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_unnamed28329_845ee3a191c0.png)
 
 Based on indicative VLCC market valuations of approximately $137 million for a five-year-old vessel and about $110 million for a ten-year-old vessel, a 1% premium could imply costs in the range of approximately $1–1.4 million per transit, with higher-risk scenarios potentially resulting in materially higher premiums.
 

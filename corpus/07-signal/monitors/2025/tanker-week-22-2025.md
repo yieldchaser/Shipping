@@ -29,7 +29,7 @@ tags:
 ![Heading](../../images/68515249306dc5c9ce9b508f_AD_4nXc1k1qp6MNoGJJCLIWn_aDf8d76duIJbAmZm8R1tEfB4hzwLvaqz0Mh_9fbZ_ucEfFuM5Lu2X7viTsgb3LPP-XDt1OA1y3zVRa-bMCdvaU5oCEPEZhFhCeffVbzabUt2-OmaDXhCw.png)
 
 > **Figure 1: Heading**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-22-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68515249306dc5c9ce9b508f_AD_4nXc1k1qp6MNoGJJCLIWn_aDf8d76duIJbAmZm8R1tEfB4hzwLvaqz0Mh_9fbZ_ucEfFuM5Lu2X7viTsgb3LPP-XDt1OA1y3zVRa-bMCdvaU5oCEPEZhFhCeffVbzabUt2-OmaDXhCw.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-22-2025) | [Local Asset](../../images/68515249306dc5c9ce9b508f_AD_4nXc1k1qp6MNoGJJCLIWn_aDf8d76duIJbAmZm8R1tEfB4hzwLvaqz0Mh_9fbZ_ucEfFuM5Lu2X7viTsgb3LPP-XDt1OA1y3zVRa-bMCdvaU5oCEPEZhFhCeffVbzabUt2-OmaDXhCw.png)
 
 Europe witnessed a 10% increase in crude oil imports in May 2025, likely due to refineries completing maintenance ahead of schedule, boosting crude demand. This period also saw a notable change in import origins, with a decrease in volumes from the United States.
 
@@ -50,7 +50,7 @@ A key factor tightening crude tanker availability in 2025 is the latest wave of 
 ![Special Focus: Tanker Sanctions](../../images/68515249306dc5c9ce9b5082_AD_4nXfZBxKhpDuuiS9I3fnNT492ap5GLVe9_b1hcirGQXAjQvnTfTKR4RFq1JVdN9uSy9et0oYhm5coAT2Nw-QKee_DLOCPfw29hFvXAJ4KdpjQqRrfWtedDM93ApF-LyKjgCyjwVqbOg.png)
 
 > **Figure 2: Special Focus: Tanker Sanctions**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-22-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68515249306dc5c9ce9b5082_AD_4nXfZBxKhpDuuiS9I3fnNT492ap5GLVe9_b1hcirGQXAjQvnTfTKR4RFq1JVdN9uSy9et0oYhm5coAT2Nw-QKee_DLOCPfw29hFvXAJ4KdpjQqRrfWtedDM93ApF-LyKjgCyjwVqbOg.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-22-2025) | [Local Asset](../../images/68515249306dc5c9ce9b5082_AD_4nXfZBxKhpDuuiS9I3fnNT492ap5GLVe9_b1hcirGQXAjQvnTfTKR4RFq1JVdN9uSy9et0oYhm5coAT2Nw-QKee_DLOCPfw29hFvXAJ4KdpjQqRrfWtedDM93ApF-LyKjgCyjwVqbOg.png)
 
 For the latest updates and insights, make sure to visit the [Signal Ocean Newsroom](https://www.thesignalgroup.com/newsroom) website page. Click [here to request a demo](https://www.thesignalgroup.com/request-demo?utm\_source=oceanhome&utm\_medium=website&utm\_campaign=demo). Read [last week's tanker monitor here.](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-20-2025)
 

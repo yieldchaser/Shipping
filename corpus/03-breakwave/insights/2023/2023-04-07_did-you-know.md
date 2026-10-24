@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-04-07_did-you-know.html"
 ![1 (13)](assets/2023-04-07_did-you-know_img_1281329_8c50598b622a.png)
 
 > **Figure 1: 1 (13)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-07_did-you-know_img_1281329_8c50598b622a.png)
+> [Local Asset](assets/2023-04-07_did-you-know_img_1281329_8c50598b622a.png)
 
 Oil and gas platforms or offshore drilling rigs are constructed for extracting, storing and processing petroleum and natural gas lying beneath the ocean floor.
 
@@ -37,7 +37,7 @@ Berkut is the biggest platform in the world situated near the Russian coastline 
 ![Berkut Platform](assets/2023-04-07_did-you-know_img_berkut-platform_716a4c30a4d3.jpg)
 
 > **Figure 2: Berkut Platform**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-07_did-you-know_img_berkut-platform_716a4c30a4d3.jpg)
+> [Local Asset](assets/2023-04-07_did-you-know_img_berkut-platform_716a4c30a4d3.jpg)
 
 ## Perdido
 
@@ -48,7 +48,7 @@ The platform had to be durable to withstand hurricanes and extremely low tempera
 ![Shell Perdido Deepwater Offshore Production Platform (51115227891)](assets/2023-04-07_did-you-know_img_shell-perdido-deepwater-offshore-pro_b0a64b5ebda5.jpg)
 
 > **Figure 3: Shell Perdido Deepwater Offshore Production Platform (51115227891)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-07_did-you-know_img_shell-perdido-deepwater-offshore-pro_b0a64b5ebda5.jpg)
+> [Local Asset](assets/2023-04-07_did-you-know_img_shell-perdido-deepwater-offshore-pro_b0a64b5ebda5.jpg)
 
 ## Petronius
 
@@ -57,9 +57,9 @@ The Petronius oil platform is situated in the Gulf of Mexico, close to New Orlea
 ![Petronius Platform](assets/2023-04-07_did-you-know_img_petronius-platform_b1f6782558dd.jpg)
 
 > **Figure 4: Petronius Platform**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-07_did-you-know_img_petronius-platform_b1f6782558dd.jpg)
+> [Local Asset](assets/2023-04-07_did-you-know_img_petronius-platform_b1f6782558dd.jpg)
 
 ![1 (12)](assets/2023-04-07_did-you-know_img_1281229_3f7755a2e463.png)
 
 > **Figure 5: 1 (12)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-07_did-you-know_img_1281229_3f7755a2e463.png)
+> [Local Asset](assets/2023-04-07_did-you-know_img_1281229_3f7755a2e463.png)

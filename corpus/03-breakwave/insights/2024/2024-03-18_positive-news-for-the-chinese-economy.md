@@ -63,7 +63,7 @@ While the supply side has received much of the attention for the price developme
 ![Screenshot 2024 03 18 18.16.15](assets/2024-03-18_positive-news-for-the-chinese-economy_img_screenshot2024-03-18181615_4270e6537c07.png)
 
 > **Figure 1: Screenshot 2024 03 18 18.16.15**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-18_positive-news-for-the-chinese-economy_img_screenshot2024-03-18181615_4270e6537c07.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-03-18_positive-news-for-the-chinese-economy_img_screenshot2024-03-18181615_4270e6537c07.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

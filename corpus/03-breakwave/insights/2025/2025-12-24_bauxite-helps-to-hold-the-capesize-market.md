@@ -30,7 +30,7 @@ A 22% increase YTD in bauxite exports from Guinea has helped to stabilize the ca
 ![Στιγμιότυπο Οθόνης 2025 12 24 110746](assets/2025-12-24_bauxite-helps-to-hold-the-capesize-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a3bf169dec03.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 12 24 110746**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-24_bauxite-helps-to-hold-the-capesize-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a3bf169dec03.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-12-24_bauxite-helps-to-hold-the-capesize-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a3bf169dec03.png)
 
 Bauxite exports from Guinea have experienced uninterrupted y/y growth every month so far in 2025, with the final month of December likely to be no different. As a result, bauxite exports from Guinea are likely to reach 175mt, 22% higher than in 2024. This has led to bauxite being the best-performing capesize commodity behind iron ore on a tonne-mile basis.
 
@@ -39,7 +39,7 @@ Guinea is the largest bauxite exporter, accounting for 69% of all bauxite export
 ![Στιγμιότυπο Οθόνης 2025 12 24 110801](assets/2025-12-24_bauxite-helps-to-hold-the-capesize-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_38c372fd2ff3.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 12 24 110801**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-24_bauxite-helps-to-hold-the-capesize-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_38c372fd2ff3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-12-24_bauxite-helps-to-hold-the-capesize-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_38c372fd2ff3.png)
 
 China consumed 86% of all bauxite exports in 2025 to feed its aluminium industry. In China, aluminium production has a self-imposed cap of 45mt tonnes per annum, introduced in 2017 to curb emissions and help prevent oversupply. According to China’s National Bureau of Statistics, Chinese aluminium production for the first 11 months of 2025 sits at 41.4mt, meaning December production can be no more than 3.6mt to be within the cap. This figure is much lower than the 3.8mt monthly average 2025 has produced.
 
@@ -48,7 +48,7 @@ Given the cap restarts in January, the outlook for bauxite demand in China remai
 ![Στιγμιότυπο Οθόνης 2025 12 24 110812](assets/2025-12-24_bauxite-helps-to-hold-the-capesize-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fb15df3998fd.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 12 24 110812**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-24_bauxite-helps-to-hold-the-capesize-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fb15df3998fd.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-12-24_bauxite-helps-to-hold-the-capesize-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fb15df3998fd.png)
 
 Looking further ahead to 2030, bauxite exports raise more intriguing questions. Guinea plans to achieve roughly 7mt of alumina production annually by that year, which would require about 14mt of bauxite. Based on 2025 export levels, this could reduce global bauxite exports by around 5%. While this initial decline is modest, additional alumina capacity could be brought online rapidly if government revenues increase as expected from higher-value alumina exports. Over time, this may drive a steady and prolonged contraction in Guinea’s bauxite exports.
 
@@ -57,7 +57,7 @@ Weaker bauxite exports would compound the expectations of weaker coal exports an
 ![Στιγμιότυπο Οθόνης 2025 12 24 110820](assets/2025-12-24_bauxite-helps-to-hold-the-capesize-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bd2d407cbc1f.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 12 24 110820**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-24_bauxite-helps-to-hold-the-capesize-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bd2d407cbc1f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-12-24_bauxite-helps-to-hold-the-capesize-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bd2d407cbc1f.png)
 
 ### Bauxite Will Continue to Drive Capesize …
 

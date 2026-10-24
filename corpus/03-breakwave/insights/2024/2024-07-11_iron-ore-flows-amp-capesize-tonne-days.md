@@ -27,7 +27,7 @@ July 10, 2024
 ![Στιγμιότυπο Οθόνης 2024 07 11 085051](assets/2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8de26d31dde3.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 11 085051**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/ish-china-demand-stimulus-eyed/2qchv1/422161374/h/JYzHQfQcHHrbuvqLpYNOw7FiBTpGbuKX7LoOcBSy8T0) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8de26d31dde3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/ish-china-demand-stimulus-eyed/2qchv1/422161374/h/JYzHQfQcHHrbuvqLpYNOw7FiBTpGbuKX7LoOcBSy8T0) | [Local Asset](assets/2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8de26d31dde3.png)
 
 The second week of July brings a downward revision in the performance of the Capesize segment, while the decreasing count of ballasters fosters optimism for the coming days. This reduction in available ballast vessels could tighten supply and potentially support higher freight rates.
 Regarding the monthly volume of Brazilian iron ore shipments to China, June concluded with a significant 20% increase over May's levels. This upward trend in iron ore shipments is noteworthy, as the second quarter of the year saw consistently higher monthly volumes compared to those recorded at the end of March.
@@ -37,7 +37,7 @@ Economists and investors are eagerly awaiting the Third Plenum, scheduled for Ju
 ![Στιγμιότυπο Οθόνης 2024 07 11 085237](assets/2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2fa3566c95bd.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 07 11 085237**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2fa3566c95bd.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2fa3566c95bd.png)
 
 In the second week of July, the dry bulk freight market experienced a decline in rates for larger vessel sizes, while the Handy NOPAC FE rates continued to show a relatively stable outlook for the second consecutive week.
 
@@ -49,7 +49,7 @@ In the second week of July, the dry bulk freight market experienced a decline in
 ![Στιγμιότυπο Οθόνης 2024 07 11 085359](assets/2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13dea97b85ba.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 07 11 085359**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13dea97b85ba.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13dea97b85ba.png)
 
 In the second week of July, the Cape and Panamax SE Africa markets continued to see a decrease in the number of ballast ships, with a notable decline also recorded in the Supramax SE Asia market. Moving forward, upward pressure on supply appears to be emerging in the Handy NOPAC region.
 
@@ -61,7 +61,7 @@ In the second week of July, the Cape and Panamax SE Africa markets continued to 
 ![Στιγμιότυπο Οθόνης 2024 07 11 085521](assets/2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7cf6a3a7504f.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 07 11 085521**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7cf6a3a7504f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7cf6a3a7504f.png)
 
 In the second week of July, the outlook for dry tonne days presented a mixed picture. While the Capesize segment showed signs of weaker growth, the Supramax and Panamax segments demonstrated a firmer outlook.
 
@@ -73,7 +73,7 @@ In the second week of July, the outlook for dry tonne days presented a mixed pic
 ![Στιγμιότυπο Οθόνης 2024 07 11 085642](assets/2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_94cabce176ed.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 07 11 085642**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_94cabce176ed.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_94cabce176ed.png)
 
 In the second week of July, Chinese dry bulk port congestion levels showed signs of increasing, with an upward trend recorded across all vessel size segments.
 

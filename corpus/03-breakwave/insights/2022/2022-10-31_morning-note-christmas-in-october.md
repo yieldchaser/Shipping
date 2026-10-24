@@ -28,14 +28,14 @@ I mean, I get the festive season and all… but it’s October. We are barely ou
 ![Market Chart 1](assets/2022-10-31_morning-note-christmas-in-october_img_image00528229_bbe0a9cf63e1.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-31_morning-note-christmas-in-october_img_image00528229_bbe0a9cf63e1.jpg)
+> [Local Asset](assets/2022-10-31_morning-note-christmas-in-october_img_image00528229_bbe0a9cf63e1.jpg)
 
 Yet, the festive and perma-happy crowd seems to disagree with me, almost as much as equity markets. For investors, Christmas came early. US stocks rose almost 9% rise in October, the best October since 2011.
 
 ![Market Chart 2](assets/2022-10-31_morning-note-christmas-in-october_img_image00628329_2045f25aa81b.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-31_morning-note-christmas-in-october_img_image00628329_2045f25aa81b.jpg)
+> [Local Asset](assets/2022-10-31_morning-note-christmas-in-october_img_image00628329_2045f25aa81b.jpg)
 
 Meanwhile, UK risk markets calmed as well, after Ms Truss resigned and Mr Sunak was confirmed as the new PM.
 
@@ -46,7 +46,7 @@ The British Autumn drama entered its third act, and the worst seems behind us. T
 ![Market Chart 3](assets/2022-10-31_morning-note-christmas-in-october_img_image007_1fa8aa44e19a.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-31_morning-note-christmas-in-october_img_image007_1fa8aa44e19a.jpg)
+> [Local Asset](assets/2022-10-31_morning-note-christmas-in-october_img_image007_1fa8aa44e19a.jpg)
 
 Having said that, the play usually hides an unsurprising fourth act. In Italy and Greece, the ‘difficult decisions’ caused the incumbent economic and political elite to collapse. It takes an enormous effort and political skill to maintain credibility with voters when one opts to satisfy ‘bond vigilantes’ and hedge funds to the detriment of one’s electorate. Very few political leaders, if any, have managed to pass the ‘market-voter test’. It could be that Mr Sunak’s story is different. After all, he was an active politician, not an outsider, and he is backed by a strong one-party majority, unlike other technocrats backed by shaky multi-party coalitions. Most importantly, Britain is making ‘difficult decisions’ for itself, however much under duress, unlike other countries where those decisions were visibly imposed by external organisations, like the EU and the IMF. Nevertheless, this is a story for the near future, but not for right now. Markets, and press headlines, seem to be finally moving on.
 
@@ -65,7 +65,7 @@ While we have been in this camp for some time, we haven’t seen evidence to jus
 ![Market Chart 4](assets/2022-10-31_morning-note-christmas-in-october_img_image008_ecdb4d314dd9.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-31_morning-note-christmas-in-october_img_image008_ecdb4d314dd9.jpg)
+> [Local Asset](assets/2022-10-31_morning-note-christmas-in-october_img_image008_ecdb4d314dd9.jpg)
 
 Fed officials have been persistently hawkish and bond futures continue to price in more than five rate hikes by mid-December. There is simply no signal from the Fed that they are willing to even consider easing up on their inflation fight right now. To position for this, one needs at least a year-long investment horizon. But usually, it’s the ‘fast’ money moving first, not the ‘slow’ money, so we can’t say that the S&P rebound is a longer-term bet.
 

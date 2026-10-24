@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-07-23_xq6donyp418tqznltki3q
 ![Rgb Color Brs Shipbrokers Monogram L](assets/2024-07-23_xq6donyp418tqznltki3q6s7rmipfh_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram L**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-23_xq6donyp418tqznltki3q6s7rmipfh_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](assets/2024-07-23_xq6donyp418tqznltki3q6s7rmipfh_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 There is a potential wave of protectionism brewing that could reset trade flows on the seaborne steel trade as the second-largest economy navigates a complex terrain of economic challenges and reforms. With China being the world’s largest steel producer, and as it grapples with the cumulative consequences of a prolonged property slump and an evident lack of substantial stimulus to support its domestic consumption, it has started to export more. Therefore, in recent months, certain countries have started to take precautionary measures against China’s rising steel exports.
 
@@ -32,7 +32,7 @@ Indeed, the narrative of overproduction in China has moved to the forefront of t
 ![Στιγμιότυπο Οθόνης 2024 07 23 104829](assets/2024-07-23_xq6donyp418tqznltki3q6s7rmipfh_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6873756cbb8c.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 07 23 104829**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-23_xq6donyp418tqznltki3q6s7rmipfh_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6873756cbb8c.png)
+> [Local Asset](assets/2024-07-23_xq6donyp418tqznltki3q6s7rmipfh_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6873756cbb8c.png)
 
 According to Mysteel data, China's steel production was on a gradual upward trend until 2021 when growth started to decelerate in the wake of the Covid pandemic. Growth had witnessed a slowdown in 2021, after registering a 9.58% growth in 2020. As the persistent lockdowns in Chinese provinces weighed on industrial production, steel plants were forced to cut output significantly due to poor margins. Nevertheless, overall production volumes have continued to rise.
 
@@ -43,14 +43,14 @@ Putting aside China’s recent strides in the production of electric vehicles, b
 ![Στιγμιότυπο Οθόνης 2024 07 23 104850](assets/2024-07-23_xq6donyp418tqznltki3q6s7rmipfh_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2878302f866.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 07 23 104850**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-23_xq6donyp418tqznltki3q6s7rmipfh_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2878302f866.png)
+> [Local Asset](assets/2024-07-23_xq6donyp418tqznltki3q6s7rmipfh_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2878302f866.png)
 
 South Korea is the major destination for Chinese steel exports. In 2023, it accounted for 11% of China’s total seaborne exports followed by Vietnam (9%) and UAE (5%). High exports in 2023 were mainly driven by low steel prices (in China) and weak domestic demand. Southeast Asia and the Middle East became the preferred destination for seaborne exports due to the lack of trade barriers. This illustrates how a slowdown in China’s economy could reverberate across commodity and shipping markets.
 
 ![Στιγμιότυπο Οθόνης 2024 07 23 104911](assets/2024-07-23_xq6donyp418tqznltki3q6s7rmipfh_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d6411454c3d9.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 07 23 104911**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-23_xq6donyp418tqznltki3q6s7rmipfh_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d6411454c3d9.png)
+> [Local Asset](assets/2024-07-23_xq6donyp418tqznltki3q6s7rmipfh_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d6411454c3d9.png)
 
 India is among the top ten destinations for Chinese steel exports which is proving to be a problem since it is the world’s second largest steel producer. Indeed, from a demand-side perspective, India remains a bright spot in the global steel industry as its consumption is growing strongly driven by government spending on infrastructure and housing, and amid a recovery in private investment under the ‘Make in India’ initiative.
 
@@ -63,7 +63,7 @@ This has seen a multitude of domestic steel market players suggest that the curr
 ![Στιγμιότυπο Οθόνης 2024 07 23 104933](assets/2024-07-23_xq6donyp418tqznltki3q6s7rmipfh_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_99ea6d8ec4a1.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 07 23 104933**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-23_xq6donyp418tqznltki3q6s7rmipfh_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_99ea6d8ec4a1.png)
+> [Local Asset](assets/2024-07-23_xq6donyp418tqznltki3q6s7rmipfh_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_99ea6d8ec4a1.png)
 
 According to AXS Marine data, South Korea is the biggest steel exporter to India, followed by China and Japan. The graph suggests that imports to India is growing from these countries y-o-y and India's steel mills have called for government interventions and safeguarding against this surge in imports. However, India's federal Ministry of Steel has so far resisted such calls, citing strong local demand.
 
@@ -78,7 +78,7 @@ Meanwhile, China’s steel export reach has worked to the benefit of dry bulkers
 ![Στιγμιότυπο Οθόνης 2024 07 23 104939](assets/2024-07-23_xq6donyp418tqznltki3q6s7rmipfh_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4a9226bbe313.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2024 07 23 104939**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-23_xq6donyp418tqznltki3q6s7rmipfh_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4a9226bbe313.png)
+> [Local Asset](assets/2024-07-23_xq6donyp418tqznltki3q6s7rmipfh_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4a9226bbe313.png)
 
 As shown in the graph above, the Baltic Index backhaul rates for the North China trip to West Africa for Supermaxes were elevated in 2021 due to container spillover effect to geared bulkers and continued in 2022 before a course correction in 2H2022. From beginning of 2024, S3 rates are popping up again. However, the uncertainty remains for the geared backhaul market from a trend reversal should countries reduce their steel imports from China.
 

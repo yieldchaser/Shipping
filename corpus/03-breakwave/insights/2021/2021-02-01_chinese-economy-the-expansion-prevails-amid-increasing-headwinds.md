@@ -27,7 +27,7 @@ The first sets of data measuring the health of the Chinese economy during the in
 ![Ulf 300](assets/2021-02-01_chinese-economy-the-expansion-prevails-amid-increasing-headwinds_img_ulf300_760a323d6e06.png)
 
 > **Figure 1: Ulf 300**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-01_chinese-economy-the-expansion-prevails-amid-increasing-headwinds_img_ulf300_760a323d6e06.png)
+> [Local Asset](assets/2021-02-01_chinese-economy-the-expansion-prevails-amid-increasing-headwinds_img_ulf300_760a323d6e06.png)
 
 The slowdown in economic recovery is greatly influenced by weaker export orders, with the New Export Orders Index falling into contraction territory below 50. The worsening of the pandemic situation saw external demand for Chinese goods fall and the current congestions in many container ports in export markets, with a resulting shortage of empty containers, are unlikely to have helped China’s export industry either.
 
@@ -36,7 +36,7 @@ The survey also highlighted rising prices for industrial inputs in China, which 
 ![Market Chart 2](assets/2021-02-01_chinese-economy-the-expansion-prevails-amid-increasing-headwinds_img_image-asset_6f173395efe7.jpeg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-01_chinese-economy-the-expansion-prevails-amid-increasing-headwinds_img_image-asset_6f173395efe7.jpeg)
+> [Local Asset](assets/2021-02-01_chinese-economy-the-expansion-prevails-amid-increasing-headwinds_img_image-asset_6f173395efe7.jpeg)
 
 China has also seen an increase in COVID-19 infection rates in recent weeks, which has led to new restrictions in some parts of the country. The new outbreaks and restrictions are likely to limit the traditional increase travel during the upcoming Chinese Lunar New Year, with the Ministry of Transport expecting 40 percent less travel compared to 2019. The reduction will have a negative impact on the country’s demand for oil as well as the service industry, with less demand for leisure and travel.
 
@@ -45,7 +45,7 @@ Industrial output could on the other hand increase, during what is traditionally
 ![Ulf 301](assets/2021-02-01_chinese-economy-the-expansion-prevails-amid-increasing-headwinds_img_ulf301_3551ee598ce8.png)
 
 > **Figure 3: Ulf 301**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-01_chinese-economy-the-expansion-prevails-amid-increasing-headwinds_img_ulf301_3551ee598ce8.png)
+> [Local Asset](assets/2021-02-01_chinese-economy-the-expansion-prevails-amid-increasing-headwinds_img_ulf301_3551ee598ce8.png)
 
 A continued industrial production through the Chinese holidays would maintain a healthy demand dry bulk shipping during what is normally the softest patch of the year. A further pick up in industrial activities in China after the holidays and stimulus driven recoveries in the US and Europe could see dry bulk charter rates doing their traditional recovery post the Chinese New Year, but from an unusually elevated level.
 

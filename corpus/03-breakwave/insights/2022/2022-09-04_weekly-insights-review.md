@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-09-04_weekly-insights-revie
 ![Unsplash Image Wayfwx0hlhc](assets/2022-09-04_weekly-insights-review_img_unsplash-image-wayfwx0hlhc_c43d892e6d91.jpg)
 
 > **Figure 1: Unsplash Image Wayfwx0hlhc**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/8/29/more-grain-expected-to-be-exported) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-04_weekly-insights-review_img_unsplash-image-wayfwx0hlhc_c43d892e6d91.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/8/29/more-grain-expected-to-be-exported) | [Local Asset](assets/2022-09-04_weekly-insights-review_img_unsplash-image-wayfwx0hlhc_c43d892e6d91.jpg)
 
 ## More Grain Expected to Be Exported
 
@@ -45,7 +45,7 @@ A lot can happen in eight minutes. You can boil an egg. You can read eight pages
 ![Unsplash Image Jkflck60vak](assets/2022-09-04_weekly-insights-review_img_unsplash-image-jkflck60vak_3681e6b64405.jpg)
 
 > **Figure 2: Unsplash Image Jkflck60vak**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/8/31/global-market-update) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-04_weekly-insights-review_img_unsplash-image-jkflck60vak_3681e6b64405.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/8/31/global-market-update) | [Local Asset](assets/2022-09-04_weekly-insights-review_img_unsplash-image-jkflck60vak_3681e6b64405.jpg)
 
 ## Global Market Update
 
@@ -57,14 +57,14 @@ There will be data releases pointing towards a recovery rather than a further we
 ![Unsplash Image P7dmfrpybto](assets/2022-09-04_weekly-insights-review_img_unsplash-image-p7dmfrpybto_d76f3fb2c0d0.jpg)
 
 > **Figure 3: Unsplash Image P7dmfrpybto**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/8/31/metals-slump-as-fears-of-weak-demand-in-china-linger) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-04_weekly-insights-review_img_unsplash-image-p7dmfrpybto_d76f3fb2c0d0.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/8/31/metals-slump-as-fears-of-weak-demand-in-china-linger) | [Local Asset](assets/2022-09-04_weekly-insights-review_img_unsplash-image-p7dmfrpybto_d76f3fb2c0d0.jpg)
 
 ## Metals Slump As Fears of Weak Demand in China Linger
 
 ![Unsplash Image U 28go0nl A](assets/2022-09-04_weekly-insights-review_img_unsplash-image-u-28go0nl-a_9caeaa78a64d.jpg)
 
 > **Figure 4: Unsplash Image U 28go0nl A**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/8/31/metals-slump-as-fears-of-weak-demand-in-china-linger) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-04_weekly-insights-review_img_unsplash-image-u-28go0nl-a_9caeaa78a64d.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/8/31/metals-slump-as-fears-of-weak-demand-in-china-linger) | [Local Asset](assets/2022-09-04_weekly-insights-review_img_unsplash-image-u-28go0nl-a_9caeaa78a64d.jpg)
 
 ## A Risk Off Tone Across Markets Saw Commodity Markets Come Under Pressure
 
@@ -76,7 +76,7 @@ This was exacerbated by worsening outbreaks of COVID-19 in China, raising fears 
 ![Unsplash Image E2o9lhzxjwa](assets/2022-09-04_weekly-insights-review_img_unsplash-image-e2o9lhzxjwa_e80badff51e9.jpg)
 
 > **Figure 5: Unsplash Image E2o9lhzxjwa**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/1/china-buying-even-more-russia-coal) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-04_weekly-insights-review_img_unsplash-image-e2o9lhzxjwa_e80badff51e9.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/1/china-buying-even-more-russia-coal) | [Local Asset](assets/2022-09-04_weekly-insights-review_img_unsplash-image-e2o9lhzxjwa_e80badff51e9.jpg)
 
 ## Imports From Indonesia Have Remained the Primary Source of Imports and Russia the Second Largest Source
 
@@ -94,7 +94,7 @@ There had been a shortage of power supply caused by high temperatures and worsen
 ![Unsplash Image Zkaj Kur3ks](assets/2022-09-04_weekly-insights-review_img_unsplash-image-zkaj-kur3ks_5beb34d7adb2.jpg)
 
 > **Figure 6: Unsplash Image Zkaj Kur3ks**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/8/31/where-are-diesel-cracks-heading-to) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-04_weekly-insights-review_img_unsplash-image-zkaj-kur3ks_5beb34d7adb2.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/8/31/where-are-diesel-cracks-heading-to) | [Local Asset](assets/2022-09-04_weekly-insights-review_img_unsplash-image-zkaj-kur3ks_5beb34d7adb2.jpg)
 
 .
 
@@ -106,4 +106,4 @@ We try to put some structure to this highly complex question, comparing the evid
 ![Unsplash Image Zpx0k6hdbc4](assets/2022-09-04_weekly-insights-review_img_unsplash-image-zpx0k6hdbc4_8f2e71035deb.jpg)
 
 > **Figure 7: Unsplash Image Zpx0k6hdbc4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-04_weekly-insights-review_img_unsplash-image-zpx0k6hdbc4_8f2e71035deb.jpg)
+> [Local Asset](assets/2022-09-04_weekly-insights-review_img_unsplash-image-zpx0k6hdbc4_8f2e71035deb.jpg)

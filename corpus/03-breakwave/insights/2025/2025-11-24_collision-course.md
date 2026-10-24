@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-11-24_collision-course.html
 ![Singapore Anchorage (1)](assets/2025-11-24_collision-course_img_singapore-anchorage28129_738512a8ef27.jpg)
 
 > **Figure 1: Singapore Anchorage (1)**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-24_collision-course_img_singapore-anchorage28129_738512a8ef27.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-11-24_collision-course_img_singapore-anchorage28129_738512a8ef27.jpg)
 
 For over a year now, oil analysts have been warning of a looming oil surplus with expanding oil supply far outpacing demand. The risk of a significant stock build into 2026 has been further cemented by the rapid rise in OPEC+ production quotas, alongside growth in the Americas, whilst other factors such as sanctions, the economic outlook, and the energy transition could further impact the supply/demand balance.
 
@@ -38,7 +38,7 @@ Ultimately, the current supply/demand projections suggest the oil market is on a
 ![Στιγμιότυπο Οθόνης 2025 11 24 101320](assets/2025-11-24_collision-course_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7af7b9272346.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 11 24 101320**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-24_collision-course_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7af7b9272346.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-11-24_collision-course_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7af7b9272346.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-11_signal-tanker-weekly-
 ![Market Chart 1](assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t175700958_9aa03037365f.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-reports-toncharts-trade/2nq6bx/306623343?h=peUdQrUawvxIYaF--sijeEvPracsW6atxQ4ADWeuSJQ) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t175700958_9aa03037365f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-reports-toncharts-trade/2nq6bx/306623343?h=peUdQrUawvxIYaF--sijeEvPracsW6atxQ4ADWeuSJQ) | [Local Asset](assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t175700958_9aa03037365f.png)
 
 Data Source: The Signal Ocean Platform, Toncharts - Demand
 [Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-reports-toncharts-trade/2nq6bx/306623343?h=peUdQrUawvxIYaF--sijeEvPracsW6atxQ4ADWeuSJQ)
@@ -42,7 +42,7 @@ Freight Market, Supply and Demand
 ![Firmer](assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t175742984_6c5e97a2c082.png)
 
 > **Figure 2: Firmer**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t175742984_6c5e97a2c082.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t175742984_6c5e97a2c082.png)
 
 - Crude oil freight rate sentiment improved in the second week of March with a steady increase in the VLCC and Aframax segments.
 
@@ -55,7 +55,7 @@ Freight Market, Supply and Demand
 ![Weaker](assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t175942308_b4eb7735a591.png)
 
 > **Figure 3: Weaker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t175942308_b4eb7735a591.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t175942308_b4eb7735a591.png)
 
 - **LR2**AG freight rates rose to WS195, 20 points higher than two weeks ago.
 
@@ -70,7 +70,7 @@ Freight Market, Supply and Demand
 ![Clean](assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t180017084_544bc73811ea.png)
 
 > **Figure 4: Clean**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t180017084_544bc73811ea.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t180017084_544bc73811ea.png)
 
 - **MR1**rates Algeria-to-Med are now at WS180, 30 points lower than at the end of February.
 
@@ -84,7 +84,7 @@ Freight Market, Supply and Demand
 ![VLCC - Decreasing | Suezmax - Aframax - Increasing](assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t180139706_b1553aa10738.png)
 
 > **Figure 5: VLCC - Decreasing | Suezmax - Aframax - Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t180139706_b1553aa10738.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t180139706_b1553aa10738.png)
 
 - The supply of crude oil tankers has increased significantly in the Suezmax and Aframax segments, while the number of vessels in the VLCC segment is still below the annual average.
 
@@ -98,14 +98,14 @@ Freight Market, Supply and Demand
 ![Market Chart 6](assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t180215235_a7c8960cbc5e.png)
 
 > **Figure 6: Market Chart 6**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t180215235_a7c8960cbc5e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t180215235_a7c8960cbc5e.png)
 
 ## ‘Clean’ Supply Trend Lines for Key Load Areas |MR1| Decreasing
 
 ![Market Chart 7](assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t180259630_2463263f27ae.png)
 
 > **Figure 7: Market Chart 7**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t180259630_2463263f27ae.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t180259630_2463263f27ae.png)
 
 - **Clean LR2 AG Jubail:**The number of vessels held at a level around 11, with an increasing trend in the next days of March, but still not above the annual average of 13.
 
@@ -118,14 +118,14 @@ Freight Market, Supply and Demand
 ![Decreasing](assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t180334910_20fddcdef7f2.png)
 
 > **Figure 8: Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t180334910_20fddcdef7f2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t180334910_20fddcdef7f2.png)
 
 ## ‘Clean’ |Panamax - Decreasing | MR2 - MR1 -Decreasing
 
 ![Market Chart 9](assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t180407000_d61e199b025d.png)
 
 > **Figure 9: Market Chart 9**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t180407000_d61e199b025d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-03-11_signal-tanker-weekly-report_img_unnamed-2023-03-10t180407000_d61e199b025d.png)
 
 - **Dirty**demand ton-days: March began with slowing momentum in the crude oil tanker segment for Aframax vessels but with significant strength in the VLCC and Suezmax segments.
 

@@ -35,7 +35,7 @@ Despite the positivity injected by the IMF, China's manufacturing activity unexp
 ![Στιγμιότυπο Οθόνης 2024 06 03 093201](assets/2024-06-03_significant-shifts-have-occurred-in-the-spot-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a57ad671cdc.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 06 03 093201**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-03_significant-shifts-have-occurred-in-the-spot-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a57ad671cdc.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-06-03_significant-shifts-have-occurred-in-the-spot-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a57ad671cdc.png)
 
 Given these dynamics, iron ore futures continued to decline on Friday, ending the week lower due to softening near-term demand and uninspiring factory data from China. Throughout May, iron ore prices mostly moved sideways, lacking clear direction. In contrast, London copper prices rebounded on Friday after previous sell-offs, positioning the market for a modest monthly gain despite lingering weak physical demand in China. A speculative surge had pushed copper prices to record highs on May 20, but they subsequently fell amid profit-taking and concerns over the course of global economy. Baltic indices finished May at levels close to their year-to-date averages, showing little significant movement in either direction.
 

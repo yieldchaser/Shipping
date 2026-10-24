@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-10-31_breakwave-bi-weekly-t
 ![Tankerreporttop](assets/2023-10-31_breakwave-bi-weekly-tanker-report-oct-31-2023-5bn4g_img_tankerreporttop_d8a12190f7dc.png)
 
 > **Figure 1: Tankerreporttop**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-31_breakwave-bi-weekly-tanker-report-oct-31-2023-5bn4g_img_tankerreporttop_d8a12190f7dc.png)
+> [Local Asset](assets/2023-10-31_breakwave-bi-weekly-tanker-report-oct-31-2023-5bn4g_img_tankerreporttop_d8a12190f7dc.png)
 
 **• Ongoing Middle East turmoil continues to push VLCC rates higher –**When it comes to energy security and geopolitical turmoil, tanker rates tend to react swiftly, and this time around has been no exception. VLCC spot rates have shown increased strength compared to the previous month's levels, with the Baltic Exchange benchmark time charter equivalent earnings ($/day) surging by more than 100%, while the rates for the Middle East Gulf to the US Gulf route have also increased by an impressive 180%. Internals for the tanker market also look favorable: Suezmaxes, tankers that have a carrying capacity of half that of a VLCC, have surged and are now priced at about double the level of a VLCC (measured in $/ton), an unusual circumstance that should support VLCC rates going forward. The Atlantic market is also strong, with the West Africa-to-China route jumping to multi-month highs. The tanker market is not only reacting to strong demand and the rush to secure tonnage, but the rate increases also reflect relatively tight supply that should prevail for the years to come given the nonexistent orderbook for large tanker vessels. As the winter progresses, the risk lies on higher rates and possibly sharper spikes, especially given that the likelihood of further escalation in the Middle East increasingly looks real. VLCC rates remain well below last year’s levels, despite all the above favorable dynamics affecting the market. With most of the potential adverse winter weather ahead of us, we continue to see higher spot VLCC rates for the months to come.
 
@@ -33,11 +33,11 @@ source_file: "corpus/03-breakwave/insights/2023/2023-10-31_breakwave-bi-weekly-t
 ![Tankerreportchart](assets/2023-10-31_breakwave-bi-weekly-tanker-report-oct-31-2023-5bn4g_img_tankerreportchart_b333dfffd581.png)
 
 > **Figure 2: Tankerreportchart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-31_breakwave-bi-weekly-tanker-report-oct-31-2023-5bn4g_img_tankerreportchart_b333dfffd581.png)
+> [Local Asset](assets/2023-10-31_breakwave-bi-weekly-tanker-report-oct-31-2023-5bn4g_img_tankerreportchart_b333dfffd581.png)
 
 ![Tankerreportbottom](assets/2023-10-31_breakwave-bi-weekly-tanker-report-oct-31-2023-5bn4g_img_tankerreportbottom_0746c8bc0e3c.png)
 
 > **Figure 3: Tankerreportbottom**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-31_breakwave-bi-weekly-tanker-report-oct-31-2023-5bn4g_img_tankerreportbottom_0746c8bc0e3c.png)
+> [Local Asset](assets/2023-10-31_breakwave-bi-weekly-tanker-report-oct-31-2023-5bn4g_img_tankerreportbottom_0746c8bc0e3c.png)
 
 ### Subscribe:

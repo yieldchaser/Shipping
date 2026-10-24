@@ -27,7 +27,7 @@ Rising geopolitical tensions lifted energy markets. Easing trade tension elicite
 ![Στιγμιότυπο Οθόνης 2025 06 12 122811](assets/2025-06-12_oil-surges-amid-renewed-geopolitical-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_921c14152dad.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 06 12 122811**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-12_oil-surges-amid-renewed-geopolitical-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_921c14152dad.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-06-12_oil-surges-amid-renewed-geopolitical-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_921c14152dad.png)
 
 ### Market Commentary
 
@@ -48,7 +48,7 @@ In a worrying sign for oil, US gasoline demand has been soft since the start of 
 ![Στιγμιότυπο Οθόνης 2025 06 12 122948](assets/2025-06-12_oil-surges-amid-renewed-geopolitical-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1ca1973a8a75.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 06 12 122948**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-12_oil-surges-amid-renewed-geopolitical-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1ca1973a8a75.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-06-12_oil-surges-amid-renewed-geopolitical-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1ca1973a8a75.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

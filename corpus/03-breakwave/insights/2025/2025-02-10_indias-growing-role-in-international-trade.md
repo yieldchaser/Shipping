@@ -31,7 +31,7 @@ On the macroeconomic front, the Reserve Bank of India (RBI) made headlines this 
 ![Στιγμιότυπο Οθόνης 2025 02 10 101512](assets/2025-02-10_indias-growing-role-in-international-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91d607d989f6.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 02 10 101512**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-10_indias-growing-role-in-international-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91d607d989f6.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-02-10_indias-growing-role-in-international-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91d607d989f6.png)
 
 Since assuming office, Governor Malhotra has initiated a liquidity infusion into India’s banking sector, including an $18 billion package announced last month. This was widely perceived as an early signal of a shift towards looser monetary policy. Meanwhile, Prime Minister Modi’s government is implementing measures to bolster domestic consumption, such as tax relief for middle-class households. While India remains the fastest-growing major economy, its pace of expansion has slowed in recent months due to rising food prices, currency depreciation, stagnant wages, and weakened consumption – factors that particularly impacted growth in late 2024.
 
@@ -40,7 +40,7 @@ Conversely, India’s manufacturing sector saw a strong start to 2025, reboundin
 ![Στιγμιότυπο Οθόνης 2025 02 10 101629](assets/2025-02-10_indias-growing-role-in-international-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_46ba0574de4d.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 02 10 101629**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-10_indias-growing-role-in-international-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_46ba0574de4d.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-02-10_indias-growing-role-in-international-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_46ba0574de4d.png)
 
 On the trade front, India’s cumulative exports (merchandise and services) reached an estimated $602.64 billion during AprilDecember 2024, reflecting a 6.03 percent year-on-year increase. Merchandise exports during this period stood at $321.71 billion, up 1.6 percent from the previous year, with key growth drivers including electronic goods, engineering products, rice, textiles, and cotton. Imports in December 2024 rose 4.8 percent year-on-year to $59.95 billion, bringing total merchandise imports for April-December 2024 to $532.48 billion, up from $506.39 billion in the corresponding period of 2023. As a result, the merchandise trade deficit widened to $210.77 billion from $189.74 billion a year earlier.
 

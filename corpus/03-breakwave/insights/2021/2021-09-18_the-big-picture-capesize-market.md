@@ -33,7 +33,7 @@ This week, average Capesize rates hit a fresh milestone, soaring again past the 
 ![Ch1](assets/2021-09-18_the-big-picture-capesize-market_img_ch1_f22dd2290282.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-18_the-big-picture-capesize-market_img_ch1_f22dd2290282.png)
+> [Local Asset](assets/2021-09-18_the-big-picture-capesize-market_img_ch1_f22dd2290282.png)
 
 Over the last couple of weeks, both basins have tightened, as the ramp up in shipments from Brazil coincides with a severe shortage of vessels in the Pacific, owing to several factors. One of these is the elevated congestion levels we have recorded in Chinese ports. Cape queues in China stood at 19.1m dwt at the start of this week, which is down by 22% from their August peak, but the figure still represents about 5.3% of the trading Cape fleet. Typhoon Chanthu, which passed over the Shanghai region this week has likely exacerbated these issues, with several ports halting operations temporarily. As vessels depart anchorages ahead of the severe weather, it’s tough to gauge exactly how high the congestion figure is today, but the additional waiting time will likely translate to heavier congestion. At the same time, COVID-related bottlenecks are still affecting ports in this region and others, tying up ships for longer.
 
@@ -48,7 +48,7 @@ The FFA market has also been extremely hot and equally sensitive to these change
 ![Ch2](assets/2021-09-18_the-big-picture-capesize-market_img_ch2_a38c823374b1.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-18_the-big-picture-capesize-market_img_ch2_a38c823374b1.png)
+> [Local Asset](assets/2021-09-18_the-big-picture-capesize-market_img_ch2_a38c823374b1.png)
 
 There has however been a significant movement in futures for Q1 2022, which are currently trading 32% higher than they were at the mid-point of 2021, as the market reassess the likelihood of the current dry bulk rally rolling into next year. Meanwhile calendar-year 2022 contracts have soared above $25,000, almost double where they were trading at the start of the year.
 
@@ -59,12 +59,12 @@ Amid this frenzy, we are at the same time receiving alarming signals from China,
 ![Ch3](assets/2021-09-18_the-big-picture-capesize-market_img_ch3_c57e43c3a321.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-18_the-big-picture-capesize-market_img_ch3_c57e43c3a321.png)
+> [Local Asset](assets/2021-09-18_the-big-picture-capesize-market_img_ch3_c57e43c3a321.png)
 
 ![Ch4](assets/2021-09-18_the-big-picture-capesize-market_img_ch4_45055e79f5a5.png)
 
 > **Figure 4: Ch4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-18_the-big-picture-capesize-market_img_ch4_45055e79f5a5.png)
+> [Local Asset](assets/2021-09-18_the-big-picture-capesize-market_img_ch4_45055e79f5a5.png)
 
 Iron ore prices have also nearly halved, since May. Benchmark 62% Fe ore sunk below $120 per tonne yesterday, the lowest since October last year. Economic markers such as industrial output, infrastructure investment, retail sales and floor space under construction also registered the slowest levels of growth since the pandemic hit China in early 2020. All of these have also raised question marks over China’s long-term dry bulk demand prospects.
 

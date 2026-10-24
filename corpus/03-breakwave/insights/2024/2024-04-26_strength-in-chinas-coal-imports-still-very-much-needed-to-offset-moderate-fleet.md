@@ -27,21 +27,21 @@ Last week was another good week in the dry bulk spot market, although the 1% gro
 ![Chart 1](assets/2024-04-26_strength-in-chinas-coal-imports-still-very-much-needed-to-offset-moderate-fleet_img_chart1_9e40dedbbd86.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-26_strength-in-chinas-coal-imports-still-very-much-needed-to-offset-moderate-fleet_img_chart1_9e40dedbbd86.jpg)
+> [Local Asset](assets/2024-04-26_strength-in-chinas-coal-imports-still-very-much-needed-to-offset-moderate-fleet_img_chart1_9e40dedbbd86.jpg)
 
 Not coming as a surprise to us, however, and remaining helpful for the dry bulk market, has been that China’s coal production has continued to contract on a year-on-year basis by 4% due to the ongoing safety overhaul that we have continued to examine in our work. As a result, China’s coal import prospects remain bullish.
 
 ![Chart 2](assets/2024-04-26_strength-in-chinas-coal-imports-still-very-much-needed-to-offset-moderate-fleet_img_chart2_01f988cbf065.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-26_strength-in-chinas-coal-imports-still-very-much-needed-to-offset-moderate-fleet_img_chart2_01f988cbf065.jpg)
+> [Local Asset](assets/2024-04-26_strength-in-chinas-coal-imports-still-very-much-needed-to-offset-moderate-fleet_img_chart2_01f988cbf065.jpg)
 
 Overall, strength in China’s coal imports will still very much be needed to continue to help support the market as fleet growth remains moderate. This is a key point that we have been stressing in Commodore Research's Weekly Dry Bulk Reports. Of note most recently is that approximately 38 dry bulk newbuildings were delivered in March. This is 7 more than were delivered in February. March saw the delivery of 13 handysize vessels, 11 handymax vessels, 9 panamax vessels, and 5 capesize vessels. In comparison, February saw the delivery of 10 handysize vessels, 10 handymax vessels, 9 panamax vessels, and 2 capesize vessels. Approximately 6 vessels were scrapped in March, which is the same amount as was seen in February. March saw the removal of 4 handysize vessels, 1 handymax vessel, and 1 panamax vessel. In comparison, February saw the removal of 1 handysize vessel, 2 panamax vessels, and 2 capesize vessels.
 
 ![Chart 3](assets/2024-04-26_strength-in-chinas-coal-imports-still-very-much-needed-to-offset-moderate-fleet_img_chart3_c9baaf939c6d.jpg)
 
 > **Figure 3: Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-26_strength-in-chinas-coal-imports-still-very-much-needed-to-offset-moderate-fleet_img_chart3_c9baaf939c6d.jpg)
+> [Local Asset](assets/2024-04-26_strength-in-chinas-coal-imports-still-very-much-needed-to-offset-moderate-fleet_img_chart3_c9baaf939c6d.jpg)
 
 ---
 

@@ -61,7 +61,7 @@ On freight rates, analysts agreed that 2025 is set for stronger levels.*Jonathan
 ![Unsplash Image Bqpb1vdg3zw](assets/2025-01-27_the-2025-outlook-for-dry-bulk-and-tanker-markets_img_unsplash-image-bqpb1vdg3zw_863b6f3398b7.jpg)
 
 > **Figure 1: Unsplash Image Bqpb1vdg3zw**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-27_the-2025-outlook-for-dry-bulk-and-tanker-markets_img_unsplash-image-bqpb1vdg3zw_863b6f3398b7.jpg)
+> [Local Asset](assets/2025-01-27_the-2025-outlook-for-dry-bulk-and-tanker-markets_img_unsplash-image-bqpb1vdg3zw_863b6f3398b7.jpg)
 
 ---
 

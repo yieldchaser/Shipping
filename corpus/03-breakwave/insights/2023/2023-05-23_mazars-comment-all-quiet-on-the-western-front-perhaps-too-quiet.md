@@ -40,7 +40,7 @@ It was an undeniably good week for markets. US equities rose, breaking their ‘
 ![Market Chart 1](assets/2023-05-23_mazars-comment-all-quiet-on-the-western-front-perhaps-too-quiet_img_image00428929_2e0a2667211f.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-23_mazars-comment-all-quiet-on-the-western-front-perhaps-too-quiet_img_image00428929_2e0a2667211f.jpg)
+> [Local Asset](assets/2023-05-23_mazars-comment-all-quiet-on-the-western-front-perhaps-too-quiet_img_image00428929_2e0a2667211f.jpg)
 
 On the one hand, the US Republicans and Democrats have ostensibly climbed off their high horses and decided not to play too many games with the debt ceiling and the nation’s credit standing. It is not just the optimism from both President Biden and House Speaker Keving McCarthy, but, perhaps more importantly, it is the absence of the usual acerbic accusatory language, concomitant with brutal partisan fights. In the past few months, the “de-dollarization” theme seems to be in vogue. It started some time after SVB’s collapse, and before the “debt ceiling” was trending.
 
@@ -48,7 +48,7 @@ On the one hand, the US Republicans and Democrats have ostensibly climbed off th
 
 > **Figure 2: Climate Between President Biden and House Speaker Mccarthy Seems**  
 > *The climate between President Biden and House Speaker McCarthy seems positive enough. As a personal caveat, however, this writer is too old, too suspicious of current politics and perhaps too cynical to casually believe politicians singing ‘Kumbaya’. Where I hear unfettered optimism coming out of Washington, I instinctively embrace my natural proclivity towards facetiousness, ever mindful of George Orwell’s quote: “Political language is designed to make lies sound truthful […] and to give an appearance of solidity to pure wind”.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-23_mazars-comment-all-quiet-on-the-western-front-perhaps-too-quiet_img_image00528829_3f56cbd7a134.jpg)
+> [Local Asset](assets/2023-05-23_mazars-comment-all-quiet-on-the-western-front-perhaps-too-quiet_img_image00528829_3f56cbd7a134.jpg)
 
 Is it possible that the leaders of the biggest economy in the world are uniting in front of rising danger against US economic primacy?
 
@@ -63,7 +63,7 @@ The Fed undeniably walks a tightrope. On the one hand it seeks to quash the pers
 ![Market Chart 3](assets/2023-05-23_mazars-comment-all-quiet-on-the-western-front-perhaps-too-quiet_img_image006281129_bdcf27cbf3be.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-23_mazars-comment-all-quiet-on-the-western-front-perhaps-too-quiet_img_image006281129_bdcf27cbf3be.jpg)
+> [Local Asset](assets/2023-05-23_mazars-comment-all-quiet-on-the-western-front-perhaps-too-quiet_img_image006281129_bdcf27cbf3be.jpg)
 
 On the other hand, it can’t afford to appear too hawkish. The turmoil in peripheral banks persists, lending is drying up and the debt ceiling rising is not a done deal. The central bank’s credibility and ability to influence markets had to be carefully and painfully rebuilt after misreading inflation two years ago. It remains fragile and could collapse like a house of cards if it persisted on rate hikes only to renege a month later due to worsening financial conditions.
 

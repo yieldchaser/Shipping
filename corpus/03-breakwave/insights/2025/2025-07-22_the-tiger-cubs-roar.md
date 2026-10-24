@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-07-22_the-tiger-cubs-roar.h
 ![Adobestock 276060210](assets/2025-07-22_the-tiger-cubs-roar_img_adobestock-276060210_7ea17e802403.jpeg)
 
 > **Figure 1: Adobestock 276060210**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-22_the-tiger-cubs-roar_img_adobestock-276060210_7ea17e802403.jpeg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-07-22_the-tiger-cubs-roar_img_adobestock-276060210_7ea17e802403.jpeg)
 
 In the past decade, oil demand has been defined by rapid growth in the Chinese economy, with the country responsible for 60% of global growth. However, with the outlook for Chinese oil demand changing, the structure of global oil trade is also shifting. A combination of factors is contributing to plateauing Chinese demand, but the biggest factor is the significant penetration and widespread adoption of electric vehicles. In addition, there is an increasing uptake of LNG powered and electric trucks.
 
@@ -40,7 +40,7 @@ While Chinese oil demand is plateauing, trade to Asia is still expected to incre
 ![Στιγμιότυπο Οθόνης 2025 07 21 142648](assets/2025-07-22_the-tiger-cubs-roar_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_59a0d0357b10.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 07 21 142648**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-22_the-tiger-cubs-roar_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_59a0d0357b10.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-07-22_the-tiger-cubs-roar_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_59a0d0357b10.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

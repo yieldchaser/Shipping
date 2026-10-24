@@ -37,7 +37,7 @@ Shadow oil certainly dominates the employment of older crude carriers. Ninety pe
 ![A33a Image 0 1764253553887](assets/2025-11-28_the-big-picture-peace-in-ukraine-good-or-bad-for-tanker-freight_img_a33a-image-0-1764253553887_867a740bd6d2.png)
 
 > **Figure 1: A33a Image 0 1764253553887**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-28_the-big-picture-peace-in-ukraine-good-or-bad-for-tanker-freight_img_a33a-image-0-1764253553887_867a740bd6d2.png)
+> [Local Asset](assets/2025-11-28_the-big-picture-peace-in-ukraine-good-or-bad-for-tanker-freight_img_a33a-image-0-1764253553887_867a740bd6d2.png)
 
 While war-time Russian flows added roughly 30% to average voyage length for the global dirty-trading Aframax/LR2 tankers, it did little to extend the average supply chain for Suezmaxes or VLCCs (which combined fell by 1%) .
 

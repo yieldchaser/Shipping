@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-04-27_are-the-stars-alignin
 ![Unsplash Image Ncmd8ule8h0](assets/2021-04-27_are-the-stars-aligning-for-the-world-economy_img_unsplash-image-ncmd8ule8h0_0f5120b520b3.jpg)
 
 > **Figure 1: Unsplash Image Ncmd8ule8h0**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-27_are-the-stars-aligning-for-the-world-economy_img_unsplash-image-ncmd8ule8h0_0f5120b520b3.jpg)
+> [Local Asset](assets/2021-04-27_are-the-stars-aligning-for-the-world-economy_img_unsplash-image-ncmd8ule8h0_0f5120b520b3.jpg)
 
 A strong rebound in global economic activity and optimism about the continued growth has kept pushing many commodity prices higher, as demand recovers from the lows of last year. China recently published its record-breaking first-quarter growth in GDP and on Thursday this week it is the turn of the US to report how its economy performed in the early parts of the year. While the numbers are not expected to reach the dizzy heights of the Chinese, it is anticipated that the US economy grew by 6.1 per cent (annualized rate) from January through March, according to a Reuters survey of economists. This would be considerably above the more moderate recovery of 4.3 per cent registered in the fourth quarter of last year. New orders for US-manufactured capital goods have also risen solidly in March, according to data from the US Department of Commerce, cementing the expectations that economic growth accelerated in the first quarter on the back of demand boosted by extensive government aid and improving public health. US equity markets are also in an all-time high territory following solid corporate earnings and an expectation that the Federal Reserve will retain an accommodative stance, even as the vigorous growth takes the world’s largest economy back to its pre-pandemic levels.
 
@@ -38,7 +38,7 @@ The strengthening momentum in the developed economies, in combination with the c
 ![Ulf April 27](assets/2021-04-27_are-the-stars-aligning-for-the-world-economy_img_ulfapril27_2e73a0e9a466.jpg)
 
 > **Figure 2: Ulf April 27**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-27_are-the-stars-aligning-for-the-world-economy_img_ulfapril27_2e73a0e9a466.jpg)
+> [Local Asset](assets/2021-04-27_are-the-stars-aligning-for-the-world-economy_img_ulfapril27_2e73a0e9a466.jpg)
 
 The recent strong performance for copper and other industrial commodities have also led to higher factory prices, stoking concerns of rising inflation in the wake of the recovery. Additionally, agricultural commodities have soared to an eight-year high and renewed fears of food inflation. It remains to be seen if it is the early stages of the much-hyped commodities super-cycle we are witnessing or if prices will eventually moderate. However, it is likely to be the first instalment of rising inflation, while the rising debt due to the pandemic and stimulus measures could amplify such an increase at a later stage.
 

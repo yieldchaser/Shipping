@@ -30,7 +30,7 @@ For this article, we have used the brand new [C3](https://app.signalocean.com/dr
 ![Heading](../../images/66b51e9ada739356d2505e46_631859dd835a38360df2f56c_c3%20p6%20report.avif)
 
 > **Figure 1: Heading**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ballasters-vs-freight-demand-daily-volume-loaded-port-congestion-waiting-days) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e9ada739356d2505e46_631859dd835a38360df2f56c_c3%20p6%20report.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ballasters-vs-freight-demand-daily-volume-loaded-port-congestion-waiting-days) | [Local Asset](../../images/66b51e9ada739356d2505e46_631859dd835a38360df2f56c_c3%20p6%20report.avif)
 
 Looking at commodity trends, the outlook for iron ore prices remains bearish due to concerns over new Covid 19 restrictions and the real estate sector depressing Chinese demand for ferrous metals. Prices for iron ore cargoes with an iron content of 63.5% for delivery to Tianjin fell to $98/tonne in early September, a level not seen in nearly 10 months, as power outages at Chinese manufacturers and construction companies reduced capacity for steel production and demand for steel inputs. Iron demand from steel producers has also been depressed by decarbonization requirements that cities must implement. Authorities in Tangshan, China's largest steel-producing city, met with steel mills to discuss capacity for the rest of the year, with the goal of reducing output by 8.3 million tonnes per year.
 
@@ -45,7 +45,7 @@ Looking at commodity trends, the outlook for iron ore prices remains bearish due
 
 > **Figure 2: Data Source: C3 Dashboard, (Last Update 6 September)**  
 > *Data Source: C3 Dashboard, (Last Update 6 September)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ballasters-vs-freight-demand-daily-volume-loaded-port-congestion-waiting-days) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e9ada739356d2505db6_63185a8e6a5b301dc43b8733_capes%202nd%20pic.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ballasters-vs-freight-demand-daily-volume-loaded-port-congestion-waiting-days) | [Local Asset](../../images/66b51e9ada739356d2505db6_63185a8e6a5b301dc43b8733_capes%202nd%20pic.avif)
 
 Fewer than 100 ballast ships have sailed to South Africa since August 24, resulting in firmer freight rates from Brazil to China in the first days of September. The number of Capesize ballast vessels is now at its lowest level since January 2022, and rates for the Brazil- North China route have risen to $20/tonne. Overall, the average number of ballast vessels has dropped to 79 in the last 12 days from 131 vessels in the first half of August.
 
@@ -59,7 +59,7 @@ Daily volumes shipped have risen to 1 million tons since the end of August, a le
 
 > **Figure 3: Data Source: C3 Dashboard, (Last Update 6 September)**  
 > *Data Source: C3 Dashboard, (Last Update 6 September)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ballasters-vs-freight-demand-daily-volume-loaded-port-congestion-waiting-days) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e99da739356d2505dac_63185b16e615cd0b833647b6_capes.%20daily%20volume%20loaded%20(1).avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ballasters-vs-freight-demand-daily-volume-loaded-port-congestion-waiting-days) | [Local Asset](../../images/66b51e99da739356d2505dac_63185b16e615cd0b833647b6_capes.%20daily%20volume%20loaded%20(1).avif)
 
 The current trend in daily volume loaded (3w moving average) appears to be one of the highest since the beginning of the year after the last highs were reached in the first 20 days of July. ****
 
@@ -76,7 +76,7 @@ The number of congested ships in both Brazil and China has declined, but there a
 
 > **Figure 4: Data Source: C3 Dashboard, (Last Update 6 September)**  
 > *Data Source: C3 Dashboard, (Last Update 6 September)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ballasters-vs-freight-demand-daily-volume-loaded-port-congestion-waiting-days) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e9ada739356d2505db9_63185b917d140cf5d2910dbe_CAPESIZE%20CONGESTION%20(1).avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ballasters-vs-freight-demand-daily-volume-loaded-port-congestion-waiting-days) | [Local Asset](../../images/66b51e9ada739356d2505db9_63185b917d140cf5d2910dbe_CAPESIZE%20CONGESTION%20(1).avif)
 
 
 ### Waiting Days for Discharging: Per Country Brazil: Increasing - China: Decreasing
@@ -86,7 +86,7 @@ The number of congested ships in both Brazil and China has declined, but there a
 
 > **Figure 5: Data Source: C3 Dashboard, (Last Update 6 September)**  
 > *Data Source: C3 Dashboard, (Last Update 6 September)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ballasters-vs-freight-demand-daily-volume-loaded-port-congestion-waiting-days) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e99da739356d2505db0_63185c5a0164363045bc1b2a_capes%20waiting%20days%20(3).avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ballasters-vs-freight-demand-daily-volume-loaded-port-congestion-waiting-days) | [Local Asset](../../images/66b51e99da739356d2505db0_63185c5a0164363045bc1b2a_capes%20waiting%20days%20(3).avif)
 
 The number of congested ships in Brazil dropped to 22 in the first week of September, 10 fewer than the last peak on August 28. The latest number of capes congestion in Brazil is similar to the low level of January this year.
 
@@ -105,7 +105,7 @@ Ballast shipments are averaging about 70 vessels, 16 vessels below the August 22
 
 > **Figure 6: Data Source: P6 Dashboard, (Last Update 6 September)**  
 > *Data Source: P6 Dashboard, (Last Update 6 September)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ballasters-vs-freight-demand-daily-volume-loaded-port-congestion-waiting-days) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e9ada739356d2505e49_63185d2656607d8698aeb024_panamax%20ballasters.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ballasters-vs-freight-demand-daily-volume-loaded-port-congestion-waiting-days) | [Local Asset](../../images/66b51e9ada739356d2505e49_63185d2656607d8698aeb024_panamax%20ballasters.avif)
 
 
 ### V. Demand: Daily Volume Loaded Decreasing
@@ -117,7 +117,7 @@ In the first days of September, the growth of daily shipped volume slowed down c
 
 > **Figure 7: Data Source: P6 Dashboard, (Last Update 6 September)**  
 > *Data Source: P6 Dashboard, (Last Update 6 September)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ballasters-vs-freight-demand-daily-volume-loaded-port-congestion-waiting-days) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e99da739356d2505da7_63185da60164366ecabd3818_panamax%20daily%20loaded.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ballasters-vs-freight-demand-daily-volume-loaded-port-congestion-waiting-days) | [Local Asset](../../images/66b51e99da739356d2505da7_63185da60164366ecabd3818_panamax%20daily%20loaded.avif)
 
 
 ### Vi. Panamax Congestion: Per Discharging Country & Waiting Days Brazil - China - India: Decreasing
@@ -129,7 +129,7 @@ The number of congested vessels has decreased significantly since the last peak 
 
 > **Figure 8: Data Source: P6 Dashboard, (Last Update 6 September)**  
 > *Data Source: P6 Dashboard, (Last Update 6 September)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ballasters-vs-freight-demand-daily-volume-loaded-port-congestion-waiting-days) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e9ada739356d2505dd3_63185e4e75bb22b2e96a7c5f_congestion%20of%20discharging%20vessels.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ballasters-vs-freight-demand-daily-volume-loaded-port-congestion-waiting-days) | [Local Asset](../../images/66b51e9ada739356d2505dd3_63185e4e75bb22b2e96a7c5f_congestion%20of%20discharging%20vessels.avif)
 
 A look at the latest weekly trends in waiting days for discharging shows that the downward trend is expected to continue in the next few days in September, with Brazil showing the lowest waiting days since the beginning of this year.
 

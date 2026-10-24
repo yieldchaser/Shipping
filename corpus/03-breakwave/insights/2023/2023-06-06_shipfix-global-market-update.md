@@ -64,6 +64,6 @@ Average cargo sizes for shipments from Australia and Indonesia to India have see
 ![Market Chart 1](assets/2023-06-06_shipfix-global-market-update_img_unnamed-2023-06-06t124835780_ea932f0b5d0f.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-06_shipfix-global-market-update_img_unnamed-2023-06-06t124835780_ea932f0b5d0f.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2023-06-06_shipfix-global-market-update_img_unnamed-2023-06-06t124835780_ea932f0b5d0f.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

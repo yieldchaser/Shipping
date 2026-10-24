@@ -36,7 +36,7 @@ Already this month, the United States has expanded its sanctions on Iran’s oil
 
 > **Figure 1: Although Enforcement of Sanctions Has Until Now Been Sporadic At**  
 > *Although enforcement of sanctions has until now been sporadic at best, tankers that have been targeted by sanctions offices are proving to be less productive. The 2008-built Aframax vesselOcean Amz, for example, spent months idling off Russia’s Baltic coast after it was sanctioned in June. But there are limits to the effectiveness of sanctions. After a change of name, technical manager, and registered owner in September, theOcean Amzbegan trading again this month. This week it sailed via the English Channel with a cargo of Russian Urals crude oil just days after the UK said it plans to “challenge shadow fleet vessels with suspected dubious insurance to provide details of their insurance status as they pass through the English Channel.”*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-29_the-big-picture-sanctions_img_image0_8767e97e3cd1.png)
+> [Local Asset](assets/2024-10-29_the-big-picture-sanctions_img_image0_8767e97e3cd1.png)
 
 US sanctions appear to have been more effective than UK and EU action. Around 60% of tankers sanctioned by the UKfor their involvement in transporting Russian oil this year have recently been active, oil analytics firm Vortexa says, compared to only around 20% of tankers sanctioned by the US. One reason for this is that ports and buyers in India, a major importer of Russian oil, appear to be increasingly wary of falling foul of US sanctions. The impact on the Iranian market has been more muted as 70% of sanctioned tankers remain active.
 

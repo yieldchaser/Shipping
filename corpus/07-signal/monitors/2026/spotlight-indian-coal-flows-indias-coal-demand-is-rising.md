@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Source: Signal Ocean Platform | Dry Flows Data (Last Update: April 9, 2026)**  
 > *Source: Signal Ocean Platform | Dry Flows Data (last update: April 9, 2026)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/spotlight-indian-coal-flows-indias-coal-demand-is-rising) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69d8ce3c853714ba25d6bbcb_3923c6c1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/spotlight-indian-coal-flows-indias-coal-demand-is-rising) | [Local Asset](../../images/69d8ce3c853714ba25d6bbcb_3923c6c1.png)
 
 India’s coal market shows signs of a demand–import lag, with recent flow data indicating the early stages of a potential shift. After several months of relatively soft seaborne volumes, import flows appear to have strengthened into March 2026, suggesting that the period of subdued buying may be ending and that inventory buffers could begin to draw down.
 
@@ -55,7 +55,7 @@ The Baltic Dry Index has moved back above 2,000, with Capesize and Panamax drivi
 ![Freight Market Overview](../../images/69d8ce3c853714ba25d6bbc8_0e09b48c.png)
 
 > **Figure 2: Freight Market Overview**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/spotlight-indian-coal-flows-indias-coal-demand-is-rising) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69d8ce3c853714ba25d6bbc8_0e09b48c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/spotlight-indian-coal-flows-indias-coal-demand-is-rising) | [Local Asset](../../images/69d8ce3c853714ba25d6bbc8_0e09b48c.png)
 
 
 ## Freight Atlantic
@@ -67,13 +67,13 @@ The Baltic Dry Index has moved back above 2,000, with Capesize and Panamax drivi
 ![Capesize C3 / Panamax P7](../../images/69d8ce3c853714ba25d6bbd4_214d880f.png)
 
 > **Figure 3: Capesize C3 / Panamax P7**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/spotlight-indian-coal-flows-indias-coal-demand-is-rising) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69d8ce3c853714ba25d6bbd4_214d880f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/spotlight-indian-coal-flows-indias-coal-demand-is-rising) | [Local Asset](../../images/69d8ce3c853714ba25d6bbd4_214d880f.png)
 
 
 ![Capesize C3 / Panamax P7](../../images/69d8ce3c853714ba25d6bbbc_c6b79b86.png)
 
 > **Figure 4: Capesize C3 / Panamax P7**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/spotlight-indian-coal-flows-indias-coal-demand-is-rising) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69d8ce3c853714ba25d6bbbc_c6b79b86.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/spotlight-indian-coal-flows-indias-coal-demand-is-rising) | [Local Asset](../../images/69d8ce3c853714ba25d6bbbc_c6b79b86.png)
 
 
 - **C3** | Tubarao to Qingdao | 30.11 $/MT | Day: -0.41 | Week: -0.05 | Bearish momentum:  rates are slipping daily and flat on the week
@@ -86,13 +86,13 @@ The Baltic Dry Index has moved back above 2,000, with Capesize and Panamax drivi
 ![Supramax S4A / Handysize Hs438 Weaker](../../images/69d8ce3c853714ba25d6bbc5_b0957e79.png)
 
 > **Figure 5: Supramax S4A / Handysize Hs438 Weaker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/spotlight-indian-coal-flows-indias-coal-demand-is-rising) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69d8ce3c853714ba25d6bbc5_b0957e79.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/spotlight-indian-coal-flows-indias-coal-demand-is-rising) | [Local Asset](../../images/69d8ce3c853714ba25d6bbc5_b0957e79.png)
 
 
 ![Supramax S4A / Handysize Hs438 Weaker](../../images/69d8ce3c853714ba25d6bbce_c6c3c463.png)
 
 > **Figure 6: Supramax S4A / Handysize Hs438 Weaker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/spotlight-indian-coal-flows-indias-coal-demand-is-rising) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69d8ce3c853714ba25d6bbce_c6c3c463.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/spotlight-indian-coal-flows-indias-coal-demand-is-rising) | [Local Asset](../../images/69d8ce3c853714ba25d6bbce_c6c3c463.png)
 
 
 - **S4A** | US Gulf trip to Skaw-Passero | 19,879 $/day | Day: +950 | Week: +1,962 | Strong daily and weekly gains suggest a short-term rebound, but the heavy monthly drop of -6,771 reveals S4A is still recovering from a significant pullback.
@@ -110,7 +110,7 @@ The Baltic Dry Index has moved back above 2,000, with Capesize and Panamax drivi
 ![Capesize | C5 Softer](../../images/69d8ce3c853714ba25d6bbd1_44bf21b7.png)
 
 > **Figure 7: Capesize | C5 Softer**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/spotlight-indian-coal-flows-indias-coal-demand-is-rising) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69d8ce3c853714ba25d6bbd1_44bf21b7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/spotlight-indian-coal-flows-indias-coal-demand-is-rising) | [Local Asset](../../images/69d8ce3c853714ba25d6bbd1_44bf21b7.png)
 
 
 - **C5** | West Australia to Qingdao | 11.93 $/MT | Day: -0.23 | Week: +0.29 | Mixed picture, the daily dip is a minor blip against a positive week.
@@ -122,13 +122,13 @@ The Baltic Dry Index has moved back above 2,000, with Capesize and Panamax drivi
 ![Panamax P582 / Supramax S10 Firmer](../../images/69d8ce3c853714ba25d6bbbf_960a2a36.png)
 
 > **Figure 8: Panamax P582 / Supramax S10 Firmer**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/spotlight-indian-coal-flows-indias-coal-demand-is-rising) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69d8ce3c853714ba25d6bbbf_960a2a36.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/spotlight-indian-coal-flows-indias-coal-demand-is-rising) | [Local Asset](../../images/69d8ce3c853714ba25d6bbbf_960a2a36.png)
 
 
 ![Panamax P582 / Supramax S10 Firmer](../../images/69d8ce3c853714ba25d6bbda_0fa09fee.png)
 
 > **Figure 9: Panamax P582 / Supramax S10 Firmer**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/spotlight-indian-coal-flows-indias-coal-demand-is-rising) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69d8ce3c853714ba25d6bbda_0fa09fee.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/spotlight-indian-coal-flows-indias-coal-demand-is-rising) | [Local Asset](../../images/69d8ce3c853714ba25d6bbda_0fa09fee.png)
 
 
 ## Bullish Short-Term Momentum
@@ -147,7 +147,7 @@ A bullish sentiment has emerged in rates this week, particularly when comparing 
 
 > **Figure 10: Available Here**  
 > *Available here*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/spotlight-indian-coal-flows-indias-coal-demand-is-rising) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69d8ce3c853714ba25d6bbd7_18853271.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/spotlight-indian-coal-flows-indias-coal-demand-is-rising) | [Local Asset](../../images/69d8ce3c853714ba25d6bbd7_18853271.png)
 
 
 - **South Atlantic** ballasters at 242, down 7% WoW but still below the 12m avg of 260, supply remains relatively tight.
@@ -162,7 +162,7 @@ A bullish sentiment has emerged in rates this week, particularly when comparing 
 ![Demand| Tonne Miles - 7d Ma- Index View](../../images/69d8ce3c853714ba25d6bbc2_a7067ffe.png)
 
 > **Figure 11: Demand| Tonne Miles - 7d Ma- Index View**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/spotlight-indian-coal-flows-indias-coal-demand-is-rising) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69d8ce3c853714ba25d6bbc2_a7067ffe.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/spotlight-indian-coal-flows-indias-coal-demand-is-rising) | [Local Asset](../../images/69d8ce3c853714ba25d6bbc2_a7067ffe.png)
 
 Panamax remains the strongest segment, holding above 100% for a second consecutive week. Supramax saw the sharpest weekly decline, while Capesize edged marginally lower. Overall utilization is softening heading into mid-April.
 

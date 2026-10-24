@@ -25,7 +25,7 @@ The ongoing correction in the spot Capesize rates has left freight futures trade
 ![Q1 vs Spot, Capes](assets/2021-06-01_capesizes-have-high-hopes-as-rest-of-dry-bulk-thrives_img_q1vsspot2ccapes_9702b4906386.png)
 
 > **Figure 1: Q1 vs Spot, Capes**  
-> **Interactive Data & Source:** [Mining](https://www.mining.com/cerrejon-lifts-force-majeure-caused-by-blockades/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-01_capesizes-have-high-hopes-as-rest-of-dry-bulk-thrives_img_q1vsspot2ccapes_9702b4906386.png)
+> **Interactive Data & Source:** [Mining](https://www.mining.com/cerrejon-lifts-force-majeure-caused-by-blockades/) | [Local Asset](assets/2021-06-01_capesizes-have-high-hopes-as-rest-of-dry-bulk-thrives_img_q1vsspot2ccapes_9702b4906386.png)
 
 The market has been there before. Hope is not only part of the market narrative when it comes to freight (after all, there is no “carry-trade” in freight, unlike other commodities) but the blurry picture of the short term demand/supply balance leads to such a “strategy” quite often.
 
@@ -38,7 +38,7 @@ In the Atlantic, the balance is fuzzier, as a combination of strikes, port delay
 ![Br Io Exp](assets/2021-06-01_capesizes-have-high-hopes-as-rest-of-dry-bulk-thrives_img_brioexp_bc73ece076ac.png)
 
 > **Figure 2: Br Io Exp**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-01_capesizes-have-high-hopes-as-rest-of-dry-bulk-thrives_img_brioexp_bc73ece076ac.png)
+> [Local Asset](assets/2021-06-01_capesizes-have-high-hopes-as-rest-of-dry-bulk-thrives_img_brioexp_bc73ece076ac.png)
 
 So, the market is not only “hoping” for a reversal in the declining Capesize spot market, as there are valid reasons for such expectations. Yet, we are reaching the point of a skewed risk/reward, as the premiums in futures are record high with the upside potential lower that the underlying risk, in our view.
 

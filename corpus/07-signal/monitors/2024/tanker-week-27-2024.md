@@ -32,7 +32,7 @@ tags:
 ![6686adcd47c3cf55ddfd3c2d Chart of the Week Tanker](../../images/6686adcd47c3cf55ddfd3c2d_chart of the week tanker.png)
 
 > **Figure 1: 6686adcd47c3cf55ddfd3c2d Chart of the Week Tanker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-27-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6686adcd47c3cf55ddfd3c2d_chart of the week tanker.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-27-2024) | [Local Asset](../../images/6686adcd47c3cf55ddfd3c2d_chart of the week tanker.png)
 
 As the summer season unfolds, a subdued sentiment grips the freight market, particularly evident in the VLCC MEG-China route. The number of vessels at Ras Tanura The first week of July saw a continued weakening in crude oil freight rates, driven by the increasing supply of VLCCs, which exerted significant downward pressure on the market. The increased availability of spot relet vessels in Ras Tanura suggests a potential oversupply in the market, which has contributed to the decline in AG-China freight rates. As more vessels become available, competition among them intensifies, leading to lower rates. This oversupply scenario is likely to persist, keeping the WS TD3 rates suppressed.
 

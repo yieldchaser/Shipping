@@ -37,7 +37,7 @@ Against this backdrop, global economic growth remains steady but subdued, with r
 ![Στιγμιότυπο Οθόνης 2025 01 26 221812](assets/2025-01-27_world-economic-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9bb5b60f0a12.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 01 26 221812**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-27_world-economic-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9bb5b60f0a12.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-01-27_world-economic-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9bb5b60f0a12.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

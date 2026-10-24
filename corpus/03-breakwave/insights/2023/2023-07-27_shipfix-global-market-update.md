@@ -58,6 +58,6 @@ The average cargo size for steel loading in China has remained stable over the p
 ![Market Chart 1](assets/2023-07-27_shipfix-global-market-update_img_unnamed-2023-07-27t131242959_09a1f6a0bb7a.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-27_shipfix-global-market-update_img_unnamed-2023-07-27t131242959_09a1f6a0bb7a.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2023-07-27_shipfix-global-market-update_img_unnamed-2023-07-27t131242959_09a1f6a0bb7a.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

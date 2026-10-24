@@ -33,7 +33,7 @@ The iron ore share in total dry bulk trade measured by volume was 32%* in 2019 a
 ![Klav 20](assets/2020-10-30_2021-dry-bulk-outlook-iron-ore_img_klav20_4341f7c7cd2e.png)
 
 > **Figure 1: Klav 20**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2020/10/22/2021-dry-bulk-outlook) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-30_2021-dry-bulk-outlook-iron-ore_img_klav20_4341f7c7cd2e.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2020/10/22/2021-dry-bulk-outlook) | [Local Asset](assets/2020-10-30_2021-dry-bulk-outlook-iron-ore_img_klav20_4341f7c7cd2e.png)
 
 If we break it down by segment, we clearly see that the iron ore transport work is unevenly distributed among the sizes. While iron ore constituted 79% of the Cape demand in 2019, the market share quickly drops as we move down the sizes with Panamaxes at 8%, Supramaxes at 4% and Handies at a meager 1%.
 
@@ -48,7 +48,7 @@ As we touched upon in[last week’s article](https://www.breakwaveadvisors.com/i
 ![Klav 21](assets/2020-10-30_2021-dry-bulk-outlook-iron-ore_img_klav21_c2fd1136c2b5.png)
 
 > **Figure 2: Klav 21**  
-> **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/Brumadinho_dam_disaster) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-30_2021-dry-bulk-outlook-iron-ore_img_klav21_c2fd1136c2b5.png)
+> **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/Brumadinho_dam_disaster) | [Local Asset](assets/2020-10-30_2021-dry-bulk-outlook-iron-ore_img_klav21_c2fd1136c2b5.png)
 
 Covid-19 has without doubt negatively impacted steel demand and production in the world outside of China. Although we currently see a resurgence in global infections in the Western World, we believe it is likely that the adverse effects from Covid-19 on global industrial production will be less in 2021 compared to this year, either through vaccines or through increased knowledge about how to keep the wheels turning while at the same time keeping the virus under control. Thus, we believe that steel production will grow in the world outside of China in 2021 and that the magnitude of the growth will be negatively correlated with the growth rates in Covid-19 hospitalizations.
 
@@ -65,7 +65,7 @@ Australia is by far the largest iron ore exporter in the world with a 65% market
 ![Klav 22](assets/2020-10-30_2021-dry-bulk-outlook-iron-ore_img_klav22_cbeb861d00f7.png)
 
 > **Figure 3: Klav 22**  
-> **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/Brumadinho_dam_disaster) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-30_2021-dry-bulk-outlook-iron-ore_img_klav22_cbeb861d00f7.png)
+> **Interactive Data & Source:** [En Wikipedia](https://en.wikipedia.org/wiki/Brumadinho_dam_disaster) | [Local Asset](assets/2020-10-30_2021-dry-bulk-outlook-iron-ore_img_klav22_cbeb861d00f7.png)
 
 The[Brumadinho dam disaster](https://en.wikipedia.org/wiki/Brumadinho_dam_disaster)was a negative shock for the dry bulk market as the long-distance iron ore export out of Brazil contracted about 13%* year on year (yoy) in 2019.
 
@@ -74,19 +74,19 @@ The Brazilian iron ore export has a seasonality where exports tends to start off
 ![Klav 23](assets/2020-10-30_2021-dry-bulk-outlook-iron-ore_img_klav23_567498ddba52.png)
 
 > **Figure 4: Klav 23**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-30_2021-dry-bulk-outlook-iron-ore_img_klav23_567498ddba52.png)
+> [Local Asset](assets/2020-10-30_2021-dry-bulk-outlook-iron-ore_img_klav23_567498ddba52.png)
 
 Australian iron ore exports have had a strong growth of 4.9% in volumes year to date. Measured by our Volume x Duration metric the performance has been even better at +7.7%.
 
 ![Klav 24](assets/2020-10-30_2021-dry-bulk-outlook-iron-ore_img_klav24_5a53324e3c6d.png)
 
 > **Figure 5: Klav 24**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-30_2021-dry-bulk-outlook-iron-ore_img_klav24_5a53324e3c6d.png)
+> [Local Asset](assets/2020-10-30_2021-dry-bulk-outlook-iron-ore_img_klav24_5a53324e3c6d.png)
 
 ![Klav 25](assets/2020-10-30_2021-dry-bulk-outlook-iron-ore_img_klav25_7010b1f18176.png)
 
 > **Figure 6: Klav 25**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-30_2021-dry-bulk-outlook-iron-ore_img_klav25_7010b1f18176.png)
+> [Local Asset](assets/2020-10-30_2021-dry-bulk-outlook-iron-ore_img_klav25_7010b1f18176.png)
 
 At the time of writing the Nov-20 iron ore futures contract for 62% iron ore CFR China is trading at 112$/ton. The average of the future curves for 2021 is 98$/ton. Both the spot price and the future prices are way above the cost curve of both the major and the minor Australian mining companies. Thus the incentive to increase supply is clearly evident and we believe it is likely that the iron ore producers in Australia will be able to increase their exports in 2021 by at least 20-30Mt.
 
@@ -94,7 +94,7 @@ At the time of writing the Nov-20 iron ore futures contract for 62% iron ore CFR
 
 > **Figure 7: All Trade Growth Numbers in This Article Is Derived From Our**  
 > **All trade growth numbers in this article is derived from our in-house analytical platform which includes data and material from AXSMarine, all rights reserved.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-30_2021-dry-bulk-outlook-iron-ore_img_klav26_f06c2a7e49dd.png)
+> [Local Asset](assets/2020-10-30_2021-dry-bulk-outlook-iron-ore_img_klav26_f06c2a7e49dd.png)
 
 Iron ore exports in the rest of the world are up close to 30% year to date on the back of soaring iron ore prices. This is largely due to a 65% year on year increase in Indian exports. This is one of the few areas where Supramaxes has benefitted directly from higher iron ore exports due to a 82% market share in shipments.
 

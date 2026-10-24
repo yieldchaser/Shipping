@@ -45,7 +45,7 @@ The good news is that this loosening-tightening cycle is well defined. The centr
 ![Market Chart 1](assets/2022-05-23_market-comment-how-long-will-the-downturn-last_img_image00228129_fe50f0fe6fbb.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-23_market-comment-how-long-will-the-downturn-last_img_image00228129_fe50f0fe6fbb.jpg)
+> [Local Asset](assets/2022-05-23_market-comment-how-long-will-the-downturn-last_img_image00228129_fe50f0fe6fbb.jpg)
 
 So, when will the Bear Market end?
 

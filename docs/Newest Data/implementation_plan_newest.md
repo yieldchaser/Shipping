@@ -1,6 +1,6 @@
 # End-to-End Maritime & Upstream Commodity Intelligence Expansion Plan
 
-This implementation plan establishes a complete, production-grade integration framework to ingest upstream physical cargo exports, port congestion analytics, carbon compliance benchmarks, and commodity logistics from the verified discoveries in [`docs/Newest Data/`](file:///c:/Users/Dell/Github/Shipping/docs/Newest%20Data).
+This implementation plan establishes a complete, production-grade integration framework to ingest upstream physical cargo exports, port congestion analytics, carbon compliance benchmarks, and commodity logistics from the verified discoveries in [`docs/Newest Data/`](../Newest%20Data).
 
 ---
 
@@ -83,21 +83,21 @@ flowchart TD
   - **Soybeans** (`NCM 12019000`)
   - **Raw Sugar** (`NCM 17011400`, `17011300` Santos/Paranaguá Supramax/Panamax driver)
 - Transforms kg to metric tonnes and calculates YoY & MoM percentage changes.
-- Writes to [`data/commodities/brazil_comexstat_exports.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/brazil_comexstat_exports.csv).
+- Writes to [`data/commodities/brazil_comexstat_exports.csv`](../../data/commodities/brazil_comexstat_exports.csv).
 
 #### [NEW] `scripts/scrapers/fetch_ppa_iron_ore.py`
 - Scrapes the Pilbara Ports Authority (PPA) shipping statistics and monthly releases.
 - Extracts monthly iron ore export tonnage (Mt) for **Port of Port Hedland** (handles ~43% of global seaborne iron ore) and **Port of Dampier**.
-- Writes to [`data/commodities/australia_ppa_iron_ore.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/australia_ppa_iron_ore.csv).
+- Writes to [`data/commodities/australia_ppa_iron_ore.csv`](../../data/commodities/australia_ppa_iron_ore.csv).
 
 #### [NEW] `scripts/scrapers/fetch_major_miners_production.py`
 - Ingests and compiles quarterly production, export shipments, and C1 cash cost guidance across the big four global iron ore miners: **Vale**, **Rio Tinto**, **BHP**, and **Fortescue (FMG)**.
-- Writes to [`data/commodities/major_miners_quarterly_shipments.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/major_miners_quarterly_shipments.csv).
+- Writes to [`data/commodities/major_miners_quarterly_shipments.csv`](../../data/commodities/major_miners_quarterly_shipments.csv).
 
 #### [NEW] `scripts/scrapers/fetch_eia_petroleum_exports.py`
 - Ingests weekly US crude oil exports (`WCREXUS2`) and total petroleum products departing PADD 3 (Gulf Coast) in thousand barrels per day (kbpd).
 - Computes 4-week moving average and export momentum.
-- Writes to [`data/commodities/us_eia_weekly_crude_exports.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/us_eia_weekly_crude_exports.csv).
+- Writes to [`data/commodities/us_eia_weekly_crude_exports.csv`](../../data/commodities/us_eia_weekly_crude_exports.csv).
 
 #### [NEW] `scripts/scrapers/fetch_portwatch_port_activity.py`
 - Ingests daily port calls, vessel type breakdowns, and estimated anchorage queue delays from the IMF PortWatch ArcGIS backend (`FeatureServer/0/query`).
@@ -110,23 +110,23 @@ flowchart TD
   - **Houston** (`USHOU`) — US Gulf crude/product export gateway
   - **Port Hedland** (`AUPHE`) — Australian iron ore export hub
   - **Newcastle** (`AUNCL`) — Australian coal export gateway
-- Writes to [`data/congestion/portwatch_port_congestion.csv`](file:///c:/Users/Dell/Github/Shipping/data/congestion/portwatch_port_congestion.csv).
+- Writes to [`data/congestion/portwatch_port_congestion.csv`](../../data/congestion/portwatch_port_congestion.csv).
 
 #### [NEW] `scripts/scrapers/fetch_eu_ets_carbon.py`
 - Ingests daily EU ETS European Union Allowance (EUA) spot prices (€/t CO2) and calculates per-voyage carbon cost surcharges for Capesize, Suezmax, and VLCC vessels.
 - Blends with daily Singapore, Rotterdam, Fujairah, and Houston Hi-5 bunker spreads (VLSFO minus HSFO) to evaluate scrubber payback economics.
-- Writes to [`data/derived/eu_ets_carbon_daily.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/eu_ets_carbon_daily.csv).
+- Writes to [`data/derived/eu_ets_carbon_daily.csv`](../../data/derived/eu_ets_carbon_daily.csv).
 
 #### [NEW] `scripts/scrapers/fetch_australia_req.py` & `scripts/scrapers/fetch_newcastle_coal.py`
 - Ingests Australian DISR quarterly export volumes / 5-year outlooks for Iron Ore, Coal, Bauxite, LNG.
 - Ingests Port of Newcastle and Queensland coal export tonnages.
-- Writes to [`data/commodities/australia_req_commodity_exports.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/australia_req_commodity_exports.csv) and [`data/commodities/newcastle_coal_exports.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/newcastle_coal_exports.csv).
+- Writes to [`data/commodities/australia_req_commodity_exports.csv`](../../data/commodities/australia_req_commodity_exports.csv) and [`data/commodities/newcastle_coal_exports.csv`](../../data/commodities/newcastle_coal_exports.csv).
 
 ---
 
 ### Component B: Frontend UI Visualization Layer (`index.html`)
 
-#### [MODIFY] [`index.html`](file:///c:/Users/Dell/Github/Shipping/index.html)
+#### [MODIFY] [`index.html`](../../index.html)
 1. **DATA Object Expansion**:
    - Register `DATA.brazilExports`, `DATA.ppaIronOre`, `DATA.minerShipments`, `DATA.eiaExports`, `DATA.portCongestion`, `DATA.euCarbon`, `DATA.reqExports`, `DATA.newcastleCoal`.
 2. **SafeFetch Data Loaders**:
@@ -147,7 +147,7 @@ flowchart TD
 
 ### Component C: Institutional Rich Tooltips (`getCalculatedTooltip` in `index.html`)
 
-#### [MODIFY] [`index.html`](file:///c:/Users/Dell/Github/Shipping/index.html)
+#### [MODIFY] [`index.html`](../../index.html)
 Add dedicated rich tooltip types inside `getCalculatedTooltip(target)` matching the platform's multi-row formula standard:
 
 1. **`concept-brazil-exports`**:
@@ -179,7 +179,7 @@ Add dedicated rich tooltip types inside `getCalculatedTooltip(target)` matching 
 
 ### Component D: Knowledge Copilot & Auto-Routing Integration
 
-#### [MODIFY] [`index.html`](file:///c:/Users/Dell/Github/Shipping/index.html) & [`scripts/test_question_routing_and_grounding.py`](file:///c:/Users/Dell/Github/Shipping/scripts/test_question_routing_and_grounding.py)
+#### [MODIFY] [`index.html`](../../index.html) & [`scripts/test_question_routing_and_grounding.py`](../../scripts/test_question_routing_and_grounding.py)
 1. **Source Auto-Selection Regexes (`_autoSelectSources`)**:
    - Expand regex matching for ComexStat, MDIC, Pilbara Ports, Port Hedland, Dampier, EIA petroleum exports, PortWatch congestion, EU ETS EUA, Newcastle coal, and Australia REQ.
 2. **Shard Manifest & Group Prefixes (`_QA_GROUP_PREFIXES`)**:
@@ -191,7 +191,7 @@ Add dedicated rich tooltip types inside `getCalculatedTooltip(target)` matching 
 
 ### Component E: Daily Market Brief Synthesizer (`scripts/generate_brief.py`)
 
-#### [MODIFY] [`scripts/generate_brief.py`](file:///c:/Users/Dell/Github/Shipping/scripts/generate_brief.py)
+#### [MODIFY] [`scripts/generate_brief.py`](../../scripts/generate_brief.py)
 1. **Section 11: Upstream Physical Cargo Flows & Mining Throughput**:
    - Ingest Brazil ComexStat iron ore & crude export tonnage.
    - Ingest Pilbara Ports Port Hedland monthly export volume.
@@ -206,7 +206,7 @@ Add dedicated rich tooltip types inside `getCalculatedTooltip(target)` matching 
 
 ### Component F: Macro Health Radar & Intelligence Scoring
 
-#### [MODIFY] [`index.html`](file:///c:/Users/Dell/Github/Shipping/index.html) & [`scripts/test_macro_health_radar.py`](file:///c:/Users/Dell/Github/Shipping/scripts/test_macro_health_radar.py)
+#### [MODIFY] [`index.html`](../../index.html) & [`scripts/test_macro_health_radar.py`](../../scripts/test_macro_health_radar.py)
 1. **Pillar 4 (Port Restocking & Cargo Flow) Enhancement**:
    - Augment Chinese iron ore port stock signals with upstream Brazilian (ComexStat) and Australian (PPA) export momentum.
 2. **Pillar 5 (Vessel Asset Safety) Enhancement**:
@@ -216,7 +216,7 @@ Add dedicated rich tooltip types inside `getCalculatedTooltip(target)` matching 
 
 ### Component G: Automated GitHub Actions Cron Workflows (`.github/workflows/`)
 
-#### [NEW] [`.github/workflows/upstream_commodity_flows.yml`](file:///c:/Users/Dell/Github/Shipping/.github/workflows/upstream_commodity_flows.yml)
+#### [NEW] [`.github/workflows/upstream_commodity_flows.yml`](../../.github/workflows/upstream_commodity_flows.yml)
 - **Schedule**: Mondays & Thursdays at 06:00 UTC.
 - **Jobs**:
   1. Runs `fetch_comexstat_brazil.py`
@@ -231,7 +231,7 @@ Add dedicated rich tooltip types inside `getCalculatedTooltip(target)` matching 
 
 ### Component H: Documentation & Datasets Catalog
 
-#### [MODIFY] [`docs/DATASETS.md`](file:///c:/Users/Dell/Github/Shipping/docs/DATASETS.md) & [`README.md`](file:///c:/Users/Dell/Github/Shipping/README.md)
+#### [MODIFY] [`docs/DATASETS.md`](../DATASETS.md) & [`README.md`](../../README.md)
 - Update inventory with **Section 7: Upstream Physical Cargo Exports, Port Congestion & Carbon Allowances**, detailing schemas, row counts, publishing frequencies, and data provenance.
 
 ---
@@ -253,7 +253,7 @@ Add dedicated rich tooltip types inside `getCalculatedTooltip(target)` matching 
    - Run `node scratch/validate_js.js` to confirm 0 syntax errors across all inline script blocks in `index.html`.
 
 ### Manual & Visual Verification
-- Open [`index.html`](file:///c:/Users/Dell/Github/Shipping/index.html) in browser to verify:
+- Open [`index.html`](../../index.html) in browser to verify:
   - Responsive rendering of all 5 new chart cards.
   - Interactive route, port, and commodity filter toggles.
   - Rich HTML tooltips rendering with structured `.rt-title`, `.rt-row`, and `.rt-note` tables.

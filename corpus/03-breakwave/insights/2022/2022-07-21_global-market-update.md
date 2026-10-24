@@ -54,6 +54,6 @@ The drop in demand has also translated into declining bauxite exports from Guine
 ![Market Chart 1](assets/2022-07-21_global-market-update_img_unnamed285029_980e7dbc7a01.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-21_global-market-update_img_unnamed285029_980e7dbc7a01.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-07-21_global-market-update_img_unnamed285029_980e7dbc7a01.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

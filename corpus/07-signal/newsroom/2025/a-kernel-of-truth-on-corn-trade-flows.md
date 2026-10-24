@@ -28,7 +28,7 @@ tags:
 ![68488e86c4a8bbef8295af93 Ad 4nxe9wrrsj3pmrooamh6y1e164nkohoz Wz Vumitmyn 5luxxmed8 Knsuszqplcdrnzoawstx9cxlihv4hfr9etsl0 Mbnrc4fm3erfb1tzbsp6meury7epw4t0fii5nncmexe7](../../images/68488e86c4a8bbef8295af93_AD_4nXe9wRRSJ3PMrooAmh6Y1e164nkohoZ-wz_VUMitmYN_5LuxXMed8_KNSUszqPlcdrnZoAwstX9cxlihV4HFr9eTSl0-mBNrC4FM3ERfB1TZbsP6MEUry7epW4T0fIi5NNcMexe7.png)
 
 > **Figure 1: 68488e86c4a8bbef8295af93 Ad 4nxe9wrrsj3pmrooamh6y1e164nkohoz Wz Vumitmyn 5luxxmed8 Knsuszqplcdrnzoawstx9cxlihv4hfr9etsl0 Mbnrc4fm3erfb1tzbsp6meury7epw4t0fii5nncmexe7**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-kernel-of-truth-on-corn-trade-flows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68488e86c4a8bbef8295af93_AD_4nXe9wRRSJ3PMrooAmh6Y1e164nkohoZ-wz_VUMitmYN_5LuxXMed8_KNSUszqPlcdrnZoAwstX9cxlihV4HFr9eTSl0-mBNrC4FM3ERfB1TZbsP6MEUry7epW4T0fIi5NNcMexe7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-kernel-of-truth-on-corn-trade-flows) | [Local Asset](../../images/68488e86c4a8bbef8295af93_AD_4nXe9wRRSJ3PMrooAmh6Y1e164nkohoZ-wz_VUMitmYN_5LuxXMed8_KNSUszqPlcdrnZoAwstX9cxlihV4HFr9eTSl0-mBNrC4FM3ERfB1TZbsP6MEUry7epW4T0fIi5NNcMexe7.png)
 
 
 ## U.s. Corn Production Indicates Exports Are Set to Grow
@@ -48,7 +48,7 @@ Approximately 30% of all Panamax vessel demand, 26% of Handysize demand, and 22%
 
 > **Figure 2: U.s. Corn Production Indicates Exports Are Set to Grow**  
 > *U.S. corn exports from the Signal Ocean Platform (TSOP)Type image caption here (optional)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-kernel-of-truth-on-corn-trade-flows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68488ae76caf71bf0799639e_AD_4nXdmIjfnTj40ZZ0Xvu4tDwVl108rXlWgGjK2aEY8On_7lIcjQFTSvVM0Yb8hlh099MnyB6V5fIo5w4nFfCS2-14NiXXL30nEqT1aiZZzCjm2HhWZr01_JXQXzCSKozXWM4qmAGPbdQ.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-kernel-of-truth-on-corn-trade-flows) | [Local Asset](../../images/68488ae76caf71bf0799639e_AD_4nXdmIjfnTj40ZZ0Xvu4tDwVl108rXlWgGjK2aEY8On_7lIcjQFTSvVM0Yb8hlh099MnyB6V5fIo5w4nFfCS2-14NiXXL30nEqT1aiZZzCjm2HhWZr01_JXQXzCSKozXWM4qmAGPbdQ.png)
 
 Corn exports, therefore, lead those of soybeans in terms of tonnage but trail in terms of value. In 2023, corn exports accounted for 40% of U.S. agricultural commodity exports on a tonne basis. This grew to 45% in 2024, and so far in 2025, corn accounts for 59%. This tracks with general sentiment in the U.S. that corn will continue to provide better opportunities for profit as it remains more shielded from tariff retaliations than soybeans and also receives support through government policies like the Renewable Fuel Standards.
 
@@ -59,7 +59,7 @@ This policy maintains a minimum quantity of ethanol use in the country’s fuel 
 
 > **Figure 3: A Breakdown of U.s**  
 > *A breakdown of U.S. agricultural exports from the Signal Ocean Platform (TSOP) YTD*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-kernel-of-truth-on-corn-trade-flows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68488ae76caf71bf07996397_AD_4nXefggaSOcAATKgBKBX3HyWAsSQ7ejmbTlrotY3wmtHomA7WuzTu1ECBXqEigHMBdgWdlAD8OtD7xF7P37pRq4hUBHEInKDgP20_uAf6hLJ1idM27clSvjRXNuFxX2KIa9Wv9YCi2A.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-kernel-of-truth-on-corn-trade-flows) | [Local Asset](../../images/68488ae76caf71bf07996397_AD_4nXefggaSOcAATKgBKBX3HyWAsSQ7ejmbTlrotY3wmtHomA7WuzTu1ECBXqEigHMBdgWdlAD8OtD7xF7P37pRq4hUBHEInKDgP20_uAf6hLJ1idM27clSvjRXNuFxX2KIa9Wv9YCi2A.png)
 
 
 ## Will Asia Drive Increased Demand?
@@ -73,7 +73,7 @@ Other countries, such as Canada, also import significant quantities of U.S. corn
 
 > **Figure 4: Breakdown of U.s**  
 > *Breakdown of U.S. corn export destinations from January 2022 to now from TSOP*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-kernel-of-truth-on-corn-trade-flows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68488ae76caf71bf0799639b_AD_4nXe2YQVI2WV6I0U1faBpmsQ2QCGJBWuKmCVXzfC3BZsvtht5JBkE_SsOV-snvpm4gJDd4bF6zsGxzHumvuwb97QV9AiCqBxk9-hgxGHeSOOJ7kgem22FlrRPn_VxdXhJ488GBgo8lQ.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-kernel-of-truth-on-corn-trade-flows) | [Local Asset](../../images/68488ae76caf71bf0799639b_AD_4nXe2YQVI2WV6I0U1faBpmsQ2QCGJBWuKmCVXzfC3BZsvtht5JBkE_SsOV-snvpm4gJDd4bF6zsGxzHumvuwb97QV9AiCqBxk9-hgxGHeSOOJ7kgem22FlrRPn_VxdXhJ488GBgo8lQ.png)
 
 Japan has been the leading destination for U.S. corn exports since TSOP started tracking trade flows. As stated above, Japan mainly consumes corn to produce animal feed, but meat consumption in Japan is expected to slow or even contract, given the ageing population and changing dietary choices. Compounding this, Japan is looking at improving efficiencies in animal feed by using a more optimized blend or substitution of corn entirely and replacing it with waste products from other food or bio-energy industries. These trends are negative for corn demand but are medium to longer term, and as such are unlikely to affect corn demand in the short term or even up to a few short years from now.
 
@@ -86,7 +86,7 @@ Further afield, Vietnam offers a possible opportunity. The country is transition
 
 > **Figure 5: Breakdown of Vietnam Corn Import Origins From January 2022 to Now From Tsop**  
 > *Breakdown of Vietnam corn import origins from January 2022 to now from TSOP*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-kernel-of-truth-on-corn-trade-flows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68488ae76caf71bf079963a2_AD_4nXcCbwTAobtcd3gVXFhgdBxJejnhu6TxJE5U2An-AmWf2baIgSM_CvFwhQ67zLPxG63EL08ep6UA34CwzKkmsr2XqcYfGm09wjWLOEWatUV3b9sxvAmDLlSwQmglgF7ns83TQsT-.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-kernel-of-truth-on-corn-trade-flows) | [Local Asset](../../images/68488ae76caf71bf079963a2_AD_4nXcCbwTAobtcd3gVXFhgdBxJejnhu6TxJE5U2An-AmWf2baIgSM_CvFwhQ67zLPxG63EL08ep6UA34CwzKkmsr2XqcYfGm09wjWLOEWatUV3b9sxvAmDLlSwQmglgF7ns83TQsT-.png)
 
 
 ## Key Takeaways

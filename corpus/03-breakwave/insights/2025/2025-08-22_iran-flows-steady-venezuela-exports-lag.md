@@ -51,7 +51,7 @@ With Asian demand steady and China absorbing the bulk of flows, exports are expe
 
 > **Figure 1: Meanwhile**  
 > *Meanwhile, Chevron has resumed crude liftings under its renewed US license. Tankers such asCanopus Voyager, Mediterranean VoyagerandNave Neutrinohave already loaded heavy blend crudes for US refineries. Chevron typically accounts for nearly 250kbd, or about one-third of Venezuela’s exports, and once blending feedstock supply improves, volumes are likely to rebound into the second half of August.*  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-22_iran-flows-steady-venezuela-exports-lag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_57eaf6882c35.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](assets/2025-08-22_iran-flows-steady-venezuela-exports-lag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_57eaf6882c35.png)
 
 ## Venezuela Exports Fall on Diluent Shortages
 
@@ -62,7 +62,7 @@ In 2024, PDVSA benefited from steady diluent supplies, which helped maintain hig
 ![Στιγμιότυπο Οθόνης 2025 08 22 123248](assets/2025-08-22_iran-flows-steady-venezuela-exports-lag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7064d69d8d94.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 08 22 123248**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-22_iran-flows-steady-venezuela-exports-lag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7064d69d8d94.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](assets/2025-08-22_iran-flows-steady-venezuela-exports-lag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7064d69d8d94.png)
 
 ## Forward Look
 

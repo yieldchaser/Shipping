@@ -56,6 +56,6 @@ The loss of the European market for the Russian coal miners has forced them to f
 ![Market Chart 1](assets/2023-01-18_shipfix-global-market-update_img_unnamed-2023-01-18t114656844_5307830a121a.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-18_shipfix-global-market-update_img_unnamed-2023-01-18t114656844_5307830a121a.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2023-01-18_shipfix-global-market-update_img_unnamed-2023-01-18t114656844_5307830a121a.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

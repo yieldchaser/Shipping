@@ -32,7 +32,7 @@ The Federal Reserve Board further stressed that it will make available additiona
 ![1 (5)](assets/2023-03-20_0he0ethr650zwmdmrunqtg4ur0e6cd_img_128529_120f8d1f1150.png)
 
 > **Figure 1: 1 (5)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-20_0he0ethr650zwmdmrunqtg4ur0e6cd_img_128529_120f8d1f1150.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-03-20_0he0ethr650zwmdmrunqtg4ur0e6cd_img_128529_120f8d1f1150.png)
 
 In sync, a consortium of US banks threw a USD 30 billion lifeline to San Francisco-based First Republic Bank, which has been in the spotlight since two other mid-size US banks collapsed.
 
@@ -41,7 +41,7 @@ In sharp contrast to the aforementioned, China's central bank stressed on Friday
 ![1 (6)](assets/2023-03-20_0he0ethr650zwmdmrunqtg4ur0e6cd_img_128629_b94f79ab3646.png)
 
 > **Figure 2: 1 (6)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-20_0he0ethr650zwmdmrunqtg4ur0e6cd_img_128629_b94f79ab3646.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-03-20_0he0ethr650zwmdmrunqtg4ur0e6cd_img_128629_b94f79ab3646.png)
 
 Amidst this tumultuous backdrop, Baltic Dry Indices concluded this week on a flattish tone. Neither the banking industry turbulence of late nor the modest fresh Chinese stimulus was able to have a bearing on their mood, at least up to now.
 

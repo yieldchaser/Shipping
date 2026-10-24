@@ -29,7 +29,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-02-28_tankers-research-upda
 ![Screenshot 2025 02 28 12.40.20](assets/2025-02-28_tankers-research-update_img_screenshot2025-02-28124020_0fc8a52b5793.png)
 
 > **Figure 1: Screenshot 2025 02 28 12.40.20**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-28_tankers-research-update_img_screenshot2025-02-28124020_0fc8a52b5793.png)
+> [Local Asset](assets/2025-02-28_tankers-research-update_img_screenshot2025-02-28124020_0fc8a52b5793.png)
 
 - Adding an extra $500k to $1.5m per voyage would add an additional cost of between $7.14/t and $21.43/t for Aframaxes caught up by these proposed fees. For Aframax shipments from the US Gulf to Mediterranean (TD25), an extra $7.14/t would make US crude considerably less attractive to European refiners than alternatives, such as from Latin America, west Africa, the Mediterranean, North Sea, or Mideast Gulf. Therefore, oil companies would be likely to charter tankers that would not attract a penalty.
 
@@ -40,7 +40,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-02-28_tankers-research-upda
 ![241](assets/2025-02-28_tankers-research-update_img_241_83977916984e.png)
 
 > **Figure 2: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-28_tankers-research-update_img_241_83977916984e.png)
+> [Local Asset](assets/2025-02-28_tankers-research-update_img_241_83977916984e.png)
 
 ### Us Slaps More Sanctions on Iranian Oil
 
@@ -85,6 +85,6 @@ source_file: "corpus/03-breakwave/insights/2025/2025-02-28_tankers-research-upda
 ![242](assets/2025-02-28_tankers-research-update_img_242_9a0f3109b251.png)
 
 > **Figure 3: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-28_tankers-research-update_img_242_9a0f3109b251.png)
+> [Local Asset](assets/2025-02-28_tankers-research-update_img_242_9a0f3109b251.png)
 
 Please consider the environment before printing this.

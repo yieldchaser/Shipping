@@ -31,14 +31,14 @@ The most recently released data shows that China's coal production grew year-on-
 ![Chart 2 (24)](assets/2022-04-11_large-number-of-coal-mine-deaths-in-china-recently_img_chart2282429_8c9bdb6b9c8a.jpg)
 
 > **Figure 1: Chart 2 (24)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-11_large-number-of-coal-mine-deaths-in-china-recently_img_chart2282429_8c9bdb6b9c8a.jpg)
+> [Local Asset](assets/2022-04-11_large-number-of-coal-mine-deaths-in-china-recently_img_chart2282429_8c9bdb6b9c8a.jpg)
 
 In comparison, China's thermal coal-derived electricity generation grew year-on-year by just 5%.
 
 ![Chart 2 (24)](assets/2022-04-11_large-number-of-coal-mine-deaths-in-china-recently_img_chart2282429_8c9bdb6b9c8a.jpg)
 
 > **Figure 2: Chart 2 (24)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-11_large-number-of-coal-mine-deaths-in-china-recently_img_chart2282429_8c9bdb6b9c8a.jpg)
+> [Local Asset](assets/2022-04-11_large-number-of-coal-mine-deaths-in-china-recently_img_chart2282429_8c9bdb6b9c8a.jpg)
 
 Going forward, it remains to be seen if the government will shift again and start focusing much more on safety in the near future. For now, coal production growth in China continues to fare much better than growth in the nation's thermal coal-derived generation.
 

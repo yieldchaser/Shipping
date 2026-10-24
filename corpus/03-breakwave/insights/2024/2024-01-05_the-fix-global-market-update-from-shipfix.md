@@ -69,4 +69,4 @@ The weaker order volumes have affected all vessel segments negatively, with the 
 
 > **Figure 1: Data Source:shipfix**  
 > *Data Source:Shipfix*  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-05_the-fix-global-market-update-from-shipfix_img_241jpg_39d61f807cf9.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-01-05_the-fix-global-market-update-from-shipfix_img_241jpg_39d61f807cf9.png)

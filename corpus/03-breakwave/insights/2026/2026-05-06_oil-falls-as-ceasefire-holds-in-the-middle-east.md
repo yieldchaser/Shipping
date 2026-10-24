@@ -27,7 +27,7 @@ Energy markets pulled back as the ceasefire held in the Middle East. This stoked
 ![Στιγμιότυπο Οθόνης 2026 05 06 121657](assets/2026-05-06_oil-falls-as-ceasefire-holds-in-the-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8789ef91850.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 05 06 121657**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-06_oil-falls-as-ceasefire-holds-in-the-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8789ef91850.png)
+> [Local Asset](assets/2026-05-06_oil-falls-as-ceasefire-holds-in-the-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8789ef91850.png)
 
 ### Market Commentary
 
@@ -48,7 +48,7 @@ The massive disruption to Middle East oil supply has hit the jet fuel market har
 ![Στιγμιότυπο Οθόνης 2026 05 06 121800](assets/2026-05-06_oil-falls-as-ceasefire-holds-in-the-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_45881f90b1b3.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 05 06 121800**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-06_oil-falls-as-ceasefire-holds-in-the-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_45881f90b1b3.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2026-05-06_oil-falls-as-ceasefire-holds-in-the-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_45881f90b1b3.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

@@ -23,14 +23,14 @@ source_file: "corpus/03-breakwave/insights/2025/2025-01-10_the-cape-trifecta-par
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2025-01-10_the-cape-trifecta-part-i-iron-ore_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-10_the-cape-trifecta-part-i-iron-ore_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](assets/2025-01-10_the-cape-trifecta-part-i-iron-ore_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 Accounting for over 70% of the global Capesize seaborne market, China's influence on the Capesize market is undeniable. Tracking shipments, throughout 2024, AXSMarine data suggest that the three most important commodities for the Capesize market — iron ore, coal, and bauxite — respectively accounted for 85.1%, 4.5%, and 9.6% of all Capesize cargo volumes to China. As 2024 comes to an unflattering end for large-sized freight rates, it is ever pertinent to dissect the outlook for China's Capesize demand in 2025which in turn is associated with demand for these three key commodities.
 
 ![Στιγμιότυπο Οθόνης 2025 01 10 144339](assets/2025-01-10_the-cape-trifecta-part-i-iron-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a113ea005a0f.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 01 10 144339**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-10_the-cape-trifecta-part-i-iron-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a113ea005a0f.png)
+> [Local Asset](assets/2025-01-10_the-cape-trifecta-part-i-iron-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a113ea005a0f.png)
 
 ### Background
 
@@ -45,7 +45,7 @@ As part of its "Cornerstone Plan", China is committed to increasing domestic iro
 ![Στιγμιότυπο Οθόνης 2025 01 10 144352](assets/2025-01-10_the-cape-trifecta-part-i-iron-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0e52b3bc50c4.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 01 10 144352**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-10_the-cape-trifecta-part-i-iron-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0e52b3bc50c4.png)
+> [Local Asset](assets/2025-01-10_the-cape-trifecta-part-i-iron-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0e52b3bc50c4.png)
 
 To be clear, the "Cornerstone Plan" is not entirely bad news. Another key component of the plan is China's investment in overseas mines. Following years of planning and preparation, Simandou, China’s key overseas equity mine, should start production by end-2025. However, by the time of writing, there were reports suggesting that despite a potential start-up, stable shipments in 2025 may not be achieved until next year. Nonetheless, Baowu Group is expected to push for at least one shipment of iron ore in 2025 to act as a project milestone. Optimistic forecasts suggest Guinea's iron ore exports could reach 1.5 million tons in 2025 which should be the equivalent of eight shipments which if proved correct should act as a support crutch for market sentiment.
 
@@ -56,7 +56,7 @@ All told, the combination of declining Chinese downstream steel demand and incre
 ![Στιγμιότυπο Οθόνης 2025 01 10 144402](assets/2025-01-10_the-cape-trifecta-part-i-iron-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b23fb21aca67.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 01 10 144402**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-10_the-cape-trifecta-part-i-iron-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b23fb21aca67.png)
+> [Local Asset](assets/2025-01-10_the-cape-trifecta-part-i-iron-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b23fb21aca67.png)
 
 With total seaborne import volumes not expected to retreat, the demand for Capesizes to ship iron ore to China is projected to stay stable. However, without significant increases in Guinea's iron ore exports, C5TC’s upside is unlikely to see a significant boost from fronthaul iron ore routes either.
 

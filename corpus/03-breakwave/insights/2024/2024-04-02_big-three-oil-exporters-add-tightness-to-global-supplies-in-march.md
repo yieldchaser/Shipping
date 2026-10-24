@@ -29,7 +29,7 @@ Crude/condensate exports from Saudi Arabia and Russia (excluding Kazakh origin) 
 ![Chart 1](assets/2024-04-02_big-three-oil-exporters-add-tightness-to-global-supplies-in-march_img_chart1_008c53e97284.png)
 
 > **Figure 1: Chart 1**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/crude/exclusive-report-sanctions-impact-review-of-russian-crude-flows-to-asia/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-02_big-three-oil-exporters-add-tightness-to-global-supplies-in-march_img_chart1_008c53e97284.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/crude/exclusive-report-sanctions-impact-review-of-russian-crude-flows-to-asia/) | [Local Asset](assets/2024-04-02_big-three-oil-exporters-add-tightness-to-global-supplies-in-march_img_chart1_008c53e97284.png)
 
 The short-term outlook for crude exports among the top three nations is a mixed one. For Russia, extensive damage to downstream infrastructure after numerous attacks has curbed refinery throughput and could potentially “free up” crude for export. However, in the current environment of tightening restrictions on freight/sanctions compliance there may be difficulties in maintaining exports at current levels (around 3mbd).
 
@@ -44,7 +44,7 @@ Turning attention briefly to products, the big three nations’ combined exports
 ![Chart 2](assets/2024-04-02_big-three-oil-exporters-add-tightness-to-global-supplies-in-march_img_chart2_2e4a461993e2.png)
 
 > **Figure 2: Chart 2**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-02_big-three-oil-exporters-add-tightness-to-global-supplies-in-march_img_chart2_2e4a461993e2.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](assets/2024-04-02_big-three-oil-exporters-add-tightness-to-global-supplies-in-march_img_chart2_2e4a461993e2.png)
 
 Unlike crude exports, product exports for Saudi Arabia and the US have clear upsides. Saudi Arabia’s refined products exports have likely bottomed out in March at around the 1.3mbd mark (28-day MA), as the impact of seasonal refinery maintenance fades. And US refiners are likely to keep run rates elevated to meet rising gasoline demand, which means more diesel freed up for the export market. To some extent we are already seeing this in jet markets, with a slowdown in US PADD5 jet imports as domestic supplies pick up.
 

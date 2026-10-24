@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-09-30_russian-effect.html"
 ![Tanker](assets/2024-09-30_russian-effect_img_tanker_55391d7a4915.jpg)
 
 > **Figure 1: Tanker**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-30_russian-effect_img_tanker_55391d7a4915.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-09-30_russian-effect_img_tanker_55391d7a4915.jpg)
 
 Monumental shifts in global tanker flows that followed the Russian invasion of Ukraine led to structural increases in crude and product tanker tonne miles back in 2022 and 2023, significantly impacting tanker rates and earnings. Whilst these changes in flows were essentially a one-off event, it appears that Russian trade can still impact the mainstream tanker market now, even if the vast majority of its flows have shifted into a grey fleet.
 
@@ -38,7 +38,7 @@ In the longer term, the future of Russian trade is more uncertain. Declining pro
 ![Στιγμιότυπο Οθόνης 2024 09 30 150639](assets/2024-09-30_russian-effect_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0479a503128a.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 09 30 150639**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-30_russian-effect_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0479a503128a.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-09-30_russian-effect_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0479a503128a.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

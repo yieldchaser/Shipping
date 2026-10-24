@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-06-18_spot-indices-explode-
 
 > **Figure 1: Capesize Spot: +12**  
 > *Capesize spot: +12,870 or 103%*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-18_spot-indices-explode-as-futures-take-a-pause_img_image-asset_e53aafa25b7b.jpeg)
+> [Local Asset](assets/2020-06-18_spot-indices-explode-as-futures-take-a-pause_img_image-asset_e53aafa25b7b.jpeg)
 
 Capesize spot rates continued their impressive rally, reaching their highest point since December of last year, with the average spot rate now standing at more than 25,000/day. Panamax rates also moved sharply higher, and now stand just shy of 9,000/day (~10,000/day for larger type Panamax vessels). The overall dry bulk market appears extremely hot, with talks of actual lack of ships for specific index dates in the Atlantic, splitting cargoes from Capesize to Panamaxes and rumored concluded deals that are approaching 30,000/day.
 
@@ -45,7 +45,7 @@ Finally, here is a chart of the June Capesize futures contract that has a low of
 ![Cape June](assets/2020-06-18_spot-indices-explode-as-futures-take-a-pause_img_capejune_a51be9b6e3e0.jpg)
 
 > **Figure 2: Cape June**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-18_spot-indices-explode-as-futures-take-a-pause_img_capejune_a51be9b6e3e0.jpg)
+> [Local Asset](assets/2020-06-18_spot-indices-explode-as-futures-take-a-pause_img_capejune_a51be9b6e3e0.jpg)
 
 ---
 

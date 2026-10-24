@@ -25,7 +25,7 @@ Reduced coal demand in China and lower production quotas in Indonesia have weigh
 ![Coal Carrying Capesize Tonne-Miles From Signal Ocean](assets/2026-03-11_coal-demand-could-be-supported-by-war-in-the-arabian-gulf_img_unnamed_6850108f04b9.png)
 
 > **Figure 1: Coal Carrying Capesize Tonne-Miles From Signal Ocean**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-11_coal-demand-could-be-supported-by-war-in-the-arabian-gulf_img_unnamed_6850108f04b9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-03-11_coal-demand-could-be-supported-by-war-in-the-arabian-gulf_img_unnamed_6850108f04b9.png)
 
 - Global seaborne coal flows fall over 1% in February 2026.
 - Coal flows to China decreased by over 10% in February 2026.
@@ -43,7 +43,7 @@ Seasonal factors are also contributing. India typically experiences peak electri
 ![Στιγμιότυπο Οθόνης 2026 03 11 161249](assets/2026-03-11_coal-demand-could-be-supported-by-war-in-the-arabian-gulf_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_146b4fb12628.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 03 11 161249**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-11_coal-demand-could-be-supported-by-war-in-the-arabian-gulf_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_146b4fb12628.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-03-11_coal-demand-could-be-supported-by-war-in-the-arabian-gulf_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_146b4fb12628.png)
 
 The outlook for seaborne coal flows in 2026 was initially negative. China, which accounts for nearly 30% of global seaborne coal volumes, was expected to continue cutting imports as renewable energy gained a larger share of domestic power generation.
 
@@ -56,7 +56,7 @@ Australia and South Africa are well positioned to supply additional volumes. Ind
 ![Στιγμιότυπο Οθόνης 2026 03 11 161415](assets/2026-03-11_coal-demand-could-be-supported-by-war-in-the-arabian-gulf_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b472d1bc55df.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 03 11 161415**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-11_coal-demand-could-be-supported-by-war-in-the-arabian-gulf_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b472d1bc55df.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-03-11_coal-demand-could-be-supported-by-war-in-the-arabian-gulf_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b472d1bc55df.png)
 
 ## War in the Arabian Gulf Will Affect Coal's Trajectory in 2026
 

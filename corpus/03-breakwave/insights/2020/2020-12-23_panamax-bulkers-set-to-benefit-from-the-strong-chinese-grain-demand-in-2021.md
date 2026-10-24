@@ -27,7 +27,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-12-23_panamax-bulkers-set-t
 ![Market Chart 1](assets/2020-12-23_panamax-bulkers-set-to-benefit-from-the-strong-chinese-grain-demand-in-2021_img_image-asset_29220c8c1bda.jpeg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-23_panamax-bulkers-set-to-benefit-from-the-strong-chinese-grain-demand-in-2021_img_image-asset_29220c8c1bda.jpeg)
+> [Local Asset](assets/2020-12-23_panamax-bulkers-set-to-benefit-from-the-strong-chinese-grain-demand-in-2021_img_image-asset_29220c8c1bda.jpeg)
 
 It is true that this year grains have managed to “save the day” for Panamaxes as they proved to be a significant pillar of support for the medium-sized bulkers, which on many occasions ran unusually higher than the larger asset class of Capesizes. Although Panamax carriers’ TCE rates in 2020 so far did not manage to hit highs that would exceed the 2019 marks, the longhaul grain volumes somewhat offset the thinning trade of other major dry bulk commodities, essentially offering some comfort to Panamax and Kamsarmax Owners.
 
@@ -36,7 +36,7 @@ It is common knowledge that China dominates demand for dry bulk shipping and agr
 ![Eastgate 1](assets/2020-12-23_panamax-bulkers-set-to-benefit-from-the-strong-chinese-grain-demand-in-2021_img_eastgate1_c3975676e114.png)
 
 > **Figure 2: Eastgate 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-23_panamax-bulkers-set-to-benefit-from-the-strong-chinese-grain-demand-in-2021_img_eastgate1_c3975676e114.png)
+> [Local Asset](assets/2020-12-23_panamax-bulkers-set-to-benefit-from-the-strong-chinese-grain-demand-in-2021_img_eastgate1_c3975676e114.png)
 
 The heated Chinese demand for the oilseed, primarily used as feed for livestock, can be attributed to the recovery of the domestic swine herd, which in 2019 was depleted by almost half due to the deadly swine flu. The domestic pig population is en route to a full recovery and that leads to the simple fact: pigs need to eat. The relatively low state reserves and the overall pandemic-induced food security concerns are also favouring Chinese bean imports.
 
@@ -45,7 +45,7 @@ Indeed, the feed needs of the world’s most populous nation are relatively inel
 ![2eastgate 1](assets/2020-12-23_panamax-bulkers-set-to-benefit-from-the-strong-chinese-grain-demand-in-2021_img_2eastgate1_ccea4d8c2637.png)
 
 > **Figure 3: 2eastgate 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-23_panamax-bulkers-set-to-benefit-from-the-strong-chinese-grain-demand-in-2021_img_2eastgate1_ccea4d8c2637.png)
+> [Local Asset](assets/2020-12-23_panamax-bulkers-set-to-benefit-from-the-strong-chinese-grain-demand-in-2021_img_2eastgate1_ccea4d8c2637.png)
 
 Brazil is expected to harvest a record soybean crop in 2021 of up to 133 million metric tonnes; the country’s exports to the world, however, are estimated to reach 85 million metric tonnes (which would account for a 7.7% yearly contraction). On the other end, US soy exports to the world are forecast to increase by an impressive 31% y/y to nearly 60 million metric tonnes. This leaves us with the somewhat safe conclusion that, provided no other catastrophe hits us in the coming year, accumulated soy exports and subsequent bulk shipments will both be elevated.
 

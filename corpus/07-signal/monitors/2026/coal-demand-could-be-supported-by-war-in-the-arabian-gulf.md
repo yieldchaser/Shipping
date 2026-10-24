@@ -40,7 +40,7 @@ Reduced coal demand in China and lower production quotas in Indonesia have weigh
 
 > **Figure 1: Source: Coal Carrying Capesize Tonne-Miles From Signal Ocean Https://app.signalocean.com/dry/dynamic/timeseriesdry**  
 > *Source: Coal carrying Capesize tonne-miles from Signal Ocean https://app.signalocean.com/dry/dynamic/timeseries_dry*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/coal-demand-could-be-supported-by-war-in-the-arabian-gulf) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69b15486598878e6cdba336d_00084744.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/coal-demand-could-be-supported-by-war-in-the-arabian-gulf) | [Local Asset](../../images/69b15486598878e6cdba336d_00084744.png)
 
 According to Signal Ocean, China imported 25mt of seaborne coal in February 2026, a 10% decrease from the previous year. This drove the global 1% fall in coal seaborne flows. There were pockets of growth, with India increasing seaborne coal flows by nearly 9% to 19 Mt in February.
 
@@ -53,7 +53,7 @@ Seasonal factors are also contributing. India typically experiences peak electri
 
 > **Figure 2: Source: China Thermal Coal Imports From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflow**  
 > *Source: China thermal coal imports from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflow*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/coal-demand-could-be-supported-by-war-in-the-arabian-gulf) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69b15486598878e6cdba336a_c44b5485.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/coal-demand-could-be-supported-by-war-in-the-arabian-gulf) | [Local Asset](../../images/69b15486598878e6cdba336a_c44b5485.png)
 
 The outlook for seaborne coal flows in 2026 was initially negative. China, which accounts for nearly 30% of global seaborne coal volumes, was expected to continue cutting imports as renewable energy gained a larger share of domestic power generation.
 
@@ -70,7 +70,7 @@ Overall, geopolitical disruption in the Arabian Gulf has the potential to reshap
 
 > **Figure 3: Source: Australia and South Africa Coal Exports From Signal Oceanhttps://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Australia and South Africa coal exports from Signal Oceanhttps://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/coal-demand-could-be-supported-by-war-in-the-arabian-gulf) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69b15486598878e6cdba3370_201ef06f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/coal-demand-could-be-supported-by-war-in-the-arabian-gulf) | [Local Asset](../../images/69b15486598878e6cdba3370_201ef06f.png)
 
 
 ## War in the Arabian Gulf Will Affect Coal’s Trajectory in 2026

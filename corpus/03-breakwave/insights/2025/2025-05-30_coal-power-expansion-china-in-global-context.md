@@ -33,7 +33,7 @@ Thermal power generation—primarily coal-based—recorded a 2.3% decline in Apr
 ![Στιγμιότυπο Οθόνης 2025 05 30 115338](assets/2025-05-30_coal-power-expansion-china-in-global-context_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a37620877719.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 05 30 115338**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-30_coal-power-expansion-china-in-global-context_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a37620877719.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-05-30_coal-power-expansion-china-in-global-context_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a37620877719.png)
 
 ### Utilization at a Record Low
 
@@ -56,7 +56,7 @@ The data in the chart below illustrate the global landscape of coal power develo
 ![Στιγμιότυπο Οθόνης 2025 05 30 115707](assets/2025-05-30_coal-power-expansion-china-in-global-context_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2a9c6e5b81d.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 05 30 115707**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-30_coal-power-expansion-china-in-global-context_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2a9c6e5b81d.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-05-30_coal-power-expansion-china-in-global-context_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2a9c6e5b81d.png)
 
 Data Source:[Allied](https://www.allied-shipbroking.gr/)
 

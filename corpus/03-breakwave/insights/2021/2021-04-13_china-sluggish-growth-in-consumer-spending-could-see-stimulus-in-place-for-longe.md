@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-04-13_china-sluggish-growth
 ![Unsplash Image Vdohqluywy8](assets/2021-04-13_china-sluggish-growth-in-consumer-spending-could-see-stimulus-in-place-for-longe_img_unsplash-image-vdohqluywy8_132a7e04e4b2.jpg)
 
 > **Figure 1: Unsplash Image Vdohqluywy8**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-13_china-sluggish-growth-in-consumer-spending-could-see-stimulus-in-place-for-longe_img_unsplash-image-vdohqluywy8_132a7e04e4b2.jpg)
+> [Local Asset](assets/2021-04-13_china-sluggish-growth-in-consumer-spending-could-see-stimulus-in-place-for-longe_img_unsplash-image-vdohqluywy8_132a7e04e4b2.jpg)
 
 As the Chinese economy powers on, many commodity traders are likely to keep an anxious eye on the Chinese government and specifically its intentions regarding the future of the fiscal stimulus programmes. Much of the strength in the recent months for commodities and dry bulk shipping has been down to Chinese buyers purchasing unprecedented quantities of many commodities, as the stimulus fueled Chinese economic recovery took hold. There is a worry that the recent strong run for the economy will see the Chinese leadership reining in on the extent of fiscal measures it is providing to prop up the economy, as there is a risk that continued support could lead to asset bubbles and the economy overheating.
 
@@ -36,7 +36,7 @@ Additionally, debt levels in the Chinese economy was already a concern for the g
 ![Ulf 2a](assets/2021-04-13_china-sluggish-growth-in-consumer-spending-could-see-stimulus-in-place-for-longe_img_ulf2a_43e8c71a770b.jpg)
 
 > **Figure 2: Ulf 2a**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-13_china-sluggish-growth-in-consumer-spending-could-see-stimulus-in-place-for-longe_img_ulf2a_43e8c71a770b.jpg)
+> [Local Asset](assets/2021-04-13_china-sluggish-growth-in-consumer-spending-could-see-stimulus-in-place-for-longe_img_ulf2a_43e8c71a770b.jpg)
 
 The Chinese economy has gone beyond the recovery phase and is currently larger than it was before the start of the pandemic, with much of the economic stimulus aimed at making up for the weakness in the global markets. However, the recovery has so far been unevenly distributed and mostly concentrated to the manufacturing sector, while consumer spending growth has remained sluggish. Insufficient income growth and concerns about the future strength of the economy have tempered the Chinese consumers’ spending and failed to put the recovery on a solid footing.
 
@@ -45,7 +45,7 @@ The ambition of the Chinese government in the current five-year plan to reduce t
 ![Unsplash Image B3ihwcthvcg](assets/2021-04-13_china-sluggish-growth-in-consumer-spending-could-see-stimulus-in-place-for-longe_img_unsplash-image-b3ihwcthvcg_cfb1963dbbaf.jpg)
 
 > **Figure 3: Unsplash Image B3ihwcthvcg**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-13_china-sluggish-growth-in-consumer-spending-could-see-stimulus-in-place-for-longe_img_unsplash-image-b3ihwcthvcg_cfb1963dbbaf.jpg)
+> [Local Asset](assets/2021-04-13_china-sluggish-growth-in-consumer-spending-could-see-stimulus-in-place-for-longe_img_unsplash-image-b3ihwcthvcg_cfb1963dbbaf.jpg)
 
 If there is a broader recognition that the Chinese consumers do not have the power to fuel the continued expansion of the Chinese economy, we are unlikely to see a major reduction in the economic stimulus programmes with demand for imported commodities remaining strong. The Chinese leadership will face a considerable challenge with controlling the increasing leverage of the economy while meeting its targets on economic growth. Some high-profile projects, such as the additional expansion of the high-speed rail network, have also been rejected on concerns of increasing debt levels. The moderate, by Chinese standards, growth objectives are perhaps a reflection of the balancing act Beijing is facing.
 

@@ -27,7 +27,7 @@ As we discussed in Commodore Research's most recent Weekly China Report, Chinaâ€
 ![Chart](assets/2025-12-08_consumption-growth-in-chinas-consumer-sector-continues-to-decline_img_chart_17876106ea78.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-08_consumption-growth-in-chinas-consumer-sector-continues-to-decline_img_chart_17876106ea78.jpg)
+> [Local Asset](assets/2025-12-08_consumption-growth-in-chinas-consumer-sector-continues-to-decline_img_chart_17876106ea78.jpg)
 
 Overall, consumption growth in China's consumer sector continues to decline and remains a concern. However, China's industrial sector continues to fare much better than the consumer sector. Also noteworthy is that retail sales growth has at least again come in higher than any inflation. This has now occurred for thirty-four straight months. Prior to the last thirty-four months, retail sales came in lower than inflation for four straight months.
 

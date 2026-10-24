@@ -27,12 +27,12 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-01_urals-fleet-constrain
 ![Screenshot 2024 02 29 09.50.46](assets/2024-03-01_urals-fleet-constraints-likely-lr2s-lose-steam-but-find-alternative-employment_img_screenshot2024-02-29095046_849db21ab1b5.png)
 
 > **Figure 1: Screenshot 2024 02 29 09.50.46**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRjsf2kSNGiKWbBeEaOjD1Ie2QXM4xIzXsLtg0ZSJr5qY0izgKPS1n_CnL7nR_wkiGzum5fHg=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-01_urals-fleet-constraints-likely-lr2s-lose-steam-but-find-alternative-employment_img_screenshot2024-02-29095046_849db21ab1b5.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRjsf2kSNGiKWbBeEaOjD1Ie2QXM4xIzXsLtg0ZSJr5qY0izgKPS1n_CnL7nR_wkiGzum5fHg=) | [Local Asset](assets/2024-03-01_urals-fleet-constraints-likely-lr2s-lose-steam-but-find-alternative-employment_img_screenshot2024-02-29095046_849db21ab1b5.png)
 
 ![Screenshot 2024 02 29 09.48.39](assets/2024-03-01_urals-fleet-constraints-likely-lr2s-lose-steam-but-find-alternative-employment_img_screenshot2024-02-29094839_43069d73c75a.png)
 
 > **Figure 2: Screenshot 2024 02 29 09.48.39**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRjsf2kSNGiKWbBeEaOjD1Ie2QXM4xIzXsLtg0ZSJr5qY0izgKPS1n_CnL7nR_wkiGzum5fHg=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-01_urals-fleet-constraints-likely-lr2s-lose-steam-but-find-alternative-employment_img_screenshot2024-02-29094839_43069d73c75a.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRjsf2kSNGiKWbBeEaOjD1Ie2QXM4xIzXsLtg0ZSJr5qY0izgKPS1n_CnL7nR_wkiGzum5fHg=) | [Local Asset](assets/2024-03-01_urals-fleet-constraints-likely-lr2s-lose-steam-but-find-alternative-employment_img_screenshot2024-02-29094839_43069d73c75a.png)
 
 - Last week was a busy one on the Russia sanctions front. New rules on the price cap scheme came into effect whereby tanker operators must submit attestation documents per voyage instead of annually to prove compliance. Also, the UK announced sanctions for key operators in the Russian trades, and the US announced sanctions on Sovcomflot and its tankers.
 - Since Urals was first assessed above the $60/barrel price cap in mid-July 2023 (Argus Media), the number of tankers leaving the Urals trade and not returning increased considerably, averaging 20 tankers each month through January. At the same time, this is not matched by new tankers joining the Urals trade, meaning that the Urals fleet has suffered a net loss of an average of 3.5 tankers every month through January. The notable exception was December 2023, resulting from an influx of sanctioned tankers coming from the Iranian and Venezuelan trades.
@@ -41,7 +41,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-01_urals-fleet-constrain
 ![Screenshot 2024 02 29 09.49.33](assets/2024-03-01_urals-fleet-constraints-likely-lr2s-lose-steam-but-find-alternative-employment_img_screenshot2024-02-29094933_a5deac73ddc5.png)
 
 > **Figure 3: Screenshot 2024 02 29 09.49.33**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRjsf2kSNGiKWbBeEaOjD1Ie2QXM4xIzXsLtg0ZSJr5qY0izgKPS1n_CnL7nR_wkiGzum5fHg=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-01_urals-fleet-constraints-likely-lr2s-lose-steam-but-find-alternative-employment_img_screenshot2024-02-29094933_a5deac73ddc5.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRjsf2kSNGiKWbBeEaOjD1Ie2QXM4xIzXsLtg0ZSJr5qY0izgKPS1n_CnL7nR_wkiGzum5fHg=) | [Local Asset](assets/2024-03-01_urals-fleet-constraints-likely-lr2s-lose-steam-but-find-alternative-employment_img_screenshot2024-02-29094933_a5deac73ddc5.png)
 
 - East of Suez middle distillates (mainly from India and Middle East Gulf) flows to Europe[have declined](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRjsf2kSNGiKWbBeEaOjD1Ie2QXM4xIzXsLtg0ZSJr5qY0izgKPS1n_CnL7nR_wkiGzum5fHg=), but still continue via the Cape of Good Hope. This is especially the case for Jet/Kero flows irrespective of any outcomes on the Red Sea, as Europe does not have other possible regions to source supply.
 
@@ -51,7 +51,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-01_urals-fleet-constrain
 ![Screenshot 2024 02 29 09.49.42](assets/2024-03-01_urals-fleet-constraints-likely-lr2s-lose-steam-but-find-alternative-employment_img_screenshot2024-02-29094942_23747fe71d58.png)
 
 > **Figure 4: Screenshot 2024 02 29 09.49.42**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRjsf2ksR0FIjv3cePpZy_YnsFdBO9wUaM_oIVqETNdyt2-PZCM2RIZ3VYmWUn5JCoI7A21HQ=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-01_urals-fleet-constraints-likely-lr2s-lose-steam-but-find-alternative-employment_img_screenshot2024-02-29094942_23747fe71d58.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRjsf2ksR0FIjv3cePpZy_YnsFdBO9wUaM_oIVqETNdyt2-PZCM2RIZ3VYmWUn5JCoI7A21HQ=) | [Local Asset](assets/2024-03-01_urals-fleet-constraints-likely-lr2s-lose-steam-but-find-alternative-employment_img_screenshot2024-02-29094942_23747fe71d58.png)
 
 - [Aframax tonne-miles](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRjsf2ksR0FIjv3cePpZy_YnsFdBO9wUaM_oIVqETNdyt2-PZCM2RIZ3VYmWUn5JCoI7A21HQ=)out of the US Gulf remain muted, keeping freight rates USG-to-Europe[(TD25)](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRjsf2kRUdx8Bq2yOPZYVp3W7RQqwqUbykogBT_vote2PrSlDw6T6ftv7dCWYLr-hfup2xPng=)in check.
 
@@ -61,7 +61,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-01_urals-fleet-constrain
 ![Screenshot 2024 02 29 09.49.51](assets/2024-03-01_urals-fleet-constraints-likely-lr2s-lose-steam-but-find-alternative-employment_img_screenshot2024-02-29094951_08b9144bb012.png)
 
 > **Figure 5: Screenshot 2024 02 29 09.49.51**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRjsf2kcmzXeSJLrjZelRjJO8eMuLWI5MnDofiXIRcsBqtNUvnRJxPDwP27dCb1CEuTaRqNmU=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-01_urals-fleet-constraints-likely-lr2s-lose-steam-but-find-alternative-employment_img_screenshot2024-02-29094951_08b9144bb012.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRjsf2kcmzXeSJLrjZelRjJO8eMuLWI5MnDofiXIRcsBqtNUvnRJxPDwP27dCb1CEuTaRqNmU=) | [Local Asset](assets/2024-03-01_urals-fleet-constraints-likely-lr2s-lose-steam-but-find-alternative-employment_img_screenshot2024-02-29094951_08b9144bb012.png)
 
 - As the US refinery maintenance season continues in full-swing,[MR demand out of the US Gulf](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRjsf2kcmzXeSJLrjZelRjJO8eMuLWI5MnDofiXIRcsBqtNUvnRJxPDwP27dCb1CEuTaRqNmU=)continues to decline, with both utilisation and tonne-mile demand falling since early January. Our data points to[slightly tightening availability](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRjsf2kUml-gJZILTKVxW6ZK-xeTAZMxdRyr2pOyEdwjIeF_tOHtcIeLmxrNInrBChS2AHGCg=)in natural fixing windows, but this has not translated into support for freight rates ([TC14](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRjsf2kSA3ja3lpJMaradEBUyAcs8i_ibO9YXtVyDXDFAnV-AIBvIs8q6iIuKrFP6rsk_GmTQ=),[TC18](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRjsf2kmorW_-GAiEqIRfOzoyb1UV4zPm6qmyiO_r99OAG95cPlPp-IBtlUsoi_XcwfGGzoPQ=)) due to the low demand environment.
 

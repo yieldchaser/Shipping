@@ -37,7 +37,7 @@ The Panamax market has now clearly shifted from last year’s subdued conditions
 ![Στιγμιότυπο Οθόνης 2025 11 24 102519](assets/2025-11-24_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e66366375881.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 11 24 102519**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-24_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e66366375881.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-11-24_panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e66366375881.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

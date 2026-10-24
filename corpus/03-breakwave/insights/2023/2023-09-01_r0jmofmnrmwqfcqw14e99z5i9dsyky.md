@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-09-01_r0jmofmnrmwqfcqw14e99
 ![F Etched Bronze Size2 Cmyk 300](assets/2023-09-01_r0jmofmnrmwqfcqw14e99z5i9dsyky_img_f-etched-bronze-size2-cmyk-300_0a4c0d40a2e1.jpg)
 
 > **Figure 1: F Etched Bronze Size2 Cmyk 300**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/roaradland/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-01_r0jmofmnrmwqfcqw14e99z5i9dsyky_img_f-etched-bronze-size2-cmyk-300_0a4c0d40a2e1.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/roaradland/) | [Local Asset](assets/2023-09-01_r0jmofmnrmwqfcqw14e99z5i9dsyky_img_f-etched-bronze-size2-cmyk-300_0a4c0d40a2e1.jpg)
 
 **The best news for the Capesize market in 2023 has arguably been Brazil’s iron ore exports finally clawing its way back to pre-Brumadinho-disaster levels and the continued growth in Guinea’s bauxite exports.**
 
@@ -41,6 +41,6 @@ As you may have recalled from high-school math already—adding two sinusoidal w
 ![1693478786694](assets/2023-09-01_r0jmofmnrmwqfcqw14e99z5i9dsyky_img_1693478786694_d517d08a8d52.jpg)
 
 > **Figure 2: 1693478786694**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/posts/roaradland_drybulk-shipping-activity-7102964857146093568-bCFv/?utm_medium=member_ios&utm_source=share) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-01_r0jmofmnrmwqfcqw14e99z5i9dsyky_img_1693478786694_d517d08a8d52.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/posts/roaradland_drybulk-shipping-activity-7102964857146093568-bCFv/?utm_medium=member_ios&utm_source=share) | [Local Asset](assets/2023-09-01_r0jmofmnrmwqfcqw14e99z5i9dsyky_img_1693478786694_d517d08a8d52.jpg)
 
 Data Source:[Roar Adland](https://www.linkedin.com/posts/roaradland_drybulk-shipping-activity-7102964857146093568-bCFv/?utm_medium=member_ios&utm_source=share)

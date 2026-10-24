@@ -31,7 +31,7 @@ Regarding coarse grain, the USDA is now forecasting that global coarse grain exp
 ![Chart](assets/2025-11-27_global-grain-export-forecast-raised-again_img_chart_3e69fff8d765.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-27_global-grain-export-forecast-raised-again_img_chart_3e69fff8d765.jpg)
+> [Local Asset](assets/2025-11-27_global-grain-export-forecast-raised-again_img_chart_3e69fff8d765.jpg)
 
 ---
 

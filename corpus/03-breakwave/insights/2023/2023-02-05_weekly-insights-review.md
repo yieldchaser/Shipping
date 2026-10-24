@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-02-05_weekly-insights-revie
 ![Unsplash Image Vxlgafxgwg](assets/2023-02-05_weekly-insights-review_img_unsplash-image-vxlgafxgwg_e0d56a307440.jpg)
 
 > **Figure 1: Unsplash Image Vxlgafxgwg**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/30/doric-weekly-market-insight) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-05_weekly-insights-review_img_unsplash-image-vxlgafxgwg_e0d56a307440.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/30/doric-weekly-market-insight) | [Local Asset](assets/2023-02-05_weekly-insights-review_img_unsplash-image-vxlgafxgwg_e0d56a307440.jpg)
 
 ## Doric Weekly Market Insight
 
@@ -44,7 +44,7 @@ One of the key risks we persistently flagged in the second part of last year has
 ![Unsplash Image Rgppck4dth4](assets/2023-02-05_weekly-insights-review_img_unsplash-image-rgppck4dth4_48936cb34b70.jpg)
 
 > **Figure 2: Unsplash Image Rgppck4dth4**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/31/recent-weakness-in-chinese-consumer-spending) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-05_weekly-insights-review_img_unsplash-image-rgppck4dth4_48936cb34b70.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/31/recent-weakness-in-chinese-consumer-spending) | [Local Asset](assets/2023-02-05_weekly-insights-review_img_unsplash-image-rgppck4dth4_48936cb34b70.jpg)
 
 ## Recent Weakness in Chinese Consumer Spending
 
@@ -56,7 +56,7 @@ December’s consumer electronics and appliance sales in China totaled only 79.4
 ![Unsplash Image Vvtsaofbbbo](assets/2023-02-05_weekly-insights-review_img_unsplash-image-vvtsaofbbbo_2122dcc82e4e.jpg)
 
 > **Figure 3: Unsplash Image Vvtsaofbbbo**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/2/signal-dry-bulk-weekly-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-05_weekly-insights-review_img_unsplash-image-vvtsaofbbbo_2122dcc82e4e.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/2/signal-dry-bulk-weekly-report) | [Local Asset](assets/2023-02-05_weekly-insights-review_img_unsplash-image-vvtsaofbbbo_2122dcc82e4e.jpg)
 
 ## Signal Dry Bulk Weekly Report
 
@@ -68,14 +68,14 @@ The first few days of February seem to provide a somewhat firmer outlook for fre
 ![Unsplash Image S4cmn Welko](assets/2023-02-05_weekly-insights-review_img_unsplash-image-s4cmn-welko_b4fc7b68a470.jpg)
 
 > **Figure 4: Unsplash Image S4cmn Welko**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/1/shipfix-global-market-update-Pkjq0) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-05_weekly-insights-review_img_unsplash-image-s4cmn-welko_b4fc7b68a470.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/1/shipfix-global-market-update-Pkjq0) | [Local Asset](assets/2023-02-05_weekly-insights-review_img_unsplash-image-s4cmn-welko_b4fc7b68a470.jpg)
 
 ## Shipfix-Global Market Update
 
 ![Unsplash Image a E Y8y5wo](assets/2023-02-05_weekly-insights-review_img_unsplash-image-a-e-y8y5wo_fb84fe8976e8.jpg)
 
 > **Figure 5: Unsplash Image a E Y8y5wo**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/1/shipfix-global-market-update-Pkjq0) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-05_weekly-insights-review_img_unsplash-image-a-e-y8y5wo_fb84fe8976e8.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/1/shipfix-global-market-update-Pkjq0) | [Local Asset](assets/2023-02-05_weekly-insights-review_img_unsplash-image-a-e-y8y5wo_fb84fe8976e8.jpg)
 
 ## Macro/geopolitics, Commodity Markets, Freight and Bunker Markets
 
@@ -87,7 +87,7 @@ The International Monetary Fund began the year with a few pessimistic statements
 ![Unsplash Image Mnayuwbxuri](assets/2023-02-05_weekly-insights-review_img_unsplash-image-mnayuwbxuri_68d0e653a866.jpg)
 
 > **Figure 6: Unsplash Image Mnayuwbxuri**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/1/will-russia-struggle-to-find-new-buyers-for-its-diesel) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-05_weekly-insights-review_img_unsplash-image-mnayuwbxuri_68d0e653a866.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/1/will-russia-struggle-to-find-new-buyers-for-its-diesel) | [Local Asset](assets/2023-02-05_weekly-insights-review_img_unsplash-image-mnayuwbxuri_68d0e653a866.jpg)
 
 ## Surely a Lot of Uncertainty Ahead
 
@@ -104,7 +104,7 @@ One of the slowest weeks of the year in terms of Chinese activity is now behind 
 ![Market Chart 7](assets/2023-02-05_weekly-insights-review_img_unnamed-2023-02-03t134143252_e7a8fa599961.png)
 
 > **Figure 7: Market Chart 7**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/2/breakwave-maritime-decarbonization-report-january-in-review) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-05_weekly-insights-review_img_unnamed-2023-02-03t134143252_e7a8fa599961.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/2/breakwave-maritime-decarbonization-report-january-in-review) | [Local Asset](assets/2023-02-05_weekly-insights-review_img_unnamed-2023-02-03t134143252_e7a8fa599961.png)
 
 ## Breakwave Maritime Decarbonization Report - January in Review
 
@@ -116,12 +116,12 @@ More than 40 signatories,representing the entire green fuels value chain, have w
 ![Market Chart 8](assets/2023-02-05_weekly-insights-review_img_unnamed-2023-02-03t134146315_df6fcbfccdb5.png)
 
 > **Figure 8: Market Chart 8**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/3/chinas-coal-imports-from-russia-jumped-by-19-last-year) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-05_weekly-insights-review_img_unnamed-2023-02-03t134146315_df6fcbfccdb5.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/3/chinas-coal-imports-from-russia-jumped-by-19-last-year) | [Local Asset](assets/2023-02-05_weekly-insights-review_img_unnamed-2023-02-03t134146315_df6fcbfccdb5.png)
 
 ![Unsplash Image Vsqki6yx3jq](assets/2023-02-05_weekly-insights-review_img_unsplash-image-vsqki6yx3jq_a14d92d23fb3.jpg)
 
 > **Figure 9: Unsplash Image Vsqki6yx3jq**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/3/chinas-coal-imports-from-russia-jumped-by-19-last-year) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-05_weekly-insights-review_img_unsplash-image-vsqki6yx3jq_a14d92d23fb3.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/3/chinas-coal-imports-from-russia-jumped-by-19-last-year) | [Local Asset](assets/2023-02-05_weekly-insights-review_img_unsplash-image-vsqki6yx3jq_a14d92d23fb3.jpg)
 
 ## China's Coal Imports From Russia Jumped by 19% Last Year
 
@@ -133,7 +133,7 @@ Coal import data for December by origin has been released
 ![Unsplash Image 54vugilazhu](assets/2023-02-05_weekly-insights-review_img_unsplash-image-54vugilazhu_733b8af95f96.jpg)
 
 > **Figure 10: Unsplash Image 54vugilazhu**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/3/nickel-gains-despite-looming-wave-of-supply) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-05_weekly-insights-review_img_unsplash-image-54vugilazhu_733b8af95f96.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/2/3/nickel-gains-despite-looming-wave-of-supply) | [Local Asset](assets/2023-02-05_weekly-insights-review_img_unsplash-image-54vugilazhu_733b8af95f96.jpg)
 
 ## Nickel Gains Despite Looming Wave of Supply
 

@@ -47,7 +47,7 @@ The large volume of crude on the water destined for Asia reduces the urgency for
 ![40fb Image 0 1792683586332](assets/2026-10-23_vlcc-spot-rates-softer-but-far-from-soft_img_40fb-image-0-1792683586332_ac79f6734297.png)
 
 > **Figure 1: 40fb Image 0 1792683586332**  
-> [Local Asset](file:///c:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-23_vlcc-spot-rates-softer-but-far-from-soft_img_40fb-image-0-1792683586332_ac79f6734297.png)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-23_vlcc-spot-rates-softer-but-far-from-soft_img_40fb-image-0-1792683586332_ac79f6734297.png)
 
 *Source: Vortexa*
 

@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-12-08_bg9cev5n7ro3jq5ryh3d5
 ![Market Chart 1](assets/2023-12-08_bg9cev5n7ro3jq5ryh3d5wowu4vlq0_img_unnamed-2023-12-08t153536022_8e6547c4f355.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-08_bg9cev5n7ro3jq5ryh3d5wowu4vlq0_img_unnamed-2023-12-08t153536022_8e6547c4f355.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-08_bg9cev5n7ro3jq5ryh3d5wowu4vlq0_img_unnamed-2023-12-08t153536022_8e6547c4f355.png)
 
 In the first week of December, both the Capesize and Panamax freight markets experienced a remarkable upswing, reaching their highest levels of the past year. The larger vessel categories experienced an unexpected turnaround in sentiment and recorded a remarkable upswing. However, the smaller vessel categories are still struggling to develop stronger momentum, although there are signs of growth in the supramax sector. Interestingly, the number of congested Panamax vessels in Brazilian ports was revised downwards, marking the first decline since the end of the first half of 2023.
 This was a crucial factor contributing to the rise in Panamax freight rates. Despite the recent rate recovery, demand in tonne-miles have not increased accordingly, raising the question of whether December will signal an upward cycle in freight rates, especially given concerns about the impact of China's economic recovery on the market.
@@ -47,7 +47,7 @@ Market Rates ($/t) Firmer
 
 > **Figure 2: Supply Trend Lines for Key Load Areasballasters (#Vessels)**  
 > *Supply Trend Lines for Key Load AreasBallasters (#vessels) Decreasing*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-08_bg9cev5n7ro3jq5ryh3d5wowu4vlq0_img_unnamed-2023-12-08t153633552_94b290053036.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-08_bg9cev5n7ro3jq5ryh3d5wowu4vlq0_img_unnamed-2023-12-08t153633552_94b290053036.png)
 
 December is ablaze with unwavering optimism, propelled by the remarkable resurgence of rates in the Capesize and Panamax vessel size categories, soaring to unprecedented heights within a year.
 
@@ -61,7 +61,7 @@ December is ablaze with unwavering optimism, propelled by the remarkable resurge
 ![Market Chart 3](assets/2023-12-08_bg9cev5n7ro3jq5ryh3d5wowu4vlq0_img_unnamed-2023-12-08t153803128_cb0ea9d954c7.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-08_bg9cev5n7ro3jq5ryh3d5wowu4vlq0_img_unnamed-2023-12-08t153803128_cb0ea9d954c7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-08_bg9cev5n7ro3jq5ryh3d5wowu4vlq0_img_unnamed-2023-12-08t153803128_cb0ea9d954c7.png)
 
 The number of ballasters dropped eventually below the annual average for SE Africa in the Capesize and Panamax segments, while there are signs of a decrease in the smaller vessel segments.
 
@@ -75,7 +75,7 @@ The number of ballasters dropped eventually below the annual average for SE Afri
 ![Summary of Dry Bulk Demand, per Ship Sizetonne Days Decreasing](assets/2023-12-08_bg9cev5n7ro3jq5ryh3d5wowu4vlq0_img_unnamed-2023-12-08t153913053_87b01fa9938d.png)
 
 > **Figure 4: Summary of Dry Bulk Demand, per Ship Sizetonne Days Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-08_bg9cev5n7ro3jq5ryh3d5wowu4vlq0_img_unnamed-2023-12-08t153913053_87b01fa9938d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-08_bg9cev5n7ro3jq5ryh3d5wowu4vlq0_img_unnamed-2023-12-08t153913053_87b01fa9938d.png)
 
 Demand growth is still in a downward trend amid the recovery of freight rates seen in early December, while there seems to be a later rebound in the next few days along with the performance of freight rates.
 
@@ -89,7 +89,7 @@ Demand growth is still in a downward trend amid the recovery of freight rates se
 ![Dry Bulk Ships Congested at Chinese Portsno of Vessels Increasing](assets/2023-12-08_bg9cev5n7ro3jq5ryh3d5wowu4vlq0_img_unnamed-2023-12-08t154052563_ca548006f3fb.png)
 
 > **Figure 5: Dry Bulk Ships Congested at Chinese Portsno of Vessels Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-08_bg9cev5n7ro3jq5ryh3d5wowu4vlq0_img_unnamed-2023-12-08t154052563_ca548006f3fb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-08_bg9cev5n7ro3jq5ryh3d5wowu4vlq0_img_unnamed-2023-12-08t154052563_ca548006f3fb.png)
 
 The number of dry bulk vessels congested at Chinese ports has shown an upward trend over the last three weeks, with a significant increase in congestion in the Supramax segment.
 

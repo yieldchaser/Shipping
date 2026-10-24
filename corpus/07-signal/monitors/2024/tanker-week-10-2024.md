@@ -33,7 +33,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform**  
 > *Data Source: The Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-10-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/65ea0530ec1798f6968ab103_tanker vlcc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-10-2024) | [Local Asset](../../images/65ea0530ec1798f6968ab103_tanker vlcc.png)
 
 The resurgence in market rates for the VLCC AG-China route during the initial week of March was notable, primarily fueled by a tightening supply attributed to a significant drop in vessel activity in Ras Tanura compared to the peak observed at the end of February. Despite a downward trend in tonne days on the demand side of the AG-China route, recent market rates suggest a potential uptick, indicating dynamic shifts in the market. Meanwhile, in other crude tanker segments, Aframax Med rates continued their upward trajectory, albeit with a slight decrease in tonne days growth since the end of February. This indicates a mixed scenario across different crude tanker segments.
 

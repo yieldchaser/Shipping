@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-02-25_market-commentary.htm
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-25_market-commentary_img_unsplash-image-gemrkzgh4tw_f8595ceb5e1b.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](assets/2026-02-25_market-commentary_img_unsplash-image-gemrkzgh4tw_f8595ceb5e1b.jpg)
 
 From 1 Jan to 20 Feb 2026, the dry bulk S&P tape has been running at a materially stronger tempo compared to the same window of 2025. Based on Xclusiv’s Shipbrokers data, we count 109 bulker sales in 2026 versus 80 in 2025, a +36% year-on-year increase. That is not marginal improvement, it is a clear expansion in liquidity during a period that is usually shaped by seasonality and caution.
 

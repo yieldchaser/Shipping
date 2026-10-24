@@ -29,7 +29,7 @@ Week 07, February 14, 2025
 ![Στιγμιότυπο Οθόνης 2025 02 14 162722](assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9c204625f305.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 02 14 162722**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9c204625f305.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9c204625f305.png)
 
 By early 2025, net supply has declined significantly from the peaks seen in 2023 and early 2024, reinforcing the inverse correlation between supply levels and TD3 rates. The sharp drop in net supply has driven a notable spike in TD3 rates, validating the fundamental supply-demand pricing mechanism in the VLCC market. A major supply peak in mid-2023 (~180 vessels) led to subdued TD3 rates, but recent volatility in Baltic TD3 rates suggests a strengthening trend, particularly if crude oil demand remains resilient. With net supply tightening, demand-side factors—such as refinery restocking and increased Chinese crude imports—could further support rates through Q1 2025.
 
@@ -39,7 +39,7 @@ The macroeconomic landscape remains mixed, with the US energy market influenced 
 ![Στιγμιότυπο Οθόνης 2025 02 14 162834](assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e954e8aa0a0.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 02 14 162834**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e954e8aa0a0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e954e8aa0a0.png)
 
 ​​​​​Sentiment in the**dirty freight market**remains**mixed**, with**VLCC MEG/China routes attempting to establish firmer momentum**, driven by tightening vessel supply and fluctuating demand.
 
@@ -49,21 +49,21 @@ The macroeconomic landscape remains mixed, with the US energy market influenced 
 ![Στιγμιότυπο Οθόνης 2025 02 14 162921](assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0a43af95d2b4.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 02 14 162921**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0a43af95d2b4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0a43af95d2b4.png)
 
 - **LR2**AG freight rates continued to decrease with rates around WS 120, which corresponds to a drop of 50% compared with the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2025 02 14 163039](assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d989943aaf4b.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 02 14 163039**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d989943aaf4b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d989943aaf4b.png)
 
 - **Panamax**Carib-to-USG rates have found a bottom at WS120. This marks a decline of over 60% compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2025 02 14 163150](assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_346a036c9636.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 02 14 163150**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_346a036c9636.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_346a036c9636.png)
 
 - **MR1**freight rates for Baltic-to-Continent shipments remained hovering around WS180—a decrease of 35% compared to the same week last year.
 
@@ -72,7 +72,7 @@ The macroeconomic landscape remains mixed, with the US energy market influenced 
 ![Στιγμιότυπο Οθόνης 2025 02 14 163246](assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_076e37494c47.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 02 14 163246**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_076e37494c47.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_076e37494c47.png)
 
 ​​​​​​The supply of crude tankers recorded a downward trend, with recent estimates below the annual average on key routes.
 
@@ -84,12 +84,12 @@ The macroeconomic landscape remains mixed, with the US energy market influenced 
 ![Στιγμιότυπο Οθόνης 2025 02 14 163342](assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1f0873f1e2dc.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 02 14 163342**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1f0873f1e2dc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1f0873f1e2dc.png)
 
 ![Στιγμιότυπο Οθόνης 2025 02 14 163351](assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fe5cea639903.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2025 02 14 163351**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fe5cea639903.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fe5cea639903.png)
 
 - **Clean LR2 AG Jubail**: The mid-February trend has confirmed the upward trend of the last few days, with the values now exceeding the annual average of 11 by three instead of six as in the previous week, indicating a possible downward correction in the coming days.
 
@@ -98,14 +98,14 @@ The macroeconomic landscape remains mixed, with the US energy market influenced 
 ![Στιγμιότυπο Οθόνης 2025 02 14 163450](assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c0eefbb58e1a.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 02 14 163450**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c0eefbb58e1a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c0eefbb58e1a.png)
 
 - **Dirty**tonne days: The growth rate of dirty tonne-days remains well below the annual trend for the VLCC and Suezmax markets, which can create downward pressure in the coming days, while tonne-days show signs of a mild recovery from the previous week, now surpassing the annual average for the first time since the beginning of this year.
 
 ![Στιγμιότυπο Οθόνης 2025 02 14 163547](assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4c51b2b2f69.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 02 14 163547**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4c51b2b2f69.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4c51b2b2f69.png)
 
 - **Panamax**tonne days: The growth rate remained well below the recent weekly annual average, showing no definitive signs of a rebound at this stage.
 

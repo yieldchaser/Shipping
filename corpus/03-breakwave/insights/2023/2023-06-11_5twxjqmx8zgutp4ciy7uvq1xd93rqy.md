@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-06-11_5twxjqmx8zgutp4ciy7uv
 ![348908642 957994585352074 8202696835054169503 N](assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_348908642-957994585352074-8202696835_5b073f28f819.jpg)
 
 > **Figure 1: 348908642 957994585352074 8202696835054169503 N**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/6/10/storm-after-the-calm-for-vlcc-rates) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_348908642-957994585352074-8202696835_5b073f28f819.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/6/10/storm-after-the-calm-for-vlcc-rates) | [Local Asset](assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_348908642-957994585352074-8202696835_5b073f28f819.jpg)
 
 ## Storm After the Calm for VLCC Rates?
 
@@ -38,7 +38,7 @@ The huge drop we recently experienced on the Very Large Crude Carrier (VLCC) fre
 ![Market Chart 2](assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed284329_821f074a1358.jpg)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/6/5/signal-tanker-weekly-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed284329_821f074a1358.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/6/5/signal-tanker-weekly-report) | [Local Asset](assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed284329_821f074a1358.jpg)
 
 ## Signal Tanker Weekly Report
 
@@ -50,7 +50,7 @@ As May drew to a close, the sentiment in the crude freight market for VLCC tanke
 ![Market Chart 3](assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed284429_6880c080820c.jpg)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/6/6/2023-the-year-homework-will-pay-off) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed284429_6880c080820c.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/6/6/2023-the-year-homework-will-pay-off) | [Local Asset](assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed284429_6880c080820c.jpg)
 
 ## Mazars Comment: 2023 the Year Homework Will Pay Off
 
@@ -67,7 +67,7 @@ The debt ceiling drama-that-wasn’t is squarely behind us. An eleventh-hour dea
 ![Shifting Tides in the Atlantic Is All That Matters for Q3](assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed-2023-06-11t121900928_ab7c648db93c.png)
 
 > **Figure 4: Shifting Tides in the Atlantic Is All That Matters for Q3**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/6/5/doric-weekly-market-insight) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed-2023-06-11t121900928_ab7c648db93c.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/6/5/doric-weekly-market-insight) | [Local Asset](assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed-2023-06-11t121900928_ab7c648db93c.png)
 
 ## Doric Weekly Market Insight
 
@@ -79,12 +79,12 @@ Amidst a tumbling spot market and a wounded market sentiment, the World Trade Or
 ![Market Chart 5](assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed284629_7506e822aa10.jpg)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/6/7/oil-gives-back-opec-driven-gains-amid-demand-concerns) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed284629_7506e822aa10.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/6/7/oil-gives-back-opec-driven-gains-amid-demand-concerns) | [Local Asset](assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed284629_7506e822aa10.jpg)
 
 ![Market Chart 6](assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed284729_b774ef0802e5.jpg)
 
 > **Figure 6: Market Chart 6**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/6/7/oil-gives-back-opec-driven-gains-amid-demand-concerns) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed284729_b774ef0802e5.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/6/7/oil-gives-back-opec-driven-gains-amid-demand-concerns) | [Local Asset](assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed284729_b774ef0802e5.jpg)
 
 ## Oil Gives Back OPEC Driven Gains Amid Demand Concerns
 
@@ -96,7 +96,7 @@ Concerns over demand continue to weigh on commodity markets. Macro headwinds wer
 ![Market Chart 7](assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed284829_5b39cb36915e.jpg)
 
 > **Figure 7: Market Chart 7**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/6/8/chinas-industrial-sector-continues-to-stall-ongoing-recession-in-united-states-and-other-nations) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed284829_5b39cb36915e.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/6/8/chinas-industrial-sector-continues-to-stall-ongoing-recession-in-united-states-and-other-nations) | [Local Asset](assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed284829_5b39cb36915e.jpg)
 
 ## China's Industrial Sector Continues to Stall; Ongoing Recession in United States and Other Nations
 
@@ -115,7 +115,7 @@ The past week witnessed extensive volatility across the global commodities marke
 ![Market Chart 8](assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed284929_001c6688ee60.jpg)
 
 > **Figure 8: Market Chart 8**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/6/9/significant-amount-of-coal-remains-stockpiled-in-india) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed284929_001c6688ee60.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/6/9/significant-amount-of-coal-remains-stockpiled-in-india) | [Local Asset](assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed284929_001c6688ee60.jpg)
 
 ## Significant Amount of Coal Remains Stockpiled in India
 
@@ -128,7 +128,7 @@ As we discussed in Commodore's most recent Weekly Dry Bulk Report, Coal India pr
 
 > **Figure 9: Iron Ore Market Experienced a Notable Increase in Prices Due To**  
 > *The iron ore market experienced a notable increase in prices due to the recent news regarding the Chinese economy stimulus package.Read More*  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/6/8/xbq09uocapnjex2zcrmjjhbuz587tv) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed285029_e44284b7e37e.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/6/8/xbq09uocapnjex2zcrmjjhbuz587tv) | [Local Asset](assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed285029_e44284b7e37e.jpg)
 
 ## Signal Dry Bulk Weekly Report
 
@@ -137,4 +137,4 @@ As we discussed in Commodore's most recent Weekly Dry Bulk Report, Coal India pr
 ![Market Chart 10](assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed285129_6a9cbe5be272.jpg)
 
 > **Figure 10: Market Chart 10**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed285129_6a9cbe5be272.jpg)
+> [Local Asset](assets/2023-06-11_5twxjqmx8zgutp4ciy7uvq1xd93rqy_img_unnamed285129_6a9cbe5be272.jpg)

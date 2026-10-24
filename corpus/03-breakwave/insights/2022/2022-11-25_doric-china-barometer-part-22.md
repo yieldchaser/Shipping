@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-25_doric-china-barometer
 
 > **Figure 1: Bymichalis Voutsinasand Helen Vlassi**  
 > *ByMichalis Voutsinasand Helen Vlassi*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/michalis-voutsinas-587544163/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_buttonwdate_d45d644f7990.png)](https://www.breakwaveadvisors.com/agenda22)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/michalis-voutsinas-587544163/) | [Local Asset](assets/2022-11-25_doric-china-barometer-part-22_img_buttonwdate_d45d644f7990.png)](https://www.breakwaveadvisors.com/agenda22)
 
 ### Crude Oil/natural Gas
 
@@ -37,7 +37,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-25_doric-china-barometer
 ![Screenshot 20221125 141457 Samsung Notes](assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141457-samsungno_70f23796817b.jpg)
 
 > **Figure 2: Screenshot 20221125 141457 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141457-samsungno_70f23796817b.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141457-samsungno_70f23796817b.jpg)
 
 ### Iron Ore October 2022
 
@@ -51,7 +51,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-25_doric-china-barometer
 ![Screenshot 20221125 141512 Samsung Notes](assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141512-samsungno_5dcdfe5a3666.jpg)
 
 > **Figure 3: Screenshot 20221125 141512 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141512-samsungno_5dcdfe5a3666.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141512-samsungno_5dcdfe5a3666.jpg)
 
 ### Coal
 
@@ -66,7 +66,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-25_doric-china-barometer
 ![Screenshot 20221125 141531 Samsung Notes](assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141531-samsungno_c15bca09c465.jpg)
 
 > **Figure 4: Screenshot 20221125 141531 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141531-samsungno_c15bca09c465.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141531-samsungno_c15bca09c465.jpg)
 
 ### Grains
 
@@ -80,7 +80,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-25_doric-china-barometer
 ![Screenshot 20221125 141554 Samsung Notes](assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141554-samsungno_986ec8558410.jpg)
 
 > **Figure 5: Screenshot 20221125 141554 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141554-samsungno_986ec8558410.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141554-samsungno_986ec8558410.jpg)
 
 ### Minors (Exports)
 
@@ -94,7 +94,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-25_doric-china-barometer
 ![Screenshot 20221125 141617 Samsung Notes](assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141617-samsungno_c3bc58cd368d.jpg)
 
 > **Figure 6: Screenshot 20221125 141617 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141617-samsungno_c3bc58cd368d.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141617-samsungno_c3bc58cd368d.jpg)
 
 ### Minors (Imports)
 
@@ -108,6 +108,6 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-25_doric-china-barometer
 ![Screenshot 20221125 141645 Samsung Notes](assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141645-samsungno_b390c974d047.jpg)
 
 > **Figure 7: Screenshot 20221125 141645 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141645-samsungno_b390c974d047.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2022-11-25_doric-china-barometer-part-22_img_screenshot-20221125-141645-samsungno_b390c974d047.jpg)
 
 Data source:[Doric](https://www.doric.gr/)

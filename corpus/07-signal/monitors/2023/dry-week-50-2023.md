@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform Data**  
 > *Data Source: The Signal Ocean Platform Data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-50-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/657980ac6f8d3db95b8ba83b_grain us.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-50-2023) | [Local Asset](../../images/657980ac6f8d3db95b8ba83b_grain us.png)
 
 In the second week of December, the mood on the dry bulk market was mixed. Prices for Capesize vessels between Brazil and North China were down after the surprising upturn at the beginning of the month. In the smaller ship segments, however, the mood was optimistic, pointing to possible improvements in performance.
 

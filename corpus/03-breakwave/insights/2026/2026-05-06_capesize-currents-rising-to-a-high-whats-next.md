@@ -23,28 +23,28 @@ source_file: "corpus/03-breakwave/insights/2026/2026-05-06_capesize-currents-ris
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 All said and done,The C5TC (basis 180,000 DwtK) averages for this month is currentlynow staring at around $30,000/day, making this month the strongest April since 2021 ($29,798/day). The difference between C5TC April 2025 and April 2026 is a whopping $14,000/day, an affirmation ofn how Capesize dynamics have structurally morphed.
 
 ![Στιγμιότυπο Οθόνης 2026 05 05 110633](assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_53fd14ba1cee.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 05 05 110633**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_53fd14ba1cee.png)
+> [Local Asset](assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_53fd14ba1cee.png)
 
 Stripping out bunker-related distortions from the Iran conflict, there is little evidence of a material deterioration in underlying Capesize fundamentals in 1Q26. In fact, high bunker prices caused a sharp reversal of fleet speed in March which indirectly tightened tonnage availability when long-haul voyages are in vogue.
 
 ![Στιγμιότυπο Οθόνης 2026 05 05 110642](assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1fe696ae35b1.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 05 05 110642**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1fe696ae35b1.png)
+> [Local Asset](assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1fe696ae35b1.png)
 
 For context, in 1Q2026, VLOC (>220,000 DwtK) shipments grew by 1.1% y-o-y, while Capesize (160-220,000 DwtK) shipments grew by a robust 5.3% y-o-y to 374.3 mln mt. Growth is slightly more pronounced on the loading side for the top exporters, while the demand side remains heavily concentrated in Asia, particularly China, which continues to dominate trade flows.
 
 ![Στιγμιότυπο Οθόνης 2026 05 05 110656](assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3449919478fb.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2026 05 05 110656**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3449919478fb.png)
+> [Local Asset](assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3449919478fb.png)
 
 On the loading side, the top ten origins increased shipments by 6.3% y-o-y, outpacing overall market growth of 5.3% and reinforcing their structural importance. Australia remains the dominant supplier by a wide margin, with volumes rising 4.2% to nearly 197 million tonnesmt, accounting for more than half of total Capesize loadings, partly reflecting a low base last year due to cyclone disruptions. The standout performer among major exporters is Guinea, where volumes surged by over 33%, consolidating its position as the second-largest Capesize employer, driven by the continued ramp-up in bauxite exports. Brazil posted modest growth of 2.8%, indicating relative stability in iron ore exports, while South Africa and Peru also recorded steady gains.
 
@@ -55,7 +55,7 @@ Beyond the top tier, shipments from second-tier exporters ranked 11th to 20th fe
 ![Στιγμιότυπο Οθόνης 2026 05 05 110713](assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_45c1875b2015.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2026 05 05 110713**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_45c1875b2015.png)
+> [Local Asset](assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_45c1875b2015.png)
 
 On the discharge side, demand growth is more evenly distributed but remains overwhelmingly Asia-centric. The top ten importers grew by 5.3% y-o-y, closely tracking the global average. China alone absorbed over 265 million tonnes, growing by 5.4% and maintaining its dominant position with roughly 70% of total Capesize discharge volumes. Notably, this growth came despite a sharp 55.3% decline in coal arrivals, with increases in iron ore and bauxite more than offsetting the shortfall. This underscores the continued centrality of Chinese raw material demand to the Capesize segment.
 
@@ -64,14 +64,14 @@ Elsewhere in Asia, demand trends were mixed. South Korea and India recorded soli
 ![Στιγμιότυπο Οθόνης 2026 05 05 110731](assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c97aae93276.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2026 05 05 110731**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c97aae93276.png)
+> [Local Asset](assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c97aae93276.png)
 
 Meanwhile, fleet growth is constrained, with only 8 of 56 scheduled Capesize newbuilding deliveries completed by mid-April, supporting current tonnage tightness. This strength in spot performance has also lifted asset values, especially vintage ones for bauxite trades, with 10-year-old Capesize units rising to about $53 million from $41 million a year ago, with the magnitude in price appreciation slightly exceeding that of a 5-year-old counterparty.
 
 ![Στιγμιότυπο Οθόνης 2026 05 05 110742](assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e81ac5083898.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2026 05 05 110742**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e81ac5083898.png)
+> [Local Asset](assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e81ac5083898.png)
 
 Nonetheless, downside risks remain and are likely to materialise with a lag. On the cargo supply side, Guinea presents a growing source of uncertainty, especially with the West African rainy season approaching. FOB netbacks for bauxite have been squeezed to marginal levels amid high Capesize freight rates and weaker CFR China prices, following strong export volumes in 1Q26. This raises the risk of export moderation, which could weigh on Atlantic Capesize demand later this year. The outlook is further pressured by higher bunker costs (albeit moderated over the past two weeks) linked to Middle East developments and a diesel shortage in Guinea, critical for mining operations (including the highly heralded Simandou iron ore project).
 
@@ -82,7 +82,7 @@ At the same time, policy risks over the mid-long-term horizon are intensifying. 
 ![Στιγμιότυπο Οθόνης 2026 05 05 110757](assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2af46e4247c5.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2026 05 05 110757**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2af46e4247c5.png)
+> [Local Asset](assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2af46e4247c5.png)
 
 It is also worth noting that the increase in China’s iron ore imports, supported by softer prices between January and February 2026, has largely been absorbed into inventories rather than translating into higher steel production. Since bottoming in late February, CFR China 62% iron ore prices have rebounded to around $110/mt per tonne as of last week, partly reflecting the impact of the Middle East conflict (via heightened voyage rates).
 
@@ -95,7 +95,7 @@ Furthermore, the exact colour of China’s economy remains a key uncertainty. Al
 ![Στιγμιότυπο Οθόνης 2026 05 05 110816](assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d70117b3dbc.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2026 05 05 110816**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d70117b3dbc.png)
+> [Local Asset](assets/2026-05-06_capesize-currents-rising-to-a-high-whats-next_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d70117b3dbc.png)
 
 According to Reuters calculations based on National Bureau of Statistics data, China’s new home prices fell 0.2% month-on-month in March, following a 0.3% decline in February. On an annual basis, prices dropped 3.4%, worsening from February’s 3.2% fall and marking the steepest decline in ten months.
 

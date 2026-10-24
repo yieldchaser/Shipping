@@ -40,21 +40,21 @@ The post-Soviet order lies in tatters, and the world is becoming more disjoined 
 ![Market Chart 1](assets/2023-05-09_note-idiosyncrasies_img_image00528829_79f4022deff2.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-09_note-idiosyncrasies_img_image00528829_79f4022deff2.jpg)
+> [Local Asset](assets/2023-05-09_note-idiosyncrasies_img_image00528829_79f4022deff2.jpg)
 
 Those who think this is simply a matter of Europe running a few months behind the US, should think again. European growth is slower, and the labour market is tighter and more sclerotic. As a result, where Americans see wage growth falling, Europeans see much stickier wage inflation.
 
 ![Market Chart 2](assets/2023-05-09_note-idiosyncrasies_img_image006281129_90e10c696bc3.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-09_note-idiosyncrasies_img_image006281129_90e10c696bc3.jpg)
+> [Local Asset](assets/2023-05-09_note-idiosyncrasies_img_image006281129_90e10c696bc3.jpg)
 
 And different inflation means significant policy divergence.
 
 ![Market Chart 3](assets/2023-05-09_note-idiosyncrasies_img_image00728429_d9b3d5c835f4.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-09_note-idiosyncrasies_img_image00728429_d9b3d5c835f4.jpg)
+> [Local Asset](assets/2023-05-09_note-idiosyncrasies_img_image00728429_d9b3d5c835f4.jpg)
 
 Which in turn means economic divergence, supply chain divergence and, in all probability, economies underperforming their potential (larger output gaps).
 
@@ -69,7 +69,7 @@ The opposite now stands. In this world where central authorities break tradition
 ![Market Chart 4](assets/2023-05-09_note-idiosyncrasies_img_image00828429_e612581e0aca.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-09_note-idiosyncrasies_img_image00828429_e612581e0aca.jpg)
+> [Local Asset](assets/2023-05-09_note-idiosyncrasies_img_image00828429_e612581e0aca.jpg)
 
 This is a world for the best security pickers to get their day in the sun, and the best asset allocators to think as broadly as they hadn’t had to for fourteen years. Choosing the right securities, or the right security pickers, will be paramount for portfolio returns.
 

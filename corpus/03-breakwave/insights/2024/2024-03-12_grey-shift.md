@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-12_grey-shift.html"
 ![Gibson Report4](assets/2024-03-12_grey-shift_img_gibsonreport4_f5dd041edf24.jpeg)
 
 > **Figure 1: Gibson Report4**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-12_grey-shift_img_gibsonreport4_f5dd041edf24.jpeg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-03-12_grey-shift_img_gibsonreport4_f5dd041edf24.jpeg)
 
 With OPEC+ set to roll over existing production cuts into Q2, the case of Russia is increasingly more complex. On top of a tightening sanctions regime, Russia is expected to make additional cuts of 471kbd on top of existing cuts of 500kbd, while current output levels stand at 9.5mbd for February according to government officials. These cuts are expected to include both crude and products and should help to keep Russian oil pricing firmly above the G7 price cap, particularly given higher benchmark brent prices. This comes as the Russian market is becoming increasingly more difficult for many players to get involved with; as sanctions enforcement increases, things could become even trickier going forward.
 
@@ -38,7 +38,7 @@ What is this likely to mean for the mainstream tanker market? Firstly, if lower 
 ![Screenshot 2024 03 12 14.22.03](assets/2024-03-12_grey-shift_img_screenshot2024-03-12142203_63dfacff2eb1.png)
 
 > **Figure 2: Screenshot 2024 03 12 14.22.03**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-12_grey-shift_img_screenshot2024-03-12142203_63dfacff2eb1.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-03-12_grey-shift_img_screenshot2024-03-12142203_63dfacff2eb1.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

@@ -29,28 +29,28 @@ Hydropower production totaled 161.7 billion kilowatt hours. This is up month-on-
 ![Chart 1](assets/2026-08-19_ongoing-strength-in-chinas-renewables_img_chart1_11a5f57e6857.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-19_ongoing-strength-in-chinas-renewables_img_chart1_11a5f57e6857.jpg)
+> [Local Asset](assets/2026-08-19_ongoing-strength-in-chinas-renewables_img_chart1_11a5f57e6857.jpg)
 
 Wind power output totaled 82 billion kilowatt hours. This is up month-on- month by 8.7 billion kilowatt hours (12%) and up year-on-year by 7.6 billion kilowatt hours (10%).
 
 ![Chart 2](assets/2026-08-19_ongoing-strength-in-chinas-renewables_img_chart2_ea5cb8d3f852.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-19_ongoing-strength-in-chinas-renewables_img_chart2_ea5cb8d3f852.jpg)
+> [Local Asset](assets/2026-08-19_ongoing-strength-in-chinas-renewables_img_chart2_ea5cb8d3f852.jpg)
 
 Nuclear power production totaled a record 45.8 billion kilowatt hours. This is up month-on-month by 3.1 billion kilowatt hours (7%) and up year-on-year by 2.8 billion kilowatt hours (7%).
 
 ![Chart 3](assets/2026-08-19_ongoing-strength-in-chinas-renewables_img_chart3_7102feb01799.jpg)
 
 > **Figure 3: Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-19_ongoing-strength-in-chinas-renewables_img_chart3_7102feb01799.jpg)
+> [Local Asset](assets/2026-08-19_ongoing-strength-in-chinas-renewables_img_chart3_7102feb01799.jpg)
 
 Solar power production totaled a record 70.3 billion kilowatt hours. This is up month-on-month by 2.4 billion kilowatt hours (4%) and up year-on-year by 14.4 billion kilowatt hours (26%). Solar power production records have now been set in four straight months.
 
 ![Chart 4](assets/2026-08-19_ongoing-strength-in-chinas-renewables_img_chart4_751d81c342b0.jpg)
 
 > **Figure 4: Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-19_ongoing-strength-in-chinas-renewables_img_chart4_751d81c342b0.jpg)
+> [Local Asset](assets/2026-08-19_ongoing-strength-in-chinas-renewables_img_chart4_751d81c342b0.jpg)
 
 ---
 

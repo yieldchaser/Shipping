@@ -26,7 +26,7 @@ Weaker US dollar and renewed supply issues pushed commodity ex-energy prices hig
 ![1700604868454](assets/2023-11-22_renewed-supply-risks-pushes-copper-higher_img_1700604868454_ee40080b1e62.png)
 
 > **Figure 1: 1700604868454**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-22_renewed-supply-risks-pushes-copper-higher_img_1700604868454_ee40080b1e62.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2023-11-22_renewed-supply-risks-pushes-copper-higher_img_1700604868454_ee40080b1e62.png)
 
 Strong demand from new energy sector and renewed supply issues pushed**copper**prices towards USD8,500/t. China’s spot premium moved higher amid ongoing inventories withdrawal at the SHFE. This was contrary to rising inventories at the LME. Renewed supply risks in Peru and Panama raised concerns of tightening mine supplies and supported prices. However, other metals remained under pressure. Nickel traded below USD17,000/t level due to weak demand and strong supply.
 

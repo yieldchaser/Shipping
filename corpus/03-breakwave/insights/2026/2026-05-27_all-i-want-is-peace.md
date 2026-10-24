@@ -43,7 +43,7 @@ But still, incentives drive behaviours, and who doesn’t want peace? World lead
 ![Market Chart 1](assets/2026-05-27_all-i-want-is-peace_img_image005_9935c738566b.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Yalebooks Yale](https://yalebooks.yale.edu/book/9780300246742/arms-and-influence/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-27_all-i-want-is-peace_img_image005_9935c738566b.png)
+> **Interactive Data & Source:** [Yalebooks Yale](https://yalebooks.yale.edu/book/9780300246742/arms-and-influence/) | [Local Asset](assets/2026-05-27_all-i-want-is-peace_img_image005_9935c738566b.png)
 
 Should we assume that inflation will come down fast, lower rate expectations or even lower short-term interest rates (as the President’s economic adviser, Kevin Hasset predicted) will automatically occur as well as a plummeting in longer-term borrowing costs and oil prices and, subsequently, a rally in risk assets?
 
@@ -51,7 +51,7 @@ Should we assume that inflation will come down fast, lower rate expectations or 
 
 > **Figure 2: Without Even Touching the Issue of Nuclear Energy**  
 > *Without even touching the issue of nuclear energy, we can just focus on geopolitics. Iran has played its hand, and will have incentives to play it again. The threshold for doing so will likely be much lower than in the past, and the marginal cost of doing so for the, mostly isolated, nation is also small. If Israel attacks Lebanon, the Strait could be closed. If the Houthis suffer strategic defeats at the hands of the Saudi-backed Yemeni government, the Strait could be closed. If terrorist attacks directly attributable to Iran happen, Iran can deny, and if that’s not enough, the Strait could be closed. And so it goes. If the US and allies wanted to really secure Hormuz, they would have no option other than to find a (likely very expensive and uncertain) military way to guard against drone attacks, surface-to-surface missiles, etc., or achieve outright regime change. Costs are heavily asymmetrical. The allies' marginal costs of securing Hormuz (missiles, electronic warfare, possibly a beach assault) are significantly above those of Iran closing it. Thomas Crombie Schelling's coercion theory predicted this. InArms and Influence(1966), he distinguished compellence from deterrence and argued that the side that can credibly threaten to destroy something the other side values does not need to be stronger. It just needs to hold the hostage.*  
-> **Interactive Data & Source:** [Yalebooks Yale](https://yalebooks.yale.edu/book/9780300246742/arms-and-influence/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-27_all-i-want-is-peace_img_image006_e4f325c6a928.png)
+> **Interactive Data & Source:** [Yalebooks Yale](https://yalebooks.yale.edu/book/9780300246742/arms-and-influence/) | [Local Asset](assets/2026-05-27_all-i-want-is-peace_img_image006_e4f325c6a928.png)
 
 Let’s wait for facts and take a good hard look at incentives. In the West, the twin headwinds of limited fiscal space and inflation eating into real incomes are putting pressure on governments, whose survival depends by and large on keeping consumers happy, to force an end to the Hormuz stand-off.
 

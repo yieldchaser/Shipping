@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-07-05_signal-dry-bulk-weekl
 ![Market Chart 1](assets/2023-07-05_signal-dry-bulk-weekly-report_img_unnamed-2023-07-05t103243836_f4f4beeb2d2f.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-05_signal-dry-bulk-weekly-report_img_unnamed-2023-07-05t103243836_f4f4beeb2d2f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-07-05_signal-dry-bulk-weekly-report_img_unnamed-2023-07-05t103243836_f4f4beeb2d2f.png)
 
 The initial days of July concluded on a positive note, with a buoyant sentiment surrounding vessel freight rates in the Capesize segment. Additionally, both the Panamax and Supramax segments experienced a firmer momentum. However, the uncertainty surrounding the potential extension of the Black Sea Grain Initiative casts a shadow over the outlook for smaller vessel sizes.
 
@@ -44,7 +44,7 @@ Freight Market, Supply, Demand and Port Congestion
 ![Market Rates ($/T) Firmer](assets/2023-07-05_signal-dry-bulk-weekly-report_img_unnamed-2023-07-05t103359039_8f613226048f.png)
 
 > **Figure 2: Market Rates ($/T) Firmer**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-05_signal-dry-bulk-weekly-report_img_unnamed-2023-07-05t103359039_8f613226048f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-07-05_signal-dry-bulk-weekly-report_img_unnamed-2023-07-05t103359039_8f613226048f.png)
 
 Towards the conclusion of the second quarter of this year, the freight rates experienced a notable upswing, signaling a more robust momentum in the industry. Simultaneously, the Capesize segment continues to demonstrate a consistent level of momentum, comparable to that observed ten weeks ago.
 
@@ -60,7 +60,7 @@ Supply Trend Lines for Key Load Areas
 ![Ballasters (# Vessels) Decreasing](assets/2023-07-05_signal-dry-bulk-weekly-report_img_unnamed-2023-07-05t103510658_86428f78d74c.png)
 
 > **Figure 3: Ballasters (# Vessels) Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-05_signal-dry-bulk-weekly-report_img_unnamed-2023-07-05t103510658_86428f78d74c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-07-05_signal-dry-bulk-weekly-report_img_unnamed-2023-07-05t103510658_86428f78d74c.png)
 
 The initial week of July remains consistent with the declining pattern observed towards the end of June, as the number of ballasters hovers around the annual average for most vessel sizes. However, it is noteworthy that the Panamax vessel size deviates from this trend, showcasing a distinct pattern in contrast to the other vessel categories.
 
@@ -74,7 +74,7 @@ The initial week of July remains consistent with the declining pattern observed 
 ![Summary of Dry Bulk Demand, per Ship Sizetonnedays Increasing](assets/2023-07-05_signal-dry-bulk-weekly-report_img_unnamed-2023-07-05t103603190_33ea553cb9ad.png)
 
 > **Figure 4: Summary of Dry Bulk Demand, per Ship Sizetonnedays Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-05_signal-dry-bulk-weekly-report_img_unnamed-2023-07-05t103603190_33ea553cb9ad.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-07-05_signal-dry-bulk-weekly-report_img_unnamed-2023-07-05t103603190_33ea553cb9ad.png)
 
 July witnessed a notable surge in demand growth, further propelling the positive momentum in the shipping industry. Among the various segments, the Capesize category continued to attract significant attention, as it consistently experienced weekly increases. However, the Handysize segment continued to face a declining trend during this period.
 
@@ -88,7 +88,7 @@ July witnessed a notable surge in demand growth, further propelling the positive
 ![Dry Bulk Ships Congested at Chinese Ports](assets/2023-07-05_signal-dry-bulk-weekly-report_img_unnamed-2023-07-05t103805287_519619a97a96.png)
 
 > **Figure 5: Dry Bulk Ships Congested at Chinese Ports**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-05_signal-dry-bulk-weekly-report_img_unnamed-2023-07-05t103805287_519619a97a96.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-07-05_signal-dry-bulk-weekly-report_img_unnamed-2023-07-05t103805287_519619a97a96.png)
 
 **The month of July maintains the positive trajectory observed in the previous month, as congestion levels for Supramax and Handysize vessel sizes continue to rise, indicating a higher volume of shipping bottlenecks.**
 

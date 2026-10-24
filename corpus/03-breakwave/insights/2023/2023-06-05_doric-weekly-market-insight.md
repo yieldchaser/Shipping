@@ -28,7 +28,7 @@ Amidst a tumbling spot market and a wounded market sentiment, the World Trade Or
 ![1 (5)](assets/2023-06-05_doric-weekly-market-insight_img_128529_a285fa55839e.png)
 
 > **Figure 1: 1 (5)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-05_doric-weekly-market-insight_img_128529_a285fa55839e.png)
+> [Local Asset](assets/2023-06-05_doric-weekly-market-insight_img_128529_a285fa55839e.png)
 
 Following a 2.4 percent quarter-on-quarter decline, the volume of world merchandise trade was down 0.8 percent year-on-year in the final quarter of 2022. The slump was driven by several related factors including the ongoing war in Ukraine, stubbornly high inflation in advanced economies, and tighter monetary policy globally, according to the Geneva-based intergovernmental organization. Although, the relaxation of the draconian zero-Covid policy restrictions in China appears to have boosted port traffic in the country, this was outweighed by falling throughput in European ports. Preliminary data suggest that international trade remained depressed in Q1 of 2023 as well, but increased export orders point to a turnaround in the following quarters. In this context, WTO forecast merchandise trade growth to be 1.7 percent in the current trading year.
 
@@ -37,11 +37,11 @@ Whilst WTO’s prophetic export orders index is pointing to a possible trade rec
 ![1 (6)](assets/2023-06-05_doric-weekly-market-insight_img_128629_dbf5af42140f.png)
 
 > **Figure 2: 1 (6)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-05_doric-weekly-market-insight_img_128629_dbf5af42140f.png)
+> [Local Asset](assets/2023-06-05_doric-weekly-market-insight_img_128629_dbf5af42140f.png)
 
 Weakness in China's manufacturing sector has been matched by soft outcomes in other important parts of the world's second-largest economy. Property investment and sales took a dive in April, at the same time as industrial profits were falling as much as 20.6 percent. Against this backdrop, Baltic Dry Index concluded in the three-digits this week for the first time since late February, currently balancing well-below the respective average value of the previous five years. As far as sub-markets go, the fact that Handies are currently outperforming all other segments at $9,805 daily is striking.
 
 ![1 (7)](assets/2023-06-05_doric-weekly-market-insight_img_128729_4816772dc34b.png)
 
 > **Figure 3: 1 (7)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-05_doric-weekly-market-insight_img_128729_4816772dc34b.png)
+> [Local Asset](assets/2023-06-05_doric-weekly-market-insight_img_128729_4816772dc34b.png)

@@ -27,12 +27,12 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-21_sidi-kerir-demand-imp
 ![Screenshot 2024 03 21 09.46.30](assets/2024-03-21_sidi-kerir-demand-impact-muted-crude-tanker-mileage-decline-driven-by-vlccs_img_screenshot2024-03-21094630_4b0e9c05e681.png)
 
 > **Figure 1: Screenshot 2024 03 21 09.46.30**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR-5MCBwCWf3hTUL6S2na-GCooj8XhXkBFnTKFvXiEAgoYoyyXhBHtjyiaIaidh9Q4-AczQek=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-21_sidi-kerir-demand-impact-muted-crude-tanker-mileage-decline-driven-by-vlccs_img_screenshot2024-03-21094630_4b0e9c05e681.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR-5MCBwCWf3hTUL6S2na-GCooj8XhXkBFnTKFvXiEAgoYoyyXhBHtjyiaIaidh9Q4-AczQek=) | [Local Asset](assets/2024-03-21_sidi-kerir-demand-impact-muted-crude-tanker-mileage-decline-driven-by-vlccs_img_screenshot2024-03-21094630_4b0e9c05e681.png)
 
 ![Screenshot 2024 03 21 09.46.56](assets/2024-03-21_sidi-kerir-demand-impact-muted-crude-tanker-mileage-decline-driven-by-vlccs_img_screenshot2024-03-21094656_a2e5327b4b83.png)
 
 > **Figure 2: Screenshot 2024 03 21 09.46.56**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR-5MCBwCWf3hTUL6S2na-GCooj8XhXkBFnTKFvXiEAgoYoyyXhBHtjyiaIaidh9Q4-AczQek=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-21_sidi-kerir-demand-impact-muted-crude-tanker-mileage-decline-driven-by-vlccs_img_screenshot2024-03-21094656_a2e5327b4b83.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR-5MCBwCWf3hTUL6S2na-GCooj8XhXkBFnTKFvXiEAgoYoyyXhBHtjyiaIaidh9Q4-AczQek=) | [Local Asset](assets/2024-03-21_sidi-kerir-demand-impact-muted-crude-tanker-mileage-decline-driven-by-vlccs_img_screenshot2024-03-21094656_a2e5327b4b83.png)
 
 - Crude exports from Egypt’s Sidi Kerir remain high so far in March, following on from a multi-year high in February. Rising exports from the Med port are a function of Middle East (mostly Saudi) crude flows along the SUMED pipeline which is regularly fed by the Red Sea port of Ain Sukhna.
 
@@ -42,7 +42,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-21_sidi-kerir-demand-imp
 ![Screenshot 2024 03 21 09.47.11](assets/2024-03-21_sidi-kerir-demand-impact-muted-crude-tanker-mileage-decline-driven-by-vlccs_img_screenshot2024-03-21094711_dea6bfebe2db.png)
 
 > **Figure 3: Screenshot 2024 03 21 09.47.11**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR-5MCCPhKc_14pQ10MMqcVb5wx9k7yfqO3oEHimGQkPc_HFIczOhQtLOP3-cM60A6B9Opeks=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-21_sidi-kerir-demand-impact-muted-crude-tanker-mileage-decline-driven-by-vlccs_img_screenshot2024-03-21094711_dea6bfebe2db.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR-5MCCPhKc_14pQ10MMqcVb5wx9k7yfqO3oEHimGQkPc_HFIczOhQtLOP3-cM60A6B9Opeks=) | [Local Asset](assets/2024-03-21_sidi-kerir-demand-impact-muted-crude-tanker-mileage-decline-driven-by-vlccs_img_screenshot2024-03-21094711_dea6bfebe2db.png)
 
 - MR tankers operating in the Pacific have lately seen elevated freight rates, which is driven by both supply and demand-side fundamentals. On the supply-side the tonnage flow rigidity imposed by limited Panama Canal transits has left the[Pacific](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR-5MCCPhKc_14pQ10MMqcVb5wx9k7yfqO3oEHimGQkPc_HFIczOhQtLOP3-cM60A6B9Opeks=)Basin overall undersupplied when compared with the[Atlantic](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR-5MCB3q-pcvmrC56re41In9CVMJr4PXWw8GDxNOdUg0qa4eP7l1MaSYckyj4iAolNA-AboQ=).
 
@@ -52,7 +52,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-21_sidi-kerir-demand-imp
 ![Screenshot 2024 03 21 09.47.22](assets/2024-03-21_sidi-kerir-demand-impact-muted-crude-tanker-mileage-decline-driven-by-vlccs_img_screenshot2024-03-21094722_ff7e3b9232ff.png)
 
 > **Figure 4: Screenshot 2024 03 21 09.47.22**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR-5MCB8BZVVDHZregp4hKPjGzoevcyDH5-fJjc5vbTUJEV40CVM6r802ZhDV7zkMddwebGNs=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-21_sidi-kerir-demand-impact-muted-crude-tanker-mileage-decline-driven-by-vlccs_img_screenshot2024-03-21094722_ff7e3b9232ff.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR-5MCB8BZVVDHZregp4hKPjGzoevcyDH5-fJjc5vbTUJEV40CVM6r802ZhDV7zkMddwebGNs=) | [Local Asset](assets/2024-03-21_sidi-kerir-demand-impact-muted-crude-tanker-mileage-decline-driven-by-vlccs_img_screenshot2024-03-21094722_ff7e3b9232ff.png)
 
 - Average laden completed voyage mileage for the main crude tanker classes (Aframax, Suezmax, VLCC) declined 4.2% m-o-m in February.[VLCCs](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR-5MCB8BZVVDHZregp4hKPjGzoevcyDH5-fJjc5vbTUJEV40CVM6r802ZhDV7zkMddwebGNs=)saw the most declines in average mileage, at 7.1% m-o-m, while[Aframax](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR-5MCCHTjqKEm8ZTARZ-AUFO-0aouZM_631d4wz5zadQNUAZZMU1pBU83mjzicfPi0LWjqy4=)and[Suezmax](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR-5MCB1qQhYa-2dAomKJoIJFNpXbGcRIQlwuo_4unw6KMTD1kUIcQ118fHZ0xDVtv2Cl1ZeQ=)mileage remained relatively flat m-o-m.
 
@@ -62,7 +62,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-21_sidi-kerir-demand-imp
 ![Screenshot 2024 03 21 09.47.45](assets/2024-03-21_sidi-kerir-demand-impact-muted-crude-tanker-mileage-decline-driven-by-vlccs_img_screenshot2024-03-21094745_7c480074bc9a.png)
 
 > **Figure 5: Screenshot 2024 03 21 09.47.45**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR-5MCCW4bnnD5csr7IKCRofTQ-r9-isy6EgiwVeozAJCvxdbPWAM7HoQ-j1-QJstXlUfDVx8=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-21_sidi-kerir-demand-impact-muted-crude-tanker-mileage-decline-driven-by-vlccs_img_screenshot2024-03-21094745_7c480074bc9a.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR-5MCCW4bnnD5csr7IKCRofTQ-r9-isy6EgiwVeozAJCvxdbPWAM7HoQ-j1-QJstXlUfDVx8=) | [Local Asset](assets/2024-03-21_sidi-kerir-demand-impact-muted-crude-tanker-mileage-decline-driven-by-vlccs_img_screenshot2024-03-21094745_7c480074bc9a.png)
 
 - Cross-Med rates ([TC6](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR-5MCCW4bnnD5csr7IKCRofTQ-r9-isy6EgiwVeozAJCvxdbPWAM7HoQ-j1-QJstXlUfDVx8=)) for Handysize/MR1 have been on an uptick since early February, and are currently at four-month highs.[Prompt availability](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR-5MCB38bmniqT8YLDbXxZ22UmS9S_skW983LBnE5XYcFYgFY1OJ6rJcW1Ib2_GRRzqWUYYI=)near one-year lows coupled with tanker[utilisation](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR-5MCCMsdJu5L2ke30WLJaKKKtodEqHokRn5LhSgOQO-w8tKepnOzAkleRV-GDcqryjFZkPU=)around one-year highs drove the increase in rates.
 

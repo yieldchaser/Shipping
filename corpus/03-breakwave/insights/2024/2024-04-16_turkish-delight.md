@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-04-16_turkish-delight.html"
 ![Gibson Image](assets/2024-04-16_turkish-delight_img_gibsonimage_9b7053fe6d38.png)
 
 > **Figure 1: Gibson Image**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-16_turkish-delight_img_gibsonimage_9b7053fe6d38.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-04-16_turkish-delight_img_gibsonimage_9b7053fe6d38.png)
 
 After just over a year of being offline, discussions about restarting the 450 kbd KRG pipeline remains at an impasse. Despite months of negotiations since March 2023, insufficient progress has been made to restart flows from Northern Iraq to the Turkish port of Ceyhan. Political tension between the Federal Iraqi Government, the autonomous Kurdistan Regional Government (KRG) and Turkey have blocked previous attempts at finding a resolution. For the tanker market, particularly the Aframax sector, this resulted in the loss of approximately 400 kbd of exports out of Ceyhan, reducing the supply of crude cargoes in the Mediterranean, forcing owners to look for other opportunities.
 
@@ -40,7 +40,7 @@ Although, the resumption of Northern exports should be good news for the Mediter
 ![Στιγμιότυπο Οθόνης 2024 04 16 130617](assets/2024-04-16_turkish-delight_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3ed265556b5b.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 04 16 130617**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-16_turkish-delight_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3ed265556b5b.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-04-16_turkish-delight_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3ed265556b5b.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

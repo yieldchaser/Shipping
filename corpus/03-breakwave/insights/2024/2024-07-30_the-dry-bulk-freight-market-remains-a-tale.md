@@ -71,7 +71,7 @@ While weekly cargo order volumes for coal and other commodities have fallen belo
 ![Στιγμιότυπο Οθόνης 2024 07 30 111406](assets/2024-07-30_the-dry-bulk-freight-market-remains-a-tale_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_24823c8c3b0e.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 30 111406**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-30_the-dry-bulk-freight-market-remains-a-tale_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_24823c8c3b0e.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-07-30_the-dry-bulk-freight-market-remains-a-tale_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_24823c8c3b0e.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

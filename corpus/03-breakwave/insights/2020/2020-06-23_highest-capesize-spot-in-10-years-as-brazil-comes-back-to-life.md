@@ -28,7 +28,7 @@ The end result is a global rally in rates for the large Capesize ships that is a
 
 > **Figure 1: Highest Spot Capesize Index in 10 Years for This Time of the Year**  
 > *Highest spot Capesize index in 10 years for this time of the year*  
-> **Interactive Data & Source:** [Zerohedge](https://www.zerohedge.com/markets/staggering-number-over-18-trillion-global-stimulus-2020-21-world-gdp) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-23_highest-capesize-spot-in-10-years-as-brazil-comes-back-to-life_img_seasonalcapei_0e2842d5b5b7.jpg)
+> **Interactive Data & Source:** [Zerohedge](https://www.zerohedge.com/markets/staggering-number-over-18-trillion-global-stimulus-2020-21-world-gdp) | [Local Asset](assets/2020-06-23_highest-capesize-spot-in-10-years-as-brazil-comes-back-to-life_img_seasonalcapei_0e2842d5b5b7.jpg)
 
 Still, freight futures remain skeptical for, well, the future. Although today futures rallied again as spot prices increased, on Capesizes,**futures are trading at steep discounts**to spot and continue to play a “catch up” game similar to last week. Such skepticism is understandable. After all, over the past decade, every spike was followed by a steep correction, and it is very difficult to argue that this time will be different. Such discounts though provide quite a bit of comfort to traders and investors alike, as history is the only guide for most market participants when freight rate volatility increases in such a dramatic way. Smaller size vessels are not as fortunate at the moment, and although the Capesize momentum is aiding sentiment, rates remain relatively low for Panamax/Supramax ships while futures prices are trading at steep premiums to spot.
 
@@ -37,7 +37,7 @@ As the Capesize index is approaching 30,000 (maybe even by tomorrow?) it is impo
 ![Io Net C3](assets/2020-06-23_highest-capesize-spot-in-10-years-as-brazil-comes-back-to-life_img_ionetc3_6840f0581389.jpg)
 
 > **Figure 2: Io Net C3**  
-> **Interactive Data & Source:** [Zerohedge](https://www.zerohedge.com/markets/staggering-number-over-18-trillion-global-stimulus-2020-21-world-gdp) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-23_highest-capesize-spot-in-10-years-as-brazil-comes-back-to-life_img_ionetc3_6840f0581389.jpg)
+> **Interactive Data & Source:** [Zerohedge](https://www.zerohedge.com/markets/staggering-number-over-18-trillion-global-stimulus-2020-21-world-gdp) | [Local Asset](assets/2020-06-23_highest-capesize-spot-in-10-years-as-brazil-comes-back-to-life_img_ionetc3_6840f0581389.jpg)
 
 With both miners and ship-owners happy(er), it is the end consumer (i.e. mainly steel mills in China) that is paying the steeper price. However, with the global stimulus now exceeding[**$18 Trillion**](https://www.zerohedge.com/markets/staggering-number-over-18-trillion-global-stimulus-2020-21-world-gdp)(~20% of global GDP), there is tremendous amount of liquidity around flowing into the economies while infrastructure plans and spending are increasing at a rapid pace across the globe.
 

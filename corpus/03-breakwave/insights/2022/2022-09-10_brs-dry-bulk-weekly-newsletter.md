@@ -26,7 +26,7 @@ Following 2 months of range-bound market, capsize’ fortunes deteriorated in Au
 ![Screenshot 20220908 151949 Samsung Notes](assets/2022-09-10_brs-dry-bulk-weekly-newsletter_img_screenshot-20220908-151949-samsungno_9df5dae4def7.jpg)
 
 > **Figure 1: Screenshot 20220908 151949 Samsung Notes**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-10_brs-dry-bulk-weekly-newsletter_img_screenshot-20220908-151949-samsungno_9df5dae4def7.jpg)
+> [Local Asset](assets/2022-09-10_brs-dry-bulk-weekly-newsletter_img_screenshot-20220908-151949-samsungno_9df5dae4def7.jpg)
 
 This meant that, in terms of capesize voyage intakes, we are far from a contraction in actual capsize shipment volumes as some market players claimed. As a matter of fact, it increased by 2.4% in the first eight months of 2022 (see chart above), especially during May to August. It climbed by 2.7% at an annualized rate after falling by 5.3% in March-22. Capesize shipments of iron ore didn’t further decline in August either, it maintained the same level of last year and improved by 4.6% from July onwards. Hence, if iron ore/ total capsize shipment volumes are not the main culprit to be blamed for the nosedive of capesize freight rates, where should the finger be pointed to instead?
 
@@ -35,14 +35,14 @@ As defined by AXS, the TonDay metric is calculated by multiplying the sailed cal
 ![Screenshot 20220908 152004 Samsung Notes](assets/2022-09-10_brs-dry-bulk-weekly-newsletter_img_screenshot-20220908-152004-samsungno_61425563baac.jpg)
 
 > **Figure 2: Screenshot 20220908 152004 Samsung Notes**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-10_brs-dry-bulk-weekly-newsletter_img_screenshot-20220908-152004-samsungno_61425563baac.jpg)
+> [Local Asset](assets/2022-09-10_brs-dry-bulk-weekly-newsletter_img_screenshot-20220908-152004-samsungno_61425563baac.jpg)
 
 The breakdown of exports by discharged zones deserved further scrutiny. There are some noticeable changes in top exporters’ destinations that could be attribute to the decline in TonDay. Shipments from Australia were nearly unchanged at around 75.8 mln mt over the past two months. However, that’s not the entire story. Due to muted steel demand in China, iron ore exports initially intended for Chinese ports were diverted towards Southeast Asian destinations, leading to a 4.4% m-o-m or a 14.8% y-o-y contraction in TonDay. Thanks to the geographical concentration of Australian iron ore buyers, 99% volumes of which came from Asia, such a shift in discharged countries had a modest negative impact on the aggregate TonDay.
 
 ![Screenshot 20220908 152016 Samsung Notes](assets/2022-09-10_brs-dry-bulk-weekly-newsletter_img_screenshot-20220908-152016-samsungno_371b18474439.jpg)
 
 > **Figure 3: Screenshot 20220908 152016 Samsung Notes**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-10_brs-dry-bulk-weekly-newsletter_img_screenshot-20220908-152016-samsungno_371b18474439.jpg)
+> [Local Asset](assets/2022-09-10_brs-dry-bulk-weekly-newsletter_img_screenshot-20220908-152016-samsungno_371b18474439.jpg)
 
 However, more damaging effects on freight could be created when a similar situation occurred to Brazilian shipments. TonDay of Brazilian iron ore exports experienced a 21.3% y-o-y slip in August, largely caused by reduction in shipments towards Far East including China and Japan. Scorching temperatures and a relentless “Zero-Covid” policy had seriously crippled steel demand in China. After a brief and minuscule recovery in steelmaking margins in early August-22, it quickly reverted to negative territory. This caused steel plants to be more guarded about restocking iron ore. Chinese portside inventories of Brazilian iron ore stayed elevated as appetite for high-grade products shriveled owing to feeble margins.
 
@@ -51,7 +51,7 @@ Consequently, Brazil cut back its shipments to China from 70.7% in July to 60.6%
 ![Screenshot 20220909 105309 Samsung Notes](assets/2022-09-10_brs-dry-bulk-weekly-newsletter_img_screenshot-20220909-105309-samsungno_58620cbe36eb.jpg)
 
 > **Figure 4: Screenshot 20220909 105309 Samsung Notes**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-10_brs-dry-bulk-weekly-newsletter_img_screenshot-20220909-105309-samsungno_58620cbe36eb.jpg)
+> [Local Asset](assets/2022-09-10_brs-dry-bulk-weekly-newsletter_img_screenshot-20220909-105309-samsungno_58620cbe36eb.jpg)
 
 ## Part Ii – Charting the Short-Term
 
@@ -60,7 +60,7 @@ Outlook Typically speaking, steel output in China tend to pick up as we approach
 ![Screenshot 20220909 105335 Samsung Notes](assets/2022-09-10_brs-dry-bulk-weekly-newsletter_img_screenshot-20220909-105335-samsungno_fa595fd78e41.jpg)
 
 > **Figure 5: Screenshot 20220909 105335 Samsung Notes**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-10_brs-dry-bulk-weekly-newsletter_img_screenshot-20220909-105335-samsungno_fa595fd78e41.jpg)
+> [Local Asset](assets/2022-09-10_brs-dry-bulk-weekly-newsletter_img_screenshot-20220909-105335-samsungno_fa595fd78e41.jpg)
 
 ### Capesize Fortunes
 
@@ -69,7 +69,7 @@ Hammered by persistent losses (March through July), steelmakers were forced to s
 ![Screenshot 20220909 112454 Samsung Notes](assets/2022-09-10_brs-dry-bulk-weekly-newsletter_img_screenshot-20220909-112454-samsungno_36a0c8f97b55.jpg)
 
 > **Figure 6: Screenshot 20220909 112454 Samsung Notes**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-10_brs-dry-bulk-weekly-newsletter_img_screenshot-20220909-112454-samsungno_36a0c8f97b55.jpg)
+> [Local Asset](assets/2022-09-10_brs-dry-bulk-weekly-newsletter_img_screenshot-20220909-112454-samsungno_36a0c8f97b55.jpg)
 
 Steel transaction volumes among major trading companies in China is at the bottom, indicating a lack confidence in hoarding steel before the aforementioned peak season. The appetite for speculative trading is nearly squeezed out. While steel inventories have been declining for the past two months, steel demand is still tepid at best. Should output ramp up again, inventory levels could easily surge in the absence of downstream demand, pressing down steel prices and impairing margins.
 

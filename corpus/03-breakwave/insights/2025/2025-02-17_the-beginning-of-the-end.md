@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-02-17_the-beginning-of-the-
 ![Tanker Off Port](assets/2025-02-17_the-beginning-of-the-end_img_tanker-off-port_2b501372fef3.jpg)
 
 > **Figure 1: Tanker Off Port**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-17_the-beginning-of-the-end_img_tanker-off-port_2b501372fef3.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-02-17_the-beginning-of-the-end_img_tanker-off-port_2b501372fef3.jpg)
 
 Last week we titled our report “White House in the Spotlight… Again” and we could just as well use the same headline again this week, with the tanker market outlook very much influenced by decisions made in the US and Moscow. This week, Trump announced that he and President Putin had spoken at length, the first confirmed direct contact between a Russian and US president since 2022. The agenda was of course focused on ending the war in Ukraine. For the first time since the conflict began, it appears there will now be a push for peace. How long this might take, and what that might look like remains unclear, but given how impactful the war has been for the tanker market, it is arguably the most critical factor impacting the medium-term outlook.
 
@@ -70,7 +70,7 @@ Whilst negotiations appear to now be somewhat inevitable, a successful conclusio
 ![Στιγμιότυπο Οθόνης 2025 02 17 152659](assets/2025-02-17_the-beginning-of-the-end_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_957cc9864be9.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 02 17 152659**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-17_the-beginning-of-the-end_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_957cc9864be9.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-02-17_the-beginning-of-the-end_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_957cc9864be9.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

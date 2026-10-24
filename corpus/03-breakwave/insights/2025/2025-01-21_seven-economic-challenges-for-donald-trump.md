@@ -53,7 +53,7 @@ Despite better-than-expected numbers last week, US inflation is at 2.9%, almost 
 ![Market Chart 1](assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image001_32186d86b24f.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/opinion/articles/2024-11-27/bessent-has-6-7-trillion-mountain-of-worry-waiting-at-treasury?sref=EiJDOcNb) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image001_32186d86b24f.png)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/opinion/articles/2024-11-27/bessent-has-6-7-trillion-mountain-of-worry-waiting-at-treasury?sref=EiJDOcNb) | [Local Asset](assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image001_32186d86b24f.png)
 
 ### 2. Bond Market Jitters
 
@@ -62,7 +62,7 @@ Since September, borrowing costs have risen by around 1 percentage point in many
 ![Market Chart 2](assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image002_a8f77b4b26f9.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/opinion/articles/2024-11-27/bessent-has-6-7-trillion-mountain-of-worry-waiting-at-treasury?sref=EiJDOcNb) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image002_a8f77b4b26f9.png)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/opinion/articles/2024-11-27/bessent-has-6-7-trillion-mountain-of-worry-waiting-at-treasury?sref=EiJDOcNb) | [Local Asset](assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image002_a8f77b4b26f9.png)
 
 ### 3. Higher Interest Rates
 
@@ -83,7 +83,7 @@ Despite last week’s rebound, after what markets considered to be a positive in
 ![Market Chart 3](assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image003_8273c856c461.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image003_8273c856c461.png)
+> [Local Asset](assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image003_8273c856c461.png)
 
 **7. A thin House majority and a “thirsty” party.**
 
@@ -96,7 +96,7 @@ A look at the above would suggest that President Trump’s problem is mostly cen
 ![Market Chart 4](assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image004_123a91b01434.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image004_123a91b01434.png)
+> [Local Asset](assets/2025-01-21_seven-economic-challenges-for-donald-trump_img_image004_123a91b01434.png)
 
 ---
 

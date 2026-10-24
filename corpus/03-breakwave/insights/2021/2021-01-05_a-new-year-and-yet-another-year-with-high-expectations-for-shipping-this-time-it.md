@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-01-05_a-new-year-and-yet-an
 
 > **Figure 1: Iron Ore**  
 > *Iron Ore, USD/Tonne*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-05_a-new-year-and-yet-another-year-with-high-expectations-for-shipping-this-time-it_img_image-asset_e11548fa0d20.jpeg)
+> [Local Asset](assets/2021-01-05_a-new-year-and-yet-another-year-with-high-expectations-for-shipping-this-time-it_img_image-asset_e11548fa0d20.jpeg)
 
 Every beginning a new year brings a plethora of predictions for the for the coming twelve months, with many pundits, in line with tradition, proclaiming it to be the year of shipping investments. Often, the sector fails to live up to the lofty expectations set in the beginning of a year, especially from an equity perspective. This year is no exception, with many analysts presenting bullish outlook for the year. However, given the incredibly special circumstances the global economy is facing, the shipping bulls may have a strong case, with maritime transportation being one of the beneficiaries of the post-pandemic recovery.
 
@@ -39,7 +39,7 @@ Iron ore and copper have retreated from their highs in the middle of December la
 ![Ulf 101](assets/2021-01-05_a-new-year-and-yet-another-year-with-high-expectations-for-shipping-this-time-it_img_ulf101_ac5545578f8a.jpg)
 
 > **Figure 2: Ulf 101**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-05_a-new-year-and-yet-another-year-with-high-expectations-for-shipping-this-time-it_img_ulf101_ac5545578f8a.jpg)
+> [Local Asset](assets/2021-01-05_a-new-year-and-yet-another-year-with-high-expectations-for-shipping-this-time-it_img_ulf101_ac5545578f8a.jpg)
 
 Assuming the global economy recovers as expected, with the vaccines being successful in fully controlling the COVID-virus, there is a case for shipping investments. With government stimulus packages fueling demand for commodities for infrastructure investments and industrial production, there would be an increasing demand for tonnage. Limited delivery of new tonnage and an increase in scrapping of vintage vessels is likely, in combination with increasing demand, support charter rates in the dry bulk sector during the coming months. Crude and product tankers are, on the other hand, likely to see any improvements later in the year when demand for transportation picks up with the easing travel restrictions and the returning demand for services. The freight markets are also likely to be reliable providers of both volatility and seasonality to investors, as the global economy emerges from the grip of the pandemic with a recovery unlikely to be without glitches.
 

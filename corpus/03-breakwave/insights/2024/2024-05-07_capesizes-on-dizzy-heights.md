@@ -65,7 +65,7 @@ However, in a longer perspective, developments during the past week mirrored tho
 ![Στιγμιότυπο Οθόνης 2024 05 07 124904](assets/2024-05-07_capesizes-on-dizzy-heights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ce38f8c3a9e.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 07 124904**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-07_capesizes-on-dizzy-heights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ce38f8c3a9e.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-05-07_capesizes-on-dizzy-heights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ce38f8c3a9e.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

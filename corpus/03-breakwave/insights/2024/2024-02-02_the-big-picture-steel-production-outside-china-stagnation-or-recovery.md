@@ -29,7 +29,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-02-02_the-big-picture-steel
 ![241](assets/2024-02-02_the-big-picture-steel-production-outside-china-stagnation-or-recovery_img_241_da3e46adec5c.png)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-02_the-big-picture-steel-production-outside-china-stagnation-or-recovery_img_241_da3e46adec5c.png)
+> [Local Asset](assets/2024-02-02_the-big-picture-steel-production-outside-china-stagnation-or-recovery_img_241_da3e46adec5c.png)
 
 After the rebound from the collapse of April 2020, a pattern of**declining monthly peaks emerges through the course of 2021-23**.
 
@@ -46,7 +46,7 @@ At the same time steel exports from India retreated 16% to 6.7m tonnes, whereas 
 ![242](assets/2024-02-02_the-big-picture-steel-production-outside-china-stagnation-or-recovery_img_242_46c21b0b0932.png)
 
 > **Figure 2: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-02_the-big-picture-steel-production-outside-china-stagnation-or-recovery_img_242_46c21b0b0932.png)
+> [Local Asset](assets/2024-02-02_the-big-picture-steel-production-outside-china-stagnation-or-recovery_img_242_46c21b0b0932.png)
 
 Perhaps one of the downside risks for the country’s steelmakers could be competition from China across Asian export markets.
 
@@ -69,7 +69,7 @@ The charts below demonstrate it**would not require a return to 2021 steel output
 ![243](assets/2024-02-02_the-big-picture-steel-production-outside-china-stagnation-or-recovery_img_243_0036b6013d90.png)
 
 > **Figure 3: 243**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-02_the-big-picture-steel-production-outside-china-stagnation-or-recovery_img_243_0036b6013d90.png)
+> [Local Asset](assets/2024-02-02_the-big-picture-steel-production-outside-china-stagnation-or-recovery_img_243_0036b6013d90.png)
 
 ### China
 

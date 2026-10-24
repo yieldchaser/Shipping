@@ -35,7 +35,7 @@ There have been several popular designs within this recent ordering spell. Withi
 ![Bmr 1 6.17](assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr1617_dcc95464f483.png)
 
 > **Figure 1: Bmr 1 6.17**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr1617_dcc95464f483.png)
+> [Local Asset](assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr1617_dcc95464f483.png)
 
 Of these newbuildings, 46% (11 vessels) are Newcastlemaxes, and despite this class attracting the most orders over the last few years, this figure represents a fall 35% YoY. Instead, orders of ‘Standard’ Capes have so far lead the growth in Cape ordering increasing five-fold YoY to 12 vessels.
 
@@ -44,7 +44,7 @@ The Panamax sector has however proved the most attractive for investors recently
 ![Bmr 2 6.17](assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr2617_4d672a493870.png)
 
 > **Figure 2: Bmr 2 6.17**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr2617_4d672a493870.png)
+> [Local Asset](assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr2617_4d672a493870.png)
 
 Ultramaxes have also proved popular, with this flexible design seeing orders so far this year grow by 33% YoY (though 25% lower relative to 2019) to 15 units. Meanwhile, the Large Handies have seen strong interest in 2021, already topping 2020’s total orders of 800k dwt by 6%. Strength in minor bulk trade in 2021 has made these vessels extremely competitive relative to the larger Supramaxes, with the spread in earnings between these two ship types tightening. This, combined with a relatively low level of Handy deliveries in previous years may be incentivising further orders.
 
@@ -59,7 +59,7 @@ Shipyards have experienced a surge in total demand for newbuildings so far in 20
 ![Bmr3 6.17](assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr3617_76675224213b.png)
 
 > **Figure 3: Bmr3 6.17**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr3617_76675224213b.png)
+> [Local Asset](assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr3617_76675224213b.png)
 
 A scarcity of yard slots due to the boxship ordering surge means that despite an uptick in interest in the dry bulk market, many yards do not have capacity to complete new bulker orders until 2023. Capesize orders are most affected by the spike in Containership interest due to their similar size, with the two ship types often requiring the same yard slots.
 
@@ -72,7 +72,7 @@ The massive rise in steel prices in 2021 has also seen bulker prices sharply inc
 ![Bmr4 6.17](assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr4617_770a1874b08b.png)
 
 > **Figure 4: Bmr4 6.17**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr4617_770a1874b08b.png)
+> [Local Asset](assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr4617_770a1874b08b.png)
 
 Meanwhile, as orders for new bulk carriers have been supressed by these trends, the second-hand market has been extremely hot, with prices of 5-year old ships up by 33% and 41% in the case of the Kamsarmaxes and Capesizes respectively. We expect activity in this sector to remain heated in the coming months, as owners use this avenue to renew fleets and engage in the strong spot market.
 
@@ -87,7 +87,7 @@ Green financing, outlined by the Green Bond Principles (GBP), has incentivised b
 ![Bmr 5 6.17](assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr5617_15dfa8357f78.png)
 
 > **Figure 5: Bmr 5 6.17**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr5617_15dfa8357f78.png)
+> [Local Asset](assets/2021-06-18_the-big-picture-dry-bulk-ordering_img_bmr5617_15dfa8357f78.png)
 
 We currently count three LNG-fuelled bulk carriers in the fleet along with 34 in the orderbook, with the next deliveries slated for 2022. Of these, 32 are Capesizes and LNG-fuelled ships have accounted for almost half of all YTD Cape orders.
 

@@ -25,7 +25,7 @@ This edition of Allied Quantumsea Research tracks the evolution of iron ore mark
 ![Στιγμιότυπο Οθόνης 2026 04 29 104406](assets/2026-04-29_the-simandou-effect-the-story-so-far_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7f81dfdc964.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 04 29 104406**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-29_the-simandou-effect-the-story-so-far_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7f81dfdc964.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-04-29_the-simandou-effect-the-story-so-far_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c7f81dfdc964.png)
 
 ### February Setback: The Fatal Accident & Production Halt
 
@@ -56,7 +56,7 @@ Although Simandou offers a significant pillar in the Capesize freight market, th
 ![Στιγμιότυπο Οθόνης 2026 04 29 104516](assets/2026-04-29_the-simandou-effect-the-story-so-far_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_018b40f3d2e7.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 04 29 104516**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-29_the-simandou-effect-the-story-so-far_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_018b40f3d2e7.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-04-29_the-simandou-effect-the-story-so-far_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_018b40f3d2e7.png)
 
 Initial volumes will be modest, but the growth trajectory could be significant. Australia is not going anywhere as China's dominant iron ore supplier, yet the arrival of credible alternatives will fundamentally shift the commercial dynamic, giving Chinese buyers a stronger hand at the negotiating table than they have had in years.
 

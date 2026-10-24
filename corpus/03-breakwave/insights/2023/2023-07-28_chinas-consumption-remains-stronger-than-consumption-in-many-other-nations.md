@@ -28,6 +28,6 @@ Among the specific categories that Commodore monitors, though, of note is last m
 ![Chart (1)](assets/2023-07-28_chinas-consumption-remains-stronger-than-consumption-in-many-other-nations_img_chart28129_9f48234a3535.jpg)
 
 > **Figure 1: Chart (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-28_chinas-consumption-remains-stronger-than-consumption-in-many-other-nations_img_chart28129_9f48234a3535.jpg)
+> [Local Asset](assets/2023-07-28_chinas-consumption-remains-stronger-than-consumption-in-many-other-nations_img_chart28129_9f48234a3535.jpg)
 
 Remaining very significant to us is that, overall, Chinese consumers continue to buy more goods than they did a year ago. In comparison, consumers in the United States and various other nations continue to purchase less goods than they did a year ago. Retail sales growth in the United States, in particular, has come in less than inflation during seven of the last eight months. Previously, the last time that such an utterly weak only-in-a-recession development occurred in the United States was back in 2009. Another sign of recession in the United States is that manufacturing production contracted on a year-on-year basis again last month. US manufacturing production has now contracted on a year-on-year basis during each of the last four months.

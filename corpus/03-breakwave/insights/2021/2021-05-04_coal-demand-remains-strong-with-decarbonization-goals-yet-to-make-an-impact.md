@@ -29,7 +29,7 @@ The central position of Chinese buyers in the market is likely to keep seaborne 
 ![A1](assets/2021-05-04_coal-demand-remains-strong-with-decarbonization-goals-yet-to-make-an-impact_img_a1_72396520a36c.png)
 
 > **Figure 1: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-04_coal-demand-remains-strong-with-decarbonization-goals-yet-to-make-an-impact_img_a1_72396520a36c.png)
+> [Local Asset](assets/2021-05-04_coal-demand-remains-strong-with-decarbonization-goals-yet-to-make-an-impact_img_a1_72396520a36c.png)
 
 The top three coal destinations, China, India and Japan, account for more than half of the seaborne imports of coal. Of the trio, only the latter is likely to reduce its dependency on the commodity in the near term. China and India, on the contrary, look set to increase the use of coal and there are also other Asian nations, such as Vietnam, which have new coal-fired power plants coming online that will offset some of the losses from Japan. Hence, the demand for the black stuff looks set to remain robust, despite falling out of favour in many developed countries.
 
@@ -40,7 +40,7 @@ The continued strong demand, in combination with a tight supply situation, has k
 ![A2](assets/2021-05-04_coal-demand-remains-strong-with-decarbonization-goals-yet-to-make-an-impact_img_a2_a5a663f306dd.jpg)
 
 > **Figure 2: A2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-04_coal-demand-remains-strong-with-decarbonization-goals-yet-to-make-an-impact_img_a2_a5a663f306dd.jpg)
+> [Local Asset](assets/2021-05-04_coal-demand-remains-strong-with-decarbonization-goals-yet-to-make-an-impact_img_a2_a5a663f306dd.jpg)
 
 The rising prices in the Chinese coal hubs are unlikely to lead to a softening of Bejing’s trade policy vis-à-vis Australia. There are no obvious signs of rapprochement between the two nations, if anything the relations could deteriorate further. The announcement by the Australian government that it is reviewing the Chinese ownership of a lease on a strategically important port in the northern city of Darwin, could provoke additional ire from the Chinese leadership. Canberra may consider the current state of the bilateral relationship so bad that any additional strain is unlikely to do much further harm to trade, as Australian iron ore exports look safe, for the time being at least, due to the lack of substitutes.
 

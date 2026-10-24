@@ -34,7 +34,7 @@ In reference to the dry bulk commodities, in specific, Chinese customs cleared 9
 ![1 (6)](assets/2023-05-16_doric-weekly-market-insight_img_128629_6fc98f1a0490.png)
 
 > **Figure 1: 1 (6)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-16_doric-weekly-market-insight_img_128629_6fc98f1a0490.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-05-16_doric-weekly-market-insight_img_128629_6fc98f1a0490.png)
 
 concerns that the economy’s recovery is losing steam. Many Chinese steel mills have reportedly lowered their prices amidst growing apprehension over steel demand during peak spring construction season. Against this backdrop, the most-traded September iron ore on China's Dalian Commodity Exchange reported losses today, marking a sixth consecutive weekly decline. Iron ore has slumped more than 20 percent since touching this year's maxima of $131 a tonne in mid-March, as the initial joyous feeling over China's lifting of Covid-19 restrictions subsided.
 
@@ -44,6 +44,6 @@ As far as the other two major commodities of the dry bulk spectrum go, China's s
 
 > **Figure 2: Data Source:doric**  
 > *Data source:Doric*  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-16_doric-weekly-market-insight_img_128729_fc79e8b9aa22.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-05-16_doric-weekly-market-insight_img_128729_fc79e8b9aa22.png)
 
 In a week overwhelmed by macro dynamics and lack of vividness down to the spot arena, the leading Baltic Dry Index trended sideways, in anticipation of what lies ahead.

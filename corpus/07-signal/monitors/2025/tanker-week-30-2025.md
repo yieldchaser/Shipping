@@ -38,7 +38,7 @@ The European Union’s latest sanctions on Nayara Energy, India’s Rosneft-link
 
 > **Figure 1: Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-30-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/688349b03aa08c025a68bfd4_AD_4nXepB0uUNQCBttsCaYUr6uYnOGf1nUxudc68X_9jmwvRaJr_FXgU60MavOlgMGfZdb0pVbSZn1CoL4EhJ1KCMUPKNPRdh8vFlobV-u7VtPjDFYhR3Z9JGgA-gC1mgi7M3QGgHwALow.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-30-2025) | [Local Asset](../../images/688349b03aa08c025a68bfd4_AD_4nXepB0uUNQCBttsCaYUr6uYnOGf1nUxudc68X_9jmwvRaJr_FXgU60MavOlgMGfZdb0pVbSZn1CoL4EhJ1KCMUPKNPRdh8vFlobV-u7VtPjDFYhR3Z9JGgA-gC1mgi7M3QGgHwALow.png)
 
 A closer examination of India’s monthly clean oil exports shows a sharp peak in March, followed by a marked decline through April and May. This trend coincides with the typical second-quarter maintenance season at major Indian refineries, most notably at Reliance’s Jamnagar complex, the world’s largest refining hub and a critical source of clean product exports. In April, media reports confirmed that Reliance shut down one crude distillation unit along with several secondary units at Jamnagar for a planned 21-day maintenance. The export slowdown appears to have primarily affected middle distillates, which comprised nearly 79% of all clean cargoes shipped during the period.
 

@@ -31,7 +31,7 @@ tags:
 ![65c3534264234debef9be375 Chart of the Week](../../images/65c3534264234debef9be375_chart of the week.png)
 
 > **Figure 1: 65c3534264234debef9be375 Chart of the Week**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-06-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/65c3534264234debef9be375_chart of the week.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-06-2024) | [Local Asset](../../images/65c3534264234debef9be375_chart of the week.png)
 
 The second week of February began with a rebound in the Baltic Capesize Index, surpassing the 2,000 points mark, one of the highest points seen in the last two weeks. Meanwhile, smaller vessel size categories continued to trend downward. It remains to be seen whether there will be sustained firmness in the market just a few days before the start of the Chinese New Year. Notably, despite the high numbers of ballast ships for Capesize and Panamax vessels in Southeast Africa, demand growth is showing a decreasing pace.
 

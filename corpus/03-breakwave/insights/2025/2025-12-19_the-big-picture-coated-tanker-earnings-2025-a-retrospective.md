@@ -37,7 +37,7 @@ LR2 tankers began shifting into dirty trades early in the year after US sanction
 ![A435 Image 0 1766079308482](assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_a435-image-0-1766079308482_44e139eae5fe.png)
 
 > **Figure 1: A435 Image 0 1766079308482**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_a435-image-0-1766079308482_44e139eae5fe.png)
+> [Local Asset](assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_a435-image-0-1766079308482_44e139eae5fe.png)
 
 *Source: Vortexa*
 
@@ -46,7 +46,7 @@ The incentive to move to the dirty market has been helped by VLCC/Suezmax poachi
 ![B722 Image 1 1766079308486](assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_b722-image-1-1766079308486_24aa1ab9ccbf.png)
 
 > **Figure 2: B722 Image 1 1766079308486**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_b722-image-1-1766079308486_24aa1ab9ccbf.png)
+> [Local Asset](assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_b722-image-1-1766079308486_24aa1ab9ccbf.png)
 
 *Source: Vortexa*
 
@@ -88,7 +88,7 @@ A widening gulf between supply in the East versus the Atlantic through Q3 accent
 ![A6a7 Image 2 1766079308488](assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_a6a7-image-2-1766079308488_acf7dabfbfdf.png)
 
 > **Figure 3: A6a7 Image 2 1766079308488**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_a6a7-image-2-1766079308488_acf7dabfbfdf.png)
+> [Local Asset](assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_a6a7-image-2-1766079308488_acf7dabfbfdf.png)
 
 *Source: Vortexa*
 
@@ -99,7 +99,7 @@ A widening gulf between supply in the East versus the Atlantic through Q3 accent
 ![64a6 Image 3 1766079308490](assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_64a6-image-3-1766079308490_047dfb77141e.png)
 
 > **Figure 4: 64a6 Image 3 1766079308490**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_64a6-image-3-1766079308490_047dfb77141e.png)
+> [Local Asset](assets/2025-12-19_the-big-picture-coated-tanker-earnings-2025-a-retrospective_img_64a6-image-3-1766079308490_047dfb77141e.png)
 
 **Time charter**rates for LR2s have improved since an April low of $29k/day for one year. The one-year rate is now up to $36.5k/day. By the end of 2025, MR one year TC rates were back to where they started at just over $23k/day.
 

@@ -38,7 +38,7 @@ With the United States and Iran breaking the ceasefire again this week, the frei
 
 > **Figure 1: Crude Tanker Ordering by Vessel Class Category**  
 > *Figure 1: Crude tanker ordering by vessel class category. Source: AXS Insights, Tanker Orderbook*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a50c959112c83b85a9a9389_168f4c33.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2026) | [Local Asset](../../images/6a50c959112c83b85a9a9389_168f4c33.png)
 
 
 ## Executive Summary
@@ -63,7 +63,7 @@ The Baltic Dirty Tanker Index (BDTI) rose to **1,939**, up **4.0%** week-on-week
 
 > **Figure 2: TD3C (270k Middle East Gulf to China)**  
 > *Figure 2: TD3C (270k Middle East Gulf to China). Source: Signal Ocean, Market Prices*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a50c959112c83b85a9a93a4_15e7fe74.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2026) | [Local Asset](../../images/6a50c959112c83b85a9a93a4_15e7fe74.png)
 
 **Freight snapshot (TD3C):  343 WS  ·  Day +7.1%  ·  Week +16.8%  ·  52-wk high 599  ·  wartime peak 501**
 
@@ -77,7 +77,7 @@ Isolating the VLCC segment shows contracting rising to **204 units in H1 2026**,
 
 > **Figure 3: Crude Tanker Ordering by Vessel Class Category**  
 > *Figure 3: Crude tanker ordering by vessel class category. Source: AXS Insights, Tanker Orderbook*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a50c959112c83b85a9a9389_168f4c33.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2026) | [Local Asset](../../images/6a50c959112c83b85a9a9389_168f4c33.png)
 
 **2006 vs. H1 2026:  VLCC 48 → 204  ·  Suezmax 57 → 54  ·  Aframax/LR2 44 → 3**
 
@@ -91,7 +91,7 @@ Of the **261 crude tankers on order**, **216 vessels (83%)** have been placed at
 
 > **Figure 5: Orders by Building Country**  
 > *Figure 5: Orders by building country. Source: AXS Insights, Tanker Orderbook*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a50c959112c83b85a9a938c_901b5aec.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2026) | [Local Asset](../../images/6a50c959112c83b85a9a938c_901b5aec.png)
 
 At the aggregate orderbook level, China accounts for **72% of ships** and **75% of deadweight on order**, versus **13% of ships** and **20% of deadweight** for South Korea, while Japan represents **1% of ships** and **3% of deadweight**.
 
@@ -100,7 +100,7 @@ At the aggregate orderbook level, China accounts for **72% of ships** and **75% 
 
 > **Figure 6: Orders by DWT and Building Country**  
 > *Figure 6: Orders by DWT and building country. Source: AXS Insights, Tanker Orderbook*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a50c959112c83b85a9a93a1_13b4db5f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2026) | [Local Asset](../../images/6a50c959112c83b85a9a93a1_13b4db5f.png)
 
 **Build-country split (ships on order):  China 432 (72%)  ·  Korea 139 (23%) · Japan 22 (4%)**
 
@@ -113,14 +113,14 @@ At the aggregate orderbook level, China accounts for **72% of ships** and **75% 
 ![Propulsion — Conventional Propulsion Regains Momentum](../../images/6a50c959112c83b85a9a939b_f7081531.png)
 
 > **Figure 6: Propulsion — Conventional Propulsion Regains Momentum**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a50c959112c83b85a9a939b_f7081531.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2026) | [Local Asset](../../images/6a50c959112c83b85a9a939b_f7081531.png)
 
 
 ![& 7: Ordering by Propulsion Type & Orderbook Alt-Fuel Share](../../images/6a50c959112c83b85a9a9395_ea57c8e5.png)
 
 > **Figure 6: & 7: Ordering by Propulsion Type & Orderbook Alt-Fuel Share**  
 > *Figure 6 & 7: Ordering by propulsion type & orderbook alt-fuel share. Source: AXS Insights, Tanker Orderbook*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a50c959112c83b85a9a9395_ea57c8e5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2026) | [Local Asset](../../images/6a50c959112c83b85a9a9395_ea57c8e5.png)
 
 
 ## Delivery Schedule — 2028 Marks the Peak of the Pipeline
@@ -132,7 +132,7 @@ The delivery schedule is heavily over the next three years, with volumes buildin
 
 > **Figure 8: Crude Tanker Planned Deliveries by Vessel Class Category**  
 > *Figure 8: Crude tanker planned deliveries by vessel class category. Source: AXS Insights, Tanker Orderbook*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a50c959112c83b85a9a9398_51768991.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2026) | [Local Asset](../../images/6a50c959112c83b85a9a9398_51768991.png)
 
 
 ## Orderbook Evolution — The 2008 Record Is Broken
@@ -144,7 +144,7 @@ The orderbook reflects the scale of the current investment cycle. Contracting du
 
 > **Figure 9: Orderbook Evolution by Vessel Class Category**  
 > *Figure 9: Orderbook evolution by vessel class category. Source: AXS Insights, Tanker Orderbook*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a50c959112c83b85a9a9392_c3f83630.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2026) | [Local Asset](../../images/6a50c959112c83b85a9a9392_c3f83630.png)
 
 **Orderbook milestone:  600+ dirty tankers on order  ·  above the 2008 all-time peak  ·  VLCC-led**
 
@@ -158,7 +158,7 @@ The latest valuation data extend the trend highlighted in our [Week 19 Tanker Ma
 
 > **Figure 10: VLCC Benchmark Valuations by Age**  
 > *Figure 10: VLCC benchmark valuations by age. Source: Signal Ocean, Valuations*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a50c959112c83b85a9a939e_fd725507.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2026) | [Local Asset](../../images/6a50c959112c83b85a9a939e_fd725507.png)
 
 **VLCC benchmark YoY:  New Build $129.8M (+4%)  ·  Resale $174.5M (+24%)  ·  5Y $143.0M (+24%)  ·  20Y $59.7M (+64%)**
 

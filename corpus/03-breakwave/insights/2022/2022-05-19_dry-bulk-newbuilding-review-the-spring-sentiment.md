@@ -40,21 +40,21 @@ In the below Table we have summarised the new orders reported since the beginnin
 ![Market Chart 1](assets/2022-05-19_dry-bulk-newbuilding-review-the-spring-sentiment_img_image011_a9b272d43651.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-19_dry-bulk-newbuilding-review-the-spring-sentiment_img_image011_a9b272d43651.jpg)
+> [Local Asset](assets/2022-05-19_dry-bulk-newbuilding-review-the-spring-sentiment_img_image011_a9b272d43651.jpg)
 
 Looking at ordering trends per vessel size, (Chart 1) we can view the spike of April in the Ultramax segment mentioned above, while activity in the other segments appears insignificant to alter the orderbook to existing fleet ratio.
 
 ![Market Chart 2](assets/2022-05-19_dry-bulk-newbuilding-review-the-spring-sentiment_img_image015_05b2f6f08c9a.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-19_dry-bulk-newbuilding-review-the-spring-sentiment_img_image015_05b2f6f08c9a.jpg)
+> [Local Asset](assets/2022-05-19_dry-bulk-newbuilding-review-the-spring-sentiment_img_image015_05b2f6f08c9a.jpg)
 
 With reference to the allocation between the yards, 60% of Ultramax orders were placed at Chinese shipyards (Chart 2). The Chinese yards are growing their share of newbuilding ordering which is also affecting the prices of the units that are also rising as a result of the renewed appetite for Chinese built vessels.
 
 ![Market Chart 3](assets/2022-05-19_dry-bulk-newbuilding-review-the-spring-sentiment_img_image01628129_c3481e9f1d39.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-19_dry-bulk-newbuilding-review-the-spring-sentiment_img_image01628129_c3481e9f1d39.jpg)
+> [Local Asset](assets/2022-05-19_dry-bulk-newbuilding-review-the-spring-sentiment_img_image01628129_c3481e9f1d39.jpg)
 
 ## Indicative Chinese Newbuilding Prices
 
@@ -63,7 +63,7 @@ The activity of new orders at Chinese yards in April brings a spike in prices. I
 ![Market Chart 4](assets/2022-05-19_dry-bulk-newbuilding-review-the-spring-sentiment_img_image017_c60e94c03b48.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-19_dry-bulk-newbuilding-review-the-spring-sentiment_img_image017_c60e94c03b48.jpg)
+> [Local Asset](assets/2022-05-19_dry-bulk-newbuilding-review-the-spring-sentiment_img_image017_c60e94c03b48.jpg)
 
 ## Chinese Newbuilding Price Index
 
@@ -74,7 +74,7 @@ The index was higher in major vessel size categories: Newcastlemax (1.4%), Capes
 ![Market Chart 5](assets/2022-05-19_dry-bulk-newbuilding-review-the-spring-sentiment_img_image018_3035e12c0863.jpg)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-19_dry-bulk-newbuilding-review-the-spring-sentiment_img_image018_3035e12c0863.jpg)
+> [Local Asset](assets/2022-05-19_dry-bulk-newbuilding-review-the-spring-sentiment_img_image018_3035e12c0863.jpg)
 
 ## LNG-Fuelled Fleet Development
 
@@ -83,7 +83,7 @@ Capesize orderbook acquires the largest share in the overall dry bulk orderbook 
 ![Market Chart 6](assets/2022-05-19_dry-bulk-newbuilding-review-the-spring-sentiment_img_image019_baf12080aa43.jpg)
 
 > **Figure 6: Market Chart 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-19_dry-bulk-newbuilding-review-the-spring-sentiment_img_image019_baf12080aa43.jpg)
+> [Local Asset](assets/2022-05-19_dry-bulk-newbuilding-review-the-spring-sentiment_img_image019_baf12080aa43.jpg)
 
 ## Tonnage Supply Growth Projections
 
@@ -92,7 +92,7 @@ The orderbook to fleet ratio currenlty stands at nearly 8%, in terms of million 
 ![Market Chart 7](assets/2022-05-19_dry-bulk-newbuilding-review-the-spring-sentiment_img_image020_47790b01966e.jpg)
 
 > **Figure 7: Market Chart 7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-19_dry-bulk-newbuilding-review-the-spring-sentiment_img_image020_47790b01966e.jpg)
+> [Local Asset](assets/2022-05-19_dry-bulk-newbuilding-review-the-spring-sentiment_img_image020_47790b01966e.jpg)
 
 ## Going Forward
 

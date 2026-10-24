@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-10-01_global-trade-more-fri
 ![By Ulf Bergman](assets/2020-10-01_global-trade-more-friction-ahead_img_image-asset_cebc81573e47.jpeg)
 
 > **Figure 1: By Ulf Bergman**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-01_global-trade-more-friction-ahead_img_image-asset_cebc81573e47.jpeg)
+> [Local Asset](assets/2020-10-01_global-trade-more-friction-ahead_img_image-asset_cebc81573e47.jpeg)
 
 To be polite, one could label the first debate ahead of the presidential election in the US as inconclusive. From a global trade and shipping perspective, an observer can be forgiven for feeling none the wiser. The agenda was decidedly domestic and details on future foreign relations remained elusive.
 
@@ -33,7 +33,7 @@ EU leaders are also likely to announce a desire to rebalance the economic relati
 ![Source: European Commission](assets/2020-10-01_global-trade-more-friction-ahead_img_ulfpic5_a7438e861d88.png)
 
 > **Figure 2: Source: European Commission**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-01_global-trade-more-friction-ahead_img_ulfpic5_a7438e861d88.png)
+> [Local Asset](assets/2020-10-01_global-trade-more-friction-ahead_img_ulfpic5_a7438e861d88.png)
 
 Source: European Commission
 
@@ -42,6 +42,6 @@ The World Trade Organization (WTO) also looks set to award the EU the right to i
 ![Market Chart 3](assets/2020-10-01_global-trade-more-friction-ahead_img_image-asset_88cf3dbd77d1.jpeg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-01_global-trade-more-friction-ahead_img_image-asset_88cf3dbd77d1.jpeg)
+> [Local Asset](assets/2020-10-01_global-trade-more-friction-ahead_img_image-asset_88cf3dbd77d1.jpeg)
 
 If the EU will impose the new tariffs ahead of the US election remains to be seen, but an escalating trade war between the two sides looks like the last thing needed with fragile recoveries on both sides of the pond. The Eurozone posted its strongest industrial growth in two years in September, according to IHS Markit, but the growth was centered on Germany and other areas more modest. The European Central Bank also expects the recovery to be slow and uneven. The US posted better than expected unemployment figures today, but levels remain well above of the ones recorded before the COVID-19 pandemic.

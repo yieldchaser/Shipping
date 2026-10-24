@@ -27,7 +27,7 @@ A lack of progress towards a peace deal in Ukraine pushed oil higher. However, a
 ![Στιγμιότυπο Οθόνης 2025 08 19 112143](assets/2025-08-19_markets-mixed-amid-subdued-trading_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d50076e6180a.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 08 19 112143**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-19_markets-mixed-amid-subdued-trading_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d50076e6180a.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-08-19_markets-mixed-amid-subdued-trading_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d50076e6180a.png)
 
 ### Market Commentary
 
@@ -48,7 +48,7 @@ LNG has become increasingly imports for Europe as piped gas from Russia drys up.
 ![Στιγμιότυπο Οθόνης 2025 08 19 112232](assets/2025-08-19_markets-mixed-amid-subdued-trading_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4db6e59f7c1e.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 08 19 112232**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-19_markets-mixed-amid-subdued-trading_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4db6e59f7c1e.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-08-19_markets-mixed-amid-subdued-trading_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4db6e59f7c1e.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

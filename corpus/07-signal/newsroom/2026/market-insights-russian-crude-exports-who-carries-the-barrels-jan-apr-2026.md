@@ -29,7 +29,7 @@ tags:
 
 > **Figure 1: Signal Ocean Platform — Oil Flows Dashboard, Russian Crude Exports, January–april 2026**  
 > *Signal Ocean Platform — Oil Flows dashboard, Russian crude exports, January–April 2026*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-russian-crude-exports-who-carries-the-barrels-jan-apr-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a157a6f70609542444348f6_5d346aa5.jpeg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-russian-crude-exports-who-carries-the-barrels-jan-apr-2026) | [Local Asset](../../images/6a157a6f70609542444348f6_5d346aa5.jpeg)
 
 
 ## Executive Overview
@@ -46,7 +46,7 @@ Three findings stand out. First, Western (G7-coalition) commercial operators are
 
 > **Figure 2: Source: Voyage Records, Jan–apr 2026**  
 > *Source: Voyage records, Jan–Apr 2026. Green cells = excluding CPC Blend (true-Russian-origin only).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-russian-crude-exports-who-carries-the-barrels-jan-apr-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a1579e067cd794807f32b0a_Screenshot 2026-05-26 at 10.27.45.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-russian-crude-exports-who-carries-the-barrels-jan-apr-2026) | [Local Asset](../../images/6a1579e067cd794807f32b0a_Screenshot 2026-05-26 at 10.27.45.png)
 
 The Western market share, initially recorded at 38%, decreases to **25.7%** upon the exclusion of CPC Blend voyages. This represents the most significant variance identified in the study: specifically, of the 299 Western voyages, **134** **—** **representing** **approximately** **50%** **—** **constitute** **CPC** **Blend** **operations** **at** **the** **Novorossiysk-CPC** **terminal**, involving the transport of Kazakhstan-origin crude as opposed to Russian-origin petroleum.
 
@@ -75,7 +75,7 @@ CPC Blend is loaded at the Novorossiysk-CPC marine terminal but originates from 
 
 > **Figure 3: Source: Voyage Records — Western (g7-Coalition) Operators Only**  
 > *Source: Voyage records — Western (G7-coalition) operators only. Yellow = CPC Blend; green = true-Russian-origin.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-russian-crude-exports-who-carries-the-barrels-jan-apr-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a1579f9da54831292483a4e_Screenshot 2026-05-26 at 10.27.55.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-russian-crude-exports-who-carries-the-barrels-jan-apr-2026) | [Local Asset](../../images/6a1579f9da54831292483a4e_Screenshot 2026-05-26 at 10.27.55.png)
 
 The distribution of voyages across vessel classes reveals a distinct operational preference based on the origin of the cargo. Suezmax vessels are split nearly evenly between CPC Blend and true-Russian crude, with 112 voyages (53.8%) dedicated to the Kazakhstan-origin CPC Blend and 96 voyages (46.2%) carrying true-Russian petroleum. In contrast, Aframaxes demonstrate a significant lean toward true-Russian exports, with 58 out of 80 total voyages (72.5%) transporting Russian-origin cargo, while only 22 voyages are attributed to CPC operations. Participation from the MR2 class is uniquely specialized, as all 11 recorded voyages were exclusively utilized for true-Russian trades.
 
@@ -96,7 +96,7 @@ Voyage activity within the Western group demonstrated a clear upward trajectory 
 
 > **Figure 4: Source: Voyage Records — Western (g7-Coalition) Operators, Jan–apr 2026**  
 > *Source: Voyage records — Western (G7-coalition) operators, Jan–Apr 2026*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-russian-crude-exports-who-carries-the-barrels-jan-apr-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a157a10da54831292483d3c_Screenshot 2026-05-26 at 10.28.04.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-russian-crude-exports-who-carries-the-barrels-jan-apr-2026) | [Local Asset](../../images/6a157a10da54831292483d3c_Screenshot 2026-05-26 at 10.28.04.png)
 
 
 ## Sanctions Exposure
@@ -108,7 +108,7 @@ The increase in the sanctioned share from 46.9% to 56.9% is primarily the result
 
 > **Figure 5: Source: Voyage Records, Jan–apr 2026**  
 > *Source: Voyage records, Jan–Apr 2026. Sanctioned = vessel on EU, OFAC or OFSI designation lists. Green cells = excluding CPC.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-russian-crude-exports-who-carries-the-barrels-jan-apr-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a157a29de48c66ab0bb38e8_Screenshot 2026-05-26 at 10.28.12.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-russian-crude-exports-who-carries-the-barrels-jan-apr-2026) | [Local Asset](../../images/6a157a29de48c66ab0bb38e8_Screenshot 2026-05-26 at 10.28.12.png)
 
 
 ## Western Fleet Age - Structurally Old, Particularly on True-Russian Cargo
@@ -120,7 +120,7 @@ The 162 Western-operated vessels active in this trade are weighted to older tonn
 
 > **Figure 6: Source: Voyage Records — Western (g7-Coalition) Operators**  
 > *Source: Voyage records — Western (G7-coalition) operators. Age calculated as (2026 − Year Built).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-russian-crude-exports-who-carries-the-barrels-jan-apr-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a157a41da54831292483eec_Screenshot 2026-05-26 at 10.28.25.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-russian-crude-exports-who-carries-the-barrels-jan-apr-2026) | [Local Asset](../../images/6a157a41da54831292483eec_Screenshot 2026-05-26 at 10.28.25.png)
 
 Looking at the 110 Western vessels that touched true-Russian-origin cargo specifically (the ex-CPC view): **64 of 110 are over ten years old (58%)**, and only 16 are under five years old (15%). The implication is that the Western fleet that remains active in true-Russian-crude movement after CPC is stripped out is meaningfully older than the headline Western fleet figure suggests, and is dominated by Suezmax tonnage approaching the end of conventional trading life.
 

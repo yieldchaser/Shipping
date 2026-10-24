@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-02-09_reassessing-russian-s
 ![Tankerrr 2 1](assets/2026-02-09_reassessing-russian-supply_img_tankerrr-2-1_89290ba50318.jpg)
 
 > **Figure 1: Tankerrr 2 1**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-09_reassessing-russian-supply_img_tankerrr-2-1_89290ba50318.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-02-09_reassessing-russian-supply_img_tankerrr-2-1_89290ba50318.jpg)
 
 Last week, President Trump announced that the United States and India had agreed a trade deal. Whilst the deal is not expected to be signed until March, Trump claimed that India had committed to stopping imports of Russian oil. For the tanker markets, such a move would be significant and lead to further adjustments in oil trade flows. However, India faces a number of challenges in weaning itself off Russian oil, whilst Russia itself will struggle to redirect Indian volumes to alternative markets. Notably, the Indian government is yet to acknowledge the agreement to cease Russian oil imports entirely.
 
@@ -38,7 +38,7 @@ In the near term it seems certain that India will further reduce Russian imports
 ![Στιγμιότυπο Οθόνης 2026 02 09 095218](assets/2026-02-09_reassessing-russian-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dfb418c3ac34.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 02 09 095218**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-09_reassessing-russian-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dfb418c3ac34.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-02-09_reassessing-russian-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dfb418c3ac34.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

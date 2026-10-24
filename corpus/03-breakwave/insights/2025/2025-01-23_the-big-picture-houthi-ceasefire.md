@@ -33,7 +33,7 @@ Our base case scenario assumes that the average voyage length of oil trade betwe
 ![Market Chart 1](assets/2025-01-23_the-big-picture-houthi-ceasefire_img_image0_fb77699ee1f1.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-23_the-big-picture-houthi-ceasefire_img_image0_fb77699ee1f1.png)
+> [Local Asset](assets/2025-01-23_the-big-picture-houthi-ceasefire_img_image0_fb77699ee1f1.png)
 
 Forecasting volumetric changes in oil trade between basins is tricky. This is because oil flows are constantly shifting independently of freight costs. Today’s sanctions, for instance, will cut Iranian exports, we expect. These exports will be – indeed already appear to be - replaced from the Middle East (East to East) or the Atlantic basin (West to East).
 
@@ -50,14 +50,14 @@ Of course that 400k b/d oil trade growth estimate is at risk given the growing t
 ![Market Chart 2](assets/2025-01-23_the-big-picture-houthi-ceasefire_img_image1_aa20976cff44.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-23_the-big-picture-houthi-ceasefire_img_image1_aa20976cff44.png)
+> [Local Asset](assets/2025-01-23_the-big-picture-houthi-ceasefire_img_image1_aa20976cff44.png)
 
 Combining our view on future changes to oil flows and the ton-mile intensity of these flows, we estimate that ton-mile demand for tankers dips slightly (about 1%) this quarter relative to q4 2024 – assuming a full return to Suez / Red Sea transits by the end of q1 2025. But between q1 and q4 2025 ton-mile demand grows by just over 2% as trade growth favours more ton-mile intensive routes.
 
 ![Market Chart 3](assets/2025-01-23_the-big-picture-houthi-ceasefire_img_image2_751ac1a88958.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-23_the-big-picture-houthi-ceasefire_img_image2_751ac1a88958.png)
+> [Local Asset](assets/2025-01-23_the-big-picture-houthi-ceasefire_img_image2_751ac1a88958.png)
 
 ### How Will Fleet Growth Respond to This ‘Decline F/b Growth’ in Tm Demand?
 
@@ -66,7 +66,7 @@ Our ‘ships in’ vs. ‘ships out’ model (technically: NB deliveries vs. dwt
 ![Market Chart 4](assets/2025-01-23_the-big-picture-houthi-ceasefire_img_image3_564e607cd15c.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-23_the-big-picture-houthi-ceasefire_img_image3_564e607cd15c.png)
+> [Local Asset](assets/2025-01-23_the-big-picture-houthi-ceasefire_img_image3_564e607cd15c.png)
 
 ---
 

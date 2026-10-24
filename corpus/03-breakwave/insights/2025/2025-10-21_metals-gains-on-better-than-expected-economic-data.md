@@ -27,7 +27,7 @@ Easing trade tensions helped support sentiment, with all sectors ending the sess
 ![Στιγμιότυπο Οθόνης 2025 10 21 135857](assets/2025-10-21_metals-gains-on-better-than-expected-economic-data_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dabf138eebcb.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 10 21 135857**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-21_metals-gains-on-better-than-expected-economic-data_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dabf138eebcb.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-10-21_metals-gains-on-better-than-expected-economic-data_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dabf138eebcb.png)
 
 ### Market Commentary
 
@@ -48,7 +48,7 @@ China’s steel output fell in September, the fifth consecutive monthly decline 
 ![Στιγμιότυπο Οθόνης 2025 10 21 135954](assets/2025-10-21_metals-gains-on-better-than-expected-economic-data_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ed2d78b18df1.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 10 21 135954**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-21_metals-gains-on-better-than-expected-economic-data_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ed2d78b18df1.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-10-21_metals-gains-on-better-than-expected-economic-data_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ed2d78b18df1.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

@@ -32,7 +32,7 @@ The Baltic 5TC Capesize average increased by 7.3% to $13,783/day today in what i
 ![Market Chart 1](assets/2023-03-10_braemar-weekly-dry-market-report_img_image0281129_d86b354e91d7.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-10_braemar-weekly-dry-market-report_img_image0281129_d86b354e91d7.png)
+> [Local Asset](assets/2023-03-10_braemar-weekly-dry-market-report_img_image0281129_d86b354e91d7.png)
 
 Sentiment has largely flipped to a more positive tone following a week of a strong reversal in FFA prices with demand starting to pick up and the release of encouraging economic data in China. The National Bureau of Statistics posted a better-than-expected Manufacturing PMI of 52.6 in February, signalling expansionary conditions for factory activity in the country, the highest level since 2012. Demand on the Capes has started to improve now that several headwinds have passed (or eased), such as Brazilian weather woes and maintenance work in Western Australia, which saw a week in which the Aussie miners ship their lowest volume of iron ore for several years. At their current pace, iron ore shipments in March are now likely to outperform those of last year in both Australia and Brazil.
 
@@ -43,7 +43,7 @@ While it has been a slow start to the year in Brazil, as is typically the case, 
 ![Market Chart 2](assets/2023-03-10_braemar-weekly-dry-market-report_img_image1281129_cf1203c487ff.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-10_braemar-weekly-dry-market-report_img_image1281129_cf1203c487ff.png)
+> [Local Asset](assets/2023-03-10_braemar-weekly-dry-market-report_img_image1281129_cf1203c487ff.png)
 
 At the same time, several lofty weeks for vessels ballasting past Singapore indicates volumes from Brazil (and West Africa) will need to continue its momentum in the next few weeks in order to sustain these levels. Bauxite liftings on Capes in West Africa remained in yearly growth territory again in February, at 8.6m tonnes. This as Colombia and South African Capesize volumes have started to slow, both declining by 32.0% and 20.4% YoY in February. This can, in part, be easing coal demand in Europe as energy supplies are ample and gas prices have declined significantly.
 
@@ -54,7 +54,7 @@ As we mentioned above, the Chinese demand picture appears to be gradually improv
 ![Market Chart 3](assets/2023-03-10_braemar-weekly-dry-market-report_img_image2281029_f17bb8428516.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-10_braemar-weekly-dry-market-report_img_image2281029_f17bb8428516.png)
+> [Local Asset](assets/2023-03-10_braemar-weekly-dry-market-report_img_image2281029_f17bb8428516.png)
 
 Capesize liftings bound for China increased by 7.4% YoY in February to 91.9m tonnes and is the highest volume lifted by the big ships in February on record. Leading up to the National Party Congress last week, many primary industries in China were subject to power rationing and had to cut operating capacity. With this now lifted, steel (and aluminum) producers can start to increase output looking towards Q2, which should support iron ore and bauxite demand. The factors above do suggest the worst in China has passed, which is supportive for the Capes given these vessels’ exposure to Chinese demand. With the Chinese government re-iterating it will not resort to mass-stimulus measures, we do however still believe we will see more of a gradual improvement in the country’s demand as we are seeing today, compared to a sharp recovery as during 2020.
 
@@ -65,6 +65,6 @@ In early February, weekly iron ore shipments from West Australia totalled just 1
 ![Market Chart 4](assets/2023-03-10_braemar-weekly-dry-market-report_img_image328929_94f5c1512d12.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-10_braemar-weekly-dry-market-report_img_image328929_94f5c1512d12.png)
+> [Local Asset](assets/2023-03-10_braemar-weekly-dry-market-report_img_image328929_94f5c1512d12.png)
 
 Current queues now lie at 11.3m dwt, while below recent-highs, lie 15.2% above the 5-year average. On coal, the reversal of the Chinese ban has yet to provide any significant support to Capesize employment, at just 1.3m tonnes loaded on this trade in February. Going forward, it remains to be seen what volume this trade will ramp up to as the country is well-supplied for the fuel already.

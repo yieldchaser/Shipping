@@ -27,7 +27,7 @@ On balance, the next chapter for Venezuelan crude trade should favour Aframaxes 
 ![Market Chart 1](assets/2026-01-07_venezuela-raises-questions-for-tanker-demand_img_image001_305e0fd621dd.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-07_venezuela-raises-questions-for-tanker-demand_img_image001_305e0fd621dd.png)
+> [Local Asset](assets/2026-01-07_venezuela-raises-questions-for-tanker-demand_img_image001_305e0fd621dd.png)
 
 *Source: Vortexa*
 
@@ -38,7 +38,7 @@ During 2025 China imported between 66%-75% and (458-590k b/d) of Venezuela’s c
 ![Market Chart 2](assets/2026-01-07_venezuela-raises-questions-for-tanker-demand_img_image002_5ee4e0ae9b3d.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-07_venezuela-raises-questions-for-tanker-demand_img_image002_5ee4e0ae9b3d.png)
+> [Local Asset](assets/2026-01-07_venezuela-raises-questions-for-tanker-demand_img_image002_5ee4e0ae9b3d.png)
 
 *Source: Vortexa*
 
@@ -61,7 +61,7 @@ Newly unemployed dark fleet VLCCs that transported Venezuelan crude to China are
 ![Bc07 Image 2 1767728499132](assets/2026-01-07_venezuela-raises-questions-for-tanker-demand_img_bc07-image-2-1767728499132_c00ed384532f.png)
 
 > **Figure 3: Bc07 Image 2 1767728499132**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-07_venezuela-raises-questions-for-tanker-demand_img_bc07-image-2-1767728499132_c00ed384532f.png)
+> [Local Asset](assets/2026-01-07_venezuela-raises-questions-for-tanker-demand_img_bc07-image-2-1767728499132_c00ed384532f.png)
 
 *Source: Vortexa*
 

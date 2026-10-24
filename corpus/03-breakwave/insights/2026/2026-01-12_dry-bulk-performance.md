@@ -37,7 +37,7 @@ Taken together, the dry bulk market’s early-2026 performance illustrates a fam
 ![Στιγμιότυπο Οθόνης 2026 01 12 092211](assets/2026-01-12_dry-bulk-performance_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22c0b9f5fcf0.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 01 12 092211**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-12_dry-bulk-performance_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22c0b9f5fcf0.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2026-01-12_dry-bulk-performance_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22c0b9f5fcf0.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

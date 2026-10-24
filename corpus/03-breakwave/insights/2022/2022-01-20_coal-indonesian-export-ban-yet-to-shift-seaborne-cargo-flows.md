@@ -31,7 +31,7 @@ The clampdown on exports has sent coal prices sharply higher, after two months o
 ![Ch1](assets/2022-01-20_coal-indonesian-export-ban-yet-to-shift-seaborne-cargo-flows_img_ch1_3772536f4d0c.jpg)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-20_coal-indonesian-export-ban-yet-to-shift-seaborne-cargo-flows_img_ch1_3772536f4d0c.jpg)
+> [Local Asset](assets/2022-01-20_coal-indonesian-export-ban-yet-to-shift-seaborne-cargo-flows_img_ch1_3772536f4d0c.jpg)
 
 However, the effect of the export restrictions has been somewhat blunted by the continued high coal production in China, the world’s largest consumer of the commodity. In the wake of the squeeze on energy supplies that emerged during the second half of last year, the Chinese leadership lifted previous output restrictions and called on miners to maximise production. As a result, output in December reached a record 385 million tonnes, and annual production rose by almost five per cent to just over four billion tonnes. The expanded production has also translated into new seasonal highs for thermal coal inventories at the nation’s essential power plants, with quantities large enough to cover three weeks of power generation. Nevertheless, the Chinese authorities have instructed the miners to maintain normal production levels over the Lunar New Year holiday, as the supplies from the nation’s largest overseas provider have become restricted. In addition, power consumption is expected to continue to grow at a robust rate after last year’s ten per cent expansion.
 
@@ -44,7 +44,7 @@ Despite some vessels having been allowed to leave, shipped volumes are still a f
 ![Ch2](assets/2022-01-20_coal-indonesian-export-ban-yet-to-shift-seaborne-cargo-flows_img_ch2_34573972b862.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-20_coal-indonesian-export-ban-yet-to-shift-seaborne-cargo-flows_img_ch2_34573972b862.png)
+> [Local Asset](assets/2022-01-20_coal-indonesian-export-ban-yet-to-shift-seaborne-cargo-flows_img_ch2_34573972b862.png)
 
 The drop in Indonesian coal exports has yet to translate into increasing volumes shipped from alternative sources. Among the rest of the top five exporters, month to date shipments have remained below the average for the last five years. The lack of substitution effects suggests that most Asian buyers were taken by surprise by the new Indonesian policy and are hoping that the ban will only be in place for a short period of time. A shift to alternative sources would, in many cases, mean longer distances for the cargoes and would therefore not solve any immediate demand shortages.
 
@@ -54,21 +54,21 @@ their purchases from Australia.
 ![Ch3](assets/2022-01-20_coal-indonesian-export-ban-yet-to-shift-seaborne-cargo-flows_img_ch3_11c5f27ca7eb.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-20_coal-indonesian-export-ban-yet-to-shift-seaborne-cargo-flows_img_ch3_11c5f27ca7eb.png)
+> [Local Asset](assets/2022-01-20_coal-indonesian-export-ban-yet-to-shift-seaborne-cargo-flows_img_ch3_11c5f27ca7eb.png)
 
 South African coal exports have not recovered from the impact the pandemic had on mining operations, with volumes approximately 35 per cent below the pre-pandemic average. During the first three weeks of January, shipments were marginally above last year’s reduced volumes but some two million tonnes below the record set in 2018.
 
 ![Ch4](assets/2022-01-20_coal-indonesian-export-ban-yet-to-shift-seaborne-cargo-flows_img_ch4_5cf40307f3ca.png)
 
 > **Figure 4: Ch4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-20_coal-indonesian-export-ban-yet-to-shift-seaborne-cargo-flows_img_ch4_5cf40307f3ca.png)
+> [Local Asset](assets/2022-01-20_coal-indonesian-export-ban-yet-to-shift-seaborne-cargo-flows_img_ch4_5cf40307f3ca.png)
 
 However, Portside inventory levels in South Africa’s main export port, Richards Bay, have been showing signs of a recovery in recent weeks. According to satellite data from Tahtya, stockpiles are near the highest seen since the latter parts of 2020 after trending lower for much of last year. The rebound could indicate that South African coal exports will increase in the coming months.
 
 ![Ch5](assets/2022-01-20_coal-indonesian-export-ban-yet-to-shift-seaborne-cargo-flows_img_ch5_1f80a5f5ffa2.png)
 
 > **Figure 5: Ch5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-20_coal-indonesian-export-ban-yet-to-shift-seaborne-cargo-flows_img_ch5_1f80a5f5ffa2.png)
+> [Local Asset](assets/2022-01-20_coal-indonesian-export-ban-yet-to-shift-seaborne-cargo-flows_img_ch5_1f80a5f5ffa2.png)
 
 With the exception of cargoes coming from Russia’s far-eastern ports, any major shift in Asian flows of seaborne coal due to the Indonesian export ban will increase the tonne-mile demand as longer distances need to be covered. However, at this stage, a wait-and-see approach appears to be the preferred course of action, with many utilities hoping that diplomatic pressures on Indonesia will ensure that the ban becomes short-lived.
 

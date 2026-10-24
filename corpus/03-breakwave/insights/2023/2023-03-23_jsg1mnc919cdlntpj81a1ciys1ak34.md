@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-23_jsg1mnc919cdlntpj81a1
 ![2 (4)](assets/2023-03-23_jsg1mnc919cdlntpj81a1ciys1ak34_img_228429_003cfb21b631.png)
 
 > **Figure 1: 2 (4)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-23_jsg1mnc919cdlntpj81a1ciys1ak34_img_228429_003cfb21b631.png)
+> [Local Asset](assets/2023-03-23_jsg1mnc919cdlntpj81a1ciys1ak34_img_228429_003cfb21b631.png)
 
 Tankers from the word tank, as these ships were created to transport liquids such as crude oil and petroleum products.
 
@@ -31,7 +31,7 @@ During their creation, large capacity tanks were envisioned, which could safely 
 ![Unsplash Image Tm Pbz5uhiu](assets/2023-03-23_jsg1mnc919cdlntpj81a1ciys1ak34_img_unsplash-image-tm-pbz5uhiu_9fbace35a6fa.jpg)
 
 > **Figure 2: Unsplash Image Tm Pbz5uhiu**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-23_jsg1mnc919cdlntpj81a1ciys1ak34_img_unsplash-image-tm-pbz5uhiu_9fbace35a6fa.jpg)
+> [Local Asset](assets/2023-03-23_jsg1mnc919cdlntpj81a1ciys1ak34_img_unsplash-image-tm-pbz5uhiu_9fbace35a6fa.jpg)
 
 ## Tankers Transport 2/3 of All Crude
 

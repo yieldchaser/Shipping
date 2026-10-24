@@ -29,7 +29,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-06-11_tankers-research-upda
 
 > **Figure 1: Japanese Refiner Taiyo Oil Has Taken Delivery of Russian Crude**  
 > *Japanese refiner Taiyo Oil has taken delivery of Russian crude aboard the sanctioned Aframax tankerVoyager(113,000 DWT, built 2013). The vessel, blacklisted by both the US and EU, was allowed to discharge under a special waiver granted to the refiner by Japanese authorities on May 21.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-11_tankers-research-update_img_9253-image-0-1749613240679_f9d95b366760.png)
+> [Local Asset](assets/2025-06-11_tankers-research-update_img_9253-image-0-1749613240679_f9d95b366760.png)
 
 - The steep reduction in Iranian flows to China is attributed to the tightening of US sanctions, which have disrupted Tehran’s export channels. Meanwhile, demand from China’s independent refiners has waned as they operate at near-record-low run rates, according to OilChem. The slowdown is attributed to seasonal maintenance, continued work on the ESPO pipeline (expected to last through July), and high inventory levels following prior stockpiling.
 

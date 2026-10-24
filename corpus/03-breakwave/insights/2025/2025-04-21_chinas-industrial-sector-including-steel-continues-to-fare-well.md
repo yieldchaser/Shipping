@@ -29,7 +29,7 @@ Of note in China's steel market is that the most recently released data shows th
 ![Chart](assets/2025-04-21_chinas-industrial-sector-including-steel-continues-to-fare-well_img_chart_a23edb11cbce.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-21_chinas-industrial-sector-including-steel-continues-to-fare-well_img_chart_a23edb11cbce.jpg)
+> [Local Asset](assets/2025-04-21_chinas-industrial-sector-including-steel-continues-to-fare-well_img_chart_a23edb11cbce.jpg)
 
 ---
 

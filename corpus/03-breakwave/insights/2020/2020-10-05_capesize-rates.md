@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-10-05_capesize-rates.html"
 
 > **Figure 1: Capesize Spot Rates**  
 > *Capesize Spot Rates, 5-year Range*  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2020/9/16/are-we-at-an-inflection-point-for-capesize-rates) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-05_capesize-rates_img_icarus_5f64f582ffd6.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2020/9/16/are-we-at-an-inflection-point-for-capesize-rates) | [Local Asset](assets/2020-10-05_capesize-rates_img_icarus_5f64f582ffd6.jpg)
 
 The myth of Daedalus and Icarus tells the story of a father and a son who used wings to escape from the island of Crete. Icarus has become better-known as the flyer who fell from the sky when the wax that joined his wings was melted by the heat of the sun, despite his father’s warnings.
 
@@ -36,7 +36,7 @@ But first, how unusually high are Capesize freight rates today? As we discussed 
 
 > **Figure 2: Iron Ore Price Minus Freight**  
 > *Iron Ore Price minus Freight, Brazil*  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2020/9/16/are-we-at-an-inflection-point-for-capesize-rates) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-05_capesize-rates_img_capes10-5_6e2f08bb4a51.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2020/9/16/are-we-at-an-inflection-point-for-capesize-rates) | [Local Asset](assets/2020-10-05_capesize-rates_img_capes10-5_6e2f08bb4a51.jpg)
 
 However, the absolute time charter equivalent rate does not really tell the whole story. After all, what matters is the price the major miners pay for freight, and such price tells a whole different story. In fact, one can argue that we are**sitting at multi-year lows**in such relative pricing for the major Australian and Brazilian miners.
 
@@ -48,14 +48,14 @@ Most of the Capesize freight market reflects the price a miner pay to transport 
 
 > **Figure 3: Iron Ore Price Minus Freight**  
 > *Iron Ore Price minus Freight, Australia*  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2020/9/16/are-we-at-an-inflection-point-for-capesize-rates) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-05_capesize-rates_img_iominusc3_044c632a1a0d.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2020/9/16/are-we-at-an-inflection-point-for-capesize-rates) | [Local Asset](assets/2020-10-05_capesize-rates_img_iominusc3_044c632a1a0d.jpg)
 
 A similar picture is also painted for Australian miners, where the**profitability**(iron ore net of freight) is also at**multi-year highs**:
 
 ![Io Minus C5](assets/2020-10-05_capesize-rates_img_iominusc5_49b596d78873.jpg)
 
 > **Figure 4: Io Minus C5**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2020/9/16/are-we-at-an-inflection-point-for-capesize-rates) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-05_capesize-rates_img_iominusc5_49b596d78873.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2020/9/16/are-we-at-an-inflection-point-for-capesize-rates) | [Local Asset](assets/2020-10-05_capesize-rates_img_iominusc5_49b596d78873.jpg)
 
 Obviously, it is supply and demand that drives the price of freight, and the above are just indications of how willing majors are to pay up given their existing profit dynamics. If supply exceeds demand, then the market will inevitably drop. But for now, iron ore majors are enjoying some of their highest margins in years when it comes to net of freight prices.
 

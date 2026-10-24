@@ -24,7 +24,7 @@ Amidst widespread price increases, it is not surprising that tanker asset values
 ![Screenshot 20220907 135545 Drive](assets/2022-09-07_weekly-tanker-market-report_img_screenshot-20220907-135545-drive_33efc7d96bc6.jpg)
 
 > **Figure 1: Screenshot 20220907 135545 Drive**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-07_weekly-tanker-market-report_img_screenshot-20220907-135545-drive_33efc7d96bc6.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2022-09-07_weekly-tanker-market-report_img_screenshot-20220907-135545-drive_33efc7d96bc6.jpg)
 
 However, it is a very different story in terms of second hand tankers, prices have increased much faster, with 5 year old VLCCs and Suezmaxes jumping by 17% and 23% respectably YTD, reflecting relative value compared to newbuild vessels. For example, the order price of a VLCC is estimated to be $120 million versus $85 million for a 5 year old unit, which offers a comparatively good ratio of youth and prompter availability; with more favourable retrofitting economics compared to a newbuild vessel at a much higher price and with a longer lead time.
 

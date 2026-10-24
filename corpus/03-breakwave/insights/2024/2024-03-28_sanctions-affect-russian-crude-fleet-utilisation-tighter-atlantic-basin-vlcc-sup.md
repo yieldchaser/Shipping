@@ -27,12 +27,12 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-28_sanctions-affect-russ
 ![Screenshot 2024 03 28 11.01.25](assets/2024-03-28_sanctions-affect-russian-crude-fleet-utilisation-tighter-atlantic-basin-vlcc-sup_img_screenshot2024-03-28110125_a0ec68e2d524.png)
 
 > **Figure 1: Screenshot 2024 03 28 11.01.25**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSH-FZgqe2pYxWWH-ef_QuKWXwDZJP4HxzsXU77frNt3bLD67TOUImQUqJoFF-rodQBsJiVdQ=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-28_sanctions-affect-russian-crude-fleet-utilisation-tighter-atlantic-basin-vlcc-sup_img_screenshot2024-03-28110125_a0ec68e2d524.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSH-FZgqe2pYxWWH-ef_QuKWXwDZJP4HxzsXU77frNt3bLD67TOUImQUqJoFF-rodQBsJiVdQ=) | [Local Asset](assets/2024-03-28_sanctions-affect-russian-crude-fleet-utilisation-tighter-atlantic-basin-vlcc-sup_img_screenshot2024-03-28110125_a0ec68e2d524.png)
 
 ![Screenshot 2024 03 28 11.01.33](assets/2024-03-28_sanctions-affect-russian-crude-fleet-utilisation-tighter-atlantic-basin-vlcc-sup_img_screenshot2024-03-28110133_63fb955db2db.png)
 
 > **Figure 2: Screenshot 2024 03 28 11.01.33**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSH-FZgqe2pYxWWH-ef_QuKWXwDZJP4HxzsXU77frNt3bLD67TOUImQUqJoFF-rodQBsJiVdQ=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-28_sanctions-affect-russian-crude-fleet-utilisation-tighter-atlantic-basin-vlcc-sup_img_screenshot2024-03-28110133_63fb955db2db.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSH-FZgqe2pYxWWH-ef_QuKWXwDZJP4HxzsXU77frNt3bLD67TOUImQUqJoFF-rodQBsJiVdQ=) | [Local Asset](assets/2024-03-28_sanctions-affect-russian-crude-fleet-utilisation-tighter-atlantic-basin-vlcc-sup_img_screenshot2024-03-28110133_63fb955db2db.png)
 
 - Sanctions enforcement is now visibly affecting the utilisation of the fleet carrying Russian crude. In late February, the number of ballast vessels which last lifted Russian crude grades (excl. CPC blend and KEBCO) began increasing significantly. Ballast vessels have now surpassed laden vessels for the first time in three months, pointing to less utilisation of the Russian fleet.
 
@@ -42,7 +42,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-28_sanctions-affect-russ
 ![Screenshot 2024 03 28 11.01.41](assets/2024-03-28_sanctions-affect-russian-crude-fleet-utilisation-tighter-atlantic-basin-vlcc-sup_img_screenshot2024-03-28110141_90bb447412f5.png)
 
 > **Figure 3: Screenshot 2024 03 28 11.01.41**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSH-FZg_VuKSnCu0Yq2DlJm0n7cWvbK-5sK7BDo1nDFTyybAqaPbPArJLEvB2z0qabPRxES1g=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-28_sanctions-affect-russian-crude-fleet-utilisation-tighter-atlantic-basin-vlcc-sup_img_screenshot2024-03-28110141_90bb447412f5.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSH-FZg_VuKSnCu0Yq2DlJm0n7cWvbK-5sK7BDo1nDFTyybAqaPbPArJLEvB2z0qabPRxES1g=) | [Local Asset](assets/2024-03-28_sanctions-affect-russian-crude-fleet-utilisation-tighter-atlantic-basin-vlcc-sup_img_screenshot2024-03-28110141_90bb447412f5.png)
 
 - [Asia's LPG imports](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSH-FZg_VuKSnCu0Yq2DlJm0n7cWvbK-5sK7BDo1nDFTyybAqaPbPArJLEvB2z0qabPRxES1g=)increased in March, with China notably posting an increase of 300kbd, about 30% m-o-m. Though Asia’s healthy demand is expected to continue, logistical constraints are affecting the LPG carriers ballasting back to the US Gulf Coast from Asia. The Panama Canal drought followed by the Red Sea attacks is causing ballast voyage distances to skyrocket.[Average voyage distance for LPG carriers towards the US Gulf Coast](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSH-FZgkoQmvBdhDD3ABIAWNtcaalOdmvUrWswvClV3bHA1r1ek_FZXkGaqPouiFI3BX3NIW4=)reached an all-time high of 8.6k nautical miles (nmi) in March, up 25% from 6.9k nmi in December 2023.
 
@@ -52,7 +52,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-28_sanctions-affect-russ
 ![Screenshot 2024 03 28 11.01.57](assets/2024-03-28_sanctions-affect-russian-crude-fleet-utilisation-tighter-atlantic-basin-vlcc-sup_img_screenshot2024-03-28110157_8c4b46eee8bb.png)
 
 > **Figure 4: Screenshot 2024 03 28 11.01.57**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSH-FZgpCjVGws7Aztn8rRUlwD406SgO5b4Ps6EXnKgYAvmhLmsOAuFY_rshignUWoRgKcY5U=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-28_sanctions-affect-russian-crude-fleet-utilisation-tighter-atlantic-basin-vlcc-sup_img_screenshot2024-03-28110157_8c4b46eee8bb.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSH-FZgpCjVGws7Aztn8rRUlwD406SgO5b4Ps6EXnKgYAvmhLmsOAuFY_rshignUWoRgKcY5U=) | [Local Asset](assets/2024-03-28_sanctions-affect-russian-crude-fleet-utilisation-tighter-atlantic-basin-vlcc-sup_img_screenshot2024-03-28110157_8c4b46eee8bb.png)
 
 - [Asian crude imports from the Atlantic Basin](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSH-FZgpCjVGws7Aztn8rRUlwD406SgO5b4Ps6EXnKgYAvmhLmsOAuFY_rshignUWoRgKcY5U=)increased 17% m-o-m and are now closer to historical levels imported in the past 6 months. Driving this increase are volumes from Brazil and Kazakhstan (CPC blend cargoes which rerouted around the Cape of Good Hope). However, these high import levels are unlikely to be sustained as refinery maintenance season in Europe winds down and pulls barrels away from Asia. Additionally, when Brazil’s own refinery turnarounds end, Brazil’s total exports are likely to soften.
 
@@ -62,7 +62,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-28_sanctions-affect-russ
 ![Screenshot 2024 03 28 11.02.26](assets/2024-03-28_sanctions-affect-russian-crude-fleet-utilisation-tighter-atlantic-basin-vlcc-sup_img_screenshot2024-03-28110226_bd51ccd3e9e9.png)
 
 > **Figure 5: Screenshot 2024 03 28 11.02.26**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSH-FZgrXH_piIByn3b4JF5RwI3nABF9_QHq5SM-kKehZl_NmN7w2ql9hwe9x9YyEtsvyRNjM=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-28_sanctions-affect-russian-crude-fleet-utilisation-tighter-atlantic-basin-vlcc-sup_img_screenshot2024-03-28110226_bd51ccd3e9e9.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSH-FZgrXH_piIByn3b4JF5RwI3nABF9_QHq5SM-kKehZl_NmN7w2ql9hwe9x9YyEtsvyRNjM=) | [Local Asset](assets/2024-03-28_sanctions-affect-russian-crude-fleet-utilisation-tighter-atlantic-basin-vlcc-sup_img_screenshot2024-03-28110226_bd51ccd3e9e9.png)
 
 - Rerouting via the Cape of Good Hope (COGH) is now[the norm for LRs](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSH-FZgrXH_piIByn3b4JF5RwI3nABF9_QHq5SM-kKehZl_NmN7w2ql9hwe9x9YyEtsvyRNjM=)carrying middle distillates to Europe. After a steep decline in utilisation coinciding with the beginning of the US/UK retaliatory strikes in the Red Sea in mid-Jan, LR voyages on the East-West route via the COGH normalised, and[utilisation continued trending upwards](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGSH-FZg4_D5x2tPqka3emkStE7chx8fudaWW1bxpQH97A0QiQ7XtiCRNyEo5HuzSrKVcWzW5g=).
 

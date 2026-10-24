@@ -25,12 +25,12 @@ This year has started with bang as a sustained rally in oil prices has propelled
 ![Screenshot 20220218 121748 Word](assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121748-word_cd931aecb8c5.jpg)
 
 > **Figure 1: Screenshot 20220218 121748 Word**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121748-word_cd931aecb8c5.jpg)
+> [Local Asset](assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121748-word_cd931aecb8c5.jpg)
 
 ![Screenshot 20220218 121806 Word](assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121806-word_9b7a66f2cf89.jpg)
 
 > **Figure 2: Screenshot 20220218 121806 Word**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121806-word_9b7a66f2cf89.jpg)
+> [Local Asset](assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121806-word_9b7a66f2cf89.jpg)
 
 ### Crude Prices Hit Eight-Year Highs
 
@@ -39,12 +39,12 @@ Crude prices have surged to eight-year highs since the start of the year after b
 ![Screenshot 20220218 121757 Word](assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121757-word_65a0428c63f6.jpg)
 
 > **Figure 3: Screenshot 20220218 121757 Word**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121757-word_65a0428c63f6.jpg)
+> [Local Asset](assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121757-word_65a0428c63f6.jpg)
 
 ![Screenshot 20220218 121753 Word](assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121753-word_69af0a287328.jpg)
 
 > **Figure 4: Screenshot 20220218 121753 Word**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121753-word_69af0a287328.jpg)
+> [Local Asset](assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121753-word_69af0a287328.jpg)
 
 ### Where Next for Crude Prices?
 
@@ -63,7 +63,7 @@ To a certain extent, global high sulphur fuel oil (HSFO, sold into the bunker po
 ![Screenshot 20220218 121820 Word](assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121820-word_8c3b1fec5abc.jpg)
 
 > **Figure 5: Screenshot 20220218 121820 Word**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121820-word_8c3b1fec5abc.jpg)
+> [Local Asset](assets/2022-02-18_brs-dry-bulk-weekly-newsletter_img_screenshot-20220218-121820-word_8c3b1fec5abc.jpg)
 
 ### So How Will the Drybulk Fleet React to Higher Bunker Prices?
 

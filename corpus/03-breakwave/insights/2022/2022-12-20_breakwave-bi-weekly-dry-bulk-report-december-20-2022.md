@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-12-20_breakwave-bi-weekly-d
 ![Drytop](assets/2022-12-20_breakwave-bi-weekly-dry-bulk-report-december-20-2022_img_drytop_34c7bd35c035.png)
 
 > **Figure 1: Drytop**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-20_breakwave-bi-weekly-dry-bulk-report-december-20-2022_img_drytop_34c7bd35c035.png)
+> [Local Asset](assets/2022-12-20_breakwave-bi-weekly-dry-bulk-report-december-20-2022_img_drytop_34c7bd35c035.png)
 
 **Santa rally for spot, doom and gloom for futures**– All it took was some (anticipated?) delays and inclement weather in the North Atlantic for spot Capesize rates to recover, albeit at a much later stage than historically has been the case. December, which has been the weakest link of the fourth quarter for many months now, seems to be heading for a relatively strong close with both the monthly average and the spot level at multi-month highs. Yet, the bearishness of market participants remain amble, with the forward curve lingering at particularly depressing levels despite the spot market revival. In the freight futures market, where the inability to effectively arbitrage spot versus futures exists, discounts don’t matter…until pricing forces it. The next several months’ futures are trading firmly in the single digit range and any attempt to price a more aggressive path for the spot market is forcefully destroyed by the hedging books of commodity traders. With just a handful of days left in the year and with Capesize futures prices for January some 9,000 below spot, the outlook for Capesize owners seems already determined with little doubt left. Or isn’t it? As we have said numerous times, short term fluctuations and seasonality calls tend to take a life of their own as the surprise factor comes into play. We also have no strong opinion about the near-term direction of spot rates, but we wonder what would happen if traders woke up with a strong hangover on New Year’s Day and are faced with a high-double digit Index and the usual strong first week of the year for fixing activity looming? We hope the NYE party was worth the headache... Happy New Year and a prosperous, healthy 2023!
 
@@ -33,4 +33,4 @@ source_file: "corpus/03-breakwave/insights/2022/2022-12-20_breakwave-bi-weekly-d
 ![Drybottom](assets/2022-12-20_breakwave-bi-weekly-dry-bulk-report-december-20-2022_img_drybottom_caf2182591df.png)
 
 > **Figure 2: Drybottom**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-20_breakwave-bi-weekly-dry-bulk-report-december-20-2022_img_drybottom_caf2182591df.png)
+> [Local Asset](assets/2022-12-20_breakwave-bi-weekly-dry-bulk-report-december-20-2022_img_drybottom_caf2182591df.png)

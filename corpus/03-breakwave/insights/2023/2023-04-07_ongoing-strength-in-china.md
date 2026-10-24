@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-04-07_ongoing-strength-in-c
 
 > **Figure 1: Byjeffrey Landsberg**  
 > *ByJeffrey Landsberg*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/jeffrey-landsberg-70ab957/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-07_ongoing-strength-in-china_img_1281329_8c50598b622a.png)](https://www.breakwaveadvisors.com/insights/2023/4/7/did-you-know)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/jeffrey-landsberg-70ab957/) | [Local Asset](assets/2023-04-07_ongoing-strength-in-china_img_1281329_8c50598b622a.png)](https://www.breakwaveadvisors.com/insights/2023/4/7/did-you-know)
 
 Often in our Weekly China Reports last year, we discussed Chinese efforts to end US dollar hegemony. Particularly notable to us last year was when Russian coal sales started to be settled in Chinese yuan even when China was not involved on the import or export side. We discussed this development in our July 4th Weekly China Report, and also discussed a few weeks later in our July 18th report how BHP that month completed its first yuan-based spot trade iron ore sale to Chinese buyers and opened its first a wholly-owned subsidiary Shanghai branch.
 
@@ -34,4 +34,4 @@ Also of note in China is that PMI (purchasing manager index) data for March was 
 ![Chart 1 (76)](assets/2023-04-07_ongoing-strength-in-china_img_chart1287629_6cb0ab9aedad.jpg)
 
 > **Figure 2: Chart 1 (76)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-07_ongoing-strength-in-china_img_chart1287629_6cb0ab9aedad.jpg)
+> [Local Asset](assets/2023-04-07_ongoing-strength-in-china_img_chart1287629_6cb0ab9aedad.jpg)

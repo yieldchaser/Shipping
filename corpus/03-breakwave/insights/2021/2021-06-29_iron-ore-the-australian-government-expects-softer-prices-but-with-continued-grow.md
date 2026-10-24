@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-06-29_iron-ore-the-australi
 ![Iron Ore Pellets](assets/2021-06-29_iron-ore-the-australian-government-expects-softer-prices-but-with-continued-grow_img_ironorepellets_4b0e8ee8bb20.jpg)
 
 > **Figure 1: Iron Ore Pellets**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-29_iron-ore-the-australian-government-expects-softer-prices-but-with-continued-grow_img_ironorepellets_4b0e8ee8bb20.jpg)
+> [Local Asset](assets/2021-06-29_iron-ore-the-australian-government-expects-softer-prices-but-with-continued-grow_img_ironorepellets_4b0e8ee8bb20.jpg)
 
 As the Baltic Dry Index hit the highest levels since June 2010 on Monday, China upped the ante in its ongoing diplomatic spat with Australia. In what is widely seen as a break from its traditional approach, Beijing has lodged a complaint against some Australian anti-dumping duties at the World Trade Organization (WTO). There are also suggestions that a longer list of Chinese grievances against Australian trade policies will find its way to the WTO very soon. The move is the latest instalment in the long-running saga of tit-for-tat escalations between the two nations and comes after Canberra’s recent complaint regarding Beijing’s recent move to impose anti-dumping duties on Australian wine and barley. The complaint to the WTO by China took many observers by surprise, with some suggesting the move was wholly politically motivated as the Australian duties the Chinese leadership has chosen to dispute were imposed several years ago. The latest escalation, in combination with the extended time it usually takes for disputes to be resolved through the WTO, suggests that the Sino-Australian relationship is set to remain in the deep freeze for quite some time.
 
@@ -36,14 +36,14 @@ From a miner’s or trader’s perspective, the Australian government’s latest
 ![Ulf1629](assets/2021-06-29_iron-ore-the-australian-government-expects-softer-prices-but-with-continued-grow_img_ulf1629_77a0239d97fc.png)
 
 > **Figure 2: Ulf1629**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-29_iron-ore-the-australian-government-expects-softer-prices-but-with-continued-grow_img_ulf1629_77a0239d97fc.png)
+> [Local Asset](assets/2021-06-29_iron-ore-the-australian-government-expects-softer-prices-but-with-continued-grow_img_ulf1629_77a0239d97fc.png)
 
 The projections may not be what most miners would like to hear, but profitability is likely to be maintained for most miners albeit at less spectacular levels than at present. While profit margins for the miners may shrink, the seaborne volumes are expected to keep growing and support the tonnage demand. Despite a downgrade of the Australian export volumes, due to a weaker than expected first quarter and the potential for supply disruptions during the second half of the year, the global export volumes are projected to grow by almost six per cent this year. Increasing production in South Africa, Brazil, Canada and India will primarily be responsible for the global growth.
 
 ![Ulf2629](assets/2021-06-29_iron-ore-the-australian-government-expects-softer-prices-but-with-continued-grow_img_ulf2629_315d945d67d8.png)
 
 > **Figure 3: Ulf2629**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-29_iron-ore-the-australian-government-expects-softer-prices-but-with-continued-grow_img_ulf2629_315d945d67d8.png)
+> [Local Asset](assets/2021-06-29_iron-ore-the-australian-government-expects-softer-prices-but-with-continued-grow_img_ulf2629_315d945d67d8.png)
 
 Though global iron ore production is set to continue to increase, a degree of supply tightness will remain and prices are likely to be susceptible to any output disruptions. Also, there may be a temptation from the Chinese leadership to impose some form of restrictions on Australian iron ore imports, given the current state of the relationship between the two countries. However, such a move is likely to drive iron ore prices higher yet again, as Australia remains the dominant exporter of the commodity. The recovery in Brazilian output is likely to reduce Australia’s dominance in the global seaborne iron ore market somewhat, with new African mining projects adding to the process later in the decade. However, it is unrealistic to expect that any major shift will take place any time soon. As long as China remains the world’s preeminent consumer of iron ore, the growing importance of initially Brazilian exports and subsequently African supplies will add to the tonne-mile demand. With only a limited number of new vessels due for delivery in the coming years, the tonnage supply situation could tighten further.
 

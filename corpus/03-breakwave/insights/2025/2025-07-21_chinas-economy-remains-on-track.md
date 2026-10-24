@@ -29,7 +29,7 @@ A quarter of a century later, the phase of explosive expansion has ended, replac
 ![Στιγμιότυπο Οθόνης 2025 07 21 135451](assets/2025-07-21_chinas-economy-remains-on-track_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_00dd9afe92d6.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 07 21 135451**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-21_chinas-economy-remains-on-track_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_00dd9afe92d6.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-07-21_chinas-economy-remains-on-track_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_00dd9afe92d6.png)
 
 The industrial sector remained a key engine of growth, with value-added industrial output up 6.4 percent year-on-year, driven primarily by manufacturing, which expanded by 7.0 percent. High-tech and equipment manufacturing outpaced the broader sector, growing 9.5 percent and 10.2 percent respectively, as industrial upgrading and supply chain localization gathered pace. However, profitability remained under pressure, with total industrial profits down 1.1 percent in the first five months. Sentiment remains cautious, as the official Manufacturing PMI edged up to 49.7 – just shy of the expansion line – indicating continued hesitation across the sector. Still, June industrial output rose 6.8 percent year-on-year.
 
@@ -42,7 +42,7 @@ Despite external pressures, China’s total trade rose 2.9 percent year-onyear i
 ![Στιγμιότυπο Οθόνης 2025 07 21 135520](assets/2025-07-21_chinas-economy-remains-on-track_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a9fe201b8b23.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 07 21 135520**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-21_chinas-economy-remains-on-track_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a9fe201b8b23.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-07-21_chinas-economy-remains-on-track_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a9fe201b8b23.png)
 
 In the commodities space, China’s iron ore imports reached 105.95 million tonnes in June, rising 8 percent from May and marking the strongest monthly intake so far this year. Despite this rebound, total imports for the first half slipped 3 percent year-on-year to 592.21 million tonnes. Coal imports continued to decline, falling to 33.04 million tonnes in June – the lowest monthly level in over two years – as higher domestic output displaced lower-quality foreign cargoes. Over the January–June period, coal arrivals dropped 11 percent year-on-year to 221.7 million tonnes. Soybean imports climbed to 12.26 million tonnes in June, an increase of just over 10 percent compared to the same month last year, lifting first-half volumes by 1.8 percent to 49.37 million tonnes. Meanwhile, China exported 9.68 million tonnes of steel in June, down 8.5 percent from May, though cumulative exports for the first six months rose 9.2 percent year-on-year to 58.15 million tonnes, according to the China Iron and Steel Association.
 

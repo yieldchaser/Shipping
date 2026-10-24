@@ -37,7 +37,7 @@ As for bonds, are we simply liking a yield because it’s relatively high compar
 ![Unsplash Image Eggfz5x2lna](assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_unsplash-image-eggfz5x2lna_5c2db4a62546.jpg)
 
 > **Figure 1: Unsplash Image Eggfz5x2lna**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/graphics/2024-ai-data-centers-power-grids/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_unsplash-image-eggfz5x2lna_5c2db4a62546.jpg)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/graphics/2024-ai-data-centers-power-grids/) | [Local Asset](assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_unsplash-image-eggfz5x2lna_5c2db4a62546.jpg)
 
 One of the oldest tricks in real estate is comparison. If a real estate agent has an apartment they really want to push, they will never show it outright. Instead, they will show a client - a couple of bad apartments before that. Exasperated from the rounds and disappointed, the client is more likely to agree to the apartment the agent wanted to promote in the first place.
 
@@ -54,7 +54,7 @@ For one, in France, Mr Macron joined a long list of Western leaders who got sign
 ![Market Chart 2](assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_image004_e3e2d1b856a6.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/graphics/2024-ai-data-centers-power-grids/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_image004_e3e2d1b856a6.png)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/graphics/2024-ai-data-centers-power-grids/) | [Local Asset](assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_image004_e3e2d1b856a6.png)
 
 ### What Can Stop Nvidia?
 
@@ -63,7 +63,7 @@ The second thing that happened was Nvidia crossing the threshold to become the w
 ![Market Chart 3](assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_image005_01f9fbf5ae2d.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/graphics/2024-ai-data-centers-power-grids/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_image005_01f9fbf5ae2d.png)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/graphics/2024-ai-data-centers-power-grids/) | [Local Asset](assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_image005_01f9fbf5ae2d.png)
 
 For one, the government. Unlike Apple and Microsoft, the company is a virtual monopoly in the high-end microchip space, the equivalent of Standard Oil and JP Morgan one hundred and twenty years ago. As such, one can’t help but wonder whether it will face the same fate, that of a government-mandated breakup. Mitigating that risk is Nvidia’s importance in the global race for AI. If a company is considered a strategic asset, a national champion of sorts, then breaking it up is risky.
 
@@ -82,7 +82,7 @@ Is this a case of “the contrast effect” mentioned above? Are we simply likin
 ![Market Chart 4](assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_image006_27fdd5d5713d.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_image006_27fdd5d5713d.png)
+> [Local Asset](assets/2024-06-26_three-questions-for-asset-allocators-politics-nvidia-and-bonds_img_image006_27fdd5d5713d.png)
 
 Or are investors simply loading up on bonds in anticipation of rate cuts (which should reduce yields and improve prices, all other things being equal)?
 

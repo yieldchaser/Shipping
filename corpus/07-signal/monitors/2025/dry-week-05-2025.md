@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/dry/dynamic/capesinsightsdownloadablehttps://app.signalocean.com/dry/dynamic/timeseriesdrydownloadable**  
 > *https://app.signalocean.com/dry/dynamic/capes_insights_downloadablehttps://app.signalocean.com/dry/dynamic/timeseries_dry_downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-05-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/679a5c8ab14b8b06f811404a_AD_4nXerHGY0IocEPOf8bM-g9SEvw3psS8CWtJzqXbx9QWNW3LzRMxO313I5cwlHbLgoFoN-9GdvvOrO0_Ab_TFK6WoKW0JppIKKFeVw4Ie1Cg3jd6XjgN4stFPtkM8WbJfbPJhX9xMKkA.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-05-2025) | [Local Asset](../../images/679a5c8ab14b8b06f811404a_AD_4nXerHGY0IocEPOf8bM-g9SEvw3psS8CWtJzqXbx9QWNW3LzRMxO313I5cwlHbLgoFoN-9GdvvOrO0_Ab_TFK6WoKW0JppIKKFeVw4Ie1Cg3jd6XjgN4stFPtkM8WbJfbPJhX9xMKkA.avif)
 
 The momentum in the freight market has weakened as we approached the end of January and the onset of the Chinese New Year. The prevailing oversupply situation continues to significantly pressure market sentiment, compounded by a decline in demand for tonne-day growth. In the Capesize segment, we have observed a clear downward trend in tonne-day growth for shipments from Brazil to China, with the performance of the BCI (Baltic Capesize Index) dropping nearly 50% compared to the levels recorded at the same time last year.
 

@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-10-27_tanker-trade-in-turbu
 ![Στιγμιότυπο Οθόνης 2025 10 27 101247](assets/2025-10-27_tanker-trade-in-turbulence_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_45351909ad78.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 10 27 101247**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-27_tanker-trade-in-turbulence_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_45351909ad78.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-10-27_tanker-trade-in-turbulence_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_45351909ad78.png)
 
 As of October 14, 2025, the U.S. and China have implemented reciprocal port fees targeting vessels associated with the opposing nation. These fees are levied on a per-net-ton basis, determined by a vessel’s identity, specifically its ownership, operation, flag, or build, rather than its cargo. Initial market observations suggest selective rerouting patterns, a potential rise in tonne-mile demand, and increased compliance and verification costs as firms intensify due diligence on vessel ownership and flag to mitigate exposure to reciprocal port fees.
 
@@ -58,7 +58,7 @@ Based on the below graph, Signal Ocean voyage data for the year-to-date 2025 ind
 ![Market Chart 2](assets/2025-10-27_tanker-trade-in-turbulence_img_unnamed28429_b28b00a86a57.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-27_tanker-trade-in-turbulence_img_unnamed28429_b28b00a86a57.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-10-27_tanker-trade-in-turbulence_img_unnamed28429_b28b00a86a57.png)
 
 Even when breaking down the data by vessel class, the exposure remains limited across all segments, with only minor differences between the crude and product fleets:
 
@@ -77,14 +77,14 @@ According to Signal Ocean fleet data, about 39% of the global tanker orderbook i
 ![Market Chart 3](assets/2025-10-27_tanker-trade-in-turbulence_img_unnamed28529_374c68bccf8f.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-27_tanker-trade-in-turbulence_img_unnamed28529_374c68bccf8f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-10-27_tanker-trade-in-turbulence_img_unnamed28529_374c68bccf8f.png)
 
 At the same time, the scheduled deliveries-to-fleet ratio, calculated for the non-Chinese-built portion of the global orderbook, highlights where upcoming exposure may concentrate. Suezmaxes show the highest renewal rate (15%), followed by MR2s (10%), MR1s (9%), VLCCs (8%), Aframaxes (7%), and Panamaxes (6%).
 
 ![Market Chart 4](assets/2025-10-27_tanker-trade-in-turbulence_img_unnamed28629_74a8907b2585.png)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-27_tanker-trade-in-turbulence_img_unnamed28629_74a8907b2585.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-10-27_tanker-trade-in-turbulence_img_unnamed28629_74a8907b2585.png)
 
 ### Looking Ahead
 

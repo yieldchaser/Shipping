@@ -41,21 +41,21 @@ Here is a sample of the code from the [Jupyter Notebook] ([Github](https://githu
 ![A1](assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a1_5cb84c7b86ea.jpg)
 
 > **Figure 1: A1**  
-> **Interactive Data & Source:** [Github](https://github.com/oceanbolt/oceanbolt-python-sdk/blob/master/docs/examples/18_utilization_correlation.ipynb) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a1_5cb84c7b86ea.jpg)
+> **Interactive Data & Source:** [Github](https://github.com/oceanbolt/oceanbolt-python-sdk/blob/master/docs/examples/18_utilization_correlation.ipynb) | [Local Asset](assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a1_5cb84c7b86ea.jpg)
 
 When visualizing these results, we get the chart below.
 
 ![A2](assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a2_ed56fdf8e4ca.png)
 
 > **Figure 2: A2**  
-> **Interactive Data & Source:** [Github](https://github.com/oceanbolt/oceanbolt-python-sdk/blob/master/docs/examples/18_utilization_correlation.ipynb) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a2_ed56fdf8e4ca.png)
+> **Interactive Data & Source:** [Github](https://github.com/oceanbolt/oceanbolt-python-sdk/blob/master/docs/examples/18_utilization_correlation.ipynb) | [Local Asset](assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a2_ed56fdf8e4ca.png)
 
 Arguably, this is not a perfect indicator, but let us calculate the Pearson correlation using Scipy.
 
 ![A3](assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a3_de2e4eb5a4bc.jpg)
 
 > **Figure 3: A3**  
-> **Interactive Data & Source:** [Github](https://github.com/oceanbolt/oceanbolt-python-sdk/blob/master/docs/examples/18_utilization_correlation.ipynb) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a3_de2e4eb5a4bc.jpg)
+> **Interactive Data & Source:** [Github](https://github.com/oceanbolt/oceanbolt-python-sdk/blob/master/docs/examples/18_utilization_correlation.ipynb) | [Local Asset](assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a3_de2e4eb5a4bc.jpg)
 
 Running this gives a correlation of 0.289 and a highly significant p-value. As expected by the economic rationale, there is positive correlation between utilization levels and freight prices. Yet, it is far from a perfect indicator.
 
@@ -75,14 +75,14 @@ See the [Jupyter Notebook] ([Github](https://github.com/oceanbolt/oceanbolt-pyth
 ![A4](assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a4_423e54b1e98b.png)
 
 > **Figure 4: A4**  
-> **Interactive Data & Source:** [Oceanbolt](https://www.oceanbolt.com/demo/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a4_423e54b1e98b.png)
+> **Interactive Data & Source:** [Oceanbolt](https://www.oceanbolt.com/demo/) | [Local Asset](assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a4_423e54b1e98b.png)
 
 Correlation matrix of freight indicators
 
 ![A5](assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a5_557410094024.png)
 
 > **Figure 5: A5**  
-> **Interactive Data & Source:** [Oceanbolt](https://www.oceanbolt.com/demo/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a5_557410094024.png)
+> **Interactive Data & Source:** [Oceanbolt](https://www.oceanbolt.com/demo/) | [Local Asset](assets/2021-05-15_correlation-of-freight-prices-and-indicators_img_a5_557410094024.png)
 
 Correlation heat map of freight indicators
 

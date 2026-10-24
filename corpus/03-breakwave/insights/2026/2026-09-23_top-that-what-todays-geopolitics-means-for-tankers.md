@@ -27,7 +27,7 @@ Since Russia’s invasion of Ukraine in early 2022, geopolitics has kept the fre
 ![2007 Image 0 1790153660050](assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_2007-image-0-1790153660050_dcc1321fe4aa.png)
 
 > **Figure 1: 2007 Image 0 1790153660050**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_2007-image-0-1790153660050_dcc1321fe4aa.png)
+> [Local Asset](assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_2007-image-0-1790153660050_dcc1321fe4aa.png)
 
 ### Geopolitics and Shipping
 
@@ -48,7 +48,7 @@ It is, however, the recent proliferation of military conflicts that has the most
 ![7e9f Image 1 1790153660058](assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_7e9f-image-1-1790153660058_d2ec0f51ff47.png)
 
 > **Figure 2: 7e9f Image 1 1790153660058**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_7e9f-image-1-1790153660058_d2ec0f51ff47.png)
+> [Local Asset](assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_7e9f-image-1-1790153660058_d2ec0f51ff47.png)
 
 Russia’s war with Ukraine, now well into its 5th year, has rerouted Russian oil and gas exports away from Europe, disrupted Black Sea grain and oil exports, spawned a shadow fleet of ships, and more recently removed Russian refined products from the international market.
 
@@ -89,7 +89,7 @@ Today’s geopolitical drivers do not affect all shipping sectors equally. This 
 ![1022 Image 2 1790153713226](assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_1022-image-2-1790153713226_5db2c781d46e.png)
 
 > **Figure 3: 1022 Image 2 1790153713226**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_1022-image-2-1790153713226_5db2c781d46e.png)
+> [Local Asset](assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_1022-image-2-1790153713226_5db2c781d46e.png)
 
 Containership rates are well down from the Covid-era strength, but despite weak demand growth and heavy flow of new ships into the market, rates have help up remarkably well.
 
@@ -120,7 +120,7 @@ While strong rates have relaxed most charterers upper age limits over the past 5
 ![6894 Image 3 1790153660064](assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_6894-image-3-1790153660064_19fd411b7cbf.png)
 
 > **Figure 4: 6894 Image 3 1790153660064**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_6894-image-3-1790153660064_19fd411b7cbf.png)
+> [Local Asset](assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_6894-image-3-1790153660064_19fd411b7cbf.png)
 
 Geopolitics is also shrinking the size of some fleets. At one point up to 50 non-sanctioned VLCCs were trapped in the Mideast Gulf. Several of those that have lifted Mideast Gulf or Red Sea cargoes and run the gauntlet via Hormuz or Bab Al Mandeb have been damaged by missiles or mines.
 
@@ -135,7 +135,7 @@ Since the start of the Iran war, the volume of oil and products lifted by tanker
 ![Cdc7 Image 4 1790153660070](assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_cdc7-image-4-1790153660070_508ebc6e65ba.png)
 
 > **Figure 5: Cdc7 Image 4 1790153660070**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_cdc7-image-4-1790153660070_508ebc6e65ba.png)
+> [Local Asset](assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_cdc7-image-4-1790153660070_508ebc6e65ba.png)
 
 ### Geopolitics Has Also Reduced the Efficiency of the Tanker Fleet
 
@@ -160,7 +160,7 @@ Three factors are at play here.
 ![60b2 Image 5 1790153760047](assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_60b2-image-5-1790153760047_ca69d47e4c58.png)
 
 > **Figure 6: 60b2 Image 5 1790153760047**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_60b2-image-5-1790153760047_ca69d47e4c58.png)
+> [Local Asset](assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_60b2-image-5-1790153760047_ca69d47e4c58.png)
 
 Inelasticity also stems from the expansion of tanker capacity controlled by charterers - notably oil companies and traders. As a company’s freight length increases relative to its oil length, it worries less about cheap freight. These traditional ‘charterers’ have grown their share of control of the Suezmaxes fleet from 20% to 35% since Russia invaded Ukraine. Their commercial control of Aframax/LR2 has grown from 27% to 38% and their share of MR control has grown from 25% to 35% of the fleet.
 
@@ -171,7 +171,7 @@ Newbuilding prices remain heavily influenced by shipyard capacity and constructi
 ![E4a5 Image 6 1790153778124](assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_e4a5-image-6-1790153778124_8f006c5887cb.png)
 
 > **Figure 7: E4a5 Image 6 1790153778124**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_e4a5-image-6-1790153778124_8f006c5887cb.png)
+> [Local Asset](assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_e4a5-image-6-1790153778124_8f006c5887cb.png)
 
 Across all shipping sectors, both newbuilding and second-hand prices are close to historical highs.
 
@@ -192,7 +192,7 @@ Fundamentals still matter, but geopolitics are changing the way we view the trad
 ![1759 Image 7 1790153818639](assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_1759-image-7-1790153818639_0406ae34e293.png)
 
 > **Figure 8: 1759 Image 7 1790153818639**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_1759-image-7-1790153818639_0406ae34e293.png)
+> [Local Asset](assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_1759-image-7-1790153818639_0406ae34e293.png)
 
 ### With Big Profits Comes Big Investment in New Ships
 
@@ -201,7 +201,7 @@ Thanks to stellar profits in the charter markets, the orderbook for all ship typ
 ![F006 Image 8 1790153660079](assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_f006-image-8-1790153660079_2b3145299a43.png)
 
 > **Figure 9: F006 Image 8 1790153660079**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_f006-image-8-1790153660079_2b3145299a43.png)
+> [Local Asset](assets/2026-09-23_top-that-what-todays-geopolitics-means-for-tankers_img_f006-image-8-1790153660079_2b3145299a43.png)
 
 The tanker orderbook has grown from a low of 4% of the existing fleet in 2023 to 27% today. Recent tanker ordering has focused on the VLCC and Suezmax sectors, allowed their orderbooks to reach 37% and 32% of their respective fleets. This compares to an orderbook representing 18% of the fleet for MRs, 22% for Aframax/LR2 and 14% for Panamax/LR1. The comparison between large and smaller tanker orderbooks disguises the fact that heavy deliveries for coated tankers has been underway for well over a year, whereas VLCCs and Suezmaxes have only felt the weight of deliveries this year.
 

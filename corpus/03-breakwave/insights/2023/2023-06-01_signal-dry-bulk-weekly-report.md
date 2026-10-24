@@ -27,7 +27,7 @@ The number of ballasters has been steadily increasing since the beginning of Apr
 
 > **Figure 1: Data Source: The Signal Ocean Platform**  
 > *Data Source: The Signal Ocean Platform, C3 Dashboard*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-c3/2p15qb/323368539?h=2znq_HgXwCtivbRVlMf0BjvUjZ4xiO725308zuBNEVg) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-01_signal-dry-bulk-weekly-report_img_unnamed-2023-06-01t114651023_9abb5011d4ba.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-c3/2p15qb/323368539?h=2znq_HgXwCtivbRVlMf0BjvUjZ4xiO725308zuBNEVg) | [Local Asset](assets/2023-06-01_signal-dry-bulk-weekly-report_img_unnamed-2023-06-01t114651023_9abb5011d4ba.png)
 
 [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-c3/2p15qb/323368539?h=2znq_HgXwCtivbRVlMf0BjvUjZ4xiO725308zuBNEVg)
 
@@ -46,7 +46,7 @@ Freight Market, Supply, Demand and Port Congestion
 
 > **Figure 2: Dry Freight Market Ends May with Weaker Momentum in the Capesize**  
 > *The dry freight market ends May with weaker momentum in the Capesize and Panamax segments, while there are some signs of an upward correction in the smaller vessel categories.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-01_signal-dry-bulk-weekly-report_img_unnamed-2023-06-01t114804182_c1768cab8917.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-06-01_signal-dry-bulk-weekly-report_img_unnamed-2023-06-01t114804182_c1768cab8917.png)
 
 - ***Capesize****vessel freight rates fell below $20/tonne, down $2/tonne from two weeks ago and with signs of a continued downward correction over the past four weeks.*
 - ***Panamax****vessel freight rates from**the**Continent to the Far East fell below $34/tonne, down nearly $8/tonne from the week 15 peak.*
@@ -58,7 +58,7 @@ Freight Market, Supply, Demand and Port Congestion
 ![Supply Trend Lines for Key Load Areas](assets/2023-06-01_signal-dry-bulk-weekly-report_img_unnamed-2023-06-01t115209676_80865cb9af53.png)
 
 > **Figure 3: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-01_signal-dry-bulk-weekly-report_img_unnamed-2023-06-01t115209676_80865cb9af53.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-06-01_signal-dry-bulk-weekly-report_img_unnamed-2023-06-01t115209676_80865cb9af53.png)
 
 ### ​​​​
 
@@ -72,7 +72,7 @@ The number of ballasters continues to show an upward trend for the larger ship c
 ![Section 3/ Demand - TonDays Weaker](assets/2023-06-01_signal-dry-bulk-weekly-report_img_unnamed-2023-06-01t115534146_d0e16d77c442.png)
 
 > **Figure 4: Section 3/ Demand - TonDays Weaker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-01_signal-dry-bulk-weekly-report_img_unnamed-2023-06-01t115534146_d0e16d77c442.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-06-01_signal-dry-bulk-weekly-report_img_unnamed-2023-06-01t115534146_d0e16d77c442.png)
 
 The growth in demand ton days has continued to weaken, with the Panamax segment experiencing the most significant downward revision.
 
@@ -86,7 +86,7 @@ The growth in demand ton days has continued to weaken, with the Panamax segment 
 ![Market Chart 5](assets/2023-06-01_signal-dry-bulk-weekly-report_img_unnamed-2023-06-01t115619393_43cbbf17dbc0.png)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-01_signal-dry-bulk-weekly-report_img_unnamed-2023-06-01t115619393_43cbbf17dbc0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-06-01_signal-dry-bulk-weekly-report_img_unnamed-2023-06-01t115619393_43cbbf17dbc0.png)
 
 May ends another increase in congestion, reaching a new high for the year, with signs of a downward correction in the Capesize segment.
 

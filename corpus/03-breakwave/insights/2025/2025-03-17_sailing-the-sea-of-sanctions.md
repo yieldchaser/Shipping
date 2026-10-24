@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-03-17_sailing-the-sea-of-sa
 ![Products Tanker](assets/2025-03-17_sailing-the-sea-of-sanctions_img_products-tanker_432c58f603f3.jpg)
 
 > **Figure 1: Products Tanker**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-17_sailing-the-sea-of-sanctions_img_products-tanker_432c58f603f3.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-03-17_sailing-the-sea-of-sanctions_img_products-tanker_432c58f603f3.jpg)
 
 Just before the end of his presidency, the Biden administration gave a parting gift to the tanker markets as the Office of Foreign Assets Control (OFAC) sanctioned 155 mainly Russia affiliated tankers. In the same week, Shandong Port Group, home to refiners responsible for significant crude imports from countries under US embargo, banned sanctioned tankers from calling into its ports in eastern China. The following weeks saw some redirection of trade flows and rising freight rates especially for VLCCs, as buyers of Iranian and Russian crude attempted to diversify their import streams to safeguard supply.
 
@@ -40,7 +40,7 @@ It was reported that the Trump administration was considering an international a
 ![Στιγμιότυπο Οθόνης 2025 03 17 100400](assets/2025-03-17_sailing-the-sea-of-sanctions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f0fce7b4a382.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 03 17 100400**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-17_sailing-the-sea-of-sanctions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f0fce7b4a382.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-03-17_sailing-the-sea-of-sanctions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f0fce7b4a382.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

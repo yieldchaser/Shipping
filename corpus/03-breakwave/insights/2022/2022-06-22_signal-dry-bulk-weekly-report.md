@@ -36,7 +36,7 @@ In the grain market, Chicago wheat futures slid to $10 per bushel in June, the l
 ![Market Chart 1](assets/2022-06-22_signal-dry-bulk-weekly-report_img_unnamed282529_c2f1409b2519.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-22_signal-dry-bulk-weekly-report_img_unnamed282529_c2f1409b2519.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-06-22_signal-dry-bulk-weekly-report_img_unnamed282529_c2f1409b2519.png)
 
 This week sees a continued drop in freight rates, while small signs of a rebound could be seen in the Panamax segment.
 
@@ -52,7 +52,7 @@ This week sees a continued drop in freight rates, while small signs of a rebound
 ![Supply Trend Lines for Key Load Areas](assets/2022-06-22_signal-dry-bulk-weekly-report_img_unnamed282629_e72a1307c161.png)
 
 > **Figure 2: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-22_signal-dry-bulk-weekly-report_img_unnamed282629_e72a1307c161.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-06-22_signal-dry-bulk-weekly-report_img_unnamed282629_e72a1307c161.png)
 
 The number of ballasters kept rising, as seen in the last couple of weeks, with the exception of the handysize segment, where the last three weeks have seen a sharp drop.
 
@@ -68,7 +68,7 @@ The number of ballasters kept rising, as seen in the last couple of weeks, with 
 ![Decreasing](assets/2022-06-22_signal-dry-bulk-weekly-report_img_unnamed282729_4323b28ffbd2.png)
 
 > **Figure 3: Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-22_signal-dry-bulk-weekly-report_img_unnamed282729_4323b28ffbd2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-06-22_signal-dry-bulk-weekly-report_img_unnamed282729_4323b28ffbd2.png)
 
 The third week of June saw demand growth recovering in the Capesize segment, whereas there is still a decrease in ton days growth for the other vessel class categories.
 

@@ -40,28 +40,28 @@ The S&P 500, the world’s leading equity indicator continued to rally, closing 
 ![Market Chart 1](assets/2023-02-07_mazars-note-are-bulls-headed-towards-the-cliff-we-arent-so-sure_img_image00828329_a38e31f67414.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-07_mazars-note-are-bulls-headed-towards-the-cliff-we-arent-so-sure_img_image00828329_a38e31f67414.jpg)
+> [Local Asset](assets/2023-02-07_mazars-note-are-bulls-headed-towards-the-cliff-we-arent-so-sure_img_image00828329_a38e31f67414.jpg)
 
 The statement above is difficult to reconcile with the realities of the last two weeks. In the past fifteen days, the Fed raised rates into a cooling economy and warned markets that it will continue to do so in the coming months. Friday’s great US jobs data will only reinforce the central bank’s hawkishness. The Fed was followed by equally hawkish central banks in Europe and the UK. Meanwhile, US bank and Megatech earnings disappointed. Despite the IMF’s somewhat brighter outlook, top S&P 500 companies are firing workers, fearing an earnings recession.
 
 ![Market Chart 2](assets/2023-02-07_mazars-note-are-bulls-headed-towards-the-cliff-we-arent-so-sure_img_image009_f1cf7955cb51.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-07_mazars-note-are-bulls-headed-towards-the-cliff-we-arent-so-sure_img_image009_f1cf7955cb51.png)
+> [Local Asset](assets/2023-02-07_mazars-note-are-bulls-headed-towards-the-cliff-we-arent-so-sure_img_image009_f1cf7955cb51.png)
 
 Earnings analysts warn that present valuations are low, and earnings could fall in the coming quarter as they don’t encompass the type of significant deterioration (10%-18%) we would see in a recession.
 
 ![Market Chart 3](assets/2023-02-07_mazars-note-are-bulls-headed-towards-the-cliff-we-arent-so-sure_img_image01028329_129d36d1f95a.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-07_mazars-note-are-bulls-headed-towards-the-cliff-we-arent-so-sure_img_image01028329_129d36d1f95a.jpg)
+> [Local Asset](assets/2023-02-07_mazars-note-are-bulls-headed-towards-the-cliff-we-arent-so-sure_img_image01028329_129d36d1f95a.jpg)
 
 At the same time, Asia is rocked by what could possibly prove to be one the biggest corporate scandals in history. Wall Street behemoths like Blackrock and Vanguard have exposure - a reminder that passive investing has risks. And let us not forget that the Fed continues to siphon money from markets at an increased pace.
 
 ![Market Chart 4](assets/2023-02-07_mazars-note-are-bulls-headed-towards-the-cliff-we-arent-so-sure_img_image01128429_c2a5740779ae.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-07_mazars-note-are-bulls-headed-towards-the-cliff-we-arent-so-sure_img_image01128429_c2a5740779ae.jpg)
+> [Local Asset](assets/2023-02-07_mazars-note-are-bulls-headed-towards-the-cliff-we-arent-so-sure_img_image01128429_c2a5740779ae.jpg)
 
 Commentators and pundits are wondering why the bullishness. If anything, a bullish environment would enable the Fed to tighten further, or at the very least to increase the pace of quantitative tightening.
 
@@ -72,14 +72,14 @@ The other reason could be a little more surprising. Money managers are always te
 ![Market Chart 5](assets/2023-02-07_mazars-note-are-bulls-headed-towards-the-cliff-we-arent-so-sure_img_image01228429_a0ab1f84e595.jpg)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-07_mazars-note-are-bulls-headed-towards-the-cliff-we-arent-so-sure_img_image01228429_a0ab1f84e595.jpg)
+> [Local Asset](assets/2023-02-07_mazars-note-are-bulls-headed-towards-the-cliff-we-arent-so-sure_img_image01228429_a0ab1f84e595.jpg)
 
 Is it that incomprehensible that Investors who have been yield-starved for years find 3% and 4% investment grade and sovereign valuations attractive? Or that, considering past returns, investors are coming back after a bad year?
 
 ![Market Chart 6](assets/2023-02-07_mazars-note-are-bulls-headed-towards-the-cliff-we-arent-so-sure_img_image01328329_63e7efbfea42.jpg)
 
 > **Figure 6: Market Chart 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-07_mazars-note-are-bulls-headed-towards-the-cliff-we-arent-so-sure_img_image01328329_63e7efbfea42.jpg)
+> [Local Asset](assets/2023-02-07_mazars-note-are-bulls-headed-towards-the-cliff-we-arent-so-sure_img_image01328329_63e7efbfea42.jpg)
 
 We feel that the answer is probably a mix of those conditions. Some bullishness, some algos, some buying the valuation, the yield and the history, each of these trends reinforcing the other.
 
@@ -90,7 +90,7 @@ Barring a serious financial accident in the next twelve months, the single-cours
 ![Market Chart 7](assets/2023-02-07_mazars-note-are-bulls-headed-towards-the-cliff-we-arent-so-sure_img_image014_a9935e4d6c07.png)
 
 > **Figure 7: Market Chart 7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-07_mazars-note-are-bulls-headed-towards-the-cliff-we-arent-so-sure_img_image014_a9935e4d6c07.png)
+> [Local Asset](assets/2023-02-07_mazars-note-are-bulls-headed-towards-the-cliff-we-arent-so-sure_img_image014_a9935e4d6c07.png)
 
 ### What to Look for This Week:
 

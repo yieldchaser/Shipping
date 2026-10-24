@@ -57,7 +57,7 @@ Regarding the U.S. market, while still significant, it continues to lose ground 
 
 > **Figure 1: Image 1: Grain Flows From All Origin Countries to All Destinations, Years 2022, 2023 & Jan-Jul 2024**  
 > *Image 1: Grain Flows from ALL origin countries to ALL destinations, Years 2022, 2023 & Jan-Jul 2024*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/grain-seaborne-trade-impact-on-the-dry-bulk-freight-market) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b350f21e72aba6309714bb_66b34bac5cce164c837b72e6_IMAGE%201%20GRAIN%20ORIGIN%20COUNTRIES.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/grain-seaborne-trade-impact-on-the-dry-bulk-freight-market) | [Local Asset](../../images/66b350f21e72aba6309714bb_66b34bac5cce164c837b72e6_IMAGE%201%20GRAIN%20ORIGIN%20COUNTRIES.avif)
 
 
 ## An Eye on the Ukrainian Situation
@@ -69,7 +69,7 @@ From Ukraine, it is interesting to see the increase in the quantity of tonnes se
 
 > **Figure 2: Image 2: Grain Flows From Ukraine to All Destinations, Years 2023 & Jan-Jul 2024, on a Weekly and Quarterly Basis**  
 > *Image 2: Grain Flows from Ukraine to ALL destinations, Years 2023 & Jan-Jul 2024, on a weekly and quarterly basis*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/grain-seaborne-trade-impact-on-the-dry-bulk-freight-market) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b350f21e72aba6309714ca_66b34bd1d4032f57edd437bf_IMAGE%202%20UKRAINE%20GRAIN%20SHIPMENTS.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/grain-seaborne-trade-impact-on-the-dry-bulk-freight-market) | [Local Asset](../../images/66b350f21e72aba6309714ca_66b34bd1d4032f57edd437bf_IMAGE%202%20UKRAINE%20GRAIN%20SHIPMENTS.avif)
 
 Several factors contribute to this positive trend. First, improved logistical strategies and increased efficiency in port operations have enabled a smoother and faster flow of goods. This is crucial given the geopolitical challenges and the ongoing conflict in the region. According to a[June report](https://www.world-grain.com/articles/19589-ukraine-grain-exports-on-the-rise#:~:text=KYIV%2C%20UKRAINE%20%E2%80%94%20Having%20independently%20resumed,the%20US%20Department%20of%20Agriculture.) from the Foreign Agricultural Service (FAS) of the US Department of Agriculture, Ukraine is forecasted to increase grain exports for the remainder of the 2023-24 marketing year, having independently resumed operations of its major maritime ports on the Black Sea. In response to Russia's invasion in February 2022, Ukraine developed a new export corridor on the Black Sea, following neighbouring countries' territorial waters to reach the Bosphorus Strait. Ukrainian ships then navigate from Romanian waters near the mouth of the Danube River into Ukrainian territorial waters. This development aligns with key indicators in the Baltic Dry Index, which continue to show volatility in global dry bulk shipping demand.
 
@@ -85,7 +85,7 @@ As we move into the latter half of the year, continued monitoring of the Ukraini
 
 > **Figure 3: Image 3: Grain Flows From Brazil and the United States, Years 2023 & Jan-Jul 2024, on a Quarterly Basis**  
 > *Image 3: Grain Flows from Brazil and the United States, Years 2023 & Jan-Jul 2024, on a quarterly basis*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/grain-seaborne-trade-impact-on-the-dry-bulk-freight-market) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b350f21e72aba6309714c6_66b34c1f2d1553e62b69d83a_IMAGE%203%20FROM%20BRAZIL%20US.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/grain-seaborne-trade-impact-on-the-dry-bulk-freight-market) | [Local Asset](../../images/66b350f21e72aba6309714c6_66b34c1f2d1553e62b69d83a_IMAGE%203%20FROM%20BRAZIL%20US.avif)
 
 The first two quarters of this year revealed the strength of Brazilian grain exports to the Chinese economy, with both quarters showing an increase compared to the previous two years. The rise was particularly pronounced at the end of the second quarter, where there was a 66% increase in the quantity of Brazilian grain exports to China compared to the end of the first quarter. This surge highlights Brazil's growing role as a major supplier to China's vast agricultural market. A close look at shipping estimates suggests that freight demand in China will remain strong throughout the year, particularly for bulk shipments arriving from Brazil and the U.S. This increased demand impacts the number of bulk carriers available for future voyages, ultimately influencing global trade flows.
 
@@ -109,7 +109,7 @@ This slight shift in vessel usage also reflects broader strategic adaptations wi
 
 > **Figure 4: Image 4: Grain Flows From Brazil, Years 2021 & Jan-Jul 2024, % Share per Vessel Class Category**  
 > *Image 4: Grain Flows from Brazil, Years 2021 & Jan-Jul 2024, % share per vessel class category*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/grain-seaborne-trade-impact-on-the-dry-bulk-freight-market) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b350f21e72aba6309714be_66b3501a99bb94bc37356fec_IMAGE%204.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/grain-seaborne-trade-impact-on-the-dry-bulk-freight-market) | [Local Asset](../../images/66b350f21e72aba6309714be_66b3501a99bb94bc37356fec_IMAGE%204.avif)
 
 Given the above results, we examined recent freight market trends, focusing on the supply and demand dynamics on the Panamax P6 route for the East Coast South America (ECSA) market. From mid-June onwards, there has been downward pressure on freight market rates despite higher daily loaded volumes on the ECSA. The Baltic Dry Index reflects this trend, showing fluctuations in demand and vessel availability. Meanwhile, tools such as the freight cost calculator have become essential for companies trying to estimate shipping costs accurately. With the increasing complexity of global trade, optimizing freight expenditures is critical for maintaining profitability.
 
@@ -118,7 +118,7 @@ Given the above results, we examined recent freight market trends, focusing on t
 
 > **Figure 5: Image 5: Panamax Insights P6 Route, Years 2022-2023-2024, Balusters, Demand & Baltic Rates**  
 > *Image 5: Panamax Insights P6 route, Years 2022-2023-2024, Balusters, Demand & Baltic rates*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/grain-seaborne-trade-impact-on-the-dry-bulk-freight-market) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b350f21e72aba6309714c3_66b35031557a669f4c95a22b_image%205.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/grain-seaborne-trade-impact-on-the-dry-bulk-freight-market) | [Local Asset](../../images/66b350f21e72aba6309714c3_66b35031557a669f4c95a22b_image%205.avif)
 
 As we move into early August, there has been a gradual deceleration in the number of ballasters, but the recovery of the freight market is still not evident. The daily volume loaded in the ECSA appears to be slowing down from the peak of over 700,000 tonnes observed in mid-June. This slowdown in loaded volumes further compounds the pressure on freight rates, as the market struggles to balance the oversupply of vessels with the actual demand for grain transportation.
 

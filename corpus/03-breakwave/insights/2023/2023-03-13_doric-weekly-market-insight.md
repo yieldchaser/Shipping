@@ -28,7 +28,7 @@ Releasing the first major economic indicator since fully relaxing its zero-Covid
 ![1 (2)](assets/2023-03-13_doric-weekly-market-insight_img_128229_2a05896d8fe7.png)
 
 > **Figure 1: 1 (2)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-13_doric-weekly-market-insight_img_128229_2a05896d8fe7.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-03-13_doric-weekly-market-insight_img_128229_2a05896d8fe7.png)
 
 China's trade figures for the first two trading months are combined to smooth out the impact of the Lunar New Year holiday, which falls at different times within those months each year. However, the aforementioned steep fall in dollar terms of the international sector of the Chinese economy was indicative of two other developments during this period. Firstly, Beijing has faced challenges on lifting Chinese economy after almost three years of strict Covid-19 measures. Additionally, a slowdown in the global economy has had a negative bearing on China’s international trading activity. “Downward pressure on the global economy is being compounded by the effects of protectionism, growth of global trade is slowing down, and competition in the international market is intensifying, which has made it more difficult for China to maintain stable export growth,” the National Development and Reform Commission stressed on Sunday.
 
@@ -37,7 +37,7 @@ In volume terms, Chinese imports of dry bulk commodities reported strong gains f
 ![1 (3)](assets/2023-03-13_doric-weekly-market-insight_img_128329_3ad89802f7a6.png)
 
 > **Figure 2: 1 (3)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-13_doric-weekly-market-insight_img_128329_3ad89802f7a6.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-03-13_doric-weekly-market-insight_img_128329_3ad89802f7a6.png)
 
 In this economic juncture, Xi Jinping was unanimously elected president of the People's Republic of China and chairman of the Central Military Commission of the PRC on Friday at the ongoing session of the 14th National People's Congress. At the same time as Chinese Congress renewed its faith to Xi Jinping, dry bulk forward curves were demonstrating market’s credence for a positive outlook for the months to come in the ever-challenging spot arena.
 

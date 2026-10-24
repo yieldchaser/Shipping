@@ -63,7 +63,7 @@ Beyond order volumes and vessel supply, disruptions to global supply chains, ris
 ![Screenshot 2024 03 06 16.03.18](assets/2024-03-06_the-fix-global-market-update-from-shipfix_img_screenshot2024-03-06160318_9e456b24c5ba.png)
 
 > **Figure 1: Screenshot 2024 03 06 16.03.18**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-06_the-fix-global-market-update-from-shipfix_img_screenshot2024-03-06160318_9e456b24c5ba.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-03-06_the-fix-global-market-update-from-shipfix_img_screenshot2024-03-06160318_9e456b24c5ba.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

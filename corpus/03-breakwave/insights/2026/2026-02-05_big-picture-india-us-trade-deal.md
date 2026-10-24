@@ -30,7 +30,7 @@ Since last October India has been a key growth market for compliant oil from bot
 
 > **Figure 1: Source: Vortexa**  
 > *Source: Vortexa. Volume from Russia includes CPC blend.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-05_big-picture-india-us-trade-deal_img_46e3-image-0-1770223748378_6256ba046755.png)
+> [Local Asset](assets/2026-02-05_big-picture-india-us-trade-deal_img_46e3-image-0-1770223748378_6256ba046755.png)
 
 In theory we could now see India drop a further 1m b/d of Russia crude imports. This assumes the EU/UK sanctioned Nayara stops taking approx. 400k b/d of Russian crude (for which no obvious alternative sources are available). If the slack was once again picked up in roughly equal measure by the Middle East and South America, and allowing for the growth in India oil imports since Q3 2025 averages, this could see an extra 520k b/d arriving from the Mid East, and 480k b/d from South America.
 
@@ -45,7 +45,7 @@ If this competitiveness allowed the Middle East to make up 80% of India’s shor
 ![B688 Image 1 1770224004154](assets/2026-02-05_big-picture-india-us-trade-deal_img_b688-image-1-1770224004154_bac73c12e84a.png)
 
 > **Figure 2: B688 Image 1 1770224004154**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-05_big-picture-india-us-trade-deal_img_b688-image-1-1770224004154_bac73c12e84a.png)
+> [Local Asset](assets/2026-02-05_big-picture-india-us-trade-deal_img_b688-image-1-1770224004154_bac73c12e84a.png)
 
 ### The Case for the Middle East
 
@@ -66,7 +66,7 @@ Given the benefit of economies of scale on long-hauls to India, VLCC ability to 
 ![5903 Image 1 1770223772537](assets/2026-02-05_big-picture-india-us-trade-deal_img_5903-image-1-1770223772537_4820ccfa7bb6.png)
 
 > **Figure 3: 5903 Image 1 1770223772537**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-05_big-picture-india-us-trade-deal_img_5903-image-1-1770223772537_4820ccfa7bb6.png)
+> [Local Asset](assets/2026-02-05_big-picture-india-us-trade-deal_img_5903-image-1-1770223772537_4820ccfa7bb6.png)
 
 Trump’s announcement leaves several questions unanswered. Is the Indian government now going to restrict the 647k b/d of Russian crude imported by state-owned refiners in January? Where does this leave the EU/UK-sanctioned Nayara refinery, which is solely reliant on Russian crude (circa 400k b/d of Russia imports)? Will the Indian government insist on full compliance by its private refiners other than Nayara? Reliance and HMEL have already cut their Russian crude imports to zero in January following Europe’s Jan 21st ban on CPP refined from Russian crude oil. Commentators have expressed some scepticism that India would stop all Russian imports. They have suggested that the US-India deal could be more about pressuring Russia than a real desire to end India-bound Russian flows.
 
@@ -75,7 +75,7 @@ Nevertheless, while any import restrictions remain in place, a battle is shaping
 ![01c7 Image 3 1770224055344](assets/2026-02-05_big-picture-india-us-trade-deal_img_01c7-image-3-1770224055344_36ff5ff08e45.png)
 
 > **Figure 4: 01c7 Image 3 1770224055344**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-05_big-picture-india-us-trade-deal_img_01c7-image-3-1770224055344_36ff5ff08e45.png)
+> [Local Asset](assets/2026-02-05_big-picture-india-us-trade-deal_img_01c7-image-3-1770224055344_36ff5ff08e45.png)
 
 ---
 

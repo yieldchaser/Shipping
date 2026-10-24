@@ -25,7 +25,7 @@ The prospect of peace talks in the Middle East pushed the energy sector lower. T
 ![Στιγμιότυπο Οθόνης 2026 07 29 102916](assets/2026-07-29_prospect-of-middle-east-peace-talks-pushes-oil-lower_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd23cb02c196.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 07 29 102916**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-29_prospect-of-middle-east-peace-talks-pushes-oil-lower_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd23cb02c196.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2026-07-29_prospect-of-middle-east-peace-talks-pushes-oil-lower_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd23cb02c196.png)
 
 ### Market Commentary
 
@@ -44,7 +44,7 @@ India is not a major iron ore exporter. It accounts for only about 2% of imports
 ![Στιγμιότυπο Οθόνης 2026 07 29 103016](assets/2026-07-29_prospect-of-middle-east-peace-talks-pushes-oil-lower_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0191f74b21e1.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 07 29 103016**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-29_prospect-of-middle-east-peace-talks-pushes-oil-lower_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0191f74b21e1.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2026-07-29_prospect-of-middle-east-peace-talks-pushes-oil-lower_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0191f74b21e1.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

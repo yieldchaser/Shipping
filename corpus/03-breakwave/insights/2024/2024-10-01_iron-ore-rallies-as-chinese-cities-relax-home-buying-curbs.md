@@ -27,7 +27,7 @@ Metals gained in early Asia trading as Chinese provinces implemented measures to
 ![Στιγμιότυπο Οθόνης 2024 10 01 115744](assets/2024-10-01_iron-ore-rallies-as-chinese-cities-relax-home-buying-curbs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b93f2e286faf.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 01 115744**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-01_iron-ore-rallies-as-chinese-cities-relax-home-buying-curbs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b93f2e286faf.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-10-01_iron-ore-rallies-as-chinese-cities-relax-home-buying-curbs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b93f2e286faf.png)
 
 ### Market Commentary
 
@@ -48,7 +48,7 @@ Despite the recovery in Chile's copper output in September, it remains well belo
 ![Στιγμιότυπο Οθόνης 2024 10 01 115841](assets/2024-10-01_iron-ore-rallies-as-chinese-cities-relax-home-buying-curbs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_97adbbc5cfd5.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 01 115841**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-01_iron-ore-rallies-as-chinese-cities-relax-home-buying-curbs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_97adbbc5cfd5.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-10-01_iron-ore-rallies-as-chinese-cities-relax-home-buying-curbs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_97adbbc5cfd5.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

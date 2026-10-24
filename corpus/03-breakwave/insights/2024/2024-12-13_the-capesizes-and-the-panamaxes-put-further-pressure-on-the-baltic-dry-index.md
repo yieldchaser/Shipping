@@ -63,7 +63,7 @@ Compared to a year ago, the global aggregate cargo order volumes recorded in Nov
 ![Market Chart 1](assets/2024-12-13_the-capesizes-and-the-panamaxes-put-further-pressure-on-the-baltic-dry-index_img_unnamed_2956cd1d389b.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-13_the-capesizes-and-the-panamaxes-put-further-pressure-on-the-baltic-dry-index_img_unnamed_2956cd1d389b.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-12-13_the-capesizes-and-the-panamaxes-put-further-pressure-on-the-baltic-dry-index_img_unnamed_2956cd1d389b.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

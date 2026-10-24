@@ -47,7 +47,7 @@ In the past decade and a half, after the 2008 Global Financial Crisis, the inves
 ![Market Chart 1](assets/2024-04-30_and-then-there-were-none-whats-the-impact-of-the-feds-higher-for-longer_img_image006_9fa52336caee.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-30_and-then-there-were-none-whats-the-impact-of-the-feds-higher-for-longer_img_image006_9fa52336caee.jpg)
+> [Local Asset](assets/2024-04-30_and-then-there-were-none-whats-the-impact-of-the-feds-higher-for-longer_img_image006_9fa52336caee.jpg)
 
 Forward guidance worked well in an environment of low economic volatility we called “The Great Moderation”. Chinese exported deflation created a stable inflation, and thus growth and rate environment for a long time.
 
@@ -56,7 +56,7 @@ But, as we know, inflation can throw a major spanner in the works, upsetting gro
 ![Market Chart 2](assets/2024-04-30_and-then-there-were-none-whats-the-impact-of-the-feds-higher-for-longer_img_image007_ad09c8464375.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-30_and-then-there-were-none-whats-the-impact-of-the-feds-higher-for-longer_img_image007_ad09c8464375.jpg)
+> [Local Asset](assets/2024-04-30_and-then-there-were-none-whats-the-impact-of-the-feds-higher-for-longer_img_image007_ad09c8464375.jpg)
 
 As we said, a good forecast is the one that adjusts to the new data. And in an era of high macroeconomic volatility, that means it will likely change often. If the Fed, who is the primary stakeholder and ultimate decider of the interest rate in the world’s reserve currency, can’t get it right from the start, what’s the point of anyone else trying?
 
@@ -73,21 +73,21 @@ Two weeks ago, at the IMF meeting in Washington, BoE’s Andrew Bailey and Krist
 ![Market Chart 3](assets/2024-04-30_and-then-there-were-none-whats-the-impact-of-the-feds-higher-for-longer_img_image008_174065dbdf5f.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-30_and-then-there-were-none-whats-the-impact-of-the-feds-higher-for-longer_img_image008_174065dbdf5f.jpg)
+> [Local Asset](assets/2024-04-30_and-then-there-were-none-whats-the-impact-of-the-feds-higher-for-longer_img_image008_174065dbdf5f.jpg)
 
 This makes sense. The European economies are projected to have less than a third of the US growth, mostly fuelled by debt and private credit, and less inflation by the end of the year.
 
 ![Market Chart 4](assets/2024-04-30_and-then-there-were-none-whats-the-impact-of-the-feds-higher-for-longer_img_image009_f381a2440375.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-30_and-then-there-were-none-whats-the-impact-of-the-feds-higher-for-longer_img_image009_f381a2440375.jpg)
+> [Local Asset](assets/2024-04-30_and-then-there-were-none-whats-the-impact-of-the-feds-higher-for-longer_img_image009_f381a2440375.jpg)
 
 **But neither the BoE nor the ECB can lower rates too much, even if they have room to, as long as the Fed holds its rates “higher for longer” for fear of significant capital outflows.**Just look at what happened to Chinese FDI, when the rate differential between the Fed and the PBoC grew too big.
 
 ![Market Chart 5](assets/2024-04-30_and-then-there-were-none-whats-the-impact-of-the-feds-higher-for-longer_img_image010_b117c6952cbd.jpg)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-30_and-then-there-were-none-whats-the-impact-of-the-feds-higher-for-longer_img_image010_b117c6952cbd.jpg)
+> [Local Asset](assets/2024-04-30_and-then-there-were-none-whats-the-impact-of-the-feds-higher-for-longer_img_image010_b117c6952cbd.jpg)
 
 When you own the world’s reserve currency, a high rate is an easy way to attract foreign money. While a more expensive currency could have an effect on US exports, it’s good to remember that America is not an export-led economy. At 11% of GDP, the US ranks 140th out of 149 countries measured by the World bank in terms of export reliance, and dead last versus its major economic partners. With exports not a major concern, American policymakers might welcome a lower cost of imports.
 

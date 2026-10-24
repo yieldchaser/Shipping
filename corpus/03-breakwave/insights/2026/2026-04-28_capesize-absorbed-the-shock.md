@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-04-28_capesize-absorbed-the
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-28_capesize-absorbed-the-shock_img_pexels-vasu27-3478963_29f31d4b43fe.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](assets/2026-04-28_capesize-absorbed-the-shock_img_pexels-vasu27-3478963_29f31d4b43fe.jpg)
 
 The period spanning late February to late April 2026 has delivered a market narrative defined by divergence, resilience, and most notably, a structural repricing of dry bulk assets that has moved well ahead of the freight rate dynamics that would traditionally justify it.
 

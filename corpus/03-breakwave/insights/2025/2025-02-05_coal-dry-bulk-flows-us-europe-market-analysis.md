@@ -31,7 +31,7 @@ February 05, 2025
 ![Στιγμιότυπο Οθόνης 2025 02 05 122945](assets/2025-02-05_coal-dry-bulk-flows-us-europe-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_10d05c9191c4.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 02 05 122945**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-05_coal-dry-bulk-flows-us-europe-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_10d05c9191c4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-05_coal-dry-bulk-flows-us-europe-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_10d05c9191c4.png)
 
 The total coal shipment volume from the U.S. to Europe in 2024 is estimated at 25.2 million tonnes, reflecting a decline from 2023, which recorded 26.4 million tonnes. This marks a 4.5% year-over-year drop in total coal exports, suggesting a potential weakening of European demand for U.S. coal, possibly due to factors such as regulatory changes, energy transition policies, or economic slowdowns. In 2023, the highest shipment volume occurred in January, surpassing 3 million tonnes, with relatively stable flows throughout the rest of the year. Data for January 2025 reveals a significantly lower shipment volume than previous years, reinforcing the expectation of a weaker coal export outlook. Seasonal trends show that coal shipments typically peak from August to October, indicating a higher demand for coal during late summer and early fall.
 
@@ -42,7 +42,7 @@ Looking ahead, the Signal Ocean Coal Dry Bulk Flows report suggests a weak start
 ![Στιγμιότυπο Οθόνης 2025 02 05 123118](assets/2025-02-05_coal-dry-bulk-flows-us-europe-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c67f4024a519.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 02 05 123118**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-05_coal-dry-bulk-flows-us-europe-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c67f4024a519.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-05_coal-dry-bulk-flows-us-europe-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c67f4024a519.png)
 
 The overall trend remains bearish for the Capesize Brazil - North China rates, with recent weeks seeing a slight recovery after a prolonged decline.
 
@@ -54,7 +54,7 @@ The overall trend remains bearish for the Capesize Brazil - North China rates, w
 ![Στιγμιότυπο Οθόνης 2025 02 05 123224](assets/2025-02-05_coal-dry-bulk-flows-us-europe-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_35bee41188da.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 02 05 123224**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-05_coal-dry-bulk-flows-us-europe-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_35bee41188da.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-05_coal-dry-bulk-flows-us-europe-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_35bee41188da.png)
 
 The recent increase in**Cape SE Africa**and**Pmax SE Africa**ballasters may indicate softer demand in loading regions, causing more vessels to remain in ballast.
 
@@ -66,7 +66,7 @@ The recent increase in**Cape SE Africa**and**Pmax SE Africa**ballasters may indi
 ![Στιγμιότυπο Οθόνης 2025 02 05 124032](assets/2025-02-05_coal-dry-bulk-flows-us-europe-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_095cb356464e.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 02 05 124032**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-05_coal-dry-bulk-flows-us-europe-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_095cb356464e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-05_coal-dry-bulk-flows-us-europe-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_095cb356464e.png)
 
 The first week of February held the downward trend in dry tonne-day growth across all dry vessel size categories.
 
@@ -78,7 +78,7 @@ The first week of February held the downward trend in dry tonne-day growth acros
 ![Στιγμιότυπο Οθόνης 2025 02 05 124805](assets/2025-02-05_coal-dry-bulk-flows-us-europe-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d9d68632557c.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 02 05 124805**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-05_coal-dry-bulk-flows-us-europe-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d9d68632557c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-05_coal-dry-bulk-flows-us-europe-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d9d68632557c.png)
 
 Congestion at Chinese dry bulk ports continued a significant reduction from the end of January, with a sharp declining trend observed in the Capesize vessel size segment.
 

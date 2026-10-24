@@ -30,7 +30,7 @@ China’s steel market continues to show signs of softness. The National Bureau 
 ![Iron Ore Surplus Builds as Chinese Steel Margins Remain Under Pressure](../../images/6a43bb33263a2780ef82c4ea_307c9ace.png)
 
 > **Figure 1: Iron Ore Surplus Builds as Chinese Steel Margins Remain Under Pressure**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ore-surplus-builds-as-chinese-steel-margins-remain-under-pressure) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a43bb33263a2780ef82c4ea_307c9ace.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ore-surplus-builds-as-chinese-steel-margins-remain-under-pressure) | [Local Asset](../../images/6a43bb33263a2780ef82c4ea_307c9ace.png)
 
 Domestic conditions remain under pressure. China’s theoretical rebar margin* stays near decade lows, a level that has historically shown an inverse correlation with strong steel export volumes**. Elevated exports signal weak domestic consumption, compressing mill profitability. And the rebar margin forward curve, despite being slightly in contango, does not suggest, as end of June, any meaningful improvement.
 
@@ -42,7 +42,7 @@ Domestic conditions remain under pressure. China’s theoretical rebar margin* s
 ![Iron Ore Surplus Builds as Chinese Steel Margins Remain Under Pressure](../../images/6a43bb33263a2780ef82c4f0_f004a9fd.png)
 
 > **Figure 2: Iron Ore Surplus Builds as Chinese Steel Margins Remain Under Pressure**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ore-surplus-builds-as-chinese-steel-margins-remain-under-pressure) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a43bb33263a2780ef82c4f0_f004a9fd.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ore-surplus-builds-as-chinese-steel-margins-remain-under-pressure) | [Local Asset](../../images/6a43bb33263a2780ef82c4f0_f004a9fd.png)
 
 On the supply side, domestic iron ore production — lower-grade than seaborne material — dropped sharply by 13.5% to 74.2 million tons (equivalent to 27.5 million tons at 62% Fe), suggesting some adjustment on the supply side but not enough to rebalance the market.
 
@@ -50,7 +50,7 @@ On the supply side, domestic iron ore production — lower-grade than seaborne m
 ![Iron Ore Surplus Builds as Chinese Steel Margins Remain Under Pressure](../../images/6a43bb33263a2780ef82c4f3_67458beb.png)
 
 > **Figure 3: Iron Ore Surplus Builds as Chinese Steel Margins Remain Under Pressure**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ore-surplus-builds-as-chinese-steel-margins-remain-under-pressure) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a43bb33263a2780ef82c4f3_67458beb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ore-surplus-builds-as-chinese-steel-margins-remain-under-pressure) | [Local Asset](../../images/6a43bb33263a2780ef82c4f3_67458beb.png)
 
 Despite this domestic pullback, seaborne arrivals continue to flow in, up 4.8% year-to-date to 636 million tons including June discharges expected at 111.6 million tons.
 
@@ -58,7 +58,7 @@ Despite this domestic pullback, seaborne arrivals continue to flow in, up 4.8% y
 ![Iron Ore Surplus Builds as Chinese Steel Margins Remain Under Pressure](../../images/6a43bb33263a2780ef82c4ed_38d28fcf.png)
 
 > **Figure 4: Iron Ore Surplus Builds as Chinese Steel Margins Remain Under Pressure**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ore-surplus-builds-as-chinese-steel-margins-remain-under-pressure) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a43bb33263a2780ef82c4ed_38d28fcf.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ore-surplus-builds-as-chinese-steel-margins-remain-under-pressure) | [Local Asset](../../images/6a43bb33263a2780ef82c4ed_38d28fcf.png)
 
 Brazil and Australia are the main drivers of this trend. Also, Brazil volumes from both the Northern and Southern systems are expected to stay elevated until December, when the rain season begins.
 
@@ -66,13 +66,13 @@ Brazil and Australia are the main drivers of this trend. Also, Brazil volumes fr
 ![Iron Ore Surplus Builds as Chinese Steel Margins Remain Under Pressure](../../images/6a43bb33263a2780ef82c4fa_6d7025d8.png)
 
 > **Figure 5: Iron Ore Surplus Builds as Chinese Steel Margins Remain Under Pressure**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ore-surplus-builds-as-chinese-steel-margins-remain-under-pressure) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a43bb33263a2780ef82c4fa_6d7025d8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ore-surplus-builds-as-chinese-steel-margins-remain-under-pressure) | [Local Asset](../../images/6a43bb33263a2780ef82c4fa_6d7025d8.png)
 
 
 ![Iron Ore Surplus Builds as Chinese Steel Margins Remain Under Pressure](../../images/6a43bb33263a2780ef82c4f7_4acac791.png)
 
 > **Figure 6: Iron Ore Surplus Builds as Chinese Steel Margins Remain Under Pressure**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ore-surplus-builds-as-chinese-steel-margins-remain-under-pressure) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a43bb33263a2780ef82c4f7_4acac791.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ore-surplus-builds-as-chinese-steel-margins-remain-under-pressure) | [Local Asset](../../images/6a43bb33263a2780ef82c4f7_4acac791.png)
 
 Adding to supply pressure, the Baowu/Winning Consortium and Simfer operating the Simandou mine have shipped a combined 7.4 million tons across 35 cargoes since November 2025.
 
@@ -80,7 +80,7 @@ Adding to supply pressure, the Baowu/Winning Consortium and Simfer operating the
 ![Iron Ore Surplus Builds as Chinese Steel Margins Remain Under Pressure](../../images/6a43bb33263a2780ef82c4fd_0f70bccb.png)
 
 > **Figure 7: Iron Ore Surplus Builds as Chinese Steel Margins Remain Under Pressure**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ore-surplus-builds-as-chinese-steel-margins-remain-under-pressure) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a43bb33263a2780ef82c4fd_0f70bccb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ore-surplus-builds-as-chinese-steel-margins-remain-under-pressure) | [Local Asset](../../images/6a43bb33263a2780ef82c4fd_0f70bccb.png)
 
 June, however, saw a slowdown: loadings dipped 0.6 Mt to 1.5 million tons, as Guinea’s rainy season is now affecting mining and loading operations — elevated moisture content is visible in recent satellite imagery of the Morebaya stockpile.
 
@@ -90,7 +90,7 @@ The orange coloration in the stockpile reflects elevated moisture, a direct cons
 ![Iron Ore Surplus Builds as Chinese Steel Margins Remain Under Pressure](../../images/6a43bb33263a2780ef82c500_f3c8075c.png)
 
 > **Figure 8: Iron Ore Surplus Builds as Chinese Steel Margins Remain Under Pressure**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ore-surplus-builds-as-chinese-steel-margins-remain-under-pressure) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a43bb33263a2780ef82c500_f3c8075c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ore-surplus-builds-as-chinese-steel-margins-remain-under-pressure) | [Local Asset](../../images/6a43bb33263a2780ef82c500_f3c8075c.png)
 
 These supply dynamics point to a market that remains well-supplied. The iron ore balance has been in surplus since mid-2025, triggering a rise in inventories now at 160 Mt according to Steelhome. With Brazilian volumes on an upward trajectory and Simandou ramping up, the balance* is likely to remain in surplus for the rest of 2026 — unless China increases crude steel output or cuts domestic iron ore production further. A key downside risk: should Chinese steel exports face new tariffs, reduced export capacity could push domestic steel inventories higher, weigh on prices, and further compress steel margins which could affect iron ore price on the downside.
 
@@ -98,6 +98,6 @@ These supply dynamics point to a market that remains well-supplied. The iron ore
 ![Iron Ore Surplus Builds as Chinese Steel Margins Remain Under Pressure](../../images/6a43bb33263a2780ef82c503_e10d9281.png)
 
 > **Figure 9: Iron Ore Surplus Builds as Chinese Steel Margins Remain Under Pressure**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ore-surplus-builds-as-chinese-steel-margins-remain-under-pressure) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a43bb33263a2780ef82c503_e10d9281.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ore-surplus-builds-as-chinese-steel-margins-remain-under-pressure) | [Local Asset](../../images/6a43bb33263a2780ef82c503_e10d9281.png)
 
 *Balance Methodology: Iron ore needed from Pig Iron production NBS – (China Domestic iron ore output Fe adjusted NBS + China Iron Ore seaborne import Fe adjusted AXSMarine Tradeflows)

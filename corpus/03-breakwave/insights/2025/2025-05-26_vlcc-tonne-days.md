@@ -29,7 +29,7 @@ Week 21, 23 May, 2025
 ![Στιγμιότυπο Οθόνης 2025 05 26 090443](assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72e50989c761.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 05 26 090443**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72e50989c761.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72e50989c761.png)
 
 **At the end of the third week of May**, we are analysing the AG growth in tonne days within the dirty segment for VLCC tankers and the Ras Tanura supply trend to reveal the potential reasons behind the persistent downward pressure seen in the AG-China freight market sentiment.
 
@@ -44,7 +44,7 @@ In parallel, updated EIA forecasts for oil demand growth have been released amid
 ![Στιγμιότυπο Οθόνης 2025 05 26 090559](assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6cb92b4a0c6c.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 05 26 090559**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6cb92b4a0c6c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6cb92b4a0c6c.png)
 
 Crude oil tanker freight rates on the MEG-China route experienced a decline in momentum. Conversely, the Aframax Mediterranean route showed a slight recovery.
 
@@ -54,21 +54,21 @@ Crude oil tanker freight rates on the MEG-China route experienced a decline in m
 ![Στιγμιότυπο Οθόνης 2025 05 26 090732](assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b9a6976a59c3.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 05 26 090732**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b9a6976a59c3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b9a6976a59c3.png)
 
 - **LR2**AG freight rates rose to WS155, reflecting a monthly increase of 20%.
 
 ![Στιγμιότυπο Οθόνης 2025 05 26 090825](assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ba6ee77a147a.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 05 26 090825**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ba6ee77a147a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ba6ee77a147a.png)
 
 - **Panamax**Carib-to-USG rates decreased to WS170, indicating a weakening trend from the prior week. This level is 15% lower than the rates seen a month ago.
 
 ![Στιγμιότυπο Οθόνης 2025 05 26 090916](assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c9c904b7ac7.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 05 26 090916**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c9c904b7ac7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c9c904b7ac7.png)
 
 - **MR1**freight rates for Baltic-to-Continent shipments hovered around WS180, representing a 30% weekly increase.
 
@@ -77,7 +77,7 @@ Crude oil tanker freight rates on the MEG-China route experienced a decline in m
 ![Στιγμιότυπο Οθόνης 2025 05 26 091012](assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b935a26b45ec.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 05 26 091012**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b935a26b45ec.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b935a26b45ec.png)
 
 ​​​​​The upward pressure of vessel count in the VLCC and Suezmax dirty segments recorded in the first two decades of May appears to be slowing down, while ship numbers in the Aframax segment remain below the annual trend.
 
@@ -89,12 +89,12 @@ Aframax Baltic: The current number of ships is approximately 21, a decrease of n
 ![Στιγμιότυπο Οθόνης 2025 05 26 091108](assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fcaab98f4017.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 05 26 091108**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fcaab98f4017.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fcaab98f4017.png)
 
 ![Στιγμιότυπο Οθόνης 2025 05 26 091116](assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dff56a8b8ecf.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2025 05 26 091116**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dff56a8b8ecf.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dff56a8b8ecf.png)
 
 - **Clean LR2 AG Jubail**: The number of vessels in the third decade of May has significantly decreased, falling 37% below the average trend.
 
@@ -103,14 +103,14 @@ Aframax Baltic: The current number of ships is approximately 21, a decrease of n
 ![Στιγμιότυπο Οθόνης 2025 05 26 091230](assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b0545b689657.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 05 26 091230**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b0545b689657.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b0545b689657.png)
 
 - **Dirty**tonne days: Growth in VLCC tonne days declined sharply in the third decade of May. In the Suezmax segment, recent tonne-days growth is below the average trend line, with the latest peak recorded at the end of week 11, while Aframax tonne-days growth is above the average trend but still weaker than the peak at the end of week 17.
 
 ![Στιγμιότυπο Οθόνης 2025 05 26 091333](assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72661c49971d.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 05 26 091333**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72661c49971d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72661c49971d.png)
 
 - **Panamax**tonne days: The growth rate is still below the average annual trend from the end of week 14, with the last increase recorded last year.
 

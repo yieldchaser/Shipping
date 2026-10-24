@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-08-24_crossed-wakes.html"
 ![Tanker](assets/2026-08-24_crossed-wakes_img_tanker_e5832ce07803.jpg)
 
 > **Figure 1: Tanker**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-24_crossed-wakes_img_tanker_e5832ce07803.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-08-24_crossed-wakes_img_tanker_e5832ce07803.jpg)
 
 The crude vessel segments have crossed wakes this year — moving in different directions even as they share the same waters. Crude ton-miles softened overall in 2026 to date, though Suezmaxes and Aframaxes picked up share even as VLCCs came under pressure.
 
@@ -42,7 +42,7 @@ VLCC ton-miles, meanwhile, remain most exposed to Chinese import demand, since C
 ![Στιγμιότυπο Οθόνης 2026 08 24 100507](assets/2026-08-24_crossed-wakes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f9d98a618401.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 08 24 100507**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-24_crossed-wakes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f9d98a618401.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-08-24_crossed-wakes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f9d98a618401.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

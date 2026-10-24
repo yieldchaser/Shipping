@@ -27,7 +27,7 @@ As we discussed in Commodore Research's most recent Weekly China Report, Chinaâ€
 ![Chart](assets/2026-09-03_record-decline-in-chinese-thermal-coal-stockpiles_img_chart_fd4104b6dd44.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-03_record-decline-in-chinese-thermal-coal-stockpiles_img_chart_fd4104b6dd44.jpg)
+> [Local Asset](assets/2026-09-03_record-decline-in-chinese-thermal-coal-stockpiles_img_chart_fd4104b6dd44.jpg)
 
 Overall, China's coal import prospects remain very promising for the near term as we continue to stress in our Weekly Executive Reports and Weekly China Reports. Notably, thermal coal prices in China have climbed even higher this week and are now at their highest level in over two and a half years. We continue to stress that new coal mining safety regulations implemented across the nation in recent months are unlikely to go away anytime soon. We remain very bullish for China's coal import prospects for the near term.
 

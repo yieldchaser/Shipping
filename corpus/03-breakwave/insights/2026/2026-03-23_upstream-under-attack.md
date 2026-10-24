@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-03-23_upstream-under-attack
 ![Crude Tanker 500x333](assets/2026-03-23_upstream-under-attack_img_crude-tanker-500x333_14f2d449cf38.jpg)
 
 > **Figure 1: Crude Tanker 500x333**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/report/locked-strait/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-23_upstream-under-attack_img_crude-tanker-500x333_14f2d449cf38.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/report/locked-strait/) | [Local Asset](assets/2026-03-23_upstream-under-attack_img_crude-tanker-500x333_14f2d449cf38.jpg)
 
 The past few days have seen the conflict extend beyond chokepoint disruption into direct strikes on production and refining infrastructure across the Gulf. Following Israel’s attack on Iran’s South Pars gas field on Wednesday, Iran retaliated with drone and missile strikes on energy facilities in Qatar, the UAE, Saudi Arabia, and Kuwait. Qatar’s Ras Laffan industrial complex was targeted, and Abu Dhabi’s Habshan gas facility and Bab oil field were shut down. Drone strikes caused fires at Kuwait’s Mina Al-Ahmadi (346 kbd) and Mina Abdullah (454 kbd) refineries, with the former being struck repeatedly, forcing a shutdown of the refinery. The SAMREF refinery in Yanbu and Haifa refinery in Israel were also struck, with damage still being assessed. After a brief pause over the weekend, attacks on vessels continued this week, as a ship was struck off Ras Laffan, and another off Khor Fakkan. Since 28 February, the UKMTO has reported a total of 19 attacks on commercial vessels.
 
@@ -44,7 +44,7 @@ So, what’s next for tanker markets? There is some hope that the increased esca
 ![Στιγμιότυπο Οθόνης 2026 03 22 225138](assets/2026-03-23_upstream-under-attack_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c38245b8a19.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 03 22 225138**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-23_upstream-under-attack_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c38245b8a19.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-03-23_upstream-under-attack_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c38245b8a19.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

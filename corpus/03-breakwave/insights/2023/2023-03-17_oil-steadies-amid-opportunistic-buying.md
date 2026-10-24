@@ -26,7 +26,7 @@ Heavy selling seen in commodity markets over the past few days eased as traders 
 ![1678993021055](assets/2023-03-17_oil-steadies-amid-opportunistic-buying_img_1678993021055_856a69343b07.png)
 
 > **Figure 1: 1678993021055**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-17_oil-steadies-amid-opportunistic-buying_img_1678993021055_856a69343b07.png)
+> [Local Asset](assets/2023-03-17_oil-steadies-amid-opportunistic-buying_img_1678993021055_856a69343b07.png)
 
 **Crude oil**found some support late in the session following a three-day selloff as technical selling eased. However, risks remain to the downside amid the worsening banking crisis. Russia’s Deputy Prime Minister Alexander Novak meet with Saudi Arabia’s Energy Minister Prince Abdulaziz bin Salman to discuss oil markets and efforts by OPEC+ to promote market balance and stability. Recent events have created further uncertainty about the US Fed’s next move. This is pitted against various signals suggesting continued improvement in demand. Road traffic and air travel in China are growing strongly while signs of improvement have emerged in developed economies. With all this uncertainty, we expect OPEC to keep the production cuts announced in late 2022 in place. The banking turmoil could also further inhibit growth in US supply. Lower prices may induce further demand, with the US to refill its strategic reserve. As macro issues subside,[we expect crude oil prices to push above USD100/bbl](../pdfs/2023-03-17_oil-steadies-amid-opportunistic-buying_commodity-call-hitting-turbulence_06723b550e7b.pdf)in the second half of the year.
 

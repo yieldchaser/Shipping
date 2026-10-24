@@ -31,7 +31,7 @@ On the macroeconomic front, India dominated this week’s headlines, confirming 
 ![Στιγμιότυπο Οθόνης 2026 03 02 120946](assets/2026-03-02_india-confirming-its-position-as-the-fastest-growing-major-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a24265192709.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 03 02 120946**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-02_india-confirming-its-position-as-the-fastest-growing-major-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a24265192709.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2026-03-02_india-confirming-its-position-as-the-fastest-growing-major-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a24265192709.png)
 
 For much of the current financial year, India has had to contend with tariff-related uncertainty, which has weighed on exports and clouded the external outlook. In response, the administration of Prime Minister Narendra Modi accelerated domestic reforms, including the reduction of consumer taxes across a wide range of goods and renewed progress on long-delayed labour market changes, with the objective of strengthening the internal growth engine. Earlier this month, New Delhi reached an interim agreement with Washington that lowers effective tariffs to 18 percent, easing trade tensions, although the deal has yet to be formally signed. At the same time, the U.S. Supreme Court’s decision to strike down the previous global tariff regime could improve India’s negotiating position in the forthcoming round of discussions. Nevertheless, the announcement of a temporary 10 percent duty on all trading partners – with the prospect of an increase to 15 percent – serves as a reminder that the external environment remains fluid.
 
@@ -44,7 +44,7 @@ This double-digit industrial performance is increasingly reflected in the steel 
 ![Στιγμιότυπο Οθόνης 2026 03 02 120955](assets/2026-03-02_india-confirming-its-position-as-the-fastest-growing-major-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3306c63cb67e.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 03 02 120955**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-02_india-confirming-its-position-as-the-fastest-growing-major-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3306c63cb67e.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2026-03-02_india-confirming-its-position-as-the-fastest-growing-major-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3306c63cb67e.png)
 
 Whether India alone can sustain a broader upward trend in the freight market remains open to debate. Nevertheless, its consistent economic expansion, accelerating industrial base and rising steel production are becoming an increasingly important stabilising force within the global demand matrix, reshaping regional trade flows.
 

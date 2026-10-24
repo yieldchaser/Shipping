@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-05-01_differing-coal-fortun
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2026-05-01_differing-coal-fortunes-for-panamax-pacific-routes_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-01_differing-coal-fortunes-for-panamax-pacific-routes_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](assets/2026-05-01_differing-coal-fortunes-for-panamax-pacific-routes_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 Following recent strength in the Panamax Pacific market, corresponding freight indices have rebounded sharply, building on the strong momentum observed earlier this year. As of 17 April, P3_82 (Australia-China) and P5_82 (Indonesia-China) closed at $18,323/day and $17,633/day, respectively, 16% and 19% above their early-April lows.
 
@@ -34,7 +34,7 @@ The most immediate driver of P5’s relative outperformance has been the recover
 ![Στιγμιότυπο Οθόνης 2026 04 30 223052](assets/2026-05-01_differing-coal-fortunes-for-panamax-pacific-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9d086967db44.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 04 30 223052**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-01_differing-coal-fortunes-for-panamax-pacific-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9d086967db44.png)
+> [Local Asset](assets/2026-05-01_differing-coal-fortunes-for-panamax-pacific-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9d086967db44.png)
 
 However, recent changes in Indonesia’s RKAB policy can only explain the recent freight fluctuations at a surface level as opposed to the underlying dynamics. The current market divergence has brought to light structural shifts that have been developing for some time but have not previously received sufficient attention. Beyond short-term movements in the cargo list, the more important development is the deeper reconfiguration of functional roles within the Panamax market.
 
@@ -47,7 +47,7 @@ According to AXSMarine data, China’s Panamax coal imports from Indonesia in 20
 ![Στιγμιότυπο Οθόνης 2026 04 30 223104](assets/2026-05-01_differing-coal-fortunes-for-panamax-pacific-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fb5a765b1abc.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 04 30 223104**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-01_differing-coal-fortunes-for-panamax-pacific-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fb5a765b1abc.png)
+> [Local Asset](assets/2026-05-01_differing-coal-fortunes-for-panamax-pacific-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fb5a765b1abc.png)
 
 In other words, rather than simply reflecting regional pricing differences for comparable assets, P3 and P5 are increasingly indicative of two distinct vessel classes being priced separately by the market: assets that differ in cargo intake, fuel efficiency, route suitability, and trade exposure.
 
@@ -62,7 +62,7 @@ This pattern suggests that the market environment for traditional Panamax tonnag
 ![Στιγμιότυπο Οθόνης 2026 04 30 223114](assets/2026-05-01_differing-coal-fortunes-for-panamax-pacific-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aa237807abfc.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2026 04 30 223114**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-01_differing-coal-fortunes-for-panamax-pacific-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aa237807abfc.png)
+> [Local Asset](assets/2026-05-01_differing-coal-fortunes-for-panamax-pacific-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aa237807abfc.png)
 
 During softer market conditions, Kamsarmaxes tend to be more competitive, supported by superior fuel efficiency, higher cargo intake, and greater trade flexibility (preferred for grains trades and Atlantic requirements etc). In contrast, older Panamax tonnage is more likely to become marginal capacity when demand weakens, with employment pressure feeding more directly into P5 earnings.
 
@@ -73,7 +73,7 @@ As a result, the relationship between P3 and P5 is no longer simply a reflection
 ![Στιγμιότυπο Οθόνης 2026 04 30 223129](assets/2026-05-01_differing-coal-fortunes-for-panamax-pacific-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1c51413db1b9.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2026 04 30 223129**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-01_differing-coal-fortunes-for-panamax-pacific-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1c51413db1b9.png)
+> [Local Asset](assets/2026-05-01_differing-coal-fortunes-for-panamax-pacific-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1c51413db1b9.png)
 
 This shift also suggests that investment decisions involving older Panamax vessels, or ageing tonnage more broadly, require greater caution. For modern vessels, valuation can still be anchored within a long-term cyclical asset framework. In contrast, older ships with shorter remaining lifespans and more limited commercial flexibility tend to rely more heavily on the durability of specific regional fundamentals. In the case of older Panamax vessels, the stability of Indonesian coal trade flows may be more critical than the broader direction of the market. Should Indonesian fundamentals weaken on a sustained basis, particularly alongside continued deliveries of Kamsarmax tonnage, older Panamax vessels could increasingly face scrapping pressure, with their share in the Indonesian trade gradually displaced by relatively older Kamsarmax vessels.
 

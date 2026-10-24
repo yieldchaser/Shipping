@@ -43,7 +43,7 @@ As we progress through late July, the dry bulk shipping market exhibits a relati
 ![Στιγμιότυπο Οθόνης 2024 07 22 100412](assets/2024-07-22_global-economic-activity-and-world-trade-strengthened_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7647ba51a094.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 22 100412**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-22_global-economic-activity-and-world-trade-strengthened_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7647ba51a094.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-07-22_global-economic-activity-and-world-trade-strengthened_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7647ba51a094.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

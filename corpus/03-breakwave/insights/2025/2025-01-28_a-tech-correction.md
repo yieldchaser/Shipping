@@ -35,7 +35,7 @@ In the past few days, a Chinese Large Language Model (LLM (what most people call
 ![Market Chart 1](assets/2025-01-28_a-tech-correction_img_image003_46ea94dc61e6.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-28_a-tech-correction_img_image003_46ea94dc61e6.jpg)
+> [Local Asset](assets/2025-01-28_a-tech-correction_img_image003_46ea94dc61e6.jpg)
 
 ### What Do We Make of It?
 
@@ -52,7 +52,7 @@ It’s very difficult to say how long the correction will persist. The stock mar
 ![Market Chart 2](assets/2025-01-28_a-tech-correction_img_image00428129_556c73825b53.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-28_a-tech-correction_img_image00428129_556c73825b53.jpg)
+> [Local Asset](assets/2025-01-28_a-tech-correction_img_image00428129_556c73825b53.jpg)
 
 The rest of the market ex-Big Tech was down just half a percentage point. Overall, markets remain liquid, most non-tech and non-US stocks trade in more agreeable valuations and potentially higher inflation is more conducive for equities than bonds.
 

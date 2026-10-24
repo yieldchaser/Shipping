@@ -29,21 +29,21 @@ After a thirteen-month rally that saw coal prices rising by 450 per cent, Beijin
 ![Ch1](assets/2021-11-24_coal-seaborne-volumes-in-record-territory_img_ch1_3db412c8f246.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-24_coal-seaborne-volumes-in-record-territory_img_ch1_3db412c8f246.png)
+> [Local Asset](assets/2021-11-24_coal-seaborne-volumes-in-record-territory_img_ch1_3db412c8f246.png)
 
 Despite the increase in Chinese domestic production, the country’s seaborne import volumes have remained robust during the year’s second half. While the last few months have not quite matched the record levels discharged in Chinese ports in August, monthly volumes have nevertheless remained well above average. With a bit more than a week remaining of the current month, coal volumes discharged in Chinese ports suggest that monthly volumes are yet again on the rise. A linear projection of the seaborne import quantities points towards a total of 32 million tonnes in November, some twelve per cent above last month but four per cent below the record set in August. However, cargo tracking data from Oceanbolt indicate that imports in December could weaken, as exports destined for Chinese ports have decreased during November compared to previous months.
 
 ![Ch2](assets/2021-11-24_coal-seaborne-volumes-in-record-territory_img_ch2_1a1a92f42122.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-24_coal-seaborne-volumes-in-record-territory_img_ch2_1a1a92f42122.png)
+> [Local Asset](assets/2021-11-24_coal-seaborne-volumes-in-record-territory_img_ch2_1a1a92f42122.png)
 
 Globally, monthly seaborne import volumes of the dirtiest fossil fuel have remained remarkably robust for most of the current year. After declining by almost twenty per cent during the pandemic last year, volumes have recovered the lost ground and continued to edge upwards, as global energy shortages are fuelling demand for the commodity. The current monthly record, set in August, may even be at risk in November despite the month being a day shorter.
 
 ![Ch3](assets/2021-11-24_coal-seaborne-volumes-in-record-territory_img_ch3_637c82eda32e.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-24_coal-seaborne-volumes-in-record-territory_img_ch3_637c82eda32e.png)
+> [Local Asset](assets/2021-11-24_coal-seaborne-volumes-in-record-territory_img_ch3_637c82eda32e.png)
 
 While global seaborne coal import volumes have remained in the vicinity of 120 million tonnes per month for much of the last year, the two largest exporters, Indonesia and Australia, have seen their exports coming under pressure during the second half of the year. Shipments from Indonesia, the world’s premier exporter of seaborne coal, have been volatile in the face of adverse weather conditions and Covid-outbreaks in recent months. A recovery in October also appears to have been short-lived, with volumes so far in the current month pointing towards a month-on-month decline of
 approximately seven per cent.
@@ -51,28 +51,28 @@ approximately seven per cent.
 ![Ch4](assets/2021-11-24_coal-seaborne-volumes-in-record-territory_img_ch4_033d8bcfd95e.png)
 
 > **Figure 4: Ch4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-24_coal-seaborne-volumes-in-record-territory_img_ch4_033d8bcfd95e.png)
+> [Local Asset](assets/2021-11-24_coal-seaborne-volumes-in-record-territory_img_ch4_033d8bcfd95e.png)
 
 Australian coal exports have been under pressure since the Chinese authorities imposed an import embargo on many commodities and products from the country. While Chinese customs cleared limited quantities of Australian coal in October, there is precious little to suggest that this is the beginning of the end of the ban. Australia has had some success in finding new markets for its coal exports, but total volumes remain well below the peaks seen in 2019 and have been trending lower during the second half of the year. Notably, exports to South Korea have dropped by more than four million tonnes, or sixty per cent, between July and October. However, volumes have been recovering somewhat in November, and Australian coal exports to the country are on track to reach four million tonnes by the end of the month.
 
 ![Ch5](assets/2021-11-24_coal-seaborne-volumes-in-record-territory_img_ch5_8cd62a1c5dc6.png)
 
 > **Figure 5: Ch5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-24_coal-seaborne-volumes-in-record-territory_img_ch5_8cd62a1c5dc6.png)
+> [Local Asset](assets/2021-11-24_coal-seaborne-volumes-in-record-territory_img_ch5_8cd62a1c5dc6.png)
 
 At the same time as the largest shippers of coal have been struggling to maintain volumes, South Africa’s coal exports have been recovering following months of disruptions caused by surging Covid-infection rates and civil unrest. Monthly exports during the second and third quarters remained subdued at around five million tonnes, but if the current pace is maintained the fourth quarter is likely to see monthly shipped volumes topping six million tonnes. While India remains the major importer of South African coal, China’s share has tripled in the last year to twelve per cent compared to its long-term average.
 
 ![Ch6](assets/2021-11-24_coal-seaborne-volumes-in-record-territory_img_ch6_e928cd9eff63.png)
 
 > **Figure 6: Ch6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-24_coal-seaborne-volumes-in-record-territory_img_ch6_e928cd9eff63.png)
+> [Local Asset](assets/2021-11-24_coal-seaborne-volumes-in-record-territory_img_ch6_e928cd9eff63.png)
 
 After trending lower for most of the year, inventory levels in South Africa’s main coal export port, Richards Bay, have improved following the period of unrest and a train derailment. According to satellite data from Tathya.earth, the recovery began in late August, in time for the global pick up in demand for coal. However, the strong exports have since seen inventory levels coming off their recent highs.
 
 ![Ch7](assets/2021-11-24_coal-seaborne-volumes-in-record-territory_img_ch7_e6c277e91442.png)
 
 > **Figure 7: Ch7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-24_coal-seaborne-volumes-in-record-territory_img_ch7_e6c277e91442.png)
+> [Local Asset](assets/2021-11-24_coal-seaborne-volumes-in-record-territory_img_ch7_e6c277e91442.png)
 
 The global energy crunch has seen a revival in demand for thermal coal, with a new monthly record for global seaborne import volumes potentially on the cards for this month. However, the more forward-looking export data suggest that discharged volumes may weaken during the last month of the year. According to data from Oceanbolt, 85 million tonnes of coal has been exported globally month to date, which implies 113 million tonnes for the whole month or nine per cent below the volumes recorded in October.
 

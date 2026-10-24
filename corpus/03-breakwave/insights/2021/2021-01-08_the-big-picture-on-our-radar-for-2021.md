@@ -43,7 +43,7 @@ Worsening relations between China and Australia spilled into the dry market towa
 ![Bmr 60](assets/2021-01-08_the-big-picture-on-our-radar-for-2021_img_bmr60_feecb4143cd5.png)
 
 > **Figure 1: Bmr 60**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-08_the-big-picture-on-our-radar-for-2021_img_bmr60_feecb4143cd5.png)
+> [Local Asset](assets/2021-01-08_the-big-picture-on-our-radar-for-2021_img_bmr60_feecb4143cd5.png)
 
 China’s total imports over Q4 2020 were the lowest in three years, standing at almost 51m tonnes. Shipments from Indonesia jumped as monthly import quotas were relaxed, but it is unlikely that China can supply its needs for coking coal from sources other than Australia.
 
@@ -58,7 +58,7 @@ Though it was overshadowed by the pandemic, the dry market enjoyed better trade 
 ![Bmr 61](assets/2021-01-08_the-big-picture-on-our-radar-for-2021_img_bmr61_ccb1f6ca5722.png)
 
 > **Figure 2: Bmr 61**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-08_the-big-picture-on-our-radar-for-2021_img_bmr61_ccb1f6ca5722.png)
+> [Local Asset](assets/2021-01-08_the-big-picture-on-our-radar-for-2021_img_bmr61_ccb1f6ca5722.png)
 
 But with 2021 being a year of presidential transition in the US, there is a risk that this dynamic could again be disrupted by politics. It is still unclear how a Biden-led US will interact with China but if tensions around trade do flare up again, the grain trade may fall back into the crossfire. This is in addition to the risk of wider economic fallout, which weighed on the global economy, and thus global investment and raw material demand, in 2019.
 
@@ -73,7 +73,7 @@ Removals of over-age ships last year took longer to get going than we had expect
 ![Bmr 62](assets/2021-01-08_the-big-picture-on-our-radar-for-2021_img_bmr62_653a0fc34950.png)
 
 > **Figure 3: Bmr 62**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-08_the-big-picture-on-our-radar-for-2021_img_bmr62_653a0fc34950.png)
+> [Local Asset](assets/2021-01-08_the-big-picture-on-our-radar-for-2021_img_bmr62_653a0fc34950.png)
 
 This figure is relatively small, but it does represent a significant uptick in demolitions and is greater than annual removals in 2018 and 2019. Similarly, the end of the year saw the highest level of Supramax and Handy removals since 2017. A still-sizeable scrap pool and strong demolition rates on the back of high steel prices will likely translate to more scrapping this year, helping to combat oversupply.
 

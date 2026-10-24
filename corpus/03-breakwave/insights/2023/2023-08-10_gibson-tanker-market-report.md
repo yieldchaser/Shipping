@@ -28,7 +28,7 @@ Still, there appears to be little interest among the EU member states to review 
 ![1 (9)](assets/2023-08-10_gibson-tanker-market-report_img_128929_3b2622313ff1.png)
 
 > **Figure 1: 1 (9)**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-10_gibson-tanker-market-report_img_128929_3b2622313ff1.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2023-08-10_gibson-tanker-market-report_img_128929_3b2622313ff1.png)
 
 Will these latest developments bring another change to the tanker market? Since crude and product price caps came into effect, between 40% to 55% of all tankers (depending on size group) that loaded Russia are owned by G7/EU companies or companies with very strong links to price cap coalition, although many tankers in this category did only one or two Russian voyages before returning back into the conventional trade. With Russian prices above $60/bbl, cautious shipowners with significant G7/EU links are likely to withdraw from considering a Russian voyage in their next immediate loading window and seek alternative employment elsewhere in the mainstream market. Anecdotal evidence suggests this is already happening, with positions lists in several load regions already featuring a higher than usual number of vessels with recent history of Russian trade, although the general decline in Russian flows due to higher refining runs, peak domestic demand during summer months and Russia’s pledge to cut its production by 0.5mbd in August also have had a role to play here.
 

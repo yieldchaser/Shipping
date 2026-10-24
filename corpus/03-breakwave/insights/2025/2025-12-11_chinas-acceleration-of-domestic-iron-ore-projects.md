@@ -45,7 +45,7 @@ China’s sustained import levels continue to shape global iron-ore shipping flo
 ![Στιγμιότυπο Οθόνης 2025 12 11 103317](assets/2025-12-11_chinas-acceleration-of-domestic-iron-ore-projects_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd021085ee5a.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 12 11 103317**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-11_chinas-acceleration-of-domestic-iron-ore-projects_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd021085ee5a.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-12-11_chinas-acceleration-of-domestic-iron-ore-projects_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd021085ee5a.png)
 
 ### Tonne-Mile Composition: Bauxite vs Iron Ore
 
@@ -56,14 +56,14 @@ By 2025, bauxite accounts for roughly 16 percent of Capesize tonne-mile demand, 
 ![Στιγμιότυπο Οθόνης 2025 12 11 104153](assets/2025-12-11_chinas-acceleration-of-domestic-iron-ore-projects_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_410d2765f7a8.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 12 11 104153**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-11_chinas-acceleration-of-domestic-iron-ore-projects_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_410d2765f7a8.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-12-11_chinas-acceleration-of-domestic-iron-ore-projects_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_410d2765f7a8.png)
 
 Guinea has established itself as a central player in global bauxite trade, producing over 8.4 trillion ton-miles in 2025, which is more than six times the ton-mile output of Australia, the second largest exporter. This development highlights both the significant growth in Guinea’s export capabilities and China’s increasing dependence on long-haul West African bauxite for its alumina and aluminum industries.
 
 ![Στιγμιότυπο Οθόνης 2025 12 11 104312](assets/2025-12-11_chinas-acceleration-of-domestic-iron-ore-projects_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7e822461cbfb.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 12 11 104312**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-11_chinas-acceleration-of-domestic-iron-ore-projects_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7e822461cbfb.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-12-11_chinas-acceleration-of-domestic-iron-ore-projects_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7e822461cbfb.png)
 
 ### Key Development: First Iron-Ore Shipment From Simandou
 

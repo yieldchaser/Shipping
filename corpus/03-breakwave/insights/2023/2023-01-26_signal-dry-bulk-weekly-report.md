@@ -32,7 +32,7 @@ In the iron market, we see a significant recovery in prices from the lows reache
 ![Australian Port Congestion](assets/2023-01-26_signal-dry-bulk-weekly-report_img_australianportcongestion_aaf1a859c8b1.png)
 
 > **Figure 1: Australian Port Congestion**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2nkmh5/298760347?h=a_yy6abVdCKt3CV6MbzEhVRk7HkyYJ1H0aAx7Y4R9ws) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-26_signal-dry-bulk-weekly-report_img_australianportcongestion_aaf1a859c8b1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2nkmh5/298760347?h=a_yy6abVdCKt3CV6MbzEhVRk7HkyYJ1H0aAx7Y4R9ws) | [Local Asset](assets/2023-01-26_signal-dry-bulk-weekly-report_img_australianportcongestion_aaf1a859c8b1.png)
 
 Data Source: The Signal Ocean Platform, Port Congestion, Australian Hay Point port
 
@@ -43,7 +43,7 @@ Data Source: The Signal Ocean Platform, Port Congestion, Australian Hay Point po
 ![Market Chart 2](assets/2023-01-26_signal-dry-bulk-weekly-report_img_unnamed-2023-01-26t112056001_1c0b21c12865.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-26_signal-dry-bulk-weekly-report_img_unnamed-2023-01-26t112056001_1c0b21c12865.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-01-26_signal-dry-bulk-weekly-report_img_unnamed-2023-01-26t112056001_1c0b21c12865.png)
 
 In the last week of January, the weaker trend in spot freight rates continued for all ship size classes, with signs of recovery for Supramax and Panamax.
 
@@ -57,7 +57,7 @@ In the last week of January, the weaker trend in spot freight rates continued fo
 ![Supply Trend Lines for Key Load Areas](assets/2023-01-26_signal-dry-bulk-weekly-report_img_unnamed-2023-01-26t112237184_1527a6db342b.png)
 
 > **Figure 3: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-26_signal-dry-bulk-weekly-report_img_unnamed-2023-01-26t112237184_1527a6db342b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-01-26_signal-dry-bulk-weekly-report_img_unnamed-2023-01-26t112237184_1527a6db342b.png)
 
 The number of ballast ships increased significantly in the third week of January, with the exception of the Handysize segment.
 
@@ -71,7 +71,7 @@ The number of ballast ships increased significantly in the third week of January
 ![TonDays Decreasing](assets/2023-01-26_signal-dry-bulk-weekly-report_img_unnamed-2023-01-26t112440672_40ddb46884bb.png)
 
 > **Figure 4: TonDays Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-26_signal-dry-bulk-weekly-report_img_unnamed-2023-01-26t112440672_40ddb46884bb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-01-26_signal-dry-bulk-weekly-report_img_unnamed-2023-01-26t112440672_40ddb46884bb.png)
 
 Demand growth continues to slow significantly, with sharp declines in all vessel categories, with the exception of supramax vessels, where there has been strong volatility, with no actual trend of increase or decrease.
 
@@ -85,7 +85,7 @@ Demand growth continues to slow significantly, with sharp declines in all vessel
 ![Dry Bulk Ships Congested at Chinese Ports](assets/2023-01-26_signal-dry-bulk-weekly-report_img_unnamed-2023-01-26t112514832_9c4d62ecc339.png)
 
 > **Figure 5: Dry Bulk Ships Congested at Chinese Ports**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-26_signal-dry-bulk-weekly-report_img_unnamed-2023-01-26t112514832_9c4d62ecc339.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-01-26_signal-dry-bulk-weekly-report_img_unnamed-2023-01-26t112514832_9c4d62ecc339.png)
 
 In the January days, congestion reached a new record level, surpassing the peak of week 52 last year.
 

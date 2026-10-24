@@ -29,7 +29,7 @@ Of the total grain trade, the USDA is now forecasting that global coarse grain (
 ![Chart](assets/2025-12-19_global-grain-trade-forecast-raised-yet-again_img_chart_494bf30620ea.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-19_global-grain-trade-forecast-raised-yet-again_img_chart_494bf30620ea.jpg)
+> [Local Asset](assets/2025-12-19_global-grain-trade-forecast-raised-yet-again_img_chart_494bf30620ea.jpg)
 
 ---
 

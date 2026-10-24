@@ -31,7 +31,7 @@ January 09, 2025
 ![Στιγμιότυπο Οθόνης 2025 01 09 133626](assets/2025-01-09_a-challenging-freight-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b66089d4bd90.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 01 09 133626**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-09_a-challenging-freight-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b66089d4bd90.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-01-09_a-challenging-freight-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b66089d4bd90.png)
 
 The start of the year confirms a challenging freight market environment for the Capesize iron ore sector, with a notable spike in the vessel count of South Atlantic ballasters and C3 market rates plummeting to new lows ahead of the Chinese New Year. This sharp market downturn has cast a gloomy outlook for the first quarter, though it remains to be seen if conditions will improve. The Chinese economic environment is still facing substantial headwinds, as evidenced by the failure of iron ore prices to rally in December, and steel demand in China continues to soften. Iron ore prices for cargoes with 62% iron content dropped below $98 per ton in early January, marking their lowest point in over three months. This decline is largely driven by weakening steel demand in China, the world's largest consumer, where steel mills are cutting production due to shrinking profit margins and softer demand. China’s steel output is expected to continue its downward trajectory in 2025, following the trend of 2024.
 
@@ -44,7 +44,7 @@ In summary, the iron ore market faces a tough start to the year, with low prices
 ![Στιγμιότυπο Οθόνης 2025 01 09 133646](assets/2025-01-09_a-challenging-freight-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_898c987d7604.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 01 09 133646**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-09_a-challenging-freight-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_898c987d7604.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-01-09_a-challenging-freight-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_898c987d7604.png)
 
 The dry bulk freight market displayed mixed momentum at the start of January, with a notable strengthening in Panamax rates from the Continent to the Far East.
 
@@ -56,7 +56,7 @@ The dry bulk freight market displayed mixed momentum at the start of January, wi
 ![Στιγμιότυπο Οθόνης 2025 01 09 133657](assets/2025-01-09_a-challenging-freight-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bef548ba62b9.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 01 09 133657**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-09_a-challenging-freight-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bef548ba62b9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-01-09_a-challenging-freight-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bef548ba62b9.png)
 
 The early days of January saw an increase in the number of ballasters, highlighting a challenging freight market environment leading up to the Chinese New Year.
 
@@ -68,7 +68,7 @@ The early days of January saw an increase in the number of ballasters, highlight
 ![Στιγμιότυπο Οθόνης 2025 01 09 133708](assets/2025-01-09_a-challenging-freight-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9caf92cfe898.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 01 09 133708**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-09_a-challenging-freight-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9caf92cfe898.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-01-09_a-challenging-freight-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9caf92cfe898.png)
 
 At the close of 2024, dry tonne-day growth showed an accelerating trend across all dry vessel size categories, with the exception of the Handysize segment.
 
@@ -80,7 +80,7 @@ At the close of 2024, dry tonne-day growth showed an accelerating trend across a
 ![Στιγμιότυπο Οθόνης 2025 01 09 133720](assets/2025-01-09_a-challenging-freight-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d0c7dcdf4cff.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 01 09 133720**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-09_a-challenging-freight-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d0c7dcdf4cff.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-01-09_a-challenging-freight-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d0c7dcdf4cff.png)
 
 Congestion at Chinese dry bulk ports has continued its downward trend at the start of the year, aligning with the slowing pace observed at the end of December 2024.
 

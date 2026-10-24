@@ -43,7 +43,7 @@ The Fed has been preparing the ground for some time by reducing the pace at whic
 ![Market Chart 1](assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image001_62de751adecf.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Cfr](https://www.cfr.org/expert/zongyuan-zoe-liu) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image001_62de751adecf.png)
+> **Interactive Data & Source:** [Cfr](https://www.cfr.org/expert/zongyuan-zoe-liu) | [Local Asset](assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image001_62de751adecf.png)
 
 **The important thing to note is that we are near (but not at) the end of this particular risk corridor: The Fed delivered steep rate hikes and quantitative tightening within target, without allowing anything of significance to break. US Peripheral banks failing was nipped in the bud with a highly targeted strategy.**
 
@@ -52,14 +52,14 @@ The Fed has been preparing the ground for some time by reducing the pace at whic
 ![Market Chart 2](assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image002_872959a9cb7e.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Cfr](https://www.cfr.org/expert/zongyuan-zoe-liu) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image002_872959a9cb7e.png)
+> **Interactive Data & Source:** [Cfr](https://www.cfr.org/expert/zongyuan-zoe-liu) | [Local Asset](assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image002_872959a9cb7e.png)
 
 So the Fed is probably right to focus on slowing growth at this particular juncture (more on that during this week with PMI and US unemployment data). The risk of course remains that prices may rebound. But the data is on the right track, with services inflation slowing across the board.
 
 ![Market Chart 3](assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image003_d618fc61de32.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Cfr](https://www.cfr.org/expert/zongyuan-zoe-liu) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image003_d618fc61de32.png)
+> **Interactive Data & Source:** [Cfr](https://www.cfr.org/expert/zongyuan-zoe-liu) | [Local Asset](assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image003_d618fc61de32.png)
 
 I have often complained that headline inflation numbers depend on China continuing to deflate the world and that a spike in Chinese producer prices could cause major headaches to central bankers. But a great article by[Zongyuan Zoe Liu](https://www.cfr.org/expert/zongyuan-zoe-liu)([China’s Real Economic Crisis](assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_content_4caca47a6ee5.html)) in Foreign Affairs Magazine, convinced me that the risk isn’t as great as I previously thought, for now at least. The Chinese economy, according to the brilliant Ms Liu, is a forceful deflation-generating mechanism. As long as its borders are open and trade wars don’t get too hot, developed markets can enjoy some deflation in goods, possibly even for long enough to see their own services inflation come down.
 
@@ -68,7 +68,7 @@ I have often complained that headline inflation numbers depend on China continui
 ![The Equity Rally Has Widened](assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image004_c1f23cd586b4.png)
 
 > **Figure 4: The Equity Rally Has Widened**  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=c1jWMHjg4vw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image004_c1f23cd586b4.png)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=c1jWMHjg4vw) | [Local Asset](assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image004_c1f23cd586b4.png)
 
 That is not to say that Nvidia is crashing. The stock price fell when the company just matched (instead of blowing past) analyst expectations. Still, NVIDIA’s capitalisation is 141% higher than what it was at the beginning of the year and 716% higher than at the end of 2022 when Chat GPT introduced itself to the world.
 
@@ -77,28 +77,28 @@ The crocodile mouth between tech and the rest of the stocks is closing on the up
 ![Market Chart 5](assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image005_9a4e7e101dc6.png)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=c1jWMHjg4vw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image005_9a4e7e101dc6.png)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=c1jWMHjg4vw) | [Local Asset](assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image005_9a4e7e101dc6.png)
 
 US large caps at their all-time highs, as the result of a wider rally, are cause for optimism.
 
 ![Market Chart 6](assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image006_071ea81adbbd.png)
 
 > **Figure 6: Market Chart 6**  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=c1jWMHjg4vw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image006_071ea81adbbd.png)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=c1jWMHjg4vw) | [Local Asset](assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image006_071ea81adbbd.png)
 
 4**. The bond market is acting more sensibly.**Another big worry has perennially been that fixed-income traders were pricing in too many rate cuts. However last week, yields moved a bit higher. While we do believe that the slightly less than 3.9 cuts priced in is still a bit excessive, it is nowhere near the 5.5x exactly one month ago and certainly the 7x at the beginning of the year. Our House View for two rate cuts in 2024 still stands, but, given a very probable September start, there is room for a third, if unemployment gets much worse.
 
 ![Market Chart 7](assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image007_cb0fb6baf763.png)
 
 > **Figure 7: Market Chart 7**  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=c1jWMHjg4vw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image007_cb0fb6baf763.png)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=c1jWMHjg4vw) | [Local Asset](assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image007_cb0fb6baf763.png)
 
 5**. The UK’s quiet re-approach with Europe.**The UK’s new Prime Minister has, quietly, set about smoothing things out with the country’s 2/3 of trade relations, i.e. the European Union. The timing of his charm campaign to Europe, exactly at the end of the Summer Holidays and close to his election, is immaculate and**sends a very clear message to markets that re-approaching the EU a priority**. Our House View has long been that, while[Brexit can’t really be undone](https://www.youtube.com/watch?v=c1jWMHjg4vw), some of its more controversial aspects can be mitigated. Investors have long been looking for cues of a more realistic approach with the country’s largest trade partner in order to re-evaluate the country’s equities (and even debt). At the very least, the move justifies UK equity valuations at par with their own history. Possibly, a positive rerating could be argued for UK stocks if the course remains positive.
 
 ![Market Chart 8](assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image008_e505508fc50f.png)
 
 > **Figure 8: Market Chart 8**  
-> **Interactive Data & Source:** [Amazon](https://www.amazon.com/Decent-indecent-personal-political-behavior/dp/0841500010) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image008_e505508fc50f.png)
+> **Interactive Data & Source:** [Amazon](https://www.amazon.com/Decent-indecent-personal-political-behavior/dp/0841500010) | [Local Asset](assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image008_e505508fc50f.png)
 
 Thus some short and medium risks are coming off the table. Does this mean clear skies from now on? History might say not immediately, as September and October are usually the worst months for equities.
 
@@ -106,7 +106,7 @@ Thus some short and medium risks are coming off the table. Does this mean clear 
 
 > **Figure 9: When Globalisation Comes Under Fire**  
 > *When globalisation comes under fire, the clear alternative is the reinforcement of the previous status quo, namely the nation-state. And when high debt increases fiscal constraints and hampers the ability of governments to address chronic social issues, uncertainty ensues. This feeling can cause people, Dr Benjamin Spock attested in his bookDecent And Indecent, to “hug the flag”.*  
-> **Interactive Data & Source:** [Amazon](https://www.amazon.com/Decent-indecent-personal-political-behavior/dp/0841500010) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image009_7cfe6843cd30.png)
+> **Interactive Data & Source:** [Amazon](https://www.amazon.com/Decent-indecent-personal-political-behavior/dp/0841500010) | [Local Asset](assets/2024-09-03_6zfnse2397al24kyxfv2jcrrq2d3bh_img_image009_7cfe6843cd30.png)
 
 But this is mostly a seasonal issue that doesn’t always play out.
 

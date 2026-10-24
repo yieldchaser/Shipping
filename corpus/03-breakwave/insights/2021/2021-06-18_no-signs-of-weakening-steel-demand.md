@@ -29,7 +29,7 @@ Chinese steel prices are staging a modest comeback after performing a nose dive 
 ![A1](assets/2021-06-18_no-signs-of-weakening-steel-demand_img_a1_57d5a3b6c173.jpg)
 
 > **Figure 1: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-18_no-signs-of-weakening-steel-demand_img_a1_57d5a3b6c173.jpg)
+> [Local Asset](assets/2021-06-18_no-signs-of-weakening-steel-demand_img_a1_57d5a3b6c173.jpg)
 
 With the news that China will not release iron ore or steel as part of the initiative, the effect on the Chinese domestic steel prices faded. Despite the efforts by Chinese authorities to temper the nation’s steel output, production grew by 6.6 per cent year-on-year in May to 99.5 million tonnes. One of China’s economic planning agencies, the National Development and Reform Commission, is also expecting the country’s steel demand to remain resilient, despite the government’s ambitions to reduce excess steel production in order to ease the appetite for iron ore and to meet its carbon emission targets. The agency also suggested that there is room for additional growth in demand for crude steel before the end of the fourteenth five-year plan, as the nation’s economic development continues. Hence, while the continued growth in iron ore imports may not be quite as spectacular as in the past year, volumes look set to remain on the rise for the foreseeable future.
 
@@ -38,7 +38,7 @@ On the other side of the Pacific, the return to pre-pandemic levels of output in
 ![A2](assets/2021-06-18_no-signs-of-weakening-steel-demand_img_a2_09d24f76eac6.png)
 
 > **Figure 2: A2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-18_no-signs-of-weakening-steel-demand_img_a2_09d24f76eac6.png)
+> [Local Asset](assets/2021-06-18_no-signs-of-weakening-steel-demand_img_a2_09d24f76eac6.png)
 
 There are also reports suggesting that steel inventories in the US are low, which in combination with limited additional production capacity would suggest that prices could move higher as the US invests in infrastructure as part of the proposed stimulus programme. The potentially tight supply situation could also see US steel imports rising when demand grows. The previous US administration put a considerable number of tariffs and other measures in place to protect the domestic steel industry, which could reduce the attractiveness of imported steel. However, the current administration is taking tentative steps to remove some of the obstacles, with the trade with Europe likely to be an initial beneficiary.
 

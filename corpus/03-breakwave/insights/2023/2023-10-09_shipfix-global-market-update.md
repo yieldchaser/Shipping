@@ -62,6 +62,6 @@ Despite an uptick in demand last week, demand for seaborne transportation of US 
 ![Market Chart 1](assets/2023-10-09_shipfix-global-market-update_img_unnamed-2023-10-09t160952226_e91448a10594.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-09_shipfix-global-market-update_img_unnamed-2023-10-09t160952226_e91448a10594.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2023-10-09_shipfix-global-market-update_img_unnamed-2023-10-09t160952226_e91448a10594.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

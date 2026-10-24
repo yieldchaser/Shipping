@@ -31,7 +31,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-07-31_tankers-research-upda
 ![241](assets/2025-07-31_tankers-research-update_img_241_f832c054cd90.png)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-31_tankers-research-update_img_241_f832c054cd90.png)
+> [Local Asset](assets/2025-07-31_tankers-research-update_img_241_f832c054cd90.png)
 
 - Since Russia invaded Ukraine, Europe has sharply increased US crude imports, rising by nearly 500k b/d from pre-war, reaching around 1.5m b/d in 2024—roughly 20% of total crude imports, with Northwest Europe as the primary recipient.
 
@@ -59,7 +59,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-07-31_tankers-research-upda
 ![242](assets/2025-07-31_tankers-research-update_img_242_47de13579c37.png)
 
 > **Figure 2: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-31_tankers-research-update_img_242_47de13579c37.png)
+> [Local Asset](assets/2025-07-31_tankers-research-update_img_242_47de13579c37.png)
 
 ### Small Shandong Refiners Restart Under New Ownership, Threatening Overcapacity and Margins
 

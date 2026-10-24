@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/dry/dynamic/drybulkflows-Downloadable**  
 > *https://app.signalocean.com/dry/dynamic/drybulkflows-downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-19-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6819e9609b6a097138d32d38_AD_4nXdXzXecyQ-NfR7w_4Vq3YhArhC6fc4PsN49yDN0bCL5C_YgcBg-rClbwMelSCn4mCuafsMdgC5uFMsYpXbxX4uwpChSfxRZgR4WiEjcxEpu9LKG2couW6nbNepoAWizizQPeuCD.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-19-2025) | [Local Asset](../../images/6819e9609b6a097138d32d38_AD_4nXdXzXecyQ-NfR7w_4Vq3YhArhC6fc4PsN49yDN0bCL5C_YgcBg-rClbwMelSCn4mCuafsMdgC5uFMsYpXbxX4uwpChSfxRZgR4WiEjcxEpu9LKG2couW6nbNepoAWizizQPeuCD.png)
 
 Between 2022 and 2024, US grain exports to Mexico have shown a significant upward trend, with Mexico's share rising from 7.6% in 2022 to 9.3% in 2024, indicating a strong and growing demand from its southern neighbour. This 1.7 percentage point increase reflects deeper trade ties and potentially changing sourcing strategies amid ongoing global uncertainties.
 

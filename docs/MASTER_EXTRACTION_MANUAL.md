@@ -216,16 +216,16 @@ Aligning by true ISO calendar week proved that vector extraction is **99.9% accu
 | **Gulf of Finland – UK / Ireland (5,000 DWCC)** | **\$7.90 / day** | **0.26%** |
 
 ### The Multi-Report Median Consensus Algorithm:
-Implemented in [`scripts/extract/publishers/run_ism_series.py`](file:///c:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_ism_series.py):
+Implemented in [`scripts/extract/publishers/run_ism_series.py`](../scripts/extract/publishers/run_ism_series.py):
 1. **Median Filter:** Every historical week appears in up to 52 consecutive weekly reports. The median value across all reporting issues filters out manual drafting nudges.
 2. **Spread Metrics:** Records observation counts (`n_reports`), `min_value`, `max_value`, and standard deviation (`value_sd`).
-3. **Corpus Scale:** Extracted **81,265 raw coordinates** across 112 reports into **32,114 clean time-series rows** across [`ism_coaster_freight_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ism_coaster_freight_series.csv) and [`ism_handy_freight_series.csv`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/ism_handy_freight_series.csv).
+3. **Corpus Scale:** Extracted **81,265 raw coordinates** across 112 reports into **32,114 clean time-series rows** across [`ism_coaster_freight_series.csv`](../data/extracted/series/ism_coaster_freight_series.csv) and [`ism_handy_freight_series.csv`](../data/extracted/series/ism_handy_freight_series.csv).
 
 ---
 
 ## 5. LlamaParse Multi-Account Key Pool & Failover Manager
 
-To eliminate quota blocks during large-scale ingestion, [`scripts/extract/llama_manager.py`](file:///c:/Users/Dell/Github/Shipping/scripts/extract/llama_manager.py) manages a **9-account automated failover pool**:
+To eliminate quota blocks during large-scale ingestion, [`scripts/extract/llama_manager.py`](../scripts/extract/llama_manager.py) manages a **9-account automated failover pool**:
 
 ```mermaid
 flowchart LR
@@ -284,7 +284,7 @@ Every publisher collection in `corpus/01-brokers/` and key feeds has been system
 
 ## 7. Master Extracted Time-Series Datasets Catalog
 
-All normalized time-series datasets are persisted in [`data/extracted/series/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/):
+All normalized time-series datasets are persisted in [`data/extracted/series/`](../data/extracted/series):
 
 | Dataset Filename | Exact Rows | Core Schema | Description |
 | :--- | :---: | :--- | :--- |

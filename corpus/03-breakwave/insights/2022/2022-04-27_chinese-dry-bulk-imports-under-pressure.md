@@ -37,7 +37,7 @@ While there has been a reduction in ordering activities and imports in China in 
 ![Ch1](assets/2022-04-27_chinese-dry-bulk-imports-under-pressure_img_ch1_870e097019cf.png)
 
 > **Figure 1: Ch1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-27_chinese-dry-bulk-imports-under-pressure_img_ch1_870e097019cf.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-04-27_chinese-dry-bulk-imports-under-pressure_img_ch1_870e097019cf.png)
 
 Source: Shipfix
 
@@ -46,7 +46,7 @@ China’s appetite for seaborne coal imports has been in decline as the country 
 ![Ch2](assets/2022-04-27_chinese-dry-bulk-imports-under-pressure_img_ch2_27d5c01ffe44.png)
 
 > **Figure 2: Ch2**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-27_chinese-dry-bulk-imports-under-pressure_img_ch2_27d5c01ffe44.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-04-27_chinese-dry-bulk-imports-under-pressure_img_ch2_27d5c01ffe44.png)
 
 Source: Shipfix
 
@@ -55,7 +55,7 @@ Like for coal, cargo order volumes for agricultural commodities discharging in C
 ![Ch3](assets/2022-04-27_chinese-dry-bulk-imports-under-pressure_img_ch3_062178a64ac8.png)
 
 > **Figure 3: Ch3**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-27_chinese-dry-bulk-imports-under-pressure_img_ch3_062178a64ac8.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-04-27_chinese-dry-bulk-imports-under-pressure_img_ch3_062178a64ac8.png)
 
 Source: Shipfix
 

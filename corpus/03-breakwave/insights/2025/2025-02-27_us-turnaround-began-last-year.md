@@ -29,14 +29,14 @@ Particularly noteworthy is that each of the last four months have seen retail sp
 ![242](assets/2025-02-27_us-turnaround-began-last-year_img_242_db0898c79110.jpg)
 
 > **Figure 1: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-27_us-turnaround-began-last-year_img_242_db0898c79110.jpg)
+> [Local Asset](assets/2025-02-27_us-turnaround-began-last-year_img_242_db0898c79110.jpg)
 
 Also experiencing a turnaround has been US industrial production, including manufacturing production (which accounts for approximately 75% of industrial production). US industrial production has now grown on a year-on-year basis for two straight months, including most recently by 2%. Before these last two months, US industrial production had contracted on a year-on-year basis during ten of the prior thirteen months.
 
 ![241](assets/2025-02-27_us-turnaround-began-last-year_img_241_8d2ed8b72ee8.jpg)
 
 > **Figure 2: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-27_us-turnaround-began-last-year_img_241_8d2ed8b72ee8.jpg)
+> [Local Asset](assets/2025-02-27_us-turnaround-began-last-year_img_241_8d2ed8b72ee8.jpg)
 
 Important is that excluding years when coronavirus restrictions were in place, the 2% year-on-year growth most recently seen in US industrial production has marked the strongest growth seen since 2018.
 

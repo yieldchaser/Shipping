@@ -27,7 +27,7 @@ Thurlestone notes: “*Another encouraging day for cape rates with a frantic mor
 ![Market Chart 1](assets/2020-06-04_capes-lead-the-way_img_image-asset_9d854f11f519.jpeg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-04_capes-lead-the-way_img_image-asset_9d854f11f519.jpeg)
+> [Local Asset](assets/2020-06-04_capes-lead-the-way_img_image-asset_9d854f11f519.jpeg)
 
 As the day progressed, more news out of the important C3 (Brazil-China) route, with rumored fixtures above last done. When all settled, expectations are for a big up index tomorrow.
 

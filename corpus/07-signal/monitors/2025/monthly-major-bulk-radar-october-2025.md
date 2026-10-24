@@ -29,7 +29,7 @@ Major bulk, made up of iron ore, coal, and grains, exports ended 2025 Q3 above t
 
 > **Figure 1: Source: Total Major Bulk Export Performance From Signal Ocean.major Bulk Is Made Up of Iron Ore, Coal, and Grains.**  
 > *Source: Total major bulk* export performance from Signal Ocean.*Major bulk is made up of iron ore, coal, and grains.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/690347d0df099eda2275f6eb_a1888023.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](../../images/690347d0df099eda2275f6eb_a1888023.png)
 
 
 ## Economic Environment
@@ -42,7 +42,7 @@ Major bulk, made up of iron ore, coal, and grains, exports ended 2025 Q3 above t
 
 > **Figure 2: Source: National Bureau of Statistics of China, Institute for Supply Management, Hcob, Hbsc India Manufacturing Pmi**  
 > *Source: National Bureau of Statistics of China, Institute for Supply Management, HCOB, HBSC India Manufacturing PMI*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/690347d0df099eda2275f6f4_c89f17b3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](../../images/690347d0df099eda2275f6f4_c89f17b3.png)
 
 
 ## Exchange Rates
@@ -53,7 +53,7 @@ Major bulk, made up of iron ore, coal, and grains, exports ended 2025 Q3 above t
 ![Exchange Rates](../../images/690347d0df099eda2275f6ee_1121ac58.png)
 
 > **Figure 3: Exchange Rates**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/690347d0df099eda2275f6ee_1121ac58.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](../../images/690347d0df099eda2275f6ee_1121ac58.png)
 
 **RMB vs:**
 
@@ -62,7 +62,7 @@ Major bulk, made up of iron ore, coal, and grains, exports ended 2025 Q3 above t
 
 > **Figure 4: Source: Imf**  
 > *Source: IMF*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/690347d0df099eda2275f6f1_30156d9c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](../../images/690347d0df099eda2275f6f1_30156d9c.png)
 
 **Baltic Indexes**
 
@@ -71,7 +71,7 @@ Major bulk, made up of iron ore, coal, and grains, exports ended 2025 Q3 above t
 
 > **Figure 5: Source: The Baltic Exchange**  
 > *Source: The Baltic Exchange*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/690347d0df099eda2275f6fd_f72f7718.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](../../images/690347d0df099eda2275f6fd_f72f7718.png)
 
 
 ## Major Bulk
@@ -92,21 +92,21 @@ More recently, stories have broken out detailing that BHP has managed to sell so
 
 > **Figure 6: Source: Global Monthly Iron Ore Exports From Signal Ocean**  
 > *Source: Global monthly iron ore exports from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/690347d0df099eda2275f6fa_245be9a6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](../../images/690347d0df099eda2275f6fa_245be9a6.png)
 
 
 ![Source: China Crude Steel Production From the National Bureau of Statistics of China](../../images/690347d0df099eda2275f700_8942b502.png)
 
 > **Figure 7: Source: China Crude Steel Production From the National Bureau of Statistics of China**  
 > *Source: China crude steel production from the National Bureau of Statistics of China*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/690347d0df099eda2275f700_8942b502.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](../../images/690347d0df099eda2275f700_8942b502.png)
 
 
 ![Source: Australia to China Iron Ore Exports From Signal Ocean](../../images/690347d0df099eda2275f6f7_faf66f43.png)
 
 > **Figure 8: Source: Australia to China Iron Ore Exports From Signal Ocean**  
 > *Source: Australia to China iron ore exports from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/690347d0df099eda2275f6f7_faf66f43.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](../../images/690347d0df099eda2275f6f7_faf66f43.png)
 
 
 ## Coal
@@ -124,21 +124,21 @@ The longer-term outlook, however, is not as positive for coal demand. China, the
 
 > **Figure 9: Source: Total Coal Export Volumes From Signal Ocean**  
 > *Source: Total coal export volumes from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/690347d0df099eda2275f706_02205109.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](../../images/690347d0df099eda2275f706_02205109.png)
 
 
 ![Source: China Domestic Coal Production From the National Bureau of Statistics of China](../../images/690347d0df099eda2275f703_5ec16f45.png)
 
 > **Figure 10: Source: China Domestic Coal Production From the National Bureau of Statistics of China**  
 > *Source: China domestic coal production from the National Bureau of Statistics of China*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/690347d0df099eda2275f703_5ec16f45.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](../../images/690347d0df099eda2275f703_5ec16f45.png)
 
 
 ![Source: South Korea vs Japan Coal Import Statistics for September 2025 From Signal Ocean](../../images/690347d0df099eda2275f70d_5fe99ffc.png)
 
 > **Figure 11: Source: South Korea vs Japan Coal Import Statistics for September 2025 From Signal Ocean**  
 > *Source: South Korea vs Japan coal import statistics for September 2025 from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/690347d0df099eda2275f70d_5fe99ffc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](../../images/690347d0df099eda2275f70d_5fe99ffc.png)
 
 
 ## Grains- Soybeans
@@ -154,21 +154,21 @@ Without a positive resolution to the trade talks between the U.S. and China, U.S
 
 > **Figure 12: Source: Global Soybean Exports From Signal Ocean**  
 > *Source: Global soybean exports from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/690347d0df099eda2275f710_ce7399e0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](../../images/690347d0df099eda2275f710_ce7399e0.png)
 
 
 ![Source: Origins of China Soybean Imports in September 2025 From Signal Ocean](../../images/690347d0df099eda2275f713_87ba3840.png)
 
 > **Figure 13: Source: Origins of China Soybean Imports in September 2025 From Signal Ocean**  
 > *Source: Origins of China soybean imports in September 2025 from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/690347d0df099eda2275f713_87ba3840.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](../../images/690347d0df099eda2275f713_87ba3840.png)
 
 
 ![Source: Destination for U.s.-Origin Soybeans Since 2022 From Signal Ocean](../../images/690347d0df099eda2275f716_02584c3e.png)
 
 > **Figure 14: Source: Destination for U.s.-Origin Soybeans Since 2022 From Signal Ocean**  
 > *Source: Destination for U.S.-origin soybeans since 2022 from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/690347d0df099eda2275f716_02584c3e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-october-2025) | [Local Asset](../../images/690347d0df099eda2275f716_02584c3e.png)
 
 
 ## Recent Insights & Weekly Reports

@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-06-22_commodity-prices-infl
 ![Unsplash Image Rb7 Lca Diu](assets/2021-06-22_commodity-prices-inflation-and-shipping-profits_img_unsplash-image-rb7-lca-diu_37f0cb68cd79.jpg)
 
 > **Figure 1: Unsplash Image Rb7 Lca Diu**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-22_commodity-prices-inflation-and-shipping-profits_img_unsplash-image-rb7-lca-diu_37f0cb68cd79.jpg)
+> [Local Asset](assets/2021-06-22_commodity-prices-inflation-and-shipping-profits_img_unsplash-image-rb7-lca-diu_37f0cb68cd79.jpg)
 
 “Lagom” is a Swedish word that can be translated as "just right" in the context of "not too little, not too much". Beyond its literal translation, it is a quintessential Swedish word and is often seen as a key to understanding the Swedish culture. Typically, the use of the word implies that one actually should know what the right amount/level should be, notwithstanding one’s personal preferences. Shipping’s relationship with commodity prices could perhaps also be described in this fashion, with high, but not too high, prices typically being good news for shipping. While rising commodity prices often signifies strong demand and a greater need for seaborne transportation, if the prices are rising too much there is always the risk that volumes will eventually suffer, as demand softens with declining profit margins in the manufacturing sector. Low prices could on the other hand signify a lack of demand with the corresponding lack of need for transportation across the oceans, despite the relative attractiveness of cheap raw materials.
 
@@ -38,7 +38,7 @@ Following a sharp increase in US inflation rates, the Federal Reserve has change
 ![Ulf 1 6.22](assets/2021-06-22_commodity-prices-inflation-and-shipping-profits_img_ulf1622_7fbb6df313ba.png)
 
 > **Figure 2: Ulf 1 6.22**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-22_commodity-prices-inflation-and-shipping-profits_img_ulf1622_7fbb6df313ba.png)
+> [Local Asset](assets/2021-06-22_commodity-prices-inflation-and-shipping-profits_img_ulf1622_7fbb6df313ba.png)
 
 Economists often like to use the concept of utility when exploring optimal outcomes. Shipping’s utility function in regards to commodity prices is likely to be somewhat dissimilar to the commodity producers’, as volumes shipped rather than prices paid are likely to be the deciding factor for the sectors’ profits. Hence, the shipping sector’s interests may in this case be more aligned with those of the central bankers and national leaders looking to limit further upside on commodity prices, than with the commodity producers. A continued strong recovery for the global economy, without excessive inflationary pressure from ever-increasing commodity prices, would maintain a strong commodity demand and provide support for ocean freight rates. At the same time, commodity prices need to give producers the incentive to maintain high output levels and cater to demand. In other words, “Lagom” rules!
 

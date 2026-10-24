@@ -31,7 +31,7 @@ November 28, 2024
 ![Στιγμιότυπο Οθόνης 2024 11 29 130259](assets/2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f7b468ec4aee.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 11 29 130259**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/ction-outweighs-its-soft-data-/2qr3jl/451824386/h/GI02kQr8HfPEGmCMhoAhY_Z6P-J3VkxgoyZhQaoU4Jg) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f7b468ec4aee.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/ction-outweighs-its-soft-data-/2qr3jl/451824386/h/GI02kQr8HfPEGmCMhoAhY_Z6P-J3VkxgoyZhQaoU4Jg) | [Local Asset](assets/2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f7b468ec4aee.png)
 
 The end of November marked a significant downturn in dry bulk freight rates, with the Baltic Capesize Index plunging by 30% year-on-year. Similarly, the Baltic Panamax Index experienced a sharp decline of 50%. However, smaller vessel categories showed milder decreases, with the Supramax Index falling by 19%, while the Handysize Index demonstrated notable resilience, remaining relatively stable at the previous month’s levels.
 
@@ -42,7 +42,7 @@ Meanwhile, the Chinese economy faces ongoing challenges, with trade tensions exa
 ![Στιγμιότυπο Οθόνης 2024 11 29 131422](assets/2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9d1c6a24374f.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 11 29 131422**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9d1c6a24374f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9d1c6a24374f.png)
 
 The dry bulk freight market showed weakening momentum as the month drew to a close, despite signs of a rebound in the Capesize Brazil-North China route two weeks ago.
 
@@ -54,7 +54,7 @@ The dry bulk freight market showed weakening momentum as the month drew to a clo
 ![Στιγμιότυπο Οθόνης 2024 11 29 131551](assets/2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1853b4706f9.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 11 29 131551**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1853b4706f9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1853b4706f9.png)
 
 The final week of November saw a mixed trend, with the number of ballasters gradually increasing in the Capesize SE Africa amid signs of a significant downward trend in early November, while the Panamax segment continued to experience a decline.
 
@@ -66,7 +66,7 @@ The final week of November saw a mixed trend, with the number of ballasters grad
 ![Στιγμιότυπο Οθόνης 2024 11 29 131658](assets/2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_afa8da9a317a.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 11 29 131658**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_afa8da9a317a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_afa8da9a317a.png)
 
 In the closing days of November, dry tonne-days showed a notable weekly increase in the Capesize and Supramax segments, while the Panamax and Handysize segments experienced a downward trend.
 
@@ -78,7 +78,7 @@ In the closing days of November, dry tonne-days showed a notable weekly increase
 ![Στιγμιότυπο Οθόνης 2024 11 29 131801](assets/2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_76ca09c879be.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 11 29 131801**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_76ca09c879be.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_76ca09c879be.png)
 
 Congestion at Chinese dry bulk ports has shown a downward trend across all vessel size categories, with the last peak recorded two weeks ago.
 

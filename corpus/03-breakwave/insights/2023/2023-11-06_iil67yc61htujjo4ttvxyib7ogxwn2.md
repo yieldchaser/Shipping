@@ -26,13 +26,13 @@ Global steel production totaled approximately 149.3 million tons in September. T
 ![Chart 1 (89)](assets/2023-11-06_iil67yc61htujjo4ttvxyib7ogxwn2_img_chart1288929_d7d041853366.jpg)
 
 > **Figure 1: Chart 1 (89)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-06_iil67yc61htujjo4ttvxyib7ogxwn2_img_chart1288929_d7d041853366.jpg)
+> [Local Asset](assets/2023-11-06_iil67yc61htujjo4ttvxyib7ogxwn2_img_chart1288929_d7d041853366.jpg)
 
 As we have been highlighting in our Weekly Dry Bulk Reports, June saw an inflection point as there was finally growth in steel production outside of China. Prior to June, steel production outside of China fell on a year-on-year basis for fifteen straight months (during those fifteen months, production outside of China contracted year-on-year by 77 million tons).
 
 ![Chart 2 (76)](assets/2023-11-06_iil67yc61htujjo4ttvxyib7ogxwn2_img_chart2287629_4e4055e5cabd.jpg)
 
 > **Figure 2: Chart 2 (76)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-06_iil67yc61htujjo4ttvxyib7ogxwn2_img_chart2287629_4e4055e5cabd.jpg)
+> [Local Asset](assets/2023-11-06_iil67yc61htujjo4ttvxyib7ogxwn2_img_chart2287629_4e4055e5cabd.jpg)
 
 In total, June, July, August, and September have now seen steel production outside of China grow year-on-year by 2.1 million tons, with most of the growth occurring last month. Overall, the primary improvement in steel production outside of China remains in India. Russian and US steel production also experienced year-on-year growth.

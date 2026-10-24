@@ -30,4 +30,4 @@ With global commodity prices remaining down this year compared to 2022’s price
 ![Chart](assets/2023-07-14_chinas-major-dry-bulk-imports-collectively-up-25-y-o-y-in-june_img_chart_9ec27b44b893.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-14_chinas-major-dry-bulk-imports-collectively-up-25-y-o-y-in-june_img_chart_9ec27b44b893.jpg)
+> [Local Asset](assets/2023-07-14_chinas-major-dry-bulk-imports-collectively-up-25-y-o-y-in-june_img_chart_9ec27b44b893.jpg)

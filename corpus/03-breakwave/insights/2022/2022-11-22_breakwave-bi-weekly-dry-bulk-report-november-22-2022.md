@@ -22,12 +22,12 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-22_breakwave-bi-weekly-d
 [![Buttonwdate](assets/2022-11-22_breakwave-bi-weekly-dry-bulk-report-november-22-2022_img_buttonwdate_d45d644f7990.png)
 
 > **Figure 1: Buttonwdate**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/publications) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-22_breakwave-bi-weekly-dry-bulk-report-november-22-2022_img_buttonwdate_d45d644f7990.png)](https://www.breakwaveadvisors.com/agenda22)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/publications) | [Local Asset](assets/2022-11-22_breakwave-bi-weekly-dry-bulk-report-november-22-2022_img_buttonwdate_d45d644f7990.png)](https://www.breakwaveadvisors.com/agenda22)
 
 ![Reporttop](assets/2022-11-22_breakwave-bi-weekly-dry-bulk-report-november-22-2022_img_reporttop_f8ed70328800.png)
 
 > **Figure 2: Reporttop**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/publications) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-22_breakwave-bi-weekly-dry-bulk-report-november-22-2022_img_reporttop_f8ed70328800.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/publications) | [Local Asset](assets/2022-11-22_breakwave-bi-weekly-dry-bulk-report-november-22-2022_img_reporttop_f8ed70328800.png)
 
 ### Bi-Weekly Report
 
@@ -40,4 +40,4 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-22_breakwave-bi-weekly-d
 ![Reportend](assets/2022-11-22_breakwave-bi-weekly-dry-bulk-report-november-22-2022_img_reportend_cd4287c88a67.png)
 
 > **Figure 3: Reportend**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-22_breakwave-bi-weekly-dry-bulk-report-november-22-2022_img_reportend_cd4287c88a67.png)
+> [Local Asset](assets/2022-11-22_breakwave-bi-weekly-dry-bulk-report-november-22-2022_img_reportend_cd4287c88a67.png)

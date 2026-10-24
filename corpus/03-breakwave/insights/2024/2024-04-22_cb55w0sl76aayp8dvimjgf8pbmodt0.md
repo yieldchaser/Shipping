@@ -39,7 +39,7 @@ The sixteenth trading week wrapped up today with oil prices slipping, following 
 ![Doric 22.04](assets/2024-04-22_cb55w0sl76aayp8dvimjgf8pbmodt0_img_doric2204_998ec0a1b333.png)
 
 > **Figure 1: Doric 22.04**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-22_cb55w0sl76aayp8dvimjgf8pbmodt0_img_doric2204_998ec0a1b333.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-04-22_cb55w0sl76aayp8dvimjgf8pbmodt0_img_doric2204_998ec0a1b333.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

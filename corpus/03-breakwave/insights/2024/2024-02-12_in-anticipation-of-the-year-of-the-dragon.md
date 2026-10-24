@@ -39,7 +39,7 @@ HSBC economists underscored another element contributing to the deflationary lan
 ![Screenshot 2024 02 11 09.40.54](assets/2024-02-12_in-anticipation-of-the-year-of-the-dragon_img_screenshot2024-02-11094054_0e635f7424b6.png)
 
 > **Figure 1: Screenshot 2024 02 11 09.40.54**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-12_in-anticipation-of-the-year-of-the-dragon_img_screenshot2024-02-11094054_0e635f7424b6.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-02-12_in-anticipation-of-the-year-of-the-dragon_img_screenshot2024-02-11094054_0e635f7424b6.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

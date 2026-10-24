@@ -27,7 +27,7 @@ June 19, 2024
 ![Στιγμιότυπο Οθόνης 2024 06 20 122301](assets/2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a6c6be4f48e4.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 06 20 122301**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/-ore-giants-facing-challenges-/2q9pzb/417801414/h/EV5ZJLMXwMgMnukLj7h1uPAqUlLOD4d-aEWiIIB2URc) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a6c6be4f48e4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/-ore-giants-facing-challenges-/2q9pzb/417801414/h/EV5ZJLMXwMgMnukLj7h1uPAqUlLOD4d-aEWiIIB2URc) | [Local Asset](assets/2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a6c6be4f48e4.png)
 
 In the third week of June, significant developments are observed in the Capesize vessel rates on the Brazil to North China route, as well as in the Panamax Cont FE routes, indicating a stronger momentum for larger vessel size segments as we approach the end of the month. Specifically, the Panamax P6 route in ECSA shows promising signs for the firming of freight rates in the coming days, supported by a notable decrease in the number of ballast vessels from their peaks in mid-February and before mid-March. Looking ahead, June appears poised to conclude with an upward trend in the growth of dry bulk demand tonne days. If this trend continues, it could lead to higher vessel employment utilisation in both the Atlantic and Pacific markets, setting the stage for a potentially robust July.
 
@@ -38,7 +38,7 @@ Market sentiment was notably impacted by weaker-than-expected data from China's 
 ![Στιγμιότυπο Οθόνης 2024 06 20 122402](assets/2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_28d508cf0bc5.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 06 20 122402**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_28d508cf0bc5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_28d508cf0bc5.png)
 
 In the third week of June, the Capesize Brazil to North China route showed signs of gaining strength, while Panamax Cont FE freight rates reversed course and began to climb. The sustainability of this momentum is yet uncertain, amid indications of declining ballast vessel numbers and an accelerated growth in tonne days expected by month-end.
 
@@ -50,7 +50,7 @@ In the third week of June, the Capesize Brazil to North China route showed signs
 ![Στιγμιότυπο Οθόνης 2024 06 20 122625](assets/2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_24a501ff1f0a.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 06 20 122625**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_24a501ff1f0a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_24a501ff1f0a.png)
 
 In the third week of June, there was a continued decrease in the number of ballast ships across all vessel size segments, except for indications of an increase in the Supramax segment in Southeast Asia.
 
@@ -62,7 +62,7 @@ In the third week of June, there was a continued decrease in the number of balla
 ![Στιγμιότυπο Οθόνης 2024 06 20 122742](assets/2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51e6859ed191.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 06 20 122742**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51e6859ed191.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51e6859ed191.png)
 
 In the third week of June, the outlook for dry tonne days began to show signs of an upward trend, building on the momentum observed at the end of the first half of the year.
 
@@ -74,7 +74,7 @@ In the third week of June, the outlook for dry tonne days began to show signs of
 ![Στιγμιότυπο Οθόνης 2024 06 20 122852](assets/2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_09675d312f2c.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 06 20 122852**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_09675d312f2c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_09675d312f2c.png)
 
 The upward trend observed in the first half of June has continued into the start of the third week, as Chinese dry bulk congestion continues to rise significantly across all vessel size segments.
 

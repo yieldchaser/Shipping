@@ -26,7 +26,7 @@ The prospect of further stimulus measures in China continued to support commodit
 ![1690323494487](assets/2023-07-26_metals-extend-gains-as-china-boost-support-for-property-sector_img_1690323494487_bc7921ca278f.png)
 
 > **Figure 1: 1690323494487**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-26_metals-extend-gains-as-china-boost-support-for-property-sector_img_1690323494487_bc7921ca278f.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2023-07-26_metals-extend-gains-as-china-boost-support-for-property-sector_img_1690323494487_bc7921ca278f.png)
 
 **Copper**and**iron ore**extended yesterday’s rally after China pledged support for its beleaguered property sector. President Xi Jinping and the 24-member Politburo promised to revive growth after the post-COVID recovery stalled. Markets were buoyed by the fact that statement left out the slogan of “housing is for living, not for speculation”, a sign that they are considering further easing restrictions on the property sector. The sector accounts for around 40% of Chinese steel demand and is important for metals such as copper, aluminium and zinc. However, it stopped short of unveiling any large-scale stimulus package that would provide a significant boost to demand. Even so, it appears to have sparked some renewed optimism as Beijing looks to encourage more risk taking and investment.
 

@@ -26,7 +26,7 @@ A remarkable turnaround in ton days for Capesize West Africa to China has increa
 ![Market Chart 1](assets/2023-06-21_signal-dry-bulk-weekly-report_img_unnamed-2023-06-21t132242533_9aa4f6fc70ba.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2p37c2/327695386?h=bwkkjIFpZSE-pMfz3BYSnUG9XZaOd6CL4yNFWVFp1f0) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-21_signal-dry-bulk-weekly-report_img_unnamed-2023-06-21t132242533_9aa4f6fc70ba.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2p37c2/327695386?h=bwkkjIFpZSE-pMfz3BYSnUG9XZaOd6CL4yNFWVFp1f0) | [Local Asset](assets/2023-06-21_signal-dry-bulk-weekly-report_img_unnamed-2023-06-21t132242533_9aa4f6fc70ba.png)
 
 There has been a remarkable turnaround in ton days for Capesize shipments from West Africa to China, as illustrated in the provided image, leading to increased rates and improved laden speed during the second quarter. This positive shift signifies improved performance in terms of cargo volume and transportation efficiency in this specific trade route. The higher rates and faster laden speed highlight favorable market conditions and potentially enhanced operational capabilities within the Capesize segment for this particular route.
 
@@ -45,7 +45,7 @@ Market Rates ($/t) Softer**
 ![Market Chart 2](assets/2023-06-21_signal-dry-bulk-weekly-report_img_unnamed-2023-06-21t132353970_75cbc026e01f.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-21_signal-dry-bulk-weekly-report_img_unnamed-2023-06-21t132353970_75cbc026e01f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-06-21_signal-dry-bulk-weekly-report_img_unnamed-2023-06-21t132353970_75cbc026e01f.png)
 
 During the third week of June, the dry freight market displayed a varied performance. The Capesize segment exhibited strength, indicating positive market conditions. However, a softer outlook was observed for the Panamax segment, suggesting a slightly less favorable market environment. Meanwhile, Handysize rates continued their downward correction trend, indicating ongoing price adjustments in that particular segment.
 
@@ -62,7 +62,7 @@ Ballasters (# vessels) Decreasing**
 ![Market Chart 3](assets/2023-06-21_signal-dry-bulk-weekly-report_img_unnamed-2023-06-21t132605327_e56d7e81b342.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-21_signal-dry-bulk-weekly-report_img_unnamed-2023-06-21t132605327_e56d7e81b342.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-06-21_signal-dry-bulk-weekly-report_img_unnamed-2023-06-21t132605327_e56d7e81b342.png)
 
 **Despite an overall downward trend in the growth of ton days, there has been a persistent recovery observed in the Capesize segments over the past five consecutive weeks.**
 
@@ -76,7 +76,7 @@ Ballasters (# vessels) Decreasing**
 ![Dry Bulk Ships Congested at Chinese Portsno of Vessels Increasing](assets/2023-06-21_signal-dry-bulk-weekly-report_img_unnamed-2023-06-21t132827767_9a515bf38823.png)
 
 > **Figure 4: Dry Bulk Ships Congested at Chinese Portsno of Vessels Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-21_signal-dry-bulk-weekly-report_img_unnamed-2023-06-21t132827767_9a515bf38823.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-06-21_signal-dry-bulk-weekly-report_img_unnamed-2023-06-21t132827767_9a515bf38823.png)
 
 **The third week of June solidifies the ongoing upward trend observed in the preceding days, particularly notable in the Handysize and Supramax segments.**
 

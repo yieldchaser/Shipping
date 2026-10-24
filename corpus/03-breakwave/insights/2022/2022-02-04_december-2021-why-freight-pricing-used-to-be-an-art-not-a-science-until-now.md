@@ -32,7 +32,7 @@ Making Waves was conceived out of a desire to lift the curtain on the obscure ja
 
 > **Figure 1: Cartoon of the Month: “Freightopoly” by Sheridan Hart**  
 > *Cartoon of the month: “Freightopoly” by Sheridan Hart*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/company/the-baltic-exchange/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-04_december-2021-why-freight-pricing-used-to-be-an-art-not-a-science-until-now_img_tankers_345812400f22.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/company/the-baltic-exchange/) | [Local Asset](assets/2022-02-04_december-2021-why-freight-pricing-used-to-be-an-art-not-a-science-until-now_img_tankers_345812400f22.png)
 
 ### Freight Pricing 101
 
@@ -46,7 +46,7 @@ In last month’s edition, I wrote about[**The Baltic Exchange**](https://www.li
 
 > **Figure 2: Vortexa’s Freight Pricing Analytics**  
 > *Vortexa’s Freight Pricing Analytics*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-04_december-2021-why-freight-pricing-used-to-be-an-art-not-a-science-until-now_img_1638350685429_5ef6c73f2fc7.png)
+> [Local Asset](assets/2022-02-04_december-2021-why-freight-pricing-used-to-be-an-art-not-a-science-until-now_img_1638350685429_5ef6c73f2fc7.png)
 
 The price reporter will be involved deeply with the market. He will spend a lot of his day communicating with market participants, from shipbrokers to charterers and shipowners. He will have an idea of what is happening at a fundamental level, if for example there are more ships in a given region compared to yesterday and what that*should*mean for prices. He will know what was the last offer from a shipowner for a given cargo and what counter-offer the charterer submitted. He will know what was the last done deal, and what price that deal, or fixture as it is known in tanker and dry bulk markets, was concluded at. And yet, even with troves of information there will be an element of experience, subjectiveness and deep knowledge that will allow the price reporter to produce the spot rate that will be used as a benchmark for the industry for the next done deal. Imagine days where information is scarce and how the difficulty increases, especially when conducting that assessment (a different name for a price, hence assessor) across dozens of different trade routes and vessel classes. Which is why freight pricing involves a certain*je-ne-sais-quoi*, akin to making it an art in which industry experience and knowledge has always been vital. Though I believe that this will always remain the case I also believe transparency in freight pricing is undergoing a revolution, fuelled by data.
 

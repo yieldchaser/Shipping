@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-02-18_capesize-leads-the-20
 ![Rgb Color Brs Shipbrokers Monogram L](assets/2026-02-18_capesize-leads-the-2025-sale-and-purchase-market_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram L**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-18_capesize-leads-the-2025-sale-and-purchase-market_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](assets/2026-02-18_capesize-leads-the-2025-sale-and-purchase-market_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 Last year, the dry bulk sale and purchase (S&P) market remained subdued reflecting the lacklustre freight market throughout the first half of the year. Accordingly, prices stayed under pressure during 1H25 but firmed in 2H25 as sentiment gradually improved and deals picked up. On a full-year basis, the total transaction volume slipped by around 5%.
 
@@ -34,7 +34,7 @@ Notably, during 1H25, Japanese-built units dominated S&P activity, accounting fo
 ![Στιγμιότυπο Οθόνης 2026 02 18 103129](assets/2026-02-18_capesize-leads-the-2025-sale-and-purchase-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1df6f158416e.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 02 18 103129**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-18_capesize-leads-the-2025-sale-and-purchase-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1df6f158416e.png)
+> [Local Asset](assets/2026-02-18_capesize-leads-the-2025-sale-and-purchase-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1df6f158416e.png)
 
 From a vessel-segment perspective, although transaction numbers for Capesize and larger vessels declined by 16 units year-on-year to a total of 108 deals in 2025, market attention remained firmly focused on this segment. This largely reflected freight volatility in the Capesize market which drove movements of the Baltic Dry Index (BDI), since Capesize routes account for roughly 40% of the index weighting.
 
@@ -51,19 +51,19 @@ At the same time, other owners have focused on fleet renewal and modernisation. 
 ![Στιγμιότυπο Οθόνης 2026 02 18 103141](assets/2026-02-18_capesize-leads-the-2025-sale-and-purchase-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_af2cb33db0bc.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 02 18 103141**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-18_capesize-leads-the-2025-sale-and-purchase-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_af2cb33db0bc.png)
+> [Local Asset](assets/2026-02-18_capesize-leads-the-2025-sale-and-purchase-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_af2cb33db0bc.png)
 
 As illustrated, Capesize was the only vessel segment in the second-hand market to record year-on-year price appreciation last year, while prices across others dry bulk segments declined to varying degrees from 2024 to Jun25, after which they began to edge up slightly. More specifically, five-year-old Capesize values increased by 6% y-o-y to around $61 mln, while ten-year-old units rose by approximately 7% to $43.5 mln. Prices for 15-year-old vessels edged up marginally by 0.3%, remaining broadly stable at around $27.9 mln. By comparison, CNDPI indicates that the average price of a Capesize newbuilding stood at approximately $70.9 mln last year. This highlights the clear price attractiveness of modern second-hand vessels of around five years of age, offering buyers both immediate employment potential and superior cost efficiency.
 
 ![Στιγμιότυπο Οθόνης 2026 02 18 103150](assets/2026-02-18_capesize-leads-the-2025-sale-and-purchase-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5ca6ca5660a7.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2026 02 18 103150**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-18_capesize-leads-the-2025-sale-and-purchase-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5ca6ca5660a7.png)
+> [Local Asset](assets/2026-02-18_capesize-leads-the-2025-sale-and-purchase-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5ca6ca5660a7.png)
 
 ![Στιγμιότυπο Οθόνης 2026 02 18 103205](assets/2026-02-18_capesize-leads-the-2025-sale-and-purchase-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4cd75a3256ce.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2026 02 18 103205**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-18_capesize-leads-the-2025-sale-and-purchase-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4cd75a3256ce.png)
+> [Local Asset](assets/2026-02-18_capesize-leads-the-2025-sale-and-purchase-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4cd75a3256ce.png)
 
 A closer look at the buyer profile shows that Chinese owners dominated Capesize purchasing activity last year by a wide margin, with acquisition three times more ships than Greek owners, who ranked second. The average age of Capesizes sold was 15 years. Notably, among vessels acquired by Chinese buyers, Japanese-built tonnage accounted for 48% of purchases, while a similar pattern was observed among Greek owners, for whom Japanese-built vessels represented 44% of acquisitions. At the same time, Japanese owners emerged as the most active sellers of Capesizes. Market sources suggest that some Japanese owners have taken advantage of elevated asset prices to divest dry bulk tonnage. For example, Kumiai Senpaku is reportedly planning to exit the large dry bulk segment by 2026, shifting its strategic focus toward niche sectors such as asphalt carriers. According to broker information, the current price differential between 15-year-old Capesizes built in China and Japan stands at approximately USD 2.0–2.5 mln.
 

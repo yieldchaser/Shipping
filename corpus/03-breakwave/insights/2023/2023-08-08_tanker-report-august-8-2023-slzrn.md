@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-08-08_tanker-report-august-
 ![Tankerreporttop](assets/2023-08-08_tanker-report-august-8-2023-slzrn_img_tankerreporttop_b932a0ac044f.png)
 
 > **Figure 1: Tankerreporttop**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-08_tanker-report-august-8-2023-slzrn_img_tankerreporttop_b932a0ac044f.png)
+> [Local Asset](assets/2023-08-08_tanker-report-august-8-2023-slzrn_img_tankerreporttop_b932a0ac044f.png)
 
 **• A rather dull market for VLCCs, as spot rates gradually soften**– Summer traditionally has been a slow period for tanker shipping and this year so far proves to be no different. Spot voyage rates remain relatively unchanged, but higher bunker prices are placing some pressure on earnings with oil prices reaching multi-month highs. The Atlantic market, which has been a pilar of strength in the last few years, remain relatively strong vs the Middle East market where the recent production cuts by Saudi Arabia have reduced demand for spot vessels by a decent amount. In addition, the fact that oil prices have rallied quite a bit has also led some Russian focused players to reposition back to the Middle East and/or the Atlantic, as crude prices cross the ceiling price once again. As we move into September, we expect refining demand to gradually improve, although it is not until the fourth quarter that seasonally the market tends to pick up in terms of volume leading to stronger spot rates for the larger tankers. What remains quite striking for the crude tanker market is the resiliency in spot rates despite the significant reductions in crude oil export volumes for a third month in a row. As most analysts have already stressed, the tanker market remains on track for record low supply growth over the next several years, and the fact that the market balance is relatively tight might also be a testament of such a development which could potentially lead to much stronger rates once stronger global oil demand growth returns.
 
@@ -33,9 +33,9 @@ source_file: "corpus/03-breakwave/insights/2023/2023-08-08_tanker-report-august-
 ![Tankerreportchart](assets/2023-08-08_tanker-report-august-8-2023-slzrn_img_tankerreportchart_235f77e78334.png)
 
 > **Figure 2: Tankerreportchart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-08_tanker-report-august-8-2023-slzrn_img_tankerreportchart_235f77e78334.png)
+> [Local Asset](assets/2023-08-08_tanker-report-august-8-2023-slzrn_img_tankerreportchart_235f77e78334.png)
 
 ![Tankerreportbottom](assets/2023-08-08_tanker-report-august-8-2023-slzrn_img_tankerreportbottom_78f07e11c571.png)
 
 > **Figure 3: Tankerreportbottom**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-08_tanker-report-august-8-2023-slzrn_img_tankerreportbottom_78f07e11c571.png)
+> [Local Asset](assets/2023-08-08_tanker-report-august-8-2023-slzrn_img_tankerreportbottom_78f07e11c571.png)

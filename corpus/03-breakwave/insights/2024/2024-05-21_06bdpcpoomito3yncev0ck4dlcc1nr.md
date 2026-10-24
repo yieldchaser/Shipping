@@ -35,7 +35,7 @@ Global stocks and bonds rallied last week, on the back of slightly lower inflati
 ![Market Chart 1](assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image012_a8b2192c265d.jpg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2024-05-17/gamestop-amc-hertz-meme-stocks-are-back-or-are-they?srnd=all) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image012_a8b2192c265d.jpg)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2024-05-17/gamestop-amc-hertz-meme-stocks-are-back-or-are-they?srnd=all) | [Local Asset](assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image012_a8b2192c265d.jpg)
 
 So this is the picture thus far:
 
@@ -44,28 +44,28 @@ So this is the picture thus far:
 ![Market Chart 2](assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image013_dc8cac49f0d6.jpg)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2024-05-17/gamestop-amc-hertz-meme-stocks-are-back-or-are-they?srnd=all) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image013_dc8cac49f0d6.jpg)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2024-05-17/gamestop-amc-hertz-meme-stocks-are-back-or-are-they?srnd=all) | [Local Asset](assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image013_dc8cac49f0d6.jpg)
 
 - Inflation is dropping, however slowly.
 
 ![Market Chart 3](assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image014_f7f7d91cc1fe.jpg)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2024-05-17/gamestop-amc-hertz-meme-stocks-are-back-or-are-they?srnd=all) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image014_f7f7d91cc1fe.jpg)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2024-05-17/gamestop-amc-hertz-meme-stocks-are-back-or-are-they?srnd=all) | [Local Asset](assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image014_f7f7d91cc1fe.jpg)
 
 - Equity momentum is positive. US Equities are at or near all-time highs. European equities are catching up. Last week we even witnessed a meme stock rally.
 
 ![Market Chart 4](assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image015_1331d18486ad.jpg)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2024-05-17/gamestop-amc-hertz-meme-stocks-are-back-or-are-they?srnd=all) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image015_1331d18486ad.jpg)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2024-05-17/gamestop-amc-hertz-meme-stocks-are-back-or-are-they?srnd=all) | [Local Asset](assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image015_1331d18486ad.jpg)
 
 - Bonds have been weak all year but last week’s news finally allowed them to rebound
 
 ![Market Chart 5](assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image016_f793a0536a59.jpg)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2024-05-17/gamestop-amc-hertz-meme-stocks-are-back-or-are-they?srnd=all) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image016_f793a0536a59.jpg)
+> **Interactive Data & Source:** [Bloomberg News](https://www.bloomberg.com/news/articles/2024-05-17/gamestop-amc-hertz-meme-stocks-are-back-or-are-they?srnd=all) | [Local Asset](assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image016_f793a0536a59.jpg)
 
 In other words, this is the perfect macroeconomic environment for traders. So what can go wrong? What is the key risk to the current bout of exuberance? The market isn’t presently flashing any red signs.
 
@@ -74,28 +74,28 @@ Despite the meme-stock rally (“Roaring Kitty” a.k.a. Keith Gill made an anod
 ![Market Chart 6](assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image017_361b661ae454.jpg)
 
 > **Figure 6: Market Chart 6**  
-> **Interactive Data & Source:** [Pipelinecomics](https://www.pipelinecomics.com/asterix-v19-asterix-and-the-soothsayer/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image017_361b661ae454.jpg)
+> **Interactive Data & Source:** [Pipelinecomics](https://www.pipelinecomics.com/asterix-v19-asterix-and-the-soothsayer/) | [Local Asset](assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image017_361b661ae454.jpg)
 
 Seasonality is an issue, and the coming summer could be a warning sign, but history simply doesn’t support “Sell in May and go Away”. On average, US equities have been positive over the period. Since 2009, in fact, summer months have contributed more than their fair share towards the index’s annual performance.
 
 ![Market Chart 7](assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image018_7d0f0dddc1f8.jpg)
 
 > **Figure 7: Market Chart 7**  
-> **Interactive Data & Source:** [Pipelinecomics](https://www.pipelinecomics.com/asterix-v19-asterix-and-the-soothsayer/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image018_7d0f0dddc1f8.jpg)
+> **Interactive Data & Source:** [Pipelinecomics](https://www.pipelinecomics.com/asterix-v19-asterix-and-the-soothsayer/) | [Local Asset](assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image018_7d0f0dddc1f8.jpg)
 
 Inflation being somewhat misread could be a culprit for a correction. After all, it was really goods inflation that pushed the headline number lower. Services inflation remains flat at levers that are higher than those acceptable by the Fed. But the reality is that prices are coming down, even at a snail’s pace. And the Fed has shown no signs of wanting to upset the market pre-election.
 
 ![Market Chart 8](assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image019_944e180e9e86.jpg)
 
 > **Figure 8: Market Chart 8**  
-> **Interactive Data & Source:** [Pipelinecomics](https://www.pipelinecomics.com/asterix-v19-asterix-and-the-soothsayer/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image019_944e180e9e86.jpg)
+> **Interactive Data & Source:** [Pipelinecomics](https://www.pipelinecomics.com/asterix-v19-asterix-and-the-soothsayer/) | [Local Asset](assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image019_944e180e9e86.jpg)
 
 A recent flair-up in geopolitical turbulence has not translated into any sort of oil volatility, which is probably indicative of OPEC’s intentions. It is quite possible that shuttle diplomacy between Tel-Aviv and Riad and communication lines with Tehran are somewhat paying off. (I suspect that by the time his tenure ends, 62-year-old US Secretary of State Anthony Blinken might look older than his boss…).
 
 ![Market Chart 9](assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image020_60f1b3dd60c6.jpg)
 
 > **Figure 9: Market Chart 9**  
-> **Interactive Data & Source:** [Pipelinecomics](https://www.pipelinecomics.com/asterix-v19-asterix-and-the-soothsayer/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image020_60f1b3dd60c6.jpg)
+> **Interactive Data & Source:** [Pipelinecomics](https://www.pipelinecomics.com/asterix-v19-asterix-and-the-soothsayer/) | [Local Asset](assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image020_60f1b3dd60c6.jpg)
 
 So what can go wrong? Very few of the known knowns to be sure (valuations, earnings, Fed). It’s down to the known unknowns (war, inflation) to take a bad turn and of course the unknown unknowns.
 
@@ -114,7 +114,7 @@ Despite not-toppish valuations, US equity risk premiums (the differential betwee
 ![Market Chart 10](assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image021_9a0fdf9a3d22.jpg)
 
 > **Figure 10: Market Chart 10**  
-> **Interactive Data & Source:** [Bbc](https://www.bbc.com/news/business-69004520) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image021_9a0fdf9a3d22.jpg)
+> **Interactive Data & Source:** [Bbc](https://www.bbc.com/news/business-69004520) | [Local Asset](assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image021_9a0fdf9a3d22.jpg)
 
 If we are not being paid for equities, are we then paid for bonds?
 
@@ -123,7 +123,7 @@ Well, again things are less clear. Corporate bond spreads, a determinant of the 
 ![Market Chart 11](assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image022_2a17f6a3db4d.jpg)
 
 > **Figure 11: Market Chart 11**  
-> **Interactive Data & Source:** [Bbc](https://www.bbc.com/news/business-69004520) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image022_2a17f6a3db4d.jpg)
+> **Interactive Data & Source:** [Bbc](https://www.bbc.com/news/business-69004520) | [Local Asset](assets/2024-05-21_06bdpcpoomito3yncev0ck4dlcc1nr_img_image022_2a17f6a3db4d.jpg)
 
 So we are left with Developed Market sovereign debt. Is that worth the risk?
 

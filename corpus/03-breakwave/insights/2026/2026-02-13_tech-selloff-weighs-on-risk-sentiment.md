@@ -27,7 +27,7 @@ A risk-off tone across markets weighed on commodity markets. Precious and indust
 ![Στιγμιότυπο Οθόνης 2026 02 13 122324](assets/2026-02-13_tech-selloff-weighs-on-risk-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_16a13c8be596.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 02 13 122324**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-13_tech-selloff-weighs-on-risk-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_16a13c8be596.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2026-02-13_tech-selloff-weighs-on-risk-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_16a13c8be596.png)
 
 ### Market Commentary
 
@@ -46,7 +46,7 @@ Global storage of crude oil on tankers at sea is sitting at record highs. Howeve
 ![Στιγμιότυπο Οθόνης 2026 02 13 122432](assets/2026-02-13_tech-selloff-weighs-on-risk-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_80f7c107fdb5.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 02 13 122432**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-13_tech-selloff-weighs-on-risk-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_80f7c107fdb5.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2026-02-13_tech-selloff-weighs-on-risk-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_80f7c107fdb5.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

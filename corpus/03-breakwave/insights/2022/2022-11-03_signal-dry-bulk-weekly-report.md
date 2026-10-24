@@ -30,7 +30,7 @@ Freight rates remained weaker in all size classes, with a gradual decrease in th
 ![Chart of the Week Dry Bulk Canals Congestion: Bosphorus Strait](assets/2022-11-03_signal-dry-bulk-weekly-report_img_unnamed-2022-11-03t120432710_c914e6cdda08.png)
 
 > **Figure 1: Chart of the Week Dry Bulk Canals Congestion: Bosphorus Strait**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-canals-congestion/2kr3zq/282835533?h=r4ekYn80fTNwrIi_DvmpYQgqSulkrQxuoML-Za9gJio) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-03_signal-dry-bulk-weekly-report_img_unnamed-2022-11-03t120432710_c914e6cdda08.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-canals-congestion/2kr3zq/282835533?h=r4ekYn80fTNwrIi_DvmpYQgqSulkrQxuoML-Za9gJio) | [Local Asset](assets/2022-11-03_signal-dry-bulk-weekly-report_img_unnamed-2022-11-03t120432710_c914e6cdda08.png)
 
 Data Source: The Signal Ocean Platform, Dry Bulk Canals Congestion
 
@@ -41,7 +41,7 @@ Data Source: The Signal Ocean Platform, Dry Bulk Canals Congestion
 ![Market Chart 2](assets/2022-11-03_signal-dry-bulk-weekly-report_img_unnamed-2022-11-03t120432710_c914e6cdda08.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-03_signal-dry-bulk-weekly-report_img_unnamed-2022-11-03t120432710_c914e6cdda08.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-11-03_signal-dry-bulk-weekly-report_img_unnamed-2022-11-03t120432710_c914e6cdda08.png)
 
 In the first days of November, the downward trend continued in all size classes, with the Capesize and Panamax segments showing a strong downward correction and the last peak being reached in week 40.
 
@@ -55,7 +55,7 @@ In the first days of November, the downward trend continued in all size classes,
 ![Supply Trend Lines for Key Load Areas](assets/2022-11-03_signal-dry-bulk-weekly-report_img_unnamed-2022-11-03t120432710_c914e6cdda08.png)
 
 > **Figure 3: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-03_signal-dry-bulk-weekly-report_img_unnamed-2022-11-03t120432710_c914e6cdda08.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-11-03_signal-dry-bulk-weekly-report_img_unnamed-2022-11-03t120432710_c914e6cdda08.png)
 
 The number of ships in ballast remained above the annual average for the smaller ship categories, while the Capesize and Panamax segments showed a downward correction.
 
@@ -69,7 +69,7 @@ The number of ships in ballast remained above the annual average for the smaller
 ![TonDays Decreasing](assets/2022-11-03_signal-dry-bulk-weekly-report_img_unnamed-2022-11-03t120432710_c914e6cdda08.png)
 
 > **Figure 4: TonDays Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-03_signal-dry-bulk-weekly-report_img_unnamed-2022-11-03t120432710_c914e6cdda08.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-11-03_signal-dry-bulk-weekly-report_img_unnamed-2022-11-03t120432710_c914e6cdda08.png)
 
 Growth in demanded tonnage has been highly volatile, particularly in the Panamax and Surpamax size classes, while Capesize and Handysize vessels have seen a significant downward trend.
 
@@ -83,7 +83,7 @@ Growth in demanded tonnage has been highly volatile, particularly in the Panamax
 ![Dry Bulk Ships Congested at Chinese Ports](assets/2022-11-03_signal-dry-bulk-weekly-report_img_unnamed-2022-11-03t120914691_ffd42452f206.png)
 
 > **Figure 5: Dry Bulk Ships Congested at Chinese Ports**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-03_signal-dry-bulk-weekly-report_img_unnamed-2022-11-03t120914691_ffd42452f206.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-11-03_signal-dry-bulk-weekly-report_img_unnamed-2022-11-03t120914691_ffd42452f206.png)
 
 The number of congested vessels continued the upward trend from late October, with congestion in the Supramax and Handysize segments rising to very firm levels in the first days of November.
 

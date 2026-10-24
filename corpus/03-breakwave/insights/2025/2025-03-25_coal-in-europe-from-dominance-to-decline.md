@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-03-25_coal-in-europe-from-d
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2025-03-25_coal-in-europe-from-dominance-to-decline_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-25_coal-in-europe-from-dominance-to-decline_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](assets/2025-03-25_coal-in-europe-from-dominance-to-decline_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 ### Market & Policy Impacts: Eu Regulations Reshaping Global Coal Trade
 
@@ -36,7 +36,7 @@ EU environmental policies such as the Emissions Trading System (ETS) and the Car
 ![Στιγμιότυπο Οθόνης 2025 03 25 104551](assets/2025-03-25_coal-in-europe-from-dominance-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a4543674b358.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 03 25 104551**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-25_coal-in-europe-from-dominance-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a4543674b358.png)
+> [Local Asset](assets/2025-03-25_coal-in-europe-from-dominance-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a4543674b358.png)
 
 In December 2019, the EU launched its net-zero policy under the European Green Deal, igniting an aggressive push to slash fossil fuel reliance. Coal-fired power generation nosedived from 595.54 TWh in 2018 to 268.76 TWh in 2024—a staggering 55% collapse as the EU’s carbon-cutting drive took full effect. Gas-fired power has followed suit, slipping from 488.95 TWh to 430.02 TWh, with the sharpest fall post-2022 due to soaring gas prices and supply disruptions, as the EU’s reduced reliance on Russian gas led to extreme price volatility, making gas-fired power generation economically unviable.
 
@@ -53,7 +53,7 @@ While subsidies for renewable energy and grid infrastructure have supported the 
 ![Στιγμιότυπο Οθόνης 2025 03 25 104606](assets/2025-03-25_coal-in-europe-from-dominance-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c494f467f727.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 03 25 104606**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-25_coal-in-europe-from-dominance-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c494f467f727.png)
+> [Local Asset](assets/2025-03-25_coal-in-europe-from-dominance-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c494f467f727.png)
 
 Since 2018, coal consumption in Europe has been gradually decreasing. According to AXS-Marine data, between 2018 and 2024, coal imports in the EU fell by 53% from 137 mln mt to 63.1 mt, highlighting the effectiveness of these government policies in driving long-term reductions.
 
@@ -62,7 +62,7 @@ However, in 2021, a temporary uptick occurred in arrival of coal shipments, driv
 ![Στιγμιότυπο Οθόνης 2025 03 25 104619](assets/2025-03-25_coal-in-europe-from-dominance-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fa0ee40361a3.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 03 25 104619**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-25_coal-in-europe-from-dominance-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fa0ee40361a3.png)
+> [Local Asset](assets/2025-03-25_coal-in-europe-from-dominance-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fa0ee40361a3.png)
 
 In 2024, European coal imports continued to decline, falling to 63.1 mln mt. The transition aligns with the EU’s goal of achieving climate neutrality by 2050, with top EU countries already setting Coal phase-out targets within the next decade. This shift is largely driven by the rapid expansion of renewable energy, with wind and solar replacing fossil fuels at an accelerating pace. Investments in clean energy infrastructure and advances in technology have strengthened the transition, reducing the continent’s reliance on coal while ensuring energy security. At the same time, phase-out plans remain broadly on track, with most EU countries continuing to shut down coal-fired power plants and gradually shifting toward alternatives.
 
@@ -71,7 +71,7 @@ In 2024, European coal imports continued to decline, falling to 63.1 mln mt. The
 ![Στιγμιότυπο Οθόνης 2025 03 25 104632](assets/2025-03-25_coal-in-europe-from-dominance-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_34a3a15bb4ff.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 03 25 104632**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-25_coal-in-europe-from-dominance-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_34a3a15bb4ff.png)
+> [Local Asset](assets/2025-03-25_coal-in-europe-from-dominance-to-decline_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_34a3a15bb4ff.png)
 
 In 2024, the Capesize segment saw the largest decline in demand to carry coal into Europe as it dropped by 53% to 18.4 mln tonnes from 39.2 mln mt in 2022. Meanwhile, Panamax shipments declined sharply by 44% to 27.8 mln mt in 2024. The drop was observed across all vessel segments, though the extent varied. aligning with the overall decline in EU coal imports.
 

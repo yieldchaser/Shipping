@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-11-03_philippines-dry-bulk-
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2025-11-03_philippines-dry-bulk-import-matrix-from-coal-to-ore_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-03_philippines-dry-bulk-import-matrix-from-coal-to-ore_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](assets/2025-11-03_philippines-dry-bulk-import-matrix-from-coal-to-ore_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 In the first three quarters of 2025, the Philippines imported around 55 mln mt of dry bulk cargo, reflecting a shift in composition rather than a fall in activity. Looking at the breakdown, coal imports are easing, while LNG and steel are expanding, and clinker remains steady. Coal imports are down 9% y-o-y, cement has slipped by 12%, clinker is softer by 6%, and iron ore has fallen 45%, yet these declines are offset by stronger LNG and steel inflows, up 45% and 18%, respectively, thereby keeping overall tonnage demand firm.
 
@@ -36,14 +36,14 @@ At the same time, 2025 marks a turning point in the Philippines’ energy mix. L
 ![Στιγμιότυπο Οθόνης 2025 11 03 113730](assets/2025-11-03_philippines-dry-bulk-import-matrix-from-coal-to-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_99874798eda1.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 11 03 113730**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-03_philippines-dry-bulk-import-matrix-from-coal-to-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_99874798eda1.png)
+> [Local Asset](assets/2025-11-03_philippines-dry-bulk-import-matrix-from-coal-to-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_99874798eda1.png)
 
 According to Ember, coal’s share in the Philippines’ power generation has eased from around 62% in mid-2024 to just above 57% by August 2025, reflecting a gradual recalibration of the energy mix as LNG and renewables scale up.
 
 ![Στιγμιότυπο Οθόνης 2025 11 03 113852](assets/2025-11-03_philippines-dry-bulk-import-matrix-from-coal-to-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_844a35dd9af4.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 11 03 113852**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-03_philippines-dry-bulk-import-matrix-from-coal-to-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_844a35dd9af4.png)
+> [Local Asset](assets/2025-11-03_philippines-dry-bulk-import-matrix-from-coal-to-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_844a35dd9af4.png)
 
 Steam coal imports are tracking near 26 mln mt for the first nine months of 2025, about 9% lower y-o-y, and could close the year around 35.4 mln mt compared with 37.17 mln mt in 2024. This drop indicates stabilisation rather than decline, with industrial consumption holding firm under the ongoing public infrastructure drive.
 
@@ -54,7 +54,7 @@ Across vessel segments, Panamaxes continue to dominate steam coal movements, acc
 ![Στιγμιότυπο Οθόνης 2025 11 03 113901](assets/2025-11-03_philippines-dry-bulk-import-matrix-from-coal-to-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_71c4ddee889c.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 11 03 113901**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-03_philippines-dry-bulk-import-matrix-from-coal-to-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_71c4ddee889c.png)
+> [Local Asset](assets/2025-11-03_philippines-dry-bulk-import-matrix-from-coal-to-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_71c4ddee889c.png)
 
 While the Philippines energy transition continues, construction momentum remains firm. As finished cement inflows ease, upstream feedstock demand has become the stronger driver of industrial cargo. Cement imports are around 1.85 mln mt in 2025, down 12% y-o-y, reflecting the ₱400/t safeguard duty imposed by the Department of Trade and Industry on imported Portland and blended cement. The measure has shielded domestic producers and encouraged renewed investment in local capacity.
 
@@ -65,7 +65,7 @@ Most cement imports come from Vietnam, Japan, and Indonesia, carried mainly on H
 ![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](assets/2025-11-03_philippines-dry-bulk-import-matrix-from-coal-to-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3102bdc35893.png)
 
 > **Figure 5: Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-03_philippines-dry-bulk-import-matrix-from-coal-to-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3102bdc35893.png)
+> [Local Asset](assets/2025-11-03_philippines-dry-bulk-import-matrix-from-coal-to-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3102bdc35893.png)
 
 Clinker, the key feedstock supporting the Philippines’ expanding cement capacity, remains a major import stream. The country continues to rank among Southeast Asia’s busiest clinker importers, with volumes around 5.8 mln mt in 2025, slightly below 2024’s peak as higher utilisation and earlier stock build-ups moderate fresh arrivals. The Taiheiyo facility in Cebu added about 3 mln mt of clinker production capacity, reducing import reliance but keeping demand firm.
 
@@ -74,7 +74,7 @@ The country’s construction sector is expected to grow by 6.2% in 2025, driven 
 ![Στιγμιότυπο Οθόνης 2025 11 03 114418](assets/2025-11-03_philippines-dry-bulk-import-matrix-from-coal-to-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6e6c03f4b228.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 11 03 114418**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-03_philippines-dry-bulk-import-matrix-from-coal-to-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6e6c03f4b228.png)
+> [Local Asset](assets/2025-11-03_philippines-dry-bulk-import-matrix-from-coal-to-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6e6c03f4b228.png)
 
 The government’s infrastructure drive continues to anchor steel demand, with imports of about 4.36 mln mt in 2025, up 9% y-o-y. Major infrastructure projects across Luzon and Mindanao, including the North–South Commuter Railway, the Metro Manila Subway, and port upgrades in Batangas, Davao, and Cagayan de Oro, are sustaining imports. Cargoes arrive mainly from China (1.45 mln mt), Japan (0.31 mln mt), and South Korea (0.25 mln mt), providing steady mid-haul employment for Handysizes and Supramaxes.
 
@@ -83,7 +83,7 @@ Handysizes handle about 69% of shipments, with Supramaxes covering 31%, reflecti
 ![Στιγμιότυπο Οθόνης 2025 11 03 114426](assets/2025-11-03_philippines-dry-bulk-import-matrix-from-coal-to-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fdab65f3da87.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 11 03 114426**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-03_philippines-dry-bulk-import-matrix-from-coal-to-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fdab65f3da87.png)
+> [Local Asset](assets/2025-11-03_philippines-dry-bulk-import-matrix-from-coal-to-ore_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fdab65f3da87.png)
 
 Iron ore imports are estimated at 2.57 mln mt in 2025, down 31% y-o-y, as local mills increasingly pivot toward recycled scrap and imported steels. The decline reflects policy support for low-carbon steelmaking under the Philippine Iron and Steel Industry Roadmap 2030, which promotes the development of scrap-based electric arc furnace capacity. With this transition, Capesize arrivals from Brazil, which supply nearly all inbound ore, have eased, reducing average haul lengths by more than 40%. The structural shift signals weaker demand for raw ore but growing intra-Asia movements of processed steel, sustaining mid-size vessel utilisation even as long-haul employment softens.
 

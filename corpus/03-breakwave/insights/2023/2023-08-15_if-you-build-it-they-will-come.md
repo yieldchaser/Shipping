@@ -28,7 +28,7 @@ In recent years we have seen a remarkable increase in VLCC flows out of the US G
 
 > **Figure 1: Data Source:gibson Shipbrokers**  
 > *Data source:Gibson Shipbrokers*  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-15_if-you-build-it-they-will-come_img_screenshot2023-08-14101035_9e2898d8d664.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2023-08-15_if-you-build-it-they-will-come_img_screenshot2023-08-14101035_9e2898d8d664.png)
 
 In the very near term, The Corpus Christi Channel Improvement Project should be due for completion by Q4 2023 or Q1 2024. This aims to deepen and widen the channel at Ingleside to accommodate vessels with a larger laden draft which means an additional 15% more cargo can be loaded onto a VLCC upon completion. This means lighterage will still be required to bring the cargo to full size.
 

@@ -25,7 +25,7 @@ India has emerged as a key destination for bauxite as risks in the Arabian Gulf 
 ![Bauxite Carrying Capesize Tonne-Miles From Signal Ocean](assets/2026-05-19_china-drives-increased-bauxite-flows-but-guineas-cutback-could-drag-on-growth_img_unnamed_2d177c5ad9b0.png)
 
 > **Figure 1: Bauxite Carrying Capesize Tonne-Miles From Signal Ocean**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-19_china-drives-increased-bauxite-flows-but-guineas-cutback-could-drag-on-growth_img_unnamed_2d177c5ad9b0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-05-19_china-drives-increased-bauxite-flows-but-guineas-cutback-could-drag-on-growth_img_unnamed_2d177c5ad9b0.png)
 
 ### Key Takeaways
 
@@ -46,7 +46,7 @@ India continues to benefit from the disruption of bauxite flows to the UAE. For 
 ![Seaborne Bauxite Flow Destinations in April 2026 From Signal Ocean](assets/2026-05-19_china-drives-increased-bauxite-flows-but-guineas-cutback-could-drag-on-growth_img_unnamed28129_051a5e64ee6b.png)
 
 > **Figure 2: Seaborne Bauxite Flow Destinations in April 2026 From Signal Ocean**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-19_china-drives-increased-bauxite-flows-but-guineas-cutback-could-drag-on-growth_img_unnamed28129_051a5e64ee6b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-05-19_china-drives-increased-bauxite-flows-but-guineas-cutback-could-drag-on-growth_img_unnamed28129_051a5e64ee6b.png)
 
 The outlook for bauxite remains positive, given expectations of aluminium demand growth of close to 2% in 2026. There are some potential headwinds, however, with bauxite demand in the Arabian Gulf affected by the Strait of Hormuz blockade and Guinea's move to cut export volumes to boost prices.
 
@@ -57,7 +57,7 @@ The most notable evidence of this is a recent announcement by Guinea that it wou
 ![Exports of Bauxite From Guinea in 2026 From Signal Ocean](assets/2026-05-19_china-drives-increased-bauxite-flows-but-guineas-cutback-could-drag-on-growth_img_unnamed28229_ceb05aeb9c42.png)
 
 > **Figure 3: Exports of Bauxite From Guinea in 2026 From Signal Ocean**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-19_china-drives-increased-bauxite-flows-but-guineas-cutback-could-drag-on-growth_img_unnamed28229_ceb05aeb9c42.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-05-19_china-drives-increased-bauxite-flows-but-guineas-cutback-could-drag-on-growth_img_unnamed28229_ceb05aeb9c42.png)
 
 ## Guinea's Approach Could Shift How Capes Perform in 2026 H2
 

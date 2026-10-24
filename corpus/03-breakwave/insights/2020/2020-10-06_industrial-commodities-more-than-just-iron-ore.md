@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-10-06_industrial-commoditie
 
 > **Figure 1: Copper Prices Over the Last 12 Months (Usd/lbs)**  
 > *Copper prices over the last 12 months (USD/lbs)*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-06_industrial-commodities-more-than-just-iron-ore_img_image-asset_a342fccb9280.jpeg)
+> [Local Asset](assets/2020-10-06_industrial-commodities-more-than-just-iron-ore_img_image-asset_a342fccb9280.jpeg)
 
 In the last few months iron ore has dominated the headlines, as far as industrial metals are concerned, with Chinese imports breaking new records month after month. Copper, often seen as a bellwether commodity for industrial production, has also staged a considerable recovery from its pandemic low in March. Despite recording one of its worst ever daily drops last week, the metal is still up around 40 percent since the end of the first quarter and is currently trading near levels not seen for the last two years.
 
@@ -36,7 +36,7 @@ The Chinese industry is the world’s top consumer of copper and it is often use
 
 > **Figure 2: Thermal Coal Prices Over the Last 12 Months (Usd/metric Tonne)**  
 > *Thermal coal prices over the last 12 months (USD/metric tonne)*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-06_industrial-commodities-more-than-just-iron-ore_img_ulfcopper_37eb6efffaff.jpg)
+> [Local Asset](assets/2020-10-06_industrial-commodities-more-than-just-iron-ore_img_ulfcopper_37eb6efffaff.jpg)
 
 Coal on the other hand has had a less spectacular recovery since the lows in the early parts of the second quarter this year, with prices only recently gaining on the back of increasing demand from electricity producers. Despite rallying around twenty percent in September, prices are still well below the pre-pandemic levels.
 
@@ -45,7 +45,7 @@ Global seaborne coal flows decreased by around 100 million tonnes in the first s
 ![Ulf Coal](assets/2020-10-06_industrial-commodities-more-than-just-iron-ore_img_ulfcoal_8a83275c665e.jpg)
 
 > **Figure 3: Ulf Coal**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-06_industrial-commodities-more-than-just-iron-ore_img_ulfcoal_8a83275c665e.jpg)
+> [Local Asset](assets/2020-10-06_industrial-commodities-more-than-just-iron-ore_img_ulfcoal_8a83275c665e.jpg)
 
 ---
 

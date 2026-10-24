@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-12-13_signal-dry-bulk-weekl
 [![Replay2bbutton](assets/2023-12-13_signal-dry-bulk-weekly-report_img_replay2bbutton_6880508cf732.png)
 
 > **Figure 1: Replay2bbutton**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-13_signal-dry-bulk-weekly-report_img_replay2bbutton_6880508cf732.png)](https://www.youtube.com/watch?t=76s&v=L_4zPBctem4)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-13_signal-dry-bulk-weekly-report_img_replay2bbutton_6880508cf732.png)](https://www.youtube.com/watch?t=76s&v=L_4zPBctem4)
 
 ## Chart of the Week :U.s. Grain Exports to China​​​​​
 
@@ -31,7 +31,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-12-13_signal-dry-bulk-weekl
 ![Market Chart 2](assets/2023-12-13_signal-dry-bulk-weekly-report_img_unnamed-2023-12-13t145434616_50a775dc77fc.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-13_signal-dry-bulk-weekly-report_img_unnamed-2023-12-13t145434616_50a775dc77fc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-13_signal-dry-bulk-weekly-report_img_unnamed-2023-12-13t145434616_50a775dc77fc.png)
 
 In the second week of December, the mood on the dry bulk market was mixed. Prices for Capesize vessels between Brazil and North China were down after the surprising upturn at the beginning of the month. In the smaller ship segments, however, the mood was optimistic, pointing to possible improvements in performance.
 In particular, the number of ballast shipments in the smaller vessel segments increased, although this trend remained below the annual average for Capesize and Panamax vessels. In the grain segment, there was a significant decline in the monthly volume of shipments from the United States to China in November, although there was a record increase in October. Grain exports from the US to China fell by 45% in November, both compared to October and compared to shipments recorded in November last year.
@@ -49,7 +49,7 @@ Market Rates ($/t) Mixed
 ![Market Chart 3](assets/2023-12-13_signal-dry-bulk-weekly-report_img_unnamed-2023-12-13t145532429_633770a866f5.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-13_signal-dry-bulk-weekly-report_img_unnamed-2023-12-13t145532429_633770a866f5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-13_signal-dry-bulk-weekly-report_img_unnamed-2023-12-13t145532429_633770a866f5.png)
 
 In the second week of December, the dry freight market showed a differentiated sentiment, characterised by varying developments in the most important ship categories. While there was a downward trend in several segments, the Handy-NOPAC route showed remarkable optimism, pointing to a recovery from the lows observed in week 46.
 
@@ -63,7 +63,7 @@ In the second week of December, the dry freight market showed a differentiated s
 ![Supply Trend Lines for Key Load Areasballasters (#Vessels) Mixed](assets/2023-12-13_signal-dry-bulk-weekly-report_img_unnamed-2023-12-13t145636022_5c625e04caa0.png)
 
 > **Figure 4: Supply Trend Lines for Key Load Areasballasters (#Vessels) Mixed**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-13_signal-dry-bulk-weekly-report_img_unnamed-2023-12-13t145636022_5c625e04caa0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-13_signal-dry-bulk-weekly-report_img_unnamed-2023-12-13t145636022_5c625e04caa0.png)
 
 The number of ballasters is still in a decreasing trend for the Capesize and Panamax SE Africa, fuelling expectations for a rebound in the weaker sentiment of freight rates in the second week of December. The smaller vessel size categories experienced a sudden increase after the lows of the previous two weeks and remains to be seen whether a similar trend will stay in the next days.
 
@@ -77,7 +77,7 @@ The number of ballasters is still in a decreasing trend for the Capesize and Pan
 ![Summary of Dry Bulk Demand, per Ship Sizetonne Days Decreasing](assets/2023-12-13_signal-dry-bulk-weekly-report_img_unnamed-2023-12-13t145736092_070399fb7141.png)
 
 > **Figure 5: Summary of Dry Bulk Demand, per Ship Sizetonne Days Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-13_signal-dry-bulk-weekly-report_img_unnamed-2023-12-13t145736092_070399fb7141.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-13_signal-dry-bulk-weekly-report_img_unnamed-2023-12-13t145736092_070399fb7141.png)
 
 The downward trend in demand continued in the second week of December, with slight signs of an upward correction in Capesize.
 
@@ -96,7 +96,7 @@ No of Vessels Increasing
 
 > **Figure 6: Data Source:signal Ocean Platform**  
 > *Data Source:Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-13_signal-dry-bulk-weekly-report_img_unnamed-2023-12-13t145902777_8eab534633bb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-12-13_signal-dry-bulk-weekly-report_img_unnamed-2023-12-13t145902777_8eab534633bb.png)
 
 The number of dry bulk vessels congested at Chinese ports reached one of the highest levels this year, surpassing the peak of week 32, with an increase in all ship size categories.
 

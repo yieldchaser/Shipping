@@ -27,7 +27,7 @@ Crude oil markets pushed higher amid concerns of renewed restrictions on Russian
 ![Στιγμιότυπο Οθόνης 2025 08 29 132533](assets/2025-08-29_metals-gain-amid-renewed-supply-restrictions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_60f7906f57e1.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 08 29 132533**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-29_metals-gain-amid-renewed-supply-restrictions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_60f7906f57e1.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-08-29_metals-gain-amid-renewed-supply-restrictions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_60f7906f57e1.png)
 
 ### Market Commentary
 
@@ -46,7 +46,7 @@ US tariffs on aluminium imports continued to play havoc with trade flows. The US
 ![Στιγμιότυπο Οθόνης 2025 08 29 132646](assets/2025-08-29_metals-gain-amid-renewed-supply-restrictions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8e1171b50e89.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 08 29 132646**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-29_metals-gain-amid-renewed-supply-restrictions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8e1171b50e89.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-08-29_metals-gain-amid-renewed-supply-restrictions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8e1171b50e89.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

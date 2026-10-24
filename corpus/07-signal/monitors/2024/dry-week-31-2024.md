@@ -34,7 +34,7 @@ tags:
 ![66ab49a60f2ce26a6315da11 66ab495e5f3a73388b8a3b41 Chart%20of%20the%20week%2031](../../images/66ab49a60f2ce26a6315da11_66ab495e5f3a73388b8a3b41_chart%20of%20the%20week%2031.avif)
 
 > **Figure 1: 66ab49a60f2ce26a6315da11 66ab495e5f3a73388b8a3b41 Chart%20of%20the%20week%2031**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-31-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66ab49a60f2ce26a6315da11_66ab495e5f3a73388b8a3b41_chart%20of%20the%20week%2031.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-31-2024) | [Local Asset](../../images/66ab49a60f2ce26a6315da11_66ab495e5f3a73388b8a3b41_chart%20of%20the%20week%2031.avif)
 
 In the [iron ore market](https://www.scmp.com/economy/global-economy/article/3272435/chinas-politburo-pledges-support-sending-stronger-expected-signal-boost-economy), The Politburo, China’s top decision-making body led by President Xi Jinping, announced on Tuesday that the country will enhance its policy support to bolster the economy. The focus will be on increasing consumption to drive domestic demand. The Politburo acknowledged the growing negative impacts from external changes, weak domestic demand, and the challenging shift from old growth drivers to new ones. Iron ore futures fell further on Tuesday, pressured by the results of China’s key Politburo meeting and a strong global supply outlook.
 

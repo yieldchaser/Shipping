@@ -47,7 +47,7 @@ Despite apparent difficulty in finding buyers, Russia’s biggest problem is an 
 ![Market Chart 1](assets/2025-11-19_the-big-picture-russias-challenges_img_image001_63b13e3163a9.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-19_the-big-picture-russias-challenges_img_image001_63b13e3163a9.png)
+> [Local Asset](assets/2025-11-19_the-big-picture-russias-challenges_img_image001_63b13e3163a9.png)
 
 *Source: Vortexa*
 
@@ -58,7 +58,7 @@ The number of vessels with a Russian crude cargo onboard has increased drastical
 ![Market Chart 2](assets/2025-11-19_the-big-picture-russias-challenges_img_image002_4befa5de82d0.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-19_the-big-picture-russias-challenges_img_image002_4befa5de82d0.png)
+> [Local Asset](assets/2025-11-19_the-big-picture-russias-challenges_img_image002_4befa5de82d0.png)
 
 *Source: Vortexa*
 

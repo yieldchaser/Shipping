@@ -27,7 +27,7 @@ Increasing expectations of a Fed rate cut kept market sentiment positive last we
 ![Στιγμιότυπο Οθόνης 2024 07 08 102150](assets/2024-07-08_oil-gains-amid-tightening-supplies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3fee7321f434.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 08 102150**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-08_oil-gains-amid-tightening-supplies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3fee7321f434.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-07-08_oil-gains-amid-tightening-supplies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3fee7321f434.png)
 
 ### Market Commentary
 
@@ -44,7 +44,7 @@ Increasing expectations of a Fed rate cut kept market sentiment positive last we
 ![Στιγμιότυπο Οθόνης 2024 07 08 102303](assets/2024-07-08_oil-gains-amid-tightening-supplies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5181a9bab530.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 07 08 102303**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-08_oil-gains-amid-tightening-supplies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5181a9bab530.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-07-08_oil-gains-amid-tightening-supplies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5181a9bab530.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

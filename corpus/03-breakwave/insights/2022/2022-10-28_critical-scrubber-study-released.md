@@ -28,4 +28,4 @@ As a result of this study, the Swedish Transport Agency and the Swedish Agency f
 ![Chart 1 (58)](assets/2022-10-28_critical-scrubber-study-released_img_chart1285829_5326edd26d4d.jpg)
 
 > **Figure 1: Chart 1 (58)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-28_critical-scrubber-study-released_img_chart1285829_5326edd26d4d.jpg)
+> [Local Asset](assets/2022-10-28_critical-scrubber-study-released_img_chart1285829_5326edd26d4d.jpg)

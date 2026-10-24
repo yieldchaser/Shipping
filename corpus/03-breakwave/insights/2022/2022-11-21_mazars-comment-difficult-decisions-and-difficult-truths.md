@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-21_mazars-comment-diffic
 
 > **Figure 1: Bygeorge Lagarias**  
 > *ByGeorge Lagarias*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/george-lagarias-mba-3baa769/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-21_mazars-comment-difficult-decisions-and-difficult-truths_img_page2b211_c497586f981c.png)](https://www.breakwaveadvisors.com/agenda22)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/george-lagarias-mba-3baa769/) | [Local Asset](assets/2022-11-21_mazars-comment-difficult-decisions-and-difficult-truths_img_page2b211_c497586f981c.png)](https://www.breakwaveadvisors.com/agenda22)
 
 Breakwave Advisors 2nd annual shipping market event
 
@@ -42,24 +42,24 @@ This is bad news for investors, but also bad for the Fed. The US economy is slip
 ![Market Chart 2](assets/2022-11-21_mazars-comment-difficult-decisions-and-difficult-truths_img_image01128329_4ca4bc40bd70.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-21_mazars-comment-difficult-decisions-and-difficult-truths_img_image01128329_4ca4bc40bd70.jpg)
+> [Local Asset](assets/2022-11-21_mazars-comment-difficult-decisions-and-difficult-truths_img_image01128329_4ca4bc40bd70.jpg)
 
 Meanwhile, credit conditions continue to deteriorate, and this is becoming felt everywhere, from high-yield markets.
 
 ![Market Chart 3](assets/2022-11-21_mazars-comment-difficult-decisions-and-difficult-truths_img_image01228329_a092348a59d5.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-21_mazars-comment-difficult-decisions-and-difficult-truths_img_image01228329_a092348a59d5.jpg)
+> [Local Asset](assets/2022-11-21_mazars-comment-difficult-decisions-and-difficult-truths_img_image01228329_a092348a59d5.jpg)
 
 ![To Investment Grade Credit Spreads…](assets/2022-11-21_mazars-comment-difficult-decisions-and-difficult-truths_img_image01328229_3cc34660fe2e.jpg)
 
 > **Figure 4: To Investment Grade Credit Spreads…**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-21_mazars-comment-difficult-decisions-and-difficult-truths_img_image01328229_3cc34660fe2e.jpg)
+> [Local Asset](assets/2022-11-21_mazars-comment-difficult-decisions-and-difficult-truths_img_image01328229_3cc34660fe2e.jpg)
 
 ![… and the Ever Deep Us Treasury Markets](assets/2022-11-21_mazars-comment-difficult-decisions-and-difficult-truths_img_image01428129_df4c1c59e982.jpg)
 
 > **Figure 5: … and the Ever Deep Us Treasury Markets**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-21_mazars-comment-difficult-decisions-and-difficult-truths_img_image01428129_df4c1c59e982.jpg)
+> [Local Asset](assets/2022-11-21_mazars-comment-difficult-decisions-and-difficult-truths_img_image01428129_df4c1c59e982.jpg)
 
 Adhering strictly to its inflation mandate, the Fed often behaves as if the rate for the world’s global reserve currency exists in a bubble. Failure to acknowledge the external risk build-up, increases the probability of a financial accident. The real risk is not the accident itself. It is that fourteen years when all manner of accidents were prevented with the use of money printing may have turned markets and policymakers complacent.
 
@@ -87,7 +87,7 @@ Seasoned asset managers are planning ahead, keeping market ‘bets’ to a minim
 
 > **Figure 6: It Is Exactlybecauseof the Higher Probability of Further**  
 > *It is exactlybecauseof the higher probability of further financial distress that we believe the pivot could come sooner rather than later. Thus we are making plans to make sure we don’t lose out when and if the pivot comes. The very high level of cash suggests that institutional investors are also waiting on the sidelines for precisely an abrupt US policy reversal.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-21_mazars-comment-difficult-decisions-and-difficult-truths_img_image01528229_b90d0983b0c2.jpg)
+> [Local Asset](assets/2022-11-21_mazars-comment-difficult-decisions-and-difficult-truths_img_image01528229_b90d0983b0c2.jpg)
 
 Also, we have managed to steer clear of areas where the downside has been significant. From any exposure to new-age assets such as cryptocurrencies (which seemed to be getting a lot of attention eighteen months ago), to illiquid securities and funds, such as real estate, we have made sure our investment offering is liquid, transparent and of high quality.
 

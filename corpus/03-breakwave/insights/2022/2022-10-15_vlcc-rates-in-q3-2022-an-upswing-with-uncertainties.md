@@ -80,13 +80,13 @@ Routes:**AG**to the Far East - Spore - USG |**WAfr**to East
 ![63468ea4ab7fc228948304eb Image 1 VLCC Market Rates](assets/2022-10-15_vlcc-rates-in-q3-2022-an-upswing-with-uncertainties_img_63468ea4ab7fc228948304eb-image1vlccm_094568ad9b56.png)
 
 > **Figure 1: 63468ea4ab7fc228948304eb Image 1 VLCC Market Rates**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-15_vlcc-rates-in-q3-2022-an-upswing-with-uncertainties_img_63468ea4ab7fc228948304eb-image1vlccm_094568ad9b56.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-10-15_vlcc-rates-in-q3-2022-an-upswing-with-uncertainties_img_63468ea4ab7fc228948304eb-image1vlccm_094568ad9b56.png)
 
 ![Image 2 Data Source: The Signal Ocean Platform](assets/2022-10-15_vlcc-rates-in-q3-2022-an-upswing-with-uncertainties_img_63468ec129da932836967213-image2ratei_98c743ce1770.png)
 
 > **Figure 2: Image 2 Data Source: The Signal Ocean Platform**  
 > *Image 2 Data Source: The Signal Ocean Platform, Market Rates, as of October 11, 2022Market rates displayed are based on Signal Ocean's own assessments using licensed and market data for all the main routes. Moving Averages (MA) columns express the percentage of the difference between the market rate from today and the corresponding days ago. For example, column '5 days MA' indicates the percentage of change between the market rate from five days ago versus today's market rate. TCE values refer to a Round Voyage (RV) of a non-scrubber-fitted vessel using the latest relevant market rate (today).‍*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-15_vlcc-rates-in-q3-2022-an-upswing-with-uncertainties_img_63468ec129da932836967213-image2ratei_98c743ce1770.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-10-15_vlcc-rates-in-q3-2022-an-upswing-with-uncertainties_img_63468ec129da932836967213-image2ratei_98c743ce1770.png)
 
 ## Ii.crude Oil Seaborne Flows
 
@@ -102,7 +102,7 @@ It should be noted that despite fears of supply shortages, monthly crude oil shi
 
 > **Figure 3: Image 3 Data Source: The Signal Ocean Platform**  
 > *Image 3 Data Source: The Signal Ocean Platform, Crude Seaborne Oil Flows, VLCC, 2021-2022, as of the end of September 2022*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-15_vlcc-rates-in-q3-2022-an-upswing-with-uncertainties_img_63468f0d7b634d85b1c374ef-image3vlccf_bc66eae3d552.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-10-15_vlcc-rates-in-q3-2022-an-upswing-with-uncertainties_img_63468f0d7b634d85b1c374ef-image3vlccf_bc66eae3d552.png)
 
 ‍
 
@@ -120,13 +120,13 @@ It is interesting to note the increase in the monthly volume of shipments from t
 
 > **Figure 4: Image 4 Data Source: The Signal Ocean Platform**  
 > *Image 4 Data Source: The Signal Ocean Platform, Crude Seaborne Oil Flows, VLCC, the U.S. to China & India 2021-2022, as of the end of September 2022*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-15_vlcc-rates-in-q3-2022-an-upswing-with-uncertainties_img_63468f407b634d4860c3a9ce-image4vlccf_ed071525a20f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-10-15_vlcc-rates-in-q3-2022-an-upswing-with-uncertainties_img_63468f407b634d4860c3a9ce-image4vlccf_ed071525a20f.png)
 
 ![‍Image 5 Data Source: The Signal Ocean Platform](assets/2022-10-15_vlcc-rates-in-q3-2022-an-upswing-with-uncertainties_img_63468f62e736fd7e7b0358cc-image5vlccf_a7c68ca6d4be.png)
 
 > **Figure 5: ‍Image 5 Data Source: The Signal Ocean Platform**  
 > *‍Image 5 Data Source: The Signal Ocean Platform, Crude Seaborne Oil Flows, VLCC, U.A.E. to China & India 2021-2022, as of the end of September 2022*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-15_vlcc-rates-in-q3-2022-an-upswing-with-uncertainties_img_63468f62e736fd7e7b0358cc-image5vlccf_a7c68ca6d4be.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-10-15_vlcc-rates-in-q3-2022-an-upswing-with-uncertainties_img_63468f62e736fd7e7b0358cc-image5vlccf_a7c68ca6d4be.png)
 
 ‍
 
@@ -144,7 +144,7 @@ Demand showed spectacular growth in both ton-miles and days through the end of t
 
 > **Figure 6: Image 6 Data Source: The Signal Ocean Platform**  
 > *Image 6 Data Source: The Signal Ocean Platform, Ton Charts, 2020 - 2022*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-15_vlcc-rates-in-q3-2022-an-upswing-with-uncertainties_img_63468fcb180498a930ccef68-image6vlccd_9b0ff24e9e86.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-10-15_vlcc-rates-in-q3-2022-an-upswing-with-uncertainties_img_63468fcb180498a930ccef68-image6vlccd_9b0ff24e9e86.png)
 
 ‍
 
@@ -158,7 +158,7 @@ Looking specifically at Chinese demand growth in tonne-miles and -days, we find 
 
 > **Figure 7: Mage 7 Data Source: The Signal Ocean Platform**  
 > *mage 7 Data Source: The Signal Ocean Platform, Ton Charts, from USG to China, 2021 - 2022Methodology: TheTonMilestime-series graph presents the laden miles of the seagoing vessels for the user-selected vessel class range that have loaded (Area From) and discharged (Area To) the selected areas. This graph shows the 7 days moving average (MA) of the time series. TheTonDaystime-series graph presents the laden days of the seagoing and stopped vessels for the user-selected vessel class range that have loaded (Area From) and discharged (Area To) the selected areas. This graph shows the 7 days moving average (MA) of the time series. Differences in the trend between the TonMiles and TonDays time series indicate an increase/decrease in the voyage days of laden vessels. For example, port congestion will contribute to the overall increase of the TonDays in contrast to the TonMiles.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-15_vlcc-rates-in-q3-2022-an-upswing-with-uncertainties_img_63468f9cba64406eb1df97dc-image7usgch_9103be903a40.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-10-15_vlcc-rates-in-q3-2022-an-upswing-with-uncertainties_img_63468f9cba64406eb1df97dc-image7usgch_9103be903a40.png)
 
 ‍
 
@@ -172,7 +172,7 @@ The recovery in freight rates and the increase in oil demand led to an increase 
 
 > **Figure 8: Image 8 Data Source: The Signal Ocean Platform**  
 > *Image 8 Data Source: The Signal Ocean Platform, Vessel Speed, 2020 - 2022Methodology: The two provided charts capture the historical average speed of all the vessels that adhere to the user-selected filter values. Each point in time represents the average speed of all vessels that belong to the selected vessel class range, have traveled over the selected areas, belong to the selected commercial operators, and their age is between the selected year range. The speeds are based on the vessel’s AIS information.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-15_vlcc-rates-in-q3-2022-an-upswing-with-uncertainties_img_6346905c3e71cbdf44f386b5-image8vlccs_61cd65987616.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-10-15_vlcc-rates-in-q3-2022-an-upswing-with-uncertainties_img_6346905c3e71cbdf44f386b5-image8vlccs_61cd65987616.png)
 
 ‍
 
@@ -190,7 +190,7 @@ Given the recovery of the spot freight market, investors are tending to get invo
 
 > **Figure 9: Image 9 Data Source: The Signal Ocean Platform**  
 > *Image 9 Data Source: The Signal Ocean Platform, Benchmark Values, 2022Methodology: Values and trends are estimated by aggregating a list of widely distributed Sales & Purchases transactions. Valuations are based on a benchmark vessel per vessel class withDeadweight: Tanker VLCC - 300.000 Tonnes*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-15_vlcc-rates-in-q3-2022-an-upswing-with-uncertainties_img_6346908eb8ef936ee7aed2c8-image9bench_7882509255f6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-10-15_vlcc-rates-in-q3-2022-an-upswing-with-uncertainties_img_6346908eb8ef936ee7aed2c8-image9bench_7882509255f6.png)
 
 ‍
 

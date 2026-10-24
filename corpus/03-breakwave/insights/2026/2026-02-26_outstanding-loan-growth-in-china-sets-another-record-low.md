@@ -27,21 +27,21 @@ As we discussed in Commodore Research's most recent Weekly China Report, the lat
 ![Chart 1](assets/2026-02-26_outstanding-loan-growth-in-china-sets-another-record-low_img_chart1_b2a0d964a0fb.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-26_outstanding-loan-growth-in-china-sets-another-record-low_img_chart1_b2a0d964a0fb.jpg)
+> [Local Asset](assets/2026-02-26_outstanding-loan-growth-in-china-sets-another-record-low_img_chart1_b2a0d964a0fb.jpg)
 
 As we have discussed often in our Weekly China Reports, with the housing market remaining inundated with a huge amount of excess supply already available, Chinese banks are continuing to have difficulty in actually having lendees to lend to in the construction market.
 
 ![Chart 2](assets/2026-02-26_outstanding-loan-growth-in-china-sets-another-record-low_img_chart2_fb584beb1027.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-26_outstanding-loan-growth-in-china-sets-another-record-low_img_chart2_fb584beb1027.jpg)
+> [Local Asset](assets/2026-02-26_outstanding-loan-growth-in-china-sets-another-record-low_img_chart2_fb584beb1027.jpg)
 
 As we have also discussed often, manufacturing production (which is less capital intensive and requires less lending than construction) has fared better and continues to help support China’s steel market and offset the weakness in demand/construction for new homes. China’s manufacturing production most recently grew year-on-year by 5.7%.
 
 ![Chart 3](assets/2026-02-26_outstanding-loan-growth-in-china-sets-another-record-low_img_chart3_b87106c14ce6.jpg)
 
 > **Figure 3: Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-26_outstanding-loan-growth-in-china-sets-another-record-low_img_chart3_b87106c14ce6.jpg)
+> [Local Asset](assets/2026-02-26_outstanding-loan-growth-in-china-sets-another-record-low_img_chart3_b87106c14ce6.jpg)
 
 ---
 

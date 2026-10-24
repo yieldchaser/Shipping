@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-02-19_dry-bulk-market-on-a-
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-19_dry-bulk-market-on-a-firmer-footing_img_knightship_0d420fade627.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](assets/2026-02-19_dry-bulk-market-on-a-firmer-footing_img_knightship_0d420fade627.jpg)
 
 The dry bulk market has entered 2026 on a markedly firmer footing, with the strong finish of 2025 and the solid opening weeks of the new year translating directly into higher asset values across all size segments. Freight momentum has not only restored confidence but has also pushed second-hand prices to levels that, in the case of Capesizes, have not been witnessed since the peak cycle of 2008. Quarterly averages from the Baltic timecharter data clearly illustrate the shift. Q4 2025 closed substantially higher than Q4 2024, with the average Baltic Capesize 5TC up by 58% year-on-year. Kamsarmax 5TC followed closely with a 52% increase, while Ultramax 11TC and Handysize 7TC posted gains of 26% and 22% respectively. The recovery was therefore broad-based, led by the larger sizes but firmly supported by the geared segments.
 

@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-01-27_first-five-days.html"
 ![Istock 485480338](assets/2025-01-27_first-five-days_img_istock-485480338_e8cd5e92a0e9.jpg)
 
 > **Figure 1: Istock 485480338**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-27_first-five-days_img_istock-485480338_e8cd5e92a0e9.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-01-27_first-five-days_img_istock-485480338_e8cd5e92a0e9.jpg)
 
 Following a very impactful end to the Biden era, the oil and tanker markets expected Trump’s second stint in the White House to start where Biden left off. Yet, for all the jaw dropping executive orders issued on other unrelated topics, the shipping and energy markets so far seem to have missed out on any immediate impact. However, even if the details are lacking, some clues are starting to emerge as to how the new President will tackle a number of key energy related issues.
 
@@ -46,7 +46,7 @@ For the wider shipping markets, factors like the Panama Canal, possible tariffs 
 ![Στιγμιότυπο Οθόνης 2025 01 26 220813](assets/2025-01-27_first-five-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e98675c89149.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 01 26 220813**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-27_first-five-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e98675c89149.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-01-27_first-five-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e98675c89149.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

@@ -31,14 +31,14 @@ For the dry bulk market, China suddenly embracing inflation again is a positive.
 ![Chart 1 (1)](assets/2024-10-07_oq7fgpnxhbtmii7q0fxw6ontvvqc6l_img_chart128129_661a4d47a7e0.jpg)
 
 > **Figure 1: Chart 1 (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-07_oq7fgpnxhbtmii7q0fxw6ontvvqc6l_img_chart128129_661a4d47a7e0.jpg)
+> [Local Asset](assets/2024-10-07_oq7fgpnxhbtmii7q0fxw6ontvvqc6l_img_chart128129_661a4d47a7e0.jpg)
 
 Producer prices in China also remain in a year-on-year contraction. With inflation long being relatively low in China, the central government is being afforded a luxury of more safely being able to carry out inflationary measures. This contrasts greatly much of the rest of the world including the United States.
 
 ![Chart 2 (1)](assets/2024-10-07_oq7fgpnxhbtmii7q0fxw6ontvvqc6l_img_chart228129_4c4e28d0a98c.jpg)
 
 > **Figure 2: Chart 2 (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-07_oq7fgpnxhbtmii7q0fxw6ontvvqc6l_img_chart228129_4c4e28d0a98c.jpg)
+> [Local Asset](assets/2024-10-07_oq7fgpnxhbtmii7q0fxw6ontvvqc6l_img_chart228129_4c4e28d0a98c.jpg)
 
 ---
 

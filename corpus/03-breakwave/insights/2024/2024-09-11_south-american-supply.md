@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-09-11_south-american-supply
 ![241](assets/2024-09-11_south-american-supply_img_241_4a326a3ee8bd.jpeg)
 
 > **Figure 1: 241**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/report/cash-cow/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-11_south-american-supply_img_241_4a326a3ee8bd.jpeg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/report/cash-cow/) | [Local Asset](assets/2024-09-11_south-american-supply_img_241_4a326a3ee8bd.jpeg)
 
 South America has been a major source of oil supply for decades. Traditional producers Colombia, Venezuela and Ecuador have all faced challenges in recent years, with Brazil and now Guyana being the leading sources of growth over the past decade.[**Argentina is set to join the VLCC exporters club**](https://www.gibsons.co.uk/report/cash-cow/), whilst Suriname aspires to replicate Guyana’s success story. On the refining side, however, the region has struggled to make any meaningful progress in recent years. South America is also a major producer of biofuel feedstocks and could increasingly use its agricultural prowess to meet future domestic fuel demand. Geopolitical forces also shape the region’s oil trade. Venezuela remains under sanctions, while Russia has increased its share in the continent’s oil market to the detriment of US refiners. So, what does all this mean for tankers?
 
@@ -38,7 +38,7 @@ Crude tankers are set to be the primary beneficiaries. Oil supply is forecast to
 ![245](assets/2024-09-11_south-american-supply_img_245_6eecd786e83d.png)
 
 > **Figure 2: 245**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-11_south-american-supply_img_245_6eecd786e83d.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-09-11_south-american-supply_img_245_6eecd786e83d.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

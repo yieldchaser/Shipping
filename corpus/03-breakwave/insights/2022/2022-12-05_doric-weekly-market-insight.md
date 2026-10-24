@@ -28,7 +28,7 @@ In sync, World Trade Organisation expressed concerns that trade growth is likely
 ![1 (8)](assets/2022-12-05_doric-weekly-market-insight_img_128829_ae9e5246fe7d.png)
 
 > **Figure 1: 1 (8)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-05_doric-weekly-market-insight_img_128829_ae9e5246fe7d.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2022-12-05_doric-weekly-market-insight_img_128829_ae9e5246fe7d.png)
 
 This downward trend of the merchandise trade volume growth has become apparent in both the dry bulk and container shipping markets. During the second half of the current trading year, the container market has remained on the path towards “normalisation”, according to BIMCO. The Shanghai Containerized Freight Index (SCFI), which represents spot freight rates for loading in Shanghai, has fallen another 49 percent during the last couple of months and now lingers 74 percent below its peak of early January 2022. The index for average freight rates for all containers loading in China, the China Containerized Freight Index (CCFI), has also continued to fall and is now 40 percent lower than two and a half months ago, and 54 percent lower than at its peak reached in February 2022. The SCFI is back to levels last seen in September 2020. In parallel, the time charter rates and second-hand prices for ships have followed the freight rates downwards. Compared to two and a half months ago, average time charter rates and average second-hand prices are down 64 percent and 33 percent respectively, as quoted by the key shipping industry body BIMCO.
 
@@ -39,6 +39,6 @@ Just before this week’s closing, stock exchanges were looking for answers to t
 ![1 (9)](assets/2022-12-05_doric-weekly-market-insight_img_128929_06c23187bb09.png)
 
 > **Figure 2: 1 (9)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-05_doric-weekly-market-insight_img_128929_06c23187bb09.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2022-12-05_doric-weekly-market-insight_img_128929_06c23187bb09.png)
 
 Data source:[Doric](https://www.doric.gr/)

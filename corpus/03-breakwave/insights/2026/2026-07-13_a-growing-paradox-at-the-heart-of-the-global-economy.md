@@ -37,7 +37,7 @@ For the dry bulk market, the IMF's latest projections suggest that the pace of g
 ![Στιγμιότυπο Οθόνης 2026 07 13 102556](assets/2026-07-13_a-growing-paradox-at-the-heart-of-the-global-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5e59a11a9e68.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 07 13 102556**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-13_a-growing-paradox-at-the-heart-of-the-global-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5e59a11a9e68.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2026-07-13_a-growing-paradox-at-the-heart-of-the-global-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5e59a11a9e68.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

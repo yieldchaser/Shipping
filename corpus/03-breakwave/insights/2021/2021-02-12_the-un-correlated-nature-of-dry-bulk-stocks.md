@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-02-12_the-un-correlated-nat
 
 > **Figure 1: Dry Bulk Equities Have Had a Relatively Low Correlation To**  
 > *Dry bulk equities have had a relatively low correlation to shipping rates: As the chart below shows, the weekly correlation of the five largest dry bulk stocks to the Baltic Dry Index has not been meaningful. Golden Ocean is the most correlated stock to the Baltic Dry Index, which we suspect is due to the fact that the primary listing is in Norway which traditionally is a more shipping focused market. As expected, BDRY exhibits the strongest correlation to dry bulk spot rates as captured by the Baltic Dry Index, given the direct exposure to dry bulk futures.*  
-> **Interactive Data & Source:** [Etfmg](https://etfmg.com/funds/bdry/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-12_the-un-correlated-nature-of-dry-bulk-stocks_img_image-asset_ce8efe9803b5.jpeg)
+> **Interactive Data & Source:** [Etfmg](https://etfmg.com/funds/bdry/) | [Local Asset](assets/2021-02-12_the-un-correlated-nature-of-dry-bulk-stocks_img_image-asset_ce8efe9803b5.jpeg)
 
 For those that have been involved in shipping, the previous sentence is something that probably has come up as a thought over and over again, as the cyclical and volatile nature of shipping offers outsized returns during short periods of time. However, predicting the direction of rates might actually be the easiest part of anyone’s investment process. After all, one has to buy something that will increase in value and be able to sell in order to profit out of her own prediction, but that might not be as straightforward as it sounds.
 
@@ -44,7 +44,7 @@ Over time, correlations between spot shipping rates, equities and freight future
 
 > **Figure 2: Source: Bloomberg**  
 > *Source: Bloomberg*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-12_the-un-correlated-nature-of-dry-bulk-stocks_img_correlbdi_8277e649d449.png)
+> [Local Asset](assets/2021-02-12_the-un-correlated-nature-of-dry-bulk-stocks_img_correlbdi_8277e649d449.png)
 
 - *Dry bulk equities actually have higher correlation to the S&P 500 than to dry bulk rates:*Again, this is might sound odd, but it is not surprising. Actually, dry bulk equities have a higher correlation to the broader market than to shipping rates. This is not necessarily bad, but an investor has always to keep in mind that it is not only the performance of shipping rates that will determine the dry bulk stock performance, but also the performance of the stock market as a whole (sometimes even more).
 
@@ -52,7 +52,7 @@ Over time, correlations between spot shipping rates, equities and freight future
 
 > **Figure 3: Source: Bloomberg**  
 > *Source: Bloomberg*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-12_the-un-correlated-nature-of-dry-bulk-stocks_img_correls26p_f7028fe6c6f0.png)
+> [Local Asset](assets/2021-02-12_the-un-correlated-nature-of-dry-bulk-stocks_img_correls26p_f7028fe6c6f0.png)
 
 The uncorrelated nature of shipping, however, is easily visible on the very low correlation of BDRY to the S&P 500. Again, this is not surprising. After all, shipping rates historically have exhibited no significant correlation to stocks due to the idiosyncratic nature of the industry and since BDRY holds futures on shipping rates, the correlation to stocks is very low.
 
@@ -64,7 +64,7 @@ So, what has been the performance of shipping stocks relative to changes in ship
 
 > **Figure 4: Dry Bulk Stocks Is the Marketcap Weighted Average of: Dsx**  
 > *Dry Bulk Stocks is the marketcap weighted average of: DSX, EGLE, GNK, GOGL, SALT, SB, SBLK*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-12_the-un-correlated-nature-of-dry-bulk-stocks_img_cycle1_9b74e6151a6b.png)
+> [Local Asset](assets/2021-02-12_the-un-correlated-nature-of-dry-bulk-stocks_img_cycle1_9b74e6151a6b.png)
 
 ### Cycle 2: May 2020-October 2020
 
@@ -72,7 +72,7 @@ So, what has been the performance of shipping stocks relative to changes in ship
 
 > **Figure 5: Dry Bulk Stocks Is the Marketcap Weighted Average of: Dsx**  
 > *Dry Bulk Stocks is the marketcap weighted average of: DSX, EGLE, GNK, GOGL, SALT, SB, SBLK*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-12_the-un-correlated-nature-of-dry-bulk-stocks_img_cycle2_4b5036769899.png)
+> [Local Asset](assets/2021-02-12_the-un-correlated-nature-of-dry-bulk-stocks_img_cycle2_4b5036769899.png)
 
 For a generalist investor this might be good news, but for the savvier shipping investor, probably it defies the purpose of doing her homework and trying to predict the main driver of shipping value, i.e. freight rates.
 

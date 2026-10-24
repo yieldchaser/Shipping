@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-12-12_jp9ste42lguvwp0bu45un
 ![Rgb Color Brs Shipbrokers Monogram L](assets/2024-12-12_jp9ste42lguvwp0bu45unyb7mxk5kr_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram L**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-12_jp9ste42lguvwp0bu45unyb7mxk5kr_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](assets/2024-12-12_jp9ste42lguvwp0bu45unyb7mxk5kr_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 Back in early 2024 in Issue 110 of this publication, we introduced the VUCA (Volatility, Uncertainty, Complexity, and Ambiguity) concept. In our conclusion, we underlined the difficulty in finding a solution to the Red Sea diversions by stating that ‘unless there is a sudden change of heart by all affiliated parties in the Israel-Hamas conflict, any measures to mitigate the Red Sea crisis might be akin to an attempt to un-tie the proverbial Gordian Knot’. In a nutshell, we proposed that the Red Sea diversions should last, at the bare minimum, for the full length of this calendar year. Subsequently it was estimated at the time that, there should be “a stubborn stickiness” to shipping rates , especially to those segments most impacted.
 
@@ -32,7 +32,7 @@ Thus far, this hypothesis has withstood the passage of time, and it is appropria
 ![Στιγμιότυπο Οθόνης 2024 12 12 153728](assets/2024-12-12_jp9ste42lguvwp0bu45unyb7mxk5kr_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_31a96836bee1.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 12 12 153728**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-12_jp9ste42lguvwp0bu45unyb7mxk5kr_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_31a96836bee1.png)
+> [Local Asset](assets/2024-12-12_jp9ste42lguvwp0bu45unyb7mxk5kr_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_31a96836bee1.png)
 
 For the 10 (load) months of 2024, laden bulker transits (by count) have dropped by more than 2,500, with geared bulkers (<68,000 Dwt) bearing the brunt. Ultramax’s (60-68,000 Dwt) laden transits dropped more than 500, while those of Supramaxes (50-60,000 Dwt), Handysizes (25-40,000 Dwt) and Minibulkers (3-25,000 Dwt) have declined by more than 300, 450, 200, respectively, over the same period. This represents a loss amounting to just over 1,500 laden transits of geared vessels via the Suez Canal. On the other hand, the decline of the mid-sized Panamax segment (68-100,000 Dwt) is close to 600, while those of the large-sized fleet (>100,000 Dwt) is under 400.
 
@@ -41,7 +41,7 @@ In essence, Red Sea diversions had a disproportionate impact on geared tonnage. 
 ![Στιγμιότυπο Οθόνης 2024 12 12 153742](assets/2024-12-12_jp9ste42lguvwp0bu45unyb7mxk5kr_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a801fe73076a.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 12 12 153742**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-12_jp9ste42lguvwp0bu45unyb7mxk5kr_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a801fe73076a.png)
+> [Local Asset](assets/2024-12-12_jp9ste42lguvwp0bu45unyb7mxk5kr_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a801fe73076a.png)
 
 Looking at the chart below, over the last few years, the trend was to rely on the Suez Canal to facilitate quicker international bulker trades (especially for small parcel sizes). In fact, 2023 had been a record year for laden bulker transits through the canal. Furthermore, the monthly figures in 2024 have been on a sequential decline (represented by the red arrow).
 
@@ -50,7 +50,7 @@ For instance, back in 2023, geared parcels ex-US headed to India/China (via Suez
 ![Στιγμιότυπο Οθόνης 2024 12 12 153948](assets/2024-12-12_jp9ste42lguvwp0bu45unyb7mxk5kr_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_77eaf3509760.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 12 12 153948**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-12_jp9ste42lguvwp0bu45unyb7mxk5kr_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_77eaf3509760.png)
+> [Local Asset](assets/2024-12-12_jp9ste42lguvwp0bu45unyb7mxk5kr_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_77eaf3509760.png)
 
 As a side note, breaking down the present numbers for Capesize’s laden transits, the decline is mainly attributed to a fundamental lack of demand for Russian coal by China and India, not because of rerouting decisions. Russia's coal industry faced a crisis following the 2022 invasion of Ukraine, as the European Union banned Russian coal imports. This forced exporters to shift focus to Asia, which initially procured Russian supplies at significant discounts. However, these discounts had diminished by mid-2023, compounded by logistical challenges (rising costs of railway, freight and port services) which further limited its appeal to Chinese and Indian buyers. On the other hand, if it were not for the re-emergence of Ukrainian iron ore shipments in 2024 which were exclusively shipped via Suez, the annual decline would be even uglier.
 
@@ -59,7 +59,7 @@ However, when we turn our attention to the ballast bulker transits via Suez Cana
 ![Στιγμιότυπο Οθόνης 2024 12 12 154014](assets/2024-12-12_jp9ste42lguvwp0bu45unyb7mxk5kr_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b344724a07ca.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 12 12 154014**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-12_jp9ste42lguvwp0bu45unyb7mxk5kr_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b344724a07ca.png)
+> [Local Asset](assets/2024-12-12_jp9ste42lguvwp0bu45unyb7mxk5kr_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b344724a07ca.png)
 
 Overall, the dry bulk industry has avoided a complete blockage of vessel movements through this important trade artery. Hence, geared rates did not soar to anywhere near their highs posted in 1H21 when S10TC and HS7TC averaged $21,014/day and $19,511/day, respectively. For context, in March 2021, the Suez Canal was blocked for six days by the grounded MV Ever Given containership.
 

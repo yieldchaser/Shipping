@@ -41,7 +41,7 @@ As a result of renewed geopolitical tensions, including concerns around Iran and
 ![Market Chart 1](assets/2026-01-30_asia-adjusts-to-shifts-in-heavy-crude-availability_img_unnamed28929_a70b131462dc.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Tanker Dynamic Crude Oil Flows](https://go.signalocean.com/e/983831/tanker-dynamic-crude-oil-flows/2rt6g9/574590971/h/KXN26pQTKEFhbzz3NDDp0edkl1HjF3QnLKMSx_E1mho) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-30_asia-adjusts-to-shifts-in-heavy-crude-availability_img_unnamed28929_a70b131462dc.png)
+> **Interactive Data & Source:** [Signal Ocean Tanker Dynamic Crude Oil Flows](https://go.signalocean.com/e/983831/tanker-dynamic-crude-oil-flows/2rt6g9/574590971/h/KXN26pQTKEFhbzz3NDDp0edkl1HjF3QnLKMSx_E1mho) | [Local Asset](assets/2026-01-30_asia-adjusts-to-shifts-in-heavy-crude-availability_img_unnamed28929_a70b131462dc.png)
 
 ### 2. Asia As the Focal Point of Adjustment
 
@@ -51,14 +51,14 @@ Vessel-level tracking and trade-flow data indicate that[crude volumes](https://g
 
 > **Figure 2: Metrics Description: Trade-Flow and Vessel-Level Data Based On**  
 > *Metrics Description: Trade-flow and vessel-level data based on reported loadings and movements over a six-month lookback period. Destinations reflect reported discharge locations and may include transshipment or storage hubs. Cargo classification by crude grade and vessel class reflects observed movements; month-to-date figures may be affected by reporting lags, discharge timing, and cargo aggregation practices.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/anker-dynamic-floating-storage/2rt6gd/574590971/h/KXN26pQTKEFhbzz3NDDp0edkl1HjF3QnLKMSx_E1mho) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-30_asia-adjusts-to-shifts-in-heavy-crude-availability_img_unnamed281029_77516dba1d3c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/anker-dynamic-floating-storage/2rt6gd/574590971/h/KXN26pQTKEFhbzz3NDDp0edkl1HjF3QnLKMSx_E1mho) | [Local Asset](assets/2026-01-30_asia-adjusts-to-shifts-in-heavy-crude-availability_img_unnamed281029_77516dba1d3c.png)
 
 Higher volumes of crude held in[floating storage](https://go.signalocean.com/e/983831/anker-dynamic-floating-storage/2rt6gd/574590971/h/KXN26pQTKEFhbzz3NDDp0edkl1HjF3QnLKMSx_E1mho)indicate that barrels are being delayed and repositioned rather than removed from circulation. Storage activity has been concentrated around Asian and Middle Eastern hubs, dominated by medium-to-sour grades and VLCCs, consistent with the rerouting of long-haul flows rather than a curtailment of liftings. There is no corresponding evidence of congestion-driven disruption in freight markets, reinforcing the view that current market adjustments are absorbing geopolitical risk within an oversupplied system, rather than reflecting conditions of physical scarcity.
 
 ![Floating Storage](assets/2026-01-30_asia-adjusts-to-shifts-in-heavy-crude-availability_img_unnamed281129_663180206369.png)
 
 > **Figure 3: Floating Storage**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-30_asia-adjusts-to-shifts-in-heavy-crude-availability_img_unnamed281129_663180206369.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-01-30_asia-adjusts-to-shifts-in-heavy-crude-availability_img_unnamed281129_663180206369.png)
 
 ### 3. Iran vs. Venezuela - Different Channels of Market Impact
 

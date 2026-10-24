@@ -35,7 +35,7 @@ This week’s Tanker Market Monitor examines divergence in VLCC sailing speeds, 
 
 > **Figure 1: Dashboard View**  
 > *Dashboard view. Signal Ocean Platform, VLCC ballast and laden speeds in the Arabian Gulf; trend panels use a seven-day moving average.Snapshot of 15 October 2026 with dashboard week-over-week changes; not calendar Week 40–41 averages.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-41-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ad214c0b6e71e957bb6e7a5_61464ba3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-41-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ad214c0b6e71e957bb6e7a5_61464ba3.png)
 
 Arabian Gulf VLCC ballast speed reached **12.00 knots, up 2.5%** from the previous week, while laden speed declined **5.5% to 11.52 knots**, leaving ballast vessels sailing 0.48 knots faster than loaded ships. The current speed-implied supply indicator stood **3.7% above its 90-day average**, reflecting faster repositioning rather than an increase in available tonnage. While this may shorten ballast voyages, slower laden sailings, waiting times and cargo transfers continue to affect vessel turnaround, with no clear evidence yet of improved effective VLCC availability.
 
@@ -51,7 +51,7 @@ The **Baltic Dirty Tanker Index (BDTI) rose 32% to a Week 41 average of 7,625 po
 
 > **Chart 1: Baltic Dirty Tanker Index and VLCC Ag–china (TD3C), Daily, 15 October 2025–14 October 2026**  
 > *Chart 1. Baltic Dirty Tanker Index and VLCC AG–China (TD3C), daily, 15 October 2025–14 October 2026. Shading marks Weeks 40–41.Source: Baltic Exchange assessments via Signal Ocean, data through 14 October 2026.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-41-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ad214c0b6e71e957bb6e79f_5e2b3977.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-41-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ad214c0b6e71e957bb6e79f_5e2b3977.png)
 
 
 ## Baltic Index Averages: Week 40 vs Week 41
@@ -61,7 +61,7 @@ The **Baltic Dirty Tanker Index (BDTI) rose 32% to a Week 41 average of 7,625 po
 
 > **Figure 3: Five Assessment Days per Week: 28 September–2 October and 5–9 October**  
 > *Five assessment days per week: 28 September–2 October and 5–9 October. Sources: Signal for BDTI and TD3C; StockQ for BCTI.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-41-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ad2140ee56e845ad972099d_Screenshot 2026-10-16 at 13.09.05.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-41-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ad2140ee56e845ad972099d_Screenshot 2026-10-16 at 13.09.05.png)
 
 
 ## Freight: Gulf VLCC Earnings Lead as Atlantic Aframax Rates Ease
@@ -75,7 +75,7 @@ The **Baltic Dirty Tanker Index (BDTI) rose 32% to a Week 41 average of 7,625 po
 
 > **Chart 2: Crude Tanker Spot TCE by Route and Vessel Class, East vs West of Suez, Current vs Previous Week ($/day).baltic Exchange TCE Assessments Via Signal Ocean, Snapshot Dated 15 October; Changes Against the Dashboard’s Prior-Week Reference.**  
 > *Chart 2. Crude tanker spot TCE by route and vessel class, East vs West of Suez, current vs previous week ($/day).Baltic Exchange TCE assessments via Signal Ocean, snapshot dated 15 October; changes against the dashboard’s prior-week reference.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-41-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ad214c0b6e71e957bb6e7a2_cd218aaf.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-41-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ad214c0b6e71e957bb6e7a2_cd218aaf.png)
 
 **All five western Aframax routes fell, while both eastern routes increased.** **US Gulf–ARA (TD25) dropped 14.0% to $273,166/day**, East Coast Mexico–US Gulf (TD26) 13.3% to $337,127/day and Caribbean–US Gulf (TD9) 10.8% to $307,313/day.
 
@@ -88,14 +88,14 @@ East of Suez, **SE Asia–East Coast Australia (TD14) rose 19.2% to $271,465/day
 ![Spot Rate Summary: Dirty TCE, VLCC, Suezmax, Aframax and Panamax](../../images/6ad21442b6e71e957bb6a40f_Screenshot 2026-10-16 at 13.09.17.png)
 
 > **Figure 5: Spot Rate Summary: Dirty TCE, VLCC, Suezmax, Aframax and Panamax**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-41-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ad21442b6e71e957bb6a40f_Screenshot 2026-10-16 at 13.09.17.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-41-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ad21442b6e71e957bb6a40f_Screenshot 2026-10-16 at 13.09.17.png)
 
 
 ![Baltic Exchange TCE Assessments Via Signal Ocean, Snapshot Dated 15 October; Changes Against the Dashboard’s Prior-Week Reference](../../images/6ad2145ce14a351c4c380657_Screenshot 2026-10-16 at 13.09.25.png)
 
 > **Figure 6: Baltic Exchange TCE Assessments Via Signal Ocean, Snapshot Dated 15 October; Changes Against the Dashboard’s Prior-Week Reference**  
 > *Baltic Exchange TCE assessments via Signal Ocean, snapshot dated 15 October; changes against the dashboard’s prior-week reference. Rates in $/day; all changes are percentages.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-41-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ad2145ce14a351c4c380657_Screenshot 2026-10-16 at 13.09.25.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-41-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ad2145ce14a351c4c380657_Screenshot 2026-10-16 at 13.09.25.png)
 
 
 ## VLCC Supply Tightens West of Suez as Eastern Ballast Numbers Rise
@@ -110,14 +110,14 @@ East of Suez, **SE Asia–East Coast Australia (TD14) rose 19.2% to $271,465/day
 
 > **Figure 7: Weekly Means of Seven Daily Exported Measures; Surplus Is Ballast Minus Laden**  
 > *Weekly means of seven daily exported measures; surplus is ballast minus laden. These counts do not identify ships ready to accept prompt cargoes.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-41-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ad2147690ed3299eee29d1b_Screenshot 2026-10-16 at 13.09.32.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-41-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ad2147690ed3299eee29d1b_Screenshot 2026-10-16 at 13.09.32.png)
 
 
 ![VLCCs at Sea, Ballast vs Laden, East and West of Suez, 1 June–14 October 2026](../../images/6ad214c0b6e71e957bb6e7a9_4cbefb52.png)
 
 > **Chart 3: VLCCs at Sea, Ballast vs Laden, East and West of Suez, 1 June–14 October 2026**  
 > *Chart 3. VLCCs at sea, ballast vs laden, East and West of Suez, 1 June–14 October 2026. Shading marks Weeks 40–41.Source: Signal; exported smoothed daily at-sea measures, VLCC 200,000 dwt and above.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-41-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ad214c0b6e71e957bb6e7a9_4cbefb52.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-41-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ad214c0b6e71e957bb6e7a9_4cbefb52.png)
 
 Average VLCC counts declined across western regions in Week 41, led by Europe (**−26.3%, from 41 to 30**), the Atlantic Ocean (**−12.8%, from 45 to 39**) and the Americas (**−9.8%, from 68 to 62**). In contrast, counts increased in the Middle East Gulf (**+3.8%, from 189 to 196**) and Indian Ocean (**+6.9%, from 70 to 75**). The shift points to a greater concentration of VLCCs in eastern waters, although total vessel counts do not necessarily reflect prompt availability for charter.
 
@@ -126,7 +126,7 @@ Average VLCC counts declined across western regions in Week 41, led by Europe (*
 
 > **Chart 4: Average VLCC Count by Area, Week 41 vs Week 40, All Statuses (Areas with Ten or More Vessels).source: Signal; Fleet Distribution by Zone, VLCC 200,000 DWT and Above.**  
 > *Chart 4. Average VLCC count by area, Week 41 vs Week 40, all statuses (areas with ten or more vessels).Source: Signal; fleet distribution by zone, VLCC 200,000 dwt and above.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-41-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ad214c0b6e71e957bb6e7ac_20754b43.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-41-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ad214c0b6e71e957bb6e7ac_20754b43.png)
 
 
 ## China Congestion Edges Higher But Stays Below Last Year
@@ -138,7 +138,7 @@ China’s VLCC waiting count averaged **12 vessels in Week 41, up 14%** from the
 
 > **Chart 5: VLCCs Waiting Off and at Port in China, Monday–sunday Averages, 2026 vs Same Week of 2025**  
 > *Chart 5. VLCCs waiting off and at port in China, Monday–Sunday averages, 2026 vs same week of 2025. Shading marks Weeks 40–41.Source: Signal; congestion data through 11 October 2026.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-41-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ad214c0b6e71e957bb6e7af_10605e37.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-41-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6ad214c0b6e71e957bb6e7af_10605e37.png)
 
 
 ## Hormuz Freight Watch: Bunker Supply Tightens as Saudi Delivered Sales Expand

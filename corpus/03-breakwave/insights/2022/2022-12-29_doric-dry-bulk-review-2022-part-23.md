@@ -32,7 +32,7 @@ In contrast to the above concerning data for the path of Chinese economy, domest
 ![1 (2)](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128229_24cb94eda511.png)
 
 > **Figure 1: 1 (2)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128229_24cb94eda511.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128229_24cb94eda511.png)
 
 In mid-April, World Trade Organization revised downward its projections for world trade over the next two years. The Genevabased organization expected merchandise trade volume growth of 3.0 percent in 2022 – materially down from its previous forecast of 4.7 percent. The latest estimates based on the WTO Global Trade Model captured (1) the direct impact of the war in Ukraine, including destruction of infrastructure and increased trade costs; (2) the impact of sanctions on Russia, including the blocking of Russian banks from the SWIFT settlement system; and (3) reduced aggregate demand in the rest of the world due to falling business/consumer confidence and rising uncertainty. Under these assumptions, world GDP at market exchange rates was expected to grow by 2.8 percent in 2022, down 1.3 percentage points from the previous forecast of 4.1 percent.
 
@@ -47,7 +47,7 @@ In mid-April, China’s State Council said in a statement after a regular meetin
 ![1 (3)](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128329_2c710fc434bf.png)
 
 > **Figure 2: 1 (3)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128329_2c710fc434bf.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128329_2c710fc434bf.png)
 
 As far as the Russo-Ukrainian conflict goes, a severe double-digit drop in GDP for Ukraine and a large contraction in Russia and Belarus were more than likely, along with worldwide spillovers through commodity markets, trade, and financial channels. In reference to the world’s second largest economy, slowing growth in China’s economy had wider ramifications for Asia and for commodity exporters. The combination of more transmissible variants and a zero-Covid strategy entail the prospect of more frequent lockdowns, with attendant effects on private consumption in China. Additionally, policy space in many countries eroded by necessary higher Covid-related spending and lower tax revenue in the previous couple of years. In that juncture, fiscal support was set to generally decline in both 2022 and 2023. Faced with rising borrowing costs, governments were increasingly challenged by the imperative to rebuild buffers.
 
@@ -62,14 +62,14 @@ The US economy contracted unexpectedly in the first quarter, as a record-high tr
 ![1 (4)](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128429_2dff59a770ae.png)
 
 > **Figure 3: 1 (4)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128429_2dff59a770ae.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128429_2dff59a770ae.png)
 
 In sync, Eurozone economy slowed as inflation increased to 7.5 percent. In the first quarter 2022, seasonally adjusted GDP increased by 0.2 percent in the euro area and by 0.4 percent in the EU, compared with the previous quarter, according to a preliminary flash estimate published by Eurostat. In the fourth quarter of 2021, GDP had grown by 0.3 percent in the euro area and 0.5 percent in the EU. Compared with the same quarter of the previous year, seasonally adjusted GDP increased by 5.0 percent in the euro area and by 5.2 percent in the EU in the first quarter of 2022, after +4.7 percent in the euro area and +4.9 percent in the EU in the previous quarter. Zooming out, eurozone economy navigated through a turbulent quarter, yet still managing to eke out a small positive growth number. With the Omicron impact milder than expected and the war in Ukraine having an increasing impact from early March onwards, eurozone managed to avoid contraction this quarter, with the outlook for 2Q remaining pretty muddy tough.
 
 ![1 (5)](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128529_d99281d2d06a.png)
 
 > **Figure 4: 1 (5)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128529_d99281d2d06a.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128529_d99281d2d06a.png)
 
 In the Pacific, China’s economy had been hit hard by waves of the coronavirus, urging leaders to push for timely tax cuts and other support policies. The complexity, severity and uncertainty of China's economic development environment have increased," the Politburo was quoted as saying by the official Xinhua news agency. "Stabilising growth, employment and prices are facing new challenges. It is very important to do a good job in economic work and effectively protect and improve people's livelihood," Xinhua reported. China’s top leadership vowed on the last Friday of April to speed up the implementation of existing tax-cut and supportive policies, as well as the use of new monetary policy tools and effective investment. In this juncture with roiling geopolitical games and ensuing economic uncertainty being the focal point, Baltic indices seemed to be rather hesitant in setting clear course. However, the leading Capesizes ended April on a positive note at $17,713 daily, having left the low teens behind.
 
@@ -80,7 +80,7 @@ However, China’s zero-tolerance approach to Covid-19 did not only have a negat
 ![1 (2)](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128229_155676cc5844.png)
 
 > **Figure 5: 1 (2)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128229_155676cc5844.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128229_155676cc5844.png)
 
 Despite the contraction in many industries, Chinese official sources voiced positiveness to the outlook, saying that with the effective control of the epidemic and the emergence of policy effects, corporate expectations were regarded to gradually improve. Whilst the locomotive of global growth seemed to be in a quite challenging crossroad, Baltic indices found the courage to steam north during the eighteenth week, with BCI TCA balancing at $24,002, BPI82 TCA at $28,572, BSI TCA at $30,024 and BHSI TCA at $29,516 daily.
 
@@ -93,14 +93,14 @@ As far as the other two major commodities of the dry bulk spectrum go, China's s
 ![1 (3)](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128329_b535a3ab1e21.png)
 
 > **Figure 6: 1 (3)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128329_b535a3ab1e21.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128329_b535a3ab1e21.png)
 
 At a time when Baltic indices were trying to lift from their Q1 lows, consumption and production data from China kept injecting uncertainty in the dry bulk market. China’s economy slowed sharply in April as Beijing’s draconian “dynamic zero Covid-19” strategy dragged consumption and industrial production to their lowest levels since early 2020. In particular, the total value of retail sales of consumer goods during the last month lingered at 2,948.3 billion yuan, down by 0.69 percent month-on-month. With millions of Chinese being under some form of lockdown, retail sales dropped 11.1 percent compared with the previous year. The aforementioned reading was sharply worse than March’s 3.5 percent contraction. In the first four months, the total retail sales of consumer goods reached 13,814.2 billion yuan, marginally lower by 0.2 percent yearon-year. As lockdowns forced factories to suspend operations and disrupted supply chains, industrial production took a 2.9-percent dive in April from a year earlier, compared with a 5 percent gain in March, indicating the largest decline since February 2020. In the first four months, the total value added of the industrial enterprises above the designated size grew by 4.0 percent year-on-year, 2.5 percentage points lower than that of the first quarter.
 
 ![1 (4)](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128429_f8f13d59613f.png)
 
 > **Figure 7: 1 (4)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128429_f8f13d59613f.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128429_f8f13d59613f.png)
 
 Additionally, China’s electricity output plunged in April as virus restrictions in Shanghai and other parts of the country negatively affected economic activity from steel mills to shopping malls. In particular, electricity generation dropped in April from the prior month to 608.6 billion kilowatt-hours, a decline of 4.3 percent on the same period last year. Thermal power output plummeted to an even greater degree, down 12 percent for the biggest drop since 2008, as the share of renewables increased at the expense of coal and gas.
 
@@ -117,7 +117,7 @@ Oil prices have hit fresh highs in the first week of June after European Union l
 ![1 (5)](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128529_9368972248b7.png)
 
 > **Figure 8: 1 (5)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128529_9368972248b7.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128529_9368972248b7.png)
 
 Spot market, on the other hand, was moving mostly sideways the first week of June, with BCI TCA concluding at $24,274 daily, BPI82 TCA at $25,663 daily, BSI TCA $29,738 daily and BHSI TCA $28,712 daily. Capesizes ended the week in the black, at the same time as all the other segments were drifting marginally lower. There had been several significant changes in the global economic environment in the previous months, including the worldwide spread of the Omicron variant, the greater-than-expected persistence of inflationary pressures and a faster adjustment of monetary policy in a number of major economies than previously expected, forcing the spot market to be quite cautious in terms of direction picking. Additionally, the economic impact of the war in Ukraine was perplexing things even more, blurring the outlook of the market during the summer months.
 
@@ -130,14 +130,14 @@ Setting aside the short-term impact of war in the global economy and spot market
 ![1 (6)](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128629_b4a53ea7a188.png)
 
 > **Figure 9: 1 (6)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128629_b4a53ea7a188.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128629_b4a53ea7a188.png)
 
 In the short term, surging inflation led investors and oil traders in mid-June to brace themselves for a big move by the Fed. The world’s financial markets were preparing for the sharpest rise in US interest rates in almost 30 years. Stock and bond markets sold off sharply as unexpectedly high inflation figures raised the prospect of the Fed taking a more aggressive approach. Without any surprises, officials agreed to a 0.75-percentage-point rate rise at their two-day policy meeting that concluded on Wednesday June 15.
 
 ![1 (7)](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128729_171ad7eae177.png)
 
 > **Figure 10: 1 (7)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128729_171ad7eae177.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128729_171ad7eae177.png)
 
 In a week full of monetary policy activity, the European Central Bank promised fresh support for the bloc's indebted south, tempering a market rout that threatened a repeat of the debt crisis that almost blew the single currency away a decade ago. Following an emergency meeting, the central bank’s governing council pledged to accelerate plans to create a “new anti-fragmentation instrument” and apply flexibility in reinvesting redemptions. The ECB stressed that it would direct cash to more indebted nations from debt maturing in a recently-ended 1.7-trillion-euro pandemic support scheme and it would work on the aforementioned new instrument to prevent an excessive divergence in borrowing costs. The People’s Bank of China, on the other hand, kept the interest rate of the oneyear medium term lending facility unchanged at 2.85 percent while injecting 200 billion yuan ($29.67 billion) of liquidity into the banking system, according to a statement on its website.
 
@@ -148,7 +148,7 @@ All the latest recession rhetoric coupled with a projected slowdown in construct
 ![1 (8)](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128829_bb47e4be9238.png)
 
 > **Figure 11: 1 (8)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128829_bb47e4be9238.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128829_bb47e4be9238.png)
 
 Whilst freight market was trying to reassess its levels, not being yet sure if sector-specific dynamics would manage to overcome a quite ominous macroeconomic environment, “Dr. Copper” didn’t seem to have second thoughts. In fact, copper prices were set for their biggest weekly fall in a year, as investors worried that efforts by central banks to tame inflation will stifle economic growth and reduce demand for metals. In fact, the most-traded July copper contract in Shanghai fell 3.5 percent to 64,080 yuan ($9,572.47) a tonne today, or down 7.9 percent week-on-week. Other industrial metals tumbled as well, with nickel down circa 13 percent that week and tin off 25 percent, their biggest weekly slump since 2005.
 
@@ -161,7 +161,7 @@ As yet another profitable first year halves concluded, sentiment of the dry bulk
 ![1 (9)](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128929_725c5a42934b.png)
 
 > **Figure 12: 1 (9)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128929_725c5a42934b.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_128929_725c5a42934b.png)
 
 ## Act Iii – "’Tis Not Enough to Help the Feeble Up, But to Support Them After."
 
@@ -174,7 +174,7 @@ After touching historic highs earlier this year, commodity prices were moving do
 ![1 (10)](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_1281029_e2002022df97.png)
 
 > **Figure 13: 1 (10)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_1281029_e2002022df97.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_1281029_e2002022df97.png)
 
 Apart from some glimpses of hope stemming from headlines of a possible stimulus package in China, the twenty-eighth trading week was a rather dull and uninspiring one. China’s Ministry of Finance stressed that Beijing was about to allow local governments to sell 1.5 trillion yuan ($220 billion) of special bonds in the second half of this year. The debt would mostly be used to pay for infrastructure spending, a good old recipe that policy makers are using to boost an economy hit by Covid lockdowns and a housing slump. Following the news, Dalian iron ore recouped from a selloff in the previous sessions at the same time as copper prices reported strong gains. However, Baltic indices weren’t convinced that these liquidity injections would suffice. Indicatively, BPI 82 TCA had been balancing below the $20,000-mark in the previous five days, for the first time since early February. BSI 10 TCA and BHSI 7 TCA, on the other hand, had been hovering above $20,000 per day during the second week of July, yet still both reported considerable losses on a week-onweek basis. BCI TCA was the only Baltic index in the green, bouncing back to $20,000 daily.
 
@@ -185,7 +185,7 @@ In this macro environment, China reported a sharp slowdown in its commodities im
 ![1 (11)](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_1281129_4e8a0f1775a9.png)
 
 > **Figure 14: 1 (11)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_1281129_4e8a0f1775a9.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_1281129_4e8a0f1775a9.png)
 
 Whilst data from the Chinese customs were pointing to a significant slowdown, ECB followed Fed on its hawkish flight. The central bank of the euro area delivered its first interest rate hike in over a decade in the third week of July. Joining other major central banks in the race to get on top of galloping inflation, ECB dared greatly with a 50 basis-point hike, ending the negative rates era. The aggressive ECB decision showed how the world’s monetary authorities were shifting their policies to confront surging prices even as signs of a coming global recession multiply. The United States, Canada, New Zealand and Switzerland among others lined up in the previous weeks with aggressive rate rises. In this juncture, ECB's decision was aligned with the monetary stance of the rest of the OECD economies.
 
@@ -198,7 +198,7 @@ In Europe, significant downgrades reflect negative externalities from the war in
 ![1 (12)](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_1281229_4655f2ab4b3c.png)
 
 > **Figure 15: 1 (12)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_1281229_4655f2ab4b3c.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_1281229_4655f2ab4b3c.png)
 
 In that macro environment how odd would it be for Baltic indices to keep their sterns afloat? Being, in fact, in sync with the underlying grey economic juncture, Baltic Dry Index concluded lower the last week of July at 1895 points, with all sub-markets in the red. August started with US House Speaker Nancy Pelosi landing in Taipei and marking a significant demonstration of support towards Taiwan despite China's warnings of retaliation over the visit. Pelosi and the congressional delegation that accompanied her stressed in a statement that the visit "honors America's unwavering commitment to supporting Taiwan's vibrant democracy."
 
@@ -219,7 +219,7 @@ Having spent a good part of the current trading year competing with the splendid
 ![1 (13)](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_1281329_5cc2f41464d0.png)
 
 > **Figure 16: 1 (13)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_1281329_5cc2f41464d0.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_1281329_5cc2f41464d0.png)
 
 On the same wavelength, the S&P Global Eurozone Manufacturing PMI fell to 49.6 in August, down from 49.8 and further beneath the 50.0 mark that separates growth from contraction. Although only just below 50, this was the lowest reading since June 2020 and signalled a second successive deterioration in manufacturing operating conditions. The au Jibun Bank Japan Manufacturing PMI balanced at 51.5 in August, following a July reading of 52.1. While marking the 19th month of expansion in the sector, the latest figure was the lowest since September 2021, amid growing economic headwinds. In a similar vein, the S&P Global South Korea Manufacturing PMI dropped to 47.6 in August 2022 from 49.8 in July. Amid weaker global economic conditions, this was the second straight month of contraction in factory activity and the fastest contraction since July 2020. In reference to the world’s largest economy, the S&P Global US Manufacturing PMI pointed to the slowest growth in factory activity since July of 2020, balancing at 51.5. Output contracted for a second straight month as new orders fell for a third month in a row amid weak demand, due to increased inflation and economic uncertainty. With manufacturing activity being in contraction across the board and Capesizes being in the doldrums, BDI reported an August average of 1411 points, or the lowest of the last twenty months.
 
@@ -238,7 +238,7 @@ Once such a fall is taking place, all eyes are on China and in particular on the
 ![1 (14)](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_1281429_1892c7c13ba4.png)
 
 > **Figure 17: 1 (14)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_1281429_1892c7c13ba4.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_1281429_1892c7c13ba4.png)
 
 Conversely, the growth rate of power production was accelerated. In August, the power generation was 824.8 billion kwh, a year-on-year increase of 9.9 percent and an increase of 5.4 percentage points over the previous month. From January to August, the power generation balanced at 5.6 trillion kwh, a year-on-year increase of 2.5 percent. From the perspective of energy sources, in August, thermal power and wind power accelerated, the growth of solar power slowed down, the growth of hydropower decreased year-onyear, and the decrease of nuclear power narrowed. Among them, thermal power increased by 14.8 percent year-on-year, 9.5 percentage points faster than last month. Despite that, China's daily coal output in August slipped to a three-month low of 370.44 million tonnes as some mines in its biggest coal mining regions reduced operations due to heavy rainfall and Covid-19 curbs.
 
@@ -251,7 +251,7 @@ However, Japanese authorities intervened to shore up the weak yen, being under p
 ![1 (15)](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_1281529_35813e281ffc.png)
 
 > **Figure 18: 1 (15)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_1281529_35813e281ffc.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_1281529_35813e281ffc.png)
 
 One year ago, the last trading week of September started with Hong Kong’s stock market plummeting, as an escalating liquidity crisis of the Chinese property developer Evergrande showed signs of spreading beyond the sector. The sell-off in Asia hit European stocks that morning and futures’ prices were suggesting markets in New York would open materially lower. Few hours later, the S&P 500 took a 2.9 percent dive, before closing with a daily drop of 1.7 percent and marking its worst day of trading since May 2021. In sync, commodity prices, including iron ore and copper, took a hit, as the potential collapse of one of China’s biggest property developers fuelled worries about potential declines in construction and demand for raw materials. With growing concerns for a Minsky Moment" in China's property sector, the CBOE volatility index – the "fear gauge" – was hitting its multi-month maxima.
 
@@ -264,7 +264,7 @@ For the first half of 2022, dry bulk market was echoing the fertile 2021 trading
 ![1 (16)](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_1281629_93f2b426bd43.png)
 
 > **Figure 19: 1 (16)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_1281629_93f2b426bd43.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_1281629_93f2b426bd43.png)
 
 -You can find Part1[here](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13)
 

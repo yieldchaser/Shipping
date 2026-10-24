@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/dry/dynamic/timeseriesdrydownloadable**  
 > *https://app.signalocean.com/dry/dynamic/timeseries_dry_downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-48-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6749876da6f07c9c64f73d08_AD_4nXcgwmvoDvg5w4wHSGT_1VF_SeZYg38J-cKAC2IJs8yJAeEzTnWgngvhd0MKOw8JBA2hepBNku6lAoYtMbAQgGZjyh3ZlNjuUYfGuGehkq-KOYuuD08UQYA3nsZZyT1kG5BqC6R5XA.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-48-2024) | [Local Asset](../../images/6749876da6f07c9c64f73d08_AD_4nXcgwmvoDvg5w4wHSGT_1VF_SeZYg38J-cKAC2IJs8yJAeEzTnWgngvhd0MKOw8JBA2hepBNku6lAoYtMbAQgGZjyh3ZlNjuUYfGuGehkq-KOYuuD08UQYA3nsZZyT1kG5BqC6R5XA.avif)
 
 The end of November marked a significant downturn in dry bulk freight rates, with the Baltic Capesize Index plunging by 30% year-on-year. Similarly, the Baltic Panamax Index experienced a sharp decline of 50%. However, smaller vessel categories showed milder decreases, with the Supramax Index falling by 19%, while the Handysize Index demonstrated notable resilience, remaining relatively stable at the previous month’s levels.
 

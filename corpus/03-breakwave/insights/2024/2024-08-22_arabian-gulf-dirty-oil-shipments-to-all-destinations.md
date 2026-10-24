@@ -36,7 +36,7 @@ Week 34, August 22, 2024**​​​​​​**
 ![Screenshot 2024 08 22 17.00.34](assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170034_56e7e4f840b1.png)
 
 > **Figure 1: Screenshot 2024 08 22 17.00.34**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/china-says-goldman-2024-08-20-/2qh5y1/431399865/h/abN7Ut2hdJQdQDp0q9Twogma-wj4HrPSKCEtyN8VIqU) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170034_56e7e4f840b1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/china-says-goldman-2024-08-20-/2qh5y1/431399865/h/abN7Ut2hdJQdQDp0q9Twogma-wj4HrPSKCEtyN8VIqU) | [Local Asset](assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170034_56e7e4f840b1.png)
 
 As August draws to a close, the earlier weakening momentum on the VLCC AG-China route appears to have stabilised to a firmer momentum. Despite this stabilisation, the weekly percentage growth in demand tonne days has not yet surpassed previous weeks, indicating that a strong recovery remains elusive.
 
@@ -49,7 +49,7 @@ Data from last week revealed that China's economy lost significant momentum in J
 ![Screenshot 2024 08 22 17.00.52](assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170052_ae986a815dbc.png)
 
 > **Figure 2: Screenshot 2024 08 22 17.00.52**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170052_ae986a815dbc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170052_ae986a815dbc.png)
 
 The dirty freight market sentiment appears to be stabilising before the end of August, as evidenced by a recent uptick in VLCC MEG-China rates. These rates have shown an increase compared to the lower levels observed at the beginning of the month, suggesting a potential shift towards a more robust market.
 
@@ -60,7 +60,7 @@ The dirty freight market sentiment appears to be stabilising before the end of A
 ![Screenshot 2024 08 22 17.19.28](assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22171928_47afa973d05f.png)
 
 > **Figure 3: Screenshot 2024 08 22 17.19.28**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22171928_47afa973d05f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22171928_47afa973d05f.png)
 
 The supply trend for crude tankers shows a decline for Suezmax vessels in the West Africa-to-Continent route and Aframax vessels in the Mediterranean and Baltic regions. However, VLCCs from Ras Tanura have experienced an uptick in August, with supply levels close to surpassing the annual average by the end of the third week of the month.
 
@@ -72,7 +72,7 @@ The supply trend for crude tankers shows a decline for Suezmax vessels in the We
 ![Screenshot 2024 08 22 17.03.47](assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170347_435f1e4ea35c.png)
 
 > **Figure 4: Screenshot 2024 08 22 17.03.47**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170347_435f1e4ea35c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170347_435f1e4ea35c.png)
 
 **Dirty**tonne days: The decrease in the growth of VLCC tonne days persisted throughout August, signalling a continued slowdown in demand. However, the rate of decline appears to have stabilised, suggesting that it may have reached its lowest point for the summer season. As we move into September, the focus will be on whether weekly percentage growth can rebound, potentially establishing a firmer upward trajectory. This recovery could gradually bring growth levels closer to the annual average, but the market’s response to shifting seasonal and economic factors will be crucial in determining the pace and sustainability of this recovery.
 

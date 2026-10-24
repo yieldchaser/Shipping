@@ -29,7 +29,7 @@ The last couple of months have seen a sharp rise in grain volumes from the US, b
 ![Bmr 40](assets/2020-11-22_the-big-picture-north-american-grain-trade_img_bmr40_42b568e4dc0b.png)
 
 > **Figure 1: Bmr 40**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-22_the-big-picture-north-american-grain-trade_img_bmr40_42b568e4dc0b.png)
+> [Local Asset](assets/2020-11-22_the-big-picture-north-american-grain-trade_img_bmr40_42b568e4dc0b.png)
 
 On the other side of the North American continent, we’ve also seen a surge in cargoes being shipped from the US Gulf. October saw exports from this coastline hit 10.5m tonnes, 57% higher YoY and the highest monthly volume since November 2016. Here again the Panamaxes have seen the greatest increase in employment, with exports on these ships up by 61% YoY in October.
 
@@ -44,7 +44,7 @@ But with Brazil’s crop now virtually depleted, US shipments have picked up to 
 ![Bmr 41](assets/2020-11-22_the-big-picture-north-american-grain-trade_img_bmr41_a9c8c5fb36ea.png)
 
 > **Figure 2: Bmr 41**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-22_the-big-picture-north-american-grain-trade_img_bmr41_a9c8c5fb36ea.png)
+> [Local Asset](assets/2020-11-22_the-big-picture-north-american-grain-trade_img_bmr41_a9c8c5fb36ea.png)
 
 The Chinese pig industry’s recovery from the Swine Flu outbreak has driven greater consolidation of farming activity. This industrialisation tends to drive greater use of processed grain for animal feed, and has helped to push demand for imported grains to new highs this year.
 
@@ -53,7 +53,7 @@ US export prices have rallied by 36% since April to a six-year high of $480/tonn
 ![Bmr 42](assets/2020-11-22_the-big-picture-north-american-grain-trade_img_bmr42_220aca7f0515.png)
 
 > **Figure 3: Bmr 42**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-22_the-big-picture-north-american-grain-trade_img_bmr42_220aca7f0515.png)
+> [Local Asset](assets/2020-11-22_the-big-picture-north-american-grain-trade_img_bmr42_220aca7f0515.png)
 
 These healthy conditions bode well for US exporters, and are likely to continue to support seaborne trade in the coming months. The USDA projects soybean shipments over the 2020/21 marketing year (which runs September-August) to reach almost 60m tonnes, a 31% increase on the previous year. We expect volumes over November-December to come in 25% higher YoY, while Q1 2021 is expected to be 38% stronger than Q1 of this year.
 
@@ -68,14 +68,14 @@ According to AIS data, Chinese corn receipts on bulk carriers totalled 1.2m tonn
 ![Bmr 43](assets/2020-11-22_the-big-picture-north-american-grain-trade_img_bmr43_2f88fe4ffa83.png)
 
 > **Figure 4: Bmr 43**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-22_the-big-picture-north-american-grain-trade_img_bmr43_2f88fe4ffa83.png)
+> [Local Asset](assets/2020-11-22_the-big-picture-north-american-grain-trade_img_bmr43_2f88fe4ffa83.png)
 
 While Chinese demand for corn has been stronger than usual, not all suppliers have been able to capitalise. Brazilian shipments have gone to the typical buyers in the Mediterranean, Middle East and some countries in the Far East such as Japan and South Korea. Given that we are now approaching the end of Brazil’s export season, there is little room for increased volumes to China. Meanwhile Ukraine’s corn harvest, half of which tends to be shipped to China, has disappointed this year. Dryness over the summer has led to sharp declines in output and the USDA has slashed its forecasts for 2020/21 exports by 20% to 28.5m tonnes, with the US expected to pick up the slack.
 
 ![Bmr44](assets/2020-11-22_the-big-picture-north-american-grain-trade_img_bmr44_dc7a1a9b1b6d.png)
 
 > **Figure 5: Bmr44**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-22_the-big-picture-north-american-grain-trade_img_bmr44_dc7a1a9b1b6d.png)
+> [Local Asset](assets/2020-11-22_the-big-picture-north-american-grain-trade_img_bmr44_dc7a1a9b1b6d.png)
 
 Based on these projections we expect US corn shipments over Q4 this year to grow by around 70% YoY, with 1H 2021 exports increasing 40% YoY, with volumes heading to many of Ukraine’s usual customers. This boost in tonnes, and voyage durations, should help to bolster Panamax demand over the coming months.
 

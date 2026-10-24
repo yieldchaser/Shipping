@@ -27,7 +27,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-02-22_russia-far-east-fleet
 ![Screenshot 2024 02 22 11.40.11](assets/2024-02-22_russia-far-east-fleet-unconstrained-strong-intra-china-cpp-flows_img_screenshot2024-02-22114011_d8de61b8ee6a.png)
 
 > **Figure 1: Screenshot 2024 02 22 11.40.11**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRa0lLtDyE5Bp9uvFgbqfg_cRquB9gG4IIKNzOfikYRkBUKKleXysD7R8Xlh_pwGIZOA9mZPw=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-22_russia-far-east-fleet-unconstrained-strong-intra-china-cpp-flows_img_screenshot2024-02-22114011_d8de61b8ee6a.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRa0lLtDyE5Bp9uvFgbqfg_cRquB9gG4IIKNzOfikYRkBUKKleXysD7R8Xlh_pwGIZOA9mZPw=) | [Local Asset](assets/2024-02-22_russia-far-east-fleet-unconstrained-strong-intra-china-cpp-flows_img_screenshot2024-02-22114011_d8de61b8ee6a.png)
 
 - The disruption in Sokol cargoes to India in January due to the sanctioning of entities led to issues with accepting payment for the cargoes. Prior to this, Russia Far East grades (ESPO blend, Sokol and Sakhalin blend) lost market share in terms of[tonne-mile demand to India](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRa0lLtDyE5Bp9uvFgbqfg_cRquB9gG4IIKNzOfikYRkBUKKleXysD7R8Xlh_pwGIZOA9mZPw=)beginning late November 2023. For Jan-Nov 2023, Russia Far East grades average tonne-mile share to India was 43%, whereas in Dec 23-Jan 24 this share dropped to 19%. Currently, Russia Far East grades overwhelmingly end up in China.
 
@@ -37,7 +37,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-02-22_russia-far-east-fleet
 ![Screenshot 2024 02 22 11.42.11](assets/2024-02-22_russia-far-east-fleet-unconstrained-strong-intra-china-cpp-flows_img_screenshot2024-02-22114211_c9b0ac33fbc8.png)
 
 > **Figure 2: Screenshot 2024 02 22 11.42.11**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRa0lLtX1l_9Gz8y7O2FL7ovmKCPpXkeP6tI4zy55ykoIDF7MwXODoIYgfMqrsUlrioWxSyHY=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-22_russia-far-east-fleet-unconstrained-strong-intra-china-cpp-flows_img_screenshot2024-02-22114211_c9b0ac33fbc8.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRa0lLtX1l_9Gz8y7O2FL7ovmKCPpXkeP6tI4zy55ykoIDF7MwXODoIYgfMqrsUlrioWxSyHY=) | [Local Asset](assets/2024-02-22_russia-far-east-fleet-unconstrained-strong-intra-china-cpp-flows_img_screenshot2024-02-22114211_c9b0ac33fbc8.png)
 
 - In February, China has witnessed a remarkable upswing in[intra-country CPP flows](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRa0lLtX1l_9Gz8y7O2FL7ovmKCPpXkeP6tI4zy55ykoIDF7MwXODoIYgfMqrsUlrioWxSyHY=)as a direct response to Chinese refiners intensifying fuel production and prioritising domestic supplies to meet the heightened travel demand during the Spring Festival rush.
 
@@ -47,7 +47,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-02-22_russia-far-east-fleet
 ![Screenshot 2024 02 22 11.42.29](assets/2024-02-22_russia-far-east-fleet-unconstrained-strong-intra-china-cpp-flows_img_screenshot2024-02-22114229_6b03e6931081.png)
 
 > **Figure 3: Screenshot 2024 02 22 11.42.29**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRa0lLtHGRkaTJf7waSmMioKFBIlTJSAy-A_p3shXXwbTP4juPGIcKgo5owysXpxzwFP9231k=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-22_russia-far-east-fleet-unconstrained-strong-intra-china-cpp-flows_img_screenshot2024-02-22114229_6b03e6931081.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRa0lLtHGRkaTJf7waSmMioKFBIlTJSAy-A_p3shXXwbTP4juPGIcKgo5owysXpxzwFP9231k=) | [Local Asset](assets/2024-02-22_russia-far-east-fleet-unconstrained-strong-intra-china-cpp-flows_img_screenshot2024-02-22114229_6b03e6931081.png)
 
 - Prompt[Aframax](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRa0lLtHGRkaTJf7waSmMioKFBIlTJSAy-A_p3shXXwbTP4juPGIcKgo5owysXpxzwFP9231k=)and[Suezmax](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRa0lLtMPWKX3K-UbWrEdEGJ6XE9FUmENSWKk1iKAtjubuUjlSvk_0QmypWBKwbWHVstYexBs=)supply in the Mediterranean is relatively high. This is especially notable for Suezmaxes, which are choosing to stay in the Med or Northwest Europe after discharging in Europe instead of going to WAf or the East Coast Americas, where high vessel supply continues to weigh on rates.
 
@@ -57,7 +57,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-02-22_russia-far-east-fleet
 ![Screenshot 2024 02 22 11.42.39](assets/2024-02-22_russia-far-east-fleet-unconstrained-strong-intra-china-cpp-flows_img_screenshot2024-02-22114239_7ae530fe47c0.png)
 
 > **Figure 4: Screenshot 2024 02 22 11.42.39**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRa0lLtCYl3YZbC4gqlB6xPzbNZdy-QT8ZWbJPJ4wJb3jJq3UGPvals2-cxxKCeYLCtXKp-kE=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-22_russia-far-east-fleet-unconstrained-strong-intra-china-cpp-flows_img_screenshot2024-02-22114239_7ae530fe47c0.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRa0lLtCYl3YZbC4gqlB6xPzbNZdy-QT8ZWbJPJ4wJb3jJq3UGPvals2-cxxKCeYLCtXKp-kE=) | [Local Asset](assets/2024-02-22_russia-far-east-fleet-unconstrained-strong-intra-china-cpp-flows_img_screenshot2024-02-22114239_7ae530fe47c0.png)
 
 - Average mileage for tankers carrying Russian diesel declined about 7% in January and February compared to December 2023. This is largely due to an increase in MEG-origin[diesel exports to Brazil](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGRa0lLtCYl3YZbC4gqlB6xPzbNZdy-QT8ZWbJPJ4wJb3jJq3UGPvals2-cxxKCeYLCtXKp-kE=)and the drastic decline in Russia’s diesel exports to Brazil in January, down 48% m-o-m. Russian exports to Brazil have increased in H1 February but are still down 35% compared to Dec-23.
 

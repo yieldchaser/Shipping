@@ -39,7 +39,7 @@ The window ran three weeks. By the end of July, the pile stood at **46.0 million
 
 > **Figure 1: Iranian-Linked Crude in Floating Storage in Asian Waters, Monthly**  
 > *Figure 1: Iranian-linked crude in floating storage in Asian waters, monthly. Shaded band: the June to July policy window.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-irans-bottleneck-is-hormuz-not-the-buyer) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a8d80fac4c6a75311681edd_2c3f3585.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-irans-bottleneck-is-hormuz-not-the-buyer) | [Local Asset](../../images/6a8d80fac4c6a75311681edd_2c3f3585.png)
 
 
 ## The Region Emptied Around It
@@ -51,7 +51,7 @@ What makes the Iranian build stand out is that it ran against the tide. Asia's t
 
 > **Figure 2: Crude Oil in Transit & Crude Oil Floating in Apac Region**  
 > *Figure 2: Crude oil in transit & crude oil floating in APAC region*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-irans-bottleneck-is-hormuz-not-the-buyer) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a8d80fac4c6a75311681ee9_4bfd10cc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-irans-bottleneck-is-hormuz-not-the-buyer) | [Local Asset](../../images/6a8d80fac4c6a75311681ee9_4bfd10cc.png)
 
 Two months break the pattern and they belong together. July is a surge in cargo moving, up 22.4% on June and the busiest month since February. August gives all of it back. Barrels moved, then they stopped moving.
 
@@ -65,7 +65,7 @@ Divide crude into floating storage and in transit and you get a rough measure of
 
 > **Figure 3: : Ratio of Crude in Floating Storage to Crude in Transit, by Month, in Apac.**  
 > *Figure 3 : Ratio of crude in floating storage to crude in transit, by month, in APAC.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-irans-bottleneck-is-hormuz-not-the-buyer) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a8d80fac4c6a75311681ee0_ce4abb9c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-irans-bottleneck-is-hormuz-not-the-buyer) | [Local Asset](../../images/6a8d80fac4c6a75311681ee0_ce4abb9c.png)
 
 The number itself is not unprecedented. January 2023 printed higher than any month of 2026 and reverted within weeks. What is new is that it took longer to revert. Eight of the eleven months since October 2025 have printed at or above 0.61; one month in the previous thirty-three did. And the fourth quarter of 2025 averaged 0.63 the same as for the eight months of 2026.
 
@@ -81,7 +81,7 @@ The fleet tells the same story as the volumes, and it tells it the whole way alo
 
 > **Figure 4: : Iranian Crude in Floating Storage in Apac by Vessel Size.**  
 > *Figure 4 : Iranian crude in floating storage in APAC by vessel size.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-irans-bottleneck-is-hormuz-not-the-buyer) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a8d80fac4c6a75311681ee3_06e97c2a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-irans-bottleneck-is-hormuz-not-the-buyer) | [Local Asset](../../images/6a8d80fac4c6a75311681ee3_06e97c2a.png)
 
 
 ## August Looks Like a Stoppage. It Is Not One.
@@ -105,7 +105,7 @@ Which points to the reading that ties the year together. Iranian crude floating 
 
 > **Figure 5: : Iranian Crude in Floating Storage in Apac by Region.**  
 > *Figure 5 : Iranian crude in floating storage in APAC by region.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-irans-bottleneck-is-hormuz-not-the-buyer) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a8d80fac4c6a75311681ee6_28a4edc2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-irans-bottleneck-is-hormuz-not-the-buyer) | [Local Asset](../../images/6a8d80fac4c6a75311681ee6_28a4edc2.png)
 
 August is the part worth stopping on. Chinese-zone holdings fell 45%, from 16.3 million barrels to 9.0, while the Malacca hub grew 6%. That is what discharge looks like in this dataset, and it is the first clear instance of it all year.
 

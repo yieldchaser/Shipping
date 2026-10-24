@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-12-11_keep-rollin.html"
 ![Tanker (1)](assets/2024-12-11_keep-rollin_img_tanker28129_55391d7a4915.jpg)
 
 > **Figure 1: Tanker (1)**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-11_keep-rollin_img_tanker28129_55391d7a4915.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-12-11_keep-rollin_img_tanker28129_55391d7a4915.jpg)
 
 Last week OPEC+ made the seemingly inevitable decision to roll over production cuts for another 3 months, acknowledging that the current fundamentals do not allow for additional OPEC+ production. In fact, with the fundamentals suggesting a well-supplied market for 2025, the group further slowed the pace of production increases.
 
@@ -38,7 +38,7 @@ So, what does this mean for tankers? Overall, perhaps not a lot. Given the oil s
 ![Στιγμιότυπο Οθόνης 2024 12 11 095120](assets/2024-12-11_keep-rollin_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c182f45a1e2.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 12 11 095120**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-11_keep-rollin_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c182f45a1e2.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-12-11_keep-rollin_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c182f45a1e2.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

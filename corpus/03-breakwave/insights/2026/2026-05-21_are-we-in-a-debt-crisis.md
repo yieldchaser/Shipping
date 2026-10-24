@@ -41,21 +41,21 @@ Even as global equity markets remain at or near all-time highs, global debt mark
 ![Market Chart 1](assets/2026-05-21_are-we-in-a-debt-crisis_img_image002_080459469d92.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-21_are-we-in-a-debt-crisis_img_image002_080459469d92.png)
+> [Local Asset](assets/2026-05-21_are-we-in-a-debt-crisis_img_image002_080459469d92.png)
 
 Borrowing costs have been moving higher, with US, UK and Japanese long bonds reaching multi-year levels.
 
 ![Market Chart 2](assets/2026-05-21_are-we-in-a-debt-crisis_img_image003_fe0868f9c128.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-21_are-we-in-a-debt-crisis_img_image003_fe0868f9c128.png)
+> [Local Asset](assets/2026-05-21_are-we-in-a-debt-crisis_img_image003_fe0868f9c128.png)
 
 As global inflation now becomes a threat, following nearly three months of the Strait of Hormuz closure, bond markets are, expectedly, convulsing. The situation got worse last week, as US producer prices rose by 6% for the year to April, more than 1% above expectations. US goods and European services inflation has been noticeably picking up in the past few months.
 
 ![Market Chart 3](assets/2026-05-21_are-we-in-a-debt-crisis_img_image010_78b969c6f0d7.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-21_are-we-in-a-debt-crisis_img_image010_78b969c6f0d7.png)
+> [Local Asset](assets/2026-05-21_are-we-in-a-debt-crisis_img_image010_78b969c6f0d7.png)
 
 Markets were hoping that the Xi-Trump meet would offer some resolution in Iran, and were disappointed when it didn’t.
 
@@ -66,7 +66,7 @@ We believe that historic return and volatility of bonds should be viewed with a 
 ![Market Chart 4](assets/2026-05-21_are-we-in-a-debt-crisis_img_image011_3806824f3d31.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-21_are-we-in-a-debt-crisis_img_image011_3806824f3d31.png)
+> [Local Asset](assets/2026-05-21_are-we-in-a-debt-crisis_img_image011_3806824f3d31.png)
 
 We aren’t in a credit crisis to be sure. Credit crises don’t occur in a vacuum. They happen when institutions (central banks, governments etc, materially misbehave or fundamentally weaken, as Greece found out after announcing a 15% deficit in 2009, five times more than previously estimated.
 
@@ -79,7 +79,7 @@ Our own 3D framework (Debt, Disruption, Deregulation) suggests that a significan
 ![Market Chart 5](assets/2026-05-21_are-we-in-a-debt-crisis_img_image012_26687962ad6c.png)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-21_are-we-in-a-debt-crisis_img_image012_26687962ad6c.png)
+> [Local Asset](assets/2026-05-21_are-we-in-a-debt-crisis_img_image012_26687962ad6c.png)
 
 The global debt market’s size is at nearly $345tn. The bond market alone accounts for $145tn, almost as large as the global equity market ($160tn). Total debt (private and public) exceeds 300% of annual GDP globally. In the US, the world’s largest economy, annual debt interest payments of 4% mean that for every $6 of nominal GDP, $4, two-thirds, go towards debt repayment. At nearly $1tn for 2026, US interest payments have nearly tripled since 2020. In China, the world’s second-largest economy, public debt alone is set to double in a little over a decade. From 60% in 2019 to 126% by 2031. And we really have no idea what the levels of internal debt (provinces to central government) are, as credible numbers are not published.
 

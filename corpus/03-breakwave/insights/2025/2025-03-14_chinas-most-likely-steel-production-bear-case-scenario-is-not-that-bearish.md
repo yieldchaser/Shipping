@@ -27,7 +27,7 @@ As we have been discussing in client updates throughout this month, it remains t
 ![Chart](assets/2025-03-14_chinas-most-likely-steel-production-bear-case-scenario-is-not-that-bearish_img_chart_a706d709752b.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-14_chinas-most-likely-steel-production-bear-case-scenario-is-not-that-bearish_img_chart_a706d709752b.jpg)
+> [Local Asset](assets/2025-03-14_chinas-most-likely-steel-production-bear-case-scenario-is-not-that-bearish_img_chart_a706d709752b.jpg)
 
 For now, China’s steel output is actually on pace to grow this year by around 50 million tons. We believe that a 50 million ton decline is highly unlikely — and if anything, steel output ending flat and/or down very slightly this year is the most likely bear-case scenario.
 

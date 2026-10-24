@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-03-09_middle-east-mayhem.ht
 ![Istock 1250195413 500x333](assets/2026-03-09_middle-east-mayhem_img_istock-1250195413-500x333_f55c3a1f1139.jpg)
 
 > **Figure 1: Istock 1250195413 500x333**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-09_middle-east-mayhem_img_istock-1250195413-500x333_f55c3a1f1139.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-03-09_middle-east-mayhem_img_istock-1250195413-500x333_f55c3a1f1139.jpg)
 
 The first week of the US-Israel military campaign against Iran has drawn to a close, but what happens in the weeks to come remains extremely uncertain. The war has triggered a global energy shipping crisis of epic proportions, with cascading effects across oil markets, tanker freight, and petrochemical supply chains.
 
@@ -38,7 +38,7 @@ The combined effect has pushed freight rates across many routes to record levels
 ![Στιγμιότυπο Οθόνης 2026 03 09 095714](assets/2026-03-09_middle-east-mayhem_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0c872dea8083.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 03 09 095714**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-09_middle-east-mayhem_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0c872dea8083.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-03-09_middle-east-mayhem_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0c872dea8083.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

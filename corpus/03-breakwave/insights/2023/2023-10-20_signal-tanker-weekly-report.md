@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-10-20_signal-tanker-weekly-
 ![Market Chart 1](assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t121418840_8dc863c69409.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t121418840_8dc863c69409.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t121418840_8dc863c69409.png)
 
 The third week of October saw a noticeable improvement in market sentiment in the crude oil freight sector. At the same time, we have observed an increase of rates in the clean tanker segment.
 This upswing can be attributed to the new geopolitical crisis between Iran and Israel, which has led to a significant level of uncertainty in the oil market. As a result, oil prices have risen noticeably, affecting crude oil freight rates.
@@ -48,7 +48,7 @@ Market Rates (WS)
 ![‘Dirty’ Ws​vlcc - Suezmax - Aframax Firmer](assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t121655627_5bfe7461630e.png)
 
 > **Figure 2: ‘Dirty’ Ws​vlcc - Suezmax - Aframax Firmer**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t121655627_5bfe7461630e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t121655627_5bfe7461630e.png)
 
 ​​​​The crude freight market sentiment posed a significant upturn from the beginning of the third week of October with an increase that seems to hold as we are in a geopolitical spike.
 
@@ -59,14 +59,14 @@ Market Rates (WS)
 ![‘Product’ Wslr2 Firmer](assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t121919964_fd4bbad96e17.png)
 
 > **Figure 3: ‘Product’ Wslr2 Firmer**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t121919964_fd4bbad96e17.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t121919964_fd4bbad96e17.png)
 
 - LR2 AG freight rates rose to 160 WS, up 9% in one month and up 90% from the record low in week 28.
 
 ![PANAMAX (Sentiment: Firmer)](assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t122123881_c61989a75a05.png)
 
 > **Figure 4: PANAMAX (Sentiment: Firmer)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t122123881_c61989a75a05.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t122123881_c61989a75a05.png)
 
 - Panamax Carib-to-USG rates recorded the first increase since the end of week 27, reaching 200 WS, 56% more than a month ago.
 
@@ -76,7 +76,7 @@ Market Rates (WS)
 
 > **Figure 5: 'Dirty' (#Vessels) - Mixed**  
 > *'Dirty' (#vessels) - Mixed*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t122251727_13699cd83d80.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t122251727_13699cd83d80.png)
 
 - MR1 rates for the Baltic continent rose to WS 290, up 60% from a month ago.
 
@@ -87,7 +87,7 @@ Market Rates (WS)
 !['Dirty' (#Vessels) - Mixed](assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t122547177_b06c9256566e.png)
 
 > **Figure 6: 'Dirty' (#Vessels) - Mixed**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t122547177_b06c9256566e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t122547177_b06c9256566e.png)
 
 The supply trend for the Ras Tanura VLCC showed a significant downward trend since the end of week 40, while the downward correction for the Suezmax Wafr was even stronger.
 
@@ -99,12 +99,12 @@ The supply trend for the Ras Tanura VLCC showed a significant downward trend sin
 !['Clean'lr2 (#Vessels) - Decreasing](assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t122939524_cb84025da925.png)
 
 > **Figure 7: 'Clean'lr2 (#Vessels) - Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t122939524_cb84025da925.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t122939524_cb84025da925.png)
 
 ![MR1 (#Vessels) - Decreasing](assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t123025133_729ae16ccb82.png)
 
 > **Figure 8: MR1 (#Vessels) - Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t123025133_729ae16ccb82.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t123025133_729ae16ccb82.png)
 
 - Clean LR2 AG Jubail: The number of recorded ships has maintained the previous week's decrease of 4, which is 8 less than the average for the year.
 
@@ -115,14 +115,14 @@ The supply trend for the Ras Tanura VLCC showed a significant downward trend sin
 ![​​‘Dirty’ Decreasing](assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t123315135_9afca7d2d86d.png)
 
 > **Figure 9: ​​‘Dirty’ Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t123315135_9afca7d2d86d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t123315135_9afca7d2d86d.png)
 
 - Dirty tonne days: The picture remained negative in all crude tanker categories, with a slight increase in Suezmax vessels, but the overall demand outlook continues to weaken.
 
 ![‘Clean’ Decreasing](assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t123413813_afd0797dbad0.png)
 
 > **Figure 10: ‘Clean’ Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t123413813_afd0797dbad0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-10-20_signal-tanker-weekly-report_img_unnamed-2023-10-20t123413813_afd0797dbad0.png)
 
 - Panamax tonne days: The growth rate has continued to decline since the end of the 39th week, reaching one of the lowest levels since the beginning of this year.
 

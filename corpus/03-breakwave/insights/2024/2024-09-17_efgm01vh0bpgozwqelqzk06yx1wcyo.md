@@ -63,7 +63,7 @@ The downward trend during the past few weeks suggests that the spot trade's carg
 ![Στιγμιότυπο Οθόνης 2024 09 17 132024](assets/2024-09-17_efgm01vh0bpgozwqelqzk06yx1wcyo_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_02a87ba8b479.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 17 132024**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-17_efgm01vh0bpgozwqelqzk06yx1wcyo_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_02a87ba8b479.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-09-17_efgm01vh0bpgozwqelqzk06yx1wcyo_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_02a87ba8b479.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

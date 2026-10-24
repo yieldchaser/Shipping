@@ -54,6 +54,6 @@ Yesterday’s strong performance for the Baltic Exchange’s Capesize index has 
 ![Market Chart 1](assets/2022-12-08_shipfix-global-market-update_img_unnamed-2022-12-08t140724844_468a5b9219b3.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-08_shipfix-global-market-update_img_unnamed-2022-12-08t140724844_468a5b9219b3.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-12-08_shipfix-global-market-update_img_unnamed-2022-12-08t140724844_468a5b9219b3.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

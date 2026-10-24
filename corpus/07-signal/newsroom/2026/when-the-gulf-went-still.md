@@ -48,7 +48,7 @@ At the upper end, four standard Capesize bulkers in the 170–180K dwt range wer
 ![The Size Picture](../../images/69d6243e469d30e7450ed309_3572c84e.png)
 
 > **Figure 1: The Size Picture**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/when-the-gulf-went-still) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69d6243e469d30e7450ed309_3572c84e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/when-the-gulf-went-still) | [Local Asset](../../images/69d6243e469d30e7450ed309_3572c84e.png)
 
 
 ## What Was Locked Inside
@@ -59,7 +59,7 @@ Vessel counts give a sense of scale. Cargo volumes tell the supply chain story. 
 ![What Was Locked Inside](../../images/69d6243e469d30e7450ed312_9a495975.png)
 
 > **Figure 2: What Was Locked Inside**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/when-the-gulf-went-still) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69d6243e469d30e7450ed312_9a495975.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/when-the-gulf-went-still) | [Local Asset](../../images/69d6243e469d30e7450ed312_9a495975.png)
 
 The grain and fertilizer figures deserve particular attention, because they are time-sensitive in a way that bulk minerals and steel are not. The 1.2 million MT of grain cargoes trapped inside the Gulf — predominantly corn — represent delayed deliveries to import markets in South and Southeast Asia at a moment in the calendar when agricultural buyers are building pre-season stocks. The roughly 834,000 MT of fertilizers, largely urea with smaller phosphate volumes, arrived at Hormuz just as Northern Hemisphere farmers were approaching spring application windows. Delay in both cases does not simply push a shipment back by a week — it can compress or disrupt input supply chains with consequences that extend well beyond the port gate.
 
@@ -89,7 +89,7 @@ The most violent 24-hour period of the month. The Thai-flagged bulk carrier MAYU
 ![A Trickle, Not a Flow](../../images/69d6243e469d30e7450ed30c_be757515.png)
 
 > **Figure 3: A Trickle, Not a Flow**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/when-the-gulf-went-still) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69d6243e469d30e7450ed30c_be757515.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/when-the-gulf-went-still) | [Local Asset](../../images/69d6243e469d30e7450ed30c_be757515.png)
 
 The container ship ONE MAJESTY sustains minor damage above the waterline near Ras Al Khaimah. Separately, near Basra, two tankers — SAFESEA VISHNU and ZEFYROS — are struck by Iranian sea drones while conducting a ship-to-ship transfer of naphtha; both vessels are engulfed in flames. One Indian crew member aboard SAFESEA VISHNU is killed. Seven vessels successfully transit the Strait in the same 48-hour window. Trapped fleet reaches its peak: 1,062.
 
@@ -135,7 +135,7 @@ What was different in March 2026 was the scale of outright signal loss. In the c
 ![When the Signal Disappears](../../images/69d6243e469d30e7450ed30f_241a621c.png)
 
 > **Figure 4: When the Signal Disappears**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/when-the-gulf-went-still) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69d6243e469d30e7450ed30f_241a621c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/when-the-gulf-went-still) | [Local Asset](../../images/69d6243e469d30e7450ed30f_241a621c.png)
 
 
 ## The Longer Imprint
@@ -152,7 +152,7 @@ The fertilizer question is the one worth watching most carefully. Roughly 834,00
 ![The Longer Imprint](../../images/69d6243e469d30e7450ed315_ead7c239.png)
 
 > **Figure 5: The Longer Imprint**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/when-the-gulf-went-still) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69d6243e469d30e7450ed315_ead7c239.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/when-the-gulf-went-still) | [Local Asset](../../images/69d6243e469d30e7450ed315_ead7c239.png)
 
 By 27 March, the situation had become urgent enough that Iran agreed to a UN request to exempt humanitarian aid and agricultural shipments from the transit restrictions — the first substantive breakthrough at the chokepoint in nearly a month. The UN Secretary-General had appointed a personal envoy specifically to negotiate the restoration of fertilizer flows, framing the issue as a systemic risk to global food production. Whether that exemption holds, widens, or collapses under the pressure of the wider conflict remains to be seen. But its very existence confirms what AXSMarine's cargo data had signalled weeks earlier: the 834,000 MT of fertilizer stranded west of Hormuz was not a shipping statistic. It was a food security problem in transit.
 

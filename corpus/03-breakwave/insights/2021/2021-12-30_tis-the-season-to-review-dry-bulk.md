@@ -27,7 +27,7 @@ In any case, 2021 has offered an admittedly interesting ride for dry bulk stakeh
 ![Ch1](assets/2021-12-30_tis-the-season-to-review-dry-bulk_img_ch1_4e50b3fae039.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-30_tis-the-season-to-review-dry-bulk_img_ch1_4e50b3fae039.png)
+> [Local Asset](assets/2021-12-30_tis-the-season-to-review-dry-bulk_img_ch1_4e50b3fae039.png)
 
 ### A Sweet and Sour Cocktail for Iron Ore
 
@@ -44,7 +44,7 @@ On the other end, China’s struggling property sector and the indebted giant Ev
 ![A1](assets/2021-12-30_tis-the-season-to-review-dry-bulk_img_a1_c9ed662c037f.png)
 
 > **Figure 2: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-30_tis-the-season-to-review-dry-bulk_img_a1_c9ed662c037f.png)
+> [Local Asset](assets/2021-12-30_tis-the-season-to-review-dry-bulk_img_a1_c9ed662c037f.png)
 
 ### Coal Riding a Bull
 
@@ -61,7 +61,7 @@ And although China has set the ambitious net zero target by 2060, current realit
 ![A2](assets/2021-12-30_tis-the-season-to-review-dry-bulk_img_a2_590177d75053.png)
 
 > **Figure 3: A2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-30_tis-the-season-to-review-dry-bulk_img_a2_590177d75053.png)
+> [Local Asset](assets/2021-12-30_tis-the-season-to-review-dry-bulk_img_a2_590177d75053.png)
 
 ### Grain Gains
 
@@ -76,7 +76,7 @@ Brazil expects to have an early harvest next year which can mean grain cargoes w
 ![Ch4](assets/2021-12-30_tis-the-season-to-review-dry-bulk_img_ch4_e7b73ac7de11.png)
 
 > **Figure 4: Ch4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-30_tis-the-season-to-review-dry-bulk_img_ch4_e7b73ac7de11.png)
+> [Local Asset](assets/2021-12-30_tis-the-season-to-review-dry-bulk_img_ch4_e7b73ac7de11.png)
 
 ### High Volatility the Theme for 2022
 

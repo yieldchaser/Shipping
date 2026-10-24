@@ -60,6 +60,6 @@ The recent weakness in cargo ordering activities has also brought an end, at lea
 ![Market Chart 1](assets/2023-05-12_shipfix-global-market-update_img_unnamed-2023-05-12t110853798_1079ae745b00.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-12_shipfix-global-market-update_img_unnamed-2023-05-12t110853798_1079ae745b00.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2023-05-12_shipfix-global-market-update_img_unnamed-2023-05-12t110853798_1079ae745b00.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

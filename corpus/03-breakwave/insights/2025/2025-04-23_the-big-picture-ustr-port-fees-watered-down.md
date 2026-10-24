@@ -37,7 +37,7 @@ Maybe all will be revealed in time. Or maybe the US simply isn't that fussed, so
 ![C410 Image 0 1745342225017](assets/2025-04-23_the-big-picture-ustr-port-fees-watered-down_img_c410-image-0-1745342225017_59bd4048b32a.png)
 
 > **Figure 1: C410 Image 0 1745342225017**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-23_the-big-picture-ustr-port-fees-watered-down_img_c410-image-0-1745342225017_59bd4048b32a.png)
+> [Local Asset](assets/2025-04-23_the-big-picture-ustr-port-fees-watered-down_img_c410-image-0-1745342225017_59bd4048b32a.png)
 
 ### The Plan
 
@@ -62,14 +62,14 @@ For Chinese-built ships:
 ![014a Image 1 1745342225019](assets/2025-04-23_the-big-picture-ustr-port-fees-watered-down_img_014a-image-1-1745342225019_c8c281ea518c.png)
 
 > **Figure 2: 014a Image 1 1745342225019**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-23_the-big-picture-ustr-port-fees-watered-down_img_014a-image-1-1745342225019_c8c281ea518c.png)
+> [Local Asset](assets/2025-04-23_the-big-picture-ustr-port-fees-watered-down_img_014a-image-1-1745342225019_c8c281ea518c.png)
 
 Fees are assessed at the vessel’s first US port call. Fees are assessed once per rotation or string of US port calls, up to a maximum of five times per year per vessel.
 
 ![8108 Image 2 1745342225021](assets/2025-04-23_the-big-picture-ustr-port-fees-watered-down_img_8108-image-2-1745342225021_39918f3de580.png)
 
 > **Figure 3: 8108 Image 2 1745342225021**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-23_the-big-picture-ustr-port-fees-watered-down_img_8108-image-2-1745342225021_39918f3de580.png)
+> [Local Asset](assets/2025-04-23_the-big-picture-ustr-port-fees-watered-down_img_8108-image-2-1745342225021_39918f3de580.png)
 
 ---
 

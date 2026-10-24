@@ -39,7 +39,7 @@ Missing image: https://images.squarespace-cdn.com/content/v1/5a4d1d26e5dd5b537a6
 ![Στιγμιότυπο Οθόνης 2026 03 29 191155](assets/2026-03-30_impact-of-an-unexpected-oil-price-increase_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9325b70f1d55.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 03 29 191155**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-30_impact-of-an-unexpected-oil-price-increase_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9325b70f1d55.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2026-03-30_impact-of-an-unexpected-oil-price-increase_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9325b70f1d55.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

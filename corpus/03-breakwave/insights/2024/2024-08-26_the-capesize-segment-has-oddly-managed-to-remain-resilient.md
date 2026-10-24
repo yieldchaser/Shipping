@@ -33,7 +33,7 @@ In this context, China's Real Estate Climate Index, a key measure of industry he
 ![Στιγμιότυπο Οθόνης 2024 08 26 100849](assets/2024-08-26_the-capesize-segment-has-oddly-managed-to-remain-resilient_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_84d254c01fee.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 08 26 100849**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-26_the-capesize-segment-has-oddly-managed-to-remain-resilient_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_84d254c01fee.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-08-26_the-capesize-segment-has-oddly-managed-to-remain-resilient_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_84d254c01fee.png)
 
 The real estate sector's woes have had a ripple effect on related industries, particularly steel and iron ore. Last week, iron ore prices fell to their lowest levels in over a year, driven by weakening demand from China's steel industry. The market for steel products has been hit hard, with prices for some items falling to multi-year lows. This decline has been exacerbated by new regulations requiring the adoption of updated steel standards, further depressing prices in a market already reeling from the property sector's prolonged downturn. Iron ore prices for delivery to Qingdao have fallen below the critical $100 per tonne threshold, a level at which high-cost production becomes unprofitable, according to Argus data. Prices have struggled to maintain any significant upward momentum, despite the approaching peak construction season, which typically boosts demand. On Friday, iron ore futures experienced a slight weekly increase, with the most-traded January contract on China's Dalian Commodity Exchange rising by 1.8 percent week-on-week. However, these gains are set against a backdrop of a 23.2 percent decline since the start of the year.
 
@@ -42,7 +42,7 @@ The sharp drop in iron ore prices has had significant implications for the world
 ![Στιγμιότυπο Οθόνης 2024 08 26 101257](assets/2024-08-26_the-capesize-segment-has-oddly-managed-to-remain-resilient_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5c27d14c5741.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 08 26 101257**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-26_the-capesize-segment-has-oddly-managed-to-remain-resilient_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5c27d14c5741.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-08-26_the-capesize-segment-has-oddly-managed-to-remain-resilient_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5c27d14c5741.png)
 
 Sentiment in the steel market has been further dampened by a stark warning from China’s Baowu Steel Group, the world’s largest steel producer. Baowu's chairman, Hu Wangming, cautioned that the current downturn in China's steel industry would likely be longer and more severe than previously anticipated. He described the ongoing crisis as a "winter" for the industry, one that is "longer, colder, and more difficult" than earlier downturns. Unlike previous economic slowdowns, which were often mitigated by government stimulus measures, the current challenges in China's property market have proven more resistant to such interventions.
 

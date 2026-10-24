@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-01-27_capes-are-holding-up.
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-27_capes-are-holding-up_img_unsplash-image-hionj4jdlz0_3a43ed6caba9.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](assets/2026-01-27_capes-are-holding-up_img_unsplash-image-hionj4jdlz0_3a43ed6caba9.jpg)
 
 China’s dry bulk market usually fades into the Lunar New Year, yet the first three weeks of 2026 are doing the opposite: volumes are firmer year on year, tonne-miles are improving, and freight is refusing to “switch off”. That matters for the S&P market because liquidity follows confidence, and confidence follows cargo.
 

@@ -29,7 +29,7 @@ The pullback deepened after Israel and Iran agreed to a ceasefire, bringing a tw
 ![Στιγμιότυπο Οθόνης 2025 06 30 102951](assets/2025-06-30_fragility-beneath-apparent-stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1bb7e5736b93.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 06 30 102951**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-30_fragility-beneath-apparent-stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1bb7e5736b93.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-06-30_fragility-beneath-apparent-stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1bb7e5736b93.png)
 
 This sense of balance – if not complacency – has also characterized the iron ore market, where prices have remained tightly rangebound. Since early June, the benchmark price has oscillated between $91 and $95 per tonne, reflecting a market caught between weak Chinese construction demand and consistent restocking activity from processors and traders. The near-term picture remains one of stasis, with little to disrupt the current equilibrium. Yet beneath the surface, questions are mounting about the sustainability of Chinese steel production in the second half of the year. The outcome will hinge on a delicate interplay between policy direction, the pace of real estate stabilization, and seasonal supply-side variables such as weather-related disruptions in major exporting regions.
 
@@ -44,7 +44,7 @@ Looking across markets, a shared theme emerges: fragility beneath apparent stabi
 ![Στιγμιότυπο Οθόνης 2025 06 30 103012](assets/2025-06-30_fragility-beneath-apparent-stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_48cc93f9c940.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 06 30 103012**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-30_fragility-beneath-apparent-stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_48cc93f9c940.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-06-30_fragility-beneath-apparent-stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_48cc93f9c940.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

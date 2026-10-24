@@ -37,7 +37,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-03-02_vlcc-second-hand-pric
 ![Στιγμιότυπο Οθόνης 2026 03 02 120616](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b30a6355e19e.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 03 02 120616**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/-refineries-2873859-2026-02-25/2rwkyc/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b30a6355e19e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/-refineries-2873859-2026-02-25/2rwkyc/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b30a6355e19e.png)
 
 ### Secondhand Values Repriced
 
@@ -52,7 +52,7 @@ Similarly, older units have experienced substantial growth. A ten-year-old vesse
 ![Market Chart 2](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed281729_7d70bd0f0a9d.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/-refineries-2873859-2026-02-25/2rwkyc/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed281729_7d70bd0f0a9d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/-refineries-2873859-2026-02-25/2rwkyc/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed281729_7d70bd0f0a9d.png)
 
 ### Age Discount Tightening
 
@@ -73,7 +73,7 @@ After several years of restrained ordering driven by regulatory uncertainty and 
 ![Market Chart 3](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed281829_5577af79b21d.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/er-market-monitor-week-07-2026/2rwkyn/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed281829_5577af79b21d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/er-market-monitor-week-07-2026/2rwkyn/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed281829_5577af79b21d.png)
 
 ### Rally and Ordering Risk
 
@@ -88,12 +88,12 @@ The Baltic Dirty Tanker Index has reached a new historical high, exceeding 1,900
 ![Στιγμιότυπο Οθόνης 2026 03 02 121532](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b50900a3095d.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2026 03 02 121532**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/er-market-monitor-week-07-2026/2rwkyn/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b50900a3095d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/er-market-monitor-week-07-2026/2rwkyn/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b50900a3095d.png)
 
 ![Market Chart 5](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed281929_7e30e58d2de0.png)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/er-market-monitor-week-07-2026/2rwkyn/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed281929_7e30e58d2de0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/er-market-monitor-week-07-2026/2rwkyn/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed281929_7e30e58d2de0.png)
 
 ## Dirty Tce$/day
 
@@ -102,7 +102,7 @@ The Baltic Dirty Tanker Index has reached a new historical high, exceeding 1,900
 ![VLCC | Suezmax | Aframax ↑](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282029_4d1cc1b16c6f.png)
 
 > **Figure 6: VLCC | Suezmax | Aframax ↑**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/er-market-monitor-week-07-2026/2rwkyn/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282029_4d1cc1b16c6f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/er-market-monitor-week-07-2026/2rwkyn/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282029_4d1cc1b16c6f.png)
 
 Before the month's end, the freight market has reached elevated levels. Specifically, the Time Charter Equivalent (TCE) for VLCCs on the Middle East Gulf-to-China route has surged past the $200,000/day threshold, marking a substantial year-over-year increase of over 440%. This recent rally marks a reversal of the easing sentiment noted in our last[**Tanker Market Monitor**](https://go.signalocean.com/e/983831/er-market-monitor-week-07-2026/2rwkyn/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ), at which time the TD3C-TCE was hovering above $120k/d.
 
@@ -119,12 +119,12 @@ Baltic Clean Tanker Index (+23% YoY). Although the index has stayed below 900 po
 ![Market Chart 7](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282129_f5258e093244.png)
 
 > **Figure 7: Market Chart 7**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/er-market-monitor-week-07-2026/2rwkyn/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282129_f5258e093244.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/er-market-monitor-week-07-2026/2rwkyn/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282129_f5258e093244.png)
 
 ![Market Chart 8](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282229_a618805ddd30.png)
 
 > **Figure 8: Market Chart 8**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/er-market-monitor-week-07-2026/2rwkyn/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282229_a618805ddd30.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/er-market-monitor-week-07-2026/2rwkyn/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282229_a618805ddd30.png)
 
 ## Clean Tce$/day
 
@@ -135,7 +135,7 @@ TC1 75k Middle East Gulf to Japan | TC5 55k Middle East Gulf to Japan | TC14 38k
 ![Market Chart 9](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282329_5577ab1ac6f4.png)
 
 > **Figure 9: Market Chart 9**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/er-market-monitor-week-07-2026/2rwkyn/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282329_5577ab1ac6f4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/er-market-monitor-week-07-2026/2rwkyn/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282329_5577ab1ac6f4.png)
 
 The clean segment is concluding the final week of February with a clear upward momentum. The MR USG to Continent route remains the top performer in terms of year-on-year growth, as highlighted in our previous[**Tanker Market Monitor**](https://go.signalocean.com/e/983831/er-market-monitor-week-07-2026/2rwkyn/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ). Earnings on this route are up 530% annually, with sentiment around $36k/d. Strong annual gains were also seen in the Middle East Gulf to Japan routes: LR2 rates rose by 100% to approximately $46k/d, and LR1 rates were up 80% to $30k/d.
 
@@ -154,12 +154,12 @@ The spike in the availability of spot/relet vessels on the TD15 route has now dr
 ![West Africa:](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282429_483ec1503967.png)
 
 > **Figure 10: West Africa:**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/er-market-monitor-week-07-2026/2rwkyn/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282429_483ec1503967.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/er-market-monitor-week-07-2026/2rwkyn/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282429_483ec1503967.png)
 
 ![Market Chart 11](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282529_27237d3a64a1.png)
 
 > **Figure 11: Market Chart 11**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/er-market-monitor-week-07-2026/2rwkyn/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282529_27237d3a64a1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/er-market-monitor-week-07-2026/2rwkyn/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282529_27237d3a64a1.png)
 
 ## Suezmax | Wafr
 
@@ -168,7 +168,7 @@ Spot/relet vessels on the TD20 route reversed the upward trend recorded in our l
 ![Signal Ocean Platform](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282629_18c610805063.png)
 
 > **Figure 12: Signal Ocean Platform**  
-> **Interactive Data & Source:** [Signal Ocean Dynamic Timeseries](https://go.signalocean.com/e/983831/nker-dynamic-timeseries-tanker/2rwkyv/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282629_18c610805063.png)
+> **Interactive Data & Source:** [Signal Ocean Dynamic Timeseries](https://go.signalocean.com/e/983831/nker-dynamic-timeseries-tanker/2rwkyv/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282629_18c610805063.png)
 
 ## Dirty Demand (Tonne Miles) | 7d Ma - Index View
 
@@ -178,7 +178,7 @@ Spot/relet vessels on the TD20 route reversed the upward trend recorded in our l
 
 > **Figure 13: Metrics Description:index View(base 100) by Total Tonne Miles**  
 > *Metrics Description:Index View(Base 100) by total Tonne Miles over the selected period. This facilitates relative performance comparisons between segments of different sizes (e.g., comparing the growth rate of VLCC vs Suezmax).*  
-> **Interactive Data & Source:** [Signal Ocean Dynamic Timeseries](https://go.signalocean.com/e/983831/nker-dynamic-timeseries-tanker/2rwkyv/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282729_0ac8de428e66.png)
+> **Interactive Data & Source:** [Signal Ocean Dynamic Timeseries](https://go.signalocean.com/e/983831/nker-dynamic-timeseries-tanker/2rwkyv/582513598/h/bg0Z7mwdDoYIZjJdKgd1aWfC_mu1GPuKnAqpN7_Q_LQ) | [Local Asset](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282729_0ac8de428e66.png)
 
 The tonne-mile indices for all dirty tanker segments softened during the week. VLCCs continued to trail the other segments, with its index dropping 1.9 percentage points (ppts) to 96.3% from 98.2%, remaining below the 100% threshold. Suezmaxes, despite still leading the pack, saw a noticeable decline, falling 5.4 ppts to 108.3% from 113.7%.
 
@@ -191,7 +191,7 @@ Aframax experienced the sharpest correction, easing 8.7 ppts to 102.1% from 110.
 ![Aframax ↑ 4.1% Wow | Panamax ↓ 3.2% Wow | MR2 ↓ 10.4% Wow](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282829_b9e2ba4a1510.png)
 
 > **Figure 14: Aframax ↑ 4.1% Wow | Panamax ↓ 3.2% Wow | MR2 ↓ 10.4% Wow**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282829_b9e2ba4a1510.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-03-02_vlcc-second-hand-prices-at-decade-highs_img_unnamed282829_b9e2ba4a1510.png)
 
 The MR segment, while still the strongest performer overall, experienced a significant correction, falling 12.0 percentage points from 115.8% to 103.8%.
 

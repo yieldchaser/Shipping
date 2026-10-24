@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-09-14_decrease-in-indian-el
 ![Market Chart 1](assets/2020-09-14_decrease-in-indian-electricity-production_img_image-asset_634f4a174094.jpeg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-14_decrease-in-indian-electricity-production_img_image-asset_634f4a174094.jpeg)
+> [Local Asset](assets/2020-09-14_decrease-in-indian-electricity-production_img_image-asset_634f4a174094.jpeg)
 
 India produced approximately 103.4 billion kilowatt hours of electricity in August. This marks a month-on-month decline of 5.1 billion kilowatt hours (-5%) and is down year-on-year by 2.1 million kilowatt hours (-2%). While the year-on-year contraction in electricity production is a negative development, the contraction is not nearly as large as was seen in earlier this year. During April through June, electricity production declined year-on-year by an average of 18%.
 

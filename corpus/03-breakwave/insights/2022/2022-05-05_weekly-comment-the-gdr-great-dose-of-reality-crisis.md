@@ -41,7 +41,7 @@ Since the beginning of the year, equity and bond markets have been in disarray. 
 
 > **Figure 1: Fed Put Is**  
 > *The Fed Put is, for all intents and purposes, dead, or at least deeply buried into the ground.Portfolio managers should no longer wait for signs from the central bankbefore proceeding with an investment. The most prominent victim is the tech bubble. Unsustainably valued car makers, to content creators, exotic cryptocurrencies and other blockchain-related products are now being introduced to gravity.*  
-> **Interactive Data & Source:** [Bnnbloomberg](https://www.bnnbloomberg.ca/mercedes-ev-breaks-1-000-kilometer-range-barrier-to-outdo-tesla-1.1752118) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-05_weekly-comment-the-gdr-great-dose-of-reality-crisis_img_image004_3b6a78492b3e.jpg)
+> **Interactive Data & Source:** [Bnnbloomberg](https://www.bnnbloomberg.ca/mercedes-ev-breaks-1-000-kilometer-range-barrier-to-outdo-tesla-1.1752118) | [Local Asset](assets/2022-05-05_weekly-comment-the-gdr-great-dose-of-reality-crisis_img_image004_3b6a78492b3e.jpg)
 
 We are in a market dominated by risks and in desperate search of a guiding theme that will replace the Fed Put. This will not be easy. In the last fourteen years, markets have been guided by a single, government-sponsored theme. Even before the Global Financial Crisis, Alan Greenspan happily assumed the mantle of ‘the market-friendly’ Fed. Reversion back to a pre-Fed Put market will take time. Failure to find a new guiding doctrine could see further and significant devaluation of risk assets.
 
@@ -50,7 +50,7 @@ The sooner markets acknowledge these three truths, the sooner they will be able 
 ![The Fed Put Is, for All Intents and Purposes, Dead](assets/2022-05-05_weekly-comment-the-gdr-great-dose-of-reality-crisis_img_image005_987f85c7cba2.jpg)
 
 > **Figure 2: The Fed Put Is, for All Intents and Purposes, Dead**  
-> **Interactive Data & Source:** [Bnnbloomberg](https://www.bnnbloomberg.ca/mercedes-ev-breaks-1-000-kilometer-range-barrier-to-outdo-tesla-1.1752118) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-05_weekly-comment-the-gdr-great-dose-of-reality-crisis_img_image005_987f85c7cba2.jpg)
+> **Interactive Data & Source:** [Bnnbloomberg](https://www.bnnbloomberg.ca/mercedes-ev-breaks-1-000-kilometer-range-barrier-to-outdo-tesla-1.1752118) | [Local Asset](assets/2022-05-05_weekly-comment-the-gdr-great-dose-of-reality-crisis_img_image005_987f85c7cba2.jpg)
 
 Quantitative tightening should separate those with true wings from those who just flap their hands in the background hoping for investment.
 
@@ -66,7 +66,7 @@ What we can’t do, is be tactically based on long term asset allocation princip
 ![Market Chart 3](assets/2022-05-05_weekly-comment-the-gdr-great-dose-of-reality-crisis_img_image006_67c0b489b42c.jpg)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Bnnbloomberg](https://www.bnnbloomberg.ca/mercedes-ev-breaks-1-000-kilometer-range-barrier-to-outdo-tesla-1.1752118) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-05_weekly-comment-the-gdr-great-dose-of-reality-crisis_img_image006_67c0b489b42c.jpg)
+> **Interactive Data & Source:** [Bnnbloomberg](https://www.bnnbloomberg.ca/mercedes-ev-breaks-1-000-kilometer-range-barrier-to-outdo-tesla-1.1752118) | [Local Asset](assets/2022-05-05_weekly-comment-the-gdr-great-dose-of-reality-crisis_img_image006_67c0b489b42c.jpg)
 
 It is also evident that they can’t think in terms of long term themes over the short term. In a world so much in flux, in the space of the next 12-24 months, everything and anything is possible. The Fed could change tack. China could withdraw support from Russia. Moscow and Kiev might come to an accord. What today looks impossible is more probable when things change so quickly.
 

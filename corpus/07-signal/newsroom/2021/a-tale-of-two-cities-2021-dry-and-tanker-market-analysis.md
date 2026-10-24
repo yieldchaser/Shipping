@@ -52,7 +52,7 @@ Market consensus is that the growth of the world’s second largest economy will
 
 > **Chart 1: Signal Ocean Data| Dry, Ton Charts, Demand in Ton Days % Growth, Year 2021, per Quarter and Month**  
 > *Chart 1: Signal Ocean Data| Dry, Ton Charts, Demand in Ton Days % Growth, Year 2021, per Quarter and Month*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-tale-of-two-cities-2021-dry-and-tanker-market-analysis) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51dd8b6efa2bad33f56c9_61cc6fe3564555c7d4f26d19_1%20dry%20demand.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-tale-of-two-cities-2021-dry-and-tanker-market-analysis) | [Local Asset](../../images/66b51dd8b6efa2bad33f56c9_61cc6fe3564555c7d4f26d19_1%20dry%20demand.avif)
 
 
 #### Tankers - Demand Crude and Product
@@ -66,14 +66,14 @@ There are fears of the impact of the Omicron variant on oil demand with [EIA, OP
 
 > **Chart 2: Signal Ocean Data| Crude Tankers, Ton Charts, Demand in Ton Days % Growth, Year 2021, per Quarter and Month**  
 > *Chart 2: Signal Ocean Data| Crude Tankers, Ton Charts, Demand in Ton Days % Growth, Year 2021, per Quarter and Month*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-tale-of-two-cities-2021-dry-and-tanker-market-analysis) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51dd9b6efa2bad33f5798_61cd67245e47ab8b20f5aff0_2%20crude%20demand.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-tale-of-two-cities-2021-dry-and-tanker-market-analysis) | [Local Asset](../../images/66b51dd9b6efa2bad33f5798_61cd67245e47ab8b20f5aff0_2%20crude%20demand.avif)
 
 
 ![Signal Ocean Data| Product Tankers, Ton Charts, Demand in Ton Days % Growth, Year 2021, per Quarter and Month](../../images/66b51dd9b6efa2bad33f5728_61cd6740870c959c38206d37_3%20demand.avif)
 
 > **Chart 3: Signal Ocean Data| Product Tankers, Ton Charts, Demand in Ton Days % Growth, Year 2021, per Quarter and Month**  
 > *Chart 3: Signal Ocean Data| Product Tankers, Ton Charts, Demand in Ton Days % Growth, Year 2021, per Quarter and Month*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-tale-of-two-cities-2021-dry-and-tanker-market-analysis) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51dd9b6efa2bad33f5728_61cd6740870c959c38206d37_3%20demand.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-tale-of-two-cities-2021-dry-and-tanker-market-analysis) | [Local Asset](../../images/66b51dd9b6efa2bad33f5728_61cd6740870c959c38206d37_3%20demand.avif)
 
 
 ##### Demand - Toncharts Methodology
@@ -96,7 +96,7 @@ The evolution of dry market rates for the current year, chart 4, is undoubtedly 
 
 > **Chart 4: Signal Ocean Data| Dry Market Rates, $/ton, per Main Dry Bulk Ship Size & Route**  
 > *Chart 4: Signal Ocean Data| Dry Market Rates, $/ton, per Main Dry Bulk Ship Size & Route*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-tale-of-two-cities-2021-dry-and-tanker-market-analysis) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51dd8b6efa2bad33f56cd_61cc70ad5d1eb267cf7a3a6b_4%20freight.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-tale-of-two-cities-2021-dry-and-tanker-market-analysis) | [Local Asset](../../images/66b51dd8b6efa2bad33f56cd_61cc70ad5d1eb267cf7a3a6b_4%20freight.avif)
 
 
 #### Tankers - Crude and Product
@@ -108,7 +108,7 @@ Although dry bulk rates were hovering throughout the year above their 2016-2020 
 
 > **Chart 5: Signal Ocean Data| Crude Market Rates, WS, per Main Tanker Ship Size & Route**  
 > *Chart 5: Signal Ocean Data| Crude Market Rates, WS, per Main Tanker Ship Size & Route*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-tale-of-two-cities-2021-dry-and-tanker-market-analysis) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51dd8b6efa2bad33f570a_61cc70f1855f66b9af31d7ae_5%20freight.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-tale-of-two-cities-2021-dry-and-tanker-market-analysis) | [Local Asset](../../images/66b51dd8b6efa2bad33f570a_61cc70f1855f66b9af31d7ae_5%20freight.avif)
 
 In the product segment, November shifted the sentiment to stronger rates, chart 6,  with significant upward movements in Panamax Carib to USG rates and in MR1 clean Algeria to Med. In the MR2, Continent to US rates are gradually recovering but the upturn is not so aggressive compared to the spike of MR1 Algeria Med rates one week before the ending of this year. The last days of December decelerated the euphoria seen in MR1, however, levels are standing at the highest point for this year.
 
@@ -117,7 +117,7 @@ In the product segment, November shifted the sentiment to stronger rates, chart 
 
 > **Chart 6: Signal Ocean Data| Product Market Rates, WS, per Main Tanker Ship Size & Route**  
 > *Chart 6: Signal Ocean Data| Product Market Rates, WS, per Main Tanker Ship Size & Route*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-tale-of-two-cities-2021-dry-and-tanker-market-analysis) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51dd8b6efa2bad33f56c6_61cc712527734bbaa3be76e8_freight%206.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-tale-of-two-cities-2021-dry-and-tanker-market-analysis) | [Local Asset](../../images/66b51dd8b6efa2bad33f56c6_61cc712527734bbaa3be76e8_freight%206.avif)
 
 
 ## Section 3: Supply Trend
@@ -136,7 +136,7 @@ This year’s evolution comes to confirm that despite the headwinds in the macro
 
 > **Chart 7: Signal Ocean Data| Ballasters’ View, Number of Vessels Being Ballast, per Main Dry Bulk Ship Sizecapesize-Panamax, Se Africa, Supramax Se Asia, Handy NOPAC**  
 > *Chart 7: Signal Ocean Data| Ballasters’ View, Number of Vessels being Ballast, per Main Dry Bulk Ship SizeCapesize-Panamax, SE Africa, Supramax SE Asia, Handy NOPAC*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-tale-of-two-cities-2021-dry-and-tanker-market-analysis) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51dd8b6efa2bad33f56d3_61cc7188477701c0eb092507_7%20supply.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-tale-of-two-cities-2021-dry-and-tanker-market-analysis) | [Local Asset](../../images/66b51dd8b6efa2bad33f56d3_61cc7188477701c0eb092507_7%20supply.avif)
 
 
 #### Port Congestion - China, Dry Vessels
@@ -148,7 +148,7 @@ It is immediately apparent when looking at dry bulk vessel congestion, chart 9, 
 
 > **Chart 8: Signal Ocean Data| Number of Dry Bulk Vessels Congested at China, per Week 2021 per Ship Size**  
 > *Chart 8: Signal Ocean Data| Number of Dry Bulk Vessels congested at China, Per Week 2021 per Ship Size*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-tale-of-two-cities-2021-dry-and-tanker-market-analysis) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51dd9b6efa2bad33f579b_61cc71dafe777abcebe4f75e_8%20supply%20congestions.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-tale-of-two-cities-2021-dry-and-tanker-market-analysis) | [Local Asset](../../images/66b51dd9b6efa2bad33f579b_61cc71dafe777abcebe4f75e_8%20supply%20congestions.avif)
 
 
 #### Tankers - Supply Trend
@@ -160,7 +160,7 @@ The supply trend for crude and product tankers at the key trading routes, chart 
 
 > **Chart 9: Signal Ocean Data| Supply Trend, per Week 2021 per Tanker Ship Size Crude-Product, Market Deployment: Spot/relet**  
 > *Chart 9: Signal Ocean Data| Supply Trend, Per Week 2021 per Tanker Ship Size Crude-Product, Market Deployment: spot/relet. VLCC AG_Ras Tanura - Far East, 20 days forward / Suez Wafr_Bonny – East, 28 days forward / Afra Med_Novorossiysk, 6 days forward / Afra Baltic_Primorsk, 10 days forward / LR2 AG_Jubail, 10 days forward*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-tale-of-two-cities-2021-dry-and-tanker-market-analysis) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51dd8b6efa2bad33f56d6_61cc7254a690e13beb9cb086_9%20supply%20tankers.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-tale-of-two-cities-2021-dry-and-tanker-market-analysis) | [Local Asset](../../images/66b51dd8b6efa2bad33f56d6_61cc7254a690e13beb9cb086_9%20supply%20tankers.avif)
 
 
 #### Bunker Prices and Savings for Shipowners
@@ -174,7 +174,7 @@ In real terms, this means that the voyage costs of shipping companies have incre
 
 > **Table 1: Data Source| the Signal Ocean Platform**  
 > *Table 1: Data Source| The Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-tale-of-two-cities-2021-dry-and-tanker-market-analysis) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51dd7b6efa2bad33f56ba_61cc72d8bdaf703febc52142_Table%201.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-tale-of-two-cities-2021-dry-and-tanker-market-analysis) | [Local Asset](../../images/66b51dd7b6efa2bad33f56ba_61cc72d8bdaf703febc52142_Table%201.avif)
 
 
 ## What Does This Year Say for 2022?

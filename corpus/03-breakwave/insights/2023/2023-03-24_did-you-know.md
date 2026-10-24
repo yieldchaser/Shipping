@@ -22,14 +22,14 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-24_did-you-know.html"
 ![1 (7)](assets/2023-03-24_did-you-know_img_128729_6ae82f1f92f6.png)
 
 > **Figure 1: 1 (7)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-24_did-you-know_img_128729_6ae82f1f92f6.png)
+> [Local Asset](assets/2023-03-24_did-you-know_img_128729_6ae82f1f92f6.png)
 
 ## 1.seawise Giant
 
 ![Knock Nevis](assets/2023-03-24_did-you-know_img_knock-nevis_0d2ff2ee967c.jpg)
 
 > **Figure 2: Knock Nevis**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-24_did-you-know_img_knock-nevis_0d2ff2ee967c.jpg)
+> [Local Asset](assets/2023-03-24_did-you-know_img_knock-nevis_0d2ff2ee967c.jpg)
 
 Seawise Giant was the longest self-propelled ship in history, built in 1974–1979. The heaviest self-propelled ship of any kind, and with a laden draft of 24.6 m (81 ft), she was incapable of navigating the English Channel,[5] the Suez Canal or the Panama Canal. She was sunk in 1988 during the Iran–Iraq War, but was later salvaged and restored to service.
 
@@ -40,7 +40,7 @@ Built in 1977, Pierre Guillaumat was one of four Batillus class supertankers. It
 ![1](assets/2023-03-24_did-you-know_img_1_a8cc668552a5.png)
 
 > **Figure 3: 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-24_did-you-know_img_1_a8cc668552a5.png)
+> [Local Asset](assets/2023-03-24_did-you-know_img_1_a8cc668552a5.png)
 
 ## 3.prairial
 
@@ -49,4 +49,4 @@ Similar to the other Batillus class oil tankers, Prairial was built in the Chant
 ![13c7203c0](assets/2023-03-24_did-you-know_img_13c7203c0_b01fa54d42bb.jpg)
 
 > **Figure 4: 13c7203c0**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-24_did-you-know_img_13c7203c0_b01fa54d42bb.jpg)
+> [Local Asset](assets/2023-03-24_did-you-know_img_13c7203c0_b01fa54d42bb.jpg)

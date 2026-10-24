@@ -31,28 +31,28 @@ The USDA is now forecasting that global coarse grain exports in 2024/25 will tot
 ![Chart 1](assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart1_3305094285e7.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart1_3305094285e7.jpg)
+> [Local Asset](assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart1_3305094285e7.jpg)
 
 Global wheat exports are now expected to total 214.7 million tons. This is 1.1 million tons (-1%) less than was previously forecast and would mark a year-on-year decline of 6.6 million tons (-3%).
 
 ![Chart 2](assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart2_204b6e92d0c5.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart2_204b6e92d0c5.jpg)
+> [Local Asset](assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart2_204b6e92d0c5.jpg)
 
 Global soybean exports are now expected to total 181.7 million tons. This is 200,000 tons more than was previously forecast and would mark a year-on-year increase of 4.7 million tons (3%).
 
 ![Chart 3](assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart3_17e21260c73a.jpg)
 
 > **Figure 3: Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart3_17e21260c73a.jpg)
+> [Local Asset](assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart3_17e21260c73a.jpg)
 
 Global soymeal exports are now expected to total 74.7 million tons. This is 100,000 tons less than was previously forecast and is the same as a year ago.
 
 ![Chart 4](assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart4_3332efa14ffc.jpg)
 
 > **Figure 4: Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart4_3332efa14ffc.jpg)
+> [Local Asset](assets/2024-11-15_tc94ple7lipyl3dyteui29tse111vr_img_chart4_3332efa14ffc.jpg)
 
 ---
 

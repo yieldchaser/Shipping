@@ -27,14 +27,14 @@ China’s inflation last month contracted year-on-year by 0.7%, which has marked
 ![Chart 1](assets/2025-03-17_china-remains-uniquely-positioned-to-carry-out-stimulus_img_chart1_7cbdce2d34e7.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-17_china-remains-uniquely-positioned-to-carry-out-stimulus_img_chart1_7cbdce2d34e7.jpg)
+> [Local Asset](assets/2025-03-17_china-remains-uniquely-positioned-to-carry-out-stimulus_img_chart1_7cbdce2d34e7.jpg)
 
 Also remaining significant in China is that producer prices (PPI) remain weakest. China’s PPI last month contracted year-on-year by 2.2%. Weakness in producer prices remains beneficial to China (and shipping markets) as China remains a net importer (especially with commodities).
 
 ![Chart 2](assets/2025-03-17_china-remains-uniquely-positioned-to-carry-out-stimulus_img_chart2_b374d8255723.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-17_china-remains-uniquely-positioned-to-carry-out-stimulus_img_chart2_b374d8255723.jpg)
+> [Local Asset](assets/2025-03-17_china-remains-uniquely-positioned-to-carry-out-stimulus_img_chart2_b374d8255723.jpg)
 
 ---
 

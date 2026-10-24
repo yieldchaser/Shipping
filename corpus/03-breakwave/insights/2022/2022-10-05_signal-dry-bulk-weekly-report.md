@@ -28,7 +28,7 @@ In the iron ore market, prices fell to $98per ton as the Golden Week in China da
 ![Grain Seaborne Flows From Ukraine to All Destinations](assets/2022-10-05_signal-dry-bulk-weekly-report_img_unnamed288329_f028daa34718.png)
 
 > **Figure 1: Grain Seaborne Flows From Ukraine to All Destinations**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-drybulkflows/2jy1yr/277259569?h=3VJWa0c097j-sOTUebDdAfil9YOhDKtfoEBCcNpIlAw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-05_signal-dry-bulk-weekly-report_img_unnamed288329_f028daa34718.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-drybulkflows/2jy1yr/277259569?h=3VJWa0c097j-sOTUebDdAfil9YOhDKtfoEBCcNpIlAw) | [Local Asset](assets/2022-10-05_signal-dry-bulk-weekly-report_img_unnamed288329_f028daa34718.png)
 
 Data Source: The Signal Ocean Platform, Dry Bulk Flows, From Ukraine to ALL Countries,
 
@@ -39,7 +39,7 @@ Data Source: The Signal Ocean Platform, Dry Bulk Flows, From Ukraine to ALL Coun
 ![Market Chart 2](assets/2022-10-05_signal-dry-bulk-weekly-report_img_unnamed288429_908852f47ba0.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-05_signal-dry-bulk-weekly-report_img_unnamed288429_908852f47ba0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-10-05_signal-dry-bulk-weekly-report_img_unnamed288429_908852f47ba0.png)
 
 ​​​​​​In the first week of October, sentiment increased for Panamax ship freight rates, while a downward trend was observed for other ship size classes
 
@@ -53,7 +53,7 @@ Data Source: The Signal Ocean Platform, Dry Bulk Flows, From Ukraine to ALL Coun
 ![Supply Trend Lines for Key Load Areas](assets/2022-10-05_signal-dry-bulk-weekly-report_img_unnamed288529_fec19df91b95.png)
 
 > **Figure 3: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-05_signal-dry-bulk-weekly-report_img_unnamed288529_fec19df91b95.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-10-05_signal-dry-bulk-weekly-report_img_unnamed288529_fec19df91b95.png)
 
 The number of Capesize and Panamax vessels sailing with ballast is still below the annual average for the past four weeks, while the number of Supramax and Handysize vessels jumped, with Supramax vessels reaching their highest level in the past year.
 
@@ -67,7 +67,7 @@ The number of Capesize and Panamax vessels sailing with ballast is still below t
 ![TonDays Increasing](assets/2022-10-05_signal-dry-bulk-weekly-report_img_unnamed288629_acdade23d398.png)
 
 > **Figure 4: TonDays Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-05_signal-dry-bulk-weekly-report_img_unnamed288629_acdade23d398.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-10-05_signal-dry-bulk-weekly-report_img_unnamed288629_acdade23d398.png)
 
 The surprising upward trend in Capesize vessels recorded a gradual slowdown for the first days of October, while we have seen an upturn in the Handysize segment and a clear downward trend in the Supramax.
 
@@ -81,7 +81,7 @@ The surprising upward trend in Capesize vessels recorded a gradual slowdown for 
 ![Dry Bulk Ships Congested at Chinese Ports](assets/2022-10-05_signal-dry-bulk-weekly-report_img_unnamed288729_9557f202ad2d.png)
 
 > **Figure 5: Dry Bulk Ships Congested at Chinese Ports**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-05_signal-dry-bulk-weekly-report_img_unnamed288729_9557f202ad2d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-10-05_signal-dry-bulk-weekly-report_img_unnamed288729_9557f202ad2d.png)
 
 The number of congested vessels remains elevated for the third week in a row, with a significant increase in the Handysize segment and upward movements in other vessel size classes.
 

@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-01-20_china-emerging-from-p
 ![By Jeffrey Landsberg](assets/2021-01-20_china-emerging-from-pandemic-with-stronger-economy-and-having-not-experienced-ne_img_image-asset_8e8ade94a453.jpeg)
 
 > **Figure 1: By Jeffrey Landsberg**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-20_china-emerging-from-pandemic-with-stronger-economy-and-having-not-experienced-ne_img_image-asset_8e8ade94a453.jpeg)
+> [Local Asset](assets/2021-01-20_china-emerging-from-pandemic-with-stronger-economy-and-having-not-experienced-ne_img_image-asset_8e8ade94a453.jpeg)
 
 As we have continued to highlight in our Weekly China Reports, China’s central government in 2019 made a very significant decision to begin limiting lending, but that decision was reversed early last year when the economy was temporarily crippled by the nation’s coronavirus pandemic. March 2020 witnessed a sudden pivot in lending and government policy, and this pivot remains in place. The central government is continuing to work on reducing risk in the housing market, but overall lending has stayed strong and we expect the government will continue to focus on growth (at the expense of adding to the nation’s debt and maintaining structural issues that remain lurking under the surface of the financial system). We anticipate that financial reforms seen domestically in 2019 and in prior years will continue to be abandoned, and that the central government will continue to take advantage of turmoil in the United States and elsewhere and work to further enhance its power and influence globally. If ever there was a time for the government to focus on growth domestically and soft and hard power globally, it is now.
 
@@ -34,14 +34,14 @@ Most recently, December 2020 saw new lending grow year-on-year by 11%. This has 
 ![Commodore 1](assets/2021-01-20_china-emerging-from-pandemic-with-stronger-economy-and-having-not-experienced-ne_img_commodore1_4fff9f30b704.jpg)
 
 > **Figure 2: Commodore 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-20_china-emerging-from-pandemic-with-stronger-economy-and-having-not-experienced-ne_img_commodore1_4fff9f30b704.jpg)
+> [Local Asset](assets/2021-01-20_china-emerging-from-pandemic-with-stronger-economy-and-having-not-experienced-ne_img_commodore1_4fff9f30b704.jpg)
 
 It was very significant that the government allowed outstanding loan growth during July 2019 through February 2020 to fall to its lowest level since 2001. It also, of course, has been very significant that the government reversed course starting in March 2020. The pivot in policy that occurred then has been helping to propel the economy and has remained a driving force behind China’s robust commodity demand this year. Both China’s overall economy and demand for commodities continue to fare very well as the government has not deviated from its March pivot. Globally, much has continued to change (including more turmoil in the United States recently), but internally Xi has continued to strengthen party control and his own authority while also continuing to significantly support China’s economy. China’s ambitious Belt and Road plans are resuming as the world continues to turn a corner from the coronavirus pandemic, and the central government this year is unlikely to make any significant changes that would alter its current course of enhancing its power and influence globally.
 
 ![Market Chart 3](assets/2021-01-20_china-emerging-from-pandemic-with-stronger-economy-and-having-not-experienced-ne_img_image-asset_d9e35faff2f9.jpeg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-20_china-emerging-from-pandemic-with-stronger-economy-and-having-not-experienced-ne_img_image-asset_d9e35faff2f9.jpeg)
+> [Local Asset](assets/2021-01-20_china-emerging-from-pandemic-with-stronger-economy-and-having-not-experienced-ne_img_image-asset_d9e35faff2f9.jpeg)
 
 In recent work we have discussed how new coronavirus cases have been rising again in China, but the daily case counts are still only slightly above 100, and overall China is emerging from the world’s coronavirus crisis better than all other major economies. The coronavirus pandemic has wreaked havoc on many economies and has created a degree of authoritarianism in many nations, but China is emerging from the pandemic with a stronger economy and having not experienced any newfound shift to some degree of authoritarianism. Talks of a global reset are now also all the rage and the US dollar reserve-currency status is being threatened like never before, and at the very same time the People’s Bank of China continues to roll out its digital renminbi currency. For decades, China has been playing the long game and patiently working to become the world’s most powerful nation (and if possible, end the world’s reliance on the US dollar). 2021 has become a vital year for China to continue to press their advantage.
 

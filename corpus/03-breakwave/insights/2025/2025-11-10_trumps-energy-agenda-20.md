@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-11-10_trumps-energy-agenda-
 ![Tankerrr 2](assets/2025-11-10_trumps-energy-agenda-20_img_tankerrr-2_89290ba50318.jpg)
 
 > **Figure 1: Tankerrr 2**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-10_trumps-energy-agenda-20_img_tankerrr-2_89290ba50318.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-11-10_trumps-energy-agenda-20_img_tankerrr-2_89290ba50318.jpg)
 
 Trump’s second presidency started with a strong push to change US environmental policy. Right at the start, the president put in motion the plan to re-exit the Paris Agreement and signed an executive order to “unleash American energy,” which established a framework to encourage domestic energy production and weaken the electric vehicle (EV) mandate.
 
@@ -44,7 +44,7 @@ To conclude, so far Trump’s policies have clearly offered some support to oil 
 ![Στιγμιότυπο Οθόνης 2025 11 10 111125](assets/2025-11-10_trumps-energy-agenda-20_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0c7ff492dcc3.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 11 10 111125**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-10_trumps-energy-agenda-20_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0c7ff492dcc3.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-11-10_trumps-energy-agenda-20_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0c7ff492dcc3.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

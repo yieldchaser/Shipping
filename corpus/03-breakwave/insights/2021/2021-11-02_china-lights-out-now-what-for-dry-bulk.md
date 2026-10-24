@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-11-02_china-lights-out-now-
 
 > **Figure 1: Thermal Coal Prices**  
 > *Thermal Coal Prices, CNY/ton*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-02_china-lights-out-now-what-for-dry-bulk_img_unsplash-image-7e2pe9wjl9m_06f55af923b4.jpg)
+> [Local Asset](assets/2021-11-02_china-lights-out-now-what-for-dry-bulk_img_unsplash-image-7e2pe9wjl9m_06f55af923b4.jpg)
 
 Energy is everything. Without adequate energy supply, life would be massively different. And yet, in our every day lives, a flip of a switch leads to a guaranteed outcome without second thoughts. But what if there was a risk that such an outcome would be trivial? Is such a scenario even imaginable on scale? And what if the second largest economy in the world was faced with such a possible (though not probable) outcome?
 
@@ -34,7 +34,7 @@ During the last few months unprecedented volatility in some key energy markets s
 
 > **Figure 2: China Monthly Steel Production**  
 > *China Monthly Steel Production, million mt*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-02_china-lights-out-now-what-for-dry-bulk_img_coalchina_3215c68af8cd.jpg)
+> [Local Asset](assets/2021-11-02_china-lights-out-now-what-for-dry-bulk_img_coalchina_3215c68af8cd.jpg)
 
 The initial spike in coal prices is a testament to the potential shortage developing of the readily available fuel for electricity production. However, as the biggest consumer of coal, China would not let such a market to determine the main price input to its own economy, (thus the subsequent collapse in coal prices) and the centrally controlled state moved to put a cap on prices, something easily achievable under the powerful NDRC’s guidance.
 
@@ -51,7 +51,7 @@ Unfortunately, that leaves levered industries to such markets exposed. Dry bulk 
 ![Chinasteel](assets/2021-11-02_china-lights-out-now-what-for-dry-bulk_img_chinasteel_5f15cea1a7ac.jpg)
 
 > **Figure 3: Chinasteel**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-02_china-lights-out-now-what-for-dry-bulk_img_chinasteel_5f15cea1a7ac.jpg)
+> [Local Asset](assets/2021-11-02_china-lights-out-now-what-for-dry-bulk_img_chinasteel_5f15cea1a7ac.jpg)
 
 This time around, to the good fortune of dry bulk owners, the rest of the world remains in a growth mode, which, although not enough by itself to lead to booming times, it is sufficient to provide some cushion while such a temporary slowdown occurs, and hopefully bridge the gap while the situation in China normalizes. On top of that, China will clearly need to import more coal which will offset some of the lost iron ore cargoes.
 
@@ -68,7 +68,7 @@ Yet, this is a market that has always been for the brave ones, and fundamentally
 ![2013vs2021](assets/2021-11-02_china-lights-out-now-what-for-dry-bulk_img_2013vs2021_aca8987b7581.png)
 
 > **Figure 4: 2013vs2021**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-02_china-lights-out-now-what-for-dry-bulk_img_2013vs2021_aca8987b7581.png)
+> [Local Asset](assets/2021-11-02_china-lights-out-now-what-for-dry-bulk_img_2013vs2021_aca8987b7581.png)
 
 The dry bulk market is structurally set for a long period of tight balances and thus stronger rates, assuming global demand for bulk transportation remains at relatively healthy levels. China is a big part of bulk commodity demand, and thus, should continue to be the main focus when it comes to dry bulk shipping. What is going on is not a fundamental shift, rather a very specific development that at this particular point in time is hurting commodity demand and, as a result, dry bulk shipping.
 

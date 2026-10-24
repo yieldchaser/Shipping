@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-31_shipfix-global-market
 [![1 (7)](assets/2023-03-31_shipfix-global-market-update_img_128729_6a1eba4cf887.png)
 
 > **Figure 1: 1 (7)**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/ulf-bergman-81570425/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-31_shipfix-global-market-update_img_128729_6a1eba4cf887.png)](https://www.breakwaveadvisors.com/insights/2023/3/31/did-you-know)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/ulf-bergman-81570425/) | [Local Asset](assets/2023-03-31_shipfix-global-market-update_img_128729_6a1eba4cf887.png)](https://www.breakwaveadvisors.com/insights/2023/3/31/did-you-know)
 
 *By*[*Ulf Bergman*](https://www.linkedin.com/in/ulf-bergman-81570425/)
 
@@ -63,6 +63,6 @@ Demand for copper is usually seen as a leading indicator of economic growth. Hen
 ![Market Chart 2](assets/2023-03-31_shipfix-global-market-update_img_unnamed-2023-03-31t140207586_735fe03066ce.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-31_shipfix-global-market-update_img_unnamed-2023-03-31t140207586_735fe03066ce.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2023-03-31_shipfix-global-market-update_img_unnamed-2023-03-31t140207586_735fe03066ce.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

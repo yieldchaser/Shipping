@@ -30,7 +30,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-13-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67e573f6c2ce19d2725536d5_AD_4nXfL4uEuI9Ib1Y6LgYSubIrsJM9vHVaMilFXfKGYa-J7jtsdlcWYo6FE02saKGh9Sh_knv-hWeO1zkCJuqd3vgJuSDZQ2mmRsSperwV01EOm0BJXcuC-EkoGHo6VLEk-4LxFL6TdLQ.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-13-2025) | [Local Asset](../../images/67e573f6c2ce19d2725536d5_AD_4nXfL4uEuI9Ib1Y6LgYSubIrsJM9vHVaMilFXfKGYa-J7jtsdlcWYo6FE02saKGh9Sh_knv-hWeO1zkCJuqd3vgJuSDZQ2mmRsSperwV01EOm0BJXcuC-EkoGHo6VLEk-4LxFL6TdLQ.png)
 
 
 ## Following the Recent Imposition of U.s. Tariffs on Canadian Crude Oil Imports, Trade Flows Have Undergone a Significant Shift, with Canadian Barrels Increasingly Redirected Toward European Markets.this Trend Is Evident in the March 2025 Data, Which Shows Seaborne Crude Exports From Canada Surging to Nearly 8 Million Barrels—more Than Double the Monthly Average Recorded in 2024.

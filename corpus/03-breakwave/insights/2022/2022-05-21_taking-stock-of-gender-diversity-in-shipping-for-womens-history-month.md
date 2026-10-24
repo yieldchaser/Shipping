@@ -29,7 +29,7 @@ In October of 1974, five previously all-male colleges of the University of Oxfor
 
 > **Figure 1: Cartoon of the Month: “Welcome to the Future” - Courtesy Of**  
 > *Cartoon of the month: “Welcome to the future” - Courtesy of Sheridan Hart*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-21_taking-stock-of-gender-diversity-in-shipping-for-womens-history-month_img_1_b8299029e73c.png)
+> [Local Asset](assets/2022-05-21_taking-stock-of-gender-diversity-in-shipping-for-womens-history-month_img_1_b8299029e73c.png)
 
 ## As David Bowie Asked: Where Are We Now?
 
@@ -45,7 +45,7 @@ Though we are far from perfection when it comes to access to the shipping indust
 
 > **Figure 2: Shipowning Companies Headed by Women As of 2021**  
 > *Shipowning companies headed by women as of 2021, measured in tonnage (Source: TradeWinds)*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-21_taking-stock-of-gender-diversity-in-shipping-for-womens-history-month_img_1_076c34deb53a.png)
+> [Local Asset](assets/2022-05-21_taking-stock-of-gender-diversity-in-shipping-for-womens-history-month_img_1_076c34deb53a.png)
 
 ## Shipping: Because I’m Worth It?
 

@@ -27,7 +27,7 @@ Energy and metal markets struggled for direction amid conflicting supply side is
 ![Στιγμιότυπο Οθόνης 2025 07 25 133426](assets/2025-07-25_supply-side-issues-resurface-in-energy-and-metal-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c0f59822c2f9.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 07 25 133426**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-25_supply-side-issues-resurface-in-energy-and-metal-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c0f59822c2f9.png)
+> [Local Asset](assets/2025-07-25_supply-side-issues-resurface-in-energy-and-metal-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c0f59822c2f9.png)
 
 ### Market Commentary
 
@@ -46,7 +46,7 @@ Copper production in Chile has staged a recovery in recent months. Output return
 ![Στιγμιότυπο Οθόνης 2025 07 25 133527](assets/2025-07-25_supply-side-issues-resurface-in-energy-and-metal-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b71aa2fc453d.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 07 25 133527**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-25_supply-side-issues-resurface-in-energy-and-metal-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b71aa2fc453d.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-07-25_supply-side-issues-resurface-in-energy-and-metal-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b71aa2fc453d.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

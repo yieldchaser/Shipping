@@ -27,14 +27,14 @@ As we discussed in Commodore Research's most recent Weekly Executive Report, Ind
 ![Chart 1](assets/2025-04-14_significant-improvement-in-india_img_chart1_31d5a314ad75.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-14_significant-improvement-in-india_img_chart1_31d5a314ad75.jpg)
+> [Local Asset](assets/2025-04-14_significant-improvement-in-india_img_chart1_31d5a314ad75.jpg)
 
 Coal-derived electricity generation totaled approximately 122.6 billion kilowatt hours, which is up month-on-month by 12.7 billion kilowatt hours (12%) and up year-on- year by 4 billion kilowatt hours (3%). India’s coal-derived generation has now grown on a year-on-year basis for two straight months. Previously, it had fallen on a year-on-year basis during four of the prior six months (which was very rare). Last month’s 3% year-on-year growth has marked the strongest growth since July.
 
 ![Chart 2](assets/2025-04-14_significant-improvement-in-india_img_chart2_ba6fcc6fbb2b.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-14_significant-improvement-in-india_img_chart2_ba6fcc6fbb2b.jpg)
+> [Local Asset](assets/2025-04-14_significant-improvement-in-india_img_chart2_ba6fcc6fbb2b.jpg)
 
 ---
 

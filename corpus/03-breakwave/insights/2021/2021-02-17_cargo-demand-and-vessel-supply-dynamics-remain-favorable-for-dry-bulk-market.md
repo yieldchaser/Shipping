@@ -31,7 +31,7 @@ Approximately 44 dry bulk newbuildings were delivered last month. This is 16 mor
 ![Comm 1](assets/2021-02-17_cargo-demand-and-vessel-supply-dynamics-remain-favorable-for-dry-bulk-market_img_comm1_0a660da5b1a7.jpg)
 
 > **Figure 1: Comm 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-17_cargo-demand-and-vessel-supply-dynamics-remain-favorable-for-dry-bulk-market_img_comm1_0a660da5b1a7.jpg)
+> [Local Asset](assets/2021-02-17_cargo-demand-and-vessel-supply-dynamics-remain-favorable-for-dry-bulk-market_img_comm1_0a660da5b1a7.jpg)
 
 Last month’s delivery volume has marked the largest amount seen since June. Overall, it is extremely common for dry bulk newbuilding delivery volume to jump in January. What is particularly encouraging for this year, though, is that January’s delivery volume has marked the lowest January delivery volume seen in over a decade. As we have continued to discuss in our work, 2021 is set to see a continued decline in dry bulk newbuilding delivery volume. Combined with global seaborne trade prospects also remaining quite positive, this year's outlook for dry bulk shipping rates remains encouraging.
 

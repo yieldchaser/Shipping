@@ -34,7 +34,7 @@ Nevertheless, cargo orders for coal loading in Russia for European ports have de
 ![1](assets/2022-07-25_a-changing-reality-for-the-european-coal-trade_img_1_fbb3b0eac278.png)
 
 > **Figure 1: 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-25_a-changing-reality-for-the-european-coal-trade_img_1_fbb3b0eac278.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-07-25_a-changing-reality-for-the-european-coal-trade_img_1_fbb3b0eac278.png)
 
 *Source: Shipfix*
 
@@ -51,7 +51,7 @@ In addition to increasing delivery times and tight global supplies, European cus
 ![1](assets/2022-07-25_a-changing-reality-for-the-european-coal-trade_img_1_e7083629f684.png)
 
 > **Figure 2: 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-25_a-changing-reality-for-the-european-coal-trade_img_1_e7083629f684.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-07-25_a-changing-reality-for-the-european-coal-trade_img_1_e7083629f684.png)
 
 *Source: Shipfix*
 

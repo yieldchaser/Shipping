@@ -27,12 +27,12 @@ This week, in the East, we discuss falling average mileage for VLCC and Suezmax 
 ![Στιγμιότυπο Οθόνης 2024 05 09 102353](assets/2024-05-09_kiw6gdlrto0iop2nl3av7rm3yq17wl_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ac43d1f525fc.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 09 102353**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS97ELhCfCrH4cPWOi7bQxofLoSzzASQPUM7lCEPwiB4-mtxXwNy3jkJmUQR7qLvFa3GkWZy8=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-09_kiw6gdlrto0iop2nl3av7rm3yq17wl_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ac43d1f525fc.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS97ELhCfCrH4cPWOi7bQxofLoSzzASQPUM7lCEPwiB4-mtxXwNy3jkJmUQR7qLvFa3GkWZy8=) | [Local Asset](assets/2024-05-09_kiw6gdlrto0iop2nl3av7rm3yq17wl_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ac43d1f525fc.png)
 
 ![Στιγμιότυπο Οθόνης 2024 05 09 102416](assets/2024-05-09_kiw6gdlrto0iop2nl3av7rm3yq17wl_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_acaf4fb3aed2.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 05 09 102416**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS97ELhCfCrH4cPWOi7bQxofLoSzzASQPUM7lCEPwiB4-mtxXwNy3jkJmUQR7qLvFa3GkWZy8=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-09_kiw6gdlrto0iop2nl3av7rm3yq17wl_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_acaf4fb3aed2.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS97ELhCfCrH4cPWOi7bQxofLoSzzASQPUM7lCEPwiB4-mtxXwNy3jkJmUQR7qLvFa3GkWZy8=) | [Local Asset](assets/2024-05-09_kiw6gdlrto0iop2nl3av7rm3yq17wl_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_acaf4fb3aed2.png)
 
 - [Average ballast voyage distances travelled by VLCCs](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS97ELhCfCrH4cPWOi7bQxofLoSzzASQPUM7lCEPwiB4-mtxXwNy3jkJmUQR7qLvFa3GkWZy8=)have dipped to multi-year lows in April, a result of fewer long-haul voyages from Asia to West of Suez.
 
@@ -42,7 +42,7 @@ This week, in the East, we discuss falling average mileage for VLCC and Suezmax 
 ![Στιγμιότυπο Οθόνης 2024 05 09 102437](assets/2024-05-09_kiw6gdlrto0iop2nl3av7rm3yq17wl_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6c70d0eefb79.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 05 09 102437**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS97ELhQT1hGiuFirn6G3knx7ke2SaHGePZ6kYgvO2Si36Q7lGgMbQxziK3wHMYR7piKLlSNU=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-09_kiw6gdlrto0iop2nl3av7rm3yq17wl_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6c70d0eefb79.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS97ELhQT1hGiuFirn6G3knx7ke2SaHGePZ6kYgvO2Si36Q7lGgMbQxziK3wHMYR7piKLlSNU=) | [Local Asset](assets/2024-05-09_kiw6gdlrto0iop2nl3av7rm3yq17wl_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6c70d0eefb79.png)
 
 - 47 MR2s which were trading in Russia loaded in other markets in March and April, likely pushed out due to lower export volumes after attacks on Russian refineries. This is a significant amount of tonnage to be competing for employment in an MR2 market that has recently been under pressure. This extra tonnage is weighing on MR2 freight rates which are lacklustre across the board.
 
@@ -52,7 +52,7 @@ This week, in the East, we discuss falling average mileage for VLCC and Suezmax 
 ![Στιγμιότυπο Οθόνης 2024 05 09 102517](assets/2024-05-09_kiw6gdlrto0iop2nl3av7rm3yq17wl_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1006952de6b9.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 05 09 102517**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS97ELhTmXpUHfYEpwa5L6KDEP88AcYalrYIGFIENhVLw3oPLrKSrTFu4bhswkmNP4XVxlz8I=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-09_kiw6gdlrto0iop2nl3av7rm3yq17wl_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1006952de6b9.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS97ELhTmXpUHfYEpwa5L6KDEP88AcYalrYIGFIENhVLw3oPLrKSrTFu4bhswkmNP4XVxlz8I=) | [Local Asset](assets/2024-05-09_kiw6gdlrto0iop2nl3av7rm3yq17wl_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1006952de6b9.png)
 
 - With excitement surrounding the opening of the TMX pipeline, we have not yet seen a large increase in[Aframax availability](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS97ELhTmXpUHfYEpwa5L6KDEP88AcYalrYIGFIENhVLw3oPLrKSrTFu4bhswkmNP4XVxlz8I=). There was an uptick in late April as the TMX opening date approached, but vessel supply is still significantly lower than highs we have observed in the past.
 
@@ -62,7 +62,7 @@ This week, in the East, we discuss falling average mileage for VLCC and Suezmax 
 ![Στιγμιότυπο Οθόνης 2024 05 09 102542](assets/2024-05-09_kiw6gdlrto0iop2nl3av7rm3yq17wl_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1db2970d4de.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 05 09 102542**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS97ELhXMqvcajBtqrQnwH9ouE2fSD1jC1iZBhfRaWksbcYAmEBfwVR1Hlu5BYKfVl1ZTPj20=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-09_kiw6gdlrto0iop2nl3av7rm3yq17wl_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1db2970d4de.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS97ELhXMqvcajBtqrQnwH9ouE2fSD1jC1iZBhfRaWksbcYAmEBfwVR1Hlu5BYKfVl1ZTPj20=) | [Local Asset](assets/2024-05-09_kiw6gdlrto0iop2nl3av7rm3yq17wl_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1db2970d4de.png)
 
 - As we approach the summer driving season, Atlantic MR demand seems muted as reflected in[TC2 gasoline transatlantic freight rates](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGS97ELhXMqvcajBtqrQnwH9ouE2fSD1jC1iZBhfRaWksbcYAmEBfwVR1Hlu5BYKfVl1ZTPj20=), which have been on a downward trajectory since mid-March, currently down by 10% m-o-m.
 

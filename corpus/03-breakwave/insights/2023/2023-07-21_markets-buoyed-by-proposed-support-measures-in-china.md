@@ -28,7 +28,7 @@ Sentiment was boosted by reports China is set to announced measures to support i
 
 > **Figure 1: Data Source:commodities Wrap**  
 > *Data source:Commodities Wrap*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-21_markets-buoyed-by-proposed-support-measures-in-china_img_screenshot2023-07-21124543_c40872314e25.png)
+> [Local Asset](assets/2023-07-21_markets-buoyed-by-proposed-support-measures-in-china_img_screenshot2023-07-21124543_c40872314e25.png)
 
 **Copper**led the base metals sector higher after China said it would introduce measure to support economic growth. The Ministry of Industry and Information said it was drafting plans to boost development in 10 key industries, including steel and auto. This follows a pledge by the Chinese Communist Party to improve conditions for private companies. This will add to strong support for some base metals[emanating from clean energy technologies](../pdfs/2023-07-21_markets-buoyed-by-proposed-support-measures-in-china_commodity-call-clean-energy-powering_632058957263.pdf). Demand has now reached critical volumes in copper and nickel, with its market hitting 22% and 27% respectively in 2022. More importantly, growth over the next three years is expected to see these levels significantly rise. So much so that even below-average growth from traditional sectors such as construction and manufacturing won’t stop total demand from recording strong growth rates.
 

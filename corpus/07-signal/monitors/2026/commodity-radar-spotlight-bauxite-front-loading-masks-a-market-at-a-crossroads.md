@@ -40,7 +40,7 @@ Policy changes in Guinea provide the largest near-side risk to bauxite flows
 
 > **Figure 1: Source: Bauxite Carrying Capesize Tonne-Miles From Signal Ocean Https://app.signalocean.com/dry/dynamic/timeseriesdry**  
 > *Source: Bauxite carrying Capesize tonne-miles from Signal Ocean https://app.signalocean.com/dry/dynamic/timeseries_dry*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-bauxite-front-loading-masks-a-market-at-a-crossroads) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a8eb669e2b3ac1fb4954ab8_1) Tonne miles.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-bauxite-front-loading-masks-a-market-at-a-crossroads) | [Local Asset](../../images/6a8eb669e2b3ac1fb4954ab8_1) Tonne miles.png)
 
 Bauxite flows in July 2026 reached 20 Mt, up over 3% from the same month last year. This was driven by a 5% increase in flows destined for China, which counteracted the large drop-off in flows to almost every other region. India has seen a surge in bauxite imports, but shipments of bauxite destined for the country fell by 2% in July, only the second month in 2026 to record a decrease.
 
@@ -51,7 +51,7 @@ The conflict in the Arabian Gulf region continues to impact bauxite flows to the
 
 > **Figure 2: Source: Seaborne Bauxite Flows From Signal Oceanhttps://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Seaborne bauxite flows from Signal Oceanhttps://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-bauxite-front-loading-masks-a-market-at-a-crossroads) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a8eb681dfebf9276e51bc4d_2) Bauxite flows.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-bauxite-front-loading-masks-a-market-at-a-crossroads) | [Local Asset](../../images/6a8eb681dfebf9276e51bc4d_2) Bauxite flows.png)
 
 The outlook for August and September is broadly positive, though the picture is more nuanced than the July headline suggests. Guinea's front-loading dynamic is the central question: if export restrictions are formalised in the coming weeks, the July surge could give way to a sharp pullback in loadings, tightening supply precisely when Chinese refiners are most dependent on Guinean ore. Conversely, if restrictions are delayed or watered down, the buying incentive dissipates and flows normalise from elevated levels. Either way, volatility around Guinea is the dominant near-term risk.
 
@@ -64,7 +64,7 @@ The UAE remains effectively offline as a destination for the foreseeable future 
 
 > **Figure 3: Source: Exports of Bauxite From Guinea in July 2026 From Signal Oceanhttps://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Exports of bauxite from Guinea in July 2026 from Signal Oceanhttps://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-bauxite-front-loading-masks-a-market-at-a-crossroads) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a8eb695562f3204c2e9c8e6_3) Guinea bauxite exports in July 2026.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-bauxite-front-loading-masks-a-market-at-a-crossroads) | [Local Asset](../../images/6a8eb695562f3204c2e9c8e6_3) Guinea bauxite exports in July 2026.png)
 
 
 ## The Guinea Question Defines the Outlook

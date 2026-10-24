@@ -27,7 +27,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-04-08_fundamental-tightness
 ![Στιγμιότυπο Οθόνης 2024 04 08 104049](assets/2024-04-08_fundamental-tightness-pushed-markets-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22fd4094ce87.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 04 08 104049**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-08_fundamental-tightness-pushed-markets-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22fd4094ce87.png)
+> [Local Asset](assets/2024-04-08_fundamental-tightness-pushed-markets-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22fd4094ce87.png)
 
 **Crude oil**held on recent gains as rising tensions in the Middle East raise concerns of supply disruptions. Israel scrambled navigational signals over Tel Aviv as the country prepares for a potential Iranian attack. This follows an airstrike on Iran’s embassy in Syria. Iran and Hezbollah both vowed retaliation. Geopolitical risks have been an ongoing issue for the oil market after a period of relative stability. The increased hostility has damped hopes that the war might remain contained. There have also been small, but not insignificant, disruptions in other parts of the oil market. This has not deterred OPEC, which reaffirmed production cuts last week. Clampdowns on adherence to quotas should see output fall in Q2. A broad improvement in the macro backdrop has also boosted sentiment. The prospect of a tighter market during the second quarter should[**support crude oil prices**](../pdfs/2024-04-08_fundamental-tightness-pushed-markets-higher_commodity-call-the-good-oil_01bdabd50b6e.pdf)in coming months.
 
@@ -42,7 +42,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-04-08_fundamental-tightness
 ![Στιγμιότυπο Οθόνης 2024 04 08 104127](assets/2024-04-08_fundamental-tightness-pushed-markets-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a48a29e6c93c.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 04 08 104127**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-08_fundamental-tightness-pushed-markets-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a48a29e6c93c.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-04-08_fundamental-tightness-pushed-markets-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a48a29e6c93c.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

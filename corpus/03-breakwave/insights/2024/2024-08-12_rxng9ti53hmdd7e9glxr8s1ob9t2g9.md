@@ -27,7 +27,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-08-12_rxng9ti53hmdd7e9glxr8
 ![Στιγμιότυπο Οθόνης 2024 08 11 192440](assets/2024-08-12_rxng9ti53hmdd7e9glxr8s1ob9t2g9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_addcd1eb1410.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 08 11 192440**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-12_rxng9ti53hmdd7e9glxr8s1ob9t2g9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_addcd1eb1410.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-08-12_rxng9ti53hmdd7e9glxr8s1ob9t2g9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_addcd1eb1410.png)
 
 Fast forward to this week, and a similar sense of unease has gripped the markets once again. On the first Monday of August, global stock markets took a sharp dive, with Japanese shares experiencing losses that, at one point, surpassed those of the infamous "Black Monday" in 1987. The trigger for this latest downturn was a growing fear of an impending US recession. A disappointing US jobs report released last Friday highlighted a much sharper slowdown in hiring than expected, exacerbating concerns that the world's largest economy is feeling the strain of high borrowing costs. During the recent earnings season, corporate executives warned that American consumers – who are pivotal to the US economy – are beginning to scale back their spending.
 
@@ -40,7 +40,7 @@ Conversely, China’s import data paints a mixed picture, with overall momentum 
 ![Στιγμιότυπο Οθόνης 2024 08 11 192625](assets/2024-08-12_rxng9ti53hmdd7e9glxr8s1ob9t2g9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5601d2b686da.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 08 11 192625**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-12_rxng9ti53hmdd7e9glxr8s1ob9t2g9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5601d2b686da.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-08-12_rxng9ti53hmdd7e9glxr8s1ob9t2g9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5601d2b686da.png)
 
 At the end of a volatile week for the stock market, US stocks dipped slightly in early trading on Friday. Despite most major equity markets recovering the bulk of Monday's losses, global markets continue to trade below the levels seen prior to last week’s U.S. jobs report, which initially triggered concerns about the health of the world’s largest economy. This indicates that investors remain cautious. Reflecting this sentiment, the spot market also remained subdued, struggling to recover earlier losses. The Capesize segment was the sole outlier, posting a modest weekly gain of approximately $1,000 at $20,213 per day. Meanwhile, Panamax and Supramax rates declined further, settling at $14,388 and $14,313 per day, respectively, with Handysize remaining relatively stable at $13,595 per day by Friday's close.
 

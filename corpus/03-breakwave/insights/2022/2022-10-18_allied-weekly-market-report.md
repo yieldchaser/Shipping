@@ -28,7 +28,7 @@ This comes at a relatively critical point for China’s economy as well as the g
 ![Unsplash Image V5twmwdahdi](assets/2022-10-18_allied-weekly-market-report_img_unsplash-image-v5twmwdahdi_65e2ac99fd76.jpg)
 
 > **Figure 1: Unsplash Image V5twmwdahdi**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-18_allied-weekly-market-report_img_unsplash-image-v5twmwdahdi_65e2ac99fd76.jpg)
+> [Local Asset](assets/2022-10-18_allied-weekly-market-report_img_unsplash-image-v5twmwdahdi_65e2ac99fd76.jpg)
 
 These include the tackling and restoring of China’s real estate market which has been facing considerable issues since Evergrande announced difficulties in payments on its debt last summer, as well as a considerable slowdown in China’s economic growth during the same time frame. As of the party congress opening speech on Sunday, the market has been getting mixed signals as to what we can expect with regard to these latter two issues, as President Xi Jinping’s two-hour address focused more so on policy goals with regard to national security, the environment as well as technology.
 
@@ -39,7 +39,7 @@ As much as most would like to view this party congress as disconnected and havin
 ![Unsplash Image Lac Rnembhg](assets/2022-10-18_allied-weekly-market-report_img_unsplash-image-lac-rnembhg_1aa877358bc2.jpg)
 
 > **Figure 2: Unsplash Image Lac Rnembhg**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-18_allied-weekly-market-report_img_unsplash-image-lac-rnembhg_1aa877358bc2.jpg)
+> [Local Asset](assets/2022-10-18_allied-weekly-market-report_img_unsplash-image-lac-rnembhg_1aa877358bc2.jpg)
 
 Similar worrying signals have been seen with regard to the crude oil market, although these greatly extend beyond China and its economic policies and are typically more so founded on the fact that the high inflation and energy costs witnessed across the world could potentially drag the global economy into recession. Overall, being that we are talking about the world’s second-largest economy as well as a top performer in terms of economic growth among the major economies of the world, any and all policies that are able to help prop up economic activity and internal consumption would set the pace for the global economy.
 

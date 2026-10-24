@@ -27,7 +27,7 @@ A weaker USD and signs of improvement in China’s economy helped boost sentimen
 ![Στιγμιότυπο Οθόνης 2024 11 28 150949](assets/2024-11-28_volatility-muted-amid-uncertain-economic-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_815eaf8beb6b.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 11 28 150949**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-28_volatility-muted-amid-uncertain-economic-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_815eaf8beb6b.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-11-28_volatility-muted-amid-uncertain-economic-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_815eaf8beb6b.png)
 
 ### Market Commentary
 
@@ -48,7 +48,7 @@ A falling rig count in the US suggests oil output will struggle to rise in the n
 ![Στιγμιότυπο Οθόνης 2024 11 28 094307](assets/2024-11-28_volatility-muted-amid-uncertain-economic-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_04d85a543dad.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 11 28 094307**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-28_volatility-muted-amid-uncertain-economic-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_04d85a543dad.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-11-28_volatility-muted-amid-uncertain-economic-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_04d85a543dad.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

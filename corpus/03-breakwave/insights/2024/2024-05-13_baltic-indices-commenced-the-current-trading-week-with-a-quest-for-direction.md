@@ -39,7 +39,7 @@ The most striking statistic, however, emerged from China's exporting activity ra
 ![Στιγμιότυπο Οθόνης 2024 05 13 100344](assets/2024-05-13_baltic-indices-commenced-the-current-trading-week-with-a-quest-for-direction_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_865e55275e29.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 13 100344**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-13_baltic-indices-commenced-the-current-trading-week-with-a-quest-for-direction_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_865e55275e29.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-05-13_baltic-indices-commenced-the-current-trading-week-with-a-quest-for-direction_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_865e55275e29.png)
 
 Given the market dynamics outlined earlier, the Baltic Supramax index wrapped up the day at $16,333 daily, slightly below this year's highs. Both the Baltic Capesize and Panamax indices capped off the nineteenth trading week at one-and-a-half-month highs, achieving $18,230 and $16,333 respectively. Conversely, Baltic Handysize index was the only one in the red, balancing at $12,647 daily.
 

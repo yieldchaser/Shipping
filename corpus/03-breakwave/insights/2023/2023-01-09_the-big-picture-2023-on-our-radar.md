@@ -40,7 +40,7 @@ Many welcomed the sight of China lifting Covid-19 restrictions in early December
 ![Market Chart 1](assets/2023-01-09_the-big-picture-2023-on-our-radar_img_image0281029_f7eb42b0e437.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-09_the-big-picture-2023-on-our-radar_img_image0281029_f7eb42b0e437.png)
+> [Local Asset](assets/2023-01-09_the-big-picture-2023-on-our-radar_img_image0281029_f7eb42b0e437.png)
 
 Inevitably there will be a slowdown in activity across the Chinese New Year period as there traditionally is, followed by an adjustment period of exiting zero-Covid. As a result, we look to the second half of the year for an improvement in both China’s economy and overall bulk commodity demand.
 
@@ -57,4 +57,4 @@ The continued strength in Guinean bauxite trade in 2022 was one of the few trade
 ![Market Chart 2](assets/2023-01-09_the-big-picture-2023-on-our-radar_img_image1281029_f8147ddb304c.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-09_the-big-picture-2023-on-our-radar_img_image1281029_f8147ddb304c.png)
+> [Local Asset](assets/2023-01-09_the-big-picture-2023-on-our-radar_img_image1281029_f8147ddb304c.png)

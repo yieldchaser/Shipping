@@ -33,7 +33,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform - Oil Flows**  
 > *Data Source: The Signal Ocean Platform - Oil Flows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-21-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/64704f561617880f52fc79c7_chart of the week russian diesel oil exports logo.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-21-2023) | [Local Asset](../../images/64704f561617880f52fc79c7_chart of the week russian diesel oil exports logo.png)
 
 Russian diesel oil exports currently show a significant downward trend compared to the volume of flows in the first quarter of this year. In the case of Turkey, one of the main destinations, there is a gradual decline after the previous months exceeded the levels of the previous two years. However, the total volume of Russian diesel for Turkey is still higher than in the previous two years, with the trend moving towards the 2021 level (image above, of the 25-day moving average of the total volume). Within the crude tanker segment, VLCC freight rates have yet to exhibit signs of firmness, except for the Aframax Med route, which has shown a noticeable recovery compared to the previous week. In the clean segment, there have been some promising signs of firmness in the MR2 size. However, the diminishing pace of Russian diesel oil exports poses a potential threat to the solid outlook of clean freight rates.
 

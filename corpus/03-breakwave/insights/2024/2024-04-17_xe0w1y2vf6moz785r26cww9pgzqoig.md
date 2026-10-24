@@ -25,12 +25,12 @@ source_file: "corpus/03-breakwave/insights/2024/2024-04-17_xe0w1y2vf6moz785r26cw
 ![Red Sea Diversions](assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image001_a3c91049ddeb.png)
 
 > **Figure 1: Red Sea Diversions**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image001_a3c91049ddeb.png)
+> [Local Asset](assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image001_a3c91049ddeb.png)
 
 ![Market Chart 2](assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image002_9e8aff9a37ae.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image002_9e8aff9a37ae.png)
+> [Local Asset](assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image002_9e8aff9a37ae.png)
 
 **Ukraine drone attacks**- Russia faced persistent drone attacks on its refineries during the quarter. Major refinery Surgut Kirshi (420k b/d) was repeatedly attacked in March, with Rosneft’s Ryazan (343k b/d) also hit on March 13. Despite this, Russia's CPP exports in Q1 reached the highest level since Q1-23, at 1.8m b/d.
 
@@ -41,7 +41,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-04-17_xe0w1y2vf6moz785r26cw
 ![Cpp Exports From Lekki (Dangote Refinery) Nigeria](assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image2_8a4963bc33ca.png)
 
 > **Figure 3: Cpp Exports From Lekki (Dangote Refinery) Nigeria**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image2_8a4963bc33ca.png)
+> [Local Asset](assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image2_8a4963bc33ca.png)
 
 **TMX readies for Canadian crude flows**- Charterers purchased crude cargoes to load at Canada's West Coast via the Trans Mountain Pipeline expansion project, which is expected to start liftings this quarter (Q2-24).
 
@@ -50,12 +50,12 @@ source_file: "corpus/03-breakwave/insights/2024/2024-04-17_xe0w1y2vf6moz785r26cw
 ![Duqm Hits Full Capacity](assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image3_e5e2aa895a3e.png)
 
 > **Figure 4: Duqm Hits Full Capacity**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image3_e5e2aa895a3e.png)
+> [Local Asset](assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image3_e5e2aa895a3e.png)
 
 ![Market Chart 5](assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image003_ca91c6861030.png)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image003_ca91c6861030.png)
+> [Local Asset](assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image003_ca91c6861030.png)
 
 **Global oil demand**– Oil demand is expected to have been steady in the first quarter of the year at just over 102m b/d, up 2% YoY, but down slightly on the previous quarter. A rise in bunker fuel demand resulting from higher steaming speeds to make up for time lost during red sea diversions, mostly involving containerships – was cited as a supporting feature of oil demand.
 
@@ -64,7 +64,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-04-17_xe0w1y2vf6moz785r26cw
 ![Tanker Demand](assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image5_59fb69805d07.png)
 
 > **Figure 6: Tanker Demand**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image5_59fb69805d07.png)
+> [Local Asset](assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image5_59fb69805d07.png)
 
 **Oil prices**- Brent climbed steadily throughout Q1, reaching $86/bbl (currently at $90.8/bbl) by the end of the quarter. Brent was up 13% QoQ. OPEC+ members confirmed they would continue output cuts of 2.2m b/d at least until end of Q2-24.
 
@@ -97,7 +97,7 @@ Average earnings for**LR2**tankers jumped at the start of February, peaking at 1
 ![Market Chart 7](assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image004_2781a5a86408.png)
 
 > **Figure 7: Market Chart 7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image004_2781a5a86408.png)
+> [Local Asset](assets/2024-04-17_xe0w1y2vf6moz785r26cww9pgzqoig_img_image004_2781a5a86408.png)
 
 **Time charter markets**were busy in Q1 2024, particularly for MRs. One year TC rates improved across the board, with the exception of Suezmax rates, which slipped slightly from a very strong start to the year. The biggest improvements were seen by MRs, which saw 1 yr. TC rates lift by 3.5k $/day during the quarter.
 

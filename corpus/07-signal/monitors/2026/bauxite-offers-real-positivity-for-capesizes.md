@@ -40,7 +40,7 @@ Bauxite continues to climb, with a positive downstream outlook, capesize demand 
 
 > **Figure 1: Source: Bauxite Carrying Capesize Tonne-Miles From Signal Ocean**  
 > *Source: Bauxite carrying Capesize tonne-miles from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/bauxite-offers-real-positivity-for-capesizes) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698b032f25135f2060a9b9b4_733b6287.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/bauxite-offers-real-positivity-for-capesizes) | [Local Asset](../../images/698b032f25135f2060a9b9b4_733b6287.png)
 
 Bauxite was the best performing of the three capesize demand-driving commodities in 2025, outpacing iron ore and coal in terms of tonne-mile growth. Bauxite flows reached 258mt, up 18% from 2024. The market is dominated on the supply side by Guinea, the origin for 68% of all the bauxite flows, and on the demand side by China, the destination for 85% of all seaborne bauxite flows on TSOP.
 
@@ -50,7 +50,7 @@ This trend has continued in 2026, with the full January figures showing 25mt of 
 ![Bauxite Offers Real Positivity for Capesizes](../../images/698b032f25135f2060a9b9ba_dd208666.png)
 
 > **Figure 2: Bauxite Offers Real Positivity for Capesizes**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/bauxite-offers-real-positivity-for-capesizes) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698b032f25135f2060a9b9ba_dd208666.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/bauxite-offers-real-positivity-for-capesizes) | [Local Asset](../../images/698b032f25135f2060a9b9ba_dd208666.png)
 
 The first month of 2026 has seen 25mt of bauxite flows, up 14% y/y. Unsurprisingly, Guinea and China dominate in terms of origin and destination, respectively, with 77% originating from the former and 86% of global flows heading to the latter. Flows from Guinea are up 19% y/y in January 2026, equating to 19mt. This increase is matched by China’s increased imports, which are also up 19% over the same period.
 
@@ -63,7 +63,7 @@ Indonesia banned bauxite exports in 2023, in order to secure material for its ow
 
 > **Figure 3: Source: China's Alumina Flows to Indonesia From Signal Ocean**  
 > *Source: China's alumina flows to Indonesia from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/bauxite-offers-real-positivity-for-capesizes) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698b032f25135f2060a9b9b7_1c6c07f0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/bauxite-offers-real-positivity-for-capesizes) | [Local Asset](../../images/698b032f25135f2060a9b9b7_1c6c07f0.png)
 
 
 ## Bauxite and Simandou Keep West Africa a Key Growth Area for Capesize Demand

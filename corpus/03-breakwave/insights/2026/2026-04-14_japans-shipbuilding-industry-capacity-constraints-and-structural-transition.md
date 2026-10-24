@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-04-14_japans-shipbuilding-i
 ![Rgb Color Brs Shipbrokers Monogram L](assets/2026-04-14_japans-shipbuilding-industry-capacity-constraints-and-structural-transition_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram L**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-14_japans-shipbuilding-industry-capacity-constraints-and-structural-transition_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](assets/2026-04-14_japans-shipbuilding-industry-capacity-constraints-and-structural-transition_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 In the chapter of the recently released BRS Annual Review of Shipping and Shipbuilding Markets 2026 entitled "What Does It Take to Become a Shipbuilding Country", it is noted that, in order to counteract the dominance of China, as well as promoting domestic shipbuilding, the US is also looking to nurture invest in the shipbuilding industry in its allies.
 
@@ -36,14 +36,14 @@ Since last year, this trend has accelerated notably. Japanese shipowners Fukujin
 ![Στιγμιότυπο Οθόνης 2026 04 14 121146](assets/2026-04-14_japans-shipbuilding-industry-capacity-constraints-and-structural-transition_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_78f2a7817215.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 04 14 121146**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-14_japans-shipbuilding-industry-capacity-constraints-and-structural-transition_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_78f2a7817215.png)
+> [Local Asset](assets/2026-04-14_japans-shipbuilding-industry-capacity-constraints-and-structural-transition_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_78f2a7817215.png)
 
 Japanese shipyards’ capacity is shrinking. Over the past decade, the number of active shipyards in Japan have fallen so that by end-2025 there were only fifty. In contrast, among its major competitors, the number of active shipyards in China and South Korea has remained relatively stable. In terms of orderbook share, Japan’s position among the world’s top three shipbuilding nations has continued to erode over the past decade. As discussed in the BRS Annual Review China dominates the global market, accounting for approximately 67% of the total orderbook in 2025. South Korea ranked second with a share of 12%, while Japan lags behind at 11%. From a vessel type perspective, Japan’s orderbook remains largely concentrated in bulk carriers, tankers and LPG carriers, reflecting its long-standing development path centered on standardized vessel designs and incremental innovation. In comparison, China’s dominance is driven by its unmatched scale, highly competitive pricing and rapidly advancing technological capabilities, while South Korea continues to consolidate its leadership in high value-added segments, particularly LNG carriers.
 
 ![Στιγμιότυπο Οθόνης 2026 04 14 121158](assets/2026-04-14_japans-shipbuilding-industry-capacity-constraints-and-structural-transition_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98f795a3dcca.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 04 14 121158**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-14_japans-shipbuilding-industry-capacity-constraints-and-structural-transition_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98f795a3dcca.png)
+> [Local Asset](assets/2026-04-14_japans-shipbuilding-industry-capacity-constraints-and-structural-transition_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98f795a3dcca.png)
 
 Data show that China and Japan continue to dominate the bulk carrier construction market, jointly accounting for approximately 94% of global bulk carrier orders over the past decade. Over 2020-24, Japan secured an average of around 174 bulk carrier orders per year. However, in 2025, as higher-value vessel segments, including tankers, gas carriers and RoRos absorbed a larger share of shipyard capacity, Japan’s bulk carrier orders declined sharply to 94 units, representing an annual drop of 49%.
 
@@ -52,7 +52,7 @@ From a vessel class segment, small-sized units (25,000–68,000 dwt) accounted f
 ![Στιγμιότυπο Οθόνης 2026 04 14 121209](assets/2026-04-14_japans-shipbuilding-industry-capacity-constraints-and-structural-transition_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3408e224d047.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2026 04 14 121209**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-14_japans-shipbuilding-industry-capacity-constraints-and-structural-transition_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3408e224d047.png)
+> [Local Asset](assets/2026-04-14_japans-shipbuilding-industry-capacity-constraints-and-structural-transition_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3408e224d047.png)
 
 Rising raw material prices and increasing labor costs are jointly pushing up ship prices. In the post-pandemic era, inflationary pressures in Japan continue to escalate. According to data from the International Monetary Fund, Japan's annual inflation rate reached 2.7% as of 2024. As prices continue to rise faster than wages, the shipbuilding industry is seeing a labor exodus toward sectors offering more competitive compensation. For example, TSMC's plant in Kumamoto offers wage levels approximately 1.5 times higher than those of local shipyards, directly intensifying talent attrition in the industry. Meanwhile, an aging workforce has become increasingly prominent, with many skilled workers nearing retirement, further exacerbating the labour shortage. In response to these challenges, the Japanese government has introduced measures. It has set a goal to double shipbuilding capacity to 18 million gross tonnes（circa 23.8 mln Dwt）by 2035, supported by approximately 1 trillion yen ($6.4 billion) in public and private investment. The roadmap also aims to reduce construction costs by 10% and improve productivity by 25%.
 

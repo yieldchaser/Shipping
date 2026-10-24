@@ -28,25 +28,25 @@ The USDA is now forecasting that global coarse grain exports in 2022/23 will tot
 ![Chart 1 (68)](assets/2022-12-23_global-grain-trade-contraction_img_chart1286829_124e685df9a1.jpg)
 
 > **Figure 1: Chart 1 (68)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-23_global-grain-trade-contraction_img_chart1286829_124e685df9a1.jpg)
+> [Local Asset](assets/2022-12-23_global-grain-trade-contraction_img_chart1286829_124e685df9a1.jpg)
 
 Global wheat exports are expected to total 210.9 million tons. This is 2.2 million tons (1%) more than was forecast a month ago and would mark a year-on-year increase of 8.1 million tons (4%).
 
 ![Chart 2 (59)](assets/2022-12-23_global-grain-trade-contraction_img_chart2285929_8ac05d44998d.jpg)
 
 > **Figure 2: Chart 2 (59)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-23_global-grain-trade-contraction_img_chart2285929_8ac05d44998d.jpg)
+> [Local Asset](assets/2022-12-23_global-grain-trade-contraction_img_chart2285929_8ac05d44998d.jpg)
 
 Global soybean exports are expected to total 169.1 million tons. This is 300,000 tons more than was forecast a month ago and would mark a year-on-year increase of 15.6 million tons (10%).
 
 ![Chart 3 (45)](assets/2022-12-23_global-grain-trade-contraction_img_chart3284529_5fb38bcb5641.jpg)
 
 > **Figure 3: Chart 3 (45)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-23_global-grain-trade-contraction_img_chart3284529_5fb38bcb5641.jpg)
+> [Local Asset](assets/2022-12-23_global-grain-trade-contraction_img_chart3284529_5fb38bcb5641.jpg)
 
 Global soymeal exports are expected to total 70.1million tons. This is 100,000 tons more than was forecast a month ago and would mark a year-on-year increase of 1.8 million tons (3%).
 
 ![Chart 4 (20)](assets/2022-12-23_global-grain-trade-contraction_img_chart4282029_3b40922b1ec7.jpg)
 
 > **Figure 4: Chart 4 (20)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-23_global-grain-trade-contraction_img_chart4282029_3b40922b1ec7.jpg)
+> [Local Asset](assets/2022-12-23_global-grain-trade-contraction_img_chart4282029_3b40922b1ec7.jpg)

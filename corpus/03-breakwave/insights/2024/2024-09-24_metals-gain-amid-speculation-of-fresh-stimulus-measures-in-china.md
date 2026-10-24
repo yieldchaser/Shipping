@@ -27,7 +27,7 @@ Industrial metals gained amid expectations of support measures in China. Geopoli
 ![Στιγμιότυπο Οθόνης 2024 09 24 112903](assets/2024-09-24_metals-gain-amid-speculation-of-fresh-stimulus-measures-in-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ddd00a9730d6.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 24 112903**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-24_metals-gain-amid-speculation-of-fresh-stimulus-measures-in-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ddd00a9730d6.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-09-24_metals-gain-amid-speculation-of-fresh-stimulus-measures-in-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ddd00a9730d6.png)
 
 ### Market Commentary
 
@@ -46,7 +46,7 @@ India's cut to import duty by 9% to 6% is a game changer to mitigate negative im
 ![Στιγμιότυπο Οθόνης 2024 09 24 113047](assets/2024-09-24_metals-gain-amid-speculation-of-fresh-stimulus-measures-in-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21e67a986121.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 09 24 113047**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-24_metals-gain-amid-speculation-of-fresh-stimulus-measures-in-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21e67a986121.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-09-24_metals-gain-amid-speculation-of-fresh-stimulus-measures-in-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21e67a986121.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

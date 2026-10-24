@@ -50,6 +50,6 @@ tags:
 ![68e7b5cb94cc03687dd61452 4ad7c0ef](../../images/68e7b5cb94cc03687dd61452_4ad7c0ef.png)
 
 > **Figure 1: 68e7b5cb94cc03687dd61452 4ad7c0ef**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-vlcc-market-pulse) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68e7b5cb94cc03687dd61452_4ad7c0ef.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-vlcc-market-pulse) | [Local Asset](../../images/68e7b5cb94cc03687dd61452_4ad7c0ef.png)
 
 **Stay ahead of the curve. Get access to the** [**Signal Ocean Platform**](https://calendly.com/thesignalgroup/inbound-demo-session?utm\_source=market+insight&utm\_medium=newsroom&utm\_campaign=inbound) **.**

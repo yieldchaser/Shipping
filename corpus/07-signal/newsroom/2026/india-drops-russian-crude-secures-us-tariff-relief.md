@@ -40,7 +40,7 @@ On Monday, 2nd February 2026, U.S. President Donald Trump announced a new trade 
 
 > **Figure 1: Source: Crude Oil Flows From Russia to India From Signal Ocean**  
 > *Source: Crude oil flows from Russia to India from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/india-drops-russian-crude-secures-us-tariff-relief) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6981f38598c1f0d41bb48dff_28b6f804.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/india-drops-russian-crude-secures-us-tariff-relief) | [Local Asset](../../images/6981f38598c1f0d41bb48dff_28b6f804.png)
 
 India’s continued buying of Russian crude oil despite pressure from the West has been a source of strain between the two regions. The latest deal announced by President Trump on Monday looks set to ease the tensions.
 
@@ -57,7 +57,7 @@ The tariff reductions do, though, offer significant upside for India if it can m
 
 > **Figure 2: Source: Indian Crude Oil Sources in 2025 From Signal Ocean**  
 > *Source: Indian crude oil sources in 2025 from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/india-drops-russian-crude-secures-us-tariff-relief) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6981f38598c1f0d41bb48e02_87d3ae2f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/india-drops-russian-crude-secures-us-tariff-relief) | [Local Asset](../../images/6981f38598c1f0d41bb48e02_87d3ae2f.png)
 
 
 ## Takeaways

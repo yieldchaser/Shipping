@@ -32,7 +32,7 @@ Combining all coal types with bauxite, and chrome, copper, iron, manganese and n
 ![Market Chart 1](assets/2024-01-23_the-big-picture-chinas-coal-and-ore-imports-the-very-big-picture_img_image0281229_509b95a1b554.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-23_the-big-picture-chinas-coal-and-ore-imports-the-very-big-picture_img_image0281229_509b95a1b554.png)
+> [Local Asset](assets/2024-01-23_the-big-picture-chinas-coal-and-ore-imports-the-very-big-picture_img_image0281229_509b95a1b554.png)
 
 Turning to the chart on the right, last year’s estimated total for other ores (confirmed customs data for December is not yet available) is double 2016 and four times the 2009 level.
 
@@ -47,7 +47,7 @@ Using vessel tracking from AXS, the share of Capesize involvement in China’s b
 ![Market Chart 2](assets/2024-01-23_the-big-picture-chinas-coal-and-ore-imports-the-very-big-picture_img_image1281229_df263c55378b.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-23_the-big-picture-chinas-coal-and-ore-imports-the-very-big-picture_img_image1281229_df263c55378b.png)
+> [Local Asset](assets/2024-01-23_the-big-picture-chinas-coal-and-ore-imports-the-very-big-picture_img_image1281229_df263c55378b.png)
 
 An exceptionally low month for Chinese crude steel production was released by the National Bureau of Statistics in December. At 67.4m tonnes, it was almost 20m tonnes below the January-November average.
 
@@ -58,7 +58,7 @@ Although never officially confirmed, flat growth has been the outcome.
 ![Market Chart 3](assets/2024-01-23_the-big-picture-chinas-coal-and-ore-imports-the-very-big-picture_img_image2281129_ab7d74bc38b8.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-23_the-big-picture-chinas-coal-and-ore-imports-the-very-big-picture_img_image2281129_ab7d74bc38b8.png)
+> [Local Asset](assets/2024-01-23_the-big-picture-chinas-coal-and-ore-imports-the-very-big-picture_img_image2281129_ab7d74bc38b8.png)
 
 In contrast to many of the import growth stories on page 2, China’s crude steel output has fallen short of the previous peak (2020).
 

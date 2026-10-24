@@ -43,40 +43,40 @@ The most important issue of the time is, of course, US inflation.
 ![Market Chart 1](assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image001_22f35c105d8f.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image001_22f35c105d8f.png)
+> [Local Asset](assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image001_22f35c105d8f.png)
 
 The long-expected pickup last week even cheered some economists who were wondering why US prices didn’t rise earlier, despite more than half the firms passing tariffs on to consumers. It’s not just a slight rebound in oil prices, but also higher core services prices that drove up headline inflation.
 
 ![Market Chart 2](assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image002_1aadf0da2a06.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image002_1aadf0da2a06.jpg)
+> [Local Asset](assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image002_1aadf0da2a06.jpg)
 
 Despite the pickup, most of the US economic data remains robust. Growth at 1.5% this year isn’t great, but certainly it’s not a recession either. Consumption data from June was also good, suggesting that consumers aren’t shocked.
 
 ![Market Chart 3](assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image003_ee0ce4ca31fb.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image003_ee0ce4ca31fb.png)
+> [Local Asset](assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image003_ee0ce4ca31fb.png)
 
 Meanwhile, the US stock market is near all-time highs once again.
 
 ![Market Chart 4](assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image004_91e23e85871a.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image004_91e23e85871a.png)
+> [Local Asset](assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image004_91e23e85871a.png)
 
 And even as the White House presses for Jay Powell to be replaced (presumably with a chair that will be willing to floor short term rates long enough for the US to refinance a record amount of short-term debt this year), long-term borrowing rates (where inflation lives) and the yield curve (the difference between long and short-term rates) haven’t really reflected rising inflation risks.
 
 ![Market Chart 5](assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image005_c1420584e179.jpg)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image005_c1420584e179.jpg)
+> [Local Asset](assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image005_c1420584e179.jpg)
 
 ![Nor Have Market-Implied Inflation Expectations](assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image006_b5f18aa11516.png)
 
 > **Figure 6: Nor Have Market-Implied Inflation Expectations**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image006_b5f18aa11516.png)
+> [Local Asset](assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image006_b5f18aa11516.png)
 
 In other words, the US economy is not collapsing, even as tariffs are 6x the previous long-term average and the highest they have been since the Second World War.
 
@@ -89,21 +89,21 @@ Second, some assumed that their own dismal forward-looking outlook would instant
 ![Decidedly Slower-Moving Trains](assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image007_9f212780b09c.png)
 
 > **Figure 7: Decidedly Slower-Moving Trains**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image007_9f212780b09c.png)
+> [Local Asset](assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image007_9f212780b09c.png)
 
 Third,. Whether by design (a deal) or not, Oil prices are down 10% since the inauguration, and nearly double that in Euro or GBP terms. Saudis, like the Chinese, have pegged their currency to the Dollar. Because they are not big importers, they don’t suffer much from their own devaluation (China might eventually if commodity prices begin to spike as product-focused tariffs pick up). Now to be fair, this hasn’t quite translated at prices “at the pump” (average gasoline prices are at $3.63, nearly at the same level as they were in January ($3.59) mostly because of inventories and maintenance issues, seasonal issues, as well as increased export demand, but, considering the lower Dollar it’s still a boon that American consumers may enjoy.
 
 ![Energy Prices Are Persistently Low](assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image008_c1f1f5ae7269.png)
 
 > **Figure 8: Energy Prices Are Persistently Low**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image008_c1f1f5ae7269.png)
+> [Local Asset](assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image008_c1f1f5ae7269.png)
 
 Now, equity markets are not really unphased. In fact, they have wisely priced-in the lower US Dollar. While US equities are at all-time highs, and trading at expensive multiples, they are in fact negative for Euro and GBP Investors. Investors expect a healthy 5.3% year-on-year growth in US earnings, a bit lower than the 7.7% average but still well on track to deliver 10.7% by the end of the year.
 
 ![Market Chart 9](assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image009_a5ee3cefeb16.png)
 
 > **Figure 9: Market Chart 9**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image009_a5ee3cefeb16.png)
+> [Local Asset](assets/2025-07-23_the-trade-war-is-not-a-shock-it-is-a-slow-train_img_image009_a5ee3cefeb16.png)
 
 Our bigger worry is the bond market. The market has not priced in a meaningful shift in the inflation regime, which means that investors are quite relaxed about a change of paradigm at the central bank. They also don’t see risks rising from fiscal incontinence in the US and across the globe. This creates upside risks, especially for longer-dated bonds, where inflation lives. Conversely, it could create opportunities for short-term bonds if the Fed somehow capitulates and embarks on a rate-cutting binge.
 

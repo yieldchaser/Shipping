@@ -41,7 +41,7 @@ BunkerEx oil bunker price is global, and covers the largest bunkering hubs in th
 
 > **Figure 1: Oil Bunkering Prices at the Signal Ocean Platform.data Provided by Bunkerex.**  
 > *Oil Bunkering prices at the Signal Ocean Platform.Data provided by BunkerEx.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/bunkering-ports-competing-on-price-product-update) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d200e11607ea71d5fc0_60c0c8b8232c6710a700fced_Oil%20Bunker%20Prices%20at%20the%20Signal%20Ocean%20platform.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/bunkering-ports-competing-on-price-product-update) | [Local Asset](../../images/66b51d200e11607ea71d5fc0_60c0c8b8232c6710a700fced_Oil%20Bunker%20Prices%20at%20the%20Signal%20Ocean%20platform.avif)
 
 The optimal time to refuel a vessel is when it is between earning periods (i.e. during her ballast leg). While not common, it is also possible to refuel en route during a voyage (the laden leg) should the Charter Party allow. In certain ports (e.g. Sines, Antwerp, Amsterdam) vessels can stem (load) bunkers concurrently with cargo operations. This optionality is crucial in the decision making process when estimating profitability of Time Charter Equivalent (TCE) earnings on a commercial voyage. The Signal Ocean Platform provides confidence to the decision maker by presenting a data driven insight into bunkering options for their voyage.
 
@@ -53,7 +53,7 @@ The optimal time to refuel a vessel is when it is between earning periods (i.e. 
 
 > **Figure 2: Bunkering Ports Report at the Signal Ocean Platform.**  
 > *Bunkering ports report at the Signal Ocean Platform.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/bunkering-ports-competing-on-price-product-update) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d200e11607ea71d5fbc_60c0c9489dbe7a55f04bdbef_bunkering%20port%20report%20signal%20ocean.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/bunkering-ports-competing-on-price-product-update) | [Local Asset](../../images/66b51d200e11607ea71d5fbc_60c0c9489dbe7a55f04bdbef_bunkering%20port%20report%20signal%20ocean.avif)
 
 As of Jan 1 2020, IMO low sulphur regulations are a good example of the increased complexity and compliance issues facing a modern bunker procurement desk. For a typical voyage, you may find a number of different options are available. However the research involved in each option is extensive and time consuming, often requiring many phone calls to bunker traders for price checks. Compounding the complexity for any bunker purchaser is the number of voyages they are concurrently responsible for across various regions and vessel types.
 

@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-02-10_white-house-in-spotli
 ![Tankers Secondary](assets/2025-02-10_white-house-in-spotlight-again_img_tankers-secondary_0d029e248e3f.jpg)
 
 > **Figure 1: Tankers Secondary**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-10_white-house-in-spotlight-again_img_tankers-secondary_0d029e248e3f.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-02-10_white-house-in-spotlight-again_img_tankers-secondary_0d029e248e3f.jpg)
 
 It has been another turbulent week in the oil and tanker markets. Whilst U.S. tariffs on Canada and Mexico were postponed for a month, the 10% tariff on all Chinese products took effect on February 4, with Beijing swiftly retaliating, imposing a 10% tariff on U.S. crude exports and a 15% duty on LNG and coal exports starting February 10, whilst some other measures were also implemented. Later in the week, the market saw another executive order in which President Trump directed the imposition of “maximum economic pressure” on Iran, with the OFAC promptly releasing fresh sanctions, containing a list of individuals, companies and five tankers.
 
@@ -44,7 +44,7 @@ With all this in mind, uncertainty remains the key factor in the tanker market, 
 ![Στιγμιότυπο Οθόνης 2025 02 09 175632](assets/2025-02-10_white-house-in-spotlight-again_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a82fbde6df48.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 02 09 175632**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-10_white-house-in-spotlight-again_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a82fbde6df48.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-02-10_white-house-in-spotlight-again_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a82fbde6df48.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

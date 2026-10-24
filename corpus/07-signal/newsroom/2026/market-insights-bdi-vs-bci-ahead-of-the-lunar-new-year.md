@@ -29,7 +29,7 @@ tags:
 
 > **Figure 1: Spot Comparison: Available Here**  
 > *Spot Comparison: available here*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-bdi-vs-bci-ahead-of-the-lunar-new-year) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6989bdce8cb8d2f63fbd2f80_554f87da.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-bdi-vs-bci-ahead-of-the-lunar-new-year) | [Local Asset](../../images/6989bdce8cb8d2f63fbd2f80_554f87da.png)
 
 
 ## Market Overview
@@ -58,7 +58,7 @@ Iron ore trade flows continue to be supported by almost steady annual volume gro
 
 > **Figure 2: Dry Bulk Flows: Available Here**  
 > *Dry Bulk Flows: available here*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-bdi-vs-bci-ahead-of-the-lunar-new-year) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6989bdce8cb8d2f63fbd2f7a_bed2227e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-bdi-vs-bci-ahead-of-the-lunar-new-year) | [Local Asset](../../images/6989bdce8cb8d2f63fbd2f7a_bed2227e.png)
 
 
 ## Fleet Supply
@@ -70,13 +70,13 @@ Fleet supply dynamics remain a key risk factor. In early 2015, freight rates col
 
 > **Figure 3: Orderbook Trends: Available Here**  
 > *Orderbook Trends: available here*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-bdi-vs-bci-ahead-of-the-lunar-new-year) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6989bdce8cb8d2f63fbd2f7d_59b033bb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-bdi-vs-bci-ahead-of-the-lunar-new-year) | [Local Asset](../../images/6989bdce8cb8d2f63fbd2f7d_59b033bb.png)
 
 
 ![Fleet Supply](../../images/6989bdce8cb8d2f63fbd2f83_1c8a7730.png)
 
 > **Figure 4: Fleet Supply**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-bdi-vs-bci-ahead-of-the-lunar-new-year) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6989bdce8cb8d2f63fbd2f83_1c8a7730.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-bdi-vs-bci-ahead-of-the-lunar-new-year) | [Local Asset](../../images/6989bdce8cb8d2f63fbd2f83_1c8a7730.png)
 
 
 ## Outlook

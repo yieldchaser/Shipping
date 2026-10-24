@@ -27,7 +27,7 @@ Global economic growth has shown signs of resilience in the past few years, supp
 ![Στιγμιότυπο Οθόνης 2024 12 09 135056](assets/2024-12-09_global-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0aa44f381763.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 12 09 135056**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-09_global-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0aa44f381763.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-12-09_global-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0aa44f381763.png)
 
 The United States continues to demonstrate robust economic momentum, buoyed by strong consumer spending and labor market stability, though the Federal Reserve's cautious stance on interest rates highlights underlying concerns about inflation persistence. On an annual basis, GDP growth is projected to be 2.8 percent in 2024, 2.4 percent in 2025 and 2.1 percent in 2026. Meanwhile, the Eurozone grapples with subdued growth prospects as elevated borrowing costs and weak manufacturing output weigh on its economic trajectory. Growth in the euro area is projected to pick up from 0.8 percent this year to 1.3 percent in 2025 and 1.5 percent in 2026, with spare capacity eventually being eliminated by the end of 2026. Japan’s economy, bolstered by a surge in exports and domestic demand, has outperformed expectations, though concerns about wage stagnation and demographic challenges persist. Following a sharp growth rebound to 1.5 percent in 2025, GDP growth is projected to ease to 0.6 percent in the following year, amid a move towards a more restrictive macroeconomic policy mix. Across emerging markets, India and Indonesia are projected to continue to enjoy rapid and broadly stable economic growth in the next two years. Conversely, China’s economic growth is projected to ease gradually during the same period.
 
@@ -40,7 +40,7 @@ In reference to global trade, volumes are set to recover from the downturn in 20
 ![Στιγμιότυπο Οθόνης 2024 12 09 135249](assets/2024-12-09_global-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca9017d74944.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 12 09 135249**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-09_global-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca9017d74944.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-12-09_global-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca9017d74944.png)
 
 While global growth is expected to remain positive in the coming years, there are substantial risks, especially in key economies like China and the Eurozone. Nevertheless, global trade appears poised for recovery, supported by emerging market growth. Despite uncertainties, the overall outlook remains cautiously optimistic, with opportunities for sectors like shipping to benefit from improved trade volumes and investment in infrastructure.
 

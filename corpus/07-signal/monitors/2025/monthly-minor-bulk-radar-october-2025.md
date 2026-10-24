@@ -31,7 +31,7 @@ Minor bulk, made up of all cargo types except iron ore, coal, and grains, starte
 
 > **Figure 1: Source: Total Minor Bulk Plus Rice Export Performance From Signal Ocean.minor Bulk Is Made Up of Dry Bulk That Is Not Categorised as Iron Ore, Coal, or Grains**  
 > *Source: Total minor bulk* plus rice export performance from Signal Ocean.*Minor bulk is made up of dry bulk that is not categorised as iron ore, coal, or grains. It includes bauxite, cement, steel, and fertilizers, among others.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da4922_b3724c49.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](../../images/69242ca0b168faee05da4922_b3724c49.png)
 
 
 ## Economic Environment
@@ -44,7 +44,7 @@ Minor bulk, made up of all cargo types except iron ore, coal, and grains, starte
 
 > **Figure 2: Source: National Bureau of Statistics of China, Institute for Supply Management, Hcob, Hbsc India Manufacturing Pmi**  
 > *Source: National Bureau of Statistics of China, Institute for Supply Management, HCOB, HBSC India Manufacturing PMI*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da4913_61758ff9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](../../images/69242ca0b168faee05da4913_61758ff9.png)
 
 
 ## Exchange Rates
@@ -56,7 +56,7 @@ Minor bulk, made up of all cargo types except iron ore, coal, and grains, starte
 ![Usd Vs:](../../images/69242ca0b168faee05da492e_1458e533.png)
 
 > **Figure 3: Usd Vs:**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da492e_1458e533.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](../../images/69242ca0b168faee05da492e_1458e533.png)
 
 
 ## Rmb Vs:
@@ -66,7 +66,7 @@ Minor bulk, made up of all cargo types except iron ore, coal, and grains, starte
 
 > **Figure 4: Source: Imf**  
 > *Source: IMF*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da4919_e341aaca.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](../../images/69242ca0b168faee05da4919_e341aaca.png)
 
 
 ## Baltic Indexes
@@ -76,7 +76,7 @@ Minor bulk, made up of all cargo types except iron ore, coal, and grains, starte
 
 > **Figure 5: Source: The Baltic Exchange**  
 > *Source: The Baltic Exchange*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da4928_06ba9cd2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](../../images/69242ca0b168faee05da4928_06ba9cd2.png)
 
 
 ## Minor Bulk
@@ -99,21 +99,21 @@ In the time from now until then, exports of bauxite from Guinea could increase a
 
 > **Figure 6: Source: Global Monthly Bauxite Exports From Signal Ocean**  
 > *Source: Global monthly bauxite exports from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da491c_edf1c0e8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](../../images/69242ca0b168faee05da491c_edf1c0e8.png)
 
 
 ![Source: China Aluminium Production From the National Bureau of Statistics](../../images/69242ca0b168faee05da4925_7658d14c.png)
 
 > **Figure 7: Source: China Aluminium Production From the National Bureau of Statistics**  
 > *Source: China aluminium production from the National Bureau of Statistics*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da4925_7658d14c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](../../images/69242ca0b168faee05da4925_7658d14c.png)
 
 
 ![Source: Exports of Bauxite From Guinea in 2025 From Signal Ocean](../../images/69242ca0b168faee05da491f_73d12fbb.png)
 
 > **Figure 8: Source: Exports of Bauxite From Guinea in 2025 From Signal Ocean**  
 > *Source: Exports of bauxite from Guinea in 2025 from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da491f_73d12fbb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](../../images/69242ca0b168faee05da491f_73d12fbb.png)
 
 
 ## Scrap Steel
@@ -131,21 +131,21 @@ Currently, Turkey has seen scrap steel imports down 15% YTD. The World Steel Ass
 
 > **Figure 9: Source: Total Scrap Steel Export Volumes From Signal Ocean**  
 > *Source: Total scrap steel export volumes from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da4916_b7edcfef.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](../../images/69242ca0b168faee05da4916_b7edcfef.png)
 
 
 ![Source: Destination of Scrap Steel Exports From Signal Ocean](../../images/69242ca0b168faee05da492b_f8849dd8.png)
 
 > **Figure 10: Source: Destination of Scrap Steel Exports From Signal Ocean**  
 > *Source: Destination of scrap steel exports from Signal ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da492b_f8849dd8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](../../images/69242ca0b168faee05da492b_f8849dd8.png)
 
 
 ![Source: Origin Areas of Scrap Steel Exports From Signal Ocean](../../images/69242ca0b168faee05da4932_246175dc.png)
 
 > **Figure 11: Source: Origin Areas of Scrap Steel Exports From Signal Ocean**  
 > *Source: Origin areas of scrap steel exports from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da4932_246175dc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](../../images/69242ca0b168faee05da4932_246175dc.png)
 
 
 ## Rice
@@ -163,21 +163,21 @@ Looking ahead, an increase in the magnitude agreed to by Japan would drive Handy
 
 > **Figure 12: Source: Global Rice Exports From Signal Ocean**  
 > *Source: Global rice exports from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da4938_447e4e3e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](../../images/69242ca0b168faee05da4938_447e4e3e.png)
 
 
 ![Source: Origins of Rice Exports From Signal Ocean](../../images/69242ca0b168faee05da4935_3db170be.png)
 
 > **Figure 13: Source: Origins of Rice Exports From Signal Ocean**  
 > *Source: Origins of rice exports from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da4935_3db170be.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](../../images/69242ca0b168faee05da4935_3db170be.png)
 
 
 ![Source: Destination for U.s.-Origin Rice Exports From Signal Ocean](../../images/69242ca0b168faee05da493b_baa8e16c.png)
 
 > **Figure 14: Source: Destination for U.s.-Origin Rice Exports From Signal Ocean**  
 > *Source: Destination for U.S.-origin rice exports from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69242ca0b168faee05da493b_baa8e16c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-october-2025) | [Local Asset](../../images/69242ca0b168faee05da493b_baa8e16c.png)
 
 
 ## Recent Insights & Weekly Reports

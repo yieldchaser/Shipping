@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-04-14_weekly-insights-revie
 ![Unsplash Image V7npjmbwyj4](assets/2023-04-14_weekly-insights-review_img_unsplash-image-v7npjmbwyj4_1556b2473a1d.jpg)
 
 > **Figure 1: Unsplash Image V7npjmbwyj4**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/4/10/doric-weekly-market-insight) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-14_weekly-insights-review_img_unsplash-image-v7npjmbwyj4_1556b2473a1d.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/4/10/doric-weekly-market-insight) | [Local Asset](assets/2023-04-14_weekly-insights-review_img_unsplash-image-v7npjmbwyj4_1556b2473a1d.jpg)
 
 ## Doric Weekly Market Insight
 
@@ -36,7 +36,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-04-14_weekly-insights-revie
 ![Unsplash Image Lzwwcp1vdbw](assets/2023-04-14_weekly-insights-review_img_unsplash-image-lzwwcp1vdbw_6d8e4782f64f.jpg)
 
 > **Figure 2: Unsplash Image Lzwwcp1vdbw**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/4/10/breakwave-bi-weekly-dry-bulk-report-april-11-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-14_weekly-insights-review_img_unsplash-image-lzwwcp1vdbw_6d8e4782f64f.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/4/10/breakwave-bi-weekly-dry-bulk-report-april-11-2023) | [Local Asset](assets/2023-04-14_weekly-insights-review_img_unsplash-image-lzwwcp1vdbw_6d8e4782f64f.jpg)
 
 ## Breakwave Bi-Weekly Dry Bulk Report - April 11, 2023
 
@@ -46,7 +46,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-04-14_weekly-insights-revie
 ![Db+report+top](assets/2023-04-14_weekly-insights-review_img_db2breport2btop_2f27512f2bfe.png)
 
 > **Figure 3: Db+report+top**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/4/13/shipfix-global-market-update) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-14_weekly-insights-review_img_db2breport2btop_2f27512f2bfe.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/4/13/shipfix-global-market-update) | [Local Asset](assets/2023-04-14_weekly-insights-review_img_db2breport2btop_2f27512f2bfe.png)
 
 ## Shipfix - Global Market Update
 
@@ -58,7 +58,7 @@ Yesterday, the International Monetary Fund shaved off 0.1 per cent from its proj
 ![Market Chart 4](assets/2023-04-14_weekly-insights-review_img_unnamed282929_5e61677fd895.jpg)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/4/11/oil-steady-as-investors-weigh-supply-issues-against-weaker-demand) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-14_weekly-insights-review_img_unnamed282929_5e61677fd895.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/4/11/oil-steady-as-investors-weigh-supply-issues-against-weaker-demand) | [Local Asset](assets/2023-04-14_weekly-insights-review_img_unnamed282929_5e61677fd895.jpg)
 
 ## Oil Steady As Investors Weigh Supply Issues Against Weaker Demand
 
@@ -70,7 +70,7 @@ There was mixed sentiment in markets with focus shifting towards one more rate h
 ![Market Chart 5](assets/2023-04-14_weekly-insights-review_img_unnamed283029_5c8f76681601.jpg)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/4/12/steel-production-now-likely-exceeding-demand-in-china) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-14_weekly-insights-review_img_unnamed283029_5c8f76681601.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/4/12/steel-production-now-likely-exceeding-demand-in-china) | [Local Asset](assets/2023-04-14_weekly-insights-review_img_unnamed283029_5c8f76681601.jpg)
 
 ## Steel Production Now Likely Exceeding Demand in China
 
@@ -82,7 +82,7 @@ Recent weeks have seen Chinese steel production climb even higher, with last mon
 ![Market Chart 6](assets/2023-04-14_weekly-insights-review_img_unnamed283129_c1bee23cc842.jpg)
 
 > **Figure 6: Market Chart 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-14_weekly-insights-review_img_unnamed283129_c1bee23cc842.jpg)
+> [Local Asset](assets/2023-04-14_weekly-insights-review_img_unnamed283129_c1bee23cc842.jpg)
 
 ## Coal India Stockpiles and the Nation's Power Plant Stockpiles Each Continue to Grow
 
@@ -94,4 +94,4 @@ Read More
 ![Market Chart 7](assets/2023-04-14_weekly-insights-review_img_unnamed283229_6a477165f8a3.jpg)
 
 > **Figure 7: Market Chart 7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-14_weekly-insights-review_img_unnamed283229_6a477165f8a3.jpg)
+> [Local Asset](assets/2023-04-14_weekly-insights-review_img_unnamed283229_6a477165f8a3.jpg)

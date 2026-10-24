@@ -31,7 +31,7 @@ October 23, 2024
 ![Στιγμιότυπο Οθόνης 2024 10 24 092249](assets/2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2d693633649.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 24 092249**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/outlook-china-growth-forecasts/2qn9rj/443613990/h/K8SfdPk44A3HKdezbGRd5ecARg-OZ1GAxsdAmTejVbk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2d693633649.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/outlook-china-growth-forecasts/2qn9rj/443613990/h/K8SfdPk44A3HKdezbGRd5ecARg-OZ1GAxsdAmTejVbk) | [Local Asset](assets/2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2d693633649.png)
 
 Russia plays a pivotal role as a supplier of wheat to Egypt, which holds the title of the world's largest wheat importer. The Egyptian economy relies heavily on Russian grain, particularly wheat, to satisfy its domestic demand. Over the years, Russia's share of Egypt's wheat imports has been substantial, and this relationship has only strengthened in recent times due to the relatively low cost and high availability of Russian grain.
 
@@ -50,7 +50,7 @@ Meanwhile, the outlook for earnings in the[iron ore market](https://go.signaloce
 ![Στιγμιότυπο Οθόνης 2024 10 24 092845](assets/2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ca29a208262.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 24 092845**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ca29a208262.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ca29a208262.png)
 
 ​​​​The dry bulk freight market is experiencing a weakening momentum in the large vessel size categories, with Capesize rates from Brazil to North China showing the weakest trend since the peak in week 39.
 
@@ -62,7 +62,7 @@ Meanwhile, the outlook for earnings in the[iron ore market](https://go.signaloce
 ![Στιγμιότυπο Οθόνης 2024 10 24 092950](assets/2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db67b1feba03.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 10 24 092950**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db67b1feba03.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db67b1feba03.png)
 
 The final week of October shows a mixed trend, with congestion levels rising in the Capesize, Supramax, and Handysize segments, while the Panamax segment continues to experience a decline.
 
@@ -74,7 +74,7 @@ The final week of October shows a mixed trend, with congestion levels rising in 
 ![Στιγμιότυπο Οθόνης 2024 10 24 093047](assets/2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c4186d8eb12f.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 10 24 093047**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c4186d8eb12f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c4186d8eb12f.png)
 
 In the final days of October, dry tonne-days for the Capesize and Supramax segments continued to sharply decline, reinforcing the downward trend observed throughout the month. This has dampened freight market momentum heading into the coming days, with a general weakening trend also seen across other vessel size segments.
 
@@ -86,7 +86,7 @@ In the final days of October, dry tonne-days for the Capesize and Supramax segme
 ![Στιγμιότυπο Οθόνης 2024 10 24 093135](assets/2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_49fbf9226a7b.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 10 24 093135**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_49fbf9226a7b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_49fbf9226a7b.png)
 
 Congestion at Chinese dry bulk ports has declined over the past three consecutive weeks, with a downward trend evident across the Capesize, Panamax, and Supramax vessel segments.
 

@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-06-24_bearish-sentiment-tak
 ![Ship18](assets/2020-06-24_bearish-sentiment-takes-hold-of-traders-as-spot-continues-to-advance_img_ship18_12cd82abb0df.jpg)
 
 > **Figure 1: Ship18**  
-> **Interactive Data & Source:** [Braemarscreen](https://braemarscreen.com/home) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-24_bearish-sentiment-takes-hold-of-traders-as-spot-continues-to-advance_img_ship18_12cd82abb0df.jpg)
+> **Interactive Data & Source:** [Braemarscreen](https://braemarscreen.com/home) | [Local Asset](assets/2020-06-24_bearish-sentiment-takes-hold-of-traders-as-spot-continues-to-advance_img_ship18_12cd82abb0df.jpg)
 
 Freight futures dipped, as nervousness about the near term direction of spot led to some profit taking following the significant advances over the last few days. At the end of the trading day,**Capesize futures were down ~7% while Panamax futures closed down 5%**with the Capesize spot now at almost 29,000,but it seems there is more caution on further advances as the month comes to a close with the July futures marked at around 23,500. The potential pause in the rate of increase was enough to bring sellers, even if there is no real indication of weaker spot anytime soon.
 
@@ -32,7 +32,7 @@ Still, the difference between spot prices and futures is massive, with the**July
 
 > **Figure 2: Vloc/valemax Arrivals in Brazil Are Expected to Remain Around Or**  
 > *VLOC/Valemax arrivals in Brazil are expected to remain around or below average weekly levels of 4m-dwt until the week starting 13 July. The thin list of ballasters in the coming weeks has partly fueled the ongoing rally of cape rates. Moving towards the second half of July, arrivals are estimated to rise slightly above average levels. However, we do not expect the impact on rates to be material. It will ultimately come down to how resilient Brazilian volumes will prove to be. Iron ore shipments out of Brazil averaged 6.6 million tonnes per week during the past 5 weeks. That is marginally below the 7 million tonnes shipped per week during the same period last year.*  
-> **Interactive Data & Source:** [Braemarscreen](https://braemarscreen.com/home) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-24_bearish-sentiment-takes-hold-of-traders-as-spot-continues-to-advance_img_indexvsfutures_b9425a136de0.jpg)
+> **Interactive Data & Source:** [Braemarscreen](https://braemarscreen.com/home) | [Local Asset](assets/2020-06-24_bearish-sentiment-takes-hold-of-traders-as-spot-continues-to-advance_img_indexvsfutures_b9425a136de0.jpg)
 
 The tightness in the Atlantic remains, with still not a lot of Capesize ships able to make it for July loadings.
 
@@ -50,7 +50,7 @@ End of day futures from[Braemar Screen](https://braemarscreen.com/home):
 
 > **Figure 3: Despite the Fact That There Was Limited Activity Across The**  
 > *Despite the fact that there was limited activity across the capesize market today the sentiment is still undeniably positive and rates remain strong… It is worth nothing that the numbers from Brazil are approaching levels where charterers will begin to look at splitting stems on to panamax which should put something of a handbrake on further runaway gains.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-24_bearish-sentiment-takes-hold-of-traders-as-spot-continues-to-advance_img_futures2c6-24_57aea803b7f7.png)
+> [Local Asset](assets/2020-06-24_bearish-sentiment-takes-hold-of-traders-as-spot-continues-to-advance_img_futures2c6-24_57aea803b7f7.png)
 
 Finally, today’s futures activity combined with a plunge in oil prices and a generally bearish mood in markets across the board points to flattish/down indices for tomorrow for all vessel sizes. However, this seems to be a balanced act for now. Thurlestone remains optimistic, as sees the slower activity today more as a pause rather as a reversal:
 

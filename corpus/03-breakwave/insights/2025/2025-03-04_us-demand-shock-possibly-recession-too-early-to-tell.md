@@ -47,7 +47,7 @@ In that light, the new US government’s economic strategy is now clear. Mr Trum
 ![Στιγμιότυπο Οθόνης 2025 03 04 131037](assets/2025-03-04_us-demand-shock-possibly-recession-too-early-to-tell_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9dba57e48a5d.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 03 04 131037**  
-> **Interactive Data & Source:** [Politico](https://www.politico.com/news/2025/02/27/trump-fired-bird-flu-hires-00206334) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-04_us-demand-shock-possibly-recession-too-early-to-tell_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9dba57e48a5d.png)
+> **Interactive Data & Source:** [Politico](https://www.politico.com/news/2025/02/27/trump-fired-bird-flu-hires-00206334) | [Local Asset](assets/2025-03-04_us-demand-shock-possibly-recession-too-early-to-tell_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9dba57e48a5d.png)
 
 In theory, a lot of this makes sense. Even in the most erudite of forums, the need for decisive action on government expenditure and debt is often raised. “If only the political will existed…” many lament. Well. This is what it looks like.
 
@@ -60,26 +60,26 @@ US consumer confidence has plummeted since the election. And while “confidence
 ![Στιγμιότυπο Οθόνης 2025 03 04 131046](assets/2025-03-04_us-demand-shock-possibly-recession-too-early-to-tell_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e60ec0d9dbc4.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 03 04 131046**  
-> **Interactive Data & Source:** [Politico](https://www.politico.com/news/2025/02/27/trump-fired-bird-flu-hires-00206334) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-04_us-demand-shock-possibly-recession-too-early-to-tell_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e60ec0d9dbc4.png)
+> **Interactive Data & Source:** [Politico](https://www.politico.com/news/2025/02/27/trump-fired-bird-flu-hires-00206334) | [Local Asset](assets/2025-03-04_us-demand-shock-possibly-recession-too-early-to-tell_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e60ec0d9dbc4.png)
 
 ![Στιγμιότυπο Οθόνης 2025 03 04 131053](assets/2025-03-04_us-demand-shock-possibly-recession-too-early-to-tell_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9a8484ec326f.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 03 04 131053**  
-> **Interactive Data & Source:** [Politico](https://www.politico.com/news/2025/02/27/trump-fired-bird-flu-hires-00206334) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-04_us-demand-shock-possibly-recession-too-early-to-tell_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9a8484ec326f.png)
+> **Interactive Data & Source:** [Politico](https://www.politico.com/news/2025/02/27/trump-fired-bird-flu-hires-00206334) | [Local Asset](assets/2025-03-04_us-demand-shock-possibly-recession-too-early-to-tell_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9a8484ec326f.png)
 
 Of course, there is a partisan element to the calculation. Democrat confidence has plunged, as expected, but Republican confidence hasn’t compensated, recovering about half the losses from the “Biden Era”. In other words, Democratic voters are scared and Republican voters aren’t all-in. They are about as confident as they were during the Obama years.
 
 ![Στιγμιότυπο Οθόνης 2025 03 04 131102](assets/2025-03-04_us-demand-shock-possibly-recession-too-early-to-tell_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_baea6331a5e2.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 03 04 131102**  
-> **Interactive Data & Source:** [Politico](https://www.politico.com/news/2025/02/27/trump-fired-bird-flu-hires-00206334) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-04_us-demand-shock-possibly-recession-too-early-to-tell_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_baea6331a5e2.png)
+> **Interactive Data & Source:** [Politico](https://www.politico.com/news/2025/02/27/trump-fired-bird-flu-hires-00206334) | [Local Asset](assets/2025-03-04_us-demand-shock-possibly-recession-too-early-to-tell_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_baea6331a5e2.png)
 
 Exacerbating the issue is “eggflation” (egg inflation) the result of bird flu limiting production. A carton of eggs now costs more than a gallon of gasoline.
 
 ![Στιγμιότυπο Οθόνης 2025 03 04 131109](assets/2025-03-04_us-demand-shock-possibly-recession-too-early-to-tell_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b7bffc594d77.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 03 04 131109**  
-> **Interactive Data & Source:** [Politico](https://www.politico.com/news/2025/02/27/trump-fired-bird-flu-hires-00206334) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-04_us-demand-shock-possibly-recession-too-early-to-tell_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b7bffc594d77.png)
+> **Interactive Data & Source:** [Politico](https://www.politico.com/news/2025/02/27/trump-fired-bird-flu-hires-00206334) | [Local Asset](assets/2025-03-04_us-demand-shock-possibly-recession-too-early-to-tell_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b7bffc594d77.png)
 
 Consumers will likely not feel more empowered after news broke out that the US Department of Agriculture is[**struggling**](https://www.politico.com/news/2025/02/27/trump-fired-bird-flu-hires-00206334)to re-hire testing employees who recently lost their jobs. But we will get back to that.
 
@@ -88,14 +88,14 @@ Aggravating the situation, US large-cap equities have remained stagnant since th
 ![Στιγμιότυπο Οθόνης 2025 03 04 131116](assets/2025-03-04_us-demand-shock-possibly-recession-too-early-to-tell_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_de948834dbd0.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 03 04 131116**  
-> **Interactive Data & Source:** [Allthatsinteresting](https://allthatsinteresting.com/gordian-knot) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-04_us-demand-shock-possibly-recession-too-early-to-tell_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_de948834dbd0.png)
+> **Interactive Data & Source:** [Allthatsinteresting](https://allthatsinteresting.com/gordian-knot) | [Local Asset](assets/2025-03-04_us-demand-shock-possibly-recession-too-early-to-tell_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_de948834dbd0.png)
 
 As a result of those worries, markets are now concerned about a potential hit to growth. Yields fell, not because investors trust US debt more now, but because the 10y US Treasury is still the default safe haven for global investors. The problem with traders piling on, is that now yields are pricing in around 3x rate cuts by the end of the year, against a Fed that is becoming increasingly cautious, and somewhat hawkish.
 
 ![Στιγμιότυπο Οθόνης 2025 03 04 131123](assets/2025-03-04_us-demand-shock-possibly-recession-too-early-to-tell_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_44ac5cb00976.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 03 04 131123**  
-> **Interactive Data & Source:** [Allthatsinteresting](https://allthatsinteresting.com/gordian-knot) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-04_us-demand-shock-possibly-recession-too-early-to-tell_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_44ac5cb00976.png)
+> **Interactive Data & Source:** [Allthatsinteresting](https://allthatsinteresting.com/gordian-knot) | [Local Asset](assets/2025-03-04_us-demand-shock-possibly-recession-too-early-to-tell_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_44ac5cb00976.png)
 
 ### How Investors Should See This
 

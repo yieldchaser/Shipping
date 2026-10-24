@@ -31,7 +31,7 @@ tags:
 ![641c21848d908c37895055a3 Coal China with Signal Logo](../../images/641c21848d908c37895055a3_COAL CHINA with Signal logo.png)
 
 > **Figure 1: 641c21848d908c37895055a3 Coal China with Signal Logo**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-12-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/641c21848d908c37895055a3_COAL CHINA with Signal logo.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-12-2023) | [Local Asset](../../images/641c21848d908c37895055a3_COAL CHINA with Signal logo.png)
 
 The third week of March has confirmed that the first quarter is ending with positive momentum for higher rates, as demand growth recovers, especially for the larger ship categories. The supply of ballast vessels in the Capesize segment is now gradually decreasing and demand growth is higher than ever before this year, reaching its final peak at the end of 2022.
 

@@ -53,7 +53,7 @@ In aggregate, these disruptions point to a tightening supply backdrop, with a me
 ![Screenshot 2026 04 02 09.10.41](assets/2026-04-02_gulf-aluminium-supply-shock_img_screenshot2026-04-02091041_5084e98e8868.png)
 
 > **Figure 1: Screenshot 2026 04 02 09.10.41**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-02_gulf-aluminium-supply-shock_img_screenshot2026-04-02091041_5084e98e8868.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-04-02_gulf-aluminium-supply-shock_img_screenshot2026-04-02091041_5084e98e8868.png)
 
 In aggregate, an estimated ~560,000 tonnes of annual capacity had already been curtailed prior to the latest escalation, equivalent to roughly 8–9% of regional output and around 1% of global primary supply. The UAE and Bahrain together supplied roughly 584,000 tonnes to US buyers in the first eleven months of 2025, accounting for around 20% of total import volumes. China’s production ceiling of ~45 million tonnes per year limits its ability to act as a swing supplier. While idle smelter restarts are theoretically possible at sustained elevated prices, any meaningful export response would take months to materialise.
 

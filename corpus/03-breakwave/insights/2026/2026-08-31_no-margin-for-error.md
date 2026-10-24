@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-08-31_no-margin-for-error.h
 ![Tankerrr 2 (1).ξπγ](assets/2026-08-31_no-margin-for-error_img_tankerrr-228129cebecf80ceb3_89290ba50318.jpg)
 
 > **Figure 1: Tankerrr 2 (1).ξπγ**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-31_no-margin-for-error_img_tankerrr-228129cebecf80ceb3_89290ba50318.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-08-31_no-margin-for-error_img_tankerrr-228129cebecf80ceb3_89290ba50318.jpg)
 
 US refinery maintenance typically peaks in October, a season that has historically weighed on freight. This year appears different with very little currently confirmed for the autumn, as robust margins keep refiners from taking units offline. Last week, US refinery utilization clocked in at 97.4%, the highest level since 2018. This dynamic should keep product tankers well supported across the US Gulf through Q4.
 
@@ -50,7 +50,7 @@ Overall, PADD 3 refiners look set to run hard into year-end, supporting both gas
 ![Στιγμιότυπο Οθόνης 2026 08 31 102719](assets/2026-08-31_no-margin-for-error_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5708c14f6404.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 08 31 102719**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-31_no-margin-for-error_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5708c14f6404.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-08-31_no-margin-for-error_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5708c14f6404.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

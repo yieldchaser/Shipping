@@ -27,7 +27,7 @@ Metal and energy markets came under pressure after China failed to deliver fresh
 ![Στιγμιότυπο Οθόνης 2024 10 09 114645](assets/2024-10-09_lack-of-new-stimulus-measures-triggers-selloff_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e13acd17aeb6.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 09 114645**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-09_lack-of-new-stimulus-measures-triggers-selloff_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e13acd17aeb6.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-10-09_lack-of-new-stimulus-measures-triggers-selloff_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e13acd17aeb6.png)
 
 ### Market Commentary
 
@@ -42,7 +42,7 @@ The risk-off tone triggered by the lack of new stimulus measures in China also w
 ![Στιγμιότυπο Οθόνης 2024 10 09 114754](assets/2024-10-09_lack-of-new-stimulus-measures-triggers-selloff_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dc24473a1516.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 09 114754**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-09_lack-of-new-stimulus-measures-triggers-selloff_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dc24473a1516.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-10-09_lack-of-new-stimulus-measures-triggers-selloff_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dc24473a1516.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

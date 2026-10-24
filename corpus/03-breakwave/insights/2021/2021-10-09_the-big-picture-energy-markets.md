@@ -35,7 +35,7 @@ However prices dramatically corrected downwards yesterday on news of imminent in
 ![Market Chart 1](assets/2021-10-09_the-big-picture-energy-markets_img_image028129_774475b828b5.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-09_the-big-picture-energy-markets_img_image028129_774475b828b5.png)
+> [Local Asset](assets/2021-10-09_the-big-picture-energy-markets_img_image028129_774475b828b5.png)
 
 Still, despite these wild moves, prices are such that coal-fired power generators here have been strongly incentivised to increase utilisation rates and import more coal where possible. Europe’s imports were up by 34% YoY in Q3, reaching 11.6m tonnes, and there is scope for this to grow if generating capacity can be found.
 
@@ -50,7 +50,7 @@ Despite the official ban on Australian cargoes still being in place, China’s t
 ![Market Chart 2](assets/2021-10-09_the-big-picture-energy-markets_img_image1_db9be6a5efb8.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-09_the-big-picture-energy-markets_img_image1_db9be6a5efb8.png)
+> [Local Asset](assets/2021-10-09_the-big-picture-energy-markets_img_image1_db9be6a5efb8.png)
 
 The upshot of this shake-up is that average Cape employment per tonne of coal shipped increased by about 4% in Q3 versus the same period last year. The dislocation of the fleet caused by these trends has meant that Capes are on average ballasting 6% longer for coal cargoes versus before the pandemic.
 
@@ -63,7 +63,7 @@ In the longer-term, a recovery in domestic output and the winter slowdown in pow
 ![Market Chart 3](assets/2021-10-09_the-big-picture-energy-markets_img_image2_fbeb65074389.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-09_the-big-picture-energy-markets_img_image2_fbeb65074389.png)
+> [Local Asset](assets/2021-10-09_the-big-picture-energy-markets_img_image2_fbeb65074389.png)
 
 ### Freight
 
@@ -72,7 +72,7 @@ Amid this coal rush, freight rates have also surged for the larger bulk carriers
 ![Market Chart 4](assets/2021-10-09_the-big-picture-energy-markets_img_image3_29b3a68679ca.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-09_the-big-picture-energy-markets_img_image3_29b3a68679ca.png)
+> [Local Asset](assets/2021-10-09_the-big-picture-energy-markets_img_image3_29b3a68679ca.png)
 
 Naturally the FFA market has also seen a frenzy of buying activity, though prices have wobbled over the last two days amid the extreme volatility in energy markets. October Capesize futures surged by $22,000 in the space of a week to over $80,000 on Wednesday, before easing back to $73,500 at the time of writing. Meanwhile, deferred contracts for calendar-year 2022 jumped by 12.5% WoW to $29,500, more than twice what they were trading at in January, before being knocked back down to $27,000.
 

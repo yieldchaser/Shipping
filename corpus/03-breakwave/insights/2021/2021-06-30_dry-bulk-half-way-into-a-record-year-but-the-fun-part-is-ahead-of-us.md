@@ -32,14 +32,14 @@ Volatility naturally has also exploded higher, with daily moves in both the frei
 
 > **Figure 1: Capesize Spot Rate Seasonality (2017-2021)**  
 > *Capesize Spot Rate Seasonality (2017-2021)*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-30_dry-bulk-half-way-into-a-record-year-but-the-fun-part-is-ahead-of-us_img_bdryffvol_e8fd1ec01263.jpg)
+> [Local Asset](assets/2021-06-30_dry-bulk-half-way-into-a-record-year-but-the-fun-part-is-ahead-of-us_img_bdryffvol_e8fd1ec01263.jpg)
 
 Capesize rates however have failed to impress to the extend that smaller size vessels have. Although owners are still enjoying a very healthy market, the fact that spot rates have not really managed to maintain the standard historical premiums to Panamax/Supramax rates points to different dynamics for that segment. Indeed, the very specific nature of the main product transported by Capesize vessels, namely iron ore, has limited the segment’s ability to achieve such levels. Iron ore demand is strong and, combining that with coal, that is definitely helping, but such demand is no match for the unprecedented demand for various other commodities as a result of the “post pandemic” world (although this refers to mainly the developed world where restrictions are easing and industrial demand is surging). As a result, excitement for Capesizes is more measured despite the elevated levels of futures, and we share such view as well, with volatility being the name of the game for the months to come. Any imbalance in demand/supply and the move in rates will be considerable either way from where spot rates currently stand.
 
 ![Capes Spot 6.30](assets/2021-06-30_dry-bulk-half-way-into-a-record-year-but-the-fun-part-is-ahead-of-us_img_capesspot630_34edda74ae5f.jpg)
 
 > **Figure 2: Capes Spot 6.30**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-30_dry-bulk-half-way-into-a-record-year-but-the-fun-part-is-ahead-of-us_img_capesspot630_34edda74ae5f.jpg)
+> [Local Asset](assets/2021-06-30_dry-bulk-half-way-into-a-record-year-but-the-fun-part-is-ahead-of-us_img_capesspot630_34edda74ae5f.jpg)
 
 So, what does our crystal ball say?
 

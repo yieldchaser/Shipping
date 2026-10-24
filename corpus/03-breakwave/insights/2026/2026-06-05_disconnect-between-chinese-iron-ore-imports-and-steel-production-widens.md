@@ -25,7 +25,7 @@ Chinese iron ore imports continue to grow even as domestic steel output weakens,
 ![Market Chart 1](assets/2026-06-05_disconnect-between-chinese-iron-ore-imports-and-steel-production-widens_img_unnamed_d1042380c748.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-05_disconnect-between-chinese-iron-ore-imports-and-steel-production-widens_img_unnamed_d1042380c748.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-06-05_disconnect-between-chinese-iron-ore-imports-and-steel-production-widens_img_unnamed_d1042380c748.png)
 
 ### Key Takeaways
 
@@ -44,7 +44,7 @@ Outside of China, demand for iron ore remains subdued as steel production is sti
 ![Iron Ore Flows From Guinea | Signal Ocean](assets/2026-06-05_disconnect-between-chinese-iron-ore-imports-and-steel-production-widens_img_unnamed28129_d54816c208e5.png)
 
 > **Figure 2: Iron Ore Flows From Guinea | Signal Ocean**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-05_disconnect-between-chinese-iron-ore-imports-and-steel-production-widens_img_unnamed28129_d54816c208e5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-06-05_disconnect-between-chinese-iron-ore-imports-and-steel-production-widens_img_unnamed28129_d54816c208e5.png)
 
 ## Guinea to China to Boost Cape Rates Even If Total Volumes Fall
 
@@ -53,7 +53,7 @@ Iron ore flows from Guinea reached over 2 million tons in May, a record and almo
 ![China Crude Steel Production | Nbs](assets/2026-06-05_disconnect-between-chinese-iron-ore-imports-and-steel-production-widens_img_unnamed28229_b5a650a9f0ec.png)
 
 > **Figure 3: China Crude Steel Production | Nbs**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-05_disconnect-between-chinese-iron-ore-imports-and-steel-production-widens_img_unnamed28229_b5a650a9f0ec.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-06-05_disconnect-between-chinese-iron-ore-imports-and-steel-production-widens_img_unnamed28229_b5a650a9f0ec.png)
 
 The NBS reports Chinese crude steel production tracking 4% below prior-year levels year-to-date, yet iron ore imports have moved in the opposite direction, up 3% over the same period. The result is a port inventory build that has taken Chinese stockpiles to 160mt as of the week ending May 22nd, within touching distance of the 165mt record set in March 2026 and some 22% above the July 2025 trough. The disconnect between import strength and steel output is the defining feature of this market, and it is now correcting: import growth is decelerating as portside rebalancing mechanics take hold.
 

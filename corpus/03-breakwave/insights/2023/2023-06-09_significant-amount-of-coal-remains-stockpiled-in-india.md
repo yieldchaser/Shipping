@@ -26,18 +26,18 @@ As we discussed in Commodore's most recent Weekly Dry Bulk Report, Coal India pr
 ![Chart 1 (80)](assets/2023-06-09_significant-amount-of-coal-remains-stockpiled-in-india_img_chart1288029_8d2f8d7f074a.jpg)
 
 > **Figure 1: Chart 1 (80)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-09_significant-amount-of-coal-remains-stockpiled-in-india_img_chart1288029_8d2f8d7f074a.jpg)
+> [Local Asset](assets/2023-06-09_significant-amount-of-coal-remains-stockpiled-in-india_img_chart1288029_8d2f8d7f074a.jpg)
 
 Offtake (amount sent to customers) totaled 63.7 million tons last month, which marks a month-on-month increase of 1.3 million tons (4%) and a year-on-year increase of 2.5 million tons (4%). Offtake has now increased on a year-on-year basis during twenty-six of the last twenty-seven months, and last month again saw offtake exceed production. Prior to these last two months, the previous five months all saw offtake fall short of production. Coal India’s stockpiles now stand at approximately 61 million tons.
 
 ![Chart 2 (68)](assets/2023-06-09_significant-amount-of-coal-remains-stockpiled-in-india_img_chart2286829_dc74a1ba9c90.jpg)
 
 > **Figure 2: Chart 2 (68)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-09_significant-amount-of-coal-remains-stockpiled-in-india_img_chart2286829_dc74a1ba9c90.jpg)
+> [Local Asset](assets/2023-06-09_significant-amount-of-coal-remains-stockpiled-in-india_img_chart2286829_dc74a1ba9c90.jpg)
 
 In addition, stockpiles at the nation's power plants now stand at approximately 37 million tons.
 
 ![Chart 3 (49)](assets/2023-06-09_significant-amount-of-coal-remains-stockpiled-in-india_img_chart3284929_6a46d5bacdd4.jpg)
 
 > **Figure 3: Chart 3 (49)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-09_significant-amount-of-coal-remains-stockpiled-in-india_img_chart3284929_6a46d5bacdd4.jpg)
+> [Local Asset](assets/2023-06-09_significant-amount-of-coal-remains-stockpiled-in-india_img_chart3284929_6a46d5bacdd4.jpg)

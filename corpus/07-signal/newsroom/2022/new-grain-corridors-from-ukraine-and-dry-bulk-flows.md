@@ -45,7 +45,7 @@ The current situation of blocked Ukrainian grain exports has led to a decrease i
 
 > **Figure 1: Graph 1 Data Source: The Signal Ocean Platform, Years 2020-2022**  
 > *Graph 1 Data Source: The Signal Ocean Platform, Years 2020-2022*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/new-grain-corridors-from-ukraine-and-dry-bulk-flows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/62eb997f5de0597d340e36b7_Chart 1 Grain_Logo.PNG)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/new-grain-corridors-from-ukraine-and-dry-bulk-flows) | [Local Asset](../../images/62eb997f5de0597d340e36b7_Chart 1 Grain_Logo.PNG)
 
 It is interesting to see that the share of Russian grain exports by sea to Turkey has increased in the last four months, with the monthly volumes in June and July being 65% to 75% higher than the volumes of the previous year. (Chart 2)
 
@@ -57,7 +57,7 @@ It is interesting to see that the share of Russian grain exports by sea to Turke
 
 > **Figure 2: Graph 2 Data Source: The Signal Ocean Platform, Years 2020-2022**  
 > *Graph 2 Data Source: The Signal Ocean Platform, Years 2020-2022*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/new-grain-corridors-from-ukraine-and-dry-bulk-flows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/62eb9a4145517f540755d456_chart 2 from russia to turkey_Logo.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/new-grain-corridors-from-ukraine-and-dry-bulk-flows) | [Local Asset](../../images/62eb9a4145517f540755d456_chart 2 from russia to turkey_Logo.png)
 
 The impact of geopolitical tensions on Ukrainian grain exports is illustrated in the third chart, where monthly volumes by the sea in the fourth quarter of 2021 and the first two months of this year were significantly higher than in previous years.
 
@@ -69,7 +69,7 @@ The impact of geopolitical tensions on Ukrainian grain exports is illustrated in
 
 > **Figure 3: Graph 3 Data Source: The Signal Ocean Platform, Years 2020-2022**  
 > *Graph 3 Data Source: The Signal Ocean Platform, Years 2020-2022*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/new-grain-corridors-from-ukraine-and-dry-bulk-flows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/62eb9ab2e8d1165bed4ea8ea_chart 3_logo.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/new-grain-corridors-from-ukraine-and-dry-bulk-flows) | [Local Asset](../../images/62eb9ab2e8d1165bed4ea8ea_chart 3_logo.png)
 
 Under the grain agreement between Russia and Ukraine, [the first ship carrying grain](https://www.washingtonpost.com/world/2022/08/01/ukraine-grain-deal-odessa-shipments-resume/) left a Ukrainian port, raising hopes that the agreement would alleviate the global food crisis and lower grain prices. The chart below (4) provides an overview of the volumes that came out of the main Ukrainian grain ports this year and shows how the recent agreement affects volumes in the last days of July. It remains to be seen whether the agreement will further smooth Ukrainian grain exports across the Black Sea and recoup the food security losses in recent months for both developed and developing countries.
 
@@ -84,7 +84,7 @@ Under the grain agreement between Russia and Ukraine, [the first ship carrying g
 
 > **Figure 4: Graph 4 Data Source: The Signal Ocean Platform, Year 2022**  
 > *Graph 4 Data Source: The Signal Ocean Platform, Year 2022*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/new-grain-corridors-from-ukraine-and-dry-bulk-flows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/62eb9b49a67a0416f1d76dbc_chart 4_logo.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/new-grain-corridors-from-ukraine-and-dry-bulk-flows) | [Local Asset](../../images/62eb9b49a67a0416f1d76dbc_chart 4_logo.png)
 
 The next quarter will be crucial for grain flows from Ukraine, as the successful first shipment of grain from the Black Sea raises hopes that more will follow.
 

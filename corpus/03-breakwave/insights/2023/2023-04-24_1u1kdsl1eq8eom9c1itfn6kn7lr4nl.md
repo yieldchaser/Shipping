@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-04-24_1u1kdsl1eq8eom9c1itfn
 ![Brs Logo No Background (1)](assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_brslogo-nobackground28129_f39a57dd6dc6.png)
 
 > **Figure 1: Brs Logo No Background (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_brslogo-nobackground28129_f39a57dd6dc6.png)
+> [Local Asset](assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_brslogo-nobackground28129_f39a57dd6dc6.png)
 
 ## China, China, China
 
@@ -41,7 +41,7 @@ In the April IMF report, global inflation forecast has been revised to nearly 7%
 ![1 (2)](assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128229_fdd372f4b384.png)
 
 > **Figure 2: 1 (2)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128229_fdd372f4b384.png)
+> [Local Asset](assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128229_fdd372f4b384.png)
 
 On paper, growth prospects in trade volumes look better than expected (see Chart II), but this is relative to the 6% decline in 2020. While growth rates have improved from 2021 till date, we are just making up to lost ground as far from beating pre-pandemic levels.
 
@@ -50,7 +50,7 @@ If global trade volumes were to defy the earlier mentioned headwinds in order to
 ![1 (3)](assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128329_af2f3e391ca6.png)
 
 > **Figure 3: 1 (3)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128329_af2f3e391ca6.png)
+> [Local Asset](assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128329_af2f3e391ca6.png)
 
 China, Obviously. Unlike other countries, China doesn’t seem to be inflicted with high inflation. On the contrary, according to the National Bureau of Statistics (NBS), in March 2023, China’s consumer price index (CPI) rose only by 0.7% year on year. This reflects weak domestic demand, and the possibility of China heading to deflation. China’s official data released in April showed an encouraging outlook with Q1-2023 GDP growing by 4.5% year-onyear, above consensus expectations of 4%.
 
@@ -63,14 +63,14 @@ Consumption: China’s domestic economy in Q1-2023 exhibits some strength. But i
 ![1 (4)](assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128429_e3319dd234c1.png)
 
 > **Figure 4: 1 (4)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128429_e3319dd234c1.png)
+> [Local Asset](assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128429_e3319dd234c1.png)
 
 In a recent PBOC survey held in Q1-2023, 23.2% of the surveyed preferred more consumption, opposed to an overwhelming 58% preferring more savings deposits. the consumption pattern leans heavily towards services (education, healthcare, tourism etc.) rather than housing purchase.For example, willingness to save in the first quarters of 2019 to 2022 was 45%, 53%, 49.1% and 54.7% respectively. While we bid zero-covid goodbye, the saving rates did not retrace back to 2019 prepandemic levels. Instead, it continued to march on. Supporting this observation is the China Consumer Confidence Index which remain in the doldrums (See Chart IV), even after Feb 2023 improvement.
 
 ![1 (8)](assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128829_280de6130e11.png)
 
 > **Figure 5: 1 (8)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128829_280de6130e11.png)
+> [Local Asset](assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128829_280de6130e11.png)
 
 On a side note, youth unemployment is uncomfortably high, at 19.6% in March 2023, the forward appetite for fresh consumption lacked substance.
 
@@ -81,7 +81,7 @@ In the first two months of 2023, the real estate investment (residential buildin
 ![1 (7)](assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128729_84c36e4782f5.png)
 
 > **Figure 6: 1 (7)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128729_84c36e4782f5.png)
+> [Local Asset](assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128729_84c36e4782f5.png)
 
 Policy measures set by the government to support the property sector such as the removal of the three red lines, and lowering down payment ratios and mortgage rates for first-home buyers has thus far been inadequate to drag the property market out of its funk.
 
@@ -92,7 +92,7 @@ The shift had already emerged in recent years, according to an IMF analysis that
 ![1 (9)](assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128929_2e1823ab49f0.png)
 
 > **Figure 7: 1 (9)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128929_2e1823ab49f0.png)
+> [Local Asset](assets/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl_img_128929_2e1823ab49f0.png)
 
 **Exports:**This has been a mixed picture, with Jan-Feb dropping by 6.8% according to China’s customs but exports rose by 14.8% in dollar terms in March. However, March’s performance could reflect a catchup caused by monthly volatility, post Chinese new year holidays.
 

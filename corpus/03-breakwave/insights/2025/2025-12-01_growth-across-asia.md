@@ -35,7 +35,7 @@ Despite an increasingly complex backdrop, the IMF has been explicit in emphasisi
 ![Στιγμιότυπο Οθόνης 2025 12 01 094149](assets/2025-12-01_growth-across-asia_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_65907a847f1e.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 12 01 094149**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-01_growth-across-asia_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_65907a847f1e.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-12-01_growth-across-asia_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_65907a847f1e.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

@@ -35,7 +35,7 @@ Add everything up, all loading regions and every commodity, and Russian seaborne
 ![The Total Looks Quiet](../../images/6a69cffcf4dbb7d362456cd3_de3154c3.png)
 
 > **Figure 1: The Total Looks Quiet**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-products-to-crude-how-the-strikes-reshaped-russias-seaborne-exports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a69cffcf4dbb7d362456cd3_de3154c3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-products-to-crude-how-the-strikes-reshaped-russias-seaborne-exports) | [Local Asset](../../images/6a69cffcf4dbb7d362456cd3_de3154c3.png)
 
 
 ## Products: The Baltic Terminals Fold
@@ -46,13 +46,13 @@ The clearest damage shows up in clean products loaded at Russia's Baltic termina
 ![Products: The Baltic Terminals Fold](../../images/6a69cffcf4dbb7d362456cca_8ed71b9b.png)
 
 > **Figure 2: Products: The Baltic Terminals Fold**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-products-to-crude-how-the-strikes-reshaped-russias-seaborne-exports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a69cffcf4dbb7d362456cca_8ed71b9b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-products-to-crude-how-the-strikes-reshaped-russias-seaborne-exports) | [Local Asset](../../images/6a69cffcf4dbb7d362456cca_8ed71b9b.png)
 
 
 ![Products: The Baltic Terminals Fold](../../images/6a69cffcf4dbb7d362456ccd_d5d5f33b.png)
 
 > **Figure 3: Products: The Baltic Terminals Fold**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-products-to-crude-how-the-strikes-reshaped-russias-seaborne-exports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a69cffcf4dbb7d362456ccd_d5d5f33b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-products-to-crude-how-the-strikes-reshaped-russias-seaborne-exports) | [Local Asset](../../images/6a69cffcf4dbb7d362456ccd_d5d5f33b.png)
 
 Crude leaving the same terminals holds up far better (Figure 2a), so this is not the Baltic suffering across the board. It is specifically refined products, the output of refineries, that has been knocked out.
 
@@ -62,7 +62,7 @@ The same picture holds nationally. Total refined product exports fell to around 
 ![Products: The Baltic Terminals Fold](../../images/6a69cffcf4dbb7d362456cd6_9fe9ebdc.png)
 
 > **Figure 4: Products: The Baltic Terminals Fold**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-products-to-crude-how-the-strikes-reshaped-russias-seaborne-exports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a69cffcf4dbb7d362456cd6_9fe9ebdc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-products-to-crude-how-the-strikes-reshaped-russias-seaborne-exports) | [Local Asset](../../images/6a69cffcf4dbb7d362456cd6_9fe9ebdc.png)
 
 
 ## Crude: The Barrels Head East
@@ -71,7 +71,7 @@ The same picture holds nationally. Total refined product exports fell to around 
 ![Crude: The Barrels Head East](../../images/6a69cffcf4dbb7d362456cd0_de60637f.png)
 
 > **Figure 5: Crude: The Barrels Head East**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-products-to-crude-how-the-strikes-reshaped-russias-seaborne-exports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a69cffcf4dbb7d362456cd0_de60637f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-products-to-crude-how-the-strikes-reshaped-russias-seaborne-exports) | [Local Asset](../../images/6a69cffcf4dbb7d362456cd0_de60637f.png)
 
 Crude runs the other way. Total Russian seaborne crude exports pushed to the top of their ten-year range, peaking around 5.5 million b/d in late spring and still above 4.6 million into late July, the strongest run in years.
 
@@ -81,7 +81,7 @@ India took the bulk of it. Russian crude arriving at Indian ports climbed above 
 ![Crude: The Barrels Head East](../../images/6a69cffcf4dbb7d362456cd9_0b349aec.png)
 
 > **Figure 6: Crude: The Barrels Head East**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-products-to-crude-how-the-strikes-reshaped-russias-seaborne-exports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a69cffcf4dbb7d362456cd9_0b349aec.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-products-to-crude-how-the-strikes-reshaped-russias-seaborne-exports) | [Local Asset](../../images/6a69cffcf4dbb7d362456cd9_0b349aec.png)
 
 Russia overtook Iraq as India's leading supplier and pushed out Persian Gulf barrels, with Saudi volumes into India falling the hardest, from roughly 1.0 million b/d in February to about 330,000 in June (Figure 4). Much of that was about routing rather than price. India replaced most of Gulf barrels, especially the Iraqi ones, from Russia, which captures now almost half of Indian imports.
 
@@ -89,4 +89,4 @@ Russia overtook Iraq as India's leading supplier and pushed out Persian Gulf bar
 ![Crude: The Barrels Head East](../../images/6a69cffcf4dbb7d362456cdc_d05576f8.png)
 
 > **Figure 7: Crude: The Barrels Head East**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-products-to-crude-how-the-strikes-reshaped-russias-seaborne-exports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a69cffcf4dbb7d362456cdc_d05576f8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-products-to-crude-how-the-strikes-reshaped-russias-seaborne-exports) | [Local Asset](../../images/6a69cffcf4dbb7d362456cdc_d05576f8.png)

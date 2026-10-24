@@ -33,7 +33,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-06_dycuxk1g12t19gzz151ms
 ![1 (2)](assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128229_3fd930bcd97f.png)
 
 > **Figure 1: 1 (2)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128229_3fd930bcd97f.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128229_3fd930bcd97f.png)
 
 ## Iron Ore
 
@@ -47,7 +47,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-06_dycuxk1g12t19gzz151ms
 ![1 (3)](assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128329_d47fd535c211.png)
 
 > **Figure 2: 1 (3)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128329_d47fd535c211.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128329_d47fd535c211.png)
 
 ## Coal
 
@@ -62,7 +62,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-06_dycuxk1g12t19gzz151ms
 ![1 (4)](assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128429_05d3834c7bfe.png)
 
 > **Figure 3: 1 (4)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128429_05d3834c7bfe.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128429_05d3834c7bfe.png)
 
 ## Grains
 
@@ -76,7 +76,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-06_dycuxk1g12t19gzz151ms
 ![1 (5)](assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128529_51a889214d33.png)
 
 > **Figure 4: 1 (5)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128529_51a889214d33.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128529_51a889214d33.png)
 
 ## Minors (Exports)
 
@@ -90,7 +90,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-06_dycuxk1g12t19gzz151ms
 ![1 (6)](assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128629_4e0598898bbe.png)
 
 > **Figure 5: 1 (6)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128629_4e0598898bbe.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128629_4e0598898bbe.png)
 
 ## Minors (Imports)
 
@@ -104,6 +104,6 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-06_dycuxk1g12t19gzz151ms
 ![1 (8)](assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128829_decb346463f0.png)
 
 > **Figure 6: 1 (8)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128829_decb346463f0.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-01-06_dycuxk1g12t19gzz151msbfpxla6zb_img_128829_decb346463f0.png)
 
 Data source:[Doric](https://www.doric.gr/)

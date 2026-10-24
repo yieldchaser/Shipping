@@ -28,25 +28,25 @@ The USDA is now forecasting that global coarse grain exports in 2022/23 will tot
 ![Chart 1 (32)](assets/2022-05-19_preliminary-202223-grain-trade-forecast_img_chart1283229_414034987c83.jpg)
 
 > **Figure 1: Chart 1 (32)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-19_preliminary-202223-grain-trade-forecast_img_chart1283229_414034987c83.jpg)
+> [Local Asset](assets/2022-05-19_preliminary-202223-grain-trade-forecast_img_chart1283229_414034987c83.jpg)
 
 Global wheat exports are expected to total 204.9 million tons. This is 5 million tons (3%) more than is expected for the current 2021/22 season. As with in the coarse grain market, a significant decline in wheat exports is expected for exports from Ukraine.
 
 ![Chart 2 (29)](assets/2022-05-19_preliminary-202223-grain-trade-forecast_img_chart2282929_1e7c5fb1449d.jpg)
 
 > **Figure 2: Chart 2 (29)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-19_preliminary-202223-grain-trade-forecast_img_chart2282929_1e7c5fb1449d.jpg)
+> [Local Asset](assets/2022-05-19_preliminary-202223-grain-trade-forecast_img_chart2282929_1e7c5fb1449d.jpg)
 
 Global soybean exports (soybeans are not technically classified as a grain) are expected to total 170 million tons. This is 14.4 million tons (9%) more than is expected for the current 2021/22 season. Growth is expected from all major exporters.
 
 ![Chart 3 (24)](assets/2022-05-19_preliminary-202223-grain-trade-forecast_img_chart3282429_74a6713c6c4e.jpg)
 
 > **Figure 3: Chart 3 (24)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-19_preliminary-202223-grain-trade-forecast_img_chart3282429_74a6713c6c4e.jpg)
+> [Local Asset](assets/2022-05-19_preliminary-202223-grain-trade-forecast_img_chart3282429_74a6713c6c4e.jpg)
 
 Global soymeal exports are expected to total 69.8 million tons. This is 2.1 million tons (3%) more than is expected for the current 2021/22 season. Growth is also expected from all major exporters.
 
 ![Chart 4 (14)](assets/2022-05-19_preliminary-202223-grain-trade-forecast_img_chart4281429_d48306fa398c.jpg)
 
 > **Figure 4: Chart 4 (14)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-19_preliminary-202223-grain-trade-forecast_img_chart4281429_d48306fa398c.jpg)
+> [Local Asset](assets/2022-05-19_preliminary-202223-grain-trade-forecast_img_chart4281429_d48306fa398c.jpg)

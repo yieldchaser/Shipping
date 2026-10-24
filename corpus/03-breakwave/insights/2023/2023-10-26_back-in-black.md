@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-10-26_back-in-black.html"
 ![Rig 2 1](assets/2023-10-26_back-in-black_img_rig-2-1_4de3b0d41b25.jpg)
 
 > **Figure 1: Rig 2 1**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-26_back-in-black_img_rig-2-1_4de3b0d41b25.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2023-10-26_back-in-black_img_rig-2-1_4de3b0d41b25.jpg)
 
 Earlier this week, the United States announced that it has temporarily lifted sanctions on Venezuela’s oil and gas sector through the issuance of a six-month general license allowing the production, sale and export of Venezuela’s crude oil and gas, without limitations on buyers or markets. The U.S. Treasury Department said in a statement, however, that it was prepared to revoke those authorizations at any time if representatives of Maduro fail to follow through on their commitments in the deal with the opposition and that the sanctions waiver will only be renewed if Venezuela meets its commitment to hold free and fair elections.
 
@@ -42,4 +42,4 @@ Overall the development is a positive step for our sector. The scale of the impa
 
 > **Figure 2: Data Source:gibson Shipbrokers**  
 > *Data source:Gibson Shipbrokers*  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-26_back-in-black_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_d1834ec42e13.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2023-10-26_back-in-black_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_d1834ec42e13.png)

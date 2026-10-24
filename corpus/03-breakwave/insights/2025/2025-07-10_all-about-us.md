@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-07-10_all-about-us.html"
 ![Ras Tanura Island](assets/2025-07-10_all-about-us_img_ras-tanura-island_a2d0afa64376.jpg)
 
 > **Figure 1: Ras Tanura Island**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-10_all-about-us_img_ras-tanura-island_a2d0afa64376.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-07-10_all-about-us_img_ras-tanura-island_a2d0afa64376.jpg)
 
 Almost every year since 2020 has been a rollercoaster ride, and the first six months of 2025 were no different with a wide range of factors influencing the tanker markets. The return of President Trump has undoubtedly been the catalyst for much, but not all the volatility and uncertainty. Changes are awash from geopolitics, international relations, trade, conflict, regulation, and decarbonisation among others, with the outlook arguably as uncertain as it has been at any point in the past 5 years. In this report we recap on some of the key topics and developments so far this year.
 
@@ -78,7 +78,7 @@ The performance of asset prices has been more mixed. Newbuilding prices across t
 ![Στιγμιότυπο Οθόνης 2025 07 10 110612](assets/2025-07-10_all-about-us_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_17f98ea2dbcf.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 07 10 110612**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-10_all-about-us_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_17f98ea2dbcf.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-07-10_all-about-us_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_17f98ea2dbcf.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

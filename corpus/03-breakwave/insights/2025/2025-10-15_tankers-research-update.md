@@ -42,7 +42,7 @@ We have compiled the following table below as a quick guide to the US and Chines
 
 > **Figure 1: 1ustr Fee Exemptions for Chinese-Built Vessels:**  
 > *1USTR fee exemptions for Chinese-built vessels:*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-15_tankers-research-update_img_f1bc-image-0-1760462163275_9a30b0b624fb.png)
+> [Local Asset](assets/2025-10-15_tankers-research-update_img_f1bc-image-0-1760462163275_9a30b0b624fb.png)
 
 *- At least 75% US owned*
 

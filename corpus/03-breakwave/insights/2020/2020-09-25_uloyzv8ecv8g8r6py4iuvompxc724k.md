@@ -27,7 +27,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-09-25_uloyzv8ecv8g8r6py4iuv
 ![Shipyard](assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_shipyard_e527db2ed8bd.jpg)
 
 > **Figure 1: Shipyard**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_shipyard_e527db2ed8bd.jpg)
+> [Local Asset](assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_shipyard_e527db2ed8bd.jpg)
 
 2020 has been a big year for supply growth so far. While the pandemic has generated some degree of slippage, certain sectors have seen heavy additions. The dry bulk fleet as a while has grown by almost 25m dwt, an increase of nearly 3% since the start of the year. In the Cape market, we’ve seen 9.6m dwt of Newcastlemax capacity come onto the water, though fleet growth for the Capesize sector as a whole has been kept somewhat at bay by removals of some of the old converted units earlier in the year.
 
@@ -38,7 +38,7 @@ We expect these deliveries to be felt in the market in the coming months, but fu
 ![Bmr 1](assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_bmr1_3bd8b2c7f17a.png)
 
 > **Figure 2: Bmr 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_bmr1_3bd8b2c7f17a.png)
+> [Local Asset](assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_bmr1_3bd8b2c7f17a.png)
 
 This is a product of extremely low levels of contracting. 2020 is set to see the lowest volume of orders for new ships placed since 2016, and the second lowest since 2001 with just 138 vessels ordered to date.
 
@@ -49,7 +49,7 @@ Across the bulker segments, we see similar trends in the orderbook, though there
 ![Bmr 2](assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_bmr2_a1f305123f66.png)
 
 > **Figure 3: Bmr 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_bmr2_a1f305123f66.png)
+> [Local Asset](assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_bmr2_a1f305123f66.png)
 
 For the Panamaxes, we have just over 16m dwt on order, translating to around 7% of todays fleet, though a third of this figure is made up of ships which are scheduled to deliver later this year. In the Supra segment, there is 11.4m dwt of capacity on the books, representing under 6% of current capacity (the lowest since 1993).
 
@@ -62,7 +62,7 @@ Of the limited number of vessels that have been contracted this year, a few feat
 ![Bmr 3](assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_bmr3_4c802600c1c0.png)
 
 > **Figure 4: Bmr 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_bmr3_4c802600c1c0.png)
+> [Local Asset](assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_bmr3_4c802600c1c0.png)
 
 Capesize ordering has continued to focus heavily on the Newcastlemax design, including a greater number of LNG dual fueled ships. And ordering in the Panamax sector has continued to favour Kamsarmax and Post-Panamax sizes, with only 3 ‘standard’ Panamax designs ordered.
 
@@ -81,7 +81,7 @@ This is a key issue holding shipowners back when considering fleet renewal and, 
 ![Ship13](assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_ship13_cae4ba6883fc.jpg)
 
 > **Figure 5: Ship13**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_ship13_cae4ba6883fc.jpg)
+> [Local Asset](assets/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k_img_ship13_cae4ba6883fc.jpg)
 
 And of course the Covid-19 pandemic has added another layer of uncertainty to the picture, with volatility taking a step increase. Just in the last few months we have seen Capesize earnings hover at Opex levels, before setting the record for the greatest daily change in rates, and this has filtered through into the smaller sizes.
 

@@ -33,7 +33,7 @@ Which brings us back to the original issue. Risk management, which can only begi
 ![Unsplash Image Skfy8ljb7x4](assets/2022-02-22_a-trendless-market-and-a-brave-new-world_img_unsplash-image-skfy8ljb7x4_ca4e0b3b2d09.jpg)
 
 > **Figure 1: Unsplash Image Skfy8ljb7x4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-22_a-trendless-market-and-a-brave-new-world_img_unsplash-image-skfy8ljb7x4_ca4e0b3b2d09.jpg)
+> [Local Asset](assets/2022-02-22_a-trendless-market-and-a-brave-new-world_img_unsplash-image-skfy8ljb7x4_ca4e0b3b2d09.jpg)
 
 ### We Feel That the Market Is Not in a Transitional Phase, But Rather at a Crossroads.
 
@@ -50,7 +50,7 @@ A world at the cusp of the New Green Economy and more technological revolutions 
 ![Unsplash Image Q1p7bh3shj8](assets/2022-02-22_a-trendless-market-and-a-brave-new-world_img_unsplash-image-q1p7bh3shj8_6c4194f0d2ba.jpg)
 
 > **Figure 2: Unsplash Image Q1p7bh3shj8**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-22_a-trendless-market-and-a-brave-new-world_img_unsplash-image-q1p7bh3shj8_6c4194f0d2ba.jpg)
+> [Local Asset](assets/2022-02-22_a-trendless-market-and-a-brave-new-world_img_unsplash-image-q1p7bh3shj8_6c4194f0d2ba.jpg)
 
 Meanwhile, supply chains are being repaired without -or even in spite of- national strategies, showcasing exactly how potent the power of businesses and innovation is to drive the economy. New theories will come at the backwash of huge changes. They will describe how the new world can evolve from the chaos of the old and how policy makers can restore civic supremacy.
 

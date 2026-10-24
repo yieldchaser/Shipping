@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-04-18_1wzpr1s0mbngb31crgjr4
 ![Market Chart 1](assets/2025-04-18_1wzpr1s0mbngb31crgjr4elwv7nl2x_img_unnamed28429_a13a61f9b49e.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-18_1wzpr1s0mbngb31crgjr4elwv7nl2x_img_unnamed28429_a13a61f9b49e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-04-18_1wzpr1s0mbngb31crgjr4elwv7nl2x_img_unnamed28429_a13a61f9b49e.png)
 
 ### Introduction
 
@@ -43,7 +43,7 @@ In contrast, China has emerged as the dominant force in global commercial shipbu
 
 > **Figure 2: Vessel Size Segments Most Exposed:**  
 > *Vessel Size Segments Most Exposed:*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-18_1wzpr1s0mbngb31crgjr4elwv7nl2x_img_unnamed_3b6f7ac9b641.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-04-18_1wzpr1s0mbngb31crgjr4elwv7nl2x_img_unnamed_3b6f7ac9b641.png)
 
 ### Prospects for a U.s. Shipbuilding Revival
 
@@ -88,7 +88,7 @@ In 2024, there were a total of 640,305 global port calls, of which 18,386 occurr
 ![Market Chart 3](assets/2025-04-18_1wzpr1s0mbngb31crgjr4elwv7nl2x_img_unnamed28129_50cebb5de8cf.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-18_1wzpr1s0mbngb31crgjr4elwv7nl2x_img_unnamed28129_50cebb5de8cf.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-04-18_1wzpr1s0mbngb31crgjr4elwv7nl2x_img_unnamed28129_50cebb5de8cf.png)
 
 ### Segment Exposure: Vessel Class Analysis
 
@@ -107,7 +107,7 @@ Here's a chart visualizing the implications of U.S. port fees on Chinese-built d
 ![Market Chart 4](assets/2025-04-18_1wzpr1s0mbngb31crgjr4elwv7nl2x_img_unnamed28229_2db4c8713ee6.png)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-18_1wzpr1s0mbngb31crgjr4elwv7nl2x_img_unnamed28229_2db4c8713ee6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-04-18_1wzpr1s0mbngb31crgjr4elwv7nl2x_img_unnamed28229_2db4c8713ee6.png)
 
 The primary concerns stemming from the proposed tax on Chinese-built vessels include higher freight rates, reduced export competitiveness, and increased pressure on U.S. grain exports. These factors could significantly impact trade flows and the economic viability of key export sectors. Moderate risks include potential disruption in chartering activity, the need for fleet repositioning, and the limited availability of alternative tonnage to replace Chinese-built ships. While the policy may offer a long-term boost to U.S. shipbuilding, current capacity constraints limit the potential for immediate benefits. Additionally, the risk of trade retaliation looms, particularly if other countries respond with countermeasures, further escalating tensions and uncertainty in global trade.
 
@@ -116,7 +116,7 @@ The primary concerns stemming from the proposed tax on Chinese-built vessels inc
 ![Market Chart 5](assets/2025-04-18_1wzpr1s0mbngb31crgjr4elwv7nl2x_img_unnamed28329_efc23b617ad7.png)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-18_1wzpr1s0mbngb31crgjr4elwv7nl2x_img_unnamed28329_efc23b617ad7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-04-18_1wzpr1s0mbngb31crgjr4elwv7nl2x_img_unnamed28329_efc23b617ad7.png)
 
 ### Bar Chart (Blue):
 

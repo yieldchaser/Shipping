@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-23_signal-dry-bulk-weekl
 [![2 (4)](assets/2023-03-23_signal-dry-bulk-weekly-report_img_228429_003cfb21b631.png)
 
 > **Figure 1: 2 (4)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2nrkrx/308838003?h=ZzvUkgvtI8mqyaWhTXd4jCrE9jXzBeCh34a6H8uK5OM) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-23_signal-dry-bulk-weekly-report_img_228429_003cfb21b631.png)](https://www.breakwaveadvisors.com/insights/2023/3/23/jsg1mnc919cdlntpj81a1ciys1ak34)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2nrkrx/308838003?h=ZzvUkgvtI8mqyaWhTXd4jCrE9jXzBeCh34a6H8uK5OM) | [Local Asset](assets/2023-03-23_signal-dry-bulk-weekly-report_img_228429_003cfb21b631.png)](https://www.breakwaveadvisors.com/insights/2023/3/23/jsg1mnc919cdlntpj81a1ciys1ak34)
 
 ## Chart of the Week Dry Bulk: Coal to Chinaincrease in the Volume of Tonnes in the First Quarter of the Year to a New High, with Russia Taking Second Place Among the Countries of Origin
 
@@ -30,7 +30,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-23_signal-dry-bulk-weekl
 
 > **Figure 2: Data Source: The Signal Ocean Platform**  
 > *Data Source: The Signal Ocean Platform, Dry Bulk Flowshttps://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2nrkrx/308838003?h=ZzvUkgvtI8mqyaWhTXd4jCrE9jXzBeCh34a6H8uK5OM*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2nrkrx/308838003?h=ZzvUkgvtI8mqyaWhTXd4jCrE9jXzBeCh34a6H8uK5OM) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-23_signal-dry-bulk-weekly-report_img_unnamed-2023-03-23t135055271_787dc3184bcd.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2nrkrx/308838003?h=ZzvUkgvtI8mqyaWhTXd4jCrE9jXzBeCh34a6H8uK5OM) | [Local Asset](assets/2023-03-23_signal-dry-bulk-weekly-report_img_unnamed-2023-03-23t135055271_787dc3184bcd.png)
 
 The third week of March has confirmed that the first quarter is ending with positive momentum for higher rates as demand growth recovers, especially for the larger ship categories. The supply of ballast vessels in the Capesize segment is now gradually decreasing, and demand growth is higher than ever before this year, reaching its final peak at the end of 2022.
 
@@ -47,7 +47,7 @@ For more information on this week's trends, see the analysis sections below: Fre
 ![Market Chart 3](assets/2023-03-23_signal-dry-bulk-weekly-report_img_unnamed-2023-03-23t135218423_23b4ef19982f.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-23_signal-dry-bulk-weekly-report_img_unnamed-2023-03-23t135218423_23b4ef19982f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-03-23_signal-dry-bulk-weekly-report_img_unnamed-2023-03-23t135218423_23b4ef19982f.png)
 
 The third week of March confirmed the upward trend of the previous days, with the major ship categories, Capesize and Panamax, showing an even stronger performance than at the beginning of the month.
 
@@ -61,7 +61,7 @@ The third week of March confirmed the upward trend of the previous days, with th
 ![Supply Trend Lines for Key Load Areas](assets/2023-03-23_signal-dry-bulk-weekly-report_img_unnamed-2023-03-23t135316360_498d58a22ce4.png)
 
 > **Figure 4: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-23_signal-dry-bulk-weekly-report_img_unnamed-2023-03-23t135316360_498d58a22ce4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-03-23_signal-dry-bulk-weekly-report_img_unnamed-2023-03-23t135316360_498d58a22ce4.png)
 
 The number of ballast ships has increased in all size classes, with only Capesize ships showing a slowdown.
 
@@ -75,7 +75,7 @@ The number of ballast ships has increased in all size classes, with only Capesiz
 ![TonDays Increasing](assets/2023-03-23_signal-dry-bulk-weekly-report_img_unnamed-2023-03-23t135354300_03d2d58c0365.png)
 
 > **Figure 5: TonDays Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-23_signal-dry-bulk-weekly-report_img_unnamed-2023-03-23t135354300_03d2d58c0365.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-03-23_signal-dry-bulk-weekly-report_img_unnamed-2023-03-23t135354300_03d2d58c0365.png)
 
 The third week of March continues to surprise with a strong upward trend in the Capesize segment, while Panamax and Supramax show a notable increase.
 
@@ -89,7 +89,7 @@ The third week of March continues to surprise with a strong upward trend in the 
 ![Increasing](assets/2023-03-23_signal-dry-bulk-weekly-report_img_unnamed-2023-03-23t135437269_cbd001f17ec3.png)
 
 > **Figure 6: Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-23_signal-dry-bulk-weekly-report_img_unnamed-2023-03-23t135437269_cbd001f17ec3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-03-23_signal-dry-bulk-weekly-report_img_unnamed-2023-03-23t135437269_cbd001f17ec3.png)
 
 In the third week of March, volumes in the Supramax and Handysize segments continued to rise, and it looks like the increase will continue for another week. In the last three weeks, the increase has accelerated.
 

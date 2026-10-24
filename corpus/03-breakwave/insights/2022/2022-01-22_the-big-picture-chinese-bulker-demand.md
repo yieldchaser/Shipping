@@ -35,14 +35,14 @@ Chinese dry bulk import demand, across all vessel sizes, increased by 2.6% YoY i
 ![Ch1](assets/2022-01-22_the-big-picture-chinese-bulker-demand_img_ch1_e0041be7042b.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-22_the-big-picture-chinese-bulker-demand_img_ch1_e0041be7042b.png)
+> [Local Asset](assets/2022-01-22_the-big-picture-chinese-bulker-demand_img_ch1_e0041be7042b.png)
 
 Towards the back end of 2021, total demand for Supramaxes and Handies declined by 9.3% and 11.1% YoY in Q4 2021 respectively. Weaker Chinese seaborne steel demand has contributed to this effect, with employment from longer haul steel trades from Brazil and Russia declining by 77.8% and 44.6% YoY in Q4.
 
 ![Ch2](assets/2022-01-22_the-big-picture-chinese-bulker-demand_img_ch2_f96c046c5d4e.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-22_the-big-picture-chinese-bulker-demand_img_ch2_f96c046c5d4e.png)
+> [Local Asset](assets/2022-01-22_the-big-picture-chinese-bulker-demand_img_ch2_f96c046c5d4e.png)
 
 ### Commodity Breakdown
 
@@ -51,7 +51,7 @@ When breaking this down by commodity, shipping demand from Chinese iron ore impo
 ![Ch3](assets/2022-01-22_the-big-picture-chinese-bulker-demand_img_ch3_cdcdc8deafe5.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-22_the-big-picture-chinese-bulker-demand_img_ch3_cdcdc8deafe5.png)
+> [Local Asset](assets/2022-01-22_the-big-picture-chinese-bulker-demand_img_ch3_cdcdc8deafe5.png)
 
 Chinese demand for seaborne grain, which has performed strongly since the start of the pandemic, recorded negative growth for the first time in Q4 since Q2 2019. Falling 9.5% YoY, compared to an abnormally strong Q4 2020, agribulk demand from China remains firmly above pre-pandemic levels as the country ramps up imports for food security. Although it is unclear to what extent China will be importing in 2022, the slowdown in demand in Q4 may signal grain stocks in the country are now near sufficient levels.
 
@@ -62,7 +62,7 @@ Chinese crude steel production totalled 86.2m tonnes in December according to th
 ![Ch4](assets/2022-01-22_the-big-picture-chinese-bulker-demand_img_ch4_a311cc953e7c.png)
 
 > **Figure 4: Ch4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-22_the-big-picture-chinese-bulker-demand_img_ch4_a311cc953e7c.png)
+> [Local Asset](assets/2022-01-22_the-big-picture-chinese-bulker-demand_img_ch4_a311cc953e7c.png)
 
 A range of constraints in the Chinese steel sector, such as energy rationing and emissions controls have largely driven the decline in 2H21. As a result, utilisation rates at Chinese steel mills, which indicate the capacity at which mills are operating, have fallen to 18-month lows. For rebar in particular, which is used heavily in the construction sector, utilisation declined to 60.73% in December, the lowest figure since the start of 2018.
 
@@ -73,7 +73,7 @@ The Chinese property market has seen a swift decline since default rumours surro
 ![Ch5](assets/2022-01-22_the-big-picture-chinese-bulker-demand_img_ch5_669f0450331d.png)
 
 > **Figure 5: Ch5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-22_the-big-picture-chinese-bulker-demand_img_ch5_669f0450331d.png)
+> [Local Asset](assets/2022-01-22_the-big-picture-chinese-bulker-demand_img_ch5_669f0450331d.png)
 
 As a result, liquidity in the Chinese housing market has thrust initiated floor space back into contractionary territory at -10.9%, levels considerably below those before the pandemic and the tenth successive month this figure has decelerated.
 

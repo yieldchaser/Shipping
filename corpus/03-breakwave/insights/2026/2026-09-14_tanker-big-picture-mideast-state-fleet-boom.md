@@ -39,7 +39,7 @@ We currently assess a 5-yr old South Korea-built VLCC at $157mn and a 10-yr old 
 ![74fa Image 0 1789151191200](assets/2026-09-14_tanker-big-picture-mideast-state-fleet-boom_img_74fa-image-0-1789151191200_09fbdaf7d90e.png)
 
 > **Figure 1: 74fa Image 0 1789151191200**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-14_tanker-big-picture-mideast-state-fleet-boom_img_74fa-image-0-1789151191200_09fbdaf7d90e.png)
+> [Local Asset](assets/2026-09-14_tanker-big-picture-mideast-state-fleet-boom_img_74fa-image-0-1789151191200_09fbdaf7d90e.png)
 
 ### How Has Mideast Noc Exposure to Shipping Evolved?
 
@@ -51,7 +51,7 @@ Middle East NOC-owned VLCCs’ share of regional VLCC exports rose from 12% (1.8
 
 > **Figure 2: Source: Braemar and Vortexa**  
 > *Source: Braemar and Vortexa*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-14_tanker-big-picture-mideast-state-fleet-boom_img_b2a6-image-1-1789151191202_b283202b6370.png)
+> [Local Asset](assets/2026-09-14_tanker-big-picture-mideast-state-fleet-boom_img_b2a6-image-1-1789151191202_b283202b6370.png)
 
 But what happens once disruption eases and the need for shuttle services out of Hormuz ends? Saudi Arabia’s fleet of 49-owned VLCCs and Kuwait’s fleet of 11-owned VLCCs is enough to cover roughly a third of the respective country’s full export programme on pre-Iran conflict trade routing. The 14 VLCCs owned by the UAE, including its recent acquisitions, would cover roughly 22% of its exports.
 

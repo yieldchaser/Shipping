@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-06-15_capesizes-bounce-off-
 
 > **Figure 1: Capesize Spot Rate Seasonality**  
 > *Capesize Spot Rate Seasonality, 2015-2021*  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/6/1/capesizes-have-high-hopes-as-rest-of-dry-bulk-thrives) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-15_capesizes-bounce-off-support-seasonal-upturn-is-here_img_unsplash-image-ndfqqq-7qwm_4903a6031f50.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/6/1/capesizes-have-high-hopes-as-rest-of-dry-bulk-thrives) | [Local Asset](assets/2021-06-15_capesizes-bounce-off-support-seasonal-upturn-is-here_img_unsplash-image-ndfqqq-7qwm_4903a6031f50.jpg)
 
 It is not often during any given year that inflection points in dry bulk can be identified, as the sector is well known for the high volatility and its unexpected twists and turns. However, as we have stressed in the last few months, especially as the spot market peaked, it was one of this instances that the bottom was easier to identify due to the timing of the rally.
 
@@ -36,7 +36,7 @@ All these is now behind us, and looking forward, the near term future now looks 
 
 > **Figure 2: Capesize Spot Index**  
 > *Capesize Spot Index, 2016-2021*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-15_capesizes-bounce-off-support-seasonal-upturn-is-here_img_capesseasonalilty_aa9fbc635068.jpg)
+> [Local Asset](assets/2021-06-15_capesizes-bounce-off-support-seasonal-upturn-is-here_img_capesseasonalilty_aa9fbc635068.jpg)
 
 Which brings us to the freight futures market. For weeks now, Capesize near-dated futures have been aggressive in pricing a sharp rebound in Capesize spot rates, ignoring the deterioration in the spot market and waiting till last minute (in the case of the June futures contract) to price-in the declining spot rates. And futures traders have been right… so far. Capesize spot rates staged a sharp rebound, now standing just above 30,000, or more than 35% above recent lows just last week.
 
@@ -46,14 +46,14 @@ Yet, futures are indicating even a stronger improvement in spot rates over the n
 
 > **Figure 3: Difference Between Front Month Futures Contract and Spot Index**  
 > *Difference between front month futures contract and spot index, Capesizes*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-15_capesizes-bounce-off-support-seasonal-upturn-is-here_img_capesspot_560e87608eb6.jpg)
+> [Local Asset](assets/2021-06-15_capesizes-bounce-off-support-seasonal-upturn-is-here_img_capesspot_560e87608eb6.jpg)
 
 Currently, the front month futures contract on Capesizes (July contract) is trading at the highest premium versus recent years (chart below). However, this has been the case for the last several weeks, and so far the optimism holds well. In addition, the spot market is rising, and thus traders have no reason to doubt that such premiums will not eventually be met by the rising spot market.
 
 ![1m Premiums](assets/2021-06-15_capesizes-bounce-off-support-seasonal-upturn-is-here_img_1mpremiums_0c47d092c3d5.jpg)
 
 > **Figure 4: 1m Premiums**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-15_capesizes-bounce-off-support-seasonal-upturn-is-here_img_1mpremiums_0c47d092c3d5.jpg)
+> [Local Asset](assets/2021-06-15_capesizes-bounce-off-support-seasonal-upturn-is-here_img_1mpremiums_0c47d092c3d5.jpg)
 
 So, premiums are high, sentiment is firm and the outlook is positive. That does not mean that risks are not real and that investors should sleep tight on the back of a rallying futures curve. Although commodities are in a bull market aiding freight, China is the main driver of the move and thus is also the main risk of a correction over the next several months. Macro-wise the world looks strong, but China is currently paying up significantly to secure the main commodities needed for its economy to grow. Any pullback from the current buying frenzy (see corn, iron ore, coal, etc.) and the rest of the world’s demand is not enough to maintain dry bulk rates at the current elevated levels (let alone the levels the futures are pointing to).
 

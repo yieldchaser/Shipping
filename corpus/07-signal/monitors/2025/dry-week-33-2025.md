@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-33-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/689da46ada4931610d8f4e84_AD_4nXeMF7Piy7RzsRcja8xBrjz9gLLWXwDC28EjcJ9mjvJ38YezYKEhYD82wYvnO_onJn3o5r-llLCnkkTmUNWRKCDyVbY1Dy9o2YFN8sKweD7lhLRxoGBOAzJUMpWQ74-TQ3xa_5Vg.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-33-2025) | [Local Asset](../../images/689da46ada4931610d8f4e84_AD_4nXeMF7Piy7RzsRcja8xBrjz9gLLWXwDC28EjcJ9mjvJ38YezYKEhYD82wYvnO_onJn3o5r-llLCnkkTmUNWRKCDyVbY1Dy9o2YFN8sKweD7lhLRxoGBOAzJUMpWQ74-TQ3xa_5Vg.png)
 
 This week’s ***Chart Monitor*** highlights a significant increase in Brazilian iron ore shipments, up 18% in Q2 compared to Q1, with July volumes reaching nearly 38 million tonnes (from about 29 million tonnes at the start of 2025). This marks the strongest monthly level since the beginning of the year and outpaces the same period over the past two years. While this rise aligns with typical seasonal momentum, July has now set a new high for the period, closely trailing last August’s record of 39 Mt.
 
@@ -44,7 +44,7 @@ On the demand side, a Reuters survey indicates that Chinese iron ore imports are
 ![689da46ada4931610d8f4e81 Ad 4nxftjernm7xqnjcaxiae N6clsv1v3javjuqvuuuo1disour9vj 9ufhuctqor4izjxivxt0dbqup2raarivivhtayi8 Ss65z0dedths6wm7td G2htaq2fqespcjg5kaeepewnog](../../images/689da46ada4931610d8f4e81_AD_4nXfTJErNM7xQNjcaXiaE-N6CLsV1V3JAvJUQvuuUO1dIsoUR9Vj-9ufHuctQOr4IzjxiVxT0dbQUp2RaaRivivhTAYI8-sS65z0DedTHs6Wm7td_G2Htaq2FQeSPcJg5kAeEPEwnog.png)
 
 > **Figure 2: 689da46ada4931610d8f4e81 Ad 4nxftjernm7xqnjcaxiae N6clsv1v3javjuqvuuuo1disour9vj 9ufhuctqor4izjxivxt0dbqup2raarivivhtayi8 Ss65z0dedths6wm7td G2htaq2fqespcjg5kaeepewnog**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-33-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/689da46ada4931610d8f4e81_AD_4nXfTJErNM7xQNjcaXiaE-N6CLsV1V3JAvJUQvuuUO1dIsoUR9Vj-9ufHuctQOr4IzjxiVxT0dbQUp2RaaRivivhTAYI8-sS65z0DedTHs6Wm7td_G2Htaq2FQeSPcJg5kAeEPEwnog.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-33-2025) | [Local Asset](../../images/689da46ada4931610d8f4e81_AD_4nXfTJErNM7xQNjcaXiaE-N6CLsV1V3JAvJUQvuuUO1dIsoUR9Vj-9ufHuctQOr4IzjxiVxT0dbQUp2RaaRivivhTAYI8-sS65z0DedTHs6Wm7td_G2Htaq2FQeSPcJg5kAeEPEwnog.png)
 
 A new factor is also emerging in the trade flow: India has begun importing Brazilian iron ore. This diversification of end-market demand adds another layer of support to the already bullish Capesize freight sentiment, alongside the additional tonnage movements from projects such as Simandou’s new [bauxite](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025)activity.
 

@@ -29,7 +29,7 @@ Also very noteworthy for the dry bulk shipping market is that India’s coal-der
 ![Comodore 6.11](assets/2021-06-16_indias-coal-derived-electricity-production-remains-strong_img_comodore611_0ac769914170.jpg)
 
 > **Figure 1: Comodore 6.11**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-16_indias-coal-derived-electricity-production-remains-strong_img_comodore611_0ac769914170.jpg)
+> [Local Asset](assets/2021-06-16_indias-coal-derived-electricity-production-remains-strong_img_comodore611_0ac769914170.jpg)
 
 ---
 

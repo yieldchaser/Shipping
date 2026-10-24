@@ -42,7 +42,7 @@ The top destinations for thermal coal remained those countries most dependent on
 
 > **Figure 1: Source: Seaborn Thermal Coal Flows Origins and Destinations From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Seaborn thermal coal flows origins and destinations from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/commodity-radar-coal-look-back-2026-q2) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4cc5722be1c66e5c7d49b5_7a4cb276.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/commodity-radar-coal-look-back-2026-q2) | [Local Asset](../../images/6a4cc5722be1c66e5c7d49b5_7a4cb276.png)
 
 
 ## Global Seaborne Met Coal
@@ -56,4 +56,4 @@ Increases in domestic Indian coal production led to a decline in imports of met 
 
 > **Figure 2: Source: Seaborn Met Coal Flows Origins and Destinations From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Seaborn met coal flows origins and destinations from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/commodity-radar-coal-look-back-2026-q2) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4cc5722be1c66e5c7d49b2_c792bdbb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/commodity-radar-coal-look-back-2026-q2) | [Local Asset](../../images/6a4cc5722be1c66e5c7d49b2_c792bdbb.png)

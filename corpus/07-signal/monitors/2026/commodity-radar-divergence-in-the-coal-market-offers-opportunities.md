@@ -41,7 +41,7 @@ Global seaborne coal flows mask a sharp divergence between thermal and metallurg
 
 > **Figure 1: Source: Total Coal Flows From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Total coal flows from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-divergence-in-the-coal-market-offers-opportunities) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a841a1eb48609b6690f1982_b850ac00.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-divergence-in-the-coal-market-offers-opportunities) | [Local Asset](../../images/6a841a1eb48609b6690f1982_b850ac00.png)
 
 Global seaborne coal flows were 116.5 mt in July 2026, up 1% y/y, a small change overall, yet the underlying data below the headline figure points to the two main coal types performing very differently.
 
@@ -56,7 +56,7 @@ Met coal flows in July surged despite India, the largest met coal importer, seei
 
 > **Figure 2: Source: Met Coal Flows vs Thermal Coal Flows From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Met coal flows vs thermal coal flows from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-divergence-in-the-coal-market-offers-opportunities) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a841a1eb48609b6690f197f_529dfc89.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-divergence-in-the-coal-market-offers-opportunities) | [Local Asset](../../images/6a841a1eb48609b6690f197f_529dfc89.png)
 
 Looking ahead, Signal Ocean data shows that August met coal flows typically increase m/m, as many steel mills open their Q3 procurement budgets. Given met coal flows are currently running close to 6% higher than the same period last year, it is expected that flows in August 2026 will be above that of the same month last year. This is despite weak global steel production, which WSA has currently 0.7% behind the same period last year.
 
@@ -69,7 +69,7 @@ The knock-on effects for shipping are that tonne-miles of coal-carrying vessels 
 
 > **Figure 3: Source: Tonne-Miles of Coal-Carrying Vessels From Signal Ocean Https://app.signalocean.com/dry/dynamic/timeseriesdry**  
 > *Source: Tonne-miles of coal-carrying vessels from Signal Ocean https://app.signalocean.com/dry/dynamic/timeseries_dry*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-divergence-in-the-coal-market-offers-opportunities) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a841a1eb48609b6690f1985_29e479f2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-divergence-in-the-coal-market-offers-opportunities) | [Local Asset](../../images/6a841a1eb48609b6690f1985_29e479f2.png)
 
 
 ## Diverging Coal Markets Support Shipping Demand

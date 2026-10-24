@@ -27,7 +27,7 @@ As we discussed in Commodore Research's most recent Weekly China Report, Chinaâ€
 ![Chart 1 (1)](assets/2024-10-28_rebound-in-chinas-consumer-spending-growth_img_chart128129_b1aaa2b74684.jpg)
 
 > **Figure 1: Chart 1 (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-28_rebound-in-chinas-consumer-spending-growth_img_chart128129_b1aaa2b74684.jpg)
+> [Local Asset](assets/2024-10-28_rebound-in-chinas-consumer-spending-growth_img_chart128129_b1aaa2b74684.jpg)
 
 Retail sales growth has improved, and the growth has also continued to exceed inflation. During each of the last twenty-one months, retail sales growth has come in higher than inflation. Prior to the last twenty-one months, retail sales came in lower than inflation for four straight months. Also of note regarding inflation is Septemberâ€™s 0.4% inflation marks the lowest inflation seen since June.
 
@@ -36,7 +36,7 @@ Of note on the consumer side is that furniture sales, clothing sales, and househ
 ![Chart 2 (1)](assets/2024-10-28_rebound-in-chinas-consumer-spending-growth_img_chart228129_defe107b3b66.jpg)
 
 > **Figure 2: Chart 2 (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-28_rebound-in-chinas-consumer-spending-growth_img_chart228129_defe107b3b66.jpg)
+> [Local Asset](assets/2024-10-28_rebound-in-chinas-consumer-spending-growth_img_chart228129_defe107b3b66.jpg)
 
 ---
 

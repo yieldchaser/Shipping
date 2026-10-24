@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-07-18_template-breakwave-bi
 ![Dbreporttop](assets/2023-07-18_template-breakwave-bi-weekly-tanker-report-july-11-2023-ndecc_img_dbreporttop_47d557713518.png)
 
 > **Figure 1: Dbreporttop**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-18_template-breakwave-bi-weekly-tanker-report-july-11-2023-ndecc_img_dbreporttop_47d557713518.png)
+> [Local Asset](assets/2023-07-18_template-breakwave-bi-weekly-tanker-report-july-11-2023-ndecc_img_dbreporttop_47d557713518.png)
 
 **• Steady as she goes, with Capesize spot rates in a tight range**– With the summer doldrums in full swing, the Capesize spot market has remained in a tight range, reflecting the uninspiring chartering activity and a stable, normalized export rate when it comes to the major dry bulk commodities. Seasonal weather-related disruptions in West Africa are currently reducing the rate of bauxite loadings and that is gradually having a negative impact in the Atlantic basin, which is naturally showing in the form of vessel oversupply in that part of the world. In the Pacific, iron ore exports from Australia remain strong but steady, and the absence of any tightness in the supply of vessels (i.e., congestion, weather disruptions, etc.) have also allowed steady spot rates there. Overall, it appears that both charters and ship owners are pleased with the current status quo, and the next leg higher for spot Capesize rates might appear only after the seasonally strong demand returns, sometime in mid-August, when we expect the Atlantic market to take the lead once again. The sub-Cape segments have now weakened to their pre-Covid ranges, and we also expect some strengthening there in line with seasonal patterns. In dry bulk shipping, it is the rapid, unexpected bursts of demand that can make the difference when it comes to the spot market, and as much as such a change comes always without warning, anticipating seasonal shifts could potentially provide an edge for traders and investors alike. We believe we are getting closer to such a turning point, yet patience is a virtue and positioning ahead of such an event is key, given the rapid nature of the futures market moves once such a change is sniffed by traders.
 
@@ -33,9 +33,9 @@ source_file: "corpus/03-breakwave/insights/2023/2023-07-18_template-breakwave-bi
 ![Dbreportchart](assets/2023-07-18_template-breakwave-bi-weekly-tanker-report-july-11-2023-ndecc_img_dbreportchart_892dabcdbe39.png)
 
 > **Figure 2: Dbreportchart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-18_template-breakwave-bi-weekly-tanker-report-july-11-2023-ndecc_img_dbreportchart_892dabcdbe39.png)
+> [Local Asset](assets/2023-07-18_template-breakwave-bi-weekly-tanker-report-july-11-2023-ndecc_img_dbreportchart_892dabcdbe39.png)
 
 ![Dbreportbottom](assets/2023-07-18_template-breakwave-bi-weekly-tanker-report-july-11-2023-ndecc_img_dbreportbottom_2a2c9ac032f5.png)
 
 > **Figure 3: Dbreportbottom**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-18_template-breakwave-bi-weekly-tanker-report-july-11-2023-ndecc_img_dbreportbottom_2a2c9ac032f5.png)
+> [Local Asset](assets/2023-07-18_template-breakwave-bi-weekly-tanker-report-july-11-2023-ndecc_img_dbreportbottom_2a2c9ac032f5.png)

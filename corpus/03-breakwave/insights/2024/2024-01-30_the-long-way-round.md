@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-01-30_the-long-way-round.ht
 ![Gibson Report](assets/2024-01-30_the-long-way-round_img_gibsonreport_05592be74e93.jpg)
 
 > **Figure 1: Gibson Report**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-30_the-long-way-round_img_gibsonreport_05592be74e93.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-01-30_the-long-way-round_img_gibsonreport_05592be74e93.jpg)
 
 ## The Long Way Round
 
@@ -37,6 +37,6 @@ The biggest challenge for traders now is that rates have risen to such an extent
 ![Screenshot 2024 01 30 10.08.57](assets/2024-01-30_the-long-way-round_img_screenshot2024-01-30100857_7661d2f82f1c.png)
 
 > **Figure 2: Screenshot 2024 01 30 10.08.57**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-30_the-long-way-round_img_screenshot2024-01-30100857_7661d2f82f1c.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-01-30_the-long-way-round_img_screenshot2024-01-30100857_7661d2f82f1c.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)

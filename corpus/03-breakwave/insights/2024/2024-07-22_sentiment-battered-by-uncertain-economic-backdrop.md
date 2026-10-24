@@ -27,7 +27,7 @@ A broader risk-off tone across markets weighed on sentiment, and was exacerbated
 ![Στιγμιότυπο Οθόνης 2024 07 22 102141](assets/2024-07-22_sentiment-battered-by-uncertain-economic-backdrop_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c8018a0ac175.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 22 102141**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-22_sentiment-battered-by-uncertain-economic-backdrop_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c8018a0ac175.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-07-22_sentiment-battered-by-uncertain-economic-backdrop_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c8018a0ac175.png)
 
 ### Market Commentary
 
@@ -46,7 +46,7 @@ A broader risk-off tone across markets weighed on sentiment, and was exacerbated
 ![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](assets/2024-07-22_sentiment-battered-by-uncertain-economic-backdrop_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5abed0bb83a2.png)
 
 > **Figure 2: Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-22_sentiment-battered-by-uncertain-economic-backdrop_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5abed0bb83a2.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-07-22_sentiment-battered-by-uncertain-economic-backdrop_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5abed0bb83a2.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-06-03_still-handy.html"
 ![Approach 2](assets/2024-06-03_still-handy_img_approach-2_c21fe5da4c04.jpg)
 
 > **Figure 1: Approach 2**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-03_still-handy_img_approach-2_c21fe5da4c04.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-06-03_still-handy_img_approach-2_c21fe5da4c04.jpg)
 
 Despite being the oldest deep sea tanker fleet, the Handy sector (32,000 – 42,000 dwt) has been the least invested tanker sector of the past decade. Whilst the Handy market has also been most impacted by the War in Ukraine, both from a sale and purchase and trading perspective, there is still a clear need for modern well approved tonnage, with the sector facing a major supply crunch in the years ahead.
 
@@ -38,7 +38,7 @@ As such, something needs to change. Either the market needs to move towards MR s
 ![Στιγμιότυπο Οθόνης 2024 06 03 100014](assets/2024-06-03_still-handy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3d59220b2af8.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 06 03 100014**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-03_still-handy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3d59220b2af8.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-06-03_still-handy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3d59220b2af8.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

@@ -26,7 +26,7 @@ The third week of the trading year kicked off with a slew of data, including Chi
 ![1 (2)](assets/2023-01-23_doric-weekly-market-insight_img_128229_2275041398fb.png)
 
 > **Figure 1: 1 (2)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-23_doric-weekly-market-insight_img_128229_2275041398fb.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-01-23_doric-weekly-market-insight_img_128229_2275041398fb.png)
 
 Kang Yi, head of China’s National Bureau of Statistics, stressed that "The national economy continued to develop despite downward pressure, economic output reached a higher level, employment levels and prices were generally stable, people's lives had been continuously improved, new achievements were secured in high-quality development, while overall economic and social development was stable and healthy." Compared with major economies across the world, the three-percent growth rate was relatively fast, he said, attributing the economy's rebound from stronger-than-expected shocks to the timely support of pro-growth policies.
 
@@ -37,7 +37,7 @@ Among them, the residential investment balanced at 10,064.6 billion yuan, down 9
 ![1 (3)](assets/2023-01-23_doric-weekly-market-insight_img_128329_d90ee50e6ff9.png)
 
 > **Figure 2: 1 (3)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-23_doric-weekly-market-insight_img_128329_d90ee50e6ff9.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-01-23_doric-weekly-market-insight_img_128329_d90ee50e6ff9.png)
 
 The world’s second largest economy, after battling strong global economic and geopolitical headwinds, a debt crisis in the crucial property sector, and severe self-imposed constraints related to zero-Covid policy, managed to stay afloat. In that sense, this was a rather positive GDP report, and lays a solid ground for the economy to recover in the upcoming quarters. The country recently lifted its pandemic restrictions, enabling Chinese citizens to move around freely again. China’s reopening and exit from its strict zero-Covid policy is expected to be the most positive catalyst for global markets. Chinese Vice-Premier Liu He stressed in Davos that the country is returning back to normality faster than expected, projecting a rosy picture for this year despite recording the second-lowest annual growth figures in more than 40 years. He added that since China ended its zero-Covid policy last month, the time it had taken to reach a peak in the number of infections had been relatively quick, “which somehow is beyond our expectations”.
 
@@ -46,6 +46,6 @@ In sharp contrast, expectations for the first quarter of the spot market are any
 ![1 (4)](assets/2023-01-23_doric-weekly-market-insight_img_128429_febb150fcbb6.png)
 
 > **Figure 3: 1 (4)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-23_doric-weekly-market-insight_img_128429_febb150fcbb6.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-01-23_doric-weekly-market-insight_img_128429_febb150fcbb6.png)
 
 Data source:[Doric](https://www.doric.gr/)

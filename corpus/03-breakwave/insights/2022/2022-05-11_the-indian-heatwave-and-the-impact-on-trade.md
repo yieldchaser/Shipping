@@ -34,7 +34,7 @@ India’s seaborne imports of coal have been trending lower since April last yea
 ![Ch1.jpg](assets/2022-05-11_the-indian-heatwave-and-the-impact-on-trade_img_ch1jpg_508d52687316.png)
 
 > **Figure 1: Ch1.jpg**  
-> **Interactive Data & Source:** [Blog Shipfix](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-4-india-key-to-changing-trade-patterns) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-11_the-indian-heatwave-and-the-impact-on-trade_img_ch1jpg_508d52687316.png)
+> **Interactive Data & Source:** [Blog Shipfix](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-4-india-key-to-changing-trade-patterns) | [Local Asset](assets/2022-05-11_the-indian-heatwave-and-the-impact-on-trade_img_ch1jpg_508d52687316.png)
 
 Source: Shipfix
 
@@ -47,7 +47,7 @@ As Shipfix has previously[reported](https://blog.shipfix.com/market/shipfixs-wee
 ![Ch2](assets/2022-05-11_the-indian-heatwave-and-the-impact-on-trade_img_ch2_8e0896e06255.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-11_the-indian-heatwave-and-the-impact-on-trade_img_ch2_8e0896e06255.png)
+> [Local Asset](assets/2022-05-11_the-indian-heatwave-and-the-impact-on-trade_img_ch2_8e0896e06255.png)
 
 Source: Shipfix
 

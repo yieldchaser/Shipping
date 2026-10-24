@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-09-21_what-will-a-post-pand
 ![By Ulf Bergman](assets/2020-09-21_what-will-a-post-pandemic-recovery-look-like_img_image-asset_62e5a133b221.jpeg)
 
 > **Figure 1: By Ulf Bergman**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-21_what-will-a-post-pandemic-recovery-look-like_img_image-asset_62e5a133b221.jpeg)
+> [Local Asset](assets/2020-09-21_what-will-a-post-pandemic-recovery-look-like_img_image-asset_62e5a133b221.jpeg)
 
 Possibly a premature question, as there are still no effective treatments or vaccines available and infection rates are on the rise yet again. However, assuming a vaccine will be fund in the not too distant future, the answer to the question is likely to be quite different depending on what industry one is looking at. A recovery could be a rather uneven affair, both in terms of industrial sectors and regions. Posing the question to a cruise ship operator or an airline executive, the answer is likely to be quite gloomy and expectations of a quick return to 2019 levels subdued.
 
@@ -32,7 +32,7 @@ Air travel, for example, is projected not to return to pre-pandemic levels until
 ![Ulf Pic 2](assets/2020-09-21_what-will-a-post-pandemic-recovery-look-like_img_ulfpic2_78cf0a367d9c.png)
 
 > **Figure 2: Ulf Pic 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-21_what-will-a-post-pandemic-recovery-look-like_img_ulfpic2_78cf0a367d9c.png)
+> [Local Asset](assets/2020-09-21_what-will-a-post-pandemic-recovery-look-like_img_ulfpic2_78cf0a367d9c.png)
 
 Despite a backdrop of a slow and gradual recovery towards pre-pandemic levels of economic activity, there could still be a silver lining for the shipping and commodities markets. The extensive stimulus programmes, announced by governments worldwide, could trigger a wave of infrastructure investments, which would drive demand and prices for commodities higher. Some pundits are suggesting the impact on the markets will be considerable with prices for industrial commodities, such as iron ore, surging as new investment projects are being announced in the near term.
 
@@ -41,7 +41,7 @@ China, India and the US are likely to be the main markets for infrastructure inv
 ![Market Chart 3](assets/2020-09-21_what-will-a-post-pandemic-recovery-look-like_img_image-asset_d45c29a392b8.jpeg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-21_what-will-a-post-pandemic-recovery-look-like_img_image-asset_d45c29a392b8.jpeg)
+> [Local Asset](assets/2020-09-21_what-will-a-post-pandemic-recovery-look-like_img_image-asset_d45c29a392b8.jpeg)
 
 In addition, we currently see historically thin orderbooks at the shipyards and, with the exception of LNG carriers, only a limited number of new vessels are set be launched over the next few years. The joint effects of the pandemic and a lack of clarity on future regulations and propulsion technology appears to have dampened shipowners’ appetite for new tonnage. A combination of near-zero net fleet growth and an increase in demand for seaborne transportation of commodities could prove beneficial for freight rates in the dry bulk shipping sector in the coming years.
 

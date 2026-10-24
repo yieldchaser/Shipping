@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-02-02_geopolitics-before-fu
 ![Istock 485480338](assets/2026-02-02_geopolitics-before-fundamentals_img_istock-485480338_ce7742c70ec8.jpg)
 
 > **Figure 1: Istock 485480338**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/report/trouble-in-tehran/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-02_geopolitics-before-fundamentals_img_istock-485480338_ce7742c70ec8.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/report/trouble-in-tehran/) | [Local Asset](assets/2026-02-02_geopolitics-before-fundamentals_img_istock-485480338_ce7742c70ec8.jpg)
 
 Geopolitical developments dominated tanker markets last year, with a wave of sanctions primarily targeting Russia, secondary measures aimed at entities trading Russian and Iranian crude, the brief Israel-Iran conflict, Trump’s inauguration, US trade wars, and the US-China port-fee standoff among the key events. So far, this year is proving just as “eventful” as 2025.
 
@@ -42,7 +42,7 @@ In conclusion, geopolitical forces are set to remain the dominant driver of tank
 ![Στιγμιότυπο Οθόνης 2026 02 02 105409](assets/2026-02-02_geopolitics-before-fundamentals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9c396e56c20e.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 02 02 105409**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-02_geopolitics-before-fundamentals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9c396e56c20e.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-02-02_geopolitics-before-fundamentals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9c396e56c20e.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

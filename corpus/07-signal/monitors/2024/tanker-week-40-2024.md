@@ -32,7 +32,7 @@ tags:
 ![66ffcafed5588a00128f3cf1 66ffcad534d70290b6bf709e Tankers%20red%20sea](../../images/66ffcafed5588a00128f3cf1_66ffcad534d70290b6bf709e_tankers%20red%20sea.avif)
 
 > **Figure 1: 66ffcafed5588a00128f3cf1 66ffcad534d70290b6bf709e Tankers%20red%20sea**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-40-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66ffcafed5588a00128f3cf1_66ffcad534d70290b6bf709e_tankers%20red%20sea.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-40-2024) | [Local Asset](../../images/66ffcafed5588a00128f3cf1_66ffcad534d70290b6bf709e_tankers%20red%20sea.avif)
 
 The first days of October are marked by the latest wave of Middle Eastern geopolitical tensions, which have raised concerns over a potential increase in oil prices as the region edges toward a wider conflict. Market participants are increasingly anxious about the near-term outlook for oil prices, especially as risks in key maritime routes heighten. A particularly significant threat comes from Houthi attacks in the Red Sea, which continue to disrupt seaborne oil trading. The number of vessels transiting the Red Sea has noticeably declined, reflecting mounting apprehensions over the safety of shipments through this crucial waterway.
 

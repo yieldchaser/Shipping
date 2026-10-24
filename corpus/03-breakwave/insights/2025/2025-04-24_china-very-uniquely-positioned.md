@@ -27,7 +27,7 @@ As we discussed in Commodore Research's most recent Weekly China Report, Chinaâ€
 ![Chart](assets/2025-04-24_china-very-uniquely-positioned_img_chart_986057c9b990.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-24_china-very-uniquely-positioned_img_chart_986057c9b990.jpg)
+> [Local Asset](assets/2025-04-24_china-very-uniquely-positioned_img_chart_986057c9b990.jpg)
 
 Overall, a major issue that we have been stressing in our reports is that inflation remaining relatively low in China (compared to much of the rest of the world), has been continuing to provide the central government a luxury of more safely being able to carry out inflationary stimulus measures. With inflation remaining in a year-on-year contraction, we remain of our view that significant stimulus measures will be rolled out. We also continue to see significant silver linings from the trade war with the United States. We see China focusing on strengthening its domestic economy even more (at the expense of re-inflating its debt bubble). Revitalizing consumption has now become even more important to China's government. We see China as being keen to strengthen domestically also in order to be better positioned to become the worldâ€™s sole superpower. As the United States is turning more inwards, we expect that China will be turning more outwards and will again be working on gaining greater prominence globally,
 

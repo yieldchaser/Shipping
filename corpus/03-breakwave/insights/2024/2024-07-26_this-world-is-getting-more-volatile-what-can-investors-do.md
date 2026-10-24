@@ -37,14 +37,14 @@ Last week was eventful. Surviving an assassination attempt emboldened the Republ
 ![Market Chart 1](assets/2024-07-26_this-world-is-getting-more-volatile-what-can-investors-do_img_image001_50b43049d39e.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-26_this-world-is-getting-more-volatile-what-can-investors-do_img_image001_50b43049d39e.png)
+> [Local Asset](assets/2024-07-26_this-world-is-getting-more-volatile-what-can-investors-do_img_image001_50b43049d39e.png)
 
 Meanwhile, a global IT outage caused massive problems, after CrowdStrike, a popular software provider, bungled an update and affected many Windows operating systems around the world. Contemplating how vulnerable global infrastructure is, I found myself laughing remembering the old meme, where a very complex world relies on Microsoft Excel.
 
 ![Στιγμιότυπο Οθόνης 2024 07 26 134240](assets/2024-07-26_this-world-is-getting-more-volatile-what-can-investors-do_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aebcc74412f9.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 07 26 134240**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-26_this-world-is-getting-more-volatile-what-can-investors-do_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aebcc74412f9.png)
+> [Local Asset](assets/2024-07-26_this-world-is-getting-more-volatile-what-can-investors-do_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aebcc74412f9.png)
 
 The business world, be it investments, the economy, or the day-to-day running of a business, is based on some kind of predictability. One starts a business because one can credibly project some profits. How else would they risk their own capital or convince someone to invest with them? How can they get employees to join, suppliers to trust their cheques and so on? Investments work pretty much the same way. Whereas short-term investment returns are even more unpredictable than business cashflows (due to sentiment, the macro economy, interest rates, or just random market movements), we can still approximately predict some elements, especially over the long term
 
@@ -53,7 +53,7 @@ A volatile world, favours fringe outcomes, so-called tail-risks (because they ar
 ![Market Chart 3](assets/2024-07-26_this-world-is-getting-more-volatile-what-can-investors-do_img_image003_676788f42573.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-26_this-world-is-getting-more-volatile-what-can-investors-do_img_image003_676788f42573.png)
+> [Local Asset](assets/2024-07-26_this-world-is-getting-more-volatile-what-can-investors-do_img_image003_676788f42573.png)
 
 It’s even worse for policymakers, especially elected officials. It’s very easy to keep borrowing to support growth, but to do that with any hope that you won’t end up with default or high inflation (which can be analogous to a form of default), you need to keep interest payments in check, and growth relatively high. To do that, you need to be able to project growth (more difficult in open economies) and interest rates (which depend on an independent central bank and an unpredictable global environment).
 
@@ -68,7 +68,7 @@ Yet another example would be the yield curve inversion. The US 2y-10y yield curv
 ![Market Chart 4](assets/2024-07-26_this-world-is-getting-more-volatile-what-can-investors-do_img_image004_20f6ff36974b.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-26_this-world-is-getting-more-volatile-what-can-investors-do_img_image004_20f6ff36974b.png)
+> [Local Asset](assets/2024-07-26_this-world-is-getting-more-volatile-what-can-investors-do_img_image004_20f6ff36974b.png)
 
 In the past few weeks, the Fed had indicated that the time for rate cuts is drawing closer, pushing the yield curve up towards the threshold of positivity. Then, Mr Trump warned the Fed not to cut rates before the election and said that he would consider “letting” Mr Powell finish out his term as long as his decisions were agreeable. The immediate reaction was a drop in rate cut expectations. But the potential damage of politicising the central bank of the world’s reserve currency is much more significant. We have long argued that trade wars in a mercantilist world would see central bank independence compromised, leading to higher inflation and macroeconomic instability. Governors who will want to get on board with government policy will do more to keep the cost of money low, and possibly inflation higher.
 
@@ -77,7 +77,7 @@ The point we are driving to is that in a lopsided world, risk is becoming increa
 ![Market Chart 5](assets/2024-07-26_this-world-is-getting-more-volatile-what-can-investors-do_img_image005_ac7933600b0f.png)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-26_this-world-is-getting-more-volatile-what-can-investors-do_img_image005_ac7933600b0f.png)
+> [Local Asset](assets/2024-07-26_this-world-is-getting-more-volatile-what-can-investors-do_img_image005_ac7933600b0f.png)
 
 Look at the so-called “Sigmoid” or “Step” risks. In essence, these are risks that don’t appear as large probability events but can escalate very quickly, not giving investors a chance to protect against them. In a lopsided world, where risks can be driven by politics, such events can conceivably become more common.
 

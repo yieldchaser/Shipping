@@ -56,6 +56,6 @@ Freight rates for the Panamaxes have moved sharply higher in recent days, propel
 ![Market Chart 1](assets/2022-09-09_global-market-update_img_unnamed286929_3de30de3969b.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-09_global-market-update_img_unnamed286929_3de30de3969b.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-09-09_global-market-update_img_unnamed286929_3de30de3969b.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

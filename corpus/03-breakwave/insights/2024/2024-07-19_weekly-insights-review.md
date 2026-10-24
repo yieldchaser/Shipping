@@ -31,12 +31,12 @@ source_file: "corpus/03-breakwave/insights/2024/2024-07-19_weekly-insights-revie
 ![Στιγμιότυπο Οθόνης 2024 07 16 135454](assets/2024-07-19_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8f71bf146bda.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 16 135454**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/15/ja9xr2is43etm19efflv9xqvfcfhpu) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-19_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8f71bf146bda.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/15/ja9xr2is43etm19efflv9xqvfcfhpu) | [Local Asset](assets/2024-07-19_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8f71bf146bda.png)
 
 ![Read More](assets/2024-07-19_weekly-insights-review_img_image-asset281029_a44c7463e2ae.jpeg)
 
 > **Figure 2: Read More**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/15/ja9xr2is43etm19efflv9xqvfcfhpu) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-19_weekly-insights-review_img_image-asset281029_a44c7463e2ae.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/15/ja9xr2is43etm19efflv9xqvfcfhpu) | [Local Asset](assets/2024-07-19_weekly-insights-review_img_image-asset281029_a44c7463e2ae.jpeg)
 
 ## Notably Strong China’s Export Performance
 
@@ -47,7 +47,7 @@ As the star performer of the twenty-eighth trading week, the Baltic Panamax inde
 ![Oil Drilling](assets/2024-07-19_weekly-insights-review_img_oil-drilling_1f62af173c53.jpg)
 
 > **Figure 3: Oil Drilling**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/15/cash-cow) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-19_weekly-insights-review_img_oil-drilling_1f62af173c53.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/15/cash-cow) | [Local Asset](assets/2024-07-19_weekly-insights-review_img_oil-drilling_1f62af173c53.jpg)
 
 ## Cash Cow
 
@@ -60,7 +60,7 @@ In December 2023, when the newly elected Xavier Milei took the oath as the Argen
 ![Market Chart 4](assets/2024-07-19_weekly-insights-review_img_image-asset_b8fd8267fba6.jpeg)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/15/sentiment-supported-by-strong-commodity-imports-into-china) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-19_weekly-insights-review_img_image-asset_b8fd8267fba6.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/15/sentiment-supported-by-strong-commodity-imports-into-china) | [Local Asset](assets/2024-07-19_weekly-insights-review_img_image-asset_b8fd8267fba6.jpeg)
 
 ## Sentiment Supported by Strong Commodity Imports Into China
 
@@ -73,7 +73,7 @@ The prospect of easing monetary policy helped boost sentiment across the commodi
 ![Market Chart 5](assets/2024-07-19_weekly-insights-review_img_image-asset28129_1dec383eac94.jpeg)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/16/headwinds-for-the-chinese-economy) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-19_weekly-insights-review_img_image-asset28129_1dec383eac94.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/16/headwinds-for-the-chinese-economy) | [Local Asset](assets/2024-07-19_weekly-insights-review_img_image-asset28129_1dec383eac94.jpeg)
 
 ## Headwinds for the Chinese Economy
 
@@ -84,7 +84,7 @@ The Baltic Dry Index recorded a minor gain last week, with the panamaxes chiefly
 ![Market Chart 6](assets/2024-07-19_weekly-insights-review_img_image-asset28229_4918437cf216.jpeg)
 
 > **Figure 6: Market Chart 6**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/16/the-centre-barely-hangs-on-and-inflation-is-only-moderating) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-19_weekly-insights-review_img_image-asset28229_4918437cf216.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/16/the-centre-barely-hangs-on-and-inflation-is-only-moderating) | [Local Asset](assets/2024-07-19_weekly-insights-review_img_image-asset28229_4918437cf216.jpeg)
 
 ## The Centre Barely Hangs on and Inflation Is Only Moderating
 
@@ -95,7 +95,7 @@ The world looks like a better place in the last few weeks. In France, Mr Macron 
 ![Στιγμιότυπο Οθόνης 2024 07 17 113322](assets/2024-07-19_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eda8385f446f.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2024 07 17 113322**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/17/russias-crude-exports-navigate-demand-shifts-and-sanctions) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-19_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eda8385f446f.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/17/russias-crude-exports-navigate-demand-shifts-and-sanctions) | [Local Asset](assets/2024-07-19_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eda8385f446f.png)
 
 ## Russia’s Crude Exports Navigate Demand Shifts and Sanctions
 
@@ -106,7 +106,7 @@ Russian crude exports have fallen sharply in the first two weeks of July, with t
 ![Market Chart 8](assets/2024-07-19_weekly-insights-review_img_image-asset28329_129ed0c485e3.jpeg)
 
 > **Figure 8: Market Chart 8**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/17/gold-hits-record-high-amid-rising-expectations-of-rate-cuts) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-19_weekly-insights-review_img_image-asset28329_129ed0c485e3.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/17/gold-hits-record-high-amid-rising-expectations-of-rate-cuts) | [Local Asset](assets/2024-07-19_weekly-insights-review_img_image-asset28329_129ed0c485e3.jpeg)
 
 ## Gold Hits Record High Amid Rising Expectations of Rate Cuts
 
@@ -119,7 +119,7 @@ A stronger USD created headwinds for commodity markets. Concerns over demand in 
 ![Unsplash Image Fthjdjetimq](assets/2024-07-19_weekly-insights-review_img_unsplash-image-fthjdjetimq_f9d9cefc29b4.jpg)
 
 > **Figure 9: Unsplash Image Fthjdjetimq**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/18/m5x8ejlk7sp40zz3mmy9j60avwtpnj) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-19_weekly-insights-review_img_unsplash-image-fthjdjetimq_f9d9cefc29b4.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/18/m5x8ejlk7sp40zz3mmy9j60avwtpnj) | [Local Asset](assets/2024-07-19_weekly-insights-review_img_unsplash-image-fthjdjetimq_f9d9cefc29b4.jpg)
 
 ## Low VLCC Utilisation From OPEC+
 
@@ -132,7 +132,7 @@ This week, in the East, we look at near record-lows in VLCC utilisation from the
 ![Unsplash Image Kj718nfsvpy](assets/2024-07-19_weekly-insights-review_img_unsplash-image-kj718nfsvpy_c3815f6b7227.jpg)
 
 > **Figure 10: Unsplash Image Kj718nfsvpy**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/18/mixed-session-for-commodities) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-19_weekly-insights-review_img_unsplash-image-kj718nfsvpy_c3815f6b7227.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/18/mixed-session-for-commodities) | [Local Asset](assets/2024-07-19_weekly-insights-review_img_unsplash-image-kj718nfsvpy_c3815f6b7227.jpg)
 
 ## Mixed Session for Commodities
 
@@ -143,7 +143,7 @@ Headwinds for the capesizes weighed on the Baltic Dry Index the day before yeste
 ![Unsplash Image Sfndrzn3ecy](assets/2024-07-19_weekly-insights-review_img_unsplash-image-sfndrzn3ecy_a5f0ba227f4e.jpg)
 
 > **Figure 11: Unsplash Image Sfndrzn3ecy**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/ack-sea-grain-deal-2023-06-16-/2qd9tx/424453770/h/SxogwAUFzPHOSlglpbTUxe5tUH4pv7EsojFAS0t1yFw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-19_weekly-insights-review_img_unsplash-image-sfndrzn3ecy_a5f0ba227f4e.jpg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/ack-sea-grain-deal-2023-06-16-/2qd9tx/424453770/h/SxogwAUFzPHOSlglpbTUxe5tUH4pv7EsojFAS0t1yFw) | [Local Asset](assets/2024-07-19_weekly-insights-review_img_unsplash-image-sfndrzn3ecy_a5f0ba227f4e.jpg)
 
 ## Ukrainian Grain Shipments to All Destinations
 
@@ -156,7 +156,7 @@ This week's chart illustrates the increase in the monthly volume of Ukrainian gr
 ![Unsplash Image Hy97yy3e03a](assets/2024-07-19_weekly-insights-review_img_unsplash-image-hy97yy3e03a_1244e38dd720.jpg)
 
 > **Figure 12: Unsplash Image Hy97yy3e03a**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/19/downward-trajectory-for-crude-oil-freight-rates) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-19_weekly-insights-review_img_unsplash-image-hy97yy3e03a_1244e38dd720.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/19/downward-trajectory-for-crude-oil-freight-rates) | [Local Asset](assets/2024-07-19_weekly-insights-review_img_unsplash-image-hy97yy3e03a_1244e38dd720.jpg)
 
 ## Downward Trajectory for Crude Oil Freight Rates
 
@@ -167,7 +167,7 @@ In the third week of July, crude oil freight rates continued their downward traj
 ![Unsplash Image Trwu Mgg1sq](assets/2024-07-19_weekly-insights-review_img_unsplash-image-trwu-mgg1sq_bb4caca1c1eb.jpg)
 
 > **Figure 13: Unsplash Image Trwu Mgg1sq**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/19/lf04956k9n3w6ziswdi7ub4cod7eo1) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-19_weekly-insights-review_img_unsplash-image-trwu-mgg1sq_bb4caca1c1eb.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/19/lf04956k9n3w6ziswdi7ub4cod7eo1) | [Local Asset](assets/2024-07-19_weekly-insights-review_img_unsplash-image-trwu-mgg1sq_bb4caca1c1eb.jpg)
 
 ## Grain Contraction Just One of Several Potential Concerning Headwinds
 

@@ -27,7 +27,7 @@ Investor sentiment remained buoyed by the prospect of easing US monetary policy.
 ![Στιγμιότυπο Οθόνης 2024 05 17 112143](assets/2024-05-17_oil-gains-as-market-contemplates-opecs-next-move_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f0099258f31e.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 17 112143**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-17_oil-gains-as-market-contemplates-opecs-next-move_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f0099258f31e.png)
+> [Local Asset](assets/2024-05-17_oil-gains-as-market-contemplates-opecs-next-move_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f0099258f31e.png)
 
 ### Market Commentary
 
@@ -44,7 +44,7 @@ Investor sentiment remained buoyed by the prospect of easing US monetary policy.
 ![Στιγμιότυπο Οθόνης 2024 05 17 112205](assets/2024-05-17_oil-gains-as-market-contemplates-opecs-next-move_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_70e414ef988b.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 05 17 112205**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-17_oil-gains-as-market-contemplates-opecs-next-move_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_70e414ef988b.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-05-17_oil-gains-as-market-contemplates-opecs-next-move_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_70e414ef988b.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

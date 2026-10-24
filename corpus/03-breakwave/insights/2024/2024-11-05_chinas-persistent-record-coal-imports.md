@@ -23,21 +23,21 @@ source_file: "corpus/03-breakwave/insights/2024/2024-11-05_chinas-persistent-rec
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2024-11-05_chinas-persistent-record-coal-imports_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-05_chinas-persistent-record-coal-imports_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](assets/2024-11-05_chinas-persistent-record-coal-imports_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 According to data from the General Administration of Customs, Chinese coal imports climbed to new heights again in September, reaching 47.6 mln mt, a y-o-y increase of 12.9%. This surpasses the record 47.3 mln mt set in December 2023. With the release of September's figures, it now appears certain that Chinese annual coal imports will exceed 500 mln mt for the first time. To reach this figure, China only needs to maintain an average monthly import volume of 37.0 mln mt in 4Q24, well below the average monthly import volume of 43.2 mln mt for the first nine months of the year. Achieving this historical milestone is expected to be manageable.
 
 ![Στιγμιότυπο Οθόνης 2024 11 05 121735](assets/2024-11-05_chinas-persistent-record-coal-imports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5864cd4753cc.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 11 05 121735**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-05_chinas-persistent-record-coal-imports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5864cd4753cc.png)
+> [Local Asset](assets/2024-11-05_chinas-persistent-record-coal-imports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5864cd4753cc.png)
 
 Representing 78.2% (or 37.2 mln mt) of the September coal import, thermal coal is clearly the main driver behind the import surge and we will analyse the major downstream sectors: thermal power generation (representing 60.5% of the total thermal coal consumption) and the non-electric sector (construction 24.0%, coal chemistry 8.2%), to better understand the drivers of the record imports as well as shed light on the future of China's coal market and import demand.
 
 ![Στιγμιότυπο Οθόνης 2024 11 05 121755](assets/2024-11-05_chinas-persistent-record-coal-imports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e6d1ecbb3649.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 11 05 121755**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-05_chinas-persistent-record-coal-imports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e6d1ecbb3649.png)
+> [Local Asset](assets/2024-11-05_chinas-persistent-record-coal-imports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e6d1ecbb3649.png)
 
 ### Power Generation Market
 
@@ -46,7 +46,7 @@ In September, China’s total electricity consumption reached 847.5 bln kWh, up 
 ![Στιγμιότυπο Οθόνης 2024 11 05 121810](assets/2024-11-05_chinas-persistent-record-coal-imports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_26a7f40228db.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 11 05 121810**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-05_chinas-persistent-record-coal-imports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_26a7f40228db.png)
+> [Local Asset](assets/2024-11-05_chinas-persistent-record-coal-imports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_26a7f40228db.png)
 
 With the recent drop in temperatures, the need for stockpiling eclipsed the appetite for coal import demand. Coal inventories at the Six Major Power Groups increased by 13.0%, from a September low of 13.19 mln mt to 14.90 mln mt on Oct 24. This was the highest for this time of year since 2020.
 
@@ -71,7 +71,7 @@ To a certain extent, China’s substantial coal imports have mitigated the loss 
 ![Στιγμιότυπο Οθόνης 2024 11 05 121826](assets/2024-11-05_chinas-persistent-record-coal-imports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_68bccc17f32a.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 11 05 121826**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-05_chinas-persistent-record-coal-imports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_68bccc17f32a.png)
+> [Local Asset](assets/2024-11-05_chinas-persistent-record-coal-imports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_68bccc17f32a.png)
 
 ---
 

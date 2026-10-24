@@ -50,7 +50,7 @@ We see a minor decrease of less than 1% in oil flows from March to April. Overal
 
 > **Figure 1: Image 1| Data Source: The Signal Ocean Platform, Oil Flows, Clean/dirty, Excl**  
 > *Image 1| Data Source: The Signal Ocean Platform, Oil Flows, Clean/dirty, excl. Chemical, Daily Cargo Volume Split by Product, 2020-2022*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russias-seaborne-oil-flows-changing-patterns) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e500b93d843e74a8cd8_628f58893aa8dde47bc16138_image%201%20(2).avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russias-seaborne-oil-flows-changing-patterns) | [Local Asset](../../images/66b51e500b93d843e74a8cd8_628f58893aa8dde47bc16138_image%201%20(2).avif)
 
 In the top products, we see Crude Oil snapping 60% share of the flows, Gasoil 10%, Gasoline 9%, Fuel Oil 7%, Diesel 5%,  Naphtha 4%, and Jet 1.4%. In the crude segment, VLCC size and Aframax holds a 24% share each compared to 15% by Suezmax size. (Image 2)
 
@@ -59,7 +59,7 @@ In the top products, we see Crude Oil snapping 60% share of the flows, Gasoil 10
 
 > **Figure 2: Image 2| Data Source: The Signal Ocean Platform, Oil Flows, Clean/dirty, Excl**  
 > *Image 2| Data Source: The Signal Ocean Platform, Oil Flows, Clean/dirty, excl. Chemical, Split by Product, and Tanker Vessel Class (* other types of product with 0% percentage are not included in the graph of “Top Products’’)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russias-seaborne-oil-flows-changing-patterns) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e510b93d843e74a8d5e_628f59059402923d0777eca6_image%202%20(2).avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russias-seaborne-oil-flows-changing-patterns) | [Local Asset](../../images/66b51e510b93d843e74a8d5e_628f59059402923d0777eca6_image%202%20(2).avif)
 
 In the top origin countries, we can view Saudi Arabia ranking in the first position with 10%, the United States in the second position with 9%, and Russian Federation in the third ranking with 8% share. In the top destination countries, China is ranking above the United States with a 16% share versus 9% of the United States and India follows with a 7% share. (Image 3)
 
@@ -68,7 +68,7 @@ In the top origin countries, we can view Saudi Arabia ranking in the first posit
 
 > **Figure 3: Image 3 | Data Source: The Signal Ocean Platform, Oil Flows, Top Origin / Top Destination Countries**  
 > *Image 3 | Data Source: The Signal Ocean Platform, Oil Flows, Top Origin / Top Destination Countries*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russias-seaborne-oil-flows-changing-patterns) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e500b93d843e74a8cdc_628f5929e1a3035a8edb3a07_image%203.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russias-seaborne-oil-flows-changing-patterns) | [Local Asset](../../images/66b51e500b93d843e74a8cdc_628f5929e1a3035a8edb3a07_image%203.avif)
 
 
 ## Oil Flows to the U.s. Destination Country | Their Dependence on Russian Supply
@@ -80,7 +80,7 @@ After the official announcement of the U.S. ban on Russian oil imports, the dail
 
 > **Figure 4: Image 4 | Data Source: The Signal Ocean Platform, Oil Flows, Excl**  
 > *Image 4 | Data Source: The Signal Ocean Platform, Oil Flows, excl. Chemical, Russia to the U.S., 2020-2022*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russias-seaborne-oil-flows-changing-patterns) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e500b93d843e74a8cf1_628f596a5c25a7634513ea26_image%204.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russias-seaborne-oil-flows-changing-patterns) | [Local Asset](../../images/66b51e500b93d843e74a8cf1_628f596a5c25a7634513ea26_image%204.avif)
 
 
 #### What Are the Countries the US Relies Primarily on Crude Oil Imports?
@@ -92,7 +92,7 @@ We can view, as we mentioned earlier, (Image 5), Mexico (15% share), Saudi Arabi
 
 > **Figure 5: Image 5 | Data Source: The Signal Ocean Platform, Crude Flows to U.s., Top Origin Countries / Tanker Vessel Class Categories**  
 > *Image 5 | Data Source: The Signal Ocean Platform, Crude Flows to U.S., Top Origin Countries / Tanker Vessel Class Categories*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russias-seaborne-oil-flows-changing-patterns) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e510b93d843e74a8d5b_628f59a8ca54be75bc8be2a3_image%205.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russias-seaborne-oil-flows-changing-patterns) | [Local Asset](../../images/66b51e510b93d843e74a8d5b_628f59a8ca54be75bc8be2a3_image%205.avif)
 
 The worldwide scene is wondering whether the U.S. could replace imports with their domestic production. There is an unconfirmed belief that the U.S. could replace Russian oil by increasing domestic production — though some cautioned there might be [a lag](https://www.washingtonpost.com/business/2022/03/08/russia-oil-imports-ban/). In the meantime, the U.S. has launched efforts to ease curbs, which falls under sanctions with Iran, and Venezuela to boost oil supply.
 
@@ -106,7 +106,7 @@ Overall oil flows to European destinations are steadily increasing following the
 
 > **Figure 6: Image 6 | Data Source: The Signal Ocean Platform, Oil Flows, Excl**  
 > *Image 6 | Data Source: The Signal Ocean Platform, Oil Flows, excl. Chemical, All Origin Countries to Europe., 2020-2022*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russias-seaborne-oil-flows-changing-patterns) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e500b93d843e74a8cf4_628f59e63417e11a1bcd9225_image%206.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russias-seaborne-oil-flows-changing-patterns) | [Local Asset](../../images/66b51e500b93d843e74a8cf4_628f59e63417e11a1bcd9225_image%206.avif)
 
 In Image 7, we see crude oil in the top ranking with a 61% share and Aframax size with the largest share in the oil flows to Europe (39%) versus 20% of Suezmax size.
 
@@ -115,7 +115,7 @@ In Image 7, we see crude oil in the top ranking with a 61% share and Aframax siz
 
 > **Figure 7: Image 7 | Data Source: The Signal Ocean Platform, Oil Flows to Europe, Clean/dirty Excl**  
 > *Image 7 | Data Source: The Signal Ocean Platform, Oil Flows to Europe, Clean/Dirty excl. Chemical, Split per Top Products / Vessel Class Categories*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russias-seaborne-oil-flows-changing-patterns) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e500b93d843e74a8cec_628f5a1982fe4e3018000ec8_image%207.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russias-seaborne-oil-flows-changing-patterns) | [Local Asset](../../images/66b51e500b93d843e74a8cec_628f5a1982fe4e3018000ec8_image%207.avif)
 
 In image 8, we can view the top destination European countries with the most significant shares of the crude flows to Europe. In the top-origin countries, Russia is first for crude flows to Europe with a 28% share against 9% of Norway. The top destinations appear the Netherlands, Italy, Spain, France, and Greece, while Germany is weighing its alternatives to end its dependence on Russian oil over the next six months
 
@@ -124,7 +124,7 @@ In image 8, we can view the top destination European countries with the most sig
 
 > **Figure 8: Image 8 | Data Source: The Signal Ocean Platform, Crude Flows to Europe, Top Origin / Destination Countries**  
 > *Image 8 | Data Source: The Signal Ocean Platform, Crude Flows to Europe, Top Origin / Destination Countries*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russias-seaborne-oil-flows-changing-patterns) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e500b93d843e74a8ce0_628f5a3626f0259b1395fdea_image%208.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russias-seaborne-oil-flows-changing-patterns) | [Local Asset](../../images/66b51e500b93d843e74a8ce0_628f5a3626f0259b1395fdea_image%208.avif)
 
 Germany has already stated that it will end Russian oil imports by the end of the year, whether or not the EU agrees to a total trade embargo. The government in Berlin is already negotiating with alternative oil suppliers, Bloomberg [reported](https://www.bnnbloomberg.ca/germany-to-stop-russian-oil-imports-regardless-of-eu-sanctions-1.1766391), citing officials who declined to be named, and it is confident that the next six to seven months will be enough to solve the logistical problems surrounding such a complete switch of suppliers.
 
@@ -138,7 +138,7 @@ The latest announcement of Europe for the full force Russian oil embargo brought
 
 > **Figure 9: Image 9| Data Source: The Signal Ocean Platform, Oil Flows, Excl**  
 > *Image 9| Data Source: The Signal Ocean Platform, Oil Flows, excl. Chemical, Norway to Europe, 2020-2022*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russias-seaborne-oil-flows-changing-patterns) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e500b93d843e74a8ce9_628f5aab48ea6a05f306b7fb_image%209.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russias-seaborne-oil-flows-changing-patterns) | [Local Asset](../../images/66b51e500b93d843e74a8ce9_628f5aab48ea6a05f306b7fb_image%209.avif)
 
 The question comes to the Netherlands as the wider Rotterdam region is home to a number of oil refineries and chemical facilities with a heavy reliance on Russian oil. Other important large import countries to replace the gap can be Norway, the United States, and Nigeria, but they will need double the quantities to fill in the gap in Russian oil supplies, whereas another option could be to look at importing oil from the Arabian Gulf region. In Image 11, we can view a sudden increase in the volume of daily cargo oil flows from Nigeria to the Netherlands during March, while in April there was a return to levels seen during the last month of the[year 2021.](https://www.thesignalgroup.com/newsroom/a-tale-of-two-cities-2021-dry-and-tanker-market-analysis)
 
@@ -147,7 +147,7 @@ The question comes to the Netherlands as the wider Rotterdam region is home to a
 
 > **Figure 10: Image 10| Data Source: The Signal Ocean Platform, Oil Flows, Excl**  
 > *Image 10| Data Source: The Signal Ocean Platform, Oil Flows, excl. Chemical, Nigeria to the Netherlands, 2020-2022*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russias-seaborne-oil-flows-changing-patterns) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e500b93d843e74a8ce6_628f5ad180c7beaa51846204_image%2010.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russias-seaborne-oil-flows-changing-patterns) | [Local Asset](../../images/66b51e500b93d843e74a8ce6_628f5ad180c7beaa51846204_image%2010.avif)
 
 
 ## Asia: Other Potential Destination Countries for Russian Crude Oil Purchases
@@ -161,7 +161,7 @@ Overall, China, Korea, and India are emerging with the largest shares of Russian
 
 > **Figure 11: Image 11 | Data Source: The Signal Ocean Platform, Crude Flows From Russia to Asia, Top Destination Countries / Tanker Vessel Class Categories**  
 > *Image 11 | Data Source: The Signal Ocean Platform, Crude Flows from Russia to Asia, Top Destination Countries / Tanker Vessel Class Categories*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russias-seaborne-oil-flows-changing-patterns) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e500b93d843e74a8ce3_628f5b323aa8dd3de3c18351_image%2011.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russias-seaborne-oil-flows-changing-patterns) | [Local Asset](../../images/66b51e500b93d843e74a8ce3_628f5b323aa8dd3de3c18351_image%2011.avif)
 
 India, one of the largest Asian crude oil importing countries, has decided to go for more cheap Russian oil imports in the next month, while the government has defended its decision to buy Russian oil and stated what it buys from Russia in a month is less than what Europe buys from Russia in an afternoon. The [South Asian nation](https://www.bloomberg.com/news/articles/2022-05-04/india-wants-russia-to-discount-its-oil-to-less-than-70-a-barrel) is said to be seeking deeper discounts to compensate for the risk of dealing with the OPEC+ producer by seeking Russian cargoes at less than $70 a barrel on a delivered basis.
 

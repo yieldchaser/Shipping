@@ -27,7 +27,7 @@ With the new year fast approaching, it is encouraging — and not surprising —
 ![Chart](assets/2025-12-23_dry-bulk-market-on-solid-footing_img_chart_722af5e93ff0.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-23_dry-bulk-market-on-solid-footing_img_chart_722af5e93ff0.jpg)
+> [Local Asset](assets/2025-12-23_dry-bulk-market-on-solid-footing_img_chart_722af5e93ff0.jpg)
 
 ---
 

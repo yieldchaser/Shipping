@@ -29,7 +29,7 @@ A confirmation of such development also comes from Rio Tinto that today reported
 ![Img 2437](assets/2020-07-29_rio-tinto-repeats-the-obvious-that-the-iron-ore-market-thrives_img_img-2437_25b88b6df7fa.jpg)
 
 > **Figure 1: Img 2437**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-07-29_rio-tinto-repeats-the-obvious-that-the-iron-ore-market-thrives_img_img-2437_25b88b6df7fa.jpg)
+> [Local Asset](assets/2020-07-29_rio-tinto-repeats-the-obvious-that-the-iron-ore-market-thrives_img_img-2437_25b88b6df7fa.jpg)
 
 Vale is due to report second quarter results later today, and expectations are that once again they will point to their recently reiterated guidance of 310-300 million tons of iron ore production for the year.
 

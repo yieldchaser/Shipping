@@ -55,7 +55,7 @@ No wonder that US automaker stocks fell significantly after the President’s de
 ![Market Chart 1](assets/2025-04-01_liberation-day-inflation-now-but-gone-tomorrow_img_image001_bc0455b39f05.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-01_liberation-day-inflation-now-but-gone-tomorrow_img_image001_bc0455b39f05.png)
+> [Local Asset](assets/2025-04-01_liberation-day-inflation-now-but-gone-tomorrow_img_image001_bc0455b39f05.png)
 
 But, as US Treasury Secretary Scott Bessent told us “cheap goods is not the American dream”, laying the ground for an inflation surge in the next few months. The President also warned about “short-term pain”. Both have said that equity returns are not a priority.
 
@@ -68,7 +68,7 @@ We should not expect the Fed to keep lowering interest rates even if inflation p
 ![Market Chart 2](assets/2025-04-01_liberation-day-inflation-now-but-gone-tomorrow_img_image006_1adfeeae96c9.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-01_liberation-day-inflation-now-but-gone-tomorrow_img_image006_1adfeeae96c9.jpg)
+> [Local Asset](assets/2025-04-01_liberation-day-inflation-now-but-gone-tomorrow_img_image006_1adfeeae96c9.jpg)
 
 Expect, thus, big losers and big winners from tariffs, as well as inflation. In the next few months, it will be the ratio of winners vs losers + inflation that might very well dictate policy. That much is very likely.
 
@@ -83,14 +83,14 @@ Presently the market is pricing in nearly 3x cuts in the US (against the Fed’s
 ![Market Chart 3](assets/2025-04-01_liberation-day-inflation-now-but-gone-tomorrow_img_image004_26933c27dc7f.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-01_liberation-day-inflation-now-but-gone-tomorrow_img_image004_26933c27dc7f.png)
+> [Local Asset](assets/2025-04-01_liberation-day-inflation-now-but-gone-tomorrow_img_image004_26933c27dc7f.png)
 
 What is the bigger picture? One of short-term US inflation, with a question mark as to whether it will become a longer-term affair, slower growth, especially in Europe, uncertain economic outcomes and macroeconomic volatility. It is no wonder that bond markets remain edgy, even after gains in the first part of the year.
 
 ![Market Chart 4](assets/2025-04-01_liberation-day-inflation-now-but-gone-tomorrow_img_image005_24d40924d87d.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-01_liberation-day-inflation-now-but-gone-tomorrow_img_image005_24d40924d87d.png)
+> [Local Asset](assets/2025-04-01_liberation-day-inflation-now-but-gone-tomorrow_img_image005_24d40924d87d.png)
 
 **Over the short and medium term, markets may perform better than the economy, as sluggish growth could lower the cost of capital and improve returns. However, over the longer term, growth (or recessions) could very likely weigh on earnings enough to cause more frequent corrections. Meanwhile, in the real economy, slower growth and economic pain could spread.**
 

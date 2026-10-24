@@ -28,13 +28,13 @@ Chinese iron ore port stockpiles ended last week at 140.3 million tons, which is
 ![Chart 1 (50)](assets/2022-09-22_more-improvement-in-china_img_chart1285029_f839ddc01800.jpg)
 
 > **Figure 1: Chart 1 (50)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-22_more-improvement-in-china_img_chart1285029_f839ddc01800.jpg)
+> [Local Asset](assets/2022-09-22_more-improvement-in-china_img_chart1285029_f839ddc01800.jpg)
 
 Daily crude steel production at large and medium-sized mills in China most recently averaged 2.10 million tons during September 1- 10. This has marked a rise of 3% from late August, is up by 11% from the low seen in late July, and is up year-on-year by 3%. The last time that daily crude steel production at large and medium-sized mills was up on a year-on-year basis was very briefly in late May.
 
 ![Chart 2 (43)](assets/2022-09-22_more-improvement-in-china_img_chart2284329_c124bd47b983.jpg)
 
 > **Figure 2: Chart 2 (43)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-22_more-improvement-in-china_img_chart2284329_c124bd47b983.jpg)
+> [Local Asset](assets/2022-09-22_more-improvement-in-china_img_chart2284329_c124bd47b983.jpg)
 
 Overall, we remain of our view that it is becoming easier to be more bullish for the Chinese steel/iron ore complex and for the Chinese economy in general. China’s steel output has now risen to the highest level since late June and is also now finally experiencing year-on-year growth. Much of the global economy outside of China continues to contend with significant weakness — but several pockets of the Chinese economy are continuing to improve.

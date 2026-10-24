@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-11-12_transformation-of-chi
 ![Rgb Color Brs Shipbrokers Monogram L](assets/2025-11-12_transformation-of-chinas-iron-ore-arrivals_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram L**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-12_transformation-of-chinas-iron-ore-arrivals_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](assets/2025-11-12_transformation-of-chinas-iron-ore-arrivals_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 On 27 October, the 324,972 Dwt bulk carrier SM GEMINI1 on completing a voyage from Brazil, berthed at the second Dongjiakou Port iron ore terminal, Qingdao, thereby marking the commissioning this 400,000-ton ore terminal, which began construction in December 2022. Dongjiakou thus became the second port, after Zhoushan, to have a dual 400,000-ton ore terminal configuration, and the first in northern China.
 
@@ -36,14 +36,14 @@ According to AXSMarine data, China imported 923 mln mt of iron ore via sea in th
 ![Στιγμιότυπο Οθόνης 2025 11 12 133531](assets/2025-11-12_transformation-of-chinas-iron-ore-arrivals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_419e20fa5f11.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 11 12 133531**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-12_transformation-of-chinas-iron-ore-arrivals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_419e20fa5f11.png)
+> [Local Asset](assets/2025-11-12_transformation-of-chinas-iron-ore-arrivals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_419e20fa5f11.png)
 
 The shift is closely tied to China’s ongoing efforts to enhance self-sufficiency and optimize logistics under national schemes such as the “Cornerstone” program, which encourages greater utilization of domestic iron ore. Dalian, once an important gateway for Ansteel to secure overseas iron ore resources, is now facing a decline in imports as the company’s local ore exploration and mining activities progress smoothly. Meanwhile, Zhanjiang and Fangcheng ranked among the top in terms of annual growth, with throughput rising by 12% and 23%, respectively, across the first three quarters. This reflects the broader trend of Chinese steel mills expanding their presence in the southern regions of Guangxi and Guangdong.
 
 ![Στιγμιότυπο Οθόνης 2025 11 12 133540](assets/2025-11-12_transformation-of-chinas-iron-ore-arrivals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1d4ebf329090.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 11 12 133540**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-12_transformation-of-chinas-iron-ore-arrivals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1d4ebf329090.png)
+> [Local Asset](assets/2025-11-12_transformation-of-chinas-iron-ore-arrivals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1d4ebf329090.png)
 
 In this context, Dongjiakou’s newly commissioned 400,000-Dwt terminal marks a critical milestone and enhance the competitiveness of iron ore imports in North China, potentially slowing the ongoing southward shift of import ports.
 
@@ -54,7 +54,7 @@ Now, with more 400,000-Dwt terminals coming online in China, this solution may n
 ![Στιγμιότυπο Οθόνης 2025 11 12 133549](assets/2025-11-12_transformation-of-chinas-iron-ore-arrivals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8f5d94ef2e23.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 11 12 133549**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-12_transformation-of-chinas-iron-ore-arrivals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8f5d94ef2e23.png)
+> [Local Asset](assets/2025-11-12_transformation-of-chinas-iron-ore-arrivals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8f5d94ef2e23.png)
 
 In short, China’s iron ore import story is no longer just about volume, the forward narrative is all about optimizing distribution and efficiency. The completion of port infrastructure projects will undoubtedly further enhance the competitiveness of imported iron ore and expand its reach within the Chinese market, thereby supporting stronger import capability. However, as more large vessels such as Valemaxes are now able to call directly at Chinese ports, the need for transshipment shall diminish, which in turn weighs on the smaller Capesize segment. With the development of ultra-large terminals and China’s ongoing efforts to strengthen domestic mines and its overseas equity mines under its resource security policy, shifts in seaborne trade patterns are expected and warrant close attention.
 

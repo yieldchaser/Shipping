@@ -31,7 +31,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-oversupply-ahead-early-signs-signal-weaker-u-s-crude-oil-flows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/691dcef59c2e449b1aa9b04b_266c4e36.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-oversupply-ahead-early-signs-signal-weaker-u-s-crude-oil-flows) | [Local Asset](../../images/691dcef59c2e449b1aa9b04b_266c4e36.png)
 
 
 - Flows climbed to 129.8 M barrels in October 2025, the strongest monthly level of the year and the culmination of steady growth from August through October. However, early November Voyage Details show a steep pullback, with estimated flows currently approx. 110 M barrels for the end of the current month.

@@ -46,4 +46,4 @@ The following table is a listing of IEA estimates for crude oil consumption in k
 
 ![Exhibit 1: Exactly What Is In Store for Us?](../../../charts/poten/2004/poten_2004-12-30_exactly-what-is-in-store-for-us_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2004/poten_2004-12-30_exactly-what-is-in-store-for-us_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../../extracted/charts/poten/2004/poten_2004-12-30_exactly-what-is-in-store-for-us_chart1.png)

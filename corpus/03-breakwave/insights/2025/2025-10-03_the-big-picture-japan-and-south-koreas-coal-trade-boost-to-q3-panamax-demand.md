@@ -28,7 +28,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-10-03_the-big-picture-japan
 
 > **Figure 1: In Itscoal Mid-Year Update**  
 > *In itsCoal Mid-Year Update, the International Energy Agency (IEA) notedSouth Korean coal consumption was down 17%during the 1H 2025.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-03_the-big-picture-japan-and-south-koreas-coal-trade-boost-to-q3-panamax-demand_img_5b8d-image-0-1759420638007_f8535819454b.png)
+> [Local Asset](assets/2025-10-03_the-big-picture-japan-and-south-koreas-coal-trade-boost-to-q3-panamax-demand_img_5b8d-image-0-1759420638007_f8535819454b.png)
 
 ### Subdued Activity Prior to the Q3 Thermal Coal Import Jump
 
@@ -59,7 +59,7 @@ Last year, inefficient coal-fired power plants (efficiency below 40%) accounted 
 ![5ee2 Image 1 1759420657450](assets/2025-10-03_the-big-picture-japan-and-south-koreas-coal-trade-boost-to-q3-panamax-demand_img_5ee2-image-1-1759420657450_8a16ef373220.png)
 
 > **Figure 2: 5ee2 Image 1 1759420657450**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-03_the-big-picture-japan-and-south-koreas-coal-trade-boost-to-q3-panamax-demand_img_5ee2-image-1-1759420657450_8a16ef373220.png)
+> [Local Asset](assets/2025-10-03_the-big-picture-japan-and-south-koreas-coal-trade-boost-to-q3-panamax-demand_img_5ee2-image-1-1759420657450_8a16ef373220.png)
 
 With the exception of nuclear power, which is expanding, many of the overall trends evident in Japan’s power sector can be applied to**South Korea**.
 

@@ -23,21 +23,21 @@ source_file: "corpus/03-breakwave/insights/2025/2025-01-16_the-cape-trifecta-par
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2025-01-16_the-cape-trifecta-part-ii-chinese-coal-appetite_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-16_the-cape-trifecta-part-ii-chinese-coal-appetite_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](assets/2025-01-16_the-cape-trifecta-part-ii-chinese-coal-appetite_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 ### Chinese Coal Appetite
 
 ![Στιγμιότυπο Οθόνης 2025 01 16 171930](assets/2025-01-16_the-cape-trifecta-part-ii-chinese-coal-appetite_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b426433d350.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 01 16 171930**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-16_the-cape-trifecta-part-ii-chinese-coal-appetite_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b426433d350.png)
+> [Local Asset](assets/2025-01-16_the-cape-trifecta-part-ii-chinese-coal-appetite_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b426433d350.png)
 
 Last year, China’s coal imports (both seaborne and inland) surged, continuing 2023’s momentum. In 2024, Chinese customs data recorded a total coal import of an impressive 543 million tons, marking robust year-on-year growth of 14.4%. As imports surpassed an unprecedented 500 million tons, thereby setting a historic record, it appears that this was driven by higher seaborne imports. Indeed, AXSMarine data suggests that seaborne volumes reached 431 million tonnes. This accounts for 31% of all coal carried by sea globally.
 
 ![Στιγμιότυπο Οθόνης 2025 01 16 172423](assets/2025-01-16_the-cape-trifecta-part-ii-chinese-coal-appetite_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_31c7b088b6ca.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 01 16 172423**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-16_the-cape-trifecta-part-ii-chinese-coal-appetite_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_31c7b088b6ca.png)
+> [Local Asset](assets/2025-01-16_the-cape-trifecta-part-ii-chinese-coal-appetite_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_31c7b088b6ca.png)
 
 In addition, it is noteworthy that global coal seaborne shipments only increased by 1.8% year-on-year, significantly lower than the +12.1% in Chinese imports. Indeed, anemic global growth reflected the relatively lackluster imports into prominent markets such as India, Japan, South Korea and Taiwan. Although China’s economy faced considerable headwinds in 2025, it appears dry shipping had no other reliable coal importer able to buck the global slowing trend of coal appetite. This makes it even more imperative to understand the drivers behind China’s appetite for seaborne coal.
 
@@ -46,7 +46,7 @@ In addition, it is noteworthy that global coal seaborne shipments only increased
 ![Στιγμιότυπο Οθόνης 2025 01 16 172018](assets/2025-01-16_the-cape-trifecta-part-ii-chinese-coal-appetite_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_35c68af49089.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 01 16 172018**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-16_the-cape-trifecta-part-ii-chinese-coal-appetite_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_35c68af49089.png)
+> [Local Asset](assets/2025-01-16_the-cape-trifecta-part-ii-chinese-coal-appetite_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_35c68af49089.png)
 
 According to AXSMarine data, Chinese seaborne coal imports rebounded steadily over the past two years from 2022’s low. The resurgence of Capesize (160-220,000 Dwt) coal shipments was particularly noteworthy. Following the lifting of Australia’s coal import ban in January 2023, Capesize volumes surged by 386%, climbing from a low of 12.2 million tons in 2022 to a remarkable 59.3 million tons in 2024. Panamax (68-85,000 Dwt) shipments also hit new highs, soaring 60% from 2022’s level to a massive 255.8 million tons.
 
@@ -55,7 +55,7 @@ The breakdown of imports by vessel type tells an intriguing story. Panamax ships
 ![Στιγμιότυπο Οθόνης 2025 01 16 172032](assets/2025-01-16_the-cape-trifecta-part-ii-chinese-coal-appetite_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_70c909e6e138.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 01 16 172032**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-16_the-cape-trifecta-part-ii-chinese-coal-appetite_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_70c909e6e138.png)
+> [Local Asset](assets/2025-01-16_the-cape-trifecta-part-ii-chinese-coal-appetite_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_70c909e6e138.png)
 
 From 2021 to date, China’s list of overseas Capesize coal suppliers had been on a ‘merry-go-round’ motion, with no definite pattern. This signals the volatile geopolitical environment that shipping had to contend with, and for the foreseeable future.
 
@@ -70,7 +70,7 @@ Russia: Russian coal imports via Capesizes declined significantly in 2024, dropp
 ![Στιγμιότυπο Οθόνης 2025 01 16 172046](assets/2025-01-16_the-cape-trifecta-part-ii-chinese-coal-appetite_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aa24c18ac74e.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 01 16 172046**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-16_the-cape-trifecta-part-ii-chinese-coal-appetite_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aa24c18ac74e.png)
+> [Local Asset](assets/2025-01-16_the-cape-trifecta-part-ii-chinese-coal-appetite_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aa24c18ac74e.png)
 
 From the chart, we can observe that prior to 2020, as the two main vessel types competing for coal cargoes in the Pacific market, Capesize and Panamax ships exhibited a relatively clear substitutive relationship. When the Capesize-to-Panamax freight rate premium (gold curve) expanded, shipowners often opted to transport coal using Panamax fleets. This was reflected in the chart by a noticeable decline in Capesize's share of coal cargo volumes in the Pacific market (blue curve).
 

@@ -63,7 +63,7 @@ Weekly cargo order volumes for coal discharging in India have been volatile over
 ![Στιγμιότυπο Οθόνης 2024 04 17 163323 Ξξ](assets/2024-04-17_the-current-week-has-shown-some-early-promise_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_333d13ecce08.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 04 17 163323 Ξξ**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-17_the-current-week-has-shown-some-early-promise_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_333d13ecce08.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-04-17_the-current-week-has-shown-some-early-promise_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_333d13ecce08.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

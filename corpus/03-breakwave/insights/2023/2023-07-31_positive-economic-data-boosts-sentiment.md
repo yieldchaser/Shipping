@@ -28,7 +28,7 @@ Sentiment was buoyed last week by better-than-expected economic data which impro
 
 > **Figure 1: Data Source:commodities Wrap**  
 > *Data source:Commodities Wrap*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-31_positive-economic-data-boosts-sentiment_img_screenshot2023-07-31114649_cfe5fea7e00d.png)
+> [Local Asset](assets/2023-07-31_positive-economic-data-boosts-sentiment_img_screenshot2023-07-31114649_cfe5fea7e00d.png)
 
 **Copper**led the**industrial metals**higher last week as Beijing ramped up efforts to support economic growth in China. Earlier in the week the market was buoyed by a statement from the Communist Party’s 24-member Politburo that called for actively expanding domestic demand and resolving debt risks. On Friday, Minister for Housing and Urban Development, Ni Hong, called for homebuyers who had paid off previous mortgages to be considered first-time buyers. Any support for the property sector will be seen as positive for demand for copper and iron ore. Even so, India is ready to step into the breach. Its demand for commodities is slated to grow rapidly. Our estimates suggest[India could cover roughly half of the shortfall in Chinese demand](../pdfs/2023-07-31_positive-economic-data-boosts-sentiment_can-india-pick-up-china-s-commodity-_10fbb6187bcc.pdf)over coming years. Supply woes in the copper market re-emerged. Codelco, the world’s largest producer, lowered its annual production guidance because of operational issues. This comes after Q2 2023 production fell 17% y/y.
 

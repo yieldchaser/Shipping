@@ -32,7 +32,7 @@ tags:
 ![667d965e7aee9955f364a7bf Tanker Chart](../../images/667d965e7aee9955f364a7bf_tanker chart.avif)
 
 > **Figure 1: 667d965e7aee9955f364a7bf Tanker Chart**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-26-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/667d965e7aee9955f364a7bf_tanker chart.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-26-2024) | [Local Asset](../../images/667d965e7aee9955f364a7bf_tanker chart.avif)
 
 As the summer season unfolds, a subdued sentiment grips the freight market, particularly evident in the VLCC MEG-China route. The number of vessels at Ras Tanura The final week of June saw a noticeable weakening in crude oil freight rates, particularly evident in the VLCC AG-China and Aframax cross-Mediterranean routes. In contrast, the MR clean segment showed a more stable trend, although growth in demand tonne days did not surpass previous weekly rates. Assessing the supply dynamics and the growth of dirty tonne days in the VLCC segment, upcoming days are expected to challenge freight rate evolution with downward pressure, exacerbated by ongoing geopolitical tensions and uncertainties surrounding Chinese crude oil imports, which [declined](https://www.reuters.com/business/energy/china-continues-lift-crude-oil-stockpiling-amid-weak-refinery-runs-russell-2024-06-17/) in the first five months of the year.
 

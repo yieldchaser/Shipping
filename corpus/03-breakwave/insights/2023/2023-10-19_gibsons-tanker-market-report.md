@@ -39,4 +39,4 @@ Nonetheless, with violence escalating, the concern that the war could spread bey
 
 > **Figure 1: Data Source:gibson Shipbrokers**  
 > *Data source:Gibson Shipbrokers*  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-19_gibsons-tanker-market-report_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_3415af93d47b.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk) | [Local Asset](assets/2023-10-19_gibsons-tanker-market-report_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_3415af93d47b.png)

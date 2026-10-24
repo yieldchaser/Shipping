@@ -29,7 +29,7 @@ tags:
 
 > **Figure 1: Signal Ocean Oil Flows**  
 > *Signal Ocean Oil Flows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/wti-returns-to-china) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68e39111bb933e1d4e0dbc23_ac1d90d4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/wti-returns-to-china) | [Local Asset](../../images/68e39111bb933e1d4e0dbc23_ac1d90d4.png)
 
 
 - U.S. Gulf loadings to China have shown renewed activity in October after a seven-month lull between February and September. **Preliminary** [**Signal Ocean**](https://www.thesignalgroup.com/signal-ocean/signal-ocean-platform) **estimates** suggest around seven VLCC-equivalent cargoes, roughly 13 million barrels, have been shipped from the U.S. Gulf to China so far this month.

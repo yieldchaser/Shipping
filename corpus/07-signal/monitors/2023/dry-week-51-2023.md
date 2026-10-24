@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform Data**  
 > *Data Source: The Signal Ocean Platform Data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-51-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/658358399f412aafb2985e95_CAPESIZE.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-51-2023) | [Local Asset](../../images/658358399f412aafb2985e95_CAPESIZE.png)
 
 In the third week of December, sentiment in the freight market for large vessel sizes has shown signs of weakening. However, optimism grows for a robust month-end, given the declining number of ballasters in the Panamax Continent Far East. Within the Capesize segment, there's been a notable increase in tonne days from Brazil to China, contrasting with the market price decline. Despite a rise in ballasters for Capesize vessels in SE Asia compared to recent lows, activity remains subdued, suggesting potential rate stabilisation through the month's end.
 

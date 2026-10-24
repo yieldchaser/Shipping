@@ -31,7 +31,7 @@ Movements in the paper markets have been even more extreme. Since the start of t
 ![Bmr 80](assets/2021-02-19_the-big-picture-panamax-rates_img_bmr80_597306c8959e.png)
 
 > **Figure 1: Bmr 80**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-19_the-big-picture-panamax-rates_img_bmr80_597306c8959e.png)
+> [Local Asset](assets/2021-02-19_the-big-picture-panamax-rates_img_bmr80_597306c8959e.png)
 
 ### Agribulk Boost
 
@@ -40,14 +40,14 @@ The driver of this rally, which has been gathering pace since November last year
 ![Bmr 81](assets/2021-02-19_the-big-picture-panamax-rates_img_bmr81_1ae3c6b9c475.png)
 
 > **Figure 2: Bmr 81**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-19_the-big-picture-panamax-rates_img_bmr81_1ae3c6b9c475.png)
+> [Local Asset](assets/2021-02-19_the-big-picture-panamax-rates_img_bmr81_1ae3c6b9c475.png)
 
 With pork prices rapidly rising in China, its grain crushers have shown unrelenting demand for US soybeans and corn. Prices of these goods have been propelled to their highest levels since 2014, and still, the profitability of processing them has reached record levels. Soybean crush margins in Dalian, for example, have recently hit an all-time high of 1,250 RMB/t. American exporters have also been able to capitalise on weather-related weakness in Black Sea grain crops, in addition to the seasonal dip in available cargoes from South America.
 
 ![2bmr 81](assets/2021-02-19_the-big-picture-panamax-rates_img_2bmr81_bc9377e871e0.png)
 
 > **Figure 3: 2bmr 81**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-19_the-big-picture-panamax-rates_img_2bmr81_bc9377e871e0.png)
+> [Local Asset](assets/2021-02-19_the-big-picture-panamax-rates_img_2bmr81_bc9377e871e0.png)
 
 ### Ballasters Travelling Further
 
@@ -56,7 +56,7 @@ Increased flows from the US to the Far East seem to have caught the Panamax mark
 ![32bmr 81](assets/2021-02-19_the-big-picture-panamax-rates_img_32bmr81_27f84c4d6605.png)
 
 > **Figure 4: 32bmr 81**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-19_the-big-picture-panamax-rates_img_32bmr81_27f84c4d6605.png)
+> [Local Asset](assets/2021-02-19_the-big-picture-panamax-rates_img_32bmr81_27f84c4d6605.png)
 
 And even within this cohort of Far East ballasters, ships are travelling further to get to the Gulf. Typically, more than 95% of these vessels would transit the Panama Canal, but so far in 2021 this figure has been around 83%, with the remainder taking the ~50% longer voyage around the Cape of Good Hope. This is likely due to heavier congestion around the Panama canal, which owners are keen to avoid in such a strong market. Greater numbers of ships taking this route has translated to another layer of inefficiency in the fleet.
 

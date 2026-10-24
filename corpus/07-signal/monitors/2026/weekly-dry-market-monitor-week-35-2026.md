@@ -35,7 +35,7 @@ tags:
 
 > **Figure 1: Russian Wheat Exports - Weekly Seasonality, 2019–2026 (Million Tonnes)**  
 > *Figure 1: Russian wheat exports - weekly seasonality, 2019–2026 (million tonnes). (Source: Signal Voyages).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a993e0ccb228466bb3b48d6_d81452f9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](../../images/6a993e0ccb228466bb3b48d6_d81452f9.png)
 
 Russian wheat loadings from the four deep-sea Black Sea terminals fell by around 60% during the five weeks to 28 August compared with the same period in 2025. (Figure 2 shows the underlying cargo volumes and voyage counts.) The reduction persisted throughout the period rather than reflecting a single disrupted week. Weekly volumes remained below the comparable 2025 range, with activity even lower during the second half of the window than at the beginning. Loadings were concentrated at Novorossiysk, as the port remained the principal outlet despite its own volume roughly halving. Vessel activity at Taman fell sharply, and no qualifying wheat loading was recorded at Kavkaz. Tuapse, the smallest of Russia’s deep-water grain terminals, remained in operation and was the only terminal to record an increase.
 
@@ -43,7 +43,7 @@ Russian wheat loadings from the four deep-sea Black Sea terminals fell by around
 ![Black Sea Disruption Redirects Russian Wheat Towards the Baltic](../../images/6a993e0ccb228466bb3b48d3_49ede632.png)
 
 > **Figure 2: Black Sea Disruption Redirects Russian Wheat Towards the Baltic**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a993e0ccb228466bb3b48d3_49ede632.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](../../images/6a993e0ccb228466bb3b48d3_49ede632.png)
 
 *Figure 2: Russian wheat loaded at Novorossiysk, Taman, Kavkaz and Tuapse over the matched load-date window 23 July–28 August, 2025 vs 2026. Upper panel measures cargo tonnage loaded, with the 2026 bar split between voyages that have completed and voyages still underway; lower-left panel counts vessel-voyages loaded, by class, with cargo carried to more than one discharge port counted as a single voyage; lower-right panel measures cargo tonnage loaded in each week of the window. Voyages are counted by load date, so both years carry equal coverage. The weekly panel covers the five full weeks to 26 August; the final two days of the window are included in all other figures (Source: Signal, Voyage Details).*
 
@@ -59,13 +59,13 @@ The decline extended across vessel-size categories, with the geared segments bea
 
 > **Figure 3: Baltic Dry Index - Spot Rate Summary Across Segments and BDI Performance as of 28 Aug 2026**  
 > *Figure 3: Baltic Dry Index - spot rate summary across segments and BDI performance as of 28 Aug 2026 (Source: Signal).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a993c893b3cbeb27ba7860e_Screenshot 2026-09-03 at 10.23.08.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](../../images/6a993c893b3cbeb27ba7860e_Screenshot 2026-09-03 at 10.23.08.png)
 
 
 ![Freight Market Overview | BDI & Segment Metrics](../../images/6a993e0ccb228466bb3b48d9_d972069c.png)
 
 > **Figure 4: Freight Market Overview | BDI & Segment Metrics**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a993e0ccb228466bb3b48d9_d972069c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](../../images/6a993e0ccb228466bb3b48d9_d972069c.png)
 
 The BDI rose to 3,186 (+79 day-on-day, +345 WoW) on a stronger week for the larger sizes. Capesize led the increase, with the BCI rising to 5,336 (+784 WoW) and average C5TC earnings climbing to $44,896/day (+$7,111 WoW). Panamax also strengthened, with the BPI rising to 2,315 (+212 WoW) and the P5TC average up to $20,834/day (+$1,906 WoW). The geared sizes were steady: Supramax was flat (BSI 1,647, +7 WoW) and Handysize unchanged on the day (BHSI 881, +7 WoW).
 
@@ -79,7 +79,7 @@ The BDI rose to 3,186 (+79 day-on-day, +345 WoW) on a stronger week for the larg
 
 > **Figure 4: Baltic Capesize Index (BCI) - Spot Rate Summary and BCI Performance**  
 > *Figure 4: Baltic Capesize Index (BCI) - spot rate summary and BCI performance (Source: Signal).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a993e0ccb228466bb3b48cd_16010236.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](../../images/6a993e0ccb228466bb3b48cd_16010236.png)
 
 **Ballasters vs the previous week.** The global Capesize ballaster count was unchanged at 612 (+0% WoW), but the mix shifted: open tonnage in Australasia fell 8% WoW to 209 and the South Atlantic fell 27% to 51, while FEAST/NOPAC rose 20% to 151, the North Atlantic rose 62% to 34 and the Indian Ocean/South Africa held at 167 (+1%).
 
@@ -88,7 +88,7 @@ The BDI rose to 3,186 (+79 day-on-day, +345 WoW) on a stronger week for the larg
 
 > **Figure 5: Capesize - Global Ballaster Fleet and Regional Positioning**  
 > *Figure 5: Capesize - Global ballaster fleet and regional positioning (Source: Signal).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a993e0ccb228466bb3b48dc_f153f88b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](../../images/6a993e0ccb228466bb3b48dc_f153f88b.png)
 
 **Supply/demand by route.** C3 (Tubarao–Qingdao) shows cumulative supply remaining below expected demand throughout the forward window, with the shortfall widening after day 30. On C5 (West Australia–Qingdao), supply initially exceeds expected demand before moving below it from around day 7. Total supply rises above demand again after day 13, but supply excluding laden vessels levels off at approximately 150 vessels and remains in deficit.
 
@@ -97,7 +97,7 @@ The BDI rose to 3,186 (+79 day-on-day, +345 WoW) on a stronger week for the larg
 
 > **Figure 6: Capesize - C3 & C5 Forward Balance: Cumulative Supply vs Expected Demand Over Days Forward**  
 > *Figure 6: Capesize - C3 & C5 forward balance: cumulative Supply vs Expected Demand over days forward (Source: Signal).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a993e0ccb228466bb3b48d0_bf8a5288.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](../../images/6a993e0ccb228466bb3b48d0_bf8a5288.png)
 
 **Demand-to-supply ratio.** C5TC rose 5.6% on the week to $43,024/day in the week ending 27 August, placing C5TC earnings in the 88th percentile of weekly observations over the past year. The demand index stood at 101.72 versus 98.25 for supply, both relative to year-ago levels. This lowered the demand-to-supply ratio to 1.04 from 1.12 in the previous week. The reading remains above 1.00, indicating that demand growth is running slightly ahead of supply growth, but Capesize is not reported as a settled change of side: whether a reading sits above or below the balance point can turn on revision alone, and the range these weekly values move on revision rests on a single vintage pair of six provisional observations.
 
@@ -106,7 +106,7 @@ The BDI rose to 3,186 (+79 day-on-day, +345 WoW) on a stronger week for the larg
 
 > **Figure 7: Capesize Demand/supply Ratio (LHS) and C5TC Spot Rate (RHS) - Weekly**  
 > *Figure 7: Capesize demand/supply ratio (LHS) and C5TC spot rate (RHS) - weekly (Source: Baltic Exchange; Signal - Trade Flows, Vessel Daily Status). Bars = demand/supply ratio (left axis); line = C5TC $/day (right axis). Above 1.00 = demand growing faster than available tonnage, below = slower. Four-week average year-on-year growth basis. Available tonnage is adjusted for vessels already committed to VLOC cargo. Latest 6 weeks provisional (shaded band).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a993e0ccb228466bb3b48e2_084abdbd.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](../../images/6a993e0ccb228466bb3b48e2_084abdbd.png)
 
 
 ## Panamax | Analysis
@@ -118,7 +118,7 @@ The BDI rose to 3,186 (+79 day-on-day, +345 WoW) on a stronger week for the larg
 
 > **Figure 8: Baltic Panamax Index (BPI) - Spot Rate Summary and BPI Performance**  
 > *Figure 8: Baltic Panamax Index (BPI) - spot rate summary and BPI performance (Source: Signal).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a993e0ccb228466bb3b48df_279222b9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](../../images/6a993e0ccb228466bb3b48df_279222b9.png)
 
 **Ballasters vs the previous week.** The global Panamax ballaster count rose 4% WoW to 811, with the build in the East: FEAST/NOPAC +13% WoW to 218 and the Indian Ocean/South Africa +8% to 225. The South Atlantic eased 23% to 75, while Australasia rose 6% to 182 and the North Atlantic held at 111 (−1%).
 
@@ -127,7 +127,7 @@ The BDI rose to 3,186 (+79 day-on-day, +345 WoW) on a stronger week for the larg
 
 > **Figure 9: Panamax - Global Ballaster Fleet and Regional Positioning**  
 > *Figure 9: Panamax - Global ballaster fleet and regional positioning (Source: Signal).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a993e0ccb228466bb3b48e5_2d994fb3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](../../images/6a993e0ccb228466bb3b48e5_2d994fb3.png)
 
 **Supply/demand by route.** P5 (Indonesia round) keeps cumulative supply well below expected demand across the window, with supply flattening below 60 vessels against expected demand above 100. P1/P2/P7 sits in supply surplus across the full 20 days, while P3 (transatlantic) carries a modest surplus that closes late in the window and P6 tracks close to balance.
 
@@ -136,7 +136,7 @@ The BDI rose to 3,186 (+79 day-on-day, +345 WoW) on a stronger week for the larg
 
 > **Figure 10: Panamax - P1/p2/p7, P3, P5 & P6: Cumulative Supply vs Expected Demand Over Days Forward**  
 > *Figure 10: Panamax - P1/P2/P7, P3, P5 & P6: cumulative Supply vs Expected Demand over days forward (Source: Signal).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a993e0ccb228466bb3b48e8_03985794.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](../../images/6a993e0ccb228466bb3b48e8_03985794.png)
 
 **Demand-to-supply ratio.** P5TC eased 0.6% on the week to $19,472/day, placing it in the 76th percentile of weekly observations over the past year. The demand index stood at 97.50 versus 104.19 for supply, both relative to year-ago levels. This lifted the demand-to-supply ratio to 0.94 from 0.89 in the previous week, bringing the market closer to balance, although demand continues to lag supply. The latest tonne-mile estimate is 73.3% complete, including adjustments for voyages still in progress.
 
@@ -145,7 +145,7 @@ The BDI rose to 3,186 (+79 day-on-day, +345 WoW) on a stronger week for the larg
 
 > **Figure 11: Panamax Demand/supply Ratio (LHS) and P5TC Spot Rate (RHS) - Weekly**  
 > *Figure 11: Panamax demand/supply ratio (LHS) and P5TC spot rate (RHS) - weekly (Source: Baltic Exchange; Signal - Trade Flows, Vessel Daily Status). Bars = demand/supply ratio (left axis); line = P5TC $/day (right axis). Above 1.00 = demand growing faster than available tonnage, below = slower. Four-week average year-on-year growth basis. Shaded band = the latest provisional weeks.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a993e0ccb228466bb3b48eb_1e91e3e3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](../../images/6a993e0ccb228466bb3b48eb_1e91e3e3.png)
 
 
 ## Supramax | Analysis
@@ -157,7 +157,7 @@ The BDI rose to 3,186 (+79 day-on-day, +345 WoW) on a stronger week for the larg
 
 > **Figure 12: Baltic Supramax Index (BSI) - Spot Rate Summary and BSI Performance**  
 > *Figure 12: Baltic Supramax Index (BSI) - spot rate summary and BSI performance (Source: Signal).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a993e0ccb228466bb3b48ee_a0384ad9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](../../images/6a993e0ccb228466bb3b48ee_a0384ad9.png)
 
 **Ballasters vs the previous week.** The global Supramax ballaster count rose 24% WoW to 723, the largest build of any segment, with increases across all regions: the Indian Ocean/South Africa +45% to 144, the South Atlantic +44% to 78, Australasia +28% to 182, the North Atlantic +16% to 118 and FEAST/NOPAC +7% to 201.
 
@@ -166,7 +166,7 @@ The BDI rose to 3,186 (+79 day-on-day, +345 WoW) on a stronger week for the larg
 
 > **Figure 13: Supramax - Global Ballaster Fleet and Regional Positioning**  
 > *Figure 13: Supramax - Global ballaster fleet and regional positioning (Source: Signal).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a993e0ccb228466bb3b48f1_8dd8177e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](../../images/6a993e0ccb228466bb3b48f1_8dd8177e.png)
 
 **Supply/demand by route.** S4A/S1C and S4B carry a clear cumulative supply surplus across the window, widest on S4B at about 105 vessels against expected demand near 55 at day 20. S8/S10 also sits in surplus, while S5 tracks close to balance for the first ten days before supply moves modestly ahead.
 
@@ -175,7 +175,7 @@ The BDI rose to 3,186 (+79 day-on-day, +345 WoW) on a stronger week for the larg
 
 > **Figure 14: Supramax - S4a/s1c, S4B, S5 & S8/s10: Cumulative Supply vs Expected Demand Over Days Forward**  
 > *Figure 14: Supramax - S4A/S1C, S4B, S5 & S8/S10: cumulative Supply vs Expected Demand over days forward (Source: Signal).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a993e0ccb228466bb3b48f4_46602a5d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](../../images/6a993e0ccb228466bb3b48f4_46602a5d.png)
 
 **Demand-to-supply ratio.** S11TC increased 0.8% on the week to $20,752/day, placing it in the 84th percentile of weekly observations over the past year. The demand index stood at 86.69 versus 98.68 for supply, both relative to year-ago levels. This lowered the demand-to-supply ratio to 0.88 from 0.91 in the previous week, showing that demand continues to lag supply despite firmer spot earnings. The latest tonne-mile estimate is 74.4% complete, including adjustments for voyages still maturing, and may be revised as the data settle.
 
@@ -184,7 +184,7 @@ The BDI rose to 3,186 (+79 day-on-day, +345 WoW) on a stronger week for the larg
 
 > **Figure 15: Supramax Demand/supply Ratio (LHS) and S11TC Spot Rate (RHS) - Weekly**  
 > *Figure 15: Supramax demand/supply ratio (LHS) and S11TC spot rate (RHS) - weekly (Source: Baltic Exchange; Signal - Trade Flows, Vessel Daily Status). Bars = demand/supply ratio (left axis); line = S11TC $/day (right axis). Above 1.00 = demand growing faster than available tonnage, below = slower. Four-week average year-on-year growth basis. Shaded band = the latest provisional weeks.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a993e0ccb228466bb3b48f7_67f367d8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](../../images/6a993e0ccb228466bb3b48f7_67f367d8.png)
 
 
 ## Handysize | Analysis
@@ -196,7 +196,7 @@ The BDI rose to 3,186 (+79 day-on-day, +345 WoW) on a stronger week for the larg
 
 > **Figure 16: Baltic Handysize Index (BHSI) - Spot Rate Summary and BHSI Performance**  
 > *Figure 16: Baltic Handysize Index (BHSI) - spot rate summary and BHSI performance (Source: Signal).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a993e0ccb228466bb3b48fa_52b7084a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](../../images/6a993e0ccb228466bb3b48fa_52b7084a.png)
 
 **Ballasters vs the previous week.** The global Handysize ballaster count rose 22% WoW to 760, led by the North Atlantic including Med/Black Sea (+32% to 245). Australasia rose 30% to 156, the Indian Ocean/South Africa 24% to 105, the South Atlantic 11% to 89 and FEAST/NOPAC 7% to 165.
 
@@ -205,7 +205,7 @@ The BDI rose to 3,186 (+79 day-on-day, +345 WoW) on a stronger week for the larg
 
 > **Figure 17: Handysize - Global Ballaster Fleet and Regional Positioning**  
 > *Figure 17: Handysize - Global ballaster fleet and regional positioning (Source: Signal).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a993e0ccb228466bb3b48fd_b6a2368f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](../../images/6a993e0ccb228466bb3b48fd_b6a2368f.png)
 
 **Supply/demand by route.** HS1/HS2, HS5 and HS6 carry a cumulative supply surplus, widest on HS1/HS2 at about 170 vessels by day 15 against expected demand near 90. HS7 (Far East) sits in surplus through the first week and closes to balance by day 10.
 
@@ -214,7 +214,7 @@ The BDI rose to 3,186 (+79 day-on-day, +345 WoW) on a stronger week for the larg
 
 > **Figure 18: Handysize - Hs1/hs2, HS5, HS6 & HS7: Cumulative Supply vs Expected Demand Over Days Forward**  
 > *Figure 18: Handysize - HS1/HS2, HS5, HS6 & HS7: cumulative Supply vs Expected Demand over days forward (Source: Signal).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a993e0ccb228466bb3b4903_4b99c420.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](../../images/6a993e0ccb228466bb3b4903_4b99c420.png)
 
 **Demand-to-supply ratio.** HS7TC increased 1.2% on the week to $15,774/day, placing it in the 80th percentile of weekly observations over the past year. The demand index stood at 87.33 versus 90.22 for supply, both relative to year-ago levels. This brought the demand-to-supply ratio down to 0.97 from 1.09 in the previous week. The year-on-year growth rates were close, with demand growing slightly more slowly than available tonnage; this is a comparison of growth rates and not a physical cargo-to-vessel balance. The reading sits closer to 1.00 than the revision range measured for this series, so it is not reported as a settled change of side. The latest five weeks remain provisional.
 
@@ -223,7 +223,7 @@ The BDI rose to 3,186 (+79 day-on-day, +345 WoW) on a stronger week for the larg
 
 > **Figure 19: Handysize Demand/supply Ratio (LHS) and HS7TC Spot Rate (RHS) - Weekly**  
 > *Figure 19: Handysize demand/supply ratio (LHS) and HS7TC spot rate (RHS) - weekly (Source: Baltic Exchange; Signal - Trade Flows, Vessel Daily Status). Bars = demand/supply ratio (left axis); line = HS7TC $/day (right axis). Above 1.00 = demand growing faster than available tonnage; below = slower. Four-week average year-on-year growth basis. Shaded band = the latest provisional weeks. Handysize demand is derived from Trade Flows voyages alone, unlike the Panamax and Supramax series, so absolute ratio levels should not be compared directly across those segments.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a993e0ccb228466bb3b4900_54ae7deb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](../../images/6a993e0ccb228466bb3b4900_54ae7deb.png)
 
 
 ## Overall Market Trend | Conclusions
@@ -232,7 +232,7 @@ The BDI rose to 3,186 (+79 day-on-day, +345 WoW) on a stronger week for the larg
 ![Overall Market Trend | Conclusions](../../images/6a993dbb8e93de031de2baf9_Screenshot 2026-09-03 at 10.28.12.png)
 
 > **Figure 21: Overall Market Trend | Conclusions**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a993dbb8e93de031de2baf9_Screenshot 2026-09-03 at 10.28.12.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](../../images/6a993dbb8e93de031de2baf9_Screenshot 2026-09-03 at 10.28.12.png)
 
 **Key takeaway:** Signal Voyage Details data show Russian wheat loadings at the four principal deep-sea Black Sea terminals falling by around 60% in the five weeks to 28 August, on a like-for-like measure of cargo loaded, with the number of voyages down to under a third of the year-earlier count. The reduction, held across every week of the window, concentrated the remaining programme on Novorossiysk and fell most heavily on Handysize and Supramax employment.
 

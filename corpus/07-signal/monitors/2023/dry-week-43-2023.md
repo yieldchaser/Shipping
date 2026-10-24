@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform Data**  
 > *Data Source: The Signal Ocean Platform Data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-43-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6538d426ab579fe78d14b3c3_dry bulk grain.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-43-2023) | [Local Asset](../../images/6538d426ab579fe78d14b3c3_dry bulk grain.png)
 
 The last week of October witnessed a downward trend in the Capesize freight market momentum, while the smaller vessel segments experienced a relatively flat momentum. Meanwhile, the grain flows from Brazil to China with the Panamax vessel class recorded a significant surge in October that supported a firmer momentum for Panamax vessel freight rates (as envisaged in the image above).
 

@@ -29,7 +29,7 @@ Overall, a lot continues to go right in the dry bulk market and global economy (
 ![Chart](assets/2024-05-08_pi5qfapor7rg6e5oc8s288c7f8uzad_img_chart_5ff446917802.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-08_pi5qfapor7rg6e5oc8s288c7f8uzad_img_chart_5ff446917802.jpg)
+> [Local Asset](assets/2024-05-08_pi5qfapor7rg6e5oc8s288c7f8uzad_img_chart_5ff446917802.jpg)
 
 In addition, the entire dry bulk market continues to benefit from the return of growth in global grain trade and this year’s extremely rare contraction in Chinese coal production. At the same time, the overall dry bulk fleet this year continues to expand by only a moderate amount.
 

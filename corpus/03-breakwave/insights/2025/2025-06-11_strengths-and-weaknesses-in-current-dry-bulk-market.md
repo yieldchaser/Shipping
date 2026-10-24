@@ -29,7 +29,7 @@ Overall, we must continue to stress that China’s steel production remains at a
 ![Chart](assets/2025-06-11_strengths-and-weaknesses-in-current-dry-bulk-market_img_chart_ca88248730d8.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-11_strengths-and-weaknesses-in-current-dry-bulk-market_img_chart_ca88248730d8.jpg)
+> [Local Asset](assets/2025-06-11_strengths-and-weaknesses-in-current-dry-bulk-market_img_chart_ca88248730d8.jpg)
 
 ---
 

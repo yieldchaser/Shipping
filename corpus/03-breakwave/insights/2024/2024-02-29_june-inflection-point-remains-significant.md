@@ -29,14 +29,14 @@ As we also have been discussing in our Weekly Dry Bulk Reports, we remain bullis
 ![241](assets/2024-02-29_june-inflection-point-remains-significant_img_241_09c167e093b1.jpg)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-29_june-inflection-point-remains-significant_img_241_09c167e093b1.jpg)
+> [Local Asset](assets/2024-02-29_june-inflection-point-remains-significant_img_241_09c167e093b1.jpg)
 
 As we have been stressing in our Weekly Dry Bulk Reports, June last year saw an inflection point of sorts as there was finally growth in steel production outside of China. Prior to June, steel production outside of China had fallen on a year-on-year basis for fifteen straight months (during those fifteen months, production outside of China contracted year-on-year by 77 million tons). The turnaround in the market has not only continued but has also intensified.
 
 ![242](assets/2024-02-29_june-inflection-point-remains-significant_img_242_3f0cbbcfb739.jpg)
 
 > **Figure 2: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-29_june-inflection-point-remains-significant_img_242_3f0cbbcfb739.jpg)
+> [Local Asset](assets/2024-02-29_june-inflection-point-remains-significant_img_242_3f0cbbcfb739.jpg)
 
 ---
 

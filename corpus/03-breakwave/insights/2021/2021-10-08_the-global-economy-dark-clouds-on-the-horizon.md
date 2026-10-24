@@ -37,21 +37,21 @@ The more problematic outlook for the global economy saw global seaborne volumes 
 ![Ch1](assets/2021-10-08_the-global-economy-dark-clouds-on-the-horizon_img_ch1_10b5ac1e2ae5.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-08_the-global-economy-dark-clouds-on-the-horizon_img_ch1_10b5ac1e2ae5.png)
+> [Local Asset](assets/2021-10-08_the-global-economy-dark-clouds-on-the-horizon_img_ch1_10b5ac1e2ae5.png)
 
 For coal, the picture is similar, with volumes falling during September compared to the previous month. Unlike for iron ore, last month's seaborne quantities were larger than a year ago. Assuming a degree of linearity, volumes in the early part of October suggest that around 120 million tonnes of coal will be discharged in ports during the month. This would be at par with the highs of previous years. However, the global rush to restock coal inventories could see August's record volumes challenged in the coming months.
 
 ![Ch2](assets/2021-10-08_the-global-economy-dark-clouds-on-the-horizon_img_ch2_e76b0f3da0d3.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-08_the-global-economy-dark-clouds-on-the-horizon_img_ch2_e76b0f3da0d3.png)
+> [Local Asset](assets/2021-10-08_the-global-economy-dark-clouds-on-the-horizon_img_ch2_e76b0f3da0d3.png)
 
 India could contribute to record seaborne coal volumes, as the country's coal inventories are critically low. Although the problem has been known for some time, the quantities of imported thermal coal have declined in recent months. The trend appears to have reversed, with October volumes already matching 30 per cent of the previous month. Given the low stockpiles in India, there are concerns that extensive powercuts could damage the prospects for what is widely expected to be one of the best performing economies this year.
 
 ![Ch3](assets/2021-10-08_the-global-economy-dark-clouds-on-the-horizon_img_ch3_5e42386cf272.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-08_the-global-economy-dark-clouds-on-the-horizon_img_ch3_5e42386cf272.png)
+> [Local Asset](assets/2021-10-08_the-global-economy-dark-clouds-on-the-horizon_img_ch3_5e42386cf272.png)
 
 The energy crunch is likely to remain in place for some time, possibly for the duration of the winter in the Northern Hemisphere. The low inventories in the two largest importers, China and India, will force both to keep their imports elevated to avoid excessive damage to their economies. Continued strong demand for thermal coal would benefit tonnage demand, especially if additional natural gas exports could force prices south. At the same time, slowing growth brought about by rising energy costs could dampen the enthusiasm for commodities and seaborne transportation. However, Beijing's recent strong statement of intent suggests that all tools will be used to avoid an economic slowdown. Hence, despite fears of a soft patch for the global economy, the appetite for commodities is unlikely to soften too much.
 

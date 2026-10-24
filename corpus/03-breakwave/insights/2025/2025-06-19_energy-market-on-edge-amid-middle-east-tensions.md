@@ -27,7 +27,7 @@ Tensions in the Middle East remained elevated, keeping energy markets on edge. A
 ![Στιγμιότυπο Οθόνης 2025 06 19 150427](assets/2025-06-19_energy-market-on-edge-amid-middle-east-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_757e5a8e23da.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 06 19 150427**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-19_energy-market-on-edge-amid-middle-east-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_757e5a8e23da.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-06-19_energy-market-on-edge-amid-middle-east-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_757e5a8e23da.png)
 
 ### Market Commentary
 
@@ -46,7 +46,7 @@ China’s copper inventories have been continuing to fall despite the uncertain 
 ![Στιγμιότυπο Οθόνης 2025 06 19 150530](assets/2025-06-19_energy-market-on-edge-amid-middle-east-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ece1cd5da1ed.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 06 19 150530**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-19_energy-market-on-edge-amid-middle-east-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ece1cd5da1ed.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-06-19_energy-market-on-edge-amid-middle-east-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ece1cd5da1ed.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

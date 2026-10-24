@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-04-09_coal-contradictions-d
 ![Unsplash Image Dqgiay0k08o](assets/2021-04-09_coal-contradictions-define-chinese-demand_img_unsplash-image-dqgiay0k08o_06ec6c295fef.jpg)
 
 > **Figure 1: Unsplash Image Dqgiay0k08o**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-09_coal-contradictions-define-chinese-demand_img_unsplash-image-dqgiay0k08o_06ec6c295fef.jpg)
+> [Local Asset](assets/2021-04-09_coal-contradictions-define-chinese-demand_img_unsplash-image-dqgiay0k08o_06ec6c295fef.jpg)
 
 There are currently several contradictions and question marks regarding the Chinese demand for coal, both in the short and longer terms. The increasing political drive towards a decarbonised economy by the Chinese leadership would suggest a decreasing demand for the black stuff in the not too distant future. At the same time, the country is the global leader in developing new coal-fired power plants by a considerable margin.
 
@@ -40,7 +40,7 @@ It is widely expected among analysts that China’s coal imports will decrease t
 ![Ulf 1a](assets/2021-04-09_coal-contradictions-define-chinese-demand_img_ulf1a_5e864d796c76.jpg)
 
 > **Figure 2: Ulf 1a**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-09_coal-contradictions-define-chinese-demand_img_ulf1a_5e864d796c76.jpg)
+> [Local Asset](assets/2021-04-09_coal-contradictions-define-chinese-demand_img_ulf1a_5e864d796c76.jpg)
 
 While China has a provider of high-quality coal, both thermal and coking, in the vicinity which has also been its main supplier in the past, the ongoing trade issues have seen the Australian output off-limits to Chinese buyers. The change in trade patterns, as replacements for the Australian imports are sourced, have been a mixed blessing for dry bulk shipping. In some cases, such as land-based shipments from Mongolia or shorter sea voyages from Indonesia, it has led to a reduction in tonne-mile demand, while sourcing coal from South Africa, and other distant shores, is adding to it. Likewise, the Australian supplies, normally reserved for China, are offered to more faraway markets in Europe and South America.
 

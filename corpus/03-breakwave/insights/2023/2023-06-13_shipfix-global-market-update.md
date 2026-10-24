@@ -58,6 +58,6 @@ Cargo order volumes for fertilisers loading in Russian ports surged in May after
 ![Market Chart 1](assets/2023-06-13_shipfix-global-market-update_img_unnamed-2023-06-13t115823645_baa38d3a5cd1.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-13_shipfix-global-market-update_img_unnamed-2023-06-13t115823645_baa38d3a5cd1.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2023-06-13_shipfix-global-market-update_img_unnamed-2023-06-13t115823645_baa38d3a5cd1.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

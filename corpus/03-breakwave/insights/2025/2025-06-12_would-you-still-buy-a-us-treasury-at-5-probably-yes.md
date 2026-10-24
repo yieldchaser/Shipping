@@ -45,14 +45,14 @@ On the one hand, the policy is consistent with a weaker Dollar as a way to reviv
 ![Market Chart 1](assets/2025-06-12_would-you-still-buy-a-us-treasury-at-5-probably-yes_img_image001_8650ade01dce.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-12_would-you-still-buy-a-us-treasury-at-5-probably-yes_img_image001_8650ade01dce.png)
+> [Local Asset](assets/2025-06-12_would-you-still-buy-a-us-treasury-at-5-probably-yes_img_image001_8650ade01dce.png)
 
 On the other hand, the US’s net investments (assets less liabilities) deficit, is very wide. The country depends on foreign money significantly to keep itself funded.
 
 ![Market Chart 2](assets/2025-06-12_would-you-still-buy-a-us-treasury-at-5-probably-yes_img_image002_8300bac4a854.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-12_would-you-still-buy-a-us-treasury-at-5-probably-yes_img_image002_8300bac4a854.png)
+> [Local Asset](assets/2025-06-12_would-you-still-buy-a-us-treasury-at-5-probably-yes_img_image002_8300bac4a854.png)
 
 Up to a point, some of that can be substituted with simple printing by the Fed. The US central bank already owns 15% of all US debt, and could add to that, pushing the Dollar even lower. But, in the words of Kenneth Rogoff, these actions will simply compel competitive economies to find ways to shift away from the Dollar faster, accelerating its decline.
 
@@ -61,7 +61,7 @@ From an investor standpoint, the question is now clear: will investors seek othe
 ![Market Chart 3](assets/2025-06-12_would-you-still-buy-a-us-treasury-at-5-probably-yes_img_image003_10ee969fa6e1.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-12_would-you-still-buy-a-us-treasury-at-5-probably-yes_img_image003_10ee969fa6e1.png)
+> [Local Asset](assets/2025-06-12_would-you-still-buy-a-us-treasury-at-5-probably-yes_img_image003_10ee969fa6e1.png)
 
 Or will they behaviourally accept that the US’s financial system advantage is so big, that the government can afford to greatly lean on it and simply try to find more tax-efficient ways to go about their business.
 

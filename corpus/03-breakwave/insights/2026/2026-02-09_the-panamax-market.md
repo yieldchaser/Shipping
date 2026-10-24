@@ -37,7 +37,7 @@ Against this broader backdrop, the Panamax market closed the week at $14,865 per
 ![Στιγμιότυπο Οθόνης 2026 02 09 102414](assets/2026-02-09_the-panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_573341c07e1b.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 02 09 102414**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-09_the-panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_573341c07e1b.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2026-02-09_the-panamax-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_573341c07e1b.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

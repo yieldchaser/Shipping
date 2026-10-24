@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-06-17_chinabrazil-coronavir
 
 > **Figure 1: According to China's Global Times**  
 > *According to China's Global Times, Beijing has raised its COVID-19 emergency response to Level 2 from Level 3 which includes "reinstating closed managements on communities, requiring people to have temperatures taken, register, and check health codes before entry. Communities, sub-districts, streets in high/middle risk areas would ban outsiders and cars from entering; and communities of high risk sub-districts would have closed-off management, allowing no one to leave".*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-17_chinabrazil-coronavirus-update_img_image-asset_078f6346d78f.jpeg)
+> [Local Asset](assets/2020-06-17_chinabrazil-coronavirus-update_img_image-asset_078f6346d78f.jpeg)
 
 This comes on the heels of an earlier decision this week in which all schools in Beijing will be closed starting today.
 

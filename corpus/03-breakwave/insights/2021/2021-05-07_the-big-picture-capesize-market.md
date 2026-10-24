@@ -32,7 +32,7 @@ It’s only been three weeks since our last report on the Capesize market, but t
 
 > **Figure 1: This Activity**  
 > *This activity, compounded with the inefficiencies that we have seen emerge in the Pacific due to crew changes and quarantine requirements (seeThe Big Pictureon April 15th), have continued to support this basin. Our assessed TCE for a Pacific round voyage (C5) has held an average premium of $4,600 over that for a Brazil - China round voyage (C3) since the beginning of April.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-07_the-big-picture-capesize-market_img_bmr1a_48cc19958b8a.png)
+> [Local Asset](assets/2021-05-07_the-big-picture-capesize-market_img_bmr1a_48cc19958b8a.png)
 
 Before today’s wobble, FFAs were also on a tear, helping to fuel the physical market. The May contract hit a high of $47,000 yesterday, almost doubling since the start of April, but has dropped below $40,000 at the time of writing. The last time a month averaged above $47,000 per day was May 2010. The deferred contracts have also seen enormous gains, implying greatly improved long-term sentiment. Cal 2022 printed just shy of $22,000 yesterday, $8,000 higher since the start of the year.
 
@@ -43,7 +43,7 @@ Positive news has continued to come from the Pacific. As the iron ore price brea
 ![Bmr 2a](assets/2021-05-07_the-big-picture-capesize-market_img_bmr2a_edac3a2509e9.png)
 
 > **Figure 2: Bmr 2a**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-07_the-big-picture-capesize-market_img_bmr2a_edac3a2509e9.png)
+> [Local Asset](assets/2021-05-07_the-big-picture-capesize-market_img_bmr2a_edac3a2509e9.png)
 
 ### Coal Makes a Comeback
 
@@ -56,14 +56,14 @@ Capesize coal shipments from Russia hit 3.5m tonnes in April, 57% higher YoY, wh
 ![Bmr 3a](assets/2021-05-07_the-big-picture-capesize-market_img_bmr3a_3f82c648a13a.png)
 
 > **Figure 3: Bmr 3a**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-07_the-big-picture-capesize-market_img_bmr3a_3f82c648a13a.png)
+> [Local Asset](assets/2021-05-07_the-big-picture-capesize-market_img_bmr3a_3f82c648a13a.png)
 
 Meanwhile, Australian coal exports, though still banned in China, are becoming more demand-intensive as they find their way into more distant markets. India’s share of Australia’s shipments, for example, has grown to 16% so far this year, up from 5% over the same period last year. As such Australian coal is traveling further and tying ships up for longer. The average laden leg for a Cape hauling Australian coal has been 32 days so far this year, six days longer YoY.
 
 ![Bmr 4a](assets/2021-05-07_the-big-picture-capesize-market_img_bmr4a_8fdf32de0ade.png)
 
 > **Figure 4: Bmr 4a**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-07_the-big-picture-capesize-market_img_bmr4a_8fdf32de0ade.png)
+> [Local Asset](assets/2021-05-07_the-big-picture-capesize-market_img_bmr4a_8fdf32de0ade.png)
 
 ### Cooling Off?
 
@@ -72,7 +72,7 @@ Following today’s correction, many are questioning whether we’ve hit the pea
 ![Bmr 5a](assets/2021-05-07_the-big-picture-capesize-market_img_bmr5a_3a2607439972.png)
 
 > **Figure 5: Bmr 5a**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-07_the-big-picture-capesize-market_img_bmr5a_3a2607439972.png)
+> [Local Asset](assets/2021-05-07_the-big-picture-capesize-market_img_bmr5a_3a2607439972.png)
 
 At this stage, those fears do not seem likely to be realised. Australia supplies 57% of the seaborne iron ore market and any ban would have severe consequences for Chinese industry, though we’ll be watching this situation closely. At the same time, while the volatility is here to stay, we’re not expecting a collapse in Cape demand over the coming few months as China’s steel output is likely to remain firm through Q2.
 

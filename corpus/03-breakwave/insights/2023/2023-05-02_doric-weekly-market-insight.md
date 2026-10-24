@@ -30,14 +30,14 @@ In particular, the US economy expanded by an annualized 1.1 percent in Q1 2023, 
 ![1 (2)](assets/2023-05-02_doric-weekly-market-insight_img_128229_963e14e43394.png)
 
 > **Figure 1: 1 (2)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-02_doric-weekly-market-insight_img_128229_963e14e43394.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-05-02_doric-weekly-market-insight_img_128229_963e14e43394.png)
 
 Other major western economies have also showed signs of ebbing momentum. The euro zone expanded only marginally in the first three months of 2023 at a rate lower than market expectations. Gross domestic product of the bloc grew by 0.1 percent in the first quarter, below expectations in a Reuters poll for 0.2 percent growth. Amongst the bloc's largest economies, Germany registered no growth in the first quarter, while the economies of France, Italy, and Spain expanded by more than expected. Remaining stuck in the mud, the German economy stagnated in the first quarter, as a decline in government and household consumption was balanced out by an increase in exports and capital investment. In spite of a series of strikes against the government's pension reform bill, French economy grew slightly by 0.2 percent in the first quarter. Supported by household consumption, the second largest economy of the euro zone managed to overcome the flat fourth quarter of last year. In tandem, Italy's economy grew by 0.5 percent in the first quarter from the previous three months, after a slight contraction at the end of last year. Surging inflation due to high energy costs and rising food prices following Russia's invasion of Ukraine, waning confidence and increased interest rates have had a bearing on the single currency economy.
 
 ![1 (3)](assets/2023-05-02_doric-weekly-market-insight_img_128329_8b55036932a5.png)
 
 > **Figure 2: 1 (3)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-02_doric-weekly-market-insight_img_128329_8b55036932a5.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-05-02_doric-weekly-market-insight_img_128329_8b55036932a5.png)
 
 With western economies lacking vividness, Baltic indices haven't yet set a clear course and continued trading within a very narrow range the last couple of months, with the local peaks and troughs being less than three thousand dollars apart – with the exception of Capesizes.
 

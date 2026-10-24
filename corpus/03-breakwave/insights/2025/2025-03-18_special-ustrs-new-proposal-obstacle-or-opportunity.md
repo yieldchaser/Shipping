@@ -23,14 +23,14 @@ source_file: "corpus/03-breakwave/insights/2025/2025-03-18_special-ustrs-new-pro
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2025-03-18_special-ustrs-new-proposal-obstacle-or-opportunity_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-18_special-ustrs-new-proposal-obstacle-or-opportunity_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](assets/2025-03-18_special-ustrs-new-proposal-obstacle-or-opportunity_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 It is a well-known fact that China is the 800-pound gorilla when it comes to dry bulk trade volumes and shipbuilding. That said, the US is no small pushover. In 2024, it was simultaneously the world’s fifth largest drybulk exporter (at 311.6 mln mt) and seventh largest importer (at 124.9 mln mt). Moreover, China was the top destination, accounting for 16.9% of total US drybulk exports last year. For context, the EU (including UK) account for approximately 10.9%, followed by Japan and India at 9.3% apiece.
 
 ![Στιγμιότυπο Οθόνης 2025 03 18 122703](assets/2025-03-18_special-ustrs-new-proposal-obstacle-or-opportunity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2fdc6865b3a.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 03 18 122703**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-18_special-ustrs-new-proposal-obstacle-or-opportunity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2fdc6865b3a.png)
+> [Local Asset](assets/2025-03-18_special-ustrs-new-proposal-obstacle-or-opportunity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2fdc6865b3a.png)
 
 This dynamic illustrates why the recent proposed clampdowns* from US Trade Representative (USTR) regarding Chinese-built ships or with Chinese connections for US port calls has caused such a stir within the shipping markets, including dry bulk. As seen in the above chart, across the size spectrum, Chinese-built dry tonnage was extensively deployed for US export cargoes, with Overpanamax, Kamsarmax, Ultramax segments hauling more than 50% of US exports carried by that segment. In segments that Chinese-built tonnage had a smaller market share, it tends to be centred around older models like Panamaxes, Supramaxes and Handysizes.
 
@@ -39,14 +39,14 @@ A similar case can be made for US dry bulk imports, with AXSMarine data showing 
 ![Στιγμιότυπο Οθόνης 2025 03 18 122714](assets/2025-03-18_special-ustrs-new-proposal-obstacle-or-opportunity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7f91e7f6b61d.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 03 18 122714**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-18_special-ustrs-new-proposal-obstacle-or-opportunity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7f91e7f6b61d.png)
+> [Local Asset](assets/2025-03-18_special-ustrs-new-proposal-obstacle-or-opportunity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7f91e7f6b61d.png)
 
 Collectively speaking, this is a microcosm of the prowess of Chinese shipyards in building dry bulkers, a segment which they mastered before moving into more complex ship types such as tankers and container liners. To shed further light on Chinese shipyards’ dominance, let’s use the mid-sized bulker segment (68-100,000 Dwt) as a prime example. If we look at this sized segment, Chinese-built ships account for 43.8% of the active fleet but when we zoom into the incumbent orderbook, that proportion spiked to 80%.
 
 ![Στιγμιότυπο Οθόνης 2025 03 18 122729](assets/2025-03-18_special-ustrs-new-proposal-obstacle-or-opportunity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7df696103799.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 03 18 122729**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-18_special-ustrs-new-proposal-obstacle-or-opportunity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7df696103799.png)
+> [Local Asset](assets/2025-03-18_special-ustrs-new-proposal-obstacle-or-opportunity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7df696103799.png)
 
 *These proposals can be deemed as a direct reaction to Chinese shipbuilding dominance which has caught the eye of Washington, following petitions from US labour unions. These includes port charges of up to $1 million per visit for Chinese-owned ships (or a charge of $1,000/mt of a ship’s cargo capacity), a charge of up to $1.5 million per visit for non-Chinese companies operating a Chinese ship and a staggered scale of port charges for companies whose fleets include Chinese-built ships. However, it must be noted that these remain proposals and there will be a hearing on 24 Match where these will be debated.
 

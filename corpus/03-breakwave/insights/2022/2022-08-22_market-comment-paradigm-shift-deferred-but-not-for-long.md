@@ -36,7 +36,7 @@ In the past few months markets have been fixated with oil prices. Higher oil pri
 ![241](assets/2022-08-22_market-comment-paradigm-shift-deferred-but-not-for-long_img_241_efb0d38fe62a.png)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-22_market-comment-paradigm-shift-deferred-but-not-for-long_img_241_efb0d38fe62a.png)
+> [Local Asset](assets/2022-08-22_market-comment-paradigm-shift-deferred-but-not-for-long_img_241_efb0d38fe62a.png)
 
 On the one hand, this is a good sign. It means that markets recognize current inflation to be mostly driven by energy price and supply chain factors, not monetary easing. By implication, this means that they believe the Fed will follow inflation trends, rather than actually be able to reverse them.
 
@@ -47,7 +47,7 @@ So, while performing sharp rate hikes and remaining hawkish, the Fed’s dovish 
 ![242](assets/2022-08-22_market-comment-paradigm-shift-deferred-but-not-for-long_img_242_1da710c6e44f.png)
 
 > **Figure 2: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-22_market-comment-paradigm-shift-deferred-but-not-for-long_img_242_1da710c6e44f.png)
+> [Local Asset](assets/2022-08-22_market-comment-paradigm-shift-deferred-but-not-for-long_img_242_1da710c6e44f.png)
 
 From the next month, max withdrawals go up to $95bn per month, from $45bn today. Given what we have seen until today, we would be surprised if the Fed punches up quantitative tightening so abruptly.
 

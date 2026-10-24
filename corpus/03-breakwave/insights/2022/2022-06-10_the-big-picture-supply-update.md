@@ -32,7 +32,7 @@ Starting 2022, Q1 was another quarter of reduced ordering. A total of 117 vessel
 ![Market Chart 1](assets/2022-06-10_the-big-picture-supply-update_img_image028429_efb28ce38d59.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-10_the-big-picture-supply-update_img_image028429_efb28ce38d59.png)
+> [Local Asset](assets/2022-06-10_the-big-picture-supply-update_img_image028429_efb28ce38d59.png)
 
 This can be owed to several themes we have previously discussed, namely regulatory uncertainty and high prices, which some may consider unjustifiable. Slot availability is thin out to 2024 due to the sustained popularity in containerships and gas carriers. Subsequently, we have reduced our expectations for future orders being delivered in 2023 and 2024.
 
@@ -45,7 +45,7 @@ On the other hand, scrapping has declined as fleet renewals have subsided. As a 
 ![Market Chart 2](assets/2022-06-10_the-big-picture-supply-update_img_image128429_b7edf6c364c7.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-10_the-big-picture-supply-update_img_image128429_b7edf6c364c7.png)
+> [Local Asset](assets/2022-06-10_the-big-picture-supply-update_img_image128429_b7edf6c364c7.png)
 
 With freight rates still at healthy levels across all sizes, we believe vessels will trade for a longer period than they otherwise would have. New IMO regulation incoming in 2023 is similarly playing a role. Given the 20+ year vessels are the least efficient in the fleet, it may be more economical to continue to trade older vessels until this is enforced and then reassess. Therefore, we expect scrapping in 2023 to increase to 5.1m dwt, closer to levels we formerly expected for this year. As environmental regulation gets stricter beyond 2023, we expect scrapping to increase as the older vessels become less viable.
 
@@ -58,7 +58,7 @@ The Capesize sector has seen the fewest orders across all dry bulk sectors this 
 ![Market Chart 3](assets/2022-06-10_the-big-picture-supply-update_img_image228429_21bbef5601e9.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-10_the-big-picture-supply-update_img_image228429_21bbef5601e9.png)
+> [Local Asset](assets/2022-06-10_the-big-picture-supply-update_img_image228429_21bbef5601e9.png)
 
 The Capes, given their size, are the vessels most prone to competing with the large container and gas carriers currently taking up yard slots. These ships are comparatively more expensive, for example a 174k gas carrier is currently commanding approximately $230m per unit. As a result, yards have driven up quotes for a Large Capesize, which would use a similar size slot, to $67m, given the newfound competition for a yard space. The gas carriers also take circa 4-6 months longer to build, keeping slots occupied for longer periods.
 
@@ -71,7 +71,7 @@ While the 82k dwt Kamsarmax design accounts for the majority of orders, addition
 ![Market Chart 4](assets/2022-06-10_the-big-picture-supply-update_img_image328529_e79fa92a3004.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-10_the-big-picture-supply-update_img_image328529_e79fa92a3004.png)
+> [Local Asset](assets/2022-06-10_the-big-picture-supply-update_img_image328529_e79fa92a3004.png)
 
 ## Outlook
 

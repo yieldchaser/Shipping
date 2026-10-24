@@ -29,7 +29,7 @@ As we discussed in a client note earlier this week, the Indonesian government at
 ![Unsplash Image F1b0 Iuaxo4](assets/2022-01-06_energy-prices-the-catalyst-of-revolution_img_unsplash-image-f1b0-iuaxo4_3532ab458e39.jpg)
 
 > **Figure 1: Unsplash Image F1b0 Iuaxo4**  
-> **Interactive Data & Source:** [Twitter](https://twitter.com/jardemalie/status/1478397365283430409?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1478397365283430409%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fcentralasia.liveuamap.com%2Fen%2F2022%2F4-january-aerial-view-of-protest-in-almaty) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-06_energy-prices-the-catalyst-of-revolution_img_unsplash-image-f1b0-iuaxo4_3532ab458e39.jpg)
+> **Interactive Data & Source:** [Twitter](https://twitter.com/jardemalie/status/1478397365283430409?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1478397365283430409%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fcentralasia.liveuamap.com%2Fen%2F2022%2F4-january-aerial-view-of-protest-in-almaty) | [Local Asset](assets/2022-01-06_energy-prices-the-catalyst-of-revolution_img_unsplash-image-f1b0-iuaxo4_3532ab458e39.jpg)
 
 Indonesia is the world's largest exporter of thermal coal, but the world is clearly changing and coal (and all energy assets) are becoming much more crucial to hold and obtain for every nation. The production growth in heavy polluting commodities such as thermal coal has been limited in recent years due to the ESG movement, but growth in renewable sources of electricity has still not been able to meet the world's ever increasing demand for electricity. This has been one major factor behind the ongoing global energy crisis.
 

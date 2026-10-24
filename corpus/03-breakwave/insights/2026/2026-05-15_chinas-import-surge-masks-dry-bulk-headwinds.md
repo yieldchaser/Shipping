@@ -43,7 +43,7 @@ The rebound in the country’s exports last month should provide some support fo
 ![Στιγμιότυπο Οθόνης 2026 05 14 184315](assets/2026-05-15_chinas-import-surge-masks-dry-bulk-headwinds_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_406ed053622e.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 05 14 184315**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/company/ocean-analytics/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-15_chinas-import-surge-masks-dry-bulk-headwinds_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_406ed053622e.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/company/ocean-analytics/) | [Local Asset](assets/2026-05-15_chinas-import-surge-masks-dry-bulk-headwinds_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_406ed053622e.png)
 
 According to data from Signal, the volume of commodities discharged from dry bulk vessels at Chinese ports in April fell by 9.1 per cent compared with the same month last year. This was the first time since July last year that discharged volumes retreated year-on-year, and it was the most significant decline since February 2025. Coal and iron ore were the main culprits in absolute terms and, between them, accounted for around 85 per cent of last month’s drop. The former recorded a 28 per cent decline, while the latter shed seven per cent year-on-year. Still, in relative terms, most cargo types declined significantly. While all vessel segments were affected by the slowdown, the panamaxes and handysizes/maxes saw disproportionate declines.
 
@@ -52,7 +52,7 @@ While overall imports had a strong month, it is counterintuitive to see the soft
 ![Στιγμιότυπο Οθόνης 2026 05 14 184323](assets/2026-05-15_chinas-import-surge-masks-dry-bulk-headwinds_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2d9ca0a030c9.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 05 14 184323**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/company/ocean-analytics/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-15_chinas-import-surge-masks-dry-bulk-headwinds_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2d9ca0a030c9.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/company/ocean-analytics/) | [Local Asset](assets/2026-05-15_chinas-import-surge-masks-dry-bulk-headwinds_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2d9ca0a030c9.png)
 
 By contrast, data on dry bulk exports to Chinese ports paint a different picture. Based on loading dates rather than discharge, the data show that exports to the world’s second-largest economy rose by more than six per cent year on year in April, with much of this expected to be discharged at ports in May and June. This suggests that Chinese importers shifted from risk aversion to inflation hedging amid concerns that the war in Iran will push commodity prices even higher in the coming weeks and months. Hence, stock building should support demand for imported commodities.
 

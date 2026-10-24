@@ -29,7 +29,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-06-26_brazils-booming-crude
 ![Market Chart 1](assets/2024-06-26_brazils-booming-crude-exports_img_image3_95fffc361398.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-26_brazils-booming-crude-exports_img_image3_95fffc361398.png)
+> [Local Asset](assets/2024-06-26_brazils-booming-crude-exports_img_image3_95fffc361398.png)
 
 ---
 

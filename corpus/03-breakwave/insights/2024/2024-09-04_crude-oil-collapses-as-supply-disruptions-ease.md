@@ -27,7 +27,7 @@ Easing supply-side issues triggered selling across the energy complex. Sentiment
 ![Στιγμιότυπο Οθόνης 2024 09 04 133949](assets/2024-09-04_crude-oil-collapses-as-supply-disruptions-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_096b8862f954.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 04 133949**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-04_crude-oil-collapses-as-supply-disruptions-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_096b8862f954.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-09-04_crude-oil-collapses-as-supply-disruptions-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_096b8862f954.png)
 
 ### Market Commentary
 
@@ -42,7 +42,7 @@ A risk-off tone across markets weighed on sentiment across the**base metals**sec
 ![Στιγμιότυπο Οθόνης 2024 09 04 134001](assets/2024-09-04_crude-oil-collapses-as-supply-disruptions-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_299c93533897.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 09 04 134001**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-04_crude-oil-collapses-as-supply-disruptions-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_299c93533897.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-09-04_crude-oil-collapses-as-supply-disruptions-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_299c93533897.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

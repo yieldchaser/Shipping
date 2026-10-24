@@ -26,7 +26,7 @@ Markets remained range bound as the post-FOMC rally petered out on a stronger US
 ![1675373310984](assets/2023-02-03_nickel-gains-despite-looming-wave-of-supply_img_1675373310984_898a6f7f1877.png)
 
 > **Figure 1: 1675373310984**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-03_nickel-gains-despite-looming-wave-of-supply_img_1675373310984_898a6f7f1877.png)
+> [Local Asset](assets/2023-02-03_nickel-gains-despite-looming-wave-of-supply_img_1675373310984_898a6f7f1877.png)
 
 **Copper**was up early in the session as part of the risk-on rally after the market perceived Chair Powell’s comments following the FOMC meeting as dovish. Tighter monetary policy has been a major headwind for metals over the past 12 months, but they came under pressure near the close amid doubts over China’s pace of recovery from recent COVID-19 restrictions.
 

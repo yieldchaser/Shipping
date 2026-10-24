@@ -35,7 +35,7 @@ Against this backdrop, the key P6 (ECSA RV) index reported an average of $15,127
 ![Screenshot 2024 02 26 12.15.05](assets/2024-02-26_global-soybean-exports_img_screenshot2024-02-26121505_35fb58f0e9b9.png)
 
 > **Figure 1: Screenshot 2024 02 26 12.15.05**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-26_global-soybean-exports_img_screenshot2024-02-26121505_35fb58f0e9b9.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-02-26_global-soybean-exports_img_screenshot2024-02-26121505_35fb58f0e9b9.png)
 
 Looking forward, following a robust year with 101.7 million tonnes of Chinese imports, soybean demand from the leading importer may experience a slight decrease in the current trading year. LSEG commodity analysts emphasized that China's soybean crushing margins have continued to decline from last summer's high levels, as domestic soybean meal prices hit three-year lows this January. Furthermore, massive corn imports and high inventory levels have also partially offset the feed demand for soybean meal. Additionally, China is expected to guide farmers to reduce hog production capacity, which could result in decreasing hog stocks and, consequently, lower feed demand for soybean meal. These factors collectively suggest a potential moderation in soybean demand from China in the near term.
 
@@ -44,7 +44,7 @@ It appears that despite concerns about the outlook for grain and coal trades, th
 ![Screenshot 2024 02 26 12.15.15](assets/2024-02-26_global-soybean-exports_img_screenshot2024-02-26121515_58c23bd2dbad.png)
 
 > **Figure 2: Screenshot 2024 02 26 12.15.15**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-26_global-soybean-exports_img_screenshot2024-02-26121515_58c23bd2dbad.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-02-26_global-soybean-exports_img_screenshot2024-02-26121515_58c23bd2dbad.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

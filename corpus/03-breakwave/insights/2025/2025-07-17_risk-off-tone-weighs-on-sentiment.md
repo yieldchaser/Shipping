@@ -27,7 +27,7 @@ A broad risk-off sentiment due to tariff concerns weighed on commodity prices. R
 ![Στιγμιότυπο Οθόνης 2025 07 17 132949](assets/2025-07-17_risk-off-tone-weighs-on-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21c6fc95c9c1.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 07 17 132949**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-17_risk-off-tone-weighs-on-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21c6fc95c9c1.png)
+> [Local Asset](assets/2025-07-17_risk-off-tone-weighs-on-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21c6fc95c9c1.png)
 
 ### Market Commentary
 
@@ -48,7 +48,7 @@ The number of rigs drilling for oil in the US continues to fall as shale oil ope
 ![Στιγμιότυπο Οθόνης 2025 07 17 133140](assets/2025-07-17_risk-off-tone-weighs-on-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_701b827dba11.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 07 17 133140**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-17_risk-off-tone-weighs-on-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_701b827dba11.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-07-17_risk-off-tone-weighs-on-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_701b827dba11.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

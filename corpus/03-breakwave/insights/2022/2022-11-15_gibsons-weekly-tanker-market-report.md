@@ -28,7 +28,7 @@ Secondly, global VLCC export volumes grew steadily from April to August as Middl
 ![Screenshot 20221115 101928 Samsung Notes](assets/2022-11-15_gibsons-weekly-tanker-market-report_img_screenshot-20221115-101928-samsungno_949ff4018f27.jpg)
 
 > **Figure 1: Screenshot 20221115 101928 Samsung Notes**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-15_gibsons-weekly-tanker-market-report_img_screenshot-20221115-101928-samsungno_949ff4018f27.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2022-11-15_gibsons-weekly-tanker-market-report_img_screenshot-20221115-101928-samsungno_949ff4018f27.jpg)
 
 Looking forward, the demand side fundamentals for VLCCs are mixed. Assuming OPEC+ cuts are adhered to, export volumes from the Middle East could decline by nearly 1mbd. Additionally, with 3 new refineries in the region planning to increase run rates in 2023, increased domestic crude intake also threatens export volumes. US crude exports may also be challenged over the coming months. As the SPR release program looks to conclude, coinciding with the end of US Gulf refinery maintenance season, it would be logical to assume that some downwards pressure in regional exports could materialise. However, it is not all negative. VLCCs could continue to benefit from volatile Aframax and Suezmax markets. Indeed, VLCCs have increased their market share on the US Gulf, Latin America and West Africa to Europe runs from almost nothing to 20% this year.
 
@@ -37,7 +37,7 @@ Whilst this route is not as long haul as heading to Asia, it keeps VLCC supply l
 ![Unsplash Image Ut1ygrqxy8](assets/2022-11-15_gibsons-weekly-tanker-market-report_img_unsplash-image-ut1ygrqxy8_ff2053728dc1.jpg)
 
 > **Figure 2: Unsplash Image Ut1ygrqxy8**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-15_gibsons-weekly-tanker-market-report_img_unsplash-image-ut1ygrqxy8_ff2053728dc1.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2022-11-15_gibsons-weekly-tanker-market-report_img_unsplash-image-ut1ygrqxy8_ff2053728dc1.jpg)
 
 Finally, it’s impossible to look at the VLCC market without understanding the dynamics in India and China. Both markets have increased their intake of Russian barrels, however, VLCC import volumes in China have grown steadily since the summer, notably in tandem with crude import quotas for 2023 being granted; whereas in India, VLCC volumes have remained flat year on year, with the most growth seen in Aframax volumes. Looking ahead, imports from Russia into these countries may have peaked, suggesting incremental barrels will have to come from elsewhere, possibly supporting larger crude carriers.
 

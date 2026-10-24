@@ -41,7 +41,7 @@ Lower iron ore prices could incentivize buyers to replenish their inventories, s
 ![Market Chart 1](assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed_fcedd5218300.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/dry-dynamic-drybulkflows/2rr1rv/566413075/h/5KTKyTByvjeq4TytzYi8bj--oAUQ0vFRQyHPIEOY_bI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed_fcedd5218300.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/dry-dynamic-drybulkflows/2rr1rv/566413075/h/5KTKyTByvjeq4TytzYi8bj--oAUQ0vFRQyHPIEOY_bI) | [Local Asset](assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed_fcedd5218300.png)
 
 [**Dry Bulk Flows**](https://go.thesignalgroup.com/e/983831/dry-dynamic-drybulkflows/2rr1rv/566413075/h/5KTKyTByvjeq4TytzYi8bj--oAUQ0vFRQyHPIEOY_bI)**| Coal**
 
@@ -56,7 +56,7 @@ This will have consequences on capesize demand, with the outlook for iron ore al
 ![Market Chart 2](assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed28129_452a9b845327.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/dry-dynamic-drybulkflows/2rr1rv/566413075/h/5KTKyTByvjeq4TytzYi8bj--oAUQ0vFRQyHPIEOY_bI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed28129_452a9b845327.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/dry-dynamic-drybulkflows/2rr1rv/566413075/h/5KTKyTByvjeq4TytzYi8bj--oAUQ0vFRQyHPIEOY_bI) | [Local Asset](assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed28129_452a9b845327.png)
 
 [**Dry Bulk Flows**](https://go.thesignalgroup.com/e/983831/dry-dynamic-drybulkflows/2rr1rv/566413075/h/5KTKyTByvjeq4TytzYi8bj--oAUQ0vFRQyHPIEOY_bI)**| Bauxite**
 
@@ -71,7 +71,7 @@ Bauxite, therefore, provides some positivity in the capesize market. The outlook
 ![Market Chart 3](assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed28229_97db1c7b24e2.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/dry-dynamic-drybulkflows/2rr1rv/566413075/h/5KTKyTByvjeq4TytzYi8bj--oAUQ0vFRQyHPIEOY_bI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed28229_97db1c7b24e2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/dry-dynamic-drybulkflows/2rr1rv/566413075/h/5KTKyTByvjeq4TytzYi8bj--oAUQ0vFRQyHPIEOY_bI) | [Local Asset](assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed28229_97db1c7b24e2.png)
 
 [**Dry Bulk Flows**](https://go.thesignalgroup.com/e/983831/dry-dynamic-drybulkflows/2rr1rv/566413075/h/5KTKyTByvjeq4TytzYi8bj--oAUQ0vFRQyHPIEOY_bI)**| Steel**
 
@@ -86,7 +86,7 @@ Steel products are shipped overwhelmingly by supramax vessels, 47% since 2022. Y
 ![Market Chart 4](assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed28329_b996747a59c9.png)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed28329_b996747a59c9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-01-07_chinas-demand-is-the-heaviest-factor-for-commodities-in-2025_img_unnamed28329_b996747a59c9.png)
 
 ### Takeaways
 

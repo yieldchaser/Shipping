@@ -30,7 +30,7 @@ In the dry bulk segment, the market has not experienced a significant impact yet
 
 > **Figure 1: % of Voyages That Ended in 2023 with a Suez Canal Crossing Per**  
 > *Figure 1: % of Voyages that ended in 2023 with a Suez canal crossing per Vessel Class, Tanker & Dry*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/signal-ocean-platform/2prr6w/377346806/h/0M6Wtn88U1g0Vw-J_zH4zsB7azMIV9xjLJt9MyWCR-M) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-22_the-red-sea-escalation-implications-on-global-seaborne-trade_img_unnamed-2024-01-22t140322156_e606a6f77ba5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.thesignalgroup.com/e/983831/signal-ocean-platform/2prr6w/377346806/h/0M6Wtn88U1g0Vw-J_zH4zsB7azMIV9xjLJt9MyWCR-M) | [Local Asset](assets/2024-01-22_the-red-sea-escalation-implications-on-global-seaborne-trade_img_unnamed-2024-01-22t140322156_e606a6f77ba5.png)
 
 ### ​​​​​​
 
@@ -47,7 +47,7 @@ So, not only do Suezmax and Aframax tankers, together with Supramax and Panamax 
 
 > **Figure 2: % of Voyages Suez Crossing Ending in 2023 to Total Voyages**  
 > *Figure 2: % of voyages Suez Crossing ending in 2023 to Total Voyages, per Vessel Class, Tanker & Dry*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-red-sea-escalation-implications-on-global-seaborne-trade) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-22_the-red-sea-escalation-implications-on-global-seaborne-trade_img_unnamed-2024-01-22t140429327_6c4bfb0beb89.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-red-sea-escalation-implications-on-global-seaborne-trade) | [Local Asset](assets/2024-01-22_the-red-sea-escalation-implications-on-global-seaborne-trade_img_unnamed-2024-01-22t140429327_6c4bfb0beb89.png)
 
 ### To Read the Full Article Please Click on the Button Below.
 

@@ -38,14 +38,14 @@ AXSMarine's live fleet tracker recorded 728 tankers in the Arabian Gulf followin
 
 > **Figure 1: Tanker Count on Both Sides of Hormuz Exceeds 700 as Strait Tensions Reignite**  
 > *Figure 1a. Vessel count: AXSMarine · data as of 15 July 2026*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a5e228241733dd0b5940fc3_Figure 1a - Total tankers in AG by segment.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](../../images/6a5e228241733dd0b5940fc3_Figure 1a - Total tankers in AG by segment.png)
 
 
 ![Tanker Count on Both Sides of Hormuz Exceeds 700 as Strait Tensions Reignite](../../images/6a5e22d5b92cd7a155b3b6bb_Figure 1b - AG crude segment by class.png)
 
 > **Figure 1: Tanker Count on Both Sides of Hormuz Exceeds 700 as Strait Tensions Reignite**  
 > *Figure 1b. Vessel count: AXSMarine · data as of 15 July 2026*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a5e22d5b92cd7a155b3b6bb_Figure 1b - AG crude segment by class.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](../../images/6a5e22d5b92cd7a155b3b6bb_Figure 1b - AG crude segment by class.png)
 
 Of the 728 tankers tracked, 381 vessels (52.3%) were at anchorage, while 234 (32.1%) were at sea and 59 (8.1%) were at berth. A further 246 vessels (33.8%) were not transmitting AIS positions. The share of AIS-inactive vessels was higher west of the Strait of Hormuz inside the Arabian Gulf (39.7%) than east of the Strait (28.6%).
 
@@ -54,7 +54,7 @@ Of the 728 tankers tracked, 381 vessels (52.3%) were at anchorage, while 234 (32
 
 > **Figure 1: Tanker Count on Both Sides of Hormuz Exceeds 700 as Strait Tensions Reignite**  
 > *Figure 1c. Live AG/Strait fleet tracker — 728 tankers, 246 not transmitting an AIS position.Vessel tracking: AXSMarine*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a5e22b1569536d2de214897_Figure 1c - Live AG-Strait fleet tracker.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](../../images/6a5e22b1569536d2de214897_Figure 1c - Live AG-Strait fleet tracker.png)
 
 
 ## Executive Summary
@@ -73,7 +73,7 @@ The split between ballast and laden vessels varied depending on the side of the 
 
 > **Figure 2: Ballast Vs**  
 > *Figure 2. Ballast vs. laden vessel counts, west and east of Hormuz, and combined for the Strait. Vessel tracking and AIS draft status: AXSMarine · data as of 15 July 2026*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a5e24e7569536d2de23539c_7b207971.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](../../images/6a5e24e7569536d2de23539c_7b207971.png)
 
 
 ## Ballasters — VLCC, Suezmax and Aframax in the Gulf
@@ -85,7 +85,7 @@ According to the Signal Ocean ballaster tracker, VLCC ballasters in the Arabian 
 
 > **Figure 3: Ballasters — VLCC, Suezmax and Aframax in the Gulf**  
 > *Figure 3a. VLCC ballasters by region. Ballaster tracking: Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a5e251f0bf3b4f12c5c2247_cc514d11.jpeg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](../../images/6a5e251f0bf3b4f12c5c2247_cc514d11.jpeg)
 
 Suezmax ballasters stand at 46 vessels, up 10% week-on-week, from the last high of 65 seen in mid-June, one of the highest since the beginning of the previous year. Notable. Aframax/LR2 ballasters are at 75 vessels, up 21% week-on-week — the largest weekly move among the three crude classes, compared to a low range of 38-40 recorded in mid-April.
 
@@ -94,14 +94,14 @@ Suezmax ballasters stand at 46 vessels, up 10% week-on-week, from the last high 
 
 > **Figure 3: Ballasters — VLCC, Suezmax and Aframax in the Gulf**  
 > *Figure 3b. Suezmax ballasters by region. Ballaster tracking: Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a5e254181e3ee06bb2a21bc_c063c958.jpeg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](../../images/6a5e254181e3ee06bb2a21bc_c063c958.jpeg)
 
 
 ![Ballasters — VLCC, Suezmax and Aframax in the Gulf](../../images/6a5e25578942a1a81f6d7c8f_131f87f8.jpeg)
 
 > **Figure 3: Ballasters — VLCC, Suezmax and Aframax in the Gulf**  
 > *Figure 3c. Aframax/LR2 ballasters by region. Ballaster tracking: Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a5e25578942a1a81f6d7c8f_131f87f8.jpeg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](../../images/6a5e25578942a1a81f6d7c8f_131f87f8.jpeg)
 
 AG ballasters, 15 Jul '26 (w/w):  VLCC 115 (-1%) · Aframax/LR2 75 (+21%) · Suezmax 46 (+10%) · VLCC March 2026 peak ~150
 
@@ -115,7 +115,7 @@ Since June 2025, the 7-day moving average of commercially available spot and rel
 
 > **Figure 4: Net Supply — Spot/relet Availability by Class**  
 > *Figure 4a. 7-day moving average of daily net available spot/relet supply in the Arabian Gulf, June 2025–July 2026. Spot/relet availability: Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a5e258f589097a947540577_50dff27a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](../../images/6a5e258f589097a947540577_50dff27a.png)
 
 A year-on-year comparison over the same 1 June–16 July window shows average daily VLCC net supply rising from 14.5 vessels in 2025 to 26.9 in 2026, with the peak available count up from 23 to 39 vessels. Aframax net supply was little changed on average — 20.1 vessels in 2025 versus 20.0 in 2026 (peak 32 vs 28). Suezmax averages also moved only slightly (11.2 vs 11.6), though its peak availability rose from 17 to 24 vessels.
 
@@ -124,7 +124,7 @@ A year-on-year comparison over the same 1 June–16 July window shows average da
 
 > **Figure 4: Net Supply — Spot/relet Availability by Class**  
 > *Figure 4b. Net available spot/relet supply, 1 June–16 July, year-on-year comparison by vessel class. Spot/relet availability: Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a5e25e5eb4d5cab0c4a2d96_Table 1.PNG)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](../../images/6a5e25e5eb4d5cab0c4a2d96_Table 1.PNG)
 
 **Net spot/relet supply (7d MA):  VLCC low <2 (Nov '25) → high 36+ (early Jul '26) · Jun 1-Jul 16 avg 14.5→26.9 vessels y/y**
 
@@ -138,7 +138,7 @@ The VLCC time-charter-equivalent differential between the AG–China benchmark (
 
 > **Figure 5: VLCC TCE Differential, Ag–china (TD3C) Minus Usg–china (TD22), Daily, July 2025–july 2026**  
 > *Figure 5. VLCC TCE differential, AG–China (TD3C) minus USG–China (TD22), daily, July 2025–July 2026. Freight and TCE data: Signal Ocean Platform / Baltic Exchange route benchmarks*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a5e291ad81c3d086a2a8499_fc394773.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](../../images/6a5e291ad81c3d086a2a8499_fc394773.png)
 
 **TD3C–TD22 VLCC TCE differential:** 52-wk high $490,824/day (16 Mar '26) · 52-wk low -$24,423/day · latest $260,369/day (ratio 3.4x)
 
@@ -152,7 +152,7 @@ Dirty tonne-miles on the Saudi Arabia–China (VLCC, Suezmax and Aframax combine
 
 > **Figure 6: Tonne-Miles — Saudi Arabia Vs.usg to China**  
 > *Figure 6a. Monthly dirty tonne-miles, VLCC+Suezmax+Aframax, Saudi Arabia–China, by load year. AXSMarine*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a5e2997fd6094d76e9cb801_d36bbb23.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](../../images/6a5e2997fd6094d76e9cb801_d36bbb23.png)
 
 On the US–China, tonne-miles had fallen from a 2023 high of 65.0bn (April 2023) to a low range of roughly 2–9bn per month through 2025 and early 2026, before rising to 41.5bn in June 2026, the strongest reading since 2023 and the highest June figure in the series, behind only April 2023 (65.0bn) and March 2023 (41.9bn).
 
@@ -161,7 +161,7 @@ On the US–China, tonne-miles had fallen from a 2023 high of 65.0bn (April 2023
 
 > **Figure 6: Tonne-Miles — Saudi Arabia Vs.usg to China**  
 > *Figure 6a. Monthly dirty tonne-miles, VLCC+Suezmax+Aframax, Saudi Arabia–China, by load year. AXSMarine*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a5e29cb6d82ed35b9d53992_77ff398a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](../../images/6a5e29cb6d82ed35b9d53992_77ff398a.png)
 
 **Tonne-miles (VLCC+Suez+Aframax):** Saudi Arabia→China: May '26 19.6bn, Jun '26 23.0bn · US→China: Jun '26 41.5bn (vs 2-8bn Jan-May '26)
 
@@ -179,7 +179,7 @@ The pattern snapped back once Iran resumed attacks on commercial shipping on 6�
 
 > **Figure 7: Strait of Hormuz Crossings — Ownership Transparency Through the Mou Cycle**  
 > *Figure 7a. Strait of Hormuz crossings by ownership transparency across the three MoU phases; n=759. Strait of Hormuz crossings: AXSMarine · data as of 15 July 2026*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a5e2a12eb4d5cab0c4e3883_3fb8677c.jpeg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](../../images/6a5e2a12eb4d5cab0c4e3883_3fb8677c.jpeg)
 
 By cargo type, the reopening of the Strait shifted crossings back towards a more balanced mix of crude and clean tankers. Crude carriers (VLCC, Suezmax and Aframax) accounted for 25% of crossings during the war phase, rising to 44% under the MoU and 49% following 6 July. During the renewed escalation, crude tankers represented 51 of the 104 recorded crossings, led overwhelmingly by VLCCs with 41 transits, compared with five Suezmax and three Aframax vessels. The remaining 53 crossings comprised clean, chemical, and product tankers.
 
@@ -188,14 +188,14 @@ By cargo type, the reopening of the Strait shifted crossings back towards a more
 
 > **Figure 7: Strait of Hormuz Crossings — Ownership Transparency Through the Mou Cycle**  
 > *Figure 7b. Renewed-escalation crossings (from 6 Jul, n=104): transit side and AIS status. Strait of Hormuz crossings: AXSMarine · data as of 15 July 2026*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a5e2e06b10108324aee66db_fbbe7e32.jpeg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](../../images/6a5e2e06b10108324aee66db_fbbe7e32.jpeg)
 
 
 ![Strait of Hormuz Crossings — Ownership Transparency Through the Mou Cycle](../../images/6a5e2e20a182401aef289bc4_7eaa3f19.jpeg)
 
 > **Figure 7: Strait of Hormuz Crossings — Ownership Transparency Through the Mou Cycle**  
 > *Figure 7c. Crossings by cargo type — crude tanker classes vs clean/chemical carriers, by phase. Strait of Hormuz crossings: AXSMarine · data as of 15 July 2026*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a5e2e20a182401aef289bc4_7eaa3f19.jpeg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](../../images/6a5e2e20a182401aef289bc4_7eaa3f19.jpeg)
 
 **Strait crossings (AXSMarine):** Transparent-owner share — war 36% · MoU 67% · from 6 Jul 45%  ·  From 6 Jul: 100% opaque, dark or Iran/Oman-routed, 50% dark  ·  Crude 49% (VLCC 41 of 51)
 

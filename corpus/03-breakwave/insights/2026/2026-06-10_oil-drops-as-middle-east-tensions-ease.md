@@ -27,7 +27,7 @@ The energy sector slumped on signs of weaker demand. Industrial metals were mixe
 ![Στιγμιότυπο Οθόνης 2026 06 10 160141](assets/2026-06-10_oil-drops-as-middle-east-tensions-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_50f2b2c1625c.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 06 10 160141**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-10_oil-drops-as-middle-east-tensions-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_50f2b2c1625c.png)
+> [Local Asset](assets/2026-06-10_oil-drops-as-middle-east-tensions-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_50f2b2c1625c.png)
 
 ### Market Commentary
 
@@ -46,7 +46,7 @@ Aluminium is the metal most exposed to the Middle East conflict, as the region a
 ![Στιγμιότυπο Οθόνης 2026 06 10 160232](assets/2026-06-10_oil-drops-as-middle-east-tensions-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_214e3240e89d.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 06 10 160232**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-10_oil-drops-as-middle-east-tensions-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_214e3240e89d.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2026-06-10_oil-drops-as-middle-east-tensions-ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_214e3240e89d.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

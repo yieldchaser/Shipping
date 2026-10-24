@@ -65,7 +65,7 @@ Globally, lower demand for seaborne transportation of coal in the spot market ha
 ![Στιγμιότυπο Οθόνης 2025 02 17 170752](assets/2025-02-17_commodity-markets-volatility_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21b34cbc335c.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 02 17 170752**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-17_commodity-markets-volatility_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21b34cbc335c.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2025-02-17_commodity-markets-volatility_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21b34cbc335c.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

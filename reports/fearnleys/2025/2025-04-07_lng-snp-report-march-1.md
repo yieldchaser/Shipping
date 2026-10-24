@@ -26,19 +26,19 @@ Our assessment remains that older ST vessels within the fleet are more inclined 
 ![Recent sales](../images/ff74f42b-ce90-4210-91c0-8637d3b34daa/latest%20sales.png)
 
 > **Figure 1: Recent sales**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/latest%20sales.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ff74f42b-ce90-4210-91c0-8637d3b34daa/latest sales.png)
+> [Local Asset](../../../corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/latest%20sales.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ff74f42b-ce90-4210-91c0-8637d3b34daa/latest sales.png)
 
 
 ![Yearly sales](../images/ff74f42b-ce90-4210-91c0-8637d3b34daa/yearly%20sales.png)
 
 > **Figure 2: Yearly sales**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/yearly%20sales.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ff74f42b-ce90-4210-91c0-8637d3b34daa/yearly sales.png)
+> [Local Asset](../../../corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/yearly%20sales.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ff74f42b-ce90-4210-91c0-8637d3b34daa/yearly sales.png)
 
 
 ![Asset values](../images/ff74f42b-ce90-4210-91c0-8637d3b34daa/asset%20values.png)
 
 > **Figure 3: Asset values**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/asset%20values.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ff74f42b-ce90-4210-91c0-8637d3b34daa/asset values.png)
+> [Local Asset](../../../corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/asset%20values.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ff74f42b-ce90-4210-91c0-8637d3b34daa/asset values.png)
 
 
 ## Newbuilding update
@@ -51,19 +51,19 @@ If there is interest in the SSLNG and LNGBV business, please reach out and we wi
 ![Recent orders](../images/ff74f42b-ce90-4210-91c0-8637d3b34daa/latest%20orders.png)
 
 > **Figure 4: Recent orders**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/latest%20orders.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ff74f42b-ce90-4210-91c0-8637d3b34daa/latest orders.png)
+> [Local Asset](../../../corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/latest%20orders.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ff74f42b-ce90-4210-91c0-8637d3b34daa/latest orders.png)
 
 
 ![Deliveries incl. orderbook](../images/ff74f42b-ce90-4210-91c0-8637d3b34daa/yearly%20deliveries.png)
 
 > **Figure 5: Deliveries incl. orderbook**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/yearly%20deliveries.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ff74f42b-ce90-4210-91c0-8637d3b34daa/yearly deliveries.png)
+> [Local Asset](../../../corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/yearly%20deliveries.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ff74f42b-ce90-4210-91c0-8637d3b34daa/yearly deliveries.png)
 
 
 ![LNGC orders](../images/ff74f42b-ce90-4210-91c0-8637d3b34daa/yearly%20orders.png)
 
 > **Figure 6: LNGC orders**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/yearly%20orders.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ff74f42b-ce90-4210-91c0-8637d3b34daa/yearly orders.png)
+> [Local Asset](../../../corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/yearly%20orders.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ff74f42b-ce90-4210-91c0-8637d3b34daa/yearly orders.png)
 
 
 ## Interest rates
@@ -78,13 +78,13 @@ The level of uncertainty on a macro level is at its highest since COVID - and al
 ![Interest rate (90 day avg. SOFR)](../images/ff74f42b-ce90-4210-91c0-8637d3b34daa/sofr.png)
 
 > **Figure 7: Interest rate (90 day avg. SOFR)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/sofr.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ff74f42b-ce90-4210-91c0-8637d3b34daa/sofr.png)
+> [Local Asset](../../../corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/sofr.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ff74f42b-ce90-4210-91c0-8637d3b34daa/sofr.png)
 
 
 ![10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity](../images/ff74f42b-ce90-4210-91c0-8637d3b34daa/10y2y.png)
 
 > **Figure 8: 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/10y2y.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ff74f42b-ce90-4210-91c0-8637d3b34daa/10y2y.png)
+> [Local Asset](../../../corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/10y2y.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ff74f42b-ce90-4210-91c0-8637d3b34daa/10y2y.png)
 
 
 ## Recycling
@@ -93,7 +93,7 @@ The level of uncertainty on a macro level is at its highest since COVID - and al
 ![Demolition price (large tanker)](../images/ff74f42b-ce90-4210-91c0-8637d3b34daa/Demo%20price.png)
 
 > **Figure 9: Demolition price (large tanker)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/Demo%20price.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ff74f42b-ce90-4210-91c0-8637d3b34daa/Demo price.png)
+> [Local Asset](../../../corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/Demo%20price.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ff74f42b-ce90-4210-91c0-8637d3b34daa/Demo price.png)
 
 
 ## World fleet at a glance
@@ -102,16 +102,16 @@ The level of uncertainty on a macro level is at its highest since COVID - and al
 ![Live fleet by propulsion](../images/ff74f42b-ce90-4210-91c0-8637d3b34daa/by%20propulsion.png)
 
 > **Figure 10: Live fleet by propulsion**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/by%20propulsion.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ff74f42b-ce90-4210-91c0-8637d3b34daa/by propulsion.png)
+> [Local Asset](../../../corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/by%20propulsion.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ff74f42b-ce90-4210-91c0-8637d3b34daa/by propulsion.png)
 
 
 ![Total fleet](../images/ff74f42b-ce90-4210-91c0-8637d3b34daa/by%20status.png)
 
 > **Figure 11: Total fleet**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/by%20status.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ff74f42b-ce90-4210-91c0-8637d3b34daa/by status.png)
+> [Local Asset](../../../corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/by%20status.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ff74f42b-ce90-4210-91c0-8637d3b34daa/by status.png)
 
 
 ![LNGC fleet by propulsion and delivery year](../images/ff74f42b-ce90-4210-91c0-8637d3b34daa/fleet%20by%20delivery%20and%20propulsion.png)
 
 > **Figure 12: LNGC fleet by propulsion and delivery year**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/fleet%20by%20delivery%20and%20propulsion.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ff74f42b-ce90-4210-91c0-8637d3b34daa/fleet by delivery and propulsion.png)
+> [Local Asset](../../../corpus/01-brokers/fearnleys-md/images/ff74f42b-ce90-4210-91c0-8637d3b34daa/fleet%20by%20delivery%20and%20propulsion.png) | [Cloud Backup](https://pbrkapp.blob.core.windows.net/report/ff74f42b-ce90-4210-91c0-8637d3b34daa/fleet by delivery and propulsion.png)

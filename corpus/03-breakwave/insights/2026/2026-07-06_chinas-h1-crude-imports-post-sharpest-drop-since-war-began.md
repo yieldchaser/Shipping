@@ -47,7 +47,7 @@ Preliminary tracking for July 2026, combined with a modeled month-end estimate, 
 ![Στιγμιότυπο Οθόνης 2026 07 06 110643](assets/2026-07-06_chinas-h1-crude-imports-post-sharpest-drop-since-war-began_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_272c294a565f.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 07 06 110643**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/2026-07-03/2s8lt1/625244241/h/NKebvtXkKIg0QHLqG1n3oNmvpsbvAAuk5gLa1TGbfcY) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-06_chinas-h1-crude-imports-post-sharpest-drop-since-war-began_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_272c294a565f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/2026-07-03/2s8lt1/625244241/h/NKebvtXkKIg0QHLqG1n3oNmvpsbvAAuk5gLa1TGbfcY) | [Local Asset](assets/2026-07-06_chinas-h1-crude-imports-post-sharpest-drop-since-war-began_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_272c294a565f.png)
 
 ### Key Year-on-Year Moves: Jan +13.5% · May -46.8% · July -41.0% (Est.)
 
@@ -56,7 +56,7 @@ Preliminary tracking for July 2026, combined with a modeled month-end estimate, 
 ![Στιγμιότυπο Οθόνης 2026 07 06 110744](assets/2026-07-06_chinas-h1-crude-imports-post-sharpest-drop-since-war-began_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ab44dd465f83.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 07 06 110744**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/2026-07-03/2s8lt1/625244241/h/NKebvtXkKIg0QHLqG1n3oNmvpsbvAAuk5gLa1TGbfcY) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-06_chinas-h1-crude-imports-post-sharpest-drop-since-war-began_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ab44dd465f83.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/2026-07-03/2s8lt1/625244241/h/NKebvtXkKIg0QHLqG1n3oNmvpsbvAAuk5gLa1TGbfcY) | [Local Asset](assets/2026-07-06_chinas-h1-crude-imports-post-sharpest-drop-since-war-began_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ab44dd465f83.png)
 
 ## Freight Market Overview - Dirty
 
@@ -67,7 +67,7 @@ As of early July 2026, the Baltic Dirty Tanker Index had eased sharply to 1,850 
 ![Στιγμιότυπο Οθόνης 2026 07 06 110830](assets/2026-07-06_chinas-h1-crude-imports-post-sharpest-drop-since-war-began_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f06c4768af59.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 07 06 110830**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/2026-07-03/2s8lt1/625244241/h/NKebvtXkKIg0QHLqG1n3oNmvpsbvAAuk5gLa1TGbfcY) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-06_chinas-h1-crude-imports-post-sharpest-drop-since-war-began_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f06c4768af59.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/2026-07-03/2s8lt1/625244241/h/NKebvtXkKIg0QHLqG1n3oNmvpsbvAAuk5gLa1TGbfcY) | [Local Asset](assets/2026-07-06_chinas-h1-crude-imports-post-sharpest-drop-since-war-began_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f06c4768af59.png)
 
 ## Dirty VLCC
 
@@ -78,7 +78,7 @@ As of early July 2026, the Baltic Dirty Tanker Index had eased sharply to 1,850 
 ![Στιγμιότυπο Οθόνης 2026 07 06 110910](assets/2026-07-06_chinas-h1-crude-imports-post-sharpest-drop-since-war-began_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a60e7e07a90f.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2026 07 06 110910**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/2026-07-03/2s8lt1/625244241/h/NKebvtXkKIg0QHLqG1n3oNmvpsbvAAuk5gLa1TGbfcY) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-06_chinas-h1-crude-imports-post-sharpest-drop-since-war-began_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a60e7e07a90f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/2026-07-03/2s8lt1/625244241/h/NKebvtXkKIg0QHLqG1n3oNmvpsbvAAuk5gLa1TGbfcY) | [Local Asset](assets/2026-07-06_chinas-h1-crude-imports-post-sharpest-drop-since-war-began_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a60e7e07a90f.png)
 
 ### Time-Charter-Equivalent Earnings: The Ag–china Route Correction
 
@@ -93,7 +93,7 @@ The latest round of indirect US–Iran talks in Doha on July 1 underscored that 
 ![Στιγμιότυπο Οθόνης 2026 07 06 110957](assets/2026-07-06_chinas-h1-crude-imports-post-sharpest-drop-since-war-began_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b5716ea70fb1.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2026 07 06 110957**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/2026-07-03/2s8lt1/625244241/h/NKebvtXkKIg0QHLqG1n3oNmvpsbvAAuk5gLa1TGbfcY) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-06_chinas-h1-crude-imports-post-sharpest-drop-since-war-began_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b5716ea70fb1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/2026-07-03/2s8lt1/625244241/h/NKebvtXkKIg0QHLqG1n3oNmvpsbvAAuk5gLa1TGbfcY) | [Local Asset](assets/2026-07-06_chinas-h1-crude-imports-post-sharpest-drop-since-war-began_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b5716ea70fb1.png)
 
 ## Supply Market Trends
 
@@ -108,7 +108,7 @@ This week, the VLCC AG market takes centre stage, where signals of an oversuppli
 ![Στιγμιότυπο Οθόνης 2026 07 06 111041](assets/2026-07-06_chinas-h1-crude-imports-post-sharpest-drop-since-war-began_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7484421ef01b.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2026 07 06 111041**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-06_chinas-h1-crude-imports-post-sharpest-drop-since-war-began_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7484421ef01b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-07-06_chinas-h1-crude-imports-post-sharpest-drop-since-war-began_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7484421ef01b.png)
 
 The latest indicators point to an upward trend in the net supply for the Arabian Gulf during the last 15 days, with the latest estimate at 160, up 22% W-o-W.
 
@@ -117,7 +117,7 @@ The latest indicators point to an upward trend in the net supply for the Arabian
 ![Στιγμιότυπο Οθόνης 2026 07 06 111119](assets/2026-07-06_chinas-h1-crude-imports-post-sharpest-drop-since-war-began_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9cd42ed8ef0b.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2026 07 06 111119**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-06_chinas-h1-crude-imports-post-sharpest-drop-since-war-began_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9cd42ed8ef0b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-07-06_chinas-h1-crude-imports-post-sharpest-drop-since-war-began_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9cd42ed8ef0b.png)
 
 ## Dirty Demand (Tonne Miles) | 7d Ma - Index View
 
@@ -129,7 +129,7 @@ The latest indicators point to an upward trend in the net supply for the Arabian
 
 > **Figure 8: Metrics Description: Index View (Base 100) by Total Tonne Miles**  
 > *Metrics Description: Index View (Base 100) by total Tonne Miles over the selected period. This facilitates relative performance comparisons between segments of different sizes (e.g., comparing the growth rate of VLCC vs Suezmax)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-06_chinas-h1-crude-imports-post-sharpest-drop-since-war-began_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1db9a16b5d28.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-07-06_chinas-h1-crude-imports-post-sharpest-drop-since-war-began_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1db9a16b5d28.png)
 
 VLCC tonne-mile demand extended its outperformance, rising 6.1 ppts WoW to 142.4% and remaining above historical norms. Suezmaxes recorded a further improvement of 4.6 ppts WoW to 100.1%, returning above the 100% parity threshold. By contrast, Aframax tonne-mile demand softened only marginally, declining 0.6 ppts WoW to 96.1%, indicating almost stable underlying demand.
 

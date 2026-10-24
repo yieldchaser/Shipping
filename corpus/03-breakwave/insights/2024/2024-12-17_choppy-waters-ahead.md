@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-12-17_choppy-waters-ahead.h
 ![Crude Oil Tanker Skinny](assets/2024-12-17_choppy-waters-ahead_img_crude-oil-tanker-skinny_e026b53e567d.jpg)
 
 > **Figure 1: Crude Oil Tanker Skinny**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-17_choppy-waters-ahead_img_crude-oil-tanker-skinny_e026b53e567d.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-12-17_choppy-waters-ahead_img_crude-oil-tanker-skinny_e026b53e567d.jpg)
 
 In recent years, the tanker market has faced quite a few tailwinds. Structurally, the industry has benefitted from the colossal gains in tanker tonne miles following sanctions on Russia, the exit of aging tonnage into the grey fleet and minimal new deliveries. This year, the rerouting via Cape of Good Hope has also supported the clean tanker market.
 
@@ -38,7 +38,7 @@ Much uncertainty, however, surrounds the OPEC+ production strategy. Although the
 ![Στιγμιότυπο Οθόνης 2024 12 17 122033](assets/2024-12-17_choppy-waters-ahead_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c2620e1b06d.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 12 17 122033**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-17_choppy-waters-ahead_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c2620e1b06d.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-12-17_choppy-waters-ahead_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c2620e1b06d.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

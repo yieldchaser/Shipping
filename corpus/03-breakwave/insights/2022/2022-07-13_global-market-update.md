@@ -56,6 +56,6 @@ The recent disruptions due to the weather conditions have affected ordering acti
 ![Market Chart 1](assets/2022-07-13_global-market-update_img_unnamed283729_6a09c1ae8801.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-13_global-market-update_img_unnamed283729_6a09c1ae8801.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-07-13_global-market-update_img_unnamed283729_6a09c1ae8801.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

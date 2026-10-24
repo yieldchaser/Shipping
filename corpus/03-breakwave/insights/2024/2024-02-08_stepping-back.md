@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-02-08_stepping-back.html"
 ![Gibson Report 2](assets/2024-02-08_stepping-back_img_gibsonreport2_fb6f869b3cec.jpg)
 
 > **Figure 1: Gibson Report 2**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-08_stepping-back_img_gibsonreport2_fb6f869b3cec.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-02-08_stepping-back_img_gibsonreport2_fb6f869b3cec.jpg)
 
 Despite a partial lifting of sanctions against Venezuela in October last year, the US is now set to reimpose sanctions on the country’s oil industry in April, due to insufficient progress towards holding free and fair presidential elections; a key condition of sustained sanctions relief. The original deal which was to last for a period of six months, saw the return of Venezuelan crude to the mainstream market and an increase in cargo liftings by largely non dark fleet tankers as traders and charterers became confident in lifting Venezuelan barrels once again.
 
@@ -41,6 +41,6 @@ Given current oil prices, it is clear that the Biden Administration does not cur
 ![Screenshot 2024 02 08 17.00.29](assets/2024-02-08_stepping-back_img_screenshot2024-02-08170029_3b6c9fccf271.png)
 
 > **Figure 2: Screenshot 2024 02 08 17.00.29**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-08_stepping-back_img_screenshot2024-02-08170029_3b6c9fccf271.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-02-08_stepping-back_img_screenshot2024-02-08170029_3b6c9fccf271.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)

@@ -33,7 +33,7 @@ The EU announced a ban on all new purchases of Russian coal shortly after the wa
 ![241](assets/2022-08-12_the-big-picture-eu-coal-sanctions_img_241_a58142efb27c.png)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-12_the-big-picture-eu-coal-sanctions_img_241_a58142efb27c.png)
+> [Local Asset](assets/2022-08-12_the-big-picture-eu-coal-sanctions_img_241_a58142efb27c.png)
 
 This comes at a time when Europe’s energy picture continues to look weaker heading into the winter months. Several coal power stations due to be decommissioned will now remain operational, confirming the bloc has little choice but to revert to coal burn for energy. This improves seaborne coal trade expectations going forward.
 
@@ -45,7 +45,7 @@ Perhaps a surprise to some, European coal imports have slowed in recent months d
 
 > **Figure 2: As We Have Noted Previously**  
 > *As we have noted previously, there have been several constraints facing most of Europe’s alternative coal suppliers. From the US, shipments are at capacity and thus we do not expect any substantial increase from the 2.5m tonnes per month on average since the war started. The rains and disruptions in east Australia are starting to subside and shipments are ramping up again, which bodes well for backhaul flows. As we noted in this week’sResearch Update, in South Africa the rail network from mine-to-port has enhanced security measures against stolen cables. However, this has yet to show in the country’s export volumes. In July, South Africa exported 4.8m tonnes of coal, declining by 10.8% YoY. As the rail improvements take shape we expect to see an increase in coal shipments out of South Africa, largely to the benefit of European buyers. The easing of these supply constraints raises the likelihood Europe can wholly replace Russian coal as the bloc appears willing to pay any price to maintain energy supplies.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-12_the-big-picture-eu-coal-sanctions_img_242_221a03eb4424.png)
+> [Local Asset](assets/2022-08-12_the-big-picture-eu-coal-sanctions_img_242_221a03eb4424.png)
 
 For the coal producers we expect Europe to import from going forward, volumes have improved but have not yet proven they can fully replace the lost Russian volumes. The extent to which this is currently possible is limited, but improving. Some miners are reportedly switching coking coal to thermal, particularly lower-grade met, as thermal coal prices achieve a considerable premium to coking.
 
@@ -58,7 +58,7 @@ The downside to the increase in vessels arriving into Europe with coal, particul
 ![243](assets/2022-08-12_the-big-picture-eu-coal-sanctions_img_243_5d0e5101525e.png)
 
 > **Figure 3: 243**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-12_the-big-picture-eu-coal-sanctions_img_243_5d0e5101525e.png)
+> [Local Asset](assets/2022-08-12_the-big-picture-eu-coal-sanctions_img_243_5d0e5101525e.png)
 
 ### Indonesian Capacity Reduced
 

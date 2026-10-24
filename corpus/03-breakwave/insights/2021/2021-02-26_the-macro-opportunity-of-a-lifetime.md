@@ -27,7 +27,7 @@ The value proposition for buying commodities and selling stocks has never been s
 ![Crescat Capital](assets/2021-02-26_the-macro-opportunity-of-a-lifetime_img_image-asset_2210568c8be1.jpeg)
 
 > **Figure 1: Crescat Capital**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/2/10/the-un-correlated-nature-of-dry-bulk-stocks) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-26_the-macro-opportunity-of-a-lifetime_img_image-asset_2210568c8be1.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/2/10/the-un-correlated-nature-of-dry-bulk-stocks) | [Local Asset](assets/2021-02-26_the-macro-opportunity-of-a-lifetime_img_image-asset_2210568c8be1.jpeg)
 
 Everyone fromto**Bank of America**to**Ospraie Management**are calling for a commodities bull market as government stimulus kicks in and vaccines are deployed around the world to fight the coronavirus. Investing luminaries from**Point72**to**Pimco**are calling for commodity prices to move higher.
 
@@ -43,7 +43,7 @@ According to**Daniel Sullivan**, Head of Global Natural Resources at**Janus Hend
 
 > **Figure 2: Source: Stifel Report June 2020**  
 > *Source: Stifel Report June 2020. Note: Shown as 10yr rolling compound growth rate with polynomial trend at tops and bottoms. Blue dotted line illustrates a forecast estimation. Source: Warren & Pearson Commodity Index (1795-1912), WPI Commodities (1913-1925), equal-weighted (1/3rd ea.) PPI Energy, PPI Farm Products and PPI Metals (Ferrous and Non-Ferrous) ex-precious metals (1926-1956), Refinitiv Equal Weight (CCI) Index (1956-1994), and Refinitiv Core Commodity CRB Index (1994 to present).*  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/2/10/the-un-correlated-nature-of-dry-bulk-stocks) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-26_the-macro-opportunity-of-a-lifetime_img_image-asset_4c50c0cc4430.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/2/10/the-un-correlated-nature-of-dry-bulk-stocks) | [Local Asset](assets/2021-02-26_the-macro-opportunity-of-a-lifetime_img_image-asset_4c50c0cc4430.png)
 
 In China, rising infrastructure spending, rate cuts, increasing pressure to the local governments to support the auto industry and some relaxation of housing policies are all positive for metals demand. The copper price, which is often seen as a bellwether for global economic growth, has gained a massive 50% to US$3/lb since the lows in March 2020, while gold has set a new record high of US$2,000/oz. Silver, rare earth metals and uranium are also emerging quickly from a long slow period of sub-par returns and we believe other commodities are likely to follow.
 
@@ -52,7 +52,7 @@ In China, rising infrastructure spending, rate cuts, increasing pressure to the 
 ![Goldman Sachs](assets/2021-02-26_the-macro-opportunity-of-a-lifetime_img_image-asset_da7ac2f097d5.jpeg)
 
 > **Figure 3: Goldman Sachs**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/2/10/the-un-correlated-nature-of-dry-bulk-stocks) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-26_the-macro-opportunity-of-a-lifetime_img_image-asset_da7ac2f097d5.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/2/10/the-un-correlated-nature-of-dry-bulk-stocks) | [Local Asset](assets/2021-02-26_the-macro-opportunity-of-a-lifetime_img_image-asset_da7ac2f097d5.jpeg)
 
 ### Iron Ore Market Seen As the Cornerstone of a New Commodities Super Cycle
 
@@ -69,7 +69,7 @@ Current steel production in China is around 1.1 billion tonnes per year and has 
 ![Mark Eames](assets/2021-02-26_the-macro-opportunity-of-a-lifetime_img_image-asset_6d2194c6d3b4.png)
 
 > **Figure 4: Mark Eames**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/2/10/the-un-correlated-nature-of-dry-bulk-stocks) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-26_the-macro-opportunity-of-a-lifetime_img_image-asset_6d2194c6d3b4.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/2/10/the-un-correlated-nature-of-dry-bulk-stocks) | [Local Asset](assets/2021-02-26_the-macro-opportunity-of-a-lifetime_img_image-asset_6d2194c6d3b4.png)
 
 **“In the years to come, it’s highly probable that a great many investors will look back on 2020 and wonder how they missed these signs of a new commodity bull market”**
 
@@ -92,7 +92,7 @@ China’s economy is gradually recovering to pre-pandemic levels, with factory o
 ![Erling Naess](assets/2021-02-26_the-macro-opportunity-of-a-lifetime_img_erlingnaess_6e808382cad7.jpg)
 
 > **Figure 5: Erling Naess**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/2/10/the-un-correlated-nature-of-dry-bulk-stocks) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-26_the-macro-opportunity-of-a-lifetime_img_erlingnaess_6e808382cad7.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2021/2/10/the-un-correlated-nature-of-dry-bulk-stocks) | [Local Asset](assets/2021-02-26_the-macro-opportunity-of-a-lifetime_img_erlingnaess_6e808382cad7.jpg)
 
 Erling Naess
 

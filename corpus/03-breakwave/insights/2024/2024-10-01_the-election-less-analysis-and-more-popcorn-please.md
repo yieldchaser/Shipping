@@ -39,42 +39,42 @@ We decided to put the notion to the test. We run equity returns per president si
 ![Market Chart 1](assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_img_image007_90c1a8c47bc4.jpg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Vanderbilt](https://www.vanderbilt.edu/unity/vanderbilt-unity-index/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_img_image007_90c1a8c47bc4.jpg)
+> **Interactive Data & Source:** [Vanderbilt](https://www.vanderbilt.edu/unity/vanderbilt-unity-index/) | [Local Asset](assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_img_image007_90c1a8c47bc4.jpg)
 
 We went again to the drawing board. Maybe it wasn’t a matter of the President but of The House, the chamber which controls the budget. Democrats controlled The House for most of the 1970’s, 1980s and up to 1995. Republicans took over from 1995 (the Gingrich Revolution) to 2005, and then the House began to shift more often. No conclusive data came from studying those periods, in terms of judging whether a party was “better” for a particular risk asset. Equity returns were slightly worse for Democrats who were in charge during the 1970s and the 2007-8 Global Financial Crisis, but for similar reasons, they outperformed in bonds. The exact opposite picture we had of Presidents.
 
 ![Market Chart 2](assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_img_image008_6387a137aec5.jpg)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Vanderbilt](https://www.vanderbilt.edu/unity/vanderbilt-unity-index/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_img_image008_6387a137aec5.jpg)
+> **Interactive Data & Source:** [Vanderbilt](https://www.vanderbilt.edu/unity/vanderbilt-unity-index/) | [Local Asset](assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_img_image008_6387a137aec5.jpg)
 
 The reality is, that politics matter but possibly over the longer term, and it is impossible to determine a time frame. As Mr Bush struggled with the consequences of bank deregulation 20-year period with consequences playing out 15 years later, Mr Biden struggled with the massive expansion of monetary policy during the reign of his predecessor and ensuing inflation only two years later.
 
 ![Market Chart 3](assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_img_image009_553d4774e75d.jpg)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Vanderbilt](https://www.vanderbilt.edu/unity/vanderbilt-unity-index/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_img_image009_553d4774e75d.jpg)
+> **Interactive Data & Source:** [Vanderbilt](https://www.vanderbilt.edu/unity/vanderbilt-unity-index/) | [Local Asset](assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_img_image009_553d4774e75d.jpg)
 
 One way to possibly see the election is not to guess who will win (it’s currently very near a coin toss) but rather what the political picture as a whole looks like. And the picture is one of extreme division. Vanderbilt University[built](https://www.vanderbilt.edu/unity/vanderbilt-unity-index/)an index in 2021 to look at what political divisions looked like. As one would guess, these run very high.
 
 ![Market Chart 4](assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_img_image010_4f64cd3f6079.jpg)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Weforum](https://www.weforum.org/agenda/2024/07/global-democracy-charts-2024-trends-insights-election/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_img_image010_4f64cd3f6079.jpg)
+> **Interactive Data & Source:** [Weforum](https://www.weforum.org/agenda/2024/07/global-democracy-charts-2024-trends-insights-election/) | [Local Asset](assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_img_image010_4f64cd3f6079.jpg)
 
 This is why, over the short term, the World Economic Forum has[decreed](https://www.weforum.org/agenda/2024/07/global-democracy-charts-2024-trends-insights-election/)that misinformation and disinformation, along with social polarisation are two of the three biggest short-term risks (the other is climate change, which is no longer a long-term risk). Americans feel universally “[losing](https://www.pewresearch.org/short-reads/2024/02/12/most-americans-continue-to-say-their-side-in-politics-is-losing-more-often-than-it-is-winning/)” in politics, on either side of the aisle. The picture is one where the world’s biggest economy (and military) is risking its cohesion. So maybe the larger question is whether events will play out for US risk assets to lose their natural primacy over global risk assets.
 
 ![Market Chart 5](assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_img_image011_35c721c4fde1.jpg)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_img_image011_35c721c4fde1.jpg)
+> [Local Asset](assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_img_image011_35c721c4fde1.jpg)
 
 Maybe it’s not the politics at all, but the central bank which determines the course of financial markets. Our textbooks certainly suggest as much. However, some experts argue back. Aswath Damodaran, author of many such a textbook,[suggests](assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_fed-up-with-fed-talk-central-banks_c7e8af43139b.html)that the correlation between bond prices and central bank decisions is very low. The Fed can influence things during a crisis, but outside of it, its power is limited. FT’s Martin Sandbu[authored](https://www.ft.com/content/5fdb1180-142e-4b0e-b4ae-b068f2b3cf00?emailId=92722ecf-df9e-4f10-90ee-3e3661377e27&segmentId=38af067e-f67a-09ef-7f9d-cb40b4153a58)a piece in a similar vein. With China slowing possibly precipitously, developed central banks can afford to ignore high service inflation and cut interest rates more aggressively.
 
 ![Market Chart 6](assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_img_image012_bc3c68698fed.jpg)
 
 > **Figure 6: Market Chart 6**  
-> **Interactive Data & Source:** [Papers Ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4965616) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_img_image012_bc3c68698fed.jpg)
+> **Interactive Data & Source:** [Papers Ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4965616) | [Local Asset](assets/2024-10-01_the-election-less-analysis-and-more-popcorn-please_img_image012_bc3c68698fed.jpg)
 
 But the problem remains: we see the risks, but don’t know the outcomes. What if we knew the future? Even then, a paper argues, there would be precious little we could do about it. A[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4965616)by Victor Haghani and James White suggests that even when traders know exactly what will happen in the future (traders were given past newspapers, with all the events on particular dates, except actual market prices) it’s still extremely difficult to make any money, except if you are experienced enough and lucky enough to know in which events one should “bet big”. So not only would it require foreknowledge of the future, but also luck to assess its impact properly.
 

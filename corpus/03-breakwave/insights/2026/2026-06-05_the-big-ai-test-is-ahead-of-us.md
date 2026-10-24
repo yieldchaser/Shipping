@@ -45,7 +45,7 @@ At the same time, they also blew past comments from the Fed’s newly installed 
 ![Market Chart 1](assets/2026-06-05_the-big-ai-test-is-ahead-of-us_img_image005_7375983987c0.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-05_the-big-ai-test-is-ahead-of-us_img_image005_7375983987c0.png)
+> [Local Asset](assets/2026-06-05_the-big-ai-test-is-ahead-of-us_img_image005_7375983987c0.png)
 
 Why ignore the biggest geopolitical challenge since 9/11 and the new Fed Chair’s first comments? Because narrative matters, as Nobel laureates Robert Shiller and George Akerlof would argue in their “Animal Spirits (2009)” book. And the dominant narrative, in this particular era, is not about geopolitics or the Fed. It is about AI.
 
@@ -60,7 +60,7 @@ The second risk is simple fundamentals. Ambitions are big, but valuations could 
 ![Market Chart 2](assets/2026-06-05_the-big-ai-test-is-ahead-of-us_img_image006_3b7d8fa3ac0a.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-05_the-big-ai-test-is-ahead-of-us_img_image006_3b7d8fa3ac0a.png)
+> [Local Asset](assets/2026-06-05_the-big-ai-test-is-ahead-of-us_img_image006_3b7d8fa3ac0a.png)
 
 The third risk is geopolitical. The AI race is not just a business one. It’s primarily geopolitical and geoeconomic. American AI companies are already backed by generous legislation in hopes of providing the US with a strategic advantage over China. However, they are not state-backed so they are entering the stock market to find more funding from private investors. Those investors would have to buy
 

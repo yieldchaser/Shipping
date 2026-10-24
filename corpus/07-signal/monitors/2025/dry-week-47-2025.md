@@ -43,7 +43,7 @@ tags:
 ![Spotlight of the Week: Market Pulse | Capesize Freight Market Overview](../../images/6920679bbbc99ee1728b2326_834567f9.png)
 
 > **Figure 1: Spotlight of the Week: Market Pulse | Capesize Freight Market Overview**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-47-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6920679bbbc99ee1728b2326_834567f9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-47-2025) | [Local Asset](../../images/6920679bbbc99ee1728b2326_834567f9.png)
 
 [https://app.signalocean.com/dry/dynamic/market-prices-dry](https://app.signalocean.com/dry/dynamic/market-prices-dry)
 
@@ -59,7 +59,7 @@ Over the past month, Atlantic Capesize sentiment has firmed as the ballaster sup
 
 > **Figure 2: Https://app.signalocean.com/dry/dynamic/capesinsightsdownloadable**  
 > *https://app.signalocean.com/dry/dynamic/capes_insights_downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-47-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6920679bbbc99ee1728b232b_2d6d0b61.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-47-2025) | [Local Asset](../../images/6920679bbbc99ee1728b232b_2d6d0b61.png)
 
 
 ## West Australia Capesize Daily Volume Loaded
@@ -71,7 +71,7 @@ In the Pacific, C5 sentiment has softened as November’s West Australian daily 
 
 > **Figure 3: Https://app.signalocean.com/dry/dynamic/capesinsightsdownloadable**  
 > *https://app.signalocean.com/dry/dynamic/capes_insights_downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-47-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6920679bbbc99ee1728b2323_fdfe4020.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-47-2025) | [Local Asset](../../images/6920679bbbc99ee1728b2323_fdfe4020.png)
 
 The key question is no longer whether Simandou will matter, but how quickly new supply corridors will alter medium and long-term capesize freight demand and vessel utilisation.
 

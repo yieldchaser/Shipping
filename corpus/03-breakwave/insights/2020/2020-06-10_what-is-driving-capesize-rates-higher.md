@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-06-10_what-is-driving-capes
 ![Market Chart 1](assets/2020-06-10_what-is-driving-capesize-rates-higher_img_image-asset_0b09e0d762fe.jpeg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-10_what-is-driving-capesize-rates-higher_img_image-asset_0b09e0d762fe.jpeg)
+> [Local Asset](assets/2020-06-10_what-is-driving-capesize-rates-higher_img_image-asset_0b09e0d762fe.jpeg)
 
 Capesize rates have been increasing steadily in the last few weeks and are up 350% in the last month (although % are not very meaningful for freight), and very soon (maybe tomorrow?) they will reach double digit territory for the first time since mid-April, possibly even hit their highest level in six months. Futures prices have been anticipating such a move to some extent, as rates have recently reached their lowest level for this time of the year ever. The move higher has been surprising to some. Yet, there are a few things in play here to consider following the recent move in Capesize spot rates:
 
@@ -32,7 +32,7 @@ Capesize rates have been increasing steadily in the last few weeks and are up 35
 ![Source: Macquarie Bank, Basis 2018 Results](assets/2020-06-10_what-is-driving-capesize-rates-higher_img_iorn-ore-brekeven-rates-mqg-jan-2018_ecab95dace82.jpg)
 
 > **Figure 2: Source: Macquarie Bank, Basis 2018 Results**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-10_what-is-driving-capesize-rates-higher_img_iorn-ore-brekeven-rates-mqg-jan-2018_ecab95dace82.jpg)
+> [Local Asset](assets/2020-06-10_what-is-driving-capesize-rates-higher_img_iorn-ore-brekeven-rates-mqg-jan-2018_ecab95dace82.jpg)
 
 Source: Macquarie Bank, basis 2018 results
 
@@ -41,7 +41,7 @@ Source: Macquarie Bank, basis 2018 results
 ![Source: Arrow Research](assets/2020-06-10_what-is-driving-capesize-rates-higher_img_arrow_d2d09ee0d34a.jpg)
 
 > **Figure 3: Source: Arrow Research**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-10_what-is-driving-capesize-rates-higher_img_arrow_d2d09ee0d34a.jpg)
+> [Local Asset](assets/2020-06-10_what-is-driving-capesize-rates-higher_img_arrow_d2d09ee0d34a.jpg)
 
 Source: Arrow Research
 
@@ -50,7 +50,7 @@ Source: Arrow Research
 ![Bdryff (Futures Index) vs BDI (Spot Index)](assets/2020-06-10_what-is-driving-capesize-rates-higher_img_bdryffvsbdi_66b2aeb427cb.jpg)
 
 > **Figure 4: Bdryff (Futures Index) vs BDI (Spot Index)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-10_what-is-driving-capesize-rates-higher_img_bdryffvsbdi_66b2aeb427cb.jpg)
+> [Local Asset](assets/2020-06-10_what-is-driving-capesize-rates-higher_img_bdryffvsbdi_66b2aeb427cb.jpg)
 
 BDRYFF (futures index) vs BDI (spot index)
 
@@ -59,7 +59,7 @@ BDRYFF (futures index) vs BDI (spot index)
 ![Average Capesize Speed in Knots](assets/2020-06-10_what-is-driving-capesize-rates-higher_img_capespeed28229_b415d8286163.jpg)
 
 > **Figure 5: Average Capesize Speed in Knots**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-10_what-is-driving-capesize-rates-higher_img_capespeed28229_b415d8286163.jpg)
+> [Local Asset](assets/2020-06-10_what-is-driving-capesize-rates-higher_img_capespeed28229_b415d8286163.jpg)
 
 Average Capesize speed in knots
 
@@ -70,7 +70,7 @@ It is said that history does not repeat itself, but last year the Capesize marke
 ![Brazil Iron Ore Exports](assets/2020-06-10_what-is-driving-capesize-rates-higher_img_brazilironoreexports_aa7d9eecc530.jpg)
 
 > **Figure 6: Brazil Iron Ore Exports**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-10_what-is-driving-capesize-rates-higher_img_brazilironoreexports_aa7d9eecc530.jpg)
+> [Local Asset](assets/2020-06-10_what-is-driving-capesize-rates-higher_img_brazilironoreexports_aa7d9eecc530.jpg)
 
 ---
 

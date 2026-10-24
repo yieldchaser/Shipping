@@ -37,7 +37,7 @@ Overall, the OECD characterises the global outlook as increasingly fragile. A ri
 ![Στιγμιότυπο Οθόνης 2025 06 09 011103](assets/2025-06-09_the-global-economy-continues-to-navigate-a-patchy-recovery_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f26f1d6fe53.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 06 09 011103**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-09_the-global-economy-continues-to-navigate-a-patchy-recovery_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f26f1d6fe53.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-06-09_the-global-economy-continues-to-navigate-a-patchy-recovery_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f26f1d6fe53.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

@@ -30,7 +30,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-05-01_weekly-insights-revie
 ![Monday](assets/2022-05-01_weekly-insights-review_img_monday_8fa5e9ae63a9.jpg)
 
 > **Figure 1: Monday**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/4/25/shipping-decarbonization-weekly-insights) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-01_weekly-insights-review_img_monday_8fa5e9ae63a9.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/4/25/shipping-decarbonization-weekly-insights) | [Local Asset](assets/2022-05-01_weekly-insights-review_img_monday_8fa5e9ae63a9.jpg)
 
 MEPC 78 has been scheduled to take place from June 6 to 10 and MEPC 79 from December 12 to 16. Following on from an earlier submission led by Kiribati, a proposal sent this month by Australia, Canada, Jamaica, Japan, New Zealand, Norway, Solomon Islands, the United Kingdom, and the United States has called for the IMO to revise its 2050 target to ensure shipping is a zero-emissions emitted by 2050.
 
@@ -43,7 +43,7 @@ MEPC 78 has been scheduled to take place from June 6 to 10 and MEPC 79 from Dece
 ![Friday](assets/2022-05-01_weekly-insights-review_img_friday_4a29e3d541fa.jpg)
 
 > **Figure 2: Friday**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/4/28/chinas-coal-production-growth-and-renewable-energy-generation-growth-remain-strong) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-01_weekly-insights-review_img_friday_4a29e3d541fa.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/4/28/chinas-coal-production-growth-and-renewable-energy-generation-growth-remain-strong) | [Local Asset](assets/2022-05-01_weekly-insights-review_img_friday_4a29e3d541fa.jpg)
 
 China’s coal production set another all-time high in March coming in at 395.8 million tons. This is 52.5 million tons (15%) more than was produced in February and is up year-on-year by 55.8 million tons (16%). Overall, we continue to stress that it is concerning for China's coal import prospects that domestic production has remained so strong.
 [Read More](https://www.breakwaveadvisors.com/insights/2022/4/28/chinas-coal-production-growth-and-renewable-energy-generation-growth-remain-strong)
@@ -55,7 +55,7 @@ China’s coal production set another all-time high in March coming in at 395.8 
 ![Tuesday](assets/2022-05-01_weekly-insights-review_img_tuesday_f35177ab9816.jpg)
 
 > **Figure 3: Tuesday**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/4/21/brs-group-annual-review-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-01_weekly-insights-review_img_tuesday_f35177ab9816.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/4/21/brs-group-annual-review-2022) | [Local Asset](assets/2022-05-01_weekly-insights-review_img_tuesday_f35177ab9816.jpg)
 
 The continued lockdowns and other Covid-related restrictions in China have put renewed focus on the long-term outlook for the world's second-largest economy. While the growth rate for the first quarter of the year surprised on the upside, the better-than-expected data highlighted some potential concerns for the coming months.
 
@@ -64,7 +64,7 @@ The continued lockdowns and other Covid-related restrictions in China have put r
 ![Wednesday](assets/2022-05-01_weekly-insights-review_img_wednesday_f5e1b9f059ee.jpg)
 
 > **Figure 4: Wednesday**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/4/22/the-big-picture-supramax-market) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-01_weekly-insights-review_img_wednesday_f5e1b9f059ee.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/4/22/the-big-picture-supramax-market) | [Local Asset](assets/2022-05-01_weekly-insights-review_img_wednesday_f5e1b9f059ee.jpg)
 
 ## Signal Dry Bulk Weekly Report
 
@@ -83,14 +83,14 @@ The first quarter of the year comes with an overall upward trend in the number o
 ![Friday2](assets/2022-05-01_weekly-insights-review_img_friday2_3ad260470f87.jpg)
 
 > **Figure 5: Friday2**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/4/28/time-is-running-out-its-time-to-slow-down) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-01_weekly-insights-review_img_friday2_3ad260470f87.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/4/28/time-is-running-out-its-time-to-slow-down) | [Local Asset](assets/2022-05-01_weekly-insights-review_img_friday2_3ad260470f87.jpg)
 
 ## Time Is Running Out, It’s Time to Slow Down
 
 ![Saturday](assets/2022-05-01_weekly-insights-review_img_saturday_af8ab66907f2.jpg)
 
 > **Figure 6: Saturday**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/4/28/time-is-running-out-its-time-to-slow-down) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-01_weekly-insights-review_img_saturday_af8ab66907f2.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/4/28/time-is-running-out-its-time-to-slow-down) | [Local Asset](assets/2022-05-01_weekly-insights-review_img_saturday_af8ab66907f2.jpg)
 
 ## It Will Become Very Difficult for All Companies That Exist Today to Remain Competitive
 
@@ -102,7 +102,7 @@ Do you remember your first introduction to climate change? Truly remember? Take 
 ![Thursday](assets/2022-05-01_weekly-insights-review_img_thursday_9fdc1f44a72c.jpg)
 
 > **Figure 7: Thursday**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/4/29/poseidon-principles-ampamp-cii-carrot-and-stick-towards-decarbonization-in-shipping) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-01_weekly-insights-review_img_thursday_9fdc1f44a72c.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/4/29/poseidon-principles-ampamp-cii-carrot-and-stick-towards-decarbonization-in-shipping) | [Local Asset](assets/2022-05-01_weekly-insights-review_img_thursday_9fdc1f44a72c.jpg)
 
 ## How Financing Can Separate Sustainable Performance From Hot Air, in Challenged Shipping Sector
 

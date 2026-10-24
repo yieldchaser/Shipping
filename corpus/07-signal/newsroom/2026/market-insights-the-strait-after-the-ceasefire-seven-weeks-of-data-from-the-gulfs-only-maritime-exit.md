@@ -40,7 +40,7 @@ The first operators to move in March were Greek Panamax owners under acute comme
 ![March: The Residual Fleet](../../images/69eb40f47db3470ea6de85f3_AXS_Article3_1.png)
 
 > **Figure 1: March: The Residual Fleet**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-the-strait-after-the-ceasefire-seven-weeks-of-data-from-the-gulfs-only-maritime-exit) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69eb40f47db3470ea6de85f3_AXS_Article3_1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-the-strait-after-the-ceasefire-seven-weeks-of-data-from-the-gulfs-only-maritime-exit) | [Local Asset](../../images/69eb40f47db3470ea6de85f3_AXS_Article3_1.png)
 
 In the tanker segment, the structural signature of a disrupted corridor was already visible. Of the 67 tanker crossings recorded in March, 39 - fully 58% - involved vessels with sanctioned, ghost fleet or opaque ownership profiles. Western-flagged transparent operators accounted for just 21% of March tanker movements. Sanctioned-adjacent and opaque fleets - sanctioned and ghost fleet - were maintaining the thin thread of crude and product flows that conventional operators had abandoned.
 
@@ -50,7 +50,7 @@ Gas carrier traffic was comparatively thin: 21 crossings against a February base
 ![March: The Residual Fleet](../../images/69eb4111d518cc2954ba1932_AXS_Article3_3.png)
 
 > **Figure 2: March: The Residual Fleet**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-the-strait-after-the-ceasefire-seven-weeks-of-data-from-the-gulfs-only-maritime-exit) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69eb4111d518cc2954ba1932_AXS_Article3_3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-the-strait-after-the-ceasefire-seven-weeks-of-data-from-the-gulfs-only-maritime-exit) | [Local Asset](../../images/69eb4111d518cc2954ba1932_AXS_Article3_3.png)
 
 Container ships recorded the most complete withdrawal of any segment. Of 27 March crossings, half involved Iranian-flagged or Iran-owned vessels on domestic routes. The only Western liner operator to move was Maersk’s ASTRID MAERSK (190,567 DWT) on 1 March - the last day before the commercial withdrawal became total. The two COSCO giants CSCL INDIAN OCEAN and CSCL ARCTIC OCEAN (both 184,320 DWT) crossed on 30 March; no comparable vessels followed.
 
@@ -65,7 +65,7 @@ The most significant tanker movement of the entire post-conflict period occurred
 ![April: A Corridor, Not a Recovery](../../images/69eb413979249fa4c35a678c_AXS_Article3_2.png)
 
 > **Figure 3: April: A Corridor, Not a Recovery**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-the-strait-after-the-ceasefire-seven-weeks-of-data-from-the-gulfs-only-maritime-exit) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69eb413979249fa4c35a678c_AXS_Article3_2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-the-strait-after-the-ceasefire-seven-weeks-of-data-from-the-gulfs-only-maritime-exit) | [Local Asset](../../images/69eb413979249fa4c35a678c_AXS_Article3_2.png)
 
 When the US blockade of Iranian ports took effect on 13 April, traffic dipped to 9.2 crossings per day over four days. Notably, Iranian-flagged vessels continued to cross throughout: CLAVEL (50,072 DWT chemical/oil tanker) inbound to Chabahar on 17 April, NESHAT (23,116 DWT MPP) on 16 April. The blockade’s stated scope - restricting vessels entering or leaving Iranian ports while preserving freedom of navigation to non-Iranian ports - created an ambiguity that operators of all nationalities were actively navigating.
 
@@ -82,7 +82,7 @@ The window lasted hours. President Trump confirmed the US blockade of Iranian po
 ![72 Hours That Defined the Period: 17–19 April](../../images/69eb415eef3266af25e84bb7_AXS_Article3_4.png)
 
 > **Figure 4: 72 Hours That Defined the Period: 17–19 April**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-the-strait-after-the-ceasefire-seven-weeks-of-data-from-the-gulfs-only-maritime-exit) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69eb415eef3266af25e84bb7_AXS_Article3_4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-the-strait-after-the-ceasefire-seven-weeks-of-data-from-the-gulfs-only-maritime-exit) | [Local Asset](../../images/69eb415eef3266af25e84bb7_AXS_Article3_4.png)
 
 The three days following the seizure averaged 6.0 crossings per day - the lowest sustained rate since late March. The reopening window had averaged 20.5.
 
@@ -108,7 +108,7 @@ Seven weeks in, the Strait of Hormuz functions at roughly 7–9% of its pre-conf
 ![What the Data Shows](../../images/69eb41747099c7c285f91abf_AXS_Article3_5.png)
 
 > **Figure 5: What the Data Shows**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-the-strait-after-the-ceasefire-seven-weeks-of-data-from-the-gulfs-only-maritime-exit) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69eb41747099c7c285f91abf_AXS_Article3_5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-the-strait-after-the-ceasefire-seven-weeks-of-data-from-the-gulfs-only-maritime-exit) | [Local Asset](../../images/69eb41747099c7c285f91abf_AXS_Article3_5.png)
 
 The 18 April data remains the most important single observation: given the signal, the market responded within hours. The question of when normal traffic resumes is entirely political. The commercial infrastructure to support it is already in place.
 

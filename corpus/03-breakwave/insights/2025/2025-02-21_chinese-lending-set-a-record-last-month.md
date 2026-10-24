@@ -27,14 +27,14 @@ As we discussed in Commodore Research's Weekly China Report, and worthy of much 
 ![Chart 1](assets/2025-02-21_chinese-lending-set-a-record-last-month_img_chart1_962fdb15f83b.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-21_chinese-lending-set-a-record-last-month_img_chart1_962fdb15f83b.jpg)
+> [Local Asset](assets/2025-02-21_chinese-lending-set-a-record-last-month_img_chart1_962fdb15f83b.jpg)
 
 January’s 4% year-on-year growth is also particularly significant considering that during all of 2024, China's new loans contracted year-on-year by 20%. That contraction marked an unfortunate shift as in 2023, China's new loans had increased year-on-year by 7%. Overall, it is a positive development that growth in China's new lending has so far returned. Outstanding loan growth has fallen to 7.5%, which again marks China’s lowest outstanding loan growth seen since tracking began in 1998 — but if new loans are able to continue to maintain their newfound growth, then outstanding loan growth will finally recover as well.
 
 ![Chart 2](assets/2025-02-21_chinese-lending-set-a-record-last-month_img_chart2_2eef02bd04be.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-21_chinese-lending-set-a-record-last-month_img_chart2_2eef02bd04be.jpg)
+> [Local Asset](assets/2025-02-21_chinese-lending-set-a-record-last-month_img_chart2_2eef02bd04be.jpg)
 
 ---
 

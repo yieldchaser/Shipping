@@ -31,7 +31,7 @@ January 29, 2025
 ![Στιγμιότυπο Οθόνης 2025 01 30 111640](assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b53483b47983.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 01 30 111640**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b53483b47983.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b53483b47983.png)
 
 The momentum in the freight market has weakened as we approached the end of January and the onset of the Chinese New Year. The prevailing oversupply situation continues to significantly pressure market sentiment, compounded by a decline in demand for tonne-day growth. In the Capesize segment, we have observed a clear downward trend in tonne-day growth for shipments from Brazil to China, with the performance of the BCI (Baltic Capesize Index) dropping nearly 50% compared to the levels recorded at the same time last year.
 
@@ -42,7 +42,7 @@ Meanwhile, when it comes to iron ore supply, output levels from major producer V
 ![Στιγμιότυπο Οθόνης 2025 01 30 111737](assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2d13a80d924e.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 01 30 111737**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2d13a80d924e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2d13a80d924e.png)
 
 The dry bulk freight market experienced a weakening momentum at the end of January; however, recent sentiment in the freight market remained stronger than at the end of the previous year, despite the Chinese New Year holidays.
 
@@ -54,7 +54,7 @@ The dry bulk freight market experienced a weakening momentum at the end of Janua
 ![Στιγμιότυπο Οθόνης 2025 01 30 111832](assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_36d0d612d220.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 01 30 111832**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_36d0d612d220.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_36d0d612d220.png)
 
 The market saw a significant rise in the number of ballasters, surpassing the annual average for the larger vessel size categories.
 
@@ -66,7 +66,7 @@ The market saw a significant rise in the number of ballasters, surpassing the an
 ![Στιγμιότυπο Οθόνης 2025 01 30 111923](assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_58723b5a59c5.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 01 30 111923**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_58723b5a59c5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_58723b5a59c5.png)
 
 The end of January confirmed a downward trend in dry tonne-day growth across all dry vessel size categories. However, the pace of demand recovery remains uncertain and will depend on market dynamics following the Chinese New Year celebrations.
 
@@ -78,7 +78,7 @@ The end of January confirmed a downward trend in dry tonne-day growth across all
 ![Στιγμιότυπο Οθόνης 2025 01 30 112012](assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6880d8fd5ff4.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 01 30 112012**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6880d8fd5ff4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-01-30_capesize-market-insights_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6880d8fd5ff4.png)
 
 Congestion at Chinese dry bulk ports saw a significant reduction at the end of January, with declining trends observed in the Supramax and Panamax vessel size segments.
 

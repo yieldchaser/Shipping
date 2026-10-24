@@ -41,14 +41,14 @@ This week, the world’s arguably most important central bank, the US Fed, is al
 ![Market Chart 1](assets/2025-09-17_we-shouldnt-fight-the-fed-even-if-its-not-independent_img_image003_99cc71a881b3.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-17_we-shouldnt-fight-the-fed-even-if-its-not-independent_img_image003_99cc71a881b3.jpg)
+> [Local Asset](assets/2025-09-17_we-shouldnt-fight-the-fed-even-if-its-not-independent_img_image003_99cc71a881b3.jpg)
 
 What is more important is that, following both weaker employment data and presidential pressures on the Fed, recent commentary by Fed officials became more dovish. Bond markets are now pricing in three rate cuts by the end of the year and at least another three by the end of 2026. So, a 1.5% reduction in interest rates to 3%.
 
 ![Market Chart 2](assets/2025-09-17_we-shouldnt-fight-the-fed-even-if-its-not-independent_img_image004_5d187d61229a.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-17_we-shouldnt-fight-the-fed-even-if-its-not-independent_img_image004_5d187d61229a.jpg)
+> [Local Asset](assets/2025-09-17_we-shouldnt-fight-the-fed-even-if-its-not-independent_img_image004_5d187d61229a.jpg)
 
 Is this too much? And should the government really pressure the Fed that much?
 

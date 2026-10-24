@@ -29,7 +29,7 @@ Since 24 February, when the conflict began, CBOT wheat and corn prices have incr
 ![A1](assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a1_c6a504c41a93.png)
 
 > **Figure 1: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a1_c6a504c41a93.png)
+> [Local Asset](assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a1_c6a504c41a93.png)
 
 Shipments of Black Sea grains are expected to remain low for the time being as ports in the Ukraine remain shut and sanctions placed on Russia provide limited buyers for Russian farmers. Despite Ukraine Railways stating it would facilitate the transport of grains out of Ukraine by train to ports in nearby countries, the government has announced it is creating a state-funded food reserve. As a result, the majority of these volumes are unlikely to head elsewhere to other ports.
 
@@ -40,7 +40,7 @@ In Australia, there is set to be another bumper crop year for wheat but the coun
 ![A2](assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a2_3ab10d86d58d.png)
 
 > **Figure 2: A2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a2_3ab10d86d58d.png)
+> [Local Asset](assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a2_3ab10d86d58d.png)
 
 In the US, which exported 19.6m tonnes of wheat in 2021, farmers have been experiencing dry conditions throughout the winter wheat growing season. Subsequently, production is expected to decline by 10.0% to 44.8m tonnes in the 2021-22 marketing year according to the USDA, the lowest level of wheat production over the past 10 years despite similar planting areas. As a result, we estimate a 12.1% YoY decline in wheat shipments to 17.2m tonnes from the US in 2022.
 
@@ -51,7 +51,7 @@ India has kept hold of its large wheat inventories in previous years as security
 ![A3](assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a3_42e0a35b2d8f.png)
 
 > **Figure 3: A3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a3_42e0a35b2d8f.png)
+> [Local Asset](assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a3_42e0a35b2d8f.png)
 
 Further, the short durations to nearby customers such as Bangladesh and the UAE, typical buyers from Russia, make India an ideal choice for buyers looking for alternative supply and reduce their cost of freight, particularly as bunker prices remain elevated.
 
@@ -66,7 +66,7 @@ The picture in Argentina and the US, the primary alternatives to Black Sea corn,
 ![A4](assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a4_2fb39814082c.png)
 
 > **Figure 4: A4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a4_2fb39814082c.png)
+> [Local Asset](assets/2022-03-12_the-big-picture-replacing-black-sea-grain_img_a4_2fb39814082c.png)
 
 ### Outlook
 

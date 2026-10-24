@@ -61,7 +61,7 @@ While weekly cargo order volumes for Russian coal loading in the Baltic Sea have
 ![241](assets/2024-03-25_european-coal-prices-gaining-30-over-the-past-five-weeks_img_241_a01d8eb9231c.png)
 
 > **Figure 1: 241**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-25_european-coal-prices-gaining-30-over-the-past-five-weeks_img_241_a01d8eb9231c.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-03-25_european-coal-prices-gaining-30-over-the-past-five-weeks_img_241_a01d8eb9231c.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

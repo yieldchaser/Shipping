@@ -42,13 +42,13 @@ The data for VLCC (Very Large Crude Carrier) traffic suggests key routes from th
 ![Heading](../../images/66b51d48409364854bf6df51_60e55815dbee4c752fb998e8_VLCC-AG-East.avif)
 
 > **Figure 1: Heading**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/opec-is-back-in-control-but-needs-to-avoid-scoring-an-own-goal) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d48409364854bf6df51_60e55815dbee4c752fb998e8_VLCC-AG-East.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/opec-is-back-in-control-but-needs-to-avoid-scoring-an-own-goal) | [Local Asset](../../images/66b51d48409364854bf6df51_60e55815dbee4c752fb998e8_VLCC-AG-East.avif)
 
 
 ![Heading](../../images/66b51d48409364854bf6df58_60e558372513783330238c8d_VLCC-AFrica-East.avif)
 
 > **Figure 2: Heading**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/opec-is-back-in-control-but-needs-to-avoid-scoring-an-own-goal) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d48409364854bf6df58_60e558372513783330238c8d_VLCC-AFrica-East.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/opec-is-back-in-control-but-needs-to-avoid-scoring-an-own-goal) | [Local Asset](../../images/66b51d48409364854bf6df58_60e558372513783330238c8d_VLCC-AFrica-East.avif)
 
 The market for VLCCs sailing from the Arabian Gulf to the East seems to be functioning smoothly. Tanker supply is beginning to show some stability according to [Signal Ocean](https://www.thesignalgroup.com/signal-ocean-platform) data. There are over 30 vessels available for loading in the Arabian Gulf to go East. This is near the upper end of the range for the past 90 days and is for tankers arriving within 20 days. The data uses Ras Tanura as the reference loading port. Meanwhile, tanker fixture rates are hovering near 31 WorldScale which is near the low end of the same 90 day range. Oil traders should have little difficulty chartering prompt vessels at reasonable prices, according to the data.
 
@@ -56,7 +56,7 @@ The market for VLCCs sailing from the Arabian Gulf to the East seems to be funct
 ![Heading](../../images/66b51d48409364854bf6df5b_60e558570eef0036de5b15f6_VLCC-AG-FE.avif)
 
 > **Figure 3: Heading**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/opec-is-back-in-control-but-needs-to-avoid-scoring-an-own-goal) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d48409364854bf6df5b_60e558570eef0036de5b15f6_VLCC-AG-FE.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/opec-is-back-in-control-but-needs-to-avoid-scoring-an-own-goal) | [Local Asset](../../images/66b51d48409364854bf6df5b_60e558570eef0036de5b15f6_VLCC-AG-FE.avif)
 
 Also, port congestion in China appears to have moderated over the past year suggesting that any previous bottlenecks and disruptions caused by the pandemic are beginning to be resolved. The number of VLCCs waiting has fallen to around 32 this month compared to 55 last September.
 
@@ -64,7 +64,7 @@ Also, port congestion in China appears to have moderated over the past year sugg
 ![Heading](../../images/66b51d48409364854bf6df55_60e5587117be1cb8d7ad7605_VLCC-waiting-China.avif)
 
 > **Figure 4: Heading**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/opec-is-back-in-control-but-needs-to-avoid-scoring-an-own-goal) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d48409364854bf6df55_60e5587117be1cb8d7ad7605_VLCC-waiting-China.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/opec-is-back-in-control-but-needs-to-avoid-scoring-an-own-goal) | [Local Asset](../../images/66b51d48409364854bf6df55_60e5587117be1cb8d7ad7605_VLCC-waiting-China.avif)
 
 Collectively, different [Signal Ocean](https://www.thesignalgroup.com/signal-ocean-platform)data suggests the key oil trading routes are beginning to normalise as Asian economies recover and stabilise. However, the wider context remains fragile. Central bankers remain uncertain about whether the current inflationary uptick is temporary. If they get spooked into raising interest rates too quickly the nascent economic strength could be quickly choked off.
 

@@ -26,7 +26,7 @@ Despite mixed economic data, a risk-on tone helped stem the selling earlier this
 ![Screenshot 20230428 122802 Linkedin](assets/2023-04-28_1z1d8wtpl2o9m1tladho5tu8cx6s2y_img_screenshot-20230428-122802-linkedin_1917a13b34a2.jpg)
 
 > **Figure 1: Screenshot 20230428 122802 Linkedin**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-28_1z1d8wtpl2o9m1tladho5tu8cx6s2y_img_screenshot-20230428-122802-linkedin_1917a13b34a2.jpg)
+> [Local Asset](assets/2023-04-28_1z1d8wtpl2o9m1tladho5tu8cx6s2y_img_screenshot-20230428-122802-linkedin_1917a13b34a2.jpg)
 
 **Copper**was under pressure earlier in the session following Chinese data showing profits at industrial companies fell 19% in March. This was compounded by reports that Chinese copper processors were planning to reduce production for Q2 2023. This is typically the peak demand season; however, demand has been impacted by a slower than expected recovery after COVID-19 and sluggish export driven demand. A stronger than expected rise in an inflation measure saw concerns of further rate hikes also weigh on sentiment. However, after falling to a four-month low, opportunistic buyers helped push the red metal back into positive territory by the close of the session. This came following reports that MMG’s copper mine in Perty suffered a setback in its efforts to reduce holdings of 115kt of semi-processed metal built up during recent protests. It said it may take until Q4 to ship the stockpiled material.
 

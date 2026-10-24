@@ -30,7 +30,7 @@ Rumours of a large-scale government stimulus package for the steel and construct
 ![Market Chart 1](assets/2023-06-02_csfcpakoorba7eypq8jhofzx6n9rrk_img_image-asset_a29313101821.jpeg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-02_csfcpakoorba7eypq8jhofzx6n9rrk_img_image-asset_a29313101821.jpeg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2023-06-02_csfcpakoorba7eypq8jhofzx6n9rrk_img_image-asset_a29313101821.jpeg)
 
 Away from the steel and construction sector, the capesize market has undoubtedly benefitted from the upswing in thermal coal imports into both China and India during the opening months of the year. In an attempt to pre-empt energy shortages, both countries put in place mechanisms to boost domestic production and also better manage coal imports to avoid a repeat of recent coal supply tightness. China’s domestic coal production is up 6% on the year and India’s 11% whilst thermal coal imports have surged 81% and 25% respectively. The increase in shipments is, of course, positive news for the market, however, with stockpiles now at comfortable levels ahead of the peak summer demand season, these volumes should fall and will see lower import levels in the months to come.
 

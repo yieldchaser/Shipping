@@ -27,7 +27,7 @@ The prospect of further monetary easing helped boost sentiment across the comple
 ![Στιγμιότυπο Οθόνης 2025 12 01 103011](assets/2025-12-01_metals-gain-as-rate-cut-looms_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2470e01203a0.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 12 01 103011**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-01_metals-gain-as-rate-cut-looms_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2470e01203a0.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-12-01_metals-gain-as-rate-cut-looms_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2470e01203a0.png)
 
 ### Market Commentary
 
@@ -46,7 +46,7 @@ Following a strong run through Q3, ACCU prices retreated in November, as complia
 ![Στιγμιότυπο Οθόνης 2025 12 01 102845](assets/2025-12-01_metals-gain-as-rate-cut-looms_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c2212092d407.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 12 01 102845**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-01_metals-gain-as-rate-cut-looms_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c2212092d407.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-12-01_metals-gain-as-rate-cut-looms_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c2212092d407.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

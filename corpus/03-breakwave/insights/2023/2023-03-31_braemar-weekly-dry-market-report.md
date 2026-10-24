@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-31_braemar-weekly-dry-ma
 
 > **Figure 1: With the First Quarter Wrapping Up**  
 > *With the first quarter wrapping up, sentiment has improved and expectations for the second quarter are even greater. We look at several factors we are watching that could drive momentum going forward.*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/mark-nugent-3724a3192/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-31_braemar-weekly-dry-market-report_img_128729_6a1eba4cf887.png)](https://www.breakwaveadvisors.com/insights/2023/3/31/did-you-know)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/mark-nugent-3724a3192/) | [Local Asset](assets/2023-03-31_braemar-weekly-dry-market-report_img_128729_6a1eba4cf887.png)](https://www.breakwaveadvisors.com/insights/2023/3/31/did-you-know)
 
 ## The Big Picture: Looking to Q2
 
@@ -40,7 +40,7 @@ Since the turn of the Chinese New Year holiday period, China’s appetite for bu
 ![Market Chart 2](assets/2023-03-31_braemar-weekly-dry-market-report_img_image0281229_16757a929fb0.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-31_braemar-weekly-dry-market-report_img_image0281229_16757a929fb0.png)
+> [Local Asset](assets/2023-03-31_braemar-weekly-dry-market-report_img_image0281229_16757a929fb0.png)
 
 In Q1, the country’s dry bulk imports totalled 162m tonnes, rising by 8.7% YoY with one more day of discharging left to go. So far, the increase can largely be owed to the major bulks (iron ore, coal), which has been a step in the right direction for the bigger ships. Imports of iron ore in particular have increased by 3.8% YoY to 93.4m tonnes in Q1 at the time of writing.
 
@@ -49,7 +49,7 @@ Looking to Q2, we will be able to get a better gauge on a Chinese recovery by th
 ![Market Chart 3](assets/2023-03-31_braemar-weekly-dry-market-report_img_image1281229_72ea34fb64d0.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-31_braemar-weekly-dry-market-report_img_image1281229_72ea34fb64d0.png)
+> [Local Asset](assets/2023-03-31_braemar-weekly-dry-market-report_img_image1281229_72ea34fb64d0.png)
 
 Dry bulk imports (excl. iron ore, coal and grains) have totalled 94.3m tonnes so far in Q1, coming in flat YoY. Of course, this will be particularly important for the geared fleet which carry the majority of these other materials. In 2022, the geared ships discharged 188.8m tonnes of non-major bulk cargo in China, declining by 10.7% YoY. In Q1 so far, volumes have fallen by 1.8% YoY, totalling 41.5m tonnes. As we would typically expect industries such as steel to lead any type of recovery, as it has in the past, it does set a positive tone for other industrial sectors to follow in its path and should ultimately lead to improved imports of the minor bulks in the months to come.
 
@@ -60,7 +60,7 @@ For the sub-Cape fleet, the start of the South American grain exporting season i
 ![Market Chart 4](assets/2023-03-31_braemar-weekly-dry-market-report_img_image2281129_933f6797d0cd.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-31_braemar-weekly-dry-market-report_img_image2281129_933f6797d0cd.png)
+> [Local Asset](assets/2023-03-31_braemar-weekly-dry-market-report_img_image2281129_933f6797d0cd.png)
 
 Brazil and China have been working to improve trade relations in recent months, most recently agreeing to trade in their own currency and bypass the US dollar as an intermediary. China has also cleared Brazilian corn for import in recent months. The closer ties may signal more trade between the countries and more specifically soybeans, corn and iron ore. Given the distance, growth in these trades would be a positive development for the market. Though crush margins in China have dropped since the near-term highs in October, the Covid re-opening and food security objectives should support growth in this trade this marketing year, with the bulk of Brazilian soybeans historically shipped in Q2.
 
@@ -69,7 +69,7 @@ The situation in Argentina is still unfavourable as drought continues to affect 
 ![Market Chart 5](assets/2023-03-31_braemar-weekly-dry-market-report_img_image3281029_aeb42924bbdf.png)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-31_braemar-weekly-dry-market-report_img_image3281029_aeb42924bbdf.png)
+> [Local Asset](assets/2023-03-31_braemar-weekly-dry-market-report_img_image3281029_aeb42924bbdf.png)
 
 ### Vessel Speeds
 

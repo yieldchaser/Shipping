@@ -64,7 +64,7 @@ Aggregate global cargo order volumes for rice also continue to support elevated 
 
 > **Figure 1: Data Source:shipfix**  
 > *Data Source:Shipfix*  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-01_shipfix-global-market-update_img_241_25053baa3135.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2023-08-01_shipfix-global-market-update_img_241_25053baa3135.png)
 
 ---
 

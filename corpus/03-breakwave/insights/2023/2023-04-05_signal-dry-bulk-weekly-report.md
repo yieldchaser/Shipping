@@ -23,14 +23,14 @@ source_file: "corpus/03-breakwave/insights/2023/2023-04-05_signal-dry-bulk-weekl
 
 > **Figure 1: Rise in March-April to the Highest Level in Last Two Years**  
 > *Rise in March-April to the highest level in last two years, with Surpamax marking a remarkable turnaround*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-ton-charts-dry/2nt6kk/311942776?h=WGo_srG_5_TZU4RFO_gL74q4FueMx7m3En4Er4t4UVE) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-05_signal-dry-bulk-weekly-report_img_1281129_63f2c0ca8a17.png)](https://www.breakwaveadvisors.com/insights/2023/4/5/odzn86c14jl5mxlgrju9q70dtly66k)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-ton-charts-dry/2nt6kk/311942776?h=WGo_srG_5_TZU4RFO_gL74q4FueMx7m3En4Er4t4UVE) | [Local Asset](assets/2023-04-05_signal-dry-bulk-weekly-report_img_1281129_63f2c0ca8a17.png)](https://www.breakwaveadvisors.com/insights/2023/4/5/odzn86c14jl5mxlgrju9q70dtly66k)
 
 ## Chart of the Week Dry Bulk: Ton Miles
 
 ![Market Chart 2](assets/2023-04-05_signal-dry-bulk-weekly-report_img_unnamed-2023-04-05t162414314_d3be54066da0.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-ton-charts-dry/2nt6kk/311942776?h=WGo_srG_5_TZU4RFO_gL74q4FueMx7m3En4Er4t4UVE) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-05_signal-dry-bulk-weekly-report_img_unnamed-2023-04-05t162414314_d3be54066da0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-ton-charts-dry/2nt6kk/311942776?h=WGo_srG_5_TZU4RFO_gL74q4FueMx7m3En4Er4t4UVE) | [Local Asset](assets/2023-04-05_signal-dry-bulk-weekly-report_img_unnamed-2023-04-05t162414314_d3be54066da0.png)
 
 Data Source: The Signal Ocean Platform, Dry Bulk Demand
 
@@ -45,7 +45,7 @@ For more information on this week's trends, see the analysis sections below: Fre
 ![Market Chart 3](assets/2023-04-05_signal-dry-bulk-weekly-report_img_unnamed-2023-04-05t162510256_9623921fe2fb.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-05_signal-dry-bulk-weekly-report_img_unnamed-2023-04-05t162510256_9623921fe2fb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-04-05_signal-dry-bulk-weekly-report_img_unnamed-2023-04-05t162510256_9623921fe2fb.png)
 
 In early April, the strength of recent days in the smaller vessel categories has weakened, while rates for Capesize and Panamax vessels continue to rise.
 
@@ -59,7 +59,7 @@ In early April, the strength of recent days in the smaller vessel categories has
 ![Supply Trend Lines for Key Load Areas](assets/2023-04-05_signal-dry-bulk-weekly-report_img_unnamed-2023-04-05t162610902_7a7c4f0565d6.png)
 
 > **Figure 4: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-05_signal-dry-bulk-weekly-report_img_unnamed-2023-04-05t162610902_7a7c4f0565d6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-04-05_signal-dry-bulk-weekly-report_img_unnamed-2023-04-05t162610902_7a7c4f0565d6.png)
 
 The number of ballast ships continues to decrease in the Capesize and Panamax segments, while increasing in the smaller ship categories.
 
@@ -73,7 +73,7 @@ The number of ballast ships continues to decrease in the Capesize and Panamax se
 ![TonDays Increasing](assets/2023-04-05_signal-dry-bulk-weekly-report_img_unnamed-2023-04-05t162652622_5e98d6e14e67.png)
 
 > **Figure 5: TonDays Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-05_signal-dry-bulk-weekly-report_img_unnamed-2023-04-05t162652622_5e98d6e14e67.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-04-05_signal-dry-bulk-weekly-report_img_unnamed-2023-04-05t162652622_5e98d6e14e67.png)
 
 April marks a continued recovery in demand growth in the Panamax segment, and the Supramax segment also gives reason for further optimism, as recent growth appears to be the highest compared to the beginning of the year and last year.
 
@@ -87,7 +87,7 @@ April marks a continued recovery in demand growth in the Panamax segment, and th
 ![Increasing](assets/2023-04-05_signal-dry-bulk-weekly-report_img_unnamed-2023-04-05t162748306_cea1eb4d85bb.png)
 
 > **Figure 6: Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-05_signal-dry-bulk-weekly-report_img_unnamed-2023-04-05t162748306_cea1eb4d85bb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-04-05_signal-dry-bulk-weekly-report_img_unnamed-2023-04-05t162748306_cea1eb4d85bb.png)
 
 Congestion continued the strong upward trend from late March, with the Handysize, Supramax, and Panamax segments continuing to lead in the last two weeks of the uptrend, approaching the highs seen in the final weeks of 2022.
 

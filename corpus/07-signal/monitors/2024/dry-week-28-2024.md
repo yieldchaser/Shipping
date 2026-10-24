@@ -31,7 +31,7 @@ tags:
 ![668e5f3d248f2783a5ded931 Chart of the Week Dry (3)](../../images/668e5f3d248f2783a5ded931_chart of the week dry (3).avif)
 
 > **Figure 1: 668e5f3d248f2783a5ded931 Chart of the Week Dry (3)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-28-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/668e5f3d248f2783a5ded931_chart of the week dry (3).avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-28-2024) | [Local Asset](../../images/668e5f3d248f2783a5ded931_chart of the week dry (3).avif)
 
 The second week of July brings a downward revision in the performance of the Capesize segment, while the decreasing count of ballasters fosters optimism for the coming days. This reduction in available ballast vessels could tighten supply and potentially support higher freight rates.
 

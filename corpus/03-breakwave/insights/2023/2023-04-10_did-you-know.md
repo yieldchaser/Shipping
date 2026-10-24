@@ -22,12 +22,12 @@ source_file: "corpus/03-breakwave/insights/2023/2023-04-10_did-you-know.html"
 ![1 (5)](assets/2023-04-10_did-you-know_img_128529_45b76cb7cdd6.png)
 
 > **Figure 1: 1 (5)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-10_did-you-know_img_128529_45b76cb7cdd6.png)
+> [Local Asset](assets/2023-04-10_did-you-know_img_128529_45b76cb7cdd6.png)
 
 ![Dsc 6292b1](assets/2023-04-10_did-you-know_img_dsc-6292b1_a0f30d21aab3.jpg)
 
 > **Figure 2: Dsc 6292b1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-10_did-you-know_img_dsc-6292b1_a0f30d21aab3.jpg)
+> [Local Asset](assets/2023-04-10_did-you-know_img_dsc-6292b1_a0f30d21aab3.jpg)
 
 Tanker supply fundamentals are impacted by new orders, new deliveries and demolition of ships that are no longer viable to operate.
 
@@ -40,4 +40,4 @@ Tanker supply fundamentals are impacted by new orders, new deliveries and demoli
 ![1 (7)](assets/2023-04-10_did-you-know_img_128729_3222f63e4cc8.png)
 
 > **Figure 3: 1 (7)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-10_did-you-know_img_128729_3222f63e4cc8.png)
+> [Local Asset](assets/2023-04-10_did-you-know_img_128729_3222f63e4cc8.png)

@@ -31,21 +31,21 @@ In March, exports from China plummeted by 7.5 percent year-onyear in value, as r
 ![1 Doric 15 Apr](assets/2024-04-15_chinas-march-exports-and-imports-fell-short-of-expectations-by-a-considerable-ma_img_1doric15apr_d18033f6a8c1.png)
 
 > **Figure 1: 1 Doric 15 Apr**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-15_chinas-march-exports-and-imports-fell-short-of-expectations-by-a-considerable-ma_img_1doric15apr_d18033f6a8c1.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-04-15_chinas-march-exports-and-imports-fell-short-of-expectations-by-a-considerable-ma_img_1doric15apr_d18033f6a8c1.png)
 
 Imports for March also remained subdued, declining by 1.9 percent year-on-year and falling short of the expected 1.4 percent rise. This weak performance reflects lethargic domestic demand, a sentiment echoed by Thursday's data indicating a more significant than anticipated cooling of consumer inflation and persistent factory-gate deflation. Shifting focus to dry bulk commodities, China's iron ore imports in March saw a marginal increase of just 0.5 percent from a year earlier, reaching 100.72 million metric tonnes. There were high hopes for demand to bounce back following the Lunar New Year holiday break, a period typically characterized by increased production by steelmakers. However, last month's demand failed to meet expectations, resulting in an accumulation of portside stocks and a notable decline in prices. According to customs data, in the first quarter of 2024, the world’s largest iron ore importer brought in 310.13 million tonnes, marking a 5.5 percent increase from the previous year.
 
 ![2 Doric Apr 15](assets/2024-04-15_chinas-march-exports-and-imports-fell-short-of-expectations-by-a-considerable-ma_img_2doricapr15_b03bfe40ec8d.png)
 
 > **Figure 2: 2 Doric Apr 15**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-15_chinas-march-exports-and-imports-fell-short-of-expectations-by-a-considerable-ma_img_2doricapr15_b03bfe40ec8d.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-04-15_chinas-march-exports-and-imports-fell-short-of-expectations-by-a-considerable-ma_img_2doricapr15_b03bfe40ec8d.png)
 
 In relation to the less favored commodity, coal imports in March remained almost unchanged year-on-year, as weak demand and decreasing domestic prices put pressure on international shipments. China imported 41.38 million metric tonnes of coal in March, a slight increase compared to the same period a year earlier, as reported by General Administration of Customs data. However, first-quarter coal imports surged by 13.9 percent to reach 115.9 million tonnes, propelled by a 23 percent year-on-year increase in January-February imports. Indonesia, Australia, Mongolia, and Russia stand as the primary coal suppliers to China.
 
 ![3 Doric 15 Apr](assets/2024-04-15_chinas-march-exports-and-imports-fell-short-of-expectations-by-a-considerable-ma_img_3doric15apr_505ba229da45.png)
 
 > **Figure 3: 3 Doric 15 Apr**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-15_chinas-march-exports-and-imports-fell-short-of-expectations-by-a-considerable-ma_img_3doric15apr_505ba229da45.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-04-15_chinas-march-exports-and-imports-fell-short-of-expectations-by-a-considerable-ma_img_3doric15apr_505ba229da45.png)
 
 In a notable departure, soybean imports in March plummeted to a four-year low due to high prices and unfavorable hog margins, dissuading crushing for feed consumption. Total imports for the month amounted to 5.54 million metric tonnes, nearly 20 percent lower than the same period last year. Soybean arrivals in JanuaryMarch totaled 18.58 million tonnes, reflecting a 10.8 percent decline from the same quarter last year and marking the lowest first-quarter import figure since 2020. Looking forward, soybean imports are anticipated to pick up in the second quarter post the harvest season in Brazil. However, this growth might be restrained by subdued feed demand in the key Chinese market.
 

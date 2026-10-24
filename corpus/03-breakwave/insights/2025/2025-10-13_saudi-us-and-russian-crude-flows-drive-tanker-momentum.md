@@ -31,7 +31,7 @@ This week’s analysis examines evolving dirty freight and supply trends across 
 ![Market Chart 1](assets/2025-10-13_saudi-us-and-russian-crude-flows-drive-tanker-momentum_img_unnamed_bc7cf6bf46d3.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-13_saudi-us-and-russian-crude-flows-drive-tanker-momentum_img_unnamed_bc7cf6bf46d3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-10-13_saudi-us-and-russian-crude-flows-drive-tanker-momentum_img_unnamed_bc7cf6bf46d3.png)
 
 - ​​​​​Seaborne oil exports rose 10.4% year-on-year in September, the sharpest annual gain since early 2023, as shipments from Saudi Arabia, Russia, and the U.S. continued to accelerate.
 
@@ -48,7 +48,7 @@ This week’s analysis examines evolving dirty freight and supply trends across 
 ![Suezmax](assets/2025-10-13_saudi-us-and-russian-crude-flows-drive-tanker-momentum_img_unnamed28129_5899eab06ee8.png)
 
 > **Figure 2: Suezmax**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-13_saudi-us-and-russian-crude-flows-drive-tanker-momentum_img_unnamed28129_5899eab06ee8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-10-13_saudi-us-and-russian-crude-flows-drive-tanker-momentum_img_unnamed28129_5899eab06ee8.png)
 
 VLCC freight rates softened further in early October, with MEG–China down 16% w/w to WS 68.5. The pullback followed Q3’s sharp rally, echoing across other key routes: MEG–Singapore fell 18.6% to WS 70, MEG–USG slipped 10% to WS 45, and WAF–China eased 7.5% to WS 74. Despite these corrections, quarter-to-date averages remain higher, up 39% on MEG–China and 47% on MEG–USG versus Q2, reflecting a still-tight tonnage balance.
 
@@ -57,7 +57,7 @@ In the Suezmax segment, rate movements were mixed. West Africa–UKC rose 12.8% 
 ![Market Chart 3](assets/2025-10-13_saudi-us-and-russian-crude-flows-drive-tanker-momentum_img_unnamed28229_9f87cca50c34.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-13_saudi-us-and-russian-crude-flows-drive-tanker-momentum_img_unnamed28229_9f87cca50c34.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-10-13_saudi-us-and-russian-crude-flows-drive-tanker-momentum_img_unnamed28229_9f87cca50c34.png)
 
 ### VLCC | Congestion
 
@@ -68,7 +68,7 @@ Congestion of VLCCs at Chinese discharge ports has significantly decreased, with
 ![Market Chart 4](assets/2025-10-13_saudi-us-and-russian-crude-flows-drive-tanker-momentum_img_unnamed28329_175830f436d1.png)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-13_saudi-us-and-russian-crude-flows-drive-tanker-momentum_img_unnamed28329_175830f436d1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-10-13_saudi-us-and-russian-crude-flows-drive-tanker-momentum_img_unnamed28329_175830f436d1.png)
 
 ## AG (Load Area)
 

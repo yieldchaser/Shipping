@@ -27,14 +27,14 @@ As we discussed in Commodore Research's most recent Weekly Executive Report, Chi
 ![Chart 1](assets/2025-01-24_divergence-in-chinas-coal-output-and-coal-derived-electricity-generation_img_chart1_f8a903f1070d.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-24_divergence-in-chinas-coal-output-and-coal-derived-electricity-generation_img_chart1_f8a903f1070d.jpg)
+> [Local Asset](assets/2025-01-24_divergence-in-chinas-coal-output-and-coal-derived-electricity-generation_img_chart1_f8a903f1070d.jpg)
 
 Coal-derived electricity generation, which makes up the bulk of China's electricity generation, totaled 597.5 billion kilowatt hours. This is up month-on-month by 80 billion kilowatt hours (16%) but is down year-on-year by 13.4 billion kilowatt hours (-2%). Overall, it has not helped Chinese coal import demand prospects that coal-derived electricity generation growth has fared worse than domestic coal production growth for three straight months.
 
 ![Chart 2](assets/2025-01-24_divergence-in-chinas-coal-output-and-coal-derived-electricity-generation_img_chart2_afe6330ad749.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-24_divergence-in-chinas-coal-output-and-coal-derived-electricity-generation_img_chart2_afe6330ad749.jpg)
+> [Local Asset](assets/2025-01-24_divergence-in-chinas-coal-output-and-coal-derived-electricity-generation_img_chart2_afe6330ad749.jpg)
 
 ---
 

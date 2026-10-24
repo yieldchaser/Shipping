@@ -24,7 +24,7 @@ The first quarter of the year comes with an overall upward trend in the number o
 ![Ch1](assets/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels_img_ch1_c95e649abe99.png)
 
 > **Figure 1: Ch1**  
-> **Interactive Data & Source:** [Theguardian](https://www.theguardian.com/world/2022/apr/15/china-zero-covid-policy-global-supply-chain-huawei-executive) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels_img_ch1_c95e649abe99.png)
+> **Interactive Data & Source:** [Theguardian](https://www.theguardian.com/world/2022/apr/15/china-zero-covid-policy-global-supply-chain-huawei-executive) | [Local Asset](assets/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels_img_ch1_c95e649abe99.png)
 
 Image 1 | Source: The Signal Ocean Platform, Port Congestion, Worldwide Ports, 3 days moving average, Years 2022-2021-2020
 
@@ -39,7 +39,7 @@ Panamax, Supramax, and Handysize appear with remarkable levels compared to the C
 ![Ch2](assets/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels_img_ch2_9dff67e5b977.png)
 
 > **Figure 2: Ch2**  
-> **Interactive Data & Source:** [Theguardian](https://www.theguardian.com/world/2022/apr/15/china-zero-covid-policy-global-supply-chain-huawei-executive) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels_img_ch2_9dff67e5b977.png)
+> **Interactive Data & Source:** [Theguardian](https://www.theguardian.com/world/2022/apr/15/china-zero-covid-policy-global-supply-chain-huawei-executive) | [Local Asset](assets/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels_img_ch2_9dff67e5b977.png)
 
 Image 2 Capesize | Source: The Signal Ocean Platform Port Congestion, Worldwide Ports, 3 days moving average, Years 2022-2021-2020
 
@@ -48,7 +48,7 @@ Image 2 Capesize | Source: The Signal Ocean Platform Port Congestion, Worldwide 
 ![Ch3](assets/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels_img_ch3_3389cad9632d.png)
 
 > **Figure 3: Ch3**  
-> **Interactive Data & Source:** [Theguardian](https://www.theguardian.com/world/2022/apr/15/china-zero-covid-policy-global-supply-chain-huawei-executive) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels_img_ch3_3389cad9632d.png)
+> **Interactive Data & Source:** [Theguardian](https://www.theguardian.com/world/2022/apr/15/china-zero-covid-policy-global-supply-chain-huawei-executive) | [Local Asset](assets/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels_img_ch3_3389cad9632d.png)
 
 Image 3 Panamax | Source: The Signal Ocean Platform Port Congestion, Worldwide Ports, 3 days moving average, Years 2022-2021-2020
 
@@ -57,7 +57,7 @@ Image 3 Panamax | Source: The Signal Ocean Platform Port Congestion, Worldwide P
 ![Ch4](assets/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels_img_ch4_bff439816a66.png)
 
 > **Figure 4: Ch4**  
-> **Interactive Data & Source:** [Theguardian](https://www.theguardian.com/world/2022/apr/15/china-zero-covid-policy-global-supply-chain-huawei-executive) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels_img_ch4_bff439816a66.png)
+> **Interactive Data & Source:** [Theguardian](https://www.theguardian.com/world/2022/apr/15/china-zero-covid-policy-global-supply-chain-huawei-executive) | [Local Asset](assets/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels_img_ch4_bff439816a66.png)
 
 Image 4 Supramax | Source: The Signal Ocean Platform Port Congestion, Worldwide Ports, 3 days moving average, Years 2022-2021-2020
 
@@ -66,7 +66,7 @@ Image 4 Supramax | Source: The Signal Ocean Platform Port Congestion, Worldwide 
 ![Ch5](assets/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels_img_ch5_a16cf7416881.png)
 
 > **Figure 5: Ch5**  
-> **Interactive Data & Source:** [Theguardian](https://www.theguardian.com/world/2022/apr/15/china-zero-covid-policy-global-supply-chain-huawei-executive) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels_img_ch5_a16cf7416881.png)
+> **Interactive Data & Source:** [Theguardian](https://www.theguardian.com/world/2022/apr/15/china-zero-covid-policy-global-supply-chain-huawei-executive) | [Local Asset](assets/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels_img_ch5_a16cf7416881.png)
 
 Image 5 Handysize | Source: The Signal Ocean Platform Port Congestion, Worldwide Ports, 3 days moving average, Years 2022-2021-2020
 
@@ -77,7 +77,7 @@ It is interesting to examine the breakdown of volume per port and distinguish to
 ![Ch6](assets/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels_img_ch6_e8016a3450c8.png)
 
 > **Figure 6: Ch6**  
-> **Interactive Data & Source:** [Piie](https://www.piie.com/blogs/realtime-economic-issues-watch/zero-covid-shanghai-comes-high-social-and-economic-costs) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels_img_ch6_e8016a3450c8.png)
+> **Interactive Data & Source:** [Piie](https://www.piie.com/blogs/realtime-economic-issues-watch/zero-covid-shanghai-comes-high-social-and-economic-costs) | [Local Asset](assets/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels_img_ch6_e8016a3450c8.png)
 
 Image 6 |Source: The Signal Ocean Platform. Today’s Activity, Top Ports, Waiting and Operating Status
 
@@ -88,7 +88,7 @@ With an overall eye on the latest status of Chinese dry bulk ship congestions, w
 ![Ch7](assets/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels_img_ch7_ba6565ad7475.png)
 
 > **Figure 7: Ch7**  
-> **Interactive Data & Source:** [Piie](https://www.piie.com/blogs/realtime-economic-issues-watch/zero-covid-shanghai-comes-high-social-and-economic-costs) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels_img_ch7_ba6565ad7475.png)
+> **Interactive Data & Source:** [Piie](https://www.piie.com/blogs/realtime-economic-issues-watch/zero-covid-shanghai-comes-high-social-and-economic-costs) | [Local Asset](assets/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels_img_ch7_ba6565ad7475.png)
 
 Graph 1 | Source: The Signal Ocean Data, Summary of Chinese Dry Bulk Ship Congestions, per Vessel Class, Years 2021-2022
 
@@ -97,7 +97,7 @@ The situation is extremely tight in[**Shanghai**](https://www.piie.com/blogs/rea
 ![Ch8](assets/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels_img_ch8_0a90353879ca.png)
 
 > **Figure 8: Ch8**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels_img_ch8_0a90353879ca.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels_img_ch8_0a90353879ca.png)
 
 Image 7 | Source: The Signal Ocean Platform, Port Congestion, Shanghai, 3 days moving average, Years 2022-2021-2020
 

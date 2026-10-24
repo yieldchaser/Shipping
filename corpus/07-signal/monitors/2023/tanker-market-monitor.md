@@ -33,7 +33,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform - Oil Flows**  
 > *Data Source: The Signal Ocean Platform - Oil Flows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-market-monitor) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/644b9d4dc0e95a09cc156298_CHART OF THE WEEK TANKERS logo.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-market-monitor) | [Local Asset](../../images/644b9d4dc0e95a09cc156298_CHART OF THE WEEK TANKERS logo.png)
 
 Crude oil freight rates saw a slowdown in momentum at the end of April, while the clean market continues to drop to lower levels. On the demand side, despite the recent slowdown, the trend in VLCC (ton-days) is promising for freight rate strength. More interesting for the clean segment is the role of Asian countries in Russian naphtha imports. Looking at the first quarter of this year, the increase in Chinese purchases of Russian naphtha is surprisingly higher than in a similar period in 2022. We now see (image above) that China imported almost more than 200k in April, compared to only 40k in the same month last year. Looking at ship size, Panamax size now accounts for almost 30% of the business. In January-April 2022, Aframax vessels accounted for 60% and MR2 vessels 38% compared to 36% and 24% respectively this year.
 

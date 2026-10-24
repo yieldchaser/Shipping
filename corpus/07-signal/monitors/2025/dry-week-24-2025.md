@@ -29,7 +29,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/dry/dynamic/drybulkflows-Downloadable**  
 > *https://app.signalocean.com/dry/dynamic/drybulkflows-downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-24-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/684bfadf93d826b89c95d55b_AD_4nXdhSGuSf3RRkBuMUbUVyyZWl2lFgkTSwMJubIZvFUj0wbYb3Fk91roAfjN8Wy-Et3e4LQXMx6VgSE8kUXojvk07Ui-7L-gFR0qIL8zRhJGNJCH3DL9afvnlRIMmVReQc_gJNCnbSw.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-24-2025) | [Local Asset](../../images/684bfadf93d826b89c95d55b_AD_4nXdhSGuSf3RRkBuMUbUVyyZWl2lFgkTSwMJubIZvFUj0wbYb3Fk91roAfjN8Wy-Et3e4LQXMx6VgSE8kUXojvk07Ui-7L-gFR0qIL8zRhJGNJCH3DL9afvnlRIMmVReQc_gJNCnbSw.png)
 
 This week’s Market Monitor highlights the strong performance in Capesize iron ore flows, which have continued to support demand throughout the year. This trend is reflected in the recent strengthening of the Baltic Capesize Index and average earnings on the C5TC route.
 

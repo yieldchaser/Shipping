@@ -27,7 +27,7 @@ Venezuela risks losing most of its export revenues if the current sanctions and 
 ![Στιγμιότυπο Οθόνης 2026 01 14 110422](assets/2026-01-14_special-report-venezuela-beyond-the-headline-crisis-what-comes-next-for-oil-gas_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_18b0d45b0a2f.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 01 14 110422**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-14_special-report-venezuela-beyond-the-headline-crisis-what-comes-next-for-oil-gas_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_18b0d45b0a2f.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-01-14_special-report-venezuela-beyond-the-headline-crisis-what-comes-next-for-oil-gas_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_18b0d45b0a2f.png)
 
 ### An Upside, Reform-Contingent Resource Scenario for Venezuela
 

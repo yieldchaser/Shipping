@@ -25,7 +25,7 @@ Black Sea insecurity, Red Sea rerouting and increasing demand for Atlantic cargo
 ![Ffb6 Image 0 1787318520596](assets/2026-08-24_risk-rerouting-and-rising-demand-lift-suezmax-earnings_img_ffb6-image-0-1787318520596_4e20d6c05bd4.png)
 
 > **Figure 1: Ffb6 Image 0 1787318520596**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-24_risk-rerouting-and-rising-demand-lift-suezmax-earnings_img_ffb6-image-0-1787318520596_4e20d6c05bd4.png)
+> [Local Asset](assets/2026-08-24_risk-rerouting-and-rising-demand-lift-suezmax-earnings_img_ffb6-image-0-1787318520596_4e20d6c05bd4.png)
 
 A major driver of Suezmax earnings premiums has been deteriorating security in the Black Sea. Since July, Ukraine ramped up attacks on merchant shipping in the Black Sea, including 9 tankers at or near the CPC terminal. CPC exports have averaged 1.37m b/d since July, compared to nearly 2m b/d in June. On the 8th of August, Ukraine announced it would stop targeting non-Russian and non-sanctioned ships loading at the CPC terminal. This was at the urging of US officials. But a Suezmax laden with cargo from the CPC terminal was reportedly hit by a Ukrainian drone last Sunday, despite the exemption.
 

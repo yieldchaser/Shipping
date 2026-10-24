@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-01-19_trouble-in-tehran.htm
 ![Istock 1184092411](assets/2026-01-19_trouble-in-tehran_img_istock-1184092411_e59424513d5b.jpg)
 
 > **Figure 1: Istock 1184092411**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-19_trouble-in-tehran_img_istock-1184092411_e59424513d5b.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-01-19_trouble-in-tehran_img_istock-1184092411_e59424513d5b.jpg)
 
 Following two weeks of unrest, the oil market is again focused on Iran after a period of relative calm since last summer’s 12‑day war. At the time of writing, the government appears to have quelled much of the unrest. Even so, the threat of potential US strikes, deep public dissatisfaction, disruption to Black Sea exports, and ongoing developments in Venezuela have kept the oil and shipping markets on edge. It remains difficult to predict the outcomes in the event of a US attack, a major escalation of protests, or regime change.
 
@@ -40,7 +40,7 @@ Events in Iran therefore have the potential to lead to a seismic shift in tanker
 ![Στιγμιότυπο Οθόνης 2026 01 19 103735](assets/2026-01-19_trouble-in-tehran_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8a49e1d88612.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 01 19 103735**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-19_trouble-in-tehran_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8a49e1d88612.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-01-19_trouble-in-tehran_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8a49e1d88612.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

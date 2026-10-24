@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-12-17_industrial-commoditie
 ![By Ulf Bergman](assets/2020-12-17_industrial-commodities-likely-to-remain-strong_img_image-asset_a805a0e72e83.jpeg)
 
 > **Figure 1: By Ulf Bergman**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-17_industrial-commodities-likely-to-remain-strong_img_image-asset_a805a0e72e83.jpeg)
+> [Local Asset](assets/2020-12-17_industrial-commodities-likely-to-remain-strong_img_image-asset_a805a0e72e83.jpeg)
 
 As US lawmakers are inching towards a virus-relief deal, the latest sets of economic data provided quite a mixed picture of the current state of the nation’s economy. Contrary to the US equity markets, which are at all-time high levels, the labour market is struggling to regain its traction and posted the largest increase in new fillings for unemployment benefits since the beginning of September. On a seasonally adjusted basis around 885,000 Americans signed up for benefits last week, which was around ten percent higher than the consensus expectations, as virus infection rates soar and new lockdowns are introduced across the country.
 
@@ -33,7 +33,7 @@ On a more positive note, permits for new housing developments surprised on the u
 
 > **Figure 2: Source: Us Census Bureau**  
 > *Source: US Census Bureau*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-17_industrial-commodities-likely-to-remain-strong_img_ulf85_cf6032fb0954.png)
+> [Local Asset](assets/2020-12-17_industrial-commodities-likely-to-remain-strong_img_ulf85_cf6032fb0954.png)
 
 Rising construction in the US will support demand for steel and other building materials, and with a sizeable fiscal stimulus package looking more and more like a foregone conclusion, imports and industrial production are likely to pick up in the early parts of next year in the US as a result. The roll out of vaccines will also support the economy, as it is starting to recover.
 

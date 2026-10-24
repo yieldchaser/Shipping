@@ -65,7 +65,7 @@ Cargo order volumes for agricultural commodities discharging in Chinese ports ha
 ![Στιγμιότυπο Οθόνης 2024 07 23 121131](assets/2024-07-23_headwinds-for-the-capesizes-and-supply-disruptions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eb78ee172849.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 23 121131**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-23_headwinds-for-the-capesizes-and-supply-disruptions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eb78ee172849.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-07-23_headwinds-for-the-capesizes-and-supply-disruptions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eb78ee172849.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

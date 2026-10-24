@@ -28,7 +28,7 @@ In the iron market, imports to China supported the freight market from September
 ![Steady Strength of Chinese Iron Ore Imports, 64% Comes From Australia](assets/2022-12-08_signal-dry-bulk-weekly-report_img_unnamed-2022-12-08t135235347_29480762eb80.png)
 
 > **Figure 1: Steady Strength of Chinese Iron Ore Imports, 64% Comes From Australia**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2l97yj/290369316?h=osoExOwvAjtgX29Jl44is6mRlXpfPw4wKep3jgQaZaQ) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-08_signal-dry-bulk-weekly-report_img_unnamed-2022-12-08t135235347_29480762eb80.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2l97yj/290369316?h=osoExOwvAjtgX29Jl44is6mRlXpfPw4wKep3jgQaZaQ) | [Local Asset](assets/2022-12-08_signal-dry-bulk-weekly-report_img_unnamed-2022-12-08t135235347_29480762eb80.png)
 
 Data Source: The Signal Ocean Platform, Iron Ore Flows from all destinations to China
 
@@ -39,7 +39,7 @@ Data Source: The Signal Ocean Platform, Iron Ore Flows from all destinations to 
 ![Market Chart 2](assets/2022-12-08_signal-dry-bulk-weekly-report_img_unnamed-2022-12-08t135645712_b4e18523040a.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-08_signal-dry-bulk-weekly-report_img_unnamed-2022-12-08t135645712_b4e18523040a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-12-08_signal-dry-bulk-weekly-report_img_unnamed-2022-12-08t135645712_b4e18523040a.png)
 
 The first week of December signalled a continued upswing in the large ship categories, while the slowing momentum in Handysize and Supramax is steepening from what it was in late November.
 
@@ -55,7 +55,7 @@ The first week of December signalled a continued upswing in the large ship categ
 ![Supply Trend Lines for Key Load Areas](assets/2022-12-08_signal-dry-bulk-weekly-report_img_unnamed-2022-12-08t135744583_16d4d74f1f6d.png)
 
 > **Figure 3: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-08_signal-dry-bulk-weekly-report_img_unnamed-2022-12-08t135744583_16d4d74f1f6d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-12-08_signal-dry-bulk-weekly-report_img_unnamed-2022-12-08t135744583_16d4d74f1f6d.png)
 
 There is an increasing trend in all vessel size categories except Capesize, while the number of ballast vessels in the Handysize and Supramax size categories is still above the annual average.
 
@@ -71,7 +71,7 @@ There is an increasing trend in all vessel size categories except Capesize, whil
 ![TonDays Decreasing](assets/2022-12-08_signal-dry-bulk-weekly-report_img_unnamed-2022-12-08t135842332_e12e324ec8c4.png)
 
 > **Figure 4: TonDays Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-08_signal-dry-bulk-weekly-report_img_unnamed-2022-12-08t135842332_e12e324ec8c4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-12-08_signal-dry-bulk-weekly-report_img_unnamed-2022-12-08t135842332_e12e324ec8c4.png)
 
 Demand growth in the Handysize segment continues to decline significantly, while we have seen a sustained upswing in the Panamax segment over the last three weeks.
 
@@ -87,7 +87,7 @@ Demand growth in the Handysize segment continues to decline significantly, while
 ![Dry Bulk Ships Congested at Chinese Ports](assets/2022-12-08_signal-dry-bulk-weekly-report_img_unnamed-2022-12-08t135946259_87802c86720f.png)
 
 > **Figure 5: Dry Bulk Ships Congested at Chinese Ports**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-08_signal-dry-bulk-weekly-report_img_unnamed-2022-12-08t135946259_87802c86720f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-12-08_signal-dry-bulk-weekly-report_img_unnamed-2022-12-08t135946259_87802c86720f.png)
 
 In the first days of December, congestion is approaching the last peak of week 27, with a continuous increase in the Panamax, Supramax, and Handysize segments.
 

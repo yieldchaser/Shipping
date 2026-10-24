@@ -25,7 +25,7 @@ The sustained tensions since Saturday continue to diminish the prospects for de-
 ![Market Chart 1](assets/2026-03-06_strait-of-hormuz-from-vital-energy-chokepoint-to-pressure-point_img_unnamed_ba9e7288ccf8.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/sions-rise-129021769-utm-sourc/2rx3ds/583864127/h/hOjeUh6gfwoYIydGuziS66dbxZCZsI_IZTjnyA4IZ-8) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-06_strait-of-hormuz-from-vital-energy-chokepoint-to-pressure-point_img_unnamed_ba9e7288ccf8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/sions-rise-129021769-utm-sourc/2rx3ds/583864127/h/hOjeUh6gfwoYIydGuziS66dbxZCZsI_IZTjnyA4IZ-8) | [Local Asset](assets/2026-03-06_strait-of-hormuz-from-vital-energy-chokepoint-to-pressure-point_img_unnamed_ba9e7288ccf8.png)
 
 Tensions around the Strait of Hormuz are increasingly spilling into global oil markets, raising concerns about potential disruptions to one of the world's most critical energy transit routes. As regional tensions evolve, the central question for markets is no longer whether disruptions may occur, but how long they could persist.
 
@@ -48,7 +48,7 @@ Based on[Signal Ocean Dynamic Timeseries](https://go.signalocean.com/e/983831/nk
 ![Tsop](assets/2026-03-06_strait-of-hormuz-from-vital-energy-chokepoint-to-pressure-point_img_unnamed28129_249ecc318e7a.png)
 
 > **Figure 2: Tsop**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/1792b31-utm-source-chatgpt-com/2rx3dz/583864127/h/hOjeUh6gfwoYIydGuziS66dbxZCZsI_IZTjnyA4IZ-8) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-06_strait-of-hormuz-from-vital-energy-chokepoint-to-pressure-point_img_unnamed28129_249ecc318e7a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/1792b31-utm-source-chatgpt-com/2rx3dz/583864127/h/hOjeUh6gfwoYIydGuziS66dbxZCZsI_IZTjnyA4IZ-8) | [Local Asset](assets/2026-03-06_strait-of-hormuz-from-vital-energy-chokepoint-to-pressure-point_img_unnamed28129_249ecc318e7a.png)
 
 ## Bunker Fuel Prices Spike in Fujairah
 
@@ -57,7 +57,7 @@ Bunker fuel prices in Fujairah have risen sharply over the past week, with VLSFO
 ![Up 22% Wow](assets/2026-03-06_strait-of-hormuz-from-vital-energy-chokepoint-to-pressure-point_img_unnamed28329_622f0d070c84.png)
 
 > **Figure 3: Up 22% Wow**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/1792b31-utm-source-chatgpt-com/2rx3dz/583864127/h/hOjeUh6gfwoYIydGuziS66dbxZCZsI_IZTjnyA4IZ-8) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-06_strait-of-hormuz-from-vital-energy-chokepoint-to-pressure-point_img_unnamed28329_622f0d070c84.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/1792b31-utm-source-chatgpt-com/2rx3dz/583864127/h/hOjeUh6gfwoYIydGuziS66dbxZCZsI_IZTjnyA4IZ-8) | [Local Asset](assets/2026-03-06_strait-of-hormuz-from-vital-energy-chokepoint-to-pressure-point_img_unnamed28329_622f0d070c84.png)
 
 ## Hormuz Disruptions Push AG Congestion Higher
 
@@ -66,7 +66,7 @@ Security disruptions in the Strait of Hormuz appear to be pushing up Arabian Gul
 ![Market Chart 4](assets/2026-03-06_strait-of-hormuz-from-vital-energy-chokepoint-to-pressure-point_img_unnamed28429_899d016ec7f2.png)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/1792b31-utm-source-chatgpt-com/2rx3dz/583864127/h/hOjeUh6gfwoYIydGuziS66dbxZCZsI_IZTjnyA4IZ-8) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-06_strait-of-hormuz-from-vital-energy-chokepoint-to-pressure-point_img_unnamed28429_899d016ec7f2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/1792b31-utm-source-chatgpt-com/2rx3dz/583864127/h/hOjeUh6gfwoYIydGuziS66dbxZCZsI_IZTjnyA4IZ-8) | [Local Asset](assets/2026-03-06_strait-of-hormuz-from-vital-energy-chokepoint-to-pressure-point_img_unnamed28429_899d016ec7f2.png)
 
 ### Potential Scenarios
 

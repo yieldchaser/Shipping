@@ -34,7 +34,7 @@ Global VLCC fleet capacity is projected to expand more aggressively through 2028
 
 > **Figure 1: Tsop Orderbook Insights**  
 > *TSOP Orderbook Insights*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-a-new-vlcc-leader---inside-sinokors-market-rise) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6995ecab72abb56a41b97ed1_42eefcd5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-a-new-vlcc-leader---inside-sinokors-market-rise) | [Local Asset](../../images/6995ecab72abb56a41b97ed1_42eefcd5.png)
 
 Within this evolving environment, **Sinokor Merchant Marine (Sinokor) has expanded its VLCC commercial footprint, positioning itself as the single largest Commercial Operator in terms of fleet size**. The company’s timing aligns with a transitional point in the tanker cycle, where the balance between vessel supply growth and effective transportation demand will influence freight rate direction.
 
@@ -56,7 +56,7 @@ The aggressive expansion of the VLCC fleet is noteworthy, as the decision coinci
 
 > **Figure 2: Tsop Valuation Insights**  
 > *TSOP Valuation Insights*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-a-new-vlcc-leader---inside-sinokors-market-rise) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6995ecab72abb56a41b97ed4_4720690a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-a-new-vlcc-leader---inside-sinokors-market-rise) | [Local Asset](../../images/6995ecab72abb56a41b97ed4_4720690a.png)
 
 
 ## Mapping the New VLCC Commercial Order
@@ -83,7 +83,7 @@ With its confirmed acquisitions, Sinokor now stands as the largest single commer
 
 > **Figure 3: Source: Signal Ocean Data Warehouse (Tsop); Based on Aggregated Fleet and Commercial Operator Data From Multiple Industry Sources.**  
 > *Source: Signal Ocean Data Warehouse (TSOP); based on aggregated fleet and commercial operator data from multiple industry sources.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-a-new-vlcc-leader---inside-sinokors-market-rise) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6995ecab72abb56a41b97ece_7aa39304.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-a-new-vlcc-leader---inside-sinokors-market-rise) | [Local Asset](../../images/6995ecab72abb56a41b97ece_7aa39304.png)
 
 
 ## Unprecedented Concentration in the VLCC Spot Market
@@ -101,7 +101,7 @@ A significant shift emerged in 2025, when Lucky Maritime became the first commer
 
 > **Figure 4: Source: Signal Ocean Data Warehouse (Tsop); Based on Aggregated Fleet and Commercial Operator Data From Multiple Industry Sources.**  
 > *Source: Signal Ocean Data Warehouse (TSOP); based on aggregated fleet and commercial operator data from multiple industry sources.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-a-new-vlcc-leader---inside-sinokors-market-rise) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6995ecab72abb56a41b97eda_ad497816.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-a-new-vlcc-leader---inside-sinokors-market-rise) | [Local Asset](../../images/6995ecab72abb56a41b97eda_ad497816.png)
 
 
 ## Sinokor Fleet Age Profile vs. Major VLCC Operators
@@ -116,14 +116,14 @@ Sinokor’s fleet is more concentrated in mid- to older-aged vessels, indicating
 ![Sinokor Fleet Age Profile vs. Major VLCC Operators](../../images/6995ecab72abb56a41b97edd_2ffd7b69.png)
 
 > **Figure 5: Sinokor Fleet Age Profile vs. Major VLCC Operators**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-a-new-vlcc-leader---inside-sinokors-market-rise) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6995ecab72abb56a41b97edd_2ffd7b69.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-a-new-vlcc-leader---inside-sinokors-market-rise) | [Local Asset](../../images/6995ecab72abb56a41b97edd_2ffd7b69.png)
 
 
 ![Tsop Orderbook Insights](../../images/6995ecab72abb56a41b97ed7_c59152cb.png)
 
 > **Figure 6: Tsop Orderbook Insights**  
 > *TSOP Orderbook Insights*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-a-new-vlcc-leader---inside-sinokors-market-rise) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6995ecab72abb56a41b97ed7_c59152cb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-a-new-vlcc-leader---inside-sinokors-market-rise) | [Local Asset](../../images/6995ecab72abb56a41b97ed7_c59152cb.png)
 
 
 ## Key Takeaway: Sinokor’s Expanding Role and the Spot Market Reinforcement Effect

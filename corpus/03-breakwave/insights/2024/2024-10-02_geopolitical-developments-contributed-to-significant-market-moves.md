@@ -67,7 +67,7 @@ After a period of declining Chinese demand for copper shipments, recent weeks ha
 ![Στιγμιότυπο Οθόνης 2024 10 02 162145](assets/2024-10-02_geopolitical-developments-contributed-to-significant-market-moves_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a20266fe4ae3.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 02 162145**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-02_geopolitical-developments-contributed-to-significant-market-moves_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a20266fe4ae3.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-10-02_geopolitical-developments-contributed-to-significant-market-moves_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a20266fe4ae3.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

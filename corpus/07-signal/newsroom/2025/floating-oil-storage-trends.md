@@ -28,7 +28,7 @@ tags:
 ![67e1563b667d1f45f4fabbad Ad 4nxc7fdwbwd8wuagza30kvnj2fiesiv8cpcqqembo7p 7bdyo29grpxzjmhlaw Xoqfqbwgj2jdefzcbkffpiyqadq6ggbo0icndhejak Cqeclkyckdjsp8z97lvakdaei4bxnivcq](../../images/67e1563b667d1f45f4fabbad_AD_4nXc7FDwBWD8WUAGzA30KVnj2FIEsiv8cpcQQEmbO7P_7bDYO29GRPxzjmHLAW-XoQFQbwGJ2JDEfzcBKffPIyqAdQ6GGBo0iCNdhEJaK_CQECLKyCKDjsP8Z97LvaKdaEI4bxnIVcQ.png)
 
 > **Figure 1: 67e1563b667d1f45f4fabbad Ad 4nxc7fdwbwd8wuagza30kvnj2fiesiv8cpcqqembo7p 7bdyo29grpxzjmhlaw Xoqfqbwgj2jdefzcbkffpiyqadq6ggbo0icndhejak Cqeclkyckdjsp8z97lvakdaei4bxnivcq**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/floating-oil-storage-trends) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67e1563b667d1f45f4fabbad_AD_4nXc7FDwBWD8WUAGzA30KVnj2FIEsiv8cpcQQEmbO7P_7bDYO29GRPxzjmHLAW-XoQFQbwGJ2JDEfzcBKffPIyqAdQ6GGBo0iCNdhEJaK_CQECLKyCKDjsP8Z97LvaKdaEI4bxnIVcQ.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/floating-oil-storage-trends) | [Local Asset](../../images/67e1563b667d1f45f4fabbad_AD_4nXc7FDwBWD8WUAGzA30KVnj2FIEsiv8cpcQQEmbO7P_7bDYO29GRPxzjmHLAW-XoQFQbwGJ2JDEfzcBKffPIyqAdQ6GGBo0iCNdhEJaK_CQECLKyCKDjsP8Z97LvaKdaEI4bxnIVcQ.png)
 
 The floating oil storage sector has undergone marked fluctuations since 2020, attributable to global economic circumstances, war sanctions, geopolitical tensions, and evolving market forces. Principal determinants affecting storage utilisation encompass the COVID-19 pandemic, imposed sanctions, oscillations in oil prices, and the strategic measures undertaken by Western, Middle East, and Asian markets. The influence of Iranian oil reserves, Saudi Arabia, and OPEC in determining supply-demand equilibriums is of considerable significance. Concurrently, emerging risks and legal complexities are increasingly becoming prominent.
 
@@ -83,7 +83,7 @@ The floating storage data for the Arabian Gulf reflects these disruptions, with 
 ![Red Sea Disruptions and Houthi Attacks (2023-2024)](../../images/67e1563beb6998a81699ee57_AD_4nXf23BnisiQ1S5h25yzsrv82laeXAFlsTZZmUOpJC5_pBelapHrWDXOAD4lGI4pLW-2CbTzlJX_HoCFeyMyU16sgzIBEyWveAJsmCRMRgBUzzIhdoF3l-8TgSXyPE0HKmYfDoR5Slw.png)
 
 > **Figure 2: Red Sea Disruptions and Houthi Attacks (2023-2024)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/floating-oil-storage-trends) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67e1563beb6998a81699ee57_AD_4nXf23BnisiQ1S5h25yzsrv82laeXAFlsTZZmUOpJC5_pBelapHrWDXOAD4lGI4pLW-2CbTzlJX_HoCFeyMyU16sgzIBEyWveAJsmCRMRgBUzzIhdoF3l-8TgSXyPE0HKmYfDoR5Slw.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/floating-oil-storage-trends) | [Local Asset](../../images/67e1563beb6998a81699ee57_AD_4nXf23BnisiQ1S5h25yzsrv82laeXAFlsTZZmUOpJC5_pBelapHrWDXOAD4lGI4pLW-2CbTzlJX_HoCFeyMyU16sgzIBEyWveAJsmCRMRgBUzzIhdoF3l-8TgSXyPE0HKmYfDoR5Slw.png)
 
 
 ## Emerging Forces Behind Floating Storage Trends
@@ -112,7 +112,7 @@ In terms of f **loating storage distribution**, Singapore/Malaysia and North Chi
 ![2025: Global Floating Storage Trends in 2025 vs. 2024](../../images/67e1563bcc360507f06a4b87_AD_4nXfp0hDSYL8-L9JzjioH5OHrc0aC1244_lXqYTxr0wNVXCGLp0-iyCE2SAKtja0ngQ77yt40cj4-7Pn8XxrCjApUJlDrQxtkBlN9isMD1BNccoN3pzLoCuN94N-cA6HVn-QjyD1cHA.png)
 
 > **Figure 3: 2025: Global Floating Storage Trends in 2025 vs. 2024**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/floating-oil-storage-trends) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67e1563bcc360507f06a4b87_AD_4nXfp0hDSYL8-L9JzjioH5OHrc0aC1244_lXqYTxr0wNVXCGLp0-iyCE2SAKtja0ngQ77yt40cj4-7Pn8XxrCjApUJlDrQxtkBlN9isMD1BNccoN3pzLoCuN94N-cA6HVn-QjyD1cHA.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/floating-oil-storage-trends) | [Local Asset](../../images/67e1563bcc360507f06a4b87_AD_4nXfp0hDSYL8-L9JzjioH5OHrc0aC1244_lXqYTxr0wNVXCGLp0-iyCE2SAKtja0ngQ77yt40cj4-7Pn8XxrCjApUJlDrQxtkBlN9isMD1BNccoN3pzLoCuN94N-cA6HVn-QjyD1cHA.png)
 
 When examining **vessel size rankings**, VLCCs continue to dominate in 2025, accounting for 55% of total floating storage, a trend that remains unchanged from 2024. Their continued dominance is driven by their cost-efficiency in long-term crude storage and their ability to hold large volumes over extended periods. Suezmax vessels remain in second place with a 23% share, serving mid-sized crude shipments, particularly in constrained waterways or regional storage hubs. Aframax vessels also retain a strong presence at 19%, reflecting their critical role in shorter-haul crude transportation and regional storage needs. Panamax vessels, on the other hand, maintain a minimal role in floating storage, accounting for only 3%, as they are primarily used for refined product transport rather than long-term crude storage.
 

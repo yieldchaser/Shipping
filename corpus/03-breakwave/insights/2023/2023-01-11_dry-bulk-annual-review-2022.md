@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-11_dry-bulk-annual-revie
 ![63bd795b361ff11b41431e2c B](assets/2023-01-11_dry-bulk-annual-review-2022_img_63bd795b361ff11b41431e2c-b_2bb1883aa7b1.png)
 
 > **Figure 1: 63bd795b361ff11b41431e2c B**  
-> **Interactive Data & Source:** [Un](https://www.un.org/en/black-sea-grain-initiative) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-11_dry-bulk-annual-review-2022_img_63bd795b361ff11b41431e2c-b_2bb1883aa7b1.png)
+> **Interactive Data & Source:** [Un](https://www.un.org/en/black-sea-grain-initiative) | [Local Asset](assets/2023-01-11_dry-bulk-annual-review-2022_img_63bd795b361ff11b41431e2c-b_2bb1883aa7b1.png)
 
 The year ended with critical changes in grain flows due to geopolitical tensions between Russia and Ukraine. In parallel, the Chinese real estate crisis seriously impacted Capesize vessels, while the energy crisis drove up coal flows and Panamax freight rates.
 
@@ -48,7 +48,7 @@ The volume of dry bulk flows from all countries to all destinations was stable s
 
 > **Figure 2: Image 1 - Data Source: The Signal Ocean Platform**  
 > *Image 1 - Data Source: The Signal Ocean Platform, Dry Bulk Flows 2021-2022, from All to All Destinationshttps://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/dynamic/drybulkflows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-11_dry-bulk-annual-review-2022_img_63bbeb8155c57e15eb1b13fe-image1drybu_592e0c6fbd24.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/dynamic/drybulkflows) | [Local Asset](assets/2023-01-11_dry-bulk-annual-review-2022_img_63bbeb8155c57e15eb1b13fe-image1drybu_592e0c6fbd24.png)
 
 **Image**2 shows the breakdown of the volume of bulk cargo flows over the past two years by origin and destination countries, ship size category, and cargo types. Iron ore fines and thermal coal accounted for 27% and 21%, respectively, while Capesize and Supramax vessels had the largest volume shares, accounting for 30% and 21%, respectively as measured in metric tons.
 
@@ -56,13 +56,13 @@ The volume of dry bulk flows from all countries to all destinations was stable s
 
 > **Figure 3: Image 2 - Data Source: The Signal Ocean Platform**  
 > *Image 2 - Data Source: The Signal Ocean Platform, Dry Bulk Flows 2021-2022, Breakdown (Origin - Destination Countries, Vessel Classes, Cargo Grades)https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/dynamic/drybulkflows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-11_dry-bulk-annual-review-2022_img_63bbeb8155c57e15eb1b13fe-image1drybu_592e0c6fbd24.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/dynamic/drybulkflows) | [Local Asset](assets/2023-01-11_dry-bulk-annual-review-2022_img_63bbeb8155c57e15eb1b13fe-image1drybu_592e0c6fbd24.png)
 
 ![Image 3 - Data Source: The Signal Ocean Platform](assets/2023-01-11_dry-bulk-annual-review-2022_img_63bbeb8155c57e15eb1b13fe-image1drybu_592e0c6fbd24.png)
 
 > **Figure 4: Image 3 - Data Source: The Signal Ocean Platform**  
 > *Image 3 - Data Source: The Signal Ocean Platform, Dry Bulk Flows 2021-2022, from from All to Chinahttps://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/dynamic/drybulkflows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-11_dry-bulk-annual-review-2022_img_63bbeb8155c57e15eb1b13fe-image1drybu_592e0c6fbd24.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/dynamic/drybulkflows) | [Local Asset](assets/2023-01-11_dry-bulk-annual-review-2022_img_63bbeb8155c57e15eb1b13fe-image1drybu_592e0c6fbd24.png)
 
 Looking at China as the main destination for bulk flows and demand growth,**image**3 shows that the volume of flows has increased, especially in the fourth quarter of this year. In the last two years, the total volume of commodity flows was 3.9 billion tonnes, with iron ore accounting for 60% of the volume and Australia remaining the top source country for Chinese bulk imports with a 42% share (**image**4).
 
@@ -70,13 +70,13 @@ Looking at China as the main destination for bulk flows and demand growth,**imag
 
 > **Figure 5: Image 3 - Data Source: The Signal Ocean Platform**  
 > *Image 3 - Data Source: The Signal Ocean Platform, Dry Bulk Flows 2021-2022, from from All to Chinahttps://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/dynamic/drybulkflows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-11_dry-bulk-annual-review-2022_img_63bbeb8155c57e15eb1b13fe-image1drybu_592e0c6fbd24.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/dynamic/drybulkflows) | [Local Asset](assets/2023-01-11_dry-bulk-annual-review-2022_img_63bbeb8155c57e15eb1b13fe-image1drybu_592e0c6fbd24.png)
 
 ![Image 4- Data Source: The Signal Ocean Platform](assets/2023-01-11_dry-bulk-annual-review-2022_img_63bc1ddaae8e7e2459cc594f-image4flows_e4f9a739e81e.png)
 
 > **Figure 6: Image 4- Data Source: The Signal Ocean Platform**  
 > *Image 4- Data Source: The Signal Ocean Platform, Dry Bulk Flows 2021-2022 to China, Breakdown(Origin Countries, Vessel Classes, Cargo Grades)https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/dynamic/drybulkflows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-11_dry-bulk-annual-review-2022_img_63bc1ddaae8e7e2459cc594f-image4flows_e4f9a739e81e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/dynamic/drybulkflows) | [Local Asset](assets/2023-01-11_dry-bulk-annual-review-2022_img_63bc1ddaae8e7e2459cc594f-image4flows_e4f9a739e81e.png)
 
 **Image**5 shows the total volume of iron ore and coal flows to China over the past two years, as well as the top three source countries. It is interesting to note that the fourth quarter of 2022 saw an exceptional increase in coal flows to China compared to the previous two quarters, with Indonesia leading the origin countries with a 57% share. For iron ore, December saw a higher import pace than November, matching the volume of December 2021. Overall, the year ended with a promising outlook for Chinese iron ore and coal demand, although slower momentum was feared given the outbreak of Covid cases.
 
@@ -84,7 +84,7 @@ Looking at China as the main destination for bulk flows and demand growth,**imag
 
 > **Figure 7: Image 5- Data Source: The Signal Ocean Platform**  
 > *Image 5- Data Source: The Signal Ocean Platform, Dry Bulk Flows 2021-2022 to China, Iron Ore & Coalhttps://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/dynamic/drybulkflows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-11_dry-bulk-annual-review-2022_img_63bc1e052f1b692076f1487f-image5irono_7630ac52c58a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/dynamic/drybulkflows) | [Local Asset](assets/2023-01-11_dry-bulk-annual-review-2022_img_63bc1e052f1b692076f1487f-image5irono_7630ac52c58a.png)
 
 ### Ii. Demand Growth - Tonne Charts
 
@@ -94,7 +94,7 @@ The higher volume of iron ore and coal dry bulk flows to China is reflected in t
 
 > **Figure 8: Image 6 - Data Source: The Signal Ocean Platform**  
 > *Image 6 - Data Source: The Signal Ocean Platform, Demand, Capesize - Panamaxhttps://app.signalocean.com/dry/reports/toncharts*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/reports/toncharts) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-11_dry-bulk-annual-review-2022_img_63bc1e5c0a9d2fbb4c63e198-image6deman_e28931a504f1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/reports/toncharts) | [Local Asset](assets/2023-01-11_dry-bulk-annual-review-2022_img_63bc1e5c0a9d2fbb4c63e198-image6deman_e28931a504f1.png)
 
 Looking at the smaller ship segments (**image**7), growth in tonne-days was also higher in the Supramax segment than in the previous two years, while slower momentum was observed in the Handysize size in the fourth quarter. The slowdown in Handysize demand growth in tonne-days at a lower level than in previous years in the fourth quarter leads to a downward revision of freight rates for the first months of the New Year, as geopolitical tensions are still causing difficulties in grain exports from Ukraine to the main Asian markets.
 
@@ -102,7 +102,7 @@ Looking at the smaller ship segments (**image**7), growth in tonne-days was also
 
 > **Figure 9: Image 7 - Data Source: The Signal Ocean Platform**  
 > *Image 7 - Data Source: The Signal Ocean Platform, Demand, Supramax - Handysizehttps://app.signalocean.com/dry/reports/toncharts*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/reports/toncharts) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-11_dry-bulk-annual-review-2022_img_63bc1e8b0f5db04879554367-image7deman_2a6e0e2d2ac3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/reports/toncharts) | [Local Asset](assets/2023-01-11_dry-bulk-annual-review-2022_img_63bc1e8b0f5db04879554367-image7deman_2a6e0e2d2ac3.png)
 
 ### Iii. Freight Market - $/Tonne
 
@@ -112,7 +112,7 @@ Overall, 2022 was a year of strong growth in freight rates for the larger vessel
 
 > **Figure 10: Image 8 - Data Source: The Signal Ocean Platform**  
 > *Image 8 - Data Source: The Signal Ocean Platform, Market Prices, 2020-2022https://app.signalocean.com/dry/dynamic/market-prices*  
-> **Interactive Data & Source:** [Signal Ocean Dynamic Market Prices](https://app.signalocean.com/dry/dynamic/market-prices) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-11_dry-bulk-annual-review-2022_img_63bc1ed510db0d68e7b7d311-image8dryra_5cc7b9b5604a.png)
+> **Interactive Data & Source:** [Signal Ocean Dynamic Market Prices](https://app.signalocean.com/dry/dynamic/market-prices) | [Local Asset](assets/2023-01-11_dry-bulk-annual-review-2022_img_63bc1ed510db0d68e7b7d311-image8dryra_5cc7b9b5604a.png)
 
 ### Iv. Vessel Speeds
 
@@ -122,7 +122,7 @@ The geopolitical crisis prompted shipowners to reduce the ballast speed of ships
 
 > **Figure 11: Image 9 - Data Source: The Signal Ocean Platform**  
 > *Image 9 - Data Source: The Signal Ocean Platform, Vessel Speeds, Ballast, Dry Bulk Vessel, All sizeshttps://app.signalocean.com/dry/reports/vesselSpeeds*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/reports/vesselSpeeds?_gl=1*1euqdnf*_ga*NzU3MjczOTk0LjE2MzM0MzAzNjg.*_ga_2W2L38HL2W*MTY3MzQzMzUxNS4yMC4wLjE2NzM0MzM1MTUuNjAuMC4w&_ga=2.194721896.477147957.1673433516-757273994.1633430368) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-11_dry-bulk-annual-review-2022_img_63bc1f227fd5073bfc1db28d-image9balla_6ef85cdd9354.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/dry/reports/vesselSpeeds?_gl=1*1euqdnf*_ga*NzU3MjczOTk0LjE2MzM0MzAzNjg.*_ga_2W2L38HL2W*MTY3MzQzMzUxNS4yMC4wLjE2NzM0MzM1MTUuNjAuMC4w&_ga=2.194721896.477147957.1673433516-757273994.1633430368) | [Local Asset](assets/2023-01-11_dry-bulk-annual-review-2022_img_63bc1f227fd5073bfc1db28d-image9balla_6ef85cdd9354.png)
 
 ‍
 
@@ -130,7 +130,7 @@ The geopolitical crisis prompted shipowners to reduce the ballast speed of ships
 
 > **Figure 12: Image 10 - Data Source: The Signal Ocean Platform**  
 > *Image 10 - Data Source: The Signal Ocean Platform, Vessel Speeds, Ballast, Dry Bulk Vessels (Capesize Vs Panamax)https://app.signalocean.com/tanker/reports/vesselSpeeds*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/reports/vesselSpeeds) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-11_dry-bulk-annual-review-2022_img_63bbeb8155c57e15eb1b13fe-image1drybu_592e0c6fbd24.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/reports/vesselSpeeds) | [Local Asset](assets/2023-01-11_dry-bulk-annual-review-2022_img_63bbeb8155c57e15eb1b13fe-image1drybu_592e0c6fbd24.png)
 
 ### V. Vessel Supply - Ballasters’ View
 
@@ -142,7 +142,7 @@ Overall, the weekly trends for ballast vessels show an upward trend, suggesting 
 
 > **Figure 13: Image 11 - Data Source: The Signal Ocean Platform**  
 > *Image 11 - Data Source: The Signal Ocean Platform, Weekly Supply Trend, Ballasters’ View*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-11_dry-bulk-annual-review-2022_img_63bbeb8155c57e15eb1b13fe-image1drybu_592e0c6fbd24.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-01-11_dry-bulk-annual-review-2022_img_63bbeb8155c57e15eb1b13fe-image1drybu_592e0c6fbd24.png)
 
 ### Overall Outlook - Looking Ahead
 

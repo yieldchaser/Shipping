@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-02-14_dry-weekly-market-mon
 ![Screenshot 2024 02 14 18.22.20](assets/2024-02-14_dry-weekly-market-monitor_img_screenshot2024-02-14182220_f81128284a3b.png)
 
 > **Figure 1: Screenshot 2024 02 14 18.22.20**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-14_dry-weekly-market-monitor_img_screenshot2024-02-14182220_f81128284a3b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-02-14_dry-weekly-market-monitor_img_screenshot2024-02-14182220_f81128284a3b.png)
 
 In the third week of February, Capesize Brazil to North China rates experienced an upturn, surpassing the $20 per ton mark. However, with the Chinese Lunar New Year already celebrated, the sentiment regarding freight rates remains uncertain, leaving observers to wonder if there will be a softening in prices. Meanwhile, in terms of supply trends, there has been another week of excessive ballaster numbers recorded for Capesize and Panamax vessels in Southeast Asia. In addition, overall demand growth rates continue to show signs of decrease across all vessel size categories.
 
@@ -32,7 +32,7 @@ Interestingly, in the Capesize South Atlantic region, there has been a notable r
 ![Screenshot 2024 02 14 18.22.37](assets/2024-02-14_dry-weekly-market-monitor_img_screenshot2024-02-14182237_2a27aabf2b56.png)
 
 > **Figure 2: Screenshot 2024 02 14 18.22.37**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-14_dry-weekly-market-monitor_img_screenshot2024-02-14182237_2a27aabf2b56.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-02-14_dry-weekly-market-monitor_img_screenshot2024-02-14182237_2a27aabf2b56.png)
 
 During the third week of February, the freight market has exhibited more robust indications in the Capesize Brazil to North China route, accompanied by emerging signs of an uptick in the Panamax Continent to the Far East route as well.
 
@@ -44,7 +44,7 @@ During the third week of February, the freight market has exhibited more robust 
 ![Screenshot 2024 02 14 18.22.44](assets/2024-02-14_dry-weekly-market-monitor_img_screenshot2024-02-14182244_ac829f743618.png)
 
 > **Figure 3: Screenshot 2024 02 14 18.22.44**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-14_dry-weekly-market-monitor_img_screenshot2024-02-14182244_ac829f743618.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-02-14_dry-weekly-market-monitor_img_screenshot2024-02-14182244_ac829f743618.png)
 
 The trend in terms of the number of ballast ships accelerated for Capesize and Panamax vessels in Southeast Africa for another week, indicating a sustained trend. Conversely, a downward trajectory is observed in the smaller vessel size categories for Handy vessels in the NOPAC region.
 
@@ -56,7 +56,7 @@ The trend in terms of the number of ballast ships accelerated for Capesize and P
 ![Screenshot 2024 02 14 18.22.57](assets/2024-02-14_dry-weekly-market-monitor_img_screenshot2024-02-14182257_2e39450af6c7.png)
 
 > **Figure 4: Screenshot 2024 02 14 18.22.57**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-14_dry-weekly-market-monitor_img_screenshot2024-02-14182257_2e39450af6c7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-02-14_dry-weekly-market-monitor_img_screenshot2024-02-14182257_2e39450af6c7.png)
 
 In the third week of February, the ongoing trend mirrors that of the preceding days, with a continual decline observed in the growth of demand tonne days across all vessel size categories. Notably, the larger vessel size categories exhibit a sharper decrease in demand.
 
@@ -68,7 +68,7 @@ In the third week of February, the ongoing trend mirrors that of the preceding d
 ![Screenshot 2024 02 14 18.23.16](assets/2024-02-14_dry-weekly-market-monitor_img_screenshot2024-02-14182316_f66cae3e25fa.png)
 
 > **Figure 5: Screenshot 2024 02 14 18.23.16**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-14_dry-weekly-market-monitor_img_screenshot2024-02-14182316_f66cae3e25fa.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-02-14_dry-weekly-market-monitor_img_screenshot2024-02-14182316_f66cae3e25fa.png)
 
 In the third week of February, there appears to be a correction in the upward trend that commenced at the beginning of the month, primarily attributed to the Supramax size category.
 

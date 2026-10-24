@@ -30,7 +30,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-18-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6814c6bdcd91f7c154153b9e_AD_4nXcVaOkt0WUq3IdIPxY92Tyxyn6kC1goG58JIkPYprFeBbS2z772QZgAjKIeAnLinpdZwxZ5FBnMbxbs7pyCKfqXxRhuLnjRFDxzCmIEU2BlOBQxjIpd7JmnN34CycjdddN3KhYW.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-18-2025) | [Local Asset](../../images/6814c6bdcd91f7c154153b9e_AD_4nXcVaOkt0WUq3IdIPxY92Tyxyn6kC1goG58JIkPYprFeBbS2z772QZgAjKIeAnLinpdZwxZ5FBnMbxbs7pyCKfqXxRhuLnjRFDxzCmIEU2BlOBQxjIpd7JmnN34CycjdddN3KhYW.png)
 
 **As of early May 2025, the crude oil trading relationship between the United States and Venezuela has undergone a major disruption, primarily due to recent geopolitical and regulatory shifts.** The most pivotal development occurred in March 2025, when the U.S. Treasury revoked Chevron’s special license to operate in Venezuela. This license had previously allowed Chevron to export Venezuelan crude to the United States despite broader sanctions on the Maduro regime. The revocation was tied to the Venezuelan government’s failure to meet agreed electoral commitments. Consequently, Chevron has been instructed to wind down its operations entirely by May 27, 2025.
 

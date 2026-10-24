@@ -41,7 +41,7 @@ It should also be noted that the 7% yearly increase in China’s iron ore import
 ![Market Chart 1](assets/2024-05-29_the-big-picture-dry-bulk-360-degrees_img_image028129_1b856bd09420.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-29_the-big-picture-dry-bulk-360-degrees_img_image028129_1b856bd09420.png)
+> [Local Asset](assets/2024-05-29_the-big-picture-dry-bulk-360-degrees_img_image028129_1b856bd09420.png)
 
 ### What of the Well-Documented Real Estate Crisis in China?
 
@@ -70,7 +70,7 @@ With April being a slower month for Chinese imports from India (confirmed at 2.6
 ![Market Chart 2](assets/2024-05-29_the-big-picture-dry-bulk-360-degrees_img_image128129_82ff5f7ba02f.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-29_the-big-picture-dry-bulk-360-degrees_img_image128129_82ff5f7ba02f.png)
+> [Local Asset](assets/2024-05-29_the-big-picture-dry-bulk-360-degrees_img_image128129_82ff5f7ba02f.png)
 
 It is certainly possible though that the**Chinese annual import total ex-India of 36.6m tonnes in 2023 could be surpassed**this year.
 

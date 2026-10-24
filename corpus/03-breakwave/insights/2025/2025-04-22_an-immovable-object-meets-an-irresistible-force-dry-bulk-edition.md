@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-04-22_an-immovable-object-m
 
 > **Figure 1: How All of This Will Affect Trade Flows Between the Two Countries**  
 > *How all of this will affect trade flows between the two countries, and more widely dry bulk trade, is what we will address this week on the largest traded dry bulk commodity between the two nations: Soybeans. As conveyed inBRS Weekly Dry Bulk Newsletter143 issued in November 2024, right after the results of US election, it’s been clear that China has been working on a long-term plan to secure grain supply in case of another trade dispute with the US. The damage to this specific trade had already taken root before the trade war. In addition, there has been a consistent increase in domestic production which slowly reduced the share of imports. Worried, the president of the American Soybean Association said, “After the first trade war, we lost nearly 10 per cent of market share in China that we never regained”. This market share loss has now risen above 10%.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-22_an-immovable-object-meets-an-irresistible-force-dry-bulk-edition_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](assets/2025-04-22_an-immovable-object-meets-an-irresistible-force-dry-bulk-edition_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 The US Administration is keeping wits about market participants across all industries by slapping tariffs, raising them, and thereafter removing them. Whereas it has become difficult to keep track of markets’ condition, as each day feels like another turn on Trump’s tariff rollercoaster, at the time of writing, all additional tariffs have been lifted — except for those targeting China which have been further increased. Nonetheless the world still has to endure a 10% baseline universal tariffs on imports, but China is taking the biggest hit after being hammered with 145% tariffs (at least by the time of writing) on all goods bound for the US. Meanwhile Beijing has answered with 125% levies. Indeed, when tariffs reach such lofty heights, their absolute level becomes unimportant since they are already far above that which would strangle trade. However, amid the ongoing tit-for-tat tariffs exchange, one thing remains consistent: it is an open -trade- war to China and China is willing to pick up the fight.
 
@@ -37,7 +37,7 @@ China has found allies in South America, especially Brazil which has become the 
 ![Στιγμιότυπο Οθόνης 2025 04 22 131227](assets/2025-04-22_an-immovable-object-meets-an-irresistible-force-dry-bulk-edition_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30b2257dc428.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 04 22 131227**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-22_an-immovable-object-meets-an-irresistible-force-dry-bulk-edition_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30b2257dc428.png)
+> [Local Asset](assets/2025-04-22_an-immovable-object-meets-an-irresistible-force-dry-bulk-edition_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30b2257dc428.png)
 
 More recently, the South American country shipped 19.6 mln mt of the oilseed to China during 1Q25, up 9% y-o-y and significantly above the16.7 mln mt quarterly average posted across 2021-24 (when the US was controlled by the Biden Administration). While April is early in the peak Brazilian exporting season, worsening US – China tensions appear to have accelerated the shift.
 
@@ -48,7 +48,7 @@ Assuming the purchase of 2.4 mln mt of beans has been made at the expense of the
 ![Στιγμιότυπο Οθόνης 2025 04 22 131347](assets/2025-04-22_an-immovable-object-meets-an-irresistible-force-dry-bulk-edition_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4ee951cff96a.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 04 22 131347**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-22_an-immovable-object-meets-an-irresistible-force-dry-bulk-edition_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4ee951cff96a.png)
+> [Local Asset](assets/2025-04-22_an-immovable-object-meets-an-irresistible-force-dry-bulk-edition_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4ee951cff96a.png)
 
 ---
 

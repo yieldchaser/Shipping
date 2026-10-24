@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-12-19_breakwave-bi-weekly-d
 ![Dryreporttop](assets/2023-12-19_breakwave-bi-weekly-drybulk-report-dec-19-2023-jhgyn19_img_dryreporttop_376e11dfdf5b.png)
 
 > **Figure 1: Dryreporttop**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-19_breakwave-bi-weekly-drybulk-report-dec-19-2023-jhgyn19_img_dryreporttop_376e11dfdf5b.png)
+> [Local Asset](assets/2023-12-19_breakwave-bi-weekly-drybulk-report-dec-19-2023-jhgyn19_img_dryreporttop_376e11dfdf5b.png)
 
 **• White Christmas in China brings holiday joy for Capesize owners –**Surprise Christmas gifts are the best and Capesize owners are getting a big one this year. A confluence of events in the past month begun with a surge in rates in the Atlantic on tight vessel availability and has now been followed by a very cold weather front in North China that is causing delays and tightening vessel availability in the Pacific region. The result is a spot Capesize market that so far has failed to correct the way that the freight futures market has been dictating and the strength is now threatening to expand during a period that activity tends to calm down as the Christmas holidays rapidly approach. With few trading days left before the New Year and a highly backwardated curve (spot in the 30,000s /January futures at ~20,000) the risk of the stubbornly strong market spilling into 2024 is becoming real. Although the longer-term futures market has also moved up in the past few weeks, we still believe the current strength is a result of a “perfect storm” situation rather than a change in fundamentals, and although the positive “carry” in the curve is enormously tempting, any vacuum on current demand flow can rapidly bring spot rates down well below the level the futures curve is indicating. In the meantime, investors should cherish the current robustness that once again demonstrates the impressive uncorrelated returns one can achieve in shipping, especially in freight futures, that purely rely on the idiosyncratic and regional nature of supply and demand. HAPPY NEW YEAR!
 
@@ -33,11 +33,11 @@ source_file: "corpus/03-breakwave/insights/2023/2023-12-19_breakwave-bi-weekly-d
 ![Dryreportchart](assets/2023-12-19_breakwave-bi-weekly-drybulk-report-dec-19-2023-jhgyn19_img_dryreportchart_e0dfc2260059.png)
 
 > **Figure 2: Dryreportchart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-19_breakwave-bi-weekly-drybulk-report-dec-19-2023-jhgyn19_img_dryreportchart_e0dfc2260059.png)
+> [Local Asset](assets/2023-12-19_breakwave-bi-weekly-drybulk-report-dec-19-2023-jhgyn19_img_dryreportchart_e0dfc2260059.png)
 
 ![Dryreportbottom](assets/2023-12-19_breakwave-bi-weekly-drybulk-report-dec-19-2023-jhgyn19_img_dryreportbottom_ff0510115a56.png)
 
 > **Figure 3: Dryreportbottom**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-19_breakwave-bi-weekly-drybulk-report-dec-19-2023-jhgyn19_img_dryreportbottom_ff0510115a56.png)
+> [Local Asset](assets/2023-12-19_breakwave-bi-weekly-drybulk-report-dec-19-2023-jhgyn19_img_dryreportbottom_ff0510115a56.png)
 
 ### Subscribe:

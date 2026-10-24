@@ -35,7 +35,7 @@ Despite the loss of Ukrainian corn shipments from Chornomorsk, Odesa and Yuzhny 
 ![241](assets/2023-08-13_brazil-dry-bulk-export-driver_img_241_27c14a3c96c6.png)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-13_brazil-dry-bulk-export-driver_img_241_27c14a3c96c6.png)
+> [Local Asset](assets/2023-08-13_brazil-dry-bulk-export-driver_img_241_27c14a3c96c6.png)
 
 This demonstrated weak international demand for US corn in the face of what the International Grains Council (IGC) described as “**sizeable and competitively priced” corn supply from Brazil**.
 
@@ -48,7 +48,7 @@ As the chart below shows, Brazil’s corn exports in 2022 offset the seasonal lo
 ![242](assets/2023-08-13_brazil-dry-bulk-export-driver_img_242_6c9670bc4d84.png)
 
 > **Figure 2: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-13_brazil-dry-bulk-export-driver_img_242_6c9670bc4d84.png)
+> [Local Asset](assets/2023-08-13_brazil-dry-bulk-export-driver_img_242_6c9670bc4d84.png)
 
 **Panamax/Kamsarmax**tonnage is the main vessel size employed on**Brazil’s corn trades, particularly on longhaul trades into East Asia**.
 
@@ -63,7 +63,7 @@ Vessel tracking data suggests that 34% of corn volumes loaded at Brazil in July 
 ![243](assets/2023-08-13_brazil-dry-bulk-export-driver_img_243_811ed8eddb8d.png)
 
 > **Figure 3: 243**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-13_brazil-dry-bulk-export-driver_img_243_811ed8eddb8d.png)
+> [Local Asset](assets/2023-08-13_brazil-dry-bulk-export-driver_img_243_811ed8eddb8d.png)
 
 As the chart above shows, Capesizes have consistently traded at a premium to Panamaxes in recent months, a stark difference to much of 2022 when Panamax rates largely outperformed the Capes.
 
@@ -76,7 +76,7 @@ While it is true that this year’s export volumes represent a return to year-on
 ![244](assets/2023-08-13_brazil-dry-bulk-export-driver_img_244_82be876550d6.png)
 
 > **Figure 4: 244**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-13_brazil-dry-bulk-export-driver_img_244_82be876550d6.png)
+> [Local Asset](assets/2023-08-13_brazil-dry-bulk-export-driver_img_244_82be876550d6.png)
 
 ### Braemar Research
 

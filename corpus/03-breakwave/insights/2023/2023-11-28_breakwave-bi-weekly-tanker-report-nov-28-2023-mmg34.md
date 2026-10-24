@@ -22,17 +22,17 @@ source_file: "corpus/03-breakwave/insights/2023/2023-11-28_breakwave-bi-weekly-t
 [![Homepagebanner1](assets/2023-11-28_breakwave-bi-weekly-tanker-report-nov-28-2023-mmg34_img_homepagebanner1_bc54990543ef.png)
 
 > **Figure 1: Homepagebanner1**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-28_breakwave-bi-weekly-tanker-report-nov-28-2023-mmg34_img_homepagebanner1_bc54990543ef.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](assets/2023-11-28_breakwave-bi-weekly-tanker-report-nov-28-2023-mmg34_img_homepagebanner1_bc54990543ef.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
 
 [![Homepagebutton](assets/2023-11-28_breakwave-bi-weekly-tanker-report-nov-28-2023-mmg34_img_homepagebutton_01114095b1c9.png)
 
 > **Figure 2: Homepagebutton**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-28_breakwave-bi-weekly-tanker-report-nov-28-2023-mmg34_img_homepagebutton_01114095b1c9.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
+> [Local Asset](assets/2023-11-28_breakwave-bi-weekly-tanker-report-nov-28-2023-mmg34_img_homepagebutton_01114095b1c9.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
 
 ![Tankerreporttop](assets/2023-11-28_breakwave-bi-weekly-tanker-report-nov-28-2023-mmg34_img_tankerreporttop_74480ad6b4cd.png)
 
 > **Figure 3: Tankerreporttop**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-28_breakwave-bi-weekly-tanker-report-nov-28-2023-mmg34_img_tankerreporttop_74480ad6b4cd.png)
+> [Local Asset](assets/2023-11-28_breakwave-bi-weekly-tanker-report-nov-28-2023-mmg34_img_tankerreporttop_74480ad6b4cd.png)
 
 **· VLCC rates stable amid ongoing challenges and shifting dynamics in oil supply/demand –**The VLCC freight market**sentiment**appeared**softer**at the end of November, despite a more promising outlook mid-month, hinting at a better-balanced market. However,**freight rates**have**improved compared to levels seen a month ago**with VLCC rates from the Middle East and West Africa to China recording a monthly increase of roughly 20%. Meanwhile,**challenges persist**in the tanker market, particularly concerning oil supply and demand, but also volatile oil prices, and these factors will be crucial in shaping market dynamics as we head into December. Looking a bit closer at the oil demand prospects, a**subdued outlook**for future growth and**conflicting demand projections**from OPEC (more positive) and the IEA (more cautious) underscore uncertainties in the market's trajectory and thus complicates the outlook for freight rates in the intermediate future.**Freight futures**continue to price a**stable**December market, followed by a decline in freight rates during the seasonally weaker first half of 2024. However, time and again,**tightness due to winter weather**can always alter the supply/demand picture, and although fundamentally**less oil shipments**translate to less demand for tankers, such marginal changes could become a secondary factor when vessels get delayed due to weather factors.
 
@@ -43,11 +43,11 @@ source_file: "corpus/03-breakwave/insights/2023/2023-11-28_breakwave-bi-weekly-t
 ![Tankerreportchart](assets/2023-11-28_breakwave-bi-weekly-tanker-report-nov-28-2023-mmg34_img_tankerreportchart_3d96e647d445.png)
 
 > **Figure 4: Tankerreportchart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-28_breakwave-bi-weekly-tanker-report-nov-28-2023-mmg34_img_tankerreportchart_3d96e647d445.png)
+> [Local Asset](assets/2023-11-28_breakwave-bi-weekly-tanker-report-nov-28-2023-mmg34_img_tankerreportchart_3d96e647d445.png)
 
 ![Tankerreportbottom](assets/2023-11-28_breakwave-bi-weekly-tanker-report-nov-28-2023-mmg34_img_tankerreportbottom_2f86bec8999c.png)
 
 > **Figure 5: Tankerreportbottom**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-28_breakwave-bi-weekly-tanker-report-nov-28-2023-mmg34_img_tankerreportbottom_2f86bec8999c.png)
+> [Local Asset](assets/2023-11-28_breakwave-bi-weekly-tanker-report-nov-28-2023-mmg34_img_tankerreportbottom_2f86bec8999c.png)
 
 ### Subscribe:

@@ -35,14 +35,14 @@ Whilst petrol prices in the United States have risen sharply, both the American 
 ![Market Chart 1](assets/2026-03-19_private-credit-still-quite-far-from-a-2008-event_img_image008_6f5cb0581332.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-19_private-credit-still-quite-far-from-a-2008-event_img_image008_6f5cb0581332.png)
+> [Local Asset](assets/2026-03-19_private-credit-still-quite-far-from-a-2008-event_img_image008_6f5cb0581332.png)
 
 Even as it remains difficult to look beyond the all-consuming Iran story, the time has come to direct our attention to a rapidly developing situation in the American financial markets: the unfolding stress in the non-bank Private Credit industry.
 
 ![Market Chart 2](assets/2026-03-19_private-credit-still-quite-far-from-a-2008-event_img_image009_2dc475d69437.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-19_private-credit-still-quite-far-from-a-2008-event_img_image009_2dc475d69437.png)
+> [Local Asset](assets/2026-03-19_private-credit-still-quite-far-from-a-2008-event_img_image009_2dc475d69437.png)
 
 Market crises fall broadly into two categories: exogenous and endogenous.
 
@@ -67,7 +67,7 @@ From February onwards, the newsflow has become considerably more alarming. Blue 
 ![Market Chart 3](assets/2026-03-19_private-credit-still-quite-far-from-a-2008-event_img_image010_5fac599c1984.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-19_private-credit-still-quite-far-from-a-2008-event_img_image010_5fac599c1984.png)
+> [Local Asset](assets/2026-03-19_private-credit-still-quite-far-from-a-2008-event_img_image010_5fac599c1984.png)
 
 ### Three Key Risks
 
@@ -76,14 +76,14 @@ From February onwards, the newsflow has become considerably more alarming. Blue 
 ![Portfolio Valuations:](assets/2026-03-19_private-credit-still-quite-far-from-a-2008-event_img_image011_1e27ba0d3e99.png)
 
 > **Figure 4: Portfolio Valuations:**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-19_private-credit-still-quite-far-from-a-2008-event_img_image011_1e27ba0d3e99.png)
+> [Local Asset](assets/2026-03-19_private-credit-still-quite-far-from-a-2008-event_img_image011_1e27ba0d3e99.png)
 
 Approximately $220 billion (out of $2 trillion total industry AUM and $1.5 trillion deployed) is considered to be at elevated risk. Roughly 11% of capital deployed in software companies carries potentially higher default risk. UBS estimates that default rates could rise by 3% to 4% to reach 5–7% of total, whilst the author of the report, Matthew Mish, indicated that in a tail scenario defaults could reach as high as 15%.
 
 ![2. Potential Losses:](assets/2026-03-19_private-credit-still-quite-far-from-a-2008-event_img_image012_8e0fa07fa434.png)
 
 > **Figure 5: 2. Potential Losses:**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-19_private-credit-still-quite-far-from-a-2008-event_img_image012_8e0fa07fa434.png)
+> [Local Asset](assets/2026-03-19_private-credit-still-quite-far-from-a-2008-event_img_image012_8e0fa07fa434.png)
 
 **3. Systemic contagion:**Whilst the market is not large in absolute terms, the experience of 2008 demonstrates that even a relatively small market can cause serious dislocations across global financial markets. Only days ago, Deutsche Bank disclosed $30 billion of direct exposure to Private Credit, which sent its CDS spreads (the market’s measure of default risk) rising. The issuance of new leveraged loans has declined by 30% over the past year, which may in turn, create a broader drag on M&A activity and market liquidity.
 
@@ -92,7 +92,7 @@ The risks inherent in private investments are a concern we have been raising sin
 ![Market Chart 6](assets/2026-03-19_private-credit-still-quite-far-from-a-2008-event_img_image013_ea1a09e09403.png)
 
 > **Figure 6: Market Chart 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-19_private-credit-still-quite-far-from-a-2008-event_img_image013_ea1a09e09403.png)
+> [Local Asset](assets/2026-03-19_private-credit-still-quite-far-from-a-2008-event_img_image013_ea1a09e09403.png)
 
 ### Implications for Investors
 

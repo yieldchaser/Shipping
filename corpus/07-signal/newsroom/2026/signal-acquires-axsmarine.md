@@ -34,7 +34,7 @@ Signal Ocean has long held deep respect for the market structure and dynamics of
 ![6979ef140e7c1ae7814ae5fc Ioannis Gilbert Land](../../images/6979ef140e7c1ae7814ae5fc_Ioannis-_Gilbert_land.png)
 
 > **Figure 1: 6979ef140e7c1ae7814ae5fc Ioannis Gilbert Land**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/signal-acquires-axsmarine) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6979ef140e7c1ae7814ae5fc_Ioannis-_Gilbert_land.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/signal-acquires-axsmarine) | [Local Asset](../../images/6979ef140e7c1ae7814ae5fc_Ioannis-_Gilbert_land.png)
 
 Signal Ocean also reaffirmed the importance of its broader network of partnerships, including its valued relationship with BRS, a leading shipbroking group which remains a long-term satisfied client of both the Signal Ocean and AXSMarine solutions. The companies will continue developing and strengthening their partnership to create greater alignment and improve efficiency for users across the sector.
 

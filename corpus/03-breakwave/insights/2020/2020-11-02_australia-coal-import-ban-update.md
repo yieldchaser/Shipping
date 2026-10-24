@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-11-02_australia-coal-import
 ![Market Chart 1](assets/2020-11-02_australia-coal-import-ban-update_img_image-asset_c3ecc79c8ac3.jpeg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-02_australia-coal-import-ban-update_img_image-asset_c3ecc79c8ac3.jpeg)
+> [Local Asset](assets/2020-11-02_australia-coal-import-ban-update_img_image-asset_c3ecc79c8ac3.jpeg)
 
 As we first discussed in a client note on Tuesday, a panamax vessel was fixed on Tuesday to ship coal from Australia to China. This fixture came as a very large surprise and it remains to be seen if the coal will actually be shipped to China. The vessel is scheduled to load at Dalrymple Bay between November 9th - 13th, and if it does actually unload its cargo in Jingtang, this would certainly be at odds with China maintaining a complete ban on coal imports from Australia. At present, we do not anticipate that this shipment will take place and we will be continuing to monitor all relevant developments closely.
 

@@ -29,7 +29,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-08-21_tankers-research-upda
 ![Bfe8 Image 0 1755745751951](assets/2025-08-21_tankers-research-update_img_bfe8-image-0-1755745751951_14cf2a2999a4.png)
 
 > **Figure 1: Bfe8 Image 0 1755745751951**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-21_tankers-research-update_img_bfe8-image-0-1755745751951_14cf2a2999a4.png)
+> [Local Asset](assets/2025-08-21_tankers-research-update_img_bfe8-image-0-1755745751951_14cf2a2999a4.png)
 
 • The decline in European barrels heading to West Africa — historically a core employment route for MRs and LR1s — is leaving more gasoline trapped in Europe. Inventories in Rotterdam independent storage have climbed by over 25% year on year in 2025. While refiners have adjusted their yields to favour diesel amid stronger diesel crack margins, European gasoline cracks have still averaged just $9/bl this year, a third below 2024 levels.
 

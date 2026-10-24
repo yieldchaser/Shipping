@@ -27,14 +27,14 @@ As we discussed in Commodore Research's most recent Weekly Executive Report, Chi
 ![Chart 1 (1)](assets/2026-07-24_near-term-prospects-for-chinas-coal-imports-remain-very-bullish_img_chart128129_5807b30747e1.jpg)
 
 > **Figure 1: Chart 1 (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-24_near-term-prospects-for-chinas-coal-imports-remain-very-bullish_img_chart128129_5807b30747e1.jpg)
+> [Local Asset](assets/2026-07-24_near-term-prospects-for-chinas-coal-imports-remain-very-bullish_img_chart128129_5807b30747e1.jpg)
 
 Coal-derived electricity generation totaled 498 billion kilowatt hours. This is up month-on-month by 25.4 billion kilowatt hours (5%) and up year-on-year by 4.1 billion kilowatt hours (1%). Very helpful for coal import demand and the dry bulk market is that China's coal-derived electricity generation has now fared better than domestic coal production for six straight months. Before these last six months, coal-derived electricity generation had fared worse than domestic coal production in three of the prior four months. Going forward, we remain very bullish for China's coal import prospects.
 
 ![Chart 2 (1)](assets/2026-07-24_near-term-prospects-for-chinas-coal-imports-remain-very-bullish_img_chart228129_9300cae22254.jpg)
 
 > **Figure 2: Chart 2 (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-24_near-term-prospects-for-chinas-coal-imports-remain-very-bullish_img_chart228129_9300cae22254.jpg)
+> [Local Asset](assets/2026-07-24_near-term-prospects-for-chinas-coal-imports-remain-very-bullish_img_chart228129_9300cae22254.jpg)
 
 ---
 

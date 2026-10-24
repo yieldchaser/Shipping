@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-23_ekejsqcl0jjqj2qrwm57x
 [![Buttonwdate](assets/2022-11-23_ekejsqcl0jjqj2qrwm57x5yfyhzykz_img_buttonwdate_d45d644f7990.png)
 
 > **Figure 1: Buttonwdate**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/dahynes/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-23_ekejsqcl0jjqj2qrwm57x5yfyhzykz_img_buttonwdate_d45d644f7990.png)](https://www.breakwaveadvisors.com/agenda22)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/dahynes/) | [Local Asset](assets/2022-11-23_ekejsqcl0jjqj2qrwm57x5yfyhzykz_img_buttonwdate_d45d644f7990.png)](https://www.breakwaveadvisors.com/agenda22)
 
 *By*[*Daniel Hynes*](https://www.linkedin.com/in/dahynes/)
 
@@ -31,7 +31,7 @@ A risk on tone across markets boosted sentiment across the commodity complex. Th
 ![1669150707445](assets/2022-11-23_ekejsqcl0jjqj2qrwm57x5yfyhzykz_img_1669150707445_5349cde3d26f.png)
 
 > **Figure 2: 1669150707445**  
-> **Interactive Data & Source:** [Publications Anz](https://publications.anz.com/SingletrackCMS__DownloadDocument?docRef=9da60b05-bf7c-4f82-aa5a-e5b354bbd29a&uid=bd219b92-f5cc-400e-9646-4178791864b7&jobRef=a78ca078-9889-47f0-be05-a6dd8c6f59b6) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-23_ekejsqcl0jjqj2qrwm57x5yfyhzykz_img_1669150707445_5349cde3d26f.png)
+> **Interactive Data & Source:** [Publications Anz](https://publications.anz.com/SingletrackCMS__DownloadDocument?docRef=9da60b05-bf7c-4f82-aa5a-e5b354bbd29a&uid=bd219b92-f5cc-400e-9646-4178791864b7&jobRef=a78ca078-9889-47f0-be05-a6dd8c6f59b6) | [Local Asset](assets/2022-11-23_ekejsqcl0jjqj2qrwm57x5yfyhzykz_img_1669150707445_5349cde3d26f.png)
 
 **Crude oil**struggled to keep its head above water in early trading amid an uncertain economic backdrop. Health officials in China advised sticking with COVID-zero amid the severe outbreak. Restrictions were tightened across several cities, including mandated tests within 48 hours to access public venues in Beijing. This weighed on the outlook for demand. Crude oil prices rallied after Saudi Arabia was joined by Kuwait in rejecting the idea that OPEC+ was considering an output hike. The largest OPEC producer said it stands ready to make further cuts if needed. This comes as the group implements its recent cut to quotas of 2mb/d. This policy is expected to stay in place until the end of 2023. The market is also cautious as G7 nation discuss a price-cap plan. Chinese buyers are said to have paused some purchases of Russian crude amid the uncertainty.
 

@@ -27,7 +27,7 @@ May 22, 2025
 ![Στιγμιότυπο Οθόνης 2025 05 23 110855](assets/2025-05-23_dry-bulk-fleet-growth-2025-2026_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c161033b6b57.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 05 23 110855**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-23_dry-bulk-fleet-growth-2025-2026_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c161033b6b57.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-23_dry-bulk-fleet-growth-2025-2026_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c161033b6b57.png)
 
 According to Signal Ocean Orderbook Data Analytics – Dry Bulk Fleet Projection Analysis, between 2020 In 2024, the global dry bulk fleet experienced steady expansion, increasing from 4,545 vessels in 2020 to 5,330 vessels by the end of 2024. This growth was primarily supported by sustained newbuilding deliveries and relatively low levels of scrapping activity.
 
@@ -44,7 +44,7 @@ While the fleet is still projected to grow by nearly 500 vessels by the end of 2
 ![Στιγμιότυπο Οθόνης 2025 05 23 111418](assets/2025-05-23_dry-bulk-fleet-growth-2025-2026_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_028ccd82e49d.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 05 23 111418**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-23_dry-bulk-fleet-growth-2025-2026_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_028ccd82e49d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-23_dry-bulk-fleet-growth-2025-2026_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_028ccd82e49d.png)
 
 Capesize freight market sentiment held a relatively flat momentum, while the Panamax market on the Continent–Far East route recorded a soft downward trend.
 
@@ -56,7 +56,7 @@ Capesize freight market sentiment held a relatively flat momentum, while the Pan
 ![Στιγμιότυπο Οθόνης 2025 05 23 111907](assets/2025-05-23_dry-bulk-fleet-growth-2025-2026_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fd7d4d80b0bb.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 05 23 111907**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-23_dry-bulk-fleet-growth-2025-2026_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fd7d4d80b0bb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-23_dry-bulk-fleet-growth-2025-2026_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fd7d4d80b0bb.png)
 
 Capesize and Panamax activity in Southeast Africa remains above the annual average, according to Ballaster indicators.
 
@@ -69,7 +69,7 @@ Capesize and Panamax activity in Southeast Africa remains above the annual avera
 ![Στιγμιότυπο Οθόνης 2025 05 23 111954](assets/2025-05-23_dry-bulk-fleet-growth-2025-2026_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c85d44c00c4a.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 05 23 111954**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-23_dry-bulk-fleet-growth-2025-2026_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c85d44c00c4a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-23_dry-bulk-fleet-growth-2025-2026_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c85d44c00c4a.png)
 
 Panamax and Supramax vessel segments showed stable tonne-day growth momentum, while Capesize vessels have begun a slow upward trend.
 
@@ -81,7 +81,7 @@ Panamax and Supramax vessel segments showed stable tonne-day growth momentum, wh
 ![Στιγμιότυπο Οθόνης 2025 05 23 112046](assets/2025-05-23_dry-bulk-fleet-growth-2025-2026_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc63e9ea63f8.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 05 23 112046**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-23_dry-bulk-fleet-growth-2025-2026_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc63e9ea63f8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-23_dry-bulk-fleet-growth-2025-2026_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc63e9ea63f8.png)
 
 Dry bulk port congestion in China continued to ease in the third week of May, following a persistent increase in April.
 

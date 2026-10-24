@@ -65,7 +65,7 @@ Still, despite the recent rebound in demand, cargo order volumes for the past mo
 ![Στιγμιότυπο Οθόνης 2024 12 04 161157](assets/2024-12-04_commodities-performance_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d418e3891d08.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 12 04 161157**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-04_commodities-performance_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d418e3891d08.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-12-04_commodities-performance_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d418e3891d08.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

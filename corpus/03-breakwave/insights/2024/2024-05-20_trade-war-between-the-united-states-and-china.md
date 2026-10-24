@@ -33,7 +33,7 @@ In 2023, China produced 1.019 billion tonnes of steel, reflecting a 0.6 percent 
 ![Στιγμιότυπο Οθόνης 2024 05 20 094439](assets/2024-05-20_trade-war-between-the-united-states-and-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6fbe6d910613.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 20 094439**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-20_trade-war-between-the-united-states-and-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6fbe6d910613.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-05-20_trade-war-between-the-united-states-and-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6fbe6d910613.png)
 
 While China was exporting large volumes of steel, India's coal imports were on the rise. In FY24, India's coal imports increased by 7.7 percent to 268.24 million tonnes, driven by lower seaborne prices and an expected rise in power demand during the summer. In March 2024, non-coking coal imports reached 15.33 million tonnes, up from 13.88 million tonnes in March FY23. Coking coal imports for March 2024 were 5.34 million tonnes, compared to 3.96 million tonnes a year earlier. For the entire FY24, non-coking coal imports totaled 175.96 million tonnes, exceeding the 162.46 million tonnes imported in FY23. Coking coal imports amounted to 57.22 million tonnes in 2023-24, up from 54.46 million tonnes in 2022-23. Looking forward, India's power ministry has instructed thermal plants to defer planned maintenance and revive plants that are under long-term outages to prepare for peak power demand expected in May and June, according to an official statement on May 11.
 
@@ -42,7 +42,7 @@ Against this background and in spite this week soft tone, the Baltic Supramax in
 ![Στιγμιότυπο Οθόνης 2024 05 20 094704](assets/2024-05-20_trade-war-between-the-united-states-and-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e1bad0a5a625.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 05 20 094704**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-20_trade-war-between-the-united-states-and-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e1bad0a5a625.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-05-20_trade-war-between-the-united-states-and-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e1bad0a5a625.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

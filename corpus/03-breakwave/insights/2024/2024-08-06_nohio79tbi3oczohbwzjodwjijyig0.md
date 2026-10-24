@@ -67,7 +67,7 @@ Weekly cargo order volumes for dry bulk commodities due for discharge in Chinese
 ![Στιγμιότυπο Οθόνης 2024 08 06 115208](assets/2024-08-06_nohio79tbi3oczohbwzjodwjijyig0_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9c5a46ce6bdc.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 08 06 115208**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-06_nohio79tbi3oczohbwzjodwjijyig0_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9c5a46ce6bdc.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-08-06_nohio79tbi3oczohbwzjodwjijyig0_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9c5a46ce6bdc.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

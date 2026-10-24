@@ -27,7 +27,7 @@ A risk-on tone across markets boosted sentiment across commodities. This was tri
 ![Screenshot 2024 08 19 10.57.10](assets/2024-08-19_qdyjyp77rgbmivrn9win3hdw08q6hz_img_screenshot2024-08-19105710_079fe0cc7f7d.png)
 
 > **Figure 1: Screenshot 2024 08 19 10.57.10**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-19_qdyjyp77rgbmivrn9win3hdw08q6hz_img_screenshot2024-08-19105710_079fe0cc7f7d.png)
+> [Local Asset](assets/2024-08-19_qdyjyp77rgbmivrn9win3hdw08q6hz_img_screenshot2024-08-19105710_079fe0cc7f7d.png)
 
 ### Market Commentary
 
@@ -48,7 +48,7 @@ House prices in China's 70 largest cities continue to weaken amid a lack of buyi
 ![Screenshot 2024 08 19 11.00.54](assets/2024-08-19_qdyjyp77rgbmivrn9win3hdw08q6hz_img_screenshot2024-08-19110054_8c7a825109df.png)
 
 > **Figure 2: Screenshot 2024 08 19 11.00.54**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-19_qdyjyp77rgbmivrn9win3hdw08q6hz_img_screenshot2024-08-19110054_8c7a825109df.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-08-19_qdyjyp77rgbmivrn9win3hdw08q6hz_img_screenshot2024-08-19110054_8c7a825109df.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

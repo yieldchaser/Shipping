@@ -27,7 +27,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-22_positive-economic-dat
 ![Screenshot 2024 03 22 11.22.28](assets/2024-03-22_positive-economic-data-pushes-metals-higher_img_screenshot2024-03-22112228_408b19061249.png)
 
 > **Figure 1: Screenshot 2024 03 22 11.22.28**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-22_positive-economic-data-pushes-metals-higher_img_screenshot2024-03-22112228_408b19061249.png)
+> [Local Asset](assets/2024-03-22_positive-economic-data-pushes-metals-higher_img_screenshot2024-03-22112228_408b19061249.png)
 
 **Gold**surged to a record high as the prospect of rate cuts from the Fed rose. The precious metal hit USD2,220.89/oz before giving back some gains late in the session as the USD rose. The Fed maintained its outlook for three rate cuts this year at Wednesday’s FOMC meeting, suggesting it hasn’t been concerned with the recent up-tick in inflation. This was a green light for investors, with holdings of gold-backed ETFs recording strong inflows. The SPDR Gold Shares ETF, the world’s largest, rose for the fourth day. These[**flows have been absent in this year’s gold prices rally**](../pdfs/2024-03-22_positive-economic-data-pushes-metals-higher_the-vault-what-s-next-for-gold_b23234cf91af.pdf), with other factors including heightened geopolitical risks and buying from central banks underpinning the gains. However, increased demand from gold-backed ETFs suggests the current rally could be the start of something more sustainable.
 
@@ -42,7 +42,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-22_positive-economic-dat
 ![Screenshot 2024 03 22 11.22.46](assets/2024-03-22_positive-economic-data-pushes-metals-higher_img_screenshot2024-03-22112246_5821c12f2851.png)
 
 > **Figure 2: Screenshot 2024 03 22 11.22.46**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-22_positive-economic-data-pushes-metals-higher_img_screenshot2024-03-22112246_5821c12f2851.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-03-22_positive-economic-data-pushes-metals-higher_img_screenshot2024-03-22112246_5821c12f2851.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

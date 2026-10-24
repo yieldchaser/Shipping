@@ -32,14 +32,14 @@ Meanwhile, coal imports to northwest Europe have reached a remarkable peak, with
 ![Accelerated Growth After 2 Years of Near Standstill](assets/2022-07-21_signal-dry-bulk-weekly-report_img_unnamed284329_380606c5716c.png)
 
 > **Figure 1: Accelerated Growth After 2 Years of Near Standstill**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-21_signal-dry-bulk-weekly-report_img_unnamed284329_380606c5716c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-07-21_signal-dry-bulk-weekly-report_img_unnamed284329_380606c5716c.png)
 
 ## Top Origin and Top Destination Ports, % Share, From Africa to the Netherlands
 
 ![Market Chart 2](assets/2022-07-21_signal-dry-bulk-weekly-report_img_unnamed284429_4dcd44042f2a.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-21_signal-dry-bulk-weekly-report_img_unnamed284429_4dcd44042f2a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-07-21_signal-dry-bulk-weekly-report_img_unnamed284429_4dcd44042f2a.png)
 
 Data Source: The Signal Ocean Platform, Dry Bulk Flows, Coal, from South Africa to the Netherlands, 2020-2022
 
@@ -50,7 +50,7 @@ Data Source: The Signal Ocean Platform, Dry Bulk Flows, Coal, from South Africa 
 ![Market Chart 3](assets/2022-07-21_signal-dry-bulk-weekly-report_img_unnamed284529_8158a917146f.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-21_signal-dry-bulk-weekly-report_img_unnamed284529_8158a917146f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-07-21_signal-dry-bulk-weekly-report_img_unnamed284529_8158a917146f.png)
 
 Freight sentiment remained unchanged compared to the previous weeks of July, as a downward trend continued to be observed in the smaller vessel categories. The Capesize segment continued its ongoing upward trend in July, while the Panamax and Handysize segments recorded a steady decline.
 
@@ -66,7 +66,7 @@ Freight sentiment remained unchanged compared to the previous weeks of July, as 
 ![Supply Trend Lines for Key Load Areas](assets/2022-07-21_signal-dry-bulk-weekly-report_img_unnamed284629_5be730eb0f80.png)
 
 > **Figure 4: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-21_signal-dry-bulk-weekly-report_img_unnamed284629_5be730eb0f80.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-07-21_signal-dry-bulk-weekly-report_img_unnamed284629_5be730eb0f80.png)
 
 In the Supramax segment, the number of ships continued to increase, while, there was also a clear upward trend in the number of Capesize vessels.
 
@@ -82,7 +82,7 @@ In the Supramax segment, the number of ships continued to increase, while, there
 ![Decreasing](assets/2022-07-21_signal-dry-bulk-weekly-report_img_unnamed284629_5be730eb0f80.png)
 
 > **Figure 5: Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-21_signal-dry-bulk-weekly-report_img_unnamed284629_5be730eb0f80.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-07-21_signal-dry-bulk-weekly-report_img_unnamed284629_5be730eb0f80.png)
 
 The downward trend continued in the third week of July, with the Handysize, Panamax, and Capesize segments recording significantly lower growth.
 
@@ -98,7 +98,7 @@ The downward trend continued in the third week of July, with the Handysize, Pana
 ![Dry Bulk Ships Congested at Chinese Ports](assets/2022-07-21_signal-dry-bulk-weekly-report_img_unnamed284829_41f85b162a22.png)
 
 > **Figure 6: Dry Bulk Ships Congested at Chinese Ports**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-21_signal-dry-bulk-weekly-report_img_unnamed284829_41f85b162a22.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-07-21_signal-dry-bulk-weekly-report_img_unnamed284829_41f85b162a22.png)
 
 While the number of congested vessels is still below average, we have seen a week-over-week rise in recent days. There was a further increase in the Handysize segment, while a downward trend was recorded in the larger ship categories.
 

@@ -31,7 +31,7 @@ October 03, 2024
 ![Στιγμιότυπο Οθόνης 2024 10 03 130730](assets/2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_05fc81527f9d.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 03 130730**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/news-articles-c3vkdp3rx17o/2qltjp/440257829/h/rBPB-pHBpxIarT59sr2CXWqTSrTvEEQUd801gWRakqs) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_05fc81527f9d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/news-articles-c3vkdp3rx17o/2qltjp/440257829/h/rBPB-pHBpxIarT59sr2CXWqTSrTvEEQUd801gWRakqs) | [Local Asset](assets/2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_05fc81527f9d.png)
 
 The central focus in seaborne trade this week is the[ongoing strike at U.S. ports](https://go.signalocean.com/e/983831/news-articles-c3vkdp3rx17o/2qltjp/440257829/h/rBPB-pHBpxIarT59sr2CXWqTSrTvEEQUd801gWRakqs), which is causing widespread disruption across the industry. Dockworkers at 36 major ports along the East and Gulf Coasts, including critical hubs like Houston, New York, and Savannah, are on strike, resulting in significant delays in vessel loading and unloading. Experts estimate that the strike could cost the U.S. economy up to $4.5 billion per day. Since the strike began on October 1st, container traffic has already been heavily impacted, while the number of dry bulk vessels congested at the Port of New Orleans is hitting new highs. Vessel congestion there has surged by a staggering 190% monthly increase, with a 13% increase weekly. The Handysize and Supramax vessel categories are bearing the brunt of these disruptions, experiencing the highest levels of congestion. There is no clear resolution in sight for the strike. Although President Joe Biden has the authority to suspend the strike for up to 80 days to allow for further negotiations, the White House has stated that he does not currently plan to intervene.
 
@@ -40,7 +40,7 @@ In the dry bulk freight market, the Brazil-to-China route is showing signs of so
 ![Στιγμιότυπο Οθόνης 2024 10 03 130840](assets/2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2512e030098.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 03 130840**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2512e030098.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2512e030098.png)
 
 The dry bulk freight market has shown mixed sentiment in early October. A softening trend is evident in the Capesize Brazil–North China and Panamax Continent–Far East routes, while the Supramax Indo–ECI and Handysize NOPAC routes have maintained steady market conditions.
 
@@ -52,7 +52,7 @@ The dry bulk freight market has shown mixed sentiment in early October. A soften
 ![Στιγμιότυπο Οθόνης 2024 10 03 131838](assets/2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72ea9643e426.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 10 03 131838**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72ea9643e426.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72ea9643e426.png)
 
 The first week of October began with indications of a continued decline in the number of ballasters for Capesize and Panamax vessels in Southeast Asia, falling below the annual trend. In contrast, there has been an increase in the smaller vessel size categories.
 
@@ -64,7 +64,7 @@ The first week of October began with indications of a continued decline in the n
 ![Στιγμιότυπο Οθόνης 2024 10 03 131947](assets/2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7564fc344ed0.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 10 03 131947**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7564fc344ed0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7564fc344ed0.png)
 
 In the first week of October, the outlook for dry tonne-days remains promising for the Capesize segment, while a downward trend is observed across other vessel size categories.
 
@@ -76,7 +76,7 @@ In the first week of October, the outlook for dry tonne-days remains promising f
 ![Στιγμιότυπο Οθόνης 2024 10 03 132032](assets/2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f87a5982896c.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 10 03 132032**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f87a5982896c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f87a5982896c.png)
 
 The congestion at Chinese dry bulk ports showed signs of easing by the end of last week in September, and October began with a downward revision in the Panamax and Supramax segments.
 

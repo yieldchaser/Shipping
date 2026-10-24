@@ -25,7 +25,7 @@ Between 2000 and 2024, China transformed from a relatively marginal player in gl
 ![Στιγμιότυπο Οθόνης 2025 04 16 112509](assets/2025-04-16_chinas-geoeconomic-ascent-and-global-trade-realignment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_be14163e6da7.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 04 16 112509**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-16_chinas-geoeconomic-ascent-and-global-trade-realignment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_be14163e6da7.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-04-16_chinas-geoeconomic-ascent-and-global-trade-realignment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_be14163e6da7.png)
 
 ### Seaborne Trade Deficit: Structural Imbalances and Strategic Shifts
 
@@ -36,14 +36,14 @@ On the import side, high-tech and industrial goods—such as electronics, machin
 ![Στιγμιότυπο Οθόνης 2025 04 16 112518](assets/2025-04-16_chinas-geoeconomic-ascent-and-global-trade-realignment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fbb1f32271d8.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 04 16 112518**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-16_chinas-geoeconomic-ascent-and-global-trade-realignment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fbb1f32271d8.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-04-16_chinas-geoeconomic-ascent-and-global-trade-realignment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fbb1f32271d8.png)
 
 Energy trade has similarly evolved under the weight of geopolitical friction. During the U.S. shale boom, crude oil and LNG exports to China surged, facilitated by VLCCs and LNG carriers. Yet the imposition of tariffs led to a steep decline in flows, prompting China to diversify its energy supply. Beijing has since increased reliance on long-haul imports from the Middle East and Russia, redrawing global tanker routes and reducing U.S. Gulf shipments in the process.
 
 ![Στιγμιότυπο Οθόνης 2025 04 16 113014](assets/2025-04-16_chinas-geoeconomic-ascent-and-global-trade-realignment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33f70d6ad0e1.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 04 16 113014**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-16_chinas-geoeconomic-ascent-and-global-trade-realignment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33f70d6ad0e1.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-04-16_chinas-geoeconomic-ascent-and-global-trade-realignment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33f70d6ad0e1.png)
 
 Conclusion: Seaborne Trade as a Geopolitical Barometer China’s rise is not just a market story—it’s a deliberate reengineering of global trade. The U.S.-China trade war marks a structural rift, not a policy dispute. Its consequences are being written into shipping lanes, port calls, and fleet strategies—turning maritime trade into the frontline of geoeconomic competition.
 

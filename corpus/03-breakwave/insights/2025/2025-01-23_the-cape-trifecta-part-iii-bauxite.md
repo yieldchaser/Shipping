@@ -23,14 +23,14 @@ source_file: "corpus/03-breakwave/insights/2025/2025-01-23_the-cape-trifecta-par
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2025-01-23_the-cape-trifecta-part-iii-bauxite_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-23_the-cape-trifecta-part-iii-bauxite_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](assets/2025-01-23_the-cape-trifecta-part-iii-bauxite_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 In 2024, China, as the commanding player in the global seaborne bauxite market, accounting for 85% of global bauxite trade volume, continued to see its imports grow strongly. According to AXSMarine data, China's bauxite seaborne imports (across all parcel sizes) increased by 12.6% year-on-year in 2024, reaching 171.6 million tons. Capesize (>160,000 Dwt) vessels, are the main beneficiaries, transporting 75% of China's bauxite imports, thus playing an increasingly vital role in both the Chinese and Atlantic Capesize markets.
 
 ![Στιγμιότυπο Οθόνης 2025 01 23 134647](assets/2025-01-23_the-cape-trifecta-part-iii-bauxite_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d8715d098f64.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 01 23 134647**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-23_the-cape-trifecta-part-iii-bauxite_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d8715d098f64.png)
+> [Local Asset](assets/2025-01-23_the-cape-trifecta-part-iii-bauxite_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d8715d098f64.png)
 
 As previously discussed under its "Cornerstone Plan"(Issue 148, 10 January 2025), China is actively promoting domestic iron ore production. However, the landscape is radically different in the bauxite arena and China is, and will be, dependent on overseas supplies for the foreseeable future.
 
@@ -41,7 +41,7 @@ Infrastructure improvements in West Africa, led by Guinea and including Ivory Co
 ![Στιγμιότυπο Οθόνης 2025 01 23 134700](assets/2025-01-23_the-cape-trifecta-part-iii-bauxite_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d9e463f8beaa.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 01 23 134700**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-23_the-cape-trifecta-part-iii-bauxite_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d9e463f8beaa.png)
+> [Local Asset](assets/2025-01-23_the-cape-trifecta-part-iii-bauxite_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d9e463f8beaa.png)
 
 The importance of imported bauxite is evident in the breakdown of China's bauxite consumption. In 2024, imported bauxite is estimated to have accounted for around 73% of total consumption, up from 63% in 2023.
 
@@ -52,7 +52,7 @@ Bauxite demand is reliant on the demand for alumina and aluminum, both of which 
 ![Στιγμιότυπο Οθόνης 2025 01 23 134719](assets/2025-01-23_the-cape-trifecta-part-iii-bauxite_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4611a48e9b33.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 01 23 134719**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-23_the-cape-trifecta-part-iii-bauxite_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4611a48e9b33.png)
+> [Local Asset](assets/2025-01-23_the-cape-trifecta-part-iii-bauxite_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4611a48e9b33.png)
 
 China's aluminum production has been steadily increasing over the past five years, maintaining an annual growth rate of over 3%. As of the end of November 2024, China’s built aluminum capacity was approximately 45.31 million tons, with operating capacity at 43.58 million tons, reflecting a capacity utilization rate of 96.18%, according to Mysteel.
 

@@ -28,8 +28,8 @@ How will the cutoff in Libyan supplies impact the oil and tanker market going fo
 
 ![Exhibit 1: It is a Mess in the Med](../../../charts/poten/2020/poten_2020-02-07_it-is-a-mess-in-the-med-2_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-02-07_it-is-a-mess-in-the-med-2_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../../extracted/charts/poten/2020/poten_2020-02-07_it-is-a-mess-in-the-med-2_chart1.png)
 
 ![Exhibit 2: It is a Mess in the Med](../../../charts/poten/2020/poten_2020-02-07_it-is-a-mess-in-the-med-2_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2020/poten_2020-02-07_it-is-a-mess-in-the-med-2_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../../extracted/charts/poten/2020/poten_2020-02-07_it-is-a-mess-in-the-med-2_chart2.png)

@@ -31,7 +31,7 @@ tags:
 ![66ab49c5f85b58ce1a516386 66a21624b3e8e0bee29ba320 Chart%20of%20the%20week%2030](../../images/66ab49c5f85b58ce1a516386_66a21624b3e8e0bee29ba320_chart%20of%20the%20week%2030.avif)
 
 > **Figure 1: 66ab49c5f85b58ce1a516386 66a21624b3e8e0bee29ba320 Chart%20of%20the%20week%2030**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-30-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66ab49c5f85b58ce1a516386_66a21624b3e8e0bee29ba320_chart%20of%20the%20week%2030.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-30-2024) | [Local Asset](../../images/66ab49c5f85b58ce1a516386_66a21624b3e8e0bee29ba320_chart%20of%20the%20week%2030.avif)
 
 The last week of July continued to reflect the weakening trend in Capesize rates from Brazil to North China. This decline was accompanied by a rise in the number of ballast vessels, exceeding the annual average, suggesting a potential oversupply scenario in the near future.
 

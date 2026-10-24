@@ -34,7 +34,7 @@ In the grain segment, the first ship carrying grain left a Ukrainian port early 
 ![Market Chart 1](assets/2022-08-03_signal-dry-bulk-weekly-report_img_unnamed285229_ea77660856a9.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-03_signal-dry-bulk-weekly-report_img_unnamed285229_ea77660856a9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-08-03_signal-dry-bulk-weekly-report_img_unnamed285229_ea77660856a9.png)
 
 Bearish sentiment continued for Capesize and Supramax in early August, while Panamax freight rates trended firmer over the past two weeks.
 
@@ -50,7 +50,7 @@ Bearish sentiment continued for Capesize and Supramax in early August, while Pan
 ![Supply Trend Lines for Key Load Areas](assets/2022-08-03_signal-dry-bulk-weekly-report_img_unnamed285329_0a6dbdb78d51.png)
 
 > **Figure 2: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-03_signal-dry-bulk-weekly-report_img_unnamed285329_0a6dbdb78d51.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-08-03_signal-dry-bulk-weekly-report_img_unnamed285329_0a6dbdb78d51.png)
 
 Early August saw a significant increase in the number of Capesize vessels and a continued upward trend in Handysize vessels.
 
@@ -66,7 +66,7 @@ Early August saw a significant increase in the number of Capesize vessels and a 
 ![Decreasing](assets/2022-08-03_signal-dry-bulk-weekly-report_img_unnamed285429_5f720f618382.png)
 
 > **Figure 3: Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-03_signal-dry-bulk-weekly-report_img_unnamed285429_5f720f618382.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-08-03_signal-dry-bulk-weekly-report_img_unnamed285429_5f720f618382.png)
 
 The downward trend has continued more strongly in the Capesize segment since the last days of July, while an upward trend has been seen in Panamax and Supramax.
 
@@ -82,7 +82,7 @@ The downward trend has continued more strongly in the Capesize segment since the
 ![Dry Bulk Ships Congested at Chinese Ports](assets/2022-08-03_signal-dry-bulk-weekly-report_img_unnamed285529_2f7398004aca.png)
 
 > **Figure 4: Dry Bulk Ships Congested at Chinese Ports**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-03_signal-dry-bulk-weekly-report_img_unnamed285529_2f7398004aca.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-08-03_signal-dry-bulk-weekly-report_img_unnamed285529_2f7398004aca.png)
 
 The number of ships in congestion in the Capesize, Supramax, and Handysize size classes increased significantly, while the number of Panamax ships remained about the same as the previous week.
 

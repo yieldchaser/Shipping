@@ -33,7 +33,7 @@ In this analysis, Allied Quantumsea Research maps the situation as it stands tod
 ![Στιγμιότυπο Οθόνης 2026 03 04 142316](assets/2026-03-04_iranus-escalation-strait-of-hormuz-risk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4a81ad66636b.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 03 04 142316**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-04_iranus-escalation-strait-of-hormuz-risk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4a81ad66636b.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-03-04_iranus-escalation-strait-of-hormuz-risk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4a81ad66636b.png)
 
 ### Strait of Hormuz: What’s the Current Situation?
 
@@ -76,7 +76,7 @@ The Council on Foreign Relations further notes that escalating U.S.–Iran tensi
 ![Στιγμιότυπο Οθόνης 2026 03 04 142335](assets/2026-03-04_iranus-escalation-strait-of-hormuz-risk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55623c791645.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 03 04 142335**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-04_iranus-escalation-strait-of-hormuz-risk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55623c791645.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-03-04_iranus-escalation-strait-of-hormuz-risk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55623c791645.png)
 
 ### Maritime Operating Picture — Functional Disruption Without Formal Legal Closure
 
@@ -101,7 +101,7 @@ The serious constraint underpinning forward scenarios is limited substitutabilit
 ![Στιγμιότυπο Οθόνης 2026 03 04 142352](assets/2026-03-04_iranus-escalation-strait-of-hormuz-risk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da9a5d51b0ec.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 03 04 142352**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-04_iranus-escalation-strait-of-hormuz-risk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da9a5d51b0ec.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-03-04_iranus-escalation-strait-of-hormuz-risk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da9a5d51b0ec.png)
 
 While some Gulf producers maintain pipeline infrastructure that can partially bypass transit through the Strait of Hormuz, most notably Saudi Arabia’s East–West (Petroline) pipeline to the Red Sea and the UAE’s Abu Dhabi Crude Oil Pipeline to Fujairah, available bypass capacity remains significantly below total seaborne export volumes that typically transit the Strait. Analysis by the Council on Foreign Relations notes that countries dependent on unimpeded passage through the Strait would face significant export disruption in the event of a major regional conflict.
 
@@ -113,7 +113,7 @@ Maritime traffic through the Strait is continuing under heightened risk conditio
 
 > **Figure 4: Sources: Joint Maritime Information Center (Jmic)**  
 > *Sources: Joint Maritime Information Center (JMIC), Council on Foreign Relations analysis referencing U.S. Energy Information Administration data, Lloyd’s List reporting, institutional market commentary (Citi, JPMorgan, Wood Mackenzie), and publicly available ship-tracking data as of 3 March 2026.*  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-04_iranus-escalation-strait-of-hormuz-risk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0a348735eda5.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-03-04_iranus-escalation-strait-of-hormuz-risk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0a348735eda5.png)
 
 At present, commercial flows remain active, though at higher cost and with greater operational caution. Historical episodes, including the tanker attacks during the Iran–Iraq War and the 2019 Gulf incidents, show that shipping and energy markets can operate under significant strain, even as freight volatility and risk premiums remain elevated while uncertainty persists.
 

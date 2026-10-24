@@ -31,7 +31,7 @@ tags:
 ![664df49b270f6e1067032dfc Chart of the Week 21](../../images/664df49b270f6e1067032dfc_chart of the week 21.avif)
 
 > **Figure 1: 664df49b270f6e1067032dfc Chart of the Week 21**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-21-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/664df49b270f6e1067032dfc_chart of the week 21.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-21-2024) | [Local Asset](../../images/664df49b270f6e1067032dfc_chart of the week 21.avif)
 
 In the third week of May, there are indications that the Capesize market segment is showing resistance, with rates in the Brazil to North China route seemingly holding firm and not expected to drop before the end of the month. However, there's a growing number of ballasters in Southeast Africa, introducing uncertainty regarding the segment's firmness for the summer season.
 

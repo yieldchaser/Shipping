@@ -29,7 +29,7 @@ Russian crude exports are having to travel farther as the country redirects flow
 
 > **Figure 1: Russian Crude Exports (Excl**  
 > *Russian crude exports (excl. Kebco & CPC blend) per destination (mt, LHS) vs short-haul share (%, RHS)*  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/crude/irans-crude-condensate-exports-reached-9-month-highs-in-october-2022/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-16_the-shipping-logistics-behind-reshuffling-russian-crude_img_chart-1-5-1024x715_7bb04140cf21.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/crude/irans-crude-condensate-exports-reached-9-month-highs-in-october-2022/) | [Local Asset](assets/2022-11-16_the-shipping-logistics-behind-reshuffling-russian-crude_img_chart-1-5-1024x715_7bb04140cf21.png)
 
 While shorter-haul exports of Russian crude have decreased, longer-haul exports are increasing and are expected to increase further in the months following the EU ban on Russian oil and products. The obvious consequence of increasing voyage mileage is that turnaround times for voyages increase, which means that each tanker can be reused fewer times in a month. Essentially, this translates to a higher number of vessels being required. To highlight the implications this could have on the tanker fleet required to accommodate these new markets, we have explored the potential tanker requirements for three main scenarios.
 
@@ -43,7 +43,7 @@ In our final scenario, we take into account what could have been sent to Europe 
 
 > **Figure 2: Requirements by Vessel Class to Export Europe-Facing Russian**  
 > *Requirements by vessel class to export Europe-facing Russian crude in three different periods/scenarios (no. of vessels)*  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/crude/irans-crude-condensate-exports-reached-9-month-highs-in-october-2022/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-16_the-shipping-logistics-behind-reshuffling-russian-crude_img_chart-2-4-1024x728_29b531b66809.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/crude/irans-crude-condensate-exports-reached-9-month-highs-in-october-2022/) | [Local Asset](assets/2022-11-16_the-shipping-logistics-behind-reshuffling-russian-crude_img_chart-2-4-1024x728_29b531b66809.png)
 
 The fleet in our final scenario includes a requirement of 91 ice-class Aframaxes, about 2.5 times the 36 currently available to Russia. Not only that, but the total fleet requirement is almost 5 times more than what was required last winter if Russia’s aim is to maintain 100% of their current exports to China, India and Turkey. This also begs the question: are these requirements sufficient to be absorbed by Russia’s shadow candidates?
 
@@ -51,7 +51,7 @@ The fleet in our final scenario includes a requirement of 91 ice-class Aframaxes
 
 > **Figure 3: Number of Viable Candidates for Carrying Russian Crude Post-Eu**  
 > *Number of viable candidates for carrying Russian crude post-EU ban (no. of vessels)*  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/crude/irans-crude-condensate-exports-reached-9-month-highs-in-october-2022/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-16_the-shipping-logistics-behind-reshuffling-russian-crude_img_chart-3-1-1024x724_3f279cf5a04d.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/crude/irans-crude-condensate-exports-reached-9-month-highs-in-october-2022/) | [Local Asset](assets/2022-11-16_the-shipping-logistics-behind-reshuffling-russian-crude_img_chart-3-1-1024x724_3f279cf5a04d.png)
 
 Examining the shadow fleet above – made up of Russia-affiliated vessels, vessels involved in Iranian and Venezuelan sanctioned trade and ice-class vessels from recent S&P activities – we can see that this fleet could virtually absorb Russia’s current fleet (for more details see[here](https://www.vortexa.com/insights/crude/irans-crude-condensate-exports-reached-9-month-highs-in-october-2022/)). However, practically, this would require all of the aforementioned Iranian and Venezuelan vessels to be involved, which is not necessarily going to be the case. Additionally, and more importantly, even if this were to materialise, the ice-class requirements are far too high for Russia to maintain 100% of their crude exports out of the Baltic. This means that a reduction in Russian exports in Q1 is highly likely and adds further aspects for Russia to consider when deciding whether or not to accept an oil price cap.
 

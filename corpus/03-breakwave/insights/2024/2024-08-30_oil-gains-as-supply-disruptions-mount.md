@@ -26,7 +26,7 @@ Robust economic data in the US boosted sentiment. Supply side issues across ener
 ![Στιγμιότυπο Οθόνης 2024 08 30 120439](assets/2024-08-30_oil-gains-as-supply-disruptions-mount_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e019c2801d97.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 08 30 120439**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-30_oil-gains-as-supply-disruptions-mount_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e019c2801d97.png)
+> [Local Asset](assets/2024-08-30_oil-gains-as-supply-disruptions-mount_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e019c2801d97.png)
 
 ### Market Commentary
 
@@ -43,4 +43,4 @@ The stronger USD triggered by the better-than-expected economic data weighed on 
 ![Στιγμιότυπο Οθόνης 2024 08 30 120451](assets/2024-08-30_oil-gains-as-supply-disruptions-mount_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1232360acce5.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 08 30 120451**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-30_oil-gains-as-supply-disruptions-mount_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1232360acce5.png)
+> [Local Asset](assets/2024-08-30_oil-gains-as-supply-disruptions-mount_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1232360acce5.png)

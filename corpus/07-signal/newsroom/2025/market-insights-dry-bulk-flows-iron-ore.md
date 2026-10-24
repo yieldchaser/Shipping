@@ -39,12 +39,12 @@ tags:
 ![China Hits Bhp’s West Australian Flow - Rio Reinforces Pilbara Output](../../images/68e647beb9aa18c6b96a1d5a_5fcde4b6.png)
 
 > **Figure 1: China Hits Bhp’s West Australian Flow - Rio Reinforces Pilbara Output**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-dry-bulk-flows-iron-ore) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68e647beb9aa18c6b96a1d5a_5fcde4b6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-dry-bulk-flows-iron-ore) | [Local Asset](../../images/68e647beb9aa18c6b96a1d5a_5fcde4b6.png)
 
 
 ![China Hits Bhp’s West Australian Flow - Rio Reinforces Pilbara Output](../../images/68e647beb9aa18c6b96a1d5d_ddefc66b.png)
 
 > **Figure 2: China Hits Bhp’s West Australian Flow - Rio Reinforces Pilbara Output**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-dry-bulk-flows-iron-ore) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68e647beb9aa18c6b96a1d5d_ddefc66b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-dry-bulk-flows-iron-ore) | [Local Asset](../../images/68e647beb9aa18c6b96a1d5d_ddefc66b.png)
 
 **Stay ahead of the curve. Get access to the** [**Signal Ocean Platform**](https://calendly.com/thesignalgroup/inbound-demo-session?utm\_source=market+insight&utm\_medium=newsroom&utm\_campaign=inbound) **.**

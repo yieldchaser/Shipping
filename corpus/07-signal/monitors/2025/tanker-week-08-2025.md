@@ -33,7 +33,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-08-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67b70604d52256e2ab8496b5_AD_4nXcbRvd4eqcnlq8AEZbBaDPdboyius1QbGatJfMmnrUkrZHhpVTSUDLw5G0yoe7nnuvyNJZXL1rrd6TcUlhTb62Z_af1RktEQtD7FMeW8Digm_-lFS1EtEWNKdg1krPC61TIW6IKgw.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-08-2025) | [Local Asset](../../images/67b70604d52256e2ab8496b5_AD_4nXcbRvd4eqcnlq8AEZbBaDPdboyius1QbGatJfMmnrUkrZHhpVTSUDLw5G0yoe7nnuvyNJZXL1rrd6TcUlhTb62Z_af1RktEQtD7FMeW8Digm_-lFS1EtEWNKdg1krPC61TIW6IKgw.avif)
 
 The evolving geopolitical landscape surrounding the Russia-Ukraine war and global energy markets presents critical implications for crude oil supply and trade dynamics. As diplomatic efforts emerge to end the conflict, the oil market is closely monitoring potential changes in supply, demand, and pricing.
 

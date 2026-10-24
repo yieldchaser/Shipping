@@ -28,7 +28,7 @@ This week saw yet another set of bullish data coming out of China, with both imp
 
 > **Figure 1: Source: China General Administration of Customs**  
 > *Source: China General Administration of Customs*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-15_trade-chinese-exports-and-imports-continue-to-show-strength_img_ulf1d_8128731c7c7e.png)
+> [Local Asset](assets/2021-04-15_trade-chinese-exports-and-imports-continue-to-show-strength_img_ulf1d_8128731c7c7e.png)
 
 Though exports surged by 30.6 per cent in dollar terms last month compared to a year ago, the total fell short of the 38 per cent median forecast in a Bloomberg survey of economists and was a far cry from the previous month’s record-breaking gains. Despite this, it was the ninth consecutive month of year-on-year growth for Chinese exports, which has greatly benefited from the rising global demand for medical supplies and work-from-home equipment during the pandemic.
 
@@ -39,7 +39,7 @@ During the first quarter of the year, the exports to both the US and Europe grew
 ![Unsplash Image 1wz5i0yhhia](assets/2021-04-15_trade-chinese-exports-and-imports-continue-to-show-strength_img_unsplash-image-1wz5i0yhhia_a400fc88c94a.jpg)
 
 > **Figure 2: Unsplash Image 1wz5i0yhhia**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-15_trade-chinese-exports-and-imports-continue-to-show-strength_img_unsplash-image-1wz5i0yhhia_a400fc88c94a.jpg)
+> [Local Asset](assets/2021-04-15_trade-chinese-exports-and-imports-continue-to-show-strength_img_unsplash-image-1wz5i0yhhia_a400fc88c94a.jpg)
 
 Although there are some concerns regarding the strength of the domestic Chinese economy, with consumer spending growth remaining sluggish, the rising imports suggest the world’s second-largest economy will continue to gather momentum. Additionally, the sales of construction excavators, widely seen as a bellwether for infrastructure investments, surged 85 per cent during the first quarter compared to a year earlier and would indicate that the country’s appetite for industrial commodities will remain strong. Still, weakening demand for Chinese exports could weigh on the economy and the first-quarter growth is likely to be the strongest of the year. A strong first quarter will nevertheless set the economy on track to beat the government’s annual growth target of over six per cent, with many analysts expecting it to top eight per cent.
 

@@ -27,7 +27,7 @@ Approximately 46 dry bulk newbuildings were delivered in March, which is 21 more
 ![Chart 1](assets/2025-05-09_dry-bulk-fleet-growth-remains-moderate_img_chart1_fba0a6498248.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-09_dry-bulk-fleet-growth-remains-moderate_img_chart1_fba0a6498248.jpg)
+> [Local Asset](assets/2025-05-09_dry-bulk-fleet-growth-remains-moderate_img_chart1_fba0a6498248.jpg)
 
 As we continue to stress in Commodore Research's Weekly Executive Reports, dry bulk fleet growth remains moderate. The fleet is not growing by an insignificant amount, and seemingly all segments of dry bulk trade volume still need to continue to grow for dry bulk rates to be able to climb.
 

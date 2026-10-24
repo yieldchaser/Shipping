@@ -32,7 +32,7 @@ tags:
 ![Heading](../../images/6515453f94abb808561e2a5e_russian diesel.png)
 
 > **Figure 1: Heading**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-39-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6515453f94abb808561e2a5e_russian diesel.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-39-2023) | [Local Asset](../../images/6515453f94abb808561e2a5e_russian diesel.png)
 
 In the last week of September, there is some optimism in the VLCC crude oil freight market after a difficult summer season. It should be noted, however, that while there are positive signs, growth rates in tonne days aren't yet robust. The real test is ahead as we move into October, with supply figures already showing a downward trend. This decline is expected to be a driving force for the recovery of the freight market in the coming months.
 

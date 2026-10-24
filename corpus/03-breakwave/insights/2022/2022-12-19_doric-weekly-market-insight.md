@@ -28,7 +28,7 @@ In tandem, the UNCTAD nowcast indicates that the value of global trade will decr
 ![1 (3)](assets/2022-12-19_doric-weekly-market-insight_img_128329_57d3d169ce94.png)
 
 > **Figure 1: 1 (3)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-19_doric-weekly-market-insight_img_128329_57d3d169ce94.png)
+> [Local Asset](assets/2022-12-19_doric-weekly-market-insight_img_128329_57d3d169ce94.png)
 
 While the outlook for global trade remains uncertain, negative factors appear to outweigh positive trends, according to the intergovernmental organization. In particular, economic growth projections for 2023 are being revised downwards due to high energy prices, tighter monetary policies and sustained inflation in many economies. Additionally, persistently high commodity prices and the continued rise in the prices of intermediate inputs and consumers goods are expected to negatively affect demand for imports. Last but not least, record levels of global debt and the increase in interest rates pose significant concerns for debt sustainability. On the contrary, recently signed agreements such as the Regional Comprehensive Economic Partnership and the African Continental Free Trade Area, as well as improvements in the logistics of global trade are expected to have a positive bearing in the trading volumes of 2023.
 
@@ -37,6 +37,6 @@ As far as the maritime trade is concerned, UNCTAD projects it will lose further 
 ![1 (4)](assets/2022-12-19_doric-weekly-market-insight_img_128429_259c4709fcfb.png)
 
 > **Figure 2: 1 (4)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-19_doric-weekly-market-insight_img_128429_259c4709fcfb.png)
+> [Local Asset](assets/2022-12-19_doric-weekly-market-insight_img_128429_259c4709fcfb.png)
 
 With the above in mind, the front ends of the dry bulk sector forward curves are in backwardation, with first quarter values balancing well below current spot market appraisals across the board. However, both market consensus as well as Q2 and Q3 23 forward values seem to be in agreement that a recovery may only be a few months away.

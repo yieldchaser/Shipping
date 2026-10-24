@@ -34,7 +34,7 @@ Official UN data and trade flow data confirm that the effects of the temporary a
 ![1](assets/2022-11-08_the-shipfix-blog-ukrainian-grain-exports-facing-renewed-uncertainty_img_1_8f67676b321e.png)
 
 > **Figure 1: 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-08_the-shipfix-blog-ukrainian-grain-exports-facing-renewed-uncertainty_img_1_8f67676b321e.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-11-08_the-shipfix-blog-ukrainian-grain-exports-facing-renewed-uncertainty_img_1_8f67676b321e.png)
 
 As a potential sign of wariness among grain traders and shippers over the likelihood of a renewal of the deal amid rising Russian rhetoric over the deal’s shortcomings, Shipfix’s forward-looking cargo order data registered a sharp decline of new orders last week compared to the previous ones. After remaining at pre-war levels for most of the past three months, advertised weekly volumes fell to the lowest since the run-up to the deal being signed, even before the Russian suspension happened. Still, the early parts of this week saw daily cargo orders remaining significant in defiance of the Russian moratorium. Hence, there may be a perception of declining Russian leverage over Ukrainian grain exports in light of recent events, which could support future volumes.
 
@@ -43,14 +43,14 @@ While the brief Russian withdrawal from the agreement could lead to some short-t
 ![Cargo Orders Grain Ukraine 20221103](assets/2022-11-08_the-shipfix-blog-ukrainian-grain-exports-facing-renewed-uncertainty_img_cargoordersgrainukraine20221103_22e7a4704fc4.png)
 
 > **Figure 2: Cargo Orders Grain Ukraine 20221103**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-08_the-shipfix-blog-ukrainian-grain-exports-facing-renewed-uncertainty_img_cargoordersgrainukraine20221103_22e7a4704fc4.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-11-08_the-shipfix-blog-ukrainian-grain-exports-facing-renewed-uncertainty_img_cargoordersgrainukraine20221103_22e7a4704fc4.png)
 
 Against a background of rising uncertainty over the future of the deal and the short-lived Russian withdrawal, tonnage supply has remained robust over the past three months. The vessels available for the trade have typically belonged to the older and smaller categories. However, according to Shipfix’s data, larger vessels have become increasingly available. In October, the balance of the marketed aggregate tonnage shifted towards Panamaxes and Supramaxes. Still, in terms of the number of vessels, the smaller segments still dominate.
 
 ![Advertised Tonnage for Ukraine 20221103](assets/2022-11-08_the-shipfix-blog-ukrainian-grain-exports-facing-renewed-uncertainty_img_advertisedtonnageforukraine20221103_aef4d6c0706e.png)
 
 > **Figure 3: Advertised Tonnage for Ukraine 20221103**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-08_the-shipfix-blog-ukrainian-grain-exports-facing-renewed-uncertainty_img_advertisedtonnageforukraine20221103_aef4d6c0706e.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-11-08_the-shipfix-blog-ukrainian-grain-exports-facing-renewed-uncertainty_img_advertisedtonnageforukraine20221103_aef4d6c0706e.png)
 
 It is often said that a week is a long time in politics, but it appears it could be an eternity in geopolitics. This time a week ago, traders and analysts debated the prospects of a renewal of the Ukrainian grain export deal in a few weeks. Since then, Russia has, over the course of a few days, both left and rejoined the agreement. While the renewal of the deal is yet to be agreed upon, the suggestion that several countries were prepared to maintain the flow of grains even without Russian involvement could put less emphasis on the deal. Hence, Ukrainian grain exports could be supported even without an agreement. Still, such a development would be dependent on the availability of vessel and cargo insurance.
 

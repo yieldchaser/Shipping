@@ -35,7 +35,7 @@ In contrast to the ongoing Chinese ban on Australian coal, the Russian exports o
 ![Ch1.jpg](assets/2022-04-15_seaborne-coal-due-for-a-shakeup_img_ch1jpg_b8f2fc4bbcfa.png)
 
 > **Figure 1: Ch1.jpg**  
-> **Interactive Data & Source:** [Blog Shipfix](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-4-india-key-to-changing-trade-patterns) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-15_seaborne-coal-due-for-a-shakeup_img_ch1jpg_b8f2fc4bbcfa.png)
+> **Interactive Data & Source:** [Blog Shipfix](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-4-india-key-to-changing-trade-patterns) | [Local Asset](assets/2022-04-15_seaborne-coal-due-for-a-shakeup_img_ch1jpg_b8f2fc4bbcfa.png)
 
 Source: Shipfix
 
@@ -48,7 +48,7 @@ In recent weeks, cargo order data for coal discharging in Europe or Japan have b
 ![Ch2](assets/2022-04-15_seaborne-coal-due-for-a-shakeup_img_ch2_5ed6502ef878.png)
 
 > **Figure 2: Ch2**  
-> **Interactive Data & Source:** [Blog Shipfix](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-4-india-key-to-changing-trade-patterns) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-15_seaborne-coal-due-for-a-shakeup_img_ch2_5ed6502ef878.png)
+> **Interactive Data & Source:** [Blog Shipfix](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-4-india-key-to-changing-trade-patterns) | [Local Asset](assets/2022-04-15_seaborne-coal-due-for-a-shakeup_img_ch2_5ed6502ef878.png)
 
 Source: Shipfix
 
@@ -57,7 +57,7 @@ Ordering activities for coal loading in the largest exporting countries have bee
 ![Cargo Orders for Top 5 Origins](assets/2022-04-15_seaborne-coal-due-for-a-shakeup_img_cargoordersfortop5origins_469c3f1052dc.png)
 
 > **Figure 3: Cargo Orders for Top 5 Origins**  
-> **Interactive Data & Source:** [Blog Shipfix](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-4-india-key-to-changing-trade-patterns) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-15_seaborne-coal-due-for-a-shakeup_img_cargoordersfortop5origins_469c3f1052dc.png)
+> **Interactive Data & Source:** [Blog Shipfix](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-4-india-key-to-changing-trade-patterns) | [Local Asset](assets/2022-04-15_seaborne-coal-due-for-a-shakeup_img_cargoordersfortop5origins_469c3f1052dc.png)
 
 Source: Shipfix
 

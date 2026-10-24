@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-05-25_strait-forward.html"
 ![Istock 1184092411 (1)](assets/2026-05-25_strait-forward_img_istock-118409241128129_e59424513d5b.jpg)
 
 > **Figure 1: Istock 1184092411 (1)**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-25_strait-forward_img_istock-118409241128129_e59424513d5b.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-05-25_strait-forward_img_istock-118409241128129_e59424513d5b.jpg)
 
 The Iran conflict is in its 12th week now, and the prospect for a deal which leads to normalisation in the Middle East look tenuous. Despite seeing some progress in the number of tankers transiting the Strait of Hormuz, compared to pre-war levels flows of oil and products remain at a trickle, with Iran and the US both vying for control. Numerous conditions would need to be met before pre-war traffic could resume; security guarantees, mine clearance, and a renewed insurance framework, among others. If these conditions are met, and such a comprehensive agreement is reached today between Iran and the US (as well as Israel and the GCC), what would the timeline be for a resumption of Middle East Gulf exports?
 
@@ -42,7 +42,7 @@ Overall, the path towards resumption of trade through the Strait of Hormuz is fr
 ![Στιγμιότυπο Οθόνης 2026 05 25 103655](assets/2026-05-25_strait-forward_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_360398028824.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 05 25 103655**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-25_strait-forward_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_360398028824.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-05-25_strait-forward_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_360398028824.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

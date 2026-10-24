@@ -35,7 +35,7 @@ Despite the IMF’s upward revisions to India’s growth outlook, recent data hi
 ![Στιγμιότυπο Οθόνης 2024 12 02 134207](assets/2024-12-02_growth-remains-robust_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0944c1d9033b.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 12 02 134207**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-02_growth-remains-robust_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0944c1d9033b.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-12-02_growth-remains-robust_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0944c1d9033b.png)
 
 While Asia’s growth prospects remain vital to the global economy, the dual forces of structural challenges and cyclical slowdowns in key economies like China and India cast a shadow over the broader outlook. Advanced economies in the region face persistent headwinds, while emerging markets continue to demonstrate resilience, albeit with moderating growth rates. Against this backdrop of economic uncertainty across Asia, the dry bulk spot market remained lackluster, with the Baltic indices continuing their downward trajectory.
 

@@ -25,14 +25,14 @@ source_file: "corpus/03-breakwave/insights/2024/2024-11-25_q4-rally-runs-out-of-
 ![Mideast Gulf to China VLCC (Td3c)](assets/2024-11-25_q4-rally-runs-out-of-steam_img_image0_8215e9bf5c7d.png)
 
 > **Figure 1: Mideast Gulf to China VLCC (Td3c)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-25_q4-rally-runs-out-of-steam_img_image0_8215e9bf5c7d.png)
+> [Local Asset](assets/2024-11-25_q4-rally-runs-out-of-steam_img_image0_8215e9bf5c7d.png)
 
 - **US Gulf to Mediterranean Aframax (TD25)**rose from $19,536/day on 14 November to $30,685/day on 18 November. Although it ticked down again, ending 21 November at $27,559/day.rose from $2,034/day on 8 November, its lowest level since March 2022, to $10,794/day on 21 November. The end of refinery maintenance in Europe has lifted November gasoline flows after a slow October but weak refining margins will likely limit the upside during the remainder of the fourth quarter.
 
 ![Ukc to Usac MR (Tc237)](assets/2024-11-25_q4-rally-runs-out-of-steam_img_image1_9c80decd4dad.png)
 
 > **Figure 2: Ukc to Usac MR (Tc237)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-25_q4-rally-runs-out-of-steam_img_image1_9c80decd4dad.png)
+> [Local Asset](assets/2024-11-25_q4-rally-runs-out-of-steam_img_image1_9c80decd4dad.png)
 
 ### China’s Export Tax Rebate Cut From 13% to 9% for Products, Cancelled for Uco
 
@@ -44,7 +44,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-11-25_q4-rally-runs-out-of-
 ![Market Chart 3](assets/2024-11-25_q4-rally-runs-out-of-steam_img_image2_1c4353338f93.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-25_q4-rally-runs-out-of-steam_img_image2_1c4353338f93.png)
+> [Local Asset](assets/2024-11-25_q4-rally-runs-out-of-steam_img_image2_1c4353338f93.png)
 
 - The recent change comes against backdrop of growing concern about slowing growth in the Chinese economy and in the country’s oil demand. The Chinese government announced stimulus measures in October and November, but most China watchers doubted it would have much impact on economic or oil demand growth. Chinese stocks continued to slump on Friday because of disappointing tech company earnings and concerns over Trump’s return to the White House.
 

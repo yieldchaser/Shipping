@@ -37,7 +37,7 @@ Since SVB’s collapse, roughly $120bn in cash has been pulled from the American
 
 > **Figure 1: This Time Around**  
 > *This time around, instead of treating inflation as transitory, they chose to treat financial instability as such.Central banks across the board used the same page from the playbook:“The financial system is strong, and we have the (non-interest rate) tools to fight instability if it needs to be”.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-28_mazars-comment-a-war-on-two-fronts_img_image00428529_91ff457ff715.jpg)
+> [Local Asset](assets/2023-03-28_mazars-comment-a-war-on-two-fronts_img_image00428529_91ff457ff715.jpg)
 
 Yet, despite the noise of banks breaking, central bankers have opted once again to flag their inflation-fighting credentials.
 
@@ -49,7 +49,7 @@ When all is said and done, however, we have entered (in the US) the area of 5% i
 
 > **Figure 2: But Most Importantly**  
 > *But most importantly, it would be detrimental towards their ability to influence markets. The ‘secret’ of central bankers, is that their biggest weapon issignalling. If theysignalmany future rate hikes, they might as well do less. Market forces, which always act in an anticipatory way, will do the much of tightening for them. If they signal more cheap money on the way, investors can relax and invest, flushing the markets with cash themselves.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-28_mazars-comment-a-war-on-two-fronts_img_image00528729_e5130148f8a4.jpg)
+> [Local Asset](assets/2023-03-28_mazars-comment-a-war-on-two-fronts_img_image00528729_e5130148f8a4.jpg)
 
 **A “War on Two Fronts”, with a primary focus on inflation, seems like a big risk.**
 
@@ -62,7 +62,7 @@ Could central banks have paused for a couple of months, and hike later if necess
 ![Market Chart 3](assets/2023-03-28_mazars-comment-a-war-on-two-fronts_img_image006281029_d0f89ec6544e.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-28_mazars-comment-a-war-on-two-fronts_img_image006281029_d0f89ec6544e.jpg)
+> [Local Asset](assets/2023-03-28_mazars-comment-a-war-on-two-fronts_img_image006281029_d0f89ec6544e.jpg)
 
 Pundits may easily cry “policy error”, and could even claim they are right if the next thing breaks. Right and wrong is a game of publicity, however. Real policymakers with great responsibility in their hands, increasingly find themselves with few, if any, good options.
 

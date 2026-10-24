@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-03-29_iron-ore-australia-ex
 ![Iron Roe 2](assets/2021-03-29_iron-ore-australia-expects-increasing-exports-while-missing-out-on-chinese-growt_img_ironroe2_9e95a4cdceb6.jpg)
 
 > **Figure 1: Iron Roe 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-29_iron-ore-australia-expects-increasing-exports-while-missing-out-on-chinese-growt_img_ironroe2_9e95a4cdceb6.jpg)
+> [Local Asset](assets/2021-03-29_iron-ore-australia-expects-increasing-exports-while-missing-out-on-chinese-growt_img_ironroe2_9e95a4cdceb6.jpg)
 
 The Australian government is anticipating the country to export a record-breaking AUD 136 billion (USD 104 billion) worth of iron ore in the financial year ending in June, as the world’s steel production recovers in the wake of the pandemic. The optimistic projection comes despite a decline in the exports of metalliferous ores, which mostly mean iron ore, in February, with a month-on-month decline of almost six per cent. However, compared to a year ago the value of the exports in February was, hardly surprising, up by a hefty 60 per cent, as the baseline was distorted by the accelerating pandemic. The decline in exports of iron ore last month was largely driven by a twelve per cent reduction in volumes being shipped to China, which, despite a decrease of just over five million tonnes, accounted for three-quarters of the market for the Australian output. The fall in iron ore exports also meant that February marked a twelve month low.
 
@@ -36,7 +36,7 @@ The bullish projections for Australian iron ore exports are perhaps somewhat at 
 ![Unsplash Image Ov9hp8wxkpe](assets/2021-03-29_iron-ore-australia-expects-increasing-exports-while-missing-out-on-chinese-growt_img_unsplash-image-ov9hp8wxkpe_311956586950.jpg)
 
 > **Figure 2: Unsplash Image Ov9hp8wxkpe**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-29_iron-ore-australia-expects-increasing-exports-while-missing-out-on-chinese-growt_img_unsplash-image-ov9hp8wxkpe_311956586950.jpg)
+> [Local Asset](assets/2021-03-29_iron-ore-australia-expects-increasing-exports-while-missing-out-on-chinese-growt_img_unsplash-image-ov9hp8wxkpe_311956586950.jpg)
 
 A development towards iron ore cargoes having to travel further to reach their buyer due to political considerations is good news for owners of dry bulk vessels, as the longer voyages will tie up the tonnage for longer and reduce the supply. With the order books in the shipyards at their thinnest for many years and scrap prices on the rise, there is very limited risk that we would see a rapidly expanding global dry bulk fleet at this stage. It is also interesting to note that there have been similar moves in the bauxite trade, with Chinese buyers increasingly looking in the direction of Guinea for their supplies instead of Australia and adding additional upward pressure on the tonne-mile demand as a result. Thus, a healthy environment for freight rates.
 

@@ -31,7 +31,7 @@ In the long term, the introduction of potential tariffs from China could diminis
 ![Στιγμιότυπο Οθόνης 2024 09 18 130214](assets/2024-09-18_wwh003pdfy7cdnp3lt9xbzmdu9cd9y_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_afec52bc5496.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 18 130214**  
-> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-18_wwh003pdfy7cdnp3lt9xbzmdu9cd9y_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_afec52bc5496.png)
+> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](assets/2024-09-18_wwh003pdfy7cdnp3lt9xbzmdu9cd9y_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_afec52bc5496.png)
 
 Data Source:[Intermodal](https://www.intermodal.gr/)
 

@@ -26,14 +26,14 @@ As we highlighted most recently in last week's Weekly Dry Bulk Report, a large g
 ![Chart 1 (75)](assets/2023-09-07_steel-and-industrial-weakness-outside-of-china_img_chart1287529_f37e4ed988f0.jpg)
 
 > **Figure 1: Chart 1 (75)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-07_steel-and-industrial-weakness-outside-of-china_img_chart1287529_f37e4ed988f0.jpg)
+> [Local Asset](assets/2023-09-07_steel-and-industrial-weakness-outside-of-china_img_chart1287529_f37e4ed988f0.jpg)
 
 June and July at least saw improvement as steel output ex-China, in total, came in flat on a year-on-year basis — but those previous fifteen months of output contracting by 77 million tons is still having an impact on our market as so many capesize vessels were never chartered to import iron ore. Ongoing growth in steel output in China, and a return of growth in steel output outside of China, is needed to help soak up what is still an excess supply of capesize vessels.
 
 ![Chart 2 (64)](assets/2023-09-07_steel-and-industrial-weakness-outside-of-china_img_chart2286429_35ac3bc3071e.jpg)
 
 > **Figure 2: Chart 2 (64)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-07_steel-and-industrial-weakness-outside-of-china_img_chart2286429_35ac3bc3071e.jpg)
+> [Local Asset](assets/2023-09-07_steel-and-industrial-weakness-outside-of-china_img_chart2286429_35ac3bc3071e.jpg)
 
 Steel output ex-China has still not returned to levels seen before the onset of the covid pandemic, even though global coronavirus cases peaked in Q1 2022 and most nations abandoned coronavirus-restrictions by late Q2 2022. Overall industrial production this year has also been mired in contraction in many economies due in part to economic weakness / recession that has continued in much of the world. 2022 also saw pulled-forward growth.
 
@@ -42,4 +42,4 @@ Conditions have remained particularly weak in Europe. As we discussed in last we
 ![Chart 3 (48)](assets/2023-09-07_steel-and-industrial-weakness-outside-of-china_img_chart3284829_c0adacf03c02.jpg)
 
 > **Figure 3: Chart 3 (48)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-07_steel-and-industrial-weakness-outside-of-china_img_chart3284829_c0adacf03c02.jpg)
+> [Local Asset](assets/2023-09-07_steel-and-industrial-weakness-outside-of-china_img_chart3284829_c0adacf03c02.jpg)

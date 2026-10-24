@@ -29,7 +29,7 @@ The United States Department of Agriculture is forecasting that global coarse gr
 ![Chart](assets/2025-05-22_jump-in-global-grain-trade-expected_img_chart_cf4e00172be7.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-22_jump-in-global-grain-trade-expected_img_chart_cf4e00172be7.jpg)
+> [Local Asset](assets/2025-05-22_jump-in-global-grain-trade-expected_img_chart_cf4e00172be7.jpg)
 
 ---
 

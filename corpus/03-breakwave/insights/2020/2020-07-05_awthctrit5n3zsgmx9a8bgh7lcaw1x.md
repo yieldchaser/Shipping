@@ -28,7 +28,7 @@ We’ve seen it all; from absolute termination of any trade and negative freight
 ![F3f11afe 4f88 49a8 B047 B9a71a8814d7](assets/2020-07-05_awthctrit5n3zsgmx9a8bgh7lcaw1x_img_f3f11afe-4f88-49a8-b047-b9a71a8814d7_448e489eae75.jpg)
 
 > **Figure 1: F3f11afe 4f88 49a8 B047 B9a71a8814d7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-07-05_awthctrit5n3zsgmx9a8bgh7lcaw1x_img_f3f11afe-4f88-49a8-b047-b9a71a8814d7_448e489eae75.jpg)
+> [Local Asset](assets/2020-07-05_awthctrit5n3zsgmx9a8bgh7lcaw1x_img_f3f11afe-4f88-49a8-b047-b9a71a8814d7_448e489eae75.jpg)
 
 The drivers that brought the Capesize spot market to current levels remain intact.
 

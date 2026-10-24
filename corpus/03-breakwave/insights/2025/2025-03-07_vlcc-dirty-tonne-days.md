@@ -29,7 +29,7 @@ Week 10, 6 March, 2025
 ![Στιγμιότυπο Οθόνης 2025 03 07 162952](assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b62eaa4a71e9.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 03 07 162952**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b62eaa4a71e9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b62eaa4a71e9.png)
 
 ### Sluggish VLCC Growth Amid Geopolitical Uncertainty
 
@@ -48,7 +48,7 @@ The overall decline in VLCC dirty tonne-days is concerning, signaling a weak dem
 ![Στιγμιότυπο Οθόνης 2025 03 07 163133](assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a6211b14692.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 03 07 163133**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a6211b14692.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a6211b14692.png)
 
 Sentiment in the**dirty freight market**appears fragile, with VLCC MEG/China routes still having difficulty finding stronger momentum.
 
@@ -58,21 +58,21 @@ Sentiment in the**dirty freight market**appears fragile, with VLCC MEG/China rou
 ![Στιγμιότυπο Οθόνης 2025 03 07 163229](assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ea364ba97c2f.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 03 07 163229**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ea364ba97c2f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ea364ba97c2f.png)
 
 - **LR2**AG freight rates held almost at similar levels of the previous week at around WS120, reflecting a 25% monthly increase.
 
 ![Στιγμιότυπο Οθόνης 2025 03 07 163438](assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5929385647a6.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 03 07 163438**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5929385647a6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5929385647a6.png)
 
 - **Panamax**Carib-to-USG rates gained firmer momentum in the last few days, rising to just below WS150, marking a 23% increase compared to the previous week.
 
 ![Στιγμιότυπο Οθόνης 2025 03 07 163711](assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5f95c82ba6f8.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 03 07 163711**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5f95c82ba6f8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5f95c82ba6f8.png)
 
 - **MR1**freight rates for Baltic-to-Continent shipments declined below WS200, reflecting a 9% monthly drop, with a weaker trend anticipated for March.​​​​
 
@@ -81,7 +81,7 @@ Sentiment in the**dirty freight market**appears fragile, with VLCC MEG/China rou
 ![Στιγμιότυπο Οθόνης 2025 03 07 163807](assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d9f202cc8120.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 03 07 163807**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d9f202cc8120.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d9f202cc8120.png)
 
 ​​​​​The availability of crude tankers continued to tighten for the VLCC and Suezmax segments, while recent estimates suggest an upward revision for Aframax vessels.
 
@@ -93,12 +93,12 @@ Sentiment in the**dirty freight market**appears fragile, with VLCC MEG/China rou
 ![Στιγμιότυπο Οθόνης 2025 03 07 164035](assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_87fcbe887b95.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 03 07 164035**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_87fcbe887b95.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_87fcbe887b95.png)
 
 ![Στιγμιότυπο Οθόνης 2025 03 07 164044](assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f51e09a5fa56.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2025 03 07 164044**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f51e09a5fa56.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f51e09a5fa56.png)
 
 - **Clean LR2 AG Jubail:**The downward trend persists, with the vessel count remaining slightly below the annual average of 11, following the spike observed at the end of week 6.
 
@@ -107,14 +107,14 @@ Sentiment in the**dirty freight market**appears fragile, with VLCC MEG/China rou
 ![Στιγμιότυπο Οθόνης 2025 03 07 164144](assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_77a28bccacc9.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 03 07 164144**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_77a28bccacc9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_77a28bccacc9.png)
 
 - **Dirty**tonne days: The growth rate of dirty tonne-days for VLCCs remained weak, reaching its lowest level in the past year. In contrast, the Suezmax segment showed a stronger recovery in early March, while Aframax activity gained momentum since late February, maintaining a slight trend above the annual average.
 
 ![Στιγμιότυπο Οθόνης 2025 03 07 164230](assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ee59f993eda.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 03 07 164230**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ee59f993eda.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ee59f993eda.png)
 
 - **Panamax**tonne days: The growth rate remained below the weekly annual average, with not yet signs of a rebound.
 

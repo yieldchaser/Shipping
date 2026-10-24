@@ -26,11 +26,11 @@ Recently released data shows that daily crude output at large and medium-sized m
 ![Chart 1 (59)](assets/2022-11-03_recent-decline-in-chinese-coastal-coal-freight-rates-and-steel-prices_img_chart1285929_c65c4d0d7f39.jpg)
 
 > **Figure 1: Chart 1 (59)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-03_recent-decline-in-chinese-coastal-coal-freight-rates-and-steel-prices_img_chart1285929_c65c4d0d7f39.jpg)
+> [Local Asset](assets/2022-11-03_recent-decline-in-chinese-coastal-coal-freight-rates-and-steel-prices_img_chart1285929_c65c4d0d7f39.jpg)
 
 We remain of our view that China’s steel output very likely bottomed in late July. Less positive, though, is that some previously improving segments in Chinese commodity markets have recently come under new pressure. As we discussed in our most recent Weekly Dry Bulk Report and Weekly China Report, Chinese coastal coal freight rates have come under renewed pressure and last week saw rates suffer their largest decline since late August. Chinese steel prices have also continued to decline. Chinese steel prices have now fallen for three straight weeks, with last week marking the largest decline since mid-August.
 
 ![Chart 2 (50)](assets/2022-11-03_recent-decline-in-chinese-coastal-coal-freight-rates-and-steel-prices_img_chart2285029_a734915a0fa6.jpg)
 
 > **Figure 2: Chart 2 (50)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-03_recent-decline-in-chinese-coastal-coal-freight-rates-and-steel-prices_img_chart2285029_a734915a0fa6.jpg)
+> [Local Asset](assets/2022-11-03_recent-decline-in-chinese-coastal-coal-freight-rates-and-steel-prices_img_chart2285029_a734915a0fa6.jpg)

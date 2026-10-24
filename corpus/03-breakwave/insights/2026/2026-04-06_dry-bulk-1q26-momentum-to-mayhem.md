@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-04-06_dry-bulk-1q26-momentu
 ![241](assets/2026-04-06_dry-bulk-1q26-momentum-to-mayhem_img_241_3305eacb0f66.webp)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-06_dry-bulk-1q26-momentum-to-mayhem_img_241_3305eacb0f66.webp)
+> [Local Asset](assets/2026-04-06_dry-bulk-1q26-momentum-to-mayhem_img_241_3305eacb0f66.webp)
 
 The dry bulk market entered 2026 with remarkable momentum, delivering a broadly robust performance across all vessel classes in the first two months of the year. From Capesizes to Handysizes, spot rates trended higher on a year-on-year basis, supported by sustained strength even through the typically quieter Chinese New Year period.
 
@@ -38,7 +38,7 @@ While the “Liberation Day” tariffs announced by President Trump on 2 April 2
 ![241](assets/2026-04-06_dry-bulk-1q26-momentum-to-mayhem_img_241_2b4b9ea45d2b.png)
 
 > **Figure 2: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-06_dry-bulk-1q26-momentum-to-mayhem_img_241_2b4b9ea45d2b.png)
+> [Local Asset](assets/2026-04-06_dry-bulk-1q26-momentum-to-mayhem_img_241_2b4b9ea45d2b.png)
 
 This development illustrates how a localized security event can propagate into a multi-market shock as the dry bulk sector absorbs the consequences of the energy shock through both higher transport costs and downstream demand effects.
 
@@ -67,7 +67,7 @@ The scramble to secure oil and other critical commodities is driving a renewed w
 ![242](assets/2026-04-06_dry-bulk-1q26-momentum-to-mayhem_img_242_718d64e28377.png)
 
 > **Figure 3: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-06_dry-bulk-1q26-momentum-to-mayhem_img_242_718d64e28377.png)
+> [Local Asset](assets/2026-04-06_dry-bulk-1q26-momentum-to-mayhem_img_242_718d64e28377.png)
 
 All said and done, the dry bulk market has repeatedly demonstrated resilience through a succession of global shocks - from trade wars and pandemics to geopolitical conflicts and supply chain disruptions - each reshaping demand, trade flows, and freight dynamics in different ways. From a long-term perspective, the ongoing Iran conflict represents the latest in this of stress tests. While uncertainty remains elevated, history suggests reinforcing the importance for market participants to remain adaptable to achieve a new equilibrium.
 

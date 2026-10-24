@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-06-02_622026wetreportkjujun
 ![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](assets/2026-06-02_622026wetreportkjujune2kjm_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1015222f5d81.png)
 
 > **Figure 1: Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-02_622026wetreportkjujune2kjm_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1015222f5d81.png)
+> [Local Asset](assets/2026-06-02_622026wetreportkjujune2kjm_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1015222f5d81.png)
 
 •**Oil Prices Ease as Expectations for a Piece Deal Soar**– While ongoing US-Iran discussions regarding the Strait of Hormuz have recently pushed oil prices to the bottom of their trading range, market volatility remains high due to geopolitical headline sensitivity. Despite current diplomatic efforts, a full**return to the pre-war status quo in the Strait appears highly unlikely**, which should continue to tighten the global oil market over the coming months. Concurrently, structural shifts are redefining major consumption centers.**China**has considerably eased its oil purchases,**revealing that its recent demand strength was largely an illusion**driven by inventory accumulation rather than organic consumption. With accelerated electrification, aggressive energy conservation, and rapid sustainable energy expansion, China's demand for transportation fuels has essentially plateaued. Consequently, while the current supply shock temporarily masks this profound structural demand shift, any**eventual normalization of global supply**will likely result in a**market balance that is considerably looser**than pre-war levels.
 
@@ -33,11 +33,11 @@ source_file: "corpus/03-breakwave/insights/2026/2026-06-02_622026wetreportkjujun
 ![Στιγμιότυπο Οθόνης 2026 06 02 084844](assets/2026-06-02_622026wetreportkjujune2kjm_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1915bb522590.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 06 02 084844**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-02_622026wetreportkjujune2kjm_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1915bb522590.png)
+> [Local Asset](assets/2026-06-02_622026wetreportkjujune2kjm_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1915bb522590.png)
 
 ![Στιγμιότυπο Οθόνης 2026 06 02 132349](assets/2026-06-02_622026wetreportkjujune2kjm_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3eb398a597d2.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 06 02 132349**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-02_622026wetreportkjujune2kjm_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3eb398a597d2.png)
+> [Local Asset](assets/2026-06-02_622026wetreportkjujune2kjm_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3eb398a597d2.png)
 
 ### Subscribe:

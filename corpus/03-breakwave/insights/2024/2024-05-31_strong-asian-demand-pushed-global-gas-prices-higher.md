@@ -27,7 +27,7 @@ Profit taking continued to weigh on prices across energy and metal markets. A we
 ![Στιγμιότυπο Οθόνης 2024 05 31 101633](assets/2024-05-31_strong-asian-demand-pushed-global-gas-prices-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_54d33e133d86.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 31 101633**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-31_strong-asian-demand-pushed-global-gas-prices-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_54d33e133d86.png)
+> [Local Asset](assets/2024-05-31_strong-asian-demand-pushed-global-gas-prices-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_54d33e133d86.png)
 
 ### Market Commentary
 
@@ -42,7 +42,7 @@ A large fall in US stockpiles failed to boost sentiment in the**crude oil**marke
 ![Στιγμιότυπο Οθόνης 2024 05 31 101730](assets/2024-05-31_strong-asian-demand-pushed-global-gas-prices-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6677a4a02d84.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 05 31 101730**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-31_strong-asian-demand-pushed-global-gas-prices-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6677a4a02d84.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-05-31_strong-asian-demand-pushed-global-gas-prices-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6677a4a02d84.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

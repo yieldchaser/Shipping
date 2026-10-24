@@ -26,18 +26,18 @@ As we discussed in our most recent Weekly Dry Bulk Report, Coal India produced a
 ![Chart 1 (78)](assets/2023-04-14_coal-india-stockpiles-and-the-nations-power-plant-stockpiles-each-continue-to-gr_img_chart1287829_a84b136ec057.jpg)
 
 > **Figure 1: Chart 1 (78)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-14_coal-india-stockpiles-and-the-nations-power-plant-stockpiles-each-continue-to-gr_img_chart1287829_a84b136ec057.jpg)
+> [Local Asset](assets/2023-04-14_coal-india-stockpiles-and-the-nations-power-plant-stockpiles-each-continue-to-gr_img_chart1287829_a84b136ec057.jpg)
 
 Offtake (amount sent to customers) totaled 64.2 million tons last month, which marks a month-on-month increase of 5.9 million tons (10%) and a year-on-year increase of 2.6 million tons (4%). Offtake has now increased on a year-on-year basis during twenty-four of the last twenty-five months. The last five months, though, have continued to see offtake fall short of production (the difference last month was extremely large). Coal India’s stockpiles now stand at approximately 70 million tons.
 
 ![Chart 2 (66)](assets/2023-04-14_coal-india-stockpiles-and-the-nations-power-plant-stockpiles-each-continue-to-gr_img_chart2286629_8e4dcf290b43.jpg)
 
 > **Figure 2: Chart 2 (66)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-14_coal-india-stockpiles-and-the-nations-power-plant-stockpiles-each-continue-to-gr_img_chart2286629_8e4dcf290b43.jpg)
+> [Local Asset](assets/2023-04-14_coal-india-stockpiles-and-the-nations-power-plant-stockpiles-each-continue-to-gr_img_chart2286629_8e4dcf290b43.jpg)
 
 With so much coal being produced and remaining in excess of consumption, India’s power plant coal stockpiles have been able to remain at moderate levels and have been rising in recent weeks. India’s power plant coal stockpiles ended last week at approximately 37.1 million tons. This is 1.6 million tons (5%) more than was stockpiled at the end of the previous week and is up year-on-year by 13 million tons (54%).
 
 ![Chart 3 (46)](assets/2023-04-14_coal-india-stockpiles-and-the-nations-power-plant-stockpiles-each-continue-to-gr_img_chart3284629_55a8b21bfdc8.jpg)
 
 > **Figure 3: Chart 3 (46)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-14_coal-india-stockpiles-and-the-nations-power-plant-stockpiles-each-continue-to-gr_img_chart3284629_55a8b21bfdc8.jpg)
+> [Local Asset](assets/2023-04-14_coal-india-stockpiles-and-the-nations-power-plant-stockpiles-each-continue-to-gr_img_chart3284629_55a8b21bfdc8.jpg)

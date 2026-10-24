@@ -27,7 +27,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-02-22_rising-geopolitical-r
 ![Screenshot 2024 02 22 11.17.59](assets/2024-02-22_rising-geopolitical-risks-push-metals-higher_img_screenshot2024-02-22111759_18a9244b35b5.png)
 
 > **Figure 1: Screenshot 2024 02 22 11.17.59**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-22_rising-geopolitical-risks-push-metals-higher_img_screenshot2024-02-22111759_18a9244b35b5.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-02-22_rising-geopolitical-risks-push-metals-higher_img_screenshot2024-02-22111759_18a9244b35b5.png)
 
 **Aluminium**and**nickel**led the base metals higher amid speculation of renewed US sanctions against Russia. US President Joe Biden said the US plans to unveil a major sanctions package against Moscow on Friday. This could involve metals, which are a major source of revenue for the country. The UK moved to ban its citizens trading Russian metal late last year and had hinted at coordinated action with international partners. Copper gained as further supply side issues surfaced. Antofagasta said it will have to sink more money than previously thought into its Los Pelambres copper mine to offset lower quality ore as part of an industry trend. This comes amid a surge in costs across the industry that is forcing many producers to shut operations and mothball new projects.
 

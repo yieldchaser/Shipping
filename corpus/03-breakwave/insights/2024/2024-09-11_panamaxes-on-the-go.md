@@ -65,7 +65,7 @@ The new week has faced a slow start to ordering activities in the supramax segme
 ![241](assets/2024-09-11_panamaxes-on-the-go_img_241_c1bc6a9c305a.png)
 
 > **Figure 1: 241**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-11_panamaxes-on-the-go_img_241_c1bc6a9c305a.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-09-11_panamaxes-on-the-go_img_241_c1bc6a9c305a.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

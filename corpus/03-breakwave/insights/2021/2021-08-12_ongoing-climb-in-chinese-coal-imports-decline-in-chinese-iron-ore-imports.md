@@ -29,7 +29,7 @@ China's near-term coal import prospects remain promising. As we have continued t
 ![A1](assets/2021-08-12_ongoing-climb-in-chinese-coal-imports-decline-in-chinese-iron-ore-imports_img_a1_16dbcb22a57e.jpg)
 
 > **Figure 1: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-12_ongoing-climb-in-chinese-coal-imports-decline-in-chinese-iron-ore-imports_img_a1_16dbcb22a57e.jpg)
+> [Local Asset](assets/2021-08-12_ongoing-climb-in-chinese-coal-imports-decline-in-chinese-iron-ore-imports_img_a1_16dbcb22a57e.jpg)
 
 China imported 88.5 million tons of iron ore last month, which marks a month-on-month decline of just 900,000 tons (-1%) but is down year-on-year by 24.2 million tons (-21%). Of note is that July 2020 saw imports set a record and July's 2021's 21% year-on-year decline is against what was a very robust total. We expect imports will start to climb on a month-on-month basis soon as the government has finally been successful in driving down iron ore prices. The government often works to drive down prices before then ramping up purchases.
 
@@ -38,7 +38,7 @@ The Chinese government has been unsuccessful in driving down coal prices, but it
 ![A2](assets/2021-08-12_ongoing-climb-in-chinese-coal-imports-decline-in-chinese-iron-ore-imports_img_a2_65d3d40238e1.jpg)
 
 > **Figure 2: A2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-12_ongoing-climb-in-chinese-coal-imports-decline-in-chinese-iron-ore-imports_img_a2_65d3d40238e1.jpg)
+> [Local Asset](assets/2021-08-12_ongoing-climb-in-chinese-coal-imports-decline-in-chinese-iron-ore-imports_img_a2_65d3d40238e1.jpg)
 
 ---
 

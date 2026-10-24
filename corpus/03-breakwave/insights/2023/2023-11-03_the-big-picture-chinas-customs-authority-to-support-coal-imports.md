@@ -46,7 +46,7 @@ This year’s import gains have not been driven by falling domestic production: 
 ![Market Chart 1](assets/2023-11-03_the-big-picture-chinas-customs-authority-to-support-coal-imports_img_image0281529_044f899382ac.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-03_the-big-picture-chinas-customs-authority-to-support-coal-imports_img_image0281529_044f899382ac.png)
+> [Local Asset](assets/2023-11-03_the-big-picture-chinas-customs-authority-to-support-coal-imports_img_image0281529_044f899382ac.png)
 
 In the past week domestic coal price cuts have been reported. The reasons may owe to softer demand, with some industrial activity curbed due to a build-up of air pollution. Nonetheless, Q4 power consumption is forecast by the China Electricity Council to rise by at least 7% YoY, from 6.6% in Q3, 6.4% in the Q2 and 3.6% in Q1.
 
@@ -71,7 +71,7 @@ Turning to demand, the International Energy Agency (IEA)’s World Energy Outloo
 ![Market Chart 2](assets/2023-11-03_the-big-picture-chinas-customs-authority-to-support-coal-imports_img_image1281529_d925a02160bf.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-03_the-big-picture-chinas-customs-authority-to-support-coal-imports_img_image1281529_d925a02160bf.png)
+> [Local Asset](assets/2023-11-03_the-big-picture-chinas-customs-authority-to-support-coal-imports_img_image1281529_d925a02160bf.png)
 
 Nonetheless, this is partly because the property crisis is impacting new projects, as opposed to those already under way.
 

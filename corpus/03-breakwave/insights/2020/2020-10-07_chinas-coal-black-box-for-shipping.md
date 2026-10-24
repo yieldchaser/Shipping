@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-10-07_chinas-coal-black-box
 
 > **Figure 1: “Staggering High Growth in January Through April Has Been**  
 > *“Staggering high growth in January through April has been replaced with monthly coal import growth rates in May through August below the levels recorded in the same months of 2019.*  
-> **Interactive Data & Source:** [Bimco](https://www.bimco.org/news/market_analysis/2020/20201001_chinese_coal_imports_first_eight_months) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-07_chinas-coal-black-box-for-shipping_img_image-asset_f48bc316de0a.jpeg)
+> **Interactive Data & Source:** [Bimco](https://www.bimco.org/news/market_analysis/2020/20201001_chinese_coal_imports_first_eight_months) | [Local Asset](assets/2020-10-07_chinas-coal-black-box-for-shipping_img_image-asset_f48bc316de0a.jpeg)
 
 Coal is the second most important commodity for dry bulk behind iron ore, and in the last several years, coal trading has been a swing factor when it comes to the strength of the broader dry bulk market. With most of the world rapidly eliminating coal from its energy mix, especially in the western world, China has been left as the only demand growth region for coal as it continues to add considerable coal power generation capacity in its energy mix.
 
@@ -42,7 +42,7 @@ BIMCO is out with[an update](https://www.bimco.org/news/market_analysis/2020/202
 
 > **Figure 2: “Meanwhile**  
 > *“Meanwhile, imports dropped sharply in recent months as a growing number of ports exhausted their annual import quotas. Despite a surge in the first four months of the year, seaborne arrivals in 2020 totaled 207.7 million tonnes as of 4 October. This marks a 5.8% decrease from the 219.8mt shipped during the same period in 2019.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-07_chinas-coal-black-box-for-shipping_img_chinesecoalimportsbimco_b4d34d1b305d.png)
+> [Local Asset](assets/2020-10-07_chinas-coal-black-box-for-shipping_img_chinesecoalimportsbimco_b4d34d1b305d.png)
 
 Source: Bimco
 
@@ -54,7 +54,7 @@ Indeed, coal imports to China saw an impressive four-month run earlier in the ye
 
 > **Figure 3: So Far**  
 > *So far, the rumors remain unsubstantiated. Weekly coal arrivals have been sliding steadily since the beginning of Q3. Last week, only 3.1mt of coal arrived at Chinese ports, the weakest volume since December 2018. However, further gains in domestic prices could force the authorities to ease import restrictions in the coming weeks.”*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-07_chinas-coal-black-box-for-shipping_img_arrowcoalinventories_5b1c9249c7c3.png)
+> [Local Asset](assets/2020-10-07_chinas-coal-black-box-for-shipping_img_arrowcoalinventories_5b1c9249c7c3.png)
 
 Source: Arrow Research
 
@@ -63,14 +63,14 @@ Relative pricing plays a role when it comes to coal trading as, after all, it is
 ![Source: Arrow Research](assets/2020-10-07_chinas-coal-black-box-for-shipping_img_arrowcoalprices_3cef6f2a9103.png)
 
 > **Figure 4: Source: Arrow Research**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-07_chinas-coal-black-box-for-shipping_img_arrowcoalprices_3cef6f2a9103.png)
+> [Local Asset](assets/2020-10-07_chinas-coal-black-box-for-shipping_img_arrowcoalprices_3cef6f2a9103.png)
 
 Source: Arrow Research
 
 ![Ship25](assets/2020-10-07_chinas-coal-black-box-for-shipping_img_ship25_cae1951c7f4c.jpg)
 
 > **Figure 5: Ship25**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-07_chinas-coal-black-box-for-shipping_img_ship25_cae1951c7f4c.jpg)
+> [Local Asset](assets/2020-10-07_chinas-coal-black-box-for-shipping_img_ship25_cae1951c7f4c.jpg)
 
 The dry bulk market has gained from a surge in coal trading earlier in the year, mainly driven by strong imports into China, a trend that is now winding down. However, with iron ore volumes substantially increasing compared to the first half of the year, for the larger segments of the dry bulk market the impact is a net positive as iron ore remains the dominant commodity when it comes to Capesizes. For the smaller sizes though, not so much. The impact on Panamax and Supramax segments were the quotas not being relaxed will be more meaningful, something that is already observed in the Panamax and Supramax freight markets.
 

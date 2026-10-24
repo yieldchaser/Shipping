@@ -31,7 +31,7 @@ Week 31, August 02, 2024
 ![Στιγμιότυπο Οθόνης 2024 08 05 133525](assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ebb212e128a.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 08 05 133525**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/-Loss-Despite-War-Premium-html/2qfnkb/428015709/h/cO3ZhlGtJcm3ZgdilJUOZ1QpWCIvCOV-UVUJpclHWE8) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ebb212e128a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/-Loss-Despite-War-Premium-html/2qfnkb/428015709/h/cO3ZhlGtJcm3ZgdilJUOZ1QpWCIvCOV-UVUJpclHWE8) | [Local Asset](assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ebb212e128a.png)
 
 In early August, the weakening momentum in the VLCC AG-China route persists, with the dirty demand tonne days growth remaining insufficient to support firmness during the summer season. While there are signs of a decreasing trend in the vessel count at Ras Tanura, indicating a tighter supply market, demand growth has not yet positively impacted market sentiment.
 
@@ -44,7 +44,7 @@ PMI readings for July highlighted a slowdown in economic activity in Asia, Europ
 ![Στιγμιότυπο Οθόνης 2024 08 05 133803](assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_93ad6d867c9b.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 08 05 133803**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_93ad6d867c9b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_93ad6d867c9b.png)
 
 ​​​​​The dirty freight market sentiment is under downward pressure, despite some soft indications of an upward trend in the Aframax Med route.
 
@@ -55,28 +55,28 @@ PMI readings for July highlighted a slowdown in economic activity in Asia, Europ
 ![Στιγμιότυπο Οθόνης 2024 08 05 133935](assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb7b2724b067.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 08 05 133935**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb7b2724b067.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb7b2724b067.png)
 
 - **LR2**AG freight rates have consistently declined since the beginning of July, now hovering around WS150. This represents an 18% monthly drop, with recent levels reflecting the sentiment of the same week in August last year.
 
 ![Στιγμιότυπο Οθόνης 2024 08 05 133949](assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd66bc106e12.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 08 05 133949**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd66bc106e12.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd66bc106e12.png)
 
 - **Panamax**Carib-to-USG rates have increased to WS 260, marking a 56% improvement compared to the same week a month ago.
 
 ![Στιγμιότυπο Οθόνης 2024 08 05 134001](assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a7d21aa4a4c6.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 08 05 134001**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a7d21aa4a4c6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a7d21aa4a4c6.png)
 
 - **MR1**rates for shipments from the**Baltic to the continent**have risen to nearly 200 WS, showing a 11% increase compared to levels a month ago. Meanwhile,**MR2**rates for shipments from the Continent to the USAC have risen above WS200, marking a 12% increase compared to the same week last year. Conversely, on the**USG-Cont**route, MR2 rates have fallen to WS 150, reflecting a 30% decrease over the past month.
 
 ![Στιγμιότυπο Οθόνης 2024 08 05 134221](assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e36ec521d253.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2024 08 05 134221**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e36ec521d253.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e36ec521d253.png)
 
 ​​​​​​The supply trend for crude tankers presents a mixed picture: Suezmax WAFR showed signs of a decline from the previous week, VLCC Ras Tanura remained below the annual trend, while the number of Aframax vessels in the Baltic experienced upward pressure from the end of week 27.
 
@@ -88,12 +88,12 @@ PMI readings for July highlighted a slowdown in economic activity in Asia, Europ
 ![Στιγμιότυπο Οθόνης 2024 08 05 134347](assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4f580657cd40.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2024 08 05 134347**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4f580657cd40.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4f580657cd40.png)
 
 ![Στιγμιότυπο Οθόνης 2024 08 05 134404](assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7980553a1613.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2024 08 05 134404**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7980553a1613.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7980553a1613.png)
 
 - **Clean LR2 AG Jubail**: The upward trend in the number of vessels observed over the previous two weeks reversed in early August, with the count dropping to 10—five fewer than the peak reached the previous week. It remains to be seen how this trend will develop over the coming days.
 - **Clean MR**: Vessel activity for MR1 at Algeria's Skikda port rose to 36, nearly 5 above the annual average, and almost 12 above the bottom observed at the end of week 29. In contrast, MR2 activity in Amsterdam has shown a decrease over the past two weeks, recently reaching 33, nearly 3 more than the annual average.
@@ -101,14 +101,14 @@ PMI readings for July highlighted a slowdown in economic activity in Asia, Europ
 ![Στιγμιότυπο Οθόνης 2024 08 05 134528](assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a43ef264357.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2024 08 05 134528**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a43ef264357.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a43ef264357.png)
 
 - **Dirty**tonne days: The decrease in the growth of VLCC tonne days persisted into early August, although the rate of decline appears to have stabilised. This indicates that while growth is still sluggish, it has levelled off rather than continuing to drop sharply. In contrast, the Suezmax and Aframax segments are experiencing a more pronounced decline during the summer months. The ongoing downturn in these segments reflects broader seasonal patterns and market dynamics affecting tanker demand and freight rates.
 
 ![Στιγμιότυπο Οθόνης 2024 08 05 134616](assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3ff7a0dee678.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2024 08 05 134616**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3ff7a0dee678.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3ff7a0dee678.png)
 
 - **Panamax**tonne days: In early August, the growth pace continued to exhibit an overall downward trend, maintaining the slow growth observed in May and June. For**Clean MR**tonne days, MR1 vessels continued to show a slight uptick from the end of the previous week. However, a weakening trend is still evident across both vessel sizes during the summer months.
 

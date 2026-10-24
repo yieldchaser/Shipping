@@ -30,7 +30,7 @@ So far since the Russian invasion of Ukraine and significant dry bulk trade rout
 ![Market Chart 1](assets/2022-05-27_jong4q8e6zzsf15wk9r1i5xczl1fey_img_image028329_0832b02af418.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-27_jong4q8e6zzsf15wk9r1i5xczl1fey_img_image028329_0832b02af418.png)
+> [Local Asset](assets/2022-05-27_jong4q8e6zzsf15wk9r1i5xczl1fey_img_image028329_0832b02af418.png)
 
 The surge in shipments has mostly come in favour of the Capesizes from coal stems replacing those typically done on a Panamax. Further, the smaller vessels have benefitted from an abnormal spike in grain shipments. Bulker demand from US-European voyages has hit 2-year highs in April in tandem with overall trade. This has been exacerbated by slower propulsion and lengthy queues in the ARAG region. In April, dry bulk demand from US-Europe trade, measured in dwt days, more than tripled YoY and reached the highest level since December 2018.
 
@@ -41,7 +41,7 @@ Coal shipments from the US to Europe have hit over 2-year highs. In May, steam c
 ![Market Chart 2](assets/2022-05-27_jong4q8e6zzsf15wk9r1i5xczl1fey_img_image128329_b2e6e58811ac.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-27_jong4q8e6zzsf15wk9r1i5xczl1fey_img_image128329_b2e6e58811ac.png)
+> [Local Asset](assets/2022-05-27_jong4q8e6zzsf15wk9r1i5xczl1fey_img_image128329_b2e6e58811ac.png)
 
 With US coal producers effectively operating at full capacity, the extra volumes that have shipped to Europe have been removed from Far Eastern coal trades, namely to China and Japan. To Japan, only 299k tonnes of coal was shipped from US ports in April compared to 1.1m tonnes in April 2021. To China, shipments declined 61.6% YoY in April to just 339k tonnes. With China now boosting domestic production, any additional demand for coal from the seaborne market has been filled by Indonesia primarily.
 
@@ -54,7 +54,7 @@ While coal has largely driven the surge in trade between the US and Europe, ther
 ![Market Chart 3](assets/2022-05-27_jong4q8e6zzsf15wk9r1i5xczl1fey_img_image228329_def2e559cb8d.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-27_jong4q8e6zzsf15wk9r1i5xczl1fey_img_image228329_def2e559cb8d.png)
+> [Local Asset](assets/2022-05-27_jong4q8e6zzsf15wk9r1i5xczl1fey_img_image228329_def2e559cb8d.png)
 
 With China a key buyer of US-sown corn, European buyers will face firm competition from the world’s largest seaborne grain buyer, which continues to assure food security for its population. In anticipation of a complete loss of Ukrainian grain exports, countries in Europe, and indeed elsewhere, are now aiming to stockpile available supplies. This has driven the unseasonal surge in US-Europe grain shipments.
 
@@ -65,7 +65,7 @@ Further to the US to Europe trade, cargoes heading back to the US have also been
 ![Market Chart 4](assets/2022-05-27_jong4q8e6zzsf15wk9r1i5xczl1fey_img_image328429_1620824ea806.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-27_jong4q8e6zzsf15wk9r1i5xczl1fey_img_image328429_1620824ea806.png)
+> [Local Asset](assets/2022-05-27_jong4q8e6zzsf15wk9r1i5xczl1fey_img_image328429_1620824ea806.png)
 
 Overall, as the geopolitical situation continues, we see demand from these transatlantic trades to be sustained at these levels, if not continuing higher. When the full European sanctions on Russian coal take effect in August, we expect the US to contribute a significant share of the replacement volumes Europe will need, as they have done already since the invasion. Total dry bulk liftings between the US and the bloc reached 6.1m tonnes in March, the highest level since January 2019, with April coming in marginally lower than these levels.
 

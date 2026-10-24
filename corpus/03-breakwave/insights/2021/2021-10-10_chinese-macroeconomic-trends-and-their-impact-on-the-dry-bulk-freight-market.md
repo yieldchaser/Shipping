@@ -54,7 +54,7 @@ Indeed, Chinese iron ore imports have remained elevated as supply recovers. Chin
 
 > **Figure 1: Chinese Authorities Are Intensively Trying to Meet Their Annual**  
 > *The Chinese authorities are intensively trying to meet their annual carbon reduction targets and are also trying to limit pollution levels ahead of the Winter Olympics which will take place in February next year.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-10_chinese-macroeconomic-trends-and-their-impact-on-the-dry-bulk-freight-market_img_ch1_76c6fefc01b6.png)
+> [Local Asset](assets/2021-10-10_chinese-macroeconomic-trends-and-their-impact-on-the-dry-bulk-freight-market_img_ch1_76c6fefc01b6.png)
 
 ### Beijing’s Green Push
 

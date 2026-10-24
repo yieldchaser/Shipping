@@ -27,7 +27,7 @@ The most recently released data shows that Brazil exported 36.1 million tons of 
 ![Chart](assets/2025-12-30_ongoing-growth-in-brazils-iron-ore-exports_img_chart_d06cf964ece7.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-30_ongoing-growth-in-brazils-iron-ore-exports_img_chart_d06cf964ece7.jpg)
+> [Local Asset](assets/2025-12-30_ongoing-growth-in-brazils-iron-ore-exports_img_chart_d06cf964ece7.jpg)
 
 ---
 

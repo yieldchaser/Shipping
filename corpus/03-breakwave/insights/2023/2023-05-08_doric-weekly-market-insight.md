@@ -30,7 +30,7 @@ Twelve months later, Fed's historic monetary tightening campaign remains strong 
 ![1 (2)](assets/2023-05-08_doric-weekly-market-insight_img_128229_3bd5de2e43d7.png)
 
 > **Figure 1: 1 (2)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-08_doric-weekly-market-insight_img_128229_3bd5de2e43d7.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-05-08_doric-weekly-market-insight_img_128229_3bd5de2e43d7.png)
 
 Since the Fed started its tightening cycle, price increases in the US have shown signs of moderation. Inflation in the US cooled to the lowest point in almost two years in March as year-over-year price increases reached 5 percent. The aforementioned levels were the lowest published since May 2021. Although the latest reading of US inflation is considerably higher than Fed's target of 2 percent, a discussion for an upcoming pause in rate hikes has started. The postmeeting statement re-emphasized central bank’s commitment to bring down inflation, but did not include the notation that “some additional policy firming may be appropriate,” which was included in its prior release. With regard to this topic, Fed Chair Jerome Powell said that the central bank would “approach that question at the June meeting.” He further added that “People did talk about pausing, but not so much at this meeting. There’s a sense that we’re much closer to the end of this than to the beginning,”
 
@@ -41,7 +41,7 @@ Headline inflation has declined over recent months, but underlying price pressur
 ![1 (3)](assets/2023-05-08_doric-weekly-market-insight_img_128329_0f64c2d6f28a.png)
 
 > **Figure 2: 1 (3)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-08_doric-weekly-market-insight_img_128329_0f64c2d6f28a.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-05-08_doric-weekly-market-insight_img_128329_0f64c2d6f28a.png)
 
 Whilst the officially declared war against inflation kept going in both banks of the Atlantic, the United Nations food agency's world price index rose in April for the first time in a year. The Food and Agriculture Organization's (FAO) price index, which tracks the most globally traded food commodities, averaged 127.2 points last month against 126.5 for March, the agency said on Friday. At that level, the Index was 19.7 percent below its level in April 2022, but still 5.2 percent higher than in April 2021. "As economies recover from significant slowdowns, demand will increase, exerting upward pressure on food prices," said FAO Chief Economist Maximo Torero. Against this backdrop, Baltic indices found the perfect excuse to hide behind various public holidays around the globe, effectively taking a step back and reconsidering their courses. In this unprophetic week, the leading Baltic Dry Index concluded today at 1558 points, a mere 18 points lower than last Friday’s closing.
 

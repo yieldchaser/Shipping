@@ -23,14 +23,14 @@ source_file: "corpus/03-breakwave/insights/2025/2025-04-29_ustr-proposal-more-cl
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2025-04-29_ustr-proposal-more-clarity-or-not_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-29_ustr-proposal-more-clarity-or-not_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](assets/2025-04-29_ustr-proposal-more-clarity-or-not_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 The Office of the United States Trade Representative (USTR), following extensive feedback from industry stakeholders, recently revised the Notice of Action and Proposed Action in Section 301 Investigation of China’s Targeting the Maritime, Logistics, and Shipbuilding Sectors for Dominance on 17 April 2025.
 
 ![Στιγμιότυπο Οθόνης 2025 04 29 115253](assets/2025-04-29_ustr-proposal-more-clarity-or-not_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b8b94e2e491.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 04 29 115253**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-29_ustr-proposal-more-clarity-or-not_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b8b94e2e491.png)
+> [Local Asset](assets/2025-04-29_ustr-proposal-more-clarity-or-not_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b8b94e2e491.png)
 
 In a nutshell, under the revised terms, a vessel will now be subject to either: (a) one of the three fees directed under Annex I, II, or III; or (b) a requirement under Annex IV. In addition, there is a preferential order for applying these fees as follows: Annex IV > III > I > II, and on a non-cumulative basis.
 
@@ -49,14 +49,14 @@ ii) Non-Chinese-built ships or Chinese-built ships that are sold to US’ owners
 ![Στιγμιότυπο Οθόνης 2025 04 29 115307](assets/2025-04-29_ustr-proposal-more-clarity-or-not_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8387869d89d.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 04 29 115307**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-29_ustr-proposal-more-clarity-or-not_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8387869d89d.png)
+> [Local Asset](assets/2025-04-29_ustr-proposal-more-clarity-or-not_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8387869d89d.png)
 
 Based on the aforementioned table, the fees applicable to different vessel types are calculated as follows, according to their net tonnage (NT), which is a measure of a ship's cargo-carrying capacity, expressed in tons. It represents the volume of all cargo spaces on a vessel, calculated using a formula based on the ship's internal volume, excluding areas like crew quarters, machinery spaces, and navigation areas. It measures the volume of a vessel's revenue-generating spaces, reflecting its commercial value rather than physical weight.
 
 ![Στιγμιότυπο Οθόνης 2025 04 29 115316](assets/2025-04-29_ustr-proposal-more-clarity-or-not_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4d8b1bb0fa10.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 04 29 115316**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-29_ustr-proposal-more-clarity-or-not_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4d8b1bb0fa10.png)
+> [Local Asset](assets/2025-04-29_ustr-proposal-more-clarity-or-not_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4d8b1bb0fa10.png)
 
 As shown in the figure, if Annex I were to be enforced, vessels operated by Chinese entities would almost cease traveling to the US. Taking Capesize vessels as an example, based on the Baltic C5TC index, assuming no off-hire, the total time charter revenue for a Capesize vessel in 2024 was $8.1 million. If a charge of $50 per net ton were applied upon delivery, the port fee would amount to $2.9 million - equivalent to 36% of the total annual revenue for just one port call. If the vessel were to call at US ports five times a year, the total charges would reach $14.5 million.
 
@@ -67,14 +67,14 @@ Subject to the coverage and special rules of this Annex II, upon the arrival of 
 ![Στιγμιότυπο Οθόνης 2025 04 29 115326](assets/2025-04-29_ustr-proposal-more-clarity-or-not_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_036e069bd7a8.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 04 29 115326**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-29_ustr-proposal-more-clarity-or-not_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_036e069bd7a8.png)
+> [Local Asset](assets/2025-04-29_ustr-proposal-more-clarity-or-not_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_036e069bd7a8.png)
 
 According to above table, the calculated charges for different vessel types are as follows.：
 
 ![Στιγμιότυπο Οθόνης 2025 04 29 115336](assets/2025-04-29_ustr-proposal-more-clarity-or-not_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32dba438d798.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 04 29 115336**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-29_ustr-proposal-more-clarity-or-not_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32dba438d798.png)
+> [Local Asset](assets/2025-04-29_ustr-proposal-more-clarity-or-not_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32dba438d798.png)
 
 Although the charges have decreased under the revised standard compared to Annex I—by 64%, 70%, 75%, and 76% respectively for each vessel type—using Capsizes as an example, if the annual revenue is $8.1 million and the port fee is calculated at $18 per net ton, each port call would incur a fee of $1 million. If the vessel calls at the port five times or more per year, the total annual port fees would reach a maximum of $5 million. By extension, these additional fees to total port expenses would account for 64% of total revenue, making it economically unviable for Capsizes shipowners. Not to mention the fact that these fees are set to increase year by year. That said, as mentioned earlier on, general exemptions are explicitly afforded under Annex II.
 

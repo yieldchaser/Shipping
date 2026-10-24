@@ -27,14 +27,14 @@ As we discussed in Commodore Research's most recent Weekly China Report, July sa
 ![Chart 1 (1)](assets/2025-08-27_return-of-growth-in-gas-engine-vehicle-sales-in-china_img_chart128129_d7ab249fc1ff.jpg)
 
 > **Figure 1: Chart 1 (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-27_return-of-growth-in-gas-engine-vehicle-sales-in-china_img_chart128129_d7ab249fc1ff.jpg)
+> [Local Asset](assets/2025-08-27_return-of-growth-in-gas-engine-vehicle-sales-in-china_img_chart128129_d7ab249fc1ff.jpg)
 
 Of the 575,000 Chinese-made vehicles exported last month, 225,000 were electric vehicles (NEVs). This has marked a year-on-year increase of 125% and has set another record. China's NEV exports have now set a record in five of the last seven months.
 
 ![Chart 2 (1)](assets/2025-08-27_return-of-growth-in-gas-engine-vehicle-sales-in-china_img_chart228129_72132e4cf88b.jpg)
 
 > **Figure 2: Chart 2 (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-27_return-of-growth-in-gas-engine-vehicle-sales-in-china_img_chart228129_72132e4cf88b.jpg)
+> [Local Asset](assets/2025-08-27_return-of-growth-in-gas-engine-vehicle-sales-in-china_img_chart228129_72132e4cf88b.jpg)
 
 ---
 

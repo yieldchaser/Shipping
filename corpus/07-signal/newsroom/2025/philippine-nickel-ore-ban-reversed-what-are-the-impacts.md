@@ -28,7 +28,7 @@ tags:
 ![686b9c7e0b619572850ab6df Ad 4nxdldh9vefnq3j Grqogv R7pp1kjt Bqmr Jltzaqyqrwfnxszsifyeyo0hebku 8bexbeyoold343ewlwjesyt4brghxhcagxerkcqrig5nzo6umyp8i3z7ejhvz8lx2defy2bfa](../../images/686b9c7e0b619572850ab6df_AD_4nXdldh9veFnq3J-GrQOGv-R7pP1Kjt_Bqmr_jLtzaqyqRwFnXSzsifyEyO0hEbKU_8bEXBEyoolD343ewLwjeSyt4BrGhXhCagxerkCqRig5Nzo6UMyp8I3z7Ejhvz8lX2DeFy2bfA.png)
 
 > **Figure 1: 686b9c7e0b619572850ab6df Ad 4nxdldh9vefnq3j Grqogv R7pp1kjt Bqmr Jltzaqyqrwfnxszsifyeyo0hebku 8bexbeyoold343ewlwjesyt4brghxhcagxerkcqrig5nzo6umyp8i3z7ejhvz8lx2defy2bfa**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/philippine-nickel-ore-ban-reversed-what-are-the-impacts) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/686b9c7e0b619572850ab6df_AD_4nXdldh9veFnq3J-GrQOGv-R7pP1Kjt_Bqmr_jLtzaqyqRwFnXSzsifyEyO0hEbKU_8bEXBEyoolD343ewLwjeSyt4BrGhXhCagxerkCqRig5Nzo6UMyp8I3z7Ejhvz8lX2DeFy2bfA.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/philippine-nickel-ore-ban-reversed-what-are-the-impacts) | [Local Asset](../../images/686b9c7e0b619572850ab6df_AD_4nXdldh9veFnq3J-GrQOGv-R7pP1Kjt_Bqmr_jLtzaqyqRwFnXSzsifyEyO0hEbKU_8bEXBEyoolD343ewLwjeSyt4BrGhXhCagxerkCqRig5Nzo6UMyp8I3z7Ejhvz8lX2DeFy2bfA.png)
 
 
 ## Why Did the Philippines Propose a Nickel Ore Export Ban?
@@ -44,7 +44,7 @@ The Philippines saw banning nickel ore exports as a way for the country to devel
 
 > **Figure 2: Origin of Nickel Ore Exports From 01/01/2022 to Now From the Signal Ocean Platform**  
 > *Origin of nickel ore exports from 01/01/2022 to now from the Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/philippine-nickel-ore-ban-reversed-what-are-the-impacts) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/686b9c7d0b619572850ab6d4_AD_4nXeYr-Dni8TGoyUY5bqTyVc1YB8UEwkJyxQ4l3plJpS7R7UmiDpCcevXewzRoZetm0j4gSTE38ZoUFxwKv0t7VQLIoUnILLyrYfGGcSGMlfOTFAEb4-FtNWenpMEksB-h84tUJeeGA.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/philippine-nickel-ore-ban-reversed-what-are-the-impacts) | [Local Asset](../../images/686b9c7d0b619572850ab6d4_AD_4nXeYr-Dni8TGoyUY5bqTyVc1YB8UEwkJyxQ4l3plJpS7R7UmiDpCcevXewzRoZetm0j4gSTE38ZoUFxwKv0t7VQLIoUnILLyrYfGGcSGMlfOTFAEb4-FtNWenpMEksB-h84tUJeeGA.png)
 
 
 ## Nickel Drives Vessel Demand in the Philippines
@@ -60,14 +60,14 @@ Supramax demand outpaces any other vessel class that loads in the Philippines. A
 
 > **Figure 3: Vessel Demand for Loading in the Philippines From 01/01/2022 to Now From the Signal Ocean Platform (Tsop)**  
 > *Vessel demand for loading in The Philippines from 01/01/2022 to now from the Signal Ocean Platform (TSOP)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/philippine-nickel-ore-ban-reversed-what-are-the-impacts) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/686b9c7d0b619572850ab6d7_AD_4nXcoynk7lazVui0BN7MONo6tjA3ceVt2eN7cecf_iJdDXAZhVfO_5xhmiza7xiudld7bk8sC8RiVu6qj33C_CQms70_PFjdpHSGAikl8hvwlctIuCk4rnMx3zhR9ZRfGjP-dmlWjmQ.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/philippine-nickel-ore-ban-reversed-what-are-the-impacts) | [Local Asset](../../images/686b9c7d0b619572850ab6d7_AD_4nXcoynk7lazVui0BN7MONo6tjA3ceVt2eN7cecf_iJdDXAZhVfO_5xhmiza7xiudld7bk8sC8RiVu6qj33C_CQms70_PFjdpHSGAikl8hvwlctIuCk4rnMx3zhR9ZRfGjP-dmlWjmQ.png)
 
 
 ![Nickel Ore Exports From the Philippines From the Signal Ocean Platform](../../images/686b9c7e0b619572850ab6dc_AD_4nXeQae9m70JelS0S4TlH2JNfqHeVAb_IqwUNdSagQP0KQIRJMXlZincxQWFRi8v4F6l4063Dt7cZQe6Q3piwMmA4qZ3xlMK5_kap14LvleIDB9VXt37NahJ82rcuShtbvw3Y1Z_h.png)
 
 > **Figure 4: Nickel Ore Exports From the Philippines From the Signal Ocean Platform**  
 > *Nickel ore exports from The Philippines from the Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/philippine-nickel-ore-ban-reversed-what-are-the-impacts) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/686b9c7e0b619572850ab6dc_AD_4nXeQae9m70JelS0S4TlH2JNfqHeVAb_IqwUNdSagQP0KQIRJMXlZincxQWFRi8v4F6l4063Dt7cZQe6Q3piwMmA4qZ3xlMK5_kap14LvleIDB9VXt37NahJ82rcuShtbvw3Y1Z_h.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/philippine-nickel-ore-ban-reversed-what-are-the-impacts) | [Local Asset](../../images/686b9c7e0b619572850ab6dc_AD_4nXeQae9m70JelS0S4TlH2JNfqHeVAb_IqwUNdSagQP0KQIRJMXlZincxQWFRi8v4F6l4063Dt7cZQe6Q3piwMmA4qZ3xlMK5_kap14LvleIDB9VXt37NahJ82rcuShtbvw3Y1Z_h.png)
 
 
 ## Demand Outlook

@@ -27,7 +27,7 @@ Rising tensions in the Middle East continue to hang over energy markets. Metals 
 ![Στιγμιότυπο Οθόνης 2024 10 14 110523](assets/2024-10-14_markets-steady-as-they-ponder-geopolitical-risks-and-stimulus-measures_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ef8e3156474e.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 14 110523**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-14_markets-steady-as-they-ponder-geopolitical-risks-and-stimulus-measures_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ef8e3156474e.png)
+> [Local Asset](assets/2024-10-14_markets-steady-as-they-ponder-geopolitical-risks-and-stimulus-measures_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ef8e3156474e.png)
 
 ### Market Commentary
 
@@ -44,7 +44,7 @@ Global gas prices remained volatile amid geopolitical risks to supply.**European
 ![Στιγμιότυπο Οθόνης 2024 10 14 110651](assets/2024-10-14_markets-steady-as-they-ponder-geopolitical-risks-and-stimulus-measures_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_384dd0988921.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 14 110651**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-14_markets-steady-as-they-ponder-geopolitical-risks-and-stimulus-measures_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_384dd0988921.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-10-14_markets-steady-as-they-ponder-geopolitical-risks-and-stimulus-measures_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_384dd0988921.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

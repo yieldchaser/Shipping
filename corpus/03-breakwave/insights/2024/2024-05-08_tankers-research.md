@@ -28,7 +28,7 @@ VLCC voyage numbers decline in April following record March highs
 ![Market Chart 1](assets/2024-05-08_tankers-research_img_image0_563d32eac071.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-08_tankers-research_img_image0_563d32eac071.png)
+> [Local Asset](assets/2024-05-08_tankers-research_img_image0_563d32eac071.png)
 
 - April saw a 50% reduction in long-haul US Gulf voyages to Asia due to less favourable arbitrage economics, diverting slightly more barrels to Europe on smaller vessel classes.
 
@@ -37,7 +37,7 @@ VLCC voyage numbers decline in April following record March highs
 ![Market Chart 2](assets/2024-05-08_tankers-research_img_image1_625c1499bdc5.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-08_tankers-research_img_image1_625c1499bdc5.png)
+> [Local Asset](assets/2024-05-08_tankers-research_img_image1_625c1499bdc5.png)
 
 - A potential increase in crude purchases in China and wider Northeast Asia post-turnaround may boost VLCC demand in the coming weeks.
 
@@ -51,7 +51,7 @@ Venezuela shipments plunge after sanctions return
 ![Market Chart 3](assets/2024-05-08_tankers-research_img_image2_f357eee25dc6.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-08_tankers-research_img_image2_f357eee25dc6.png)
+> [Local Asset](assets/2024-05-08_tankers-research_img_image2_f357eee25dc6.png)
 
 - The US Treasury Department's refusal to extend a six-month oil sales license prompted companies to conclude their operations by May's end.
 
@@ -62,7 +62,7 @@ China issues second batch of oil product export quotas
 ![Market Chart 4](assets/2024-05-08_tankers-research_img_image3_033552f9833b.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-08_tankers-research_img_image3_033552f9833b.png)
+> [Local Asset](assets/2024-05-08_tankers-research_img_image3_033552f9833b.png)
 
 - The current year's oil product export quota for China stands at 33 million tons.
 - The quota is distributed to PetroChina 4.37 million tons, Sinopec 5.61 million tons, CNOOC 1.16 million tons, Sinochem 1.41 million tons, ZPC 1.22 million tons, NORINCO 180 thousand tons and CNAF 50 thousand tons.

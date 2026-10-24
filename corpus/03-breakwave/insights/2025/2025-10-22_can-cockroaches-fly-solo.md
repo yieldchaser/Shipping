@@ -51,7 +51,7 @@ So banks do have risks. And these risks may be compounded by their own Sword of 
 ![Market Chart 1](assets/2025-10-22_can-cockroaches-fly-solo_img_image007_8382da7abbee.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-22_can-cockroaches-fly-solo_img_image007_8382da7abbee.jpg)
+> [Local Asset](assets/2025-10-22_can-cockroaches-fly-solo_img_image007_8382da7abbee.jpg)
 
 What banks don’t have yet, is evidence of a serious credit risk buildup. These come from bankruptcies.
 
@@ -64,7 +64,7 @@ The credit losses from First Brands and Tricolor are close to each other, and th
 ![Market Chart 2](assets/2025-10-22_can-cockroaches-fly-solo_img_image008_088b672fe2c9.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-22_can-cockroaches-fly-solo_img_image008_088b672fe2c9.jpg)
+> [Local Asset](assets/2025-10-22_can-cockroaches-fly-solo_img_image008_088b672fe2c9.jpg)
 
 But the fact that the bad debtors belong in the same market suggests that the problem is not yet widespread. Both banks rushed to ease investors' minds, reiterated their outlooks. Zions $50m charge is low compared to its balance sheet of $88bn, 0.06% of total assets. Fifth Third Bank, another entity which had $200m at risk in Tricolor, has a balance sheet of $210bn. Both banks will likely recover something.
 
@@ -73,21 +73,21 @@ And at the time of writing, no deposit flight was observed. In fact, Zions, Fift
 ![Market Chart 3](assets/2025-10-22_can-cockroaches-fly-solo_img_image009_168fe2884a2e.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-22_can-cockroaches-fly-solo_img_image009_168fe2884a2e.jpg)
+> [Local Asset](assets/2025-10-22_can-cockroaches-fly-solo_img_image009_168fe2884a2e.jpg)
 
 Still, investors may rightly be worried about stresses appearing in other areas. If banks begin to reduce credit (despite rate cuts) it could become an issue. The latest US Small Business Survey showed a sharp reduction in credit availability perception.
 
 ![Market Chart 4](assets/2025-10-22_can-cockroaches-fly-solo_img_image010_c9eacb5a97be.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-22_can-cockroaches-fly-solo_img_image010_c9eacb5a97be.jpg)
+> [Local Asset](assets/2025-10-22_can-cockroaches-fly-solo_img_image010_c9eacb5a97be.jpg)
 
 Which brings us to our**Second point. Systemic balancers and tailwinds.**In the 2023 peripheral banking crisis, larger banks stepped in to alleviate the pressure. JP Morgan estimates that the top 13 US banks have $200bn in excess capital. And considering a wide push for deregulation, the number could rise significantly, easing the pressure for both the core and the peripheral banking systems.
 
 ![Market Chart 5](assets/2025-10-22_can-cockroaches-fly-solo_img_image011_333c4851589c.jpg)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-22_can-cockroaches-fly-solo_img_image011_333c4851589c.jpg)
+> [Local Asset](assets/2025-10-22_can-cockroaches-fly-solo_img_image011_333c4851589c.jpg)
 
 The central bank, which is now in easing mode, can also readily step in. In 2023, the Fed expanded its balance sheet by $300bn, even as it was raising interest rates. This time around, markets are pricing in two cuts until the end of the year.
 
@@ -98,7 +98,7 @@ This piece, in many forms, has been written countless times by myself and thousa
 ![Market Chart 6](assets/2025-10-22_can-cockroaches-fly-solo_img_image012_f83c059730f2.jpg)
 
 > **Figure 6: Market Chart 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-22_can-cockroaches-fly-solo_img_image012_f83c059730f2.jpg)
+> [Local Asset](assets/2025-10-22_can-cockroaches-fly-solo_img_image012_f83c059730f2.jpg)
 
 So no, we will not utter the most poisoned words in the history of finance, “This Time is Different”. Risks are risks, and they could very well accentuate, which is why we continue to monitor this (and every other risky) situation closely. The lesson from history is that there might very well be more “cockroaches” that we would not discover until it's too late. Parochially focusing on one company or sector misses the probability of systemic events.
 

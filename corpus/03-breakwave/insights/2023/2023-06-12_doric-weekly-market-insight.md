@@ -40,6 +40,6 @@ With global goods trade growth slowing and China's exports shrinking much faster
 ![1 (2)](assets/2023-06-12_doric-weekly-market-insight_img_128229_ce9c159bdee1.png)
 
 > **Figure 1: 1 (2)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-12_doric-weekly-market-insight_img_128229_ce9c159bdee1.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-06-12_doric-weekly-market-insight_img_128229_ce9c159bdee1.png)
 
 Data source:[Doric](https://www.doric.gr/)

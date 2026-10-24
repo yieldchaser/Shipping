@@ -37,7 +37,7 @@ Arabian Gulf supply disruptions have [continued to redirect Asian power demand t
 
 > **Figure 1: Source: Coal Carrying Panamax Tonne-Miles From Signal Ocean Https://app.signalocean.com/dry/dynamic/timeseriesdry**  
 > *Source: Coal carrying Panamax tonne-miles from Signal Ocean https://app.signalocean.com/dry/dynamic/timeseries_dry*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/south-asian-demand-keeps-pushing-coal-flows-higher) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a2ab5127c3ef285ea9c0087_a30215c2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/south-asian-demand-keeps-pushing-coal-flows-higher) | [Local Asset](../../images/6a2ab5127c3ef285ea9c0087_a30215c2.png)
 
 Global seaborne coal flows at 119mt in May 2026, up 5% y/y, the first month of consecutive y/y growth in 2026 so far, and with an accelerating growth rate, compared with April's revised figure of 4%.
 
@@ -50,7 +50,7 @@ Despite the rise globally, the largest exporter of seaborne coal, [Indonesia, co
 
 > **Figure 2: Source: Coal Destination Areas in 2026, From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Coal destination areas in 2026, from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/south-asian-demand-keeps-pushing-coal-flows-higher) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a2ab5127c3ef285ea9c008a_a4373c77.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/south-asian-demand-keeps-pushing-coal-flows-higher) | [Local Asset](../../images/6a2ab5127c3ef285ea9c008a_a4373c77.png)
 
 Looking ahead, June typically sees China import less coal than in May. However, current data from Signal Ocean is showing that coal imports will actually increase m/m, the first time June imports outpace May for several years. Domestic coal production has slowed into negative territory ytd, and with the country expanding coal gasification, it will require more imported coal as an input.
 
@@ -63,7 +63,7 @@ Our view is that coal demand will remain well supported, seeing increased flows 
 
 > **Figure 3: Source: Origin of Coal Exports in May 2026 From Signal Oceanhttps://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Origin of coal exports in May 2026 from Signal Oceanhttps://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/south-asian-demand-keeps-pushing-coal-flows-higher) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a2ab5127c3ef285ea9c0084_9fb3b501.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/south-asian-demand-keeps-pushing-coal-flows-higher) | [Local Asset](../../images/6a2ab5127c3ef285ea9c0084_9fb3b501.png)
 
 
 ## Coal Performance Remains Dependent on Restricted LNG Flows

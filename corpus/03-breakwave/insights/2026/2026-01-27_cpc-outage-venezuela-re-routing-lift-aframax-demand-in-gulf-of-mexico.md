@@ -27,14 +27,14 @@ The spot market for TD25 (Aframax from US Gulf to Europe) has risen sharply sinc
 ![46ce Image 0 1769449361945](assets/2026-01-27_cpc-outage-venezuela-re-routing-lift-aframax-demand-in-gulf-of-mexico_img_46ce-image-0-1769449361945_76383779ac42.png)
 
 > **Figure 1: 46ce Image 0 1769449361945**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-27_cpc-outage-venezuela-re-routing-lift-aframax-demand-in-gulf-of-mexico_img_46ce-image-0-1769449361945_76383779ac42.png)
+> [Local Asset](assets/2026-01-27_cpc-outage-venezuela-re-routing-lift-aframax-demand-in-gulf-of-mexico_img_46ce-image-0-1769449361945_76383779ac42.png)
 
 So far in January we’ve seen around 12 fixtures per week out of the US Gulf, up from around 9 per week in December. The strong US Gulf Aframax market is also largely responsible for lifting our assessment of Aframax one year TC rates by $2k/day (to $42k/day) last Friday.
 
 ![B14c Image 1 1769449389693](assets/2026-01-27_cpc-outage-venezuela-re-routing-lift-aframax-demand-in-gulf-of-mexico_img_b14c-image-1-1769449389693_80c7608b00c9.png)
 
 > **Figure 2: B14c Image 1 1769449389693**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-27_cpc-outage-venezuela-re-routing-lift-aframax-demand-in-gulf-of-mexico_img_b14c-image-1-1769449389693_80c7608b00c9.png)
+> [Local Asset](assets/2026-01-27_cpc-outage-venezuela-re-routing-lift-aframax-demand-in-gulf-of-mexico_img_b14c-image-1-1769449389693_80c7608b00c9.png)
 
 Europe has increased WTI imports after eight weeks of outages at the CPC crude terminal in the Black Sea. Record 1.8m b/d CPC exports – almost exclusively to Europe - in September 2025 have dropped to 0.8m b/d so far in January. The outages followed planned maintenance on one of the SPMs from mid-November and Ukrainian drone attacks. WTI premium to Brent is at a two-year high.
 
@@ -43,7 +43,7 @@ A greater share of those US Gulf and Venezuelan exports have been moving on Afra
 ![6160 Image 2 1769449431830](assets/2026-01-27_cpc-outage-venezuela-re-routing-lift-aframax-demand-in-gulf-of-mexico_img_6160-image-2-1769449431830_53a4f1b21114.png)
 
 > **Figure 3: 6160 Image 2 1769449431830**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-27_cpc-outage-venezuela-re-routing-lift-aframax-demand-in-gulf-of-mexico_img_6160-image-2-1769449431830_53a4f1b21114.png)
+> [Local Asset](assets/2026-01-27_cpc-outage-venezuela-re-routing-lift-aframax-demand-in-gulf-of-mexico_img_6160-image-2-1769449431830_53a4f1b21114.png)
 
 *Source: Vortexa*
 
@@ -54,7 +54,7 @@ Since the US took over Venezuela’s crude exports at the start of this month, a
 ![F00f Image 3 1769449480712](assets/2026-01-27_cpc-outage-venezuela-re-routing-lift-aframax-demand-in-gulf-of-mexico_img_f00f-image-3-1769449480712_154ee8a5bb18.png)
 
 > **Figure 4: F00f Image 3 1769449480712**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-27_cpc-outage-venezuela-re-routing-lift-aframax-demand-in-gulf-of-mexico_img_f00f-image-3-1769449480712_154ee8a5bb18.png)
+> [Local Asset](assets/2026-01-27_cpc-outage-venezuela-re-routing-lift-aframax-demand-in-gulf-of-mexico_img_f00f-image-3-1769449480712_154ee8a5bb18.png)
 
 *Source: Vortexa*
 

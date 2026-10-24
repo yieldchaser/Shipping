@@ -33,14 +33,14 @@ It is perhaps surprising to see iron ore imports increase against such a backdro
 ![Ch1](assets/2021-10-27_chinese-iron-ore-imports-on-the-rise-in-the-shadow-of-a-worsening-economic-outlo_img_ch1_538cdc34c333.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-27_chinese-iron-ore-imports-on-the-rise-in-the-shadow-of-a-worsening-economic-outlo_img_ch1_538cdc34c333.png)
+> [Local Asset](assets/2021-10-27_chinese-iron-ore-imports-on-the-rise-in-the-shadow-of-a-worsening-economic-outlo_img_ch1_538cdc34c333.png)
 
 While October often is a strong month for Chinese iron ore imports, the recent clampdown on the steel industry and power shortages would imply a softening demand for the commodity from the Chinese buyers. However, some of the increases in discharged iron ore may be due to congestion clearing somewhat around the Chinese ports and more vessels discharging their cargo. In recent weeks, the number of ships waiting off the Chinese coast and the waiting times has been steadily decreasing. While the number of dry bulkers at anchor remains high historically, current numbers are the lowest since July.
 
 ![Ch2](assets/2021-10-27_chinese-iron-ore-imports-on-the-rise-in-the-shadow-of-a-worsening-economic-outlo_img_ch2_0305753997c2.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-27_chinese-iron-ore-imports-on-the-rise-in-the-shadow-of-a-worsening-economic-outlo_img_ch2_0305753997c2.png)
+> [Local Asset](assets/2021-10-27_chinese-iron-ore-imports-on-the-rise-in-the-shadow-of-a-worsening-economic-outlo_img_ch2_0305753997c2.png)
 
 While the current economic reporting looks rather grim, a renewed focus on growth and infrastructure investments could see a recovery in the Chinese appetite for commodities and increase tonnage demand. However, the easing congestion around the Chinese ports could also see more tonnage becoming available.
 

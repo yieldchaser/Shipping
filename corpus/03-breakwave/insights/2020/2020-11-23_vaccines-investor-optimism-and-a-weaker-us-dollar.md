@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-11-23_vaccines-investor-opt
 
 > **Figure 1: Us Dollar - 12 Months**  
 > *US Dollar - 12 months*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-23_vaccines-investor-optimism-and-a-weaker-us-dollar_img_china_cfe01a98e4d5.jpg)
+> [Local Asset](assets/2020-11-23_vaccines-investor-optimism-and-a-weaker-us-dollar_img_china_cfe01a98e4d5.jpg)
 
 As China forges ahead with its economic recovery, Europe appears to be on the second leg down in what could turn out to be a W-shaped recovery. The results of IHS Markit’s survey of purchasing managers across the Eurozone indicate that the 19-members bloc is slipping back into contraction. Hardly surprising, the service sector is leading the plunge, as restaurants and other parts of the hospitality industry have been forced to close in many countries. The extent of the weakness in the service sector pushed the overall PMI into contraction territory, despite the manufacturing industry recording growth for the fifth consecutive month. The severity of the contraction is not of the same magnitude as in the earlier parts of the year, but if the weakness continues into the new year, parts of Europe may find themselves in a double-dip recession.
 
@@ -40,7 +40,7 @@ The importance of vaccines for the global economic recovery can obviously not be
 
 > **Figure 2: ﻿A Weaker Us Currency Is Good News for Commodity Importers**  
 > *﻿A weaker US currency is good news for commodity importers around the world, most notably China, as most contracts are priced in US dollars. The strong performance of the Chinese economy during the second half of the year have driven commodity demand and prices higher, but with a weaker greenback the impact could be muted somewhat. The effect could also be an increase in demand for commodities, with even greater volumes being shipped around the world, and prices (in US dollars) reaching even higher levels.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-23_vaccines-investor-optimism-and-a-weaker-us-dollar_img_ulf80_7abfec11426d.jpg)
+> [Local Asset](assets/2020-11-23_vaccines-investor-optimism-and-a-weaker-us-dollar_img_ulf80_7abfec11426d.jpg)
 
 ---
 

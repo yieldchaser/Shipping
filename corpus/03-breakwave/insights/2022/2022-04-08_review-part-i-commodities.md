@@ -29,7 +29,7 @@ On 1 January, Indonesia's government imposed a month-long ban on coal exports in
 ![Screenshot 20220408 093904 Drive](assets/2022-04-08_review-part-i-commodities_img_screenshot-20220408-093904-drive_98fb52654255.jpg)
 
 > **Figure 1: Screenshot 20220408 093904 Drive**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-08_review-part-i-commodities_img_screenshot-20220408-093904-drive_98fb52654255.jpg)
+> [Local Asset](assets/2022-04-08_review-part-i-commodities_img_screenshot-20220408-093904-drive_98fb52654255.jpg)
 
 Following this export ban, some industry stakeholders initially pointed to a more worrying future for seaborne coal in Asia. Emphasizing the longer-term impact was that the narrative of this dirty fuel being cheap and reliable, promoted by the coal industry in its battle for survival against cleaner energy alternatives, were seriously compromised. However, with Russian coal being shunned or ‘self-sanction’ by European buyers (see below), such concerns had been tentatively, shelved as they seek Asian-origin coal for substitution across the short to mid-term.
 
@@ -40,7 +40,7 @@ Accordingly, weekly shipments peaked in Week 8 at 4.3 mln mt before de-escalatin
 ![Screenshot 20220408 093934 Drive](assets/2022-04-08_review-part-i-commodities_img_screenshot-20220408-093934-drive_e4e737a90b57.jpg)
 
 > **Figure 2: Screenshot 20220408 093934 Drive**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-08_review-part-i-commodities_img_screenshot-20220408-093934-drive_e4e737a90b57.jpg)
+> [Local Asset](assets/2022-04-08_review-part-i-commodities_img_screenshot-20220408-093934-drive_e4e737a90b57.jpg)
 
 In response to this new development, Indonesian coal producers had voiced their intentions to expand their exports in response to overseas buyers who are increasingly shifting their purchases to Indonesia from Russia. Nonetheless, these producers have that stated ensuring local power companies receive adequate coal supplies will be top their priority. The Indonesian Coal Mining Association (APBI) said it is working with the government to ensure that major power plants, controlled by state utility Perusahaan Listrik Negara, receive adequate coal supply.
 
@@ -49,28 +49,28 @@ While 1Q20 started off the wrong foot as heavy rains in Brazil delayed harvest b
 ![Screenshot 20220408 094008 Drive](assets/2022-04-08_review-part-i-commodities_img_screenshot-20220408-094008-drive_ab7dc980d82b.jpg)
 
 > **Figure 3: Screenshot 20220408 094008 Drive**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-08_review-part-i-commodities_img_screenshot-20220408-094008-drive_ab7dc980d82b.jpg)
+> [Local Asset](assets/2022-04-08_review-part-i-commodities_img_screenshot-20220408-094008-drive_ab7dc980d82b.jpg)
 
 Black Sea grain exports also experienced a promising start to this year, which supported Supramax and Handy rates in the Med/Black sea. That quickly derailed once all Ukrainian ports were shut in the wake of Russia’s invasion. Russian ports in Novorossiysk and Taman continue to export modest volumes in smaller parcel size mainly to Samsun, Turkey. Under normal circumstances, peak Black Sea grain exporting season would normally arrive in July and August. Considering the current situation, this seems an unlikely prospect this year.
 
 ![Screenshot 20220408 094026 Drive](assets/2022-04-08_review-part-i-commodities_img_screenshot-20220408-094026-drive_996d303519e4.jpg)
 
 > **Figure 4: Screenshot 20220408 094026 Drive**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-08_review-part-i-commodities_img_screenshot-20220408-094026-drive_996d303519e4.jpg)
+> [Local Asset](assets/2022-04-08_review-part-i-commodities_img_screenshot-20220408-094026-drive_996d303519e4.jpg)
 
 Capesize rates have been relatively lackluster in 1Q22 as compared to the sub-cape segments as its fortunes ultimately is still tied to the availability of overseas iron ore (namely from Australia and Brazil). While Australian iron ore shipments have stayed steady, the longer-haul Brazil shipments failed to impress, falling by 8.7 % y.o.y, thereby failing to provide the boost to ton-miles needed to lift C5TC beyond the $20K ceiling.
 
 ![Screenshot 20220408 094043 Drive](assets/2022-04-08_review-part-i-commodities_img_screenshot-20220408-094043-drive_3ea03823f249.jpg)
 
 > **Figure 5: Screenshot 20220408 094043 Drive**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-08_review-part-i-commodities_img_screenshot-20220408-094043-drive_3ea03823f249.jpg)
+> [Local Asset](assets/2022-04-08_review-part-i-commodities_img_screenshot-20220408-094043-drive_3ea03823f249.jpg)
 
 Taking a step back, looking at the global seaborne volumes (include cabotage) for all commodities, despite the aforementioned two events, the decline in total volumes is only at a mere 2.8% y.o.y, a fact that trade and economy enthusiasts could take comfort in. However, if the Ukraine-Russia war continues to fester, the possibility of demand destruction due to price inflation down the road cannot be ruled out, which would ultimately smash global dry bulk demand.
 
 ![Screenshot 20220408 094103 Drive](assets/2022-04-08_review-part-i-commodities_img_screenshot-20220408-094103-drive_1ace34c08e58.jpg)
 
 > **Figure 6: Screenshot 20220408 094103 Drive**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-08_review-part-i-commodities_img_screenshot-20220408-094103-drive_1ace34c08e58.jpg)
+> [Local Asset](assets/2022-04-08_review-part-i-commodities_img_screenshot-20220408-094103-drive_1ace34c08e58.jpg)
 
 ---
 

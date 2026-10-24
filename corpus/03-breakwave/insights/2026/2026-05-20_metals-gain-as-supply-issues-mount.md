@@ -27,7 +27,7 @@ Most sectors were lower on hopes that negotiations between Iran and the US would
 ![Στιγμιότυπο Οθόνης 2026 05 20 164151](assets/2026-05-20_metals-gain-as-supply-issues-mount_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8db38b736372.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 05 20 164151**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-20_metals-gain-as-supply-issues-mount_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8db38b736372.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2026-05-20_metals-gain-as-supply-issues-mount_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8db38b736372.png)
 
 ### Market Commentary
 
@@ -48,7 +48,7 @@ Global lithium prices continue to push higher on constructive demand trends, und
 ![Στιγμιότυπο Οθόνης 2026 05 20 164248](assets/2026-05-20_metals-gain-as-supply-issues-mount_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb9a99734394.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 05 20 164248**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-20_metals-gain-as-supply-issues-mount_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb9a99734394.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2026-05-20_metals-gain-as-supply-issues-mount_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb9a99734394.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

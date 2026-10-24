@@ -33,7 +33,7 @@ Sharp correction since the December peak highlights near-term pressure, though l
 ![‍chart of the Week| Daily Freight Assessments: Bci‍](../../images/6968ac2f08061425805d45c9_7252681d.png)
 
 > **Figure 1: ‍chart of the Week| Daily Freight Assessments: Bci‍**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-03-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6968ac2f08061425805d45c9_7252681d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-03-2026) | [Local Asset](../../images/6968ac2f08061425805d45c9_7252681d.png)
 
 
 ## Key Takeaways
@@ -59,7 +59,7 @@ As of 12 January, Brazilian iron ore shipments on a 7-day moving-average basis a
 ![Brazilian Iron Ore Shipments | Early-Year Flows Turning Lower](../../images/6968ac2f08061425805d45d2_df65c315.png)
 
 > **Figure 2: Brazilian Iron Ore Shipments | Early-Year Flows Turning Lower**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-03-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6968ac2f08061425805d45d2_df65c315.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-03-2026) | [Local Asset](../../images/6968ac2f08061425805d45d2_df65c315.png)
 
 
 ## Freight Market Weaker
@@ -73,13 +73,13 @@ Market price trends depicted are based on Signal Ocean Assessments. For real-tim
 ![Baltic Rates Comparison](../../images/6968ac2f08061425805d45cf_0bb21f3d.png)
 
 > **Figure 3: Baltic Rates Comparison**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-03-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6968ac2f08061425805d45cf_0bb21f3d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-03-2026) | [Local Asset](../../images/6968ac2f08061425805d45cf_0bb21f3d.png)
 
 
 ![Baltic Rates Comparison](../../images/6968ac2f08061425805d45bd_42c4e6df.png)
 
 > **Figure 4: Baltic Rates Comparison**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-03-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6968ac2f08061425805d45bd_42c4e6df.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-03-2026) | [Local Asset](../../images/6968ac2f08061425805d45bd_42c4e6df.png)
 
 
 - The recent drop in the BDI is led by a sharp correction in Capesize (BCI), whereas Panamax, Supramax, and Handysize markets have shown comparatively milder declines.
@@ -91,13 +91,13 @@ Market price trends depicted are based on Signal Ocean Assessments. For real-tim
 ![Capesize | Weaker](../../images/6968ac2f08061425805d45c3_30d0022e.png)
 
 > **Figure 5: Capesize | Weaker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-03-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6968ac2f08061425805d45c3_30d0022e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-03-2026) | [Local Asset](../../images/6968ac2f08061425805d45c3_30d0022e.png)
 
 
 ![Capesize | Weaker](../../images/6968ac2f08061425805d45c6_e04f257c.png)
 
 > **Figure 6: Capesize | Weaker**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-03-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6968ac2f08061425805d45c6_e04f257c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-03-2026) | [Local Asset](../../images/6968ac2f08061425805d45c6_e04f257c.png)
 
 
 - Cape freight rates on the Brazil–China and WAus–China routes have trended lower since early December, following a clear summer peak reached mid-year. The continued easing into mid-January signals a soft start to the year, with rates losing momentum during the first month of 2026.
@@ -114,13 +114,13 @@ Market price trends depicted are based on Signal Ocean Assessments. For real-tim
 ![Capesize | Vessel Count Grows in Io / Sa](../../images/6968ac2f08061425805d45c0_3dda41d6.png)
 
 > **Figure 7: Capesize | Vessel Count Grows in Io / Sa**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-03-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6968ac2f08061425805d45c0_3dda41d6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-03-2026) | [Local Asset](../../images/6968ac2f08061425805d45c0_3dda41d6.png)
 
 
 ![Capesize | Vessel Count Grows in Io / Sa](../../images/6968ac2f08061425805d45cc_e73a2910.png)
 
 > **Figure 8: Capesize | Vessel Count Grows in Io / Sa**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-03-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6968ac2f08061425805d45cc_e73a2910.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-03-2026) | [Local Asset](../../images/6968ac2f08061425805d45cc_e73a2910.png)
 
 
 - Ballast counts are building most notably in IO/SA, which remains the largest accumulation area at 183 vessels (+12% WoW). The Pacific is also showing increased availability, led by Australasia at 231 vessels (+14% WoW). In the Atlantic, NATL rose sharply in percentage terms (+29% WoW), while SATL declined to 36 vessels (-14% WoW). FEAST/NOPAC eased slightly to 126 vessels (-3% WoW).

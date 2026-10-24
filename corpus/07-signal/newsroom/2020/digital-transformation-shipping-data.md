@@ -56,7 +56,7 @@ The system has a variety of filters that allow brokers to narrow down a tonnage 
 
 > **Figure 1: Cargo Based Tonnage List Including a List of Filters and Associated TCE per Vessel.**  
 > *Cargo based Tonnage list including a list of filters and associated TCE per vessel.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/digital-transformation-shipping-data) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51fb2f3cff8de72f292f7_5fc15be53f217296ae75e433_Cargo%20based%20Tonnage%20list%20including%20a%20list%20of%20filters%20and%20TCE%20-%20signal%20ocean%20platrform.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/digital-transformation-shipping-data) | [Local Asset](../../images/66b51fb2f3cff8de72f292f7_5fc15be53f217296ae75e433_Cargo%20based%20Tonnage%20list%20including%20a%20list%20of%20filters%20and%20TCE%20-%20signal%20ocean%20platrform.avif)
 
 
 ## Estimate Profitability per Voyage (TCE)
@@ -68,7 +68,7 @@ Ship brokers often need TCE estimations in order to better facilitate negotiatio
 
 > **Figure 2: The Signal Ocean Platform TCE Estimation Dashboard Provides a Detailed TCE Estimation per Vessel per Cargo, Updated with Current Market Rates.**  
 > *The Signal Ocean Platform TCE Estimation Dashboard provides a detailed TCE estimation per vessel per cargo, updated with current market rates.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/digital-transformation-shipping-data) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51fb2f3cff8de72f292fb_5fc15be53f21725edb75e434_The%20Signal%20Ocean%20Platform%20TCE%20Estimation%20Dashboard.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/digital-transformation-shipping-data) | [Local Asset](../../images/66b51fb2f3cff8de72f292fb_5fc15be53f21725edb75e434_The%20Signal%20Ocean%20Platform%20TCE%20Estimation%20Dashboard.avif)
 
 Brokers play a vital role in the shipping industry by collecting and routing the correct information to facilitate transactions. Maintaining an up-to-date database of Fixtures is foundational. Brokers can use The Signal Ocean Platform to facilitate relationships with their clients and they can also use it within their teams to capture market fixtures as they happen.
 
@@ -79,7 +79,7 @@ Signal has developed a feature called the “Magic Line” which understands shi
 
 > **Figure 3: The Signal Ocean Platform Fixtures Dashboard Including the Magic Line Feature Window.**  
 > *The Signal Ocean Platform Fixtures dashboard including the Magic line feature window.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/digital-transformation-shipping-data) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51fb2f3cff8de72f292f3_5fc15be53f2172846575e435_The%20Signal%20Ocean%20Platform%20Fixtures%20dashboard.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/digital-transformation-shipping-data) | [Local Asset](../../images/66b51fb2f3cff8de72f292f3_5fc15be53f2172846575e435_The%20Signal%20Ocean%20Platform%20Fixtures%20dashboard.avif)
 
 Signal Ocean equips brokers with the advanced technology to stay on top of this challenging information game, allowing them to generate fixture reports easily in order for them to enhance their service to charterers and owners.
 

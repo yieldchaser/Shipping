@@ -31,7 +31,7 @@ Minor bulk, made up of all dry cargo types that are not categorized as iron ore,
 
 > **Figure 1: Source: Total Minor Bulk Export Performance From Signal Ocean.minor Bulk Is Made Up of Dry Bulk That Is Not Categorised as Iron Ore, Coal, or Grains**  
 > *Source: Total minor bulk* export performance from Signal Ocean.*Minor bulk is made up of dry bulk that is not categorised as iron ore, coal, or grains. It includes the likes of bauxite, cement, steel, fertilizers, etc.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/689b085e38c7e3c25c6151e8_AD_4nXfEqBGUoX6VAl-f_JEpJg8DUcAMYljMb1aV7H4Ewd4DoVLxrj_6Zmm5HqbkLTXOTYyBY5GI5UnID5rKnQudZftXbrn9HFDhcsXbxMbPHtpQCRDyEmxCkxPIqdALkJec3Sl80eyZDg.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](../../images/689b085e38c7e3c25c6151e8_AD_4nXfEqBGUoX6VAl-f_JEpJg8DUcAMYljMb1aV7H4Ewd4DoVLxrj_6Zmm5HqbkLTXOTYyBY5GI5UnID5rKnQudZftXbrn9HFDhcsXbxMbPHtpQCRDyEmxCkxPIqdALkJec3Sl80eyZDg.png)
 
 
 ## Economic Environment
@@ -44,7 +44,7 @@ Minor bulk, made up of all dry cargo types that are not categorized as iron ore,
 
 > **Figure 2: Source: National Bureau of Statistics of China, Institute for Supply Management, Hcob, Hbsc India Manufacturing Pmi**  
 > *Source: National Bureau of Statistics of China, Institute for Supply Management, HCOB, HBSC India Manufacturing PMI*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/689b085e38c7e3c25c6151e2_AD_4nXduJH83MheH6lfbsyZRvTGFfOwk2WeCcna6yCy7DYTBcPQqxWEJ6yg8g9CU3WUMRVtBoY45F6LDai_gBrZ1dv2qM4WaaflL54kYmfAXgFYlpsqwQ6srymdF2iuSOt2bOuxhB2NTrA.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](../../images/689b085e38c7e3c25c6151e2_AD_4nXduJH83MheH6lfbsyZRvTGFfOwk2WeCcna6yCy7DYTBcPQqxWEJ6yg8g9CU3WUMRVtBoY45F6LDai_gBrZ1dv2qM4WaaflL54kYmfAXgFYlpsqwQ6srymdF2iuSOt2bOuxhB2NTrA.png)
 
 
 ## Exchange Rates
@@ -56,7 +56,7 @@ Minor bulk, made up of all dry cargo types that are not categorized as iron ore,
 ![Usd Vs:](../../images/689b085e38c7e3c25c615200_AD_4nXesBT-7u7cxpRwPYNZXX7etbDVNpdkkSrV8uV38FmHSOEX9mbVL0WZpli6q-OmluuIsZMsvWJ59IbGX0hqxEKPxeDbbys4kJTBAdIpZhjryB7dl4dY_A8frJBm_M3b1bzSQkbFSjQ.png)
 
 > **Figure 3: Usd Vs:**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/689b085e38c7e3c25c615200_AD_4nXesBT-7u7cxpRwPYNZXX7etbDVNpdkkSrV8uV38FmHSOEX9mbVL0WZpli6q-OmluuIsZMsvWJ59IbGX0hqxEKPxeDbbys4kJTBAdIpZhjryB7dl4dY_A8frJBm_M3b1bzSQkbFSjQ.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](../../images/689b085e38c7e3c25c615200_AD_4nXesBT-7u7cxpRwPYNZXX7etbDVNpdkkSrV8uV38FmHSOEX9mbVL0WZpli6q-OmluuIsZMsvWJ59IbGX0hqxEKPxeDbbys4kJTBAdIpZhjryB7dl4dY_A8frJBm_M3b1bzSQkbFSjQ.png)
 
 
 ## Rmb Vs:
@@ -66,7 +66,7 @@ Minor bulk, made up of all dry cargo types that are not categorized as iron ore,
 
 > **Figure 4: Source: Imf**  
 > *Source: IMF*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/689b085e38c7e3c25c6151df_AD_4nXfs7wUaeGRqXBwKLRgTcKh6IItrWdl_pQYcYTj8c4bdd_qUcL-yt9FVzB_DYZggJNP19vYlxq_NViI5wdmG0ltOWIa4I2sa9oNSsntlyyjrDDwfIIoWCHZegqJWgi0UUqGlg06_JQ.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](../../images/689b085e38c7e3c25c6151df_AD_4nXfs7wUaeGRqXBwKLRgTcKh6IItrWdl_pQYcYTj8c4bdd_qUcL-yt9FVzB_DYZggJNP19vYlxq_NViI5wdmG0ltOWIa4I2sa9oNSsntlyyjrDDwfIIoWCHZegqJWgi0UUqGlg06_JQ.png)
 
 
 ## Baltic Indexes
@@ -76,7 +76,7 @@ Minor bulk, made up of all dry cargo types that are not categorized as iron ore,
 
 > **Figure 5: Source: The Baltic Exchange**  
 > *Source: The Baltic Exchange*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/689b085e38c7e3c25c6151f7_AD_4nXc-XumnwvM9swYjZPC7IFqx0m1tU10v_vTad8cMFy80C7uQYtacQrdrQJhMAEnk-WpGe8NKxoQ0ow8Vc4VdqNhsE_JaNwjFV3CcijML-Jk3e0X0lfnMWMZcWngiEs8mWrNzXnPFow.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](../../images/689b085e38c7e3c25c6151f7_AD_4nXc-XumnwvM9swYjZPC7IFqx0m1tU10v_vTad8cMFy80C7uQYtacQrdrQJhMAEnk-WpGe8NKxoQ0ow8Vc4VdqNhsE_JaNwjFV3CcijML-Jk3e0X0lfnMWMZcWngiEs8mWrNzXnPFow.png)
 
 
 ## Minor Bulk
@@ -97,7 +97,7 @@ The Winning group, from Hong Kong China, was the largest commercial operator of 
 
 > **Figure 6: Source: Global Monthly Bauxite Exports From Signal Ocean**  
 > *Source: Global monthly bauxite exports from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/689b085e38c7e3c25c6151e5_AD_4nXc1rZ9udVyM9vOpAdIB9ImmLRj9uuYodZk3KkM8isbMxcctbyuwogHer32kpK1EthRwRMuDKBDGlBZEge4UXKSwMSM7zpuomfoxLt8vIpjR73APj0MHV9zVxXW9X49VbRq-5CiAbQ.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](../../images/689b085e38c7e3c25c6151e5_AD_4nXc1rZ9udVyM9vOpAdIB9ImmLRj9uuYodZk3KkM8isbMxcctbyuwogHer32kpK1EthRwRMuDKBDGlBZEge4UXKSwMSM7zpuomfoxLt8vIpjR73APj0MHV9zVxXW9X49VbRq-5CiAbQ.png)
 
 ****
 
@@ -106,14 +106,14 @@ The Winning group, from Hong Kong China, was the largest commercial operator of 
 
 > **Figure 7: Source: National Bureau of Statistics of China, Value for January Is the Average of the Total Cumulative Output Listed in February**  
 > *Source: National Bureau of Statistics of China, *value for January is the average of the total cumulative output listed in February*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/689b085e38c7e3c25c6151eb_AD_4nXfpY3pkyOxGb498zAqcNAWdPhuUCmH5U5akclnKGlmWOiBnlgLObE6l-mrDCvsD6bBFTNdL08y3csL8rnL1uknH4SC9HNbMIrKVDieeU6cyTnk1zt1lCqjKEwc1wYMz-dPuqsxAOQ.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](../../images/689b085e38c7e3c25c6151eb_AD_4nXfpY3pkyOxGb498zAqcNAWdPhuUCmH5U5akclnKGlmWOiBnlgLObE6l-mrDCvsD6bBFTNdL08y3csL8rnL1uknH4SC9HNbMIrKVDieeU6cyTnk1zt1lCqjKEwc1wYMz-dPuqsxAOQ.png)
 
 
 ![Source: Total Dry Bulk Vessel Breakdown by Type in 2025, Breakdown of Cargo Type Carried by Capesize Vessels in 2025 So Far](../../images/689b085e38c7e3c25c6151f1_AD_4nXd_AeBpbxsq_tA_-yCo7DYMvPaJC3wWR0zC-MdE0GHSXPyRPK2UGLbVFsZbrfrTgpEIQ9eADjYRntqiy9a3IAeCV_1zhgSsw7CEzLxM5Gp32KF_RQkS3pA2jqgMyAr066U7xxNs.png)
 
 > **Figure 8: Source: Total Dry Bulk Vessel Breakdown by Type in 2025, Breakdown of Cargo Type Carried by Capesize Vessels in 2025 So Far**  
 > *Source: Total dry bulk vessel breakdown by type in 2025, Breakdown of cargo type carried by Capesize vessels in 2025 so far*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/689b085e38c7e3c25c6151f1_AD_4nXd_AeBpbxsq_tA_-yCo7DYMvPaJC3wWR0zC-MdE0GHSXPyRPK2UGLbVFsZbrfrTgpEIQ9eADjYRntqiy9a3IAeCV_1zhgSsw7CEzLxM5Gp32KF_RQkS3pA2jqgMyAr066U7xxNs.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](../../images/689b085e38c7e3c25c6151f1_AD_4nXd_AeBpbxsq_tA_-yCo7DYMvPaJC3wWR0zC-MdE0GHSXPyRPK2UGLbVFsZbrfrTgpEIQ9eADjYRntqiy9a3IAeCV_1zhgSsw7CEzLxM5Gp32KF_RQkS3pA2jqgMyAr066U7xxNs.png)
 
 
 ## Steel
@@ -129,21 +129,21 @@ Yet Chinese exports are still driving the global steel trade, and we are seeing 
 
 > **Figure 9: Source: Total Steel Export Volumes From Signal Ocean**  
 > *Source: Total steel export volumes from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/689b085e38c7e3c25c6151fa_AD_4nXd35ALh_vks7q70yDf9JwQKuk8v3sZUuafGtZrJsYLCFYCpbR5KpTri5cr8xojLdTz-XdzbHWr7oYmFT_v6dJpzgJMvZ5VDiasFKVieKUt4W4X6ZxKey6emRf2fkCN6wUhaidjKmw.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](../../images/689b085e38c7e3c25c6151fa_AD_4nXd35ALh_vks7q70yDf9JwQKuk8v3sZUuafGtZrJsYLCFYCpbR5KpTri5cr8xojLdTz-XdzbHWr7oYmFT_v6dJpzgJMvZ5VDiasFKVieKUt4W4X6ZxKey6emRf2fkCN6wUhaidjKmw.png)
 
 
 ![Source: World Steel Association](../../images/689b085e38c7e3c25c6151f4_AD_4nXdYGxX9NuF4QWESkq-Nvzk4K0_I64GZUII3col85Ub8BrKr9a96yQ61F_ACqvL2LJaEbkO5aAaNnBsTihW25CNoAqhfY5AVpX3YhDhXH1xzO_8huSkPOw8Aswzppe7AKGY1ZQLbkQ.png)
 
 > **Figure 10: Source: World Steel Association**  
 > *Source: World Steel Association*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/689b085e38c7e3c25c6151f4_AD_4nXdYGxX9NuF4QWESkq-Nvzk4K0_I64GZUII3col85Ub8BrKr9a96yQ61F_ACqvL2LJaEbkO5aAaNnBsTihW25CNoAqhfY5AVpX3YhDhXH1xzO_8huSkPOw8Aswzppe7AKGY1ZQLbkQ.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](../../images/689b085e38c7e3c25c6151f4_AD_4nXdYGxX9NuF4QWESkq-Nvzk4K0_I64GZUII3col85Ub8BrKr9a96yQ61F_ACqvL2LJaEbkO5aAaNnBsTihW25CNoAqhfY5AVpX3YhDhXH1xzO_8huSkPOw8Aswzppe7AKGY1ZQLbkQ.png)
 
 
 ![Source: World Steel Association and Signal Ocean](../../images/689b085e38c7e3c25c6151ee_AD_4nXdTTTFk6YSa87bsJHu9F_JgXJjMS4BH0_6UBg24WdfbR8uCTeAI5wF1yYLUbOnK_pfavvfahpIvc-z2RnC-Tp0hBXI6o9zbzBHnocEYcTIWCEE7FraIpAfN_ftT0fVksvH-EmSWKA.png)
 
 > **Figure 11: Source: World Steel Association and Signal Ocean**  
 > *Source: World Steel Association and Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/689b085e38c7e3c25c6151ee_AD_4nXdTTTFk6YSa87bsJHu9F_JgXJjMS4BH0_6UBg24WdfbR8uCTeAI5wF1yYLUbOnK_pfavvfahpIvc-z2RnC-Tp0hBXI6o9zbzBHnocEYcTIWCEE7FraIpAfN_ftT0fVksvH-EmSWKA.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](../../images/689b085e38c7e3c25c6151ee_AD_4nXdTTTFk6YSa87bsJHu9F_JgXJjMS4BH0_6UBg24WdfbR8uCTeAI5wF1yYLUbOnK_pfavvfahpIvc-z2RnC-Tp0hBXI6o9zbzBHnocEYcTIWCEE7FraIpAfN_ftT0fVksvH-EmSWKA.png)
 
 
 ## Fertilizer
@@ -163,21 +163,21 @@ Overall, though, fertilizer performance for the shipping industry has been stron
 
 > **Figure 12: Source: Fertilizer Exports From Signal Ocean**  
 > *Source: Fertilizer exports from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/689b085e38c7e3c25c615207_AD_4nXcHy01ZVgTWC4PSlPOfKPfQBJB3zm4MBQkvHtlFS5lfXGHJcSl3p3tWyfhs-3j3LgKEoQGM7-srSfLcWa3g5qwrOeXAUj0BlvOOU9MI-478b708_Edw16t7dG8e-STF1-Xg9Snykg.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](../../images/689b085e38c7e3c25c615207_AD_4nXcHy01ZVgTWC4PSlPOfKPfQBJB3zm4MBQkvHtlFS5lfXGHJcSl3p3tWyfhs-3j3LgKEoQGM7-srSfLcWa3g5qwrOeXAUj0BlvOOU9MI-478b708_Edw16t7dG8e-STF1-Xg9Snykg.png)
 
 
 ![Source: 2022-2025 Fertilizer Origins vs 2025 Fertilizer Origins From Signal Ocean](../../images/689b085e38c7e3c25c6151fd_AD_4nXeJP8BW-lmJlvkmrZaFVQobPs2Gii83mtMFf8dXBeiHJ4hoTnfLlv-D1oFV8E2Vtc_uMUgbGe-iKfYnsJFA-pbuMEk3UkursqHlLlI3mUOz9fPzXL-fVuiZnrVfnGcfeYd1A8-_.png)
 
 > **Figure 13: Source: 2022-2025 Fertilizer Origins vs 2025 Fertilizer Origins From Signal Ocean**  
 > *Source: 2022-2025 fertilizer origins vs 2025 fertilizer origins from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/689b085e38c7e3c25c6151fd_AD_4nXeJP8BW-lmJlvkmrZaFVQobPs2Gii83mtMFf8dXBeiHJ4hoTnfLlv-D1oFV8E2Vtc_uMUgbGe-iKfYnsJFA-pbuMEk3UkursqHlLlI3mUOz9fPzXL-fVuiZnrVfnGcfeYd1A8-_.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](../../images/689b085e38c7e3c25c6151fd_AD_4nXeJP8BW-lmJlvkmrZaFVQobPs2Gii83mtMFf8dXBeiHJ4hoTnfLlv-D1oFV8E2Vtc_uMUgbGe-iKfYnsJFA-pbuMEk3UkursqHlLlI3mUOz9fPzXL-fVuiZnrVfnGcfeYd1A8-_.png)
 
 
 ![Source: Tonne-Miles of Fertilizer Exports to Brazil and India From Signal Ocean](../../images/689b085e38c7e3c25c615204_AD_4nXfInenrJPmFjYHkKsiN0sgCQC4Nexrgyo63Il0hkF1EWp2g_XL76vinB43AGK2obpwEll2F5cLX62wRYTj1GiWDF-UCrz9UtGM9QKYJ-fs1IODRkaP4ZY-L83yXXe6NfwdoU3fG.png)
 
 > **Figure 14: Source: Tonne-Miles of Fertilizer Exports to Brazil and India From Signal Ocean**  
 > *Source: Tonne-miles of fertilizer exports to Brazil and India from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/689b085e38c7e3c25c615204_AD_4nXfInenrJPmFjYHkKsiN0sgCQC4Nexrgyo63Il0hkF1EWp2g_XL76vinB43AGK2obpwEll2F5cLX62wRYTj1GiWDF-UCrz9UtGM9QKYJ-fs1IODRkaP4ZY-L83yXXe6NfwdoU3fG.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-august-2025) | [Local Asset](../../images/689b085e38c7e3c25c615204_AD_4nXfInenrJPmFjYHkKsiN0sgCQC4Nexrgyo63Il0hkF1EWp2g_XL76vinB43AGK2obpwEll2F5cLX62wRYTj1GiWDF-UCrz9UtGM9QKYJ-fs1IODRkaP4ZY-L83yXXe6NfwdoU3fG.png)
 
 
 ## Recent Insights & Weekly Reports

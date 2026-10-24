@@ -28,7 +28,7 @@ However, the year started differently. After an extended period of Covid-related
 ![#12 Dry Bulk Orders for Disch China Monthly 2022](assets/2022-07-15_a-new-quarter-more-of-the-same_img_2312drybulkordersfordischchinamonthl_40b17deca9dc.png)
 
 > **Figure 1: #12 Dry Bulk Orders for Disch China Monthly 2022**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-15_a-new-quarter-more-of-the-same_img_2312drybulkordersfordischchinamonthl_40b17deca9dc.png)
+> [Local Asset](assets/2022-07-15_a-new-quarter-more-of-the-same_img_2312drybulkordersfordischchinamonthl_40b17deca9dc.png)
 
 Source: Shipfix
 
@@ -45,7 +45,7 @@ Dry bulk freight rates could get some support from government initiatives to sup
 ![1](assets/2022-07-15_a-new-quarter-more-of-the-same_img_1_6ba7cd1b3fd9.png)
 
 > **Figure 2: 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-15_a-new-quarter-more-of-the-same_img_1_6ba7cd1b3fd9.png)
+> [Local Asset](assets/2022-07-15_a-new-quarter-more-of-the-same_img_1_6ba7cd1b3fd9.png)
 
 Source: Shipfix
 
@@ -54,7 +54,7 @@ An extensive Chinese drive to invest in infrastructure projects would promote th
 ![2](assets/2022-07-15_a-new-quarter-more-of-the-same_img_2_29d54cdf19e8.png)
 
 > **Figure 3: 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-15_a-new-quarter-more-of-the-same_img_2_29d54cdf19e8.png)
+> [Local Asset](assets/2022-07-15_a-new-quarter-more-of-the-same_img_2_29d54cdf19e8.png)
 
 Source: Shipfix
 

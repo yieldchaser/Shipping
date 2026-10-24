@@ -67,7 +67,7 @@ The volatile nature of the demand for Russian coal shipped from the Baltic Sea a
 ![Στιγμιότυπο Οθόνης 2024 05 20 183533](assets/2024-05-20_outlook-for-the-global-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fdb31ae78d9f.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 20 183533**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-20_outlook-for-the-global-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fdb31ae78d9f.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-05-20_outlook-for-the-global-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fdb31ae78d9f.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

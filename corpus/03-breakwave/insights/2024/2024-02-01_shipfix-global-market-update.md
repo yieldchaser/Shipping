@@ -61,7 +61,7 @@ Beyond the continued importance of the intra-Euorpean trade, an increase in dema
 ![241](assets/2024-02-01_shipfix-global-market-update_img_241_91b35d68303e.png)
 
 > **Figure 1: 241**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-01_shipfix-global-market-update_img_241_91b35d68303e.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-02-01_shipfix-global-market-update_img_241_91b35d68303e.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

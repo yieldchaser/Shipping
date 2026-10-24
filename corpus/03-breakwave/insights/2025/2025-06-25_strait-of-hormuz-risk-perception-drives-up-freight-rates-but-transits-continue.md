@@ -37,7 +37,7 @@ Our data shows that operators are not avoiding transiting the Strait of Hormuz, 
 ![Στιγμιότυπο Οθόνης 2025 06 25 134734](assets/2025-06-25_strait-of-hormuz-risk-perception-drives-up-freight-rates-but-transits-continue_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ac68495f1244.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 06 25 134734**  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/FreightPricing?availabilitySplit=none&dateRange=last-24-months&hiddenSeries=%5B%22primary_past%22%5D&outlook=outlook_1d&page=FreightPricing&ratesBreakdownProperty=cost&tabId=e79fd4c4-f8c1-4826-82c4-59832f50e01c) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-25_strait-of-hormuz-risk-perception-drives-up-freight-rates-but-transits-continue_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ac68495f1244.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/FreightPricing?availabilitySplit=none&dateRange=last-24-months&hiddenSeries=%5B%22primary_past%22%5D&outlook=outlook_1d&page=FreightPricing&ratesBreakdownProperty=cost&tabId=e79fd4c4-f8c1-4826-82c4-59832f50e01c) | [Local Asset](assets/2025-06-25_strait-of-hormuz-risk-perception-drives-up-freight-rates-but-transits-continue_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ac68495f1244.png)
 
 ## Risk Drives Up Market Sentiment, Leading to Substantial Gains in Spot Freight Rates
 
@@ -52,7 +52,7 @@ The other key asset class operating out of the Middle East Gulf is LRs, either t
 ![Στιγμιότυπο Οθόνης 2025 06 25 134828](assets/2025-06-25_strait-of-hormuz-risk-perception-drives-up-freight-rates-but-transits-continue_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e1c9471fbf36.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 06 25 134828**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-25_strait-of-hormuz-risk-perception-drives-up-freight-rates-but-transits-continue_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e1c9471fbf36.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](assets/2025-06-25_strait-of-hormuz-risk-perception-drives-up-freight-rates-but-transits-continue_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e1c9471fbf36.png)
 
 ## Will Freight Rate Rises Continue?
 

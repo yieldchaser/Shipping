@@ -27,14 +27,14 @@ As we discussed in Commodore Research's most recent Weekly China Report, Chinese
 ![Chart 2](assets/2026-10-19_thermal-coal-prices-in-china-at-highest-level-in-three-years_img_chart2_933efcd88951.jpg)
 
 > **Figure 1: Chart 2**  
-> [Local Asset](file:///c:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-19_thermal-coal-prices-in-china-at-highest-level-in-three-years_img_chart2_933efcd88951.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-19_thermal-coal-prices-in-china-at-highest-level-in-three-years_img_chart2_933efcd88951.jpg)
 
 This divergence remains a testament to just how weak China’s coal output has remained even though the central government continues to call on miners to raise production. Near-term coal import prospects remain bullish.
 
 ![Chart 1](assets/2026-10-19_thermal-coal-prices-in-china-at-highest-level-in-three-years_img_chart1_6ec73d4972c0.jpg)
 
 > **Figure 2: Chart 1**  
-> [Local Asset](file:///c:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-19_thermal-coal-prices-in-china-at-highest-level-in-three-years_img_chart1_6ec73d4972c0.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-19_thermal-coal-prices-in-china-at-highest-level-in-three-years_img_chart1_6ec73d4972c0.jpg)
 
 ---
 

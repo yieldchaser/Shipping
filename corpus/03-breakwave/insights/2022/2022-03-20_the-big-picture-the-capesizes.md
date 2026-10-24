@@ -29,7 +29,7 @@ Following a 15.4% decline on the day following the onset of the war in Ukraine, 
 ![Ch1](assets/2022-03-20_the-big-picture-the-capesizes_img_ch1_bd761864d8cf.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-20_the-big-picture-the-capesizes_img_ch1_bd761864d8cf.png)
+> [Local Asset](assets/2022-03-20_the-big-picture-the-capesizes_img_ch1_bd761864d8cf.png)
 
 The C16 backhaul Capesize rate, although lower in the past couple of days, has risen by $11,750 per day following the war in Ukraine as vessels leaving China are increasingly bid higher to do coal stems for European buyers from locations other than Russia. As buyers scramble for energy supplies it is more efficient to buy coal in larger quantities, particularly with fuel oil at such high prices and the Capesizes trading at a $4,053 per day discount to the Panamaxes based on current timecharter averages.
 
@@ -40,7 +40,7 @@ Capesize coal trade has remained strong so far in 2022, with 61.2m tonnes loaded
 ![Ch2](assets/2022-03-20_the-big-picture-the-capesizes_img_ch2_efe1927d1bbf.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-20_the-big-picture-the-capesizes_img_ch2_efe1927d1bbf.png)
+> [Local Asset](assets/2022-03-20_the-big-picture-the-capesizes_img_ch2_efe1927d1bbf.png)
 
 Although the EU has not officially sanctioned imports of Russian coal, self-sanctioning by many European buyers has resulted in some volumes starting to load from further afield. In February, Colombian coal loadings on Capesizes to Europe more than doubled YoY to 1.4m tonnes and the highest since December 2019. So far in March, 686k tonnes has loaded on Capes in Colombia for European destinations. This is already higher than total loadings for this trade in March of the previous two years. The Colombian government last week announced it was discussing an increase in coal exports with the country’s largest producers due to increased demand from European and Central American end-users, implying this trend is likely to continue. From Indonesia, so far 507k tonnes of coal has loaded on Capes destined for Europe in March, the highest level since January 2019. With Chinese demand tapering so far in 2022, there is likely to be more Indonesian volumes available to other buyers, such as Europe, going forward. From other sources, such as Canada and South Africa, we have so far not seen a significant increase in Capesize coal trade to Europe.
 
@@ -51,14 +51,14 @@ Out of Australia, iron ore volumes have been relatively strong so far in 2022. A
 ![Ch3](assets/2022-03-20_the-big-picture-the-capesizes_img_ch3_3d22afd446ef.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-20_the-big-picture-the-capesizes_img_ch3_3d22afd446ef.png)
+> [Local Asset](assets/2022-03-20_the-big-picture-the-capesizes_img_ch3_3d22afd446ef.png)
 
 In Brazil, the seasonal rainy season has been more harsh than in previous years, particularly in the northern system where the large mining region of Pará is located. Year-to-date accumulated precipitation in northern regions is 10.8% higher YoY and higher than levels at this time of year in each of the past 5 years. Shipments from Brazil across the first two months of the year decreased by 6.0% YoY to 44.9m tonnes as mine and port operations were affected. Although conditions moderately improved in recent weeks, current forecasts indicate more rain may be on the way and could delay a substantial improvement in iron ore volumes out of the region.
 
 ![Ch4](assets/2022-03-20_the-big-picture-the-capesizes_img_ch4_d7a3a3a713e4.png)
 
 > **Figure 4: Ch4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-20_the-big-picture-the-capesizes_img_ch4_d7a3a3a713e4.png)
+> [Local Asset](assets/2022-03-20_the-big-picture-the-capesizes_img_ch4_d7a3a3a713e4.png)
 
 ### Fresh Lockdowns in China
 
@@ -67,7 +67,7 @@ In the last week, a surge in Covid-19 cases in China has triggered a wave of loc
 ![Ch5](assets/2022-03-20_the-big-picture-the-capesizes_img_ch5_96240e3a143b.png)
 
 > **Figure 5: Ch5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-20_the-big-picture-the-capesizes_img_ch5_96240e3a143b.png)
+> [Local Asset](assets/2022-03-20_the-big-picture-the-capesizes_img_ch5_96240e3a143b.png)
 
 The scope for a rebound in congestion, as a result of the lockdowns, is now higher given the constraints ports are under when employee infections rise. This is naturally reliant on any lockdowns being prolonged past the one week in which they are currently in place. With China’s Zero-Covid policy still in place and cases rising, it would not be surprising to see these extended. Capesize vessels have also began to slowdown en route to Chinese ports, potentially in anticipation Covid-19 measures are eased and queues are cleared by the time they arrive. Average voyage speeds of Capes discharging in China have declined by 0.15 to 10.47 knots so far in March compared to those in February. In comparison, all laden Capesize voyages are travelling, on average, 0.18 knots faster at present. This slowdown in speeds, particularly towards China, should help support the market going forward as this trend continues.
 

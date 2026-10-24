@@ -27,14 +27,14 @@ As we discussed in Commodore Research's most recent Weekly Dry Bulk Report, Coal
 ![Chart 1 (2)](assets/2024-04-15_ongoing-climb-in-coal-indias-stockpiles_img_chart128229_d4c4b63e3320.jpg)
 
 > **Figure 1: Chart 1 (2)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-15_ongoing-climb-in-coal-indias-stockpiles_img_chart128229_d4c4b63e3320.jpg)
+> [Local Asset](assets/2024-04-15_ongoing-climb-in-coal-indias-stockpiles_img_chart128229_d4c4b63e3320.jpg)
 
 Offtake (amount sent to customers) totaled 68.8 million tons in March. This has marked a month-on-month increase of 3.5 million tons (5%) and a year-on-year increase of 4.6 million tons (7%). Coal India's offtake has now increased on a year-on-year basis during thirty-six of the last thirty-seven months, but March again saw offtake come in less than production. Each of the last five months have seen offtake come in less than production, and as a result Coal India’s stockpiles have continued to increase. The company’s coal pithead stockpiles have now climbed to approximately 91 million tons.
 
 ![Chart 2 (2)](assets/2024-04-15_ongoing-climb-in-coal-indias-stockpiles_img_chart228229_0cc54120ce7a.jpg)
 
 > **Figure 2: Chart 2 (2)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-15_ongoing-climb-in-coal-indias-stockpiles_img_chart228229_0cc54120ce7a.jpg)
+> [Local Asset](assets/2024-04-15_ongoing-climb-in-coal-indias-stockpiles_img_chart228229_0cc54120ce7a.jpg)
 
 ---
 

@@ -27,7 +27,7 @@ The energy sector fell on reports the US and Iran are close to an interim peace 
 ![Στιγμιότυπο Οθόνης 2026 05 28 110304](assets/2026-05-28_oil-selloff-continues-over-peace-deal-optimism_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7a10b1f9af70.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 05 28 110304**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-28_oil-selloff-continues-over-peace-deal-optimism_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7a10b1f9af70.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2026-05-28_oil-selloff-continues-over-peace-deal-optimism_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7a10b1f9af70.png)
 
 ### Market Commentary
 
@@ -48,7 +48,7 @@ China’s appears to be using a different strategy to shield its self from the m
 ![Στιγμιότυπο Οθόνης 2026 05 28 110353](assets/2026-05-28_oil-selloff-continues-over-peace-deal-optimism_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_67fd97099bc9.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 05 28 110353**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-28_oil-selloff-continues-over-peace-deal-optimism_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_67fd97099bc9.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2026-05-28_oil-selloff-continues-over-peace-deal-optimism_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_67fd97099bc9.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

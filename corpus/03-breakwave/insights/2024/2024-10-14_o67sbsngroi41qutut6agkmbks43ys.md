@@ -33,7 +33,7 @@ Meanwhile, global trade dynamics have shown signs of recovery, albeit with linge
 ![Στιγμιότυπο Οθόνης 2024 10 14 105029](assets/2024-10-14_o67sbsngroi41qutut6agkmbks43ys_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3002054ce66.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 14 105029**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-14_o67sbsngroi41qutut6agkmbks43ys_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3002054ce66.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-10-14_o67sbsngroi41qutut6agkmbks43ys_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3002054ce66.png)
 
 The easing of inflationary pressures has allowed central banks in advanced economies to reduce interest rates, which in turn is expected to stimulate consumer spending, drive investment, and support the gradual recovery of global trade.
 
@@ -48,7 +48,7 @@ In the spot market for the forty-first trading week, the dry bulk market exhibit
 ![Στιγμιότυπο Οθόνης 2024 10 14 105229](assets/2024-10-14_o67sbsngroi41qutut6agkmbks43ys_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6c8d96aba44f.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 14 105229**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-14_o67sbsngroi41qutut6agkmbks43ys_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6c8d96aba44f.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-10-14_o67sbsngroi41qutut6agkmbks43ys_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6c8d96aba44f.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

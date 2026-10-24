@@ -32,7 +32,7 @@ Ordering this year has naturally slowed down as the freight market softened thro
 ![Market Chart 1](assets/2022-11-11_braemar-weekly-dry-bulk-report_img_image028729_d82b11c91e68.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-11_braemar-weekly-dry-bulk-report_img_image028729_d82b11c91e68.png)
+> [Local Asset](assets/2022-11-11_braemar-weekly-dry-bulk-report_img_image028729_d82b11c91e68.png)
 
 This year, bulk carrier contracting has been dominated by the Kamsarmax and Ultramax sectors, grabbing a 32.3% and 43.0% share of total bulk carrier contracting in 2022 so far by number of ships, and so we forecast greater growth in these segments. These ships have proven most attractive given their relative price to the other vessel sizes and trading flexibility. Meanwhile on the Capesizes, ordering has been considerably low, with just 18 vessels ordered so far this year. In the event no more Capes are ordered this year, this would be the lowest year for Capesize contracting since 2001 (15).
 
@@ -49,7 +49,7 @@ We forecast the fleet to grow by 2.8% next year which is largely a reflection of
 ![Market Chart 2](assets/2022-11-11_braemar-weekly-dry-bulk-report_img_image128729_ad6d54ddde9a.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-11_braemar-weekly-dry-bulk-report_img_image128729_ad6d54ddde9a.png)
+> [Local Asset](assets/2022-11-11_braemar-weekly-dry-bulk-report_img_image128729_ad6d54ddde9a.png)
 
 Looking forward, we expect several of the factors causing low ordering in 2022 to continue into next year, namely alternative propulsion uncertainty. Another factor to consider looking to next year is the rising cost of capital globally as central banks tighten to fight inflation, making debt financing for a newbuild more expensive. However, we do expect newbuilding prices to ultimately begin to more closely reflect market conditions which should entice more contracting, and why we still expect positive fleet growth.
 
@@ -60,6 +60,6 @@ Despite the downward pressure in the dry market this year, vessel demolitions co
 ![Market Chart 3](assets/2022-11-11_braemar-weekly-dry-bulk-report_img_image228729_832820449f67.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-11_braemar-weekly-dry-bulk-report_img_image228729_832820449f67.png)
+> [Local Asset](assets/2022-11-11_braemar-weekly-dry-bulk-report_img_image228729_832820449f67.png)
 
 Given the lack of ordering, we expect the older vessels to trade for longer than previously expected with several of these likely sold into Russian trades as has been a trend in the past few months. In the longer term, we see dry bulk tonnage being demolished increasing near the levels of 2020 in 2026, largely due to scrap pools growing but also tightening regulation making the older ships less sustainable.

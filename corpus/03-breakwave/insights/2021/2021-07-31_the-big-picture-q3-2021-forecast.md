@@ -43,7 +43,7 @@ As such, we expect output growth over July-December to slow to 8.7% YoY, with ou
 ![A1](assets/2021-07-31_the-big-picture-q3-2021-forecast_img_a1_c90276fa11b5.png)
 
 > **Figure 1: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-31_the-big-picture-q3-2021-forecast_img_a1_c90276fa11b5.png)
+> [Local Asset](assets/2021-07-31_the-big-picture-q3-2021-forecast_img_a1_c90276fa11b5.png)
 
 Outside of China, where production grew by 16.8% YoY over the first half, representing an extremely low base in 1H 2020, we expect the recovery to continue over the next six months as strong steel prices coax more product out of mills, with output growing by 7.2% YoY. This brings total output from these countries in 2021 to 855.9m tonnes, an 11.8% YoY improvement, which we believe will be followed by a 0.8% pullback in 2022.
 
@@ -58,7 +58,7 @@ Part of this is a natural recovery in demand as economies reopen and require mor
 ![A2](assets/2021-07-31_the-big-picture-q3-2021-forecast_img_a2_ea48c9ee88df.png)
 
 > **Figure 2: A2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-31_the-big-picture-q3-2021-forecast_img_a2_ea48c9ee88df.png)
+> [Local Asset](assets/2021-07-31_the-big-picture-q3-2021-forecast_img_a2_ea48c9ee88df.png)
 
 We expect these factors to provide support to bulk carrier demand from coal trade over the next few months, but longer-term, the outlook is still relatively weak. Although we have revised up our forecasts for coal trade over the 2020s, we still expect total trade to decline by 1.9% in 2022, and then to continue at a compound annual growth rate (CAGR) of -0.6% through to 2025. Within this however, the outlook varies by vessel size, with some classes more exposed to certain regions than others.
 
@@ -71,7 +71,7 @@ While we remain very positive on the growth prospects for grain, this year does 
 ![A3](assets/2021-07-31_the-big-picture-q3-2021-forecast_img_a3_c75ee451730d.png)
 
 > **Figure 3: A3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-31_the-big-picture-q3-2021-forecast_img_a3_c75ee451730d.png)
+> [Local Asset](assets/2021-07-31_the-big-picture-q3-2021-forecast_img_a3_c75ee451730d.png)
 
 ### Minor Bulks
 
@@ -86,7 +86,7 @@ Given the current orderbook, age profile of the fleet and expectations for futur
 ![A4](assets/2021-07-31_the-big-picture-q3-2021-forecast_img_a4_489fdd2ac6e1.png)
 
 > **Figure 4: A4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-31_the-big-picture-q3-2021-forecast_img_a4_489fdd2ac6e1.png)
+> [Local Asset](assets/2021-07-31_the-big-picture-q3-2021-forecast_img_a4_489fdd2ac6e1.png)
 
 ### What to Watch
 

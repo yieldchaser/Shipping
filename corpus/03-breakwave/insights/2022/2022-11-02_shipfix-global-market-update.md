@@ -54,6 +54,6 @@ Shipfix’s more forward-looking cargo order data, on the other hand, suggest th
 ![Market Chart 1](assets/2022-11-02_shipfix-global-market-update_img_unnamed-2022-11-02t144551470_44e027ef994c.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-02_shipfix-global-market-update_img_unnamed-2022-11-02t144551470_44e027ef994c.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-11-02_shipfix-global-market-update_img_unnamed-2022-11-02t144551470_44e027ef994c.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

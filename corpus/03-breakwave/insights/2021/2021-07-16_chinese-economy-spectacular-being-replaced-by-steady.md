@@ -27,7 +27,7 @@ The economic data coming out of China in recent weeks have painted a rather mixe
 ![A1](assets/2021-07-16_chinese-economy-spectacular-being-replaced-by-steady_img_a1_56dc9ee35cc2.png)
 
 > **Figure 1: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-16_chinese-economy-spectacular-being-replaced-by-steady_img_a1_56dc9ee35cc2.png)
+> [Local Asset](assets/2021-07-16_chinese-economy-spectacular-being-replaced-by-steady_img_a1_56dc9ee35cc2.png)
 
 Despite failing to meet expectations, the Chinese economy ended the first half of the year with a quarter-on-quarter growth at just over a per cent. The continued strength of the Chinese economy was the result of a stronger-than-expected rebound in retail sales and increasing investments among manufacturers, suggesting that the country’s growth is becoming more balanced. The initial V-shaped pandemic recovery was fueled by surging exports and a buoyant property market while consumer demand was lagging, which was a concern for policymakers aiming for greater domestic resilience. With export sales likely to slow slightly in the second half as consumers globally start to spend more on services, the importance of the domestic economy is increasing.
 
@@ -42,7 +42,7 @@ Beyond China, demand for industrial commodities is likely to improve, with more 
 ![A2.pnj](assets/2021-07-16_chinese-economy-spectacular-being-replaced-by-steady_img_a2pnj_71c1c82c181d.png)
 
 > **Figure 2: A2.pnj**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-16_chinese-economy-spectacular-being-replaced-by-steady_img_a2pnj_71c1c82c181d.png)
+> [Local Asset](assets/2021-07-16_chinese-economy-spectacular-being-replaced-by-steady_img_a2pnj_71c1c82c181d.png)
 
 The rising demand for iron ore outside China could offset a softening demand in China and provide some support to prices. However, a renewed Chinese focus on infrastructure investments would on the other hand contribute to an already tight supply situation. The extent of the upward pressure on prices would be dependent on the rate of recovery of the Brazilian iron ore production, with shipping benefitting from a rapid recovery due to the longer voyages involved.
 

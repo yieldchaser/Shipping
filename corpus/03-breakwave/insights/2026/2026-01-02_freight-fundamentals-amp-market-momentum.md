@@ -31,21 +31,21 @@ source_file: "corpus/03-breakwave/insights/2026/2026-01-02_freight-fundamentals-
 ![Weaker](assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed28529_e10f130db450.png)
 
 > **Figure 1: Weaker**  
-> **Interactive Data & Source:** [Signal Ocean Dynamic Market Prices](https://go.signalocean.com/e/983831/-dynamic-market-prices-tankers/2rqpwr/565317097/h/DCTjcbWoxrICqu1YO6NnGVN8HCrMSbfMgg0a-1BfKfk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed28529_e10f130db450.png)
+> **Interactive Data & Source:** [Signal Ocean Dynamic Market Prices](https://go.signalocean.com/e/983831/-dynamic-market-prices-tankers/2rqpwr/565317097/h/DCTjcbWoxrICqu1YO6NnGVN8HCrMSbfMgg0a-1BfKfk) | [Local Asset](assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed28529_e10f130db450.png)
 
 **Suezmax**Black Sea - Med
 
 ![Firmer](assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed28629_9877b708f758.png)
 
 > **Figure 2: Firmer**  
-> **Interactive Data & Source:** [Signal Ocean Dynamic Market Prices](https://go.signalocean.com/e/983831/-dynamic-market-prices-tankers/2rqpwr/565317097/h/DCTjcbWoxrICqu1YO6NnGVN8HCrMSbfMgg0a-1BfKfk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed28629_9877b708f758.png)
+> **Interactive Data & Source:** [Signal Ocean Dynamic Market Prices](https://go.signalocean.com/e/983831/-dynamic-market-prices-tankers/2rqpwr/565317097/h/DCTjcbWoxrICqu1YO6NnGVN8HCrMSbfMgg0a-1BfKfk) | [Local Asset](assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed28629_9877b708f758.png)
 
 **Aframax**Cross Med
 
 ![Market Chart 3](assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed28729_5e05c8cebed1.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Signal Ocean Dynamic Market Prices](https://go.signalocean.com/e/983831/-dynamic-market-prices-tankers/2rqpwr/565317097/h/DCTjcbWoxrICqu1YO6NnGVN8HCrMSbfMgg0a-1BfKfk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed28729_5e05c8cebed1.png)
+> **Interactive Data & Source:** [Signal Ocean Dynamic Market Prices](https://go.signalocean.com/e/983831/-dynamic-market-prices-tankers/2rqpwr/565317097/h/DCTjcbWoxrICqu1YO6NnGVN8HCrMSbfMgg0a-1BfKfk) | [Local Asset](assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed28729_5e05c8cebed1.png)
 
 **Clean**[**Freight**](https://go.signalocean.com/e/983831/-dynamic-market-prices-tankers/2rqpwr/565317097/h/DCTjcbWoxrICqu1YO6NnGVN8HCrMSbfMgg0a-1BfKfk)**Market Sentiment**
 
@@ -54,7 +54,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-01-02_freight-fundamentals-
 ![Market Chart 4](assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed28829_0be0adb5e936.png)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Signal Ocean Dynamic Market Prices](https://go.signalocean.com/e/983831/-dynamic-market-prices-tankers/2rqpwr/565317097/h/DCTjcbWoxrICqu1YO6NnGVN8HCrMSbfMgg0a-1BfKfk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed28829_0be0adb5e936.png)
+> **Interactive Data & Source:** [Signal Ocean Dynamic Market Prices](https://go.signalocean.com/e/983831/-dynamic-market-prices-tankers/2rqpwr/565317097/h/DCTjcbWoxrICqu1YO6NnGVN8HCrMSbfMgg0a-1BfKfk) | [Local Asset](assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed28829_0be0adb5e936.png)
 
 ### Lr2meg - Japansteady
 
@@ -62,7 +62,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-01-02_freight-fundamentals-
 
 > **Figure 5: Demand Volumes)**  
 > *Dirty Market Signals(WS | Ballast Positioning | Demand Volumes)*  
-> **Interactive Data & Source:** [Signal Ocean Dynamic Market Prices](https://go.signalocean.com/e/983831/-dynamic-market-prices-tankers/2rqpwr/565317097/h/DCTjcbWoxrICqu1YO6NnGVN8HCrMSbfMgg0a-1BfKfk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed28929_8435292abb5f.png)
+> **Interactive Data & Source:** [Signal Ocean Dynamic Market Prices](https://go.signalocean.com/e/983831/-dynamic-market-prices-tankers/2rqpwr/565317097/h/DCTjcbWoxrICqu1YO6NnGVN8HCrMSbfMgg0a-1BfKfk) | [Local Asset](assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed28929_8435292abb5f.png)
 
 - What current fundamentals imply for the days ahead
 
@@ -71,7 +71,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-01-02_freight-fundamentals-
 ![Signalassessmentoverview](assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed281029_653de886bced.png)
 
 > **Figure 6: Signalassessmentoverview**  
-> **Interactive Data & Source:** [Signal Ocean VLCC Insights](https://go.signalocean.com/e/983831/mic-vlcc-insights-downloadable/2rqpwv/565317097/h/DCTjcbWoxrICqu1YO6NnGVN8HCrMSbfMgg0a-1BfKfk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed281029_653de886bced.png)
+> **Interactive Data & Source:** [Signal Ocean VLCC Insights](https://go.signalocean.com/e/983831/mic-vlcc-insights-downloadable/2rqpwv/565317097/h/DCTjcbWoxrICqu1YO6NnGVN8HCrMSbfMgg0a-1BfKfk) | [Local Asset](assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed281029_653de886bced.png)
 
 **Ballasters| AG & WAFR**[**Supply**](https://go.signalocean.com/e/983831/mic-vlcc-insights-downloadable/2rqpwv/565317097/h/DCTjcbWoxrICqu1YO6NnGVN8HCrMSbfMgg0a-1BfKfk)**Building**
 
@@ -82,7 +82,7 @@ Bearish for near-term freight
 ![Market Chart 7](assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed281129_fcbf58877bfb.png)
 
 > **Figure 7: Market Chart 7**  
-> **Interactive Data & Source:** [Signal Ocean Dynamic Timeseries](https://go.signalocean.com/e/983831/nker-dynamic-timeseries-tanker/2rqpwy/565317097/h/DCTjcbWoxrICqu1YO6NnGVN8HCrMSbfMgg0a-1BfKfk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed281129_fcbf58877bfb.png)
+> **Interactive Data & Source:** [Signal Ocean Dynamic Timeseries](https://go.signalocean.com/e/983831/nker-dynamic-timeseries-tanker/2rqpwy/565317097/h/DCTjcbWoxrICqu1YO6NnGVN8HCrMSbfMgg0a-1BfKfk) | [Local Asset](assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed281129_fcbf58877bfb.png)
 
 ### Gross Supply vs Cargo Demand |Td3 & Td15
 
@@ -91,12 +91,12 @@ Bearish for near-term freight
 ![Supply vs Demand](assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed281229_f538c6e26e67.png)
 
 > **Figure 8: Supply vs Demand**  
-> **Interactive Data & Source:** [Signal Ocean Dynamic Timeseries](https://go.signalocean.com/e/983831/nker-dynamic-timeseries-tanker/2rqpwy/565317097/h/DCTjcbWoxrICqu1YO6NnGVN8HCrMSbfMgg0a-1BfKfk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed281229_f538c6e26e67.png)
+> **Interactive Data & Source:** [Signal Ocean Dynamic Timeseries](https://go.signalocean.com/e/983831/nker-dynamic-timeseries-tanker/2rqpwy/565317097/h/DCTjcbWoxrICqu1YO6NnGVN8HCrMSbfMgg0a-1BfKfk) | [Local Asset](assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed281229_f538c6e26e67.png)
 
 ![Market Chart 9](assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed281329_90fc844bebec.png)
 
 > **Figure 9: Market Chart 9**  
-> **Interactive Data & Source:** [Signal Ocean Dynamic Timeseries](https://go.signalocean.com/e/983831/nker-dynamic-timeseries-tanker/2rqpwy/565317097/h/DCTjcbWoxrICqu1YO6NnGVN8HCrMSbfMgg0a-1BfKfk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed281329_90fc844bebec.png)
+> **Interactive Data & Source:** [Signal Ocean Dynamic Timeseries](https://go.signalocean.com/e/983831/nker-dynamic-timeseries-tanker/2rqpwy/565317097/h/DCTjcbWoxrICqu1YO6NnGVN8HCrMSbfMgg0a-1BfKfk) | [Local Asset](assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed281329_90fc844bebec.png)
 
 ### Demand (Volume Loaded) | Td3c
 
@@ -107,7 +107,7 @@ Lack of incremental volume growth caps freight support
 ![Market Chart 10](assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed281429_b5a217aa18ec.png)
 
 > **Figure 10: Market Chart 10**  
-> **Interactive Data & Source:** [Signal Ocean Dynamic Timeseries](https://go.signalocean.com/e/983831/nker-dynamic-timeseries-tanker/2rqpwy/565317097/h/DCTjcbWoxrICqu1YO6NnGVN8HCrMSbfMgg0a-1BfKfk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed281429_b5a217aa18ec.png)
+> **Interactive Data & Source:** [Signal Ocean Dynamic Timeseries](https://go.signalocean.com/e/983831/nker-dynamic-timeseries-tanker/2rqpwy/565317097/h/DCTjcbWoxrICqu1YO6NnGVN8HCrMSbfMgg0a-1BfKfk) | [Local Asset](assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed281429_b5a217aa18ec.png)
 
 **VLCC**[**Tonne**](https://go.signalocean.com/e/983831/nker-dynamic-timeseries-tanker/2rqpwy/565317097/h/DCTjcbWoxrICqu1YO6NnGVN8HCrMSbfMgg0a-1BfKfk)**Days | AG to Far East**
 
@@ -118,7 +118,7 @@ Momentum fading after recent highs
 ![Market Chart 11](assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed281529_dfe36bf76479.png)
 
 > **Figure 11: Market Chart 11**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed281529_dfe36bf76479.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed281529_dfe36bf76479.png)
 
 ### Firmer Tonne-Day Trends | Dirty Aframax & Clean MR
 
@@ -127,12 +127,12 @@ Momentum fading after recent highs
 ![Dirty Aframax](assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed281629_758c71471a95.png)
 
 > **Figure 12: Dirty Aframax**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed281629_758c71471a95.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed281629_758c71471a95.png)
 
 ![Clean MR](assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed281729_57fe147c9326.png)
 
 > **Figure 13: Clean MR**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed281729_57fe147c9326.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-01-02_freight-fundamentals-amp-market-momentum_img_unnamed281729_57fe147c9326.png)
 
 ### Takeaway
 

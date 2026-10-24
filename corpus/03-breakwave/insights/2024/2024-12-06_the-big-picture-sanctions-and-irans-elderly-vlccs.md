@@ -33,7 +33,7 @@ Sanctions on Iranian exports, which we believe will only get tougher under Trump
 ![Market Chart 1](assets/2024-12-06_the-big-picture-sanctions-and-irans-elderly-vlccs_img_image0_7a1e387981bc.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-06_the-big-picture-sanctions-and-irans-elderly-vlccs_img_image0_7a1e387981bc.png)
+> [Local Asset](assets/2024-12-06_the-big-picture-sanctions-and-irans-elderly-vlccs_img_image0_7a1e387981bc.png)
 
 This week, the US sanctioned another 35 entities and vessels involved in transporting Iranian oil, including 10 VLCCs and a number of China-based ship management firms. The sanctions build on those imposed on 11 October following Iran’s 1 October missile attack on Israel. Lower oil prices have opened the door for the US to ramp up sanctions on Iran, providing room to disrupt Iranian exports without raising prices at the pump. Brent has averaged $81.10/bl so far this year, compared to $82.5/bl in 2023 and $101.10/bl in 2022. Since mid-October it has traded between $71/bl and $77/bl. OPEC+ is widely expected to again delay the return of 2.2mn b/d of oil to the market when it meets today. But even without any additional OPEC+ barrels, the IEA is forecasting a surplus of more than 1mn b/d next year because of cooling global demand as top importer China falters and the US, Guyana and Canada increase exports. A renewal of Trump’s “maximum pressure” strategy will force Iran’s fleet of overage VLCCs into floating storage or out of the fleet all together.
 
@@ -44,7 +44,7 @@ China’s independent refining sector has maximised its imports of discounted cr
 ![Market Chart 2](assets/2024-12-06_the-big-picture-sanctions-and-irans-elderly-vlccs_img_image1_96dbce7d54ef.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-06_the-big-picture-sanctions-and-irans-elderly-vlccs_img_image1_96dbce7d54ef.png)
+> [Local Asset](assets/2024-12-06_the-big-picture-sanctions-and-irans-elderly-vlccs_img_image1_96dbce7d54ef.png)
 
 Around 44% of Iranain oil cargoes on VLCCs this year were on sanctioned tankers. This, and their age, makes it unlikely that these ships will be able to easily return to unsanctioned trades. Some will be go back into floating storage but most will be scrapped, although sanctions may complicate this, if Iranian exports are cut back significantly and lastingly. For VLCCs turning 20 soon, unless age restrictions are relaxed more widely on unsanctioned trades, these tankers will more likely find themselves in breaking yards, as they did before 2020, than carrying oil.
 

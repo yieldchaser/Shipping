@@ -38,7 +38,7 @@ In 2024, India’s coal import trends revealed significant fluctuations compared
 
 > **Figure 1: Image 1: The Signal Ocean Platform Report, Dry Bulk Flows, Coal**  
 > *Image 1: The Signal Ocean Platform Report, Dry Bulk Flows, Coal*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/indias-energy-landscape-achieving-coal-market-independence-for-a-sustainable-future) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67aca6643d1bbbdfbe840660_AD_4nXdcIPituiGhfzmPZLg0ZAdxLz9O2Vh1BTOwRhPya6WNQTA9hzxhE_OI7zS95p1dFr1sqPcHAGOSQu6ok_ZXvTH_16VxOkBduCTdchZTvPVd2u1vpQryBIldlL2XAkgdrJ0rP6Dt.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/indias-energy-landscape-achieving-coal-market-independence-for-a-sustainable-future) | [Local Asset](../../images/67aca6643d1bbbdfbe840660_AD_4nXdcIPituiGhfzmPZLg0ZAdxLz9O2Vh1BTOwRhPya6WNQTA9hzxhE_OI7zS95p1dFr1sqPcHAGOSQu6ok_ZXvTH_16VxOkBduCTdchZTvPVd2u1vpQryBIldlL2XAkgdrJ0rP6Dt.avif)
 
 Despite the mid-year downturn, Q4 saw a rebound, bucking the typical downward trend observed in prior years. These contrasting patterns underscore India’s evolving coal strategy, balancing increasing self-sufficiency with the continued need for flexibility in imports to meet fluctuating industrial and power sector demands. This has made vessel scheduling and freight rate forecasting more complex in an already volatile maritime market.
 
@@ -57,7 +57,7 @@ India appears to be gradually adjusting its coal import sources in response to p
 
 > **Figure 2: Image 2: The Signal Ocean Platform Report, Dry Bulk Flows, Coal**  
 > *Image 2: The Signal Ocean Platform Report, Dry Bulk Flows, Coal*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/indias-energy-landscape-achieving-coal-market-independence-for-a-sustainable-future) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67aca6642975a3f4108f6073_AD_4nXeceyyjWJZE7248k_oZ2ZgKPTe5O_qMaSY1RewGPnl_DrJQsUSOt6xRXpn22QxFgc-Z7aysQUzFuR0-yVhX-djzGORXY_WCr8Nc7b_i1ILRXkETLqEl6-dQCojI5BnRFQyKDQzGYg.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/indias-energy-landscape-achieving-coal-market-independence-for-a-sustainable-future) | [Local Asset](../../images/67aca6642975a3f4108f6073_AD_4nXeceyyjWJZE7248k_oZ2ZgKPTe5O_qMaSY1RewGPnl_DrJQsUSOt6xRXpn22QxFgc-Z7aysQUzFuR0-yVhX-djzGORXY_WCr8Nc7b_i1ILRXkETLqEl6-dQCojI5BnRFQyKDQzGYg.avif)
 
 
 ## Crude Oil Dependence on Russia
@@ -71,7 +71,7 @@ To maintain energy security and reduce dependence on Russia, state refiners are 
 
 > **Figure 3: Image 3: The Signal Ocean Platform Report, Oil Flows, Crude**  
 > *Image 3: The Signal Ocean Platform Report, Oil Flows, Crude*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/indias-energy-landscape-achieving-coal-market-independence-for-a-sustainable-future) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67aca664521012682198c1b4_AD_4nXfea3sFinBLvgKoBmuv-zKIwB2FcVxB_h4eeGHWFKVNkjKepHj7ipdtAdgNXj6iiOS4y-KAOa42IxOglBn4jpWUEt5CcX7S343IAEflWQZRMjZzbhMTgi51et3679_evLgUAsAK.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/indias-energy-landscape-achieving-coal-market-independence-for-a-sustainable-future) | [Local Asset](../../images/67aca664521012682198c1b4_AD_4nXfea3sFinBLvgKoBmuv-zKIwB2FcVxB_h4eeGHWFKVNkjKepHj7ipdtAdgNXj6iiOS4y-KAOa42IxOglBn4jpWUEt5CcX7S343IAEflWQZRMjZzbhMTgi51et3679_evLgUAsAK.avif)
 
 
 ## Advancing Green Shipping

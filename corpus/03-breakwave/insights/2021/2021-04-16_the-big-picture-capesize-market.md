@@ -31,7 +31,7 @@ The FFA market has been even hotter, in turn fuelling the physical market in a v
 ![Braemar 10](assets/2021-04-16_the-big-picture-capesize-market_img_braemar10_ccc820f36edb.png)
 
 > **Figure 1: Braemar 10**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-16_the-big-picture-capesize-market_img_braemar10_ccc820f36edb.png)
+> [Local Asset](assets/2021-04-16_the-big-picture-capesize-market_img_braemar10_ccc820f36edb.png)
 
 ### Inefficiencies Mounting Up
 
@@ -44,7 +44,7 @@ Since the minimum ballast requirement was imposed, Capes on C5 trades spent on a
 ![Braemar 11](assets/2021-04-16_the-big-picture-capesize-market_img_braemar11_9798991ba353.png)
 
 > **Figure 2: Braemar 11**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-16_the-big-picture-capesize-market_img_braemar11_9798991ba353.png)
+> [Local Asset](assets/2021-04-16_the-big-picture-capesize-market_img_braemar11_9798991ba353.png)
 
 These additional days add up, artificially constraining supply. Queues of empty Capes at Australian ports have averaged 12m dwt since the rules were introduced, double what they averaged pre-Covid, while the effect of ships slowing down on ballast legs has further tightened the market.
 
@@ -61,7 +61,7 @@ Volumes of trade over the last few months have been mixed. Shipments from the ma
 ![Braemar 12](assets/2021-04-16_the-big-picture-capesize-market_img_braemar12_5ee005cc6c60.png)
 
 > **Figure 3: Braemar 12**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-16_the-big-picture-capesize-market_img_braemar12_5ee005cc6c60.png)
+> [Local Asset](assets/2021-04-16_the-big-picture-capesize-market_img_braemar12_5ee005cc6c60.png)
 
 The trades which did well in March were actually the smaller ones, and they are on track to keep growing this month. As we wrote earlier this week, India saw record levels of Cape exports in March, as high iron ore prices drove a surge in sales to China. March was also extremely strong for Russian coal shipments on Capes, which hit a record 3.4m tonnes, more than double YoY, driven by a boost in liftings from Vanino and Taman.
 
@@ -74,7 +74,7 @@ Since the boom in scrubber retrofits in early-2020, we haven’t written very mu
 ![Braemar 13](assets/2021-04-16_the-big-picture-capesize-market_img_braemar13_5e399b1e5bc0.png)
 
 > **Figure 4: Braemar 13**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-16_the-big-picture-capesize-market_img_braemar13_5e399b1e5bc0.png)
+> [Local Asset](assets/2021-04-16_the-big-picture-capesize-market_img_braemar13_5e399b1e5bc0.png)
 
 Looking forward, we’re expecting many of these tightening effects to remain in the short term. These should continue to provide support the market and keep freight rates elevated.
 

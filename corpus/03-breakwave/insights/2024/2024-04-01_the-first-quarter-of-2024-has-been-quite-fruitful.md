@@ -29,14 +29,14 @@ By dissecting the general index, two main trends have become apparent in the las
 ![Market Chart 1](assets/2024-04-01_the-first-quarter-of-2024-has-been-quite-fruitful_img_image1doric_f4dedfda9203.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-01_the-first-quarter-of-2024-has-been-quite-fruitful_img_image1doric_f4dedfda9203.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-04-01_the-first-quarter-of-2024-has-been-quite-fruitful_img_image1doric_f4dedfda9203.png)
 
 Against this backdrop, the segment most influenced by China, Capesizes, achieved a notably robust average of $24,286 daily for the first quarter of 2024, marking a significant increase of 165.6 percent year-on-year. Furthermore, this average surpassed the Q1 performance of Capesizes in the fertile year of 2022. Moving to the Panamax segment, the BPI 82 TCA recorded a respectable quarterly average of $15,447 daily, reflecting a 36.4 percent improvement over the previous year. However, the three-month performance of Panamaxes fell considerably short of the impressive Q1 2022 average levels of $23,218 daily. Supramaxes and Handies maintained a solid footing this quarter with three-month averages of $12,961 daily and $11,998 daily, respectively. These figures denote increases of 27.4 percent and 23.7 percent over their averages from the previous year. Furthermore, when examining a broader timeframe, all segments except Capesizes reported their best Q1 performances in recent years. Capesize Q1 performance was even more impressive, surpassing not only the seasonally weakest Q1 periods of previous years but also outperforming the majority of the typically stronger Q3 and Q4 periods.
 
 ![Market Chart 2](assets/2024-04-01_the-first-quarter-of-2024-has-been-quite-fruitful_img_image2doric_b4fe40c7a754.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-01_the-first-quarter-of-2024-has-been-quite-fruitful_img_image2doric_b4fe40c7a754.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-04-01_the-first-quarter-of-2024-has-been-quite-fruitful_img_image2doric_b4fe40c7a754.png)
 
 On the SandP front, modern eco five-year-old Capesize units commanded an average price of $58 million for the first quarter of 2024, representing an increase of approximately twelve million dollars compared to the previous year. With the spot market maintaining solid levels for a significant portion of the first quarter, the end-March price for such units reached $62 million, marking a seven million dollar increase from early January. Similarly, modern Kamsarmaxes averaged a price of $35.25 million during the last three months, indicating a five million dollar increase over the respective average of the previous year's Q1. A plethora of grain and coal orders not only sustained the buoyancy of the spot market but also supported the Kamsarmax SandP market during the first quarter. Moving down the ladder to the geared tonnage, the market for fiveyear-old Ultras and same-aged large Handies maintained an average price of $32.25 million and $27 million, respectively, representing increases of 10.5 percent and 8 percent year-on-year. It's noteworthy that market expectations at the close of this quarter significantly differ from those at the beginning. Consequently, asset prices are currently balancing above the aforementioned Q1 average levels in most of the cases.
 
@@ -45,7 +45,7 @@ As the market bids farewell to a flourishing first quarter, the dynamics of the 
 ![Market Chart 3](assets/2024-04-01_the-first-quarter-of-2024-has-been-quite-fruitful_img_image3doric_dc92d9c031b3.png)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-01_the-first-quarter-of-2024-has-been-quite-fruitful_img_image3doric_dc92d9c031b3.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-04-01_the-first-quarter-of-2024-has-been-quite-fruitful_img_image3doric_dc92d9c031b3.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

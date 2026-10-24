@@ -26,7 +26,7 @@ Upward revision to Panamax ship speed in August as freight market signals recove
 ![Market Chart 1](assets/2023-08-23_signal-dry-bulk-weekly-report_img_unnamed-2023-08-23t115648998_8986f1ad10d6.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2p9d88/340887919?h=TBVl4pMEiX_MWhVTqtZnvCd3CoUmdGuPfMXPq7JcDDY) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-23_signal-dry-bulk-weekly-report_img_unnamed-2023-08-23t115648998_8986f1ad10d6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2p9d88/340887919?h=TBVl4pMEiX_MWhVTqtZnvCd3CoUmdGuPfMXPq7JcDDY) | [Local Asset](assets/2023-08-23_signal-dry-bulk-weekly-report_img_unnamed-2023-08-23t115648998_8986f1ad10d6.png)
 
 The third week of August began with more robust sentiment, which countered fears about a possible downward trend in the Capesize segment. This change in sentiment is particularly evident as the Baltic Dry Index gains momentum, driven by Panamax and smaller ship categories. The upward trend in Panamax freight prices has led to a corresponding acceleration in vessel speeds, both ballasted and loaded.
 A closer look at the Baltic Panamax Index and vessel speeds, as seen in the visual representation, shows a discernible upward trend. This trend signifies an increase in average vessel speed and reflects the rise in the Baltic Panamax Index to a higher performance level throughout the month of August.
@@ -46,7 +46,7 @@ Market Rates ($/t) Firmer
 ![Market Chart 2](assets/2023-08-23_signal-dry-bulk-weekly-report_img_unnamed-2023-08-23t115648998_8986f1ad10d6.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-23_signal-dry-bulk-weekly-report_img_unnamed-2023-08-23t115648998_8986f1ad10d6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-08-23_signal-dry-bulk-weekly-report_img_unnamed-2023-08-23t115648998_8986f1ad10d6.png)
 
 The third week of August started with a firmer sentiment with the increase being more profound in the Panamax vessel segment, while a downward pressure was revealed in the Capesize segment.
 
@@ -60,7 +60,7 @@ The third week of August started with a firmer sentiment with the increase being
 ![Supply Trend Lines for Key Load Areasballasters (# Vessels) Mixed](assets/2023-08-23_signal-dry-bulk-weekly-report_img_unnamed-2023-08-23t115950351_091c226be05d.png)
 
 > **Figure 3: Supply Trend Lines for Key Load Areasballasters (# Vessels) Mixed**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-23_signal-dry-bulk-weekly-report_img_unnamed-2023-08-23t115950351_091c226be05d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-08-23_signal-dry-bulk-weekly-report_img_unnamed-2023-08-23t115950351_091c226be05d.png)
 
 The number of ballast vessels showed a mixed picture with a downward trend in the Capesize and Panamax regions, although the Handy NOPAC region continues to experience upward pressure.
 
@@ -74,7 +74,7 @@ The number of ballast vessels showed a mixed picture with a downward trend in th
 ![Summary of Dry Bulk Demand, per Ship Sizetonnedays Decreasing](assets/2023-08-23_signal-dry-bulk-weekly-report_img_unnamed-2023-08-23t120116410_37b140779961.png)
 
 > **Figure 4: Summary of Dry Bulk Demand, per Ship Sizetonnedays Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-23_signal-dry-bulk-weekly-report_img_unnamed-2023-08-23t120116410_37b140779961.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-08-23_signal-dry-bulk-weekly-report_img_unnamed-2023-08-23t120116410_37b140779961.png)
 
 The upward surge in tonne-day growth seen during the second week of August appears to have levelled off with a downward trend in the large vessel categories.
 
@@ -88,7 +88,7 @@ The upward surge in tonne-day growth seen during the second week of August appea
 ![Dry Bulk Ships Congested at Chinese Portsno of Vessels Decreasing](assets/2023-08-23_signal-dry-bulk-weekly-report_img_unnamed-2023-08-23t120323129_94b76d4351cb.png)
 
 > **Figure 5: Dry Bulk Ships Congested at Chinese Portsno of Vessels Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-23_signal-dry-bulk-weekly-report_img_unnamed-2023-08-23t120323129_94b76d4351cb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-08-23_signal-dry-bulk-weekly-report_img_unnamed-2023-08-23t120323129_94b76d4351cb.png)
 
 The upward revision in the number of vessel congestions appears to have moderated after the last peak in week 32, but the increase in the Panamax segment remained strong.
 

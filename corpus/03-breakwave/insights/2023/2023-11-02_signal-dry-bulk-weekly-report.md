@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-11-02_signal-dry-bulk-weekl
 ![Increase in the Percentage Share of Supramax Vessel Size for October](assets/2023-11-02_signal-dry-bulk-weekly-report_img_unnamed-2023-11-02t112342901_feadf775171b.png)
 
 > **Figure 1: Increase in the Percentage Share of Supramax Vessel Size for October**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-02_signal-dry-bulk-weekly-report_img_unnamed-2023-11-02t112342901_feadf775171b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-11-02_signal-dry-bulk-weekly-report_img_unnamed-2023-11-02t112342901_feadf775171b.png)
 
 As November starts, there is uncertainty about how dry bulk freight rates will perform in the future. Optimism in earlier days has faded due to recent weekly declines, and the market's strength in the final quarter of the year is now in question. On the supply side, there has been an increase in the number of ballasters for Capesize vessels, while in the Panamax category, there is still a decrease, indicating the possibility of a more robust rate environment.
 
@@ -43,7 +43,7 @@ Market Rates ($/t) Weaker
 ![Market Chart 2](assets/2023-11-02_signal-dry-bulk-weekly-report_img_unnamed-2023-11-02t112559757_77e402400377.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-02_signal-dry-bulk-weekly-report_img_unnamed-2023-11-02t112559757_77e402400377.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-11-02_signal-dry-bulk-weekly-report_img_unnamed-2023-11-02t112559757_77e402400377.png)
 
 The freight market momentum weakened at the beginning of November. Capesize Brazil to North China freight rates hit new lows compared to the peak two weeks ago.
 
@@ -57,7 +57,7 @@ The freight market momentum weakened at the beginning of November. Capesize Braz
 ![Supply Trend Lines for Key Load Areasballasters (#Vessels) Mixed](assets/2023-11-02_signal-dry-bulk-weekly-report_img_unnamed-2023-11-02t112715789_8b4838a4a000.png)
 
 > **Figure 3: Supply Trend Lines for Key Load Areasballasters (#Vessels) Mixed**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-02_signal-dry-bulk-weekly-report_img_unnamed-2023-11-02t112715789_8b4838a4a000.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-11-02_signal-dry-bulk-weekly-report_img_unnamed-2023-11-02t112715789_8b4838a4a000.png)
 
 In November, the Capesize segment experiences a significant increase in the number of ballast vessels, while the Panamax segment sees a steep downward trend.
 
@@ -71,7 +71,7 @@ In November, the Capesize segment experiences a significant increase in the numb
 ![Summary of Dry Bulk Demand, per Ship Sizetonne Days Decreasing](assets/2023-11-02_signal-dry-bulk-weekly-report_img_unnamed-2023-11-02t112829802_51c8955dc967.png)
 
 > **Figure 4: Summary of Dry Bulk Demand, per Ship Sizetonne Days Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-02_signal-dry-bulk-weekly-report_img_unnamed-2023-11-02t112829802_51c8955dc967.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-11-02_signal-dry-bulk-weekly-report_img_unnamed-2023-11-02t112829802_51c8955dc967.png)
 
 Demand growth exhibited a pronounced decline across all vessel size categories, with the Handysize category experiencing a more pronounced reduction than the other segments.
 
@@ -85,7 +85,7 @@ Demand growth exhibited a pronounced decline across all vessel size categories, 
 ![Dry Bulk Ships Congested at Chinese Portsno of Vessels Steady](assets/2023-11-02_signal-dry-bulk-weekly-report_img_unnamed-2023-11-02t112928509_2e4c6af0cba5.png)
 
 > **Figure 5: Dry Bulk Ships Congested at Chinese Portsno of Vessels Steady**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-02_signal-dry-bulk-weekly-report_img_unnamed-2023-11-02t112928509_2e4c6af0cba5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-11-02_signal-dry-bulk-weekly-report_img_unnamed-2023-11-02t112928509_2e4c6af0cba5.png)
 
 The level of ship congestion remained steady from the previous week but was still higher than levels four weeks ago.
 

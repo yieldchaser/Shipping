@@ -39,7 +39,7 @@ Current positioning data shows 319 bulk carriers and MPP vessels located west of
 ![A Growing Fleet Inside the Gulf with Limited Visibility](../../images/69ca91b6c4fac1ded94bf75a_c17bc1e2.png)
 
 > **Figure 1: A Growing Fleet Inside the Gulf with Limited Visibility**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/strait-of-hormuz-limited-vessel-transits-continue-as-outbound-flows-dominate) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69ca91b6c4fac1ded94bf75a_c17bc1e2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/strait-of-hormuz-limited-vessel-transits-continue-as-outbound-flows-dominate) | [Local Asset](../../images/69ca91b6c4fac1ded94bf75a_c17bc1e2.png)
 
 Notably, 82 vessels are currently operating under AIS blackout conditions, limiting real-time visibility and complicating efforts to assess operational status and cargo activity across the region.
 
@@ -83,7 +83,7 @@ The limited number of laden inbound vessels suggests that fresh cargo inflows in
 ![Inbound Activity Remains Constrained](../../images/69ca91b6c4fac1ded94bf75d_b571771f.png)
 
 > **Figure 2: Inbound Activity Remains Constrained**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/strait-of-hormuz-limited-vessel-transits-continue-as-outbound-flows-dominate) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69ca91b6c4fac1ded94bf75d_b571771f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/strait-of-hormuz-limited-vessel-transits-continue-as-outbound-flows-dominate) | [Local Asset](../../images/69ca91b6c4fac1ded94bf75d_b571771f.png)
 
 
 ## AIS Disruption and Data Opacity Increase

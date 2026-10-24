@@ -27,21 +27,21 @@ As we discussed in Commodore Research's most recent Weekly Executive Report, Coa
 ![Chart 1](assets/2025-10-10_coal-indias-production-returns-to-contraction_img_chart1_ac52f17cad5a.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-10_coal-indias-production-returns-to-contraction_img_chart1_ac52f17cad5a.jpg)
+> [Local Asset](assets/2025-10-10_coal-indias-production-returns-to-contraction_img_chart1_ac52f17cad5a.jpg)
 
 Offtake (the amount sent to customers) totaled 53.6 million tons, which is down month-on-month by 3.1 million tons (-6%) and down year-on-year by 800,000 tons (-2%). Offtake has now exceeded production for six straight months. Previously, it had come in under production for six straight months.
 
 ![Chart 2](assets/2025-10-10_coal-indias-production-returns-to-contraction_img_chart2_94465f445c76.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-10_coal-indias-production-returns-to-contraction_img_chart2_94465f445c76.jpg)
+> [Local Asset](assets/2025-10-10_coal-indias-production-returns-to-contraction_img_chart2_94465f445c76.jpg)
 
 Stockpiles have fallen again with offtake again exceeding production. They now stand at approximately 92 million tons. This is 23 million tons (-20%) less than March’s record 115 million tons but is up year-on-year by 24 million tons (35%).
 
 ![Chart 3](assets/2025-10-10_coal-indias-production-returns-to-contraction_img_chart3_bb3a9cf5aa9b.jpg)
 
 > **Figure 3: Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-10_coal-indias-production-returns-to-contraction_img_chart3_bb3a9cf5aa9b.jpg)
+> [Local Asset](assets/2025-10-10_coal-indias-production-returns-to-contraction_img_chart3_bb3a9cf5aa9b.jpg)
 
 ---
 

@@ -27,7 +27,7 @@ June 26, 2024
 ![Στιγμιότυπο Οθόνης 2024 06 27 111713](assets/2024-06-27_supply-dynamics-capesize-c3-amp-c5-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a1274e7895d6.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 06 27 111713**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/h-forecasts-as-exports-improve/2qbdkd/419430605/h/qz76SrOKcXd0aU3jxZrAIBRRhj00xkWni11Zx3_5qYI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-27_supply-dynamics-capesize-c3-amp-c5-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a1274e7895d6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/h-forecasts-as-exports-improve/2qbdkd/419430605/h/qz76SrOKcXd0aU3jxZrAIBRRhj00xkWni11Zx3_5qYI) | [Local Asset](assets/2024-06-27_supply-dynamics-capesize-c3-amp-c5-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a1274e7895d6.png)
 
 In the last days of June, the dry bulk freight market showed signs of recovery in the Capesize segment, with hopes for a firmer Chinese economic performance reflected in the last closing of iron ore prices. Iron ore futures prices rebounded on Tuesday, buoyed by robust demand for the crucial steelmaking ingredient and renewed optimism regarding economic stimulus in China, the world's largest consumer.
 
@@ -36,7 +36,7 @@ The most actively traded September iron ore contract on China’s Dalian Commodi
 ![Στιγμιότυπο Οθόνης 2024 06 27 111732](assets/2024-06-27_supply-dynamics-capesize-c3-amp-c5-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_42bcab8e0df8.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 06 27 111732**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-27_supply-dynamics-capesize-c3-amp-c5-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_42bcab8e0df8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-06-27_supply-dynamics-capesize-c3-amp-c5-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_42bcab8e0df8.png)
 
 In the final days of June, the dry bulk freight market is showing signs of gaining stronger traction, particularly in the larger vessel size categories. Of note is a notable increase in the Capesize Brazil to N China rates, which is bolstering confidence in market stability.
 
@@ -48,7 +48,7 @@ In the final days of June, the dry bulk freight market is showing signs of gaini
 ![Στιγμιότυπο Οθόνης 2024 06 27 111747](assets/2024-06-27_supply-dynamics-capesize-c3-amp-c5-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_05e27fa0f19b.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 06 27 111747**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-27_supply-dynamics-capesize-c3-amp-c5-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_05e27fa0f19b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-06-27_supply-dynamics-capesize-c3-amp-c5-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_05e27fa0f19b.png)
 
 Towards the end of June, there has been a consistent decline in the number of ballast ships across all vessel size segments, with the exception of a noted increase in the Handysize segment in NOPAC.
 
@@ -60,7 +60,7 @@ Towards the end of June, there has been a consistent decline in the number of ba
 ![Στιγμιότυπο Οθόνης 2024 06 27 111804](assets/2024-06-27_supply-dynamics-capesize-c3-amp-c5-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ae5ad968b16b.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 06 27 111804**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-27_supply-dynamics-capesize-c3-amp-c5-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ae5ad968b16b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-06-27_supply-dynamics-capesize-c3-amp-c5-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ae5ad968b16b.png)
 
 In the final days of June, the outlook for dry tonne days in the Capesize segment has shown a surprising upward trend. Additionally, other vessel size categories are gradually recovering from the lows experienced six weeks ago.
 
@@ -72,7 +72,7 @@ In the final days of June, the outlook for dry tonne days in the Capesize segmen
 ![Στιγμιότυπο Οθόνης 2024 06 27 111817](assets/2024-06-27_supply-dynamics-capesize-c3-amp-c5-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f336e850a7be.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 06 27 111817**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-27_supply-dynamics-capesize-c3-amp-c5-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f336e850a7be.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-06-27_supply-dynamics-capesize-c3-amp-c5-routes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f336e850a7be.png)
 
 The upward trend observed in the first half of June, which peaked at the start of the third week, now appears to be ending the month with a downward correction.
 

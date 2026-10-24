@@ -36,7 +36,7 @@ Incomplete shipment data for**February**suggest a**year-on-year shortfall**, how
 
 > **Figure 1: Declining Domestic Thermal Coal Prices in China Have Helped**  
 > *Declining domestic thermal coal prices in China have helped narrow the spread with Australian and Indonesian FOB prices, two of the main suppliers to China (see chart, below).*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-26_chinas-coal-imports-in-2025_img_46df-image-0-1740500920119_a6a4688b189a.png)
+> [Local Asset](assets/2025-02-26_chinas-coal-imports-in-2025_img_46df-image-0-1740500920119_a6a4688b189a.png)
 
 Although no official figures for electricity generation in China have been released for January 2025, it could be expected that a comparatively mild winter would have reduced energy consumption, so maintaining producer inventories of thermal coal near the high levels recorded by producers in the Q4 2024.
 
@@ -49,7 +49,7 @@ Last year China Energy imported 40m tonnes of coal through its coal energy arm S
 ![273e Image 1 1740500938410](assets/2025-02-26_chinas-coal-imports-in-2025_img_273e-image-1-1740500938410_4a5b3bc71617.png)
 
 > **Figure 2: 273e Image 1 1740500938410**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-26_chinas-coal-imports-in-2025_img_273e-image-1-1740500938410_4a5b3bc71617.png)
+> [Local Asset](assets/2025-02-26_chinas-coal-imports-in-2025_img_273e-image-1-1740500938410_4a5b3bc71617.png)
 
 The spread between the Chinese domestic price of 5,500kc NAR thermal coal and the equivalent FOB for Australian coal has declined to $25-26/t from $34-35/t at the same point last year. Meanwhile, the corresponding spread with Indonesian coal has reduced from $16-17/t a year ago to $14-15/t at present.
 
@@ -64,7 +64,7 @@ The chart, below, puts worldsteel’s January estimate in seasonal context.
 ![1c43 Image 2 1740500956948](assets/2025-02-26_chinas-coal-imports-in-2025_img_1c43-image-2-1740500956948_5c295ff1b601.png)
 
 > **Figure 3: 1c43 Image 2 1740500956948**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-26_chinas-coal-imports-in-2025_img_1c43-image-2-1740500956948_5c295ff1b601.png)
+> [Local Asset](assets/2025-02-26_chinas-coal-imports-in-2025_img_1c43-image-2-1740500956948_5c295ff1b601.png)
 
 ### Mongolian Coal Export Expansion
 
@@ -79,7 +79,7 @@ Also under construction are rail links from the Nariin Sukhait and Tavan Tolgoi 
 ![E352 Image 3 1740500973587](assets/2025-02-26_chinas-coal-imports-in-2025_img_e352-image-3-1740500973587_30ab6d5523dc.png)
 
 > **Figure 4: E352 Image 3 1740500973587**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-26_chinas-coal-imports-in-2025_img_e352-image-3-1740500973587_30ab6d5523dc.png)
+> [Local Asset](assets/2025-02-26_chinas-coal-imports-in-2025_img_e352-image-3-1740500973587_30ab6d5523dc.png)
 
 ---
 

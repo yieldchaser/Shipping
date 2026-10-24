@@ -43,7 +43,7 @@ Corporations aren't at the mercy of globalisation. They drive it. Corporations h
 ![243](assets/2022-07-19_5-rules-to-manage-money-in-an-unmanageable-world_img_243_523fa61fa1a6.jpg)
 
 > **Figure 1: 243**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-19_5-rules-to-manage-money-in-an-unmanageable-world_img_243_523fa61fa1a6.jpg)
+> [Local Asset](assets/2022-07-19_5-rules-to-manage-money-in-an-unmanageable-world_img_243_523fa61fa1a6.jpg)
 
 **Unmanageable doesn't mean not navigable. A CEO can do for shareholders much more than a Prime Minister, President of even a Dictator can do for their constituents. The system is called 'capitalism'. That we struggle as citizens does not mean we can't still thrive as shareholders.**
 
@@ -54,14 +54,14 @@ Yes, global inflation is an issue. And yes, withdrawal of quantitative easing is
 ![$1.jpg](assets/2022-07-19_5-rules-to-manage-money-in-an-unmanageable-world_img_241jpg_deb70ba18f79.png)
 
 > **Figure 2: $1.jpg**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-19_5-rules-to-manage-money-in-an-unmanageable-world_img_241jpg_deb70ba18f79.png)
+> [Local Asset](assets/2022-07-19_5-rules-to-manage-money-in-an-unmanageable-world_img_241jpg_deb70ba18f79.png)
 
 Below a certain point, it's not QE that will be driving equity returns, but earnings. Lack of QE will simply mean less excess valuations, less of a stock market impetus.
 
 ![$2.jpg](assets/2022-07-19_5-rules-to-manage-money-in-an-unmanageable-world_img_242jpg_3c35348b9601.png)
 
 > **Figure 3: $2.jpg**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-19_5-rules-to-manage-money-in-an-unmanageable-world_img_242jpg_3c35348b9601.png)
+> [Local Asset](assets/2022-07-19_5-rules-to-manage-money-in-an-unmanageable-world_img_242jpg_3c35348b9601.png)
 
 Lack of any central paradigm, someone to underwrite risk, will mean lower portfolio resilience to shocks. But it does not mean the abandonment of time-honoured investing principles. If anything, it means a return to first principles.
 

@@ -29,12 +29,12 @@ Let’s start by looking at how dry bulk freight rates have developed in the las
 ![Ch1](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch1_43f4a4edd0ac.jpg)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch1_43f4a4edd0ac.jpg)
+> [Local Asset](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch1_43f4a4edd0ac.jpg)
 
 ![Ch1](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch1_fff339dcef2d.jpg)
 
 > **Figure 2: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch1_fff339dcef2d.jpg)
+> [Local Asset](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch1_fff339dcef2d.jpg)
 
 ### Freight Rates Have Been Trending Upwards Since Q1 2016
 
@@ -49,17 +49,17 @@ Since mid-October we have seen a steep correction in spot rates and forward valu
 ![Ch2 (2)](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch228229_e8091adf1c00.png)
 
 > **Figure 3: Ch2 (2)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch228229_e8091adf1c00.png)
+> [Local Asset](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch228229_e8091adf1c00.png)
 
 ![Ch2 (3)](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch228329_0d9a750f5aef.png)
 
 > **Figure 4: Ch2 (3)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch228329_0d9a750f5aef.png)
+> [Local Asset](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch228329_0d9a750f5aef.png)
 
 ![Ch2 (4)](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch228429_92c95358a7bf.png)
 
 > **Figure 5: Ch2 (4)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch228429_92c95358a7bf.png)
+> [Local Asset](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch228429_92c95358a7bf.png)
 
 ### What Are the Underlying Reasons for the Steep Correction the Last 3 Weeks?
 
@@ -86,17 +86,17 @@ However, except for Vale there are not many mine expansions in the pipeline eith
 ![Ch3 (2)](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch328229_7da3985b4b52.png)
 
 > **Figure 6: Ch3 (2)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch328229_7da3985b4b52.png)
+> [Local Asset](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch328229_7da3985b4b52.png)
 
 ![Ch3 (3)](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch328329_45f94b2d443a.png)
 
 > **Figure 7: Ch3 (3)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch328329_45f94b2d443a.png)
+> [Local Asset](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch328329_45f94b2d443a.png)
 
 ![Ch3 (3)](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch328329_45f94b2d443a.png)
 
 > **Figure 8: Ch3 (3)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch328329_45f94b2d443a.png)
+> [Local Asset](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch328329_45f94b2d443a.png)
 
 ### 2) a Sharp Correction in Commodity Prices
 
@@ -111,17 +111,17 @@ Is there any reason for coal prices to increase from here? We think so. While th
 ![Ch4 (2)](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch428229_bae9cc800dcd.png)
 
 > **Figure 9: Ch4 (2)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch428229_bae9cc800dcd.png)
+> [Local Asset](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch428229_bae9cc800dcd.png)
 
 ![Ch4 (3)](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch428329_c4f0f1d367e7.png)
 
 > **Figure 10: Ch4 (3)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch428329_c4f0f1d367e7.png)
+> [Local Asset](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch428329_c4f0f1d367e7.png)
 
 ![Ch4 (3)](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch428329_c4f0f1d367e7.png)
 
 > **Figure 11: Ch4 (3)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch428329_c4f0f1d367e7.png)
+> [Local Asset](assets/2021-11-10_drybulk-freight-rates-have-been-hammered-down-lately-whats-going-on_img_ch428329_c4f0f1d367e7.png)
 
 ### 3) a Rapid Decrease in Congestion
 

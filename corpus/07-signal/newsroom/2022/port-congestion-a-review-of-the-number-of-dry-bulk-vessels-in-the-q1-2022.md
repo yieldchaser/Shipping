@@ -32,7 +32,7 @@ The first quarter of the year comes with an overall upward trend in the number o
 
 > **Figure 1: Image 1 | Source: The Signal Ocean Platform, Port Congestion, Worldwide Ports, 3 Days Moving Average, Years 2022-2021-2020**  
 > *Image 1 | Source: The Signal Ocean Platform, Port Congestion, Worldwide Ports, 3 days moving average, Years 2022-2021-2020*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/port-congestion-a-review-of-the-number-of-dry-bulk-vessels-in-the-q1-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e3c436030ddaa0e9abe_62601b2a63d7888da63e39aa_1%20congestions%20all.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/port-congestion-a-review-of-the-number-of-dry-bulk-vessels-in-the-q1-2022) | [Local Asset](../../images/66b51e3c436030ddaa0e9abe_62601b2a63d7888da63e39aa_1%20congestions%20all.avif)
 
 For the first quarter of this year, the average number of vessels in waiting and operating status at worldwide ports fetched almost 4700 vessels, 150 vessels more than the average figure for the first three months of the last year. The highest level of this year was on March 23 with 4867 vessels, while last year we saw figures nearing 5000 vessels during October. As the escalating levels of the current year continue it is not an unlikely scenario that the number of vessels surpasses the record levels of 2021.
 
@@ -49,7 +49,7 @@ Panamax, Supramax, and Handysize appear with remarkable levels compared to the C
 
 > **Figure 2: Image 2 Capesize | Source: The Signal Ocean Platform Port Congestion, Worldwide Ports, 3 Days Moving Average, Years 2022-2021-2020**  
 > *Image 2 Capesize | Source: The Signal Ocean Platform Port Congestion, Worldwide Ports, 3 days moving average, Years 2022-2021-2020*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/port-congestion-a-review-of-the-number-of-dry-bulk-vessels-in-the-q1-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e3c436030ddaa0e9b39_62601c24f00cd12e3c8f2b56_2%20congestions%20capesize.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/port-congestion-a-review-of-the-number-of-dry-bulk-vessels-in-the-q1-2022) | [Local Asset](../../images/66b51e3c436030ddaa0e9b39_62601c24f00cd12e3c8f2b56_2%20congestions%20capesize.avif)
 
 
 ##### Panamax ~ 1000 Vessels
@@ -59,7 +59,7 @@ Panamax, Supramax, and Handysize appear with remarkable levels compared to the C
 
 > **Figure 3: Image 3 Panamax | Source: The Signal Ocean Platform Port Congestion, Worldwide Ports, 3 Days Moving Average, Years 2022-2021-2020**  
 > *Image 3 Panamax | Source: The Signal Ocean Platform Port Congestion, Worldwide Ports, 3 days moving average, Years 2022-2021-2020*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/port-congestion-a-review-of-the-number-of-dry-bulk-vessels-in-the-q1-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e3c436030ddaa0e9ab8_62601ca8432ff1f84d6c1af5_3%20congestions%20panamax.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/port-congestion-a-review-of-the-number-of-dry-bulk-vessels-in-the-q1-2022) | [Local Asset](../../images/66b51e3c436030ddaa0e9ab8_62601ca8432ff1f84d6c1af5_3%20congestions%20panamax.avif)
 
 
 ##### Supramax ~ 1500 Vessels
@@ -69,7 +69,7 @@ Panamax, Supramax, and Handysize appear with remarkable levels compared to the C
 
 > **Figure 4: Image 4 Supramax | Source: The Signal Ocean Platform Port Congestion, Worldwide Ports, 3 Days Moving Average, Years 2022-2021-2020**  
 > *Image 4 Supramax | Source: The Signal Ocean Platform Port Congestion, Worldwide Ports, 3 days moving average, Years 2022-2021-2020*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/port-congestion-a-review-of-the-number-of-dry-bulk-vessels-in-the-q1-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e3c436030ddaa0e9b3c_62601ccd1ad4afafe84be92e_4%20congestions%20supramax.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/port-congestion-a-review-of-the-number-of-dry-bulk-vessels-in-the-q1-2022) | [Local Asset](../../images/66b51e3c436030ddaa0e9b3c_62601ccd1ad4afafe84be92e_4%20congestions%20supramax.avif)
 
 
 ##### Handysize ~ 1300 Vessels
@@ -79,7 +79,7 @@ Panamax, Supramax, and Handysize appear with remarkable levels compared to the C
 
 > **Figure 5: Image 5 Handysize | Source: The Signal Ocean Platform Port Congestion, Worldwide Ports, 3 Days Moving Average, Years 2022-2021-2020**  
 > *Image 5 Handysize | Source: The Signal Ocean Platform Port Congestion, Worldwide Ports, 3 days moving average, Years 2022-2021-2020*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/port-congestion-a-review-of-the-number-of-dry-bulk-vessels-in-the-q1-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e3c436030ddaa0e9b8e_62601d8084756c9b23a7b35c_5%20congestions%20handysize.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/port-congestion-a-review-of-the-number-of-dry-bulk-vessels-in-the-q1-2022) | [Local Asset](../../images/66b51e3c436030ddaa0e9b8e_62601d8084756c9b23a7b35c_5%20congestions%20handysize.avif)
 
 It is interesting to examine the breakdown of volume per port and distinguish today’s top ports' activity (April 20), where we will see that Chinese ports come in the first ranking along with Brazil and Australia. Tianjin, Santos, Ningbo, and Port Hedland appear to be the hotspots for vessel congestion. Overall, in the ranking position, we clearly see that Chinese ports dominate in the port congestion issue, where the [zero-COVID](https://www.theguardian.com/world/2022/apr/15/china-zero-covid-policy-global-supply-chain-huawei-executive) policy has created severe port supply disruptions for the consumed and raw material commodities.
 
@@ -88,7 +88,7 @@ It is interesting to examine the breakdown of volume per port and distinguish to
 
 > **Figure 6: Image 6 |source: The Signal Ocean Platform**  
 > *Image 6 |Source: The Signal Ocean Platform. Today’s Activity, Top Ports, Waiting and Operating Status*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/port-congestion-a-review-of-the-number-of-dry-bulk-vessels-in-the-q1-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e3c436030ddaa0e9b36_62601dab84756c6707a7b454_6%20congestions%20port%202022.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/port-congestion-a-review-of-the-number-of-dry-bulk-vessels-in-the-q1-2022) | [Local Asset](../../images/66b51e3c436030ddaa0e9b36_62601dab84756c6707a7b454_6%20congestions%20port%202022.avif)
 
 
 ## Summary of Chinese Dry Bulk Ship Congestions - Increasing
@@ -100,7 +100,7 @@ With an overall eye on the latest status of Chinese dry bulk ship congestions, w
 
 > **Figure 7: Graph 1 | Source: The Signal Ocean Data, Summary of Chinese Dry Bulk Ship Congestions, per Vessel Class, Years 2021-2022**  
 > *Graph 1 | Source: The Signal Ocean Data, Summary of Chinese Dry Bulk Ship Congestions, per Vessel Class, Years 2021-2022*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/port-congestion-a-review-of-the-number-of-dry-bulk-vessels-in-the-q1-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e3c436030ddaa0e9b33_62601df9fc20f505bda7c5f5_china%20vessel%20congestion%20per%20vessel%20class.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/port-congestion-a-review-of-the-number-of-dry-bulk-vessels-in-the-q1-2022) | [Local Asset](../../images/66b51e3c436030ddaa0e9b33_62601df9fc20f505bda7c5f5_china%20vessel%20congestion%20per%20vessel%20class.avif)
 
 The situation is extremely tight in [Shanghai](https://www.piie.com/blogs/realtime-economic-issues-watch/zero-covid-shanghai-comes-high-social-and-economic-costs), where there has been a complete lockdown for half a month at high social and economic costs. We can see below (image 7) the increasing evolution in the port congestion in Shanghai, with a significant spike in the number of vessels during the days of April and far above the yearly levels of 2020 and 2021.
 
@@ -109,7 +109,7 @@ The situation is extremely tight in [Shanghai](https://www.piie.com/blogs/realti
 
 > **Figure 8: Image 7 | Source: The Signal Ocean Platform, Port Congestion, Shanghai, 3 Days Moving Average, Years 2022-2021-2020**  
 > *Image 7 | Source: The Signal Ocean Platform, Port Congestion, Shanghai, 3 days moving average, Years 2022-2021-2020*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/port-congestion-a-review-of-the-number-of-dry-bulk-vessels-in-the-q1-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e3c436030ddaa0e9abb_62601e56cd66c201ab5eb2f9_congestions%20in%20shanghai%202022%20april.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/port-congestion-a-review-of-the-number-of-dry-bulk-vessels-in-the-q1-2022) | [Local Asset](../../images/66b51e3c436030ddaa0e9abb_62601e56cd66c201ab5eb2f9_congestions%20in%20shanghai%202022%20april.avif)
 
 The sharp increase in the overall number of dry bulk ships congested at Chinese ports during the third week of April is stemming mainly from the Panamax segment versus to Handysize and Supramax segments one week ago. In the Capesize segment, the number of ships in congestion increased to 140 vessels, 9 vessels more than the previous week, while in the Panamax, there is a significant increase to more than 290 ships in congestion, a 13% increase since the previous week's ending. In the Supramax segment, the number of ships in congestion kept the robust levels of the previous week's around 278 vessels, a 10% increase since the ending of Week 14. Lastly, for the Handysize, the number of ships in congestion continued at almost the same levels as the previous week, with 159 vessels, a 7.4% increase since the ending of Week 13.
 

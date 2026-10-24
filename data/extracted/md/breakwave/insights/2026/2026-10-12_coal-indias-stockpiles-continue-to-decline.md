@@ -27,21 +27,21 @@ As we discussed in Commodore Research's most recent Weekly Executive Report, Coa
 ![Chart 1](assets/2026-10-12_coal-indias-stockpiles-continue-to-decline_img_chart1_89848183b55e.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///c:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-12_coal-indias-stockpiles-continue-to-decline_img_chart1_89848183b55e.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-12_coal-indias-stockpiles-continue-to-decline_img_chart1_89848183b55e.jpg)
 
 Offtake (the amount sent to customers) totaled 61.2 million tons. This is up month-on-month by 600,000 tons (1%) and up year-on-year by 7.6 million tons (14%). Offtake has now increased on a year-on-year basis for five straight months. Previously, it had contracted on a year-on-year basis in seven of the prior eight months.
 
 ![Chart 2](assets/2026-10-12_coal-indias-stockpiles-continue-to-decline_img_chart2_ce9b174e4c0d.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///c:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-12_coal-indias-stockpiles-continue-to-decline_img_chart2_ce9b174e4c0d.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-12_coal-indias-stockpiles-continue-to-decline_img_chart2_ce9b174e4c0d.jpg)
 
 With offtake again coming in above output, India’s stockpiles have fallen further. They now stand at approximately 88 million tons. This is down month-on-month by 8 million tons (-8%) and down year-on-year by 4 million tons (-4%). Prior to the last six months, stockpiles had increased for five straight months. Stockpiles are now at their lowest level since January 2025.
 
 ![Chart 3](assets/2026-10-12_coal-indias-stockpiles-continue-to-decline_img_chart3_a022f8874b58.jpg)
 
 > **Figure 3: Chart 3**  
-> [Local Asset](file:///c:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-12_coal-indias-stockpiles-continue-to-decline_img_chart3_a022f8874b58.jpg)
+> [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-12_coal-indias-stockpiles-continue-to-decline_img_chart3_a022f8874b58.jpg)
 
 ---
 

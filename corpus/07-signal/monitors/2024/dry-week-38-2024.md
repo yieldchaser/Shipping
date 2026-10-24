@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/dry/dynamic/drybulkflows-Downloadable**  
 > *https://app.signalocean.com/dry/dynamic/drybulkflows-downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-38-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66eac67271eae28e9451ee17_66eac645345abd59ec88dbf2_Untitled%20(2).avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-38-2024) | [Local Asset](../../images/66eac67271eae28e9451ee17_66eac645345abd59ec88dbf2_Untitled%20(2).avif)
 
 The special focus this week is on the monthly quantity of soybeans and corn exported to China, comparing the current year’s shipments to the growth trends seen in the previous two years. Brazil continues to surpass the U.S. in terms of monthly shipments sent to China, maintaining a dominant position. However, both countries experienced a significant slowdown in the summer months, raising concerns about the overall health of China’s economy and its future demand for grains. This slowdown reflects broader economic uncertainties within China, where the country’s grain reserves are swelling, and demand for key imports is decreasing, having a notable impact on global agricultural markets.
 

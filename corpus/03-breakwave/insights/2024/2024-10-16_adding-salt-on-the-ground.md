@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-10-16_adding-salt-on-the-gr
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2024-10-16_adding-salt-on-the-ground_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-16_adding-salt-on-the-ground_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](assets/2024-10-16_adding-salt-on-the-ground_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 Several bright spots are appearing on the horizon as global economies advance with their new climate goals and transitions. Sodium-ion batteries (NIBs) have been hitting the headlines for quite some time now as attention switches to new battery technologies offering better alternatives to lithium-ion batteries. NIBs are increasingly being considered a transformative phenomenon for the automotive battery industry. They are seen as a remedy to high lithium prices, sustainability and supply concerns. The International Energy Agency (IEA) projects that sodium-ion batteries will account for around 10% of annual energy storage additions globally by 2030 and will continue to grow significantly beyond that. According to the IEA, China is at the forefront of sodium-ion battery development, hosting over 90% of the announced manufacturing capacity. With the world’s production house (China) ramping up manufacturing capacity, sodium-ion batteries should soon become more widespread, thus boosting demand for the raw material – salt.
 
@@ -32,7 +32,7 @@ Until recently, energy storage systems and light two-wheeled vehicles were the p
 ![Στιγμιότυπο Οθόνης 2024 10 16 113953](assets/2024-10-16_adding-salt-on-the-ground_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3d09eae54484.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 16 113953**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-16_adding-salt-on-the-ground_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3d09eae54484.png)
+> [Local Asset](assets/2024-10-16_adding-salt-on-the-ground_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3d09eae54484.png)
 
 According to the U.S. Geological Survey, global salt production stood at 274 mln mt in 2023, up 4% y-o-y. At a time when the overall surge in production in 2023 can be attributed to higher-than-normal heat waves, a general opinion prevails that the number of months for salt production has been reduced to six months from nine months previously due to the changing climate. China (53 mln mt) was the major producer of salt, followed by the US (42 mln mt) and India (30 mln mt). However, of all the major salt-producing countries, only China and Russia saw an annual production decline.
 
@@ -43,7 +43,7 @@ According to AXSMarine data, last year, Australia was the major seaborne salt ex
 ![Στιγμιότυπο Οθόνης 2024 10 16 113920](assets/2024-10-16_adding-salt-on-the-ground_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_38ebb0920c40.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 10 16 113920**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-16_adding-salt-on-the-ground_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_38ebb0920c40.png)
+> [Local Asset](assets/2024-10-16_adding-salt-on-the-ground_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_38ebb0920c40.png)
 
 Although Asia is a major salt-producing region in the world, accounting for overall 53% of global exports in 2023, it is also the globe’s largest consuming region. China, Japan, South Korea, and Taiwan are the key markets in Asia. AXSMarine data suggest that Australian salt shipments have been steady to the traditional markets of Japan, China, Indonesia, and Taiwan. Meanwhile, salt shipments out of Chile mainly head to the US and Brazil. Japan mainly procures high-quality salt, making it the preferred destination for Australian and Mexican salt.
 

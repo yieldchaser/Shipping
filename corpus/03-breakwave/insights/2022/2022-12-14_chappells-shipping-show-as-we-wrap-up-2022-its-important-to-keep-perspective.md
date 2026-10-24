@@ -30,4 +30,4 @@ As it relates to the stocks, the group is down 5-17% from year-to-date highs (wi
 ![1 (2)](assets/2022-12-14_chappells-shipping-show-as-we-wrap-up-2022-its-important-to-keep-perspective_img_128229_79f6fb5c78a2.png)
 
 > **Figure 1: 1 (2)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-14_chappells-shipping-show-as-we-wrap-up-2022-its-important-to-keep-perspective_img_128229_79f6fb5c78a2.png)
+> [Local Asset](assets/2022-12-14_chappells-shipping-show-as-we-wrap-up-2022-its-important-to-keep-perspective_img_128229_79f6fb5c78a2.png)

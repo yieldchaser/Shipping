@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-04-11_breakwave-bi-weekly-d
 ![Dbreporttop](assets/2023-04-11_breakwave-bi-weekly-dry-bulk-report-april-11-2023_img_dbreporttop_2f27512f2bfe.png)
 
 > **Figure 1: Dbreporttop**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/publications) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-11_breakwave-bi-weekly-dry-bulk-report-april-11-2023_img_dbreporttop_2f27512f2bfe.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/publications) | [Local Asset](assets/2023-04-11_breakwave-bi-weekly-dry-bulk-report-april-11-2023_img_dbreporttop_2f27512f2bfe.png)
 
 ·**Entering Q2 on a high note –**With spot Capesize rates some 6,000 above the level at the same time last year, the outlook seems promising. The futures market senses such potential and the expectation for the rest of the year, based on freight futures, calls for Capesize rates to average above 20,000 for the next three quarters. We also share such optimism, while we expect spot rates to even touch new 52-week highs in the process. However, for the very near-term, we remain neutral, and we continue to believe a range-bound market is in the cards: The potential development of a cyclone in West Coast Australia combined with relatively amble vessel supply in the Atlantic points to limited upside, while at the same time demand from both Brazil and West Africa for iron ore cargoes should prevent any significant deterioration in the spot market. More importantly, the sub-Capesize segments are also quite active, pointing to an overall healthy market for dry bulk shipping. Structurally, the market should remain strong aided by limited supply growth and healthy demand from China, something that points to a longer-term upcycle underneath the ordinary short-term gyrations that shipping usually provides. Investors should look at dips as an opportunity to potentially add to positions, although the broader macro picture ex-China is always a reason for concern, as any spillover effects into China especially as it relates to finished goods exports, could have a negative impact on shipping demand.
 
@@ -35,9 +35,9 @@ source_file: "corpus/03-breakwave/insights/2023/2023-04-11_breakwave-bi-weekly-d
 ![Dbreportchart](assets/2023-04-11_breakwave-bi-weekly-dry-bulk-report-april-11-2023_img_dbreportchart_d8d12e6d891c.png)
 
 > **Figure 2: Dbreportchart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-11_breakwave-bi-weekly-dry-bulk-report-april-11-2023_img_dbreportchart_d8d12e6d891c.png)
+> [Local Asset](assets/2023-04-11_breakwave-bi-weekly-dry-bulk-report-april-11-2023_img_dbreportchart_d8d12e6d891c.png)
 
 ![Dbreportbottom](assets/2023-04-11_breakwave-bi-weekly-dry-bulk-report-april-11-2023_img_dbreportbottom_98a82f578f2e.png)
 
 > **Figure 3: Dbreportbottom**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-11_breakwave-bi-weekly-dry-bulk-report-april-11-2023_img_dbreportbottom_98a82f578f2e.png)
+> [Local Asset](assets/2023-04-11_breakwave-bi-weekly-dry-bulk-report-april-11-2023_img_dbreportbottom_98a82f578f2e.png)

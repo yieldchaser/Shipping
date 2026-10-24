@@ -39,7 +39,7 @@ The result of the growing age imbalance is that the VLCC market faces a prolonge
 ![Στιγμιότυπο Οθόνης 2025 05 08 100259](assets/2025-05-08_how-an-ageing-vlcc-fleet-is-reshaping-market-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c69743c6bd0.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 05 08 100259**  
-> **Interactive Data & Source:** [Tankersinternational](https://tankersinternational.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-08_how-an-ageing-vlcc-fleet-is-reshaping-market-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c69743c6bd0.png)
+> **Interactive Data & Source:** [Tankersinternational](https://tankersinternational.com/) | [Local Asset](assets/2025-05-08_how-an-ageing-vlcc-fleet-is-reshaping-market-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c69743c6bd0.png)
 
 Data Source:[Tankers International](https://tankersinternational.com/)
 

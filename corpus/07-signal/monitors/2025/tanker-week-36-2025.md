@@ -37,7 +37,7 @@ Terminal performance underlines the recovery. Bonny posted 8.07 million barrels 
 
 > **Figure 1: Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-36-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68bad5e0f8c8755f9d38d7a7_8bdc3bac.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-36-2025) | [Local Asset](../../images/68bad5e0f8c8755f9d38d7a7_8bdc3bac.png)
 
 India has proven to be a significant market. Nigerian exports to India reached a high of over 11 million barrels in March, then decreased to 7 million barrels in August, which is still more than double the levels seen in the same period last year.
 
@@ -45,7 +45,7 @@ India has proven to be a significant market. Nigerian exports to India reached a
 ![68bad5e0f8c8755f9d38d7aa 24f43617](../../images/68bad5e0f8c8755f9d38d7aa_24f43617.png)
 
 > **Figure 2: 68bad5e0f8c8755f9d38d7aa 24f43617**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-36-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68bad5e0f8c8755f9d38d7aa_24f43617.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-36-2025) | [Local Asset](../../images/68bad5e0f8c8755f9d38d7aa_24f43617.png)
 
 One factor behind the shift has been lower buying activity from Indian refiners. Since late Q1,. Russian crude imports by India saw a 17% decrease in April and an 8% decrease in May compared to the same months in 2024. This significant drop appears to be ongoing, with August's figures nearly matching those of the previous year.
 
@@ -53,7 +53,7 @@ One factor behind the shift has been lower buying activity from Indian refiners.
 ![68bad5e0f8c8755f9d38d7b0 D071283e](../../images/68bad5e0f8c8755f9d38d7b0_d071283e.png)
 
 > **Figure 3: 68bad5e0f8c8755f9d38d7b0 D071283e**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-36-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68bad5e0f8c8755f9d38d7b0_d071283e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-36-2025) | [Local Asset](../../images/68bad5e0f8c8755f9d38d7b0_d071283e.png)
 
 Russia's refining capacity has been significantly impacted by Ukraine's drone strikes, with approximately 17% disabled across facilities in Syzran, Volgograd, Saratov, Ryazan, and Krasnodar, raising concerns about supply reliability. Further uncertainty stems from U.S. warnings regarding restrictions on India's purchases of Russian oil, which could strengthen Nigeria's position as a more secure alternative supplier.
 
@@ -64,7 +64,7 @@ This situation is already evident in the growth of oil tonne-days. Reduced Russi
 
 > **Figure 4: Https://app.signalocean.com/tanker/dynamic/timeseriestanker**  
 > *https://app.signalocean.com/tanker/dynamic/timeseries_tanker*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-36-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68bad5e0f8c8755f9d38d7ad_c3ec9a7f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-36-2025) | [Local Asset](../../images/68bad5e0f8c8755f9d38d7ad_c3ec9a7f.png)
 
 For the latest updates and insights, make sure to visit the [Signal Ocean Newsroom](https://www.thesignalgroup.com/newsroom) website page. Click [here to request a demo](https://www.thesignalgroup.com/request-demo?utm\_source=oceanhome&utm\_medium=website&utm\_campaign=demo). Read [last week's tanker monitor here.](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-30-2025)
 

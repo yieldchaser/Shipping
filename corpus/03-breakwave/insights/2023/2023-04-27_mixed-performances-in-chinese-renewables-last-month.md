@@ -26,25 +26,25 @@ As we discussed in Commodore's most recent Weekly Dry Bulk Report, China’s hyd
 ![Chart 1 (79)](assets/2023-04-27_mixed-performances-in-chinese-renewables-last-month_img_chart1287929_ea0abf1d1e11.jpg)
 
 > **Figure 1: Chart 1 (79)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-27_mixed-performances-in-chinese-renewables-last-month_img_chart1287929_ea0abf1d1e11.jpg)
+> [Local Asset](assets/2023-04-27_mixed-performances-in-chinese-renewables-last-month_img_chart1287929_ea0abf1d1e11.jpg)
 
 Wind power production totaled 73.5 billion kilowatt hours last month. This has marked an increase of 6.6 billion kilowatt hours (10%) from February and is up year-on-year by 6.2 billion kilowatt hours (9%).
 
 ![Chart 2 (67)](assets/2023-04-27_mixed-performances-in-chinese-renewables-last-month_img_chart2286729_382e7a8861d0.jpg)
 
 > **Figure 2: Chart 2 (67)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-27_mixed-performances-in-chinese-renewables-last-month_img_chart2286729_382e7a8861d0.jpg)
+> [Local Asset](assets/2023-04-27_mixed-performances-in-chinese-renewables-last-month_img_chart2286729_382e7a8861d0.jpg)
 
 Nuclear power production totaled 33.6 billion kilowatt hours. This has marked an increase of 200 million kilowatt hours (1%) from February but is down year-on-year by 1.4 billion kilowatt hours (-4%).
 
 ![Chart 3 (47)](assets/2023-04-27_mixed-performances-in-chinese-renewables-last-month_img_chart3284729_5932ece7fc0f.jpg)
 
 > **Figure 3: Chart 3 (47)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-27_mixed-performances-in-chinese-renewables-last-month_img_chart3284729_5932ece7fc0f.jpg)
+> [Local Asset](assets/2023-04-27_mixed-performances-in-chinese-renewables-last-month_img_chart3284729_5932ece7fc0f.jpg)
 
 Solar power production totaled 24.3 billion kilowatt hours. This has marked an increase of 5.8 billion kilowatt hours (31%) from February and is up year-on-year by 5.7 billion kilowatt hours (31%).
 
 ![Chart 4 (20)](assets/2023-04-27_mixed-performances-in-chinese-renewables-last-month_img_chart4282029_c171cc9c703b.jpg)
 
 > **Figure 4: Chart 4 (20)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-27_mixed-performances-in-chinese-renewables-last-month_img_chart4282029_c171cc9c703b.jpg)
+> [Local Asset](assets/2023-04-27_mixed-performances-in-chinese-renewables-last-month_img_chart4282029_c171cc9c703b.jpg)

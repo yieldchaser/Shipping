@@ -43,7 +43,7 @@ This is the backdrop, but reliance on such insight needs to be measured against 
 ![Στιγμιότυπο Οθόνης 2024 09 09 134544](assets/2024-09-09_fzo0z0yzpgnomzr9pvbgqom50dmkli_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ebe51006654a.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 09 134544**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-09_fzo0z0yzpgnomzr9pvbgqom50dmkli_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ebe51006654a.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-09-09_fzo0z0yzpgnomzr9pvbgqom50dmkli_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ebe51006654a.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

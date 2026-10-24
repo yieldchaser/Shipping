@@ -65,7 +65,7 @@ The recent strong showing for the seaborne zinc trade suggests that the metal’
 ![Market Chart 1](assets/2024-11-22_weakness-across-all-dry-bulk-vessel-segments_img_unnamed28129_f7d140d3aa71.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-22_weakness-across-all-dry-bulk-vessel-segments_img_unnamed28129_f7d140d3aa71.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-11-22_weakness-across-all-dry-bulk-vessel-segments_img_unnamed28129_f7d140d3aa71.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

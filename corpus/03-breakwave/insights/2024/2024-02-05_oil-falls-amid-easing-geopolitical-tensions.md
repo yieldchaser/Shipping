@@ -27,7 +27,7 @@ Easing geopolitical risks weighed on energy prices last week, compounded by fadi
 ![Screenshot 2024 02 05 16.42.45](assets/2024-02-05_oil-falls-amid-easing-geopolitical-tensions_img_screenshot2024-02-05164245_0793d994ba6d.png)
 
 > **Figure 1: Screenshot 2024 02 05 16.42.45**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-05_oil-falls-amid-easing-geopolitical-tensions_img_screenshot2024-02-05164245_0793d994ba6d.png)
+> [Local Asset](assets/2024-02-05_oil-falls-amid-easing-geopolitical-tensions_img_screenshot2024-02-05164245_0793d994ba6d.png)
 
 **Crude oil**prices slumped last week as early negotiations to halt the bombardment of Gaza and release hostages gained traction. The four-month Israel-Hamas conflict has raised concerns that it would spread across the Middle East and disrupt oil supplies. The Iranian-backed Houthi rebels have been attacking merchant ships in the Red Sea. The US has bombed targets in Yemen as part of efforts to allow ships to traverse the Red Sea without disruption. OPEC’s Joint Monitoring Ministerial Committee signalled it will stick with oil supply cutbacks this quarter to avert a surplus. The group plans to decide in early March whether to extend curbs into the second quarter. Fuel markets, which have most impacted by Middle East tensions could be under further pressure. The large Lukoil facility in Volgograd is offline following a drone attack. It processes more than 300kb/d of crude oil.
 

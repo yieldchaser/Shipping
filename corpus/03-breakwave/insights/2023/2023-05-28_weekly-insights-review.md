@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-05-28_weekly-insights-revie
 ![Market Chart 1](assets/2023-05-28_weekly-insights-review_img_unnamed283329_6a6f0a2081bd.jpg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/5/22/shipping-decarbonization-weekly-insights) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-28_weekly-insights-review_img_unnamed283329_6a6f0a2081bd.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/5/22/shipping-decarbonization-weekly-insights) | [Local Asset](assets/2023-05-28_weekly-insights-review_img_unnamed283329_6a6f0a2081bd.jpg)
 
 ## Shipping Decarbonization Weekly Insights
 
@@ -38,7 +38,7 @@ One of the world’s biggest emitters of greenhouse gases, India aims to cut emi
 ![Market Chart 2](assets/2023-05-28_weekly-insights-review_img_unnamed283529_198d84321b35.jpg)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/5/23/brs-dry-bulk-weekly-newsletter) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-28_weekly-insights-review_img_unnamed283529_198d84321b35.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/5/23/brs-dry-bulk-weekly-newsletter) | [Local Asset](assets/2023-05-28_weekly-insights-review_img_unnamed283529_198d84321b35.jpg)
 
 ## Brs Dry Bulk Weekly Newsletter
 
@@ -50,7 +50,7 @@ In our earlier issue dated 13th April, we dissected several talking points that 
 ![Market Chart 3](assets/2023-05-28_weekly-insights-review_img_unnamed283629_7fcb40a3540d.jpg)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/5/23/mazars-comment-all-quiet-on-the-western-front-perhaps-too-quiet) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-28_weekly-insights-review_img_unnamed283629_7fcb40a3540d.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/5/23/mazars-comment-all-quiet-on-the-western-front-perhaps-too-quiet) | [Local Asset](assets/2023-05-28_weekly-insights-review_img_unnamed283629_7fcb40a3540d.jpg)
 
 ## Mazars Comment: All Quiet on the Western Front. Perhaps Too Quiet.
 
@@ -67,7 +67,7 @@ Last week saw some positive momentum in markets. This was because of two reasons
 ![Db+report+top (2)](assets/2023-05-28_weekly-insights-review_img_db2breport2btop28229_be62f3bdf225.png)
 
 > **Figure 4: Db+report+top (2)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/5/22/doric-weekly-market-insight) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-28_weekly-insights-review_img_db2breport2btop28229_be62f3bdf225.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/5/22/doric-weekly-market-insight) | [Local Asset](assets/2023-05-28_weekly-insights-review_img_db2breport2btop28229_be62f3bdf225.png)
 
 ## Doric Weekly Market Insight
 
@@ -79,7 +79,7 @@ In spite of the cheerful tone in the soybean market, the main carriers of grains
 ![Market Chart 5](assets/2023-05-28_weekly-insights-review_img_unnamed283729_4d8352c9f6ae.jpg)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/5/24/ongoing-growth-in-brazilian-iron-ore-exports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-28_weekly-insights-review_img_unnamed283729_4d8352c9f6ae.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/5/24/ongoing-growth-in-brazilian-iron-ore-exports) | [Local Asset](assets/2023-05-28_weekly-insights-review_img_unnamed283729_4d8352c9f6ae.jpg)
 
 ## Ongoing Growth in Brazilian Iron Ore Exports
 
@@ -87,7 +87,7 @@ In spite of the cheerful tone in the soybean market, the main carriers of grains
 
 > **Figure 6: As We Highlighted in a Recent Weekly Dry Bulk Report Earlier**  
 > *As we highlighted in a recent Weekly Dry Bulk Report earlier this month, Brazil exported a total of 25.2 million tons of iron ore in April.Read More*  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/5/24/ongoing-growth-in-brazilian-iron-ore-exports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-28_weekly-insights-review_img_unnamed283829_b6dc7d041f27.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/5/24/ongoing-growth-in-brazilian-iron-ore-exports) | [Local Asset](assets/2023-05-28_weekly-insights-review_img_unnamed283829_b6dc7d041f27.jpg)
 
 ## Growth Has in Fact Returned
 
@@ -96,7 +96,7 @@ In spite of the cheerful tone in the soybean market, the main carriers of grains
 ![Vortexa Freight Weekly](assets/2023-05-28_weekly-insights-review_img_unnamed283929_9032d3baf77e.jpg)
 
 > **Figure 7: Vortexa Freight Weekly**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/5/25/vortexa-freight-weekly) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-28_weekly-insights-review_img_unnamed283929_9032d3baf77e.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/5/25/vortexa-freight-weekly) | [Local Asset](assets/2023-05-28_weekly-insights-review_img_unnamed283929_9032d3baf77e.jpg)
 
 ## Suezmaxes Set for Short Hail Trade in June
 
@@ -113,7 +113,7 @@ Yesterday, purchasing managers' indices were released in several of the world’
 ![Market Chart 8](assets/2023-05-28_weekly-insights-review_img_unnamed284029_e965c607271e.jpg)
 
 > **Figure 8: Market Chart 8**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/5/25/asias-refining-margins-rebound-but-how-sustainable-is-this-emerging-recovery) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-28_weekly-insights-review_img_unnamed284029_e965c607271e.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/5/25/asias-refining-margins-rebound-but-how-sustainable-is-this-emerging-recovery) | [Local Asset](assets/2023-05-28_weekly-insights-review_img_unnamed284029_e965c607271e.jpg)
 
 ## Asia’s Refining Margins Rebound But How Sustainable Is This Emerging Recovery?
 
@@ -125,7 +125,7 @@ Asia’s refining margins are firming somewhat but competition from new Middle E
 ![Market Chart 9](assets/2023-05-28_weekly-insights-review_img_unnamed284129_a368804459c1.jpg)
 
 > **Figure 9: Market Chart 9**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-28_weekly-insights-review_img_unnamed284129_a368804459c1.jpg)
+> [Local Asset](assets/2023-05-28_weekly-insights-review_img_unnamed284129_a368804459c1.jpg)
 
 ## Signal Dry Bulk Weekly Report
 
@@ -137,4 +137,4 @@ Read More
 ![Market Chart 10](assets/2023-05-28_weekly-insights-review_img_unnamed284229_9062e652d8ac.jpg)
 
 > **Figure 10: Market Chart 10**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-28_weekly-insights-review_img_unnamed284229_9062e652d8ac.jpg)
+> [Local Asset](assets/2023-05-28_weekly-insights-review_img_unnamed284229_9062e652d8ac.jpg)

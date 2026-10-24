@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-04-23_seaborne-grain-1q26-r
 ![Rgb Color Brs Shipbrokers Monogram L](assets/2026-04-23_seaborne-grain-1q26-recap-beyond-the-next-harvest_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram L**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-23_seaborne-grain-1q26-recap-beyond-the-next-harvest_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](assets/2026-04-23_seaborne-grain-1q26-recap-beyond-the-next-harvest_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 So far, dry freight markets for subcapes have remained relatively firm compared to 1Q25, despite the risk-off sentiment in March driven by the Iran conflict. This resilience can be partly attributed to the continued bypassing of the Panama and Suez Canals for USG grain shipments to the Far East as well as a welcome rebound in global grain volumes in 1Q26.
 
@@ -32,7 +32,7 @@ According to AXSMarine data, most ex-USG grain loadings to Far East, primarily o
 ![Στιγμιότυπο Οθόνης 2026 04 23 144947](assets/2026-04-23_seaborne-grain-1q26-recap-beyond-the-next-harvest_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_849860e62428.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 04 23 144947**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-23_seaborne-grain-1q26-recap-beyond-the-next-harvest_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_849860e62428.png)
+> [Local Asset](assets/2026-04-23_seaborne-grain-1q26-recap-beyond-the-next-harvest_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_849860e62428.png)
 
 Meanwhile, global seaborne grain loadings staged a strong recovery in 1Q26, with AXSMarine data showing volumes rising 10.8% y-o-y from 133.6 mln mt to 148.0 mln mt.
 
@@ -45,14 +45,14 @@ In short, volume growth was led by the major suppliers, particularly the US (+21
 ![Στιγμιότυπο Οθόνης 2026 04 23 145001](assets/2026-04-23_seaborne-grain-1q26-recap-beyond-the-next-harvest_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ce450a87c7d.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 04 23 145001**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-23_seaborne-grain-1q26-recap-beyond-the-next-harvest_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ce450a87c7d.png)
+> [Local Asset](assets/2026-04-23_seaborne-grain-1q26-recap-beyond-the-next-harvest_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ce450a87c7d.png)
 
 On the demand side, however, China - the world’s largest grain importer - accounted for only a limited share of the total increase, with imports rising by just 1.1 mln mt. Instead, the bulk of the additional volumes was absorbed by the rest of the world, with shipments to markets outside the major buyers increasing by 8.5 mln mt and becoming more fragmented.
 
 ![Στιγμιότυπο Οθόνης 2026 04 23 145010](assets/2026-04-23_seaborne-grain-1q26-recap-beyond-the-next-harvest_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b8e844bc2c1f.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2026 04 23 145010**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-23_seaborne-grain-1q26-recap-beyond-the-next-harvest_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b8e844bc2c1f.png)
+> [Local Asset](assets/2026-04-23_seaborne-grain-1q26-recap-beyond-the-next-harvest_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b8e844bc2c1f.png)
 
 This demand pattern suggests that the rebound in overall grain trade has not translated proportionately into stronger demand for larger vessels on long-haul routes. While Kamsarmax and Panamax loadings rose by 8.2% and 3.1%, respectively, the strongest gains were recorded in the smaller geared segments, with Ultramaxes up 47.8% and Handymaxes up 38.5%. The result is that tonne-days growth for global grain shipments remained below 1%, markedly lagging the 10.8% increase in cargo volumes.
 
@@ -63,7 +63,7 @@ A major source of disruption emerged in mid-March, when reports surfaced that Ca
 ![Στιγμιότυπο Οθόνης 2026 04 23 145022](assets/2026-04-23_seaborne-grain-1q26-recap-beyond-the-next-harvest_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_527e250a0f5b.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2026 04 23 145022**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-23_seaborne-grain-1q26-recap-beyond-the-next-harvest_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_527e250a0f5b.png)
+> [Local Asset](assets/2026-04-23_seaborne-grain-1q26-recap-beyond-the-next-harvest_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_527e250a0f5b.png)
 
 These tensions came at a sensitive moment. The first quarter is typically the seasonal upswing for Brazilian grain exports, and China remains the dominant buyer. Of Brazil’s 34.9 mln mt in 1Q26, around 48% went to China. Even so, Brazilian shipments were, down by 20.1% from 1Q25, while exports to other destinations rose.
 
@@ -86,7 +86,7 @@ Looking ahead to the 2026 crop, a majority of US farmers appear relatively well 
 ![Στιγμιότυπο Οθόνης 2026 04 23 145033](assets/2026-04-23_seaborne-grain-1q26-recap-beyond-the-next-harvest_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_721736270a74.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2026 04 23 145033**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-23_seaborne-grain-1q26-recap-beyond-the-next-harvest_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_721736270a74.png)
+> [Local Asset](assets/2026-04-23_seaborne-grain-1q26-recap-beyond-the-next-harvest_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_721736270a74.png)
 
 Consequently, while some US farmers remain concerned about the 2026 crop - with the USDA noting a potential shift from corn to soybeans planting - nearly twice as many are more worried about fertilizer price and availability in 2027, signalling rising anxiety over future supply conditions. To prevent the 2027 crop from being hit not only by affordability issues but also by supply constraints, measures strengthening supply resilience and ensuring continued product flow to US farms will be critical ahead of the next key purchasing and import window.
 

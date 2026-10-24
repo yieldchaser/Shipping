@@ -33,14 +33,14 @@ In the first article in the series we mentioned that dry bulk freight was in a s
 ![Klav 40](assets/2020-12-04_2021-dry-bulk-outlook-supply-growth_img_klav40_680561150794.png)
 
 > **Figure 1: Klav 40**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-04_2021-dry-bulk-outlook-supply-growth_img_klav40_680561150794.png)
+> [Local Asset](assets/2020-12-04_2021-dry-bulk-outlook-supply-growth_img_klav40_680561150794.png)
 
 The freight market remained strong through most of 2010 but then started another negative spiral as fleet growth remained elevated and as the Chinese demand growth moderated from the neck breaking pace seen in the period directly after the financial crisis. Deliveries slowed down considerably in 2013(see graph below). As the underlying dry bulk demand was solid, the lower fleet growth was enough to once again pull freight rates higher. At an early stage of the 2013 freight rate recovery it was argued that this time around the higher freight rates would not trigger more orders. The reasoning was that the ship owning companies was strapped for liquidity after buying expensive vessels at the peak of the market. The shipping companies had enough on the plate just servicing their debt obligations, and banks were increasingly restrictive in their lending. Thus, a big wave of ordering was deemed unlikely. However, private equity was drawn to the sector as asset valuations were low and as the freight market was in what appeared to be a cyclical bottom. This unforeseen influx of capital from the outside led to another huge wave of contracting which at its peak almost reached the levels seen in 2008 (see left graph above). This turned out be another false down and freight markets trended further down before bottoming out in Q1-2016. Since then the underlying trend in freight rates has been positive. We did see a new wave in contracting in 2017 and 2018, but the amount of orders did not reach the same levels as in the previous waves. It was however enough to increase the year on year fleet growth from a bottom of 2.2% in 2016 to 4.0% in 2019, and about 3.3% in 2020 (see graph below). With limited newbuild orders in the last two years the orderbook as a percentage of the fleet now stands at 6.3% (see right graph above), the lowest level in Clarksons timeseries dating back to 1996.
 
 ![Klav 41](assets/2020-12-04_2021-dry-bulk-outlook-supply-growth_img_klav41_be976d000d16.png)
 
 > **Figure 2: Klav 41**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-04_2021-dry-bulk-outlook-supply-growth_img_klav41_be976d000d16.png)
+> [Local Asset](assets/2020-12-04_2021-dry-bulk-outlook-supply-growth_img_klav41_be976d000d16.png)
 
 ### Fleet Growth in 2021/2022
 
@@ -51,7 +51,7 @@ We expect the fleet growth in 2021 to be lower than in 2020 for all segments. Th
 ![Klav 42](assets/2020-12-04_2021-dry-bulk-outlook-supply-growth_img_klav42_ea97507c79ca.png)
 
 > **Figure 3: Klav 42**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-04_2021-dry-bulk-outlook-supply-growth_img_klav42_ea97507c79ca.png)
+> [Local Asset](assets/2020-12-04_2021-dry-bulk-outlook-supply-growth_img_klav42_ea97507c79ca.png)
 
 We are confident that the dry bulk fleet growth will be at historical lows in 2021 and 2022. What happens in 2023 and beyond is more open for debate. As we walked down the memory lane earlier in the article, we saw that any uptick in freight rates in the past 20 years has triggered big waves of newbuild orders. We believe it is very likely that freight rates will increase in 2021 and 2022 as low fleet growth combines with a seaborne dry bulk trade that recovers from the black swan events of Brumadinho and covid-19. Is there any reason not to expect a big wave of newbuilding orders this time around if the freight market improves? We certainly believe that higher freight markets will trigger more newbuild orders in the coming years. However, we also believe that fleet growth in the next 5 years is likely to be at low levels due to uncertainties around the choice of fuel and propulsion systems. Klaveness will monitor the decarbonization of shipping closely going forward and have established a team named ZeroLab by Klaveness. In the following paragraphs, Head of ZeroLab Martin Prokosch provides a brief introduction to this large topic.
 
@@ -60,7 +60,7 @@ The initial IMO Greenhouse Gas (GHG) Strategy, adopted in 2018, sets ambitious t
 ![Klav 43](assets/2020-12-04_2021-dry-bulk-outlook-supply-growth_img_klav43_03a02f1c7f21.png)
 
 > **Figure 4: Klav 43**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-04_2021-dry-bulk-outlook-supply-growth_img_klav43_03a02f1c7f21.png)
+> [Local Asset](assets/2020-12-04_2021-dry-bulk-outlook-supply-growth_img_klav43_03a02f1c7f21.png)
 
 While the 2030 targets are achievable with current technologies and available alternative fuel types (e.g., LNG), the 2050 targets are much harder to reach. To achieve a reduction of 50% in absolute emissions, the average vessel needs to emit 70-80% less in 2050 vs. 2008 to compensate for the expected growth in seaborne trade. Further, for the shipping sector to be fully aligned with the +1.5-degree target in the Paris agreement, the absolute emissions from this sector will need to reach net zero by 2050.
 
@@ -70,7 +70,7 @@ The usual tools will not bring us there; in order to reach the 2050 emissions ta
 
 > **Figure 5: Historical Fleet Growth and Orderbook Is Based on Raw Data From**  
 > **Historical fleet growth and orderbook is based on raw data from Clarksons*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-04_2021-dry-bulk-outlook-supply-growth_img_klav44_627caa9cc75a.png)
+> [Local Asset](assets/2020-12-04_2021-dry-bulk-outlook-supply-growth_img_klav44_627caa9cc75a.png)
 
 There is large uncertainty around which fuel(s) one should design a ship for when ordering vessels during the next decade. LNG is by many seen as a good bridging fuel, coming both at a cost advantage to HFO and offering 5-25% lower GHG emissions depending on engine technology. But unless the carbon in the methane (CH4) eventually can be sourced from renewable sources (or directly from the air), even LNG will not bring us even close to the target in 2050. Biofuels can also be a bridging solution to reduce emissions in the short- and medium-term, but the future availability and general sustainability is hotly debated. Ammonia produced from renewable energy is by many regarded as the best candidate for the alternative fuel of the future for deep sea shipping. However, ammonia is challenging to handle and currently not available in “green form” (close to 100% is currently produced from fossil fuel). In the longer run, even nuclear energy could be back on the table, especially for very large ships. In the short- and medium-term owners will need to settle with looking at flexibility and optionality when designing and ordering vessels; an LNG-powered vessel designed with retrofit to use of green ammonia in mind, seems like a good place to start.
 

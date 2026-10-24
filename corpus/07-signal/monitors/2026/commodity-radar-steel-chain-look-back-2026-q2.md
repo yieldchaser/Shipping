@@ -44,7 +44,7 @@ The Arabian Gulf typically accounts for a significant share of China’s steel e
 
 > **Figure 1: Source: Seaborn Steel Flows Origins and Destinations From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Seaborn steel flows origins and destinations from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-steel-chain-look-back-2026-q2) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a61ea0f5cc1f6d4b58b34f1_0d0a799e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-steel-chain-look-back-2026-q2) | [Local Asset](../../images/6a61ea0f5cc1f6d4b58b34f1_0d0a799e.png)
 
 
 ## Global Seaborne Manganese Ore
@@ -58,7 +58,7 @@ Major steel producers, China and India, saw manganese ore imports rise. India sa
 
 > **Figure 2: Source: Seaborn Manganese Ore Flows Origins and Destinations From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Seaborn manganese ore flows origins and destinations from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-steel-chain-look-back-2026-q2) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a61ea0f5cc1f6d4b58b34f7_000934a6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-steel-chain-look-back-2026-q2) | [Local Asset](../../images/6a61ea0f5cc1f6d4b58b34f7_000934a6.png)
 
 
 ## Global Seaborne Chrome Ore
@@ -72,7 +72,7 @@ The shift in beneficiation has been reflected in Asia, where Chinese ferrochrome
 
 > **Figure 3: Source: Seaborn Chrome Ore Flows, Origins, and Destinations From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Seaborn chrome ore flows, origins, and destinations from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-steel-chain-look-back-2026-q2) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a61ea0f5cc1f6d4b58b34ee_4c33dfa8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-steel-chain-look-back-2026-q2) | [Local Asset](../../images/6a61ea0f5cc1f6d4b58b34ee_4c33dfa8.png)
 
 
 ## Global Seaborne Nickel Ore
@@ -86,4 +86,4 @@ Stronger output enabled miners to capitalise on firm demand from Indonesia's rap
 
 > **Figure 4: Source: Seaborn Nickel Ore Flows, Origins, and Destinations From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Seaborn nickel ore flows, origins, and destinations from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-steel-chain-look-back-2026-q2) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a61ea0f5cc1f6d4b58b34f4_c28bffec.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-steel-chain-look-back-2026-q2) | [Local Asset](../../images/6a61ea0f5cc1f6d4b58b34f4_c28bffec.png)

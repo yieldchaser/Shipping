@@ -27,12 +27,12 @@ This week, in the East, we look at near record-lows in VLCC utilisation from the
 ![Στιγμιότυπο Οθόνης 2024 07 18 100124](assets/2024-07-18_m5x8ejlk7sp40zz3mmy9j60avwtpnj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_39577884e75c.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 18 100124**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUX-lryoWOYm0_kmPyCLlSbbQmWHGf87aFMum5QIGE92-93Y-0We2mboAktDOXDsFuSKbx9no=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-18_m5x8ejlk7sp40zz3mmy9j60avwtpnj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_39577884e75c.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUX-lryoWOYm0_kmPyCLlSbbQmWHGf87aFMum5QIGE92-93Y-0We2mboAktDOXDsFuSKbx9no=) | [Local Asset](assets/2024-07-18_m5x8ejlk7sp40zz3mmy9j60avwtpnj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_39577884e75c.png)
 
 ![Στιγμιότυπο Οθόνης 2024 07 18 100140](assets/2024-07-18_m5x8ejlk7sp40zz3mmy9j60avwtpnj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9ce839fd3ca7.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 07 18 100140**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUX-lryoWOYm0_kmPyCLlSbbQmWHGf87aFMum5QIGE92-93Y-0We2mboAktDOXDsFuSKbx9no=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-18_m5x8ejlk7sp40zz3mmy9j60avwtpnj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9ce839fd3ca7.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUX-lryoWOYm0_kmPyCLlSbbQmWHGf87aFMum5QIGE92-93Y-0We2mboAktDOXDsFuSKbx9no=) | [Local Asset](assets/2024-07-18_m5x8ejlk7sp40zz3mmy9j60avwtpnj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9ce839fd3ca7.png)
 
 - [VLCC utilisation for OPEC+](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUX-lryoWOYm0_kmPyCLlSbbQmWHGf87aFMum5QIGE92-93Y-0We2mboAktDOXDsFuSKbx9no=)(excluding Iran and Venezuela) fell sharply during June and reached a record low early July, as exports from the OPEC+ group, especially Saudi Arabia, fell sharply -[read our latest insight on the subject here](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUX-lry8zC8fCOdc-IgjYpWSehLGVD7XkGg9BnsiWYzeJBScUM68udeGVNcKYCFJ64vj7wYB8=). So far in July VLCC utilisation for the producer group remains low compared to historical levels.
 
@@ -42,7 +42,7 @@ This week, in the East, we look at near record-lows in VLCC utilisation from the
 ![Στιγμιότυπο Οθόνης 2024 07 18 100357](assets/2024-07-18_m5x8ejlk7sp40zz3mmy9j60avwtpnj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_991c45877ae5.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 07 18 100357**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUX-lry_9R1Rr0B3pNc20QSS0PD9ysXpAUXy1Awb7iiADB2FfbaOhW5GYqIR-KVtksttWW1Cw=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-18_m5x8ejlk7sp40zz3mmy9j60avwtpnj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_991c45877ae5.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUX-lry_9R1Rr0B3pNc20QSS0PD9ysXpAUXy1Awb7iiADB2FfbaOhW5GYqIR-KVtksttWW1Cw=) | [Local Asset](assets/2024-07-18_m5x8ejlk7sp40zz3mmy9j60avwtpnj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_991c45877ae5.png)
 
 - [Mexico’s road fuel imports](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUX-lry_9R1Rr0B3pNc20QSS0PD9ysXpAUXy1Awb7iiADB2FfbaOhW5GYqIR-KVtksttWW1Cw=)are increasing for the fourth consecutive month (July days 1-15), following a spate of refinery issues which has reduced run rates after record-setting highs earlier this year. Mexico East Coast has turned to the USGC to satisfy increased demand for road fuels, which is contributing to high short-haul utilisation for MRs in the region. This combined with high short-haul demand to Caribbean destinations is attractive to US refiners, because it cuts down on shipping costs. As a result, less volume has been going through the Panama Canal to West Coast Mexico, even though Panama Canal transits are recovering.
 
@@ -52,7 +52,7 @@ This week, in the East, we look at near record-lows in VLCC utilisation from the
 ![Στιγμιότυπο Οθόνης 2024 07 18 100509](assets/2024-07-18_m5x8ejlk7sp40zz3mmy9j60avwtpnj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_be55327e26a5.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 07 18 100509**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUX-lry_HmHESuV7_nYDb89d2ly4ZBv5MkUdUzLR9RINvjGx1C4_S5Qdei74O8w-6IgGS7N1w=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-18_m5x8ejlk7sp40zz3mmy9j60avwtpnj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_be55327e26a5.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUX-lry_HmHESuV7_nYDb89d2ly4ZBv5MkUdUzLR9RINvjGx1C4_S5Qdei74O8w-6IgGS7N1w=) | [Local Asset](assets/2024-07-18_m5x8ejlk7sp40zz3mmy9j60avwtpnj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_be55327e26a5.png)
 
 - Freight rates for the Suezmax West Africa-to-Europe ([TD20](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUX-lry_HmHESuV7_nYDb89d2ly4ZBv5MkUdUzLR9RINvjGx1C4_S5Qdei74O8w-6IgGS7N1w=)) route are following the VLCC trends, currently reaching a 2024 low on the back of thinning crude supplies.
 
@@ -62,7 +62,7 @@ This week, in the East, we look at near record-lows in VLCC utilisation from the
 ![Στιγμιότυπο Οθόνης 2024 07 18 100528](assets/2024-07-18_m5x8ejlk7sp40zz3mmy9j60avwtpnj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b8d94192445.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 07 18 100528**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-18_m5x8ejlk7sp40zz3mmy9j60avwtpnj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b8d94192445.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](assets/2024-07-18_m5x8ejlk7sp40zz3mmy9j60avwtpnj_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b8d94192445.png)
 
 - As the new Dangote refinery (nameplate capacity 650kbd) continues to ramp-up production, we created a Dangote impact scenario, comparing the changes in projected tonne-miles in 2025 versus 2023 values.
 

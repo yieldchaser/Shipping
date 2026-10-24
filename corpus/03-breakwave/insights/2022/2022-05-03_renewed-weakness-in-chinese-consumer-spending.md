@@ -27,21 +27,21 @@ The ongoing surge of new daily coronavirus cases in China, which began last mont
 ![Chart 1 (29)](assets/2022-05-03_renewed-weakness-in-chinese-consumer-spending_img_chart1282929_07b22f5f2731.jpg)
 
 > **Figure 1: Chart 1 (29)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-03_renewed-weakness-in-chinese-consumer-spending_img_chart1282929_07b22f5f2731.jpg)
+> [Local Asset](assets/2022-05-03_renewed-weakness-in-chinese-consumer-spending_img_chart1282929_07b22f5f2731.jpg)
 
 Furniture sales in March totaled 12.6 billion yuan, which has marked a year-on-year contraction of 7%. Furniture sales have now contracted on a year-on-year basis for eight consecutive months. The 7% contraction has marked the second largest contraction seen during this period (the largest was a 9% contraction in December).
 
 ![Chart 2 (26)](assets/2022-05-03_renewed-weakness-in-chinese-consumer-spending_img_chart2282629_1a5c22eb2f70.jpg)
 
 > **Figure 2: Chart 2 (26)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-03_renewed-weakness-in-chinese-consumer-spending_img_chart2282629_1a5c22eb2f70.jpg)
+> [Local Asset](assets/2022-05-03_renewed-weakness-in-chinese-consumer-spending_img_chart2282629_1a5c22eb2f70.jpg)
 
 Clothing sales (which includes garments, footwear, hats, and knitwear) in March totaled 96 billion yuan, which has marked a year-on-year increase of 15%. Appliance sales have now contracted on a year-on-year basis during six of the last eight months (but sales did increase on a year-on-year basis in January/February by 5%).
 
 ![Chart 3 (21)](assets/2022-05-03_renewed-weakness-in-chinese-consumer-spending_img_chart3282129_215f8a77397f.jpg)
 
 > **Figure 3: Chart 3 (21)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-03_renewed-weakness-in-chinese-consumer-spending_img_chart3282129_215f8a77397f.jpg)
+> [Local Asset](assets/2022-05-03_renewed-weakness-in-chinese-consumer-spending_img_chart3282129_215f8a77397f.jpg)
 
 ---
 

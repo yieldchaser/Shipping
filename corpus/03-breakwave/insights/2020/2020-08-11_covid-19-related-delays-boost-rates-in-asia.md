@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-08-11_covid-19-related-dela
 ![Market Chart 1](assets/2020-08-11_covid-19-related-delays-boost-rates-in-asia_img_image-asset_58b94d781a29.jpeg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shippingwatch](https://shippingwatch.com/Services/article12331365.ece) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-08-11_covid-19-related-delays-boost-rates-in-asia_img_image-asset_58b94d781a29.jpeg)
+> **Interactive Data & Source:** [Shippingwatch](https://shippingwatch.com/Services/article12331365.ece) | [Local Asset](assets/2020-08-11_covid-19-related-delays-boost-rates-in-asia_img_image-asset_58b94d781a29.jpeg)
 
 With more than six months into the pandemic, the impact on shipping is only now begging to become visible in pricing, as COVID-19 related delays continue to add to port congestion and tie up more and more ships in the process. With[more than 80% of Asian ports closed to crew changes](https://shippingwatch.com/Services/article12331365.ece), crew change regulations are becoming stricter and the length of round-trip voyages have been extended by a significant amount, especially in Asia where one-way laden voyages are below the 14-day quarantine threshold for most countries.
 
@@ -35,7 +35,7 @@ The Atlantic market is better suited to handle such delays as most crew changes 
 ![Source: Braemar Research](assets/2020-08-11_covid-19-related-delays-boost-rates-in-asia_img_c5length_a434f0198b21.png)
 
 > **Figure 2: Source: Braemar Research**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-08-11_covid-19-related-delays-boost-rates-in-asia_img_c5length_a434f0198b21.png)
+> [Local Asset](assets/2020-08-11_covid-19-related-delays-boost-rates-in-asia_img_c5length_a434f0198b21.png)
 
 Source: Braemar Research
 

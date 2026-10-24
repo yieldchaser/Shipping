@@ -27,7 +27,7 @@ Commodity markets remained on edge ahead of the announcement of US tariffs. A we
 ![Στιγμιότυπο Οθόνης 2025 04 03 111656](assets/2025-04-03_gold-edges-higher-ahead-of-tariff-announcement_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a666873683e3.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 04 03 111656**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-03_gold-edges-higher-ahead-of-tariff-announcement_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a666873683e3.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-04-03_gold-edges-higher-ahead-of-tariff-announcement_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a666873683e3.png)
 
 ### Market Commentary
 
@@ -50,7 +50,7 @@ Inflows into gold-backed ETFs have picked up sharply in recent weeks amid uncert
 ![Στιγμιότυπο Οθόνης 2025 04 03 111704](assets/2025-04-03_gold-edges-higher-ahead-of-tariff-announcement_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eb3c777f99d3.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 04 03 111704**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-03_gold-edges-higher-ahead-of-tariff-announcement_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eb3c777f99d3.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-04-03_gold-edges-higher-ahead-of-tariff-announcement_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eb3c777f99d3.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

@@ -32,7 +32,7 @@ Away from the centre stage of the 20th National Congress of the Communist Party 
 ![Screenshot 20221024 144511 Samsung Notes (1)](assets/2022-10-24_fxvpz1w52pbditqxbwe3e6jee01sji_img_screenshot-20221024-144511-samsungno_8a68660f566b.jpg)
 
 > **Figure 1: Screenshot 20221024 144511 Samsung Notes (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-24_fxvpz1w52pbditqxbwe3e6jee01sji_img_screenshot-20221024-144511-samsungno_8a68660f566b.jpg)
+> [Local Asset](assets/2022-10-24_fxvpz1w52pbditqxbwe3e6jee01sji_img_screenshot-20221024-144511-samsungno_8a68660f566b.jpg)
 
 Whilst a divergence of views between most of the economists and Zhao Chenxin became apparent, the latest official data published earlier this month indicated an economy trending sideways. In September, the Purchasing Manager Index (PMI) of China's manufacturing industry was 50.1 percent – up by 0.7 percentage points from the previous month – entering marginally into the expansion range. Among the five sub-indices that constitute the manufacturing PMI, the production index was the only one lingering higher than the threshold.
 
@@ -43,7 +43,7 @@ The employment index was 49.0 percent, trending sideways during the last month. 
 ![Screenshot 20221024 144526 Samsung Notes (1)](assets/2022-10-24_fxvpz1w52pbditqxbwe3e6jee01sji_img_screenshot-20221024-144526-samsungno_a0232610b78d.jpg)
 
 > **Figure 2: Screenshot 20221024 144526 Samsung Notes (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-24_fxvpz1w52pbditqxbwe3e6jee01sji_img_screenshot-20221024-144526-samsungno_a0232610b78d.jpg)
+> [Local Asset](assets/2022-10-24_fxvpz1w52pbditqxbwe3e6jee01sji_img_screenshot-20221024-144526-samsungno_a0232610b78d.jpg)
 
 As the latest official data revealed a rather lukewarm picture for the course of the world’s second largest economy and the lack of fresh statistics injected uncertainty in the market, China’s state media emphasised on the previous decade economic progress. In 2021, China's gross domestic product reached 17.7 trillion US dollars, accounting for 18.5 percent of the world's total. From 2013 to 2021, it grew at an average annual rate of 6.6 percent, beating the average global growth of 2.6 percent.
 

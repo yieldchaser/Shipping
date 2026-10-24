@@ -40,7 +40,7 @@ A 3% increase in global iron ore flows masks weak downstream demand
 
 > **Figure 1: Source: Iron Ore-Driven Tonne-Miles From Signal Ocean**  
 > *Source: Iron ore-driven tonne-miles from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-iron-ore) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6971e700bc5ae9b997bab2c7_4d97d336.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-iron-ore) | [Local Asset](../../images/6971e700bc5ae9b997bab2c7_4d97d336.png)
 
 Global iron ore flows reached 1.7bt in 2025, 3% higher than in 2024. The growth was driven by strong growth in flows to China and extremely strong growth in flows to India. China saw an increase in iron ore flows of 3%, resulting in an extra 52mt of iron ore flowing to China. Iron ore flows into India surged by 72%, yet the absolute growth figure is just shy of 6mt.
 
@@ -53,7 +53,7 @@ These flow figures would indicate a well-performing global steel sector, one tha
 
 > **Figure 2: Source: Global Iron Ore Exports From Signal Ocean**  
 > *Source: Global iron ore exports from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-iron-ore) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6971e700bc5ae9b997bab2c1_a312ff21.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-iron-ore) | [Local Asset](../../images/6971e700bc5ae9b997bab2c1_a312ff21.png)
 
 China’s steel production decline and increased imports of iron ore have led to a surge in iron ore stock levels in the country. Now, stock builds before the CNY period are not unusual but this time around, stocks have consistently building from the summer. Adding to this, downstream demand for steel has underperformed, leading to pressure on steel mills, which have cut back, and iron ore port stocks are now sitting at multi-year highs. The outlook for 2026 is that steel production in China will continue to decline, as the government looks control the over-capacity within the industry and trade barriers impact both the demand and supply side.
 
@@ -68,7 +68,7 @@ The opening and ramping up of the Simandou project in Guinea does offer a positi
 
 > **Figure 3: Source: Crude Steel Production From the World Steel Association**  
 > *Source: Crude steel production from the World Steel Association*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-iron-ore) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6971e700bc5ae9b997bab2c4_b940d3c1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/commodity-radar-spotlight-iron-ore) | [Local Asset](../../images/6971e700bc5ae9b997bab2c4_b940d3c1.png)
 
 
 ## Shifting Trade Will Change Capesize Outlook

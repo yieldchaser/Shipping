@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-12-31_96js5yd6hq8huua00m6ym
 
 > **Figure 1: 25% Represents the Daily Roundtrip Earnings for Ships in The**  
 > *25% represents the daily roundtrip earnings for ships in the Australia to China route*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-31_96js5yd6hq8huua00m6ymh2ffppulh_img_ship18_0f9f548e5142.jpg)
+> [Local Asset](assets/2021-12-31_96js5yd6hq8huua00m6ymh2ffppulh_img_ship18_0f9f548e5142.jpg)
 
 In a world with tens of thousands of financial indices, the dry bulk market stands out when it comes to benchmarking, with the Baltic Exchange remaining the dominant provider of price information and index constitution. As the largest vessel category in dry bulk, the Capesize 5TC Average Index has become the go-to index for market participants and industry watchers alike when one needs to take the sector pulse as a whole. Yet, for the ones who closely follow the market it is important to not only understand how such a index works but also the different calculations behind it, something that we have found is not really the case even when it comes to seasoned shipping professionals.
 
@@ -59,7 +59,7 @@ A great example is what is currently happening in the Capesize market. The curre
 ![Atl+ +5tc](assets/2021-12-31_96js5yd6hq8huua00m6ymh2ffppulh_img_atl2b-2b5tc_535e37f984aa.jpg)
 
 > **Figure 2: Atl+ +5tc**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-31_96js5yd6hq8huua00m6ymh2ffppulh_img_atl2b-2b5tc_535e37f984aa.jpg)
+> [Local Asset](assets/2021-12-31_96js5yd6hq8huua00m6ymh2ffppulh_img_atl2b-2b5tc_535e37f984aa.jpg)
 
 Furthermore, all the above are based on calculations and assumptions made by shipbrokers and as a result, might not represent reality. After all, like most shipping indices, it is an assessed index. However, for freight traders (especially the ones engaged in freight futures or index-linked trading) such mathematics are extremely relevant. For instance, why would an owner trade a ship commercially when it can charter her out on an 5TC index-linked basis (a vessel that basically earns whatever the index is) and “beat” the actual earnings for the two main commercial routes, namely Brazil/Australia to China, with little effort? Additionally, traders can charter-in index linked ships and employee them in the Transatlantic market and could be making a nice spread (note: a lot of them actually do).
 

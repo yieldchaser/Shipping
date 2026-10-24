@@ -45,7 +45,7 @@ The latest central bank decisions underscore the complex task of fostering econo
 ![Στιγμιότυπο Οθόνης 2024 12 23 102504](assets/2024-12-23_implications-for-global-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_89a3af15719c.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 12 23 102504**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-23_implications-for-global-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_89a3af15719c.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-12-23_implications-for-global-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_89a3af15719c.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

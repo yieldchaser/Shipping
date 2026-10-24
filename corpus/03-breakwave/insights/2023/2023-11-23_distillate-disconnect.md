@@ -22,12 +22,12 @@ source_file: "corpus/03-breakwave/insights/2023/2023-11-23_distillate-disconnect
 ![Homepage+banner+1](assets/2023-11-23_distillate-disconnect_img_homepage2bbanner2b1_5d7211685255.png)
 
 > **Figure 1: Homepage+banner+1**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-23_distillate-disconnect_img_homepage2bbanner2b1_5d7211685255.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/breakwave-day-2023) | [Local Asset](assets/2023-11-23_distillate-disconnect_img_homepage2bbanner2b1_5d7211685255.png)
 
 [![Homepage2bbutton](assets/2023-11-23_distillate-disconnect_img_homepage2bbutton_1d014100cc65.png)
 
 > **Figure 2: Homepage2bbutton**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-23_distillate-disconnect_img_homepage2bbutton_1d014100cc65.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2023-11-23_distillate-disconnect_img_homepage2bbutton_1d014100cc65.png)](https://www.breakwaveadvisors.com/breakwave-day-2023)
 
 ## Distillate Disconnect
 
@@ -46,6 +46,6 @@ If we see the arb economics translate into sustained higher volumes from the Eas
 ![Αρχείο Λήψης (5)](assets/2023-11-23_distillate-disconnect_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_034992df0ae3.png)
 
 > **Figure 3: Αρχείο Λήψης (5)**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-11-23_distillate-disconnect_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_034992df0ae3.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2023-11-23_distillate-disconnect_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_034992df0ae3.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)

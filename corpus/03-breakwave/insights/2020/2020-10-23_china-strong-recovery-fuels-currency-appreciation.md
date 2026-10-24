@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-10-23_china-strong-recovery
 ![By Ulf Bergman](assets/2020-10-23_china-strong-recovery-fuels-currency-appreciation_img_image-asset_6a12d3d59b89.jpeg)
 
 > **Figure 1: By Ulf Bergman**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-23_china-strong-recovery-fuels-currency-appreciation_img_image-asset_6a12d3d59b89.jpeg)
+> [Local Asset](assets/2020-10-23_china-strong-recovery-fuels-currency-appreciation_img_image-asset_6a12d3d59b89.jpeg)
 
 From a European perspective, one can be forgiven for seeing the storm clouds gathering at the horizon and a sense of gloom descending, as COVID-19 infection rates rise rapidly, and new social restrictions are imposed across the continent. In addition, reports that many European SME’s see a high risk of bankruptcy within the next six months are adding to a rather gloomy picture. Many other parts of the world also paint equally bleak pictures.
 
@@ -34,7 +34,7 @@ As the Chinese economy has rebounded quicker and stronger that the rest of the w
 ![Ulf 30](assets/2020-10-23_china-strong-recovery-fuels-currency-appreciation_img_ulf30_10bd42c35eec.jpg)
 
 > **Figure 2: Ulf 30**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-23_china-strong-recovery-fuels-currency-appreciation_img_ulf30_10bd42c35eec.jpg)
+> [Local Asset](assets/2020-10-23_china-strong-recovery-fuels-currency-appreciation_img_ulf30_10bd42c35eec.jpg)
 
 The strong levels against the dollar are partially due to a strong inflow of foreign capital driven by a considerable interest rate-premium over the rest of the world, but also due to a weakness of the US dollar. The Yuan has gained around six percent relative to the dollar since May, despite official attempts to rein in the appreciation. There are reports that the Chinese authorities will increase the amount of capital it allows to flow out of the country, which would signal confidence in the economy from policy makers but also that the Yuan’s gains may have reached the limit of what is perceived as acceptable.
 

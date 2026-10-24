@@ -31,7 +31,7 @@ On Wednesday, the US Federal Reserve captured global attention by implementing i
 ![Στιγμιότυπο Οθόνης 2024 09 22 210924](assets/2024-09-23_1xxzscma06s3povgyful41rzktm04i_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2847deca01e1.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 22 210924**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-23_1xxzscma06s3povgyful41rzktm04i_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2847deca01e1.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-09-23_1xxzscma06s3povgyful41rzktm04i_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2847deca01e1.png)
 
 In response, global stock markets surged, with Wall Street hitting new highs on Thursday. The benchmark S&P 500 climbed 1.7 percent, reaching its first record high since July, while the Dow Jones Industrial Average rose by 1.3 percent, also setting a record. The Nasdaq Composite, driven by strong gains in the tech sector, rallied 2.5 percent. These market rallies reflect confidence in the Fed's ability to engineer a "soft landing," where inflation stabilizes without tipping the economy into recession. Year-to-date, the S&P 500 has risen over 20 percent, while the Nasdaq has climbed by 22 percent, and the Dow by 11 percent. Conversely, the US dollar slipped in choppy trading on Wednesday as markets grappled with the supersized 50 basis point interest rate cut, as well as the switch to an easing monetary policy stance delivered by the Federal Reserve. The US dollar index, which measures the dollar against a basket of currencies, has dropped 3 percent since early August, lingering near its lowest point in over a year.
 
@@ -44,7 +44,7 @@ On Friday, the People’s Bank of China took a surprising approach by leaving it
 ![Στιγμιότυπο Οθόνης 2024 09 22 211036](assets/2024-09-23_1xxzscma06s3povgyful41rzktm04i_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ce1bcdde429.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 09 22 211036**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-23_1xxzscma06s3povgyful41rzktm04i_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ce1bcdde429.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-09-23_1xxzscma06s3povgyful41rzktm04i_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ce1bcdde429.png)
 
 Nonetheless, China’s economic data paints a challenging picture. Recent statistics show that production, consumption, and investment all slowed more than anticipated in August, with credit demand remaining weak. This weak confidence is indicative of the broader economic slowdown China faces. Despite these headwinds, analysts suggest that the Fed’s aggressive rate cut has provided the PBOC with some leeway to lower rates in the future, without risking a sharp depreciation of the yuan or triggering capital outflows. As the world’s second-largest economy struggles to meet its annual growth target of 5 percent, there are growing expectations for further stimulus measures.
 

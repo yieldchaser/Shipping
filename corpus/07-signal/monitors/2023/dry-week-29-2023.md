@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform Data**  
 > *Data Source: The Signal Ocean Platform Data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-29-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/64b796be49971de7ab1ef333_Dry_Chart of the Week_Iron Ore & Coal to China.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-29-2023) | [Local Asset](../../images/64b796be49971de7ab1ef333_Dry_Chart of the Week_Iron Ore & Coal to China.png)
 
 The third week of July sustained the downward trend of freight market rates of the previous days of July, however, signs of an upward trend were recorded in the Panamax Continent to Far East rates. On the supply side, the number of ballast ships increased significantly across all vessel size categories implying that freight rates are potentially likely to keep struggling to perform at higher levels, while uncertainty looms around Chinese economic performance. Amid concerns on Chinese solid demand, we can see that a higher volume of coal and iron ore is heading to the second world’s largest economy from all origin countries.
 

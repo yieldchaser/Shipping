@@ -34,7 +34,7 @@ This week’s Tanker Market Monitor tracks India’s return to Iraqi supply as G
 ![Spotlight of the Week - India and the Widening Tanker Freight Squeeze](../../images/6ac8d9f4e0cc34638a61cb1f_e1527448.png)
 
 > **Figure 1: Spotlight of the Week - India and the Widening Tanker Freight Squeeze**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac8d9f4e0cc34638a61cb1f_e1527448.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](../../images/6ac8d9f4e0cc34638a61cb1f_e1527448.png)
 
 **Dashboard view.** *Signal Oil Flows, Iraq to India by export date: monthly volumes 2023–2026, vessel classes, discharge ports and terminals (selection January 2022–September 2026).*
 
@@ -44,7 +44,7 @@ Iraqi oil shipments to India **more than doubled in September to 4.41 million to
 ![Spotlight of the Week - India and the Widening Tanker Freight Squeeze](../../images/6ac8d9f4e0cc34638a61cb28_d2f77941.png)
 
 > **Figure 2: Spotlight of the Week - India and the Widening Tanker Freight Squeeze**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac8d9f4e0cc34638a61cb28_d2f77941.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](../../images/6ac8d9f4e0cc34638a61cb28_d2f77941.png)
 
 **Chart 1.** *Monthly shipments to India by export date, January–September, 2025 vs 2026. Iraq covers all oil cargoes; Russia covers crude oil.*
 
@@ -68,7 +68,7 @@ Crude loadings at Yanbu stopped after Saudi Aramco shut the East–West pipeline
 ![Yanbu Recovers But Onward Transit Remains Exposed](../../images/6ac8d9f4e0cc34638a61cb2b_82b8da94.png)
 
 > **Figure 3: Yanbu Recovers But Onward Transit Remains Exposed**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac8d9f4e0cc34638a61cb2b_82b8da94.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](../../images/6ac8d9f4e0cc34638a61cb2b_82b8da94.png)
 
 **Chart 2.** *Yanbu oil exports to all destinations, seven-day moving average of daily exports, barrels/day, 2023–2026.*
 
@@ -94,7 +94,7 @@ The Joint Ministerial Monitoring Committee’s 4 October assessment reinforces t
 ![Freight: Gulf VLCC Earnings Lead as Atlantic Rates Strengthen](../../images/6ac8d9f4e0cc34638a61cb22_9dc0a8e7.png)
 
 > **Figure 4: Freight: Gulf VLCC Earnings Lead as Atlantic Rates Strengthen**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac8d9f4e0cc34638a61cb22_9dc0a8e7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](../../images/6ac8d9f4e0cc34638a61cb22_9dc0a8e7.png)
 
 **Chart 3.** *Crude tanker spot TCE by route and vessel class, East vs West of Suez, current vs previous week ($/day).*
 
@@ -106,7 +106,7 @@ Aframax earnings rose across all seven routes in the basket, with weekly gains r
 ![Freight: Gulf VLCC Earnings Lead as Atlantic Rates Strengthen](../../images/6ac8d9f4e0cc34638a61cb2e_617edb9b.png)
 
 > **Figure 5: Freight: Gulf VLCC Earnings Lead as Atlantic Rates Strengthen**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac8d9f4e0cc34638a61cb2e_617edb9b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](../../images/6ac8d9f4e0cc34638a61cb2e_617edb9b.png)
 
 **Chart 4.** *Aframax spot TCE, weekly change by route; navy marks the eastern routes, teal the western routes.*
 
@@ -119,13 +119,13 @@ Aframax earnings rose across all seven routes in the basket, with weekly gains r
 ![Spot Rate Summary: Dirty TCE, VLCC, Suezmax, Aframax and Panamax](../../images/6ac8d8ca7f1d3e344fef3795_Screenshot 2026-10-09 at 13.04.31.png)
 
 > **Figure 6: Spot Rate Summary: Dirty TCE, VLCC, Suezmax, Aframax and Panamax**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac8d8ca7f1d3e344fef3795_Screenshot 2026-10-09 at 13.04.31.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](../../images/6ac8d8ca7f1d3e344fef3795_Screenshot 2026-10-09 at 13.04.31.png)
 
 
 ![Spot Rate Summary: Dirty TCE, VLCC, Suezmax, Aframax and Panamax](../../images/6ac8d8d837139c876c127e28_Screenshot 2026-10-09 at 13.04.43.png)
 
 > **Figure 7: Spot Rate Summary: Dirty TCE, VLCC, Suezmax, Aframax and Panamax**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac8d8d837139c876c127e28_Screenshot 2026-10-09 at 13.04.43.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](../../images/6ac8d8d837139c876c127e28_Screenshot 2026-10-09 at 13.04.43.png)
 
 *Freight/TCE: Signal, latest weekly spot assessment (CSV export of 9 October 2026), $/day. All changes are percentages. n/m means the prior-period TCE is non-positive, so a percentage comparison is not meaningful.*
 
@@ -137,7 +137,7 @@ The clean market shows a widening divergence between LR2 and MR earnings. East o
 ![Spot Rate Summary: Dirty TCE, VLCC, Suezmax, Aframax and Panamax](../../images/6ac8d9f4e0cc34638a61cb25_b789b09c.png)
 
 > **Figure 8: Spot Rate Summary: Dirty TCE, VLCC, Suezmax, Aframax and Panamax**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac8d9f4e0cc34638a61cb25_b789b09c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](../../images/6ac8d9f4e0cc34638a61cb25_b789b09c.png)
 
 **Chart 5.** *Clean tanker spot TCE by route, LR2/LR1 and MR, East vs West of Suez, current vs previous week ($/day).*
 
@@ -150,7 +150,7 @@ The clean market shows a widening divergence between LR2 and MR earnings. East o
 ![Spot Rate Summary: Clean TCE, Lr2, Lr1, Mr and Handy](../../images/6ac8d8ff7f1d3e344fef4f77_Screenshot 2026-10-09 at 13.04.56.png)
 
 > **Figure 9: Spot Rate Summary: Clean TCE, Lr2, Lr1, Mr and Handy**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac8d8ff7f1d3e344fef4f77_Screenshot 2026-10-09 at 13.04.56.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](../../images/6ac8d8ff7f1d3e344fef4f77_Screenshot 2026-10-09 at 13.04.56.png)
 
 *Freight/TCE: Signal, latest weekly spot assessment (CSV export of 9 October 2026), $/day. All changes are percentages. n/m means the prior-period TCE is non-positive, so a percentage comparison is not meaningful.*
 
@@ -182,7 +182,7 @@ Quoted war-risk premiums for **Saudi-linked tankers calling at Yanbu were around
 ![Exposure](../../images/6ac8d9113c97f013df25cb13_Screenshot 2026-10-09 at 13.05.05.png)
 
 > **Figure 10: Exposure**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac8d9113c97f013df25cb13_Screenshot 2026-10-09 at 13.05.05.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-40-2026) | [Local Asset](../../images/6ac8d9113c97f013df25cb13_Screenshot 2026-10-09 at 13.05.05.png)
 
 *Quoted war-risk premiums as a percentage of vessel value. Sources: Quotations reported 24 September 2026;*
 

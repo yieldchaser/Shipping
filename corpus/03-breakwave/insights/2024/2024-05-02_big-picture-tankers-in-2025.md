@@ -31,14 +31,14 @@ The evolving relationship between oil production and oil demand could fuel that 
 ![Market Chart 1](assets/2024-05-02_big-picture-tankers-in-2025_img_image001_28ea8bae36ce.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_image001_28ea8bae36ce.jpg)
+> [Local Asset](assets/2024-05-02_big-picture-tankers-in-2025_img_image001_28ea8bae36ce.jpg)
 
 To top it all, this year’s bearish themes are looking a little less bearish. The Dos Bocas refinery in Mexico and Dangote’s in Nigeria were expected to cut exports of crude oil in both regions, and imports of refined products. Instead, Dangote is now tying up VLCCs and Suezmaxes on lengthy demurrage, and Dos Bocas looks set to lengthen US supply chains when it eventually starts. Tighter sanctions on Iran’s ageing shadow fleet could open the door for Saudi Arabia to release more oil into the international spot fleet.
 
 ![Market Chart 2](assets/2024-05-02_big-picture-tankers-in-2025_img_image1_aaa147b2dc17.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_image1_aaa147b2dc17.png)
+> [Local Asset](assets/2024-05-02_big-picture-tankers-in-2025_img_image1_aaa147b2dc17.png)
 
 ### Enter the Mega-Bulls
 
@@ -63,7 +63,7 @@ For one, average speed has room to increase. EEXI may have cut the maximum speed
 ![Στιγμιότυπο Οθόνης 2024 05 02 103159](assets/2024-05-02_big-picture-tankers-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a3c6aa29ed6.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 05 02 103159**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a3c6aa29ed6.png)
+> [Local Asset](assets/2024-05-02_big-picture-tankers-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a3c6aa29ed6.png)
 
 When rate spikes present themselves, charterers also still have plenty of levers to pull. First, they will hide cargoes, as demonstrated once again by Chinese VLCC fixtures in the Mid East this week. Then they will delay cargoes. Then they will loosen self-imposed age-restrictions to increase the pool of acceptable ships.
 
@@ -74,7 +74,7 @@ On average, non-stationary earnings days (i.e. excluding floating storage employ
 ![Market Chart 4](assets/2024-05-02_big-picture-tankers-in-2025_img_image3_dc8939209f1a.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_image3_dc8939209f1a.png)
+> [Local Asset](assets/2024-05-02_big-picture-tankers-in-2025_img_image3_dc8939209f1a.png)
 
 ### Retirement Delayed
 
@@ -85,7 +85,7 @@ The tanker market is no stranger to fixing ships over 19 years old. In the late 
 ![Στιγμιότυπο Οθόνης 2024 05 02 103600](assets/2024-05-02_big-picture-tankers-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b277e15ef37b.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 05 02 103600**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b277e15ef37b.png)
+> [Local Asset](assets/2024-05-02_big-picture-tankers-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b277e15ef37b.png)
 
 It is reasonable to assume that few of these older tankers will head for the beaches over the next two years. Indeed, Russia-trading tankers are finding willing non-sanctioned trading buyers on the second-hand market. As such, a full 18% of the world tanker capacity is likely to be over 19 years old in 2025.
 
@@ -100,12 +100,12 @@ Red Sea diversions have added tonne miles, but they have also shown that, for cr
 ![Market Chart 6](assets/2024-05-02_big-picture-tankers-in-2025_img_image5_4dfad0050b34.png)
 
 > **Figure 6: Market Chart 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_image5_4dfad0050b34.png)
+> [Local Asset](assets/2024-05-02_big-picture-tankers-in-2025_img_image5_4dfad0050b34.png)
 
 ![Market Chart 7](assets/2024-05-02_big-picture-tankers-in-2025_img_image6_a81478c5873e.png)
 
 > **Figure 7: Market Chart 7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-02_big-picture-tankers-in-2025_img_image6_a81478c5873e.png)
+> [Local Asset](assets/2024-05-02_big-picture-tankers-in-2025_img_image6_a81478c5873e.png)
 
 ### Buffers Intact
 

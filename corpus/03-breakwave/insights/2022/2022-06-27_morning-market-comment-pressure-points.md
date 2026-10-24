@@ -34,7 +34,7 @@ At current levels, risk assets are pricing in aggressive quantitative tightening
 ![Market Chart 1](assets/2022-06-27_morning-market-comment-pressure-points_img_unnamed28229_3623cd3d9d5b.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-27_morning-market-comment-pressure-points_img_unnamed28229_3623cd3d9d5b.jpg)
+> [Local Asset](assets/2022-06-27_morning-market-comment-pressure-points_img_unnamed28229_3623cd3d9d5b.jpg)
 
 What they are not pricing in is a full-blown global economic recession and the rising possibility of systemic events as liquidity is withdrawn and economic pressures mount.
 
@@ -78,6 +78,6 @@ Certain economies are also in larger peril than others.
 ![Britain:](assets/2022-06-27_morning-market-comment-pressure-points_img_unnamed28329_d611502da7fd.jpg)
 
 > **Figure 2: Britain:**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-27_morning-market-comment-pressure-points_img_unnamed28329_d611502da7fd.jpg)
+> [Local Asset](assets/2022-06-27_morning-market-comment-pressure-points_img_unnamed28329_d611502da7fd.jpg)
 
 Investors will probably spend the next few months looking at the potential emergence of systemic risks. Only when, and if, that danger has been removed will markets begin to see sustainable recovery.

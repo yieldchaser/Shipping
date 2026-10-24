@@ -39,7 +39,7 @@ Last year also saw a jump in iron ore imports from Liberia to near 10m tonnes—
 ![Στιγμιότυπο Οθόνης 2026 02 18 112329](assets/2026-02-18_liberias-iron-ore-ramp-up-aims-to-boost-capesize-demand-in-2026_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_afb5e588caf8.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 02 18 112329**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-18_liberias-iron-ore-ramp-up-aims-to-boost-capesize-demand-in-2026_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_afb5e588caf8.png)
+> [Local Asset](assets/2026-02-18_liberias-iron-ore-ramp-up-aims-to-boost-capesize-demand-in-2026_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_afb5e588caf8.png)
 
 While small at present, there is scope for a sizeable jump in the Capesize share, as preparations are made for regular callings of larger vessels through 2026.
 

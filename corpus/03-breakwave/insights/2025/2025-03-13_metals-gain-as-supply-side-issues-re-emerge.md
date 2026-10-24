@@ -27,7 +27,7 @@ Lower-than-expected consumer inflation sparked a risk-on tone across markets. Su
 ![Στιγμιότυπο Οθόνης 2025 03 13 102558](assets/2025-03-13_metals-gain-as-supply-side-issues-re-emerge_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eec36d8baad3.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 03 13 102558**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-13_metals-gain-as-supply-side-issues-re-emerge_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eec36d8baad3.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-03-13_metals-gain-as-supply-side-issues-re-emerge_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eec36d8baad3.png)
 
 ### Market Commentary
 
@@ -46,7 +46,7 @@ Inventories of zinc in LME warehouses are falling sharply due to supply tightnes
 ![Στιγμιότυπο Οθόνης 2025 03 13 102715](assets/2025-03-13_metals-gain-as-supply-side-issues-re-emerge_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_019eeeb1987f.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 03 13 102715**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-13_metals-gain-as-supply-side-issues-re-emerge_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_019eeeb1987f.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-03-13_metals-gain-as-supply-side-issues-re-emerge_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_019eeeb1987f.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

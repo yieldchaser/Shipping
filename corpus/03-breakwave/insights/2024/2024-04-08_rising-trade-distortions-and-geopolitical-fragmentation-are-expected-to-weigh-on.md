@@ -35,7 +35,7 @@ Looking ahead, Australia’s Department of Industry, Science, and Resources anti
 ![Doric 1 8.4](assets/2024-04-08_rising-trade-distortions-and-geopolitical-fragmentation-are-expected-to-weigh-on_img_doric184_8f28a172d1d7.png)
 
 > **Figure 1: Doric 1 8.4**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-08_rising-trade-distortions-and-geopolitical-fragmentation-are-expected-to-weigh-on_img_doric184_8f28a172d1d7.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-04-08_rising-trade-distortions-and-geopolitical-fragmentation-are-expected-to-weigh-on_img_doric184_8f28a172d1d7.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

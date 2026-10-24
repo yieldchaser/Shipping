@@ -33,7 +33,7 @@ Per vessel class category, Panamax and Handysize vessels have absorbed a higher 
 ![Market Chart 1](assets/2024-07-18_xbnwv034u0p3qm4d5yt7shngqf3zxk_img_unnamed_beec7ee0089c.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/st-estimates-in-second-quarter/2qd9v1/424453770/h/SxogwAUFzPHOSlglpbTUxe5tUH4pv7EsojFAS0t1yFw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-18_xbnwv034u0p3qm4d5yt7shngqf3zxk_img_unnamed_beec7ee0089c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/st-estimates-in-second-quarter/2qd9v1/424453770/h/SxogwAUFzPHOSlglpbTUxe5tUH4pv7EsojFAS0t1yFw) | [Local Asset](assets/2024-07-18_xbnwv034u0p3qm4d5yt7shngqf3zxk_img_unnamed_beec7ee0089c.png)
 
 The third week of July concluded with a notable decline in the Capesize Brazil to North China rates, signaling a shift towards weaker market conditions exacerbated by an increasing number of ballast vessels in the SE Africa region. This rise in ballast vessels suggests a potential oversupply scenario looming ahead. Concurrently, the growth in demand tonne days indicates a subdued weekly percentage increase, indicating a cautious outlook for July, particularly in the larger vessel size segments.
 
@@ -44,7 +44,7 @@ In the[iron ore market,](https://go.signalocean.com/e/983831/st-estimates-in-sec
 ![Στιγμιότυπο Οθόνης 2024 07 18 135604](assets/2024-07-18_xbnwv034u0p3qm4d5yt7shngqf3zxk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d191274e38bb.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 07 18 135604**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-18_xbnwv034u0p3qm4d5yt7shngqf3zxk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d191274e38bb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-07-18_xbnwv034u0p3qm4d5yt7shngqf3zxk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d191274e38bb.png)
 
 In the third week of July, the dry bulk freight market witnessed a decline in rates for the Cape Brazil to North China routes. In contrast, the Panamax Continental Far East rates showed a stronger performance. Meanwhile, the smaller vessel size segments maintained resistance, suggesting a stable or stronger outlook.
 
@@ -56,7 +56,7 @@ In the third week of July, the dry bulk freight market witnessed a decline in ra
 ![Στιγμιότυπο Οθόνης 2024 07 18 135617](assets/2024-07-18_xbnwv034u0p3qm4d5yt7shngqf3zxk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f3b9e1ae8fa0.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 07 18 135617**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-18_xbnwv034u0p3qm4d5yt7shngqf3zxk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f3b9e1ae8fa0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-07-18_xbnwv034u0p3qm4d5yt7shngqf3zxk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f3b9e1ae8fa0.png)
 
 In the third week of July, the Cape and Panamax SE Africa markets, which had been on a declining trend in previous weeks, showed a reversal with an upward movement. Similar increases were also observed in the smaller vessel size segments.
 
@@ -68,7 +68,7 @@ In the third week of July, the Cape and Panamax SE Africa markets, which had bee
 ![Στιγμιότυπο Οθόνης 2024 07 18 140339](assets/2024-07-18_xbnwv034u0p3qm4d5yt7shngqf3zxk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bb7b737864fd.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 07 18 140339**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-18_xbnwv034u0p3qm4d5yt7shngqf3zxk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bb7b737864fd.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-07-18_xbnwv034u0p3qm4d5yt7shngqf3zxk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bb7b737864fd.png)
 
 In the third week of July, the outlook for dry tonne days indicated a weakening trend. Both the large vessel size segment and the Handysize experienced signs of slower growth. In contrast, the Supramax segment maintained a more robust outlook.
 
@@ -80,7 +80,7 @@ In the third week of July, the outlook for dry tonne days indicated a weakening 
 ![Στιγμιότυπο Οθόνης 2024 07 18 140448](assets/2024-07-18_xbnwv034u0p3qm4d5yt7shngqf3zxk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee9102142ea9.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 07 18 140448**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-18_xbnwv034u0p3qm4d5yt7shngqf3zxk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee9102142ea9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-07-18_xbnwv034u0p3qm4d5yt7shngqf3zxk_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee9102142ea9.png)
 
 In the third week of July, Chinese dry bulk port congestion continued its upward trend from the previous week, reaching a new peak for the current year.
 

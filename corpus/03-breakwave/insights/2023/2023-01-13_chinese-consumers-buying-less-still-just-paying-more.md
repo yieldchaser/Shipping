@@ -26,6 +26,6 @@ As we have been stressing in our Weekly China Reports, inflation exceeding retai
 ![Chart 1 (69)](assets/2023-01-13_chinese-consumers-buying-less-still-just-paying-more_img_chart1286929_ca4ae9fec2aa.jpg)
 
 > **Figure 1: Chart 1 (69)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-13_chinese-consumers-buying-less-still-just-paying-more_img_chart1286929_ca4ae9fec2aa.jpg)
+> [Local Asset](assets/2023-01-13_chinese-consumers-buying-less-still-just-paying-more_img_chart1286929_ca4ae9fec2aa.jpg)
 
 More recent data has also shown that inflation again exceeded retail sales growth in November. Retail sales contracted year-on-year by 5.9% in November, while inflation grew year-on-year by 1.6%. December’s data, when it is published, is also all but guaranteed to show a fourth straight month of inflation exceeding retail sales growth, and this month is extremely likely to mark a fifth straight month as coronavirus cases have continued to surge. Consumers in China are still not actually buying more goods compared to a year ago. They are only paying more.

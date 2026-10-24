@@ -27,14 +27,14 @@ As we discussed in Commodore Research's most recent Weekly Executive Report, an 
 ![Chart 1](assets/2026-02-04_chinas-thermal-coal-consumption-has-recently-exceeded-new-supply_img_chart1_364c80801d26.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-04_chinas-thermal-coal-consumption-has-recently-exceeded-new-supply_img_chart1_364c80801d26.jpg)
+> [Local Asset](assets/2026-02-04_chinas-thermal-coal-consumption-has-recently-exceeded-new-supply_img_chart1_364c80801d26.jpg)
 
 While total thermal coal consumption came in at a robust 407 million tons, new supply of thermal coal that month came in at 393.5 million tons. It is normal for China’s thermal coal demand to exceed supply in December and during other winter months. Noteworthy, too, though, is that prior to December, supply had exceeded demand in seven of the prior nine months. During those months, there was a surplus in thermal coal and stockpiles increased.
 
 ![Chart 2](assets/2026-02-04_chinas-thermal-coal-consumption-has-recently-exceeded-new-supply_img_chart2_8aadc977020e.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-04_chinas-thermal-coal-consumption-has-recently-exceeded-new-supply_img_chart2_8aadc977020e.jpg)
+> [Local Asset](assets/2026-02-04_chinas-thermal-coal-consumption-has-recently-exceeded-new-supply_img_chart2_8aadc977020e.jpg)
 
 ---
 

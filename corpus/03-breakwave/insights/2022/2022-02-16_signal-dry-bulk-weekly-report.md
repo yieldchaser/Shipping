@@ -35,7 +35,7 @@ In the grain market, Argentina’s dry weather during December and early January
 ![Ch1](assets/2022-02-16_signal-dry-bulk-weekly-report_img_ch1_3c6b1964cdae.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-16_signal-dry-bulk-weekly-report_img_ch1_3c6b1964cdae.png)
+> [Local Asset](assets/2022-02-16_signal-dry-bulk-weekly-report_img_ch1_3c6b1964cdae.png)
 
 - Capesize Brazil to NChina rates are nearing $25/t and keep rising following the ending of Asian festivities. The recent upturn of the market will be questioned in the next few days by the iron ore price fundamentals and Chinese demand for raw materials. The performance of rates is still below the peak of Week 49, 2021 ~$30/t.
 
@@ -52,7 +52,7 @@ Supply Trend Lines for Key Load Areas
 ![Ch2](assets/2022-02-16_signal-dry-bulk-weekly-report_img_ch2_733f5c31956c.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-16_signal-dry-bulk-weekly-report_img_ch2_733f5c31956c.png)
+> [Local Asset](assets/2022-02-16_signal-dry-bulk-weekly-report_img_ch2_733f5c31956c.png)
 
 - The ballasters’ view has started to signal a slight downward correction for the large vessel size categories, while, in the smaller sizes, supramax and handysize, there is still an increase that will shake the recent rates recovery seen.
 
@@ -67,7 +67,7 @@ Supply Trend Lines for Key Load Areas
 ![Ch3](assets/2022-02-16_signal-dry-bulk-weekly-report_img_ch3_d7ba2b1534eb.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-16_signal-dry-bulk-weekly-report_img_ch3_d7ba2b1534eb.png)
+> [Local Asset](assets/2022-02-16_signal-dry-bulk-weekly-report_img_ch3_d7ba2b1534eb.png)
 
 - The dry bulk demand evolution is still in a downward trend for the large vessel sizes, however, the increased Russian-Ukraine tensions trigger higher demand in the supramax segment fuelling the upturn of rates.
 
@@ -82,7 +82,7 @@ Supply Trend Lines for Key Load Areas
 ![Ch4](assets/2022-02-16_signal-dry-bulk-weekly-report_img_ch4_0138b51ccc07.png)
 
 > **Figure 4: Ch4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-16_signal-dry-bulk-weekly-report_img_ch4_0138b51ccc07.png)
+> [Local Asset](assets/2022-02-16_signal-dry-bulk-weekly-report_img_ch4_0138b51ccc07.png)
 
 - The second week of February continues the accelerated pace of the first days of February with a congestion increase, stemming mainly this week from the supramax, instead of Panamax, and handysize. Handysize congestion has not yet shown any signs of decrease since the beginning of this year.
 

@@ -29,7 +29,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/dry/dynamic/market-Prices-Dry**  
 > *https://app.signalocean.com/dry/dynamic/market-prices-dry*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-14-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67ecedad57a0de541795107d_AD_4nXe2EgJZF_Oj_q7Nsg9R4cvOJnCuLantw-p2h08_0KFkDQD3IFqQd6Cd5VWHE08Ku4SuC6A7e6J5wYlEwIAGt6HOe0CaMk0sIgwCp6jeiUAiKR9FrlNBLa_NcvWFcZn2FSA_8Y3HeA.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-14-2025) | [Local Asset](../../images/67ecedad57a0de541795107d_AD_4nXe2EgJZF_Oj_q7Nsg9R4cvOJnCuLantw-p2h08_0KFkDQD3IFqQd6Cd5VWHE08Ku4SuC6A7e6J5wYlEwIAGt6HOe0CaMk0sIgwCp6jeiUAiKR9FrlNBLa_NcvWFcZn2FSA_8Y3HeA.png)
 
 
 ## Supramax Market Analysis: S8 Route Surges Amidst Tightening Tonnage Supply

@@ -39,14 +39,14 @@ Inflation numbers from the US confirmed that macroeconomics are not driving the 
 ![241](assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_241_2b9680226e27.png)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_241_2b9680226e27.png)
+> [Local Asset](assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_241_2b9680226e27.png)
 
 The bond market is now pricing in 3.5 cuts later in the year, a far cry from the 7 cuts six weeks ago and much closer to the Fed’s own projection for 3.
 
 ![$2.jpeg](assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_242jpeg_7c3c1e84da76.jpg)
 
 > **Figure 2: $2.jpeg**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_242jpeg_7c3c1e84da76.jpg)
+> [Local Asset](assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_242jpeg_7c3c1e84da76.jpg)
 
 The equity market corrected a bit, but this didn’t last long. A 2% intra-day drop was limited to -1.44% by the end of the session, and bullishness resumed thereafter. The S&P 500 is roughly where it was before the CPI announcement.
 
@@ -55,35 +55,35 @@ Having said that, bond markets never really found their way to December’s bull
 ![243](assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_243_fb1f8e8fc07c.png)
 
 > **Figure 3: 243**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_243_fb1f8e8fc07c.png)
+> [Local Asset](assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_243_fb1f8e8fc07c.png)
 
 despite the fact that credit spreads remain relatively tight.
 
 ![244](assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_244_713c7c613793.png)
 
 > **Figure 4: 244**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_244_713c7c613793.png)
+> [Local Asset](assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_244_713c7c613793.png)
 
 There’s no other way to read this, other than the market simply being in a bullish mood. If anyone has any doubts, Bitcoin (a bellwether of optimism if there has ever been one) is trading back above $50k.
 
 ![245](assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_245_c0c09a93a648.png)
 
 > **Figure 5: 245**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_245_c0c09a93a648.png)
+> [Local Asset](assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_245_c0c09a93a648.png)
 
 Let’s focus on tech equities, however, as they clearly are the key drivers of the rally. Nvidia, a global chip maker and key driver of this rally, now boasts a capitalisation higher than the whole of the S&P 500 Energy sector. The company trades at 93x times its last year's earnings, 58x times its earnings for this year and 34x times its predicted earnings for next year. This implies a +60% rise in profits for the next couple of years, for a company that’s been listed for over two decades.
 
 ![246](assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_246_cc8a481c19a8.png)
 
 > **Figure 6: 246**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_246_cc8a481c19a8.png)
+> [Local Asset](assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_246_cc8a481c19a8.png)
 
 It’s not just Nvidia, but in fact all of the companies participating in the global chip-making supply chain that have made significant gains since October.
 
 ![247](assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_247_ca9ba6ccf4f4.png)
 
 > **Figure 7: 247**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_247_ca9ba6ccf4f4.png)
+> [Local Asset](assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_247_ca9ba6ccf4f4.png)
 
 Much as I hate exorbitant valuations, there’s some reasoning behind the exuberance. As electric vehicles take off (EVs require double the number of microchips versus a conventional car), countries hoard chips and companies compete for the next AI-based app, demand for microchips is soaring, while supply is limited. Taiwan, the world’s premier manufacturer of microchips is under the microscope by both the East and the West, in a way oil-producing Arab countries were in the beginning of the 20th century.
 
@@ -100,7 +100,7 @@ A 1994 article in Time Magazine, introduced readers to the internet
 ![248](assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_248_1518bf86d868.png)
 
 > **Figure 8: 248**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_248_1518bf86d868.png)
+> [Local Asset](assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_248_1518bf86d868.png)
 
 Reading the article, their advice was mostly about using the internet to send emails. Yet, a few years later, by 1999, tech valuations had become exorbitant. “No company can exist unless it’s online”, tech gurus proclaimed. They proved right, but it took another decade and a half from that point.**So, the first risk is simply that we don’t know much about what lies ahead.**For tech to become ubiquitous enough to spur meaningful change, it may take more time than anticipated. Or that change can take a wildly different direction than we currently anticipate. We don’t understand much more about AI than we did about the internet in 1994. A lot of the high valuations we see may simply reflect our wish to invest early rather than late. Investing in microchips makes some sense, in that they are the key building blocks. But at current valuations, the assumption is that demand will take off.
 
@@ -113,7 +113,7 @@ While this is still the case, for various technical reasons, while we can keep a
 ![249](assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_249_fb2e8913aa61.png)
 
 > **Figure 9: 249**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_249_fb2e8913aa61.png)
+> [Local Asset](assets/2024-02-20_the-equity-rally-and-the-perilous-promises-of-artificial-intelligence_img_249_fb2e8913aa61.png)
 
 While there are many interesting ways being developed to engineer even more efficient microchips, it may just be that quantum computing, a new form of computing altogether, could upend conventional computing. A quantum computer, in theory, can perform calculations much faster than a conventional computer. Comparing the two would be like comparing Turing’s engine to your smartphone. While efforts to create one have not yet succeeded (that we know of), and we are possibly at least a good decade away from any sort of commercial use, quantum computers could soon become a reality. Such a high-level technology would be the natural home to high-performing Artificial Intelligence, which can, in theory, exist without Nvidia and other chip makers doubling their long-term profits each year.
 

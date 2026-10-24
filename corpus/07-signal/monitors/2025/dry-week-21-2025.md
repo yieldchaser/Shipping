@@ -31,7 +31,7 @@ tags:
 ![682f1d4a2323b13a7943ee23 Ad 4nxcxooi6amm0hlrsfbmrn7ouyuldwfsee76nnh5lc64 Lcqbixnfxgi3ukefoemdt1b8jcyonpqlbaqjsdbrw Bcs Elxxexjzqef B1 Ed65dadw1efrg Bxj4nkbzrkjyht9rydq](../../images/682f1d4a2323b13a7943ee23_AD_4nXcxOOi6AMM0HLRSfbMRn7OuYUlDwFSEE76NnH5lC64-LCQbiXnFxGi3uKEfoEmDT1b8JcyONpQLBaqjsDbrw-bcs-elxXExJZqEf_b1-ED65dadW1eFrg-bxJ4NKbzRKjYHT9RydQ.png)
 
 > **Figure 1: 682f1d4a2323b13a7943ee23 Ad 4nxcxooi6amm0hlrsfbmrn7ouyuldwfsee76nnh5lc64 Lcqbixnfxgi3ukefoemdt1b8jcyonpqlbaqjsdbrw Bcs Elxxexjzqef B1 Ed65dadw1efrg Bxj4nkbzrkjyht9rydq**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-21-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/682f1d4a2323b13a7943ee23_AD_4nXcxOOi6AMM0HLRSfbMRn7OuYUlDwFSEE76NnH5lC64-LCQbiXnFxGi3uKEfoEmDT1b8JcyONpQLBaqjsDbrw-bcs-elxXExJZqEf_b1-ED65dadW1eFrg-bxJ4NKbzRKjYHT9RydQ.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-21-2025) | [Local Asset](../../images/682f1d4a2323b13a7943ee23_AD_4nXcxOOi6AMM0HLRSfbMRn7OuYUlDwFSEE76NnH5lC64-LCQbiXnFxGi3uKEfoEmDT1b8JcyONpQLBaqjsDbrw-bcs-elxXExJZqEf_b1-ED65dadW1eFrg-bxJ4NKbzRKjYHT9RydQ.png)
 
 *https://app.signalocean.com/dry/dynamic/orderbook\_dry*
 

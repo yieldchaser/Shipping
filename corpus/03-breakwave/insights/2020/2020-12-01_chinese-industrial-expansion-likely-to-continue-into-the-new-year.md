@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-12-01_chinese-industrial-ex
 
 > **Figure 1: Copper (Rhs) Vs**  
 > *Copper (RHS) vs. Gold (LHS)*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-01_chinese-industrial-expansion-likely-to-continue-into-the-new-year_img_australiachina_ef1989f91ba4.jpg)
+> [Local Asset](assets/2020-12-01_chinese-industrial-expansion-likely-to-continue-into-the-new-year_img_australiachina_ef1989f91ba4.jpg)
 
 China is firmly positioning itself as the only major economy that will see the end of the year from a position of strength. The most recent purchasing managers’ index data released are pointing towards an accelerating economy, with most components increasing from the previous month’s levels. The manufacturing sector recorded its highest level for over three years and was also higher than the economists’ expectations. Trade indicators also expanded, as both exports and imports are continuing to show healthy gains.
 
@@ -37,7 +37,7 @@ The continued strength of the Chinese economy keeps pushing market prices of ind
 ![Copper (Rhs) vs. Gold (Lhs)](assets/2020-12-01_chinese-industrial-expansion-likely-to-continue-into-the-new-year_img_image-asset_50d0dd4a73c9.jpeg)
 
 > **Figure 2: Copper (Rhs) vs. Gold (Lhs)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-01_chinese-industrial-expansion-likely-to-continue-into-the-new-year_img_image-asset_50d0dd4a73c9.jpeg)
+> [Local Asset](assets/2020-12-01_chinese-industrial-expansion-likely-to-continue-into-the-new-year_img_image-asset_50d0dd4a73c9.jpeg)
 
 It is clearly open for debate if Australian commodity exports can benefit from the continued industrial expansion in China, as relations between the two countries appear to get more strained by the day. Recent developments include new punitive tariffs on Australian wines, which are likely to cause serious damage to the producers, and Australia demanding an apology over photos published by the Chinese foreign ministry. Australia is, by a considerable margin, China’s largest provider of iron ore, which has so far not been included in the ongoing trade spat. However, it begs the question if rising tensions will see it remaining largely unaffected going forward. Any additional volumes required may well be sourced at more distant shores, with volumes already increasing from South Africa and Brazil.
 

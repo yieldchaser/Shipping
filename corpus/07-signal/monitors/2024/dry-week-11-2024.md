@@ -31,7 +31,7 @@ tags:
 ![65f1820c64dc070a5555db82 South Atlantic Demand Capesize](../../images/65f1820c64dc070a5555db82_SOUTH ATLANTIC DEMAND CAPESIZE.png)
 
 > **Figure 1: 65f1820c64dc070a5555db82 South Atlantic Demand Capesize**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-11-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/65f1820c64dc070a5555db82_SOUTH ATLANTIC DEMAND CAPESIZE.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-11-2024) | [Local Asset](../../images/65f1820c64dc070a5555db82_SOUTH ATLANTIC DEMAND CAPESIZE.png)
 
 During the second week of March, there's a notable surge in freight rates, particularly in the larger vessel categories, accentuated by a diminishing number of ballasters. The demand indicator reflected in the volume of South Atlantic daily loaded shipments appeared robust and exceeded the benchmark demand as indicated by the 7-day moving average.
 

@@ -31,7 +31,7 @@ From Reuters:
 ![Adjustments](assets/2020-06-22_krskswagmtg8pc1kw0kk6b2aekjqg5_img_adjustments_31ca4cf14510.jpeg)
 
 > **Figure 1: Adjustments**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-22_krskswagmtg8pc1kw0kk6b2aekjqg5_img_adjustments_31ca4cf14510.jpeg)
+> [Local Asset](assets/2020-06-22_krskswagmtg8pc1kw0kk6b2aekjqg5_img_adjustments_31ca4cf14510.jpeg)
 
 Equity futures also weakened on the news. In the past, such news headlines also had a negative impact on dry bulk shipping, especially the Panamax and Supramax segments as China’s purchases of US soybeans increase demand for those vessel sizes, especially during the second half of each year.
 

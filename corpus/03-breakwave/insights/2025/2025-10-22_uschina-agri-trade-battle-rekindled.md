@@ -35,7 +35,7 @@ By September 2025, China had recorded zero U.S. soybean imports for the first ti
 ![Στιγμιότυπο Οθόνης 2025 10 22 091851](assets/2025-10-22_uschina-agri-trade-battle-rekindled_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_320ee34c9125.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 10 22 091851**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-22_uschina-agri-trade-battle-rekindled_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_320ee34c9125.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-10-22_uschina-agri-trade-battle-rekindled_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_320ee34c9125.png)
 
 ### Soybean Producers Back Under Pressure
 
@@ -52,7 +52,7 @@ The policy moves immediately boosted Argentina’s FOB competitiveness, triggeri
 ![Στιγμιότυπο Οθόνης 2025 10 22 092157](assets/2025-10-22_uschina-agri-trade-battle-rekindled_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3e5d331e12b4.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 10 22 092157**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-22_uschina-agri-trade-battle-rekindled_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3e5d331e12b4.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-10-22_uschina-agri-trade-battle-rekindled_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3e5d331e12b4.png)
 
 ### Argentina’s Tax Suspension Shifts Trade Flows
 
@@ -71,7 +71,7 @@ With 1.4 billion people and the world’s largest hog herd, China remains irrepl
 ![Στιγμιότυπο Οθόνης 2025 10 22 092425](assets/2025-10-22_uschina-agri-trade-battle-rekindled_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0c05fb47f0c1.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 10 22 092425**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-22_uschina-agri-trade-battle-rekindled_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0c05fb47f0c1.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-10-22_uschina-agri-trade-battle-rekindled_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0c05fb47f0c1.png)
 
 ### Window
 

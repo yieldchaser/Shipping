@@ -31,7 +31,7 @@ tags:
 ![Chart of the Week: Indonesian Coal Flows Gradually Rebound](../../images/68cabeaa6c32520217a55a79_Screenshot 2025-09-17 at 14.56.45.png)
 
 > **Figure 1: Chart of the Week: Indonesian Coal Flows Gradually Rebound**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-38-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68cabeaa6c32520217a55a79_Screenshot 2025-09-17 at 14.56.45.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-38-2025) | [Local Asset](../../images/68cabeaa6c32520217a55a79_Screenshot 2025-09-17 at 14.56.45.png)
 
 Following a weak start to 2025, Indonesian thermal coal shipments are showing signs of recovery. June marked the lowest monthly volume of the year at around 35 million tonnes, but by August exports had rebounded to nearly 48 million tonnes, surpassing year-ago levels. While first-half flows totaled 236.4 million tonnes, down from 263.0 million tonnes in 1H 2024, the strong August performance suggests some of the earlier contraction may be offset in the second half.
 

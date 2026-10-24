@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-04-28_chinese-coal-demand-t
 ![Klav Pic](assets/2021-04-28_chinese-coal-demand-to-remain-strong_img_klavpic_edbb3f50e3f5.png)
 
 > **Figure 1: Klav Pic**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-28_chinese-coal-demand-to-remain-strong_img_klavpic_edbb3f50e3f5.png)
+> [Local Asset](assets/2021-04-28_chinese-coal-demand-to-remain-strong_img_klavpic_edbb3f50e3f5.png)
 
 As we have been discussing in our Weekly China Reports, it has been very encouraging for the dry bulk market that China's coal-derived electricity generation growth returned to exceeding coal production growth last month. Coal-derived electricity generation rose year-on-year by 27% in March, while coal production was flat. In addition, another key theme in our reports in recent months has been that China's coal-derived electricity generation has been poised to stay strong even as renewable sources of electricity continue to experience their own production increases. This remains our view, and further adding to our conviction has been the announcement from the government last week that China will only start reducing coal consumption beginning in 2026.
 
@@ -38,7 +38,7 @@ Going forward, we remain bullish for China’s near-term coal import prospects. 
 ![Commodore April 26](assets/2021-04-28_chinese-coal-demand-to-remain-strong_img_commodoreapril26_ed6d89d7e9aa.jpg)
 
 > **Figure 2: Commodore April 26**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-28_chinese-coal-demand-to-remain-strong_img_commodoreapril26_ed6d89d7e9aa.jpg)
+> [Local Asset](assets/2021-04-28_chinese-coal-demand-to-remain-strong_img_commodoreapril26_ed6d89d7e9aa.jpg)
 
 ---
 

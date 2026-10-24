@@ -65,7 +65,7 @@ Investors are uncertain and pandemic-era bearish.
 ![Market Chart 1](assets/2025-03-26_just-how-much-should-we-be-afraid_img_image006_58ab2ace5cc8.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-26_just-how-much-should-we-be-afraid_img_image006_58ab2ace5cc8.jpg)
+> [Local Asset](assets/2025-03-26_just-how-much-should-we-be-afraid_img_image006_58ab2ace5cc8.jpg)
 
 Portfolio managers are increasing their cash allocations and decreasing their US equity exposure at the fastest pace in a long time.
 
@@ -74,21 +74,21 @@ It is interesting that a week which saw some mean reversion (equities bouncing, 
 ![Market Chart 2](assets/2025-03-26_just-how-much-should-we-be-afraid_img_image007_b6dcd326a0ee.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-26_just-how-much-should-we-be-afraid_img_image007_b6dcd326a0ee.jpg)
+> [Local Asset](assets/2025-03-26_just-how-much-should-we-be-afraid_img_image007_b6dcd326a0ee.jpg)
 
 It’s not just investors that are uncertain. Policymakers and -subsequently- policy-watchers are also uncertain. Despite a well-received Fed communication this week (where markets largely focused away from the slower growth/higher inflation narrative), the US central bankers are very uncertain about inflation risks.
 
 ![Market Chart 3](assets/2025-03-26_just-how-much-should-we-be-afraid_img_image008_17dd6fb66292.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-26_just-how-much-should-we-be-afraid_img_image008_17dd6fb66292.jpg)
+> [Local Asset](assets/2025-03-26_just-how-much-should-we-be-afraid_img_image008_17dd6fb66292.jpg)
 
 Businesses are also uncertain, despite the optimism. US businesses suggest that they are not very willing to either expand or pay more for ever-harder-to-find labour.
 
 ![Market Chart 4](assets/2025-03-26_just-how-much-should-we-be-afraid_img_image009_051b2663d9f1.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-26_just-how-much-should-we-be-afraid_img_image009_051b2663d9f1.jpg)
+> [Local Asset](assets/2025-03-26_just-how-much-should-we-be-afraid_img_image009_051b2663d9f1.jpg)
 
 British Businesses express more optimism in various surveys, but they're still at a cliff edge ahead of this week’s Spring Budget.
 
@@ -103,7 +103,7 @@ Here is a simplified version of one of the frameworks we use to assess market an
 ![Market Chart 5](assets/2025-03-26_just-how-much-should-we-be-afraid_img_image010_6dde9d267712.jpg)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-26_just-how-much-should-we-be-afraid_img_image010_6dde9d267712.jpg)
+> [Local Asset](assets/2025-03-26_just-how-much-should-we-be-afraid_img_image010_6dde9d267712.jpg)
 
 ### What Raises Risk
 

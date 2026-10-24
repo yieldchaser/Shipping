@@ -29,7 +29,7 @@ Week 08, February 20, 2025
 ![Στιγμιότυπο Οθόνης 2025 02 20 162853](assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d400821fa0cf.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 02 20 162853**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d400821fa0cf.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d400821fa0cf.png)
 
 The evolving geopolitical landscape surrounding the Russia-Ukraine war and global energy markets presents critical implications for crude oil supply and trade dynamics. As diplomatic efforts emerge to end the conflict, the oil market is closely monitoring potential changes in supply, demand, and pricing.
 
@@ -54,7 +54,7 @@ The ongoing shifts in crude oil trade, driven by sanctions and geopolitical stra
 ![Στιγμιότυπο Οθόνης 2025 02 20 163010](assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4a974868fa27.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 02 20 163010**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4a974868fa27.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4a974868fa27.png)
 
 ​​​​​Sentiment in the**dirty freight market**confirmed a firmer picture for this week, with**VLCC MEG/China routes**establishing a**firmer momentum**, driven by tightening vessel supply.
 
@@ -64,21 +64,21 @@ The ongoing shifts in crude oil trade, driven by sanctions and geopolitical stra
 ![Στιγμιότυπο Οθόνης 2025 02 20 163104](assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b965c9e7a14.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 02 20 163104**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b965c9e7a14.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0b965c9e7a14.png)
 
 - **LR2**AG freight rates showed stronger momentum than the previous week, reaching approximately WS130, reflecting a 26% increase month-over-month.
 
 ![Στιγμιότυπο Οθόνης 2025 02 20 164111](assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13ca901bdeb8.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 02 20 164111**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13ca901bdeb8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13ca901bdeb8.png)
 
 - **Panamax**Carib-to-USG rates maintained steady momentum at WS120, marking an 8% decline compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2025 02 20 164311](assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_092f1ed19434.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 02 20 164311**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_092f1ed19434.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_092f1ed19434.png)
 
 - **MR1**freight rates for Baltic-to-Continent shipments stood firmer at around WS195 —an increase of 35% quarterly.
 
@@ -87,7 +87,7 @@ The ongoing shifts in crude oil trade, driven by sanctions and geopolitical stra
 ![Στιγμιότυπο Οθόνης 2025 02 20 164452](assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_567c63ea4e51.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 02 20 164452**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_567c63ea4e51.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_567c63ea4e51.png)
 
 ​​​​​​The supply of crude tankers maintained its downward trend from earlier in February, with recent estimates suggesting levels remaining below the annual average on key routes in the month's final days.
 
@@ -99,12 +99,12 @@ The ongoing shifts in crude oil trade, driven by sanctions and geopolitical stra
 ![Στιγμιότυπο Οθόνης 2025 02 20 164541](assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a28b07984ed.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 02 20 164541**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a28b07984ed.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3a28b07984ed.png)
 
 ![Στιγμιότυπο Οθόνης 2025 02 20 164552](assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7436604893b2.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2025 02 20 164552**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7436604893b2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7436604893b2.png)
 
 - **Clean LR2 AG Jubail**: We observed a downward trend, with the number of vessels declining to the annual average of 11, followed by a significant spike two weeks ago.
 
@@ -113,14 +113,14 @@ The ongoing shifts in crude oil trade, driven by sanctions and geopolitical stra
 ![Στιγμιότυπο Οθόνης 2025 02 20 164711](assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_28744bb9b3b6.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 02 20 164711**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_28744bb9b3b6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_28744bb9b3b6.png)
 
 - **Dirty**tonne days: The growth rate of dirty tonne-days for VLCCs remained weak, with only a slight upward correction, still trailing well below the annual trend. In the Suezmax segment, a stronger recovery has been observed, while the Aframax segment has been moving at a pace nearly in line with the annual trend over the past three weeks.
 
 ![Στιγμιότυπο Οθόνης 2025 02 20 164808](assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5d38d245e152.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 02 20 164808**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5d38d245e152.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-20_the-evolution-of-russian-dirty-oil-flows-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5d38d245e152.png)
 
 - **Panamax**tonne days: The growth rate remained well below the recent weekly annual average, though early signs of a rebound have emerged, requiring further confirmation in the coming days of February.
 

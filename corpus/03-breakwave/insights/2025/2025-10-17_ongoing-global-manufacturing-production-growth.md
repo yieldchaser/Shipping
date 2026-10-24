@@ -29,21 +29,21 @@ In the European Union, manufacturing production has now grown on a year-on-year 
 ![Chart 1](assets/2025-10-17_ongoing-global-manufacturing-production-growth_img_chart1_50bf1d1f9631.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-17_ongoing-global-manufacturing-production-growth_img_chart1_50bf1d1f9631.jpg)
+> [Local Asset](assets/2025-10-17_ongoing-global-manufacturing-production-growth_img_chart1_50bf1d1f9631.jpg)
 
 In the United States, manufacturing production has now grown on a year-on-year basis for eight straight months. Previously, it had contracted on a year-on-year basis during nineteen of the prior twenty-two months.
 
 ![Chart 2](assets/2025-10-17_ongoing-global-manufacturing-production-growth_img_chart2_2ea1586c2e04.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-17_ongoing-global-manufacturing-production-growth_img_chart2_2ea1586c2e04.jpg)
+> [Local Asset](assets/2025-10-17_ongoing-global-manufacturing-production-growth_img_chart2_2ea1586c2e04.jpg)
 
 In South Korea, manufacturing production has now grown on a year-on-year basis during five of the last six months. Previously, it had contracted on a year-on-year basis during three of the prior five months.
 
 ![Chart 3](assets/2025-10-17_ongoing-global-manufacturing-production-growth_img_chart3_529afc305257.jpg)
 
 > **Figure 3: Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-17_ongoing-global-manufacturing-production-growth_img_chart3_529afc305257.jpg)
+> [Local Asset](assets/2025-10-17_ongoing-global-manufacturing-production-growth_img_chart3_529afc305257.jpg)
 
 ---
 

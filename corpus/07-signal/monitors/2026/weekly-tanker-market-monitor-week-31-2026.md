@@ -38,7 +38,7 @@ Throughout the first half of 2026, the crisis in the Strait of Hormuz has profou
 
 > **Figure 1: Venezuela Steps in as the Hormuz Crisis Re-Routes VLCC Trade Out of the Gulf**  
 > *Figure 1a. VLCC crude liftings by top load country, quarterly, Q1 2025–Q2 2026 (million tonnes).VLCC voyage data: AXSMarine (AXSInsights)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-31-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a6c5ce9e2c52825facc190c_1d987d94.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-31-2026) | [Local Asset](../../images/6a6c5ce9e2c52825facc190c_1d987d94.png)
 
 The contraction was concentrated in the Middle East Gulf. Combined VLCC liftings from Saudi Arabia, the UAE, Iraq and Kuwait fell from 163.3 million tonnes in Q2 2025 to 97.6 million tonnes in Q2 2026, a 40% reduction. Saudi Arabia dropped to 47.9mt (from 74.2mt), the UAE nearly halved to 19.7mt (from 37.3mt), and Iraqi and Kuwaiti liftings fell to 19.9mt and 10.1mt, respectively (from 35.8mt and 16.0mt), as reliable Strait of Hormuz passage became harder to secure.
 
@@ -49,7 +49,7 @@ Non-Middle East Gulf origins absorbed the redirected demand, lifting their combi
 
 > **Figure 1: Venezuela Steps in as the Hormuz Crisis Re-Routes VLCC Trade Out of the Gulf**  
 > *Figure 1b. VLCC liftings by load region, Q2 2025 vs Q2 2026 (million tonnes).VLCC voyage data: AXSMarine*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-31-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a6c5ce9e2c52825facc1912_9094fbac.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-31-2026) | [Local Asset](../../images/6a6c5ce9e2c52825facc1912_9094fbac.png)
 
 Venezuela recorded a marked increase in VLCC crude liftings during 2026. Volumes rose from 9 voyages (2.63mt) in Q1 to 22 voyages (6.46mt) in Q2, with the number of sailings more than doubling and the average cargo size reaching approximately 294kt per voyage. Identifiable operators accounted for 19 of the 22 Q2 voyages, representing 5.55mt of cargo. Trafigura was associated with 9 voyages (2.60 mt), followed by Greece's Kyklades Maritime with 3 voyages, while India's Reliance Industries and Mercuria were each linked to 2 voyages. Single voyages were associated with Maran Tankers, Oman Shipping and Korea's Sinokor.
 
@@ -58,7 +58,7 @@ Venezuela recorded a marked increase in VLCC crude liftings during 2026. Volumes
 
 > **Figure 1: Venezuela Steps in as the Hormuz Crisis Re-Routes VLCC Trade Out of the Gulf**  
 > *Figure 1c. Venezuela crude liftings by operator, Q2 2026 — 22 voyages, 6.46M t.Voyage data: AXSMarine*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-31-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a6c5ce9e2c52825facc190f_594c9c48.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-31-2026) | [Local Asset](../../images/6a6c5ce9e2c52825facc190f_594c9c48.png)
 
 **VLCC liftings, Q2 2026 vs Q2 2025:  Total 201.4mt (-22%)  ·  Middle East Gulf 97.6mt (-40%)  ·  Angola 28.1mt (from 7.3)  ·  RoW 66.5mt (+35%)  ·  Venezuela 6.5mt (22 voyages)**
 
@@ -79,7 +79,7 @@ The Baltic Dirty Tanker Index stands at 2,607 on 29 July, up roughly 9% (207 poi
 
 > **Figure 2: Baltic Dirty Tanker Index (BDTI), 2023–2026; Latest 2,607 on 29 July 2026.index: Baltic Exchange Via Signal Ocean**  
 > *Figure 2. Baltic Dirty Tanker Index (BDTI), 2023–2026; latest 2,607 on 29 July 2026.Index: Baltic Exchange via Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-31-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a6c5ce9e2c52825facc1918_dc8d2040.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-31-2026) | [Local Asset](../../images/6a6c5ce9e2c52825facc1918_dc8d2040.png)
 
 The week's gains are overwhelmingly in the Atlantic. Among the Suezmaxes, Black Sea–Med (TD6) jumped 40% week-on-week to WS 430; on the VLCCs, West Africa–China (TD15, WS 149) rose 27% and US Gulf–China (TD22) 25%, while the Caribbean Aframax route (TD9, WS 427) gained 14%. Middle East benchmarks were comparatively flat: VLCC AG–China (TD3C) firmed just 4.5% to WS 404 and AG–Singapore (TD2) 4.9% to WS 397, Suezmax AG–Med (TD23, WS 476) added under 1%, and Aframax Kuwait–Singapore (TD8, WS 305) slipped 0.3%. The one Middle East mover was the longer Gulf of Oman–China VLCC route (TD34, +11.8%).
 
@@ -88,7 +88,7 @@ The week's gains are overwhelmingly in the Atlantic. Among the Suezmaxes, Black 
 
 > **Figure 3: Dirty Spot Freight — Week-on-Week Change by Benchmark Route (to 29 July 2026).freight/tce Data: Signal Ocean Platform / Baltic Exchange**  
 > *Figure 3. Dirty spot freight — week-on-week change by benchmark route (to 29 July 2026).Freight/TCE data: Signal Ocean Platform / Baltic Exchange*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-31-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a6c5ce9e2c52825facc1915_7ccac5b8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-31-2026) | [Local Asset](../../images/6a6c5ce9e2c52825facc1915_7ccac5b8.png)
 
 **Dirty spot (WoW):  BDTI 2,607 (+9%)  ·  Atlantic — Suezmax TD6 WS430 (+40%), VLCC TD15 (+27%) / TD22 (+25%), Aframax TD9 (+14%)  ·  Middle East — VLCC TD3C WS404 (+4.5%), Suezmax TD23 (+0.8%)**
 
@@ -102,7 +102,7 @@ On a 7-day moving-average basis, VLCC ballasters remain overwhelmingly concentra
 
 > **Figure 4: Crude Tanker Ballasters by Region, 7-Day Moving Average — VLCC vs Aframax/lr2, 29 July 2026.ballaster Tracking: Signal Ocean Platform**  
 > *Figure 4. Crude tanker ballasters by region, 7-day moving average — VLCC vs Aframax/LR2, 29 July 2026.Ballaster tracking: Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-31-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a6c5ce9e2c52825facc191e_48d881c0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-31-2026) | [Local Asset](../../images/6a6c5ce9e2c52825facc191e_48d881c0.png)
 
 **Ballasters (29 Jul):  7-day MA · VLCC — AG/India 137 (+10%), Far East 129 (+9%), Atlantic 49 total  ·  Aframax — Europe 90, Americas 67, AG 65**
 
@@ -116,7 +116,7 @@ VLCC net available (spot/relet) supply in the Arabian Gulf reads 132 vessels, do
 
 > **Figure 5: Net Supply — Key Metrics**  
 > *Figure 5a. VLCC net-supply and congestion key metrics — spot/relet vessel counts (today vs 12-month average, with week-on-week change).Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-31-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a6c5ce9e2c52825facc191b_5657401c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-31-2026) | [Local Asset](../../images/6a6c5ce9e2c52825facc191b_5657401c.png)
 
 Availability in the Suezmax segment has tightened significantly, aligning with the sharp move in TD6 rates. This comes as Arabian Gulf net supply (TD23) dropped by 29% week-on-week to 42 vessels, well below its 12-month average of 58. Additionally, supply on the Africa Atlantic Coast (TD20) was halved to 16 vessels, while Black Sea (TD6) availability eased to 21.
 
@@ -125,7 +125,7 @@ Availability in the Suezmax segment has tightened significantly, aligning with t
 
 > **Figure 5: Net Supply — Key Metrics**  
 > *Figure 5b. Suezmax net-supply and congestion key metrics — spot/relet vessel counts (today vs 12-month average, with week-on-week change). Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-31-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a6c5ce9e2c52825facc1921_bd2c3fdf.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-31-2026) | [Local Asset](../../images/6a6c5ce9e2c52825facc1921_bd2c3fdf.png)
 
 Within the Arabian Gulf (TD8), Aframax vessel availability declined by 4% week-on-week to 52 ships, aligning closely with its 12-month average of 53. In contrast, the East Med (TD19) experienced a 60% week-on-week surge in supply, reaching 18 vessels, while the US Gulf (TD25) recorded 13 ships. Concurrently, congestion in the Continent dropped significantly to just 15 vessels, well below the historical average of 38, thereby releasing Atlantic Aframax tonnage back into the active market.
 
@@ -134,7 +134,7 @@ Within the Arabian Gulf (TD8), Aframax vessel availability declined by 4% week-o
 
 > **Figure 5: Net Supply — Key Metrics**  
 > *Figure 5c. Aframax net-supply and congestion key metrics — spot/relet vessel counts (today vs 12-month average, with week-on-week change). Signal Ocean Platform*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-31-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a6c5ce9e2c52825facc1924_65d47cfb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-31-2026) | [Local Asset](../../images/6a6c5ce9e2c52825facc1924_65d47cfb.png)
 
 **Net supply (WoW):  VLCC — AG 132 (-17%), W.Africa 13 (+44%), US Gulf 9 (-61%)  ·  Suezmax — AG 42 (-29%), Africa Atlantic 16 (-50%), Black Sea 21 (-16%)  ·  Aframax — AG 52 (-4%), East Med 18 (+60%), US Gulf 13 (+25%)**
 

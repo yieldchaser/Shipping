@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-06-11_r6zy3v2jjyft4oqxbk6oi
 ![Ship26](assets/2021-06-11_r6zy3v2jjyft4oqxbk6oifpkstiry0_img_ship26_5f0b2d91676d.jpg)
 
 > **Figure 1: Ship26**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-11_r6zy3v2jjyft4oqxbk6oifpkstiry0_img_ship26_5f0b2d91676d.jpg)
+> [Local Asset](assets/2021-06-11_r6zy3v2jjyft4oqxbk6oifpkstiry0_img_ship26_5f0b2d91676d.jpg)
 
 In line with the IMF and many other institutions, the World Bank has revised its projections for the global economy upwards. It now expects the global GDP to expand by 5.6 per cent this year, which would be the strongest post-recession global growth in 80 years. The organisation is also expecting next year’s growth to be stronger than it anticipated back in January, at 4.3 per cent. While the global economic growth is expected to continue beyond next year, 2023 will represent a return to more normal levels at just over three per cent. The World Bank also highlighted the fragile nature of the recovery, with a great dependency on stimulus programmes, and the disparity between rich and poor nations. Much of the impressive rebound can be attributed to the continued strength in the US and Chinese economies, which the World Bankanticipates will grow by 6.8 per cent and 8.5 per cent respectively this year.
 
@@ -38,14 +38,14 @@ Despite the recent bad news coming out of India, the country’s imported volume
 ![Ulf 1 6.11](assets/2021-06-11_r6zy3v2jjyft4oqxbk6oifpkstiry0_img_ulf1611_3365e04d0d24.png)
 
 > **Figure 2: Ulf 1 6.11**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-11_r6zy3v2jjyft4oqxbk6oifpkstiry0_img_ulf1611_3365e04d0d24.png)
+> [Local Asset](assets/2021-06-11_r6zy3v2jjyft4oqxbk6oifpkstiry0_img_ulf1611_3365e04d0d24.png)
 
 The ongoing diplomatic tensions between China and Australia have seen Australian coal shipments to Chinese ports reduced to virtually zero, with producers forced to find alternative markets. As a result, Indonesia has lost its previously dominant position in India’s market for imported coal. Prior to the Chinese ban on imports of Australian coal, Indonesian coal exports to India were more than twice as large as Australia's. However, so far this year, Australia has doubled its market share and grabbed the top spot, slightly ahead of Indonesia. The 39 million tonnes of Australian coal discharged in Indian ports year-to-date, represents 79 per cent of the average of the preceding six full years.
 
 ![Ulf 2 6.11](assets/2021-06-11_r6zy3v2jjyft4oqxbk6oifpkstiry0_img_ulf2611_f4359ceae009.png)
 
 > **Figure 3: Ulf 2 6.11**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-11_r6zy3v2jjyft4oqxbk6oifpkstiry0_img_ulf2611_f4359ceae009.png)
+> [Local Asset](assets/2021-06-11_r6zy3v2jjyft4oqxbk6oifpkstiry0_img_ulf2611_f4359ceae009.png)
 
 The recent attempts by Chinese authorities to control the rapidly rising commodity prices have had limited lasting effects, with coal trading at levels not seen since the second half of 2011. Robust global demand and a tight supplysituation, following heavy rains in Indonesia and mining accidents in China, have negated Beijing’s efforts. The domestic Chinese coal prices have risen so much that the government is considering imposing a cap on them. However, the current hot weather in North Asia has increased thedemand for coal from powerplants, adding to the already strong demand due to the industrial recovery from the pandemic. With domestic production curtailed due to accidents and safety inspections, it may be difficult to control the prices amid surging demand unless increased imports are allowed. In the event of increasing Chinese coal imports, the Australian supplies look likely to remain off-limits to Chinese buyers. Hence, India may face more competition from China over coal supplies from Indonesia and South Africa, with prices likely to remain firm.
 

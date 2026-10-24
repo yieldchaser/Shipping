@@ -26,11 +26,11 @@ Global crude steel production totaled 145.3 million tons in January. This is up 
 ![Chart 1 (73)](assets/2023-03-07_ongoing-steel-production-contraction-outside-of-china_img_chart1287329_9f5c35828314.jpg)
 
 > **Figure 1: Chart 1 (73)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-07_ongoing-steel-production-contraction-outside-of-china_img_chart1287329_9f5c35828314.jpg)
+> [Local Asset](assets/2023-03-07_ongoing-steel-production-contraction-outside-of-china_img_chart1287329_9f5c35828314.jpg)
 
 Global crude steel production outside of China totaled 65.8 million tons last month. This is up month-on-month by 3 million tons (5%) but is 7.5 million tons (-10%) less than was reported last year for January 2022’s production. Concerning is that global crude steel production outside of China has now contracted on a year-on-year basis for eleven straight months. It remains clear that the world outside of China is undergoing very significant economic distress. Problems remain on both the retail and industrial sides.
 
 ![Chart 2 (62)](assets/2023-03-07_ongoing-steel-production-contraction-outside-of-china_img_chart2286229_d0fd7f6c2ec1.jpg)
 
 > **Figure 2: Chart 2 (62)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-07_ongoing-steel-production-contraction-outside-of-china_img_chart2286229_d0fd7f6c2ec1.jpg)
+> [Local Asset](assets/2023-03-07_ongoing-steel-production-contraction-outside-of-china_img_chart2286229_d0fd7f6c2ec1.jpg)

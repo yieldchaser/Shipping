@@ -29,7 +29,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ores-shifting-currents-supply-surge-meets-china-slowdown) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69130787b8b20c77b1ba71c7_417fefec.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ores-shifting-currents-supply-surge-meets-china-slowdown) | [Local Asset](../../images/69130787b8b20c77b1ba71c7_417fefec.png)
 
 
 ## Australia, Brazil, and West Africa Lead the Charge
@@ -53,7 +53,7 @@ For the freight market, the implications are clear. The recent increase in iron 
 
 > **Figure 2: Https://app.signalocean.com/dry/dynamic/timeseriesdry**  
 > *https://app.signalocean.com/dry/dynamic/timeseries_dry*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ores-shifting-currents-supply-surge-meets-china-slowdown) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69130787b8b20c77b1ba71c4_d7282d45.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ores-shifting-currents-supply-surge-meets-china-slowdown) | [Local Asset](../../images/69130787b8b20c77b1ba71c4_d7282d45.png)
 
 
 ## Chinese Steel Slowdown Offsets Supply Gains - Port Stocks on the Rise
@@ -67,7 +67,7 @@ As illustrated in the chart, iron ore shipments to China have grown markedly in 
 
 > **Figure 3: Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ores-shifting-currents-supply-surge-meets-china-slowdown) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69130787b8b20c77b1ba71c1_730c1c25.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/iron-ores-shifting-currents-supply-surge-meets-china-slowdown) | [Local Asset](../../images/69130787b8b20c77b1ba71c1_730c1c25.png)
 
 Yet this growth in seaborne supply is occurring at a time of soft domestic steel demand and seasonal production slowdowns. Rising port inventories, together with a lack of meaningful policy stimulus from Beijing, have therefore kept spot prices under downward pressure. As winter maintenance cuts steel output, the continued inflow of cargoes risks widening the imbalance between supply and consumption, reinforcing the bearish tone in the iron ore market.
 

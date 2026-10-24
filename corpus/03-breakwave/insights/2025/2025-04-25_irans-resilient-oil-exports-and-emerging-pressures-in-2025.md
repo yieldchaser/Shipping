@@ -29,7 +29,7 @@ Week 17, 25 April, 2025
 ![Στιγμιότυπο Οθόνης 2025 04 25 112054](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cead058ca464.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 04 25 112054**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cead058ca464.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cead058ca464.png)
 
 **Despite persistent international sanctions, Iran managed to sustain significant crude oil exports between January 2023 and March 2025, totaling approximately 268.5 million barrels. This continued export activity—entirely sourced from Iranian production—demonstrates Tehran’s resilience and strategic adaptability in circumventing global pressure.**
 
@@ -48,7 +48,7 @@ In essence, while Iran has proven remarkably resourceful in maintaining oil expo
 ![Στιγμιότυπο Οθόνης 2025 04 25 112151](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3aca6d045b36.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 04 25 112151**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3aca6d045b36.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3aca6d045b36.png)
 
 Crude oil freight market sentiment strengthened toward the end of April, highlighted by a notable rebound in the Aframax Mediterranean market
 
@@ -58,21 +58,21 @@ Crude oil freight market sentiment strengthened toward the end of April, highlig
 ![Στιγμιότυπο Οθόνης 2025 04 25 112245](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca24bea1cfa9.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 04 25 112245**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca24bea1cfa9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca24bea1cfa9.png)
 
 - **LR2**AG freight rates continued a soft downward trend from the end of March, with rates at WS127, reflecting a 15% monthly decrease.
 
 ![Στιγμιότυπο Οθόνης 2025 04 25 112332](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c111ed86da02.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 04 25 112332**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c111ed86da02.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c111ed86da02.png)
 
 - **Panamax**Carib-to-USG settled at approximately 200 WS, reflecting a 30% monthly increase.
 
 ![Στιγμιότυπο Οθόνης 2025 04 25 112446](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5dd17de66c21.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 04 25 112446**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5dd17de66c21.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5dd17de66c21.png)
 
 - **MR1**freight rates for Baltic-to-Continent shipments hovered around WS178, representing a 15% monthly decrease.
 
@@ -81,7 +81,7 @@ Crude oil freight market sentiment strengthened toward the end of April, highlig
 ![Στιγμιότυπο Οθόνης 2025 04 25 112537](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f1180cb75a99.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 04 25 112537**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f1180cb75a99.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f1180cb75a99.png)
 
 ​​​​​The number of available crude tankers remains below the yearly average; however, there is a recent upward pressure.
 
@@ -93,12 +93,12 @@ Crude oil freight market sentiment strengthened toward the end of April, highlig
 ![Στιγμιότυπο Οθόνης 2025 04 25 112629](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22c7cb662345.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 04 25 112629**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22c7cb662345.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22c7cb662345.png)
 
 ![Στιγμιότυπο Οθόνης 2025 04 25 112639](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4bcefc3f5f82.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2025 04 25 112639**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4bcefc3f5f82.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4bcefc3f5f82.png)
 
 - **Clean LR2 AG Jubail**: The downward trend persists, with vessel count remaining below the annual average of 11 over the last ten weeks.
 
@@ -107,14 +107,14 @@ Crude oil freight market sentiment strengthened toward the end of April, highlig
 ![Στιγμιότυπο Οθόνης 2025 04 25 112725](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b7ce152ae78.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 04 25 112725**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b7ce152ae78.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b7ce152ae78.png)
 
 - Dirty tonne days: In the final week of April, the VLCC segment saw a continued decline in tonne-day growth, deepening its fall below the yearly average since peaking in week 13. Meanwhile, the Suezmax market's tonne-day growth has nearly aligned with the annual average. In contrast, the Aframax segment experienced a sharp upswing, reaching one of its strongest growth rates since the start of the year, driven by a steady rise that began at the end of week 11.
 
 ![Στιγμιότυπο Οθόνης 2025 04 25 112822](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_57e45310ae89.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 04 25 112822**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_57e45310ae89.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-04-25_irans-resilient-oil-exports-and-emerging-pressures-in-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_57e45310ae89.png)
 
 - **Panamax**tonne days: The growth rate remains below this year’s weekly average, though tentative signs of an upward trend have emerged over the past two weeks.
 

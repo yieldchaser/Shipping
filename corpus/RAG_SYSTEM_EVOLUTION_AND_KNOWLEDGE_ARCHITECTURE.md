@@ -1,8 +1,8 @@
 # RAG System Evolution and Knowledge Architecture
 
 This dossier provides a comprehensive architectural audit and comparative reference detailing the two distinct data and retrieval systems within this repository:
-1. **The Earlier Simple Document RAG System (`knowledge/`)**: A classical, flat document chunking, BM25-indexed, and regex-signal knowledge base built by [`scripts/process_knowledge.py`](file:///c:/Users/Dell/Github/Shipping/scripts/process_knowledge.py). This system directly powers the live dashboard ([`index.html`](file:///c:/Users/Dell/Github/Shipping/index.html)), client-side search, and the automated daily brief compiler ([`generate_brief.py`](file:///c:/Users/Dell/Github/Shipping/generate_brief.py)).
-2. **The New Canonical Data Foundation (`corpus/` and `data/extracted/`)**: An immutable, complete raw data lake organizing all maritime intelligence into 10 structured namespaces, accompanied by cover-to-cover Markdown extractions ([`data/extracted/md/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/)) and over 60 stacked relational time-series datasets ([`data/extracted/series/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/)). This layer, together with `corpus/10-companies/` and `corpus/books/`, is the input to the Graph RAG build. `knowledge/` remains the legacy dashboard system and is not rebuilt for Graph RAG.
+1. **The Earlier Simple Document RAG System (`knowledge/`)**: A classical, flat document chunking, BM25-indexed, and regex-signal knowledge base built by [`scripts/process_knowledge.py`](../scripts/process_knowledge.py). This system directly powers the live dashboard ([`index.html`](../index.html)), client-side search, and the automated daily brief compiler ([`generate_brief.py`](../generate_brief.py)).
+2. **The New Canonical Data Foundation (`corpus/` and `data/extracted/`)**: An immutable, complete raw data lake organizing all maritime intelligence into 10 structured namespaces, accompanied by cover-to-cover Markdown extractions ([`data/extracted/md/`](../data/extracted/md)) and over 60 stacked relational time-series datasets ([`data/extracted/series/`](../data/extracted/series)). This layer, together with `corpus/10-companies/` and `corpus/books/`, is the input to the Graph RAG build. `knowledge/` remains the legacy dashboard system and is not rebuilt for Graph RAG.
 
 ---
 
@@ -10,7 +10,7 @@ This dossier provides a comprehensive architectural audit and comparative refere
 
 ### 1.1 Architectural Paradigm: Simple Document RAG (Not Graph RAG)
 
-The earlier retrieval system built in [`knowledge/`](file:///c:/Users/Dell/Github/Shipping/knowledge/) is a traditional, flat **Document Chunk RAG**, not a Graph RAG. It possesses no concept of graph nodes, entity resolution, typed directional edges, or multi-hop relationship traversals. 
+The earlier retrieval system built in [`knowledge/`](../knowledge) is a traditional, flat **Document Chunk RAG**, not a Graph RAG. It possesses no concept of graph nodes, entity resolution, typed directional edges, or multi-hop relationship traversals. 
 
 Instead, it was constructed around:
 * Fixed-token sliding window chunking (`cl100k_base` BPE tokenizer via `tiktoken`).
@@ -63,9 +63,9 @@ Instead, it was constructed around:
 
 ### 1.2 Physical Storage Topology Prior to `corpus/`
 
-**Critical Historical Context:** When the earlier knowledge system was originally designed and built, the [`corpus/`](file:///c:/Users/Dell/Github/Shipping/corpus/) directory **did not exist**. 
+**Critical Historical Context:** When the earlier knowledge system was originally designed and built, the [`corpus/`](.) directory **did not exist**. 
 
-Raw source documents lived in the legacy [`reports/`](file:///c:/Users/Dell/Github/Shipping/reports/) directory or were scattered across temporary scripts and scratch directories:
+Raw source documents lived in the legacy [`reports/`](../reports) directory or were scattered across temporary scripts and scratch directories:
 * Foundational textbooks were placed loose in the root: `reports/*.pdf`.
 * Breakwave biweekly reports were in `reports/drybulk/*.pdf` and `reports/tankers/*.pdf`.
 * Breakwave Insights web articles were in `reports/breakwave/<year>/*.html`.
@@ -121,7 +121,7 @@ The data extraction in the earlier knowledge system was incomplete, unstructured
 
 ### 1.4 The Processing Pipeline: `scripts/process_knowledge.py`
 
-The compilation engine for the earlier RAG system is [`scripts/process_knowledge.py`](file:///c:/Users/Dell/Github/Shipping/scripts/process_knowledge.py), a 4,621-line script.
+The compilation engine for the earlier RAG system is [`scripts/process_knowledge.py`](../scripts/process_knowledge.py), a 4,621-line script.
 
 #### Ingestion Workflow (`iter_source_files`)
 The compiler traverses source files based on hardcoded source filters:
@@ -134,22 +134,22 @@ The compiler traverses source files based on hardcoded source filters:
 * `poten`: Reads `reports/poten/*.md` (the flat web preview markdown files).
 
 #### Artifacts Materialized in `knowledge/`
-1. **[`knowledge/docs/`](file:///c:/Users/Dell/Github/Shipping/knowledge/docs/)**:
+1. **[`knowledge/docs/`](../knowledge/docs)**:
    Structured Markdown files partitioned by `{source}/{category}/{year}/{doc_id}.md` with YAML frontmatter containing metadata tags (`vessel_classes`, `regions`, `commodities`, `summary`, `market_tone`).
-2. **[`knowledge/chunks/`](file:///c:/Users/Dell/Github/Shipping/knowledge/chunks/)**:
+2. **[`knowledge/chunks/`](../knowledge/chunks)**:
    Tokenized JSONL shards partitioned by source, category, and year (`{source}_{category}_{year}.jsonl`).
    * Sizing: 450 tokens (Breakwave), 600 tokens (Baltic), 500 tokens (General/Books) with 60 to 100 token overlaps.
    * Record schema: `chunk_id`, `doc_id`, `source`, `category`, `year`, `text`, `has_rates`, `has_forecast`, `vessel_classes_matched`, `regions_matched`, `snippet`.
-3. **[`knowledge/trees/`](file:///c:/Users/Dell/Github/Shipping/knowledge/trees/)**:
+3. **[`knowledge/trees/`](../knowledge/trees)**:
    JSON trees modeling document heading structure (`node_id`, `level`, `ordinal`, `token_count`).
-4. **[`knowledge/derived/`](file:///c:/Users/Dell/Github/Shipping/knowledge/derived/)**:
-   * `signals_public.jsonl`: The primary data feed read by [`index.html`](file:///c:/Users/Dell/Github/Shipping/index.html). Stripped of heavy LLM blobs to stay lightweight, containing document summaries, dates, titles, and topic tags.
+4. **[`knowledge/derived/`](../knowledge/derived)**:
+   * `signals_public.jsonl`: The primary data feed read by [`index.html`](../index.html). Stripped of heavy LLM blobs to stay lightweight, containing document summaries, dates, titles, and topic tags.
    * `signals.jsonl`: Heavy internal archive (~92 MB) containing raw LLM output blobs.
    * `section_index.jsonl`: Flat index of all document section anchors.
-5. **[`knowledge/chunks/search/`](file:///c:/Users/Dell/Github/Shipping/knowledge/chunks/search/)**:
-   Pre-tokenized inverted-index shards compiled by [`scripts/search_index_build.py`](file:///c:/Users/Dell/Github/Shipping/scripts/search_index_build.py) for fast in-browser BM25 token lookups.
-6. **[`knowledge/wiki/`](file:///c:/Users/Dell/Github/Shipping/knowledge/wiki/)**:
-   Static encyclopedia articles generated by [`scripts/build_wiki.py`](file:///c:/Users/Dell/Github/Shipping/scripts/build_wiki.py) for vessel classes and key maritime trade corridors.
+5. **[`knowledge/chunks/search/`](../knowledge/chunks/search)**:
+   Pre-tokenized inverted-index shards compiled by [`scripts/search_index_build.py`](../scripts/search_index_build.py) for fast in-browser BM25 token lookups.
+6. **[`knowledge/wiki/`](../knowledge/wiki)**:
+   Static encyclopedia articles generated by [`scripts/build_wiki.py`](../scripts/build_wiki.py) for vessel classes and key maritime trade corridors.
 
 ---
 
@@ -158,8 +158,8 @@ The compiler traverses source files based on hardcoded source filters:
 #### Incremental Compilation Logic
 The compiler implements an incremental caching layer:
 * **Manifest Registers**:
-  * [`knowledge/manifests/documents.jsonl`](file:///c:/Users/Dell/Github/Shipping/knowledge/manifests/documents.jsonl): Logs every compiled document, recording `doc_id`, `source_path`, `source_hash`, `compiler_version`, and timestamp.
-  * [`knowledge/manifests/derived_cache.json`](file:///c:/Users/Dell/Github/Shipping/knowledge/manifests/derived_cache.json): Tracks SHA-256 byte hashes of input files.
+  * [`knowledge/manifests/documents.jsonl`](../knowledge/manifests/documents.jsonl): Logs every compiled document, recording `doc_id`, `source_path`, `source_hash`, `compiler_version`, and timestamp.
+  * [`knowledge/manifests/derived_cache.json`](../knowledge/manifests/derived_cache.json): Tracks SHA-256 byte hashes of input files.
 * **Skip Condition**:
   When `process_knowledge.py` runs, it computes the SHA-256 hash of each input file. If the hash matches `derived_cache.json` and the document exists in `documents.jsonl`, compilation is skipped.
 
@@ -170,10 +170,10 @@ Because `documents.jsonl` recorded absolute or relative file paths from the lega
 
 ### 1.6 How the Earlier System is Consumed in the Live UI (`index.html`)
 
-The legacy knowledge base directly drives several UI components in [`index.html`](file:///c:/Users/Dell/Github/Shipping/index.html):
+The legacy knowledge base directly drives several UI components in [`index.html`](../index.html):
 
 1. **Intelligence Tab**:
-   * Fetches [`knowledge/derived/signals_public.jsonl`](file:///c:/Users/Dell/Github/Shipping/knowledge/derived/signals_public.jsonl).
+   * Fetches [`knowledge/derived/signals_public.jsonl`](../knowledge/derived/signals_public.jsonl).
    * Renders the executive market intelligence feed, filtering articles by vessel class, commodity, and market tone (bullish, bearish, neutral).
 2. **Q&A and Context Retrieval (`QA_CHUNK_FILES`)**:
    * Lines 38145 to 38220 of `index.html` define `QA_CHUNK_FILES`, an explicit registry of JSONL chunk shards mapped to UI categories:
@@ -184,7 +184,7 @@ The legacy knowledge base directly drives several UI components in [`index.html`
      * **Shipbuilding Tab**: Loads `hellenic_shipbuilding_*.jsonl`, `hellenic_demolition_*.jsonl`, and `fleet_orderbook_*.jsonl`.
      * **Books Tab**: Loads `books.jsonl`.
    * Queries dynamically rank chunks using client-side TF-IDF / BM25 algorithms in JavaScript.
-3. **Automated Daily Briefing ([`generate_brief.py`](file:///c:/Users/Dell/Github/Shipping/generate_brief.py))**:
+3. **Automated Daily Briefing ([`generate_brief.py`](../generate_brief.py))**:
    * Reads `signals_public.jsonl` to compile daily morning shipping macro briefings across chartering, S&P, and commodity flows.
 
 ---
@@ -197,28 +197,28 @@ The limitations of the earlier simple RAG system led to the creation of the **Ca
 
 ### 2.1 The Canonical Raw Corpus (`corpus/`)
 
-The [`corpus/`](file:///c:/Users/Dell/Github/Shipping/corpus/) directory unites all raw shipping intelligence into 10 structured, numbered source namespaces:
+The [`corpus/`](.) directory unites all raw shipping intelligence into 10 structured, numbered source namespaces:
 
 | Namespace | Source Publisher | Scope & File Population | Cadence | Content Types |
 | :--- | :--- | :--- | :--- | :--- |
-| [`01-brokers/`](file:///c:/Users/Dell/Github/Shipping/corpus/01-brokers/) | 16 Live Shipbroking Firms | 2,058 PDFs (2021–2026) across Clarksons, Xclusiv, Banchero Costa, Intermodal, Star Asia, Advanced Shipping, Fearnleys, SSY, Agora, Affinity, ISM, Lion, Carriers | Weekly | Desk commentary, S&P fixtures, demolition sales, newbuilding orders, charter rates |
-| [`02-hellenic/`](file:///c:/Users/Dell/Github/Shipping/corpus/02-hellenic/) | Hellenic Shipping News | 18,183 reports across Demolition, Dry Charter, Tanker Charter, Iron Ore, Shipbuilding, Vessel Valuations | Daily / Weekly | Fixtures, scrap prices, MMi iron ore daily indexes, valuation matrices, companion charts |
-| [`03-breakwave/`](file:///c:/Users/Dell/Github/Shipping/corpus/03-breakwave/) | Breakwave Advisors | 211 Dry Bulk PDFs, 80 Tanker PDFs, and 3,194 Breakwave Insights HTML articles | Daily / Weekly | Macro dry bulk & tanker reviews, research essays, 14,700 high-resolution charts |
-| [`04-poten/`](file:///c:/Users/Dell/Github/Shipping/corpus/04-poten/) | Poten & Partners | 1,087 authoritative PDFs (2004–2026) | Weekly | Tanker market opinions, annual/midterm Top Dirty Spot Charterer rankings |
-| [`05-seabrokers/`](file:///c:/Users/Dell/Github/Shipping/corpus/05-seabrokers/) | Seabrokers Group | 97 monthly Seascope PDFs (2018–2026) | Monthly | Offshore support vessels (OSV), rig utilization, dayrates, subsea market analysis |
-| [`06-drewry/`](file:///c:/Users/Dell/Github/Shipping/corpus/06-drewry/) | Drewry Maritime | 277 weekly AIS vessel tracking PDFs and 1,091 Maritime Opinion briefings | Weekly | Fleet performance, AIS port queues, container freight indexes (WCI), opinions |
-| [`07-signal/`](file:///c:/Users/Dell/Github/Shipping/corpus/07-signal/) | Signal Ocean | 2,369 files (API telemetry, weekly market monitors, dry bulk & tanker snapshots) | Weekly | Vessel availability counts, port congestion queues, tanker commercial speeds |
-| [`08-baltic/`](file:///c:/Users/Dell/Github/Shipping/corpus/08-baltic/) | Baltic Exchange | 5,261 market roundup HTML snapshots (Dry, Tanker, Gas, Container, Ningbo NCFI) | Weekly | Official freight assessments, route fixtures, BDA demolition assessments |
-| [`09-ppa/`](file:///c:/Users/Dell/Github/Shipping/corpus/09-ppa/) | Pilbara Ports Authority | 492 monthly reports (Port Hedland & Dampier iron ore export statistics) | Monthly | Real iron ore throughput tonnage, destination nation breakdowns (China, Japan, Korea) |
-| [`10-cftc/`](file:///c:/Users/Dell/Github/Shipping/corpus/10-cftc/) | CFTC | 138 Commitment of Traders derivative reports | Monthly | Freight and energy futures trader positioning |
-| [`books/`](file:///c:/Users/Dell/Github/Shipping/corpus/books/) | Academic Textbooks | 12 foundational maritime economics and shipping finance reference books | Reference | Foundational industry economics, legal principles, voyage modeling |
-| [`archive/`](file:///c:/Users/Dell/Github/Shipping/corpus/archive/) | Inactive Publishers | Historical reports from Allied, Gibson, Anchor, Golden Destiny | Archived | Historical market cycle context |
+| [`01-brokers/`](01-brokers) | 16 Live Shipbroking Firms | 2,058 PDFs (2021–2026) across Clarksons, Xclusiv, Banchero Costa, Intermodal, Star Asia, Advanced Shipping, Fearnleys, SSY, Agora, Affinity, ISM, Lion, Carriers | Weekly | Desk commentary, S&P fixtures, demolition sales, newbuilding orders, charter rates |
+| [`02-hellenic/`](02-hellenic) | Hellenic Shipping News | 18,183 reports across Demolition, Dry Charter, Tanker Charter, Iron Ore, Shipbuilding, Vessel Valuations | Daily / Weekly | Fixtures, scrap prices, MMi iron ore daily indexes, valuation matrices, companion charts |
+| [`03-breakwave/`](03-breakwave) | Breakwave Advisors | 211 Dry Bulk PDFs, 80 Tanker PDFs, and 3,194 Breakwave Insights HTML articles | Daily / Weekly | Macro dry bulk & tanker reviews, research essays, 14,700 high-resolution charts |
+| [`04-poten/`](04-poten) | Poten & Partners | 1,087 authoritative PDFs (2004–2026) | Weekly | Tanker market opinions, annual/midterm Top Dirty Spot Charterer rankings |
+| [`05-seabrokers/`](05-seabrokers) | Seabrokers Group | 97 monthly Seascope PDFs (2018–2026) | Monthly | Offshore support vessels (OSV), rig utilization, dayrates, subsea market analysis |
+| [`06-drewry/`](06-drewry) | Drewry Maritime | 277 weekly AIS vessel tracking PDFs and 1,091 Maritime Opinion briefings | Weekly | Fleet performance, AIS port queues, container freight indexes (WCI), opinions |
+| [`07-signal/`](07-signal) | Signal Ocean | 2,369 files (API telemetry, weekly market monitors, dry bulk & tanker snapshots) | Weekly | Vessel availability counts, port congestion queues, tanker commercial speeds |
+| [`08-baltic/`](08-baltic) | Baltic Exchange | 5,261 market roundup HTML snapshots (Dry, Tanker, Gas, Container, Ningbo NCFI) | Weekly | Official freight assessments, route fixtures, BDA demolition assessments |
+| [`09-ppa/`](09-ppa) | Pilbara Ports Authority | 492 monthly reports (Port Hedland & Dampier iron ore export statistics) | Monthly | Real iron ore throughput tonnage, destination nation breakdowns (China, Japan, Korea) |
+| [`10-cftc/`](10-cftc) | CFTC | 138 Commitment of Traders derivative reports | Monthly | Freight and energy futures trader positioning |
+| [`books/`](books) | Academic Textbooks | 12 foundational maritime economics and shipping finance reference books | Reference | Foundational industry economics, legal principles, voyage modeling |
+| [`archive/`](archive) | Inactive Publishers | Historical reports from Allied, Gibson, Anchor, Golden Destiny | Archived | Historical market cycle context |
 
 ---
 
 ### 2.2 Publication-Grade Cover-to-Cover Extractions (`data/extracted/md/`)
 
-Unlike the chunked snippets in `knowledge/chunks/`, files in [`data/extracted/md/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/) represent complete, cover-to-cover transcriptions produced with PyMuPDF and LlamaParse:
+Unlike the chunked snippets in `knowledge/chunks/`, files in [`data/extracted/md/`](../data/extracted/md) represent complete, cover-to-cover transcriptions produced with PyMuPDF and LlamaParse:
 * **Zero Truncation**: Preserves complete desk commentary, market overviews, and regional analysis without token limits.
 * **Standardized Frontmatter**: YAML metadata including `title`, `issue_date` (`YYYY-MM-DD`), `year`, `broker`/`source`, `pages`, and `source_file`.
 * **Structured Markdown Pipe Tables**: Every table is rendered as clean Markdown and mirrored into structured JSON sidecars (`<stem>.tables.json`) for programmatic querying.
@@ -251,7 +251,7 @@ The structured series layer contains over 60 stacked CSV datasets with over 140,
 
 ### 2.4 Vector Chart Extraction Engine
 
-Documented in [`docs/CHART_EXTRACTION_ENGINE.md`](file:///c:/Users/Dell/Github/Shipping/docs/CHART_EXTRACTION_ENGINE.md), this engine extracts numerical data from vector line graphics in PDFs:
+Documented in [`docs/CHART_EXTRACTION_ENGINE.md`](../docs/CHART_EXTRACTION_ENGINE.md), this engine extracts numerical data from vector line graphics in PDFs:
 * Detects plot bounding boxes via PyMuPDF vector drawing paths (`get_drawings()`).
 * Calibrates Y-axis scales by aligning tick label numbers to geometric pixel heights.
 * Traces polyline vector vertices (filtering for continuous lines with >500 vertices).
@@ -273,11 +273,11 @@ To keep the live dashboard operational while populating the canonical corpus, al
 ```
 
 Dual-save routines are enforced across:
-* [`scripts/baltic_scraper.py`](file:///c:/Users/Dell/Github/Shipping/scripts/baltic_scraper.py): Writes to `corpus/08-baltic/` and mirrors to `reports/baltic/`.
-* [`scripts/hellenic_scraper.py`](file:///c:/Users/Dell/Github/Shipping/scripts/hellenic_scraper.py): Writes to `corpus/02-hellenic/` and mirrors to `reports/hellenic/`.
-* [`scripts/breakwave_insights_scraper.py`](file:///c:/Users/Dell/Github/Shipping/scripts/breakwave_insights_scraper.py): Writes to `corpus/03-breakwave/insights/` and mirrors to `reports/breakwave/`.
-* [`scripts/scrapers/fetch_drewry_opinions_incremental.py`](file:///c:/Users/Dell/Github/Shipping/scripts/scrapers/fetch_drewry_opinions_incremental.py): Writes to `corpus/06-drewry/opinions/` and mirrors to `reports/drewry/opinions/`.
-* [`scripts/acquire/sync_hellenic_live.py`](file:///c:/Users/Dell/Github/Shipping/scripts/acquire/sync_hellenic_live.py): Writes to `corpus/02-hellenic/` and mirrors to `reports/hellenic/`.
+* [`scripts/baltic_scraper.py`](../scripts/baltic_scraper.py): Writes to `corpus/08-baltic/` and mirrors to `reports/baltic/`.
+* [`scripts/hellenic_scraper.py`](../scripts/hellenic_scraper.py): Writes to `corpus/02-hellenic/` and mirrors to `reports/hellenic/`.
+* [`scripts/breakwave_insights_scraper.py`](../scripts/breakwave_insights_scraper.py): Writes to `corpus/03-breakwave/insights/` and mirrors to `reports/breakwave/`.
+* [`scripts/scrapers/fetch_drewry_opinions_incremental.py`](../scripts/scrapers/fetch_drewry_opinions_incremental.py): Writes to `corpus/06-drewry/opinions/` and mirrors to `reports/drewry/opinions/`.
+* [`scripts/acquire/sync_hellenic_live.py`](../scripts/acquire/sync_hellenic_live.py): Writes to `corpus/02-hellenic/` and mirrors to `reports/hellenic/`.
 
 ---
 
@@ -296,40 +296,40 @@ By converting unstructured documents into relational time series, verified cover
 
 ### 3.1 Migration Defect & Root Cause
 
-During initial directory reorganizations (commits `8c6665067`, `b20829464`, and `0ccaf3ab6`), legacy files were moved (`git mv`) out of [`reports/`](file:///c:/Users/Dell/Github/Shipping/reports/) into [`corpus/`](file:///c:/Users/Dell/Github/Shipping/corpus/) or quarantined into `data/stashed_redundant_sources/` rather than retaining a 1:1 mirror copy.
+During initial directory reorganizations (commits `8c6665067`, `b20829464`, and `0ccaf3ab6`), legacy files were moved (`git mv`) out of [`reports/`](../reports) into [`corpus/`](.) or quarantined into `data/stashed_redundant_sources/` rather than retaining a 1:1 mirror copy.
 
 This created several breaking issues for the earlier knowledge system:
-1. **Manifest Path Resolution Failures**: The earlier compiler's cache register ([`knowledge/manifests/documents.jsonl`](file:///c:/Users/Dell/Github/Shipping/knowledge/manifests/documents.jsonl)) contained 10,202 document records mapped strictly to `reports/` paths. When files were moved, cache verification failed for 2,702 Hellenic files, 2,703 Breakwave files, 2,036 Baltic files, and 1,096 Poten files.
-2. **Chunk Shard Depopulation**: Running compilation scripts while source paths were unresolvable caused 11 chunk shards in [`knowledge/chunks/`](file:///c:/Users/Dell/Github/Shipping/knowledge/chunks/) (across `hellenic_shipbuilding` and `hellenic_vessel_valuations`) to be truncated or emptied.
+1. **Manifest Path Resolution Failures**: The earlier compiler's cache register ([`knowledge/manifests/documents.jsonl`](../knowledge/manifests/documents.jsonl)) contained 10,202 document records mapped strictly to `reports/` paths. When files were moved, cache verification failed for 2,702 Hellenic files, 2,703 Breakwave files, 2,036 Baltic files, and 1,096 Poten files.
+2. **Chunk Shard Depopulation**: Running compilation scripts while source paths were unresolvable caused 11 chunk shards in [`knowledge/chunks/`](../knowledge/chunks) (across `hellenic_shipbuilding` and `hellenic_vessel_valuations`) to be truncated or emptied.
 3. **Legacy Ingestion Stoppage**: Older scripts that expected static source paths in `reports/` could not discover new files or re-chunk historical data.
 
 ### 3.2 1:1 Restoration of All Legacy Files in `reports/`
 
-To restore complete backwards compatibility with the earlier knowledge system without altering the canonical `corpus/` data lake, exact 1:1 copies of all legacy sources were restored directly to [`reports/`](file:///c:/Users/Dell/Github/Shipping/reports/).
+To restore complete backwards compatibility with the earlier knowledge system without altering the canonical `corpus/` data lake, exact 1:1 copies of all legacy sources were restored directly to [`reports/`](../reports).
 
 #### Manifest Verification Audit (`knowledge/manifests/documents.jsonl`)
 An automated audit across all 10,202 manifest rows verified 100.0% physical presence on disk:
 
 | Source Category | Legacy Target Directory | Manifest Documents | Files on Disk | Missing Count | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Hellenic Shipping News | [`reports/hellenic/`](file:///c:/Users/Dell/Github/Shipping/reports/hellenic/) | 3,214 | 3,214 | 0 | 100.0% Verified |
-| Breakwave Insights | [`reports/breakwave/`](file:///c:/Users/Dell/Github/Shipping/reports/breakwave/) | 3,207 | 3,207 | 0 | 100.0% Verified |
-| Baltic Exchange | [`reports/baltic/`](file:///c:/Users/Dell/Github/Shipping/reports/baltic/) | 2,223 | 2,223 | 0 | 100.0% Verified |
-| Poten & Partners | [`reports/poten/`](file:///c:/Users/Dell/Github/Shipping/reports/poten/) | 1,096 | 1,096 | 0 | 100.0% Verified |
-| Breakwave Dry Bulk | [`reports/drybulk/`](file:///c:/Users/Dell/Github/Shipping/reports/drybulk/) | 211 | 211 | 0 | 100.0% Verified |
-| Breakwave Tankers | [`reports/tankers/`](file:///c:/Users/Dell/Github/Shipping/reports/tankers/) | 80 | 80 | 0 | 100.0% Verified |
-| Broker Reports | [`reports/broker_reports/`](file:///c:/Users/Dell/Github/Shipping/reports/broker_reports/) | 159 | 159 | 0 | 100.0% Verified |
-| Maritime Textbooks | [`reports/`](file:///c:/Users/Dell/Github/Shipping/reports/) | 12 | 12 | 0 | 100.0% Verified |
+| Hellenic Shipping News | [`reports/hellenic/`](../reports/hellenic) | 3,214 | 3,214 | 0 | 100.0% Verified |
+| Breakwave Insights | [`reports/breakwave/`](../reports/breakwave) | 3,207 | 3,207 | 0 | 100.0% Verified |
+| Baltic Exchange | [`reports/baltic/`](../reports/baltic) | 2,223 | 2,223 | 0 | 100.0% Verified |
+| Poten & Partners | [`reports/poten/`](../reports/poten) | 1,096 | 1,096 | 0 | 100.0% Verified |
+| Breakwave Dry Bulk | [`reports/drybulk/`](../reports/drybulk) | 211 | 211 | 0 | 100.0% Verified |
+| Breakwave Tankers | [`reports/tankers/`](../reports/tankers) | 80 | 80 | 0 | 100.0% Verified |
+| Broker Reports | [`reports/broker_reports/`](../reports/broker_reports) | 159 | 159 | 0 | 100.0% Verified |
+| Maritime Textbooks | [`reports/`](../reports) | 12 | 12 | 0 | 100.0% Verified |
 | **Total Manifest Records** | **Repository Root** | **10,202** | **10,202** | **0** | **100.0% Verified** |
 
 ### 3.3 Chunk Shard Repair & Compiler Validation
 
 1. **Shard Repair Execution**:
-   * [`scripts/repair_hellenic_shards.py`](file:///c:/Users/Dell/Github/Shipping/scripts/repair_hellenic_shards.py) was executed across the 11 affected shards (`hellenic_shipbuilding` and `hellenic_vessel_valuations` for 2014, 2021-2026).
+   * [`scripts/repair_hellenic_shards.py`](../scripts/repair_hellenic_shards.py) was executed across the 11 affected shards (`hellenic_shipbuilding` and `hellenic_vessel_valuations` for 2014, 2021-2026).
    * 539 documents were re-ingested and compacted without calling LLMs, restoring shards to 100% of their declared chunk counts (e.g. `hellenic_shipbuilding_2023.jsonl` restored to 506 chunks, `hellenic_vessel_valuations_2023.jsonl` restored to 240 chunks).
    * Shard integrity verification confirmed: **89 yeared shards total, 0 empty shards**.
 2. **Ingestion Engine Discovery**:
-   * [`scripts/process_knowledge.py`](file:///c:/Users/Dell/Github/Shipping/scripts/process_knowledge.py) was updated to discover files from both the restored `reports/` mirrors and canonical groups, accepting filter aliases (`books`/`book`, `breakwave_insights`/`insights`).
+   * [`scripts/process_knowledge.py`](../scripts/process_knowledge.py) was updated to discover files from both the restored `reports/` mirrors and canonical groups, accepting filter aliases (`books`/`book`, `breakwave_insights`/`insights`).
    * Discovery test (`iter_source_files`) yields **11,303 source documents** across all active categories with zero errors:
      - Hellenic: 3,221 files
      - Baltic: 2,228 files
@@ -342,9 +342,9 @@ An automated audit across all 10,202 manifest rows verified 100.0% physical pres
 ### 3.4 Operational Rules & System Separation
 
 1. **Strict Zero-Interference Boundary**:
-   * The earlier knowledge system operates strictly within [`reports/`](file:///c:/Users/Dell/Github/Shipping/reports/), [`knowledge/`](file:///c:/Users/Dell/Github/Shipping/knowledge/), and [`scripts/process_knowledge.py`](file:///c:/Users/Dell/Github/Shipping/scripts/process_knowledge.py).
-   * The new canonical data foundation operates strictly within [`corpus/`](file:///c:/Users/Dell/Github/Shipping/corpus/), [`data/extracted/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/), and [`scripts/extract/`](file:///c:/Users/Dell/Github/Shipping/scripts/extract/).
-   * Future Graph RAG development will build upon [`corpus/`](file:///c:/Users/Dell/Github/Shipping/corpus/) and [`data/extracted/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/) without disrupting the legacy pipeline.
+   * The earlier knowledge system operates strictly within [`reports/`](../reports), [`knowledge/`](../knowledge), and [`scripts/process_knowledge.py`](../scripts/process_knowledge.py).
+   * The new canonical data foundation operates strictly within [`corpus/`](.), [`data/extracted/`](../data/extracted), and [`scripts/extract/`](../scripts/extract).
+   * Future Graph RAG development will build upon [`corpus/`](.) and [`data/extracted/`](../data/extracted) without disrupting the legacy pipeline.
 2. **Automated Dual-Save Synchronization**:
    * All live acquisition scripts write incoming reports simultaneously to `corpus/` (primary) and `reports/` (secondary mirror).
    * As new reports arrive in 2026 and subsequent years (2027+), directory paths and year subfolders are dynamically created in both locations, maintaining continuous parity between the live legacy dashboard and the canonical Graph RAG data lake.
@@ -354,33 +354,33 @@ An automated audit across all 10,202 manifest rows verified 100.0% physical pres
 ## PART 4: MULTI-YEAR KNOWLEDGE BASE PARITY, FOLDER SEGREGATION & DYNAMIC ROLLOVER
 
 ### 4.1 Historical Fearnleys Weekly Commentary & Bespoke Research Parity
-* **Root Cause & Correction**: Previously, `scripts/fearnleys/generate_fearnleys_commentary_digest.py` had a hardcoded `df["year"] == 2026` filter, omitting historical weekly commentary for years 2018–2025. This filter was removed, generating 419 weekly commentary reports across all 9 years (`2018`–`2026`) into [`reports/fearnleys/commentary/<year>/`](file:///c:/Users/Dell/Github/Shipping/reports/fearnleys/commentary) and [`data/reports/fearnleys/commentary/<year>/`](file:///c:/Users/Dell/Github/Shipping/data/reports/fearnleys/commentary).
-* **Research Mirror**: All 182 bespoke research reports from [`corpus/01-brokers/fearnleys-md/`](file:///c:/Users/Dell/Github/Shipping/corpus/01-brokers/fearnleys-md) across 2024 (47), 2025 (74), and 2026 (61) were mirrored into [`reports/fearnleys/<year>/`](file:///c:/Users/Dell/Github/Shipping/reports/fearnleys) and [`data/reports/fearnleys/<year>/`](file:///c:/Users/Dell/Github/Shipping/data/reports/fearnleys).
-* **Future Ingestion**: [`scripts/fearnleys/daily_fearnleys_sync.py`](file:///c:/Users/Dell/Github/Shipping/scripts/fearnleys/daily_fearnleys_sync.py) writes future synced reports dynamically to `corpus/01-brokers/fearnleys-md/<year>/`, `data/reports/fearnleys/<year>/`, and `reports/fearnleys/<year>/`.
+* **Root Cause & Correction**: Previously, `scripts/fearnleys/generate_fearnleys_commentary_digest.py` had a hardcoded `df["year"] == 2026` filter, omitting historical weekly commentary for years 2018–2025. This filter was removed, generating 419 weekly commentary reports across all 9 years (`2018`–`2026`) into [`reports/fearnleys/commentary/<year>/`](../reports/fearnleys/commentary) and [`data/reports/fearnleys/commentary/<year>/`](../data/reports/fearnleys/commentary).
+* **Research Mirror**: All 182 bespoke research reports from [`corpus/01-brokers/fearnleys-md/`](01-brokers/fearnleys-md) across 2024 (47), 2025 (74), and 2026 (61) were mirrored into [`reports/fearnleys/<year>/`](../reports/fearnleys) and [`data/reports/fearnleys/<year>/`](../data/reports/fearnleys).
+* **Future Ingestion**: [`scripts/fearnleys/daily_fearnleys_sync.py`](../scripts/fearnleys/daily_fearnleys_sync.py) writes future synced reports dynamically to `corpus/01-brokers/fearnleys-md/<year>/`, `data/reports/fearnleys/<year>/`, and `reports/fearnleys/<year>/`.
 
 ### 4.2 Breakwave Dry Bulk and Tankers Dynamic Year Partitioning
 * **Root Cause & Correction**: 211 loose files in `data/extracted/md/breakwave/drybulk/` and 80 loose files in `data/extracted/md/breakwave/tankers/` were unpartitioned due to hardcoded output paths in `run_breakwave_clean_liteparse.py`. All 291 files were moved into proper year subdirectories (`2018`–`2026` for dry bulk, `2023`–`2026` for tankers).
-* **Dynamic Derivation**: [`scripts/extract/publishers/run_breakwave_clean_liteparse.py`](file:///c:/Users/Dell/Github/Shipping/scripts/extract/publishers/run_breakwave_clean_liteparse.py) was updated to dynamically derive target years from document stems or publication dates, ensuring future bi-weekly reports write directly to `data/extracted/md/breakwave/{category}/{year}/{stem}.md`.
+* **Dynamic Derivation**: [`scripts/extract/publishers/run_breakwave_clean_liteparse.py`](../scripts/extract/publishers/run_breakwave_clean_liteparse.py) was updated to dynamically derive target years from document stems or publication dates, ensuring future bi-weekly reports write directly to `data/extracted/md/breakwave/{category}/{year}/{stem}.md`.
 
 ### 4.3 Drewry Opinions 10-Year Parity (2017–2026) and Standardized ISO Prefixing
-* **Historical Coverage**: 556 Drewry opinion reports spanning 10 years (`2017`–`2026`) are synchronized into both [`corpus/06-drewry/opinions/<year>/`](file:///c:/Users/Dell/Github/Shipping/corpus/06-drewry/opinions) and [`reports/drewry/opinions/<year>/`](file:///c:/Users/Dell/Github/Shipping/reports/drewry/opinions).
+* **Historical Coverage**: 556 Drewry opinion reports spanning 10 years (`2017`–`2026`) are synchronized into both [`corpus/06-drewry/opinions/<year>/`](06-drewry/opinions) and [`reports/drewry/opinions/<year>/`](../reports/drewry/opinions).
 * **Slug Redundancy Eliminated**: Unprefixed duplicate files were resolved in favor of standardized ISO-prefixed files (`YYYY-MM-DD_<slug>.md`).
-* **Scraper Hardening**: [`scripts/scrapers/fetch_drewry_opinions_incremental.py`](file:///c:/Users/Dell/Github/Shipping/scripts/scrapers/fetch_drewry_opinions_incremental.py) parses the article date into ISO format and dual-saves new opinions to both `corpus/06-drewry/opinions/<year>/<date>_<slug>.md` and `reports/drewry/opinions/<year>/<date>_<slug>.md`.
+* **Scraper Hardening**: [`scripts/scrapers/fetch_drewry_opinions_incremental.py`](../scripts/scrapers/fetch_drewry_opinions_incremental.py) parses the article date into ISO format and dual-saves new opinions to both `corpus/06-drewry/opinions/<year>/<date>_<slug>.md` and `reports/drewry/opinions/<year>/<date>_<slug>.md`.
 
 ### 4.4 Broker Reports Hierarchy & Historical Digests
 * **Folder Hierarchy**: Loose files in `reports/broker_reports/2026/` were segregated into broker subdirectories (`reports/broker_reports/2026/<broker>/`).
 * **Digest Mirroring**: 118 historical digests from `corpus/01-brokers/_digests/<broker>/<year>/` were mirrored to `reports/broker_reports/<year>/<broker>/` for 2024, 2025, and 2026.
-* **Scraper Updates**: [`scripts/scrapers/fetch_hsn_shipbrokers.py`](file:///c:/Users/Dell/Github/Shipping/scripts/scrapers/fetch_hsn_shipbrokers.py) dual-saves newly syndicated shipbroker digests to both corpus and reports destinations.
+* **Scraper Updates**: [`scripts/scrapers/fetch_hsn_shipbrokers.py`](../scripts/scrapers/fetch_hsn_shipbrokers.py) dual-saves newly syndicated shipbroker digests to both corpus and reports destinations.
 
 ### 4.5 PPA Root File Consolidation
-* 110 loose PDF files previously sitting at `corpus/09-ppa/` root were consolidated into [`corpus/09-ppa/_root_pdfs/`](file:///c:/Users/Dell/Github/Shipping/corpus/09-ppa/_root_pdfs), establishing zero loose root files across all 10 corpus namespaces.
+* 110 loose PDF files previously sitting at `corpus/09-ppa/` root were consolidated into [`corpus/09-ppa/_root_pdfs/`](09-ppa/_root_pdfs), establishing zero loose root files across all 10 corpus namespaces.
 
 ### 4.6 Dynamic Year Rollover (2027 Readiness)
 * **Zero Hardcoded Caps**: Core scrapers and ingestion tools (`fetch_hsn_shipbrokers.py`, `fetch_drewry_opinions_incremental.py`, `sync_hellenic_live.py`, `run_breakwave_clean_liteparse.py`) dynamically extract year from article dates or current UTC timestamps (`year = str(date.year)`).
-* **Incremental Discovery**: The orchestrator ([`scripts/extract/orchestrate_incremental_ingest.py`](file:///c:/Users/Dell/Github/Shipping/scripts/extract/orchestrate_incremental_ingest.py)) uses dynamic `rglob("*.pdf")` comparisons against Markdown outputs, automatically identifying and routing newly dropped files regardless of year partition without requiring manual configuration changes.
+* **Incremental Discovery**: The orchestrator ([`scripts/extract/orchestrate_incremental_ingest.py`](../scripts/extract/orchestrate_incremental_ingest.py)) uses dynamic `rglob("*.pdf")` comparisons against Markdown outputs, automatically identifying and routing newly dropped files regardless of year partition without requiring manual configuration changes.
 
 ### 4.7 Continuous Integration Pipeline Health
-* Fixed timestamp comparison logic in [`scripts/check_breakwave_freshness.py`](file:///c:/Users/Dell/Github/Shipping/scripts/check_breakwave_freshness.py) to inspect `breakwave_signals.json` directly, unblocking step 10 of the daily GitHub Actions knowledge update workflow.
+* Fixed timestamp comparison logic in [`scripts/check_breakwave_freshness.py`](../scripts/check_breakwave_freshness.py) to inspect `breakwave_signals.json` directly, unblocking step 10 of the daily GitHub Actions knowledge update workflow.
 
 ---
 
@@ -391,10 +391,10 @@ To eliminate any ambiguity prior to constructing the Graph RAG knowledge graph, 
 
 | Ingestion Modality | Original Source Format | Publishers & Corpus Namespaces | Primary Ingestion Method | Raw Location in `corpus/` | Normalized Extraction Destination |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1. Binary Vector PDFs** | `.pdf` (Vector and Text-Layer) | Shipbroker Weeklies (`01-brokers/`: Clarksons, Xclusiv, Banchero Costa, Intermodal, Star Asia, Advanced Shipping, Affinity, Agora, Carriers, ISM, Lion, SSY), Poten (`04-poten/pdfs/`), Drewry AIS (`06-drewry/ais/`), Seabrokers (`05-seabrokers/pdfs/`), Breakwave Bi-Weeklies (`03-breakwave/drybulk/` & `tankers/`), Pilbara Ports (`09-ppa/`), Textbooks (`books/`) | Direct download via scrapers or HTTP syndication | `corpus/<namespace>/<year>/*.pdf` | [`data/extracted/md/<publisher>/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/) (cover-to-cover `.md` + `.tables.json` sidecars + 98 series CSVs) |
-| **2. Scraped HTML Web Articles** | `.html` / `.htm` | Hellenic Shipping News (`02-hellenic/`: Demolition, Dry Charter, Tanker Charter, Iron Ore, Shipbuilding, Vessel Valuations), Gibson Weeklies (`01-brokers/gibson/`), Signal Ocean (`07-signal/newsroom/`, `monitors/`), Baltic Exchange (`08-baltic/`) | BeautifulSoup DOM scraping via category sync scripts | `corpus/<namespace>/<category>/<year>/*.html` | [`data/extracted/md/<category>/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/) (structured Markdown dossiers + `.tables.json` sidecars) |
-| **3. Graphic & Tabular Images** | `.png` / `.jpg` / `.jpeg` | Alibra Dry/Tanker TC tables (`02-hellenic/dry_charter/`, `tanker_charter/`), VesselsValue valuation matrices (`02-hellenic/vessel_valuations/`), Cash Buyer port queue diagrams (`02-hellenic/demolition/`), MMi/SMM iron ore infographics (`02-hellenic/iron_ore/`), Breakwave macro curves (`03-breakwave/insights/`) | Localized image downloads referenced in HTML/PDFs | Co-located with parent HTML in `corpus/` | Cropped 200 DPI artifacts in [`data/extracted/charts/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/charts/) + digitized coordinate series CSVs |
-| **4. Native Web / API Markdown** | `.md` (Raw Scraped Text) | Baltic Exchange Market Reports (`08-baltic/`: dry, tanker, gas, container, ningbo), Drewry Opinions (`06-drewry/opinions/`), Breakwave Insights (`03-breakwave/insights/`), Fearnleys Broker Voice (`01-brokers/fearnleys/voice/`), Shipbroker Digests (`01-brokers/_digests/`) | Scraped directly from web publisher CMS or GraphQL Hasura API feeds as clean text | `corpus/<namespace>/<category>/<year>/*.md` | Native Markdown in `corpus/` and mirrored in [`data/extracted/md/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/) |
+| **1. Binary Vector PDFs** | `.pdf` (Vector and Text-Layer) | Shipbroker Weeklies (`01-brokers/`: Clarksons, Xclusiv, Banchero Costa, Intermodal, Star Asia, Advanced Shipping, Affinity, Agora, Carriers, ISM, Lion, SSY), Poten (`04-poten/pdfs/`), Drewry AIS (`06-drewry/ais/`), Seabrokers (`05-seabrokers/pdfs/`), Breakwave Bi-Weeklies (`03-breakwave/drybulk/` & `tankers/`), Pilbara Ports (`09-ppa/`), Textbooks (`books/`) | Direct download via scrapers or HTTP syndication | `corpus/<namespace>/<year>/*.pdf` | [`data/extracted/md/<publisher>/`](../data/extracted/md) (cover-to-cover `.md` + `.tables.json` sidecars + 98 series CSVs) |
+| **2. Scraped HTML Web Articles** | `.html` / `.htm` | Hellenic Shipping News (`02-hellenic/`: Demolition, Dry Charter, Tanker Charter, Iron Ore, Shipbuilding, Vessel Valuations), Gibson Weeklies (`01-brokers/gibson/`), Signal Ocean (`07-signal/newsroom/`, `monitors/`), Baltic Exchange (`08-baltic/`) | BeautifulSoup DOM scraping via category sync scripts | `corpus/<namespace>/<category>/<year>/*.html` | [`data/extracted/md/<category>/`](../data/extracted/md) (structured Markdown dossiers + `.tables.json` sidecars) |
+| **3. Graphic & Tabular Images** | `.png` / `.jpg` / `.jpeg` | Alibra Dry/Tanker TC tables (`02-hellenic/dry_charter/`, `tanker_charter/`), VesselsValue valuation matrices (`02-hellenic/vessel_valuations/`), Cash Buyer port queue diagrams (`02-hellenic/demolition/`), MMi/SMM iron ore infographics (`02-hellenic/iron_ore/`), Breakwave macro curves (`03-breakwave/insights/`) | Localized image downloads referenced in HTML/PDFs | Co-located with parent HTML in `corpus/` | Cropped 200 DPI artifacts in [`data/extracted/charts/`](../data/extracted/charts) + digitized coordinate series CSVs |
+| **4. Native Web / API Markdown** | `.md` (Raw Scraped Text) | Baltic Exchange Market Reports (`08-baltic/`: dry, tanker, gas, container, ningbo), Drewry Opinions (`06-drewry/opinions/`), Breakwave Insights (`03-breakwave/insights/`), Fearnleys Broker Voice (`01-brokers/fearnleys/voice/`), Shipbroker Digests (`01-brokers/_digests/`) | Scraped directly from web publisher CMS or GraphQL Hasura API feeds as clean text | `corpus/<namespace>/<category>/<year>/*.md` | Native Markdown in `corpus/` and mirrored in [`data/extracted/md/`](../data/extracted/md) |
 | **5. Statutory Regulatory Filings (SEC2MD)** | `.md` with YAML Frontmatter | SEC EDGAR Corporate Filings (`10-companies/`: 26 listed shipping and dry bulk issuers) | Ingested via `edgartools` and converted cover-to-cover via `sec2md` with YAML headers | `corpus/10-companies/<TICKER>/<FORM>/*.md` | Self-contained, publication-grade Markdown directly in `corpus/10-companies/` |
 | **6. Academic Reference Works** | Dual `.pdf` and `.md` | Maritime Literature (`books/`: 12 foundational textbooks) | High-resolution publication PDFs paired with hand-curated, LaTeX math-normalized Markdown | `corpus/books/*.pdf` and `corpus/books/*.md` | `corpus/books/*.md` is the Graph RAG input. `knowledge/docs/books/` is a legacy copy for the `knowledge/` system only and is not kept in parity |
 
@@ -411,13 +411,13 @@ To eliminate any ambiguity prior to constructing the Graph RAG knowledge graph, 
 When designing and executing the Graph RAG builder (entity resolution, node extraction, and typed edge creation), follow this explicit architecture:
 
 1. **Textual Node & Unstructured Prose Ingestion**:
-   - Ingest **all Markdown files from [`data/extracted/md/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/)** across all broker houses, Poten opinions, Drewry AIS, Seabrokers, and Hellenic categories.
-   - Ingest **native text Markdown files from [`corpus/10-companies/`](file:///c:/Users/Dell/Github/Shipping/corpus/10-companies/)** (SEC corporate filings), [`corpus/03-breakwave/insights/`](file:///c:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/) (macro research articles), [`corpus/08-baltic/`](file:///c:/Users/Dell/Github/Shipping/corpus/08-baltic/) (official Baltic assessments), and [`corpus/books/`](file:///c:/Users/Dell/Github/Shipping/corpus/books/) (theoretical ground truth).
+   - Ingest **all Markdown files from [`data/extracted/md/`](../data/extracted/md)** across all broker houses, Poten opinions, Drewry AIS, Seabrokers, and Hellenic categories.
+   - Ingest **native text Markdown files from [`corpus/10-companies/`](10-companies)** (SEC corporate filings), [`corpus/03-breakwave/insights/`](03-breakwave/insights) (macro research articles), [`corpus/08-baltic/`](08-baltic) (official Baltic assessments), and [`corpus/books/`](books) (theoretical ground truth).
    - *Result*: The Graph RAG pipeline does **not** need to invoke PDF OCR, parse HTML tags, or decode encrypted fonts. The text is in Markdown with YAML frontmatter. Known by-design exclusions and open residuals are listed in §5.4.
    - `knowledge/` (including `knowledge/docs/books/`) is the legacy dashboard system and is **not** a Graph RAG input.
 
 2. **Entity Resolution & Typed Edge Grounding via Relational Series**:
-   - Ground knowledge graph entities and edges directly against the **stacked CSV files in [`data/extracted/series/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/)** (165 files as of 2026-10-19):
+   - Ground knowledge graph entities and edges directly against the **stacked CSV files in [`data/extracted/series/`](../data/extracted/series)** (165 files as of 2026-10-19):
      - **Vessel Nodes**: Use `vessel_name` and verified 7-digit `imo` numbers from `bancosta_sales_series.csv`, `clarksons_sales_series.csv`, `intermodal_sales_series.csv`, `xclusiv_sales_series.csv`, and `advanced_shipping_sales_series.csv`.
      - **Commercial Edges (`REPORTED_SOLD`, `CHARTERED_BY`, `BEACHED_AT`)**: Extract price, buyer, seller, delivery terms, and scrap rates directly from transaction series (`star_asia_deals_series.csv`, `hellenic_athenian_demolition_series.csv`, `hellenic_gms_demolition_series.csv`, `carriers_sales_series.csv`, `lion_sales_series.csv`).
      - **Temporal Properties**: Every relational row is stamped with strict ISO `issue_date` (`YYYY-MM-DD`) and `report_week`, providing uniform time-series anchoring across graph edges.

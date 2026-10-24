@@ -27,7 +27,7 @@ Energy markets remains on edge on supply shortages. Sentiment was also supported
 ![Στιγμιότυπο Οθόνης 2024 09 02 143650](assets/2024-09-02_oil-falls-as-opec-reiterates-commitment-to-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5c22d885422a.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 02 143650**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-02_oil-falls-as-opec-reiterates-commitment-to-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5c22d885422a.png)
+> [Local Asset](assets/2024-09-02_oil-falls-as-opec-reiterates-commitment-to-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5c22d885422a.png)
 
 ### Market Commentary
 
@@ -42,7 +42,7 @@ Supply shortages are supporting**global gas**prices. European gas benchmark futu
 ![Στιγμιότυπο Οθόνης 2024 09 02 143700](assets/2024-09-02_oil-falls-as-opec-reiterates-commitment-to-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_299d567df7b2.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 09 02 143700**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-02_oil-falls-as-opec-reiterates-commitment-to-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_299d567df7b2.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-09-02_oil-falls-as-opec-reiterates-commitment-to-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_299d567df7b2.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

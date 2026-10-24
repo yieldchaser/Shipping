@@ -32,7 +32,7 @@ tags:
 ![Heading](../../images/650c3000060d2c2bc8513067_OIL LIBYA.png)
 
 > **Figure 1: Heading**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-38-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/650c3000060d2c2bc8513067_OIL LIBYA.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-38-2023) | [Local Asset](../../images/650c3000060d2c2bc8513067_OIL LIBYA.png)
 
 The third week of September began on a positive note for VLCC crude oil freight rates, moving well off the August lows and setting a more energetic tone in the transition from the summer season. It remains uncertain whether this newfound momentum will continue through the end of the month as the market hopes for a stronger recovery during the upcoming winter period.
 

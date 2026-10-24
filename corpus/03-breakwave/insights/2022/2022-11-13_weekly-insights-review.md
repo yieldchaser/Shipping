@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-13_weekly-insights-revie
 ![Unsplash Image Gg1cwf4qdlg](assets/2022-11-13_weekly-insights-review_img_unsplash-image-gg1cwf4qdlg_bae496ab7c12.jpg)
 
 > **Figure 1: Unsplash Image Gg1cwf4qdlg**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/7/pl0blv4mfipsin9fewu1w8uam5yt7i) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-13_weekly-insights-review_img_unsplash-image-gg1cwf4qdlg_bae496ab7c12.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/7/pl0blv4mfipsin9fewu1w8uam5yt7i) | [Local Asset](assets/2022-11-13_weekly-insights-review_img_unsplash-image-gg1cwf4qdlg_bae496ab7c12.jpg)
 
 ## Shipping Decarbonization Weekly Insights
 
@@ -45,7 +45,7 @@ The drone attacks on Russian naval assets in Crimea last weekend led to the susp
 ![Unsplash Image 5d1ilpv4c6w](assets/2022-11-13_weekly-insights-review_img_unsplash-image-5d1ilpv4c6w_c5d359255bda.jpg)
 
 > **Figure 2: Unsplash Image 5d1ilpv4c6w**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/9/indonesia-and-russia-remain-chinas-primary-sources-for-coal-imports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-13_weekly-insights-review_img_unsplash-image-5d1ilpv4c6w_c5d359255bda.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/9/indonesia-and-russia-remain-chinas-primary-sources-for-coal-imports) | [Local Asset](assets/2022-11-13_weekly-insights-review_img_unsplash-image-5d1ilpv4c6w_c5d359255bda.jpg)
 
 ## Indonesia and Russia Remain China's Primary Sources for Coal Imports
 
@@ -57,7 +57,7 @@ Coal import data for September by origin has been released and shows that import
 ![Unsplash Image 6d71rfz7j1e](assets/2022-11-13_weekly-insights-review_img_unsplash-image-6d71rfz7j1e_526cae017a9f.jpg)
 
 > **Figure 3: Unsplash Image 6d71rfz7j1e**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/10/signal-dry-bulk-weekly-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-13_weekly-insights-review_img_unsplash-image-6d71rfz7j1e_526cae017a9f.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/10/signal-dry-bulk-weekly-report) | [Local Asset](assets/2022-11-13_weekly-insights-review_img_unsplash-image-6d71rfz7j1e_526cae017a9f.jpg)
 
 ## Signal Dry Bulk Weekly Report
 
@@ -69,12 +69,12 @@ In the second week of November, the downward trend in freight rates has not yet 
 ![Unsplash Image Th Tagnriy](assets/2022-11-13_weekly-insights-review_img_unsplash-image-th-tagnriy_784041607495.jpg)
 
 > **Figure 4: Unsplash Image Th Tagnriy**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/9/metals-gain-as-low-inventories-spark-concerns-of-supply-shortages) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-13_weekly-insights-review_img_unsplash-image-th-tagnriy_784041607495.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/9/metals-gain-as-low-inventories-spark-concerns-of-supply-shortages) | [Local Asset](assets/2022-11-13_weekly-insights-review_img_unsplash-image-th-tagnriy_784041607495.jpg)
 
 ![Unsplash Image Mrhdg5x3ofa](assets/2022-11-13_weekly-insights-review_img_unsplash-image-mrhdg5x3ofa_98e15107b26e.jpg)
 
 > **Figure 5: Unsplash Image Mrhdg5x3ofa**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/9/metals-gain-as-low-inventories-spark-concerns-of-supply-shortages) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-13_weekly-insights-review_img_unsplash-image-mrhdg5x3ofa_98e15107b26e.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/9/metals-gain-as-low-inventories-spark-concerns-of-supply-shortages) | [Local Asset](assets/2022-11-13_weekly-insights-review_img_unsplash-image-mrhdg5x3ofa_98e15107b26e.jpg)
 
 ## Metals Gain As Low Inventories Spark Concerns of Supply Shortages
 
@@ -86,7 +86,7 @@ Rising COVID-19 cases in China weighed on sentiment across commodity markets.
 ![Unsplash Image Auu3z6lajma](assets/2022-11-13_weekly-insights-review_img_unsplash-image-auu3z6lajma_f43ac4f29bb0.jpg)
 
 > **Figure 6: Unsplash Image Auu3z6lajma**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/10/irans-crudecondensate-exports-reached-9-month-highs-in-october-2022) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-13_weekly-insights-review_img_unsplash-image-auu3z6lajma_f43ac4f29bb0.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/10/irans-crudecondensate-exports-reached-9-month-highs-in-october-2022) | [Local Asset](assets/2022-11-13_weekly-insights-review_img_unsplash-image-auu3z6lajma_f43ac4f29bb0.jpg)
 
 ## Iran’s Crude/condensate Exports Reached 9 Month Highs in October 2022
 
@@ -105,7 +105,7 @@ Ordering this year has naturally slowed down as the freight market softened thro
 ![Unsplash Image U9f2mwh73m (1)](assets/2022-11-13_weekly-insights-review_img_unsplash-image-u9f2mwh73m28129_2ef68e9eef5d.jpg)
 
 > **Figure 7: Unsplash Image U9f2mwh73m (1)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/11/decline-in-indias-electricity-production) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-13_weekly-insights-review_img_unsplash-image-u9f2mwh73m28129_2ef68e9eef5d.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/11/11/decline-in-indias-electricity-production) | [Local Asset](assets/2022-11-13_weekly-insights-review_img_unsplash-image-u9f2mwh73m28129_2ef68e9eef5d.jpg)
 
 ## Decline in India's Electricity Production
 
@@ -117,4 +117,4 @@ As we discussed in our most recent Weekly Dry Bulk Report, India produced only 1
 ![Unsplash Image Qpaoxji4dao (1)](assets/2022-11-13_weekly-insights-review_img_unsplash-image-qpaoxji4dao28129_9453b7359296.jpg)
 
 > **Figure 8: Unsplash Image Qpaoxji4dao (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-13_weekly-insights-review_img_unsplash-image-qpaoxji4dao28129_9453b7359296.jpg)
+> [Local Asset](assets/2022-11-13_weekly-insights-review_img_unsplash-image-qpaoxji4dao28129_9453b7359296.jpg)

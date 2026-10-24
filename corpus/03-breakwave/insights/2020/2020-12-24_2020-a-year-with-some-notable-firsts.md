@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-12-24_2020-a-year-with-some
 
 > **Figure 1: Crude Oil - West Texas Intermediate (Usd/barrel)**  
 > *Crude Oil - West Texas Intermediate (USD/barrel)*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-24_2020-a-year-with-some-notable-firsts_img_image-asset_52a39047e637.jpeg)
+> [Local Asset](assets/2020-12-24_2020-a-year-with-some-notable-firsts_img_image-asset_52a39047e637.jpeg)
 
 The current year is unlikely to be easily forgotten and probably mostly for the wrong reasons. In terms of data output, it is hard to think of a year that could qualify as a more significant outlier and the data from 2020 will cause considerable consternation among quantitative modellers for years to come. The big question will be how to treat the year analytically and if it needs to be excluded from any time-series used, as the data is likely to be rather unrepresentative, unless another pandemic hits in the near future. It probably does not help that next year is likely to qualify as another outlier with the pendulum swinging the other way, assuming the world economy stages a recovery with the arrival of vaccines.
 
@@ -35,7 +35,7 @@ The year has also seen a few notable firsts, with negative oil prices perhaps st
 ![Ulf 95](assets/2020-12-24_2020-a-year-with-some-notable-firsts_img_ulf95_08d55db00b82.jpg)
 
 > **Figure 2: Ulf 95**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-24_2020-a-year-with-some-notable-firsts_img_ulf95_08d55db00b82.jpg)
+> [Local Asset](assets/2020-12-24_2020-a-year-with-some-notable-firsts_img_ulf95_08d55db00b82.jpg)
 
 The Baltic Exchange’s Capesize Index was another notable first-time visitor in the negative territory, as freight rates fell well below break-even in the early parts of the year as the pandemic curtailed industrial production in China and, later, elsewhere. Whether by design or by accident, negative prices and index levels provide interesting mathematical challenges for modellers and analysts and year-on-year comparisons in the early parts of next year could make for interesting reading.
 

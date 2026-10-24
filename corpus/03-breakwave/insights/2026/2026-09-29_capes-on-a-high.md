@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-09-29_capes-on-a-high.html"
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-29_capes-on-a-high_img_pexels-vasu27-5520019_d99490a74a25.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](assets/2026-09-29_capes-on-a-high_img_pexels-vasu27-5520019_d99490a74a25.jpg)
 
 The Capesize market has emerged as one of the clearest examples of how improved cargo demand, stronger tonne-mile fundamentals and tighter vessel availability can translate into materially better freight earnings and asset values. Based on Signal Ocean data, between 1 January and 25 September 2026, Capesize dry bulk movements reached 1,198.68 million MT across 9,555 voyages, up 4.4% from 1,148.06 million MT and 9,367 voyages during the same period of 2025. Australia remained the dominant loading origin, with volumes rising 3.9% to 658.42 million MT, while Guinea recorded the most significant expansion, increasing 36.9% to 149.88 million MT and overtaking Brazil, where volumes slipped 1.4% to 133.82 million MT. China remained overwhelmingly the main destination, receiving 854.97 million MT, up 5.1% year-on-year, while South Korean imports increased 16.1% to 74.23 million MT.
 

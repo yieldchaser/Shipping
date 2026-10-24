@@ -38,6 +38,6 @@ Along with China’s decelerating economy and high interest rates, the Internati
 ![1](assets/2023-10-16_60egsxwobcgroizsuhqxbx395x86an_img_1_fee90dcffba5.png)
 
 > **Figure 1: 1**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-16_60egsxwobcgroizsuhqxbx395x86an_img_1_fee90dcffba5.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-10-16_60egsxwobcgroizsuhqxbx395x86an_img_1_fee90dcffba5.png)
 
 Data source:[Doric](https://www.doric.gr/)

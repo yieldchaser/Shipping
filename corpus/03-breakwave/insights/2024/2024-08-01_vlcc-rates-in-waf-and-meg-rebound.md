@@ -27,12 +27,12 @@ In this final issue of the Freight Newsletter in its current form, we contextual
 ![Στιγμιότυπο Οθόνης 2024 08 01 105201](assets/2024-08-01_vlcc-rates-in-waf-and-meg-rebound_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4a83084d19d6.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 08 01 105201**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUqCvTsbIeh1TRYZcGPmSp_8dC-e_e8QmBezvlXf1AZOCf57j86n3mUf_eRm7WHXQE48sjlqw=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-01_vlcc-rates-in-waf-and-meg-rebound_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4a83084d19d6.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUqCvTsbIeh1TRYZcGPmSp_8dC-e_e8QmBezvlXf1AZOCf57j86n3mUf_eRm7WHXQE48sjlqw=) | [Local Asset](assets/2024-08-01_vlcc-rates-in-waf-and-meg-rebound_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4a83084d19d6.png)
 
 ![Στιγμιότυπο Οθόνης 2024 08 01 105220](assets/2024-08-01_vlcc-rates-in-waf-and-meg-rebound_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66f19421cbeb.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 08 01 105220**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUqCvTsbIeh1TRYZcGPmSp_8dC-e_e8QmBezvlXf1AZOCf57j86n3mUf_eRm7WHXQE48sjlqw=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-01_vlcc-rates-in-waf-and-meg-rebound_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66f19421cbeb.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUqCvTsbIeh1TRYZcGPmSp_8dC-e_e8QmBezvlXf1AZOCf57j86n3mUf_eRm7WHXQE48sjlqw=) | [Local Asset](assets/2024-08-01_vlcc-rates-in-waf-and-meg-rebound_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66f19421cbeb.png)
 
 - [TD3C (MEG-China)](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUqCvTsbIeh1TRYZcGPmSp_8dC-e_e8QmBezvlXf1AZOCf57j86n3mUf_eRm7WHXQE48sjlqw=)and[TD15( WAf-to-China)](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUqCvTsYkxWoyxIOS-sMI2zbw5_anqiCDYqTD4GlKt2iTWMjuqi-mdUfP4lSeyNPviWyC8mjY=)freight rates rebounded last week after reaching their year-to-date lows in mid-July.
 
@@ -42,7 +42,7 @@ In this final issue of the Freight Newsletter in its current form, we contextual
 ![Στιγμιότυπο Οθόνης 2024 08 01 105413](assets/2024-08-01_vlcc-rates-in-waf-and-meg-rebound_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7b3da6f8d47e.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 08 01 105413**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUqCvTsXJ2VW_M69FiyfldMMTkYxObUSNlQf3Fgz3XP-0hkqafFgKwHdGDOn6-TDfRt1dhybI=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-01_vlcc-rates-in-waf-and-meg-rebound_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7b3da6f8d47e.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUqCvTsXJ2VW_M69FiyfldMMTkYxObUSNlQf3Fgz3XP-0hkqafFgKwHdGDOn6-TDfRt1dhybI=) | [Local Asset](assets/2024-08-01_vlcc-rates-in-waf-and-meg-rebound_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7b3da6f8d47e.png)
 
 - MR freight rates in APAC continue to decline as[prompt vessel availability](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUqCvTsXJ2VW_M69FiyfldMMTkYxObUSNlQf3Fgz3XP-0hkqafFgKwHdGDOn6-TDfRt1dhybI=)continues to increase, and overall MR supply in NE/SE Asia remains at high levels after a large increase in June.
 
@@ -52,7 +52,7 @@ In this final issue of the Freight Newsletter in its current form, we contextual
 ![Στιγμιότυπο Οθόνης 2024 08 01 105521](assets/2024-08-01_vlcc-rates-in-waf-and-meg-rebound_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e326b5c13e0c.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 08 01 105521**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUqCvTsUlkNrbMS-jxkzmxNlt1YKamGcnpdJMeiW7vJBOs2Rh8kRku8Xg2oLxp3mZJc5k8O5M=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-01_vlcc-rates-in-waf-and-meg-rebound_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e326b5c13e0c.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUqCvTsUlkNrbMS-jxkzmxNlt1YKamGcnpdJMeiW7vJBOs2Rh8kRku8Xg2oLxp3mZJc5k8O5M=) | [Local Asset](assets/2024-08-01_vlcc-rates-in-waf-and-meg-rebound_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e326b5c13e0c.png)
 
 - A drop in VLCC rates combined with weak crude Chinese demand has triggered an increasing share of VLCC voyages in alternative trades.
 
@@ -62,7 +62,7 @@ In this final issue of the Freight Newsletter in its current form, we contextual
 ![Στιγμιότυπο Οθόνης 2024 08 01 105621](assets/2024-08-01_vlcc-rates-in-waf-and-meg-rebound_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f7321fb3ef73.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 08 01 105621**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUqCvTsT-oq4uBm_P_oBqRiPcKa3y5XH9n-0ngoZ7cDD_oL5JV-9lbYyuI3zUBQ1FPfuy75Nw=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-01_vlcc-rates-in-waf-and-meg-rebound_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f7321fb3ef73.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUqCvTsT-oq4uBm_P_oBqRiPcKa3y5XH9n-0ngoZ7cDD_oL5JV-9lbYyuI3zUBQ1FPfuy75Nw=) | [Local Asset](assets/2024-08-01_vlcc-rates-in-waf-and-meg-rebound_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f7321fb3ef73.png)
 
 - US Gulf MR freight rates have recently been very volatile because the vessel supply-side has outmuscled the high demand for MRs as short-haul employment has failed to clear tonnage. (Read more[here](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGUqCvTsT-oq4uBm_P_oBqRiPcKa3y5XH9n-0ngoZ7cDD_oL5JV-9lbYyuI3zUBQ1FPfuy75Nw=).)
 

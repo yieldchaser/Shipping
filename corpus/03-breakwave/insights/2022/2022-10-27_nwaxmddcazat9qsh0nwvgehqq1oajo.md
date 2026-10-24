@@ -28,7 +28,7 @@ China’s GDP rose by 3.9 percent in the third quarter of 2022, compared with th
 ![313109424 519148390075432 3185757337252782014 N](assets/2022-10-27_nwaxmddcazat9qsh0nwvgehqq1oajo_img_313109424-519148390075432-3185757337_2050bd2b9d92.jpg)
 
 > **Figure 1: 313109424 519148390075432 3185757337252782014 N**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-27_nwaxmddcazat9qsh0nwvgehqq1oajo_img_313109424-519148390075432-3185757337_2050bd2b9d92.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr) | [Local Asset](assets/2022-10-27_nwaxmddcazat9qsh0nwvgehqq1oajo_img_313109424-519148390075432-3185757337_2050bd2b9d92.jpg)
 
 ### Price Environment
 
@@ -37,7 +37,7 @@ China’s producer-price index rose by 0.9 percent from a year earlier in Septem
 ![312921025 660267678819076 1230870583928261128 N](assets/2022-10-27_nwaxmddcazat9qsh0nwvgehqq1oajo_img_312921025-660267678819076-1230870583_76c9d61abb02.jpg)
 
 > **Figure 2: 312921025 660267678819076 1230870583928261128 N**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-27_nwaxmddcazat9qsh0nwvgehqq1oajo_img_312921025-660267678819076-1230870583_76c9d61abb02.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr) | [Local Asset](assets/2022-10-27_nwaxmddcazat9qsh0nwvgehqq1oajo_img_312921025-660267678819076-1230870583_76c9d61abb02.jpg)
 
 ### Manufacturing 1/2
 
@@ -46,7 +46,7 @@ China’s production of crude steel increased by 17.6 percent from a year earlie
 ![313120261 1251157895740974 1447794218823391772 N](assets/2022-10-27_nwaxmddcazat9qsh0nwvgehqq1oajo_img_313120261-1251157895740974-144779421_592b3c030a7e.jpg)
 
 > **Figure 3: 313120261 1251157895740974 1447794218823391772 N**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-27_nwaxmddcazat9qsh0nwvgehqq1oajo_img_313120261-1251157895740974-144779421_592b3c030a7e.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr) | [Local Asset](assets/2022-10-27_nwaxmddcazat9qsh0nwvgehqq1oajo_img_313120261-1251157895740974-144779421_592b3c030a7e.jpg)
 
 ### Manufacturing 2/2
 
@@ -55,7 +55,7 @@ China’s real estate investment dropped by 12.1 percent year-on-year in Septemb
 ![313121698 621794816396303 3345453875298806439 N (1)](assets/2022-10-27_nwaxmddcazat9qsh0nwvgehqq1oajo_img_313121698-621794816396303-3345453875_1934ed6282f8.jpg)
 
 > **Figure 4: 313121698 621794816396303 3345453875298806439 N (1)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-27_nwaxmddcazat9qsh0nwvgehqq1oajo_img_313121698-621794816396303-3345453875_1934ed6282f8.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr) | [Local Asset](assets/2022-10-27_nwaxmddcazat9qsh0nwvgehqq1oajo_img_313121698-621794816396303-3345453875_1934ed6282f8.jpg)
 
 ### Energy 1/2
 
@@ -64,7 +64,7 @@ Electricity production in China reached circa 682 billion kwh in September, or a
 ![313090916 799472167945016 575209594685074012 N (1)](assets/2022-10-27_nwaxmddcazat9qsh0nwvgehqq1oajo_img_313090916-799472167945016-5752095946_f3159384f8a3.jpg)
 
 > **Figure 5: 313090916 799472167945016 575209594685074012 N (1)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-27_nwaxmddcazat9qsh0nwvgehqq1oajo_img_313090916-799472167945016-5752095946_f3159384f8a3.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr) | [Local Asset](assets/2022-10-27_nwaxmddcazat9qsh0nwvgehqq1oajo_img_313090916-799472167945016-5752095946_f3159384f8a3.jpg)
 
 ### Energy 2/2
 
@@ -73,7 +73,7 @@ Electricity generated from thermal power in China balanced at circa 479.72 teraw
 ![313083169 1097431050874637 791576494195243118 N](assets/2022-10-27_nwaxmddcazat9qsh0nwvgehqq1oajo_img_313083169-1097431050874637-791576494_5683aa9c296a.jpg)
 
 > **Figure 6: 313083169 1097431050874637 791576494195243118 N**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-27_nwaxmddcazat9qsh0nwvgehqq1oajo_img_313083169-1097431050874637-791576494_5683aa9c296a.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr) | [Local Asset](assets/2022-10-27_nwaxmddcazat9qsh0nwvgehqq1oajo_img_313083169-1097431050874637-791576494_5683aa9c296a.jpg)
 
 Part 2/2 will be published tomorrow.
 

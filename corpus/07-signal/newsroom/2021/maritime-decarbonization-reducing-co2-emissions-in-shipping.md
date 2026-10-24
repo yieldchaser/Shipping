@@ -45,7 +45,7 @@ Data monitoring is essential for all players,  owners and charterers alike, to 
 
 > **Figure 1: Scrubber Exhaust Pipe of Ships Systems (E.g**  
 > *Scrubber Exhaust pipe of ships systems (e.g. chemical scrubbers, gas scrubbers)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-decarbonization-reducing-co2-emissions-in-shipping) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d3dda739356d24ea52a_60ed87a0a9010bc64f5506c3_maritime%20decarbonasation%20signal%20ocean%20platform%20data%20v2.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-decarbonization-reducing-co2-emissions-in-shipping) | [Local Asset](../../images/66b51d3dda739356d24ea52a_60ed87a0a9010bc64f5506c3_maritime%20decarbonasation%20signal%20ocean%20platform%20data%20v2.avif)
 
 
 ## Co2 Emissions Monitoring with the Signal Ocean Platform
@@ -64,7 +64,7 @@ The below geographical distribution (Chart 1), using The Signal Ocean Platform d
 
 > **Chart 1: Total Co2 Emissions, Year 2020 per Load Area, for VLCC, Suezmax, Aframax, Panamax, Mr Fleets**  
 > *Chart 1: Total CO2 Emissions, Year 2020 per Load Area, for VLCC, Suezmax, Aframax, Panamax, MR Fleets. Signal Ocean Platform data.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-decarbonization-reducing-co2-emissions-in-shipping) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d3dda739356d24ea544_60ed8ce2867056b48107fa21_wet%20co2%20maritime%20and%20shipping%20industry%20emissio%20year%202020%20geographic%20distribution%20signal%20ocean.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-decarbonization-reducing-co2-emissions-in-shipping) | [Local Asset](../../images/66b51d3dda739356d24ea544_60ed8ce2867056b48107fa21_wet%20co2%20maritime%20and%20shipping%20industry%20emissio%20year%202020%20geographic%20distribution%20signal%20ocean.avif)
 
 
 ## Triangulation Is Key
@@ -78,7 +78,7 @@ The figures for year 2020 indicate highest average triangulation time for MR2: 5
 
 > **Chart 2: &3:average Triangulation Time and Co2 Emissions per Vessel Class**  
 > *Chart 2&3:Average Triangulation Time and CO2 emissions per vessel class. Signal Ocean Platform data.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-decarbonization-reducing-co2-emissions-in-shipping) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d3dda739356d24ea52f_60ee98b3d5512e7b81b8a266_total%20co2%20emission%20per%20vessel%20class%20signal%20ocean%20platform%20decarbonasation%20and%20shipping%20v2.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-decarbonization-reducing-co2-emissions-in-shipping) | [Local Asset](../../images/66b51d3dda739356d24ea52f_60ee98b3d5512e7b81b8a266_total%20co2%20emission%20per%20vessel%20class%20signal%20ocean%20platform%20decarbonasation%20and%20shipping%20v2.avif)
 
 
 ## The Impact of Vessel Speed on the Reduction of Co2 Emissions
@@ -90,7 +90,7 @@ The industry is used to adjusting the speed based on market conditions as shown 
 
 > **Chart 4: Speed Report per Vessel Class**  
 > *Chart 4: Speed report per vessel class. Signal Ocean Platform data.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-decarbonization-reducing-co2-emissions-in-shipping) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d3dda739356d24ea53f_60ed8d4f85dae95285bf5ebf_vessel%20speeds%20signal%20ocean%20platform%20decarbonasation%20maritime.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-decarbonization-reducing-co2-emissions-in-shipping) | [Local Asset](../../images/66b51d3dda739356d24ea53f_60ed8d4f85dae95285bf5ebf_vessel%20speeds%20signal%20ocean%20platform%20decarbonasation%20maritime.avif)
 
 
 ## The Steps for Lower Co2 Emissions Transition

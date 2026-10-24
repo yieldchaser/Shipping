@@ -26,18 +26,18 @@ China produced 381.5 million tons of coal in April. This has marked a month-on-m
 ![Chart 1 (74)](assets/2023-05-31_stronger-growth-in-chinas-coal-derived-electricity-production_img_chart1287429_a7ccbaf47f9c.jpg)
 
 > **Figure 1: Chart 1 (74)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-31_stronger-growth-in-chinas-coal-derived-electricity-production_img_chart1287429_a7ccbaf47f9c.jpg)
+> [Local Asset](assets/2023-05-31_stronger-growth-in-chinas-coal-derived-electricity-production_img_chart1287429_a7ccbaf47f9c.jpg)
 
 China's electricity production totaled 658.4 billion kilowatt hours last month. This has marked a month-on-month decline of 58.9 billion kilowatt hours (-8%) but is up year-on-year by 49.8 billion kilowatt hours (8%).
 
 ![Chart 2 (63)](assets/2023-05-31_stronger-growth-in-chinas-coal-derived-electricity-production_img_chart2286329_01d19ec39812.jpg)
 
 > **Figure 2: Chart 2 (63)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-31_stronger-growth-in-chinas-coal-derived-electricity-production_img_chart2286329_01d19ec39812.jpg)
+> [Local Asset](assets/2023-05-31_stronger-growth-in-chinas-coal-derived-electricity-production_img_chart2286329_01d19ec39812.jpg)
 
 Coal-derived electricity generation continues to make up the bulk of the nation’s electricity production and totaled 449.4 billion kilowatt hours last month. This has marked a month-on-month decline of 65.2 billion kilowatt hours (-13%) but is up year-on-year by 48.6 billion kilowatt hours (12%). Coal-derived electricity generation growth has now exceeded coal production growth for two straight months. Previously, coal production growth had exceeded coal-derived electricity generation growth during fourteen of the prior sixteen months.
 
 ![Chart 3 (45)](assets/2023-05-31_stronger-growth-in-chinas-coal-derived-electricity-production_img_chart3284529_267742124e85.jpg)
 
 > **Figure 3: Chart 3 (45)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-31_stronger-growth-in-chinas-coal-derived-electricity-production_img_chart3284529_267742124e85.jpg)
+> [Local Asset](assets/2023-05-31_stronger-growth-in-chinas-coal-derived-electricity-production_img_chart3284529_267742124e85.jpg)

@@ -27,7 +27,7 @@ Energy markets led the complex higher, as supply disruptions mounted amid furthe
 ![Στιγμιότυπο Οθόνης 2026 09 10 105438](assets/2026-09-10_brent-tops-usd100bbl-as-us-iran-attacks-escalate_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b04be10ff39b.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 09 10 105438**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-10_brent-tops-usd100bbl-as-us-iran-attacks-escalate_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b04be10ff39b.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2026-09-10_brent-tops-usd100bbl-as-us-iran-attacks-escalate_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b04be10ff39b.png)
 
 ### Market Commentary
 
@@ -48,7 +48,7 @@ The average US retail diesel spot price hit USD6/gallon this week amid increasin
 ![Στιγμιότυπο Οθόνης 2026 09 10 105447](assets/2026-09-10_brent-tops-usd100bbl-as-us-iran-attacks-escalate_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88f343720248.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 09 10 105447**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-10_brent-tops-usd100bbl-as-us-iran-attacks-escalate_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88f343720248.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2026-09-10_brent-tops-usd100bbl-as-us-iran-attacks-escalate_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88f343720248.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

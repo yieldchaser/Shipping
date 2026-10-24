@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-01-08_relations-between-aus
 ![Australia China](assets/2021-01-08_relations-between-australia-and-china-as-frozen-as-the-northern-hemisphere_img_australiachina_ef1989f91ba4.jpg)
 
 > **Figure 1: Australia China**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-08_relations-between-australia-and-china-as-frozen-as-the-northern-hemisphere_img_australiachina_ef1989f91ba4.jpg)
+> [Local Asset](assets/2021-01-08_relations-between-australia-and-china-as-frozen-as-the-northern-hemisphere_img_australiachina_ef1989f91ba4.jpg)
 
 The Northern hemisphere is currently facing a colder than usual winter, which proves to be good news for energy prices. The cold spell has depleted inventories of oil, LNG and coal in north-eastern Asia, where the mercury has fallen the most compared to the norm. The increase in demand for heating have seen oil refinery output increasing by seven percent, compared to a year ago, in Japan and South-Korea considering tapping into the nation’s strategic reserves. Beyond oil, higher demand for LNG in the region has boosted prices and a spot deal above benchmark records has been recorded in the last few days.
 
@@ -34,7 +34,7 @@ The cold weather has exacerbated an already tight energy situation in China, as 
 ![Market Chart 2](assets/2021-01-08_relations-between-australia-and-china-as-frozen-as-the-northern-hemisphere_img_image-asset_894485408bb5.jpeg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-08_relations-between-australia-and-china-as-frozen-as-the-northern-hemisphere_img_image-asset_894485408bb5.jpeg)
+> [Local Asset](assets/2021-01-08_relations-between-australia-and-china-as-frozen-as-the-northern-hemisphere_img_image-asset_894485408bb5.jpeg)
 
 The ongoing trade spat between Australia and China is contributing to the surging domestic coal prices, with one of the major coal supplier being banned from exporting to the Chinese market. Currently there are some 70 dry bulk vessels languishing off the Chinese coast unable to discharge their cargo of Australian coal. At the same time, Chinese data show that imports of coal have increased from Mongolia, Russia and Canada as Australian volumes have plunged. From a shipping perspective an increase in imports from Mongolia is clearly not desirable, as such volumes would be moved over land by rail. More distant suppliers, such as Canada or Colombia the fifth and sixth largest providers, are clearly preferable to shipowners, with healthy additions to the tonne-mile demand. The transport capacity and readiness of the rail lines under currently construction between Mongolia and China will to a large extent decide where China will source the replacements for Australian coal.
 

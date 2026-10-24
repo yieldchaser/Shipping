@@ -27,7 +27,7 @@ Renewed supply side issues helped push energy markets higher. Industrial metals 
 ![Στιγμιότυπο Οθόνης 2025 11 04 111814](assets/2025-11-04_oil-gains-after-opec-pauses-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_365318fa65eb.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 11 04 111814**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-04_oil-gains-after-opec-pauses-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_365318fa65eb.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-11-04_oil-gains-after-opec-pauses-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_365318fa65eb.png)
 
 ### Market Commentary
 
@@ -46,7 +46,7 @@ European carbon futures rose above EUR80/t, after Germany announced new support 
 ![Στιγμιότυπο Οθόνης 2025 11 04 111912](assets/2025-11-04_oil-gains-after-opec-pauses-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2729808ff404.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 11 04 111912**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-04_oil-gains-after-opec-pauses-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2729808ff404.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-11-04_oil-gains-after-opec-pauses-production-hikes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2729808ff404.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

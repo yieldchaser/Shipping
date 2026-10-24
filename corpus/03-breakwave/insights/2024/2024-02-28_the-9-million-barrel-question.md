@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-02-28_the-9-million-barrel-
 ![241](assets/2024-02-28_the-9-million-barrel-question_img_241_7054288bd4a6.jpg)
 
 > **Figure 1: 241**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-28_the-9-million-barrel-question_img_241_7054288bd4a6.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-02-28_the-9-million-barrel-question_img_241_7054288bd4a6.jpg)
 
 Whilst there is significant debate as to the strength of long-term oil demand growth, there is little debate as to where much of that growth will come from; India. The world’s most populous country sits far behind China in terms of its oil demand per capita, underscoring how much potential remains. Indeed, the country is set to be the largest single source of demand growth between now and 2030. Prime Minister Narendra Modi recently announced a plan to raise domestic refining capacity to 9mbd by 2030; however, for this goal to be achieved, significant new investment will be required.
 
@@ -36,7 +36,7 @@ In the near term, existing refinery investment would seem sufficient to both mee
 ![Screenshot 2024 02 28 12.21.57](assets/2024-02-28_the-9-million-barrel-question_img_screenshot2024-02-28122157_9795cbbfc827.png)
 
 > **Figure 2: Screenshot 2024 02 28 12.21.57**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-28_the-9-million-barrel-question_img_screenshot2024-02-28122157_9795cbbfc827.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-02-28_the-9-million-barrel-question_img_screenshot2024-02-28122157_9795cbbfc827.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

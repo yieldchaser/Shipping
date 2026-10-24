@@ -31,7 +31,7 @@ Global seaborne coal flows suffered in 2025 due to significantly lower imports f
 
 > **Figure 1: Source:coal Carrying Capesize Tonne-Miles to China From Signal**  
 > *Source:Coal carrying Capesize tonne-miles to China from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-03_seaborne-coal-suffers-in-2025-as-china-burns-less-and-produces-more_img_unnamed28929_7f3d555bf4d0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-02-03_seaborne-coal-suffers-in-2025-as-china-burns-less-and-produces-more_img_unnamed28929_7f3d555bf4d0.png)
 
 China ended 2025 having imported 404mt of seaborne coal according to TSOP. This was a decrease of over 11%, or 50mt. This came despite a surge in December imports, which were 12% higher than the same month in 2024. This drove the 3% decline in global seaborne coal flows in 2025, which TSOP recorded at 1.4bt.
 
@@ -43,7 +43,7 @@ Coal carrying capesize tonne-days spent the entirety of 2025, bar a very short p
 
 > **Figure 2: Source:china Thermal Coal Imports From Signal Ocean**  
 > *Source:China thermal coal imports from Signal Ocean*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-03_seaborne-coal-suffers-in-2025-as-china-burns-less-and-produces-more_img_unnamed281029_31932b579ac6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-02-03_seaborne-coal-suffers-in-2025-as-china-burns-less-and-produces-more_img_unnamed281029_31932b579ac6.png)
 
 Thermal coal remains the dominant source of electricity generation in China and usually moves in line with overall electricity output. However, 2025 was an exception. Although thermal power continued to account for the largest share of electricity generation, total electricity production in China rose by 2.2%. In comparison, thermal power generation fell by 1%, the first annual decline in over a decade.
 
@@ -55,7 +55,7 @@ Given the expected rise in China’s total electricity demand in 2026, coal will
 
 > **Figure 3: Source:china Coal Production From the National Bureau Of**  
 > *Source:China coal production from the National Bureau of Statistics*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-03_seaborne-coal-suffers-in-2025-as-china-burns-less-and-produces-more_img_unnamed281129_02950b09a28c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-02-03_seaborne-coal-suffers-in-2025-as-china-burns-less-and-produces-more_img_unnamed281129_02950b09a28c.png)
 
 ### Coal Imports Will Keep Falling, But by How Much…
 

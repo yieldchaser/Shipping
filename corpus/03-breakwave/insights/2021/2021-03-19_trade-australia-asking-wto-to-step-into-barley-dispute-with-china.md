@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-03-19_trade-australia-askin
 ![Unsplash Image Jkfnpgk8onw](assets/2021-03-19_trade-australia-asking-wto-to-step-into-barley-dispute-with-china_img_unsplash-image-jkfnpgk8onw_0b4be0ca6d69.jpg)
 
 > **Figure 1: Unsplash Image Jkfnpgk8onw**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-19_trade-australia-asking-wto-to-step-into-barley-dispute-with-china_img_unsplash-image-jkfnpgk8onw_0b4be0ca6d69.jpg)
+> [Local Asset](assets/2021-03-19_trade-australia-asking-wto-to-step-into-barley-dispute-with-china_img_unsplash-image-jkfnpgk8onw_0b4be0ca6d69.jpg)
 
 The Australian government has asked the WTO to formally establish a dispute-settlement panel after the initial informal talks on the trade of barley with China have failed to gain traction. The informal consultations were the first steps following Canberra’s formal complaint to the international trade body after Chinese authorities imposed 80 per cent duties on imports of barley from Australia. According to the Australian Trade Minister, contacts have yet to reach ministerial levels and have only been between officials so far. The escalation from the Australian side also suggests that they do not see a solution to the trade dispute any time soon, as resolutions through the WTO usually take years to formalise. The diplomatic spat between the two countries has been going on since April last year, with Chinese imports of Australian goods, with the notable exception of iron ore, badly affected by an unofficial ban and tariffs. However, the bilateral relations have continued to deteriorate recently, with Beijing calling for the Australian offshore detention centres to be closed, alleging human rights violations, and Canberra reviewing the 99-year lease by a Chinese company of the Port of Darwin under new national security laws.
 
@@ -38,7 +38,7 @@ With the Australian barley crops remaining off-limits for the Chinese buyers, su
 ![Unsplash Image G Z4 2nnxcc](assets/2021-03-19_trade-australia-asking-wto-to-step-into-barley-dispute-with-china_img_unsplash-image-g-z4-2nnxcc_b351cf0d5e8a.jpg)
 
 > **Figure 2: Unsplash Image G Z4 2nnxcc**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-19_trade-australia-asking-wto-to-step-into-barley-dispute-with-china_img_unsplash-image-g-z4-2nnxcc_b351cf0d5e8a.jpg)
+> [Local Asset](assets/2021-03-19_trade-australia-asking-wto-to-step-into-barley-dispute-with-china_img_unsplash-image-g-z4-2nnxcc_b351cf0d5e8a.jpg)
 
 Large parts of the coming European and Canadian barley harvests have also already been booked by Chinese buyers, according to traders. Around one million tonnes of both Canadian and European new-crop barley are thought to have been sold so far, with shipments largely set for the July-September period.
 

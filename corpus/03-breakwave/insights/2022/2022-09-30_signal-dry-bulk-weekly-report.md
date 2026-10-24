@@ -32,7 +32,7 @@ In the grain segment, Chicago wheat futures fell below their three-month high of
 ![Market Chart 1](assets/2022-09-30_signal-dry-bulk-weekly-report_img_unnamed287929_60e897c7edfc.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-30_signal-dry-bulk-weekly-report_img_unnamed287929_60e897c7edfc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-09-30_signal-dry-bulk-weekly-report_img_unnamed287929_60e897c7edfc.png)
 
 During the last week of September, freight rate sentiment remained stable across all vessel categories, with a clear upward trend for Capesize vessels.
 
@@ -46,7 +46,7 @@ During the last week of September, freight rate sentiment remained stable across
 ![Supply Trend Lines for Key Load Areas](assets/2022-09-30_signal-dry-bulk-weekly-report_img_unnamed288029_61f0f232779a.png)
 
 > **Figure 2: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-30_signal-dry-bulk-weekly-report_img_unnamed288029_61f0f232779a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-09-30_signal-dry-bulk-weekly-report_img_unnamed288029_61f0f232779a.png)
 
 The number of Capesize and Panamax vessels sailing with ballast has gradually declined over the past three weeks, while the number of Supramax and Handysize vessels has slowly declined after peaking last week.
 
@@ -60,7 +60,7 @@ The number of Capesize and Panamax vessels sailing with ballast has gradually de
 ![TonDays Increasing](assets/2022-09-30_signal-dry-bulk-weekly-report_img_unnamed288129_ff6ca4adb8f0.png)
 
 > **Figure 3: TonDays Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-30_signal-dry-bulk-weekly-report_img_unnamed288129_ff6ca4adb8f0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-09-30_signal-dry-bulk-weekly-report_img_unnamed288129_ff6ca4adb8f0.png)
 
 At the end of September, the surprising upward trend in Capesize vessels continued, while some firmness remained in the Supramax segment.
 
@@ -74,7 +74,7 @@ At the end of September, the surprising upward trend in Capesize vessels continu
 ![Dry Bulk Ships Congested at Chinese Ports](assets/2022-09-30_signal-dry-bulk-weekly-report_img_unnamed288229_d6cc2281e625.png)
 
 > **Figure 4: Dry Bulk Ships Congested at Chinese Ports**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-30_signal-dry-bulk-weekly-report_img_unnamed288229_d6cc2281e625.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2022-09-30_signal-dry-bulk-weekly-report_img_unnamed288229_d6cc2281e625.png)
 
 The number of congested vessels remains accelerated for the end of September, with a significant increase in the Panamax and Supramax segments.
 

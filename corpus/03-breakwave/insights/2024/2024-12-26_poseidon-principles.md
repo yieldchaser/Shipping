@@ -27,7 +27,7 @@ Half a decade has passed since the introduction of Poseidon Principles to the sh
 ![Στιγμιότυπο Οθόνης 2024 12 26 131721](assets/2024-12-26_poseidon-principles_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_763056e5d6e8.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 12 26 131721**  
-> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-26_poseidon-principles_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_763056e5d6e8.png)
+> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](assets/2024-12-26_poseidon-principles_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_763056e5d6e8.png)
 
 While the financing of greener ships is progressing, several challenges persist. These include difficulties for the owners to secure debt for retrofitting existing vessels, a reluctance of some financial institutions to finance dual-fuel vessels, and concerns from shipowners regarding the higher costs and limited availability of cleaner fuels.
 
@@ -36,12 +36,12 @@ Despite these challenges the green transition of the shipping industry is progre
 ![Στιγμιότυπο Οθόνης 2024 12 26 131736](assets/2024-12-26_poseidon-principles_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_273931f1267a.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 12 26 131736**  
-> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-26_poseidon-principles_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_273931f1267a.png)
+> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](assets/2024-12-26_poseidon-principles_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_273931f1267a.png)
 
 ![Στιγμιότυπο Οθόνης 2024 12 26 131753](assets/2024-12-26_poseidon-principles_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b49a861ba2b7.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 12 26 131753**  
-> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-26_poseidon-principles_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b49a861ba2b7.png)
+> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](assets/2024-12-26_poseidon-principles_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b49a861ba2b7.png)
 
 Focusing to the the dual-fuel fleet, it currently counts 2,119 vessels with a combined capacity of 123 million gt, representing 7.4% of the global fleet by gross tonnage. This marks a significant increase from the 3.2% recorded in 2018, prior to the introduction of the Poseidon Principles. Notably, 84% of this alternative fuel tonnage is LNG dual-fuel, consisting of 1,248 units with a total capacity of 102.93 million gt. Moreover, the share of dual fuel vessels in the global orderbook is steadily rising, climbing to 52%, from just 16% in 2018. The current dual-fuel orderbook totals 1,821 units with a combined capacity of 143 million gt; among these are 1,042 LNG dual-fuel vessels accounting for 103.74 million gt.
 

@@ -69,7 +69,7 @@ While demand in the Atlantic has provided some respite for the panamaxes over th
 ![241](assets/2024-06-12_dry-bulk-seasonal-weakness_img_241_125fbde5c01c.png)
 
 > **Figure 1: 241**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-12_dry-bulk-seasonal-weakness_img_241_125fbde5c01c.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-06-12_dry-bulk-seasonal-weakness_img_241_125fbde5c01c.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

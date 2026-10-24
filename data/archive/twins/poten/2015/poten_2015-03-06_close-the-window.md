@@ -34,8 +34,8 @@ The above arbitrage examples illustrate once again how free market forces in com
 
 ![Exhibit 1: Close the Window](../../../charts/poten/2015/poten_2015-03-06_close-the-window_chart1.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-03-06_close-the-window_chart1.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../../extracted/charts/poten/2015/poten_2015-03-06_close-the-window_chart1.png)
 
 ![Exhibit 2: Close the Window](../../../charts/poten/2015/poten_2015-03-06_close-the-window_chart2.png)
 
-> **Interactive Asset:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2015/poten_2015-03-06_close-the-window_chart2.png)
+> **Interactive Asset:** [Local Asset (200 DPI PNG)](../../../../extracted/charts/poten/2015/poten_2015-03-06_close-the-window_chart2.png)

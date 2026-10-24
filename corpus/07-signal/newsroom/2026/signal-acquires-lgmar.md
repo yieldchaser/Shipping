@@ -25,7 +25,7 @@ tags:
 ![Heading](../../images/6ad09db81eccfd8c4e5baf3c_Aligned-Ocean-Branding-Logos_edit_05.jpg)
 
 > **Figure 1: Heading**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/signal-acquires-lgmar) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ad09db81eccfd8c4e5baf3c_Aligned-Ocean-Branding-Logos_edit_05.jpg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/signal-acquires-lgmar) | [Local Asset](../../images/6ad09db81eccfd8c4e5baf3c_Aligned-Ocean-Branding-Logos_edit_05.jpg)
 
 **ATHENS, 15 October 2026.** Signal Ocean announced today the acquisition of Lgmar, the Athens-based company behind Telix, a maritime email and communication platform in daily use across the shipping community since 1989.
 

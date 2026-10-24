@@ -31,7 +31,7 @@ tags:
 ![65b391c26a557f1a295a8567 Screenshot 2024 01 26 at 10.50.27](../../images/65b391c26a557f1a295a8567_Screenshot 2024-01-26 at 10.50.27.png)
 
 > **Figure 1: 65b391c26a557f1a295a8567 Screenshot 2024 01 26 at 10.50.27**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-04-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/65b391c26a557f1a295a8567_Screenshot 2024-01-26 at 10.50.27.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-04-2024) | [Local Asset](../../images/65b391c26a557f1a295a8567_Screenshot 2024-01-26 at 10.50.27.png)
 
 The dry freight market in the third week of January continued to exhibit a persistent weakening trend in the Capesize segment. Concurrently, there was a notable surge in the number of ballasters in the Southeast Africa region as we approach the month's end. Analysing the demand side and the growth in tonne days reveals a pronounced downward trajectory across all vessel size categories. This, coupled with the rising count of ballasters, is expected to exert further pressure on the freight market.
 

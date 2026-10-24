@@ -27,7 +27,7 @@ Optimism about stronger demand from China boosted sentiment across the complex. 
 ![Imgστιγμιότυπο Οθόνης 2024 04 03 125241](assets/2024-04-03_strong-economic-data-boosts-sentiment_img_imgcea3cf84ceb9ceb3cebcceb9cf8ccf84c_deb1bbe9b89b.png)
 
 > **Figure 1: Imgστιγμιότυπο Οθόνης 2024 04 03 125241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-03_strong-economic-data-boosts-sentiment_img_imgcea3cf84ceb9ceb3cebcceb9cf8ccf84c_deb1bbe9b89b.png)
+> [Local Asset](assets/2024-04-03_strong-economic-data-boosts-sentiment_img_imgcea3cf84ceb9ceb3cebcceb9cf8ccf84c_deb1bbe9b89b.png)
 
 ### Market Commentary
 
@@ -42,7 +42,7 @@ The strong economic data failed to halt**gold’s**rally. The prospect of intere
 ![Img Chart Στιγμιότυπο Οθόνης 2024 04 03 125440](assets/2024-04-03_strong-economic-data-boosts-sentiment_img_imgchartcea3cf84ceb9ceb3cebcceb9cf8c_83e8c28bbb64.png)
 
 > **Figure 2: Img Chart Στιγμιότυπο Οθόνης 2024 04 03 125440**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-03_strong-economic-data-boosts-sentiment_img_imgchartcea3cf84ceb9ceb3cebcceb9cf8c_83e8c28bbb64.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-04-03_strong-economic-data-boosts-sentiment_img_imgchartcea3cf84ceb9ceb3cebcceb9cf8c_83e8c28bbb64.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

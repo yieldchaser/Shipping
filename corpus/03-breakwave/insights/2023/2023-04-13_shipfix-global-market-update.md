@@ -56,6 +56,6 @@ Last month saw an increase in cargo volumes loading in the Russian Baltic Sea te
 ![Market Chart 1](assets/2023-04-13_shipfix-global-market-update_img_unnamed-2023-04-13t172818923_f417782d576b.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-13_shipfix-global-market-update_img_unnamed-2023-04-13t172818923_f417782d576b.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2023-04-13_shipfix-global-market-update_img_unnamed-2023-04-13t172818923_f417782d576b.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-01-22_what-venezuela-means-
 
 > **Figure 1: Bymette Frederiksen**  
 > *ByMette Frederiksen*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/mette-frederiksen-2a826216/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-22_what-venezuela-means-for-todays-vlcc-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7b899b3e65ed.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/mette-frederiksen-2a826216/) | [Local Asset](assets/2026-01-22_what-venezuela-means-for-todays-vlcc-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7b899b3e65ed.png)
 
 Venezuela firmly returned to the tanker market spotlight in 2025, as political developments and sanctions dynamics impacted crude flows and vessel demand. From a VLCC perspective Venezuela’s importance is no longer just about how many barrels are exported, but where those barrels go, what type of ships they move on, and whether those trades sit inside or outside the compliant market.
 

@@ -41,7 +41,7 @@ So equities rebounded in the past few days, and have now covered 75% of their po
 ![Market Chart 1](assets/2025-04-30_the-end-of-the-beginning_img_image001_f5ebd7047fd7.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-30_the-end-of-the-beginning_img_image001_f5ebd7047fd7.png)
+> [Local Asset](assets/2025-04-30_the-end-of-the-beginning_img_image001_f5ebd7047fd7.png)
 
 And what we now know, that we were not too sure about a few weeks ago, is that the US is not averse to some dollar depreciation, but not at the expense of sharply rising borrowing costs. In essence, markets are now checking US policy, and suggesting that there are limits to the disruption they are willing to tolerate. Especially when the government is faced with $8tn of debt that needs refinancing plus $2tn of new debt that needs to be issued (nearly a third of GDP).
 
@@ -54,14 +54,14 @@ US large-cap companies are still 15% down for the year. Meanwhile, even after th
 ![Market Chart 2](assets/2025-04-30_the-end-of-the-beginning_img_image002_974833b31f3d.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-30_the-end-of-the-beginning_img_image002_974833b31f3d.png)
+> [Local Asset](assets/2025-04-30_the-end-of-the-beginning_img_image002_974833b31f3d.png)
 
 De-dollarisation, a general selloff of Dollar assets also persists on most levels, with US yields remaining elevated, and the US Dollar index down 10%.
 
 ![Market Chart 3](assets/2025-04-30_the-end-of-the-beginning_img_image003_8b11a15e3857.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-30_the-end-of-the-beginning_img_image003_8b11a15e3857.png)
+> [Local Asset](assets/2025-04-30_the-end-of-the-beginning_img_image003_8b11a15e3857.png)
 
 Having said that, we have not seen stress in the US bond market, as demand for issuance of new debt remains robust.
 
@@ -72,7 +72,7 @@ The International Monetary Fund (IMF) significantly downgraded US and global gro
 ![Market Chart 4](assets/2025-04-30_the-end-of-the-beginning_img_image004_9495e260d6c5.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-30_the-end-of-the-beginning_img_image004_9495e260d6c5.png)
+> [Local Asset](assets/2025-04-30_the-end-of-the-beginning_img_image004_9495e260d6c5.png)
 
 What we must appreciate is that the conditions which brought us to this point are still relevant. The US, suffering from growth more sluggish and unequal than its electorate would wish for, opted to intensify global strategic competition, especially with China which it probably correctly sees as the main competitor for growth and influence. The White House still sees dollar devaluation and deregulation as key drivers of their wider business plan, even if they are not willing to risk much higher borrowing costs.
 

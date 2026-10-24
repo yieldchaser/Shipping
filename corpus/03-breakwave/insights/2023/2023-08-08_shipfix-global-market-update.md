@@ -60,6 +60,6 @@ The lower demand for seaborne transportation onboard Supramaxes was, to a greate
 ![Market Chart 1](assets/2023-08-08_shipfix-global-market-update_img_unnamed-2023-08-08t113540880_4fad782d5f99.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-08_shipfix-global-market-update_img_unnamed-2023-08-08t113540880_4fad782d5f99.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2023-08-08_shipfix-global-market-update_img_unnamed-2023-08-08t113540880_4fad782d5f99.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

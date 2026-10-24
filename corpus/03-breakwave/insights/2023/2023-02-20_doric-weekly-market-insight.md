@@ -30,7 +30,7 @@ Zeus’ helping hand is still largely unfelt by the spot market this winter thou
 ![1 (5)](assets/2023-02-20_doric-weekly-market-insight_img_128529_8b3a2b17db04.png)
 
 > **Figure 1: 1 (5)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-20_doric-weekly-market-insight_img_128529_8b3a2b17db04.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-02-20_doric-weekly-market-insight_img_128529_8b3a2b17db04.png)
 
 Zooming in to the capricious Capesize sub-market, the most China-centric segment kept balancing below OPEX for the most part of the current trading year. Not being in a rush to increase their production, steel mills hung back a bit, awaiting signals of further policy support to the Chinese economy. This wait-and-see approach of steel mills along with a tepid real estate recovery have had a negative bearing on the demand of iron ore up to now. Indicatively, total imported iron ore stocks at China's 45 major ports under Mysteel's tracking mounted further to touch a ninemonth high of 141.1 million tonnes as of February 16, up by another 1 million tonnes for the fourth week in a row. Even with the country reopening and the government easing its leverage limits to boost growth, the locomotive of global growth has yet to gather the necessary momentum to steam steadfast.
 
@@ -39,13 +39,13 @@ In sharp contrast, prices for new homes in mainland China did not decline in Jan
 ![1 (6)](assets/2023-02-20_doric-weekly-market-insight_img_128629_cd1051dd4d01.png)
 
 > **Figure 2: 1 (6)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-20_doric-weekly-market-insight_img_128629_cd1051dd4d01.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-02-20_doric-weekly-market-insight_img_128629_cd1051dd4d01.png)
 
 Just before this unfruitful week’s closing, China announced the construction of a new mega airport. Shanghai and neighbouring Jiangsu province will jointly build a new airport in an effort to boost the transport network of the Yangtze River Delta, China’s largest economic center. The airport in Nantong is designed with two long-distance runways that can handle annual throughput of 40 million passengers, authorities say. However promising these mega projects in China may appear, the spot freight market has lost most of the frequent flyer benefits lately, if not its passenger seat to higher altitudes.
 
 ![1 (7)](assets/2023-02-20_doric-weekly-market-insight_img_128729_e7b6773e95ef.png)
 
 > **Figure 3: 1 (7)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-20_doric-weekly-market-insight_img_128729_e7b6773e95ef.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-02-20_doric-weekly-market-insight_img_128729_e7b6773e95ef.png)
 
 Data source:[Doric](https://www.doric.gr/)

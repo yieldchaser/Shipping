@@ -27,7 +27,7 @@ May 14, 2025
 ![Στιγμιότυπο Οθόνης 2025 05 15 104113](assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e679e142b1f7.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 05 15 104113**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e679e142b1f7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e679e142b1f7.png)
 
 Brazil continues to strengthen its position as China's primary soybean supplier, with this dominance mainly attributed to the country's record harvests, competitive pricing, and the absence of tariffs that continue to impact U.S. soybeans. Recent news revealed that China has lifted suspensions on five Brazilian soybean exporters, enhancing trade flows ahead of Brazilian President Lula da Silva's visit to Beijing. Additionally, China is investing in South American infrastructure, such as expanding Brazil's Santos port and constructing a $3.5 billion deep-water port in Peru, to streamline agricultural imports.
 
@@ -44,7 +44,7 @@ Although we have seen strong volumes of soybean voyage shipments to China, Balti
 ![Στιγμιότυπο Οθόνης 2025 05 15 104233](assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_48fdb9cfca27.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 05 15 104233**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_48fdb9cfca27.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_48fdb9cfca27.png)
 
 Capesize freight market sentiment continued to weaken, while the Panamax market on the Continent–Far East route records a noticeable upward trend.
 
@@ -56,7 +56,7 @@ Capesize freight market sentiment continued to weaken, while the Panamax market 
 ![Στιγμιότυπο Οθόνης 2025 05 15 104315](assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7893606f7464.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 05 15 104315**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7893606f7464.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7893606f7464.png)
 
 Ballaster indicators suggest rising momentum, exceeding the annual average for Capesize and Panamax activity in Southeast Africa and Handysize in the North Pacific.
 
@@ -68,7 +68,7 @@ Ballaster indicators suggest rising momentum, exceeding the annual average for C
 ![Στιγμιότυπο Οθόνης 2025 05 15 104400](assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b0bb4fa5db23.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 05 15 104400**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b0bb4fa5db23.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b0bb4fa5db23.png)
 
 Tonne-day growth declined in the second week of May in the Capesize segment, with signs of a gradual stronger growth in the Panamax.
 
@@ -80,7 +80,7 @@ Tonne-day growth declined in the second week of May in the Capesize segment, wit
 ![Στιγμιότυπο Οθόνης 2025 05 15 104444](assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a78aa53f4862.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 05 15 104444**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a78aa53f4862.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a78aa53f4862.png)
 
 Dry bulk port congestion in China continued to ease in the second week of May, following a persistent increase in April.
 

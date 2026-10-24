@@ -32,7 +32,7 @@ tags:
 ![6724b888ce9582d939d3d678 6724b8600351d1e3869fd9d8 Dirty%20tonne%20days](../../images/6724b888ce9582d939d3d678_6724b8600351d1e3869fd9d8_dirty%20tonne%20days.avif)
 
 > **Figure 1: 6724b888ce9582d939d3d678 6724b8600351d1e3869fd9d8 Dirty%20tonne%20days**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-44-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6724b888ce9582d939d3d678_6724b8600351d1e3869fd9d8_dirty%20tonne%20days.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-44-2024) | [Local Asset](../../images/6724b888ce9582d939d3d678_6724b8600351d1e3869fd9d8_dirty%20tonne%20days.avif)
 
 This week’s focus highlights a notable decrease in the growth of dirty tonne days throughout this year, reflecting a pace lower than that seen in the previous two years. For VLCCs (Very Large Crude Carriers) operating from the Arabian Gulf to the Far East, there has been a recent rebound, with levels approaching those of October 2023. This resurgence suggests a potential recovery in this trade route.
 

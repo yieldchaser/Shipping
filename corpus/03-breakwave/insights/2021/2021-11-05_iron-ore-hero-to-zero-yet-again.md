@@ -27,7 +27,7 @@ Following iron ore’s well-publicised two-month slide from the end of July to t
 ![Ch1](assets/2021-11-05_iron-ore-hero-to-zero-yet-again_img_ch1_717edb328145.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-05_iron-ore-hero-to-zero-yet-again_img_ch1_717edb328145.png)
+> [Local Asset](assets/2021-11-05_iron-ore-hero-to-zero-yet-again_img_ch1_717edb328145.png)
 
 Demand for iron ore has softened due to declining steel production in China and increasing signs that both the Chinese and the global economic growth are facing mounting headwinds. While China has imposed curbs on steel production since the middle of the second quarter, restrictions are now being imposed more frequently and see greater compliance. Initially, Beijing’s efforts to manage steel output domestic were aimed at stopping iron ore prices from surging ever higher and reducing emissions from one of China’s largest polluters. However, as the Chinese economy has come under increasing pressure from the problems in its indebted housing sector and power shortages, the steel demand has softened further. The approaching Winter Olympics, due to be held during February in China, has renewed the focus on emission levels. The Chinese leadership is keen on reducing pollution to improve the chances of blue skies for the event.
 
@@ -38,21 +38,21 @@ Softening steel demand has also seen the metal’s prices falling. Steel rebar f
 ![Ch2](assets/2021-11-05_iron-ore-hero-to-zero-yet-again_img_ch2_1476546c46f0.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-05_iron-ore-hero-to-zero-yet-again_img_ch2_1476546c46f0.png)
+> [Local Asset](assets/2021-11-05_iron-ore-hero-to-zero-yet-again_img_ch2_1476546c46f0.png)
 
 Despite the lacklustre Chinese demand for steel, imports of iron ore remain surprisingly robust. According to data from Oceanbolt, the volumes of iron ore discharged in Chinese ports in October were among the highest on record at 108.3 million tonnes. Weekly imports show no signs of abating as we move into November, with the current week on track to be one of the strongest on record.
 
 ![Ch3](assets/2021-11-05_iron-ore-hero-to-zero-yet-again_img_ch3_141185e05804.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-05_iron-ore-hero-to-zero-yet-again_img_ch3_141185e05804.png)
+> [Local Asset](assets/2021-11-05_iron-ore-hero-to-zero-yet-again_img_ch3_141185e05804.png)
 
 While the iron ore imports have remained surprisingly strong in recent weeks and months. Exports bound for Chinese ports have been trending lower in recent weeks, suggesting that volumes discharged in Chinese ports will start to ease in the coming weeks. It typically takes between two and five weeks for a cargo of iron ore to reach the Chinese ports. Hence, there is a delay in how quickly changes in demand will translate into discharged volumes.
 
 ![Ch4](assets/2021-11-05_iron-ore-hero-to-zero-yet-again_img_ch4_ab74f3ab5c3f.png)
 
 > **Figure 4: Ch4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-05_iron-ore-hero-to-zero-yet-again_img_ch4_ab74f3ab5c3f.png)
+> [Local Asset](assets/2021-11-05_iron-ore-hero-to-zero-yet-again_img_ch4_ab74f3ab5c3f.png)
 
 The coming weeks are likely to experience falling Chinese iron ore imports, and prices could come under renewed pressure as a result. Despite the recent retreats, both iron ore and steel prices remain high in a historical context. Hence, there is still some downside risks for the prices. Miners are likely to think that the Winter Olympics can not come fast enough. Chinese iron ore demand is unlikely to rebound in any meaningful way until after the games, as the production restrictions have been extended into the new year.
 

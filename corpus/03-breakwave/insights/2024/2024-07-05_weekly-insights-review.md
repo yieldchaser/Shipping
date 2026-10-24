@@ -27,7 +27,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-07-05_weekly-insights-revie
 ![Highlight of This Week](assets/2024-07-05_weekly-insights-review_img_image-asset_8b70bf1ad459.jpeg)
 
 > **Figure 1: Highlight of This Week**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024618wet-7rsj2-sljkb) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-05_weekly-insights-review_img_image-asset_8b70bf1ad459.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024618wet-7rsj2-sljkb) | [Local Asset](assets/2024-07-05_weekly-insights-review_img_image-asset_8b70bf1ad459.jpeg)
 
 ## The Impact on Shipping From a Potential Second Trump Presidency
 
@@ -42,12 +42,12 @@ A second Trump presidency will very likely also affect global geopolitics and oc
 ![Στιγμιότυπο Οθόνης 2024 07 02 095559](assets/2024-07-05_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_87b965fd3605.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 07 02 095559**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/1/waiting-for-godot) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-05_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_87b965fd3605.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/1/waiting-for-godot) | [Local Asset](assets/2024-07-05_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_87b965fd3605.png)
 
 ![Market Chart 3](assets/2024-07-05_weekly-insights-review_img_image-asset28129_30240bdd77d3.jpeg)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/1/waiting-for-godot) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-05_weekly-insights-review_img_image-asset28129_30240bdd77d3.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/1/waiting-for-godot) | [Local Asset](assets/2024-07-05_weekly-insights-review_img_image-asset28129_30240bdd77d3.jpeg)
 
 ## Waiting for Godot
 
@@ -58,7 +58,7 @@ Baltic Panamax TC Index averaged $15,910 daily for the first half of the current
 ![Market Chart 4](assets/2024-07-05_weekly-insights-review_img_image-asset28229_e171d4401c0f.jpeg)
 
 > **Figure 4: Market Chart 4**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/1/coal-reservoir-and-seaborne-trade-prospects) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-05_weekly-insights-review_img_image-asset28229_e171d4401c0f.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/1/coal-reservoir-and-seaborne-trade-prospects) | [Local Asset](assets/2024-07-05_weekly-insights-review_img_image-asset28229_e171d4401c0f.jpeg)
 
 ## Coal ‘Reservoir’ and Seaborne Trade Prospects
 
@@ -71,7 +71,7 @@ To prepare for China’s summer peak electricity demand (June to August), the co
 ![Market Chart 5](assets/2024-07-05_weekly-insights-review_img_image-asset28329_5172c44d78d6.jpeg)
 
 > **Figure 5: Market Chart 5**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/2/he-capesizes-fortunes-shifted) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-05_weekly-insights-review_img_image-asset28329_5172c44d78d6.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/2/he-capesizes-fortunes-shifted) | [Local Asset](assets/2024-07-05_weekly-insights-review_img_image-asset28329_5172c44d78d6.jpeg)
 
 ## Τhe Capesizes’ Fortunes Shifted
 
@@ -84,7 +84,7 @@ The Baltic Dry Index recorded a gain of nearly three per cent last week as the c
 ![Market Chart 6](assets/2024-07-05_weekly-insights-review_img_image-asset28429_6c2baf642d07.jpeg)
 
 > **Figure 6: Market Chart 6**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/2/three-reasons-why-politics-havent-panicked-markets) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-05_weekly-insights-review_img_image-asset28429_6c2baf642d07.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/2/three-reasons-why-politics-havent-panicked-markets) | [Local Asset](assets/2024-07-05_weekly-insights-review_img_image-asset28429_6c2baf642d07.jpeg)
 
 ## Three Reasons Why Politics Haven’t Panicked Markets
 
@@ -95,7 +95,7 @@ Forvis Mazars Weekly Note
 ![Market Chart 7](assets/2024-07-05_weekly-insights-review_img_image-asset28529_97d85e49672b.jpeg)
 
 > **Figure 7: Market Chart 7**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/3/t7xkmuo6xk35z6uqvrbogq25i50qce) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-05_weekly-insights-review_img_image-asset28529_97d85e49672b.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/3/t7xkmuo6xk35z6uqvrbogq25i50qce) | [Local Asset](assets/2024-07-05_weekly-insights-review_img_image-asset28529_97d85e49672b.jpeg)
 
 ## Heightened Aluminium Production
 
@@ -106,7 +106,7 @@ During the second quarter, we have observed an unprecedented surge in bauxite ex
 ![Market Chart 8](assets/2024-07-05_weekly-insights-review_img_image-asset28629_c701745092f1.jpeg)
 
 > **Figure 8: Market Chart 8**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/4/vancouver-crude-gains-in-vlcc-market) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-05_weekly-insights-review_img_image-asset28629_c701745092f1.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/4/vancouver-crude-gains-in-vlcc-market) | [Local Asset](assets/2024-07-05_weekly-insights-review_img_image-asset28629_c701745092f1.jpeg)
 
 ## Vancouver Crude Gains in VLCC Market
 
@@ -119,7 +119,7 @@ This week, in the East, we discuss the outlook for Chinese crude demand as China
 ![016 Chrisea 24 01 24](assets/2024-07-05_weekly-insights-review_img_016-chrisea-24-01-24_5bf83b085371.jpg)
 
 > **Figure 9: 016 Chrisea 24 01 24**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/3/a-positive-note-for-the-capesize) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-05_weekly-insights-review_img_016-chrisea-24-01-24_5bf83b085371.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/3/a-positive-note-for-the-capesize) | [Local Asset](assets/2024-07-05_weekly-insights-review_img_016-chrisea-24-01-24_5bf83b085371.jpg)
 
 ## A Positive Note for the Capesize
 
@@ -130,7 +130,7 @@ The first week of July began on a positive note for the Capesize dry freight mar
 ![Market Chart 10](assets/2024-07-05_weekly-insights-review_img_image-asset28729_3362ea9b02a5.jpeg)
 
 > **Figure 10: Market Chart 10**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/5/a-tale-of-two-very-different-rainy-seasons) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-05_weekly-insights-review_img_image-asset28729_3362ea9b02a5.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/5/a-tale-of-two-very-different-rainy-seasons) | [Local Asset](assets/2024-07-05_weekly-insights-review_img_image-asset28729_3362ea9b02a5.jpeg)
 
 ## A Tale of Two Very Different Rainy Seasons
 
@@ -143,7 +143,7 @@ As we have been discussing in Commodore's Weekly Dry Bulk Reports, China’s rai
 ![Market Chart 11](assets/2024-07-05_weekly-insights-review_img_image-asset28829_9e2a263c7e83.jpeg)
 
 > **Figure 11: Market Chart 11**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/5/vlcc-supply-vs-baltic-rates) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-05_weekly-insights-review_img_image-asset28829_9e2a263c7e83.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/5/vlcc-supply-vs-baltic-rates) | [Local Asset](assets/2024-07-05_weekly-insights-review_img_image-asset28829_9e2a263c7e83.jpeg)
 
 ## VLCC Supply vs Baltic Rates
 
@@ -156,7 +156,7 @@ The first week of July saw a continued weakening in crude oil freight rates, dri
 ![Στιγμιότυπο Οθόνης 2024 07 05 095300](assets/2024-07-05_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1b8893120651.png)
 
 > **Figure 12: Στιγμιότυπο Οθόνης 2024 07 05 095300**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/5/mired-in-mrs) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-05_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1b8893120651.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/7/5/mired-in-mrs) | [Local Asset](assets/2024-07-05_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1b8893120651.png)
 
 ## Mired in Mrs
 

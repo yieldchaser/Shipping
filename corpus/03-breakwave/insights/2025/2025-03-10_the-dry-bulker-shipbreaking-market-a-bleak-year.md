@@ -23,12 +23,12 @@ source_file: "corpus/03-breakwave/insights/2025/2025-03-10_the-dry-bulker-shipbr
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2025-03-10_the-dry-bulker-shipbreaking-market-a-bleak-year_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-10_the-dry-bulker-shipbreaking-market-a-bleak-year_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](assets/2025-03-10_the-dry-bulker-shipbreaking-market-a-bleak-year_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 ![Στιγμιότυπο Οθόνης 2025 03 10 125152](assets/2025-03-10_the-dry-bulker-shipbreaking-market-a-bleak-year_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a20dd8b38f85.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 03 10 125152**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-10_the-dry-bulker-shipbreaking-market-a-bleak-year_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a20dd8b38f85.png)
+> [Local Asset](assets/2025-03-10_the-dry-bulker-shipbreaking-market-a-bleak-year_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a20dd8b38f85.png)
 
 The dry bulker shipbreaking market was nothing short of bleak last year as a total of 65 bulk carriers were scrapped, amounting to 3.3 million Dwt. Accordingly, last year’s saw 4 Capesizes, 17 Panamaxes, 16 Handymaxes, 12 Handysizes, and 16 Minibulkers scrapped. All told, this was significantly below the past 10-year average of 151 vessels and the lowest since 1990. What’s intriguing is that a range of global and regional environmental regulations – namely EEXI, CII, and EU-ETS - have been introduced in succession. The mainstream consensus is that, in due time, shipowners would inevitably scrap older vessels to avoid penalties. Yet, current reality conveys a different story. The primary reasons for this phenomenon are as follows:
 
@@ -43,7 +43,7 @@ Global rebar steel average prices weakened by 8% y-o-y to $488.9/ton in 2024, dr
 ![Στιγμιότυπο Οθόνης 2025 03 10 125215](assets/2025-03-10_the-dry-bulker-shipbreaking-market-a-bleak-year_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dc4b7e9294c3.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 03 10 125215**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-10_the-dry-bulker-shipbreaking-market-a-bleak-year_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dc4b7e9294c3.png)
+> [Local Asset](assets/2025-03-10_the-dry-bulker-shipbreaking-market-a-bleak-year_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dc4b7e9294c3.png)
 
 ### 3. Subcontinent Market Share
 
@@ -56,14 +56,14 @@ In 2024, the average scrapping age for bulk carriers decreased from 32.7 years o
 ![Στιγμιότυπο Οθόνης 2025 03 10 125225](assets/2025-03-10_the-dry-bulker-shipbreaking-market-a-bleak-year_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1285d6817bb7.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 03 10 125225**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-10_the-dry-bulker-shipbreaking-market-a-bleak-year_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1285d6817bb7.png)
+> [Local Asset](assets/2025-03-10_the-dry-bulker-shipbreaking-market-a-bleak-year_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1285d6817bb7.png)
 
 ### Challenges Facing the South Asian Shipbreaking Industry in 2024
 
 ![Στιγμιότυπο Οθόνης 2025 03 10 125257](assets/2025-03-10_the-dry-bulker-shipbreaking-market-a-bleak-year_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_41f6fd6b78eb.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 03 10 125257**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-10_the-dry-bulker-shipbreaking-market-a-bleak-year_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_41f6fd6b78eb.png)
+> [Local Asset](assets/2025-03-10_the-dry-bulker-shipbreaking-market-a-bleak-year_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_41f6fd6b78eb.png)
 
 ### The Hong Kong Convention and Its Impact
 

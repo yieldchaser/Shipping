@@ -27,14 +27,14 @@ As we discussed in Commodore Research's most recent Weekly China Report, Chinaâ€
 ![Chart 1](assets/2026-08-21_chinas-coal-production-hits-five-year-low_img_chart1_82469ab6ddca.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-21_chinas-coal-production-hits-five-year-low_img_chart1_82469ab6ddca.jpg)
+> [Local Asset](assets/2026-08-21_chinas-coal-production-hits-five-year-low_img_chart1_82469ab6ddca.jpg)
 
 Coal-derived electricity generation in July totaled 584.1 billion kilowatt hours. This is up month-on-month by 86.1 billion kilowatt hours (17%) but down year-on-year by 17.9 billion kilowatt hours (-3%). Very helpful for coal import demand and the dry bulk market is that China's coal-derived electricity generation has now fared better than domestic coal production for seven straight months.
 
 ![Chart 2](assets/2026-08-21_chinas-coal-production-hits-five-year-low_img_chart2_fb2dab9bed22.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-21_chinas-coal-production-hits-five-year-low_img_chart2_fb2dab9bed22.jpg)
+> [Local Asset](assets/2026-08-21_chinas-coal-production-hits-five-year-low_img_chart2_fb2dab9bed22.jpg)
 
 ---
 

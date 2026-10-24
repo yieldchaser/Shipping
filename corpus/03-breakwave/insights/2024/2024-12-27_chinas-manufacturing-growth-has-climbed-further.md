@@ -27,7 +27,7 @@ Recently released data shows that China’s manufacturing production increased o
 ![Chart (1)](assets/2024-12-27_chinas-manufacturing-growth-has-climbed-further_img_chart28129_6c88a51ccc70.jpg)
 
 > **Figure 1: Chart (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-12-27_chinas-manufacturing-growth-has-climbed-further_img_chart28129_6c88a51ccc70.jpg)
+> [Local Asset](assets/2024-12-27_chinas-manufacturing-growth-has-climbed-further_img_chart28129_6c88a51ccc70.jpg)
 
 ---
 

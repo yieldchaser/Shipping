@@ -33,14 +33,14 @@ Global cargo order volumes for the Capesize segment have been trending lower sin
 ![241](assets/2022-08-09_with-hindsight-sell-in-may-and-go-away_img_241_78c3cb1b353f.png)
 
 > **Figure 1: 241**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-09_with-hindsight-sell-in-may-and-go-away_img_241_78c3cb1b353f.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-08-09_with-hindsight-sell-in-may-and-go-away_img_241_78c3cb1b353f.png)
 
 Like cargo orders, the global supply of Capesizes has been tending lower in recent months and reached the week before last levels typically seen around Christmas. Under normal circumstances, lower tonnage supply should provide support for freight rates, but the drop in demand has more than offset any such effects.
 
 ![242](assets/2022-08-09_with-hindsight-sell-in-may-and-go-away_img_242_29c910c143c1.png)
 
 > **Figure 2: 242**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-09_with-hindsight-sell-in-may-and-go-away_img_242_29c910c143c1.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-08-09_with-hindsight-sell-in-may-and-go-away_img_242_29c910c143c1.png)
 
 The limited flexibility of the largest vessels has been one of the main culprits for the segment's relative underperformance. The vessel type has, like iron ore, become increasingly tied in with the fortunes of the Chinese economy. With the country likely to miss its annual economic growth target for the first time ever this year, there are clearly some warning signals for the segment ahead. However, the importance of social stability for President Xi’s reelection as the country’s leader is likely to keep the stimulus programmes well funded and provide support for the country's appetite for dry bulk commodities in the near term.
 
@@ -49,7 +49,7 @@ Following a seasonal recovery in July for Chinese coal cargo orders for Capesize
 ![243](assets/2022-08-09_with-hindsight-sell-in-may-and-go-away_img_243_adaec6e74da2.png)
 
 > **Figure 3: 243**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-09_with-hindsight-sell-in-may-and-go-away_img_243_adaec6e74da2.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-08-09_with-hindsight-sell-in-may-and-go-away_img_243_adaec6e74da2.png)
 
 Demand for Capesizes usually picks up as the year progresses into the second half, following a bit of a quiet period during the summer in the Northern Hemisphere. Restocking activities for coal ahead of the colder weather and the resumption of many construction projects usually boost iron ore demand as steel production increases. While the increasingly depressing outlook for the global economy, amid high inflation and rising interest rates, could put a dent in the seasonal recovery, the aforementioned stimulus programmes in China are likely to alleviate some of the pain. However, the lower-than-expected Brazilian iron ore output goal will provide some headwinds for the Capesize tonnage demand, as the long-haul route from Brazil to China is efficient in tying up large tonnage for long periods and reducing available supply.
 

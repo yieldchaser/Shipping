@@ -31,7 +31,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-08-07_mozambiques-dry-bulk-
 ![Στιγμιότυπο Οθόνης 2024 08 07 120123](assets/2024-08-07_mozambiques-dry-bulk-export-emergence_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b87ba4de2566.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 08 07 120123**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-07_mozambiques-dry-bulk-export-emergence_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b87ba4de2566.png)
+> [Local Asset](assets/2024-08-07_mozambiques-dry-bulk-export-emergence_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b87ba4de2566.png)
 
 Missing image: https://images.squarespace-cdn.com/content/v1/5a4d1d26e5dd5b537a6647c5/1723022774425-JEU75RKOIJ1KG3HQZRGP/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF+%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82+2024-08-07+120217.png
 
@@ -42,7 +42,7 @@ Less well known is the**impressive parallel increase in the exports of chrome, i
 ![Στιγμιότυπο Οθόνης 2024 08 07 120203](assets/2024-08-07_mozambiques-dry-bulk-export-emergence_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dfa4b23b6dc3.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 08 07 120203**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-07_mozambiques-dry-bulk-export-emergence_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dfa4b23b6dc3.png)
+> [Local Asset](assets/2024-08-07_mozambiques-dry-bulk-export-emergence_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dfa4b23b6dc3.png)
 
 Missing image: https://images.squarespace-cdn.com/content/v1/5a4d1d26e5dd5b537a6647c5/1723022854854-CITWHAHAXY13CGGYQD73/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF+%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82+2024-08-07+120217.png
 

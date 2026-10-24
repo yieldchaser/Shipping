@@ -27,12 +27,12 @@ This week, in the East, we examine increasing Suezmax exposure in the fuel oil t
 ![Στιγμιότυπο Οθόνης 2024 06 13 123613](assets/2024-06-13_o4yqangkjngcfym616mwvcwlr2py7b_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2a40b3ac528.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 06 13 123613**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTq6rSQqFKMwT9aK8nrBNINjYTAZnnswqXURT7QNrBL_rBMbXfqB5WCNm7b8RrdS7BXnpiHp8=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-13_o4yqangkjngcfym616mwvcwlr2py7b_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2a40b3ac528.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTq6rSQqFKMwT9aK8nrBNINjYTAZnnswqXURT7QNrBL_rBMbXfqB5WCNm7b8RrdS7BXnpiHp8=) | [Local Asset](assets/2024-06-13_o4yqangkjngcfym616mwvcwlr2py7b_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2a40b3ac528.png)
 
 ![Στιγμιότυπο Οθόνης 2024 06 13 123635](assets/2024-06-13_o4yqangkjngcfym616mwvcwlr2py7b_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8304a438584.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 06 13 123635**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTq6rSQqFKMwT9aK8nrBNINjYTAZnnswqXURT7QNrBL_rBMbXfqB5WCNm7b8RrdS7BXnpiHp8=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-13_o4yqangkjngcfym616mwvcwlr2py7b_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8304a438584.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTq6rSQqFKMwT9aK8nrBNINjYTAZnnswqXURT7QNrBL_rBMbXfqB5WCNm7b8RrdS7BXnpiHp8=) | [Local Asset](assets/2024-06-13_o4yqangkjngcfym616mwvcwlr2py7b_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8304a438584.png)
 
 - Suezmaxes increased their share in the fuel oil trade in May.[Voyages on Suezmaxes](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTq6rSQqFKMwT9aK8nrBNINjYTAZnnswqXURT7QNrBL_rBMbXfqB5WCNm7b8RrdS7BXnpiHp8=)increased around 35% m-o-m, taking away market share from Aframaxes, which saw a 5% decline on m-o-m voyage counts despite higher overall voyages for DPP globally in the month of May.
 
@@ -42,7 +42,7 @@ This week, in the East, we examine increasing Suezmax exposure in the fuel oil t
 ![Στιγμιότυπο Οθόνης 2024 06 13 124049](assets/2024-06-13_o4yqangkjngcfym616mwvcwlr2py7b_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1352207a633e.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 06 13 124049**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTq6rSQlZGylZ5oDPBvVn7Z_yVaTR8NZymJZC361E7l0pY2CGplhRE5PHjal4F1qqDckVUpt8=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-13_o4yqangkjngcfym616mwvcwlr2py7b_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1352207a633e.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTq6rSQlZGylZ5oDPBvVn7Z_yVaTR8NZymJZC361E7l0pY2CGplhRE5PHjal4F1qqDckVUpt8=) | [Local Asset](assets/2024-06-13_o4yqangkjngcfym616mwvcwlr2py7b_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1352207a633e.png)
 
 - [CPP voyages counts for long-range tankers](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTq6rSQlZGylZ5oDPBvVn7Z_yVaTR8NZymJZC361E7l0pY2CGplhRE5PHjal4F1qqDckVUpt8=)(LR1 and above) from the Middle East have this year been heading increasingly towards the Atlantic Basin, rather than Pacific, on the back of rising middle distillates exports. Diesel and jet fuel exports from the Middle East have been climbing, boosted by ramp-ups at refineries such as[Al Zour, Duqm and Jizan, especially since Q2](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTq6rSQnZXmg3YJCiti156vf90EEUzG3qjqLws5YbzK0c1EnP6xtQFQhnwYZwJ9FXkJS_tjrs=), but bleaker diesel/jet fuel demand prospects in the European market is shifting some voyages toward the Pacific Basin.
 
@@ -52,7 +52,7 @@ This week, in the East, we examine increasing Suezmax exposure in the fuel oil t
 ![Στιγμιότυπο Οθόνης 2024 06 13 124156](assets/2024-06-13_o4yqangkjngcfym616mwvcwlr2py7b_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a3cbccae2b45.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 06 13 124156**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTq6rSQoAw9AalN8K_L4_4FC8gsd09vsAushrLSoI3BfazvXhrv8QRkTjqj0Jnw0tExoznHwc=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-13_o4yqangkjngcfym616mwvcwlr2py7b_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a3cbccae2b45.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTq6rSQoAw9AalN8K_L4_4FC8gsd09vsAushrLSoI3BfazvXhrv8QRkTjqj0Jnw0tExoznHwc=) | [Local Asset](assets/2024-06-13_o4yqangkjngcfym616mwvcwlr2py7b_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a3cbccae2b45.png)
 
 - Aframax transatlantic[TD25](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTq6rSQoAw9AalN8K_L4_4FC8gsd09vsAushrLSoI3BfazvXhrv8QRkTjqj0Jnw0tExoznHwc=)freight rates have recorded an increase of 20% m-o-m, which was triggered by both supply and demand fundamentals.
 
@@ -62,7 +62,7 @@ This week, in the East, we examine increasing Suezmax exposure in the fuel oil t
 ![Στιγμιότυπο Οθόνης 2024 06 13 124316](assets/2024-06-13_o4yqangkjngcfym616mwvcwlr2py7b_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ed984cfc8ffc.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 06 13 124316**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTq6rSQt8vkWldkGFualnJaPINTTS9TndfuSCbHtKeQQvMMmxFVtT-jAeR9Aqawu8Arpgvul8=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-13_o4yqangkjngcfym616mwvcwlr2py7b_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ed984cfc8ffc.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTq6rSQt8vkWldkGFualnJaPINTTS9TndfuSCbHtKeQQvMMmxFVtT-jAeR9Aqawu8Arpgvul8=) | [Local Asset](assets/2024-06-13_o4yqangkjngcfym616mwvcwlr2py7b_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ed984cfc8ffc.png)
 
 - [Prompt MR2 availability](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTq6rSQt8vkWldkGFualnJaPINTTS9TndfuSCbHtKeQQvMMmxFVtT-jAeR9Aqawu8Arpgvul8=)in Northwest Europe has been rising since mid-May, hitting one-year highs and putting freight rates under pressure.[TC2 rates](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTq6rSQnUxhpWfDjW8lmB8fo267Kqa8t-oastce7kvbgS0ZcCq9ZNxbeapSW43PDibUytnSPM=)have fallen over 25% since the start of June.
 

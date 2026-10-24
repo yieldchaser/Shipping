@@ -33,7 +33,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-06-05_tankers-research-upda
 ![9a86 Image 0 1749043452183](assets/2025-06-05_tankers-research-update_img_9a86-image-0-1749043452183_62304719ed15.png)
 
 > **Figure 1: 9a86 Image 0 1749043452183**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-05_tankers-research-update_img_9a86-image-0-1749043452183_62304719ed15.png)
+> [Local Asset](assets/2025-06-05_tankers-research-update_img_9a86-image-0-1749043452183_62304719ed15.png)
 
 - VLCC exports from the Middle East Gulf were down by 7% in May vs. April. Notable monthly declines came from Iran (-21%), Iraq (-7%), and Saudi (-5%). The volume or oil carried by VLCC’s (a useful policy for overall VLCC demand) last month was down 3% on April, but still up 5% on last December. Most of the drop was felt by ships under 20 years old.
 
@@ -42,7 +42,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-06-05_tankers-research-upda
 ![480e Image 1 1749043452186](assets/2025-06-05_tankers-research-update_img_480e-image-1-1749043452186_4c6632d81cbb.png)
 
 > **Figure 2: 480e Image 1 1749043452186**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-05_tankers-research-update_img_480e-image-1-1749043452186_4c6632d81cbb.png)
+> [Local Asset](assets/2025-06-05_tankers-research-update_img_480e-image-1-1749043452186_4c6632d81cbb.png)
 
 - Earnings on the main VLCC route from the Middle East to China slumped from just over $56k/day at the end of April to just under $26k/day yesterday, with little obvious sign of immediate improvement according to our spot desk. H2 2025 FFAs have dropped by around $5k/day with it - perhaps unfairly, in our view.
 

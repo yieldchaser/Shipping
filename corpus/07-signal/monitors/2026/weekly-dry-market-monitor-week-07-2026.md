@@ -35,7 +35,7 @@ tags:
 
 > **Figure 1: Capesize Insights: Available Hereall Data and Commentary Reflect Market Conditions as of [Wednesday, 11 February 2026], Unless Otherwise Stated.**  
 > *Capesize Insights: available hereAll data and commentary reflect market conditions as of [Wednesday, 11 February 2026], unless otherwise stated.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698da72a923fc4dec2ddd75b_59b29861.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](../../images/698da72a923fc4dec2ddd75b_59b29861.png)
 
 The Capesize market in the Pacific opened the week under pressure due to the effects of Cyclone Mitchell on West Australian Pilbara ports and a temporary slowdown in miner activity. Although port operations quickly resumed and activity levels picked up, overall sentiment remained subdued.
 
@@ -52,7 +52,7 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 ![Freight Market Overview](../../images/698da72a923fc4dec2ddd75e_832ad9fc.png)
 
 > **Figure 2: Freight Market Overview**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698da72a923fc4dec2ddd75e_832ad9fc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](../../images/698da72a923fc4dec2ddd75e_832ad9fc.png)
 
 
 ## Freight Atlantic
@@ -67,7 +67,7 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 ![C3 Tubarao–qingdao / C17 Saldanha Bay–qingdao](../../images/698da72a923fc4dec2ddd767_d7699761.png)
 
 > **Figure 3: C3 Tubarao–qingdao / C17 Saldanha Bay–qingdao**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698da72a923fc4dec2ddd767_d7699761.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](../../images/698da72a923fc4dec2ddd767_d7699761.png)
 
 
 - Capesize rates have softened to $23/ton after a strong late-January rally, although sentiment remains 34% stronger year-on-year. This downward trend is also evident on the Saldanha Bay-Qingdao route, where rates have dropped to $17/ton. Despite weakening momentum, current levels remain above the mid-January low of $14/ton.
@@ -82,7 +82,7 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 ![‍](../../images/698da72a923fc4dec2ddd773_c094beea.png)
 
 > **Figure 4: ‍**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698da72a923fc4dec2ddd773_c094beea.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](../../images/698da72a923fc4dec2ddd773_c094beea.png)
 
 
 - Rates for the USG-Qingdao and Santos-Qingdao routes remain firm, with both seeing an annual increase of approximately 17%. The USG-Qingdao rate, in particular, continues to hover around a $50/ton premium, a level sustained since early February. Meanwhile, the Santos-Qingdao rate is still nearing $40/ton.
@@ -97,7 +97,7 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 ![S4A US Gulf Trip to Skaw-Passero](../../images/698da72a923fc4dec2ddd77c_cd41faf4.png)
 
 > **Figure 5: S4A US Gulf Trip to Skaw-Passero**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698da72a923fc4dec2ddd77c_cd41faf4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](../../images/698da72a923fc4dec2ddd77c_cd41faf4.png)
 
 
 - The USG-to-Skaw-Passero route showed exceptional firmness at approximately $28k/day, a 24% week-over-week (WoW) increase. This rate is notably about $8k/d higher than the levels seen at the start of the year.
@@ -112,7 +112,7 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 ![698da72a923fc4dec2ddd770 A712c557](../../images/698da72a923fc4dec2ddd770_a712c557.png)
 
 > **Figure 6: 698da72a923fc4dec2ddd770 A712c557**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698da72a923fc4dec2ddd770_a712c557.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](../../images/698da72a923fc4dec2ddd770_a712c557.png)
 
 
 - USG trip to Skaw-Passero recorded levels of around $20k/d, an increase of $4k/d in a month and +$9k/d YoY, with the increase continuous since mid-January.
@@ -130,7 +130,7 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 ![C5 West Australia–qingdao](../../images/698da72a923fc4dec2ddd76a_da1801b0.png)
 
 > **Figure 7: C5 West Australia–qingdao**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698da72a923fc4dec2ddd76a_da1801b0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](../../images/698da72a923fc4dec2ddd76a_da1801b0.png)
 
 
 - The West Australia-Qingdao rates experienced a decline, falling below $9/ton and reaching a mid-$8/ton level midway through the week. This drop follows a peak observed at the close of the previous week. Current daily loading volumes from West Africa suggest that this downward pressure may persist through the remainder of February.
@@ -148,7 +148,7 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 ![P582 - South China, One Indonesian Round Voyage](../../images/698da72a923fc4dec2ddd779_abdb1b68.png)
 
 > **Figure 8: P582 - South China, One Indonesian Round Voyage**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698da72a923fc4dec2ddd779_abdb1b68.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](../../images/698da72a923fc4dec2ddd779_abdb1b68.png)
 
 
 - The Panamax Pacific market holds the exceptional gains of the previous week, with rates on the P3A\_82 route still exceeding $14k/day, representing a year-on-year increase of $5.5k/day.
@@ -166,7 +166,7 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 ![S10 South China Trip Via Indonesia to South China](../../images/698da72a923fc4dec2ddd776_37b5b3dd.png)
 
 > **Figure 9: S10 South China Trip Via Indonesia to South China**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698da72a923fc4dec2ddd776_37b5b3dd.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](../../images/698da72a923fc4dec2ddd776_37b5b3dd.png)
 
 
 - The Supramax Pacific market reversed the upward trend seen the previous week. Levels are now around $11.8k/d on the S2 route, marking a 9% weekly decrease but a +40% YoY increase.
@@ -187,7 +187,7 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 ![‍](../../images/698da72a923fc4dec2ddd76d_2fc857b4.png)
 
 > **Figure 10: ‍**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698da72a923fc4dec2ddd76d_2fc857b4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](../../images/698da72a923fc4dec2ddd76d_2fc857b4.png)
 
 
 - The Handysize Pacific freight market is currently showing losses, with the HS5\_38 route dropping significantly. This route is now valued at approximately $9.5k/day, falling from its last week’s mid-week high of over $10k. Despite the recent dip, the current rate remains a substantial 34% increase over the same period last year.
@@ -202,7 +202,7 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 ![Capesize | 5d Ma Increasing](../../images/698da72a923fc4dec2ddd761_8f7e7f7d.png)
 
 > **Figure 11: Capesize | 5d Ma Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698da72a923fc4dec2ddd761_8f7e7f7d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](../../images/698da72a923fc4dec2ddd761_8f7e7f7d.png)
 
 
 - Supply pressure continues to build across both basins. The 5-day moving average is up approximately 15% WoW in the South Atlantic, while the increase is even more pronounced in the North Atlantic, where ballaster vessel counts are up 32% WoW. In the Pacific, the vessel count of ballasters remains accelerated, with only a marginal softening visible in Australasia of 3% and 1% in the Indian Ocean.
@@ -214,7 +214,7 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 ![Panamax | 5d Ma Increasing](../../images/698da72a923fc4dec2ddd764_1228025b.png)
 
 > **Figure 12: Panamax | 5d Ma Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698da72a923fc4dec2ddd764_1228025b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](../../images/698da72a923fc4dec2ddd764_1228025b.png)
 
 
 - The Indian Ocean is experiencing significantly increased supply pressure, with the current vessel count surpassing 280. This represents a 15% increase week-on-week, continuing the upward trend observed over the last two weeks. In the South Atlantic, the number of ballasters has also increased, surpassing 70 vessels (+10% week-on-week). Meanwhile, the North Atlantic is showing a slight correction, with figures falling below 110 vessels, although supply remains elevated overall.
@@ -226,7 +226,7 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 ![Supramax| 5d Ma Increasing](../../images/698da72a923fc4dec2ddd780_09a2f125.png)
 
 > **Figure 13: Supramax| 5d Ma Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698da72a923fc4dec2ddd780_09a2f125.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](../../images/698da72a923fc4dec2ddd780_09a2f125.png)
 
 
 - Supramax supply is experiencing significant pressure in the North Atlantic and Indian Ocean, with the number of ballasting vessels increasing by approximately 30% week over week in both regions. In Australasia, although some softening is visible, the correction remains marginal relative to the sharp decline since January, with the 5-day moving average near 150.
@@ -238,7 +238,7 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 ![Handysize| 5d Ma Increasing](../../images/698da72a923fc4dec2ddd783_ff57e372.png)
 
 > **Figure 14: Handysize| 5d Ma Increasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698da72a923fc4dec2ddd783_ff57e372.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](../../images/698da72a923fc4dec2ddd783_ff57e372.png)
 
 
 - Handysize vessels are experiencing significant supply pressure in the North Atlantic, with the number of ballasting vessels now exceeding 230. Intense pressure is also noticeable in the Far East/NOPAC and Australasia regions.
@@ -253,7 +253,7 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 ![Capesize | Panamax | Supramax WoW Decreasing](../../images/698da72a923fc4dec2ddd786_dfc9426a.png)
 
 > **Figure 15: Capesize | Panamax | Supramax WoW Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698da72a923fc4dec2ddd786_dfc9426a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](../../images/698da72a923fc4dec2ddd786_dfc9426a.png)
 
 Upon reviewing the tonne-mile growth rate on a Base 100 Index View, deceleration persists across the Capesize, Panamax, and Supramax segments. Tonne-mile demand continues to weaken across the larger vessel classes. Capesize demand is now 7% below the base period, while Panamax is down more than 10%. Supramax shows relative strength, contracting by only 4%.
 

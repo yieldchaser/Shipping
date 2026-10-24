@@ -24,21 +24,21 @@ source_file: "corpus/03-breakwave/insights/2022/2022-10-10_mazars-how-to-invest-
 ![The Week](assets/2022-10-10_mazars-how-to-invest-in-an-unbalanced-world_img_image00528129_f7e839291365.png)
 
 > **Figure 1: The Week**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-10_mazars-how-to-invest-in-an-unbalanced-world_img_image00528129_f7e839291365.png)
+> [Local Asset](assets/2022-10-10_mazars-how-to-invest-in-an-unbalanced-world_img_image00528129_f7e839291365.png)
 
 The global financial system is trying to cope with a series of exogenous shocks increasing in magnitude using internal tools. So far this has not been working. The shocks keep coming in and markets remain very volatile. Last week, OPEC+ announced a surprise decision to reduce oil production by 2m barrels per day.
 
 ![Market Chart 2](assets/2022-10-10_mazars-how-to-invest-in-an-unbalanced-world_img_image00628129_306cf3c50cf1.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-10_mazars-how-to-invest-in-an-unbalanced-world_img_image00628129_306cf3c50cf1.jpg)
+> [Local Asset](assets/2022-10-10_mazars-how-to-invest-in-an-unbalanced-world_img_image00628129_306cf3c50cf1.jpg)
 
 Just as global supply chains were mending, a surprise policy decision threatens yet higher transportation costs and could push the return to lower inflation levels further out.
 
 ![Market Chart 3](assets/2022-10-10_mazars-how-to-invest-in-an-unbalanced-world_img_unnamed28929_8025b3faeabe.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-10_mazars-how-to-invest-in-an-unbalanced-world_img_unnamed28929_8025b3faeabe.jpg)
+> [Local Asset](assets/2022-10-10_mazars-how-to-invest-in-an-unbalanced-world_img_unnamed28929_8025b3faeabe.jpg)
 
 The move itself is largely symbolic. OPEC+ was producing roughly 2m barrels under the quota anyway. Nevertheless, oil prices rose more than $12-$13 last week. What is more interesting is that Saudi Arabia, a staunch US ally, especially after 9/11, is now breaking with the White House administration, hiking prices at the pump, just a few days before the US Mid-Term election. This was a direct response to US plans to use the Dollar to curb the purchase price for Russian oil for any country or company that is connected with American businesses. Which is, mostly, everyone. Saudi Arabia is uncomfortable with the development of such tools, as, in the future, they could also be subject to such a policy.
 
@@ -74,6 +74,6 @@ Two:. This world will not feature a Yalta Conference or a Bretton-Woods, for the
 ![Focus on Fundamentals](assets/2022-10-10_mazars-how-to-invest-in-an-unbalanced-world_img_unnamed281029_abda03d269e1.jpg)
 
 > **Figure 4: Focus on Fundamentals**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-10_mazars-how-to-invest-in-an-unbalanced-world_img_unnamed281029_abda03d269e1.jpg)
+> [Local Asset](assets/2022-10-10_mazars-how-to-invest-in-an-unbalanced-world_img_unnamed281029_abda03d269e1.jpg)
 
 Three:**Ignore the noise**. Despite it all, people prefer to live and thrive than destroy themselves. This is the time for clients to maintain close communications with their trusted advisers. The objective is to focus not on what might happen in the world, but what strategies are being deployed to protect individual wealth.

@@ -56,6 +56,6 @@ The forward-looking cargo order data indicate that global demand for the red met
 ![Market Chart 1](assets/2023-06-02_shipfix-global-market-update_img_unnamed-2023-06-02t133046980_bb538669cae1.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-02_shipfix-global-market-update_img_unnamed-2023-06-02t133046980_bb538669cae1.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2023-06-02_shipfix-global-market-update_img_unnamed-2023-06-02t133046980_bb538669cae1.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

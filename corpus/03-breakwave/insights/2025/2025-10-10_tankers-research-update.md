@@ -64,7 +64,7 @@ The number of VLCCs trading has remained basically flat since April 2023 (+13 sh
 
 > **Figure 1: Source: Braemar**  
 > *Source: Braemar, Vortexa*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-10_tankers-research-update_img_5cca-image-0-1760092179792_faf096ca1e91.png)
+> [Local Asset](assets/2025-10-10_tankers-research-update_img_5cca-image-0-1760092179792_faf096ca1e91.png)
 
 ### China’s Stockbuilding Outlook
 
@@ -86,7 +86,7 @@ Cargoes to China have been the cornerstone of VLCC demand throughout 2025. Since
 
 > **Figure 2: Today's Announcement Designates 33 Vessels**  
 > *Today's announcement designates 33 vessels, 7 of which are crude tankers and the rest are LPG carriers, small chemical/oil tankers and a few tugs. These 7 crude tankers were heavily relied on in recent months due to being free of sanctions, accounting for 20% of all of China's Iranian crude imports in August.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-10_tankers-research-update_img_6be5-image-2-1760092105174_7032a24f8967.png)
+> [Local Asset](assets/2025-10-10_tankers-research-update_img_6be5-image-2-1760092105174_7032a24f8967.png)
 
 Source: Vortexa
 

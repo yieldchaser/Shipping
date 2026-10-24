@@ -37,7 +37,7 @@ We may already be in the midst of a global slowdown in trade with total dry bulk
 ![241](assets/2022-07-18_braemar-weekly-dry-market-report_img_241_eddefc3317e1.png)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-18_braemar-weekly-dry-market-report_img_241_eddefc3317e1.png)
+> [Local Asset](assets/2022-07-18_braemar-weekly-dry-market-report_img_241_eddefc3317e1.png)
 
 ## China: A Tale of Two Halves?
 
@@ -50,7 +50,7 @@ To limit any further downside, the Chinese government has been actively taking s
 ![242](assets/2022-07-18_braemar-weekly-dry-market-report_img_242_f0cd6572628b.png)
 
 > **Figure 2: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-18_braemar-weekly-dry-market-report_img_242_f0cd6572628b.png)
+> [Local Asset](assets/2022-07-18_braemar-weekly-dry-market-report_img_242_f0cd6572628b.png)
 
 ## Exchange Rates
 
@@ -61,7 +61,7 @@ Further, with the US dollar continuing to get stronger, countries may look to pu
 ![243](assets/2022-07-18_braemar-weekly-dry-market-report_img_243_cffe8f1927dd.png)
 
 > **Figure 3: 243**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-18_braemar-weekly-dry-market-report_img_243_cffe8f1927dd.png)
+> [Local Asset](assets/2022-07-18_braemar-weekly-dry-market-report_img_243_cffe8f1927dd.png)
 
 ## Monetary Tightening
 

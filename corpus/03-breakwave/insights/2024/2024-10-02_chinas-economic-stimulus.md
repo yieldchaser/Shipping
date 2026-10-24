@@ -31,7 +31,7 @@ Before the stimulus package was unveiled last week, we were starting to suspect 
 ![Market Chart 1](assets/2024-10-02_chinas-economic-stimulus_img_image0_147e7bb7be98.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-02_chinas-economic-stimulus_img_image0_147e7bb7be98.png)
+> [Local Asset](assets/2024-10-02_chinas-economic-stimulus_img_image0_147e7bb7be98.png)
 
 A declining population (since 2022) has seemingly met a jump in the use of alternative fuels in road transport and a decline in construction investment. LNG trucks and EVs are expected to displace around 300k b/d of oil demand this year alone. Jet fuel-hungry domestic air travel is coming under pressure from a vast network of high-speed trains. The housing crisis has caused the number of new housing projects to fall sharply since 2021, impacting diesel demand. Diesel use was down almost 5% y-o-y in the second quarter of this year, according to the IEA. Even plastics production – responsible for three quarters of Chinese oil demand growth between 2009 and 2023 – fell slightly y-o-y in the first half of this year. Plastic demand was weakest in June and July, says China’s National Bureau of Statistics.
 
@@ -42,7 +42,7 @@ China’s latest stimulus is the biggest since COVID. It represents a slew of mo
 ![Market Chart 2](assets/2024-10-02_chinas-economic-stimulus_img_image1_333bb31841a9.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-02_chinas-economic-stimulus_img_image1_333bb31841a9.png)
+> [Local Asset](assets/2024-10-02_chinas-economic-stimulus_img_image1_333bb31841a9.png)
 
 The Chinese government hopes it will be enough to meet its 5% GDP growth target set for the country this year. Before the stimulus, 4.75% was looking more likely, according to China observers. As yet, too little is known of the stimulus measures for economists to fully digest its impact. However, a consensus is emerging that there is a need for greater fiscal support to revive the economy in the longer run. We should have more details in a week after Golden Week.
 
@@ -53,12 +53,12 @@ In the past few years, most of the gains in China’s oil demand have benefitted
 ![Market Chart 3](assets/2024-10-02_chinas-economic-stimulus_img_image2_ae4bad3b1789.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-02_chinas-economic-stimulus_img_image2_ae4bad3b1789.png)
+> [Local Asset](assets/2024-10-02_chinas-economic-stimulus_img_image2_ae4bad3b1789.png)
 
 ![Market Chart 4](assets/2024-10-02_chinas-economic-stimulus_img_image3_653131745e90.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-02_chinas-economic-stimulus_img_image3_653131745e90.png)
+> [Local Asset](assets/2024-10-02_chinas-economic-stimulus_img_image3_653131745e90.png)
 
 With negative growth coming from OECD countries, slower Chinese economic growth will necessarily shift the focus of oil demand growth onto other ‘non-OECD Asia’ countries. We currently expect India’s 200k b/d growth to overtake Chinese oil demand growth this year. Oil demand in ‘other non-OECD Asia’ grew by roughly 250k/d annually in the decade to 2023. Thanks largely to strong Indian economic growth and today’s relatively low per capita oil consumption in the region, we were expecting non-OECD Asian oil demand growth (excl. China) to accelerate to roughly 430k b/d annually from now up to 2030.
 

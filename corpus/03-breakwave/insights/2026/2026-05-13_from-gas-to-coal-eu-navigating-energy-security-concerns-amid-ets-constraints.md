@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-05-13_from-gas-to-coal-eu-n
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2026-05-13_from-gas-to-coal-eu-navigating-energy-security-concerns-amid-ets-constraints_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-13_from-gas-to-coal-eu-navigating-energy-security-concerns-amid-ets-constraints_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](assets/2026-05-13_from-gas-to-coal-eu-navigating-energy-security-concerns-amid-ets-constraints_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 From Gas to Coal in the EU
 
@@ -32,7 +32,7 @@ Amid escalating US-Iran tensions and in the closure of the Strait of Hormuz, ene
 ![Στιγμιότυπο Οθόνης 2026 05 12 121304](assets/2026-05-13_from-gas-to-coal-eu-navigating-energy-security-concerns-amid-ets-constraints_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b979bd2fba09.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 05 12 121304**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-13_from-gas-to-coal-eu-navigating-energy-security-concerns-amid-ets-constraints_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b979bd2fba09.png)
+> [Local Asset](assets/2026-05-13_from-gas-to-coal-eu-navigating-energy-security-concerns-amid-ets-constraints_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b979bd2fba09.png)
 
 In response to elevated energy costs, several countries, particularly across South Asia and the EU, have reverted to coal as a more cost-effective alternative to natural gas in their power generation sectors. A key constraint on gas-to-coal switching versus the 2022–23 energy crisis period is that a substantial amount of coal-fired generation capacity has been permanently retired over the past decade, particularly across Europe.
 
@@ -41,7 +41,7 @@ As a result, the system today simply has far less latent coal-fired optionality 
 ![Στιγμιότυπο Οθόνης 2026 05 12 121315](assets/2026-05-13_from-gas-to-coal-eu-navigating-energy-security-concerns-amid-ets-constraints_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cdd68ebe167d.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 05 12 121315**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-13_from-gas-to-coal-eu-navigating-energy-security-concerns-amid-ets-constraints_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cdd68ebe167d.png)
+> [Local Asset](assets/2026-05-13_from-gas-to-coal-eu-navigating-energy-security-concerns-amid-ets-constraints_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cdd68ebe167d.png)
 
 In Asia, seaborne demand for coal has remained supported, with Indonesia’s easing of RKAB-related production restrictions improving export availability. While policy easing through the imposition of taxes has also resulted in upward revisions to benchmark coal prices (HBA), with levels increasing to around $103.43/mt depending on calorific value, the market continues to be primarily underpinned by structural coal demand from China and India.
 
@@ -56,7 +56,7 @@ In 2022, prices surged once more across the European Union, primarily due to LNG
 ![Στιγμιότυπο Οθόνης 2026 05 12 121333](assets/2026-05-13_from-gas-to-coal-eu-navigating-energy-security-concerns-amid-ets-constraints_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_39f83b29222f.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2026 05 12 121333**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-13_from-gas-to-coal-eu-navigating-energy-security-concerns-amid-ets-constraints_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_39f83b29222f.png)
+> [Local Asset](assets/2026-05-13_from-gas-to-coal-eu-navigating-energy-security-concerns-amid-ets-constraints_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_39f83b29222f.png)
 
 Return back to coal: The impact on the ETS regulations compared to South East Asia
 
@@ -65,7 +65,7 @@ Currently, the EU ETS encompasses a broad policy framework, comprising over 55 m
 ![Στιγμιότυπο Οθόνης 2026 05 12 121351](assets/2026-05-13_from-gas-to-coal-eu-navigating-energy-security-concerns-amid-ets-constraints_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d781b973ea2a.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2026 05 12 121351**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-13_from-gas-to-coal-eu-navigating-energy-security-concerns-amid-ets-constraints_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d781b973ea2a.png)
+> [Local Asset](assets/2026-05-13_from-gas-to-coal-eu-navigating-energy-security-concerns-amid-ets-constraints_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d781b973ea2a.png)
 
 While the scale of the current, Middle East-driven energy shock differs from the shock driven by Russia’s invasion of Ukraine, the underlying dynamics remain comparable, reinforcing the importance of maintaining a diversified energy mix. Meanwhile, US coal production has effectively doubled its contribution to global supply, while Australia and Indonesia have indicated their willingness to accommodate incremental demand growth and help maintain market stability.
 

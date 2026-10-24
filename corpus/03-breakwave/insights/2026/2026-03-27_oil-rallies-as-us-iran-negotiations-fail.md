@@ -27,7 +27,7 @@ Energy markets rallied as the prospect of peace talks diminished. Precious metal
 ![Στιγμιότυπο Οθόνης 2026 03 27 152605](assets/2026-03-27_oil-rallies-as-us-iran-negotiations-fail_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c33cf40aa591.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 03 27 152605**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-27_oil-rallies-as-us-iran-negotiations-fail_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c33cf40aa591.png)
+> [Local Asset](assets/2026-03-27_oil-rallies-as-us-iran-negotiations-fail_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c33cf40aa591.png)
 
 ### Market Commentary
 
@@ -48,7 +48,7 @@ So, we think China would only marginally increase aluminium production by liftin
 ![Στιγμιότυπο Οθόνης 2026 03 27 152707](assets/2026-03-27_oil-rallies-as-us-iran-negotiations-fail_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eb759ae3ba81.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 03 27 152707**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-27_oil-rallies-as-us-iran-negotiations-fail_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eb759ae3ba81.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2026-03-27_oil-rallies-as-us-iran-negotiations-fail_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eb759ae3ba81.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

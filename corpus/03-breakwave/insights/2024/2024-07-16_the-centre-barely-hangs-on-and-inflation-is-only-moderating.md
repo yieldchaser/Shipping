@@ -33,7 +33,7 @@ The world looks like a better place in the last few weeks. In France, Mr Macron 
 ![Market Chart 1](assets/2024-07-16_the-centre-barely-hangs-on-and-inflation-is-only-moderating_img_image001_66977ecc069f.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Economist](https://www.economist.com/leaders/2024/07/11/britains-skewed-election-reinforces-the-case-for-voting-reform-after-2029) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-16_the-centre-barely-hangs-on-and-inflation-is-only-moderating_img_image001_66977ecc069f.png)
+> **Interactive Data & Source:** [Economist](https://www.economist.com/leaders/2024/07/11/britains-skewed-election-reinforces-the-case-for-voting-reform-after-2029) | [Local Asset](assets/2024-07-16_the-centre-barely-hangs-on-and-inflation-is-only-moderating_img_image001_66977ecc069f.png)
 
 And the shy optimist in me would honestly like to see it this way. No one likes a Grinch. But the evidence is stacking against all these theses and suggests that the markets might be slightly on the exuberant side.
 
@@ -48,7 +48,7 @@ In France, things are more overtly difficult. For one, Ms Le Pen did win the pop
 ![Market Chart 2](assets/2024-07-16_the-centre-barely-hangs-on-and-inflation-is-only-moderating_img_image002_86df4a6b392b.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-16_the-centre-barely-hangs-on-and-inflation-is-only-moderating_img_image002_86df4a6b392b.jpg)
+> [Local Asset](assets/2024-07-16_the-centre-barely-hangs-on-and-inflation-is-only-moderating_img_image002_86df4a6b392b.jpg)
 
 Mr Macron’s challenge now is to reduce it faster than anticipated (lest Europe’s second-biggest economy is seen ignoring the stability pact), co-governing with a coalition of left parties whose explicit agenda has been to cancel Mr Macron’s reforms and incur higher fiscal burdens, even as the hard-right is now the most popular party in France. Much like Mr Starmer, failing to deliver on heightened expectations, threatens a backlash from markets and, eventually, voters.
 
@@ -59,7 +59,7 @@ On paper, US consumer inflation is coming down to 3%. This breeds hopes for cent
 ![Market Chart 3](assets/2024-07-16_the-centre-barely-hangs-on-and-inflation-is-only-moderating_img_image003_4dfd946457b4.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-16_the-centre-barely-hangs-on-and-inflation-is-only-moderating_img_image003_4dfd946457b4.jpg)
+> [Local Asset](assets/2024-07-16_the-centre-barely-hangs-on-and-inflation-is-only-moderating_img_image003_4dfd946457b4.jpg)
 
 So, the world might not be as disinflationary as the narrative suggests. Also, if the last two weekends showed us anything (in the UK, France but also in the US were political acrimony turned into political violence), is that**centrist democracy, the kind that breeds economic and financial stability, is more likely hanging on by its fingernails than staging a comeback.**
 

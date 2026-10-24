@@ -27,7 +27,7 @@ A risk-off tone across wider markets weighed on sentiment in energy and metal se
 ![Στιγμιότυπο Οθόνης 2025 01 28 120015](assets/2025-01-28_commodities-struggle-amid-risk-off-tone-across-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ef452b7e184c.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 01 28 120015**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-28_commodities-struggle-amid-risk-off-tone-across-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ef452b7e184c.png)
+> [Local Asset](assets/2025-01-28_commodities-struggle-amid-risk-off-tone-across-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ef452b7e184c.png)
 
 ### Market Commentary
 
@@ -46,7 +46,7 @@ Iraq has struggled to bring down exports of crude oil to levels stipulated under
 ![Στιγμιότυπο Οθόνης 2025 01 28 120025](assets/2025-01-28_commodities-struggle-amid-risk-off-tone-across-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9c3a77836938.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 01 28 120025**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-28_commodities-struggle-amid-risk-off-tone-across-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9c3a77836938.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-01-28_commodities-struggle-amid-risk-off-tone-across-markets_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9c3a77836938.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

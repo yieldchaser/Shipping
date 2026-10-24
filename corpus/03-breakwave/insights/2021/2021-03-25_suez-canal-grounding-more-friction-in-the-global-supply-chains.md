@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-03-25_suez-canal-grounding-
 ![Source: Airbus Space](assets/2021-03-25_suez-canal-grounding-more-friction-in-the-global-supply-chains_img_suez_bfcd4046b3e5.jpg)
 
 > **Figure 1: Source: Airbus Space**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-25_suez-canal-grounding-more-friction-in-the-global-supply-chains_img_suez_bfcd4046b3e5.jpg)
+> [Local Asset](assets/2021-03-25_suez-canal-grounding-more-friction-in-the-global-supply-chains_img_suez_bfcd4046b3e5.jpg)
 
 Source: Airbus Space
 
@@ -38,7 +38,7 @@ The extent of the impact on the shipping industry is a function of how quickly t
 ![Suez 1](assets/2021-03-25_suez-canal-grounding-more-friction-in-the-global-supply-chains_img_suez1_8688be3c74cc.jpg)
 
 > **Figure 2: Suez 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-03-25_suez-canal-grounding-more-friction-in-the-global-supply-chains_img_suez1_8688be3c74cc.jpg)
+> [Local Asset](assets/2021-03-25_suez-canal-grounding-more-friction-in-the-global-supply-chains_img_suez1_8688be3c74cc.jpg)
 
 As discussed in Ocean Analytics’ previous contribution, the shipping industry often benefits from frictions and inefficiencies injected by external forces, such as weather conditions, into the global supply chains. This is no exception, as tonnage trading in the spot market and caught in the congestion or facing a reroute around Africa will be unavailable for longer. There are currently around 40 dry bulk vessels affected by the congestion and the number will likely continue to grow in the coming days. An already tight tonnage supply situation in the dry bulk sector is, at least temporarily, likely to become somewhat tighter, especially in the mid-sized tonnage. The longer the “Ever Given” remains lodged into the canal wall, the more likely it is that freight rates could be impacted positively.
 

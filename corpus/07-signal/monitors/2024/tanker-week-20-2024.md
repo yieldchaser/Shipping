@@ -32,7 +32,7 @@ tags:
 ![6647396c558f9905522d380f Screenshot 2024 05 17 at 11.55.44](../../images/6647396c558f9905522d380f_Screenshot 2024-05-17 at 11.55.44.png)
 
 > **Figure 1: 6647396c558f9905522d380f Screenshot 2024 05 17 at 11.55.44**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-20-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6647396c558f9905522d380f_Screenshot 2024-05-17 at 11.55.44.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-20-2024) | [Local Asset](../../images/6647396c558f9905522d380f_Screenshot 2024-05-17 at 11.55.44.png)
 
 In the second week of April, the crude oil freight market maintained a relatively stable sentiment in the VLCC Ras Tanura segment, while indications of an upward trend At the end of the second week of May, the demand growth for dirty tonne-days continues to challenge the solid improvement in market prices, particularly on the VLCC MEG-China route. However, a positive factor is the pace of [Chinese crude oil imports](https://www.reuters.com/markets/commodities/china-april-crude-oil-imports-rise-545-previous-year-2024-05-09/), which rose significantly in April, increasing by 5.5% compared to the previous year. This increase is partly due to refiners ramping up imports in anticipation of a fully recovered Labor Day holiday travel season.
 

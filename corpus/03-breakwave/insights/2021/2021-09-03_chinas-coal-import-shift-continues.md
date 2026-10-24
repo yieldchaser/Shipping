@@ -27,42 +27,42 @@ Coal import data for July by origin has been released and shows imports from Ind
 ![A1](assets/2021-09-03_chinas-coal-import-shift-continues_img_a1_3e5dda6c36b6.jpg)
 
 > **Figure 1: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-03_chinas-coal-import-shift-continues_img_a1_3e5dda6c36b6.jpg)
+> [Local Asset](assets/2021-09-03_chinas-coal-import-shift-continues_img_a1_3e5dda6c36b6.jpg)
 
 Imports from Russia totaled 6.5 million tons, which is up month-on-month by 1.2 million tons (23%) and up year-on-year by 3.2 million tons (97%).
 
 ![A2](assets/2021-09-03_chinas-coal-import-shift-continues_img_a2_afdf0239416e.jpg)
 
 > **Figure 2: A2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-03_chinas-coal-import-shift-continues_img_a2_afdf0239416e.jpg)
+> [Local Asset](assets/2021-09-03_chinas-coal-import-shift-continues_img_a2_afdf0239416e.jpg)
 
 Imports from Mongolia totaled 700,000 tons, which is down month-on-month by 300,000 tons (-30%) and down year-on-year by 1.8 million tons (-72%). Imports from Mongolia have remained under sporadic pressure from the Chinese government due to Mongolian coronavirus cases.
 
 ![A3](assets/2021-09-03_chinas-coal-import-shift-continues_img_a3_eae2709e694b.jpg)
 
 > **Figure 3: A3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-03_chinas-coal-import-shift-continues_img_a3_eae2709e694b.jpg)
+> [Local Asset](assets/2021-09-03_chinas-coal-import-shift-continues_img_a3_eae2709e694b.jpg)
 
 Australia again did not export any coal to China last month. July has marked the eighth straight month where China did not import any Australian coal.
 
 ![A4](assets/2021-09-03_chinas-coal-import-shift-continues_img_a4_c44ae074f443.jpg)
 
 > **Figure 4: A4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-03_chinas-coal-import-shift-continues_img_a4_c44ae074f443.jpg)
+> [Local Asset](assets/2021-09-03_chinas-coal-import-shift-continues_img_a4_c44ae074f443.jpg)
 
 Imports from Canada totaled 1.3 million tons, which is up month-on-month by 200,000 tons (18%) and up year-on-year by 1.1 million tons (550%).
 
 ![A5](assets/2021-09-03_chinas-coal-import-shift-continues_img_a5_2069d4e211c5.jpg)
 
 > **Figure 5: A5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-03_chinas-coal-import-shift-continues_img_a5_2069d4e211c5.jpg)
+> [Local Asset](assets/2021-09-03_chinas-coal-import-shift-continues_img_a5_2069d4e211c5.jpg)
 
 Imports from the Philippines totaled 700,000 tons, which is down month-on-month by 300,000 tons (-30%) but up year-on-year by 200,000 tons (40%).
 
 ![A6](assets/2021-09-03_chinas-coal-import-shift-continues_img_a6_41827297a347.jpg)
 
 > **Figure 6: A6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-03_chinas-coal-import-shift-continues_img_a6_41827297a347.jpg)
+> [Local Asset](assets/2021-09-03_chinas-coal-import-shift-continues_img_a6_41827297a347.jpg)
 
 Imports from the United States totaled 600,000 tons, which is down month-on-month by 300,000 tons (-33%) but up year-on-year by 600,000 tons. Imports from Colombia totaled 300,000 tons, which is down month-on-month by 500,000 tons (-63%) but up year-on-year by 100,000 tons (50%). Imports from South Africa totaled 500,000 tons, which is down month-on-month by 300,000 tons (-38%) but up year-on-year by 500,000 tons.
 

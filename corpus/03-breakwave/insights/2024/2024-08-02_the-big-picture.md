@@ -40,7 +40,7 @@ We have identified**three main parts to the Panamax yearly growth story**:
 
 > **Figure 1: Three Examples Above Are Not Necessarily Representative of All**  
 > *The three examples above are not necessarily representative of all fertiliser trades from those load ports; they are simply the leading examples of yearly growth in January-June this year.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-02_the-big-picture_img_image028129_90e6b02ff32c.png)
+> [Local Asset](assets/2024-08-02_the-big-picture_img_image028129_90e6b02ff32c.png)
 
 As a result, the**positive impact on freight rates**from the trade gain is**amplified by the effect on tonne-mile demand**.
 
@@ -75,7 +75,7 @@ Although the IFA forecasts slowing fertiliser use is still in the medium term,**
 ![Market Chart 2](assets/2024-08-02_the-big-picture_img_image1_b67fae2552ae.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-02_the-big-picture_img_image1_b67fae2552ae.png)
+> [Local Asset](assets/2024-08-02_the-big-picture_img_image1_b67fae2552ae.png)
 
 ---
 

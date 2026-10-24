@@ -29,7 +29,7 @@ US soybean and corn prices have remained somewhat stagnant in recent weeks compa
 ![A](assets/2021-04-02_agri-commodities-us-planting-intentions-on-the-increase-but-fail-to-match-expect_img_a_44886e02d3f7.jpg)
 
 > **Figure 1: A**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-02_agri-commodities-us-planting-intentions-on-the-increase-but-fail-to-match-expect_img_a_44886e02d3f7.jpg)
+> [Local Asset](assets/2021-04-02_agri-commodities-us-planting-intentions-on-the-increase-but-fail-to-match-expect_img_a_44886e02d3f7.jpg)
 
 If analysts were disappointed with the less than spectacular increase in soybean acreage, the equivalent number for corn plantings failed to register any meaningful increase on last year’s and sent corn futures to an eight-year high. Only some 300,000 acres, accounting for less than a per cent, are expected to be added to the land planted with corn in the coming growing season, while industry watchers had expected another two million acres to be added. Unlike soybeans and corn, the planning intentions for wheat beat expectations, with an increase of five per cent. However, despite the healthy increase, the wheat planted area is the fourth-lowest since records began in 1919.
 

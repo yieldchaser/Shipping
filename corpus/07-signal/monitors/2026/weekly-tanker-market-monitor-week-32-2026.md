@@ -40,7 +40,7 @@ Of all transits, 56% were operated by non-transparent interests, comprising 29 s
 
 > **Figure 1: Hormuz Tanker Transits Since 14 July (N=102) - Transit Mode by Cargo, and Ownership.**  
 > *Figure 1. Hormuz tanker transits since 14 July (n=102) - transit mode by cargo, and ownership.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-32-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a758c2cc6bfd12f7d49768f_f882ac08.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-32-2026) | [Local Asset](../../images/6a758c2cc6bfd12f7d49768f_f882ac08.png)
 
 Transit tracking: The Signal Group · data to 3 Aug 2026
 
@@ -67,7 +67,7 @@ The proposal does not, by itself, point to a near-term increase in commercial ve
 
 > **Figure 2: Dirty Spot TCE by Benchmark Route, East vs West of Suez (Label Shows Week-on-Week Change).**  
 > *Figure 2. Dirty spot TCE by benchmark route, East vs West of Suez (label shows week-on-week change).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-32-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a758c2cc6bfd12f7d497692_80dbfc3f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-32-2026) | [Local Asset](../../images/6a758c2cc6bfd12f7d497692_80dbfc3f.png)
 
 Freight/TCE: The Signal Group / Baltic Exchange · 6 Aug 2026
 
@@ -86,7 +86,7 @@ Asset values followed a different trajectory. Nearly 80% of this year's apprecia
 
 > **Figure 3: VLCC Fleet Utilization vs 5-Yr and 10-Yr Secondhand Asset Values, 2025–2026 (Monthly).fleet & Asset Data: The Signal Group**  
 > *Figure 3. VLCC fleet utilization vs 5-yr and 10-yr secondhand asset values, 2025–2026 (monthly).Fleet & asset data: The Signal Group*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-32-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a758c2cc6bfd12f7d497695_b8bf3ae5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-32-2026) | [Local Asset](../../images/6a758c2cc6bfd12f7d497695_b8bf3ae5.png)
 
 
 ## VLCC Fleet: Ttilization 48.4% (vs 39% 3y Avg.) • 5y $143m / 10y $113m • 5y +21%, 10y +28% • 5y–10y Gap Back to ~$30m (From ~$26m in Q1)
@@ -101,7 +101,7 @@ The **largest concentration** of VLCC ballasters remains east of Suez, with 150 
 
 > **Figure 4: VLCC Ballast vs Laden Vessel Counts by Region, East vs West of Suez.source: Signal Group · 6 Aug 2026**  
 > *Figure 4. VLCC ballast vs laden vessel counts by region, East vs West of Suez.Source: Signal Group · 6 Aug 2026*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-32-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a758c2cc6bfd12f7d497698_ae2978d9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-32-2026) | [Local Asset](../../images/6a758c2cc6bfd12f7d497698_ae2978d9.png)
 
 The East of Suez ballast to laden ratio reversed sharply after 14 July, rising from about 1.0 to 1.5 by 6 August. Laden VLCCs declined from 344 to 278, while ballasters increased from 351 to 429. Although the ratio had previously reached similar levels in early April, the move since mid-July stands out for its speed, reversing the lower readings seen through late June and early July.
 
@@ -110,7 +110,7 @@ The East of Suez ballast to laden ratio reversed sharply after 14 July, rising f
 
 > **Figure 5: East-of-Suez VLCC Ballast-to-Laden Ratio, Since the 14 July Blockade.source: The Signal Group**  
 > *Figure 5. East-of-Suez VLCC ballast-to-laden ratio, since the 14 July blockade.Source: The Signal Group*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-32-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a758c2cc6bfd12f7d49769b_af615a81.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-32-2026) | [Local Asset](../../images/6a758c2cc6bfd12f7d49769b_af615a81.png)
 
 
 ## Ballast : Laden (VLCC): East of Suez B/l Ratio 1.0 (14 Jul) → 1.5 (6 Aug) • Back to Early-April Levels After Reaching Near Parity in Mid-July.

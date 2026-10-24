@@ -33,14 +33,14 @@ Russia’s seaborne crude oil flows are trying to find new destination countries
 ![1 (2)](assets/2022-06-05_weekly-insights-review_img_128229_da978cbe44a4.jpg)
 
 > **Figure 1: 1 (2)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/30/base-metals-gain-as-china-promises-further-economic-support-measures) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-05_weekly-insights-review_img_128229_da978cbe44a4.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/30/base-metals-gain-as-china-promises-further-economic-support-measures) | [Local Asset](assets/2022-06-05_weekly-insights-review_img_128229_da978cbe44a4.jpg)
 
 ## Base Metals Gain As China Promises Further Economic Support Measures
 
 ![Unsplash Image 3wwiqmom3gq](assets/2022-06-05_weekly-insights-review_img_unsplash-image-3wwiqmom3gq_c1897fa95162.jpg)
 
 > **Figure 2: Unsplash Image 3wwiqmom3gq**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/30/base-metals-gain-as-china-promises-further-economic-support-measures) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-05_weekly-insights-review_img_unsplash-image-3wwiqmom3gq_c1897fa95162.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/30/base-metals-gain-as-china-promises-further-economic-support-measures) | [Local Asset](assets/2022-06-05_weekly-insights-review_img_unsplash-image-3wwiqmom3gq_c1897fa95162.jpg)
 
 ## A Risk-On Tone Across Markets Saw Commodities Erase Earlier Losses to End the Week Higher
 
@@ -52,7 +52,7 @@ A risk-on tone across markets saw commodities erase earlier losses to end the we
 ![Unsplash Image 7syioxllpfa](assets/2022-06-05_weekly-insights-review_img_unsplash-image-7syioxllpfa_555835c0fb2c.jpg)
 
 > **Figure 3: Unsplash Image 7syioxllpfa**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/6/1/crude-oil-gains-after-eu-bans-russian-oil-imports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-05_weekly-insights-review_img_unsplash-image-7syioxllpfa_555835c0fb2c.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/6/1/crude-oil-gains-after-eu-bans-russian-oil-imports) | [Local Asset](assets/2022-06-05_weekly-insights-review_img_unsplash-image-7syioxllpfa_555835c0fb2c.jpg)
 
 ## Energy Markets Gained Amid Concerns of Further Supply Disruptions
 
@@ -65,7 +65,7 @@ Energy markets gained amid concerns of further supply disruptions. That was offs
 ![Unsplash Image Fixlqxahcfk](assets/2022-06-05_weekly-insights-review_img_unsplash-image-fixlqxahcfk_b0d427e67fbd.jpg)
 
 > **Figure 4: Unsplash Image Fixlqxahcfk**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/31/dead-cats-dont-bounce) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-05_weekly-insights-review_img_unsplash-image-fixlqxahcfk_b0d427e67fbd.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/31/dead-cats-dont-bounce) | [Local Asset](assets/2022-06-05_weekly-insights-review_img_unsplash-image-fixlqxahcfk_b0d427e67fbd.jpg)
 
 Last week saw the best performing week since November 2020 for equities, after the Fed’s Minutes suggested that the Fed will not be more aggressive than already anticipated.
 
@@ -79,12 +79,12 @@ The Russian assault on Ukraine has passed the 100 days mark, and no end to the c
 ![Unsplash Image V7npjmbwyj4 (1)](assets/2022-06-05_weekly-insights-review_img_unsplash-image-v7npjmbwyj428129_cf189d804320.jpg)
 
 > **Figure 5: Unsplash Image V7npjmbwyj4 (1)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/6/3/oil-gains-as-opecs-faster-increase-in-output-fails-to-impress-the-market) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-05_weekly-insights-review_img_unsplash-image-v7npjmbwyj428129_cf189d804320.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/6/3/oil-gains-as-opecs-faster-increase-in-output-fails-to-impress-the-market) | [Local Asset](assets/2022-06-05_weekly-insights-review_img_unsplash-image-v7npjmbwyj428129_cf189d804320.jpg)
 
 ![Unsplash Image Lnpamla Bvq](assets/2022-06-05_weekly-insights-review_img_unsplash-image-lnpamla-bvq_1e6f1d502feb.jpg)
 
 > **Figure 6: Unsplash Image Lnpamla Bvq**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/6/3/oil-gains-as-opecs-faster-increase-in-output-fails-to-impress-the-market) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-05_weekly-insights-review_img_unsplash-image-lnpamla-bvq_1e6f1d502feb.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/6/3/oil-gains-as-opecs-faster-increase-in-output-fails-to-impress-the-market) | [Local Asset](assets/2022-06-05_weekly-insights-review_img_unsplash-image-lnpamla-bvq_1e6f1d502feb.jpg)
 
 ## Oil Gains As Opec's Faster Increase in Output Fails to Impress the Market
 
@@ -99,7 +99,7 @@ Mixed economic data failed to impact sentiment in commodity markets, with supply
 ![Market Chart 7](assets/2022-06-05_weekly-insights-review_img_unnamed28229_42b9ea65b222.jpg)
 
 > **Figure 7: Market Chart 7**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/6/2/indonesia-and-russia-remain-chinas-primary-sources-of-coal-imports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-05_weekly-insights-review_img_unnamed28229_42b9ea65b222.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/6/2/indonesia-and-russia-remain-chinas-primary-sources-of-coal-imports) | [Local Asset](assets/2022-06-05_weekly-insights-review_img_unnamed28229_42b9ea65b222.jpg)
 
 China's April coal import data by origin was recently released and shows that imports from Indonesia have remained the primary source of imports and Russia the second largest source of imports.
 [Read More](https://www.breakwaveadvisors.com/insights/2022/6/2/indonesia-and-russia-remain-chinas-primary-sources-of-coal-imports)

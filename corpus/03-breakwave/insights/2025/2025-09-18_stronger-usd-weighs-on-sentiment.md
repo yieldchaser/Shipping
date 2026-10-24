@@ -27,7 +27,7 @@ A stronger USD weighed on sentiment across the commodities complex following the
 ![Στιγμιότυπο Οθόνης 2025 09 18 085226](assets/2025-09-18_stronger-usd-weighs-on-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5dfa7fe82bd8.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 09 18 085226**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-18_stronger-usd-weighs-on-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5dfa7fe82bd8.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-09-18_stronger-usd-weighs-on-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5dfa7fe82bd8.png)
 
 ### Market Commentary
 
@@ -46,7 +46,7 @@ The zinc market has been beset with mine supply issues in recent years. This has
 ![Στιγμιότυπο Οθόνης 2025 09 18 085328](assets/2025-09-18_stronger-usd-weighs-on-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_771d5a8836d0.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 09 18 085328**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-18_stronger-usd-weighs-on-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_771d5a8836d0.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-09-18_stronger-usd-weighs-on-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_771d5a8836d0.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

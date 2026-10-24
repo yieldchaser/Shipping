@@ -37,7 +37,7 @@ Although ONE has ordered additional containers, they also needed to charter mult
 ![Unsplash Image 9cces9sg6nu](assets/2022-02-26_box-rates-and-the-supply-chain-will-the-boom-continue_img_unsplash-image-9cces9sg6nu_a0ffee036d9c.jpg)
 
 > **Figure 1: Unsplash Image 9cces9sg6nu**  
-> **Interactive Data & Source:** [Xeneta](http://xeneta.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-26_box-rates-and-the-supply-chain-will-the-boom-continue_img_unsplash-image-9cces9sg6nu_a0ffee036d9c.jpg)
+> **Interactive Data & Source:** [Xeneta](http://xeneta.com/) | [Local Asset](assets/2022-02-26_box-rates-and-the-supply-chain-will-the-boom-continue_img_unsplash-image-9cces9sg6nu_a0ffee036d9c.jpg)
 
 One wonders how much revenue could be earned by the box carriers if they filled just a medium amount of these empties at the ports instead of buying new boxes that stand a good chance of being empty on half of their voyages.
 
@@ -48,7 +48,7 @@ Last week’s Maersk February 10 North American Customer Advisory list of delays
 ![Screenshot 20220224 130211 Samsung Internet](assets/2022-02-26_box-rates-and-the-supply-chain-will-the-boom-continue_img_screenshot-20220224-130211-samsungin_100f1abcfc8e.jpg)
 
 > **Figure 2: Screenshot 20220224 130211 Samsung Internet**  
-> **Interactive Data & Source:** [Xeneta](http://xeneta.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-26_box-rates-and-the-supply-chain-will-the-boom-continue_img_screenshot-20220224-130211-samsungin_100f1abcfc8e.jpg)
+> **Interactive Data & Source:** [Xeneta](http://xeneta.com/) | [Local Asset](assets/2022-02-26_box-rates-and-the-supply-chain-will-the-boom-continue_img_screenshot-20220224-130211-samsungin_100f1abcfc8e.jpg)
 
 With Savannah as the only major port reporting pre-Covid discharge conditions, one wonders how 14% more containers sitting offshore on the newbuilds ordered in the past two years will solve the continuing supply chain debacle?
 

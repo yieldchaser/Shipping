@@ -27,7 +27,7 @@ The US equity markets have had quite a year so far. The S&P 500 is currently at 
 ![Source: Yahoo Finance](assets/2020-09-24_shipping-stock-performance_img_ulfchart_764cb1050562.png)
 
 > **Figure 1: Source: Yahoo Finance**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-24_shipping-stock-performance_img_ulfchart_764cb1050562.png)
+> [Local Asset](assets/2020-09-24_shipping-stock-performance_img_ulfchart_764cb1050562.png)
 
 source: Yahoo Finance
 
@@ -40,7 +40,7 @@ For dry bulk shipping equities, the picture has been equally bleak. Improving fr
 ![Market Chart 2](assets/2020-09-24_shipping-stock-performance_img_image-asset_567f8fcfc5ca.jpeg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-24_shipping-stock-performance_img_image-asset_567f8fcfc5ca.jpeg)
+> [Local Asset](assets/2020-09-24_shipping-stock-performance_img_image-asset_567f8fcfc5ca.jpeg)
 
 Shipping equities have long had a reputation for poor returns and high volatility. For many institutional investors, such as pension funds, shipping stocks present a multiple of challenges, Often, they get eliminated in the early stages of the investment process, due to various technical issues. The market liquidity and/or capitalization can be too low for the fund manager, as trading in the shares could have a substantial adverse market impact and negate potential profits. In addition, factors such as limited analyst coverage, limited free float of the share or governance can often be reasons why a fund manager excludes them from consideration. The result is less institutional money flowing, relatively to the broader market, into the shipping equities, leading to even less liquidity and the vicious circle is established.
 

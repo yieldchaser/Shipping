@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-06-08_iron-ore-rips-capesiz
 
 > **Figure 1: “For the Time Being**  
 > *“For the time being, we are still keeping our 310mt shipment forecast for 2020 which is at the bottom of Vale’s production guidance for 2020, but the risks of not reaching this guidance have been increasing.”*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-08_iron-ore-rips-capesizes-snooze-in-a-volatile-trading-day_img_image-asset_144f0c3e42a5.jpeg)
+> [Local Asset](assets/2020-06-08_iron-ore-rips-capesizes-snooze-in-a-volatile-trading-day_img_image-asset_144f0c3e42a5.jpeg)
 
 With the weekend news relating to Vale’s mining operations flowing into the Asian market early Monday, iron ore futures gapped up, reaching the highest level since last summer and trading above the psychological $100/t mark. Supply concerns, that have dominated the news cycle relating to iron ore once again are front and center, and uncertainty about the future availability of high quality iron ore out of Brazil kept the iron ore market well bid all day.
 
@@ -38,4 +38,4 @@ As for the Capesize market, futures closed relatively unchanged, with limited ph
 ![Q3 Cape 6 8](assets/2020-06-08_iron-ore-rips-capesizes-snooze-in-a-volatile-trading-day_img_q3cape6-8_1b55815cc15e.png)
 
 > **Figure 2: Q3 Cape 6 8**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-08_iron-ore-rips-capesizes-snooze-in-a-volatile-trading-day_img_q3cape6-8_1b55815cc15e.png)
+> [Local Asset](assets/2020-06-08_iron-ore-rips-capesizes-snooze-in-a-volatile-trading-day_img_q3cape6-8_1b55815cc15e.png)

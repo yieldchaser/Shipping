@@ -67,7 +67,7 @@ The current week has seen a relatively robust start for cargo ordering in the ca
 ![Market Chart 1](assets/2024-04-04_european-natural-gas-grains-and-oilseeds-were-among-the-minority-of-commodities_img_unnamed_67b6419640f7.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-04_european-natural-gas-grains-and-oilseeds-were-among-the-minority-of-commodities_img_unnamed_67b6419640f7.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-04-04_european-natural-gas-grains-and-oilseeds-were-among-the-minority-of-commodities_img_unnamed_67b6419640f7.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

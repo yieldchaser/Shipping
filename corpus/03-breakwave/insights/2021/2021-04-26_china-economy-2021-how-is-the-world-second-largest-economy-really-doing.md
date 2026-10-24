@@ -33,28 +33,28 @@ China’s quarterly growth rate averaged 9.4 per cent from 1989 to 2019, reachin
 ![A1](assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a1_2c75dee2f212.png)
 
 > **Figure 1: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a1_2c75dee2f212.png)
+> [Local Asset](assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a1_2c75dee2f212.png)
 
 **China’s consumer price index (CPI):**China’s consumer price index (CPI) rose to plus 0.4 per cent in March from a year earlier, from minus 0.2 per cent in February. Beijing has set a CPI growth target for 2021 of around 3 per cent, compared to around 3.5 per cent in 2020.
 
 ![A2](assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a2_164a588589f5.png)
 
 > **Figure 2: A2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a2_164a588589f5.png)
+> [Local Asset](assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a2_164a588589f5.png)
 
 **China’s producer price index (PPI):**China’s producer price index (PPI) rose to 4.4 per cent in March, from 1.7 per cent in February.
 
 ![A3](assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a3_9f60169b1f34.png)
 
 > **Figure 3: A3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a3_9f60169b1f34.png)
+> [Local Asset](assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a3_9f60169b1f34.png)
 
 **China’s official manufacturing purchasing managers’ index (PMI):**China’s official manufacturing purchasing managers’ index (PMI) stood at 51.9 in March, with a reading above 50 signifying growth in activity in this survey of factory operators. This followed a reading of 50.6 in February.
 
 ![A4](assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a4_e43fe9b35cdf.png)
 
 > **Figure 4: A4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a4_e43fe9b35cdf.png)
+> [Local Asset](assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a4_e43fe9b35cdf.png)
 
 **China’s official non-manufacturing purchasing managers’ index (PMI):**China’s official non-manufacturing purchasing managers’ index (PMI), a gauge of sentiment in the services and construction sectors, was 56.3 in March, compared with 51.4 in February.
 
@@ -65,7 +65,7 @@ China’s quarterly growth rate averaged 9.4 per cent from 1989 to 2019, reachin
 ![A5](assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a5_8b56b24f0cee.png)
 
 > **Figure 5: A5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a5_8b56b24f0cee.png)
+> [Local Asset](assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a5_8b56b24f0cee.png)
 
 **China’s imports:**China's imports grew by 38.1 per cent in March 2021 from a year earlier, up from the 22.2 per cent growth seen in January and February, and well above the Bloomberg survey, which predicted 24.5 per cent growth. Imports have become a closely watched gauge of China’s economic health as the country has transitioned from an export-driven growth model to a more consumption-based model.
 
@@ -78,14 +78,14 @@ The trade war with the United States, though, damaged China’s exports as tarif
 ![A6](assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a6_2869f3c386e8.png)
 
 > **Figure 6: A6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a6_2869f3c386e8.png)
+> [Local Asset](assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a6_2869f3c386e8.png)
 
 **China’s retail sales:**China’s retail sales, a gauge of consumer spending in the world’s most populous nation, grew by 34.2 per cent in March 2021 compared with a year earlier. This was a up from a rise of 33.8 per cent in combined figures for January and February 2021. This has become increasingly important in China as it attempts to switch from an export-driven economy to one that relies on domestic consumption.
 
 ![A7](assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a7_f67b8e5ba80c.png)
 
 > **Figure 7: A7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a7_f67b8e5ba80c.png)
+> [Local Asset](assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a7_f67b8e5ba80c.png)
 
 **China’s industrial profits:**China’s industrial profits from January to December grew by 4.1 per cent, an improvement on the increase of 2.4 per cent in the first 11 months of the year. This covers the profits received from the principal business of industrial enterprises above a designated size.
 
@@ -94,28 +94,28 @@ The trade war with the United States, though, damaged China’s exports as tarif
 ![A8](assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a8_70c02c24cba1.png)
 
 > **Figure 8: A8**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a8_70c02c24cba1.png)
+> [Local Asset](assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a8_70c02c24cba1.png)
 
 **China’s new loans:**Chinese banks extended 2.73 trillion yuan in new yuan loans in March, up from 1.36 trillion yuan in February and exceeding analyst expectations.
 
 ![A9](assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a9_a6aa9bfdb879.png)
 
 > **Figure 9: A9**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a9_a6aa9bfdb879.png)
+> [Local Asset](assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a9_a6aa9bfdb879.png)
 
 **China’s surveyed jobless rate:**China’s surveyed jobless rate, an imperfect measurement of unemployment in China that does not include figures for the nation’s tens of millions of migrant workers, stood at 5.3 per cent in March, down from 5.5 per cent in February. Beijing has set a target of creating over 11 million new urban jobs in 2021, compared to a target of 9 million in 2020, and a surveyed urban unemployment rate of 5.5 per cent, compared to around 6 per cent in 2020.
 
 ![A10](assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a10_b31d18943edd.png)
 
 > **Figure 10: A10**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a10_b31d18943edd.png)
+> [Local Asset](assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a10_b31d18943edd.png)
 
 **China’s foreign exchange reserves:**China’s foreign exchange reserves, the largest in the world, fell to US$3.17 trillion in March, compared with US$3.205 trillion in February.
 
 ![A11](assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a11_5bed3ff5add3.png)
 
 > **Figure 11: A11**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a11_5bed3ff5add3.png)
+> [Local Asset](assets/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-really-doing_img_a11_5bed3ff5add3.png)
 
 ### Uncertainty for the Future Growth and Doubts for the Current Firmness
 

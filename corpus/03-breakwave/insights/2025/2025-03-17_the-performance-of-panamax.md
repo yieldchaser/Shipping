@@ -39,7 +39,7 @@ In essence, the Panamax segment’s resurgence reflects a broader shift in globa
 ![Στιγμιότυπο Οθόνης 2025 03 17 101145](assets/2025-03-17_the-performance-of-panamax_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22859037edee.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 03 17 101145**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-17_the-performance-of-panamax_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22859037edee.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-03-17_the-performance-of-panamax_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22859037edee.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

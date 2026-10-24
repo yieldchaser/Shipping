@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-11-17_open-for-business.htm
 ![Crude Tanker](assets/2025-11-17_open-for-business_img_crude-tanker_2aad01be7c26.jpg)
 
 > **Figure 1: Crude Tanker**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-17_open-for-business_img_crude-tanker_2aad01be7c26.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-11-17_open-for-business_img_crude-tanker_2aad01be7c26.jpg)
 
 The latest ceasefire between Israel and Hamas has again raised hopes of a normalisation of Red Sea transits for commercial shipping. Earlier this week, the Houthis announced a pause to attacks on commercial shipping provided the ceasefire holds. Whether this will be enough to convince mainstream shipowners as well as insurance companies that the Red Sea is safe to cross so far remains highly uncertain. If the Red Sea is once again seen as a safe route, how would that impact tanker markets?
 
@@ -40,7 +40,7 @@ Thus far, the situation in Gaza remains volatile and any consequent Houthi actio
 ![Στιγμιότυπο Οθόνης 2025 11 17 104710](assets/2025-11-17_open-for-business_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a647355ade6d.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 11 17 104710**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-17_open-for-business_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a647355ade6d.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-11-17_open-for-business_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a647355ade6d.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

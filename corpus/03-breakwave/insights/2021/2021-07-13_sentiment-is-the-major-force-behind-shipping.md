@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-07-13_sentiment-is-the-majo
 ![Beijing 2008](assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_beijing2008_3cd25c13a0d2.png)
 
 > **Figure 1: Beijing 2008**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_beijing2008_3cd25c13a0d2.png)
+> [Local Asset](assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_beijing2008_3cd25c13a0d2.png)
 
 The summer of 2008 was a particularly odd period for shipping, let alone for the rest of the global economy. As the world was about to experience the first-ever Olympic Games in China and shipowners were gathering in Athens, Greece for the bi-annual Posidonia shipping conference, freight rates for both tankers and bulkers were hovering at stratospheric levels. Rumors about shipowners not even picking up their cell phones to talk to brokers about long term period deals that were “only” half the spot market, while freight futures were fluctuating by thousands of dollars every hour, provided a small testament to the impact that human sentiment can bring to financial markets and especially to the shipping market. Six months later, the shipping industry collapsed along the rest of the global economy, and numerous shipping related entities went under in a matter of weeks.
 
@@ -38,21 +38,21 @@ To that extent, it is easy to understand why dry bulk owners expect a bright fut
 
 > **Figure 2: Source: Arrow Shipbrokering**  
 > *Source: Arrow Shipbrokering*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_pngimage_d8f63c9ec292.png)
+> [Local Asset](assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_pngimage_d8f63c9ec292.png)
 
 How long will such strong demand growth lasts? Well, for one it is not difficult to argue about the cyclicality of commodities. As inventories rebuilt, demand will slowly ease, leading to a gradual turn of the cycle. Yet, the world is flooded with money, and government stimulus is still playing a major role in economic growth. Whether that trend has peaked or not is arguable, but as we stand today there are very few signs (ex-China at least, given that in China credit impulse is now pointing down, a bad omen for industrial activity) that such a trend is about to come to a halt. Thus, we expect for the next year demand to remain at above-trend levels, supporting commodity shipping.
 
 ![China Credit Impulse](assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_chinacreditimpulse_8c777614cfa3.png)
 
 > **Figure 3: China Credit Impulse**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_chinacreditimpulse_8c777614cfa3.png)
+> [Local Asset](assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_chinacreditimpulse_8c777614cfa3.png)
 
 Geopolitics has also been a major source of incremental tonne-mile demand and the Australia-China trade dispute has been front a center of such a trend. It is also the major force behind the very strong coal trading market this year, and as the chart below shows, trade routes are shifting to the benefit of dry bulk shipping.
 
 ![Source: Ssy](assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_pngimage28129_248198bdfd2e.png)
 
 > **Figure 4: Source: Ssy**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_pngimage28129_248198bdfd2e.png)
+> [Local Asset](assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_pngimage28129_248198bdfd2e.png)
 
 *Source: SSY*
 
@@ -64,7 +64,7 @@ It is easy to see why the industry is optimistic about the medium term. Assuming
 
 > **Figure 5: Source: Braemar Acm**  
 > *Source: Braemar ACM*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_image328129_d25d8fae5e7c.png)
+> [Local Asset](assets/2021-07-13_sentiment-is-the-major-force-behind-shipping_img_image328129_d25d8fae5e7c.png)
 
 The rate level that future demand and supply will clear is unknown. Yet, as we reach new highs year after year, owners build up their confidence and are naturally asking for more. Vessels that currently change hands at increased asset prices will require higher rates to achieve their targeted rates of return, and thus more resistance will be built over time during weaker freight rate periods. Overall, as market participants become more comfortable with elevated rates, the potential for significant spikes becomes real and increases the optionality of holding a shipping asset (either physical or paper).
 

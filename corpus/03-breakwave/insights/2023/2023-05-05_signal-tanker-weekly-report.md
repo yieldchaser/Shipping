@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-05-05_signal-tanker-weekly-
 ![U.s. Exporting More Crude Oil to Europe and Asia](assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140020117_e4511a0d99fc.png)
 
 > **Figure 1: U.s. Exporting More Crude Oil to Europe and Asia**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-dynamic-oilflows/2nx8z1/317215611?h=nNocUOz2mXDw2txUlBCg7f_WiEnAJWTC3iAZPojkgkQ) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140020117_e4511a0d99fc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/tanker-dynamic-oilflows/2nx8z1/317215611?h=nNocUOz2mXDw2txUlBCg7f_WiEnAJWTC3iAZPojkgkQ) | [Local Asset](assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140020117_e4511a0d99fc.png)
 
 Data Source: The Signal Ocean Platform- Oil Flows
 
@@ -42,7 +42,7 @@ Freight Market, Supply and Demand
 ![Dirty](assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140126546_a07c8b3c4120.png)
 
 > **Figure 2: Dirty**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140126546_a07c8b3c4120.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140126546_a07c8b3c4120.png)
 
 Crude oil freight rate sentiment weakened in early May, with the Aframax-Med route experiencing a slight upward correction over the past two weeks.
 
@@ -55,7 +55,7 @@ Crude oil freight rate sentiment weakened in early May, with the Aframax-Med rou
 ![Steady](assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140159683_b8b458f4aa67.png)
 
 > **Figure 3: Steady**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140159683_b8b458f4aa67.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140159683_b8b458f4aa67.png)
 
 - **LR2**AG freight rates hovered around WS 160, 10 points higher than a week ago.
 
@@ -70,7 +70,7 @@ Crude oil freight rate sentiment weakened in early May, with the Aframax-Med rou
 ![Clean](assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140250602_ec44b15dbcd3.png)
 
 > **Figure 4: Clean**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140250602_ec44b15dbcd3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140250602_ec44b15dbcd3.png)
 
 - **MR1**rates Algeria-to-Med are now at WS150, almost 50% lower than mid-April, and Baltic-to-Cont MR1 rates are at ~ WS160, with stronger weakening dynamics since early April.
 
@@ -81,7 +81,7 @@ Crude oil freight rate sentiment weakened in early May, with the Aframax-Med rou
 ![VLCC Increasing | Aframax - Suezmax](assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140423220_d62ac41c5a4f.png)
 
 > **Figure 5: VLCC Increasing | Aframax - Suezmax**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140423220_d62ac41c5a4f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140423220_d62ac41c5a4f.png)
 
 Crude oil tanker supply showed a downward trend in early May, with signs of upward movement in VLCC.
 
@@ -95,14 +95,14 @@ Crude oil tanker supply showed a downward trend in early May, with signs of upwa
 ![Market Chart 6](assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140452277_75cb4c6c4519.png)
 
 > **Figure 6: Market Chart 6**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140452277_75cb4c6c4519.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140452277_75cb4c6c4519.png)
 
 ## ‘Clean’ Supply Trend Lines for Key Load Areas |MR1| Decreasing
 
 ![Market Chart 7](assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140550188_1104c65f37db.png)
 
 > **Figure 7: Market Chart 7**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140550188_1104c65f37db.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140550188_1104c65f37db.png)
 
 - **Clean LR2 AG Jubail:**The number of vessels has approached the annual average of 14 after two weeks of being below the annual trend.
 
@@ -115,14 +115,14 @@ Crude oil tanker supply showed a downward trend in early May, with signs of upwa
 ![Decreasing](assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140632762_3cb7ae1a2814.png)
 
 > **Figure 8: Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140632762_3cb7ae1a2814.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140632762_3cb7ae1a2814.png)
 
 ## ‘Clean’ |Panamax - Increasing | MR2 - MR1 -Decreasing
 
 ![Market Chart 9](assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140713283_9038676b48f1.png)
 
 > **Figure 9: Market Chart 9**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140713283_9038676b48f1.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140713283_9038676b48f1.png)
 
 - demand ton-days: The strength observed at the end of Apil has now weakened with the stronger downward correction in Suezmax.
 

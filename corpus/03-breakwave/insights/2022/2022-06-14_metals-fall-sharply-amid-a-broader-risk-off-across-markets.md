@@ -26,7 +26,7 @@ A broad risk-off tone across markets saw commodities start the week under furthe
 ![1655156938450](assets/2022-06-14_metals-fall-sharply-amid-a-broader-risk-off-across-markets_img_1655156938450_b3bb5c298a29.png)
 
 > **Figure 1: 1655156938450**  
-> **Interactive Data & Source:** [Publications Anz](https://publications.anz.com/SingletrackCMS__DownloadDocument?docRef=28ac1b45-cafe-4332-b93b-5aa0c5d6410d&uid=bd219b92-f5cc-400e-9646-4178791864b7&jobRef=21fbeb7d-267d-4fa8-85d0-2d3bec3f80de) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-14_metals-fall-sharply-amid-a-broader-risk-off-across-markets_img_1655156938450_b3bb5c298a29.png)
+> **Interactive Data & Source:** [Publications Anz](https://publications.anz.com/SingletrackCMS__DownloadDocument?docRef=28ac1b45-cafe-4332-b93b-5aa0c5d6410d&uid=bd219b92-f5cc-400e-9646-4178791864b7&jobRef=21fbeb7d-267d-4fa8-85d0-2d3bec3f80de) | [Local Asset](assets/2022-06-14_metals-fall-sharply-amid-a-broader-risk-off-across-markets_img_1655156938450_b3bb5c298a29.png)
 
 **Gold**fell the most in three months as rampant inflation raised the prospect of aggressive monetary tightening by the US Federal Reserve. The bigger than expected rise in inflation on Friday raised market expectations of a Fed rate hike at the next meeting, with some commentators calling for 75bp. Money market traders are pricing in 175bp of rate hikes by September. The USD rallied and the yields on US Treasuries rose sharply, both reducing gold’s appeal to investors. Gold quickly wiped out its gains on Friday, where it traded as high as USD1,875/oz, to end the session down 2.8%.
 

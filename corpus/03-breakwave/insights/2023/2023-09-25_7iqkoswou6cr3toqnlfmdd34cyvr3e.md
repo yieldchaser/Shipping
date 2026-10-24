@@ -30,7 +30,7 @@ On the central bank front, Fed reiterated its commitment to achieve maximum empl
 ![1 (2)](assets/2023-09-25_7iqkoswou6cr3toqnlfmdd34cyvr3e_img_128229_4487f036668f.png)
 
 > **Figure 1: 1 (2)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-25_7iqkoswou6cr3toqnlfmdd34cyvr3e_img_128229_4487f036668f.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-09-25_7iqkoswou6cr3toqnlfmdd34cyvr3e_img_128229_4487f036668f.png)
 
 In tandem, the Bank of England’s Monetary Policy Committee sets monetary policy to meet the 2 percent inflation target, and in a way that helps to sustain growth and employment. At its meeting ending on 20 September 2023, the MPC voted by a majority of 5-4 to maintain Bank Rate at 5.25 percent. Four members preferred to increase Bank Rate by 0.25 percentage points, to 5.5 percent. "We will need to keep interest rates high enough for long enough to ensure that we get the job done," Bank of England Governor Andrew Bailey stressed this Thursday after policymakers narrowly decided to hold its main interest rate unchanged.
 
@@ -43,7 +43,7 @@ At the same time as higher interest rates seem to be a necessity in order to fur
 ![1 (3)](assets/2023-09-25_7iqkoswou6cr3toqnlfmdd34cyvr3e_img_128329_db3ba993f396.png)
 
 > **Figure 2: 1 (3)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-25_7iqkoswou6cr3toqnlfmdd34cyvr3e_img_128329_db3ba993f396.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-09-25_7iqkoswou6cr3toqnlfmdd34cyvr3e_img_128329_db3ba993f396.png)
 
 Whilst higher rates seem to be the new reality and inflation remains stubbornly above medium-term target, Baltic indices managed to step on China’s positive momentum of late and take a much-needed breather.
 

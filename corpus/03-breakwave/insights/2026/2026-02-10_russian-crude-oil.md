@@ -33,7 +33,7 @@ Ships that we list as under European control have lifted on average 14% (493k b/
 ![Ffe9 Image 0 1770648053048](assets/2026-02-10_russian-crude-oil_img_ffe9-image-0-1770648053048_55cd6f399638.png)
 
 > **Figure 1: Ffe9 Image 0 1770648053048**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-02-10_russian-crude-oil_img_ffe9-image-0-1770648053048_55cd6f399638.png)
+> [Local Asset](assets/2026-02-10_russian-crude-oil_img_ffe9-image-0-1770648053048_55cd6f399638.png)
 
 *Source: Vortexa*
 

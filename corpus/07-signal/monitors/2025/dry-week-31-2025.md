@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/dry/dynamic/timeseriesdry**  
 > *https://app.signalocean.com/dry/dynamic/timeseries_dry*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-31-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/688b38e9c5a2dfc9d0aebe88_AD_4nXc8FKx3pe3Fd-5qu09-FdSPyQtzrnz0-T_sai0IxZOtF53nHZG4rTpjy-eNHPQOYd6x4M3j_dQNd_F8RyuhCKGh_wl90iOQIrEr4ZfXLb9ZPlcjQYkVv2Tc2UveS1teBKt_lBtG-g.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-31-2025) | [Local Asset](../../images/688b38e9c5a2dfc9d0aebe88_AD_4nXc8FKx3pe3Fd-5qu09-FdSPyQtzrnz0-T_sai0IxZOtF53nHZG4rTpjy-eNHPQOYd6x4M3j_dQNd_F8RyuhCKGh_wl90iOQIrEr4ZfXLb9ZPlcjQYkVv2Tc2UveS1teBKt_lBtG-g.png)
 
 This week’s ***Chart Monitor*** highlights a continued upward trend in tonne-day growth for the Capesize segment during Q2 2025, particularly on voyages from the Atlantic Americas to the Far East. However, the recent surge in demand on the C3 route (Brazil to China) raises concerns about its durability as we move into the third quarter.
 

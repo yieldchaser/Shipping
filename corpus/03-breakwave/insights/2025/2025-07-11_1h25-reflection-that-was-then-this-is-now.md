@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-07-11_1h25-reflection-that-
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2025-07-11_1h25-reflection-that-was-then-this-is-now_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-11_1h25-reflection-that-was-then-this-is-now_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](assets/2025-07-11_1h25-reflection-that-was-then-this-is-now_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 “There are decades where nothing happens, and there are weeks where decades happen.” The rapid pace of global developments over the past six months gives this statement renewed weight. It is clear these events are reshaping the world. Fresh geopolitical alliances and economic deals will be forged, while past ones probably discarded.
 
@@ -38,7 +38,7 @@ As of writing, the US had sent tariff letters to its trading partners, including
 ![Στιγμιότυπο Οθόνης 2025 07 11 111707](assets/2025-07-11_1h25-reflection-that-was-then-this-is-now_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_831816224d34.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 07 11 111707**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-11_1h25-reflection-that-was-then-this-is-now_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_831816224d34.png)
+> [Local Asset](assets/2025-07-11_1h25-reflection-that-was-then-this-is-now_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_831816224d34.png)
 
 In essence, it’s a repeat of 2 April, especially for Asia with tariffs now as high as 40%, likely targeting regional supply chains. Malaysia and Japan received increases to 25%, while Laos and Myanmar got modest reductions to 40%. Collection to start on 1 August, with sector-specific tariffs apparently not stacked. President Trump mentioned that these tariff levels are “final, but if they call with a different offer, and if I like it, we’ll do it.”, teasing the possibility of additional negotiations and delays. Yet, real agreements take years, not months, and uncertainty is weighing on confidence.
 
@@ -49,7 +49,7 @@ Nonetheless, not all is certain. China’s recent rare earth export ban and the 
 ![Στιγμιότυπο Οθόνης 2025 07 11 111713](assets/2025-07-11_1h25-reflection-that-was-then-this-is-now_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d14da8315a0.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 07 11 111713**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-11_1h25-reflection-that-was-then-this-is-now_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d14da8315a0.png)
+> [Local Asset](assets/2025-07-11_1h25-reflection-that-was-then-this-is-now_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d14da8315a0.png)
 
 Until stakeholders resolve their differences for good, businesses and individuals will remain cautious in putting ‘skin in the game’. A slowdown in global economic activity in the coming quarters appears to be a reasonable conclusion. Meanwhile, shipping will need to navigate through short to medium term pain and uncertainty until a new equilibrium emerges.
 
@@ -68,7 +68,7 @@ Since 2023, the $30,000/day level has acted as a psychological and market ceilin
 ![Στιγμιότυπο Οθόνης 2025 07 11 111721](assets/2025-07-11_1h25-reflection-that-was-then-this-is-now_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_997e047a0737.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 07 11 111721**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-11_1h25-reflection-that-was-then-this-is-now_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_997e047a0737.png)
+> [Local Asset](assets/2025-07-11_1h25-reflection-that-was-then-this-is-now_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_997e047a0737.png)
 
 Sub-Capesize rates saw modest gains from May to June, but first-half averages remain below 2023 levels. Panamax P5TC/day averaged $10,701/day in 2025 versus $11,772/day in 2023. Supramax S10TC posted $9,209/day versus $10,457/day, while Handysize HS7TC averaged $9,813/day versus $10,047/day.
 
@@ -77,7 +77,7 @@ This lackluster performance in 1H25 is a combination of various headwinds facing
 ![Στιγμιότυπο Οθόνης 2025 07 11 111728](assets/2025-07-11_1h25-reflection-that-was-then-this-is-now_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c53c5027e8aa.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 07 11 111728**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-11_1h25-reflection-that-was-then-this-is-now_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c53c5027e8aa.png)
+> [Local Asset](assets/2025-07-11_1h25-reflection-that-was-then-this-is-now_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c53c5027e8aa.png)
 
 In addition, delving deeper, there’s been disproportionate decline in tonne-days growth relative to ton growth (see above table), despite vessel speed slowing down this year. This meant that for the 1H25, laden distance of voyages on averages, in particular sub-capes have shrunk massively, due to improvement in 1) Panama Canal laden transits (as mentioned above) and 2) US grains increased shipments to other (shorter haul) markets in the Latin America and Mediterranean as opposed to China.
 
@@ -88,7 +88,7 @@ According to World-Grain, since 10 April, US soybean exports now face a combined
 ![Στιγμιότυπο Οθόνης 2025 07 11 111735](assets/2025-07-11_1h25-reflection-that-was-then-this-is-now_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5765926b9b91.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 07 11 111735**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-11_1h25-reflection-that-was-then-this-is-now_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5765926b9b91.png)
+> [Local Asset](assets/2025-07-11_1h25-reflection-that-was-then-this-is-now_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5765926b9b91.png)
 
 The spending bill which won final approval by the House of Representatives last Thursday forms the bedrock of Trump’s various presidential campaign pledges, to be implemented in the following three and a half years. More importantly, the passing of this bill meant the US will be steadfast in collecting tariff revenues in lieu of other revenues cuts. Hence, even if we finally move past this tariff saga, we will eventually be living in a world that is facing higher friction when moving goods from one corner to another.
 

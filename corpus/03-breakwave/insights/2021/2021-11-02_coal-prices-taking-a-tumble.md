@@ -26,7 +26,7 @@ The new month has started rather dramatically for the coal markets. In the shado
 ![Ch1](assets/2021-11-02_coal-prices-taking-a-tumble_img_ch1_c976271a2b38.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-02_coal-prices-taking-a-tumble_img_ch1_c976271a2b38.png)
+> [Local Asset](assets/2021-11-02_coal-prices-taking-a-tumble_img_ch1_c976271a2b38.png)
 
 The much-published Chinese policy of coal “at all costs” appears to have given way to a greater focus on boosting domestic output. The country’s top economic planning agency, the National Development and Reform Commission, reported that the daily production from China’s coal mines has been above 11.5 million tonnes since the second half of October and about 1.1 million tons higher than at the end of the previous month. The NDRC has also previously stated that it is targeting a daily production of twelve million tonnes. At the same time, daily coal supply to the critical coal-fired power plants has reached 8.3 million tonnes, which is the highest ever recorded. The boost in domestic coal production has helped drive total coal inventories at Chinese power plants to 106 million tonnes, more than 28 million tonnes above what was recorded at the end of September. According to the NDRC, current stockpiles should support 19 days of consumption.
 
@@ -39,6 +39,6 @@ Perhaps somewhat ironic, European coal imports have rebounded during the build-u
 ![Ch2](assets/2021-11-02_coal-prices-taking-a-tumble_img_ch2_590942f6c6f7.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-02_coal-prices-taking-a-tumble_img_ch2_590942f6c6f7.png)
+> [Local Asset](assets/2021-11-02_coal-prices-taking-a-tumble_img_ch2_590942f6c6f7.png)
 
 The current energy crisis highlights how dependent the world still is on coal as an energy source. While the increase in Chinese coal output has led to a considerable price fall in the last few days, prices remain very high in a historical context. Despite the epic drop, prices are still 150 per cent higher than a year ago. At this stage, it looks unlikely that global demand for the commodity will decrease materially any time soon and, with a lack of new coal mining projects, prices, therefore, look set to remain high. For dry bulk shipping, it will remain an important cargo. Global seaborne volumes have recovered from last year’s pandemic hit volumes but may not quite match the pre-pandemic peak recorded in 2019. However, second place is still a realistic possibility.

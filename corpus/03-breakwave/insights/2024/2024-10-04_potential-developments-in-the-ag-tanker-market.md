@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-10-04_potential-development
 ![Gy 2lpxwcaa032a](assets/2024-10-04_potential-developments-in-the-ag-tanker-market_img_gy-2lpxwcaa032a_0c412cf00886.jpeg)
 
 > **Figure 1: Gy 2lpxwcaa032a**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-04_potential-developments-in-the-ag-tanker-market_img_gy-2lpxwcaa032a_0c412cf00886.jpeg)
+> [Local Asset](assets/2024-10-04_potential-developments-in-the-ag-tanker-market_img_gy-2lpxwcaa032a_0c412cf00886.jpeg)
 
 Although it is still too early to speculate on potential developments in the AG tanker market given the fluid situation btwn Israel & Iran, any disruption to ships passing through the Strait of Hormuz could have a significant impact on tanker rates out of the region. Here’s why:
 
@@ -36,7 +36,7 @@ As a playbook, looking back at spot rates for crude tankers carrying oil out of 
 ![Gy 2dm6xqaazp7e](assets/2024-10-04_potential-developments-in-the-ag-tanker-market_img_gy-2dm6xqaazp7e_2ffe4bc5e490.jpeg)
 
 > **Figure 2: Gy 2dm6xqaazp7e**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-04_potential-developments-in-the-ag-tanker-market_img_gy-2dm6xqaazp7e_2ffe4bc5e490.jpeg)
+> [Local Asset](assets/2024-10-04_potential-developments-in-the-ag-tanker-market_img_gy-2dm6xqaazp7e_2ffe4bc5e490.jpeg)
 
 In this scenario where most western-owned ships would be unable transit the AG, such ships would be forced to divert elsewhere causing excess tonnage available to other routes, potentially pushing rates lower. Yet, ships able to sail through the strait could see rates skyrocket.
 

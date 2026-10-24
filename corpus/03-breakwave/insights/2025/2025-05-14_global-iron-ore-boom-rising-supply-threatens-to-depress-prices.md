@@ -25,7 +25,7 @@ As projected in our March outlook, the global iron ore market has entered a supp
 ![Στιγμιότυπο Οθόνης 2025 05 14 161803](assets/2025-05-14_global-iron-ore-boom-rising-supply-threatens-to-depress-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51da55b4506a.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 05 14 161803**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-14_global-iron-ore-boom-rising-supply-threatens-to-depress-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51da55b4506a.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-05-14_global-iron-ore-boom-rising-supply-threatens-to-depress-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51da55b4506a.png)
 
 **Supply Expansion Accelerates :**The key development this month is Rio Tinto's confirmation that the long-delayed Simandou project in Guinea is on track to deliver its first shipments by November 2025. This milestone marks a new frontier for seaborne supply and underscores our previous warning: if demand fails to keep pace, prices are likely to come under sustained pressure.
 
@@ -34,14 +34,14 @@ As projected in our March outlook, the global iron ore market has entered a supp
 ![Στιγμιότυπο Οθόνης 2025 05 14 161811](assets/2025-05-14_global-iron-ore-boom-rising-supply-threatens-to-depress-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0692eccadf4e.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 05 14 161811**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-14_global-iron-ore-boom-rising-supply-threatens-to-depress-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0692eccadf4e.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-05-14_global-iron-ore-boom-rising-supply-threatens-to-depress-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0692eccadf4e.png)
 
 **Iron Ore Prices at a Crossroads :**As new entrants like Guinea’s Simandou come online, the seaborne market could experience a glut. Without a matching surge in demand — either from China or emerging economies — prices will likely face sustained pressure. Goldman Sachs' latest forecast, projecting average spot prices of $85/ton in Q4 2025 with temporary dips below $80/ton, reflects growing consensus around this risk.
 
 ![Στιγμιότυπο Οθόνης 2025 05 14 161820](assets/2025-05-14_global-iron-ore-boom-rising-supply-threatens-to-depress-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51da6ffbc893.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 05 14 161820**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-14_global-iron-ore-boom-rising-supply-threatens-to-depress-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51da6ffbc893.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-05-14_global-iron-ore-boom-rising-supply-threatens-to-depress-prices_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51da6ffbc893.png)
 
 **The freight market is confronting increased volatility:**Capesize freight markets will likely face increased volatility. In the near term, continued Chinese buying and infrastructure activity should support steady vessel demand. However, as new supply flows from West Africa shift traditional trade routes, we can anticipate notable impacts on voyage durations, freight spreads, and port utilization. New shipping corridors from Guinea to Asia, bypassing established Australia-China and Brazil-China routes, could disrupt prevailing deployment strategies. Operators may need to adapt to more dynamic, less predictable trading patterns as supply centers become increasingly diversified.
 

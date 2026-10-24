@@ -28,7 +28,7 @@ Capesizes made headlines for yet another time. However, this week, it was not be
 ![1](assets/2023-10-30_doric-weekly-market-insight_img_1_f823b12bbcac.png)
 
 > **Figure 1: 1**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-30_doric-weekly-market-insight_img_1_f823b12bbcac.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-10-30_doric-weekly-market-insight_img_1_f823b12bbcac.png)
 
 October has been a fruitful trading month for the Capesizes, with the TCA surpassing the $30,000 mark for the first time over the last seventeen months. In tandem, freight rates for iron ore from both Brazil and Australia to China have increased materially during the same period, with the former pushing to over $26 per tonne and the latter advancing towards $11 per tonne. Fanning the flames of an already robust sentiment, iron ore stocks at the major Chinese ports touched multi-year minima in mid October. In fact, portside inventories slid to 105.2 million tonnes as of October 13, down nearly 20 percent year-on-year, and the lowest level since October 2016, data from consultancy Steelhome showed. However, the last couple of weeks, supported by increased China-bound iron ore cargoes, piles of rich in iron oxides ore grew in size. In fact, inventories of imported iron ore at China's 45 major ports included in Mysteel's weekly survey have grown for the second week in a row to 111.4 million tonnes by October 26, up by another 956,500 tonnes or 0.9 percent from last Thursday.
 
@@ -37,12 +37,12 @@ Whilst iron ore port stocks seem to have reversed the previous period downward t
 ![1](assets/2023-10-30_doric-weekly-market-insight_img_1_2cdda5a0e352.png)
 
 > **Figure 2: 1**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-30_doric-weekly-market-insight_img_1_2cdda5a0e352.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-10-30_doric-weekly-market-insight_img_1_2cdda5a0e352.png)
 
 ![1](assets/2023-10-30_doric-weekly-market-insight_img_1_b47fbf32f7b1.png)
 
 > **Figure 3: 1**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-30_doric-weekly-market-insight_img_1_b47fbf32f7b1.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-10-30_doric-weekly-market-insight_img_1_b47fbf32f7b1.png)
 
 In spite of the positive tone in China’s Iron and Steel Association comments, the northern Chinese city of Tangshan, China's top steel production hub, will launch a level-2 emergency response from Friday amid a forecast of heavy air pollution raising concerns for the short-term outlook. As for dry bulk shipping, seasonality is historically favourable during the first half of the fourth quarter but its dynamic usually fades towards the end of the year.
 

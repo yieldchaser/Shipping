@@ -33,7 +33,7 @@ In the January update of the IMF outlook, the United States experienced a substa
 ![Screenshot 2024 02 03 10.11.41](assets/2024-02-05_conditions-return-to-a-more-positive-state-after-the-cny-celebrations_img_screenshot2024-02-03101141_e6095c851a18.png)
 
 > **Figure 1: Screenshot 2024 02 03 10.11.41**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-05_conditions-return-to-a-more-positive-state-after-the-cny-celebrations_img_screenshot2024-02-03101141_e6095c851a18.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-02-05_conditions-return-to-a-more-positive-state-after-the-cny-celebrations_img_screenshot2024-02-03101141_e6095c851a18.png)
 
 Regarding emerging and developing Asia, India is anticipated to sustain robust growth, projected at 6.5 percent for both 2024 and 2025. This represents a positive revision of 0.2 percentage points for both years compared to the October forecast, highlighting the country's resilience in domestic demand. In the case of China, growth is projected at 4.6 percent in 2024 and 4.1 percent in 2025, reflecting an upward revision of 0.4 percentage points for 2024 compared to the October 2023 World Economic Outlook (WEO). This adjustment is attributed to the carryover effect from stronger-than-expected growth in 2023 and an increase in government spending focused on capacity building to address natural disasters.
 

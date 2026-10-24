@@ -27,7 +27,7 @@ Precious metals recorded gains amid strong investor interest. Energy markets rem
 ![Στιγμιότυπο Οθόνης 2026 01 28 101338](assets/2026-01-28_energy-markets-on-edge-amid-supply-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33f4e92a0cdf.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 01 28 101338**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-28_energy-markets-on-edge-amid-supply-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33f4e92a0cdf.png)
+> [Local Asset](assets/2026-01-28_energy-markets-on-edge-amid-supply-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33f4e92a0cdf.png)
 
 ### Market Commentary
 
@@ -48,7 +48,7 @@ China’s steel industry continues to suffer from overcapacity amid weak demand.
 ![Στιγμιότυπο Οθόνης 2026 01 28 101348](assets/2026-01-28_energy-markets-on-edge-amid-supply-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_08d95f8e0d30.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 01 28 101348**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-28_energy-markets-on-edge-amid-supply-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_08d95f8e0d30.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2026-01-28_energy-markets-on-edge-amid-supply-risks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_08d95f8e0d30.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

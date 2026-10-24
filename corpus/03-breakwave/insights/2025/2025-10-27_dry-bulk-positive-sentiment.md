@@ -33,7 +33,7 @@ Moving forward, the grain exporters’ association ANEC projects 7.34 million to
 ![Στιγμιότυπο Οθόνης 2025 10 27 095947](assets/2025-10-27_dry-bulk-positive-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e791db38f9a8.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 10 27 095947**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-27_dry-bulk-positive-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e791db38f9a8.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-10-27_dry-bulk-positive-sentiment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e791db38f9a8.png)
 
 At this juncture, Chicago soybean futures eased on Friday from a onemonth high yet still recorded their strongest weekly gain in ten weeks, supported by optimism over renewed U.S.–China trade discussions. Market attention is now centred on the forthcoming meeting between President Donald Trump and President Xi Jinping in South Korea, where agricultural purchases – particularly soybeans – are expected to feature prominently on the agenda. The recent escalation in trade tensions, following Beijing’s expanded restrictions on rare-earth exports, has fuelled concerns over potential retaliatory measures, although both sides have signalled a willingness to return to the negotiating table. A potential trade deal could help U.S. farmers avert further losses, though the window for new Chinese purchases ahead of the North American export season appears to be narrowing.
 

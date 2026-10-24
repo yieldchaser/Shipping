@@ -45,49 +45,49 @@ The conflagration in the Middle East was a litmus test, however, as to whether U
 ![Market Chart 1](assets/2025-06-17_dont-look-at-war-us-data-was-great_img_image008_4f1a704e2eb9.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-17_dont-look-at-war-us-data-was-great_img_image008_4f1a704e2eb9.jpg)
+> [Local Asset](assets/2025-06-17_dont-look-at-war-us-data-was-great_img_image008_4f1a704e2eb9.jpg)
 
 Having said that, the jump in oil prices doesn’t necessarily mean that traders are beginning to price in oil shocks. Far from it. Oil prices were due a rebound. In the past few weeks, Brent Crude has been trading near $60, when the breakeven for the Saudi budget is around $90-$98. Saudia Arabia has been happy of course to let it drift lower to capture a larger market share, and possibly as a result of a wider agreement with the US, but $30 to $40 below Saudi breakeven was not sustainable for very long.
 
 ![Market Chart 2](assets/2025-06-17_dont-look-at-war-us-data-was-great_img_image009_7ae225beaa14.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-17_dont-look-at-war-us-data-was-great_img_image009_7ae225beaa14.jpg)
+> [Local Asset](assets/2025-06-17_dont-look-at-war-us-data-was-great_img_image009_7ae225beaa14.jpg)
 
 And Saudi Arabia is really what markets and investors should be focusing on. Even if Iranian oil goes out of production (c. only 3mn barrels per day(bpd)), the Saudi Kingdom alone can increase output from c. 9mn bpd to 11-12m bpd to compensate.
 
 ![Market Chart 3](assets/2025-06-17_dont-look-at-war-us-data-was-great_img_image010_4c6e0802efc9.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-17_dont-look-at-war-us-data-was-great_img_image010_4c6e0802efc9.jpg)
+> [Local Asset](assets/2025-06-17_dont-look-at-war-us-data-was-great_img_image010_4c6e0802efc9.jpg)
 
 The investment and economic problem with the war, is that it took the focus outside some much-needed good news for the US economy. For one, the consumer price index yet again delivered a benign reading of 2.4%. While we don’t believe that inflation will necessarily remain tame and without some volatility (1/3 of businesses pan to raise prices, input prices have been rising), good news is still good news.
 
 ![Market Chart 4](assets/2025-06-17_dont-look-at-war-us-data-was-great_img_image011_bc9e4a29703e.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-17_dont-look-at-war-us-data-was-great_img_image011_bc9e4a29703e.jpg)
+> [Local Asset](assets/2025-06-17_dont-look-at-war-us-data-was-great_img_image011_bc9e4a29703e.jpg)
 
 Second, business sentiment improved markedly, with companies focusing on taxes (and potential tax cuts) while becoming slightly more optimistic about the future.
 
 ![Market Chart 5](assets/2025-06-17_dont-look-at-war-us-data-was-great_img_image012_853d2b659cdc.jpg)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-17_dont-look-at-war-us-data-was-great_img_image012_853d2b659cdc.jpg)
+> [Local Asset](assets/2025-06-17_dont-look-at-war-us-data-was-great_img_image012_853d2b659cdc.jpg)
 
 Third, consumers have become more positive about the economy, while inflation expectations receded somewhat. Again, sentiment remains damp by historical standards and inflation expectations are way above any point of comfort for the Federal Reserve, but good news is good news and should be welcomed.
 
 ![Market Chart 6](assets/2025-06-17_dont-look-at-war-us-data-was-great_img_image013_32c88ae3545a.jpg)
 
 > **Figure 6: Market Chart 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-17_dont-look-at-war-us-data-was-great_img_image013_32c88ae3545a.jpg)
+> [Local Asset](assets/2025-06-17_dont-look-at-war-us-data-was-great_img_image013_32c88ae3545a.jpg)
 
 Looking back at Brexit, of course, we understand that avoiding an initial demand shock is not the same thing as the return of long-term optimism, but we also need to remember that companies can better adjust to slower economic movements, is the shocks they have trouble absorbing. So still good news.
 
 ![Market Chart 7](assets/2025-06-17_dont-look-at-war-us-data-was-great_img_image014_0e6acd59f1e5.jpg)
 
 > **Figure 7: Market Chart 7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-17_dont-look-at-war-us-data-was-great_img_image014_0e6acd59f1e5.jpg)
+> [Local Asset](assets/2025-06-17_dont-look-at-war-us-data-was-great_img_image014_0e6acd59f1e5.jpg)
 
 And yet there’s a fourth one. The US and China are finally acknowledging that a trade war hurts them both and that a “yes, but it hurts the other guy more” rationale doesn’t help economic performance. So in the past week, there have been reports of a deal, which would allow China to unblock its rare earth trade and in return regain, with some tariffs, access to the US consumer.
 

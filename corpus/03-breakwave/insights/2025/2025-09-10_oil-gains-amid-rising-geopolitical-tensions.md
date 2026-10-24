@@ -27,7 +27,7 @@ Oil gained amid rising geopolitical risks. Renewed supply side issues helped sup
 ![Στιγμιότυπο Οθόνης 2025 09 10 104207](assets/2025-09-10_oil-gains-amid-rising-geopolitical-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db6acd5305be.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 09 10 104207**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-10_oil-gains-amid-rising-geopolitical-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db6acd5305be.png)
+> [Local Asset](assets/2025-09-10_oil-gains-amid-rising-geopolitical-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db6acd5305be.png)
 
 ### Market Commentary
 
@@ -46,7 +46,7 @@ The fall in China’s imports of LNG have gone a long way to enabling Europe to 
 ![Στιγμιότυπο Οθόνης 2025 09 10 104337](assets/2025-09-10_oil-gains-amid-rising-geopolitical-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1a2982678b1.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 09 10 104337**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-10_oil-gains-amid-rising-geopolitical-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1a2982678b1.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-09-10_oil-gains-amid-rising-geopolitical-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1a2982678b1.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

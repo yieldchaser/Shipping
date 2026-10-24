@@ -59,7 +59,7 @@ In addition to improving cargo order volumes, a recent drop in the trade’s mar
 ![Screenshot 2024 02 16 15.15.20](assets/2024-02-16_the-fix-global-market-update-from-shipfix_img_screenshot2024-02-16151520_37e71935f8df.png)
 
 > **Figure 1: Screenshot 2024 02 16 15.15.20**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-16_the-fix-global-market-update-from-shipfix_img_screenshot2024-02-16151520_37e71935f8df.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-02-16_the-fix-global-market-update-from-shipfix_img_screenshot2024-02-16151520_37e71935f8df.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

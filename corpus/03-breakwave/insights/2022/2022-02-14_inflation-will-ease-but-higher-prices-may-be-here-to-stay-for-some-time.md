@@ -27,7 +27,7 @@ Last week saw the US registering the highest headline inflation number in over 4
 ![Ch1](assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch1_9e26afa75d14.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch1_9e26afa75d14.png)
+> [Local Asset](assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch1_9e26afa75d14.png)
 
 Is the market overreacting, or is the Fed so far behind the curve? The truth is, no one knows at this point. No one is an expert on inflation, and certainly not the kind of inflation we are currently experiencing.
 
@@ -38,7 +38,7 @@ In fact, “history” is the operative word. The swift rise in inflation we are
 ![Ch2](assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch2_595ebae517fc.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch2_595ebae517fc.png)
+> [Local Asset](assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch2_595ebae517fc.png)
 
 The great Milton Friedman, the first major economist of the Monetary Era suggested that “inflation always and everywhere is a monetary phenomenon”. This would imply that interest rates would be the most appropriate tool to fight it. However, and with respect to the Nobel Laureate, this aphorism, which seems to be anchored in many an investor’s and central banker’s thinking, is probably wrong.
 
@@ -47,7 +47,7 @@ If we take US numbers, the first major inflation surge of the century came in 19
 ![Ch3](assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch3_b45b5336d713.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch3_b45b5336d713.png)
+> [Local Asset](assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch3_b45b5336d713.png)
 
 It has been nearly fifty years that developed markets haven’t experienced a similar inflation rise like in 2021-22. It becomes apparent that only major global events can cause such sharp rises in price. The response by all nations to the pandemic, which essentially meant shutting production and curtailing movement, had about the same effects as wars of the past.
 
@@ -64,7 +64,7 @@ At the risk of angering the ghost of the great economist, our observations about
 ![Ch4](assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch4_06cc5a9c15ea.png)
 
 > **Figure 4: Ch4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch4_06cc5a9c15ea.png)
+> [Local Asset](assets/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time_img_ch4_06cc5a9c15ea.png)
 
 Vaccination levels are high in many parts of the world, and more cures are made available. One after another, western governments declare their intention to drop measures and movement limitations. In all probability, the “Great Lockdown” is well behind us. Meanwhile, unless the Ukrainian crisis escalates into a fully-fledged standoff between Russia and NATO, energy prices should start to come off.
 

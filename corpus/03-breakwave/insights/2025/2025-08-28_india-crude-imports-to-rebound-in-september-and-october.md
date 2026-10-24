@@ -29,14 +29,14 @@ India's crude imports are projected to fall by 0.3mbd m-o-m to 4.3mbd in August.
 ![Στιγμιότυπο Οθόνης 2025 08 28 102243](assets/2025-08-28_india-crude-imports-to-rebound-in-september-and-october_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1a3b1c390e4.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 08 28 102243**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/russia-india-crude-vessel-supply) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-28_india-crude-imports-to-rebound-in-september-and-october_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1a3b1c390e4.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/russia-india-crude-vessel-supply) | [Local Asset](assets/2025-08-28_india-crude-imports-to-rebound-in-september-and-october_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1a3b1c390e4.png)
 
 The reason behind this year's decline is different. India's lower crude imports this month were mainly due to the decrease in flows into Nayara Energy's refinery. Analysing crude arrivals into India by port, it is evident that the major decline in arrivals occurred at Vadinar, where Nayara Energy's refinery oil terminals are located. In fact, crude imports into Vadinar have fallen steadily for two consecutive months since July.
 
 ![Στιγμιότυπο Οθόνης 2025 08 28 102504](assets/2025-08-28_india-crude-imports-to-rebound-in-september-and-october_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_26516309a012.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 08 28 102504**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/russia-india-crude-vessel-supply) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-28_india-crude-imports-to-rebound-in-september-and-october_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_26516309a012.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/russia-india-crude-vessel-supply) | [Local Asset](assets/2025-08-28_india-crude-imports-to-rebound-in-september-and-october_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_26516309a012.png)
 
 Focusing on Vadinar port and selecting oil terminals linked to Nayara Energy, we see that crude arrivals into the refinery fell by 0.1mbd m-o-m in August. Imports of non-Russian crude completely ceased this month as mainstream vessels avoid calling at Nayara Energy refinery terminal. Meanwhile, imports of Urals crude into the refinery have risen slightly this month, as vessels plying the Russia-India trade route resume crude discharges after brief disruptions last month.
 
@@ -45,7 +45,7 @@ The overall drop in crude inflows impacted the refinery’s processing rates, re
 ![Στιγμιότυπο Οθόνης 2025 08 28 102545](assets/2025-08-28_india-crude-imports-to-rebound-in-september-and-october_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f5de9739c5ce.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 08 28 102545**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/russia-india-crude-vessel-supply) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-28_india-crude-imports-to-rebound-in-september-and-october_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f5de9739c5ce.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/russia-india-crude-vessel-supply) | [Local Asset](assets/2025-08-28_india-crude-imports-to-rebound-in-september-and-october_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f5de9739c5ce.png)
 
 ## India Crude Imports to Rebound in the Coming Months
 
@@ -54,7 +54,7 @@ Looking ahead, crude arrivals into India will likely increase in September and O
 ![Στιγμιότυπο Οθόνης 2025 08 28 102630](assets/2025-08-28_india-crude-imports-to-rebound-in-september-and-october_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a0db1c93600b.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 08 28 102630**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/russia-india-crude-vessel-supply) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-28_india-crude-imports-to-rebound-in-september-and-october_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a0db1c93600b.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/russia-india-crude-vessel-supply) | [Local Asset](assets/2025-08-28_india-crude-imports-to-rebound-in-september-and-october_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a0db1c93600b.png)
 
 India and Russia agreed on 21 August to expand bilateral trade ties, which implies that Russian oil purchases will likely continue (or even increase) despite US tariff pressure on India. The Russia-to-India crude supply chain is expected to remain resilient despite ongoing sanctions and regulatory pressures. Vortexa finds that the existing fleet supply could sustain up to 93% of H1 2025 Russian crude flows into India, with only minimal vessel additions required to fully restore flows. The demand for additional tonnage required to maintain Russia-to-India crude flows would likely be met by ageing or operationally less competitive vessels finding renewed utility through the sale-and-purchase market (read more[here](https://www.vortexa.com/insights/russia-india-crude-vessel-supply)).
 

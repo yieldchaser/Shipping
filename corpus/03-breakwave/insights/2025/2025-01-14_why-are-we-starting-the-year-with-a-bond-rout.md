@@ -43,7 +43,7 @@ The year started on a negative note for risk assets, for both global equities an
 ![Market Chart 1](assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image001_b0d74acd1664.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image001_b0d74acd1664.png)
+> [Local Asset](assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image001_b0d74acd1664.png)
 
 ### Why Are We Witnessing a Bond Rout?
 
@@ -58,7 +58,7 @@ In November, the US election resulted in a Republican trifecta, which would allo
 ![Market Chart 2](assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image002_e4c3077e8e5d.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image002_e4c3077e8e5d.png)
+> [Local Asset](assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image002_e4c3077e8e5d.png)
 
 In its mid-December meeting the Fed completed its about-turn suggesting that it was now more mindful of inflation. From that point on, equities began to slip as well.
 
@@ -79,7 +79,7 @@ The sharp move in bonds even prompted questions to the UK Chancellor in the Hous
 ![Market Chart 3](assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image003_7cd2b3bdff0b.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image003_7cd2b3bdff0b.png)
+> [Local Asset](assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image003_7cd2b3bdff0b.png)
 
 The UK economy is stable. For 2025 the IMF projects growth of 1.5%, while it downgraded EU’s growth from 1.5% to 1.2%. The UK has a relatively stable government (Germany is faced with elections in February and France is politically unstable), which seems keen to facilitate business growth, even by pressuring regulators to accept more risk.
 
@@ -87,7 +87,7 @@ The UK economy is stable. For 2025 the IMF projects growth of 1.5%, while it dow
 
 > **Figure 4: Uk’s Extra Problem Is Really Its Debt Structure**  
 > *The UK’s extra problem is really its debt structure.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image004_4f7fc5012313.png)
+> [Local Asset](assets/2025-01-14_why-are-we-starting-the-year-with-a-bond-rout_img_image004_4f7fc5012313.png)
 
 As yields and inflation expectations rise, so do inflation-linked Gilts. For the UK this is a particular problem, a quarter of the debt is inflation-linked, more than double that of the next large economy’s, which means that interest payments also rise, limiting fiscal space. This means that the government will need more funding. This can come either from more borrowing or with higher taxes. Borrowing may have been the government’s preference, and could still happen, but with long yields going up, repayments will become onerous, and increasing the supply of UK debt in this market is becoming more difficult.
 

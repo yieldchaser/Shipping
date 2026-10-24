@@ -33,7 +33,7 @@ China, Japan, and South Korea dominate with combined orders of over 90% of the o
 ![Στιγμιότυπο Οθόνης 2025 03 12 122206](assets/2025-03-12_global-shipbuilding-market-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c78df62b20b3.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 03 12 122206**  
-> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-12_global-shipbuilding-market-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c78df62b20b3.png)
+> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](assets/2025-03-12_global-shipbuilding-market-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c78df62b20b3.png)
 
 Vietnam, ranking fifth, has seen remarkable growth. In 2024, Vietnamese shipyards increased their output in terms of GT by 40% compared to 2023 and 61% since 2022. The current orderbook of 2.82 million GT represents a 29% year-on-year increase and a 148% rise since 2022. Vietnam’s shipbuilding industry relies on several advantages, including its strategic location, extensive coastline, cost-effective labor and a government supporting shipbuilding via favorable policies, investments in modernization and greening of infrastructures, and incentives for foreign investors. Additionally, the establishment of shipyards by prominent names such as Hyundai HI and Damen Shipyards, has contributed to the sector’s growth.
 

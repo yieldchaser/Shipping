@@ -58,7 +58,7 @@ Nevertheless, Shipfix’s cargo order volumes for iron ore loading in Indian por
 ![Market Chart 1](assets/2023-02-16_shipfix-global-market-update_img_unnamed-2023-02-16t120424947_aef568f184bb.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-16_shipfix-global-market-update_img_unnamed-2023-02-16t120424947_aef568f184bb.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2023-02-16_shipfix-global-market-update_img_unnamed-2023-02-16t120424947_aef568f184bb.png)
 
 A thaw in diplomatic relations between China and Australia and an increasing focus on economic growth in the world’s second-largest economy has resulted in an easing of the previous restrictions on imports of Australian coal.
 

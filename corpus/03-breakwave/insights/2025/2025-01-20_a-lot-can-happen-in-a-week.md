@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-01-20_a-lot-can-happen-in-a
 ![13 Tanker Istock 172474083](assets/2025-01-20_a-lot-can-happen-in-a-week_img_13-tanker-istock-172474083_89aeefa1b484.jpg)
 
 > **Figure 1: 13 Tanker Istock 172474083**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-20_a-lot-can-happen-in-a-week_img_13-tanker-istock-172474083_89aeefa1b484.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-01-20_a-lot-can-happen-in-a-week_img_13-tanker-istock-172474083_89aeefa1b484.jpg)
 
 On Friday 10th January, the United States sanctioned Gazprom Neft and Surgutneftegaz, two key Russian insurers and 183 ships, including 156 tankers, sending shock waves through the oil and tanker markets. Crude prices have rallied on concerns of potential oil supply disruptions, greater volatility has also been witnessed in a number of crude and product arbs. Spot crude and product freight across all markets firmed, with exception of most Aframax trades.
 
@@ -42,7 +42,7 @@ One would hope that next week will bring more clarity in terms sanctions, the ce
 ![Στιγμιότυπο Οθόνης 2025 01 20 145720](assets/2025-01-20_a-lot-can-happen-in-a-week_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b634fb99a088.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 01 20 145720**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-20_a-lot-can-happen-in-a-week_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b634fb99a088.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-01-20_a-lot-can-happen-in-a-week_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b634fb99a088.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

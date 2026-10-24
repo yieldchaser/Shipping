@@ -33,14 +33,14 @@ In the dry bulk segment, iron ore imports softened slightly, with July volumes d
 ![Screenshot 2025 08 10 10.33.36](assets/2025-08-10_interpreting-the-recent-strength-in-chinese-trade_img_screenshot2025-08-10103336_73250d553b6d.png)
 
 > **Figure 1: Screenshot 2025 08 10 10.33.36**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-10_interpreting-the-recent-strength-in-chinese-trade_img_screenshot2025-08-10103336_73250d553b6d.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-08-10_interpreting-the-recent-strength-in-chinese-trade_img_screenshot2025-08-10103336_73250d553b6d.png)
 
 In contrast, soybean imports hit another record in July, rising 18.5 percent year-on-year to 11.67 million tonnes, driven by continued strong arrivals from Brazil. This marks the second consecutive month of record soybean imports, following June’s intake of 12.26 million tonnes. Brazil’s extended peak export window, supported by a bumper harvest, has boosted shipments to China, while U.S. exports have remained weak. According to the USDA, China is on track to import 112 million tonnes of soybeans in the 2025–26 marketing year, matching its all-time high. Reuters data shows that by late March, 77 percent of Brazil’s soybean exports—or 17.7 million tonnes—were headed for China. The surge in agricultural imports contrasts with the broader weakness in bulk commodities and reflects the structural demand for feedstock as China’s livestock sector recovers. Meanwhile, steel exports continued to defy expectations, posting yet another monthly increase. July exports rose 1.7 percent month-on-month to 9.84 million tonnes, bringing the year-to-date total to 67.98 million tonnes—the highest level on record going back to 1990. However, this export strength has come at a cost. Nearly 40 countries have launched anti-dumping investigations since early 2024, targeting what they view as unfairly priced Chinese steel.
 
 ![Screenshot 2025 08 10 10.33.50](assets/2025-08-10_interpreting-the-recent-strength-in-chinese-trade_img_screenshot2025-08-10103350_2d8f744ae607.png)
 
 > **Figure 2: Screenshot 2025 08 10 10.33.50**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-08-10_interpreting-the-recent-strength-in-chinese-trade_img_screenshot2025-08-10103350_2d8f744ae607.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2025-08-10_interpreting-the-recent-strength-in-chinese-trade_img_screenshot2025-08-10103350_2d8f744ae607.png)
 
 The export boom witnessed in Japan during the 1980s offers a useful historical lens through which to interpret the recent strength in Chinese trade. Strategic front-loading, driven by fear of future policy constraints, can inflate short-term figures but rarely signals a sustainable trend. For dry bulk markets, separating genuine demand from precautionary shipping activity remains essential in assessing the health of global trade.
 

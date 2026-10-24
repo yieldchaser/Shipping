@@ -42,21 +42,21 @@ Whatever the case, the need for a post-mortem is dire. Europe has for too long r
 ![Market Chart 1](assets/2024-06-11_europe-there-we-need-to-talk_img_image-asset_1d472208adfe.jpeg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-11_europe-there-we-need-to-talk_img_image-asset_1d472208adfe.jpeg)
+> [Local Asset](assets/2024-06-11_europe-there-we-need-to-talk_img_image-asset_1d472208adfe.jpeg)
 
 Last week’s strong US labour data pushed rate cut expectations even further down. Now the Fed is expected to deliver one rate cut by the end of the year.
 
 ![241](assets/2024-06-11_europe-there-we-need-to-talk_img_241_885e13446e76.png)
 
 > **Figure 2: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-11_europe-there-we-need-to-talk_img_241_885e13446e76.png)
+> [Local Asset](assets/2024-06-11_europe-there-we-need-to-talk_img_241_885e13446e76.png)
 
 US rate cuts are balancing on a razor’s edge. On the one hand, US manufacturing growth is slowing down.
 
 ![242](assets/2024-06-11_europe-there-we-need-to-talk_img_242_8c0524f03c98.png)
 
 > **Figure 3: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-11_europe-there-we-need-to-talk_img_242_8c0524f03c98.png)
+> [Local Asset](assets/2024-06-11_europe-there-we-need-to-talk_img_242_8c0524f03c98.png)
 
 On the other hand, inflation falling has been very much a function of lower prices from China, as the latter tries to snatch manufacturing market share. That disinflationary effect is being fought every step of the way by the US government, which imposes tariffs on China and practices expansionary fiscal policy.
 
@@ -109,21 +109,21 @@ During the Brexit referendum, the issue that was most important to people, by fa
 ![243](assets/2024-06-11_europe-there-we-need-to-talk_img_243_040e44868573.png)
 
 > **Figure 4: 243**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-11_europe-there-we-need-to-talk_img_243_040e44868573.png)
+> [Local Asset](assets/2024-06-11_europe-there-we-need-to-talk_img_243_040e44868573.png)
 
 For voters over 65, however, according to YouGov, immigration remains a top issue, along with Health.
 
 ![244](assets/2024-06-11_europe-there-we-need-to-talk_img_244_5ddacf538273.png)
 
 > **Figure 5: 244**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-11_europe-there-we-need-to-talk_img_244_5ddacf538273.png)
+> [Local Asset](assets/2024-06-11_europe-there-we-need-to-talk_img_244_5ddacf538273.png)
 
 So another answer to what happened yesterday is, possibly, by and large, demographics. An ageing population, more conservative in nature, has a bigger sway in the electorate than ever before. Baby boomers not only hold a significant amount of wealth in savings, curbing growth as that money could have been invested, but they are a potent political force.
 
 ![245](assets/2024-06-11_europe-there-we-need-to-talk_img_245_980a8671625b.jpg)
 
 > **Figure 6: 245**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-11_europe-there-we-need-to-talk_img_245_980a8671625b.jpg)
+> [Local Asset](assets/2024-06-11_europe-there-we-need-to-talk_img_245_980a8671625b.jpg)
 
 It makes perfect sense. Multilateralism, experimentation, technology, and cultural integration are a young person’s game. Older generations tend to be more conservative. And this generation of baby boomers has never shied from politics.
 

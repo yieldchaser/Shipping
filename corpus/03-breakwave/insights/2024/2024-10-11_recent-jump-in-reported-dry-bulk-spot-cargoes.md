@@ -27,14 +27,14 @@ Overall dry bulk spot freight rates decreased last week, with only handysize rat
 ![Chart 1](assets/2024-10-11_recent-jump-in-reported-dry-bulk-spot-cargoes_img_chart1_38d600445472.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-11_recent-jump-in-reported-dry-bulk-spot-cargoes_img_chart1_38d600445472.jpg)
+> [Local Asset](assets/2024-10-11_recent-jump-in-reported-dry-bulk-spot-cargoes_img_chart1_38d600445472.jpg)
 
 Of note is that 14 assorted US Gulf cargoes were reported in the spot market last week, 6 more than the previous week and up from the trailing four week average. The cargoes will be shipped to buyers around the world. 12 Indonesian coal cargoes were reported in the market, 4 less than the previous week but on par with the trailing four week average. All of the cargoes will be shipped to buyers in Asia. 11 assorted North Pacific cargoes were reported in the market, 2 more than the previous week and up from the trailing four week average. The cargoes will be shipped to buyers around the world. 9 Australian coal cargoes were reported in the market, 3 more than the previous week and on par with the trailing four week average. All of the cargoes will be shipped to buyers in Asia.
 
 ![Chart 2](assets/2024-10-11_recent-jump-in-reported-dry-bulk-spot-cargoes_img_chart2_04d074973bf9.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-11_recent-jump-in-reported-dry-bulk-spot-cargoes_img_chart2_04d074973bf9.jpg)
+> [Local Asset](assets/2024-10-11_recent-jump-in-reported-dry-bulk-spot-cargoes_img_chart2_04d074973bf9.jpg)
 
 ---
 

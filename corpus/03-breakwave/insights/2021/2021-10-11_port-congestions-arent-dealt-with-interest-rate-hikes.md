@@ -41,7 +41,7 @@ Policy makers should question whether these two tenants hold. Milton Friedman di
 ![Market Chart 1](assets/2021-10-11_port-congestions-arent-dealt-with-interest-rate-hikes_img_image002_67ac38487bfc.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-11_port-congestions-arent-dealt-with-interest-rate-hikes_img_image002_67ac38487bfc.jpg)
+> [Local Asset](assets/2021-10-11_port-congestions-arent-dealt-with-interest-rate-hikes_img_image002_67ac38487bfc.jpg)
 
 A system we attacked politically, before Covid-19 attacked it physically, and without a credible alternative. Hiking interest rates might have worked in the late 70’s, but a tool with a nine-month horizon is too slow to solve the port congestion problem. According to global shipping behemoth Maersk, this congestion is unlikely to resolve itself before 2022. And even if it does, higher rates on top of soaring energy prices could seriously inhibit the confidence of a consumer tempered by two decades of secular stagnation.
 

@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-09-24_african-iron-ore-meet
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2025-09-24_african-iron-ore-meet-gulf-steel-ambitions_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-24_african-iron-ore-meet-gulf-steel-ambitions_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](assets/2025-09-24_african-iron-ore-meet-gulf-steel-ambitions_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 In late August, according to Mysteel reports, Mauritania’s state-owned mining company SNIM and Saudi Arabia’s steel company Hadeed announced plans to establish a joint venture to develop an iron ore mine in Mauritania, targeting an annual output of 12–14 mln mt. As part of SNIM’s seven-year strategic plan, the company aims to reach an output of 45 mln mt by 2031, further consolidating its position as a leading player in both the national and regional mining industry. This adds another dynamic to dry freight prospects in the West Africa region by the end of this decade, atop of the highly anticipated, soon-to-commence Simandou, Guinean project.
 
@@ -32,7 +32,7 @@ In 2024, Mauritania’s iron ore exports reached 13.6 mln tons, with more than 6
 ![Στιγμιότυπο Οθόνης 2025 09 24 110040](assets/2025-09-24_african-iron-ore-meet-gulf-steel-ambitions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_de55b4ff286b.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 09 24 110040**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-24_african-iron-ore-meet-gulf-steel-ambitions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_de55b4ff286b.png)
+> [Local Asset](assets/2025-09-24_african-iron-ore-meet-gulf-steel-ambitions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_de55b4ff286b.png)
 
 Meanwhile, this is equally significant for Saudi Arabia and the entire GCC (Gulf Cooperation Council) members’ grand vision for future steel demand. For Saudi Arabia, under its “Vision 2030”, the country aims to undertake a major economic transformation, centering on reshaping its industrial base to reduce its dependence on oil, with the steel industry as a cornerstone of this strategy. Other GCC countries have similar plans, positioning the region as a strong contender for future steel capacity growth, especially in the green steel arena.
 
@@ -41,7 +41,7 @@ The Gulf’s new joint ventures mark a shift from oil dependence to industrial d
 ![Στιγμιότυπο Οθόνης 2025 09 24 110051](assets/2025-09-24_african-iron-ore-meet-gulf-steel-ambitions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b6fd79b1ec16.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 09 24 110051**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-24_african-iron-ore-meet-gulf-steel-ambitions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b6fd79b1ec16.png)
+> [Local Asset](assets/2025-09-24_african-iron-ore-meet-gulf-steel-ambitions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b6fd79b1ec16.png)
 
 According to the World Steel Association (WSA) data, steel capacity expansion in the GCC countries is not explosive but rather a steady and gradual process. The previous round of production increases was mainly concentrated in 2020–22, when the combined annual compound growth rate of the UAE, Saudi Arabia, and Qatar reached 8.8%, primarily driven by large projects such as the Dubai Expo and Qatar’s football World Cup. Since then, steel production in these countries has remained stable. Due to a significant time-lag between massive strategic investments and the eventual release of production, steel output is expected to further increase in 2027 and beyond, following the commissioning of a series of major infrastructure projects, which should drive regional steel production.
 
@@ -54,7 +54,7 @@ Brazil was the region’s largest iron ore supplier, accounting for 71.5% (or 23
 ![Στιγμιότυπο Οθόνης 2025 09 24 110100](assets/2025-09-24_african-iron-ore-meet-gulf-steel-ambitions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1b0638f03a00.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 09 24 110100**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-24_african-iron-ore-meet-gulf-steel-ambitions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1b0638f03a00.png)
+> [Local Asset](assets/2025-09-24_african-iron-ore-meet-gulf-steel-ambitions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1b0638f03a00.png)
 
 Supramaxes are the main carriers for steel imports, accounting for 72% of the market in 2024, or 8.0 mln mt. The volume of steel exports is relatively small, totaling 3.2 mln mt. Among these, Supramax bulk carriers accounted for 38% of the shipments, while the remaining volume was handled by Handysize and smaller Minibulk vessels.
 
@@ -65,7 +65,7 @@ However, this transformation path is not without challenges. Geopolitical risks 
 ![Στιγμιότυπο Οθόνης 2025 09 24 110108](assets/2025-09-24_african-iron-ore-meet-gulf-steel-ambitions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e6fd0e511d41.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 09 24 110108**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-24_african-iron-ore-meet-gulf-steel-ambitions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e6fd0e511d41.png)
+> [Local Asset](assets/2025-09-24_african-iron-ore-meet-gulf-steel-ambitions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e6fd0e511d41.png)
 
 ---
 

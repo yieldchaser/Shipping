@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-08-31_decrease-in-chinese-p
 ![Market Chart 1](assets/2020-08-31_decrease-in-chinese-power-plant-stockpiles_img_image-asset_3622e9d2ff6f.jpeg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-08-31_decrease-in-chinese-power-plant-stockpiles_img_image-asset_3622e9d2ff6f.jpeg)
+> [Local Asset](assets/2020-08-31_decrease-in-chinese-power-plant-stockpiles_img_image-asset_3622e9d2ff6f.jpeg)
 
 The latest data as of August 23rd shows that coal stockpiles at major power plants have fallen to 80.2 million tons. This marks the lowest amount seen since June and is down by 9.3 million tons (-10%) from this year’s 89.5 million ton peak seen in late July. On a year-on-year basis, power plant stockpiles are down by 3.3 million tons (-4%). They are enough to meet only 18 days of demand, which marks a low not seen since January. It has remained helpful for the coal import market that China's coal-derived electricity generation growth in recent months has continued to exceed domestic coal production growth. This has contributed to the destock in power plant coal stockpiles. Also of note is that heavy rainfall and flooding in recent weeks has also continued to hold back more robust growth in hydropower output.
 

@@ -43,21 +43,21 @@ Last week saw another outperformance from the Magnificent Seven stocks in the US
 ![Market Chart 1](assets/2025-09-30_government-shutdown-maybe-but-wed-still-look-at-tech_img_image001_fe9476b9dab9.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-30_government-shutdown-maybe-but-wed-still-look-at-tech_img_image001_fe9476b9dab9.png)
+> [Local Asset](assets/2025-09-30_government-shutdown-maybe-but-wed-still-look-at-tech_img_image001_fe9476b9dab9.png)
 
 Meanwhile, the inflation scare in the US is somewhat dissipating. Despite a small rise in core inflation (Core Consumption Expenditure) in August, for the time being, inflation remains well in check for the world’s biggest consumer market.
 
 ![Market Chart 2](assets/2025-09-30_government-shutdown-maybe-but-wed-still-look-at-tech_img_image002_520eb5403b0d.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-30_government-shutdown-maybe-but-wed-still-look-at-tech_img_image002_520eb5403b0d.jpg)
+> [Local Asset](assets/2025-09-30_government-shutdown-maybe-but-wed-still-look-at-tech_img_image002_520eb5403b0d.jpg)
 
 Having said that, we should always be mindful of this graph from Goldman Sachs. Research at the beginning of the summer suggested that by Q4, consumers would bear 2/3 of the tariff onus (which is another way of saying that inflation will eventually rise more sharply-the question is how temporary it will be). Inflation risks, however, are on the upside (higher inflation than anticipated).
 
 ![Market Chart 3](assets/2025-09-30_government-shutdown-maybe-but-wed-still-look-at-tech_img_image004_745805bce368.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-30_government-shutdown-maybe-but-wed-still-look-at-tech_img_image004_745805bce368.png)
+> [Local Asset](assets/2025-09-30_government-shutdown-maybe-but-wed-still-look-at-tech_img_image004_745805bce368.png)
 
 At the same time, markets are by and large dismissing the effects of what looks like a very likely US government shutdown. If Congress fails to agree on a continuing resolution by midnight tomorrow (Tuesday, 30th September), then the US government will partially shut down. The effects of such a shutdown are not negligible, but they are usually considered transitory. On average, economists calculate a 0.1-0.2 per cent of GDP loss for every week of shutdown. However, employees who have not been paid are usually refunded for the whole time they were furloughed, so growth rebounds next quarter. Since 1991, there have been 14 government shutdowns, most of which lasted for a few days, with a relatively anodyne overall impact.
 

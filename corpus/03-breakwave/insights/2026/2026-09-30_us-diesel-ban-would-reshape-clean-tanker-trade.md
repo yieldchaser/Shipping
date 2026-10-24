@@ -31,7 +31,7 @@ We believe some form of a US diesel ban is now likely enough to merit us looking
 ![445d Image 0 1790697781414](assets/2026-09-30_us-diesel-ban-would-reshape-clean-tanker-trade_img_445d-image-0-1790697781414_6652e7386293.png)
 
 > **Figure 1: 445d Image 0 1790697781414**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-30_us-diesel-ban-would-reshape-clean-tanker-trade_img_445d-image-0-1790697781414_6652e7386293.png)
+> [Local Asset](assets/2026-09-30_us-diesel-ban-would-reshape-clean-tanker-trade_img_445d-image-0-1790697781414_6652e7386293.png)
 
 ### Europe and Brazil Would Look East
 

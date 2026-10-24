@@ -27,7 +27,7 @@ As we discussed in Commodore Research's most recent Weekly China Report, May end
 ![Chart 1 (1)](assets/2024-07-08_miv998ruaula0selug8xmke4lo73x3_img_chart128129_f2a771abcf77.jpg)
 
 > **Figure 1: Chart 1 (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-08_miv998ruaula0selug8xmke4lo73x3_img_chart128129_f2a771abcf77.jpg)
+> [Local Asset](assets/2024-07-08_miv998ruaula0selug8xmke4lo73x3_img_chart128129_f2a771abcf77.jpg)
 
 Overall, the last several years have continued to struggle with a huge amount of excess floor space available in the housing market. This continues to come not from just more homes being built in China, but very significantly also from sales decreasing. Sales this year have contracted year-on-year by 21%, which continues to put this year on pace to end as the third straight year that sales have contracted.
 
@@ -36,7 +36,7 @@ As we have stressed often in our weekly reports, this year’s ongoing contracti
 ![Chart 2 (1)](assets/2024-07-08_miv998ruaula0selug8xmke4lo73x3_img_chart228129_a71359260a55.jpg)
 
 > **Figure 2: Chart 2 (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-08_miv998ruaula0selug8xmke4lo73x3_img_chart228129_a71359260a55.jpg)
+> [Local Asset](assets/2024-07-08_miv998ruaula0selug8xmke4lo73x3_img_chart228129_a71359260a55.jpg)
 
 ---
 

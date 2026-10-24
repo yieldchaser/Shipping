@@ -26,7 +26,7 @@ China’s retail sales in November grew year-on-year by 10.1%. This has again ma
 ![Chart 1 (90)](assets/2023-12-22_consumer-spending-in-china-continues-to-improve-but-furniture-sales-remain-in-co_img_chart1289029_c8d3d5b26209.jpg)
 
 > **Figure 1: Chart 1 (90)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-22_consumer-spending-in-china-continues-to-improve-but-furniture-sales-remain-in-co_img_chart1289029_c8d3d5b26209.jpg)
+> [Local Asset](assets/2023-12-22_consumer-spending-in-china-continues-to-improve-but-furniture-sales-remain-in-co_img_chart1289029_c8d3d5b26209.jpg)
 
 Overall, it remains very significant to us that Chinese consumers continue to buy more goods than they did a year ago. The same cannot unfortunately be said about consumers in many other major economies however. In Europe, for example, each of the last twenty-one months have seen European consumers buy less goods than they did one year prior.
 
@@ -35,4 +35,4 @@ Among the specific retail categories we monitor, of note in China though is that
 ![Chart 2 (79)](assets/2023-12-22_consumer-spending-in-china-continues-to-improve-but-furniture-sales-remain-in-co_img_chart2287929_ab247f872856.jpg)
 
 > **Figure 2: Chart 2 (79)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-12-22_consumer-spending-in-china-continues-to-improve-but-furniture-sales-remain-in-co_img_chart2287929_ab247f872856.jpg)
+> [Local Asset](assets/2023-12-22_consumer-spending-in-china-continues-to-improve-but-furniture-sales-remain-in-co_img_chart2287929_ab247f872856.jpg)

@@ -27,7 +27,7 @@ As we discussed in Commodore Research's most recent Weekly China Report, steel p
 ![Chart](assets/2026-05-04_global-iron-ore-production-continues-to-drive-chinas-iron-ore-import-volume_img_chart_6d53e615b8bf.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-04_global-iron-ore-production-continues-to-drive-chinas-iron-ore-import-volume_img_chart_6d53e615b8bf.jpg)
+> [Local Asset](assets/2026-05-04_global-iron-ore-production-continues-to-drive-chinas-iron-ore-import-volume_img_chart_6d53e615b8bf.jpg)
 
 Remaining very significant is while that China's steel production has remained in a year-on-year contraction since September, China's iron ore imports have stayed strong as we have been predicting. China's iron ore imports have grown year-on-year during each of the last ten months. As we have continued to stress in our Weekly China Reports and Weekly Executive Reports,**it is global iron ore production that drives China's iron ore import volume, and not steel production or even iron ore port stockpiles.**We remain bullish for China's iron ore import prospects.
 

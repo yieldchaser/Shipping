@@ -61,7 +61,7 @@ Still, demand from Chinese buyers remains stable, with volumes broadly in line w
 ![Στιγμιότυπο Οθόνης 2024 04 26 151642](assets/2024-04-26_concerns-have-been-growing-that-global-supplies-will-be-insufficient-to-cover-fu_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_329b0fd30b85.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 04 26 151642**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-26_concerns-have-been-growing-that-global-supplies-will-be-insufficient-to-cover-fu_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_329b0fd30b85.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-04-26_concerns-have-been-growing-that-global-supplies-will-be-insufficient-to-cover-fu_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_329b0fd30b85.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

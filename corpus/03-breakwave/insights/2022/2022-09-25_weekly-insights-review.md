@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-09-25_weekly-insights-revie
 ![Unsplash Image 7zrlunuakgs](assets/2022-09-25_weekly-insights-review_img_unsplash-image-7zrlunuakgs_39109b107d5a.jpg)
 
 > **Figure 1: Unsplash Image 7zrlunuakgs**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/19/shipping-decarbonization-weekly-insights) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-25_weekly-insights-review_img_unsplash-image-7zrlunuakgs_39109b107d5a.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/19/shipping-decarbonization-weekly-insights) | [Local Asset](assets/2022-09-25_weekly-insights-review_img_unsplash-image-7zrlunuakgs_39109b107d5a.jpg)
 
 ## Shipping Decarbonization Weekly Insights
 
@@ -45,12 +45,12 @@ At the beginning of the third week of September, the picture of freight rates in
 ![Unsplash Image Gjb7yepqfmq](assets/2022-09-25_weekly-insights-review_img_unsplash-image-gjb7yepqfmq_ff7738b4afb8.jpg)
 
 > **Figure 2: Unsplash Image Gjb7yepqfmq**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/20/commodities-edge-higher-as-the-market-braces-for-further-rate-hikes) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-25_weekly-insights-review_img_unsplash-image-gjb7yepqfmq_ff7738b4afb8.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/20/commodities-edge-higher-as-the-market-braces-for-further-rate-hikes) | [Local Asset](assets/2022-09-25_weekly-insights-review_img_unsplash-image-gjb7yepqfmq_ff7738b4afb8.jpg)
 
 ![Unsplash Image Plbsj5mybgc](assets/2022-09-25_weekly-insights-review_img_unsplash-image-plbsj5mybgc_f03676bbe6eb.jpg)
 
 > **Figure 3: Unsplash Image Plbsj5mybgc**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/20/commodities-edge-higher-as-the-market-braces-for-further-rate-hikes) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-25_weekly-insights-review_img_unsplash-image-plbsj5mybgc_f03676bbe6eb.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/20/commodities-edge-higher-as-the-market-braces-for-further-rate-hikes) | [Local Asset](assets/2022-09-25_weekly-insights-review_img_unsplash-image-plbsj5mybgc_f03676bbe6eb.jpg)
 
 ## Commodities Edge Higher As the Market Braces for Further Rate Hikes
 
@@ -62,7 +62,7 @@ Appetite for riskier assets remained weak ahead of the FOMC meeting on Wednesday
 ![Unsplash Image Camjb 3rdom](assets/2022-09-25_weekly-insights-review_img_unsplash-image-camjb-3rdom_785a26d45572.jpg)
 
 > **Figure 4: Unsplash Image Camjb 3rdom**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/20/key-takeaways-from-energy-day-at-vortexa-innovation-week) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-25_weekly-insights-review_img_unsplash-image-camjb-3rdom_785a26d45572.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/20/key-takeaways-from-energy-day-at-vortexa-innovation-week) | [Local Asset](assets/2022-09-25_weekly-insights-review_img_unsplash-image-camjb-3rdom_785a26d45572.jpg)
 
 ## Key Takeaways From Energy Day at Vortexa Innovation Week
 
@@ -81,7 +81,7 @@ Under normal circumstances, a three-quarter gain in freight rates for the Panama
 ![Unsplash Image 98r3nt2wj6u](assets/2022-09-25_weekly-insights-review_img_unsplash-image-98r3nt2wj6u_d555a4e665f9.jpg)
 
 > **Figure 5: Unsplash Image 98r3nt2wj6u**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/22/more-improvement-in-china) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-25_weekly-insights-review_img_unsplash-image-98r3nt2wj6u_d555a4e665f9.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/22/more-improvement-in-china) | [Local Asset](assets/2022-09-25_weekly-insights-review_img_unsplash-image-98r3nt2wj6u_d555a4e665f9.jpg)
 
 ## More Improvement in China
 
@@ -93,7 +93,7 @@ In our Weekly Dry Bulk Report published two weeks ago, we highlighted how China�
 ![Unsplash Image Uqr1eezbmyy](assets/2022-09-25_weekly-insights-review_img_unsplash-image-uqr1eezbmyy_6636a6d23bf0.jpg)
 
 > **Figure 6: Unsplash Image Uqr1eezbmyy**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/23/chinas-comeback-lifts-vlccs-recent-announcements-signal-good-omens) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-25_weekly-insights-review_img_unsplash-image-uqr1eezbmyy_6636a6d23bf0.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/23/chinas-comeback-lifts-vlccs-recent-announcements-signal-good-omens) | [Local Asset](assets/2022-09-25_weekly-insights-review_img_unsplash-image-uqr1eezbmyy_6636a6d23bf0.jpg)
 
 ## China’s Comeback Lifts Vlccs, Recent Announcements Signal Good Omens
 
@@ -104,7 +104,7 @@ China’s rebound in purchasing amid a much more ample global crude market lifts
 ![Unsplash Image 9q 5w0ckjw0](assets/2022-09-25_weekly-insights-review_img_unsplash-image-9q-5w0ckjw0_96bda9b8c995.jpg)
 
 > **Figure 7: Unsplash Image 9q 5w0ckjw0**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/23/metals-gain-as-supply-issues-offset-demand-concerns) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-25_weekly-insights-review_img_unsplash-image-9q-5w0ckjw0_96bda9b8c995.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/23/metals-gain-as-supply-issues-offset-demand-concerns) | [Local Asset](assets/2022-09-25_weekly-insights-review_img_unsplash-image-9q-5w0ckjw0_96bda9b8c995.jpg)
 
 ## Metals Gain As Supply Issues Offset Demand Concerns
 
@@ -116,4 +116,4 @@ Commodity markets shrugged off interest rate hikes by central banks to focus on 
 ![Unsplash Image Rey Bjc0lcw (1)](assets/2022-09-25_weekly-insights-review_img_unsplash-image-rey-bjc0lcw28129_5df3d635f08b.jpg)
 
 > **Figure 8: Unsplash Image Rey Bjc0lcw (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-25_weekly-insights-review_img_unsplash-image-rey-bjc0lcw28129_5df3d635f08b.jpg)
+> [Local Asset](assets/2022-09-25_weekly-insights-review_img_unsplash-image-rey-bjc0lcw28129_5df3d635f08b.jpg)

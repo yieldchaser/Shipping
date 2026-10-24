@@ -27,7 +27,7 @@ September 04, 2024
 ![Στιγμιότυπο Οθόνης 2024 09 05 105402](assets/2024-09-05_capesize-ballasters-view-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3784d5db4a43.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 05 105402**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/arket-monitor-dry-week-26-2024/2qj7l9/433831241/h/ENxsPBOBXpAPqa8yQeqGe-7co9xr0UMiXN_rUoEmres) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-05_capesize-ballasters-view-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3784d5db4a43.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/arket-monitor-dry-week-26-2024/2qj7l9/433831241/h/ENxsPBOBXpAPqa8yQeqGe-7co9xr0UMiXN_rUoEmres) | [Local Asset](assets/2024-09-05_capesize-ballasters-view-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3784d5db4a43.png)
 
 This week's charts reveal a notable surge in Capesize freight market rates for the Brazil to North China route (left chart), accompanied by a decline in the number of ballasters. This pattern is reminiscent of the trend observed at the[end of June](https://go.signalocean.com/e/983831/arket-monitor-dry-week-26-2024/2qj7l9/433831241/h/ENxsPBOBXpAPqa8yQeqGe-7co9xr0UMiXN_rUoEmres), where a similar relationship between ballasters and Baltic rates was highlighted. At that time, we remained cautious about the sustainability of the upward trend due to potential challenges, including the uncertain economic outlook for China and high port inventories of iron ore which could dampen the appetite for imports. On the South Atlantic route, the daily volume loaded (right chart) has shown a promising increase. This uptick in volume is encouraging, suggesting a potential boost in activity. However, it remains to be seen whether this accelerated pace will be sustained through the first half of September, or if it will face fluctuations due to underlying market conditions.
 
@@ -36,7 +36,7 @@ Meanwhile, in the iron ore market,[China's iron ore futures](https://go.signaloc
 ![Στιγμιότυπο Οθόνης 2024 09 05 110750](assets/2024-09-05_capesize-ballasters-view-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1ba46629bb68.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 09 05 110750**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-05_capesize-ballasters-view-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1ba46629bb68.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-09-05_capesize-ballasters-view-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1ba46629bb68.png)
 
 The dry bulk freight market has presented a mixed performance, with rates on the Cape Brazil to North China routes gradually improving since the end of week 30, while the Panamax Continent to Far East route continues to experience a persistent downward trend.
 
@@ -48,7 +48,7 @@ The dry bulk freight market has presented a mixed performance, with rates on the
 ![Στιγμιότυπο Οθόνης 2024 09 05 110906](assets/2024-09-05_capesize-ballasters-view-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e836df5dc94f.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 09 05 110906**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-05_capesize-ballasters-view-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e836df5dc94f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-09-05_capesize-ballasters-view-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e836df5dc94f.png)
 
 In the first week of September, the number of ballasters in the large dry vessel size categories has shown a declining trend, while the Handysize NOPAC market is seeing signs of an increase.
 
@@ -60,7 +60,7 @@ In the first week of September, the number of ballasters in the large dry vessel
 ![Στιγμιότυπο Οθόνης 2024 09 05 111021](assets/2024-09-05_capesize-ballasters-view-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8bb7563910e2.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 09 05 111021**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-05_capesize-ballasters-view-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8bb7563910e2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-09-05_capesize-ballasters-view-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8bb7563910e2.png)
 
 In the first week of September, the outlook for dry tonne days showed an upward trend across most segments, except for the Handysize segment, which has continued to experience a persistent decline over the past four weeks.
 
@@ -72,7 +72,7 @@ In the first week of September, the outlook for dry tonne days showed an upward 
 ![Στιγμιότυπο Οθόνης 2024 09 05 111129](assets/2024-09-05_capesize-ballasters-view-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6f2826c6966f.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 09 05 111129**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-05_capesize-ballasters-view-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6f2826c6966f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-09-05_capesize-ballasters-view-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6f2826c6966f.png)
 
 In the first week of September, Chinese dry bulk port congestion showed a decline from the heightened levels seen in August.
 

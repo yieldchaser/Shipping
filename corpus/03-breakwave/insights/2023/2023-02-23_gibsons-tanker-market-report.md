@@ -28,7 +28,7 @@ In terms of crude supply, Russia is likely to establish itself as China’s top 
 ![1 (2)](assets/2023-02-23_gibsons-tanker-market-report_img_128229_5866c6f953a6.png)
 
 > **Figure 1: 1 (2)**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-23_gibsons-tanker-market-report_img_128229_5866c6f953a6.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2023-02-23_gibsons-tanker-market-report_img_128229_5866c6f953a6.png)
 
 Over the course of the pandemic, China has boosted its domestic refining industry and now boasts the largest capacity in the world at 18.4mbd, ahead of the United States. Although lower utilisation rates means that projected run rates for 2023 stands at 14.5mbd (+800kbd yoy). However, despite increased capacity and higher output, the forecast for refined product exports growth is modest, having been revised down since China abandoned its zero covid policy. Whilst overall CPP exports are expected to grow with gasoil and jet seeing the greatest upside, gasoline exports are expected to fall back as domestic travel sees barrels retained for local consumption. Overall exports are now expected to grow by around 10%, pegged back by stronger domestic consumption.
 

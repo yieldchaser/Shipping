@@ -60,4 +60,4 @@ While cargo order volumes for Brazilian exports due for discharge in the Far Eas
 ![Στιγμιότυπο Οθόνης 2024 09 30 165822](assets/2024-09-30_the-capesizes-propelled-the-baltic-dry-index-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aaa194ee5431.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 30 165822**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-30_the-capesizes-propelled-the-baltic-dry-index-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aaa194ee5431.png)
+> [Local Asset](assets/2024-09-30_the-capesizes-propelled-the-baltic-dry-index-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aaa194ee5431.png)

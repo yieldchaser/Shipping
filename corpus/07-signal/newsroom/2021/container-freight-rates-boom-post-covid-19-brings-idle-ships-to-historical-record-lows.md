@@ -41,7 +41,7 @@ In addition to the COVID-19 related ports congestion, when the Ever Given megash
 
 > **Chart 1: The Signal Ocean Data Fused with Commercial Data by Blue Net Chartering Show the Number of Idle Container Ships From Feeders Up to the Largest Container Vessels (1000-25000 Teu)**  
 > *Chart 1: The Signal Ocean data fused with commercial data by Blue Net Chartering show the number of idle container ships from feeders up to the largest container vessels (1000-25000 TEU)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/container-freight-rates-boom-post-covid-19-brings-idle-ships-to-historical-record-lows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d29ca10e55c52fcfeae_60c32aecba5b666e9cabb20c_Average%20Idle%20Ships%20container%202020%20vs%202021.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/container-freight-rates-boom-post-covid-19-brings-idle-ships-to-historical-record-lows) | [Local Asset](../../images/66b51d29ca10e55c52fcfeae_60c32aecba5b666e9cabb20c_Average%20Idle%20Ships%20container%202020%20vs%202021.avif)
 
 
 ## Impact on Freight
@@ -55,7 +55,7 @@ On 26 March 2021, the Freightos Baltic Index (FBX) stood at $2,174 per FEU, and 
 
 > **Chart 2: Weekly Index Performance vs the Total Number of Idle Container Ships From Feeders Up to the Largest Container Vessels (1000-25000 Teu) Provide by the Signal Ocean Data Fused with Commercial Data by Blue Net Chartering**  
 > *Chart 2: Weekly index performance vs the total number of idle container ships from feeders up to the largest container vessels (1000-25000 TEU) provide by the Signal Ocean data fused with commercial data by Blue Net Chartering*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/container-freight-rates-boom-post-covid-19-brings-idle-ships-to-historical-record-lows) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d29ca10e55c52fcfeb1_60c9d62b1f673d9628eae38e_Freightos%20Baltic%20Index-FBX%20Global%20Conatiner%20Freight%20index%20Vs%20Idle%20Ships-v2.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/container-freight-rates-boom-post-covid-19-brings-idle-ships-to-historical-record-lows) | [Local Asset](../../images/66b51d29ca10e55c52fcfeb1_60c9d62b1f673d9628eae38e_Freightos%20Baltic%20Index-FBX%20Global%20Conatiner%20Freight%20index%20Vs%20Idle%20Ships-v2.avif)
 
 Looking at the graphs above, it seems that the world does not have enough containers in the right places to handle cargo demand. The global shortage of containers is crucial and it is estimated that will last until 2022. Some market participants are concerned that due to the inability to reposition containers to suitable areas, a large number of new containers will be stranded at the terminals and there will be further delays at the ports. Although the entire industry hopes that these logistics problems can be eased as soon as possible, at this moment it seems that these will at least last through the end of the third quarter.
 

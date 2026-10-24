@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-07_brazilian-iron-ore-fl
 ![Screenshot 2024 03 07 10.11.08](assets/2024-03-07_brazilian-iron-ore-flows-to-china_img_screenshot2024-03-07101108_4b35ee3fd1f8.png)
 
 > **Figure 1: Screenshot 2024 03 07 10.11.08**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-07_brazilian-iron-ore-flows-to-china_img_screenshot2024-03-07101108_4b35ee3fd1f8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-03-07_brazilian-iron-ore-flows-to-china_img_screenshot2024-03-07101108_4b35ee3fd1f8.png)
 
 The onset of March has brought firmness in freight rates not only for large vessel size categories but also for smaller ones, with the Handysize NOPAC Far East route recording remarkable increases from the previous month. Meanwhile, in the Capesize Brazil to N China route, rates have reached the highest point for the year at $23/ton at the week's outset. However, the sustainability of this upward trend remains uncertain as the Chinese economic environment continues to grapple with significant challenges. Positive signs emerge from the decreasing trend in ballast views for the SE Africa region after weeks of persistent highs, coupled with a notable growth in tonne days within the Capesize segment for the first time this year. Additionally, Brazilian iron ore exports to China have surged by 70% compared to the corresponding period last year.
 
@@ -34,7 +34,7 @@ Despite entering the peak construction season, there are few indications of outp
 ![Screenshot 2024 03 07 10.11.17](assets/2024-03-07_brazilian-iron-ore-flows-to-china_img_screenshot2024-03-07101117_1f4c58142e14.png)
 
 > **Figure 2: Screenshot 2024 03 07 10.11.17**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-07_brazilian-iron-ore-flows-to-china_img_screenshot2024-03-07101117_1f4c58142e14.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-03-07_brazilian-iron-ore-flows-to-china_img_screenshot2024-03-07101117_1f4c58142e14.png)
 
 ​​​​​​In the initial days of March, there was notable firmness observed, particularly with remarkable increases noted in the Capesize Brazil to NChina and Handy NOPAC FE routes.
 
@@ -47,7 +47,7 @@ Despite entering the peak construction season, there are few indications of outp
 ![Screenshot 2024 03 07 10.11.23](assets/2024-03-07_brazilian-iron-ore-flows-to-china_img_screenshot2024-03-07101123_1ec3370d5a92.png)
 
 > **Figure 3: Screenshot 2024 03 07 10.11.23**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-07_brazilian-iron-ore-flows-to-china_img_screenshot2024-03-07101123_1ec3370d5a92.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-03-07_brazilian-iron-ore-flows-to-china_img_screenshot2024-03-07101123_1ec3370d5a92.png)
 
 The number of ballast vessels continued its downward trend from the previous two weeks, yet it remains above the annual average for large vessel size categories.
 
@@ -61,7 +61,7 @@ The number of ballast vessels continued its downward trend from the previous two
 ![Screenshot 2024 03 07 10.11.29](assets/2024-03-07_brazilian-iron-ore-flows-to-china_img_screenshot2024-03-07101129_c6003d6b3501.png)
 
 > **Figure 4: Screenshot 2024 03 07 10.11.29**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-07_brazilian-iron-ore-flows-to-china_img_screenshot2024-03-07101129_c6003d6b3501.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-03-07_brazilian-iron-ore-flows-to-china_img_screenshot2024-03-07101129_c6003d6b3501.png)
 
 The sustained decline in demand for tonne days across all vessel size categories throughout the month appears to be shifting, as initial indications of an upturn emerge in the Capesize and Panamax vessel segments.
 
@@ -74,7 +74,7 @@ The sustained decline in demand for tonne days across all vessel size categories
 ![Screenshot 2024 03 07 10.11.37](assets/2024-03-07_brazilian-iron-ore-flows-to-china_img_screenshot2024-03-07101137_d4df9cf12a10.png)
 
 > **Figure 5: Screenshot 2024 03 07 10.11.37**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-07_brazilian-iron-ore-flows-to-china_img_screenshot2024-03-07101137_d4df9cf12a10.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-03-07_brazilian-iron-ore-flows-to-china_img_screenshot2024-03-07101137_d4df9cf12a10.png)
 
 Chinese congestion levels have once again begun to rise following the previous weekly drop, with the increase primarily driven by the Supramax segment.
 

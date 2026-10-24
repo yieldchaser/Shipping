@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-02-14_red-sea-key-tanker-fl
 ![Gibson Report 3](assets/2024-02-14_red-sea-key-tanker-flows_img_gibsonreport3_62842be147f5.jpg)
 
 > **Figure 1: Gibson Report 3**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-14_red-sea-key-tanker-flows_img_gibsonreport3_62842be147f5.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-02-14_red-sea-key-tanker-flows_img_gibsonreport3_62842be147f5.jpg)
 
 Hopes of a temporary ceasefire between Israel and Hamas, which potentially could help to improve the security situation in the Red Sea have been dashed in recent days, with further attacks reported on commercial vessels and Israel rejecting Hamas’s proposed ceasefire terms. As of now, there is very little change to tanker traffic transiting through the Red Sea compared to two weeks ago. Vessels with significant recent Russian trading history continue to transit en masse, both laden and in ballast, seemingly unaffected by escalating tensions and despite three attacks on vessels with connections to Russia (or Russian cargo). The majority of conventional tonnage continues to reroute via the Cape of Good Hope (COGH).
 
@@ -38,7 +38,7 @@ Yet, despite the muted response in the crude tanker market so far, if the curren
 ![Screenshot 2024 02 14 11.41.14](assets/2024-02-14_red-sea-key-tanker-flows_img_screenshot2024-02-14114114_01409556f503.png)
 
 > **Figure 2: Screenshot 2024 02 14 11.41.14**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-14_red-sea-key-tanker-flows_img_screenshot2024-02-14114114_01409556f503.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-02-14_red-sea-key-tanker-flows_img_screenshot2024-02-14114114_01409556f503.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

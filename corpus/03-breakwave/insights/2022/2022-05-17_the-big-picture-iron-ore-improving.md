@@ -32,7 +32,7 @@ Global iron ore shipments totalled 131.5m tonnes in April, coming in flat YoY. H
 ![Market Chart 1](assets/2022-05-17_the-big-picture-iron-ore-improving_img_image0_88722c8d2bbe.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-17_the-big-picture-iron-ore-improving_img_image0_88722c8d2bbe.png)
+> [Local Asset](assets/2022-05-17_the-big-picture-iron-ore-improving_img_image0_88722c8d2bbe.png)
 
 Demand from Japanese iron ore imports increased by 18.9% on the back of shipments from Brazil more than doubling to 1.3m tonnes in April. Further, a 12% increase in European imports, totalling 8.5m tonnes, has also added to support in iron ore and contributed to Capesize port inefficiencies in the region as we noted in The Big Picture last week when referring to coal.
 
@@ -47,7 +47,7 @@ Out of Brazil, iron ore liftings have improved in recent weeks fuelling more pos
 ![Market Chart 2](assets/2022-05-17_the-big-picture-iron-ore-improving_img_image1_6747e7204745.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-17_the-big-picture-iron-ore-improving_img_image1_6747e7204745.png)
+> [Local Asset](assets/2022-05-17_the-big-picture-iron-ore-improving_img_image1_6747e7204745.png)
 
 So far, exported volumes have predominantly been lifted by the VLOC fleet. Average daily liftings in the previous 30 days on the VLOCs lie at 620k tonnes, the highest level in the past 12 months. Although a niche trade, Brazil has seen interest from the Middle East, with 1.9m tonnes of iron ore loaded for Oman in April. Meanwhile to the Netherlands, shipments more than doubled to 1.1m tonnes. Naturally less important to the market as China, upturns in these trades have assisted in keeping Brazilian iron ore demand healthy.
 
@@ -58,7 +58,7 @@ In Australia, production constraints that miners have faced, namely labour short
 ![Market Chart 3](assets/2022-05-17_the-big-picture-iron-ore-improving_img_image2_b3e884222727.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-17_the-big-picture-iron-ore-improving_img_image2_b3e884222727.png)
+> [Local Asset](assets/2022-05-17_the-big-picture-iron-ore-improving_img_image2_b3e884222727.png)
 
 Shipments have ramped up in May as the end of the financial year for various miners draws closer. In April the country exported 74.7m tonnes of iron ore, coming in flat YoY. However, last week, Australian producers exported 19m tonnes of iron ore, the highest weekly total so far this year.
 
@@ -67,7 +67,7 @@ Heading out of lockdowns has however resulted in a sharp decline in Australian c
 ![Market Chart 4](assets/2022-05-17_the-big-picture-iron-ore-improving_img_image3_2f7cda23137c.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-17_the-big-picture-iron-ore-improving_img_image3_2f7cda23137c.png)
+> [Local Asset](assets/2022-05-17_the-big-picture-iron-ore-improving_img_image3_2f7cda23137c.png)
 
 ## India Stronger in April
 

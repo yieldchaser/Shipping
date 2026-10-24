@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-08-24_ongoing-decline-in-in
 ![Market Chart 1](assets/2020-08-24_ongoing-decline-in-indian-power-plant-stockpiles_img_image-asset_fa56f66f1d9d.jpeg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-08-24_ongoing-decline-in-indian-power-plant-stockpiles_img_image-asset_fa56f66f1d9d.jpeg)
+> [Local Asset](assets/2020-08-24_ongoing-decline-in-indian-power-plant-stockpiles_img_image-asset_fa56f66f1d9d.jpeg)
 
 India’s power plant coal stockpiles ended last week at approximately 39 million tons, which is 300,000 tons (-1%) less than was stockpiled at the end of the previous week. India’s power plant coal stockpiles have now declined for ten consecutive weeks. As we been highlighting in recent work, India’s rebound in coal-derived electricity output has been contributing to the de-stock and output has found sustained support so far this month.
 

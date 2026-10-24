@@ -29,7 +29,7 @@ The USDA is forecasting that global coarse grain exports in 2025/26 will total 2
 ![Chart](assets/2025-09-22_even-more-global-grain-exports-now-expected_img_chart_aca6358d5319.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-22_even-more-global-grain-exports-now-expected_img_chart_aca6358d5319.jpg)
+> [Local Asset](assets/2025-09-22_even-more-global-grain-exports-now-expected_img_chart_aca6358d5319.jpg)
 
 ---
 

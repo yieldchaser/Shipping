@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-07-20_summer-blues-for-dry-
 
 > **Figure 1: Vale Is Scheduled to Release Quarterly Production Figures Later**  
 > *Vale is scheduled to release quarterly production figures later on Monday and investors will be keen to hear its take on the pandemic’s impact on operations. The miner has recently reiterated full-year guidance, acknowledging that it will have to accelerate output to meet targets.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-07-20_summer-blues-for-dry-bulk-freight_img_ship18_12cd82abb0df.jpg)
+> [Local Asset](assets/2020-07-20_summer-blues-for-dry-bulk-freight_img_ship18_12cd82abb0df.jpg)
 
 Following its peak just two weeks ago at ~34,000, the Capesize index has been in a correction mode loosing almost 10,000 in value, in the process dragging Panamax rates down and possibly even Supramax rates soon. The recent supply tightness in the Atlantic remains but the demand has now declined versus early July and thus the slowdown in fixing activity is pushing rates lower. Freight futures have been range-bound over the last week or so, still pricing further declines in spot rates for the rest of the year, an outcome that seems contradictory to broader shipping fundamentals.
 
@@ -40,7 +40,7 @@ Indeed, most analysts remain bearish on iron ore due to increased supply in the 
 
 > **Figure 2: China’ Crude Steel Output Over June Totalled 91**  
 > *China’ crude steel output over June totalled 91.6m tonnes, according to the latest official data.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-07-20_summer-blues-for-dry-bulk-freight_img_brazilironoreexports_9819ab9a28c3.png)
+> [Local Asset](assets/2020-07-20_summer-blues-for-dry-bulk-freight_img_brazilironoreexports_9819ab9a28c3.png)
 
 Braemar sees some softening in demand due to flooding in China, bur acknowledges the current strength in steel activity. Braemar notes:
 

@@ -29,7 +29,7 @@ After a mighty rally in June, and a subsequent correction in July, the Cape mark
 ![Braemar 1](assets/2020-09-11_capesize-market-back-to-school_img_braemar1_e8954abb0fd8.png)
 
 > **Figure 1: Braemar 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-11_capesize-market-back-to-school_img_braemar1_e8954abb0fd8.png)
+> [Local Asset](assets/2020-09-11_capesize-market-back-to-school_img_braemar1_e8954abb0fd8.png)
 
 Average Capesize rates, according to the Baltic 5TC index, have fallen to just above $15,000/day at the time of writing, more than $5,000/day lower than at the start of August, and $20,222/day lower versus this time last year (the peak of 2019’s market). Losses in the paper market have been more stark, with near term Capesize FFA contracts shedding almost $8,000/day in value since mid August.
 
@@ -40,7 +40,7 @@ June’s surge in Cape demand was driven by a boost in iron ore volumes from Aus
 ![Bramar 2](assets/2020-09-11_capesize-market-back-to-school_img_bramar2_ecc4557befb7.png)
 
 > **Figure 2: Bramar 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-11_capesize-market-back-to-school_img_bramar2_ecc4557befb7.png)
+> [Local Asset](assets/2020-09-11_capesize-market-back-to-school_img_bramar2_ecc4557befb7.png)
 
 Since then however, volumes have not been so impressive. Liftings from the major charterers in Western Australia totaled just under 70.9m tonnes in August, up by 1% YoY, but down by 12% on June’s shipments. August also saw the lowest weekly average pace of shipments since the cyclone disruptions in February. While iron ore prices are still very strong, the iron ore majors seem unwilling to significantly boost capacity, and risk tipping the market back into oversupply.
 
@@ -51,7 +51,7 @@ So far this month volumes seem to be bouncing back, with shipments on track to g
 ![Braemar 3](assets/2020-09-11_capesize-market-back-to-school_img_braemar3_e138b8e7d809.png)
 
 > **Figure 3: Braemar 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-11_capesize-market-back-to-school_img_braemar3_e138b8e7d809.png)
+> [Local Asset](assets/2020-09-11_capesize-market-back-to-school_img_braemar3_e138b8e7d809.png)
 
 Congestion at Australian anchorages stood at 11m dwt at the start of this week. 194% higher YoY.
 
@@ -64,14 +64,14 @@ The weather related issues and Covid-19 disruptions felt earlier in the year see
 ![Braemar 4](assets/2020-09-11_capesize-market-back-to-school_img_braemar4_ffca60bc2f6e.png)
 
 > **Figure 4: Braemar 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-11_capesize-market-back-to-school_img_braemar4_ffca60bc2f6e.png)
+> [Local Asset](assets/2020-09-11_capesize-market-back-to-school_img_braemar4_ffca60bc2f6e.png)
 
 But the market in the Atlantic has had other problems to contend with. July saw a swathe of Capesizes ballasting towards the basin, with an average of 7m dwt of Cape and Newcastlemax tonnage passing Singapore per week. This compares to around 4m dwt per week over June.
 
 ![Braemar 5](assets/2020-09-11_capesize-market-back-to-school_img_braemar5_a7f9c82cb374.png)
 
 > **Figure 5: Braemar 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-11_capesize-market-back-to-school_img_braemar5_a7f9c82cb374.png)
+> [Local Asset](assets/2020-09-11_capesize-market-back-to-school_img_braemar5_a7f9c82cb374.png)
 
 And the flow of ballasters has remained elevated since, as owners appear to be speculating that cargo volumes in the Pacific will remain depressed, relative to those in Brazil. This has left the Atlantic oversupplied, with a long tonnage list ready to cover any increase in iron ore coming onto the water.
 
@@ -81,7 +81,7 @@ Adding to the pressure, the rainy season in Guinea has temporarily throttled bau
 
 > **Figure 6: But There Are Plenty of Obstacles to This That One Could Point**  
 > *But there are plenty of obstacles to this that one could point out to argue the bear scenario, which is looking increasingly likely. Firstly, the projected iron ore production volumes for the remainder of the year are notthatspectacular relative to previous years. And actual shipments will be lower still once output is eaten into by domestic consumption.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-11_capesize-market-back-to-school_img_braemar6_ae3c0299419c.png)
+> [Local Asset](assets/2020-09-11_capesize-market-back-to-school_img_braemar6_ae3c0299419c.png)
 
 ### How Long?
 
@@ -94,14 +94,14 @@ The mantra of ‘margin over volume’ is still very much present in the product
 ![Braemar 7](assets/2020-09-11_capesize-market-back-to-school_img_braemar7_13fb49377e6e.png)
 
 > **Figure 7: Braemar 7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-11_capesize-market-back-to-school_img_braemar7_13fb49377e6e.png)
+> [Local Asset](assets/2020-09-11_capesize-market-back-to-school_img_braemar7_13fb49377e6e.png)
 
 And while China’s steel output has hit record highs this year, total global steel production is still tracking 7% below last year’s levels. China is by far the most important driver of the seaborne iron ore market, but we still expect lower demand from other importers to weigh on Cape demand.
 
 ![Braemar 8](assets/2020-09-11_capesize-market-back-to-school_img_braemar8_8e13bc571aa7.png)
 
 > **Figure 8: Braemar 8**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-11_capesize-market-back-to-school_img_braemar8_8e13bc571aa7.png)
+> [Local Asset](assets/2020-09-11_capesize-market-back-to-school_img_braemar8_8e13bc571aa7.png)
 
 As always though in this volatile market, the fundamentals can turn on a dime, and we will continue to look out for changes that indicate a shift in this sentiment.
 

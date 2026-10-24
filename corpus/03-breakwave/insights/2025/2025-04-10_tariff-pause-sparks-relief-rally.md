@@ -28,7 +28,7 @@ A relief rally sparked by a pause in US tariffs helped push energy and metal mar
 
 > **Figure 1: Crude Oilsurged After President Trump Announced a 90-Day Pause**  
 > *Crude oilsurged after President Trump announced a 90-day pause on some of the higher reciprocal tariffs on major trading partners. The latest move sparked a risk-on tone across markets, pushing Brent crude oil futures more than 4% higher. The move was exacerbated by traders being forced to cover some bearish option bets and short positions that had been built over the past few days. Prices also found some support after the Keystone Pipeline declaredforce majeureon scheduled oil shipments after a leak spilled an estimated 3,500 barrels of crude in a North Dakota field. Earlier in the day prices were under pressure on further signs of surging supply. Saudi Arabia’s decision to increase output by nearly 500kb/d in May, almost four times the scheduled amount, was supposed to force some of the over-producing members to reign in their output. However, Kazakhstan continues to pump at high levels. The OPEC member has been struggling to reach an agreement with some of its international partners that are operating the oil field. The Tengizchevroil joint venture that includes Chevron and Exxon Mobil Corp has said it will stick with plans to boost production this year and has no intention of cutting back. This sets the scene for further pressure from Saudi Arabia.*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-10_tariff-pause-sparks-relief-rally_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_502e14f90671.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-04-10_tariff-pause-sparks-relief-rally_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_502e14f90671.png)
 
 ### Market Commentary
 
@@ -47,7 +47,7 @@ The likelihood of reaching President Trump’s goal of a 3mb/d rise in US oil su
 ![Στιγμιότυπο Οθόνης 2025 04 10 153920](assets/2025-04-10_tariff-pause-sparks-relief-rally_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9cbec43362b5.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 04 10 153920**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-10_tariff-pause-sparks-relief-rally_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9cbec43362b5.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-04-10_tariff-pause-sparks-relief-rally_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9cbec43362b5.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

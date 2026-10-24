@@ -29,7 +29,7 @@ The last fifteen months have been rather eventful for the grains and oilseeds ma
 ![A3](assets/2021-08-06_grains-harvests-in-the-northern-hemisphere-to-feed-tonnage-demand_img_a3_87b859aa954f.jpg)
 
 > **Figure 1: A3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-06_grains-harvests-in-the-northern-hemisphere-to-feed-tonnage-demand_img_a3_87b859aa954f.jpg)
+> [Local Asset](assets/2021-08-06_grains-harvests-in-the-northern-hemisphere-to-feed-tonnage-demand_img_a3_87b859aa954f.jpg)
 
 Despite the negative impact of the weather in some parts of the world, the International Grain Council (IGC) is anticipating, as of the end of July, that the marketing year will deliver a record-breaking global crop of wheat and coarse grains at around 2.3 billion tonnes. This represents a four per cent increase on what was harvested last year, even though the most recent estimate was lowered by six million tonnes from the previous month’s estimates. The revision of the outlook was primarily a reflection of the current hot weather and drought in North America, which is negatively affecting the growing season. The IGC is also estimating that global consumption of grains will increase by three per cent, mainly driven by animal feeding. With the growth in consumption evenly matched with the rising output, global inventories are also expected to remain stable in the coming year.
 
@@ -40,7 +40,7 @@ So far this year, 41 million tonnes of Brazilian grains and oilseeds have been d
 ![A4](assets/2021-08-06_grains-harvests-in-the-northern-hemisphere-to-feed-tonnage-demand_img_a4_313a693d09b5.png)
 
 > **Figure 2: A4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-06_grains-harvests-in-the-northern-hemisphere-to-feed-tonnage-demand_img_a4_313a693d09b5.png)
+> [Local Asset](assets/2021-08-06_grains-harvests-in-the-northern-hemisphere-to-feed-tonnage-demand_img_a4_313a693d09b5.png)
 
 Beyond the giants of the grains trade, Argentina is stating that the country is expecting a record harvest during the 2021/22 marketing year. Both wheat and corn are expected to produce record harvests, according to recent data from the US Department of Agriculture. Given the close political ties between the South American nation and China, a large portion of the additional volumes is likely to make the long voyage to Chinese ports. The wheat production is estimated to top twenty million tonnes, out of which two-thirds is destined for the export markets. The corn production is forecast to achieve a record of 51.5 million tonnes, with almost three-quarters slated for the export markets.
 
@@ -49,7 +49,7 @@ The Black Sea region is also expected to see increasing export shipments of agri
 ![A5](assets/2021-08-06_grains-harvests-in-the-northern-hemisphere-to-feed-tonnage-demand_img_a5_fb8ec0d5ae79.png)
 
 > **Figure 3: A5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-08-06_grains-harvests-in-the-northern-hemisphere-to-feed-tonnage-demand_img_a5_fb8ec0d5ae79.png)
+> [Local Asset](assets/2021-08-06_grains-harvests-in-the-northern-hemisphere-to-feed-tonnage-demand_img_a5_fb8ec0d5ae79.png)
 
 ---
 

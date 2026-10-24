@@ -27,7 +27,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-04-21_signal-dry-bulk-weekl
 ![241](assets/2023-04-21_signal-dry-bulk-weekly-report_img_241_08becb6af847.png)
 
 > **Figure 1: 241**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-ton-charts-dry/2nvrjr/314567050?h=CvNloWDBSfkRUB7H2iVyie4Jf_FPNUp3r0Kd2JZLW_k) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-21_signal-dry-bulk-weekly-report_img_241_08becb6af847.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-ton-charts-dry/2nvrjr/314567050?h=CvNloWDBSfkRUB7H2iVyie4Jf_FPNUp3r0Kd2JZLW_k) | [Local Asset](assets/2023-04-21_signal-dry-bulk-weekly-report_img_241_08becb6af847.png)
 
 Data Source: The Signal Ocean Platform, Dry Bulk Demand & Flows
 [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-reports-ton-charts-dry/2nvrjr/314567050?h=CvNloWDBSfkRUB7H2iVyie4Jf_FPNUp3r0Kd2JZLW_k)-[dynamic/drybulkflows](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2nvrjc/314567050?h=CvNloWDBSfkRUB7H2iVyie4Jf_FPNUp3r0Kd2JZLW_k)
@@ -45,7 +45,7 @@ In the iron ore market, it is interesting to see that India's iron ore exports a
 ![242](assets/2023-04-21_signal-dry-bulk-weekly-report_img_242_90c101a584f2.png)
 
 > **Figure 2: 242**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-21_signal-dry-bulk-weekly-report_img_242_90c101a584f2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-04-21_signal-dry-bulk-weekly-report_img_242_90c101a584f2.png)
 
 In the third week of April, Capesize and Panamax rates continued their upward trend, while Supramax rates softened and Handysize rates showed a downward trend.
 
@@ -63,7 +63,7 @@ Supply Trend Lines for Key Load Areas
 ![243](assets/2023-04-21_signal-dry-bulk-weekly-report_img_243_88e37fa20433.png)
 
 > **Figure 3: 243**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-21_signal-dry-bulk-weekly-report_img_243_88e37fa20433.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-04-21_signal-dry-bulk-weekly-report_img_243_88e37fa20433.png)
 
 The number of ballast ships increased in the last two weeks of April in the Capesize and Panamax segments, while it increased sharply in the Handysize and decreased only in the Supramax.
 
@@ -77,7 +77,7 @@ The number of ballast ships increased in the last two weeks of April in the Cape
 ![244](assets/2023-04-21_signal-dry-bulk-weekly-report_img_244_7b37aa9a547c.png)
 
 > **Figure 4: 244**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-21_signal-dry-bulk-weekly-report_img_244_7b37aa9a547c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-04-21_signal-dry-bulk-weekly-report_img_244_7b37aa9a547c.png)
 
 In the third week of April, the upward trend in demand observed since the end of March weakened towards the end of the month. However, we continue to see better prospects in the Panamax and Supramax segments as the volume of Russian coal flows to China increases.
 
@@ -91,7 +91,7 @@ In the third week of April, the upward trend in demand observed since the end of
 ![245](assets/2023-04-21_signal-dry-bulk-weekly-report_img_245_69ef789d0889.png)
 
 > **Figure 5: 245**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-21_signal-dry-bulk-weekly-report_img_245_69ef789d0889.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-04-21_signal-dry-bulk-weekly-report_img_245_69ef789d0889.png)
 
 Congestion continued the strong upward trend of the previous weeks of April, with strong increases in the Panamax and Handysize segments.
 

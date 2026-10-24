@@ -34,13 +34,13 @@ China’s retail sales of consumer goods and service sectors remain bright spots
 ![1 (8)](assets/2023-05-22_doric-weekly-market-insight_img_128829_96707c38cbcf.png)
 
 > **Figure 1: 1 (8)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-22_doric-weekly-market-insight_img_128829_96707c38cbcf.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-05-22_doric-weekly-market-insight_img_128829_96707c38cbcf.png)
 
 In spite of the cheerful tone in the soybean market, the main carriers of grains in these staple seaborn runs have diverted lately from their usual flight plan, ending the week at P6_82 (ECSA RV) levels of just $12,827 daily. As a flotilla of ballasters can attest, one swallow does not a summer make neither can a single load pocket enrich the freight market overall.
 
 ![1 (9)](assets/2023-05-22_doric-weekly-market-insight_img_128929_e47a8fd2e186.png)
 
 > **Figure 2: 1 (9)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-22_doric-weekly-market-insight_img_128929_e47a8fd2e186.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-05-22_doric-weekly-market-insight_img_128929_e47a8fd2e186.png)
 
 Data source:[Doric](https://www.doric.gr/)

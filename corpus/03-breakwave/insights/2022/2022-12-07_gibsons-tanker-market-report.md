@@ -26,7 +26,7 @@ What will happen on the crude side, will offer an indication of what is likely t
 ![1 (10)](assets/2022-12-07_gibsons-tanker-market-report_img_1281029_d2143b3f6f50.png)
 
 > **Figure 1: 1 (10)**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-07_gibsons-tanker-market-report_img_1281029_d2143b3f6f50.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2022-12-07_gibsons-tanker-market-report_img_1281029_d2143b3f6f50.png)
 
 Furthermore, no major reshuffle in Russian CPP export flows has been seen so far to date. There have been some increases in shipments to the Middle East, West Africa and Latin America; however, these gains have been fairly limited, although trading of Russian products via storage terminals in Northwest Europe has also seen an increase.
 

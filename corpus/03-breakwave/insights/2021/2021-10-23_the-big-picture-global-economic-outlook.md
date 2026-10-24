@@ -34,7 +34,7 @@ Since the IMF’s last World Economic Outlook (WEO) in April there have been mod
 ![Market Chart 1](assets/2021-10-23_the-big-picture-global-economic-outlook_img_image028229_e2d63fbe7a53.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-23_the-big-picture-global-economic-outlook_img_image028229_e2d63fbe7a53.png)
+> [Local Asset](assets/2021-10-23_the-big-picture-global-economic-outlook_img_image028229_e2d63fbe7a53.png)
 
 Based on these figures, the US economy is now expected to be 2.0% larger in 2022 than it would have been without the recent policy response to COVID-19, and 2.6% larger in 2023.
 
@@ -47,7 +47,7 @@ Despite the optimistic figures for the US and other economic heavyweights, the o
 ![Market Chart 2](assets/2021-10-23_the-big-picture-global-economic-outlook_img_image128129_0cf54b0dcdf8.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-23_the-big-picture-global-economic-outlook_img_image128129_0cf54b0dcdf8.png)
+> [Local Asset](assets/2021-10-23_the-big-picture-global-economic-outlook_img_image128129_0cf54b0dcdf8.png)
 
 Its economy is expected to expand by 8.0% this year. This has been trimmed from 8.4% projected in April, however the high figure masks, and may not fully account for, a slowdown in growth in the second half of this year (Chinese GDP figures released this week revealed that the economy barely grew in Q3 on a QoQ basis).
 
@@ -60,7 +60,7 @@ Meanwhile, the property and infrastructure sectors have recently been rocked by 
 ![Market Chart 3](assets/2021-10-23_the-big-picture-global-economic-outlook_img_image228129_7a197bd027d6.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-23_the-big-picture-global-economic-outlook_img_image228129_7a197bd027d6.png)
+> [Local Asset](assets/2021-10-23_the-big-picture-global-economic-outlook_img_image228129_7a197bd027d6.png)
 
 As we covered a few weeks ago, a downshift in this engine of growth filters into the longer term prospects for China’s economy and thus raw material demand, as land sales are key way for local governments to raise funding for infrastructure. Amid this turmoil, average home prices also reportedly dipped for the first time since 2015 on a MoM basis, and given that property is seen as a key store of household wealth in China, this feature is likely to have ripple effects on the retail and services economy.
 

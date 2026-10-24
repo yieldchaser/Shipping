@@ -39,14 +39,14 @@ That’s bad news for investors over the shorter term, for sure. But we are now 
 ![Market Chart 1](assets/2023-01-10_mazars-note-opportunities-need-swift-entry-and-a-lot-of-patience_img_image00528529_d186d7f9eae8.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-10_mazars-note-opportunities-need-swift-entry-and-a-lot-of-patience_img_image00528529_d186d7f9eae8.jpg)
+> [Local Asset](assets/2023-01-10_mazars-note-opportunities-need-swift-entry-and-a-lot-of-patience_img_image00528529_d186d7f9eae8.jpg)
 
 However, China’s sudden reopening, after two years of zero-Covid policies could cause demand from the East to surge again, temporarily causing another inflation shock as it did in 2021.
 
 ![Market Chart 2](assets/2023-01-10_mazars-note-opportunities-need-swift-entry-and-a-lot-of-patience_img_image00628529_c15854000b1a.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-10_mazars-note-opportunities-need-swift-entry-and-a-lot-of-patience_img_image00628529_c15854000b1a.jpg)
+> [Local Asset](assets/2023-01-10_mazars-note-opportunities-need-swift-entry-and-a-lot-of-patience_img_image00628529_c15854000b1a.jpg)
 
 This is why central banks remain hawkish, as they would prefer the ‘Chinese wave’ to pass and then reassess the state of prices.
 
@@ -62,7 +62,7 @@ Markets are already discounting monetary easing, despite the Fed’s warning tha
 
 > **Figure 3: The Idea That Central Banks Can Prevent Inflation From**  
 > **The idea that central banks can prevent inflation from eventually changing consumer behaviour by raising interest rates below the level of inflation is not right. When rates are 4% and inflation 8%, smart consumers borrow at a lower rate and wait for inflation to eat their debt away. The only reason they have not done so is a) that consumer inflation expectations remain ‘anchored’ near the 2% threshold and b) that 20 years of wage stagnation are not helpful in awakening consumer animal spirits. Central banks hope this remains so. They don’t want to have to raise rates too much, because they fear the huge amount of global debt (360% of global GDP) that would need refinancing. So they planned ‘shock tactics’, i.e. very fast rate hikes, hoping to bring down demand enough to prevent businesses from doling out wage raises as a result of inflation and tight jobs markets.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-10_mazars-note-opportunities-need-swift-entry-and-a-lot-of-patience_img_image00728129_1a77a3d94b78.jpg)
+> [Local Asset](assets/2023-01-10_mazars-note-opportunities-need-swift-entry-and-a-lot-of-patience_img_image00728129_1a77a3d94b78.jpg)
 
 The larger picture is that while inflation may come down, and central banks eventually revert to form as protectors of short-term capital as well as long, the case for 2008-2021 style monetary easing is still very difficult to make. Central banks abhor expanding balance sheets and flat yield curves and would take any opportunity to escape the QE trap. The resilience of the global financial system allows them room to be more hawkish.
 
@@ -94,4 +94,4 @@ At a headline level, we remain neutral for major asset classes, as we don’t fe
 
 > **Figure 4: Downside of This Is That They Engineered a Global Recession**  
 > *The downside of this is that they engineered a global recession, out of fear that consumers might become bolder than in the past. However, so far, it’s not consumers that move inflation (again, the central bank fear is that they might get used to it and change behaviours) but constant supply-side shocks (the pandemic, war and energy prices, China closing and reopening etc). Thus inflation remains at the mercy of supply-side pressures while central banks try to suppress demand as much as they can to ease it and prevent it from becoming entrenched in the consumer psyche.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-10_mazars-note-opportunities-need-swift-entry-and-a-lot-of-patience_img_image00828129_a14dfa060f21.jpg)
+> [Local Asset](assets/2023-01-10_mazars-note-opportunities-need-swift-entry-and-a-lot-of-patience_img_image00828129_a14dfa060f21.jpg)

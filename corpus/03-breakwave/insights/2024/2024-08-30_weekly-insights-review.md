@@ -33,12 +33,12 @@ source_file: "corpus/03-breakwave/insights/2024/2024-08-30_weekly-insights-revie
 ![Στιγμιότυπο Οθόνης 2024 08 27 142358](assets/2024-08-30_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2c72b3557d23.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 08 27 142358**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/26/the-capesize-segment-has-oddly-managed-to-remain-resilient) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-30_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2c72b3557d23.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/26/the-capesize-segment-has-oddly-managed-to-remain-resilient) | [Local Asset](assets/2024-08-30_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2c72b3557d23.png)
 
 ![Unsplash Image Ebesfbw8q4i](assets/2024-08-30_weekly-insights-review_img_unsplash-image-ebesfbw8q4i_8e14766beb18.jpg)
 
 > **Figure 2: Unsplash Image Ebesfbw8q4i**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/26/the-capesize-segment-has-oddly-managed-to-remain-resilient) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-30_weekly-insights-review_img_unsplash-image-ebesfbw8q4i_8e14766beb18.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/26/the-capesize-segment-has-oddly-managed-to-remain-resilient) | [Local Asset](assets/2024-08-30_weekly-insights-review_img_unsplash-image-ebesfbw8q4i_8e14766beb18.jpg)
 
 ## The Capesize Segment Has Oddly Managed to Remain Resilient
 
@@ -49,7 +49,7 @@ China’s Baowu Steel Group, the world’s largest steel producer, cautioned tha
 ![Unsplash Image 35mlllkpdny](assets/2024-08-30_weekly-insights-review_img_unsplash-image-35mlllkpdny_386666ba8e2e.jpg)
 
 > **Figure 3: Unsplash Image 35mlllkpdny**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/26/zch6prt90fh46de6g0815l02aredoe) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-30_weekly-insights-review_img_unsplash-image-35mlllkpdny_386666ba8e2e.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/26/zch6prt90fh46de6g0815l02aredoe) | [Local Asset](assets/2024-08-30_weekly-insights-review_img_unsplash-image-35mlllkpdny_386666ba8e2e.jpg)
 
 ## Large Global Grain Trade Contraction Still Expected
 
@@ -62,7 +62,7 @@ As we discussed in Commodore Research's most recent Weekly Dry Bulk Report, the 
 ![Unsplash Image Zaitdjyv09w](assets/2024-08-30_weekly-insights-review_img_unsplash-image-zaitdjyv09w_41819e8e352e.jpg)
 
 > **Figure 4: Unsplash Image Zaitdjyv09w**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/27/unikxvvbk25dj358x8be26u01j7obh) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-30_weekly-insights-review_img_unsplash-image-zaitdjyv09w_41819e8e352e.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/27/unikxvvbk25dj358x8be26u01j7obh) | [Local Asset](assets/2024-08-30_weekly-insights-review_img_unsplash-image-zaitdjyv09w_41819e8e352e.jpg)
 
 ## Energy Gains Amid Rising Geopolitical Tensions
 
@@ -75,7 +75,7 @@ Rising geopolitical tensions pushed energy prices higher. A risk-on tone across 
 ![Oil Drilling (1)](assets/2024-08-30_weekly-insights-review_img_oil-drilling28129_1f62af173c53.jpg)
 
 > **Figure 5: Oil Drilling (1)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/27/supply-swell) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-30_weekly-insights-review_img_oil-drilling28129_1f62af173c53.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/27/supply-swell) | [Local Asset](assets/2024-08-30_weekly-insights-review_img_oil-drilling28129_1f62af173c53.jpg)
 
 ## Supply Swell
 
@@ -88,7 +88,7 @@ News around the crude market has recently been dominated by headlines about weak
 ![Unsplash Image 3wpjxh Pirw](assets/2024-08-30_weekly-insights-review_img_unsplash-image-3wpjxh-pirw_e4f5c185505d.jpg)
 
 > **Figure 6: Unsplash Image 3wpjxh Pirw**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/28/qlfqeso3o94yx8gthwvlu4sor04h5m) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-30_weekly-insights-review_img_unsplash-image-3wpjxh-pirw_e4f5c185505d.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/28/qlfqeso3o94yx8gthwvlu4sor04h5m) | [Local Asset](assets/2024-08-30_weekly-insights-review_img_unsplash-image-3wpjxh-pirw_e4f5c185505d.jpg)
 
 ## Who Benefits the Most From the Fed’s Pivot? It’s Not Risk Assets
 
@@ -101,7 +101,7 @@ Last week saw the Fed officially greenlighting rate cuts, pivoting towards its g
 ![Unsplash Image Iqaf4a0to1g](assets/2024-08-30_weekly-insights-review_img_unsplash-image-iqaf4a0to1g_79d13a9e206a.jpg)
 
 > **Figure 7: Unsplash Image Iqaf4a0to1g**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/28/divergence-in-chinas-coal-output-and-coal-derived-electricity-generation-continues) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-30_weekly-insights-review_img_unsplash-image-iqaf4a0to1g_79d13a9e206a.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/28/divergence-in-chinas-coal-output-and-coal-derived-electricity-generation-continues) | [Local Asset](assets/2024-08-30_weekly-insights-review_img_unsplash-image-iqaf4a0to1g_79d13a9e206a.jpg)
 
 ## Divergence in China's Coal Output and Coal-Derived Electricity Generation Continues
 
@@ -112,7 +112,7 @@ As we discussed in Commodore Research's most recent Weekly China Report, China�
 ![Στιγμιότυπο+οθόνης+2024 08 28+125220](assets/2024-08-30_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4d7a4df1507b.png)
 
 > **Figure 8: Στιγμιότυπο+οθόνης+2024 08 28+125220**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/28/light-sweet-crudes-showing-signs-of-recovery) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-30_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4d7a4df1507b.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/28/light-sweet-crudes-showing-signs-of-recovery) | [Local Asset](assets/2024-08-30_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4d7a4df1507b.png)
 
 ## Light-Sweet Crudes Showing Signs of Recovery
 
@@ -123,7 +123,7 @@ Global imports of light-sweet crudes have seen a recovery driven by recent suppl
 ![Unsplash Image Ivvzibs8jrc](assets/2024-08-30_weekly-insights-review_img_unsplash-image-ivvzibs8jrc_2c9b697334aa.jpg)
 
 > **Figure 9: Unsplash Image Ivvzibs8jrc**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/29/cargo-cancellations-for-aframaxes) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-30_weekly-insights-review_img_unsplash-image-ivvzibs8jrc_2c9b697334aa.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/29/cargo-cancellations-for-aframaxes) | [Local Asset](assets/2024-08-30_weekly-insights-review_img_unsplash-image-ivvzibs8jrc_2c9b697334aa.jpg)
 
 ## Cargo Cancellations for Aframaxes
 
@@ -136,7 +136,7 @@ Aframaxes face cargo cancellations as Libyan crude production halts once again
 ![Unsplash Image S9xdwlj Lye](assets/2024-08-30_weekly-insights-review_img_unsplash-image-s9xdwlj-lye_141f1d7ea854.jpg)
 
 > **Figure 10: Unsplash Image S9xdwlj Lye**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/30/ongoing-steel-production-growth-outside-of-china) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-30_weekly-insights-review_img_unsplash-image-s9xdwlj-lye_141f1d7ea854.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/30/ongoing-steel-production-growth-outside-of-china) | [Local Asset](assets/2024-08-30_weekly-insights-review_img_unsplash-image-s9xdwlj-lye_141f1d7ea854.jpg)
 
 ## Ongoing Steel Production Growth Outside of China
 
@@ -149,7 +149,7 @@ As we discussed in Commodore Research's most recent Weekly Dry Bulk Report, glob
 ![Market Chart 11](assets/2024-08-30_weekly-insights-review_img_image-asset_2063123f4d7a.jpeg)
 
 > **Figure 11: Market Chart 11**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/29/xlcrwniy551kx4o3t97rf1as1nf6i7) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-30_weekly-insights-review_img_image-asset_2063123f4d7a.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/29/xlcrwniy551kx4o3t97rf1as1nf6i7) | [Local Asset](assets/2024-08-30_weekly-insights-review_img_image-asset_2063123f4d7a.jpeg)
 
 ## Altering Fates for Suezmaxes Originating From the Atlantic V Pacific
 
@@ -162,7 +162,7 @@ In this week's report we focus on the drivers behind the dynamics and expectatio
 ![Knightship](assets/2024-08-30_weekly-insights-review_img_knightship_851b8c7180a8.jpg)
 
 > **Figure 12: Knightship**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/30/the-big-picture-chinas-coal-imports-overland-gain-but-seaborne-drop-from-russia) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-30_weekly-insights-review_img_knightship_851b8c7180a8.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/30/the-big-picture-chinas-coal-imports-overland-gain-but-seaborne-drop-from-russia) | [Local Asset](assets/2024-08-30_weekly-insights-review_img_knightship_851b8c7180a8.jpg)
 
 ## The Big Picture: China’s Coal Imports: Overland Gain But Seaborne Drop From Russia
 
@@ -175,7 +175,7 @@ It may seem odd for a shipping report to write about overland trade, but today�
 ![Market Chart 13](assets/2024-08-30_weekly-insights-review_img_image-asset28129_ba955edcfb9c.jpeg)
 
 > **Figure 13: Market Chart 13**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/30/oil-gains-as-supply-disruptions-mount) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-30_weekly-insights-review_img_image-asset28129_ba955edcfb9c.jpeg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2024/8/30/oil-gains-as-supply-disruptions-mount) | [Local Asset](assets/2024-08-30_weekly-insights-review_img_image-asset28129_ba955edcfb9c.jpeg)
 
 ## Oil Gains As Supply Disruptions Mount
 

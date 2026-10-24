@@ -30,14 +30,14 @@ On the macro front, the world’s second largest economy expanded by 4.5 percent
 ![1 (10)](assets/2023-04-24_doric-weekly-market-insight_img_1281029_8a9d6f900978.png)
 
 > **Figure 1: 1 (10)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-24_doric-weekly-market-insight_img_1281029_8a9d6f900978.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-04-24_doric-weekly-market-insight_img_1281029_8a9d6f900978.png)
 
 Conversely, factory output last month was up 3.9 percent from a year earlier, slightly missing expectations. On a month-on-month basis, in March, the added value of industries above designated size increased marginally by 0.12 percent. In terms of three categories, the added value of the mining industry increased by 0.9 percent year-on-year, the manufacturing industry moved up by 4.2 percent, and the production and supply of electricity, heat power, gas and water increased by 5.2 percent. In terms of products, 127.25 million tonnes of steel were furnaced, a solid year-on-year increase of 8.1 percent. Additionally, the output of the cement industry came at 205.80 million tonnes, up 10.4 percent on an annual basis.
 
 ![1 (11)](assets/2023-04-24_doric-weekly-market-insight_img_1281129_fbb232425555.png)
 
 > **Figure 2: 1 (11)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-04-24_doric-weekly-market-insight_img_1281129_fbb232425555.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-04-24_doric-weekly-market-insight_img_1281129_fbb232425555.png)
 
 In spite of the strong performance in March, China’s contribution to global steel demand growth will lessen, as its population declines and moves to consumption-driven growth. The World Steel Association, in the latest update of its Short Range Outlook, stressed that future global steel demand growth will rely on reduced drivers, primarily concentrated in Asia. Investments in decarbonisation and dynamic emerging economies will increasingly drive positive momentum for global steel demand, even as China’s contribution to global growth diminishes. For the current year, global steel demand is expected to see a 2.3 percent rebound to reach 1,822.3 Mt. Steel demand is forecast to grow by 1.7 percent in 2024 to 1,854.0 Mt. Manufacturing will lead the recovery, but high interest rates will continue to weigh on demand dynamics. Next year, growth is expected to accelerate in most regions, but deceleration is expected in China.
 

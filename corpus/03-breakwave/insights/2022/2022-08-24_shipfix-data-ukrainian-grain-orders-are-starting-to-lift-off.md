@@ -31,21 +31,21 @@ Compared to before the war, the number of grain orders remains below ‘normal�
 ![241](assets/2022-08-24_shipfix-data-ukrainian-grain-orders-are-starting-to-lift-off_img_241_ee4c0101457e.png)
 
 > **Figure 1: 241**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-24_shipfix-data-ukrainian-grain-orders-are-starting-to-lift-off_img_241_ee4c0101457e.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-08-24_shipfix-data-ukrainian-grain-orders-are-starting-to-lift-off_img_241_ee4c0101457e.png)
 
 The destination of these grains orders remains similar to last year, with Shipfix order data showing the majority of these grains are heading to China, Turkey, Indonesia, Egypt and Spain. China remains the largest buyer of Ukrainian agricultural goods, with Chinese traders hoping to build from their first shipment in early August of 45 thousand Mts of Sunflower meal.
 
 ![242](assets/2022-08-24_shipfix-data-ukrainian-grain-orders-are-starting-to-lift-off_img_242_eeec9ff4961a.png)
 
 > **Figure 2: 242**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-24_shipfix-data-ukrainian-grain-orders-are-starting-to-lift-off_img_242_eeec9ff4961a.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-08-24_shipfix-data-ukrainian-grain-orders-are-starting-to-lift-off_img_242_eeec9ff4961a.png)
 
 On the tonnage side, Shipfix’s tonnage data demonstrates that there does appear to be a slight, but not drastic increase in tonnage marketed towards Black sea since the deal was signed, off the back of the optimism caused by the first wave of successful shipments. The Handysize segment, in particular, has seen a rise in marketing activity towards the Blacksea, whilst the data suggests that the larger Panamax ships are yet to see an increase in marketing activity towards the war-torn area.
 
 ![243](assets/2022-08-24_shipfix-data-ukrainian-grain-orders-are-starting-to-lift-off_img_243_cea0dff99b37.png)
 
 > **Figure 3: 243**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-24_shipfix-data-ukrainian-grain-orders-are-starting-to-lift-off_img_243_cea0dff99b37.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-08-24_shipfix-data-ukrainian-grain-orders-are-starting-to-lift-off_img_243_cea0dff99b37.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

@@ -27,14 +27,14 @@ One issue very much worthy of conversation but still often ignored is that China
 ![Chart 1 (3)](assets/2021-10-20_ongoing-divergence-in-chinese-steel-production-and-iron-ore-imports_img_chart128329_0bac125c57dc.jpg)
 
 > **Figure 1: Chart 1 (3)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-20_ongoing-divergence-in-chinese-steel-production-and-iron-ore-imports_img_chart128329_0bac125c57dc.jpg)
+> [Local Asset](assets/2021-10-20_ongoing-divergence-in-chinese-steel-production-and-iron-ore-imports_img_chart128329_0bac125c57dc.jpg)
 
 However, July has marked this year's low in monthly iron ore import volume. China's iron ore imports peaked this year at 102.1 million tons back in March, and then fell each month in April, May, June, and July (with July seeing imports reach a low of 88.5 million tons). Iron ore imports then increased to 97.5 million tons in August, and in September they remained well above July's low as they came in at 95.6 million tons.
 
 ![Chart2](assets/2021-10-20_ongoing-divergence-in-chinese-steel-production-and-iron-ore-imports_img_chart228229_b5acd5bd5076.jpg)
 
 > **Figure 2: Chart2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-20_ongoing-divergence-in-chinese-steel-production-and-iron-ore-imports_img_chart228229_b5acd5bd5076.jpg)
+> [Local Asset](assets/2021-10-20_ongoing-divergence-in-chinese-steel-production-and-iron-ore-imports_img_chart228229_b5acd5bd5076.jpg)
 
 In our Weekly Dry Bulk Reports and Weekly China Reports this year, we have continued to stress that China's iron ore imports can remain steady and even climb when steel production is declining. This has remained true for short and medium-term durations, and also even longer periods. As we have often stressed in our reports, China’s iron ore imports have historically stayed resilient even during the years where China's steel production has had low growth or even contracted. During the last ten years, there have been three years where China’s steel production grew by less than 5% (2012, 2015, and 2016) — and during all of these years China’s iron ore imports set records. Iron ore imports during these years also grew year-on-year by an average of 6%, while steel production during these years averaged growth of just 1%. This included 2015 which saw steel production decline by 2% while iron ore imports rose by 2%.
 

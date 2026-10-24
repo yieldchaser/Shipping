@@ -37,7 +37,7 @@ The Capesize market strengthened sharply over the week, led by sustained momentu
 
 > **Figure 1: C3 (tubarao-Qingdao) Spot at a Multi-Year High (Left) Alongside Annual Capesize Ordering — 2026 Year-to-Date Contracting Already Exceeds Full-Year 2024 and 2025 (Right)**  
 > *Figure 1: C3 (Tubarao-Qingdao) spot at a multi-year high (left) alongside annual Capesize ordering — 2026 year-to-date contracting already exceeds full-year 2024 and 2025 (right) (Source: Signal).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6aa155ca1bddbb71fa1fa26c_039b0f1a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](../../images/6aa155ca1bddbb71fa1fa26c_039b0f1a.png)
 
 **The southern (Tubarao) system has been getting busier:** Tubarao–China sailings over January–August total 127, up from 110 in 2025 and 90 in 2024 (about +15% year-on-year), with the monthly cadence above 2024 in seven of the eight months, while northern Ponta da Madeira sailings eased (234 versus 256 in 2025). Longer-haul southern cargo keeps Capesizes employed for more tonne-days, tightening the Atlantic even without a headline volume surge.
 
@@ -50,14 +50,14 @@ The Capesize market strengthened sharply over the week, led by sustained momentu
 ![Freight Market Overview | BDI & Segment Metrics](../../images/7df2b330-ecef-4a44-94d0-9f6b9f88246b.png)
 
 > **Figure 2: Freight Market Overview | BDI & Segment Metrics**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/7df2b330-ecef-4a44-94d0-9f6b9f88246b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](../../images/7df2b330-ecef-4a44-94d0-9f6b9f88246b.png)
 
 
 ![Baltic Dry Index — Spot Rate Summary Across Segments and BDI Performance as of 4 Sep 2026](../../images/6aa155ca1bddbb71fa1fa272_aa174b4a.png)
 
 > **Figure 2: Baltic Dry Index — Spot Rate Summary Across Segments and BDI Performance as of 4 Sep 2026**  
 > *Figure 2: Baltic Dry Index — spot rate summary across segments and BDI performance as of 4 Sep 2026 (Source: Signal).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6aa155ca1bddbb71fa1fa272_aa174b4a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](../../images/6aa155ca1bddbb71fa1fa272_aa174b4a.png)
 
 **A broad, demand-driven market expansion.** The BDI advanced to 3,628 points (+140 daily, +442 WoW), supported by positive momentum across all four vessel classes. The **Capesize** sector recorded significant gains, with the BCI rising to 6,286 (+950 WoW) and mean C5TC earnings increasing to approximately $53,508 per day (+$8,612 WoW). **Panamax** rates strengthened (BPI 2,448, +133 WoW), as did those for **Supramax** (BSI 1,675, +28 WoW) and **Handysize** (BHSI 900, +19 WoW) vessels. Notably, this rate appreciation occurred concurrently with an expansion in open tonnage across all segments (as detailed in the ballaster table below). The simultaneous growth in freight rates and available ballaster capacity indicates that market strength is attributable to expanding demand rather than constrained vessel supply.
 
@@ -69,7 +69,7 @@ The Capesize market strengthened sharply over the week, led by sustained momentu
 
 > **Figure 4: Global Ballaster Fleet and Regional Counts, with Change vs the Previous Week**  
 > *Global ballaster fleet and regional counts, with change vs the previous week (Source: Signal).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6aa1555ce12f1fe8898ab261_Screenshot 2026-09-09 at 13.47.15.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](../../images/6aa1555ce12f1fe8898ab261_Screenshot 2026-09-09 at 13.47.15.png)
 
 Open tonnage rose in every segment week-on-week — Supramax most of all (+24% to 772, led by the North Atlantic +44% and Australasia +37%), followed by Panamax (+10% to 820) and Capesize and Handysize (both +9%, to 624 and 714).
 
@@ -83,7 +83,7 @@ Open tonnage rose in every segment week-on-week — Supramax most of all (+24% t
 
 > **Figure 3: Baltic Capesize Index (BCI) — Spot Rate Summary and BCI Performance**  
 > *Figure 3: Baltic Capesize Index (BCI) — spot rate summary and BCI performance (Source: Signal).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6aa155ca1bddbb71fa1fa26f_507f5cac.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](../../images/6aa155ca1bddbb71fa1fa26f_507f5cac.png)
 
 **Ballasters vs the previous week.** The global Capesize ballaster count rose 9% WoW to 624, with builds in Australasia (+17% to 234), the South Atlantic (+17% to 54), and the North Atlantic (+16% to 36); the Indian Ocean/South Africa was flat (−1% to 163).
 
@@ -92,7 +92,7 @@ Open tonnage rose in every segment week-on-week — Supramax most of all (+24% t
 
 > **Figure 4: Capesize — Global Ballaster Fleet and Regional Positioning**  
 > *Figure 4: Capesize — Global ballaster fleet and regional positioning (Source: Signal).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6aa155ca1bddbb71fa1fa284_8b852fa6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](../../images/6aa155ca1bddbb71fa1fa284_8b852fa6.png)
 
 **Supply/demand by route** C3 (Tubarao–Qingdao) has tightened: cumulative supply now sits below expected demand across the whole forward window, where a week earlier it edged into a slight late surplus — a clear supportive shift behind the C3 rally. C5 (West Australia–Qingdao) is little changed, near balance early and building a supply surplus from around day 12.
 
@@ -100,7 +100,7 @@ Open tonnage rose in every segment week-on-week — Supramax most of all (+24% t
 ![Capesize | Analysis](../../images/6aa155ca1bddbb71fa1fa28d_a7e29b59.png)
 
 > **Figure 7: Capesize | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6aa155ca1bddbb71fa1fa28d_a7e29b59.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](../../images/6aa155ca1bddbb71fa1fa28d_a7e29b59.png)
 
 *Figure 5: Capesize — C3 & C5 forward balance: cumulative Supply vs Expected Demand over days forward (Source: Signal).*
 
@@ -110,7 +110,7 @@ Open tonnage rose in every segment week-on-week — Supramax most of all (+24% t
 ![Capesize | Analysis](../../images/6aa155ca1bddbb71fa1fa27b_6bfa8059.png)
 
 > **Figure 8: Capesize | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6aa155ca1bddbb71fa1fa27b_6bfa8059.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](../../images/6aa155ca1bddbb71fa1fa27b_6bfa8059.png)
 
 *Figure 6: Capesize — demand-to-supply ratio (LHS bars, four-week-average YoY growth; above 1.00 = tonne-mile demand growing faster than available tonnage) vs weekly TC earnings (RHS line). Shaded = latest provisional weeks. (Source: Baltic Exchange; Signal Ocean — Voyage API, Vessel Daily Status). (Source: Signal).*
 
@@ -123,7 +123,7 @@ Open tonnage rose in every segment week-on-week — Supramax most of all (+24% t
 ![Panamax | Analysis](../../images/6aa155ca1bddbb71fa1fa275_1507792a.png)
 
 > **Figure 9: Panamax | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6aa155ca1bddbb71fa1fa275_1507792a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](../../images/6aa155ca1bddbb71fa1fa275_1507792a.png)
 
 *Figure 7: Baltic Panamax Index (BPI) — spot rate summary and BPI performance (Source: Signal).*
 
@@ -133,7 +133,7 @@ Open tonnage rose in every segment week-on-week — Supramax most of all (+24% t
 ![Panamax | Analysis](../../images/6aa155ca1bddbb71fa1fa28a_9be47723.png)
 
 > **Figure 10: Panamax | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6aa155ca1bddbb71fa1fa28a_9be47723.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](../../images/6aa155ca1bddbb71fa1fa28a_9be47723.png)
 
 *Figure 8: Panamax — Global ballaster fleet and regional positioning (Source: Signal).*
 
@@ -143,7 +143,7 @@ Open tonnage rose in every segment week-on-week — Supramax most of all (+24% t
 ![Panamax | Analysis](../../images/6aa155ca1bddbb71fa1fa278_39c93dfa.png)
 
 > **Figure 11: Panamax | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6aa155ca1bddbb71fa1fa278_39c93dfa.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](../../images/6aa155ca1bddbb71fa1fa278_39c93dfa.png)
 
 *Figure 9: Panamax — P1/P2/P7, P3, P5 & P6: cumulative Supply vs Expected Demand over days forward (Source: Signal).*
 
@@ -153,7 +153,7 @@ Open tonnage rose in every segment week-on-week — Supramax most of all (+24% t
 ![Panamax | Analysis](../../images/6aa155ca1bddbb71fa1fa290_bc6ff1f6.png)
 
 > **Figure 12: Panamax | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6aa155ca1bddbb71fa1fa290_bc6ff1f6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](../../images/6aa155ca1bddbb71fa1fa290_bc6ff1f6.png)
 
 *Figure 10: Panamax — demand-to-supply ratio (LHS bars, four-week-average YoY growth; above 1.00 = tonne-mile demand growing faster than available tonnage) vs weekly TC earnings (RHS line). Shaded = latest provisional weeks. (Source: Baltic Exchange; Signal Ocean — Voyage API, Vessel Daily Status). (Source: Signal).*
 
@@ -166,7 +166,7 @@ Open tonnage rose in every segment week-on-week — Supramax most of all (+24% t
 ![Supramax | Analysis](../../images/6aa155ca1bddbb71fa1fa281_4e96ecc6.png)
 
 > **Figure 13: Supramax | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6aa155ca1bddbb71fa1fa281_4e96ecc6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](../../images/6aa155ca1bddbb71fa1fa281_4e96ecc6.png)
 
 *Figure 11: Baltic Supramax Index (BSI) — spot rate summary and BSI performance (Source: Signal).*
 
@@ -176,7 +176,7 @@ Open tonnage rose in every segment week-on-week — Supramax most of all (+24% t
 ![Supramax | Analysis](../../images/6aa155ca1bddbb71fa1fa287_b344cfd8.png)
 
 > **Figure 14: Supramax | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6aa155ca1bddbb71fa1fa287_b344cfd8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](../../images/6aa155ca1bddbb71fa1fa287_b344cfd8.png)
 
 *Figure 12: Supramax — Global ballaster fleet and regional positioning (Source: Signal).*
 
@@ -186,7 +186,7 @@ Open tonnage rose in every segment week-on-week — Supramax most of all (+24% t
 ![Supramax | Analysis](../../images/6aa155ca1bddbb71fa1fa27e_7063e682.png)
 
 > **Figure 15: Supramax | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6aa155ca1bddbb71fa1fa27e_7063e682.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](../../images/6aa155ca1bddbb71fa1fa27e_7063e682.png)
 
 *Figure 13: Supramax — S4A/S1C, S4B, S5 & S8/S10: cumulative Supply vs Expected Demand over days forward (Source: Signal).*
 
@@ -196,7 +196,7 @@ Open tonnage rose in every segment week-on-week — Supramax most of all (+24% t
 ![Supramax | Analysis](../../images/6aa155ca1bddbb71fa1fa293_583ca0bc.png)
 
 > **Figure 16: Supramax | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6aa155ca1bddbb71fa1fa293_583ca0bc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](../../images/6aa155ca1bddbb71fa1fa293_583ca0bc.png)
 
 *Figure 14: Supramax — demand-to-supply ratio (LHS bars, four-week-average YoY growth; above 1.00 = tonne-mile demand growing faster than available tonnage) vs weekly TC earnings (RHS line). Shaded = latest provisional weeks. (Source: Baltic Exchange; Signal Ocean — Voyage API, Vessel Daily Status). (Source: Signal).*
 
@@ -209,7 +209,7 @@ Open tonnage rose in every segment week-on-week — Supramax most of all (+24% t
 ![Handysize | Analysis](../../images/6aa155ca1bddbb71fa1fa296_9207527b.png)
 
 > **Figure 17: Handysize | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6aa155ca1bddbb71fa1fa296_9207527b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](../../images/6aa155ca1bddbb71fa1fa296_9207527b.png)
 
 *Figure 15: Baltic Handysize Index (BHSI) — spot rate summary and BHSI performance (Source: Signal).*
 
@@ -219,7 +219,7 @@ Open tonnage rose in every segment week-on-week — Supramax most of all (+24% t
 ![Handysize | Analysis](../../images/6aa155ca1bddbb71fa1fa299_035e011f.png)
 
 > **Figure 18: Handysize | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6aa155ca1bddbb71fa1fa299_035e011f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](../../images/6aa155ca1bddbb71fa1fa299_035e011f.png)
 
 *Figure 16: Handysize — Global ballaster fleet and regional positioning (Source: Signal).*
 
@@ -229,7 +229,7 @@ Open tonnage rose in every segment week-on-week — Supramax most of all (+24% t
 ![Handysize | Analysis](../../images/6aa155ca1bddbb71fa1fa29f_bd6338c3.png)
 
 > **Figure 19: Handysize | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6aa155ca1bddbb71fa1fa29f_bd6338c3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](../../images/6aa155ca1bddbb71fa1fa29f_bd6338c3.png)
 
 *Figure 17: Handysize — HS1/HS2, HS5, HS6 & HS7: cumulative Supply vs Expected Demand over days forward (Source: Signal).*
 
@@ -239,7 +239,7 @@ Open tonnage rose in every segment week-on-week — Supramax most of all (+24% t
 ![Handysize | Analysis](../../images/6aa155ca1bddbb71fa1fa29c_8e8d1390.png)
 
 > **Figure 20: Handysize | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6aa155ca1bddbb71fa1fa29c_8e8d1390.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-36-2026) | [Local Asset](../../images/6aa155ca1bddbb71fa1fa29c_8e8d1390.png)
 
 *Figure 168: Handysize — demand-to-supply ratio (LHS bars, four-week-average YoY growth; above 1.00 = tonne-mile demand growing faster than available tonnage) vs weekly TC earnings (RHS line). Shaded = latest provisional weeks. (Source: Baltic Exchange; Signal Ocean — Voyage API, Vessel Daily Status). (Source: Signal).*
 

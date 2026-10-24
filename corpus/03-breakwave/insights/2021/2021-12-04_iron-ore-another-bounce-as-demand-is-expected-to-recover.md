@@ -29,7 +29,7 @@ Iron ore prices are continuing their volatile journey. November saw the steel-ma
 ![Ch1](assets/2021-12-04_iron-ore-another-bounce-as-demand-is-expected-to-recover_img_ch1_945ef8cf9667.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-04_iron-ore-another-bounce-as-demand-is-expected-to-recover_img_ch1_945ef8cf9667.png)
+> [Local Asset](assets/2021-12-04_iron-ore-another-bounce-as-demand-is-expected-to-recover_img_ch1_945ef8cf9667.png)
 
 At the same time, as a rebound in Chinese demand offers some support, the Brazilian mining giant Vale is providing support from the supply side to the iron ore prices. This year, the world’s second-largest iron ore miner expects output to be at the low end of the previous guidance of 315-335 million tonnes. While the company is expecting the production to grow next year, the increase, projected to be in the 320-335 million tonnes range, is relatively modest and well below analysts’ expectations at 346 million tonnes. The falling iron ore prices have led to the company emphasising the production of higher-quality ores, with a lower output of low-margin and low-quality raw materials envisaged in the current price environment.
 
@@ -38,7 +38,7 @@ At the same time, as prices recovered some lost ground, global seaborne import v
 ![Ch2](assets/2021-12-04_iron-ore-another-bounce-as-demand-is-expected-to-recover_img_ch2_e2c7a50f8bbf.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-04_iron-ore-another-bounce-as-demand-is-expected-to-recover_img_ch2_e2c7a50f8bbf.png)
+> [Local Asset](assets/2021-12-04_iron-ore-another-bounce-as-demand-is-expected-to-recover_img_ch2_e2c7a50f8bbf.png)
 
 In recent months, the weaker Chinese demand for iron ore has been widely seen as the driving factor behind the declining prices. However, the drop has been proportionally smaller than for the rest of the world. Chinese imports fell by eight per cent month-on-month in November compared to the eleven per cent globally, according to data from Oceanbolt. The relative outperformance has pushed the country’s share of the market for seaborne iron ore to 74 per cent in November and just above the average for the last two years.
 
@@ -47,7 +47,7 @@ With Chinese steel production under pressure in recent months, port side invento
 ![Ch3](assets/2021-12-04_iron-ore-another-bounce-as-demand-is-expected-to-recover_img_ch3_39a5dbed48fb.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-12-04_iron-ore-another-bounce-as-demand-is-expected-to-recover_img_ch3_39a5dbed48fb.png)
+> [Local Asset](assets/2021-12-04_iron-ore-another-bounce-as-demand-is-expected-to-recover_img_ch3_39a5dbed48fb.png)
 
 The upcoming Winter Olympics in China will likely serve as a watershed for iron ore demand and prices. Beijing’s clampdown on the country’s steel production has to a great extent been due to the leadership’s desire to present the games with clear blue skies, as the industry is one of China’s largest polluters. However, the flagging Chinese growth could see the authorities altering the stance once the athletes and visitors have returned to their home countries. While the property sector is currently showing some signs of a recovery, it is likely to continue to weigh on Chinese economic sentiments and remain one of the headwinds for the coming year. In addition, the emergence of a new and more contagious variant of the coronavirus may disrupt the global recovery and reduce demand for Chinese exports. Beijing’s zero-stance on Covid-infections could also lead to new challenges for the already fragile domestic economy, with fresh local lockdowns and travel restrictions.
 

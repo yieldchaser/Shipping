@@ -44,7 +44,7 @@ In the tanker segment, (Graph 1) we can see the importance of the Aframax segmen
 
 > **Figure 1: Year 2021**  
 > *Graph 1: Signal Ocean Data| Year 2021, Cargoes Activity, Per Tanker Vessel Size and Port, Russian Federation*  
-> **Interactive Data & Source:** [Nepia](https://www.nepia.com/industry-news/russia-ukraine-military-action-impact-on-shipping/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch1_16e6b0ac26f1.png)
+> **Interactive Data & Source:** [Nepia](https://www.nepia.com/industry-news/russia-ukraine-military-action-impact-on-shipping/) | [Local Asset](assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch1_16e6b0ac26f1.png)
 
 In the bulker segment, (Graph 2) we see that the Capesize size has a minor share in the cargo flows per Russian port, while smaller vessel sizes, Handysize - Supramax along with the Panamax are heavily influenced by the activity of coal, grain and other minor dry cargoes mainly at Ust-Luga and Novorossiysk. The below graph indicates about 20% share of cargoes for the Supramax vessels at Novorossiysk, while for Handysize vessels is 60%.
 
@@ -52,7 +52,7 @@ In the bulker segment, (Graph 2) we see that the Capesize size has a minor share
 
 > **Figure 2: Year 2021**  
 > *Graph 2: Signal Ocean Data| Year 2021, Cargoes Activity, Per Vessel Size and Port, Russian Federation*  
-> **Interactive Data & Source:** [Nepia](https://www.nepia.com/industry-news/russia-ukraine-military-action-impact-on-shipping/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch2_1a1e4c273d16.png)
+> **Interactive Data & Source:** [Nepia](https://www.nepia.com/industry-news/russia-ukraine-military-action-impact-on-shipping/) | [Local Asset](assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch2_1a1e4c273d16.png)
 
 Given the above influence of cargo flows on vessel sizes per port, our below analysis monitors the freight market situation on the tanker Aframax size, where we see an intense level of impact in the Baltic freight rates and supply trend at Primorsk, Kozmino and Novorossiysk. In the bulker segment, the Supramax size is in the spotlight with Med/Black Sea to Far East supply trend in a rapid decrease and high volatility on freight rates under the fears of grain disruptions.
 
@@ -66,7 +66,7 @@ Image 1 from the The Signal Ocean Platform visualizes the rapid acceleration of 
 
 > **Figure 3: Aframax Supply Trend**  
 > *Image 1: Signal Ocean Data| Aframax Supply Trend, Novorossiysk, Russian Federation, Market Deployment: Relet-Spot, Afra-Baltic Rates, Commercial Status: Available, Max ETA 6 days, Latest AIS since 5 days*  
-> **Interactive Data & Source:** [Nepia](https://www.nepia.com/industry-news/russia-ukraine-military-action-impact-on-shipping/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch3_bc7a9046f382.png)
+> **Interactive Data & Source:** [Nepia](https://www.nepia.com/industry-news/russia-ukraine-military-action-impact-on-shipping/) | [Local Asset](assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch3_bc7a9046f382.png)
 
 The availability of ships at base loading ports of Primorsk, Kozmino with ETA in the next 10 days implies that there is a potential of around 16% removal of vessels of Russian interests at Primorsk, 7% at Kozmino. It is interesting that at the current availability of vessels at Novorossiysk, there is 0% with vessels of Russian interests. The current supply trend with the percentages of capacity removals is a strong signal that could lead Aframax freight rates to new highs in the next few days.
 
@@ -74,7 +74,7 @@ The availability of ships at base loading ports of Primorsk, Kozmino with ETA in
 
 > **Figure 4: Supply**  
 > *Graph 3: Signal Ocean Data| Supply, Market Deployment: Spot, Relet, ETA next 10 days, Latest AIS since 5 days*  
-> **Interactive Data & Source:** [Nepia](https://www.nepia.com/industry-news/russia-ukraine-military-action-impact-on-shipping/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch4_aa170b5833b6.png)
+> **Interactive Data & Source:** [Nepia](https://www.nepia.com/industry-news/russia-ukraine-military-action-impact-on-shipping/) | [Local Asset](assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch4_aa170b5833b6.png)
 
 In the scenario of U.S. sanctions on Russian energy exports, Europe and the U.S. will need to replace the supply scarcity with other sources that eventually will increase the demand ton miles growth and sustain the euphoria of freight rates. Looking at the current evolution of demand, tondays growth we can see in image 2 with The Signal Ocean Platform data that there is an already an increasing pace compared to the lows before the Russian invasion and the upward trend is going to meet the highs of a similar period last year.
 
@@ -82,7 +82,7 @@ In the scenario of U.S. sanctions on Russian energy exports, Europe and the U.S.
 
 > **Figure 5: Aframax Demand TonDays Trend**  
 > *Image 2: Signal Ocean Data| Aframax Demand Tondays Trend, 2022-2021, Dirty, The TonDays time-series graph presents the laden days of the seagoing and stopped vessels for the user-selected vessel class range that have loaded (Area From) and discharged (Area To) the selected areas. This graph shows the 7 days moving average (MA) of the time series.We define TonDays = Deadweight * VoyageDays and so TonDaysPerDay = TonDays / VoyageDays, where VoyageDays = LastDischargeSailingDate - FirstLoadStartTimeOfOperation.To compute the TonDays time-series, we aggregate for each day the TonDaysPerDay for all the seagoing and stopped vessels.*  
-> **Interactive Data & Source:** [Nepia](https://www.nepia.com/industry-news/russia-ukraine-military-action-impact-on-shipping/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch5_67c04a51de44.png)
+> **Interactive Data & Source:** [Nepia](https://www.nepia.com/industry-news/russia-ukraine-military-action-impact-on-shipping/) | [Local Asset](assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch5_67c04a51de44.png)
 
 Overall, we can say that the impact on the freight market seems significant for the crude supply of ships in the aframax size for the Baltic Area and demand ton-days growth as the US and Europe is likely to need to replace around 4million barrels/day in the case of U.S. sanctions on Russian energy exports.
 
@@ -98,7 +98,7 @@ Image 3 with The Signal Ocean Platform data visualizes the performance of Supram
 
 > **Figure 6: Supramax Med/bsea - Far East Market Rates and Supply Trend**  
 > *Image 3: Signal Ocean Data| Supramax Med/BSea - Far East Market Rates and Supply Trend*  
-> **Interactive Data & Source:** [Foxbusiness](https://www.foxbusiness.com/economy/china-confirms-it-has-lifted-wheat-import-restrictions-on-russia) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch6_7f1dc278589d.png)
+> **Interactive Data & Source:** [Foxbusiness](https://www.foxbusiness.com/economy/china-confirms-it-has-lifted-wheat-import-restrictions-on-russia) | [Local Asset](assets/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping_img_ch6_7f1dc278589d.png)
 
 What’s next to be considered as a critical point in the grain market is the potential of sanctions on Russian grain exports, then the key import destination will be China that will lead to an increase in ton miles demand growth for dry bulkers and new increase of rates. At this point, we need to highlight that[**China**](https://www.foxbusiness.com/economy/china-confirms-it-has-lifted-wheat-import-restrictions-on-russia)has already announced on Thursday that it is lifting the wheat import restrictions on Russia.
 

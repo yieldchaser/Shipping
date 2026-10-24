@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-10-17_breakwave-bi-weekly-t
 ![Tankerreporttop](assets/2023-10-17_breakwave-bi-weekly-tanker-report-oct-17-2023-e7jc6_img_tankerreporttop_9ff43f2db11b.png)
 
 > **Figure 1: Tankerreporttop**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-17_breakwave-bi-weekly-tanker-report-oct-17-2023-e7jc6_img_tankerreporttop_9ff43f2db11b.png)
+> [Local Asset](assets/2023-10-17_breakwave-bi-weekly-tanker-report-oct-17-2023-e7jc6_img_tankerreporttop_9ff43f2db11b.png)
 
 **• VLCC spot market activity surges as geopolitical tensions spike –**The recent surprising sad events in the Middle East once again reminded us how important energy security is. Tanker owners have been through numerous cycles of geopolitical uncertainty and know that during such uncertain periods charterers are willing to pay up to secure tonnage and thus the option to lift oil. In addition, the fact that Chinese charterers returned to the market following a week of holidays, aided demand, leading to a significant increase in spot rates in both the Atlantic as well as the Middle East markets. Although there has been no meaningful disruption in oil supply, the thought of a broader conflict that might involve some of the largest oil exporters in the world, has been enough to boost sentiment especially in a market that is generally quite positive on the development of spot rates. One should always keep in mind that even in a spot-oriented markets, the lead times between fixing a tanker and actually getting delivery of oil are long, so the reaction to the recent Middle East turmoil mainly reflects uncertainty about the future, not the present. Looking forward, the prevailing expectation in the Atlantic market is that freight sentiment will remain stable over the next 30 days due to the anticipated shortage of available tonnage. Although there is no crystal ball for tanker owners, a tanker vessel today is a valuable asset to hold given the volatile times, and thus, we see little reason to turn negative, especially given that spot rates still remain well below last year’s levels.
 
@@ -33,11 +33,11 @@ source_file: "corpus/03-breakwave/insights/2023/2023-10-17_breakwave-bi-weekly-t
 ![Tankerreportchart](assets/2023-10-17_breakwave-bi-weekly-tanker-report-oct-17-2023-e7jc6_img_tankerreportchart_61555c32ae08.png)
 
 > **Figure 2: Tankerreportchart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-17_breakwave-bi-weekly-tanker-report-oct-17-2023-e7jc6_img_tankerreportchart_61555c32ae08.png)
+> [Local Asset](assets/2023-10-17_breakwave-bi-weekly-tanker-report-oct-17-2023-e7jc6_img_tankerreportchart_61555c32ae08.png)
 
 ![Tankerreportbottom](assets/2023-10-17_breakwave-bi-weekly-tanker-report-oct-17-2023-e7jc6_img_tankerreportbottom_6fef8a907659.png)
 
 > **Figure 3: Tankerreportbottom**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-17_breakwave-bi-weekly-tanker-report-oct-17-2023-e7jc6_img_tankerreportbottom_6fef8a907659.png)
+> [Local Asset](assets/2023-10-17_breakwave-bi-weekly-tanker-report-oct-17-2023-e7jc6_img_tankerreportbottom_6fef8a907659.png)
 
 ### Subscribe:

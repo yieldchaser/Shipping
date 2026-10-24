@@ -36,7 +36,7 @@ Higher interest rates should also deter companies from leveraging up. This makes
 
 > **Figure 1: Cynic Would Argue That Control Is an Illusion**  
 > *A cynic would argue that control is an illusion. History has always moved on the decisions of the heads of the few great powers, and it is for smaller countries and those far removed from power to accept the consequences. “Theirs is but to do and die”. For all the glory and renown the UK earned during the Battle of Britain, history might have been very different if Admiral Yamamoto had not sneaked an attack on Pearl Harbour. In his own biography, Winston Churchill said on the day of the event:“Being saturated and satiated with emotion and sensation, I went to bed and slept the sleep of the saved and thankful”.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-22_russia-proved-the-world-is-still-globalised_img_unsplash-image-untsdm2hihg_6c60b2cc2799.jpg)
+> [Local Asset](assets/2022-03-22_russia-proved-the-world-is-still-globalised_img_unsplash-image-untsdm2hihg_6c60b2cc2799.jpg)
 
 Inflation is external and can’t be controlled. It is the confluence of post-pandemic supply chain disruptions exacerbated by shortages due to sanctions on Russia. It will rise as global companies compete for diminishing resources. It will drop when production is, somehow, restored or equilibrium otherwise reached. None of these can be controlled by the Bank of England.
 
@@ -51,7 +51,7 @@ In the movie “The Network” (1976), TV Network president Arthur Jensen chasti
 ![Unsplash Image Uvgz0 Rmpho](assets/2022-03-22_russia-proved-the-world-is-still-globalised_img_unsplash-image-uvgz0-rmpho_4b4bcdbb52ea.jpg)
 
 > **Figure 2: Unsplash Image Uvgz0 Rmpho**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-22_russia-proved-the-world-is-still-globalised_img_unsplash-image-uvgz0-rmpho_4b4bcdbb52ea.jpg)
+> [Local Asset](assets/2022-03-22_russia-proved-the-world-is-still-globalised_img_unsplash-image-uvgz0-rmpho_4b4bcdbb52ea.jpg)
 
 Mr Putin in 2019 said that the international liberal order has become obsolete. Other autocrats around the world might share his opinion. So he challenged it.**The sprawling consequences of his war pose unequivocal proof that globalisation, the mechanism behind the global liberal order, is alive and kicking.**
 

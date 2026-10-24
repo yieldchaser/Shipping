@@ -27,7 +27,7 @@ Easing fears of supply disruptions pushed energy markets lower. Metals were mixe
 ![Στιγμιότυπο Οθόνης 2025 06 24 131613](assets/2025-06-24_oil-falls-as-tensions-ease-in-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30b6cce1d747.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 06 24 131613**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-24_oil-falls-as-tensions-ease-in-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30b6cce1d747.png)
+> [Local Asset](assets/2025-06-24_oil-falls-as-tensions-ease-in-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30b6cce1d747.png)
 
 ### Market Commentary
 
@@ -48,7 +48,7 @@ Japanese LNG imports have been subdued in recent months. However, that may be ab
 ![Στιγμιότυπο Οθόνης 2025 06 24 131734](assets/2025-06-24_oil-falls-as-tensions-ease-in-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f43df2a1f3b6.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 06 24 131734**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-24_oil-falls-as-tensions-ease-in-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f43df2a1f3b6.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-06-24_oil-falls-as-tensions-ease-in-middle-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f43df2a1f3b6.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

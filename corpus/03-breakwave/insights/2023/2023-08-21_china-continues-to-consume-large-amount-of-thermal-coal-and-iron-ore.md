@@ -26,7 +26,7 @@ The most recently released data shows that daily crude steel output at large and
 ![Chart 1 (74)](assets/2023-08-21_china-continues-to-consume-large-amount-of-thermal-coal-and-iron-ore_img_chart1287429_d33a4d7d94e2.jpg)
 
 > **Figure 1: Chart 1 (74)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-21_china-continues-to-consume-large-amount-of-thermal-coal-and-iron-ore_img_chart1287429_d33a4d7d94e2.jpg)
+> [Local Asset](assets/2023-08-21_china-continues-to-consume-large-amount-of-thermal-coal-and-iron-ore_img_chart1287429_d33a4d7d94e2.jpg)
 
 We continue to stress that China is producing a very healthy amount of steel (and is consuming a very healthy amount of iron ore). The excess in China's housing market remains grotesque, but supply and demand of Chinese homes is not what drives the dry bulk spot market. The actual production of steel, consumption of iron ore, consumption of thermal coal, etc are what drives China's commodity imports and spot demand for vessels. Significant in the iron ore market is that China's steel output has most recently come in at this level that is up year-on-year by 11%.
 
@@ -35,4 +35,4 @@ As we also have been stressing in Commodore's Weekly China Reports, significant 
 ![Chart 2 (63)](assets/2023-08-21_china-continues-to-consume-large-amount-of-thermal-coal-and-iron-ore_img_chart2286329_09badc9f4ee5.jpg)
 
 > **Figure 2: Chart 2 (63)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-21_china-continues-to-consume-large-amount-of-thermal-coal-and-iron-ore_img_chart2286329_09badc9f4ee5.jpg)
+> [Local Asset](assets/2023-08-21_china-continues-to-consume-large-amount-of-thermal-coal-and-iron-ore_img_chart2286329_09badc9f4ee5.jpg)

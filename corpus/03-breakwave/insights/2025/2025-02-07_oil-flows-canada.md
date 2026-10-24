@@ -33,7 +33,7 @@ Week 06, February 07, 2025
 ![Στιγμιότυπο Οθόνης 2025 02 07 113648](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c19e380475d.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 02 07 113648**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c19e380475d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c19e380475d.png)
 
 The crude oil freight market remains highly volatile, with recent spikes in VLCC rates on the MEG-China route. While tonne-day demand growth has yet to show signs of recovery, market sentiment appears to be firming, driven by uncertainty surrounding oil price fluctuations and China's crude oil demand. Additionally, the impending implementation of U.S. tariffs on the energy sector adds to the instability.
 
@@ -48,7 +48,7 @@ As for vessel utilization, Aframax tankers play a dominant role in Canadian oil 
 ![Στιγμιότυπο Οθόνης 2025 02 07 113748](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca640d00ef5d.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 02 07 113748**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca640d00ef5d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca640d00ef5d.png)
 
 ​​​​​Sentiment in the dirty freight market has shown signs of volatility, with spikes emerging on the VLCC MEG-China and Suezmax West Africa-to-Continent routes, while the Aframax Mediterranean market remains steady.
 
@@ -58,21 +58,21 @@ As for vessel utilization, Aframax tankers play a dominant role in Canadian oil 
 ![Στιγμιότυπο Οθόνης 2025 02 07 113846](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_adf7fa378c7e.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 02 07 113846**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_adf7fa378c7e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_adf7fa378c7e.png)
 
 - **LR2**AG freight rates continued to decrease over the last weeks and dropped to WS 100, marking a 60% decrease compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2025 02 07 114119](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7f170905968f.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 02 07 114119**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7f170905968f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7f170905968f.png)
 
 - **Panamax**Carib-to-USG rates have remained weak for another week since the start of the year, now falling below WS120. This marks a decline of over 60% compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2025 02 07 114220](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1d6c4925b71d.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 02 07 114220**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1d6c4925b71d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1d6c4925b71d.png)
 
 - **MR1**freight rates for Baltic-to-Continent shipments remained under downward pressure, hovering around WS160—a 50% decline from the same week last year.
 
@@ -81,7 +81,7 @@ As for vessel utilization, Aframax tankers play a dominant role in Canadian oil 
 ![Στιγμιότυπο Οθόνης 2025 02 07 114317](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f46ccae890f3.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 02 07 114317**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f46ccae890f3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f46ccae890f3.png)
 
 ​​​​​​The supply of crude tankers continued its downward trend since late January, remaining below the annual average on key routes, particularly for VLCCs on the AG-Far East route and Suezmax vessels in West Africa. However, signs of a mild upward correction are emerging in the Aframax segment, notably in the Mediterranean and Baltic regions.
 
@@ -93,12 +93,12 @@ As for vessel utilization, Aframax tankers play a dominant role in Canadian oil 
 ![Στιγμιότυπο Οθόνης 2025 02 07 114429](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1feb5b1661e6.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 02 07 114429**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1feb5b1661e6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1feb5b1661e6.png)
 
 ![Στιγμιότυπο Οθόνης 2025 02 07 114440](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_555872a54d1c.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2025 02 07 114440**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_555872a54d1c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_555872a54d1c.png)
 
 - **Clean LR2 AG Jubai**l: The February trend has confirmed the upward trajectory of the previous month, with levels now exceeding the annual average of 11 by six, signaling a further increase in the coming days.
 
@@ -107,14 +107,14 @@ As for vessel utilization, Aframax tankers play a dominant role in Canadian oil 
 ![Στιγμιότυπο Οθόνης 2025 02 07 114548](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_04703e8ac909.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 02 07 114548**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_04703e8ac909.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_04703e8ac909.png)
 
 - **Dirty**tonne days: The growth rate of dirty tonne-days remains well below the annual trend for the VLCC and Suezmax markets, reflecting subdued freight sentiment. However, Aframax tonne-days show signs of a mild recovery, now approaching their highest level since the lows at the start of the year.
 
 ![Στιγμιότυπο Οθόνης 2025 02 07 114644](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f4876aea510b.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 02 07 114644**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f4876aea510b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-02-07_oil-flows-canada_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f4876aea510b.png)
 
 - **Panamax**tonne days: The growth rate remained significantly below the annual average of previous weeks, with no clear signs of recovery yet.
 

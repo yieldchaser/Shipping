@@ -35,14 +35,14 @@ In the past few weeks, we discussed extensively why financial markets haven’t 
 ![Market Chart 1](assets/2026-04-29_unstoppable-force-meet-immovable-object_img_image006_a514273e0a4a.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-29_unstoppable-force-meet-immovable-object_img_image006_a514273e0a4a.png)
+> [Local Asset](assets/2026-04-29_unstoppable-force-meet-immovable-object_img_image006_a514273e0a4a.png)
 
 Bonds may be somewhat under-pricing the probability of higher inflation over the shorter term, to be sure, but they seem buoyed by the prevalent narrative of a solution in the near term.
 
 ![Market Chart 2](assets/2026-04-29_unstoppable-force-meet-immovable-object_img_image007_755f5275de2b.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-29_unstoppable-force-meet-immovable-object_img_image007_755f5275de2b.png)
+> [Local Asset](assets/2026-04-29_unstoppable-force-meet-immovable-object_img_image007_755f5275de2b.png)
 
 Part of the general positive stance could well be that the truce remains in effect, and as long as that happens, the possibility for a resolution increases, even as both sides have more time to prepare for what comes next.
 
@@ -55,7 +55,7 @@ However, where we are paying more attention right now is the real economy. Rises
 ![Market Chart 3](assets/2026-04-29_unstoppable-force-meet-immovable-object_img_image003_cb3538c29523.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-29_unstoppable-force-meet-immovable-object_img_image003_cb3538c29523.png)
+> [Local Asset](assets/2026-04-29_unstoppable-force-meet-immovable-object_img_image003_cb3538c29523.png)
 
 We think that almost certainly this would translate into higher food inflation, if not outright shortages, for developed countries.
 

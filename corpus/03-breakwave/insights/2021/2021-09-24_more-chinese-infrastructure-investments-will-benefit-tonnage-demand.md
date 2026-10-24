@@ -39,7 +39,7 @@ The current congestion in and around many ports in China have contributed to the
 ![Ch1](assets/2021-09-24_more-chinese-infrastructure-investments-will-benefit-tonnage-demand_img_ch1_2bdda01cb55c.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-09-24_more-chinese-infrastructure-investments-will-benefit-tonnage-demand_img_ch1_2bdda01cb55c.png)
+> [Local Asset](assets/2021-09-24_more-chinese-infrastructure-investments-will-benefit-tonnage-demand_img_ch1_2bdda01cb55c.png)
 
 ---
 

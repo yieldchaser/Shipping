@@ -30,7 +30,7 @@ In this context, Signal Ocean data show that the number of Panamax vessels in ba
 ![Heading](../../images/69e1f70b3ef7c21f04f3dd18_71665df8.png)
 
 > **Figure 1: Heading**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-panamax-supply-outlook-as-hormuz-faces-strain) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69e1f70b3ef7c21f04f3dd18_71665df8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-panamax-supply-outlook-as-hormuz-faces-strain) | [Local Asset](../../images/69e1f70b3ef7c21f04f3dd18_71665df8.png)
 
 
 ## Scheduled Vessel Deliveries Highest Since 2014
@@ -43,7 +43,7 @@ This increase in fleet capacity is taking place against a plateauing outlook for
 ![Scheduled Vessel Deliveries Highest Since 2014](../../images/69e1f70b3ef7c21f04f3dd1e_73622750.png)
 
 > **Figure 2: Scheduled Vessel Deliveries Highest Since 2014**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-panamax-supply-outlook-as-hormuz-faces-strain) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69e1f70b3ef7c21f04f3dd1e_73622750.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-panamax-supply-outlook-as-hormuz-faces-strain) | [Local Asset](../../images/69e1f70b3ef7c21f04f3dd1e_73622750.png)
 
 
 ## Coal Demand Outlook: Policy Shifts and Market Pressures
@@ -84,7 +84,7 @@ At the same time, newbuilding prices have recently moved in line with second-han
 ![Will Vessel Orders Surge Continue…?](../../images/69e1f70b3ef7c21f04f3dd1b_fabdc4d6.png)
 
 > **Figure 3: Will Vessel Orders Surge Continue…?**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-panamax-supply-outlook-as-hormuz-faces-strain) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69e1f70b3ef7c21f04f3dd1b_fabdc4d6.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-panamax-supply-outlook-as-hormuz-faces-strain) | [Local Asset](../../images/69e1f70b3ef7c21f04f3dd1b_fabdc4d6.png)
 
 Against this backdrop, the key question remains whether the recent momentum in orders can be sustained, as the market continues to watch oil prices, potential supply disruptions, and ongoing uncertainty around bunkering in the Arabian Gulf.
 

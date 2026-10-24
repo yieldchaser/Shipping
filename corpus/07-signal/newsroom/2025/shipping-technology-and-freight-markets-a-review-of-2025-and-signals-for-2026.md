@@ -28,7 +28,7 @@ tags:
 ![Shipping Technology and Freight Markets: A Review of 2025 and Signals for 2026](../../images/695392f91d8b8fdeae108f03_0bac8511.png)
 
 > **Figure 1: Shipping Technology and Freight Markets: A Review of 2025 and Signals for 2026**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/shipping-technology-and-freight-markets-a-review-of-2025-and-signals-for-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/695392f91d8b8fdeae108f03_0bac8511.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/shipping-technology-and-freight-markets-a-review-of-2025-and-signals-for-2026) | [Local Asset](../../images/695392f91d8b8fdeae108f03_0bac8511.png)
 
 
 ## How AI Shipping Technology Helps Decode Freight Developments

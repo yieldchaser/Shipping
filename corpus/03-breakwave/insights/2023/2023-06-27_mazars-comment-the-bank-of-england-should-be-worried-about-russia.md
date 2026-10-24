@@ -40,7 +40,7 @@ Last week, British consumers were faced with a shock from the Bank of England, w
 ![Market Chart 1](assets/2023-06-27_mazars-comment-the-bank-of-england-should-be-worried-about-russia_img_image00428629_b0be3c087774.jpg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=fgm14D1jHUw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-27_mazars-comment-the-bank-of-england-should-be-worried-about-russia_img_image00428629_b0be3c087774.jpg)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=fgm14D1jHUw) | [Local Asset](assets/2023-06-27_mazars-comment-the-bank-of-england-should-be-worried-about-russia_img_image00428629_b0be3c087774.jpg)
 
 As if the UK central bank didn’t have enough to worry about, now it needs to fret about Russia.
 
@@ -51,7 +51,7 @@ A running theme since the beginning of the year for us was increased uncertainty
 ![Market Chart 2](assets/2023-06-27_mazars-comment-the-bank-of-england-should-be-worried-about-russia_img_image00528929_6d66d5fe32e4.jpg)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=fgm14D1jHUw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-27_mazars-comment-the-bank-of-england-should-be-worried-about-russia_img_image00528929_6d66d5fe32e4.jpg)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=fgm14D1jHUw) | [Local Asset](assets/2023-06-27_mazars-comment-the-bank-of-england-should-be-worried-about-russia_img_image00528929_6d66d5fe32e4.jpg)
 
 Further instability could, in theory, add to inflationary pressures, at a time when we at least thought that supply chain issues were behind us.
 
@@ -62,7 +62,7 @@ At least external pressures had subsided.
 ![Market Chart 3](assets/2023-06-27_mazars-comment-the-bank-of-england-should-be-worried-about-russia_img_image006281229_96e9dbb2be8b.jpg)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=fgm14D1jHUw) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-27_mazars-comment-the-bank-of-england-should-be-worried-about-russia_img_image006281229_96e9dbb2be8b.jpg)
+> **Interactive Data & Source:** [Youtube](https://www.youtube.com/watch?v=fgm14D1jHUw) | [Local Asset](assets/2023-06-27_mazars-comment-the-bank-of-england-should-be-worried-about-russia_img_image006281229_96e9dbb2be8b.jpg)
 
 Fresh instability could trigger supply-side inflation again. With prices rising double the central bank’s desired rate in the US, triple in the EU and more than four times in the UK, this externality, if it persists, could lead into more monetary tightening, and a worse blow for global consumers.
 

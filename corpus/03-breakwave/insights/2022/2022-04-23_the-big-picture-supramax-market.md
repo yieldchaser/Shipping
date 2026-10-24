@@ -32,7 +32,7 @@ The Baltic Supramax 58 average today settled at $29,105/day, marking a 24.6% inc
 ![Screenshot 20220422 113225 Word](assets/2022-04-23_the-big-picture-supramax-market_img_screenshot-20220422-113225-word_a2f8e2854de5.jpg)
 
 > **Figure 1: Screenshot 20220422 113225 Word**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-23_the-big-picture-supramax-market_img_screenshot-20220422-113225-word_a2f8e2854de5.jpg)
+> [Local Asset](assets/2022-04-23_the-big-picture-supramax-market_img_screenshot-20220422-113225-word_a2f8e2854de5.jpg)
 
 Driving employment in the east has been the resurgence in Indonesian coal trade. Supramaxes lifted 13.8m tonnes of coal in Indonesia in March, rising by 13.0% YoY and the highest since December 2020. Of these volumes, Indian imports increased by 19.0% to 3.1m tonnes, while shipments discharged in Bangladesh more than doubled YoY to 1.3m tonnes. Chinese imports of Indonesian coal on Supras declined by 22.5% YoY to 4.9m tonnes. The changes in trade flows above resulted in a net loss of 174k tonnes of coal. As a result, the longer voyages to both WC India and Bangladesh compared to China (bss Qingdao) have provided support to rates in this region.
 
@@ -45,7 +45,7 @@ In March, dry bulk shipments imported into Europe on Supramaxes totalled 7.3m to
 ![Screenshot 20220422 113249 Word](assets/2022-04-23_the-big-picture-supramax-market_img_screenshot-20220422-113249-word_d27fc96d231e.jpg)
 
 > **Figure 2: Screenshot 20220422 113249 Word**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-23_the-big-picture-supramax-market_img_screenshot-20220422-113249-word_d27fc96d231e.jpg)
+> [Local Asset](assets/2022-04-23_the-big-picture-supramax-market_img_screenshot-20220422-113249-word_d27fc96d231e.jpg)
 
 Imports of aggregates increased to 776k tonnes, doubling YoY and the highest level on record. Although these voyages are not considerably demand-intensive, the extra shipments have been effective in keeping vessels employed in the Continent/Mediterranean. Of these volumes, 62.3% loaded in Norway and the remaining 37.7% from Turkey.
 
@@ -64,7 +64,7 @@ In terms of destination, this has been more of a mixed bag. The largest increase
 ![Screenshot 20220422 113314 Word](assets/2022-04-23_the-big-picture-supramax-market_img_screenshot-20220422-113314-word_d55f1bbfff6a.jpg)
 
 > **Figure 3: Screenshot 20220422 113314 Word**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-04-23_the-big-picture-supramax-market_img_screenshot-20220422-113314-word_d55f1bbfff6a.jpg)
+> [Local Asset](assets/2022-04-23_the-big-picture-supramax-market_img_screenshot-20220422-113314-word_d55f1bbfff6a.jpg)
 
 ### India Congestion
 

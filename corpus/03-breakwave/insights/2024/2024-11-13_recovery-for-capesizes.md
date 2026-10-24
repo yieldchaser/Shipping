@@ -67,7 +67,7 @@ With the recent weak demand situation and lack of indications that cargo order v
 ![Market Chart 1](assets/2024-11-13_recovery-for-capesizes_img_unnamed_7a4fef839e47.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-13_recovery-for-capesizes_img_unnamed_7a4fef839e47.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-11-13_recovery-for-capesizes_img_unnamed_7a4fef839e47.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

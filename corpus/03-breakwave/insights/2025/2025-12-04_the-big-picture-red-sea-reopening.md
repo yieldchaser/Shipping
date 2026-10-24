@@ -35,7 +35,7 @@ The volume of oil moved through the Suez Canal has jumped 46% since January and 
 ![Market Chart 1](assets/2025-12-04_the-big-picture-red-sea-reopening_img_image001_8061a95a3355.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-04_the-big-picture-red-sea-reopening_img_image001_8061a95a3355.png)
+> [Local Asset](assets/2025-12-04_the-big-picture-red-sea-reopening_img_image001_8061a95a3355.png)
 
 A full return to 2019 levels of Canal transit and the resulting loss of long deviations via the Cape of Good Hope appears to hinge on maintaining today’s fragile ceasefire between Palestine and Israel. A return to peak 2023 levels depends on how hard the US pushes Putin on Ukraine, and how quickly Russian oil returns to Europe. Before we look at what could happen, we must understand wider changes in trade between the East and Atlantic due to the war, the Red Sea closure and other structural changes.
 
@@ -52,7 +52,7 @@ East to Atlantic flows increased 12% when comparing 2019 to 2023. Apart from the
 ![Market Chart 2](assets/2025-12-04_the-big-picture-red-sea-reopening_img_image002_c72373888309.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-04_the-big-picture-red-sea-reopening_img_image002_c72373888309.png)
+> [Local Asset](assets/2025-12-04_the-big-picture-red-sea-reopening_img_image002_c72373888309.png)
 
 Although trade between the East and the Atlantic had increased by 9% because of the Russian war, it declined 8% yoy in 2024 with the Red Sea closure, wiping out most of the gains from the new trade routes. The reroute around the Cape of Good Hope was costly. A voyage from the Middle East-to-Europe around the Cape is about 15 days longer than one through the Suez Canal, raising freight costs.
 

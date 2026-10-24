@@ -34,7 +34,7 @@ Among them, domestic loans were 717.5 billion yuan, down 10.5 percent; the utili
 ![1 (2)](assets/2023-06-26_ob4d1fbja62l66yhamd2r2xv5ttewg_img_128229_8c3a9268b24a.png)
 
 > **Figure 1: 1 (2)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-26_ob4d1fbja62l66yhamd2r2xv5ttewg_img_128229_8c3a9268b24a.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-06-26_ob4d1fbja62l66yhamd2r2xv5ttewg_img_128229_8c3a9268b24a.png)
 
 In an effort to boost flagging economic growth and support China’s vast real estate sector, the People’s Bank of China cut two more key lending rates this week for the first time in 10 months. The Chinese central bank cut the one-year loan prime rate by 10 basis points from 3.65 percent to 3.55 percent, and trimmed the five-year loan prime rate from 4.3 percent to 4.2 percent – for the first time since August. The latest rate cut came on the heels of two monetary easing moves last week. Last Thursday, the PBOC cut its one-year medium-term loan facility for the first time in 10 months, and lowered its seven-day reverse repurchase rate.
 
@@ -43,6 +43,6 @@ Dry bulk market and commodities had a mixed reaction to the latest stimulus meas
 ![1 (3)](assets/2023-06-26_ob4d1fbja62l66yhamd2r2xv5ttewg_img_128329_f9de5b06047e.png)
 
 > **Figure 2: 1 (3)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-06-26_ob4d1fbja62l66yhamd2r2xv5ttewg_img_128329_f9de5b06047e.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-06-26_ob4d1fbja62l66yhamd2r2xv5ttewg_img_128329_f9de5b06047e.png)
 
 Data source:[Doric](https://www.doric.gr/)

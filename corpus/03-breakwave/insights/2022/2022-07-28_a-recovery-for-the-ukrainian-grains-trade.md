@@ -34,7 +34,7 @@ Despite the difficulties that the Ukrainian exporters are facing, the deal has t
 ![1](assets/2022-07-28_a-recovery-for-the-ukrainian-grains-trade_img_1_5bc3d7d33755.png)
 
 > **Figure 1: 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-28_a-recovery-for-the-ukrainian-grains-trade_img_1_5bc3d7d33755.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-07-28_a-recovery-for-the-ukrainian-grains-trade_img_1_5bc3d7d33755.png)
 
 *Source: Shipfix*
 
@@ -43,7 +43,7 @@ Another interesting development is that, despite the rising cargo order volumes,
 ![Agri Cargoes Loading Ukraine 0726 Nbr of Cargoes](assets/2022-07-28_a-recovery-for-the-ukrainian-grains-trade_img_agricargoesloadingukraine0726nbrofca_3a703b2036e8.png)
 
 > **Figure 2: Agri Cargoes Loading Ukraine 0726 Nbr of Cargoes**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-28_a-recovery-for-the-ukrainian-grains-trade_img_agricargoesloadingukraine0726nbrofca_3a703b2036e8.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-07-28_a-recovery-for-the-ukrainian-grains-trade_img_agricargoesloadingukraine0726nbrofca_3a703b2036e8.png)
 
 *Source: Shipfix*
 

@@ -64,6 +64,6 @@ Despite the downward trajectory for cargo order volumes for sugar loading in Bra
 ![Market Chart 1](assets/2023-10-05_shipfix-global-market-update_img_unnamed-2023-10-05t125411376_d55c4cb81f06.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-05_shipfix-global-market-update_img_unnamed-2023-10-05t125411376_d55c4cb81f06.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2023-10-05_shipfix-global-market-update_img_unnamed-2023-10-05t125411376_d55c4cb81f06.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

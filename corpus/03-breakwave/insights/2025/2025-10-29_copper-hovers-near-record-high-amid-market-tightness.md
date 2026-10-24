@@ -27,7 +27,7 @@ Sentiment was mixed as traders await details of a US-China trade deal. Copper ga
 ![Στιγμιότυπο Οθόνης 2025 10 29 124121](assets/2025-10-29_copper-hovers-near-record-high-amid-market-tightness_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a05102d03d9.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 10 29 124121**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-29_copper-hovers-near-record-high-amid-market-tightness_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a05102d03d9.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-10-29_copper-hovers-near-record-high-amid-market-tightness_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a05102d03d9.png)
 
 **Copper**steadied near its record high, as investors waited to see whether the US and China would finalise a much-anticipated trade deal. Negotiators have reached tentative agreements on issues such as tariffs, shipping fees and export controls. However, details remain vague. Copper has been supported by renewed supply side issues in recent months. There were fresh setbacks yesterday, with Anglo American warning that copper production at its Collahuasi mine in Chile will likely be lower than expected next year. Its 2026 output plans have been reduced from 470kt to between 380-410kt. This adds to an already tight market. The outlook for demand also brightened in Europe. Car sales in the region rose for a third consecutive month in September. New vehicle registrations increased 11% y/y to 1.24m units. Sales of electric vehicles jumped by a third amid robust demand for more affordable models.
 
@@ -46,7 +46,7 @@ The amount of crude oil held on tankers that have been stationary for at least 7
 ![Στιγμιότυπο Οθόνης 2025 10 29 124219](assets/2025-10-29_copper-hovers-near-record-high-amid-market-tightness_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7407863f6c24.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 10 29 124219**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-29_copper-hovers-near-record-high-amid-market-tightness_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7407863f6c24.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-10-29_copper-hovers-near-record-high-amid-market-tightness_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7407863f6c24.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

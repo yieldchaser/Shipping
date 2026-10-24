@@ -26,7 +26,7 @@ China’s retail sales in October grew year-on-year by 7.6%. This marked the hig
 ![Chart 1 (91)](assets/2024-01-03_overall-consumption-in-china-remains-strong-but-furniture-sales-continue-to-cont_img_chart1289129_92c654348a29.jpg)
 
 > **Figure 1: Chart 1 (91)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-03_overall-consumption-in-china-remains-strong-but-furniture-sales-continue-to-cont_img_chart1289129_92c654348a29.jpg)
+> [Local Asset](assets/2024-01-03_overall-consumption-in-china-remains-strong-but-furniture-sales-continue-to-cont_img_chart1289129_92c654348a29.jpg)
 
 As we have been highlighting in Commodore's Weekly China Reports, it remains very significant that Chinese consumers continue to buy more goods than they did a year ago. The same cannot unfortunately be said about consumers in many other major economies including the United States and Europe. In Europe, each of the last nineteen months have seen European consumers buy less goods than they did one year prior. In the United States, ten of the last twelve months have seen American consumers buy less goods than they did one year prior. China remains a rare major economy where consumption on the consumer side is actually growing.
 
@@ -35,4 +35,4 @@ As we also have been highlighting in Commodore's Weekly China Reports, also rema
 ![Chart 2 (80)](assets/2024-01-03_overall-consumption-in-china-remains-strong-but-furniture-sales-continue-to-cont_img_chart2288029_7a80b4c411d1.jpg)
 
 > **Figure 2: Chart 2 (80)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-03_overall-consumption-in-china-remains-strong-but-furniture-sales-continue-to-cont_img_chart2288029_7a80b4c411d1.jpg)
+> [Local Asset](assets/2024-01-03_overall-consumption-in-china-remains-strong-but-furniture-sales-continue-to-cont_img_chart2288029_7a80b4c411d1.jpg)

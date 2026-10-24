@@ -34,7 +34,7 @@ For the first sub-problem you can actually try the brutal force solution of any 
 ![Signal Ocean Tackles Complex Ship Prediction with Novel Approach](../../images/607e8f6ba71217d7e41a484b_PatentApproved.png)
 
 > **Figure 1: Signal Ocean Tackles Complex Ship Prediction with Novel Approach**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/signals-forecasting) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/607e8f6ba71217d7e41a484b_PatentApproved.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/signals-forecasting) | [Local Asset](../../images/607e8f6ba71217d7e41a484b_PatentApproved.png)
 
 Having generated the search space is only half the story. The story is not complete until you select the one solution in the set that best matches your data, taking into consideration that the data itself is “untrustworthy”, “conflicting”, “noisy”, “ambiguous” and “incomplete”. In other words, all the bad data words you can find in all of the data science papers combined. Again here using a lot of business knowledge and appropriate handling of all data formats, that range from gps readings of the ship’s locations to ship open ports advertised over “what’s app”, we designed a sorting algorithm that selected the best path more than 95% of the time. More than 40 different statistical models and advanced algorithms have been combined to reach such a high level of accuracy.
 

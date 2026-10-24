@@ -30,7 +30,7 @@ Iron ore market fundamentals softened further in July as Chinese steel demand re
 ![Στιγμιότυπο Οθόνης 2026 08 12 093226](assets/2026-08-12_chinese-port-stocks-rise-further-as-steel-demand-softens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_44894c87413d.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 08 12 093226**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-12_chinese-port-stocks-rise-further-as-steel-demand-softens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_44894c87413d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-08-12_chinese-port-stocks-rise-further-as-steel-demand-softens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_44894c87413d.png)
 
 Global seaborne bulk iron ore flows reached 145 mt in July 2026, down 1% on the same period last year, but over 5% lower than the previous month. Flows to the largest seaborne bulk importer, China, increased by 2% to reach 108.2 mt. June remains the only month so far in 2026 when China imported less iron ore than the year earlier. Iron ore flows destined for ports outside of China fell by over 6% year-on-year, indicating weak demand from the steel industry.
 
@@ -39,7 +39,7 @@ Exports from the Simandou project have slowed over the past two months after pea
 ![Στιγμιότυπο Οθόνης 2026 08 12 093240](assets/2026-08-12_chinese-port-stocks-rise-further-as-steel-demand-softens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3064916af09e.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 08 12 093240**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-12_chinese-port-stocks-rise-further-as-steel-demand-softens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3064916af09e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-08-12_chinese-port-stocks-rise-further-as-steel-demand-softens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3064916af09e.png)
 
 The latest Chinese crude steel production figures from NBS show the country is running 3% behind the volume produced at the same point last year. However, June’s monthly figure, the latest available, did show a jump of 20% from that of May, rising to 24.3% if comparing it on a daily production basis. Chinese iron ore port stocks remain elevated, having risen over the last two weeks of July to 174 mt, more than 22% higher than the same period a year earlier.
 
@@ -50,7 +50,7 @@ Despite the expected slowdown in iron ore demand going forward, the capesize mar
 ![Στιγμιότυπο Οθόνης 2026 08 12 093254](assets/2026-08-12_chinese-port-stocks-rise-further-as-steel-demand-softens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8f075e0a607d.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 08 12 093254**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-12_chinese-port-stocks-rise-further-as-steel-demand-softens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8f075e0a607d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-08-12_chinese-port-stocks-rise-further-as-steel-demand-softens_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8f075e0a607d.png)
 
 ## Market Continues to Be Shaped by Slower Ore Demand But Stronger Tonne-Miles
 

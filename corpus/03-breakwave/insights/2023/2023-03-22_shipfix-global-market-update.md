@@ -56,6 +56,6 @@ Asia, and in particular China and the Far East, remains the destination for a la
 ![Market Chart 1](assets/2023-03-22_shipfix-global-market-update_img_unnamed-2023-03-22t130845118_7de385971a9e.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-22_shipfix-global-market-update_img_unnamed-2023-03-22t130845118_7de385971a9e.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2023-03-22_shipfix-global-market-update_img_unnamed-2023-03-22t130845118_7de385971a9e.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

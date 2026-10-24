@@ -27,7 +27,7 @@ The latest release of gross domestic product (GDP) data from the Chinese Nationa
 ![Ch1](assets/2021-10-19_chinese-economy-the-warning-lights-are-flashing_img_ch1_b4bb7e76403c.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-19_chinese-economy-the-warning-lights-are-flashing_img_ch1_b4bb7e76403c.png)
+> [Local Asset](assets/2021-10-19_chinese-economy-the-warning-lights-are-flashing_img_ch1_b4bb7e76403c.png)
 
 The lower than expected GDP growth reflects a range of factors, including Beijing’s policies to scale back stimulus and more ambitious environmental protection measures. In addition, the problems in the real estate sector, soaring energy prices and reduced electricity supplies have weighed on economic activities in the third quarter.
 
@@ -44,14 +44,14 @@ As the Chinese economy is coming under pressure, the country’s appetite for im
 ![Ch2](assets/2021-10-19_chinese-economy-the-warning-lights-are-flashing_img_ch2_f4e202805863.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-19_chinese-economy-the-warning-lights-are-flashing_img_ch2_f4e202805863.png)
+> [Local Asset](assets/2021-10-19_chinese-economy-the-warning-lights-are-flashing_img_ch2_f4e202805863.png)
 
 Despite the significant drop in dry bulk shipments heading for China, seaborne exports to other destinations have held up well. While global export volumes fell by 21 million tonnes between August and September, the drop was less than the exports for China, with the rest of the world offsetting eight million tonnes of the Chinese losses. The current month also appears to be on course to match last month’s volumes, suggesting that the momentum behind the continued global recovery is shifting away from China.
 
 ![Ch3](assets/2021-10-19_chinese-economy-the-warning-lights-are-flashing_img_ch3_5dcdd6c9580f.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-19_chinese-economy-the-warning-lights-are-flashing_img_ch3_5dcdd6c9580f.png)
+> [Local Asset](assets/2021-10-19_chinese-economy-the-warning-lights-are-flashing_img_ch3_5dcdd6c9580f.png)
 
 ---
 

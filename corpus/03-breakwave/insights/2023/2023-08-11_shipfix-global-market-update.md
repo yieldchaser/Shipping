@@ -64,6 +64,6 @@ After a brief spike in average cargo sizes for bauxite bound for China in the mi
 ![Market Chart 1](assets/2023-08-11_shipfix-global-market-update_img_unnamed-2023-08-10t161955601_9611fb4a54c2.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-11_shipfix-global-market-update_img_unnamed-2023-08-10t161955601_9611fb4a54c2.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2023-08-11_shipfix-global-market-update_img_unnamed-2023-08-10t161955601_9611fb4a54c2.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

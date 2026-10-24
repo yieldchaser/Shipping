@@ -62,6 +62,6 @@ While a few days remain of the current month, the cargo order volumes for copper
 ![Market Chart 1](assets/2023-01-27_bcz4siu9r2ohgqhpy0262q9yic3nkm_img_unnamed-2023-01-27t145129171_9c0a138d2725.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-27_bcz4siu9r2ohgqhpy0262q9yic3nkm_img_unnamed-2023-01-27t145129171_9c0a138d2725.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2023-01-27_bcz4siu9r2ohgqhpy0262q9yic3nkm_img_unnamed-2023-01-27t145129171_9c0a138d2725.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

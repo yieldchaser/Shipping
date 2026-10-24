@@ -30,7 +30,7 @@ In the iron ore market, Dalian iron ore futures prices extended gains after Luna
 ![Market Chart 1](assets/2023-02-02_signal-dry-bulk-weekly-report_img_unnamed-2023-02-02t111022545_c291c4157b78.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2nl8ky/299943724?h=NgU40zOsHxEAvlL_ZCf3dwCk1S9HjUgml7lSOp33kYA) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-02_signal-dry-bulk-weekly-report_img_unnamed-2023-02-02t111022545_c291c4157b78.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2nl8ky/299943724?h=NgU40zOsHxEAvlL_ZCf3dwCk1S9HjUgml7lSOp33kYA) | [Local Asset](assets/2023-02-02_signal-dry-bulk-weekly-report_img_unnamed-2023-02-02t111022545_c291c4157b78.png)
 
 Data Source: The Signal Ocean Platform, Dry Bulk Coal Flows from the U.S.
 
@@ -43,7 +43,7 @@ Data Source: The Signal Ocean Platform, Dry Bulk Coal Flows from the U.S.
 ![Market Chart 2](assets/2023-02-02_signal-dry-bulk-weekly-report_img_unnamed-2023-02-02t111111729_1c0b21c12865.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-02_signal-dry-bulk-weekly-report_img_unnamed-2023-02-02t111111729_1c0b21c12865.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-02-02_signal-dry-bulk-weekly-report_img_unnamed-2023-02-02t111111729_1c0b21c12865.png)
 
 January ended with slight signs of a gradual recovery in freight rates, which, however, still show a weakening momentum compared to the recent peak at the end of last year.
 
@@ -57,7 +57,7 @@ January ended with slight signs of a gradual recovery in freight rates, which, h
 ![Supply Trend Lines for Key Load Areas](assets/2023-02-02_signal-dry-bulk-weekly-report_img_unnamed-2023-02-02t111147814_cd82e54e58d3.png)
 
 > **Figure 3: Supply Trend Lines for Key Load Areas**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-02_signal-dry-bulk-weekly-report_img_unnamed-2023-02-02t111147814_cd82e54e58d3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-02-02_signal-dry-bulk-weekly-report_img_unnamed-2023-02-02t111147814_cd82e54e58d3.png)
 
 The number of ballast ships increased significantly at the end of January, with the surprising upward trend accelerating in the Panamax and Handysize segments.
 
@@ -71,7 +71,7 @@ The number of ballast ships increased significantly at the end of January, with 
 ![TonDays Decreasing](assets/2023-02-02_signal-dry-bulk-weekly-report_img_unnamed-2023-02-02t111226291_50ada2ed44f5.png)
 
 > **Figure 4: TonDays Decreasing**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-02_signal-dry-bulk-weekly-report_img_unnamed-2023-02-02t111226291_50ada2ed44f5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-02-02_signal-dry-bulk-weekly-report_img_unnamed-2023-02-02t111226291_50ada2ed44f5.png)
 
 Demand growth continues to slow significantly, with early signs of a slight upward trend in the Panamax segment, while the decline in the Handysize and Capesize segments is very strong.
 
@@ -85,7 +85,7 @@ Demand growth continues to slow significantly, with early signs of a slight upwa
 ![Dry Bulk Ships Congested at Chinese Ports](assets/2023-02-02_signal-dry-bulk-weekly-report_img_unnamed-2023-02-02t111303199_cb1b852de256.png)
 
 > **Figure 5: Dry Bulk Ships Congested at Chinese Ports**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-02_signal-dry-bulk-weekly-report_img_unnamed-2023-02-02t111303199_cb1b852de256.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-02-02_signal-dry-bulk-weekly-report_img_unnamed-2023-02-02t111303199_cb1b852de256.png)
 
 Demand growth continues to slow significantly, with early signs of a slight upward trend in the Panamax segment, while the decline in the Handysize and Capesize segments is very strong.
 
@@ -99,7 +99,7 @@ Demand growth continues to slow significantly, with early signs of a slight upwa
 ![Market Chart 6](assets/2023-02-02_signal-dry-bulk-weekly-report_img_unnamed-2023-02-02t111303199_cb1b852de256.png)
 
 > **Figure 6: Market Chart 6**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-02_signal-dry-bulk-weekly-report_img_unnamed-2023-02-02t111303199_cb1b852de256.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2023-02-02_signal-dry-bulk-weekly-report_img_unnamed-2023-02-02t111303199_cb1b852de256.png)
 
 In the last days of January, congestion continued to increase but remained below the peak of week 52 last year.
 

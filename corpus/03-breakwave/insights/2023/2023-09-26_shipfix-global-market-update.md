@@ -62,6 +62,6 @@ An increase in vessel supply also contributed to the relative weakness of the Pa
 ![Market Chart 1](assets/2023-09-26_shipfix-global-market-update_img_unnamed-2023-09-26t100723286_63f0849523be.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-26_shipfix-global-market-update_img_unnamed-2023-09-26t100723286_63f0849523be.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2023-09-26_shipfix-global-market-update_img_unnamed-2023-09-26t100723286_63f0849523be.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

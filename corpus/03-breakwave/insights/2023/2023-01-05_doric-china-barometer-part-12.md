@@ -33,7 +33,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-05_doric-china-barometer
 ![1 (2)](assets/2023-01-05_doric-china-barometer-part-12_img_128229_9da8bc7130aa.png)
 
 > **Figure 1: 1 (2)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-05_doric-china-barometer-part-12_img_128229_9da8bc7130aa.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-01-05_doric-china-barometer-part-12_img_128229_9da8bc7130aa.png)
 
 ## Price Environment
 
@@ -47,7 +47,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-05_doric-china-barometer
 ![1 (3)](assets/2023-01-05_doric-china-barometer-part-12_img_128329_2089e3ebb0bb.png)
 
 > **Figure 2: 1 (3)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-05_doric-china-barometer-part-12_img_128329_2089e3ebb0bb.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-01-05_doric-china-barometer-part-12_img_128329_2089e3ebb0bb.png)
 
 ## Manufacturing 1/2
 
@@ -61,7 +61,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-05_doric-china-barometer
 ![1 (4)](assets/2023-01-05_doric-china-barometer-part-12_img_128429_140c6b926021.png)
 
 > **Figure 3: 1 (4)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-05_doric-china-barometer-part-12_img_128429_140c6b926021.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-01-05_doric-china-barometer-part-12_img_128429_140c6b926021.png)
 
 ## Manufacturing 2/2
 
@@ -75,7 +75,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-05_doric-china-barometer
 ![1 (5)](assets/2023-01-05_doric-china-barometer-part-12_img_128529_741858f26578.png)
 
 > **Figure 4: 1 (5)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-05_doric-china-barometer-part-12_img_128529_741858f26578.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-01-05_doric-china-barometer-part-12_img_128529_741858f26578.png)
 
 ## Energy 1/2
 
@@ -89,7 +89,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-05_doric-china-barometer
 ![1 (6)](assets/2023-01-05_doric-china-barometer-part-12_img_128629_1466529e7fe6.png)
 
 > **Figure 5: 1 (6)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-05_doric-china-barometer-part-12_img_128629_1466529e7fe6.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-01-05_doric-china-barometer-part-12_img_128629_1466529e7fe6.png)
 
 ## Energy 2/2
 
@@ -103,7 +103,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-05_doric-china-barometer
 ![1 (7)](assets/2023-01-05_doric-china-barometer-part-12_img_128729_49b334904ae7.png)
 
 > **Figure 6: 1 (7)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-05_doric-china-barometer-part-12_img_128729_49b334904ae7.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-01-05_doric-china-barometer-part-12_img_128729_49b334904ae7.png)
 
 Part 2/2 will be published tomorrow.
 

@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-07-30_is-chinas-crude-craze
 ![Crude Tanker](assets/2024-07-30_is-chinas-crude-craze-over_img_crude-tanker_fb6f869b3cec.jpg)
 
 > **Figure 1: Crude Tanker**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-30_is-chinas-crude-craze-over_img_crude-tanker_fb6f869b3cec.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-07-30_is-chinas-crude-craze-over_img_crude-tanker_fb6f869b3cec.jpg)
 
 China saw an impressive rebound in crude imports last year, driven by the country’s post-Covid economic recovery. However, the picture is different this year, with average crude shipments into the country somewhat slipping, down by 50 kbd during the 1st half of the year, compared to the same period in 2023.
 
@@ -40,7 +40,7 @@ The longer-term outlook, however, is more uncertain. Chinese oil demand is expec
 ![Στιγμιότυπο Οθόνης 2024 07 30 141427](assets/2024-07-30_is-chinas-crude-craze-over_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c4768bba09c8.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 07 30 141427**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-30_is-chinas-crude-craze-over_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c4768bba09c8.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-07-30_is-chinas-crude-craze-over_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c4768bba09c8.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

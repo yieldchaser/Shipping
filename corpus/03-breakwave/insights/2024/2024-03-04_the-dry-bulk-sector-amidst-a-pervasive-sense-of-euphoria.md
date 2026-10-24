@@ -29,7 +29,7 @@ Amidst a pervasive sense of euphoria, the dry bulk sector concluded February at 
 ![Screenshot 2024 03 04 11.07.20](assets/2024-03-04_the-dry-bulk-sector-amidst-a-pervasive-sense-of-euphoria_img_screenshot2024-03-04110720_0db61323e7c7.png)
 
 > **Figure 1: Screenshot 2024 03 04 11.07.20**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-04_the-dry-bulk-sector-amidst-a-pervasive-sense-of-euphoria_img_screenshot2024-03-04110720_0db61323e7c7.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-03-04_the-dry-bulk-sector-amidst-a-pervasive-sense-of-euphoria_img_screenshot2024-03-04110720_0db61323e7c7.png)
 
 In stark contrast to the upbeat sentiment in the spot market of late, the outlook from the macroeconomic and macro-commodity fronts is less optimistic. Indeed, steelmakers are kicking off 2024 at a slower pace. World crude steel production for the 71 countries reporting to the World Steel Association totaled 148.1 million tonnes in January 2024, reflecting a 1.6 percent decrease compared to January 2023. The leading Chinese mills were estimated to have produced 77.2 million metric tonnes of steel in January, marking a 6.9 percent drop compared to the 83 million metric tonnes churned out in the first month of 2023, according to the same source. Among the top 10 largest steel-producing member nations of Worldsteel, Brazil also experienced a year-on-year production decline, down 7.2 percent this January. The United States and Germany reported production losses as well, at 6.8 and 2.9 million tonnes, respectively. On the other hand, India, an important buyer of US and European scrap, started the year on a positive note, with its estimated output of 12.5 million tonnes surpassing last January’s figure by 7.3 percent. Offering encouragement to both the ferrous scrap and steel markets, mills in Turkey, which are largely scrap-fed electric arc furnace operators, produced 24.7 percent more steel this January.
 
@@ -38,14 +38,14 @@ Regarding China, alongside a subdued start to its extensive steel industry, manu
 ![Screenshot 2024 03 04 11.07.26](assets/2024-03-04_the-dry-bulk-sector-amidst-a-pervasive-sense-of-euphoria_img_screenshot2024-03-04110726_a116adce103f.png)
 
 > **Figure 2: Screenshot 2024 03 04 11.07.26**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-04_the-dry-bulk-sector-amidst-a-pervasive-sense-of-euphoria_img_screenshot2024-03-04110726_a116adce103f.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-03-04_the-dry-bulk-sector-amidst-a-pervasive-sense-of-euphoria_img_screenshot2024-03-04110726_a116adce103f.png)
 
 Despite the poor data resulting from sluggish momentum as factory activity slowed and holiday disruptions, Baltic indices seem to be exhibiting an unusual buoyancy of late. However, looking forward, China is confronting a slew of challenges to maintaining economic stability, ranging from the indebted property sector to the risks of deflation stemming from weak domestic demand. Against this backdrop, the annual meetings in Beijing, known as the "two sessions," are set to commence on Monday. Led by Chinese President Xi Jinping, these events typically yield significant policy announcements, including the gross domestic product (GDP) target for the year. Many analysts have anticipated that Beijing will set the GDP growth target at 5 percent, mirroring last year's figure. However, despite this expectation, the forward curves of the dry bulk shipping, being in backwardation, have yet to be convinced that this rate is attainable, at least without a substantial well-designed stimulus package.
 
 ![Screenshot 2024 03 04 11.07.56](assets/2024-03-04_the-dry-bulk-sector-amidst-a-pervasive-sense-of-euphoria_img_screenshot2024-03-04110756_a62ceab6b654.png)
 
 > **Figure 3: Screenshot 2024 03 04 11.07.56**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-04_the-dry-bulk-sector-amidst-a-pervasive-sense-of-euphoria_img_screenshot2024-03-04110756_a62ceab6b654.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-03-04_the-dry-bulk-sector-amidst-a-pervasive-sense-of-euphoria_img_screenshot2024-03-04110756_a62ceab6b654.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

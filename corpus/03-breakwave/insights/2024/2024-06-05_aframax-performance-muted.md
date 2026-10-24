@@ -27,12 +27,12 @@ This week, in the East, we investigate which vessels are transiting the Red Sea,
 ![Στιγμιότυπο Οθόνης 2024 06 05 165215](assets/2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7e1def240e0e.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 06 05 165215**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGThsJzzWR4PpxMS0ioP1iZtYqJOmr_iVXpFr1LtFlBCeEVGaoCPZS0yTaRp_0lQBkphWG0P1I=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7e1def240e0e.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGThsJzzWR4PpxMS0ioP1iZtYqJOmr_iVXpFr1LtFlBCeEVGaoCPZS0yTaRp_0lQBkphWG0P1I=) | [Local Asset](assets/2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7e1def240e0e.png)
 
 ![Στιγμιότυπο Οθόνης 2024 06 05 165233](assets/2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_92571230fc65.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 06 05 165233**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGThsJzzWR4PpxMS0ioP1iZtYqJOmr_iVXpFr1LtFlBCeEVGaoCPZS0yTaRp_0lQBkphWG0P1I=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_92571230fc65.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGThsJzzWR4PpxMS0ioP1iZtYqJOmr_iVXpFr1LtFlBCeEVGaoCPZS0yTaRp_0lQBkphWG0P1I=) | [Local Asset](assets/2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_92571230fc65.png)
 
 - As we approach six months since avoiding a Red Sea transit became the new norm for most of the tanker market, has anything changed? We used our[fleet distribution data](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGThsJzzWR4PpxMS0ioP1iZtYqJOmr_iVXpFr1LtFlBCeEVGaoCPZS0yTaRp_0lQBkphWG0P1I=)to take a snapshot of and categorise all vessels which transited the Bab-el-Mandeb during a recent 5-day period (24-28 May).
 
@@ -42,7 +42,7 @@ This week, in the East, we investigate which vessels are transiting the Red Sea,
 ![Στιγμιότυπο Οθόνης 2024 06 05 165534](assets/2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2dd083b35173.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 06 05 165534**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGThsJzziIy3G0TB_g2ixIuc9ZLx6D4MzLPNffxDaVxNnsaAahpm2dOJqafXzNrG6c3q6rncdk=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2dd083b35173.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGThsJzziIy3G0TB_g2ixIuc9ZLx6D4MzLPNffxDaVxNnsaAahpm2dOJqafXzNrG6c3q6rncdk=) | [Local Asset](assets/2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2dd083b35173.png)
 
 - A[growing number of LRs are ballasting out of Europe towards the Middle East](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGThsJzziIy3G0TB_g2ixIuc9ZLx6D4MzLPNffxDaVxNnsaAahpm2dOJqafXzNrG6c3q6rncdk=)in recent weeks, a trend that is likely driven by a saturation of vessel supply in Europe and improved tanker earnings in the Middle East. Robust LR demand in the Middle East has been supported by strong clean product exports out of the region,[with volumes in May reaching 5.58mbd](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGThsJzzT5UO3GiGhhNhY0PI-3spI3oVJ1qpBnpvQ-6hANPiKDj7wZgQUoA3wZyaqEsvgkbLG4=), the second highest month since last September.
 
@@ -52,7 +52,7 @@ This week, in the East, we investigate which vessels are transiting the Red Sea,
 ![Στιγμιότυπο Οθόνης 2024 06 05 170208](assets/2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c691c148f63.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 06 05 170208**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGThsJzzoADmjf1rXYuge5wgOe8GOZP-GYu62hhmoJN3mQgn7ZwQ_8eKp3N8Uu97FnSH-mZ0Po=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c691c148f63.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGThsJzzoADmjf1rXYuge5wgOe8GOZP-GYu62hhmoJN3mQgn7ZwQ_8eKp3N8Uu97FnSH-mZ0Po=) | [Local Asset](assets/2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c691c148f63.png)
 
 - Aframax is the only vessel class performing worse than last year. The reasons for the fall are varied: mostly higher parcelling requirements for flows to Europe and out of Russia, and sanctioning keeping Aframax employment subdued.
 
@@ -62,7 +62,7 @@ This week, in the East, we investigate which vessels are transiting the Red Sea,
 ![Στιγμιότυπο Οθόνης 2024 06 05 170319](assets/2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5951b93b9c67.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 06 05 170319**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGThsJzzbwKmY-ufvxrSxMPF1QO2_ybCL7AMSiTOaJpcihFztN7dS_7OYhLgvjFv9LLz44WUok=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5951b93b9c67.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGThsJzzbwKmY-ufvxrSxMPF1QO2_ybCL7AMSiTOaJpcihFztN7dS_7OYhLgvjFv9LLz44WUok=) | [Local Asset](assets/2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5951b93b9c67.png)
 
 - [Panama transits have edged upwards](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGThsJzzbwKmY-ufvxrSxMPF1QO2_ybCL7AMSiTOaJpcihFztN7dS_7OYhLgvjFv9LLz44WUok=)once again, after a downward trajectory due to low water levels in Q4 2023. The comeback in transit numbers is allowing for higher MR fluidity, with vessels heading to the Atlantic amidst the summer driving season. However, these levels are still dwarfed (down 35%) when compared to 2022 levels.
 

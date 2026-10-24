@@ -27,7 +27,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-18_metals-gains-as-signs
 ![Screenshot 2024 03 18 17.40.42](assets/2024-03-18_metals-gains-as-signs-of-tightness-strengthen_img_screenshot2024-03-18174042_f3b06d28b1be.png)
 
 > **Figure 1: Screenshot 2024 03 18 17.40.42**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/soni-kumari-caia-20638717/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-18_metals-gains-as-signs-of-tightness-strengthen_img_screenshot2024-03-18174042_f3b06d28b1be.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/soni-kumari-caia-20638717/) | [Local Asset](assets/2024-03-18_metals-gains-as-signs-of-tightness-strengthen_img_screenshot2024-03-18174042_f3b06d28b1be.png)
 
 **Crude oil**pushed higher last week as confidence grows of increasing tightness in the market. The International Energy Agency warned of a supply deficit in the market, a change from its previous estimate of a surplus. It revised up its demand growth forecast to 1.3mb/d from 1.2mb/d for 2024 due to stronger than expected demand. That was evident in data that showed US inventories recorded their first weekly decline this year, according to the Energy Information Administration. Geopolitical risks also remain elevated. Ukrainian drone attacks took out three Russian refineries last week, which account for 12% of Russia’s total oil processing capacity. This has seen refinery margins pick up amid tighter availability of oil products in Europe.
 

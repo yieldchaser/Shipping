@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-09-01_weather-normalization
 ![Ship16](assets/2020-09-01_weather-normalization-negatively-affecting-rates_img_ship16_80cce75b5324.jpg)
 
 > **Figure 1: Ship16**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-01_weather-normalization-negatively-affecting-rates_img_ship16_80cce75b5324.jpg)
+> [Local Asset](assets/2020-09-01_weather-normalization-negatively-affecting-rates_img_ship16_80cce75b5324.jpg)
 
 Freight futures across the board took a dive today, as the tightness and caution of last week due to a couple of weather systems in North China that were causing delays, faded. With the market now normalizing, a number of market participants felt more comfortable to hedge forward positions with futures that have been relatively stable for the past few weeks and, as a result, selling pressure across all asset classes pushed futures at the low end of their recent trading range.
 
@@ -33,7 +33,7 @@ Yet, we don’t foresee further aggressive moves on freight futures for now, des
 
 > **Figure 2: Baltic Dry Index**  
 > *Chart: Baltic Dry Index*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-01_weather-normalization-negatively-affecting-rates_img_braemarsep1_94dfa7607b2d.png)
+> [Local Asset](assets/2020-09-01_weather-normalization-negatively-affecting-rates_img_braemarsep1_94dfa7607b2d.png)
 
 The next four months will be exciting for dry bulk shipping, since this time around, there is no clear direction similar to other years as we enter the seasonally strong period of the year. Iron ore export volumes remain strong, coal inventories in China low, while grain exports out of the US are once again at record high levels. On the other hand, ex-China, demand for bulk commodities remain weak and thus is not absorbing the marginal vessel supply to significantly tighten the market.
 
@@ -44,7 +44,7 @@ All the above makes it a compelling trading environment for market participants,
 ![BDI](assets/2020-09-01_weather-normalization-negatively-affecting-rates_img_bdi_23a641bdc767.jpg)
 
 > **Figure 3: BDI**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-01_weather-normalization-negatively-affecting-rates_img_bdi_23a641bdc767.jpg)
+> [Local Asset](assets/2020-09-01_weather-normalization-negatively-affecting-rates_img_bdi_23a641bdc767.jpg)
 
 ---
 

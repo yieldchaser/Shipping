@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-03-17_shipping-is-at-the-ce
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-17_shipping-is-at-the-centre-of-the-adjustment_img_unsplash-image-ceibpffctha_0ffc288a5ac1.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](assets/2026-03-17_shipping-is-at-the-centre-of-the-adjustment_img_unsplash-image-ceibpffctha_0ffc288a5ac1.jpg)
 
 The conflict in the Arabian Gulf has rapidly evolved from a geopolitical shock into a structural disruption for global energy logistics, forcing the oil market and the tanker industry to adjust in real time. What initially appeared as a military escalation between the US, Israel and Iran has quickly translated into one of the most serious threats to seaborne oil flows in decades. The effective paralysis of shipping linked to the Strait of Hormuz — a corridor through which roughly one fifth of global oil supply normally passes — has pushed governments and market participants into emergency mode, highlighting just how fragile the current energy transport system can be when a single chokepoint becomes compromised.
 

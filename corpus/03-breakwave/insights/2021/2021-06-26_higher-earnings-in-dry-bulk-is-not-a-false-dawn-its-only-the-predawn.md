@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-06-26_higher-earnings-in-dr
 ![Peter Lindstrom](assets/2021-06-26_higher-earnings-in-dry-bulk-is-not-a-false-dawn-its-only-the-predawn_img_peterlindstrom_997354675a15.jpg)
 
 > **Figure 1: Peter Lindstrom**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-26_higher-earnings-in-dry-bulk-is-not-a-false-dawn-its-only-the-predawn_img_peterlindstrom_997354675a15.jpg)
+> [Local Asset](assets/2021-06-26_higher-earnings-in-dry-bulk-is-not-a-false-dawn-its-only-the-predawn_img_peterlindstrom_997354675a15.jpg)
 
 Peter Lindström, Head of Klaveness Research, held a presentation this week for key clients of the company with the all-encompassing title “Dry Bulk Market to remain strong? But for how long… are the surging rates just the predawn, or will new builds spawn, resulting in another false dawn..?”
 
@@ -34,7 +34,7 @@ He argued that while freight rates this year have improved at a very rapid pace,
 ![A1](assets/2021-06-26_higher-earnings-in-dry-bulk-is-not-a-false-dawn-its-only-the-predawn_img_a1_e056571cb9ab.jpg)
 
 > **Figure 2: A1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-26_higher-earnings-in-dry-bulk-is-not-a-false-dawn-its-only-the-predawn_img_a1_e056571cb9ab.jpg)
+> [Local Asset](assets/2021-06-26_higher-earnings-in-dry-bulk-is-not-a-false-dawn-its-only-the-predawn_img_a1_e056571cb9ab.jpg)
 
 ### 2) Trade Development Main Dry Bulk Commodities
 
@@ -43,7 +43,7 @@ In the first five months of 2021, the total demand* for dry bulk vessels is up 8
 ![A2](assets/2021-06-26_higher-earnings-in-dry-bulk-is-not-a-false-dawn-its-only-the-predawn_img_a2_8d0a9e97946a.jpg)
 
 > **Figure 3: A2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-26_higher-earnings-in-dry-bulk-is-not-a-false-dawn-its-only-the-predawn_img_a2_8d0a9e97946a.jpg)
+> [Local Asset](assets/2021-06-26_higher-earnings-in-dry-bulk-is-not-a-false-dawn-its-only-the-predawn_img_a2_8d0a9e97946a.jpg)
 
 On the grain side of things, demand for commodities continues to grow as the global population increases and as developing economies switch to a more protein rich diet. On top of these generally supportive trends, the trade in 2020 and 2021 has been boosted by rapid growth in Chinese demand of commodities as the pig herd in the country recovered after the African Swine Flu.
 
@@ -60,7 +60,7 @@ Lindström is confident that the supply growth up until 2023 will be at historic
 ![A3](assets/2021-06-26_higher-earnings-in-dry-bulk-is-not-a-false-dawn-its-only-the-predawn_img_a3_03ba6a3d23dc.jpg)
 
 > **Figure 4: A3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-26_higher-earnings-in-dry-bulk-is-not-a-false-dawn-its-only-the-predawn_img_a3_03ba6a3d23dc.jpg)
+> [Local Asset](assets/2021-06-26_higher-earnings-in-dry-bulk-is-not-a-false-dawn-its-only-the-predawn_img_a3_03ba6a3d23dc.jpg)
 
 ---
 

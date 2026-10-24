@@ -29,7 +29,7 @@ From 2013 to 2022, Middle East refining capacity expanded by 2.8mbd, but from 20
 ![1 (2)](assets/2023-08-21_end-of-an-era_img_128229_bba01e613f7e.png)
 
 > **Figure 1: 1 (2)**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-21_end-of-an-era_img_128229_bba01e613f7e.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2023-08-21_end-of-an-era_img_128229_bba01e613f7e.png)
 
 With the Middle East story largely concluded, the next stop should be India. However here, issues with acquiring land have prevented new mega projects materialising, with Middle East based investors choosing China instead. Although India is still expected to boost capacity, much of this is likely to be domestically focused, suggesting little upside for product exports in the medium term.
 

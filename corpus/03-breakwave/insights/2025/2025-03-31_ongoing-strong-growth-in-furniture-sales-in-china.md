@@ -27,14 +27,14 @@ As we discussed in Commodore Research's most recent Weekly China Report, Chinaâ€
 ![Chart 1](assets/2025-03-31_ongoing-strong-growth-in-furniture-sales-in-china_img_chart1_f1449334d803.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-31_ongoing-strong-growth-in-furniture-sales-in-china_img_chart1_f1449334d803.jpg)
+> [Local Asset](assets/2025-03-31_ongoing-strong-growth-in-furniture-sales-in-china_img_chart1_f1449334d803.jpg)
 
 During each of the last twenty-six months, retail sales growth in China has come in higher than any inflation. Prior to the last twenty-six months, retail sales came in lower than inflation for four straight months. Of note on the consumer side is that furniture sales, clothing sales, and appliance sales (which includes consumer electronics) again all experienced year-on-year growth. Furniture sales have seen the best year-on-year growth.
 
 ![Chart 2](assets/2025-03-31_ongoing-strong-growth-in-furniture-sales-in-china_img_chart2_178f6024187c.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-31_ongoing-strong-growth-in-furniture-sales-in-china_img_chart2_178f6024187c.jpg)
+> [Local Asset](assets/2025-03-31_ongoing-strong-growth-in-furniture-sales-in-china_img_chart2_178f6024187c.jpg)
 
 ---
 

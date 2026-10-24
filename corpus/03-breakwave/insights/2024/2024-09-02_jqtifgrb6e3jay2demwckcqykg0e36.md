@@ -33,28 +33,28 @@ The Cape segment saw its secondhand values start to climb earlier than the other
 ![Στιγμιότυπο Οθόνης 2024 09 02 141604](assets/2024-09-02_jqtifgrb6e3jay2demwckcqykg0e36_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cdac6261d55b.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 09 02 141604**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-02_jqtifgrb6e3jay2demwckcqykg0e36_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cdac6261d55b.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-09-02_jqtifgrb6e3jay2demwckcqykg0e36_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cdac6261d55b.png)
 
 Secondhand values for P‘maxes started to climb in early spring, in step with a firming to rates occurring in the same period; prices for this segment rose by about 8-9% by May.
 
 ![Στιγμιότυπο Οθόνης 2024 09 02 141615](assets/2024-09-02_jqtifgrb6e3jay2demwckcqykg0e36_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_320b5429d96f.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 09 02 141615**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-02_jqtifgrb6e3jay2demwckcqykg0e36_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_320b5429d96f.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-09-02_jqtifgrb6e3jay2demwckcqykg0e36_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_320b5429d96f.png)
 
 Ultramaxes had a more gradual uptick in hire rates for this period, with a climb in 2nd hand values similar to Pmaxes in timing, brevity, and gradient - amounting to a growth of about 8-9%, as well.
 
 ![Στιγμιότυπο Οθόνης 2024 09 02 141631](assets/2024-09-02_jqtifgrb6e3jay2demwckcqykg0e36_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6f24cfbaef94.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 09 02 141631**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-02_jqtifgrb6e3jay2demwckcqykg0e36_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6f24cfbaef94.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-09-02_jqtifgrb6e3jay2demwckcqykg0e36_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6f24cfbaef94.png)
 
 Handies saw an abrupt ascension in freight rates right around March, with rates staying buoyant thereafter, a characteristic also shared by Ultras (i.e. less volatile and jumpy than Capes and Pmaxes). Secondhand values began climbing in February (similar to the Cape climb, in that their ascent started slightly earlier in the year), and culminated with a 10% increase. The start of the year saw dips in hire rates for Capes, Ultras, and Handies before improving (although the Capes’ path has been bumpier since).
 
 ![Στιγμιότυπο Οθόνης 2024 09 02 141646](assets/2024-09-02_jqtifgrb6e3jay2demwckcqykg0e36_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c49e19baba4c.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 09 02 141646**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-02_jqtifgrb6e3jay2demwckcqykg0e36_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c49e19baba4c.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-09-02_jqtifgrb6e3jay2demwckcqykg0e36_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c49e19baba4c.png)
 
 To summarize, the Capesize and Handysize segments completed longer ascents (that started earlier and culminated later), while Panamaxes and Ultras underwent shorter, quick climbs; although all 4 sizes saw strengthening to secondhand values, much of it coming in the first 5 months of the year and more specifically within the spring season. Sellers have certainly enjoyed the year so far, raking in lofty prices for assets that don’t seem to be earning on par with what buyers are paying. Of course, it is not enough to focus on the numbers we’ve seen in 2024. There is the before and after to all this. What has transpired has, for the most part, been reflected in hire rates. And what follows is left perhaps to conjecture as well as momentum. But it is the current or incumbent condition that has been a complex conundrum to crack.
 

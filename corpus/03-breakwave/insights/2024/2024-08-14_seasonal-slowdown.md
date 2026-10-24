@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-08-14_seasonal-slowdown.htm
 ![Tankers Secondary](assets/2024-08-14_seasonal-slowdown_img_tankers-secondary_0d029e248e3f.jpg)
 
 > **Figure 1: Tankers Secondary**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-14_seasonal-slowdown_img_tankers-secondary_0d029e248e3f.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-08-14_seasonal-slowdown_img_tankers-secondary_0d029e248e3f.jpg)
 
 With most tanker markets currently seeing earnings at their lowest levels this year, the recent stock market chaos, ongoing energy transition and geopolitical risk, many are asking whether this simply represents a seasonal slowdown, or something more systemic.
 
@@ -40,7 +40,7 @@ Whilst the market fundamentals are changing, with slower oil demand growth, heig
 ![Στιγμιότυπο Οθόνης 2024 08 14 152129](assets/2024-08-14_seasonal-slowdown_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2bf29121deb.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 08 14 152129**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-14_seasonal-slowdown_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2bf29121deb.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-08-14_seasonal-slowdown_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2bf29121deb.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

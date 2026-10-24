@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-05-19_the-crude-tanker-mark
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-19_the-crude-tanker-market_img_unsplash-image-zryoqguerti_d362acbfef2f.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](assets/2026-05-19_the-crude-tanker-market_img_unsplash-image-zryoqguerti_d362acbfef2f.jpg)
 
 The crude tanker market in 2026 has undergone one of the most violent earnings transformations in recent memory, driven not by demand expansion but by the physical disruption of the world's most critical oil chokepoint. The first four months of the year tell two sharply distinct stories: a pre-conflict period defined by firm demand and steadily escalating freight, and a conflict-period collapse in seaborne crude volumes that paradoxically drove tanker earnings to historically extreme levels, illustrating, with unusual clarity, the degree to which effective tonnage supply rather than cargo volumes governs short-term rate outcomes.
 

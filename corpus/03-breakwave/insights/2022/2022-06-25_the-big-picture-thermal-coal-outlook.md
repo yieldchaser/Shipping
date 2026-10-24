@@ -30,14 +30,14 @@ The outbreak of war in Eastern Europe and overall tightness in the natural gas m
 ![Market Chart 1](assets/2022-06-25_the-big-picture-thermal-coal-outlook_img_image028329_08cbabddadb5.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-25_the-big-picture-thermal-coal-outlook_img_image028329_08cbabddadb5.png)
+> [Local Asset](assets/2022-06-25_the-big-picture-thermal-coal-outlook_img_image028329_08cbabddadb5.png)
 
 Overall, we see sharper declines in demand in the Panamax sector as opposed to the Capesizes from coal trade out to 2025. This is largely due to the reduction in Chinese imports which is mostly lifted on the Panamaxes. Demand from steam coal voyages on Capesizes is expected to taper off at a slower pace given these vessels are seeing increased interest for Atlantic stems into Europe, where we expect the majority of replacement Russian volumes to come from.
 
 ![Market Chart 2](assets/2022-06-25_the-big-picture-thermal-coal-outlook_img_image128329_4bba287da84e.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-25_the-big-picture-thermal-coal-outlook_img_image128329_4bba287da84e.png)
+> [Local Asset](assets/2022-06-25_the-big-picture-thermal-coal-outlook_img_image128329_4bba287da84e.png)
 
 ### Chinese Imports Lowered
 
@@ -46,7 +46,7 @@ The primary reason we continue to see a decline in seaborne steam coal trade is 
 ![Market Chart 3](assets/2022-06-25_the-big-picture-thermal-coal-outlook_img_image228329_6394ee2b0415.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-25_the-big-picture-thermal-coal-outlook_img_image228329_6394ee2b0415.png)
+> [Local Asset](assets/2022-06-25_the-big-picture-thermal-coal-outlook_img_image228329_6394ee2b0415.png)
 
 Demand for coal, particularly seaborne product, has tapered as lockdowns have reduced energy usage and thus inventories at power plants are now at healthy levels. Looking beyond 2022, we see incremental declines in Chinese steam coal imports as it continues to strive to meet its coal needs from domestic mining. Remaining relatively firm in 2023, we see a sharper decline in 2024 as gas markets stabilise and its price compared to coal becomes more competitive. China is also the largest renewable energy producer in the world, although a minor portion of the country’s power generation, this will continue to grow going forward and replace energy produced from coal.
 
@@ -57,7 +57,7 @@ With European energy supplies approaching critical levels, the bloc has reverted
 ![Market Chart 4](assets/2022-06-25_the-big-picture-thermal-coal-outlook_img_image328429_4d275f25587a.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-06-25_the-big-picture-thermal-coal-outlook_img_image328429_4d275f25587a.png)
+> [Local Asset](assets/2022-06-25_the-big-picture-thermal-coal-outlook_img_image328429_4d275f25587a.png)
 
 ### Outlook
 

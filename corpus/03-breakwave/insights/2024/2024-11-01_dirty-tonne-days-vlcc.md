@@ -31,7 +31,7 @@ Week 44, November 01, 2024
 ![Στιγμιότυπο Οθόνης 2024 11 01 133331](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb50da16332e.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 11 01 133331**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb50da16332e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb50da16332e.png)
 
 This week’s focus highlights a notable decrease in the growth of dirty tonne days throughout this year, reflecting a pace lower than that seen in the previous two years. For VLCCs (Very Large Crude Carriers) operating from the Arabian Gulf to the Far East, there has been a recent rebound, with levels approaching those of October 2023. This resurgence suggests a potential recovery in this trade route.
 
@@ -42,7 +42,7 @@ Looking ahead, the impact of winter demand in November will be crucial in determ
 ![Στιγμιότυπο Οθόνης 2024 11 01 133819](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d031dc6b548c.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 11 01 133819**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d031dc6b548c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d031dc6b548c.png)
 
 ​​​​​Sentiment in the dirty freight market indicated a weak sentiment at the end of the month with signs of improvement in the Suezmax segment.
 
@@ -53,28 +53,28 @@ Looking ahead, the impact of winter demand in November will be crucial in determ
 ![Στιγμιότυπο Οθόνης 2024 11 01 133917](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8fd8310571f3.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 11 01 133917**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8fd8310571f3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8fd8310571f3.png)
 
 - **LR2**AG freight rates held levels around WS105 over the last two weeks of October, representing a 34% decline compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2024 11 01 134008](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5931a50104d7.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 11 01 134008**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5931a50104d7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5931a50104d7.png)
 
 - **Panamax**Carib-to-USG rates have remained stable for over four consecutive weeks, consistently hovering around WS 148. Recent levels reflect a 40% decrease compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2024 11 01 134055](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0acf4d7d9e69.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 11 01 134055**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0acf4d7d9e69.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0acf4d7d9e69.png)
 
 - **MR1**rates for shipments from the Baltic to the continent have displayed a softening trend, closing the month at around WS 140. Despite signs of steady market sentiment, this represents a 20% decline compared to the previous year. Meanwhile,**MR2**rates for shipments from the continent to the US Atlantic Coast (USAC) have dropped to WS 90, reflecting a 40% annual decrease. In contrast, MR2 rates on the US Gulf to Continent route surged to WS 170, demonstrating a 38% increase compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2024 11 01 134142](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d66469a63e41.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2024 11 01 134142**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d66469a63e41.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d66469a63e41.png)
 
 ​​​​​​The supply of crude tankers is exhibiting a complex landscape of signals. In particular, there are discernible signs of a downturn in both the Suezmax market in West Africa and the Aframax market in the Mediterranean. Conversely, VLCC activity at Ras Tanura has begun to indicate a subtle upward trend. However, this potential increase requires validation in early November, as persistent challenges to crude demand growth loom on the horizon as we near the year's end.
 
@@ -86,12 +86,12 @@ Looking ahead, the impact of winter demand in November will be crucial in determ
 ![Στιγμιότυπο Οθόνης 2024 11 01 134447](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a1a1867be789.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2024 11 01 134447**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a1a1867be789.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a1a1867be789.png)
 
 ![Στιγμιότυπο Οθόνης 2024 11 01 134458](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d5962b5b28f.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2024 11 01 134458**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d5962b5b28f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d5962b5b28f.png)
 
 - **Clean LR2 AG Jubail**: The end-of-month trend is hovering at levels nearly to surpass the annual average of 12—down by 4 points compared to the peak of week 40.
 
@@ -100,14 +100,14 @@ Looking ahead, the impact of winter demand in November will be crucial in determ
 ![Στιγμιότυπο Οθόνης 2024 11 01 134622](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cbd4e11b6fee.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2024 11 01 134622**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cbd4e11b6fee.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cbd4e11b6fee.png)
 
 - **Dirty**tonne days: The first month of the fourth quarter concludes with a declining growth rate in tonne days, with levels remaining below the annual average across all large vessel size categories. The sole positive aspect amid this weakness is that the lowest point was reached in the third quarter. Recent growth estimates indicate a more robust outlook, though they still fall short of sustaining the annual average momentum.
 
 ![Στιγμιότυπο Οθόνης 2024 11 01 134716](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f3e7dc2c5ca4.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2024 11 01 134716**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f3e7dc2c5ca4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-11-01_dirty-tonne-days-vlcc_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f3e7dc2c5ca4.png)
 
 - **Panamax**tonne days: The growth rate has reached its lowest level of the year, maintaining a downward trajectory below the annual average since the end of week 19. As of now, there are no indications of a shift in momentum as we approach early November.
 

@@ -27,14 +27,14 @@ A data-driven review facilitated by the[Floating Storage platform report](https:
 ![Market Chart 1](assets/2025-12-08_floating-storage-hits-three-year-high_img_unnamed_63c196dcf1fe.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/anker-dynamic-floating-storage/2rnw86/558252008/h/0BoY9QFVOFor9hBgpfYGSDEEmD4pDWRYJYdhEmHd8Tc) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-08_floating-storage-hits-three-year-high_img_unnamed_63c196dcf1fe.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/anker-dynamic-floating-storage/2rnw86/558252008/h/0BoY9QFVOFor9hBgpfYGSDEEmD4pDWRYJYdhEmHd8Tc) | [Local Asset](assets/2025-12-08_floating-storage-hits-three-year-high_img_unnamed_63c196dcf1fe.png)
 
 [Floating](https://go.signalocean.com/e/983831/anker-dynamic-floating-storage/2rnw86/558252008/h/0BoY9QFVOFor9hBgpfYGSDEEmD4pDWRYJYdhEmHd8Tc)storage is rising sharply across the tanker segments, VLCC, Suezmax, and Aframax, signalling a market increasingly shaped by oversupply concerns. The latest readings point to a decisive break higher through late 2025, with floating barrels approaching the 150 million bbl threshold peak recorded back in November 2022.
 
 ![Market Chart 2](assets/2025-12-08_floating-storage-hits-three-year-high_img_unnamed28129_8d3a7efb2b87.png)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/anker-dynamic-floating-storage/2rnw86/558252008/h/0BoY9QFVOFor9hBgpfYGSDEEmD4pDWRYJYdhEmHd8Tc) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-08_floating-storage-hits-three-year-high_img_unnamed28129_8d3a7efb2b87.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/anker-dynamic-floating-storage/2rnw86/558252008/h/0BoY9QFVOFor9hBgpfYGSDEEmD4pDWRYJYdhEmHd8Tc) | [Local Asset](assets/2025-12-08_floating-storage-hits-three-year-high_img_unnamed28129_8d3a7efb2b87.png)
 
 [**Floating**](https://go.signalocean.com/e/983831/anker-dynamic-floating-storage/2rnw86/558252008/h/0BoY9QFVOFor9hBgpfYGSDEEmD4pDWRYJYdhEmHd8Tc)**Storage Trends | Per Vessel Size Segment**
 
@@ -45,21 +45,21 @@ A data-driven review facilitated by the[Floating Storage platform report](https:
 ![VLCC |](assets/2025-12-08_floating-storage-hits-three-year-high_img_unnamed28229_141fbcf2b1d3.png)
 
 > **Figure 3: VLCC |**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/ports-Iran-increase-new-quotas/2rnw8d/558252008/h/0BoY9QFVOFor9hBgpfYGSDEEmD4pDWRYJYdhEmHd8Tc) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-08_floating-storage-hits-three-year-high_img_unnamed28229_141fbcf2b1d3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/ports-Iran-increase-new-quotas/2rnw8d/558252008/h/0BoY9QFVOFor9hBgpfYGSDEEmD4pDWRYJYdhEmHd8Tc) | [Local Asset](assets/2025-12-08_floating-storage-hits-three-year-high_img_unnamed28229_141fbcf2b1d3.png)
 
 7D MA: ~40 Mbbl, compared with a mid-year low of ~13.7 Mbbl (+185%)
 
 ![Suezmax |](assets/2025-12-08_floating-storage-hits-three-year-high_img_unnamed28329_5c1046fc3275.png)
 
 > **Figure 4: Suezmax |**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/ports-Iran-increase-new-quotas/2rnw8d/558252008/h/0BoY9QFVOFor9hBgpfYGSDEEmD4pDWRYJYdhEmHd8Tc) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-08_floating-storage-hits-three-year-high_img_unnamed28329_5c1046fc3275.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/ports-Iran-increase-new-quotas/2rnw8d/558252008/h/0BoY9QFVOFor9hBgpfYGSDEEmD4pDWRYJYdhEmHd8Tc) | [Local Asset](assets/2025-12-08_floating-storage-hits-three-year-high_img_unnamed28329_5c1046fc3275.png)
 
 7D MA: ~29 Mbbl, up from an early-September low of ~9.1 Mbbl (+220%)
 
 ![Aframax |](assets/2025-12-08_floating-storage-hits-three-year-high_img_unnamed28429_1255ea91b12e.png)
 
 > **Figure 5: Aframax |**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/ports-Iran-increase-new-quotas/2rnw8d/558252008/h/0BoY9QFVOFor9hBgpfYGSDEEmD4pDWRYJYdhEmHd8Tc) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-08_floating-storage-hits-three-year-high_img_unnamed28429_1255ea91b12e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/ports-Iran-increase-new-quotas/2rnw8d/558252008/h/0BoY9QFVOFor9hBgpfYGSDEEmD4pDWRYJYdhEmHd8Tc) | [Local Asset](assets/2025-12-08_floating-storage-hits-three-year-high_img_unnamed28429_1255ea91b12e.png)
 
 ### Iranian Barrels Dominate Floating Storage
 
@@ -68,14 +68,14 @@ A data-driven review facilitated by the[Floating Storage platform report](https:
 ![Market Chart 6](assets/2025-12-08_floating-storage-hits-three-year-high_img_unnamed28529_a0c73c6e8ba8.png)
 
 > **Figure 6: Market Chart 6**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/ports-Iran-increase-new-quotas/2rnw8d/558252008/h/0BoY9QFVOFor9hBgpfYGSDEEmD4pDWRYJYdhEmHd8Tc) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-08_floating-storage-hits-three-year-high_img_unnamed28529_a0c73c6e8ba8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/ports-Iran-increase-new-quotas/2rnw8d/558252008/h/0BoY9QFVOFor9hBgpfYGSDEEmD4pDWRYJYdhEmHd8Tc) | [Local Asset](assets/2025-12-08_floating-storage-hits-three-year-high_img_unnamed28529_a0c73c6e8ba8.png)
 
 Compared with earlier months, the recent increase in floating crude volumes coincides with indications that China’s independent refiners had exhausted their import quotas and that teapot run rates had softened amid weak margins, both of which have historically influenced refiners’ willingness to take cargo from offshore. The time series shows a clear rise in floating barrels in early December, returning toward levels seen during previous spikes. However, the recent announcement of a new batch of crude import quotas for the remainder of the year will work in the direction of clearing those extra flows waiting on tankers.
 
 ![Market Chart 7](assets/2025-12-08_floating-storage-hits-three-year-high_img_unnamed28629_c847021f821a.png)
 
 > **Figure 7: Market Chart 7**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/ports-Iran-increase-new-quotas/2rnw8d/558252008/h/0BoY9QFVOFor9hBgpfYGSDEEmD4pDWRYJYdhEmHd8Tc) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-08_floating-storage-hits-three-year-high_img_unnamed28629_c847021f821a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/ports-Iran-increase-new-quotas/2rnw8d/558252008/h/0BoY9QFVOFor9hBgpfYGSDEEmD4pDWRYJYdhEmHd8Tc) | [Local Asset](assets/2025-12-08_floating-storage-hits-three-year-high_img_unnamed28629_c847021f821a.png)
 
 At the same time, the distribution of stored volumes has shifted decisively toward offshore transfer hubs. As of 4 December, approximately 86% of floating barrels were concentrated in the Singapore/Malaysia area, which is commonly used for ship-to-ship transfers and the temporary holding of sanctioned or discounted crude, including Iranian grades. Vessel-level data further shows that the build-up is dominated by VLCCs (80%) carrying almost exclusively Iranian crude (≈99.7%), underscoring that the surge is not broad-based but tied to a specific supply stream facing slower onward absorption.
 

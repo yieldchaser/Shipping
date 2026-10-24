@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/dry/dynamic/drybulkflows-Downloadable**  
 > *https://app.signalocean.com/dry/dynamic/drybulkflows-downloadable*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-30-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68814dfb3fd04ab6cf8759d6_AD_4nXdORY9toxublWDigKliwwR7W8QpG4wmxlnJfkfrXmdFNaFIAglSySteQb_X0fu7hy4s37kLIQnJ1qKHtnvZdUstLd1irro6x1Tf7vQz0qxGh_GqKozhZQ2ocx_xmF9P1Euovg4G3Q.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-30-2025) | [Local Asset](../../images/68814dfb3fd04ab6cf8759d6_AD_4nXdORY9toxublWDigKliwwR7W8QpG4wmxlnJfkfrXmdFNaFIAglSySteQb_X0fu7hy4s37kLIQnJ1qKHtnvZdUstLd1irro6x1Tf7vQz0qxGh_GqKozhZQ2ocx_xmF9P1Euovg4G3Q.png)
 
 This week’s ***Chart Monitor*** highlights a continued upward trend in Brazilian iron ore shipments. Since the end of Q1, each month's closing volume has exceeded levels seen in previous years. The first quarter of 2025 closed with approximately 70 million tons shipped, followed by over 80 million tons in Q2. These figures are notably higher than the lows recorded in 2021—around 50 million tons in Q1 and 67 million tons in Q2.
 

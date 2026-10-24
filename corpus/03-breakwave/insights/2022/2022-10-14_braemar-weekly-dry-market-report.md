@@ -32,7 +32,7 @@ In the past several weeks, the Capesize C3 route has held relatively firm, print
 ![Market Chart 1](assets/2022-10-14_braemar-weekly-dry-market-report_img_image028629_025ddc586c99.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-14_braemar-weekly-dry-market-report_img_image028629_025ddc586c99.png)
+> [Local Asset](assets/2022-10-14_braemar-weekly-dry-market-report_img_image028629_025ddc586c99.png)
 
 Going forward, we can expect the trend from previous years to continue this year and the slowdown in demand to become more apparent for later dates. Current weather forecasts suggest increased rainfall is set to hit the northern areas of Brazil, indicating we are unlikely to get an uncharacteristically dry fourth quarter, at least to start.
 
@@ -43,7 +43,7 @@ With the unwinding of Chinese typhoon congestion complete, the Capesize ballaste
 ![Market Chart 2](assets/2022-10-14_braemar-weekly-dry-market-report_img_image128629_aacf5630acf5.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-14_braemar-weekly-dry-market-report_img_image128629_aacf5630acf5.png)
+> [Local Asset](assets/2022-10-14_braemar-weekly-dry-market-report_img_image128629_aacf5630acf5.png)
 
 While it is known volumes out of Brazil are usually slower in Q4, it is the strength out of West Africa that has provided the support in the Atlantic recently. Overall, this is largely a reason ballasters have been confident in finding employment in the Atlantic with the Guinean monsoon season now over.
 
@@ -54,7 +54,7 @@ Despite what is stereotypically the monsoon season in Guinea, Q3 shipments of ba
 ![Market Chart 3](assets/2022-10-14_braemar-weekly-dry-market-report_img_image228629_346a9d0c047b.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-14_braemar-weekly-dry-market-report_img_image228629_346a9d0c047b.png)
+> [Local Asset](assets/2022-10-14_braemar-weekly-dry-market-report_img_image228629_346a9d0c047b.png)
 
 The strength in bauxite demand this year can be reflected in the stability of Chinese alumina, and thus aluminium, production which has proven very stable despite the macroeconomic and Covid headwinds the country has faced this year. Alumina output in China hit its highest monthly total on record in June at 7.3m tonnes and has remained near these levels since. Downside risks to this growth, however, have emerged this week as the US and China escalate tensions over the Chinese semiconductor industry, which is very aluminium-intensive, although it remains to be seen what the outcome of the situation will be.
 

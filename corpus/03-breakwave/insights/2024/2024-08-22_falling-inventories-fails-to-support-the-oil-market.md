@@ -27,7 +27,7 @@ The prospect of easing monetary policy boosted sentiment across the metals compl
 ![Screenshot 2024 08 22 10.00.15](assets/2024-08-22_falling-inventories-fails-to-support-the-oil-market_img_screenshot2024-08-22100015_21f0df03ea9d.png)
 
 > **Figure 1: Screenshot 2024 08 22 10.00.15**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-22_falling-inventories-fails-to-support-the-oil-market_img_screenshot2024-08-22100015_21f0df03ea9d.png)
+> [Local Asset](assets/2024-08-22_falling-inventories-fails-to-support-the-oil-market_img_screenshot2024-08-22100015_21f0df03ea9d.png)
 
 ### Market Commentary
 
@@ -48,7 +48,7 @@ US crude oil inventories fell further last week, suggesting demand remains stron
 ![Screenshot 2024 08 22 10.05.34](assets/2024-08-22_falling-inventories-fails-to-support-the-oil-market_img_screenshot2024-08-22100534_3dcbc1229007.png)
 
 > **Figure 2: Screenshot 2024 08 22 10.05.34**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-22_falling-inventories-fails-to-support-the-oil-market_img_screenshot2024-08-22100534_3dcbc1229007.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-08-22_falling-inventories-fails-to-support-the-oil-market_img_screenshot2024-08-22100534_3dcbc1229007.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

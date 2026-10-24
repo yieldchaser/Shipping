@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-11-12_vaccine-hopes-and-ind
 ![By Ulf Bergman](assets/2020-11-12_vaccine-hopes-and-india-facing-recession_img_image-asset_5177ec238392.jpeg)
 
 > **Figure 1: By Ulf Bergman**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-12_vaccine-hopes-and-india-facing-recession_img_image-asset_5177ec238392.jpeg)
+> [Local Asset](assets/2020-11-12_vaccine-hopes-and-india-facing-recession_img_image-asset_5177ec238392.jpeg)
 
 The better than expected data from Pfizer’s COVID19 vaccine trial released earlier in the week provided a much-needed light in the end of the pandemic-tunnel. In combination with the US election results pointing towards a more trade friendly administration, the news on the progress with a vaccine injected some exuberance into the equity markets. Perhaps a bit surprising, shipping equities in general participated in the rally on Monday and have managed to hold on to the gains in what appears to be a decent week for the industry in the equity markets.
 
@@ -36,7 +36,7 @@ However, recent high-frequency data suggest that the Indian economy is recoverin
 ![Source: Imf](assets/2020-11-12_vaccine-hopes-and-india-facing-recession_img_ulf70_f1d528d5346a.png)
 
 > **Figure 2: Source: Imf**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-12_vaccine-hopes-and-india-facing-recession_img_ulf70_f1d528d5346a.png)
+> [Local Asset](assets/2020-11-12_vaccine-hopes-and-india-facing-recession_img_ulf70_f1d528d5346a.png)
 
 Source: IMF
 

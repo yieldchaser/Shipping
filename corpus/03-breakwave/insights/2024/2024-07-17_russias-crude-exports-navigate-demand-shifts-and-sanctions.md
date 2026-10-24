@@ -28,7 +28,7 @@ Russian seaborne crude exports have sharply declined in the first two weeks of J
 ![Στιγμιότυπο Οθόνης 2024 07 17 113640](assets/2024-07-17_russias-crude-exports-navigate-demand-shifts-and-sanctions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ad4c564c125c.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 17 113640**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-17_russias-crude-exports-navigate-demand-shifts-and-sanctions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ad4c564c125c.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](assets/2024-07-17_russias-crude-exports-navigate-demand-shifts-and-sanctions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ad4c564c125c.png)
 
 ## Tepid China Demand Sends More Russian Crude to India
 
@@ -39,7 +39,7 @@ Despite the narrowing discounts of Russian crude, it remains a more attractive f
 ![Στιγμιότυπο Οθόνης 2024 07 17 113657](assets/2024-07-17_russias-crude-exports-navigate-demand-shifts-and-sanctions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_935082e7ad24.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 07 17 113657**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-17_russias-crude-exports-navigate-demand-shifts-and-sanctions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_935082e7ad24.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](assets/2024-07-17_russias-crude-exports-navigate-demand-shifts-and-sanctions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_935082e7ad24.png)
 
 ## Rising Western Sanctions Tighten Fleet Supply, Rebound Expected
 

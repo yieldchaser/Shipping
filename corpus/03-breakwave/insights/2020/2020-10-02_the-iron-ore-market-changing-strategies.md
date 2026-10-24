@@ -31,7 +31,7 @@ The first of these is the relatively young fleet that these companies employ. Ar
 ![Bmr 5](assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr5_506557af19b4.png)
 
 > **Figure 1: Bmr 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr5_506557af19b4.png)
+> [Local Asset](assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr5_506557af19b4.png)
 
 Most of these companies are publicly listed and over the past few years they have all placed a greater emphasis on utilising ships which are more efficient and offer lower carbon dioxide emissions. For example, some utilize the RightShip Greenhouse Gas (GHG) rating system, which gives preference to vessels with a better fuel economy. This in part drives their disproportionate use of modern ships.
 
@@ -40,7 +40,7 @@ For Brazil’s exports, we’ve seen a dramatic change in the age profile of shi
 ![Bmr 6](assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr6_995527e2e6ea.png)
 
 > **Figure 2: Bmr 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr6_995527e2e6ea.png)
+> [Local Asset](assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr6_995527e2e6ea.png)
 
 ### Dedicated Fleets
 
@@ -65,7 +65,7 @@ But more recently Vale and others have begun selling ore from blending facilitie
 ![Bmr 7](assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr7_e34c569e98a5.png)
 
 > **Figure 3: Bmr 7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr7_e34c569e98a5.png)
+> [Local Asset](assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr7_e34c569e98a5.png)
 
 ### Margin Over Volume
 
@@ -76,7 +76,7 @@ A recurring theme in these companies’ production reports is a reluctance to ov
 ![Bmr 8](assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr8_e34c569e98a5.png)
 
 > **Figure 4: Bmr 8**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr8_e34c569e98a5.png)
+> [Local Asset](assets/2020-10-02_the-iron-ore-market-changing-strategies_img_bmr8_e34c569e98a5.png)
 
 While we see some growth in capacity from these producers in the pipeline, we expect it to be limited relative to previous years and production guidance for the coming year is somewhat lacklustre. Going forward, we expect the majority of demand growth to come from smaller producers and other commodities.
 

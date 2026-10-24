@@ -65,7 +65,7 @@ Together with the downward trend for cargo order volumes for coal discharging in
 ![Στιγμιότυπο Οθόνης 2024 06 25 115547](assets/2024-06-25_o0yud7yuhnc4liytygdbppahrqe7y4_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33815e8f9b5f.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 06 25 115547**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-25_o0yud7yuhnc4liytygdbppahrqe7y4_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33815e8f9b5f.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-06-25_o0yud7yuhnc4liytygdbppahrqe7y4_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33815e8f9b5f.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

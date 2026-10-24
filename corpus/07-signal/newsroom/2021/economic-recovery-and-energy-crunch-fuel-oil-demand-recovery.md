@@ -47,7 +47,7 @@ The [oil-producing countries](https://www.thesignalgroup.com/newsroom/opec-is-ba
 
 > **Figure 1: Image 1:evolution of Opec+ Pandemic Production Cuts**  
 > *Image 1:Evolution of OPEC+ Pandemic Production Cuts*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/economic-recovery-and-energy-crunch-fuel-oil-demand-recovery) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d92735333b5f1672677_618aa0d0fb3bf9555ef2a530_Opec%20production%20cuts%20timeseries%202020%202021%202022%20v2.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/economic-recovery-and-energy-crunch-fuel-oil-demand-recovery) | [Local Asset](../../images/66b51d92735333b5f1672677_618aa0d0fb3bf9555ef2a530_Opec%20production%20cuts%20timeseries%202020%202021%202022%20v2.avif)
 
 Assuming OPEC+ maintains its planned course of action, traders increasingly believe that 100 dollars a barrel is rapidly approaching. Analysts at Bank of America are even more bullish and anticipate that crude oil will reach 120 dollars by the middle of next year.
 
@@ -70,7 +70,7 @@ The relative outperformance of the eastbound trade from the Arabian Gulf highlig
 
 > **Figure 2: Image 2: Signal Ocean Data|dirty Tanker Market Rates (WS) 2018-2022**  
 > *Image 2: Signal Ocean Data|Dirty Tanker Market Rates (WS) 2018-2022*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/economic-recovery-and-energy-crunch-fuel-oil-demand-recovery) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d92735333b5f1672680_618536eb27077f84f29222df_VLCCs%20freight.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/economic-recovery-and-energy-crunch-fuel-oil-demand-recovery) | [Local Asset](../../images/66b51d92735333b5f1672680_618536eb27077f84f29222df_VLCCs%20freight.avif)
 
 
 ##### Mr2 Clean Freight Market Performance - Cont to US Atlantic, US to Continent - MEG to East Africa
@@ -80,7 +80,7 @@ The relative outperformance of the eastbound trade from the Arabian Gulf highlig
 
 > **Figure 3: Image 3: Signal Ocean Data | Mr2 Clean Tanker Market Rates (WS) 2018-2022**  
 > *Image 3: Signal Ocean Data | MR2 Clean Tanker Market Rates (WS) 2018-2022*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/economic-recovery-and-energy-crunch-fuel-oil-demand-recovery) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d92735333b5f167267d_61853730d3bec049b98b2167_MR%20clean%20freight.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/economic-recovery-and-energy-crunch-fuel-oil-demand-recovery) | [Local Asset](../../images/66b51d92735333b5f167267d_61853730d3bec049b98b2167_MR%20clean%20freight.avif)
 
 With winter approaching in the Northern Hemisphere, it traditionally heralds the peak demand season for the tanker markets. However, any lingering optimism among tanker owners for the months ahead is likely to be relatively short-lived. While a seasonal pickup in demand for oil should be on the cards, the extent ought to be modest compared to previous years. The strict output management by OPEC+ could also add insult to injury for the tanker owners, as the anticipated rise in crude prices will push bunker prices higher and offset much of any potential gains in freight rates.
 
@@ -99,7 +99,7 @@ A continued arrival of new tonnage and an absence of extensive scrapping are add
 
 > **Figure 4: Image 4: Signal Ocean Data | VLCC Supply Ras Tanura, Saudi Arabia Loading Port, Market Deployment Relet-Spot, Market Rates: AG to Far East**  
 > *Image 4: Signal Ocean Data | VLCC Supply Ras Tanura, Saudi Arabia loading port, market deployment relet-spot, Market Rates: AG to Far East*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/economic-recovery-and-energy-crunch-fuel-oil-demand-recovery) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d94735333b5f1672b8a_61853d1f95bac6da9e4cf6d9_Market%20monitor%20Signal%20ocean%20plartform%20VLCC.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/economic-recovery-and-energy-crunch-fuel-oil-demand-recovery) | [Local Asset](../../images/66b51d94735333b5f1672b8a_61853d1f95bac6da9e4cf6d9_Market%20monitor%20Signal%20ocean%20plartform%20VLCC.avif)
 
 
 ##### Mr2 Clean Supply & Market Rates (WS)
@@ -109,7 +109,7 @@ A continued arrival of new tonnage and an absence of extensive scrapping are add
 
 > **Figure 5: Image 4: Signal Ocean Data | Mr2 Clean Supply Continent, Rotterdam, Neth Loading Port, Market Deployment Relet-Spot, Market Rates: Clean - Cont to USA Atlantic**  
 > *Image 4: Signal Ocean Data | MR2 Clean Supply Continent, Rotterdam, NETH loading port, market deployment relet-spot, Market Rates: Clean - Cont to USA Atlantic*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/economic-recovery-and-energy-crunch-fuel-oil-demand-recovery) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51d92735333b5f167267a_61853dd5f5fd0d63c2ace23f_Market%20monitor%20Signal%20ocean%20plartform%20MR2%20clean.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/economic-recovery-and-energy-crunch-fuel-oil-demand-recovery) | [Local Asset](../../images/66b51d92735333b5f167267a_61853dd5f5fd0d63c2ace23f_Market%20monitor%20Signal%20ocean%20plartform%20MR2%20clean.avif)
 
 
 ## Market Prospects

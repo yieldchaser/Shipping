@@ -24,7 +24,7 @@ In recent years we have paid close attention to the new 650kbd Dangote refinery 
 ![1 (4)](assets/2023-02-15_gibsons-tanker-market-report_img_128429_f7319bbad3bb.png)
 
 > **Figure 1: 1 (4)**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-15_gibsons-tanker-market-report_img_128429_f7319bbad3bb.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2023-02-15_gibsons-tanker-market-report_img_128429_f7319bbad3bb.png)
 
 With the Nigerian National Petroleum Corporation (NNPC) acquiring a minority equity stake at the refinery and agreeing to supply 300kbd into the plant, the start up will lead to a further decline in West African crude exports. According to Kpler, regional exports averaged 3.4mbd last year, easing by 150kbd year-on-year but down massively by 1.4mbd from peak levels in 2015. The refinery’s impact will also be felt beyond the regional market. West Africa helped to offset the halt in Russian crude flows into Europe, with shipments to European destinations increasing by nearly 200kbd in 2022. However, when Dangote is up and running, these flows will come under renewed pressure, with Europe needing to source even more barrels from the Middle East, US Gulf and Latin America.
 

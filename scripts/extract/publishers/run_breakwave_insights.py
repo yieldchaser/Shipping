@@ -2,7 +2,7 @@
 Breakwave Insights HTML-to-Markdown Full Corpus Pipeline (Publication-Grade)
 Processes all 3,194 Breakwave market insight articles across 2020-2026:
 - Extracts frontmatter (title, ISO date, display date, canonical URL, tags, year, image count, word count)
-- Renders images using relative paths for inline Markdown Preview and file:/// URIs for [Local Asset] direct opening
+- Renders images and [Local Asset] links as paths relative to each written MD
 - Formats figures with academic blockquotes, descriptive titles, captions, and interactive platform links
 - Consumes caption and tracking link paragraphs to eliminate duplicate prose leaks
 - Cleans naked tracking URLs (e.g. Signal Ocean, Bloomberg, Reuters) into named markdown links
@@ -36,6 +36,16 @@ ACRONYMS = {
 }
 
 LOWER_WORDS = {'and', 'or', 'the', 'a', 'an', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by', 'vs', 'versus', 'per'}
+
+REPO_ROOT_TOKEN = '@@REPO_ROOT@@/'
+
+
+def _relink(md_text, md_path):
+    """Replace REPO_ROOT_TOKEN<path> with <path> relative to md_path's folder (no machine-local file:/// URIs)."""
+    md_dir = os.path.dirname(md_path) or '.'
+    return re.sub(re.escape(REPO_ROOT_TOKEN) + r'([^)\r\n]+)',
+                  lambda m: os.path.relpath(m.group(1), md_dir).replace('\\', '/'), md_text)
+
 
 def format_title_case(s):
     if not s:
@@ -214,10 +224,10 @@ def process_single_article(html_path):
         src = img.get('src', '').strip()
         alt = img.get('alt', '').strip()
 
-        # Canonical workspace file URI for one-click opening in editor
+        # Repo-relative asset path; _relink() makes it relative to each written MD
         rel_html_dir = os.path.dirname(html_path).replace('\\', '/')
         rel_asset_norm = os.path.normpath(os.path.join(rel_html_dir, src)).replace('\\', '/')
-        file_uri = f"file:///c:/Users/Dell/Github/Shipping/{rel_asset_norm}"
+        file_uri = f"{REPO_ROOT_TOKEN}{rel_asset_norm}"
 
         # Relative path for standard inline markdown rendering
         rel_img_path = src if not src.startswith(('http://', 'https://')) else file_uri
@@ -499,10 +509,10 @@ def process_single_article(html_path):
     os.makedirs(os.path.dirname(corpus_md_path), exist_ok=True)
 
     with open(out_ext_path, 'w', encoding='utf-8') as f:
-        f.write(full_md)
+        f.write(_relink(full_md, out_ext_path))
 
     with open(corpus_md_path, 'w', encoding='utf-8') as f:
-        f.write(full_md)
+        f.write(_relink(full_md, corpus_md_path))
 
     return metadata_record
 

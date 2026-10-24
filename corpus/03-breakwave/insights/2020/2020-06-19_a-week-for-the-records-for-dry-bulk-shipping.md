@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-06-19_a-week-for-the-record
 
 > **Figure 1: “Operations Have Been Running Smoothly in Comparison to the Wet**  
 > *“Operations have been running smoothly in comparison to the wet and windy conditions we saw in the Q1, and demand from China remains buoyant. You can also look to the once 40 strong list of ballasting tonnage that had slowed down or idled at South Africa which is now reduced to less than a handful of ships that can comfortably make end June/early July loading. The thinned supply model has exposed greatly the actual demand for ballasting tonnage during these months”*  
-> **Interactive Data & Source:** [Scmp](https://www.scmp.com/economy/china-economy/article/3086569/china-pledges-largest-ever-economic-rescue-package-save-jobs) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-19_a-week-for-the-records-for-dry-bulk-shipping_img_image-asset_9c08a7943942.jpeg)
+> **Interactive Data & Source:** [Scmp](https://www.scmp.com/economy/china-economy/article/3086569/china-pledges-largest-ever-economic-rescue-package-save-jobs) | [Local Asset](assets/2020-06-19_a-week-for-the-records-for-dry-bulk-shipping_img_image-asset_9c08a7943942.jpeg)
 
 One of the most exciting weeks in recent memory for dry bulk shipping comes to an end, with many people starting to use more and more the phrase “the good ol’ days are back” as volatility once again appears out of nowhere and brings excitement back to a market that has struggled for most of the year.
 
@@ -39,7 +39,7 @@ Braemar writes:
 
 > **Figure 2: “Naturally**  
 > *“Naturally, after such a strong move the market, at the time of writing at least, is pausing for breath inevitably raising questions about near term sustainability of these new highs (particularly in the face of falling FFA levels). Fundamentally, the clear out of early tonnage across both basins and a general belief in Iron Ore demand would suggest any significant reversal is unlikely at this stage”*  
-> **Interactive Data & Source:** [Scmp](https://www.scmp.com/economy/china-economy/article/3086569/china-pledges-largest-ever-economic-rescue-package-save-jobs) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-19_a-week-for-the-records-for-dry-bulk-shipping_img_brfix_757e0c086582.png)
+> **Interactive Data & Source:** [Scmp](https://www.scmp.com/economy/china-economy/article/3086569/china-pledges-largest-ever-economic-rescue-package-save-jobs) | [Local Asset](assets/2020-06-19_a-week-for-the-records-for-dry-bulk-shipping_img_brfix_757e0c086582.png)
 
 As of the near term direction of rates, the month of July continues to still hold decent amount of cargo in both the Atlantic and the Pacific and positional tightness is there to support more or less current freight levels. Brazilian spot fixtures is running still below the long term average (see chart above) and still below the run rate from last year (however it is much closer now). Although dramatic moves either way should not be discounted, a gentle drift lower for Capesize rates over the next week is our base case scenario as the market digests the current price levels.
 
@@ -53,6 +53,6 @@ Finally, the market has now move to a new level, and the next leg upward will st
 
 > **Figure 3: Weighted Average Index of Near-Dated Dry Bulk Futures**  
 > *Weighted average index of near-dated dry bulk futures*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-06-19_a-week-for-the-records-for-dry-bulk-shipping_img_bdryff_2709f16e0a74.jpg)
+> [Local Asset](assets/2020-06-19_a-week-for-the-records-for-dry-bulk-shipping_img_bdryff_2709f16e0a74.jpg)
 
 Are decade highs at play this year?

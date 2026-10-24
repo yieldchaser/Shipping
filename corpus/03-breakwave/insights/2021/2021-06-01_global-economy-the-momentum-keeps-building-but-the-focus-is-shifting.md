@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-06-01_global-economy-the-mo
 ![Unsplash Image Hkjnx0edbje](assets/2021-06-01_global-economy-the-momentum-keeps-building-but-the-focus-is-shifting_img_unsplash-image-hkjnx0edbje_0af07a24e2bd.jpg)
 
 > **Figure 1: Unsplash Image Hkjnx0edbje**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-01_global-economy-the-momentum-keeps-building-but-the-focus-is-shifting_img_unsplash-image-hkjnx0edbje_0af07a24e2bd.jpg)
+> [Local Asset](assets/2021-06-01_global-economy-the-momentum-keeps-building-but-the-focus-is-shifting_img_unsplash-image-hkjnx0edbje_0af07a24e2bd.jpg)
 
 At the same time as the Chinese economy is showing some signs of plateauing, the OECD has upgraded its projections for global economic growth. The parallel events highlight the widely expected shift in post-pandemic growth, with the focus moving away from China to other parts of the world.
 
@@ -40,7 +40,7 @@ May was also the month of extensive efforts by Beijing to rein in on the soaring
 ![Ulf 6.1](assets/2021-06-01_global-economy-the-momentum-keeps-building-but-the-focus-is-shifting_img_ulf61_5ad8a9ee6e83.jpg)
 
 > **Figure 2: Ulf 6.1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-06-01_global-economy-the-momentum-keeps-building-but-the-focus-is-shifting_img_ulf61_5ad8a9ee6e83.jpg)
+> [Local Asset](assets/2021-06-01_global-economy-the-momentum-keeps-building-but-the-focus-is-shifting_img_ulf61_5ad8a9ee6e83.jpg)
 
 Like the headline number for the Chinese PMI, the upward revision of the global economic growth by the OECD is good news on an aggregate level. There are however considerable differences between countries and how quickly they will return to their pre-pandemic levels, with China and the US making swift recoveries while countries such as Spain and Argentina may face several years of struggles. The OECD has also downgraded its projections for the Indian economy, in light of the recent severe COVID19-outbreak. Despite the downgrade, the organization still expects India to be the best-performing economy in the year that began with the second quarter. The OECD is now expecting the Indian economy to grow by 9.9 per cent, which is in line with the broader consensus of ten per cent according to a Bloomberg survey.
 

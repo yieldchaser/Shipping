@@ -29,7 +29,7 @@ While the pandemic has had a catastrophic effect on most markets, dry bulk deman
 ![Braemar 11](assets/2020-11-01_the-big-picture-dry-bulk-fundamentals_img_braemar11_79035b721d2c.png)
 
 > **Figure 1: Braemar 11**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-01_the-big-picture-dry-bulk-fundamentals_img_braemar11_79035b721d2c.png)
+> [Local Asset](assets/2020-11-01_the-big-picture-dry-bulk-fundamentals_img_braemar11_79035b721d2c.png)
 
 As we covered last week, economic growth forecasts have been upgraded, which has filtered into our demand outlook, though prospects vary greatly across the major commodity groups.
 
@@ -48,7 +48,7 @@ The main drivers of the Asian coal market, China and India, have seen significan
 ![Braemar 12](assets/2020-11-01_the-big-picture-dry-bulk-fundamentals_img_braemar12_6e9b68c47968.png)
 
 > **Figure 2: Braemar 12**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-01_the-big-picture-dry-bulk-fundamentals_img_braemar12_6e9b68c47968.png)
+> [Local Asset](assets/2020-11-01_the-big-picture-dry-bulk-fundamentals_img_braemar12_6e9b68c47968.png)
 
 Covid-19 has exacerbated a trend of falling European coal imports over the past few years, accelerating the switch from coal-fired power to cheap natural gas. The losses in steel capacity and thus coking coal demand here will also take time to recover. We forecast global seaborne coal trade to contract by nearly 8% over 2020 as a whole, followed by a 2% recovery in 2021. Within this, there are some positive stories, such as growing demand in South East Asia, but these are not enough to offset the declines we see elsewhere.
 
@@ -63,7 +63,7 @@ We also see wheat and coarse grain trade growth continuing over our forecast per
 ![Bramear 13](assets/2020-11-01_the-big-picture-dry-bulk-fundamentals_img_bramear13_62222fec04c0.png)
 
 > **Figure 3: Bramear 13**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-01_the-big-picture-dry-bulk-fundamentals_img_bramear13_62222fec04c0.png)
+> [Local Asset](assets/2020-11-01_the-big-picture-dry-bulk-fundamentals_img_bramear13_62222fec04c0.png)
 
 Covid-19 has exacerbated a trend of falling European coal imports over the past few years, accelerating the switch from coal-fired power to cheap natural gas. The losses in steel capacity and thus coking coal demand here will also take time to recover. We forecast global seaborne coal trade to contract by nearly 8% over 2020 as a whole, followed by a 2% recovery in 2021. Within this, there are some positive stories, such as growing demand in South East Asia, but these are not enough to offset the declines we see elsewhere.
 
@@ -76,7 +76,7 @@ As such we have cut our forecast for removals this year, but we still expect thi
 ![Braemar 14](assets/2020-11-01_the-big-picture-dry-bulk-fundamentals_img_braemar14_b58dce68ec0b.png)
 
 > **Figure 4: Braemar 14**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-01_the-big-picture-dry-bulk-fundamentals_img_braemar14_b58dce68ec0b.png)
+> [Local Asset](assets/2020-11-01_the-big-picture-dry-bulk-fundamentals_img_braemar14_b58dce68ec0b.png)
 
 We have however slightly increased our forecasts for future orders, as we expect some degree of price-driven speculative ordering. While we don’t see any solutions appearing imminently to comply with upcoming greenhouse gas reduction rules, we do expect newbuilding prices to soften, which will likely trigger ordering activity. In real terms, newbuilding prices are already at historically low levels, and further decreases will likely entice some interest in fleet renewal.
 

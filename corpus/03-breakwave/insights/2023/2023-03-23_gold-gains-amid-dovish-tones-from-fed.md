@@ -26,7 +26,7 @@ The prospect of an end to the tightening cycle boosted sentiment across commodit
 ![1679521457487](assets/2023-03-23_gold-gains-amid-dovish-tones-from-fed_img_1679521457487_86e2116ff388.png)
 
 > **Figure 1: 1679521457487**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-23_gold-gains-amid-dovish-tones-from-fed_img_1679521457487_86e2116ff388.png)
+> [Local Asset](assets/2023-03-23_gold-gains-amid-dovish-tones-from-fed_img_1679521457487_86e2116ff388.png)
 
 **Crude oil**gained early in the session after positive signs of demand. The Energy Information Association’s weekly report highlighted strong exports, while domestic fuel stockpiles declined. Gasoline inventories fell 6,399kbbl last week, in a sign consumer demand is rising strongly. This was despite a rise in commercial crude oil inventories by 1,117kbbl. Asian demand is also showing signs of strength. The closely watched gauge of the Brent-Dubai spread fell to USD1.54/bbl, the lowest level since February 2021. Crude oil held onto these gains following the FOMC’s decision to hike rates by 25bp. While Fed Chair Powell called the banking system strong and resilient, he warned that recent developments could create tighter credit conditions. This saw further gains in crude oil on the prospect of a pause in rate hikes later this year.
 

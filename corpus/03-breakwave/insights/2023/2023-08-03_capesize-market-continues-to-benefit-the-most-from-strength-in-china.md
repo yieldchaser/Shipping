@@ -30,4 +30,4 @@ Overall, the capesize market continues to benefit the most from the strength in 
 ![Chart (3)](assets/2023-08-03_capesize-market-continues-to-benefit-the-most-from-strength-in-china_img_chart28329_d4c6583b29a7.jpg)
 
 > **Figure 1: Chart (3)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-08-03_capesize-market-continues-to-benefit-the-most-from-strength-in-china_img_chart28329_d4c6583b29a7.jpg)
+> [Local Asset](assets/2023-08-03_capesize-market-continues-to-benefit-the-most-from-strength-in-china_img_chart28329_d4c6583b29a7.jpg)

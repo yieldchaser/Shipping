@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2021/2021-01-28_agricultural-commodit
 ![By Ulf Bergman](assets/2021-01-28_agricultural-commodities-demand-for-us-exports-to-remain-strong-driving-rising-i_img_image-asset_71408ade43d1.jpeg)
 
 > **Figure 1: By Ulf Bergman**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-28_agricultural-commodities-demand-for-us-exports-to-remain-strong-driving-rising-i_img_image-asset_71408ade43d1.jpeg)
+> [Local Asset](assets/2021-01-28_agricultural-commodities-demand-for-us-exports-to-remain-strong-driving-rising-i_img_image-asset_71408ade43d1.jpeg)
 
 The shortage of available containers in many export ports, especially in China, could see increasing demand for dry bulk tonnage as a secondary effect. There have been some suggestions that cargoes of US agricultural have been rejected by the container carriers, as they rush to reposition their equipment to cater to continued strong demand from Chinese exporters. The detour for filling containers with US agricultural goods may be considered too time consuming for many shippers, as the container rates on the front haul leg from China to the US are considerable higher than in the opposite direction. In combination with rising US exports of agricultural commodities, there has been some reports suggesting that refused cargoes are being redirected to the dry bulk shipping sector with increasing dry bulk shipments from US ports. Recent data from MarineTraffic also show that the number of dry bulk vessels leaving the major US ports with China as a destination doubled in the fourth quarter last year, compared to the same period in 2019.
 
@@ -32,7 +32,7 @@ Chinese purchases of US soybeans spiked in the latter parts of last year to leve
 ![Ulf 220](assets/2021-01-28_agricultural-commodities-demand-for-us-exports-to-remain-strong-driving-rising-i_img_ulf220_879beed206c5.png)
 
 > **Figure 2: Ulf 220**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-28_agricultural-commodities-demand-for-us-exports-to-remain-strong-driving-rising-i_img_ulf220_879beed206c5.png)
+> [Local Asset](assets/2021-01-28_agricultural-commodities-demand-for-us-exports-to-remain-strong-driving-rising-i_img_ulf220_879beed206c5.png)
 
 A continued strong demand for imported soybeans in China could see American inventories emptying, as the overseas demand would outstrip the US production. The USDA also recently reduced their projections somewhat for the soybean production in the 2020/21 season. The rate of the export growth is rapidly emptying the silos and the US is expected to have to start to import soybeans to cover domestic demand. It is a similar situation to what Brazil found itself in last year when strong exports to China forced the country to import soybeans to cover its domestic need, despite being one of the major producers.
 
@@ -41,7 +41,7 @@ The strong Chinese demand, in combination with dwindling US inventories, are als
 ![Ulf 221](assets/2021-01-28_agricultural-commodities-demand-for-us-exports-to-remain-strong-driving-rising-i_img_ulf221_b1b3ca056aad.jpg)
 
 > **Figure 3: Ulf 221**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-01-28_agricultural-commodities-demand-for-us-exports-to-remain-strong-driving-rising-i_img_ulf221_b1b3ca056aad.jpg)
+> [Local Asset](assets/2021-01-28_agricultural-commodities-demand-for-us-exports-to-remain-strong-driving-rising-i_img_ulf221_b1b3ca056aad.jpg)
 
 The USDA is expecting the US to import 35 million bushels in the 2020/21 season, which is the double of its previous projection and the highest since the 72 million in the 2013/14 season. There are also some analysts who are expecting the imports to reach those levels in the current season as well. For the same period, the USDA is also forecasting US exports of soybeans to rise to a record 2.23 billion bushels.
 

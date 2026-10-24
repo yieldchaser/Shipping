@@ -56,6 +56,6 @@ Thermal coal prices have staged a comeback during the second half of the month a
 ![Market Chart 1](assets/2022-11-29_shipfix-global-market-update_img_unnamed-2022-11-29t134420782_265c69e90a22.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-29_shipfix-global-market-update_img_unnamed-2022-11-29t134420782_265c69e90a22.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-11-29_shipfix-global-market-update_img_unnamed-2022-11-29t134420782_265c69e90a22.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

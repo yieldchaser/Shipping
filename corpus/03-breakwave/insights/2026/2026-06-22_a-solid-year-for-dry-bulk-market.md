@@ -29,14 +29,14 @@ Between January and May 2026, China imported 516.26 million tonnes of iron ore, 
 ![Στιγμιότυπο Οθόνης 2026 06 22 150628](assets/2026-06-22_a-solid-year-for-dry-bulk-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d6a55d911fd7.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 06 22 150628**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-22_a-solid-year-for-dry-bulk-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d6a55d911fd7.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2026-06-22_a-solid-year-for-dry-bulk-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d6a55d911fd7.png)
 
 In the coal runs, trade dynamics remain more uneven but increasingly supportive on a forward-looking basis. China’s coal imports for the January-May period have been broadly stable overall, although May alone recorded an 8 percent year-on-year decline. This softness reflects short-term adjustments in domestic supply conditions and shifting procurement timing. However, June imports are expected to rise significantly, with thermal coal arrivals projected to increase by 27.6 percent year-on-year to 27.8 million tonnes, driven by seasonal demand and tightening local supply conditions. Soybean flows have followed a more stable but bifurcated trajectory, with imports by China’s crushers holding at approximately 37 million tonnes over January-May, while May arrivals declined by 15.3 percent year-on-year to 11.79 million tonnes.
 
 ![Στιγμιότυπο Οθόνης 2026 06 22 150638](assets/2026-06-22_a-solid-year-for-dry-bulk-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3d2adff46fb9.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 06 22 150638**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-22_a-solid-year-for-dry-bulk-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3d2adff46fb9.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2026-06-22_a-solid-year-for-dry-bulk-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3d2adff46fb9.png)
 
 Looking ahead, Brazilian export programmes point to firmer shipments into June and July, offering renewed support to Atlantic basin demand. Against this backdrop, the Kamsarmax market has averaged $17,242 per day year-to-date, materially higher compared to last year, with modern eco Kamsarmax asset values now assessed at around $39 million, representing a 26 percent year-on-year increase.
 
@@ -45,14 +45,14 @@ In the steel-linked segment, geopolitical and policy-driven distortions continue
 ![Στιγμιότυπο Οθόνης 2026 06 22 150805](assets/2026-06-22_a-solid-year-for-dry-bulk-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7324519dccb1.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 06 22 150805**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-22_a-solid-year-for-dry-bulk-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7324519dccb1.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2026-06-22_a-solid-year-for-dry-bulk-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7324519dccb1.png)
 
 Within the minor bulk segment, trading activity has remained broadly supportive year-to-date, with tonne-mile demand continuing to expand despite mixed industrial and geopolitical conditions. Bauxite and minor ores have been the key driver, underpinned by robust Chinese import demand, while steel-related cargoes have held a broadly stable but uneven trajectory amid divergent global construction trends. Fertiliser flows have provided steady support, increasingly shaped by logistical rerouting and supply-chain adjustments, alongside a consistent base from cement, scrap, and minor minerals, albeit at a more moderate pace than in previous years. Overall, minor bulks remain a structural pillar of dry bulk demand in 2026, with growth increasingly driven by inefficiencies rather than outright demand expansion. In this context, the Handysize market has averaged $13,508 per day year-to-date, up 40 percent yearon-year, with modern Handysize values rising to around $30 million, a 17 percent increase year-on-year.
 
 ![Στιγμιότυπο Οθόνης 2026 06 22 150845](assets/2026-06-22_a-solid-year-for-dry-bulk-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_074e46a3cf08.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2026 06 22 150845**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-22_a-solid-year-for-dry-bulk-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_074e46a3cf08.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2026-06-22_a-solid-year-for-dry-bulk-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_074e46a3cf08.png)
 
 Overall, the dry bulk market has shifted from a broadly lukewarm 2025 to a markedly firmer 2026, with all vessel segments recording solid year-onyear gains. This has been also reflected in a firmer asset market, with vessel values appreciating across all sizes as earnings strength and improved sentiment feed through into higher valuations. However, this resilience remains increasingly underpinned by structural inefficiencies and persistent logistical frictions, which continue to amplify tonne-mile demand.
 

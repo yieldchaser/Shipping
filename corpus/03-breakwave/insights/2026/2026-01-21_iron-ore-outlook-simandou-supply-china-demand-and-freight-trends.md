@@ -25,7 +25,7 @@ In this week’s Allied Quantumsea Research, we review the evolving iron ore mar
 ![Στιγμιότυπο Οθόνης 2026 01 21 110910](assets/2026-01-21_iron-ore-outlook-simandou-supply-china-demand-and-freight-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a49d0a66277.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 01 21 110910**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-21_iron-ore-outlook-simandou-supply-china-demand-and-freight-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a49d0a66277.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-01-21_iron-ore-outlook-simandou-supply-china-demand-and-freight-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a49d0a66277.png)
 
 ### Market Overview: Price Strength versus Fundamentals
 
@@ -44,7 +44,7 @@ The project’s longer‑term significance lies in its scale. Once fully ramped 
 ![Στιγμιότυπο Οθόνης 2026 01 21 110924](assets/2026-01-21_iron-ore-outlook-simandou-supply-china-demand-and-freight-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_44381f4a614a.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 01 21 110924**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-21_iron-ore-outlook-simandou-supply-china-demand-and-freight-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_44381f4a614a.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-01-21_iron-ore-outlook-simandou-supply-china-demand-and-freight-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_44381f4a614a.png)
 
 ### China Demand: Weak Steel Fundamentals Beneath Strong Import Flows
 

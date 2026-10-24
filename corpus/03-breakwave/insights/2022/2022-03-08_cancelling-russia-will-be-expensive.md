@@ -33,7 +33,7 @@ In the past week, we are witnessing a historical novelty, however. The essential
 ![Unsplash Image 7lbpooxf V8](assets/2022-03-08_cancelling-russia-will-be-expensive_img_unsplash-image-7lbpooxf-v8_71c7dbec966d.jpg)
 
 > **Figure 1: Unsplash Image 7lbpooxf V8**  
-> **Interactive Data & Source:** [Space](https://www.space.com/russia-refuses-launch-oneweb-satellites-demands) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-03-08_cancelling-russia-will-be-expensive_img_unsplash-image-7lbpooxf-v8_71c7dbec966d.jpg)
+> **Interactive Data & Source:** [Space](https://www.space.com/russia-refuses-launch-oneweb-satellites-demands) | [Local Asset](assets/2022-03-08_cancelling-russia-will-be-expensive_img_unsplash-image-7lbpooxf-v8_71c7dbec966d.jpg)
 
 But western sanctions over the Ukrainian war are great and far-reaching, way beyond Russia and its nationals.
 

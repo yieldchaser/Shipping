@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-09-18_weekly-insights-revie
 ![Unsplash Image R36d1sxepno](assets/2022-09-18_weekly-insights-review_img_unsplash-image-r36d1sxepno_f8892a229b05.jpg)
 
 > **Figure 1: Unsplash Image R36d1sxepno**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/12/shipping-decarbonization-weekly-insights) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-18_weekly-insights-review_img_unsplash-image-r36d1sxepno_f8892a229b05.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/12/shipping-decarbonization-weekly-insights) | [Local Asset](assets/2022-09-18_weekly-insights-review_img_unsplash-image-r36d1sxepno_f8892a229b05.jpg)
 
 ## Shipping Decarbonization Weekly Insights
 
@@ -45,7 +45,7 @@ Last week saw the European Central Bank following the US Federal Reserve’s exa
 ![Unsplash Image Yx20mpdyr2i](assets/2022-09-18_weekly-insights-review_img_unsplash-image-yx20mpdyr2i_b8b42bc8e9de.jpg)
 
 > **Figure 2: Unsplash Image Yx20mpdyr2i**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/14/signal-dry-bulk-weekly-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-18_weekly-insights-review_img_unsplash-image-yx20mpdyr2i_b8b42bc8e9de.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/14/signal-dry-bulk-weekly-report) | [Local Asset](assets/2022-09-18_weekly-insights-review_img_unsplash-image-yx20mpdyr2i_b8b42bc8e9de.jpg)
 
 ## Signal Dry Bulk Weekly Report
 
@@ -57,14 +57,14 @@ Prices for iron ore cargoes containing 63.5% iron for delivery to Tianjin rose t
 ![Unsplash Image T4jddie6uzs](assets/2022-09-18_weekly-insights-review_img_unsplash-image-t4jddie6uzs_023ce3a4a307.jpg)
 
 > **Figure 3: Unsplash Image T4jddie6uzs**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/14/higher-than-expected-inflation-pushes-commodities-lower) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-18_weekly-insights-review_img_unsplash-image-t4jddie6uzs_023ce3a4a307.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/14/higher-than-expected-inflation-pushes-commodities-lower) | [Local Asset](assets/2022-09-18_weekly-insights-review_img_unsplash-image-t4jddie6uzs_023ce3a4a307.jpg)
 
 ## Higher Than Expected Inflation Pushes Commodities Lower
 
 ![Unsplash Image Wffw Xutxoy](assets/2022-09-18_weekly-insights-review_img_unsplash-image-wffw-xutxoy_1f31058ef2d4.jpg)
 
 > **Figure 4: Unsplash Image Wffw Xutxoy**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/14/higher-than-expected-inflation-pushes-commodities-lower) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-18_weekly-insights-review_img_unsplash-image-wffw-xutxoy_1f31058ef2d4.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/14/higher-than-expected-inflation-pushes-commodities-lower) | [Local Asset](assets/2022-09-18_weekly-insights-review_img_unsplash-image-wffw-xutxoy_1f31058ef2d4.jpg)
 
 ## More Support for the Construction Sector Is Expected As Beijing Looks to Boost Economic Activity
 
@@ -74,7 +74,7 @@ Higher than expected inflation in the US raised fears of further aggressive hike
 ![Unsplash Image Bfasvap7mf0](assets/2022-09-18_weekly-insights-review_img_unsplash-image-bfasvap7mf0_b5460a654de2.jpg)
 
 > **Figure 5: Unsplash Image Bfasvap7mf0**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/15/vlcc-supply-and-demand-analysis) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-18_weekly-insights-review_img_unsplash-image-bfasvap7mf0_b5460a654de2.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/15/vlcc-supply-and-demand-analysis) | [Local Asset](assets/2022-09-18_weekly-insights-review_img_unsplash-image-bfasvap7mf0_b5460a654de2.jpg)
 
 ## Vesselsvalue - VLCC Supply and Demand Analysis
 
@@ -93,7 +93,7 @@ As global fuel demand falls amidst a broader economic slowdown that is brewing b
 ![Unsplash Image Yjlpvop Gsw](assets/2022-09-18_weekly-insights-review_img_unsplash-image-yjlpvop-gsw_6135b0bfc330.jpg)
 
 > **Figure 6: Unsplash Image Yjlpvop Gsw**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/16/strength-in-indias-coal-production-and-electricity-production) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-18_weekly-insights-review_img_unsplash-image-yjlpvop-gsw_6135b0bfc330.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/16/strength-in-indias-coal-production-and-electricity-production) | [Local Asset](assets/2022-09-18_weekly-insights-review_img_unsplash-image-yjlpvop-gsw_6135b0bfc330.jpg)
 
 ## Strength in India's Coal Production and Electricity Production
 
@@ -105,12 +105,12 @@ Coal India produced approximately 46.2 million tons of coal last month, which ma
 ![Unsplash Image Vo6gqlo62ha](assets/2022-09-18_weekly-insights-review_img_unsplash-image-vo6gqlo62ha_400b66ca2caf.jpg)
 
 > **Figure 7: Unsplash Image Vo6gqlo62ha**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/16/gold-slumps-amid-the-spectre-of-more-aggressive-rate-hikes) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-18_weekly-insights-review_img_unsplash-image-vo6gqlo62ha_400b66ca2caf.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/16/gold-slumps-amid-the-spectre-of-more-aggressive-rate-hikes) | [Local Asset](assets/2022-09-18_weekly-insights-review_img_unsplash-image-vo6gqlo62ha_400b66ca2caf.jpg)
 
 ![Unsplash Image Iysrkq5qq0q](assets/2022-09-18_weekly-insights-review_img_unsplash-image-iysrkq5qq0q_45f4ad09aaca.jpg)
 
 > **Figure 8: Unsplash Image Iysrkq5qq0q**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/16/gold-slumps-amid-the-spectre-of-more-aggressive-rate-hikes) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-18_weekly-insights-review_img_unsplash-image-iysrkq5qq0q_45f4ad09aaca.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/9/16/gold-slumps-amid-the-spectre-of-more-aggressive-rate-hikes) | [Local Asset](assets/2022-09-18_weekly-insights-review_img_unsplash-image-iysrkq5qq0q_45f4ad09aaca.jpg)
 
 ## Gold Slumps Amid the Spectre of More Aggressive Rate Hikes
 
@@ -131,4 +131,4 @@ Commodity markets suffered further losses as mixed economic data did nothing to 
 ![Unsplash Image Iezregcjt10](assets/2022-09-18_weekly-insights-review_img_unsplash-image-iezregcjt10_39c0db8d8a57.jpg)
 
 > **Figure 9: Unsplash Image Iezregcjt10**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-18_weekly-insights-review_img_unsplash-image-iezregcjt10_39c0db8d8a57.jpg)
+> [Local Asset](assets/2022-09-18_weekly-insights-review_img_unsplash-image-iezregcjt10_39c0db8d8a57.jpg)

@@ -35,7 +35,7 @@ The new sanctions named a handful of entities facilitating Iranian oil exports, 
 ![1962 Image 0 1787761192265](assets/2026-08-27_economic-d-day-more-bark-than-bite-but-hormuz-risks-rise-with-irans-blacklist_img_1962-image-0-1787761192265_cc63cae3263e.png)
 
 > **Figure 1: 1962 Image 0 1787761192265**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-27_economic-d-day-more-bark-than-bite-but-hormuz-risks-rise-with-irans-blacklist_img_1962-image-0-1787761192265_cc63cae3263e.png)
+> [Local Asset](assets/2026-08-27_economic-d-day-more-bark-than-bite-but-hormuz-risks-rise-with-irans-blacklist_img_1962-image-0-1787761192265_cc63cae3263e.png)
 
 ### Competing Enforcement Regimes in Hormuz
 
@@ -60,7 +60,7 @@ Refined products have been exported out of the Mideast Gulf in smaller volumes t
 ![9b29 Image 1 1787760993723](assets/2026-08-27_economic-d-day-more-bark-than-bite-but-hormuz-risks-rise-with-irans-blacklist_img_9b29-image-1-1787760993723_95767ea8043c.png)
 
 > **Figure 2: 9b29 Image 1 1787760993723**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-27_economic-d-day-more-bark-than-bite-but-hormuz-risks-rise-with-irans-blacklist_img_9b29-image-1-1787760993723_95767ea8043c.png)
+> [Local Asset](assets/2026-08-27_economic-d-day-more-bark-than-bite-but-hormuz-risks-rise-with-irans-blacklist_img_9b29-image-1-1787760993723_95767ea8043c.png)
 
 ---
 

@@ -53,7 +53,7 @@ Unlike energy markets, where strategic reserves may partially mitigate supply sh
 ![Στιγμιότυπο Οθόνης 2026 03 11 163059](assets/2026-03-11_hormuz-disruption-and-the-emerging-fertiliser-shock_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a54a26240f7d.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 03 11 163059**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-11_hormuz-disruption-and-the-emerging-fertiliser-shock_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a54a26240f7d.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-03-11_hormuz-disruption-and-the-emerging-fertiliser-shock_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a54a26240f7d.png)
 
 ### Fertiliser Prices and the Role of Asian Importers
 
@@ -64,7 +64,7 @@ India supplements domestic fertiliser production with imports while also relying
 ![Στιγμιότυπο Οθόνης 2026 03 11 163209](assets/2026-03-11_hormuz-disruption-and-the-emerging-fertiliser-shock_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c470fbceec01.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 03 11 163209**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-11_hormuz-disruption-and-the-emerging-fertiliser-shock_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c470fbceec01.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2026-03-11_hormuz-disruption-and-the-emerging-fertiliser-shock_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c470fbceec01.png)
 
 ### Implications for Brazil and Global Agriculture
 

@@ -27,7 +27,7 @@ The prospect of easing monetary policy helped boost sentiment across the commodi
 ![Στιγμιότυπο Οθόνης 2024 07 15 094502](assets/2024-07-15_sentiment-supported-by-strong-commodity-imports-into-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d7c5807b3836.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 15 094502**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-15_sentiment-supported-by-strong-commodity-imports-into-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d7c5807b3836.png)
+> [Local Asset](assets/2024-07-15_sentiment-supported-by-strong-commodity-imports-into-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d7c5807b3836.png)
 
 ### Market Commentary
 
@@ -44,7 +44,7 @@ The prospect of easing monetary policy helped boost sentiment across the commodi
 ![Στιγμιότυπο Οθόνης 2024 07 15 094618](assets/2024-07-15_sentiment-supported-by-strong-commodity-imports-into-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d05eb3071928.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 07 15 094618**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-15_sentiment-supported-by-strong-commodity-imports-into-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d05eb3071928.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-07-15_sentiment-supported-by-strong-commodity-imports-into-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d05eb3071928.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

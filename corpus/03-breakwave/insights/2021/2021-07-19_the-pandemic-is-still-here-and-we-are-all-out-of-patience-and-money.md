@@ -31,7 +31,7 @@ On the one hand, the Delta variant is spreading across the globe and vaccination
 ![A3](assets/2021-07-19_the-pandemic-is-still-here-and-we-are-all-out-of-patience-and-money_img_a3_0aca220b9a4c.jpg)
 
 > **Figure 1: A3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-07-19_the-pandemic-is-still-here-and-we-are-all-out-of-patience-and-money_img_a3_0aca220b9a4c.jpg)
+> [Local Asset](assets/2021-07-19_the-pandemic-is-still-here-and-we-are-all-out-of-patience-and-money_img_a3_0aca220b9a4c.jpg)
 
 On the other hand, governments in the West are now exhibiting signs of Covid-weariness. The political and economic toll of movement restrictions for over a year is tilting the scale towards economic re-openings, even at the risk of higher mortalities and stricter closures in the Autumn. The debt burden is climbing dangerously. The British government has chosen to ignore a record number of Covid-19 cases, as long as hospitalisations and deaths remain low. The French government is considering the withdrawal of stricter measures for those unvaccinated, a controversial tactic that increases social tensions and could result in further economic damage.
 

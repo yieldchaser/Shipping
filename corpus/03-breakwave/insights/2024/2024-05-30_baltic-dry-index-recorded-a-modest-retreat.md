@@ -63,7 +63,7 @@ Continued robust cargo order volumes during the past few weeks and a strong star
 ![Στιγμιότυπο Οθόνης 2024 05 30 101501](assets/2024-05-30_baltic-dry-index-recorded-a-modest-retreat_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_247e1ed81c2c.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 30 101501**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-30_baltic-dry-index-recorded-a-modest-retreat_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_247e1ed81c2c.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-05-30_baltic-dry-index-recorded-a-modest-retreat_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_247e1ed81c2c.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

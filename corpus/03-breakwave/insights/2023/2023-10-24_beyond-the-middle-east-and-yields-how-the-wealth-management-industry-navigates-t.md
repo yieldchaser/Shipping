@@ -44,7 +44,7 @@ Typically, asset managers create a range of mutual funds, build research and man
 ![Market Chart 1](assets/2023-10-24_beyond-the-middle-east-and-yields-how-the-wealth-management-industry-navigates-t_img_image00228629_0e16db25ca7f.jpg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Ft](https://www.ft.com/content/24ca8149-816e-4263-816b-30be7ea52c0c) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-24_beyond-the-middle-east-and-yields-how-the-wealth-management-industry-navigates-t_img_image00228629_0e16db25ca7f.jpg)
+> **Interactive Data & Source:** [Ft](https://www.ft.com/content/24ca8149-816e-4263-816b-30be7ea52c0c) | [Local Asset](assets/2023-10-24_beyond-the-middle-east-and-yields-how-the-wealth-management-industry-navigates-t_img_image00228629_0e16db25ca7f.jpg)
 
 For the past few years, after the 2009 crisis and the imposition of the MiFID II standards, expense ratios for actively managed equity funds have gone from 1% to 0.65%, and for bond funds from 0.65% to nearly 0.4%. Even index funds are now squeezed, charging a quarter of what they did in 2007. Fund managers are reportedly quitting, where the industry is shifting from one trend to another to find some profitability.
 

@@ -30,21 +30,21 @@ This brings us to the recent market rout. The last two weeks saw some surprising
 ![Market Chart 1](assets/2023-02-28_mazars-comment-sticky-growth-or-a-wiley-e-consumer-moment_img_image00628729_aa4ddf01f8e8.jpg)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Mazars Co](https://www.mazars.co.uk/Home/Services/Financial-Planning/Investment-News/Quarterly-investment-outlook-Q1-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-28_mazars-comment-sticky-growth-or-a-wiley-e-consumer-moment_img_image00628729_aa4ddf01f8e8.jpg)
+> **Interactive Data & Source:** [Mazars Co](https://www.mazars.co.uk/Home/Services/Financial-Planning/Investment-News/Quarterly-investment-outlook-Q1-2023) | [Local Asset](assets/2023-02-28_mazars-comment-sticky-growth-or-a-wiley-e-consumer-moment_img_image00628729_aa4ddf01f8e8.jpg)
 
 Then, last Friday, three more numbers were announced. Consumer expenditure, consumer income and, more importantly, core consumer expenditure deflator, which rose 4.7%, while last month's number was revised up. The Chicago Fed’s national activity index also corroborated that January was a good month for the economy. While less advertised than headline numbers, core consumer expenditure is the Fed’s preferred gauge of inflation. And it’s accelerating, instead of decelerating.
 
 ![Market Chart 2](assets/2023-02-28_mazars-comment-sticky-growth-or-a-wiley-e-consumer-moment_img_image00728329_80d037e8dee1.jpg)
 
 > **Figure 2: Market Chart 2**  
-> **Interactive Data & Source:** [Mazars Co](https://www.mazars.co.uk/Home/Services/Financial-Planning/Investment-News/Quarterly-investment-outlook-Q1-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-28_mazars-comment-sticky-growth-or-a-wiley-e-consumer-moment_img_image00728329_80d037e8dee1.jpg)
+> **Interactive Data & Source:** [Mazars Co](https://www.mazars.co.uk/Home/Services/Financial-Planning/Investment-News/Quarterly-investment-outlook-Q1-2023) | [Local Asset](assets/2023-02-28_mazars-comment-sticky-growth-or-a-wiley-e-consumer-moment_img_image00728329_80d037e8dee1.jpg)
 
 The announcement sent stocks down and was the final blow in wiping out all the gains for bond markets since the beginning of the year. Investors began adapting their peak interest rates to 5.5%, up from 5.25%. Considering that the Fed has been leading those forecasts higher and higher (which means the market is biased towards lower rates), we should now assume that even a 6% peak interest rate might not be out of the question, even though we think the Fed will pause at some point.
 
 ![Market Chart 3](assets/2023-02-28_mazars-comment-sticky-growth-or-a-wiley-e-consumer-moment_img_image00828329_f8c7894059d8.jpg)
 
 > **Figure 3: Market Chart 3**  
-> **Interactive Data & Source:** [Mazars Co](https://www.mazars.co.uk/Home/Services/Financial-Planning/Investment-News/Quarterly-investment-outlook-Q1-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-28_mazars-comment-sticky-growth-or-a-wiley-e-consumer-moment_img_image00828329_f8c7894059d8.jpg)
+> **Interactive Data & Source:** [Mazars Co](https://www.mazars.co.uk/Home/Services/Financial-Planning/Investment-News/Quarterly-investment-outlook-Q1-2023) | [Local Asset](assets/2023-02-28_mazars-comment-sticky-growth-or-a-wiley-e-consumer-moment_img_image00828329_f8c7894059d8.jpg)
 
 In our latest[Quarterly](https://www.mazars.co.uk/Home/Services/Financial-Planning/Investment-News/Quarterly-investment-outlook-Q1-2023)we stated very clearly that we expect increased macroeconomic volatility in 2023, which means we also expect numbers to vary widely from forecasts. So we are not surprised by the numbers themselves. But we are surprised by the resilience of consumers.
 
@@ -55,12 +55,12 @@ The numbers represent unexpected consumer resilience in the US, at a point when 
 ![Market Chart 4](assets/2023-02-28_mazars-comment-sticky-growth-or-a-wiley-e-consumer-moment_img_image00928329_da6b25ef3446.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-28_mazars-comment-sticky-growth-or-a-wiley-e-consumer-moment_img_image00928329_da6b25ef3446.jpg)
+> [Local Asset](assets/2023-02-28_mazars-comment-sticky-growth-or-a-wiley-e-consumer-moment_img_image00928329_da6b25ef3446.jpg)
 
 ![Market Chart 5](assets/2023-02-28_mazars-comment-sticky-growth-or-a-wiley-e-consumer-moment_img_image01028329_40a3c3157a7c.jpg)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-28_mazars-comment-sticky-growth-or-a-wiley-e-consumer-moment_img_image01028329_40a3c3157a7c.jpg)
+> [Local Asset](assets/2023-02-28_mazars-comment-sticky-growth-or-a-wiley-e-consumer-moment_img_image01028329_40a3c3157a7c.jpg)
 
 At the beginning of the year, most analysts believed that a sharp slowdown, if not a recession, was a given. Certainly, one of the biggest consumption numbers was not on the cards. So why are American consumers so resilient?
 

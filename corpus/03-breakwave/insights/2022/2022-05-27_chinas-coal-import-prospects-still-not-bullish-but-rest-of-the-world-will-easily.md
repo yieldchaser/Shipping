@@ -26,14 +26,14 @@ As we have highlighted to our clients in Commodore's recent Weekly Dry Bulk Repo
 ![Chart 1 (35)](assets/2022-05-27_chinas-coal-import-prospects-still-not-bullish-but-rest-of-the-world-will-easily_img_chart1283529_809150f3564a.jpg)
 
 > **Figure 1: Chart 1 (35)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-27_chinas-coal-import-prospects-still-not-bullish-but-rest-of-the-world-will-easily_img_chart1283529_809150f3564a.jpg)
+> [Local Asset](assets/2022-05-27_chinas-coal-import-prospects-still-not-bullish-but-rest-of-the-world-will-easily_img_chart1283529_809150f3564a.jpg)
 
 It remains concerning for China’s coal import prospects that coal production has stayed so strong. Also remaining concerning is that coal production growth continues to fare much better than coal-derived electricity generation growth. Coal-derived electricity generation is at least likely to start finding growth again whenever covid restrictions do fully come to an end, but we expect that China's coal production growth will continue to be stronger. Coal-derived electricity generation totaled 400.8 billion kilowatt hours in April. This is 68 billion kilowatt hours (-15%) less than was produced in March and down year-on-year by 50.9 billion kilowatt hours (-11%). Our recent work has also examined how production of renewables sources of electricity in China have all continued to grow.
 
 ![Chart 2 (32)](assets/2022-05-27_chinas-coal-import-prospects-still-not-bullish-but-rest-of-the-world-will-easily_img_chart2283229_9a4c2c54c781.jpg)
 
 > **Figure 2: Chart 2 (32)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-27_chinas-coal-import-prospects-still-not-bullish-but-rest-of-the-world-will-easily_img_chart2283229_9a4c2c54c781.jpg)
+> [Local Asset](assets/2022-05-27_chinas-coal-import-prospects-still-not-bullish-but-rest-of-the-world-will-easily_img_chart2283229_9a4c2c54c781.jpg)
 
 Overall, it is concerning for China’s coal import prospects that coal production has stayed so strong and coal-derived electricity generation has again contracted, but we still do not expect that any weakening in Chinese coal import volume would affect total global seaborne coal trade volume. There are enough other buyers for thermal coal, and we definitely still continue to expect that coal supply will simply be what is driving seaborne coal trade volume. Thermal coal demand from India, in particular, is poised to remain particularly robust. As we have been stressing in recent updates and reports for our clients, the Indian government has been becoming increasingly concerned about the possibility of coal shortages and power outages and has been directing utilities to significantly increase coal imports.
 

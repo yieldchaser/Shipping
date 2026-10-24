@@ -29,7 +29,7 @@ As we have stressed in Commodore's Weekly Dry Bulk Reports many times, Vale's gu
 ![Chart 1 (14)](assets/2022-01-16_rain-steel-and-cuddly-pets_img_chart1281429_4df5bb52f79f.jpg)
 
 > **Figure 1: Chart 1 (14)**  
-> **Interactive Data & Source:** [Wired](https://www.wired.com/story/could-being-cold-actually-be-good-for-you/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-16_rain-steel-and-cuddly-pets_img_chart1281429_4df5bb52f79f.jpg)
+> **Interactive Data & Source:** [Wired](https://www.wired.com/story/could-being-cold-actually-be-good-for-you/) | [Local Asset](assets/2022-01-16_rain-steel-and-cuddly-pets_img_chart1281429_4df5bb52f79f.jpg)
 
 Overall, it is certainly helpful for the dry bulk shipping market that Chinese steel production has found significant support and the dry bulk market will benefit this year if China's steel production is able to stay resilient. Also likely to remain significant to the dry bulk market this year is the global energy crisis. While Indonesia's coal shortage has come to an end and a semblance of stability has returned to Kazakhstan, an energy crisis very much remains intact in the world at large. Energy prices remain high and the Northern Hemisphere peak winter demand season remains in its infancy.
 
@@ -38,7 +38,7 @@ Going forward, we expect that new developments in both energy exporting nations 
 ![Market Chart 2](assets/2022-01-16_rain-steel-and-cuddly-pets_img_image1_7e5d558e7206.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-16_rain-steel-and-cuddly-pets_img_image1_7e5d558e7206.jpg)
+> [Local Asset](assets/2022-01-16_rain-steel-and-cuddly-pets_img_image1_7e5d558e7206.jpg)
 
 We are only two weeks into the new year and the world's largest thermal coal exporter has had to temporarily ban exports, one nation has faced the possibility of a regime change, one media outlet has suggested that being cold could be good for us, and one energy provider has advised to cuddle pets and leave ovens open to help stay warm. The next fifty weeks are sure to remain interesting, and we continue to anticipate that all energy assets (including coal) will be in great demand.
 

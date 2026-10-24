@@ -27,14 +27,14 @@ As we discussed in Commodore Research's June 3rd Weekly Dry Bulk Report, two mor
 ![241](assets/2024-06-10_additional-coal-mine-accidents-in-china-in-may_img_241_c7a800ec431d.jpg)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-10_additional-coal-mine-accidents-in-china-in-may_img_241_c7a800ec431d.jpg)
+> [Local Asset](assets/2024-06-10_additional-coal-mine-accidents-in-china-in-may_img_241_c7a800ec431d.jpg)
 
 Going forward, we continue to anticipate that China's coal production will remain in a contraction this year (as a point of comparison, last year saw coal production grow by 4%, which worked out to 192 million tons). China’s coal production this year has contracted on a year-on-year basis during each of the last four months (data is still pending for May), which marks a development not seen since 2018. During these last four months, it has contracted year-on-year by 57 million tons (-4%).
 
 ![242](assets/2024-06-10_additional-coal-mine-accidents-in-china-in-may_img_242_10d1c6ad2d4c.jpg)
 
 > **Figure 2: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-10_additional-coal-mine-accidents-in-china-in-may_img_242_10d1c6ad2d4c.jpg)
+> [Local Asset](assets/2024-06-10_additional-coal-mine-accidents-in-china-in-may_img_242_10d1c6ad2d4c.jpg)
 
 ---
 

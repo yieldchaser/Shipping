@@ -32,7 +32,7 @@ Against this backdrop, China’s central bank will cut the amount of reserves ba
 ![Screenshot 2024 01 29 15.37.15](assets/2024-01-29_doric-weekly-market-insight_img_screenshot2024-01-29153715_fa84e5b9b66b.png)
 
 > **Figure 1: Screenshot 2024 01 29 15.37.15**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-29_doric-weekly-market-insight_img_screenshot2024-01-29153715_fa84e5b9b66b.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-01-29_doric-weekly-market-insight_img_screenshot2024-01-29153715_fa84e5b9b66b.png)
 
 Numerous macro and commodity analysts noted that additional policy easing could positively influence the trajectory of the world's second-largest economy, with expectations of more supportive fundamentals emerging post the Chinese New Year in mid-February.
 
@@ -41,7 +41,7 @@ However, concerns have surfaced in the freight market, particularly regarding ac
 ![Screenshot 2024 01 29 15.37.26](assets/2024-01-29_doric-weekly-market-insight_img_screenshot2024-01-29153726_fd2d44bcf1b8.png)
 
 > **Figure 2: Screenshot 2024 01 29 15.37.26**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-29_doric-weekly-market-insight_img_screenshot2024-01-29153726_fd2d44bcf1b8.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-01-29_doric-weekly-market-insight_img_screenshot2024-01-29153726_fd2d44bcf1b8.png)
 
 While concerns surrounding the activity in coal runs persist for the current trading year, there is an optimistic development in the iron ore sector, marking its best week since November on the backdrop of improved sentiment in China. Dalian iron ore experienced a notable 4.3 percent increase on a weekly basis, the most significant gain since November 2023. Similarly, the Singapore iron ore contract rose by the same percentage, set to achieve its best week since the same month last year. Following the reserve requirement ratio cut, Chinese authorities are reportedly contemplating mobilizing approximately 2 trillion yuan ($278.61 billion) to stabilize a declining stock market. This move is seen as a significant effort to boost risk sentiment, as highlighted in a Bloomberg report. With these factors in consideration and Baltic Indices maintaining higher year-on-year balances, the dry bulk shipping industry is approaching the Chinese New Year holidays with a more positive outlook compared to the same period a year earlier.
 

@@ -29,7 +29,7 @@ Week 12, 20 March, 2025
 ![Στιγμιότυπο Οθόνης 2025 03 20 223526](assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32972c176453.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 03 20 223526**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32972c176453.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32972c176453.png)
 
 In recent months, the global oil market has experienced notable shifts, particularly in the dynamics of dirty tanker flows from the Arabian Gulf (AG) to both Europe and the Far East/India. These changes are intricately linked to fluctuations in crude oil prices and projections of a tightening global oil supply.​
 
@@ -56,7 +56,7 @@ Conversely, Europe's conservative posture reflects a wait-and-see approach. Euro
 ![Στιγμιότυπο Οθόνης 2025 03 20 224615](assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca81c7cac2e3.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 03 20 224615**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca81c7cac2e3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca81c7cac2e3.png)
 
 VLCC MEG/China rates are striving to maintain the firm sentiment of previous weeks, while the Suezmax segment continues to show signs of strengthening as the month comes to a close.
 
@@ -66,21 +66,21 @@ VLCC MEG/China rates are striving to maintain the firm sentiment of previous wee
 ![Στιγμιότυπο Οθόνης 2025 03 20 224806](assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fc5a2b58d3ff.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 03 20 224806**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fc5a2b58d3ff.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fc5a2b58d3ff.png)
 
 - **LR2**AG freight rates held firmer levels of the previous three weeks and rose to WS165, reflecting a 30% monthly increase.
 
 ![Στιγμιότυπο Οθόνης 2025 03 20 224859](assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_54f7c58ebb47.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 03 20 224859**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_54f7c58ebb47.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_54f7c58ebb47.png)
 
 - **Panamax**Carib-to-USG remained at around 150 WS, which corresponds to an increase of 25 % compared to the previous month.
 
 ![Στιγμιότυπο Οθόνης 2025 03 20 224947](assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_148d07f9751b.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 03 20 224947**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_148d07f9751b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_148d07f9751b.png)
 
 - **MR1**freight rates for**Baltic-to-Continent**shipments hovered around WS210, rising 5% week-on-week and demonstrating firmer momentum than the previous week.
 
@@ -89,7 +89,7 @@ VLCC MEG/China rates are striving to maintain the firm sentiment of previous wee
 ![Στιγμιότυπο Οθόνης 2025 03 20 225035](assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_408c67fdd562.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 03 20 225035**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_408c67fdd562.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_408c67fdd562.png)
 
 ​​​​​The number of available crude tankers remains below the yearly average across all vessel sizes. However, there are signs of a potential increase in Aframax tankers on the Mediterranean route.
 
@@ -101,12 +101,12 @@ VLCC MEG/China rates are striving to maintain the firm sentiment of previous wee
 ![Στιγμιότυπο Οθόνης 2025 03 20 225120](assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55eae63d9198.png)
 
 > **Figure 7: Στιγμιότυπο Οθόνης 2025 03 20 225120**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55eae63d9198.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55eae63d9198.png)
 
 ![Στιγμιότυπο Οθόνης 2025 03 20 225131](assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5538eb35fe6d.png)
 
 > **Figure 8: Στιγμιότυπο Οθόνης 2025 03 20 225131**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5538eb35fe6d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5538eb35fe6d.png)
 
 - **Clean LR2 AG Jubail**: The downward trend persists, with the vessel count remaining below the annual average of 11 over the last six weeks.
 
@@ -115,14 +115,14 @@ VLCC MEG/China rates are striving to maintain the firm sentiment of previous wee
 ![Στιγμιότυπο Οθόνης 2025 03 20 225243](assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_938717903495.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 03 20 225243**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_938717903495.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_938717903495.png)
 
 - **Dirty**tonne days: The remarkable surge in the Suezmax segment is raising hopes for a strong market recovery. Meanwhile, the VLCC and Aframax freight markets appear to be driven primarily by the number of prompt vessels, as demand growth remains sluggish in March.
 
 ![Στιγμιότυπο Οθόνης 2025 03 20 225332](assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_370f1a5a4cc3.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 03 20 225332**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_370f1a5a4cc3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_370f1a5a4cc3.png)
 
 - **Panamax**tonne days: The growth rate remains below this year's weekly average, but it seems to have bottomed out eight weeks ago. The pace is gradually approaching the annual average, particularly in the latter half of the month.
 

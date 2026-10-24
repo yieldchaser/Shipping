@@ -33,7 +33,7 @@ tags:
 
 > **Figure 1: Data Source: Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *Data Source: https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-31-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/64cbae925a7bf1a9c5fe3e6b_vlcc chart tonne charts.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-31-2023) | [Local Asset](../../images/64cbae925a7bf1a9c5fe3e6b_vlcc chart tonne charts.png)
 
 In the first days of August, sentiment in the crude tanker market continues to be under pressure, and there are no signs of recovery yet, while on AG the growth of tonne-miles towards the Far East (see image above) is continuously revised downwards. After the last peak in rates from AG  to China at the end of July, sentiment has deteriorated while weakness continues on the Aframax-Med route.
 

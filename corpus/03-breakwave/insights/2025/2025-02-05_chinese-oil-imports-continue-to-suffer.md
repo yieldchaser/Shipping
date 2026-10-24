@@ -27,7 +27,7 @@ With China’s crude oil imports again declining on both a month-on-month and ye
 ![Chart 1](assets/2025-02-05_chinese-oil-imports-continue-to-suffer_img_chart1_548fe8652b3f.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-05_chinese-oil-imports-continue-to-suffer_img_chart1_548fe8652b3f.jpg)
+> [Local Asset](assets/2025-02-05_chinese-oil-imports-continue-to-suffer_img_chart1_548fe8652b3f.jpg)
 
 As we have been stressing in Commodore Research's Weekly China Reports, consumers in China have been embracing electric vehicles, and this has been a significant headwind to oil consumption. Remaining significant to us is that starting in July last year, electric cars shifted to making up the majority of passenger cars sold in China. This has now occurred during five of the last six months — during which time electric car sales have accounted for 51% of all car sales in China.
 

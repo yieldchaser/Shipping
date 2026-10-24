@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-09-07_the-65-billion-barrel
 ![Oil Drilling](assets/2026-09-07_the-65-billion-barrel-deal_img_oil-drilling_1f62af173c53.jpg)
 
 > **Figure 1: Oil Drilling**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-07_the-65-billion-barrel-deal_img_oil-drilling_1f62af173c53.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-09-07_the-65-billion-barrel-deal_img_oil-drilling_1f62af173c53.jpg)
 
 Last Friday, President Trump announced that the US had reached an agreement to control 65 billion barrels of Venezuelan oil reserves in partnership with a little-known company called North American Blue Energy Partners (NABEP). The company currently produces around 250kbd, making it the 2nd largest private producer in the country and has been granted 100-year concessions on 17 oil fields with proven reserves of 65 billion barrels. As part of the deal, the US Department of War’s Office of Strategic Capital has been awarded a 35% equity stake in NABEP’s parent company, whilst the US Department of the State has been guaranteed 20% offtake and production cost from all current and future fields NABEP operates. The US will also have first right of refusal on the remaining 80% of production allowing it to exert control over additional oil supplies in emergency situations. NABEP is said to have developed a plan to rapidly scale production by investing up to $100 billion in new oil infrastructure in the country.
 
@@ -40,7 +40,7 @@ Overall, the real impact is likely to be an increase in the crude surplus in the
 ![Στιγμιότυπο Οθόνης 2026 09 07 110548](assets/2026-09-07_the-65-billion-barrel-deal_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32e1aa260ffd.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 09 07 110548**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-07_the-65-billion-barrel-deal_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32e1aa260ffd.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-09-07_the-65-billion-barrel-deal_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32e1aa260ffd.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

@@ -27,7 +27,7 @@ May 28, 2025
 ![Στιγμιότυπο Οθόνης 2025 05 29 142322](assets/2025-05-29_increased-congestion-at-newcastle-dry-port_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cc50a80eff72.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 05 29 142322**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-29_increased-congestion-at-newcastle-dry-port_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cc50a80eff72.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-29_increased-congestion-at-newcastle-dry-port_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cc50a80eff72.png)
 
 **This week’s Market Monitor focuses on Australian dry bulk port congestion**, following last week’s news of debris disrupting operations at Newcastle, the country’s largest thermal coal port. Newcastle’s loading port efficiency appears to be under serious turbulence due to severe rainfall leading to flooding across the Hunter River tributaries, a key region for coal mining. This has already signalled a significant impact on key congestion metrics, with an increase in port days in waiting status.
 
@@ -44,7 +44,7 @@ In the scenario of a delayed resolution, the debris issue could lead to further 
 ![Στιγμιότυπο Οθόνης 2025 05 29 142439](assets/2025-05-29_increased-congestion-at-newcastle-dry-port_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5d0d0fbed3a.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 05 29 142439**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-29_increased-congestion-at-newcastle-dry-port_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5d0d0fbed3a.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-29_increased-congestion-at-newcastle-dry-port_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5d0d0fbed3a.png)
 
 Freight market sentiment for the Capesize Brazil/North China and Panamax Continent/Far East routes remained flat compared to the previous week.
 
@@ -56,7 +56,7 @@ Freight market sentiment for the Capesize Brazil/North China and Panamax Contine
 ![Στιγμιότυπο Οθόνης 2025 05 29 142527](assets/2025-05-29_increased-congestion-at-newcastle-dry-port_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d24e8862d987.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 05 29 142527**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-29_increased-congestion-at-newcastle-dry-port_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d24e8862d987.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-29_increased-congestion-at-newcastle-dry-port_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d24e8862d987.png)
 
 The Panamax SE Africa region continues its upward trend in vessel numbers as May concludes. Conversely, the Supramax SE Asia vessel count has recently experienced a sharp decline, falling below its yearly trend.
 
@@ -68,7 +68,7 @@ The Panamax SE Africa region continues its upward trend in vessel numbers as May
 ![Στιγμιότυπο Οθόνης 2025 05 29 142629](assets/2025-05-29_increased-congestion-at-newcastle-dry-port_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0e10620bd1d2.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 05 29 142629**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-29_increased-congestion-at-newcastle-dry-port_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0e10620bd1d2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-29_increased-congestion-at-newcastle-dry-port_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0e10620bd1d2.png)
 
 The outlook for dry growth tonne days remained mixed, with the Capesize and Handysize vessel size segments recording a soft recovery, while a decrease persisted in the Panamax and Supramax segments
 
@@ -80,7 +80,7 @@ The outlook for dry growth tonne days remained mixed, with the Capesize and Hand
 ![Στιγμιότυπο Οθόνης 2025 05 29 142715](assets/2025-05-29_increased-congestion-at-newcastle-dry-port_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b25f0ad36500.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 05 29 142715**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-05-29_increased-congestion-at-newcastle-dry-port_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b25f0ad36500.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2025-05-29_increased-congestion-at-newcastle-dry-port_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b25f0ad36500.png)
 
 Dry bulk port congestion in China continued to ease in the last week of May, with a downward trend seen in all the vessel-size segments.
 

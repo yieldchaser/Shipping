@@ -36,7 +36,7 @@ China and India both saw imports increase, whilst the UAE saw imports fall as ma
 ![Στιγμιότυπο Οθόνης 2026 07 17 125050](assets/2026-07-17_hormuz-disruption-weighs-on-alumina-as-aluminium-flows-surge_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ed7dd6fea5e.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 07 17 125050**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-17_hormuz-disruption-weighs-on-alumina-as-aluminium-flows-surge_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ed7dd6fea5e.png)
+> [Local Asset](assets/2026-07-17_hormuz-disruption-weighs-on-alumina-as-aluminium-flows-surge_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ed7dd6fea5e.png)
 
 ## Global Seaborne Alumina
 
@@ -46,7 +46,7 @@ If the conflict continues to re-escalate, the alumina trade is likely to remain 
 ![Στιγμιότυπο Οθόνης 2026 07 17 125058](assets/2026-07-17_hormuz-disruption-weighs-on-alumina-as-aluminium-flows-surge_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_443a1d11862a.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 07 17 125058**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-17_hormuz-disruption-weighs-on-alumina-as-aluminium-flows-surge_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_443a1d11862a.png)
+> [Local Asset](assets/2026-07-17_hormuz-disruption-weighs-on-alumina-as-aluminium-flows-surge_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_443a1d11862a.png)
 
 ## Global Seaborne Aluminium
 
@@ -57,7 +57,7 @@ The United States saw similar levels of seaborne bulk aluminium imports in 2026 
 ![Στιγμιότυπο Οθόνης 2026 07 17 125107](assets/2026-07-17_hormuz-disruption-weighs-on-alumina-as-aluminium-flows-surge_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1557a5fdb780.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 07 17 125107**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-07-17_hormuz-disruption-weighs-on-alumina-as-aluminium-flows-surge_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1557a5fdb780.png)
+> [Local Asset](assets/2026-07-17_hormuz-disruption-weighs-on-alumina-as-aluminium-flows-surge_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1557a5fdb780.png)
 
 ---
 

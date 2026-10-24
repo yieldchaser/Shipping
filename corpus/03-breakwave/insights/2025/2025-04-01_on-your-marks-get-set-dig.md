@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-04-01_on-your-marks-get-set
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2025-04-01_on-your-marks-get-set-dig_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-01_on-your-marks-get-set-dig_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
+> [Local Asset](assets/2025-04-01_on-your-marks-get-set-dig_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png)
 
 China’s drive for supply security and diversification has led Capesize vessels to Guinea, fueling a rebound in the segment’s freight rates. As Trump’s administration relentlessly pursues an economic war on China during times of great uncertainty amid geopolitical tensions, the impact of tariffs on low cost commodities like bauxite becomes increasingly significant. Accordingly, this week, we examine one aspect of how this could come about by discussing anticipated changes in bauxite tradeflows on the Capesize market.
 
@@ -32,14 +32,14 @@ China’s drive for supply security and diversification has led Capesize vessels
 ![Στιγμιότυπο Οθόνης 2025 04 01 124504](assets/2025-04-01_on-your-marks-get-set-dig_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_73a39eb5155a.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 04 01 124504**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-01_on-your-marks-get-set-dig_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_73a39eb5155a.png)
+> [Local Asset](assets/2025-04-01_on-your-marks-get-set-dig_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_73a39eb5155a.png)
 
 **Priority is to secure raw materials supply**. To ensure and maintain alumina production, China needs to secure Bauxite supply. Guinea has recently grown to be a major Bauxite producer and exporter at a time when Indonesia has imposed a ban on bauxite exports, further reinforcing China’s need to diversify supply. Guinean production grew by 5.7% y-o-y in 2024 to reach 130 mln mt. This comes after the country extracted 123 mln mt of bauxite in 2023, representing a y-o-y increase of 19%. Simultaneously, AXSMarine data reveals that Guinea’s exports of Bauxite totalled 143.4 mln mt last year, a 15% increase compared to the previous year. Exports from the western African country were largely supported by China which accounted for about 86% of its shipments over the past two years. To give further perspective, Guinean bauxite shipments to China increased by 30% and 15% y-o-y in 2023 and 2024, respectively. More recently, customs data revealed that China cleared 14.4 mln mt of bauxite in February. Although being down by 11% m-o-m, it still marks a significant annual increase of 28%. This brings to 30.6 mln mt the level of Chinese bauxite imports in the first two months of 2025, a jump of 25% on the year. Data also reveal that Guinea accounted for 76.5% of China’s total bauxite imports during that period as volume totalled 23.4 mln mt (higher by 29% y-o-y). Meanwhile, imports from Australia declined by 4% to 5.3 mln mt during the January-February period. The reason behind this decline does not appear to stem from the supply side, as China largely offset the loss from Australia by sourcing bauxite from Guinea and smaller producers including Turkey, Ghana and Malaysia. Market participants are expecting Chinese imports of bauxite to remain high for the foreseeable future on the back of strong demand in the second quarter from new alumina capacity commissioning and as supply remains strong from Guinea and Australia. Given that Capesize represents about 60% of global bauxite trades, and China about 75-80% of global Bauxite imports, the current market condition should provide support to the Capesize segment. This is even more likely considering that the Guinea-China route (>11,000 nautical miles) is a longer haul compared to the Australia-China route (~3,400 nm).
 
 ![Στιγμιότυπο Οθόνης 2025 04 01 124514](assets/2025-04-01_on-your-marks-get-set-dig_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_522d75b044f0.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 04 01 124514**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-01_on-your-marks-get-set-dig_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_522d75b044f0.png)
+> [Local Asset](assets/2025-04-01_on-your-marks-get-set-dig_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_522d75b044f0.png)
 
 **Capesize, the big winners.**Capesize freight rates have started 2025 in the doldrums, especially when compared to last year level when the market was supported by rerouting away from Red Sea. As a benchmark, the Capesize TC average – C5TC – assessed by the Baltic averaged $10,150/day in January and $ 7,936/day in February, these were down by 53% and 75% y-o-y, respectively. Nevertheless, it appears that the Capesize market has rebounded so far in March with C5TC averaging above $20,000/day by 25 March. At time of writing, C5TC is therefore averaging $20,796/ day for the month of March, 4% higher than March 2024.
 
@@ -48,7 +48,7 @@ China’s drive for supply security and diversification has led Capesize vessels
 ![Στιγμιότυπο Οθόνης 2025 04 01 124529](assets/2025-04-01_on-your-marks-get-set-dig_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30a3bb22f2b9.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 04 01 124529**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-04-01_on-your-marks-get-set-dig_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30a3bb22f2b9.png)
+> [Local Asset](assets/2025-04-01_on-your-marks-get-set-dig_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30a3bb22f2b9.png)
 
 ---
 

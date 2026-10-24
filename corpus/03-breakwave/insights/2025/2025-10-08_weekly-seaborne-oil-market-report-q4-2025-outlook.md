@@ -29,7 +29,7 @@ Global oil tonne-miles rose from roughly 15.3 trillion in 2020 to around 16.4 tr
 ![Στιγμιότυπο Οθόνης 2025 10 08 110955](assets/2025-10-08_weekly-seaborne-oil-market-report-q4-2025-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ccbd6b34d45.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 10 08 110955**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-08_weekly-seaborne-oil-market-report-q4-2025-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ccbd6b34d45.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-10-08_weekly-seaborne-oil-market-report-q4-2025-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ccbd6b34d45.png)
 
 ### VLCC
 
@@ -38,7 +38,7 @@ VLCC tonne-miles expanded from around 6.8 trillion in 2015 to a peak of 7.7 tril
 ![Στιγμιότυπο Οθόνης 2025 10 08 111010](assets/2025-10-08_weekly-seaborne-oil-market-report-q4-2025-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bd78bb4b9a9e.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 10 08 111010**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-08_weekly-seaborne-oil-market-report-q4-2025-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bd78bb4b9a9e.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-10-08_weekly-seaborne-oil-market-report-q4-2025-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bd78bb4b9a9e.png)
 
 ### Suezmax
 
@@ -47,7 +47,7 @@ Suezmax tonne-miles expanded from approximately 2.23 trillion in 2015 to a peak 
 ![Στιγμιότυπο Οθόνης 2025 10 08 111024](assets/2025-10-08_weekly-seaborne-oil-market-report-q4-2025-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_99fe9e4374e4.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 10 08 111024**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-08_weekly-seaborne-oil-market-report-q4-2025-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_99fe9e4374e4.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-10-08_weekly-seaborne-oil-market-report-q4-2025-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_99fe9e4374e4.png)
 
 ### Aframax
 
@@ -56,7 +56,7 @@ Aframax and LR2 tonne-miles have shown steady long-term growth, rising from abou
 ![Στιγμιότυπο Οθόνης 2025 10 08 111035](assets/2025-10-08_weekly-seaborne-oil-market-report-q4-2025-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1a670019725a.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 10 08 111035**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-08_weekly-seaborne-oil-market-report-q4-2025-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1a670019725a.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-10-08_weekly-seaborne-oil-market-report-q4-2025-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1a670019725a.png)
 
 ### Panamax
 
@@ -65,7 +65,7 @@ Panamax and LR1 tonne-miles have shown a mild downward trend over the past decad
 ![Στιγμιότυπο Οθόνης 2025 10 08 111057](assets/2025-10-08_weekly-seaborne-oil-market-report-q4-2025-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d09cfa4fb35d.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 10 08 111057**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-08_weekly-seaborne-oil-market-report-q4-2025-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d09cfa4fb35d.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-10-08_weekly-seaborne-oil-market-report-q4-2025-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d09cfa4fb35d.png)
 
 ### MR
 
@@ -74,7 +74,7 @@ The combined MR1 and MR2 tonne-mile performance has remained buoyant over the pa
 ![Στιγμιότυπο Οθόνης 2025 10 08 111107](assets/2025-10-08_weekly-seaborne-oil-market-report-q4-2025-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5585bd693fbe.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 10 08 111107**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-08_weekly-seaborne-oil-market-report-q4-2025-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5585bd693fbe.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-10-08_weekly-seaborne-oil-market-report-q4-2025-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5585bd693fbe.png)
 
 ### What Challenges the Oil Market in Q4 2025
 

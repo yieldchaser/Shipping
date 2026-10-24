@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-22_weekly-insights-revie
 ![Unsplash Image Hwujp1wki7u](assets/2023-01-22_weekly-insights-review_img_unsplash-image-hwujp1wki7u_c987095eefd8.jpg)
 
 > **Figure 1: Unsplash Image Hwujp1wki7u**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/16/shipping-decarbonization-weekly-insights) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-22_weekly-insights-review_img_unsplash-image-hwujp1wki7u_c987095eefd8.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/16/shipping-decarbonization-weekly-insights) | [Local Asset](assets/2023-01-22_weekly-insights-review_img_unsplash-image-hwujp1wki7u_c987095eefd8.jpg)
 
 ## Shipping Decarbonization Weekly Insights
 
@@ -45,7 +45,7 @@ Following a quite uninspiring second half of 2022, Baltic Dry Index stepped into
 ![Unsplash Image 5pthqnmi5hy](assets/2023-01-22_weekly-insights-review_img_unsplash-image-5pthqnmi5hy_ba6ca69eb177.jpg)
 
 > **Figure 2: Unsplash Image 5pthqnmi5hy**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/16/mazars-morning-note-inflation-is-improving-were-still-not-fighting-the-fed) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-22_weekly-insights-review_img_unsplash-image-5pthqnmi5hy_ba6ca69eb177.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/16/mazars-morning-note-inflation-is-improving-were-still-not-fighting-the-fed) | [Local Asset](assets/2023-01-22_weekly-insights-review_img_unsplash-image-5pthqnmi5hy_ba6ca69eb177.jpg)
 
 ## Mazars Morning Note: Inflation Is Improving. We’re Still Not Fighting the Fed
 
@@ -57,7 +57,7 @@ Despite the Fed’s persistently hawkish rhetoric, since the last quarter of 202
 ![Unsplash Image Renh56dv2vq](assets/2023-01-22_weekly-insights-review_img_unsplash-image-renh56dv2vq_1445654436ae.jpg)
 
 > **Figure 3: Unsplash Image Renh56dv2vq**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/19/signal-dry-bulk-weekly-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-22_weekly-insights-review_img_unsplash-image-renh56dv2vq_1445654436ae.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/19/signal-dry-bulk-weekly-report) | [Local Asset](assets/2023-01-22_weekly-insights-review_img_unsplash-image-renh56dv2vq_1445654436ae.jpg)
 
 ## Signal Dry Bulk Weekly Report
 
@@ -69,14 +69,14 @@ The start of the new year brings weaker sentiment in freight rates, with an incr
 ![Unsplash Image S8q8lkmo3fe](assets/2023-01-22_weekly-insights-review_img_unsplash-image-s8q8lkmo3fe_56250048c879.jpg)
 
 > **Figure 4: Unsplash Image S8q8lkmo3fe**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/17/issues-remain-for-dry-bulk-market) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-22_weekly-insights-review_img_unsplash-image-s8q8lkmo3fe_56250048c879.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/17/issues-remain-for-dry-bulk-market) | [Local Asset](assets/2023-01-22_weekly-insights-review_img_unsplash-image-s8q8lkmo3fe_56250048c879.jpg)
 
 ## Issues Remain for Dry Bulk Market
 
 ![Unsplash Image Sfjs Fglvu4](assets/2023-01-22_weekly-insights-review_img_unsplash-image-sfjs-fglvu4_7979a1c9bfec.jpg)
 
 > **Figure 5: Unsplash Image Sfjs Fglvu4**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/17/issues-remain-for-dry-bulk-market) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-22_weekly-insights-review_img_unsplash-image-sfjs-fglvu4_7979a1c9bfec.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/17/issues-remain-for-dry-bulk-market) | [Local Asset](assets/2023-01-22_weekly-insights-review_img_unsplash-image-sfjs-fglvu4_7979a1c9bfec.jpg)
 
 ## China Continues to Experience Industrial Weakness and of Course Great Problems in Its Housing Market
 
@@ -88,7 +88,7 @@ One key theme we have been stressing in recent work is that passenger travel in 
 ![Unsplash Image Nndkt2kf1l4](assets/2023-01-22_weekly-insights-review_img_unsplash-image-nndkt2kf1l4_e66d066c18c9.jpg)
 
 > **Figure 6: Unsplash Image Nndkt2kf1l4**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/16/breakwave-bi-weekly-dry-bulk-report-january-17-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-22_weekly-insights-review_img_unsplash-image-nndkt2kf1l4_e66d066c18c9.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/16/breakwave-bi-weekly-dry-bulk-report-january-17-2023) | [Local Asset](assets/2023-01-22_weekly-insights-review_img_unsplash-image-nndkt2kf1l4_e66d066c18c9.jpg)
 
 ## Macro/geopolitics, Commodity Markets, Freight and Bunker Markets
 
@@ -103,7 +103,7 @@ As dry bulk activity resumes following the Christmas holidays, traders are faced
 ![Market Chart 7](assets/2023-01-22_weekly-insights-review_img_unnamed-2023-01-21t225856013_e7a8fa599961.png)
 
 > **Figure 7: Market Chart 7**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/19/strong-growth-in-indias-electricity-production-o3NPe) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-22_weekly-insights-review_img_unnamed-2023-01-21t225856013_e7a8fa599961.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/19/strong-growth-in-indias-electricity-production-o3NPe) | [Local Asset](assets/2023-01-22_weekly-insights-review_img_unnamed-2023-01-21t225856013_e7a8fa599961.png)
 
 ## Strong Growth in India's Electricity Production
 
@@ -115,12 +115,12 @@ India produced approximately 115.7 billion kilowatt hours of electricity last mo
 ![Unsplash Image Yj8bq1aiwom (1)](assets/2023-01-22_weekly-insights-review_img_unsplash-image-yj8bq1aiwom28129_564ac54883f0.jpg)
 
 > **Figure 8: Unsplash Image Yj8bq1aiwom (1)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/18/crude-oil-gains-as-opec-casts-an-optimistic-tone-on-demand) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-22_weekly-insights-review_img_unsplash-image-yj8bq1aiwom28129_564ac54883f0.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/18/crude-oil-gains-as-opec-casts-an-optimistic-tone-on-demand) | [Local Asset](assets/2023-01-22_weekly-insights-review_img_unsplash-image-yj8bq1aiwom28129_564ac54883f0.jpg)
 
 ![Unsplash Image Hf1wk T4lxo (3)](assets/2023-01-22_weekly-insights-review_img_unsplash-image-hf1wk-t4lxo28329_377bf14466fa.jpg)
 
 > **Figure 9: Unsplash Image Hf1wk T4lxo (3)**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/18/crude-oil-gains-as-opec-casts-an-optimistic-tone-on-demand) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-22_weekly-insights-review_img_unsplash-image-hf1wk-t4lxo28329_377bf14466fa.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/18/crude-oil-gains-as-opec-casts-an-optimistic-tone-on-demand) | [Local Asset](assets/2023-01-22_weekly-insights-review_img_unsplash-image-hf1wk-t4lxo28329_377bf14466fa.jpg)
 
 ## Crude Oil Gains As OPEC Casts an Optimistic Tone on Demand
 
@@ -134,7 +134,7 @@ A slightly weaker USD also added support.
 ![Unsplash Image 2o7bmblx8fk](assets/2023-01-22_weekly-insights-review_img_unsplash-image-2o7bmblx8fk_3f8c10afb8dd.jpg)
 
 > **Figure 10: Unsplash Image 2o7bmblx8fk**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/19/russia-overcomes-eu-ban-with-record-high-crude-exports-to-india) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-22_weekly-insights-review_img_unsplash-image-2o7bmblx8fk_3f8c10afb8dd.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/19/russia-overcomes-eu-ban-with-record-high-crude-exports-to-india) | [Local Asset](assets/2023-01-22_weekly-insights-review_img_unsplash-image-2o7bmblx8fk_3f8c10afb8dd.jpg)
 
 ## India Surpasses China As Largest Importer of Seaborne Russian Crude
 
@@ -144,7 +144,7 @@ Russia exported record-high volumes of crude to India in 1H January, facilitated
 ![1.png](assets/2023-01-22_weekly-insights-review_img_1png_2f31a68b9585.jpg)
 
 > **Figure 11: 1.png**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/19/lion-shipbrokers-feng-shui-analysis) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-22_weekly-insights-review_img_1png_2f31a68b9585.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2023/1/19/lion-shipbrokers-feng-shui-analysis) | [Local Asset](assets/2023-01-22_weekly-insights-review_img_1png_2f31a68b9585.jpg)
 
 ## Lion Shipbrokers- Feng Shui Analysis
 

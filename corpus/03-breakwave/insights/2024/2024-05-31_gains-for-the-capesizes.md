@@ -65,7 +65,7 @@ In recent months, we have seen volatile weekly cargo order volumes for rice. Whi
 ![Στιγμιότυπο Οθόνης 2024 05 31 165628](assets/2024-05-31_gains-for-the-capesizes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_44c2522bfaa3.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 05 31 165628**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-05-31_gains-for-the-capesizes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_44c2522bfaa3.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-05-31_gains-for-the-capesizes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_44c2522bfaa3.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

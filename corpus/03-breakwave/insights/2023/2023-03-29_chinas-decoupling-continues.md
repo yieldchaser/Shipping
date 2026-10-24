@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-03-29_chinas-decoupling-con
 
 > **Figure 1: Byjeffrey Landsberg**  
 > *ByJeffrey Landsberg*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/jeffrey-landsberg-70ab957/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-29_chinas-decoupling-continues_img_1281129_6b3edcdadb69.png)](https://www.breakwaveadvisors.com/insights/2023/3/29/did-you-know)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/jeffrey-landsberg-70ab957/) | [Local Asset](assets/2023-03-29_chinas-decoupling-continues_img_1281129_6b3edcdadb69.png)](https://www.breakwaveadvisors.com/insights/2023/3/29/did-you-know)
 
 As we have been stressing in our Weekly Dry Bulk Reports this year, we have been of the view that a recession has been underway for months in much of the global economy including the United States. The uniqueness and magnitude of current global consumer distress is still not being acknowledged (and most likely is still unknown) by most pundits, government officials, economists, media outlets, etc. In recent reports, we have been discussing how retail sales are not adjusted for inflation and how simple analysis of actual purchases of goods often is not provided. We continue to stress that the purchase of actual goods remains in contraction and that this is incredibly rare. This typically only occurs in recessions.
 
@@ -36,4 +36,4 @@ On the industrial side, year-on-year strength has also continued to intensify in
 ![Chart](assets/2023-03-29_chinas-decoupling-continues_img_chart_ec5b0fd01083.jpg)
 
 > **Figure 2: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-29_chinas-decoupling-continues_img_chart_ec5b0fd01083.jpg)
+> [Local Asset](assets/2023-03-29_chinas-decoupling-continues_img_chart_ec5b0fd01083.jpg)

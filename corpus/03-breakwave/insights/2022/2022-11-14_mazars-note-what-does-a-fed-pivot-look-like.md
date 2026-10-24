@@ -30,14 +30,14 @@ Talking about the ‘end of the Social Media era’, after Twitter and Meta (Fac
 ![Market Chart 1](assets/2022-11-14_mazars-note-what-does-a-fed-pivot-look-like_img_image00428329_66574bff4d53.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-14_mazars-note-what-does-a-fed-pivot-look-like_img_image00428329_66574bff4d53.jpg)
+> [Local Asset](assets/2022-11-14_mazars-note-what-does-a-fed-pivot-look-like_img_image00428329_66574bff4d53.jpg)
 
 Talking about ‘a Santa Rally’, or ‘falling inflation’ (as much as we are in that camp) as early signs of a ‘Fed Pivot’, may be equally premature. Last week’s good consumer inflation figures in the US (7.7% down from 8.2%) are certainly encouraging. But they are mostly the product of simple year-on-year arithmetic especially on energy and commodity prices. Meanwhile, the sticky part of inflation, services inflation, is rising persistently.
 
 ![Market Chart 2](assets/2022-11-14_mazars-note-what-does-a-fed-pivot-look-like_img_image00528429_a8be7c795ecb.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-14_mazars-note-what-does-a-fed-pivot-look-like_img_image00528429_a8be7c795ecb.jpg)
+> [Local Asset](assets/2022-11-14_mazars-note-what-does-a-fed-pivot-look-like_img_image00528429_a8be7c795ecb.jpg)
 
 The S&P 500 jumped back to nearly 4000 points on the news. However, during the week, we heard from no less than ten Fed officials, most of which suggested double instead of triple rate hikes, but no one even so much hinted at a ‘pivot’. We would not fight the Fed on this.
 
@@ -50,7 +50,7 @@ Surely there will be some more accommodative language by the Fed, possibly ackno
 ![Market Chart 3](assets/2022-11-14_mazars-note-what-does-a-fed-pivot-look-like_img_image00628429_f453e5616206.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-14_mazars-note-what-does-a-fed-pivot-look-like_img_image00628429_f453e5616206.jpg)
+> [Local Asset](assets/2022-11-14_mazars-note-what-does-a-fed-pivot-look-like_img_image00628429_f453e5616206.jpg)
 
 This would leave it with ammunition to fight off a resurgence in inflation (high rates and a reduced balance sheet).
 

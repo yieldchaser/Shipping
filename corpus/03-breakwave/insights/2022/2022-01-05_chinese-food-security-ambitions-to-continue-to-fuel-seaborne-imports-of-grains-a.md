@@ -29,7 +29,7 @@ Last year’s rapid reestablishment of the hog herd helped push Chinese seaborne
 ![Ch1](assets/2022-01-05_chinese-food-security-ambitions-to-continue-to-fuel-seaborne-imports-of-grains-a_img_ch1_59631d5ec163.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-05_chinese-food-security-ambitions-to-continue-to-fuel-seaborne-imports-of-grains-a_img_ch1_59631d5ec163.png)
+> [Local Asset](assets/2022-01-05_chinese-food-security-ambitions-to-continue-to-fuel-seaborne-imports-of-grains-a_img_ch1_59631d5ec163.png)
 
 The Panamax segment has long dominated Chinese seaborne imports of agricultural commodities, with average annual volumes accounting for 88 per cent of cargoes carried since 2015. Last year’s increasing imports primarily benefitted the Panamaxes. Especially as the largest vessels, the Capesizes, retreated following a brief foray into the trade during 2020 when their freight rates were low, and the segment clinched some five per cent of cargoes carried.
 
@@ -38,7 +38,7 @@ The two-year-old phase one trade deal between the US and China has failed to mee
 ![Ch2](assets/2022-01-05_chinese-food-security-ambitions-to-continue-to-fuel-seaborne-imports-of-grains-a_img_ch2_2cb28edb496c.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-01-05_chinese-food-security-ambitions-to-continue-to-fuel-seaborne-imports-of-grains-a_img_ch2_2cb28edb496c.png)
+> [Local Asset](assets/2022-01-05_chinese-food-security-ambitions-to-continue-to-fuel-seaborne-imports-of-grains-a_img_ch2_2cb28edb496c.png)
 
 The irony of China’s ambitions for a high degree of self-sufficiency for meat is that it is likely to fuel continued strong demand for seaborne imports of soybeans and other feed grains in the short to medium term. According to official customs data, the country imported 11.3 million tonnes of corn and 100.3 million tonnes of soybeans in 2020, but those records are likely to be exceeded as cargo data point towards even higher imports during the past twelve months. The goal to produce almost all pork meat domestically by 2025 will see further expansion of the pig herd, which at this stage will increase the demand for foreign-produced grains and oilseeds. The Chinese leadership has also highlighted the need to expand the domestic grain output to decrease the dependency on overseas supplies, paving the way for more land to be used for crops and increasing the use of genetically modified crops. However, such a process is likely to take some time, and in the meantime, Chinese pig breeders will have to rely on imported feed to meet the production goals. Hence, freight rates in the Panamax segment will continue to be supported by robust Chinese demand for agricultural commodities.
 

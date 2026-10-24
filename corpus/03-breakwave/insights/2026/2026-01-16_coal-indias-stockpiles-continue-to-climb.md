@@ -27,21 +27,21 @@ As we discussed in Commodore Research's most recent Weekly Executive Report, Coa
 ![Chart 1](assets/2026-01-16_coal-indias-stockpiles-continue-to-climb_img_chart1_d6b8ada5df82.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-16_coal-indias-stockpiles-continue-to-climb_img_chart1_d6b8ada5df82.jpg)
+> [Local Asset](assets/2026-01-16_coal-indias-stockpiles-continue-to-climb_img_chart1_d6b8ada5df82.jpg)
 
 Offtake (the amount sent to customers) totaled 64.9 million tons, which is up month-on-month by 2.2 million tons (4%) but down year-on-year by 3.7 million tons (-5%). Offtake has now come in under production for two straight months. Previously, it had exceeded production for seven straight months.
 
 ![Chart 2](assets/2026-01-16_coal-indias-stockpiles-continue-to-climb_img_chart2_359f8b4df570.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-16_coal-indias-stockpiles-continue-to-climb_img_chart2_359f8b4df570.jpg)
+> [Local Asset](assets/2026-01-16_coal-indias-stockpiles-continue-to-climb_img_chart2_359f8b4df570.jpg)
 
 Stockpiles have rebounded further with production again exceeding offtake. They now stand at approximately 106 million tons. This is just 9 million tons (-8%) less than March’s record 115 million tons and up year-on-year by 29 million tons (38%).
 
 ![Chart 3](assets/2026-01-16_coal-indias-stockpiles-continue-to-climb_img_chart3_6cb30c7f79da.jpg)
 
 > **Figure 3: Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-16_coal-indias-stockpiles-continue-to-climb_img_chart3_6cb30c7f79da.jpg)
+> [Local Asset](assets/2026-01-16_coal-indias-stockpiles-continue-to-climb_img_chart3_6cb30c7f79da.jpg)
 
 ---
 

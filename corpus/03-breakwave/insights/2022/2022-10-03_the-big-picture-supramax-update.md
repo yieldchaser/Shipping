@@ -34,7 +34,7 @@ While Supramax trade shrank by 5.6% over January—August this year compared to 
 ![Market Chart 1](assets/2022-10-03_the-big-picture-supramax-update_img_image028529_e62f69cfc745.png)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-03_the-big-picture-supramax-update_img_image028529_e62f69cfc745.png)
+> [Local Asset](assets/2022-10-03_the-big-picture-supramax-update_img_image028529_e62f69cfc745.png)
 
 ## Q4 and 2023
 
@@ -45,7 +45,7 @@ Grain trades are also likely to cause a headache in 2023. While demand is not an
 ![Market Chart 2](assets/2022-10-03_the-big-picture-supramax-update_img_image128529_74e25d3ae7da.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-03_the-big-picture-supramax-update_img_image128529_74e25d3ae7da.png)
+> [Local Asset](assets/2022-10-03_the-big-picture-supramax-update_img_image128529_74e25d3ae7da.png)
 
 The potential easing of congestion is a major risk to the downside as it would accelerate active fleet growth at a time of softening demand. Although it is impossible to forecast the exact timing, we reckon Supramax congestion will stay above typical historical levels in the coming months.
 
@@ -58,7 +58,7 @@ Grains should be another major driver once production bottlenecks ease and infla
 ![Market Chart 3](assets/2022-10-03_the-big-picture-supramax-update_img_image228529_44299b1ffe45.png)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-03_the-big-picture-supramax-update_img_image228529_44299b1ffe45.png)
+> [Local Asset](assets/2022-10-03_the-big-picture-supramax-update_img_image228529_44299b1ffe45.png)
 
 Meanwhile the Supramax fleet is entering a period of slower growth. We estimate a 2.4% expansion p.a. on average until 2026 vs 6.5% p.a. over the past decade. Although low by historical standards, it will coincide with a period of flattish seaborne trade growth. That said, with dry bulk demand growth in the following years stemming almost exclusively from grains and minor bulks, the Ultra/ Supramax segment is favoured in the medium-to-long term.
 

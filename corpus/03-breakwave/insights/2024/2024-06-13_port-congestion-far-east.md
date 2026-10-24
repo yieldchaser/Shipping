@@ -27,7 +27,7 @@ June 12, 2024
 ![Στιγμιότυπο Οθόνης 2024 06 13 130424](assets/2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d76b54dabdab.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 06 13 130424**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/s-over-weakening-china-demand-/2q91zt/415707861/h/rlzV8UeXeX9LMvM2EW9G_E9XjJUsKkiklV1iZ0hJ2lg) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d76b54dabdab.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/s-over-weakening-china-demand-/2q91zt/415707861/h/rlzV8UeXeX9LMvM2EW9G_E9XjJUsKkiklV1iZ0hJ2lg) | [Local Asset](assets/2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d76b54dabdab.png)
 
 In the second week of June, there's a notable development in Capesize vessel rates on the Brazil to North China route, indicating a firmer momentum. Concurrently, the count of ballast ships has been steadily decreasing, nearing the annual average trend. However, it remains uncertain whether this firmness will persist for the rest of the month, given that the growth in demand tonne days has yet to show signs of a surprising rise. Meanwhile, concerns persist about Chinese economic prosperity, particularly regarding firm demand for[iron ore](https://go.signalocean.com/e/983831/s-over-weakening-china-demand-/2q91zt/415707861/h/rlzV8UeXeX9LMvM2EW9G_E9XjJUsKkiklV1iZ0hJ2lg). Although signs point to a strong appetite for coal, clouds hover over China's economic outlook. Import data from customs and Reuters revealed that China's coal imports surged by 11% in May compared to the previous year. Lower domestic output has necessitated increased shipments of international coal.
 
@@ -36,7 +36,7 @@ According to customs data, China imported 43.82 million metric tons of coal in M
 ![Στιγμιότυπο Οθόνης 2024 06 13 130545](assets/2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5c8752ffc652.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 06 13 130545**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5c8752ffc652.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5c8752ffc652.png)
 
 In the second week of June, the Capesize Brazil to North China route shows signs of firmer momentum. Additionally, the downward spiral of freight rates for larger vessel size categories appears to have paused. However, these recent increases have not yet strengthened market momentum significantly, as there is a prevailing wait-and-see approach for a better balance between the number of prompt cargoes and available supply.
 
@@ -48,7 +48,7 @@ In the second week of June, the Capesize Brazil to North China route shows signs
 ![Στιγμιότυπο Οθόνης 2024 06 13 130741](assets/2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_297326bf6b9e.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 06 13 130741**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_297326bf6b9e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_297326bf6b9e.png)
 
 June saw a continued decrease in the number of ballast ships across all vessel size segments, with the smaller vessel segments recording counts below the annual average.
 
@@ -60,7 +60,7 @@ June saw a continued decrease in the number of ballast ships across all vessel s
 ![Στιγμιότυπο Οθόνης 2024 06 13 130917](assets/2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bf07851fb199.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 06 13 130917**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bf07851fb199.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bf07851fb199.png)
 
 In the second week of June, the outlook for dry tonne days is mixed. The consistent decline in the Capesize segment has paused, shifting to a flat momentum, while signs of recovery are evident in the Panamax segment.
 
@@ -72,7 +72,7 @@ In the second week of June, the outlook for dry tonne days is mixed. The consist
 ![Στιγμιότυπο Οθόνης 2024 06 13 131052](assets/2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d25fde790a4b.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 06 13 131052**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d25fde790a4b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d25fde790a4b.png)
 
 The upward trend observed in late May has persisted into the second week of June, with Chinese dry bulk congestion significantly increasing across all vessel size segments, except for the Capesize segment, which shows signs of a downward trend.
 

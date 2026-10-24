@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-02-27_brs-dry-bulk-weekly-n
 ![Logo Brs+ +Without+group](assets/2023-02-27_brs-dry-bulk-weekly-newsletter_img_logo-brs2b-2bwithout2bgroup_63f45dbe9867.jpg)
 
 > **Figure 1: Logo Brs+ +Without+group**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-27_brs-dry-bulk-weekly-newsletter_img_logo-brs2b-2bwithout2bgroup_63f45dbe9867.jpg)
+> [Local Asset](assets/2023-02-27_brs-dry-bulk-weekly-newsletter_img_logo-brs2b-2bwithout2bgroup_63f45dbe9867.jpg)
 
 ## The Beckoning of Capesize Rates?
 
@@ -31,7 +31,7 @@ Iron ore shipments recorded a slump of 40 million tons in 2022. This was primari
 ![1 (3)](assets/2023-02-27_brs-dry-bulk-weekly-newsletter_img_128329_7c2024520baa.png)
 
 > **Figure 2: 1 (3)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-27_brs-dry-bulk-weekly-newsletter_img_128329_7c2024520baa.png)
+> [Local Asset](assets/2023-02-27_brs-dry-bulk-weekly-newsletter_img_128329_7c2024520baa.png)
 
 In the beginning of 2023, iron ore seaborne market showed signs of recovery, achieving a historical high of 128.5 million tons of shipments for the January, which is 4.2% higher than that in January 2022. This is because major miners raise shipments to China in anticipation of a strong demand recovery since China scraped its ‘Zero-Covid’ policy. However, it was inadequate to prevent Capesize rates from further decline. C5TC slid sharply from $13,561/day on Jan.3rd to $2,246/day on Feb.17th. Breaking down the iron ore exports by vessel size, a 3.9 million tons of y-o-y increment in Capesize shipments in January was also contrary to market’s intuition of a subdued iron ore market.
 
@@ -46,7 +46,7 @@ Compared to the volatility of demand, freight rates display much more pronounced
 ![1 (4)](assets/2023-02-27_brs-dry-bulk-weekly-newsletter_img_128429_bbaa535de65e.png)
 
 > **Figure 3: 1 (4)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-27_brs-dry-bulk-weekly-newsletter_img_128429_bbaa535de65e.png)
+> [Local Asset](assets/2023-02-27_brs-dry-bulk-weekly-newsletter_img_128429_bbaa535de65e.png)
 
 Therefore, despite a year-on-year growth in iron ore shipment volumes, C5TC was heavily impacted by a monthon-month dip in congestion (Chart V) and ton-miles. Capesize iron ore intakes contracted to 87.1 million tons in Jan. 2023, as compared to 101.1 million tons in Dec. 2022. This contraction appears to follow a seasonality pattern that Australian and Brazilian miners tend to peak sales at the end of the fourth quarter to window dress the financial reports and lower shipments in January and February due to frequent tropical cyclones in west Australia as well as rainy season in Brazil. This regular seasonal retreat, however, was amplified by bearish market sentiments and a drop in congestion this year.
 
@@ -55,19 +55,19 @@ Demand for Capesize capacity is expected to return (modestly) in the second quar
 ![1 (8)](assets/2023-02-27_brs-dry-bulk-weekly-newsletter_img_128829_b9ea5cbd8747.png)
 
 > **Figure 4: 1 (8)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-27_brs-dry-bulk-weekly-newsletter_img_128829_b9ea5cbd8747.png)
+> [Local Asset](assets/2023-02-27_brs-dry-bulk-weekly-newsletter_img_128829_b9ea5cbd8747.png)
 
 ![1 (9)](assets/2023-02-27_brs-dry-bulk-weekly-newsletter_img_128929_e341740f2357.png)
 
 > **Figure 5: 1 (9)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-27_brs-dry-bulk-weekly-newsletter_img_128929_e341740f2357.png)
+> [Local Asset](assets/2023-02-27_brs-dry-bulk-weekly-newsletter_img_128929_e341740f2357.png)
 
 ..expected to be first seen in infrastructure construction. In January, 11,635 projects begun construction, with a total investment of 9381.92 billion yuan. This represents a substantial increase of 244% month-over-month, or 93% year-over-year, according to Mysteel statistics. China's positive fiscal policy and steady monetary policy are providing sufficient funds to accelerate infrastructure activities without restrictions related to Covid-19.
 
 ![1 (10)](assets/2023-02-27_brs-dry-bulk-weekly-newsletter_img_1281029_3083283da081.png)
 
 > **Figure 6: 1 (10)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-27_brs-dry-bulk-weekly-newsletter_img_1281029_3083283da081.png)
+> [Local Asset](assets/2023-02-27_brs-dry-bulk-weekly-newsletter_img_1281029_3083283da081.png)
 
 In the meanwhile, downside macro risks (like inflation) and uncertainties associated with steel demand still exist, especially in Japan, South Korea, and European Union. But overall speaking, the easing of semiconductor shortage on the manufacturing industries of automobiles and electronics hopefully can offset the pressure on the steel industry in Japan and South Korea.
 
@@ -80,4 +80,4 @@ However, since Chinese steelmakers have long been suffering negative margins for
 ![1 (11)](assets/2023-02-27_brs-dry-bulk-weekly-newsletter_img_1281129_cd94ff3973ed.png)
 
 > **Figure 7: 1 (11)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-27_brs-dry-bulk-weekly-newsletter_img_1281129_cd94ff3973ed.png)
+> [Local Asset](assets/2023-02-27_brs-dry-bulk-weekly-newsletter_img_1281129_cd94ff3973ed.png)

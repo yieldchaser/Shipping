@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-17_breakwave-bi-weekly-d
 ![Dbreporttop](assets/2023-01-17_breakwave-bi-weekly-dry-bulk-report-january-17-2023_img_dbreporttop_cb681aea5462.png)
 
 > **Figure 1: Dbreporttop**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/https:/www.breakwaveadvisors.com/publications) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-17_breakwave-bi-weekly-dry-bulk-report-january-17-2023_img_dbreporttop_cb681aea5462.png)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/https:/www.breakwaveadvisors.com/publications) | [Local Asset](assets/2023-01-17_breakwave-bi-weekly-dry-bulk-report-january-17-2023_img_dbreporttop_cb681aea5462.png)
 
 **· Higher lows/higher highs could be on the cards this year –**As dry bulk activity resumes following the Christmas holidays, traders are faced with the anticipated seasonal slowdown and thus falling spot freight rates across all asset classes. The spot market inadvertently affects future expectations, although in the last week or so freight futures prices have begun to show some much-needed optimism, pushing the curve into a contango and signaling increased enthusiasm about China’s import prospects once the Northern hemisphere exits winter. As we have stated before, we also expect better spot activity in the Spring, as China’s Covid wave recedes, the significant stimulus in the pipeline finds its way into infrastructure spending, and consumers in China employ some of the considerable savings accumulated during the past two years during when the restrictive Covid policies have limited their ability to spend, especially in real estate. Freight is a volatile asset class and thus steady increases or decreases are rare. However, we anticipate an environment of higher lows and higher highs as the year progresses, and although the averages will ultimately be determined by the extremes, overall, the opportunity set in dry bulk is still favorable for the ones who are willing to see past the daily fluctuations that are always the norm for this market.
 
@@ -35,9 +35,9 @@ source_file: "corpus/03-breakwave/insights/2023/2023-01-17_breakwave-bi-weekly-d
 ![Dbreportchart](assets/2023-01-17_breakwave-bi-weekly-dry-bulk-report-january-17-2023_img_dbreportchart_399cc303dd28.png)
 
 > **Figure 2: Dbreportchart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-17_breakwave-bi-weekly-dry-bulk-report-january-17-2023_img_dbreportchart_399cc303dd28.png)
+> [Local Asset](assets/2023-01-17_breakwave-bi-weekly-dry-bulk-report-january-17-2023_img_dbreportchart_399cc303dd28.png)
 
 ![Dbreportbottom](assets/2023-01-17_breakwave-bi-weekly-dry-bulk-report-january-17-2023_img_dbreportbottom_b901d2bbbe43.png)
 
 > **Figure 3: Dbreportbottom**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-01-17_breakwave-bi-weekly-dry-bulk-report-january-17-2023_img_dbreportbottom_b901d2bbbe43.png)
+> [Local Asset](assets/2023-01-17_breakwave-bi-weekly-dry-bulk-report-january-17-2023_img_dbreportbottom_b901d2bbbe43.png)

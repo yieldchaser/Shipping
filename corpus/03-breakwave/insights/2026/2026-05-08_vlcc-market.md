@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-05-08_vlcc-market.html"
 ![Nissos Nikouria 4](assets/2026-05-08_vlcc-market_img_nissos-nikouria-4_967132817018.jpg)
 
 > **Figure 1: Nissos Nikouria 4**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-08_vlcc-market_img_nissos-nikouria-4_967132817018.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-05-08_vlcc-market_img_nissos-nikouria-4_967132817018.jpg)
 
 It has been something of a mixed bag on the spot market this week. VLCCs improved through the early part of the week, although momentum now feels to be levelling off heading into the weekend. Suezmaxes started the week on a softer footing but appear to have steadied once again, whilst Aframaxes have taken the biggest hit, with rates coming under the most pressure across the crude sectors. Despite the differing performances across the sizes, overall activity remains relatively subdued.
 
@@ -32,7 +32,7 @@ Against this backdrop, the disconnect between Owners’ and Charterers’ ideas 
 ![Στιγμιότυπο Οθόνης 2026 05 08 184239](assets/2026-05-08_vlcc-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2b451577063f.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 05 08 184239**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-05-08_vlcc-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2b451577063f.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-05-08_vlcc-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2b451577063f.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

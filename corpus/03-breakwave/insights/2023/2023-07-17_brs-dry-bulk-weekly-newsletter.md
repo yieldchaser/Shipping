@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-07-17_brs-dry-bulk-weekly-n
 ![Brs Shipbrokers Monogram Logo](assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_brs-shipbrokers-monogram-logo_ee79606c8e74.png)
 
 > **Figure 1: Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_brs-shipbrokers-monogram-logo_ee79606c8e74.png)
+> [Local Asset](assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_brs-shipbrokers-monogram-logo_ee79606c8e74.png)
 
 ## 1h-23 Dry Bulk Fleet Recap
 
@@ -32,14 +32,14 @@ In the absence of an unexpected curveball(s), such as a sudden spike in fresh sh
 ![Screenshot 2023 07 17 11.29.43](assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17112943_332771db4771.png)
 
 > **Figure 2: Screenshot 2023 07 17 11.29.43**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17112943_332771db4771.png)
+> [Local Asset](assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17112943_332771db4771.png)
 
 In the chart below, we can observe that global shipyards (mainly China, Japan and South Korea based) currently possess very limited spare capacity for 2024-26 delivery. Indeed, the availability of shipyard slots has dwindled following the surge in orders for container liners and LNG carriers over the past few years.
 
 ![Screenshot 2023 07 17 11.36.45](assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113645_760146c0d5c1.png)
 
 > **Figure 3: Screenshot 2023 07 17 11.36.45**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113645_760146c0d5c1.png)
+> [Local Asset](assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113645_760146c0d5c1.png)
 
 Among the new building orders for dry bulkers, it can be observed that the majority of fresh orders are concentrated in the Ultramax (60,000-68,000 dwt) and Kamsarmax (79,000-84,000 dwt) vessel segments. These aim to replace the traditional Supramax (50,000-60,000 dwt) and Panamax (68,000-79,000 dwt) segements. Next, we will categorized the dry bulk vessels into three major segments and discuss them accordingly.
 
@@ -52,7 +52,7 @@ Based on the above statements, these provide credence for improved “supply fun
 ![Screenshot 2023 07 17 11.37.48](assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113748_d84af7b0d3c4.png)
 
 > **Figure 4: Screenshot 2023 07 17 11.37.48**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113748_d84af7b0d3c4.png)
+> [Local Asset](assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113748_d84af7b0d3c4.png)
 
 ### 2. Vessels Between 68,000 and 100,000 DWT
 
@@ -63,7 +63,7 @@ Shipowners have benefitted from a booming market from 2021 to 2022, allowing the
 ![Screenshot 2023 07 17 11.38.38](assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113838_a515d05c6c96.png)
 
 > **Figure 5: Screenshot 2023 07 17 11.38.38**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113838_a515d05c6c96.png)
+> [Local Asset](assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113838_a515d05c6c96.png)
 
 ### 3. Vessels Between 40,000 and 68,000 DWT
 
@@ -74,7 +74,7 @@ The segment is still digesting the oversupply of vessels due to the freight mark
 ![Screenshot 2023 07 17 11.39.23](assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113923_5a9944c66392.png)
 
 > **Figure 6: Screenshot 2023 07 17 11.39.23**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113923_5a9944c66392.png)
+> [Local Asset](assets/2023-07-17_brs-dry-bulk-weekly-newsletter_img_screenshot2023-07-17113923_5a9944c66392.png)
 
 In conclusion, looking at the supply side for all mainstream vessel types, there is no denying that we have a rosy prospect being painted as tonnage will tighten over the coming years. However, supply is just one side of the equation, the demand factor cannot be overlooked or understated. In the first half of this year, we witnessed a sluggish freight market due to global economic weakness, this has led year-on-year falls in daily returns for the shipowners, and as we have consistently emphasized (see Issue 62 for more information), recovery time is needed given the macro headwinds facing China.
 

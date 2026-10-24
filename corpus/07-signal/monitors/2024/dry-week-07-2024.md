@@ -31,7 +31,7 @@ tags:
 ![65cc8f32fdbaf1865d6bb241 Chart of the Week (1)](../../images/65cc8f32fdbaf1865d6bb241_chart of the week (1).png)
 
 > **Figure 1: 65cc8f32fdbaf1865d6bb241 Chart of the Week (1)**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-07-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/65cc8f32fdbaf1865d6bb241_chart of the week (1).png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-07-2024) | [Local Asset](../../images/65cc8f32fdbaf1865d6bb241_chart of the week (1).png)
 
 In the third week of February, Capesize Brazil to North China rates experienced an upturn, surpassing the $20 per ton mark. However, with the Chinese Lunar New Year already celebrated, the sentiment regarding freight rates remains uncertain, leaving observers to wonder if there will be a softening in prices. Meanwhile, in terms of supply trends, there has been another week of excessive ballaster numbers recorded for Capesize and Panamax vessels in Southeast Asia. In addition, overall demand growth rates continue to show signs of decrease across all vessel size categories.
 

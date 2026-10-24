@@ -49,7 +49,7 @@ China’s wheat import program has historically been concentrated mostly on Cana
 
 > **Figure 1: Agricultural Cargo Flows Trend Analysis Available Via the Tsop Platform Hereall Data and Commentary Reflect Market Conditions as of [Wednesday, 18 February 2026], Unless Otherwise Stated.**  
 > *Agricultural Cargo Flows Trend Analysis available via the TSOP platform hereAll data and commentary reflect market conditions as of [Wednesday, 18 February 2026], unless otherwise stated.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6997138e9b960d8765ef4b8c_c43a77f8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](../../images/6997138e9b960d8765ef4b8c_c43a77f8.png)
 
 [Argentina](https://www.agrolatam.com/news/argentina-wheat-first-shipment-china-107k-tons/) is entering the Chinese wheat market, adding origin diversity to an otherwise concentrated supplier base. Approximately 107,000 tons are scheduled to ship in the coming weeks, marking the first cargoes following China’s updated quarantine registration approvals. Of this volume, 65,000 tons are expected to load at Timbúes under COFCO’s program, with two additional cargoes of 20,000 and 22,000 tons listed from Bahía Blanca under Cargill. The shipments follow exporter approvals under China’s GACC registration system.
 
@@ -74,7 +74,7 @@ While the Capesize segment saw a downward correction, it is still firmer than it
 ![Freight Market Overview](../../images/6997138e9b960d8765ef4b8f_01bf3371.png)
 
 > **Figure 2: Freight Market Overview**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6997138e9b960d8765ef4b8f_01bf3371.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](../../images/6997138e9b960d8765ef4b8f_01bf3371.png)
 
 
 ## Freight Atlantic
@@ -87,7 +87,7 @@ While the Capesize segment saw a downward correction, it is still firmer than it
 ![Freight Atlantic](../../images/6997138f9b960d8765ef4b9e_249d3186.png)
 
 > **Figure 3: Freight Atlantic**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6997138f9b960d8765ef4b9e_249d3186.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](../../images/6997138f9b960d8765ef4b9e_249d3186.png)
 
 
 - The rate for the Tubarao to Qingdao route, while dropping below $24/ton, is indicated mid-week at around $23.50/mt. This compares to the $23/ton noted in our last[dry market monitor](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026). Furthermore, the year-on-year upward trend strengthened, rising from 34% in the previous week to 38%. The Saldanha Bay-Qingdao rates held the sentiment of the previous week of around $17/mt (+46% YoY).
@@ -100,7 +100,7 @@ While the Capesize segment saw a downward correction, it is still firmer than it
 ![Freight Atlantic](../../images/6997138f9b960d8765ef4b92_05dea362.png)
 
 > **Figure 4: Freight Atlantic**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6997138f9b960d8765ef4b92_05dea362.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](../../images/6997138f9b960d8765ef4b92_05dea362.png)
 
 
 - Rates for the USG-Qingdao and Santos-Qingdao routes remain firm, with both seeing an annual increase of approximately 20% from 17% in the previous week. The USG-Qingdao rate, in particular, continues to hover around a $50/ton premium, a level sustained since early February. Meanwhile, the Santos-Qingdao rate is still nearing $40/ton.
@@ -113,7 +113,7 @@ While the Capesize segment saw a downward correction, it is still firmer than it
 ![Freight Atlantic](../../images/6997138f9b960d8765ef4b98_6a4f472b.png)
 
 > **Figure 5: Freight Atlantic**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6997138f9b960d8765ef4b98_6a4f472b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](../../images/6997138f9b960d8765ef4b98_6a4f472b.png)
 
 
 - The USG-to-Skaw-Passero route recorded a remarkable strength, with rates climbing above $30k/day, an increase from the $28k/day seen the previous week. This signifies an annual percentage growth exceeding 100%.
@@ -126,7 +126,7 @@ While the Capesize segment saw a downward correction, it is still firmer than it
 ![Freight Atlantic](../../images/6997138f9b960d8765ef4b9b_15cba45d.png)
 
 > **Figure 6: Freight Atlantic**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6997138f9b960d8765ef4b9b_15cba45d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](../../images/6997138f9b960d8765ef4b9b_15cba45d.png)
 
 
 - USG trip to Skaw-Passero recorded levels of around $24k/d, an increase of $4k/d from the previous mid-week levels (+138% YoY).
@@ -141,7 +141,7 @@ While the Capesize segment saw a downward correction, it is still firmer than it
 ![Freight Atlantic](../../images/6997138f9b960d8765ef4b95_97f756c2.png)
 
 > **Figure 7: Freight Atlantic**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6997138f9b960d8765ef4b95_97f756c2.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](../../images/6997138f9b960d8765ef4b95_97f756c2.png)
 
 
 - The West Australia-Qingdao rates strengthened, approaching $9.5/ton, an increase from the mid-$8/ton levels seen the prior week. This current firmer sentiment represents a 56% annual percentage rise. The key question moving forward is how this positive sentiment will develop following the conclusion of the Chinese New Year period.
@@ -156,7 +156,7 @@ While the Capesize segment saw a downward correction, it is still firmer than it
 ![Freight Atlantic](../../images/6997138f9b960d8765ef4ba1_affcf688.png)
 
 > **Figure 8: Freight Atlantic**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6997138f9b960d8765ef4ba1_affcf688.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](../../images/6997138f9b960d8765ef4ba1_affcf688.png)
 
 
 - The Panamax Pacific market has maintained the substantial gains from the previous week, continuing its upward trajectory since the start of the year. Specifically, rates on the P3A\_82 route have climbed xs$16k/d, marking about a $7k/day increase compared to the same period last year.
@@ -171,7 +171,7 @@ While the Capesize segment saw a downward correction, it is still firmer than it
 ![Freight Atlantic](../../images/6997138f9b960d8765ef4ba4_e39f1f46.png)
 
 > **Figure 9: Freight Atlantic**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6997138f9b960d8765ef4ba4_e39f1f46.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](../../images/6997138f9b960d8765ef4ba4_e39f1f46.png)
 
 
 - The Supramax Pacific market shifted direction, moving away from an upward trend to a softening one. Despite this reversal, the S2 route maintained levels around $11.8k/d, reflecting a strong 25% monthly increase. Conversely, the S10 route rates remained subdued, hovering in the low $9k/d range, which still marks a 15% monthly gain.
@@ -188,7 +188,7 @@ While the Capesize segment saw a downward correction, it is still firmer than it
 ![Freight Atlantic](../../images/6997138f9b960d8765ef4ba7_12030275.png)
 
 > **Figure 10: Freight Atlantic**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6997138f9b960d8765ef4ba7_12030275.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](../../images/6997138f9b960d8765ef4ba7_12030275.png)
 
 
 - The Handysize Pacific freight market is still showing a weaker trend from the beginning of the year, with the HS5\_38 and HS6\_38 rates dropping to around $9k/day each, and HS7\_38 nearly $8.5k/d.
@@ -203,7 +203,7 @@ While the Capesize segment saw a downward correction, it is still firmer than it
 
 > **Figure 11: Available Here**  
 > *Available here*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6997138f9b960d8765ef4baa_484492a7.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](../../images/6997138f9b960d8765ef4baa_484492a7.png)
 
 
 - Supply pressure in the **Pacific** increased, with the **Far East/NOPAC** region showing a continuous upward trend, reaching levels around 145. While the weekly increase was not significantly higher than the previous week, these levels remained above those recorded at the start of the year. The **Indian Ocean/South Africa** area also saw notable supply pressure, with a vessel count of nearly 190.
@@ -216,7 +216,7 @@ While the Capesize segment saw a downward correction, it is still firmer than it
 
 > **Figure 12: Available Here**  
 > *Available here*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6997138f9b960d8765ef4bad_4983a85d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](../../images/6997138f9b960d8765ef4bad_4983a85d.png)
 
 
 - The **Indian Ocean** saw another spike from the previous week, reaching more than 300 (+21% WoW). The vessel count of ballasters in **Australasia** began to show signs of a decrease, to around 180 vessels (6% down from the previous week, when numbers were expected to surpass 190). In the **Far East/NOPAC** region, levels have now surpassed 190, and although they are not showing a spike similar to the Indian Ocean, they remain on an upward trend.
@@ -229,7 +229,7 @@ While the Capesize segment saw a downward correction, it is still firmer than it
 
 > **Figure 13: Available Here**  
 > *Available here*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6997138f9b960d8765ef4bb0_4f463a06.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](../../images/6997138f9b960d8765ef4bb0_4f463a06.png)
 
 
 - Oversupply in the **Pacific** persisted from the previous week, albeit with hints of a slight reduction. The vessel count in the **Far East/NOPAC** has now dipped below 190, a decrease from the over 200 vessels noted in preceding weeks.
@@ -242,7 +242,7 @@ While the Capesize segment saw a downward correction, it is still firmer than it
 
 > **Figure 14: Available Here**  
 > *Available here*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6997138f9b960d8765ef4bb3_88f1dd05.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](../../images/6997138f9b960d8765ef4bb3_88f1dd05.png)
 
 
 - Significant supply pressure persisted for Handysize vessels across key regions. In the **North Atlantic**, the number of ballasters, although slightly down, remained high, standing at over 220 compared to 230 the week prior.
@@ -257,7 +257,7 @@ While the Capesize segment saw a downward correction, it is still firmer than it
 ![Demand | Tonne Miles - 7d Ma- Index View](../../images/6997138f9b960d8765ef4bb6_9d71d839.png)
 
 > **Figure 15: Demand | Tonne Miles - 7d Ma- Index View**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6997138f9b960d8765ef4bb6_9d71d839.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](../../images/6997138f9b960d8765ef4bb6_9d71d839.png)
 
 Upon reviewing the tonne-mile growth rate on a Base 100 Index basis, deceleration persists across the larger vessel classes. Capesize stands at 87.5 (Base 100), 12.5 points below the base period, while Panamax is at 85.8, reflecting a 14.2-point shortfall versus base.
 
@@ -269,7 +269,7 @@ Upon reviewing the tonne-mile growth rate on a Base 100 Index basis, deceleratio
 ![Demand | Tonne Miles - 7d Ma- Index View](../../images/6997138f9b960d8765ef4bb9_14d017fc.png)
 
 > **Figure 16: Demand | Tonne Miles - 7d Ma- Index View**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6997138f9b960d8765ef4bb9_14d017fc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](../../images/6997138f9b960d8765ef4bb9_14d017fc.png)
 
 Smaller vessel segments continue to outperform the larger classes, maintaining performance ratios at or above the 90 level (Base 100). Supramax leads at 95.5, followed by Handymax at 94.2, while Handysize has also recovered above 90, reaching 90.3.
 

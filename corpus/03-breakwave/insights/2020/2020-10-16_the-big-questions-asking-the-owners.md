@@ -33,14 +33,14 @@ Mr Tsantanis argued that demand for iron ore has remained strong throughout this
 ![Bmr 22](assets/2020-10-16_the-big-questions-asking-the-owners_img_bmr22_3f3c363a952c.png)
 
 > **Figure 1: Bmr 22**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-16_the-big-questions-asking-the-owners_img_bmr22_3f3c363a952c.png)
+> [Local Asset](assets/2020-10-16_the-big-questions-asking-the-owners_img_bmr22_3f3c363a952c.png)
 
 We asked Ulrik Uhrenfeldt Andersen CEO of Golden Ocean, what owners have been doing to manage this volatility. He said that a balanced chartering approach was necessary to navigate these swings, taking long-term coverage where possible during weak periods, while keeping a portion of the fleet trading in the spot market to maintain exposure to the upswings.
 
 ![Bmr 21](assets/2020-10-16_the-big-questions-asking-the-owners_img_bmr21_1c45ddd5ef68.png)
 
 > **Figure 2: Bmr 21**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-16_the-big-questions-asking-the-owners_img_bmr21_1c45ddd5ef68.png)
+> [Local Asset](assets/2020-10-16_the-big-questions-asking-the-owners_img_bmr21_1c45ddd5ef68.png)
 
 ### Demand Prospects
 
@@ -79,7 +79,7 @@ The overarching theme of the discussion was that extreme uncertainty is keeping 
 ![Bmr 20](assets/2020-10-16_the-big-questions-asking-the-owners_img_bmr20_eaf582183674.png)
 
 > **Figure 3: Bmr 20**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-16_the-big-questions-asking-the-owners_img_bmr20_eaf582183674.png)
+> [Local Asset](assets/2020-10-16_the-big-questions-asking-the-owners_img_bmr20_eaf582183674.png)
 
 All of the panellists agreed that this trend would continue, keeping supply growth relatively limited over the next few years, and that expensive exotic fuels would act as a barrier to entry for investors looking to renew fleets. Combined with a gradual economic recovery over the next couple of years, this should help to get dry bulk supply and demand back into balance.
 

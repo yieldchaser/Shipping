@@ -30,7 +30,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-20-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/68270a3f3ef6a0318c59ac63_AD_4nXcZV6xWnm7PGXpgCSPH1eRv1I7BasrBRJP4Damo9KqqNCzchx-PeubcEAa7qSkHfWJjXNkNy2EKd4vi5514JWBibsI47AY-XxR3rDc165t64Dsj5EKkmA-frIekEKJ05q0kKhV6bQ.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-20-2025) | [Local Asset](../../images/68270a3f3ef6a0318c59ac63_AD_4nXcZV6xWnm7PGXpgCSPH1eRv1I7BasrBRJP4Damo9KqqNCzchx-PeubcEAa7qSkHfWJjXNkNy2EKd4vi5514JWBibsI47AY-XxR3rDc165t64Dsj5EKkmA-frIekEKJ05q0kKhV6bQ.png)
 
 
 ## Shift in Cpc Crude Exports Towards Suezmax Utilization

@@ -61,14 +61,14 @@ So far, equity and bond markets are positive about the prospects of American exc
 ![Market Chart 1](assets/2025-01-29_week-1-shock-and-awe_img_image004_11a0a13dcb74.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-29_week-1-shock-and-awe_img_image004_11a0a13dcb74.jpg)
+> [Local Asset](assets/2025-01-29_week-1-shock-and-awe_img_image004_11a0a13dcb74.jpg)
 
 **However, we have just entered an era of higher volatility, and we are only seeing but the first lines of the first act.**What if Mr Musk falls out with the President? Will Tesla, which has doubled its price since the election continue to justify a 200x trailing PE? How will markets react if the President, who has an Energy not a Tech focus, does not advance the interests of the Magnificent 7, beyond warnings to countries to refrain from fining (“unfairly treating”) American Big Tech?
 
 ![Market Chart 2](assets/2025-01-29_week-1-shock-and-awe_img_image002_cad69200a40d.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-29_week-1-shock-and-awe_img_image002_cad69200a40d.png)
+> [Local Asset](assets/2025-01-29_week-1-shock-and-awe_img_image002_cad69200a40d.png)
 
 And even if he did, would that be enough? Last weeks were abuzz with Deepseek, an AI model out of China, which apparently has similar capabilities with Western Large Language Models, like Chat GPT. Unlike them, however, it runs on lower-quality chips and only took a reported $5.5m to train, bringing the whole Silicon Valley AI Model into question. It will be a hot topic ahead of tech earnings this week.
 
@@ -77,7 +77,7 @@ Are bond and equity markets ready for a more inflationary and possibly higher-ra
 ![Market Chart 3](assets/2025-01-29_week-1-shock-and-awe_img_image005_7fad137c054a.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-29_week-1-shock-and-awe_img_image005_7fad137c054a.jpg)
+> [Local Asset](assets/2025-01-29_week-1-shock-and-awe_img_image005_7fad137c054a.jpg)
 
 Back to our main thought: by testing the absolute limits of the Oval Office, the new US government took on, essentially…. the world. But this is an opening salvo for the West Wing. The world (and by that we mean many and very diverse power centres) will likely not settle for the limits the White House says they should settle for but try to find other ways to continue doing business. Washington power brokers not dependent on the President will likely do the same. The world changed fast. But the speed of the previous turn may well precipitate the velocity and trajectory of the next.**As investors, we need to be analytical and responsive post actual events, simply because the range of possible outcomes is too broad to be tradeable.**
 

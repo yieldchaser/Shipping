@@ -39,7 +39,7 @@ Guinean iron ore shipments breach 1.2mt for the first time as Simandou ramps up,
 ![Simandou Ships Record Quantity of Iron Ore, Swelling Chinese Stocks](../../images/6a022df2f028c121c116deb9_35a90beb.png)
 
 > **Figure 1: Simandou Ships Record Quantity of Iron Ore, Swelling Chinese Stocks**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/simandou-ships-record-quantity-of-iron-ore-swelling-chinese-stocks) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a022df2f028c121c116deb9_35a90beb.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/simandou-ships-record-quantity-of-iron-ore-swelling-chinese-stocks) | [Local Asset](../../images/6a022df2f028c121c116deb9_35a90beb.png)
 
 Global iron ore flows reached more than 143mt in April 2026, up just under 7% y/y and m/m. China received 74% of the total flows, in line with the same month in 2025, but given the greater volume of flows, this equated to over 7mt more in April 2026 compared to April 2025. The rest of the world saw flows increase by 5% y/y, to 37mt, with nations in East Asia and South East Asia dominating and seeing large y/y increases.
 
@@ -49,7 +49,7 @@ The origins of the iron ore continue to be dominated by Australia and Brazil.  
 ![Simandou Ships Record Quantity of Iron Ore, Swelling Chinese Stocks](../../images/6a022df2f028c121c116debc_d02e152b.png)
 
 > **Figure 2: Simandou Ships Record Quantity of Iron Ore, Swelling Chinese Stocks**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/simandou-ships-record-quantity-of-iron-ore-swelling-chinese-stocks) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a022df2f028c121c116debc_d02e152b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/simandou-ships-record-quantity-of-iron-ore-swelling-chinese-stocks) | [Local Asset](../../images/6a022df2f028c121c116debc_d02e152b.png)
 
 The increased flows of iron ore to China have not reflected improved steel mill consumption. Instead, iron ore inventories at ports have been running at historically high levels, with reports that they stood at 172mt during the final week of April, up from around 139mt in the same month in 2025. The scale of this stock build becomes more impactful when measured by days of consumption.
 
@@ -59,7 +59,7 @@ The average monthly crude steel production in 2025 Q1 was 86.4mt, with iron ore 
 ![Simandou Ships Record Quantity of Iron Ore, Swelling Chinese Stocks](../../images/6a022df2f028c121c116deb6_c49db1c8.png)
 
 > **Figure 3: Simandou Ships Record Quantity of Iron Ore, Swelling Chinese Stocks**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/simandou-ships-record-quantity-of-iron-ore-swelling-chinese-stocks) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a022df2f028c121c116deb6_c49db1c8.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/simandou-ships-record-quantity-of-iron-ore-swelling-chinese-stocks) | [Local Asset](../../images/6a022df2f028c121c116deb6_c49db1c8.png)
 
 
 ## Guinea to China Will Dominate the Cape Market

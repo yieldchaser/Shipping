@@ -27,7 +27,7 @@ Thermal coal prices have in recent days given up some of the spectacular gains t
 ![Ch1](assets/2021-10-29_seaborne-coal-a-tale-of-two-countries_img_ch1_429bf5ea65fe.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-29_seaborne-coal-a-tale-of-two-countries_img_ch1_429bf5ea65fe.png)
+> [Local Asset](assets/2021-10-29_seaborne-coal-a-tale-of-two-countries_img_ch1_429bf5ea65fe.png)
 
 According to reports, the plans, yet to be officially published, will impose a target pithead price of 440 yuan (USD 69) per tonne for the most-popular grade of thermal coal, with an absolute ceiling of 528 yuan (USD 83). The scheme, expected to run until May next year, is pending approval by the State Council and could still be amended. The price cap is unlikely to hurt Chinese coal output, as coal mining is a highly state-controlled industry in China, and Beijing has already ordered coal miners to maximise production. In a move likely to benefit seaborne coal imports, buyers of overseas sourced supplies will receive subsidies to balance their losses when selling to power plants. While imported coal only accounts for a small part of Chinese consumption, they remain crucial to bridge the current energy crunch.
 
@@ -38,14 +38,14 @@ In light of rising international prices and a resurgent pandemic, Indian seaborn
 ![Ch2](assets/2021-10-29_seaborne-coal-a-tale-of-two-countries_img_ch2_5d360a3e151b.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-29_seaborne-coal-a-tale-of-two-countries_img_ch2_5d360a3e151b.png)
+> [Local Asset](assets/2021-10-29_seaborne-coal-a-tale-of-two-countries_img_ch2_5d360a3e151b.png)
 
 Unlike India, the Chinese seaborne imports have shown solid year-on-year growth in recent months. While volumes have decreased since the peak of 32 million tonnes in August, imports during the last two months remained well above the same months last year. The total for the year-to-date is also higher than the previous year’s total, with 272 million tonnes compared to 259 million tonnes for the whole of 2020.
 
 ![Ch3](assets/2021-10-29_seaborne-coal-a-tale-of-two-countries_img_ch3_8c4afefb727e.png)
 
 > **Figure 3: Ch3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-10-29_seaborne-coal-a-tale-of-two-countries_img_ch3_8c4afefb727e.png)
+> [Local Asset](assets/2021-10-29_seaborne-coal-a-tale-of-two-countries_img_ch3_8c4afefb727e.png)
 
 Although the Chinese economy may be decelerating, the initiative to subsidise coal imports is likely to fuel seaborne imports in the coming months. The expectation of a colder than usual winter, due to La Niña, can also be expected to add a sense of urgency to the restoration of the thermal coal inventories. Lower prices and a rapidly rebounding economy suggest that the Indian appetite for seaborne coal imports will increase as power plants face a growing demand for electricity with depleted stockpiles. Hence, the seaborne trade in coal will lend some support to the freight markets in the coming months as they face increasing headwinds from a Chinese economic slowdown.
 

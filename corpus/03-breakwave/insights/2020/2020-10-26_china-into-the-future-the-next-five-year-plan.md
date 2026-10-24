@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-10-26_china-into-the-future
 ![By Ulf Bergman](assets/2020-10-26_china-into-the-future-the-next-five-year-plan_img_image-asset_86e9617a1a29.jpeg)
 
 > **Figure 1: By Ulf Bergman**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-26_china-into-the-future-the-next-five-year-plan_img_image-asset_86e9617a1a29.jpeg)
+> [Local Asset](assets/2020-10-26_china-into-the-future-the-next-five-year-plan_img_image-asset_86e9617a1a29.jpeg)
 
 That China has posted strong economic data in the past few month have been some of the very few pieces of good news for the world economy, with most countries seeing contracting economic activity. The strength of the Chinese economy has been welcomed by many observers and seen as the growth engine that will pull the world out of the doldrums. However, some China watchers have urged caution over the strength of the economic recovery, with some underlying data supposedly at odds with the headline numbers. That the third quarter growth was driven by investments rather than consumption is a factor that some pundits believe could raise questions about the durability of the recovery. What the continued recovery will look like remains to be seen, but, regardless, the dry bulk shipping sector and the commodity markets have benefited from the Chinese recovery so far and it looks likely to continue to be a positive influence for some time to come.
 
@@ -32,7 +32,7 @@ Against the background of a recovering economy, the Chinese political leadership
 ![Source: The World Bank](assets/2020-10-26_china-into-the-future-the-next-five-year-plan_img_ulf30_a50a39152fbd.png)
 
 > **Figure 2: Source: The World Bank**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-26_china-into-the-future-the-next-five-year-plan_img_ulf30_a50a39152fbd.png)
+> [Local Asset](assets/2020-10-26_china-into-the-future-the-next-five-year-plan_img_ulf30_a50a39152fbd.png)
 
 Source: The World Bank
 
@@ -43,7 +43,7 @@ Beyond environmental considerations, the Chinese leadership is also likely to ma
 ![Source: The World Bank](assets/2020-10-26_china-into-the-future-the-next-five-year-plan_img_ulf31_889e6d224567.png)
 
 > **Figure 3: Source: The World Bank**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-10-26_china-into-the-future-the-next-five-year-plan_img_ulf31_889e6d224567.png)
+> [Local Asset](assets/2020-10-26_china-into-the-future-the-next-five-year-plan_img_ulf31_889e6d224567.png)
 
 Source: The World Bank
 

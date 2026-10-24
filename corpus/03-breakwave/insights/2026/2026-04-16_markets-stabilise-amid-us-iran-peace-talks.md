@@ -27,7 +27,7 @@ Energy markets were relatively subdued as they contemplate the impact of US-Iran
 ![Στιγμιότυπο Οθόνης 2026 04 16 101402](assets/2026-04-16_markets-stabilise-amid-us-iran-peace-talks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_35530e03b599.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 04 16 101402**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-16_markets-stabilise-amid-us-iran-peace-talks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_35530e03b599.png)
+> [Local Asset](assets/2026-04-16_markets-stabilise-amid-us-iran-peace-talks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_35530e03b599.png)
 
 ### Market Commentary
 
@@ -48,7 +48,7 @@ The US has started releasing oil from its strategic petroleum reserve as promise
 ![Στιγμιότυπο Οθόνης 2026 04 16 101427](assets/2026-04-16_markets-stabilise-amid-us-iran-peace-talks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6355117d46fe.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 04 16 101427**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-04-16_markets-stabilise-amid-us-iran-peace-talks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6355117d46fe.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2026-04-16_markets-stabilise-amid-us-iran-peace-talks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6355117d46fe.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

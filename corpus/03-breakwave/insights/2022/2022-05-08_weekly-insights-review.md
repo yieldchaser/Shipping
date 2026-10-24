@@ -30,14 +30,14 @@ source_file: "corpus/03-breakwave/insights/2022/2022-05-08_weekly-insights-revie
 ![Tuesday](assets/2022-05-08_weekly-insights-review_img_tuesday_acf392f9a056.jpg)
 
 > **Figure 1: Tuesday**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/3/renewed-weakness-in-chinese-consumer-spending) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-08_weekly-insights-review_img_tuesday_acf392f9a056.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/3/renewed-weakness-in-chinese-consumer-spending) | [Local Asset](assets/2022-05-08_weekly-insights-review_img_tuesday_acf392f9a056.jpg)
 
 The ongoing surge of new daily coronavirus cases in China, which began last month, has been leading to renewed weakness in the nation's consumer spending. March saw consumer spending fall on a year-on-year basis by 3.5%, which has marked the first year-on-year contraction seen since July 2020.
 
 ![Wednesday2](assets/2022-05-08_weekly-insights-review_img_wednesday2_50245a57bcee.jpg)
 
 > **Figure 2: Wednesday2**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/4/22/the-big-picture-supramax-market) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-08_weekly-insights-review_img_wednesday2_50245a57bcee.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/4/22/the-big-picture-supramax-market) | [Local Asset](assets/2022-05-08_weekly-insights-review_img_wednesday2_50245a57bcee.jpg)
 
 ## Indonesia and Russia Remain China's Primary Source of Coal Imports
 
@@ -50,7 +50,7 @@ The Supramaxes now receive a premium over all other sectors as several trades fo
 ![Wednesday](assets/2022-05-08_weekly-insights-review_img_wednesday_5203384f9983.jpg)
 
 > **Figure 3: Wednesday**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/3/crude-gains-as-europe-consider-sanctioning-russia-oil) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-08_weekly-insights-review_img_wednesday_5203384f9983.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/3/crude-gains-as-europe-consider-sanctioning-russia-oil) | [Local Asset](assets/2022-05-08_weekly-insights-review_img_wednesday_5203384f9983.jpg)
 
 ## Crude Gains As Europe Consider Sanctioning Russia Oil
 
@@ -62,7 +62,7 @@ Weak economic data in China weighed on sentiment early in the session. Thin liqu
 
 > **Figure 4: In 1865 Rudolf Clausius**  
 > *In 1865 Rudolf Clausius, a German Physicist and Mathematician said that“The entropy (disorder) of the universe tends to a maximum”, in his famous Second Law of Thermodynamics. Humans have always known that good times only last for so long, before disorder sets in. Correctly, then, the more things are great, the more we fear that they will not continue to be so.Read More*  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/4/weekly-comment-the-gdr-great-dose-of-reality-crisis) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-08_weekly-insights-review_img_thursday_d86bc8adb57f.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/4/weekly-comment-the-gdr-great-dose-of-reality-crisis) | [Local Asset](assets/2022-05-08_weekly-insights-review_img_thursday_d86bc8adb57f.jpg)
 
 ## Weekly Comment: The Gdr (Great Dose of Reality) Crisis
 
@@ -73,7 +73,7 @@ Weak economic data in China weighed on sentiment early in the session. Thin liqu
 ![Thursday2](assets/2022-05-08_weekly-insights-review_img_thursday2_09a5a29aad08.jpg)
 
 > **Figure 5: Thursday2**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/4/signal-dry-bulk-weekly-report) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-08_weekly-insights-review_img_thursday2_09a5a29aad08.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/4/signal-dry-bulk-weekly-report) | [Local Asset](assets/2022-05-08_weekly-insights-review_img_thursday2_09a5a29aad08.jpg)
 
 ## Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions
 
@@ -83,7 +83,7 @@ The first week of May signals a soft rebound in freight rates with Capesize dema
 ![Friday](assets/2022-05-08_weekly-insights-review_img_friday_896a4c1cfe8f.jpg)
 
 > **Figure 6: Friday**  
-> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/6/crude-oil-gains-as-opec-struggles-to-raise-output) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-08_weekly-insights-review_img_friday_896a4c1cfe8f.jpg)
+> **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/5/6/crude-oil-gains-as-opec-struggles-to-raise-output) | [Local Asset](assets/2022-05-08_weekly-insights-review_img_friday_896a4c1cfe8f.jpg)
 
 ## Crude Oil Gains As OPEC Struggles to Raise Output
 
@@ -102,4 +102,4 @@ As China battles against its latest Covid outbreak, holding firm to its zero-Cov
 ![Unsplash Image Q36bvlgdoag](assets/2022-05-08_weekly-insights-review_img_unsplash-image-q36bvlgdoag_c6a68e631508.jpg)
 
 > **Figure 7: Unsplash Image Q36bvlgdoag**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-08_weekly-insights-review_img_unsplash-image-q36bvlgdoag_c6a68e631508.jpg)
+> [Local Asset](assets/2022-05-08_weekly-insights-review_img_unsplash-image-q36bvlgdoag_c6a68e631508.jpg)

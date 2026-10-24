@@ -29,7 +29,7 @@ As cyclical assets come, commodities are to be found somewhere around the top of
 ![Ul;f 90](assets/2020-12-21_commodities-regaining-popularity-among-investors_img_ul3bf90_534867025521.jpg)
 
 > **Figure 1: Ul;f 90**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-21_commodities-regaining-popularity-among-investors_img_ul3bf90_534867025521.jpg)
+> [Local Asset](assets/2020-12-21_commodities-regaining-popularity-among-investors_img_ul3bf90_534867025521.jpg)
 
 The post-COVID-19 economic recovery in China has driven prices for many commodities, such as iron ore and copper, sharply higher from their lows during the second quarter. Prompting Chinese authorities to put pressure on producers and a domestic derivatives exchange to bring the rising prices under control. Iron ore futures have been especially popular among some investors as a proxy for directional bets on the Chinese recovery, which has contributed to prices heading north in combination with several issues that have tightened the physical supply.
 
@@ -37,7 +37,7 @@ The post-COVID-19 economic recovery in China has driven prices for many commodit
 
 > **Figure 2: Brent Crude Oil (Usd/barrel)**  
 > *Brent Crude Oil (USD/barrel)*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-21_commodities-regaining-popularity-among-investors_img_valeironore_8df1d54c5aac.jpg)
+> [Local Asset](assets/2020-12-21_commodities-regaining-popularity-among-investors_img_valeironore_8df1d54c5aac.jpg)
 
 Despite the recent strong run for a lot of commodities, many investors and analysts argue that it is only the beginning of a lengthy bull market for commodities. Among others, the investment bank Goldman Sachs believes we are entering a commodities super-cycle that could compete with the gains seen during the oil boom in the 1970’s or the China-driven increases in the beginning of the 2000’s.
 
@@ -48,7 +48,7 @@ Beyond iron ore, copper is one of the pundits’ darlings, with prices expected 
 ![Ulf 91](assets/2020-12-21_commodities-regaining-popularity-among-investors_img_ulf91_bb7a3b5b2717.jpg)
 
 > **Figure 3: Ulf 91**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-12-21_commodities-regaining-popularity-among-investors_img_ulf91_bb7a3b5b2717.jpg)
+> [Local Asset](assets/2020-12-21_commodities-regaining-popularity-among-investors_img_ulf91_bb7a3b5b2717.jpg)
 
 It is not only the narrative of a post-pandemic recovery in demand for commodities that makes the asset class attractive for many investors. The size of the fiscal and monetary measure that are being put in place to help the economies to recover will see a dramatic rise in government debt levels and we can expect to see inflation rates to increase. As commodities are a natural hedge against inflation, it can be expected that the asset class will see an additional inflow of money. Over the last five years around 130 billion dollars of passive investments have flowed out of commodities, but rising inflation rates could see some, or all, of that returning to the asset class and pushing up the prices. An inflow of money from institutional and retail investors is likely to be channeled towards the paper rather than the physical market, with the derivatives market continuing to have a significant impact on commodity prices.
 

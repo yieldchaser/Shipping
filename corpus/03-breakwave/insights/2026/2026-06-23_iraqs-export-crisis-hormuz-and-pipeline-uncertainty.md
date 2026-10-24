@@ -33,7 +33,7 @@ Iraq has been amid the most affected Middle Eastern exporters as a result of the
 ![Στιγμιότυπο Οθόνης 2026 06 23 074933](assets/2026-06-23_iraqs-export-crisis-hormuz-and-pipeline-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d9d55a0aecc5.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 06 23 074933**  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/Flows?dateRange=2025-01-01T00%3A00%3A00.000Z__2026-06-16T23%3A59%3A59.999Z&maxEventFilter=1767225599999&metric=bpd&minEventFilter=1735689600000&movementEvent=unloading_start&page=Flows&products=%5B%22b68cbb746f8b9098c50e2ba36bcad83001a53bd362e9031fb49085d02c36659c%22%2C%225de0b00094e0fd7542c10f9f8a71b4008d55750f21dc905cda9b0f7f5f76bc08%22%5D&tabId=596eef05-6c7d-45aa-9914-37b6a881ec3b&to=%5B%229fa4354c24b3c7a2b0d40f870a1f57da4907bd816f130033f994ee9dcfdf08d1%22%5D&v=3) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-23_iraqs-export-crisis-hormuz-and-pipeline-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d9d55a0aecc5.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/Flows?dateRange=2025-01-01T00%3A00%3A00.000Z__2026-06-16T23%3A59%3A59.999Z&maxEventFilter=1767225599999&metric=bpd&minEventFilter=1735689600000&movementEvent=unloading_start&page=Flows&products=%5B%22b68cbb746f8b9098c50e2ba36bcad83001a53bd362e9031fb49085d02c36659c%22%2C%225de0b00094e0fd7542c10f9f8a71b4008d55750f21dc905cda9b0f7f5f76bc08%22%5D&tabId=596eef05-6c7d-45aa-9914-37b6a881ec3b&to=%5B%229fa4354c24b3c7a2b0d40f870a1f57da4907bd816f130033f994ee9dcfdf08d1%22%5D&v=3) | [Local Asset](assets/2026-06-23_iraqs-export-crisis-hormuz-and-pipeline-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d9d55a0aecc5.png)
 
 Iraq's crude oil production fell to a 10-year low of 1.5mbd in April (OPEC), down over 60% from the pre-conflict January-February average of 4.1mbd. May production recovered approximately 20% m-o-m to 1.8mbd, signalling some ramping of oilfields following the shut-ins - though volumes remain far below quota levels.
 
@@ -44,12 +44,12 @@ In February, Iraq's National Oil Company announced several new refineries had re
 ![Στιγμιότυπο Οθόνης 2026 06 23 074943](assets/2026-06-23_iraqs-export-crisis-hormuz-and-pipeline-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_626353a62dbd.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 06 23 074943**  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/Flows?dateRange=2023-01-01T00%3A00%3A00.000Z__2026-06-16T23%3A59%3A59.999Z&from=%5B%229fa4354c24b3c7a2b0d40f870a1f57da4907bd816f130033f994ee9dcfdf08d1%22%5D&metric=bpd&page=Flows&products=%5B%22f95529fb0524a95783a8f3a2dad1463bfcc610b789bffd91ed16b233b77bf86c%22%5D&tabId=596eef05-6c7d-45aa-9914-37b6a881ec3b&v=3) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-23_iraqs-export-crisis-hormuz-and-pipeline-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_626353a62dbd.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/Flows?dateRange=2023-01-01T00%3A00%3A00.000Z__2026-06-16T23%3A59%3A59.999Z&from=%5B%229fa4354c24b3c7a2b0d40f870a1f57da4907bd816f130033f994ee9dcfdf08d1%22%5D&metric=bpd&page=Flows&products=%5B%22f95529fb0524a95783a8f3a2dad1463bfcc610b789bffd91ed16b233b77bf86c%22%5D&tabId=596eef05-6c7d-45aa-9914-37b6a881ec3b&v=3) | [Local Asset](assets/2026-06-23_iraqs-export-crisis-hormuz-and-pipeline-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_626353a62dbd.png)
 
 ![Στιγμιότυπο Οθόνης 2026 06 23 074951](assets/2026-06-23_iraqs-export-crisis-hormuz-and-pipeline-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5d7fec3e0ec1.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 06 23 074951**  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/Flows?dateRange=2023-01-01T00%3A00%3A00.000Z__2026-06-16T23%3A59%3A59.999Z&from=%5B%229fa4354c24b3c7a2b0d40f870a1f57da4907bd816f130033f994ee9dcfdf08d1%22%5D&metric=bpd&page=Flows&products=%5B%22f95529fb0524a95783a8f3a2dad1463bfcc610b789bffd91ed16b233b77bf86c%22%5D&tabId=596eef05-6c7d-45aa-9914-37b6a881ec3b&v=3) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-23_iraqs-export-crisis-hormuz-and-pipeline-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5d7fec3e0ec1.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/Flows?dateRange=2023-01-01T00%3A00%3A00.000Z__2026-06-16T23%3A59%3A59.999Z&from=%5B%229fa4354c24b3c7a2b0d40f870a1f57da4907bd816f130033f994ee9dcfdf08d1%22%5D&metric=bpd&page=Flows&products=%5B%22f95529fb0524a95783a8f3a2dad1463bfcc610b789bffd91ed16b233b77bf86c%22%5D&tabId=596eef05-6c7d-45aa-9914-37b6a881ec3b&v=3) | [Local Asset](assets/2026-06-23_iraqs-export-crisis-hormuz-and-pipeline-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5d7fec3e0ec1.png)
 
 ## Northern Exports: Kirkuk Volumes at Risk
 
@@ -62,7 +62,7 @@ The pipeline agreement formally expires on 27 July following Ankara's issuance o
 ![Στιγμιότυπο Οθόνης 2026 06 23 074959](assets/2026-06-23_iraqs-export-crisis-hormuz-and-pipeline-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c63858d0166c.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2026 06 23 074959**  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/InsightsHubPage?articleId=6utChDynvUMFMrZdjoS5Ty&articleType=highlight&page=InsightsHubPage&searchTerm=&tabId=ecc93418-36e2-437e-b372-21e07db74316) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-23_iraqs-export-crisis-hormuz-and-pipeline-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c63858d0166c.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/InsightsHubPage?articleId=6utChDynvUMFMrZdjoS5Ty&articleType=highlight&page=InsightsHubPage&searchTerm=&tabId=ecc93418-36e2-437e-b372-21e07db74316) | [Local Asset](assets/2026-06-23_iraqs-export-crisis-hormuz-and-pipeline-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c63858d0166c.png)
 
 ## Alternate Export Routes
 
@@ -75,7 +75,7 @@ In April, SOMO signed an agreement with Syria for cross-border truck haulage of 
 ![Στιγμιότυπο Οθόνης 2026 06 23 075010](assets/2026-06-23_iraqs-export-crisis-hormuz-and-pipeline-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ac8444c757c.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2026 06 23 075010**  
-> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/InsightsHubPage?articleId=6utChDynvUMFMrZdjoS5Ty&articleType=highlight&page=InsightsHubPage&searchTerm=&tabId=ecc93418-36e2-437e-b372-21e07db74316) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-23_iraqs-export-crisis-hormuz-and-pipeline-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ac8444c757c.png)
+> **Interactive Data & Source:** [Analytics Vortexa](https://analytics.vortexa.com/InsightsHubPage?articleId=6utChDynvUMFMrZdjoS5Ty&articleType=highlight&page=InsightsHubPage&searchTerm=&tabId=ecc93418-36e2-437e-b372-21e07db74316) | [Local Asset](assets/2026-06-23_iraqs-export-crisis-hormuz-and-pipeline-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ac8444c757c.png)
 
 ### Basra-Haditha Pipeline
 
@@ -88,7 +88,7 @@ The longer-term structural response is the Basra-Haditha pipeline, approved in 2
 ![Στιγμιότυπο Οθόνης 2026 06 23 075019](assets/2026-06-23_iraqs-export-crisis-hormuz-and-pipeline-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c809cd1a4333.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2026 06 23 075019**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-06-23_iraqs-export-crisis-hormuz-and-pipeline-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c809cd1a4333.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](assets/2026-06-23_iraqs-export-crisis-hormuz-and-pipeline-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c809cd1a4333.png)
 
 ## Forward View
 

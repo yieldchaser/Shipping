@@ -64,26 +64,26 @@ We have five questions for 2025:
 ![What Will the Nature and Intensity of Trade Wars Be?](assets/2025-01-08_2025-isnt-forecastable-but-we-will-try_img_image009_6ebb2ab71065.jpg)
 
 > **Figure 1: What Will the Nature and Intensity of Trade Wars Be?**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-08_2025-isnt-forecastable-but-we-will-try_img_image009_6ebb2ab71065.jpg)
+> [Local Asset](assets/2025-01-08_2025-isnt-forecastable-but-we-will-try_img_image009_6ebb2ab71065.jpg)
 
 Last year saw US stocks plough ahead, leaving European stocks far behind. The US has the deeper financial markets, the world’s reserve currency, better growth and ultimately a higher efficient frontier than the rest of the world.
 
 ![2.how Long Can Us Exceptionalism Last?](assets/2025-01-08_2025-isnt-forecastable-but-we-will-try_img_image010_0e61a3a47420.jpg)
 
 > **Figure 2: 2.how Long Can Us Exceptionalism Last?**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-08_2025-isnt-forecastable-but-we-will-try_img_image010_0e61a3a47420.jpg)
+> [Local Asset](assets/2025-01-08_2025-isnt-forecastable-but-we-will-try_img_image010_0e61a3a47420.jpg)
 
 ![Market Chart 3](assets/2025-01-08_2025-isnt-forecastable-but-we-will-try_img_image011_b71d454af213.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-08_2025-isnt-forecastable-but-we-will-try_img_image011_b71d454af213.jpg)
+> [Local Asset](assets/2025-01-08_2025-isnt-forecastable-but-we-will-try_img_image011_b71d454af213.jpg)
 
 As a result, its companies enjoy higher valuations than their global peers and its debt is allowed to balloon more.
 
 ![Market Chart 4](assets/2025-01-08_2025-isnt-forecastable-but-we-will-try_img_image012_25ec75e2d13e.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-08_2025-isnt-forecastable-but-we-will-try_img_image012_25ec75e2d13e.jpg)
+> [Local Asset](assets/2025-01-08_2025-isnt-forecastable-but-we-will-try_img_image012_25ec75e2d13e.jpg)
 
 In more than one sense America is already “Great”. Will trying to make it “Great Again” result in enhancing its glaring advantage, or will it result in upsetting the status quo and eroding these benefits?
 
@@ -92,28 +92,28 @@ In a world with stagnating demographics, where the productivity promises of the 
 ![3.how Much More Can Nations Borrow?](assets/2025-01-08_2025-isnt-forecastable-but-we-will-try_img_image013_a81d94d8500d.jpg)
 
 > **Figure 5: 3.how Much More Can Nations Borrow?**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-08_2025-isnt-forecastable-but-we-will-try_img_image013_a81d94d8500d.jpg)
+> [Local Asset](assets/2025-01-08_2025-isnt-forecastable-but-we-will-try_img_image013_a81d94d8500d.jpg)
 
 France is already in trouble. Can countries continue borrowing at the current pace while sustaining growth enough without risking breaking their promises to their electorates? Or will bank deregulation be the key to shifting growth from government borrowing to credit creation?
 
 ![Market Chart 6](assets/2025-01-08_2025-isnt-forecastable-but-we-will-try_img_image014_d77314858de2.jpg)
 
 > **Figure 6: Market Chart 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-08_2025-isnt-forecastable-but-we-will-try_img_image014_d77314858de2.jpg)
+> [Local Asset](assets/2025-01-08_2025-isnt-forecastable-but-we-will-try_img_image014_d77314858de2.jpg)
 
 If Chinese stimulus of over $1tn helps the economy perform a v-shaped recovery, then China’s disinflationary effect on Developed Markets might dissipate quickly, forcing central banks to halt or even reverse rate cuts. If China fails to rebound or performs a shallow rebound, then this could have a negative effect on global growth. The trajectory of the world’s second-largest economy will be a defining piece of the 2025 puzzle.
 
 ![4.how Fast Will China Rebound?](assets/2025-01-08_2025-isnt-forecastable-but-we-will-try_img_image015_265cf90d2911.jpg)
 
 > **Figure 7: 4.how Fast Will China Rebound?**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-08_2025-isnt-forecastable-but-we-will-try_img_image015_265cf90d2911.jpg)
+> [Local Asset](assets/2025-01-08_2025-isnt-forecastable-but-we-will-try_img_image015_265cf90d2911.jpg)
 
 This depends on the impact of trade wars and the Chinese rebound on inflation. Current market expectations suggest 1-2 rate cuts in the US and the UK and 4 in Europe, whose key economies face growth and debt challenges. But with so many unknowns, all outcomes should be on the table, even rate hikes.
 
 ![5.how Many Rate Cuts in 2025?](assets/2025-01-08_2025-isnt-forecastable-but-we-will-try_img_image016_0396dc60d82c.png)
 
 > **Figure 8: 5.how Many Rate Cuts in 2025?**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-01-08_2025-isnt-forecastable-but-we-will-try_img_image016_0396dc60d82c.png)
+> [Local Asset](assets/2025-01-08_2025-isnt-forecastable-but-we-will-try_img_image016_0396dc60d82c.png)
 
 ### 6.what It All Means for Investors
 

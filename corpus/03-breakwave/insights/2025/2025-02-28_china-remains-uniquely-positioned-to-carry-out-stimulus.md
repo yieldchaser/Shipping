@@ -27,21 +27,21 @@ As we discussed in Commodore Research's most recent Weekly China Report, inflati
 ![241](assets/2025-02-28_china-remains-uniquely-positioned-to-carry-out-stimulus_img_241_51d63808a3af.jpg)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-28_china-remains-uniquely-positioned-to-carry-out-stimulus_img_241_51d63808a3af.jpg)
+> [Local Asset](assets/2025-02-28_china-remains-uniquely-positioned-to-carry-out-stimulus_img_241_51d63808a3af.jpg)
 
 Inflation in the United States, for example, came in at 3% in January.
 
 ![242](assets/2025-02-28_china-remains-uniquely-positioned-to-carry-out-stimulus_img_242_a83b77643adc.jpg)
 
 > **Figure 2: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-28_china-remains-uniquely-positioned-to-carry-out-stimulus_img_242_a83b77643adc.jpg)
+> [Local Asset](assets/2025-02-28_china-remains-uniquely-positioned-to-carry-out-stimulus_img_242_a83b77643adc.jpg)
 
 Also significant in China is that producer prices also remain in a year-on-year contraction.
 
 ![243](assets/2025-02-28_china-remains-uniquely-positioned-to-carry-out-stimulus_img_243_a75b8852d02b.jpg)
 
 > **Figure 3: 243**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-02-28_china-remains-uniquely-positioned-to-carry-out-stimulus_img_243_a75b8852d02b.jpg)
+> [Local Asset](assets/2025-02-28_china-remains-uniquely-positioned-to-carry-out-stimulus_img_243_a75b8852d02b.jpg)
 
 Overall, with inflation long remaining relatively low in China, its government is continuing to be afforded a luxury of more safely being able to carry out inflationary measures compared to much of the rest of the world including the United States. We continue to expect that more significant stimulus measures will be rolled out in China this year.
 

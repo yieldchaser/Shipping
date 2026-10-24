@@ -36,13 +36,13 @@ In terms of international trade, the world economy has now experienced more than
 ![12](assets/2023-10-02_od0gstp6afljme22qoo9z5k3atfi9r_img_12_fe2c1864ee76.png)
 
 > **Figure 1: 12**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-02_od0gstp6afljme22qoo9z5k3atfi9r_img_12_fe2c1864ee76.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-10-02_od0gstp6afljme22qoo9z5k3atfi9r_img_12_fe2c1864ee76.png)
 
 Following the previous period pre-holiday shopping rush in China, Baltic Dry Index didn’t have the necessary time and energy to look into the longer-term dynamics and trends. However, with the rush calming down, dry bulk is expected to have more time next week to ponder and assess all the above macro dynamics.
 
 ![13](assets/2023-10-02_od0gstp6afljme22qoo9z5k3atfi9r_img_13_2a9311e7aeb1.png)
 
 > **Figure 2: 13**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-10-02_od0gstp6afljme22qoo9z5k3atfi9r_img_13_2a9311e7aeb1.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2023-10-02_od0gstp6afljme22qoo9z5k3atfi9r_img_13_2a9311e7aeb1.png)
 
 Data source:[Doric](https://www.doric.gr/)

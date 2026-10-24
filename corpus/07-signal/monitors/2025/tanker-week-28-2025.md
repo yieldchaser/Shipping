@@ -36,7 +36,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-28-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6870cefc0a60efe80ad868e8_AD_4nXeug16fpBSZbgpU73y3E3GUiUjcRZHdlwnXVdabYGqEpisxylDk3WWxhhuT7ct5cCSIp_lc8hWCFSvQmoEyRRrtZ2S1ZnsJ1TUhe6CppARdumLz9D2kCt04GroeLunSWBEPZ0jB.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-28-2025) | [Local Asset](../../images/6870cefc0a60efe80ad868e8_AD_4nXeug16fpBSZbgpU73y3E3GUiUjcRZHdlwnXVdabYGqEpisxylDk3WWxhhuT7ct5cCSIp_lc8hWCFSvQmoEyRRrtZ2S1ZnsJ1TUhe6CppARdumLz9D2kCt04GroeLunSWBEPZ0jB.png)
 
 This week’s Chart Market Monitor highlights the significant increase in Brazilian crude oil shipments to China, which reached a record 93.6 million barrels in Q2 2025, marking a 53% rise from Q1 and a 60% year-on-year surge compared to Q2 2024. These are the highest second-quarter volumes recorded in recent years, far surpassing previous benchmarks from 2023 and 2024.
 
@@ -52,7 +52,7 @@ In addition, recent corporate activity by the Brazilian energy group underscores
 ![6870cefc0a60efe80ad868e5 Ad 4nxffcxrobxsgqpfsr3dsqyrxppxzjytatffzwon4yigdbwyxcovjbct6trpluy Iow4qyiu2trdwpkpconxuzkg2kue C8v Cdbs4fb7tmk4ny5pzssapd15i0 Gmyx5qn00f H](../../images/6870cefc0a60efe80ad868e5_AD_4nXfFcxRobxSgQPfsR3dSqyrxpPxzJYTatFfZWon4yigDBwyXCOVjbcT6trPluY-IOw4QyIU2trDwpkpcONXuzKg2KuE-C8v_cDbs4FB7TMK4NY5PZssapd15i0-_gmYx5qn00F_H.png)
 
 > **Figure 2: 6870cefc0a60efe80ad868e5 Ad 4nxffcxrobxsgqpfsr3dsqyrxppxzjytatffzwon4yigdbwyxcovjbct6trpluy Iow4qyiu2trdwpkpconxuzkg2kue C8v Cdbs4fb7tmk4ny5pzssapd15i0 Gmyx5qn00f H**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-28-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6870cefc0a60efe80ad868e5_AD_4nXfFcxRobxSgQPfsR3dSqyrxpPxzJYTatFfZWon4yigDBwyXCOVjbcT6trPluY-IOw4QyIU2trDwpkpcONXuzKg2KuE-C8v_cDbs4FB7TMK4NY5PZssapd15i0-_gmYx5qn00F_H.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-28-2025) | [Local Asset](../../images/6870cefc0a60efe80ad868e5_AD_4nXfFcxRobxSgQPfsR3dSqyrxpPxzJYTatFfZWon4yigDBwyXCOVjbcT6trPluY-IOw4QyIU2trDwpkpcONXuzKg2KuE-C8v_cDbs4FB7TMK4NY5PZssapd15i0-_gmYx5qn00F_H.png)
 
 The VLCC segment has already started experiencing a rise in the demand for the prospective trade route. Since March, the 7-day moving average of “dirty tonne-miles” for Brazil–China shipments has surpassed 2 billion nautical miles, up approximately 1 billion from the same period in 2023 and 2024. This surge is tightening VLCC availability, particularly in the Atlantic Basin, as voyages from Brazil to China take roughly 100 days round trip, compared to about 60 days for Middle East–Asia routes. As a result, freight rates for dirty VLCC cargoes may face upward pressure, especially in the Atlantic. If the strength of Brazil-to-China flows persists, the shift will not only reshape trade patterns but also exert a tightening movement on the AG VLCC supply.
 

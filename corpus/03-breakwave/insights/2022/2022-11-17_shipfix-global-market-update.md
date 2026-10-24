@@ -52,7 +52,7 @@ Rising expectations that the UN-monitored deal that has allowed Ukraine to recom
 ![Market Chart 1](assets/2022-11-17_shipfix-global-market-update_img_unnamed-2022-11-17t151250068_8fdfd59abfce.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-17_shipfix-global-market-update_img_unnamed-2022-11-17t151250068_8fdfd59abfce.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-11-17_shipfix-global-market-update_img_unnamed-2022-11-17t151250068_8fdfd59abfce.png)
 
 The Ukrainian grain exports are facing renewed uncertainty amid the recent Russian suspension of its participation in the UN-monitored deal, followed by a rapid re-engagement, and a possible expiry of the current agreement later in November.
 

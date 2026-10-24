@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-24_doric-china-barometer
 
 > **Figure 1: Bymichalis Voutsinasand Helen Vlassi**  
 > *ByMichalis Voutsinasand Helen Vlassi*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/michalis-voutsinas-587544163/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_buttonwdate_d45d644f7990.png)](https://www.breakwaveadvisors.com/agenda22)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/michalis-voutsinas-587544163/) | [Local Asset](assets/2022-11-24_doric-china-barometer-part-12_img_buttonwdate_d45d644f7990.png)](https://www.breakwaveadvisors.com/agenda22)
 
 ### Macro Environment
 
@@ -37,7 +37,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-24_doric-china-barometer
 ![Screenshot 20221124 161450 Samsung Notes](assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161450-samsungno_0658635b5eb5.jpg)
 
 > **Figure 2: Screenshot 20221124 161450 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161450-samsungno_0658635b5eb5.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161450-samsungno_0658635b5eb5.jpg)
 
 ### Price Environment
 
@@ -51,7 +51,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-24_doric-china-barometer
 ![Screenshot 20221124 161536 Samsung Notes](assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161536-samsungno_c7a2cd91d859.jpg)
 
 > **Figure 3: Screenshot 20221124 161536 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161536-samsungno_c7a2cd91d859.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161536-samsungno_c7a2cd91d859.jpg)
 
 ### Manufacturing 1/2
 
@@ -65,7 +65,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-24_doric-china-barometer
 ![Screenshot 20221124 161609 Samsung Notes (1)](assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161609-samsungno_d472ace99269.jpg)
 
 > **Figure 4: Screenshot 20221124 161609 Samsung Notes (1)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161609-samsungno_d472ace99269.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161609-samsungno_d472ace99269.jpg)
 
 ### Manufacturing 2/2
 
@@ -79,7 +79,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-11-24_doric-china-barometer
 ![Screenshot 20221124 161630 Samsung Notes](assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161630-samsungno_cc84713dd3e7.jpg)
 
 > **Figure 5: Screenshot 20221124 161630 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161630-samsungno_cc84713dd3e7.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161630-samsungno_cc84713dd3e7.jpg)
 
 ### Energy 1/2
 
@@ -94,7 +94,7 @@ In terms of varieties, the growth rate of solar power balanced at 24.7 percent i
 ![Screenshot 20221124 161657 Samsung Notes](assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161657-samsungno_54c8c82a0d17.jpg)
 
 > **Figure 6: Screenshot 20221124 161657 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161657-samsungno_54c8c82a0d17.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161657-samsungno_54c8c82a0d17.jpg)
 
 ### Energy 2/2
 
@@ -108,7 +108,7 @@ In terms of varieties, the growth rate of solar power balanced at 24.7 percent i
 ![Screenshot 20221124 161721 Samsung Notes](assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161721-samsungno_d2e85df6de9e.jpg)
 
 > **Figure 7: Screenshot 20221124 161721 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161721-samsungno_d2e85df6de9e.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2022-11-24_doric-china-barometer-part-12_img_screenshot-20221124-161721-samsungno_d2e85df6de9e.jpg)
 
 Part 2/2 will be published tomorrow.
 

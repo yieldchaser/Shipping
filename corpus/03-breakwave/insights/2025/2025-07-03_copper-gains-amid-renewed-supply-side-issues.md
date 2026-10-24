@@ -27,7 +27,7 @@ Easing trade tensions triggered a risk on tone across markets, boosting appetite
 ![Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85](assets/2025-07-03_copper-gains-amid-renewed-supply-side-issues_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_90c26919afe9.png)
 
 > **Figure 1: Cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-03_copper-gains-amid-renewed-supply-side-issues_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_90c26919afe9.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-07-03_copper-gains-amid-renewed-supply-side-issues_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_90c26919afe9.png)
 
 ### Market Commentary
 
@@ -48,7 +48,7 @@ The prospect of tariffs on copper imports into the US has seen traders rush to s
 ![Στιγμιότυπο Οθόνης 2025 07 03 153303](assets/2025-07-03_copper-gains-amid-renewed-supply-side-issues_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2e9c3b0e5f8.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 07 03 153303**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-03_copper-gains-amid-renewed-supply-side-issues_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2e9c3b0e5f8.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-07-03_copper-gains-amid-renewed-supply-side-issues_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2e9c3b0e5f8.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

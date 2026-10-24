@@ -37,14 +37,14 @@ The business world watches, enthralled, at another strong set of employment numb
 ![Market Chart 1](assets/2024-04-09_the-us-governments-poison-pill_img_image008_4664039ab0b3.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-09_the-us-governments-poison-pill_img_image008_4664039ab0b3.jpg)
+> [Local Asset](assets/2024-04-09_the-us-governments-poison-pill_img_image008_4664039ab0b3.jpg)
 
 As a result, the bond market tanked again (now -2.7% since the beginning of the year), and is pricing in less than three rate cuts for 2024 for the first time since October. The equity market, more captivated by the AI narrative than interest rates persists on its own course.
 
 ![Market Chart 2](assets/2024-04-09_the-us-governments-poison-pill_img_image009_e13320ceffd1.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-09_the-us-governments-poison-pill_img_image009_e13320ceffd1.jpg)
+> [Local Asset](assets/2024-04-09_the-us-governments-poison-pill_img_image009_e13320ceffd1.jpg)
 
 But why is this? Why is the US defying all odds? And is this sustainable? The answer to the former is mostly clear.
 
@@ -55,21 +55,21 @@ The US average deficit since 1969 has been 3.2%. Yet in the years since the pand
 ![Market Chart 3](assets/2024-04-09_the-us-governments-poison-pill_img_image010_d78c421ba780.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-09_the-us-governments-poison-pill_img_image010_d78c421ba780.jpg)
+> [Local Asset](assets/2024-04-09_the-us-governments-poison-pill_img_image010_d78c421ba780.jpg)
 
 At this pace, the US is expected to run a public debt at 131% of GDP by the end of the decade, and be forced to pay nearly double its annual growth in interest payments.
 
 ![Market Chart 4](assets/2024-04-09_the-us-governments-poison-pill_img_image011_874dccbc5df1.jpg)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-09_the-us-governments-poison-pill_img_image011_874dccbc5df1.jpg)
+> [Local Asset](assets/2024-04-09_the-us-governments-poison-pill_img_image011_874dccbc5df1.jpg)
 
 And it’s not just the state, it’s consumers too, racking up credit card debt at 30% interest. It should be no surprise that consumer delinquencies are rising at the fastest pace in years.
 
 ![Market Chart 5](assets/2024-04-09_the-us-governments-poison-pill_img_image012_9cec244149e9.jpg)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-09_the-us-governments-poison-pill_img_image012_9cec244149e9.jpg)
+> [Local Asset](assets/2024-04-09_the-us-governments-poison-pill_img_image012_9cec244149e9.jpg)
 
 The US government seems resolved not to lose this election on account of the economy and doesn’t have the time to wait for inflation to drop to 2%. Put it differently, the difference between 2% and 3% inflation is less important than the difference between a recession and 2% growth, especially when you know that we have reached the sticky part of the inflation cycle.
 
@@ -80,7 +80,7 @@ And once again, as it has done so many times in history, the US is banking on th
 ![Market Chart 6](assets/2024-04-09_the-us-governments-poison-pill_img_image013_c08c90d23afc.jpg)
 
 > **Figure 6: Market Chart 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-09_the-us-governments-poison-pill_img_image013_c08c90d23afc.jpg)
+> [Local Asset](assets/2024-04-09_the-us-governments-poison-pill_img_image013_c08c90d23afc.jpg)
 
 But the question for investors is: is it enough? Can the US stand such high debt at higher yields and milder rate cuts (which means higher interest payments) from the Fed? Is the Dollar such an indefinite source of wealth that no matter how much one borrows, markets will always fund it?
 
@@ -94,7 +94,7 @@ Investors are presently looking towards the bull equity market. But they should 
 
 > **Figure 7: Significant Factor in the Ongoing Optimism Is the Apparent**  
 > *A significant factor in the ongoing optimism is the apparent strength and relative resilience of the global economy, especially in the US, coupled with inflation that continues to trend down towards the effective 2% target.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-09_the-us-governments-poison-pill_img_image014_c8e4beac9a63.jpg)
+> [Local Asset](assets/2024-04-09_the-us-governments-poison-pill_img_image014_c8e4beac9a63.jpg)
 
 And in that consider whether this is the rally where one pulls all stops, or whether it is one where we should participate with a modicum of caution.
 

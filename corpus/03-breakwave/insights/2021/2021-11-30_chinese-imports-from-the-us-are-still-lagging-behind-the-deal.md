@@ -31,7 +31,7 @@ So far this year, conformity with the agreement has seen some limited improvemen
 ![Ch1](assets/2021-11-30_chinese-imports-from-the-us-are-still-lagging-behind-the-deal_img_ch1_4f9ef08c7fed.png)
 
 > **Figure 1: Ch1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-30_chinese-imports-from-the-us-are-still-lagging-behind-the-deal_img_ch1_4f9ef08c7fed.png)
+> [Local Asset](assets/2021-11-30_chinese-imports-from-the-us-are-still-lagging-behind-the-deal_img_ch1_4f9ef08c7fed.png)
 
 While the compliance rate only shows a limited increase compared to last year, it is important to highlight that the targets for 2021 are higher than in 2020. The objective for the current year, as measured as Chinese imports, is 31 billion dollars higher than in the previous year. Like last year, agricultural shipments are the standout performer, with 89 per cent of the goal achieved. However, Chinese importers would have to buy 15 billion dollars worth of grains during the year's final months to meet the quota. Imports of energy commodities remain the laggard, with data from the US and China also diverging considerably. According to Chinese import records, volumes for the first ten months of the year have reached 56 per cent, while US exports suggest that only 37 per cent has been achieved.
 
@@ -40,7 +40,7 @@ According to cargo tracking data from Oceanbolt, coal shipments from the US to C
 ![Ch2](assets/2021-11-30_chinese-imports-from-the-us-are-still-lagging-behind-the-deal_img_ch2_f3e7e5fa4ca4.png)
 
 > **Figure 2: Ch2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-11-30_chinese-imports-from-the-us-are-still-lagging-behind-the-deal_img_ch2_f3e7e5fa4ca4.png)
+> [Local Asset](assets/2021-11-30_chinese-imports-from-the-us-are-still-lagging-behind-the-deal_img_ch2_f3e7e5fa4ca4.png)
 
 During the first ten months of the year, US agricultural exports to China were approximately 23 per cent above the same period last year. However, the strength of the exports during the final months of last year may mean that total volume will fail to match last year's record levels. While export volumes may be lower than last year, the Phase One deal is based on value rather than quantities. Hence, the higher crop prices have proved beneficial for China's compliance with the trade agreement during the current year.
 

@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-05-30_brs-dry-bulk-weekly-n
 ![Brs Logo No Background (1)](assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_brslogo-nobackground28129_f39a57dd6dc6.png)
 
 > **Figure 1: Brs Logo No Background (1)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_brslogo-nobackground28129_f39a57dd6dc6.png)
+> [Local Asset](assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_brslogo-nobackground28129_f39a57dd6dc6.png)
 
 ## China Power System Brings More Volatility to the Shipping Market
 
@@ -39,7 +39,7 @@ Secondly, the growth of renewable energy generation which are not dispatchable s
 ![1 (2)](assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_128229_2c30326a4929.png)
 
 > **Figure 2: 1 (2)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_128229_2c30326a4929.png)
+> [Local Asset](assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_128229_2c30326a4929.png)
 
 Despite the seasonal patterns, the share of coal fire power generation has been decreasing year by year, gradually being replaced by renewable energy sources.
 
@@ -68,7 +68,7 @@ For 2023, consensus would be that the total annual electricity consumption of th
 ![1 (3)](assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_128329_5814ffaf8f45.png)
 
 > **Figure 3: 1 (3)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_128329_5814ffaf8f45.png)
+> [Local Asset](assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_128329_5814ffaf8f45.png)
 
 Despite renewable energy development and the gradually decreasing share of coal-fired generation in the power industry, coal still represent 69.77% of China’s total power generation. Coalfired generation is expected to maintain a low-speed growth rate (0.5%-1%) but continue to play an important role in the power generation industry.
 
@@ -87,7 +87,7 @@ Looking at the entire year and supported by a projected 3% increase in annual co
 ![1 (4)](assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_128429_2c418915054a.png)
 
 > **Figure 4: 1 (4)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_128429_2c418915054a.png)
+> [Local Asset](assets/2023-05-30_brs-dry-bulk-weekly-newsletter_img_128429_2c418915054a.png)
 
 Well supported from the power industry, China seaborne coal import is expected to reach 300 mln mt in 2023.
 

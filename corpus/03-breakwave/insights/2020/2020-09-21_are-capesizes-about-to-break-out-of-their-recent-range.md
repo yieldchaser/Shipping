@@ -28,7 +28,7 @@ Since late July, the Capesize spot index has traded in a relatively tight range 
 
 > **Figure 1: China Monthly Steel Production Range vs 2020**  
 > *China Monthly Steel Production range vs 2020*  
-> **Interactive Data & Source:** [Ssyonline](https://www.ssyonline.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-21_are-capesizes-about-to-break-out-of-their-recent-range_img_bcichart28229_42b4dcde11f0.jpg)
+> **Interactive Data & Source:** [Ssyonline](https://www.ssyonline.com/) | [Local Asset](assets/2020-09-21_are-capesizes-about-to-break-out-of-their-recent-range_img_bcichart28229_42b4dcde11f0.jpg)
 
 Iron ore export volumes remain healthy, and we anticipate such trend to remain in place for the foreseeable future. Although last week Brazilian iron ore export volumes declined to a 5-week low, such week-to-week variations are normal and although they affect the short term balance of the market, there is a tendency for a reversion to the mean, which time-wise should be positive for Capesizes over the next several weeks. Such high rate of exports should put upward pressure to the market, as supply remains constant which combined with high port congestion, points to a tightening balance going forward.
 
@@ -37,14 +37,14 @@ China’s demand for steel also fundamentally supports improving flows over the 
 ![Chian Steel Production](assets/2020-09-21_are-capesizes-about-to-break-out-of-their-recent-range_img_chiansteelproduction_bf1097322bd9.jpg)
 
 > **Figure 2: Chian Steel Production**  
-> **Interactive Data & Source:** [Ssyonline](https://www.ssyonline.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-21_are-capesizes-about-to-break-out-of-their-recent-range_img_chiansteelproduction_bf1097322bd9.jpg)
+> **Interactive Data & Source:** [Ssyonline](https://www.ssyonline.com/) | [Local Asset](assets/2020-09-21_are-capesizes-about-to-break-out-of-their-recent-range_img_chiansteelproduction_bf1097322bd9.jpg)
 
 Although Capesize futures have also remained rangebound, there has been a more positive bias throughout last week and near dated prices have been slowly drifting higher. So far nothing has really materialized in the actual physical market, but when such optimism is reflected in the freight futures market, it is often a precursor of an upward move in spot rates. The Capesize ballast list (Capesize vessels steaming from Asia towards the Atlantic) is the lowest it has been for at least a year now according to[SSY](https://www.ssyonline.com/), which is quite promising for further tightening the Capesize market in the Atlantic region.
 
 ![Source: Ssy](assets/2020-09-21_are-capesizes-about-to-break-out-of-their-recent-range_img_ssyballastlist_d3d8265d6b47.jpeg)
 
 > **Figure 3: Source: Ssy**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-21_are-capesizes-about-to-break-out-of-their-recent-range_img_ssyballastlist_d3d8265d6b47.jpeg)
+> [Local Asset](assets/2020-09-21_are-capesizes-about-to-break-out-of-their-recent-range_img_ssyballastlist_d3d8265d6b47.jpeg)
 
 *Source: SSY*
 

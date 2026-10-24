@@ -31,7 +31,7 @@ tags:
 ![64ca12ce48bf8c578391b201 Capesize Dry Bulk Flows](../../images/64ca12ce48bf8c578391b201_capesize dry bulk flows.png)
 
 > **Figure 1: 64ca12ce48bf8c578391b201 Capesize Dry Bulk Flows**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-31-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/64ca12ce48bf8c578391b201_capesize dry bulk flows.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-31-2023) | [Local Asset](../../images/64ca12ce48bf8c578391b201_capesize dry bulk flows.png)
 
 In early August, Atlantic Capesize freight rates posted significant increases on both a weekly and monthly basis, driving the Baltic C5TC (Timecharter Average $/d) to a weekly increase of 32%. Capesize route C8 (Transatlantic Round Gibraltar/Hamburg $/d) saw a 70% increase and the C7 route (Bolivar to Rotterdam $/mt) saw a 26% increase (WoW). Overall, the Baltic Dry Index ended yesterday up 16.5% (WoW), with Capesize and Panamax routes showing an upward trend, while downward pressure continued in the smaller ship size segments.
 

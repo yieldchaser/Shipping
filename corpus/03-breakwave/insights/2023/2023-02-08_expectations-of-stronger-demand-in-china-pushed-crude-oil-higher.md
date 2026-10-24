@@ -26,7 +26,7 @@ Signs of improving demand boosted sentiment across commodity markets. This was a
 ![1675803537777](assets/2023-02-08_expectations-of-stronger-demand-in-china-pushed-crude-oil-higher_img_1675803537777_814a4eee0f03.png)
 
 > **Figure 1: 1675803537777**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-08_expectations-of-stronger-demand-in-china-pushed-crude-oil-higher_img_1675803537777_814a4eee0f03.png)
+> [Local Asset](assets/2023-02-08_expectations-of-stronger-demand-in-china-pushed-crude-oil-higher_img_1675803537777_814a4eee0f03.png)
 
 **Crude oil**gained as Saudi Aramco’s move to raise prices boosted sentiment. The world’s largest producers increased most prices for its flagship Arab Light grade against expectations of a cut. It signalled the producer is expecting stronger demand, particularly in China which is reopening after years of virus-related restrictions. Rhetoric from OPEC has also been bullish this week. OPEC secretary-general Haitham al-Ghais said he was upbeat on China. Kuwait said that consumption in the world’s biggest crude importer was already on the rise. The market shrugged off reports that flows through the 1mb/d Ceyhan oil terminal in Turkey will resume shortly. More broadly, supply side issues were also back in focus. The Energy Information Administration lowered its forecast for US crude oil production in 2024.
 

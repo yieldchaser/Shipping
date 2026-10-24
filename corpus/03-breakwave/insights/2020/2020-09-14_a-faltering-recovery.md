@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-09-14_a-faltering-recovery.
 ![By Ulf Bergman](assets/2020-09-14_a-faltering-recovery_img_image-asset_ba7f6c7a950a.jpeg)
 
 > **Figure 1: By Ulf Bergman**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-14_a-faltering-recovery_img_image-asset_ba7f6c7a950a.jpeg)
+> [Local Asset](assets/2020-09-14_a-faltering-recovery_img_image-asset_ba7f6c7a950a.jpeg)
 
 AstraZeneca’s announcement a few days ago that a COVID-19 vaccine trial was temporarily suspended served as a timely reminder that we are still in the middle of the pandemic. The trial has since restarted in the UK, and the company is expressing some optimism that a vaccine could be ready by the end of the year. Whether such an assessment of the situation is overambitious or not is probably best left for the scientific community to judge. The key implication is, however, that the COVID-19 looks set to continue to dominate the news flow for the rest of the year and possibly well into the next.
 
@@ -34,7 +34,7 @@ The crude oil price could serve as a good illustration of a slowing momentum of 
 ![Crude Price](assets/2020-09-14_a-faltering-recovery_img_crudeprice_28b26fc721e7.jpg)
 
 > **Figure 2: Crude Price**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-09-14_a-faltering-recovery_img_crudeprice_28b26fc721e7.jpg)
+> [Local Asset](assets/2020-09-14_a-faltering-recovery_img_crudeprice_28b26fc721e7.jpg)
 
 A potentially unpredictable and uneven recovery from a pandemic induced recession puts the focus on what the government stimulus plans can provide in terms of life support. That Chinese raw material imports are key to the fortunes of the dry bulk shipping is hardly anything new, but recent record quantities of import of iron ore have taken this to a new level. It has been interesting to see new monthly records month after month in the recent past, but without seeing the equivalent increase in steel output.
 

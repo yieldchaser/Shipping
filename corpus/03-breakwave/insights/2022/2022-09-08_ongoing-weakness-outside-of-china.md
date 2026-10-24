@@ -30,6 +30,6 @@ Industrial production is also a key metric we have continued to monitor in our W
 ![Chart 1 (47)](assets/2022-09-08_ongoing-weakness-outside-of-china_img_chart1284729_1a231aa4b539.jpg)
 
 > **Figure 1: Chart 1 (47)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-08_ongoing-weakness-outside-of-china_img_chart1284729_1a231aa4b539.jpg)
+> [Local Asset](assets/2022-09-08_ongoing-weakness-outside-of-china_img_chart1284729_1a231aa4b539.jpg)
 
 We are not at all bullish for Europe for the upcoming months however. We remain of our view that the global energy crisis is only in its infancy, and we expect that Europe will be hit particularly hard this winter. Also highlighted in this week's Weekly Dry Bulk Report have been the industrial production contractions continuing to occur in Japan, Russia, South Africa, and Brazil. Overall, the weakness in the global economy outside of China will remain an issue that the dry bulk market has to continue to contend with.

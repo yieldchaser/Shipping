@@ -37,7 +37,7 @@ Compared with the stress conditions observed a year ago, today’s dry bulk mark
 ![Στιγμιότυπο Οθόνης 2026 01 26 142754](assets/2026-01-26_dry-bulk-market-on-a-stronger-footing_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91068a7f1290.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 01 26 142754**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-26_dry-bulk-market-on-a-stronger-footing_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91068a7f1290.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2026-01-26_dry-bulk-market-on-a-stronger-footing_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91068a7f1290.png)
 
 Data source:[Doric](https://www.doric.gr/)
 

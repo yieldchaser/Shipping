@@ -57,6 +57,6 @@ Chinese soybean imports are likely to rise in the coming months, as the volumes 
 ![Market Chart 1](assets/2023-02-01_shipfix-global-market-update-pkjq0_img_unnamed-2023-02-01t130045262_e176b44f504d.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-02-01_shipfix-global-market-update-pkjq0_img_unnamed-2023-02-01t130045262_e176b44f504d.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2023-02-01_shipfix-global-market-update-pkjq0_img_unnamed-2023-02-01t130045262_e176b44f504d.png)
 
 Data Source:[Shipfix](https://shipfix.com/)

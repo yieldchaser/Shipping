@@ -12,7 +12,7 @@
 - **Stashed Count:** 4,700 files (across 6 year subdirectories)
 - **Quarantine Path:** `data/stashed_redundant_sources/hellenic_iron_ore_html_previews/`
 - **Why Stashed:** These were short (~20-40 line) HTML web article summaries scraped from the Hellenic news website. Because the folder was named `iron_ore`, agents and scripts routinely mistook them for the primary extracted data, ignoring the true multi-page reports.
-- **Active Authoritative Path:** [`data/extracted/md/hellenic/iron_ore_pdf/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/hellenic/iron_ore_pdf) (1,188 full-fidelity Markdown reports + `.tables.json` sidecars across 2021-2026, plus 21 stacked master series CSVs).
+- **Active Authoritative Path:** [`data/extracted/md/hellenic/iron_ore_pdf/`](../extracted/md/hellenic/iron_ore_pdf) (1,188 full-fidelity Markdown reports + `.tables.json` sidecars across 2021-2026, plus 21 stacked master series CSVs).
 
 ---
 
@@ -21,8 +21,8 @@
 - **Quarantine Path:** `data/stashed_redundant_sources/poten_legacy_scraped_md/`
 - **Why Stashed:** These were old markdown files dumped directly into `corpus/04-poten/` with truncated text (`... Read More" />`) and broken dates (`unknown-01-01`). Their presence in the corpus directory caused confusion with the real PDF corpus.
 - **Active Authoritative Paths:**
-  - **Corpus PDFs:** [`corpus/04-poten/pdfs/`](file:///c:/Users/Dell/Github/Shipping/corpus/04-poten/pdfs) (1,087 authoritative PDFs)
-  - **Extracted Markdown:** [`data/extracted/md/poten/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md/poten) (1,087 full cover-to-cover Markdown reports)
+  - **Corpus PDFs:** [`corpus/04-poten/pdfs/`](../../corpus/04-poten/pdfs) (1,087 authoritative PDFs)
+  - **Extracted Markdown:** [`data/extracted/md/poten/`](../extracted/md/poten) (1,087 full cover-to-cover Markdown reports)
 
 ---
 
@@ -42,4 +42,4 @@
   - `star_asia`: 1 files
 - **Quarantine Path:** `data/stashed_redundant_sources/brokers_unpartitioned_root_duplicates/`
 - **Why Stashed:** Early extractor runs placed markdown and sidecar files directly into `data/extracted/md/<broker>/`. Subsequent improvements partitioned the corpus into `<year>/` subdirectories (`2021/` to `2026/`). The loose files in the root folder were 100% duplicate copies of the year-partitioned files, creating clutter and risking stale file references.
-- **Active Authoritative Paths:** [`data/extracted/md/<broker>/<year>/`](file:///c:/Users/Dell/Github/Shipping/data/extracted/md)
+- **Active Authoritative Paths:** [`data/extracted/md/<broker>/<year>/`](../extracted/md)

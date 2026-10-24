@@ -35,7 +35,7 @@ In response to the slower economic performance in the second quarter, Beijing un
 ![Στιγμιότυπο Οθόνης 2024 07 29 102111](assets/2024-07-29_chinas-economy-maintaining-general-stability-and-steady-progress_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_782d93a79d66.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 29 102111**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-29_chinas-economy-maintaining-general-stability-and-steady-progress_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_782d93a79d66.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-07-29_chinas-economy-maintaining-general-stability-and-steady-progress_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_782d93a79d66.png)
 
 Additionally, China will allocate 300 billion yuan ($41.40 billion) in ultra-long treasury bonds to support a programme of equipment upgrades and consumer goods trade-ins, the government said on Thursday, in the latest step to spur an economic recovery. According to the notice China will raise subsidies for qualified buyers of new energy passenger cars to 15,000-20,000 yuan each. Buyers of some home appliances including televisions, air conditioners and computers will get subsidies equivalent to 15-20 percent of their sales prices, but the subsidy for each item will not exceed 2,000 yuan.
 
@@ -44,7 +44,7 @@ Analysts have cautioned that the effects of these stimuli are likely to be modes
 ![Στιγμιότυπο Οθόνης 2024 07 29 102130](assets/2024-07-29_chinas-economy-maintaining-general-stability-and-steady-progress_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_06dc1c7eed2e.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 07 29 102130**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-29_chinas-economy-maintaining-general-stability-and-steady-progress_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_06dc1c7eed2e.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-07-29_chinas-economy-maintaining-general-stability-and-steady-progress_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_06dc1c7eed2e.png)
 
 At this juncture, Baltic indices have shown a lack of vitality, with market sentiment being notably subdued compared to previous summers. The Capesize segment, which is heavily influenced by China’s economic activity, saw a 12.1 percent drop since last Friday, finishing today at a two-month low of $21,676 per day. In contrast, the Panamax sub-market made a notable impression this week, with rates climbing to $16,125 daily, fueled by China's robust demand for grain imports. Meanwhile, the geared segments experienced a rather uneventful week, with both the Supramax and Handysize indices holding steady at $15,246 and $13,670 per day, respectively, showing little change.
 

@@ -31,7 +31,7 @@ Since August, Urals crude has been trading between US$61 and US$65 per barrel, c
 ![Στιγμιότυπο Οθόνης 2025 09 24 112414](assets/2025-09-24_a-three-tier-tanker-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_849100618482.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 09 24 112414**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-24_a-three-tier-tanker-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_849100618482.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-09-24_a-three-tier-tanker-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_849100618482.png)
 
 ### India: Russia’s Lifeline and the West’s Loophole
 
@@ -44,7 +44,7 @@ This dynamic makes India both a vital lifeline for Russian crude and a workaroun
 ![Στιγμιότυπο Οθόνης 2025 09 24 112553](assets/2025-09-24_a-three-tier-tanker-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d5f87d0c33b.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 09 24 112553**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-09-24_a-three-tier-tanker-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d5f87d0c33b.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-09-24_a-three-tier-tanker-market_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d5f87d0c33b.png)
 
 ### The Shadow Fleet’s Expansion
 

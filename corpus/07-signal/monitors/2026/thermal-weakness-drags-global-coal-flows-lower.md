@@ -41,7 +41,7 @@ Global seaborne coal flows fell 6.7% year on year in September 2026 to 115 Mt. T
 
 > **Figure 1: Source: Total Coal Flows From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Total coal flows from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/thermal-weakness-drags-global-coal-flows-lower) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac74ab96ec3f46c27333a91_eb141e7f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/thermal-weakness-drags-global-coal-flows-lower) | [Local Asset](../../images/6ac74ab96ec3f46c27333a91_eb141e7f.png)
 
 Global seaborne coal flows were 115 Mt in September 2026, down 6.7% y/y, driven by a large 14% decline in seaborne thermal coal flows. This contrasts with a 13.5% rise in seaborne met coal flows, but because 72.8% of all coal flows in September were thermal coal, the met coal increase could not offset the overall decline.
 
@@ -54,7 +54,7 @@ The opposite was true of Japan, which saw coal arrivals increase by 12.9%. The r
 
 > **Figure 2: Source: Met Coal Flows vs Thermal Coal Flows in September 2026 From Signal Ocean Https://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Met coal flows vs thermal coal flows in September 2026 from Signal Ocean https://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/thermal-weakness-drags-global-coal-flows-lower) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac74ab96ec3f46c27333a94_95aba7b0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/thermal-weakness-drags-global-coal-flows-lower) | [Local Asset](../../images/6ac74ab96ec3f46c27333a94_95aba7b0.png)
 
 Looking ahead, Signal Ocean is already tracking strong coal loadings due to arrive in October, particularly into India. A drier end to the monsoon season has sharply cut hydroelectric output, forcing utilities to burn more coal. October is therefore expected to mark the start of a strong restocking period. However, because renewable generation has grown, stockpiles are likely to be rebuilt to lower levels than in previous years.
 
@@ -65,7 +65,7 @@ In China, domestic coal prices have risen for 11 straight weeks, so buyers are t
 
 > **Figure 3: Source: Indonesia Coal Flows From Signal Oceanhttps://app.signalocean.com/dry/dynamic/drybulkflows**  
 > *Source: Indonesia coal flows from Signal Oceanhttps://app.signalocean.com/dry/dynamic/drybulkflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/thermal-weakness-drags-global-coal-flows-lower) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6ac74ab96ec3f46c27333a97_3545632f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/thermal-weakness-drags-global-coal-flows-lower) | [Local Asset](../../images/6ac74ab96ec3f46c27333a97_3545632f.png)
 
 
 ## September Is a Dip, Not the Start of a Trend

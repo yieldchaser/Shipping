@@ -56,7 +56,7 @@ Despite sanctions and other disruptions to Russian trade flows, the year’s rec
 ![Market Chart 1](assets/2022-12-14_shipfix-global-market-update_img_unnamed-2022-12-14t125946185_d473c4a36d39.png)
 
 > **Figure 1: Market Chart 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-12-14_shipfix-global-market-update_img_unnamed-2022-12-14t125946185_d473c4a36d39.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-12-14_shipfix-global-market-update_img_unnamed-2022-12-14t125946185_d473c4a36d39.png)
 
 The easing of the Chinese Covid restrictions has been eagerly awaited by many in the commodity and dry bulk markets, as a reopening of the Chinese economy could be expected to boost demand. Still, the Chinese economy is facing considerable headwinds, and the economic revival may fail to impress.
 

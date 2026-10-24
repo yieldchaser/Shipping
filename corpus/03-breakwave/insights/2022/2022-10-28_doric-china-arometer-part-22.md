@@ -28,7 +28,7 @@ China brought in 40.24 million tonnes of crude oil in September, equivalent to 9
 ![312743598 1294225891409422 9132729132029421665 N](assets/2022-10-28_doric-china-arometer-part-22_img_312743598-1294225891409422-913272913_81ae9530e55b.jpg)
 
 > **Figure 1: 312743598 1294225891409422 9132729132029421665 N**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-28_doric-china-arometer-part-22_img_312743598-1294225891409422-913272913_81ae9530e55b.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2022-10-28_doric-china-arometer-part-22_img_312743598-1294225891409422-913272913_81ae9530e55b.jpg)
 
 ### Iron Ore
 
@@ -37,7 +37,7 @@ China brought in 99.71 million tonnes of iron ore in September, up by circa 4.3 
 ![313042627 808540117079281 3535964050080517098 N](assets/2022-10-28_doric-china-arometer-part-22_img_313042627-808540117079281-3535964050_be5ea8c25ed3.jpg)
 
 > **Figure 2: 313042627 808540117079281 3535964050080517098 N**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-28_doric-china-arometer-part-22_img_313042627-808540117079281-3535964050_be5ea8c25ed3.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2022-10-28_doric-china-arometer-part-22_img_313042627-808540117079281-3535964050_be5ea8c25ed3.jpg)
 
 ### Coal
 
@@ -46,7 +46,7 @@ China imported 33.05 million tonnes of coal in September, up 0.5 percent yearon-
 ![312450382 816051136275460 5539327618896555777 N](assets/2022-10-28_doric-china-arometer-part-22_img_312450382-816051136275460-5539327618_80750ba52f79.jpg)
 
 > **Figure 3: 312450382 816051136275460 5539327618896555777 N**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-28_doric-china-arometer-part-22_img_312450382-816051136275460-5539327618_80750ba52f79.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2022-10-28_doric-china-arometer-part-22_img_312450382-816051136275460-5539327618_80750ba52f79.jpg)
 
 ### Grains
 
@@ -55,7 +55,7 @@ China’s soybean imports in September rose by 12.0 percent from a year earlier 
 ![312501969 645551017162116 2440458580085802273 N (1)](assets/2022-10-28_doric-china-arometer-part-22_img_312501969-645551017162116-2440458580_87e97b6d5331.jpg)
 
 > **Figure 4: 312501969 645551017162116 2440458580085802273 N (1)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-28_doric-china-arometer-part-22_img_312501969-645551017162116-2440458580_87e97b6d5331.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2022-10-28_doric-china-arometer-part-22_img_312501969-645551017162116-2440458580_87e97b6d5331.jpg)
 
 ### Minors (Exports)
 
@@ -64,7 +64,7 @@ China fertilizer exports in September increased to 3.14 million tonnes, yet stil
 ![313090250 437639828484844 5133826140888729006 N (1)](assets/2022-10-28_doric-china-arometer-part-22_img_313090250-437639828484844-5133826140_e9db51be2386.jpg)
 
 > **Figure 5: 313090250 437639828484844 5133826140888729006 N (1)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-28_doric-china-arometer-part-22_img_313090250-437639828484844-5133826140_e9db51be2386.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2022-10-28_doric-china-arometer-part-22_img_313090250-437639828484844-5133826140_e9db51be2386.jpg)
 
 ### Minors (Imports)
 
@@ -73,6 +73,6 @@ China’s steel imports during September fell by 29.3 percent year-on-year to 0.
 ![313060525 482660347144186 8558869259883321803 N (2)](assets/2022-10-28_doric-china-arometer-part-22_img_313060525-482660347144186-8558869259_33c22633f1f7.jpg)
 
 > **Figure 6: 313060525 482660347144186 8558869259883321803 N (2)**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-10-28_doric-china-arometer-part-22_img_313060525-482660347144186-8558869259_33c22633f1f7.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2022-10-28_doric-china-arometer-part-22_img_313060525-482660347144186-8558869259_33c22633f1f7.jpg)
 
 Data source:[Doric](https://www.doric.gr/)

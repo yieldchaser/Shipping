@@ -61,7 +61,7 @@ Weekly global cargo order volumes for copper have also been volatile since the b
 ![241](assets/2024-02-26_the-fix-global-market-update-from-shipfix_img_241_4009383e1827.png)
 
 > **Figure 1: 241**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-02-26_the-fix-global-market-update-from-shipfix_img_241_4009383e1827.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-02-26_the-fix-global-market-update-from-shipfix_img_241_4009383e1827.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

@@ -32,7 +32,7 @@ tags:
 ![65e08116c0a662247b8dab81 Gqfqnni08xlsyghyzq4ouby3gjmfodlrcevicpjwulxlxce 85cekvlf9pxviwfg1looycdvoqjs2jede3txnbbkxqyfnjwwilm4alztqhwz6r0hjudg9nlpkbazcbf9sqcr33cob9zhoqrifxxewbi](../../images/65e08116c0a662247b8dab81_gqfQnnI08XlsYGhYZq4OUby3GJmFodlRCEvicPjwULxLxCE-85cEKvLf9pxviWFG1lOoYCdVOqjs2JEde3TXnBBkxqYFNJwwILm4aLztqhWz6r0HJUDG9nlPKbaZCBf9SqcR33CoB9zhOqrifXXEWbI.png)
 
 > **Figure 1: 65e08116c0a662247b8dab81 Gqfqnni08xlsyghyzq4ouby3gjmfodlrcevicpjwulxlxce 85cekvlf9pxviwfg1looycdvoqjs2jede3txnbbkxqyfnjwwilm4alztqhwz6r0hjudg9nlpkbazcbf9sqcr33cob9zhoqrifxxewbi**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-9-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/65e08116c0a662247b8dab81_gqfQnnI08XlsYGhYZq4OUby3GJmFodlRCEvicPjwULxLxCE-85cEKvLf9pxviWFG1lOoYCdVOqjs2JEde3TXnBBkxqYFNJwwILm4aLztqhWz6r0HJUDG9nlPKbaZCBf9SqcR33CoB9zhOqrifXXEWbI.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-9-2024) | [Local Asset](../../images/65e08116c0a662247b8dab81_gqfQnnI08XlsYGhYZq4OUby3GJmFodlRCEvicPjwULxLxCE-85cEKvLf9pxviWFG1lOoYCdVOqjs2JEde3TXnBBkxqYFNJwwILm4aLztqhWz6r0HJUDG9nlPKbaZCBf9SqcR33CoB9zhOqrifXXEWbI.png)
 
 By the end of February, the freight market sentiment once again showed weakness in the VLCC MEG-China route, despite hopes for an upturn. Concurrently, the number of vessels in Ras Tanura recorded increased levels above the annual average. It appears that the VLCC market is striving to strike a stronger balance between supply and demand in favor of demand, yet the abundance of supply continues to weigh on the momentum for firmer pricing in market rates.
 

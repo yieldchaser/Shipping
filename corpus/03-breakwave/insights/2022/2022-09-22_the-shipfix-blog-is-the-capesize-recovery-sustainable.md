@@ -38,7 +38,7 @@ Global cargo ordering activities for Capesizes have been trending higher since t
 ![1](assets/2022-09-22_the-shipfix-blog-is-the-capesize-recovery-sustainable_img_1_23bbfc35cfd8.png)
 
 > **Figure 1: 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-22_the-shipfix-blog-is-the-capesize-recovery-sustainable_img_1_23bbfc35cfd8.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-09-22_the-shipfix-blog-is-the-capesize-recovery-sustainable_img_1_23bbfc35cfd8.png)
 
 ### Source: Shipfix
 
@@ -47,7 +47,7 @@ The fortunes of the Capesize freight markets have become increasingly associated
 ![1](assets/2022-09-22_the-shipfix-blog-is-the-capesize-recovery-sustainable_img_1_bf9c7e3c96a0.png)
 
 > **Figure 2: 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-22_the-shipfix-blog-is-the-capesize-recovery-sustainable_img_1_bf9c7e3c96a0.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-09-22_the-shipfix-blog-is-the-capesize-recovery-sustainable_img_1_bf9c7e3c96a0.png)
 
 ### Source: Shipfix
 
@@ -56,7 +56,7 @@ Despite the meagre charter rates seen in the latter parts of last month, the rec
 ![1](assets/2022-09-22_the-shipfix-blog-is-the-capesize-recovery-sustainable_img_1_64efdddd9ee2.png)
 
 > **Figure 3: 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-22_the-shipfix-blog-is-the-capesize-recovery-sustainable_img_1_64efdddd9ee2.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-09-22_the-shipfix-blog-is-the-capesize-recovery-sustainable_img_1_64efdddd9ee2.png)
 
 ### Source: Shipfix
 

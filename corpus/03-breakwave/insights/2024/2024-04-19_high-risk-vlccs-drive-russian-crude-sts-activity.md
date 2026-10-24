@@ -37,7 +37,7 @@ It’s important to note there have been no STS transfers of Sokol in April so f
 ![Vortexa 17 04](assets/2024-04-19_high-risk-vlccs-drive-russian-crude-sts-activity_img_vortexa1704_1c91e356218a.png)
 
 > **Figure 1: Vortexa 17 04**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/crude/new-key-locations-emerging-for-russian-urals-sts-activity/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-19_high-risk-vlccs-drive-russian-crude-sts-activity_img_vortexa1704_1c91e356218a.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com/insights/crude/new-key-locations-emerging-for-russian-urals-sts-activity/) | [Local Asset](assets/2024-04-19_high-risk-vlccs-drive-russian-crude-sts-activity_img_vortexa1704_1c91e356218a.png)
 
 ## VLCC Profiles Suggest Spare Capacity in the Opaque Fleet
 
@@ -52,7 +52,7 @@ One of these nine tankers is now sanctioned by the US (circled red). This VLCC l
 ![Vortexa 2 17 Apr](assets/2024-04-19_high-risk-vlccs-drive-russian-crude-sts-activity_img_vortexa217apr_16da575ec548.png)
 
 > **Figure 2: Vortexa 2 17 Apr**  
-> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-19_high-risk-vlccs-drive-russian-crude-sts-activity_img_vortexa217apr_16da575ec548.png)
+> **Interactive Data & Source:** [Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=) | [Local Asset](assets/2024-04-19_high-risk-vlccs-drive-russian-crude-sts-activity_img_vortexa217apr_16da575ec548.png)
 
 Data Source:[Vortexa](https://www.vortexa.com//oil-gas-data-traders-analysts-data-scientists?gclid=Cj0KCQjw8_qRBhCXARIsAE2AtRZKOvMnbilZ_6_91d7huSFFy71pWLrnPwGwOHVzXsmsG-1a1mZnQw8aAt89EALw_wcB&hsa_acc=1782073842&hsa_ad=548425387665&hsa_cam=14746637662&hsa_grp=125038601902&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-1431852288425&hsa_ver=3&utm_campaign=%5BCD%5D%20-%20DSA%20-%20EMEA&utm_medium=cpc&utm_medium=ppc&utm_source=google&utm_source=adwords&utm_term=)
 

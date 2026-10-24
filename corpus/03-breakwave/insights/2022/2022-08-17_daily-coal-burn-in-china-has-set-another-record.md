@@ -30,4 +30,4 @@ As we also discussed for our clients in this week's Weekly China Report, a large
 ![Chart 1 (43)](assets/2022-08-17_daily-coal-burn-in-china-has-set-another-record_img_chart1284329_4802d2a740f7.jpg)
 
 > **Figure 1: Chart 1 (43)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-08-17_daily-coal-burn-in-china-has-set-another-record_img_chart1284329_4802d2a740f7.jpg)
+> [Local Asset](assets/2022-08-17_daily-coal-burn-in-china-has-set-another-record_img_chart1284329_4802d2a740f7.jpg)

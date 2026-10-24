@@ -49,7 +49,7 @@ South Africa continues to hold a leading position in global manganese ore export
 ![Στιγμιότυπο Οθόνης 2025 07 24 101351](assets/2025-07-24_from-coal-to-bauxite-africas-growing-role-in-chinas-dry-bulk-supply-chain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e76a91b997c5.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 07 24 101351**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-24_from-coal-to-bauxite-africas-growing-role-in-chinas-dry-bulk-supply-chain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e76a91b997c5.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-07-24_from-coal-to-bauxite-africas-growing-role-in-chinas-dry-bulk-supply-chain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e76a91b997c5.png)
 
 ### Guinea’s Bauxite Strength Faces Operational Headwinds
 
@@ -58,7 +58,7 @@ Recent developments raise caution for Guinea’s bauxite outlook in the upcoming
 ![Στιγμιότυπο Οθόνης 2025 07 24 101532](assets/2025-07-24_from-coal-to-bauxite-africas-growing-role-in-chinas-dry-bulk-supply-chain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_02f830d3e921.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 07 24 101532**  
-> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-24_from-coal-to-bauxite-africas-growing-role-in-chinas-dry-bulk-supply-chain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_02f830d3e921.png)
+> **Interactive Data & Source:** [Allied-shipbroking](https://www.allied-shipbroking.gr/) | [Local Asset](assets/2025-07-24_from-coal-to-bauxite-africas-growing-role-in-chinas-dry-bulk-supply-chain_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_02f830d3e921.png)
 
 Data Source:[Allied](https://www.allied-shipbroking.gr/)
 

@@ -27,12 +27,12 @@ This week, in the East, we provide an update on the fleet trading Russian crude,
 ![Στιγμιότυπο Οθόνης 2024 06 20 114929](assets/2024-06-20_vlcc-and-suezmaxes-cleaning-up_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2cb1bea49bfa.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 06 20 114929**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTz6mTInM6dQU9uX1nrQfvWUhbPxQm77mMW1CJN4zXEXF7jvu4pTbzh806WK-UEIn3-JEw__s=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-20_vlcc-and-suezmaxes-cleaning-up_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2cb1bea49bfa.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTz6mTInM6dQU9uX1nrQfvWUhbPxQm77mMW1CJN4zXEXF7jvu4pTbzh806WK-UEIn3-JEw__s=) | [Local Asset](assets/2024-06-20_vlcc-and-suezmaxes-cleaning-up_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2cb1bea49bfa.png)
 
 ![Στιγμιότυπο Οθόνης 2024 06 20 114951](assets/2024-06-20_vlcc-and-suezmaxes-cleaning-up_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5dca3df6cd7.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 06 20 114951**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTz6mTInM6dQU9uX1nrQfvWUhbPxQm77mMW1CJN4zXEXF7jvu4pTbzh806WK-UEIn3-JEw__s=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-20_vlcc-and-suezmaxes-cleaning-up_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5dca3df6cd7.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTz6mTInM6dQU9uX1nrQfvWUhbPxQm77mMW1CJN4zXEXF7jvu4pTbzh806WK-UEIn3-JEw__s=) | [Local Asset](assets/2024-06-20_vlcc-and-suezmaxes-cleaning-up_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5dca3df6cd7.png)
 
 - As the EU weighs up further sanctions on Sovcomflot-linked vessels (Bloomberg) and the UK announced sanctions on individual vessels and the insurer Ingosstrakh, it is likely Western operators will continue to be deterred from participating in the Russian crude trade.
 
@@ -42,7 +42,7 @@ This week, in the East, we provide an update on the fleet trading Russian crude,
 ![Στιγμιότυπο Οθόνης 2024 06 20 115146](assets/2024-06-20_vlcc-and-suezmaxes-cleaning-up_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0bbe675e789b.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 06 20 115146**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTz6mTIyFTCarC9glKswOt4yBwjfrcf3Ygku51jtXEQz6RjzApO-ogHzyzFvx9_HCTaPhAFsI=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-20_vlcc-and-suezmaxes-cleaning-up_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0bbe675e789b.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTz6mTIyFTCarC9glKswOt4yBwjfrcf3Ygku51jtXEQz6RjzApO-ogHzyzFvx9_HCTaPhAFsI=) | [Local Asset](assets/2024-06-20_vlcc-and-suezmaxes-cleaning-up_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0bbe675e789b.png)
 
 - Suezmaxes and lately at least one VLCC have entered a cleaning up phase to carry middle distillates from the East of Suez, predominantly Middle East and India West Coast. This is reportedly performed by trading houses in an effort to raise profitability by leveraging economies of scale​.
 
@@ -52,7 +52,7 @@ This week, in the East, we provide an update on the fleet trading Russian crude,
 ![Στιγμιότυπο Οθόνης 2024 06 20 115312](assets/2024-06-20_vlcc-and-suezmaxes-cleaning-up_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0698d504bcdf.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 06 20 115312**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTz6mTInDBXtQgu6utx5aYlU0XToeCWvXbVrwRN_BltDrmEpjeKyoI2fFZGVd3R87ZYh9AR_g=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-20_vlcc-and-suezmaxes-cleaning-up_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0698d504bcdf.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTz6mTInDBXtQgu6utx5aYlU0XToeCWvXbVrwRN_BltDrmEpjeKyoI2fFZGVd3R87ZYh9AR_g=) | [Local Asset](assets/2024-06-20_vlcc-and-suezmaxes-cleaning-up_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0698d504bcdf.png)
 
 - As part of our ongoing coverage of the freight dynamics around TMX, we have now observed an interesting development utilising a new vessel class.
 
@@ -62,7 +62,7 @@ This week, in the East, we provide an update on the fleet trading Russian crude,
 ![Στιγμιότυπο Οθόνης 2024 06 20 115423](assets/2024-06-20_vlcc-and-suezmaxes-cleaning-up_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b38e7e684b14.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 06 20 115423**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTz6mTI9M9jAiRtDvrR23QV7mY_NSSUp7w-MuBWRfZhy3W5m9R4SvpKfmu6kAVDd7MIhBFEZY=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-20_vlcc-and-suezmaxes-cleaning-up_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b38e7e684b14.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTz6mTI9M9jAiRtDvrR23QV7mY_NSSUp7w-MuBWRfZhy3W5m9R4SvpKfmu6kAVDd7MIhBFEZY=) | [Local Asset](assets/2024-06-20_vlcc-and-suezmaxes-cleaning-up_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b38e7e684b14.png)
 
 - Gasoline and diesel imports into Mexico’s East Coast from PADD 3 are set to reach a historical high as of June 17, 2024 according to current data indicators, providing relief for USGC refiners, whose[seaborne exports](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGTz6mTI9M9jAiRtDvrR23QV7mY_NSSUp7w-MuBWRfZhy3W5m9R4SvpKfmu6kAVDd7MIhBFEZY=)have grown 40% higher May-June 2024 compared to y-o-y volumes amid declining export markets and logistical constraints.
 

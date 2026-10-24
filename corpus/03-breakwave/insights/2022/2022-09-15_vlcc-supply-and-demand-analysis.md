@@ -37,7 +37,7 @@ Supply growth over the past year had stayed relatively flat at c. 3.0% to 4.5%; 
 
 > **Figure 1: VLCC Supply and Demand Growth Since June 2021**  
 > *Figure 1: VLCC supply and demand growth since June 2021.*  
-> **Interactive Data & Source:** [Blog Vesselsvalue](https://blog.vesselsvalue.com) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-15_vlcc-supply-and-demand-analysis_img_image_50f7d87a617d.png)
+> **Interactive Data & Source:** [Blog Vesselsvalue](https://blog.vesselsvalue.com) | [Local Asset](assets/2022-09-15_vlcc-supply-and-demand-analysis_img_image_50f7d87a617d.png)
 
 COVID-19 had significant effects on supply and demand with June 2021 and 2022 showing an overall decrease in cargo mile growth. That seen in June 2021 was a result of the movement of 222 million barrels of oil into floating storage by July 9, 2020 (According to EIA figures), driven by a crash in the oil market. June 2020 saw high cargo mile figures, with countries filling storage tanks as a consequence of low prices.
 
@@ -45,7 +45,7 @@ COVID-19 had significant effects on supply and demand with June 2021 and 2022 sh
 
 > **Figure 2: VLCC Laden Global Daily Cargo Miles in H1 2021 and 2022**  
 > *Figure 2: VLCC laden global daily cargo miles in H1 2021 and 2022.*  
-> **Interactive Data & Source:** [Blog Vesselsvalue](https://blog.vesselsvalue.com) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-15_vlcc-supply-and-demand-analysis_img_image-1_be7a2eafd82c.png)
+> **Interactive Data & Source:** [Blog Vesselsvalue](https://blog.vesselsvalue.com) | [Local Asset](assets/2022-09-15_vlcc-supply-and-demand-analysis_img_image-1_be7a2eafd82c.png)
 
 Figure 2 displays month on month comparison of laden daily cargo miles between 2021 and 2022. Cargo miles in 2021 ranged from 18.5bn MT-NM to 21.6bn MT-NM compared with 2022 where it ranged from 18.7bn MT-NM to 22.2bn MT-NM.
 
@@ -53,7 +53,7 @@ Figure 2 displays month on month comparison of laden daily cargo miles between 2
 
 > **Figure 3: VLCC Total Laden Cargo Miles in 2020**  
 > *Figure 3: VLCC total laden cargo miles in 2020, 2021 and 2022.*  
-> **Interactive Data & Source:** [Blog Vesselsvalue](https://blog.vesselsvalue.com) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-15_vlcc-supply-and-demand-analysis_img_image-2_9cf05a39ad69.png)
+> **Interactive Data & Source:** [Blog Vesselsvalue](https://blog.vesselsvalue.com) | [Local Asset](assets/2022-09-15_vlcc-supply-and-demand-analysis_img_image-2_9cf05a39ad69.png)
 
 2020 was the most volatile of the periods with a maximum cargo mile value of 719bn MT-NM in May to a low of 559bn MT-NM in November. As in Figure 3, the May 2020 peak in cargo miles resulted from the oil market price crash. In the first half of 2022, the trend of decreasing cargo miles on a daily and monthly scale was reflected in the poor VLCC earnings seen in this period.
 
@@ -65,7 +65,7 @@ Newbuilding orders from 2018 through to 2021 remained relatively stable, peaking
 
 > **Figure 4: VLCC Newbuilding Activity Since 2018**  
 > *Figure 4: VLCC newbuilding activity since 2018.*  
-> **Interactive Data & Source:** [Blog Vesselsvalue](https://blog.vesselsvalue.com) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-15_vlcc-supply-and-demand-analysis_img_vlcc-table_91d921b235e7.png)
+> **Interactive Data & Source:** [Blog Vesselsvalue](https://blog.vesselsvalue.com) | [Local Asset](assets/2022-09-15_vlcc-supply-and-demand-analysis_img_vlcc-table_91d921b235e7.png)
 
 Whilst VLCCs continue to be launched following ordering activity in earlier years, the orderbook has been shrinking, currently standing at 41 vessels. A common theme in the past 18 months had been oversupply; too many vessels were available in key loading regions, particularly the Middle East.
 
@@ -77,7 +77,7 @@ Tightening yard space has catalysed this reversal in VLCC newbuilding orders; as
 
 > **Figure 5: VLCC Demolition Activity Since 2018**  
 > *Figure 5: VLCC demolition activity since 2018.*  
-> **Interactive Data & Source:** [Blog Vesselsvalue](https://blog.vesselsvalue.com) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-15_vlcc-supply-and-demand-analysis_img_vlcc-table2_59b133b44480.png)
+> **Interactive Data & Source:** [Blog Vesselsvalue](https://blog.vesselsvalue.com) | [Local Asset](assets/2022-09-15_vlcc-supply-and-demand-analysis_img_vlcc-table2_59b133b44480.png)
 
 With oversupply an issue in this particular vessel segment, you would expect demolition rates to be high, yet this is not the case. As seen in Figure 5, 2018 saw the largest scrapping numbers of the past 5 years with 29 vessels sent for breaking; the combined demolition value of these sales totalled USD 529.9 mil.
 

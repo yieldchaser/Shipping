@@ -27,7 +27,7 @@ The changing geopolitical landscape continues to keep volatility high in commodi
 ![Στιγμιότυπο Οθόνης 2025 03 27 124731](assets/2025-03-27_oil-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0a4b2ddb09a1.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 03 27 124731**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-27_oil-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0a4b2ddb09a1.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-03-27_oil-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0a4b2ddb09a1.png)
 
 ### Market Commentary
 
@@ -46,7 +46,7 @@ US crude oil inventories remain near seasonal lows amid strong demand and ongoin
 ![Στιγμιότυπο Οθόνης 2025 03 27 124847](assets/2025-03-27_oil-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ba2eb417984.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 03 27 124847**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-03-27_oil-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ba2eb417984.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-03-27_oil-gains-amid-signs-of-stronger-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ba2eb417984.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

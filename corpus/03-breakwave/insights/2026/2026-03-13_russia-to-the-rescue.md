@@ -41,7 +41,7 @@ Before the US relaxed its rules, China had emerged as the main market for Russia
 ![839c Image 0 1773336538388](assets/2026-03-13_russia-to-the-rescue_img_839c-image-0-1773336538388_1e33d37c0416.png)
 
 > **Figure 1: 839c Image 0 1773336538388**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-13_russia-to-the-rescue_img_839c-image-0-1773336538388_1e33d37c0416.png)
+> [Local Asset](assets/2026-03-13_russia-to-the-rescue_img_839c-image-0-1773336538388_1e33d37c0416.png)
 
 *Source: Vortexa*
 

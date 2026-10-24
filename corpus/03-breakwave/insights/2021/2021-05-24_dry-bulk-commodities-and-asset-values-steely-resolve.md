@@ -31,7 +31,7 @@ Mining commodities, especially iron ore and copper, have skyrocketed with iron o
 ![Unsplash Image Satnyod77jg](assets/2021-05-24_dry-bulk-commodities-and-asset-values-steely-resolve_img_unsplash-image-satnyod77jg_496bbc674692.jpg)
 
 > **Figure 1: Unsplash Image Satnyod77jg**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-24_dry-bulk-commodities-and-asset-values-steely-resolve_img_unsplash-image-satnyod77jg_496bbc674692.jpg)
+> [Local Asset](assets/2021-05-24_dry-bulk-commodities-and-asset-values-steely-resolve_img_unsplash-image-satnyod77jg_496bbc674692.jpg)
 
 Moreover, regulators in Shanghai and Tangshan have been warning mills against price collusion and price-distorting market practices in order to put under control its burgeoning iron ore import bill and restore discipline in the country’s upended 2021 steel production.
 
@@ -46,7 +46,7 @@ Nevertheless, the situation is posing significant headaches for the yards which 
 ![Unsplash Image S15r4vsqhy](assets/2021-05-24_dry-bulk-commodities-and-asset-values-steely-resolve_img_unsplash-image-s15r4vsqhy_be3468aa17a6.jpg)
 
 > **Figure 2: Unsplash Image S15r4vsqhy**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-05-24_dry-bulk-commodities-and-asset-values-steely-resolve_img_unsplash-image-s15r4vsqhy_be3468aa17a6.jpg)
+> [Local Asset](assets/2021-05-24_dry-bulk-commodities-and-asset-values-steely-resolve_img_unsplash-image-s15r4vsqhy_be3468aa17a6.jpg)
 
 Furthermore, container overordering and high margins enjoyed by yard in container, tanker and LNG segments make dry bulk available berths prior 2024 a forlorn hope for most Owners. Same trend seems to be exacerbated by recent news that liner company MSC is considering to convert some of its big containerships ordered into LNG dual-fuel, keeping more berths busy for longer time.
 

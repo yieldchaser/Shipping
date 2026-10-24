@@ -95,7 +95,7 @@ We examined the correlation of spot freight rates in the spot and futures market
 
 > **Figure 1: Graph 1: The Signal Ocean Platform | Capesize Supply Trend - Market Rates $/t and FFA for Brazil - China, Data Provided by Ssy**  
 > *Graph 1: The Signal Ocean Platform | Capesize Supply Trend - Market Rates $/t and FFA for Brazil - China, data provided by SSY*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/forward-freight-agreement-ffa-and-freight-risk-management-a-powerful-mix) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e31f8de648a4579327d_62442e6407e5780f5ddd42d1_image%20(222).avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/forward-freight-agreement-ffa-and-freight-risk-management-a-powerful-mix) | [Local Asset](../../images/66b51e31f8de648a4579327d_62442e6407e5780f5ddd42d1_image%20(222).avif)
 
 
 ## The Signal Ocean FFA Report | Overview of FFA Prices Across All Routes and Contracts
@@ -114,7 +114,7 @@ Panamax/ Routes- Skaw-Gib/Far East | Japan-SK-NOPAC round voyage)
 
 > **Figure 2: Image 1: The Signal Ocean Platform FFA Report, for Capesize C3 Route, Spot Market**  
 > *Image 1: The Signal Ocean Platform FFA Report, for Capesize C3 route, Spot Market*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/forward-freight-agreement-ffa-and-freight-risk-management-a-powerful-mix) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e31f8de648a4579328b_62442f75726d58dd74109e95_FFA%20report%20from%20signal%20ocean%20platform.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/forward-freight-agreement-ffa-and-freight-risk-management-a-powerful-mix) | [Local Asset](../../images/66b51e31f8de648a4579328b_62442f75726d58dd74109e95_FFA%20report%20from%20signal%20ocean%20platform.avif)
 
 
 #### Signal Ocean Platform, FFA Data by Ssy: Time Charter Market
@@ -132,7 +132,7 @@ Handysize 38 7tc - The freight future settlement prices based on the Handysize (
 
 > **Figure 3: Image 2: The Signal Ocean Platform FFA Report, for Capesize 5tc, Time Charter**  
 > *Image 2: The Signal Ocean Platform FFA Report, for Capesize 5tc, Time charter*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/forward-freight-agreement-ffa-and-freight-risk-management-a-powerful-mix) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66b51e31f8de648a4579327a_62442fda877e464b05e8de45_FFA%20report%20from%20signal%20ocean%20platform%20time%20charter.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/forward-freight-agreement-ffa-and-freight-risk-management-a-powerful-mix) | [Local Asset](../../images/66b51e31f8de648a4579327a_62442fda877e464b05e8de45_FFA%20report%20from%20signal%20ocean%20platform%20time%20charter.avif)
 
 The FFA report and other valuable features are available on [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) paid plans.
 

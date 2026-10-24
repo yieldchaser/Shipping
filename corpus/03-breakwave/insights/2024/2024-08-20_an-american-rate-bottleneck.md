@@ -31,7 +31,7 @@ The “Cary Trade Scare of 2024” is firmly behind us. Just two weeks ago, the 
 ![241](assets/2024-08-20_an-american-rate-bottleneck_img_241_9da7b4433100.png)
 
 > **Figure 1: 241**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-20_an-american-rate-bottleneck_img_241_9da7b4433100.png)
+> [Local Asset](assets/2024-08-20_an-american-rate-bottleneck_img_241_9da7b4433100.png)
 
 There are three significant takeaways for investors:
 
@@ -40,7 +40,7 @@ One, investors happily and hastily bought the dip and returned to their holiday,
 ![242](assets/2024-08-20_an-american-rate-bottleneck_img_242_1af14df473d0.png)
 
 > **Figure 2: 242**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-20_an-american-rate-bottleneck_img_242_1af14df473d0.png)
+> [Local Asset](assets/2024-08-20_an-american-rate-bottleneck_img_242_1af14df473d0.png)
 
 Two the Fed did not have to intervene. The move was so swift, and the buybacks were equally fast. One can’t help but wonder if central banks can even catch up to super-fast computers. What happens when buybacks are not swift enough? Will markets dive before policymakers have a chance to respond?
 
@@ -51,7 +51,7 @@ With the raucous behind us, all eyes now turn on the US Federal Reserve. This we
 ![243](assets/2024-08-20_an-american-rate-bottleneck_img_243_f31f098fa2c0.png)
 
 > **Figure 3: 243**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-20_an-american-rate-bottleneck_img_243_f31f098fa2c0.png)
+> [Local Asset](assets/2024-08-20_an-american-rate-bottleneck_img_243_f31f098fa2c0.png)
 
 For 2024, the IMF projects 2.8% growth for the US, and just below 1% for the UK and the EU.
 
@@ -66,14 +66,14 @@ On the one hand, we see rising unemployment. The US central bank has a dual mand
 ![244](assets/2024-08-20_an-american-rate-bottleneck_img_244_83d6d6ec2fb9.png)
 
 > **Figure 4: 244**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-20_an-american-rate-bottleneck_img_244_83d6d6ec2fb9.png)
+> [Local Asset](assets/2024-08-20_an-american-rate-bottleneck_img_244_83d6d6ec2fb9.png)
 
 The other key indicator that a recession may be coming is the yield curve turning positive.
 
 ![245](assets/2024-08-20_an-american-rate-bottleneck_img_245_c3401fa82076.png)
 
 > **Figure 5: 245**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-20_an-american-rate-bottleneck_img_245_c3401fa82076.png)
+> [Local Asset](assets/2024-08-20_an-american-rate-bottleneck_img_245_c3401fa82076.png)
 
 Why we doubt the recession narrative
 
@@ -82,21 +82,21 @@ While the validity of both of these quantitative signals is well established, an
 ![246](assets/2024-08-20_an-american-rate-bottleneck_img_246_3f9443021363.png)
 
 > **Figure 6: 246**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-20_an-american-rate-bottleneck_img_246_3f9443021363.png)
+> [Local Asset](assets/2024-08-20_an-american-rate-bottleneck_img_246_3f9443021363.png)
 
 Instead, we think that central bankers are right not to call victory over inflation. While goods inflation has been trending lower, mostly because of Chinese overproduction and massive output gaps, services inflation is still too high for comfort.
 
 ![247](assets/2024-08-20_an-american-rate-bottleneck_img_247_a345195eaed0.png)
 
 > **Figure 7: 247**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-20_an-american-rate-bottleneck_img_247_a345195eaed0.png)
+> [Local Asset](assets/2024-08-20_an-american-rate-bottleneck_img_247_a345195eaed0.png)
 
 For central bankers to be at ease with rate cuts, they would need to see services inflation coming down towards its average, before Chinese producer inflation begins to climb towards its own average. If anything, markets should be focusing on the chart below.
 
 ![248](assets/2024-08-20_an-american-rate-bottleneck_img_248_d7761169e0cf.png)
 
 > **Figure 8: 248**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-20_an-american-rate-bottleneck_img_248_d7761169e0cf.png)
+> [Local Asset](assets/2024-08-20_an-american-rate-bottleneck_img_248_d7761169e0cf.png)
 
 It’s really simple: the longer the Fed waits to cut rates, the better the chance that services inflation will come down before China stops disinflating the world at the current pace.
 

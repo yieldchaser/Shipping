@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-12-09_suez-canal-post-cease
 ![Rgb Color Brs Shipbrokers Monogram Logo](assets/2025-12-09_suez-canal-post-ceasefire-outlook-for-capesize-transits_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 > **Figure 1: Rgb Color Brs Shipbrokers Monogram Logo**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-09_suez-canal-post-ceasefire-outlook-for-capesize-transits_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
+> [Local Asset](assets/2025-12-09_suez-canal-post-ceasefire-outlook-for-capesize-transits_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png)
 
 The Red Sea crisis, now stretching into its third year, has shown a sudden turning point. On 11 November, Yemen’s Houthi rebels issued a statement announcing that it had stopped attacks against Israel and commercial shipping in the Red Sea. This statement marked the first time that the Houthis had formally confirmed a suspension of attacks since the Gaza ceasefire agreement came into effect on 10 October.
 
@@ -34,7 +34,7 @@ As the dominant contributors to the Suez Canal’s total transit volume (in cont
 ![Στιγμιότυπο Οθόνης 2025 12 09 161732](assets/2025-12-09_suez-canal-post-ceasefire-outlook-for-capesize-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d1cf7ce6f844.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 12 09 161732**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-09_suez-canal-post-ceasefire-outlook-for-capesize-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d1cf7ce6f844.png)
+> [Local Asset](assets/2025-12-09_suez-canal-post-ceasefire-outlook-for-capesize-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d1cf7ce6f844.png)
 
 Looking back at the three years before the outbreak of the Red Sea crisis (2021-23), the Suez-transiting volume of laden Capesize vessels approached a record 95 mln mt. However, we believe that this level should not be regarded as the norm, but was jointly driven by multiple overlapping idiosyncratic factors, many of which are difficult to replicate under the current and foreseeable market environment. Among them, the two most important reasons are freight levels and coal trade.
 
@@ -45,7 +45,7 @@ The absolute high point for Capesize freight rates was attained in 2021 when the
 ![Στιγμιότυπο Οθόνης 2025 12 09 161740](assets/2025-12-09_suez-canal-post-ceasefire-outlook-for-capesize-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8a8e183a9ddb.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 12 09 161740**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-09_suez-canal-post-ceasefire-outlook-for-capesize-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8a8e183a9ddb.png)
+> [Local Asset](assets/2025-12-09_suez-canal-post-ceasefire-outlook-for-capesize-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8a8e183a9ddb.png)
 
 ### Soaring Coal Prices Gave Rise to Numerous Long-Haul Coal Routes
 
@@ -56,7 +56,7 @@ However, the outbreak of the Russia-Ukraine conflict completely subverted global
 ![Στιγμιότυπο Οθόνης 2025 12 09 161752](assets/2025-12-09_suez-canal-post-ceasefire-outlook-for-capesize-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2c93a18505f.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 12 09 161752**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-09_suez-canal-post-ceasefire-outlook-for-capesize-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2c93a18505f.png)
+> [Local Asset](assets/2025-12-09_suez-canal-post-ceasefire-outlook-for-capesize-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2c93a18505f.png)
 
 **When risks decline and economic viability returns, which trade flows are most likely to return to the Suez Canal?**
 
@@ -65,14 +65,14 @@ The first is Canadian iron ore. In the past two years, the volume of Canadian ir
 ![Στιγμιότυπο Οθόνης 2025 12 09 161814](assets/2025-12-09_suez-canal-post-ceasefire-outlook-for-capesize-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_67636b9de0d6.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 12 09 161814**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-09_suez-canal-post-ceasefire-outlook-for-capesize-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_67636b9de0d6.png)
+> [Local Asset](assets/2025-12-09_suez-canal-post-ceasefire-outlook-for-capesize-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_67636b9de0d6.png)
 
 Another example is Ukrainian iron ore. In contrast to Canada, Ukrainian iron ore has remained almost entirely dependent on the Suez Canal. Due to its geographical limitations, alternative routes are not practically viable, so as Red Sea risks decrease, Ukrainian ore’s competitiveness should improve amid lower insurance rates, risk surcharges, and related navigation costs, thereby promoting potential growth in its exports. It is worth noting that Ukraine remains heavily exposed to war-related uncertainties, which means that the resumption of Suez Canal transit may have only a limited short-term impact on its shipments.
 
 ![Στιγμιότυπο Οθόνης 2025 12 09 161823](assets/2025-12-09_suez-canal-post-ceasefire-outlook-for-capesize-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8f24e38f18e4.png)
 
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 12 09 161823**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-09_suez-canal-post-ceasefire-outlook-for-capesize-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8f24e38f18e4.png)
+> [Local Asset](assets/2025-12-09_suez-canal-post-ceasefire-outlook-for-capesize-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8f24e38f18e4.png)
 
 When assessing future transit levels, we believe that a more reasonable expectation is that rather than returning to the nearly 100 mln mt scale of 2021–2023, it will remain in the 50–60 mln mt range per year, depending on freight rate levels. It is important to emphasize that this range should not be interpreted as a specific forecast of next year’s Suez Canal transit volume, but should be understood as a potential upper-bound range under a series of optimistic assumptions: including a full recovery in transit sentiment, alleviated geopolitical risks, and a market that returns to normal operation. In reality, considering shipowners’ cautious attitudes, the lag in redeploying capacity, the existence of insurance and risk premiums, and the inertia of trade structures, a more likely outcome is a gradual, step-by-step recovery, while participants wait and hope that the return of major players such as Maersk and CMA CGM will provide reassurance to the broader shipping community. This also means that the decline in tonne-mile demand, due to a shorter voyage distance, will be a gradual process rather than an instantaneous drop.
 

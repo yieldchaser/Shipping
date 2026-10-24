@@ -32,7 +32,7 @@ But the economic impact usually extends beyond the one-week holiday. Activity wi
 
 > **Figure 1: Pandemic of Course Changed This Dynamic**  
 > *The Pandemic of course changed this dynamic. As China restricted travel around the same time as the holiday to curb the spread of the virus in 2020, many industries found themselves without workers, and those thatwereoperational were faced with severe supply-chain issues that throttled output. For example, steel output was not heavily impacted by labour shortages, but a build-up in steel product stockpiles that were unable to be trucked to manufacturers did weigh on margins, and push mills to curb production.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-05_the-big-picture-chinese-new-year_img_bmr70_193cae8481da.png)
+> [Local Asset](assets/2021-02-05_the-big-picture-chinese-new-year_img_bmr70_193cae8481da.png)
 
 ### The ‘u-Shaped’ Dip: Fact or Myth
 
@@ -41,14 +41,14 @@ Given China’s dominance over dry bulk shipping demand, the market has come to 
 ![Bmr 71](assets/2021-02-05_the-big-picture-chinese-new-year_img_bmr71_24d8e7562a11.png)
 
 > **Figure 2: Bmr 71**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-05_the-big-picture-chinese-new-year_img_bmr71_24d8e7562a11.png)
+> [Local Asset](assets/2021-02-05_the-big-picture-chinese-new-year_img_bmr71_24d8e7562a11.png)
 
 With this country being so crucial to Cape demand, it seems logical to assume that the slowdown in industrial activity during the holiday period would create a lull in rates, followed by a U-shaped rebound. But looking at previous years, this effect does not seem too impressive.
 
 ![Bmr 73](assets/2021-02-05_the-big-picture-chinese-new-year_img_bmr73_19ab72a990b2.png)
 
 > **Figure 3: Bmr 73**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-05_the-big-picture-chinese-new-year_img_bmr73_19ab72a990b2.png)
+> [Local Asset](assets/2021-02-05_the-big-picture-chinese-new-year_img_bmr73_19ab72a990b2.png)
 
 The start of CNY falls on different dates every year, but by indexing freight rates over the last decade to the start of the holiday in each year, we can look for trends in what happens before and after the holiday. Capesize rates do tend to fall in the lead up to CNY: Over 2010-2020, rates on average fell by around $3,600/day during the month preceding the holiday period.
 
@@ -62,7 +62,7 @@ These factors could however also explain why the Panamax market exhibits the pat
 
 > **Figure 4: In Response to a Recent Flare-Up in COVID-19 Cases (the Worst**  
 > *In response to a recent flare-up in Covid-19 cases (the worst since last year’s first wave), new restrictions on travel have been introduced in China. Authorities are keen to avoid a repeat of last year’s disruption, and are discouraging unnecessary travel during the holiday. The government estimates that movement will be 40% lower than normal levels over this period, which will continue to weigh on industries like travel and tourism, but it should also insulate areas like manufacturing and construction. Indeed, about a week ahead of this year’s New Year break,Baidu’sindex of national migration shows travel is down by around 57% versus 2019.*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2021/assets/2021-02-05_the-big-picture-chinese-new-year_img_bmr72_abc399a05e94.png)
+> [Local Asset](assets/2021-02-05_the-big-picture-chinese-new-year_img_bmr72_abc399a05e94.png)
 
 Given that this market is not directly exposed to the aforementioned headwinds facing iron ore in Q1, Panamax rates appear to be much more likely to bounce back following the holidays. The period after CNY also coincides with the start of the South American grain export season, which provides a boost in long-haul employment that is increasingly driven by Chinese demand.
 

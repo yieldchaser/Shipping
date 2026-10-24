@@ -22,17 +22,17 @@ Kuwait's oil industry goes back to the early 20th century. In 1934, the Kuwait O
 
 In 1965, Kuwait's crude oil production was 2.4 Mb/d. This made it the 4th largest oil producer in the world, behind the United States, the Soviet Union and Venezuela, but ahead of Saudi Arabia, Iran and Iraq. Kuwait reached its highest production level in 1972 at 3.34 Mb/d. Current output (according to the IEA Oil Market Report) is around 2.5 Mb/d. While Kuwait's crude oil output has shown limited growth over the last 25 years, its refining capacity has expanded dramatically. It surged from 600,000 b/d in early 2021 to 1.83 Mb/d in 2024 (including their participation in refineries abroad). The biggest contribution has been the completion of the 615,000 b/d Al-Zour refinery, which was officially inaugurated in May 2024. KPC also operates two other domestic refineries: the Mina Al-Ahmadi refinery dates back to 1949, although it has been significantly expanded (current capacity 442,000 b/d); and the 270,000 b/d Mina Abdullah refinery. Kuwait also has investments in, and ships crude oil to, three refineries abroad: in Italy, Vietnam and Oman. Most of these shipments are done on tankers by KPC's shipping arm Kuwait Oil Tanker Company (KOTC).
 
-The growth in domestic refining capacity has reduced Kuwait's ability to export crude oil. As a matter of fact, crude oil exports have been trending down in recent years ([Chart 1](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-11-22_kuwait-has-growth-ambitions_chart1.png)). However, the exports of refined products have more than doubled over the same time period as a result of the dramatic expansion of refining capacity ([Chart 2](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-11-22_kuwait-has-growth-ambitions_chart2.png)).
+The growth in domestic refining capacity has reduced Kuwait's ability to export crude oil. As a matter of fact, crude oil exports have been trending down in recent years ([Chart 1](../../../charts/poten/2024/poten_2024-11-22_kuwait-has-growth-ambitions_chart1.png)). However, the exports of refined products have more than doubled over the same time period as a result of the dramatic expansion of refining capacity ([Chart 2](../../../charts/poten/2024/poten_2024-11-22_kuwait-has-growth-ambitions_chart2.png)).
 
 > **Exhibit 1: Kuwait Has Growth Ambitions (Chart 1)**  
 > *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-11-22_kuwait-has-growth-ambitions_chart1.png)
+> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](../../../charts/poten/2024/poten_2024-11-22_kuwait-has-growth-ambitions_chart1.png)
 
 ![Exhibit 1: Kuwait Has Growth Ambitions](../../../charts/poten/2024/poten_2024-11-22_kuwait-has-growth-ambitions_chart1.png)
 
 > **Exhibit 2: Kuwait Has Growth Ambitions (Chart 2)**  
 > *Source: Poten & Partners*  
-> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](file:///C:/Users/Dell/Github/Shipping/data/extracted/charts/poten/2024/poten_2024-11-22_kuwait-has-growth-ambitions_chart2.png)
+> **Interactive Data & Source:** [Local Asset (200 DPI PNG)](../../../charts/poten/2024/poten_2024-11-22_kuwait-has-growth-ambitions_chart2.png)
 
 ![Exhibit 2: Kuwait Has Growth Ambitions](../../../charts/poten/2024/poten_2024-11-22_kuwait-has-growth-ambitions_chart2.png)
 

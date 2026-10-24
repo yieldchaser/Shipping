@@ -38,7 +38,7 @@ However, the country’s strict Zero Covid policy and a domestic vaccination pro
 ![1](assets/2022-05-26_china-more-dark-clouds-on-the-horizon_img_1_ee7e2f9ee111.png)
 
 > **Figure 1: 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-26_china-more-dark-clouds-on-the-horizon_img_1_ee7e2f9ee111.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-05-26_china-more-dark-clouds-on-the-horizon_img_1_ee7e2f9ee111.png)
 
 Source: Shipfix
 
@@ -47,7 +47,7 @@ While aggregate order volumes for dry bulk cargoes have been trending lower amid
 ![1](assets/2022-05-26_china-more-dark-clouds-on-the-horizon_img_1_bbb8903d88f8.png)
 
 > **Figure 2: 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-26_china-more-dark-clouds-on-the-horizon_img_1_bbb8903d88f8.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-05-26_china-more-dark-clouds-on-the-horizon_img_1_bbb8903d88f8.png)
 
 Source: Shipfix
 
@@ -56,7 +56,7 @@ Like for copper, orders for coal discharging in Chinese ports saw a decline earl
 ![Copper Discharging in China 0525 1](assets/2022-05-26_china-more-dark-clouds-on-the-horizon_img_copperdischarginginchina0525-1_b6759f46df09.png)
 
 > **Figure 3: Copper Discharging in China 0525 1**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-05-26_china-more-dark-clouds-on-the-horizon_img_copperdischarginginchina0525-1_b6759f46df09.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2022-05-26_china-more-dark-clouds-on-the-horizon_img_copperdischarginginchina0525-1_b6759f46df09.png)
 
 Source: Shipfix
 

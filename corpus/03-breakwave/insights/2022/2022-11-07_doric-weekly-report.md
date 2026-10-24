@@ -28,7 +28,7 @@ Conversely, this was not the case in the Supramax spectrum, with the respective 
 ![Screenshot 20221107 123303 Samsung Notes](assets/2022-11-07_doric-weekly-report_img_screenshot-20221107-123303-samsungno_6cf13a3909c0.jpg)
 
 > **Figure 1: Screenshot 20221107 123303 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-07_doric-weekly-report_img_screenshot-20221107-123303-samsungno_6cf13a3909c0.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2022-11-07_doric-weekly-report_img_screenshot-20221107-123303-samsungno_6cf13a3909c0.jpg)
 
 Further challenging an already sputtering global economy, the Federal Reserve raised the target range for the federal funds rate by another 75bps this week to 3.75-4 percent. Being in line with market forecasts, the aforementioned rise marks a sixth consecutive rate hike and the fourth straight three-quarter point supersized increase, pushing borrowing costs to a fresh high since 2008. Policymakers anticipate that ongoing increases in the target range will be appropriate in order to attain a stance of monetary policy that is sufficiently restrictive to return inflation to 2 percent over time. In determining the pace of future increases in the target range, the Committee will take into account the cumulative tightening of monetary policy, the lags with which monetary policy affects economic activity and inflation, and economic and financial developments.
 
@@ -39,7 +39,7 @@ The S&P 500 dropped by 2.5 percent to close at 3,759.69, whilst the Nasdaq Compo
 ![Screenshot 20221107 123317 Samsung Notes](assets/2022-11-07_doric-weekly-report_img_screenshot-20221107-123317-samsungno_10484135094a.jpg)
 
 > **Figure 2: Screenshot 20221107 123317 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-07_doric-weekly-report_img_screenshot-20221107-123317-samsungno_10484135094a.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2022-11-07_doric-weekly-report_img_screenshot-20221107-123317-samsungno_10484135094a.jpg)
 
 On the other side of the moon, iron ore futures climbed more than 4 percent on Friday, solidifying their weekly gains initially driven by earlier speculations that top steel producer China would ease its draconian Covid-19 rules, and further fuelled by Beijing's fresh progrowth rhetoric. The most-traded January iron ore on China's Dalian Commodity Exchange ended morning trade 4.2 percent higher at 658 yuan ($90.62) a tonne, on track for the first weekly rise in four weeks.
 
@@ -48,7 +48,7 @@ After suffering its steepest monthly fall in almost two years in October, the ma
 ![Screenshot 20221107 123335 Samsung Notes](assets/2022-11-07_doric-weekly-report_img_screenshot-20221107-123335-samsungno_cedd2a25e2a2.jpg)
 
 > **Figure 3: Screenshot 20221107 123335 Samsung Notes**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-11-07_doric-weekly-report_img_screenshot-20221107-123335-samsungno_cedd2a25e2a2.jpg)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2022-11-07_doric-weekly-report_img_screenshot-20221107-123335-samsungno_cedd2a25e2a2.jpg)
 
 Whilst concerns have been expressed by various financial institutions and associations that the Chinese steel sector along with global steel demand remain in a quite uncertain and fragile phase, Capesizes turned a Nelson's eye to these warnings and pledged allegiance to the iron ore futures trend – at least for the day.
 

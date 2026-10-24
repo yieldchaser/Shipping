@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-07-06_segments-of-chinese-c
 ![Market Chart 1](assets/2020-07-06_segments-of-chinese-consumer-market-remain-troubling_img_image-asset_0aa5aeca7702.jpeg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-07-06_segments-of-chinese-consumer-market-remain-troubling_img_image-asset_0aa5aeca7702.jpeg)
+> [Local Asset](assets/2020-07-06_segments-of-chinese-consumer-market-remain-troubling_img_image-asset_0aa5aeca7702.jpeg)
 
 As we highlighted often in our Weekly China Reports last year, several segments of consumer spending in China were showing clear signs of recession — with furniture sales routinely showing the largest amount of weakness. As we continued to stress last year, the weakness in furniture sales was a clear sign to us that China’s housing market was continuing to fare much worse than was widely being reported. Of note this year is furniture sales remain in contraction, but the last two months have at least shown improvement (as the overall Chinese economy has undergone a significant post-coronavirus rebound starting in April). Chinese furniture sales in May totaled 13.4 billion yuan, which marks a year-on-year contraction of 12%. China's furniture sales have now contracted on a year-on-year basis for twenty-nine consecutive months. Last month’s contraction did mark the smallest contraction seen since March 2019, but still twenty-nine consecutive months of contraction remains troubling.
 

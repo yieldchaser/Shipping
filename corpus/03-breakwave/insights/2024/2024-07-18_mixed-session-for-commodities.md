@@ -61,7 +61,7 @@ While weekly cargo order volumes for rice loading globally have been volatile ov
 ![Στιγμιότυπο Οθόνης 2024 07 18 102126](assets/2024-07-18_mixed-session-for-commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7188f099376a.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 07 18 102126**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-18_mixed-session-for-commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7188f099376a.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2024-07-18_mixed-session-for-commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7188f099376a.png)
 
 Data Source:[Shipfix](https://shipfix.com/)
 

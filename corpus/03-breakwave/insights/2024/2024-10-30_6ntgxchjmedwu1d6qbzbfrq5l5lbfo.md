@@ -29,7 +29,7 @@ Notably, in the first ten months of 2024, 605 dry bulk sales (>20kdwt) were reco
 ![Στιγμιότυπο Οθόνης 2024 10 30 105254](assets/2024-10-30_6ntgxchjmedwu1d6qbzbfrq5l5lbfo_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_668b22a06c9c.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 10 30 105254**  
-> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-30_6ntgxchjmedwu1d6qbzbfrq5l5lbfo_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_668b22a06c9c.png)
+> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](assets/2024-10-30_6ntgxchjmedwu1d6qbzbfrq5l5lbfo_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_668b22a06c9c.png)
 
 Conversely, tanker sale and purchase activity has been the weakest in the past five years. Specifically, in 2024 so far, a total of 268 tanker sales (>20kdwt) have been recorded, less by 172 sales compared to 2023 volume. MR2 units dominate with 114 transactions, followed by 45 Aframax/LR2 deals. VLCC and Handysize transactions stood at 34 and 40 respectively, while only 14 Suezmax and 21 Panamax vessels changed hands. Interestingly, as in the case of the dry bulk sale and purchase activity, the past month saw the lowest number of tanker transactions since July 2020.
 
@@ -38,7 +38,7 @@ Based on the figures above, it is evident that interest in secondhand vessels wi
 ![Στιγμιότυπο Οθόνης 2024 10 30 105305](assets/2024-10-30_6ntgxchjmedwu1d6qbzbfrq5l5lbfo_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f79a956d7ef0.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 10 30 105305**  
-> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-10-30_6ntgxchjmedwu1d6qbzbfrq5l5lbfo_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f79a956d7ef0.png)
+> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](assets/2024-10-30_6ntgxchjmedwu1d6qbzbfrq5l5lbfo_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f79a956d7ef0.png)
 
 Data Source:[Intermodal](https://www.intermodal.gr/)
 

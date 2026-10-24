@@ -33,7 +33,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-39-2024) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/66f64c67b666226e00416919_66f64c3cd463c45ec324714c_Untitled.avif)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-39-2024) | [Local Asset](../../images/66f64c67b666226e00416919_66f64c3cd463c45ec324714c_Untitled.avif)
 
 The last week of September is concluding with an upward trend in VLCC rates on the Arabian Gulf-China route, signalling a strengthening market as we approach the winter season, a period traditionally marked by increased energy demand. The momentum currently observed could extend into the coming months, especially as demand for oil typically rises during the colder months to meet heating and industrial needs. This seasonal factor, combined with a tightening vessel supply, may push freight rates higher.
 

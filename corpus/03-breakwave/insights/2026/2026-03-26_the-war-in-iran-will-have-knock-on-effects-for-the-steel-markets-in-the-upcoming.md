@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-03-26_the-war-in-iran-will-
 ![Στιγμιότυπο Οθόνης 2026 03 26 163723](assets/2026-03-26_the-war-in-iran-will-have-knock-on-effects-for-the-steel-markets-in-the-upcoming_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0f9151237aa9.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 03 26 163723**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-26_the-war-in-iran-will-have-knock-on-effects-for-the-steel-markets-in-the-upcoming_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0f9151237aa9.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-03-26_the-war-in-iran-will-have-knock-on-effects-for-the-steel-markets-in-the-upcoming_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0f9151237aa9.png)
 
 ### Key Takeaways
 
@@ -46,7 +46,7 @@ The largest receiver of these increased flows has been nations in South East Asi
 ![Στιγμιότυπο Οθόνης 2026 03 26 163739](assets/2026-03-26_the-war-in-iran-will-have-knock-on-effects-for-the-steel-markets-in-the-upcoming_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da28a1408edf.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 03 26 163739**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-26_the-war-in-iran-will-have-knock-on-effects-for-the-steel-markets-in-the-upcoming_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da28a1408edf.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-03-26_the-war-in-iran-will-have-knock-on-effects-for-the-steel-markets-in-the-upcoming_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_da28a1408edf.png)
 
 The disruption in the Arabian Gulf has yet to materially impact global steel flows, although early signs of regional dislocation are emerging. Historically, the region accounts for around 11% of Chinese steel exports, making it the single largest regional destination. In 2026, this share has declined to 8.4%, falling behind key Southeast Asian markets and the African Atlantic coast. While this may partly reflect an acceleration of pre-existing trade reorientation toward Southeast Asia, continued disruption to transit via the Strait of Hormuz would likely reinforce this trend by increasing both cost and uncertainty around deliveries into the Gulf.
 
@@ -61,7 +61,7 @@ While this could, in theory, widen arbitrage opportunities and support import de
 ![Στιγμιότυπο Οθόνης 2026 03 26 163750](assets/2026-03-26_the-war-in-iran-will-have-knock-on-effects-for-the-steel-markets-in-the-upcoming_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0a7455c9273d.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2026 03 26 163750**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-03-26_the-war-in-iran-will-have-knock-on-effects-for-the-steel-markets-in-the-upcoming_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0a7455c9273d.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](assets/2026-03-26_the-war-in-iran-will-have-knock-on-effects-for-the-steel-markets-in-the-upcoming_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0a7455c9273d.png)
 
 ## China's Steel Exports Can Withstand the War in Iran
 

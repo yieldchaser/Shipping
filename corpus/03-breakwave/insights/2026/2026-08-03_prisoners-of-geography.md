@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-08-03_prisoners-of-geograph
 ![Ras Tanura Island](assets/2026-08-03_prisoners-of-geography_img_ras-tanura-island_a2d0afa64376.jpg)
 
 > **Figure 1: Ras Tanura Island**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-03_prisoners-of-geography_img_ras-tanura-island_a2d0afa64376.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-08-03_prisoners-of-geography_img_ras-tanura-island_a2d0afa64376.jpg)
 
 As the War in the Middle East drags on, Middle East exporters continue to adapt operations as best they can, with their specific geography and access to routes bypassing the Strait of Hormuz being the primary success factor. Saudi Arabia, the UAE and Oman, who all have access to domestic ports outside Hormuz, have emerged as the “winners”, but still lack sufficient alternative export routes. Iraq has access to the Mediterranean via Turkey and has been trucking fuel oil via Syria but is vulnerable to regional politics and bilateral relations. As regional producers push ahead with expanding their export options outside of Hormuz, monitoring the development of these projects is critical to determining longer term demand trends for tankers.
 
@@ -48,7 +48,7 @@ However, as much as these projects are designed to be an insurance policy for Gu
 ![Στιγμιότυπο Οθόνης 2026 08 03 095533](assets/2026-08-03_prisoners-of-geography_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6883bf22c3bf.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 08 03 095533**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-03_prisoners-of-geography_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6883bf22c3bf.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-08-03_prisoners-of-geography_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6883bf22c3bf.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

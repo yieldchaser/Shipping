@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-08-07_vlccs-say-yes-to-scru
 ![Tankers 4 Square](assets/2024-08-07_vlccs-say-yes-to-scrubbers_img_tankers-4-square_a310bd6dfbdb.jpg)
 
 > **Figure 1: Tankers 4 Square**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-07_vlccs-say-yes-to-scrubbers_img_tankers-4-square_a310bd6dfbdb.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-08-07_vlccs-say-yes-to-scrubbers_img_tankers-4-square_a310bd6dfbdb.jpg)
 
 It has been over four years since the IMO’s global sulphur rules were introduced. Prior to implementation, there had been much speculation about potential lack of compliant 0.5% sulphur bunker fuel, the economics of installing exhaust gas cleaning technology and the future direction of Hi5 spread – the difference between high sulphur bunker fuel (HSFO) and compliant very low sulphur fuel oil (VLSFO).
 
@@ -42,7 +42,7 @@ Without doubt, larger tankers that have installed the technology, particularly t
 ![Στιγμιότυπο Οθόνης 2024 08 07 130601](assets/2024-08-07_vlccs-say-yes-to-scrubbers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f6829abaced4.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 08 07 130601**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-08-07_vlccs-say-yes-to-scrubbers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f6829abaced4.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2024-08-07_vlccs-say-yes-to-scrubbers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f6829abaced4.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

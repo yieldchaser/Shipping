@@ -35,7 +35,7 @@ The latest secondhand price trends for 5- and 10-year-old vessels in the VLCC se
 
 > **Figure 1: All Data and Commentary Reflect Market Conditions as of [Thursday, 26 February 2026], Unless Otherwise Stated.(valuation Trend Analysis Available VLCC)**  
 > *All data and commentary reflect market conditions as of [Thursday, 26 February 2026], unless otherwise stated.(Valuation Trend Analysis available VLCC)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a1c6f450433bad7cdb53ec_a185e72b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](../../images/69a1c6f450433bad7cdb53ec_a185e72b.png)
 
 
 ## Secondhand Values Repriced
@@ -52,7 +52,7 @@ Similarly, older units have experienced substantial growth. A ten-year-old vesse
 ![Secondhand Values Repriced](../../images/69a1c6f450433bad7cdb53ef_2fe469ef.png)
 
 > **Figure 2: Secondhand Values Repriced**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a1c6f450433bad7cdb53ef_2fe469ef.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](../../images/69a1c6f450433bad7cdb53ef_2fe469ef.png)
 
 
 ## Age Discount Tightening
@@ -81,7 +81,7 @@ Scheduled deliveries are set to increase from 2026 onward, with 48 vessels expec
 ![Deliveries Building](../../images/69a1c6f450433bad7cdb53f2_22867025.png)
 
 > **Figure 3: Deliveries Building**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a1c6f450433bad7cdb53f2_22867025.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](../../images/69a1c6f450433bad7cdb53f2_22867025.png)
 
 Further analysis of the VLCC orderbook is available in the dedicated [Orderbook Insights section](https://app.signalocean.com/tanker/dynamic/orderbook\_tanker).
 
@@ -102,7 +102,7 @@ The **Baltic Dirty Tanker Index** has reached a new historical high, exceeding 1
 
 > **Figure 4: (Market Prices Available Dirty)**  
 > *(Market Prices available Dirty)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a1c6f450433bad7cdb53fc_abf5620f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](../../images/69a1c6f450433bad7cdb53fc_abf5620f.png)
 
 **Dirty** TCE$/DAY
 
@@ -116,7 +116,7 @@ Before the month's end, the freight market has reached elevated levels. Specific
 ![Freight Market Overview - Dirty](../../images/69a1c6f450433bad7cdb5405_6ea71744.png)
 
 > **Figure 5: Freight Market Overview - Dirty**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a1c6f450433bad7cdb5405_6ea71744.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](../../images/69a1c6f450433bad7cdb5405_6ea71744.png)
 
 
 - **VLCC**: TCE rates for the Middle East Gulf–to–China route rose sharply this week, increasing by approximately $58k/d. This strong upward momentum is particularly notable given historical patterns, such as in March 2021, when rates declined into negative territory at the beginning of the month.
@@ -128,7 +128,7 @@ Before the month's end, the freight market has reached elevated levels. Specific
 
 > **Figure 6: (Spot Comparison Available Here)**  
 > *(Spot Comparison available here)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a1c6f450433bad7cdb5402_270a68c4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](../../images/69a1c6f450433bad7cdb5402_270a68c4.png)
 
 
 ## Freight Market Overview - Clean
@@ -142,7 +142,7 @@ Although the index has stayed below 900 points and weakened since early February
 
 > **Figure 7: (Market Prices Available Clean)**  
 > *(Market Prices available Clean)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a1c6f450433bad7cdb53ff_613c20e0.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](../../images/69a1c6f450433bad7cdb53ff_613c20e0.png)
 
 **CLEAN** TCE$/DAY
 
@@ -156,14 +156,14 @@ The clean segment is concluding the final week of February with a clear upward m
 ![Freight Market Overview - Clean](../../images/69a1c6f450433bad7cdb5408_75e53e68.png)
 
 > **Figure 8: Freight Market Overview - Clean**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a1c6f450433bad7cdb5408_75e53e68.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](../../images/69a1c6f450433bad7cdb5408_75e53e68.png)
 
 
 ![(Spot Comparison Available Here)](../../images/69a1c6f450433bad7cdb540b_db5f727c.png)
 
 > **Figure 9: (Spot Comparison Available Here)**  
 > *(Spot Comparison available here)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a1c6f450433bad7cdb540b_db5f727c.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](../../images/69a1c6f450433bad7cdb540b_db5f727c.png)
 
 
 ## Supply Market Trends
@@ -178,7 +178,7 @@ The latest [TSOP](https://app.signalocean.com/tanker/dynamic/vlcc\_insights\_dow
 ![Supply Market Trends](../../images/69a1c6f450433bad7cdb540e_68128c26.png)
 
 > **Figure 10: Supply Market Trends**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a1c6f450433bad7cdb540e_68128c26.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](../../images/69a1c6f450433bad7cdb540e_68128c26.png)
 
 
 - **AG:** The vessel count has fallen sharply to one of the lowest levels recorded in the first two months of the year, accelerating its decline since the end of January.
@@ -190,7 +190,7 @@ The latest [TSOP](https://app.signalocean.com/tanker/dynamic/vlcc\_insights\_dow
 ![Supply Market Trends](../../images/69a1c6f450433bad7cdb53f5_775981cc.png)
 
 > **Figure 11: Supply Market Trends**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a1c6f450433bad7cdb53f5_775981cc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](../../images/69a1c6f450433bad7cdb53f5_775981cc.png)
 
 **Suezmax | Wafr**
 
@@ -198,7 +198,7 @@ The latest [TSOP](https://app.signalocean.com/tanker/dynamic/vlcc\_insights\_dow
 ![Supply Market Trends](../../images/69a1c6f450433bad7cdb53f8_1acebd7e.png)
 
 > **Figure 12: Supply Market Trends**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a1c6f450433bad7cdb53f8_1acebd7e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](../../images/69a1c6f450433bad7cdb53f8_1acebd7e.png)
 
 
 - **West Africa**: Spot/relet vessels on the TD20 route reversed the upward trend recorded in our latest [Tanker Market Monitor](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026), and the current TSOP data indicate that the TD20 route is now undersupplied (-30% vs the 3-month average), with a 29% weekly increase in freight rates.
@@ -211,7 +211,7 @@ The latest [TSOP](https://app.signalocean.com/tanker/dynamic/vlcc\_insights\_dow
 ![Supply Market Trends](../../images/698f2f35668f9bd10bfee88d_9da404c4.png)
 
 > **Figure 13: Supply Market Trends**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698f2f35668f9bd10bfee88d_9da404c4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](../../images/698f2f35668f9bd10bfee88d_9da404c4.png)
 
 
 - The tonne-mile indices for all dirty tanker segments softened during the week. VLCCs continued to trail the other segments, with its index dropping 1.9 percentage points (ppts) to 96.3% from 98.2%, remaining below the 100% threshold. Suezmaxes, despite still leading the pack, saw a noticeable decline, falling 5.4 ppts to 108.3% from 113.7%.
@@ -228,7 +228,7 @@ Metrics Description: [Index View](https://app.signalocean.com/dry/dynamic/timese
 ![Clean Demand (Tonne Miles)| 7d Ma - Index View](../../images/69a1c6f450433bad7cdb5411_54ef53ee.png)
 
 > **Figure 14: Clean Demand (Tonne Miles)| 7d Ma - Index View**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/69a1c6f450433bad7cdb5411_54ef53ee.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](../../images/69a1c6f450433bad7cdb5411_54ef53ee.png)
 
 
 - The MR segment, while still the strongest performer overall, experienced a significant correction, falling 12.0 percentage points from 115.8% to 103.8%.

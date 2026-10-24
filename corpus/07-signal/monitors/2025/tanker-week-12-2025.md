@@ -33,7 +33,7 @@ tags:
 
 > **Figure 1: Https://app.signalocean.com/tanker/dynamic/oilflows**  
 > *https://app.signalocean.com/tanker/dynamic/oilflows*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-12-2025) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/67dc1f07ad2a96c99c886342_AD_4nXeOFutTwb21cQyWzelHKREGpKYpYaSz7msVHna_27K592i9rLP7VZKqb8n_s7I5R-S_fAK68D3YX76LTMz2eETScgvtzV17iYJphFxd_ZdlFKpqloU3J4GIfTK2SFKcGj4qGamkww.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-12-2025) | [Local Asset](../../images/67dc1f07ad2a96c99c886342_AD_4nXeOFutTwb21cQyWzelHKREGpKYpYaSz7msVHna_27K592i9rLP7VZKqb8n_s7I5R-S_fAK68D3YX76LTMz2eETScgvtzV17iYJphFxd_ZdlFKpqloU3J4GIfTK2SFKcGj4qGamkww.png)
 
 In recent months, the global oil market has experienced notable shifts, particularly in the dynamics of dirty tanker flows from the Arabian Gulf (AG) to both Europe and the Far East/India. These changes are intricately linked to fluctuations in crude oil prices and projections of a tightening global oil supply.​
 

@@ -27,7 +27,7 @@ The Baltic Dry Index has been trading within a narrow range over the past few we
 ![Screenshot 2024 09 16 08.35.06](assets/2024-09-16_the-dry-bulk-market-enters-a-more-cautious-phase_img_screenshot2024-09-16083506_af874ccb883f.png)
 
 > **Figure 1: Screenshot 2024 09 16 08.35.06**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-16_the-dry-bulk-market-enters-a-more-cautious-phase_img_screenshot2024-09-16083506_af874ccb883f.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-09-16_the-dry-bulk-market-enters-a-more-cautious-phase_img_screenshot2024-09-16083506_af874ccb883f.png)
 
 On the key grain trade routes, China's soybean imports reached a peak in August, with LSEG trade data tracking 11.08 million tonnes of soybean imports, while Customs data reported a slightly higher figure of 12.14 million tonnes. Brazil dominated the supply, accounting for 9.41 million tonnes, followed by Paraguay with 1.08 million tonnes and Uruguay with 0.78 million tonnes. Notably, LSEG recorded minimal imports of US soybeans during the month. Looking ahead to September, China’s soybean imports from Brazil are projected to decline to 7.79 million tonnes, still the highest for that month historically. Imports from Argentina are expected to be halved to 0.36 million tonnes, while Uruguay's shipments will remain relatively high at 0.56 million tonnes. Overall, total September imports are forecasted to decrease from August’s peak, down to 8.86 million tonnes.
 
@@ -38,7 +38,7 @@ In parallel, Brazil’s soybean exports reached 8.0 million tonnes in August, a 
 ![Screenshot 2024 09 16 08.35.15](assets/2024-09-16_the-dry-bulk-market-enters-a-more-cautious-phase_img_screenshot2024-09-16083515_7dee1b29cb47.png)
 
 > **Figure 2: Screenshot 2024 09 16 08.35.15**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-16_the-dry-bulk-market-enters-a-more-cautious-phase_img_screenshot2024-09-16083515_7dee1b29cb47.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-09-16_the-dry-bulk-market-enters-a-more-cautious-phase_img_screenshot2024-09-16083515_7dee1b29cb47.png)
 
 In the iron ore trade, China's imports in August fell by 1.38 percent compared to July and slipped 4.73 percent year-on-year, as weak steel prices and a pessimistic demand outlook curbed buyers' appetite. The world’s largest iron ore consumer imported 101.39 million metric tonnes of iron ore in August, according to the General Administration of Customs. This is down from 102.81 million tonnes in July and 106.42 million tonnes in the same month last year.
 
@@ -47,7 +47,7 @@ For the first eight months of 2024, China’s iron ore imports totaled 814.95 mi
 ![Screenshot 2024 09 16 08.35.25](assets/2024-09-16_the-dry-bulk-market-enters-a-more-cautious-phase_img_screenshot2024-09-16083525_e183143985a1.png)
 
 > **Figure 3: Screenshot 2024 09 16 08.35.25**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-09-16_the-dry-bulk-market-enters-a-more-cautious-phase_img_screenshot2024-09-16083525_e183143985a1.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-09-16_the-dry-bulk-market-enters-a-more-cautious-phase_img_screenshot2024-09-16083525_e183143985a1.png)
 
 The dry bulk market has shown mixed performance in recent months due to shifting trends in key commodities. While China's iron ore imports have generally been strong throughout the year, August saw a decline both month-on-month and year-on-year. Similarly, Brazilian soybean and corn exports have dropped significantly despite competitive pricing. China's coal imports remain solid, bolstered by favorable seaborne prices compared to domestic sources. However, concerns are growing about increased power generation from hydropower and renewable sources, which could dampen future coal demand. Overall, the market appears to be entering a more cautious phase. The impact of fluctuating commodity prices, rather than genuine changes in demand, is likely to influence freight rates and vessel utilization, especially for Capesize and Panamax vessels.
 

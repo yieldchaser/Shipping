@@ -39,7 +39,7 @@ This week’s spotlight reviews the latest congestion trends in major dirty and 
 
 > **Figure 1: All Data and Commentary Reflect Market Conditions as of [Thursday, 12 February 2026], Unless Otherwise Stated.(congestion Trend Analysis Available VLCC | Suezmax | Aframax | Mr Insights)**  
 > *All data and commentary reflect market conditions as of [Thursday, 12 February 2026], unless otherwise stated.(Congestion Trend Analysis available VLCC | Suezmax | Aframax | MR Insights)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698f2f34668f9bd10bfee874_91a11e20.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026) | [Local Asset](../../images/698f2f34668f9bd10bfee874_91a11e20.png)
 
 Recent freight market behavior suggests a pause in the rally rather than a structural reversal. Freight levels remain supported by constrained tonnage supply, particularly in core export regions, though near-term direction will depend on fresh cargo flow and overall market activity.
 
@@ -74,7 +74,7 @@ For now, freight performance appears more directly driven by regional vessel ava
 
 > **Figure 2: (Market Prices Available Dirty)**  
 > *(Market Prices available Dirty)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698f2f34668f9bd10bfee877_828c8cdc.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026) | [Local Asset](../../images/698f2f34668f9bd10bfee877_828c8cdc.png)
 
 
 ## Dirtytce$/day
@@ -90,7 +90,7 @@ For now, freight performance appears more directly driven by regional vessel ava
 ![Dirty Tce$/day](../../images/698f2f34668f9bd10bfee86b_208b7d2f.png)
 
 > **Figure 3: Dirty Tce$/day**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698f2f34668f9bd10bfee86b_208b7d2f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026) | [Local Asset](../../images/698f2f34668f9bd10bfee86b_208b7d2f.png)
 
 
 - **VLCC**: The Time Charter Equivalent (TCE) rates for the Middle East Gulf-to-China route, while dropping by about $5,000/day to $117,000/day, remained strong. This $117k/d figure represents a substantial increase of roughly $83,000/day compared to the rates seen a year ago.
@@ -102,7 +102,7 @@ For now, freight performance appears more directly driven by regional vessel ava
 
 > **Figure 4: (Spot Comparison Available Here)**  
 > *(Spot Comparison available here)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698f2f34668f9bd10bfee86e_5a109429.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026) | [Local Asset](../../images/698f2f34668f9bd10bfee86e_5a109429.png)
 
 
 ## Freight Market Overview - Clean
@@ -117,7 +117,7 @@ For now, freight performance appears more directly driven by regional vessel ava
 
 > **Figure 5: (Market Prices Available Clean)**  
 > *(Market Prices available Clean)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698f2f34668f9bd10bfee871_f7f31057.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026) | [Local Asset](../../images/698f2f34668f9bd10bfee871_f7f31057.png)
 
 
 ## Cleantce$/day
@@ -133,14 +133,14 @@ For now, freight performance appears more directly driven by regional vessel ava
 ![Clean Tce$/day](../../images/698f2f34668f9bd10bfee87d_ec3872c4.png)
 
 > **Figure 6: Clean Tce$/day**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698f2f34668f9bd10bfee87d_ec3872c4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026) | [Local Asset](../../images/698f2f34668f9bd10bfee87d_ec3872c4.png)
 
 
 ![(Spot Comparison Available Here)](../../images/698f2f34668f9bd10bfee87a_f959ed30.png)
 
 > **Figure 7: (Spot Comparison Available Here)**  
 > *(Spot Comparison available here)*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698f2f34668f9bd10bfee87a_f959ed30.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026) | [Local Asset](../../images/698f2f34668f9bd10bfee87a_f959ed30.png)
 
 
 ## Supply Market Trends
@@ -156,7 +156,7 @@ Building on last week's observation of emerging oversupply in West Africa, curre
 ![VLCC | Usg vs AG & Wafr](../../images/698f2f34668f9bd10bfee883_9a5ecffe.png)
 
 > **Figure 8: VLCC | Usg vs AG & Wafr**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698f2f34668f9bd10bfee883_9a5ecffe.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026) | [Local Asset](../../images/698f2f34668f9bd10bfee883_9a5ecffe.png)
 
 
 - **West Africa:** The spike in the availability of spot/relet vessels on the TD15 route, which saw the count peak near 20 over the last fortnight, has now subsided. The vessel count has dropped to 13, helping TD15 rates maintain a floor above WS 120.
@@ -171,7 +171,7 @@ Building on last week's observation of emerging oversupply in West Africa, curre
 ![Suezmax | Wafr vs Black Sea](../../images/698f2f34668f9bd10bfee880_f97a5fec.png)
 
 > **Figure 9: Suezmax | Wafr vs Black Sea**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698f2f34668f9bd10bfee880_f97a5fec.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026) | [Local Asset](../../images/698f2f34668f9bd10bfee880_f97a5fec.png)
 
 
 - **West Africa**: Spot/relet vessels on the TD20 route are maintaining levels above 30 (the same as a week ago), marking a significant 100% rise from the exceptionally low figures recorded in mid-January. In addition, the current TSOP data indicate that the TD20 route is now oversupplied (23% above the 3-month average), which is expected to further depress freight demand.
@@ -188,7 +188,7 @@ Building on last week's observation of emerging oversupply in West Africa, curre
 ![Dirty Demand (Tonne Miles)| 7d Ma - Index View](../../images/698f2f35668f9bd10bfee88d_9da404c4.png)
 
 > **Figure 10: Dirty Demand (Tonne Miles)| 7d Ma - Index View**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698f2f35668f9bd10bfee88d_9da404c4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026) | [Local Asset](../../images/698f2f35668f9bd10bfee88d_9da404c4.png)
 
 
 - The VLCC segment’s tonne-mile index growth stayed below 100%, in line with last week’s expectations, continuing to lag both Suezmax and Aframax. Suezmax continues to exhibit relatively firmer momentum. Although the Aframax index growth remains above 100%, it has moderated to around 115% from its early February peak of 120%.
@@ -204,7 +204,7 @@ Metrics Description: [Index View](https://app.signalocean.com/dry/dynamic/timese
 ![Clean Demand (Tonne Miles)| 7d Ma - Index View](../../images/698f2f34668f9bd10bfee887_87df9216.png)
 
 > **Figure 11: Clean Demand (Tonne Miles)| 7d Ma - Index View**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/698f2f34668f9bd10bfee887_87df9216.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026) | [Local Asset](../../images/698f2f34668f9bd10bfee887_87df9216.png)
 
 
 - The Aframax segment's tonne-mile index growth remained below 85% compared to the previous period, as anticipated last week, and continues to trail both Panamax and MR segments. Overall, a decreasing trend has been observed, though the MR segment still recorded the highest index value growth at approximately 113%. However, recent indicators suggest a moderate correction for MR.

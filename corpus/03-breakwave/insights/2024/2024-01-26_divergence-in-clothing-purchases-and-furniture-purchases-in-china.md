@@ -26,18 +26,18 @@ China’s retail sales in December grew year-on-year by 7.4%. This is down from 
 ![Chart 1 (93)](assets/2024-01-26_divergence-in-clothing-purchases-and-furniture-purchases-in-china_img_chart1289329_7bc55e8d5139.jpg)
 
 > **Figure 1: Chart 1 (93)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-26_divergence-in-clothing-purchases-and-furniture-purchases-in-china_img_chart1289329_7bc55e8d5139.jpg)
+> [Local Asset](assets/2024-01-26_divergence-in-clothing-purchases-and-furniture-purchases-in-china_img_chart1289329_7bc55e8d5139.jpg)
 
 Overall, it remains quite positive that Chinese consumers continue to buy more goods than they did a year ago. The same cannot unfortunately be said about consumers in many other major economies however. In Europe, for example, each of the last twenty-two months have seen European consumers buy less goods than they did during the previous year. All is certainly not perfect in China though. Among the specific retail categories that Commodore monitors, of note is only clothing sales grew on a year-on-year basis last month. Clothing sales in China (which includes garments, footwear, hats, and knitwear) increased year-on-year last month by 19%. Clothing sales have now increased on a year-on-year basis during ten of the last twelve months.
 
 ![Chart 2 (82)](assets/2024-01-26_divergence-in-clothing-purchases-and-furniture-purchases-in-china_img_chart2288229_6006e157329e.jpg)
 
 > **Figure 2: Chart 2 (82)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-26_divergence-in-clothing-purchases-and-furniture-purchases-in-china_img_chart2288229_6006e157329e.jpg)
+> [Local Asset](assets/2024-01-26_divergence-in-clothing-purchases-and-furniture-purchases-in-china_img_chart2288229_6006e157329e.jpg)
 
 Both furniture sales and household appliance sales (which includes consumer electronics) fell on a year-on-year basis last month. Furniture sales have remained particularly weak. Last month saw furniture sales in China fall year-on-year by 5%. Sales have now contracted on a year-on-year basis for nine straight months. This ongoing contraction remains a direct result of the weakness in China’s housing market and continues to be highlighted in Commodore's Weekly China Reports.
 
 ![Chart 3 (56)](assets/2024-01-26_divergence-in-clothing-purchases-and-furniture-purchases-in-china_img_chart3285629_c9c724c161f0.jpg)
 
 > **Figure 3: Chart 3 (56)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-01-26_divergence-in-clothing-purchases-and-furniture-purchases-in-china_img_chart3285629_c9c724c161f0.jpg)
+> [Local Asset](assets/2024-01-26_divergence-in-clothing-purchases-and-furniture-purchases-in-china_img_chart3285629_c9c724c161f0.jpg)

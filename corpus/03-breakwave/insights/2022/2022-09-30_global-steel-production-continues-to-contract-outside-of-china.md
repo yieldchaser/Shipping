@@ -26,18 +26,18 @@ Global crude steel production totaled 150.6 million tons last month. This is up 
 ![Chart 1 (52)](assets/2022-09-30_global-steel-production-continues-to-contract-outside-of-china_img_chart1285229_425511303f3f.jpg)
 
 > **Figure 1: Chart 1 (52)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-30_global-steel-production-continues-to-contract-outside-of-china_img_chart1285229_425511303f3f.jpg)
+> [Local Asset](assets/2022-09-30_global-steel-production-continues-to-contract-outside-of-china_img_chart1285229_425511303f3f.jpg)
 
 Global crude steel production outside of China totaled 66.7 million tons last month. This is down month-on-month by 1.2 million tons (-2%) and is 6.9 million tons (-9%) less than was reported last year for August 2021’s production. Concerning is that this has marked the sixth straight month with a year-on-year contraction and the largest since 2020. Overall, we remain quite bearish for the world outside of China. Prior to these last six months, crude steel production outside of China had grown on a year-on-year basis for twelve straight months.
 
 ![Chart 3 (35)](assets/2022-09-30_global-steel-production-continues-to-contract-outside-of-china_img_chart3283529_df207d8b17a6.jpg)
 
 > **Figure 2: Chart 3 (35)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-30_global-steel-production-continues-to-contract-outside-of-china_img_chart3283529_df207d8b17a6.jpg)
+> [Local Asset](assets/2022-09-30_global-steel-production-continues-to-contract-outside-of-china_img_chart3283529_df207d8b17a6.jpg)
 
 As we have continued to highlight in Commodore's Weekly Dry Bulk Reports, we remain particularly concerned for Europe. The European Union produced approximately 9.7 million tons of crude steel last month. This is 2 million tons (-17%) less than was produced in July and is 1.9 million tons (-16%) less than was reported last year for August 2021’s production. EU crude steel production has now contracted on a year-on-year basis for nine consecutive months. Last month’s contraction has marked the largest seen since September 2020. The 9.7 million total also marks the smallest amount produced since August 2020.
 
 ![Chart 3 (35)](assets/2022-09-30_global-steel-production-continues-to-contract-outside-of-china_img_chart3283529_df207d8b17a6.jpg)
 
 > **Figure 3: Chart 3 (35)**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-09-30_global-steel-production-continues-to-contract-outside-of-china_img_chart3283529_df207d8b17a6.jpg)
+> [Local Asset](assets/2022-09-30_global-steel-production-continues-to-contract-outside-of-china_img_chart3283529_df207d8b17a6.jpg)

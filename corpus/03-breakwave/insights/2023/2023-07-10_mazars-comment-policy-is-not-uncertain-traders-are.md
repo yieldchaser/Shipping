@@ -42,7 +42,7 @@ Last Thursday, markets sold off sharply as ADP, a US company that processes priv
 ![Market Chart 1](assets/2023-07-10_mazars-comment-policy-is-not-uncertain-traders-are_img_image00128229_392e65b8be54.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-10_mazars-comment-policy-is-not-uncertain-traders-are_img_image00128229_392e65b8be54.jpg)
+> [Local Asset](assets/2023-07-10_mazars-comment-policy-is-not-uncertain-traders-are_img_image00128229_392e65b8be54.jpg)
 
 Or so the narrative goes.
 
@@ -53,7 +53,7 @@ Second, these movements tell us only one thing: markets are volatile. Investors 
 ![Market Chart 2](assets/2023-07-10_mazars-comment-policy-is-not-uncertain-traders-are_img_image00228229_7a1930aa153f.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-10_mazars-comment-policy-is-not-uncertain-traders-are_img_image00228229_7a1930aa153f.png)
+> [Local Asset](assets/2023-07-10_mazars-comment-policy-is-not-uncertain-traders-are_img_image00228229_7a1930aa153f.png)
 
 We are faced with high and sticky core/services inflation, which will be difficult to get down to 2% from where it is today. We are also faced with significant policy divergence, the consequences of which remain unknown. The US, which was very aggressive in moving against rates, will have an easier time getting back to target. The EU, which benefits from higher unemployment and thus lower services inflation pressures, will follow by a few months, simply because it was the last to raise rates.
 
@@ -63,7 +63,7 @@ The UK, despite the early reaction by the BoE, is plagued by already slower grow
 
 > **Figure 3: Source: Bloomberg**  
 > *Source: Bloomberg*  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-10_mazars-comment-policy-is-not-uncertain-traders-are_img_unnamed-2023-07-10t140625298_f0076d5f31b8.png)
+> [Local Asset](assets/2023-07-10_mazars-comment-policy-is-not-uncertain-traders-are_img_unnamed-2023-07-10t140625298_f0076d5f31b8.png)
 
 Central banks, and the Fed especially, remain fixed. They keep telling us, in every way possible, that inflation is too high, growth is too persistent and they are not done with rate hikes yet. Last week’s FOMC minutes attest to that. The central bank chorus in Sintra also confirmed it. And even when they are done, conditions should remain constrictive for some time. The largest US banks are set to report their biggest jump in loan losses since the pandemic, and what they are seeing in their balance sheet is, at best, the effect of last autumn’s rate hikes. And it is still more likely than not that central banks will end up over-tightening, i.e. constricting the economy more than they need to. Why? Because the economic equilibrium is a myth. No equilibrium can exist if the variables that create it are in constant motion. Thus, no one can get interest rates ‘just right’. The moving parts of the economy are too many to pre-calculate. So pushing the economy into a recession, and then taking the opposite action to restore demand, is the most probable course of action for central bankers.
 
@@ -72,4 +72,4 @@ Last week’s volatility wasn’t about the jobs market. Partly it was about tak
 ![Market Chart 4](assets/2023-07-10_mazars-comment-policy-is-not-uncertain-traders-are_img_image00428229_0e51569cceca.png)
 
 > **Figure 4: Market Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-07-10_mazars-comment-policy-is-not-uncertain-traders-are_img_image00428229_0e51569cceca.png)
+> [Local Asset](assets/2023-07-10_mazars-comment-policy-is-not-uncertain-traders-are_img_image00428229_0e51569cceca.png)

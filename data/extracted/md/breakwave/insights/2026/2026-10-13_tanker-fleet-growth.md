@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-10-13_tanker-fleet-growth.h
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///c:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-10-13_tanker-fleet-growth_img_unsplash-image-983knf8azec_cdfb4f4e523c.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-10-13_tanker-fleet-growth_img_unsplash-image-983knf8azec_cdfb4f4e523c.jpg)
 
 Tanker fleet growth has accelerated considerably over the past two years, marking a clear shift from the unusually restrained supply environment that supported the market earlier in the cycle. Across the main tanker segments, combined fleet capacity has increased from approximately 677.8 mills DWT at the end of 2023 to around 738.9 mills DWT currently, representing growth of roughly 9.0%. However, the expansion has been far from uniform. Small tankers, MR2s and Aframax/LR2s have recorded the strongest capacity growth since end-2023, increasing by approximately 15.3%, 13.8% and 14.3%, respectively. By contrast, VLCC/ULCC capacity has expanded by only around 4.2%, while Handy/MR1 growth has remained similarly limited.
 

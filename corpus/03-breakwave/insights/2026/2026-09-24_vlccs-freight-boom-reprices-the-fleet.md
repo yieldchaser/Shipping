@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-09-24_vlccs-freight-boom-re
 
 > **Figure 1: Byeirini Diamantara&dimitris Roumeliotis**  
 > *ByEirini Diamantara&Dimitris Roumeliotis*  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-24_vlccs-freight-boom-reprices-the-fleet_img_pexels-punit-singh-325095531-3656358_39bbc655e243.jpg)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/in/eirini-diamantara-58b269105/) | [Local Asset](assets/2026-09-24_vlccs-freight-boom-reprices-the-fleet_img_pexels-punit-singh-325095531-3656358_39bbc655e243.jpg)
 
 The VLCC market has experienced a sharp repricing during 2026, with the most significant acceleration taking place since late July as exceptionally strong freight earnings have fed directly into secondhand values. While prices had already been moving higher earlier in the year, the latest increase has been particularly rapid, reflecting a combination of geopolitical disruption, tighter effective vessel availability and the immediate cash-flow potential offered by existing tonnage.
 

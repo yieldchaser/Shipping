@@ -26,7 +26,7 @@ Commodities edged higher as the US Federal Reserve paused its rate hike cycle, a
 ![1695247237124](assets/2023-09-21_commodities-wrap_img_1695247237124_0d750e992eda.png)
 
 > **Figure 1: 1695247237124**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-09-21_commodities-wrap_img_1695247237124_0d750e992eda.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2023-09-21_commodities-wrap_img_1695247237124_0d750e992eda.png)
 
 **Gold**was up strongly ahead of the FOMC’s decision, as a weaker USD boosted investor appetite. However, it pared those gains after the Fed left rates unchanged but signalled they will stay higher for longer than expected. The hawkish bent failed to dent enthusiasm for the precious metal. It also held up against surging bond yields, with the Treasury 2y rate climbing to its highest level since 2006.
 

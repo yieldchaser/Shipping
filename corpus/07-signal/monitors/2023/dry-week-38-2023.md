@@ -32,7 +32,7 @@ tags:
 
 > **Figure 1: Data Source: The Signal Ocean Platform Data**  
 > *Data Source: The Signal Ocean Platform Data*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-38-2023) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6509e404e6f11b4c7d305157_congestion.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-38-2023) | [Local Asset](../../images/6509e404e6f11b4c7d305157_congestion.png)
 
 In the third week of September, freight rates in the various ship categories increased significantly, indicating a robust upward trend. At the same time, there is a noticeable optimism in Chinese economic activity, supported by a number of strategic stimulus measures by policy makers. In recent weeks, policymakers in China have introduced a comprehensive package of measures to boost economic growth and support the real estate market and the national currency. Most notably, the People's Bank of China took decisive action on Thursday, cutting the reserve requirement ratio for banks by 0.25 percentage points to 7.4 percent. This effectively injected liquidity into the financial system, further underscoring the determination to maintain economic momentum.
 

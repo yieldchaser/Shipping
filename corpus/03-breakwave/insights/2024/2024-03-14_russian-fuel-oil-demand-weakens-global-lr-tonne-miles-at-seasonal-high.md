@@ -27,12 +27,12 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-14_russian-fuel-oil-dema
 ![Screenshot 2024 03 14 10.33.15](assets/2024-03-14_russian-fuel-oil-demand-weakens-global-lr-tonne-miles-at-seasonal-high_img_screenshot2024-03-14103315_ee31fd748221.png)
 
 > **Figure 1: Screenshot 2024 03 14 10.33.15**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR18A4C60GWYJqH9tGj_7H47P0Asz2sCj9w1kwhuDDHE4PzmTa4RnSMOqA7lvUHeRWP6SET0Q=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-14_russian-fuel-oil-demand-weakens-global-lr-tonne-miles-at-seasonal-high_img_screenshot2024-03-14103315_ee31fd748221.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR18A4C60GWYJqH9tGj_7H47P0Asz2sCj9w1kwhuDDHE4PzmTa4RnSMOqA7lvUHeRWP6SET0Q=) | [Local Asset](assets/2024-03-14_russian-fuel-oil-demand-weakens-global-lr-tonne-miles-at-seasonal-high_img_screenshot2024-03-14103315_ee31fd748221.png)
 
 ![Screenshot 2024 03 14 10.33.52](assets/2024-03-14_russian-fuel-oil-demand-weakens-global-lr-tonne-miles-at-seasonal-high_img_screenshot2024-03-14103352_0705caa58da0.png)
 
 > **Figure 2: Screenshot 2024 03 14 10.33.52**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR18A4C60GWYJqH9tGj_7H47P0Asz2sCj9w1kwhuDDHE4PzmTa4RnSMOqA7lvUHeRWP6SET0Q=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-14_russian-fuel-oil-demand-weakens-global-lr-tonne-miles-at-seasonal-high_img_screenshot2024-03-14103352_0705caa58da0.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR18A4C60GWYJqH9tGj_7H47P0Asz2sCj9w1kwhuDDHE4PzmTa4RnSMOqA7lvUHeRWP6SET0Q=) | [Local Asset](assets/2024-03-14_russian-fuel-oil-demand-weakens-global-lr-tonne-miles-at-seasonal-high_img_screenshot2024-03-14103352_0705caa58da0.png)
 
 - [Utilisation of tankers carrying Russian fuel oil](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR18A4C60GWYJqH9tGj_7H47P0Asz2sCj9w1kwhuDDHE4PzmTa4RnSMOqA7lvUHeRWP6SET0Q=)has declined compared to highs in Q2 2023. Though slightly increased from one-year lows in mid-Feb 2024, low overall utilisation is driven by declines in employment to the Med and Middle East.
 
@@ -42,7 +42,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-14_russian-fuel-oil-dema
 ![Screenshot 2024 03 14 10.34.02](assets/2024-03-14_russian-fuel-oil-demand-weakens-global-lr-tonne-miles-at-seasonal-high_img_screenshot2024-03-14103402_0a96fc3fdd79.png)
 
 > **Figure 3: Screenshot 2024 03 14 10.34.02**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR18A4Cy2SUbQk7Bu9TC_-qldcVfKXYkzmEOQATwtl3sfV6P2NXV_av3MEPRZcwHHJAJXHnlM=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-14_russian-fuel-oil-demand-weakens-global-lr-tonne-miles-at-seasonal-high_img_screenshot2024-03-14103402_0a96fc3fdd79.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR18A4Cy2SUbQk7Bu9TC_-qldcVfKXYkzmEOQATwtl3sfV6P2NXV_av3MEPRZcwHHJAJXHnlM=) | [Local Asset](assets/2024-03-14_russian-fuel-oil-demand-weakens-global-lr-tonne-miles-at-seasonal-high_img_screenshot2024-03-14103402_0a96fc3fdd79.png)
 
 - Diversions around the Cape of Good Hope became the norm for middle distillates going East of Suez-to-Europe after US/UK retaliatory strikes began on 12 Jan. February was the first full month of this new reality, and it is dramatically reflected in tonne-miles.[Global LR tonne-miles](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR18A4Cy2SUbQk7Bu9TC_-qldcVfKXYkzmEOQATwtl3sfV6P2NXV_av3MEPRZcwHHJAJXHnlM=)for the month of February reached record-setting levels on a seasonal basis: February values were 35% above the 8-year average and 20% above the 8-year high.
 
@@ -52,7 +52,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-03-14_russian-fuel-oil-dema
 ![Screenshot 2024 03 14 10.34.12](assets/2024-03-14_russian-fuel-oil-demand-weakens-global-lr-tonne-miles-at-seasonal-high_img_screenshot2024-03-14103412_01548f4356bb.png)
 
 > **Figure 4: Screenshot 2024 03 14 10.34.12**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR18A4DJ06MF7cm9XaP4wnhliit7EesVt3DWhUEVp_1wDrVHfw58f5HiS0wzKx1IcAVxKusX4=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-14_russian-fuel-oil-demand-weakens-global-lr-tonne-miles-at-seasonal-high_img_screenshot2024-03-14103412_01548f4356bb.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR18A4DJ06MF7cm9XaP4wnhliit7EesVt3DWhUEVp_1wDrVHfw58f5HiS0wzKx1IcAVxKusX4=) | [Local Asset](assets/2024-03-14_russian-fuel-oil-demand-weakens-global-lr-tonne-miles-at-seasonal-high_img_screenshot2024-03-14103412_01548f4356bb.png)
 
 Europe’s imports of US crude carried on Suezmaxes were almost 60% higher in March (days 1-10) compared to February. This has resulted in an increase in[Suezmax tonne-miles from the US-to-Europe](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR18A4DJ06MF7cm9XaP4wnhliit7EesVt3DWhUEVp_1wDrVHfw58f5HiS0wzKx1IcAVxKusX4=), which were 40% higher than the 2023 average for the week ending 10 March. This increase reflects the higher demand for US crude in Europe, a result of three factors: substituting Russian barrels, WTI inclusion in the Brent basket and Red Sea diversions increasing marginal demand for US crude.
 
@@ -62,7 +62,7 @@ Europe’s imports of US crude carried on Suezmaxes were almost 60% higher in Ma
 ![Screenshot 2024 03 14 10.34.20](assets/2024-03-14_russian-fuel-oil-demand-weakens-global-lr-tonne-miles-at-seasonal-high_img_screenshot2024-03-14103420_8bcccf7094eb.png)
 
 > **Figure 5: Screenshot 2024 03 14 10.34.20**  
-> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR18A4CzZSfRQkZiIXv9qISyNZxulpcSisYovEwa-1tPs980ieqkTd8qrQAcTriaBYYgK0txs=) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-03-14_russian-fuel-oil-demand-weakens-global-lr-tonne-miles-at-seasonal-high_img_screenshot2024-03-14103420_8bcccf7094eb.png)
+> **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR18A4CzZSfRQkZiIXv9qISyNZxulpcSisYovEwa-1tPs980ieqkTd8qrQAcTriaBYYgK0txs=) | [Local Asset](assets/2024-03-14_russian-fuel-oil-demand-weakens-global-lr-tonne-miles-at-seasonal-high_img_screenshot2024-03-14103420_8bcccf7094eb.png)
 
 - [Higher prompt MR supply](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR18A4CzZSfRQkZiIXv9qISyNZxulpcSisYovEwa-1tPs980ieqkTd8qrQAcTriaBYYgK0txs=)in Northwest Europe last week at the same time as[flagging demand for transatlantic voyages](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR18A4C4-FMOzyurI8fJceMPTH5Ccn8tBFWxGKAbbujy0C-zc389LyIcLfpz1z9Y-nUfGFLuQ=)to the US Atlantic Coast pulled down[TC2 rates](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGR18A4DP_M72iGaFOEiyjsTeB-IxeT8wL7y5E03wAbfnNlM_S9io3JzgQ-AxV81Iiqi-ahPfQ=).
 

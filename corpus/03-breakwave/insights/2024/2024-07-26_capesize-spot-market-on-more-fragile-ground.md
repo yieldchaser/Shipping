@@ -31,14 +31,14 @@ China’s coal production totaled 405.4 million tons in June. This is up month-o
 ![Chart 1](assets/2024-07-26_capesize-spot-market-on-more-fragile-ground_img_chart1_600eecab5652.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-26_capesize-spot-market-on-more-fragile-ground_img_chart1_600eecab5652.jpg)
+> [Local Asset](assets/2024-07-26_capesize-spot-market-on-more-fragile-ground_img_chart1_600eecab5652.jpg)
 
 China's coal-derived electricity generation, on the other hand, declined year-on-year last month by 7%. China's coal-derived electricity generation has now declined on a year-on-year basis for two straight months, as hydropower production has been surging from extremely robust rainfall in recent months.
 
 ![Chart 2](assets/2024-07-26_capesize-spot-market-on-more-fragile-ground_img_chart2_01abe8671436.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-07-26_capesize-spot-market-on-more-fragile-ground_img_chart2_01abe8671436.jpg)
+> [Local Asset](assets/2024-07-26_capesize-spot-market-on-more-fragile-ground_img_chart2_01abe8671436.jpg)
 
 ---
 

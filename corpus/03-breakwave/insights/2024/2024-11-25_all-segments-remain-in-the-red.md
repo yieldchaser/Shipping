@@ -33,7 +33,7 @@ Despite these record imports, China has recently accelerated its purchases of US
 ![Στιγμιότυπο Οθόνης 2024 11 24 210207](assets/2024-11-25_all-segments-remain-in-the-red_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_426365b57c65.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 11 24 210207**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-25_all-segments-remain-in-the-red_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_426365b57c65.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-11-25_all-segments-remain-in-the-red_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_426365b57c65.png)
 
 Corn markets exhibited similarly mixed trends, with stark regional contrasts in trade flows. US corn exports started the 2024/25 marketing year strongly, with September-October shipments totaling 7.42 million tonnes, the highest in five years, according to the LSEG. This surge was driven by robust demand from key markets, including Mexico, Colombia, and Japan. However, exports to China were negligible, reflecting weak Chinese demand for imported corn. In contrast, Brazil’s corn exports have been severely impacted, with March-October shipments totaling just 25.08 million tonnes, a 27 percent year-on-year decline. The fall in Brazilian exports is attributed to reduced production following drought-related crop losses and the absence of Chinese buyers.
 
@@ -42,7 +42,7 @@ China’s muted demand for corn highlights broader shifts in global trade dynami
 ![Στιγμιότυπο Οθόνης 2024 11 24 210228](assets/2024-11-25_all-segments-remain-in-the-red_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_399da22b362d.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2024 11 24 210228**  
-> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-25_all-segments-remain-in-the-red_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_399da22b362d.png)
+> **Interactive Data & Source:** [Doric](https://www.doric.gr/) | [Local Asset](assets/2024-11-25_all-segments-remain-in-the-red_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_399da22b362d.png)
 
 With these dynamics at play, the outlook for staple grains remains lackluster, with subdued Chinese demand and evolving global trade patterns weighing heavily on the dry bulk market, particularly the Panamax segment. While US and Argentine exports offer some resilience, sharp declines in Brazilian shipments and limited Chinese imports continue to pressure demand. As the grain trade navigates these headwinds, freight rates are expected to remain constrained in the near term, with recovery hinging on improvements in global economic stability and a recalibration of commodity flows.
 

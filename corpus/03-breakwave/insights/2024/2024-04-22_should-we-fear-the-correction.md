@@ -31,7 +31,7 @@ Global stocks, which have been consistently rallying since the end of October an
 ![Market Chart 1](assets/2024-04-22_should-we-fear-the-correction_img_image012_ac24eaaca534.jpg)
 
 > **Figure 1: Market Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-22_should-we-fear-the-correction_img_image012_ac24eaaca534.jpg)
+> [Local Asset](assets/2024-04-22_should-we-fear-the-correction_img_image012_ac24eaaca534.jpg)
 
 There have been a number of narratives that may explain this move, however no particular one seems to fit the bill.
 
@@ -42,7 +42,7 @@ Let’s explore them one by one.
 ![Market Chart 2](assets/2024-04-22_should-we-fear-the-correction_img_image013_5680cfce758c.jpg)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-22_should-we-fear-the-correction_img_image013_5680cfce758c.jpg)
+> [Local Asset](assets/2024-04-22_should-we-fear-the-correction_img_image013_5680cfce758c.jpg)
 
 2.**It’s not the Fed:**The primary culprit could be the Fed keeping rates “higher for longer”. After a series of strong US inflation and employment data, Fed officials came out en masse in the last couple of weeks and more or less confirmed that we should not expect many rate cuts this year, if any. Michelle Bowman, a board member and a hawk, even wondered whether the Fed had under-tightened, or a rate hike is warranted. Former Treasury Secretary and perennial Fed Chair candidate Larry Summers has raised the possibility of rate hikes as well.
 
@@ -51,35 +51,35 @@ However, the argument doesn’t stand up to serious scrutiny. The simple fact re
 ![Market Chart 3](assets/2024-04-22_should-we-fear-the-correction_img_image014_de003bdba1a9.jpg)
 
 > **Figure 3: Market Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-22_should-we-fear-the-correction_img_image014_de003bdba1a9.jpg)
+> [Local Asset](assets/2024-04-22_should-we-fear-the-correction_img_image014_de003bdba1a9.jpg)
 
 3.Economic growth lifts earnings growth, in theory at least. Just last week, the IMF published its bi-annual World Economic Outlook, in which it raised 2024 global growth prospects from 3.1% to 3.2%, with the US significantly upgraded from 2.1% to 2.7% by year’s end. While Europe and the UK were slightly downgraded (0.8% and 0.5% growth respectively, 0.1% below January’s estimates), their outlooks haven’t worsened significantly.
 
 ![It’s Not Growth:](assets/2024-04-22_should-we-fear-the-correction_img_image015_85c8af357a4f.jpg)
 
 > **Figure 4: It’s Not Growth:**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-22_should-we-fear-the-correction_img_image015_85c8af357a4f.jpg)
+> [Local Asset](assets/2024-04-22_should-we-fear-the-correction_img_image015_85c8af357a4f.jpg)
 
 Despite key indicators flashing red, the developed world hasn’t experienced a recession. The US 2y-10y yield curve has remained inverted for 470 straight days, by far surpassing the previous record of 423 days in 1980. It is also the deepest inversion in the last 50 years, reaching 1%. Even the present number, 0.4%, by comparison, milder, represents the trough in many previous episodes. The fact that we don’t have a recession is a reflection of two issues. One is that the central bank may have actually under-tightened, or, simpler, the US which has been fiscally expanding, has spent the money wisely enough to spur growth. At any rate, growth concerns are possibly not behind the latest equity setback.
 
 ![Market Chart 5](assets/2024-04-22_should-we-fear-the-correction_img_image016_60cd997830a1.jpg)
 
 > **Figure 5: Market Chart 5**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-22_should-we-fear-the-correction_img_image016_60cd997830a1.jpg)
+> [Local Asset](assets/2024-04-22_should-we-fear-the-correction_img_image016_60cd997830a1.jpg)
 
 4.**It’s not earnings.**According to Factset, of the 14% of S&P 500 companies which have so far announced earnings, 74% have beat net income expectations. Arguably, a smaller, 58% beat for top-line earnings and a 0.5% is nothing to write home about, but certainly not the catalyst to cause a correction.
 
 ![Market Chart 6](assets/2024-04-22_should-we-fear-the-correction_img_image017_046687a1d9a5.jpg)
 
 > **Figure 6: Market Chart 6**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-22_should-we-fear-the-correction_img_image017_046687a1d9a5.jpg)
+> [Local Asset](assets/2024-04-22_should-we-fear-the-correction_img_image017_046687a1d9a5.jpg)
 
 5.**It’s not valuations.**This might come as a surprise, but equities were not that expensive in early April. Yes, US equities were trading at a 19% premium over their long-term average at the time, but a 21.5x forward price-to-earnings is hardly “irrational exuberance”. Meanwhile, the rest of the world, including Europe, was trading at a discount. The 496 S&P 500 companies that are not the Magnificent 7 (the S&P 500 currently has 503 members), are trading at 18.5x forward earnings, very near to the S&P 500 long-term average.
 
 ![Market Chart 7](assets/2024-04-22_should-we-fear-the-correction_img_image018_e2d8dba4b5a0.jpg)
 
 > **Figure 7: Market Chart 7**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-22_should-we-fear-the-correction_img_image018_e2d8dba4b5a0.jpg)
+> [Local Asset](assets/2024-04-22_should-we-fear-the-correction_img_image018_e2d8dba4b5a0.jpg)
 
 Having exhausted both events and fundamentals (Monetary policy, Growth, Earnings, Valuations) we can now turn to technical reasons. After all, the market has been dominated by algorithmic trading in the past few years.
 
@@ -88,21 +88,21 @@ Having exhausted both events and fundamentals (Monetary policy, Growth, Earnings
 ![Market Chart 8](assets/2024-04-22_should-we-fear-the-correction_img_image019_fe120f109797.jpg)
 
 > **Figure 8: Market Chart 8**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-22_should-we-fear-the-correction_img_image019_fe120f109797.jpg)
+> [Local Asset](assets/2024-04-22_should-we-fear-the-correction_img_image019_fe120f109797.jpg)
 
 7.**It’s not the futures market.**Up until a few weeks ago, while leverage was unusually high, net positioning for the S&P 500 was a significant short. In the past few days, positions have moved to exactly neutral. A short-squeeze is usually beneficial for pricies, and by no means explains a downward movement.
 
 ![Market Chart 9](assets/2024-04-22_should-we-fear-the-correction_img_image020_5ad80d0b2a9d.jpg)
 
 > **Figure 9: Market Chart 9**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-22_should-we-fear-the-correction_img_image020_5ad80d0b2a9d.jpg)
+> [Local Asset](assets/2024-04-22_should-we-fear-the-correction_img_image020_5ad80d0b2a9d.jpg)
 
 8.**It’s not the debt.**A point of concern from the IMF’s latest report was that the US had issued too much debt, which is not sustainable and may risk unbalancing global growth. In a separate report, they also said that concentration in the bond market, 50% of the US 2y Treasuries futures markets are held by fewer than eight traders. It makes sense, especially after years of central bank buying which has crowded out many bond trading desks, that the market is thin. Combined, these two pieces of information could spell trouble for the bond market. However, the nature of bond risks is non-linear. Markets tend to react violently after a specific event, say a default but do not linearly price in rising risk. As for the debt levels? Equity markets have long learned to live with it, especially if it comes from the world’s biggest economy which also holds the global reserve currency.
 
 ![Market Chart 10](assets/2024-04-22_should-we-fear-the-correction_img_image021_da9799d3e6b7.jpg)
 
 > **Figure 10: Market Chart 10**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-22_should-we-fear-the-correction_img_image021_da9799d3e6b7.jpg)
+> [Local Asset](assets/2024-04-22_should-we-fear-the-correction_img_image021_da9799d3e6b7.jpg)
 
 So the simplest explanation is that, lacking a major catalyst, nothing has changed in the past few months. Despite the recent action, equity and bond markets are looking at different things. Bonds are slowly and painfully climbing back from the absurd position at year end that the Fed would cut 7x times. It has yet to price in any rate hikes. Our base case position remains that the US central bank will begin cutting at some point later in the year.
 
@@ -111,7 +111,7 @@ As for equities? A simple look at the graph, tells a story of the Mag 7 leading 
 ![Market Chart 11](assets/2024-04-22_should-we-fear-the-correction_img_image022_424e57ee92d8.jpg)
 
 > **Figure 11: Market Chart 11**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-04-22_should-we-fear-the-correction_img_image022_424e57ee92d8.jpg)
+> [Local Asset](assets/2024-04-22_should-we-fear-the-correction_img_image022_424e57ee92d8.jpg)
 
 **Should investors be concerned? For the time being, they are not. A net long position in the S&P 500 futures markets, suggests that traders are buying the dip.**
 

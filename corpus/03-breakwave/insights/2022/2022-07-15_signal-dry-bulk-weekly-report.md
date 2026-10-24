@@ -33,7 +33,7 @@ In the Western world, Germany is said to stop buying Russian coal from August 1 
 ![Chart of the Week:dry Bulk Flows, Coal, to India: Record High in June](assets/2022-07-15_signal-dry-bulk-weekly-report_img_unnamed283829_fb611bcf8101.png)
 
 > **Figure 1: Chart of the Week:dry Bulk Flows, Coal, to India: Record High in June**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-15_signal-dry-bulk-weekly-report_img_unnamed283829_fb611bcf8101.png)
+> [Local Asset](assets/2022-07-15_signal-dry-bulk-weekly-report_img_unnamed283829_fb611bcf8101.png)
 
 Data Source: The Signal Ocean Platform, Dry Bulk Flows, Coal, from ALL Countries to India, 2021-2022
 
@@ -44,7 +44,7 @@ Data Source: The Signal Ocean Platform, Dry Bulk Flows, Coal, from ALL Countries
 ![Market Chart 2](assets/2022-07-15_signal-dry-bulk-weekly-report_img_unnamed283929_088ee47e0af5.png)
 
 > **Figure 2: Market Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-15_signal-dry-bulk-weekly-report_img_unnamed283929_088ee47e0af5.png)
+> [Local Asset](assets/2022-07-15_signal-dry-bulk-weekly-report_img_unnamed283929_088ee47e0af5.png)
 
 The Capesize segment showed a sustained upward trend, while the other vessel categories continued to show a downward trend over the last three weeks.
 
@@ -60,7 +60,7 @@ The Capesize segment showed a sustained upward trend, while the other vessel cat
 ![Supply Trend Lines for Key Load Areas](assets/2022-07-15_signal-dry-bulk-weekly-report_img_unnamed284029_3ccbfea69c20.png)
 
 > **Figure 3: Supply Trend Lines for Key Load Areas**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-15_signal-dry-bulk-weekly-report_img_unnamed284029_3ccbfea69c20.png)
+> [Local Asset](assets/2022-07-15_signal-dry-bulk-weekly-report_img_unnamed284029_3ccbfea69c20.png)
 
 The number of ships sailing ballast increased sharply in the Supramax segment, while there was a sudden drop in Handysize.
 
@@ -76,7 +76,7 @@ The number of ships sailing ballast increased sharply in the Supramax segment, w
 ![Decreasing](assets/2022-07-15_signal-dry-bulk-weekly-report_img_unnamed284129_0a13d8d6ca46.png)
 
 > **Figure 4: Decreasing**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-15_signal-dry-bulk-weekly-report_img_unnamed284129_0a13d8d6ca46.png)
+> [Local Asset](assets/2022-07-15_signal-dry-bulk-weekly-report_img_unnamed284129_0a13d8d6ca46.png)
 
 A downward trend emerged in the second week of July, with the Handysize and Capesize segments showing significantly lower growth.
 
@@ -92,7 +92,7 @@ A downward trend emerged in the second week of July, with the Handysize and Cape
 ![Dry Bulk Ships Congested at Chinese Ports](assets/2022-07-15_signal-dry-bulk-weekly-report_img_unnamed284229_af668fbab458.png)
 
 > **Figure 5: Dry Bulk Ships Congested at Chinese Ports**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2022/assets/2022-07-15_signal-dry-bulk-weekly-report_img_unnamed284229_af668fbab458.png)
+> [Local Asset](assets/2022-07-15_signal-dry-bulk-weekly-report_img_unnamed284229_af668fbab458.png)
 
 The number of congested vessels has remained excessive since the end of June.
 

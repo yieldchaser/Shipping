@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-09-21_vlccs-rewrite-the-rec
 ![Istock 485480338](assets/2026-09-21_vlccs-rewrite-the-record-books_img_istock-485480338_6fed1322ffe8.jpg)
 
 > **Figure 1: Istock 485480338**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_istock-485480338_6fed1322ffe8.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-09-21_vlccs-rewrite-the-record-books_img_istock-485480338_6fed1322ffe8.jpg)
 
 The VLCC markets reached unprecedented levels this week, with TD3C surging above $1.2mn/day, TD34 climbing over $750,000/day and TD22 reaching around $400,000/day on an Eco basis. The rally has been driven primarily by increasingly severe geopolitical disruption.
 
@@ -48,7 +48,7 @@ For tanker markets, this leaves persistent geopolitical disruption and vessel in
 ![Στιγμιότυπο Οθόνης 2026 09 21 101902](assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dc3236e1beb8.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 09 21 101902**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dc3236e1beb8.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dc3236e1beb8.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

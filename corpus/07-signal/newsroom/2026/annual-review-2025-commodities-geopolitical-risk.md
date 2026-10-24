@@ -46,7 +46,7 @@ Lower iron ore prices could incentivize buyers to replenish their inventories, s
 ![Dry Bulk Flows | Iron Ore](../../images/695d2e184b3cbf7dc0e6875e_8d9904e5.png)
 
 > **Figure 1: Dry Bulk Flows | Iron Ore**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-commodities-geopolitical-risk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/695d2e184b3cbf7dc0e6875e_8d9904e5.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-commodities-geopolitical-risk) | [Local Asset](../../images/695d2e184b3cbf7dc0e6875e_8d9904e5.png)
 
 
 ## Dry Bulk Flows| Coal
@@ -65,7 +65,7 @@ This will have consequences on capesize demand, with the outlook for iron ore al
 ![Dry Bulk Flows| Coal](../../images/695d2e184b3cbf7dc0e68764_fb5bacb3.png)
 
 > **Figure 2: Dry Bulk Flows| Coal**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-commodities-geopolitical-risk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/695d2e184b3cbf7dc0e68764_fb5bacb3.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-commodities-geopolitical-risk) | [Local Asset](../../images/695d2e184b3cbf7dc0e68764_fb5bacb3.png)
 
 
 ## Dry Bulk Flows| Bauxite
@@ -82,7 +82,7 @@ Bauxite, therefore, provides some positivity in the capesize market. The outlook
 ![Dry Bulk Flows | Bauxite](../../images/695d2e184b3cbf7dc0e68761_e5ddbd3b.png)
 
 > **Figure 3: Dry Bulk Flows | Bauxite**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-commodities-geopolitical-risk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/695d2e184b3cbf7dc0e68761_e5ddbd3b.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-commodities-geopolitical-risk) | [Local Asset](../../images/695d2e184b3cbf7dc0e68761_e5ddbd3b.png)
 
 
 ## Dry Bulk Flows| Steel
@@ -99,7 +99,7 @@ Steel products are shipped overwhelmingly by supramax vessels, 47% since 2022. Y
 ![Dry Bulk Flows | Steel](../../images/695d2e184b3cbf7dc0e68767_114f143e.png)
 
 > **Figure 4: Dry Bulk Flows | Steel**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-commodities-geopolitical-risk) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/695d2e184b3cbf7dc0e68767_114f143e.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-commodities-geopolitical-risk) | [Local Asset](../../images/695d2e184b3cbf7dc0e68767_114f143e.png)
 
 
 ## Takeaways

@@ -27,7 +27,7 @@ The prospect of further cuts by the Fed triggered a risk-on tone across the comm
 ![Στιγμιότυπο Οθόνης 2025 10 16 135204](assets/2025-10-16_golds-rally-shows-no-signs-of-slowing_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e6d671809af6.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 10 16 135204**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-16_golds-rally-shows-no-signs-of-slowing_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e6d671809af6.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-10-16_golds-rally-shows-no-signs-of-slowing_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e6d671809af6.png)
 
 ### Market Commentary
 
@@ -48,7 +48,7 @@ Gold’s surge above USD4,000/oz has been partly driven by the huge influx of in
 ![Στιγμιότυπο Οθόνης 2025 10 16 135303](assets/2025-10-16_golds-rally-shows-no-signs-of-slowing_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4df8b91d76fa.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 10 16 135303**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-10-16_golds-rally-shows-no-signs-of-slowing_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4df8b91d76fa.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-10-16_golds-rally-shows-no-signs-of-slowing_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4df8b91d76fa.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

@@ -29,7 +29,7 @@ The biggest change globally at the moment for the dry bulk market is that strong
 ![Chart](assets/2026-01-14_significant-sudden-change-in-india_img_chart_db94fd2780ba.jpg)
 
 > **Figure 1: Chart**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-01-14_significant-sudden-change-in-india_img_chart_db94fd2780ba.jpg)
+> [Local Asset](assets/2026-01-14_significant-sudden-change-in-india_img_chart_db94fd2780ba.jpg)
 
 ---
 

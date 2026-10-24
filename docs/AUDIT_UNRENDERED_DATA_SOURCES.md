@@ -51,13 +51,13 @@ Harvested directly from the private Hasura GraphQL backend (`https://pbrokerapp.
 
 | File Path | Format | Size | Records | Coverage | Contents & Recoverable Intelligence |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [`data/derived/fearnleys_fixtures_full.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/fearnleys_fixtures_full.csv) | CSV | 61.2 MB | **500,000+** | **1974–2026 (52 Years)** | Commercial fixture ledger: Vessel Name, DWT, Charterer, Cargo MT, Load Port, Discharge Port, Laycan, Freight Rate ($/MT or $/day), Broker notes. |
-| [`data/derived/fearnleys_fixtures_full.parquet`](file:///c:/Users/Dell/Github/Shipping/data/derived/fearnleys_fixtures_full.parquet) | Parquet | 20.9 MB | **500,000+** | **1974–2026** | Columnar format optimized for sub-second quant queries, charterer market share, and trade route volume analytics. |
-| [`data/derived/fearnpulse_rates_full.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/fearnpulse_rates_full.csv) | CSV | 20.9 MB | **305,098** | **1970–2026 (56 Years)** | Systematic freight benchmark series across Capesize, Panamax, Supramax, Handysize, VLCC, Suezmax, Aframax, Clean MR, LNG, and LPG. |
-| [`data/derived/fearnleys_broker_comments.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/fearnleys_broker_comments.csv) | CSV | 5.8 MB | **11,713** | **2018–2026** | Qualitative broker desks' market color, sentiment tags, and directional outlook notes. |
-| [`data/derived/fearnleys_snp_transactions.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/fearnleys_snp_transactions.csv) | CSV | 0.3 MB | **2,592** | Multi-Year | Secondhand ship sale and purchase (S&P) deals, built year, buyer entity, price in USD millions. |
-| [`reports/fearnleys/`](file:///c:/Users/Dell/Github/Shipping/reports/fearnleys/) | Markdown | 1.6 MB | **175 reports** | **2024–2026** | 175 complete weekly research publications (Dry Bulk Weekly, Tanker Wrap-Up, Steel Updates, LNG/LPG Quarterly). |
-| [`reports/fearnleys_reports_catalog.json`](file:///c:/Users/Dell/Github/Shipping/reports/fearnleys_reports_catalog.json) | JSON | 2.5 MB | **175 entries** | 2024–2026 | Master manifest with report metadata, Hasura UUIDs, audio URLs, and PDF links. |
+| [`data/derived/fearnleys_fixtures_full.csv`](../data/derived/fearnleys_fixtures_full.csv) | CSV | 61.2 MB | **500,000+** | **1974–2026 (52 Years)** | Commercial fixture ledger: Vessel Name, DWT, Charterer, Cargo MT, Load Port, Discharge Port, Laycan, Freight Rate ($/MT or $/day), Broker notes. |
+| [`data/derived/fearnleys_fixtures_full.parquet`](../data/derived/fearnleys_fixtures_full.parquet) | Parquet | 20.9 MB | **500,000+** | **1974–2026** | Columnar format optimized for sub-second quant queries, charterer market share, and trade route volume analytics. |
+| [`data/derived/fearnpulse_rates_full.csv`](../data/derived/fearnpulse_rates_full.csv) | CSV | 20.9 MB | **305,098** | **1970–2026 (56 Years)** | Systematic freight benchmark series across Capesize, Panamax, Supramax, Handysize, VLCC, Suezmax, Aframax, Clean MR, LNG, and LPG. |
+| [`data/derived/fearnleys_broker_comments.csv`](../data/derived/fearnleys_broker_comments.csv) | CSV | 5.8 MB | **11,713** | **2018–2026** | Qualitative broker desks' market color, sentiment tags, and directional outlook notes. |
+| [`data/derived/fearnleys_snp_transactions.csv`](../data/derived/fearnleys_snp_transactions.csv) | CSV | 0.3 MB | **2,592** | Multi-Year | Secondhand ship sale and purchase (S&P) deals, built year, buyer entity, price in USD millions. |
+| [`reports/fearnleys/`](../reports/fearnleys) | Markdown | 1.6 MB | **175 reports** | **2024–2026** | 175 complete weekly research publications (Dry Bulk Weekly, Tanker Wrap-Up, Steel Updates, LNG/LPG Quarterly). |
+| [`reports/fearnleys_reports_catalog.json`](../reports/fearnleys_reports_catalog.json) | JSON | 2.5 MB | **175 entries** | 2024–2026 | Master manifest with report metadata, Hasura UUIDs, audio URLs, and PDF links. |
 
 *Website Status*: 0% rendered in `index.html` (only a static 30-row `time_charter_rates_fearnleys.csv` snippet is loaded).
 
@@ -69,14 +69,14 @@ Singapore Exchange (SGX) is the global pricing benchmark for dry bulk freight FF
 
 | File Path | Format | Size | Records | Coverage | Contents & Recoverable Intelligence |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [`data/commodities/sgx_iron_ore_62_fef_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/sgx_iron_ore_62_fef_historical.csv) | CSV | 5.7 MB | **95,494** | **2018–2026** | SGX TSI Iron Ore CFR China (62% Fe Fines) Futures (`FEF`). Full forward curve (Months 1–24, Quarters, Cal Years). Daily settlement, volume, open interest. |
-| [`data/commodities/sgx_iron_ore_65_m65f_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/sgx_iron_ore_65_m65f_historical.csv) | CSV | 3.6 MB | **61,552** | **2018–2026** | SGX MB Iron Ore CFR China (65% Fe Fines) Futures (`M65F`). High-grade Brazilian Carajás premium benchmark. |
-| [`data/commodities/sgx_iron_ore_lump_lpf_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/sgx_iron_ore_lump_lpf_historical.csv) | CSV | 2.3 MB | **12,410** | **2020–2026** | SGX TSI Iron Ore Lump Premium Futures (`LPF`) ($/dmtu). Chinese blast furnace direct-charge premium over sintering fines. |
-| [`data/futures/sgx_cape_futures_history.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_cape_futures_history.csv) | CSV | 10.3 MB | **183,377** | **2018–2026** | Capesize 5TC Forward Freight Agreements (FFA). Full daily curve history across prompt, M+1..M+12, Q1..Q4, Cal+1..Cal+3. |
-| [`data/futures/sgx_panamax_futures_history.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_panamax_futures_history.csv) | CSV | 3.6 MB | **66,053** | **2020–2026** | Panamax 4TC / 82k DWT Kamsarmax FFA forward curves. |
-| [`data/futures/sgx_supramax_futures_history.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_supramax_futures_history.csv) | CSV | 10.5 MB | **188,482** | **2018–2026** | Supramax 10TC / 58k & Ultramax 63k FFA forward curves. |
-| [`data/futures/sgx_handysize_futures_history.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_handysize_futures_history.csv) | CSV | 4.5 MB | **82,148** | **2021–2026** | Handysize 38k DWT FFA forward curves. |
-| [`data/derived/sgx_exhaustive_probe_report.json`](file:///c:/Users/Dell/Github/Shipping/data/derived/sgx_exhaustive_probe_report.json) | JSON | 0.2 MB | Specs | Active | Contract multipliers (1,000 MT/lot), settlement tick sizes, and cleared trading universes. |
+| [`data/commodities/sgx_iron_ore_62_fef_historical.csv`](../data/commodities/sgx_iron_ore_62_fef_historical.csv) | CSV | 5.7 MB | **95,494** | **2018–2026** | SGX TSI Iron Ore CFR China (62% Fe Fines) Futures (`FEF`). Full forward curve (Months 1–24, Quarters, Cal Years). Daily settlement, volume, open interest. |
+| [`data/commodities/sgx_iron_ore_65_m65f_historical.csv`](../data/commodities/sgx_iron_ore_65_m65f_historical.csv) | CSV | 3.6 MB | **61,552** | **2018–2026** | SGX MB Iron Ore CFR China (65% Fe Fines) Futures (`M65F`). High-grade Brazilian Carajás premium benchmark. |
+| [`data/commodities/sgx_iron_ore_lump_lpf_historical.csv`](../data/commodities/sgx_iron_ore_lump_lpf_historical.csv) | CSV | 2.3 MB | **12,410** | **2020–2026** | SGX TSI Iron Ore Lump Premium Futures (`LPF`) ($/dmtu). Chinese blast furnace direct-charge premium over sintering fines. |
+| [`data/futures/sgx_cape_futures_history.csv`](../data/futures/sgx_cape_futures_history.csv) | CSV | 10.3 MB | **183,377** | **2018–2026** | Capesize 5TC Forward Freight Agreements (FFA). Full daily curve history across prompt, M+1..M+12, Q1..Q4, Cal+1..Cal+3. |
+| [`data/futures/sgx_panamax_futures_history.csv`](../data/futures/sgx_panamax_futures_history.csv) | CSV | 3.6 MB | **66,053** | **2020–2026** | Panamax 4TC / 82k DWT Kamsarmax FFA forward curves. |
+| [`data/futures/sgx_supramax_futures_history.csv`](../data/futures/sgx_supramax_futures_history.csv) | CSV | 10.5 MB | **188,482** | **2018–2026** | Supramax 10TC / 58k & Ultramax 63k FFA forward curves. |
+| [`data/futures/sgx_handysize_futures_history.csv`](../data/futures/sgx_handysize_futures_history.csv) | CSV | 4.5 MB | **82,148** | **2021–2026** | Handysize 38k DWT FFA forward curves. |
+| [`data/derived/sgx_exhaustive_probe_report.json`](../data/derived/sgx_exhaustive_probe_report.json) | JSON | 0.2 MB | Specs | Active | Contract multipliers (1,000 MT/lot), settlement tick sizes, and cleared trading universes. |
 
 *Website Status*: 0% rendered in `index.html` (only current prompt single-contract quote in `sgx_cape_futures.csv` is referenced; no historical curves, zero iron ore futures, no 65/62 quality spreads).
 
@@ -88,10 +88,10 @@ Harvested via Ship & Bunker and Bunker Index across every major and secondary bu
 
 | File Path | Format | Size | Records | Coverage | Contents & Recoverable Intelligence |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [`bunker_master_historical.csv`](file:///c:/Users/Dell/Github/Shipping/bunker_master_historical.csv) / [`data/bunkers/`](file:///c:/Users/Dell/Github/Shipping/data/bunkers/bunker_master_historical.csv) | CSV | 35.1 MB | **482,024** | **2018–2026 (15+ Years)** | Complete global bunker price matrix across **221 distinct ports**. Covers **VLSFO (0.5%)**, **HSFO / IFO 380**, **MGO / LSMGO (0.1%)**, **Biofuels (B24, B30)**, and **Methanol**. |
+| [`bunker_master_historical.csv`](../bunker_master_historical.csv) / [`data/bunkers/`](../data/bunkers/bunker_master_historical.csv) | CSV | 35.1 MB | **482,024** | **2018–2026 (15+ Years)** | Complete global bunker price matrix across **221 distinct ports**. Covers **VLSFO (0.5%)**, **HSFO / IFO 380**, **MGO / LSMGO (0.1%)**, **Biofuels (B24, B30)**, and **Methanol**. |
 | `data/bunkers/bunker_master_historical.json` | JSON | 145.5 MB | Database | 2018–2026 | Full nested JSON database of port price histories, port spreads, and regional averages. |
 | `bunker_pipeline/config/valid_markets.json` | JSON | 0.1 MB | **221 ports** | Active | Catalog of all 221 ports: Singapore, Rotterdam, Fujairah, Houston, Gibraltar, Zhoushan, Santos, Panama, Busan, etc. |
-| [`data/demolition/shipandbunker_demolition_fixtures.csv`](file:///c:/Users/Dell/Github/Shipping/data/demolition/shipandbunker_demolition_fixtures.csv) | CSV | 0.1 MB | **465** | **2025–2026** | Ship demolition sale transactions ($/LDT scrap steel prices) across India (Alang), Bangladesh (Chattogram), Pakistan (Gadani), and Turkey (Aliaga). |
+| [`data/demolition/shipandbunker_demolition_fixtures.csv`](../data/demolition/shipandbunker_demolition_fixtures.csv) | CSV | 0.1 MB | **465** | **2025–2026** | Ship demolition sale transactions ($/LDT scrap steel prices) across India (Alang), Bangladesh (Chattogram), Pakistan (Gadani), and Turkey (Aliaga). |
 | `data/bunkers/bunker_forward_curves_12m.json` | JSON | 0.2 MB | 12 Months | Current | 1-month to 12-month forward curve projections across primary hubs. |
 | `data/reports/bunkerindex_historical_articles.csv` | CSV | 0.2 MB | **319** | Multi-Year | Market commentary articles, pricing roundups, and bunker barge availability notes. |
 
@@ -119,7 +119,7 @@ Harvested from the Australian Department of Industry, Science and Resources (DIS
 
 Contains systematic weekly polling captures from Alibra Shipping:
 
-- [`docs/alibra_data/master_log.csv`](file:///c:/Users/Dell/Github/Shipping/docs/alibra_data/master_log.csv): **1,220 historical polling runs** with execution timestamps, payload validation statuses, and rejection reasons.
+- [`docs/alibra_data/master_log.csv`](alibra_data/master_log.csv): **1,220 historical polling runs** with execution timestamps, payload validation statuses, and rejection reasons.
 - `docs/alibra_data/dry_bulk_archive_atl/`: 5 historical weekly snapshots of Atlantic dry bulk 1Y–5Y time charter rates.
 - `docs/alibra_data/dry_bulk_archive_pac/`: 5 historical weekly snapshots of Pacific dry bulk 1Y–5Y time charter rates.
 - `docs/alibra_data/dry_bulk_tce_table/`: Historical daily TCE tables by vessel size.
@@ -164,8 +164,8 @@ The complete commercial and macro research publication history from Breakwave Ad
 
 ## 9. Institutional Dry Bulk & Tanker Research (`reports/drybulk/` & `reports/tankers/`, 287 PDFs, 91.7 MB)
 
-- [`reports/drybulk/`](file:///c:/Users/Dell/Github/Shipping/reports/drybulk/): **209 full institutional research PDFs (63.6 MB)** covering dry bulk fleet fundamentals, iron ore/coal/grain demand, and chartering trends.
-- [`reports/tankers/`](file:///c:/Users/Dell/Github/Shipping/reports/tankers/): **78 full institutional research PDFs (28.2 MB)** spanning 2023–2026, covering crude and product tanker balances, OPEC+ export flows, refinery margins, and shadow fleet developments.
+- [`reports/drybulk/`](../reports/drybulk): **209 full institutional research PDFs (63.6 MB)** covering dry bulk fleet fundamentals, iron ore/coal/grain demand, and chartering trends.
+- [`reports/tankers/`](../reports/tankers): **78 full institutional research PDFs (28.2 MB)** spanning 2023–2026, covering crude and product tanker balances, OPEC+ export flows, refinery margins, and shadow fleet developments.
 - *Website Status*: 0% rendered in `index.html`.
 
 ---
@@ -176,10 +176,10 @@ Harvested directly from Seabrokers Chartering and digested via `anydoc`.
 
 | File Path | Format | Size | Records | Coverage | Contents & Recoverable Intelligence |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [`data/derived/seabrokers_osv_dayrates.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/seabrokers_osv_dayrates.csv) | CSV | 0.1 MB | **371** | **2018–2026 (97 Months)** | Monthly spot dayrates (£/day), YoY changes, min/max ranges, and fleet utilisation for **Large AHTS (>22k BHP)**, **Med AHTS (<22k BHP)**, **Large PSV (>900m²)**, and **Med PSV (<900m²)**. |
-| [`reports/seabrokers/`](file:///c:/Users/Dell/Github/Shipping/reports/seabrokers/) | Markdown | 3.9 MB | **97 reports** | **2018–2026** | 97 monthly market reports digested into Markdown via `anydoc`. |
-| [`data/reports/seabrokers/pdfs/`](file:///c:/Users/Dell/Github/Shipping/data/reports/seabrokers/pdfs/) | PDF | **570.3 MB** | **97 PDFs** | **2018–2026** | 97 original multi-page Adobe InDesign magazine publications. |
-| [`reports/seabrokers_catalog.json`](file:///c:/Users/Dell/Github/Shipping/reports/seabrokers_catalog.json) | JSON | 0.1 MB | **97 entries** | 2018–2026 | Master manifest with direct PDF URLs, file sizes, and status codes. |
+| [`data/derived/seabrokers_osv_dayrates.csv`](../data/derived/seabrokers_osv_dayrates.csv) | CSV | 0.1 MB | **371** | **2018–2026 (97 Months)** | Monthly spot dayrates (£/day), YoY changes, min/max ranges, and fleet utilisation for **Large AHTS (>22k BHP)**, **Med AHTS (<22k BHP)**, **Large PSV (>900m²)**, and **Med PSV (<900m²)**. |
+| [`reports/seabrokers/`](../reports/seabrokers) | Markdown | 3.9 MB | **97 reports** | **2018–2026** | 97 monthly market reports digested into Markdown via `anydoc`. |
+| [`data/reports/seabrokers/pdfs/`](../data/reports/seabrokers/pdfs) | PDF | **570.3 MB** | **97 PDFs** | **2018–2026** | 97 original multi-page Adobe InDesign magazine publications. |
+| [`reports/seabrokers_catalog.json`](../reports/seabrokers_catalog.json) | JSON | 0.1 MB | **97 entries** | 2018–2026 | Master manifest with direct PDF URLs, file sizes, and status codes. |
 
 *Unrendered Intelligence*: Spot AHTS dayrates surging to **£96,015/day avg** (£314,196/day peak), ICBC Bourbon fleet auction bids ($8.3M–$52M across 29 vessels), and drilling rig backlogs.  
 *Website Status*: 0% rendered in `index.html`.
@@ -192,7 +192,7 @@ Harvested from SEE Capital Markets / Zagreb Stock Exchange covering 21 years of 
 
 | File Path | Format | Size | Records | Coverage | Contents & Recoverable Intelligence |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [`data/indices/capital_link_indices_master.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/capital_link_indices_master.csv) | CSV | 0.6 MB | **5,245** | **2005–2026 (21 Years)** | Daily close, volume, and daily returns across all 7 Capital Link shipping sector indices. |
+| [`data/indices/capital_link_indices_master.csv`](../data/indices/capital_link_indices_master.csv) | CSV | 0.6 MB | **5,245** | **2005–2026 (21 Years)** | Daily close, volume, and daily returns across all 7 Capital Link shipping sector indices. |
 | `data/indices/capital_link_drybulk_cldbi.csv` | CSV | 0.4 MB | **5,230** | **2005–2026** | Capital Link Drybulk Index (`CLDBI`). |
 | `data/indices/capital_link_tanker_clti.csv` | CSV | 0.4 MB | **5,228** | **2005–2026** | Capital Link Tanker Index (`CLTI`). |
 | `data/indices/capital_link_container_clci.csv` | CSV | 0.4 MB | **5,244** | **2005–2026** | Capital Link Container Index (`CLCI`). |
@@ -210,13 +210,13 @@ Harvested from SEE Capital Markets / Zagreb Stock Exchange covering 21 years of 
 
 | File Path | Format | Size | Records | Coverage | Contents & Recoverable Intelligence |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [`data/congestion/chokepoint_transits_daily.csv`](file:///c:/Users/Dell/Github/Shipping/data/congestion/chokepoint_transits_daily.csv) | CSV | 8.2 MB | **78,372** | **2019–2026** | Daily AIS transit counts and total DWT through **Suez Canal**, **Panama Canal**, **Bab el-Mandeb (Red Sea)**, **Strait of Malacca**, **Strait of Hormuz**, and **Cape of Good Hope rerouting**. |
-| [`data/congestion/port_calls_daily.csv`](file:///c:/Users/Dell/Github/Shipping/data/congestion/port_calls_daily.csv) & `v2.csv` | CSV | 8.0 MB | **72,722** | **2019–2026** | Daily port calls and turnaround times across primary bulk, container, and tanker loading/discharge hubs globally. |
-| [`data/commodities/usda_fas_outstanding_export_sales.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/usda_fas_outstanding_export_sales.csv) | CSV | 3.9 MB | **68,181** | **1999–2026 (27 Years)** | Weekly USDA FAS export sales commitments, accumulated exports, and outstanding forward book across Soybeans, Corn, Wheat, and Sorghum by destination. |
-| [`data/commodities/usda_grain_vessel_loading.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/usda_grain_vessel_loading.csv) | CSV | 0.3 MB | **3,113** | **1995–2026 (31 Years)** | Weekly vessel loading queues and berthed tonnages across US Gulf, Pacific Northwest (PNW), and Atlantic coast grain terminals. |
-| [`data/cftc_statements/parsed/bdry_monthly_cftc_ledger.csv`](file:///c:/Users/Dell/Github/Shipping/data/cftc_statements/parsed/bdry_monthly_cftc_ledger.csv) | CSV | 0.1 MB | **100** | Multi-Year | Monthly CFTC Commitments of Traders (COT) filings for BDRY ETF fund assets, net futures commitments, margin equity. |
+| [`data/congestion/chokepoint_transits_daily.csv`](../data/congestion/chokepoint_transits_daily.csv) | CSV | 8.2 MB | **78,372** | **2019–2026** | Daily AIS transit counts and total DWT through **Suez Canal**, **Panama Canal**, **Bab el-Mandeb (Red Sea)**, **Strait of Malacca**, **Strait of Hormuz**, and **Cape of Good Hope rerouting**. |
+| [`data/congestion/port_calls_daily.csv`](../data/congestion/port_calls_daily.csv) & `v2.csv` | CSV | 8.0 MB | **72,722** | **2019–2026** | Daily port calls and turnaround times across primary bulk, container, and tanker loading/discharge hubs globally. |
+| [`data/commodities/usda_fas_outstanding_export_sales.csv`](../data/commodities/usda_fas_outstanding_export_sales.csv) | CSV | 3.9 MB | **68,181** | **1999–2026 (27 Years)** | Weekly USDA FAS export sales commitments, accumulated exports, and outstanding forward book across Soybeans, Corn, Wheat, and Sorghum by destination. |
+| [`data/commodities/usda_grain_vessel_loading.csv`](../data/commodities/usda_grain_vessel_loading.csv) | CSV | 0.3 MB | **3,113** | **1995–2026 (31 Years)** | Weekly vessel loading queues and berthed tonnages across US Gulf, Pacific Northwest (PNW), and Atlantic coast grain terminals. |
+| [`data/cftc_statements/parsed/bdry_monthly_cftc_ledger.csv`](../data/cftc_statements/parsed/bdry_monthly_cftc_ledger.csv) | CSV | 0.1 MB | **100** | Multi-Year | Monthly CFTC Commitments of Traders (COT) filings for BDRY ETF fund assets, net futures commitments, margin equity. |
 | `data/etf/raw_holdings/` | CSV | 0.2 MB | **1,125** | Daily Archive | Exact broker lot-level holding statements showing individual Capesize, Panamax, and Supramax FFA contract expirations. |
-| [`data/derived/timesfm_probe_results.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/timesfm_probe_results.csv) | CSV | 1.4 MB | **1,760** | 2020–2024 | Google TimesFM zero-shot foundation time-series forecasting probe results across Baltic freight indices. |
+| [`data/derived/timesfm_probe_results.csv`](../data/derived/timesfm_probe_results.csv) | CSV | 1.4 MB | **1,760** | 2020–2024 | Google TimesFM zero-shot foundation time-series forecasting probe results across Baltic freight indices. |
 
 *Website Status*: **Partially Rendered (Live)** — Full daily transit history across 28 maritime chokepoints (`chokepoint_transits_daily.csv`), active port lineups across 27 global hubs (`port_lineups_active.csv`), and rerouting analytics (`chokepoint_transit_metrics.csv`) are now actively rendered in the dedicated top-level **Tracking** tab (`#tab-tracking`) with an interactive Leaflet dark-mode map, vessel particulars cards, and Chokepoint Transit Analytics Drawer.
 
@@ -252,13 +252,13 @@ Ingested directly via `edgartools` (SEC EDGAR) and international regulatory APIs
 
 | File Path | Format | Size | Records | Coverage | Contents & Recoverable Intelligence |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [data/equities/sec_master_filing_catalog.parquet](file:///c:/Users/Dell/Github/Shipping/data/equities/sec_master_filing_catalog.parquet) | Parquet | 1.9 MB | **92,200** | **1995–2026 (31 Years)** | Complete SEC filing index across 92 SEC-registered maritime issuers and mining/agri giants (10-K, 10-Q, 20-F, 40-F, 6-K, 8-K, Form 4, 13D/G, 424B). |
-| [data/equities/sec_xbrl_financials.parquet](file:///c:/Users/Dell/Github/Shipping/data/equities/sec_xbrl_financials.parquet) | Parquet | 0.4 MB | **10,462** | Multi-Year | Standardized XBRL Balance Sheets, Income Statements, and Cash Flow Statements for US & foreign private shipping issuers. |
-| [data/equities/sec_form4_insider_trades.parquet](file:///c:/Users/Dell/Github/Shipping/data/equities/sec_form4_insider_trades.parquet) | Parquet | 0.02 MB | **741** | Multi-Year | Form 4 insider transactions (open-market buys/sells by shipping tycoons and corporate executives). |
-| [data/equities/sec_exhibit99_announcements.parquet](file:///c:/Users/Dell/Github/Shipping/data/equities/sec_exhibit99_announcements.parquet) | Parquet | 0.02 MB | **688** | Multi-Year | Commercial announcements, fleet employment tables, production updates, and earnings press releases (Exhibit 99.1). |
-| [data/equities/foreign_maritime_financials.parquet](file:///c:/Users/Dell/Github/Shipping/data/equities/foreign_maritime_financials.parquet) | Parquet | 0.30 MB | **55,041** | 2020–2026 | Standardized financial statements across 82 foreign-listed maritime & mining champions (Oslo Børs, Tokyo, Seoul, London, ASX, Singapore, India, Taiwan). |
-| [data/equities/foreign_maritime_metrics.parquet](file:///c:/Users/Dell/Github/Shipping/data/equities/foreign_maritime_metrics.parquet) | Parquet | 0.02 MB | **82** | Current | Live enterprise value, market cap, P/E, P/B, dividend yields, and 52-week ranges across international exchanges. |
-| [data/equities/maritime_universe_catalog.csv](file:///c:/Users/Dell/Github/Shipping/data/equities/maritime_universe_catalog.csv) | CSV | 0.01 MB | **175** | Master | Unified classification cross-mapping all 175 companies by sector, US SEC CIK, and foreign exchange tickers. |
+| [data/equities/sec_master_filing_catalog.parquet](../data/equities/sec_master_filing_catalog.parquet) | Parquet | 1.9 MB | **92,200** | **1995–2026 (31 Years)** | Complete SEC filing index across 92 SEC-registered maritime issuers and mining/agri giants (10-K, 10-Q, 20-F, 40-F, 6-K, 8-K, Form 4, 13D/G, 424B). |
+| [data/equities/sec_xbrl_financials.parquet](../data/equities/sec_xbrl_financials.parquet) | Parquet | 0.4 MB | **10,462** | Multi-Year | Standardized XBRL Balance Sheets, Income Statements, and Cash Flow Statements for US & foreign private shipping issuers. |
+| [data/equities/sec_form4_insider_trades.parquet](../data/equities/sec_form4_insider_trades.parquet) | Parquet | 0.02 MB | **741** | Multi-Year | Form 4 insider transactions (open-market buys/sells by shipping tycoons and corporate executives). |
+| [data/equities/sec_exhibit99_announcements.parquet](../data/equities/sec_exhibit99_announcements.parquet) | Parquet | 0.02 MB | **688** | Multi-Year | Commercial announcements, fleet employment tables, production updates, and earnings press releases (Exhibit 99.1). |
+| [data/equities/foreign_maritime_financials.parquet](../data/equities/foreign_maritime_financials.parquet) | Parquet | 0.30 MB | **55,041** | 2020–2026 | Standardized financial statements across 82 foreign-listed maritime & mining champions (Oslo Børs, Tokyo, Seoul, London, ASX, Singapore, India, Taiwan). |
+| [data/equities/foreign_maritime_metrics.parquet](../data/equities/foreign_maritime_metrics.parquet) | Parquet | 0.02 MB | **82** | Current | Live enterprise value, market cap, P/E, P/B, dividend yields, and 52-week ranges across international exchanges. |
+| [data/equities/maritime_universe_catalog.csv](../data/equities/maritime_universe_catalog.csv) | CSV | 0.01 MB | **175** | Master | Unified classification cross-mapping all 175 companies by sector, US SEC CIK, and foreign exchange tickers. |
 
 ---
 
@@ -268,10 +268,10 @@ Extracted directly from Drewry Shipping Consultants (CloudFront DAM and Opinions
 
 | Asset / Dataset | File Path | Format | Size / Records | Coverage | Contents & Recoverable Intelligence |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **AIS Fleet Analytics Weekly Reports** | `scripts/drewry_ais_pdfs/` & [`reports/drewry/ais_manifest.csv`](file:///c:/Users/Dell/Github/Shipping/reports/drewry/ais_manifest.csv) | PDF & CSV | **274 reports (276 PDFs)** | **2024–2026 (Weeks 1–52)** | Weekly AIS analytics tracking 10 vessel classes: Crude (Aframax, Suezmax, VLCC), Products (LR1, LR2), Dry Bulk (Capesize, Panamax, Supramax, Handysize), and Gas (LPG/VLGC). 122 reports in 2024, 123 reports in 2025, 29 reports in 2026. |
-| **Maritime Opinions & Executive Briefings** | [`reports/drewry/opinions/`](file:///c:/Users/Dell/Github/Shipping/reports/drewry/opinions/) & `_manifest.csv` | Markdown | **539 clean articles** (0.6 MB) | Multi-Year | Full-text market intelligence across Strategy/Macro (155), Ports & Terminals (126), Gas/LNG (90), Decarbonisation & EU ETS (79), Container Liners (73), Tankers (70), and Dry Bulk (60). |
-| **World Container Index (WCI)** | [`data/indices/drewry_wci_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/drewry_wci_historical.csv) | CSV | **149 weekly prints** (0.1 MB) | 2021–2026 | Weekly spot freight rates ($/40ft box) across 8 East-West routes (Shanghai-Rotterdam, Genoa, Los Angeles, New York, etc.) + WCI Composite. |
-| **Weekly Container Commentaries** | [`reports/drewry/2026/`](file:///c:/Users/Dell/Github/Shipping/reports/drewry/2026/) | Markdown | **35 reports** | 2026 | Narrative market assessments and carrier rate actions accompanying each WCI release. |
+| **AIS Fleet Analytics Weekly Reports** | `scripts/drewry_ais_pdfs/` & [`reports/drewry/ais_manifest.csv`](../reports/drewry/ais_manifest.csv) | PDF & CSV | **274 reports (276 PDFs)** | **2024–2026 (Weeks 1–52)** | Weekly AIS analytics tracking 10 vessel classes: Crude (Aframax, Suezmax, VLCC), Products (LR1, LR2), Dry Bulk (Capesize, Panamax, Supramax, Handysize), and Gas (LPG/VLGC). 122 reports in 2024, 123 reports in 2025, 29 reports in 2026. |
+| **Maritime Opinions & Executive Briefings** | [`reports/drewry/opinions/`](../reports/drewry/opinions) & `_manifest.csv` | Markdown | **539 clean articles** (0.6 MB) | Multi-Year | Full-text market intelligence across Strategy/Macro (155), Ports & Terminals (126), Gas/LNG (90), Decarbonisation & EU ETS (79), Container Liners (73), Tankers (70), and Dry Bulk (60). |
+| **World Container Index (WCI)** | [`data/indices/drewry_wci_historical.csv`](../data/indices/drewry_wci_historical.csv) | CSV | **149 weekly prints** (0.1 MB) | 2021–2026 | Weekly spot freight rates ($/40ft box) across 8 East-West routes (Shanghai-Rotterdam, Genoa, Los Angeles, New York, etc.) + WCI Composite. |
+| **Weekly Container Commentaries** | [`reports/drewry/2026/`](../reports/drewry/2026) | Markdown | **35 reports** | 2026 | Narrative market assessments and carrier rate actions accompanying each WCI release. |
 | **Production Recurring Scrapers** | `scripts/scrapers/fetch_drewry_ais_weekly.py` & `fetch_drewry_opinions_incremental.py` | Python | Active | Weekly | Idempotent automated harvesters integrated into `.github/workflows/poten_drewry_weekly.yml` (tested and active in GitHub Actions). |
 
 *Website Status*: 0% rendered in `index.html` (only prompt WCI composite value is loaded; zero AIS reports, zero opinions articles, and zero route spread monitors are rendered on the frontend).
@@ -284,12 +284,12 @@ Harvested directly from The Signal Group (Signal Ocean & Signal Maritime intelli
 
 | Asset / Dataset | File Path | Format | Records / Count | Coverage Depth | Contents & Recoverable Intelligence |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Weekly Market Monitors & Radars** | [`reports/signal/monitors/`](file:///c:/Users/Dell/Github/Shipping/reports/signal/monitors/) | Clean Markdown | **246 reports** (1.1 MB) | **2022–2026 (Weeks 1–52)** | Weekly commercial dry bulk, tanker, and commodity radar monitors tracking freight rates (BCI, BPI, BSI, BHSI, C5TC, P5TC, S10TC), regional ballaster counts (FEAST/NOPAC, Australasia, Atlantic, Indian Ocean), route supply/demand balances (C3, C5, P5, P1/P2/P7), and port congestion. |
-| **Spotlight Commodity Radars** | [`reports/signal/monitors/`](file:///c:/Users/Dell/Github/Shipping/reports/signal/monitors/) | Clean Markdown | **16 in-depth radars** | 2024–2026 | Macro spotlight analyses on Bauxite front-loading, Coal market divergence, Steel chain demand, Aluminum chain, and Chinese iron ore port inventories. |
-| **Newsroom Research & Annual Reviews** | [`reports/signal/newsroom/`](file:///c:/Users/Dell/Github/Shipping/reports/signal/newsroom/) | Clean Markdown | **250 reports** (1.5 MB) | Multi-Year | Flagship Annual Market Reviews (2020–2025), EU Shipping Emissions & ETS compliance, AIS dark fleet spoofing, Red Sea transit impacts, VLCC loading records, and pool performance analytics. |
-| **Localized Embedded Chart Library** | [`reports/signal/images/`](file:///c:/Users/Dell/Github/Shipping/reports/signal/images/) | PNG / WebP / AVIF | **1,372 image files** (187.0 MB) | 100% Offline | High-resolution charts, seasonal wheat curves, ballaster positioning maps, and Baltic index summaries downloaded locally and linked relatively (`../images/`) in Markdown. |
-| **Raw HTML Snapshots** | [`reports/signal/html/`](file:///c:/Users/Dell/Github/Shipping/reports/signal/html/) | HTML | **496 files** (97.8 MB) | Complete | Complete verbatim HTML pages preserving all styling, Webflow CMS markup, scripts, and embedded high-res CDN chart links. |
-| **Master Archive Catalog** | [`reports/signal/signal_manifest.csv`](file:///c:/Users/Dell/Github/Shipping/reports/signal/signal_manifest.csv) | CSV | **496 records** | Complete | Structured index cross-mapping every report by slug, URL, category, publication date, local Markdown path, raw HTML path, and character count. |
+| **Weekly Market Monitors & Radars** | [`reports/signal/monitors/`](../reports/signal/monitors) | Clean Markdown | **246 reports** (1.1 MB) | **2022–2026 (Weeks 1–52)** | Weekly commercial dry bulk, tanker, and commodity radar monitors tracking freight rates (BCI, BPI, BSI, BHSI, C5TC, P5TC, S10TC), regional ballaster counts (FEAST/NOPAC, Australasia, Atlantic, Indian Ocean), route supply/demand balances (C3, C5, P5, P1/P2/P7), and port congestion. |
+| **Spotlight Commodity Radars** | [`reports/signal/monitors/`](../reports/signal/monitors) | Clean Markdown | **16 in-depth radars** | 2024–2026 | Macro spotlight analyses on Bauxite front-loading, Coal market divergence, Steel chain demand, Aluminum chain, and Chinese iron ore port inventories. |
+| **Newsroom Research & Annual Reviews** | [`reports/signal/newsroom/`](../reports/signal/newsroom) | Clean Markdown | **250 reports** (1.5 MB) | Multi-Year | Flagship Annual Market Reviews (2020–2025), EU Shipping Emissions & ETS compliance, AIS dark fleet spoofing, Red Sea transit impacts, VLCC loading records, and pool performance analytics. |
+| **Localized Embedded Chart Library** | [`reports/signal/images/`](../reports/signal/images) | PNG / WebP / AVIF | **1,372 image files** (187.0 MB) | 100% Offline | High-resolution charts, seasonal wheat curves, ballaster positioning maps, and Baltic index summaries downloaded locally and linked relatively (`../images/`) in Markdown. |
+| **Raw HTML Snapshots** | [`reports/signal/html/`](../reports/signal/html) | HTML | **496 files** (97.8 MB) | Complete | Complete verbatim HTML pages preserving all styling, Webflow CMS markup, scripts, and embedded high-res CDN chart links. |
+| **Master Archive Catalog** | [`reports/signal/signal_manifest.csv`](../reports/signal/signal_manifest.csv) | CSV | **496 records** | Complete | Structured index cross-mapping every report by slug, URL, category, publication date, local Markdown path, raw HTML path, and character count. |
 | **Automated Harvester & Image Pipeline** | `scripts/scrapers/fetch_signal_reports.py` & `download_signal_images.py` | Python | Active | Weekly | Automated, multi-threaded incremental harvesters unioning live collection pages and sitemap feeds. |
 
 *Website Status*: 0% rendered in `index.html`.
@@ -302,27 +302,27 @@ Extracted via high-speed WordPress REST API endpoints from Hellenic Shipping New
 
 | Broker / Firm | Slug | Reports Cataloged | Downloaded PDFs | Primary Focus | Historical Depth | Storage Path |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Simpson Spence Young (SSY)** | `ssy` | **507** | **515** | Atlantic & Pacific Capesize index reports & iron ore freight | 2021–2026 | [`reports/shipbrokers/ssy/`](file:///c:/Users/Dell/Github/Shipping/reports/shipbrokers/ssy/) |
-| **Xclusiv Shipbrokers** | `xclusiv` | **260** | **264** | SnP vessel transactions, demolition prices, fleet orderbooks | 2021–2026 | [`reports/shipbrokers/xclusiv/`](file:///c:/Users/Dell/Github/Shipping/reports/shipbrokers/xclusiv/) |
-| **Fearnleys** | `fearnleys` | **257** | **256** | Fearnpulse rates, gas, crude, and dry bulk market summaries | 2021–2026 | [`reports/shipbrokers/fearnleys/`](file:///c:/Users/Dell/Github/Shipping/reports/shipbrokers/fearnleys/) |
-| **Golden Destiny** | `golden_destiny` | **252** | **252** | SnP, newbuilding contracts, and demolition sales | 2021–2026 | [`reports/shipbrokers/golden_destiny/`](file:///c:/Users/Dell/Github/Shipping/reports/shipbrokers/golden_destiny/) |
-| **Intermodal Shipbrokers** | `intermodal` | **251** | **250** | Macro shipping overview, second-hand asset prices & TC assessments | 2021–2026 | [`reports/shipbrokers/intermodal/`](file:///c:/Users/Dell/Github/Shipping/reports/shipbrokers/intermodal/) |
-| **Affinity Research** | `affinity` | **244** | **249** | Tanker market weekly, LNG/LPG fleet metrics, TCE earnings | 2021–2026 | [`reports/shipbrokers/affinity/`](file:///c:/Users/Dell/Github/Shipping/reports/shipbrokers/affinity/) |
-| **Advanced Shipping & Trading** | `advanced_shipping` | **248** | **248** | Weekly commercial fixtures, SnP deals, demolition rates | 2021–2026 | [`reports/shipbrokers/advanced_shipping/`](file:///c:/Users/Dell/Github/Shipping/reports/shipbrokers/advanced_shipping/) |
-| **Banchero Costa** | `banchero_costa` | **243** | **243** | Seaborne trade flows, bulk commodities, port loading statistics | 2021–2026 | [`reports/shipbrokers/banchero_costa/`](file:///c:/Users/Dell/Github/Shipping/reports/shipbrokers/banchero_costa/) |
-| **Agora Shipbroking** | `agora` | **212** | **207** | Commercial indicators snapshot, regional dry bulk sentiment | 2021–2026 | [`reports/shipbrokers/agora/`](file:///c:/Users/Dell/Github/Shipping/reports/shipbrokers/agora/) |
-| **Allied Shipbroking** | `allied` | **204** | **204** | Dry bulk and tanker market reviews, asset values, second-hand | 2021–2026 | [`reports/shipbrokers/allied/`](file:///c:/Users/Dell/Github/Shipping/reports/shipbrokers/allied/) |
-| **Star Asia Shipbroking** | `star_asia` | **193** | **191** | Demolition cash buyer commentary, sub-continent scrap prices | 2021–2026 | [`reports/shipbrokers/star_asia/`](file:///c:/Users/Dell/Github/Shipping/reports/shipbrokers/star_asia/) |
-| **Carriers Chartering** | `carriers` | **128** | **128** | Sale and purchase market reports | 2021–2026 | [`reports/shipbrokers/carriers/`](file:///c:/Users/Dell/Github/Shipping/reports/shipbrokers/carriers/) |
-| **ISM (Intership Navigation)** | `ism` | **111** | **111** | Coaster and mini-bulker commercial reports | 2021–2026 | [`reports/shipbrokers/ism/`](file:///c:/Users/Dell/Github/Shipping/reports/shipbrokers/ism/) |
-| **Gibson Shipbrokers** | `gibson` | **250** | **109** (146 web articles) | Clean and dirty tanker market reports, OPEC+ crude flows | 2021–2026 | [`reports/shipbrokers/gibson/`](file:///c:/Users/Dell/Github/Shipping/reports/shipbrokers/gibson/) |
-| **Lion Shipbrokers** | `lion` | **46** | **44** | SnP and demolition sales reports | 2021–2026 | [`reports/shipbrokers/lion/`](file:///c:/Users/Dell/Github/Shipping/reports/shipbrokers/lion/) |
-| **Anchor Shipbroking** | `anchor` | **30** | **30** | S&P market summaries and fleet statistics | 2021–2026 | [`reports/shipbrokers/anchor/`](file:///c:/Users/Dell/Github/Shipping/reports/shipbrokers/anchor/) |
-| **Other / Specialized Brokers** | `other` / `clarksons` | **153** | **140** | Clarksons Hellas SnP (9), Optima, WeberSeas, etc. | 2021–2026 | [`reports/shipbrokers/`](file:///c:/Users/Dell/Github/Shipping/reports/shipbrokers/) |
+| **Simpson Spence Young (SSY)** | `ssy` | **507** | **515** | Atlantic & Pacific Capesize index reports & iron ore freight | 2021–2026 | [`reports/shipbrokers/ssy/`](../reports/shipbrokers/ssy) |
+| **Xclusiv Shipbrokers** | `xclusiv` | **260** | **264** | SnP vessel transactions, demolition prices, fleet orderbooks | 2021–2026 | [`reports/shipbrokers/xclusiv/`](../reports/shipbrokers/xclusiv) |
+| **Fearnleys** | `fearnleys` | **257** | **256** | Fearnpulse rates, gas, crude, and dry bulk market summaries | 2021–2026 | [`reports/shipbrokers/fearnleys/`](../reports/shipbrokers/fearnleys) |
+| **Golden Destiny** | `golden_destiny` | **252** | **252** | SnP, newbuilding contracts, and demolition sales | 2021–2026 | [`reports/shipbrokers/golden_destiny/`](../reports/shipbrokers/golden_destiny) |
+| **Intermodal Shipbrokers** | `intermodal` | **251** | **250** | Macro shipping overview, second-hand asset prices & TC assessments | 2021–2026 | [`reports/shipbrokers/intermodal/`](../reports/shipbrokers/intermodal) |
+| **Affinity Research** | `affinity` | **244** | **249** | Tanker market weekly, LNG/LPG fleet metrics, TCE earnings | 2021–2026 | [`reports/shipbrokers/affinity/`](../reports/shipbrokers/affinity) |
+| **Advanced Shipping & Trading** | `advanced_shipping` | **248** | **248** | Weekly commercial fixtures, SnP deals, demolition rates | 2021–2026 | [`reports/shipbrokers/advanced_shipping/`](../reports/shipbrokers/advanced_shipping) |
+| **Banchero Costa** | `banchero_costa` | **243** | **243** | Seaborne trade flows, bulk commodities, port loading statistics | 2021–2026 | [`reports/shipbrokers/banchero_costa/`](../reports/shipbrokers/banchero_costa) |
+| **Agora Shipbroking** | `agora` | **212** | **207** | Commercial indicators snapshot, regional dry bulk sentiment | 2021–2026 | [`reports/shipbrokers/agora/`](../reports/shipbrokers/agora) |
+| **Allied Shipbroking** | `allied` | **204** | **204** | Dry bulk and tanker market reviews, asset values, second-hand | 2021–2026 | [`reports/shipbrokers/allied/`](../reports/shipbrokers/allied) |
+| **Star Asia Shipbroking** | `star_asia` | **193** | **191** | Demolition cash buyer commentary, sub-continent scrap prices | 2021–2026 | [`reports/shipbrokers/star_asia/`](../reports/shipbrokers/star_asia) |
+| **Carriers Chartering** | `carriers` | **128** | **128** | Sale and purchase market reports | 2021–2026 | [`reports/shipbrokers/carriers/`](../reports/shipbrokers/carriers) |
+| **ISM (Intership Navigation)** | `ism` | **111** | **111** | Coaster and mini-bulker commercial reports | 2021–2026 | [`reports/shipbrokers/ism/`](../reports/shipbrokers/ism) |
+| **Gibson Shipbrokers** | `gibson` | **250** | **109** (146 web articles) | Clean and dirty tanker market reports, OPEC+ crude flows | 2021–2026 | [`reports/shipbrokers/gibson/`](../reports/shipbrokers/gibson) |
+| **Lion Shipbrokers** | `lion` | **46** | **44** | SnP and demolition sales reports | 2021–2026 | [`reports/shipbrokers/lion/`](../reports/shipbrokers/lion) |
+| **Anchor Shipbroking** | `anchor` | **30** | **30** | S&P market summaries and fleet statistics | 2021–2026 | [`reports/shipbrokers/anchor/`](../reports/shipbrokers/anchor) |
+| **Other / Specialized Brokers** | `other` / `clarksons` | **153** | **140** | Clarksons Hellas SnP (9), Optima, WeberSeas, etc. | 2021–2026 | [`reports/shipbrokers/`](../reports/shipbrokers) |
 
-*Catalog Manifest*: [`reports/shipbrokers/shipbrokers_manifest.csv`](file:///c:/Users/Dell/Github/Shipping/reports/shipbrokers/shipbrokers_manifest.csv) (3,573 rows, 100% resolved).  
+*Catalog Manifest*: [`reports/shipbrokers/shipbrokers_manifest.csv`](../reports/shipbrokers/shipbrokers_manifest.csv) (3,573 rows, 100% resolved).  
 *Storage Architecture*: Grouped by Shipbroker and Subdivided by Year (`reports/shipbrokers/<broker_slug>/<year>/`).  
-*Automated Downloader*: [`scripts/scrapers/download_shipbroker_pdfs.py`](file:///c:/Users/Dell/Github/Shipping/scripts/scrapers/download_shipbroker_pdfs.py).  
+*Automated Downloader*: [`scripts/scrapers/download_shipbroker_pdfs.py`](../scripts/scrapers/download_shipbroker_pdfs.py).  
 *Disk Footprint*: 2.67 GB (3,441 PDFs, 0 errors).
 
 *Website Status*: 0% rendered in `index.html`.
@@ -335,14 +335,14 @@ Harvested directly from the IMF PortWatch ArcGIS REST API Gateway (`https://serv
 
 | File Path | Format | Size | Records | Coverage | Contents & Recoverable Intelligence |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [`data/congestion/port_calls_daily.csv`](file:///c:/Users/Dell/Github/Shipping/data/congestion/port_calls_daily.csv) | CSV | 21.6 MB | **150,596** | **2019–2026** | Single-source daily port observation master: measured port calls by segment (`portcalls_dry_bulk`, `portcalls_tanker`, `portcalls_cargo`), export/import tonnages, and country ISOs. |
-| [`data/congestion/port_calls_daily_v2.csv`](file:///c:/Users/Dell/Github/Shipping/data/congestion/port_calls_daily_v2.csv) | CSV | 16.4 MB | **114,677** | **2019–2026** | Canonical synchronized mirror with standardized column headers and kilotonne conversions. |
-| [`data/derived/port_stress_matrix.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/port_stress_matrix.csv) | CSV | 2.7 MB | **20,000** | **2019–2026** | Tonnage Squeeze Indicator: 5-year rolling calendar-week envelopes (`hist_min`, `hist_max`, `hist_mean`, `hist_std`), live arrival deviation Z-score, and stress flags (`SURGE`, `COLLAPSE`, `NORMAL`). |
-| [`data/congestion/port_arrival_envelope_matrix.csv`](file:///c:/Users/Dell/Github/Shipping/data/congestion/port_arrival_envelope_matrix.csv) | CSV | 1.2 MB | **20,000** | **2019–2026** | Flat UI time series: `[date, port_locode, asset_class, live_calls, hist_min, hist_max, hist_mean]` formatted directly for Chart.js background envelope shading. |
-| [`data/congestion/port_arrival_envelope_matrix.parquet`](file:///c:/Users/Dell/Github/Shipping/data/congestion/port_arrival_envelope_matrix.parquet) | Parquet | 218 KB | **20,000** | **2019–2026** | Columnar binary equivalent of the UI matrix for high-speed local analytical queries. |
+| [`data/congestion/port_calls_daily.csv`](../data/congestion/port_calls_daily.csv) | CSV | 21.6 MB | **150,596** | **2019–2026** | Single-source daily port observation master: measured port calls by segment (`portcalls_dry_bulk`, `portcalls_tanker`, `portcalls_cargo`), export/import tonnages, and country ISOs. |
+| [`data/congestion/port_calls_daily_v2.csv`](../data/congestion/port_calls_daily_v2.csv) | CSV | 16.4 MB | **114,677** | **2019–2026** | Canonical synchronized mirror with standardized column headers and kilotonne conversions. |
+| [`data/derived/port_stress_matrix.csv`](../data/derived/port_stress_matrix.csv) | CSV | 2.7 MB | **20,000** | **2019–2026** | Tonnage Squeeze Indicator: 5-year rolling calendar-week envelopes (`hist_min`, `hist_max`, `hist_mean`, `hist_std`), live arrival deviation Z-score, and stress flags (`SURGE`, `COLLAPSE`, `NORMAL`). |
+| [`data/congestion/port_arrival_envelope_matrix.csv`](../data/congestion/port_arrival_envelope_matrix.csv) | CSV | 1.2 MB | **20,000** | **2019–2026** | Flat UI time series: `[date, port_locode, asset_class, live_calls, hist_min, hist_max, hist_mean]` formatted directly for Chart.js background envelope shading. |
+| [`data/congestion/port_arrival_envelope_matrix.parquet`](../data/congestion/port_arrival_envelope_matrix.parquet) | Parquet | 218 KB | **20,000** | **2019–2026** | Columnar binary equivalent of the UI matrix for high-speed local analytical queries. |
 
-*Automated Ingestion Script*: [`scripts/scrapers/fetch_live_arrivals.py`](file:///c:/Users/Dell/Github/Shipping/scripts/scrapers/fetch_live_arrivals.py).  
-*Quantitative Matrix Engine*: [`scripts/compute_port_stress_matrix.py`](file:///c:/Users/Dell/Github/Shipping/scripts/compute_port_stress_matrix.py).  
+*Automated Ingestion Script*: [`scripts/scrapers/fetch_live_arrivals.py`](../scripts/scrapers/fetch_live_arrivals.py).  
+*Quantitative Matrix Engine*: [`scripts/compute_port_stress_matrix.py`](../scripts/compute_port_stress_matrix.py).  
 *Hub Universe*: 41 hubs across Dry Bulk (16), Tankers (11), LPG (11), and LNG (12).  
 
 *Website Status*: **100% rendered in `index.html`** (Tracking Tab -> Port Stress Subview with 4-card HUD, Sector filtering across Dry Bulk/Tankers/LNG/LPG, live matrix table with Z-scores, and Chart.js 5-Year seasonal envelope bands with shaded normal operating corridors across 50 hub-segment combinations).
@@ -355,14 +355,14 @@ Institutional-grade geospatial tracking layer cross-referencing 537k commercial 
 
 | File Path | Format | Size | Records | Coverage | Contents & Recoverable Intelligence |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [`data/geospatial/port_lineups_active.csv`](file:///c:/Users/Dell/Github/Shipping/data/geospatial/port_lineups_active.csv) | CSV | 102 KB | **740** | **Live 2026** | Active port queue lineup across 40 hubs: `[port_locode, portname, country, asset_class, vessel_name, imo_number, dwt, operational_status, arrival_timestamp, days_waiting, cargo_type, lat, lon]`. Split: 434 Operating at berth, 306 Waiting at anchor. |
-| [`data/geospatial/port_lineups_active.parquet`](file:///c:/Users/Dell/Github/Shipping/data/geospatial/port_lineups_active.parquet) | Parquet | 28 KB | **740** | **Live 2026** | Columnar format of active port lineup. |
-| [`data/geospatial/vessel_voyage_tracks_master.csv`](file:///c:/Users/Dell/Github/Shipping/data/geospatial/vessel_voyage_tracks_master.csv) | CSV | 1.1 MB | **9,907** | **2018–2026** | Chronological port-to-port voyage history: `[imo_number, vessel_name, asset_class, port_locode, portname, arrival_date, departure_date, transit_days, distance_nm, lat, lon, voyage_leg_id]`. |
-| [`data/geospatial/vessel_voyage_tracks_master.parquet`](file:///c:/Users/Dell/Github/Shipping/data/geospatial/vessel_voyage_tracks_master.parquet) | Parquet | 196 KB | **9,907** | **2018–2026** | Columnar binary store of historical voyage chains. |
-| [`data/geospatial/ui_voyage_vectors.csv`](file:///c:/Users/Dell/Github/Shipping/data/geospatial/ui_voyage_vectors.csv) | CSV | 722 KB | **2,162** | **2018–2026** | Single-sheet UI reference log: `[vessel_name, imo_number, trajectory_sequence_json, current_port, current_status]`, ready for direct ingestion by Leaflet.js or Mapbox. |
+| [`data/geospatial/port_lineups_active.csv`](../data/geospatial/port_lineups_active.csv) | CSV | 102 KB | **740** | **Live 2026** | Active port queue lineup across 40 hubs: `[port_locode, portname, country, asset_class, vessel_name, imo_number, dwt, operational_status, arrival_timestamp, days_waiting, cargo_type, lat, lon]`. Split: 434 Operating at berth, 306 Waiting at anchor. |
+| [`data/geospatial/port_lineups_active.parquet`](../data/geospatial/port_lineups_active.parquet) | Parquet | 28 KB | **740** | **Live 2026** | Columnar format of active port lineup. |
+| [`data/geospatial/vessel_voyage_tracks_master.csv`](../data/geospatial/vessel_voyage_tracks_master.csv) | CSV | 1.1 MB | **9,907** | **2018–2026** | Chronological port-to-port voyage history: `[imo_number, vessel_name, asset_class, port_locode, portname, arrival_date, departure_date, transit_days, distance_nm, lat, lon, voyage_leg_id]`. |
+| [`data/geospatial/vessel_voyage_tracks_master.parquet`](../data/geospatial/vessel_voyage_tracks_master.parquet) | Parquet | 196 KB | **9,907** | **2018–2026** | Columnar binary store of historical voyage chains. |
+| [`data/geospatial/ui_voyage_vectors.csv`](../data/geospatial/ui_voyage_vectors.csv) | CSV | 722 KB | **2,162** | **2018–2026** | Single-sheet UI reference log: `[vessel_name, imo_number, trajectory_sequence_json, current_port, current_status]`, ready for direct ingestion by Leaflet.js or Mapbox. |
 
-*Geospatial Processing Engine*: [`scripts/geospatial/build_geospatial_tracker.py`](file:///c:/Users/Dell/Github/Shipping/scripts/geospatial/build_geospatial_tracker.py).  
-*Storage Architecture*: Dedicated directory [`data/geospatial/`](file:///c:/Users/Dell/Github/Shipping/data/geospatial/).  
+*Geospatial Processing Engine*: [`scripts/geospatial/build_geospatial_tracker.py`](../scripts/geospatial/build_geospatial_tracker.py).  
+*Storage Architecture*: Dedicated directory [`data/geospatial/`](../data/geospatial).  
 *Operational Statuses*: `Waiting at anchor`, `Operating at berth`, `Underway`.  
 
 *Website Status*: 0% rendered in `index.html`.
@@ -375,12 +375,12 @@ Institutional long-haul macro export tracker reproducing Signal Ocean physical f
 
 | File Path | Format | Size | Records | Coverage | Contents & Recoverable Intelligence |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [`data/commodities/brazil_ore_envelope.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/brazil_ore_envelope.csv) | CSV | 6.0 KB | **116** | **2017–2026** | Brazil Monthly Iron Ore Exports (MDIC ComexStat API `NCM 26011100`/`26011200`): `[date, year, month, volume_kt, hist_5y_min, hist_5y_max, hist_5y_mean]`. Exact spot alignment with institutional benchmarks (e.g. Jun 2026: 39.7k kt, Jul 2026: 35.0k kt, Aug 2026: 34.4k kt). |
-| [`data/commodities/guinea_bauxite_envelope.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/guinea_bauxite_envelope.csv) | CSV | 5.6 KB | **116** | **2017–2026** | Guinea Monthly Bauxite Exports (UN Comtrade HS `260600` calibrated with Kamsar `GNKMR` Capesize port calls at 93% DWT load factor): `[date, year, month, volume_kt, hist_5y_min, hist_5y_max, hist_5y_mean]`. Captures West African monsoon trough (Jul: 12.8k kt) and Q1 peaks (Mar: 21.6k kt). |
-| [`data/commodities/upstream_freight_drivers.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/upstream_freight_drivers.csv) | CSV | 8.1 KB | **116** | **2017–2026** | Integrated macro freight driver matrix: `[date, year, month, brazil_ore_kt, brazil_ore_5y_avg_kt, guinea_bauxite_kt, guinea_bauxite_5y_avg_kt, port_hedland_ore_mt, china_port_inventory_mt, capesize_longhaul_ton_miles_bn]`. Captures total long-haul ton-mile demand (~530–603 Billion Ton-Miles/month in mid-2026). |
+| [`data/commodities/brazil_ore_envelope.csv`](../data/commodities/brazil_ore_envelope.csv) | CSV | 6.0 KB | **116** | **2017–2026** | Brazil Monthly Iron Ore Exports (MDIC ComexStat API `NCM 26011100`/`26011200`): `[date, year, month, volume_kt, hist_5y_min, hist_5y_max, hist_5y_mean]`. Exact spot alignment with institutional benchmarks (e.g. Jun 2026: 39.7k kt, Jul 2026: 35.0k kt, Aug 2026: 34.4k kt). |
+| [`data/commodities/guinea_bauxite_envelope.csv`](../data/commodities/guinea_bauxite_envelope.csv) | CSV | 5.6 KB | **116** | **2017–2026** | Guinea Monthly Bauxite Exports (UN Comtrade HS `260600` calibrated with Kamsar `GNKMR` Capesize port calls at 93% DWT load factor): `[date, year, month, volume_kt, hist_5y_min, hist_5y_max, hist_5y_mean]`. Captures West African monsoon trough (Jul: 12.8k kt) and Q1 peaks (Mar: 21.6k kt). |
+| [`data/commodities/upstream_freight_drivers.csv`](../data/commodities/upstream_freight_drivers.csv) | CSV | 8.1 KB | **116** | **2017–2026** | Integrated macro freight driver matrix: `[date, year, month, brazil_ore_kt, brazil_ore_5y_avg_kt, guinea_bauxite_kt, guinea_bauxite_5y_avg_kt, port_hedland_ore_mt, china_port_inventory_mt, capesize_longhaul_ton_miles_bn]`. Captures total long-haul ton-mile demand (~530–603 Billion Ton-Miles/month in mid-2026). |
 
-*Automated Pipeline Engine*: [`scripts/analysis/generate_trade_envelopes.py`](file:///c:/Users/Dell/Github/Shipping/scripts/analysis/generate_trade_envelopes.py).  
-*Storage Architecture*: Dedicated directory [`data/commodities/`](file:///c:/Users/Dell/Github/Shipping/data/commodities/).  
+*Automated Pipeline Engine*: [`scripts/analysis/generate_trade_envelopes.py`](../scripts/analysis/generate_trade_envelopes.py).  
+*Storage Architecture*: Dedicated directory [`data/commodities/`](../data/commodities).  
 *Analytical Value*: Directly drives Baltic C14 China-Brazil/West Africa round-voyage freight rate explosion modeling ($20k/day to $44k/day) via 3.1x ton-mile multiplier over short-haul Western Australia routes.  
 
 *Website Status*: 0% rendered in `index.html` (ready for seasonal envelope chart wiring).

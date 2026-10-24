@@ -35,7 +35,7 @@ Looking ahead to 2025, the anticipated depreciation of secondhand vessel prices,
 ![Στιγμιότυπο Οθόνης 2024 11 20 104126](assets/2024-11-20_demolition-activity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_416d5cb4580a.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 11 20 104126**  
-> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-11-20_demolition-activity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_416d5cb4580a.png)
+> **Interactive Data & Source:** [Intermodal](https://www.intermodal.gr/) | [Local Asset](assets/2024-11-20_demolition-activity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_416d5cb4580a.png)
 
 Data Source:[Intermodal](https://www.intermodal.gr/)
 

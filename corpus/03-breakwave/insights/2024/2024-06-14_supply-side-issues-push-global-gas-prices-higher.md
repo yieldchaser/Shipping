@@ -35,7 +35,7 @@ Mixed signals on the outlook for monetary policy saw commodity markets trade sid
 ![Στιγμιότυπο Οθόνης 2024 06 14 101417](assets/2024-06-14_supply-side-issues-push-global-gas-prices-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_43d248fe08fc.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2024 06 14 101417**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2024/assets/2024-06-14_supply-side-issues-push-global-gas-prices-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_43d248fe08fc.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2024-06-14_supply-side-issues-push-global-gas-prices-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_43d248fe08fc.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

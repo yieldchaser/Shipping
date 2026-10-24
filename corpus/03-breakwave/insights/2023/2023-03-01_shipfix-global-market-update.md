@@ -54,7 +54,7 @@ Following the European ban on imports of Russian coal, the miners have been forc
 ![Αρχείο Λήψης (3)](assets/2023-03-01_shipfix-global-market-update_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_022375c33eac.png)
 
 > **Figure 1: Αρχείο Λήψης (3)**  
-> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2023/assets/2023-03-01_shipfix-global-market-update_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_022375c33eac.png)
+> **Interactive Data & Source:** [Shipfix](https://shipfix.com/) | [Local Asset](assets/2023-03-01_shipfix-global-market-update_img_ceb1cf81cf87ceb5ceafcebfcebbceaecf88_022375c33eac.png)
 
 A thaw in diplomatic relations between China and Australia and an increasing focus on economic growth in the world’s second-largest economy has resulted in an easing of the previous restrictions on imports of Australian coal.
 

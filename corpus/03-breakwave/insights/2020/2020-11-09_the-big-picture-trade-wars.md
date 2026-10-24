@@ -33,7 +33,7 @@ Despite this, we actually saw discharges of Australian coal in China tick up by 
 ![Bmr 30](assets/2020-11-09_the-big-picture-trade-wars_img_bmr30_364deb7194cb.png)
 
 > **Figure 1: Bmr 30**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-09_the-big-picture-trade-wars_img_bmr30_364deb7194cb.png)
+> [Local Asset](assets/2020-11-09_the-big-picture-trade-wars_img_bmr30_364deb7194cb.png)
 
 ### Tensions Escalate
 
@@ -50,14 +50,14 @@ This policy is responsible for the large slump in imports across all producers t
 ![Bmr 31](assets/2020-11-09_the-big-picture-trade-wars_img_bmr31_9a806bedeecd.png)
 
 > **Figure 2: Bmr 31**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-09_the-big-picture-trade-wars_img_bmr31_9a806bedeecd.png)
+> [Local Asset](assets/2020-11-09_the-big-picture-trade-wars_img_bmr31_9a806bedeecd.png)
 
 The Daqin Railway, which is largest coal transporting rail service in China and hauls material from producers in Shanxi in the north to the transhipment hub of Qinhuangdao, has suffered multiple accidents. This includes a derailment this week, which has added upward pressure to domestic prices. On a CFR basis, the price spread between domestic and Australian coal of similar specification pushed to a record $40/tonne in September, remaining elevated since.
 
 ![Bmr 32](assets/2020-11-09_the-big-picture-trade-wars_img_bmr32_b93ad896b07c.png)
 
 > **Figure 3: Bmr 32**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-09_the-big-picture-trade-wars_img_bmr32_b93ad896b07c.png)
+> [Local Asset](assets/2020-11-09_the-big-picture-trade-wars_img_bmr32_b93ad896b07c.png)
 
 Citing these points, Australian coal producers have remained somewhat upbeat, expecting sales to China to rebound at the start of next year when import quotas are eased due to pressure from power utilities faced with tight margins. They see the recent restrictions as a reaction to higher than anticipated shipments from Australia in Q3, rather than a long-term ban on trade. After all, this is not the first time trade with Australia has been restricted in some way.
 
@@ -68,7 +68,7 @@ In the short term however, Australian coal shipments are likely to remain depres
 ![Bmr 33](assets/2020-11-09_the-big-picture-trade-wars_img_bmr33_85316d96dc60.png)
 
 > **Figure 4: Bmr 33**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2020/assets/2020-11-09_the-big-picture-trade-wars_img_bmr33_85316d96dc60.png)
+> [Local Asset](assets/2020-11-09_the-big-picture-trade-wars_img_bmr33_85316d96dc60.png)
 
 But we have also recorded a jump in longer-haul coal voyages to China from Murmansk, mainly on Post-Panamaxes. Shipments from Murmansk are up almost ten-fold on 2019’s volume, totalling around 1.5m tonnes so far this year. The majority of these shipments made the seven-week voyage via the Suez Canal, but we also saw a handful of specialised vessels taking the Arctic route via the Northeast Passage.
 

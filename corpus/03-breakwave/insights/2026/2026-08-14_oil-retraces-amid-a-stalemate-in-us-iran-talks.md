@@ -27,7 +27,7 @@ Energy fell as oil supplies find their way out of the Persian Gulf. Precious met
 ![Στιγμιότυπο Οθόνης 2026 08 14 072843](assets/2026-08-14_oil-retraces-amid-a-stalemate-in-us-iran-talks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_903f6de6c711.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2026 08 14 072843**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-14_oil-retraces-amid-a-stalemate-in-us-iran-talks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_903f6de6c711.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2026-08-14_oil-retraces-amid-a-stalemate-in-us-iran-talks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_903f6de6c711.png)
 
 ### Market Commentary
 
@@ -50,7 +50,7 @@ Exports have already been rising. July volumes of refined petroleum products hit
 ![Στιγμιότυπο Οθόνης 2026 08 14 072936](assets/2026-08-14_oil-retraces-amid-a-stalemate-in-us-iran-talks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c52593a00d05.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2026 08 14 072936**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2026/assets/2026-08-14_oil-retraces-amid-a-stalemate-in-us-iran-talks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c52593a00d05.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2026-08-14_oil-retraces-amid-a-stalemate-in-us-iran-talks_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c52593a00d05.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

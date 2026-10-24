@@ -35,7 +35,7 @@ tags:
 
 > **Figure 1: Capesize — C3 & C5 Forward Balance: Cumulative Supply vs Expected Demand Over Days Forward**  
 > *Figure 1: Capesize — C3 & C5 Forward Balance: cumulative Supply vs Expected Demand over days forward (Source: The Signal Ocean Platform).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4cd55e6c0d056548119378_53ea737d.jpeg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](../../images/6a4cd55e6c0d056548119378_53ea737d.jpeg)
 
 **C3 (Tubarao–Qingdao):** The current forward balance indicates cumulative vessel supply tracking below expected demand early to late July 2026, before gradually exceeding it into early August, indicating increasing forward vessel availability.
 
@@ -48,7 +48,7 @@ tags:
 ![Freight Market Overview | BDI & Segment Metrics](../../images/6a4cd3f4c741fad54137f86f_Screenshot 2026-07-07 at 11.24.22.png)
 
 > **Figure 2: Freight Market Overview | BDI & Segment Metrics**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4cd3f4c741fad54137f86f_Screenshot 2026-07-07 at 11.24.22.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](../../images/6a4cd3f4c741fad54137f86f_Screenshot 2026-07-07 at 11.24.22.png)
 
 Capesize led the market up: BCI rose to 4,100 (Day +179, Week +460), lifting the BDI to 2,717. C5TC TC avg surged to ~33,678 $/day (+1,618 on the day). Smaller segments showed mixed performance: Panamax was marginally firmer (BPI 2,203, Day +8, Atlantic-led). Supramax eased to 1,673 (Day -2) off its high, and Handysize slipped to 942 (Day -2) after a run of 52-wk highs. Global ballaster counts continued to build across all vessel classes (Handysize +23%, Panamax +13%, Capesize +12% WoW), pointing to gradually rising forward vessel availability.
 
@@ -66,7 +66,7 @@ BCI rose to 4,100 (+179 day-on-day; +460 week-on-week), driving the dry bulk mar
 
 > **Figure 2: Baltic Capesize Index (BCI) — Spot Price Summary and BCI Performance as of 03 Jul 2026**  
 > *Figure 2: Baltic Capesize Index (BCI) — spot price summary and BCI performance as of 03 Jul 2026 (Source: The Signal Ocean Platform).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4cd55e6c0d056548119387_348786f3.jpeg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](../../images/6a4cd55e6c0d056548119387_348786f3.jpeg)
 
 Global ballaster fleet increased to 624 vessels (+6% WoW). Australasia (229) and the Indian Ocean/South Africa (203) remain the largest ballaster concentrations, while the strongest weekly increase was recorded in the Indian Ocean/South Africa (+22% WoW).
 
@@ -75,7 +75,7 @@ Global ballaster fleet increased to 624 vessels (+6% WoW). Australasia (229) and
 
 > **Figure 3: Capesize — Global Ballaster Fleet and Regional Positioning**  
 > *Figure 3: Capesize — Global Ballaster Fleet and regional positioning (Source: The Signal Ocean Platform).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4cd55e6c0d056548119366_4b44c038.jpeg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](../../images/6a4cd55e6c0d056548119366_4b44c038.jpeg)
 
 Capesize and VLOC tonne-mile indices converge toward the low-90% range, with the recent decline indicating a softening trend in tonne-mile demand for July.
 
@@ -84,7 +84,7 @@ Capesize and VLOC tonne-mile indices converge toward the low-90% range, with the
 
 > **Figure 4: VLOC vs Capesize — Tonne Miles Index View by Vessel Class**  
 > *Figure 4: VLOC vs Capesize — Tonne Miles Index View by Vessel Class (Source: The Signal Ocean Platform).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4cd55e6c0d056548119363_0dbb8294.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](../../images/6a4cd55e6c0d056548119363_0dbb8294.png)
 
 
 ## Panamax | Analysis
@@ -96,7 +96,7 @@ BPI 2,203 (Day +8, Week +93) — marginally firmer, round-voyage-led. P1A\_82 (+
 
 > **Figure 5: Baltic Panamax Index (BPI) — Spot Price Summary and BPI Performance as of 03 Jul 2026**  
 > *Figure 5: Baltic Panamax Index (BPI) — spot price summary and BPI performance as of 03 Jul 2026 (Source: The Signal Ocean Platform).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4cd55e6c0d05654811937e_82c8a2f8.jpeg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](../../images/6a4cd55e6c0d05654811937e_82c8a2f8.jpeg)
 
 P1A\_82 and P2A\_82 continued to support Panamax earnings, while South China congestion remained elevated versus its 12-month average. Most key routes continue to trade above year-ago levels despite mixed month-on-month performance.
 
@@ -105,7 +105,7 @@ P1A\_82 and P2A\_82 continued to support Panamax earnings, while South China con
 
 > **Figure 6: Panamax — Key Metrics & Route Prices as of 03 Jul 2026**  
 > *Figure 6: Panamax — Key Metrics & Route Prices as of 03 Jul 2026 (Source: The Signal Ocean Platform).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4cd55e6c0d056548119369_83f281f1.jpeg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](../../images/6a4cd55e6c0d056548119369_83f281f1.jpeg)
 
 P3 continues to exhibit supply above expected demand throughout the forward horizon, whereas P5 remains below expected demand for most periods. P1/P2/P7 and P6 show supply and demand moving closely together initially, before supply gradually outpaces expected demand later in the window.
 
@@ -114,7 +114,7 @@ P3 continues to exhibit supply above expected demand throughout the forward hori
 
 > **Figure 7: Panamax — P1/p2/p7, P3, P5 & P6: Cumulative Supply vs Expected Demand Over Days Forward**  
 > *Figure 7: Panamax — P1/P2/P7, P3, P5 & P6: cumulative Supply vs Expected Demand over days forward (Source: The Signal Ocean Platform).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4cd55e6c0d056548119360_1018b343.jpeg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](../../images/6a4cd55e6c0d056548119360_1018b343.jpeg)
 
 Global ballaster fleet rose to 759 vessels (+13% WoW). Australasia (204) and the Indian Ocean/South Africa (201) continue to host the largest ballaster concentrations, while all major regions recorded weekly increases.
 
@@ -123,7 +123,7 @@ Global ballaster fleet rose to 759 vessels (+13% WoW). Australasia (204) and the
 
 > **Figure 8: Panamax — Global Ballaster Fleet and Regional Positioning**  
 > *Figure 8: Panamax — Global Ballaster Fleet and regional positioning (Source: The Signal Ocean Platform).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4cd55e6c0d056548119381_fd0e52c9.jpeg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](../../images/6a4cd55e6c0d056548119381_fd0e52c9.jpeg)
 
 Panamax and Post-Panamax tonne-mile indices remained close to the 100% index level, ending at 103.0% and 102.9%, respectively, with both series converging toward similar levels by early July 2026.
 
@@ -131,7 +131,7 @@ Panamax and Post-Panamax tonne-mile indices remained close to the 100% index lev
 ![Panamax | Analysis](../../images/6a4cd55e6c0d05654811937b_3f9bb03f.jpeg)
 
 > **Figure 10: Panamax | Analysis**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4cd55e6c0d05654811937b_3f9bb03f.jpeg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](../../images/6a4cd55e6c0d05654811937b_3f9bb03f.jpeg)
 
 **Figure 9:** Panamax vs Post-Panamax — [Tonne Miles Index View by Vessel Class (Source: The Signal Ocean Platform).](https://app.signalocean.com/dry/dynamic/timeseries\_dry)
 
@@ -144,7 +144,7 @@ BSI eased to 1,673 (-2 day-on-day; +3 week-on-week), pulling back modestly after
 
 > **Figure 10: Baltic Supramax Index (BSI) — Spot Price Summary and BSI Performance as of 03 Jul 2026**  
 > *Figure 10: Baltic Supramax Index (BSI) — spot price summary and BSI performance as of 03 Jul 2026 (Source: The Signal Ocean Platform).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4cd55e6c0d056548119384_ebdc74a9.jpeg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](../../images/6a4cd55e6c0d056548119384_ebdc74a9.jpeg)
 
 BSI eased from recent highs, although most key Supramax routes continue to trade above year-ago levels. Net vessel supply remained highest in the U.S. Gulf and Indonesia, while ECSA availability stayed below its historical average. North/Central China continued to show elevated congestion relative to the past 12 months.
 
@@ -155,7 +155,7 @@ S4A/S1C and S4B maintain supply above expected demand throughout the forward hor
 
 > **Figure 11: Supramax — S4a/s1c, S4B, S5 & S8/s10: Cumulative Supply vs Expected Demand Over Days Forward**  
 > *Figure 11: Supramax — S4A/S1C, S4B, S5 & S8/S10: cumulative Supply vs Expected Demand over days forward (Source: The Signal Ocean Platform).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4cd55e6c0d05654811936c_50551ecb.jpeg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](../../images/6a4cd55e6c0d05654811936c_50551ecb.jpeg)
 
 Global ballaster fleet rose to 705 vessels (+23% WoW). Australasia (+39% WoW) recorded the strongest regional increase, while FEAST/NOPAC continued to host the largest ballaster concentration alongside Australasia.
 
@@ -164,7 +164,7 @@ Global ballaster fleet rose to 705 vessels (+23% WoW). Australasia (+39% WoW) re
 
 > **Figure 12: Supramax — Global Ballaster Fleet and Regional Positioning**  
 > *Figure 12: Supramax — Global Ballaster Fleet and regional positioning (Source: The Signal Ocean Platform).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4cd55e6c0d05654811936f_e6d36c22.jpeg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](../../images/6a4cd55e6c0d05654811936f_e6d36c22.jpeg)
 
 
 ## Supramax | Demand
@@ -176,13 +176,13 @@ Handymax is the standout with the strongest tonne-mile signal; Supramax firm but
 
 > **Figure 13: Supramax · Handymax · Handysize — Tonne Miles Index View by Vessel Class**  
 > *Figure 13: Supramax · Handymax · Handysize — Tonne Miles Index View by Vessel Class (Source: The Signal Ocean Platform).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4cd55e6c0d056548119372_06c91efd.jpeg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](../../images/6a4cd55e6c0d056548119372_06c91efd.jpeg)
 
 
 ![Supramax | Demand](../../images/6a4cd48c6c0d056548112016_Screenshot 2026-07-07 at 11.27.06.png)
 
 > **Figure 15: Supramax | Demand**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4cd48c6c0d056548112016_Screenshot 2026-07-07 at 11.27.06.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](../../images/6a4cd48c6c0d056548112016_Screenshot 2026-07-07 at 11.27.06.png)
 
 
 ## Handysize | Analysis
@@ -194,7 +194,7 @@ BHSI edged lower to 942 (-2 day-on-day; -3 week-on-week) following a recent test
 
 > **Figure 14: Baltic Handysize Index (BHSI) — Spot Price Summary and BHSI Performance as of 03 Jul 2026**  
 > *Figure 14: Baltic Handysize Index (BHSI) — spot price summary and BHSI performance as of 03 Jul 2026 (Source: The Signal Ocean Platform).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4cd55e6c0d056548119375_c146d0b0.jpeg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](../../images/6a4cd55e6c0d056548119375_c146d0b0.jpeg)
 
 Handysize route performance remained firm, with most benchmarks continuing to trade above year-ago levels. Net vessel supply remained highest in the Far East (108) and UK Continent/Baltic (104), while congestion eased in the Continent and WAus/Indonesia/Philippines.
 
@@ -205,7 +205,7 @@ HS1/HS2 remains above expected demand throughout the forward window. HS5 moves a
 
 > **Figure 15: Handysize — Hs1/hs2, HS5, HS6 & HS7: Cumulative Supply vs Expected Demand Over Days Forward**  
 > *Figure 15: Handysize — HS1/HS2, HS5, HS6 & HS7: cumulative Supply vs Expected Demand over days forward (Source: The Signal Ocean Platform).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4cd55e6c0d05654811938c_35fc196a.jpeg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](../../images/6a4cd55e6c0d05654811938c_35fc196a.jpeg)
 
 Global ballaster fleet rose to 682 vessels (+12% WoW). The North Atlantic (223) remained the largest ballaster concentration, while FEAST/NOPAC (+18% WoW) recorded the strongest regional increase.
 
@@ -214,7 +214,7 @@ Global ballaster fleet rose to 682 vessels (+12% WoW). The North Atlantic (223) 
 
 > **Figure 16: Handysize — Global Ballaster Fleet and Regional Positioning**  
 > *Figure 16: Handysize — Global Ballaster Fleet and regional positioning (Source: The Signal Ocean Platform).*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4cd55e6c0d05654811938f_7b6f8ac8.jpeg)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](../../images/6a4cd55e6c0d05654811938f_7b6f8ac8.jpeg)
 
 
 ## Overall Market Trend | Conclusions
@@ -223,7 +223,7 @@ Global ballaster fleet rose to 682 vessels (+12% WoW). The North Atlantic (223) 
 ![Overall Market Trend | Conclusions](../../images/6a4cd4d355a76a7d6ff73bef_Screenshot 2026-07-07 at 11.28.24.png)
 
 > **Figure 19: Overall Market Trend | Conclusions**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a4cd4d355a76a7d6ff73bef_Screenshot 2026-07-07 at 11.28.24.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](../../images/6a4cd4d355a76a7d6ff73bef_Screenshot 2026-07-07 at 11.28.24.png)
 
 The Capesize segment was the only sector to exhibit strong upward momentum. The Baltic Capesize Index (BCI) increased by 460 points over the week to 4,100 (representing a daily change of +179 points), while the C5TC index advanced by $1,618 on the day to approximately $33,678. The tonne-mile indices for both Capesize and VLOC vessels remained within the mid-90% range, indicating a softening trend. Analysis of the C3 (Tubarao–Qingdao) route indicates that vessel supply is currently below anticipated near-term demand, which aligns with the observed earnings strength; conversely, the C5 (West Australia–Qingdao) route displays an existing forward surplus of tonnage.
 

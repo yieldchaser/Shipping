@@ -52,7 +52,7 @@ For the second half, weather and hydroelectric production will be decisive. A ho
 
 > **Figure 1: Estimated Monthly Coal Share of Electricity Generation, with a 12-Month Average**  
 > *Figure 1. Estimated monthly coal share of electricity generation, with a 12-month average. The May 2026 estimate was 50.4%. Sources: National Bureau of Statistics, China Electricity Council via Ember, and Signal Group Trade Flows.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-supply-and-demand-outlook-august-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a7edcc94785dd5320613061_c0531eac.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-supply-and-demand-outlook-august-2026) | [Local Asset](../../images/6a7edcc94785dd5320613061_c0531eac.png)
 
 
 ## Supply: Domestic Production Remains the Foundation
@@ -68,7 +68,7 @@ Even with those limits, the direction is clear: domestic mines cover most nation
 
 > **Figure 2: Domestic Raw Coal Output and Seaborne Thermal Coal Arrivals on a Daily Basis**  
 > *Figure 2. Domestic raw coal output and seaborne thermal coal arrivals on a daily basis. The two series are not directly comparable because domestic output is measured before processing. Sources: National Bureau of Statistics and Signal Group Trade Flows.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-supply-and-demand-outlook-august-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a7edcc94785dd5320613064_2737ac1f.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-supply-and-demand-outlook-august-2026) | [Local Asset](../../images/6a7edcc94785dd5320613064_2737ac1f.png)
 
 
 ## Indonesia Should Keep Nearby Supply Available
@@ -91,7 +91,7 @@ The central outlook of 21-23 million tonnes a month is close to the 21.8 million
 
 > **Figure 3: Monthly Seaborne Thermal Coal Arrivals**  
 > *Figure 3. Monthly seaborne thermal coal arrivals. June and July 2026 remain preliminary because late voyage records can be added after month-end. Source: Signal Group Trade Flows.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-supply-and-demand-outlook-august-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a7edcc94785dd532061305e_0c109878.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-supply-and-demand-outlook-august-2026) | [Local Asset](../../images/6a7edcc94785dd532061305e_0c109878.png)
 
 
 ## Outlook Scenarios
@@ -102,7 +102,7 @@ The outlook depends on two linked questions: how much coal-fired generation Chin
 ![Outlook Scenarios](../../images/6a7edc7fe34c8ef9f246b149_Screenshot 2026-08-14 at 10.14.16.png)
 
 > **Figure 4: Outlook Scenarios**  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-supply-and-demand-outlook-august-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a7edc7fe34c8ef9f246b149_Screenshot 2026-08-14 at 10.14.16.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-supply-and-demand-outlook-august-2026) | [Local Asset](../../images/6a7edc7fe34c8ef9f246b149_Screenshot 2026-08-14 at 10.14.16.png)
 
 
 ## Shipping Implications: Panamax Carries Most of the Trade
@@ -120,7 +120,7 @@ Origin remains decisive for tonne-miles. In 2025, Indonesia supplied 69.3% of Ch
 
 > **Figure 4: Origin Mix of China's 2025 Panamax Thermal Coal Imports**  
 > *Figure 4. Origin mix of China's 2025 Panamax thermal coal imports. Indonesian cargoes dominate volume; Australian cargoes contribute a larger share of tonne-miles because the voyage is longer. Source: Signal Group Trade Flows.*  
-> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-supply-and-demand-outlook-august-2026) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/6a7edcc94785dd5320613067_1868dcd4.png)
+> **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-china-supply-and-demand-outlook-august-2026) | [Local Asset](../../images/6a7edcc94785dd5320613067_1868dcd4.png)
 
 The Baltic Exchange's P5TC Panamax time-charter average was US$19,530 a day in July 2026, while the S11TC Supramax average was US$21,433 a day. These are whole-market freight measures, not China-coal prices. Grain, minerals, competing routes and fleet supply also influence them, so the supply-and-demand outlook should not be read as a direct freight-rate forecast.
 

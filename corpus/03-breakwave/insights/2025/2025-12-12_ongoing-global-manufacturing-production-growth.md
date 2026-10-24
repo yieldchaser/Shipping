@@ -27,28 +27,28 @@ While during much of last year there was sustained industrial weakness in the gl
 ![Chart 1](assets/2025-12-12_ongoing-global-manufacturing-production-growth_img_chart1_21a75c45d83e.jpg)
 
 > **Figure 1: Chart 1**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-12_ongoing-global-manufacturing-production-growth_img_chart1_21a75c45d83e.jpg)
+> [Local Asset](assets/2025-12-12_ongoing-global-manufacturing-production-growth_img_chart1_21a75c45d83e.jpg)
 
 In the United States, manufacturing production has grown on a year-on-year basis for eight straight months. Previously, it had contracted on a year-on-year basis during nineteen of the prior twenty-two months.
 
 ![Chart 2](assets/2025-12-12_ongoing-global-manufacturing-production-growth_img_chart2_4717c11b53c8.jpg)
 
 > **Figure 2: Chart 2**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-12_ongoing-global-manufacturing-production-growth_img_chart2_4717c11b53c8.jpg)
+> [Local Asset](assets/2025-12-12_ongoing-global-manufacturing-production-growth_img_chart2_4717c11b53c8.jpg)
 
 In South Korea, manufacturing production has grown on a year-on-year basis in seven of the last eight months. Previously, it had contracted on a year-on-year basis during three of the prior five months.
 
 ![Chart 3](assets/2025-12-12_ongoing-global-manufacturing-production-growth_img_chart3_8c90cfe795e6.jpg)
 
 > **Figure 3: Chart 3**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-12_ongoing-global-manufacturing-production-growth_img_chart3_8c90cfe795e6.jpg)
+> [Local Asset](assets/2025-12-12_ongoing-global-manufacturing-production-growth_img_chart3_8c90cfe795e6.jpg)
 
 Overall, it remains helpful for the dry bulk shipping market that the industrial improvement occurring in the global economy remains in place. And of course helpful for iron ore trade is that steel production ex-China in recent months has finally been enjoying growth. This remains a relatively new development. Steel production ex-China has now grown on a year-on-year basis for four straight months. Previously, it had contracted during eight of the prior ten months.
 
 ![Chart 4](assets/2025-12-12_ongoing-global-manufacturing-production-growth_img_chart4_3ca44d094fb4.jpg)
 
 > **Figure 4: Chart 4**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-12-12_ongoing-global-manufacturing-production-growth_img_chart4_3ca44d094fb4.jpg)
+> [Local Asset](assets/2025-12-12_ongoing-global-manufacturing-production-growth_img_chart4_3ca44d094fb4.jpg)
 
 ---
 

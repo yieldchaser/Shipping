@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-06-16_tense-times.html"
 ![Tanker Off Port](assets/2025-06-16_tense-times_img_tanker-off-port_2b501372fef3.jpg)
 
 > **Figure 1: Tanker Off Port**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-16_tense-times_img_tanker-off-port_2b501372fef3.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-06-16_tense-times_img_tanker-off-port_2b501372fef3.jpg)
 
 Tensions between Israel and Iran are nothing new, but they came to a head overnight. The situation remains fluid and at this point in time could turn in a number of different directions. Israel has been clear that further attacks are planned. The United States, claimed not to be involved in supporting the attacks, but has warned that more intense strikes are planned, unless Iran agrees to a nuclear deal. Talks with Iran are/were planned for this coming weekend, but only time will tell if those talks do indeed proceed. So, with all that in mind, how might the tanker markets be impacted?
 
@@ -42,7 +42,7 @@ Diplomatic options may also be considered, although it feels like the opportunit
 ![Στιγμιότυπο Οθόνης 2025 06 16 104516](assets/2025-06-16_tense-times_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5978a6f85a4c.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 06 16 104516**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-06-16_tense-times_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5978a6f85a4c.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-06-16_tense-times_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5978a6f85a4c.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 

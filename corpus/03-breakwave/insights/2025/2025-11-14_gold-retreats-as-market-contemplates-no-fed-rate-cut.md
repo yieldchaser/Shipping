@@ -27,7 +27,7 @@ Concerns that a lack of data will keep the Fed from cutting rates weighed on ind
 ![Στιγμιότυπο Οθόνης 2025 11 14 102251](assets/2025-11-14_gold-retreats-as-market-contemplates-no-fed-rate-cut_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6c6c12d7ac83.png)
 
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 11 14 102251**  
-> [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-14_gold-retreats-as-market-contemplates-no-fed-rate-cut_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6c6c12d7ac83.png)
+> [Local Asset](assets/2025-11-14_gold-retreats-as-market-contemplates-no-fed-rate-cut_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6c6c12d7ac83.png)
 
 ### Market Commentary
 
@@ -48,7 +48,7 @@ Oil tanker rates have climbed to a five year high as rising volumes of crude on 
 ![Στιγμιότυπο Οθόνης 2025 11 14 102347](assets/2025-11-14_gold-retreats-as-market-contemplates-no-fed-rate-cut_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_324750c0d925.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 11 14 102347**  
-> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-11-14_gold-retreats-as-market-contemplates-no-fed-rate-cut_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_324750c0d925.png)
+> **Interactive Data & Source:** [Linkedin](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI) | [Local Asset](assets/2025-11-14_gold-retreats-as-market-contemplates-no-fed-rate-cut_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_324750c0d925.png)
 
 Data source:[Commodities Wrap](https://www.linkedin.com/newsletters/commodities-wrap-6692196755876012032/?fbclid=IwAR3kiXJqZdxmp9ZcRwBNI7FsBySI-XSC0pfPur1qzjt7OZp7PTE59Tsl1QI)
 

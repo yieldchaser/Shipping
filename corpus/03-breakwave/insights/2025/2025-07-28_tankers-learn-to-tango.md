@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-07-28_tankers-learn-to-tang
 ![Crude Tanker](assets/2025-07-28_tankers-learn-to-tango_img_crude-tanker_fb6f869b3cec.jpg)
 
 > **Figure 1: Crude Tanker**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/report/cash-cow/) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-28_tankers-learn-to-tango_img_crude-tanker_fb6f869b3cec.jpg)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/report/cash-cow/) | [Local Asset](assets/2025-07-28_tankers-learn-to-tango_img_crude-tanker_fb6f869b3cec.jpg)
 
 Argentina has turned into one of the biggest growth stories in oil production globally. Home to the world’s fourth largest shale oil reserves, the country has long struggled to properly exploit its resources. In recent years, rapid economic and fiscal reforms have enabled investment and production to take off. We covered this progress in our[**report**](https://www.gibsons.co.uk/report/cash-cow/)last year, at which point shale oil production stood at around 300 kbd. This year has seen production rise to 450 kbd, revealing the rapid pace of development taking place. Total oil production is expected to average 890 kbd in 2025, increasing steadily to 1.3 mbd by 2030, of which 900 kbd will be light tight oil, whilst conventional supply will decline over the same period.
 
@@ -40,7 +40,7 @@ Overall, the country will grow to be a notable crude exporter by the end of the 
 ![Στιγμιότυπο Οθόνης 2025 07 28 121357](assets/2025-07-28_tankers-learn-to-tango_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e9a4b3670b1.png)
 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 07 28 121357**  
-> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](file:///C:/Users/Dell/Github/Shipping/corpus/03-breakwave/insights/2025/assets/2025-07-28_tankers-learn-to-tango_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e9a4b3670b1.png)
+> **Interactive Data & Source:** [Gibsons Co](https://www.gibsons.co.uk/market-reports) | [Local Asset](assets/2025-07-28_tankers-learn-to-tango_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e9a4b3670b1.png)
 
 Data source:[Gibson Shipbrokers](https://www.gibsons.co.uk/market-reports)
 
