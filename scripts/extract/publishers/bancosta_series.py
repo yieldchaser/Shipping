@@ -10,7 +10,10 @@ are named banchero_costa_DD_MM_YYYY_..._week_NN_YYYY.md) with the row rules of t
   * indicative newbuilding prices (record_type indicative_price) and Baltic ship recycling assessments
     (record_type recycling_assessment): the M-o-M / W-o-W tables; issue_date = the MD's issue_date.
 
-The sales series is kept by the CI orchestrator and the prose newbuilding orders are not rebuilt here.
+  * reported newbuilding orders (record_type order): one row per clause of the NEWBUILDING ORDERS prose that
+    reports an order (nb_orders); issue_date = the MD's issue_date.
+
+The sales series is kept by the CI orchestrator.
 --check rebuilds every issue already in a series and compares it row for row (the control); --new-only
 appends issues whose week is not in a series yet and never rewrites existing rows.
 
@@ -41,11 +44,12 @@ FILES = {
     "fx": "bancosta_fx_series.csv",
     "fixtures": "bancosta_container_fixtures_series.csv",
     "newbuilding": "bancosta_newbuilding_series.csv",
+    "orders": "bancosta_newbuilding_series.csv",        # (same file, its record_type order rows)
     "demolition": "bancosta_demolition_series.csv",
 }
 # the record types this script owns in the shared newbuilding / demolition files
-OWNED = {"newbuilding": "indicative_price", "demolition": "recycling_assessment"}
-REPAIRABLE = ("secondhand_matrix", "vhss", "fx", "fixtures", "newbuilding", "demolition")
+OWNED = {"newbuilding": "indicative_price", "orders": "order", "demolition": "recycling_assessment"}
+REPAIRABLE = ("secondhand_matrix", "vhss", "fx", "fixtures", "newbuilding", "orders", "demolition")
 
 
 def front(text: str) -> dict[str, str]:
@@ -83,6 +87,109 @@ def pick(tabs, change_col: str, unit_rx: str):
         if len(hdr) >= 6 and any(x.upper() == change_col for x in hdr)                 and any(len(r) > 1 and re.fullmatch(unit_rx, r[1].strip(), re.I) for r in rows):
             return hdr, rows
     return None, []
+
+
+ORDER_VERB = re.compile(r"\b(order(?:ed|s)?|placed|signed|contracted|booked|inked|declared|selected)\b", re.I)
+# vessel-type words (plural "es"/"s" allowed by the matchers); sizes ("7,000 teu", "174,000 cbm") name a sector but
+# are never a vessel count
+TYPES = {"Dry Bulk": r"capesize|newcastlemax|kamsarmax|panamax|post-panamax|ultramax|supramax|handysize|handymax|handy|"
+                     r"handies|bulk ?carrier|bulker|drybulk|dry bulk|woodchip carrier|vloc|ore (?:carrier|trader)",
+         "Tanker": r"tanker|vlcc|suezmax|aframax|lr[12]|mr[12]?|chemical carrier|product carrier",
+         "Container": r"containership|container ship|container vessel|container unit|feeder|ulcv|ulcc",
+         "Gas": r"lpg|lng|vlgc|vlec|vlac|ethane carrier|ammonia carrier|lco2 carrier|gas carrier",
+         "Car Carrier": r"car carrier|pctc|pcc",
+         "Cruise / Pax": r"cruise ship|cruise vessel|ferry|ferries|ro-?pax|passenger ship",
+         "Offshore": r"offshore vessel|offshore support vessel|installation vessel|psv|ahts|ctv|sov",
+         "General Cargo / MPP": r"multi-?purpose|general cargo|mpp|heavy ?lift"}
+SIZES = {"Container": r"teu", "Gas": r"cbm|cu\.? ?m\.?", "Car Carrier": r"ceu"}
+SECTORS = tuple((sec, rf"(?:{TYPES[sec]})(?:e?s)?" + (rf"|[\d,.]+ ?(?:{SIZES[sec]})|{SIZES[sec]}" if sec in SIZES else ""))
+                for sec in TYPES)
+NUMWORDS = {w: str(i) for i, w in enumerate("one two three four five six seven eight nine ten eleven twelve".split(), 1)}
+NUMWORDS.update(single="1", another="1")
+# a sentence that only adds the price / delivery of the order just reported ("Price is $53 mln each and ...")
+FOLLOW_ON = re.compile(r"(Price|Prices|Priced|The price|Deliver(?:y|ies)|The (?:vessels|ships|units|newbuildings)|They|These)\b")
+NOUN = "|".join(TYPES.values()) + r"|unit|vessel|ship|newbuilding|order|option"
+SIZE = r"[\d,.]+\s*(?:k\s*)?(?:dwt|teu|cbm|cu\.? ?m\.?|ceu|gt)"
+# a count tied to a vessel: "8 x 8000 teu", "4x 63,500 dwt", "2 ultramax", "2 x 40,000 dwt handies", "three firm LNG"
+COUNT_RX = re.compile(r"(?<![\w,.$])(\d{1,2}(?![\d.,])|" + "|".join(NUMWORDS) + r")\s*(?:\+\s*\d{1,2}\s*)?"
+                      r"(?:(?:x|×)\s*(?=[\d(])|(?:x|×)?\s*(?:(?:new|more|additional|further|sister|firm|plus optional \w+)\s+)?"
+                      rf"(?:{SIZE}\s+)?(?:[\w-]+\s+)?(?:{NOUN})(?:e?s)?(?![\w-])(?:\s+(?:units?|vessels?))?)", re.I)
+TOTAL = re.compile(r"(?:total(?: of| to)?|bringing[\w\s]{0,30}?to|rise up to|up to|series to|fleet of)\s*$", re.I)
+PRICE_EACH_RX = re.compile(r"(?:USD|US\$|\$)\s*([\d]+(?:[.,]\d+)?)\s*(?:mln|million|m)\b[^.;]{0,25}?\b(?:each|per unit|"
+                           r"per vessel|per ship|apiece)\b|\b(?:each|per)\s+(?:vessel|unit|ship)\s+(?:is|was|at)\s+"
+                           r"(?:around |about |abt |rgn |region |approx\.? )?(?:USD|US\$|\$)\s*([\d]+(?:[.,]\d+)?)\s*(?:mln|million|m)\b",
+                           re.I)
+
+
+def counts(s: str) -> set[str]:
+    """Vessel counts the clause states (running totals such as "a total of 14 vessels" are not an order)."""
+    return {NUMWORDS.get(m.group(1).lower(), m.group(1)) for m in COUNT_RX.finditer(s) if not TOTAL.search(s[:m.start()])}
+
+
+def prices(s: str) -> set[str]:
+    return {(m.group(1) or m.group(2)).replace(",", ".") for m in PRICE_EACH_RX.finditer(s)}
+DELY_RX = re.compile(r"\bdel(?:ivery|iveries|y)\b[^.;]{0,40}?\b((?:(?:Q[1-4]|[1-4]Q|H[12]|early|mid|late|end|beginning of|"
+                     r"(?:jan|feb|mar|apr|may|jun|jul|aug|sep|sept|oct|nov|dec)[a-z]*)\s+)?20[2-3]\d"
+                     r"(?:\s*[-/]\s*20[2-3]\d)?)", re.I)
+ABBREV = re.compile(r"\b(Co|Ltd|Inc|Corp|abt|approx|No|St|Mr|Bros|Jr|vs|S\.A|S\.p\.A)\.", re.I)
+
+
+def order_sentences(text: str) -> list[str]:
+    """Sentences / ';' clauses of the NEWBUILDING ORDERS prose, never across a paragraph ("Co." and the like do
+    not end one)."""
+    out = []
+    for para in text.splitlines():
+        t = ABBREV.sub(lambda m: m.group(0)[:-1] + "\x00", " ".join(para.split()))
+        t = re.sub(r"\bcu\.m\.", "cu\x00m\x00", t, flags=re.I)
+        parts = re.split(r"(?<=[.!?])\s+(?=[A-Z0-9\"'(])|;\s+", t)
+        out += [p.replace("\x00", ".").strip() for p in parts if p.strip()]
+    return out
+
+
+def nb_orders(text: str) -> list[dict]:
+    """One row per clause that reports an order. sector = the first whole-word vessel type of the clause;
+    vessel_count / price_usd_m_each / delivery only when the clause states exactly one (else blank: a clause can
+    hold several orders and the full text stays in comments)."""
+    out = []
+    for s in order_sentences(text):
+        if out and FOLLOW_ON.match(s) and not ORDER_VERB.search(s) and not COUNT_RX.search(s):
+            o = out[-1]
+            o["comments"] += " " + s
+            pr = prices(s)
+            dl = {m.group(1) for m in DELY_RX.finditer(s)}
+            if not o["price_usd_m_each"] and len(pr) == 1:
+                o["price_usd_m_each"] = str(float(pr.pop()))
+            if not o["delivery"] and len(dl) == 1 and len(set(re.findall(r"20[23]\d", s))) <= 1:
+                o["delivery"] = dl.pop()
+            continue
+        hits = sorted((m.start(), sec) for sec, rx in SECTORS
+                      for m in [re.search(rf"(?<![\w-])(?:{rx})(?![\w-])", s, re.I)] if m)
+        cnt, pr = counts(s), prices(s)
+        if not ORDER_VERB.search(s) or not hits or not (cnt or pr) or re.search(r"\bindicative\b", s, re.I):
+            continue          # (a clause naming no vessel count and no unit price is market comment, not an order)
+        dl = {m.group(1) for m in DELY_RX.finditer(s)}
+        k = s.lower().find("del")
+        if len(set(re.findall(r"20[23]\d", s[k:]))) > 1 and not any(re.search(r"20[23]\d\s*[-/]\s*20[23]\d", d) for d in dl):
+            dl = set()            # ("deliveries 09/2023 and 01/2024": one year of several is not the delivery)
+        out.append({"sector": hits[0][1], "vessel_count": cnt.pop() if len(cnt) == 1 else "",
+                    "price_usd_m_each": str(float(pr.pop())) if len(pr) == 1 else "",
+                    "delivery": dl.pop() if len(dl) == 1 else "", "comments": s})
+    return out
+
+
+def nb_section(lines: list[str]) -> str:
+    """Prose under the NEWBUILDING ORDERS heading and its sector sub-headings ("## **Drybulk**"), up to the next
+    other heading (tables and notes left out)."""
+    body, on = [], False
+    for ln in lines:
+        if ln.startswith("#"):
+            h = ln.replace("*", "").strip("# ").upper()
+            sub = on and ln.startswith("##") and len(h) <= 25 and not re.search(r"INDICATIVE|PRICE|SALE|DEMOLITION", h)
+            on = "NEWBUILDING ORDERS" in h or sub
+            continue
+        if on and ln.strip() and not ln.startswith(("|", ">")):
+            body.append(ln.strip())
+    return "\n".join(body)
 
 
 def build(md: Path) -> tuple[int, int, dict[str, list[dict]]] | None:
@@ -130,6 +237,8 @@ def build(md: Path) -> tuple[int, int, dict[str, list[dict]]] | None:
             "segment_location": strip_label(r[0]), "unit": r[1].lower().replace("lidt", "ldt"), "price_current": fnum(r[2]),
             "price_previous": fnum(r[3]), "period_current": h[2], "period_previous": h[3],
             "w_o_w": pct(r[4]), "y_o_y": pct(r[5]), "source_file": src})
+    out["orders"] = [{"issue_date": fm.get("issue_date", ""), "report_week": week, "record_type": "order",
+                      "unit": "usd mln", **o, "source_file": src} for o in nb_orders(nb_section(text.splitlines()))]
     return year, week, out
 
 
