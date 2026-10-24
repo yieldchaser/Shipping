@@ -63,6 +63,8 @@ jobs:
           # Intermodal: rebuild tables the parse left as a header row only (new issues; checked against the PDF page)
           python scripts/md_cleanup/intermodal_table_rebuild.py --untracked --parse -j 2 --apply || true
           python scripts/md_cleanup/intermodal_chart_guess_note.py --apply || true
+          # reported demolition sales the rebuild just filled reach the series (issues not in it yet)
+          python scripts/extract/publishers/intermodal_demo_join.py --apply || true
           python scripts/extract/publishers/run_ssy_charts.py --new-only --out-dir "$RUNNER_TEMP/ssy_charts" || true
           python scripts/extract/publishers/merge_ssy_charts.py --new-only --charts-dir "$RUNNER_TEMP/ssy_charts" || true
           python scripts/extract/publishers/run_ism_series.py --new-only || true

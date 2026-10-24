@@ -640,6 +640,25 @@ def extract_carriers(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
             "issue_date", "report_week", "sector", "vessel_class", "size_dwt",
             "price_usd_m", "sentiment_arrow", "source_file"
         ], ["issue_date", "vessel_class"])
+        # the other tables of the issue, with the columns of run_carriers_complete.py
+        for name, rows, cols in (
+            ("demolition", doc_demo, ["issue_date", "report_week", "vessel_name", "type", "dwt", "ldt", "built", "yard",
+                                      "price_usd_per_ldt", "buyers", "comments", "page", "source_file"]),
+            ("newbuilding", doc_nb, ["issue_date", "report_week", "type", "units", "size", "yard", "delivery", "price_raw",
+                                     "price_usd_mill", "owners", "comments", "page", "source_file"]),
+            ("bda", doc_bda, ["issue_date", "report_week", "segment", "place", "ldt_range", "price_usd_per_ldt",
+                              "sentiment_arrow", "source_file"]),
+            ("indices", doc_indices, ["issue_date", "report_week", "index_category", "index_name", "current_value",
+                                      "change_val", "prev_value", "sentiment_arrow", "source_file"]),
+            ("dry_weighted_routes", doc_weighted, ["issue_date", "report_week", "route_vessel_class", "current_rate_usd_day",
+                                                   "week_change_usd_day", "prev_rate_usd_day", "source_file"]),
+            ("dry_tc_period", doc_tc_period, ["issue_date", "report_week", "vessel_class", "tenor", "rate_usd_day",
+                                              "rate_atl_usd_day", "rate_pac_usd_day", "rate_raw", "source_file"]),
+            ("tanker_tce", doc_tanker_tce, ["issue_date", "report_week", "metric_name", "current_value", "week_change",
+                                            "prev_value", "source_file"]),
+        ):
+            upsert_rows_to_csv(SERIES_DIR / f"carriers_{name}_series.csv", rows, cols,
+                               [c for c in cols if c not in ("page", "source_file")])
 
     return {"stem": stem, "issue_date": issue_date, "report_week": report_week, "sales_count": len(doc_sales), "target_md": str(target_md)}
 

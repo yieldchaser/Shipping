@@ -35,6 +35,7 @@ SOURCES = [
     (r"^drewry_ais_", "drewry/ais", 10),
     (r"^drewry_", "drewry/opinions", 10),
     (r"^(compare_vs_)?clarksons_", "clarksons", 10),
+    (r"^ism_handy_", "ism", 35),          # the Handy edition comes every 4th week, coasters in between
     (r"^([a-z]+)_", None, 10),             # default: the first word is the MD folder
 ]
 
@@ -67,6 +68,7 @@ OCCASIONAL = {   # printed only in some issues: name -> reason
     "star_asia_ldt_comparison_series": "comparison printed in some issues only",
     "singletons_sales_series": "one-off broker documents",
     "seabrokers_renewables_and_ets_series": "feature article in some issues only",
+    "carriers_demolition_series": "weeks with no demolition deal print \"None Reported\" (W39-W41 2026, checked on the PDFs)",
 }
 DATE_COLS = ("issue_date", "report_date", "date", "as_of_date", "week_ending")
 ISO = re.compile(r"(20\d\d)-(\d\d)-(\d\d)")
