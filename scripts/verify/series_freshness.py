@@ -66,6 +66,7 @@ OCCASIONAL = {   # printed only in some issues: name -> reason
     "poten_vlcc_historical_rates_series": "table in some opinions only",
     "star_asia_ldt_comparison_series": "comparison printed in some issues only",
     "singletons_sales_series": "one-off broker documents",
+    "seabrokers_renewables_and_ets_series": "feature article in some issues only",
 }
 DATE_COLS = ("issue_date", "report_date", "date", "as_of_date", "week_ending")
 ISO = re.compile(r"(20\d\d)-(\d\d)-(\d\d)")

@@ -2327,3 +2327,27 @@ report_date,year,month,period,vessel_class,metric,value,unit,source,source_page
 2026-08-01,2026,8,2026-06,PSVs > 900m2,spot_avg_utilisation,65.0,percent,seabrokers,5.0
 2026-08-01,2026,8,2026-07,PSVs > 900m2,spot_avg_utilisation,62.0,percent,seabrokers,5.0
 2026-08-01,2026,8,2026-08,PSVs > 900m2,spot_avg_utilisation,79.0,percent,seabrokers,5.0
+2026-09-01,2026,9,2026-04,"AHTS < 22,000 bhp",spot_avg_utilisation,56.0,percent,seabrokers,5.0
+2026-09-01,2026,9,2026-05,"AHTS < 22,000 bhp",spot_avg_utilisation,33.0,percent,seabrokers,5.0
+2026-09-01,2026,9,2026-06,"AHTS < 22,000 bhp",spot_avg_utilisation,51.0,percent,seabrokers,5.0
+2026-09-01,2026,9,2026-07,"AHTS < 22,000 bhp",spot_avg_utilisation,41.0,percent,seabrokers,5.0
+2026-09-01,2026,9,2026-08,"AHTS < 22,000 bhp",spot_avg_utilisation,46.0,percent,seabrokers,5.0
+2026-09-01,2026,9,2026-09,"AHTS < 22,000 bhp",spot_avg_utilisation,52.0,percent,seabrokers,5.0
+2026-09-01,2026,9,2026-04,"AHTS > 22,000 bhp",spot_avg_utilisation,63.0,percent,seabrokers,5.0
+2026-09-01,2026,9,2026-05,"AHTS > 22,000 bhp",spot_avg_utilisation,53.0,percent,seabrokers,5.0
+2026-09-01,2026,9,2026-06,"AHTS > 22,000 bhp",spot_avg_utilisation,80.0,percent,seabrokers,5.0
+2026-09-01,2026,9,2026-07,"AHTS > 22,000 bhp",spot_avg_utilisation,55.0,percent,seabrokers,5.0
+2026-09-01,2026,9,2026-08,"AHTS > 22,000 bhp",spot_avg_utilisation,73.0,percent,seabrokers,5.0
+2026-09-01,2026,9,2026-09,"AHTS > 22,000 bhp",spot_avg_utilisation,61.0,percent,seabrokers,5.0
+2026-09-01,2026,9,2026-04,PSVs < 900m2,spot_avg_utilisation,85.0,percent,seabrokers,5.0
+2026-09-01,2026,9,2026-05,PSVs < 900m2,spot_avg_utilisation,54.0,percent,seabrokers,5.0
+2026-09-01,2026,9,2026-06,PSVs < 900m2,spot_avg_utilisation,50.0,percent,seabrokers,5.0
+2026-09-01,2026,9,2026-07,PSVs < 900m2,spot_avg_utilisation,61.0,percent,seabrokers,5.0
+2026-09-01,2026,9,2026-08,PSVs < 900m2,spot_avg_utilisation,82.0,percent,seabrokers,5.0
+2026-09-01,2026,9,2026-09,PSVs < 900m2,spot_avg_utilisation,87.0,percent,seabrokers,5.0
+2026-09-01,2026,9,2026-04,PSVs > 900m2,spot_avg_utilisation,89.0,percent,seabrokers,5.0
+2026-09-01,2026,9,2026-05,PSVs > 900m2,spot_avg_utilisation,68.0,percent,seabrokers,5.0
+2026-09-01,2026,9,2026-06,PSVs > 900m2,spot_avg_utilisation,65.0,percent,seabrokers,5.0
+2026-09-01,2026,9,2026-07,PSVs > 900m2,spot_avg_utilisation,62.0,percent,seabrokers,5.0
+2026-09-01,2026,9,2026-08,PSVs > 900m2,spot_avg_utilisation,79.0,percent,seabrokers,5.0
+2026-09-01,2026,9,2026-09,PSVs > 900m2,spot_avg_utilisation,79.0,percent,seabrokers,5.0

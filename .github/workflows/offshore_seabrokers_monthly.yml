@@ -62,6 +62,8 @@ jobs:
           python scripts/extract/publishers/run_seabrokers_llamaparse.py || true
           # availability chart: values from the chart's vector geometry, not the parser's eyeball read (new issues)
           python scripts/md_cleanup/seabrokers_availability_vector.py --untracked --apply || true
+          # stack new issues' tables into the seabrokers_* series (append-only; reads the .tables.json sidecars)
+          python scripts/extract/publishers/seabrokers_series.py --new-only || true
           python scripts/verify/build_corpus_inventory.py --merge-existing || true
           python scripts/sync_extraction_register.py || true
           python scripts/audit/generate_cadence_audit.py || true

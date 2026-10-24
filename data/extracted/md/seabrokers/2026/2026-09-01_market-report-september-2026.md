@@ -316,7 +316,7 @@ ICBC Financial Leasing has sold one more vessel from the BOURBON fleet at auctio
 | Bourbon Front (2012)                           | PSV        | USD 19 million    | Bourbon                    |
 | Bourbon Gomen (2012)                           | AHTS       | USD 9.54 million  | Britoil Offshore Services  |
 | Bourbon Horus (2009)                           | PSV        | USD 4.41 million  | Seahorse Marine & Energy   |
-| Bourbon Jindamantee (2010)                     | AHTS       | USD 5.73 million  | Shenzhen Huawei Offshore   |
+| Bourbon Jindamanee (2010)                     | AHTS       | USD 5.73 million  | Shenzhen Huawei Offshore   |
 | Bourbon Kaimook (2012)                         | AHTS       | USD 8.32 million  | Tan Cang Offshore Services |
 | Bourbon Liberty 152 (2013)                     | PSV        | USD 5 million     | TBC                        |
 | Bourbon Liberty 153 (2013)                     | PSV        | USD 3.62 million  | Seahorse Marine & Energy   |

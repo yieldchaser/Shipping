@@ -376,7 +376,7 @@ Since the last edition of Seabreeze was published, ICBC Financial Leasing has so
 | :--- | :--- | :--- | :--- |
 | Bourbon Liberty 309 (2014) | AHTS | USD 7 million | March 5th, 2026 |
 | Bourbon Tong Kam (2009) | AHTS | USD 5.05 million | March 10th, 2026 |
-| Bourbon Jindaminee (2010) | AHTS | USD 5.05 million | March 11th, 2026 |
+| Bourbon Jindamanee (2010) | AHTS | USD 5.05 million | March 11th, 2026 |
 | Bourbon Liberty 320 (2014) | AHTS | USD 7 million | March 18th, 2026 |
 
 ## SDHI TO COMPLETE FIVE PARTIALLY-BUILT PSVs
