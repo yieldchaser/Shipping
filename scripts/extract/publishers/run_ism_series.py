@@ -286,6 +286,10 @@ def main(argv=()) -> None:
                 return ("", f.name)
         chart_files = sorted(chart_files, key=_rep)[-newest:]
     print(f"[ism] Processing {len(chart_files)} .charts.json files from {ISM_DIR}...")
+    if not chart_files:
+        # the sidecars are gitignored under md/ism: a checkout without them must not rewrite both CSVs empty
+        print("[ism] no .charts.json found - series left unchanged")
+        return
 
     # (segment, route_title, series_label, iso_date) -> list of (value, report_iso, unit)
     readings_coaster: Dict[Tuple[str, str, str, str], List[Tuple[float, str, str, str, Optional[float], Optional[float], bool]]] = defaultdict(list)
