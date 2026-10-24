@@ -66,7 +66,7 @@ overview of demolition market rates, please check our comprehensive demometer be
 |:---|:---:|:---:|:---:|:---:|
 | **Turkey** | 280 | 290-300 | 310 | Positive |
 | **Pakistan** | 405-410 | 425-430 | 425-430 | Positive |
-| **India** | 400-405 | 415-420 | 435 | Steady |
+| **India** | 400-405 | 415-420 | 435 | Cautiously optimistic |
 | **Bangladesh** | 410-415 | 425-435 | 450 | Stable |
 
 

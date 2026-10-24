@@ -148,7 +148,7 @@
         "price_low": 500.0,
         "price_high": 500.0,
         "price_point": 500.0,
-        "trend": "Steady",
+        "trend": "Slightly improved",
         "unit": "USD_per_LDT"
       },
       {
@@ -159,7 +159,7 @@
         "price_low": 515.0,
         "price_high": 520.0,
         "price_point": 517.5,
-        "trend": "Steady",
+        "trend": "Slightly improved",
         "unit": "USD_per_LDT"
       },
       {
@@ -170,7 +170,7 @@
         "price_low": 525.0,
         "price_high": 530.0,
         "price_point": 527.5,
-        "trend": "Steady",
+        "trend": "Slightly improved",
         "unit": "USD_per_LDT"
       }
     ],

@@ -84,7 +84,7 @@ For an overview of demolition market rates, please check our comprehensive demom
 | **Turkey** | 290 | 300 | 310 | Stable |
 | **Pakistan** | 470 | 500 | 510-520 | Stable |
 | **India** | 470 | 490 | 500-510 | Stable |
-| **Bangladesh** | 500 | 525-530 | 540-550 | Firm |
+| **Bangladesh** | 500 | 525-530 | 540-550 | Very firm |
 
 
 ## Representative Sales

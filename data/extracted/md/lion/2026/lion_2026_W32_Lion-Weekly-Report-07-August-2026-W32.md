@@ -53,7 +53,7 @@ comprehensive demometer below:
 | **Turkey** | 290 | 300 | 310 | Stable |
 | **Pakistan** | 490 | 500 | 510 | Positive |
 | **India** | 420-430 | 440 | 460-470 | Stable |
-| **Bangladesh** | 470-480 | 505-515 | 530 | Steady |
+| **Bangladesh** | 470-480 | 505-515 | 530 | Softening |
 
 
 ## Representative Sales

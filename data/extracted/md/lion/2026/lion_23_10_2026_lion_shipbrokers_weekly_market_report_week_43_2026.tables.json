@@ -122,7 +122,7 @@
         "price_low": 500.0,
         "price_high": 500.0,
         "price_point": 500.0,
-        "trend": "Firm",
+        "trend": "Very firm",
         "unit": "USD_per_LDT"
       },
       {
@@ -133,7 +133,7 @@
         "price_low": 525.0,
         "price_high": 530.0,
         "price_point": 527.5,
-        "trend": "Firm",
+        "trend": "Very firm",
         "unit": "USD_per_LDT"
       },
       {
@@ -144,7 +144,7 @@
         "price_low": 540.0,
         "price_high": 550.0,
         "price_point": 545.0,
-        "trend": "Firm",
+        "trend": "Very firm",
         "unit": "USD_per_LDT"
       }
     ],

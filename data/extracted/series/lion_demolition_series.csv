@@ -182,9 +182,9 @@ report_date,week,country,vessel_type,price_low,price_high,price_point,trend,unit
 2026-01-30,5,BANGLADESH,BULKER,410.0,415.0,412.5,stable,USD_per_LDT,range,lion_2026_W05_Lion-Weekly-Report-30-January-2026-W05
 2026-01-30,5,BANGLADESH,CONT/TWEEN,450.0,450.0,450.0,stable,USD_per_LDT,single,lion_2026_W05_Lion-Weekly-Report-30-January-2026-W05
 2026-01-30,5,BANGLADESH,TANKER,425.0,435.0,430.0,stable,USD_per_LDT,range,lion_2026_W05_Lion-Weekly-Report-30-January-2026-W05
-2026-01-30,5,INDIA,BULKER,400.0,405.0,402.5,Cautiously optimistic,USD_per_LDT,range,lion_2026_W05_Lion-Weekly-Report-30-January-2026-W05
-2026-01-30,5,INDIA,CONT/TWEEN,435.0,435.0,435.0,Cautiously optimistic,USD_per_LDT,single,lion_2026_W05_Lion-Weekly-Report-30-January-2026-W05
-2026-01-30,5,INDIA,TANKER,415.0,420.0,417.5,Cautiously optimistic,USD_per_LDT,range,lion_2026_W05_Lion-Weekly-Report-30-January-2026-W05
+2026-01-30,5,INDIA,BULKER,400.0,405.0,402.5,cautiously optimistic,USD_per_LDT,range,lion_2026_W05_Lion-Weekly-Report-30-January-2026-W05
+2026-01-30,5,INDIA,CONT/TWEEN,435.0,435.0,435.0,cautiously optimistic,USD_per_LDT,single,lion_2026_W05_Lion-Weekly-Report-30-January-2026-W05
+2026-01-30,5,INDIA,TANKER,415.0,420.0,417.5,cautiously optimistic,USD_per_LDT,range,lion_2026_W05_Lion-Weekly-Report-30-January-2026-W05
 2026-01-30,5,PAKISTAN,BULKER,405.0,410.0,407.5,positive,USD_per_LDT,range,lion_2026_W05_Lion-Weekly-Report-30-January-2026-W05
 2026-01-30,5,PAKISTAN,CONT/TWEEN,425.0,430.0,427.5,positive,USD_per_LDT,range,lion_2026_W05_Lion-Weekly-Report-30-January-2026-W05
 2026-01-30,5,PAKISTAN,TANKER,425.0,430.0,427.5,positive,USD_per_LDT,range,lion_2026_W05_Lion-Weekly-Report-30-January-2026-W05
@@ -515,3 +515,87 @@ report_date,week,country,vessel_type,price_low,price_high,price_point,trend,unit
 2026-09-04,36,TURKEY,BULKER,280.0,280.0,280.0,stable,USD_per_LDT,single,lion_2026_W36_Lion-Weekly-Report-04-September-2026-W36
 2026-09-04,36,TURKEY,CONT/TWEEN,300.0,300.0,300.0,stable,USD_per_LDT,single,lion_2026_W36_Lion-Weekly-Report-04-September-2026-W36
 2026-09-04,36,TURKEY,TANKER,290.0,290.0,290.0,stable,USD_per_LDT,single,lion_2026_W36_Lion-Weekly-Report-04-September-2026-W36
+2026-10-16,42,TURKEY,BULKER,300.0,300.0,300.0,stable,USD_per_LDT,single,lion_16_10_2026_lion_shipbrokers_weekly_market_report_week_42_2026
+2026-10-16,42,TURKEY,TANKER,310.0,310.0,310.0,stable,USD_per_LDT,single,lion_16_10_2026_lion_shipbrokers_weekly_market_report_week_42_2026
+2026-10-16,42,TURKEY,CONT/TWEEN,320.0,320.0,320.0,stable,USD_per_LDT,single,lion_16_10_2026_lion_shipbrokers_weekly_market_report_week_42_2026
+2026-10-16,42,PAKISTAN,BULKER,470.0,470.0,470.0,stable,USD_per_LDT,single,lion_16_10_2026_lion_shipbrokers_weekly_market_report_week_42_2026
+2026-10-16,42,PAKISTAN,TANKER,500.0,500.0,500.0,stable,USD_per_LDT,single,lion_16_10_2026_lion_shipbrokers_weekly_market_report_week_42_2026
+2026-10-16,42,PAKISTAN,CONT/TWEEN,510.0,515.0,512.5,stable,USD_per_LDT,range,lion_16_10_2026_lion_shipbrokers_weekly_market_report_week_42_2026
+2026-10-16,42,INDIA,BULKER,470.0,470.0,470.0,positive,USD_per_LDT,single,lion_16_10_2026_lion_shipbrokers_weekly_market_report_week_42_2026
+2026-10-16,42,INDIA,TANKER,490.0,490.0,490.0,positive,USD_per_LDT,single,lion_16_10_2026_lion_shipbrokers_weekly_market_report_week_42_2026
+2026-10-16,42,INDIA,CONT/TWEEN,510.0,510.0,510.0,positive,USD_per_LDT,single,lion_16_10_2026_lion_shipbrokers_weekly_market_report_week_42_2026
+2026-10-16,42,BANGLADESH,BULKER,480.0,480.0,480.0,stable,USD_per_LDT,single,lion_16_10_2026_lion_shipbrokers_weekly_market_report_week_42_2026
+2026-10-16,42,BANGLADESH,TANKER,510.0,510.0,510.0,stable,USD_per_LDT,single,lion_16_10_2026_lion_shipbrokers_weekly_market_report_week_42_2026
+2026-10-16,42,BANGLADESH,CONT/TWEEN,520.0,525.0,522.5,stable,USD_per_LDT,range,lion_16_10_2026_lion_shipbrokers_weekly_market_report_week_42_2026
+2026-09-11,37,TURKEY,BULKER,290.0,295.0,292.5,firm,USD_per_LDT,range,lion_2026_W37_Lion-Weekly-Report-11-September-2026-W37
+2026-09-11,37,TURKEY,TANKER,305.0,305.0,305.0,firm,USD_per_LDT,single,lion_2026_W37_Lion-Weekly-Report-11-September-2026-W37
+2026-09-11,37,TURKEY,CONT/TWEEN,315.0,315.0,315.0,firm,USD_per_LDT,single,lion_2026_W37_Lion-Weekly-Report-11-September-2026-W37
+2026-09-11,37,PAKISTAN,BULKER,500.0,500.0,500.0,soft,USD_per_LDT,single,lion_2026_W37_Lion-Weekly-Report-11-September-2026-W37
+2026-09-11,37,PAKISTAN,TANKER,520.0,520.0,520.0,soft,USD_per_LDT,single,lion_2026_W37_Lion-Weekly-Report-11-September-2026-W37
+2026-09-11,37,PAKISTAN,CONT/TWEEN,530.0,535.0,532.5,soft,USD_per_LDT,range,lion_2026_W37_Lion-Weekly-Report-11-September-2026-W37
+2026-09-11,37,INDIA,BULKER,460.0,460.0,460.0,firm,USD_per_LDT,single,lion_2026_W37_Lion-Weekly-Report-11-September-2026-W37
+2026-09-11,37,INDIA,TANKER,480.0,480.0,480.0,firm,USD_per_LDT,single,lion_2026_W37_Lion-Weekly-Report-11-September-2026-W37
+2026-09-11,37,INDIA,CONT/TWEEN,495.0,495.0,495.0,firm,USD_per_LDT,single,lion_2026_W37_Lion-Weekly-Report-11-September-2026-W37
+2026-09-11,37,BANGLADESH,BULKER,490.0,490.0,490.0,soft,USD_per_LDT,single,lion_2026_W37_Lion-Weekly-Report-11-September-2026-W37
+2026-09-11,37,BANGLADESH,TANKER,510.0,515.0,512.5,soft,USD_per_LDT,range,lion_2026_W37_Lion-Weekly-Report-11-September-2026-W37
+2026-09-11,37,BANGLADESH,CONT/TWEEN,520.0,525.0,522.5,soft,USD_per_LDT,range,lion_2026_W37_Lion-Weekly-Report-11-September-2026-W37
+2026-09-18,38,TURKEY,BULKER,300.0,305.0,302.5,firm,USD_per_LDT,range,lion_2026_W38_Lion-Weekly-Report-18-September-2026-W38
+2026-09-18,38,TURKEY,TANKER,315.0,320.0,317.5,firm,USD_per_LDT,range,lion_2026_W38_Lion-Weekly-Report-18-September-2026-W38
+2026-09-18,38,TURKEY,CONT/TWEEN,325.0,330.0,327.5,firm,USD_per_LDT,range,lion_2026_W38_Lion-Weekly-Report-18-September-2026-W38
+2026-09-18,38,PAKISTAN,BULKER,500.0,500.0,500.0,stable,USD_per_LDT,single,lion_2026_W38_Lion-Weekly-Report-18-September-2026-W38
+2026-09-18,38,PAKISTAN,TANKER,520.0,520.0,520.0,stable,USD_per_LDT,single,lion_2026_W38_Lion-Weekly-Report-18-September-2026-W38
+2026-09-18,38,PAKISTAN,CONT/TWEEN,530.0,535.0,532.5,stable,USD_per_LDT,range,lion_2026_W38_Lion-Weekly-Report-18-September-2026-W38
+2026-09-18,38,INDIA,BULKER,460.0,460.0,460.0,firm,USD_per_LDT,single,lion_2026_W38_Lion-Weekly-Report-18-September-2026-W38
+2026-09-18,38,INDIA,TANKER,480.0,480.0,480.0,firm,USD_per_LDT,single,lion_2026_W38_Lion-Weekly-Report-18-September-2026-W38
+2026-09-18,38,INDIA,CONT/TWEEN,495.0,495.0,495.0,firm,USD_per_LDT,single,lion_2026_W38_Lion-Weekly-Report-18-September-2026-W38
+2026-09-18,38,BANGLADESH,BULKER,490.0,490.0,490.0,stable,USD_per_LDT,single,lion_2026_W38_Lion-Weekly-Report-18-September-2026-W38
+2026-09-18,38,BANGLADESH,TANKER,510.0,515.0,512.5,stable,USD_per_LDT,range,lion_2026_W38_Lion-Weekly-Report-18-September-2026-W38
+2026-09-18,38,BANGLADESH,CONT/TWEEN,520.0,525.0,522.5,stable,USD_per_LDT,range,lion_2026_W38_Lion-Weekly-Report-18-September-2026-W38
+2026-09-25,39,TURKEY,BULKER,300.0,305.0,302.5,stable,USD_per_LDT,range,lion_2026_W39_Lion-Weekly-Report-25-September-2026-W39
+2026-09-25,39,TURKEY,TANKER,315.0,320.0,317.5,stable,USD_per_LDT,range,lion_2026_W39_Lion-Weekly-Report-25-September-2026-W39
+2026-09-25,39,TURKEY,CONT/TWEEN,325.0,330.0,327.5,stable,USD_per_LDT,range,lion_2026_W39_Lion-Weekly-Report-25-September-2026-W39
+2026-09-25,39,PAKISTAN,BULKER,500.0,505.0,502.5,stable,USD_per_LDT,range,lion_2026_W39_Lion-Weekly-Report-25-September-2026-W39
+2026-09-25,39,PAKISTAN,TANKER,520.0,520.0,520.0,stable,USD_per_LDT,single,lion_2026_W39_Lion-Weekly-Report-25-September-2026-W39
+2026-09-25,39,PAKISTAN,CONT/TWEEN,530.0,535.0,532.5,stable,USD_per_LDT,range,lion_2026_W39_Lion-Weekly-Report-25-September-2026-W39
+2026-09-25,39,INDIA,BULKER,465.0,470.0,467.5,improving,USD_per_LDT,range,lion_2026_W39_Lion-Weekly-Report-25-September-2026-W39
+2026-09-25,39,INDIA,TANKER,485.0,490.0,487.5,improving,USD_per_LDT,range,lion_2026_W39_Lion-Weekly-Report-25-September-2026-W39
+2026-09-25,39,INDIA,CONT/TWEEN,505.0,510.0,507.5,improving,USD_per_LDT,range,lion_2026_W39_Lion-Weekly-Report-25-September-2026-W39
+2026-09-25,39,BANGLADESH,BULKER,500.0,500.0,500.0,slightly improved,USD_per_LDT,single,lion_2026_W39_Lion-Weekly-Report-25-September-2026-W39
+2026-09-25,39,BANGLADESH,TANKER,515.0,520.0,517.5,slightly improved,USD_per_LDT,range,lion_2026_W39_Lion-Weekly-Report-25-September-2026-W39
+2026-09-25,39,BANGLADESH,CONT/TWEEN,525.0,530.0,527.5,slightly improved,USD_per_LDT,range,lion_2026_W39_Lion-Weekly-Report-25-September-2026-W39
+2026-10-02,40,TURKEY,BULKER,300.0,300.0,300.0,stable,USD_per_LDT,single,lion_2026_W40_Lion-Weekly-Report-02-October-2026-W40
+2026-10-02,40,TURKEY,TANKER,310.0,310.0,310.0,stable,USD_per_LDT,single,lion_2026_W40_Lion-Weekly-Report-02-October-2026-W40
+2026-10-02,40,TURKEY,CONT/TWEEN,320.0,320.0,320.0,stable,USD_per_LDT,single,lion_2026_W40_Lion-Weekly-Report-02-October-2026-W40
+2026-10-02,40,PAKISTAN,BULKER,470.0,480.0,475.0,stable,USD_per_LDT,range,lion_2026_W40_Lion-Weekly-Report-02-October-2026-W40
+2026-10-02,40,PAKISTAN,TANKER,500.0,510.0,505.0,stable,USD_per_LDT,range,lion_2026_W40_Lion-Weekly-Report-02-October-2026-W40
+2026-10-02,40,PAKISTAN,CONT/TWEEN,530.0,535.0,532.5,stable,USD_per_LDT,range,lion_2026_W40_Lion-Weekly-Report-02-October-2026-W40
+2026-10-02,40,INDIA,BULKER,460.0,470.0,465.0,improved,USD_per_LDT,range,lion_2026_W40_Lion-Weekly-Report-02-October-2026-W40
+2026-10-02,40,INDIA,TANKER,480.0,490.0,485.0,improved,USD_per_LDT,range,lion_2026_W40_Lion-Weekly-Report-02-October-2026-W40
+2026-10-02,40,INDIA,CONT/TWEEN,490.0,500.0,495.0,improved,USD_per_LDT,range,lion_2026_W40_Lion-Weekly-Report-02-October-2026-W40
+2026-10-02,40,BANGLADESH,BULKER,480.0,490.0,485.0,stable,USD_per_LDT,range,lion_2026_W40_Lion-Weekly-Report-02-October-2026-W40
+2026-10-02,40,BANGLADESH,TANKER,510.0,515.0,512.5,stable,USD_per_LDT,range,lion_2026_W40_Lion-Weekly-Report-02-October-2026-W40
+2026-10-02,40,BANGLADESH,CONT/TWEEN,520.0,525.0,522.5,stable,USD_per_LDT,range,lion_2026_W40_Lion-Weekly-Report-02-October-2026-W40
+2026-10-09,41,TURKEY,BULKER,300.0,300.0,300.0,stable,USD_per_LDT,single,lion_2026_W41_Lion-Weekly-Report-09-October-2026-W41
+2026-10-09,41,TURKEY,TANKER,310.0,310.0,310.0,stable,USD_per_LDT,single,lion_2026_W41_Lion-Weekly-Report-09-October-2026-W41
+2026-10-09,41,TURKEY,CONT/TWEEN,320.0,320.0,320.0,stable,USD_per_LDT,single,lion_2026_W41_Lion-Weekly-Report-09-October-2026-W41
+2026-10-09,41,PAKISTAN,BULKER,470.0,470.0,470.0,soft,USD_per_LDT,single,lion_2026_W41_Lion-Weekly-Report-09-October-2026-W41
+2026-10-09,41,PAKISTAN,TANKER,500.0,500.0,500.0,soft,USD_per_LDT,single,lion_2026_W41_Lion-Weekly-Report-09-October-2026-W41
+2026-10-09,41,PAKISTAN,CONT/TWEEN,510.0,520.0,515.0,soft,USD_per_LDT,range,lion_2026_W41_Lion-Weekly-Report-09-October-2026-W41
+2026-10-09,41,INDIA,BULKER,460.0,460.0,460.0,soft,USD_per_LDT,single,lion_2026_W41_Lion-Weekly-Report-09-October-2026-W41
+2026-10-09,41,INDIA,TANKER,480.0,480.0,480.0,soft,USD_per_LDT,single,lion_2026_W41_Lion-Weekly-Report-09-October-2026-W41
+2026-10-09,41,INDIA,CONT/TWEEN,490.0,490.0,490.0,soft,USD_per_LDT,single,lion_2026_W41_Lion-Weekly-Report-09-October-2026-W41
+2026-10-09,41,BANGLADESH,BULKER,480.0,480.0,480.0,soft,USD_per_LDT,single,lion_2026_W41_Lion-Weekly-Report-09-October-2026-W41
+2026-10-09,41,BANGLADESH,TANKER,510.0,510.0,510.0,soft,USD_per_LDT,single,lion_2026_W41_Lion-Weekly-Report-09-October-2026-W41
+2026-10-09,41,BANGLADESH,CONT/TWEEN,515.0,515.0,515.0,soft,USD_per_LDT,single,lion_2026_W41_Lion-Weekly-Report-09-October-2026-W41
+2026-10-23,43,TURKEY,BULKER,290.0,290.0,290.0,stable,USD_per_LDT,single,lion_23_10_2026_lion_shipbrokers_weekly_market_report_week_43_2026
+2026-10-23,43,TURKEY,TANKER,300.0,300.0,300.0,stable,USD_per_LDT,single,lion_23_10_2026_lion_shipbrokers_weekly_market_report_week_43_2026
+2026-10-23,43,TURKEY,CONT/TWEEN,310.0,310.0,310.0,stable,USD_per_LDT,single,lion_23_10_2026_lion_shipbrokers_weekly_market_report_week_43_2026
+2026-10-23,43,PAKISTAN,BULKER,470.0,470.0,470.0,stable,USD_per_LDT,single,lion_23_10_2026_lion_shipbrokers_weekly_market_report_week_43_2026
+2026-10-23,43,PAKISTAN,TANKER,500.0,500.0,500.0,stable,USD_per_LDT,single,lion_23_10_2026_lion_shipbrokers_weekly_market_report_week_43_2026
+2026-10-23,43,PAKISTAN,CONT/TWEEN,510.0,520.0,515.0,stable,USD_per_LDT,range,lion_23_10_2026_lion_shipbrokers_weekly_market_report_week_43_2026
+2026-10-23,43,INDIA,BULKER,470.0,470.0,470.0,stable,USD_per_LDT,single,lion_23_10_2026_lion_shipbrokers_weekly_market_report_week_43_2026
+2026-10-23,43,INDIA,TANKER,490.0,490.0,490.0,stable,USD_per_LDT,single,lion_23_10_2026_lion_shipbrokers_weekly_market_report_week_43_2026
+2026-10-23,43,INDIA,CONT/TWEEN,500.0,510.0,505.0,stable,USD_per_LDT,range,lion_23_10_2026_lion_shipbrokers_weekly_market_report_week_43_2026
+2026-10-23,43,BANGLADESH,BULKER,500.0,500.0,500.0,very firm,USD_per_LDT,single,lion_23_10_2026_lion_shipbrokers_weekly_market_report_week_43_2026
+2026-10-23,43,BANGLADESH,TANKER,525.0,530.0,527.5,very firm,USD_per_LDT,range,lion_23_10_2026_lion_shipbrokers_weekly_market_report_week_43_2026
+2026-10-23,43,BANGLADESH,CONT/TWEEN,540.0,550.0,545.0,very firm,USD_per_LDT,range,lion_23_10_2026_lion_shipbrokers_weekly_market_report_week_43_2026

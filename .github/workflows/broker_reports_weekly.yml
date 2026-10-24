@@ -70,6 +70,8 @@ jobs:
           python scripts/extract/publishers/agora_series.py --new-only || true
           # Banchero Costa: stack new issues' tables into the bancosta_* series (append-only)
           python scripts/extract/publishers/bancosta_series.py --new-only || true
+          # Lion: stack new issues' demometer into lion_demolition_series.csv (append-only)
+          python scripts/extract/publishers/lion_series.py --new-only || true
           python scripts/extract/sync_digests.py || true
           # TODO: quality gate script does not exist yet
           python scripts/verify/build_corpus_inventory.py --merge-existing || true

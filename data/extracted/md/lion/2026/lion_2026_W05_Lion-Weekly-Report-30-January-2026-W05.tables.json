@@ -89,7 +89,7 @@
         "price_low": 400.0,
         "price_high": 405.0,
         "price_point": 402.5,
-        "trend": "Steady",
+        "trend": "Cautiously optimistic",
         "unit": "USD_per_LDT"
       },
       {
@@ -100,7 +100,7 @@
         "price_low": 415.0,
         "price_high": 420.0,
         "price_point": 417.5,
-        "trend": "Steady",
+        "trend": "Cautiously optimistic",
         "unit": "USD_per_LDT"
       },
       {
@@ -111,7 +111,7 @@
         "price_low": 435.0,
         "price_high": 435.0,
         "price_point": 435.0,
-        "trend": "Steady",
+        "trend": "Cautiously optimistic",
         "unit": "USD_per_LDT"
       },
       {
