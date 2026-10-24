@@ -68,6 +68,8 @@ jobs:
           python scripts/extract/publishers/run_ism_series.py --new-only || true
           # Agora: stack new issues' indicator tables into agora_indicators_series.csv (append-only)
           python scripts/extract/publishers/agora_series.py --new-only || true
+          # Banchero Costa: stack new issues' tables into the bancosta_* series (append-only)
+          python scripts/extract/publishers/bancosta_series.py --new-only || true
           python scripts/extract/sync_digests.py || true
           # TODO: quality gate script does not exist yet
           python scripts/verify/build_corpus_inventory.py --merge-existing || true
