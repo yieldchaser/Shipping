@@ -514,7 +514,8 @@ def convert_report_file(html_path, manifest_dict):
                     stem = local_name.rsplit('.', 1)[0]
                     fig_title = format_title_case(stem.replace('_', ' ').replace('-', ' ').title())
 
-                file_uri = f"file:///C:/Users/Dell/Github/Shipping/corpus/07-signal/images/{local_name}"
+                # relative, like the inline image: an absolute file:///C:/Users/... path only opens on one machine
+                file_uri = f"../../images/{local_name}"
                 interactive_url = url if (url and url.startswith('http')) else "https://app.signalocean.com"
                 anchor_lbl = "Signal Ocean Platform"
 

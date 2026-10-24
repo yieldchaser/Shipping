@@ -59,6 +59,7 @@ CLOSED = {   # closed by design: name -> reason
                  "normalisations", "port_differentials", "port_inventories", "spreads", "steel_mill_pnl", "steel")},
     "hellenic_iron_ore_table_series": "MMi 6-page report, replaced by the SMM 1-page daily 2026-09-14",
     "hellenic_capesize_c3_c5_series": "MMi 6-page report, replaced by the SMM 1-page daily 2026-09-14",
+    "hellenic_vv_benchmark_sales_series": "legacy subset, superseded by hellenic_vv_sales_series (parse engine, has VV value)",
 }
 OCCASIONAL = {   # printed only in some issues: name -> reason
     "poten_top_charterers_series": "table in some opinions only",
@@ -67,6 +68,7 @@ OCCASIONAL = {   # printed only in some issues: name -> reason
     "poten_vlcc_historical_rates_series": "table in some opinions only",
     "star_asia_ldt_comparison_series": "comparison printed in some issues only",
     "singletons_sales_series": "one-off broker documents",
+    "signal_vessel_counts_series": "counts are text only in some monitors (W41 2026 prints Table 2 as a screenshot)",
     "seabrokers_renewables_and_ets_series": "feature article in some issues only",
     "carriers_demolition_series": "weeks with no demolition deal print \"None Reported\" (W39-W41 2026, checked on the PDFs)",
 }
