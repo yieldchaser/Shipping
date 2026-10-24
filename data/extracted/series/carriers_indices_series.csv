@@ -1451,7 +1451,7 @@ issue_date,report_week,index_category,index_name,current_value,change_val,prev_v
 2026-02-23,8,Newbuilding Index,DNBI,4.882,,,UP,carriers_2026_W08_WK-8-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-02-23,8,Newbuilding Index,TNBI,7.584,,,UP,carriers_2026_W08_WK-8-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-02-23,8,Baltic Dry Indices,BDI,2112.0,12.0,2100.0,,carriers_2026_W08_WK-8-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-02-23,8,Baltic Dry Indices,BCI,,1.0,3209.0,,carriers_2026_W08_WK-8-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-02-23,8,Baltic Dry Indices,BCI,3210.0,1.0,3209.0,,carriers_2026_W08_WK-8-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-02-23,8,Baltic Dry Indices,BPI,1853.0,68.0,1785.0,,carriers_2026_W08_WK-8-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-02-23,8,Baltic Dry Indices,BSI,1179.0,-19.0,1198.0,,carriers_2026_W08_WK-8-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-02-23,8,Baltic Dry Indices,BHSI,711.0,25.0,686.0,,carriers_2026_W08_WK-8-26-CARRIERS_SP-MARKET-REPORT.pdf
@@ -1465,10 +1465,24 @@ issue_date,report_week,index_category,index_name,current_value,change_val,prev_v
 2026-03-02,9,Newbuilding Index,DNBI,4.905,,,UP,carriers_2026_W09_WK-9-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-03-02,9,Newbuilding Index,TNBI,7.6,,,UP,carriers_2026_W09_WK-9-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-03-02,9,Baltic Dry Indices,BDI,2187.0,75.0,2112.0,,carriers_2026_W09_WK-9-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-03-02,9,Baltic Dry Indices,BCI,3133.0,-77.0,,,carriers_2026_W09_WK-9-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-03-02,9,Baltic Dry Indices,BCI,3133.0,-77.0,3210.0,,carriers_2026_W09_WK-9-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-03-02,9,Baltic Dry Indices,BPI,1979.0,126.0,1853.0,,carriers_2026_W09_WK-9-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-03-02,9,Baltic Dry Indices,BSI,1361.0,182.0,1179.0,,carriers_2026_W09_WK-9-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-03-02,9,Baltic Dry Indices,BHSI,785.0,74.0,711.0,,carriers_2026_W09_WK-9-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-03-07,14,Sale and Purchase Index,DSPA,4.14,,,UP,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-03-07,14,Sale and Purchase Index,BSPA,,,,,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-03-07,14,Sale and Purchase Index,TSPA,8.536,,,UP,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-03-07,14,Recycling Index,DSRA,6.075,,,UP,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-03-07,14,Recycling Index,TSRA,10.905,,,UP,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-03-07,14,Recycling Index,BSRA,,,,,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-03-07,14,Newbuilding Index,BNBI,,,,,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-03-07,14,Newbuilding Index,DNBI,5.0,,,UP,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-03-07,14,Newbuilding Index,TNBI,7.838,,,UP,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-03-07,14,Baltic Dry Indices,BDI,2095.0,78.0,2017.0,,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-03-07,14,Baltic Dry Indices,BCI,3148.0,144.0,3004.0,,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-03-07,14,Baltic Dry Indices,BPI,1802.0,60.0,1742.0,,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-03-07,14,Baltic Dry Indices,BSI,1231.0,28.0,1203.0,,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-03-07,14,Baltic Dry Indices,BHSI,694.0,-14.0,708.0,,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-03-09,10,Sale and Purchase Index,DSPA,4.046,,,UP,carriers_2026_W10_WK-10-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-03-09,10,Sale and Purchase Index,BSPA,,,,,carriers_2026_W10_WK-10-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-03-09,10,Sale and Purchase Index,TSPA,8.382,,,UP,carriers_2026_W10_WK-10-26-CARRIERS_SP-MARKET-REPORT.pdf
@@ -1511,20 +1525,6 @@ issue_date,report_week,index_category,index_name,current_value,change_val,prev_v
 2026-03-30,12,Baltic Dry Indices,BPI,1742.0,-146.0,1888.0,,carriers_2026_W12_WK-12-13-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-03-30,12,Baltic Dry Indices,BSI,1203.0,-15.0,1218.0,,carriers_2026_W12_WK-12-13-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-03-30,12,Baltic Dry Indices,BHSI,708.0,-29.0,737.0,,carriers_2026_W12_WK-12-13-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-03-07,14,Sale and Purchase Index,DSPA,4.14,,,UP,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-03-07,14,Sale and Purchase Index,BSPA,,,,,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-03-07,14,Sale and Purchase Index,TSPA,8.536,,,UP,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-03-07,14,Recycling Index,DSRA,6.075,,,UP,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-03-07,14,Recycling Index,TSRA,10.905,,,UP,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-03-07,14,Recycling Index,BSRA,,,,,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-03-07,14,Newbuilding Index,BNBI,,,,,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-03-07,14,Newbuilding Index,DNBI,5.0,,,UP,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-03-07,14,Newbuilding Index,TNBI,7.838,,,UP,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-03-07,14,Baltic Dry Indices,BDI,2095.0,78.0,2017.0,,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-03-07,14,Baltic Dry Indices,BCI,3148.0,144.0,3004.0,,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-03-07,14,Baltic Dry Indices,BPI,1802.0,60.0,1742.0,,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-03-07,14,Baltic Dry Indices,BSI,1231.0,28.0,1203.0,,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
-2026-03-07,14,Baltic Dry Indices,BHSI,694.0,-14.0,708.0,,carriers_2026_W14_WK-14-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-04-13,15,Sale and Purchase Index,DSPA,4.167,,,UP,carriers_2026_W15_WK-15-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-04-13,15,Sale and Purchase Index,BSPA,,,,,carriers_2026_W15_WK-15-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-04-13,15,Sale and Purchase Index,TSPA,8.581,,,UP,carriers_2026_W15_WK-15-26-CARRIERS_SP-MARKET-REPORT.pdf
@@ -1791,6 +1791,20 @@ issue_date,report_week,index_category,index_name,current_value,change_val,prev_v
 2026-09-14,37,Baltic Dry Indices,BPI,2393.0,-38.0,2431.0,,carriers_2026_W37_WK-37-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-09-14,37,Baltic Dry Indices,BSI,1725.0,43.0,1682.0,,carriers_2026_W37_WK-37-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-09-14,37,Baltic Dry Indices,BHSI,942.0,36.0,906.0,,carriers_2026_W37_WK-37-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-09-21,38,Sale and Purchase Index,DSPA,4.492,,,UP,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-09-21,38,Sale and Purchase Index,BSPA,,,,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-09-21,38,Sale and Purchase Index,TSPA,10.07,,,UP,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-09-21,38,Recycling Index,DSRA,6.933,,,UP,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-09-21,38,Recycling Index,TSRA,12.465,,,UP,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-09-21,38,Recycling Index,BSRA,,,,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-09-21,38,Newbuilding Index,BNBI,,,,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-09-21,38,Newbuilding Index,DNBI,5.117,,,UP,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-09-21,38,Newbuilding Index,TNBI,8.085,,,UP,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-09-21,38,Baltic Dry Indices,BDI,3399.0,-46.0,3445.0,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-09-21,38,Baltic Dry Indices,BCI,5839.0,-73.0,5912.0,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-09-21,38,Baltic Dry Indices,BPI,2255.0,-138.0,2393.0,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-09-21,38,Baltic Dry Indices,BSI,1771.0,46.0,1725.0,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-09-21,38,Baltic Dry Indices,BHSI,993.0,51.0,942.0,,carriers_2026_W38_WK-38-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-09-28,39,Sale and Purchase Index,DSPA,4.572,,,UP,carriers_2026_W39_WK-39-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-09-28,39,Sale and Purchase Index,BSPA,,,,,carriers_2026_W39_WK-39-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-09-28,39,Sale and Purchase Index,TSPA,10.442,,,UP,carriers_2026_W39_WK-39-26-CARRIERS_SP-MARKET-REPORT.pdf
@@ -1805,3 +1819,31 @@ issue_date,report_week,index_category,index_name,current_value,change_val,prev_v
 2026-09-28,39,Baltic Dry Indices,BPI,2402.0,147.0,2255.0,,carriers_2026_W39_WK-39-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-09-28,39,Baltic Dry Indices,BSI,1790.0,19.0,1771.0,,carriers_2026_W39_WK-39-26-CARRIERS_SP-MARKET-REPORT.pdf
 2026-09-28,39,Baltic Dry Indices,BHSI,1012.0,19.0,993.0,,carriers_2026_W39_WK-39-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-05,40,Sale and Purchase Index,DSPA,4.609,,,UP,carriers_2026_W40_WK-40-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-05,40,Sale and Purchase Index,BSPA,,,,,carriers_2026_W40_WK-40-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-05,40,Sale and Purchase Index,TSPA,10.934,,,UP,carriers_2026_W40_WK-40-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-05,40,Recycling Index,DSRA,6.916,,,UP,carriers_2026_W40_WK-40-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-05,40,Recycling Index,TSRA,12.449,,,UP,carriers_2026_W40_WK-40-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-05,40,Recycling Index,BSRA,,,,,carriers_2026_W40_WK-40-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-05,40,Newbuilding Index,BNBI,,,,,carriers_2026_W40_WK-40-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-05,40,Newbuilding Index,DNBI,5.141,,,UP,carriers_2026_W40_WK-40-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-05,40,Newbuilding Index,TNBI,8.123,,,UP,carriers_2026_W40_WK-40-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-05,40,Baltic Dry Indices,BDI,3070.0,-198.0,3268.0,,carriers_2026_W40_WK-40-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-05,40,Baltic Dry Indices,BCI,4833.0,-518.0,5351.0,,carriers_2026_W40_WK-40-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-05,40,Baltic Dry Indices,BPI,2364.0,-38.0,2402.0,,carriers_2026_W40_WK-40-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-05,40,Baltic Dry Indices,BSI,1790.0,0.0,1790.0,,carriers_2026_W40_WK-40-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-05,40,Baltic Dry Indices,BHSI,1004.0,-8.0,1012.0,,carriers_2026_W40_WK-40-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-12,41,Sale and Purchase Index,DSPA,4.647,,,UP,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,Sale and Purchase Index,BSPA,,,,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,Sale and Purchase Index,TSPA,11.572,,,UP,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,Recycling Index,DSRA,6.946,,,UP,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,Recycling Index,TSRA,12.487,,,UP,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,Recycling Index,BSRA,,,,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,Newbuilding Index,BNBI,,,,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,Newbuilding Index,DNBI,5.141,,,UP,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,Newbuilding Index,TNBI,8.123,,,UP,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,Baltic Dry Indices,BDI,2852.0,-218.0,3070.0,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,Baltic Dry Indices,BCI,4148.0,-685.0,4833.0,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,Baltic Dry Indices,BPI,2432.0,68.0,2364.0,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,Baltic Dry Indices,BSI,1821.0,31.0,1790.0,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-12,41,Baltic Dry Indices,BHSI,998.0,-6.0,1004.0,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf

@@ -102,6 +102,18 @@ def clean_str(v: Any) -> str:
     return re.sub(r"\s+", " ", s).strip()
 
 
+def _norm_tonnage(v: Any) -> str:
+    """A dwt/ldt cell in the publisher's comma form. The 2021-08-02, 2021-09-06/13/27 and 2022-01-24 Bulk Carriers
+    tables print a period as the thousands separator ("209.325" = 209,325 dwt, "82.245" = 82,245); a tonnage is a
+    whole number, so a period grouping exactly three digits is never a decimal point."""
+    if not v:
+        return v
+    s = str(v).strip()
+    if re.fullmatch(r"\d{1,3}(?:\.\d{3})+", s):
+        return s.replace(".", ",")
+    return v
+
+
 def _dedupe_words(words):
     """Drop words drawn twice at the same spot (an overprinted text layer).
 
@@ -433,7 +445,7 @@ def extract_sales_tables(
 
                 row_clean = {k: clean_str(" ".join(v)) for k, v in row.items()}
                 name = row_clean.get("NAME", "")
-                dwt = row_clean.get("DWT", "")
+                dwt = _norm_tonnage(row_clean.get("DWT", ""))
                 year = row_clean.get("YEAR", "")
                 yard = row_clean.get("YARD", "")
                 buyers = row_clean.get("BUYERS", "")
@@ -607,8 +619,8 @@ def extract_demo_sales_tables(
                             "NAME": name,
                             "TYPE": row_clean.get("TYPE", ""),
                             "YEAR": row_clean.get("YEAR", ""),
-                            "DWT": row_clean.get("DWT", ""),
-                            "LDT": row_clean.get("LDT", ""),
+                            "DWT": _norm_tonnage(row_clean.get("DWT", "")),
+                            "LDT": _norm_tonnage(row_clean.get("LDT", "")),
                             "COUNTRY": row_clean.get("COUNTRY", ""),
                             "PRICE_RAW": raw_p or "N/A",
                             "PRICE_USD_PER_LDT": p_ldt if p_ldt is not None else "",

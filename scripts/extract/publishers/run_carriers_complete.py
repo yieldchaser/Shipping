@@ -128,6 +128,15 @@ def parse_numeric(val: Any) -> Optional[float]:
     return None
 
 
+def parse_tonnage(val: Any) -> Optional[float]:
+    """A dwt/ldt cell. Some issues (2023 W51, 2024 W01) print a period as the thousands separator
+    ('206.204' = 206,204 dwt); a tonnage is a whole number, so a period grouping exactly three digits is never a
+    decimal point."""
+    if val is not None and re.fullmatch(r"\d{1,3}(?:\.\d{3})+", str(val).strip()):
+        return float(str(val).strip().replace(".", ""))
+    return parse_numeric(val)
+
+
 def write_md(path: Path, text: str) -> None:
     """The existing Carriers MDs are owner-audited and row-repaired against the PDFs (carriers_rows_fix, printed
     number forms); a full re-run must not replace them. New reports are written; pass --force-md to overwrite."""
@@ -349,7 +358,7 @@ def extract_sp_section_rows(
 
     results: List[Dict[str, Any]] = []
     for v in vessels:
-        dwt_num = parse_numeric(v["dwt_raw"])
+        dwt_num = parse_tonnage(v["dwt_raw"])
         built_num = int(v["built_raw"]) if v["built_raw"].isdigit() else None
 
         yard_str = clean_text(" ".join(w[2] for w in sorted(v["yard_words"], key=lambda x: (round(x[0], 1), x[1]))))
@@ -463,8 +472,8 @@ def extract_demolition_rows(
 
     rows: List[Dict[str, Any]] = []
     for c in candidates:
-        dwt_num = parse_numeric(c["dwt_raw"])
-        ldt_num = parse_numeric(c["ldt_raw"])
+        dwt_num = parse_tonnage(c["dwt_raw"])
+        ldt_num = parse_tonnage(c["ldt_raw"])
         built_num = int(c["built_raw"]) if c["built_raw"].isdigit() else None
         p_ldt = parse_numeric(c["price_raw"])
 
@@ -579,7 +588,9 @@ def extract_newbuilding_rows(
         v_type = c["type"]
         if not v_type or v_type.upper() in ["TYPE", "TOTAL", "NEWBUILDING"]:
             continue
-        p_mil = parse_numeric(c["price_raw"])
+        # newbuilding prices are printed in millions; a decimal comma ("37,3 EACH", 2024 W51) is 37.3, not 373
+        eu = re.search(r"(?<![0-9])[0-9]{1,3},[0-9]{1,2}(?![0-9])", c["price_raw"] or "")
+        p_mil = float(eu.group(0).replace(",", ".")) if eu else parse_numeric(c["price_raw"])
         yard_str = clean_text(" ".join(w[2] for w in sorted(c["yard_words"], key=lambda x: (round(x[0], 1), x[1]))))
         owners_str = clean_text(" ".join(w[2] for w in sorted(c["owners_words"], key=lambda x: (round(x[0], 1), x[1]))))
         comm_str = clean_text(" ".join(w[2] for w in sorted(c["comments_words"], key=lambda x: (round(x[0], 1), x[1]))))
@@ -1024,66 +1035,6 @@ def extract_tanker_tce(
     return tanker_tce_recs
 
 
-def parse_vessel_values_report_2021(doc: pymupdf.Document, issue_date: str, report_week: Optional[int], source_file: str) -> Dict[str, Any]:
-    """Parse singleton 2021-11-19 report with VesselsValue format."""
-    sales_recs: List[Dict[str, Any]] = []
-    lines = cluster_page_words_into_lines(doc[0])
-    for y, ln in lines:
-        s = " ".join(w[4] for w in ln)
-        if "Bunji" in s or "Berlin" in s or "Zhong Xing Da" in s:
-            name = "Bunji" if "Bunji" in s else ("Berlin" if "Berlin" in s else "Zhong Xing Da 98")
-            v_type = "Post Panamax" if "Bunji" in s else ("Panamax" if "Berlin" in s else "Handysize")
-            dwt = 98700 if "Bunji" in s else (76500 if "Berlin" in s else 38400)
-            built = 2013 if "Bunji" in s else (2009 if "Berlin" in s else 2013)
-            yard = "Tsuneishi Zhoushan" if "Bunji" in s else ("Imabari" if "Berlin" in s else "Hexing")
-            price = 24.0 if "Bunji" in s else (19.9 if "Berlin" in s else 14.4)
-            buyers = "Oldendorff Carriers" if "Bunji" in s else ("Phoenix Bulk Carriers" if "Berlin" in s else "Undisclosed")
-            sales_recs.append({
-                "issue_date": issue_date,
-                "report_week": report_week,
-                "section": "bulk_carriers",
-                "page": 1,
-                "vessel_name": name,
-                "type": v_type,
-                "dwt": dwt,
-                "built": built,
-                "yard": yard,
-                "price_raw": str(price),
-                "price_usd_mill": price,
-                "buyers": buyers,
-                "comments": "",
-                "source_file": source_file,
-            })
-        elif "Astro Perseus" in s:
-            sales_recs.append({
-                "issue_date": issue_date,
-                "report_week": report_week,
-                "section": "tankers",
-                "page": 1,
-                "vessel_name": "Astro Perseus",
-                "type": "Suezmax",
-                "dwt": 159100,
-                "built": 2004,
-                "yard": "Hyundai HI",
-                "price_raw": "18.5",
-                "price_usd_mill": 18.5,
-                "buyers": "Undisclosed",
-                "comments": "DD Due",
-                "source_file": source_file,
-            })
-    return {
-        "sales": sales_recs,
-        "demolition": [],
-        "newbuilding": [],
-        "bspa": [],
-        "bda": [],
-        "indices": [],
-        "weighted_routes": [],
-        "tc_period": [],
-        "tanker_tce": [],
-    }
-
-
 def generate_markdown(
     stem: str,
     pdf_path: Path,
@@ -1283,27 +1234,9 @@ def run():
         seen_docs[_dup_key] = pdf_path.name
         doc = pymupdf.open(pdf_path)
 
-        # Handle singleton VV format (2021-11-19)
+        # 2021-11-19 is a Seasure Shipbroking "Blue Report" filed under Carriers: not Carriers data, and its MD is
+        # transcribed from the page by hand, so it is neither parsed nor rewritten here
         if "2021_19-Nov-2021" in stem:
-            doc_data = parse_vessel_values_report_2021(doc, issue_date or "2021-11-19", report_week or 46, pdf_path.name)
-            master_sales.extend(doc_data["sales"])
-            md_doc = generate_markdown(stem, pdf_path, doc, [1], issue_date or "2021-11-19", report_week or 46, doc_data)
-            write_md(OUT_MD / f"{stem}.md", md_doc)
-            sidecar = {
-                "stem": stem,
-                "issue_date": issue_date or "2021-11-19",
-                "report_week": report_week or 46,
-                "source_file": pdf_path.name,
-                "pages_total": len(doc),
-                "substantive_pages": [1],
-                "counts": {
-                    "sales": len(doc_data["sales"]),
-                    "demolition": 0, "newbuilding": 0, "bspa": 0, "bda": 0,
-                    "indices": 0, "weighted_routes": 0, "tc_period": 0, "tanker_tce": 0
-                },
-                "tables": doc_data
-            }
-            (OUT_MD / f"{stem}.tables.json").write_text(json.dumps(sidecar, indent=2, ensure_ascii=False), encoding="utf-8")
             continue
 
         # Handle freight review dry report (2026 W28)

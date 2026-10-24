@@ -64,13 +64,6 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W07_WK-7-24-CARRIERS_SP-M
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | LNG | 15 | 174,000 CBM | SAMSUNG | 2027/28 | 230 EACH | QATAR GAS |  |
 | CHEMICAL | 6 | 38,000 DWT | NANTONG | 2026/29 | - | NYK STOLT TANKERS | PLUS 6 OPTION ST. STEEL |
-| Size | Size | Price in $m Sentiment |  | Type | Place LDT | (LT) Price $/LDT | Sentiment |
-| VLCC | 305000 | 104.795 | ꜛ TANKERS | SUBCON | 15000 | - 25000 511.80 | ꜛ |
-| AFRAMAX | 115000 | 69.603 | ꜛ |  |  |  |  |
-| MR PRODUCT | 51000 | 44.923 | CONTAINERS ꜛ | SUBCON | 6000 | - 10000 N/A |  |
-| CAPESIZE | 180000 | 52.105 | ꜛ |  |  |  |  |
-| PANAMAX | 82500 | 32.79 | ꜛ BULKERS | SUBCON | 7000 | – 12000 505.66 | ꜛ |
-| SUPRAMAX | 58328 | 26.224 | ꜛ |  |  |  |  |
 
 ## BSPA Secondhand Market Assessments (5 Years Old)
 

@@ -42,7 +42,7 @@ source: `corpus/01-brokers/carriers/2023/carriers_2023_W51_WK-51-23-CARRIERS_SP-
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SSL DELHI | CV | 33.912 | 10.669 | 2000 | GmbH - Wismar Nippon Kokan KK | 532 |  | 100 MT BUNKERS INC. |
 | JIN HAI XI | BC | 28.615 | 5.937 | 1995 | (NKK Corp) - Yokohama KN (Tsurumi Shipyard) Guangzhou | 506 | INDIA |  |
-| TJ ORHAN | CV | 20.631 | 7.36 | 1998 | Wenchong Shipyard - Guangzhou GD Jiangdong Shipyard | 560 | INDIA | INC. BUNKERS AS IS |
+| TJ ORHAN | CV | 20.631 | 7.360 | 1998 | Wenchong Shipyard - Guangzhou GD Jiangdong Shipyard | 560 | INDIA | INC. BUNKERS AS IS |
 | CORSICA | MPP | 6.404 | 3.926 | 2001 | - Wuhu AH |  |  | SINGAPORE DAMAGED |
 | SHUN SHIN | GE | 2.508 | 520 | 2005 | FUZHOU FUKAI SHIPBUILD |  | UNDISCLOSED |  |
 

@@ -268,7 +268,7 @@
         "page": 1,
         "vessel_name": "VENUS GLORY",
         "type": "GAS",
-        "dwt": 54.474,
+        "dwt": 54474.0,
         "built": 2008,
         "yard": "Daewoo Shipbuilding & Marine",
         "price_raw": "66.00",
