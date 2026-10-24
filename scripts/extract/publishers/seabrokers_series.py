@@ -10,6 +10,9 @@ CI writes next to every MD, with the row rules of that pipeline:
   * fleet_moves          "ARRIVALS / DEPARTURES NORTH SEA SPOT"
   * snp_auctions         the Bourbon auction table (VESSEL/S, TYPE, WINNING BID, BUYING ENTITY)
   * rigs_market          "INACTIVE RIGS" table (section rigs_inactive)
+  * rig_utilisation_monthly  "OIL PRICE VS (CONTRACTED) RIG UTILISATION" chart: per printed month, Brent and each
+                       region's contracted rig utilisation, read from the PDF's data labels (the parsed tables
+                       of this chart shift labels into wrong months / columns); needs the issue PDF
   * feature_vessels      the featured-vessel fact box ("Vessel Name:", "Owner:", "Length:" ...)
 
 source_page is the PDF page holding the table title. --check rebuilds every issue already in a series and
@@ -28,12 +31,13 @@ import os
 import re
 import sys
 from pathlib import Path
+from statistics import median
 
 ROOT = Path(__file__).resolve().parents[3]
 MD = ROOT / "data" / "extracted" / "md" / "seabrokers"
 SER = ROOT / "data" / "extracted" / "series"
 FAMILIES = ("osv_spot_rates", "osv_utilisation", "osv_monthly_history", "fleet_moves", "snp_auctions",
-            "rigs_market", "feature_vessels")
+            "rigs_market", "rig_utilisation_monthly", "feature_vessels")
 MONTHS = {m: i for i, m in enumerate(("JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT",
                                       "NOV", "DEC"), 1)}
 CLASSES = ("PSVs < 900m2", "PSVs > 900m2", "AHTS < 22,000 bhp", "AHTS > 22,000 bhp")
@@ -93,6 +97,72 @@ class Pages:
             if t and t in txt and cell in txt:
                 return f"{i}.0"
         return ""
+
+
+def _no(why: list | None, reason: str) -> list:
+    if why is not None:
+        why.append(reason)
+    return []
+
+
+def rig_utilisation_pdf(pdf: Path, year: int, month: int, why: list | None = None) -> list[dict]:
+    """The "OIL PRICE VS (CONTRACTED) RIG UTILISATION" chart read from its printed data labels. The month of a label
+    is the month tick under it (x position); the series is the legend entry whose marker colour is nearest the
+    label's colour, Brent being the "$" labels. A month with two labels of one series, or a label of no series,
+    drops the whole issue: the parsed tables shift labels into the wrong month or column when one is missing."""
+    try:
+        import pymupdf
+        doc = pymupdf.open(pdf)
+    except Exception:
+        return []
+    with doc:
+        for pno, pg in enumerate(doc):
+            spans = [s for b in pg.get_text("dict")["blocks"] for ln in b.get("lines", []) for s in ln["spans"]]
+            legend = [s for s in spans if re.search(r"rig utili[sz]ation$", s["text"].strip(), re.I)
+                      and not s["text"].isupper()]                                   # (not the chart title)
+            ticks = [s for s in spans if re.fullmatch(r"[A-Z][a-z]{2} \d\d", s["text"].strip())
+                     and MONTHS.get(s["text"][:3].upper())]
+            if not legend or len(ticks) < 6:
+                continue
+            ty = median(t["bbox"][1] for t in ticks)
+            ticks = [t for t in ticks if abs(t["bbox"][1] - ty) < 4]
+            x0, x1 = min(t["bbox"][0] for t in ticks) - 15, max(t["bbox"][2] for t in ticks) + 15
+            colours = {}
+            for s in legend:
+                r = pymupdf.Rect(s["bbox"])
+                cy = (r.y0 + r.y1) / 2
+                mk = [d for d in pg.get_drawings() if abs((d["rect"].y0 + d["rect"].y1) / 2 - cy) < 5
+                      and r.x0 - 60 < d["rect"].x1 <= r.x0 + 2 and (d.get("color") or d.get("fill"))]
+                if mk:
+                    colours[re.split(r"\s+rig util", s["text"].strip(), flags=re.I)[0]] = mk[0].get("color") or mk[0].get("fill")
+            if len(colours) != len(legend):
+                return _no(why, f"p{pno}: legend marker colours {sorted(colours)} of {len(legend)} entries")
+            got: dict[tuple[str, str], str] = {}
+            for s in spans:
+                t = s["text"].strip()
+                cx, top = (s["bbox"][0] + s["bbox"][2]) / 2, s["bbox"][1]
+                if not re.fullmatch(r"\$?\d+\.\d+%?", t) or not (x0 < cx < x1) or not (ty - 330 < top < ty):
+                    continue
+                if t.startswith("$"):
+                    region, metric = "", "brent_avg"
+                elif t.endswith("%"):
+                    rgb = ((s["color"] >> 16) / 255, ((s["color"] >> 8) & 255) / 255, (s["color"] & 255) / 255)
+                    dist = sorted((sum((a - b) ** 2 for a, b in zip(rgb, c)), n) for n, c in colours.items())
+                    if dist[0][0] > 0.12 or (len(dist) > 1 and dist[1][0] - dist[0][0] < 0.05):
+                        return _no(why, f"p{pno}: label {t} colour {s['color']:06x} matches no legend colour")
+                    region, metric = dist[0][1], "rig_utilisation"
+                else:
+                    continue
+                tk = min(ticks, key=lambda k: abs((k["bbox"][0] + k["bbox"][2]) / 2 - cx))
+                yy, mo = 2000 + int(tk["text"].strip()[4:]), MONTHS[tk["text"][:3].upper()]
+                key = (f"{yy}-{mo:02d}", region)
+                if key in got or (yy, mo) > (year, month):
+                    return _no(why, f"p{pno}: second label for {key} ({got.get(key)}, {t}) or month after the issue")
+                got[key] = t.strip("$%")
+            return [{"period": p, "region": rg, "metric": "brent_avg" if not rg else "rig_utilisation",
+                     "value": str(float(v)), "unit": "USD/bbl" if not rg else "percent", "source": "seabrokers",
+                     "source_page": f"{pno}.0"} for (p, rg), v in sorted(got.items())]
+    return []
 
 
 def build(side: Path) -> tuple[str, dict[str, list[dict]]] | None:
@@ -177,6 +247,8 @@ def build(side: Path) -> tuple[str, dict[str, list[dict]]] | None:
                                                "value_text": "", "unit": "count", "period": date[:7],
                                                "note": f"rig={v[0].strip()}; type={v[1].strip()}; status={v[2].strip()}",
                                                "source": "seabrokers", "source_page": pg})
+    if pdf.is_file():
+        out["rig_utilisation_monthly"] = [{**base, **r} for r in rig_utilisation_pdf(pdf, year, month)]
     # month grids: a Category column, or one unlabelled grid per class. An unlabelled grid is the class whose
     # issue-month rates (this year, last year) are the ones the average-rates table prints; else it is skipped
     rate = {}
