@@ -1305,6 +1305,8 @@ def process_single_pdf(
             import run_fearnleys_md_full_power
             if not dry_run:
                 run_fearnleys_md_full_power.run_fearnleys_md_pipeline()   # exact API tables + chart list sidecars
+                import run_fearnleys_md_growth
+                run_fearnleys_md_growth.main()   # growth figures printed in the dry bulk weekly text
         except Exception as e:
             print(f"  [!] fearnleys-md extraction failed ({e}); not falling back to a PDF dump.")
         specialized_result = {"stem": stem, "pub": pub, "specialized": True}

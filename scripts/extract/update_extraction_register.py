@@ -48,6 +48,7 @@ def generate_extraction_register_md():
         'drewry_ais_product_lr1_series.csv': 'LR1 Product tanker fleet intelligence & earnings',
         'drewry_ais_product_lr2_series.csv': 'LR2 Product tanker fleet intelligence & earnings',
         'fearnleys_rates_series.csv': 'Tanker spot, dry bulk, gas, & 1Y T/C rates ($/day, WS)',
+        'fearnleys_drybulk_growth_series.csv': 'Dry bulk shipment volume & DWT supply growth by segment (% yoy, printed in text)',
         'hellenic_capesize_c3_c5_series.csv': 'Daily Capesize iron ore freight rates C3 & C5 ($/t)',
         'hellenic_iron_ore_daily_series.csv': 'Daily iron ore spot, futures (DCE, SGX), steel benchmarks',
         'intermodal_baltic_indices_series.csv': 'Baltic Dry indices (BDI, BCI, BPI, BSI, BHSI)',

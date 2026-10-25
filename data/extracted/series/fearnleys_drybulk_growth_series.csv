@@ -1,0 +1,181 @@
+issue_date,segment,metric,through_week,last_weeks,value_pct,clause,source_file
+2026-03-11,Panamax,volume_growth_ytd_pct,10,,6.3,Shipment volumes were up 6.3% year on year through week 10,data/extracted/md/fearnleys-md/2026/2026-03-11_fearnleys-dry-bulk-weekly-11th-march-2026-1.md
+2026-03-11,Supramax,volume_growth_ytd_pct,10,,9.0,Shipment volumes were up 9.0% year on year through week 10,data/extracted/md/fearnleys-md/2026/2026-03-11_fearnleys-dry-bulk-weekly-11th-march-2026-1.md
+2026-03-18,Panamax,volume_growth_ytd_pct,11,,5.4,Shipment volumes were up 5.4% year on year through week 11,data/extracted/md/fearnleys-md/2026/2026-03-18_fearnleys-dry-bulk-weekly-18th-march-2026-2.md
+2026-03-18,Supramax,volume_growth_ytd_pct,11,,8.7,Shipment volumes were up 8.7% year on year through week 11,data/extracted/md/fearnleys-md/2026/2026-03-18_fearnleys-dry-bulk-weekly-18th-march-2026-2.md
+2026-03-18,Handysize,volume_growth_ytd_pct,11,,6.6,"Through week 11, Handysize shipment volumes were 6.6% higher than the same period in 2025",data/extracted/md/fearnleys-md/2026/2026-03-18_fearnleys-dry-bulk-weekly-18th-march-2026-2.md
+2026-03-25,Capesize,volume_growth_ytd_pct,12,,8.7,Shipment volumes were 8.7% higher than last year through week 12,data/extracted/md/fearnleys-md/2026/2026-03-25_fearnleys-dry-bulk-weekly-25th-march-2026-3.md
+2026-03-25,Panamax,volume_growth_ytd_pct,12,,5.5,Shipment volumes were up 5.5% year on year through week 12,data/extracted/md/fearnleys-md/2026/2026-03-25_fearnleys-dry-bulk-weekly-25th-march-2026-3.md
+2026-03-25,Supramax,volume_growth_ytd_pct,12,,8.9,Shipment volumes were up 8.9% year on year through week 12,data/extracted/md/fearnleys-md/2026/2026-03-25_fearnleys-dry-bulk-weekly-25th-march-2026-3.md
+2026-03-25,Handysize,volume_growth_ytd_pct,11,,6.0,"Through week 11, Handysize shipment volumes were 6.0% higher than the same period in 2025",data/extracted/md/fearnleys-md/2026/2026-03-25_fearnleys-dry-bulk-weekly-25th-march-2026-3.md
+2026-04-08,Capesize,volume_growth_ytd_pct,14,,6.3,Shipment volumes were 6.3% higher than last year through week 14,data/extracted/md/fearnleys-md/2026/2026-04-08_fearnleys-dry-bulk-weekly-8th-april-2026-4.md
+2026-04-08,Panamax,volume_growth_ytd_pct,14,,5.2,Shipment volumes were up 5.2% year on year through week 14,data/extracted/md/fearnleys-md/2026/2026-04-08_fearnleys-dry-bulk-weekly-8th-april-2026-4.md
+2026-04-08,Supramax,volume_growth_ytd_pct,14,,5.7,Shipment volumes were up 5.7% year on year through week 14,data/extracted/md/fearnleys-md/2026/2026-04-08_fearnleys-dry-bulk-weekly-8th-april-2026-4.md
+2026-04-08,Handysize,volume_growth_ytd_pct,11,,5.6,"Through week 11, Handysize shipment volumes were 5.6% higher than the same period in 2025",data/extracted/md/fearnleys-md/2026/2026-04-08_fearnleys-dry-bulk-weekly-8th-april-2026-4.md
+2026-04-15,Capesize,volume_growth_ytd_pct,15,,7.8,Shipment volumes were 7.8% higher than last year through week 15,data/extracted/md/fearnleys-md/2026/2026-04-15_fearnleys-dry-bulk-weekly-15th-april-2026-5.md
+2026-04-15,Panamax,volume_growth_ytd_pct,15,,4.8,Shipment volumes were up 4.8% year on year through week 15,data/extracted/md/fearnleys-md/2026/2026-04-15_fearnleys-dry-bulk-weekly-15th-april-2026-5.md
+2026-04-15,Supramax,volume_growth_ytd_pct,15,,5.8,Shipment volumes were up 5.8% year on year through week 15,data/extracted/md/fearnleys-md/2026/2026-04-15_fearnleys-dry-bulk-weekly-15th-april-2026-5.md
+2026-04-15,Handysize,volume_growth_ytd_pct,15,,4.8,"Through week 15, Handysize shipment volumes were 4.8% higher than the same period in 2025",data/extracted/md/fearnleys-md/2026/2026-04-15_fearnleys-dry-bulk-weekly-15th-april-2026-5.md
+2026-04-22,Capesize,volume_growth_ytd_pct,16,,7.1,Shipment volumes were 7.1% higher than last year through week 16,data/extracted/md/fearnleys-md/2026/2026-04-22_fearnleys-dry-bulk-weekly-22nd-april-2026-6.md
+2026-04-22,Capesize,supply_growth_pct,,,1.5,Supply growth is at 1.5%,data/extracted/md/fearnleys-md/2026/2026-04-22_fearnleys-dry-bulk-weekly-22nd-april-2026-6.md
+2026-04-22,Panamax,volume_growth_ytd_pct,16,,4.2,Shipment volumes were up 4.2% year on year through week 16,data/extracted/md/fearnleys-md/2026/2026-04-22_fearnleys-dry-bulk-weekly-22nd-april-2026-6.md
+2026-04-22,Panamax,supply_growth_pct,,,4,supply growth rate of 4%,data/extracted/md/fearnleys-md/2026/2026-04-22_fearnleys-dry-bulk-weekly-22nd-april-2026-6.md
+2026-04-22,Supramax,volume_growth_ytd_pct,16,,5.9,Shipment volumes were up 5.9% year on year through week 16,data/extracted/md/fearnleys-md/2026/2026-04-22_fearnleys-dry-bulk-weekly-22nd-april-2026-6.md
+2026-04-22,Supramax,supply_growth_pct,,,5.2,Supply growth is at 5.2%,data/extracted/md/fearnleys-md/2026/2026-04-22_fearnleys-dry-bulk-weekly-22nd-april-2026-6.md
+2026-04-22,Handysize,volume_growth_ytd_pct,16,,4.4,"Through week 16, Handysize shipment volumes were 4.4% higher than the same period in 2025",data/extracted/md/fearnleys-md/2026/2026-04-22_fearnleys-dry-bulk-weekly-22nd-april-2026-6.md
+2026-04-29,Capesize,volume_growth_ytd_pct,17,,7.1,Shipment volumes were 7.1% higher than last year through week 17,data/extracted/md/fearnleys-md/2026/2026-04-29_fearnleys-dry-bulk-weekly-29th-april-2026-7.md
+2026-04-29,Capesize,supply_growth_pct,,,1.5,Supply growth is at 1.5%,data/extracted/md/fearnleys-md/2026/2026-04-29_fearnleys-dry-bulk-weekly-29th-april-2026-7.md
+2026-04-29,Panamax,volume_growth_ytd_pct,16,,4.1,Shipment volumes were up 4.1% year on year through week 16,data/extracted/md/fearnleys-md/2026/2026-04-29_fearnleys-dry-bulk-weekly-29th-april-2026-7.md
+2026-04-29,Panamax,supply_growth_pct,,,4,supply growth rate of 4%,data/extracted/md/fearnleys-md/2026/2026-04-29_fearnleys-dry-bulk-weekly-29th-april-2026-7.md
+2026-04-29,Supramax,volume_growth_ytd_pct,17,,5.7,Shipment volumes were up 5.7% year on year through week 17,data/extracted/md/fearnleys-md/2026/2026-04-29_fearnleys-dry-bulk-weekly-29th-april-2026-7.md
+2026-04-29,Supramax,supply_growth_pct,,,5.2,Supply growth is at 5.2%,data/extracted/md/fearnleys-md/2026/2026-04-29_fearnleys-dry-bulk-weekly-29th-april-2026-7.md
+2026-04-29,Handysize,volume_growth_ytd_pct,17,,4.4,"Through week 17, Handysize shipment volumes were 4.4% higher than the same period in 2025",data/extracted/md/fearnleys-md/2026/2026-04-29_fearnleys-dry-bulk-weekly-29th-april-2026-7.md
+2026-05-06,Capesize,volume_growth_ytd_pct,18,,7.4,Shipment volumes were 7.4% higher than last year through week 18,data/extracted/md/fearnleys-md/2026/2026-05-06_fearnleys-dry-bulk-weekly-6th-may-2026-8.md
+2026-05-06,Capesize,supply_growth_pct,,,1.5,Supply growth is at 1.5%,data/extracted/md/fearnleys-md/2026/2026-05-06_fearnleys-dry-bulk-weekly-6th-may-2026-8.md
+2026-05-06,Panamax,volume_growth_ytd_pct,18,,5.0,Shipment volumes were up 5.0% year on year through week 18,data/extracted/md/fearnleys-md/2026/2026-05-06_fearnleys-dry-bulk-weekly-6th-may-2026-8.md
+2026-05-06,Panamax,supply_growth_pct,,,4,Supply growth is at 4%,data/extracted/md/fearnleys-md/2026/2026-05-06_fearnleys-dry-bulk-weekly-6th-may-2026-8.md
+2026-05-06,Supramax,volume_growth_ytd_pct,17,,5.7,Shipment volumes were up 5.7% year on year through week 17,data/extracted/md/fearnleys-md/2026/2026-05-06_fearnleys-dry-bulk-weekly-6th-may-2026-8.md
+2026-05-06,Supramax,supply_growth_pct,,,5.2,Supply growth is at 5.2%,data/extracted/md/fearnleys-md/2026/2026-05-06_fearnleys-dry-bulk-weekly-6th-may-2026-8.md
+2026-05-06,Handysize,volume_growth_ytd_pct,17,,4.4,"Through week 17, Handysize shipment volumes were 4.4% higher than the same period in 2025",data/extracted/md/fearnleys-md/2026/2026-05-06_fearnleys-dry-bulk-weekly-6th-may-2026-8.md
+2026-05-20,Capesize,volume_growth_ytd_pct,20,,6.5,Shipment volumes were 6.5% higher than last year through week 20,data/extracted/md/fearnleys-md/2026/2026-05-20_fearnleys-dry-bulk-weekly-20th-may-2026-9.md
+2026-05-20,Capesize,supply_growth_pct,,,1.5,Supply growth is at 1.5%,data/extracted/md/fearnleys-md/2026/2026-05-20_fearnleys-dry-bulk-weekly-20th-may-2026-9.md
+2026-05-20,Panamax,volume_growth_ytd_pct,20,,4.6,Shipment volumes were up 4.6% year on year through week 20,data/extracted/md/fearnleys-md/2026/2026-05-20_fearnleys-dry-bulk-weekly-20th-may-2026-9.md
+2026-05-20,Panamax,supply_growth_pct,,,4,Supply growth is at 4%,data/extracted/md/fearnleys-md/2026/2026-05-20_fearnleys-dry-bulk-weekly-20th-may-2026-9.md
+2026-05-20,Supramax,volume_growth_ytd_pct,20,,5.7,Shipment volumes were up 5.7% year on year through week 20,data/extracted/md/fearnleys-md/2026/2026-05-20_fearnleys-dry-bulk-weekly-20th-may-2026-9.md
+2026-05-20,Supramax,supply_growth_pct,,,5.2,Supply growth is at 5.2%,data/extracted/md/fearnleys-md/2026/2026-05-20_fearnleys-dry-bulk-weekly-20th-may-2026-9.md
+2026-05-20,Handysize,volume_growth_ytd_pct,20,,4.1,"Through week 20, Handysize shipment volumes were 4.1% higher year on year",data/extracted/md/fearnleys-md/2026/2026-05-20_fearnleys-dry-bulk-weekly-20th-may-2026-9.md
+2026-05-27,Capesize,volume_growth_ytd_pct,21,,6.4,Shipment volumes were 6.4% higher than last year through week 21,data/extracted/md/fearnleys-md/2026/2026-05-27_fearnleys-dry-bulk-weekly-27th-may-2026-10.md
+2026-05-27,Capesize,supply_growth_pct,,,1.5,Supply growth is at 1.5%,data/extracted/md/fearnleys-md/2026/2026-05-27_fearnleys-dry-bulk-weekly-27th-may-2026-10.md
+2026-05-27,Panamax,volume_growth_ytd_pct,21,,4.7,Shipment volumes were up 4.7% year on year through week 21,data/extracted/md/fearnleys-md/2026/2026-05-27_fearnleys-dry-bulk-weekly-27th-may-2026-10.md
+2026-05-27,Panamax,supply_growth_pct,,,4,Supply growth is at 4%,data/extracted/md/fearnleys-md/2026/2026-05-27_fearnleys-dry-bulk-weekly-27th-may-2026-10.md
+2026-05-27,Supramax,volume_growth_ytd_pct,21,,5.4,Shipment volumes were up 5.4% year on year through week 21,data/extracted/md/fearnleys-md/2026/2026-05-27_fearnleys-dry-bulk-weekly-27th-may-2026-10.md
+2026-05-27,Supramax,supply_growth_pct,,,5.2,Supply growth is at 5.2%,data/extracted/md/fearnleys-md/2026/2026-05-27_fearnleys-dry-bulk-weekly-27th-may-2026-10.md
+2026-05-27,Handysize,volume_growth_ytd_pct,21,,4.1,"Through week 21, Handysize shipment volumes were 4.1% higher year on year",data/extracted/md/fearnleys-md/2026/2026-05-27_fearnleys-dry-bulk-weekly-27th-may-2026-10.md
+2026-06-03,Capesize,volume_growth_ytd_pct,22,,6.2,Shipment volumes were 6.2% higher than last year through week 22,data/extracted/md/fearnleys-md/2026/2026-06-03_fearnleys-dry-bulk-weekly-3rd-june-2026-11.md
+2026-06-03,Capesize,supply_growth_pct,,,1.5,Supply growth is at 1.5%,data/extracted/md/fearnleys-md/2026/2026-06-03_fearnleys-dry-bulk-weekly-3rd-june-2026-11.md
+2026-06-03,Panamax,volume_growth_ytd_pct,22,,5.2,Shipment volumes were up 5.2% year on year through week 22,data/extracted/md/fearnleys-md/2026/2026-06-03_fearnleys-dry-bulk-weekly-3rd-june-2026-11.md
+2026-06-03,Supramax,volume_growth_ytd_pct,22,,5.2,Shipment volumes were up 5.2% year on year through week 22,data/extracted/md/fearnleys-md/2026/2026-06-03_fearnleys-dry-bulk-weekly-3rd-june-2026-11.md
+2026-06-03,Supramax,supply_growth_pct,,,5.2,Supply growth is at 5.2%,data/extracted/md/fearnleys-md/2026/2026-06-03_fearnleys-dry-bulk-weekly-3rd-june-2026-11.md
+2026-06-03,Handysize,volume_growth_ytd_pct,22,,3.5,"Through week 22, Handysize shipment volumes were 3.5% higher year on year",data/extracted/md/fearnleys-md/2026/2026-06-03_fearnleys-dry-bulk-weekly-3rd-june-2026-11.md
+2026-06-10,Capesize,volume_growth_ytd_pct,23,,5.7,Shipment volumes were 5.7% higher than last year through week 23,data/extracted/md/fearnleys-md/2026/2026-06-10_fearnleys-dry-bulk-weekly-10th-june-2026-12.md
+2026-06-10,Capesize,supply_growth_pct,,,1.5,supply growth remains at just 1.5%,data/extracted/md/fearnleys-md/2026/2026-06-10_fearnleys-dry-bulk-weekly-10th-june-2026-12.md
+2026-06-10,Panamax,volume_growth_ytd_pct,23,,5.6,Shipment volumes were up 5.6% year on year through week 23,data/extracted/md/fearnleys-md/2026/2026-06-10_fearnleys-dry-bulk-weekly-10th-june-2026-12.md
+2026-06-10,Handysize,supply_growth_pct,,,2.7,Supply growth is at 2.7%,data/extracted/md/fearnleys-md/2026/2026-06-10_fearnleys-dry-bulk-weekly-10th-june-2026-12.md
+2026-06-10,Handysize,volume_growth_ytd_pct,23,,3.1,"Through week 23, Handysize shipment volumes were 3.1% higher year on year",data/extracted/md/fearnleys-md/2026/2026-06-10_fearnleys-dry-bulk-weekly-10th-june-2026-12.md
+2026-06-17,Capesize,volume_growth_ytd_pct,24,,5.8,Shipment volumes were 5.8% higher than last year through week 24,data/extracted/md/fearnleys-md/2026/2026-06-17_fearnleys-dry-bulk-weekly-17th-june-2026-13.md
+2026-06-17,Capesize,supply_growth_pct,,,1.5,supply growth remains at just 1.5%,data/extracted/md/fearnleys-md/2026/2026-06-17_fearnleys-dry-bulk-weekly-17th-june-2026-13.md
+2026-06-17,Panamax,volume_growth_ytd_pct,24,,5.2,Shipment volumes were up 5.2% year on year through week 24,data/extracted/md/fearnleys-md/2026/2026-06-17_fearnleys-dry-bulk-weekly-17th-june-2026-13.md
+2026-06-17,Panamax,supply_growth_pct,,,4.6,Supply growth was 4.6%,data/extracted/md/fearnleys-md/2026/2026-06-17_fearnleys-dry-bulk-weekly-17th-june-2026-13.md
+2026-06-17,Handysize,volume_growth_ytd_pct,23,,3.1,"Through week 23, Handysize shipment volumes were 3.1% higher year on year",data/extracted/md/fearnleys-md/2026/2026-06-17_fearnleys-dry-bulk-weekly-17th-june-2026-13.md
+2026-06-24,Capesize,volume_growth_ytd_pct,25,,5.0,Shipment volumes were 5.0% higher than last year through week 25,data/extracted/md/fearnleys-md/2026/2026-06-24_fearnleys-dry-bulk-weekly-24th-june-2026-14.md
+2026-06-24,Panamax,volume_growth_ytd_pct,25,,5.0,Shipment volumes were up 5.0% year on year through week 25,data/extracted/md/fearnleys-md/2026/2026-06-24_fearnleys-dry-bulk-weekly-24th-june-2026-14.md
+2026-06-24,Panamax,supply_growth_pct,,,4.6,Supply growth was 4.6%,data/extracted/md/fearnleys-md/2026/2026-06-24_fearnleys-dry-bulk-weekly-24th-june-2026-14.md
+2026-06-24,Handysize,volume_growth_ytd_pct,24,,2.9,"Through week 24, Handysize shipment volumes were 2.9% higher year on year",data/extracted/md/fearnleys-md/2026/2026-06-24_fearnleys-dry-bulk-weekly-24th-june-2026-14.md
+2026-07-15,Capesize,volume_growth_ytd_pct,28,,5.0,Shipment volumes were 5.0% higher than last year through week 28,data/extracted/md/fearnleys-md/2026/2026-07-15_fearnleys-dry-bulk-weekly-15th-july-2026-15.md
+2026-07-15,Capesize,supply_growth_pct,,,1.5,supply growth of 1.5%,data/extracted/md/fearnleys-md/2026/2026-07-15_fearnleys-dry-bulk-weekly-15th-july-2026-15.md
+2026-07-15,Panamax,volume_growth_ytd_pct,28,,4.8,Shipment volumes were up 4.8% year on year through week 28,data/extracted/md/fearnleys-md/2026/2026-07-15_fearnleys-dry-bulk-weekly-15th-july-2026-15.md
+2026-07-15,Panamax,supply_growth_pct,,,4.9,Supply growth was 4.9%,data/extracted/md/fearnleys-md/2026/2026-07-15_fearnleys-dry-bulk-weekly-15th-july-2026-15.md
+2026-07-15,Supramax,volume_growth_ytd_pct,28,,5.7,Shipment volume growth was 5.7% through week 28,data/extracted/md/fearnleys-md/2026/2026-07-15_fearnleys-dry-bulk-weekly-15th-july-2026-15.md
+2026-07-15,Supramax,supply_growth_pct,,,5.1,supply growth of 5.1%,data/extracted/md/fearnleys-md/2026/2026-07-15_fearnleys-dry-bulk-weekly-15th-july-2026-15.md
+2026-07-15,Handysize,volume_growth_ytd_pct,27,,3.9,"Through week 27, Handysize shipment volumes were 3.9% higher year on year",data/extracted/md/fearnleys-md/2026/2026-07-15_fearnleys-dry-bulk-weekly-15th-july-2026-15.md
+2026-07-15,Handysize,supply_growth_pct,,,2.8,Supply growth is 2.8%,data/extracted/md/fearnleys-md/2026/2026-07-15_fearnleys-dry-bulk-weekly-15th-july-2026-15.md
+2026-07-29,Panamax,volume_growth_ytd_pct,30,,4.1,Shipment volumes were up 4.1% year on year through week 30,data/extracted/md/fearnleys-md/2026/2026-07-29_fearnleys-dry-bulk-weekly-29th-july-2026-16.md
+2026-07-29,Panamax,supply_growth_pct,,,4.1,Supply growth was 4.1%,data/extracted/md/fearnleys-md/2026/2026-07-29_fearnleys-dry-bulk-weekly-29th-july-2026-16.md
+2026-07-29,Supramax,volume_growth_ytd_pct,29,,4.8,"Through week 29, shipment volumes were up 4.8% year on year",data/extracted/md/fearnleys-md/2026/2026-07-29_fearnleys-dry-bulk-weekly-29th-july-2026-16.md
+2026-07-29,Supramax,supply_growth_pct,,,5.1,supply growth of 5.1%,data/extracted/md/fearnleys-md/2026/2026-07-29_fearnleys-dry-bulk-weekly-29th-july-2026-16.md
+2026-07-29,Handysize,volume_growth_ytd_pct,29,,4.0,"Through week 29, Handysize shipment volumes were 4.0% higher year on year",data/extracted/md/fearnleys-md/2026/2026-07-29_fearnleys-dry-bulk-weekly-29th-july-2026-16.md
+2026-07-29,Handysize,supply_growth_pct,,,2.8,Supply growth is 2.8%,data/extracted/md/fearnleys-md/2026/2026-07-29_fearnleys-dry-bulk-weekly-29th-july-2026-16.md
+2026-08-05,Panamax,volume_growth_ytd_pct,31,,4.2,Shipment volumes were up 4.2% year on year through week 31,data/extracted/md/fearnleys-md/2026/2026-08-05_fearnleys-dry-bulk-weekly-5th-august-2026-17.md
+2026-08-05,Panamax,supply_growth_pct,,,4.1,Supply growth was 4.1%,data/extracted/md/fearnleys-md/2026/2026-08-05_fearnleys-dry-bulk-weekly-5th-august-2026-17.md
+2026-08-05,Supramax,volume_growth_ytd_pct,30,,4.6,"Through week 30, shipment volumes were up 4.6% year on year",data/extracted/md/fearnleys-md/2026/2026-08-05_fearnleys-dry-bulk-weekly-5th-august-2026-17.md
+2026-08-05,Supramax,supply_growth_pct,,,5.1,supply growth of 5.1%,data/extracted/md/fearnleys-md/2026/2026-08-05_fearnleys-dry-bulk-weekly-5th-august-2026-17.md
+2026-08-05,Handysize,volume_growth_ytd_pct,30,,3.5,"Through week 30, Handysize shipment volumes were 3.5% higher year on year",data/extracted/md/fearnleys-md/2026/2026-08-05_fearnleys-dry-bulk-weekly-5th-august-2026-17.md
+2026-08-05,Handysize,supply_growth_pct,,,2.8,Supply growth is 2.8%,data/extracted/md/fearnleys-md/2026/2026-08-05_fearnleys-dry-bulk-weekly-5th-august-2026-17.md
+2026-08-12,Capesize,volume_growth_ytd_pct,32,,4.8,"Through week 32, shipment volumes were 4.8% higher",data/extracted/md/fearnleys-md/2026/2026-08-12_fearnleys-dry-bulk-weekly-12th-august-2026-18.md
+2026-08-12,Capesize,volume_growth_last_weeks_pct,,8,2.3,"Comparing the last eight weeks with the same weeks last year, shipment volume growth was up 2.3%",data/extracted/md/fearnleys-md/2026/2026-08-12_fearnleys-dry-bulk-weekly-12th-august-2026-18.md
+2026-08-12,Capesize,supply_growth_pct,,,1.8,DWT supply growth remains at 1.8%,data/extracted/md/fearnleys-md/2026/2026-08-12_fearnleys-dry-bulk-weekly-12th-august-2026-18.md
+2026-08-12,Panamax,volume_growth_ytd_pct,32,,3.8,Shipment volumes were up 3.8% year on year through week 32,data/extracted/md/fearnleys-md/2026/2026-08-12_fearnleys-dry-bulk-weekly-12th-august-2026-18.md
+2026-08-12,Panamax,volume_growth_last_weeks_pct,,8,1.5,"In the last eight weeks, volumes were up 1.5%",data/extracted/md/fearnleys-md/2026/2026-08-12_fearnleys-dry-bulk-weekly-12th-august-2026-18.md
+2026-08-12,Panamax,supply_growth_pct,,,4.1,Supply growth was 4.1%,data/extracted/md/fearnleys-md/2026/2026-08-12_fearnleys-dry-bulk-weekly-12th-august-2026-18.md
+2026-08-12,Supramax,supply_growth_pct,,,5.2,DWT supply growth of 5.2%,data/extracted/md/fearnleys-md/2026/2026-08-12_fearnleys-dry-bulk-weekly-12th-august-2026-18.md
+2026-08-12,Supramax,volume_growth_ytd_pct,32,,4.5,"Through week 32, shipment volumes were up 4.5% year on year",data/extracted/md/fearnleys-md/2026/2026-08-12_fearnleys-dry-bulk-weekly-12th-august-2026-18.md
+2026-08-12,Supramax,supply_growth_pct,,,5.1,supply growth of 5.1%,data/extracted/md/fearnleys-md/2026/2026-08-12_fearnleys-dry-bulk-weekly-12th-august-2026-18.md
+2026-08-12,Handysize,volume_growth_ytd_pct,30,,3.5,"Through week 30, Handysize shipment volumes were 3.5% higher year on year",data/extracted/md/fearnleys-md/2026/2026-08-12_fearnleys-dry-bulk-weekly-12th-august-2026-18.md
+2026-08-12,Handysize,supply_growth_pct,,,2.8,Supply growth is 2.8%,data/extracted/md/fearnleys-md/2026/2026-08-12_fearnleys-dry-bulk-weekly-12th-august-2026-18.md
+2026-08-19,Capesize,volume_growth_ytd_pct,33,,4.7,"Through week 33, shipment volumes were 4.7% higher",data/extracted/md/fearnleys-md/2026/2026-08-19_fearnleys-dry-bulk-weekly-19th-august-2026-19.md
+2026-08-19,Capesize,volume_growth_last_weeks_pct,,8,2.2,"Comparing the last eight weeks with the same weeks last year, shipment volume growth was up 2.2%",data/extracted/md/fearnleys-md/2026/2026-08-19_fearnleys-dry-bulk-weekly-19th-august-2026-19.md
+2026-08-19,Capesize,supply_growth_pct,,,1.8,DWT supply growth remains at 1.8%,data/extracted/md/fearnleys-md/2026/2026-08-19_fearnleys-dry-bulk-weekly-19th-august-2026-19.md
+2026-08-19,Panamax,supply_growth_pct,,,4.2,DWT supply growth of 4.2%,data/extracted/md/fearnleys-md/2026/2026-08-19_fearnleys-dry-bulk-weekly-19th-august-2026-19.md
+2026-08-19,Panamax,volume_growth_ytd_pct,33,,3.3,Shipment volumes were up 3.3% year on year through week 33,data/extracted/md/fearnleys-md/2026/2026-08-19_fearnleys-dry-bulk-weekly-19th-august-2026-19.md
+2026-08-19,Panamax,volume_growth_last_weeks_pct,,8,-1,"In the last eight weeks, volumes were down 1%",data/extracted/md/fearnleys-md/2026/2026-08-19_fearnleys-dry-bulk-weekly-19th-august-2026-19.md
+2026-08-19,Supramax,supply_growth_pct,,,5.2,DWT supply growth of 5.2%,data/extracted/md/fearnleys-md/2026/2026-08-19_fearnleys-dry-bulk-weekly-19th-august-2026-19.md
+2026-08-19,Handysize,volume_growth_ytd_pct,33,,2.6,"Through week 33, Handysize shipment volumes were 2.6% higher year on year",data/extracted/md/fearnleys-md/2026/2026-08-19_fearnleys-dry-bulk-weekly-19th-august-2026-19.md
+2026-08-19,Handysize,supply_growth_pct,,,3.2,DWT supply growth was 3.2%,data/extracted/md/fearnleys-md/2026/2026-08-19_fearnleys-dry-bulk-weekly-19th-august-2026-19.md
+2026-08-26,Capesize,supply_growth_pct,,,1.8,DWT supply growth of 1.8%,data/extracted/md/fearnleys-md/2026/2026-08-26_fearnleys-dry-bulk-weekly-26th-august-2026-20.md
+2026-08-26,Panamax,volume_growth_ytd_pct,34,,3.3,"Through week 34, growth was 3.3%",data/extracted/md/fearnleys-md/2026/2026-08-26_fearnleys-dry-bulk-weekly-26th-august-2026-20.md
+2026-08-26,Panamax,supply_growth_pct,,,4.2,DWT supply growth of 4.2%,data/extracted/md/fearnleys-md/2026/2026-08-26_fearnleys-dry-bulk-weekly-26th-august-2026-20.md
+2026-08-26,Panamax,volume_growth_last_weeks_pct,,8,-1.8,"In the last eight weeks, volumes were down 1.8%",data/extracted/md/fearnleys-md/2026/2026-08-26_fearnleys-dry-bulk-weekly-26th-august-2026-20.md
+2026-08-26,Supramax,volume_growth_last_weeks_pct,,8,3.7,"In the last 8 weeks, volume growth was also 3.7%",data/extracted/md/fearnleys-md/2026/2026-08-26_fearnleys-dry-bulk-weekly-26th-august-2026-20.md
+2026-08-26,Supramax,supply_growth_pct,,,5.2,DWT Supply growth remains at 5.2%,data/extracted/md/fearnleys-md/2026/2026-08-26_fearnleys-dry-bulk-weekly-26th-august-2026-20.md
+2026-08-26,Handysize,supply_growth_pct,,,3.2,DWT supply growth remains at 3.2%,data/extracted/md/fearnleys-md/2026/2026-08-26_fearnleys-dry-bulk-weekly-26th-august-2026-20.md
+2026-08-26,Handysize,volume_growth_ytd_pct,33,,2.1,"Through week 33, Handysize shipment volumes were 2.1% higher year on year",data/extracted/md/fearnleys-md/2026/2026-08-26_fearnleys-dry-bulk-weekly-26th-august-2026-20.md
+2026-09-02,Panamax,volume_growth_ytd_pct,35,,3.5,"Through week 35, growth was 3.5%",data/extracted/md/fearnleys-md/2026/2026-09-02_fearnleys-dry-bulk-weekly-2nd-september-2026-21.md
+2026-09-02,Panamax,supply_growth_pct,,,4.2,DWT supply growth of 4.2%,data/extracted/md/fearnleys-md/2026/2026-09-02_fearnleys-dry-bulk-weekly-2nd-september-2026-21.md
+2026-09-02,Panamax,volume_growth_last_weeks_pct,,8,-0.9,"In the last eight weeks, volumes were down 0.9%",data/extracted/md/fearnleys-md/2026/2026-09-02_fearnleys-dry-bulk-weekly-2nd-september-2026-21.md
+2026-09-02,Supramax,volume_growth_last_weeks_pct,,8,2.9,"In the last 8 weeks, volume growth was 2.9%",data/extracted/md/fearnleys-md/2026/2026-09-02_fearnleys-dry-bulk-weekly-2nd-september-2026-21.md
+2026-09-02,Supramax,supply_growth_pct,,,5.2,DWT Supply growth remains at 5.2%,data/extracted/md/fearnleys-md/2026/2026-09-02_fearnleys-dry-bulk-weekly-2nd-september-2026-21.md
+2026-09-02,Handysize,supply_growth_pct,,,3.2,DWT supply growth remains at 3.2%,data/extracted/md/fearnleys-md/2026/2026-09-02_fearnleys-dry-bulk-weekly-2nd-september-2026-21.md
+2026-09-02,Handysize,volume_growth_ytd_pct,35,,1.8,"Through week 35, Handysize shipment volumes were 1.8% higher year on year",data/extracted/md/fearnleys-md/2026/2026-09-02_fearnleys-dry-bulk-weekly-2nd-september-2026-21.md
+2026-09-09,Panamax,volume_growth_ytd_pct,36,,3.3,"Through week 36, growth was 3.3%",data/extracted/md/fearnleys-md/2026/2026-09-09_fearnleys-dry-bulk-weekly-9th-september-2026-22.md
+2026-09-09,Panamax,volume_growth_last_weeks_pct,,10,-1.7,"Comparing the last 10 weeks to the same period last year, shipment volume growth was -1.7%",data/extracted/md/fearnleys-md/2026/2026-09-09_fearnleys-dry-bulk-weekly-9th-september-2026-22.md
+2026-09-09,Panamax,supply_growth_pct,,,4.2,DWT supply growth of 4.2%,data/extracted/md/fearnleys-md/2026/2026-09-09_fearnleys-dry-bulk-weekly-9th-september-2026-22.md
+2026-09-09,Panamax,volume_growth_last_weeks_pct,,8,-0.9,"In the last eight weeks, volumes were down 0.9%",data/extracted/md/fearnleys-md/2026/2026-09-09_fearnleys-dry-bulk-weekly-9th-september-2026-22.md
+2026-09-09,Supramax,supply_growth_pct,,,5.2,DWT Supply growth remains at 5.2%,data/extracted/md/fearnleys-md/2026/2026-09-09_fearnleys-dry-bulk-weekly-9th-september-2026-22.md
+2026-09-09,Handysize,volume_growth_ytd_pct,36,,1.3,"Through week 36, shipment volume growth grew by an estimated 1.3%",data/extracted/md/fearnleys-md/2026/2026-09-09_fearnleys-dry-bulk-weekly-9th-september-2026-22.md
+2026-09-09,Handysize,supply_growth_pct,,,3.2,DWT supply growth remains at 3.2%,data/extracted/md/fearnleys-md/2026/2026-09-09_fearnleys-dry-bulk-weekly-9th-september-2026-22.md
+2026-09-16,Panamax,volume_growth_ytd_pct,37,,2.8,"Through week 37, growth was 2.8%",data/extracted/md/fearnleys-md/2026/2026-09-16_fearnleys-dry-bulk-weekly-16th-september-2026-25.md
+2026-09-16,Panamax,volume_growth_last_weeks_pct,,10,-1.9,"Comparing the last 10 weeks to the same period last year, shipment volume growth was -1.9%",data/extracted/md/fearnleys-md/2026/2026-09-16_fearnleys-dry-bulk-weekly-16th-september-2026-25.md
+2026-09-16,Panamax,supply_growth_pct,,,4.2,DWT supply growth of 4.2%,data/extracted/md/fearnleys-md/2026/2026-09-16_fearnleys-dry-bulk-weekly-16th-september-2026-25.md
+2026-09-16,Supramax,supply_growth_pct,,,5.2,DWT Supply growth remains at 5.2%,data/extracted/md/fearnleys-md/2026/2026-09-16_fearnleys-dry-bulk-weekly-16th-september-2026-25.md
+2026-09-16,Handysize,volume_growth_ytd_pct,37,,0.7,"Through week 37, shipment volume growth grew by an estimated 0.7%",data/extracted/md/fearnleys-md/2026/2026-09-16_fearnleys-dry-bulk-weekly-16th-september-2026-25.md
+2026-09-16,Handysize,supply_growth_pct,,,3.2,DWT supply growth remains at 3.2%,data/extracted/md/fearnleys-md/2026/2026-09-16_fearnleys-dry-bulk-weekly-16th-september-2026-25.md
+2026-09-24,Panamax,volume_growth_ytd_pct,38,,2.9,"Through week 38, growth was 2.9%",data/extracted/md/fearnleys-md/2026/2026-09-24_fearnleys-dry-bulk-weekly-24th-september-2026-26.md
+2026-09-24,Panamax,volume_growth_last_weeks_pct,,10,-2.0,"Comparing the last 10 weeks to the same period last year, shipment volume growth was -2.0%",data/extracted/md/fearnleys-md/2026/2026-09-24_fearnleys-dry-bulk-weekly-24th-september-2026-26.md
+2026-09-24,Panamax,supply_growth_pct,,,4.2,DWT supply growth of 4.2%,data/extracted/md/fearnleys-md/2026/2026-09-24_fearnleys-dry-bulk-weekly-24th-september-2026-26.md
+2026-09-24,Supramax,volume_growth_ytd_pct,38,,4.1,"Through week 38, shipment volume growth was 4.1%",data/extracted/md/fearnleys-md/2026/2026-09-24_fearnleys-dry-bulk-weekly-24th-september-2026-26.md
+2026-09-24,Supramax,supply_growth_pct,,,5.2,DWT Supply growth remains at 5.2%,data/extracted/md/fearnleys-md/2026/2026-09-24_fearnleys-dry-bulk-weekly-24th-september-2026-26.md
+2026-09-24,Handysize,volume_growth_ytd_pct,38,,0.8,"Through week 38, shipment volume growth grew by an estimated 0.8%",data/extracted/md/fearnleys-md/2026/2026-09-24_fearnleys-dry-bulk-weekly-24th-september-2026-26.md
+2026-09-24,Handysize,supply_growth_pct,,,3.2,DWT supply growth remains at 3.2%,data/extracted/md/fearnleys-md/2026/2026-09-24_fearnleys-dry-bulk-weekly-24th-september-2026-26.md
+2026-09-30,Panamax,volume_growth_ytd_pct,39,,2.9,"Through week 39, growth was 2.9%",data/extracted/md/fearnleys-md/2026/2026-09-30_fearnleys-dry-bulk-weekly-30th-september-2026-27.md
+2026-09-30,Panamax,supply_growth_pct,,,4.2,DWT supply growth of 4.2%,data/extracted/md/fearnleys-md/2026/2026-09-30_fearnleys-dry-bulk-weekly-30th-september-2026-27.md
+2026-09-30,Panamax,volume_growth_last_weeks_pct,,10,-2.0,"In the last ten weeks, volumes were down -2.0%",data/extracted/md/fearnleys-md/2026/2026-09-30_fearnleys-dry-bulk-weekly-30th-september-2026-27.md
+2026-09-30,Supramax,volume_growth_ytd_pct,39,,3.8,"Through week 39, shipment volume growth was 3.8%",data/extracted/md/fearnleys-md/2026/2026-09-30_fearnleys-dry-bulk-weekly-30th-september-2026-27.md
+2026-09-30,Supramax,supply_growth_pct,,,5.2,DWT Supply growth remains at 5.2%,data/extracted/md/fearnleys-md/2026/2026-09-30_fearnleys-dry-bulk-weekly-30th-september-2026-27.md
+2026-09-30,Handysize,volume_growth_ytd_pct,39,,1.0,"Through week 39, shipment volume growth grew by an estimated 1.0%",data/extracted/md/fearnleys-md/2026/2026-09-30_fearnleys-dry-bulk-weekly-30th-september-2026-27.md
+2026-09-30,Handysize,supply_growth_pct,,,3.2,DWT supply growth remains at 3.2%,data/extracted/md/fearnleys-md/2026/2026-09-30_fearnleys-dry-bulk-weekly-30th-september-2026-27.md
+2026-10-07,Panamax,volume_growth_ytd_pct,40,,3.1,"Through week 40, growth was 3.1%",data/extracted/md/fearnleys-md/2026/2026-10-07_fearnleys-dry-bulk-weekly-7th-october-2026-28.md
+2026-10-07,Panamax,volume_growth_last_weeks_pct,,10,1.4,"Over the last 10 weeks, volume growth was 1.4%",data/extracted/md/fearnleys-md/2026/2026-10-07_fearnleys-dry-bulk-weekly-7th-october-2026-28.md
+2026-10-07,Panamax,supply_growth_pct,,,4.2,DWT supply growth of 4.2%,data/extracted/md/fearnleys-md/2026/2026-10-07_fearnleys-dry-bulk-weekly-7th-october-2026-28.md
+2026-10-07,Supramax,volume_growth_ytd_pct,40,,3.9,"Through week 40, shipment volume growth was 3.9%",data/extracted/md/fearnleys-md/2026/2026-10-07_fearnleys-dry-bulk-weekly-7th-october-2026-28.md
+2026-10-07,Supramax,supply_growth_pct,,,5.5,DWT supply growth continues at 5.5%,data/extracted/md/fearnleys-md/2026/2026-10-07_fearnleys-dry-bulk-weekly-7th-october-2026-28.md
+2026-10-07,Handysize,volume_growth_ytd_pct,40,,1.0,"Through week 40, shipment volume growth grew by an estimated 1.0%",data/extracted/md/fearnleys-md/2026/2026-10-07_fearnleys-dry-bulk-weekly-7th-october-2026-28.md
+2026-10-07,Handysize,supply_growth_pct,,,3.2,DWT supply growth remains at 3.2%,data/extracted/md/fearnleys-md/2026/2026-10-07_fearnleys-dry-bulk-weekly-7th-october-2026-28.md
+2026-10-07,Handysize,volume_growth_ytd_pct,39,,1.0,"Through week 39, Handysize shipment volumes were 1.0% higher year on year",data/extracted/md/fearnleys-md/2026/2026-10-07_fearnleys-dry-bulk-weekly-7th-october-2026-28.md
+2026-10-14,Panamax,volume_growth_ytd_pct,41,,2.8,"Through week 41, growth was 2.8%",data/extracted/md/fearnleys-md/2026/2026-10-14_fearnleys-dry-bulk-weekly-14th-october-2026-29.md
+2026-10-14,Panamax,volume_growth_last_weeks_pct,,10,0.3,"Over the last 10 weeks, volume growth was 0.3%",data/extracted/md/fearnleys-md/2026/2026-10-14_fearnleys-dry-bulk-weekly-14th-october-2026-29.md
+2026-10-14,Panamax,supply_growth_pct,,,4.7,DWT supply growth of 4.7%,data/extracted/md/fearnleys-md/2026/2026-10-14_fearnleys-dry-bulk-weekly-14th-october-2026-29.md
+2026-10-14,Panamax,supply_growth_pct,,,4.2,Supply growth was 4.2%,data/extracted/md/fearnleys-md/2026/2026-10-14_fearnleys-dry-bulk-weekly-14th-october-2026-29.md
+2026-10-14,Supramax,volume_growth_ytd_pct,41,,3.9,"Through week 41, shipment volume growth was 3.9%",data/extracted/md/fearnleys-md/2026/2026-10-14_fearnleys-dry-bulk-weekly-14th-october-2026-29.md
+2026-10-14,Supramax,supply_growth_pct,,,5.5,DWT supply growth continues at 5.5%,data/extracted/md/fearnleys-md/2026/2026-10-14_fearnleys-dry-bulk-weekly-14th-october-2026-29.md
+2026-10-14,Handysize,volume_growth_ytd_pct,41,,0.7,"Through week 41, shipment volumes grew by an estimated 0.7%",data/extracted/md/fearnleys-md/2026/2026-10-14_fearnleys-dry-bulk-weekly-14th-october-2026-29.md
+2026-10-14,Handysize,supply_growth_pct,,,3.2,DWT supply growth remains at 3.2%,data/extracted/md/fearnleys-md/2026/2026-10-14_fearnleys-dry-bulk-weekly-14th-october-2026-29.md
+2026-10-22,Panamax,volume_growth_ytd_pct,42,,2.9,"Through week 42, growth was 2.9%",data/extracted/md/fearnleys-md/2026/2026-10-22_fearnleys-dry-bulk-weekly-22nd-october-2026-30.md
+2026-10-22,Panamax,volume_growth_last_weeks_pct,,10,1.4,"Over the last 10 weeks, volume growth was 1.4%",data/extracted/md/fearnleys-md/2026/2026-10-22_fearnleys-dry-bulk-weekly-22nd-october-2026-30.md
+2026-10-22,Panamax,supply_growth_pct,,,4.7,DWT supply growth of 4.7%,data/extracted/md/fearnleys-md/2026/2026-10-22_fearnleys-dry-bulk-weekly-22nd-october-2026-30.md
+2026-10-22,Panamax,volume_growth_ytd_pct,41,,2.8,Shipment volumes were up 2.8% year on year through week 41,data/extracted/md/fearnleys-md/2026/2026-10-22_fearnleys-dry-bulk-weekly-22nd-october-2026-30.md
+2026-10-22,Panamax,supply_growth_pct,,,4.2,Supply growth was 4.2%,data/extracted/md/fearnleys-md/2026/2026-10-22_fearnleys-dry-bulk-weekly-22nd-october-2026-30.md
+2026-10-22,Supramax,volume_growth_ytd_pct,42,,3.4,"Through week 42, shipment volume growth was 3.4%",data/extracted/md/fearnleys-md/2026/2026-10-22_fearnleys-dry-bulk-weekly-22nd-october-2026-30.md
+2026-10-22,Supramax,supply_growth_pct,,,5.5,DWT supply growth continues at 5.5%,data/extracted/md/fearnleys-md/2026/2026-10-22_fearnleys-dry-bulk-weekly-22nd-october-2026-30.md
+2026-10-22,Handysize,volume_growth_ytd_pct,42,,0.5,"Through week 42, shipment volumes grew by an estimated 0.5%",data/extracted/md/fearnleys-md/2026/2026-10-22_fearnleys-dry-bulk-weekly-22nd-october-2026-30.md
+2026-10-22,Handysize,supply_growth_pct,,,3.2,DWT supply growth remains at 3.2%,data/extracted/md/fearnleys-md/2026/2026-10-22_fearnleys-dry-bulk-weekly-22nd-october-2026-30.md
+2026-10-22,Handysize,volume_growth_ytd_pct,41,,0.7,"Through week 41, Handysize shipment volumes were 0.7% higher year on year",data/extracted/md/fearnleys-md/2026/2026-10-22_fearnleys-dry-bulk-weekly-22nd-october-2026-30.md
