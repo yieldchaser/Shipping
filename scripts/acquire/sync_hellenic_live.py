@@ -299,6 +299,33 @@ def sync_iron_ore():
     print(f"  New iron ore PDFs downloaded: {new_dl}")
     return new_dl
 
+UPLOAD_IMG_RE = re.compile(r'<img[^>]*?\ssrc="(https://www\.hellenicshippingnews\.com/wp-content/uploads/[^"]+?\.(?:jpe?g|png))"', re.I)
+
+
+def mirror_article_images(html_path, content):
+    """Keep a local copy of every uploaded image of an API-saved article (the VV matrix is one) as
+    assets/<html stem>_<image name>; the HTML keeps its remote src and the parsers map it to the copy.
+    Runs for already-saved articles too, so an image whose download failed is retried on the next sync."""
+    assets = html_path.parent / "assets"
+    for url in dict.fromkeys(UPLOAD_IMG_RE.findall(content)):
+        name = urllib.parse.unquote(url.rsplit("/", 1)[-1])
+        stem, ext = os.path.splitext(name)
+        if assets.exists() and any(assets.glob(f"{html_path.stem}_{stem}*{ext}")):
+            continue
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, headers=HEADERS), timeout=30) as resp:
+                data = resp.read()
+            # a challenge / error page served under the image URL is not an image: never saved
+            ok = data[:3] == b"\xff\xd8\xff" or data[:4] == b"\x89PNG"
+            why = "downloaded" if ok else "not an image payload"
+        except Exception as e:
+            ok, why = False, f"failed ({e})"
+        if ok:
+            assets.mkdir(parents=True, exist_ok=True)
+            (assets / f"{html_path.stem}_{name}").write_bytes(data)
+        print(f"  [{'+' if ok else '!'}] Image {name} for {html_path.name}: {why}")
+
+
 def sync_html_articles():
     print("\n--- Synchronizing Categories 162, 164, 129 (Alibra & VesselsValue HTML) ---")
     categories = [
@@ -328,6 +355,8 @@ def sync_html_articles():
                     f.write(content)
                 new_articles += 1
                 print(f"  [+] Saved HTML: {cat_slug}/{year}/{dest.name}")
+            if dest.exists():
+                mirror_article_images(dest, content)
     print(f"  New HTML articles saved: {new_articles}")
     return new_articles
 

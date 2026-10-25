@@ -1,20 +1,24 @@
 """End-to-end run: HTML issues + matrix images -> staged Markdown, sidecars, series CSVs and a report."""
 from __future__ import annotations
 
+import glob
 import hashlib
 import json
 import os
 import re
+import urllib.parse
 from collections import Counter, defaultdict
 from concurrent.futures import ProcessPoolExecutor
 from pathlib import Path
 
 from scripts.parse_engine_html import PARSER_NAME, PARSER_VERSION
 from scripts.parse_engine_html.html_extract import Article, extract_article, parse_title_date
-from scripts.parse_engine_html.matrix import MatrixResult, parse_matrix_image
+from scripts.parse_engine_html.matrix import (CORRECTED, CORRECTIONS_FILE, MATRIX_VERSION, NEIGHBOUR_DAYS,
+                                              MatrixResult, accept_by_neighbours, date_only_failure,
+                                              parse_matrix_image)
 from scripts.parse_engine_html.render import ImageRef, IssueContext, render_markdown, tables_payload
 from scripts.parse_engine_html.series import (MATRIX_FIELDS, SALES_FIELDS, append_new_issues, compare,
-                                              matrix_series_rows, sales_rows, write_csv)
+                                              matrix_series_rows, replace_issues, sales_rows, write_csv)
 
 DEFAULT_SRC = Path("corpus/02-hellenic/vessel_valuations")
 DEFAULT_OUT = Path(".reparse_staging/vessel_valuations")
@@ -26,7 +30,7 @@ IMG_EXTS = (".jpg", ".jpeg", ".png")
 def list_sources(src: Path, years: list[int] | None = None) -> list[Path]:
     files = sorted(src.glob("*/*.html"))
     if years:
-        files = [f for f in files if int(f.parent.name) in years]
+        files = [f for f in files if f.parent.name.isdigit() and int(f.parent.name) in years]
     return files
 
 
@@ -74,9 +78,55 @@ def find_images(html: Path, art: Article) -> tuple[Path | None, Path | None, str
             if cand.exists() and cand.suffix.lower() in IMG_EXTS:
                 matrix, how = cand, "html_asset"
                 break
+    if matrix is None:
+        # API-saved articles keep the remote src; the sync mirrors the image as assets/<html stem>_<image name>[_hash]
+        for ref in art.image_refs:
+            if not ref.startswith(("http://", "https://")):
+                continue
+            stem_ext = Path(urllib.parse.unquote(ref.split("?")[0].rsplit("/", 1)[-1]))
+            if stem_ext.suffix.lower() not in IMG_EXTS:
+                continue
+            local = sorted((html.parent / "assets").glob(f"{glob.escape(html.stem)}_{glob.escape(stem_ext.stem)}*"))
+            local = [p for p in local if p.suffix.lower() == stem_ext.suffix.lower()]
+            if local:
+                matrix, how = repo_rel(local[0]), "mirrored_remote"
+                break
     if matrix is None and any(r.startswith(("http://", "https://")) for r in art.image_refs):
         how = "remote_only"
     return matrix, logo, how
+
+
+_FM_RE = re.compile(r"^(matrix_status|matrix_ocr): \"?(.*?)\"?$", re.M)
+_MATRIX_SHA_RE = re.compile(r"sha256: (\w+)\s+role: matrix")
+
+
+def _corrections() -> dict:
+    return json.loads(CORRECTIONS_FILE.read_text(encoding="utf-8")) if CORRECTIONS_FILE.exists() else {}
+
+
+def needs_matrix_repair(md_path: Path, has_image: bool) -> bool:
+    """An existing issue is parsed again when its matrix was not (fully) read and either a newer matrix reader exists
+    or its image has arrived since (the sync mirrors images after the article): the MD's own front matter says which."""
+    if not md_path.exists():
+        return False
+    text = md_path.read_text(encoding="utf-8")
+    head = text.split("\n---", 1)[0]
+    fm = dict(_FM_RE.findall(head))
+    status, reader = fm.get("matrix_status", ""), fm.get("matrix_ocr", "")
+    sha = _MATRIX_SHA_RE.search(head)
+    if has_image and sha and sha.group(1) in _corrections() and CORRECTED not in text:
+        return True                       # an eye-verified correction for this image is not applied yet
+    if status == "no_image":
+        return has_image
+    version = reader.rsplit(" ", 1)[-1]
+    if not has_image or version == MATRIX_VERSION:
+        return False
+    # a read matrix of policy 2 (reader 2.3+) gets the second reader too; older read matrices are left as audited
+    return status in ("failed", "partial") or (status == "ok" and _ver(version) >= (2, 3, 0))
+
+
+def _ver(v: str) -> tuple[int, ...]:
+    return tuple(int(x) for x in v.split(".")) if re.fullmatch(r"\d+(\.\d+)*", v) else ()
 
 
 def choose_canonical(arts: list[tuple[Path, Article]]):
@@ -119,9 +169,17 @@ def run(src: Path = DEFAULT_SRC, out: Path = DEFAULT_OUT, years: list[int] | Non
             parsed.append((f, art))
     chosen, dupes = choose_canonical(parsed)
     duplicate_files = {n for v in dupes.values() for n in v}
+    repair: set[str] = set()
     if incremental:
-        chosen = [(f, a) for f, a in chosen
-                  if not (md_root / str(a.issue_date.year) / f"vv_{a.issue_date.isoformat()}.md").exists()]
+        keep = []
+        for f, a in chosen:
+            md = md_root / str(a.issue_date.year) / f"vv_{a.issue_date.isoformat()}.md"
+            if not md.exists():
+                keep.append((f, a))
+            elif needs_matrix_repair(md, find_images(f, a)[0] is not None):
+                keep.append((f, a))
+                repair.add(md.as_posix())
+        chosen = keep
     if limit:
         chosen = chosen[:limit]
 
@@ -152,7 +210,7 @@ def run(src: Path = DEFAULT_SRC, out: Path = DEFAULT_OUT, years: list[int] | Non
             outs = [_ocr_one(j) for j in jobs]
         for (p, _d), o in zip(todo, outs):
             results[p.as_posix()] = MatrixResult.from_json(o)
-    ok_results = [r for r in results.values() if r.status == "ok"]
+    ok_results = [r for r in results.values() if r.status in ("ok", "partial")]
     ref_report = {"ok_matrices": len(ok_results),
                   "benchmark_cells_blank": sum(1 for r in ok_results for c in r.cells if not c.ref_text),
                   "benchmark_cells_total": sum(len(r.cells) for r in ok_results)}
@@ -167,27 +225,32 @@ def run(src: Path = DEFAULT_SRC, out: Path = DEFAULT_OUT, years: list[int] | Non
         elif mat_ref and not do_matrix:
             ctx.matrix = None
 
+    file_undated_tables(ctxs, existing_series)
     bench = reconcile_benchmarks(ctxs, prior_benchmarks(existing_series) if incremental else None)
     deferred = [c for c in ctxs if c.matrix_error]
     if incremental:
         # an issue whose matrix engine failed is not final: write nothing, so the next run parses it again
         ctxs = [c for c in ctxs if not c.matrix_error]
-    written = []
+    written, repaired_dates = [], set()
     for ctx in ctxs:
         a = ctx.article
         year_dir = (md_root if incremental else out) / str(a.issue_date.year)
         year_dir.mkdir(parents=True, exist_ok=True)
         md_path = year_dir / f"vv_{a.issue_date.isoformat()}.md"
-        if incremental and md_path.exists():
-            continue                      # never rewrite an existing issue
+        if incremental and md_path.exists() and md_path.as_posix() not in repair:
+            continue                      # never rewrite an existing issue (except an unread matrix: needs_matrix_repair)
         md_path.write_text(render_markdown(ctx), encoding="utf-8", newline="\n")
         md_path.with_suffix(".tables.json").write_text(
             json.dumps(tables_payload(ctx), ensure_ascii=False, indent=1) + "\n", encoding="utf-8", newline="\n")
         written.append(md_path.as_posix())
+        if md_path.as_posix() in repair:
+            repaired_dates.add(a.issue_date.isoformat())
 
     sales = sales_rows(ctxs)
     matrix = matrix_series_rows(ctxs)
     if incremental:
+        # a repaired matrix replaces that issue's matrix rows (its sales rows do not change)
+        replace_issues(existing_series / "hellenic_vv_matrix_series.csv", MATRIX_FIELDS, matrix, repaired_dates)
         append_new_issues(existing_series / "hellenic_vv_sales_series.csv", SALES_FIELDS, sales)
         append_new_issues(existing_series / "hellenic_vv_matrix_series.csv", MATRIX_FIELDS, matrix)
     else:
@@ -224,6 +287,34 @@ def _weekly(a, b) -> bool:
     return abs((b.article.issue_date - a.article.issue_date).days) <= MAX_ISSUE_GAP_DAYS
 
 
+def file_undated_tables(ctxs, existing_series: Path) -> None:
+    """A matrix failed only for an unreadable date label is filed under its issue date when it differs from every
+    neighbouring issue's table (accept_by_neighbours); neighbours = dated tables of this run + the existing series."""
+    import csv
+    from datetime import date as _date
+    from scripts.parse_engine_html.matrix import COLUMNS
+    key = {f"{g} {c}": (g, c) for g, c in COLUMNS}
+    tables: dict = defaultdict(dict)
+    f = existing_series / "hellenic_vv_matrix_series.csv"
+    if f.exists():
+        with f.open(newline="", encoding="utf-8") as fh:
+            for r in csv.DictReader(fh):
+                k = key.get(r.get("vessel_class", "").strip())
+                if k and r.get("age_years", "").isdigit() and r.get("pct_change_weekly", "").strip():
+                    tables[r["issue_date"]][(k[0], k[1], int(r["age_years"]))] = float(r["pct_change_weekly"])
+    for c in ctxs:
+        m = c.matrix
+        if m is not None and m.status in ("ok", "partial") and m.image_date == c.article.issue_date.isoformat():
+            tables[m.image_date] = {(x.group, x.column, x.age): x.pct for x in m.cells if x.pct is not None}
+    for c in ctxs:
+        if c.matrix is None or not date_only_failure(c.matrix):
+            continue
+        iso = c.article.issue_date.isoformat()
+        near = {d: t for d, t in tables.items() if d != iso
+                and abs((_date.fromisoformat(d) - c.article.issue_date).days) <= NEIGHBOUR_DAYS}
+        accept_by_neighbours(c.matrix, iso, near)
+
+
 def prior_benchmarks(existing_series: Path) -> dict:
     """{(group, column, age): Counter(size)} from the existing matrix series (incremental runs have few new issues)."""
     from collections import Counter
@@ -249,7 +340,7 @@ def reconcile_benchmarks(ctxs, prior: dict | None = None) -> dict:
     breaks the run). Anything else is blanked and noted in the sidecar (raw reads stay there).
     Percentages are never touched. Returns blanked cells and the deviations that survived."""
     from collections import Counter
-    ok = sorted((c for c in ctxs if c.matrix is not None and c.matrix.status == "ok"),
+    ok = sorted((c for c in ctxs if c.matrix is not None and c.matrix.status in ("ok", "partial")),
                 key=lambda c: c.article.issue_date)
     mode: dict = defaultdict(Counter)
     for k, cnt in (prior or {}).items():
@@ -296,7 +387,7 @@ def build_report(ctxs, chosen, skipped, dupes, duplicate_files, results, ref_rep
                 for c in ctxs for s in c.article.sectors for line, why in s.unparsed]
     failed = [{"issue_date": c.article.issue_date.isoformat(), "image": c.matrix_image,
                "errors": c.matrix.errors[:8] if c.matrix else []}
-              for c in ctxs if c.matrix_image and c.matrix is not None and c.matrix.status != "ok"]
+              for c in ctxs if c.matrix_image and c.matrix is not None and c.matrix.status not in ("ok", "partial")]
     no_image = [{"issue_date": c.article.issue_date.isoformat(), "how": getattr(c, "matrix_how", "")}
                 for c in ctxs if c.matrix_image is None]
     date_mismatch = [{"issue_date": c.article.issue_date.isoformat(), "image_date": c.matrix.image_date}
@@ -318,6 +409,7 @@ def build_report(ctxs, chosen, skipped, dupes, duplicate_files, results, ref_rep
         "matrix": {
             "ocr_run": do_matrix,
             "ok": sum(1 for c in ctxs if c.matrix_status == "ok"),
+            "partial": sum(1 for c in ctxs if c.matrix_status == "partial"),
             "failed": len(failed), "no_image": len(no_image),
             "failed_detail": failed, "no_image_detail": no_image,
             "image_date_mismatch": date_mismatch,

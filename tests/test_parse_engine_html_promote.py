@@ -346,3 +346,34 @@ def test_promote_skips_issues_already_live_with_identical_content(tmp_path, monk
     assert p["promote"] == [] and p["unchanged"] == ["2024-04-02"]
     (live / "2024" / md.name).write_text("OLD", encoding="utf-8")
     assert [i["issue_date"] for i in plan(tmp_path / "staging", live, tmp_path)["promote"]] == ["2024-04-02"]
+
+
+def test_needs_matrix_repair_only_for_unread_matrices(tmp_path):
+    from scripts.parse_engine_html.matrix import MATRIX_VERSION
+    from scripts.parse_engine_html.pipeline import needs_matrix_repair
+
+    def md(status, version):
+        p = tmp_path / f"vv_{status}_{version}.md"
+        p.write_text(f'---\nmatrix_ocr: "rapidocr_onnxruntime (PP-OCR, local) matrix reader {version}"\n'
+                     f"matrix_status: {status}\n---\n\nbody\n", encoding="utf-8")
+        return p
+    assert needs_matrix_repair(md("no_image", MATRIX_VERSION), True)          # the image arrived later
+    assert not needs_matrix_repair(md("no_image", MATRIX_VERSION), False)
+    assert needs_matrix_repair(md("failed", "2.0.0"), True)                   # a newer reader exists
+    assert not needs_matrix_repair(md("failed", MATRIX_VERSION), True)        # same reader: same verdict
+    assert not needs_matrix_repair(md("ok", "2.0.0"), True)                   # an audited policy-1 matrix stays
+    assert needs_matrix_repair(md("ok", "2.3.0"), True)                       # policy 2: gets the second reader
+    assert needs_matrix_repair(md("partial", "2.3.0"), True)
+    assert not needs_matrix_repair(md("ok", MATRIX_VERSION), True)
+    assert not needs_matrix_repair(tmp_path / "missing.md", True)
+
+
+def test_replace_issues_swaps_only_repaired_dates(tmp_path):
+    from scripts.parse_engine_html.series import replace_issues
+    p = tmp_path / "s.csv"
+    p.write_text("issue_date,v\n2026-01-01,a\n2026-01-08,old1\n2026-01-08,old2\n2026-01-15,c\n", encoding="utf-8")
+    rows = [{"issue_date": "2026-01-08", "v": "new"}, {"issue_date": "2026-01-15", "v": "ignored"},
+            {"issue_date": "2026-01-22", "v": "added"}]
+    assert replace_issues(p, ("issue_date", "v"), rows, {"2026-01-08", "2026-01-22"}) == 2
+    assert p.read_text(encoding="utf-8") == ("issue_date,v\n2026-01-01,a\n2026-01-08,new\n2026-01-15,c\n"
+                                             "2026-01-22,added\n")

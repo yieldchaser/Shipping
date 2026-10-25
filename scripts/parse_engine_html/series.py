@@ -78,12 +78,12 @@ def sales_rows(ctxs: list[IssueContext]) -> list[dict]:
 def matrix_series_rows(ctxs: list[IssueContext]) -> list[dict]:
     rows = []
     for ctx in ctxs:
-        if ctx.matrix is None or ctx.matrix.status != "ok":
+        if ctx.matrix is None or ctx.matrix.status not in ("ok", "partial"):
             continue
         if ctx.matrix.image_date != ctx.article.issue_date.isoformat():
             continue                    # the image is another week's table: never filed under this issue date
         for c in ctx.matrix.cells:
-            if c.pct is None:          # N/A cell: no observation
+            if c.pct is None:          # N/A cell or a value left blank: no observation
                 continue
             verified = bool(c.ref_text)
             rows.append({
@@ -124,6 +124,38 @@ def append_new_issues(path: Path, fields: tuple[str, ...], rows: list[dict]) -> 
             w.writeheader()
         w.writerows(new)
     return len(new)
+
+
+def replace_issues(path: Path, fields: tuple[str, ...], rows: list[dict], dates: set[str]) -> int:
+    """Swap in the rows of re-parsed issues (a repaired matrix): the old rows of each date in `dates` are dropped and
+    the new ones put where the first old row stood (at the end for a date not in the CSV yet). Other rows and the
+    CSV's own header are kept as they are; returns the number of rows written for those dates."""
+    if not dates:
+        return 0
+    header, old = list(fields), []
+    if path.exists() and path.stat().st_size > 0:
+        with path.open(newline="", encoding="utf-8") as fh:
+            rd = csv.DictReader(fh)
+            header, old = list(rd.fieldnames or fields), list(rd)
+    new_by_date: dict[str, list[dict]] = {}
+    for r in rows:
+        if r.get("issue_date") in dates:
+            new_by_date.setdefault(r["issue_date"], []).append(r)
+    out: list[dict] = []
+    for r in old:
+        d = r.get("issue_date", "")
+        if d not in dates:
+            out.append(r)
+        elif d in new_by_date:
+            out += new_by_date.pop(d)
+    for d in sorted(new_by_date):
+        out += new_by_date[d]
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", newline="", encoding="utf-8") as fh:
+        w = csv.DictWriter(fh, fieldnames=header, extrasaction="ignore", lineterminator="\n")
+        w.writeheader()
+        w.writerows(out)
+    return sum(1 for r in rows if r.get("issue_date") in dates)
 
 
 def read_csv(path: Path) -> list[dict]:

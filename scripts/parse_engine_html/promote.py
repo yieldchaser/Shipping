@@ -70,9 +70,9 @@ def check_issue(md: Path, repo_root: Path = Path(".")) -> list[str]:
     elif sha256_file(src) != payload.get("source_sha256"):
         problems.append("source HTML changed since the staged parse")
     status = (payload.get("matrix") or {}).get("status")
-    if payload["matrix_status"] == "ok":
+    if payload["matrix_status"] in ("ok", "partial"):
         m = payload["matrix"]
-        if status != "ok" or not m.get("image_date"):
+        if status != payload["matrix_status"] or not m.get("image_date"):
             problems.append("matrix marked ok but its image date label was not read")
         elif f"– {m['image_date']}" not in text.split("## VV Mini Matrix", 1)[-1].split("\n", 1)[0]:
             problems.append("ok matrix table has no date label in its heading")

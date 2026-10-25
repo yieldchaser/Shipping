@@ -1,0 +1,18 @@
+{
+  "_doc": "Eye-verified corrections to VV matrix reads, keyed by image sha256. A cell key is 'age/group/column'; a string value replaces the read value, null blanks the cell (value and benchmark). Each entry says why. Found by the Nace second-reader audit of the reader-2.0.0 issues on 2026-10-25; each cell checked on a 6x crop of the image.",
+  "e45434ec94c316ade2549e26f274c630b0d7e615e5b93c531b0c3cd1fc966512": {
+    "issue": "2023-05-02",
+    "note": "age 10 Containers/Post Pmax is printed +0.8% (read as +0.3%)",
+    "cells": {"10/Containers/Post Pmax": "+0.8%"}
+  },
+  "9c30d76309b4b2aade377214d09ac889a962960554314b9e8e24e6d09a0ed5a8": {
+    "issue": "2025-05-06",
+    "note": "age 15 Bulkers/Handy is printed -0.1% (read as -0.7%)",
+    "cells": {"15/Bulkers/Handy": "-0.1%"}
+  },
+  "c6c88171bb50e4e2673435b088baec733a6bde41805908db70d7b83497e6e24f": {
+    "issue": "2026-01-28",
+    "note": "the image's first row is labelled 10 and repeats the age-10 row (values and benchmark sizes 80k/35k): the age-0 values were not published, so that row is left blank",
+    "cells": {"0/*/*": null}
+  }
+}

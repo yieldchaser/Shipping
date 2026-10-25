@@ -104,6 +104,7 @@ data/.cache_citations/
 *.png
 !assets/**/*.png
 !reports/**/*.png
+!corpus/02-hellenic/**/assets/*.png
 
 
 # Document parse engine caches / staging

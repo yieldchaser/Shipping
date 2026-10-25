@@ -184,7 +184,10 @@ def extract_article(path: Path) -> Article:
         container = "wp_fragment"
         root = soup.body or soup
     m = FNAME_DATE_RE.match(path.name)
-    fdate = date(int(m.group(1)), int(m.group(2)), int(m.group(3))) if m else None
+    try:
+        fdate = date(int(m.group(1)), int(m.group(2)), int(m.group(3))) if m else None
+    except ValueError:            # the scraper's '0000-00-00_' prefix for an undated page
+        fdate = None
     art = Article(source_file=path.name, sha256=sha, title=title, issue_date=parse_title_date(title),
                   archive_date=archive_date, filename_date=fdate, container=container)
     if art.issue_date is None and comment_date:

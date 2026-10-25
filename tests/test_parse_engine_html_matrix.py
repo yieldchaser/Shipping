@@ -251,3 +251,124 @@ def test_validate_cells_reports_value_problems_not_benchmark_notes():
 def test_column_layout_constants():
     assert len(COLUMNS) == 13 and len(AGES) == 6
     assert [g for g, _ in COLUMNS].count("Tankers") == 5
+
+
+def _v2(texts, sign="+"):
+    return BandRead(0, "Tankers", "VLCC", "val", sign, False, [["raw", 5, t] for t in texts])
+
+
+def test_value_policy2_needs_three_of_five_and_no_1_7_twin():
+    from scripts.parse_engine_html.matrix import decide_value2
+    assert decide_value2(_v2(["+0.5%", "0.5%", "+0.5%", "+0.5%", "+0.8%"]))[0] is None       # a dissent
+    assert decide_value2(_v2(["+0.5%", "0.5%", "+0.5%", "x", "y"]))[0] == "+0.5%"
+    assert decide_value2(_v2(["+0.5%", "0.5%", "+0.3%", "+0.3%", "+0.8%"]))[0] is None       # 2 votes only
+    # 2026-04-07 Fmax: printed +0.1%, most renders read +0.7% -> a single 1-reading anywhere blanks the cell
+    seven = ["+0.7%", "0.7%", "+0.7%", "0.7%", "+0.7%"] + ["+0.7%"] * 7 + ["0.1%"]
+    top, why = decide_value2(_v2(seven))
+    assert top is None and "different value" in why
+    assert decide_value2(_v2(["+1.2%"] * 5 + ["+1.2%"] * 8))[0] == "+1.2%"
+
+
+def _result2(val_texts):
+    bands = []
+    for i, (age, (g, c)) in enumerate([(a, gc) for a in AGES for gc in COLUMNS]):
+        bands.append(BandRead(age, g, c, "val", "+", False, [["raw", 5, t] for t in val_texts(i)]))
+        bands.append(BandRead(age, g, c, "ref", "", False, [["raw", 5, "N/A"], ["raw", 4, "N/A"]]))
+    return MatrixResult("failed", "img.jpg", "sha", date_reads=["07 March 2026"] * 2, bands=bands, n_rows=6,
+                        n_cols=13, val_policy=2)
+
+
+def test_partial_matrix_keeps_read_cells_and_blanks_the_rest():
+    res = finalize(_result2(lambda i: ["+0.4%"] * 5 if i % 10 else ["+0.4%", "+0.9%", "+0.3%", "+0.9%", "+0.4%"]), "2026-03-07")
+    assert res.status == "partial"
+    assert sum(1 for c in res.cells if not c.pct_text) == 8 and all(c.pct == 0.4 for c in res.cells if c.pct_text)
+    worse = finalize(_result2(lambda i: ["+0.4%"] * 5 if i % 3 == 0 else ["+0.4%", "+0.9%", "+0.3%", "+0.9%", "+0.4%"]), "2026-03-07")
+    assert worse.status == "failed"                      # under half the values read: the image is not trusted
+    old = _result2(lambda i: ["+0.4%"] * 5 if i % 10 else ["+0.4%", "+0.9%", "+0.3%", "+0.9%", "+0.4%"])
+    old.val_policy = 1                                     # a result cached by reader 2.0.0 keeps its old verdict
+    assert finalize(old, "2026-03-07").status == "failed"
+
+
+def test_undated_table_filed_only_when_it_differs_from_its_neighbours():
+    from scripts.parse_engine_html.matrix import accept_by_neighbours, date_only_failure
+    res = finalize(_result2(lambda i: [f"+{i % 9}.{i % 7}%"] * 5), "2026-03-20")      # label 07 March: not 1-2 weeks off
+    assert res.status == "failed" and date_only_failure(res)
+    mine = {(c.group, c.column, c.age): c.pct for c in res.cells}
+    other = {k: v + 0.1 for k, v in mine.items()}
+    assert accept_by_neighbours(res, "2026-03-20", {}).status == "failed"            # nothing to compare with
+    stale = finalize(_result2(lambda i: [f"+{i % 9}.{i % 7}%"] * 5), "2026-03-20")
+    assert accept_by_neighbours(stale, "2026-03-20", {"2026-03-13": dict(mine)}).status == "failed"
+    assert "re-published" in stale.errors[-1]
+    good = accept_by_neighbours(res, "2026-03-20", {"2026-03-13": other})
+    assert good.status == "ok" and good.image_date == "2026-03-20" and "date label not read" in good.warnings[-1]
+
+
+def test_value_policy2_narrow_two_digit_reading_is_a_dissent():
+    from scripts.parse_engine_html.matrix import decide_value2
+    # 2026-10-20 Afra age 10: printed +7.1%, most renders '2.1', one '47.1' (sign glyph read as 4)
+    reads = ["*2.1%", "21%", "*2.1%", "2.1%", "47.1%", "2.1%", "41%", ".1%", "*2.1%", "2.1%", "*2.1%", "2.1%"]
+    assert decide_value2(_v2(reads))[0] is None
+    assert decide_value2(_v2(["63,1%"] * 13))[0] is None                       # two digits in a narrow cell
+
+
+_NACE_MD = """# VesselsValue
+
+| 07 March 2026 | VV Mini Matrix - Weekly Change | VV Mini Matrix - Weekly Change |
+| --- | --- | --- |
+|  | Tankers | Tankers | Tankers | Tankers | Tankers | Bulkers | Bulkers | Bulkers | Bulkers | Containers | Containers | Containers | Containers |
+| Year | VLCC | Suez | Afra | LRI | MR | Cape | Pmax | Supra | Handy | Post Pmax | Pmax | Handy | Fmax |
+""" + "".join(
+    f"| {a} | " + " | ".join(["+0.4%"] * 12 + ["N/A"]) + " |\n"
+    f"| {a} | " + " | ".join(["320k"] * 13) + " |\n" for a in AGES)
+
+
+def test_second_reader_table_and_date():
+    from scripts.parse_engine_html.matrix import nace_date, nace_values
+    vals = nace_values(_NACE_MD)
+    assert len(vals) == 78 and vals[(0, "Tankers", "LR1")] == "+0.4%" and vals[(25, "Containers", "Fmax")] == "N/A"
+    assert nace_date(_NACE_MD) == "2026-03-07"
+    # one misspelt header word is tolerated (the layout is fixed); a table that is not the matrix is not used
+    assert nace_values(_NACE_MD.replace("| Afra |", "| Afro |")) == vals
+    assert nace_values(_NACE_MD.replace("| VLCC | Suez | Afra | LRI |", "| A | B | C | D |")) == {}
+    # rows take the ages by position; a garbled age label is ignored, a wrong age refuses the table
+    assert nace_values(_NACE_MD.replace("| 0 | +0.4%", "| # | +0.4%")) == vals
+    assert nace_values(_NACE_MD.replace("| 5 | +0.4%", "| 10 | +0.4%")) == {}
+    assert nace_values(_NACE_MD.replace("+0.4%", "+0,4%")) == vals                # decimal comma
+    # an empty trailing column is ignored
+    assert nace_values(_NACE_MD.replace(" |\n", " |  |\n")) == vals
+
+
+def test_value_policy3_second_reader_needs_two_local_renders():
+    from scripts.parse_engine_html.matrix import decide_value3
+    assert decide_value3(_v2(["+0.4%", "x", "+0.4%", "y", "z"]), "+0.4%")[0] == "+0.4%"
+    # the serif '+7.1' every render read as '2.1': the second reader's value is not confirmed -> blank, never 2.1
+    assert decide_value3(_v2(["+2.1%"] * 4 + ["+7.1%"]), "+7.1%")[0] is None
+    # sign must be the colour's
+    assert decide_value3(_v2(["-0.4%"] * 5, "-"), "+0.4%")[0] is None
+    # without a second-reader value: policy 2
+    assert decide_value3(_v2(["+0.5%"] * 5), None)[0] == "+0.5%"
+
+
+def test_second_reader_fills_cells_the_renders_left_blank():
+    res = _result2(lambda i: ["+0.4%", "+0.9%", "+0.4%", "+0.9%", "x"])     # policy 2: no value has 3 votes
+    assert finalize(res, "2026-03-07").status == "failed"
+    res.nace_md, res.nace_v = _NACE_MD, 1
+    res = finalize(res, "2026-03-07")
+    assert res.status == "partial"        # Fmax: the second reader says N/A, the renders do not
+    assert all(c.pct == 0.4 for c in res.cells if c.column != "Fmax" or c.group != "Containers")
+    assert all(not c.pct_text for c in res.cells if (c.group, c.column) == ("Containers", "Fmax"))
+
+
+def test_eye_verified_corrections_replace_or_blank_cells():
+    from scripts.parse_engine_html.matrix import CORRECTED, apply_corrections
+    res = finalize(_result2(lambda i: ["+0.4%"] * 5), "2026-03-07")
+    res.image_sha256 = "abc"
+    fixes = {"abc": {"note": "test", "cells": {"10/Containers/Post Pmax": "+0.8%", "0/*/*": None}}}
+    apply_corrections(res, fixes)
+    by = {(c.age, c.group, c.column): c for c in res.cells}
+    assert by[(10, "Containers", "Post Pmax")].pct == 0.8
+    assert all(not c.pct_text and c.notes[-1].startswith(CORRECTED) for c in res.cells if c.age == 0)
+    assert by[(5, "Tankers", "VLCC")].pct == 0.4
+    assert not validate_cells(res.cells)            # a corrected blank is not an 'empty value' error
+    apply_corrections(res, {})                      # another image: nothing changes
+    assert by[(10, "Containers", "Post Pmax")].pct == 0.8

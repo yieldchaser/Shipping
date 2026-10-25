@@ -7,7 +7,19 @@ from datetime import datetime, timezone
 
 from scripts.parse_engine_html import PARSER_NAME, PARSER_VERSION
 from scripts.parse_engine_html.html_extract import Article
-from scripts.parse_engine_html.matrix import AGES, COLUMNS, MATRIX_VERSION, MatrixResult
+from scripts.parse_engine_html.matrix import AGES, COLUMNS, CORRECTED, MATRIX_VERSION, MatrixResult
+
+MATRIX_READER = "rapidocr_onnxruntime (PP-OCR, local) matrix reader " + MATRIX_VERSION
+MATRIX_READER_NACE = ("rapidocr_onnxruntime (PP-OCR, local) + Nace NDI Parse (second reader) matrix reader "
+                      + MATRIX_VERSION)
+POLICY1_READER = "rapidocr_onnxruntime (PP-OCR, local) matrix reader 2.0.0"   # the reads of a policy-1 result
+
+
+def matrix_reader(m: MatrixResult | None) -> str:
+    """The reader that produced the printed values: a cached policy-1 result keeps its own label."""
+    if m is not None and m.val_policy < 2 and m.status in READ_STATUSES:
+        return POLICY1_READER
+    return MATRIX_READER_NACE if m is not None and m.nace_md else MATRIX_READER
 
 PUBLISHER = "VesselsValue (via Hellenic Shipping News)"
 SOURCE = "hellenic_vessel_valuations"
@@ -18,6 +30,7 @@ DEAL_HEADERS = ("Vessel", "Class", "Size", "Built", "Yard", "Buyer", "Price ($M)
 OTHER_DEALS_LABEL = "**Other reported deals (as printed, not tabulated):**"
 NO_MATRIX_IMAGE = "No matrix image"
 MATRIX_UNREADABLE = "Matrix image not machine-readable"
+READ_STATUSES = ("ok", "partial")    # a partial matrix prints its decided cells; the others stay blank
 LOW_RES_PX = 1000                 # matrix images narrower than this (2026 archive: 600 px) cannot be read
 
 
@@ -47,7 +60,7 @@ class IssueContext:
             return "no_image"
         if self.matrix is None:
             return "not_run"
-        return "ok" if self.matrix.status == "ok" else "failed"
+        return self.matrix.status if self.matrix.status in READ_STATUSES else "failed"
 
 
 def _esc(text: str) -> str:
@@ -131,9 +144,9 @@ def render_markdown(ctx: IssueContext) -> str:
     fm += [
         f"parser: {PARSER_NAME}",
         f"parser_version: {PARSER_VERSION}",
-        f"matrix_ocr: {_yaml_str('rapidocr_onnxruntime (PP-OCR, local) matrix reader ' + MATRIX_VERSION)}",
+        f"matrix_ocr: {_yaml_str(matrix_reader(ctx.matrix))}",
         f"matrix_status: {ctx.matrix_status}",
-        f"matrix_image_date: {ctx.matrix.image_date if ctx.matrix and ctx.matrix.status == 'ok' and ctx.matrix.image_date else ''}",
+        f"matrix_image_date: {ctx.matrix.image_date if ctx.matrix and ctx.matrix.status in READ_STATUSES and ctx.matrix.image_date else ''}",
         f"deals_parsed: {a.n_deals}",
         f"deals_unparsed: {a.n_unparsed}",
         f"parsed_at: {ctx.parsed_at}",
@@ -171,13 +184,13 @@ def render_markdown(ctx: IssueContext) -> str:
                 "its sector as \"Other reported deals\" and is not part of any table or series.", ""]
     else:
         out += ["None (0).", ""]
-    ok_matrix = ctx.matrix is not None and ctx.matrix.status == "ok"
+    ok_matrix = ctx.matrix is not None and ctx.matrix.status in READ_STATUSES
     out += [f"## {MATRIX_HEADING}" + (f" – {ctx.matrix.image_date or iso}" if ok_matrix else ""), ""]
     if ctx.matrix_image is None:
         out += [f"*{NO_MATRIX_IMAGE}.*", ""]
     elif ctx.matrix is None:
         out += [f"*Matrix OCR was not run for this build* ({ctx.matrix_image}).", ""]
-    elif ctx.matrix.status != "ok":
+    elif ctx.matrix.status not in READ_STATUSES:
         out += [f"*{MATRIX_UNREADABLE}* ({ctx.matrix_image}). No matrix numbers are given for this issue.", ""]
         if ctx.matrix_px and ctx.matrix_px[0] < LOW_RES_PX:
             out += [f"The archived image is only {ctx.matrix_px[0]}x{ctx.matrix_px[1]} px, too small to read the "
@@ -194,6 +207,12 @@ def render_markdown(ctx: IssueContext) -> str:
                 "could not be read with agreement between independent renders.", ""]
         header, rows = matrix_rows(ctx)
         out += md_table(header, rows) + [""]
+        blank = [c for c in m.cells if not c.pct_text and not any(n.startswith(CORRECTED) for n in c.notes)]
+        if blank:
+            readers = ("the two independent readers (local renders and Nace) did" if m.nace_md
+                       else "the independent renders of the image did")
+            out += [f"{len(blank)} of {len(m.cells)} values are left blank: {readers} not agree on them, so they "
+                    "are not given.", ""]
     for w in (ctx.matrix.warnings if ctx.matrix else []) + a.warnings:
         out += [f"> Note: {w}"]
     return "\n".join(out).rstrip() + "\n"
