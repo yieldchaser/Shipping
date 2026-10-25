@@ -49,6 +49,8 @@ SECTION_TOP = {
     'DEMOLITION': 'DEMOLITION',
     'GAS': 'GAS',
 }
+SPACED_HEADINGS = {h.replace(' ', ''): h for h in ('BULKERS', 'TANKERS', 'CONT/MPP/TWEEN', 'CONT/TWEEN', 'CONTAINERS',
+                                                     'GENERAL CARGO', 'LPG', 'GAS', 'REEFERS', 'LEGAL DISCLAIMER')}
 SUB_LABELS = {'GAS', 'TANKERS', 'CONTAINERS', 'REEFERS', 'RO/PAX', 'ROPAX', 'BULKERS',
               'GENERAL CARGO', 'LPG', 'TWEEN', 'MPP'}
 
@@ -342,9 +344,10 @@ def split_report_deals(text):
     # start a new line at every vessel tag followed by an upper-case name and its specs bracket
     lines = [p.strip() for l in lines for p in INLINE_VESSEL.split(l) if p.strip()]
     # justified paragraphs can print the tag alone on a line ("M/T" / "STI" / "KINGSWAY"): join it to the next
+    # (a lone "LPG" followed by a tagged vessel is the demolition sub-heading)
     joined = []
     for l in lines:
-        if joined and re.fullmatch(r'(?:M/V|M/T|C/V|MTS|MT|LPG/C|LPG|S/C|F/V|M/Vs)', joined[-1]):
+        if joined and re.fullmatch(r'(?:M/V|M/T|C/V|MTS|MT|LPG/C|LPG|S/C|F/V|M/Vs)', joined[-1]) and not VESSEL_LINE.match(l):
             joined[-1] += ' ' + l
         else:
             joined.append(l)
@@ -439,7 +442,19 @@ def split_report_deals(text):
 
 def extract_full_report(text, source_path, pages_count=1):
     text = clean_text(text)
-    stem = os.path.splitext(os.path.basename(source_path))[0]
+    # 2026 W43 layout: every page after the first opens with a running header (letter-spaced
+    # "L I O N S H I P B R O K E R S" / "W E E K L Y M A R K E T R E P O R T", the copyright line and the
+    # page number) that falls inside the paragraph continuing from the page before; the quote heading is
+    # letter-spaced too.
+    text = re.sub(r'\n[ \t]*\n?[ \t]*L I O N S H I P B R O K E R S[ \t]*\n[ \t]*W E E K L Y M A R K E T R E P O R T[ \t]*\n'
+                  r'[ \t]*©[^\n]*\n[ \t]*\d{1,2}[ \t]*\n', '\n', text)
+    text = re.sub(r'(Q U O T E|J O K E) O F T H E W E E K[ \t]*\n',
+                  lambda m: m.group(1).replace(' ', '').capitalize() + ' of the week:\n', text)
+    # the section headings are letter-spaced in the same layout ("T A N K E R S", "L E G A L D I S C L AI M E R");
+    # unspaced, they split the sections as in the older layouts instead of running into the last row's remarks
+    text = re.sub(r'^[ \t]*((?:\S{1,2} ){2,}\S{1,2})[ \t]*$',
+                  lambda m: SPACED_HEADINGS.get(re.sub(r'\s', '', m.group(1)), m.group(0)), text, flags=re.M)
+    stem =os.path.splitext(os.path.basename(source_path))[0]
 
     # the date follows the week on the same line or (2026 W43 layout) on the next one
     m_week = re.search(r'WEEK\s*(\d{1,2}(?:\s*(?:&|-|and)\s*\d{1,2})?)(?:[^\d\n]+|[^\d\n]*\n\s*)(\d{1,2}\s+[A-Za-z]+\s+\d{4})', text, re.I)
@@ -507,7 +522,8 @@ def extract_full_report(text, source_path, pages_count=1):
         comm_sections[key] = comm_clean[end_idx:nxt_st].strip()
 
     bdi_indices = []
-    bdi_matches = re.findall(r'(Baltic\s+[A-Za-z]+\s+Index)\s+([\d,]+)\s+([+\-–]?\s*[\d,]+)', comm_clean, re.I)
+    # the change may carry an arrow (▼ -33, ▬ 0 in the 2026 W43 layout)
+    bdi_matches = re.findall(r'(Baltic\s+[A-Za-z]+\s+Index)\s+([\d,]+)\s+(?:[▼▲▬]\s*)?([+\-–]?\s*[\d,]+)', comm_clean, re.I)
     for b_name, b_val, b_chg in bdi_matches:
         bdi_indices.append({
             'index_name': ' '.join(b_name.split()),
@@ -597,7 +613,8 @@ def render_markdown(doc_data):
             md.append(f"### {title}\n")
             body_text = comm[key]
             if key == 'bulkers' and doc_data['baltic_indices']:
-                body_text = re.sub(r'Baltic\s+[A-Za-z]+\s+Index\s+[\d,]+\s+[+\-–]?\s*[\d,]+', '', body_text)
+                body_text = re.sub(r'Baltic\s+[A-Za-z]+\s+Index\s+[\d,]+\s+(?:[▼▲▬]\s*)?[+\-–]?\s*[\d,]+', '', body_text)
+                body_text = re.sub(r'BALTIC INDICES\s*\n\s*POINTS\s*\n\s*CHANGE\s*\n\s*', '\n\n', body_text)
                 body_text = re.sub(r'\n\s*\n\s*\n+', '\n\n', body_text).strip()
             md.append(f"{body_text}\n")
             if key == 'bulkers' and doc_data['baltic_indices']:

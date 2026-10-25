@@ -19,6 +19,9 @@ HEADING_MAX_WORDS = 8
 HEADING_SIZE_DELTA = 1.5
 GAP_FACTOR = 0.45          # vertical gap (x font size) that separates paragraphs
 TERMINAL = ".!?:)\"'’”"
+# a lone word with one letter run four times is a stray glyph run, not text (Clarksons 2026-10-23 prints
+# "DrrrrDry" in black under the navy "Dry Cargo" banner)
+GLYPH_RUN = re.compile(r"[A-Za-z]*([A-Za-z])\1{3,}[A-Za-z]*")
 
 
 @dataclass
@@ -211,6 +214,8 @@ def _raw_paragraphs(page: pymupdf.Page, page_no: int, exclude: list[tuple[float,
             if line is None:
                 continue
             if any(_inside(line.bbox, box) for box in exclude):
+                continue
+            if GLYPH_RUN.fullmatch(line.plain):
                 continue
             in_band = line.bbox[3] < BAND_FRACTION * h or line.bbox[1] > (1 - BAND_FRACTION) * h
             if in_band and (_norm_band(line.plain) in repeated or re.fullmatch(r"(page\s+)?\d{1,3}", line.plain.lower())):

@@ -89,6 +89,7 @@ def generate_extraction_register_md():
         'star_asia_ldt_comparison_series.csv': '5-Year LDT sold comparison (printed bar labels of the LDT chart)',
         'star_asia_metals_energy_series.csv': 'Metals and energy commodity market indicators',
         'star_asia_snp_sales_series.csv': 'Secondhand sales transactions ($M)',
+        'star_asia_tc_rates_series.csv': '12-month T/C rate averages, bulkers and tankers ($/day; printed 2022-2024, % as printed)',
         'star_asia_valuation_matrix_series.csv': 'Dry, tanker, container secondhand matrices ($M)',
         'xclusiv_demo_sales_series.csv': 'Reported demolition scrap sales fixtures ($/LDT)',
         'xclusiv_demolition_series.csv': 'Indicative demolition prices ($/LDT)',

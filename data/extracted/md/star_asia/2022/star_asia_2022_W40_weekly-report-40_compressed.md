@@ -119,7 +119,7 @@ holidays, while most coal rounds were also sold. Inter-Pacific closed with a sli
 | DARYA JYOTI / DARYA MOTI | KMAX | 80,545 | 2010 | S. KOREA | N/A | TURKISH | BUYERS |
 | AGRI KINSALE / AGRI QUEEN | PANAMAX | 77,171 | 2009 | JAPAN | 32.0 EN BLOC | CHINESE | BUYERS |
 | GOLDEN HARVEST | PANAMAX | 76,623 | 2001 | JAPAN | 10.0 | CHINESE | BUYERS |
-| ANACAPA LIGHT | HANDY | 31,603 Dry | 2005 Bulk (Weekly) | JAPAN Values | 12.4 | TURKISH | BUYERS |
+| ANACAPA LIGHT | HANDY | 31,603 | 2005 | JAPAN | 12.4 | TURKISH | BUYERS |
 | TYPE | DWT | NB CONTRACT | NB | PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
 | CAPE | 180,000 | 64 |  | 56 | 39 | 30 | 14 |
 | KAMSARMAX | 82,000 | 36 |  | 37 | 31 | 22 | 12 |
@@ -140,6 +140,15 @@ holidays, while most coal rounds were also sold. Inter-Pacific closed with a sli
 # Tankers
 
 OPEC+ resolved this week to cut production by 2 million barrels per day (BPD). The group made an unprecedented decision at a time when the world's leading nations were experiencing strong economic expansion and demand for oil was still rising. Despite several attempts by Washington to influence the decision, the cartel's leaders, such as Saudi Arabia and the U.A.E., were able to make it. The White House has activated all of its human resources just one day before the OPEC+ conference. According to one official, the administration was having a "spasm and a panic attack." Several high-ranking officials, including Janet Yellen and Amos Hochstein, were charged with discussing the potential implications of a production decrease with the Saudis and the U.A.E. as part of the negotiations. They were also warned about the potential consequences of a cut on their reputations and relations with the U.S. and the West. Despite the warnings, the two countries chose to move forward.
+
+#### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 15,000 | 12,250 | 37,855 | +22.45 | -60.38 |
+| PANAMAX | 75,000 | 15,825 | 14,950 | 29,250 | +5.85 | -45.90 |
+| SUPRAMAX | 52,000 | 15,250 | 14,750 | 29,000 | +3.39 | -47.41 |
+| HANDYSIZE | 32,000 | 13,500 | 13,500 | 29,000 | 0 | -53.45 |
 
 ## Page 5
 

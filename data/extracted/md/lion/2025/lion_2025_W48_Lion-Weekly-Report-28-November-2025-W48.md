@@ -9,7 +9,7 @@ quote_of_the_week: "Beware of little expenses. A small leak will sink a great sh
 quote_author: "Benjamin Franklin (1706 - 1790) - American writer, scientist, statesman, diplomat, political philosopher and one of the Founding Fathers of the United States."
 source_file: "corpus/01-brokers/lion/2025/lion_2025_W48_Lion-Weekly-Report-28-November-2025-W48.pdf"
 pages: 3
-deals_count: 20
+deals_count: 21
 demometer_rows: 4
 ---
 

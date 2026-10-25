@@ -9,7 +9,7 @@ quote_of_the_week: "Never confuse education with intelligence, you can have a Ph
 quote_author: "Richard Feynman (11 May 1918 - 16 February 1988) - American Theoretical Physicist and 1965 Nobel price in Physics winner)."
 source_file: "corpus/01-brokers/lion/2026/lion_2026_W17_Lion-Weekly-Report-24-April-2026-W17.pdf"
 pages: 3
-deals_count: 25
+deals_count: 27
 demometer_rows: 4
 ---
 

@@ -9,7 +9,7 @@ quote_of_the_week: "You'll never find a rainbow if you are looking down…"
 quote_author: "Charlie Chaplin (16 April 1889 - 25 December 1977) - English comic actor, filmmaker & composer."
 source_file: "corpus/01-brokers/lion/2026/lion_2026_W10_Lion-Weekly-Report-06-March-2026-W10.pdf"
 pages: 3
-deals_count: 19
+deals_count: 21
 demometer_rows: 4
 ---
 

@@ -9,7 +9,7 @@ quote_of_the_week: "Birds of a feather flock together."
 quote_author: "English proverb."
 source_file: "corpus/01-brokers/lion/2026/lion_2026_W39_Lion-Weekly-Report-25-September-2026-W39.pdf"
 pages: 3
-deals_count: 29
+deals_count: 30
 demometer_rows: 4
 ---
 

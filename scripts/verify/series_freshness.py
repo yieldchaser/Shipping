@@ -46,6 +46,7 @@ CLOSED = {   # closed by design: name -> reason
     "athenian_historical_demolition_prices_series": "one-off historical table",
     "athenian_market_commentary_series": "Athenian commentary channel replaced 2021",
     "clarksons_demolition_sales_series": "old Clarksons layout (to 2024-02)",
+    "star_asia_tc_rates_series": "12-month T/C table printed 2022 W29 - 2024 W50 only",
     "clarksons_demolition_series": "old Clarksons layout (to 2024-02)",
     "clarksons_desk_talk_series": "Hellenic shipbuilding channel, superseded 2026-08 by corpus/01-brokers/clarksons",
     "clarksons_macro_series": "Hellenic shipbuilding channel, superseded 2026-08",

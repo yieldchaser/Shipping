@@ -9,7 +9,7 @@ quote_of_the_week: "I choose a lazy person to do a hard job. Because a lazy pers
 quote_author: "Bill Gates (born 28 October 1955) - American businessman, co-founder of software giant Microsoft)."
 source_file: "corpus/01-brokers/lion/2026/lion_2026_W16_Lion-Weekly-Report-17-April-2026-W16.pdf"
 pages: 3
-deals_count: 26
+deals_count: 27
 demometer_rows: 4
 ---
 

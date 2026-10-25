@@ -9,7 +9,7 @@ quote_of_the_week: "In the midst of chaos, there is also opportunity."
 quote_author: "Sun Tzu (771 - 256 BC) - Chinese military general, strategist, philosopher and writer."
 source_file: "corpus/01-brokers/lion/2026/lion_2026_W03_Lion-Weekly-Report-16-January-2026-W03.pdf"
 pages: 4
-deals_count: 53
+deals_count: 54
 demometer_rows: 4
 ---
 

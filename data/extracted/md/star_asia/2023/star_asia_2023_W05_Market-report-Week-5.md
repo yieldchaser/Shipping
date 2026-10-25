@@ -77,6 +77,15 @@ In the Atlantic, cargo inflows from North America increased, but rates remain si
 
 ## Page 4
 
+#### BULKER 12 MONTHS T/C RATES AVERAGE (IN USD/DAY)
+
+|  | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE % | Y-O-Y CHANGE % |
+| --- | --- | --- | --- | --- | --- | --- |
+| CAPE | 180,000 | 14,750 | 15,500 | 23,500 | -4.84% | -37.23% |
+| PANAMAX | 75,000 | 13,450 | 13,900 | 21,500 | -3.24% | -37.44% |
+| SUPRAMAX | 52,000 | 13,500 | 13,750 | 22,000 | -1.82% | -38.64% |
+| HANDYSIZE | 32,000 | 10,000 | 9,750 | 18,250 | +2.56% | -45.21% |
+
 ## Page 5
 
 ## Tankers

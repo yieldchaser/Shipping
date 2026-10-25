@@ -9,7 +9,7 @@ quote_of_the_week: "Rich is what you see, wealth is what you don't see."
 quote_author: "Morgan Housel - author of the book \"The Psychology of Money\"."
 source_file: "corpus/01-brokers/lion/2026/lion_2026_W22_Lion-Weekly-Report-29-May-2026-W22.pdf"
 pages: 3
-deals_count: 35
+deals_count: 36
 demometer_rows: 4
 ---
 
