@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T18:28:20Z",
-  "current_date": "2026-10-24",
+  "generated_at": "2026-10-25T18:39:53Z",
+  "current_date": "2026-10-25",
   "warning_count": 3,
   "high_severity_count": 0,
   "status_counts": {
@@ -21,7 +21,7 @@
       "severity": "watch",
       "kind": "source_freshness",
       "key": "hellenic/vessel_valuations",
-      "message": "hellenic/vessel_valuations is watch at 25 days since the latest dated document.",
+      "message": "hellenic/vessel_valuations is watch at 26 days since the latest dated document.",
       "details": {
         "label": "hellenic/vessel_valuations",
         "source": "hellenic",
@@ -29,7 +29,7 @@
         "status": "watch",
         "cadence_days": 14,
         "latest_date": "2026-09-29",
-        "age_days": 25,
+        "age_days": 26,
         "latest_gap_days": 6,
         "max_recent_gap_days": 8,
         "dated_doc_count": 274,
