@@ -288,6 +288,12 @@ Chattogram, Bangladesh : 21 ~ 24 July | 4 ~ 7 August Alang, India : 19 ~ 27 July
 
 ---
 
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| ALPS | BULKER | 10,191 | 21.06.2024 | 03.07.2024 |
+| DIYAA B | BULKER | 6,956 | 20.06.2024 | 05.07.2024 |
+
+
 ## Page 18
 
 BUNKER PRICES (USD/TON)

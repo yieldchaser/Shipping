@@ -200,7 +200,7 @@ Interest in newbuilding was modest last week, particularly concentrated on tradi
 | 4 | Bulker | 82,000 dwt | Hengli HI Dalian, China | 2027 | Turkish (Ciner Shipping) | $ 38.0m |  |
 | 4 | Bulker | 63,500 dwt | Jiangsu Haitong, China | 2027-2028 | Taiwanese (Franbo Lines) | undisclosed | IMO Tier III |
 | 1 | Bulker | 12,500 dwt | Holland Shipyards Group, Netherlands | 2025 | Eureka Shipping (JV between CSL and SMT ) | undisclosed | cement carrier, diesel-electric propulsion, biofuel dual fuel |
-| 1 | LPG | VLGC | Hanwha Ocean, S.Korea | 2027 | Japanese (lino Kaiun) | $ 127.0m |  |
+| 1 | LPG | VLGC | Hanwha Ocean, S.Korea | 2027 | Japanese (Iino Kaiun) | $ 127.0m |  |
 
 ---
 

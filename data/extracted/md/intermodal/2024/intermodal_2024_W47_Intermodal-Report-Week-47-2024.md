@@ -187,8 +187,8 @@ This week's activity in the newbuilding market included 10 orders for 25 vessels
 | 3 | Bulker | 32,000 dwt | Yangzijiang, China | undisclosed | Bulgarian (Navibulgar) | undisclosed | old deal, lakes-fitted, IMO Tier III, EEDI Phase 3 |
 | 3 | Bulker | 45,000 dwt | Yangzijiang, China | undisclosed | Bulgarian (Navibulgar) | undisclosed | old deal, lakes-fitted, IMO Tier III, EEDI Phase 3 |
 | 2 | LPG | 48,500 cbm | Jiangnan Shipyard, China | 2027 | UK-based (Navigator Gas) | $ 102.9m | options declared, ethylene gas carrier |
-| 4 | PCTC | 5,500 | ceu | Fujian Mawei, China | 2027 | Singaporean (Eastern Pacific) | $ 80.0m |
-| 2 | PCTC | 5,500 | ceu | CMHI Jinling, China | 2028 | Singaporean (Eastern Pacific) | $ 80.0m |
+| 4 | PCTC | 5,500 ceu | Fujian Mawei, China | 2027 | Singaporean (Eastern Pacific) | $ 80.0m | LNG dual-fuel |
+| 2 | PCTC | 5,500 ceu | CMHI Jinling, China | 2028 | Singaporean (Eastern Pacific) | $ 80.0m | LNG dual-fuel |
 | 2 | Container | 4,300 teu | Yangzi Xinfu, China | 2027 | Greek (Euroseas) | $ 60.0m |  |
 
 ---

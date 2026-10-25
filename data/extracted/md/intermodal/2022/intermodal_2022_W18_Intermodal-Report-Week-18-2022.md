@@ -346,11 +346,12 @@ The LNG newbuilding activity remained strong last week, with a massive newbuildi
 
 ### Bulk Carriers Newbuilding Prices (m$)
 
-| Newbuilding Orders | Newbuilding Orders | Newbuilding Orders | Newbuilding Orders | Newbuilding Orders | Newbuilding Orders | Newbuilding Orders | Newbuilding Orders |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
-| 2 | Bulker | 40,000 dwt | Namura, Japan | undisclosed | Taiwanese (Taiwan Navigation) | $ 32.3m | log carrier, EEDI phase 3 |
-| 12 | LNG | 174,000 cbm | Hudong Zhonghua, China | 2024-2027 | Chinese (CNOOC) | $ 201.6m |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | Bulker | 40,000 dwt | Namura, Japan | undisclosed | Taiwanese (Taiwan Navigation) | \$ 32.3m | log carrier, EEDI phase 3 |
+| 12 | LNG | 174,000 cbm | Hudong Zhonghua, China | 2024-2027 | Chinese (CNOOC) | \$ 201.6m |  |
 
 6
 

@@ -220,7 +220,7 @@ The newbuilding market activity took a small break during the past days with onl
 | 4 | Tanker | 75,000 dwt | Yangzijiang, China | 2025-2026 | Greek (Evalend) | excess $50.0m | conventionally fuelled |
 | 3 | VLGC | 88,000 cbm | Hyundai Hi, South Korea | 2026 | Norwegian (Solvang) | $ 106.5m | scrubber fitted |
 | 2+1 | LPG | 40,000 cbm | Hyundai Mipo, S. Korea | 2025-2026 | Nigerian (West Africa LPG) | $ 70.5m |  |
-| 4 | PCTC | 7,700 | ceu | Hyundai Mipo, S. Korea | 2026-2027 | UK based (Ray Car Carriers) | $ 129.5m |
+| 4 | PCTC | 7,700 ceu | Hyundai Mipo, S. Korea | 2026-2027 | UK based (Ray Car Carriers) | $ 129.5m | LNG fuelled |
 
 ---
 
@@ -229,16 +229,16 @@ The newbuilding market activity took a small break during the past days with onl
 During the past week, the demolition market has continued to witness inactivity, as both buyers and owners have displayed a reluctance to participate and support market sentiment. On the supply side, the volume of proposed vintage ships remains low, with scrap offers easing from their previous strong levels, and owners' interest remains focused on the freight market. On the demand front, issues regarding letters of credit stills prevail in the Bangladeshi market with only small LDT units finding their way to breakers' attention so far. This is not the case for the Indian buyers, whose appetite is driven by steel plate prices rather than country's financial capacity. Yet, demand for ship steel has weakened adding pressure on breakers to increase their respective \$/ldt offers. The Pakistani market remains out of competition for another week amidst its serious financial issues with IMF loans having no effect on its scrapping market. Lastly in Turkey, industry is experiencing stability with demand and supply at subdued levels .
 
 ## Indicative Demolition Prices ($/ldt)
-| Markets | 07/07/23 | 30/06/23 | ±% | YTD High | YTD Low | 2022 | 2021 | 2020 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Tanker | Bangladesh | 580 | 580 | 0.0% | 615 | 515 | 601 | 542 |
-|  | India | 540 | 540 | 0.0% | 570 | 555 | 593 | 519 |
-|  | Pakistan | 510 | 510 | 0.0% | 540 | 535 | 596 | 536 |
-|  | Turkey | 340 | 340 | 0.0% | 340 | 330 | 314 | 284 |
-| Dry Bulk | Bangladesh | 565 | 565 | 0.0% | 600 | 505 | 590 | 532 |
-|  | India | 520 | 520 | 0.0% | 540 | 520 | 583 | 508 |
-|  | Pakistan | 495 | 495 | 0.0% | 520 | 500 | 587 | 526 |
-|  | Turkey | 330 | 330 | 0.0% | 285 | 275 | 304 | 276 |
+| Markets |  | 07/07/23 | 30/06/23 | ±% | YTD High | YTD Low | 2022 | 2021 | 2020 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tanker | Bangladesh | 580 | 580 | 0.0% | 615 | 515 | 601 | 542 | 348 |
+|  | India | 540 | 540 | 0.0% | 570 | 555 | 593 | 519 | 348 |
+|  | Pakistan | 510 | 510 | 0.0% | 540 | 535 | 596 | 536 | 352 |
+|  | Turkey | 340 | 340 | 0.0% | 340 | 330 | 314 | 284 | 207 |
+| Dry Bulk | Bangladesh | 565 | 565 | 0.0% | 600 | 505 | 590 | 532 | 336 |
+|  | India | 520 | 520 | 0.0% | 540 | 520 | 583 | 508 | 335 |
+|  | Pakistan | 495 | 495 | 0.0% | 520 | 500 | 587 | 526 | 338 |
+|  | Turkey | 330 | 330 | 0.0% | 285 | 275 | 304 | 276 | 198 |
 
 ## Currencies
 | Markets | Current | Previous | ±% | YTD High |

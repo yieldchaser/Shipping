@@ -246,16 +246,16 @@ Newbuilding activity was robust last week, with a significant number of tanker c
 The demolition market activity remained weak for another week, with only one deal materializing. The primary demolition destinations in the Indian subcontinent continue to face challenges. India is grappling with low domestic steel demand, while recent rainfall has disrupted scrapyard operations. In Bangladesh, activity remains subdued due to ongoing riots, which have negatively impacted market activity. Similarly, in Pakistan, demand for scrap is low, leading to a stabilization of scrapping activity with few vessels being directed to the country's scrapyards. From a supply perspective, the freight market remains at levels that do not compel owners to consider demolition, particularly given the rising prices of secondhand vessels. This situation is exerting additional pressure on demolition market activity, with current bids failing to attract owners' attention..
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | 26/07/24 | 19/07/24 | ±% | YTD High | YTD Low | 2023 | 2022 | 2021 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Tanker** | Bangladesh | 520 | 520 | 0.0% | 530 | 490 | 550 | 601 |
-|  | India | 520 | 520 | 0.0% | 540 | 490 | 540 | 593 |
-|  | Pakistan | 510 | 510 | 0.0% | 525 | 510 | 525 | 596 |
-|  | Turkey | 370 | 370 | 0.0% | 350 | 340 | 325 | 314 |
-| **Dry Bulk** | Bangladesh | 510 | 510 | 0.0% | 520 | 475 | 535 | 590 |
-|  | India | 500 | 500 | 0.0% | 520 | 480 | 522 | 583 |
-|  | Pakistan | 490 | 490 | 0.0% | 510 | 490 | 515 | 587 |
-|  | Turkey | 360 | 360 | 0.0% | 350 | 330 | 315 | 304 |
+| Markets |  | 26/07/24 | 19/07/24 | ±% | YTD High | YTD Low | 2023 | 2022 | 2021 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Tanker** | Bangladesh | 520 | 520 | 0.0% | 530 | 490 | 550 | 601 | 542 |
+|  | India | 520 | 520 | 0.0% | 540 | 490 | 540 | 593 | 519 |
+|  | Pakistan | 510 | 510 | 0.0% | 525 | 510 | 525 | 596 | 536 |
+|  | Turkey | 370 | 370 | 0.0% | 350 | 340 | 325 | 314 | 207 |
+| **Dry Bulk** | Bangladesh | 510 | 510 | 0.0% | 520 | 475 | 535 | 590 | 532 |
+|  | India | 500 | 500 | 0.0% | 520 | 480 | 522 | 583 | 508 |
+|  | Pakistan | 490 | 490 | 0.0% | 510 | 490 | 515 | 587 | 526 |
+|  | Turkey | 360 | 360 | 0.0% | 350 | 330 | 315 | 304 | 276 |
 
 ## Currencies
 

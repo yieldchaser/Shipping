@@ -1659,11 +1659,11 @@
         "price_current_usd_m": null,
         "price_previous_usd_m": null,
         "pct_change": "",
-        "yard": "",
-        "delivery": "",
-        "buyer": "",
+        "yard": "Chengxi, China",
+        "delivery": "2023-2024",
+        "buyer": "Chinese (BoCom FL)",
         "price_raw": "undisclosed",
-        "comments": "",
+        "comments": "woodchip carriers",
         "source_file": "intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf"
       },
       {
@@ -1750,8 +1750,8 @@
         "price_previous_usd_m": null,
         "pct_change": "",
         "yard": "Penglai Jinglu, China",
-        "delivery": "",
-        "buyer": "",
+        "delivery": "2023-2024",
+        "buyer": "Chinese (Ningbo Ocean)",
         "price_raw": "undisclosed",
         "comments": "",
         "source_file": "intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf"

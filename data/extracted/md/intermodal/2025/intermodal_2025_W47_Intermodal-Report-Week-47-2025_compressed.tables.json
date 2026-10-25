@@ -1458,11 +1458,11 @@
         "price_current_usd_m": null,
         "price_previous_usd_m": null,
         "pct_change": "",
-        "yard": "",
-        "delivery": "GSI Nansha, China",
-        "buyer": "2029",
-        "price_raw": "New Zealander (Ferry Holdings)",
-        "comments": "undisclosed",
+        "yard": "GSI Nansha, China",
+        "delivery": "2029",
+        "buyer": "New Zealander (Ferry Holdings)",
+        "price_raw": "undisclosed",
+        "comments": "Battery Hybrid",
         "source_file": "intermodal_2025_W47_Intermodal-Report-Week-47-2025_compressed.pdf"
       }
     ],

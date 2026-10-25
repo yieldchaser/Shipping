@@ -205,7 +205,7 @@ Elsewhere, Sallaum Lines placed an order for 1 firm plus 1 optional LNG/ammonia 
 | 2+2 | Containership | 6,400 teu | Huangpu Wenchong Shipbuilding, China | 2029 | S. Korean (CK Line) | undisclosed |  |
 | 6 | Containership | 4,600 teu | Hengli HI, China | 2028-2029 | Chinese (Zhenghe Mainline) | $ 72.0m |  |
 | 2+4 | Containership | 1,300 teu | Guangji XinNeng, China | 2028 | Norwegian (Songa Box) | undisclosed |  |
-| 1+1 | PCC | 8,600 | ceu | CMJL Nanjing, China | 2029 | Cyprus based (Sallaum Lines) | undisclosed |
+| 1+1 | PCC | 8,600 ceu | CMJL Nanjing, China | 2029 | Cyprus based (Sallaum Lines) | undisclosed | LNG/Ammonia Ready |
 
 ---
 

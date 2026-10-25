@@ -206,16 +206,16 @@ The report from the previous week presents a varied landscape in the newbuilding
 The demolition market continues to be challenging, with cautious sentiment prevailing in the major hubs. In India, local steel prices are unchanged, but imported scrap has declined, putting pressure on recyclers' margins. Despite selling above normal prices, overall demand remains weak. With hawkish central bank policy exerting pressure, prices are expected to remain stable unless demand or steel prices improve. In Pakistan, there has been uncertainty over the coalition government following disputed elections. With the political direction unclear, businesses are cautious. Local steel demand and prices remain subdued. Some recyclers are still looking for immediate tonnage, but the availability of foreign exchange is limiting market activity. Prices are likely to hold until there is clarity on the new government. In Bangladesh, local steel markets have slowed. Imported scrap was under pressure as local recyclers maintained supply amid the LC challenges. Reduced steel prices may lead recyclers to bid lower for any new tonnage, but limited availability prevents price testing. LCs continue to be a barrier to acquisitions. In Turkey, imports have fallen but mills have maintained domestic scrap prices. The market remains sluggish, but currency depreciation is allowing slight price improvements. Overall, with weaker Asian and European steel demand, Turkish prices could fall in the absence of market changes. While tanker markets saw firmer rates, dry freight was strong across all ship sizes and containers maintained momentum. However, supply constraints may limit recycling volumes in the short term.
 
 ## Indicative Demolition Prices ($/ldt)
-| Markets | 16/02/24 | 09/02/24 | ±% | YTD High | YTD Low | 2023 | 2022 | 2021 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Tanker | Bangladesh | 520 | 510 | 2.0% | 520 | 490 | 550 | 601 |
-|  | India | 500 | 500 | 0.0% | 500 | 500 | 540 | 593 |
-|  | Pakistan | 520 | 520 | 0.0% | 520 | 520 | 525 | 596 |
-|  | Turkey | 350 | 350 | 0.0% | 350 | 340 | 325 | 314 |
-| Dry Bulk | Bangladesh | 510 | 500 | 2.0% | 510 | 475 | 535 | 590 |
-|  | India | 490 | 490 | 0.0% | 490 | 490 | 522 | 583 |
-|  | Pakistan | 510 | 510 | 0.0% | 510 | 510 | 515 | 587 |
-|  | Turkey | 340 | 340 | 0.0% | 340 | 330 | 315 | 304 |
+| Markets |  | 16/02/24 | 09/02/24 | ±% | YTD High | YTD Low | 2023 | 2022 | 2021 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tanker | Bangladesh | 520 | 510 | 2.0% | 520 | 490 | 550 | 601 | 542 |
+|  | India | 500 | 500 | 0.0% | 500 | 500 | 540 | 593 | 519 |
+|  | Pakistan | 520 | 520 | 0.0% | 520 | 520 | 525 | 596 | 536 |
+|  | Turkey | 350 | 350 | 0.0% | 350 | 340 | 325 | 314 | 207 |
+| Dry Bulk | Bangladesh | 510 | 500 | 2.0% | 510 | 475 | 535 | 590 | 532 |
+|  | India | 490 | 490 | 0.0% | 490 | 490 | 522 | 583 | 508 |
+|  | Pakistan | 510 | 510 | 0.0% | 510 | 510 | 515 | 587 | 526 |
+|  | Turkey | 340 | 340 | 0.0% | 340 | 330 | 315 | 304 | 276 |
 
 ## Currencies
 | Markets | Current | Previous | ±% | YTD High |

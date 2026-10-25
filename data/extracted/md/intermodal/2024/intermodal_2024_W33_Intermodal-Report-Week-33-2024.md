@@ -234,9 +234,23 @@ Additionally, during the week ending at 10 August, Greek owner Samos Steamships 
 | Gas | LNG 174k cbm |  | 262.5 | 262.5 | 0.0% | 263.0 | 262.5 | 265.0 | 180.0 | 259 | 232 | 195 |
 | Gas | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
 | Gas | SGC LPG 25k cbm |  | 61.0 | 61.0 | 0.0% | 61.0 | 58.0 | 61.0 | 40.0 | 56 | 51 | 45 |
-## Indicative Period Charters
+## Newbuilding Orders
 
-_No period fixtures reported._
+| Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 | Tanker | 306,000 dwt | Dalian Shipbuilding, China | 2027-2028 | Chinese (CMES) | \$ 125.0m |  |
+| 5 | Tanker | 115,000 dwt | Dalian Shipbuilding, China | 2027-2028 | Chinese (CMES) | \$ 70.0m | LR2 |
+| 1 | Tanker | 115,000 dwt | Sumitomo, Japan | 2026 | Greek (Samos Steamship) | undisclosed |  |
+| 8 | Bulker | 210,000 dwt | Jiangsu Hantong, China | 2027-2028 | Chinese (Cosco Shipping Bulk) | \$ 80.0m | ammonia ready |
+| 2 | Bulker | 180,000 dwt | Nihon Shipyard, Japan |  | Greek (Samos Steamship) | undisclosed |  |
+| 2 | LPG | 45,000 cbm | Hyundai Mipo, S. Korea | 2027-2028 | Kuwait based (AMPTC) | \$ 79.5m |  |
+| 10+2 | Container | 21,000 teu | Jiangsu Hantong, China |  | Swiss Based (MSC) | \$ 210.0m | LNG dual-fuel |
+| 12 | Container | 19,000 teu | Zhoushan Changhong, China | 2026-2029 | Swiss Based (MSC) | \$ 210.0m | LNG dual-fuel, Type C Tanks. |
+| 6 | Container | 19,000 teu | SWS, China | 2027-2028 | Swiss Based (MSC) | \$ 210.0m | LNG dual-fuel |
+| 5 | Container | 13,000 teu | Hudong Zhonghua, China | 2026-2027 | Singaporean (Pacific International Lines) | \$ 190.0m | LNG dual-fuel |
+| 8+4 | Container | 11,500 teu | Penglai Jinglu, China | 2027-2028 | Swiss Based (MSC) | \$ 140.0m | LNG dual-fuel |
+| 2 | VLAC | 93,000 cbm | Jiangnan Shipyard, China | 2027 | Singapore based (Jaldhi Overseas) | \$ 120.0m |  |
+| 4 | LPG | 60,000 cbm | CSSC Huangpu, China | 2027-2028 | Singaporean (Eastern Pacific) | \$ 84.0m | ammonia dual fuel |
 
 ---
 

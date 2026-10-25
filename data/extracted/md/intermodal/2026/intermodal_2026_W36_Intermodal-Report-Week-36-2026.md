@@ -204,14 +204,14 @@ In containerships, Yang Ming Marine ordered 6 LNG/Ammonia ready 13.65k teu units
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 | Bulker | 210,000 dwt | New Times Shipbuilding, China | 2030 | S. Korean (H-Line) | $ 94.0m | LNG dual fuel, against TC with Posco |
 | 10 | Bulker | 80,000 dwt | Chengxi Shipyard, China | 2029-2030 | Chinese (CSSC HK Shipping) | $ 48.1m | Grain carriers, against TC with Cofco International |
-| 6+4 | Bulker | 64,500 dwt | Jingjiang Nanyang, China | 2029 | Chinese (YZ) Maritime | $ 36.0m |  |
+| 6+4 | Bulker | 64,500 dwt | Jingjiang Nanyang, China | 2029 | Chinese (YZJ Maritime) | $ 36.0m |  |
 | 6+2 | Tanker | 115,000 dwt | SK Oceanplant, S. Korea | 2030 | Greek (Sea Pioneer) | $ 71.6m |  |
-| 2 | Tanker | 49,800 dwt | Qidong Qianyao HI, China | 2030 | Chinese (YZ) Maritime | undisclosed | Methanol ready |
+| 2 | Tanker | 49,800 dwt | Qidong Qianyao HI, China | 2030 | Chinese (YZJ Maritime) | undisclosed | Methanol ready |
 | 4 | Tanker | 50,000 dwt | Chengxi Shipyard, China | 2029-2030 | Cyprus based (Schoeller Holdings) | $ 45.0m |  |
 | 2 | Tanker | 49,500 dwt | GSI, China | 2029 | German (Leonhardt & Blumberg) | undisclosed |  |
 | 6 | Containership | 13,650 teu | Hanwha Ocean, S. Korea | 2028-2029 | Taiwanese (Yang Ming Marine) | $ 188.9m | LNG/Ammonia ready |
 | 2+2 | Containership | 1,800 teu | CMHI Wuhan Qingshan, China | 2028-2029 | Turkish (Bayraktar) | $ 32.0m |  |
-| 10 | PCTC | 8,200 | ceu | GSI, China | 2028-2031 | UK based (Ray Car Carriers) | $ 100.0m |
+| 10 | PCTC | 8,200 ceu | GSI, China | 2028-2031 | UK based (Ray Car Carriers) | $ 100.0m | LNG dual fuel |
 
 ---
 

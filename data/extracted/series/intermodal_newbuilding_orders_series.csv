@@ -2,12 +2,12 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2021-07-06,26,,Tanker,2,"49,900 dwt","GSI, China",2023,Swiss based (Proman Shipping),undisclosed,methanol dual fuelled,intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf
 2021-07-06,26,,Bulker,2,"82,000 dwt","Chengxi, China",2022-2023,Russian (Aston),$ 31.5m,Tier III,intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf
 2021-07-06,26,,Bulker,2,"70,000 dwt","Chengxi, China",2023-2024,Chinese (BoCom FL),undisclosed,woodchip carriers,intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf
-2021-07-06,26,,Bulker,6,"64,000 dwt",,,,undisclosed,,intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf
+2021-07-06,26,,Bulker,6,"64,000 dwt","Chengxi, China",2023-2024,Chinese (BoCom FL),undisclosed,woodchip carriers,intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf
 2021-07-06,26,,LNG,3,"180,000 cbm","Samsung, S. Korea",undisclosed,Danish (Celsius Shipping),$ 193.0m,,intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf
 2021-07-06,26,,LNG,1,"174,000 cbm","Hyundai Samho, S. Korea",2023,South Korean (H-Line),$ 190.0m,,intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf
 2021-07-06,26,,LNG,1,"174,000 cbm","Hudong Zhonghua, China",2024,Chinese (CSSC),undisclosed,option declared,intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf
 2021-07-06,26,,container,3,"3,300 teu","Yangzijiang, China",2023-2024,Chinese (Ningbo Ocean),undisclosed,,intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf
-2021-07-06,26,,Container,3,"1,400 teu","Penglai Jinglu, China",,,undisclosed,,intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf
+2021-07-06,26,,Container,3,"1,400 teu","Penglai Jinglu, China",2023-2024,Chinese (Ningbo Ocean),undisclosed,,intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf
 2021-07-06,26,,Container,2,"2,800 teu","Hyundai Mipo, S. Korea",2023,Greek (Euroseas),$ 38.0m,eco-design fuel-efficient,intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf
 2021-07-06,26,,Container,1,"2,100 teu","Hyundai Mipo, S. Korea",2023,Danish (Maersk),undisclosed,methanol dual fuelled,intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf
 2021-07-06,26,,Container,2+2,"1,900 teu","Yangfan Group, China",2023,Chinese (Shanghai Jin Jiang Shipping),undisclosed,,intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf
@@ -17,24 +17,24 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2021-07-13,27,,VLGC,2,"91,000 cbm","Hyundai Hi, South Korea",2023,South Korean (SK Shipping),$ 88.0m,"against 5-yrs T/C to Petrogas, LPG fuelled",intermodal_2021_W27_Intermodal-Report-Week-27-2021.pdf
 2021-07-13,27,,Container,5,"3,500 teu","Yangzijiang, China",2022-2024,Japanese (Lepta Shipping),$ 40.0m,"against 15-yrs T/C to Maersk, 800 reefer plugs, conventional fuelled",intermodal_2021_W27_Intermodal-Report-Week-27-2021.pdf
 2021-07-13,27,,PCTC,2+4,"6,500 ceu","CIMC Raffles, China",2024,Sweden (Wallenius SOL),$76.0-$77.0m,"against charter to Volkswagen, LNG fuelled",intermodal_2021_W27_Intermodal-Report-Week-27-2021.pdf
-2021-07-20,28,,Bulker,1,"210,000 dwt",,2024,Japanese (NYK Line),undisclosed,,intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf
+2021-07-20,28,,Bulker,1,"210,000 dwt","Nihon, Japan",2024,Japanese (NYK Line),undisclosed,"against long-term T/C to JFE Steel, LNG fuelled, Tier III",intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf
 2021-07-20,28,,Bulker,1,"210,000 dwt","Nihon, Japan",2024,Japanese (K Line),undisclosed,"against long-term T/C to JFE Steel, LNG fuelled, Tier III",intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf
-2021-07-20,28,,Bulker,1,"210,000 dwt",,2025,Japanese (MOL),undisclosed,,intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf
+2021-07-20,28,,Bulker,1,"210,000 dwt","Nihon, Japan",2025,Japanese (MOL),undisclosed,"against long-term T/C to JFE Steel, LNG fuelled, Tier III",intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf
 2021-07-20,28,,Bulker,2,"66,000 dwt","Tsuneishi Zhoushan, China",2023,Japanese (Orix),undisclosed,Tier III,intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf
 2021-07-20,28,,Tanker,2,"50,000 dwt","STX Offshore, S. Korea",2022,Greek (Steelships),$ 37.0m,"LNG fuelled, scrubber fitted",intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf
-2021-07-20,28,,LNG,2,"174,000 cbm","Hyundai Hi, South Korea",2024,South Korean (Pan Ocean),undisclosed,,intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf
+2021-07-20,28,,LNG,2,"174,000 cbm","Hyundai Hi, South Korea",2024,South Korean (Pan Ocean),undisclosed,"against T/C to Shell, options declared",intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf
 2021-07-20,28,,LNG,2,"174,000 cbm","Hyundai Hi, South Korea",2024,US based (JP. Morgan),undisclosed,"against T/C to Shell, options declared",intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf
-2021-07-20,28,,LNG,2,"174,000 cbm","Hyundai Samho, S. Korea",2025,Norwegian (Knutsen),undisclosed,,intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf
+2021-07-20,28,,LNG,2,"174,000 cbm","Hyundai Samho, S. Korea",2025,Norwegian (Knutsen),undisclosed,"against T/C to Shell, options declared",intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf
 2021-07-20,28,,VLGC,2,"86,000 cbm","Hyundai Samho, S. Korea",2023,Japanese (Nissen Kaiun),$ 82.5m,"dual fuelled, against 10-yrs T/C",intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf
 2021-07-20,28,,Container,4,"16,180 teu","COSCO Yangzhou, China",2025,Chinese (Cosco),$ 155.0m,"scrubber fitted, conventially fuelled",intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf
-2021-07-20,28,,Container,6,"14,092 teu",,2023-2024,,$ 146.0m,,intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf
+2021-07-20,28,,Container,6,"14,092 teu","COSCO Yangzhou, China",2023-2024,Chinese (Cosco),$ 146.0m,"scrubber fitted, conventially fuelled",intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf
 2021-07-20,28,,Container,4,"7,000 teu","Shanghai Waigaoqiao, China",2023-2024,Singaporean (Sea Consortium),$ 73.0m,"options declared, conventioanlly fuelled",intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf
 2021-07-27,29,,Tanker,1,"155,000 dwt","DSIC, China",2023,Chinese (Shanghai North Sea Shipping),undisclosed,"option declared, shuttle tanker",intermodal_2021_W29_Intermodal-Report-Week-29-2021.pdf
 2021-07-27,29,,Tanker,6,"50,000 dwt","K Shipbuilding, South Korea",2023,S.Korean (Sinokor),$36.0-37.0m,"against T/C to ExxonMobil, Tier III, EEDI phase 3",intermodal_2021_W29_Intermodal-Report-Week-29-2021.pdf
 2021-07-27,29,,Bulker,2,"40,000 dwt","Imabari, Japan",2023-2024,Taiwanese (Wisdom Marine),around $29.0m,EEDI phase 3,intermodal_2021_W29_Intermodal-Report-Week-29-2021.pdf
-2021-07-27,29,,Bulker,2,"40,000 dwt","Namura, Japan",2023-2024,,around $29.0m,,intermodal_2021_W29_Intermodal-Report-Week-29-2021.pdf
+2021-07-27,29,,Bulker,2,"40,000 dwt","Namura, Japan",2023-2024,Taiwanese (Wisdom Marine),around $29.0m,EEDI phase 3,intermodal_2021_W29_Intermodal-Report-Week-29-2021.pdf
 2021-07-27,29,,Container,2,"16,000 teu","GSI, China",2023-2024,Chinese (CMB FL),undisclosed,"against long-term T/C to MSC, scrubber fitted, LNG fuelled",intermodal_2021_W29_Intermodal-Report-Week-29-2021.pdf
-2021-07-27,29,,Container,2,"16,000 teu","DSIC, China",2023-2024,Chinese (Minsheng FL),undisclosed,,intermodal_2021_W29_Intermodal-Report-Week-29-2021.pdf
+2021-07-27,29,,Container,2,"16,000 teu","DSIC, China",2023-2024,Chinese (Minsheng FL),undisclosed,"against long-term T/C to MSC, scrubber fitted, LNG fuelled",intermodal_2021_W29_Intermodal-Report-Week-29-2021.pdf
 2021-07-27,29,,Container,10,"7,000 teu","Yangzijiang, China",2023-2024,HK based (Seaspan),$ 105.0m,"LNG fuelled, against T/C to Zim",intermodal_2021_W29_Intermodal-Report-Week-29-2021.pdf
 2021-07-27,29,,Container,1,"1,900 teu","Huangpu Wenchong, China",2022,HK based (TS Lines),undisclosed,,intermodal_2021_W29_Intermodal-Report-Week-29-2021.pdf
 2021-07-27,29,,Container,2,"1,800 teu","Huanghai Shipbuilding, China",2023,German (Briese Schiffahrts),undisclosed,options declared,intermodal_2021_W29_Intermodal-Report-Week-29-2021.pdf
@@ -46,7 +46,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2021-08-03,30,,LNG,2,"174,000 cbm","Hyundai Hi, South Korea",2024,Norwegian (Knutsen),undisclosed,"options declared, against T/C to PGNiG",intermodal_2021_W30_Intermodal-Report-Week-30-2021-2.pdf
 2021-08-03,30,,Container,4+2,"5,300 teu","Zhoushan Changhong, China",2023-2024,Greek (Navios),$ 61.6m,conventionally fuelled,intermodal_2021_W30_Intermodal-Report-Week-30-2021-2.pdf
 2021-08-10,31,,Tanker,1,"114,000 dwt","SWS, China",2024,Greek (Enesel),around $50.0m,"LR2, options declared, EEDI phase 3, Tier III, scrubber fitted",intermodal_2021_W31_Intermodal-Report-Week-31-2021.pdf
-2021-08-10,31,,Tanker,1,"114,000 dwt","Daehan, S. Korea",2023,,around $51.0m,,intermodal_2021_W31_Intermodal-Report-Week-31-2021.pdf
+2021-08-10,31,,Tanker,1,"114,000 dwt","Daehan, S. Korea",2023,Greek (Enesel),around $51.0m,"LR2, options declared, EEDI phase 3, Tier III, scrubber fitted",intermodal_2021_W31_Intermodal-Report-Week-31-2021.pdf
 2021-08-10,31,,LNG,1,"180,000 cbm","Samsung, S. Korea",2024,Danish (Celsius Shipping),$ 195.1m,option declared,intermodal_2021_W31_Intermodal-Report-Week-31-2021.pdf
 2021-08-10,31,,LNG,1,"174,000 cbm","DSME, S. Korea",2024,South Korean (Hyundai LNG),$ 198.4m,against long-term T/C to Repsol,intermodal_2021_W31_Intermodal-Report-Week-31-2021.pdf
 2021-08-10,31,,VLGC,2,"87,000 cbm","Namura, Japan",2024,Singaporean (Phoenix Tankers),undisclosed,"dual fuelled, EEDI phase 3",intermodal_2021_W31_Intermodal-Report-Week-31-2021.pdf
@@ -68,12 +68,12 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2021-09-07,35,,Bulker,10,"34,500 dwt","Oshima, Japan",2023-2024,Canadian (Fednav),undisclosed,"lake-fitted, super-eco, Tier III",intermodal_2021_W35_Intermodal-Report-Week-35-2021-1.pdf
 2021-09-07,35,,VLGC,1,"86,700 cbm","Kawasaki, Japan",2023,Japanese (Eneos),undisclosed,"LPG/LAG carrier, LPG fuelled, Tier III, EEDI phase 3, T/C to Japan Gas Energy Corp",intermodal_2021_W35_Intermodal-Report-Week-35-2021-1.pdf
 2021-09-07,35,,Container,5,"16,000 teu","DACKS, China",2024-2025,HK based (OOCL),$ 157.58m,"conventionally fuelled, scrubber fitted",intermodal_2021_W35_Intermodal-Report-Week-35-2021-1.pdf
-2021-09-07,35,,Container,5,"16,000 teu","NACKS, China",2024-2025,,$ 157.58m,,intermodal_2021_W35_Intermodal-Report-Week-35-2021-1.pdf
+2021-09-07,35,,Container,5,"16,000 teu","NACKS, China",2024-2025,HK based (OOCL),$ 157.58m,"conventionally fuelled, scrubber fitted",intermodal_2021_W35_Intermodal-Report-Week-35-2021-1.pdf
 2021-09-07,35,,Container,5,"7,000 teu","Yangzijiang, China",2023-2024,HK based (Seaspan),$ 106.00m,"options declared, LNG and conventionally fuelled",intermodal_2021_W35_Intermodal-Report-Week-35-2021-1.pdf
 2021-09-07,35,,Container,2,"4,200 teu","Mawei, China",2024,Swiss based (MSC),$ 50.0m,"conventional fuelled, LOI stage",intermodal_2021_W35_Intermodal-Report-Week-35-2021-1.pdf
-2021-09-07,35,,Container,11,"3,200 teu",,undisclosed,,$ 49.0m,,intermodal_2021_W35_Intermodal-Report-Week-35-2021-1.pdf
+2021-09-07,35,,Container,11,"3,200 teu","Huangpu Wenchong, China",undisclosed,Taiwanese (Evergreen),$ 49.0m,scrubber fitted,intermodal_2021_W35_Intermodal-Report-Week-35-2021-1.pdf
 2021-09-07,35,,Container,11,"2,300 teu","Huangpu Wenchong, China",undisclosed,Taiwanese (Evergreen),$ 40.0m,scrubber fitted,intermodal_2021_W35_Intermodal-Report-Week-35-2021-1.pdf
-2021-09-07,35,,Container,2,"1,800 teu",,undisclosed,,$ 33.0m,,intermodal_2021_W35_Intermodal-Report-Week-35-2021-1.pdf
+2021-09-07,35,,Container,2,"1,800 teu","Huangpu Wenchong, China",undisclosed,Taiwanese (Evergreen),$ 33.0m,scrubber fitted,intermodal_2021_W35_Intermodal-Report-Week-35-2021-1.pdf
 2021-09-14,36,,Tanker,1+1,"37,000 dwt","Chengxi, China",2024,Dutch (Vitol),$ 39.0m,"asphalt/bitumen carrier, conventionally fuelled",intermodal_2021_W36_Intermodal-Report-Week-36-2021.pdf
 2021-09-14,36,,Tanker,1,"8,000 dwt","Chongqing Chuandong, China",2023,Chinese (China Shipping Chemical),undisclosed,Chemical tanker,intermodal_2021_W36_Intermodal-Report-Week-36-2021.pdf
 2021-09-14,36,,Bulker,3,"88,800 dwt","Chengxi, China",2024,Turkish (Ciner Shipping),$ 34.0m,"Tier III, conventionally fuelled",intermodal_2021_W36_Intermodal-Report-Week-36-2021.pdf
@@ -99,7 +99,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2021-11-09,44,,Bulker,4,"82,000 dwt","Jiangsu New Hantong, China",2023,German (Vogemann),around $34.0m,,intermodal_2021_W44_Intermodal-Report-Week-44-2021.pdf
 2021-11-09,44,,Bulker,2,"64,000 dwt","Imabari, Japan",2024,Taiwanese (Wisdom Marime),$ 35.0m,EEDI phase 3,intermodal_2021_W44_Intermodal-Report-Week-44-2021.pdf
 2021-11-09,44,,LNG,4,"174,000 cbm","DSME, S. Korea",undisclosed,Qatari (Qatar Petroleum),undisclosed,,intermodal_2021_W44_Intermodal-Report-Week-44-2021.pdf
-2021-11-09,44,,LNG,2,"174,000 cbm","Samsung, S. Korea",undisclosed,,undisclosed,,intermodal_2021_W44_Intermodal-Report-Week-44-2021.pdf
+2021-11-09,44,,LNG,2,"174,000 cbm","Samsung, S. Korea",undisclosed,Qatari (Qatar Petroleum),undisclosed,,intermodal_2021_W44_Intermodal-Report-Week-44-2021.pdf
 2021-11-09,44,,MPP,4,"32,000 dwt","Huangpu Wenchong, China",2024,German (Schoeller Holdings),undisclosed,,intermodal_2021_W44_Intermodal-Report-Week-44-2021.pdf
 2021-11-09,44,,container,4,"2,900 teu","Fujian Mawei, China",2023-2024,Bangladeshi (Karnaphuli),$37.0m-$38.0m,EEDI phase 2,intermodal_2021_W44_Intermodal-Report-Week-44-2021.pdf
 2021-11-30,47,,Bulker,4,"82,300 dwt","Yangzi-Mitsui, China",2023,Chinese (Yangzijiang Shipping),undisclosed,,intermodal_2021_W47_Intermodal-Report-Week-47-2021.pdf
@@ -109,10 +109,10 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2021-11-30,47,,Container,10,"2,000 teu","KSOE, S.Korea",2023-2024,French (CMA CGM),$ 62.5m,LNG fuelled,intermodal_2021_W47_Intermodal-Report-Week-47-2021.pdf
 2021-11-30,47,,Container,2,"1,900 teu","Yangfan Group, China",2023,Chinese (Shanghai JinJiang),$ 28.2m,option declared,intermodal_2021_W47_Intermodal-Report-Week-47-2021.pdf
 2021-11-30,47,,Container,8,"1,170 teu","New Dayang, China",2023-2024,Singaporean (X-Press Feeders),undisclosed,methanol fuelled,intermodal_2021_W47_Intermodal-Report-Week-47-2021.pdf
-2021-11-30,47,,Container,8,"1,170 teu","Ningbo Xinle, China",2023-2024,,undisclosed,,intermodal_2021_W47_Intermodal-Report-Week-47-2021.pdf
+2021-11-30,47,,Container,8,"1,170 teu","Ningbo Xinle, China",2023-2024,Singaporean (X-Press Feeders),undisclosed,methanol fuelled,intermodal_2021_W47_Intermodal-Report-Week-47-2021.pdf
 2021-12-07,48,,Tanker,2,"7,630 dwt","Chongqing Chuandong, China",2023,Chinese (Guangxi Wuzhou),undisclosed,"St-St chemical tankers, Tier II",intermodal_2021_W48_Intermodal-Report-Week-48-2021.pdf
 2021-12-07,48,,Bulker,4,"63,500 dwt","Nantong Xiangyu, China",2024,Chinese (HuaXia FL),$ 32.0m,EEDI phase 3,intermodal_2021_W48_Intermodal-Report-Week-48-2021.pdf
-2021-12-07,48,,Bulker,4+4,"63,500 dwt","Chengxi, China",2023-2024,,$ 32.0m,,intermodal_2021_W48_Intermodal-Report-Week-48-2021.pdf
+2021-12-07,48,,Bulker,4+4,"63,500 dwt","Chengxi, China",2023-2024,Chinese (HuaXia FL),$ 32.0m,EEDI phase 3,intermodal_2021_W48_Intermodal-Report-Week-48-2021.pdf
 2021-12-07,48,,LNG,4,"174,000 cbm","DSME, S. Korea",2024-2025,Greek (GasLog),undisclosed,,intermodal_2021_W48_Intermodal-Report-Week-48-2021.pdf
 2021-12-07,48,,VLGC,2,"86,700 cbm","Kawasaki, Japan",2024,Japanese (NYK),undisclosed,"ammonia carrier, EEDI phase 3, LPG fuelled",intermodal_2021_W48_Intermodal-Report-Week-48-2021.pdf
 2021-12-07,48,,Container,2+2,"8,000 teu","Hyundai Hi, South Korea",2024,Singapore based (OM Maritime),$ 119.0m,"dual fuelled, LOI stage",intermodal_2021_W48_Intermodal-Report-Week-48-2021.pdf
@@ -122,12 +122,12 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2021-12-14,49,,LNG,3,"174,000 cbm","Hudong Zhonghua, China",2024-2025,Chinese (CSET),$ 185.0m,,intermodal_2021_W49_Intermodal-Report-Week-49-2021.pdf
 2021-12-14,49,,Ammonia Carrier,2+2,"93,000 cbm","Jiangnan, China",undisclosed,French (JS & Co),undisclosed,ammonia powered,intermodal_2021_W49_Intermodal-Report-Week-49-2021.pdf
 2021-12-14,49,,Container,4,"13,000 teu","Yangzijiang, China",2023-2024,Greek (Costamare),undisclosed,"two 13,000teu are new contracts with the rest six being options that have been declared, against long-term T/C to a leading liner company",intermodal_2021_W49_Intermodal-Report-Week-49-2021.pdf
-2021-12-14,49,,Container,4,"15,000 teu",,2023-2024,,undisclosed,,intermodal_2021_W49_Intermodal-Report-Week-49-2021.pdf
+2021-12-14,49,,Container,4,"15,000 teu","Yangzijiang, China",2023-2024,Greek (Costamare),undisclosed,"two 13,000teu are new contracts with the rest six being options that have been declared, against long-term T/C to a leading liner company",intermodal_2021_W49_Intermodal-Report-Week-49-2021.pdf
 2021-12-21,50,,Bulker,2,"63,500 dwt","Oshima, Japan",2024,Taiwanese (Taiwan Navigation),undisclosed,,intermodal_2021_W50_Intermodal-Report-Week-50-2021-1.pdf
 2021-12-21,50,,LNG bunkering,1,"12,000 cbm","nantong CIMC, China",2024,Chinese (CenerTech),undisclosed,,intermodal_2021_W50_Intermodal-Report-Week-50-2021-1.pdf
-2022-01-18,2,,Bulker,2,"180,000 dwt","Nihon, Japan",2024-2025,,undisclosed,,intermodal_2022_W02_Intermodal-Report-Week-02-2022.pdf
+2022-01-18,2,,Bulker,2,"180,000 dwt","Nihon, Japan",2024-2025,Japanese (NYK Line),undisclosed,LNG fuelled,intermodal_2022_W02_Intermodal-Report-Week-02-2022.pdf
 2022-01-18,2,,Bulker,1,"180,000 dwt","Namura, Japan",2024-2025,Japanese (NYK Line),undisclosed,LNG fuelled,intermodal_2022_W02_Intermodal-Report-Week-02-2022.pdf
-2022-01-18,2,,Bulker,1,"180,000 dwt","Shanghai Waigaoqiao, China",2024-2025,,undisclosed,,intermodal_2022_W02_Intermodal-Report-Week-02-2022.pdf
+2022-01-18,2,,Bulker,1,"180,000 dwt","Shanghai Waigaoqiao, China",2024-2025,Japanese (NYK Line),undisclosed,LNG fuelled,intermodal_2022_W02_Intermodal-Report-Week-02-2022.pdf
 2022-01-18,2,,LNG,1,"174,000 cbm","DSME, S. Korea",2024,Japanese (Mitsui OSK Lines),$ 208.0m,option declared,intermodal_2022_W02_Intermodal-Report-Week-02-2022.pdf
 2022-01-18,2,,Container,3+3,"7,000 teu","Hyundai Hi, South Korea",2024,Singaporean (Eastern Pacific),around $116.0m,"against 8-yr T/C to Zim, dual fuelled",intermodal_2022_W02_Intermodal-Report-Week-02-2022.pdf
 2022-01-18,2,,Container,4,"5,500 teu","Hanjin, S. Korea",2023,German (MPC),undisclosed,methanol ready,intermodal_2022_W02_Intermodal-Report-Week-02-2022.pdf
@@ -166,9 +166,9 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2022-03-08,9,,LNG,3,"200,000 cbm","KSOE, S.Korea",2025,Greek (Dynagas),$ 235.0m,,intermodal_2022_W09_Intermodal-Report-Week-09-2022.pdf
 2022-03-08,9,,LNG,2+2,"175,000 cbm","Jiangnan Shipyard, China",2025,U.A.E based (Adnoc),around $200.0m,,intermodal_2022_W09_Intermodal-Report-Week-09-2022.pdf
 2022-03-08,9,,Container,4,"14,000 teu","Jiangnan Shipyard, China",2024-2025,Singapore based (PIL),undisclosed,"LNG fuelled, ammonia-ready",intermodal_2022_W09_Intermodal-Report-Week-09-2022.pdf
-2022-03-08,9,,Container,6,"8,000 teu","Hyundai Hi, South Korea",2024,,$ 98.0m,conventionally fuelled,intermodal_2022_W09_Intermodal-Report-Week-09-2022.pdf
+2022-03-08,9,,Container,6,"8,000 teu","Hyundai Hi, South Korea",2024,South Korean (Sinokor),$ 98.0m,conventionally fuelled,intermodal_2022_W09_Intermodal-Report-Week-09-2022.pdf
 2022-03-08,9,,Container,4,"2,800 teu","Hyundai Mipo, S. Korea",2023,South Korean (Sinokor),$ 43.0m,,intermodal_2022_W09_Intermodal-Report-Week-09-2022.pdf
-2022-03-08,9,,Container,2,"1,000 teu",,2023,,$ 25.0m,,intermodal_2022_W09_Intermodal-Report-Week-09-2022.pdf
+2022-03-08,9,,Container,2,"1,000 teu","Hyundai Mipo, S. Korea",2023,South Korean (Sinokor),$ 25.0m,,intermodal_2022_W09_Intermodal-Report-Week-09-2022.pdf
 2022-03-08,9,,Container,2,"7,000 teu","SWS, China",2024-2025,Thai (RCL),$ 85.0m,,intermodal_2022_W09_Intermodal-Report-Week-09-2022.pdf
 2022-03-08,9,,Container,6,"6,000 teu","Qingdao Yangfan, China",2025,Belgian (CMB),undisclosed,options declared,intermodal_2022_W09_Intermodal-Report-Week-09-2022.pdf
 2022-03-08,9,,Container,2,"2,500 teu","Zhoushan Changhong, China",2024,Chinese (StarOcean Marine),$ 38.0m,,intermodal_2022_W09_Intermodal-Report-Week-09-2022.pdf
@@ -183,7 +183,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2022-04-05,13,,LNG,2+2,"175,000 cbm","Dalian, China",2025,Chinese (China Merchants Energy),undisclosed,,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
 2022-04-05,13,,Container,2,"12,000 teu","Nihon, Japan",2024,Thai (RCL),$ 133.0m,,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
 2022-04-05,13,,Container,14,"8,000 teu","New Times, China",2024-2025,Swiss based (MSC),excess $120.0m,"LOI stage, LNG fuelled",intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
-2022-04-05,13,,Container,8,"8,000 teu","Qingdao Beihai, China",2024-2025,,excess $120.0m,,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
+2022-04-05,13,,Container,8,"8,000 teu","Qingdao Beihai, China",2024-2025,Swiss based (MSC),excess $120.0m,"LOI stage, LNG fuelled",intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
 2022-04-05,13,,Container,6,"7,700 teu","Hyundai Hi, South Korea",2024-2025,Swiss based (MSC),excess $120.0m,LNG fuelled,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
 2022-04-05,13,,Container,2,"5,500 teu","HJ Shipbuilding, S. Korea",2024,Norwegian (MPC Container Ships),$ 72.2m,against long-term T/C to Zim,intermodal_2022_W13_Intermodal-Report-Week-13-2022.pdf
 2022-04-12,14,,Tanker,2,"50,000 dwt","Hyundai Vietnam, Vietnam",2023,Singaporean (Asiatic Lloyd),$ 38.9m,options declared,intermodal_2022_W14_Intermodal-Report-Week-14-2022.pdf
@@ -237,7 +237,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2022-07-19,28,,Tanker,3,"115,000 dwt","Hyundai Vietnam, Vietnam",2024-2025,Greek (CM Lemos),xs $65.0m,conventionally fuelled,intermodal_2022_W28_Intermodal-Report-Week-28-2022.pdf
 2022-07-19,28,,Tanker,1,"115,000 dwt","Daehan, S. Korea",2024,Greek (Neda Maritime),rgn $65.0m,"scrubber fitted, EEDI phase 3",intermodal_2022_W28_Intermodal-Report-Week-28-2022.pdf
 2022-07-19,28,,Tanker,4,"50,000 dwt","Hyundai Vietnam, Vietnam",2024,Japanese (Nissen Kaiun),$ 42.5m,"conventionally fuelled, EEDI phase 3",intermodal_2022_W28_Intermodal-Report-Week-28-2022.pdf
-2022-07-19,28,,PCTC,6,"7,500",ceu,"Xiamen, China",undisclosed,Chinese (CMB FL),$86.0m,intermodal_2022_W28_Intermodal-Report-Week-28-2022.pdf
+2022-07-19,28,,PCTC,6,"7,500 ceu","Xiamen, China",undisclosed,Chinese (CMB FL),$86.0m,LNG dual-fuel,intermodal_2022_W28_Intermodal-Report-Week-28-2022.pdf
 2022-07-26,29,,Tanker,1,"50,000 dwt","CSBC, Taiwan",2024,Taiwanese (CPC Corp),rgn $50.0m,"EEDI phase 3, incl. 5% VAT",intermodal_2022_W29_Intermodal-Report-Week-29-2022.pdf
 2022-07-26,29,,Bulker,2,"185,000 dwt","Namura, Japan",2024,Chinese (Foremost Group),undisclosed,"conventionally fuelled, biofuel ready, EEDI phase 3, NOx-Tier III, against 7yrs T/C to NYK",intermodal_2022_W29_Intermodal-Report-Week-29-2022.pdf
 2022-07-26,29,,Bulker,2,"64,000 dwt","New Dayang, China",2024,Taiwanese (U-Ming),$ 34.0m,,intermodal_2022_W29_Intermodal-Report-Week-29-2022.pdf
@@ -286,15 +286,15 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2022-09-27,38,,Tanker,2,"17,999 dwt","CMJL Yangzhou, China",2024-2025,Swedish (Furetank Rederi),undisclosed,"option declared, LNG fuelled",intermodal_2022_W38_Intermodal-Report-Week-38-2022.pdf
 2022-09-27,38,,Bulker,4,"66,000 dwt","Yamic, China",2024,Singapore based (Jaldhi Overseas),undisclosed,EEDI phase 3,intermodal_2022_W38_Intermodal-Report-Week-38-2022.pdf
 2022-09-27,38,,LNG,2,"175,000 cbm","DSIC, China",2026,Chinese (CMES),$ 200.0m,"option declared, dual fuelled",intermodal_2022_W38_Intermodal-Report-Week-38-2022.pdf
-2022-09-27,38,,LNG,2+2,"175,000 cbm",,2026,,$ 200.0m,"dual fuelled, LOI stage",intermodal_2022_W38_Intermodal-Report-Week-38-2022.pdf
-2022-10-04,39,,FPSO,1,"225,000",bopd,Keppel,2027,Brazilian (Petrobras),$2.8bn,intermodal_2022_W39_Intermodal-Report-Week-39-2022.pdf
-2022-10-04,39,,PCTC,3,"8,600",ceu,"GSI, China",2024-2025,S. Korean ( H-Line Shipping),rgn $ 100.0m,intermodal_2022_W39_Intermodal-Report-Week-39-2022.pdf
+2022-09-27,38,,LNG,2+2,"175,000 cbm","DSIC, China",2026,Chinese (CMES),$ 200.0m,"dual fuelled, LOI stage",intermodal_2022_W38_Intermodal-Report-Week-38-2022.pdf
+2022-10-04,39,,FPSO,1,"225,000 bopd",Keppel,2027,Brazilian (Petrobras),$2.8bn,P-83 project,intermodal_2022_W39_Intermodal-Report-Week-39-2022.pdf
+2022-10-04,39,,PCTC,3,"8,600 ceu","GSI, China",2024-2025,S. Korean ( H-Line Shipping),rgn $ 100.0m,,intermodal_2022_W39_Intermodal-Report-Week-39-2022.pdf
 2022-10-04,39,,Tanker,2,"50,000 dwt","Hyundai Vietnam, Vietnam",2025,Japanese (Mitsui & Co),$ 42.0m,options declared,intermodal_2022_W39_Intermodal-Report-Week-39-2022.pdf
 2022-10-04,39,,LNG,2,"174,000 cbm","Samsung HI, S. Korea",2026,Malaysian (MISC),undisclosed,,intermodal_2022_W39_Intermodal-Report-Week-39-2022.pdf
 2022-10-11,40,,Container,6,"17,000 teu","Hyundai Hi, South Korea",2025,Danish (Maersk),undisclosed,methanol fuelled,intermodal_2022_W40_Intermodal-Report-Week-40-2022.pdf
 2022-10-11,40,,Tanker,2,"157,000 dwt","DH Shipbuilding, South Korea",2024,Belgian (Euronav),$ 75.0m,scrubber fitted,intermodal_2022_W40_Intermodal-Report-Week-40-2022.pdf
 2022-10-11,40,,Tanker,2,"115,000 dwt","DH Shipbuilding, South Korea",2025,Greek (Atlas Maritime),$ 64.0m,,intermodal_2022_W40_Intermodal-Report-Week-40-2022.pdf
-2022-10-11,40,,FPSO,1,"225,000",bopd,"Sembcorp Marine, Singapore",2026,Brazilian (Petrobras),$ 3.05bn,intermodal_2022_W40_Intermodal-Report-Week-40-2022.pdf
+2022-10-11,40,,FPSO,1,"225,000 bopd","Sembcorp Marine, Singapore",2026,Brazilian (Petrobras),$ 3.05bn,P-82 project,intermodal_2022_W40_Intermodal-Report-Week-40-2022.pdf
 2022-10-11,40,,FSRU,1,"170,000 cbm","Hyundai Hi, South Korea",2023,USA (Excelerate Energy),undisclosed,"LOI stage, LNG regasification system, dual-fuelled, selective catalytic reduction system, boil-off gas management",intermodal_2022_W40_Intermodal-Report-Week-40-2022.pdf
 2022-10-18,41,,Tanker,2,"26,300 dwt","Fukuoka Shipbuilding, Japan",2025,U.S based (Fairfield Chemical),$ 70.0m,"st-st chemical tankers, options declared",intermodal_2022_W41_Intermodal-Report-Week-41-2022.pdf
 2022-10-18,41,,Bulker,2,"66,000 dwt","Yangtzi-Mitsui SB, China",2024,Japanese (Lepta Shipping),undisclosed,methanol fuelled,intermodal_2022_W41_Intermodal-Report-Week-41-2022.pdf
@@ -322,19 +322,19 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2022-11-29,47,,Tanker,2,"50,000 dwt","Hyundai Vinashin, Vietnam",2025,Singaporean (Eastern Pacific),$ 43.0m,,intermodal_2022_W47_Intermodal-Report-Week-47-2022.pdf
 2022-11-29,47,,Bulker,4,"20,000 dwt","Hengli HI Dalian, China (ex STX Dalian)",undisclosed,Chinese (Hengli Group),undisclosed,,intermodal_2022_W47_Intermodal-Report-Week-47-2022.pdf
 2022-11-29,47,,LNG,5,"174,000 cbm","Samsung HI, S. Korea",2027,US based (Seapeak),$ 215.46m,against 10-year T/C to ExxonMobil,intermodal_2022_W47_Intermodal-Report-Week-47-2022.pdf
-2022-11-29,47,,PCTC,6,"7,000",ceu,"Xiamen , China",2025-2026,Chinese (COSCO Shipping),excess $ 85.0m,intermodal_2022_W47_Intermodal-Report-Week-47-2022.pdf
-2022-12-06,48,,Tanker,4,"158,000 dwt","New Times, China",Greek (TMS Cardiff),$ 70.0m,,,intermodal_2022_W48_Intermodal-Report-Week-48-2022.pdf
-2022-12-06,48,,Tanker,2,"115,800 dwt","New Times, China",Greek (Capital Ship Management),undisclosed,,,intermodal_2022_W48_Intermodal-Report-Week-48-2022.pdf
-2022-12-06,48,,Tanker,2,"115,000 dwt","SWS, China",Greek (OceanGold),undisclosed,,,intermodal_2022_W48_Intermodal-Report-Week-48-2022.pdf
-2022-12-06,48,,Tanker,2+2,"50,000 dwt","Jiangsu New Yangzijiang, China",Greek (Evalend),$ 40.0m,,,intermodal_2022_W48_Intermodal-Report-Week-48-2022.pdf
-2022-12-06,48,,Tanker,2+4,"25,900 dwt","CMJL Yangzhou, China",Chinese (Shanghai Junzheng Shipping),$ 45.0m,"st-st, TIER III, EEDI Phase 2",,intermodal_2022_W48_Intermodal-Report-Week-48-2022.pdf
-2022-12-06,48,,Tanker,2+2,"15,000 dwt","CMJL Yangzhou, China",Danish (Terntank),undisclosed,wind and methanol propulsion,,intermodal_2022_W48_Intermodal-Report-Week-48-2022.pdf
-2022-12-06,48,,Bulker,1,"63,300 dwt","Tsuneishi Zhoushan, China",Greek (Meadway Shipping & Trading),rgn $ 38.0m,eco,,intermodal_2022_W48_Intermodal-Report-Week-48-2022.pdf
-2022-12-06,48,,Bulker,2,"40,000 dwt","Jiangsu New Yangzijiang, China",Greek (Evalend),low $ 30.0m,green dolphin type,,intermodal_2022_W48_Intermodal-Report-Week-48-2022.pdf
-2022-12-06,48,,LNG,1,"180,000 cbm","Samsung HI, S. Korea",Danish (Celsius Shipping),$ 250.0m,,,intermodal_2022_W48_Intermodal-Report-Week-48-2022.pdf
-2022-12-06,48,,LNG,2,"175,000 cbm","Dalian Shipbuilding, China",Chinese (CMES),$ 235.0m,options declared,,intermodal_2022_W48_Intermodal-Report-Week-48-2022.pdf
-2022-12-06,48,,VLEC,2,"99,000 cbm","Hyundai HI, Korea",Japanese (Iino Lines),$ 98.5m,against long term T/c to Ineos,,intermodal_2022_W48_Intermodal-Report-Week-48-2022.pdf
-2022-12-06,48,,PCTC,2+4,"9,000",ceu,"CMHI, China",Chinese (CMES),$ 99.5m,"LOI stage, methanol dual fuelled",intermodal_2022_W48_Intermodal-Report-Week-48-2022.pdf
+2022-11-29,47,,PCTC,6,"7,000 ceu","Xiamen , China",2025-2026,Chinese (COSCO Shipping),excess $ 85.0m,LNG dual fuel,intermodal_2022_W47_Intermodal-Report-Week-47-2022.pdf
+2022-12-06,48,,Tanker,4,"158,000 dwt","New Times, China",2024-2025,Greek (TMS Cardiff),$ 70.0m,,intermodal_2022_W48_Intermodal-Report-Week-48-2022.pdf
+2022-12-06,48,,Tanker,2,"115,800 dwt","New Times, China",2025,Greek (Capital Ship Management),undisclosed,,intermodal_2022_W48_Intermodal-Report-Week-48-2022.pdf
+2022-12-06,48,,Tanker,2,"115,000 dwt","SWS, China",2025,Greek (OceanGold),undisclosed,,intermodal_2022_W48_Intermodal-Report-Week-48-2022.pdf
+2022-12-06,48,,Tanker,2+2,"50,000 dwt","Jiangsu New Yangzijiang, China",2025,Greek (Evalend),$ 40.0m,,intermodal_2022_W48_Intermodal-Report-Week-48-2022.pdf
+2022-12-06,48,,Tanker,2+4,"25,900 dwt","CMJL Yangzhou, China",2024,Chinese (Shanghai Junzheng Shipping),$ 45.0m,"st-st, TIER III, EEDI Phase 2",intermodal_2022_W48_Intermodal-Report-Week-48-2022.pdf
+2022-12-06,48,,Tanker,2+2,"15,000 dwt","CMJL Yangzhou, China",2025,Danish (Terntank),undisclosed,wind and methanol propulsion,intermodal_2022_W48_Intermodal-Report-Week-48-2022.pdf
+2022-12-06,48,,Bulker,1,"63,300 dwt","Tsuneishi Zhoushan, China",2025,Greek (Meadway Shipping & Trading),rgn $ 38.0m,eco,intermodal_2022_W48_Intermodal-Report-Week-48-2022.pdf
+2022-12-06,48,,Bulker,2,"40,000 dwt","Jiangsu New Yangzijiang, China",2025,Greek (Evalend),low $ 30.0m,green dolphin type,intermodal_2022_W48_Intermodal-Report-Week-48-2022.pdf
+2022-12-06,48,,LNG,1,"180,000 cbm","Samsung HI, S. Korea",2026,Danish (Celsius Shipping),$ 250.0m,,intermodal_2022_W48_Intermodal-Report-Week-48-2022.pdf
+2022-12-06,48,,LNG,2,"175,000 cbm","Dalian Shipbuilding, China",2026-2027,Chinese (CMES),$ 235.0m,options declared,intermodal_2022_W48_Intermodal-Report-Week-48-2022.pdf
+2022-12-06,48,,VLEC,2,"99,000 cbm","Hyundai HI, Korea",2025-2026,Japanese (Iino Lines),$ 98.5m,against long term T/c to Ineos,intermodal_2022_W48_Intermodal-Report-Week-48-2022.pdf
+2022-12-06,48,,PCTC,2+4,"9,000 ceu","CMHI, China",2025,Chinese (CMES),$ 99.5m,"LOI stage, methanol dual fuelled",intermodal_2022_W48_Intermodal-Report-Week-48-2022.pdf
 2022-12-20,50,,Tanker,2,"50,000 dwt","Zhoushan Changhong, China",2024-2025,Chinese (Pro Tanker Investment),undisclosed,,intermodal_2022_W50_Intermodal-Report-Week-50-2022.pdf
 2022-12-20,50,,Bulker,2,"210,000 dwt","COSCO HI Yangzhou, China",2025,Chinese (Zhejiang Xiehai),$ 64.0m,,intermodal_2022_W50_Intermodal-Report-Week-50-2022.pdf
 2022-12-20,50,,Bulker,2,"82,500 dwt","COSCO HI Yangzhou, China",2025,Chinese (Zhejiang Xiehai),$ 32.5m,,intermodal_2022_W50_Intermodal-Report-Week-50-2022.pdf
@@ -343,7 +343,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2022-12-27,51,,Bulker,1,"40,000 dwt","Hakodate, Japan",2025,Japanese (Hisafuku Kisen),$ 32.3m,,intermodal_2022_W51_Intermodal-Report-Week-51-2022.pdf
 2022-12-27,51,,Bulker,1,"40,000 dwt","Hakodate, Japan",2025,Japanese (Kasuga Shipping),$ 32.3m,,intermodal_2022_W51_Intermodal-Report-Week-51-2022.pdf
 2022-12-27,51,,LNG,2+2,"174,000 cbm","Hyundai Samho, S. Korea",2026,Omanis (Asyad Shipping),$ 254.5m,,intermodal_2022_W51_Intermodal-Report-Week-51-2022.pdf
-2022-12-27,51,,PCTC,2,"3,000",ceu,"Mitsubishi HI, Japan",2025,Japanese (Toyofuji Shipping),undisclosed,intermodal_2022_W51_Intermodal-Report-Week-51-2022.pdf
+2022-12-27,51,,PCTC,2,"3,000 ceu","Mitsubishi HI, Japan",2025,Japanese (Toyofuji Shipping),undisclosed,LNG fuelled,intermodal_2022_W51_Intermodal-Report-Week-51-2022.pdf
 2023-01-10,1,,Bulker,2,"211,500 dwt","Japan Marine United, Japanese",2025,Singapore (Eastern Pacific),around $75.0m,"scrubber fitted, BWTS fitted",intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf
 2023-01-10,1,,Bulker,2,"63,500 dwt","New Dayang, China",2025,UK Based (Ocean Agencies),around $31.0-$32.0m,"EEDI phase 3, Crown 63-Plus design",intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf
 2023-01-10,1,,Bulker,2,"63,500 dwt","New Dayang, China",2025,UK Based (Marine Capital),around $31.0-$32.0m,"EEDI phase 3, Crown 63-Plus design",intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf
@@ -351,7 +351,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2023-01-10,1,,Container,4,"5,920 teu","Imabari, Japan",2024,Singaporean (Eastern Pacific),undisclosed,"conventional fuelled, BWTS fitted",intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf
 2023-01-10,1,,Container,2,"1,900 teu",undisclosed,2024/2025,Singaporean (Samudera Shipping),$ 33.0m,,intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf
 2023-01-10,1,,LNG,4+4,"180,000 cbm","CMHI Jiangsu, China",2026,Danish (Celsius Shipping),$ 234.0m,,intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf
-2023-01-10,1,,FLNG,1,"2,4",mtpa,"Wison Heavy Industry, Chinese",undisclosed,Italian (Eni),undisclosed,intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf
+2023-01-10,1,,FLNG,1,"2,4 mtpa","Wison Heavy Industry, Chinese",undisclosed,Italian (Eni),undisclosed,"180,000 cu m of LNG and 45,000 cu m of LPG",intermodal_2023_W01_Intermodal-Report-Week-01-2023.pdf
 2023-01-17,2,,Bulker,2,"81,600 dwt","Tsuneishi Group, Japan",2025-2026,Japanese (Mitsui & Co),undisclosed,"methanol duel-fuelled, against T/C to Cargill",intermodal_2023_W02_Intermodal-Report-Week-02-2023.pdf
 2023-01-17,2,,Bulker,4,"63,500 dwt","Nantong Xiangyu, China",2025,Japanase (Doun Kisen),$ 31.0m,IMO III NOx standards,intermodal_2023_W02_Intermodal-Report-Week-02-2023.pdf
 2023-01-17,2,,Bulker,2,"40,000 dwt",undisclosed,2025,Japanese (Inui Global Logistics),undisclosed,,intermodal_2023_W02_Intermodal-Report-Week-02-2023.pdf
@@ -366,7 +366,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2023-01-24,3,,Container,10,"11,400 teu","Zhoushan Changhong, China",2025-2026,Swiss Based (MSC),$ 120.0m,"LNG dual-fuelled, type-B LNG tanks",intermodal_2023_W03_Intermodal-Report-Week-03-2023.pdf
 2023-01-24,3,,LNG,3,"200,000 cbm","KSOE, S.Korea",2026,Greek (Dynagas),$ 261.3m,option declared,intermodal_2023_W03_Intermodal-Report-Week-03-2023.pdf
 2023-01-24,3,,LNG,2,"174,000 cbm","Hyundai Samho, S. Korea",2026,Greek (Capital Gas),$ 250.0m,,intermodal_2023_W03_Intermodal-Report-Week-03-2023.pdf
-2023-01-24,3,,VLGC,2,"88,000",cu.m.,"HHI (Ulsan), Korea",undisclosed,Greek (Evalend),undisclosed,intermodal_2023_W03_Intermodal-Report-Week-03-2023.pdf
+2023-01-24,3,,VLGC,2,"88,000 cu.m.","HHI (Ulsan), Korea",undisclosed,Greek (Evalend),undisclosed,option declared,intermodal_2023_W03_Intermodal-Report-Week-03-2023.pdf
 2023-01-31,4,,Tanker,1+1,"158,000 dwt","DH Shipbuilding, China",2025,Greek (Enterprise Shipping and Trading),$ 77.0m,,intermodal_2023_W04_Intermodal-Report-Week-04-2023.pdf
 2023-01-31,4,,Tanker,1,"50,000 dwt","Yamic, China",2025-2026,Singapore based (Jaldhi Overseas),undisclosed,,intermodal_2023_W04_Intermodal-Report-Week-04-2023.pdf
 2023-01-31,4,,VLGC,1,"86,700 cbm","Kawasaki, Japan",2026,Japanese (NYK Line),undisclosed,"LPG/LAG carrier, LPG fuelled, Tier III, EEDI phase 3, ammonia Ready",intermodal_2023_W04_Intermodal-Report-Week-04-2023.pdf
@@ -381,17 +381,17 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2023-02-14,6,,Tanker,3,"158,000 dwt","Daehan, S. Korea",2025,Swiss (Advantage Tankers),$ 79.0m,scrubber fitted and dual duel ready,intermodal_2023_W06_Intermodal-Report-Week-06-2023.pdf
 2023-02-14,6,,Tanker,4,"80,000 dwt","Haidong, China",2025-2026,UAE (Emepco FZE),undisclosed,IMO II/III,intermodal_2023_W06_Intermodal-Report-Week-06-2023.pdf
 2023-02-14,6,,Bulker,2,"40,500 dwt","Nantong Xiangyu, China",2024-2025,Japanese (Doun Kisen),undisclosed,,intermodal_2023_W06_Intermodal-Report-Week-06-2023.pdf
-2023-02-21,7,,Tanker,2+1,"115,000 dwt","SWS, China",Greek (Thenamaris),$ 63.5m,scrubber fitted,,intermodal_2023_W07_Intermodal-Report-Week-07-2023.pdf
-2023-02-21,7,,Tanker,2,"115,000 dwt","SWS, China",Swiss-based (Vitol),$ 63.5m,scrubber fitted,,intermodal_2023_W07_Intermodal-Report-Week-07-2023.pdf
-2023-02-21,7,,Tanker,2,"50,000 dwt","Jiangsu New Yangzijiang, China",Greek (Evalend),$ 40.0m,,,intermodal_2023_W07_Intermodal-Report-Week-07-2023.pdf
-2023-02-21,7,,Bulker,3,"82,500 dwt","Oshima, Japan",Greek (Sea Pioneer),$ 38.0m,,,intermodal_2023_W07_Intermodal-Report-Week-07-2023.pdf
+2023-02-21,7,,Tanker,2+1,"115,000 dwt","SWS, China",2025,Greek (Thenamaris),$ 63.5m,scrubber fitted,intermodal_2023_W07_Intermodal-Report-Week-07-2023.pdf
+2023-02-21,7,,Tanker,2,"115,000 dwt","SWS, China",2025,Swiss-based (Vitol),$ 63.5m,scrubber fitted,intermodal_2023_W07_Intermodal-Report-Week-07-2023.pdf
+2023-02-21,7,,Tanker,2,"50,000 dwt","Jiangsu New Yangzijiang, China",2025,Greek (Evalend),$ 40.0m,,intermodal_2023_W07_Intermodal-Report-Week-07-2023.pdf
+2023-02-21,7,,Bulker,3,"82,500 dwt","Oshima, Japan",2025,Greek (Sea Pioneer),$ 38.0m,,intermodal_2023_W07_Intermodal-Report-Week-07-2023.pdf
 2023-02-21,7,,Bulker,1,"67,500 dwt","Tsuneishi, Japan",undisclosed,undisclosed,methanol fuelled,,intermodal_2023_W07_Intermodal-Report-Week-07-2023.pdf
-2023-02-21,7,,Bulker,2,"40,000 dwt","Jiangsu New Yangzijiang, China",Greek (Evalend),$ 29.5m,,,intermodal_2023_W07_Intermodal-Report-Week-07-2023.pdf
-2023-02-21,7,,LNG,1,"174,000 cbm","DSME, S. Korea",Japanese (Mitsui OSK Lines),$ 249.0m,,,intermodal_2023_W07_Intermodal-Report-Week-07-2023.pdf
-2023-02-21,7,,VLGC,2,"88,000 cbm","KSOE, S.Korea",Greek (Latsco),$98.8m,,,intermodal_2023_W07_Intermodal-Report-Week-07-2023.pdf
-2023-02-21,7,,Container,6,"16,000 teu","Jiangnan Shipyard, China",French (CMA CGM),$ 175.0m,methanol fuelled,,intermodal_2023_W07_Intermodal-Report-Week-07-2023.pdf
-2023-02-21,7,,Container,7,"9,000 teu","Hyundai Samho, S. Korea",South Korean (HMM),$123.5m,methanol-fuelled,,intermodal_2023_W07_Intermodal-Report-Week-07-2023.pdf
-2023-02-21,7,,Container,2,"9,000 teu",HJ Shipbuilding & Construction,South Korean (HMM),$123.5m,methanol-fuelled,,intermodal_2023_W07_Intermodal-Report-Week-07-2023.pdf
+2023-02-21,7,,Bulker,2,"40,000 dwt","Jiangsu New Yangzijiang, China",2025,Greek (Evalend),$ 29.5m,,intermodal_2023_W07_Intermodal-Report-Week-07-2023.pdf
+2023-02-21,7,,LNG,1,"174,000 cbm","DSME, S. Korea",2027,Japanese (Mitsui OSK Lines),$ 249.0m,,intermodal_2023_W07_Intermodal-Report-Week-07-2023.pdf
+2023-02-21,7,,VLGC,2,"88,000 cbm","KSOE, S.Korea",2025,Greek (Latsco),$98.8m,,intermodal_2023_W07_Intermodal-Report-Week-07-2023.pdf
+2023-02-21,7,,Container,6,"16,000 teu","Jiangnan Shipyard, China",2025-2026,French (CMA CGM),$ 175.0m,methanol fuelled,intermodal_2023_W07_Intermodal-Report-Week-07-2023.pdf
+2023-02-21,7,,Container,7,"9,000 teu","Hyundai Samho, S. Korea",2025,South Korean (HMM),$123.5m,methanol-fuelled,intermodal_2023_W07_Intermodal-Report-Week-07-2023.pdf
+2023-02-21,7,,Container,2,"9,000 teu",HJ Shipbuilding & Construction,2025,South Korean (HMM),$123.5m,methanol-fuelled,intermodal_2023_W07_Intermodal-Report-Week-07-2023.pdf
 2023-02-28,8,,Tanker,4,"50,000 dwt","Minaminippon Shipbuilding, Japan",2025,Japanese (Shoei Kisen Kaisha),undisclosed,,intermodal_2023_W08_Intermodal-Report-Week-08-2023.pdf
 2023-02-28,8,,Bulker,3,"81,800 dwt","Oshima, Japan",2025,Greek (Sea Pioneer),$ 38.0m,EEDI phase 3,intermodal_2023_W08_Intermodal-Report-Week-08-2023.pdf
 2023-02-28,8,,VLGC,2,"88,000 cbm","Hyundai Samho, S. Korea",2025-2026,Abu Dhabi-based (ABGC DMCC),$ 98.5m,,intermodal_2023_W08_Intermodal-Report-Week-08-2023.pdf
@@ -410,7 +410,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2023-03-14,10,,Bulker,4,"63,000 dwt","SUMEC Dayang, China",2025,UAE (Emarat Maritime),$ 31.5m,,intermodal_2023_W10_Intermodal-Report-Week-10-2023.pdf
 2023-03-14,10,,Bulker,3,"41,000 dwt","New Dayang, China",2024-2025,Greek (Byzantine Maritime),$ 30.0m,,intermodal_2023_W10_Intermodal-Report-Week-10-2023.pdf
 2023-03-14,10,,LPG,2,"45,000 cbm","Hyundai Mipo, S. Korea",2025,Belgian (Exmar),$ 73.4m,Ammonia ready,intermodal_2023_W10_Intermodal-Report-Week-10-2023.pdf
-2023-03-14,10,,PCTC,3,"7,000",ceu,"GSI, China",2026,Chinese (Guangzhou Ocean Car Carrier),$ 90.0m,intermodal_2023_W10_Intermodal-Report-Week-10-2023.pdf
+2023-03-14,10,,PCTC,3,"7,000 ceu","GSI, China",2026,Chinese (Guangzhou Ocean Car Carrier),$ 90.0m,,intermodal_2023_W10_Intermodal-Report-Week-10-2023.pdf
 2023-03-21,11,,Tanker,2,"158,000 dwt","Hyundai Samho, S. Korea",2025,Greek (Evalend),$ 84.0m,scrubber fitted,intermodal_2023_W11_Intermodal-Report-Week-11-2023.pdf
 2023-03-21,11,,Tanker,2,"115,000 dwt","New Times, China",2026,Greek (Cardiff Marine),$ 63.0m,,intermodal_2023_W11_Intermodal-Report-Week-11-2023.pdf
 2023-03-21,11,,Bulker,2,"63,000 dwt","COSCO Zhoushan, China",2025,Greek (Century Bulk Carriers),$ 32.0m,,intermodal_2023_W11_Intermodal-Report-Week-11-2023.pdf
@@ -424,14 +424,14 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2023-03-28,12,,Bulker,2,"82,000 dwt","Chengxi, China",2026,Greek (Neda Maritime),$ 33.5m,LOI Stage,intermodal_2023_W12_Intermodal-Report-Week-12-2023.pdf
 2023-03-28,12,,VLGC,1,"86,700 cbm","Kawasaki, Japan",2026,Singaporean (Kumiai Navigation),$ 95.0m,LPG/NH3 / against 7yr TC to Altagas,intermodal_2023_W12_Intermodal-Report-Week-12-2023.pdf
 2023-03-28,12,,Container,2+2,730 teu,"Cochin Shipyard, India",2025,Netherland based ( Samskip HF),undisclosed,"Hydrogen, Fuel Cell & Battery",intermodal_2023_W12_Intermodal-Report-Week-12-2023.pdf
-2023-03-28,12,,PCTC,3,"8,600",ceu,"GSI, China",2026,South Korean (HMM),$ 100.0m+,intermodal_2023_W12_Intermodal-Report-Week-12-2023.pdf
+2023-03-28,12,,PCTC,3,"8,600 ceu","GSI, China",2026,South Korean (HMM),$ 100.0m+,LNG-fuelled/ more than 10yr TC to Glovis,intermodal_2023_W12_Intermodal-Report-Week-12-2023.pdf
 2023-04-04,13,,Tanker,4,"50,000 dwt","Hyundai Mipo, S. Korea",2025,Japanese (Nissen Kaiun),$ 46.3m,,intermodal_2023_W13_Intermodal-Report-Week-13-2023.pdf
 2023-04-04,13,,Tanker,4+4,"18,500 dwt","Fujian Mawei, China",2025,U.K based (Union Maritime),excess $ 30.0m,Methanon ready,intermodal_2023_W13_Intermodal-Report-Week-13-2023.pdf
 2023-04-04,13,,Tanker,2,"9,200 dwt","Wuchang SB Group, China",2024,Chinese (SC Shipping),undisclosed,StSt,intermodal_2023_W13_Intermodal-Report-Week-13-2023.pdf
 2023-04-04,13,,Tanker,6,"6,500 dwt","CMHI Jinling, China",2025,Singapore Based (Consort Bunkers),undisclosed,methanol fueled,intermodal_2023_W13_Intermodal-Report-Week-13-2023.pdf
-2023-04-04,13,,Bulker,10,"85,000 dwt","Chengxi, China",2025,,$ 50.0m,,intermodal_2023_W13_Intermodal-Report-Week-13-2023.pdf
+2023-04-04,13,,Bulker,10,"85,000 dwt","Chengxi, China",2025,Chinese (COSCO Shipping),$ 50.0m,wood-pulp carrier,intermodal_2023_W13_Intermodal-Report-Week-13-2023.pdf
 2023-04-04,13,,Bulker,5,"85,000 dwt","COSCO Dalian, China",2025,Chinese (COSCO Shipping),$ 50.0m,wood-pulp carrier,intermodal_2023_W13_Intermodal-Report-Week-13-2023.pdf
-2023-04-04,13,,Bulker,5,"85,000 dwt","Shanhaiguan, China",2025,,$ 50.0m,,intermodal_2023_W13_Intermodal-Report-Week-13-2023.pdf
+2023-04-04,13,,Bulker,5,"85,000 dwt","Shanhaiguan, China",2025,Chinese (COSCO Shipping),$ 50.0m,wood-pulp carrier,intermodal_2023_W13_Intermodal-Report-Week-13-2023.pdf
 2023-04-04,13,,Bulker,2,"40,000 dwt","Nihon, Japan",2026,Taiwanese (Wisdom Marine Group),$ 33.0m,conventional fuel,intermodal_2023_W13_Intermodal-Report-Week-13-2023.pdf
 2023-04-04,13,,LNG,1,"175,000 cbm","Jiangnan, China",2027,Chinese (TPSH Leasing),$ 235.0m,against T/C to Shandong Marine Energy,intermodal_2023_W13_Intermodal-Report-Week-13-2023.pdf
 2023-04-04,13,,LNG,2,"174,000 cbm","Samsung HI, S. Korea",2026,Japanese (K Line),$ 258.5m,,intermodal_2023_W13_Intermodal-Report-Week-13-2023.pdf
@@ -500,14 +500,14 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2023-06-13,23,,Tanker,2+2,"115,000 dwt","GSI, China",2026,Singaporean (Eastern Pacific),$ 73.5m,"LNG dual-fuelled, LR2",intermodal_2023_W23_Intermodal-Report-Week-23-2023.pdf
 2023-06-13,23,,LPG /Ammonia,2,"40,000 cbm","Nantong CIMC, China",2025-2026,Bermuda registered (Avance Gas),$ 61.5m,"LPG dual-fuelled, shaft generators",intermodal_2023_W23_Intermodal-Report-Week-23-2023.pdf
 2023-06-13,23,,Container,2+2,"1,450 teu","Nantong CIMC, China",undisclosed,US based (Seaboard Marine),$ 35.0m,LNG dual-fuelled,intermodal_2023_W23_Intermodal-Report-Week-23-2023.pdf
-2023-06-20,24,,Tanker,2,"157,000 dwt","New Times, China",Greek (Polembros Shipping),undisclosed,"LNG Ready, Scrubber-fitted",,intermodal_2023_W24_Intermodal-Report-Week-24-2023.pdf
-2023-06-20,24,,Tanker,2,"156,000 dwt","New Times, China",Greek (Capital),$ 87.0m,LNG dual-fuelled,,intermodal_2023_W24_Intermodal-Report-Week-24-2023.pdf
-2023-06-20,24,,Tanker,2+2,"50,000 dwt","GSI, China",Danish (Hafnia Tankers),undisclosed,methanol dual-fuelled,,intermodal_2023_W24_Intermodal-Report-Week-24-2023.pdf
-2023-06-20,24,,Bulker,2,"82,000 dwt","Chengxi, China",Chinese (Guangdong Yudean),$ 35.5m,,,intermodal_2023_W24_Intermodal-Report-Week-24-2023.pdf
-2023-06-20,24,,Bulker,1,"42,200 dwt","Tsuneishi Zhoushan, China",Taiwanese (Wisdom Marine Group),$ 34.0m,,,intermodal_2023_W24_Intermodal-Report-Week-24-2023.pdf
-2023-06-20,24,,Bulker,4,"12,500 dwt","Nantong CIMC, China",Chinese (China Changhang),undisclosed,LNG dual-fuelled,,intermodal_2023_W24_Intermodal-Report-Week-24-2023.pdf
-2023-06-20,24,,LNG,2+2,"174,000 cbm","Samsung HI, S. Korea",US Based (Chevron),$ 254.5m,"air lubrication, shaft generator",,intermodal_2023_W24_Intermodal-Report-Week-24-2023.pdf
-2023-06-20,24,,PCTC,4+2,"7,500 teu","CMHI, China",Swiss based (Sallaum Lines),$ 90.0m,,,intermodal_2023_W24_Intermodal-Report-Week-24-2023.pdf
+2023-06-20,24,,Tanker,2,"157,000 dwt","New Times, China",2025,Greek (Polembros Shipping),undisclosed,"LNG Ready, Scrubber-fitted",intermodal_2023_W24_Intermodal-Report-Week-24-2023.pdf
+2023-06-20,24,,Tanker,2,"156,000 dwt","New Times, China",2027,Greek (Capital),$ 87.0m,LNG dual-fuelled,intermodal_2023_W24_Intermodal-Report-Week-24-2023.pdf
+2023-06-20,24,,Tanker,2+2,"50,000 dwt","GSI, China",2026,Danish (Hafnia Tankers),undisclosed,methanol dual-fuelled,intermodal_2023_W24_Intermodal-Report-Week-24-2023.pdf
+2023-06-20,24,,Bulker,2,"82,000 dwt","Chengxi, China",2027,Chinese (Guangdong Yudean),$ 35.5m,,intermodal_2023_W24_Intermodal-Report-Week-24-2023.pdf
+2023-06-20,24,,Bulker,1,"42,200 dwt","Tsuneishi Zhoushan, China",2026,Taiwanese (Wisdom Marine Group),$ 34.0m,,intermodal_2023_W24_Intermodal-Report-Week-24-2023.pdf
+2023-06-20,24,,Bulker,4,"12,500 dwt","Nantong CIMC, China",2024-2025,Chinese (China Changhang),undisclosed,LNG dual-fuelled,intermodal_2023_W24_Intermodal-Report-Week-24-2023.pdf
+2023-06-20,24,,LNG,2+2,"174,000 cbm","Samsung HI, S. Korea",2027-2028,US Based (Chevron),$ 254.5m,"air lubrication, shaft generator",intermodal_2023_W24_Intermodal-Report-Week-24-2023.pdf
+2023-06-20,24,,PCTC,4+2,"7,500 teu","CMHI, China",2026,Swiss based (Sallaum Lines),$ 90.0m,,intermodal_2023_W24_Intermodal-Report-Week-24-2023.pdf
 2023-06-27,25,,Tanker,2,"22,500 dwt","Wuhu Shipyard, China",2025,Swedish (Donsotank Rederi),undisclosed,LNG dual-fuelled,intermodal_2023_W25_Intermodal-Report-Week-25-2023.pdf
 2023-06-27,25,,Bulker,4,"180,000 dwt","Hengli HI Dalian, China",2026,German (Reederei H. Vogemann),$ 63.5m,,intermodal_2023_W25_Intermodal-Report-Week-25-2023.pdf
 2023-06-27,25,,Bulker,4,"82,000 dwt","Hengli HI Dalian, China",2026,German (Reederei H. Vogemann),$ 34.5m,,intermodal_2023_W25_Intermodal-Report-Week-25-2023.pdf
@@ -526,7 +526,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2023-07-11,27,,Tanker,4,"75,000 dwt","Yangzijiang, China",2025-2026,Greek (Evalend),excess $50.0m,conventionally fuelled,intermodal_2023_W27_Intermodal-Report-Week-27-2023.pdf
 2023-07-11,27,,VLGC,3,"88,000 cbm","Hyundai Hi, South Korea",2026,Norwegian (Solvang),$ 106.5m,scrubber fitted,intermodal_2023_W27_Intermodal-Report-Week-27-2023.pdf
 2023-07-11,27,,LPG,2+1,"40,000 cbm","Hyundai Mipo, S. Korea",2025-2026,Nigerian (West Africa LPG),$ 70.5m,,intermodal_2023_W27_Intermodal-Report-Week-27-2023.pdf
-2023-07-11,27,,PCTC,4,"7,700",ceu,"Hyundai Mipo, S. Korea",2026-2027,UK based (Ray Car Carriers),$ 129.5m,intermodal_2023_W27_Intermodal-Report-Week-27-2023.pdf
+2023-07-11,27,,PCTC,4,"7,700 ceu","Hyundai Mipo, S. Korea",2026-2027,UK based (Ray Car Carriers),$ 129.5m,LNG fuelled,intermodal_2023_W27_Intermodal-Report-Week-27-2023.pdf
 2023-07-18,28,,Tanker,4,"320,000 dwt","New Times, China",2026-2027,Greek (Dynacom),$ 115.0m,scrubber fitted,intermodal_2023_W28_Intermodal-Report-Week-28-2023.pdf
 2023-07-18,28,,Tanker,2,"158,000 dwt","Nihon, Japan",17/07/05,Greek (Alberta Shipmanagement),undisclosed,scrubber fitted,intermodal_2023_W28_Intermodal-Report-Week-28-2023.pdf
 2023-07-18,28,,Tanker,2+2,"158,000 dwt","DH Shipbuilding, South Korea",2025-2026,Greek (Atlas Maritime),$ 84.0m,scrubber fitted,intermodal_2023_W28_Intermodal-Report-Week-28-2023.pdf
@@ -567,7 +567,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2023-08-22,33,,LPG /Ammonia,2,"40,000 cbm","Nantong CIMC, China",2026,Bermuda registered (Avance Gas),$ 61.5m,"options exercised, LPG dual-fuelled, shaft generators",intermodal_2023_W33_Intermodal-Report-Week-33-2023.pdf
 2023-08-29,34,,Tanker,2,"50,000 dwt","GSI, China",2026,US based (JP Morgan),$ 50.0m,"methanol carriers, dual fuelled, against TC with TotalEnergies",intermodal_2023_W34_Intermodal-Report-Week-34-2023.pdf
 2023-08-29,34,,Bulker,4,"82,000 dwt","Jiangsu Hantong, China",2026,Hong Kong based (Cido Shipping),$ 35.0m,,intermodal_2023_W34_Intermodal-Report-Week-34-2023.pdf
-2023-08-29,34,,Bulker,4,"64,000",,"Jiangsu Hantong, China",2026,Hong Kong based (Cido Shipping),$ 33.0m,intermodal_2023_W34_Intermodal-Report-Week-34-2023.pdf
+2023-08-29,34,,Bulker,4,"64,000","Jiangsu Hantong, China",2026,Hong Kong based (Cido Shipping),$ 33.0m,,intermodal_2023_W34_Intermodal-Report-Week-34-2023.pdf
 2023-08-29,34,,Bulker,4,"82,000 dwt","New Dayang, China",2026,Hong Kong based (Cido Shipping),undisclosed,,intermodal_2023_W34_Intermodal-Report-Week-34-2023.pdf
 2023-08-29,34,,Bulker,2,"64,000 dwt","Imabari, Japan",2026,Greek (Globus Maritime),$37.75m,,intermodal_2023_W34_Intermodal-Report-Week-34-2023.pdf
 2023-08-29,34,,VLGC,2,"88,000 cbm","Hyundai Hi, South Korea",2026,Norwegian (Solvang),$ 107.4m,"options declared, scrubber fitted",intermodal_2023_W34_Intermodal-Report-Week-34-2023.pdf
@@ -583,14 +583,14 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2023-09-12,36,,Tanker,2+2,"15,000 dwt","CMHI Jinling, China",2026,Swedish (Sirius Shipping),undisclosed,"Methanol Ready, battery powered",intermodal_2023_W36_Intermodal-Report-Week-36-2023.pdf
 2023-09-12,36,,Bulker,2,"325,000 dwt","Qindao Beihai, China",2026,Chinese (Winning Shipping),$ 108.0m,"option to upgrade to methanol dual fuel, EEDI phase 3, Bauxite Carrier",intermodal_2023_W36_Intermodal-Report-Week-36-2023.pdf
 2023-09-12,36,,Bulker,4,"82,000 dwt","Qingdao Yangfan, China",2026,Greek (Sea Traders),$ 34.0m,"NOx-Tier III, EEDI phase 3, Scrubber Fitted",intermodal_2023_W36_Intermodal-Report-Week-36-2023.pdf
-2023-09-12,36,,PCC,2,"4,200",ceu,"Mawei, China",2026,Greek (Neptune Shipping),undisclosed,intermodal_2023_W36_Intermodal-Report-Week-36-2023.pdf
+2023-09-12,36,,PCC,2,"4,200 ceu","Mawei, China",2026,Greek (Neptune Shipping),undisclosed,LNG capable,intermodal_2023_W36_Intermodal-Report-Week-36-2023.pdf
 2023-09-19,37,,Tanker,2,"115,000 dwt","SWS, China",2026,UK based (Union Maritime),$ 66.0m,scrubber-fitted,intermodal_2023_W37_Intermodal-Report-Week-37-2023.pdf
 2023-09-19,37,,Tanker,1,"42,300 dwt","Oshima, Japan",2026,Greek (Meadway Shipping & Trading),undisclosed,,intermodal_2023_W37_Intermodal-Report-Week-37-2023.pdf
 2023-09-19,37,,Tanker,2,"17,999 dwt","Jinling, China",Q2-Q3 2026,FureBear (Furetank Rederi & Algoma Central),undisclosed,"Ice 1A, LNG dual-fuel",intermodal_2023_W37_Intermodal-Report-Week-37-2023.pdf
 2023-09-19,37,,Bulkers,2,"210,000 dwt","Qingdao Beihai, China",2025,Belgian (CMB SA),undisclosed,"ammonia-fuelled, options exercised",intermodal_2023_W37_Intermodal-Report-Week-37-2023.pdf
 2023-09-19,37,,LPG,4,"40,000 cbm","Jiangsu Yangzijiang, China",2026-2027,Japanese (Lepta Shipping),$ 67.0m,"LPG dual fuelled, against charters with Exmar",intermodal_2023_W37_Intermodal-Report-Week-37-2023.pdf
 2023-09-19,37,,Gas Carrier,1,"7,500 cbm","Kyokuyo, Japan",2025,Greek (Erasmus Shipinvest),undisclosed,,intermodal_2023_W37_Intermodal-Report-Week-37-2023.pdf
-2023-09-19,37,,RoRo,2,"7,000",ceu,"Nihon, Japan",2026,Japanese (Mitsui OSK Lines),undisclosed,intermodal_2023_W37_Intermodal-Report-Week-37-2023.pdf
+2023-09-19,37,,RoRo,2,"7,000 ceu","Nihon, Japan",2026,Japanese (Mitsui OSK Lines),undisclosed,LNG dual-fuel,intermodal_2023_W37_Intermodal-Report-Week-37-2023.pdf
 2023-09-19,37,,Container,2,"1,800 teu","Huanghai Shipbuilding, China",2025,Belgian (Seatrade),undisclosed,"high reefer capacity, options exercised",intermodal_2023_W37_Intermodal-Report-Week-37-2023.pdf
 2023-09-26,38,,Bulker,1,"66,000 dwt","Tsuneishi, Japan",2027,Japanese (Kambara Kisen),undisclosed,"methanol dual-fuelled, TC to MOL",intermodal_2023_W38_Intermodal-Report-Week-38-2023.pdf
 2023-09-26,38,,Bulker,3,"64,000 dwt","Oshima SB, Japan",2025,Greek (Latsco),undisclosed,,intermodal_2023_W38_Intermodal-Report-Week-38-2023.pdf
@@ -605,7 +605,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2023-10-03,39,,Bulker,10,"59,990 dwt","Taizhou Haibin, China",2025,Chinese (Zhejiang Jinpu),undisclosed,domestic coastal trade,intermodal_2023_W39_Intermodal-Report-Week-39-2023.pdf
 2023-10-03,39,,Container,8,"9,200 teu","SWS, China",2026-2027,French (CMA CGM),$ 126.0m,methanol-fueled,intermodal_2023_W39_Intermodal-Report-Week-39-2023.pdf
 2023-10-03,39,,General Cargo,8,"7,000 dwt","Huanghai, China",2026-2027,Norwegian (Skarv Shipping),undisclosed,,intermodal_2023_W39_Intermodal-Report-Week-39-2023.pdf
-2023-10-03,39,,PCTC,1,"7,000",ceu,"Yantai CIMC Raffles, China",2026,Greek (Atlas Maritime),$ 80.0m,intermodal_2023_W39_Intermodal-Report-Week-39-2023.pdf
+2023-10-03,39,,PCTC,1,"7,000 ceu","Yantai CIMC Raffles, China",2026,Greek (Atlas Maritime),$ 80.0m,options declared,intermodal_2023_W39_Intermodal-Report-Week-39-2023.pdf
 2023-10-10,40,,Tanker,4,"18,500 dwt","Wuchang SB Group, China",undisclosed,Greek (Athenian Sea Carriers),$ 30.0m,"options exercised, NOx-Tier III, EEDI phase 3, LNG & methanol ready",intermodal_2023_W40_Intermodal-Report-Week-40-2023.pdf
 2023-10-10,40,,Bulker,1,"82,000 dwt","Oshima, Japan",2025,Greek (Alassia Newships Management),undisclosed,"Old deal, IMO NOx Tier III, EEDI phase 3",intermodal_2023_W40_Intermodal-Report-Week-40-2023.pdf
 2023-10-10,40,,Bulker,2,"81,200 dwt",undisclosed,2026-2027,Greek (Safe Bulkers),undisclosed,"methanol fuelled, Tier III, EEDI phase 3",intermodal_2023_W40_Intermodal-Report-Week-40-2023.pdf
@@ -618,7 +618,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2023-10-24,42,,Tanker,1,"319,000 dwt","Qingdao Beihai, China",2026,Belgian (Euronav),undisclosed,,intermodal_2023_W42_Intermodal-Report-Week-42-2023.pdf
 2023-10-24,42,,Tanker,2+2,"6,000 dwt","CMJL Yangzhou, China",2025,UK-Based (James Fisher),$ 28.0m,"LNG dual fuel, IMO type 2 chemical-handling standards",intermodal_2023_W42_Intermodal-Report-Week-42-2023.pdf
 2023-10-24,42,,Bulker,1,"63,000 dwt","SUMEC Dayang, China",2026,Turkish (Densay Shipping),$ 32.5m,,intermodal_2023_W42_Intermodal-Report-Week-42-2023.pdf
-2023-10-24,42,,CSOV,2+2,,,"Vard Holdings, Norway",2025,Greek (Diana Shipping),undisclosed,intermodal_2023_W42_Intermodal-Report-Week-42-2023.pdf
+2023-10-24,42,,CSOV,2+2,,"Vard Holdings, Norway",2025,Greek (Diana Shipping),undisclosed,,intermodal_2023_W42_Intermodal-Report-Week-42-2023.pdf
 2023-10-31,43,,Tanker,2,"50,000 dwt","GSI, China",2026,US based (JP Morgan),$ 50.0m,methanol dual fuelled,intermodal_2023_W43_Intermodal-Report-Week-43-2023.pdf
 2023-10-31,43,,LNG,2,"174,000 cbm","CMHI Jiangsu, China",2027,Danish (Celsius Shipping),undisclosed,,intermodal_2023_W43_Intermodal-Report-Week-43-2023.pdf
 2023-11-07,44,,Tanker,2+2,"158,000 dwt","Hyundai HI, S. Korea",2026,UK Based (Hayfin Capital Management),$ 85.5m,"scrubber fitted, methanol ready",intermodal_2023_W44_Intermodal-Report-Week-44-2023.pdf
@@ -629,7 +629,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2023-11-07,44,,Bulker,3,"9,400 dwt","Royal Bodewes, Netherlands",2021,Norwegian (Aasen Shipping),undisclosed,"hybrid, self discharger, methanol ready",intermodal_2023_W44_Intermodal-Report-Week-44-2023.pdf
 2023-11-07,44,,General Cargo,2+2,"8,500 dwt","Chowgule Group, India",2025-2026,German (Leonhardt & Blumberg),undisclosed,"wind-assisted propulsion, carbon capture",intermodal_2023_W44_Intermodal-Report-Week-44-2023.pdf
 2023-11-07,44,,General Cargo,2+2,"8,500 dwt","Chowgule Group, India",2025-2026,Dutch (Boomsma Shipping),undisclosed,"wind-assisted propulsion, carbon capture",intermodal_2023_W44_Intermodal-Report-Week-44-2023.pdf
-2023-11-07,44,,RoRo,2,"7,000",ceu,"Yantai CIMC Raffles, China",2025,Norwegian (Norwegian Car Carriers),undisclosed,intermodal_2023_W44_Intermodal-Report-Week-44-2023.pdf
+2023-11-07,44,,RoRo,2,"7,000 ceu","Yantai CIMC Raffles, China",2025,Norwegian (Norwegian Car Carriers),undisclosed,,intermodal_2023_W44_Intermodal-Report-Week-44-2023.pdf
 2023-11-14,45,,Tanker,2,"158,000 dwt","KSOE, S.Korea",2026,Greek (Arcadia Shipmanagement),$ 85.0m,scrubber-fitted,intermodal_2023_W45_Intermodal-Report-Week-45-2023.pdf
 2023-11-14,45,,Tanker,4,"50,000 dwt","Yangzijiang, China",2026-2027,Swiss Based (Global One Energy),$ 45.0m,,intermodal_2023_W45_Intermodal-Report-Week-45-2023.pdf
 2023-11-14,45,,Tanker,2+2,"13,000 dwt","Taizhou Wuzhou, China",2025,Chinese (Hongtong Shipping),undisclosed,"IMO III, StSt",intermodal_2023_W45_Intermodal-Report-Week-45-2023.pdf
@@ -656,7 +656,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2023-12-05,48,,Tanker,2,"115,000 dwt","New Times, China",-,Greek (Minerva),undisclosed,"LOI stage, LNG fuelled, LR2",intermodal_2023_W48_Intermodal-Report-Week-48-2023.pdf
 2023-12-05,48,,Tanker,4+2,"40,000 dwt","Xiamen, China",2026,German (German Tanker Shipping),$ 55.0m,"ice class, IMO II/III",intermodal_2023_W48_Intermodal-Report-Week-48-2023.pdf
 2023-12-05,48,,Bulker,2,"82,000 dwt","Nantong Xiangyu, China",2025,Japanese (Doun Kisen),$ 34.0m,,intermodal_2023_W48_Intermodal-Report-Week-48-2023.pdf
-2023-12-05,48,,Bulker,2,"63,500 dwt",,2025,,$ 32.5m,,intermodal_2023_W48_Intermodal-Report-Week-48-2023.pdf
+2023-12-05,48,,Bulker,2,"63,500 dwt","Nantong Xiangyu, China",2025,Japanese (Doun Kisen),$ 32.5m,,intermodal_2023_W48_Intermodal-Report-Week-48-2023.pdf
 2023-12-05,48,,General Cargo,4,"5,000 dwt","Dung Quat, Vietnam",2025-2026,JV between CMB and Boeckmans,undisclosed,hydrogen-powered,intermodal_2023_W48_Intermodal-Report-Week-48-2023.pdf
 2023-12-05,48,,VLAC,4+6,"93,000 dwt","Hyundai Samho, S. Korea",2027,Danish (Maersk),$ 108.2m,conventionally fuelled,intermodal_2023_W48_Intermodal-Report-Week-48-2023.pdf
 2023-12-12,49,,Tanker,1,"319,000 dwt","Qindao Beihai, China",2026,Belgian (Euronav),$ 112.2m,"option excercised, ammonia ready, scrubber fitted",intermodal_2023_W49_Intermodal-Report-Week-49-2023.pdf
@@ -667,8 +667,8 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2023-12-12,49,,Bulker,4,"82,600 dwt","Chengxi, China",2026-2027,Chinese (ICBC Leasing),$ 34.0m,,intermodal_2023_W49_Intermodal-Report-Week-49-2023.pdf
 2023-12-12,49,,Bulker,2,"74,000 dwt","Jiangsu Haitong, China",2025,Chinese (Fujian Guohang Group),$ 32.0m,option exercised,intermodal_2023_W49_Intermodal-Report-Week-49-2023.pdf
 2023-12-12,49,,Bulker,3,"61,000 dwt","DACKS, China",2025-2026,Turkish (Akmar Shipping),undisclosed,,intermodal_2023_W49_Intermodal-Report-Week-49-2023.pdf
-2023-12-12,49,,PCTC,6+4,"10,800",ceu,"SWS, China",2025,Canadian (Seaspan),$ 153.0m,intermodal_2023_W49_Intermodal-Report-Week-49-2023.pdf
-2023-12-12,49,,PCTC,6,"10,800",ceu,"Guangzhou, China",2027,South Korean (HMM),$ 122.0m,intermodal_2023_W49_Intermodal-Report-Week-49-2023.pdf
+2023-12-12,49,,PCTC,6+4,"10,800 ceu","SWS, China",2025,Canadian (Seaspan),$ 153.0m,"LNG dual-fuel, ammonia /methanol ready, charters with Hyundai Glovis",intermodal_2023_W49_Intermodal-Report-Week-49-2023.pdf
+2023-12-12,49,,PCTC,6,"10,800 ceu","Guangzhou, China",2027,South Korean (HMM),$ 122.0m,long-term charters with Hyundai Glovis,intermodal_2023_W49_Intermodal-Report-Week-49-2023.pdf
 2023-12-19,50,,Tanker,2,"157,000 dwt","Jiangsu New Hantong, China",2026,Greek (Cardiff Marine),$ 86.0m,,intermodal_2023_W50_Intermodal-Report-Week-50-2023.pdf
 2023-12-19,50,,Tanker,4,"115,000 dwt","Zhoushan Changhong, China",2026-2027,Turkish (Kuwrow Shipping),$ 61.0m,"options excercised, scrubber fitted, IMO Tier III, EEDI Phase III",intermodal_2023_W50_Intermodal-Report-Week-50-2023.pdf
 2023-12-19,50,,Tanker,1,"115,000 dwt","New Times, China",2025,Greek (Cardiff Marine),undisclosed,,intermodal_2023_W50_Intermodal-Report-Week-50-2023.pdf
@@ -714,14 +714,14 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2024-01-30,4,,VLEC,1,"98,000 cbm","Hyundai HI, S. Korea",2027,UK-based (Purus Marine),$ 172.0m,"Ethane dual fuelled, Against TC to Ineos",intermodal_2024_W04_Intermodal-Report-Week-04-2024.pdf
 2024-01-30,4,,Container,6,"13,000 teu","Jiangnan, China",2027-2028,Japanese (ONE),undisclosed,Methanol dual fuel,intermodal_2024_W04_Intermodal-Report-Week-04-2024.pdf
 2024-01-30,4,,Container,6,"13,000 teu","Yangtzijiang, China",2027-2028,Japanese (ONE),undisclosed,Methanol dual fuel,intermodal_2024_W04_Intermodal-Report-Week-04-2024.pdf
-2024-01-30,4,,PCTC,2,"7,000",ceu,"CMHI Jinling, China",2025-2026,Singaporean (Eastern Pacific),undisclosed,intermodal_2024_W04_Intermodal-Report-Week-04-2024.pdf
-2024-02-06,5,,Tanker,2,"158,000 dwt","Hyundai HI, S. Korea",UK Based (Hayfin Capital Management),$ 86.2m,options declared,,intermodal_2024_W05_Intermodal-Report-Week-05-2024.pdf
-2024-02-06,5,,Tanker,2+2,Suezmax dwt,"Samsung HI, S. Korea",US Based (ExxonMobil),undisclosed,"LNG dual-fuel, shuttle tankers",,intermodal_2024_W05_Intermodal-Report-Week-05-2024.pdf
-2024-02-06,5,,Tanker,10,"3,850 dwt","Nantong Xiangyu, China",German (GEFO group),undisclosed,duplex StSt,,intermodal_2024_W05_Intermodal-Report-Week-05-2024.pdf
-2024-02-06,5,,Bulker,2,"100,000 dwt","Oshima, Japan",UK Based (Hayfin Capital Management),undisclosed,,,intermodal_2024_W05_Intermodal-Report-Week-05-2024.pdf
-2024-02-06,5,,Bulker,2,"82,000 dwt","Chengxi, China",Greek (W Marine),$ 36.0m,"IMO Tier III, EEDI Phase III",,intermodal_2024_W05_Intermodal-Report-Week-05-2024.pdf
-2024-02-06,5,,LCO2,2,"22,000 cbm","Hyundai Mipo, S. Korea",Greek (Capital),$ 80.0m,"ammonia fuelled, LCO2 carrier, can carry LPG",,intermodal_2024_W05_Intermodal-Report-Week-05-2024.pdf
-2024-02-06,5,,PCTC,2,"4,200",ceu,"Fujian Mawei, China",Greek (Neptune Shipping),undisclosed,LNG fueled,intermodal_2024_W05_Intermodal-Report-Week-05-2024.pdf
+2024-01-30,4,,PCTC,2,"7,000 ceu","CMHI Jinling, China",2025-2026,Singaporean (Eastern Pacific),undisclosed,,intermodal_2024_W04_Intermodal-Report-Week-04-2024.pdf
+2024-02-06,5,,Tanker,2,"158,000 dwt","Hyundai HI, S. Korea",2026,UK Based (Hayfin Capital Management),$ 86.2m,options declared,intermodal_2024_W05_Intermodal-Report-Week-05-2024.pdf
+2024-02-06,5,,Tanker,2+2,Suezmax,dwt,"Samsung HI, S. Korea",US Based (ExxonMobil),undisclosed,"LNG dual-fuel, shuttle tankers",intermodal_2024_W05_Intermodal-Report-Week-05-2024.pdf
+2024-02-06,5,,Tanker,10,"3,850 dwt","Nantong Xiangyu, China",2026-2028,German (GEFO group),undisclosed,duplex StSt,intermodal_2024_W05_Intermodal-Report-Week-05-2024.pdf
+2024-02-06,5,,Bulker,2,"100,000 dwt","Oshima, Japan",2026,UK Based (Hayfin Capital Management),undisclosed,,intermodal_2024_W05_Intermodal-Report-Week-05-2024.pdf
+2024-02-06,5,,Bulker,2,"82,000 dwt","Chengxi, China",2026,Greek (W Marine),$ 36.0m,"IMO Tier III, EEDI Phase III",intermodal_2024_W05_Intermodal-Report-Week-05-2024.pdf
+2024-02-06,5,,LCO2,2,"22,000 cbm","Hyundai Mipo, S. Korea",undisclosed,Greek (Capital),$ 80.0m,"ammonia fuelled, LCO2 carrier, can carry LPG",intermodal_2024_W05_Intermodal-Report-Week-05-2024.pdf
+2024-02-06,5,,PCTC,2,"4,200 ceu","Fujian Mawei, China",2026,Greek (Neptune Shipping),undisclosed,LNG fueled,intermodal_2024_W05_Intermodal-Report-Week-05-2024.pdf
 2024-02-13,6,,Tanker,6+2,"300,000 dwt","Dalian Shipbuilding, China",2026-2027,Norwegian (Seatankers),$ 120.0m,"IMO Tier III, EEDI Phase III",intermodal_2024_W06_Intermodal-Report-Week-06-2024.pdf
 2024-02-13,6,,Tanker,3+1,"154,000 dwt","COSCO Zhoushan, China",2026-2027,Norwegian-Japanese JV (KNOT),$ 100.0m,"Shuttle, IMO Tier III, EEDI Phase III",intermodal_2024_W06_Intermodal-Report-Week-06-2024.pdf
 2024-02-13,6,,Tanker,6,"38,000 dwt","Nantong Xiangyu, China",2026-2029,"Norwegian (Stolt Tankers, JV with NYK)",undisclosed,methanol ready,intermodal_2024_W06_Intermodal-Report-Week-06-2024.pdf
@@ -732,7 +732,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2024-02-20,7,,Bulker,2,"64,000 dwt","Oshima, Japan",2026,Tawainese (Shih Wei Navigation),$ 39.0m,,intermodal_2024_W07_Intermodal-Report-Week-07-2024.pdf
 2024-02-20,7,,VLAC,2,"91,000 cbm","KSOE, S.Korea",2027,Greek (Evalend),$ 121.0m,,intermodal_2024_W07_Intermodal-Report-Week-07-2024.pdf
 2024-02-20,7,,Container,1,"1,400 teu","Qingdao Yangfan, China",2026,Belgian (CMB.Tech),undisclosed,"ammonia powered, long-term TC with Yara",intermodal_2024_W07_Intermodal-Report-Week-07-2024.pdf
-2024-02-20,7,,CSV,1+4,,,"Sefine Shipyard,Turkey",2026,Norwegian (JV w/ Eidesvik Offshore and Agalas),$ 88.0m,intermodal_2024_W07_Intermodal-Report-Week-07-2024.pdf
+2024-02-20,7,,CSV,1+4,,"Sefine Shipyard,Turkey",2026,Norwegian (JV w/ Eidesvik Offshore and Agalas),$ 88.0m,"Methanol Ready, battery powered",intermodal_2024_W07_Intermodal-Report-Week-07-2024.pdf
 2024-02-27,8,,Tanker,2,"300,000","Hanwha Ocean, S.Korea",2026,Greek (Evalend),$ 128.1m,scrubber fitted,intermodal_2024_W08_Intermodal-Report-Week-08-2024.pdf
 2024-02-27,8,,Tanker,2,"155,000","New Times, China",2027,Greek (Dynacom),$ 83.0m,"scrubber fitted, LNG ready",intermodal_2024_W08_Intermodal-Report-Week-08-2024.pdf
 2024-02-27,8,,Tanker,4,"18,500","Fujian Southeast, China",2025-2026,Chinese (Seacon),$ 32.3m,"IMO Tier II, EEDI Phase III",intermodal_2024_W08_Intermodal-Report-Week-08-2024.pdf
@@ -750,28 +750,28 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2024-03-05,9,,Bulker,2,"210,000 dwt","Beihai, China",2028,Singaporean (Berge Bulk),undisclosed,"IMO Tier III, EEDI Phase III, ammonia ready",intermodal_2024_W09_Intermodal-Report-Week-09-2024.pdf
 2024-03-05,9,,Bulker,4,"82,000 dwt","Hengli HI Dalian, China",2026,Greek (Sea Traders),undisclosed,"IMO Tier III, EEDI Phase III",intermodal_2024_W09_Intermodal-Report-Week-09-2024.pdf
 2024-03-05,9,,Bulker,2,"63,500 dwt","Jiangsu New Hantong, China",2026,Croatian (Atlantska Plovidba),$ 32.5m,,intermodal_2024_W09_Intermodal-Report-Week-09-2024.pdf
-2024-03-05,9,,PCTC,2,"7,500",ceu,"Hyundai Mipo, S. Korea",2028,UK based (Ray Car Carriers),$ 134.0m,intermodal_2024_W09_Intermodal-Report-Week-09-2024.pdf
-2024-03-12,10,,Tanker,2,"157,000 dwt","Jiangsu New Hantong, China",Greek (Cardiff Marine),$ 83.0m,"scrubber fitted, options exercised",,intermodal_2024_W10_Intermodal-Report-Week-10-2024.pdf
-2024-03-12,10,,Tanker,1,"157,000 dwt","New Times, China",Greek (Polembros Shipping),undisclosed,"LNG Ready, Scrubber-fitted",,intermodal_2024_W10_Intermodal-Report-Week-10-2024.pdf
-2024-03-12,10,,Tanker,4,"115,000 dwt","Hyundai Vietnam, Vietnam",Greek (Latsco),$ 70.0m,Scrubber Fitted,,intermodal_2024_W10_Intermodal-Report-Week-10-2024.pdf
-2024-03-12,10,,Tanker,1,"50,000 dwt","K Shipbuilding, South Korea",Greek (Chemnav),undisclosed,"menthanol & LNG ready, scrubber fitted",,intermodal_2024_W10_Intermodal-Report-Week-10-2024.pdf
-2024-03-12,10,,Bulker,2,"82,500 dwt","Yangzijiang, China",Japanese (Lepta Shipping),undisclosed,"IMO Tier III, EEDI Phase III, Scrubber Fitted",,intermodal_2024_W10_Intermodal-Report-Week-10-2024.pdf
-2024-03-12,10,,MPP,4+2+2,"15,000 dwt","CMHI Jinling, China",German (Dship Carriers),undisclosed,,,intermodal_2024_W10_Intermodal-Report-Week-10-2024.pdf
-2024-03-12,10,,LPG,2,"45,000 cbm","Hyundai Mipo, S. Korea",Belgian (Exmar),$ 80.5m,option for ammonia dual fuel,,intermodal_2024_W10_Intermodal-Report-Week-10-2024.pdf
-2024-03-12,10,,LPG,1,"48,000 dwt","CSSC Huangpu, China",Greek (Benelux Overseas),$ 65.0m,option exercised,,intermodal_2024_W10_Intermodal-Report-Week-10-2024.pdf
+2024-03-05,9,,PCTC,2,"7,500 ceu","Hyundai Mipo, S. Korea",2028,UK based (Ray Car Carriers),$ 134.0m,,intermodal_2024_W09_Intermodal-Report-Week-09-2024.pdf
+2024-03-12,10,,Tanker,2,"157,000 dwt","Jiangsu New Hantong, China",2026,Greek (Cardiff Marine),$ 83.0m,"scrubber fitted, options exercised",intermodal_2024_W10_Intermodal-Report-Week-10-2024.pdf
+2024-03-12,10,,Tanker,1,"157,000 dwt","New Times, China",2025,Greek (Polembros Shipping),undisclosed,"LNG Ready, Scrubber-fitted",intermodal_2024_W10_Intermodal-Report-Week-10-2024.pdf
+2024-03-12,10,,Tanker,4,"115,000 dwt","Hyundai Vietnam, Vietnam",2027,Greek (Latsco),$ 70.0m,Scrubber Fitted,intermodal_2024_W10_Intermodal-Report-Week-10-2024.pdf
+2024-03-12,10,,Tanker,1,"50,000 dwt","K Shipbuilding, South Korea",2025,Greek (Chemnav),undisclosed,"menthanol & LNG ready, scrubber fitted",intermodal_2024_W10_Intermodal-Report-Week-10-2024.pdf
+2024-03-12,10,,Bulker,2,"82,500 dwt","Yangzijiang, China",2026,Japanese (Lepta Shipping),undisclosed,"IMO Tier III, EEDI Phase III, Scrubber Fitted",intermodal_2024_W10_Intermodal-Report-Week-10-2024.pdf
+2024-03-12,10,,MPP,4+2+2,"15,000 dwt","CMHI Jinling, China",2025-2026,German (Dship Carriers),undisclosed,,intermodal_2024_W10_Intermodal-Report-Week-10-2024.pdf
+2024-03-12,10,,LPG,2,"45,000 cbm","Hyundai Mipo, S. Korea",2026,Belgian (Exmar),$ 80.5m,option for ammonia dual fuel,intermodal_2024_W10_Intermodal-Report-Week-10-2024.pdf
+2024-03-12,10,,LPG,1,"48,000 dwt","CSSC Huangpu, China",2027,Greek (Benelux Overseas),$ 65.0m,option exercised,intermodal_2024_W10_Intermodal-Report-Week-10-2024.pdf
 2024-03-12,10,,CSOV,1+2,85 metres,,"Vard Holdings, Norway",Danish (Navigare Capital Partners),undisclosed,,intermodal_2024_W10_Intermodal-Report-Week-10-2024.pdf
 2024-03-19,11,,Tanker,4,"300,000 dwt","KSOE, S.Korea",2027,UK based (Ray Car Carriers),$ 130.0m,"LNG fuelled, scrubber fitted",intermodal_2024_W11_Intermodal-Report-Week-11-2024.pdf
 2024-03-19,11,,Tanker,8,"18,500 dwt","Fujian Southeast, China",2025-2026,Singapore-based (Pioneer Tanker),$ 33.0m,"IMO Tier II, EEDI Phase III",intermodal_2024_W11_Intermodal-Report-Week-11-2024.pdf
-2024-03-19,11,,Bulker,2+2,"64,000",,"New Dayang, China",2026,Chinese (CCB),$ 34.0m,intermodal_2024_W11_Intermodal-Report-Week-11-2024.pdf
+2024-03-19,11,,Bulker,2+2,"64,000","New Dayang, China",2026,Chinese (CCB),$ 34.0m,"EEDI Phase III, TC to Bohai Ocean Transportation",intermodal_2024_W11_Intermodal-Report-Week-11-2024.pdf
 2024-03-19,11,,Bulker,8,"64,000 dwt","Nantong Xiangyu, China",2025-2027,Chinese (Xiamen Financial Leasing),$ 34.0m,"IMO Tier III, EEDI Phase III, methanol ready",intermodal_2024_W11_Intermodal-Report-Week-11-2024.pdf
 2024-03-19,11,,LNG,2,"175,000 cbm","Dalian Shipbuilding, China",2027-2028,"Sea Jade Investment (JV between Wah Kwong, China Gas and China Ship Leasing)",,"options excercised, 20 yrs TC to China City Gas",intermodal_2024_W11_Intermodal-Report-Week-11-2024.pdf
-2024-03-26,12,,Tanker,2,"158,000 dwt","SWS, China",Greek (Cape Shipping),$ 84.0m,,,intermodal_2024_W12_Intermodal-Report-Week-12-2024.pdf
-2024-03-26,12,,Tanker,8,"155,000 dwt","New Times, China",Greek (Dynacom),$ 83.0m,"scrubber fitted, LNG ready",,intermodal_2024_W12_Intermodal-Report-Week-12-2024.pdf
-2024-03-26,12,,Tanker,2,"115,000 dwt","Zhoushan Changhong, China",Greek (Navios),undisclosed,"scrubber fitted, methanol/LNG-ready",,intermodal_2024_W12_Intermodal-Report-Week-12-2024.pdf
-2024-03-26,12,,Tanker,2,"74,000 dwt","Jiangsu Yangzijiang, China",Greek (Cape Shipping),$ 54.0m,,,intermodal_2024_W12_Intermodal-Report-Week-12-2024.pdf
-2024-03-26,12,,Tanker,4,"49,600 dwt","Penglai Jinglu, China",US based (Hartree Partners),$ 43.5m,IMO Tier II,,intermodal_2024_W12_Intermodal-Report-Week-12-2024.pdf
-2024-03-26,12,,Tanker,2+2,"49,000 dwt","Wuhu, China",UK based (Union Maritime),$ 44.0m,,,intermodal_2024_W12_Intermodal-Report-Week-12-2024.pdf
-2024-03-26,12,,Tanker,4,"18,500 dwt","Wuhu, China",UK based (Union Maritime),$ 30.0m,IMO Tier II,,intermodal_2024_W12_Intermodal-Report-Week-12-2024.pdf
+2024-03-26,12,,Tanker,2,"158,000 dwt","SWS, China",2026-2027,Greek (Cape Shipping),$ 84.0m,,intermodal_2024_W12_Intermodal-Report-Week-12-2024.pdf
+2024-03-26,12,,Tanker,8,"155,000 dwt","New Times, China",2027,Greek (Dynacom),$ 83.0m,"scrubber fitted, LNG ready",intermodal_2024_W12_Intermodal-Report-Week-12-2024.pdf
+2024-03-26,12,,Tanker,2,"115,000 dwt","Zhoushan Changhong, China",2027,Greek (Navios),undisclosed,"scrubber fitted, methanol/LNG-ready",intermodal_2024_W12_Intermodal-Report-Week-12-2024.pdf
+2024-03-26,12,,Tanker,2,"74,000 dwt","Jiangsu Yangzijiang, China",2027,Greek (Cape Shipping),$ 54.0m,,intermodal_2024_W12_Intermodal-Report-Week-12-2024.pdf
+2024-03-26,12,,Tanker,4,"49,600 dwt","Penglai Jinglu, China",2025-2026,US based (Hartree Partners),$ 43.5m,IMO Tier II,intermodal_2024_W12_Intermodal-Report-Week-12-2024.pdf
+2024-03-26,12,,Tanker,2+2,"49,000 dwt","Wuhu, China",2026,UK based (Union Maritime),$ 44.0m,,intermodal_2024_W12_Intermodal-Report-Week-12-2024.pdf
+2024-03-26,12,,Tanker,4,"18,500 dwt","Wuhu, China",2025-2027,UK based (Union Maritime),$ 30.0m,IMO Tier II,intermodal_2024_W12_Intermodal-Report-Week-12-2024.pdf
 2024-04-02,13,,Bulker,1,"64,000 dwt","Shin Kurushima, Japan",2026-2027,Greek (Drydel Shipping),undisclosed,,intermodal_2024_W13_Intermodal-Report-Week-13-2024-1.pdf
 2024-04-02,13,,Bulker,6,"63,500 dwt","Jiangsu New Hantong, China",2026-2027,Chinese (Pioneer Bulk),$ 34.0m,IMO Tier III,intermodal_2024_W13_Intermodal-Report-Week-13-2024-1.pdf
 2024-04-02,13,,Bulker,4,"63,000 dwt","New Dayang, China",2027,Turkish (Ciner Shipping),$ 33.0m,,intermodal_2024_W13_Intermodal-Report-Week-13-2024-1.pdf
@@ -796,7 +796,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2024-04-23,16,,Bulker,4,"82,000 dwt","Hengli HI Dalian, China",2027,Turkish (Ciner Shipping),$ 38.0m,,intermodal_2024_W16_Intermodal-Report-Week-16-2024.pdf
 2024-04-23,16,,Bulker,4,"63,500 dwt","Jiangsu Haitong, China",2027-2028,Taiwanese (Franbo Lines),undisclosed,IMO Tier III,intermodal_2024_W16_Intermodal-Report-Week-16-2024.pdf
 2024-04-23,16,,Bulker,1,"12,500 dwt","Holland Shipyards Group, Netherlands",2025,Eureka Shipping (JV between CSL and SMT ),undisclosed,"cement carrier, diesel-electric propulsion, biofuel dual fuel",intermodal_2024_W16_Intermodal-Report-Week-16-2024.pdf
-2024-04-23,16,,LPG,1,VLGC,,"Hanwha Ocean, S.Korea",2027,Japanese (lino Kaiun),$ 127.0m,intermodal_2024_W16_Intermodal-Report-Week-16-2024.pdf
+2024-04-23,16,,LPG,1,VLGC,"Hanwha Ocean, S.Korea",2027,Japanese (Iino Kaiun),$ 127.0m,,intermodal_2024_W16_Intermodal-Report-Week-16-2024.pdf
 2024-04-30,17,,Tanker,1,"114,000 dwt","CSSC Huangpu, China",2026,Turkish (Yasa Shipping),$ 72.5m,scrubber fitted,intermodal_2024_W17_Intermodal-Report-Week-17-2024.pdf
 2024-04-30,17,,Tanker,1,"114,000 dwt","SWS, China",2026,Turkish (Yasa Shipping),$ 72.5m,scrubber fitted,intermodal_2024_W17_Intermodal-Report-Week-17-2024.pdf
 2024-04-30,17,,Tanker,2,"75,000 dwt","Jiangsu New Yangzijiang, China",2027,Italian (d'Amico International Shipping),$ 56.2m,,intermodal_2024_W17_Intermodal-Report-Week-17-2024.pdf
@@ -824,14 +824,14 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2024-05-21,19,,Container,2+2,"14,000 teu","Jiangnan, China",2027,Chinese (BAL Container Line),$ 150.0m,LOI stage,intermodal_2024_W19_Intermodal-Report-Week-19-2024.pdf
 2024-05-21,19,,VLEC,3,"99,000 cbm","Yangzijiang, China",2027-2028,Singapore-based (SP Chemicals),undisclosed,,intermodal_2024_W19_Intermodal-Report-Week-19-2024.pdf
 2024-05-21,19,,VLAC,2+2,"93,000 cbm","Jiangnan, China",2026,AW Shipping (J/V between ADNOC & Wanhua),$ 120.0m,ammonia dual-fuel,intermodal_2024_W19_Intermodal-Report-Week-19-2024.pdf
-2024-05-28,20,,Tanker,2,"307,000 dwt","DSIC, China",Greek (Capital),$ 140.0m,"options excercised, LNG dual-fuel",,intermodal_2024_W20_Intermodal-Report-Week-20-2024.pdf
-2024-05-28,20,,Tanker,4,"113,600 dwt","Fujian Mawei, China",UK based (Union Maritime),undisclosed,LNG dual-fuel,,intermodal_2024_W20_Intermodal-Report-Week-20-2024.pdf
-2024-05-28,20,,Tanker,2,"41,000 dwt","Yangzijiang, China",Italian (Navigazione Montanari),$ 45.0m,,,intermodal_2024_W20_Intermodal-Report-Week-20-2024.pdf
-2024-05-28,20,,Tanker,2,"50,000 dwt","Hyundai Mipo, S. Korea",Dubai based (Gulf Energy Maritime),$ 50.0m,,,intermodal_2024_W20_Intermodal-Report-Week-20-2024.pdf
-2024-05-28,20,,Bulker,2,"82,000 dwt","Hengli HI Dalian, China",Greek (Veritas Shipmanagement),$ 38.0m,,,intermodal_2024_W20_Intermodal-Report-Week-20-2024.pdf
-2024-05-28,20,,Bulker,2,"32,000 dwt","CSSC Huangpu, China",Singapore-based (AAL Shipping),undisclosed,methanol-ready,,intermodal_2024_W20_Intermodal-Report-Week-20-2024.pdf
-2024-05-28,20,,Container,4,"10,000 teu","SWS, China",Singaporean (X-Press Feeders),$ 115.0m,,,intermodal_2024_W20_Intermodal-Report-Week-20-2024.pdf
-2024-05-28,20,,PCTC,4,"9,300",ceu,"CSC Jinling, China",Norwegian (Wallenius Wilhelmsen),undisclosed,options excercised,intermodal_2024_W20_Intermodal-Report-Week-20-2024.pdf
+2024-05-28,20,,Tanker,2,"307,000 dwt","DSIC, China",2026-2027,Greek (Capital),$ 140.0m,"options excercised, LNG dual-fuel",intermodal_2024_W20_Intermodal-Report-Week-20-2024.pdf
+2024-05-28,20,,Tanker,4,"113,600 dwt","Fujian Mawei, China",2027,UK based (Union Maritime),undisclosed,LNG dual-fuel,intermodal_2024_W20_Intermodal-Report-Week-20-2024.pdf
+2024-05-28,20,,Tanker,2,"41,000 dwt","Yangzijiang, China",2027,Italian (Navigazione Montanari),$ 45.0m,,intermodal_2024_W20_Intermodal-Report-Week-20-2024.pdf
+2024-05-28,20,,Tanker,2,"50,000 dwt","Hyundai Mipo, S. Korea",2026,Dubai based (Gulf Energy Maritime),$ 50.0m,,intermodal_2024_W20_Intermodal-Report-Week-20-2024.pdf
+2024-05-28,20,,Bulker,2,"82,000 dwt","Hengli HI Dalian, China",2026,Greek (Veritas Shipmanagement),$ 38.0m,,intermodal_2024_W20_Intermodal-Report-Week-20-2024.pdf
+2024-05-28,20,,Bulker,2,"32,000 dwt","CSSC Huangpu, China",2026,Singapore-based (AAL Shipping),undisclosed,methanol-ready,intermodal_2024_W20_Intermodal-Report-Week-20-2024.pdf
+2024-05-28,20,,Container,4,"10,000 teu","SWS, China",2027,Singaporean (X-Press Feeders),$ 115.0m,,intermodal_2024_W20_Intermodal-Report-Week-20-2024.pdf
+2024-05-28,20,,PCTC,4,"9,300 ceu","CSC Jinling, China",2026-2028,Norwegian (Wallenius Wilhelmsen),undisclosed,options excercised,intermodal_2024_W20_Intermodal-Report-Week-20-2024.pdf
 2024-06-04,21,,Bulker,1,"82,000 dwt",Japanese,2027,Greek (Safe Bulkers),undisclosed,"NOx Tier III, EEDI Phase III",intermodal_2024_W21_Intermodal-Report-Week-21-2024.pdf
 2024-06-04,21,,Bulker,4,"64,000 dwt","Taizhou Sanfu, China",2026-2027,Thai (Precious Shipping),$ 33.4m,,intermodal_2024_W21_Intermodal-Report-Week-21-2024.pdf
 2024-06-04,21,,Bulker,2,"63,500 dwt","Haitong Offshore, China",2027,HK based (Vanhui Shipping),undisclosed,,intermodal_2024_W21_Intermodal-Report-Week-21-2024.pdf
@@ -854,8 +854,8 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2024-06-18,24,,Bulker,8,"210,000 dwt","New Times, China",2028-,Chinese (China Merchants Energy),$ 76.0m,scrubber fitted,intermodal_2024_W24_Intermodal-Report-Week-24-2024.pdf
 2024-06-18,24,,Bulker,6,"210,000 dwt","Beihai, China",2027-2028,Chinese (China Merchants Energy),$ 78.0m,Shaft generators,intermodal_2024_W24_Intermodal-Report-Week-24-2024.pdf
 2024-06-18,24,,Gas Carrier,1,"86,700 cbm","KHI, Japan",2026,Singaporean (Kumiai Navigation),$ 120.0m,7-Yr TC to AltaGas,intermodal_2024_W24_Intermodal-Report-Week-24-2024.pdf
-2024-06-18,24,,PCTC,4+4,"5,500",ceu,"Fujian Mawei, China",2026,Singaporean (Eastern Pacific),undisclosed,intermodal_2024_W24_Intermodal-Report-Week-24-2024.pdf
-2024-06-18,24,,PCTC,2+2,"5,500",ceu,"CMHI Jinling, China",2027,Singaporean (Eastern Pacific),undisclosed,intermodal_2024_W24_Intermodal-Report-Week-24-2024.pdf
+2024-06-18,24,,PCTC,4+4,"5,500 ceu","Fujian Mawei, China",2026,Singaporean (Eastern Pacific),undisclosed,LNG dual-fuel,intermodal_2024_W24_Intermodal-Report-Week-24-2024.pdf
+2024-06-18,24,,PCTC,2+2,"5,500 ceu","CMHI Jinling, China",2027,Singaporean (Eastern Pacific),undisclosed,LNG dual-fuel,intermodal_2024_W24_Intermodal-Report-Week-24-2024.pdf
 2024-06-18,24,,Container,4,"14,000 teu","Hudong Zhonghua, China",2026-2027,German (Dohle),$ 145.0m,"methanol-ready, scrubber fitted",intermodal_2024_W24_Intermodal-Report-Week-24-2024.pdf
 2024-06-25,25,,Tanker,4,"115,000 dwt","Dalian Shipbuilding, China",2026,Swiss-based (Vitol),$ 72.5m,,intermodal_2024_W25_Intermodal-Report-Week-25-2024.pdf
 2024-06-25,25,,Tanker,2,"115,000 dwt","Dalian Shipbuilding, China",2026-2027,Greek (Cape Shipping),undisclosed,,intermodal_2024_W25_Intermodal-Report-Week-25-2024.pdf
@@ -863,8 +863,8 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2024-06-25,25,,Bulker,4,"180,000 dwt","Hengli HI Dalian, China",2026-2027,German (Reederei H. Vogemann),$ 70.0m,scrubber fitted,intermodal_2024_W25_Intermodal-Report-Week-25-2024.pdf
 2024-06-25,25,,Bulker,4,"63,500 dwt","Jiangsu New Hantong, China",2026-2027,Chinese (Agricore Shipping),$ 35.0m,"NOx Tier III, EEDI Phase III",intermodal_2024_W25_Intermodal-Report-Week-25-2024.pdf
 2024-06-25,25,,Bulker,1,"40,000 dwt","Yangzhou Nakanishi, Japan",2026,Greek (Alassia Newships Management),undisclosed,,intermodal_2024_W25_Intermodal-Report-Week-25-2024.pdf
-2024-06-25,25,,RoRo,1,"2,300",ceu,"Mitsubishi HI, Japan",2027,Japanese (Toyofuji Shipping),undisclosed,intermodal_2024_W25_Intermodal-Report-Week-25-2024.pdf
-2024-06-25,25,,RoRo,1,"2,300",ceu,"Mitsubishi HI, Japan",2027,japanese (Fukuju Shipping),undisclosed,intermodal_2024_W25_Intermodal-Report-Week-25-2024.pdf
+2024-06-25,25,,RoRo,1,"2,300 ceu","Mitsubishi HI, Japan",2027,Japanese (Toyofuji Shipping),undisclosed,,intermodal_2024_W25_Intermodal-Report-Week-25-2024.pdf
+2024-06-25,25,,RoRo,1,"2,300 ceu","Mitsubishi HI, Japan",2027,japanese (Fukuju Shipping),undisclosed,,intermodal_2024_W25_Intermodal-Report-Week-25-2024.pdf
 2024-06-25,25,,Container,2+2,"7,900 teu",HJ Shipbuilding & Construction,2026,Greek (Navios),$ 120.0m,,intermodal_2024_W25_Intermodal-Report-Week-25-2024.pdf
 2024-07-02,26,,Bulker,2,"210,000","Qingdao Yangfan, China",2027,Chinese (CMES),$ 72.3m,scrubber fitted,intermodal_2024_W26_Intermodal-Report-Week-26-2024.pdf
 2024-07-02,26,,Bulker,3+1,"64,000","New Dayang, China",2027,Bulgarian (Industrial Holding Bulgaria),$ 36.0m,EEDI Phase III,intermodal_2024_W26_Intermodal-Report-Week-26-2024.pdf
@@ -877,8 +877,8 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2024-07-09,27,,Tanker,4,VLCC,"Hanwha Ocean, S.Korea",2026-2027,Omanis (Asyad Shipping),$ 130.0m,,intermodal_2024_W27_Intermodal-Report-Week-27-2024.pdf
 2024-07-09,27,,Tanker,1,"75,000 dwt","Yangzijiang, China",2027,Greek (Tsakos),$ 55.0m,scrubber fitted,intermodal_2024_W27_Intermodal-Report-Week-27-2024.pdf
 2024-07-09,27,,Tanker,2+2,"75,000 dwt","New Times, China",2027-2028,Greek (Tsakos),$ 55.0m,scrubber fitted,intermodal_2024_W27_Intermodal-Report-Week-27-2024.pdf
-2024-07-09,27,,Tanker,4,"75,000 dwt","K Shipbuilding, South Korea",undisclosed,Dubai-based (GEM),$ 392.0m,,intermodal_2024_W27_Intermodal-Report-Week-27-2024.pdf
-2024-07-09,27,,Tanker,2,"50,000 dwt","K Shipbuilding, South Korea",undisclosed,Vietnamese (Asia Pacific Shipping),,,intermodal_2024_W27_Intermodal-Report-Week-27-2024.pdf
+2024-07-09,27,,Tanker,4,"75,000 dwt","K Shipbuilding, South Korea",undisclosed,Dubai-based (GEM),$ 392.0m (en bloc),,intermodal_2024_W27_Intermodal-Report-Week-27-2024.pdf
+2024-07-09,27,,Tanker,2,"50,000 dwt","K Shipbuilding, South Korea",undisclosed,Vietnamese (Asia Pacific Shipping),$ 392.0m (en bloc),,intermodal_2024_W27_Intermodal-Report-Week-27-2024.pdf
 2024-07-09,27,,Tanker,5,MR2,"Penglai Zhongbai, China",2026-2027,Greek (Alimia Group),undisclosed,,intermodal_2024_W27_Intermodal-Report-Week-27-2024.pdf
 2024-07-09,27,,Tanker,4,"40,800 dwt","Wuhu, China",2027,Turkish (Trans KA Tanker),undisclosed,"NOx Tier III, EEDI Phase III",intermodal_2024_W27_Intermodal-Report-Week-27-2024.pdf
 2024-07-09,27,,Bulker,6,"325,000 dwt","Hengli HI Dalian, China",2026-2027,Singaporean (Winning International),undisclosed,"EEDI Phase III, scrubber fitted, methanol ready",intermodal_2024_W27_Intermodal-Report-Week-27-2024.pdf
@@ -902,8 +902,8 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2024-07-23,29,,Container,5 options,"13,000 teu","Yangzijiang, China",2027-2028,Japanese (ONE),undisclosed,Methanol dual fuel,intermodal_2024_W29_Intermodal-Report-Week-29-2024.pdf
 2024-07-23,29,,VLGC,4,"88,000 cbm","Yamic, China",2028-2029,S. Korean (Nissen Kaiun),$ 110.0m,7yr TC to BGN,intermodal_2024_W29_Intermodal-Report-Week-29-2024.pdf
 2024-07-30,30,,Tanker,4,"159,000 dwt","Hyundai Hi, South Korea",2027,Hong Kong based (Cido Shipping),$ 91.0m,"conventional fuelled, scrubber fitted",intermodal_2024_W30_Intermodal-Report-Week-30-2024.pdf
-2024-07-30,30,,Tanker,4,"115,000 dwt","Hyundai Vietnam, Vietnam",2028,,$ 70.0m,LR2,intermodal_2024_W30_Intermodal-Report-Week-30-2024.pdf
-2024-07-30,30,,Tanker,4,"50,000 dwt",,2027,Hong Kong based (Cido Shipping),$ 47.0m,,intermodal_2024_W30_Intermodal-Report-Week-30-2024.pdf
+2024-07-30,30,,Tanker,4,"115,000 dwt","Hyundai Vietnam, Vietnam",2028,Hong Kong based (Cido Shipping),$ 70.0m,LR2,intermodal_2024_W30_Intermodal-Report-Week-30-2024.pdf
+2024-07-30,30,,Tanker,4,"50,000 dwt","Hyundai Vietnam, Vietnam",2027,Hong Kong based (Cido Shipping),$ 47.0m,,intermodal_2024_W30_Intermodal-Report-Week-30-2024.pdf
 2024-07-30,30,,Tanker,4,"113,600 dwt","Xiamen, China",2028,Singaporean (Eastern Pacific),$73.0-74.0m,"LR2, LNG fuelled",intermodal_2024_W30_Intermodal-Report-Week-30-2024.pdf
 2024-07-30,30,,Tanker,1,"22,500 dwt","Wuhu, China",2027,Swedish (Donsotank Rederi),undisclosed,chemical tanker,intermodal_2024_W30_Intermodal-Report-Week-30-2024.pdf
 2024-07-30,30,,Tanker,1,"17,500 dwt","Chengxi, China",2026,Swiss based (Trafigura),undisclosed,asphalt and bitumen tanker,intermodal_2024_W30_Intermodal-Report-Week-30-2024.pdf
@@ -911,7 +911,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2024-07-30,30,,LNG bunkering,1+1,"18,600 dwt","Hudong Zhonghua, China",2026,Spanish (Ibaizabal Tankers),$ 90.0m,,intermodal_2024_W30_Intermodal-Report-Week-30-2024.pdf
 2024-07-30,30,,Bulker,2,"63,500 dwt","Haitong Offshore, China",2026,Chinese (Fujian Guohang Group),undisclosed,,intermodal_2024_W30_Intermodal-Report-Week-30-2024.pdf
 2024-07-30,30,,VLEC,9,"99,000 cbm","Jiangnan Shipyard, China",2025-2027,AW Shipping (J/V between ADNOC & Wanhua),$ 155.0m,,intermodal_2024_W30_Intermodal-Report-Week-30-2024.pdf
-2024-07-30,30,,VLAC,4,"93,000 cbm",,2026,,$ 125.0m,,intermodal_2024_W30_Intermodal-Report-Week-30-2024.pdf
+2024-07-30,30,,VLAC,4,"93,000 cbm","Jiangnan Shipyard, China",2026,AW Shipping (J/V between ADNOC & Wanhua),$ 125.0m,,intermodal_2024_W30_Intermodal-Report-Week-30-2024.pdf
 2024-07-30,30,,Container,2,"6,000 teu","Wuhu, China",2026,Chinese (Zhonghuaizhou Shipping),undisclosed,,intermodal_2024_W30_Intermodal-Report-Week-30-2024.pdf
 2024-07-30,30,,PCTC,12,"7,600 ceu","CMHI Jiangsu, China",2028-2030,Hong Kong based (Cido Shipping),$90.0-91.0m,,intermodal_2024_W30_Intermodal-Report-Week-30-2024.pdf
 2024-07-30,30,,PCTC,1,"7,000 ceu","Yantai CIMC Raffles, China",2027,Norwegian ( NOCC),undisclosed,LNG and ammonia ready,intermodal_2024_W30_Intermodal-Report-Week-30-2024.pdf
@@ -961,7 +961,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2024-09-17,37,,LNG,2,"175,000 cbm","Dalian Shipbuilding, China",2028,Chinese (CSET),$ 254.0m,TC to ENN LNG,intermodal_2024_W37_Intermodal-Report-Week-37-2024.pdf
 2024-09-17,37,,LNG,1,"175,000 cbm","Hanwha Ocean, S.Korea",2026,JV (Chevron with Mitsui OSK),undisclosed,wind assisted propulsion system,intermodal_2024_W37_Intermodal-Report-Week-37-2024.pdf
 2024-09-17,37,,Container,4,"18,000 teu","New Times, China",2027-2028,Singaporean (Eastern Pacific),undisclosed,"TC to CMA-CGM, LNG dual-fuelled, options exercised",intermodal_2024_W37_Intermodal-Report-Week-37-2024.pdf
-2024-09-17,37,,Field Support Vessel,1,110,m,"Crist Shipyard, Poland",2027,Canadian (Cenovus Energy),undisclosed,intermodal_2024_W37_Intermodal-Report-Week-37-2024.pdf
+2024-09-17,37,,Field Support Vessel,1,110 m,"Crist Shipyard, Poland",2027,Canadian (Cenovus Energy),undisclosed,"ice class, built for Maersk Supply",intermodal_2024_W37_Intermodal-Report-Week-37-2024.pdf
 2024-09-17,37,,MPSV,10,"5,000 dwt","Pax Ocean Zhousan, China",2026,Greek,undisclosed,,intermodal_2024_W37_Intermodal-Report-Week-37-2024.pdf
 2024-09-17,37,,MPSV,8,"4,700 dwt","Fujian Mawei, China",2026,Greek (Capital Offshore),undisclosed,diesel electric,intermodal_2024_W37_Intermodal-Report-Week-37-2024.pdf
 2024-09-24,38,,Tanker,4,"306,000 dwt","Hengli HI Dalian, China",2026-2027,Chinese (Hengli Group),$ 120.0m,,intermodal_2024_W38_Intermodal-Report-Week-38-2024.pdf
@@ -999,7 +999,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2024-10-22,42,,Bulker,4,"89,000 dwt","Wuhu Shipyard, China",2027,Chinese (Fujian Guohang Group),$ 37.0m,"methanol ready, options excercised",intermodal_2024_W42_Intermodal-Report-Week-42-2024.pdf
 2024-10-22,42,,VLAC,2,"88,000 cbm","KSOE, S.Korea",2027,Hong Kong based (Cido Shipping),$ 125.0m,,intermodal_2024_W42_Intermodal-Report-Week-42-2024.pdf
 2024-10-22,42,,Container,6,"13,600 teu","Hudong Zhonghua, China",,Canadian (Seaspan),$ 150.0m,scrubber-fitted,intermodal_2024_W42_Intermodal-Report-Week-42-2024.pdf
-2024-10-29,43,,Tanker,1,"309,400 dwt","Nihon Shipyard, Japan",2027,Japanese (lino Kaiun Kaisha),$ 129.0m,"methanol dual-fuel, TC to Idemitsu Tanker",intermodal_2024_W43_Intermodal-Report-Week-43-2024.pdf
+2024-10-29,43,,Tanker,1,"309,400 dwt","Nihon Shipyard, Japan",2027,Japanese (Iino Kaiun Kaisha),$ 129.0m,"methanol dual-fuel, TC to Idemitsu Tanker",intermodal_2024_W43_Intermodal-Report-Week-43-2024.pdf
 2024-10-29,43,,Tanker,2,"25,900 dwt","Wuhu Shipyard, China",2027,Vietnamese (Asia Pacific Shipping),undisclosed,"options exercised, IMO Tier III, EEDI Phase 3",intermodal_2024_W43_Intermodal-Report-Week-43-2024.pdf
 2024-10-29,43,,Bulker,1,"64,000 dwt","Imabari, Japan",2025,Japanese (Soki Kisen),undisclosed,,intermodal_2024_W43_Intermodal-Report-Week-43-2024.pdf
 2024-10-29,43,,Bulker,1,"45,000 dwt","Imabari, Japan",2027,Japanese (Soki Kisen),undisclosed,,intermodal_2024_W43_Intermodal-Report-Week-43-2024.pdf
@@ -1016,12 +1016,12 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2024-11-05,44,,LNG,1,"174,000 cbm","Samsung HI, S. Korea",2027,Japanese (K Line),$ 259.0m,Charter to Gail (India) for min 7 years,intermodal_2024_W44_Intermodal-Report-Week-44-2024.pdf
 2024-11-05,44,,VLAC,4,"93,000 cbm","Hengli HI Dalian, China",,Chinese (Hengli Group),undisclosed,,intermodal_2024_W44_Intermodal-Report-Week-44-2024.pdf
 2024-11-05,44,,LEG,1,"7,000 cbm","Jiangxi New Jiangzhou Shipbuilding, China",2026,Chinese (Shenzhen Haihong Shipping),undisclosed,,intermodal_2024_W44_Intermodal-Report-Week-44-2024.pdf
-2024-11-05,44,,PCC,2+2,"4,500",ceu,"CMJL Nanjing, China",2028-2029,Norwegian (UECC),undisclosed,intermodal_2024_W44_Intermodal-Report-Week-44-2024.pdf
+2024-11-05,44,,PCC,2+2,"4,500 ceu","CMJL Nanjing, China",2028-2029,Norwegian (UECC),undisclosed,"LNG, Battery Hybrid",intermodal_2024_W44_Intermodal-Report-Week-44-2024.pdf
 2024-11-12,45,,Tanker,4,"75,000 dwt","Yangzijiang, China",2028,Greek (Dynacom),$ 55.0m,,intermodal_2024_W45_Intermodal-Report-Week-45-2024.pdf
 2024-11-12,45,,Container,5,"9,000 teu","Hudong Zhonghua, China",2027-2028,Singapore based (PIL),undisclosed,"LNG dual-fuel, scrubber",intermodal_2024_W45_Intermodal-Report-Week-45-2024.pdf
 2024-11-12,45,,Container,2,"9,000 teu","Hyundai Samho, S. Korea",2027,South Korean (KMTC),$ 115.3m,,intermodal_2024_W45_Intermodal-Report-Week-45-2024.pdf
-2024-11-12,45,,PCC,2,"11,700",ceu,"CMJL Nanjing, China",2028,Norwegian (Wallenius Wilhelmsen),undisclosed,intermodal_2024_W45_Intermodal-Report-Week-45-2024.pdf
-2024-11-12,45,,OSSV,6,,,"Esbjerg Shipyard, Denmark",2026-2028,German (MPC Capital),$ 23.0m,intermodal_2024_W45_Intermodal-Report-Week-45-2024.pdf
+2024-11-12,45,,PCC,2,"11,700 ceu","CMJL Nanjing, China",2028,Norwegian (Wallenius Wilhelmsen),undisclosed,"options excercised, methanol, ammonia-ready",intermodal_2024_W45_Intermodal-Report-Week-45-2024.pdf
+2024-11-12,45,,OSSV,6,,"Esbjerg Shipyard, Denmark",2026-2028,German (MPC Capital),$ 23.0m,hydrogen-ready,intermodal_2024_W45_Intermodal-Report-Week-45-2024.pdf
 2024-11-12,45,,LNG bunkering,4,"18,000 cbm","Hyundai Mipo, S. Korea",2028,JV between Eastern Pacific and MSC,$ 92.6m,,intermodal_2024_W45_Intermodal-Report-Week-45-2024.pdf
 2024-11-19,46,,Tanker,6,"307,000 dwt","Dalian Shipbuilding, China",undisclosed,Chinese (CSET),$ 132.0m,,intermodal_2024_W46_Intermodal-Report-Week-46-2024.pdf
 2024-11-19,46,,Tanker,2+2,"50,000 dwt","Cosco HI Guangdong, China",2027,Greek (Monte Nero),$ 44.0m,,intermodal_2024_W46_Intermodal-Report-Week-46-2024.pdf
@@ -1039,20 +1039,20 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2024-11-26,47,,Bulker,3,"32,000 dwt","Yangzijiang, China",undisclosed,Bulgarian (Navibulgar),undisclosed,"old deal, lakes-fitted, IMO Tier III, EEDI Phase 3",intermodal_2024_W47_Intermodal-Report-Week-47-2024.pdf
 2024-11-26,47,,Bulker,3,"45,000 dwt","Yangzijiang, China",undisclosed,Bulgarian (Navibulgar),undisclosed,"old deal, lakes-fitted, IMO Tier III, EEDI Phase 3",intermodal_2024_W47_Intermodal-Report-Week-47-2024.pdf
 2024-11-26,47,,LPG,2,"48,500 cbm","Jiangnan Shipyard, China",2027,UK-based (Navigator Gas),$ 102.9m,"options declared, ethylene gas carrier",intermodal_2024_W47_Intermodal-Report-Week-47-2024.pdf
-2024-11-26,47,,PCTC,4,"5,500",ceu,"Fujian Mawei, China",2027,Singaporean (Eastern Pacific),$ 80.0m,intermodal_2024_W47_Intermodal-Report-Week-47-2024.pdf
-2024-11-26,47,,PCTC,2,"5,500",ceu,"CMHI Jinling, China",2028,Singaporean (Eastern Pacific),$ 80.0m,intermodal_2024_W47_Intermodal-Report-Week-47-2024.pdf
+2024-11-26,47,,PCTC,4,"5,500 ceu","Fujian Mawei, China",2027,Singaporean (Eastern Pacific),$ 80.0m,LNG dual-fuel,intermodal_2024_W47_Intermodal-Report-Week-47-2024.pdf
+2024-11-26,47,,PCTC,2,"5,500 ceu","CMHI Jinling, China",2028,Singaporean (Eastern Pacific),$ 80.0m,LNG dual-fuel,intermodal_2024_W47_Intermodal-Report-Week-47-2024.pdf
 2024-11-26,47,,Container,2,"4,300 teu","Yangzi Xinfu, China",2027,Greek (Euroseas),$ 60.0m,,intermodal_2024_W47_Intermodal-Report-Week-47-2024.pdf
-2024-12-03,48,,Tanker,4,"65,000 dwt","GSI, China",Chinese (Nanjing Tanker),$ 63.0m,"IMO Tier III, methanol ready",,intermodal_2024_W48_Intermodal-Report-Week-48-2024.pdf
-2024-12-03,48,,Tanker,4,"39,000 dwt","Yangzijiang, China",Greek (Evalend),$ 43.0m,,,intermodal_2024_W48_Intermodal-Report-Week-48-2024.pdf
-2024-12-03,48,,Tanker,4,"7,999 dwt","CMHI Jinling, China",Swedish (Sirius Shipping),undisclosed,,,intermodal_2024_W48_Intermodal-Report-Week-48-2024.pdf
-2024-12-03,48,,Bulker,2,"182,000 dwt","Namura, Japan",Greek (DryDel),undisclosed,scrubber fitted,,intermodal_2024_W48_Intermodal-Report-Week-48-2024.pdf
-2024-12-03,48,,Bulker,2,"64,000 dwt","Nihon Shipyard, Japan",HK based (Pacific Basin Shipping),$ 46.5m,methanol dual-fuel,,intermodal_2024_W48_Intermodal-Report-Week-48-2024.pdf
-2024-12-03,48,,Bulker,2,"64,000 dwt","Nihon Shipyard, Japan",Japanese (Mitsui & Co),$ 46.5m,methanol dual-fuel,,intermodal_2024_W48_Intermodal-Report-Week-48-2024.pdf
-2024-12-03,48,,Bulker,2,"64,000 dwt","New Dayang, China",Taiwanese (Chailease Holding),$ 35.0m,"Crown 63-Plus, LNG ready",,intermodal_2024_W48_Intermodal-Report-Week-48-2024.pdf
-2024-12-03,48,,Bulker,2,"40,400 dwt","Jiangsu Dalian , China",Chinese (Chun An Shipping),$ 30.0m,,,intermodal_2024_W48_Intermodal-Report-Week-48-2024.pdf
-2024-12-03,48,,Container,4,"7,900 teu","HJ Shipbuilding, S. Korea",Greek (TMS Group),$ 108.5m,"scrubber fitted, methanol-ready",,intermodal_2024_W48_Intermodal-Report-Week-48-2024.pdf
-2024-12-03,48,,PSV,1,"4,300 dwt","Dalian Liaonan, China",Chinese (CNPC Offshore Shipping),$ 25.0m,,,intermodal_2024_W48_Intermodal-Report-Week-48-2024.pdf
-2024-12-03,48,,MPSV,2,"4,650 dwt","Fujian Mawei, China",US based (Seacor),$ 41.0m,,,intermodal_2024_W48_Intermodal-Report-Week-48-2024.pdf
+2024-12-03,48,,Tanker,4,"65,000 dwt","GSI, China",2027-2028,Chinese (Nanjing Tanker),$ 63.0m,"IMO Tier III, methanol ready",intermodal_2024_W48_Intermodal-Report-Week-48-2024.pdf
+2024-12-03,48,,Tanker,4,"39,000 dwt","Yangzijiang, China",2027-2028,Greek (Evalend),$ 43.0m,,intermodal_2024_W48_Intermodal-Report-Week-48-2024.pdf
+2024-12-03,48,,Tanker,4,"7,999 dwt","CMHI Jinling, China",2026,Swedish (Sirius Shipping),undisclosed,,intermodal_2024_W48_Intermodal-Report-Week-48-2024.pdf
+2024-12-03,48,,Bulker,2,"182,000 dwt","Namura, Japan",2028,Greek (DryDel),undisclosed,scrubber fitted,intermodal_2024_W48_Intermodal-Report-Week-48-2024.pdf
+2024-12-03,48,,Bulker,2,"64,000 dwt","Nihon Shipyard, Japan",2028-2029,HK based (Pacific Basin Shipping),$ 46.5m,methanol dual-fuel,intermodal_2024_W48_Intermodal-Report-Week-48-2024.pdf
+2024-12-03,48,,Bulker,2,"64,000 dwt","Nihon Shipyard, Japan",2028-2029,Japanese (Mitsui & Co),$ 46.5m,methanol dual-fuel,intermodal_2024_W48_Intermodal-Report-Week-48-2024.pdf
+2024-12-03,48,,Bulker,2,"64,000 dwt","New Dayang, China",2028,Taiwanese (Chailease Holding),$ 35.0m,"Crown 63-Plus, LNG ready",intermodal_2024_W48_Intermodal-Report-Week-48-2024.pdf
+2024-12-03,48,,Bulker,2,"40,400 dwt","Jiangsu Dalian , China",2026,Chinese (Chun An Shipping),$ 30.0m,,intermodal_2024_W48_Intermodal-Report-Week-48-2024.pdf
+2024-12-03,48,,Container,4,"7,900 teu","HJ Shipbuilding, S. Korea",2026-2027,Greek (TMS Group),$ 108.5m,"scrubber fitted, methanol-ready",intermodal_2024_W48_Intermodal-Report-Week-48-2024.pdf
+2024-12-03,48,,PSV,1,"4,300 dwt","Dalian Liaonan, China",2027,Chinese (CNPC Offshore Shipping),$ 25.0m,,intermodal_2024_W48_Intermodal-Report-Week-48-2024.pdf
+2024-12-03,48,,MPSV,2,"4,650 dwt","Fujian Mawei, China",2026-2027,US based (Seacor),$ 41.0m,,intermodal_2024_W48_Intermodal-Report-Week-48-2024.pdf
 2024-12-10,49,,Tanker,4,"163,000 dwt","Qindao Beihai, China",2027-2028,Greek (Dynacom),$ 82.0m,LOI Stage,intermodal_2024_W49_Intermodal-Report-Week-49-2024.pdf
 2024-12-10,49,,Bulker,2,"210,000 dwt","Qindao Beihai, China",2027-2028,Japanese (Mitsui OSK Lines),$ 93.0m,ammonia dual-fuel,intermodal_2024_W49_Intermodal-Report-Week-49-2024.pdf
 2024-12-10,49,,Bulker,2,"89,000 dwt","Wuhu Shipyard, China",2027,Chinese (Fujian Guohang Group),undisclosed,"methanol ready, options excercised",intermodal_2024_W49_Intermodal-Report-Week-49-2024.pdf
@@ -1094,9 +1094,9 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2025-02-11,6,,Container,6,"16,800 teu","Hanwha Ocean, S.Korea",2027+,German (Hapag-Lloyd),$ 200.0m,LNG dual fuel,intermodal_2025_W06_Intermodal-Report-Week-06-2025.pdf
 2025-02-11,6,,Container,4+2,"4,300 teu","Taizhou Sanfu, China",2027-2028,Danish (Navigare Capital),undisclosed,eco vessels,intermodal_2025_W06_Intermodal-Report-Week-06-2025.pdf
 2025-02-11,6,,LNG bunkering,1,"18,000 cbm","HJ Shipbuilding & Construction, S. Korea",undisclosed,S. Korean (H-Line Shipping),$ 88.0m,,intermodal_2025_W06_Intermodal-Report-Week-06-2025.pdf
-2025-02-11,6,,Offshore,2,,,"CMHI Shenzhen, China",2027-2028,Norwegian (Olympic Subsea ASA),undisclosed,intermodal_2025_W06_Intermodal-Report-Week-06-2025.pdf
+2025-02-11,6,,Offshore,2,,"CMHI Shenzhen, China",2027-2028,Norwegian (Olympic Subsea ASA),undisclosed,"Battery Hybrid, Sustainable Energy",intermodal_2025_W06_Intermodal-Report-Week-06-2025.pdf
 2025-02-11,6,,Cruiseship,2,"5,100 dwt","Fincantieri Monfalcone, Italy",2034-2036,Norwegian (NCL),undisclosed,,intermodal_2025_W06_Intermodal-Report-Week-06-2025.pdf
-2025-02-11,6,,Hvy Lift,1+1,,,"Dalian Shipbuilding Offshore, China",2026,Norwegian (Boa Offshore),undisclosed,intermodal_2025_W06_Intermodal-Report-Week-06-2025.pdf
+2025-02-11,6,,Hvy Lift,1+1,,"Dalian Shipbuilding Offshore, China",2026,Norwegian (Boa Offshore),undisclosed,"166 m length, Semi-submersible",intermodal_2025_W06_Intermodal-Report-Week-06-2025.pdf
 2025-02-18,7,,Bulker,4,"181,000 dwt","Hengli HI Dalian, China",2027,Taiwanese (U-Ming),$ 78.0m,"scrubber fitted, Nox Tier III",intermodal_2025_W07_Intermodal-Report-Week-07-2025.pdf
 2025-02-18,7,,Tanker,2,"114,200 dwt","COSCO HI Yangzhou, China",2028,Chinese (COSCO Shipping Energy),$ 90.0m,Methanol,intermodal_2025_W07_Intermodal-Report-Week-07-2025.pdf
 2025-02-18,7,,Tanker,2,"109,900 dwt","COSCO HI Yangzhou, China",2028,Chinese (COSCO Shipping Energy),$ 87.0m,"Product, Methanol",intermodal_2025_W07_Intermodal-Report-Week-07-2025.pdf
@@ -1106,14 +1106,14 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2025-02-18,7,,Container,5,"24,000 teu","Guangzhou, China",2028,Taiwanese (Evergreen Marine),$265m-$295m,LNG dual fuel,intermodal_2025_W07_Intermodal-Report-Week-07-2025.pdf
 2025-02-18,7,,LNG,2,"174,000 cbm","Hanwha Ocean, S.Korea",2027,S. Korean (Hanwha Shipping LLC),$ 253.0m,LNG dual fuel,intermodal_2025_W07_Intermodal-Report-Week-07-2025.pdf
 2025-02-18,7,,LNG bunkering,4,"18,000 cbm","Hyundai Mipo, S. Korea",2027-2028,Greek (Evalend Shipping),$ 93.0m,LNG dual fuel,intermodal_2025_W07_Intermodal-Report-Week-07-2025.pdf
-2025-02-18,7,,HS Pass/Car Cat,1,"1,500",pax,"Austal Pty,Australia",2028,Swedish (Gotlandsdolaget),$ 174.0m,intermodal_2025_W07_Intermodal-Report-Week-07-2025.pdf
+2025-02-18,7,,HS Pass/Car Cat,1,"1,500 pax","Austal Pty,Australia",2028,Swedish (Gotlandsdolaget),$ 174.0m,"LNG, Hydrogen Ready",intermodal_2025_W07_Intermodal-Report-Week-07-2025.pdf
 2025-02-25,8,,Tanker,2,"158,000 dwt","Hyundai HI, S. Korea",2027-2028,Angolan (Sonangol),$ 95.0m,Scrubber fitted,intermodal_2025_W08_Intermodal-Report-Week-08-2025.pdf
 2025-02-25,8,,Container,14,"11,400 teu","Zhoushan Changhong, China",2027-2029,Greek (TMS Group),$ 140.0m,LNG dual fuel,intermodal_2025_W08_Intermodal-Report-Week-08-2025.pdf
 2025-02-25,8,,Container,4+4,"21,700 teu","Zhoushan Changhong, China",2028-2029,Swiss (MSC),$ 220.0m,LNG dual fuel,intermodal_2025_W08_Intermodal-Report-Week-08-2025.pdf
 2025-02-25,8,,LNG bunkering,2,"20,000 cbm","Ningbo Xinle, China",2027,Hong Kong (Sea Kapital),undisclosed,LNG dual fuel,intermodal_2025_W08_Intermodal-Report-Week-08-2025.pdf
 2025-02-25,8,,LNG bunkering,1,"7,800 cbm","RMK Marine Shipyard, Turkey",2027,"Swedish (Sirius Shipping, Gasum JV)",undisclosed,"LNG, Battery-Hybrid",intermodal_2025_W08_Intermodal-Report-Week-08-2025.pdf
 2025-02-25,8,,General Cargo,1,"7,800 dwt","Huanghai Shipbuilding, China",2027,Norwegian (Skarv Shipping),undisclosed,"ammonia fuel, self unloading",intermodal_2025_W08_Intermodal-Report-Week-08-2025.pdf
-2025-02-25,8,,CSV,1,,,"Sefine Shipyard,Turkey",2027,"Norwegian (Eidesvik Offshore, Agalas, Reach Subsea JV)",undisclosed,intermodal_2025_W08_Intermodal-Report-Week-08-2025.pdf
+2025-02-25,8,,CSV,1,,"Sefine Shipyard,Turkey",2027,"Norwegian (Eidesvik Offshore, Agalas, Reach Subsea JV)",undisclosed,"methanol, battery hybrid system",intermodal_2025_W08_Intermodal-Report-Week-08-2025.pdf
 2025-02-25,8,,MPP/Hvy Lift,4,"62,000 dwt","CMJL Nanjing, China",2027,Chinese (CMB Leasing),undisclosed,,intermodal_2025_W08_Intermodal-Report-Week-08-2025.pdf
 2025-03-04,9,,Bulker,2,"64,000 dwt","Jiangsu Haitong, China",2027,Chinese (Ningbo Marine),$ 37.0m,Exercise of option,intermodal_2025_W09_Intermodal-Report-Week-09-2025.pdf
 2025-03-04,9,,Tanker,9,"158,000 dwt","Samsung HI, S. Korea",2027-2028,Greek (Tsakos),$ 146.5m,DP2 shuttle tankers,intermodal_2025_W09_Intermodal-Report-Week-09-2025.pdf
@@ -1124,55 +1124,55 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2025-03-11,10,,Tanker,4,"13,800 dwt","Taizhou Kouan, China",2026-2027,"Chinese/Singaporean (Xintong Shipping, XT IMC JV)",$22.3m-$23.4m,"Stainless steel chemical tankers, price excluding tax",intermodal_2025_W10_Intermodal-Report-Week-10-2025.pdf
 2025-03-11,10,,Tanker,2,"13,000 dwt","Nantong Rainbow, China",2027-2028,German (John T. Essberger),undisclosed,"Exercise of option, stainless steel chemical tankers ICE 1A, methanol ready",intermodal_2025_W10_Intermodal-Report-Week-10-2025.pdf
 2025-03-11,10,,VLEC,2,"100,000 cbm","Hyundai HI, S. Korea",2028,Malaysian (MISC),$ 158.5m,Dual-fuel ethane propulsion engines,intermodal_2025_W10_Intermodal-Report-Week-10-2025.pdf
-2025-03-11,10,,Deck Cargo,2+2,"33,000 dwt","Dalian Shipbuilding, China",2027,Japanese (NYK Bulk\&Projects),$ 50.0m,,intermodal_2025_W10_Intermodal-Report-Week-10-2025.pdf
-2025-03-18,11,,Bulker,2,"210,000 dwt","CSBC, Taiwan",2027,Taiwanese (Chinese Maritime Transport),$ 76.0m - $ 79.8m,"Exercise of option, Scrubber Fitted, Ammonia\&LNG Ready, Tier III Nox",intermodal_2025_W11_Intermodal-Report-Week-11-2025.pdf
+2025-03-11,10,,Deck Cargo,2+2,"33,000 dwt","Dalian Shipbuilding, China",2027,Japanese (NYK Bulk&Projects),$ 50.0m,,intermodal_2025_W10_Intermodal-Report-Week-10-2025.pdf
+2025-03-18,11,,Bulker,2,"210,000 dwt","CSBC, Taiwan",2027,Taiwanese (Chinese Maritime Transport),$ 76.0m - $ 79.8m,"Exercise of option, Scrubber Fitted, Ammonia&LNG Ready, Tier III Nox",intermodal_2025_W11_Intermodal-Report-Week-11-2025.pdf
 2025-03-18,11,,Container,2,"8,400 teu","GSI, China",2028,German (Peter Dohle Schiffahrts),$ 125.0m,Exercise of option,intermodal_2025_W11_Intermodal-Report-Week-11-2025.pdf
 2025-03-18,11,,Container,2,"1,900 teu","Huangpu Wenchong, China",2027,German (Eldbeich Reederei),$ 32.3m,Exercise of option,intermodal_2025_W11_Intermodal-Report-Week-11-2025.pdf
 2025-03-18,11,,General Cargo,4,"5,900 dwt","Jiangsu Dajin HI, China",2026-2027,German (Oskar Wehr),undisclosed,,intermodal_2025_W11_Intermodal-Report-Week-11-2025.pdf
 2025-03-26,12,,Bulker,2,"39,000 dwt","Naikai Zosen Setoda, Japan",2027,Taiwanese (Wisdom Marine Group),$ 35.4m,,intermodal_2025_W12_Intermodal-Report-Week-12-2025.pdf
-2025-03-26,12,,Tanker,2,,,"Hanwha Ocean, S.Korea",2027,Greek (Capital),$ 125.0m,intermodal_2025_W12_Intermodal-Report-Week-12-2025.pdf
+2025-03-26,12,,Tanker,2,,"Hanwha Ocean, S.Korea",2027,Greek (Capital),$ 125.0m,VLCCs,intermodal_2025_W12_Intermodal-Report-Week-12-2025.pdf
 2025-03-26,12,,VLEC,2,"100,000 cbm","Samsung HI, S. Korea",2027-2028,Japanese (MOL),$ 160.2m,"Ethane dual fuelled, Against TC to Siam Cement",intermodal_2025_W12_Intermodal-Report-Week-12-2025.pdf
 2025-03-26,12,,Ro/Ro,3,"2,300",vehicles,"Mitsubishi HI, Japan",2028,"Japanese (Toyofuji Shipping, Miyazaki Sangyo, Nichitoku Kisen)",,intermodal_2025_W12_Intermodal-Report-Week-12-2025.pdf
 2025-04-01,13,,Tanker,6,"25,000 dwt","CMJL Yangzhou, China",2028-2029,Belgian (CMB.Tech),undisclosed,"Stainless Steel Oil/Chemical tankers, Ammonia - Ammonia Ready",intermodal_2025_W13_Intermodal-Report-Week-13-2025.pdf
 2025-04-01,13,,Containership,1+5,"1,138 teu","Jiangsu Qinfeng, China",2026-2027,Chinese (Jiangsu Lvhang Logisitics),undisclosed,LNG fuelled,intermodal_2025_W13_Intermodal-Report-Week-13-2025.pdf
 2025-04-01,13,,LNG bunkering,2+2,"20,000 cbm","Huangpu Wenchong, China",2027-2028,Singapore (SFI Energy),$ 90.0m,LNG fuelled,intermodal_2025_W13_Intermodal-Report-Week-13-2025.pdf
 2025-04-01,13,,Offshore,1,"70,000 dwt","GSI, China",2027,Chinese (COSCO Specialized Carriers),undisclosed,Semi-submersible heavylift carrier,intermodal_2025_W13_Intermodal-Report-Week-13-2025.pdf
-2025-04-01,13,,Cruiseship,2,,,"Fincantieri, Italy",2030-2032,German (TUI Cruises),$1.08 billion,intermodal_2025_W13_Intermodal-Report-Week-13-2025.pdf
+2025-04-01,13,,Cruiseship,2,,"Fincantieri, Italy",2030-2032,German (TUI Cruises),$1.08 billion,,intermodal_2025_W13_Intermodal-Report-Week-13-2025.pdf
 2025-04-08,14,,Bulker,2,"180,000 dwt","Qingdao Beihai SB, China",2027-2028,Taiwanese (U-Ming),$ 75m-$ 79m,Scrubber fitted,intermodal_2025_W14_Intermodal-Report-Week-14-2025.pdf
 2025-04-08,14,,Tanker,2,"320,000 dwt","Hanwha Ocean, S.Korea",2027,Greek (Capital),$ 128.5m,Scrubber fitted,intermodal_2025_W14_Intermodal-Report-Week-14-2025.pdf
-2025-04-08,14,,Tanker,4,,,"Samsung HI, S. Korea",2028,Greek (Centrofin),$ 81.3m,intermodal_2025_W14_Intermodal-Report-Week-14-2025.pdf
+2025-04-08,14,,Tanker,4,,"Samsung HI, S. Korea",2028,Greek (Centrofin),$ 81.3m,Suezmax oil carriers,intermodal_2025_W14_Intermodal-Report-Week-14-2025.pdf
 2025-04-08,14,,Tanker,1,"310,000 dwt","Nihon Shipyard, Japan",2028,Japanese (NYK),undisclosed,Methanol fueled,intermodal_2025_W14_Intermodal-Report-Week-14-2025.pdf
 2025-04-08,14,,Containership,6,"8,800 teu","Hyundai Samho, S. Korea",2027-2028,Greek (Capital),$ 140.0m,LNG dual fuel,intermodal_2025_W14_Intermodal-Report-Week-14-2025.pdf
 2025-04-08,14,,Containership,6,"1,800 teu","Hyundai Mipo, S. Korea",2027-2028,Greek (Capital),$ 45.0m,Scrubber fitted,intermodal_2025_W14_Intermodal-Report-Week-14-2025.pdf
 2025-04-08,14,,Containership,8,"2,800 teu","Hyundai Mipo, S. Korea",2027-2028,Greek (Capital),$ 55.0m,Scrubber fitted,intermodal_2025_W14_Intermodal-Report-Week-14-2025.pdf
 2025-04-08,14,,Gas Carrier,1,"180,000 cbm","Hyundai Samho, S. Korea",2027,UK-based (Purus Marine),$ 261.8m,LNG fueled,intermodal_2025_W14_Intermodal-Report-Week-14-2025.pdf
-2025-04-08,14,,OCSV,1,,,"Vard, Norway",2027,Taiwanese (Dong Fang),$ 126.0m,intermodal_2025_W14_Intermodal-Report-Week-14-2025.pdf
-2025-04-08,14,,Cruiseship,2,,,"Fincantieri, Italy",2030-2031,German (AIDA Cruises),$ 1.1 billion,intermodal_2025_W14_Intermodal-Report-Week-14-2025.pdf
-2025-04-08,14,,Ro/Pax,2+2,"3,500",lane meters,"GSI, China",2027,Swiss (MSC),$ 160.0m,intermodal_2025_W14_Intermodal-Report-Week-14-2025.pdf
+2025-04-08,14,,OCSV,1,,"Vard, Norway",2027,Taiwanese (Dong Fang),$ 126.0m,Subsea operation duties,intermodal_2025_W14_Intermodal-Report-Week-14-2025.pdf
+2025-04-08,14,,Cruiseship,2,,"Fincantieri, Italy",2030-2031,German (AIDA Cruises),$ 1.1 billion,"LNG capable, 2,100 cabins",intermodal_2025_W14_Intermodal-Report-Week-14-2025.pdf
+2025-04-08,14,,Ro/Pax,2+2,"3,500 lane meters","GSI, China",2027,Swiss (MSC),$ 160.0m,LNG dual fueled,intermodal_2025_W14_Intermodal-Report-Week-14-2025.pdf
 2025-04-15,15,,Bulker,4,"40,000 dwt","Jingjiang Nanyang, China",2027-2028,Singaporean (YZJ Financial),$ 30.0m,,intermodal_2025_W15_Intermodal-Report-Week-15-2025.pdf
 2025-04-15,15,,Tanker,2,"26,000 dwt","Asakawa Shipbuilding, Japan",2027-2028,Singaporean (Jaldhi Overseas),undisclosed,Stainless Steel chemical tanker,intermodal_2025_W15_Intermodal-Report-Week-15-2025.pdf
 2025-04-15,15,,Tanker,1,"20,000 dwt","Fukuoka Shipbuilding, Japan",2027-2028,Singaporean (Jaldhi Overseas),undisclosed,Stainless Steel chemical tanker,intermodal_2025_W15_Intermodal-Report-Week-15-2025.pdf
 2025-04-15,15,,LNG bunkering,1,"20,000 cbm","CIMC Sinopacific Offshore, China",2027,Belgian (Somtrans),undisclosed,,intermodal_2025_W15_Intermodal-Report-Week-15-2025.pdf
-2025-04-15,15,,RoPax,6,"3,300",lane meters,"CMI Weihai, China",2028-2030,Italian (Grimaldi),$ 1.3 billion,intermodal_2025_W15_Intermodal-Report-Week-15-2025.pdf
-2025-04-15,15,,RoPax,3,"5,100",lane meters,"CMI Weihai, China",2028-2030,Italian (Grimaldi),,intermodal_2025_W15_Intermodal-Report-Week-15-2025.pdf
+2025-04-15,15,,RoPax,6,"3,300 lane meters","CMI Weihai, China",2028-2030,Italian (Grimaldi),$ 1.3 billion,"Scrubber fitted, methanol ready, battery hybrid, to operate under Grimaldi Lines and Minoan Lines",intermodal_2025_W15_Intermodal-Report-Week-15-2025.pdf
+2025-04-15,15,,RoPax,3,"5,100 lane meters","CMI Weihai, China",2028-2030,Italian (Grimaldi),,"Scrubber fitted, methanol ready, battery hybrid, to operate under Finnlines",intermodal_2025_W15_Intermodal-Report-Week-15-2025.pdf
 2025-04-15,15,,OSV,1+3,"1,600 dwt","Jiangmen Hantong, China",2027,UK (Sentinel Marine),undisclosed,375 sq m of deck space,intermodal_2025_W15_Intermodal-Report-Week-15-2025.pdf
 2025-04-29,17,,Bulker,1,"63,300 dwt","Tsuneishi Zhoushan, China",2027,Chinese (Seacon),$ 38.3m,,intermodal_2025_W17_Intermodal-Report-Week-17-2025.pdf
 2025-04-29,17,,Tanker,2,"320,000 dwt","Hanwha Ocean, S.Korea",2027,Swiss (Advantage Tankers),$ 126.5m,LNG ready,intermodal_2025_W17_Intermodal-Report-Week-17-2025.pdf
 2025-04-29,17,,Tanker,2,"159,000 dwt","New Times, China",2028,Greek (Dynacom),$ 80.0m,Scrubber fitted,intermodal_2025_W17_Intermodal-Report-Week-17-2025.pdf
-2025-04-29,17,,Tanker,2,"50,000 dwt","K SB Jinhae, China",2027,Greek (Steelships),undisclosed,"Oil\&Chemical, LNG ready, methanol ready",intermodal_2025_W17_Intermodal-Report-Week-17-2025.pdf
+2025-04-29,17,,Tanker,2,"50,000 dwt","K SB Jinhae, China",2027,Greek (Steelships),undisclosed,"Oil&Chemical, LNG ready, methanol ready",intermodal_2025_W17_Intermodal-Report-Week-17-2025.pdf
 2025-04-29,17,,Containership,10,"22,000 teu","Hengli HI Dalian, China",2028-2029,Swiss (MSC),undisclosed,LNG,intermodal_2025_W17_Intermodal-Report-Week-17-2025.pdf
 2025-04-29,17,,Containership,2,"16,000 teu","Hyundai Samho, S. Korea",2028,Taiwanese (Wan Hai Lines),$ 196.1m,Methanol Ready,intermodal_2025_W17_Intermodal-Report-Week-17-2025.pdf
 2025-04-29,17,,Containership,2,"16,000 teu","Samsung HI, S. Korea",2028,Taiwanese (Wan Hai Lines),$ 187.6m - $ 204m,Methanol Ready,intermodal_2025_W17_Intermodal-Report-Week-17-2025.pdf
 2025-04-29,17,,Containership,2,"2,800 teu","Hyundai Mipo, S. Korea",2027,Singaporean (Sea Consortium),$ 56.0m,,intermodal_2025_W17_Intermodal-Report-Week-17-2025.pdf
 2025-04-29,17,,Containership,2,"1,800 teu","Huanghai Shipbuilding, China",2028,Chinese (SITC),$ 29.0m,Exercise of option,intermodal_2025_W17_Intermodal-Report-Week-17-2025.pdf
 2025-04-29,17,,LNG bunkering,1,"20,000 cbm","Jiangnan Shipyard, China",2027,Chinese (SIPG Energy),undisclosed,"LNG, NOx Tier III",intermodal_2025_W17_Intermodal-Report-Week-17-2025.pdf
-2025-04-29,17,,Cable Layer,1,139,loa,"Nantong Xiangyu, China",2027,Chinese (ZTT),undisclosed,intermodal_2025_W17_Intermodal-Report-Week-17-2025.pdf
+2025-04-29,17,,Cable Layer,1,139 loa,"Nantong Xiangyu, China",2027,Chinese (ZTT),undisclosed,Fully electric powered,intermodal_2025_W17_Intermodal-Report-Week-17-2025.pdf
 2025-05-06,18,,Bulker,2,"64,100 dwt","New Dayang, China",2028,Japanese (Kasuga Kaiun),$ 35.0m,,intermodal_2025_W18_Intermodal-Report-Week-18-2025.pdf
 2025-05-06,18,,Containership,6,"18,500 teu","Dalian Cosco KHI, China",2028-2029,Hong Kong (OOCL),$ 220.0m,Methanol fuelled,intermodal_2025_W18_Intermodal-Report-Week-18-2025.pdf
 2025-05-06,18,,Containership,8,"18,500 teu","Nantong Cosco KHI, China",2028-2029,Hong Kong (OOCL),$ 220.0m,Methanol fuelled,intermodal_2025_W18_Intermodal-Report-Week-18-2025.pdf
 2025-05-06,18,,Containership,6,"11,400 teu","Shanghai Waigaoqiao, China",2027-2028,Canadian (Seaspan),undisclosed,Scrubber fitted,intermodal_2025_W18_Intermodal-Report-Week-18-2025.pdf
 2025-05-06,18,,LPG,1,"39,200 cbm","Hyundai Mipo, S. Korea",2027,Guatemalan (Western Energy),undisclosed,,intermodal_2025_W18_Intermodal-Report-Week-18-2025.pdf
-2025-05-06,18,,CSOV,1,,,"Vard, Norway",2027,Taiwanese (Dong Fang),undisclosed,intermodal_2025_W18_Intermodal-Report-Week-18-2025.pdf
+2025-05-06,18,,CSOV,1,,"Vard, Norway",2027,Taiwanese (Dong Fang),undisclosed,Exercise of option,intermodal_2025_W18_Intermodal-Report-Week-18-2025.pdf
 2025-05-13,19,,Bulker,3,"210,000 dwt","Nantong Xiangyu, China",2028,Japanese (Doun Kisen),$ 75.0m-$ 76.0m,,intermodal_2025_W19_Intermodal-Report-Week-19-2025.pdf
 2025-05-13,19,,Bulker,2,"209,800 dwt","Qingdao Beihai SB, China",2027,Chinese (COSCO Shipping Bulk),undisclosed,"Ammonia ready, methanol ready",intermodal_2025_W19_Intermodal-Report-Week-19-2025.pdf
 2025-05-13,19,,Bulker,1,"64,000 dwt","Imabari, Japan",2027,Greek (Meadway Bulkers),$ 38.0m,,intermodal_2025_W19_Intermodal-Report-Week-19-2025.pdf
@@ -1220,9 +1220,9 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2025-06-17,24,,Bulker,1,"64,000 dwt","Imabari, Japan",2028,Greek (DryDel),undisclosed,Tier III-compliant engine,intermodal_2025_W24_Intermodal-Report-Week-24-2025.pdf
 2025-06-17,24,,Bulker,2,"4,000 dwt","Gelibolu Shipyard, Turkey",2027,Norwegian (More Sjo),undisclosed,"Hydrogen powered, one of the vessels to be chartered to Nordasfalt",intermodal_2025_W24_Intermodal-Report-Week-24-2025.pdf
 2025-06-17,24,,Containership,2,"1,100 teu","New Dayang, China",2027,Chinese (Shanghai Minsheng Shipping),$ 23.0m,Tier II,intermodal_2025_W24_Intermodal-Report-Week-24-2025.pdf
-2025-06-17,24,,LNG,2+2,,,"Jiangnan Shipyard, China",2028,Greek (GasLog),$ 230.0m,intermodal_2025_W24_Intermodal-Report-Week-24-2025.pdf
+2025-06-17,24,,LNG,2+2,,"Jiangnan Shipyard, China",2028,Greek (GasLog),$ 230.0m,,intermodal_2025_W24_Intermodal-Report-Week-24-2025.pdf
 2025-06-17,24,,LNG bunkering,1,"20,000 cbm","Nantong CIMC, China",2027,European (Undisclosed),undisclosed,LNG fuel,intermodal_2025_W24_Intermodal-Report-Week-24-2025.pdf
-2025-06-17,24,,RoPax,4,,,"CMI Weihai Shipyard, China",2029-2031,Canadian (BC Ferries),undisclosed,intermodal_2025_W24_Intermodal-Report-Week-24-2025.pdf
+2025-06-17,24,,RoPax,4,,"CMI Weihai Shipyard, China",2029-2031,Canadian (BC Ferries),undisclosed,"Hybrid, diesel-electric",intermodal_2025_W24_Intermodal-Report-Week-24-2025.pdf
 2025-06-24,25,,VLOC,10,"325,000 dwt","Qingdao Beihai, China",2027-2029,Chinese (Shandong Marine),$ 130.0m,Methanol dual-fuel,intermodal_2025_W25_Intermodal-Report-Week-25-2025.pdf
 2025-06-24,25,,Tanker,6,"159,000 dwt","New Times, China",2028,Greek (Dynacom),$ 78.0m - $ 79.0m,"scrubber fitted, LNG ready",intermodal_2025_W25_Intermodal-Report-Week-25-2025.pdf
 2025-06-24,25,,Tanker,2,"158,000 dwt","HD Hyundai, S. Korea",2027,Greek (Evalend Shipping),$ 89.0m,,intermodal_2025_W25_Intermodal-Report-Week-25-2025.pdf
@@ -1247,7 +1247,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2025-07-15,28,,Tanker,1,"320,000 dwt","Hanwha Ocean, S.Korea",2027,Swiss based (Advantage Tankers),$ 129.7m,"Option exercise, scrubber fitted",intermodal_2025_W28_Intermodal-Report-Week-28-2025.pdf
 2025-07-15,28,,Containership,2+2,"3,100 teu","New Dayang, China",2028,Greek (Chartworld),$ 42.0m,,intermodal_2025_W28_Intermodal-Report-Week-28-2025.pdf
 2025-07-15,28,,Ammonia Bunkering,1,"5,000 cbm","Sasaki Shipbuilding, Japan",2027,Japanese (Itochu),$ 34.0m,,intermodal_2025_W28_Intermodal-Report-Week-28-2025.pdf
-2025-07-15,28,,Research,1,,,"Vard, Norway",2028,US based (Inkfish),$ 234.0m,intermodal_2025_W28_Intermodal-Report-Week-28-2025.pdf
+2025-07-15,28,,Research,1,,"Vard, Norway",2028,US based (Inkfish),$ 234.0m,"Submersible support, ROV, hybrid",intermodal_2025_W28_Intermodal-Report-Week-28-2025.pdf
 2025-07-22,29,,Bulker,2,"210,400 dwt","Qingdao Beihai, China",2027-2028,Chinese (CSSC Shipping),$ 73.5m,,intermodal_2025_W29_Intermodal-Report-Week-29-2025.pdf
 2025-07-22,29,,Tanker,2+2,"158,000 dwt","Hengli SB Dalian, China",2028,Singapore based (Eastern Pacific),$ 90.0m,LNG fuel,intermodal_2025_W29_Intermodal-Report-Week-29-2025.pdf
 2025-07-22,29,,Containership,4,"22,000 teu","Shanghai Waigaoqiao, China",2028,Swiss based (MSC),undisclosed,LNG dual fuel,intermodal_2025_W29_Intermodal-Report-Week-29-2025.pdf
@@ -1264,10 +1264,10 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2025-07-29,30,,Containership,2+2,"1,800 teu","Yangzijiang Shipbuilding, China",2027-2028,Greek (Minerva Marine),$ 30.0m - $ 33.0m,,intermodal_2025_W30_Intermodal-Report-Week-30-2025.pdf
 2025-07-29,30,,Containership,2+2,"1,800 teu","Huanghai Shipbuilding, China",2027-2028,Greek (Minerva Marine),$ 30.0m - $ 33.0m,,intermodal_2025_W30_Intermodal-Report-Week-30-2025.pdf
 2025-07-29,30,,Containership,2+2,"1,100 teu","Yangzijiang Shipbuilding, China",2027,S. Korean (CK Line),$ 23.0m,,intermodal_2025_W30_Intermodal-Report-Week-30-2025.pdf
-2025-07-29,30,,Offshore,6,Loa 20m 30 pax,,"Efinor Allais, France",2026,French (Bourbon),undisclosed,intermodal_2025_W30_Intermodal-Report-Week-30-2025.pdf
-2025-07-29,30,,Passenger,2,Loa 129m,,"Incat Tasmania, Australia",2027,Danish (Molslinjen),,intermodal_2025_W30_Intermodal-Report-Week-30-2025.pdf
-2025-07-29,30,,CSOV,1+1,Loa 85.1m,,"Vard Tulcea, Romania",2028-2029,Undisclosed,undisclosed,intermodal_2025_W30_Intermodal-Report-Week-30-2025.pdf
-2025-07-29,30,,CSOV,1,Loa 85.1m,,"Vard Vung Tao, Vietnam",2028-2029,Undisclosed,undisclosed,intermodal_2025_W30_Intermodal-Report-Week-30-2025.pdf
+2025-07-29,30,,Offshore,6,Loa 20m 30 pax,"Efinor Allais, France",2026,French (Bourbon),undisclosed,Crew transfer vessels,intermodal_2025_W30_Intermodal-Report-Week-30-2025.pdf
+2025-07-29,30,,Passenger,2,Loa 129m,"Incat Tasmania, Australia",2027,Danish (Molslinjen),,"Batteries, 1,500 pax, 500 cars",intermodal_2025_W30_Intermodal-Report-Week-30-2025.pdf
+2025-07-29,30,,CSOV,1+1,Loa 85.1m,"Vard Tulcea, Romania",2028-2029,Undisclosed,undisclosed,"Methanol ready, battery hybrid, wind turbine support and installation",intermodal_2025_W30_Intermodal-Report-Week-30-2025.pdf
+2025-07-29,30,,CSOV,1,Loa 85.1m,"Vard Vung Tao, Vietnam",2028-2029,Undisclosed,undisclosed,"Methanol ready, battery hybrid, wind turbine support and installation",intermodal_2025_W30_Intermodal-Report-Week-30-2025.pdf
 2025-08-05,31,,Tanker,2,"319,000 dwt","Jiangsu New Hantong, China",2027,Swiss based (Trafigura),undisclosed,conventional fuelled,intermodal_2025_W31_Intermodal-Report-Week-31-2025.pdf
 2025-08-05,31,,Tanker,2,"320,000 dwt","Hanwha Ocean, South Korean",2027-2028,Greek (Tsakos Energy Navigation),$ 128.5m,,intermodal_2025_W31_Intermodal-Report-Week-31-2025.pdf
 2025-08-05,31,,Tanker,2,"9,000 dwt","Fujian Mawei, China",2027,Chinese (Cosco),201.5 CNY,asphalt & bitumen carriers,intermodal_2025_W31_Intermodal-Report-Week-31-2025.pdf
@@ -1343,8 +1343,8 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2025-09-30,39,,Container,2,"2,800 teu","HD KSOE, S. Korea",2027,Greek (Capital),$ 56.9m,Scrubber fitted,intermodal_2025_W39_Intermodal-Report-Week-39-2025.pdf
 2025-09-30,39,,Container,1,"1,800 teu","HD KSOE, S. Korea",2027,Greek (Capital),$ 45.0m,,intermodal_2025_W39_Intermodal-Report-Week-39-2025.pdf
 2025-09-30,39,,MPP,4+2,"7,500 dwt","Garden Reach, India",2028-2029,German (Carsten Rehder),$ 15.6m,Methanol ready,intermodal_2025_W39_Intermodal-Report-Week-39-2025.pdf
-2025-09-30,39,,Cable Layer,1,123,loa,"PaxOcean, Singapore",2028,Belgian (DEME),undisclosed,intermodal_2025_W39_Intermodal-Report-Week-39-2025.pdf
-2025-09-30,39,,TSV,1,,,"China Merchants Heavy Industry, China",2027,Greek (Asso Subsea),undisclosed,intermodal_2025_W39_Intermodal-Report-Week-39-2025.pdf
+2025-09-30,39,,Cable Layer,1,123 loa,"PaxOcean, Singapore",2028,Belgian (DEME),undisclosed,"Methanol ready, battery hybrid",intermodal_2025_W39_Intermodal-Report-Week-39-2025.pdf
+2025-09-30,39,,TSV,1,,"China Merchants Heavy Industry, China",2027,Greek (Asso Subsea),undisclosed,"Methanol ready, battery hybrid",intermodal_2025_W39_Intermodal-Report-Week-39-2025.pdf
 2025-10-07,40,,Bulker,2,"210,000 dwt","Qingdao Beihai SB, China",2028,Taiwanese (CMT),$ 76m - $ 79.8m,"Methanol, LNH and ammonia ready",intermodal_2025_W40_Intermodal-Report-Week-40-2025.pdf
 2025-10-07,40,,Bulker,6,"62,823 dwt","IMI, Saudi Arabia",2028-2029,Saudi Arabian (Bahri Dry Bulk),$ 33.8m,,intermodal_2025_W40_Intermodal-Report-Week-40-2025.pdf
 2025-10-07,40,,Tanker,2,"157,000 dwt","Samsung HI, S. Korea",2028,Greek (New Shipping),undisclosed,Scrubber fitted,intermodal_2025_W40_Intermodal-Report-Week-40-2025.pdf
@@ -1371,7 +1371,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2025-10-21,42,,Containership,2,"8,800 teu","DH Shipbuilding, S. Korea",2028,Japanese (Doun Kisen),$ 105.5m,Scrubber fitted,intermodal_2025_W42_Intermodal-Report-Week-42-2025.pdf
 2025-10-21,42,,Containership,2+2,"1,900 teu","CSSC Guangzhou Huangpu Wenchong, China",2027,Greek (Alberta),undisclosed,,intermodal_2025_W42_Intermodal-Report-Week-42-2025.pdf
 2025-10-21,42,,Containership,6,"1,700 teu","Cochin Shipyard, India",2029-2031,French (CMA CGM),$ 50.0m,LNG dual fuel,intermodal_2025_W42_Intermodal-Report-Week-42-2025.pdf
-2025-10-21,42,,RoPax,2,"1,500",pax,"Guangzhou Shipyard International, China",2029,New Zealander (KiwiRail),undisclosed,intermodal_2025_W42_Intermodal-Report-Week-42-2025.pdf
+2025-10-21,42,,RoPax,2,"1,500 pax","Guangzhou Shipyard International, China",2029,New Zealander (KiwiRail),undisclosed,,intermodal_2025_W42_Intermodal-Report-Week-42-2025.pdf
 2025-10-29,43,,Bulker,2,"210,000 dwt","Taizhou Kouan, China",2029,Chinese (Huarong Leasing),$ 71.0m,Against TC contracts,intermodal_2025_W43_Intermodal-Report-Week-43-2025.pdf
 2025-10-29,43,,Bulker,2,"180,000 dwt","Hengli Shipbuilding, China",2026,Greek (Capital),$ 73.0m - $ 75.0m,,intermodal_2025_W43_Intermodal-Report-Week-43-2025.pdf
 2025-10-29,43,,Bulker,1,"180,000 dwt","Hengli Shipbuilding, China",2027,Greek (Seanergy),$ 73.0m - $ 75.0m,,intermodal_2025_W43_Intermodal-Report-Week-43-2025.pdf
@@ -1404,7 +1404,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2025-11-11,45,,Containership,8+6,"4,500 teu","Yantai Raffles CIMC, China",undisclosed,German (Hapag-Lloyd),$ 70.0m,Methanol dual fuel,intermodal_2025_W45_Intermodal-Report-Week-45-2025.pdf
 2025-11-11,45,,Containership,6+4,"3,500 teu","Taizhou Sanfu, China",undisclosed,German (Hapag-Lloyd),$ 60.0m,Methanol dual fuel,intermodal_2025_W45_Intermodal-Report-Week-45-2025.pdf
 2025-11-11,45,,Containership,3,550 teu,"Shandong Xinneng, China",2027,Chinese (Dexinxiangyun Shpg),undisclosed,LNG capable,intermodal_2025_W45_Intermodal-Report-Week-45-2025.pdf
-2025-11-11,45,,Cruise ship,1,"77,000",grt,"Fincantieri, Italy",2033,US (NCL),undisclosed,intermodal_2025_W45_Intermodal-Report-Week-45-2025.pdf
+2025-11-11,45,,Cruise ship,1,"77,000 grt","Fincantieri, Italy",2033,US (NCL),undisclosed,,intermodal_2025_W45_Intermodal-Report-Week-45-2025.pdf
 2025-11-18,46,,Bulker,2+2,"211,000 dwt","CMI Qingdao, China",Greek-Indian JV (Global Chartering),$ 74.0m,,,intermodal_2025_W46_Intermodal-Report-Week-46-2025.pdf
 2025-11-18,46,,Bulker,4+10,"210,000 dwt","DSIC, China",Chinese (Cosco Shipping Bulk),$ 77.0m,Ammonia/methanol ready,,intermodal_2025_W46_Intermodal-Report-Week-46-2025.pdf
 2025-11-18,46,,Bulker,1,"64,000 dwt","New Dayang Shipbuilding, China",undisclosed,Greek (JME Navigation),$ 33.5m,,intermodal_2025_W46_Intermodal-Report-Week-46-2025.pdf
@@ -1416,8 +1416,8 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2025-11-18,46,,Containership,2,"7,100 teu","DSIC, China",2027-2028,German (Asiatic Lloyd),$ 91.0m,Against TC to Hapag-Lloyd,intermodal_2025_W46_Intermodal-Report-Week-46-2025.pdf
 2025-11-18,46,,Containership,4+2,"4,500 teu","Jiangsu Hantong, China",2028,German (MPC Container Ships),$ 58.0m,Against 10-year TC contract,intermodal_2025_W46_Intermodal-Report-Week-46-2025.pdf
 2025-11-18,46,,Gas Carrier,3+3,"174,000 cbm","Hudong-Zhonghua Shipbuilding, China",2029,Nigerian (Bonny Gas Transport),undisclosed,,intermodal_2025_W46_Intermodal-Report-Week-46-2025.pdf
-2025-11-18,46,,Cruise ship,2,,,"Chantiers de l'Atlantique, France",2030-2031,Swiss (MSC),"$ 2,025.0m",intermodal_2025_W46_Intermodal-Report-Week-46-2025.pdf
-2025-11-18,46,,Cable Layer,2,,,"Colombo Dockyard, Sri Lanka",2028-2029,French (Orange Marine),undisclosed,intermodal_2025_W46_Intermodal-Report-Week-46-2025.pdf
+2025-11-18,46,,Cruise ship,2,,"Chantiers de l'Atlantique, France",2030-2031,Swiss (MSC),"$ 2,025.0m",LNG fuel,intermodal_2025_W46_Intermodal-Report-Week-46-2025.pdf
+2025-11-18,46,,Cable Layer,2,,"Colombo Dockyard, Sri Lanka",2028-2029,French (Orange Marine),undisclosed,Hybrid,intermodal_2025_W46_Intermodal-Report-Week-46-2025.pdf
 2025-11-25,47,,Bulker,3,"82,000 dwt","Hengli Shipbuilding, China",2027,Greek (Oceanbulk),undisclosed,,intermodal_2025_W47_Intermodal-Report-Week-47-2025_compressed.pdf
 2025-11-25,47,,Bulker,1,"9,400 dwt","Royal Bodewes, Netherlands",2027,Norwegian (Aasen Shipping),undisclosed,Hybrid,intermodal_2025_W47_Intermodal-Report-Week-47-2025_compressed.pdf
 2025-11-25,47,,Tanker,4,"320,000 dwt","Hanwha Ocean, S. Korea",2028,Greek (Maran Tankers),$ 129.0m,,intermodal_2025_W47_Intermodal-Report-Week-47-2025_compressed.pdf
@@ -1429,15 +1429,15 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2025-11-25,47,,Containership,2+2,"2,900 teu","Fujian Mawei Shipbuilding, China",2028,Taiwanese (TS Lines),$ 40.0m,,intermodal_2025_W47_Intermodal-Report-Week-47-2025_compressed.pdf
 2025-11-25,47,,Gas Carrier,2,"174,000 cbm","Huyndai Samho, S. Korea",2028,Norwegian (BW LNG),$ 254.1m,,intermodal_2025_W47_Intermodal-Report-Week-47-2025_compressed.pdf
 2025-11-25,47,,VLEC,3+3,"100,000 cbm","Jiangnan Shipyard, China",2028-2029,Canadian (Seaspan),$ 149.0m,Against TC to Chinese state owned oil company,intermodal_2025_W47_Intermodal-Report-Week-47-2025_compressed.pdf
-2025-11-25,47,,Passenger,2,,,"GSI Nansha, China",2029,New Zealander (Ferry Holdings),undisclosed,intermodal_2025_W47_Intermodal-Report-Week-47-2025_compressed.pdf
+2025-11-25,47,,Passenger,2,,"GSI Nansha, China",2029,New Zealander (Ferry Holdings),undisclosed,Battery Hybrid,intermodal_2025_W47_Intermodal-Report-Week-47-2025_compressed.pdf
 2025-12-02,48,,VLOC,2,"325,000 dwt","Hengli Shipbuilding, China",2027-2028,Singapore based (Winning International),undisclosed,"Methanol ready, scrubber fitted",intermodal_2025_W48_Intermodal-Report-Week-48-2025.pdf
 2025-12-02,48,,Tanker,4,"306,000 dwt","Hengli Shipbuilding, China",2027-2028,Singapore based (Eastern Pacific),$ 118.0m,,intermodal_2025_W48_Intermodal-Report-Week-48-2025.pdf
 2025-12-02,48,,Tanker,2,"158,000 dwt","Hengli Shipbuilding, China",2027-2028,Singapore based (Eastern Pacific),$ 90.0m,LNG dual fuel,intermodal_2025_W48_Intermodal-Report-Week-48-2025.pdf
 2025-12-02,48,,Tanker,2+2,"41,000 dwt","Yangzhou Guoyu Shipbuilding, China",2028,Greek (Super Eco Tankers),$ 40.0m,Product carriers,intermodal_2025_W48_Intermodal-Report-Week-48-2025.pdf
 2025-12-02,48,,Containership,4,"6,000 teu","Hengli Shipbuilding, China",2027-2028,Singapore based (Eastern Pacific),$ 79.0m,,intermodal_2025_W48_Intermodal-Report-Week-48-2025.pdf
 2025-12-02,48,,General Cargo,4,"10,000 dwt","SPG Marine, Singapore",2026-2027,Chinese (Shenzhen Weiqiao),undisclosed,Battery Hybrid,intermodal_2025_W48_Intermodal-Report-Week-48-2025.pdf
-2025-12-02,48,,General Cargo,1,"10,000 dwt","Anhui P\&S Sealand, China",2026,Chinese (Shenzhen Weiqiao),undisclosed,Battery Hybrid,intermodal_2025_W48_Intermodal-Report-Week-48-2025.pdf
-2025-12-02,48,,AHTS,1,50,meters,"Astilleros Gondan, Spain",2028,Norwegian (Ostensjo Rederi),undisclosed,intermodal_2025_W48_Intermodal-Report-Week-48-2025.pdf
+2025-12-02,48,,General Cargo,1,"10,000 dwt","Anhui P&S Sealand, China",2026,Chinese (Shenzhen Weiqiao),undisclosed,Battery Hybrid,intermodal_2025_W48_Intermodal-Report-Week-48-2025.pdf
+2025-12-02,48,,AHTS,1,50 meters,"Astilleros Gondan, Spain",2028,Norwegian (Ostensjo Rederi),undisclosed,"150 tons bollard pull, DP2 system",intermodal_2025_W48_Intermodal-Report-Week-48-2025.pdf
 2025-12-09,49,,VLOC,6,"342,000 dwt","CMI Qingdao, China",2029-2031,German (Neu Seeschiffahrt),undisclosed,"Scrubber fitted, methanol ready",intermodal_2025_W49_Intermodal-Report-Week-49-2025.pdf
 2025-12-09,49,,VLOC,6,"325,000 dwt","Qingdao Beihai SB, China",2028-2030,Singapore based (Winning International),$ 115.0m - $ 116.0m,,intermodal_2025_W49_Intermodal-Report-Week-49-2025.pdf
 2025-12-09,49,,Tanker,4+4,"319,000 dwt","Jiangsu Hantong Ship HI, China",2028,UK (Zodiac),undisclosed,,intermodal_2025_W49_Intermodal-Report-Week-49-2025.pdf
@@ -1449,8 +1449,8 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2025-12-09,49,,Containerships,4,"3,100 teu","Cosco Shipping Heavy Industry Guangdong, China",,Greek (Alpha Bulkers),$ 45.0m,,intermodal_2025_W49_Intermodal-Report-Week-49-2025.pdf
 2025-12-09,49,,Containerships,3,"1,900 teu","Yangzijiang Shipbuilding, China",,Greek (Alpha Bulkers),$ 30.0m,,intermodal_2025_W49_Intermodal-Report-Week-49-2025.pdf
 2025-12-09,49,,VLAC,2,"90,000 cbm","Jiangnan Shipyard, China",2028,Chinese (Tianjin Southwest Maritime),$ 114.5m,,intermodal_2025_W49_Intermodal-Report-Week-49-2025.pdf
-2025-12-09,49,,Ferry,1,,,"Senesco Marine, USA",2029,US (Delaware River & Bay Authority),$ 78.6m,intermodal_2025_W49_Intermodal-Report-Week-49-2025.pdf
-2025-12-09,49,,Cruise ship,8,,,"CMHI Jiangsu, China",2028,Swiss (United Waterways),undisclosed,intermodal_2025_W49_Intermodal-Report-Week-49-2025.pdf
+2025-12-09,49,,Ferry,1,,"Senesco Marine, USA",2029,US (Delaware River & Bay Authority),$ 78.6m,Diesel hybrid,intermodal_2025_W49_Intermodal-Report-Week-49-2025.pdf
+2025-12-09,49,,Cruise ship,8,,"CMHI Jiangsu, China",2028,Swiss (United Waterways),undisclosed,Battery Hybrid,intermodal_2025_W49_Intermodal-Report-Week-49-2025.pdf
 2025-12-16,50,,Bulker,16,"210,000 dwt","Qingdao Beihai SB, China",2028–2030,Chinese (Cosco Shipping),undisclosed,,intermodal_2025_W50_Intermodal-Report-Week-50-2025.pdf
 2025-12-16,50,,Bulker,22,"87,000 dwt","Chengxi Shipyard, China",2028–2030,Chinese (Cosco Shipping),undisclosed,,intermodal_2025_W50_Intermodal-Report-Week-50-2025.pdf
 2025-12-16,50,,Bulker,4,"82,000 dwt","Hengli Shipbuilding, China",2027–2028,Greek (Aegean Bulk),undisclosed,,intermodal_2025_W50_Intermodal-Report-Week-50-2025.pdf
@@ -1465,8 +1465,8 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2025-12-16,50,,Gas Carrier,1,"174,000 cbm","Hanwha Ocean, S. Korea",2028,Norwegian (Knutsen),undisclosed,Against TC contract to Edison,intermodal_2025_W50_Intermodal-Report-Week-50-2025.pdf
 2025-12-16,50,,VLAC,2,"93,000 cbm","HD Huyndai, S. Korea",2028,Greek (Benelux),$ 120.4m,,intermodal_2025_W50_Intermodal-Report-Week-50-2025.pdf
 2025-12-16,50,,MPP,4,"40,000 dwt","Chengxi Shipyard, China",2028–2030,Chinese (Cosco Shipping),undisclosed,,intermodal_2025_W50_Intermodal-Report-Week-50-2025.pdf
-2025-12-16,50,,RoRo,2,,,"Wuchang SB Group, China",2028–2030,Chinese (Cosco Shipping),undisclosed,intermodal_2025_W50_Intermodal-Report-Week-50-2025.pdf
-2025-12-16,50,,Cruise ship,4+2,"5,400",pax,"Meyer Werft, Germany",2030–2035,Swiss (MSC),$ 1960.0m,intermodal_2025_W50_Intermodal-Report-Week-50-2025.pdf
+2025-12-16,50,,RoRo,2,,"Wuchang SB Group, China",2028–2030,Chinese (Cosco Shipping),undisclosed,,intermodal_2025_W50_Intermodal-Report-Week-50-2025.pdf
+2025-12-16,50,,Cruise ship,4+2,"5,400 pax","Meyer Werft, Germany",2030–2035,Swiss (MSC),$ 1960.0m,,intermodal_2025_W50_Intermodal-Report-Week-50-2025.pdf
 2025-12-23,51,,Bulker,1,"182,000 dwt","Namura Shipbuilding, Japan",2029,Greek (DryDel),undisclosed,Scrubber fitted,intermodal_2025_W51_Intermodal-Report-Week-51-2025.pdf
 2025-12-23,51,,Tanker,1,"319,000 dwt","Qingdao Beihai Shipbuilding, China",2028,Greek (Cape Shipping),$ 119.0m,Scrubber fitted,intermodal_2025_W51_Intermodal-Report-Week-51-2025.pdf
 2025-12-23,51,,Tanker,1,"310,000 dwt","JMU Ariake Shipyard, Japan",2029,Japanese (Kyoei Tanker),undisclosed,,intermodal_2025_W51_Intermodal-Report-Week-51-2025.pdf
@@ -1477,7 +1477,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2025-12-23,51,,Container,6,"3,700 teu","Taizhou Sanfu Ship Engineering, China",2028,Norwegian (MPCC),$ 48.8m,Against 10-year TC contract,intermodal_2025_W51_Intermodal-Report-Week-51-2025.pdf
 2025-12-23,51,,Container,2+2,"1,900 teu","Huangpu Wenchong Shipbuilding, China",undisclosed,Greek (Venergy Maritime),undisclosed,,intermodal_2025_W51_Intermodal-Report-Week-51-2025.pdf
 2025-12-23,51,,Container,2,"1,900 teu","Guangzhou Wenchong Shipyard, China",2027-2028,Vietnamese (Truong Hai),$ 31.0m - $ 32.0m,,intermodal_2025_W51_Intermodal-Report-Week-51-2025.pdf
-2025-12-23,51,,Offshore,2+2,85,tns,"Onex Shipyards, Greece",2026,Greek (MegaTugs Salvage),$ 11.7m,intermodal_2025_W51_Intermodal-Report-Week-51-2025.pdf
+2025-12-23,51,,Offshore,2+2,85 tns,"Onex Shipyards, Greece",2026,Greek (MegaTugs Salvage),$ 11.7m,,intermodal_2025_W51_Intermodal-Report-Week-51-2025.pdf
 2026-01-13,2,,Bulker,2+2,"2 11,000 dwt","Nantong Xiangyu Shipbuilding, China",2028,Swiss (Mercuria Energy),$ 77.5m,,intermodal_2026_W02_Intermodal-Report-Week-02-2026.pdf
 2026-01-13,2,,Bulker,2,"210,000 dwt","Qingdao Beihai HI, China",2029,Chinese (Seacon),$ 75.0m,"Scrubber fitted, EEDI Phase 3, IMO Tier III",intermodal_2026_W02_Intermodal-Report-Week-02-2026.pdf
 2026-01-13,2,,Bulker,2+2,"64,500 dwt","Wuhu Shipyard, China",2028,Turkish (Aqmaris),$ 35.0m,"EEDI Phase 3, IMO Tier III",intermodal_2026_W02_Intermodal-Report-Week-02-2026.pdf
@@ -1533,8 +1533,8 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2026-02-03,5,,Gas Carrier,1+2,"174,000 cbm","HD KSOE, S. Korea",2028,Angolan (Sonangol),$ 250.5m,,intermodal_2026_W05_Intermodal-Report-Week-05-2026.pdf
 2026-02-03,5,,Gas Carrier,4+2,"174,000 cbm","Hudong-Zhonghua, China",undisclosed,Greek (TMS Cardiff Gas),undisclosed,,intermodal_2026_W05_Intermodal-Report-Week-05-2026.pdf
 2026-02-03,5,,MPP,4+4,"17,400 dwt","Jiangsu Haitong Offshore, China",2027-2028,Singapore based (Wealth Holdings),undisclosed,Against TC contract to Norden,intermodal_2026_W05_Intermodal-Report-Week-05-2026.pdf
-2026-02-03,5,,Ro Ro / Cont,2+4,"3,400",lm,"CMI Weihai, China",2029,Swedish (Stena RoRo AB),undisclosed,intermodal_2026_W05_Intermodal-Report-Week-05-2026.pdf
-2026-02-03,5,,Cruise ship,2+4,"3,000",pax,"Chantiers de l'Atlantique, France",2029-2032,US based (Royal Caribbean Cruises),undisclosed,intermodal_2026_W05_Intermodal-Report-Week-05-2026.pdf
+2026-02-03,5,,Ro Ro / Cont,2+4,"3,400 lm","CMI Weihai, China",2029,Swedish (Stena RoRo AB),undisclosed,"Battery hybrid, LNG ready",intermodal_2026_W05_Intermodal-Report-Week-05-2026.pdf
+2026-02-03,5,,Cruise ship,2+4,"3,000 pax","Chantiers de l'Atlantique, France",2029-2032,US based (Royal Caribbean Cruises),undisclosed,,intermodal_2026_W05_Intermodal-Report-Week-05-2026.pdf
 2026-02-10,6,,Bulker,2,"211,000 dwt",undisclosed,2028,Greek (Danaos),undisclosed,,intermodal_2026_W06_Intermodal-Report-Week-06-2026.pdf
 2026-02-10,6,,Tanker,4,"310,000 dwt","Wuhu Shipyard, China",2028,Greek (Navios),$ 118.0m - $ 120.0m,Scrubber fitted,intermodal_2026_W06_Intermodal-Report-Week-06-2026.pdf
 2026-02-10,6,,Tanker,2+2,"307,000 dwt","DSIC, China",2029,Swiss (Mercuria Energy),$ 123.0m,,intermodal_2026_W06_Intermodal-Report-Week-06-2026.pdf
@@ -1556,15 +1556,15 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2026-02-17,7,,Tanker,6,"50,000 dwt","GSI, China",2028,German (Leonhardt & Blumberg),undisclosed,,intermodal_2026_W07_Intermodal-Report-Week-07-2026.pdf
 2026-02-17,7,,Containership,3,"18,600 teu","New Times, China",2029,Danish (Maersk),undisclosed,LNG dual fuel,intermodal_2026_W07_Intermodal-Report-Week-07-2026.pdf
 2026-02-17,7,,Containership,2,"13,000 teu","Samsung HI, S. Korea",2028,Japanese (Mitsui & Co),$ 162.0m,,intermodal_2026_W07_Intermodal-Report-Week-07-2026.pdf
-2026-02-17,7,,Offshore,1,"5,000",hp,"Jiangsu Shunhong, China",2028,Malaysian (Keyfield),$ 18.0m,intermodal_2026_W07_Intermodal-Report-Week-07-2026.pdf
-2026-02-17,7,,Cruise ship,3,,,"Fincantieri, Italy",2036-2037,US based (Norwegian Cruise Line Holdings),$ 633.0m,intermodal_2026_W07_Intermodal-Report-Week-07-2026.pdf
+2026-02-17,7,,Offshore,1,"5,000 hp","Jiangsu Shunhong, China",2028,Malaysian (Keyfield),$ 18.0m,"AHTS, diesel electric engine",intermodal_2026_W07_Intermodal-Report-Week-07-2026.pdf
+2026-02-17,7,,Cruise ship,3,,"Fincantieri, Italy",2036-2037,US based (Norwegian Cruise Line Holdings),$ 633.0m,,intermodal_2026_W07_Intermodal-Report-Week-07-2026.pdf
 2026-02-24,8,,Bulker,2,"64,000 dwt","Nantong COSCO KHI, China",2029,Greek (Almi Marine),undisclosed,,intermodal_2026_W08_Intermodal-Report-Week-08-2026.pdf
 2026-02-24,8,,Tanker,4,"319,000 dwt","Jiangsu Hantong Ship HI, China",2029,UK (Zodiac Maritime),$ 125.0m,,intermodal_2026_W08_Intermodal-Report-Week-08-2026.pdf
 2026-02-24,8,,Tanker,1,"157,000 dwt","Samsung HI, S. Korea",2029,UK (Zodiac Maritime),$ 85.0m,,intermodal_2026_W08_Intermodal-Report-Week-08-2026.pdf
 2026-02-24,8,,Containership,4,"1,900 teu","Yangzijiang Shipbuilding, China",2028-2029,Hong Kong based (Manqiang Shipping),$ 30.0m,,intermodal_2026_W08_Intermodal-Report-Week-08-2026.pdf
 2026-02-24,8,,Gas Carrier,1,"180,000 cbm","Samsung HI, S. Korea",2028,Danish (Celsius Tankers),$ 255.0m,,intermodal_2026_W08_Intermodal-Report-Week-08-2026.pdf
 2026-02-24,8,,General Cargo,4,"8,000 dwt","Wuhu Shipyard, China",undisclosed,Indian (JSW Group),undisclosed,,intermodal_2026_W08_Intermodal-Report-Week-08-2026.pdf
-2026-02-24,8,,Ro Ro,2+2,"1,700",Im,"Yantai CIMC Raffles, China",2028-2029,Finnish (Godby Shipping),undisclosed,intermodal_2026_W08_Intermodal-Report-Week-08-2026.pdf
+2026-02-24,8,,Ro Ro,2+2,"1,700 Im","Yantai CIMC Raffles, China",2028-2029,Finnish (Godby Shipping),undisclosed,,intermodal_2026_W08_Intermodal-Report-Week-08-2026.pdf
 2026-03-03,9,,Bulker,1,"215,000 dwt","Wuhu Shipyard, China",undisclosed,UK based (Union Maritime),$ 75.0m,,intermodal_2026_W09_Intermodal-Report-Week-09-2026.pdf
 2026-03-03,9,,Tanker,1,"306,000 dwt","Hengli Shipbuilding, China",2029-2030,Singapore based (Eastern Pacific),$ 125.0m,Scrubber fitted,intermodal_2026_W09_Intermodal-Report-Week-09-2026.pdf
 2026-03-03,9,,Tanker,1,"158,000 dwt","SWS, China",2028-2029,Greek (Performance Shipping),$ 81.5m,"Scrubber fitted, Tier III",intermodal_2026_W09_Intermodal-Report-Week-09-2026.pdf
@@ -1582,8 +1582,8 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2026-03-10,10,,Containership,2,"9,200 teu","SWS, China",2030,Taiwanese (Wan Hai Lines),$ 102.0m - 112.0m,Methanol ready,intermodal_2026_W10_Intermodal-Report-Week-10-2026.pdf
 2026-03-10,10,,Containership,4,"6,000 teu","Huangpu Wenchong Shipbuilding, China",2030,Taiwanese (Wan Hai Lines),$ 75.2m - $ 82.0m,LNG dual fuel,intermodal_2026_W10_Intermodal-Report-Week-10-2026.pdf
 2026-03-10,10,,Containership,4,"3,100 teu","Zhoushan Changhong, China",2028,Greek (Costamare),undisclosed,Against TC contract,intermodal_2026_W10_Intermodal-Report-Week-10-2026.pdf
-2026-03-10,10,,PCC,2,"3,000",ceu,"China Merchants Jinling, China",2028,Japanese/Swedish (UECC),undisclosed,intermodal_2026_W10_Intermodal-Report-Week-10-2026.pdf
-2026-03-10,10,,Cruise ship,2+2,378,pax,"Fincantieri, Italy",2030-2031,Norwegian (Viking Cruises),$ 1000.0m,intermodal_2026_W10_Intermodal-Report-Week-10-2026.pdf
+2026-03-10,10,,PCC,2,"3,000 ceu","China Merchants Jinling, China",2028,Japanese/Swedish (UECC),undisclosed,"Battery hybrid, LNG capable",intermodal_2026_W10_Intermodal-Report-Week-10-2026.pdf
+2026-03-10,10,,Cruise ship,2+2,378 pax,"Fincantieri, Italy",2030-2031,Norwegian (Viking Cruises),$ 1000.0m,,intermodal_2026_W10_Intermodal-Report-Week-10-2026.pdf
 2026-03-17,11,,Bulker,2,"211,000 dwt","Qingdao Beihai, China",2030,S. Korean (Pan Ocean),$ 77.0m,"Option exercise, LNG/ammonia ready",intermodal_2026_W11_Intermodal-Report-Week-11-2026.pdf
 2026-03-17,11,,Bulker,1,"181,500 dwt","Undisclosed, Japan",2029,Greek (Seanergy),undisclosed,Scrubber fitted,intermodal_2026_W11_Intermodal-Report-Week-11-2026.pdf
 2026-03-17,11,,Bulker,5,"63,500 dwt","Jiangmen Nanyang, China",2028-2029,Swiss (Suisse Atlantique),$ 33.5m,,intermodal_2026_W11_Intermodal-Report-Week-11-2026.pdf
@@ -1630,9 +1630,9 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2026-04-07,14,,Containership,12,"14,000 teu","Hudong Zhonghua, China",undisclosed,Chinese (Cosco Shipping),$ 170.0m - $ 190.0m,LNG dual fuel,intermodal_2026_W14_Intermodal-Report-Week-14-2026.pdf
 2026-04-07,14,,Containership,2,"3,100 teu","Chengxi Shipyard, China",undisclosed,German (Peter Dohle),$ 48.0m,"Capacity for 910 refrigerated containers, EEDI Phase 3",intermodal_2026_W14_Intermodal-Report-Week-14-2026.pdf
 2026-04-07,14,,Containership,10,"1,800 teu","Wuhan Qingshan Shipyard, China",2028-2029,Chinese (Zhonggu Logistics),$ 39.2m,,intermodal_2026_W14_Intermodal-Report-Week-14-2026.pdf
-2026-04-07,14,,VLGC,2,,,"Samsung HI, S. Korea",2029,US based (JP Morgan),$ 113.0m,intermodal_2026_W14_Intermodal-Report-Week-14-2026.pdf
+2026-04-07,14,,VLGC,2,,"Samsung HI, S. Korea",2029,US based (JP Morgan),$ 113.0m,,intermodal_2026_W14_Intermodal-Report-Week-14-2026.pdf
 2026-04-07,14,,LPG,2,"40,000 cbm","HD Huyndai HI, S. Korea",2029,Greek (Byzantine Maritime),$ 79.0m,,intermodal_2026_W14_Intermodal-Report-Week-14-2026.pdf
-2026-04-07,14,,AHTS,2,"2,000",gt,"Jiangmen Hantong, China",2027,Chinese (CNOOC),$ 25.4m,intermodal_2026_W14_Intermodal-Report-Week-14-2026.pdf
+2026-04-07,14,,AHTS,2,"2,000 gt","Jiangmen Hantong, China",2027,Chinese (CNOOC),$ 25.4m,,intermodal_2026_W14_Intermodal-Report-Week-14-2026.pdf
 2026-04-21,16,,Bulker,2,"64,000 dwt","Imabari, Japan",2028-2029,HK based (Pacific Basin),$ 39.2m,,intermodal_2026_W16_Intermodal-Report-Week-16-2026.pdf
 2026-04-21,16,,Tanker,2,"320,000 dwt","Hanwha Ocean, S. Korea",2030,Greek (Stealth Maritime),$ 130.5m,,intermodal_2026_W16_Intermodal-Report-Week-16-2026.pdf
 2026-04-21,16,,Tanker,8,"319,000 dwt","Undisclosed, China",2028-2030,Chinese (Yangzijiang Maritime),$ 123.0m - $ 125.0m,Scrubber fitted,intermodal_2026_W16_Intermodal-Report-Week-16-2026.pdf
@@ -1693,7 +1693,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2026-05-19,20,,Gas Carrier,3,"174,000 cbm","Samsung HI, S. Korea",2029,Canadian (Seapeak),$ 252.0m,"Dual fuel, X-DF",intermodal_2026_W20_Intermodal-Report-Week-20-2026.pdf
 2026-05-19,20,,Gas Carrier,2,"174,000 cbm","HD KSOE, S. Korea",2029,Norewgian (BW LNG),$ 254.0m,Option exercise,intermodal_2026_W20_Intermodal-Report-Week-20-2026.pdf
 2026-05-19,20,,Gas Carrier,2,"174,000 cbm","HD Huyn dai, S. Korea",2029,UK based (Hayfin Capital Management),$ 250.5m,,intermodal_2026_W20_Intermodal-Report-Week-20-2026.pdf
-2026-05-19,20,,PCC,2,"7,000",ceu,"Yantai CIMC Raffles, China",2028,UK based (Zodiac),$ 100.0m,intermodal_2026_W20_Intermodal-Report-Week-20-2026.pdf
+2026-05-19,20,,PCC,2,"7,000 ceu","Yantai CIMC Raffles, China",2028,UK based (Zodiac),$ 100.0m,LNG capable,intermodal_2026_W20_Intermodal-Report-Week-20-2026.pdf
 2026-05-26,21,,Bulker,2,"181,000 dwt","Hengli Shipbuilding, China",2028,Greek (Alpha Bulkers),undisclosed,,intermodal_2026_W21_Intermodal-Report-Week-21-2026.pdf
 2026-05-26,21,,Bulker,2,"82,000 dwt","Nantong Xiangyu Shipbuilding, China",2029,Chinese (Shanghai Time),$ 37.0m,,intermodal_2026_W21_Intermodal-Report-Week-21-2026.pdf
 2026-05-26,21,,Bulker,1,"64,000 dwt","Nantong Xiangyu Shipbuilding, China",2029,Chinese (Shanghai Time),$ 35.0m,,intermodal_2026_W21_Intermodal-Report-Week-21-2026.pdf
@@ -1745,7 +1745,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2026-06-23,25,,Tanker,2,"50,000 dwt","HD Hyundai Mipo, S. Korea",2028,Greek (Metrostar),$ 53.0m,,intermodal_2026_W25_Intermodal-Report-Week-25-2026.pdf
 2026-06-23,25,,Tanker,2+2,"40,500 dwt","Wuhu Shipyard, China",2028-2029,Irish (Ardmore Shipping),$ 44.9m,,intermodal_2026_W25_Intermodal-Report-Week-25-2026.pdf
 2026-06-23,25,,Containership,4,"6,200 teu","CSSC Huangpu Wenchong, China",2029-2030,Greek (Global Ship Lease),$ 85.0m,,intermodal_2026_W25_Intermodal-Report-Week-25-2026.pdf
-2026-06-23,25,,PCC,4,"8,600",ceu,"Xiamen Shipbuilding, China",2028-2029,Cypriot (Sallaum Lines),undisclosed,intermodal_2026_W25_Intermodal-Report-Week-25-2026.pdf
+2026-06-23,25,,PCC,4,"8,600 ceu","Xiamen Shipbuilding, China",2028-2029,Cypriot (Sallaum Lines),undisclosed,"LNG, Ammonia ready",intermodal_2026_W25_Intermodal-Report-Week-25-2026.pdf
 2026-06-30,26,,Bulker,2+2,"211,000 dwt","Jiangsu New Hantong, China",2030,Taiwanese (U-Ming Marine),$ 77.0m - $ 80.0m,Scrubber fitted,intermodal_2026_W26_Intermodal-Report-Week-26-2026.pdf
 2026-06-30,26,,Bulker,2,"64,500 dwt","Jiangsu Dajin HI, China",2030,Turkish (EOS Group),$ 34.0m - $ 35.0m,,intermodal_2026_W26_Intermodal-Report-Week-26-2026.pdf
 2026-06-30,26,,Bulker,2,"40,400 dwt","Jiangsu Dajin HI, China",2028-2029,Turkish (EOS Group),$ 31.0m - $ 32.0m,,intermodal_2026_W26_Intermodal-Report-Week-26-2026.pdf
@@ -1780,9 +1780,9 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2026-07-14,28,,Containership,4,"1,800 teu","China Merchants Shipbuilding, China",2028,Chinese (CMES),undisclosed,,intermodal_2026_W28_Intermodal-Report-Week-28-2026.pdf
 2026-07-14,28,,Gas Carrier,4,"175,000 cbm","Jiangnan Shipyard, China",2029,UAE (Adnoc),$ 225.0m,,intermodal_2026_W28_Intermodal-Report-Week-28-2026.pdf
 2026-07-14,28,,Gas Carrier,2,"90,000 cbm","HD Hyundai HI, S. Korea",2029,UK based (Union Maritime),$ 115.0m - $ 118.0m,Dual fuel,intermodal_2026_W28_Intermodal-Report-Week-28-2026.pdf
-2026-07-14,28,,PCC,6,"8,600",ceu,"China Merchants Jinling, China",2028-2030,Swiss (Global Car Carriers),undisclosed,intermodal_2026_W28_Intermodal-Report-Week-28-2026.pdf
-2026-07-14,28,,PCC,2,"7,000",ceu,"CMHI Weihai, China",2028-2030,Swiss (Global Car Carriers),undisclosed,intermodal_2026_W28_Intermodal-Report-Week-28-2026.pdf
-2026-07-14,28,,PCC,2,"7,000",ceu,"GSI, China",2028-2030,Swiss (Global Car Carriers),undisclosed,intermodal_2026_W28_Intermodal-Report-Week-28-2026.pdf
+2026-07-14,28,,PCC,6,"8,600 ceu","China Merchants Jinling, China",2028-2030,Swiss (Global Car Carriers),undisclosed,LNG dual fuel,intermodal_2026_W28_Intermodal-Report-Week-28-2026.pdf
+2026-07-14,28,,PCC,2,"7,000 ceu","CMHI Weihai, China",2028-2030,Swiss (Global Car Carriers),undisclosed,LNG dual fuel,intermodal_2026_W28_Intermodal-Report-Week-28-2026.pdf
+2026-07-14,28,,PCC,2,"7,000 ceu","GSI, China",2028-2030,Swiss (Global Car Carriers),undisclosed,LNG dual fuel,intermodal_2026_W28_Intermodal-Report-Week-28-2026.pdf
 2026-07-21,29,,Bulker,3+1,"211,000 dwt","Tangshan Dajin Offshore Engineering, China",2029-2030,Greek (Evalend),$ 77.5m,,intermodal_2026_W29_Intermodal-Report-Week-29-2026.pdf
 2026-07-21,29,,Bulker,2,"64,000 dwt","New Dayang Shipbuilding, China",2030,Chinese (Zhejiang Group),undisclosed,,intermodal_2026_W29_Intermodal-Report-Week-29-2026.pdf
 2026-07-21,29,,Bulker,2,"63,500 dwt","Jiansu SOHO, China",2028,Hong Kong based (KC Maritime),$ 35.3m,,intermodal_2026_W29_Intermodal-Report-Week-29-2026.pdf
@@ -1793,10 +1793,10 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2026-07-21,29,,Containership,2,"6,150 teu","Yangzhou Guoyu, China",2028,Chinese (Changhong International Logistics),undisclosed,,intermodal_2026_W29_Intermodal-Report-Week-29-2026.pdf
 2026-07-21,29,,Containership,4,"6,000 teu","Hengli Shipbuilding, China",2028,Greek (Minerva Dry),$ 80.0m,,intermodal_2026_W29_Intermodal-Report-Week-29-2026.pdf
 2026-07-21,29,,Containership,2+2,"1,900 teu","Huangpu Wenchong Shipbuilding, China",2029,Chinese (Erasmus Shipinvest),$ 32.0m,,intermodal_2026_W29_Intermodal-Report-Week-29-2026.pdf
-2026-07-21,29,,Containership,1,"1,719 teu","Chizhou Tianyu Shipbuilding, China",2028,Iranian (Kamal\&Adel),undisclosed,,intermodal_2026_W29_Intermodal-Report-Week-29-2026.pdf
+2026-07-21,29,,Containership,1,"1,719 teu","Chizhou Tianyu Shipbuilding, China",2028,Iranian (Kamal&Adel),undisclosed,,intermodal_2026_W29_Intermodal-Report-Week-29-2026.pdf
 2026-07-21,29,,VLAC,4+3,"90,000 cbm","Jiangnan Shipyard, China",2030,Chinese (CYH Shipping),undisclosed,,intermodal_2026_W29_Intermodal-Report-Week-29-2026.pdf
 2026-07-21,29,,VLAC,3,"90,000 cbm","HD KSOE, S. Korea",2030,Turkish (Ciner Shipping),$ 121.0m,,intermodal_2026_W29_Intermodal-Report-Week-29-2026.pdf
-2026-07-21,29,,PCC,4,"5,700",ceu,"Jiangsu Runyang, China",2028-2029,Hong Kong based (Zhongnan Shipping),undisclosed,intermodal_2026_W29_Intermodal-Report-Week-29-2026.pdf
+2026-07-21,29,,PCC,4,"5,700 ceu","Jiangsu Runyang, China",2028-2029,Hong Kong based (Zhongnan Shipping),undisclosed,,intermodal_2026_W29_Intermodal-Report-Week-29-2026.pdf
 2026-07-28,30,,Bulker,1,"64,000 dwt","New Dayang Shipbuilding, China",2030,Greek (JME Navigation),undisclosed,,intermodal_2026_W30_Intermodal-Report-Week-30-2026.pdf
 2026-07-28,30,,Bulker,2,"42,500 dwt","Tsuneishi Zhoushan, China",2028-2030,Chinese (Seacon Shipping),$ 33.0m,,intermodal_2026_W30_Intermodal-Report-Week-30-2026.pdf
 2026-07-28,30,,Tanker,2,"319,000 dwt","Qingdao Beihai, China",2030,S. Korean (Pan Ocean),$ 122.3m,Ammonia ready,intermodal_2026_W30_Intermodal-Report-Week-30-2026.pdf
@@ -1814,7 +1814,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2026-08-04,31,,Containership,2+2,"6,400 teu","Huangpu Wenchong Shipbuilding, China",2029,S. Korean (CK Line),undisclosed,,intermodal_2026_W31_Intermodal-Report-Week-31-2026.pdf
 2026-08-04,31,,Containership,6,"4,600 teu","Hengli HI, China",2028-2029,Chinese (Zhenghe Mainline),$ 72.0m,,intermodal_2026_W31_Intermodal-Report-Week-31-2026.pdf
 2026-08-04,31,,Containership,2+4,"1,300 teu","Guangji XinNeng, China",2028,Norwegian (Songa Box),undisclosed,,intermodal_2026_W31_Intermodal-Report-Week-31-2026.pdf
-2026-08-04,31,,PCC,1+1,"8,600",ceu,"CMJL Nanjing, China",2029,Cyprus based (Sallaum Lines),undisclosed,intermodal_2026_W31_Intermodal-Report-Week-31-2026.pdf
+2026-08-04,31,,PCC,1+1,"8,600 ceu","CMJL Nanjing, China",2029,Cyprus based (Sallaum Lines),undisclosed,LNG/Ammonia Ready,intermodal_2026_W31_Intermodal-Report-Week-31-2026.pdf
 2026-08-18,33,,Bulker,4,"82,000 dwt","Jiangsu Watts Energy, China",2028,Chinese (Amoysailing Maritime),undisclosed,,intermodal_2026_W33_Intermodal-Report-Week-33-2026.pdf
 2026-08-18,33,,Bulker,2,"64,000 dwt","Nantong Xiangyu Shipbuilding, China",2029,Greek (Goldenport Shipmanagement),$ 35.0m,,intermodal_2026_W33_Intermodal-Report-Week-33-2026.pdf
 2026-08-18,33,,Bulker,2,"40,000 dwt","Imabari Shipbuilding, Japan",2030,Singaporean (Uni Asia),$ 31.0m,,intermodal_2026_W33_Intermodal-Report-Week-33-2026.pdf
@@ -1828,7 +1828,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2026-08-18,33,,Containership,6,"11,000 teu","SWS, China",2029-2030,Taiwanese (Wan Hai Lines),$ 118.0m - $ 124.0m,LNG/methanol ready,intermodal_2026_W33_Intermodal-Report-Week-33-2026.pdf
 2026-08-18,33,,Containership,1,696 teu,"Ningbo Xinle, China",2028,Indonesian/Japanese (Blue Ocean Shipping),undisclosed,,intermodal_2026_W33_Intermodal-Report-Week-33-2026.pdf
 2026-08-25,34,,Tanker,4,"73,500 dwt","Yangzijiang Shipbuilding, China",2029,Greek (Evalend),$ 55.0m,,intermodal_2026_W34_Intermodal-Report-Week-34-2026.pdf
-2026-08-25,34,,Tanker,4+2,"28,000 dwt","Zhoushan Ningshing, China",2028-2029,Chinese (JV YZ) Maritime/Taihua Shipmanagement),$ 45.0m - $ 46.0m,Stainless steel,intermodal_2026_W34_Intermodal-Report-Week-34-2026.pdf
+2026-08-25,34,,Tanker,4+2,"28,000 dwt","Zhoushan Ningshing, China",2028-2029,Chinese (JV YZJ Maritime/Taihua Shipmanagement),$ 45.0m - $ 46.0m,Stainless steel,intermodal_2026_W34_Intermodal-Report-Week-34-2026.pdf
 2026-08-25,34,,Containership,2,"6,400 teu","Hengli Shipbuilding, China",2028,Greek (Centrofin),undisclosed,,intermodal_2026_W34_Intermodal-Report-Week-34-2026.pdf
 2026-08-25,34,,Containership,2+2,"5,300 teu","CSSC Huangpu Wenchong, China",2029-2030,Chinese (Asean Seas Line),undisclosed,Methanol ready,intermodal_2026_W34_Intermodal-Report-Week-34-2026.pdf
 2026-08-25,34,,Containership,4,"1,900 teu","Wuchang SB Group, China",2028-2029,Chinese (Ningbo Ocean),$ 30.0m,,intermodal_2026_W34_Intermodal-Report-Week-34-2026.pdf
@@ -1850,17 +1850,17 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2026-09-01,35,,Containership,4,"3,100 teu","Hengli HI, China",2028,Greek (Thenamaris),$ 46.0m,,intermodal_2026_W35_Intermodal-Report-Week-35-2026.pdf
 2026-09-01,35,,Gas Carrier,2,"175,000 cbm","Jiangnan Shipyard, China",2029,UAE (Adnoc),$ 222.0m,"Option exercise, against TC",intermodal_2026_W35_Intermodal-Report-Week-35-2026.pdf
 2026-09-01,35,,Gas Carrier,3,"88,000 cbm","Hanwha Ocean, S. Korea",2030,Greek (Dorian LPG),$ 116.0m,,intermodal_2026_W35_Intermodal-Report-Week-35-2026.pdf
-2026-09-01,35,,PCC,6+4,"9,100",ceu,"CMHI Jiangsu, China",2029-2031,Norwegian (Hoegh Autoliners),undisclosed,intermodal_2026_W35_Intermodal-Report-Week-35-2026.pdf
+2026-09-01,35,,PCC,6+4,"9,100 ceu","CMHI Jiangsu, China",2029-2031,Norwegian (Hoegh Autoliners),undisclosed,LNG dual fuel,intermodal_2026_W35_Intermodal-Report-Week-35-2026.pdf
 2026-09-08,36,,Bulker,2,"210,000 dwt","New Times Shipbuilding, China",2030,S. Korean (H-Line),$ 94.0m,"LNG dual fuel, against TC with Posco",intermodal_2026_W36_Intermodal-Report-Week-36-2026.pdf
 2026-09-08,36,,Bulker,10,"80,000 dwt","Chengxi Shipyard, China",2029-2030,Chinese (CSSC HK Shipping),$ 48.1m,"Grain carriers, against TC with Cofco International",intermodal_2026_W36_Intermodal-Report-Week-36-2026.pdf
-2026-09-08,36,,Bulker,6+4,"64,500 dwt","Jingjiang Nanyang, China",2029,Chinese (YZ) Maritime,$ 36.0m,,intermodal_2026_W36_Intermodal-Report-Week-36-2026.pdf
+2026-09-08,36,,Bulker,6+4,"64,500 dwt","Jingjiang Nanyang, China",2029,Chinese (YZJ Maritime),$ 36.0m,,intermodal_2026_W36_Intermodal-Report-Week-36-2026.pdf
 2026-09-08,36,,Tanker,6+2,"115,000 dwt","SK Oceanplant, S. Korea",2030,Greek (Sea Pioneer),$ 71.6m,,intermodal_2026_W36_Intermodal-Report-Week-36-2026.pdf
-2026-09-08,36,,Tanker,2,"49,800 dwt","Qidong Qianyao HI, China",2030,Chinese (YZ) Maritime,undisclosed,Methanol ready,intermodal_2026_W36_Intermodal-Report-Week-36-2026.pdf
+2026-09-08,36,,Tanker,2,"49,800 dwt","Qidong Qianyao HI, China",2030,Chinese (YZJ Maritime),undisclosed,Methanol ready,intermodal_2026_W36_Intermodal-Report-Week-36-2026.pdf
 2026-09-08,36,,Tanker,4,"50,000 dwt","Chengxi Shipyard, China",2029-2030,Cyprus based (Schoeller Holdings),$ 45.0m,,intermodal_2026_W36_Intermodal-Report-Week-36-2026.pdf
 2026-09-08,36,,Tanker,2,"49,500 dwt","GSI, China",2029,German (Leonhardt & Blumberg),undisclosed,,intermodal_2026_W36_Intermodal-Report-Week-36-2026.pdf
 2026-09-08,36,,Containership,6,"13,650 teu","Hanwha Ocean, S. Korea",2028-2029,Taiwanese (Yang Ming Marine),$ 188.9m,LNG/Ammonia ready,intermodal_2026_W36_Intermodal-Report-Week-36-2026.pdf
 2026-09-08,36,,Containership,2+2,"1,800 teu","CMHI Wuhan Qingshan, China",2028-2029,Turkish (Bayraktar),$ 32.0m,,intermodal_2026_W36_Intermodal-Report-Week-36-2026.pdf
-2026-09-08,36,,PCTC,10,"8,200",ceu,"GSI, China",2028-2031,UK based (Ray Car Carriers),$ 100.0m,intermodal_2026_W36_Intermodal-Report-Week-36-2026.pdf
+2026-09-08,36,,PCTC,10,"8,200 ceu","GSI, China",2028-2031,UK based (Ray Car Carriers),$ 100.0m,LNG dual fuel,intermodal_2026_W36_Intermodal-Report-Week-36-2026.pdf
 2026-09-15,37,,Bulker,4,"210,000 dwt","New Times Shipbuilding, China",2030,S. Korean (Wooyang),undisclosed,"Against 25-year TC with Vale, Ethanol/Methanol ready, scrubber fitted",intermodal_2026_W37_Intermodal-Report-Week-37-2026.pdf
 2026-09-15,37,,Bulker,1,"40,300 dwt","Imabari Shipbuilding, Japan",2030,Turkish (GSD Shipping),undisclosed,,intermodal_2026_W37_Intermodal-Report-Week-37-2026.pdf
 2026-09-15,37,,Tanker,2,"306,000 dwt","Hengli Heavy Industries, China",2029,Greek (Dynacom),undisclosed,,intermodal_2026_W37_Intermodal-Report-Week-37-2026.pdf
@@ -1892,8 +1892,8 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2026-09-29,39,,Containership,4,"10,100 teu","HJ Shipbuilding, S. Korea",2029,Greek (Navios),$ 122.0m,"Against TC contract & Scrubber fitted, methanol ready",intermodal_2026_W39_Intermodal-Report-Week-39-2026.pdf
 2026-09-29,39,,Containership,4,"3,100 teu","CSSC Huangpu Wenchong, China",2029-2030,Thai (RCL),$ 57.0m,,intermodal_2026_W39_Intermodal-Report-Week-39-2026.pdf
 2026-09-29,39,,Gas Carrier,2,"174,000 cbm","Hanwha Ocean, S. Korea",2029,UK (Zodiac Maritime),$ 250.0m,,intermodal_2026_W39_Intermodal-Report-Week-39-2026.pdf
-2026-09-29,39,,RoRo,2,"6,700",ceu,"HD Hyundai, S. Korea",2029,Luxembourg based (CLdN),$ 121.5m,intermodal_2026_W39_Intermodal-Report-Week-39-2026.pdf
-2026-09-29,39,,Passenger,2,"1,400",pax,"CMI Weihai, China",2030,Swedish (Stena RoRo AB),undisclosed,intermodal_2026_W39_Intermodal-Report-Week-39-2026.pdf
+2026-09-29,39,,RoRo,2,"6,700 ceu","HD Hyundai, S. Korea",2029,Luxembourg based (CLdN),$ 121.5m,"LNG powered, hybrid battery system",intermodal_2026_W39_Intermodal-Report-Week-39-2026.pdf
+2026-09-29,39,,Passenger,2,"1,400 pax","CMI Weihai, China",2030,Swedish (Stena RoRo AB),undisclosed,"Methanol ready, battery hybrid",intermodal_2026_W39_Intermodal-Report-Week-39-2026.pdf
 2026-10-06,40,,Bulker,1,"211,000 dwt","Tangshan Dajin Offshore Engineering, China",2029-2030,Greek (Evalend),$ 77.5m,"scrubber fitted, option exercise",intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
 2026-10-06,40,,Bulker,4,"64,500 dwt","Taizhou Sanfu Ship Engineering, China",2030-2031,Thai (Precious Shipping),$ 35.5m,,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
 2026-10-06,40,,Bulker,3,"64,500 dwt","COSCO HI Zhoushan, China",2030,Greek (Almi Marine),undisclosed,,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
@@ -1901,7 +1901,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2026-10-06,40,,Tanker,4,"157,000 dwt","Penglai Zhongbai Jinglu Shipyard, China",2029-2030,Singaporean (X-Press Feeders),undisclosed,scrubber fitted,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
 2026-10-06,40,,Tanker,1,"157,000 dwt","New Times Shipbuilding, China",2029,Greek (Akrotiri Tankers),$ 84.4m,,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
 2026-10-06,40,,Tanker,2,"114,000 dwt","Jiangsu New Hantong, China",2029,Monaco Based (Scorpio Tankers),$ 72.8m,scrubber fitted,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
-2026-10-06,40,,Tanker,6+2,"114,000 dwt","Jiangsu Haifeng Shipbuilding, China",2029-2030,Chinese (YZ) Maritime),undisclosed,,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
+2026-10-06,40,,Tanker,6+2,"114,000 dwt","Jiangsu Haifeng Shipbuilding, China",2029-2030,Chinese (YZJ Maritime),undisclosed,,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
 2026-10-06,40,,Tanker,2,"114,000 dwt","Imabari Shipbuilding, Japan",2029-2030,Greek (Carlova Maritime),undisclosed,,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
 2026-10-06,40,,Containership,2,"1,900 teu","CSSC Huangpu Wenchong, China",2029,Chinese (Erasmus Shipinvest),$ 32.0m,,intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
 2026-10-06,40,,Containership,10+20,"1,324 teu",Hubei Guangji Green Energy Shipbuilding,2029,Greek (Contships),$ 28.0m,"340 reefer plugs, Tier III NOx",intermodal_07_10_2026_intermodal_weekly_market_report_week_40_2026_broker_s_insi.pdf
@@ -1915,7 +1915,7 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2026-10-13,41,,Tanker,4,"50,000 dwt","GSI Nansha, China",2029-2030,Greek (Top Ships),undisclosed,,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
 2026-10-13,41,,Gas Carrier,2,"93,000 cbm","Hengli Shipbuilding, China",2028,Bermuda based (SFL Corporation),$ 108.0m,LPG/Ammonia,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
 2026-10-13,41,,Gas Carrier,3,"90,000 cbm","Hengli Shipbuilding, China",2029,UAE (Adnoc),$ 108.0m,,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
-2026-10-13,41,,PCC,2,"7,100",ceu,"Yantai CIMC Raffles, China",2030,Norwegian (NOCC),undisclosed,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
+2026-10-13,41,,PCC,2,"7,100 ceu","Yantai CIMC Raffles, China",2030,Norwegian (NOCC),undisclosed,,intermodal_14_10_2026_intermodal_weekly_market_report_week_41_2026_broker_s_insi.pdf
 2026-10-20,42,,Bulker,11,"87,000 dwt","Xiamen Shipbuilding, China & Fujian Mawei Shipbuilding, China",2029-2030,Chinese (ICBC Leasing),$ 50.0m,"Grain Carriers, against T/C contract with Cosco",intermodal_21_10_2026_intermodal_weekly_market_report_week_42_2026_broker_s_insi.pdf
 2026-10-20,42,,Bulker,3,"87,000 dwt","Xiamen Shipbuilding, China & Fujian Mawei Shipbuilding, China",2029-2030,Chinese (Zheyin Leasing),$ 50.0m,"Grain Carriers, against T/C contract with Cosco",intermodal_21_10_2026_intermodal_weekly_market_report_week_42_2026_broker_s_insi.pdf
 2026-10-20,42,,Bulker,2,"87,000 dwt","Xiamen Shipbuilding, China & Fujian Mawei Shipbuilding, China",2029-2030,Chinese (Yongying Financial Leasing),$ 50.0m,"Grain Carriers, against T/C contract with Cosco",intermodal_21_10_2026_intermodal_weekly_market_report_week_42_2026_broker_s_insi.pdf
@@ -1928,4 +1928,4 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2026-10-20,42,,Containership,2,"3,200 teu","Hengli Heavy Industries, China",2028,Greek (Tsakos),$ 48.0m,Scrubber fitted,intermodal_21_10_2026_intermodal_weekly_market_report_week_42_2026_broker_s_insi.pdf
 2026-10-20,42,,Gas Carrier,5,"174,000 cbm","Hudong Zhonghua, China",2030,Malaysian (MISC),undisclosed,LNG,intermodal_21_10_2026_intermodal_weekly_market_report_week_42_2026_broker_s_insi.pdf
 2026-10-20,42,,Gas Carrier,4,"93,000 cbm","HD Hyundai HI, S. Korea",2030,Turkish (BGN International),$ 116.7m,LPG,intermodal_21_10_2026_intermodal_weekly_market_report_week_42_2026_broker_s_insi.pdf
-2026-10-20,42,,Offshore,2+4,84,loa,"Fujian Mawei Shipyard, China",2028,UK based (UVO),undisclosed,intermodal_21_10_2026_intermodal_weekly_market_report_week_42_2026_broker_s_insi.pdf
+2026-10-20,42,,Offshore,2+4,84 loa,"Fujian Mawei Shipyard, China",2028,UK based (UVO),undisclosed,PSV,intermodal_21_10_2026_intermodal_weekly_market_report_week_42_2026_broker_s_insi.pdf

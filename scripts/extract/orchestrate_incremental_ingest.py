@@ -414,6 +414,14 @@ def extract_star_asia(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
                                fe.COLS, fe.KEY)
         except Exception as e:  # no Nace key / Nace down: the MD and table series still land
             print(f"  [WARN] star asia ferrous scrap skipped for {pdf_path.stem}: {e}")
+        # bunker prices and exchange rates, read from the PDF text layer (dates from the MD written above)
+        import run_star_asia_bunker_fx as bfx
+        got = bfx.rows_for_pdf(pdf_path)
+        if got:
+            upsert_rows_to_csv(SERIES_DIR / "star_asia_bunker_series.csv", got[0], bfx.BUNKER_COLS,
+                               ["issue_date", "port", "grade"])
+            upsert_rows_to_csv(SERIES_DIR / "star_asia_fx_series.csv", got[1], bfx.FX_COLS,
+                               ["issue_date", "currency_pair"])
 
     return {
         "stem": pdf_path.stem,

@@ -219,14 +219,14 @@ The newbuilding market activity was healthy last week, with 20 firm orders and 6
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 | Tanker | 157,000 | dwt | New Times, China | Greek (Polembros Shipping) | undisclosed | LNG Ready, Scrubber-fitted |
-| 2 | Tanker | 156,000 | dwt | New Times, China | Greek (Capital) | $ 87.0m | LNG dual-fuelled |
-| 2+2 | Tanker | 50,000 | dwt | GSI, China | Danish (Hafnia Tankers) | undisclosed | methanol dual-fuelled |
-| 2 | Bulker | 82,000 | dwt | Chengxi, China | Chinese (Guangdong Yudean) | $ 35.5m |  |
-| 1 | Bulker | 42,200 | dwt | Tsuneishi Zhoushan, China | Taiwanese (Wisdom Marine Group) | $ 34.0m |  |
-| 4 | Bulker | 12,500 | dwt | Nantong CIMC, China | Chinese (China Changhang) | undisclosed | LNG dual-fuelled |
-| 2+2 | LNG | 174,000 | cbm | Samsung HI, S. Korea | US Based (Chevron) | $ 254.5m | air lubrication, shaft generator |
-| 4+2 | PCTC | 7,500 | teu | CMHI, China | Swiss based (Sallaum Lines) | $ 90.0m |  |
+| 2 | Tanker | 157,000 dwt | New Times, China | 2025 | Greek (Polembros Shipping) | undisclosed | LNG Ready, Scrubber-fitted |
+| 2 | Tanker | 156,000 dwt | New Times, China | 2027 | Greek (Capital) | $ 87.0m | LNG dual-fuelled |
+| 2+2 | Tanker | 50,000 dwt | GSI, China | 2026 | Danish (Hafnia Tankers) | undisclosed | methanol dual-fuelled |
+| 2 | Bulker | 82,000 dwt | Chengxi, China | 2027 | Chinese (Guangdong Yudean) | $ 35.5m |  |
+| 1 | Bulker | 42,200 dwt | Tsuneishi Zhoushan, China | 2026 | Taiwanese (Wisdom Marine Group) | $ 34.0m |  |
+| 4 | Bulker | 12,500 dwt | Nantong CIMC, China | 2024-2025 | Chinese (China Changhang) | undisclosed | LNG dual-fuelled |
+| 2+2 | LNG | 174,000 cbm | Samsung HI, S. Korea | 2027-2028 | US Based (Chevron) | $ 254.5m | air lubrication, shaft generator |
+| 4+2 | PCTC | 7,500 teu | CMHI, China | 2026 | Swiss based (Sallaum Lines) | $ 90.0m |  |
 
 ---
 
@@ -235,16 +235,16 @@ The newbuilding market activity was healthy last week, with 20 firm orders and 6
 The demolition market remained tight with only 3 vessels being sold for scrap. Bangladesh has ratified the Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships (HKC), becoming the 21st country to do so, which means that the convention will become binding when the Marshall Islands or Liberia also adopt the HKC. In India, a cyclone (amidst the monsoon season) hit the region and activity has been limited over the past week. On the macro front, there is renewed optimism for the country's future as economic growth stands at 7.2%. Prices remain at the same level as there has been no new tonnage available. Pakistan is out of the market and one of the main reasons is the country's steel demand, which is minimal to zero. The IMF was not happy with the new budget proposal, so an agreement to release funds to the country looks highly unlikely for now. The central bank kept interest rates on hold at 21%. In Bangladesh, a reduced number of vessels for scrapping meant that Bangladeshi scrappers were forced to offer higher prices, with the opening of the LC still limited. The monsoon season also contributes to lower volumes as shipyards operate at reduced capacity. The coming weeks also appear to be softer as the country anticipates the Bakrid holiday and the monsoon season continues. Finally, Turkey is in a similar position to Pakistan with minimal to no activity. Scrap prices are softening, and the local currency is hitting new highs every week. It remains to be seen what the central bank's position will be.
 
 ## Indicative Demolition Prices ($/ldt)
-| Markets | 16/06/23 | 09/06/23 | ±% | YTD High | YTD Low | 2022 | 2021 | 2020 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Tanker | Bangladesh | 590 | 590 | 0.0% | 615 | 515 | 601 | 542 |
-|  | India | 550 | 550 | 0.0% | 570 | 555 | 593 | 519 |
-|  | Pakistan | 520 | 520 | 0.0% | 540 | 535 | 596 | 536 |
-|  | Turkey | 340 | 340 | 0.0% | 340 | 330 | 314 | 284 |
-| Dry Bulk | Bangladesh | 575 | 575 | 0.0% | 600 | 505 | 590 | 532 |
-|  | India | 530 | 530 | 0.0% | 540 | 520 | 583 | 508 |
-|  | Pakistan | 500 | 500 | 0.0% | 520 | 500 | 587 | 526 |
-|  | Turkey | 330 | 330 | 0.0% | 285 | 275 | 304 | 276 |
+| Markets |  | 16/06/23 | 09/06/23 | ±% | YTD High | YTD Low | 2022 | 2021 | 2020 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tanker | Bangladesh | 590 | 590 | 0.0% | 615 | 515 | 601 | 542 | 348 |
+|  | India | 550 | 550 | 0.0% | 570 | 555 | 593 | 519 | 348 |
+|  | Pakistan | 520 | 520 | 0.0% | 540 | 535 | 596 | 536 | 352 |
+|  | Turkey | 340 | 340 | 0.0% | 340 | 330 | 314 | 284 | 207 |
+| Dry Bulk | Bangladesh | 575 | 575 | 0.0% | 600 | 505 | 590 | 532 | 336 |
+|  | India | 530 | 530 | 0.0% | 540 | 520 | 583 | 508 | 335 |
+|  | Pakistan | 500 | 500 | 0.0% | 520 | 500 | 587 | 526 | 338 |
+|  | Turkey | 330 | 330 | 0.0% | 285 | 275 | 304 | 276 | 198 |
 
 ## Currencies
 | Markets | Current | Previous | ±% | YTD High |

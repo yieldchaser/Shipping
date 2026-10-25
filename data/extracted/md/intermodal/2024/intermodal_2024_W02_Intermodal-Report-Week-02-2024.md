@@ -195,9 +195,20 @@ The market for newbuildings seems to start picking up with all sectors having fi
 | Gas | MGC LPG 55k cbm |  | 92.0 | 91.5 | 0.5% | 92.0 | 91.5 | 92.0 | 62.0 | 85 | 74 | 67 |
 | Gas | SGC LPG 25k cbm |  | 58.5 | 58.0 | 0.9% | 58.5 | 58.0 | 58.5 | 40.0 | 56 | 51 | 45 |
 
-## Indicative Period Charters
+## Newbuilding Orders
 
-_No period fixtures reported._
+| Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 15 | Tanker | 50,000 dwt | Hyundai Mipo, S. Korea | 2026 | Indonesian (Pertamina) | undisclosed |  |
+| 2 | Tanker | 8,000 dwt | Scheepswerf Ferus Smit, Netherlands | 2026-2027 | Swedish (Erik Thun) | undisclosed | battery-capable |
+| 2 | Bulker | 85,000 dwt | Chengxi, China | 2026 | Hong Kong (Commerce Shipping) | \$ 42.0m | methanol dual fuel |
+| 1 | Bulker | 82,000 dwt | Oshima, Japan | 2026 | Greek (Safe Bulkers) | \$ 40.0m |  |
+| 4 | Bulker | 82,000 dwt | Chengxi, China | 2028 | Chinese (Foremost Group) | undisclosed | methanol ready |
+| 2 | MPP | 5,100 dwt | Scheepswerf Ferus Smit, Netherlands | 2026-2027 | Swedish (Erik Thun) | undisclosed | ice-class 1B |
+| 2 | Container | 1,250 teu | Huangpu Wenchong, China | undisclosed | German (Elbdeich Reederei) | undisclosed | options declared, methanol ready |
+| 8 | LNG | 271,000 cbm | Hudong Zhonghua, China | 2028/2029 | Qatari (Qatar Energy) | undisclosed |  |
+| 2 | LNG | 174,000 cbm | Hyundai Samho, S. Korea | 2027 | Qatari (Nikalat) | undisclosed |  |
+| 4 | VLGC | 88,000 cbm | Hyundai Samho, S. Korea | 2027 | Qatari (Nikalat) | undisclosed |  |
 
 ---
 

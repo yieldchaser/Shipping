@@ -14,6 +14,10 @@ Issue: Week 48 | Tuesday 06<sup>th</sup> December 2022
 
 China's coal imports from January to October were 230.1m mt, a decrease of around 10.7% y-o-y (2021 totalled 323.2m mt). The question is if this negative momentum will remain in 2023, pressuring the Dry Baltic index. While the easing of Chinese Covid strict policies which coupled with the 70% coal reliance of North China for its heating boiler amidst the upcoming colder winter can trigger a demand boost for coal, we will focus on some adverse fundamentals which point to pessimistic expectations for its 2023 seaborne coal imports.
 
+Domestic coal output on a rise. Chinese total coal output of 4.12 billion mt in 2021 contributed around 92% of its total consumptions with 2021 imports standing at 323 million mt. In 2022, domestic production during the first three quarters stood 3.32 billion mt, an increase of +14% compared to 2021 first 3 quarters while the 2022 October output of 370m mt is up by +13m mt compared to October 2021 output. While coal represents almost 55% of China’s energy consumption and half of coal plant expansions (+197GW) are attributed to China, a growth of around 27% of its domestic coal mining capacity could cover this increase in demand. Indeed, 559m mt of coal mines are under construction and proposed as of January 2022 in China, representing 29% of the global share followed by Australia, India, and Russia. In the short-term, a shift in local production is strengthened by policymakers' decision to support national foreign reserves while the appreciation of US\$ is leading to higher coal prices for Chinese power plants thus diminishing their profit margin. In addition to that, amidst the current geopolitical tension and its effect on global trade with increases materializing across all the energy commodities globally, we believe that China will keep focusing on its national power security by keeping its inventory levels high through its local production. Indeed, current levels standing at 326.7 million mt as of the end of September which is +45% above the historical average of 225m mt and +217m mt compared to the same period last year. Covid-zero Policy will determine the growth of coal demand which however remains subdued. While Covid-19 policy relaxation has begun we do not expect that a full re-opening will take place no earlier than the end of Q12023 further trimming its coal demand.
+
+New trade patterns in question. China's main source of coal is Indonesia with 133 million mt (98% thermal coal) being delivered so far in 2022, followed by Russia and Mongolia with 54.01m mt (68% thermal coal) and 22.38m mt (85% metallurgical coal) respectively. While Indonesia will remain the largest supplier of coal to China yet with a fall of -16.19% so far in the first ten months of 2022 compared to the same period in 2021, the rest two nations have significantly increased their market share with Mongolia and Russia posting an increase of +60% and +12.8% respectively. While ton-mile demand is benefited from cheaper Russian coal due to European sanctions and the need to alter its trade partners, an increase in Mongolian exports could absorb a share of Russian coking coal exports especially given the recent Russian transport infrastructure limitation which leads to delays in loading and arrivals. Having said that, the new Mongolian 233km Tavan Tolgoi rail line which is estimated to cut transport costs to around US\$8 per tonne compared to truck transport costs, could point towards this shift. According to the president of Mongolia, this new rail line could increase coal exports to China to 50m tonnes compared to 22.38 million so far in 2022 and its record 36.24 million tonnes in 2018. In addition to this shift, other seaborne sources of metallurgical coal namely the US, Indonesia, and Canada could see their exports further decreasing from Mongolian ones. As far as the Mongolian thermal coal exports are concerned, an increase of 61% (+1.23 million mt) has materialized during the first ten months of 2022 compared to the whole of 2021. With rail infrastructure expansions, Mongolian thermal coal exports could also increase further. The real question is, does China needs all this coal? If not, based on this year's demand, decisions will be made based on costs and transport delays and in that scenario, Mongolian exports could benefit further.
+
 ## **Chartering (Wet: Softer / Dry: Stable-)**
 
 Panamax sector was the only positive exception during the past week, with Atlantic grain and mineral demand underpinning rates. The rest of the sectors' activity was subdued across both basins albeit with owners resisting strong discounts. The BDI today (06/12/2022) closed at 1,340 points, up by 13 points compared to previous Tuesday's closing (29/11/2022). Uncertainty keeps mounting in the crude carrier realm amidst the EU oil price cap and the beginning of sanctions against Russian crude oil. As far as the previous week's performance, rates softened across all regions yet with T/C earnings still hovering at significant healthy levels. The BDTI today (06/12/2022) closed at 2,112, a decrease of 321 points and the BCTI at 1,783, a decrease of 30 points compared to previous Tuesday's (29/11/2022) levels.
@@ -263,24 +267,39 @@ Heading towards the end of 2022, the momentum in the newbuilding market remains 
 ### Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4 | Tanker | 158,000 | dwt | New Times, China | Greek (TMS Cardiff) | $ 70.0m |  |
-| 2 | Tanker | 115,800 | dwt | New Times, China | Greek (Capital Ship Management) | undisclosed |  |
-| 2 | Tanker | 115,000 | dwt | SWS, China | Greek (OceanGold) | undisclosed |  |
-| 2+2 | Tanker | 50,000 | dwt | Jiangsu New Yangzijiang, China | Greek (Evalend) | $ 40.0m |  |
-| 2+4 | Tanker | 25,900 | dwt | CMJL Yangzhou, China | Chinese (Shanghai Junzheng Shipping) | $ 45.0m | st-st, TIER III, EEDI Phase 2 |
-| 2+2 | Tanker | 15,000 | dwt | CMJL Yangzhou, China | Danish (Terntank) | undisclosed | wind and methanol propulsion |
-| 1 | Bulker | 63,300 | dwt | Tsuneishi Zhoushan, China | Greek (Meadway Shipping & Trading) | rgn $ 38.0m | eco |
-| 2 | Bulker | 40,000 | dwt | Jiangsu New Yangzijiang, China | Greek (Evalend) | low $ 30.0m | green dolphin type |
-| 1 | LNG | 180,000 | cbm | Samsung HI, S. Korea | Danish (Celsius Shipping) | $ 250.0m |  |
-| 2 | LNG | 175,000 | cbm | Dalian Shipbuilding, China | Chinese (CMES) | $ 235.0m | options declared |
-| 2 | VLEC | 99,000 | cbm | Hyundai HI, Korea | Japanese (Iino Lines) | $ 98.5m | against long term T/c to Ineos |
-| 2+4 | PCTC | 9,000 | ceu | CMHI, China | Chinese (CMES) | $ 99.5m | LOI stage, methanol dual fuelled |
+| 4 | Tanker | 158,000 dwt | New Times, China | 2024-2025 | Greek (TMS Cardiff) | $ 70.0m |  |
+| 2 | Tanker | 115,800 dwt | New Times, China | 2025 | Greek (Capital Ship Management) | undisclosed |  |
+| 2 | Tanker | 115,000 dwt | SWS, China | 2025 | Greek (OceanGold) | undisclosed |  |
+| 2+2 | Tanker | 50,000 dwt | Jiangsu New Yangzijiang, China | 2025 | Greek (Evalend) | $ 40.0m |  |
+| 2+4 | Tanker | 25,900 dwt | CMJL Yangzhou, China | 2024 | Chinese (Shanghai Junzheng Shipping) | $ 45.0m | st-st, TIER III, EEDI Phase 2 |
+| 2+2 | Tanker | 15,000 dwt | CMJL Yangzhou, China | 2025 | Danish (Terntank) | undisclosed | wind and methanol propulsion |
+| 1 | Bulker | 63,300 dwt | Tsuneishi Zhoushan, China | 2025 | Greek (Meadway Shipping & Trading) | rgn $ 38.0m | eco |
+| 2 | Bulker | 40,000 dwt | Jiangsu New Yangzijiang, China | 2025 | Greek (Evalend) | low $ 30.0m | green dolphin type |
+| 1 | LNG | 180,000 cbm | Samsung HI, S. Korea | 2026 | Danish (Celsius Shipping) | $ 250.0m |  |
+| 2 | LNG | 175,000 cbm | Dalian Shipbuilding, China | 2026-2027 | Chinese (CMES) | $ 235.0m | options declared |
+| 2 | VLEC | 99,000 cbm | Hyundai HI, Korea | 2025-2026 | Japanese (Iino Lines) | $ 98.5m | against long term T/c to Ineos |
+| 2+4 | PCTC | 9,000 ceu | CMHI, China | 2025 | Chinese (CMES) | $ 99.5m | LOI stage, methanol dual fuelled |
 
 © Intermodal Research 06/12/2022 5
 
 ---
 
 # Demolition Market
+
+## Indicative Demolition Prices ($/ldt)
+
+| Markets | 02/12/22 | 25/11/22 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Tanker |  |  |  |  |  |  |
+| Bangladesh | 515 | 515 | 0.0% | 348 | 410 | 442 |
+| India | 525 | 530 | -0.9% | 348 | 400 | 438 |
+| Pakistan | 525 | 530 | -0.9% | 352 | 395 | 437 |
+| Turkey | 250 | 250 | 0.0% | 207 | 259 | 280 |
+| Dry Bulk |  |  |  |  |  |  |
+| Bangladesh | 505 | 505 | 0.0% | 336 | 400 | 431 |
+| India | 520 | 525 | -1.0% | 335 | 390 | 428 |
+| Pakistan | 520 | 520 | 0.0% | 338 | 385 | 427 |
+| Turkey | 240 | 240 | 0.0% | 198 | 249 | 270 |
 
 Activity in the demolition market remained weak, however, an uptick in both steel plate prices and imported scrap was noted across the main demolition destinations which however does not depict any material increase in domestic demand. Indeed, the materialized increase could be interpreted as a positive reaction following weeks of a downward trajectory, especially in the case of the Indian market which witnessed an overreacted sharp decline during the previous week. As for the other Indian subcontinent markets, sentiment in Pakistan is still subdued with purchasing enquiries being offered only to cover their urgent needs, while in Bangladesh, inactivity keeps mounting as L/C restrictions continue to leave breakers with empty hands. In Turkey, imported scrap was also up w-o-w with steel mills increasing their product's prices. Lastly, we are starting to witness a bit more positive approach from owners given the pressure in the dry bulk freight market lately. It remains to be seen if this interest will be translated into concluded deals in the coming weeks. Average prices in the different markets this week for tankers ranged between 250-525/ldt and those for dry bulk units between \$240-520/ldt.
 

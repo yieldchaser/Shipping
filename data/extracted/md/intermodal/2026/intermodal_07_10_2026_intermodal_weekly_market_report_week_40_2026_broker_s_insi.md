@@ -316,23 +316,23 @@ Elsewhere, K Line secured a pair of 174k cbm LNG carriers at the price of $247.5
 
 ### Newbuilding Orders
 
-| Units | Type | Size | Size | Yard | Delivery | Buyer | Price | Comments |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Bulker | 211,000 | dwt | Tangshan Dajin Offshore Engineering, China | 2029-2030 | Greek (Evalend) | $ 77.5m | scrubber fitted, option exercise |
-| 4 | Bulker | 64,500 | dwt | Taizhou Sanfu Ship Engineering, China | 2030-2031 | Thai (Precious Shipping) | $ 35.5m |  |
-| 3 | Bulker | 64,500 | dwt | COSCO HI Zhoushan, China | 2030 | Greek (Almi Marine) | undisclosed |  |
-| 2 | Tanker | 306,000 | dwt | Hengli Shipbuilding, China | 2028 | Monaco Based (Scorpio Tankers) | $ 135.0m | scrubber fitted |
-| 4 | Tanker | 157,000 | dwt | Penglai Zhongbai Jinglu Shipyard, China | 2029-2030 | Singaporean (X-Press Feeders) | undisclosed | scrubber fitted |
-| 1 | Tanker | 157,000 | dwt | New Times Shipbuilding, China | 2029 | Greek (Akrotiri Tankers) | $ 84.4m |  |
-| 2 | Tanker | 114,000 | dwt | Jiangsu New Hantong, China | 2029 | Monaco Based (Scorpio Tankers) | $ 72.8m | scrubber fitted |
-| 6+2 | Tanker | 114,000 | dwt | Jiangsu Haifeng Shipbuilding, China | 2029-2030 | Chinese (YZ) Maritime) | undisclosed |  |
-| 2 | Tanker | 114,000 | dwt | Imabari Shipbuilding, Japan | 2029-2030 | Greek (Carlova Maritime) | undisclosed |  |
-| 2 | Containership | 1,900 | teu | CSSC Huangpu Wenchong, China | 2029 | Chinese (Erasmus Shipinvest) | $ 32.0m |  |
-| 10+20 | Containership | 1,324 | teu | Hubei Guangji Green Energy Shipbuilding | 2029 | Greek (Contships) | $ 28.0m | 340 reefer plugs, Tier III NOx |
-| 2 | Gas Carrier | 174,000 | cbm | Samsung HI, S. Korea | 2029 | Japanese (K Line) | $ 247.5m |  |
-| 2 | Gas Carrier | 88,000 | cbm | Samsung HI, S. Korea | 2030 | US based (JP Morgan) | $ 113.0m |  |
-| 8 | MPP/Hvy Lift | 60,000 | dwt | COSCO HI Dalian, China | 2029-2030 | Chinese (Cosco Shipping) | $ 48.9m |  |
-| 6 | MPP/Hvy Lift | 60,000 | dwt | Huanghai Shipbuilding, China | 2029-2030 | Chinese (Cosco Shipping) | undisclosed |  |
+| Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Bulker | 211,000 dwt | Tangshan Dajin Offshore Engineering, China | 2029-2030 | Greek (Evalend) | $ 77.5m | scrubber fitted, option exercise |
+| 4 | Bulker | 64,500 dwt | Taizhou Sanfu Ship Engineering, China | 2030-2031 | Thai (Precious Shipping) | $ 35.5m |  |
+| 3 | Bulker | 64,500 dwt | COSCO HI Zhoushan, China | 2030 | Greek (Almi Marine) | undisclosed |  |
+| 2 | Tanker | 306,000 dwt | Hengli Shipbuilding, China | 2028 | Monaco Based (Scorpio Tankers) | $ 135.0m | scrubber fitted |
+| 4 | Tanker | 157,000 dwt | Penglai Zhongbai Jinglu Shipyard, China | 2029-2030 | Singaporean (X-Press Feeders) | undisclosed | scrubber fitted |
+| 1 | Tanker | 157,000 dwt | New Times Shipbuilding, China | 2029 | Greek (Akrotiri Tankers) | $ 84.4m |  |
+| 2 | Tanker | 114,000 dwt | Jiangsu New Hantong, China | 2029 | Monaco Based (Scorpio Tankers) | $ 72.8m | scrubber fitted |
+| 6+2 | Tanker | 114,000 dwt | Jiangsu Haifeng Shipbuilding, China | 2029-2030 | Chinese (YZJ Maritime) | undisclosed |  |
+| 2 | Tanker | 114,000 dwt | Imabari Shipbuilding, Japan | 2029-2030 | Greek (Carlova Maritime) | undisclosed |  |
+| 2 | Containership | 1,900 teu | CSSC Huangpu Wenchong, China | 2029 | Chinese (Erasmus Shipinvest) | $ 32.0m |  |
+| 10+20 | Containership | 1,324 teu | Hubei Guangji Green Energy Shipbuilding | 2029 | Greek (Contships) | $ 28.0m | 340 reefer plugs, Tier III NOx |
+| 2 | Gas Carrier | 174,000 cbm | Samsung HI, S. Korea | 2029 | Japanese (K Line) | $ 247.5m |  |
+| 2 | Gas Carrier | 88,000 cbm | Samsung HI, S. Korea | 2030 | US based (JP Morgan) | $ 113.0m |  |
+| 8 | MPP/Hvy Lift | 60,000 dwt | COSCO HI Dalian, China | 2029-2030 | Chinese (Cosco Shipping) | $ 48.9m |  |
+| 6 | MPP/Hvy Lift | 60,000 dwt | Huanghai Shipbuilding, China | 2029-2030 | Chinese (Cosco Shipping) | undisclosed |  |
 
 5
 

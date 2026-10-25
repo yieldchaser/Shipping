@@ -204,9 +204,9 @@ New orders for commercial vessels last week were just a handful, with Bulkers an
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | LNG | 174,000 | cbm | Samsung HI, S. Korea | 2026 | Japanese (Mitsui OSK Lines) | $ 260.0m |
-| 4 | Bulker | 82,000 | dwt | Qingdao Yangfan, China | 2025-2026 | Greek (Lavinia) | undisclosed |
-| 2 | Bulker | 82,000 | dwt | COSCO HI Yangzhou, China | 2025-2026 | Greek (Lavinia) | undisclosed |
+| 1 | LNG | 174,000 cbm | Samsung HI, S. Korea | 2026 | Japanese (Mitsui OSK Lines) | $ 260.0m |  |
+| 4 | Bulker | 82,000 dwt | Qingdao Yangfan, China | 2025-2026 | Greek (Lavinia) | undisclosed |  |
+| 2 | Bulker | 82,000 dwt | COSCO HI Yangzhou, China | 2025-2026 | Greek (Lavinia) | undisclosed |  |
 
 ---
 

@@ -95,21 +95,22 @@ Shanghai 200122 China
 | 24 mos | ANWAAR TRABLUS | 2022 | 115,500 dwt | $45,000/day | Core Petroleum |
 ## TC Rates
 
-| Sector | Tenor | Current | Previous |
-| --- | --- | --- | --- |
-| $/day | 10/03/23 | 03/03/23 | ±% |
-| VLCC | 300k 1yr TC | 48,500 | 48,500 |
-|  | 300k 3yr TC | 43,000 | 43,000 |
-| Suezmax | 150k 1yr TC | 46,000 | 46,000 |
-|  | 150k 3yr TC | 33,000 | 33,000 |
-| Aframax | 110k 1yr TC | 49,000 | 49,000 |
-|  | 110k 3yr TC | 35,000 | 35,000 |
-| Panamax | 75k 1yr TC | 41,000 | 41,000 |
-|  | 75k 3yr TC | 31,000 | 31,000 |
-| MR | 52k 1yr TC | 33,500 | 33,500 |
-|  | 52k 3yr TC | 25,500 | 25,500 |
-| Handy | 36k 1yr TC | 26,000 | 26,000 |
-|  | 36k 3yr TC | 18,000 | 18,000 |
+| Sector | Tenor | 10/03/23 | 03/03/23 | ±% | Diff | 2022 | 2021 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 300k 1yr TC | 48,500 | 48,500 | 0.0% | 0 | 34,683 | 25,684 |
+|  | 300k 3yr TC | 43,000 | 43,000 | 0.0% | 0 | 33,719 | 28,672 |
+| Suezmax | 150k 1yr TC | 46,000 | 46,000 | 0.0% | 0 | 26,933 | 17,226 |
+|  | 150k 3yr TC | 33,000 | 33,000 | 0.0% | 0 | 23,758 | 22,700 |
+| Aframax | 110k 1yr TC | 49,000 | 49,000 | 0.0% | 0 | 26,135 | 15,854 |
+|  | 110k 3yr TC | 35,000 | 35,000 | 0.0% | 0 | 22,878 | 19,714 |
+| Panamax | 75k 1yr TC | 41,000 | 41,000 | 0.0% | 0 | 25,163 | 14,184 |
+|  | 75k 3yr TC | 31,000 | 31,000 | 0.0% | 0 | 20,806 | 15,950 |
+| MR | 52k 1yr TC | 33,500 | 33,500 | 0.0% | 0 | 21,313 | 12,608 |
+|  | 52k 3yr TC | 25,500 | 25,500 | 0.0% | 0 | 16,426 | 13,804 |
+| Handy | 36k 1yr TC | 26,000 | 26,000 | 0.0% | 0 | 18,601 | 11,292 |
+|  | 36k 3yr TC | 18,000 | 18,000 | 0.0% | 0 | 14,585 | 13,054 |
+
+## Indicative Market Values ($ Million) - Tankers
 
 | Vessel 5yrs old | Mar-23 avg | Feb-23 avg | ±% | 2022 avg | 2021 avg | 2020 avg |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -118,6 +119,7 @@ Shanghai 200122 China
 | Aframax 110KT DH | 62.0 | 62.0 | 0.0% | 50.5 | 38.7 | 38.8 |
 | LR1 75KT DH | 47.0 | 47.0 | 0.0% | 38.6 | 31.2 | 30.7 |
 | MR 52KT DH | 41.0 | 41.0 | 0.0% | 34.8 | 27.6 | 27.5 |
+
 > **Chart (not transcribed):** Dirty WS Rates (1-Year Trend). The report prints no values for it.
 
 > **Chart (not transcribed):** Clean WS Rates (1-Year Trend). The report prints no values for it.
@@ -287,7 +289,7 @@ The newbuilding market was in full swing last week with a total of 22 vessels be
 | 4 | Bulker | 63,000 dwt | SUMEC Dayang, China | 2025 | UAE (Emarat Maritime) | $ 31.5m |  |
 | 3 | Bulker | 41,000 dwt | New Dayang, China | 2024-2025 | Greek (Byzantine Maritime) | $ 30.0m |  |
 | 2 | LPG | 45,000 cbm | Hyundai Mipo, S. Korea | 2025 | Belgian (Exmar) | $ 73.4m | Ammonia ready |
-| 3 | PCTC | 7,000 | ceu | GSI, China | 2026 | Chinese (Guangzhou Ocean Car Carrier) | $ 90.0m |
+| 3 | PCTC | 7,000 ceu | GSI, China | 2026 | Chinese (Guangzhou Ocean Car Carrier) | $ 90.0m |  |
 
 © Intermodal Research 14/03/2023 6
 

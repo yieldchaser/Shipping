@@ -225,16 +225,16 @@ Elsewhere, CLdN booked two LNG powered 6.7k ceu RoRo vessels with hybrid battery
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 | Bulker | 82,000 | dwt | Tsuneishi Shipbuilding, Japan | 2029 | Greek (DryDel) | undisclosed |  |
-| 2 | Bulker | 64,500 | dwt | Jiangmen Nanyang, China | 2029 | HK based (Jinhui Shipping) | $ 35.7m |  |
-| 2 | Bulker | 64,500 | dwt | Jiangsu Soho Innovation, China | 2029 | German (Dassler Anlage-und) | undisclosed |  |
-| 3 | Tanker | 26,000 | dwt | Wuchang SB Group, China | 2028-2029 | South Korean (Heung-A Shipping) | $ 45.5m | Stainless steel |
-| 8 | Tanker | 7,600 | dwt | Haidong Shipyard, China | 2028-2029 | Danish (Uni-Tankers) | undisclosed | Stainless steel |
-| 4 | Containership | 10,100 | teu | HJ Shipbuilding, S. Korea | 2029 | Greek (Navios) | $ 122.0m | Against TC contract & Scrubber fitted, methanol ready |
-| 4 | Containership | 3,100 | teu | CSSC Huangpu Wenchong, China | 2029-2030 | Thai (RCL) | $ 57.0m |  |
-| 2 | Gas Carrier | 174,000 | cbm | Hanwha Ocean, S. Korea | 2029 | UK (Zodiac Maritime) | $ 250.0m |  |
-| 2 | RoRo | 6,700 | ceu | HD Hyundai, S. Korea | 2029 | Luxembourg based (CLdN) | $ 121.5m | LNG powered, hybrid battery system |
-| 2 | Passenger | 1,400 | pax | CMI Weihai, China | 2030 | Swedish (Stena RoRo AB) | undisclosed | Methanol ready, battery hybrid |
+| 2 | Bulker | 82,000 dwt | Tsuneishi Shipbuilding, Japan | 2029 | Greek (DryDel) | undisclosed |  |  |
+| 2 | Bulker | 64,500 dwt | Jiangmen Nanyang, China | 2029 | HK based (Jinhui Shipping) | $ 35.7m |  |  |
+| 2 | Bulker | 64,500 dwt | Jiangsu Soho Innovation, China | 2029 | German (Dassler Anlage-und) | undisclosed |  |  |
+| 3 | Tanker | 26,000 dwt | Wuchang SB Group, China | 2028-2029 | South Korean (Heung-A Shipping) | $ 45.5m | Stainless steel |  |
+| 8 | Tanker | 7,600 dwt | Haidong Shipyard, China | 2028-2029 | Danish (Uni-Tankers) | undisclosed | Stainless steel |  |
+| 4 | Containership | 10,100 teu | HJ Shipbuilding, S. Korea | 2029 | Greek (Navios) | $ 122.0m | Against TC contract & Scrubber fitted, methanol ready |  |
+| 4 | Containership | 3,100 teu | CSSC Huangpu Wenchong, China | 2029-2030 | Thai (RCL) | $ 57.0m |  |  |
+| 2 | Gas Carrier | 174,000 cbm | Hanwha Ocean, S. Korea | 2029 | UK (Zodiac Maritime) | $ 250.0m |  |  |
+| 2 | RoRo | 6,700 ceu | HD Hyundai, S. Korea | 2029 | Luxembourg based (CLdN) | $ 121.5m | LNG powered, hybrid battery system |  |
+| 2 | Passenger | 1,400 pax | CMI Weihai, China | 2030 | Swedish (Stena RoRo AB) | undisclosed | Methanol ready, battery hybrid |  |
 
 ---
 

@@ -200,13 +200,13 @@ The newbuilding market continues to demonstrate strong activity. However, the Co
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 | Tanker | 158,000 | dwt | Hyundai HI, S. Korea | UK Based (Hayfin Capital Management) | $ 86.2m | options declared |
+| 2 | Tanker | 158,000 dwt | Hyundai HI, S. Korea | 2026 | UK Based (Hayfin Capital Management) | $ 86.2m | options declared |
 | 2+2 | Tanker | Suezmax | dwt | Samsung HI, S. Korea | US Based (ExxonMobil) | undisclosed | LNG dual-fuel, shuttle tankers |
-| 10 | Tanker | 3,850 | dwt | Nantong Xiangyu, China | German (GEFO group) | undisclosed | duplex StSt |
-| 2 | Bulker | 100,000 | dwt | Oshima, Japan | UK Based (Hayfin Capital Management) | undisclosed |  |
-| 2 | Bulker | 82,000 | dwt | Chengxi, China | Greek (W Marine) | $ 36.0m | IMO Tier III, EEDI Phase III |
-| 2 | LCO2 | 22,000 | cbm | Hyundai Mipo, S. Korea | Greek (Capital) | $ 80.0m | ammonia fuelled, LCO2 carrier, can carry LPG |
-| 2 | PCTC | 4,200 | ceu | Fujian Mawei, China | Greek (Neptune Shipping) | undisclosed | LNG fueled |
+| 10 | Tanker | 3,850 dwt | Nantong Xiangyu, China | 2026-2028 | German (GEFO group) | undisclosed | duplex StSt |
+| 2 | Bulker | 100,000 dwt | Oshima, Japan | 2026 | UK Based (Hayfin Capital Management) | undisclosed |  |
+| 2 | Bulker | 82,000 dwt | Chengxi, China | 2026 | Greek (W Marine) | $ 36.0m | IMO Tier III, EEDI Phase III |
+| 2 | LCO2 | 22,000 cbm | Hyundai Mipo, S. Korea | undisclosed | Greek (Capital) | $ 80.0m | ammonia fuelled, LCO2 carrier, can carry LPG |
+| 2 | PCTC | 4,200 ceu | Fujian Mawei, China | 2026 | Greek (Neptune Shipping) | undisclosed | LNG fueled |
 
 ---
 

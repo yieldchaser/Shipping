@@ -216,7 +216,7 @@ Elsewhere, CYH Shipping contracted Jiangnan Shipyard for 4 firm and 3 optional V
 | 1 | Containership | 1,719 teu | Chizhou Tianyu Shipbuilding, China | 2028 | Iranian (Kamal\&Adel) | undisclosed |  |
 | 4+3 | VLAC | 90,000 cbm | Jiangnan Shipyard, China | 2030 | Chinese (CYH Shipping) | undisclosed |  |
 | 3 | VLAC | 90,000 cbm | HD KSOE, S. Korea | 2030 | Turkish (Ciner Shipping) | $ 121.0m |  |
-| 4 | PCC | 5,700 | ceu | Jiangsu Runyang, China | 2028-2029 | Hong Kong based (Zhongnan Shipping) | undisclosed |
+| 4 | PCC | 5,700 ceu | Jiangsu Runyang, China | 2028-2029 | Hong Kong based (Zhongnan Shipping) | undisclosed |  |
 
 ---
 

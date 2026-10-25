@@ -227,8 +227,8 @@ The previous week saw 26 vessels being contracted in all vessel types. On orders
 | 8 | Bulker | 210,000 dwt | New Times, China | 2028- | Chinese (China Merchants Energy) | $ 76.0m | scrubber fitted |
 | 6 | Bulker | 210,000 dwt | Beihai, China | 2027-2028 | Chinese (China Merchants Energy) | $ 78.0m | Shaft generators |
 | 1 | Gas Carrier | 86,700 cbm | KHI, Japan | 2026 | Singaporean (Kumiai Navigation) | $ 120.0m | 7-Yr TC to AltaGas |
-| 4+4 | PCTC | 5,500 | ceu | Fujian Mawei, China | 2026 | Singaporean (Eastern Pacific) | undisclosed |
-| 2+2 | PCTC | 5,500 | ceu | CMHI Jinling, China | 2027 | Singaporean (Eastern Pacific) | undisclosed |
+| 4+4 | PCTC | 5,500 ceu | Fujian Mawei, China | 2026 | Singaporean (Eastern Pacific) | undisclosed | LNG dual-fuel |
+| 2+2 | PCTC | 5,500 ceu | CMHI Jinling, China | 2027 | Singaporean (Eastern Pacific) | undisclosed | LNG dual-fuel |
 | 4 | Container | 14,000 teu | Hudong Zhonghua, China | 2026-2027 | German (Dohle) | $ 145.0m | methanol-ready, scrubber fitted |
 
 ---

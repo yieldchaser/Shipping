@@ -200,11 +200,16 @@ In the previous week, healthy interest for new vessel construction emerged, with
 |  | MGC LPG 55k cbm |  | 93.0 | 92.5 | 0.5% | 93.0 | 91.5 | 93.0 | 62.0 | 85 | 74 | 67 |
 | **Gas** |  | SGC LPG 25k cbm |  | 60.0 | 59.0 | 1.7% | 60.0 | 58.0 | 60.0 | 40.0 | 51 | 45 |
 
-## Indicative Period Charters
+## Newbuilding Orders
 
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 7yr | methanol dual fuelled, wind-assisted, battery-hybrid,  TC with Equinor |  |  | $ 45.0m | 2 |
+| Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | Tanker | 115,000 dwt | New Times, China | 2027 | Singapore based (Singar) | undisclosed | LNG dual-fuel, against long-term TC |
+| 4 | Tanker | 50,000 dwt | Hyundai Mipo, S. Korea | 2026 | South Korean (Pan Ocean) | \$ 51.8m | scrubber fitted |
+| 4 | Tanker | 50,000 dwt | Wuhu, China | 2026-2027 | French (EuroGreen Maritime) | \$ 63.0m | methanol dual fuelled, wind-assisted, battery-hybrid, 7yr TC with Equinor |
+| 2 | Tanker | 49,500 dwt | GSI, China | 2027 | German (Leonhardt & Blumberg) | \$ 45.0m | scrubber fitted, methanol ready |
+| 8 | Bulker | 63,000 dwt | New Dayang, China | 2027-2028 | Chinese (HuaXia FL) | \$ 34.0m | EEDI Phase III, methanol ready |
+| 4 | LNG | 174,000 cbm | Hanwha Ocean, S.Korea | 2026-2027 | JV between K-Line and Hyundai Glovis | \$ 230.0m | QatarEnergy project |
 
 ---
 

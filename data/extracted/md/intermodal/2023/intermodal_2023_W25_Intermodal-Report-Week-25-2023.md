@@ -198,11 +198,19 @@ Last week a very strong newbuilding activity materialized with 63 firm orders co
 | Gas | MGC LPG 55k cbm |  | 85.0 | 84.5 | 0.6% | 85.0 | 77.5 | 85.0 | 43.0 | 74 | 67 | 63 |
 | Gas | SGC LPG 25k cbm |  | 55.5 | 55.5 | 0.0% | 55.5 | 53.0 | 55.5 | 40.0 | 51 | 45 | 42 |
 
-## Indicative Period Charters
+## Newbuilding Orders
 
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 7 years | against  TC to Cargill |  |  | $ 35.5m | 6 |
+| Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | Tanker | 22,500 dwt | Wuhu Shipyard, China | 2025 | Swedish (Donsotank Rederi) | undisclosed | LNG dual-fuelled |
+| 4 | Bulker | 180,000 dwt | Hengli HI Dalian, China | 2026 | German (Reederei H. Vogemann) | \$ 63.5m |  |
+| 4 | Bulker | 82,000 dwt | Hengli HI Dalian, China | 2026 | German (Reederei H. Vogemann) | \$ 34.5m |  |
+| 1 | Bulker | 81,200 dwt | Tsuneishi, Japan | 2026 | Danish (J. Lauritzen) | undisclosed | against 7 years TC to Cargill |
+| 6 | Bulker | 64,000 dwt | DACKS, China | 2025-2026 | Danish (Norden) | \$ 35.5m | biofuel |
+| 6 | Bulker | 40,000 dwt | Jiangmen Nanyang, China | 2025-2026 | Turkish (Ciner Shipping) | undisclosed | Tier III, EEDI phase 3 |
+| 10 | Container | 24,000 teu | Jiangsu Yangzijiang, China | 2026 | French (CMA CGM) | \$ 240.0m | LNG dual-fuelled |
+| 24 | Container | 16,000 dwt | Samsung HI, S. Korea | 2026-2027 |  |  | methanol dual-fuelled |
+| 6+4 | Container | 8,800 teu | Jiangsu Yangzijiang, China | 2026-2027 | Danish (AP Moller-Maersk) | \$ 115.0m | methanol dual-fuelled |
 
 ---
 

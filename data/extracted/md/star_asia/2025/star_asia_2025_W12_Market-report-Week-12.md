@@ -296,6 +296,23 @@ Imported scrap markets across Sub-Continent remained largely subdued this week, 
 
 Mills operated at reduced capacity amid weak steel demand and ongoing liquidity
 
+| BUNKER PRICES (USD/ton) PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
+| --- | --- | --- | --- |
+| SINGAPORE | 504 | 458 | 640 |
+| HONG KONG | 516 | 475 | 653 |
+| FUJAIRAH | 507 | 457 | 743 |
+| ROTTERDAM | 500 | 433 | 637 |
+| HOUSTON | 523 | 437 | 686 |
+
+| CURRENCY | EXCHANGE RATES | March 21 | March 14 | W-O-W % CHANGE |
+| --- | --- | --- | --- | --- |
+| USD / CNY (CHINA) |  | 7.24 | 7.23 | -0.14% |
+| USD / BDT (BANGLADESH) |  | 121.89 | 121.49 | -0.33% |
+| USD / INR (INDIA) |  | 86.00 | 86.90 | +1.04% |
+| USD / PKR (PAKISTAN) |  | 280.18 | 279.92 | -0.09% |
+| USD / TRY (TURKEY) |  | 37.80 | 36.52 | -3.50% |
+
+
 ## Page 17
 
 constraints. Shredded scrap from the UK and EU was offered at US$385-390/ton CFR Qasim, though most buyers capped bids at $385-388/t. UAE-origin shredded was quoted higher at US$390-395/ton CFR, but buyer interest was minimal. Market participants noted that currency volatility, rising freight costs, and falling domestic rebar prices were further dampening mill margins. While a recovery is expected after Eid, for now, the market remains under pressure. In Bangladesh, the market remained quiet, with interest in UK and European-origin material particularly low. Due to shorter lead times and more favourable pricing, buyers preferred sourcing from closer markets such as Australia, Hong Kong, and Singapore. Australian shredded was heard at US$380-385/ton CFR Chattogram, while HMS 90:10 was offered around US$365-367/ton CFR. Like its neighbours, Bangladesh anticipates a pickup in demand after Ramadan, with improved activity projected for April and May.

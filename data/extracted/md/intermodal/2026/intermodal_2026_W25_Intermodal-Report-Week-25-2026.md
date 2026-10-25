@@ -213,7 +213,7 @@ Elsewhere, Sallaum Lines contracted Xiamen Shipbuilding for the manufacturing of
 | 2 | Tanker | 50,000 dwt | HD Hyundai Mipo, S. Korea | 2028 | Greek (Metrostar) | $ 53.0m |  |
 | 2+2 | Tanker | 40,500 dwt | Wuhu Shipyard, China | 2028-2029 | Irish (Ardmore Shipping) | $ 44.9m |  |
 | 4 | Containership | 6,200 teu | CSSC Huangpu Wenchong, China | 2029-2030 | Greek (Global Ship Lease) | $ 85.0m |  |
-| 4 | PCC | 8,600 | ceu | Xiamen Shipbuilding, China | 2028-2029 | Cypriot (Sallaum Lines) | undisclosed |
+| 4 | PCC | 8,600 ceu | Xiamen Shipbuilding, China | 2028-2029 | Cypriot (Sallaum Lines) | undisclosed | LNG, Ammonia ready |
 
 ---
 

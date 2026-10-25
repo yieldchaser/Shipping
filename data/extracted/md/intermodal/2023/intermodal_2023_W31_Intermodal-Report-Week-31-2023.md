@@ -197,11 +197,11 @@ The newbuilding market was relatively quiet this week with only 5 orders for 15 
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4 | Tanker | 75,000 | dwt | GSI, China | 2026-2027 | Norwegian (Ocean Yield) | undisclosed |
-| 2 | Tanker | 50,000 | dwt | Yamic, China | 2025-2026 | Singapore based (Jaldhi Overseas) | undisclosed |
-| 1 | Bulker | 63,000 | dwt | New Dayang, China | 2026 | Hong Kong based (Chellaram Shipping) | undisclosed |
-| 2 | LNG | 174,000 | cbm | Hyundai HI, S. Korea | 2027 | Greek (Evalend) | $ 265.0m |
-| 6+ 10 | Gen. Cargo | 7,400 | dwt | Taizhou Sanfu, China | 2025 | Dutch (Mare Balticum) | undisclosed |
+| 4 | Tanker | 75,000 dwt | GSI, China | 2026-2027 | Norwegian (Ocean Yield) | undisclosed |  |
+| 2 | Tanker | 50,000 dwt | Yamic, China | 2025-2026 | Singapore based (Jaldhi Overseas) | undisclosed |  |
+| 1 | Bulker | 63,000 dwt | New Dayang, China | 2026 | Hong Kong based (Chellaram Shipping) | undisclosed |  |
+| 2 | LNG | 174,000 cbm | Hyundai HI, S. Korea | 2027 | Greek (Evalend) | $ 265.0m |  |
+| 6+ 10 | Gen. Cargo | 7,400 dwt | Taizhou Sanfu, China | 2025 | Dutch (Mare Balticum) | undisclosed |  |
 
 ---
 
@@ -210,16 +210,16 @@ The newbuilding market was relatively quiet this week with only 5 orders for 15 
 During the preceding week, there was a discernible increase in demolition market activity. However, the quantity of newly tonnage allocated for recycling purposes has remained constrained. In India, local steel prices rose slightly last week, but this is not expected to be sustained as the monsoon season continues and steel mills are experiencing disruptions. Local breakers have seen vessels for scrap ending up in other destinations as offer prices in India remain high. In Bangladesh, some sales have been concluded but this is not supported by the current state of the market as the local steel market is mixed with no clear direction. Opening the LC remains extremely difficult, if not impossible, as the country's financial problems persist. Fundamentally, there is a deficit of \$8.22 billion in imports and exports in fiscal year 2022-23, 23.6% higher than the previous fiscal year (2021-22) of \$6.65 billion. Pakistan is back in the market with no sales but with buyers bidding for new tonnage. The country's economic situation remains poor. Inflation in the country was 28.3% in July, well down from May's peak of 38% and the third consecutive month of decline. The central bank kept interest rates on hold at 22%. In Turkey, the market is faced with limited available tonnage and falling steel prices, which in turn is keeping the market subdued. Fundamentally, inflation rose to 64% in July from 55% in June. Market expects further downside.
 
 ## Indicative Demolition Prices ($/ldt)
-| Markets | 04/08/23 | 28/07/23 | ±% | YTD High | YTD Low | 2022 | 2021 | 2020 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Tanker | Bangladesh | 540 | 560 | -3.6% | 615 | 515 | 601 | 542 |
-|  | India | 510 | 510 | 0.0% | 570 | 555 | 593 | 519 |
-|  | Pakistan | 530 | 540 | -1.9% | 540 | 535 | 596 | 536 |
-|  | Turkey | 310 | 310 | 0.0% | 340 | 330 | 314 | 284 |
-| Dry Bulk | Bangladesh | 520 | 540 | -3.7% | 600 | 505 | 590 | 532 |
-|  | India | 490 | 490 | 0.0% | 540 | 520 | 583 | 508 |
-|  | Pakistan | 520 | 530 | -1.9% | 520 | 500 | 587 | 526 |
-|  | Turkey | 300 | 300 | 0.0% | 285 | 275 | 304 | 276 |
+| Markets |  | 04/08/23 | 28/07/23 | ±% | YTD High | YTD Low | 2022 | 2021 | 2020 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tanker | Bangladesh | 540 | 560 | -3.6% | 615 | 515 | 601 | 542 | 348 |
+|  | India | 510 | 510 | 0.0% | 570 | 555 | 593 | 519 | 348 |
+|  | Pakistan | 530 | 540 | -1.9% | 540 | 535 | 596 | 536 | 352 |
+|  | Turkey | 310 | 310 | 0.0% | 340 | 330 | 314 | 284 | 207 |
+| Dry Bulk | Bangladesh | 520 | 540 | -3.7% | 600 | 505 | 590 | 532 | 336 |
+|  | India | 490 | 490 | 0.0% | 540 | 520 | 583 | 508 | 335 |
+|  | Pakistan | 520 | 530 | -1.9% | 520 | 500 | 587 | 526 | 338 |
+|  | Turkey | 300 | 300 | 0.0% | 285 | 275 | 304 | 276 | 198 |
 
 ## Currencies
 | Markets | Current | Previous | ±% | YTD High |

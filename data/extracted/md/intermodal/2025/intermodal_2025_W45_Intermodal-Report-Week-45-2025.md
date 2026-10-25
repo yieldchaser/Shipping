@@ -205,17 +205,20 @@ Finally, the cruiseship market recorded a single order, as US NCL contracted a c
 
 ## Containers
 
-| 4 | Bulker | 73,800 | dwt | Yangzijiang Shipbuilding, China | 2028-2029 | Bulgarian (Navibulgar) | $ 33.3m | Geared |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 | Tanker | 165,000 | dwt | HD Hyundai, S. Korea | 2028 | Greek (Stealth Maritime) | $ 87.0m | Eco |
-| 2 | Tanker | 158,000 | dwt | Samsung HI, S. Korea | 2029 | Malaysian (AET) | $ 99.5m | LNG dual fuel |
-| 2+2 | Tanker | 115,000 | dwt | HD Hyundai, S. Korea | 2028 | Greek (Stealth Maritime) | $ 75.0m | Eco, coated |
-| 6+6 | Tanker | 18,000 | dwt | Swan Defence, India | undisclosed | Norwegian (Rederiet Stenersen) | $ 36.7m | Chemical tankers, LNG/methanol ready, ice class 1A |
-| 2 | Containership | 14,000 | teu | HD Hyundai, S. Korea | 2028 | Thai (RCL) | $ 150.0m |  |
-| 8+6 | Containership | 4,500 | teu | Yantai Raffles CIMC, China | undisclosed | German (Hapag-Lloyd) | $ 70.0m | Methanol dual fuel |
-| 6+4 | Containership | 3,500 | teu | Taizhou Sanfu, China | undisclosed | German (Hapag-Lloyd) | $ 60.0m | Methanol dual fuel |
-| 3 | Containership | 550 | teu | Shandong Xinneng, China | 2027 | Chinese (Dexinxiangyun Shpg) | undisclosed | LNG capable |
-| 1 | Cruise ship | 77,000 | grt | Fincantieri, Italy | 2033 | US (NCL) | undisclosed |  |
+## Newbuilding Orders
+
+| Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4 | Bulker | 73,800 dwt | Yangzijiang Shipbuilding, China | 2028-2029 | Bulgarian (Navibulgar) | \$ 33.3m | Geared |
+| 2 | Tanker | 165,000 dwt | HD Hyundai, S. Korea | 2028 | Greek (Stealth Maritime) | \$ 87.0m | Eco |
+| 2 | Tanker | 158,000 dwt | Samsung HI, S. Korea | 2029 | Malaysian (AET) | \$ 99.5m | LNG dual fuel |
+| 2+2 | Tanker | 115,000 dwt | HD Hyundai, S. Korea | 2028 | Greek (Stealth Maritime) | \$ 75.0m | Eco, coated |
+| 6+6 | Tanker | 18,000 dwt | Swan Defence, India | undisclosed | Norwegian (Rederiet Stenersen) | \$ 36.7m | Chemical tankers, LNG/methanol ready, ice class 1A |
+| 2 | Containership | 14,000 teu | HD Hyundai, S. Korea | 2028 | Thai (RCL) | \$ 150.0m |  |
+| 8+6 | Containership | 4,500 teu | Yantai Raffles CIMC, China | undisclosed | German (Hapag-Lloyd) | \$ 70.0m | Methanol dual fuel |
+| 6+4 | Containership | 3,500 teu | Taizhou Sanfu, China | undisclosed | German (Hapag-Lloyd) | \$ 60.0m | Methanol dual fuel |
+| 3 | Containership | 550 teu | Shandong Xinneng, China | 2027 | Chinese (Dexinxiangyun Shpg) | undisclosed | LNG capable |
+| 1 | Cruise ship | 77,000 grt | Fincantieri, Italy | 2033 | US (NCL) | undisclosed |  |
 
 ---
 

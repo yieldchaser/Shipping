@@ -1224,11 +1224,11 @@
         "price_current_usd_m": null,
         "price_previous_usd_m": null,
         "pct_change": "",
-        "yard": "",
-        "delivery": "Vard, Norway",
-        "buyer": "2027",
-        "price_raw": "Taiwanese (Dong Fang)",
-        "comments": "undisclosed",
+        "yard": "Vard, Norway",
+        "delivery": "2027",
+        "buyer": "Taiwanese (Dong Fang)",
+        "price_raw": "undisclosed",
+        "comments": "Exercise of option",
         "source_file": "intermodal_2025_W18_Intermodal-Report-Week-18-2025.pdf"
       }
     ],

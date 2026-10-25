@@ -244,13 +244,23 @@ In the Ultramax sector we had the sale of the "SAILING SKY" (61,346dwt-blt '14, 
 ---
 
 # Newbuilding Market
-## (million$)
+## Indicative Newbuilding Prices ($ Million)
 
-| Vessel | 24/09/2021 | 17/09/2021 |
-| --- | --- | --- |
-| Bulkers |  |  |
-| Tankers |  |  |
-| Gas |  |  |
+| Sector | Vessel | Size | 24/09/2021 | 17/09/2021 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 63.5 | 63.5 | 0.0% | 51 | 54 | 51 |
+| Bulkers | Capesize | 180k | 60.5 | 60.5 | 0.0% | 49 | 52 | 49 |
+| Bulkers | Kamsarmax | 82k | 34.5 | 34.5 | 0.0% | 28 | 30 | 29 |
+| Bulkers | Ultramax | 63k | 32.5 | 32.5 | 0.0% | 26 | 28 | 27 |
+| Bulkers | Handysize | 38k | 29.0 | 28.5 | 1.8% | 24 | 24 | 24 |
+| Tankers | VLCC | 300k | 106.5 | 105.5 | 0.9% | 88 | 92 | 88 |
+| Tankers | Suezmax | 160k | 73.5 | 72.5 | 1.4% | 58 | 60 | 58 |
+| Tankers | Aframax | 115k | 59.0 | 58.5 | 0.9% | 48 | 49 | 47 |
+| Tankers | MR | 50k | 40.0 | 40.0 | 0.0% | 35 | 36 | 36 |
+| Gas | LNG 174k cbm |  | 202.0 | 201.0 | 0.5% | 187 | 186 | 181 |
+| Gas | LGC LPG 80k cbm |  | 80.5 | 80.0 | 0.6% | 73 | 73 | 71 |
+| Gas | MGC LPG 55k cbm |  | 71.0 | 70.5 | 0.7% | 63 | 65 | 63 |
+| Gas | SGC LPG 25k cbm |  | 48.5 | 48.0 | 1.0% | 42 | 44 | 43 |
 
 The newbuilding market remains upbeat, with the dry bulk units having the lion's share among the recently confirmed deals while it's interesting to note that all orders are destined for Chinese shipyards last week. The dry bulk bonanza has revived owners' interest in newbuilding orders as earnings have reached outstanding levels during the past months. At the same time, the crude carrier sector which experiences an unhealthy freight market so far this year, has seen another week of muted newbuilding activity. In terms of the recently dry bulk newbuilding orders, Atlantska ordered two firm plus two optional 82,000 units at Jiangsu Hantong at a price of \$34.2 million each. DACKS yard secured a deal for the construction of two 64,000dwt Ultramax-es at a price of \$33.0 million each while both Wah Kwong Maritime and Norwegian investor Harald Moraeus-Hanssen chose New Dayang yard for the construction of four and three 63,000dwt units respectively. Lastly, German owner Reederei H. Vogemann declared an option for two more 40,000dwt vessels at Yangfan Group at a price of \$26.0 million each. The presence of the Container deals was once again represented by Seaspan with another mammoth order of ten conventionally fuelled 7,000teu units. Each vessel will cost around \$86.0 million with a charter contract to ONE being attached to the deal.
 
@@ -275,16 +285,16 @@ The newbuilding market remains upbeat, with the dry bulk units having the lion's
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | 24/09/2021 | 17/09/2021 | ±% | 2020 | 2019 | 2018 |
-| --- | --- | --- | --- | --- | --- | --- |
-| **Tanker** | Bangladesh | 590 | 590 | 0.0% | 348 | 410 |
-|  | **India** | 565 | 570 | -0.9% | 348 | 400 |
-|  | Pakistan | 590 | 590 | 0.0% | 352 | 395 |
-|  | Turkey | 290 | 290 | 0.0% | 207 | 259 |
-| **Dry Bulk** | **Bangladesh** | 580 | 580 | 0.0% | 336 | 400 |
-|  | **India** | 555 | 560 | -0.9% | 335 | 390 |
-|  | Pakistan | 580 | 580 | 0.0% | 338 | 385 |
-|  | Turkey | 280 | 280 | 0.0% | 198 | 249 |
+| Markets |  | 24/09/2021 | 17/09/2021 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Tanker** | Bangladesh | 590 | 590 | 0.0% | 348 | 410 | 442 |
+|  | **India** | 565 | 570 | -0.9% | 348 | 400 | 438 |
+|  | Pakistan | 590 | 590 | 0.0% | 352 | 395 | 437 |
+|  | Turkey | 290 | 290 | 0.0% | 207 | 259 | 280 |
+| **Dry Bulk** | **Bangladesh** | 580 | 580 | 0.0% | 336 | 400 | 431 |
+|  | **India** | 555 | 560 | -0.9% | 335 | 390 | 428 |
+|  | Pakistan | 580 | 580 | 0.0% | 338 | 385 | 427 |
+|  | Turkey | 280 | 280 | 0.0% | 198 | 249 | 270 |
 
 The majority of the cash buyers across the main demolition destinations are not fervid in securing a notable share of the few fresh vintage candidates as the shape of market fundamentals remains erratic. However, the fact that the supply of tonnage remains weak has kept scrap prices at strong levels with the more aggressive buyers continuing to offer bids at levels even above the \$600/Ldt mark. Having said that, Pakistani breakers are emerging as the leading destination by showing the strongest appetite for new tonnage. It remains to be seen, how Bangladeshi breakers will react in the coming months especially if yards slots start to empty. At the same time, it seems that the increased demand for Indian steel has not affected the local demolition market with breakers displaying weak demand for conventional tonnage. Lastly, a sharp decrease in Turkish Lira value has been reported during the previous week (TR:8.85/USD at the time of writing) which may affect buyers' appetite. Average scrap prices in the different markets this week for tankers ranged between 290-590/Ldt and those for dry bulk units between \$280-580/Ldt.
 

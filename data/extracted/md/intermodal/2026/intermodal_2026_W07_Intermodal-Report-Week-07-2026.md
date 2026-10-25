@@ -221,7 +221,7 @@ Elsewhere, Keyfield ordered an AHTS at Jiangsu Shunhong at \$18m and Norwegian C
 | 6 | Tanker | 50,000 dwt | GSI, China | 2028 | German (Leonhardt & Blumberg) | undisclosed |  |
 | 3 | Containership | 18,600 teu | New Times, China | 2029 | Danish (Maersk) | undisclosed | LNG dual fuel |
 | 2 | Containership | 13,000 teu | Samsung HI, S. Korea | 2028 | Japanese (Mitsui & Co) | $ 162.0m |  |
-| 1 | Offshore | 5,000 | hp | Jiangsu Shunhong, China | 2028 | Malaysian (Keyfield) | $ 18.0m |
+| 1 | Offshore | 5,000 hp | Jiangsu Shunhong, China | 2028 | Malaysian (Keyfield) | $ 18.0m | AHTS, diesel electric engine |
 | 3 | Cruise ship |  | Fincantieri, Italy | 2036-2037 | US based (Norwegian Cruise Line Holdings) | $ 633.0m |  |
 
 ---

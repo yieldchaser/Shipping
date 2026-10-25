@@ -205,16 +205,16 @@ The newbuilding market continues to be strong so far in 2023, with firm orders f
 The market appears to be gaining momentum as more tonnage is sold for scrapping after the end of the monsoon season in the sub-Asian region. The freight market is also supporting the trend, with bulk and container rates softening last week, while tanker rates remained stable. In India, the steel market is showing signs of improvement, with good sentiment also supported by the upcoming construction season starting in September. The country's fundamentals also appear supportive, with growth of 7.8% in Q2. In Bangladesh, recyclers have seen increased activity in recent months, making it more difficult to open letters of credit, and buyers are now only able to obtain financing for smaller tonnages. The gloomy picture is compounded by weak steel demand in the country. In Pakistan, a few small tonnage deals have been concluded in recent weeks, which has boosted the market, but the devaluation of the local currency and continuing L/C restrictions are keeping the market subdued. In Turkey, offered prices remain unchanged, largely due to low activity. Financial problems continue as the Central Bank raised interest rates by 7.5% to 25%.
 
 ## Indicative Demolition Prices ($/ldt)
-| Markets | 25/08/23 | 18/08/23 | ±% | YTD High | YTD Low | 2022 | 2021 | 2020 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Tanker | Bangladesh | 520 | 520 | 0.0% | 615 | 515 | 601 | 542 |
-|  | India | 500 | 500 | 0.0% | 570 | 555 | 593 | 519 |
-|  | Pakistan | 500 | 520 | -3.8% | 540 | 535 | 596 | 536 |
-|  | Turkey | 310 | 310 | 0.0% | 340 | 330 | 314 | 284 |
-| Dry Bulk | Bangladesh | 500 | 500 | 0.0% | 600 | 505 | 590 | 532 |
-|  | India | 480 | 480 | 0.0% | 540 | 520 | 583 | 508 |
-|  | Pakistan | 490 | 510 | -3.9% | 520 | 500 | 587 | 526 |
-|  | Turkey | 300 | 300 | 0.0% | 285 | 275 | 304 | 276 |
+| Markets |  | 25/08/23 | 18/08/23 | ±% | YTD High | YTD Low | 2022 | 2021 | 2020 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tanker | Bangladesh | 520 | 520 | 0.0% | 615 | 515 | 601 | 542 | 348 |
+|  | India | 500 | 500 | 0.0% | 570 | 555 | 593 | 519 | 348 |
+|  | Pakistan | 500 | 520 | -3.8% | 540 | 535 | 596 | 536 | 352 |
+|  | Turkey | 310 | 310 | 0.0% | 340 | 330 | 314 | 284 | 207 |
+| Dry Bulk | Bangladesh | 500 | 500 | 0.0% | 600 | 505 | 590 | 532 | 336 |
+|  | India | 480 | 480 | 0.0% | 540 | 520 | 583 | 508 | 335 |
+|  | Pakistan | 490 | 510 | -3.9% | 520 | 500 | 587 | 526 | 338 |
+|  | Turkey | 300 | 300 | 0.0% | 285 | 275 | 304 | 276 | 198 |
 
 ## Currencies
 | Markets | Current | Previous | ±% | YTD High |

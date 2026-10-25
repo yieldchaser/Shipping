@@ -259,6 +259,16 @@ This week a sudden interest rate hike coupled with domestic currency crawling pe
 
 Aliaga, Turkey
 
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| SIA 32 | CONTAINER | 2,801 | 02.05.2024 | AWAITING |
+| HONG XI | GEN.CARGO | 3,621 | 01.05.2024 | AWAITING |
+| JAL GAMINI | TANKER | 22,572 | 27.04.2024 | AWAITING |
+| S MARU 5 | RESEARCH | 1,699 | 25.05.2024 | AWAITING |
+| PITA ERMA | GEN.CARGO | 6,002 | 25.05.2024 | AWAITING |
+| SINOKOR QINGDAO | CONTAINER | 4,734 | 23.04.2024 | AWAITING |
+
+
 ## Page 15
 
 # BEACHING TIDE DATES 2024

@@ -213,8 +213,8 @@ Another robust week for the newbuilding market, with more sales across all segme
 | 4 | Bulker | 82,600 dwt | Chengxi, China | 2026-2027 | Chinese (ICBC Leasing) | $ 34.0m |  |
 | 2 | Bulker | 74,000 dwt | Jiangsu Haitong, China | 2025 | Chinese (Fujian Guohang Group) | $ 32.0m | option exercised |
 | 3 | Bulker | 61,000 dwt | DACKS, China | 2025-2026 | Turkish (Akmar Shipping) | undisclosed |  |
-| 6+4 | PCTC | 10,800 | ceu | SWS, China | 2025 | Canadian (Seaspan) | $ 153.0m |
-| 6 | PCTC | 10,800 | ceu | Guangzhou, China | 2027 | South Korean (HMM) | $ 122.0m |
+| 6+4 | PCTC | 10,800 ceu | SWS, China | 2025 | Canadian (Seaspan) | $ 153.0m | LNG dual-fuel, ammonia /methanol ready, charters with Hyundai Glovis |
+| 6 | PCTC | 10,800 ceu | Guangzhou, China | 2027 | South Korean (HMM) | $ 122.0m | long-term charters with Hyundai Glovis |
 
 ---
 

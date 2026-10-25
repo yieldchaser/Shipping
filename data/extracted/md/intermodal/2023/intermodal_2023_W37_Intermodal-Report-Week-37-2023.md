@@ -192,7 +192,7 @@ The newbuilding market continues to show healthy volumes overall and a wide vari
 | 2 | Bulkers | 210,000 dwt | Qingdao Beihai, China | 2025 | Belgian (CMB SA) | undisclosed | ammonia-fuelled, options exercised |
 | 4 | LPG | 40,000 cbm | Jiangsu Yangzijiang, China | 2026-2027 | Japanese (Lepta Shipping) | $ 67.0m | LPG dual fuelled, against charters with Exmar |
 | 1 | Gas Carrier | 7,500 cbm | Kyokuyo, Japan | 2025 | Greek (Erasmus Shipinvest) | undisclosed |  |
-| 2 | RoRo | 7,000 | ceu | Nihon, Japan | 2026 | Japanese (Mitsui OSK Lines) | undisclosed |
+| 2 | RoRo | 7,000 ceu | Nihon, Japan | 2026 | Japanese (Mitsui OSK Lines) | undisclosed | LNG dual-fuel |
 | 2 | Container | 1,800 teu | Huanghai Shipbuilding, China | 2025 | Belgian (Seatrade) | undisclosed | high reefer capacity, options exercised |
 
 ---

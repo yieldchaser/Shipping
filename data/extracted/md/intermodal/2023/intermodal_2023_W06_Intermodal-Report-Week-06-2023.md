@@ -279,16 +279,16 @@ During the past few days the number of materialized newbuilding contacts that ca
 # Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | 10/02/23 | 03/02/23 | ±% | 2020 | 2019 | 2018 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Tanker | Bangladesh | 555 | 555 | 0.0% | 348 | 410 |
-|  | India | 560 | 560 | 0.0% | 348 | 400 |
-|  | Pakistan | 540 | 540 | 0.0% | 352 | 395 |
-|  | Turkey | 310 | 320 | -3.1% | 207 | 259 |
-| Dry Bulk | Bangladesh | 545 | 545 | 0.0% | 336 | 400 |
-|  | India | 545 | 545 | 0.0% | 335 | 390 |
-|  | Pakistan | 535 | 535 | 0.0% | 338 | 385 |
-|  | Turkey | 300 | 310 | -3.2% | 198 | 249 |
+| Markets |  | 10/02/23 | 03/02/23 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Tanker | Bangladesh | 555 | 555 | 0.0% | 348 | 410 | 442 |
+|  | India | 560 | 560 | 0.0% | 348 | 400 | 438 |
+|  | Pakistan | 540 | 540 | 0.0% | 352 | 395 | 437 |
+|  | Turkey | 310 | 320 | -3.1% | 207 | 259 | 280 |
+| Dry Bulk | Bangladesh | 545 | 545 | 0.0% | 336 | 400 | 431 |
+|  | India | 545 | 545 | 0.0% | 335 | 390 | 428 |
+|  | Pakistan | 535 | 535 | 0.0% | 338 | 385 | 427 |
+|  | Turkey | 300 | 310 | -3.2% | 198 | 249 | 270 |
 
 The market in general is firmer as there are increased flows of tonnage for breakers, with India still being the top destination, as Pakistan and Bangladesh are having financial problems and Turkey is devastated by two huge earthquakes and the humanitarian crisis that followed. The increased tonnage is mainly from containers and bulkers as rates are dipping after the Chinese New Year festivities. In India, the budget announcement by the government did not boost steel prices as expected while breakers' offers were stable w-o-w. In Pakistan, the government and the IMF still cannot reach a deal and thus the country is out of the market. Local breakers are trying to acquire credit lines via Middle Eastern banks while the USD/PKR is at 267.02 supporting the steel price rise. In Bangladesh, the financial situation is slightly better than Pakistan. Only selected breakers can open L/Cs and despite the demand that exists, the restrictions lead owners to India. Talks between the IMF and government are for USD 2 - 3 billion, but more money is needed and local breakers are hoping for resolution, to benefit from the increased prices. In Turkey, the devastating back to back earthquakes caused a humanitarian crisis pushing local breakers to the sideline for now. Average prices in the different markets this week for tankers ranged between 310-555/ldt and those for dry bulk units between \$300-545/ldt.
 

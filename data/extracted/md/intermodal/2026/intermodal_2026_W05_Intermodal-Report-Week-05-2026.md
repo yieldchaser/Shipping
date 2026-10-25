@@ -212,8 +212,8 @@ In dry bulk, Shanghai Leading ordered two 82k dwt kamsarmax bulkers at Wuhu Ship
 | 1+2 | Gas Carrier | 174,000 cbm | HD KSOE, S. Korea | 2028 | Angolan (Sonangol) | $ 250.5m |  |
 | 4+2 | Gas Carrier | 174,000 cbm | Hudong-Zhonghua, China | undisclosed | Greek (TMS Cardiff Gas) | undisclosed |  |
 | 4+4 | MPP | 17,400 dwt | Jiangsu Haitong Offshore, China | 2027-2028 | Singapore based (Wealth Holdings) | undisclosed | Against TC contract to Norden |
-| 2+4 | Ro Ro / Cont | 3,400 | lm | CMI Weihai, China | 2029 | Swedish (Stena RoRo AB) | undisclosed |
-| 2+4 | Cruise ship | 3,000 | pax | Chantiers de l'Atlantique, France | 2029-2032 | US based (Royal Caribbean Cruises) | undisclosed |
+| 2+4 | Ro Ro / Cont | 3,400 lm | CMI Weihai, China | 2029 | Swedish (Stena RoRo AB) | undisclosed | Battery hybrid, LNG ready |
+| 2+4 | Cruise ship | 3,000 pax | Chantiers de l'Atlantique, France | 2029-2032 | US based (Royal Caribbean Cruises) | undisclosed |  |
 
 ---
 

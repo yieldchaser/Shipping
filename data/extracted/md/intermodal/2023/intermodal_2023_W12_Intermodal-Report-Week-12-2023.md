@@ -278,12 +278,17 @@ The Greek owners continue to monopolize the newbuilding interest in the conventi
 
 > **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
-## Indicative Period Charters
+## Newbuilding Orders
 
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 7yr | LPG/NH3 / against  TC to Altagas |  |  |  | 2+2 |
-| 10yr | LNG-fuelled/ more than  TC to Glovis |  |  |  |  |
+| Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | Tanker | 115,000 dwt | SWS, China | 2025 | Singaporean (Eastern Pacific) | \$ 63.0m |  |
+| 4 | Tanker | 18,500 dwt | Wuchang SB Group, China | 2025 | Greek (Athenian Tankers) | \$ 30.0m |  |
+| 2 | Bulker | 210,000 dwt | COSCO HI Yangzhou, China | 2025 | Greek (Cardiff Marine) | \$ 64.0m | dual-fuelled, scrubber fitted |
+| 2 | Bulker | 82,000 dwt | Chengxi, China | 2026 | Greek (Neda Maritime) | \$ 33.5m | LOI Stage |
+| 1 | VLGC | 86,700 cbm | Kawasaki, Japan | 2026 | Singaporean (Kumiai Navigation) | \$ 95.0m | LPG/NH3 / against 7yr TC to Altagas |
+| 2+2 | Container | 730 teu | Cochin Shipyard, India | 2025 | Netherland based ( Samskip HF) | undisclosed | Hydrogen, Fuel Cell & Battery |
+| 3 | PCTC | 8,600 ceu | GSI, China | 2026 | South Korean (HMM) | \$ 100.0m+ | LNG-fuelled/ more than 10yr TC to Glovis |
 
 © Intermodal Research 28/03/2023 6
 

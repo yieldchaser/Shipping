@@ -231,7 +231,7 @@ Elsewhere,UVO also inked a deal for 2 firm PSV units, plus 4 options of 84 LOA e
 | 2 | Containership | 3,200 teu | Hengli Heavy Industries, China | 2028 | Greek (Tsakos) | $ 48.0m | Scrubber fitted |
 | 5 | Gas Carrier | 174,000 cbm | Hudong Zhonghua, China | 2030 | Malaysian (MISC) | undisclosed | LNG |
 | 4 | Gas Carrier | 93,000 cbm | HD Hyundai HI, S. Korea | 2030 | Turkish (BGN International) | $ 116.7m | LPG |
-| 2+4 | Offshore | 84 | loa | Fujian Mawei Shipyard, China | 2028 | UK based (UVO) | undisclosed |
+| 2+4 | Offshore | 84 loa | Fujian Mawei Shipyard, China | 2028 | UK based (UVO) | undisclosed | PSV |
 
 ---
 

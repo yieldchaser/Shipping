@@ -182,9 +182,18 @@ The week's contracting activity totaled 32 firm plus 8 optional vessels across 8
 | Gas | MGC LPG 55k cbm |  | 86.0 | 86.0 | 0.0% | 90.5 | 86.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
 | Gas | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
-## Indicative Period Charters
+## Newbuilding Orders
 
-_No period fixtures reported._
+| Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 10 | VLOC | 325,000 dwt | Qingdao Beihai, China | 2027-2029 | Chinese (Shandong Marine) | \$ 130.0m | Methanol dual-fuel |
+| 6 | Tanker | 159,000 dwt | New Times, China | 2028 | Greek (Dynacom) | \$ 78.0m - \$ 79.0m | scrubber fitted, LNG ready |
+| 2 | Tanker | 158,000 dwt | HD Hyundai, S. Korea | 2027 | Greek (Evalend Shipping) | \$ 89.0m |  |
+| 4 | Tanker | 50,000 dwt | Guangzhou Shipyard, China | 2028 | Taiwanese (Formosa Plastics) | \$ 48.0m |  |
+| 2+6 | Containership | 2,800 teu | Huanghai Shipbuilding, China | 2027 | Belgian (Seatrade Group) | \$ 50.0m | High reefer containerships (1,000 refer plugs) |
+| 2+2 | Containership | 1,800 teu | Jinling Shipyard, China |  | Greek (Chios Navigation) | \$ 31.5m | LOI |
+| 4 | Containership | 4,300 teu | CSSC Guangzhou, China | 2028 | Chinese (Ningbo Ocean) | \$ 69.5m |  |
+| 2 | VLAC | 93,000 cbm | HD Hyundai, S. Korea | 2028 | Nigerian (JV Sahara Group and NNPC) | \$ 125.0m |  |
 
 ---
 

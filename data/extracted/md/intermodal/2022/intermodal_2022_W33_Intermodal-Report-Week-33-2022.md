@@ -117,11 +117,11 @@ Shanghai 200122 China
 
 | Vessel 5 yrs old |  | Aug-22 avg | Jul-22 avg | ±% | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Capesize | 180k | 44.7 | 46.0 | -2.9% | 36.6 | 27.6 | 30.8 |
-| Capesize Eco | 180k | 51.8 | 52.0 | -0.3% | 43.1 | 36.1 | 38.8 |
-| Kamsarmax | 82K | 35.2 | 36.7 | -4.2% | 29.8 | 23.2 | 24.5 |
-| Ultramax | 63k | 32.5 | 33.5 | -3.0% | 26.4 | 19.4 | 22.6 |
-| Handysize | 37K | 28.0 | 28.9 | -3.1% | 21.4 | 16.1 | 17.4 |
+| VLCC | 300KT DH | 82.7 | 81.0 | 2.1% | 69.7 | 71.5 | 72.1 |
+| Suezmax | 150KT DH | 58.7 | 56.0 | 4.8% | 46.7 | 49.9 | 51.0 |
+| Aframax | 110KT DH | 52.0 | 51.0 | 2.0% | 38.7 | 38.8 | 38.3 |
+| LR1 | 75KT DH | 40.5 | 39.7 | 2.0% | 31.2 | 30.7 | 31.3 |
+| MR | 52KT DH | 36.0 | 34.6 | 4.0% | 27.6 | 27.5 | 28.6 |
 
 ## Chartering
 
@@ -314,6 +314,21 @@ Newbuilding activity momentum remained unchanged, with owners interest continued
 ---
 
 # Intermodal Demolition Market
+
+## Indicative Demolition Prices ($/ldt)
+
+| Markets | 19/08/2022 | 12/08/2022 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Tanker |  |  |  |  |  |  |
+| Bangladesh | 580 | 580 | 0.0% | 348 | 410 | 442 |
+| India | 570 | 570 | 0.0% | 348 | 400 | 438 |
+| Pakistan | 565 | 565 | 0.0% | 352 | 395 | 437 |
+| Turkey | 260 | 260 | 0.0% | 207 | 259 | 280 |
+| Dry Bulk |  |  |  |  |  |  |
+| Bangladesh | 570 | 570 | 0.0% | 336 | 400 | 431 |
+| India | 560 | 560 | 0.0% | 335 | 390 | 428 |
+| Pakistan | 550 | 550 | 0.0% | 338 | 385 | 427 |
+| Turkey | 250 | 250 | 0.0% | 198 | 249 | 270 |
 
 As the steel market remains volatile so did the demolition prices have been so far, with demand for tonnage scrap improving across the subcontinent markets but still facing burdens due to the worldwide economic instability. Last week, we noticed increased appetite from subcontinent breakers for fresh tonnage amidst optimism for improvement in steel demand. In Bangladesh, L/C restrictions continue to affect breakers' interest in large LDT units, however, steel restocking has led to an increase in domestic steel prices. In Pakistan, a stronger PKR against the US dollar has rekindled breakers' confidence, yet the overall economic conditions remain negative adding pressure to local still mills. India has experienced a positive market last week with increasing steel domestic demand underpinning tonnage scrap offers as well. Average prices in the different markets this week for tankers ranged between 250-570/ldt and those for dry bulk units between \$260-580/ldt.
 

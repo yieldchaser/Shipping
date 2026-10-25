@@ -445,6 +445,9 @@ def extract_grids(raw_text: str) -> List[List[List[str]]]:
 # "Newcastlemax 205k". A fused header artefact ("VesselBulkersTankersGas",
 # "SizeNewcastlemax") is not a vessel and must never be published.
 _NB_SIZE_RX = re.compile(r"^\d+(?:\.\d+)?\s*[kK]$")
+# Newbuilding Orders: a size unit the parse split into its own cell ("8,600 | ceu", "1,500 | pax")
+_ORDER_UNIT_RX = re.compile(r"^(dwt|teu|cbm|ceu|bopd|gt|cgt|lm|m|m3|cu\.?m\.?|cbm/dwt|dwt/cbm|pax|loa|mtpa|grt|"
+                            r"meters|lane meters|tns|tons?|hp|bhp|kw)$", re.I)
 _NB_FUSED_SIZE_RX = re.compile(r"^(.*?)\s+(\d+(?:\.\d+)?\s*[kK])$")
 _NB_FUSED_RX = re.compile(r"vessel|bulkers|tankers|^size|markets|^current$|^previous$|^change$", re.I)
 # The section label is NOT reliable: in intermodal_2021_W38 the publisher prints the
@@ -902,7 +905,7 @@ def parse_all_intermodal_tables(
                     v_type = cols[1] if len(cols) > 1 else ""
                     size = cols[2] if len(cols) > 2 else ""
                     offset = 0
-                    if len(cols) > 3 and cols[3].lower() in ("dwt", "teu", "cbm", "cbm/dwt"):
+                    if len(cols) > 3 and _ORDER_UNIT_RX.match(cols[3]):
                         size = f"{size} {cols[3]}".strip()
                         offset = 1
                     yard = cols[3 + offset] if len(cols) > (3 + offset) else ""
@@ -917,7 +920,7 @@ def parse_all_intermodal_tables(
                     units_val = "1"
                     size = cols[1] if len(cols) > 1 else ""
                     offset = 0
-                    if len(cols) > 2 and cols[2].lower() in ("dwt", "teu", "cbm", "cbm/dwt"):
+                    if len(cols) > 2 and _ORDER_UNIT_RX.match(cols[2]):
                         size = f"{size} {cols[2]}".strip()
                         offset = 1
                     yard = cols[2 + offset] if len(cols) > (2 + offset) else ""
@@ -1234,6 +1237,12 @@ def process_single_pdf(
         print(f"  [intermodal] {stem} {spot_status}")
     except Exception as e:
         print(f"  [intermodal] {stem} spot check failed ({e}); parsed table kept")
+    import intermodal_orders_fix
+    try:
+        full_text, orders_status = intermodal_orders_fix.rebuild(full_text, pdf_path)
+        print(f"  [intermodal] {stem} {orders_status}")
+    except Exception as e:
+        print(f"  [intermodal] {stem} orders repair failed ({e}); parsed table kept")
 
     # 2. Extract tables across all pages
     parsed = parse_all_intermodal_tables(full_text, issue_date, wk, pdf_path.name)

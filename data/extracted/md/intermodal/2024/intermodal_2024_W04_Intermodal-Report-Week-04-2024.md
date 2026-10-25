@@ -216,7 +216,7 @@ Last week newbuilding activity was healthy. We saw few orders for tankers and bu
 | 1 | VLEC | 98,000 cbm | Hyundai HI, S. Korea | 2027 | UK-based (Purus Marine) | $ 172.0m | Ethane dual fuelled, Against TC to Ineos |
 | 6 | Container | 13,000 teu | Jiangnan, China | 2027-2028 | Japanese (ONE) | undisclosed | Methanol dual fuel |
 | 6 | Container | 13,000 teu | Yangtzijiang, China | 2027-2028 | Japanese (ONE) | undisclosed | Methanol dual fuel |
-| 2 | PCTC | 7,000 | ceu | CMHI Jinling, China | 2025-2026 | Singaporean (Eastern Pacific) | undisclosed |
+| 2 | PCTC | 7,000 ceu | CMHI Jinling, China | 2025-2026 | Singaporean (Eastern Pacific) | undisclosed |  |
 
 ---
 

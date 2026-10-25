@@ -272,7 +272,7 @@ Activity in the new building market was healthy last week with a couple of order
 | 1 | Bulker | 40,000 dwt | Hakodate, Japan | 2025 | Japanese (Hisafuku Kisen) | $ 32.3m |  |
 | 1 | Bulker | 40,000 dwt | Hakodate, Japan | 2025 | Japanese (Kasuga Shipping) | $ 32.3m |  |
 | 2+2 | LNG | 174,000 cbm | Hyundai Samho, S. Korea | 2026 | Omanis (Asyad Shipping) | $ 254.5m |  |
-| 2 | PCTC | 3,000 | ceu | Mitsubishi HI, Japan | 2025 | Japanese (Toyofuji Shipping) | undisclosed |
+| 2 | PCTC | 3,000 ceu | Mitsubishi HI, Japan | 2025 | Japanese (Toyofuji Shipping) | undisclosed | LNG fuelled |
 
 © Intermodal Research 27/12/2022 5
 

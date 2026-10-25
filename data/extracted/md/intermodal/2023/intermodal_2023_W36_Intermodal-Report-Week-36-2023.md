@@ -209,7 +209,7 @@ The newbuilding market took a breather last week with a mediocre number of sales
 | 2+2 | Tanker | 15,000 dwt | CMHI Jinling, China | 2026 | Swedish (Sirius Shipping) | undisclosed | Methanol Ready, battery powered |
 | 2 | Bulker | 325,000 dwt | Qindao Beihai, China | 2026 | Chinese (Winning Shipping) | $ 108.0m | option to upgrade to methanol dual fuel, EEDI phase 3, Bauxite Carrier |
 | 4 | Bulker | 82,000 dwt | Qingdao Yangfan, China | 2026 | Greek (Sea Traders) | $ 34.0m | NOx-Tier III, EEDI phase 3, Scrubber Fitted |
-| 2 | PCC | 4,200 | ceu | Mawei, China | 2026 | Greek (Neptune Shipping) | undisclosed |
+| 2 | PCC | 4,200 ceu | Mawei, China | 2026 | Greek (Neptune Shipping) | undisclosed | LNG capable |
 
 ---
 

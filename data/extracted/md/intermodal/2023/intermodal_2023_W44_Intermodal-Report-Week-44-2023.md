@@ -221,7 +221,7 @@ The previous week was the one that put an end to the quiet market with a total o
 | 3 | Bulker | 9,400 dwt | Royal Bodewes, Netherlands | 2021 | Norwegian (Aasen Shipping) | undisclosed | hybrid, self discharger, methanol ready |
 | 2+2 | General Cargo | 8,500 dwt | Chowgule Group, India | 2025-2026 | German (Leonhardt & Blumberg) | undisclosed | wind-assisted propulsion, carbon capture |
 | 2+2 | General Cargo | 8,500 dwt | Chowgule Group, India | 2025-2026 | Dutch (Boomsma Shipping) | undisclosed | wind-assisted propulsion, carbon capture |
-| 2 | RoRo | 7,000 | ceu | Yantai CIMC Raffles, China | 2025 | Norwegian (Norwegian Car Carriers) | undisclosed |
+| 2 | RoRo | 7,000 ceu | Yantai CIMC Raffles, China | 2025 | Norwegian (Norwegian Car Carriers) | undisclosed |  |
 
 ---
 

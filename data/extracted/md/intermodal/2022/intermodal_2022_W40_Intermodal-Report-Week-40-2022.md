@@ -301,7 +301,7 @@ Ordering activity, albeit firm during last week, has begun to reshape in order t
 | 6 | Container | 17,000 teu | Hyundai Hi, South Korea | 2025 | Danish (Maersk) | undisclosed | methanol fuelled |
 | 2 | Tanker | 157,000 dwt | DH Shipbuilding, South Korea | 2024 | Belgian (Euronav) | $ 75.0m | scrubber fitted |
 | 2 | Tanker | 115,000 dwt | DH Shipbuilding, South Korea | 2025 | Greek (Atlas Maritime) | $ 64.0m |  |
-| 1 | FPSO | 225,000 | bopd | Sembcorp Marine, Singapore | 2026 | Brazilian (Petrobras) | $ 3.05bn |
+| 1 | FPSO | 225,000 bopd | Sembcorp Marine, Singapore | 2026 | Brazilian (Petrobras) | $ 3.05bn | P-82 project |
 | 1 | FSRU | 170,000 cbm | Hyundai Hi, South Korea | 2023 | USA (Excelerate Energy) | undisclosed | LOI stage, LNG regasification system, dual-fuelled, selective catalytic reduction system, boil-off gas management |
 
 © Intermodal Research 11/10/2022 6

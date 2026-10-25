@@ -187,9 +187,18 @@ The dry bulk newbuilding market experienced a robust week, with a total of eleve
 | Gas | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
 | Gas | SGC LPG 25k cbm |  | 62.0 | 62.0 | 0.0% | 62.0 | 58.0 | 62.0 | 40.0 | 56 | 51 | 45 |
 
-## Indicative Period Charters
+## Newbuilding Orders
 
-_No period fixtures reported._
+| Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 | Bulker | 211,000 dwt | Nihon Shipyard, Japan | 2026-2028 | Singaporean (Eastern Pacific) | undisclosed | Old deal |
+| 2 | Bulker | 82,000 dwt | Nantong Xiangyu, China | 2027 | Japanese (Doun Kisen) | \$ 35.3m |  |
+| 2 | Bulker | 63,550 dwt |  | 2027 |  | \$ 37.3m |  |
+| 2 | Bulker | 63,500 dwt | Jiangsu Haitong, China | 2025 | Chinese (Glorious Youth Shipping) | \$ 35.0m | Old deal |
+| 1+1 | LNG bunkering | 12,000 cbm | Nantong CIMC, China | 2026-2027 | Chinese (Wuyang Tanker) | undisclosed | ice class B |
+| 6 | PSV | 5,200 dwt | Estaleiro Navship, Brasil | 2026-2027 | US based (Bram Offshore) | undisclosed | hybrid propulsion, TC to Petrobras |
+| 6 | PSV | 5,200 dwt | Detroit Brasil, Brasil | 2026-2027 | Brazilian (Starnav Servicos Maritimos) | undisclosed | hybrid propulsion, TC to Petrobras |
+| 1 | Container | 1,100 teu | Karachi Ship & Engineering Work, Pakistan |  | Pakistani (Pakistan National Shipping Corp) | \$ 24.8m |  |
 
 ---
 

@@ -185,7 +185,7 @@ The newbuilding activity was robust this week with 10 orders placed encompassing
 | 5 | Container | 24,000 teu | Guangzhou, China | 2028 | Taiwanese (Evergreen Marine) | $265m-$295m | LNG dual fuel |
 | 2 | LNG | 174,000 cbm | Hanwha Ocean, S.Korea | 2027 | S. Korean (Hanwha Shipping LLC) | $ 253.0m | LNG dual fuel |
 | 4 | LNG bunkering | 18,000 cbm | Hyundai Mipo, S. Korea | 2027-2028 | Greek (Evalend Shipping) | $ 93.0m | LNG dual fuel |
-| 1 | HS Pass/Car Cat | 1,500 | pax | Austal Pty,Australia | 2028 | Swedish (Gotlandsdolaget) | $ 174.0m |
+| 1 | HS Pass/Car Cat | 1,500 pax | Austal Pty,Australia | 2028 | Swedish (Gotlandsdolaget) | $ 174.0m | LNG, Hydrogen Ready |
 
 ---
 

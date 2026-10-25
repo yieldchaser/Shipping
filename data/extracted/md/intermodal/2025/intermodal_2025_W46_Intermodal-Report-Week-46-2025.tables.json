@@ -1422,11 +1422,11 @@
         "price_current_usd_m": null,
         "price_previous_usd_m": null,
         "pct_change": "",
-        "yard": "",
-        "delivery": "Chantiers de l'Atlantique, France",
-        "buyer": "2030-2031",
-        "price_raw": "Swiss (MSC)",
-        "comments": "$ 2,025.0m",
+        "yard": "Chantiers de l'Atlantique, France",
+        "delivery": "2030-2031",
+        "buyer": "Swiss (MSC)",
+        "price_raw": "$ 2,025.0m",
+        "comments": "LNG fuel",
         "source_file": "intermodal_2025_W46_Intermodal-Report-Week-46-2025.pdf"
       },
       {
@@ -1440,11 +1440,11 @@
         "price_current_usd_m": null,
         "price_previous_usd_m": null,
         "pct_change": "",
-        "yard": "",
-        "delivery": "Colombo Dockyard, Sri Lanka",
-        "buyer": "2028-2029",
-        "price_raw": "French (Orange Marine)",
-        "comments": "undisclosed",
+        "yard": "Colombo Dockyard, Sri Lanka",
+        "delivery": "2028-2029",
+        "buyer": "French (Orange Marine)",
+        "price_raw": "undisclosed",
+        "comments": "Hybrid",
         "source_file": "intermodal_2025_W46_Intermodal-Report-Week-46-2025.pdf"
       }
     ],

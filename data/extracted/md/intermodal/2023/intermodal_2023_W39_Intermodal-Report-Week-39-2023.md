@@ -214,7 +214,7 @@ New orders continued to be strong last week, with a variety of vessels ordered. 
 | 10 | Bulker | 59,990 dwt | Taizhou Haibin, China | 2025 | Chinese (Zhejiang Jinpu) | undisclosed | domestic coastal trade |
 | 8 | Container | 9,200 teu | SWS, China | 2026-2027 | French (CMA CGM) | $ 126.0m | methanol-fueled |
 | 8 | General Cargo | 7,000 dwt | Huanghai, China | 2026-2027 | Norwegian (Skarv Shipping) | undisclosed |  |
-| 1 | PCTC | 7,000 | ceu | Yantai CIMC Raffles, China | 2026 | Greek (Atlas Maritime) | $ 80.0m |
+| 1 | PCTC | 7,000 ceu | Yantai CIMC Raffles, China | 2026 | Greek (Atlas Maritime) | $ 80.0m | options declared |
 
 ---
 

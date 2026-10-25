@@ -250,15 +250,15 @@ same yard, another order was made by SFL Corporation: 2 LPG/Ammonia carriers of 
 
 ### Newbuilding Orders
 
-| Units | Type | Size |  | Yard | Delivery | Buyer | Price | Comments |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4+2 | Bulker | 82,000 | dwt | Jiangsu Watts Energy, China | 2029-2030 | Chinese (Yangzijiang Maritime) | undisclosed |  |
-| 1 | Bulker | 65,000 | dwt | Nam Trieu Shipbuilding, Vietnam | 2028 | Vietnamese (Hoa Phat Shipping) | undisclosed |  |
-| 4 | Bulker | 64,000 | dwt | New Dayang Shipbuilding, China | 2029-2030 | Taiwanese (U-Ming Marine) | undisclosed |  |
-| 4 | Tanker | 50,000 | dwt | GSI Nansha, China | 2029-2030 | Greek (Top Ships) | undisclosed |  |
-| 2 | Gas Carrier | 93,000 | cbm | Hengli Shipbuilding, China | 2028 | Bermuda based (SFL Corporation) | $ 108.0m | LPG/Ammonia |
-| 3 | Gas Carrier | 90,000 | cbm | Hengli Shipbuilding, China | 2029 | UAE (Adnoc) | $ 108.0m |  |
-| 2 | PCC | 7,100 | ceu | Yantai CIMC Raffles, China | 2030 | Norwegian (NOCC) | undisclosed |  |
+| Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4+2 | Bulker | 82,000 dwt | Jiangsu Watts Energy, China | 2029-2030 | Chinese (Yangzijiang Maritime) | undisclosed |  |
+| 1 | Bulker | 65,000 dwt | Nam Trieu Shipbuilding, Vietnam | 2028 | Vietnamese (Hoa Phat Shipping) | undisclosed |  |
+| 4 | Bulker | 64,000 dwt | New Dayang Shipbuilding, China | 2029-2030 | Taiwanese (U-Ming Marine) | undisclosed |  |
+| 4 | Tanker | 50,000 dwt | GSI Nansha, China | 2029-2030 | Greek (Top Ships) | undisclosed |  |
+| 2 | Gas Carrier | 93,000 cbm | Hengli Shipbuilding, China | 2028 | Bermuda based (SFL Corporation) | $ 108.0m | LPG/Ammonia |
+| 3 | Gas Carrier | 90,000 cbm | Hengli Shipbuilding, China | 2029 | UAE (Adnoc) | $ 108.0m |  |
+| 2 | PCC | 7,100 ceu | Yantai CIMC Raffles, China | 2030 | Norwegian (NOCC) | undisclosed |  |
 
 5
 

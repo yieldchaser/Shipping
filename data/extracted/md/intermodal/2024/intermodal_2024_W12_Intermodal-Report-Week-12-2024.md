@@ -201,13 +201,13 @@ Another strong week in the newbuilding market with tanker newbuilding orders rem
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 | Tanker | 158,000 | dwt | SWS, China | Greek (Cape Shipping) | $ 84.0m |  |
-| 8 | Tanker | 155,000 | dwt | New Times, China | Greek (Dynacom) | $ 83.0m | scrubber fitted, LNG ready |
-| 2 | Tanker | 115,000 | dwt | Zhoushan Changhong, China | Greek (Navios) | undisclosed | scrubber fitted, methanol/LNG-ready |
-| 2 | Tanker | 74,000 | dwt | Jiangsu Yangzijiang, China | Greek (Cape Shipping) | $ 54.0m |  |
-| 4 | Tanker | 49,600 | dwt | Penglai Jinglu, China | US based (Hartree Partners) | $ 43.5m | IMO Tier II |
-| 2+2 | Tanker | 49,000 | dwt | Wuhu, China | UK based (Union Maritime) | $ 44.0m |  |
-| 4 | Tanker | 18,500 | dwt | Wuhu, China | UK based (Union Maritime) | $ 30.0m | IMO Tier II |
+| 2 | Tanker | 158,000 dwt | SWS, China | 2026-2027 | Greek (Cape Shipping) | $ 84.0m |  |
+| 8 | Tanker | 155,000 dwt | New Times, China | 2027 | Greek (Dynacom) | $ 83.0m | scrubber fitted, LNG ready |
+| 2 | Tanker | 115,000 dwt | Zhoushan Changhong, China | 2027 | Greek (Navios) | undisclosed | scrubber fitted, methanol/LNG-ready |
+| 2 | Tanker | 74,000 dwt | Jiangsu Yangzijiang, China | 2027 | Greek (Cape Shipping) | $ 54.0m |  |
+| 4 | Tanker | 49,600 dwt | Penglai Jinglu, China | 2025-2026 | US based (Hartree Partners) | $ 43.5m | IMO Tier II |
+| 2+2 | Tanker | 49,000 dwt | Wuhu, China | 2026 | UK based (Union Maritime) | $ 44.0m |  |
+| 4 | Tanker | 18,500 dwt | Wuhu, China | 2025-2027 | UK based (Union Maritime) | $ 30.0m | IMO Tier II |
 
 ---
 

@@ -97,6 +97,24 @@ Sale & Purchase — Reported Fixtures
 
 ## Page 5
 
+# TANKERS | BDTI: 2,375 ▼-9.66% (w-o-w)
+
+WTI crude surged 7.45% this week to US$97.91, driven by the ongoing Strait of Hormuz closure that continues to block 20% of global seaborne supply. Despite OPEC+ output hikes, logistical bottlenecks persist as most shippers reroute around Africa, increasing costs and tightening immediate availability.
+
+A potential shift in transit dynamics emerged as Iran began granting safe passage to Chinese vessels. Following diplomatic talks, approximately 30 Chinese ships were authorised to use a northern corridor, including a VLCC carrying 2 million barrels of Iraqi crude. While most vessels face US$2 million transit tolls, Chinese state-owned tankers currently appear exempt, helping Beijing protect its 1.4-billion-barrel stockpile.
+
+## Segment Highlights
+
+**VLCC:** VLCC market remains caught in a strong, flat trend as high owner resistance and robust Atlantic momentum from Brazil and the USG help offset the lack of volume in the Middle East. 270,000mt MEG/China falls slightly WS447. Similar was noted in the Atlantic, with WAFR/China closing at WS138.
+
+**Suezmax:** Suezmax maintain a strong sideways trend as tightening supply in West Africa and the Mediterranean balances out an influx of ballasters from the East. Nigeria/UKC ended the week at WS195. While weakening Aframax sentiment in the USG may limit some larger-volume cargoes, declining U.S. inventories are providing enough support for owners to resist further concessions.
+
+**Aframax:** Aframax rates in the Mediterranean are falling sharply as a contraction in chartering activity and an oversupply of prompt tonnage leave owners searching for a market floor. 80,000mt Ceyhan/Lavera fell 50 points to WS186.
+
+**LR1 / LR2:** The Middle East LR market saw downward pressure as shippers maintain a "wait-and-see" stance amidst persistent instability. With the extended blockade causing a prolonged gap in activity, freight rates have fallen significantly as contracts remain stagnant. TC1 ended the week at WS550 while TC5 closed at WS600’s.
+
+**MR:** MR in the Far East saw a decline in freight rates this week as a slowdown in new cargo demand leaves the region oversupplied with tonnage. In the Middle East, TC17 trips to East Africa fell slightly, closing at WS726.
+
 ### Baltic Tanker Indices
 
 | BDTI | BCTI |
@@ -104,16 +122,6 @@ Sale & Purchase — Reported Fixtures
 | 2,375 | 1,726 |
 | WoW: -9.66% | WoW: -7.10% |
 | YoY: +140.38% | YoY: +180.65% |
-
-### Vessel Values (USD Million)
-
-| TYPE | DWT | NB CONTRACT | NB PROMPT | 5 YRS | 10 YRS | 15 YRS |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-
-### Sale & Purchase - Reported Fixtures
-
-| VESSEL | TYPE | DWT | YEAR / BUILT | PRICE (USD M) | BUYER |
-| :--- | :---: | :---: | :---: | :---: | :--- |
 
 ## Page 6
 

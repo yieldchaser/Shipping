@@ -119,6 +119,21 @@ on the MEG/E.Africa route closing at WS215. In the USG, rates continue to fall w
 
 ## Baltic Exchange Tanker Indices
 
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 1,403 | 1,436 | 922 | -2.30% | +52.17% |
+| BCTI | 642 | 627 | 478 | -2.39% | +34.31% |
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 126 | 147 | 116 (E) | 85(E) | 51 |
+| SUEZMAX | 160,000 | 86 | 93 | 77 (E) | 61 (E) | 40 |
+| AFRAMAX | 115,000 | 75 | 75 | 64 (E) | 50 (E) | 35 |
+| LR1 | 73,000 | 60 | 62 | 51 (E) | 42 (E) | 25 |
+| MR | 51,000 | 49 | 52 | 41 (E) | 31 (E) | 21 |
+| *(amount in USD million) | (E) – eco units |  |  |  |  |  |  |
+
+
 ## Page 7
 
 ## Tankers S&P Report

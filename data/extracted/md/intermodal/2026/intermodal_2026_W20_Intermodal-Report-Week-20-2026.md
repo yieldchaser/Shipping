@@ -212,7 +212,7 @@ On the containership side, Shanghai ChangShun contracted Yangzhou Guoyu Shipbuil
 | 3 | Gas Carrier | 174,000 cbm | Samsung HI, S. Korea | 2029 | Canadian (Seapeak) | $ 252.0m | Dual fuel, X-DF |
 | 2 | Gas Carrier | 174,000 cbm | HD KSOE, S. Korea | 2029 | Norewgian (BW LNG) | $ 254.0m | Option exercise |
 | 2 | Gas Carrier | 174,000 cbm | HD Huyn dai, S. Korea | 2029 | UK based (Hayfin Capital Management) | $ 250.5m |  |
-| 2 | PCC | 7,000 | ceu | Yantai CIMC Raffles, China | 2028 | UK based (Zodiac) | $ 100.0m |
+| 2 | PCC | 7,000 ceu | Yantai CIMC Raffles, China | 2028 | UK based (Zodiac) | $ 100.0m | LNG capable |
 
 series of 2.4k teu units at Taizhou Sanfu Ship Engineering, with deliveries set for 2028–2029, at \$45m and featuring IMO EEXI Phase 3, Tier III NOx compliance. Stella Bulk proceeded with a 2+2 order for 737 teu vessels at Taizhou Maple Leaf, with delivery expected in 2028.
 

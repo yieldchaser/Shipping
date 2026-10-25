@@ -282,7 +282,7 @@ The newbuilding market is entering 2023 strongly with container orders leading t
 | 4 | Container | 5,920 teu | Imabari, Japan | 2024 | Singaporean (Eastern Pacific) | undisclosed | conventional fuelled, BWTS fitted |
 | 2 | Container | 1,900 teu | undisclosed | 2024/2025 | Singaporean (Samudera Shipping) | $ 33.0m |  |
 | 4+4 | LNG | 180,000 cbm | CMHI Jiangsu, China | 2026 | Danish (Celsius Shipping) | $ 234.0m |  |
-| 1 | FLNG | 2,4 | mtpa | Wison Heavy Industry, Chinese | undisclosed | Italian (Eni) | undisclosed |
+| 1 | FLNG | 2,4 mtpa | Wison Heavy Industry, Chinese | undisclosed | Italian (Eni) | undisclosed | 180,000 cu m of LNG and 45,000 cu m of LPG |
 
 © Intermodal Research 10/01/2023 6
 

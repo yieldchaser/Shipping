@@ -14,7 +14,7 @@
         "tce_usd_day_current": -1530.0,
         "ws_points_prev": 32.0,
         "tce_usd_day_prev": -2313.0,
-        "change_pct": "$/day\u00b1%33.9%",
+        "change_pct": "$/day±%33.9%",
         "avg_prev_year_1": 2020.0,
         "avg_prev_year_2": 2019.0,
         "source_file": "intermodal_2021_W29_Intermodal-Report-Week-29-2021.pdf"
@@ -1247,9 +1247,9 @@
         "pct_change": "",
         "yard": "Namura, Japan",
         "delivery": "2023-2024",
-        "buyer": "",
+        "buyer": "Taiwanese (Wisdom Marine)",
         "price_raw": "around $29.0m",
-        "comments": "",
+        "comments": "EEDI phase 3",
         "source_file": "intermodal_2021_W29_Intermodal-Report-Week-29-2021.pdf"
       },
       {
@@ -1285,7 +1285,7 @@
         "delivery": "2023-2024",
         "buyer": "Chinese (Minsheng FL)",
         "price_raw": "undisclosed",
-        "comments": "",
+        "comments": "against long-term T/C to MSC, scrubber fitted, LNG fuelled",
         "source_file": "intermodal_2021_W29_Intermodal-Report-Week-29-2021.pdf"
       },
       {
@@ -1899,7 +1899,7 @@
         "issue_date": "2021-07-27",
         "report_week": 29,
         "category": "Currencies",
-        "indicator": "\u20ac / $",
+        "indicator": "€ / $",
         "latest_value": 1.18,
         "prior_value": 1.18,
         "wow_change_pct": "-0.3%",
@@ -1909,7 +1909,7 @@
         "issue_date": "2021-07-27",
         "report_week": 29,
         "category": "Currencies",
-        "indicator": "\u00a3 / $",
+        "indicator": "£ / $",
         "latest_value": 1.37,
         "prior_value": 1.38,
         "wow_change_pct": "-0.3%",
@@ -1919,7 +1919,7 @@
         "issue_date": "2021-07-27",
         "report_week": 29,
         "category": "Currencies",
-        "indicator": "$ / \u00a5",
+        "indicator": "$ / ¥",
         "latest_value": 110.55,
         "prior_value": 110.13,
         "wow_change_pct": "0.4%",

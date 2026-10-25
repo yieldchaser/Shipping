@@ -310,7 +310,7 @@ The newbuilding dry bulk market activity continues to impress for another week w
 | 10 | Container | 11,400 teu | Zhoushan Changhong, China | 2025-2026 | Swiss Based (MSC) | $ 120.0m | LNG dual-fuelled, type-B LNG tanks |
 | 3 | LNG | 200,000 cbm | KSOE, S.Korea | 2026 | Greek (Dynagas) | $ 261.3m | option declared |
 | 2 | LNG | 174,000 cbm | Hyundai Samho, S. Korea | 2026 | Greek (Capital Gas) | $ 250.0m |  |
-| 2 | VLGC | 88,000 | cu.m. | HHI (Ulsan), Korea | undisclosed | Greek (Evalend) | undisclosed |
+| 2 | VLGC | 88,000 cu.m. | HHI (Ulsan), Korea | undisclosed | Greek (Evalend) | undisclosed | option declared |
 
 © Intermodal Research 24/01/2023 5
 

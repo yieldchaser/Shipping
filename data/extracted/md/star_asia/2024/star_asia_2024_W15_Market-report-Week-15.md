@@ -165,6 +165,23 @@ In the latest series of geopolitical issues, Iranian forces seized the MSC Aries
 
 # Containers S&P Report
 
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| BUXCLIFF / BUXCOAST | POST PMAX | 6,712 | 2001 | S. KOREA | 45.0 EN BLOC | UNDISCLOSED |
+| CMA CGM BELLINI | POST PMAX | 5,782 | 2004 | S. KOREA | 18.0 | UNDISCLOSED |
+| NAVIOS SPRING | PMAX | 3,450 | 2007 | S. KOREA | 17.0 | UAE BASED BUYERS |
+| ODYSSEUS | SUB PMAX | 2,824 | 2006 | S. KOREA | 16.0 | MSC |
+| MAERSK DOUALA / MAERSK DAKAR | SUB PMAX | 2,478 | 2004 | GERMANY | N/A | MSC |
+
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 24 | 24 | 17 | 14 | 8 |
+| 1,600 – 1,850 | Geared | 29 | 26 | 20 | 16 | 11 |
+| 2,700 – 2,900 | Gearless | 41 | 38 | 29 | 21 | 15 |
+| 5,100 | Gearless | 94 | 84 | 71 | 42 | 28 |
+| *(amount in USD million) |  |  |  |  |  |  |
+
+
 ## Page 11
 
 # Ship Recycling Market Snapshot
@@ -233,6 +250,20 @@ Markets remained closed for the Eid festive holidays. As a result, no significan
 Aliaga, Turkey
 
 Turkish imported ferrous scrap prices have experienced a slight increase as sellers anticipated a restocking surge. Despite a brief market pause, the bullish sentiment was revived by Türkiye's leading steelmaker, which slashed its rebar list prices, driving up demand.
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| LU ZHOU | TANKER | 534 | 02.04.2024 | AWAITING |
+| HONG YUAN YOU 19 | TANKER | 2,579 | 31.03.2024 | AWAITING |
+| HONG YUAN 01 | CONTAINER | 11,481 | 30.03.2024 | AWAITING |
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| Oscar 1 | GENERAL CARGO | 2,620 | 20.03.2024 | AWAITING |
+| QATAR ANA | BULKER | 8,015 | 26.03.2024 | AWATIING |
+| SEA FLOWER | GENERAL CARGO | 5,282 | 27.03.2024 | AWAITING |
+| BOS LINA | GENERAL CARGO | 3,287 | 29.03.2024 | AWAITING |
+
 
 ## Page 16
 

@@ -213,7 +213,7 @@ Finally, offshore newbuilding activity included Norwegian owner Ostensjo Rederi'
 | 4 | Containership | 6,000 teu | Hengli Shipbuilding, China | 2027-2028 | Singapore based (Eastern Pacific) | $ 79.0m |  |
 | 4 | General Cargo | 10,000 dwt | SPG Marine, Singapore | 2026-2027 | Chinese (Shenzhen Weiqiao) | undisclosed | Battery Hybrid |
 | 1 | General Cargo | 10,000 dwt | Anhui P&S Sealand, China | 2026 | Chinese (Shenzhen Weiqiao) | undisclosed | Battery Hybrid |
-| 1 | AHTS | 50 | meters | Astilleros Gondan, Spain | 2028 | Norwegian (Ostensjo Rederi) | undisclosed |
+| 1 | AHTS | 50 meters | Astilleros Gondan, Spain | 2028 | Norwegian (Ostensjo Rederi) | undisclosed | 150 tons bollard pull, DP2 system |
 
 ---
 

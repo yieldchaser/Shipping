@@ -219,8 +219,8 @@ Elsewhere, UECC ordered a pair of 3k ceu PCCs at China Merchants Jinling for del
 | 2 | Containership | 9,200 teu | SWS, China | 2030 | Taiwanese (Wan Hai Lines) | $ 102.0m - 112.0m | Methanol ready |
 | 4 | Containership | 6,000 teu | Huangpu Wenchong Shipbuilding, China | 2030 | Taiwanese (Wan Hai Lines) | $ 75.2m - $ 82.0m | LNG dual fuel |
 | 4 | Containership | 3,100 teu | Zhoushan Changhong, China | 2028 | Greek (Costamare) | undisclosed | Against TC contract |
-| 2 | PCC | 3,000 | ceu | China Merchants Jinling, China | 2028 | Japanese/Swedish (UECC) | undisclosed |
-| 2+2 | Cruise ship | 378 | pax | Fincantieri, Italy | 2030-2031 | Norwegian (Viking Cruises) | $ 1000.0m |
+| 2 | PCC | 3,000 ceu | China Merchants Jinling, China | 2028 | Japanese/Swedish (UECC) | undisclosed | Battery hybrid, LNG capable |
+| 2+2 | Cruise ship | 378 pax | Fincantieri, Italy | 2030-2031 | Norwegian (Viking Cruises) | $ 1000.0m |  |
 
 ---
 

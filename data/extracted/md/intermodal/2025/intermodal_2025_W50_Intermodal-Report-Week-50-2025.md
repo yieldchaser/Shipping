@@ -206,7 +206,7 @@ The newbuilding activity surged, led by a wave of Cosco Shipping orders at Chine
 | 2 | VLAC | 93,000 cbm | HD Huyndai, S. Korea | 2028 | Greek (Benelux) | $ 120.4m |  |
 | 4 | MPP | 40,000 dwt | Chengxi Shipyard, China | 2028–2030 | Chinese (Cosco Shipping) | undisclosed |  |
 | 2 | RoRo |  | Wuchang SB Group, China | 2028–2030 | Chinese (Cosco Shipping) | undisclosed |  |
-| 4+2 | Cruise ship | 5,400 | pax | Meyer Werft, Germany | 2030–2035 | Swiss (MSC) | $ 1960.0m |
+| 4+2 | Cruise ship | 5,400 pax | Meyer Werft, Germany | 2030–2035 | Swiss (MSC) | $ 1960.0m |  |
 
 ---
 

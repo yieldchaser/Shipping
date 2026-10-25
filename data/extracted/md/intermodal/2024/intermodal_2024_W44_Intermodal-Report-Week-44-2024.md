@@ -198,11 +198,20 @@ In the tanker segment, Dynacom placed an order at Samsung HI for four Suezmax ta
 | Gas | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
 | Gas | SGC LPG 25k cbm |  | 62.0 | 62.0 | 0.0% | 62.0 | 58.0 | 62.0 | 40.0 | 56 | 51 | 45 |
 
-## Indicative Period Charters
+## Newbuilding Orders
 
-| Tenor | Vessel | Built | DWT | Delivery | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 7 years | Charter to Gail (India) for min |  |  | Hengli HI Dalian, China |  | 4 |
+| Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4 | Tanker | 158,000 dwt | Samsung HI, S. Korea | 2027 | Greek (Dynacom) | \$ 83.5m |  |
+| 4 | Tanker | 25,900 dwt | Jiangxi New Jiangzhou, China | 2026 | SG based (MAC Shipping) | \$ 50.0m | Stainless Steel Chemical Tanker |
+| 10 | Container | 17,000 teu | Yangzijiang, China | 2027-2029 | Danish (Maersk Line) | \$ 202.0m | LNG dual-fuel |
+| 8+4 | Container | 12,000 teu | Jiangsu Rongsheng, China |  | Swiss Based (MSC) | \$ 170.0m | LNG dual-fuel |
+| 2 | Container | 4,350 teu | Hengli HI Dalian, China | 2026 | Norwegian (MPC Container Ships) | \$59-60m | LOI stage |
+| 2 | Container | 1,800 teu | Huanghai Shipbuilding, China | 2027 | Chinese (SITC International Holdings) | \$ 29.0m | Option exercised |
+| 1 | LNG | 174,000 cbm | Samsung HI, S. Korea | 2027 | Japanese (K Line) | \$ 259.0m | Charter to Gail (India) for min 7 years |
+| 4 | VLAC | 93,000 cbm | Hengli HI Dalian, China |  | Chinese (Hengli Group) | undisclosed |  |
+| 1 | LEG | 7,000 cbm | Jiangxi New Jiangzhou Shipbuilding, China | 2026 | Chinese (Shenzhen Haihong Shipping) | undisclosed |  |
+| 2+2 | PCC | 4,500 ceu | CMJL Nanjing, China | 2028-2029 | Norwegian (UECC) | undisclosed | LNG, Battery Hybrid |
 
 ---
 

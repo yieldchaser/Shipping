@@ -335,16 +335,16 @@ The newbuilding market continues to see healthy ordering activity, with containe
 # Intermodal Demolition Market
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | 21/01/2022 | 14/01/2022 | ±% | 2021 | 2020 | 2019 |
-| --- | --- | --- | --- | --- | --- | --- |
-| **Tanker** | Bangladesh | 610 | 605 | 0.8% | 542 | 348 |
-|  | India | 580 | 570 | 1.8% | 519 | 348 |
-|  | Pakistan | 600 | 595 | 0.8% | 536 | 352 |
-|  | Turkey | 340 | 340 | 0.0% | 284 | 207 |
-| **Dry Bulk** | Bangladesh | 600 | 595 | 0.8% | 532 | 336 |
-|  | India | 570 | 560 | 1.8% | 508 | 335 |
-|  | Pakistan | 590 | 585 | 0.9% | 526 | 338 |
-|  | Turkey | 330 | 330 | 0.0% | 276 | 198 |
+| Markets |  | 21/01/2022 | 14/01/2022 | ±% | 2021 | 2020 | 2019 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Tanker** | Bangladesh | 610 | 605 | 0.8% | 542 | 348 | 410 |
+|  | India | 580 | 570 | 1.8% | 519 | 348 | 400 |
+|  | Pakistan | 600 | 595 | 0.8% | 536 | 352 | 395 |
+|  | Turkey | 340 | 340 | 0.0% | 284 | 207 | 259 |
+| **Dry Bulk** | Bangladesh | 600 | 595 | 0.8% | 532 | 336 | 400 |
+|  | India | 570 | 560 | 1.8% | 508 | 335 | 390 |
+|  | Pakistan | 590 | 585 | 0.9% | 526 | 338 | 385 |
+|  | Turkey | 330 | 330 | 0.0% | 276 | 198 | 249 |
 
 Offered scrap levels across the Indian-subcontinent markets increased for another week. The number of vessels destined for recycling is low, leading both the Bangladeshi and Pakistani breakers to compete with each other with improved bids being circulating for any available units. In Bangladesh, demand for steel is strong, yet with prices remaining stable w-o-w. As a result, the need for imported scrap has been depicted on the improved offered levels as of late with their Pakistani competitors following closely in order to maintain their market share. In India, domestic steel plate demand remains robust, with prices continuing their upward trajectory for another week. Against this background, breakers have managed to secure a number of specialist units by offering remarkable demo levels. Average prices in the different markets this week for tankers ranged between 340-610/ldt and those for dry bulk units between \$330-600/ldt.
 

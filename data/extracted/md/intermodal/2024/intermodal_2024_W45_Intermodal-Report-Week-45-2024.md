@@ -194,7 +194,7 @@ Last week's activity in the newbuilding market comprised six orders placed mostl
 | 4 | Tanker | 75,000 dwt | Yangzijiang, China | 2028 | Greek (Dynacom) | $ 55.0m |  |
 | 5 | Container | 9,000 teu | Hudong Zhonghua, China | 2027-2028 | Singapore based (PIL) | undisclosed | LNG dual-fuel, scrubber |
 | 2 | Container | 9,000 teu | Hyundai Samho, S. Korea | 2027 | South Korean (KMTC) | $ 115.3m |  |
-| 2 | PCC | 11,700 | ceu | CMJL Nanjing, China | 2028 | Norwegian (Wallenius Wilhelmsen) | undisclosed |
+| 2 | PCC | 11,700 ceu | CMJL Nanjing, China | 2028 | Norwegian (Wallenius Wilhelmsen) | undisclosed | options excercised, methanol, ammonia-ready |
 | 6 | OSSV |  | Esbjerg Shipyard, Denmark | 2026-2028 | German (MPC Capital) | $ 23.0m | hydrogen-ready |
 | 4 | LNG bunkering | 18,000 cbm | Hyundai Mipo, S. Korea | 2028 | JV between Eastern Pacific and MSC | $ 92.6m |  |
 

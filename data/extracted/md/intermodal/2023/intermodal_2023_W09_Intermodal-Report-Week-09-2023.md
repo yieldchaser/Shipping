@@ -252,11 +252,21 @@ In the Handysize sector we had the sale of the "GALLEON" (28,294dwt-bl't '14, Ja
 
 ## Indicative Newbuilding Prices (million$)
 
-| Vessel | 3-Mar-23 | 24-Feb-23 |
-| --- | --- | --- |
-| Bulkers |  |  |
-| Tankers |  |  |
-| Gas |  |  |
+| Sector | Vessel | Size | 3-Mar-23 | 24-Feb-23 | ±% | 2022 | 2021 | 2020 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulkers | Newcastlemax | 205k | 64.0 | 64.0 | 0.0% | 66 | 59 | 51 |
+| Bulkers | Capesize | 180k | 61.0 | 61.0 | 0.0% | 63 | 56 | 49 |
+| Bulkers | Kamsarmax | 82k | 34.0 | 34.0 | 0.0% | 36 | 33 | 28 |
+| Bulkers | Ultramax | 63k | 31.5 | 31.5 | 0.0% | 34 | 30 | 26 |
+| Bulkers | Handysize | 38k | 29.0 | 29.0 | 0.0% | 30 | 27 | 24 |
+| Tankers | VLCC | 300k | 120.0 | 120.0 | 0.0% | 118 | 98 | 88 |
+| Tankers | Suezmax | 160k | 80.0 | 80.0 | 0.0% | 79 | 66 | 58 |
+| Tankers | Aframax | 115k | 66.0 | 66.0 | 0.0% | 62 | 53 | 48 |
+| Tankers | MR | 50k | 45.0 | 44.5 | 1.1% | 43 | 38 | 35 |
+| Gas | LNG 174k cbm |  | 251.0 | 250.0 | 0.4% | 232 | 195 | 187 |
+| Gas | LGC LPG 80k cbm |  | 92.0 | 92.0 | 0.0% | 86 | 76 | 73 |
+| Gas | MGC LPG 55k cbm |  | 79.5 | 79.0 | 0.6% | 74 | 67 | 63 |
+| Gas | SGC LPG 25k cbm |  | 53.5 | 53.5 | 0.0% | 51 | 45 | 42 |
 
 The newbuilding market is showing a few signs that is firming up with a few deals, mainly Bulkers and Tankers, being concluded. In the tanker sector Pantheon Tankers and Union Marine both ordered two 115,000 dwt Tankers from the Chinese Yangzijiang Shipbuilding, ready for delivery in 2026, which costed \$59.7m each. Nissen Kaiun also ordered four 50,000 dwt tankers from Hyundai Mipo, costing \$45.66m and expected delivery in 2025. On the Bulker sector, Nantong Xiangyu received 4 orders for 63,500 dwt bulkers with CZbank leasing (2), Guangxi Jinhang (1) and Juhe Shipping (1) being the owners and delivery expected in 2025. The Taiwanese Wan Hai Lines ordered three 3,055 boxships from Japan Marine United for a cost of \$49m each. The vessels are equipped with twisted bulb rudders and a pre-swirl finishing for energy saving reasons. In the LNG front, NYK Lines ordered three 174,000 cbm LNG carriers from KSOE, to be delivered in 2027 and they paid \$255m per ship. That price is the highest paid for this type and size of ship according to the shipyard, while the previous one was around \$253m.
 

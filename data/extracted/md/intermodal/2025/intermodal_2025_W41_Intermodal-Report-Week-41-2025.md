@@ -205,11 +205,17 @@ Finally, the LNG bunkering segment witnessed 2 orders. GSX Energy, ordered 2 fir
 | Gas | MGC LPG 55k cbm |  | 85.0 | 85.0 | 0.0% | 90.5 | 85.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
 | Gas | SGC LPG 25k cbm |  | 59.5 | 59.5 | 0.0% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
-## Indicative Period Charters
+## Newbuilding Orders
 
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 2 years | Against TC for 8+ |  |  |  | 2+2 |
+| Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4+8 | Bulker | 64,500 dwt | Wuhu Shipyard, China | 2027-2028 | Chinese (Huaxing Shipping) | \$ 33.3m |  |
+| 4+4 | Containership | 3,100 teu | Yangzhou Guoyu, China | 2028 | Greek (Chartworld) | \$ 42.0m |  |
+| 4+4 | Containership | 3,100 teu | CMI Weihai, China | 2027-2028 | Singaporean/Israeli (JV Eastern Pacific / XT Shipping) | \$ 43.0m | Scrubber fitted |
+| 4 | Containership | 3,000 teu | Penglai Zhongbai Jinglu Ship Industry, China | 2027 | Greek (Minerva Dry) | \$ 43.0m |  |
+| 2+4 | Containership | 1,600 teu | Fujian Mawei Shipyard, China | 2027 | German (MPC Container Ships) | \$ 33.0m | Against TC for 8+2 years |
+| 2+2 | Gas Carrier | 20,000 cbm | Nantong CIMC SOE, China | 2028 | Hong Kong based (GSX Energy) | undisclosed | LNGBV |
+| 2 | Gas Carrier | 18,900 cbm | Nantong CIMC SOE, China | 2028 | UK based (Purus Marine) | undisclosed | LNGBV, against TC to Shell |
 
 ---
 

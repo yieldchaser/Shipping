@@ -265,17 +265,17 @@ The newbuilding market activity improved last week with a total of 31 units bein
 ### Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2+1 | Tanker | 115,000 | dwt | SWS, China | Greek (Thenamaris) | $ 63.5m | scrubber fitted |
-| 2 | Tanker | 115,000 | dwt | SWS, China | Swiss-based (Vitol) | $ 63.5m | scrubber fitted |
-| 2 | Tanker | 50,000 | dwt | Jiangsu New Yangzijiang, China | Greek (Evalend) | $ 40.0m |  |
-| 3 | Bulker | 82,500 | dwt | Oshima, Japan | Greek (Sea Pioneer) | $ 38.0m |  |
-| 1 | Bulker | 67,500 | dwt | Tsuneishi, Japan | undisclosed | undisclosed | methanol fuelled |
-| 2 | Bulker | 40,000 | dwt | Jiangsu New Yangzijiang, China | Greek (Evalend) | $ 29.5m |  |
-| 1 | LNG | 174,000 | cbm | DSME, S. Korea | Japanese (Mitsui OSK Lines) | $ 249.0m |  |
-| 2 | VLGC | 88,000 | cbm | KSOE, S.Korea | Greek (Latsco) | $98.8m |  |
-| 6 | Container | 16,000 | teu | Jiangnan Shipyard, China | French (CMA CGM) | $ 175.0m | methanol fuelled |
-| 7 | Container | 9,000 | teu | Hyundai Samho, S. Korea | South Korean (HMM) | $123.5m | methanol-fuelled |
-| 2 | Container | 9,000 | teu | HJ Shipbuilding & Construction | South Korean (HMM) | $123.5m | methanol-fuelled |
+| 2+1 | Tanker | 115,000 dwt | SWS, China | 2025 | Greek (Thenamaris) | $ 63.5m | scrubber fitted |
+| 2 | Tanker | 115,000 dwt | SWS, China | 2025 | Swiss-based (Vitol) | $ 63.5m | scrubber fitted |
+| 2 | Tanker | 50,000 dwt | Jiangsu New Yangzijiang, China | 2025 | Greek (Evalend) | $ 40.0m |  |
+| 3 | Bulker | 82,500 dwt | Oshima, Japan | 2025 | Greek (Sea Pioneer) | $ 38.0m |  |
+| 1 | Bulker | 67,500 dwt | Tsuneishi, Japan | undisclosed | undisclosed | methanol fuelled |  |
+| 2 | Bulker | 40,000 dwt | Jiangsu New Yangzijiang, China | 2025 | Greek (Evalend) | $ 29.5m |  |
+| 1 | LNG | 174,000 cbm | DSME, S. Korea | 2027 | Japanese (Mitsui OSK Lines) | $ 249.0m |  |
+| 2 | VLGC | 88,000 cbm | KSOE, S.Korea | 2025 | Greek (Latsco) | $98.8m |  |
+| 6 | Container | 16,000 teu | Jiangnan Shipyard, China | 2025-2026 | French (CMA CGM) | $ 175.0m | methanol fuelled |
+| 7 | Container | 9,000 teu | Hyundai Samho, S. Korea | 2025 | South Korean (HMM) | $123.5m | methanol-fuelled |
+| 2 | Container | 9,000 teu | HJ Shipbuilding & Construction | 2025 | South Korean (HMM) | $123.5m | methanol-fuelled |
 
 © Intermodal Research 21/02/2023 5
 

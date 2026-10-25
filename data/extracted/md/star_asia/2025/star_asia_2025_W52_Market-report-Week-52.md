@@ -251,6 +251,15 @@ Bangladesh The market in Bangladesh mirrored this sluggishness, with minimal int
 
 Turkiye In contrast to the quieter South Asian markets, Turkiye saw stable prices following the Christmas holiday, bolstered by a steady flow of deal-making. Steelmakers in the region have been actively securing materials for late January and early February shipments
 
+| CURRENCY | EXCHANGE RATES | December 30 | December 19 | W-O-W % CHANGE |
+| --- | --- | --- | --- | --- |
+| USD / CNY (CHINA) |  | 7.00 | 7.04 | +0.57% |
+| USD / BDT (BANGLADESH) |  | 122.32 | 122.2 | -0.10% |
+| USD / INR (INDIA) |  | 89.88 | 90.17 | +0.32% |
+| USD / PKR (PAKISTAN) |  | 280.13 | 280.18 | +0.02% |
+| USD / TRY (TURKEY) |  | 42.93 | 42.73 | -0.47% |
+
+
 ## Page 16
 
 before the full holiday break begins. Despite the expected slowdown in trading momentum due to the season, the tone among market participants remains optimistic. Currently, scrap levels for shipments originating from the U.S. are being reported at around US$370/ton.

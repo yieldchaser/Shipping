@@ -231,6 +231,11 @@ Gadani
 
 Despite a challenging domestic environment where the local steel market remains suppressed due to severe flooding, Pakistan's ship recycling market has shown notable resilience. Activity was muted this week, with no new vessels arriving at the Gadani waterfront, leaving an absence of fresh tonnage for recyclers.
 
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| DK 03 | BULKER | 7,809 | 04.08.2025 | AWAITING |
+
+
 ## Page 15
 
 Nevertheless, buyers have held their price indications firm, maintaining the same levels as the previous week for potential candidates.

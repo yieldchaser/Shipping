@@ -185,14 +185,14 @@ Tankers were again in focus last week in the shipbuilding market, with a total o
 # Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 | Tanker | 307,000 | dwt | DSIC, China | Greek (Capital) | $ 140.0m | options excercised, LNG dual-fuel |
-| 4 | Tanker | 113,600 | dwt | Fujian Mawei, China | UK based (Union Maritime) | undisclosed | LNG dual-fuel |
-| 2 | Tanker | 41,000 | dwt | Yangzijiang, China | Italian (Navigazione Montanari) | $ 45.0m |  |
-| 2 | Tanker | 50,000 | dwt | Hyundai Mipo, S. Korea | Dubai based (Gulf Energy Maritime) | $ 50.0m |  |
-| 2 | Bulker | 82,000 | dwt | Hengli HI Dalian, China | Greek (Veritas Shipmanagement) | $ 38.0m |  |
-| 2 | Bulker | 32,000 | dwt | CSSC Huangpu, China | Singapore-based (AAL Shipping) | undisclosed | methanol-ready |
-| 4 | Container | 10,000 | teu | SWS, China | Singaporean (X-Press Feeders) | $ 115.0m |  |
-| 4 | PCTC | 9,300 | ceu | CSC Jinling, China | Norwegian (Wallenius Wilhelmsen) | undisclosed | options excercised |
+| 2 | Tanker | 307,000 dwt | DSIC, China | 2026-2027 | Greek (Capital) | $ 140.0m | options excercised, LNG dual-fuel |
+| 4 | Tanker | 113,600 dwt | Fujian Mawei, China | 2027 | UK based (Union Maritime) | undisclosed | LNG dual-fuel |
+| 2 | Tanker | 41,000 dwt | Yangzijiang, China | 2027 | Italian (Navigazione Montanari) | $ 45.0m |  |
+| 2 | Tanker | 50,000 dwt | Hyundai Mipo, S. Korea | 2026 | Dubai based (Gulf Energy Maritime) | $ 50.0m |  |
+| 2 | Bulker | 82,000 dwt | Hengli HI Dalian, China | 2026 | Greek (Veritas Shipmanagement) | $ 38.0m |  |
+| 2 | Bulker | 32,000 dwt | CSSC Huangpu, China | 2026 | Singapore-based (AAL Shipping) | undisclosed | methanol-ready |
+| 4 | Container | 10,000 teu | SWS, China | 2027 | Singaporean (X-Press Feeders) | $ 115.0m |  |
+| 4 | PCTC | 9,300 ceu | CSC Jinling, China | 2026-2028 | Norwegian (Wallenius Wilhelmsen) | undisclosed | options excercised |
 
 ---
 

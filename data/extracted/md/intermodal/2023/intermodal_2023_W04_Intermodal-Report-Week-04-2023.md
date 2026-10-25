@@ -271,6 +271,21 @@ The previous week was a silent one in the newbuilding sector with not many deals
 
 # Demolition Market
 
+## Indicative Demolition Prices ($/ldt)
+
+| Markets | 27/01/23 | 20/01/23 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Tanker |  |  |  |  |  |  |
+| Bangladesh | 550 | 545 | 0.9% | 348 | 410 | 442 |
+| India | 560 | 555 | 0.9% | 348 | 400 | 438 |
+| Pakistan | 540 | 540 | 0.0% | 352 | 395 | 437 |
+| Turkey | 310 | 310 | 0.0% | 207 | 259 | 280 |
+| Dry Bulk |  |  |  |  |  |  |
+| Bangladesh | 540 | 535 | 0.9% | 336 | 400 | 431 |
+| India | 545 | 540 | 0.9% | 335 | 390 | 428 |
+| Pakistan | 535 | 535 | 0.0% | 338 | 385 | 427 |
+| Turkey | 300 | 300 | 0.0% | 198 | 249 | 270 |
+
 The previous week was quiet as long as tonnage supply is concerned as recyclers are looking for more vessels. The container segment is the main supplier of fresh tonnage as rates are low and owners prefer to dispose of them as the survey dates are edging closer. It is not the same for Tankers and Bulkers since there is expectations for improved rates as Asian New Year's festivities are ending, and the trade will most probably pick up. In India, the recyclers are very keen to acquire more tonnage since there are available slots after the quiet 2022. Fundamentally, the USD/INR stayed at 81.5, a healthier level than 83, at the beginning of the year. In Pakistan, there is no change as far as the financial struggles are concerned. The limit on the dollar-rupee rate has been removed and the local currency marked the biggest fall in over 20 years surpassing the USD/PKR 260 mark forcing breakers to remain out of the market for the time being. Bangladesh stands in a slightly better position, despite the financial problems. On the fundamentals, steel prices are higher, and the Taka seems that it finds stability at 105 against the dollar. In Turkey, despite the fact the steel prices are rising, and recycling prices are up, no new deals have been concluded for Turkish breakers. The Turkish Lira stabilized at 18.81. Average prices in the different markets this week for tankers ranged between 310-555/Idt and those for dry bulk units between \$300-540/Idt.
 > **Chart (not transcribed):** Tanker Demolition Prices. The report prints no values for it.
 

@@ -207,7 +207,7 @@ It was a robust week for the newbuilding market, with new orders across various 
 | 2 | Containership | 2,800 teu | Hyundai Mipo, S. Korea | 2027 | Singaporean (Sea Consortium) | $ 56.0m |  |
 | 2 | Containership | 1,800 teu | Huanghai Shipbuilding, China | 2028 | Chinese (SITC) | $ 29.0m | Exercise of option |
 | 1 | LNG bunkering | 20,000 cbm | Jiangnan Shipyard, China | 2027 | Chinese (SIPG Energy) | undisclosed | LNG, NOx Tier III |
-| 1 | Cable Layer | 139 | loa | Nantong Xiangyu, China | 2027 | Chinese (ZTT) | undisclosed |
+| 1 | Cable Layer | 139 loa | Nantong Xiangyu, China | 2027 | Chinese (ZTT) | undisclosed | Fully electric powered |
 
 ---
 

@@ -210,7 +210,7 @@ In specialized tonnage, German owner Carsten Rehder ordered 4 firm plus 2 option
 | 2 | Container | 2,800 teu | HD KSOE, S. Korea | 2027 | Greek (Capital) | $ 56.9m | Scrubber fitted |
 | 1 | Container | 1,800 teu | HD KSOE, S. Korea | 2027 | Greek (Capital) | $ 45.0m |  |
 | 4+2 | MPP | 7,500 dwt | Garden Reach, India | 2028-2029 | German (Carsten Rehder) | $ 15.6m | Methanol ready |
-| 1 | Cable Layer | 123 | loa | PaxOcean, Singapore | 2028 | Belgian (DEME) | undisclosed |
+| 1 | Cable Layer | 123 loa | PaxOcean, Singapore | 2028 | Belgian (DEME) | undisclosed | Methanol ready, battery hybrid |
 | 1 | TSV |  | China Merchants Heavy Industry, China | 2027 | Greek (Asso Subsea) | undisclosed | Methanol ready, battery hybrid |
 
 ---

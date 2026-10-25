@@ -345,15 +345,15 @@ Bulk Carriers Newbuilding Prices (m$)
 
 ### Newbuilding Orders
 
-| Units | Type | Size | Size | Yard | Delivery | Buyer | Price | Comments |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 | Tanker | 158,000 | dwt | Hyundai Samho, S. Korea | 2025 | Greek (Evalend) | $ 84.0m | scrubber fitted |
-| 2 | Tanker | 115,000 | dwt | New Times, China | 2026 | Greek (Cardiff Marine) | $ 63.0m |  |
-| 2 | Bulker | 63,000 | dwt | COSCO Zhoushan, China | 2025 | Greek (Century Bulk Carriers) | $ 32.0m |  |
-| 2 | Bulker | 40,000 | dwt | Namura, Japan | 2026 | Taiwanese (Wisdom Marine Group) | $ 33.0m | conventional fuel |
-| 10 | Container | 13,700 | teu | Nihon, Japan | 2025-2026 | Japanese (ONE) | $ 160.0m | Methanol and ammonia ready |
-| 2 | LNG | 174,000 | cbm | DSME, S. Korea | 2027 | Greek (Maran Gas) | $ 256.2m |  |
-| 2 | VLGC | 91,000 | cbm | KSOE, S.Korea | 2026 | Kuwait & Cairo based (AMPTC) | $ 103.5m |  |
+| Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | Tanker | 158,000 dwt | Hyundai Samho, S. Korea | 2025 | Greek (Evalend) | $ 84.0m | scrubber fitted |
+| 2 | Tanker | 115,000 dwt | New Times, China | 2026 | Greek (Cardiff Marine) | $ 63.0m |  |
+| 2 | Bulker | 63,000 dwt | COSCO Zhoushan, China | 2025 | Greek (Century Bulk Carriers) | $ 32.0m |  |
+| 2 | Bulker | 40,000 dwt | Namura, Japan | 2026 | Taiwanese (Wisdom Marine Group) | $ 33.0m | conventional fuel |
+| 10 | Container | 13,700 teu | Nihon, Japan | 2025-2026 | Japanese (ONE) | $ 160.0m | Methanol and ammonia ready |
+| 2 | LNG | 174,000 cbm | DSME, S. Korea | 2027 | Greek (Maran Gas) | $ 256.2m |  |
+| 2 | VLGC | 91,000 cbm | KSOE, S.Korea | 2026 | Kuwait & Cairo based (AMPTC) | $ 103.5m |  |
 
 6
 

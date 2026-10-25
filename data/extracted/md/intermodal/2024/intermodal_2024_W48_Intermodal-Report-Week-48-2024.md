@@ -226,17 +226,17 @@ Lastly, in the container segment, TMS Group signed a contract for the constructi
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4 | Tanker | 65,000 | dwt | GSI, China | Chinese (Nanjing Tanker) | $ 63.0m | IMO Tier III, methanol ready |
-| 4 | Tanker | 39,000 | dwt | Yangzijiang, China | Greek (Evalend) | $ 43.0m |  |
-| 4 | Tanker | 7,999 | dwt | CMHI Jinling, China | Swedish (Sirius Shipping) | undisclosed |  |
-| 2 | Bulker | 182,000 | dwt | Namura, Japan | Greek (DryDel) | undisclosed | scrubber fitted |
-| 2 | Bulker | 64,000 | dwt | Nihon Shipyard, Japan | HK based (Pacific Basin Shipping) | $ 46.5m | methanol dual-fuel |
-| 2 | Bulker | 64,000 | dwt | Nihon Shipyard, Japan | Japanese (Mitsui & Co) | $ 46.5m | methanol dual-fuel |
-| 2 | Bulker | 64,000 | dwt | New Dayang, China | Taiwanese (Chailease Holding) | $ 35.0m | Crown 63-Plus, LNG ready |
-| 2 | Bulker | 40,400 | dwt | Jiangsu Dalian , China | Chinese (Chun An Shipping) | $ 30.0m |  |
-| 4 | Container | 7,900 | teu | HJ Shipbuilding, S. Korea | Greek (TMS Group) | $ 108.5m | scrubber fitted, methanol-ready |
-| 1 | PSV | 4,300 | dwt | Dalian Liaonan, China | Chinese (CNPC Offshore Shipping) | $ 25.0m |  |
-| 2 | MPSV | 4,650 | dwt | Fujian Mawei, China | US based (Seacor) | $ 41.0m |  |
+| 4 | Tanker | 65,000 dwt | GSI, China | 2027-2028 | Chinese (Nanjing Tanker) | $ 63.0m | IMO Tier III, methanol ready |
+| 4 | Tanker | 39,000 dwt | Yangzijiang, China | 2027-2028 | Greek (Evalend) | $ 43.0m |  |
+| 4 | Tanker | 7,999 dwt | CMHI Jinling, China | 2026 | Swedish (Sirius Shipping) | undisclosed |  |
+| 2 | Bulker | 182,000 dwt | Namura, Japan | 2028 | Greek (DryDel) | undisclosed | scrubber fitted |
+| 2 | Bulker | 64,000 dwt | Nihon Shipyard, Japan | 2028-2029 | HK based (Pacific Basin Shipping) | $ 46.5m | methanol dual-fuel |
+| 2 | Bulker | 64,000 dwt | Nihon Shipyard, Japan | 2028-2029 | Japanese (Mitsui & Co) | $ 46.5m | methanol dual-fuel |
+| 2 | Bulker | 64,000 dwt | New Dayang, China | 2028 | Taiwanese (Chailease Holding) | $ 35.0m | Crown 63-Plus, LNG ready |
+| 2 | Bulker | 40,400 dwt | Jiangsu Dalian , China | 2026 | Chinese (Chun An Shipping) | $ 30.0m |  |
+| 4 | Container | 7,900 teu | HJ Shipbuilding, S. Korea | 2026-2027 | Greek (TMS Group) | $ 108.5m | scrubber fitted, methanol-ready |
+| 1 | PSV | 4,300 dwt | Dalian Liaonan, China | 2027 | Chinese (CNPC Offshore Shipping) | $ 25.0m |  |
+| 2 | MPSV | 4,650 dwt | Fujian Mawei, China | 2026-2027 | US based (Seacor) | $ 41.0m |  |
 
 ---
 

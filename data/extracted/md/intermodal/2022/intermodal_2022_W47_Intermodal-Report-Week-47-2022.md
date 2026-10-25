@@ -268,7 +268,7 @@ The newbuilding ordering activity continues to witness a steady number of materi
 | 2 | Tanker | 50,000 dwt | Hyundai Vinashin, Vietnam | 2025 | Singaporean (Eastern Pacific) | $ 43.0m |  |
 | 4 | Bulker | 20,000 dwt | Hengli HI Dalian, China (ex STX Dalian) | undisclosed | Chinese (Hengli Group) | undisclosed |  |
 | 5 | LNG | 174,000 cbm | Samsung HI, S. Korea | 2027 | US based (Seapeak) | $ 215.46m | against 10-year T/C to ExxonMobil |
-| 6 | PCTC | 7,000 | ceu | Xiamen , China | 2025-2026 | Chinese (COSCO Shipping) | excess $ 85.0m |
+| 6 | PCTC | 7,000 ceu | Xiamen , China | 2025-2026 | Chinese (COSCO Shipping) | excess $ 85.0m | LNG dual fuel |
 
 © Intermodal Research 29/11/2022 5
 

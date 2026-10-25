@@ -172,6 +172,13 @@ Supramax 10TC averaged \$ 11,110/day down -8.04% w-o-w, while the Handysize 7TC 
 | HANDY | FOUR OTELLO | 36,391 | 2010 | SPP, S. Korea | MAN-B\&W | Jun-25 | 4 X 35t CRANES | region $ 23,0m | Greek |  |
 | HANDY | NORD COPENHAGEN | 33,175 | 2012 | KANDA, Japan | Mitsubishi | Sep-27 | 4 X 30,5t CRANES | low $ 14,0m | undisclosed |  |
 
+## Gas/LPG/LNG
+| Type | Name | Dwt | Built | Yard | M/E | SS due | Cbm | Price | Buyers | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LNG | BW BOSTON | 77,410 | 2003 | DAEWOO, S. Korea | Kawasaki | Jul-27 | 77,410 | $ 35.0m | undisclosed |  |
+| VLGC | SPREAD EAGLE | 54,557 | 2016 | HYUNDAI, S. Korea | MAN-B\&W | Jan-26 | 54,557 | $ 81.0m | Indian (Foresight Group) |  |
+| LPG | LUIGI LAGRANGE | 29,191 | 2006 | DAEWOO, S. Korea | MAN-B\&W | Jan-26 | 29,191 | $ 38.5m | undisclosed |  |
+
 ---
 
 ## Newbuilding Market

@@ -169,6 +169,11 @@ issue_date,report_week,sector,vessel_class,age_profile,price_usd_m_current,price
 2021-11-09,44,Bulker,Kamsarmax 82K,5Y,35.0,34.6,1.2%,23.2,24.7,24.2,intermodal_2021_W44_Intermodal-Report-Week-44-2021.pdf
 2021-11-09,44,Bulker,Ultramax 63k,5Y,32.0,31.8,0.6%,19.4,23.1,,intermodal_2021_W44_Intermodal-Report-Week-44-2021.pdf
 2021-11-09,44,Bulker,Handysize 37K,5Y,26.0,25.8,0.8%,16.1,17.9,16.1,intermodal_2021_W44_Intermodal-Report-Week-44-2021.pdf
+2021-11-09,44,Tanker,VLCC 300KT DH,5Y,71.0,71.0,0.0%,71.5,72.4,65.6,intermodal_2021_W44_Intermodal-Report-Week-44-2021.pdf
+2021-11-09,44,Tanker,Suezmax 150KT DH,5Y,48.0,48.0,0.0%,49.9,51.3,44.8,intermodal_2021_W44_Intermodal-Report-Week-44-2021.pdf
+2021-11-09,44,Tanker,Aframax 110KT DH,5Y,40.0,40.0,0.0%,38.8,38.6,33.0,intermodal_2021_W44_Intermodal-Report-Week-44-2021.pdf
+2021-11-09,44,Tanker,LR1 75KT DH,5Y,31.0,31.0,0.0%,30.7,31.6,29.5,intermodal_2021_W44_Intermodal-Report-Week-44-2021.pdf
+2021-11-09,44,Tanker,MR 52KT DH,5Y,28.0,28.0,0.0%,27.5,28.8,26.2,intermodal_2021_W44_Intermodal-Report-Week-44-2021.pdf
 2021-11-16,45,Tanker,VLCC 300KT DH,5Y,71.0,71.0,0.0%,71.5,72.4,65.6,intermodal_2021_W45_Intermodal-Report-Week-45-2021.pdf
 2021-11-16,45,Tanker,Suezmax 150KT DH,5Y,47.5,48.0,-1.0%,49.9,51.3,44.8,intermodal_2021_W45_Intermodal-Report-Week-45-2021.pdf
 2021-11-16,45,Tanker,Aframax 110KT DH,5Y,40.0,40.0,0.0%,38.8,38.6,33.0,intermodal_2021_W45_Intermodal-Report-Week-45-2021.pdf
@@ -544,6 +549,11 @@ issue_date,report_week,sector,vessel_class,age_profile,price_usd_m_current,price
 2022-08-23,33,Bulker,Kamsarmax 82K,5Y,35.2,36.7,-4.2%,29.8,23.2,24.5,intermodal_2022_W33_Intermodal-Report-Week-33-2022.pdf
 2022-08-23,33,Bulker,Ultramax 63k,5Y,32.5,33.5,-3.0%,26.4,19.4,22.6,intermodal_2022_W33_Intermodal-Report-Week-33-2022.pdf
 2022-08-23,33,Bulker,Handysize 37K,5Y,28.0,28.9,-3.1%,21.4,16.1,17.4,intermodal_2022_W33_Intermodal-Report-Week-33-2022.pdf
+2022-08-23,33,Tanker,VLCC 300KT DH,5Y,82.7,81.0,2.1%,69.7,71.5,72.1,intermodal_2022_W33_Intermodal-Report-Week-33-2022.pdf
+2022-08-23,33,Tanker,Suezmax 150KT DH,5Y,58.7,56.0,4.8%,46.7,49.9,51.0,intermodal_2022_W33_Intermodal-Report-Week-33-2022.pdf
+2022-08-23,33,Tanker,Aframax 110KT DH,5Y,52.0,51.0,2.0%,38.7,38.8,38.3,intermodal_2022_W33_Intermodal-Report-Week-33-2022.pdf
+2022-08-23,33,Tanker,LR1 75KT DH,5Y,40.5,39.7,2.0%,31.2,30.7,31.3,intermodal_2022_W33_Intermodal-Report-Week-33-2022.pdf
+2022-08-23,33,Tanker,MR 52KT DH,5Y,36.0,34.6,4.0%,27.6,27.5,28.6,intermodal_2022_W33_Intermodal-Report-Week-33-2022.pdf
 2022-08-30,34,Tanker,VLCC 300KT DH,5Y,82.8,81.0,2.2%,69.7,71.5,72.1,intermodal_2022_W34_Intermodal-Report-Week-34-2022.pdf
 2022-08-30,34,Tanker,Suezmax 150KT DH,5Y,58.8,56.0,4.9%,46.7,49.9,51.0,intermodal_2022_W34_Intermodal-Report-Week-34-2022.pdf
 2022-08-30,34,Tanker,Aframax 110KT DH,5Y,52.3,51.0,2.5%,38.7,38.8,38.3,intermodal_2022_W34_Intermodal-Report-Week-34-2022.pdf

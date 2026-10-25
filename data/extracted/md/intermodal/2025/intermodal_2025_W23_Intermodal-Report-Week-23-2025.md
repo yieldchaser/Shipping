@@ -180,11 +180,19 @@ The vessel will be geared, eco friendly, methanol ready and scheduled for delive
 |  | MGC LPG 55k cbm |  | 86.0 | 86.0 | 0.0% | 90.5 | 86.0 | 94.0 | 43.0 | 93.26 | 84.9 | 73.9 |
 |  | SGC LPG 25k cbm |  | 60.0 | 60.0 | 0.0% | 62.0 | 60.0 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
-## Indicative Period Charters
+## Newbuilding Orders
 
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 5-8 years | Past order recently disclosed, against  employment with Lauritzen Bulkers |  |  | $ 33.0m | 2 |
+| Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | Bulker | 95,500 dwt | Hengli Shipbuilding, China | Chinese (Shandong Ocean Shipping) | \$ 36.8m |  |  |
+| 1 | Bulker | 40,000 dwt | Nakai Zosen, Japan | Japanese (Shinomiya Tanker) | \$ 33.0m | Past order recently disclosed, against 5-8 years employment with Lauritzen Bulkers |  |
+| 2 | Bulker | 40,000 dwt | Imabari, Japan | Japanese (Shinomiya Tanker) | \$ 33.0m | Against long term employment with HMM and companies based in UAE and UK |  |
+| 2 | Bulker | 40,000 dwt | Hakodate, Japan | Japanese (Shinomiya Tanker) | \$ 33.0m | Against long term employment with HMM and companies based in UAE and UK |  |
+| 1 | Bulker | 8,500 dwt | Royal Bodewes, Netherlands | German (CLI) | undisclosed | Geared, eco, methanol-ready main engine |  |
+| 2 | Tanker | 115,000 dwt | Hyundai Agila Subic, Philippines | Japanese (Nissen Kaiun) | \$ 72.5m | LR2 product carrier |  |
+| 6+2 | Tanker | 115,000 dwt | Zhoushan Changhong, China | 2026-2028 | Greek (Polembros) | \$ 66.0m | LR2 product carrier |
+| 3 | Containership | 3,000 teu | Penglai Zhongbai, China | 2027 | Norwegian (Blystad Group) | \$ 43.0m |  |
+| 6 | MPP | 60,000 dwt | Chengxi Shipyard, China | Chinese (COSCO Specialized Carriers) | undisclosed | BB charter agreement with Bocomm |  |
 
 ---
 

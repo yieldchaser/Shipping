@@ -194,7 +194,7 @@ This week saw a total of 22 vessels ordered across multiple sectors, with notabl
 | 2 | LNG | 175,000 cbm | Dalian Shipbuilding, China | 2028 | Chinese (CSET) | $ 254.0m | TC to ENN LNG |
 | 1 | LNG | 175,000 cbm | Hanwha Ocean, S.Korea | 2026 | JV (Chevron with Mitsui OSK) | undisclosed | wind assisted propulsion system |
 | 4 | Container | 18,000 teu | New Times, China | 2027-2028 | Singaporean (Eastern Pacific) | undisclosed | TC to CMA-CGM, LNG dual-fuelled, options exercised |
-| 1 | Field Support Vessel | 110 | m | Crist Shipyard, Poland | 2027 | Canadian (Cenovus Energy) | undisclosed |
+| 1 | Field Support Vessel | 110 m | Crist Shipyard, Poland | 2027 | Canadian (Cenovus Energy) | undisclosed | ice class, built for Maersk Supply |
 | 10 | MPSV | 5,000 dwt | Pax Ocean Zhousan, China | 2026 | Greek | undisclosed |  |
 | 8 | MPSV | 4,700 dwt | Fujian Mawei, China | 2026 | Greek (Capital Offshore) | undisclosed | diesel electric |
 
@@ -205,16 +205,16 @@ This week saw a total of 22 vessels ordered across multiple sectors, with notabl
 The ship demolition market has faced significant challenges this week, with weak demand and falling prices for both steel and scrap continuing in key destinations. In India, the market remains sluggish with steel prices falling sharply due to low demand and the continued influx of cheaper Chinese steel. Indian recyclers are reluctant to make new purchases as ship plate prices continue to fall. Government regulations are likely to increase the amount of scrap available in the future, with carmakers required to recycle 8% of steel from cars by 2026 and 18% by 2036. In addition, the long-awaited increase in construction activity has yet to materialize, putting further pressure on scrap demand. Bangladesh is facing similar difficulties, with the market under pressure from political turmoil, economic challenges and the ongoing monsoon season. Stricter compliance measures, such as approved IHM on board, are causing delays in recycling operations, while prices remain stagnant. Monsoons have disrupted logistics, exacerbating the shortage of available tonnage and hampering recyclers' operations. The country is seeking a \$5 billion loan from the IMF, as well as better terms on existing loans from Russia and India. In Pakistan, the market continues to show no signs of improvement. Local recyclers are struggling with falling steel prices, exacerbated by an influx of cheaper Chinese steel imports. Although the recent interest rate cut by the central bank offers a glimmer of hope, its impact on the ship recycling industry has yet to be felt. Recyclers remain cautious, especially for larger vessels. The Turkish market remains largely unchanged, with little activity in either recycling or imports. Prices have remained flat, but there is growing concern about the impact of increasing Chinese steel imports. Recyclers expect further price falls as demand remains weak. Overall, the ship recycling market remains under significant downward pressure, with little sign of immediate recovery in any of the major destinations.
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | 13/09/24 | 06/09/24 | ±% | YTD High | YTD Low | 2023 | 2022 | 2021 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Tanker | Bangladesh | 485 | 500 | -3.0% | 530 | 490 | 550 | 601 |
-|  | India | 490 | 500 | -2.0% | 540 | 490 | 540 | 593 |
-|  | Pakistan | 475 | 490 | -3.1% | 525 | 490 | 525 | 596 |
-|  | Turkey | 320 | 320 | 0.0% | 350 | 320 | 325 | 314 |
-| Dry Bulk | Bangladesh | 475 | 490 | -3.1% | 520 | 475 | 535 | 590 |
-|  | India | 470 | 480 | -2.1% | 520 | 480 | 522 | 583 |
-|  | Pakistan | 455 | 470 | -3.2% | 510 | 470 | 515 | 587 |
-|  | Turkey | 310 | 310 | 0.0% | 350 | 310 | 315 | 304 |
+| Markets |  | 13/09/24 | 06/09/24 | ±% | YTD High | YTD Low | 2023 | 2022 | 2021 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tanker | Bangladesh | 485 | 500 | -3.0% | 530 | 490 | 550 | 601 | 542 |
+|  | India | 490 | 500 | -2.0% | 540 | 490 | 540 | 593 | 519 |
+|  | Pakistan | 475 | 490 | -3.1% | 525 | 490 | 525 | 596 | 536 |
+|  | Turkey | 320 | 320 | 0.0% | 350 | 320 | 325 | 314 | 207 |
+| Dry Bulk | Bangladesh | 475 | 490 | -3.1% | 520 | 475 | 535 | 590 | 532 |
+|  | India | 470 | 480 | -2.1% | 520 | 480 | 522 | 583 | 508 |
+|  | Pakistan | 455 | 470 | -3.2% | 510 | 470 | 515 | 587 | 526 |
+|  | Turkey | 310 | 310 | 0.0% | 350 | 310 | 315 | 304 | 276 |
 ## Currencies
 
 | Markets | Current | Previous | ±% | YTD High |

@@ -285,18 +285,22 @@ BUNKER PRICES (USD/TON)
 | PORTS | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%) |
 |---|---|---|---|
 | SINGAPORE | 614 | 470 | 684 |
+| HONG KONG | 591 | 452 | 631 |
+| FUJAIRAH | 563 | 464 | 779 |
+| ROTTERDAM | 502 | 402 | 613 |
+| HOUSTON | 507 | 414 | 653 |
 
 ## Page 17
 
 EXCHANGE RATES
 
-| September 13 | September 6 | W-O-W % CHANGE |
-|---|---|---|
-| 563 7.09 | 464 7.08 | -0.14% |
-| 502 119.51 | 402 119.51 | 0 |
-| 507 83.91 | 414 83.97 | +0.07% |
-| 278.19 | 278.39 | +0.07% |
-| 33.94 | 33.98 | +0.12% |
+| CURRENCY | September 13 | September 6 | W-O-W % CHANGE |
+|---|---|---|---|
+| USD / CNY (CHINA) | 7.09 | 7.08 | -0.14% |
+| USD / BDT (BANGLADESH) | 119.51 | 119.51 | 0 |
+| USD / INR (INDIA) | 83.91 | 83.97 | +0.07% |
+| USD / PKR (PAKISTAN) | 278.19 | 278.39 | +0.07% |
+| USD / TRY (TURKEY) | 33.94 | 33.98 | +0.12% |
 
 Sub-Continent and Turkey ferrous scrap markets insight
 

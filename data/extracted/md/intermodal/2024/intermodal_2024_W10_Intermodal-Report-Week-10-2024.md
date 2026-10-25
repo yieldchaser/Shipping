@@ -190,14 +190,14 @@ The previous week saw an increase in tanker newbuilding orders, as earnings cont
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 | Tanker | 157,000 | dwt | Jiangsu New Hantong, China | Greek (Cardiff Marine) | $ 83.0m | scrubber fitted, options exercised |
-| 1 | Tanker | 157,000 | dwt | New Times, China | Greek (Polembros Shipping) | undisclosed | LNG Ready, Scrubber-fitted |
-| 4 | Tanker | 115,000 | dwt | Hyundai Vietnam, Vietnam | Greek (Latsco) | $ 70.0m | Scrubber Fitted |
-| 1 | Tanker | 50,000 | dwt | K Shipbuilding, South Korea | Greek (Chemnav) | undisclosed | menthanol & LNG ready, scrubber fitted |
-| 2 | Bulker | 82,500 | dwt | Yangzijiang, China | Japanese (Lepta Shipping) | undisclosed | IMO Tier III, EEDI Phase III, Scrubber Fitted |
-| 4+2+2 | MPP | 15,000 | dwt | CMHI Jinling, China | German (Dship Carriers) | undisclosed |  |
-| 2 | LPG | 45,000 | cbm | Hyundai Mipo, S. Korea | Belgian (Exmar) | $ 80.5m | option for ammonia dual fuel |
-| 1 | LPG | 48,000 | dwt | CSSC Huangpu, China | Greek (Benelux Overseas) | $ 65.0m | option exercised |
+| 2 | Tanker | 157,000 dwt | Jiangsu New Hantong, China | 2026 | Greek (Cardiff Marine) | $ 83.0m | scrubber fitted, options exercised |
+| 1 | Tanker | 157,000 dwt | New Times, China | 2025 | Greek (Polembros Shipping) | undisclosed | LNG Ready, Scrubber-fitted |
+| 4 | Tanker | 115,000 dwt | Hyundai Vietnam, Vietnam | 2027 | Greek (Latsco) | $ 70.0m | Scrubber Fitted |
+| 1 | Tanker | 50,000 dwt | K Shipbuilding, South Korea | 2025 | Greek (Chemnav) | undisclosed | menthanol & LNG ready, scrubber fitted |
+| 2 | Bulker | 82,500 dwt | Yangzijiang, China | 2026 | Japanese (Lepta Shipping) | undisclosed | IMO Tier III, EEDI Phase III, Scrubber Fitted |
+| 4+2+2 | MPP | 15,000 dwt | CMHI Jinling, China | 2025-2026 | German (Dship Carriers) | undisclosed |  |
+| 2 | LPG | 45,000 cbm | Hyundai Mipo, S. Korea | 2026 | Belgian (Exmar) | $ 80.5m | option for ammonia dual fuel |
+| 1 | LPG | 48,000 dwt | CSSC Huangpu, China | 2027 | Greek (Benelux Overseas) | $ 65.0m | option exercised |
 | 1+2 | CSOV | 85 metres |  | Vard Holdings, Norway | Danish (Navigare Capital Partners) | undisclosed |  |
 
 ---

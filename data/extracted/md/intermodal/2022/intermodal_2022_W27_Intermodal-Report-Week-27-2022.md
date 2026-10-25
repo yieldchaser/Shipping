@@ -296,9 +296,16 @@ The newbuilding market continues to see healthy ordering activity overall last w
 
 > **Chart (not transcribed):** Indicative Newbuilding Prices ($ Million). The report prints no values for it.
 
-## Indicative Period Charters
+## Newbuilding Orders
 
-_No period fixtures reported._
+| Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3 | Bulker | 85,000 dwt | DSIC, China | 2024-2025 | Norwegian (Golden Ocean) | undisclosed | eco-design |
+| 2 | Bulker | 40,000 dwt | Imabari, Japan | 2025 | Japanese (Inui Global Logistics) | undisclosed | EEDI phase 3 |
+| 2 | Bulker | 40,000 dwt | Oshima, Japan | 2025 | Japanese (Inui Global Logistics) | undisclosed | EEDI phase 3 |
+| 8 | LNG | 174,000 cbm | Hyundai Hi, South Korea | 2026 | Norwegian (Knutsen) | around \$215.0m | on behalf of Qatar LNG Project |
+| 2 | LNG | 174,000 cbm | Hyundai Samho, S. Korea | 2026 | Greek (TMS Cadiff Gas) | around \$245.0m |  |
+| 2+2 | Container | 1,800 teu | Yangzijiang, China | 2023-2024 | Greek (Cosmoship) | rgn \$32.0m | EEDI phase 3 |
 
 © Intermodal Research 12/07/2022 6
 

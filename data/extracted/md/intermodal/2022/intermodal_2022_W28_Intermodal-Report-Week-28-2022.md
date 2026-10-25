@@ -266,9 +266,14 @@ Newbuilding ordering activity has been rather muted across most sectors during t
 
 > **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
-## Indicative Period Charters
+## Newbuilding Orders
 
-_No period fixtures reported._
+| Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3 | Tanker | 115,000 dwt | Hyundai Vietnam, Vietnam | 2024-2025 | Greek (CM Lemos) | xs \$65.0m | conventionally fuelled |
+| 1 | Tanker | 115,000 dwt | Daehan, S. Korea | 2024 | Greek (Neda Maritime) | rgn \$65.0m | scrubber fitted, EEDI phase 3 |
+| 4 | Tanker | 50,000 dwt | Hyundai Vietnam, Vietnam | 2024 | Japanese (Nissen Kaiun) | \$ 42.5m | conventionally fuelled, EEDI phase 3 |
+| 6 | PCTC | 7,500 ceu | Xiamen, China | undisclosed | Chinese (CMB FL) | \$86.0m | LNG dual-fuel |
 
 © Intermodal Research 19/07/2022 5
 

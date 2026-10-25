@@ -206,7 +206,7 @@ On other segments, the Indian JSW Group ordered a quartet of 8k dwt general carg
 | 4 | Containership | 1,900 teu | Yangzijiang Shipbuilding, China | 2028-2029 | Hong Kong based (Manqiang Shipping) | $ 30.0m |  |
 | 1 | Gas Carrier | 180,000 cbm | Samsung HI, S. Korea | 2028 | Danish (Celsius Tankers) | $ 255.0m |  |
 | 4 | General Cargo | 8,000 dwt | Wuhu Shipyard, China | undisclosed | Indian (JSW Group) | undisclosed |  |
-| 2+2 | Ro Ro | 1,700 | Im | Yantai CIMC Raffles, China | 2028-2029 | Finnish (Godby Shipping) | undisclosed |
+| 2+2 | Ro Ro | 1,700 Im | Yantai CIMC Raffles, China | 2028-2029 | Finnish (Godby Shipping) | undisclosed |  |
 
 ---
 

@@ -211,7 +211,7 @@ In containerships, MSC ordered 5+5 LNG dual fuel vessels of 21.7k teu at Zhousha
 | 4 | Containership | 3,100 teu | Hengli HI, China | 2028 | Greek (Thenamaris) | $ 46.0m |  |
 | 2 | Gas Carrier | 175,000 cbm | Jiangnan Shipyard, China | 2029 | UAE (Adnoc) | $ 222.0m | Option exercise, against TC |
 | 3 | Gas Carrier | 88,000 cbm | Hanwha Ocean, S. Korea | 2030 | Greek (Dorian LPG) | $ 116.0m |  |
-| 6+4 | PCC | 9,100 | ceu | CMHI Jiangsu, China | 2029-2031 | Norwegian (Hoegh Autoliners) | undisclosed |
+| 6+4 | PCC | 9,100 ceu | CMHI Jiangsu, China | 2029-2031 | Norwegian (Hoegh Autoliners) | undisclosed | LNG dual fuel |
 
 ---
 

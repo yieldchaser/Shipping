@@ -207,16 +207,16 @@ The week ending 9th June was generally weaker for the newbuilding market with on
 The demolition market had another solid week with sales mainly in India. In terms of freight rates, the dry bulk segment experienced a softening last week, with only Capes rising. Containers are also seeing a recovery, particularly in the larger sizes, while tanker rates are softer but not many vessels are expected to be scrapped as fundamentals suggest a strong future performance. In India, since the beginning of the year, many containership owners have been sending their vessels there for scrapping at HKC. Although Indian recyclers have increased their prices, this is not expected to last as the monsoon season is approaching which will put any activity on hold. In Pakistan, the government unveiled its budget for fiscal year 2024 last week, as the country remains in both political and economic turmoil. The budget is crucial for an IMF cash injection, as the country's reserves are only enough for one month of imports. The budget targets GDP growth of 3.5%, while inflation will be 21%, and Bangladesh continues to have problems opening letters of credit as the central bank is short of foreign exchange. Inflation was at 9.94% in May, confirming the country's difficult economic situation. In terms of prices, steel has been flat as there is some uncertainty about FX supply and L/C opening. In Turkey, the lira is hitting new highs every week appreciating by more than 11% against the USD to 23.64 last week, which is hurting the local steel market. Fiscal problems are expected to continue, and the Turkish market is likely to remain weak as the slower summer months continue.
 
 ## Indicative Demolition Prices ($/ldt)
-| Markets | 09/06/23 | 02/06/23 | ±% | YTD High | YTD Low | 2022 | 2021 | 2020 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Tanker | Bangladesh | 590 | 590 | 0.0% | 615 | 515 | 601 | 542 |
-|  | India | 550 | 550 | 0.0% | 570 | 555 | 593 | 519 |
-|  | Pakistan | 520 | 520 | 0.0% | 540 | 535 | 596 | 536 |
-|  | Turkey | 340 | 340 | 0.0% | 340 | 330 | 314 | 284 |
-| Dry Bulk | Bangladesh | 575 | 575 | 0.0% | 600 | 505 | 590 | 532 |
-|  | India | 530 | 530 | 0.0% | 540 | 520 | 583 | 508 |
-|  | Pakistan | 500 | 500 | 0.0% | 520 | 500 | 587 | 526 |
-|  | Turkey | 330 | 330 | 0.0% | 285 | 275 | 304 | 276 |
+| Markets |  | 09/06/23 | 02/06/23 | ±% | YTD High | YTD Low | 2022 | 2021 | 2020 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tanker | Bangladesh | 590 | 590 | 0.0% | 615 | 515 | 601 | 542 | 348 |
+|  | India | 550 | 550 | 0.0% | 570 | 555 | 593 | 519 | 348 |
+|  | Pakistan | 520 | 520 | 0.0% | 540 | 535 | 596 | 536 | 352 |
+|  | Turkey | 340 | 340 | 0.0% | 340 | 330 | 314 | 284 | 207 |
+| Dry Bulk | Bangladesh | 575 | 575 | 0.0% | 600 | 505 | 590 | 532 | 336 |
+|  | India | 530 | 530 | 0.0% | 540 | 520 | 583 | 508 | 335 |
+|  | Pakistan | 500 | 500 | 0.0% | 520 | 500 | 587 | 526 | 338 |
+|  | Turkey | 330 | 330 | 0.0% | 285 | 275 | 304 | 276 | 198 |
 
 ## Currencies
 | Markets | Current | Previous | ±% | YTD High |

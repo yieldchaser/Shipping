@@ -192,7 +192,7 @@ In the gas carrier segment, Zhejiang Jiahua Energy placed an order at Nantong CI
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 4 | Tanker | 73,500 dwt | Yangzijiang Shipbuilding, China | 2029 | Greek (Evalend) | $ 55.0m |  |
-| 4+2 | Tanker | 28,000 dwt | Zhoushan Ningshing, China | 2028-2029 | Chinese (JV YZ) Maritime/Taihua Shipmanagement) | $ 45.0m - $ 46.0m | Stainless steel |
+| 4+2 | Tanker | 28,000 dwt | Zhoushan Ningshing, China | 2028-2029 | Chinese (JV YZJ Maritime/Taihua Shipmanagement) | $ 45.0m - $ 46.0m | Stainless steel |
 | 2 | Containership | 6,400 teu | Hengli Shipbuilding, China | 2028 | Greek (Centrofin) | undisclosed |  |
 | 2+2 | Containership | 5,300 teu | CSSC Huangpu Wenchong, China | 2029-2030 | Chinese (Asean Seas Line) | undisclosed | Methanol ready |
 | 4 | Containership | 1,900 teu | Wuchang SB Group, China | 2028-2029 | Chinese (Ningbo Ocean) | $ 30.0m |  |

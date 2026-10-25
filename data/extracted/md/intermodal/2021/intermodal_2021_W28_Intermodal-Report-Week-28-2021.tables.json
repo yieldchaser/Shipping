@@ -1515,11 +1515,11 @@
         "price_current_usd_m": null,
         "price_previous_usd_m": null,
         "pct_change": "",
-        "yard": "",
+        "yard": "Nihon, Japan",
         "delivery": "2024",
         "buyer": "Japanese (NYK Line)",
         "price_raw": "undisclosed",
-        "comments": "",
+        "comments": "against long-term T/C to JFE Steel, LNG fuelled, Tier III",
         "source_file": "intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf"
       },
       {
@@ -1551,11 +1551,11 @@
         "price_current_usd_m": null,
         "price_previous_usd_m": null,
         "pct_change": "",
-        "yard": "",
+        "yard": "Nihon, Japan",
         "delivery": "2025",
         "buyer": "Japanese (MOL)",
         "price_raw": "undisclosed",
-        "comments": "",
+        "comments": "against long-term T/C to JFE Steel, LNG fuelled, Tier III",
         "source_file": "intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf"
       },
       {
@@ -1609,7 +1609,7 @@
         "delivery": "2024",
         "buyer": "South Korean (Pan Ocean)",
         "price_raw": "undisclosed",
-        "comments": "",
+        "comments": "against T/C to Shell, options declared",
         "source_file": "intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf"
       },
       {
@@ -1645,7 +1645,7 @@
         "delivery": "2025",
         "buyer": "Norwegian (Knutsen)",
         "price_raw": "undisclosed",
-        "comments": "",
+        "comments": "against T/C to Shell, options declared",
         "source_file": "intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf"
       },
       {
@@ -1695,11 +1695,11 @@
         "price_current_usd_m": 146.0,
         "price_previous_usd_m": null,
         "pct_change": "",
-        "yard": "",
+        "yard": "COSCO Yangzhou, China",
         "delivery": "2023-2024",
-        "buyer": "",
+        "buyer": "Chinese (Cosco)",
         "price_raw": "$ 146.0m",
-        "comments": "",
+        "comments": "scrubber fitted, conventially fuelled",
         "source_file": "intermodal_2021_W28_Intermodal-Report-Week-28-2021.pdf"
       },
       {

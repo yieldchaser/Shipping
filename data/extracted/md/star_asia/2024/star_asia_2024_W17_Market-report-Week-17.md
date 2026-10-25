@@ -179,6 +179,23 @@ Following the Red Sea incident, the SCFI saw a decline from its previous peak of
 
 # Containers S&P Report
 
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| ALS APOLLO | PMAX | 4,243 | 2009 | S. KOREA | 24.5 | GLOBAL FEEDER SHIPPING |
+| AS NADIA / AS RAGNA | PMAX FEEDER | 3,586 1,495 | 2007 2009 | S. KOREA CHINA | 25.0 EN BLOC | MSC |
+| EM ASTORIA | SUB PMAX | 2,754 | 2004 | POLAND | 10.0 | UNDISCLOSED |
+| XIN XIN TIAN 1 | SUB PMAX | 2,742 | 2006 | GERMANY | 14.0 | INDIAN BUYERS |
+| GUANGZHOU HUANGPU H2502 | FEEDER | 1,911 | 2025 | CHINA | 30.0 | FRENCH BUYERS |
+
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 24 | 24 | 17 | 14 | 8 |
+| 1,600 – 1,850 | Geared | 29 | 30 | 22 | 16 | 11 |
+| 2,700 – 2,900 | Gearless | 41 | 40 | 31 | 22 | 16 |
+| 5,100 | Gearless | 77 | 69 | 25 | 28 | 25 |
+| *(amount in USD million) |  |  |  |  |  |  |
+
+
 ## Page 10
 
 # Ship Recycling Market Snapshot
@@ -274,6 +291,14 @@ Gadani, Pakistan
 Domestic ship scrap prices have not seen much improvement, buoyed by the availability of cheaper alternatives, HMS and finished products such as Hot Rolled Coil (HRC). However, recyclers have struggled to secure support from domestic mills and have not been able to compete effectively with their counterparts in Bangladesh so far. Overall demand remains intact, but pricing has not been able to compete with their neighbours.
 
 Aliaga, Turkey
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| SEA FLOWER | GENERAL CARGO | 5,282 | 27.03.2024 | AWAITING |
+| Oscar 1 | GENERAL CARGO | 2,620 | 20.03.2024 | 07.04.2024 |
+| QATAR ANA | BULKER | 8,015 | 26.03.2024 | 06.04.2024 |
+| BOS LINA | GENERAL CARGO | 3,287 | 29.03.2024 | 07.04.2024 |
+
 
 ## Page 15
 

@@ -202,7 +202,7 @@ The market's concerns over the proposed USTR port fees for Chinese vessels were 
 | 1 | Gas Carrier | 180,000 cbm | Hyundai Samho, S. Korea | 2027 | UK-based (Purus Marine) | $ 261.8m | LNG fueled |
 | 1 | OCSV |  | Vard, Norway | 2027 | Taiwanese (Dong Fang) | $ 126.0m | Subsea operation duties |
 | 2 | Cruiseship |  | Fincantieri, Italy | 2030-2031 | German (AIDA Cruises) | $ 1.1 billion | LNG capable, 2,100 cabins |
-| 2+2 | Ro/Pax | 3,500 | lane meters | GSI, China | 2027 | Swiss (MSC) | $ 160.0m |
+| 2+2 | Ro/Pax | 3,500 lane meters | GSI, China | 2027 | Swiss (MSC) | $ 160.0m | LNG dual fueled |
 
 ---
 

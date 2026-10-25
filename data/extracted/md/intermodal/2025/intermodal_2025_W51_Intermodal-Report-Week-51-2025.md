@@ -211,7 +211,7 @@ Finally, in the offshore sector, Greek MegaTugs in a landmark contract signaling
 | 6 | Container | 3,700 teu | Taizhou Sanfu Ship Engineering, China | 2028 | Norwegian (MPCC) | $ 48.8m | Against 10-year TC contract |
 | 2+2 | Container | 1,900 teu | Huangpu Wenchong Shipbuilding, China | undisclosed | Greek (Venergy Maritime) | undisclosed |  |
 | 2 | Container | 1,900 teu | Guangzhou Wenchong Shipyard, China | 2027-2028 | Vietnamese (Truong Hai) | $ 31.0m - $ 32.0m |  |
-| 2+2 | Offshore | 85 | tns | Onex Shipyards, Greece | 2026 | Greek (MegaTugs Salvage) | $ 11.7m |
+| 2+2 | Offshore | 85 tns | Onex Shipyards, Greece | 2026 | Greek (MegaTugs Salvage) | $ 11.7m |  |
 
 ---
 

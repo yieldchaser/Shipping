@@ -211,7 +211,7 @@ Finally, the Ro/Pax segment registered a single order. New Zealand's KiwiRail or
 | 2 | Containership | 8,800 teu | DH Shipbuilding, S. Korea | 2028 | Japanese (Doun Kisen) | $ 105.5m | Scrubber fitted |
 | 2+2 | Containership | 1,900 teu | CSSC Guangzhou Huangpu Wenchong, China | 2027 | Greek (Alberta) | undisclosed |  |
 | 6 | Containership | 1,700 teu | Cochin Shipyard, India | 2029-2031 | French (CMA CGM) | $ 50.0m | LNG dual fuel |
-| 2 | RoPax | 1,500 | pax | Guangzhou Shipyard International, China | 2029 | New Zealander (KiwiRail) | undisclosed |
+| 2 | RoPax | 1,500 pax | Guangzhou Shipyard International, China | 2029 | New Zealander (KiwiRail) | undisclosed |  |
 
 ---
 

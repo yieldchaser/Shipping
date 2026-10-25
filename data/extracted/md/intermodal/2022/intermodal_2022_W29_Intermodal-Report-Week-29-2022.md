@@ -290,17 +290,37 @@ Sentiment remained firm in the newbuilding contracting activity. Orders have sur
 
 > **Chart (not transcribed):** Bulk Carriers Newbuilding Prices (m$). The report prints no values for it.
 
-## Indicative Period Charters
+## Newbuilding Orders
 
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 7yrs | conventionally fuelled, biofuel ready, EEDI phase 3, NOx-Tier III, against  T/C to NYK |  |  | $ 34.0m | 2 |
+| Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Tanker | 50,000 dwt | CSBC, Taiwan | 2024 | Taiwanese (CPC Corp) | rgn \$50.0m | EEDI phase 3, incl. 5% VAT |
+| 2 | Bulker | 185,000 dwt | Namura, Japan | 2024 | Chinese (Foremost Group) | undisclosed | conventionally fuelled, biofuel ready, EEDI phase 3, NOx-Tier III, against 7yrs T/C to NYK |
+| 2 | Bulker | 64,000 dwt | New Dayang, China | 2024 | Taiwanese (U-Ming) | \$ 34.0m |  |
+| 2 | LNG | 174,000 cbm | DSME, S. Korea | 2026 | Norwegian (ADS Maritime) | \$ 248.0m | LOI stage, linked to Avaio Capital - controlled Mexican Pacific project |
+| 3 | Container | 1,800 teu | Hyundai Mipo, S. Korea | 2024 | South Korean (HMM) | \$ 35.5m |  |
+| 4+2 | MPP | 14,600 dwt | Wuhu Shipyard, China | 2024-2025 | German (SAL) | xs \$40.0m | heavylift vsls, equipped with two 800-tonne Liebherr cranes |
 
 © Intermodal Research 26/07/2022 6
 
 ---
 
 # Demolition Market
+
+## Indicative Demolition Prices ($/ldt)
+
+| Markets | 22/07/2022 | 15/07/2022 | ±% | 2020 | 2019 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Tanker |  |  |  |  |  |  |
+| Bangladesh | 580 | 580 | 0.0% | 348 | 410 | 442 |
+| India | 580 | 580 | 0.0% | 348 | 400 | 438 |
+| Pakistan | 575 | 575 | 0.0% | 352 | 395 | 437 |
+| Turkey | 250 | 270 | -7.4% | 207 | 259 | 280 |
+| Dry Bulk |  |  |  |  |  |  |
+| Bangladesh | 570 | 570 | 0.0% | 336 | 400 | 431 |
+| India | 570 | 570 | 0.0% | 335 | 390 | 428 |
+| Pakistan | 565 | 565 | 0.0% | 338 | 385 | 427 |
+| Turkey | 240 | 260 | -7.7% | 198 | 249 | 270 |
 
 The sentiment was subdued across the Indian subcontinent demolition markets for another week. A mix of negative factors continues to affect breakers' financial capacity to allure owners towards the scrapping option as bids remain inadequate when compared to the current freight returns. Currency depreciations across all Indian subcontinent countries with new lows materializing week by week, coupled with discounted Russian steel products, low domestic steel demand, and increased production costs have pushed domestic steel prices downward. On the contrary, the shortage of demo candidates has kept scrap bids steady last week; Bangladesh is leading the course, yet with LC restrictions making large LDT units unaffordable. The same factors have also affected the Turkey demolition market yet with breakers unable to keep their offers stable, reducing their levels to the mid 200s/ldt. Average prices in the different markets this week for tankers ranged between 250-585/ldt and those for dry bulk units between \$240-575/ldt.
 > **Chart (not transcribed):** Tanker Demolition Prices. The report prints no values for it.

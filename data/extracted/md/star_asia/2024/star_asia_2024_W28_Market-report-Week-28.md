@@ -162,6 +162,20 @@ The container shipping market is showing signs of cooling after an unprecedented
 
 # Containers S&P Report
 
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| JIANGHAN H2789 / JIANGHAN H2790 | SPP | 14,000 | 2007 | CHINA | 166.0 EACH | MSC |
+| PALERMO | SUB PMAX | 2,890 | 1998 | GERMANY | 11.9 | CHINESE BUYERS |
+
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 24 | 24 | 17 | 14 | 8 |
+| 1,600 – 1,850 | Geared | 29 | 33 | 25 | 19 | 15 |
+| 2,700 – 2,900 | Gearless | 41 | 43 | 34 | 27 | 22 |
+| 5,100 | Gearless | 79 | 77 | 61 | 35 | 32 |
+| *(amount in USD million) |  |  |  |  |  |  |
+
+
 ## Page 9
 
 ## Page 10
@@ -234,6 +248,22 @@ This week, the market remained stagnant, with sentiments continuing on a downwar
 Chattogram, Bangladesh : 21 ~ 24 July | 4 ~ 7 August Alang, India : 19 ~ 27 July | 31 July ~ 8 August
 
 ---
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| PAN | GEN.CARGO | 1,662 | 11.07.2024 | AWAITING |
+| NARESHWAR | BULKER | 10,308 | 05.07.2024 | AWAITING |
+| XING TONG 313 | LPG | 1,909 | 26.06.2024 | AWAITING |
+| EVER EXPRESS | GEN CARGO | 137 | 07.07.2024 | 11.07.2024 |
+| XIANG | BULK | 3,947 | 01.07.2024 | 11.07.2024 |
+| YUN SHOU 7 | BULKER | 3,399 | 07.07.2024 | 11.07.2024 |
+| YUN TAI LONG 66 | CONTAINER | 2,090 | 26.06.2024 | 03.07.2024 |
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| ALPS | BULKER | 10,191 | 21.06.2024 | 03.07.2024 |
+| DIYAA B | BULKER | 6,956 | 20.06.2024 | 05.07.2024 |
+
 
 ## Page 15
 

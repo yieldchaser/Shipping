@@ -268,8 +268,8 @@ Shipbuilding activity was kept firm in September overall, edging higher from the
 
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | FPSO | 225,000 | bopd | Keppel | 2027 | Brazilian (Petrobras) | $2.8bn |
-| 3 | PCTC | 8,600 | ceu | GSI, China | 2024-2025 | S. Korean ( H-Line Shipping) | rgn $ 100.0m |
+| 1 | FPSO | 225,000 bopd | Keppel | 2027 | Brazilian (Petrobras) | $2.8bn | P-83 project |
+| 3 | PCTC | 8,600 ceu | GSI, China | 2024-2025 | S. Korean ( H-Line Shipping) | rgn $ 100.0m |  |
 | 2 | Tanker | 50,000 dwt | Hyundai Vietnam, Vietnam | 2025 | Japanese (Mitsui & Co) | $ 42.0m | options declared |
 | 2 | LNG | 174,000 cbm | Samsung HI, S. Korea | 2026 | Malaysian (MISC) | undisclosed |  |
 

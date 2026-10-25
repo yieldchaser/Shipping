@@ -214,16 +214,16 @@ In Turkey, there was some positive movement as steel and scrap prices improved. 
 Overall, the ship recycling market remains quiet, with regional differences shaping trends and recyclers adopting a wait-and-see approach.
 ## Indicative Demolition Prices ($/ldt)
 
-| Markets | 11/10/24 | 04/10/24 | ±% | YTD High | YTD Low | 2023 | 2022 | 2021 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Tanker | Bangladesh | 480 | 480 | 0.0% | 530 | 480 | 550 | 601 |
-|  | India | 480 | 490 | -2.0% | 540 | 480 | 540 | 593 |
-|  | Pakistan | 475 | 475 | 0.0% | 525 | 490 | 525 | 596 |
-|  | Turkey | 330 | 330 | 0.0% | 350 | 320 | 325 | 314 |
-| Dry Bulk | Bangladesh | 470 | 470 | 0.0% | 520 | 470 | 535 | 590 |
-|  | India | 460 | 470 | -2.1% | 520 | 460 | 522 | 583 |
-|  | Pakistan | 455 | 455 | 0.0% | 510 | 470 | 515 | 587 |
-|  | Turkey | 320 | 320 | 0.0% | 350 | 310 | 315 | 304 |
+| Markets |  | 11/10/24 | 04/10/24 | ±% | YTD High | YTD Low | 2023 | 2022 | 2021 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tanker | Bangladesh | 480 | 480 | 0.0% | 530 | 480 | 550 | 601 | 542 |
+|  | India | 480 | 490 | -2.0% | 540 | 480 | 540 | 593 | 519 |
+|  | Pakistan | 475 | 475 | 0.0% | 525 | 490 | 525 | 596 | 536 |
+|  | Turkey | 330 | 330 | 0.0% | 350 | 320 | 325 | 314 | 207 |
+| Dry Bulk | Bangladesh | 470 | 470 | 0.0% | 520 | 470 | 535 | 590 | 532 |
+|  | India | 460 | 470 | -2.1% | 520 | 460 | 522 | 583 | 508 |
+|  | Pakistan | 455 | 455 | 0.0% | 510 | 470 | 515 | 587 | 526 |
+|  | Turkey | 320 | 320 | 0.0% | 350 | 310 | 315 | 304 | 276 |
 ## Currencies
 
 | Markets | Current | Previous | ±% | YTD High |

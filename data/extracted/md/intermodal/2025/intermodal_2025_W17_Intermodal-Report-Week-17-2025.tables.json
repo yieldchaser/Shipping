@@ -1210,7 +1210,7 @@
         "delivery": "2027",
         "buyer": "Greek (Steelships)",
         "price_raw": "undisclosed",
-        "comments": "Oil\\&Chemical, LNG ready, methanol ready",
+        "comments": "Oil&Chemical, LNG ready, methanol ready",
         "source_file": "intermodal_2025_W17_Intermodal-Report-Week-17-2025.pdf"
       },
       {
@@ -1328,15 +1328,15 @@
         "units": "1",
         "sector": "",
         "vessel_type": "Cable Layer",
-        "size": "139",
+        "size": "139 loa",
         "price_current_usd_m": null,
         "price_previous_usd_m": null,
         "pct_change": "",
-        "yard": "loa",
-        "delivery": "Nantong Xiangyu, China",
-        "buyer": "2027",
-        "price_raw": "Chinese (ZTT)",
-        "comments": "undisclosed",
+        "yard": "Nantong Xiangyu, China",
+        "delivery": "2027",
+        "buyer": "Chinese (ZTT)",
+        "price_raw": "undisclosed",
+        "comments": "Fully electric powered",
         "source_file": "intermodal_2025_W17_Intermodal-Report-Week-17-2025.pdf"
       }
     ],

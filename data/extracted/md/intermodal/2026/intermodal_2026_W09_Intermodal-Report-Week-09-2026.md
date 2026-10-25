@@ -197,16 +197,18 @@ Gas carriers witnessed a single order. MISC added 2 firm plus 2 optional 174k cb
 | Gas | SGC LPG 25k cbm |  | 59.5 | 59.5 | 0.0% | 60.0 | 59.5 | 62.0 | 40.0 | 60.6 | 55.7 | 51.0 |
 
 ## Newbuilding Orders
+## Newbuilding Orders
+
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Bulker | 215,000 | dwt | Wuhu Shipyard, China | undisclosed | UK based (Union Maritime) | $ 75.0m |  |
-| Tanker | 306,000 | dwt | Hengli Shipbuilding, China | 2029-2030 | Singapore based (Eastern Pacific) | $ 125.0m | Scrubber fitted |
-| Tanker | 158,000 | dwt | SWS, China | 2028-2029 | Greek (Performance Shipping) | $ 81.5m | Scrubber fitted, Tier III |
-| Tanker | 4,500 | dwt | Ferus Smit, Netherlands | 2028-2029 | Swedish (Erik Thun Group) | undisclosed | Oil/Chemical, ice class 1A, AccessMAX |
-| Containership | 1,800 | teu | HD Huyndai, S. Korea | 2027-2028 | S.Korean (KMTC) | $ 43.2m |  |
-| Containership | 1,700 | teu | Cochin Shipyard, India | 2029 | French (CMA CGM) | undisclosed | LNG dual fuel |
-| Containership | 540 | teu | COSCO HI Guangdong, China | 2027 | Chinese (COSCO Shipping) | undisclosed | Battery hybrid |
-| Gas Carrier | 174,000 | cbm | Hudong-Zhonghua, China | 2029-2030 | Malaysian (MISC) | undisclosed | Against 20-year TC contract with Petronas |
+| 1 | Bulker | 215,000 dwt | Wuhu Shipyard, China | undisclosed | UK based (Union Maritime) | \$ 75.0m |  |
+| 1 | Tanker | 306,000 dwt | Hengli Shipbuilding, China | 2029-2030 | Singapore based (Eastern Pacific) | \$ 125.0m | Scrubber fitted |
+| 1 | Tanker | 158,000 dwt | SWS, China | 2028-2029 | Greek (Performance Shipping) | \$ 81.5m | Scrubber fitted, Tier III |
+| 1 | Tanker | 4,500 dwt | Ferus Smit, Netherlands | 2028-2029 | Swedish (Erik Thun Group) | undisclosed | Oil/Chemical, ice class 1A, AccessMAX |
+| 1 | Containership | 1,800 teu | HD Huyndai, S. Korea | 2027-2028 | S.Korean (KMTC) | \$ 43.2m |  |
+| 1 | Containership | 1,700 teu | Cochin Shipyard, India | 2029 | French (CMA CGM) | undisclosed | LNG dual fuel |
+| 1 | Containership | 540 teu | COSCO HI Guangdong, China | 2027 | Chinese (COSCO Shipping) | undisclosed | Battery hybrid |
+| 1 | Gas Carrier | 174,000 cbm | Hudong-Zhonghua, China | 2029-2030 | Malaysian (MISC) | undisclosed | Against 20-year TC contract with Petronas |
 
 ---
 

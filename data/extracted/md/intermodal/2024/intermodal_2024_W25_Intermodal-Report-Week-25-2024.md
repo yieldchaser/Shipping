@@ -195,8 +195,8 @@ In the bulk sector, Alassia Newships Management ordered a 40k dwt vessel from Ya
 | 4 | Bulker | 180,000 dwt | Hengli HI Dalian, China | 2026-2027 | German (Reederei H. Vogemann) | $ 70.0m | scrubber fitted |
 | 4 | Bulker | 63,500 dwt | Jiangsu New Hantong, China | 2026-2027 | Chinese (Agricore Shipping) | $ 35.0m | NOx Tier III, EEDI Phase III |
 | 1 | Bulker | 40,000 dwt | Yangzhou Nakanishi, Japan | 2026 | Greek (Alassia Newships Management) | undisclosed |  |
-| 1 | RoRo | 2,300 | ceu | Mitsubishi HI, Japan | 2027 | Japanese (Toyofuji Shipping) | undisclosed |
-| 1 | RoRo | 2,300 | ceu | Mitsubishi HI, Japan | 2027 | japanese (Fukuju Shipping) | undisclosed |
+| 1 | RoRo | 2,300 ceu | Mitsubishi HI, Japan | 2027 | Japanese (Toyofuji Shipping) | undisclosed |  |
+| 1 | RoRo | 2,300 ceu | Mitsubishi HI, Japan | 2027 | japanese (Fukuju Shipping) | undisclosed |  |
 | 2+2 | Container | 7,900 teu | HJ Shipbuilding & Construction | 2026 | Greek (Navios) | $ 120.0m |  |
 
 ---

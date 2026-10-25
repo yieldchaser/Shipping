@@ -212,7 +212,7 @@ Elsewhere, JP Morgan booked a pair of VLGCs at Samsung HI, at \$113m per unit. B
 | 10 | Containership | 1,800 teu | Wuhan Qingshan Shipyard, China | 2028-2029 | Chinese (Zhonggu Logistics) | $ 39.2m |  |
 | 2 | VLGC |  | Samsung HI, S. Korea | 2029 | US based (JP Morgan) | $ 113.0m |  |
 | 2 | LPG | 40,000 cbm | HD Huyndai HI, S. Korea | 2029 | Greek (Byzantine Maritime) | $ 79.0m |  |
-| 2 | AHTS | 2,000 | gt | Jiangmen Hantong, China | 2027 | Chinese (CNOOC) | $ 25.4m |
+| 2 | AHTS | 2,000 gt | Jiangmen Hantong, China | 2027 | Chinese (CNOOC) | $ 25.4m |  |
 
 ---
 

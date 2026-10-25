@@ -206,9 +206,9 @@ In containerships, Eastern Pacific contracted Hengli Shipbuilding for 7 boxships
 | 4 | Containership | 1,800 teu | China Merchants Shipbuilding, China | 2028 | Chinese (CMES) | undisclosed |  |
 | 4 | Gas Carrier | 175,000 cbm | Jiangnan Shipyard, China | 2029 | UAE (Adnoc) | $ 225.0m |  |
 | 2 | Gas Carrier | 90,000 cbm | HD Hyundai HI, S. Korea | 2029 | UK based (Union Maritime) | $ 115.0m - $ 118.0m | Dual fuel |
-| 6 | PCC | 8,600 | ceu | China Merchants Jinling, China | 2028-2030 | Swiss (Global Car Carriers) | undisclosed |
-| 2 | PCC | 7,000 | ceu | CMHI Weihai, China | 2028-2030 | Swiss (Global Car Carriers) | undisclosed |
-| 2 | PCC | 7,000 | ceu | GSI, China | 2028-2030 | Swiss (Global Car Carriers) | undisclosed |
+| 6 | PCC | 8,600 ceu | China Merchants Jinling, China | 2028-2030 | Swiss (Global Car Carriers) | undisclosed | LNG dual fuel |
+| 2 | PCC | 7,000 ceu | CMHI Weihai, China | 2028-2030 | Swiss (Global Car Carriers) | undisclosed | LNG dual fuel |
+| 2 | PCC | 7,000 ceu | GSI, China | 2028-2030 | Swiss (Global Car Carriers) | undisclosed | LNG dual fuel |
 
 Newbuilding Market
 

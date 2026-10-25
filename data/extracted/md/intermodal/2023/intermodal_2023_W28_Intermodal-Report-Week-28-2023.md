@@ -226,16 +226,16 @@ The trend of substantial orders for Kamsarmax newbuildings persists, with a cumu
 The demolition market activity improved last week, yet the overall sentiment is still being pressured by the weak fundamentals across the main Indian subcontinent demo nations. In India, there are currently very few vessels available for sale on the scrap market. At the same time, competition for tonnage is increasing as Bangladesh has a few yards classified as NK HKC. The same applies to Pakistan, which has recently received funds from Saudi Arabia, the UAE and the IMF. On the fundamentals side, the Indian government has decided not to impose an 18.95% import duty on some Chinese steel products. In Pakistan, there has been no significant change in the market so far, but the financial situation is improving. The central bank received a total of \$4.2 billion, boosting its reserves. Saudi Arabia offered \$2 billion, the United Arab Emirates \$1 billion and the IMF deposited the first instalment of the total \$3 billion agreed earlier this year. The improved financial position could make Pakistan more competitive. Bangladesh appears to be taking a break after the Eid holidays, with minimal activity in the scrap market. The fundamentals are not rosy either, with local steel prices stable as many mills remain idle. The opening of L/Cs remains limited and as a result owners are preferring other destinations for scrapping. Similarly, in Turkey, steel demand is cooling and as a result, steel producers are lowering their prices. The fundamentals do not look great either, with the local currency hitting a high of 26 against the US dollar and available tonnage being scarce after the Eid festivities.
 
 ## Indicative Demolition Prices ($/ldt)
-| Markets | 14/07/23 | 07/07/23 | ±% | YTD High | YTD Low | 2022 | 2021 | 2020 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Tanker | Bangladesh | 570 | 580 | -1.7% | 615 | 515 | 601 | 542 |
-|  | India | 530 | 540 | -1.9% | 570 | 555 | 593 | 519 |
-|  | Pakistan | 500 | 510 | -2.0% | 540 | 535 | 596 | 536 |
-|  | Turkey | 330 | 340 | -2.9% | 340 | 330 | 314 | 284 |
-| Dry Bulk | Bangladesh | 550 | 565 | -2.7% | 600 | 505 | 590 | 532 |
-|  | India | 510 | 520 | -1.9% | 540 | 520 | 583 | 508 |
-|  | Pakistan | 485 | 495 | -2.0% | 520 | 500 | 587 | 526 |
-|  | Turkey | 320 | 330 | -3.0% | 285 | 275 | 304 | 276 |
+| Markets |  | 14/07/23 | 07/07/23 | ±% | YTD High | YTD Low | 2022 | 2021 | 2020 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tanker | Bangladesh | 570 | 580 | -1.7% | 615 | 515 | 601 | 542 | 348 |
+|  | India | 530 | 540 | -1.9% | 570 | 555 | 593 | 519 | 348 |
+|  | Pakistan | 500 | 510 | -2.0% | 540 | 535 | 596 | 536 | 352 |
+|  | Turkey | 330 | 340 | -2.9% | 340 | 330 | 314 | 284 | 207 |
+| Dry Bulk | Bangladesh | 550 | 565 | -2.7% | 600 | 505 | 590 | 532 | 336 |
+|  | India | 510 | 520 | -1.9% | 540 | 520 | 583 | 508 | 335 |
+|  | Pakistan | 485 | 495 | -2.0% | 520 | 500 | 587 | 526 | 338 |
+|  | Turkey | 320 | 330 | -3.0% | 285 | 275 | 304 | 276 | 198 |
 
 ## Currencies
 | Markets | Current | Previous | ±% | YTD High |

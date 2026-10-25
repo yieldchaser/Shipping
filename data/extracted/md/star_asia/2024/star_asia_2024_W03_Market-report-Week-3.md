@@ -167,6 +167,20 @@ This week, container spot freight rates were once more robust as SCFI spot box f
 
 ## Containers S&P Report
 
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| MSC LAUSANNE | POST PMAX | 6,336 | 2005 | S. KOREA | 18.0 | MSC |
+| ZHONG AN XIN HUA YUAN | PMAX | 4,515 | 2002 | S. KOREA | 14.0 | CHINESE BUYERS |
+
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 20 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 23 | 23 | 16 | 9 | 7 |
+| 1,600 – 1,800 | Geared | 29 | 25 | 20 | 14 | 10 |
+| 2,700 – 2,900 | Gearless | 41 | 36 | 28 | 15 | 12 |
+| 5,500 – 7,000 | Gearless | 93 | 76 | 64 | 36 | N/A |
+| *(amount in USD million) |  |  |  |  |  |  |
+
+
 ## Page 9
 
 ## Ship Recycling Market Snapshot

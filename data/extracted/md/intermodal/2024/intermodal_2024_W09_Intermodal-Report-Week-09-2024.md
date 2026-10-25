@@ -213,7 +213,7 @@ Another busy week for the newbuilding market with several orders for both tanker
 | 2 | Bulker | 210,000 dwt | Beihai, China | 2028 | Singaporean (Berge Bulk) | undisclosed | IMO Tier III, EEDI Phase III, ammonia ready |
 | 4 | Bulker | 82,000 dwt | Hengli HI Dalian, China | 2026 | Greek (Sea Traders) | undisclosed | IMO Tier III, EEDI Phase III |
 | 2 | Bulker | 63,500 dwt | Jiangsu New Hantong, China | 2026 | Croatian (Atlantska Plovidba) | $ 32.5m |  |
-| 2 | PCTC | 7,500 | ceu | Hyundai Mipo, S. Korea | 2028 | UK based (Ray Car Carriers) | $ 134.0m |
+| 2 | PCTC | 7,500 ceu | Hyundai Mipo, S. Korea | 2028 | UK based (Ray Car Carriers) | $ 134.0m |  |
 
 ---
 

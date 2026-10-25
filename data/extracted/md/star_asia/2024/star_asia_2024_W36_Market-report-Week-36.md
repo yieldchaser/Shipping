@@ -111,6 +111,29 @@ some shift in demand towards LR1s, which currently offer slightly better rates w
 
 ## Baltic Exchange Tanker Indices
 
+| INDICES | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- |
+| BDTI | 870 | 884 | 715 | -1.58% | +21.68% |
+| BCTI | 585 | 625 | 760 | -6.40% | -23.03% |
+
+| TYPE | DWT | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 129 | 146 | 116 | 86 | 58 |
+| SUEZMAX | 160,000 | 90 | 99 | 83 | 68 | 50 |
+| AFRAMAX | 115,000 | 75 | 86 | 72 | 62 | 44 |
+| LR1 | 73,000 | 62 | 68 | 58 | 48 | 32 |
+| MR | 51,000 | 52 | 53 | 50 | 41 | 28 |
+| *(amount in USD million) |  |  |  |  |  |  |
+
+| TYPE | DWT | CURRENT | LAST WEEK | LAST YEAR | W-O-W CHANGE | Y-O-Y CHANGE |
+| --- | --- | --- | --- | --- | --- | --- |
+| VLCC | 310,000 | 44,000 | 45,000 | 43,500 | -2.22% | +1.15% |
+| SUEZMAX | 150,000 | 40,250 | 40,500 | 38,750 | -0.62% | +3.87% |
+| AFRAMAX | 110,000 | 37,500 | 37,500 | 38,500 | 0 | -2.60% |
+| LR1 | 74,000 | 35,000 | 36,000 | 28,250 | -2.78% | +23.89% |
+| MR | 47,000 | 26,500 | 26,500 | 25,500 | 0 | +3.92% |
+
+
 ## Page 7
 
 VESSEL NAME TWO MILLION WAYS CONQUEROR STI TEXAS CITY / STI SAN ANTONIO

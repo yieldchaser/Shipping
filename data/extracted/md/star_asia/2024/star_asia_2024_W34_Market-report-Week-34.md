@@ -158,6 +158,20 @@ Spot container freight rates fell sharply this week, with the SCFI falling 6% w-
 
 ## Containers S&P Report
 
+| VESSEL NAME | TYPE | TEU | YEAR | BUILT | PRICE (MILLION) USD | COMMENTS / BUYERS |
+| --- | --- | --- | --- | --- | --- | --- |
+| AS PAOLA | FEEDER | 2,478 | 2005 | GERMANY | 20.50 | S. KOREAN BUYERS |
+| WANA BHUM / XUTRA BHUN | FEEDER | 2,378 | 2005 | JAPAN | 20.0 EACH | S. KOREAN BUYERS |
+
+| CONTAINERS (BY TEU) | GEARED / GEARLESS | NB CONTRACT | NB PROMPT DELIVERY | 5 YEARS | 10 YEARS | 15 YEARS |
+| --- | --- | --- | --- | --- | --- | --- |
+| 900 – 1,200 | Geared | 24 | 24 | 17 | 14 | 8 |
+| 1,600 – 1,850 | Geared | 30 | 33 | 25 | 19 | 15 |
+| 2,700 – 2,900 | Gearless | 41 | 43 | 34 | 27 | 23 |
+| 5,100 | Gearless | 81 | 77 | 66 | 35 | 32 |
+| *(amount in USD million) |  |  |  |  |  |  |
+
+
 ## Page 9
 
 ## Ship Recycling Market Snapshot
@@ -239,6 +253,17 @@ Gadani, Pakistan
 Markets have been largely stagnant over the past few months, with minimal movement as recyclers have taken a cautious stance. Sluggish domestic demand, coupled with declining imported ferrous scrap prices, has led recyclers to hold back. However, buying interest amongst ship recyclers has remained strong but at a price that supports the underlying fundamentals. For the past few months, Gadani recyclers have struggled to compete with their counterparts, but market dynamics are expected to shift soon. All three major recycling markets are likely to align at similar pricing levels, maintaining traditional differences. However, this realignment will only occur once there is an adequate supply of ships available for recycling. Currently, market imbalances and a constrained supply are distorting price signals.
 
 Aliaga, Turkey
+
+| VESSEL NAME | TYPE | LDT | ARRIVAL | BEACHING |
+| --- | --- | --- | --- | --- |
+| INDU | TANKER | 16,696 | 11.08.2024 | 22.08.2024 |
+| HAI 351 | BULKER | 4,351 | 11.08.2024 | 22.08.2024 |
+| MING JIN 1 | BULKER | 3,277 | 07.08.2024 | 14.08.2024 |
+| AN 11 | GEN.CARGO | 1,632 | 30.07.2024 | 07.08.2024 |
+| AN TON | REEFER | 4,842 | 30.07.2024 | 06.08.2024 |
+| APJ MAHAKALI | BULKER | 9,126 | 25.07.2024 | 04.08.2024 |
+| SIA 20 | CONTAINER | 1,747 | 20.07.2024 | 03.08.2024 |
+
 
 ## Page 16
 

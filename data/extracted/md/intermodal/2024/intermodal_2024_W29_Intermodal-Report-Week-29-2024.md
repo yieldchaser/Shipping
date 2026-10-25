@@ -185,11 +185,17 @@ A robust week for newbuilding orders saw a total of 19 firm vessels being commis
 | Gas | MGC LPG 55k cbm |  | 94.0 | 94.0 | 0.0% | 94.0 | 91.5 | 94.0 | 62.0 | 85 | 74 | 67 |
 | Gas | SGC LPG 25k cbm |  | 61.0 | 61.0 | 0.0% | 61.0 | 58.0 | 61.0 | 40.0 | 56 | 51 | 45 |
 
-## Indicative Period Charters
+## Newbuilding Orders
 
-| Tenor | Vessel | Built | DWT | Rate | Charterer |
-| --- | --- | --- | --- | --- | --- |
-| 7yr | TC to BGN |  |  |  |  |
+| Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4 | Tanker | 50,000 dwt | Huanghai Shipbuilding, China | 2026-2027 | Greek (Monte Nero) | undisclosed |  |
+| 2 | Tanker | 18,500 dwt | Wuchang SB Group, China | 2025-2027 | Greek (Athenian Sea Carriers) | undisclosed | options exercised, NOx-Tier III, EEDI phase 3, LNG & methanol ready |
+| 1 | Bulker | 66,000 dwt | Tsuneishi Cebu, Philippines | 2028 | Greek (Drydel Shipping) | undisclosed | EEDI Phase III, Scrubber fitted |
+| 3 | Bulker | 63,500 dwt | Nantong Xiangyu, China | 2025 | Greek (Monte Nero) | \$ 34.0m | NOx Tier III, EEDI Phase III |
+| 5 | Container | 13,000 teu | Jiangnan, China | 2027-2028 | Japanese (ONE) | undisclosed | Methanol dual fuel |
+| 5 options | Container | 13,000 teu | Yangzijiang, China | 2027-2028 | Japanese (ONE) | undisclosed | Methanol dual fuel |
+| 4 | VLGC | 88,000 cbm | Yamic, China | 2028-2029 | S. Korean (Nissen Kaiun) | \$ 110.0m | 7yr TC to BGN |
 
 ---
 

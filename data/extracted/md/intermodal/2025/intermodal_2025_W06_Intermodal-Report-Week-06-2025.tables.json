@@ -1098,11 +1098,11 @@
         "price_current_usd_m": null,
         "price_previous_usd_m": null,
         "pct_change": "",
-        "yard": "",
-        "delivery": "CMHI Shenzhen, China",
-        "buyer": "2027-2028",
-        "price_raw": "Norwegian (Olympic Subsea ASA)",
-        "comments": "undisclosed",
+        "yard": "CMHI Shenzhen, China",
+        "delivery": "2027-2028",
+        "buyer": "Norwegian (Olympic Subsea ASA)",
+        "price_raw": "undisclosed",
+        "comments": "Battery Hybrid, Sustainable Energy",
         "source_file": "intermodal_2025_W06_Intermodal-Report-Week-06-2025.pdf"
       },
       {
@@ -1134,11 +1134,11 @@
         "price_current_usd_m": null,
         "price_previous_usd_m": null,
         "pct_change": "",
-        "yard": "",
-        "delivery": "Dalian Shipbuilding Offshore, China",
-        "buyer": "2026",
-        "price_raw": "Norwegian (Boa Offshore)",
-        "comments": "undisclosed",
+        "yard": "Dalian Shipbuilding Offshore, China",
+        "delivery": "2026",
+        "buyer": "Norwegian (Boa Offshore)",
+        "price_raw": "undisclosed",
+        "comments": "166 m length, Semi-submersible",
         "source_file": "intermodal_2025_W06_Intermodal-Report-Week-06-2025.pdf"
       }
     ],

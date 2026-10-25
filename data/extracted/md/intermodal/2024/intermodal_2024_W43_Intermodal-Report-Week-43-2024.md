@@ -218,7 +218,7 @@ The newbuilding market witnessed higher activity this week than last, with 8 ord
 ## Newbuilding Orders
 | Units | Type | Size | Yard | Delivery | Buyer | Price | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Tanker | 309,400 dwt | Nihon Shipyard, Japan | 2027 | Japanese (lino Kaiun Kaisha) | $ 129.0m | methanol dual-fuel, TC to Idemitsu Tanker |
+| 1 | Tanker | 309,400 dwt | Nihon Shipyard, Japan | 2027 | Japanese (Iino Kaiun Kaisha) | $ 129.0m | methanol dual-fuel, TC to Idemitsu Tanker |
 | 2 | Tanker | 25,900 dwt | Wuhu Shipyard, China | 2027 | Vietnamese (Asia Pacific Shipping) | undisclosed | options exercised, IMO Tier III, EEDI Phase 3 |
 | 1 | Bulker | 64,000 dwt | Imabari, Japan | 2025 | Japanese (Soki Kisen) | undisclosed |  |
 | 1 | Bulker | 45,000 dwt | Imabari, Japan | 2027 | Japanese (Soki Kisen) | undisclosed |  |

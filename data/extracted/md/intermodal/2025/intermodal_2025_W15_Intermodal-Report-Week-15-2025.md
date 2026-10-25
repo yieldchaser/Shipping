@@ -186,8 +186,8 @@ The gas segment saw one order, by the Belgian Somtrans to the Chinese CIMC Sinop
 | 2 | Tanker | 26,000 dwt | Asakawa Shipbuilding, Japan | 2027-2028 | Singaporean (Jaldhi Overseas) | undisclosed | Stainless Steel chemical tanker |
 | 1 | Tanker | 20,000 dwt | Fukuoka Shipbuilding, Japan | 2027-2028 | Singaporean (Jaldhi Overseas) | undisclosed | Stainless Steel chemical tanker |
 | 1 | LNG bunkering | 20,000 cbm | CIMC Sinopacific Offshore, China | 2027 | Belgian (Somtrans) | undisclosed |  |
-| 6 | RoPax | 3,300 | lane meters | CMI Weihai, China | 2028-2030 | Italian (Grimaldi) | $ 1.3 billion |
-| 3 | RoPax | 5,100 | lane meters | CMI Weihai, China | 2028-2030 | Italian (Grimaldi) |  |
+| 6 | RoPax | 3,300 lane meters | CMI Weihai, China | 2028-2030 | Italian (Grimaldi) | $ 1.3 billion | Scrubber fitted, methanol ready, battery hybrid, to operate under Grimaldi Lines and Minoan Lines |
+| 3 | RoPax | 5,100 lane meters | CMI Weihai, China | 2028-2030 | Italian (Grimaldi) |  | Scrubber fitted, methanol ready, battery hybrid, to operate under Finnlines |
 | 1+3 | OSV | 1,600 dwt | Jiangmen Hantong, China | 2027 | UK (Sentinel Marine) | undisclosed | 375 sq m of deck space |
 
 ---
