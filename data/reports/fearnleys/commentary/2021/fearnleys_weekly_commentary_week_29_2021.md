@@ -6,7 +6,7 @@ week: 29
 date_range: "2021-07-19 to 2021-07-21"
 comments_count: 13
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-24 19:37:20"
+generated_at: "2026-10-25 12:41:13"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 29, 2021
