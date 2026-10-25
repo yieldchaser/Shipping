@@ -575350,3 +575350,5 @@ id,date,charterer,owner,vessel,imo,rate,period,route,segment,department,commodit
 872411,2026-10-25,,,,,,,,Panamax,BULK,Rice,,,,part cargo can try
 872412,2026-10-25,,,,,,,,Panamax,BULK,Sand,,,,chopt
 872413,2026-10-25,,,,,,,,Panamax,BULK,Iron Ore,,,,
+872414,2026-10-25,,,,,,,,Panamax,BULK,Rice/Mixed spices,,,,Possible combine cargo
+872415,2026-10-25,,,,,,,,Panamax,BULK,Urea,,,,"packed in 50 kg bags on pallets, with each pallet weighing one ton"
