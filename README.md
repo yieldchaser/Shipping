@@ -85,7 +85,7 @@ Calculated weekly via Fearnleys Hasura GraphQL API (`scripts/backfill_historical
 
 | File Path | Description | Start Date | Rows | Columns / Schema Overview |
 | :--- | :--- | :--- | :--- | :--- |
-| [`time_charter_rates.csv`](data/derived/time_charter_rates.csv) | **Merged** Weekly TC Rates ($/day) — Fearnleys pre-2021 + Alibra Deep Archive (2008–2026) + Alibra weekly feed | 2000-01-05 | ~2,083 | `date, source` + 64 rate columns (66 cols total) spanning 4/6M, 1Y, 2Y, 3Y, 5Y across Dry Bulk (Atl/Pac), Crude, Product, and Handy Tankers. `source` = `fearnleys`, `alibra_archive`, `alibra_ocr` |
+| [`time_charter_rates.csv`](data/derived/time_charter_rates.csv) | **Merged** Weekly TC Rates ($/day), rebuilt by `scripts/update_derived_tc_rates.py` with one owner per cell: printed weekly Alibra grids (HSN, 2021-07-07+) own every column on their dates; Fearnleys 1Y (`*_1y_avg`, VLCC/Suezmax/Aframax 1Y) before that; Alibra dry archive (a 4/6-month series) fills `*_4_6m_*` only on dates with no printed grid | 2000-01-05 | ~2,087 | `date, source` + 64 rate columns (66 cols total) spanning 4/6M, 1Y, 2Y, 3Y, 5Y across Dry Bulk (Atl/Pac), Crude, Product, and Handy Tankers. `source` = `alibra_ocr`, `fearnleys`, `alibra_archive`, `fearnleys+alibra_archive` |
 | [`tanker_forward_curves.csv`](data/derived/tanker_forward_curves.csv) | **Tanker FFA Forward Curves** — 22-month forward term structure across 12 tanker routes | 2026-08-12 | ~22 | `snapshot_date, forward_month, contract_label, vlcc_td3c, vlcc_eco_td3c, suezmax_td20, aframax_td25, lr1_tc5, lr1_eco_tc5, mr_tc2, mr_eco_tc2, mr_tc14, mr_eco_tc14, mr_tc6, mr_triangulation` |
 | [`tanker_forward_curves_history.csv`](data/derived/tanker_forward_curves_history.csv) | **Tanker Forward History Accumulator** — persistent multi-snapshot forward curve time series | 2026-08-12 | Accumulating | `snapshot_date, forward_month, contract_label` + 12 forward TCE route columns |
 | [`time_charter_rates_fearnleys.csv`](data/derived/time_charter_rates_fearnleys.csv) | **Fearnleys-only** TC Rates — single-source reference for cross-validation | 2000-01-05 | ~1,595 | `date, capesize_1y_avg, panamax_1y_avg, supramax_1y_avg, handysize_1y_avg, vlcc_1y, suezmax_1y, aframax_1y` |
@@ -799,7 +799,7 @@ python scripts/validate_knowledge.py
 2. **Preserve Exact Header Order**:
    - When appending to [`time_charter_rates.csv`](data/derived/time_charter_rates.csv), preserve the column order: `date, source` + 64 rate columns (66 cols total).
 3. **Source Provenance (CRITICAL)**:
-   - Every row in `time_charter_rates.csv` MUST have a `source` column value (`fearnleys` or `alibra_ocr`).
+   - Every row in `time_charter_rates.csv` MUST have a `source` column value (`alibra_ocr`, `fearnleys`, `alibra_archive` or `fearnleys+alibra_archive`). Do not hand-edit it: change the inputs and rerun `python scripts/update_derived_tc_rates.py`.
    - `scrappage_prices.csv` is the pipeline output for demolition data (history begins 2021-07-03) — do NOT write scrappage data to `vessel_valuations.csv` (which contains Fearnleys S&P data).
    - Never mix broker data without provenance tags — this creates phantom level shifts.
 4. **Missing Value Convention**:

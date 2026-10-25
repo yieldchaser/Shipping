@@ -15,8 +15,8 @@ Outputs / Updates:
 import requests
 import json
 import os
+import sys
 import pandas as pd
-import numpy as np
 from datetime import datetime
 
 GQL_URL = "https://pbrokerapp.hasura.app/v1/graphql"
@@ -86,82 +86,14 @@ def backfill_bai00():
     out.to_csv(local_path, index=False, lineterminator="\n")
     print(f"  [OK] Saved {len(out)} rows to {local_path} ({combined['dt'].min().strftime('%Y-%m-%d')} -> {combined['dt'].max().strftime('%Y-%m-%d')})")
 
-def fetch_fearnleys_rates():
-    print("\n=== Fetching Fearnleys GraphQL Rates (2000 - Present) ===")
-    query = """query Q($routes:[String!],$rateTypes:[String!],$rateSubtypes:[String!],$dateFrom:date,$dateTo:date){
-      rate_meta(where:{info:{route:{_in:$routes},rate_type:{_in:$rateTypes},rate_subtype:{_in:$rateSubtypes}},rate_unit:{_eq:"usd"}}){
-        rates(where:{date:{_gte:$dateFrom,_lte:$dateTo}},order_by:{date:asc}){date rate}
-        info{route rate_type rate_subtype}
-      }
-    }"""
-    dry_routes = ["Capesize (180 000 dwt)", "Panamax (75 000 dwt)", "Supramax (58 000 dwt)", "Handysize (38 000 dwt)"]
-    wet_routes = ["VLCC", "Suezmax", "Aframax"]
-
-    body = {
-        "query": query,
-        "variables": {
-            "routes": dry_routes + wet_routes,
-            "rateTypes": ["BULK", "TANK"],
-            "rateSubtypes": ["TC", "1 Year T/C"],
-            "dateFrom": "2000-01-01",
-            "dateTo": "2026-12-31"
-        }
-    }
-    r = requests.post(GQL_URL, json=body, headers=GQL_HEADERS, timeout=60)
-    if r.status_code != 200:
-        print("Failed to query Fearnleys GraphQL")
-        return pd.DataFrame()
-
-    rows = []
-    for rm in r.json().get("data", {}).get("rate_meta", []):
-        info = rm.get("info", {})
-        route = info.get("route")
-        for pt in rm.get("rates", []):
-            rows.append({
-                "date": pt["date"],
-                "route": route,
-                "rate": pt["rate"]
-            })
-    df = pd.DataFrame(rows)
-    print(f"  Got {len(df)} total Fearnleys 1Y TC rate points across {df['route'].nunique()} vessel routes")
-    return df
-
-def backfill_tc_rates(fearn_df):
-    if fearn_df.empty:
-        return
-    print("\n=== Merging Fearnleys Historical 1Y TC Rates into time_charter_rates.csv ===")
-    local_path = 'data/derived/time_charter_rates.csv'
-    local = pd.read_csv(local_path)
-    local['dt'] = pd.to_datetime(local['date'])
-
-    # Map Fearnleys routes to repo column names
-    route_map = {
-        "Capesize (180 000 dwt)": "capesize_1y_avg",
-        "Panamax (75 000 dwt)": "panamax_1y_avg",
-        "Supramax (58 000 dwt)": "supramax_1y_avg",
-        "Handysize (38 000 dwt)": "handysize_1y_avg",
-        "VLCC": "vlcc_1y",
-        "Suezmax": "suezmax_1y",
-        "Aframax": "aframax_1y"
-    }
-
-    fearn_df['col'] = fearn_df['route'].map(route_map)
-    fearn_df = fearn_df.dropna(subset=['col'])
-    piv = fearn_df.pivot(index='date', columns='col', values='rate').reset_index()
-    piv['dt'] = pd.to_datetime(piv['date'])
-
-    # Cutoff prior to local start date (2021-07-07)
-    piv_hist = piv[piv['dt'] < local['dt'].min()].copy()
-
-    # Reindex columns to match local schema
-    for col in local.columns:
-        if col not in piv_hist.columns and col != 'dt':
-            piv_hist[col] = np.nan
-
-    combined = pd.concat([piv_hist[local.columns], local], ignore_index=True)
-    combined = combined.sort_values('date', ascending=True).reset_index(drop=True)
-    combined.to_csv(local_path, index=False, lineterminator="\n")
-    print(f"  [OK] Expanded time_charter_rates.csv from {len(local)} to {len(combined)} weekly rows ({combined['date'].min()} -> {combined['date'].max()})")
+def backfill_tc_rates():
+    """Rebuilds time_charter_rates.csv. Fearnleys 1Y history reaches it through
+    time_charter_rates_fearnleys.csv (scripts/fetch_fearnleys_tc.py); cell ownership
+    lives in scripts/update_derived_tc_rates.py."""
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import update_derived_tc_rates
+    print("\n=== Rebuilding time_charter_rates.csv ===")
+    update_derived_tc_rates.build_time_charter_rates()
 
 def fetch_and_save_vessel_valuations():
     print("\n=== Fetching Fearnleys Vessel Valuations (S&P Secondhand + Newbuildings 1970 - Present) ===")
@@ -198,8 +130,7 @@ def main():
     if "--with-index-backfill" in sys.argv:
         backfill_bdi()
         backfill_bai00()
-    fearn_df = fetch_fearnleys_rates()
-    backfill_tc_rates(fearn_df)
+    backfill_tc_rates()
     fetch_and_save_vessel_valuations()
     print("\n=== ALL HISTORICAL DATA BACKFILLS COMPLETED SUCCESSFULLY ===")
 

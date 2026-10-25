@@ -458,6 +458,10 @@ async def run_all_async(limit: Optional[int] = None) -> Dict[str, Any]:
     wet_csv = OUT_SERIES / "hellenic_alibra_tanker_tc_series.csv"
     _upsert_alibra_csv(wet_csv, wet_rows, wet_cols, ["issue_date", "vessel_class", "tenor", "eco_scrubber"])
 
+    # The printed grids own their issue dates in data/derived/time_charter_rates.csv
+    from scripts.update_derived_tc_rates import build_time_charter_rates
+    build_time_charter_rates()
+
     state = {
         "dry_reports": len(dry_summaries),
         "dry_observations": len(dry_rows),

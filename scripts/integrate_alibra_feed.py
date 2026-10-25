@@ -20,31 +20,6 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 ALIBRA_DATA_DIR = REPO_ROOT / "docs" / "alibra_data"
 DERIVED_DIR = REPO_ROOT / "data" / "derived"
 TANKER_CURVE_STATE_FILE = REPO_ROOT / "data" / "manifests" / "tanker_curve_state.json"
-TC_REJECTION_LOG = ALIBRA_DATA_DIR / "integration_rejections.log"
-
-TC_COLS = [
-    "date",
-    "source",
-    "capesize_4_6m_atl", "capesize_4_6m_pac", "capesize_4_6m_avg",
-    "capesize_1y_atl", "capesize_1y_pac", "capesize_1y_avg",
-    "capesize_2y_atl", "capesize_2y_pac", "capesize_2y_avg",
-    "panamax_4_6m_atl", "panamax_4_6m_pac", "panamax_4_6m_avg",
-    "panamax_1y_atl", "panamax_1y_pac", "panamax_1y_avg",
-    "panamax_2y_atl", "panamax_2y_pac", "panamax_2y_avg",
-    "supramax_4_6m_atl", "supramax_4_6m_pac", "supramax_4_6m_avg",
-    "supramax_1y_atl", "supramax_1y_pac", "supramax_1y_avg",
-    "supramax_2y_atl", "supramax_2y_pac", "supramax_2y_avg",
-    "handysize_4_6m_atl", "handysize_4_6m_pac", "handysize_4_6m_avg",
-    "handysize_1y_atl", "handysize_1y_pac", "handysize_1y_avg",
-    "handysize_2y_atl", "handysize_2y_pac", "handysize_2y_avg",
-    "vlcc_1y", "vlcc_2y", "vlcc_3y", "vlcc_5y",
-    "suezmax_1y", "suezmax_2y", "suezmax_3y", "suezmax_5y",
-    "aframax_1y", "aframax_2y", "aframax_3y", "aframax_5y",
-    "mr_1y", "mr_2y", "mr_3y", "mr_5y",
-    "lr1_1y", "lr1_2y", "lr1_3y", "lr1_5y",
-    "lr2_1y", "lr2_2y", "lr2_3y", "lr2_5y",
-    "handytanker_1y", "handytanker_2y", "handytanker_3y", "handytanker_5y"
-]
 
 def clean_num(val):
     """Clean string number with commas or symbols to float, or None."""
@@ -65,27 +40,6 @@ def sha256_file(filepath):
         while chunk := f.read(65536):
             h.update(chunk)
     return h.hexdigest()
-
-def log_tc_rejection(date, column, old, new, source):
-    """Appends a guarded-overwrite rejection to the integration rejection log."""
-    is_new = not TC_REJECTION_LOG.exists()
-    TC_REJECTION_LOG.parent.mkdir(parents=True, exist_ok=True)
-    with open(TC_REJECTION_LOG, "a", encoding="utf-8", newline="") as f:
-        writer = csv.writer(f, lineterminator="\n")
-        if is_new:
-            writer.writerow(["date", "column", "old", "new", "source"])
-        writer.writerow([date, column, old, new, source])
-
-def guarded_tc_overwrite(row_dict, col, new_val, source):
-    """Overwrite guard for TC enrichment: skips when an existing non-null value
-    deviates more than 35% from the incoming value; null-cell writes bypass."""
-    old_val = clean_num(row_dict.get(col))
-    if old_val is not None and new_val is not None and old_val != 0:
-        if abs(new_val - old_val) / abs(old_val) > 0.35:
-            print(f"[GUARD] {row_dict.get('date')} {col}: keeping {old_val}, rejected {new_val} from {source}")
-            log_tc_rejection(row_dict.get("date", ""), col, old_val, new_val, source)
-            return
-    row_dict[col] = new_val
 
 def dedupe_forward_rows(rows):
     """Drops all-None rate rows, then keeps the FIRST occurrence per forward_month
@@ -119,139 +73,14 @@ def parse_iso_date(tag_str, fallback_date_str=""):
                 continue
     return None
 
-def parse_archive_file(filepath):
-    """Parses an Alibra dry bulk archive CSV into {date: {handysize, supramax, panamax, capesize}}.
-
-    Expected CSV columns (header row):
-        BULK CARRIER | Date | HANDYSIZE | SMAX/ULTRA | PANAMAX | CAPESIZE | <optional tag col>
-    Uses DictReader so any column reorder or insertion produces a KeyError/warning
-    rather than silently mapping the wrong value to the wrong field.
-    """
-    records = {}
-    if not filepath.exists():
-        return records
-    with open(filepath, encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        # Warn once if expected columns are absent (schema change upstream)
-        required_cols = {"Date", "HANDYSIZE", "SMAX/ULTRA", "PANAMAX", "CAPESIZE"}
-        if reader.fieldnames:
-            missing = required_cols - set(reader.fieldnames)
-            if missing:
-                print(f"[WARNING] parse_archive_file: missing expected columns in {filepath.name}: {missing}")
-        for row in reader:
-            date_col = row.get("Date", "")
-            # Last column (variable name) acts as the ISO tag
-            tag_col = row.get(reader.fieldnames[-1], "") if reader.fieldnames else ""
-            iso_date = parse_iso_date(tag_col, date_col)
-            if not iso_date or iso_date < "2008-01-01":
-                continue
-            records[iso_date] = {
-                "handysize": clean_num(row.get("HANDYSIZE", "")),
-                "supramax":  clean_num(row.get("SMAX/ULTRA", "")),
-                "panamax":   clean_num(row.get("PANAMAX", "")),
-                "capesize":  clean_num(row.get("CAPESIZE", "")),
-            }
-    return records
-
 def integrate_historical_time_charter():
-    """Integrates Alibra Atlantic (2015-2026) and Pacific (2008-2026) archives into time_charter_rates.csv."""
-    tc_file = DERIVED_DIR / "time_charter_rates.csv"
-    existing_rows = {}
-    
-    if tc_file.exists():
-        with open(tc_file, encoding="utf-8") as f:
-            reader = csv.DictReader(f)
-            for row in reader:
-                d = row.get("date", "").strip()
-                if d:
-                    existing_rows[d] = row
+    """Rebuilds time_charter_rates.csv; cell ownership lives in update_derived_tc_rates.
 
-    atl_files = sorted(list((ALIBRA_DATA_DIR / "dry_bulk_archive_atl").glob("*.csv")))
-    pac_files = sorted(list((ALIBRA_DATA_DIR / "dry_bulk_archive_pac").glob("*.csv")))
-
-    atl_records = {}
-    atl_source_name = ""
-    if atl_files:
-        atl_records = parse_archive_file(atl_files[-1])
-        atl_source_name = atl_files[-1].name
-        print(f"Loaded {len(atl_records)} Atlantic archive rows ({min(atl_records.keys())} -> {max(atl_records.keys())})")
-
-    pac_records = {}
-    pac_source_name = ""
-    if pac_files:
-        pac_records = parse_archive_file(pac_files[-1])
-        pac_source_name = pac_files[-1].name
-        print(f"Loaded {len(pac_records)} Pacific archive rows ({min(pac_records.keys())} -> {max(pac_records.keys())})")
-
-    all_dates = set(existing_rows.keys()) | set(atl_records.keys()) | set(pac_records.keys())
-    merged_rows = []
-
-    for d in sorted(all_dates):
-        row = existing_rows.get(d, {})
-        if d < "2008-01-01" and row.get("source") == "alibra_archive":
-            continue
-        row_dict = {"date": d}
-        for col in TC_COLS[1:]:
-            row_dict[col] = row.get(col, "")
-
-        # Set source provenance
-        if not row_dict.get("source"):
-            if d in atl_records or d in pac_records:
-                row_dict["source"] = "alibra_archive"
-            elif d < "2021-07-07":
-                row_dict["source"] = "fearnleys"
-            else:
-                row_dict["source"] = "alibra_ocr"
-
-        # Enrich Atlantic rates
-        if d in atl_records:
-            a = atl_records[d]
-            if a["capesize"] is not None:
-                guarded_tc_overwrite(row_dict, "capesize_1y_atl", a["capesize"], atl_source_name)
-            if a["panamax"] is not None:
-                guarded_tc_overwrite(row_dict, "panamax_1y_atl", a["panamax"], atl_source_name)
-            if a["supramax"] is not None:
-                guarded_tc_overwrite(row_dict, "supramax_1y_atl", a["supramax"], atl_source_name)
-            if a["handysize"] is not None:
-                guarded_tc_overwrite(row_dict, "handysize_1y_atl", a["handysize"], atl_source_name)
-
-        # Enrich Pacific rates
-        if d in pac_records:
-            p = pac_records[d]
-            if p["capesize"] is not None:
-                guarded_tc_overwrite(row_dict, "capesize_1y_pac", p["capesize"], pac_source_name)
-            if p["panamax"] is not None:
-                guarded_tc_overwrite(row_dict, "panamax_1y_pac", p["panamax"], pac_source_name)
-            if p["supramax"] is not None:
-                guarded_tc_overwrite(row_dict, "supramax_1y_pac", p["supramax"], pac_source_name)
-            if p["handysize"] is not None:
-                guarded_tc_overwrite(row_dict, "handysize_1y_pac", p["handysize"], pac_source_name)
-
-        # Compute averages if both atl and pac are present
-        for seg in ["capesize", "panamax", "supramax", "handysize"]:
-            atl_val = clean_num(row_dict.get(f"{seg}_1y_atl"))
-            pac_val = clean_num(row_dict.get(f"{seg}_1y_pac"))
-            current_avg = clean_num(row_dict.get(f"{seg}_1y_avg"))
-
-            if atl_val is not None and pac_val is not None:
-                row_dict[f"{seg}_1y_avg"] = (atl_val + pac_val) / 2.0
-            elif current_avg is None:
-                if pac_val is not None:
-                    row_dict[f"{seg}_1y_avg"] = pac_val
-                elif atl_val is not None:
-                    row_dict[f"{seg}_1y_avg"] = atl_val
-
-        merged_rows.append(row_dict)
-
-    merged_rows.sort(key=lambda r: r["date"])
-
-    with open(tc_file, "w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=TC_COLS, extrasaction="ignore", lineterminator="\n")
-        writer.writeheader()
-        for r in merged_rows:
-            writer.writerow(r)
-
-    print(f"Successfully integrated Alibra historical archives into {tc_file} ({len(merged_rows)} total rows)!")
+    The Alibra dry archive is the 4/6-month T/C series, so it fills only the
+    *_4_6m_* columns on dates without a printed weekly grid.
+    """
+    import update_derived_tc_rates
+    update_derived_tc_rates.build_time_charter_rates()
 
 def integrate_tanker_forward_curves():
     """Parses all forward_curves CSVs and saves formatted latest snapshot and historical archive."""

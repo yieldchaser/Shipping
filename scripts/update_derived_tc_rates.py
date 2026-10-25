@@ -1,157 +1,273 @@
-"""Update data/derived/time_charter_rates.csv with verified LlamaParse Alibra series.
+"""Build data/derived/time_charter_rates.csv from its three sources, one owner per cell.
 
-Replaces flawed legacy Tesseract OCR rows (2021-07-07 to 2026-09-16) with 100% verified
-LlamaParse extraction results from Hellenic Shipping News image assets.
-Maintains exact 66-column schema for full backward compatibility with frontend charts.
+Ownership (each row's `source` names every source that wrote a cell in it):
+
+* ``alibra_ocr`` - the printed weekly Alibra grids on Hellenic Shipping News
+  (data/extracted/series/hellenic_alibra_{dry,tanker}_tc_series.csv). On a printed
+  issue date it owns EVERY rate column; nothing else writes into that row.
+* ``fearnleys`` - Fearnleys 1-year T/C (data/derived/time_charter_rates_fearnleys.csv)
+  for 2000-01-01 up to the first printed issue: dry ``*_1y_avg`` plus
+  ``vlcc_1y`` / ``suezmax_1y`` / ``aframax_1y``. Fearnleys has no ATL/PAC split.
+* ``alibra_archive`` - Alibra's website dry trend archive (docs/alibra_data/
+  dry_bulk_archive_{atl,pac}). It is the 4/6-month T/C series: it matches the printed
+  4/6 MOS cells on ~98% of shared dates and the printed 1 YR cells on ~6%, so it
+  fills ``*_4_6m_atl`` / ``*_4_6m_pac`` / ``*_4_6m_avg`` only, and only on dates
+  with no printed grid. It never writes a 1-year column.
+
+A date carrying both a Fearnleys and an archive value is labelled
+``fearnleys+alibra_archive``.
+
+The file is rebuilt from these inputs on every run, so a re-run is idempotent and a
+wrong cell from an earlier writer cannot survive.
 """
 
 import csv
-import shutil
+import re
 from pathlib import Path
-import pandas as pd
-import numpy as np
 
 ROOT = Path(__file__).resolve().parents[1]
 TC_CSV = ROOT / "data" / "derived" / "time_charter_rates.csv"
-TC_BAK = ROOT / "data" / "derived" / "time_charter_rates.csv.bak"
-
+FEARNLEYS_CSV = ROOT / "data" / "derived" / "time_charter_rates_fearnleys.csv"
 DRY_SERIES = ROOT / "data" / "extracted" / "series" / "hellenic_alibra_dry_tc_series.csv"
 WET_SERIES = ROOT / "data" / "extracted" / "series" / "hellenic_alibra_tanker_tc_series.csv"
+ARCHIVE_DIR = ROOT / "docs" / "alibra_data"
+
+FEARNLEYS_START = "2000-01-01"
+ARCHIVE_START = "2008-01-01"
+
+DRY_SEGMENTS = ["capesize", "panamax", "supramax", "handysize"]
+DRY_TENORS = ["4_6m", "1y", "2y"]
+WET_SEGMENTS = ["vlcc", "suezmax", "aframax", "mr", "lr1", "lr2", "handytanker"]
+WET_TENORS = ["1y", "2y", "3y", "5y"]
+
+TC_COLS = (
+    ["date", "source"]
+    + [f"{s}_{t}_{b}" for s in DRY_SEGMENTS for t in DRY_TENORS for b in ("atl", "pac", "avg")]
+    + [f"{s}_{t}" for s in WET_SEGMENTS for t in WET_TENORS]
+)
+
+FEARNLEYS_COLS = [
+    "capesize_1y_avg", "panamax_1y_avg", "supramax_1y_avg", "handysize_1y_avg",
+    "vlcc_1y", "suezmax_1y", "aframax_1y",
+]
+
+ARCHIVE_COLS = {"HANDYSIZE": "handysize", "SMAX/ULTRA": "supramax", "PANAMAX": "panamax", "CAPESIZE": "capesize"}
+
 
 def norm_dry_class(c):
-    c = str(c).upper()
-    if 'CAPE' in c: return 'capesize'
-    if 'PANA' in c: return 'panamax'
-    if 'SUPRA' in c or 'ULTRA' in c or 'SMAX' in c or 'S MAX' in c: return 'supramax'
-    if 'HANDY' in c: return 'handysize'
-    return 'unknown'
+    """Printed dry row label -> column segment, or None when the row has no column.
+
+    The 2021-07-07..2022-01-05 grids print SUPRAMAX and ULTRAMAX as separate rows;
+    the supramax columns take SUPRAMAX only (later grids print one SMAX/ULTRA row).
+    ULTRAMAX and the one-off HANDY (30K dwt) row stay in the extracted series only.
+    """
+    c = str(c).upper().strip()
+    if "CAPE" in c:
+        return "capesize"
+    if "PANA" in c:
+        return "panamax"
+    if c == "ULTRAMAX":
+        return None
+    if "SUPRA" in c or "SMAX" in c:
+        return "supramax"
+    if "HANDY" in c:
+        return None if "30K" in c else "handysize"
+    raise ValueError(f"unknown dry vessel class {c!r}")
+
 
 def norm_dry_tenor(t):
-    t = str(t).upper()
-    if '6' in t or '4' in t: return '4_6m'
-    if '1' in t: return '1y'
-    if '2' in t: return '2y'
-    return 'unknown'
+    t = str(t).upper().strip()
+    mapping = {"4/6 MOS": "4_6m", "6 MOS": "4_6m", "1 YR": "1y", "2 YR": "2y"}
+    if t not in mapping:
+        raise ValueError(f"unknown dry tenor {t!r}")
+    return mapping[t]
+
 
 def norm_dry_basin(b):
-    b = str(b).upper()
-    if 'ATL' in b: return 'atl'
-    if 'PAC' in b: return 'pac'
-    return 'unknown'
+    b = str(b).upper().strip()
+    if b not in ("ATL", "PAC"):
+        raise ValueError(f"unknown dry basin {b!r}")
+    return b.lower()
+
 
 def norm_wet_class(c):
-    c = str(c).upper()
-    if 'VLCC' in c: return 'vlcc'
-    if 'SUEZ' in c: return 'suezmax'
-    if 'AFRA' in c: return 'aframax'
-    if 'MR' in c: return 'mr'
-    if 'LR1' in c: return 'lr1'
-    if 'LR2' in c: return 'lr2'
-    if 'HANDY' in c: return 'handytanker'
-    return 'unknown'
+    c = str(c).upper().strip()
+    if c.startswith("VLCC"):
+        return "vlcc"
+    if c.startswith("SUEZ"):
+        return "suezmax"
+    if c.startswith("AFRA"):
+        return "aframax"
+    if c.startswith("LR1"):
+        return "lr1"
+    if c.startswith("LR2"):
+        return "lr2"
+    if c.startswith("MR"):
+        return "mr"
+    if c.startswith("HANDY"):
+        return "handytanker"
+    raise ValueError(f"unknown tanker vessel class {c!r}")
+
 
 def norm_wet_tenor(t):
-    t = str(t).upper()
-    if '1' in t: return '1y'
-    if '2' in t: return '2y'
-    if '3' in t: return '3y'
-    if '5' in t: return '5y'
-    return 'unknown'
+    t = str(t).upper().strip()
+    mapping = {"1 YR": "1y", "2 YR": "2y", "3 YR": "3y", "5 YR": "5y"}
+    if t not in mapping:
+        raise ValueError(f"unknown tanker tenor {t!r}")
+    return mapping[t]
+
+
+def _num(val):
+    s = str(val if val is not None else "").strip().replace(",", "").replace("$", "")
+    if not s or s.upper() in ("#N/A", "N/A", "NAN", "-", "NULL"):
+        return None
+    try:
+        return float(s)
+    except ValueError:
+        return None
+
+
+def _read_csv(path):
+    if not path.exists():
+        return []
+    with open(path, encoding="utf-8", newline="") as f:
+        return list(csv.DictReader(f))
+
+
+def _set_avgs(cells, tenors):
+    for seg in DRY_SEGMENTS:
+        for tenor in tenors:
+            atl = cells.get(f"{seg}_{tenor}_atl")
+            pac = cells.get(f"{seg}_{tenor}_pac")
+            if atl is not None and pac is not None:
+                cells[f"{seg}_{tenor}_avg"] = (atl + pac) / 2.0
+            elif atl is not None or pac is not None:
+                cells[f"{seg}_{tenor}_avg"] = atl if atl is not None else pac
+
+
+def load_printed(dry_path=DRY_SERIES, wet_path=WET_SERIES):
+    """{issue_date: {column: value}} from the printed weekly grids."""
+    out = {}
+    for r in _read_csv(dry_path):
+        seg = norm_dry_class(r["vessel_class"])
+        tenor = norm_dry_tenor(r["tenor"])
+        basin = norm_dry_basin(r["basin"])
+        cells = out.setdefault(r["issue_date"], {})
+        if seg is None:
+            continue
+        col = f"{seg}_{tenor}_{basin}"
+        if col in cells:
+            raise ValueError(f"{r['issue_date']}: two printed dry rows map to {col}")
+        cells[col] = _num(r["rate_usd_pdpr"])
+    for cells in out.values():
+        _set_avgs(cells, DRY_TENORS)
+    for r in _read_csv(wet_path):
+        col = f"{norm_wet_class(r['vessel_class'])}_{norm_wet_tenor(r['tenor'])}"
+        cells = out.setdefault(r["issue_date"], {})
+        if col in cells:
+            raise ValueError(f"{r['issue_date']}: two printed tanker rows map to {col}")
+        cells[col] = _num(r["rate_usd_pdpr"])
+    return out
+
+
+def load_fearnleys(path=FEARNLEYS_CSV, end_before="9999-12-31"):
+    """{date: {column: value}} for Fearnleys dates in [FEARNLEYS_START, end_before)."""
+    out = {}
+    for r in _read_csv(path):
+        d = (r.get("date") or "").strip()
+        if not (FEARNLEYS_START <= d < end_before):
+            continue
+        cells = {c: _num(r.get(c)) for c in FEARNLEYS_COLS}
+        cells = {c: v for c, v in cells.items() if v is not None}
+        if cells:
+            out[d] = cells
+    return out
+
+
+def parse_archive_file(path):
+    """{iso_date: {segment: rate}} from one Alibra dry trend archive CSV.
+
+    Rows whose date is printed more than once with different values (e.g. weeks
+    28-31 of 2019 all stamped 10 Jul 2019) cannot be placed on a date and are dropped.
+    """
+    seen = {}
+    conflicted = set()
+    for row in _read_csv(path):
+        tag = list(row.values())[-1] if row else ""
+        m = re.search(r"(\d{4}-\d{2}-\d{2})", str(tag or ""))
+        if not m:
+            continue
+        d = m.group(1)
+        if d < ARCHIVE_START:
+            continue
+        vals = {seg: _num(row.get(col)) for col, seg in ARCHIVE_COLS.items()}
+        if d in seen and seen[d] != vals:
+            conflicted.add(d)
+        seen[d] = vals
+    for d in conflicted:
+        del seen[d]
+    return seen
+
+
+def load_archive(archive_dir=ARCHIVE_DIR):
+    """{date: {column: value}} of 4/6-month ATL/PAC cells from the latest archive files."""
+    out = {}
+    for basin in ("atl", "pac"):
+        files = sorted((archive_dir / f"dry_bulk_archive_{basin}").glob("*.csv"))
+        if not files:
+            continue
+        for d, vals in parse_archive_file(files[-1]).items():
+            cells = out.setdefault(d, {})
+            for seg, v in vals.items():
+                if v is not None:
+                    cells[f"{seg}_4_6m_{basin}"] = v
+    for cells in out.values():
+        _set_avgs(cells, ["4_6m"])
+    return {d: c for d, c in out.items() if c}
+
+
+def compose(printed, fearnleys, archive):
+    """Merge the three sources into sorted output rows (see module docstring)."""
+    rows = []
+    for d in sorted(set(printed) | set(fearnleys) | set(archive)):
+        row = {c: "" for c in TC_COLS}
+        row["date"] = d
+        if d in printed:
+            row["source"] = "alibra_ocr"
+            row.update({c: v for c, v in printed[d].items() if v is not None})
+        else:
+            sources = []
+            if d in fearnleys:
+                sources.append("fearnleys")
+                row.update(fearnleys[d])
+            if d in archive:
+                sources.append("alibra_archive")
+                row.update(archive[d])
+            row["source"] = "+".join(sources)
+        rows.append(row)
+    return rows
+
+
+def build_time_charter_rates(out_path=TC_CSV):
+    printed = load_printed()
+    first_printed = min(printed) if printed else "9999-12-31"
+    fearnleys = load_fearnleys(end_before=first_printed)
+    archive = load_archive()
+    rows = compose(printed, fearnleys, archive)
+    with open(out_path, "w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=TC_COLS, lineterminator="\n")
+        writer.writeheader()
+        writer.writerows(rows)
+    counts = {}
+    for r in rows:
+        counts[r["source"]] = counts.get(r["source"], 0) + 1
+    print(f"Wrote {out_path} ({len(rows)} rows): {counts}")
+    return rows
+
 
 def main():
-    print(f"Loading existing {TC_CSV}...")
-    tc_df = pd.read_csv(TC_CSV)
-    original_len = len(tc_df)
-    original_cols = list(tc_df.columns)
+    build_time_charter_rates()
 
-    # Backup original file
-    if not TC_BAK.exists():
-        shutil.copy2(TC_CSV, TC_BAK)
-        print(f"Created backup at {TC_BAK}")
-
-    # Load verified extracted series
-    dry_df = pd.read_csv(DRY_SERIES)
-    wet_df = pd.read_csv(WET_SERIES)
-
-    dry_df['norm_class'] = dry_df['vessel_class'].apply(norm_dry_class)
-    dry_df['norm_tenor'] = dry_df['tenor'].apply(norm_dry_tenor)
-    dry_df['norm_basin'] = dry_df['basin'].apply(norm_dry_basin)
-
-    wet_df['norm_class'] = wet_df['vessel_class'].apply(norm_wet_class)
-    wet_df['norm_tenor'] = wet_df['tenor'].apply(norm_wet_tenor)
-
-    # Build dictionary of date -> column -> value
-    new_data = {}
-
-    for _, r in dry_df.iterrows():
-        dt = r['issue_date']
-        col_name = f"{r['norm_class']}_{r['norm_tenor']}_{r['norm_basin']}"
-        if dt not in new_data:
-            new_data[dt] = {}
-        new_data[dt][col_name] = r['rate_usd_pdpr']
-
-    # Compute dry averages (atl + pac) / 2
-    for dt, cols in new_data.items():
-        for seg in ['capesize', 'panamax', 'supramax', 'handysize']:
-            for tenor in ['4_6m', '1y', '2y']:
-                atl_val = cols.get(f"{seg}_{tenor}_atl")
-                pac_val = cols.get(f"{seg}_{tenor}_pac")
-                avg_col = f"{seg}_{tenor}_avg"
-                if atl_val is not None and pac_val is not None:
-                    cols[avg_col] = (atl_val + pac_val) / 2.0
-                elif atl_val is not None:
-                    cols[avg_col] = atl_val
-                elif pac_val is not None:
-                    cols[avg_col] = pac_val
-
-    # Tanker rates
-    for _, r in wet_df.iterrows():
-        dt = r['issue_date']
-        col_name = f"{r['norm_class']}_{r['norm_tenor']}"
-        if dt not in new_data:
-            new_data[dt] = {}
-        new_data[dt][col_name] = r['rate_usd_pdpr']
-
-    print(f"Prepared verified data across {len(new_data)} distinct weekly dates.")
-
-    # Update tc_df rows where date is in new_data
-    updated_dates = 0
-    added_dates = 0
-
-    tc_dict_by_date = {r['date']: r.to_dict() for _, r in tc_df.iterrows()}
-
-    for dt, cols in sorted(new_data.items()):
-        if dt in tc_dict_by_date:
-            row = tc_dict_by_date[dt]
-            row['source'] = 'alibra_ocr'
-            for col_name, val in cols.items():
-                if col_name in original_cols:
-                    row[col_name] = val
-            tc_dict_by_date[dt] = row
-            updated_dates += 1
-        else:
-            # Create new row
-            row = {c: np.nan for c in original_cols}
-            row['date'] = dt
-            row['source'] = 'alibra_ocr'
-            for col_name, val in cols.items():
-                if col_name in original_cols:
-                    row[col_name] = val
-            tc_dict_by_date[dt] = row
-            added_dates += 1
-
-    updated_df = pd.DataFrame(list(tc_dict_by_date.values()))
-    updated_df = updated_df.sort_values('date').reset_index(drop=True)
-
-    # Reorder columns exactly
-    updated_df = updated_df[original_cols]
-
-    # Write back to CSV
-    updated_df.to_csv(TC_CSV, index=False)
-    print(f"Successfully updated {TC_CSV}:")
-    print(f"  Total rows: {len(updated_df)} (original: {original_len})")
-    print(f"  Updated existing dates: {updated_dates}")
-    print(f"  Added new dates: {added_dates}")
 
 if __name__ == "__main__":
     main()
