@@ -84,7 +84,7 @@ DCE iron ore was was shocked all the day.The main contract closed at 707,decreas
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 950.00 | -2.10% | 780.00 | 1,630.00 | 141.56 | -2.28% | 110.51 | 251.57 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 840.00 | -3.40% | 620.00 | 1,310.00 | 125.17 | -3.66% | 87.40 | 202.32 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 1,051.00 | +5.30% | 800.00 | 1,752.00 | 156.61 | +5.07% | 122.55 | 272.32 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | - | 894.47 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 894.47 | -1.36% | 706.36 | 1,511.22 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

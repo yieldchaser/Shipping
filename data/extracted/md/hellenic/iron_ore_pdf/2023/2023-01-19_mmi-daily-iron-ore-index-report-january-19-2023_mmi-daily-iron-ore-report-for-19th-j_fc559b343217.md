@@ -129,7 +129,14 @@ DCE iron ore futures rose by 1.55% today, the main contract closed 852.5.The tra
 | **West Pilbara Fines** | 768.00 | +1.00 | -89.00 | **West Pilbara Fines** | 115.65 | +0.45 | -5.75 |
 
 ## 58% Fe Benchmark Brand Assessments (Port Stock FOT Qingdao)
-_No 58% Fe brand assessments reported for this session._
+| Brand | Fe Grade | Market / Delivery Point | Unit | Price | Change | Diff to IOPI58 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **SSF** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | 759.00 | +1.00 | +0.00 |
+| **FMG Blended Fines** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | 768.00 | +1.00 | +9.00 |
+| **Robe River** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | 769.00 | +1.00 | +10.00 |
+| **Western Fines** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | 772.00 | +1.00 | +13.00 |
+| **Atlas Fines** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | 766.00 | +1.00 | +7.00 |
+| **Yandi** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | 752.00 | +1.00 | -7.00 |
 
 ## PB Fines Port Stock Price Differentials to Qingdao Port
 | Port Terminal | Diff (RMB/wmt) | Change | Port Terminal | Diff (RMB/wmt) | Change |

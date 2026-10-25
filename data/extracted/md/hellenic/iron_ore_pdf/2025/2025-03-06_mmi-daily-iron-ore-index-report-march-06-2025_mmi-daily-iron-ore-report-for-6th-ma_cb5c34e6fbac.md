@@ -86,7 +86,7 @@ A key domestic meeting was held today, confirming that crude steel production wi
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 960.00 | -0.50% | 960.00 | 1,300.00 | 133.83 | -0.54% | 133.53 | 183.23 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 770.00 | +1.30% | 715.00 | 970.00 | 107.35 | +1.29% | 100.77 | 136.72 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 1,025.00 | +0.60% | 905.00 | 1,294.00 | 142.90 | +0.56% | 128.66 | 182.16 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | 887.90 | 0.32 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 887.90 | +0.32% | 854.16 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

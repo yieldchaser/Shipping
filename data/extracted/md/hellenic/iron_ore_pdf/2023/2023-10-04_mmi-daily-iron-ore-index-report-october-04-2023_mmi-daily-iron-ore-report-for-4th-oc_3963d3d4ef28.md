@@ -71,6 +71,12 @@ _No desk commentary reported for this session._
 | **IOSI62_61** | Seaborne CFR Qingdao | 62% Fe Fines | USD/dry tonne | 104.07 | +0.00 | +0.00% | 113.72 | 113.72 | 83.90 | 146.75 |
 | **IOSI65** | Seaborne CFR Qingdao | 65% Fe Fines | USD/dry tonne | 134.02 | +0.00 | +0.00% | 124.02 | 124.02 | 94.45 | 147.55 |
 
+## Ocean Freight Rates (Capesize)
+| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 10.76 USD/t | +0.33 | +3.12% | 3.57 | 16.77 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 24.26 USD/t | +0.56 | +2.35% | 6.70 | 36.40 |
+
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -78,7 +84,7 @@ _No desk commentary reported for this session._
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 1,120.00 | +1.40% | 780.00 | 1,630.00 | 156.14 | +1.65% | 110.51 | 251.57 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 815.00 | +1.90% | 620.00 | 1,310.00 | 113.62 | +2.17% | 87.40 | 202.32 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 1,207.00 | +3.30% | 800.00 | 1,752.00 | 168.27 | +3.64% | 117.19 | 272.32 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | - | 1,009.24 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 1,009.24 | +1.93% | 706.36 | 1,511.22 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |
@@ -108,7 +114,19 @@ _No desk commentary reported for this session._
 # Iron Ore Brand Spot Price Assessments & Port Differentials
 
 ## 62% Fe Benchmark Brand Assessments
-_No 62% Fe brand assessments reported for this session._
+| Port Stock Brand | Price (RMB/wmt) | Change | Diff to IOPI62 | Seaborne Brand | Price (USD/dmt) | Change | Diff to IOSI62 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **-** | - | - | - | **Roy Hill** | 99.55 | +0.00 | -4.52 |
+| **-** | - | - | - | **SIMEC Fines** | 96.05 | +0.00 | -8.02 |
+| **-** | - | - | - | **PB Fines** | 100.30 | +0.00 | -3.77 |
+| **-** | - | - | - | **Newman Fines** | 103.20 | +0.00 | -0.87 |
+| **-** | - | - | - | **MAC Fines** | 100.30 | +0.00 | -3.77 |
+| **-** | - | - | - | **Jimblebar Blended Fines** | 92.70 | +0.00 | -11.37 |
+| **-** | - | - | - | **Carajas Fines** | 133.60 | +0.00 | +29.53 |
+| **-** | - | - | - | **Brazilian SSF** | 107.80 | +0.00 | +3.73 |
+| **-** | - | - | - | **Brazilian Blend Fines** | 109.45 | +0.00 | +5.38 |
+| **-** | - | - | - | **RTX Fines** | 93.95 | +0.00 | -10.12 |
+| **-** | - | - | - | **West Pilbara Fines** | 98.30 | +0.00 | -5.77 |
 
 ## 58% Fe Benchmark Brand Assessments (Port Stock FOT Qingdao)
 _No 58% Fe brand assessments reported for this session._

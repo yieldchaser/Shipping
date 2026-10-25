@@ -116,17 +116,17 @@ DCE iron ore futures market rose sharply trends by 2.51%, the main contract I240
 ## 62% Fe Benchmark Brand Assessments
 | Port Stock Brand | Price (RMB/wmt) | Change | Diff to IOPI62 | Seaborne Brand | Price (USD/dmt) | Change | Diff to IOSI62 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Roy Hill** | 918.00 | +11.00 | -57.00 | **-** | - | - | - |
-| **SIMEC Fines** | 850.00 | +12.00 | -125.00 | **-** | - | - | - |
-| **PB Fines** | 942.00 | +11.00 | -33.00 | **-** | - | - | - |
-| **Newman Fines** | 945.00 | +12.00 | -30.00 | **-** | - | - | - |
-| **MAC Fines** | 925.00 | +11.00 | -50.00 | **-** | - | - | - |
-| **Jimblebar Blended Fines** | 841.00 | +11.00 | -134.00 | **-** | - | - | - |
-| **Carajas Fines** | 1,156.00 | +11.00 | +181.00 | **-** | - | - | - |
-| **Brazilian SSF** | 941.00 | +11.00 | -34.00 | **-** | - | - | - |
-| **Brazilian Blend Fines** | 955.00 | +11.00 | -20.00 | **-** | - | - | - |
-| **RTX Fines** | 859.00 | +11.00 | -116.00 | **-** | - | - | - |
-| **West Pilbara Fines** | 886.00 | +11.00 | -89.00 | **-** | - | - | - |
+| **Roy Hill** | 918.00 | +11.00 | -57.00 | **Roy Hill** | 106.50 | +4.00 | -4.54 |
+| **SIMEC Fines** | 850.00 | +12.00 | -125.00 | **SIMEC Fines** | 103.00 | +4.00 | -8.04 |
+| **PB Fines** | 942.00 | +11.00 | -33.00 | **PB Fines** | 107.25 | +4.00 | -3.79 |
+| **Newman Fines** | 945.00 | +12.00 | -30.00 | **Newman Fines** | 110.15 | +4.00 | -0.89 |
+| **MAC Fines** | 925.00 | +11.00 | -50.00 | **MAC Fines** | 107.25 | +4.00 | -3.79 |
+| **Jimblebar Blended Fines** | 841.00 | +11.00 | -134.00 | **Jimblebar Blended Fines** | 99.65 | +4.00 | -11.39 |
+| **Carajas Fines** | 1,156.00 | +11.00 | +181.00 | **Carajas Fines** | 140.55 | +4.00 | +29.51 |
+| **Brazilian SSF** | 941.00 | +11.00 | -34.00 | **Brazilian SSF** | 114.75 | +4.00 | +3.71 |
+| **Brazilian Blend Fines** | 955.00 | +11.00 | -20.00 | **Brazilian Blend Fines** | 116.40 | +4.00 | +5.36 |
+| **RTX Fines** | 859.00 | +11.00 | -116.00 | **RTX Fines** | 100.90 | +4.00 | -10.14 |
+| **West Pilbara Fines** | 886.00 | +11.00 | -89.00 | **West Pilbara Fines** | 105.25 | +4.00 | -5.79 |
 
 ## 58% Fe Benchmark Brand Assessments (Port Stock FOT Qingdao)
 | Brand | Fe Grade | Market / Delivery Point | Unit | Price | Change | Diff to IOPI58 |

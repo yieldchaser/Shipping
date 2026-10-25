@@ -86,7 +86,7 @@ In the short term, iron ore supply continues to ease. According to SMM statistic
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 980.00 | +0.50% | 880.00 | 1,300.00 | 143.74 | +0.41% | 122.81 | 183.23 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 745.00 | -0.70% | 690.00 | 970.00 | 109.27 | -0.77% | 96.49 | 136.72 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 938.00 | -0.70% | 878.00 | 1,294.00 | 137.58 | -0.85% | 122.53 | 182.16 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | - | - | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 863.45 | -0.30% | 802.20 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

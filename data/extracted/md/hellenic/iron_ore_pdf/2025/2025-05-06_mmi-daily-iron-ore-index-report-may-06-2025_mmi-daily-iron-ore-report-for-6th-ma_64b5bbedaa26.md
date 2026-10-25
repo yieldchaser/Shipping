@@ -84,7 +84,7 @@ On the first day after the holiday, DCE iron ore futures prices fluctuated repea
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 950.00 | +0.50% | 935.00 | 1,300.00 | 131.79 | +0.55% | 129.77 | 183.23 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 745.00 | -0.70% | 715.00 | 970.00 | 103.35 | -0.64% | 100.77 | 136.72 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 961.00 | +2.00% | 905.00 | 1,294.00 | 133.32 | +2.04% | 128.66 | 182.16 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | 858.85 | 0.15 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 858.85 | +0.15% | 854.16 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

@@ -73,6 +73,12 @@ According to the SMM survey, the blast furnace operating rate among the 242 stee
 | **IOPLI62** | Port Lump FOT Qingdao | 62.5% Fe Lump | RMB/wet tonne | 920.00 | -10.00 | -1.10% | 902.00 | 969.00 | 820.00 | 1,210.00 |
 | **IOPLI62_CFR_EQ** | CFR Qingdao Equivalent | 62.5% Fe Lump | USD/dry tonne | 115.65 | -1.36 | -1.16% | 112.53 | 121.51 | 102.77 | 153.57 |
 
+## Ocean Freight Rates (Capesize)
+| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 10.34 USD/t | -0.43 | -4.00% | 5.92 | 14.89 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 25.46 USD/t | -0.43 | -1.70% | 16.08 | 35.02 |
+
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -80,7 +86,7 @@ According to the SMM survey, the blast furnace operating rate among the 242 stee
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 1,010.00 | +0.50% | 880.00 | 1,300.00 | 142.05 | +0.44% | 122.81 | 183.23 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 755.00 | +0.70% | 690.00 | 970.00 | 106.19 | +0.61% | 96.49 | 136.72 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 981.00 | -0.50% | 878.00 | 1,294.00 | 137.97 | -0.56% | 122.53 | 182.16 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | - | 894.60 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 894.60 | +0.67% | 802.20 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

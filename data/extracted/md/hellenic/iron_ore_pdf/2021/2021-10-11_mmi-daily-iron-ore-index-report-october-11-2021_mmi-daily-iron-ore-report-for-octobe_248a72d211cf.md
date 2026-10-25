@@ -74,13 +74,17 @@ _No desk commentary reported for this session._
 ## Ocean Freight Rates (Capesize)
 | Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **C5, W. Australia - Qingdao** | Capesize Spot | - | - | - | - | - |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 21.34 USD/t | -1.55 | -6.77% | 3.57 | 16.77 |
 | **C3, Tubarao - Qingdao** | Capesize Spot | 48.90 USD/t | -1.09 | -2.18% | 6.70 | 36.40 |
 
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Month Ending Sep 30th,2021 RMB/tonne (excluding tax) ³ Province Hebei Hebei Liaoning Shandong Month Ending Sep 30th,2021 China Mines Concentrate Composite Index RMB/WT | **Month Ending Sep 30th,2021 RMB/tonne (excluding tax) ³ Region Hanxing Qian'an Anshan Zibo Month Ending Sep 30th,2021 China Mines Concentrate Composite Index RMB/WT** | Month Ending Sep 30th,2021 RMB/tonne (excluding tax) ³ Product 66% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate Month Ending Sep 30th,2021 China Mines Concentrate Composite Index RMB/WT | Month Ending Sep 30th,2021 RMB/tonne (excluding tax) ³ Basis Dry Dry Wet Dry Month Ending Sep 30th,2021 China Mines Concentrate Composite Index RMB/WT | - | - | - | - | - | - | - | - |
+| Hebei | **Hanxing** | 66% Fe Concentrate | Dry | 890.00 | -6.30% | 779.00 | 1,645.00 | 137.76 | -6.21% | 110.31 | 255.69 |
+| Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 1,070.00 | +5.40% | 780.00 | 1,630.00 | 165.62 | +5.54% | 110.51 | 251.57 |
+| Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 880.00 | +0.00% | 620.00 | 1,310.00 | 136.21 | +0.12% | 87.40 | 202.32 |
+| Shandong | **Zibo** | 65% Fe Concentrate | Dry | 890.00 | -8.70% | 865.00 | 1,752.00 | 137.76 | -8.61% | 122.55 | 272.32 |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 968.33 | +0.00% | 706.36 | 1,511.22 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

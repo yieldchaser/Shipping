@@ -329,6 +329,8 @@ Today, the DCE iron ore futures market exhibited a volatile trend with a downwar
 | **MAC Fines** | Seaborne | 60.80% | 2.35% | 4.70% | 0.08% | 7.80% |
 | **Jimblebar Blended Fines** | Port Stock | 60.87% | 2.95% | 4.53% | 0.111% | 7.32% |
 | **Jimblebar Blended Fines** | Seaborne | 60.50% | 3.00% | 4.50% | 0.12% | 8.00% |
+| **Carajas Fines** | Port Stock | 64.90% | 1.39% | 1.82% | 0.08% | 7.78% |
+| **Carajas Fines** | Seaborne | 65.10% | 1.50% | 1.70% | 0.08% | 8.50% |
 | **Brazilian SSF** | Port Stock | 62.00% | 1.00% | 6.50% | 0.04% | 6.00% |
 | **Brazilian SSF** | Seaborne | 62.00% | 1.00% | 6.50% | 0.04% | 6.00% |
 | **Brazilian Blend Fines** | Port Stock | 62.56% | 1.58% | 4.79% | 0.091% | 8.72% |

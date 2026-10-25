@@ -55,7 +55,9 @@ pages: 6
 # Benchmark Price Indices & Domestic Concentrates
 
 ## Desk Commentary
-_No desk commentary reported for this session._
+Today, DCE iron ore futures continued to trade in the doldrums, with the most-traded contract I2509 closing at 703.5, down 0.78% for the day. Traders' enthusiasm for selling was moderate; steel mills had largely completed their pre-holiday inventory restocking, resulting in fewer inquiries. The market trading atmosphere was moderate. In the Shandong region, the mainstream transaction prices of PB fines were around 755-760 yuan/mt, down 5-10 yuan/mt from yesterday's prices. In the Tangshan region, the transaction prices of PB fines were around 765-770 yuan/mt, up 5-10 yuan/mt from yesterday's prices.
+
+According to the SMM survey, on April 30, the operating rate of blast furnaces at 242 steel mills surveyed by SMM was 88.89%, up 0.31 percentage point MoM. The daily average pig iron production of the sampled steel mills was 2.4535 million mt, up 12,000 mt MoM. According to SMM estimates, pig iron production will start to pull back next week. However, steel mill profits are currently moderate, and the decline in pig iron production will be relatively small. Overall demand for iron ore still provides some support for ore prices. Considering the pressure from the news of crude steel production restrictions, it is expected that iron ore prices will face difficulties in both directions after the holiday, and will mainly continue to fluctuate rangebound.
 
 ## MMi Detailed Iron Ore Benchmark Assessments
 | Index Name | Delivery Point / Market | Grade Profile | Currency / Unit | Assessment | Change | Change % | MTD Avg | YTD Avg | 52w Low | 52w High |

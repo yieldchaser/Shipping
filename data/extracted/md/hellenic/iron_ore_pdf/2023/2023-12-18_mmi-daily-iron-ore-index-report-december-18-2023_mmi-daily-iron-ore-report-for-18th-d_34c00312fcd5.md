@@ -84,7 +84,7 @@ DCE iron ore futures market falling trends by 1.59%. the main contract i2405 clo
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 1,205.00 | +1.30% | 780.00 | 1,630.00 | 169.47 | +1.28% | 110.51 | 251.57 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 925.00 | +2.80% | 620.00 | 1,310.00 | 130.09 | +2.80% | 87.40 | 202.32 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 1,226.00 | +1.50% | 800.00 | 1,752.00 | 172.43 | +1.51% | 0.00 | 272.32 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | - | 1,070.89 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 1,070.89 | +0.00% | 706.36 | 1,511.22 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

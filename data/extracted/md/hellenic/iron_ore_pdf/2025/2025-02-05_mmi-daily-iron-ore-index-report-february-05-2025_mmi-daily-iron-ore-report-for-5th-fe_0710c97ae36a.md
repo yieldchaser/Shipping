@@ -74,8 +74,8 @@ Today,ÊDCEÊironÊoreÊfuturesÊmovedÊdownwardsÊaŌerÊaÊhigherÊopening,Êf
 ## Ocean Freight Rates (Capesize)
 | Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **C5, W. Australia - Qingdao** | Capesize Spot | - | - | +5.92% | 14.89 | - |
-| **C3, Tubarao - Qingdao** | Capesize Spot | - | - | +16.08% | 35.02 | - |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 5.92 USD/t | +0.00 | +0.00% | 5.92 | 14.89 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 17.50 USD/t | +0.00 | +0.00% | 16.08 | 35.02 |
 
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |

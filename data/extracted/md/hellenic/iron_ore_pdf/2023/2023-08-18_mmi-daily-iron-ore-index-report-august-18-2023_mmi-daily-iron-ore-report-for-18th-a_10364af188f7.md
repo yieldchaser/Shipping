@@ -71,6 +71,12 @@ DCE iron ore futures rose by 2.94% today, the main contract closed at 771.5.The 
 | **IOSI62_61** | Seaborne CFR Qingdao | 62% Fe Fines | USD/dry tonne | 108.10 | -0.65 | -0.60% | 113.44 | 121.69 | 83.90 | 146.75 |
 | **IOSI65** | Seaborne CFR Qingdao | 65% Fe Fines | USD/dry tonne | 167.35 | +0.35 | +0.21% | 129.46 | 140.42 | 94.45 | 167.35 |
 
+## Ocean Freight Rates (Capesize)
+| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 7.98 USD/t | -0.12 | -1.48% | 3.57 | 16.77 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 21.44 USD/t | -0.10 | -0.46% | 6.70 | 36.40 |
+
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

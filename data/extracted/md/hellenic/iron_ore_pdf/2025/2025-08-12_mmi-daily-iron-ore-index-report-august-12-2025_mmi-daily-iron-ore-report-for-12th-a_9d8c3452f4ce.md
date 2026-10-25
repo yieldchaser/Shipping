@@ -71,10 +71,20 @@ Last week, SMM's global iron ore shipment volume totaled 31.12 million mt, down 
 | **IOPI65** | Port Stock FOT Qingdao | 65% Fe Fines | RMB/wet tonne | 915.00 | +4.00 | +0.40% | 892.00 | 949.00 | 794.00 | 1,175.00 |
 | **IOPI65_CFR_EQ** | CFR Qingdao Equivalent | 65% Fe Fines | USD/dry tonne | 119.47 | +0.52 | +0.40% | 115.79 | 124.10 | 104.47 | 155.37 |
 
+## Ocean Freight Rates (Capesize)
+| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 10.58 USD/t | +0.21 | +2.00% | 5.92 | 14.89 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 24.95 USD/t | +0.59 | +2.40% | 16.08 | 35.02 |
+
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Week Ending Aug 8th, 2025 Province Hebei Hebei Liaoning Shandong Week Ending Aug 8th, 2025 China Mines Concentrate Composite Index RMB/WT | **Week Ending Aug 8th, 2025 Region Hanxing Qian'an Anshan Zibo Week Ending Aug 8th, 2025 China Mines Concentrate Composite Index RMB/WT** | Week Ending Aug 8th, 2025 Product 66% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate Week Ending Aug 8th, 2025 China Mines Concentrate Composite Index RMB/WT | RMB/tonne (excluding tax) ³ Basis Dry Dry Wet Dry This week 846.26 | - | - | - | - | - | - | - | - |
+| Hebei | **Hanxing** | 66% Fe Concentrate | Dry | 906.00 | -2.60% | 859.00 | 1,226.00 | 126.93 | -2.44% | 119.88 | 172.59 |
+| Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 950.00 | +2.20% | 880.00 | 1,300.00 | 133.09 | +2.30% | 122.81 | 183.23 |
+| Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 720.00 | +0.00% | 690.00 | 970.00 | 100.87 | +0.14% | 96.49 | 136.72 |
+| Shandong | **Zibo** | 65% Fe Concentrate | Dry | 931.00 | -2.90% | 878.00 | 1,294.00 | 130.43 | -2.78% | 122.53 | 182.16 |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 846.26 | -0.24% | 802.20 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |
@@ -86,6 +96,10 @@ Last week, SMM's global iron ore shipment volume totaled 31.12 million mt, down 
 ## Multi-Period Monthly, Quarterly & YTD Averages
 | Index | Fe Grade | Market Profile | Unit | M-4 | M-3 | M-2 | M-1 | MTD | QTD | YTD |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **IOSI62** | 62% Fe Fines | Seaborne | USD/dry tonne | 101.62 | 100.10 | 96.53 | 100.49 | **101.88** | 101.10 | 110.14 |
+| **IOSI65** | 65% Fe Fines | Seaborne | USD/dry tonne | 109.70 | 105.43 | 100.81 | 106.81 | **111.46** | 110.89 | 124.35 |
+| **IOPLI62** | 62.5% Fe Lump | Port Stock | RMB/wet tonne | 901.00 | 898.00 | 865.00 | 907.00 | **899.00** | 893.00 | 973.00 |
+| **IOPLI62_CFR_EQ** | 62.5% Fe Lump | CFR Qingdao Eq | USD/dry tonne | 111.81 | 111.39 | 107.50 | 113.27 | **111.93** | 111.27 | 121.94 |
 | **IOPI62** | 62% Fe Fines | Port Stock | RMB/wet tonne | 771.00 | 770.00 | 738.00 | 772.00 | **780.00** | 774.00 | 837.00 |
 | **IOPI62_CFR_EQ** | 62% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 99.27 | 99.19 | 95.15 | 100.15 | **100.80** | 100.12 | 109.07 |
 | **IOPI58** | 58% Fe Fines | Port Stock | RMB/wet tonne | 664.00 | 668.00 | 650.00 | 664.00 | **680.00** | 674.00 | 732.00 |
@@ -306,6 +320,38 @@ Last week, SMM's global iron ore shipment volume totaled 31.12 million mt, down 
 | **Moisture Content** | 8.00% | 8.00% | 9.00% | 4.00% |
 | **Pricing Basis** | CFR Qingdao | FOT / CFR Qingdao | FOT / CFR Qingdao | FOT Qingdao |
 | **Payment Terms** | L/C at sight | L/C at sight | L/C at sight | L/C at sight or CAD |
+
+## Average Iron Ore Specifications Applied for Brand Price Assessments
+| Brand Name | Market Segment | Fe Content % | Alumina (Al2O3) % | Silica (SiO2) % | Phosphorus (P) % | Moisture Content % |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Roy Hill** | Port Stock | 60.88% | 2.35% | 4.45% | 0.055% | 9.26% |
+| **Roy Hill** | Seaborne | 60.70% | 2.30% | 4.90% | 0.055% | 8.00% |
+| **SIMEC Fines** | Port Stock | 60.00% | 2.30% | 6.30% | 0.06% | 6.00% |
+| **SIMEC Fines** | Seaborne | 60.00% | 2.30% | 6.30% | 0.06% | 6.00% |
+| **PB Fines** | Port Stock | 61.64% | 2.31% | 3.87% | 0.099% | 9.45% |
+| **PB Fines** | Seaborne | 62.00% | 2.60% | 4.30% | 0.09% | 9.50% |
+| **Newman Fines** | Port Stock | 62.49% | 2.31% | 3.98% | 0.09% | 7.72% |
+| **Newman Fines** | Seaborne | 62.30% | 2.40% | 4.40% | 0.09% | 8.00% |
+| **MAC Fines** | Port Stock | 60.43% | 2.38% | 4.64% | 0.078% | 7.57% |
+| **MAC Fines** | Seaborne | 60.80% | 2.35% | 4.70% | 0.08% | 7.80% |
+| **Jimblebar Blended Fines** | Port Stock | 60.87% | 2.95% | 4.53% | 0.111% | 7.32% |
+| **Jimblebar Blended Fines** | Seaborne | 60.50% | 3.00% | 4.50% | 0.12% | 8.00% |
+| **Carajas Fines** | Port Stock | 64.90% | 1.39% | 1.82% | 0.08% | 7.78% |
+| **Carajas Fines** | Seaborne | 65.10% | 1.50% | 1.70% | 0.08% | 8.50% |
+| **Brazilian SSF** | Port Stock | 62.00% | 1.00% | 6.50% | 0.04% | 6.00% |
+| **Brazilian SSF** | Seaborne | 62.00% | 1.00% | 6.50% | 0.04% | 6.00% |
+| **Brazilian Blend Fines** | Port Stock | 62.56% | 1.58% | 4.79% | 0.091% | 8.72% |
+| **Brazilian Blend Fines** | Seaborne | 63.00% | 1.50% | 5.00% | 0.07% | 7.00% |
+| **RTX Fines** | Port Stock | 61.00% | 3.10% | 4.50% | 0.135% | 7.50% |
+| **RTX Fines** | Seaborne | 61.00% | 3.10% | 4.50% | 0.135% | 7.50% |
+| **West Pilbara Fines** | Port Stock | 60.10% | 2.30% | 4.70% | 0.075% | 8.50% |
+| **West Pilbara Fines** | Seaborne | 60.10% | 2.30% | 4.70% | 0.075% | 8.50% |
+| **SSF** | Port Stock | 56.49% | 3.20% | 6.19% | 0.065% | 9.18% |
+| **FMG Blended Fines** | Port Stock | 58.20% | 2.43% | 5.54% | 0.057% | 8.29% |
+| **Robe River** | Port Stock | 56.44% | 3.16% | 5.73% | 0.042% | 8.44% |
+| **Western Fines** | Port Stock | 57.88% | 2.87% | 7.50% | 0.062% | 7.45% |
+| **Atlas Fines** | Port Stock | 58.00% | 1.85% | 5.50% | 0.09% | 9.00% |
+| **Yandi** | Port Stock | 56.87% | 1.58% | 6.41% | 0.042% | 9.53% |
 
 ## Bloomberg Terminal Tickers
 | Index Identifier | Market Segment | Delivery Terms | Bloomberg Ticker |

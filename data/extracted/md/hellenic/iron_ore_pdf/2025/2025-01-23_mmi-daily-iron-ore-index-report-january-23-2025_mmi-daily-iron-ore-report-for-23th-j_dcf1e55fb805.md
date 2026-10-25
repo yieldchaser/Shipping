@@ -74,12 +74,17 @@ Today, iron ore futures moved downwards after a higher opening, fluctuating thro
 ## Ocean Freight Rates (Capesize)
 | Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **C5, W. Australia - Qingdao** | Capesize Spot | - | - | - | - | - |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 6.23 USD/t | -0.02 | -0.32% | 6.16 | 14.89 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 17.63 USD/t | -0.15 | -0.84% | 16.08 | 35.02 |
 
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Week Ending Jan 17th, 2025 ProvinceHebei Hebei Liaoning Shandong Week Ending Jan 17th, 2025 China Mines Concentrate Composite Index RMB/WT | **Week Ending Jan 17th, 2025 RegionHanxing Qian'an Anshan Zibo Week Ending Jan 17th, 2025 China Mines Concentrate Composite Index RMB/WT** | Week Ending Jan 17th, 2025 Product66% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate Week Ending Jan 17th, 2025 China Mines Concentrate Composite Index RMB/WT | Week Ending Jan 17th, 2025 BasisDry Dry Wet Dry Week Ending Jan 17th, 2025 China Mines Concentrate Composite Index RMB/WT | - | - | - | - | - | - | - | - |
+| Hebei | **Hanxing** | 66% Fe Concentrate | Dry | 913.00 | -2.20% | 861.00 | 1,226.00 | 127.01 | -2.25% | 122.41 | 172.59 |
+| Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 975.00 | +1.60% | 960.00 | 1,300.00 | 135.64 | +1.56% | 133.53 | 183.23 |
+| Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 745.00 | +0.00% | 715.00 | 970.00 | 103.64 | +0.00% | 100.77 | 136.72 |
+| Shandong | **Zibo** | 65% Fe Concentrate | Dry | 939.00 | -2.50% | 905.00 | 1,294.00 | 130.63 | -2.49% | 128.66 | 182.16 |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 868.30 | -0.31% | 854.16 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |
@@ -91,14 +96,16 @@ Today, iron ore futures moved downwards after a higher opening, fluctuating thro
 ## Multi-Period Monthly, Quarterly & YTD Averages
 | Index | Fe Grade | Market Profile | Unit | M-4 | M-3 | M-2 | M-1 | MTD | QTD | YTD |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **IOSI62** | 62% Fe Fines | Seaborne | USD/dry tonne | 94.36 | 104.02 | 103.09 | 104.94 | **102.87** | 100.85 | 113.94 |
+| **IOSI65** | 65% Fe Fines | Seaborne | USD/dry tonne | 102.24 | 115.31 | 117.71 | 115.66 | **114.71** | 112.31 | 130.68 |
+| **IOPLI62** | 62.5% Fe Lump | Port Stock | RMB/wet tonne | 830.00 | 888.00 | 876.00 | 888.00 | **887.00** | 875.00 | 1,000.00 |
+| **IOPLI62_CFR_EQ** | 62.5% Fe Lump | CFR Qingdao Eq | USD/dry tonne | 104.46 | 111.82 | 109.09 | 110.14 | **110.59** | 109.30 | 125.75 |
 | **IOPI62** | 62% Fe Fines | Port Stock | RMB/wet tonne | 718.00 | 781.00 | 779.00 | 791.00 | **784.00** | 769.00 | 863.00 |
 | **IOPI62_CFR_EQ** | 62% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 93.70 | 102.03 | 100.71 | 102.08 | **101.37** | 99.71 | 112.81 |
 | **IOPI58** | 58% Fe Fines | Port Stock | RMB/wet tonne | 630.00 | 690.00 | 692.00 | 706.00 | **694.00** | 677.00 | 758.00 |
 | **IOPI58_CFR_EQ** | 58% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 82.73 | 90.61 | 89.97 | 91.67 | **90.29** | 88.25 | 99.61 |
 | **IOPI65** | 65% Fe Fines | Port Stock | RMB/wet tonne | 829.00 | 894.00 | 891.00 | 903.00 | **896.00** | 881.00 | 975.00 |
 | **IOPI65_CFR_EQ** | 65% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 108.89 | 117.10 | 115.71 | 117.03 | **116.38** | 114.76 | 127.87 |
-| **IOSI62** | 62% Fe Fines | Seaborne | USD/dry tonne | 94.36 | 104.02 | 103.09 | 104.94 | **102.87** | 100.85 | 113.94 |
-| **IOSI65** | 65% Fe Fines | Seaborne | USD/dry tonne | 102.24 | 115.31 | 117.71 | 115.66 | **114.71** | 112.31 | 130.68 |
 
 ---
 

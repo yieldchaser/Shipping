@@ -84,7 +84,7 @@ Today, iron ore futures fluctuated upward. The most-traded i2505 contract finall
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 960.00 | -2.00% | 960.00 | 1,300.00 | 133.55 | -2.04% | 133.53 | 183.23 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 745.00 | -1.30% | 715.00 | 970.00 | 103.64 | -1.33% | 100.77 | 136.72 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 963.00 | -0.30% | 905.00 | 1,294.00 | 133.97 | -0.31% | 128.66 | 182.16 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | - | 871.03 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 871.03 | -1.29% | 854.16 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

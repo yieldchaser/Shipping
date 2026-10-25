@@ -5,6 +5,8 @@ Every number here is printed in the PDF as text, so it is copied, not estimated:
   read_dashboard(doc)        page 1 cards: label, value, change, change %, date line
   read_port_inventories(doc) "Iron Ore Port Inventories" table: week ending + one row per port
   read_futures(doc)          "Iron Ore Futures Contracts" table: DCE and SGX columns, 5 metrics
+  read_brands(doc)           62% / 58% Fe brand spot price tables (sides under a HOLIDAY box are None)
+  read_freight(doc)          page 2 "FREIGHT RATES - DRY BULK" table: C5 and C3 rate, change, change %, 52w range
 
 Cells are located by position (a row label, then the spans on its line to the right), so a
 table is read only when its labels are found; a missing table returns None.
@@ -258,3 +260,86 @@ def read_benchmarks(doc):
                 for c in cells]
         out[lab["text"]] = vals
     return out or None
+
+# ---------------------------------------------------------------------------------- brand assessments
+
+BRAND_NUM = re.compile(r"^[-+]?\d[\d,]*(\.\d+)?$")
+
+
+def _lines(spans, tol=3.5):
+    """Spans grouped into printed lines by their vertical centre, top to bottom, each sorted by x."""
+    lines, keys = {}, []
+    for s in sorted(spans, key=lambda s: ((s["rect"].y0 + s["rect"].y1) / 2, s["rect"].x0)):
+        yc = (s["rect"].y0 + s["rect"].y1) / 2
+        k = next((k for k in keys[-3:] if abs(k - yc) < tol), None)
+        if k is None:
+            k = yc
+            keys.append(k)
+        lines.setdefault(k, []).append(s)
+    return [sorted(lines[k], key=lambda s: s["rect"].x0) for k in sorted(lines)]
+
+
+def read_brands(doc):
+    """{"62": [(port, seaborne)], "58": [port]} from the brand spot price tables, or None.
+
+    port / seaborne is (brand, [price, change, diff]) as printed, or None where the side is not shown:
+    on a Chinese holiday a "HOLIDAY" box is drawn over the port stock side (the text layer still holds
+    the previous session's numbers under it, but the page does not show them). The page is printed
+    1.185x wider on some 2025 issues, so the column bounds are scaled from the "Diff to IOPI62" header."""
+    page = _find_page(doc, "Diff to IOPI62")
+    if page is None:
+        return None
+    spans = _spans(page)
+    boxes = [st_box(page, s) for s in spans if s["text"] == "HOLIDAY"]
+    shown = [s for s in spans if s["text"] != "HOLIDAY" and not any(
+        b.y0 < (s["rect"].y0 + s["rect"].y1) / 2 < b.y1 and b.x0 < s["rect"].x0 + 4 < b.x1 for b in boxes)]
+    r62, r58, mode, k = [], [], None, 1.0
+
+    def side(line, lo, nlo, hi):
+        lab = " ".join(s["text"] for s in line if lo <= s["rect"].x0 < nlo and not BRAND_NUM.match(s["text"]))
+        nums = [s["text"] for s in line if nlo <= s["rect"].x0 < hi and BRAND_NUM.match(s["text"])]
+        return (lab, nums) if lab and len(nums) == 3 else None
+
+    for line in _lines(shown):
+        txt = " ".join(s["text"] for s in line)
+        if "Diff to IOPI62" in txt:
+            mode = "62"
+            k = next(s["rect"].x0 for s in line if s["text"].startswith("Diff to IOPI62")) / 243
+            continue
+        if "Diff to IOPI58" in txt:
+            mode = "58"
+            continue
+        if "Differentials" in txt or "NORMALISATION" in txt:
+            break
+        if mode == "62":
+            port, sea = side(line, 0, 140 * k, 290 * k), side(line, 290 * k, 410 * k, 9e9)
+            if port or sea:
+                r62.append((port, sea))
+            elif r62 and not any(s["rect"].x0 < 140 * k for s in line):
+                mode = None                      # past the table (a masked row still prints its label)
+        elif mode == "58":
+            port = side(line, 0, 140 * k, 290 * k)
+            if port:
+                r58.append(port)
+    return {"62": r62, "58": r58} if r62 else None
+
+# ---------------------------------------------------------------------------------------- freight rates
+
+def read_freight(doc):
+    """{"C5": (route, [rate, change, change %, low, high]), "C3": ...} from the page 2 "FREIGHT RATES - DRY BULK"
+    table, or None. The row label is the designation cell; the route is printed just left of it."""
+    page = _find_page(doc, "Designation")
+    if page is None:
+        return None
+    rows = {}
+    for line in _lines(_spans(page)):
+        des = [s for s in line if s["text"] in ("C5", "C3")]
+        if not des:
+            continue
+        dx = des[0]["rect"].x0
+        route = " ".join(s["text"] for s in line if dx - 90 < s["rect"].x0 < dx - 2 and not NUM.match(s["text"]))
+        nums = [s["text"] for s in line if s["rect"].x0 > dx + 5 and NUM.match(s["text"])]
+        if len(nums) != 5 or not route:
+            return None
+        rows[des[0]["text"]] = (route, nums)
+    return rows if set(rows) == {"C5", "C3"} else None

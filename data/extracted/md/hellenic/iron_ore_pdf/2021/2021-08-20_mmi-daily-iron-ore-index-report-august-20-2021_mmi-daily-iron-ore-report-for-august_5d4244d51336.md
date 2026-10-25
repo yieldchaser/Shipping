@@ -71,6 +71,12 @@ _No desk commentary reported for this session._
 | **IOSI62_61** | Seaborne CFR Qingdao | 62% Fe Fines | USD/dry tonne | 148.35 | -3.90 | -2.56% | 168.82 | 186.76 | 117.60 | 230.50 |
 | **IOSI65** | Seaborne CFR Qingdao | 65% Fe Fines | USD/dry tonne | 176.20 | -7.35 | -4.00% | 199.85 | 215.67 | 129.60 | 262.95 |
 
+## Ocean Freight Rates (Capesize)
+| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 15.24 USD/t | -0.14 | -0.91% | 3.57 | 15.38 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 34.84 USD/t | +0.59 | +1.72% | 6.70 | 34.84 |
+
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

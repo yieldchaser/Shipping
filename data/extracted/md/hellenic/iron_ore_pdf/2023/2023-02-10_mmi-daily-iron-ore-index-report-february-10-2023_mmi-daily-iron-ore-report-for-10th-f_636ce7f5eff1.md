@@ -71,6 +71,12 @@ DCE iron ore futures market rose by 0.76%. the main contract I2305 closed 863.5,
 | **IOPLI62** | Port Lump FOT Qingdao | 62.5% Fe Lump | RMB/wet tonne | 998.00 | +43.00 | +4.50% | 896.00 | 1,036.00 | 770.00 | 1,405.00 |
 | **IOPLI62_CFR_EQ** | CFR Qingdao Equivalent | 62.5% Fe Lump | USD/dry tonne | 131.73 | +4.95 | +3.91% | 115.15 | 139.06 | 94.72 | 199.13 |
 
+## Ocean Freight Rates (Capesize)
+| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 6.02 USD/t | -0.25 | -3.99% | 3.57 | 16.77 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 16.61 USD/t | +0.04 | +0.27% | 6.70 | 36.40 |
+
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

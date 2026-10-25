@@ -71,6 +71,12 @@ Today, The DCE iron ore futures opened higher in the morning and held up well. T
 | **IOSI62_61** | Seaborne CFR Qingdao | 62% Fe Fines | USD/dry tonne | 99.60 | +1.12 | +1.14% | 103.22 | 112.57 | 89.79 | 142.65 |
 | **IOSI65** | Seaborne CFR Qingdao | 65% Fe Fines | USD/dry tonne | 109.56 | +2.29 | +2.13% | 115.08 | 128.66 | 98.28 | 171.65 |
 
+## Ocean Freight Rates (Capesize)
+| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 7.34 USD/t | -0.37 | -4.80% | 5.92 | 14.89 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 19.43 USD/t | -1.17 | -5.70% | 16.08 | 35.02 |
+
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -326,6 +332,19 @@ Today, The DCE iron ore futures opened higher in the morning and held up well. T
 | **Carajas Fines** | Port Stock | 64.90% | 1.39% | 1.82% | 0.08% | 7.78% |
 | **Carajas Fines** | Seaborne | 65.10% | 1.50% | 1.70% | 0.08% | 8.50% |
 | **Brazilian SSF** | Port Stock | 62.00% | 1.00% | 6.50% | 0.04% | 6.00% |
+| **Brazilian SSF** | Seaborne | 62.00% | 1.00% | 6.50% | 0.04% | 6.00% |
+| **Brazilian Blend Fines** | Port Stock | 62.56% | 1.58% | 4.79% | 0.091% | 8.72% |
+| **Brazilian Blend Fines** | Seaborne | 63.00% | 1.50% | 5.00% | 0.07% | 7.00% |
+| **RTX Fines** | Port Stock | 61.00% | 3.10% | 4.50% | 0.135% | 7.50% |
+| **RTX Fines** | Seaborne | 61.00% | 3.10% | 4.50% | 0.135% | 7.50% |
+| **West Pilbara Fines** | Port Stock | 60.10% | 2.30% | 4.70% | 0.075% | 8.50% |
+| **West Pilbara Fines** | Seaborne | 60.10% | 2.30% | 4.70% | 0.075% | 8.50% |
+| **SSF** | Port Stock | 56.49% | 3.20% | 6.19% | 0.065% | 9.18% |
+| **FMG Blended Fines** | Port Stock | 58.20% | 2.43% | 5.54% | 0.057% | 8.29% |
+| **Robe River** | Port Stock | 56.44% | 3.16% | 5.73% | 0.042% | 8.44% |
+| **Western Fines** | Port Stock | 57.88% | 2.87% | 7.50% | 0.062% | 7.45% |
+| **Atlas Fines** | Port Stock | 58.00% | 1.85% | 5.50% | 0.09% | 9.00% |
+| **Yandi** | Port Stock | 56.87% | 1.58% | 6.41% | 0.042% | 9.53% |
 
 ## Bloomberg Terminal Tickers
 | Index Identifier | Market Segment | Delivery Terms | Bloomberg Ticker |

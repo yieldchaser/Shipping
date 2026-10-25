@@ -252,7 +252,15 @@ pages: 6
 # Steel Spot Market & Mill Profitability
 
 ## Chinese Domestic Steel Spot Market Prices
-_No steel spot market prices reported for this session._
+| Steel Product Profile | Unit | Price | Change | Change % |
+| :--- | :--- | :--- | :--- | :--- |
+| **ReBar HRB400 phi18mm** | RMB/tonne | 3,820.00 | +100.00 | +2.69% |
+| **Wirerod Q300 phi6.5mm** | RMB/tonne | 4,120.00 | +110.00 | +2.74% |
+| **HRC Q235/SS400 5.5mm1500C** | RMB/tonne | 3,930.00 | +80.00 | +2.08% |
+| **CRC SPCC/ST12 1.0mm12502500** | RMB/tonne | 4,470.00 | +30.00 | +0.68% |
+| **Medium & Heavy Plate Q235B 20mm** | RMB/tonne | 4,010.00 | +50.00 | +1.26% |
+| **GI ST02Z 1.0mm1000C** | RMB/tonne | 4,840.00 | +50.00 | +1.04% |
+| **Colour Coated Plate** | RMB/tonne | 6,850.00 | +0.00 | +0.00% |
 
 ## Chinese Steel Mill Cost & Profitability Model
 | Indicator / Category | Price / Margin | Unit | Change (WoW) | Specification Notes |

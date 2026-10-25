@@ -84,7 +84,7 @@ DCE iron ore futures opened shock run, the main contract 2209 closed at 892.5, u
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 960.00 | -2.50% | 780.00 | 1,630.00 | 143.70 | -1.33% | 110.51 | 251.57 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 895.00 | -2.20% | 620.00 | 1,310.00 | 133.97 | -0.98% | 87.40 | 202.32 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 1,135.00 | +1.30% | 800.00 | 1,752.00 | 169.90 | +2.59% | 122.55 | 272.32 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | - | 994.60 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 994.60 | -1.35% | 706.36 | 1,511.22 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

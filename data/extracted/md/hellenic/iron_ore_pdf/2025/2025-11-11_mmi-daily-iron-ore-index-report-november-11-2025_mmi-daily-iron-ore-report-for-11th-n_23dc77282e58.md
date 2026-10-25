@@ -74,17 +74,17 @@ DCEÊironÊoreÊfuturesÊfluctuatedÊrangeboundÊtoday.ÊTheÊmost-tradedÊcontr
 ## Ocean Freight Rates (Capesize)
 | Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **C5, W. Australia - Qingdao** | Capesize Spot | 10.36 USD/t | - | - | 5.92 | 14.89 |
-| **C3, Tubarao - Qingdao** | Capesize Spot | 23.41 USD/t | - | - | 16.08 | 35.02 |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 10.36 USD/t | -0.09 | -0.80% | 5.92 | 14.89 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 23.41 USD/t | -0.12 | -0.50% | 16.08 | 35.02 |
 
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Hebei | **Hanxing** | 66% Fe Concentrate | Dry | 970.00 | - | 859.00 | 1,226.00 | 136.87 | - | 119.88 | 172.59 |
-| Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 1,015.00 | - | 880.00 | 1,300.00 | 143.22 | - | 122.81 | 183.23 |
-| Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 755.00 | - | 690.00 | 970.00 | 106.53 | - | 96.49 | 136.72 |
-| Shandong | **Zibo** | 65% Fe Concentrate | Dry | 975.00 | - | 878.00 | 1,294.00 | 137.57 | - | 122.53 | 182.16 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 900.40 | - | 802.20 | 905.40 | - | - | - | - |
+| Hebei | **Hanxing** | 66% Fe Concentrate | Dry | 970.00 | +2.60% | 859.00 | 1,226.00 | 136.87 | +2.64% | 119.88 | 172.59 |
+| Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 1,015.00 | -1.50% | 880.00 | 1,300.00 | 143.22 | -1.46% | 122.81 | 183.23 |
+| Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 755.00 | +0.00% | 690.00 | 970.00 | 106.53 | -0.01% | 96.49 | 136.72 |
+| Shandong | **Zibo** | 65% Fe Concentrate | Dry | 975.00 | +0.00% | 878.00 | 1,294.00 | 137.57 | -0.01% | 122.53 | 182.16 |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 900.40 | +0.15% | 802.20 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |
@@ -383,6 +383,16 @@ DCEÊironÊoreÊfuturesÊfluctuatedÊrangeboundÊtoday.ÊTheÊmost-tradedÊcontr
 | **Brazilian SSF** | Seaborne | 62.00% | 1.00% | 6.50% | 0.04% | 6.00% |
 | **Brazilian Blend Fines** | Port Stock | 62.56% | 1.58% | 4.79% | 0.091% | 8.72% |
 | **Brazilian Blend Fines** | Seaborne | 63.00% | 1.50% | 5.00% | 0.07% | 7.00% |
+| **RTX Fines** | Port Stock | 61.00% | 3.10% | 4.50% | 0.135% | 7.50% |
+| **RTX Fines** | Seaborne | 61.00% | 3.10% | 4.50% | 0.135% | 7.50% |
+| **West Pilbara Fines** | Port Stock | 60.10% | 2.30% | 4.70% | 0.075% | 8.50% |
+| **West Pilbara Fines** | Seaborne | 60.10% | 2.30% | 4.70% | 0.075% | 8.50% |
+| **SSF** | Port Stock | 56.49% | 3.20% | 6.19% | 0.065% | 9.18% |
+| **FMG Blended Fines** | Port Stock | 58.20% | 2.43% | 5.54% | 0.057% | 8.29% |
+| **Robe River** | Port Stock | 56.44% | 3.16% | 5.73% | 0.042% | 8.44% |
+| **Western Fines** | Port Stock | 57.88% | 2.87% | 7.50% | 0.062% | 7.45% |
+| **Atlas Fines** | Port Stock | 58.00% | 1.85% | 5.50% | 0.09% | 9.00% |
+| **Yandi** | Port Stock | 56.87% | 1.58% | 6.41% | 0.042% | 9.53% |
 
 ## Bloomberg Terminal Tickers
 | Index Identifier | Market Segment | Delivery Terms | Bloomberg Ticker |

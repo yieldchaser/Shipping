@@ -74,12 +74,17 @@ Last week, global iron ore shipments tracked by SMM totaled 35.9 million tons, r
 ## Ocean Freight Rates (Capesize)
 | Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **C5, W. Australia - Qingdao** | Capesize Spot | - | - | - | - | - |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 10.70 USD/t | -0.02 | -0.20% | 5.92 | 14.89 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 24.53 USD/t | +0.02 | +0.10% | 16.08 | 35.02 |
 
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Week Ending Nov 21st, 2025 Province Hebei Hebei Liaoning Shandong Week Ending Nov 21st, 2025 China Mines Concentrate Composite Index RMB/WT | **Week Ending Nov 21st, 2025 Region Hanxing Qian'an Anshan Zibo Week Ending Nov 21st, 2025 China Mines Concentrate Composite Index RMB/WT** | Week Ending Nov 21st, 2025 Product 66% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate Week Ending Nov 21st, 2025 China Mines Concentrate Composite Index RMB/WT | Week Ending Nov 21st, 2025 Basis Dry Dry Wet Dry Week Ending Nov 21st, 2025 China Mines Concentrate Composite Index RMB/WT | - | - | - | - | - | - | - | - |
+| Hebei | **Hanxing** | 66% Fe Concentrate | Dry | 940.00 | -0.90% | 859.00 | 1,226.00 | 132.65 | -0.97% | 119.88 | 172.59 |
+| Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 1,025.00 | +0.50% | 880.00 | 1,300.00 | 144.64 | +0.47% | 122.81 | 183.23 |
+| Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 762.00 | +0.00% | 690.00 | 970.00 | 107.53 | -0.02% | 96.49 | 136.72 |
+| Shandong | **Zibo** | 65% Fe Concentrate | Dry | 970.00 | -1.00% | 878.00 | 1,294.00 | 136.88 | -1.04% | 122.53 | 182.16 |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 895.58 | -0.14% | 802.20 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |
@@ -91,6 +96,10 @@ Last week, global iron ore shipments tracked by SMM totaled 35.9 million tons, r
 ## Multi-Period Monthly, Quarterly & YTD Averages
 | Index | Fe Grade | Market Profile | Unit | M-4 | M-3 | M-2 | M-1 | MTD | QTD | YTD |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **IOSI62** | 62% Fe Fines | Seaborne | USD/dry tonne | 100.49 | 104.59 | 107.88 | 107.27 | **103.12** | 102.34 | 109.69 |
+| **IOSI65** | 65% Fe Fines | Seaborne | USD/dry tonne | 106.81 | 118.01 | 122.98 | 122.90 | **114.19** | 113.38 | 124.08 |
+| **IOPLI62** | 62.5% Fe Lump | Port Stock | RMB/wet tonne | 907.00 | 921.00 | 926.00 | 909.00 | **902.00** | 897.00 | 964.00 |
+| **IOPLI62_CFR_EQ** | 62.5% Fe Lump | CFR Qingdao Eq | USD/dry tonne | 113.27 | 115.37 | 116.51 | 114.52 | **112.61** | 112.06 | 120.94 |
 | **IOPI62** | 62% Fe Fines | Port Stock | RMB/wet tonne | 772.00 | 795.00 | 801.00 | 792.00 | **784.00** | 779.00 | 832.00 |
 | **IOPI62_CFR_EQ** | 62% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 100.15 | 103.51 | 104.69 | 103.56 | **101.65** | 101.00 | 108.41 |
 | **IOPI58** | 58% Fe Fines | Port Stock | RMB/wet tonne | 664.00 | 683.00 | 716.00 | 726.00 | **688.00** | 683.00 | 729.00 |

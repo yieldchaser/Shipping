@@ -62,6 +62,8 @@ _No desk commentary reported for this session._
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **IOSI62_61** | Seaborne CFR Qingdao | 62% Fe Fines | USD/dry tonne | 114.85 | -13.95 | -10.83% | 139.35 | 143.15 | 93.75 | 221.85 |
 | **IOSI65** | Seaborne CFR Qingdao | 65% Fe Fines | USD/dry tonne | 136.45 | -16.40 | -10.73% | 163.32 | 168.93 | 108.20 | 262.95 |
+| **IOPLI62** | Port Lump FOT Qingdao | 62.5% Fe Lump | RMB/wet tonne | 1,120.00 | -155.00 | -12.20% | 1,242.00 | 1,232.00 | 730.00 | 1,868.00 |
+| **IOPLI62_CFR_EQ** | CFR Qingdao Equivalent | 62.5% Fe Lump | USD/dry tonne | 149.71 | -22.38 | -13.01% | 167.11 | 171.61 | 101.00 | 262.00 |
 | **IOPI62_61** | Port Stock FOT Qingdao | 62% Fe Fines | RMB/wet tonne | 848.00 | -77.00 | -8.30% | 989.00 | 977.00 | 587.00 | 1,595.00 |
 | **IOPI62_61_CFR_EQ** | CFR Qingdao Equivalent | 62% Fe Fines | USD/dry tonne | 117.52 | -11.41 | -8.80% | 137.99 | 141.24 | 84.25 | 232.75 |
 | **IOPI58** | Port Stock FOT Qingdao | 58% Fe Fines | RMB/wet tonne | 761.00 | -63.00 | -7.60% | 868.00 | 789.00 | 454.00 | 1,266.00 |
@@ -72,12 +74,17 @@ _No desk commentary reported for this session._
 ## Ocean Freight Rates (Capesize)
 | Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **C5, W. Australia - Qingdao** | Capesize Spot | - | - | - | - | - |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 13.49 USD/t | +0.69 | +5.39% | 3.57 | 16.77 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 33.15 USD/t | +0.73 | +2.26% | 6.70 | 36.40 |
 
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Week Ending Jun 17th, 2022 Province Hebei Hebei Liaoning Shandong Week Ending Jun 17th, 2022 China Mines Concentrate Composite Index RMB/WT | **Week Ending Jun 17th, 2022 Region Hanxing Qian'an Anshan Zibo Week Ending Jun 17th, 2022 China Mines Concentrate Composite Index RMB/WT** | RMB/tonne (excluding tax) ³ Product 66% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate Week Ending Jun 17th, 2022 China Mines Concentrate Composite Index RMB/WT | RMB/tonne (excluding tax) ³ Basis Dry Dry Wet Dry This week 1044.22 | - | - | - | - | - | - | - | - |
+| Hebei | **Hanxing** | 66% Fe Concentrate | Dry | 1,194.00 | +3.30% | 779.00 | 1,645.00 | 177.57 | +2.54% | 110.31 | 255.69 |
+| Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 1,025.00 | +2.50% | 780.00 | 1,630.00 | 152.44 | +1.76% | 110.51 | 251.57 |
+| Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 915.00 | +0.00% | 620.00 | 1,310.00 | 136.08 | -0.72% | 87.40 | 202.32 |
+| Shandong | **Zibo** | 65% Fe Concentrate | Dry | 1,233.00 | +3.60% | 800.00 | 1,752.00 | 183.37 | +2.87% | 122.55 | 272.32 |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 1,044.22 | +1.33% | 706.36 | 1,511.22 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |
@@ -89,14 +96,16 @@ _No desk commentary reported for this session._
 ## Multi-Period Monthly, Quarterly & YTD Averages
 | Index | Fe Grade | Market Profile | Unit | M-4 | M-3 | M-2 | M-1 | MTD | QTD | YTD |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **IOSI62** | 62% Fe Fines | Seaborne | USD/dry tonne | 142.80 | 141.23 | 155.13 | 141.17 | **139.35** | 145.96 | 143.15 |
+| **IOSI65** | 65% Fe Fines | Seaborne | USD/dry tonne | 172.28 | 171.21 | 181.23 | 166.30 | **163.32** | 171.15 | 168.93 |
+| **IOPLI62** | 62.5% Fe Lump | Port Stock | RMB/wet tonne | 1,145.00 | 1,355.00 | 1,328.00 | 1,232.00 | **1,242.00** | 1,278.00 | 1,232.00 |
+| **IOPLI62_CFR_EQ** | 62.5% Fe Lump | CFR Qingdao Eq | USD/dry tonne | 161.53 | 191.90 | 187.99 | 164.53 | **167.11** | 175.64 | 171.61 |
 | **IOPI62** | 62% Fe Fines | Port Stock | RMB/wet tonne | 946.00 | 1,020.00 | 1,030.00 | 981.00 | **989.00** | 1,001.00 | 977.00 |
 | **IOPI62_CFR_EQ** | 62% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 139.07 | 150.42 | 150.00 | 136.86 | **137.99** | 142.04 | 141.24 |
 | **IOPI58** | 58% Fe Fines | Port Stock | RMB/wet tonne | 696.00 | 812.00 | 874.00 | 841.00 | **868.00** | 860.00 | 789.00 |
 | **IOPI58_CFR_EQ** | 58% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 102.36 | 120.15 | 128.09 | 118.11 | **121.94** | 122.80 | 114.32 |
 | **IOPI65** | 65% Fe Fines | Port Stock | RMB/wet tonne | 1,139.00 | 1,219.00 | 1,206.00 | 1,152.00 | **1,145.00** | 1,170.00 | 1,160.00 |
 | **IOPI65_CFR_EQ** | 65% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 168.36 | 180.56 | 176.31 | 161.44 | **160.34** | 166.70 | 168.55 |
-| **IOSI62** | 62% Fe Fines | Seaborne | USD/dry tonne | 142.80 | 141.23 | 155.13 | 141.17 | **139.35** | 145.96 | 143.15 |
-| **IOSI65** | 65% Fe Fines | Seaborne | USD/dry tonne | 172.28 | 171.21 | 181.23 | 166.30 | **163.32** | 171.15 | 168.93 |
 
 ---
 
@@ -300,6 +309,38 @@ _No desk commentary reported for this session._
 | **Moisture Content** | 8.00% | 8.00% | 9.00% | 4.00% |
 | **Pricing Basis** | CFR Qingdao | FOT / CFR Qingdao | FOT / CFR Qingdao | FOT Qingdao |
 | **Payment Terms** | L/C at sight | L/C at sight | L/C at sight | L/C at sight or CAD |
+
+## Average Iron Ore Specifications Applied for Brand Price Assessments
+| Brand Name | Market Segment | Fe Content % | Alumina (Al2O3) % | Silica (SiO2) % | Phosphorus (P) % | Moisture Content % |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Roy Hill** | Port Stock | 60.88% | 2.35% | 4.45% | 0.055% | 9.26% |
+| **Roy Hill** | Seaborne | 60.70% | 2.30% | 4.90% | 0.055% | 8.00% |
+| **SIMEC Fines** | Port Stock | 60.00% | 2.30% | 6.30% | 0.06% | 6.00% |
+| **SIMEC Fines** | Seaborne | 60.00% | 2.30% | 6.30% | 0.06% | 6.00% |
+| **PB Fines** | Port Stock | 61.64% | 2.31% | 3.87% | 0.099% | 9.45% |
+| **PB Fines** | Seaborne | 62.00% | 2.60% | 4.30% | 0.09% | 9.50% |
+| **Newman Fines** | Port Stock | 62.49% | 2.31% | 3.98% | 0.09% | 7.72% |
+| **Newman Fines** | Seaborne | 62.30% | 2.40% | 4.30% | 0.095% | 8.00% |
+| **MAC Fines** | Port Stock | 60.43% | 2.38% | 4.64% | 0.078% | 7.57% |
+| **MAC Fines** | Seaborne | 60.80% | 2.35% | 4.40% | 0.075% | 7.80% |
+| **Jimblebar Blended Fines** | Port Stock | 60.87% | 2.95% | 4.53% | 0.111% | 7.32% |
+| **Jimblebar Blended Fines** | Seaborne | 60.50% | 3.10% | 4.80% | 0.12% | 7.80% |
+| **Carajas Fines** | Port Stock | 64.90% | 1.39% | 1.82% | 0.08% | 7.78% |
+| **Carajas Fines** | Seaborne | 65.10% | 1.50% | 1.70% | 0.08% | 8.50% |
+| **Brazilian SSF** | Port Stock | 62.00% | 1.00% | 6.50% | 0.04% | 6.00% |
+| **Brazilian SSF** | Seaborne | 62.00% | 1.00% | 6.50% | 0.04% | 6.00% |
+| **Brazilian Blend Fines** | Port Stock | 62.56% | 1.58% | 4.79% | 0.091% | 8.72% |
+| **Brazilian Blend Fines** | Seaborne | 63.00% | 1.50% | 5.00% | 0.07% | 7.00% |
+| **RTX Fines** | Port Stock | 61.00% | 3.10% | 4.50% | 0.135% | 7.50% |
+| **RTX Fines** | Seaborne | 61.00% | 3.10% | 4.50% | 0.135% | 7.50% |
+| **West Pilbara Fines** | Port Stock | 60.10% | 2.30% | 4.70% | 0.075% | 8.50% |
+| **West Pilbara Fines** | Seaborne | 60.10% | 2.30% | 4.70% | 0.075% | 8.50% |
+| **SSF** | Port Stock | 56.49% | 3.20% | 6.19% | 0.065% | 9.18% |
+| **FMG Blended Fines** | Port Stock | 58.20% | 2.43% | 5.54% | 0.057% | 8.29% |
+| **Robe River** | Port Stock | 56.44% | 3.16% | 5.73% | 0.042% | 8.44% |
+| **Western Fines** | Port Stock | 57.88% | 2.87% | 7.50% | 0.062% | 7.45% |
+| **Atlas Fines** | Port Stock | 58.00% | 1.85% | 5.50% | 0.09% | 9.00% |
+| **Yandi** | Port Stock | 56.87% | 1.58% | 6.41% | 0.042% | 9.53% |
 
 ## Bloomberg Terminal Tickers
 | Index Identifier | Market Segment | Delivery Terms | Bloomberg Ticker |

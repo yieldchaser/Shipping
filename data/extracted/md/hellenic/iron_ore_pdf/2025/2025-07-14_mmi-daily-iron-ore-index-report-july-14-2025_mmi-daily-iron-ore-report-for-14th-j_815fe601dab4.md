@@ -62,6 +62,8 @@ Today, DCE iron ore futures continued to rally, with the most-traded contract I2
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **IOSI62_61** | Seaborne CFR Qingdao | 62% Fe Fines | USD/dry tonne | 99.00 | -0.20 | -0.20% | 101.70 | 110.49 | 89.79 | 142.65 |
 | **IOSI65** | Seaborne CFR Qingdao | 65% Fe Fines | USD/dry tonne | 107.46 | +2.06 | +1.95% | 111.42 | 124.99 | 98.23 | 171.65 |
+| **IOPLI62** | Port Lump FOT Qingdao | 62.5% Fe Lump | RMB/wet tonne | 900.00 | +27.00 | +3.10% | 896.00 | 975.00 | 820.00 | 1,210.00 |
+| **IOPLI62_CFR_EQ** | CFR Qingdao Equivalent | 62.5% Fe Lump | USD/dry tonne | 112.40 | +3.53 | +3.24% | 111.54 | 122.24 | 102.77 | 153.57 |
 | **IOPI62_61** | Port Stock FOT Qingdao | 62% Fe Fines | RMB/wet tonne | 761.00 | +1.00 | +0.10% | 778.00 | 840.00 | 683.00 | 1,063.00 |
 | **IOPI62_61_CFR_EQ** | CFR Qingdao Equivalent | 62% Fe Fines | USD/dry tonne | 98.62 | +0.11 | +0.10% | 100.51 | 109.36 | 89.33 | 140.24 |
 | **IOPI58** | Port Stock FOT Qingdao | 58% Fe Fines | RMB/wet tonne | 661.00 | +4.00 | +0.60% | 680.00 | 735.00 | 610.00 | 963.00 |
@@ -78,7 +80,11 @@ Today, DCE iron ore futures continued to rally, with the most-traded contract I2
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Week Ending Jul 11th, 2025 RMB/tonne (excluding tax) ³ Province Hebei Hebei Liaoning Shandong Week Ending Jul 11th, 2025 China Mines Concentrate Composite Index RMB/WT | **Week Ending Jul 11th, 2025 RMB/tonne (excluding tax) ³ Region Hanxing Qian'an Anshan Zibo Week Ending Jul 11th, 2025 China Mines Concentrate Composite Index RMB/WT** | Week Ending Jul 11th, 2025 RMB/tonne (excluding tax) ³ Product 66% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate Week Ending Jul 11th, 2025 China Mines Concentrate Composite Index RMB/WT | Week Ending Jul 11th, 2025 RMB/tonne (excluding tax) ³ Basis Dry Dry Wet Dry Week Ending Jul 11th, 2025 China Mines Concentrate Composite Index RMB/WT | - | - | - | - | - | - | - | - |
+| Hebei | **Hanxing** | 66% Fe Concentrate | Dry | 868.00 | +1.00% | 859.00 | 1,226.00 | 121.38 | +1.09% | 119.88 | 172.59 |
+| Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 890.00 | +0.60% | 880.00 | 1,300.00 | 124.45 | +0.61% | 122.81 | 183.23 |
+| Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 690.00 | -4.80% | 690.00 | 970.00 | 96.49 | -4.79% | 96.49 | 136.72 |
+| Shandong | **Zibo** | 65% Fe Concentrate | Dry | 888.00 | +1.10% | 878.00 | 1,294.00 | 124.17 | +1.18% | 122.53 | 182.16 |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 802.20 | -0.37% | 802.20 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |
@@ -90,14 +96,16 @@ Today, DCE iron ore futures continued to rally, with the most-traded contract I2
 ## Multi-Period Monthly, Quarterly & YTD Averages
 | Index | Fe Grade | Market Profile | Unit | M-4 | M-3 | M-2 | M-1 | MTD | QTD | YTD |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **IOSI62** | 62% Fe Fines | Seaborne | USD/dry tonne | 102.47 | 101.62 | 100.10 | 96.53 | **101.70** | 100.88 | 110.49 |
+| **IOSI65** | 65% Fe Fines | Seaborne | USD/dry tonne | 112.28 | 109.70 | 105.43 | 100.81 | **111.42** | 110.80 | 124.99 |
+| **IOPLI62** | 62.5% Fe Lump | Port Stock | RMB/wet tonne | 905.00 | 901.00 | 898.00 | 865.00 | **896.00** | 890.00 | 975.00 |
+| **IOPLI62_CFR_EQ** | 62.5% Fe Lump | CFR Qingdao Eq | USD/dry tonne | 112.70 | 111.81 | 111.39 | 107.50 | **111.54** | 110.85 | 122.24 |
 | **IOPI62** | 62% Fe Fines | Port Stock | RMB/wet tonne | 787.00 | 771.00 | 770.00 | 738.00 | **778.00** | 772.00 | 840.00 |
 | **IOPI62_CFR_EQ** | 62% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 101.83 | 99.27 | 99.19 | 95.15 | **100.51** | 99.82 | 109.36 |
 | **IOPI58** | 58% Fe Fines | Port Stock | RMB/wet tonne | 677.00 | 664.00 | 668.00 | 650.00 | **680.00** | 674.00 | 735.00 |
 | **IOPI58_CFR_EQ** | 58% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 87.92 | 85.93 | 86.44 | 84.27 | **88.33** | 87.66 | 96.25 |
 | **IOPI65** | 65% Fe Fines | Port Stock | RMB/wet tonne | 899.00 | 883.00 | 882.00 | 850.00 | **890.00** | 883.00 | 951.00 |
 | **IOPI65_CFR_EQ** | 65% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 116.79 | 114.18 | 114.14 | 110.12 | **115.49** | 114.83 | 124.40 |
-| **IOSI62** | 62% Fe Fines | Seaborne | USD/dry tonne | 102.47 | 101.62 | 100.10 | 96.53 | **101.70** | 100.88 | 110.49 |
-| **IOSI65** | 65% Fe Fines | Seaborne | USD/dry tonne | 112.28 | 109.70 | 105.43 | 100.81 | **111.42** | 110.80 | 124.99 |
 
 ---
 

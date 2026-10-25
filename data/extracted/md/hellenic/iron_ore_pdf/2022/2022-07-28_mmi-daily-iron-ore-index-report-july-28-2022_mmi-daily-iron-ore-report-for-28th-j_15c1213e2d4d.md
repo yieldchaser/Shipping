@@ -71,6 +71,12 @@ _No desk commentary reported for this session._
 | **IOPLI62** | Port Lump FOT Qingdao | 62.5% Fe Lump | RMB/wet tonne | 801.00 | -69.00 | -7.90% | 910.00 | 1,177.00 | 730.00 | 1,810.00 |
 | **IOPLI62_CFR_EQ** | CFR Qingdao Equivalent | 62.5% Fe Lump | USD/dry tonne | 105.56 | -9.87 | -8.55% | 121.02 | 162.86 | 101.31 | 253.74 |
 
+## Ocean Freight Rates (Capesize)
+| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 10.35 USD/t | +0.06 | +0.63% | 3.57 | 16.77 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 28.26 USD/t | -0.67 | -2.32% | 6.70 | 36.40 |
+
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

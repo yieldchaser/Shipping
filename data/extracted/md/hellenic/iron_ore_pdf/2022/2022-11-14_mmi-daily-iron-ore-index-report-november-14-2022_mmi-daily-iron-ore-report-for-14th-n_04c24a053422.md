@@ -71,6 +71,12 @@ DCE iron ore futures rose by 1.94 % today, the main contract closed 710.5. The t
 | **IOPLI62** | Port Lump FOT Qingdao | 62.5% Fe Lump | RMB/wet tonne | 782.00 | +12.00 | +1.60% | 868.00 | 1,067.00 | 730.00 | 1,405.00 |
 | **IOPLI62_CFR_EQ** | CFR Qingdao Equivalent | 62.5% Fe Lump | USD/dry tonne | 96.23 | +1.51 | +1.60% | 111.11 | 144.54 | 95.00 | 199.00 |
 
+## Ocean Freight Rates (Capesize)
+| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 8.83 USD/t | -0.40 | -4.34% | 3.57 | 16.77 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 19.76 USD/t | -0.43 | -2.14% | 6.70 | 36.40 |
+
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -78,7 +84,7 @@ DCE iron ore futures rose by 1.94 % today, the main contract closed 710.5. The t
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 870.00 | +2.40% | 780.00 | 1,630.00 | 120.51 | +2.38% | 110.51 | 251.57 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 705.00 | +0.00% | 620.00 | 1,310.00 | 97.66 | +0.03% | 87.40 | 202.32 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 846.00 | -1.40% | 800.00 | 1,752.00 | 117.19 | -1.37% | 117.19 | 272.32 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | - | 789.89 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 789.89 | -2.63% | 706.36 | 1,511.22 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

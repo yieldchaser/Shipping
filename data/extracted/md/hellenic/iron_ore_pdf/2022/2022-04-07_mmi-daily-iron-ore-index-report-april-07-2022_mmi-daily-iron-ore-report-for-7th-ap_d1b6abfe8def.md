@@ -71,6 +71,12 @@ DCE iron ore futures falling trends by 3.02%, the main contract closed 900, the 
 | **IOPI65** | Port Stock FOT Qingdao | 65% Fe Fines | RMB/wet tonne | 1,217.00 | -45.00 | -3.60% | 1,239.00 | 1,155.00 | 843.00 | 1,894.00 |
 | **IOPI65_CFR_EQ** | CFR Qingdao Equivalent | 65% Fe Fines | USD/dry tonne | 179.662 | -6.39 | -3.40% | 183.04 | 170.81 | 122.83 | 278.61 |
 
+## Ocean Freight Rates (Capesize)
+| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 8.68 USD/t | -0.25 | -2.80% | 3.57 | 16.77 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 25.40 USD/t | -0.26 | -1.01% | 6.70 | 36.40 |
+
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -78,7 +84,7 @@ DCE iron ore futures falling trends by 3.02%, the main contract closed 900, the 
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 1,165.00 | +6.90% | 780.00 | 1,630.00 | 183.22 | +7.00% | 110.51 | 1,165.00 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 1,000.00 | +0.00% | 620.00 | 1,310.00 | 157.27 | +0.11% | 87.40 | 1,000.00 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 1,185.00 | +1.70% | 800.00 | 1,752.00 | 186.36 | +1.83% | 122.55 | 1,260.00 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | - | 1,074.69 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 1,074.69 | +3.93% | 706.36 | 1,511.22 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

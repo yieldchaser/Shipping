@@ -74,6 +74,7 @@ DCE iron ore futures fall today，the main contract I2401 closed 955.5, an decre
 ## Ocean Freight Rates (Capesize)
 | Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 11.20 USD/t | -0.58 | -4.97% | 3.57 | 16.77 |
 | **C3, Tubarao - Qingdao** | Capesize Spot | 26.96 USD/t | -0.02 | -0.06% | 6.70 | 36.40 |
 
 ## Domestic Iron Ore Concentrate Spot Price Assessments

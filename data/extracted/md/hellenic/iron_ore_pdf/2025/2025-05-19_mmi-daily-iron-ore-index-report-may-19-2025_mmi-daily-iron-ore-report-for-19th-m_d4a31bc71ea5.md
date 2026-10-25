@@ -86,7 +86,7 @@ Last week, SMM shipping data showed that global iron ore shipments increased sli
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 950.00 | +0.50% | 935.00 | 1,300.00 | 131.98 | +0.62% | 129.77 | 183.23 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 725.00 | +0.00% | 715.00 | 970.00 | 100.72 | +0.09% | 100.63 | 136.72 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 954.00 | +0.40% | 905.00 | 1,294.00 | 132.53 | +0.51% | 128.66 | 182.16 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | - | 853.97 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 853.97 | +0.53% | 849.47 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

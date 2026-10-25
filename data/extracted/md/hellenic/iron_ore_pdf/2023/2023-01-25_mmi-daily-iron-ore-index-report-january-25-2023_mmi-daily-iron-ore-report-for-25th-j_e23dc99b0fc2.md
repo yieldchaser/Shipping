@@ -71,6 +71,12 @@ _No desk commentary reported for this session._
 | **IOPI65** | Port Stock FOT Qingdao | 65% Fe Fines | RMB/wet tonne | HOLIDAY | - | - | 901.00 | 1,014.00 | 811.00 | 1,265.00 |
 | **IOPI65_CFR_EQ** | CFR Qingdao Equivalent | 65% Fe Fines | USD/dry tonne | HOLIDAY | - | - | 120.48 | 141.84 | 108.78 | 187.25 |
 
+## Ocean Freight Rates (Capesize)
+| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 6.64 USD/t | -0.01 | -0.15% | 3.57 | 16.77 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 16.75 USD/t | -0.09 | -0.52% | 6.70 | 36.40 |
+
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -108,7 +114,19 @@ _No desk commentary reported for this session._
 # Iron Ore Brand Spot Price Assessments & Port Differentials
 
 ## 62% Fe Benchmark Brand Assessments
-_No 62% Fe brand assessments reported for this session._
+| Port Stock Brand | Price (RMB/wmt) | Change | Diff to IOPI62 | Seaborne Brand | Price (USD/dmt) | Change | Diff to IOSI62 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **-** | - | - | - | **Roy Hill** | 118.00 | +0.40 | -4.50 |
+| **-** | - | - | - | **SIMEC Fines** | 114.50 | +0.40 | -8.00 |
+| **-** | - | - | - | **PB Fines** | 118.75 | +0.40 | -3.75 |
+| **-** | - | - | - | **Newman Fines** | 121.60 | +0.35 | -0.90 |
+| **-** | - | - | - | **MAC Fines** | 118.75 | +0.40 | -3.75 |
+| **-** | - | - | - | **Jimblebar Blended Fines** | 111.10 | +0.35 | -11.40 |
+| **-** | - | - | - | **Carajas Fines** | 152.05 | +0.40 | +29.55 |
+| **-** | - | - | - | **Brazilian SSF** | 126.25 | +0.40 | +3.75 |
+| **-** | - | - | - | **Brazilian Blend Fines** | 127.85 | +0.35 | +5.35 |
+| **-** | - | - | - | **RTX Fines** | 112.35 | +0.35 | -10.15 |
+| **-** | - | - | - | **West Pilbara Fines** | 116.75 | +0.40 | -5.75 |
 
 ## 58% Fe Benchmark Brand Assessments (Port Stock FOT Qingdao)
 _No 58% Fe brand assessments reported for this session._

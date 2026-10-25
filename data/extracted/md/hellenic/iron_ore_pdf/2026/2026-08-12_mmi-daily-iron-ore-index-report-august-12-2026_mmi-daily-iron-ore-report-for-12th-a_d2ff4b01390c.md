@@ -84,7 +84,7 @@ Today, the iron ore futures moved steadily today. The most-traded DCE i2609 cont
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 955.00 | -2.60% | 880.00 | 1,300.00 | 140.65 | -2.54% | 122.81 | 183.23 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 730.00 | +0.00% | 690.00 | 970.00 | 107.51 | +0.01% | 96.49 | 136.72 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 906.00 | -1.00% | 878.00 | 1,294.00 | 133.43 | -0.98% | 122.53 | 182.16 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | - | 849.72 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 849.72 | -0.76% | 802.20 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

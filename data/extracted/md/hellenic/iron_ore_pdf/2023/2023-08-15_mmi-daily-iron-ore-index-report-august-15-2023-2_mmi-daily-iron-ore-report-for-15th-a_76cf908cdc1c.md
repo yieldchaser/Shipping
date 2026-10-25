@@ -71,6 +71,12 @@ DCE iron ore futures rose by 1.58 % today, the main contract closed at 740.The t
 | **IOPLI62** | Port Lump FOT Qingdao | 62.5% Fe Lump | RMB/wet tonne | 930.00 | +0.00 | +0.00% | 933.00 | 1,018.00 | 770.00 | 1,026.00 |
 | **IOPLI62_CFR_EQ** | CFR Qingdao Equivalent | 62.5% Fe Lump | USD/dry tonne | 116.23 | -0.31 | -0.26% | 119.99 | 135.19 | 95.00 | 137.00 |
 
+## Ocean Freight Rates (Capesize)
+| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 7.72 USD/t | -0.02 | -0.19% | 3.57 | 16.77 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 20.29 USD/t | -0.01 | -0.05% | 6.70 | 36.40 |
+
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -247,7 +253,15 @@ DCE iron ore futures rose by 1.58 % today, the main contract closed at 740.The t
 # Steel Spot Market & Mill Profitability
 
 ## Chinese Domestic Steel Spot Market Prices
-_No steel spot market prices reported for this session._
+| Steel Product Profile | Unit | Price | Change | Change % |
+| :--- | :--- | :--- | :--- | :--- |
+| **ReBar HRB400 phi18mm** | RMB/tonne | 3,700.00 | -20.00 | -0.54% |
+| **Wirerod Q300 phi6.5mm** | RMB/tonne | 3,930.00 | -20.00 | -0.51% |
+| **HRC Q235/SS400 5.5mm1500C** | RMB/tonne | 3,930.00 | -110.00 | -2.72% |
+| **CRC SPCC/ST12 1.0mm12502500** | RMB/tonne | 4,680.00 | +0.00 | +0.00% |
+| **Medium & Heavy Plate Q235B 20mm** | RMB/tonne | 4,000.00 | -30.00 | -0.74% |
+| **GI ST02Z 1.0mm1000C** | RMB/tonne | 5,010.00 | +0.00 | +0.00% |
+| **Colour Coated Plate** | RMB/tonne | 7,000.00 | +0.00 | +0.00% |
 
 ## Chinese Steel Mill Cost & Profitability Model
 | Indicator / Category | Price / Margin | Unit | Change (WoW) | Specification Notes |

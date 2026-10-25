@@ -86,7 +86,7 @@ According to SMM port inventory data, the nationwide iron ore inventory at 35 po
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 990.00 | +4.20% | 880.00 | 1,300.00 | 138.70 | +4.22% | 122.81 | 183.23 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 730.00 | +1.40% | 690.00 | 970.00 | 102.27 | +1.39% | 96.49 | 136.72 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 938.00 | +0.80% | 878.00 | 1,294.00 | 131.42 | +0.76% | 122.53 | 182.16 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | 865.14 | 2.23 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 865.14 | +2.23% | 802.20 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

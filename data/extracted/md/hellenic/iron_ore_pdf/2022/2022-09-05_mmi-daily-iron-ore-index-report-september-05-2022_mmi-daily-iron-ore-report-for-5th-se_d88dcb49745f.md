@@ -100,11 +100,11 @@ _No desk commentary reported for this session._
 | **IOSI65** | 65% Fe Fines | Seaborne | USD/dry tonne | 166.30 | 154.17 | 124.60 | 112.53 | **121.01** | 122.61 | 154.97 |
 | **IOPLI62** | 62.5% Fe Lump | Port Stock | RMB/wet tonne | 1,232.00 | 1,189.00 | 906.00 | 900.00 | **895.00** | 901.00 | 1,126.00 |
 | **IOPLI62_CFR_EQ** | 62.5% Fe Lump | CFR Qingdao Eq | USD/dry tonne | 164.53 | 159.78 | 120.36 | 118.50 | **117.52** | 118.94 | 154.62 |
-| **IOPI58** | 58% Fe Fines | Port Stock | RMB/wet tonne | -67.00 | -9.03 | - | - | **-** | 8.50 | 8.18 |
-| **IOPI65** | 65% Fe Fines | Port Stock | RMB/wet tonne | 135.00 | 18.19 | - | - | **-** | - | - |
 | **IOPI62** | 62% Fe Fines | Port Stock | RMB/wet tonne | 981.00 | 934.00 | 770.00 | 781.00 | **777.00** | 774.00 | 911.00 |
 | **IOPI62_CFR_EQ** | 62% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 136.86 | 130.13 | 106.01 | 106.64 | **105.82** | 105.90 | 129.79 |
+| **IOPI58** | 58% Fe Fines | Port Stock | RMB/wet tonne | 841.00 | 823.00 | 682.00 | 685.00 | **684.00** | 683.00 | 756.00 |
 | **IOPI58_CFR_EQ** | 58% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 118.11 | 115.45 | 94.43 | 94.05 | **93.67** | 94.01 | 107.92 |
+| **IOPI65** | 65% Fe Fines | Port Stock | RMB/wet tonne | 1,152.00 | 1,086.00 | 915.00 | 878.00 | **878.00** | 894.00 | 1,075.00 |
 | **IOPI65_CFR_EQ** | 65% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 161.44 | 151.89 | 126.73 | 120.31 | **120.11** | 123.07 | 153.85 |
 
 ---

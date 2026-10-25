@@ -76,8 +76,8 @@ According to SMM statistics, the impact from blast furnace maintenance on pig ir
 ## Ocean Freight Rates (Capesize)
 | Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **C5, W. Australia - Qingdao** | Capesize Spot | - | - | +5.92% | 14.89 | - |
-| **C3, Tubarao - Qingdao** | Capesize Spot | - | - | +16.08% | 35.02 | - |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 7.03 USD/t | +0.00 | +0.00% | 5.92 | 14.89 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 18.55 USD/t | +0.00 | +0.00% | 16.08 | 35.02 |
 
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
@@ -86,7 +86,7 @@ According to SMM statistics, the impact from blast furnace maintenance on pig ir
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 945.00 | +1.10% | 935.00 | 1,300.00 | 131.07 | +1.01% | 129.77 | 183.23 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 750.00 | +0.00% | 715.00 | 970.00 | 104.02 | -0.06% | 100.77 | 136.72 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 942.00 | -4.60% | 905.00 | 1,294.00 | 130.65 | -4.62% | 128.66 | 182.16 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | - | 857.57 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 857.57 | -1.08% | 854.16 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

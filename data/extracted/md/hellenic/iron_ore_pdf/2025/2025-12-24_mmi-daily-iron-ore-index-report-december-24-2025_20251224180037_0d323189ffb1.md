@@ -86,7 +86,7 @@ According to an SMM survey, on December 24, the average daily hot metal producti
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 980.00 | -1.00% | 880.00 | 1,300.00 | 138.82 | -0.83% | 122.81 | 183.23 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 752.00 | -0.50% | 690.00 | 970.00 | 106.53 | -0.35% | 96.49 | 136.72 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 988.00 | -1.70% | 878.00 | 1,294.00 | 139.96 | -1.51% | 122.53 | 182.16 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | - | 889.04 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 889.04 | -0.48% | 802.20 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

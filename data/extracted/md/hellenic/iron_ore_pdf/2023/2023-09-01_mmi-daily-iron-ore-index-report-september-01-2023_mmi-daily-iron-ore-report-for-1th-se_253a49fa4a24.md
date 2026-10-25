@@ -71,6 +71,12 @@ MMi iron ore indices are compiled from data provided by companies that are part 
 | **IOPLI62** | Port Lump FOT Qingdao | 62.5% Fe Lump | RMB/wet tonne | 998.00 | +0.00 | +0.00% | 936.00 | 1,017.00 | 770.00 | 1,026.00 |
 | **IOPLI62_CFR_EQ** | CFR Qingdao Equivalent | 62.5% Fe Lump | USD/dry tonne | 124.50 | +0.21 | +0.17% | 120.14 | 134.71 | 94.72 | 137.26 |
 
+## Ocean Freight Rates (Capesize)
+| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 7.67 USD/t | +0.17 | +2.20% | 3.57 | 16.77 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 18.78 USD/t | -0.21 | -1.11% | 6.70 | 36.40 |
+
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

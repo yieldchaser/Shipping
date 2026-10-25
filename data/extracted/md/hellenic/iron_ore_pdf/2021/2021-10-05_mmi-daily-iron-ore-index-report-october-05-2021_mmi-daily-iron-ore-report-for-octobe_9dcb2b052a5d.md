@@ -114,7 +114,19 @@ _No desk commentary reported for this session._
 # Iron Ore Brand Spot Price Assessments & Port Differentials
 
 ## 62% Fe Benchmark Brand Assessments
-_No 62% Fe brand assessments reported for this session._
+| Port Stock Brand | Price (RMB/wmt) | Change | Diff to IOPI62 | Seaborne Brand | Price (USD/dmt) | Change | Diff to IOSI62 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **-** | - | - | - | **Roy Hill** | 118.45 | +0.00 | -3.75 |
+| **-** | - | - | - | **SIMEC Fines** | 114.95 | +0.00 | -7.25 |
+| **-** | - | - | - | **PB Fines** | 121.70 | +0.00 | -0.50 |
+| **-** | - | - | - | **Newman Fines** | 122.85 | +0.00 | +0.65 |
+| **-** | - | - | - | **MAC Fines** | 118.85 | +0.00 | -3.35 |
+| **-** | - | - | - | **Jimblebar Blended Fines** | 112.20 | +0.00 | -10.00 |
+| **-** | - | - | - | **Carajas Fines** | 152.50 | +0.00 | +30.30 |
+| **-** | - | - | - | **Brazilian SSF** | 126.70 | +0.00 | +4.50 |
+| **-** | - | - | - | **Brazilian Blend Fines** | 128.35 | +0.00 | +6.15 |
+| **-** | - | - | - | **RTX Fines** | 112.83 | +0.00 | -9.37 |
+| **-** | - | - | - | **West Pilbara Fines** | 117.20 | +0.00 | -5.00 |
 
 ## 58% Fe Benchmark Brand Assessments (Port Stock FOT Qingdao)
 _No 58% Fe brand assessments reported for this session._

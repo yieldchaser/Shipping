@@ -86,7 +86,7 @@ The average daily pig iron output this week increased slightly to 2.3928 million
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 1,030.00 | +0.50% | 880.00 | 1,300.00 | 145.35 | +0.60% | 122.81 | 183.23 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 755.00 | +0.00% | 690.00 | 970.00 | 106.54 | +0.11% | 96.49 | 136.72 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 975.00 | -1.30% | 878.00 | 1,294.00 | 137.59 | -1.21% | 122.53 | 182.16 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | - | 899.05 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 899.05 | +0.11% | 802.20 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

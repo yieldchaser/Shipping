@@ -84,7 +84,7 @@ DCE iron ore futures declined by 0.59% today, the main contract closed at 846.5.
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 1,095.00 | +0.00% | 780.00 | 1,630.00 | 152.46 | +0.17% | 110.51 | 251.57 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 800.00 | +1.30% | 620.00 | 1,310.00 | 111.38 | +1.44% | 87.40 | 202.32 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 1,096.00 | +9.60% | 800.00 | 1,752.00 | 152.59 | +9.79% | 117.19 | 272.32 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | 968.23 | 2.82 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 968.23 | +2.82% | 706.36 | 1,511.22 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

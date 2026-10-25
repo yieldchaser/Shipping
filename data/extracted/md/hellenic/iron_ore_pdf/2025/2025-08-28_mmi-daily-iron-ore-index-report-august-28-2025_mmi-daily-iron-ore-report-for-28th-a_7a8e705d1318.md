@@ -100,11 +100,11 @@ Today, the iron ore futures turned from weak to strong, with the most-traded con
 | **IOSI65** | 65% Fe Fines | Seaborne | USD/dry tonne | 109.70 | 105.43 | 100.81 | 106.81 | **111.98** | 111.35 | 124.25 |
 | **IOPLI62** | 62.5% Fe Lump | Port Stock | RMB/wet tonne | 901.00 | 898.00 | 865.00 | 907.00 | **900.00** | 894.00 | 971.00 |
 | **IOPLI62_CFR_EQ** | 62.5% Fe Lump | CFR Qingdao Eq | USD/dry tonne | 111.81 | 111.39 | 107.50 | 113.27 | **112.07** | 111.42 | 121.78 |
-| **IOPI58** | 58% Fe Fines | Port Stock | RMB/wet tonne | -107.00 | -13.44 | - | - | **-** | 15.60 | 14.72 |
-| **IOPI65** | 65% Fe Fines | Port Stock | RMB/wet tonne | 111.00 | 13.94 | - | - | **-** | - | - |
 | **IOPI62** | 62% Fe Fines | Port Stock | RMB/wet tonne | 771.00 | 770.00 | 738.00 | 772.00 | **781.00** | 774.00 | 836.00 |
 | **IOPI62_CFR_EQ** | 62% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 99.27 | 99.19 | 95.15 | 100.15 | **100.94** | 100.27 | 108.92 |
+| **IOPI58** | 58% Fe Fines | Port Stock | RMB/wet tonne | 664.00 | 668.00 | 650.00 | 664.00 | **680.00** | 675.00 | 731.00 |
 | **IOPI58_CFR_EQ** | 58% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 85.93 | 86.44 | 84.27 | 86.58 | **88.43** | 87.82 | 95.71 |
+| **IOPI65** | 65% Fe Fines | Port Stock | RMB/wet tonne | 883.00 | 882.00 | 850.00 | 884.00 | **892.00** | 886.00 | 948.00 |
 | **IOPI65_CFR_EQ** | 65% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 114.18 | 114.14 | 110.12 | 115.17 | **115.93** | 115.29 | 123.95 |
 
 ---
@@ -391,6 +391,13 @@ Today, the iron ore futures turned from weak to strong, with the most-traded con
 | **RTX Fines** | Port Stock | 61.00% | 3.10% | 4.50% | 0.135% | 7.50% |
 | **RTX Fines** | Seaborne | 61.00% | 3.10% | 4.50% | 0.135% | 7.50% |
 | **West Pilbara Fines** | Port Stock | 60.10% | 2.30% | 4.70% | 0.075% | 8.50% |
+| **West Pilbara Fines** | Seaborne | 60.10% | 2.30% | 4.70% | 0.075% | 8.50% |
+| **SSF** | Port Stock | 56.49% | 3.20% | 6.19% | 0.065% | 9.18% |
+| **FMG Blended Fines** | Port Stock | 58.20% | 2.43% | 5.54% | 0.057% | 8.29% |
+| **Robe River** | Port Stock | 56.44% | 3.16% | 5.73% | 0.042% | 8.44% |
+| **Western Fines** | Port Stock | 57.88% | 2.87% | 7.50% | 0.062% | 7.45% |
+| **Atlas Fines** | Port Stock | 58.00% | 1.85% | 5.50% | 0.09% | 9.00% |
+| **Yandi** | Port Stock | 56.87% | 1.58% | 6.41% | 0.042% | 9.53% |
 
 ## Bloomberg Terminal Tickers
 | Index Identifier | Market Segment | Delivery Terms | Bloomberg Ticker |

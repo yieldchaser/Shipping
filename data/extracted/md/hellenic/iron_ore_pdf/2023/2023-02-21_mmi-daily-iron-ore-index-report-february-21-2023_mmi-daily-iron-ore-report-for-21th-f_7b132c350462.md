@@ -71,6 +71,12 @@ DCE iron ore futures rose by 3.43 % today, the main contract closed 919.The trad
 | **IOPI65** | Port Stock FOT Qingdao | 65% Fe Fines | RMB/wet tonne | 1,036.00 | +17.00 | +1.70% | 981.00 | 992.00 | 970.00 | 1,003.00 |
 | **IOPI65_CFR_EQ** | CFR Qingdao Equivalent | 65% Fe Fines | USD/dry tonne | 141.43 | +2.56 | +1.80% | 136.05 | 136.43 | 133.84 | 138.73 |
 
+## Ocean Freight Rates (Capesize)
+| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 6.12 USD/t | +0.05 | +0.87% | 3.57 | 16.77 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 16.05 USD/t | -0.06 | -0.38% | 6.70 | 36.40 |
+
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -78,7 +84,7 @@ DCE iron ore futures rose by 3.43 % today, the main contract closed 919.The trad
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 1,055.00 | +1.00% | 780.00 | 1,630.00 | 154.40 | +0.96% | 110.51 | 251.57 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 790.00 | +0.00% | 620.00 | 1,310.00 | 115.62 | +0.00% | 87.40 | 202.32 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 1,059.00 | -4.20% | 800.00 | 1,752.00 | 154.98 | -4.25% | 117.19 | 272.32 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | - | 937.76 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 937.76 | -1.07% | 706.36 | 1,511.22 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |
@@ -329,6 +335,8 @@ DCE iron ore futures rose by 3.43 % today, the main contract closed 919.The trad
 | **Newman Fines** | Seaborne | 62.30% | 2.40% | 4.30% | 0.095% | 8.00% |
 | **MAC Fines** | Port Stock | 60.43% | 2.38% | 4.64% | 0.078% | 7.57% |
 | **MAC Fines** | Seaborne | 60.80% | 2.35% | 4.40% | 0.075% | 7.80% |
+| **Jimblebar Blended Fines** | Port Stock | 60.87% | 2.95% | 4.53% | 0.111% | 7.32% |
+| **Jimblebar Blended Fines** | Seaborne | 60.50% | 3.10% | 4.80% | 0.12% | 7.80% |
 | **Carajas Fines** | Port Stock | 64.90% | 1.39% | 1.82% | 0.08% | 7.78% |
 | **Carajas Fines** | Seaborne | 65.10% | 1.50% | 1.70% | 0.08% | 8.50% |
 | **Brazilian SSF** | Port Stock | 62.00% | 1.00% | 6.50% | 0.04% | 6.00% |

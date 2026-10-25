@@ -62,6 +62,8 @@ DCE iron ore futures declined by 0.36 % today, the main contract closed at 966. 
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **IOSI62_61** | Seaborne CFR Qingdao | 62% Fe Fines | USD/dry tonne | 135.60 | +0.00 | +0.00% | 114.16 | 114.16 | 99.20 | 146.75 |
 | **IOSI65** | Seaborne CFR Qingdao | 65% Fe Fines | USD/dry tonne | 159.15 | +0.00 | +0.00% | 127.14 | 127.14 | 114.75 | 159.15 |
+| **IOPLI62** | Port Lump FOT Qingdao | 62.5% Fe Lump | RMB/wet tonne | 1,170.00 | +10.00 | +0.90% | 965.00 | 1,028.00 | 900.00 | 1,170.00 |
+| **IOPLI62_CFR_EQ** | CFR Qingdao Equivalent | 62.5% Fe Lump | USD/dry tonne | 148.09 | +1.79 | +1.22% | 122.23 | 134.94 | 113.00 | 148.00 |
 | **IOPI62_61** | Port Stock FOT Qingdao | 62% Fe Fines | RMB/wet tonne | 981.00 | -11.00 | -1.11% | 856.00 | 880.00 | 770.00 | 1,003.00 |
 | **IOPI62_61_CFR_EQ** | CFR Qingdao Equivalent | 62% Fe Fines | USD/dry tonne | 128.88 | -1.70 | -1.30% | 113.38 | 119.54 | 100.95 | 131.57 |
 | **IOPI58** | Port Stock FOT Qingdao | 58% Fe Fines | RMB/wet tonne | 918.00 | +8.00 | +0.88% | 760.00 | 763.00 | 666.00 | 918.00 |
@@ -72,12 +74,17 @@ DCE iron ore futures declined by 0.36 % today, the main contract closed at 966. 
 ## Ocean Freight Rates (Capesize)
 | Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **C5, W. Australia - Qingdao** | Capesize Spot | - | - | - | - | - |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 13.75 USD/t | +0.74 | +5.73% | 3.57 | 16.77 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 35.02 USD/t | +3.68 | +11.75% | 6.70 | 36.40 |
 
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Week Ending Dec 1st, 2023 RMB/tonne (excluding tax) ³ Province Hebei Hebei Liaoning Shandong Week Ending Dec 1st, 2023 China Mines Concentrate Composite Index RMB/WT | **Week Ending Dec 1st, 2023 RMB/tonne (excluding tax) ³ Region Hanxing Qian'an Anshan Zibo Week Ending Dec 1st, 2023 China Mines Concentrate Composite Index RMB/WT** | Week Ending Dec 1st, 2023 RMB/tonne (excluding tax) ³ Product 66% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate Week Ending Dec 1st, 2023 China Mines Concentrate Composite Index RMB/WT | Week Ending Dec 1st, 2023 RMB/tonne (excluding tax) ³ Basis Dry Dry Wet Dry Week Ending Dec 1st, 2023 China Mines Concentrate Composite Index RMB/WT | - | - | - | - | - | - | - | - |
+| Hebei | **Hanxing** | 66% Fe Concentrate | Dry | 1,173.00 | +1.60% | 779.00 | 1,645.00 | 165.00 | +1.90% | 110.31 | 255.69 |
+| Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 1,170.00 | -0.40% | 780.00 | 1,630.00 | 164.58 | -0.09% | 110.51 | 251.57 |
+| Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 890.00 | +2.30% | 620.00 | 1,310.00 | 125.20 | +2.64% | 87.40 | 202.32 |
+| Shandong | **Zibo** | 65% Fe Concentrate | Dry | 1,234.00 | +0.80% | 800.00 | 1,752.00 | 173.59 | +1.15% | 0.00 | 272.32 |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 1,066.83 | +0.82% | 706.36 | 1,511.22 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |
@@ -89,14 +96,16 @@ DCE iron ore futures declined by 0.36 % today, the main contract closed at 966. 
 ## Multi-Period Monthly, Quarterly & YTD Averages
 | Index | Fe Grade | Market Profile | Unit | M-4 | M-3 | M-2 | M-1 | MTD | QTD | YTD |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **IOSI62** | 62% Fe Fines | Seaborne | USD/dry tonne | 109.02 | 104.25 | 106.44 | 124.61 | **112.14** | 113.17 | 114.16 |
+| **IOSI65** | 65% Fe Fines | Seaborne | USD/dry tonne | 119.61 | 132.40 | 135.69 | 150.46 | **122.86** | 126.00 | 127.14 |
+| **IOPLI62** | 62.5% Fe Lump | Port Stock | RMB/wet tonne | 951.00 | 1,043.00 | 1,113.00 | 1,155.00 | **933.00** | 960.00 | 1,017.00 |
+| **IOPLI62_CFR_EQ** | 62.5% Fe Lump | CFR Qingdao Eq | USD/dry tonne | 118.96 | 130.25 | 139.38 | 145.07 | **119.96** | 122.09 | 134.98 |
 | **IOPI62** | 62% Fe Fines | Port Stock | RMB/wet tonne | 873.00 | 945.00 | 947.00 | 988.00 | **856.00** | 851.00 | 880.00 |
 | **IOPI62_CFR_EQ** | 62% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 113.28 | 122.79 | 123.14 | 129.07 | **113.38** | 112.92 | 119.54 |
 | **IOPI58** | 58% Fe Fines | Port Stock | RMB/wet tonne | 759.00 | 838.00 | 869.00 | 884.00 | **760.00** | 755.00 | 763.00 |
 | **IOPI58_CFR_EQ** | 58% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 99.13 | 109.67 | 113.94 | 116.42 | **101.33** | 100.88 | 104.08 |
 | **IOPI65** | 65% Fe Fines | Port Stock | RMB/wet tonne | 985.00 | 1,057.00 | 1,059.00 | 1,100.00 | **973.00** | 970.00 | 1,014.00 |
 | **IOPI65_CFR_EQ** | 65% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 128.31 | 137.74 | 138.13 | 144.10 | **129.38** | 129.19 | 138.43 |
-| **IOSI62** | 62% Fe Fines | Seaborne | USD/dry tonne | 109.02 | 104.25 | 106.44 | 124.61 | **112.14** | 113.17 | 114.16 |
-| **IOSI65** | 65% Fe Fines | Seaborne | USD/dry tonne | 119.61 | 132.40 | 135.69 | 150.46 | **122.86** | 126.00 | 127.14 |
 
 ---
 
@@ -288,6 +297,38 @@ DCE iron ore futures declined by 0.36 % today, the main contract closed at 966. 
 | **Moisture Content** | 8.00% | 8.00% | 9.00% | 4.00% |
 | **Pricing Basis** | CFR Qingdao | FOT / CFR Qingdao | FOT / CFR Qingdao | FOT Qingdao |
 | **Payment Terms** | L/C at sight | L/C at sight | L/C at sight | L/C at sight or CAD |
+
+## Average Iron Ore Specifications Applied for Brand Price Assessments
+| Brand Name | Market Segment | Fe Content % | Alumina (Al2O3) % | Silica (SiO2) % | Phosphorus (P) % | Moisture Content % |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Roy Hill** | Port Stock | 60.88% | 2.35% | 4.45% | 0.055% | 9.26% |
+| **Roy Hill** | Seaborne | 60.70% | 2.30% | 4.90% | 0.055% | 8.00% |
+| **SIMEC Fines** | Port Stock | 60.00% | 2.30% | 6.30% | 0.06% | 6.00% |
+| **SIMEC Fines** | Seaborne | 60.00% | 2.30% | 6.30% | 0.06% | 6.00% |
+| **PB Fines** | Port Stock | 61.64% | 2.31% | 3.87% | 0.099% | 9.45% |
+| **PB Fines** | Seaborne | 62.00% | 2.60% | 4.30% | 0.09% | 9.50% |
+| **Newman Fines** | Port Stock | 62.49% | 2.31% | 3.98% | 0.09% | 7.72% |
+| **Newman Fines** | Seaborne | 62.30% | 2.40% | 4.30% | 0.095% | 8.00% |
+| **MAC Fines** | Port Stock | 60.43% | 2.38% | 4.64% | 0.078% | 7.57% |
+| **MAC Fines** | Seaborne | 60.80% | 2.35% | 4.40% | 0.075% | 7.80% |
+| **Jimblebar Blended Fines** | Port Stock | 60.87% | 2.95% | 4.53% | 0.111% | 7.32% |
+| **Jimblebar Blended Fines** | Seaborne | 60.50% | 3.10% | 4.80% | 0.12% | 7.80% |
+| **Carajas Fines** | Port Stock | 64.90% | 1.39% | 1.82% | 0.08% | 7.78% |
+| **Carajas Fines** | Seaborne | 65.10% | 1.50% | 1.70% | 0.08% | 8.50% |
+| **Brazilian SSF** | Port Stock | 62.00% | 1.00% | 6.50% | 0.04% | 6.00% |
+| **Brazilian SSF** | Seaborne | 62.00% | 1.00% | 6.50% | 0.04% | 6.00% |
+| **Brazilian Blend Fines** | Port Stock | 62.56% | 1.58% | 4.79% | 0.091% | 8.72% |
+| **Brazilian Blend Fines** | Seaborne | 63.00% | 1.50% | 5.00% | 0.07% | 7.00% |
+| **RTX Fines** | Port Stock | 61.00% | 3.10% | 4.50% | 0.135% | 7.50% |
+| **RTX Fines** | Seaborne | 61.00% | 3.10% | 4.50% | 0.135% | 7.50% |
+| **West Pilbara Fines** | Port Stock | 60.10% | 2.30% | 4.70% | 0.075% | 8.50% |
+| **West Pilbara Fines** | Seaborne | 60.10% | 2.30% | 4.70% | 0.075% | 8.50% |
+| **SSF** | Port Stock | 56.49% | 3.20% | 6.19% | 0.065% | 9.18% |
+| **FMG Blended Fines** | Port Stock | 58.20% | 2.43% | 5.54% | 0.057% | 8.29% |
+| **Robe River** | Port Stock | 56.44% | 3.16% | 5.73% | 0.042% | 8.44% |
+| **Western Fines** | Port Stock | 57.88% | 2.87% | 7.50% | 0.062% | 7.45% |
+| **Atlas Fines** | Port Stock | 58.00% | 1.85% | 5.50% | 0.09% | 9.00% |
+| **Yandi** | Port Stock | 56.87% | 1.58% | 6.41% | 0.042% | 9.53% |
 
 ## Bloomberg Terminal Tickers
 | Index Identifier | Market Segment | Delivery Terms | Bloomberg Ticker |

@@ -86,7 +86,7 @@ According to SMM statistics, blast furnace maintenance impacted hot metal produc
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 980.00 | -0.50% | 880.00 | 1,300.00 | 137.88 | -0.46% | 122.81 | 183.23 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 750.00 | +0.00% | 690.00 | 970.00 | 105.52 | +0.05% | 96.49 | 136.72 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 959.00 | +1.60% | 878.00 | 1,294.00 | 134.92 | +1.64% | 122.53 | 182.16 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | 874.42 | 0.46 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 874.42 | +0.46% | 802.20 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

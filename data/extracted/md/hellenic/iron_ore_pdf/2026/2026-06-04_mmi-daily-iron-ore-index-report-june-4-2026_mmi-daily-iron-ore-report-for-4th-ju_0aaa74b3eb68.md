@@ -86,7 +86,7 @@ Fundamentals, the short-term rise in hot metal should have supported demand; how
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 975.00 | +0.00% | 880.00 | 1,300.00 | 142.83 | +0.18% | 122.81 | 183.23 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 750.00 | -1.30% | 690.00 | 970.00 | 109.87 | -1.14% | 96.49 | 136.72 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 994.00 | -3.20% | 878.00 | 1,294.00 | 145.61 | -3.04% | 122.53 | 182.16 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | - | 885.67 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 885.67 | -0.96% | 802.20 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

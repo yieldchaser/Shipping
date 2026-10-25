@@ -90,7 +90,7 @@ Furthermore, iron ore inventories at steel mills were significantly depleted dur
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 965.00 | -1.00% | 880.00 | 1,300.00 | 139.25 | -0.80% | 122.81 | 183.23 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 755.00 | -0.70% | 690.00 | 970.00 | 108.95 | -0.43% | 96.49 | 136.72 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 923.00 | -4.10% | 878.00 | 1,294.00 | 133.19 | -3.84% | 122.53 | 182.16 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | - | 8,790.64 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 8,790.64 | +899.23% | 802.20 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

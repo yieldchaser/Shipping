@@ -84,7 +84,7 @@ DCE iron ore futures market rising sharply trends by 2.07%. the main contract I2
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 1,075.00 | -1.40% | 780.00 | 1,630.00 | 150.27 | -1.60% | 110.51 | 251.57 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 810.00 | +0.00% | 620.00 | 1,310.00 | 113.22 | -0.23% | 87.40 | 202.32 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 965.00 | -5.60% | 800.00 | 1,752.00 | 134.89 | -5.80% | 117.19 | 272.32 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | 931.88 | -2.39 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 931.88 | -2.39% | 706.36 | 1,511.22 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

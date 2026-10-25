@@ -71,10 +71,20 @@ Today, the iron ore futures opened high and then fell back, with the main contra
 | **IOPI65** | Port Stock FOT Qingdao | 65% Fe Fines | RMB/wet tonne | 855.00 | -10.40 | -1.20% | 996.00 | 1,026.00 | 881.00 | 1,175.00 |
 | **IOPI65_CFR_EQ** | CFR Qingdao Equivalent | 65% Fe Fines | USD/dry tonne | 111.62 | -1.28 | -1.10% | 132.21 | 139.47 | 116.00 | 155.00 |
 
+## Ocean Freight Rates (Capesize)
+| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 11.19 USD/t | +0.28 | +2.52% | 3.57 | 16.77 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 25.77 USD/t | +0.36 | +1.42% | 6.70 | 36.40 |
+
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Week Ending Aug 16th, 2024 RMB/tonne (excluding tax) ³ Province Hebei Hebei Liaoning Shandong Week Ending Aug 16th, 2024 China Mines Concentrate Composite Index RMB/WT | **Week Ending Aug 16th, 2024 RMB/tonne (excluding tax) ³ Region Hanxing Qian'an Anshan Zibo Week Ending Aug 16th, 2024 China Mines Concentrate Composite Index RMB/WT** | Week Ending Aug 16th, 2024 RMB/tonne (excluding tax) ³ Product 66% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate Week Ending Aug 16th, 2024 China Mines Concentrate Composite Index RMB/WT | Week Ending Aug 16th, 2024 RMB/tonne (excluding tax) ³ Basis Dry Dry Wet Dry Week Ending Aug 16th, 2024 China Mines Concentrate Composite Index RMB/WT | - | - | - | - | - | - | - | - |
+| Hebei | **Hanxing** | 66% Fe Concentrate | Dry | 939.00 | +0.10% | 779.00 | 1,645.00 | 131.43 | +0.03% | 110.31 | 255.69 |
+| Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 990.00 | -4.30% | 780.00 | 1,630.00 | 138.57 | -4.42% | 109.18 | 251.57 |
+| Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 780.00 | -2.50% | 620.00 | 1,310.00 | 109.18 | -2.57% | 87.40 | 202.32 |
+| Shandong | **Zibo** | 65% Fe Concentrate | Dry | 993.00 | +0.10% | 800.00 | 1,752.00 | 138.99 | +0.03% | 0.00 | 272.32 |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 902.08 | -2.03% | 706.36 | 1,511.22 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |
@@ -86,6 +96,10 @@ Today, the iron ore futures opened high and then fell back, with the main contra
 ## Multi-Period Monthly, Quarterly & YTD Averages
 | Index | Fe Grade | Market Profile | Unit | M-4 | M-3 | M-2 | M-1 | MTD | QTD | YTD |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **IOSI62** | 62% Fe Fines | Seaborne | USD/dry tonne | 112.78 | 120.10 | 110.42 | 107.58 | **112.14** | 115.18 | 116.42 |
+| **IOSI65** | 65% Fe Fines | Seaborne | USD/dry tonne | 124.98 | 136.06 | 125.14 | 123.01 | **122.86** | 129.04 | 130.60 |
+| **IOPLI62** | 62.5% Fe Lump | Port Stock | RMB/wet tonne | 997.00 | 1,024.00 | 1,011.00 | 1,001.00 | **933.00** | 989.00 | 1,017.00 |
+| **IOPLI62_CFR_EQ** | 62.5% Fe Lump | CFR Qingdao Eq | USD/dry tonne | 125.79 | 129.18 | 127.27 | 125.75 | **119.96** | 126.47 | 134.98 |
 | **IOPI62** | 62% Fe Fines | Port Stock | RMB/wet tonne | 857.00 | 894.00 | 842.00 | 829.00 | **880.00** | 874.00 | 895.00 |
 | **IOPI62_CFR_EQ** | 62% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 112.32 | 117.28 | 110.03 | 107.99 | **115.32** | 115.83 | 120.56 |
 | **IOPI58** | 58% Fe Fines | Port Stock | RMB/wet tonne | 711.00 | 762.00 | 719.00 | 692.00 | **785.00** | 779.00 | 781.00 |

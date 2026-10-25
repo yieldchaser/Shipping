@@ -31,7 +31,7 @@ import pymupdf
 ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT))
 from scripts.extract.publishers.mmi_text_tables import (  # noqa: E402
-    read_benchmarks, read_dashboard, read_futures, read_port_inventories, signed)
+    read_benchmarks, read_brands, read_dashboard, read_freight, read_futures, read_port_inventories, signed)
 
 CORPUS_ROOTS = [ROOT] + ([ROOT.parents[2]] if ROOT.parent.name == "worktrees" else [])
 
@@ -258,6 +258,93 @@ def disagreements(pairs):
     return close, scrambled
 
 
+B62_HEADING = "## 62% Fe Benchmark Brand Assessments"
+B58_HEADING = "## 58% Fe Benchmark Brand Assessments (Port Stock FOT Qingdao)"
+NO_SIDE = "**-** | - | - | -"
+
+
+def f_signed(s):
+    v = num(s)
+    return ("+" if v >= 0 else "-") + f"{abs(v):,.{_dp(s)}f}"
+
+
+def build_brands(brands):
+    """{heading: table} in the template's layout; a side the page does not show is "-"."""
+    def cellset(side):
+        if not side:
+            return NO_SIDE
+        lab, (price, chg, diff) = side
+        return f"**{lab}** | {f_num(price)} | {f_signed(chg)} | {f_signed(diff)}"
+    out = {}
+    if any(p or s for p, s in brands["62"]):
+        out[B62_HEADING] = "\n".join(
+            ["| Port Stock Brand | Price (RMB/wmt) | Change | Diff to IOPI62 | Seaborne Brand | Price (USD/dmt) | Change | Diff to IOSI62 |",
+             "| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |"]
+            + [f"| {cellset(p)} | {cellset(s)} |" for p, s in brands["62"]]) + "\n"
+    if brands["58"]:
+        out[B58_HEADING] = "\n".join(
+            ["| Brand | Fe Grade | Market / Delivery Point | Unit | Price | Change | Diff to IOPI58 |",
+             "| :--- | :--- | :--- | :--- | :--- | :--- | :--- |"]
+            + [f"| **{lab}** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | {f_num(p)} | {f_signed(c)} | {f_signed(d)} |"
+               for lab, (p, c, d) in brands["58"]]) + "\n"
+    return out
+
+
+def patch_brands(md, doc):
+    """Fill the brand tables the template left as a placeholder or with "-" sides the page does show.
+    A table is replaced only when every cell it already holds is equal in the rebuild. -> (md, changed)"""
+    brands = read_brands(doc)
+    if not brands:
+        return md, []
+    done = []
+    for heading, table in build_brands(brands).items():
+        span = table_span(md, heading)
+        if not span:
+            continue
+        old = md[span[0]:span[1]]
+        if old == table or not (old.startswith("_No ") or NO_SIDE in old):
+            continue
+        ol, nw = old.splitlines()[2:], table.splitlines()[2:]
+        if len(ol) > len(nw) or any(a != b and a not in ("-", "**-**")
+                                     for o, n in zip(ol, nw) for a, b in zip(cells(o), cells(n))):
+            continue
+        md = md[:span[0]] + table + md[span[1]:]
+        done.append(heading)
+    return md, done
+
+FREIGHT_HEADING = "## Ocean Freight Rates (Capesize)"
+
+
+def build_freight(fr):
+    def sgn(v, pct=False):
+        dp = max(2, len(v.rstrip("%").partition(".")[2]))
+        return f"{num(v):+.{dp}f}" + ("%" if pct else "")
+    out = ["| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |",
+           "| :--- | :--- | :--- | :--- | :--- | :--- | :--- |"]
+    for k in ("C5", "C3"):
+        route, (val, chg, pct, lo, hi) = fr[k]
+        out.append(f"| **{k}, {route}** | Capesize Spot | {num(val):.2f} USD/t | {sgn(chg)} | {sgn(pct, True)} | "
+                   f"{num(lo):.2f} | {num(hi):.2f} |")
+    return "\n".join(out) + "\n"
+
+
+def patch_freight(md, doc):
+    """Insert the page 2 freight table under the benchmark table when the template dropped it, or replace a
+    table it left with "-" cells or a missing route. -> (md, changed)"""
+    span = table_span(md, FREIGHT_HEADING)
+    if span and "| - |" not in md[span[0]:span[1]] and md[span[0]:span[1]].count("\n") >= 4:
+        return md, []
+    fr = read_freight(doc)
+    if not fr:
+        return md, []
+    table = build_freight(fr)
+    if span:
+        return md[:span[0]] + table + md[span[1]:], [FREIGHT_HEADING]
+    m = re.search("^" + re.escape(BENCH_HEADING) + r"\n(?:\|[^\n]*\n)+", md, re.M)
+    if not m:
+        return md, []
+    return md[:m.end()] + "\n" + FREIGHT_HEADING + "\n" + table + md[m.end():], [FREIGHT_HEADING]
+
 def patch(md, doc, checked=False):
     """-> (new md, problems list, changed section names). checked: the issue is in RENDER_CHECKED."""
     probs, done = [], []
@@ -337,6 +424,10 @@ def patch(md, doc, checked=False):
     for (a, b), table, heading in sorted(edits, key=lambda e: -e[0][0]):
         md = md[:a] + table + md[b:]
         done.append(heading)
+    md, filled = patch_brands(md, doc)
+    done += filled
+    md, filled = patch_freight(md, doc)
+    done += filled
     return md, probs, done
 
 

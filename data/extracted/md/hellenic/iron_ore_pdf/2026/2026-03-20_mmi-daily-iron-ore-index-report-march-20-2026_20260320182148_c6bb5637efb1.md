@@ -75,6 +75,12 @@ Affected by the continued structural shortage, the destocking trend of some bran
 | **IOPLI62** | Port Lump FOT Qingdao | 62.5% Fe Lump | RMB/wet tonne | 900.00 | -10.00 | -1.10% | 895.00 | 952.00 | 820.00 | 1,210.00 |
 | **IOPLI62_CFR_EQ** | CFR Qingdao Equivalent | 62.5% Fe Lump | USD/dry tonne | 116.57 | -1.26 | -1.07% | 112.25 | 119.67 | 102.77 | 153.57 |
 
+## Ocean Freight Rates (Capesize)
+| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 12.28 USD/t | -0.36 | -2.80% | 5.92 | 14.89 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 30.46 USD/t | +0.76 | +2.50% | 16.08 | 35.02 |
+
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -94,16 +100,16 @@ Affected by the continued structural shortage, the destocking trend of some bran
 ## Multi-Period Monthly, Quarterly & YTD Averages
 | Index | Fe Grade | Market Profile | Unit | M-4 | M-3 | M-2 | M-1 | MTD | QTD | YTD |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **IOPI58** | 58% Fe Fines | Port Stock | RMB/wet tonne | -70.00 | -8.80 | - | - | **18.50** | 17.42 | - |
-| **IOPI65** | 65% Fe Fines | Port Stock | RMB/wet tonne | 119.00 | 14.90 | - | - | **-** | - | - |
-| **IOPI62** | 62% Fe Fines | Port Stock | RMB/wet tonne | 805.00 | 798.00 | 810.00 | 769.00 | **787.00** | 783.00 | 828.00 |
-| **IOPI62_CFR_EQ** | 62% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 105.46 | 100.24 | 107.43 | 102.60 | **102.60** | 101.98 | 108.09 |
-| **IOPI58_CFR_EQ** | 58% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 95.02 | 94.72 | 96.04 | 93.94 | **90.98** | 90.31 | 95.58 |
-| **IOPI65_CFR_EQ** | 65% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 120.64 | 122.17 | 119.85 | 114.11 | **117.35** | 116.77 | 122.96 |
 | **IOSI62** | 62% Fe Fines | Seaborne | USD/dry tonne | 106.33 | 105.42 | 106.27 | 99.65 | **103.50** | 102.84 | 109.06 |
 | **IOSI65** | 65% Fe Fines | Seaborne | USD/dry tonne | 122.46 | 121.09 | 121.51 | 118.61 | **115.71** | 114.89 | 123.68 |
 | **IOPLI62** | 62.5% Fe Lump | Port Stock | RMB/wet tonne | 880.00 | 864.00 | 875.00 | 844.00 | **895.00** | 891.00 | 952.00 |
 | **IOPLI62_CFR_EQ** | 62.5% Fe Lump | CFR Qingdao Eq | USD/dry tonne | 114.52 | 110.83 | 111.50 | 108.31 | **112.25** | 111.83 | 119.67 |
+| **IOPI62** | 62% Fe Fines | Port Stock | RMB/wet tonne | 805.00 | 798.00 | 810.00 | 769.00 | **787.00** | 783.00 | 828.00 |
+| **IOPI62_CFR_EQ** | 62% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 105.46 | 100.24 | 107.43 | 102.60 | **102.60** | 101.98 | 108.09 |
+| **IOPI58** | 58% Fe Fines | Port Stock | RMB/wet tonne | 720.00 | 716.00 | 719.00 | 699.00 | **694.00** | 689.00 | 727.00 |
+| **IOPI58_CFR_EQ** | 58% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 95.02 | 94.72 | 96.04 | 93.94 | **90.98** | 90.31 | 95.58 |
+| **IOPI65** | 65% Fe Fines | Port Stock | RMB/wet tonne | 917.00 | 925.00 | 900.00 | 852.00 | **897.00** | 892.00 | 938.00 |
+| **IOPI65_CFR_EQ** | 65% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 120.64 | 122.17 | 119.85 | 114.11 | **117.35** | 116.77 | 122.96 |
 
 ---
 
@@ -327,6 +333,8 @@ Affected by the continued structural shortage, the destocking trend of some bran
 | **MAC Fines** | Seaborne | 60.80% | 2.35% | 4.70% | 0.08% | 7.80% |
 | **Jimblebar Blended Fines** | Port Stock | 60.87% | 2.95% | 4.53% | 0.111% | 7.32% |
 | **Jimblebar Blended Fines** | Seaborne | 60.50% | 3.00% | 4.50% | 0.12% | 8.00% |
+| **Carajas Fines** | Port Stock | 64.90% | 1.39% | 1.82% | 0.08% | 7.78% |
+| **Carajas Fines** | Seaborne | 65.10% | 1.50% | 1.70% | 0.08% | 8.50% |
 | **Brazilian SSF** | Port Stock | 62.00% | 1.00% | 6.50% | 0.04% | 6.00% |
 | **Brazilian SSF** | Seaborne | 62.00% | 1.00% | 6.50% | 0.04% | 6.00% |
 | **Brazilian Blend Fines** | Port Stock | 62.56% | 1.58% | 4.79% | 0.091% | 8.72% |

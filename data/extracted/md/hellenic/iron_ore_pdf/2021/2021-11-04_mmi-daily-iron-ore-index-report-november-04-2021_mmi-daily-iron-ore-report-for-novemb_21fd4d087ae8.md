@@ -60,6 +60,8 @@ _No desk commentary reported for this session._
 ## MMi Detailed Iron Ore Benchmark Assessments
 | Index Name | Delivery Point / Market | Grade Profile | Currency / Unit | Assessment | Change | Change % | MTD Avg | YTD Avg | 52w Low | 52w High |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **IOSI62_61** | Seaborne CFR Qingdao | 62% Fe Fines | USD/dry tonne | 103.00 | +0.00 | - | 104.63 | 172.35 | 100.50 | 230.50 |
+| **IOSI65** | Seaborne CFR Qingdao | 65% Fe Fines | USD/dry tonne | 119.90 | +0.00 | - | 123.20 | 199.27 | 118.20 | 262.95 |
 | **IOPLI62** | Port Lump FOT Qingdao | 62.5% Fe Lump | RMB/wet tonne | 967.00 | -43.00 | -4.30% | 999.00 | 1,468.00 | 886.00 | 1,868.00 |
 | **IOPLI62_CFR_EQ** | CFR Qingdao Equivalent | 62.5% Fe Lump | USD/dry tonne | 135.45 | -5.93 | -4.19% | 139.52 | 204.24 | 118.00 | 262.00 |
 | **IOPI62_61** | Port Stock FOT Qingdao | 62% Fe Fines | RMB/wet tonne | 748.00 | -48.00 | -6.00% | 789.00 | 1,223.00 | 748.00 | 1,680.00 |
@@ -68,6 +70,12 @@ _No desk commentary reported for this session._
 | **IOPI58_CFR_EQ** | CFR Qingdao Equivalent | 58% Fe Fines | USD/dry tonne | 72.85 | +0.76 | +1.10% | 74.16 | 144.60 | 72.09 | 210.83 |
 | **IOPI65** | Port Stock FOT Qingdao | 65% Fe Fines | RMB/wet tonne | 935.00 | -48.00 | -4.90% | 972.00 | 1,424.00 | 935.00 | 1,894.00 |
 | **IOPI65_CFR_EQ** | CFR Qingdao Equivalent | 65% Fe Fines | USD/dry tonne | 136.44 | -6.92 | -4.80% | 141.68 | 207.72 | 134.95 | 278.61 |
+
+## Ocean Freight Rates (Capesize)
+| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 10.56 USD/t | -0.82 | -7.17% | 3.57 | 16.77 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 24.93 USD/t | -1.68 | -6.30% | 6.70 | 36.40 |
 
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |

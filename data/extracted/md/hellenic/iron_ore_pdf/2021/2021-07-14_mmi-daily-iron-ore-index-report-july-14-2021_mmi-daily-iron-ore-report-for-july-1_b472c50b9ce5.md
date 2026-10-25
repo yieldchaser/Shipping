@@ -71,6 +71,12 @@ _No desk commentary reported for this session._
 | **IOPLI62** | Port Lump FOT Qingdao | 62.5% Fe Lump | RMB/wet tonne | 1,868.00 | +37.00 | +2.00% | 1,850.00 | 1,572.00 | 862.00 | 1,868.00 |
 | **IOPLI62_CFR_EQ** | CFR Qingdao Equivalent | 62.5% Fe Lump | USD/dry tonne | 262.12 | +5.03 | +1.96% | 259.61 | 219.96 | 109.45 | 262.12 |
 
+## Ocean Freight Rates (Capesize)
+| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 10.87 USD/t | -0.29 | -2.60% | 3.57 | 14.99 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 26.16 USD/t | -0.82 | -3.04% | 6.70 | 31.22 |
+
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -110,17 +116,17 @@ _No desk commentary reported for this session._
 ## 62% Fe Benchmark Brand Assessments
 | Port Stock Brand | Price (RMB/wmt) | Change | Diff to IOPI62 | Seaborne Brand | Price (USD/dmt) | Change | Diff to IOSI62 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Roy Hill** | 1,431.00 | +9.00 | -127.00 | **-** | - | - | - |
-| **SIMEC Fines** | 1,280.00 | +23.00 | -278.00 | **-** | - | - | - |
-| **PB Fines** | 1,501.00 | +6.00 | -57.00 | **-** | - | - | - |
-| **Newman Fines** | 1,582.00 | -2.00 | +24.00 | **-** | - | - | - |
-| **MAC Fines** | 1,415.00 | +12.00 | -143.00 | **-** | - | - | - |
-| **Jimblebar Blended Fines** | 1,341.00 | +17.00 | -217.00 | **-** | - | - | - |
-| **Carajas Fines** | 1,798.00 | -2.00 | +240.00 | **-** | - | - | - |
-| **Brazilian SSF** | 1,483.00 | +20.00 | -75.00 | **-** | - | - | - |
-| **Brazilian Blend Fines** | 1,564.00 | +6.00 | +6.00 | **-** | - | - | - |
-| **RTX Fines** | 1,318.00 | +26.00 | -240.00 | **-** | - | - | - |
-| **West Pilbara Fines** | 1,387.00 | +14.00 | -171.00 | **-** | - | - | - |
+| **Roy Hill** | 1,431.00 | +9.00 | -127.00 | **Roy Hill** | 210.30 | +0.20 | -4.50 |
+| **SIMEC Fines** | 1,280.00 | +23.00 | -278.00 | **SIMEC Fines** | 206.80 | +0.20 | -8.00 |
+| **PB Fines** | 1,501.00 | +6.00 | -57.00 | **PB Fines** | 213.55 | +0.20 | -1.25 |
+| **Newman Fines** | 1,582.00 | -2.00 | +24.00 | **Newman Fines** | 214.70 | +0.20 | -0.10 |
+| **MAC Fines** | 1,415.00 | +12.00 | -143.00 | **MAC Fines** | 210.70 | +0.20 | -4.10 |
+| **Jimblebar Blended Fines** | 1,341.00 | +17.00 | -217.00 | **Jimblebar Blended Fines** | 204.05 | +0.20 | -10.75 |
+| **Carajas Fines** | 1,798.00 | -2.00 | +240.00 | **Carajas Fines** | 244.35 | +0.20 | +29.55 |
+| **Brazilian SSF** | 1,483.00 | +20.00 | -75.00 | **Brazilian SSF** | 218.55 | +0.20 | +3.75 |
+| **Brazilian Blend Fines** | 1,564.00 | +6.00 | +6.00 | **Brazilian Blend Fines** | 220.20 | +0.20 | +5.40 |
+| **RTX Fines** | 1,318.00 | +26.00 | -240.00 | **RTX Fines** | 204.70 | +0.20 | -10.10 |
+| **West Pilbara Fines** | 1,387.00 | +14.00 | -171.00 | **West Pilbara Fines** | 209.05 | +0.20 | -5.75 |
 
 ## 58% Fe Benchmark Brand Assessments (Port Stock FOT Qingdao)
 | Brand | Fe Grade | Market / Delivery Point | Unit | Price | Change | Diff to IOPI58 |

@@ -96,16 +96,16 @@ DCE iron ore futures performed quite weak today, main contract has decreased by 
 ## Multi-Period Monthly, Quarterly & YTD Averages
 | Index | Fe Grade | Market Profile | Unit | M-4 | M-3 | M-2 | M-1 | MTD | QTD | YTD |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **IOPLI62** | 62.5% Fe Lump | Port Stock | RMB/wet tonne | 1,816.00 | 1,409.00 | 1,065.00 | 999.00 | **860.00** | 943.00 | 1,440.00 |
-| **IOPLI62_CFR_EQ** | 62.5% Fe Lump | CFR Qingdao Eq | USD/dry tonne | 254.64 | 196.49 | 147.90 | 139.52 | **119.79** | 131.63 | 200.21 |
-| **IOPI58** | 58% Fe Fines | Port Stock | RMB/wet tonne | -143.00 | -22.34 | - | - | **-** | - | - |
-| **IOPI65** | 65% Fe Fines | Port Stock | RMB/wet tonne | 243.00 | 37.97 | - | - | **-** | - | - |
-| **IOPI62** | 62% Fe Fines | Port Stock | RMB/wet tonne | 1,519.00 | 1,174.00 | 937.00 | 893.00 | **713.00** | 820.00 | 1,205.00 |
-| **IOPI62_CFR_EQ** | 62% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 170.18 | 135.90 | 135.31 | 129.57 | **102.99** | 118.74 | 175.09 |
-| **IOPI58_CFR_EQ** | 58% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 130.00 | 93.62 | 93.31 | 93.69 | **72.01** | 84.85 | 142.13 |
-| **IOPI65_CFR_EQ** | 65% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 213.59 | 214.41 | 214.06 | 152.11 | **134.94** | 145.12 | 205.15 |
 | **IOSI62** | 62% Fe Fines | Seaborne | USD/dry tonne | 211.65 | 162.80 | 128.43 | 127.04 | **100.23** | 117.77 | 169.98 |
 | **IOSI65** | 65% Fe Fines | Seaborne | USD/dry tonne | 254.36 | 192.73 | 148.09 | 147.37 | **115.85** | 136.63 | 196.50 |
+| **IOPLI62** | 62.5% Fe Lump | Port Stock | RMB/wet tonne | 1,816.00 | 1,409.00 | 1,065.00 | 999.00 | **860.00** | 943.00 | 1,440.00 |
+| **IOPLI62_CFR_EQ** | 62.5% Fe Lump | CFR Qingdao Eq | USD/dry tonne | 254.64 | 196.49 | 147.90 | 139.52 | **119.79** | 131.63 | 200.21 |
+| **IOPI62** | 62% Fe Fines | Port Stock | RMB/wet tonne | 1,519.00 | 1,174.00 | 937.00 | 893.00 | **713.00** | 820.00 | 1,205.00 |
+| **IOPI62_CFR_EQ** | 62% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 170.18 | 135.90 | 135.31 | 129.57 | **102.99** | 118.74 | 175.09 |
+| **IOPI58** | 58% Fe Fines | Port Stock | RMB/wet tonne | 1,186.00 | 894.00 | 648.00 | 646.00 | **502.00** | 588.00 | 973.00 |
+| **IOPI58_CFR_EQ** | 58% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 130.00 | 93.62 | 93.31 | 93.69 | **72.01** | 84.85 | 142.13 |
+| **IOPI65** | 65% Fe Fines | Port Stock | RMB/wet tonne | 1,750.00 | 1,466.00 | 1,152.00 | 1,043.00 | **926.00** | 995.00 | 1,407.00 |
+| **IOPI65_CFR_EQ** | 65% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 213.59 | 214.41 | 214.06 | 152.11 | **134.94** | 145.12 | 205.15 |
 
 ---
 
@@ -116,17 +116,17 @@ DCE iron ore futures performed quite weak today, main contract has decreased by 
 ## 62% Fe Benchmark Brand Assessments
 | Port Stock Brand | Price (RMB/wmt) | Change | Diff to IOPI62 | Seaborne Brand | Price (USD/dmt) | Change | Diff to IOSI62 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Roy Hill** | 602.00 | -2.00 | -38.00 | **-** | - | - | - |
-| **SIMEC Fines** | 596.00 | -2.00 | -44.00 | **-** | - | - | - |
-| **PB Fines** | 622.00 | -1.00 | -18.00 | **-** | - | - | - |
-| **Newman Fines** | 651.00 | -2.00 | +11.00 | **-** | - | - | - |
-| **MAC Fines** | 601.00 | -2.00 | -39.00 | **-** | - | - | - |
-| **Jimblebar Blended Fines** | 563.00 | -2.00 | -77.00 | **-** | - | - | - |
-| **Carajas Fines** | 866.00 | +20.00 | +226.00 | **-** | - | - | - |
-| **Brazilian SSF** | 683.00 | +4.00 | +43.00 | **-** | - | - | - |
-| **Brazilian Blend Fines** | 665.00 | +1.00 | +25.00 | **-** | - | - | - |
-| **RTX Fines** | 566.00 | -2.00 | -74.00 | **-** | - | - | - |
-| **West Pilbara Fines** | 590.00 | -2.00 | -50.00 | **-** | - | - | - |
+| **Roy Hill** | 602.00 | -2.00 | -38.00 | **Roy Hill** | 90.55 | -1.15 | -4.50 |
+| **SIMEC Fines** | 596.00 | -2.00 | -44.00 | **SIMEC Fines** | 87.05 | -1.15 | -8.00 |
+| **PB Fines** | 622.00 | -1.00 | -18.00 | **PB Fines** | 93.80 | -1.15 | -1.25 |
+| **Newman Fines** | 651.00 | -2.00 | +11.00 | **Newman Fines** | 94.95 | -1.80 | -0.10 |
+| **MAC Fines** | 601.00 | -2.00 | -39.00 | **MAC Fines** | 90.95 | -1.15 | -4.10 |
+| **Jimblebar Blended Fines** | 563.00 | -2.00 | -77.00 | **Jimblebar Blended Fines** | 84.30 | -1.15 | -10.75 |
+| **Carajas Fines** | 866.00 | +20.00 | +226.00 | **Carajas Fines** | 124.60 | -1.15 | +29.55 |
+| **Brazilian SSF** | 683.00 | +4.00 | +43.00 | **Brazilian SSF** | 98.80 | -1.15 | +3.75 |
+| **Brazilian Blend Fines** | 665.00 | +1.00 | +25.00 | **Brazilian Blend Fines** | 100.45 | -1.15 | +5.40 |
+| **RTX Fines** | 566.00 | -2.00 | -74.00 | **RTX Fines** | 84.95 | -1.15 | -10.10 |
+| **West Pilbara Fines** | 590.00 | -2.00 | -50.00 | **West Pilbara Fines** | 89.30 | -1.15 | -5.75 |
 
 ## 58% Fe Benchmark Brand Assessments (Port Stock FOT Qingdao)
 | Brand | Fe Grade | Market / Delivery Point | Unit | Price | Change | Diff to IOPI58 |

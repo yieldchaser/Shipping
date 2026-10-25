@@ -71,6 +71,12 @@ CE iron ore futures main contract dropped by 4.43%, and quotations in the physic
 | **IOPI65** | Port Stock FOT Qingdao | 65% Fe Fines | RMB/wet tonne | 1,563.00 | -14.00 | -0.90% | 1,583.00 | 1,516.00 | 950.00 | 1,894.00 |
 | **IOPI65_CFR_EQ** | CFR Qingdao Equivalent | 65% Fe Fines | USD/dry tonne | 227.72 | -2.84 | -1.20% | 231.18 | 221.24 | 130.19 | 278.61 |
 
+## Ocean Freight Rates (Capesize)
+| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 14.56 USD/t | -0.41 | -2.74% | 3.57 | 15.12 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 30.27 USD/t | +0.10 | +0.33% | 6.70 | 31.22 |
+
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

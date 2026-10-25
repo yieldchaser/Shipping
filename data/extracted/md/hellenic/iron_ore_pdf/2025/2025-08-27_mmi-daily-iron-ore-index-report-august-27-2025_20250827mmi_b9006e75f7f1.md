@@ -71,6 +71,12 @@ Today, the iron ore futures were in the doldrums, with the most-traded I2601 con
 | **IOSI62_61** | Seaborne CFR Qingdao | 62% Fe Fines | USD/dry tonne | 104.45 | -0.05 | -0.05% | 102.05 | 110.02 | 89.79 | 142.65 |
 | **IOSI65** | Seaborne CFR Qingdao | 65% Fe Fines | USD/dry tonne | 121.85 | +0.15 | +0.12% | 111.93 | 124.26 | 98.23 | 171.65 |
 
+## Ocean Freight Rates (Capesize)
+| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 10.82 USD/t | +0.81 | +8.00% | 5.92 | 14.89 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 24.23 USD/t | +0.57 | +2.40% | 8.89 | 35.02 |
+
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -110,17 +116,17 @@ Today, the iron ore futures were in the doldrums, with the most-traded I2601 con
 ## 62% Fe Benchmark Brand Assessments
 | Port Stock Brand | Price (RMB/wmt) | Change | Diff to IOPI62 | Seaborne Brand | Price (USD/dmt) | Change | Diff to IOSI62 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Roy Hill** | 734.00 | +0.00 | -55.00 | **-** | - | - | - |
-| **SIMEC Fines** | 662.00 | +0.00 | -127.00 | **-** | - | - | - |
-| **PB Fines** | 760.00 | +0.00 | -29.00 | **-** | - | - | - |
-| **Newman Fines** | 759.00 | +0.00 | -30.00 | **-** | - | - | - |
-| **MAC Fines** | 741.00 | +0.00 | -48.00 | **-** | - | - | - |
-| **Jimblebar Blended Fines** | 655.00 | +0.00 | -134.00 | **-** | - | - | - |
-| **Carajas Fines** | 971.00 | +0.00 | +182.00 | **-** | - | - | - |
-| **Brazilian SSF** | 753.00 | +0.00 | -36.00 | **-** | - | - | - |
-| **Brazilian Blend Fines** | 773.00 | +0.00 | -16.00 | **-** | - | - | - |
-| **RTX Fines** | 674.00 | +0.00 | -115.00 | **-** | - | - | - |
-| **West Pilbara Fines** | 703.00 | +0.00 | -86.00 | **-** | - | - | - |
+| **Roy Hill** | 734.00 | +0.00 | -55.00 | **Roy Hill** | 99.95 | -0.05 | -4.50 |
+| **SIMEC Fines** | 662.00 | +0.00 | -127.00 | **SIMEC Fines** | 96.45 | -0.05 | -8.00 |
+| **PB Fines** | 760.00 | +0.00 | -29.00 | **PB Fines** | 100.70 | -0.05 | -3.75 |
+| **Newman Fines** | 759.00 | +0.00 | -30.00 | **Newman Fines** | 103.50 | -0.15 | -0.95 |
+| **MAC Fines** | 741.00 | +0.00 | -48.00 | **MAC Fines** | 100.70 | -0.05 | -3.75 |
+| **Jimblebar Blended Fines** | 655.00 | +0.00 | -134.00 | **Jimblebar Blended Fines** | 93.05 | -0.10 | -11.40 |
+| **Carajas Fines** | 971.00 | +0.00 | +182.00 | **Carajas Fines** | 134.00 | -0.05 | +29.55 |
+| **Brazilian SSF** | 753.00 | +0.00 | -36.00 | **Brazilian SSF** | 108.20 | -0.05 | +3.75 |
+| **Brazilian Blend Fines** | 773.00 | +0.00 | -16.00 | **Brazilian Blend Fines** | 109.80 | -0.05 | +5.35 |
+| **RTX Fines** | 674.00 | +0.00 | -115.00 | **RTX Fines** | 94.30 | -0.10 | -10.15 |
+| **West Pilbara Fines** | 703.00 | +0.00 | -86.00 | **West Pilbara Fines** | 98.70 | -0.05 | -5.75 |
 
 ## 58% Fe Benchmark Brand Assessments (Port Stock FOT Qingdao)
 | Brand | Fe Grade | Market / Delivery Point | Unit | Price | Change | Diff to IOPI58 |
@@ -340,6 +346,12 @@ Today, the iron ore futures were in the doldrums, with the most-traded I2601 con
 | **RTX Fines** | Seaborne | 61.00% | 3.10% | 4.50% | 0.135% | 7.50% |
 | **West Pilbara Fines** | Port Stock | 60.10% | 2.30% | 4.70% | 0.075% | 8.50% |
 | **West Pilbara Fines** | Seaborne | 60.10% | 2.30% | 4.70% | 0.075% | 8.50% |
+| **SSF** | Port Stock | 56.49% | 3.20% | 6.19% | 0.065% | 9.18% |
+| **FMG Blended Fines** | Port Stock | 58.20% | 2.43% | 5.54% | 0.057% | 8.29% |
+| **Robe River** | Port Stock | 56.44% | 3.16% | 5.73% | 0.042% | 8.44% |
+| **Western Fines** | Port Stock | 57.88% | 2.87% | 7.50% | 0.062% | 7.45% |
+| **Atlas Fines** | Port Stock | 58.00% | 1.85% | 5.50% | 0.09% | 9.00% |
+| **Yandi** | Port Stock | 56.87% | 1.58% | 6.41% | 0.042% | 9.53% |
 
 ## Bloomberg Terminal Tickers
 | Index Identifier | Market Segment | Delivery Terms | Bloomberg Ticker |

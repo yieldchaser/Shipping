@@ -71,10 +71,20 @@ DCE iron ore futures continued to rose in a day by 2.51%. the main contract I240
 | **IOPLI62** | Port Lump FOT Qingdao | 62.5% Fe Lump | RMB/wet tonne | 1,125.00 | -7.00 | -0.60% | 947.00 | 1,020.00 | 770.00 | 1,132.00 |
 | **IOPLI62_CFR_EQ** | CFR Qingdao Equivalent | 62.5% Fe Lump | USD/dry tonne | 140.87 | -0.88 | -0.62% | 120.46 | 134.92 | 94.72 | 141.75 |
 
+## Ocean Freight Rates (Capesize)
+| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 21.43 USD/t | +12.51 | +140.22% | 3.57 | 16.77 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 8.55 USD/t | -14.26 | -62.53% | 6.70 | 36.40 |
+
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| IRON ORE DOMESTIC CONCENTRATE SPOT PRICE ASSESSMENTS AND COMPOSITE INDEX Week Ending Oct 27th, 2023 Province Hebei Hebei Liaoning Shandong Week Ending Oct 27th, 2023 China Mines Concentrate Composite Index RMB/WT | **IRON ORE DOMESTIC CONCENTRATE SPOT PRICE ASSESSMENTS AND COMPOSITE INDEX Week Ending Oct 27th, 2023 Region Hanxing Qian'an Anshan Zibo Week Ending Oct 27th, 2023 China Mines Concentrate Composite Index RMB/WT** | IRON ORE DOMESTIC CONCENTRATE SPOT PRICE ASSESSMENTS AND COMPOSITE INDEX Week Ending Oct 27th, 2023 Product 66% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate Week Ending Oct 27th, 2023 China Mines Concentrate Composite Index RMB/WT | IRON ORE DOMESTIC CONCENTRATE SPOT PRICE ASSESSMENTS AND COMPOSITE INDEX Week Ending Oct 27th, 2023 Basis Dry Dry Wet Dry Week Ending Oct 27th, 2023 China Mines Concentrate Composite Index RMB/WT | - | - | - | - | - | - | - | - |
+| Hebei | **Hanxing** | 66% Fe Concentrate | Dry | 1,066.00 | +1.40% | 779.00 | 1,645.00 | 148.50 | +1.44% | 110.31 | 255.69 |
+| Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 1,095.00 | -0.90% | 780.00 | 1,630.00 | 152.54 | -0.89% | 110.51 | 251.57 |
+| Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 800.00 | -0.60% | 620.00 | 1,310.00 | 111.44 | -0.61% | 87.40 | 202.32 |
+| Shandong | **Zibo** | 65% Fe Concentrate | Dry | 1,134.00 | +0.90% | 800.00 | 1,752.00 | 157.97 | +0.90% | 117.19 | 272.32 |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 982.65 | -0.16% | 706.36 | 1,511.22 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

@@ -80,7 +80,11 @@ DCE iron ore futures continued to rise largely today，the main contract I2401 c
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Week Ending Aug 18th, 2023 RMB/tonne (excluding tax) ³ Province Hebei Hebei Liaoning Shandong Week Ending Aug 18th, 2023 China Mines Concentrate Composite Index RMB/WT | **Week Ending Aug 18th, 2023 RMB/tonne (excluding tax) ³ Region Hanxing Qian'an Anshan Zibo Week Ending Aug 18th, 2023 China Mines Concentrate Composite Index RMB/WT** | Week Ending Aug 18th, 2023 RMB/tonne (excluding tax) ³ Product 66% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate Week Ending Aug 18th, 2023 China Mines Concentrate Composite Index RMB/WT | Week Ending Aug 18th, 2023 RMB/tonne (excluding tax) ³ Basis Dry Dry Wet Dry Week Ending Aug 18th, 2023 China Mines Concentrate Composite Index RMB/WT | - | - | - | - | - | - | - | - |
+| Hebei | **Hanxing** | 66% Fe Concentrate | Dry | 940.00 | -1.90% | 779.00 | 1,645.00 | 130.73 | -2.38% | 110.31 | 255.69 |
+| Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 1,080.00 | +0.50% | 780.00 | 1,630.00 | 150.20 | -0.05% | 110.51 | 251.57 |
+| Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 800.00 | -1.20% | 620.00 | 1,310.00 | 111.26 | -1.74% | 87.40 | 202.32 |
+| Shandong | **Zibo** | 65% Fe Concentrate | Dry | 945.00 | -2.10% | 800.00 | 1,752.00 | 131.42 | -2.57% | 117.19 | 272.32 |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 926.82 | -0.54% | 706.36 | 1,511.22 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |
@@ -112,17 +116,17 @@ DCE iron ore futures continued to rise largely today，the main contract I2401 c
 ## 62% Fe Benchmark Brand Assessments
 | Port Stock Brand | Price (RMB/wmt) | Change | Diff to IOPI62 | Seaborne Brand | Price (USD/dmt) | Change | Diff to IOSI62 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Roy Hill** | 833.00 | +9.00 | -57.00 | **-** | - | - | - |
-| **SIMEC Fines** | 763.00 | +10.00 | -127.00 | **-** | - | - | - |
-| **PB Fines** | 858.00 | +9.00 | -32.00 | **-** | - | - | - |
-| **Newman Fines** | 859.00 | +9.00 | -31.00 | **-** | - | - | - |
-| **MAC Fines** | 840.00 | +9.00 | -50.00 | **-** | - | - | - |
-| **Jimblebar Blended Fines** | 755.00 | +9.00 | -135.00 | **-** | - | - | - |
-| **Carajas Fines** | 1,071.00 | +10.00 | +181.00 | **-** | - | - | - |
-| **Brazilian SSF** | 854.00 | +9.00 | -36.00 | **-** | - | - | - |
-| **Brazilian Blend Fines** | 871.00 | +9.00 | -19.00 | **-** | - | - | - |
-| **RTX Fines** | 773.00 | +9.00 | -117.00 | **-** | - | - | - |
-| **West Pilbara Fines** | 801.00 | +9.00 | -89.00 | **-** | - | - | - |
+| **Roy Hill** | 833.00 | +9.00 | -57.00 | **Roy Hill** | 102.50 | -0.50 | -4.50 |
+| **SIMEC Fines** | 763.00 | +10.00 | -127.00 | **SIMEC Fines** | 99.00 | -0.50 | -8.00 |
+| **PB Fines** | 858.00 | +9.00 | -32.00 | **PB Fines** | 103.25 | -0.50 | -3.75 |
+| **Newman Fines** | 859.00 | +9.00 | -31.00 | **Newman Fines** | 106.15 | -0.50 | -0.85 |
+| **MAC Fines** | 840.00 | +9.00 | -50.00 | **MAC Fines** | 103.25 | -0.50 | -3.75 |
+| **Jimblebar Blended Fines** | 755.00 | +9.00 | -135.00 | **Jimblebar Blended Fines** | 95.65 | -0.50 | -11.35 |
+| **Carajas Fines** | 1,071.00 | +10.00 | +181.00 | **Carajas Fines** | 136.55 | -0.50 | +29.55 |
+| **Brazilian SSF** | 854.00 | +9.00 | -36.00 | **Brazilian SSF** | 110.75 | -0.50 | +3.75 |
+| **Brazilian Blend Fines** | 871.00 | +9.00 | -19.00 | **Brazilian Blend Fines** | 112.35 | -0.50 | +5.35 |
+| **RTX Fines** | 773.00 | +9.00 | -117.00 | **RTX Fines** | 96.85 | -0.50 | -10.15 |
+| **West Pilbara Fines** | 801.00 | +9.00 | -89.00 | **West Pilbara Fines** | 101.25 | -0.50 | -5.75 |
 
 ## 58% Fe Benchmark Brand Assessments (Port Stock FOT Qingdao)
 | Brand | Fe Grade | Market / Delivery Point | Unit | Price | Change | Diff to IOPI58 |

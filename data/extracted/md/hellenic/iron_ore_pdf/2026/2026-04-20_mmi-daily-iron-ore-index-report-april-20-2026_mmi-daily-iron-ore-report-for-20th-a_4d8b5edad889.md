@@ -90,7 +90,7 @@ Taking these fundamental variables into comprehensive consideration, iron ore va
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 975.00 | +0.00% | 880.00 | 1,300.00 | 142.10 | +0.14% | 122.81 | 183.23 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 745.00 | +0.00% | 690.00 | 970.00 | 108.58 | +0.14% | 96.49 | 136.72 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 994.00 | -1.60% | 878.00 | 1,294.00 | 144.87 | -1.45% | 122.53 | 182.16 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | - | 881.90 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 881.90 | -0.16% | 802.20 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

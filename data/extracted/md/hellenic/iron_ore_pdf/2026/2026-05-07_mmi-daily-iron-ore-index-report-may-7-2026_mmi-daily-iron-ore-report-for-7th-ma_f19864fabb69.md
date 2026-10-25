@@ -88,7 +88,7 @@ Meanwhile, according to reports, the United States and Iran are negotiating to r
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 985.00 | +1.00% | 880.00 | 1,300.00 | 143.50 | +0.99% | 122.81 | 183.23 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 750.00 | +0.70% | 690.00 | 970.00 | 109.27 | +0.63% | 96.49 | 136.72 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 989.00 | -0.50% | 878.00 | 1,294.00 | 144.08 | -0.54% | 122.53 | 182.16 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | - | 878.15 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 878.15 | -0.43% | 802.20 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

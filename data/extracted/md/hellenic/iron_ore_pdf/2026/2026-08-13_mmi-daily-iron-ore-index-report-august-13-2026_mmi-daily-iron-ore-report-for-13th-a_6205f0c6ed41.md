@@ -71,10 +71,20 @@ Iron ore futures edged lower today. The DCE front-month contract 12609 settled a
 | **IOPLI62** | Port Lump FOT Qingdao | 62.5% Fe Lump | RMB/wet tonne | 873.00 | +5.00 | +0.60% | 896.00 | 946.00 | 820.00 | 1,210.00 |
 | **IOPLI62_CFR_EQ** | CFR Qingdao Equivalent | 62.5% Fe Lump | USD/dry tonne | 114.72 | +0.69 | +0.60% | 113.42 | 119.44 | 102.77 | 153.57 |
 
+## Ocean Freight Rates (Capesize)
+| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 15.58 USD/t | -0.67 | -4.10% | 5.92 | 16.53 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 35.43 USD/t | -0.29 | -0.80% | 16.08 | 37.70 |
+
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Week Ending Aug 7th, 2026 Province Hebei Hebei Liaoning Shandong Week Ending Aug 7th, 2026 China Mines Concentrate Composite Index RMB/WT | **Week Ending Aug 7th, 2026 Region Hanxing Qian'an Anshan Zibo Week Ending Aug 7th, 2026 China Mines Concentrate Composite Index RMB/WT** | Week Ending Aug 7th, 2026 Product 66% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate Week Ending Aug 7th, 2026 China Mines Concentrate Composite Index RMB/WT | RMB/tonne (excluding tax) ³ Basis Dry Dry Wet Dry Week Ending Aug 7th, 2026 China Mines Concentrate Composite Index RMB/WT | - | - | - | - | - | - | - | - |
+| Hebei | **Hanxing** | 66% Fe Concentrate | Dry | 884.00 | -0.90% | 859.00 | 1,226.00 | 130.19 | -0.89% | 119.88 | 172.59 |
+| Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 955.00 | -2.60% | 880.00 | 1,300.00 | 140.65 | -2.54% | 122.81 | 183.23 |
+| Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 730.00 | +0.00% | 690.00 | 970.00 | 107.51 | +0.01% | 96.49 | 136.72 |
+| Shandong | **Zibo** | 65% Fe Concentrate | Dry | 906.00 | -1.00% | 878.00 | 1,294.00 | 133.43 | -0.98% | 122.53 | 182.16 |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 849.72 | -0.76% | 802.20 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |
@@ -106,17 +116,17 @@ Iron ore futures edged lower today. The DCE front-month contract 12609 settled a
 ## 62% Fe Benchmark Brand Assessments
 | Port Stock Brand | Price (RMB/wmt) | Change | Diff to IOPI62 | Seaborne Brand | Price (USD/dmt) | Change | Diff to IOSI62 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Roy Hill** | 668.00 | +0.00 | -22.00 | **-** | - | - | - |
-| **SIMEC Fines** | 697.00 | +0.00 | +7.00 | **-** | - | - | - |
-| **PB Fines** | 701.00 | +0.00 | +11.00 | **-** | - | - | - |
-| **Newman Fines** | 695.00 | +0.00 | +5.00 | **-** | - | - | - |
-| **MAC Fines** | 691.00 | +0.00 | +1.00 | **-** | - | - | - |
-| **Jimblebar Blended Fines** | 681.00 | +0.00 | -9.00 | **-** | - | - | - |
-| **Carajas Fines** | 867.00 | +0.00 | +177.00 | **-** | - | - | - |
-| **Brazilian SSF** | 746.00 | +0.00 | +56.00 | **-** | - | - | - |
-| **Brazilian Blend Fines** | 732.00 | +0.00 | +42.00 | **-** | - | - | - |
-| **RTX Fines** | 670.00 | +0.00 | -20.00 | **-** | - | - | - |
-| **West Pilbara Fines** | 687.00 | +0.00 | -3.00 | **-** | - | - | - |
+| **Roy Hill** | 668.00 | +0.00 | -22.00 | **Roy Hill** | 91.35 | -0.15 | -3.65 |
+| **SIMEC Fines** | 697.00 | +0.00 | +7.00 | **SIMEC Fines** | 89.35 | -0.15 | -5.65 |
+| **PB Fines** | 701.00 | +0.00 | +11.00 | **PB Fines** | 94.35 | -0.10 | -0.65 |
+| **Newman Fines** | 695.00 | +0.00 | +5.00 | **Newman Fines** | 95.60 | -0.10 | +0.60 |
+| **MAC Fines** | 691.00 | +0.00 | +1.00 | **MAC Fines** | 95.50 | -0.10 | +0.50 |
+| **Jimblebar Blended Fines** | 681.00 | +0.00 | -9.00 | **Jimblebar Blended Fines** | 93.30 | -0.10 | -1.70 |
+| **Carajas Fines** | 867.00 | +0.00 | +177.00 | **Carajas Fines** | 113.70 | -0.40 | +18.70 |
+| **Brazilian SSF** | 746.00 | +0.00 | +56.00 | **Brazilian SSF** | 95.55 | -0.50 | +0.55 |
+| **Brazilian Blend Fines** | 732.00 | +0.00 | +42.00 | **Brazilian Blend Fines** | 104.70 | -0.35 | +9.70 |
+| **RTX Fines** | 670.00 | +0.00 | -20.00 | **RTX Fines** | 87.65 | -0.10 | -7.35 |
+| **West Pilbara Fines** | 687.00 | +0.00 | -3.00 | **West Pilbara Fines** | 94.10 | -0.15 | -0.90 |
 
 ## 58% Fe Benchmark Brand Assessments (Port Stock FOT Qingdao)
 | Brand | Fe Grade | Market / Delivery Point | Unit | Price | Change | Diff to IOPI58 |

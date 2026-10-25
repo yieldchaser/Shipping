@@ -86,7 +86,7 @@ After the release of market sentiment triggered by coking coal, the market retur
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 930.00 | -1.10% | 930.00 | 1,300.00 | 129.40 | -0.99% | 129.40 | 183.23 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 725.00 | +0.00% | 715.00 | 970.00 | 100.87 | +0.07% | 100.63 | 136.72 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 961.00 | -1.60% | 905.00 | 1,294.00 | 133.71 | -1.57% | 128.66 | 182.16 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | - | 841.29 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 841.29 | -1.55% | 841.29 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

@@ -100,11 +100,11 @@ DCE iron ore futures declined by 2.99 % today, the main contract closed at 810.5
 | **IOSI65** | 65% Fe Fines | Seaborne | USD/dry tonne | 147.67 | 127.20 | 135.30 | 147.39 | **122.86** | 127.79 | 139.81 |
 | **IOPLI62** | 62.5% Fe Lump | Port Stock | RMB/wet tonne | 983.00 | 919.00 | 969.00 | 980.00 | **925.00** | 931.00 | 1,032.00 |
 | **IOPLI62_CFR_EQ** | 62.5% Fe Lump | CFR Qingdao Eq | USD/dry tonne | 132.68 | 117.67 | 121.33 | 122.51 | **119.39** | 120.08 | 137.99 |
-| **IOPI58** | 58% Fe Fines | Port Stock | RMB/wet tonne | -106.00 | -12.06 | - | - | **-** | - | - |
-| **IOPI65** | 65% Fe Fines | Port Stock | RMB/wet tonne | 119.00 | 13.54 | - | - | **-** | - | - |
 | **IOPI62** | 62% Fe Fines | Port Stock | RMB/wet tonne | 879.00 | 804.00 | 863.00 | 896.00 | **869.00** | 881.00 | 880.00 |
 | **IOPI62_CFR_EQ** | 62% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 118.84 | 106.85 | 112.38 | 116.58 | **120.06** | 120.90 | 120.58 |
+| **IOPI58** | 58% Fe Fines | Port Stock | RMB/wet tonne | 782.00 | 698.00 | 748.00 | 777.00 | **813.00** | 792.00 | 798.00 |
 | **IOPI58_CFR_EQ** | 58% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 106.43 | 93.21 | 97.98 | 101.68 | **113.29** | 109.35 | 110.17 |
+| **IOPI65** | 65% Fe Fines | Port Stock | RMB/wet tonne | 991.00 | 916.00 | 975.00 | 1,008.00 | **981.00** | 993.00 | 992.00 |
 | **IOPI65_CFR_EQ** | 65% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 134.47 | 122.23 | 127.41 | 131.57 | **136.05** | 136.72 | 136.43 |
 
 ---

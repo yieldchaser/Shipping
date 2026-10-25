@@ -84,7 +84,7 @@ TodayÊDCEÊironÊoreÊfuturesÊtrendedÊfirmerÊ,ÊthoughÊpricesÊretreatedÊs
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 970.00 | +0.50% | 880.00 | 1,300.00 | 140.38 | +0.81% | 122.81 | 183.23 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 740.00 | -2.00% | 690.00 | 970.00 | 107.10 | -1.70% | 96.49 | 136.72 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 936.00 | +1.40% | 878.00 | 1,294.00 | 135.46 | +1.70% | 122.53 | 182.16 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | - | 860.05 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 860.05 | -90.22% | 802.20 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

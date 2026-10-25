@@ -86,7 +86,7 @@ According to an SMM survey, as of November 26, the blast furnace operating rate 
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 1,025.00 | +0.50% | 880.00 | 1,300.00 | 144.64 | +0.47% | 122.81 | 183.23 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 762.00 | +0.00% | 690.00 | 970.00 | 107.53 | -0.02% | 96.49 | 136.72 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 970.00 | -1.00% | 878.00 | 1,294.00 | 136.88 | -1.04% | 122.53 | 182.16 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | - | 895.58 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 895.58 | -0.14% | 802.20 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

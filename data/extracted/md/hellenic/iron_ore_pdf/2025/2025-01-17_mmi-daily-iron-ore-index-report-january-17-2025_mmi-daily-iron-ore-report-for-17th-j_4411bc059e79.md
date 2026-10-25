@@ -80,7 +80,11 @@ Today, iron ore futures fluctuated upward. The most-traded I2505 contract closed
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Week Ending Jan 17th, 2025 ProvinceHebei Hebei Liaoning Shandong Week Ending Jan 17th, 2025 China Mines Concentrate Composite Index RMB/WT | **Week Ending Jan 17th, 2025 RegionHanxing Qian'an Anshan Zibo Week Ending Jan 17th, 2025 China Mines Concentrate Composite Index RMB/WT** | Week Ending Jan 17th, 2025 Product66% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate Week Ending Jan 17th, 2025 China Mines Concentrate Composite Index RMB/WT | Week Ending Jan 17th, 2025 BasisDry Dry Wet Dry Week Ending Jan 17th, 2025 China Mines Concentrate Composite Index RMB/WT | - | - | - | - | - | - | - | - |
+| Hebei | **Hanxing** | 66% Fe Concentrate | Dry | 913.00 | -2.20% | 861.00 | 1,226.00 | 127.01 | -2.25% | 122.41 | 172.59 |
+| Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 975.00 | +1.60% | 960.00 | 1,300.00 | 135.64 | +1.56% | 133.53 | 183.23 |
+| Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 745.00 | +0.00% | 715.00 | 970.00 | 103.64 | +0.00% | 100.77 | 136.72 |
+| Shandong | **Zibo** | 65% Fe Concentrate | Dry | 939.00 | -2.50% | 905.00 | 1,294.00 | 130.63 | -2.49% | 128.66 | 182.16 |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 868.30 | -0.31% | 854.16 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |
@@ -322,6 +326,8 @@ Today, iron ore futures fluctuated upward. The most-traded I2505 contract closed
 | **MAC Fines** | Seaborne | 60.80% | 2.35% | 4.70% | 0.08% | 7.80% |
 | **Jimblebar Blended Fines** | Port Stock | 60.87% | 2.95% | 4.53% | 0.111% | 7.32% |
 | **Jimblebar Blended Fines** | Seaborne | 60.50% | 3.00% | 4.50% | 0.12% | 8.00% |
+| **Carajas Fines** | Port Stock | 64.90% | 1.39% | 1.82% | 0.08% | 7.78% |
+| **Carajas Fines** | Seaborne | 65.10% | 1.50% | 1.70% | 0.08% | 8.50% |
 | **Brazilian SSF** | Port Stock | 62.00% | 1.00% | 6.50% | 0.04% | 6.00% |
 | **Brazilian SSF** | Seaborne | 62.00% | 1.00% | 6.50% | 0.04% | 6.00% |
 | **Brazilian Blend Fines** | Port Stock | 62.56% | 1.58% | 4.79% | 0.091% | 8.72% |

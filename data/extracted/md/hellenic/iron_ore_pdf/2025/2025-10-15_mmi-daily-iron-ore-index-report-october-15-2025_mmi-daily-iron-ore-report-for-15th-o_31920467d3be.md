@@ -84,7 +84,7 @@ The most-traded iron ore futures contract continued to trade in the doldrums tod
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 1,010.00 | +0.00% | 880.00 | 1,300.00 | 142.11 | +0.04% | 122.81 | 183.23 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 755.00 | +0.00% | 690.00 | 970.00 | 106.23 | +0.04% | 96.49 | 136.72 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 966.00 | -1.50% | 878.00 | 1,294.00 | 135.92 | -1.49% | 122.53 | 182.16 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | - | 892.05 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 892.05 | -0.29% | 802.20 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

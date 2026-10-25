@@ -71,6 +71,12 @@ DCE iron ore futures market rose by 5.02%, the main contract i2309 closed 721.5.
 | **IOPLI62** | Port Lump FOT Qingdao | 62.5% Fe Lump | RMB/wet tonne | 945.00 | -30.00 | -3.10% | 927.00 | 1,030.00 | 770.00 | 1,330.00 |
 | **IOPLI62_CFR_EQ** | CFR Qingdao Equivalent | 62.5% Fe Lump | USD/dry tonne | 127.13 | -8.92 | -6.56% | 120.05 | 137.80 | 95.00 | 180.00 |
 
+## Ocean Freight Rates (Capesize)
+| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 8.91 USD/t | +0.20 | +2.24% | 3.57 | 16.77 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 22.32 USD/t | -0.03 | -0.11% | 6.70 | 36.40 |
+
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -337,6 +343,8 @@ DCE iron ore futures market rose by 5.02%, the main contract i2309 closed 721.5.
 | **Newman Fines** | Seaborne | 62.30% | 2.40% | 4.30% | 0.095% | 8.00% |
 | **MAC Fines** | Port Stock | 60.43% | 2.38% | 4.64% | 0.078% | 7.57% |
 | **MAC Fines** | Seaborne | 60.80% | 2.35% | 4.40% | 0.075% | 7.80% |
+| **Jimblebar Blended Fines** | Port Stock | 60.87% | 2.95% | 4.53% | 0.111% | 7.32% |
+| **Jimblebar Blended Fines** | Seaborne | 60.50% | 3.10% | 4.80% | 0.12% | 7.80% |
 | **Carajas Fines** | Port Stock | 64.90% | 1.39% | 1.82% | 0.08% | 7.78% |
 | **Carajas Fines** | Seaborne | 65.10% | 1.50% | 1.70% | 0.08% | 8.50% |
 | **Brazilian SSF** | Port Stock | 62.00% | 1.00% | 6.50% | 0.04% | 6.00% |

@@ -71,6 +71,12 @@ Today,ÊDalianÊironÊoreÊfuturesÊfluctuatedÊupward,ÊwithÊtheÊmost-traded�
 | **IOPI65** | Port Stock FOT Qingdao | 65% Fe Fines | RMB/wet tonne | 904.00 | +5.00 | +0.60% | 890.00 | 986.00 | 794.00 | 1,175.00 |
 | **IOPI65_CFR_EQ** | CFR Qingdao Equivalent | 65% Fe Fines | USD/dry tonne | 117.23 | +0.69 | +0.60% | 116.02 | 129.43 | 104.47 | 155.37 |
 
+## Ocean Freight Rates (Capesize)
+| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 9.36 USD/t | -0.54 | -5.41% | 7.49 | 14.89 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 20.87 USD/t | -1.15 | -5.20% | 19.56 | 35.02 |
+
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

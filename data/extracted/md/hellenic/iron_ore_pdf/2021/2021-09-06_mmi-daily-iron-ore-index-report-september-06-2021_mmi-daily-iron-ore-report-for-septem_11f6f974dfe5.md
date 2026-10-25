@@ -100,9 +100,9 @@ DCE iron ore futures market slumped sharply by 6.7% and i2201 hit one-year new l
 | **IOSI65** | 65% Fe Fines | Seaborne | USD/dry tonne | 241.08 | 244.31 | 254.36 | 192.73 | **173.18** | 219.16 | 213.13 |
 | **IOPLI62** | 62.5% Fe Lump | Port Stock | RMB/wet tonne | 1,665.00 | 1,735.00 | 1,816.00 | 1,409.00 | **1,278.00** | 1,599.00 | 1,564.00 |
 | **IOPLI62_CFR_EQ** | 62.5% Fe Lump | CFR Qingdao Eq | USD/dry tonne | 234.20 | 245.23 | 254.64 | 196.49 | **178.26** | 223.74 | 218.74 |
-| **IOPI58** | 58% Fe Fines | Port Stock | RMB/wet tonne | - | -332.00 | - | -31.59 | **-** | - | - |
 | **IOPI62** | 62% Fe Fines | Port Stock | RMB/wet tonne | 1,511.00 | 1,524.00 | 1,519.00 | 1,174.00 | **1,052.00** | 1,322.00 | 1,296.00 |
 | **IOPI62_CFR_EQ** | 62% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 221.74 | 224.01 | 221.54 | 170.18 | **152.43** | 192.24 | 188.51 |
+| **IOPI58** | 58% Fe Fines | Port Stock | RMB/wet tonne | 1,267.00 | 1,199.00 | 1,186.00 | 894.00 | **736.00** | 1,015.00 | 1,069.00 |
 | **IOPI58_CFR_EQ** | 58% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 187.31 | 177.34 | 173.94 | 130.00 | **106.61** | 148.19 | 156.48 |
 | **IOPI65** | 65% Fe Fines | Port Stock | RMB/wet tonne | 1,693.00 | 1,756.00 | 1,750.00 | 1,466.00 | **1,272.00** | 1,580.00 | 1,501.00 |
 | **IOPI65_CFR_EQ** | 65% Fe Fines | CFR Qingdao Eq | USD/dry tonne | 249.00 | 258.78 | 255.79 | 213.59 | **219.00** | 230.57 | 219.00 |

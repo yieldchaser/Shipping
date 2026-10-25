@@ -74,8 +74,8 @@ _No desk commentary reported for this session._
 ## Ocean Freight Rates (Capesize)
 | Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **C5, W. Australia - Qingdao** | Capesize Spot | - | - | +5.92% | 14.89 | - |
-| **C3, Tubarao - Qingdao** | Capesize Spot | - | - | +16.08% | 35.02 | - |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 8.81 USD/t | +0.54 | +6.50% | 5.92 | 14.89 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 23.39 USD/t | +0.82 | +3.60% | 16.08 | 35.02 |
 
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
@@ -114,7 +114,19 @@ _No desk commentary reported for this session._
 # Iron Ore Brand Spot Price Assessments & Port Differentials
 
 ## 62% Fe Benchmark Brand Assessments
-_No 62% Fe brand assessments reported for this session._
+| Port Stock Brand | Price (RMB/wmt) | Change | Diff to IOPI62 | Seaborne Brand | Price (USD/dmt) | Change | Diff to IOSI62 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **-** | - | - | - | **Roy Hill** | 90.00 | -0.30 | -7.20 |
+| **-** | - | - | - | **SIMEC Fines** | 88.20 | -0.40 | -9.00 |
+| **-** | - | - | - | **PB Fines** | 94.50 | -0.40 | -2.70 |
+| **-** | - | - | - | **Newman Fines** | 93.00 | -0.40 | -4.20 |
+| **-** | - | - | - | **MAC Fines** | 93.10 | -0.40 | -4.10 |
+| **-** | - | - | - | **Jimblebar Blended Fines** | 84.40 | -0.40 | -12.80 |
+| **-** | - | - | - | **Carajas Fines** | 113.10 | -0.50 | +15.90 |
+| **-** | - | - | - | **Brazilian SSF** | 93.10 | -0.60 | -4.10 |
+| **-** | - | - | - | **Brazilian Blend Fines** | 103.10 | -0.40 | +5.90 |
+| **-** | - | - | - | **RTX Fines** | 86.80 | -0.40 | -10.40 |
+| **-** | - | - | - | **West Pilbara Fines** | 89.50 | -0.40 | -7.70 |
 
 ## 58% Fe Benchmark Brand Assessments (Port Stock FOT Qingdao)
 _No 58% Fe brand assessments reported for this session._

@@ -71,6 +71,12 @@ Today, the DCE iron ore market traded with a weak, volatile bias. The benchmark 
 | **IOPLI62** | Port Lump FOT Qingdao | 62.5% Fe Lump | RMB/wet tonne | 838.00 | -32.00 | -3.70% | 897.00 | 956.00 | 820.00 | 1,210.00 |
 | **IOPLI62_CFR_EQ** | CFR Qingdao Equivalent | 62.5% Fe Lump | USD/dry tonne | 107.28 | -3.95 | -3.55% | 112.21 | 119.98 | 102.77 | 153.57 |
 
+## Ocean Freight Rates (Capesize)
+| Route | Terms | Spot Freight Rate | Change | Change % | 52-Week Low | 52-Week High |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **C5, W. Australia - Qingdao** | Capesize Spot | 8.06 USD/t | -0.43 | -5.00% | 5.92 | 14.89 |
+| **C3, Tubarao - Qingdao** | Capesize Spot | 22.89 USD/t | -0.27 | -1.20% | 16.08 | 35.02 |
+
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -78,7 +84,7 @@ Today, the DCE iron ore market traded with a weak, volatile bias. The benchmark 
 | Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 980.00 | -0.50% | 880.00 | 1,300.00 | 140.81 | -0.25% | 122.81 | 183.23 |
 | Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 760.00 | +0.00% | 690.00 | 970.00 | 109.20 | +0.26% | 96.49 | 136.72 |
 | Shandong | **Zibo** | 65% Fe Concentrate | Dry | 981.00 | -0.70% | 878.00 | 1,294.00 | 140.95 | -0.45% | 122.53 | 182.16 |
-| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | - | - | 883.88 | -0.57 | - | - | - | - |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 883.88 | -0.57% | 802.20 | 905.40 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

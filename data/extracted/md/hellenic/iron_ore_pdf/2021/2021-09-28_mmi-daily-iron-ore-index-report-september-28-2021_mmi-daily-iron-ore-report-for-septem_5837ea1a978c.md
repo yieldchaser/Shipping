@@ -80,7 +80,11 @@ According to data tracked by SMM, 90 ships arrived at domestic main ports during
 ## Domestic Iron Ore Concentrate Spot Price Assessments
 | Province | Mining District | Specification | Moisture Basis | Price (RMB/t) | Change % (RMB) | 12m Low (RMB) | 12m High (RMB) | Price (USD/t) | Change % (USD) | 12m Low (USD) | 12m High (USD) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Week Ending Sep 24th, 2021 Province Hebei Hebei Liaoning Shandong Week Ending Sep 24th, 2021 China Mines Concentrate Composite Index RMB/WT | **Week Ending Sep 24th, 2021 Region Hanxing Qian'an Anshan Zibo Week Ending Sep 24th, 2021 China Mines Concentrate Composite Index RMB/WT** | RMB/tonne (excluding tax) ³ Product 66% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate 65% Fe Concentrate Week Ending Sep 24th, 2021 China Mines Concentrate Composite Index RMB/WT | RMB/tonne (excluding tax) ³ Basis Dry Dry Wet Dry Week Ending Sep 24th, 2021 China Mines Concentrate Composite Index RMB/WT | - | - | - | - | - | - | - | - |
+| Hebei | **Hanxing** | 66% Fe Concentrate | Dry | 950.00 | -12.00% | 779.00 | 1,645.00 | 146.88 | -12.32% | 110.31 | 255.69 |
+| Hebei | **Qian'an** | 65% Fe Concentrate | Dry | 1,015.00 | -22.80% | 780.00 | 1,630.00 | 156.93 | -23.07% | 110.51 | 251.57 |
+| Liaoning | **Anshan** | 65% Fe Concentrate | Wet | 880.00 | -12.90% | 620.00 | 1,310.00 | 136.05 | -13.16% | 87.40 | 202.32 |
+| Shandong | **Zibo** | 65% Fe Concentrate | Dry | 975.00 | -12.20% | 865.00 | 1,752.00 | 150.74 | -12.45% | 122.55 | 272.32 |
+| National | **Composite** | China Mines Concentrate Composite Index | RMB/WT | 1,024.49 | -10.25% | 706.36 | 1,511.22 | - | - | - | - |
 
 ## Iron Ore Index Premiums / Discounts (Spreads)
 | Index | Fe Content | Market Profile | Benchmark | Spread | Spread % |

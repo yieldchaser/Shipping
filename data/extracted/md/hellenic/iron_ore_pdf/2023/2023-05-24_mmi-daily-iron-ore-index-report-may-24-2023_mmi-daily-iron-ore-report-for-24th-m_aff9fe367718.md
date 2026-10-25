@@ -129,7 +129,14 @@ DCE iron ore futures market falling sharply trends, the main contract closed 682
 | **West Pilbara Fines** | 690.00 | -21.00 | -88.00 | **West Pilbara Fines** | 98.69 | -1.01 | -5.75 |
 
 ## 58% Fe Benchmark Brand Assessments (Port Stock FOT Qingdao)
-_No 58% Fe brand assessments reported for this session._
+| Brand | Fe Grade | Market / Delivery Point | Unit | Price | Change | Diff to IOPI58 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **SSF** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | 682.00 | -8.00 | +0.00 |
+| **FMG Blended Fines** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | 690.00 | -9.00 | +8.00 |
+| **Robe River** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | 691.00 | -8.00 | +9.00 |
+| **Western Fines** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | 694.00 | -8.00 | +12.00 |
+| **Atlas Fines** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | 688.00 | -8.00 | +6.00 |
+| **Yandi** | 58% Fe Fines | Port Stock (FOT Qingdao) | RMB/wmt | 676.00 | -7.00 | -6.00 |
 
 ## PB Fines Port Stock Price Differentials to Qingdao Port
 | Port Terminal | Diff (RMB/wmt) | Change | Port Terminal | Diff (RMB/wmt) | Change |
@@ -306,6 +313,19 @@ _No 58% Fe brand assessments reported for this session._
 | **Carajas Fines** | Port Stock | 64.90% | 1.39% | 1.82% | 0.08% | 7.78% |
 | **Carajas Fines** | Seaborne | 65.10% | 1.50% | 1.70% | 0.08% | 8.50% |
 | **Brazilian SSF** | Port Stock | 62.00% | 1.00% | 6.50% | 0.04% | 6.00% |
+| **Brazilian SSF** | Seaborne | 62.00% | 1.00% | 6.50% | 0.04% | 6.00% |
+| **Brazilian Blend Fines** | Port Stock | 62.56% | 1.58% | 4.79% | 0.091% | 8.72% |
+| **Brazilian Blend Fines** | Seaborne | 63.00% | 1.50% | 5.00% | 0.07% | 7.00% |
+| **RTX Fines** | Port Stock | 61.00% | 3.10% | 4.50% | 0.135% | 7.50% |
+| **RTX Fines** | Seaborne | 61.00% | 3.10% | 4.50% | 0.135% | 7.50% |
+| **West Pilbara Fines** | Port Stock | 60.10% | 2.30% | 4.70% | 0.075% | 8.50% |
+| **West Pilbara Fines** | Seaborne | 60.10% | 2.30% | 4.70% | 0.075% | 8.50% |
+| **SSF** | Port Stock | 56.49% | 3.20% | 6.19% | 0.065% | 9.18% |
+| **FMG Blended Fines** | Port Stock | 58.20% | 2.43% | 5.54% | 0.057% | 8.29% |
+| **Robe River** | Port Stock | 56.44% | 3.16% | 5.73% | 0.042% | 8.44% |
+| **Western Fines** | Port Stock | 57.88% | 2.87% | 7.50% | 0.062% | 7.45% |
+| **Atlas Fines** | Port Stock | 58.00% | 1.85% | 5.50% | 0.09% | 9.00% |
+| **Yandi** | Port Stock | 56.87% | 1.58% | 6.41% | 0.042% | 9.53% |
 
 ## Bloomberg Terminal Tickers
 | Index Identifier | Market Segment | Delivery Terms | Bloomberg Ticker |
