@@ -1,7 +1,7 @@
 ---
-title: "Lion Shipbrokers Weekly Market Report - Week 00, 2026"
-issue_date: "None"
-report_week: 0
+title: "Lion Shipbrokers Weekly Market Report - Week 43, 2026"
+issue_date: "2026-10-23"
+report_week: 43
 year: 2026
 broker: "Lion Shipbrokers"
 source: "lion"
@@ -11,10 +11,10 @@ deals_count: 27
 demometer_rows: 4
 ---
 
-# Lion Shipbrokers Weekly Market Report — Week 00 (None)
+# Lion Shipbrokers Weekly Market Report — Week 43 (23 October 2026)
 
 **Broker**: Lion Shipbrokers Limited (Athens, Greece)  
-**Issue Date**: None | **Report Week**: Week 00, 2026  
+**Issue Date**: 2026-10-23 | **Report Week**: Week 43, 2026  
 
 ## Market Commentary
 

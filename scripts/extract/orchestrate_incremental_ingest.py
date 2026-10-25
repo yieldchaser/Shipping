@@ -131,6 +131,40 @@ def upsert_rows_to_csv(
 # Date and Year Resolution Engine
 # ---------------------------------------------------------------------------
 
+def join_intermodal_sidecar(tables_path: Path) -> None:
+    """Upsert one Intermodal issue's .tables.json into the intermodal_* series (no-op when it is missing)."""
+    import run_intermodal_full
+    if tables_path.exists():
+        sc_data = json.loads(tables_path.read_text(encoding="utf-8"))
+        tbls = sc_data.get("tables", {})
+        if tbls.get("tanker_spot_rates"):
+            upsert_rows_to_csv(SERIES_DIR / "intermodal_tanker_spot_series.csv", tbls["tanker_spot_rates"], run_intermodal_full.TANKER_SPOT_COLUMNS, ["issue_date", "vessel_class", "route"])
+        if tbls.get("tc_rates"):
+            upsert_rows_to_csv(SERIES_DIR / "intermodal_tc_rates_series.csv", tbls["tc_rates"], run_intermodal_full.TC_RATES_COLUMNS, ["issue_date", "sector", "vessel_class", "tenor"])
+        if tbls.get("indicative_market_values"):
+            upsert_rows_to_csv(SERIES_DIR / "intermodal_indicative_values_series.csv", tbls["indicative_market_values"], run_intermodal_full.INDICATIVE_VALUES_COLUMNS, ["issue_date", "sector", "vessel_class", "age_profile"])
+        if tbls.get("baltic_dry_indices"):
+            upsert_rows_to_csv(SERIES_DIR / "intermodal_baltic_indices_series.csv", tbls["baltic_dry_indices"], run_intermodal_full.BALTIC_INDICES_COLUMNS, ["issue_date", "index_name"])
+        if tbls.get("demolition_currencies"):
+            upsert_rows_to_csv(SERIES_DIR / "intermodal_currencies_series.csv", tbls["demolition_currencies"], run_intermodal_full.CURRENCIES_COLUMNS, ["issue_date", "market_currency"])
+        if tbls.get("secondhand_sales"):
+            upsert_rows_to_csv(SERIES_DIR / "intermodal_sales_series.csv", tbls["secondhand_sales"], run_intermodal_full.SALES_COLUMNS, ["issue_date", "vessel_name", "dwt"])
+        nb_combined = tbls.get("indicative_newbuilding", []) + tbls.get("newbuilding_orders", [])
+        if nb_combined:
+            upsert_rows_to_csv(SERIES_DIR / "intermodal_newbuilding_series.csv", nb_combined, run_intermodal_full.NB_COLUMNS, ["issue_date", "record_type", "sector", "vessel_type", "yard", "buyer"])
+        if tbls.get("indicative_newbuilding"):
+            upsert_rows_to_csv(SERIES_DIR / "intermodal_newbuilding_prices_series.csv", tbls["indicative_newbuilding"], run_intermodal_full.NB_PRICES_COLUMNS, ["issue_date", "sector", "vessel_type", "size"])
+        if tbls.get("newbuilding_orders"):
+            upsert_rows_to_csv(SERIES_DIR / "intermodal_newbuilding_orders_series.csv", tbls["newbuilding_orders"], run_intermodal_full.NB_ORDERS_COLUMNS, ["issue_date", "vessel_type", "yard", "buyer"])
+        demo_combined = tbls.get("indicative_demolition", []) + tbls.get("demolition_sales", [])
+        if demo_combined:
+            upsert_rows_to_csv(SERIES_DIR / "intermodal_demolition_series.csv", demo_combined, run_intermodal_full.DEMO_COLUMNS, ["issue_date", "record_type", "sector", "country", "vessel_name"])
+        if tbls.get("demolition_sales"):
+            upsert_rows_to_csv(SERIES_DIR / "intermodal_demo_sales_series.csv", tbls["demolition_sales"], run_intermodal_full.DEMO_SALES_COLUMNS, ["issue_date", "vessel_name", "ldt"])
+        if tbls.get("indicative_demolition"):
+            upsert_rows_to_csv(SERIES_DIR / "intermodal_demolition_prices_series.csv", tbls["indicative_demolition"], run_intermodal_full.DEMO_PRICES_COLUMNS, ["issue_date", "sector", "country"])
+
+
 def resolve_document_date_and_year(doc: fitz.Document, file_path: Path) -> Tuple[str, str]:
     """Tiered Date Resolution: Header -> Filename -> Metadata."""
     for pno in range(min(2, len(doc))):
@@ -1034,36 +1068,9 @@ def process_single_pdf(
                 specialized_result = {"stem": stem, "pub": pub, "issue_date": issue_date, "report_week": wk, "specialized": True}
             else:
                 res = run_intermodal_full.process_single_pdf(pdf_path)
-                tables_path = Path(res.get("tables_path", "")) if res.get("tables_path") else (MD_DIR / "intermodal" / f"{stem}.tables.json")
-                if tables_path.exists():
-                    sc_data = json.loads(tables_path.read_text(encoding="utf-8"))
-                    tbls = sc_data.get("tables", {})
-                    if tbls.get("tanker_spot_rates"):
-                        upsert_rows_to_csv(SERIES_DIR / "intermodal_tanker_spot_series.csv", tbls["tanker_spot_rates"], run_intermodal_full.TANKER_SPOT_COLUMNS, ["issue_date", "vessel_class", "route"])
-                    if tbls.get("tc_rates"):
-                        upsert_rows_to_csv(SERIES_DIR / "intermodal_tc_rates_series.csv", tbls["tc_rates"], run_intermodal_full.TC_RATES_COLUMNS, ["issue_date", "sector", "vessel_class", "tenor"])
-                    if tbls.get("indicative_market_values"):
-                        upsert_rows_to_csv(SERIES_DIR / "intermodal_indicative_values_series.csv", tbls["indicative_market_values"], run_intermodal_full.INDICATIVE_VALUES_COLUMNS, ["issue_date", "sector", "vessel_class", "age_profile"])
-                    if tbls.get("baltic_dry_indices"):
-                        upsert_rows_to_csv(SERIES_DIR / "intermodal_baltic_indices_series.csv", tbls["baltic_dry_indices"], run_intermodal_full.BALTIC_INDICES_COLUMNS, ["issue_date", "index_name"])
-                    if tbls.get("demolition_currencies"):
-                        upsert_rows_to_csv(SERIES_DIR / "intermodal_currencies_series.csv", tbls["demolition_currencies"], run_intermodal_full.CURRENCIES_COLUMNS, ["issue_date", "market_currency"])
-                    if tbls.get("secondhand_sales"):
-                        upsert_rows_to_csv(SERIES_DIR / "intermodal_sales_series.csv", tbls["secondhand_sales"], run_intermodal_full.SALES_COLUMNS, ["issue_date", "vessel_name", "dwt"])
-                    nb_combined = tbls.get("indicative_newbuilding", []) + tbls.get("newbuilding_orders", [])
-                    if nb_combined:
-                        upsert_rows_to_csv(SERIES_DIR / "intermodal_newbuilding_series.csv", nb_combined, run_intermodal_full.NB_COLUMNS, ["issue_date", "record_type", "sector", "vessel_type", "yard", "buyer"])
-                    if tbls.get("indicative_newbuilding"):
-                        upsert_rows_to_csv(SERIES_DIR / "intermodal_newbuilding_prices_series.csv", tbls["indicative_newbuilding"], run_intermodal_full.NB_PRICES_COLUMNS, ["issue_date", "sector", "vessel_type", "size"])
-                    if tbls.get("newbuilding_orders"):
-                        upsert_rows_to_csv(SERIES_DIR / "intermodal_newbuilding_orders_series.csv", tbls["newbuilding_orders"], run_intermodal_full.NB_ORDERS_COLUMNS, ["issue_date", "vessel_type", "yard", "buyer"])
-                    demo_combined = tbls.get("indicative_demolition", []) + tbls.get("demolition_sales", [])
-                    if demo_combined:
-                        upsert_rows_to_csv(SERIES_DIR / "intermodal_demolition_series.csv", demo_combined, run_intermodal_full.DEMO_COLUMNS, ["issue_date", "record_type", "sector", "country", "vessel_name"])
-                    if tbls.get("demolition_sales"):
-                        upsert_rows_to_csv(SERIES_DIR / "intermodal_demo_sales_series.csv", tbls["demolition_sales"], run_intermodal_full.DEMO_SALES_COLUMNS, ["issue_date", "vessel_name", "ldt"])
-                    if tbls.get("indicative_demolition"):
-                        upsert_rows_to_csv(SERIES_DIR / "intermodal_demolition_prices_series.csv", tbls["indicative_demolition"], run_intermodal_full.DEMO_PRICES_COLUMNS, ["issue_date", "sector", "country"])
+                tables_path = Path(res["tables_path"]) if res.get("tables_path") else next(
+                    (MD_DIR / "intermodal").rglob(f"{stem}.tables.json"), MD_DIR / "intermodal" / f"{stem}.tables.json")
+                join_intermodal_sidecar(tables_path)
                 specialized_result = {"stem": stem, "pub": pub, "specialized": True, "target_md": str(res.get("md_path", ""))}
         except Exception as e:
             print(f"  [!] Note: specialized intermodal failed ({e}), falling back to universal pipeline.")

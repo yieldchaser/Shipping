@@ -115,10 +115,11 @@ def parse_demometer_block(text, issue_date, week):
             trend = ''
             val_toks = []
             for t in toks:
-                if t.lower().strip('.,/-') in TREND_WORDS:
-                    trend = (trend + ' ' + t.lower().strip('.,/-')).strip()
-                elif re.match(r'^[\d.\-–~]+$', t) or t in ('-', '--'):
+                if re.match(r'^[\d.\-–~]+$', t) or t in ('-', '--'):
                     val_toks.append(t)
+                elif re.search(r'[A-Za-z]', t):
+                    # the trend as printed ("very firm", "cautiously optimistic"), not only the TREND_WORDS
+                    trend = (trend + ' ' + t.lower().strip('.,/-')).strip()
 
             b_val = val_toks[0] if len(val_toks) > 0 else '-'
             t_val = val_toks[1] if len(val_toks) > 1 else '-'
@@ -440,16 +441,18 @@ def extract_full_report(text, source_path, pages_count=1):
     text = clean_text(text)
     stem = os.path.splitext(os.path.basename(source_path))[0]
 
-    m_week = re.search(r'WEEK\s*(\d{1,2}(?:\s*(?:&|-|and)\s*\d{1,2})?)[^\d\n]+(\d{1,2}\s+[A-Za-z]+\s+\d{4})', text, re.I)
+    # the date follows the week on the same line or (2026 W43 layout) on the next one
+    m_week = re.search(r'WEEK\s*(\d{1,2}(?:\s*(?:&|-|and)\s*\d{1,2})?)(?:[^\d\n]+|[^\d\n]*\n\s*)(\d{1,2}\s+[A-Za-z]+\s+\d{4})', text, re.I)
     if m_week:
         week_num_str = m_week.group(1).split('&')[0].split('-')[0].strip()
         week_int = int(week_num_str)
         date_str = parse_date_str(m_week.group(2))
         raw_date_display = m_week.group(2).strip()
     else:
-        m_st = re.search(r'W(\d{2})', stem)
+        m_st = re.search(r'W(\d{2})', stem) or re.search(r'_week_(\d{1,2})_', stem)
         week_int = int(m_st.group(1)) if m_st else 0
-        date_str = parse_date_str(stem)
+        m_dt = re.match(r'lion_(\d{2})_(\d{2})_(\d{4})_', stem)   # CI naming lion_DD_MM_YYYY_..._week_NN_YYYY
+        date_str = f"{m_dt.group(3)}-{m_dt.group(2)}-{m_dt.group(1)}" if m_dt else parse_date_str(stem)
         raw_date_display = date_str
 
     year = int(date_str.split('-')[0]) if date_str else 2026

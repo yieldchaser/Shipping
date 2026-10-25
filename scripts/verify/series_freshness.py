@@ -29,14 +29,15 @@ SOURCES = [
     (r"^(hellenic_)?best_oasis_", "hellenic/demolition/best_oasis", 14),
     (r"^(hellenic_)?gms_", "hellenic/demolition/gms", 14),
     (r"^athenian_", "hellenic/demolition/athenian", 14),
-    (r"^bancosta_", "banchero_costa", 10),
-    (r"^star_asia_", "star_asia", 10),
-    (r"^advanced_shipping_", "advanced_shipping", 10),
+    (r"^bancosta_", "banchero_costa", 10),   # table rows are dated to the report week's Monday
+    (r"^star_asia_", "star_asia", 6),
+    (r"^advanced_shipping_", "advanced_shipping", 6),
     (r"^drewry_ais_", "drewry/ais", 10),
     (r"^drewry_", "drewry/opinions", 10),
     (r"^(compare_vs_)?clarksons_", "clarksons", 10),
     (r"^ism_handy_", "ism", 35),          # the Handy edition comes every 4th week, coasters in between
-    (r"^([a-z]+)_", None, 10),             # default: the first word is the MD folder
+    (r"^ism_coaster_", "ism", 10),        # chart series: the newest point is the week before the issue
+    (r"^([a-z]+)_", None, 6),              # default: the first word is the MD folder
 ]
 
 CLOSED = {   # closed by design: name -> reason

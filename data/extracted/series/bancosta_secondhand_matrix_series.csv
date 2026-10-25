@@ -71,6 +71,14 @@ issue_date,report_week,vessel_type,unit,price_current_usd_m,price_previous_usd_m
 2021-09-06,36,Suezmax,usd mln,47.3,47.3,-0.0%,-1.8%,corpus/01-brokers/banchero_costa/2021/banchero_costa_2021_W36_Bancosta-Weekly-2021-36.pdf
 2021-09-06,36,Supramax,usd mln,26.3,25.6,+2.9%,+73.0%,corpus/01-brokers/banchero_costa/2021/banchero_costa_2021_W36_Bancosta-Weekly-2021-36.pdf
 2021-09-06,36,VLCC,usd mln,71.5,71.5,+0.0%,+2.8%,corpus/01-brokers/banchero_costa/2021/banchero_costa_2021_W36_Bancosta-Weekly-2021-36.pdf
+2021-09-13,37,Capesize,usd mln,44.9,44.4,+1.1%,+41.8%,corpus/01-brokers/banchero_costa/2021/banchero_costa_2021_W37_Bancosta-Weekly-2021-37.pdf
+2021-09-13,37,Kamsarmax,usd mln,31.6,30.9,+2.4%,+48.7%,corpus/01-brokers/banchero_costa/2021/banchero_costa_2021_W37_Bancosta-Weekly-2021-37.pdf
+2021-09-13,37,Supramax,usd mln,27.0,26.3,+2.8%,+77.6%,corpus/01-brokers/banchero_costa/2021/banchero_costa_2021_W37_Bancosta-Weekly-2021-37.pdf
+2021-09-13,37,Handysize,usd mln,23.3,22.9,+2.0%,+58.2%,corpus/01-brokers/banchero_costa/2021/banchero_costa_2021_W37_Bancosta-Weekly-2021-37.pdf
+2021-09-13,37,VLCC,usd mln,71.5,71.5,-0.0%,+3.5%,corpus/01-brokers/banchero_costa/2021/banchero_costa_2021_W37_Bancosta-Weekly-2021-37.pdf
+2021-09-13,37,Suezmax,usd mln,47.3,47.3,+0.1%,-1.0%,corpus/01-brokers/banchero_costa/2021/banchero_costa_2021_W37_Bancosta-Weekly-2021-37.pdf
+2021-09-13,37,Aframax,usd mln,39.9,39.9,+0.0%,+6.2%,corpus/01-brokers/banchero_costa/2021/banchero_costa_2021_W37_Bancosta-Weekly-2021-37.pdf
+2021-09-13,37,MR Product,usd mln,27.8,27.8,+0.0%,+2.1%,corpus/01-brokers/banchero_costa/2021/banchero_costa_2021_W37_Bancosta-Weekly-2021-37.pdf
 2021-09-20,38,Aframax,usd mln,39.9,39.9,-0.1%,+6.5%,corpus/01-brokers/banchero_costa/2021/banchero_costa_2021_W38_Bancosta-Weekly-2021-38.pdf
 2021-09-20,38,Capesize,usd mln,45.3,44.9,+0.9%,+43.0%,corpus/01-brokers/banchero_costa/2021/banchero_costa_2021_W38_Bancosta-Weekly-2021-38.pdf
 2021-09-20,38,Handysize,usd mln,24.1,23.3,+3.3%,+63.8%,corpus/01-brokers/banchero_costa/2021/banchero_costa_2021_W38_Bancosta-Weekly-2021-38.pdf
@@ -215,6 +223,14 @@ issue_date,report_week,vessel_type,unit,price_current_usd_m,price_previous_usd_m
 2022-02-07,6,Suezmax,usd mln,48.0,47.9,+0.0%,+9.8%,corpus/01-brokers/banchero_costa/2022/banchero_costa_2022_W06_Bancosta-Weekly-2022-06.pdf
 2022-02-07,6,Supramax,usd mln,27.6,27.5,+0.3%,+76.1%,corpus/01-brokers/banchero_costa/2022/banchero_costa_2022_W06_Bancosta-Weekly-2022-06.pdf
 2022-02-07,6,VLCC,usd mln,72.5,72.6,-0.0%,+12.3%,corpus/01-brokers/banchero_costa/2022/banchero_costa_2022_W06_Bancosta-Weekly-2022-06.pdf
+2022-02-14,7,Capesize,usd mln,45.2,45.2,-0.0%,+38.0%,corpus/01-brokers/banchero_costa/2022/banchero_costa_2022_W07_Bancosta-Weekly-2022-07.pdf
+2022-02-14,7,Kamsarmax,usd mln,32.7,32.6,+0.5%,+45.2%,corpus/01-brokers/banchero_costa/2022/banchero_costa_2022_W07_Bancosta-Weekly-2022-07.pdf
+2022-02-14,7,Supramax,usd mln,27.7,27.6,+0.6%,+75.6%,corpus/01-brokers/banchero_costa/2022/banchero_costa_2022_W07_Bancosta-Weekly-2022-07.pdf
+2022-02-14,7,Handysize,usd mln,25.7,25.4,+1.2%,+70.4%,corpus/01-brokers/banchero_costa/2022/banchero_costa_2022_W07_Bancosta-Weekly-2022-07.pdf
+2022-02-14,7,VLCC,usd mln,72.3,72.5,-0.3%,+11.8%,corpus/01-brokers/banchero_costa/2022/banchero_costa_2022_W07_Bancosta-Weekly-2022-07.pdf
+2022-02-14,7,Suezmax,usd mln,47.8,48.0,-0.2%,+9.4%,corpus/01-brokers/banchero_costa/2022/banchero_costa_2022_W07_Bancosta-Weekly-2022-07.pdf
+2022-02-14,7,Aframax,usd mln,41.7,41.7,+0.1%,+22.3%,corpus/01-brokers/banchero_costa/2022/banchero_costa_2022_W07_Bancosta-Weekly-2022-07.pdf
+2022-02-14,7,MR Product,usd mln,29.9,29.7,+0.5%,+16.3%,corpus/01-brokers/banchero_costa/2022/banchero_costa_2022_W07_Bancosta-Weekly-2022-07.pdf
 2022-02-21,8,Aframax,usd mln,41.9,41.7,+0.6%,+23.0%,corpus/01-brokers/banchero_costa/2022/banchero_costa_2022_W08_Bancosta-Weekly-2022-08.pdf
 2022-02-21,8,Capesize,usd mln,45.3,45.2,+0.2%,+38.3%,corpus/01-brokers/banchero_costa/2022/banchero_costa_2022_W08_Bancosta-Weekly-2022-08.pdf
 2022-02-21,8,Handysize,usd mln,26.2,25.7,+2.1%,+74.0%,corpus/01-brokers/banchero_costa/2022/banchero_costa_2022_W08_Bancosta-Weekly-2022-08.pdf
@@ -1921,3 +1937,10 @@ issue_date,report_week,vessel_type,unit,price_current_usd_m,price_previous_usd_m
 2026-10-12,42,Suezmax,usd mln,128.4,123.3,+4.1%,+66.1%,corpus/01-brokers/banchero_costa/2026/banchero_costa_21_10_2026_banchero_costa_weekly_market_report_week_42_2026.pdf
 2026-10-12,42,Aframax,usd mln,95.3,91.2,+4.5%,+50.4%,corpus/01-brokers/banchero_costa/2026/banchero_costa_21_10_2026_banchero_costa_weekly_market_report_week_42_2026.pdf
 2026-10-12,42,MR Product,usd mln,51.9,51.4,+0.9%,+25.2%,corpus/01-brokers/banchero_costa/2026/banchero_costa_21_10_2026_banchero_costa_weekly_market_report_week_42_2026.pdf
+2026-09-28,40,Capesize,usd mln,73.8,72.9,+1.3%,+19.2%,corpus/01-brokers/banchero_costa/2026/banchero_costa_07_10_2026_banchero_costa_weekly_market_report_week_40_2026.pdf
+2026-09-28,40,Kamsarmax,usd mln,41.0,40.7,+0.9%,+26.7%,corpus/01-brokers/banchero_costa/2026/banchero_costa_07_10_2026_banchero_costa_weekly_market_report_week_40_2026.pdf
+2026-09-28,40,Handysize,usd mln,30.7,30.7,+0.2%,+20.4%,corpus/01-brokers/banchero_costa/2026/banchero_costa_07_10_2026_banchero_costa_weekly_market_report_week_40_2026.pdf
+2026-09-28,40,VLCC,usd mln,182.5,169.0,+8.0%,+56.5%,corpus/01-brokers/banchero_costa/2026/banchero_costa_07_10_2026_banchero_costa_weekly_market_report_week_40_2026.pdf
+2026-09-28,40,Suezmax,usd mln,116.5,112.4,+3.7%,+50.8%,corpus/01-brokers/banchero_costa/2026/banchero_costa_07_10_2026_banchero_costa_weekly_market_report_week_40_2026.pdf
+2026-09-28,40,Aframax,usd mln,87.3,85.5,+2.0%,+37.9%,corpus/01-brokers/banchero_costa/2026/banchero_costa_07_10_2026_banchero_costa_weekly_market_report_week_40_2026.pdf
+2026-09-28,40,MR Product,usd mln,51.1,50.7,+0.7%,+23.9%,corpus/01-brokers/banchero_costa/2026/banchero_costa_07_10_2026_banchero_costa_weekly_market_report_week_40_2026.pdf

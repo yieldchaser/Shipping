@@ -1,6 +1,6 @@
 {
-  "issue_date": null,
-  "report_week": 0,
+  "issue_date": "2026-10-23",
+  "report_week": 43,
   "year": 2026,
   "quote_of_the_week": {
     "type": "Quote of the Week",
@@ -16,8 +16,8 @@
   "tables": {
     "demometer": [
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "country": "Turkey",
         "vessel_type": "BULKER",
         "price_low": 290.0,
@@ -27,8 +27,8 @@
         "unit": "USD_per_LDT"
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "country": "Turkey",
         "vessel_type": "TANKER",
         "price_low": 300.0,
@@ -38,8 +38,8 @@
         "unit": "USD_per_LDT"
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "country": "Turkey",
         "vessel_type": "CONT/TWEEN",
         "price_low": 310.0,
@@ -49,8 +49,8 @@
         "unit": "USD_per_LDT"
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "country": "Pakistan",
         "vessel_type": "BULKER",
         "price_low": 470.0,
@@ -60,8 +60,8 @@
         "unit": "USD_per_LDT"
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "country": "Pakistan",
         "vessel_type": "TANKER",
         "price_low": 500.0,
@@ -71,8 +71,8 @@
         "unit": "USD_per_LDT"
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "country": "Pakistan",
         "vessel_type": "CONT/TWEEN",
         "price_low": 510.0,
@@ -82,8 +82,8 @@
         "unit": "USD_per_LDT"
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "country": "India",
         "vessel_type": "BULKER",
         "price_low": 470.0,
@@ -93,8 +93,8 @@
         "unit": "USD_per_LDT"
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "country": "India",
         "vessel_type": "TANKER",
         "price_low": 490.0,
@@ -104,8 +104,8 @@
         "unit": "USD_per_LDT"
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "country": "India",
         "vessel_type": "CONT/TWEEN",
         "price_low": 500.0,
@@ -115,8 +115,8 @@
         "unit": "USD_per_LDT"
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "country": "Bangladesh",
         "vessel_type": "BULKER",
         "price_low": 500.0,
@@ -126,8 +126,8 @@
         "unit": "USD_per_LDT"
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "country": "Bangladesh",
         "vessel_type": "TANKER",
         "price_low": 525.0,
@@ -137,8 +137,8 @@
         "unit": "USD_per_LDT"
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "country": "Bangladesh",
         "vessel_type": "CONT/TWEEN",
         "price_low": 540.0,
@@ -150,8 +150,8 @@
     ],
     "secondhand_sales": [
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "BULKERS",
         "tag": "M/V",
         "vessel": "MARITIME KING",
@@ -169,8 +169,8 @@
         "comments": "basis forward delivery January."
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "BULKERS",
         "tag": "M/V",
         "vessel": "DESERT NAMULI",
@@ -188,8 +188,8 @@
         "comments": "eco m/e."
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "BULKERS",
         "tag": "M/V",
         "vessel": "LIBRA CONFIDENCE",
@@ -207,8 +207,8 @@
         "comments": "eco m/e, sold via online bidding, offers due 20th October via GSE Platform, charter-free delivery 15th December-10th February, Singapore-Japan range."
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "BULKERS",
         "tag": "M/V",
         "vessel": "KRISTINITA",
@@ -226,8 +226,8 @@
         "comments": "Sold for $ 21 mill."
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "BULKERS",
         "tag": "M/V",
         "vessel": "SALTWIND EXPLORER",
@@ -245,8 +245,8 @@
         "comments": "Sold for $ 16.5 mill."
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "BULKERS",
         "tag": "M/V",
         "vessel": "YASA UNSAL SUNAR",
@@ -264,8 +264,8 @@
         "comments": "Sold for $ 15.1 mill."
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "BULKERS",
         "tag": "M/V",
         "vessel": "SPAR GEMINI",
@@ -283,8 +283,8 @@
         "comments": "Sold for $ 12.4 mill to Chinese buyers."
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "BULKERS",
         "tag": "M/V",
         "vessel": "FUGA",
@@ -302,8 +302,8 @@
         "comments": "semi-box holds."
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "BULKERS",
         "tag": "M/V",
         "vessel": "MOUNTPARK",
@@ -321,8 +321,8 @@
         "comments": "eco m/e, OHBS."
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "BULKERS",
         "tag": "M/V",
         "vessel": "UNION TAYLOR",
@@ -340,8 +340,8 @@
         "comments": "eco m/e."
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "BULKERS",
         "tag": "M/V",
         "vessel": "AM PRESTIGE",
@@ -359,8 +359,8 @@
         "comments": "Sold for $ 12.5 mill. L I O N S H I P B R O K E R S W E E K L Y M A R K E T R E P O R T C O N T/ M P P/ T W E E N"
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "BULKERS",
         "tag": "C/V",
         "vessel": "TAIZHOU JIANXING HULL JX4350TEU-10",
@@ -378,8 +378,8 @@
         "comments": "resale."
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "BULKERS",
         "tag": "C/V",
         "vessel": "NEW DAYANG HULLS NDY2007 & NDY2008",
@@ -397,8 +397,8 @@
         "comments": "resales, delivery January 2028."
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "BULKERS",
         "tag": "C/V",
         "vessel": "EVRIDIKI G",
@@ -416,8 +416,8 @@
         "comments": "Sold for $ 26 mill to Swiss buyers (clients of MSC). T A N K E R S"
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "BULKERS",
         "tag": "M/T",
         "vessel": "VADIN",
@@ -435,8 +435,8 @@
         "comments": "Sellers bought her for $60 mill as KASAGISAN in April 2026."
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "BULKERS",
         "tag": "M/T",
         "vessel": "MOUNT FRONTIER, MOUNT HORIZON, MOUNT SUMMIT & MOUNT VISION",
@@ -454,8 +454,8 @@
         "comments": "scrubber fitted, MOUNT VISION has employment through 3Q 2031, MOUNT HORIZON through max 1Q 2028, the other two unfixed."
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "BULKERS",
         "tag": "M/T",
         "vessel": "ADVANTAGE SPICE",
@@ -473,8 +473,8 @@
         "comments": "Sold for $ 97.5 mill."
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "BULKERS",
         "tag": "M/T",
         "vessel": "ZOUZOU N.",
@@ -492,8 +492,8 @@
         "comments": "scrubber fitted."
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "BULKERS",
         "tag": "M/T",
         "vessel": "KASTOS",
@@ -511,8 +511,8 @@
         "comments": "scrubber fitted, en bloc with COPENHAGEN STAR, also reported at $ 125 mill previously."
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "BULKERS",
         "tag": "M/T",
         "vessel": "AFRA MARE",
@@ -530,8 +530,8 @@
         "comments": "dd passed 09/2026, scrubber fitted."
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "BULKERS",
         "tag": "M/T",
         "vessel": "ASEAN FORWARDER",
@@ -549,8 +549,8 @@
         "comments": "Sellers paid US$ 12.5 million for her in February 2026. G AS"
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "BULKERS",
         "tag": "M/T",
         "vessel": "CYH YONGCHUN, CYH FUJIAN & CYH QUANZHOU",
@@ -568,8 +568,8 @@
         "comments": "Sold for $ 100 mill each en bloc to UAE based buyers."
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "BULKERS",
         "tag": "M/T",
         "vessel": "ROSE GAS",
@@ -589,8 +589,8 @@
     ],
     "demolition_sales": [
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "DEMOLITION",
         "sub_section": null,
         "tag": "M/V",
@@ -606,8 +606,8 @@
         "comments": "logs fitted."
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "DEMOLITION",
         "sub_section": null,
         "tag": "M/V",
@@ -623,8 +623,8 @@
         "comments": "Demo for $ 446 per LT to BANGLADESH. G E N E R A L C A R G O"
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "DEMOLITION",
         "sub_section": null,
         "tag": "M/V",
@@ -640,8 +640,8 @@
         "comments": "Demo for $ 530 per LT to BANGLADESH including bunkers. L I O N S H I P B R O K E R S W E E K L Y M A R K E T R E P O R T L P G"
       },
       {
-        "issue_date": null,
-        "report_week": 0,
+        "issue_date": "2026-10-23",
+        "report_week": 43,
         "section": "DEMOLITION",
         "sub_section": null,
         "tag": "M/T",

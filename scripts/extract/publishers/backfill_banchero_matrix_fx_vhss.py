@@ -73,7 +73,8 @@ def cells(line):
     return [c.strip() for c in line.strip().strip("|").split("|")]
 
 
-def parse_gfm_table(lines, header_pred):
+def parse_gfm_table(lines, header_pred, rows_pred=None):
+    """The first GFM table whose header passes header_pred (and whose rows pass rows_pred, when given)."""
     for i, ln in enumerate(lines):
         if not ln.startswith("|"):
             continue
@@ -89,6 +90,8 @@ def parse_gfm_table(lines, header_pred):
             if not ln2.startswith("|"):
                 break
             rows.append(cells(ln2))
+        if rows_pred is not None and not rows_pred(rows):
+            continue
         return hdr, rows
     return None, []
 
@@ -162,7 +165,10 @@ def parse_doc(md_path):
     out = {"secondhand_matrix": [], "vhss": [], "fx": [], "fixtures": []}
 
     h, rows = parse_gfm_table(
-        lines, lambda c: c and c[0].upper() in ("VESSEL CLASS", "CATEGORY") and any(x.upper() == "W-O-W" for x in c))
+        lines, lambda c: c and c[0].upper() in ("VESSEL CLASS", "CATEGORY") and any(x.upper() == "W-O-W" for x in c),
+        # "Category" also heads the product tanker tables (2026 W40): the matrix prices vessel classes in usd mln
+        lambda rows: any(len(r) > 1 and strip_label(r[0]).lower().startswith(VCLASSES)
+                         and r[1].strip().lower() == "usd mln" for r in rows))
     for r in rows:
         vt = strip_label(r[0])
         if not vt.lower().startswith(VCLASSES):

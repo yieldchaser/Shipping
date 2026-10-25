@@ -1333,7 +1333,8 @@ def process_single_pdf(
         "pages": pages_count,
         "issue_date": issue_date,
         "report_week": wk,
-        "parsed": parsed
+        "parsed": parsed,
+        "tables_path": str(sidecar_path),
     }
 
 
