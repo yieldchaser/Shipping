@@ -21,12 +21,14 @@ Pipeline (free, local; RapidOCR = PP-OCR on ONNX runtime; no paid API is ever ca
      A two-digit value needs ink as wide as one. A cell that is not decided is left blank and the image is
      'partial' instead of failing as a whole. Checked by eye on 468 cells of six 2026 images: 367 read, 101 blank,
      0 wrong (policy 1: wrong values on 2 of the 6).
-  5. Second reader (reader 2.4.1): every image read under policy 2 is also read by Nace NDI Parse (paid, ~2 credits; upscaled x3 into a one-page PDF; skipped without a NACE_API_KEY or with
-     VV_NACE=0). Where Nace gives a value, that value is printed only if >= 2 of the five local renders read the
-     same, and nothing else: the two readers fail differently, so agreement is the check. Where Nace gives none the
-     policy-2 decision stands. Nace's date label is used only when the local renders cannot read it. Same 468
-     cells: Nace alone 468 right; combined 432 read, 36 blank, 0 wrong. On 84 repaired 2026 images policy 2 had
-     decided 4 values Nace contradicted; by eye Nace was right on all 4 (the cells are now blank).
+  5. Second reader (reader 2.4.1): every image read under policy 2 is also read by Nace NDI Parse (paid, ~2
+     credits; upscaled x3 into a one-page PDF, one retry at x4 when that gives no usable table; skipped without a
+     NACE_API_KEY or with VV_NACE=0). Nace's value is confirmed when >= 2 of the five local renders read the same.
+     Eye check, 468 cells: Nace alone 468 right; confirmed 432, 0 wrong. On 84 repaired 2026 images policy 2 had
+     decided 4 values Nace contradicted; by eye Nace was right on all 4.
+  6. Reader 2.5.0 (owner, 2026-10-25: a blank in a time series is worse than one reader's value): an unconfirmed
+     Nace value is printed too, marked as Nace's alone in the MD; the sign is the text colour's. An image whose grid
+     the local reader cannot lay out gets Nace's table alone. Where Nace gives no value, policy 2 decides.
 """
 from __future__ import annotations
 
@@ -37,12 +39,12 @@ import os
 import re
 import shutil
 import tempfile
-from dataclasses import asdict, dataclass, field
+from dataclasses import asdict, dataclass, field, replace
 from datetime import date
 from pathlib import Path
 from statistics import median
 
-MATRIX_VERSION = "2.4.1"
+MATRIX_VERSION = "2.5.3"
 GROUPS = ("Tankers", "Bulkers", "Containers")
 COLUMNS: tuple[tuple[str, str], ...] = (
     ("Tankers", "VLCC"), ("Tankers", "Suez"), ("Tankers", "Afra"), ("Tankers", "LR1"), ("Tankers", "MR"),
@@ -329,6 +331,7 @@ class MatrixResult:
     val_policy: int = 1             # value policy the reads were collected for (cached results keep theirs)
     nace_md: str = ""               # second reader's markdown (Nace NDI Parse), "" when not run
     nace_v: int = 0                 # NACE_V of that read; 0 = not run
+    grid_error: str = ""            # the local reader's layout failure ("grid: ..."), kept across finalize() calls
 
     def to_json(self) -> dict:
         return asdict(self)
@@ -502,10 +505,12 @@ def decide_value2(br: BandRead) -> tuple[str | None, str]:
     return top, ""
 
 
-NACE_V = 1                    # second-reader recipe: image upscaled x3 (Lanczos) into a one-page PDF, parse_mode high
-NACE_UPSCALE = 3
+NACE_V = 2                    # 1: image upscaled x3 (Lanczos) into a one-page PDF, parse_mode high; 2: + one retry
+NACE_UPSCALE = 3              #    at x4 when the x3 read gave no usable table (translated or garbled)
+NACE_RETRY_UPSCALE = 4
 NACE_MIN_VOTES = 2            # of the five VAL_PLAN renders that must read the second reader's value
-HEADER_MIN_MATCH = 10
+CJK_AGE = ("船龄", "年份", "年限", "船齡")
+HEADER_MIN_MATCH = 5            # of 13: the layout is fixed and exactly six value rows are required
 _NACE_PCT_RE = re.compile(r"([+-])?(\d{1,2})\.(\d)%")
 
 
@@ -537,7 +542,7 @@ def _html_tables_as_rows(md: str) -> str:
 def nace_values(md: str) -> dict[tuple[int, str, str], str]:
     """The second reader's markdown -> {(age, group, column): '+7.1%' | '0.0%' | 'N/A'}. The table is found by its
     column header row ('Year' / 'Age' / blank, then >= HEADER_MIN_MATCH of the thirteen column names in the matrix's
-    order: the reader misspells one now and then, 'Afro', 'Emax'). Its value rows are the rows with '%' in them (the
+    order: the reader misspells some now and then, 'Afro', 'Emax', 'Supex'; a Chinese header is taken by position). Its value rows are the rows with '%' in them (the
     benchmark row under each has none); the layout is fixed, so there must be exactly six and they take the ages in
     order (an HTML table is read the same way). A row label that is an age must be that age (a label the reader
     garbles, '9' or '#', is ignored). A cell that is not a clean percentage is left out; a table that does not fit
@@ -552,8 +557,10 @@ def nace_values(md: str) -> dict[tuple[int, str, str], str]:
             cells.pop()                       # the second reader sometimes adds an empty trailing column
         if len(cells) != len(COLUMNS) + 1:
             continue
-        if (rows is None and _norm_header(cells[0]) in ("year", "age", "")
-                and sum(_norm_header(c) == w for c, w in zip(cells[1:], want)) >= HEADER_MIN_MATCH):
+        if rows is None and (
+                (_norm_header(cells[0]) in ("year", "age", "")
+                 and sum(_norm_header(c) == w for c, w in zip(cells[1:], want)) >= HEADER_MIN_MATCH)
+                or cells[0] in CJK_AGE):     # the reader sometimes answers in Chinese: the columns keep their order
             rows = []
         elif rows is not None and "%" in "".join(cells[1:]):
             rows.append(cells)
@@ -581,17 +588,23 @@ def nace_date(md: str) -> str | None:
     return d.isoformat() if d else None
 
 
+SINGLE = "single reader (Nace)"    # Cell.notes prefix: the value was not confirmed by the local renders
+
+
 def decide_value3(br: BandRead, nace_val: str | None) -> tuple[str | None, str]:
-    """Policy 3: the second reader's value, if >= NACE_MIN_VOTES of the five local renders read it too (and its sign
-    is the colour's); without a second-reader value, policy 2."""
+    """Policy 3: the second reader's value. Confirmed when >= NACE_MIN_VOTES of the five local renders read it too;
+    otherwise it is still given (owner 2026-10-25: a blank in a time series is worse than one reader's value; Nace
+    was right on 468/468 eye-checked cells and on every cell where it contradicted the renders) and why = SINGLE.
+    The sign is the text colour's (a red cell Nace reads as '+0.4%' is -0.4%); a non-zero value on a neutral-colour
+    cell is left blank. Without a second-reader value, policy 2."""
     if nace_val is None:
         return decide_value2(br)
     if nace_val not in ("N/A", "0.0%") and nace_val[0] != br.sign:
-        return None, "the second reader's sign is not the text colour's"
+        if not br.sign:
+            return None, "non-zero value with neutral colour (sign unresolved)"
+        nace_val = br.sign + nace_val.lstrip("+-")
     n = sum(1 for r in br.reads[:len(VAL_PLAN)] if pct_reading(r[2], br.sign, br.wide)[0] == nace_val)
-    if n < NACE_MIN_VOTES:
-        return None, "the second reader and the local renders do not agree"
-    return nace_val, ""
+    return nace_val, "" if n >= NACE_MIN_VOTES else SINGLE
 
 
 def decide_band(br: BandRead, val_policy: int = 1) -> tuple[str | None, str]:
@@ -677,8 +690,12 @@ def cells_from_bands(bands: list[BandRead], val_policy: int = 1,
             if vb is None or rb is None:
                 continue
             cell = Cell(age=age, group=grp, column=col)
-            if not vb.reads:
-                cell.problems.append("no value glyphs")
+            if not vb.reads and nace and nace.get((age, grp, col)) and val_policy >= 2:
+                cell.pct_text = nace[(age, grp, col)]
+                cell.pct = None if cell.pct_text == "N/A" else float(cell.pct_text[:-1]) + 0.0
+                cell.notes.append(SINGLE)
+            elif not vb.reads:
+                cell.problems.append("value not read: no value glyphs")
             else:
                 if nace and val_policy >= 2:
                     top, why = decide_value3(vb, nace.get((age, grp, col)))
@@ -690,6 +707,8 @@ def cells_from_bands(bands: list[BandRead], val_policy: int = 1,
                 else:
                     cell.pct_text = top
                     cell.pct = None if top == "N/A" else float(top[:-1]) + 0.0
+                    if why == SINGLE:
+                        cell.notes.append(SINGLE)
             if not rb.reads:
                 cell.notes.append("no benchmark glyphs")
             else:
@@ -805,17 +824,28 @@ def apply_corrections(res: MatrixResult, corrections: dict | None = None) -> Non
 def finalize(res: MatrixResult, article_date: str | None = None) -> MatrixResult:
     """Apply the decision policy to the stored raw reads. An image is OK only if every percentage cell is read,
     and (when article_date is given) its date label equals the article date."""
-    res.errors = [e for e in res.errors if e.startswith("grid:")]
-    res.warnings = [w for w in res.warnings if "date label" not in w]
-    if res.errors:
-        res.status = "failed"
+    grid = [e for e in res.errors if e.startswith("grid:")]
+    res.grid_error = grid[0] if grid else res.grid_error
+    res.warnings = [w for w in res.warnings
+                    if "date label" not in w and not w.startswith(SINGLE) and not w.startswith(INVERTED)]
+    if res.grid_error and res.nace_md and res.val_policy >= 2 and nace_values(res.nace_md):
+        return _finalize_single_reader(res, article_date)
+    if res.grid_error:
+        res.errors, res.cells, res.status = [res.grid_error], [], "failed"
         return res
+    res.errors = []
     res.image_date = decide_date(res.date_reads)
     if res.image_date is None and res.nace_md and res.val_policy >= 2:
         res.image_date = nace_date(res.nace_md)
         if res.image_date:
             res.warnings.append("date label read by the second reader (Nace) only")
-    res.cells = cells_from_bands(res.bands, res.val_policy, nace_values(res.nace_md) if res.nace_md else None)
+    nace = nace_values(res.nace_md) if res.nace_md else None
+    bands = res.bands
+    if colours_inverted(bands, nace):
+        bands = [replace(b, sign={"+": "-", "-": "+"}.get(b.sign, b.sign)) for b in bands]
+        res.warnings.append(f"{INVERTED}: this is the Chinese edition (rises red, falls green); the signs follow "
+                            "its printed glyphs")
+    res.cells = cells_from_bands(bands, res.val_policy, nace)
     res.warnings = [w for w in res.warnings if not w.startswith(CORRECTED)]
     apply_corrections(res)
     res.errors = validate_cells(res.cells)
@@ -831,6 +861,59 @@ def finalize(res: MatrixResult, article_date: str | None = None) -> MatrixResult
     elif article_date is not None and res.image_date != article_date:
         res.warnings.append(f"image date label {res.image_date} differs from the issue date {article_date}; "
                             "the table below is that of the image's own date")
+    return _set_status(res)
+
+
+INVERTED = "colour convention inverted"
+_SIGN_GLYPH_RE = re.compile(r"^\s*([+\-−–])\d")
+
+
+def colours_inverted(bands: list[BandRead], nace: dict | None) -> bool:
+    """The Chinese edition colours rises red and falls green. Count the printed sign glyphs (the second reader's
+    values and every local render that kept one) against the colour sign: inverted when they mostly disagree
+    (seven 2024-26 images: 0 agree / 300-445 disagree each; every other image agrees)."""
+    agree = disagree = 0
+    for b in bands:
+        if b.kind != "val" or not b.sign:
+            continue
+        signs = [r[2] for r in b.reads]
+        v = (nace or {}).get((b.age, b.group, b.column))
+        if v and v[0] in "+-":
+            signs.append(v)
+        for t in signs:
+            m = _SIGN_GLYPH_RE.match(t)
+            if m:
+                same = ("-" if m.group(1) in "-−–" else "+") == b.sign
+                agree, disagree = agree + same, disagree + (not same)
+    return disagree >= 20 and disagree > 4 * agree
+
+
+def _finalize_single_reader(res: MatrixResult, article_date: str | None) -> MatrixResult:
+    """The local reader could not lay out the grid: the table is Nace's alone (every value marked SINGLE, the
+    benchmark sizes left blank). The date label must still be readable and match the issue like any other table."""
+    vals = nace_values(res.nace_md)
+    res.errors, res.cells = [], []
+    for age in AGES:
+        for grp, col in COLUMNS:
+            cell = Cell(age=age, group=grp, column=col)
+            v = vals.get((age, grp, col))
+            if v is None:
+                cell.problems.append("value not read: not in the second reader's table")
+            else:
+                cell.pct_text, cell.pct = v, None if v == "N/A" else float(v[:-1]) + 0.0
+                cell.notes.append(SINGLE)
+            res.cells.append(cell)
+    res.image_date = decide_date(res.date_reads) or nace_date(res.nace_md)
+    apply_corrections(res)
+    res.errors = validate_cells(res.cells)
+    if article_date is not None and res.image_date is None:
+        res.errors.append("image date label None could not be read")
+    elif (article_date is not None and res.image_date != article_date
+          and not stale_by_whole_weeks(res.image_date, article_date)):
+        res.errors.append("date label unreliable: it differs from the issue date by something other than "
+                          "1-2 whole weeks")
+    res.warnings.append(f"{SINGLE}: the local reader could not lay out this image ({res.grid_error[6:]}); every value is "
+                        "Nace's alone and the benchmark sizes are not given")
     return _set_status(res)
 
 
@@ -894,8 +977,8 @@ def _redo_date_reads(path: Path, res: MatrixResult) -> bool:
         return False
 
 
-def nace_read(path: Path) -> str | None:
-    """The second reader: Nace NDI Parse of the image (upscaled NACE_UPSCALE x into a one-page PDF). None when it
+def nace_read(path: Path, upscale: int = NACE_UPSCALE) -> str | None:
+    """The second reader: Nace NDI Parse of the image (upscaled `upscale` x into a one-page PDF). None when it
     is switched off (VV_NACE=0), has no key, or fails: the caller then keeps policy 2 and retries on a later run."""
     if os.environ.get("VV_NACE", "1") == "0":
         return None
@@ -908,7 +991,7 @@ def nace_read(path: Path) -> str | None:
         from PIL import Image
         tmp = Path(tempfile.mkdtemp(prefix="vv_nace_"))
         im = Image.open(path).convert("RGB")
-        big = im.resize((im.width * NACE_UPSCALE, im.height * NACE_UPSCALE), Image.LANCZOS)
+        big = im.resize((im.width * upscale, im.height * upscale), Image.LANCZOS)
         png = tmp / "matrix.png"
         big.save(png)
         doc = pymupdf.open()
@@ -928,7 +1011,18 @@ def nace_read(path: Path) -> str | None:
 
 def _add_second_reader(path: Path, res: MatrixResult, cache_file: Path | None) -> None:
     """Read the image with Nace once (policy >= 2 reads, a grid, not read yet) and cache the markdown."""
-    if res.nace_v or res.val_policy < 2 or any(e.startswith("grid:") for e in res.errors):
+    if res.val_policy < 2 or (res.nace_v and (res.nace_v >= NACE_V or nace_values(res.nace_md))):
+        return
+    if res.nace_v:                      # an older read gave no usable table (translated / garbled): read again
+        md = nace_read(path, NACE_RETRY_UPSCALE)
+        if md is None or not nace_values(md):
+            res.nace_v = NACE_V           # tried; keep the old read and do not pay again
+            if cache_file is not None:
+                cache_file.write_text(json.dumps(res.to_json(), ensure_ascii=False), encoding="utf-8")
+            return
+        res.nace_md, res.nace_v = md, NACE_V
+        if cache_file is not None:
+            cache_file.write_text(json.dumps(res.to_json(), ensure_ascii=False), encoding="utf-8")
         return
     md = nace_read(path)
     if md is None:

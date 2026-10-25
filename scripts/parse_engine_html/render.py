@@ -7,7 +7,7 @@ from datetime import datetime, timezone
 
 from scripts.parse_engine_html import PARSER_NAME, PARSER_VERSION
 from scripts.parse_engine_html.html_extract import Article
-from scripts.parse_engine_html.matrix import AGES, COLUMNS, CORRECTED, MATRIX_VERSION, MatrixResult
+from scripts.parse_engine_html.matrix import AGES, COLUMNS, CORRECTED, MATRIX_VERSION, SINGLE, MatrixResult
 
 MATRIX_READER = "rapidocr_onnxruntime (PP-OCR, local) matrix reader " + MATRIX_VERSION
 MATRIX_READER_NACE = ("rapidocr_onnxruntime (PP-OCR, local) + Nace NDI Parse (second reader) matrix reader "
@@ -109,7 +109,8 @@ def matrix_rows(ctx: IssueContext) -> tuple[list[str], list[list[str]]]:
         row = [str(age)]
         for g, c in COLUMNS:
             cell = by[(age, g, c)]
-            row.append(f"{cell.pct_text} ({cell.ref_text})" if cell.ref_text else cell.pct_text)
+            pct = cell.pct_text + ("†" if cell.pct_text and SINGLE in cell.notes else "")
+            row.append(f"{pct} ({cell.ref_text})" if cell.ref_text else pct)
         rows.append(row)
     return header, rows
 
@@ -207,6 +208,10 @@ def render_markdown(ctx: IssueContext) -> str:
                 "could not be read with agreement between independent renders.", ""]
         header, rows = matrix_rows(ctx)
         out += md_table(header, rows) + [""]
+        single = [c for c in m.cells if c.pct_text and SINGLE in c.notes]
+        if single:
+            out += [f"† {len(single)} of {len(m.cells)} values are Nace's reading alone: the local renders of the image "
+                    "did not confirm them.", ""]
         blank = [c for c in m.cells if not c.pct_text and not any(n.startswith(CORRECTED) for n in c.notes)]
         if blank:
             readers = ("the two independent readers (local renders and Nace) did" if m.nace_md

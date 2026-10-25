@@ -329,22 +329,26 @@ def test_second_reader_table_and_date():
     assert nace_date(_NACE_MD) == "2026-03-07"
     # one misspelt header word is tolerated (the layout is fixed); a table that is not the matrix is not used
     assert nace_values(_NACE_MD.replace("| Afra |", "| Afro |")) == vals
-    assert nace_values(_NACE_MD.replace("| VLCC | Suez | Afra | LRI |", "| A | B | C | D |")) == {}
+    assert nace_values(_NACE_MD.replace("| VLCC | Suez | Afra | LRI | MR | Cape | Pmax | Supra | Handy |",
+                                       "| A | B | C | D | E | F | G | H | I |")) == {}
     # rows take the ages by position; a garbled age label is ignored, a wrong age refuses the table
     assert nace_values(_NACE_MD.replace("| 0 | +0.4%", "| # | +0.4%")) == vals
     assert nace_values(_NACE_MD.replace("| 5 | +0.4%", "| 10 | +0.4%")) == {}
     assert nace_values(_NACE_MD.replace("+0.4%", "+0,4%")) == vals                # decimal comma
+    zh = _NACE_MD.replace("| Year | VLCC |", "| 船龄 | 超大型 |")                     # a Chinese header: by position
+    assert nace_values(zh.replace("Suez", "苏伊士型").replace("Afra", "阿芙拉型")) == vals
     # an empty trailing column is ignored
     assert nace_values(_NACE_MD.replace(" |\n", " |  |\n")) == vals
 
 
-def test_value_policy3_second_reader_needs_two_local_renders():
-    from scripts.parse_engine_html.matrix import decide_value3
-    assert decide_value3(_v2(["+0.4%", "x", "+0.4%", "y", "z"]), "+0.4%")[0] == "+0.4%"
-    # the serif '+7.1' every render read as '2.1': the second reader's value is not confirmed -> blank, never 2.1
-    assert decide_value3(_v2(["+2.1%"] * 4 + ["+7.1%"]), "+7.1%")[0] is None
-    # sign must be the colour's
-    assert decide_value3(_v2(["-0.4%"] * 5, "-"), "+0.4%")[0] is None
+def test_value_policy3_second_reader_confirmed_or_marked_single():
+    from scripts.parse_engine_html.matrix import SINGLE, decide_value3
+    assert decide_value3(_v2(["+0.4%", "x", "+0.4%", "y", "z"]), "+0.4%") == ("+0.4%", "")
+    # the serif '+7.1' every render read as '2.1': Nace's value is given (never 2.1), marked as Nace's alone
+    assert decide_value3(_v2(["+2.1%"] * 4 + ["+7.1%"]), "+7.1%") == ("+7.1%", SINGLE)
+    # the sign is the colour's; a non-zero value on a neutral-colour cell stays blank
+    assert decide_value3(_v2(["-0.4%"] * 5, "-"), "+0.4%") == ("-0.4%", "")
+    assert decide_value3(_v2(["0.4%"] * 5, ""), "+0.4%")[0] is None
     # without a second-reader value: policy 2
     assert decide_value3(_v2(["+0.5%"] * 5), None)[0] == "+0.5%"
 
@@ -354,9 +358,20 @@ def test_second_reader_fills_cells_the_renders_left_blank():
     assert finalize(res, "2026-03-07").status == "failed"
     res.nace_md, res.nace_v = _NACE_MD, 1
     res = finalize(res, "2026-03-07")
-    assert res.status == "partial"        # Fmax: the second reader says N/A, the renders do not
+    assert res.status == "ok"             # Fmax: the second reader says N/A, the renders do not -> N/A, single
     assert all(c.pct == 0.4 for c in res.cells if c.column != "Fmax" or c.group != "Containers")
-    assert all(not c.pct_text for c in res.cells if (c.group, c.column) == ("Containers", "Fmax"))
+    fmax = [c for c in res.cells if (c.group, c.column) == ("Containers", "Fmax")]
+    assert all(c.pct_text == "N/A" and "single reader (Nace)" in c.notes for c in fmax)
+
+
+def test_grid_failure_gets_the_second_readers_table_alone():
+    res = MatrixResult("failed", "img.jpg", "sha", errors=["grid: first percentage line has no coloured ink"],
+                       val_policy=2, nace_md=_NACE_MD, nace_v=2)
+    res = finalize(res, "2026-03-07")
+    assert res.status == "ok" and res.image_date == "2026-03-07" and len(res.cells) == 78
+    assert all("single reader (Nace)" in c.notes and not c.ref_text for c in res.cells)
+    assert finalize(res, "2026-03-07").status == "ok"              # finalize can be run again
+    assert finalize(res, "2026-03-10").status == "failed"          # a date that is not the issue's still fails
 
 
 def test_eye_verified_corrections_replace_or_blank_cells():
@@ -372,3 +387,15 @@ def test_eye_verified_corrections_replace_or_blank_cells():
     assert not validate_cells(res.cells)            # a corrected blank is not an 'empty value' error
     apply_corrections(res, {})                      # another image: nothing changes
     assert by[(10, "Containers", "Post Pmax")].pct == 0.8
+
+
+def test_chinese_edition_colours_are_inverted():
+    from scripts.parse_engine_html.matrix import INVERTED
+    # every value printed '-0.4%' in green (the Chinese edition colours falls green)
+    res = _result2(lambda i: ["-0.4%", "0.4%", "-0.4%", "0.4%", "-0.4%"])
+    res = finalize(res, "2026-03-07")
+    assert all(c.pct == -0.4 for c in res.cells) and any(w.startswith(INVERTED) for w in res.warnings)
+    assert sum(w.startswith(INVERTED) for w in finalize(res, "2026-03-07").warnings) == 1
+    # the usual edition is left alone
+    res = finalize(_result2(lambda i: ["+0.4%"] * 5), "2026-03-07")
+    assert all(c.pct == 0.4 for c in res.cells) and not any(w.startswith(INVERTED) for w in res.warnings)
