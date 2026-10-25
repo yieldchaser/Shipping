@@ -76,7 +76,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W36_WK-36-24-CARRIERS_SP-
 | Recycling Index | TSRA | 12.071 |  |  | DOWN |
 | Recycling Index | BSRA |  |  |  |  |
 | Newbuilding Index | BNBI |  |  |  |  |
-| Newbuilding Index | DNBI | 5 |  |  | UP |
+| Newbuilding Index | DNBI | 5.000 |  |  | UP |
 | Newbuilding Index | TNBI | 7.703 |  |  | UP |
 | Baltic Dry Indices | BDI | 1919 | 198 | 1721 |  |
 | Baltic Dry Indices | BCI | 3248 | 493 | 2755 |  |
@@ -91,7 +91,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W36_WK-36-24-CARRIERS_SP-
 | CAPE 180K | 26935 | 4089 | 22846 |
 | TESS 82K | 11748 | -684 | 12432 |
 | LME 74K | 10412 | -684 | 11096 |
-| SUPRA 63K | 16293 |  |  |
+| SUPRA 63K | 16293 | - | - |
 | HANDY 38K | 13337 | -133 | 13470 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)

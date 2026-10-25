@@ -68,7 +68,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W01_WK-0102-25-CARRIERS_S
 | --- | --- | --- | --- | --- |
 | Tankers | Subcontinent | 15000 - 25000 | 471.86 | DOWN |
 | Containers | Subcontinent | 6000 - 10000 | N/A |  |
-| Bulkers | Subcontinent | 7000 - 12000 | 466.8 | UP |
+| Bulkers | Subcontinent | 7000 - 12000 | 466.80 | UP |
 
 ## Market & Baltic Indices
 

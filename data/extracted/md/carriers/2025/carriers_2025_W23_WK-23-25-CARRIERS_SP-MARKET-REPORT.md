@@ -59,9 +59,9 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W23_WK-23-25-CARRIERS_SP-
 
 | Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
 | --- | --- | --- | --- | --- |
-| Tankers | Subcontinent | 15000 - 25000 | 451.7 | DOWN |
+| Tankers | Subcontinent | 15000 - 25000 | 451.70 | DOWN |
 | Containers | Subcontinent | 6000 - 10000 | N/A |  |
-| Bulkers | Subcontinent | 7000 - 12000 | 442.2 | DOWN |
+| Bulkers | Subcontinent | 7000 - 12000 | 442.20 | DOWN |
 
 ## Market & Baltic Indices
 

@@ -64,7 +64,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W21_WK-21-26-CARRIERS_SP-
 | Tankers | Vlcc | 305000 | 137.692 | UP |
 | Tankers | Aframax | 115000 | 79.115 | UP |
 | Tankers | Mr Product | 51000 | 47.883 | UP |
-| Bulkers | Capesize | 180000 | 69.727 | UP |
+| Bulkers | Capesize | 180000 | 69.727 | DOWN |
 | Bulkers | Panamax | 82500 | 36.804 | UP |
 | Bulkers | Ultramax | 63500 | 36.869 | UP |
 
@@ -72,9 +72,9 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W21_WK-21-26-CARRIERS_SP-
 
 | Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
 | --- | --- | --- | --- | --- |
-| Tankers | Subcontinent | 15000 - 25000 | 461.63 | UP |
-| Containers | Subcontinent | 6000 - 10000 |  |  |
-| Bulkers | Subcontinent | 7000 - 12000 | 450.93 | UP |
+| Tankers | Subcontinent | 15000 - 25000 | 461.63 | DOWN |
+| Containers | Subcontinent | 6000 - 10000 | N/A |  |
+| Bulkers | Subcontinent | 7000 - 12000 | 450.93 | DOWN |
 
 ## Market & Baltic Indices
 

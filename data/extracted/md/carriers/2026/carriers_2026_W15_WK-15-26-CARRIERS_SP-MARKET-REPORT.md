@@ -75,7 +75,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W15_WK-15-26-CARRIERS_SP-
 | --- | --- | --- | --- | --- |
 | Tankers | Subcontinent | 15000 - 25000 | 456.52 | UP |
 | Containers | Subcontinent | 6000 - 10000 | N/A |  |
-| Bulkers | Subcontinent | 7000 - 12000 | 446.3 | UP |
+| Bulkers | Subcontinent | 7000 - 12000 | 446.30 | UP |
 
 ## Market & Baltic Indices
 
@@ -88,7 +88,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W15_WK-15-26-CARRIERS_SP-
 | Recycling Index | TSRA | 11.124 |  |  | UP |
 | Recycling Index | BSRA |  |  |  |  |
 | Newbuilding Index | BNBI |  |  |  |  |
-| Newbuilding Index | DNBI | 5 |  |  | UP |
+| Newbuilding Index | DNBI | 5.000 |  |  | UP |
 | Newbuilding Index | TNBI | 7.838 |  |  | UP |
 | Baltic Dry Indices | BDI | 2250 | 155 | 2095 |  |
 | Baltic Dry Indices | BCI | 3437 | 289 | 3148 |  |

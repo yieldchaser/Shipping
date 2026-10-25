@@ -65,6 +65,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W13_WK-13-24-CARRIERS_SP-
 | Tankers | Mr Product | 51000 | 45.469 | UP |
 | Bulkers | Capesize | 180000 | 56.143 | UP |
 | Bulkers | Panamax | 82500 | 36.057 | UP |
+| Bulkers | Supramax | 58328 | 27.645 | UP |
 
 ## BDA Baltic Demolition Assessments
 

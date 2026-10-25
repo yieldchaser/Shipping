@@ -62,9 +62,9 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W35_WK-35-24-CARRIERS_SP-
 
 | Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
 | --- | --- | --- | --- | --- |
-| Tankers | Subcontinent | 15000 - 25000 | 500.3 | DOWN |
+| Tankers | Subcontinent | 15000 - 25000 | 500.30 | DOWN |
 | Containers | Subcontinent | 6000 - 10000 | N/A |  |
-| Bulkers | Subcontinent | 7000 - 12000 | 492.3 | DOWN |
+| Bulkers | Subcontinent | 7000 - 12000 | 492.30 | DOWN |
 
 ## Market & Baltic Indices
 
@@ -77,7 +77,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W35_WK-35-24-CARRIERS_SP-
 | Recycling Index | TSRA | 12.176 |  |  | DOWN |
 | Recycling Index | BSRA |  |  |  |  |
 | Newbuilding Index | BNBI |  |  |  |  |
-| Newbuilding Index | DNBI | 5 |  |  | UP |
+| Newbuilding Index | DNBI | 5.000 |  |  | UP |
 | Newbuilding Index | TNBI | 7.703 |  |  | UP |
 | Baltic Dry Indices | BDI | 1721 | 13 | 1708 |  |
 | Baltic Dry Indices | BCI | 2755 | 161 | 2594 |  |

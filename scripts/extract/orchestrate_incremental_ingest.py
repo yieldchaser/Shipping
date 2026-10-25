@@ -579,83 +579,12 @@ def extract_carriers(pdf_path: Path, dry_run: bool = False) -> Dict[str, Any]:
     year_str = issue_date[:4] if issue_date and issue_date[:4].isdigit() else "2026"
     doc = fitz.open(pdf_path)
 
-    doc_sales, doc_demo, doc_nb, doc_bspa, doc_bda = [], [], [], [], []
-    doc_indices, doc_weighted, doc_tc_period, doc_tanker_tce = [], [], [], []
-    substantive_pages = []
-
-    for pno in range(len(doc)):
-        page = doc[pno]
-        lines = rcc.cluster_page_words_into_lines(page)
-        anchors = {}
-        for y, ln in lines:
-            s = " ".join(w[4] for w in ln).lower()
-            if "bulk carriers reported sold" in s and "bulk" not in anchors:
-                anchors["bulk"] = y
-            elif ("tankers / lpg" in s or "tankers reported sold" in s) and "tanker_sp" not in anchors:
-                anchors["tanker_sp"] = y
-            elif ("container / ro-ro" in s or "container reported sold" in s or "general cargo vessels" in s) and "container" not in anchors:
-                anchors["container"] = y
-            elif "demolition market" in s and "demo" not in anchors:
-                anchors["demo"] = y
-            elif "newbuilding market" in s and "newbuilding" not in anchors:
-                anchors["newbuilding"] = y
-            elif "bspa as reported" in s and "bspa" not in anchors:
-                anchors["bspa"] = y
-            elif "sale and purchase index" in s and "indices" not in anchors:
-                anchors["indices"] = y
-            elif ("dry bc baltic indices" in s or "baltic dry index" in s) and "bdi" not in anchors:
-                anchors["bdi"] = y
-            elif "weighted average routes" in s and "weighted" not in anchors:
-                anchors["weighted"] = y
-            elif ("time charter period" in s or "indicative ideas" in s) and "tc_period" not in anchors:
-                anchors["tc_period"] = y
-            elif ("tanker index" in s or "baltic dirty" in s) and "tanker_tce" not in anchors:
-                anchors["tanker_tce"] = y
-            elif ("greek-listed companies" in s or "quote of the day" in s or "traded in the us stock exchange" in s) and "greek" not in anchors:
-                anchors["greek"] = y
-
-        shipping_anchors = [k for k in anchors.keys() if k != "greek"]
-        if not shipping_anchors:
-            continue
-
-        substantive_pages.append(pno + 1)
-        sorted_anchors = sorted(anchors.items(), key=lambda x: x[1])
-
-        for a_idx, (sec_name, y_start) in enumerate(sorted_anchors):
-            if sec_name == "greek":
-                break
-            y_end = sorted_anchors[a_idx + 1][1] if a_idx + 1 < len(sorted_anchors) else 770.0
-            if sec_name == "bulk":
-                doc_sales.extend(rcc.extract_sp_section_rows(lines, y_start, y_end, "bulk_carriers", issue_date or "", report_week, pno + 1, pdf_path.name))
-            elif sec_name == "tanker_sp":
-                doc_sales.extend(rcc.extract_sp_section_rows(lines, y_start, y_end, "tankers", issue_date or "", report_week, pno + 1, pdf_path.name))
-            elif sec_name == "container":
-                doc_sales.extend(rcc.extract_sp_section_rows(lines, y_start, y_end, "containers", issue_date or "", report_week, pno + 1, pdf_path.name))
-            elif sec_name == "demo":
-                doc_demo.extend(rcc.extract_demolition_rows(lines, y_start, y_end, issue_date or "", report_week, pno + 1, pdf_path.name))
-            elif sec_name == "newbuilding":
-                doc_nb.extend(rcc.extract_newbuilding_rows(lines, y_start, y_end, issue_date or "", report_week, pno + 1, pdf_path.name))
-            elif sec_name == "bspa":
-                bspa_r, bda_r = rcc.extract_bspa_and_bda(page, y_start, y_end, issue_date or "", report_week, pdf_path.name)
-                doc_bspa.extend(bspa_r)
-                doc_bda.extend(bda_r)
-            elif sec_name == "indices":
-                doc_indices.extend(rcc.extract_shipping_indices(page, y_start, y_end, issue_date or "", report_week, pdf_path.name))
-            elif sec_name == "bdi":
-                doc_indices.extend(rcc.extract_baltic_dry(page, y_start, y_end, issue_date or "", report_week, pdf_path.name))
-            elif sec_name == "weighted":
-                doc_weighted.extend(rcc.extract_weighted_routes(page, y_start, y_end, issue_date or "", report_week, pdf_path.name))
-            elif sec_name == "tc_period":
-                doc_tc_period.extend(rcc.extract_tc_period(page, y_start, y_end, issue_date or "", report_week, pdf_path.name))
-            elif sec_name == "tanker_tce":
-                doc_tanker_tce.extend(rcc.extract_tanker_tce(page, y_start, y_end, issue_date or "", report_week, pdf_path.name))
-
-    doc_data_combined = {
-        "sales": doc_sales, "demolition": doc_demo, "newbuilding": doc_nb,
-        "bspa": doc_bspa, "bda": doc_bda, "indices": doc_indices,
-        "weighted_routes": doc_weighted, "tc_period": doc_tc_period, "tanker_tce": doc_tanker_tce
-    }
-    md_content = rcc.generate_markdown(stem, pdf_path, doc, substantive_pages, issue_date or "", report_week, doc_data_combined)
+    doc_data_combined, substantive_pages = rcc.extract_document(doc, pdf_path.name, issue_date, report_week)
+    doc_sales, doc_demo, doc_nb = doc_data_combined["sales"], doc_data_combined["demolition"], doc_data_combined["newbuilding"]
+    doc_bspa, doc_bda, doc_indices = doc_data_combined["bspa"], doc_data_combined["bda"], doc_data_combined["indices"]
+    doc_weighted, doc_tc_period = doc_data_combined["weighted_routes"], doc_data_combined["tc_period"]
+    doc_tanker_tce = doc_data_combined["tanker_tce"]
+    md_content = rcc.render_markdown(stem, pdf_path, doc, substantive_pages, issue_date or "", report_week, doc_data_combined)
     doc.close()
 
     target_dir = MD_DIR / "carriers" / year_str

@@ -20,7 +20,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W35_WK-35-25-CARRIERS_SP-
 | YASA NESLIHAN | BC | 82849 | 2005 | Tsuneishi Fukuyama | 10.60 | CHINESE |  |
 | DARYA SHANTI | BC | 82028 | 2016 | Jiangsu Newyangzi | 23.00 | EUROBULK |  |
 | SEA VENUS | BC | 80888 | 2013 | New Century Shipbuilding | 16.50 | CHINESE |  |
-| SEA ORPHEUS | BC | 79.52 | 2015 | Jinhai Heavy Industries | 18.50 | CHINESE |  |
+| SEA ORPHEUS | BC | 79.520 | 2015 | Jinhai Heavy Industries | 18.50 | CHINESE |  |
 | INTERSEA VOYAGER | BC | 74117 | 2001 | Imabari Shipyard | 4.50 | CHINESE |  |
 | PAVO BREEZE | BC | 64263 | 2023 | Shin Kurushima | 36.20 | UNDISCLOSED |  |
 | CP SHENZHEN | BC | 63540 | 2017 | Chengxi Shipyard | 24.50 | UNDISCLOSED |  |
@@ -63,7 +63,7 @@ source: `corpus/01-brokers/carriers/2025/carriers_2025_W35_WK-35-25-CARRIERS_SP-
 | --- | --- | --- | --- | --- |
 | Tankers | Subcontinent | 15000 - 25000 | 425.59 | UP |
 | Containers | Subcontinent | 6000 - 10000 | N/A |  |
-| Bulkers | Subcontinent | 7000 - 12000 | 415.9 | UP |
+| Bulkers | Subcontinent | 7000 - 12000 | 415.90 | UP |
 
 ## Market & Baltic Indices
 

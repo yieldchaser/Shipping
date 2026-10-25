@@ -18,21 +18,21 @@ source: `corpus/01-brokers/carriers/2023/carriers_2023_W51_WK-51-23-CARRIERS_SP-
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | BEKS BROWN | BC | 206.204 | 2005 | Imabari Shbldg - Saijo | 16.50 | UNDISCLOSED | SS 08/2025 |
 | DOUBLE MIRACLE | BC | 95.444 | 2014 | IMABARI SHBLDG - HIROS | 24.90 | GREEK | SS 06/2024 |
-| ULTRA TIGER | BC | 83.611 | 2009 | Sanoyas Hishino Meisho Corp Kurashiki OY | - 16.00 | UNDISCLOSED |  |
+| ULTRA TIGER | BC | 83.611 | 2009 | Sanoyas Hishino Meisho Corp - Kurashiki OY | 16.00 | UNDISCLOSED |  |
 | PRESINGE TRADER | BC | 81.115 | 2016 | Jiangsu New Hantong Ship Heavy | 25.50 | W. MARINE | SS 12/2026 |
 | MELODIA | BC | 80.554 | 2013 | JAPAN MARINE UTD - MAI | 22.00 | UNDISCLOSED |  |
 | PORTO LEONE | BC | 63.756 | 2014 | COSCO Zhoushan Shipyard Co Ltd | 21.75 | UNDISCLOSED | SS 06/2024 |
 | UNITY ENDEAVOUR | BC | 61.617 | 2014 | Nantong COSCO KHI Ship Eng | 23.00 | UNDISCLOSED | SS 08/2024 TC ATTACHED |
 | XING XI HAI | BC | 60.498 | 2017 | Mitsui Chiba Ichihara | 29.00 | SCANDINAVIAN | SS 01/2027 |
 | SUPRA ONIKI | BC | 57.022 | 2010 | Qingshan Shipyard | 11.00 | UNDISCLOSED | SS 07/2025 |
-| JIN SHENG | BC | 52.05 | 2006 | IHI Marine United - Yokohama | 10.43 | UNDISCLOSED | SS 09/2025 |
+| JIN SHENG | BC | 52.050 | 2006 | IHI Marine United - Yokohama | 10.43 | UNDISCLOSED | SS 09/2025 |
 | MERLIN | BC | 50.296 | 2001 | Mitsui Tamano | 6.00 | CHINESE | SS 2026 |
 | CLIPPER COPENHAGEN | BC | 37.852 | 2010 | Jiangsu Eastern Heavy Industry Co Ltd - Jingjiang JS | 11.00 | ARMATOR SHIPPING |  |
 | AEGEAN POWER | TANKER | 115.754 | 2007 | Samsung Heavy Inds - Geoje | 42.00 | UNDISCLOSED | SS 04/2027 |
 | S-TRUST | TANKER | 106.094 | 2005 | Hyundai Samho Heavy Industries | 32.00 | UNDISCLOSED | SS 11/2025 |
 | TTC VIDYUT | TANKER | 73.948 | 2008 | New Century Shipbuilding Co | 24.00 | UNDISCLOSED | SS DD 9/2023 |
-| CENTENNIAL | TANKER | 47.165 | 2008 | Onomichi Dockyard Co Ltd | 23.00 | UNDISCLOSED | SS 11/2028 EPOXY |
-| BLUE TRADER | TANKER | 37.27 | 2005 | Hyundai Mipo Dockyard Co Ltd | 17.80 | TURKISH | SS 03/2025 EPOXY IMO III |
+| CENTENNIAL MATSUYAMA | TANKER | 47.165 | 2008 | Onomichi Dockyard Co Ltd | 23.00 | UNDISCLOSED | SS 11/2028 EPOXY |
+| BLUE TRADER | TANKER | 37.270 | 2005 | Hyundai Mipo Dockyard Co Ltd | 17.80 | TURKISH | SS 03/2025 EPOXY IMO III |
 | XING HAI HUA 728 | TANKER | 17.204 | 2009 | Zhejiang Zhenxing Shiprepair | 8.00 | UNDISCLOSED |  |
 | ROTTERDAM BRIDGE | CV | 50.985 | 2001 | Samsung Heavy Inds - Geoje | 12.50 | UNDISCLOSED | SS 12/2027 |
 
@@ -140,3 +140,4 @@ source: `corpus/01-brokers/carriers/2023/carriers_2023_W51_WK-51-23-CARRIERS_SP-
 | SUEZ TCE | 46.165 | -2967 | 49.132 |
 | AFRA TCE | 39.443 | -16093 | 55.536 |
 | MR ATLANTIC TC routes | 44.077 | -2430 | 46.507 |
+| LPG Index | 12.468 | -2627 | 15.095 |

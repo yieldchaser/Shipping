@@ -88,7 +88,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W33_WK-3334-24-CARRIERS_S
 | Recycling Index | TSRA | 12.264 |  |  | DOWN |
 | Recycling Index | BSRA |  |  |  |  |
 | Newbuilding Index | BNBI |  |  |  |  |
-| Newbuilding Index | DNBI | 5 |  |  | UP |
+| Newbuilding Index | DNBI | 5.000 |  |  | UP |
 | Newbuilding Index | TNBI | 7.703 |  |  | UP |
 | Baltic Dry Indices | BDI | 1708 | 53 | 1655 |  |
 | Baltic Dry Indices | BCI | 2594 | 181 | 2413 |  |

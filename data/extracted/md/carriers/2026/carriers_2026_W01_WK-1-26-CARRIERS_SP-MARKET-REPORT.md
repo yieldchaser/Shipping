@@ -45,7 +45,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W01_WK-1-26-CARRIERS_SP-M
 
 | Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
 | --- | --- | --- | --- | --- |
-| Tankers | Subcontinent | 15000 - 25000 | 415.8 | DOWN |
+| Tankers | Subcontinent | 15000 - 25000 | 415.80 | DOWN |
 | Containers | Subcontinent | 6000 - 10000 | N/A |  |
 | Bulkers | Subcontinent | 7000 - 12000 | 404.09 | DOWN |
 

@@ -150,3 +150,4 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W08_WK-8-24-CARRIERS_SP-M
 | SUEZ TCE | 48.451 | 698 | 47.753 |
 | AFRA TCE | 49.527 | 2197 | 47.330 |
 | MR ATLANTIC TC routes | 38.350 | 540 | 37.810 |
+| LPG Index | 4.321 | 1161 | 3.160 |

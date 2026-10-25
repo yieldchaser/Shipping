@@ -21,7 +21,7 @@ Adheres strictly to Shipbroking_Source_Parsing_Notes.docx Paragraph 19:
    - Baltic Dry Indices (BDI, BCI, BPI, BSI, BHSI with WoW deltas).
    - Time Charter Weighted Average routes (Cape 180k, Tess 82k, LME 74k, Supra 63k, Handy 38k) preserving authentic broker blanks.
    - Dry Time Charter Period indicative ideas (Cape 180k, Kamsar 82k, Panamax 76k, Umax, Supra Tess 58k, Handy 32k).
-   - Tanker Rates & Indices (Dirty, Clean, VLCC TCE, Suez TCE, Afra TCE, MR Atlantic TC routes).
+   - Tanker Rates & Indices (Dirty, Clean, VLCC TCE, Suez TCE, Afra TCE, MR Atlantic TC routes; Baltic LPG 2023 W46 - 2024 W11).
 
 3. Master Stacked Series:
    - data/extracted/series/carriers_sales_series.csv
@@ -150,6 +150,9 @@ def write_md(path: Path, text: str) -> None:
 NUM_TOKEN = re.compile(r"^[-+]?(?:\d{1,3}(?:,\d{3})+|\d+)(?:\.\d+)?$")
 
 
+PLACEHOLDERS = ("-", "N/A")  # printed in place of a number; kept in the MD cell, no value in the series
+
+
 def cell_text(raw: Optional[str], val: Optional[float]) -> str:
     """MD cell: the token as the PDF prints it; a parsed value only when no token was kept."""
     if raw:
@@ -157,6 +160,43 @@ def cell_text(raw: Optional[str], val: Optional[float]) -> str:
     if val is None:
         return ""
     return str(int(val)) if float(val).is_integer() else str(val)
+
+
+# Carriers draws every sentiment arrow with the same UP glyph ('ꜛ') and gives the direction by its colour: green up,
+# red down. Checked against the week-on-week moves of the index box over 2023-2026 (green: 379 rises, 7 falls; red:
+# 214 falls, 10 rises), and it is how the audited MDs read the arrows. A black arrow is read by its glyph.
+GREEN_ARROW = {0x00B050}
+RED_ARROW = {0xFF0000, 0xEE0000}
+UP_GLYPHS = ("ꜛ", "↑", "▲")
+DOWN_GLYPHS = ("ꜜ", "↓", "▼")
+
+
+def arrow_spans(page: pymupdf.Page) -> List[Tuple[float, float, str, int]]:
+    """(x of the arrow, y centre, glyph, colour) of every arrow glyph on the page. The arrow is the last character of
+    its span ('3.598ꜛ' is one span on some pages), so its x is the span's right edge."""
+    out = []
+    for b in page.get_text("dict")["blocks"]:
+        for ln in b.get("lines", []):
+            for s in ln["spans"]:
+                glyph = next((c for c in s["text"] if c in UP_GLYPHS + DOWN_GLYPHS), None)
+                if glyph:
+                    out.append((s["bbox"][2], (s["bbox"][1] + s["bbox"][3]) / 2, glyph, s["color"]))
+    return out
+
+
+def line_sentiment(arrows: List[Tuple[float, float, str, int]], words: List[Any], x_lo: float, x_hi: float) -> Optional[str]:
+    """UP / DOWN for the arrow drawn on the line of `words` between x_lo and x_hi; None when no arrow is drawn there."""
+    if not words:
+        return None
+    y0, y1 = min(w[1] for w in words), max(w[3] for w in words)
+    for x, yc, glyph, colour in arrows:
+        if x_lo <= x < x_hi and y0 - 1 <= yc <= y1 + 1:
+            if colour in GREEN_ARROW:
+                return "UP"
+            if colour in RED_ARROW:
+                return "DOWN"
+            return "UP" if glyph in UP_GLYPHS else "DOWN"
+    return None
 
 
 def extract_metadata(pdf_path: Path) -> Tuple[Optional[str], Optional[int]]:
@@ -365,6 +405,12 @@ def extract_sp_section_rows(
         price_str = clean_text(" ".join(w[2] for w in sorted(v["price_words"], key=lambda x: (round(x[0], 1), x[1]))))
         buyers_str = clean_text(" ".join(w[2] for w in sorted(v["buyers_words"], key=lambda x: (round(x[0], 1), x[1]))))
         comm_str = clean_text(" ".join(w[2] for w in sorted(v["comm_words"], key=lambda x: (round(x[0], 1), x[1]))))
+        # a printed slip: some rows put the buyer under PRICE and the price under BUYERS (W06-24 QING MAY
+        # 'WINNING SHIPPING' / '73.00 EN BLOC', W25-25 MINERAL HIROSHIGE 'CHINESE' / '65.00', and the '-' of no
+        # price under BUYERS in the same tables); the MDs keep the semantic columns
+        if price_str not in ("", "-") and not re.search(r"\d", price_str) and (
+                re.match(r"\d[\d.,]*(\s|$)", buyers_str) or buyers_str == "-"):
+            price_str, buyers_str = buyers_str, price_str
 
         price_num = parse_price_mill(price_str)
         results.append({
@@ -588,9 +634,7 @@ def extract_newbuilding_rows(
         v_type = c["type"]
         if not v_type or v_type.upper() in ["TYPE", "TOTAL", "NEWBUILDING"]:
             continue
-        # newbuilding prices are printed in millions; a decimal comma ("37,3 EACH", 2024 W51) is 37.3, not 373
-        eu = re.search(r"(?<![0-9])[0-9]{1,3},[0-9]{1,2}(?![0-9])", c["price_raw"] or "")
-        p_mil = float(eu.group(0).replace(",", ".")) if eu else parse_numeric(c["price_raw"])
+        p_mil = nb_price_mill(c["price_raw"])
         yard_str = clean_text(" ".join(w[2] for w in sorted(c["yard_words"], key=lambda x: (round(x[0], 1), x[1]))))
         owners_str = clean_text(" ".join(w[2] for w in sorted(c["owners_words"], key=lambda x: (round(x[0], 1), x[1]))))
         comm_str = clean_text(" ".join(w[2] for w in sorted(c["comments_words"], key=lambda x: (round(x[0], 1), x[1]))))
@@ -624,6 +668,7 @@ def extract_bspa_and_bda(
 ) -> Tuple[List[Dict[str, Any]], List[Dict[str, Any]]]:
     """Extract BSPA Secondhand assessments and BDA Demolition assessments."""
     lines = cluster_page_words_into_lines(page, y_min=y_start, y_max=y_end)
+    arrows = arrow_spans(page)
     bspa_recs: List[Dict[str, Any]] = []
     bda_recs: List[Dict[str, Any]] = []
 
@@ -637,15 +682,15 @@ def extract_bspa_and_bda(
             if vc in b_str.upper():
                 nums = re.findall(r"\d+(?:\.\d+)?", b_str)
                 size = None
-                price = None
+                price = price_raw = None
                 for n in nums:
                     f = float(n)
                     if f > 10000:
                         size = int(f)
                     elif 5.0 <= f <= 250.0:
-                        price = f
+                        price, price_raw = f, n  # keep the printed token ('25.400')
                 if size or price:
-                    arrow = "UP" if any(k in b_str for k in ["\ua71b", "ꜛ", "↑", "▲"]) else ("DOWN" if any(k in b_str for k in ["\ua71c", "ꜜ", "↓", "▼"]) else "STEADY")
+                    arrow = line_sentiment(arrows, ln_bspa, 0, 280) or "STEADY"
                     sector = "Tankers" if vc in ["VLCC", "AFRAMAX", "MR PRODUCT"] else "Bulkers"
                     bspa_recs.append({
                         "issue_date": issue_date,
@@ -654,6 +699,7 @@ def extract_bspa_and_bda(
                         "vessel_class": vc.title(),
                         "size_dwt": size,
                         "price_usd_m": price,
+                        "price_raw": price_raw,
                         "sentiment_arrow": arrow,
                         "source_file": source_file,
                     })
@@ -672,7 +718,7 @@ def extract_bspa_and_bda(
                     f = float(n)
                     if 200 <= f <= 800:
                         p_ldt, p_raw = f, n  # keep the printed token ('507.00')
-                arrow = "UP" if any(k in bda_str for k in ["\ua71b", "ꜛ", "↑", "▲"]) else ("DOWN" if any(k in bda_str for k in ["\ua71c", "ꜜ", "↓", "▼"]) else (None if "N/A" in bda_str else "STEADY"))
+                arrow = line_sentiment(arrows, ln_bda, 270, 10_000) or (None if "N/A" in bda_str else "STEADY")
                 bda_recs.append({
                     "issue_date": issue_date,
                     "report_week": report_week,
@@ -711,18 +757,23 @@ def extract_shipping_indices(
         "TNBI": {"cat": "Newbuilding Index", "val": None, "arrow": None},
     }
 
+    # Each line carries two boxes side by side (DSPA | DSRA): a name's value and arrow are read only between it and
+    # the next name on the line. 'no change' / 'same' are printed instead of an arrow (STEADY).
+    arrows = arrow_spans(page)
     for y, ln in lines:
         if not (y_start <= y < y_end):
             continue
-        ln_str = " ".join(w[4] for w in ln)
-        words_text = [w[4] for w in ln]
-        for iname in list(indices_dict.keys()):
-            if iname in words_text:
-                m = re.search(rf"\b{iname}\b\s*([0-9.]+)?(\ua71b|\ua71c|ꜛ|ꜜ|↑|↓)?", ln_str)
-                if m and m.group(1):
-                    indices_dict[iname]["val"] = float(m.group(1))
-                    indices_dict[iname]["raw"] = m.group(1)
-                    indices_dict[iname]["arrow"] = "UP" if any(k in ln_str for k in ["\ua71b", "ꜛ", "↑", "▲"]) else ("DOWN" if any(k in ln_str for k in ["\ua71c", "ꜜ", "↓", "▼"]) else "STEADY")
+        names = [w for w in ln if w[4] in indices_dict]
+        for i, nw in enumerate(names):
+            x_hi = names[i + 1][0] if i + 1 < len(names) else 10_000
+            cell = [w for w in ln if nw[2] <= w[0] < x_hi]
+            m = re.match(r"^\d[\d.,]*", cell[0][4]) if cell else None
+            if not m:
+                continue
+            idata = indices_dict[nw[4]]
+            idata["val"] = parse_numeric(m.group(0))
+            idata["raw"] = m.group(0).rstrip(".,")
+            idata["arrow"] = line_sentiment(arrows, ln, nw[0], x_hi) or "STEADY"
 
     indices_recs: List[Dict[str, Any]] = []
     for iname, idata in indices_dict.items():
@@ -844,6 +895,14 @@ def extract_weighted_routes(
                         weighted_grid[closest_row][c_idx] = val
                         weighted_raw[closest_row][c_idx] = w[4]
                         break
+            elif w[4] in PLACEHOLDERS:  # a printed '-' / 'N/A' cell (W36-24 SUPRA) is kept as printed
+                closest_row = min(wr_y_labels.keys(), key=lambda k: abs(w[1] - wr_y_labels[k]))
+                if abs(w[1] - wr_y_labels[closest_row]) > 9.0:
+                    continue
+                for c_idx, (bx0, bx1) in enumerate(weighted_bands):
+                    if bx0 <= w[0] <= bx1:
+                        weighted_raw[closest_row][c_idx] = weighted_raw[closest_row][c_idx] or w[4]
+                        break
 
     # 2023-24 issues head the fourth column 'TESS 58K', later ones 'SUPRA 63K': use the printed header
     band_text = " ".join(w[4] for w in all_words if y_start - 40 <= w[1] < y_end)
@@ -949,8 +1008,10 @@ def extract_tanker_tce(
     issue_date: str,
     report_week: Optional[int],
     source_file: str,
+    lpg: Optional[bool] = None,
 ) -> List[Dict[str, Any]]:
-    """Extract Tanker Rates & Indices (Dirty, Clean, VLCC, Suez, Afra, MR Atlantic)."""
+    """Extract Tanker Rates & Indices (Dirty, Clean, VLCC, Suez, Afra, MR Atlantic, and LPG when printed).
+    `lpg` says whether the LPG column is printed; None reads it from the header (a continuation has no header)."""
     all_words = page.get_text("words")
     tr_y_labels: Dict[str, float] = {}
     for w in all_words:
@@ -975,7 +1036,13 @@ def extract_tanker_tce(
         "MR ATLANTIC TC routes",
     ]
     tanker_bands = [(110, 160), (160, 215), (215, 280), (280, 335), (335, 385), (385, 460)]
-    tanker_grid = {k: [None]*6 for k in ["This WK", "Week Ch.", "Previous"]}
+    # 2023 W46 - 2024 W11 print a seventh column, the Baltic LPG index ('LPG Index' header right of MR ATLANTIC)
+    if lpg is None:
+        lpg = any(y_start <= w[1] < y_end and w[4] == "LPG" and w[0] > 460 for w in all_words)
+    if lpg:
+        tanker_cols.append("LPG Index")
+        tanker_bands.append((460, 580))
+    tanker_grid = {k: [None]*len(tanker_cols) for k in ["This WK", "Week Ch.", "Previous"]}
 
     # A negative change wider than its column WRAPS onto two lines: the '-' lands
     # on one line and the digits on the next (measured on carriers_2026_W16, where
@@ -997,6 +1064,9 @@ def extract_tanker_tce(
                     val_tokens.append([w[0], w[1], float(tok), c_idx, w[4].startswith(("-", "+")), w[4]])
                     break
 
+    # a '-' with no value to sign, or 'N/A', is a printed placeholder cell (W36-26 MR ATLANTIC: 'N/A', '-')
+    placeholders = [(w[1], c_idx, w[4]) for w in all_words if y_start <= w[1] < y_end and w[4] == "N/A"
+                    for c_idx, (bx0, bx1) in enumerate(tanker_bands) if bx0 <= w[0] <= bx1]
     for w in all_words:
         if y_start <= w[1] < y_end and w[4] in ("-", "+", "−", "–"):
             sg = 1.0 if w[4] == "+" else -1.0
@@ -1008,15 +1078,21 @@ def extract_tanker_tce(
                         best[2] *= sg
                         best[4] = True
                         best[5] = ("-" if sg < 0 else "+") + best[5]
+                    elif w[4] in PLACEHOLDERS:
+                        placeholders.append((w[1], c_idx, w[4]))
                     break
 
-    tanker_raw = {k: [None]*6 for k in tanker_grid}
+    tanker_raw = {k: [None]*len(tanker_cols) for k in tanker_grid}
     for x, y, val, c_idx, _, raw in val_tokens:
         closest_row = min(tr_y_labels.keys(), key=lambda k: abs(y - tr_y_labels[k]))
         if abs(y - tr_y_labels[closest_row]) > 9.0:
             continue
         tanker_grid[closest_row][c_idx] = val
         tanker_raw[closest_row][c_idx] = raw
+    for y, c_idx, raw in placeholders:
+        closest_row = min(tr_y_labels.keys(), key=lambda k: abs(y - tr_y_labels[k]))
+        if abs(y - tr_y_labels[closest_row]) <= 9.0 and tanker_raw[closest_row][c_idx] is None:
+            tanker_raw[closest_row][c_idx] = raw
 
     tanker_tce_recs: List[Dict[str, Any]] = []
     for c_idx, mname in enumerate(tanker_cols):
@@ -1033,6 +1109,113 @@ def extract_tanker_tce(
             "source_file": source_file,
         })
     return tanker_tce_recs
+
+
+ANCHORS = (
+    # (section, phrases of its title line); the first matching line of a page anchors the section
+    ("bulk", ("bulk carriers reported sold",)),
+    ("tanker_sp", ("tankers / lpg", "tankers reported sold")),
+    ("container", ("container / ro-ro", "container reported sold", "general cargo vessels")),
+    ("demo", ("demolition market",)),
+    ("newbuilding", ("newbuilding market",)),
+    ("bspa", ("bspa as reported",
+              "price in $m")),  # 2026 W17+ (and 2024 W07) print the BSPA/BDA box without its title: the column header
+    ("indices", ("sale and purchase index",)),
+    ("bdi", ("dry bc baltic indices", "baltic dry index")),
+    ("weighted", ("weighted average routes",)),
+    ("tc_period", ("time charter period", "indicative ideas")),
+    ("tanker_tce", ("tanker index", "baltic dirty")),
+    ("greek", ("greek-listed companies", "quote of the day", "traded in the us stock exchange")),
+)
+INDEX_NAMES = ("DSPA", "BSPA", "TSPA", "DSRA", "TSRA", "BSRA", "BNBI", "DNBI", "TNBI")
+ROW_LABELS = ("THIS", "WEEK", "PREV")
+
+
+def merge_rows(rows: List[Dict[str, Any]], more: List[Dict[str, Any]], key: str) -> None:
+    """Fill the empty fields of `rows` from the rows of a table's continuation on the next page (same `key`)."""
+    by = {r[key]: r for r in rows}
+    for m in more:
+        r = by.get(m[key])
+        if r is None:
+            rows.append(m)
+            by[m[key]] = m
+            continue
+        for k, v in m.items():
+            if r.get(k) is None and v is not None:
+                r[k] = v
+
+
+def extract_document(doc: pymupdf.Document, source_file: str, issue_date: Optional[str],
+                     report_week: Optional[int]) -> Tuple[Dict[str, List[Dict[str, Any]]], List[int]]:
+    """Every table of one report, page by page between the section anchors (Greek equities never read).
+
+    A box that does not fit at the foot of a page is continued at the top of the next one, above that page's first
+    anchor: the index values of 2024 W11 (title on p1, values on p2) and the tanker 'Previous' row of 2023 W47
+    (p3, above the Greek equities). That region is read with the extractor of the previous page's last section and
+    only fills the fields the first part left empty.
+    """
+    issue = issue_date or ""
+    data: Dict[str, List[Dict[str, Any]]] = {k: [] for k in ("sales", "demolition", "newbuilding", "bspa", "bda", "indices",
+                                                              "weighted_routes", "tc_period", "tanker_tce")}
+    substantive_pages: List[int] = []
+    last_sec: Optional[str] = None
+
+    for pno in range(len(doc)):
+        page = doc[pno]
+        lines = cluster_page_words_into_lines(page)
+
+        anchors: Dict[str, float] = {}
+        for y, ln in lines:
+            s = " ".join(w[4] for w in ln).lower()
+            for sec, phrases in ANCHORS:
+                if sec not in anchors and any(ph in s for ph in phrases):
+                    anchors[sec] = y
+                    break
+
+        sorted_anchors = sorted(anchors.items(), key=lambda a: a[1])
+        top = sorted_anchors[0][1] if sorted_anchors else 780.0
+        above = [w for y, ln in lines if y < top for w in ln]
+        if last_sec == "indices" and any(w[4] in INDEX_NAMES for w in above):
+            merge_rows(data["indices"], extract_shipping_indices(page, 30.0, top, issue, report_week, source_file),
+                       "index_name")
+        elif last_sec == "tanker_tce" and any(w[0] < 90 and w[4].upper().startswith(ROW_LABELS) for w in above):
+            lpg = any(r["metric_name"] == "LPG Index" for r in data["tanker_tce"])
+            merge_rows(data["tanker_tce"], extract_tanker_tce(page, 30.0, top, issue, report_week, source_file, lpg),
+                       "metric_name")
+
+        # a page of Greek equities alone is skipped per the user rule
+        if not [k for k in anchors if k != "greek"]:
+            continue
+        substantive_pages.append(pno + 1)
+
+        for a_idx, (sec_name, y_start) in enumerate(sorted_anchors):
+            if sec_name == "greek":  # never parse the Greek equities section
+                break
+            last_sec = sec_name
+            y_end = sorted_anchors[a_idx + 1][1] if a_idx + 1 < len(sorted_anchors) else 780.0
+            if sec_name in ("bulk", "tanker_sp", "container"):
+                section = {"bulk": "bulk_carriers", "tanker_sp": "tankers", "container": "containers"}[sec_name]
+                data["sales"].extend(extract_sp_section_rows(lines, y_start, y_end, section, issue, report_week, pno + 1, source_file))
+            elif sec_name == "demo":
+                data["demolition"].extend(extract_demolition_rows(lines, y_start, y_end, issue, report_week, pno + 1, source_file))
+            elif sec_name == "newbuilding":
+                data["newbuilding"].extend(extract_newbuilding_rows(lines, y_start, y_end, issue, report_week, pno + 1, source_file))
+            elif sec_name == "bspa":
+                bspa_rows, bda_rows = extract_bspa_and_bda(page, y_start, y_end, issue, report_week, source_file)
+                data["bspa"].extend(bspa_rows)
+                data["bda"].extend(bda_rows)
+            elif sec_name == "indices":
+                data["indices"].extend(extract_shipping_indices(page, y_start, y_end, issue, report_week, source_file))
+            elif sec_name == "bdi":
+                data["indices"].extend(extract_baltic_dry(page, y_start, y_end, issue, report_week, source_file))
+            elif sec_name == "weighted":
+                data["weighted_routes"].extend(extract_weighted_routes(page, y_start, y_end, issue, report_week, source_file))
+            elif sec_name == "tc_period":
+                data["tc_period"].extend(extract_tc_period(page, y_start, y_end, issue, report_week, source_file))
+            elif sec_name == "tanker_tce":
+                data["tanker_tce"].extend(extract_tanker_tce(page, y_start, y_end, issue, report_week, source_file))
+
+    return data, substantive_pages
 
 
 def generate_markdown(
@@ -1072,7 +1255,7 @@ def generate_markdown(
         for s in data["sales"]:
             p_display = s["price_raw"] or (str(s["price_usd_mill"]) if s["price_usd_mill"] else "")
             lines.append(
-                f"| {s['vessel_name']} | {s['type']} | {s['dwt'] or ''} | {s['built'] or ''} | "
+                f"| {s['vessel_name']} | {s['type']} | {cell_text(None, s['dwt'])} | {s['built'] or ''} | "
                 f"{s['yard']} | {p_display} | {s['buyers']} | {s['comments']} |"
             )
         lines.append("")
@@ -1085,8 +1268,8 @@ def generate_markdown(
         lines.append("| --- | --- | --- | --- | --- | --- | --- | --- | --- |")
         for d in data["demolition"]:
             lines.append(
-                f"| {d['vessel_name']} | {d['type']} | {d['dwt'] or ''} | {d['ldt'] or ''} | "
-                f"{d['built'] or ''} | {d['yard']} | {d['price_usd_per_ldt'] or ''} | {d['buyers']} | {d['comments']} |"
+                f"| {d['vessel_name']} | {d['type']} | {cell_text(None, d['dwt'])} | {cell_text(None, d['ldt'])} | "
+                f"{d['built'] or ''} | {d['yard']} | {cell_text(None, d['price_usd_per_ldt'])} | {d['buyers']} | {d['comments']} |"
             )
         lines.append("")
     else:
@@ -1118,7 +1301,7 @@ def generate_markdown(
         for b in data["bspa"]:
             lines.append(
                 f"| {b['sector']} | {b['vessel_class']} | {b['size_dwt'] or ''} | "
-                f"{b['price_usd_m'] or ''} | {b['sentiment_arrow'] or ''} |"
+                f"{cell_text(b.get('price_raw'), b['price_usd_m'])} | {b['sentiment_arrow'] or ''} |"
             )
         lines.append("")
 
@@ -1172,7 +1355,7 @@ def generate_markdown(
         lines.append("| Vessel Class | Tenor | Rate ($/day) | Rate Raw |")
         lines.append("| --- | --- | --- | --- |")
         for tc in data["tc_period"]:
-            r_val = str(tc["rate_usd_day"]) if tc["rate_usd_day"] is not None else ""
+            r_val = cell_text(None, tc["rate_usd_day"])
             lines.append(f"| {tc['vessel_class']} | {tc['tenor']} | {r_val} | {tc['rate_raw']} |")
         lines.append("")
 
@@ -1190,6 +1373,106 @@ def generate_markdown(
         lines.append("")
 
     return "\n".join(lines)
+
+
+def unswap_price_buyers(md: str) -> str:
+    """Second-hand rows whose PRICE cell holds a name and BUYERS a number (or '-') get the two cells swapped back (the printed
+    slip of W06-24 / W25-25 that carriers_rows_fix copies from the page)."""
+    out, in_sales = [], False
+    for line in md.split("\n"):
+        if line.startswith("## "):
+            in_sales = line.startswith("## Second-hand Market Reported Sold")
+        cells = line.split("|")
+        if (in_sales and len(cells) == 10 and cells[6].strip() not in ("", "-") and not re.search(r"\d", cells[6])
+                and (re.match(r"\d[\d.,]*(\s|$)", cells[7].strip()) or cells[7].strip() == "-")):
+            cells[6], cells[7] = cells[7], cells[6]
+            line = "|".join(cells)
+        out.append(line)
+    return "\n".join(out)
+
+
+def md_table_rows(md: str, heading: str) -> List[List[str]]:
+    """The body rows (cells stripped) of the table under `heading` in an MD."""
+    rows, inside = [], False
+    for line in md.split("\n"):
+        if line.startswith("## "):
+            inside = line.strip() == heading
+        elif inside and line.startswith("| ") and not line.startswith("| ---"):
+            rows.append([c.strip() for c in line.strip().strip("|").split("|")])
+    return rows[1:]  # the header row
+
+
+def nb_price_mill(raw: str) -> Optional[float]:
+    """Newbuilding prices are printed in millions; a decimal comma ('37,3 EACH', 2024 W51) is 37.3, not 373."""
+    eu = re.search(r"(?<![0-9])[0-9]{1,3},[0-9]{1,2}(?![0-9])", raw or "")
+    return float(eu.group(0).replace(",", ".")) if eu else parse_numeric(raw)
+
+
+def series_from_markdown(md: str, data: Dict[str, List[Dict[str, Any]]]) -> None:
+    """Second-hand, Demolition and Newbuilding series rows rebuilt from the rendered MD tables, in place.
+
+    carriers_rows_fix repairs those tables in the MD (wrapped names and yards, merged en-bloc / EACH prices, rows
+    the word parser lost); the series must carry the same rows. The fields an MD table does not show (the S&P
+    section, the page) come from the parsed row of the same name, else from the row above.
+    """
+    def carry(parsed: List[Dict[str, Any]], name_key: str, md_names: List[str], fields: Tuple[str, ...]) -> List[Dict[str, Any]]:
+        out, used, last = [], set(), (parsed[0] if parsed else {})
+        for nm in md_names:
+            hit = next((i for i, p in enumerate(parsed) if i not in used and p[name_key]
+                        and (nm.startswith(p[name_key]) or p[name_key].startswith(nm))), None)
+            if hit is not None:
+                used.add(hit)
+                last = parsed[hit]
+            out.append({f: last.get(f) for f in fields})
+        return out
+
+    if data["sales"] or md_table_rows(md, "## Second-hand Market Reported Sold"):
+        rows = md_table_rows(md, "## Second-hand Market Reported Sold")
+        base = data["sales"][0] if data["sales"] else {}
+        keep = carry(data["sales"], "vessel_name", [r[0] for r in rows], ("section", "page"))
+        data["sales"][:] = [{
+            "issue_date": base.get("issue_date"), "report_week": base.get("report_week"),
+            "section": k["section"], "page": k["page"], "vessel_name": r[0], "type": r[1],
+            "dwt": parse_tonnage(r[2]) if r[2] else None, "built": int(r[3]) if r[3].isdigit() else None,
+            "yard": r[4], "price_raw": r[5], "price_usd_mill": parse_price_mill(r[5]), "buyers": r[6],
+            "comments": r[7], "source_file": base.get("source_file"),
+        } for r, k in zip(rows, keep) if len(r) == 8]
+    rows = md_table_rows(md, "## Demolition Market")
+    if data["demolition"] and rows:
+        base = data["demolition"][0]
+        keep = carry(data["demolition"], "vessel_name", [r[0] for r in rows], ("page",))
+        data["demolition"][:] = [{
+            "issue_date": base["issue_date"], "report_week": base["report_week"], "vessel_name": r[0], "type": r[1],
+            "dwt": parse_tonnage(r[2]) if r[2] else None, "ldt": parse_tonnage(r[3]) if r[3] else None,
+            "built": int(r[4]) if r[4].isdigit() else None, "yard": r[5], "price_usd_per_ldt": parse_numeric(r[6]),
+            "buyers": r[7], "comments": r[8], "page": k["page"], "source_file": base["source_file"],
+        } for r, k in zip(rows, keep) if len(r) == 9]
+    rows = md_table_rows(md, "## Newbuilding Market")
+    if data["newbuilding"] and rows:
+        base = data["newbuilding"][0]
+        keep = carry(data["newbuilding"], "type", [r[0] for r in rows], ("page",))
+        data["newbuilding"][:] = [{
+            "issue_date": base["issue_date"], "report_week": base["report_week"], "type": r[0], "units": r[1],
+            "size": r[2], "yard": r[3], "delivery": r[4], "price_raw": r[5], "price_usd_mill": nb_price_mill(r[5]),
+            "owners": r[6], "comments": r[7], "page": k["page"], "source_file": base["source_file"],
+        } for r, k in zip(rows, keep) if len(r) == 8]
+
+
+def render_markdown(stem: str, pdf_path: Path, doc: pymupdf.Document, substantive_pages: List[int], issue_date: str,
+                    report_week: Optional[int], data: Dict[str, Any]) -> str:
+    """The MD of a new report: generate_markdown, then the Second-hand / Demolition / Newbuilding rows rebuilt from
+    the PDF ruling geometry (carriers_rows_fix: wrapped yards and names, merged en-bloc / EACH prices), the same
+    repair the audited MDs went through. The Second-hand / Demolition / Newbuilding rows of `data` are then
+    rebuilt from the MD (series_from_markdown), so the series carry the repaired rows."""
+    if str(ROOT) not in sys.path:
+        sys.path.insert(0, str(ROOT))
+    from scripts.md_cleanup.carriers_rows_fix import fix_document
+
+    md = generate_markdown(stem, pdf_path, doc, substantive_pages, issue_date, report_week, data)
+    md, _changes, _unresolved = fix_document(md, doc)
+    md = unswap_price_buyers(md)
+    series_from_markdown(md, data)
+    return md
 
 
 def run():
@@ -1269,102 +1552,14 @@ def run():
             (OUT_MD / f"{stem}.tables.json").write_text(json.dumps(sidecar, indent=2, ensure_ascii=False), encoding="utf-8")
             continue
 
-        doc_sales: List[Dict[str, Any]] = []
-        doc_demo: List[Dict[str, Any]] = []
-        doc_nb: List[Dict[str, Any]] = []
-        doc_bspa: List[Dict[str, Any]] = []
-        doc_bda: List[Dict[str, Any]] = []
-        doc_indices: List[Dict[str, Any]] = []
-        doc_weighted: List[Dict[str, Any]] = []
-        doc_tc_period: List[Dict[str, Any]] = []
-        doc_tanker_tce: List[Dict[str, Any]] = []
-        substantive_pages: List[int] = []
+        data, substantive_pages = extract_document(doc, pdf_path.name, issue_date, report_week)
+        doc_sales, doc_demo, doc_nb = data["sales"], data["demolition"], data["newbuilding"]
+        doc_bspa, doc_bda, doc_indices = data["bspa"], data["bda"], data["indices"]
+        doc_weighted, doc_tc_period, doc_tanker_tce = data["weighted_routes"], data["tc_period"], data["tanker_tce"]
 
-        for pno in range(len(doc)):
-            page = doc[pno]
-            lines = cluster_page_words_into_lines(page)
-
-            # Discover all anchors present on this page
-            anchors: Dict[str, float] = {}
-            for y, ln in lines:
-                s = " ".join(w[4] for w in ln).lower()
-                if "bulk carriers reported sold" in s and "bulk" not in anchors:
-                    anchors["bulk"] = y
-                elif ("tankers / lpg" in s or "tankers reported sold" in s) and "tanker_sp" not in anchors:
-                    anchors["tanker_sp"] = y
-                elif ("container / ro-ro" in s or "container reported sold" in s or "general cargo vessels" in s) and "container" not in anchors:
-                    anchors["container"] = y
-                elif "demolition market" in s and "demo" not in anchors:
-                    anchors["demo"] = y
-                elif "newbuilding market" in s and "newbuilding" not in anchors:
-                    anchors["newbuilding"] = y
-                elif "bspa as reported" in s and "bspa" not in anchors:
-                    anchors["bspa"] = y
-                elif "price in $m" in s and "bspa" not in anchors:
-                    # 2026 W17+ (and 2024 W07) print the BSPA/BDA box without its title: anchor on the column header
-                    anchors["bspa"] = y
-                elif "sale and purchase index" in s and "indices" not in anchors:
-                    anchors["indices"] = y
-                elif ("dry bc baltic indices" in s or "baltic dry index" in s) and "bdi" not in anchors:
-                    anchors["bdi"] = y
-                elif "weighted average routes" in s and "weighted" not in anchors:
-                    anchors["weighted"] = y
-                elif ("time charter period" in s or "indicative ideas" in s) and "tc_period" not in anchors:
-                    anchors["tc_period"] = y
-                elif ("tanker index" in s or "baltic dirty" in s) and "tanker_tce" not in anchors:
-                    anchors["tanker_tce"] = y
-                elif ("greek-listed companies" in s or "quote of the day" in s or "traded in the us stock exchange" in s) and "greek" not in anchors:
-                    anchors["greek"] = y
-
-            # If page is solely Greek equities, cleanly skip it per user rule
-            shipping_anchors = [k for k in anchors.keys() if k != "greek"]
-            if not shipping_anchors:
-                continue
-
-            substantive_pages.append(pno + 1)
-            sorted_anchors = sorted(anchors.items(), key=lambda x: x[1])
-
-            for a_idx, (sec_name, y_start) in enumerate(sorted_anchors):
-                # Never parse the Greek equities section
-                if sec_name == "greek":
-                    break
-
-                y_end = sorted_anchors[a_idx + 1][1] if a_idx + 1 < len(sorted_anchors) else 770.0
-
-                if sec_name == "bulk":
-                    v_rows = extract_sp_section_rows(lines, y_start, y_end, "bulk_carriers", issue_date or "", report_week, pno + 1, pdf_path.name)
-                    doc_sales.extend(v_rows)
-                elif sec_name == "tanker_sp":
-                    v_rows = extract_sp_section_rows(lines, y_start, y_end, "tankers", issue_date or "", report_week, pno + 1, pdf_path.name)
-                    doc_sales.extend(v_rows)
-                elif sec_name == "container":
-                    v_rows = extract_sp_section_rows(lines, y_start, y_end, "containers", issue_date or "", report_week, pno + 1, pdf_path.name)
-                    doc_sales.extend(v_rows)
-                elif sec_name == "demo":
-                    d_rows = extract_demolition_rows(lines, y_start, y_end, issue_date or "", report_week, pno + 1, pdf_path.name)
-                    doc_demo.extend(d_rows)
-                elif sec_name == "newbuilding":
-                    nb_rows = extract_newbuilding_rows(lines, y_start, y_end, issue_date or "", report_week, pno + 1, pdf_path.name)
-                    doc_nb.extend(nb_rows)
-                elif sec_name == "bspa":
-                    bspa_rows, bda_rows = extract_bspa_and_bda(page, y_start, y_end, issue_date or "", report_week, pdf_path.name)
-                    doc_bspa.extend(bspa_rows)
-                    doc_bda.extend(bda_rows)
-                elif sec_name == "indices":
-                    idx_rows = extract_shipping_indices(page, y_start, y_end, issue_date or "", report_week, pdf_path.name)
-                    doc_indices.extend(idx_rows)
-                elif sec_name == "bdi":
-                    bdi_rows = extract_baltic_dry(page, y_start, y_end, issue_date or "", report_week, pdf_path.name)
-                    doc_indices.extend(bdi_rows)
-                elif sec_name == "weighted":
-                    wr_rows = extract_weighted_routes(page, y_start, y_end, issue_date or "", report_week, pdf_path.name)
-                    doc_weighted.extend(wr_rows)
-                elif sec_name == "tc_period":
-                    tc_rows = extract_tc_period(page, y_start, y_end, issue_date or "", report_week, pdf_path.name)
-                    doc_tc_period.extend(tc_rows)
-                elif sec_name == "tanker_tce":
-                    tr_rows = extract_tanker_tce(page, y_start, y_end, issue_date or "", report_week, pdf_path.name)
-                    doc_tanker_tce.extend(tr_rows)
+        # Write markdown (rebuilds the Second-hand / Demolition / Newbuilding rows of `data` from the MD)
+        md_content = render_markdown(stem, pdf_path, doc, substantive_pages, issue_date or "", report_week, data)
+        write_md(OUT_MD / f"{stem}.md", md_content)
 
         master_sales.extend(doc_sales)
         master_demo.extend(doc_demo)
@@ -1387,10 +1582,6 @@ def run():
             "tc_period": doc_tc_period,
             "tanker_tce": doc_tanker_tce,
         }
-
-        # Write markdown
-        md_content = generate_markdown(stem, pdf_path, doc, substantive_pages, issue_date or "", report_week, doc_data_combined)
-        write_md(OUT_MD / f"{stem}.md", md_content)
 
         # Write sidecar JSON
         sidecar = {

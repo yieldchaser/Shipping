@@ -16,31 +16,31 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W39_WK-39-26-CARRIERS_SP-
 
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| LC MILADY | BC | 93758 | 2011 | Shanhaiguan Shipbuilding Ind | HIGH UNDISCLOSED 14,000,000 | CHINESE |  |
+| LC MILADY | BC | 93758 | 2011 | Shanhaiguan Shipbuilding Ind | HIGH 14,000,000 | UNDISCLOSED |  |
 | RTM DIAS | BC | 89892 | 2013 | Namura Shipbuilding - Imari | 42,800,000 EN BLOC | CHINESE |  |
 | RTM FLINDERS | BC | 89892 | 2013 | Namura Shipbuilding - Imari | 42,800,000 EN BLOC | CHINESE |  |
-| GCL HAZIRA | BC | 81986 | 2021 | Nantong COSCO KHI Ship | 38,000,000 UNDISCLOSED | DD | PASSED |
-| NEW WAVELET | BC | 81984 | 2021 | Nantong COSCO KHI Ship | 42,000,000 UNDISCLOSED |  |  |
+| GCL HAZIRA | BC | 81986 | 2021 | Nantong COSCO KHI Ship | 38,000,000 | UNDISCLOSED | DD PASSED |
+| NEW WAVELET | BC | 81984 | 2021 | Nantong COSCO KHI Ship | 42,000,000 | UNDISCLOSED |  |
 | BABITONGA | BC | 81770 | 2019 | TSUNEISHI SHBLDG - FKY | 38,500,000 | SINCERE NAVIGATION |  |
-| GENEVA STAR | BC | 75843 | 2009 | Tsuneishi Holdings | 17,000,000 | BRIGHT SS/DD NAVIGATION | DUE 04/2027 |
-| CS CALLA | BC | 37482 | 2011 | Tianjin Xingang Shipbuilding | 11,000,000 UNDISCLOSED |  |  |
+| GENEVA STAR | BC | 75843 | 2009 | Tsuneishi Holdings | 17,000,000 | BRIGHT NAVIGATION | SS/DD DUE 04/2027 |
+| CS CALLA | BC | 37482 | 2011 | Tianjin Xingang Shipbuilding | 11,000,000 | UNDISCLOSED |  |
 | CELESTE | BC | 34295 | 2012 | Zhejiang Jingang Shipbuilding | 11,100,000 | GREEK |  |
-| SEEB | TANKER | 319439 | 2011 | Daewoo Shipbuilding | 160,000,000 UNDISCLOSED |  |  |
+| SEEB | TANKER | 319439 | 2011 | Daewoo Shipbuilding | 160,000,000 | UNDISCLOSED |  |
 | RAIN CUBIC | TANKER | 319429 | 2008 | Daewoo Shipbuilding | 92,000,000 | UAE |  |
-| SEAKING | TANKER | 319063 | 2013 | Hyundai Heavy Inds - Ulsan | 177,000,000 UNDISCLOSED |  |  |
-| SUEZ PROTOPIA | TANKER | 160391 | 2008 | Samsung Heavy Inds - Geoje | 82,000,000 UNDISCLOSED |  |  |
-| SPEEDWAY | TANKER | 158594 | 2017 | Hyundai Samho HI | 98,000,000 UNDISCLOSED |  |  |
-| ALMI GALAXY | TANKER | 157787 | 2012 | Daewoo Shipbuilding | 88,000,000 UNDISCLOSED |  |  |
-| DAEHAN 5112 | TANKER | 156881 | 2027 | Daehan Shipbuilding | 106,000,000 UNDISCLOSED |  |  |
-| VENDAVEL | TANKER | 149999 | 2011 | New Times Shipbuilding Co | 94,500,000 UNDISCLOSED |  |  |
-| POROS | TANKER | 149876 | 2008 | Universal Shbldg | 80,000,000 UNDISCLOSED |  |  |
+| SEAKING | TANKER | 319063 | 2013 | Hyundai Heavy Inds - Ulsan | 177,000,000 | UNDISCLOSED |  |
+| SUEZ PROTOPIA | TANKER | 160391 | 2008 | Samsung Heavy Inds - Geoje | 82,000,000 | UNDISCLOSED |  |
+| SPEEDWAY | TANKER | 158594 | 2017 | Hyundai Samho HI | 98,000,000 | UNDISCLOSED |  |
+| ALMI GALAXY | TANKER | 157787 | 2012 | Daewoo Shipbuilding | 88,000,000 | UNDISCLOSED |  |
+| DAEHAN 5112 | TANKER | 156881 | 2027 | Daehan Shipbuilding | 106,000,000 | UNDISCLOSED |  |
+| VENDAVEL | TANKER | 149999 | 2011 | New Times Shipbuilding Co | 94,500,000 | UNDISCLOSED |  |
+| POROS | TANKER | 149876 | 2008 | Universal Shbldg | 80,000,000 | UNDISCLOSED |  |
 | MARLIN HESTIA | TANKER | 74260 | 2017 | Sungdong Shipbuilding & Eng | 49,000,000 | PENINSULAR |  |
 | MARLIN HERA | TANKER | 74198 | 2017 | Sungdong Shipbuilding & Eng | 49,000,000 | PENINSULAR |  |
-| CHEMTRANS NOVA | TANKER | 73870 | 2006 | New Century Shipbuilding Co | 20,000,000 UNDISCLOSED |  |  |
+| CHEMTRANS NOVA | TANKER | 73870 | 2006 | New Century Shipbuilding Co | 20,000,000 | UNDISCLOSED |  |
 | LONDON STAR | TANKER | 73869 | 2006 | New Century Shipbuilding Co | 21,500,000 | CHINESE |  |
 | SEA RUNNER | TANKER | 49999 | 2008 | Guangzhou Shipyard Intl Co | 20,500,000 | GREEK |  |
 | DYLAN | TANKER | 49998 | 2009 | Guangzhou Shipyard Intl Co | 19,500,000 | GREEK |  |
-| VELA | CV | 56535 | 2009 | Zhejiang | 10,000,000 UNDISCLOSED |  | 4,254 TEU |
+| VELA | CV | 56535 | 2009 | Zhejiang | 10,000,000 | UNDISCLOSED | 4,254 TEU |
 
 ## Demolition Market
 

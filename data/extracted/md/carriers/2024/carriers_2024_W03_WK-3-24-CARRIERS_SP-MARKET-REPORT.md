@@ -21,11 +21,11 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W03_WK-3-24-CARRIERS_SP-M
 | GH HARMONY | BC | 92500 | 2010 | Yangfan Group Co Ltd | 12.50 | UNDISCLOSED | SS 02/2025 |
 | KAVALA | BC | 83688 | 2009 | Sanoyas Hishino Meisho Corp | 16.20 | GREEK | SS 04/2024 |
 | CP TIANJIN | BC | 63541 | 2016 | Chengxi Shipyard Jiangyin | 23.80 EACH | UNDISCLOSED | SS 09/2026 |
-| CP GUANGZHOU | BC | 63527 | 2015 | Chengxi Shipyard Jiangyin |  |  | SS 11/2025 |
+| CP GUANGZHOU | BC | 63527 | 2015 | Chengxi Shipyard Jiangyin | 23.80 EACH | UNDISCLOSED | SS 11/2025 |
 | ANETOS | BC | 58163 | 2009 | Tsuneishi Heavy Inds Cebu | 15.50 | INDONESIAN | SS 11/2027 |
 | ELGIZNUR CEBI | BC | 57305 | 2009 | STX Shipbuilding - Jinhae | 13.20 | CHINESE | DELY SS/DD PASSED |
 | SW PROSPEROUS | BC | 57239 | 2012 | STX Offshore & Shbldg | 16.30 | SEA SANDS SHIPPING | SS 08/2027 |
-| CRESTED EAGLE | BC | 55989 | 2009 | IHI Corp |  |  | BWTS& SCRUBBER |
+| CRESTED EAGLE | BC | 55989 | 2009 | IHI Corp | 14.50 EACH | UNDISCLOSED | BWTS& SCRUBBER |
 | STELLAR EAGLE | BC | 55989 | 2009 | IHI Marine United - Yokohama | 14.50 EACH | UNDISCLOSED | BWTS& SCRUBBER |
 | ADVANCE | BC | 55638 | 2007 | Mitsui Tamano | 13.80 | UNDISCLOSED | SS 02/2026 |
 | QUEEN KOBE | BC | 55444 | 2009 | Kawasaki Shipbuilding - Kobe | 14.00 | UNDISCLOSED | SS 07/2024 |
@@ -33,16 +33,16 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W03_WK-3-24-CARRIERS_SP-M
 | APJ JAD | BC | 52461 | 2002 | Tsuneishi Heavy Inds Cebu | 7.20 | UNDISCLOSED | SS 05/2027 |
 | BEST HONOR | BC | 47183 | 1998 | Oshima Shipbuilding Co Ltd | 5.20 | TURKISH | SS 06/2027 |
 | RUI AN | BC | 46509 | 2001 | Mitsui Tamano | 6.65 | UNDISCLOSED | SS 05/2026 |
-| NOTOS VENTURE | BC | 43477 | 2017 | Qingshan Shipyard |  |  | BWTS FITTED |
+| NOTOS VENTURE | BC | 43477 | 2017 | Qingshan Shipyard | 23.00 EACH | UNDISCLOSED | BWTS FITTED |
 | EURUS VENTURE | BC | 43457 | 2017 | Qingshan Shipyard | 23.00 EACH | UNDISCLOSED | BWTS FITTED |
 | LOWLANDS HOPPER | BC | 36309 | 2015 | Shikoku Dockyard | 17.00 | FAR EASTERN | BWTS FITTED |
 | HELGA BULKER | BC | 34483 | 2017 | Hakodate Dock - Hakodate | 22.00 | TURKISH |  |
 | ALAM SURIA | BC | 29077 | 2012 | Shikoku Dockyard | 11.20 | UNDISCLOSED | DD DUE |
-| FRONT ENDURANCE | TANKER | 321300 | 2009 | Daewoo Shipbuilding & Marine |  | SINOKOR |  |
-| FRONT KATHRINE | TANKER | 297974 | 2009 | Shanghai Waigaoqiao Shbldg | 300.00 EN BLOC | UNDISCLOSED |  |
+| FRONT ENDURANCE | TANKER | 321300 | 2009 | Daewoo Shipbuilding & Marine | 300.00 EN BLOC | SINOKOR |  |
+| FRONT KATHRINE | TANKER | 297974 | 2009 | Shanghai Waigaoqiao Shbldg | 300.00 EN BLOC |  |  |
 | FRONT QUEEN | TANKER | 297936 | 2009 | Shanghai Jiangnan Changxing Sb | 300.00 EN BLOC | UNDISCLOSED |  |
 | FRONT SIGNE | TANKER | 297007 | 2010 | Shanghai Jiangnan Changxing Sb | 300.00 EN BLOC | PERTAMINA |  |
-| FRONT CECILIE | TANKER | 296995 | 2010 | Shanghai Jiangnan Changxing Sb | 300.00 EN BLOC | PERTAMINA |  |
+| FRONT CECILIE | TANKER | 296995 | 2010 | Shanghai Jiangnan Changxing Sb | 300.00 EN BLOC |  |  |
 | NEREIDES | TANKER | 300544 | 2004 | Ihi Marine United - Kure | 29.00 | UNDISCLOSED |  |
 | VOLANS | TANKER | 99876 | 2009 | Hyundai Heavy Inds - Ulsan | 33.00 | UNDISCLOSED | BWTS FITTED |
 | SOCHRINA | TANKER | 46606 | 2008 | Sungdong Shipbuilding & Eng | 24.00 | BESIKTAS DENIZCILIK | BWTS FITTED |
@@ -50,7 +50,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W03_WK-3-24-CARRIERS_SP-M
 | PLUTO | TANKER | 37282 | 2008 | Hyundai Mipo Dockyard Co Ltd | 41.75 EN BLOC | UNDISCLOSED | ICE CLASS 1A |
 | AURELIA | TANKER | 24025 | 2006 | 3 Maj Brodogradiliste Dd | 13.00 | BANGLADESH | BWTS & SCRUBBER FITTED |
 | LIV KNUTSEN | TANKER | 16585 | 2009 | Jiangnan Shipyard Group Co Ltd | 13.75 EACH | ALGOMA CANADA | BB TO SELLERS TILL DD SUMMER 2024 |
-| ELI KNUTSEN | TANKER | 16544 | 2009 | Jiangnan Shipyard Group Co Ltd |  |  | BB TO SELLERS TILL DD SUMMER 2024 |
+| ELI KNUTSEN | TANKER | 16544 | 2009 | Jiangnan Shipyard Group Co Ltd | 13.75 EACH | ALGOMA CANADA | BB TO SELLERS TILL DD SUMMER 2024 |
 
 ## Demolition Market
 
@@ -155,3 +155,4 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W03_WK-3-24-CARRIERS_SP-M
 | SUEZ TCE | 65.230 | 4600 | 60.630 |
 | AFRA TCE | 75.704 | 12326 | 63.378 |
 | MR ATLANTIC TC routes | 25.230 | 2731 | 22.499 |
+| LPG Index | 6.617 | -6456 | 13.073 |

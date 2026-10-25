@@ -76,7 +76,7 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W25_WK-25-24-CARRIERS_SP-
 
 | Category | Index Name | Current Value | Change | Previous Value | Sentiment |
 | --- | --- | --- | --- | --- | --- |
-| Sale and Purchase Index | DSPA | 3.769 |  |  | UP |
+| Sale and Purchase Index | DSPA | 3.769 |  |  | STEADY |
 | Sale and Purchase Index | BSPA |  |  |  |  |
 | Sale and Purchase Index | TSPA | 7.793 |  |  | UP |
 | Recycling Index | DSRA | 7.329 |  |  | DOWN |

@@ -86,7 +86,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W09_WK-9-26-CARRIERS_SP-M
 
 | Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
 | --- | --- | --- | --- | --- |
-| Tankers | Subcontinent | 15000 - 25000 | 433.9 | UP |
+| Tankers | Subcontinent | 15000 - 25000 | 433.90 | UP |
 | Containers | Subcontinent | 6000 - 10000 | N/A |  |
 | Bulkers | Subcontinent | 7000 - 12000 | 422.29 | UP |
 
@@ -104,7 +104,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W09_WK-9-26-CARRIERS_SP-M
 | Newbuilding Index | DNBI | 4.905 |  |  | UP |
 | Newbuilding Index | TNBI | 7.600 |  |  | UP |
 | Baltic Dry Indices | BDI | 2187 | 75 | 2112 |  |
-| Baltic Dry Indices | BCI | 3133 | -77 |  |  |
+| Baltic Dry Indices | BCI | 3133 | -77 | 3,210 |  |
 | Baltic Dry Indices | BPI | 1979 | 126 | 1853 |  |
 | Baltic Dry Indices | BSI | 1361 | 182 | 1179 |  |
 | Baltic Dry Indices | BHSI | 785 | 74 | 711 |  |

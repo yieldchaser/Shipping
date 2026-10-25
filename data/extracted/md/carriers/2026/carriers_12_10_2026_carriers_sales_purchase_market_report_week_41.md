@@ -16,27 +16,27 @@ source: `corpus/01-brokers/carriers/2026/carriers_12_10_2026_carriers_sales_purc
 
 | Name | Type | DWT | Built | Yard | Price ($M) | Buyers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ARRIKTOS | BC | 181,250 | 2027 | Hengli Shipbuilding Dalian | 90,000,000 | FAR EASTERN |  |
-| PAN ADVANCE | BC | 179,185 | 2009 | Hyundai Heavy Inds - Ulsan | 37,000,000 | UNDISCLOSED |  |
-| GOLDEN MYRTALIA | BC | 177,979 | 2011 | Shanghai Waigaoqiao Shbldg | 40,000,000 | EUROPEAN |  |
-| PABAL | BC | 76,118 | 2012 | Taizhou Kouan Shipbuilding Co | 17,000,000 | UNDISCLOSED |  |
-| AH GLOBE | BC | 74,432 | 2005 | Hudong-Zhonghua Shipbuilding | 11,500,000 | UNDISCLOSED |  |
-| LOCOMOTION | BC | 38,046 | 2013 | Shimanami Shipyard Co Ltd | 19,800,000 | UNDISCLOSED |  |
-| EUROSPIRIT | TANKER | 320,105 | 2011 | Daewoo Shipbuilding | 153,000,000 | UNDISCLOSED |  |
-| VIEIRA | TANKER | 306,999 | 2002 | Hyundai Heavy Inds - Ulsan | 75,000,000 | UNDISCLOSED |  |
-| MOUNT VISION | TANKER | 301,563 | 2026 | New Times Shipbuilding Co | - | UNDISCLOSED |  |
-| MOUNT FRONTIER | TANKER | 298,000 | 2027 | New Times Shipbuilding Co | - | UNDISCLOSED |  |
-| MOUNT HORIZON | TANKER | 298,000 | 2026 | New Times Shipbuilding Co | - | UNDISCLOSED |  |
-| MOUNT SUMMIT | TANKER | 298,000 | 2027 | New Times Shipbuilding Co | - | UNDISCLOSED |  |
-| SOUTHERN EMPEROR | TANKER | 297,376 | 2004 | Dalian New Shipbuilding HI | 110,000,000 | UNDISCLOSED |  |
-| MILITOS | TANKER | 164,751 | 2012 | Hyundai Samho HI | 95,500,000 | UNDISCLOSED |  |
-| SUEZ PROTOPIA | TANKER | 160,391 | 2008 | Samsung Heavy Inds - Geoje | 82,000,000 | MIDDLE EASTERN |  |
-| YELLOW TRADER | TANKER | 158,609 | 2004 | Daewoo Shipbuilding | 61,000,000 | UNDISCLOSED |  |
-| MARAN POSEIDON | TANKER | 158,267 | 2010 | Hyundai Heavy Inds - Ulsan | 98,500,000 | UNDISCLOSED |  |
-| ACHILLEAS | TANKER | 157,883 | 2010 | Hyundai Heavy Inds - Ulsan | 98,000,000 | UNDISCLOSED |  |
-| ADVANTAGE SUMMER | TANKER | 156,527 | 2010 | Jiangsu Rongsheng | 97,500,000 | UNDISCLOSED |  |
-| LEON GRACE | TANKER | 49,999 | 2008 | Hyundai Mipo Dockyard Co | 23,500,000 | UNDISCLOSED |  |
-| JIFA BEIHAI | CV | 20,676 | 2018 | Shanhaiguan | 12,200,000 | UNDISCLOSED | 1,184 TEU |
+| ARRIKTOS | BC | 181250 | 2027 | Hengli Shipbuilding Dalian | 90,000,000 | FAR EASTERN |  |
+| PAN ADVANCE | BC | 179185 | 2009 | Hyundai Heavy Inds - Ulsan | 37,000,000 | UNDISCLOSED |  |
+| GOLDEN MYRTALIA | BC | 177979 | 2011 | Shanghai Waigaoqiao Shbldg | 40,000,000 | EUROPEAN |  |
+| PABAL | BC | 76118 | 2012 | Taizhou Kouan Shipbuilding Co | 17,000,000 | UNDISCLOSED |  |
+| AH GLOBE | BC | 74432 | 2005 | Hudong-Zhonghua Shipbuilding | 11,500,000 | UNDISCLOSED |  |
+| LOCOMOTION | BC | 38046 | 2013 | Shimanami Shipyard Co Ltd | 19,800,000 | UNDISCLOSED |  |
+| EUROSPIRIT | TANKER | 320105 | 2011 | Daewoo Shipbuilding | 153,000,000 | UNDISCLOSED |  |
+| VIEIRA | TANKER | 306999 | 2002 | Hyundai Heavy Inds - Ulsan | 75,000,000 | UNDISCLOSED |  |
+| MOUNT VISION | TANKER | 301563 | 2026 | New Times Shipbuilding Co | - | UNDISCLOSED |  |
+| MOUNT FRONTIER | TANKER | 298000 | 2027 | New Times Shipbuilding Co | - | UNDISCLOSED |  |
+| MOUNT HORIZON | TANKER | 298000 | 2026 | New Times Shipbuilding Co | - | UNDISCLOSED |  |
+| MOUNT SUMMIT | TANKER | 298000 | 2027 | New Times Shipbuilding Co | - | UNDISCLOSED |  |
+| SOUTHERN EMPEROR | TANKER | 297376 | 2004 | Dalian New Shipbuilding HI | 110,000,000 | UNDISCLOSED |  |
+| MILITOS | TANKER | 164751 | 2012 | Hyundai Samho HI | 95,500,000 | UNDISCLOSED |  |
+| SUEZ PROTOPIA | TANKER | 160391 | 2008 | Samsung Heavy Inds - Geoje | 82,000,000 | MIDDLE EASTERN |  |
+| YELLOW TRADER | TANKER | 158609 | 2004 | Daewoo Shipbuilding | 61,000,000 | UNDISCLOSED |  |
+| MARAN POSEIDON | TANKER | 158267 | 2010 | Hyundai Heavy Inds - Ulsan | 98,500,000 | UNDISCLOSED |  |
+| ACHILLEAS | TANKER | 157883 | 2010 | Hyundai Heavy Inds - Ulsan | 98,000,000 | UNDISCLOSED |  |
+| ADVANTAGE SUMMER | TANKER | 156527 | 2010 | Jiangsu Rongsheng | 97,500,000 | UNDISCLOSED |  |
+| LEON GRACE | TANKER | 49999 | 2008 | Hyundai Mipo Dockyard Co | 23,500,000 | UNDISCLOSED |  |
+| JIFA BEIHAI | CV | 20676 | 2018 | Shanhaiguan | 12,200,000 | UNDISCLOSED | 1,184 TEU |
 
 ## Demolition Market
 
@@ -66,7 +66,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_12_10_2026_carriers_sales_purc
 | Segment | Place | LDT Range | Price ($/LDT) | Sentiment |
 | --- | --- | --- | --- | --- |
 | Tankers | Subcontinent | 15000 - 25000 | 513.83 | UP |
-| Containers | Subcontinent | 6000 - 10000 |  |  |
+| Containers | Subcontinent | 6000 - 10000 | N/A |  |
 | Bulkers | Subcontinent | 7000 - 12000 | 498.02 | UP |
 
 ## Market & Baltic Indices
@@ -95,22 +95,22 @@ source: `corpus/01-brokers/carriers/2026/carriers_12_10_2026_carriers_sales_purc
 | CAPE 180K | 37618 | -6215 | 43833 |
 | TESS 82K | 21888 | 615 | 21273 |
 | LME 74K |  |  |  |
-| SUPRA 63K | 23023 | 403 |  |
+| SUPRA 63K | 23023 | 403 | 22,620 |
 | HANDY 38K | 17970 | -97 | 18067 |
 
 ## Dry BC Time Charter Period indicative ideas (on Average)
 
 | Vessel Class | Tenor | Rate ($/day) | Rate Raw |
 | --- | --- | --- | --- |
-| CAPE 180k | SHORT | 36,000 | 36,000 |
-| KAMSAR 82k | SHORT | 22,000 | 22,000 |
-| PANAMAX 76k | SHORT | 20,500 | 20,500 |
+| CAPE 180k | SHORT | 36000 | 36,000 |
+| KAMSAR 82k | SHORT | 22000 | 22,000 |
+| PANAMAX 76k | SHORT | 20500 | 20,500 |
 | UMAX | SHORT |  | ATL 22,500 PAC 21,500 |
 | SUPRA TESS 58k | SHORT |  | ATL 19,500 PAC 19,000 |
 | HANDY 32k | SHORT |  | N/A |
-| CAPE 180k | 1-YR | 33,000 | 33,000 |
-| KAMSAR 82k | 1-YR | 20,000 | 20,000 |
-| PANAMAX 76k | 1-YR | 18,500 | 18,500 |
+| CAPE 180k | 1-YR | 33000 | 33,000 |
+| KAMSAR 82k | 1-YR | 20000 | 20,000 |
+| PANAMAX 76k | 1-YR | 18500 | 18,500 |
 | UMAX | 1-YR |  | ATL 21,000 PAC 21,000 |
 | SUPRA TESS 58k | 1-YR |  | ATL 18,500 PAC 18,500 |
 | HANDY 32k | 1-YR |  | N/A |
@@ -133,7 +133,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_12_10_2026_carriers_sales_purc
 | --- | --- | --- | --- |
 | Baltic DIRTY Tanker Index | 7991 | 806 | 7185 |
 | Baltic CLEAN Tanker Index | 2440 | 44 | 2396 |
-| VLCC TCE |  | 91781 |  |
+| VLCC TCE | 924,418 | 91781 | 832,637 |
 | SUEZ TCE | 716.630 | 32522 | 684.108 |
 | AFRA TCE | 382.590 | 56158 | 326.432 |
-| MR ATLANTIC TC routes |  | -16874 |  |
+| MR ATLANTIC TC routes | 46,861 | -16874 | 63,735 |

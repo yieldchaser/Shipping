@@ -72,13 +72,13 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W23_WK-23-24-CARRIERS_SP-
 | --- | --- | --- | --- | --- | --- |
 | Sale and Purchase Index | DSPA | 3.770 |  |  | UP |
 | Sale and Purchase Index | BSPA | 5.748 |  |  | UP |
-| Sale and Purchase Index | TSPA |  |  |  | UP |
+| Sale and Purchase Index | TSPA | 7.782 |  |  | UP |
 | Recycling Index | DSRA | 7.332 |  |  | UP |
 | Recycling Index | TSRA | 12.970 |  |  | UP |
-| Recycling Index | BSRA |  |  |  | UP |
-| Newbuilding Index | BNBI |  |  |  | UP |
-| Newbuilding Index | DNBI |  |  |  | UP |
-| Newbuilding Index | TNBI |  |  |  | UP |
+| Recycling Index | BSRA | 10.081 |  |  | UP |
+| Newbuilding Index | BNBI | 9.164 |  |  | UP |
+| Newbuilding Index | DNBI | 4.783 |  |  | UP |
+| Newbuilding Index | TNBI | 7.338 |  |  | UP |
 | Baltic Dry Indices | BDI | 1808 | 7 | 1801 |  |
 | Baltic Dry Indices | BCI | 2816 | 66 | 2750 |  |
 | Baltic Dry Indices | BPI | 1681 | -37 | 1718 |  |

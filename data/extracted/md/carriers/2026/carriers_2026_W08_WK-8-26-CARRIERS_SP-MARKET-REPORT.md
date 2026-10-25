@@ -88,7 +88,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W08_WK-8-26-CARRIERS_SP-M
 | Newbuilding Index | DNBI | 4.882 |  |  | UP |
 | Newbuilding Index | TNBI | 7.584 |  |  | UP |
 | Baltic Dry Indices | BDI | 2112 | 12 | 2100 |  |
-| Baltic Dry Indices | BCI |  | 1 | 3209 |  |
+| Baltic Dry Indices | BCI | 3,210 | 1 | 3209 |  |
 | Baltic Dry Indices | BPI | 1853 | 68 | 1785 |  |
 | Baltic Dry Indices | BSI | 1179 | -19 | 1198 |  |
 | Baltic Dry Indices | BHSI | 711 | 25 | 686 |  |

@@ -75,12 +75,12 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W11_WK-11-24-CARRIERS_SP-
 
 | Category | Index Name | Current Value | Change | Previous Value | Sentiment |
 | --- | --- | --- | --- | --- | --- |
-| Sale and Purchase Index | DSPA |  |  |  | UP |
-| Sale and Purchase Index | BSPA |  |  |  | UP |
-| Sale and Purchase Index | TSPA |  |  |  | UP |
-| Recycling Index | DSRA |  |  |  | UP |
-| Recycling Index | TSRA |  |  |  | UP |
-| Recycling Index | BSRA |  |  |  | UP |
+| Sale and Purchase Index | DSPA | 3.598 |  |  | UP |
+| Sale and Purchase Index | BSPA | 5.610 |  |  | UP |
+| Sale and Purchase Index | TSPA | 7.622 |  |  | UP |
+| Recycling Index | DSRA | 7.147 |  |  | UP |
+| Recycling Index | TSRA | 12.603 |  |  | UP |
+| Recycling Index | BSRA | 9.875 |  |  | UP |
 | Newbuilding Index | BNBI |  |  |  |  |
 | Newbuilding Index | DNBI |  |  |  |  |
 | Newbuilding Index | TNBI |  |  |  |  |
@@ -139,3 +139,4 @@ source: `corpus/01-brokers/carriers/2024/carriers_2024_W11_WK-11-24-CARRIERS_SP-
 | SUEZ TCE | 38.637 | 1162 | 37.475 |
 | AFRA TCE | 40.873 | 6697 | 34.176 |
 | MR ATLANTIC TC routes | 42.461 | 10074 | 32.387 |
+| LPG Index |  |  |  |
