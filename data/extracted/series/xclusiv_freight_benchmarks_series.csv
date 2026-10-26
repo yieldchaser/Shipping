@@ -3756,3 +3756,12 @@ issue_date,report_week,sector,vessel_class,metric,rate_usd_day,source_file
 2026-10-19,42,Tanker,VLCC,Average T/CE,883372.0,xclusiv_2026_xclusiv-2026_10_19
 2026-10-19,42,Tanker,Suezmax,Average T/CE,700137.0,xclusiv_2026_xclusiv-2026_10_19
 2026-10-19,42,Tanker,Aframax,Average T/CE,328345.0,xclusiv_2026_xclusiv-2026_10_19
+2026-10-26,43,Dry Bulk,Capesize,C5TC Average,30877.0,xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026
+2026-10-26,43,Dry Bulk,Panamax,P5TC Average,18981.0,xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026
+2026-10-26,43,Dry Bulk,Ultramax,S11TC Average,23849.0,xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026
+2026-10-26,43,Dry Bulk,Supramax,10TC Average,21815.0,xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026
+2026-10-26,43,Dry Bulk,Supramax,S3TC Average,23624.0,xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026
+2026-10-26,43,Dry Bulk,Handysize,7TC Average,18361.0,xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026
+2026-10-26,43,Tanker,VLCC,Average T/CE,761352.0,xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026
+2026-10-26,43,Tanker,Suezmax,Average T/CE,638377.0,xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026
+2026-10-26,43,Tanker,Aframax,Average T/CE,336059.0,xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026

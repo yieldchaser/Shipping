@@ -1,0 +1,1667 @@
+{
+  "stem": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026",
+  "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+  "issue_date": "2026-10-26",
+  "report_week": 43,
+  "pages": 9,
+  "useful_pages": 7,
+  "editorial_title": "Russian Diesel Returns: A New Atlantic Trade Dynamic",
+  "nutshell": [
+    "- Trade Reopening: Washington’s sanctions relief could revive",
+    "- Russian diesel exports to the US.  (Page 1)",
+    "- Shipment Targets: Russia targets 800,000 mt of diesel ship-",
+    "- ments across October and November . (Page 1)",
+    "- MR Demand: Renewed Baltic–US diesel flows could gener-",
+    "- ate additional employment opportunities for MRs.  (Page 1)",
+    "- Tonnage Constraints: Strong crude earnings attract LR ves-",
+    "- sels, potentially tightening clean tanker availability. (Page 1)",
+    "- Crude oil slipped toward $101 per barrel on Monday despite",
+    "- renewed Middle East tensions. (Page 8)"
+  ],
+  "market_commentary": [
+    "The latest developments in US–Russian energy relations could mark another turning point for the product tanker market, as Washington's decision to temporarily ease sanctions on Russian diesel opens the door to renewed trade flows between two countries whose energy rela- tionship has been severely restricted since 2022. Accord- ing to Russian Deputy Prime Minister Alexander Novak, the first diesel cargo of approximately 40,000 mt is sched- uled to depart Russia's Baltic coast on October 22, with Moscow targeting 300,000 mt of shipments to the US during October and a further 500,000 mt in November. Beyond the political significance, this development raises important questions regarding Atlantic product tanker demand, vessel availability and the potential redistribu- tion of established trading patterns.",
+    "Interestingly, maritime trade in petroleum products between Russia and the US has diminished significantly following Russia's invasion of Ukraine in February 2022, but has never completely disappeared. On 2020 and 2021 the seaborne trade of oil products from Russia to USA was around 23 million mt annually. Based on Signal Ocean data, during 2023, recorded shipments reached approximately 1.33 million mt, declining to 1.06 million mt in 2024, before recovering to 1.28 million mt in 2025. During January–June 2026, volumes totalled 510,000 mt, compared to 727,000 mt during the corresponding period of 2025, representing a contraction of almost 30%. July recorded no shipments, highlighting the weakening momentum before the latest diplomatic developments. These figures suggest that the announced reopen- ing should be viewed not simply as the restoration of previously interrupted trade, but as a potential expansion and restructuring of existing flows, particularly concerning diesel.",
+    "From a shipping perspective, the implications could be particularly interesting for the MR segment. The initial 40,000 mt cargo fits comfortably within MR2 employment, while the proposed 500,000 mt November programme could theo- retically generate around 10–13 MR-sized cargoes, depending on parcel sizes. More importantly, shipments from Rus- sia's Baltic terminals towards the US Atlantic coast would introduce additional employment opportunities into a mar- ket already experiencing significant volatility. However, the actual benefit will depend on whether these shipments represent genuinely additional demand or simply replace diesel currently sourced from Northwest Europe, Canada and South Korea. In the latter case, the redistribution of existing cargoes could still reshape vessel positioning and regional freight differentials. Another important consideration is the current competition between clean and dirty tanker mar- kets. With crude tanker earnings remaining exceptionally attractive, several LR vessels have shifted towards crude transportation, reducing the effective availability of ton- nage dedicated to refined products. Returning these ves- sels to clean trading is neither immediate nor straightfor- ward, as tank cleaning and preparation require addition- al time and costs. Consequently, renewed Russian diesel movements could arrive at a particularly favourable mo- ment for MR owners, especially if increased Atlantic de- mand coincides with limited LR participation in the clean market.",
+    "Nevertheless, Russia's ability to deliver the announced volumes remains uncertain. Ukrainian attacks against Russian refineries have constrained production and ex- port capacity, while Moscow's own restrictions on diesel exports underline the importance of protecting domestic supply. Although Novak anticipates a recovery towards the country's traditional 3.5 million mt monthly diesel export capacity by year-end, actual shipments will depend heavily on refinery operations and logistical availability. Ultimately, the significance of this agreement extends beyond the ini- tial cargoes. With gasoil prices remaining elevated and geopolitical disruptions continuing to reshape energy flows, even relatively modest changes in trade policy can influence vessel utilisation and freight sentiment. For product tank- er owners, the key question is whether this reopening develops into a sustained Atlantic trade corridor. Should Russian export capacity recover while LR vessels remain attracted to the crude market, MR tankers could emerge as important beneficiaries of another geopolitical reshuffling of global petroleum trade."
+  ],
+  "baltic_indices": [
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Dry",
+      "index_name": "BDI",
+      "index_value": 2660.0,
+      "prev_value": 2511.0,
+      "change_pct": "5.9%",
+      "avg_year_1": 2605.0,
+      "avg_year_2": 1676.0,
+      "avg_year_3": 1756.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Dry",
+      "index_name": "BCI",
+      "index_value": 3791.0,
+      "prev_value": 3249.0,
+      "change_pct": "16.7%",
+      "avg_year_1": 4092.0,
+      "avg_year_2": 2557.0,
+      "avg_year_3": 2724.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Dry",
+      "index_name": "BPI",
+      "index_value": 2109.0,
+      "prev_value": 2314.0,
+      "change_pct": "-8.9%",
+      "avg_year_1": 2058.0,
+      "avg_year_2": 1483.0,
+      "avg_year_3": 1570.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Dry",
+      "index_name": "BSI",
+      "index_value": 1887.0,
+      "prev_value": 1865.0,
+      "change_pct": "1.2%",
+      "avg_year_1": 1489.0,
+      "avg_year_2": 1128.0,
+      "avg_year_3": 1243.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Dry",
+      "index_name": "BHSI",
+      "index_value": 1020.0,
+      "prev_value": 1011.0,
+      "change_pct": "0.9%",
+      "avg_year_1": 828.0,
+      "avg_year_2": 661.0,
+      "avg_year_3": 704.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Wet",
+      "index_name": "BDTI",
+      "index_value": 7171.0,
+      "prev_value": 7556.0,
+      "change_pct": "-5.1%",
+      "avg_year_1": 2970.0,
+      "avg_year_2": 1068.0,
+      "avg_year_3": 1094.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Wet",
+      "index_name": "BCTI",
+      "index_value": 3014.0,
+      "prev_value": 2538.0,
+      "change_pct": "18.8%",
+      "avg_year_1": 1532.0,
+      "avg_year_2": 667.0,
+      "avg_year_3": 821.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    }
+  ],
+  "freight_commentary": {
+    "Dry Bulk Freight": "Capesize: The Capesize C5TC average improved by USD 4.9k/day closing the week at USD 30,877/ day. Trip from Continent to F.East is down by 2.1k/day at USD 65,028/day, Transatlantic R/V is lower by 1.8k/day at USD 29,656/day, and Bolivar to Rotterdam is lower by 2.3k/day at USD 34,175/ day, while Transpacific R/V is increased by 10.4k/ day at USD 36,868/day. Trip from Tubarao to Rotterdam is reduced by 0.1k/day at USD 12,825/ day, China-Brazil R/V is higher by 6.5k/day at USD 33,900/day, and trip from Saldanha Bay to Qinqdao is reduced by 0.1k/day at USD 12,825/ day.\n\nKamsarmax/Panamax: The Kamsarmax P5TC Timecharter average started the week at USD 20,827/day closing with a decline at USD 18,981/ day. Trip from Skaw-Gib to F.East is softer by 2.6k/ day at USD 26,520/day, Pacific R/V is down by 0.6k/day at USD 21,307/day, while Transatlantic R/V is reduced by 2.8k/day at USD 17,736/day, and Singapore R/V via Atlantic is decreased by 2.5k/day at USD 17,374/day .\n\nUltramax/Supramax: The Ultramax S11TC average closed the week about USD 0.3k/day higher than its opening at USD 23,849/day. The Supramax S10TC average closed the week about 0.3k/day higher than its opening at USD 21,815/day. The Baltic Su- pramax Asia S3TC average closed the week about 0.5k/day higher than previous week at USD 23,624/ day. N. China one Australian or Pacific R/V is im- proved by 0.5k/day at USD 24,531/day, USG to Skaw Passero is softer by 1.1k/day at USD 30,853/ day. S. China trip via Indonesia to EC India is up by 0.6k/day at USD 27,886/day, trip from S.China via Indonesia to S.China pays USD 18,050/day, while Med/B.Sea to China/S.Korea is increased by 0.3k/ day at USD 26,386/day.\n\nHandysize: The Handysize HS7TC average closed the week improved by 0.2k/day at USD 18,361/day. Skaw-Passero trip to Boston-Galveston pays 0.1k/ day less at USD 14,714/day, Brazil to Cont. pays 1.6k/day more at USD 30,022/day, S.E. Asia trip to Spore/Japan 0.2k/day is firmer at USD 17,825/day, China/S.Korea/Japan round trip is increased by 0.2k/day at USD 17,869/day, and trip from U.S. Gulf to Cont. is reduced by 0.8k/day at USD 19,657/day, while N.China-S.Korea-Japan trip to S.E.Asia is in- creased by 0.2k/day at USD 18,438/day .",
+    "Tanker Freight": "VLCC: average T/CE ended the week down by 122k/day at USD 761,352/day. Middle East Gulf to China trip is down by 92.9k/day at USD 1,294,761/ day. West Africa to China trip is down by 165.1k/ day at USD 545,996/day and US Gulf to China trip is down by 108.1k/day at USD 443,298/day.\n\nSuezmax: average T/CE closed the week softer by 61.8k/day at USD 638,377/day. West Africa to Continent trip is down by 106.5k/day at USD 404,691/day, Black Sea to Mediterranean is down by 17k/day at USD 872,063/day, and Middle East Gulf to Med trip is reduced by 23.4k/day at USD 736,112/day, while trip from Guyana to ARA is reduced by 113.6k/day at USD 416,875/day.\n\nAframax: average T/CE closed the week higher by 7.7k/day at USD 336,059/day. North Sea to Conti- nent trip is up by 11.2k/day at USD 485,769/day, Kuwait to Singapore is down by 31.3k/day at USD 424,906/day, while route from Caribbean to US Gulf trip is up by 2.7k/day at USD 225,652/day. Trip from South East Asia to East Coast Australia is down by 34.2k/day at USD 229,049/day & Cross Mediterranean trip is up by 70.3k/day at USD 400,273/day. US Gulf to UK-Continent is improved by 27.3k/day at USD 225,829/day and the East Coast Mexico to US Gulf trip is up by USD 3k/day at USD 250,528/day .\n\nProducts: The LR2 route (TC1) Middle East to Ja- pan is this week higher by 37.3k/day at USD 321,900/day. Trip from (TC15) Med to Far East has decreased by 58.6k/day at USD 114,350/day and (TC20) AG to UK Continent is up by 7.9k/day at USD 341,933/day. The LR1 route (TC5) from Mid- dle East Gulf to Japan is up by 29.5k/day at USD 232,035/day, while the (TC8) Middle East Gulf to UK-Continent is up by 7.9k/day at USD 341,933/ day. The MR Atlantic Basket is increased by 14.5k/ day at USD 77,893/day & the MR Pacific Basket earnings are improved by 0.3k/day at USD 81,325/ day. The MR route from Rotterdam to New York (TC2) is firmer by 37.3k/day at USD 321,900/day, (TC6) Intermed (Algeria to Euro Med) earnings are firmer by 29.5k/day at USD 232,035/day, (TC14) US Gulf to Continent is down by 1.1k/day at USD 48,356/day, (TC18) US Gulf to Brazil earnings are higher at USD 113,387/day, (TC23) Amsterdam to Le Havre is higher by 5.k/day at USD 83,294/day while Yeosu to Botany Bay (TC22) is firmer by 55.7k/day at USD 103,827/day and ARA to West Africa (TC19) is up by 8k/day at USD 67,941/day ."
+  },
+  "dry_snp_activity": "On the Capesize sector, the “Cape Alliance” - 206K/2007 Imabari was sold for mid USD 35 mills to Winning Shipping. On the same sector, the Scrubber fitted “William Oldendorff” - 179K/2017 Jinhai Heavy found new owners for USD 49 mills, with delivery scheduled for Q1 2027. Moving down the sizes, the Scrubber fitted Ultramax “Delmax66” - 67K/2026 Tsu- neishi Cebu was sold for USD 47 mills to Bulgarian buy- ers, while the “Libra Confidence” - 63K/2019 New Da- yang changed hands for USD 33.5 mills through auction. On the Supramax sector, ADNOC acquired the “Kristinita” - 58K/2011 Tsuneishi Zhoushan for mid USD 20 mills. Finally, on the Handysize sector, the logs fitted “Union Taylor” - 38K/2014 Shimanami was sold for USD 22 mills. On the same sector, the “Paiwan Wisdom” - 32K/2010 Hakodate and the “Daiwan Wisdom” - 32K/2010 Hakodate were sold to Umran Global for USD 11.75 mills each.",
+  "wet_snp_activity": "On the Aframax sector, KOTC acquired the coated “Kastos” - 114K/2025 SWS for USD 120 mills. Moving down the sizes, the Marine Line coated MR2 vessels “Bow Elm” - 46K/2011 SLS and “Bow Lind” - 46K/2011 SLS were sold enbloc for USD 62 mills to undisclosed buyers. Finally, on the small tanker sector, the “Golden Oaktree” - 19K/2027 Fujian Southeast, “Golden Poplar” - 19K/2026 Fujian Southeast and “Golden Pine” - 18K/2026 Fujian Southeast were sold for USD 36.5 mills each to undisclosed buyers.",
+  "reported_sales": [
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "CAPE ALLIANCE",
+      "TYPE": "Capesize",
+      "DWT": "206,190",
+      "YEAR": "2007",
+      "COUNTRY": "JAPAN",
+      "YARD": "IMABARI",
+      "BUYERS": "WINNING SHIPPING",
+      "PRICE": "MID 35",
+      "PRICE_USD_MILL": 35.0,
+      "COMMENTS": "SCRUBBER FITTED,",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "WILLIAM OLDENDORFF",
+      "TYPE": "Capesize",
+      "DWT": "179,120",
+      "YEAR": "2017",
+      "COUNTRY": "CHINA",
+      "YARD": "JINHAI HEAVY",
+      "BUYERS": "GREEK",
+      "PRICE": "49",
+      "PRICE_USD_MILL": 49.0,
+      "COMMENTS": "MC ENGINE, Q1",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "DELMAX66",
+      "TYPE": "Ultramax",
+      "DWT": "66,565",
+      "YEAR": "2026",
+      "COUNTRY": "PHILIPPINES",
+      "YARD": "TSUNEISHI CEBU",
+      "BUYERS": "BULGARIAN",
+      "PRICE": "47",
+      "PRICE_USD_MILL": 47.0,
+      "COMMENTS": "SCRUBBER FITTED",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "LIBRA CONFIDENCE",
+      "TYPE": "Ultramax",
+      "DWT": "63,220",
+      "YEAR": "2019",
+      "COUNTRY": "CHINA",
+      "YARD": "NEW DAYANG",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "33.5",
+      "PRICE_USD_MILL": 33.5,
+      "COMMENTS": "THROUGH AUCTION",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "KRISTINITA",
+      "TYPE": "Supramax",
+      "DWT": "58,110",
+      "YEAR": "2011",
+      "COUNTRY": "CHINA",
+      "YARD": "TSUNEISHI ZHOUSHAN",
+      "BUYERS": "ADNOC",
+      "PRICE": "MID 20",
+      "PRICE_USD_MILL": 20.0,
+      "COMMENTS": "",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "UNION TAYLOR",
+      "TYPE": "Handysize",
+      "DWT": "37,693",
+      "YEAR": "2014",
+      "COUNTRY": "JAPAN",
+      "YARD": "SHIMANAMI",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "22",
+      "PRICE_USD_MILL": 22.0,
+      "COMMENTS": "LOGS FITTED, ELEC-",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "PAIWAN WISDOM",
+      "TYPE": "Handysize",
+      "DWT": "31,967",
+      "YEAR": "2010",
+      "COUNTRY": "JAPAN",
+      "YARD": "HAKODATE",
+      "BUYERS": "UMRAN GLOBAL",
+      "PRICE": "11.75 EACH",
+      "PRICE_USD_MILL": 11.75,
+      "COMMENTS": "",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "section": "Bulk Carriers",
+      "page": 5,
+      "NAME": "DAIWAN WISDOM",
+      "TYPE": "Handysize",
+      "DWT": "31,833",
+      "YEAR": "2010",
+      "COUNTRY": "JAPAN",
+      "YARD": "HAKODATE",
+      "BUYERS": "UMRAN GLOBAL",
+      "PRICE": "11.75 EACH",
+      "PRICE_USD_MILL": 11.75,
+      "COMMENTS": "",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "section": "Tankers",
+      "page": 6,
+      "NAME": "KASTOS",
+      "TYPE": "Aframax",
+      "DWT": "113,897",
+      "YEAR": "2025",
+      "COUNTRY": "CHINA",
+      "YARD": "SWS",
+      "BUYERS": "KOTC",
+      "PRICE": "120",
+      "PRICE_USD_MILL": 120.0,
+      "COMMENTS": "COATED",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "section": "Tankers",
+      "page": 6,
+      "NAME": "BOW ELM",
+      "TYPE": "MR2",
+      "DWT": "46,098",
+      "YEAR": "2011",
+      "COUNTRY": "S. KOREA",
+      "YARD": "SLS",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "62 ENBLOC",
+      "PRICE_USD_MILL": 62.0,
+      "COMMENTS": "Marine Line coated",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "section": "Tankers",
+      "page": 6,
+      "NAME": "BOW LIND",
+      "TYPE": "MR2",
+      "DWT": "46,047",
+      "YEAR": "2011",
+      "COUNTRY": "S. KOREA",
+      "YARD": "SLS",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "62 ENBLOC",
+      "PRICE_USD_MILL": 62.0,
+      "COMMENTS": "Marine Line coated",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "section": "Tankers",
+      "page": 6,
+      "NAME": "GOLDEN OAKTREE",
+      "TYPE": "Small Tanker",
+      "DWT": "18,500",
+      "YEAR": "2027",
+      "COUNTRY": "CHINA",
+      "YARD": "FUJIAN SOUTHEAST",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "36.5 EACH",
+      "PRICE_USD_MILL": 36.5,
+      "COMMENTS": "",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "section": "Tankers",
+      "page": 6,
+      "NAME": "GOLDEN POPLAR",
+      "TYPE": "Small Tanker",
+      "DWT": "18,500",
+      "YEAR": "2026",
+      "COUNTRY": "CHINA",
+      "YARD": "FUJIAN SOUTHEAST",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "36.5 EACH",
+      "PRICE_USD_MILL": 36.5,
+      "COMMENTS": "",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "section": "Tankers",
+      "page": 6,
+      "NAME": "GOLDEN PINE",
+      "TYPE": "Small Tanker",
+      "DWT": "18,409",
+      "YEAR": "2026",
+      "COUNTRY": "CHINA",
+      "YARD": "FUJIAN SOUTHEAST",
+      "BUYERS": "UNDISCLOSED",
+      "PRICE": "36.5 EACH",
+      "PRICE_USD_MILL": 36.5,
+      "COMMENTS": "",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    }
+  ],
+  "demo_sales": [
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "NAME": "LIAN YI DA 2 HAO",
+      "TYPE": "BC",
+      "YEAR": "1998",
+      "DWT": "24,132",
+      "LDT": "5,560",
+      "COUNTRY": "JAPAN",
+      "PRICE_RAW": "512",
+      "PRICE_USD_PER_LDT": 512.0,
+      "BUYERS": "BANGLADESH",
+      "COMMENTS": "",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    }
+  ],
+  "newbuilding_orders": [
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "page": 4,
+      "type": "BC",
+      "units": "4",
+      "size": "211,000 DWT",
+      "yard": "ZHOUSHAN CHANGHONG",
+      "buyer": "LAVINIA",
+      "price": "78 EACH",
+      "delivery": "2030",
+      "comments": "",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "page": 4,
+      "type": "MPP",
+      "units": "16",
+      "size": "87,000 DWT",
+      "yard": "FUJIAN MAWEI",
+      "buyer": "COSCO",
+      "price": "50 EACH",
+      "delivery": "2029-30",
+      "comments": "GRAIN CARRIERS",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "page": 4,
+      "type": "TANKER",
+      "units": "4",
+      "size": "114,000 DWT",
+      "yard": "DSIC",
+      "buyer": "NANJING TANKERS",
+      "price": "N/A",
+      "delivery": "2029",
+      "comments": "LR, OPTIONS",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "page": 4,
+      "type": "TANKER",
+      "units": "2",
+      "size": "50,000 DWT",
+      "yard": "K SHIPBUILDING",
+      "buyer": "CENTRAL MARE",
+      "price": "53 EACH",
+      "delivery": "2029",
+      "comments": "SCRUBBERS, OPTIONS",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "page": 4,
+      "type": "CONTAINER",
+      "units": "20",
+      "size": "24,000 TEU",
+      "yard": "HENGLI HEAVY",
+      "buyer": "MSC",
+      "price": "235 EACH",
+      "delivery": "N/A",
+      "comments": "",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "page": 4,
+      "type": "CONTAINER",
+      "units": "2",
+      "size": "14,000 TEU",
+      "yard": "HUDONG ZHONGHUA",
+      "buyer": "ZHONGGU SHIPPING",
+      "price": "155 EACH",
+      "delivery": "N/A",
+      "comments": "",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "page": 4,
+      "type": "CONTAINER",
+      "units": "2",
+      "size": "13,000 TEU",
+      "yard": "HYUNDAI HEAVY",
+      "buyer": "HMM",
+      "price": "180 EACH",
+      "delivery": "N/A",
+      "comments": "",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "page": 4,
+      "type": "CONTAINER",
+      "units": "6",
+      "size": "13,000 TEU",
+      "yard": "HYUNDAI SAMHO",
+      "buyer": "HMM",
+      "price": "180 EACH",
+      "delivery": "N/A",
+      "comments": "",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "page": 4,
+      "type": "CONTAINER",
+      "units": "2+2",
+      "size": "7,100 TEU",
+      "yard": "DSIC",
+      "buyer": "NAMSUNG SHIPPING",
+      "price": "89 EACH",
+      "delivery": "2030-31",
+      "comments": "",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "page": 4,
+      "type": "CONTAINER",
+      "units": "2",
+      "size": "3,200 TEU",
+      "yard": "HENGLI HEAVY",
+      "buyer": "TSAKOS",
+      "price": "48 EACH",
+      "delivery": "N/A",
+      "comments": "",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "page": 4,
+      "type": "VLAC",
+      "units": "2+1",
+      "size": "88,000 CBM",
+      "yard": "HENGLI HEAVY",
+      "buyer": "ALPHA GAS",
+      "price": "115 EACH",
+      "delivery": "2029",
+      "comments": "LPG DF",
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    }
+  ],
+  "indicative_demolition_prices": [
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "segment": "Bulkers",
+      "country": "India",
+      "price_usd_per_ldt": 455.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "segment": "Bulkers",
+      "country": "Bangladesh",
+      "price_usd_per_ldt": 500.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "segment": "Bulkers",
+      "country": "Pakistan",
+      "price_usd_per_ldt": 500.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "segment": "Bulkers",
+      "country": "Turkey",
+      "price_usd_per_ldt": 290.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "segment": "Tankers",
+      "country": "India",
+      "price_usd_per_ldt": 475.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "segment": "Tankers",
+      "country": "Bangladesh",
+      "price_usd_per_ldt": 520.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "segment": "Tankers",
+      "country": "Pakistan",
+      "price_usd_per_ldt": 520.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "segment": "Tankers",
+      "country": "Turkey",
+      "price_usd_per_ldt": 300.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf"
+    }
+  ],
+  "indicative_secondhand_prices": [
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "tenor": "Resale",
+      "price_usd_mill": 85.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "85.0",
+        "75.5",
+        "13%",
+        "81.4",
+        "75.7",
+        "75.7"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "tenor": "5 Year",
+      "price_usd_mill": 76.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "76.0",
+        "63.0",
+        "21%",
+        "71.6",
+        "62.6",
+        "62.6"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "tenor": "10 Year",
+      "price_usd_mill": 60.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "60.0",
+        "48.0",
+        "25%",
+        "55.4",
+        "45.6",
+        "43.1"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "tenor": "15 Year",
+      "price_usd_mill": 41.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "41.0",
+        "28.6",
+        "43%",
+        "36.5",
+        "27.4",
+        "27.9"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "tenor": "Resale",
+      "price_usd_mill": 47.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "47.0",
+        "38.7",
+        "21%",
+        "44.1",
+        "38.7",
+        "41.8"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "tenor": "5 Year",
+      "price_usd_mill": 42.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "42.0",
+        "32.5",
+        "29%",
+        "38.1",
+        "32.3",
+        "32.3"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "tenor": "10 Year",
+      "price_usd_mill": 34.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "34.0",
+        "25.4",
+        "34%",
+        "29.4",
+        "24.8",
+        "27.3"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "tenor": "15 Year",
+      "price_usd_mill": 23.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "23.0",
+        "16.2",
+        "42%",
+        "20.3",
+        "15.6",
+        "18.1"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "tenor": "Resale",
+      "price_usd_mill": 45.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "45.0",
+        "37.9",
+        "19%",
+        "42.5",
+        "37.8",
+        "40.6"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "tenor": "5 Year",
+      "price_usd_mill": 39.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "39.0",
+        "31.1",
+        "26%",
+        "37.0",
+        "31.1",
+        "31.1"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "tenor": "10 Year",
+      "price_usd_mill": 30.5,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "30.5",
+        "23.0",
+        "33%",
+        "28.3",
+        "22.9",
+        "26.0"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Dry",
+      "vessel_type": "Supramax",
+      "tenor": "15 Year",
+      "price_usd_mill": 20.1,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "20.1",
+        "15.5",
+        "30%",
+        "17.7",
+        "15.0",
+        "15.9"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "tenor": "Resale",
+      "price_usd_mill": 38.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "38.0",
+        "33.0",
+        "15%",
+        "36.1",
+        "33.0",
+        "34.0"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "tenor": "5 Year",
+      "price_usd_mill": 31.5,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "31.5",
+        "26.5",
+        "19%",
+        "29.7",
+        "25.9",
+        "25.9"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "tenor": "10 Year",
+      "price_usd_mill": 24.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "24.0",
+        "20.4",
+        "18%",
+        "22.7",
+        "19.0",
+        "19.8"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "tenor": "15 Year",
+      "price_usd_mill": 15.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "15.0",
+        "12.0",
+        "25%",
+        "13.6",
+        "11.7",
+        "12.3"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "tenor": "Resale",
+      "price_usd_mill": 230.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "230.0",
+        "147.0",
+        "56%",
+        "180.1",
+        "146.6",
+        "144.2"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "tenor": "5 Year",
+      "price_usd_mill": 210.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "210.0",
+        "116.9",
+        "80%",
+        "151.5",
+        "115.4",
+        "115.4"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "tenor": "10 Year",
+      "price_usd_mill": 185.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "185.0",
+        "85.6",
+        "116%",
+        "124.8",
+        "85.3",
+        "84.1"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "tenor": "15 Year",
+      "price_usd_mill": 160.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "160.0",
+        "57.7",
+        "177%",
+        "94.8",
+        "56.2",
+        "57.1"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "tenor": "Resale",
+      "price_usd_mill": 140.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "140.0",
+        "93.8",
+        "49%",
+        "116.3",
+        "94.3",
+        "98.4"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "tenor": "5 Year",
+      "price_usd_mill": 125.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "125.0",
+        "76.6",
+        "63%",
+        "99.7",
+        "76.5",
+        "76.5"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "tenor": "10 Year",
+      "price_usd_mill": 110.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "110.0",
+        "60.5",
+        "82%",
+        "82.8",
+        "61.0",
+        "66.3"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "tenor": "15 Year",
+      "price_usd_mill": 92.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "92.0",
+        "40.6",
+        "127%",
+        "62.8",
+        "40.8",
+        "47.4"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "tenor": "Resale",
+      "price_usd_mill": 100.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "100.0",
+        "74.6",
+        "34%",
+        "90.6",
+        "75.6",
+        "84.3"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "tenor": "5 Year",
+      "price_usd_mill": 85.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "85.0",
+        "62.0",
+        "37%",
+        "78.5",
+        "62.8",
+        "62.8"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "tenor": "10 Year",
+      "price_usd_mill": 72.5,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "72.5",
+        "50.3",
+        "44%",
+        "67.2",
+        "50.9",
+        "58.2"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "tenor": "15 Year",
+      "price_usd_mill": 60.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "60.0",
+        "35.3",
+        "70%",
+        "48.3",
+        "35.1",
+        "41.6"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "tenor": "Resale",
+      "price_usd_mill": 60.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "60.0",
+        "51.0",
+        "18%",
+        "55.2",
+        "51.3",
+        "54.3"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "tenor": "5 Year",
+      "price_usd_mill": 52.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "52.0",
+        "42.5",
+        "22%",
+        "48.3",
+        "41.5",
+        "41.5"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "tenor": "10 Year",
+      "price_usd_mill": 42.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "42.0",
+        "33.3",
+        "26%",
+        "38.4",
+        "31.4",
+        "37.5"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "tenor": "15 Year",
+      "price_usd_mill": 30.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "30.0",
+        "20.6",
+        "45%",
+        "26.9",
+        "20.5",
+        "26.5"
+      ]
+    }
+  ],
+  "indicative_newbuilding_prices": [
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Dry",
+      "vessel_type": "Capesize",
+      "price_usd_mill": 76.5,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "76.5",
+        "73.5",
+        "4%",
+        "75.2",
+        "74.2",
+        "73.2"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "price_usd_mill": 38.5,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "38.5",
+        "36.3",
+        "6%",
+        "37.4",
+        "36.6",
+        "37.5"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Dry",
+      "vessel_type": "Ultramax",
+      "price_usd_mill": 36.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "36.0",
+        "36.0",
+        "0%",
+        "35.0",
+        "35.9",
+        "35.1"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Dry",
+      "vessel_type": "Handysize",
+      "price_usd_mill": 31.5,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "31.5",
+        "31.5",
+        "0%",
+        "31.0",
+        "31.5",
+        "31.1"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "price_usd_mill": 131.5,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "131.5",
+        "126.0",
+        "4%",
+        "130.5",
+        "126.6",
+        "129.4"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "price_usd_mill": 90.5,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "90.5",
+        "85.9",
+        "5%",
+        "89.8",
+        "87.5",
+        "87.6"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "price_usd_mill": 78.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "78.0",
+        "72.0",
+        "8%",
+        "75.9",
+        "73.0",
+        "72.7"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Tanker",
+      "vessel_type": "Panamax",
+      "price_usd_mill": 62.5,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "62.5",
+        "59.0",
+        "6%",
+        "59.9",
+        "59.5",
+        "60.2"
+      ]
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": 43,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "price_usd_mill": 52.5,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "printed_cols": [
+        "Oct 2026",
+        "Oct 2025",
+        "±%",
+        "Avg 2026",
+        "Avg 2025",
+        "Avg 2024"
+      ],
+      "printed_vals": [
+        "52.5",
+        "48.5",
+        "8%",
+        "51.4",
+        "49.3",
+        "50.2"
+      ]
+    }
+  ],
+  "bunker_prices": [
+    {
+      "issue_date": "2026-10-26",
+      "report_week": "43",
+      "port": "Singapore",
+      "vlsfo_usd_mt": 963.0,
+      "ifo380_usd_mt": 894.0,
+      "mgo_usd_mt": 1351.5,
+      "spread_vlsfo_ifo380": 69.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": "43",
+      "port": "Rotterdam",
+      "vlsfo_usd_mt": 766.0,
+      "ifo380_usd_mt": 697.0,
+      "mgo_usd_mt": 1446.0,
+      "spread_vlsfo_ifo380": 69.0,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": "43",
+      "port": "Fujairah",
+      "vlsfo_usd_mt": 981.0,
+      "ifo380_usd_mt": 751.5,
+      "mgo_usd_mt": 1768.5,
+      "spread_vlsfo_ifo380": 229.5,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026"
+    },
+    {
+      "issue_date": "2026-10-26",
+      "report_week": "43",
+      "port": "Houston",
+      "vlsfo_usd_mt": 817.0,
+      "ifo380_usd_mt": 601.5,
+      "mgo_usd_mt": 1421.0,
+      "spread_vlsfo_ifo380": 215.5,
+      "source_file": "xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026"
+    }
+  ]
+}

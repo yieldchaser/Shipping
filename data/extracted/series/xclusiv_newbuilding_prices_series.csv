@@ -1405,3 +1405,12 @@ issue_date,report_week,sector,vessel_type,price_usd_mill,source_file
 2026-10-19,42,Tanker,Aframax,78.0,xclusiv_2026_xclusiv-2026_10_19.pdf
 2026-10-19,42,Tanker,Panamax,62.5,xclusiv_2026_xclusiv-2026_10_19.pdf
 2026-10-19,42,Tanker,MR2,52.5,xclusiv_2026_xclusiv-2026_10_19.pdf
+2026-10-26,43,Dry,Capesize,76.5,xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf
+2026-10-26,43,Dry,Kamsarmax,38.5,xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf
+2026-10-26,43,Dry,Ultramax,36.0,xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf
+2026-10-26,43,Dry,Handysize,31.5,xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf
+2026-10-26,43,Tanker,VLCC,131.5,xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf
+2026-10-26,43,Tanker,Suezmax,90.5,xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf
+2026-10-26,43,Tanker,Aframax,78.0,xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf
+2026-10-26,43,Tanker,Panamax,62.5,xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf
+2026-10-26,43,Tanker,MR2,52.5,xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf

@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2944,
-      "untracked_bytes": 2298105626
+      "untracked_files": 2946,
+      "untracked_bytes": 2299223513
     },
     {
       "path": "corpus/02-hellenic",
@@ -12,8 +12,8 @@
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 10,
-      "untracked_bytes": 2546709
+      "untracked_files": 9,
+      "untracked_bytes": 2035986
     },
     {
       "path": "corpus/04-poten",
@@ -47,6 +47,21 @@
     }
   ],
   "entries": [
+    {
+      "path": "corpus/01-brokers/_digests/carriers/2026/carriers_19_10_2026_carriers_sales_purchase_market_report_week_42.md",
+      "bytes": 8751,
+      "sha256": "13e65204704deb34ab9875473b29424b22e3274c18d9ba8dfd1e8f634df7efe5"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/carriers/2026/carriers_26_10_2026_carriers_sales_purchase_market_report_week_43.md",
+      "bytes": 8988,
+      "sha256": "a825fe4d0ab026ca1e9d443be2530f773ea6c1ce6ed36f0237ffa5671389d066"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/xclusiv/2026/xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.md",
+      "bytes": 23797,
+      "sha256": "d013ef88882dd3af216e9c7493e2ce079d45601378d9a6583e39e858af1d74ef"
+    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -5606,16 +5621,6 @@
       "path": "corpus/01-brokers/carriers/2026/carriers_2026_W39_WK-39-26-CARRIERS_SP-MARKET-REPORT.pdf",
       "bytes": 322974,
       "sha256": "d15bafa10bd54633a7b5285d9e264caae96f172e69648994576a3cc5b6f0a774"
-    },
-    {
-      "path": "corpus/01-brokers/carriers/2026/carriers_2026_W42_WK-42-26-CARRIERS_SP-MARKET-REPORT.pdf",
-      "bytes": 322008,
-      "sha256": "3fa52280b83cba90583055e40a5328b7a684f36258d693797e3de0ddf66f734a"
-    },
-    {
-      "path": "corpus/01-brokers/carriers/2026/carriers_2026_W43_WK-43-26-CARRIERS_SP-MARKET-REPORT.pdf",
-      "bytes": 352031,
-      "sha256": "d16e742cbe30e5e6a7a9bd6c0f3e3dfd5fc90725c69bab0eb0c89ddd085efee9"
     },
     {
       "path": "corpus/01-brokers/carriers/2026/general_broker_28_09_2026_carriers_sales_purchase_market_report_week_39.pdf",
@@ -14761,6 +14766,11 @@
       "path": "corpus/01-brokers/xclusiv/2026/xclusiv_22_09_2026_xclusiv_shipbrokers_weekly_21st_september_2026.pdf",
       "bytes": 1825129,
       "sha256": "ef0c8095f666657b720f699dff28ea2e7849f0e4419cac64265ad61b0e91dd9f"
+    },
+    {
+      "path": "corpus/01-brokers/xclusiv/2026/xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
+      "bytes": 1750390,
+      "sha256": "de60ddbe25ae5edd28d4425797d003d841f299d092c8802d85d270426ea0c2da"
     },
     {
       "path": "corpus/01-brokers/xclusiv/2026/xclusiv_29_09_2026_xclusiv_shipbrokers_weekly_28th_september_2026.pdf",
@@ -35051,11 +35061,6 @@
       "path": "corpus/02-hellenic/vessel_valuations/2022/assets/2022-02-15_weekly-vessel-valuations-report-february-15-2022_\u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03ae-4_8c0794a8805a.jpg",
       "bytes": 52460,
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
-    },
-    {
-      "path": "corpus/03-breakwave/drybulk/2026/2026-10-27_Breakwave_Dry_Bulk.pdf",
-      "bytes": 510723,
-      "sha256": "3f800fccbeb61ab80ae96b7670bc0f5b1fdb1066cf3669510de8c671efb13145"
     },
     {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
