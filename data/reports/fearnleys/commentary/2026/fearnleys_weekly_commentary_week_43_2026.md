@@ -6,7 +6,7 @@ week: 43
 date_range: "2026-10-21 to 2026-10-23"
 comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-26 14:33:18"
+generated_at: "2026-10-26 21:50:39"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 43, 2026
