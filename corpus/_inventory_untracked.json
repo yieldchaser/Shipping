@@ -7,13 +7,13 @@
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4057,
-      "untracked_bytes": 2389108169
+      "untracked_files": 4069,
+      "untracked_bytes": 2396815486
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 9,
-      "untracked_bytes": 2035986
+      "untracked_files": 15,
+      "untracked_bytes": 2475556
     },
     {
       "path": "corpus/04-poten",
@@ -14773,6 +14773,21 @@
       "sha256": "0bba66ef4bd0790e891d2fa8957aff2678eaaf35df892acb039919ba36270d07"
     },
     {
+      "path": "corpus/02-hellenic/demolition/2026/2026-10-24_best-oasis-weekly-recycling-market-report-23-october-2026.html",
+      "bytes": 3182,
+      "sha256": "b6a68130613d0159433e78d49139403799f5a92feb0501b494be93507dc967e9"
+    },
+    {
+      "path": "corpus/02-hellenic/demolition/2026/2026-10-24_gms-week-43-freight-refuses-to-stay-down.html",
+      "bytes": 6609,
+      "sha256": "4d76fc8289e33c8e7572328d7cf3f18e1ff65c53c746612f13ab905c9adb2235"
+    },
+    {
+      "path": "corpus/02-hellenic/demolition/2026/assets/2026-10-24_gms-week-43-freight-refuses-to-stay-down_img1_123-5_5b1d3edbe73c.jpg",
+      "bytes": 42924,
+      "sha256": "2def52b0665711682c956ed8873270521d273efcea6ee084cf8fc7f4161d5806"
+    },
+    {
       "path": "corpus/02-hellenic/demolition/pdfs/2024-04-15_Ship-recycling-market-insight-week-15-2024-Ramadan_Resurgence\u2026Or_Not.pdf",
       "bytes": 653148,
       "sha256": "a79a268821e132d8cdeb7fcd037d30c80ded62b9953ad0804fd3f7244207ab74"
@@ -14796,6 +14811,16 @@
       "path": "corpus/02-hellenic/demolition/pdfs/2026-08-15_best-oasis-weekly-recycling-market-report-14-august-2026_weekly-ship-recycling-report-08-augu_4ca6a14ecc27.pdf",
       "bytes": 1526416,
       "sha256": "52b23f9d42d155925f97c66cebc616237a05be249ba46e4de12f1473f63b3c70"
+    },
+    {
+      "path": "corpus/02-hellenic/demolition/pdfs/2026-10-24_best-oasis-weekly-recycling-market-report-23-october-2026_weekly-ship-recycling-report-17-octo_d69d4349fe1f.pdf",
+      "bytes": 1545347,
+      "sha256": "c5c5a4520e7c6d0d4222b84c16a2bc0f30decc249e7fbbaa89608c0a3417b026"
+    },
+    {
+      "path": "corpus/02-hellenic/demolition/pdfs/2026-10-24_gms-week-43-freight-refuses-to-stay-down_ship-recycling-market-insight-week-4_45095781894f.pdf",
+      "bytes": 957556,
+      "sha256": "43b5a67cd5dcd26bbeaa9c49924509571b985857c92b9b2ecef21c688916e9ed"
     },
     {
       "path": "corpus/02-hellenic/demolition/pdfs/athenian/2021-07-07_athenian-shipbrokers-s-a-demolition-quick-update-week-26-2021_ship-recycling-weekly-26-2021-atheni_3c137c5215b0.pdf",
@@ -17708,6 +17733,11 @@
       "sha256": "7a526abe182eb3180698b293ecab270c9013bd392dab9c82c8d27534dac96b4e"
     },
     {
+      "path": "corpus/02-hellenic/demolition/pdfs/best_oasis/2026-10-24_best-oasis-weekly-recycling-market-repor_Weekly-Ship-Recycling-Report-17-October-23-October-2026.pdf",
+      "bytes": 1545347,
+      "sha256": "c5c5a4520e7c6d0d4222b84c16a2bc0f30decc249e7fbbaa89608c0a3417b026"
+    },
+    {
       "path": "corpus/02-hellenic/demolition/pdfs/gms/2021-07-05_gms-week-27-double-trouble_web_818af89830b3.pdf",
       "bytes": 92695,
       "sha256": "7e926d7c780688c2730e09f8d3b78f1f80cfcc722d8d092b87398031a9b35d29"
@@ -20218,9 +20248,24 @@
       "sha256": "94fe795675127664dd244b56e6220edc2549f31123d5660b14bc632eec0a1395"
     },
     {
+      "path": "corpus/02-hellenic/demolition/pdfs/gms/2026-10-24_gms-week-43-freight-refuses-to-stay-down_Ship-recycling-market-insight-Week-43-10-23-2026-Freight-Refuses-to-Stay-Down.pdf",
+      "bytes": 957556,
+      "sha256": "43b5a67cd5dcd26bbeaa9c49924509571b985857c92b9b2ecef21c688916e9ed"
+    },
+    {
       "path": "corpus/02-hellenic/iron_ore/2024/assets/2024-07-12_mmi-daily-iron-ore-index-report-july-12-2024_img1_1207202\u03b4\u03c3_e133c3395525.jpg",
       "bytes": 469290,
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/2026/2026-10-26_mmi-daily-iron-ore-index-report-october-26-2026.html",
+      "bytes": 4317,
+      "sha256": "fdc59f0d44aab6da93e75a69a86e95e73bb112ebf77aefb7bf1fb9a7ca2318c2"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-10-26_mmi-daily-iron-ore-index-report-october-26-2026_26102026chinese_9018f8a5fa1f.jpg",
+      "bytes": 188213,
+      "sha256": "f8dcd0c2b799eb37447d06e4f2f721c6fed9105731474b8b45f5e047723d02c0"
     },
     {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
@@ -30218,6 +30263,11 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
+      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-10-26_mmi-daily-iron-ore-index-report-october-26-2026_mmi-daily-iron-ore-report-for-26th-o_b1cb531d9a74.pdf",
+      "bytes": 1186361,
+      "sha256": "addb54024b3ba192afe8f830776b65e56b1726cec5490fa4442e0ee793c42852"
+    },
+    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31606,6 +31656,11 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-26_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-26th-October-2026.pdf",
+      "bytes": 1186361,
+      "sha256": "addb54024b3ba192afe8f830776b65e56b1726cec5490fa4442e0ee793c42852"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -35038,9 +35093,34 @@
       "sha256": "5c5179782527d5b5d012add55657c36a653c42ef6af6b1216b205122d751e410"
     },
     {
+      "path": "corpus/02-hellenic/tanker_charter/2026/assets/2026-09-30_weekly-tanker-time-charter-estimates-september-30-2026_30092026tanker.jpg",
+      "bytes": 83544,
+      "sha256": "6be69294e6ca929575316dc4a1ce538a02b28f36535ddc7d6c27e029bb1acae2"
+    },
+    {
       "path": "corpus/02-hellenic/vessel_valuations/2022/assets/2022-02-15_weekly-vessel-valuations-report-february-15-2022_\u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03ae-4_8c0794a8805a.jpg",
       "bytes": 52460,
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-26_chinas-economic-trajectory.html",
+      "bytes": 11926,
+      "sha256": "1446ff7c7848ab3cfa8c31c20280af3d02ad7be738a63f37516ae99445c5f042"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-26_chinas-economic-trajectory.md",
+      "bytes": 10115,
+      "sha256": "68c4534ff1607346025da9fd1272585c5a15b5108eb68ed2597b5c0b7587a0f5"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-26_diesel-drones-and-donald.html",
+      "bytes": 6670,
+      "sha256": "13dd77b59c3c0fc00fc6b0fbf0b9201b05e034d5fd4cfc90ab8a1fe26ee38973"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-26_diesel-drones-and-donald.md",
+      "bytes": 5265,
+      "sha256": "c998459c5556e49379aa1f76596755c70b7c03812999f8bbebb4c93d3557b497"
     },
     {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
@@ -35086,6 +35166,16 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-26_diesel-drones-and-donald_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b9e547c0c2bb.png",
+      "bytes": 52003,
+      "sha256": "4bfd8513d4b329ed58a114be8074bb26ce4ff604eeffd3e35a8d09cbebb7cc6d"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-26_diesel-drones-and-donald_img_tankerrr-2_89290ba50318.jpg",
+      "bytes": 353591,
+      "sha256": "ae143e33ec32a395cd3b2f0f4e076acbcdd1f1c59116904d641a488a1b9ad9c7"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
