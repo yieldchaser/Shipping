@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24 12:26:43Z",
+  "updated_at": "2026-10-26 13:27:44Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -785,7 +785,7 @@
     {
       "file": "affinity_indices_series.csv",
       "target_metric": "Baltic Clean & Dirty freight benchmark indices",
-      "rows": 496,
+      "rows": 502,
       "columns": [
         "issue_date",
         "report_week",
@@ -816,7 +816,7 @@
     {
       "file": "agora_indicators_series.csv",
       "target_metric": "Commodities, FX, Bonds, Stocks, Bunkers",
-      "rows": 10002,
+      "rows": 10143,
       "columns": [
         "issue_date",
         "report_week",
@@ -881,7 +881,7 @@
     {
       "file": "athenian_yearly_demolition_volume_series.csv",
       "target_metric": "Athenian Yearly Demolition Volume",
-      "rows": 4058,
+      "rows": 4090,
       "columns": [
         "issue_date",
         "report_week",
@@ -945,7 +945,7 @@
     {
       "file": "bancosta_container_fixtures_series.csv",
       "target_metric": "Containership reported charter fixtures ($/day)",
-      "rows": 293,
+      "rows": 946,
       "columns": [
         "issue_date",
         "report_week",
@@ -957,6 +957,7 @@
         "account",
         "period_mos",
         "rate_usd_day",
+        "rate_eur_day",
         "source_file"
       ],
       "status": "Verified"
@@ -964,7 +965,7 @@
     {
       "file": "bancosta_demolition_series.csv",
       "target_metric": "Indicative demolition assessments ($/LDT)",
-      "rows": 959,
+      "rows": 1053,
       "columns": [
         "issue_date",
         "report_week",
@@ -1028,7 +1029,7 @@
     {
       "file": "bancosta_fx_series.csv",
       "target_metric": "Foreign exchange rates (USD/EUR, JPY, KRW, CNY)",
-      "rows": 288,
+      "rows": 340,
       "columns": [
         "issue_date",
         "report_week",
@@ -1044,7 +1045,7 @@
     {
       "file": "bancosta_newbuilding_series.csv",
       "target_metric": "Indicative newbuilding prices ($/m)",
-      "rows": 2377,
+      "rows": 2544,
       "columns": [
         "issue_date",
         "report_week",
@@ -1097,7 +1098,7 @@
     {
       "file": "bancosta_secondhand_matrix_series.csv",
       "target_metric": "Baltic secondhand price assessment matrix ($/m)",
-      "rows": 1898,
+      "rows": 1945,
       "columns": [
         "issue_date",
         "report_week",
@@ -1114,7 +1115,7 @@
     {
       "file": "bancosta_vhss_series.csv",
       "target_metric": "VHSS Containership ConTex index & timecharter rates",
-      "rows": 553,
+      "rows": 644,
       "columns": [
         "issue_date",
         "report_week",
@@ -1230,7 +1231,7 @@
     {
       "file": "carriers_bda_series.csv",
       "target_metric": "Subcontinent scrap price assessments ($/LDT)",
-      "rows": 387,
+      "rows": 396,
       "columns": [
         "issue_date",
         "report_week",
@@ -1246,7 +1247,7 @@
     {
       "file": "carriers_bspa_series.csv",
       "target_metric": "Secondhand 5Y price assessments () with visual sentiment",
-      "rows": 785,
+      "rows": 792,
       "columns": [
         "issue_date",
         "report_week",
@@ -1262,7 +1263,7 @@
     {
       "file": "carriers_demolition_series.csv",
       "target_metric": "Demolition reported sales fixtures ($/LDT)",
-      "rows": 170,
+      "rows": 172,
       "columns": [
         "issue_date",
         "report_week",
@@ -1283,7 +1284,7 @@
     {
       "file": "carriers_dry_tc_period_series.csv",
       "target_metric": "Dry bulk time charter period indicative ideas ($/day)",
-      "rows": 3096,
+      "rows": 3168,
       "columns": [
         "issue_date",
         "report_week",
@@ -1300,7 +1301,7 @@
     {
       "file": "carriers_dry_weighted_routes_series.csv",
       "target_metric": "Dry BC Baltic TC weighted average routes ($/day)",
-      "rows": 645,
+      "rows": 660,
       "columns": [
         "issue_date",
         "report_week",
@@ -1315,7 +1316,7 @@
     {
       "file": "carriers_indices_series.csv",
       "target_metric": "DSPA, BSPA, TSPA, DSRA, TSRA, BSRA, BNBI, DNBI, TNBI & Baltic Dry indices",
-      "rows": 1806,
+      "rows": 1848,
       "columns": [
         "issue_date",
         "report_week",
@@ -1332,7 +1333,7 @@
     {
       "file": "carriers_newbuilding_series.csv",
       "target_metric": "Newbuilding reported contracting orders",
-      "rows": 302,
+      "rows": 304,
       "columns": [
         "issue_date",
         "report_week",
@@ -1353,7 +1354,7 @@
     {
       "file": "carriers_sales_series.csv",
       "target_metric": "Secondhand sales transactions () with sister-ship en bloc",
-      "rows": 3081,
+      "rows": 3146,
       "columns": [
         "issue_date",
         "report_week",
@@ -1375,7 +1376,7 @@
     {
       "file": "carriers_tanker_tce_series.csv",
       "target_metric": "Baltic dirty/clean tanker indices & VLCC/Suez/Afra TCE ($/day)",
-      "rows": 774,
+      "rows": 807,
       "columns": [
         "issue_date",
         "report_week",
@@ -1468,7 +1469,7 @@
     {
       "file": "clarksons_sales_series.csv",
       "target_metric": "Clarksons Platou Hellas secondhand sales transactions ($M)",
-      "rows": 1375,
+      "rows": 1388,
       "columns": [
         "issue_date",
         "report_week",
@@ -1930,6 +1931,22 @@
       "status": "Verified"
     },
     {
+      "file": "fearnleys_drybulk_growth_series.csv",
+      "target_metric": "Fearnleys Drybulk Growth",
+      "rows": 180,
+      "columns": [
+        "issue_date",
+        "segment",
+        "metric",
+        "through_week",
+        "last_weeks",
+        "value_pct",
+        "clause",
+        "source_file"
+      ],
+      "status": "Verified"
+    },
+    {
       "file": "fearnleys_rates_series.csv",
       "target_metric": "Tanker spot, dry bulk, gas, & 1Y T/C rates ($/day, WS)",
       "rows": 17193,
@@ -2192,7 +2209,7 @@
     {
       "file": "hellenic_iron_ore_commentary_series.csv",
       "target_metric": "Hellenic Iron Ore Commentary",
-      "rows": 1179,
+      "rows": 1201,
       "columns": [
         "\ufeffissue_date",
         "commentary",
@@ -2203,7 +2220,7 @@
     {
       "file": "hellenic_iron_ore_daily_series.csv",
       "target_metric": "Daily iron ore spot, futures (DCE, SGX), steel benchmarks",
-      "rows": 1175,
+      "rows": 1193,
       "columns": [
         "date",
         "year",
@@ -2247,7 +2264,7 @@
     {
       "file": "hellenic_iron_ore_pdf_averages_series.csv",
       "target_metric": "MMi Daily Iron Ore weekly/monthly brand price averages & historical benchmarks",
-      "rows": 11572,
+      "rows": 11795,
       "columns": [
         "date",
         "year",
@@ -2269,7 +2286,7 @@
     {
       "file": "hellenic_iron_ore_pdf_brand_specs_series.csv",
       "target_metric": "MMi Daily Iron Ore physical brand technical specifications (Fe, SiO2, Al2O3, P)",
-      "rows": 29506,
+      "rows": 32564,
       "columns": [
         "date",
         "year",
@@ -2287,7 +2304,7 @@
     {
       "file": "hellenic_iron_ore_pdf_brands_series.csv",
       "target_metric": "Hellenic Iron Ore Pdf Brands",
-      "rows": 31527,
+      "rows": 32482,
       "columns": [
         "date",
         "year",
@@ -2306,7 +2323,7 @@
     {
       "file": "hellenic_iron_ore_pdf_dashboard_series.csv",
       "target_metric": "Hellenic Iron Ore Pdf Dashboard",
-      "rows": 17805,
+      "rows": 17851,
       "columns": [
         "date",
         "year",
@@ -2324,7 +2341,7 @@
     {
       "file": "hellenic_iron_ore_pdf_domestic_concentrate_series.csv",
       "target_metric": "Hellenic Iron Ore Pdf Domestic Concentrate",
-      "rows": 5587,
+      "rows": 5820,
       "columns": [
         "date",
         "year",
@@ -2362,7 +2379,7 @@
     {
       "file": "hellenic_iron_ore_pdf_futures_series.csv",
       "target_metric": "Hellenic Iron Ore Pdf Futures",
-      "rows": 2369,
+      "rows": 2384,
       "columns": [
         "date",
         "year",
@@ -2426,7 +2443,7 @@
     {
       "file": "hellenic_iron_ore_pdf_indices_series.csv",
       "target_metric": "Hellenic Iron Ore Pdf Indices",
-      "rows": 11597,
+      "rows": 11618,
       "columns": [
         "date",
         "year",
@@ -2531,7 +2548,7 @@
     {
       "file": "hellenic_iron_ore_pdf_steel_series.csv",
       "target_metric": "Hellenic Iron Ore Pdf Steel",
-      "rows": 8488,
+      "rows": 8509,
       "columns": [
         "date",
         "year",
@@ -2614,7 +2631,7 @@
     {
       "file": "hellenic_vv_matrix_series.csv",
       "target_metric": "Hellenic Vv Matrix",
-      "rows": 12373,
+      "rows": 19946,
       "columns": [
         "issue_date",
         "sector",
@@ -2661,7 +2678,7 @@
     {
       "file": "intermodal_baltic_indices_series.csv",
       "target_metric": "Baltic Dry indices (BDI, BCI, BPI, BSI, BHSI)",
-      "rows": 1265,
+      "rows": 1270,
       "columns": [
         "issue_date",
         "report_week",
@@ -2697,7 +2714,7 @@
     {
       "file": "intermodal_currencies_series.csv",
       "target_metric": "Demolition cash currencies (BDT, INR, PKR, TRY)",
-      "rows": 692,
+      "rows": 696,
       "columns": [
         "issue_date",
         "report_week",
@@ -2713,7 +2730,7 @@
     {
       "file": "intermodal_demo_sales_series.csv",
       "target_metric": "Reported demolition scrap sales fixtures ($/LDT)",
-      "rows": 581,
+      "rows": 583,
       "columns": [
         "issue_date",
         "report_week",
@@ -2733,7 +2750,7 @@
     {
       "file": "intermodal_demolition_prices_series.csv",
       "target_metric": "Indicative demolition prices across subcontinent ($/LDT)",
-      "rows": 2056,
+      "rows": 2064,
       "columns": [
         "issue_date",
         "report_week",
@@ -2749,7 +2766,7 @@
     {
       "file": "intermodal_demolition_series.csv",
       "target_metric": "Indicative demolition prices & sales fixtures combined",
-      "rows": 2637,
+      "rows": 2647,
       "columns": [
         "issue_date",
         "report_week",
@@ -2776,7 +2793,7 @@
     {
       "file": "intermodal_indicative_values_series.csv",
       "target_metric": "Indicative secondhand 5Y asset values ()",
-      "rows": 2378,
+      "rows": 2397,
       "columns": [
         "issue_date",
         "report_week",
@@ -2847,7 +2864,7 @@
     {
       "file": "intermodal_newbuilding_orders_series.csv",
       "target_metric": "Reported newbuilding contracting orders & shipyard contracts",
-      "rows": 1917,
+      "rows": 1930,
       "columns": [
         "issue_date",
         "report_week",
@@ -2867,7 +2884,7 @@
     {
       "file": "intermodal_newbuilding_prices_series.csv",
       "target_metric": "Indicative newbuilding benchmark prices ()",
-      "rows": 3213,
+      "rows": 3225,
       "columns": [
         "issue_date",
         "report_week",
@@ -2884,7 +2901,7 @@
     {
       "file": "intermodal_newbuilding_series.csv",
       "target_metric": "Indicative newbuilding prices & reported orders combined",
-      "rows": 5130,
+      "rows": 5155,
       "columns": [
         "issue_date",
         "report_week",
@@ -2908,7 +2925,7 @@
     {
       "file": "intermodal_sales_series.csv",
       "target_metric": "Secondhand sales transactions ()",
-      "rows": 3846,
+      "rows": 3858,
       "columns": [
         "issue_date",
         "report_week",
@@ -2932,7 +2949,7 @@
     {
       "file": "intermodal_tanker_spot_series.csv",
       "target_metric": "Tanker spot market WS points & TCE ($/day)",
-      "rows": 3915,
+      "rows": 3930,
       "columns": [
         "issue_date",
         "report_week",
@@ -2952,7 +2969,7 @@
     {
       "file": "intermodal_tc_rates_series.csv",
       "target_metric": "Time charter rates across crude, product, and dry bulk",
-      "rows": 5273,
+      "rows": 5293,
       "columns": [
         "issue_date",
         "report_week",
@@ -3066,7 +3083,7 @@
     {
       "file": "lion_demolition_series.csv",
       "target_metric": "Indicative scrap price assessments ($/LDT)",
-      "rows": 516,
+      "rows": 600,
       "columns": [
         "report_date",
         "week",
@@ -3275,7 +3292,7 @@
     {
       "file": "seabrokers_feature_vessels_series.csv",
       "target_metric": "Seabrokers Feature Vessels",
-      "rows": 64,
+      "rows": 79,
       "columns": [
         "report_date",
         "year",
@@ -3294,7 +3311,7 @@
     {
       "file": "seabrokers_fleet_moves_series.csv",
       "target_metric": "Seabrokers Fleet Moves",
-      "rows": 197,
+      "rows": 203,
       "columns": [
         "report_date",
         "year",
@@ -3311,7 +3328,7 @@
     {
       "file": "seabrokers_osv_monthly_history_series.csv",
       "target_metric": "Seabrokers Osv Monthly History",
-      "rows": 6376,
+      "rows": 6900,
       "columns": [
         "report_date",
         "year",
@@ -3329,7 +3346,7 @@
     {
       "file": "seabrokers_osv_spot_rates_series.csv",
       "target_metric": "Seabrokers Osv Spot Rates",
-      "rows": 1895,
+      "rows": 1920,
       "columns": [
         "report_date",
         "year",
@@ -3346,7 +3363,7 @@
     {
       "file": "seabrokers_osv_utilisation_series.csv",
       "target_metric": "Seabrokers Osv Utilisation",
-      "rows": 2328,
+      "rows": 2352,
       "columns": [
         "report_date",
         "year",
@@ -3381,9 +3398,27 @@
       "status": "Verified"
     },
     {
+      "file": "seabrokers_rig_utilisation_monthly_series.csv",
+      "target_metric": "Seabrokers Rig Utilisation Monthly",
+      "rows": 4830,
+      "columns": [
+        "report_date",
+        "year",
+        "month",
+        "period",
+        "region",
+        "metric",
+        "value",
+        "unit",
+        "source",
+        "source_page"
+      ],
+      "status": "Verified"
+    },
+    {
       "file": "seabrokers_rigs_market_series.csv",
       "target_metric": "Seabrokers Rigs Market",
-      "rows": 4482,
+      "rows": 3139,
       "columns": [
         "report_date",
         "year",
@@ -3405,7 +3440,7 @@
     {
       "file": "seabrokers_snp_auctions_series.csv",
       "target_metric": "Seabrokers Snp Auctions",
-      "rows": 251,
+      "rows": 281,
       "columns": [
         "report_date",
         "year",
@@ -3560,6 +3595,20 @@
       "status": "Verified"
     },
     {
+      "file": "star_asia_bunker_series.csv",
+      "target_metric": "Star Asia Bunker",
+      "rows": 2969,
+      "columns": [
+        "issue_date",
+        "report_week",
+        "port",
+        "grade",
+        "price_usd_t",
+        "source_file"
+      ],
+      "status": "Verified"
+    },
+    {
       "file": "star_asia_deals_series.csv",
       "target_metric": "Demolition beaching & arrival deals ($/LDT)",
       "rows": 3548,
@@ -3633,6 +3682,22 @@
       "status": "Verified"
     },
     {
+      "file": "star_asia_fx_series.csv",
+      "target_metric": "Star Asia Fx",
+      "rows": 990,
+      "columns": [
+        "issue_date",
+        "report_week",
+        "currency_pair",
+        "country",
+        "rate",
+        "rate_prev_week",
+        "wow_pct_printed",
+        "source_file"
+      ],
+      "status": "Verified"
+    },
+    {
       "file": "star_asia_iron_ore_series.csv",
       "target_metric": "Iron ore spot and derivative price benchmarks ($/t)",
       "rows": 390,
@@ -3685,7 +3750,7 @@
     {
       "file": "star_asia_snp_sales_series.csv",
       "target_metric": "Secondhand sales transactions ()",
-      "rows": 3696,
+      "rows": 3703,
       "columns": [
         "issue_date",
         "report_week",
@@ -3697,6 +3762,27 @@
         "built_country",
         "price_usd_mill",
         "buyers_comments",
+        "source_file"
+      ],
+      "status": "Verified"
+    },
+    {
+      "file": "star_asia_tc_rates_series.csv",
+      "target_metric": "Star Asia Tc Rates",
+      "rows": 999,
+      "columns": [
+        "issue_date",
+        "report_week",
+        "sector",
+        "vessel_type",
+        "dwt",
+        "rate_usd_day",
+        "last_week_usd_day",
+        "last_year_usd_day",
+        "wow_pct_printed",
+        "yoy_pct_printed",
+        "check",
+        "page",
         "source_file"
       ],
       "status": "Verified"
@@ -3877,13 +3963,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 697251,
-  "total_master_series_csvs": 162,
-  "total_stacked_rows": 697251,
-  "total_series_csvs": 162,
+  "total_master_stacked_rows": 720464,
+  "total_master_series_csvs": 167,
+  "total_stacked_rows": 720464,
+  "total_series_csvs": 167,
   "total_master_workbooks": 1,
-  "total_series_count": 162,
-  "total_rows_extracted": 697556,
+  "total_series_count": 167,
+  "total_rows_extracted": 720769,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 606,
     "advanced_shipping_demolition_series.csv": 2024,
@@ -3891,45 +3977,45 @@
     "advanced_shipping_sales_series.csv": 6857,
     "advanced_shipping_secondhand_matrix_series.csv": 8157,
     "affinity_bda_series.csv": 753,
-    "affinity_indices_series.csv": 496,
+    "affinity_indices_series.csv": 502,
     "affinity_tce_series.csv": 4096,
-    "agora_indicators_series.csv": 10002,
+    "agora_indicators_series.csv": 10143,
     "athenian_historical_demolition_prices_series.csv": 240,
     "athenian_indicative_demolition_series.csv": 3076,
     "athenian_market_commentary_series.csv": 6,
-    "athenian_yearly_demolition_volume_series.csv": 4058,
+    "athenian_yearly_demolition_volume_series.csv": 4090,
     "baltic_ncfi_series.csv": 2057,
     "baltic_reports_metadata.csv": 2244,
     "bancosta_commodities_series.csv": 8573,
-    "bancosta_container_fixtures_series.csv": 293,
-    "bancosta_demolition_series.csv": 959,
+    "bancosta_container_fixtures_series.csv": 946,
+    "bancosta_demolition_series.csv": 1053,
     "bancosta_ffa_series.csv": 7762,
     "bancosta_freight_rates_series.csv": 20677,
-    "bancosta_fx_series.csv": 288,
-    "bancosta_newbuilding_series.csv": 2377,
+    "bancosta_fx_series.csv": 340,
+    "bancosta_newbuilding_series.csv": 2544,
     "bancosta_sales_series.csv": 3261,
-    "bancosta_secondhand_matrix_series.csv": 1898,
-    "bancosta_vhss_series.csv": 553,
+    "bancosta_secondhand_matrix_series.csv": 1945,
+    "bancosta_vhss_series.csv": 644,
     "best_oasis_deals_series.csv": 905,
     "best_oasis_demolition_series.csv": 866,
     "best_oasis_exchange_rates_series.csv": 170,
     "best_oasis_market_commentary_series.csv": 1031,
     "breakwave_fundamentals_series.csv": 2769,
     "breakwave_insights_metadata.csv": 3235,
-    "carriers_bda_series.csv": 387,
-    "carriers_bspa_series.csv": 785,
-    "carriers_demolition_series.csv": 170,
-    "carriers_dry_tc_period_series.csv": 3096,
-    "carriers_dry_weighted_routes_series.csv": 645,
-    "carriers_indices_series.csv": 1806,
-    "carriers_newbuilding_series.csv": 302,
-    "carriers_sales_series.csv": 3081,
-    "carriers_tanker_tce_series.csv": 774,
+    "carriers_bda_series.csv": 396,
+    "carriers_bspa_series.csv": 792,
+    "carriers_demolition_series.csv": 172,
+    "carriers_dry_tc_period_series.csv": 3168,
+    "carriers_dry_weighted_routes_series.csv": 660,
+    "carriers_indices_series.csv": 1848,
+    "carriers_newbuilding_series.csv": 304,
+    "carriers_sales_series.csv": 3146,
+    "carriers_tanker_tce_series.csv": 807,
     "clarksons_demolition_sales_series.csv": 70,
     "clarksons_demolition_series.csv": 123,
     "clarksons_desk_talk_series.csv": 352,
     "clarksons_macro_series.csv": 165,
-    "clarksons_sales_series.csv": 1375,
+    "clarksons_sales_series.csv": 1388,
     "clarksons_snp_sales_series.csv": 1329,
     "compare_vs_clarksons_sales_series.csv": 0,
     "compare_vs_clarksons_snp_sales_series.csv": 393,
@@ -3946,6 +4032,7 @@
     "drewry_ais_product_lr2_series.csv": 32,
     "drewry_opinions_metadata.csv": 558,
     "drewry_wci_series.csv": 9,
+    "fearnleys_drybulk_growth_series.csv": 180,
     "fearnleys_rates_series.csv": 17193,
     "gibson_bunker_prices_series.csv": 1036,
     "gibson_spot_chart_daily.csv": 9330,
@@ -3961,50 +4048,50 @@
     "hellenic_capesize_c3_c5_series.csv": 1164,
     "hellenic_gms_demolition_series.csv": 1108,
     "hellenic_gms_port_positions_series.csv": 3029,
-    "hellenic_iron_ore_commentary_series.csv": 1179,
-    "hellenic_iron_ore_daily_series.csv": 1175,
-    "hellenic_iron_ore_pdf_averages_series.csv": 11572,
-    "hellenic_iron_ore_pdf_brand_specs_series.csv": 29506,
-    "hellenic_iron_ore_pdf_brands_series.csv": 31527,
-    "hellenic_iron_ore_pdf_dashboard_series.csv": 17805,
-    "hellenic_iron_ore_pdf_domestic_concentrate_series.csv": 5587,
+    "hellenic_iron_ore_commentary_series.csv": 1201,
+    "hellenic_iron_ore_daily_series.csv": 1193,
+    "hellenic_iron_ore_pdf_averages_series.csv": 11795,
+    "hellenic_iron_ore_pdf_brand_specs_series.csv": 32564,
+    "hellenic_iron_ore_pdf_brands_series.csv": 32482,
+    "hellenic_iron_ore_pdf_dashboard_series.csv": 17851,
+    "hellenic_iron_ore_pdf_domestic_concentrate_series.csv": 5820,
     "hellenic_iron_ore_pdf_freight_rates_series.csv": 22781,
-    "hellenic_iron_ore_pdf_futures_series.csv": 2369,
+    "hellenic_iron_ore_pdf_futures_series.csv": 2384,
     "hellenic_iron_ore_pdf_import_volumes_series.csv": 21561,
     "hellenic_iron_ore_pdf_index_comparisons_series.csv": 14826,
-    "hellenic_iron_ore_pdf_indices_series.csv": 11597,
+    "hellenic_iron_ore_pdf_indices_series.csv": 11618,
     "hellenic_iron_ore_pdf_normalisations_series.csv": 28990,
     "hellenic_iron_ore_pdf_port_differentials_series.csv": 18672,
     "hellenic_iron_ore_pdf_port_inventories_series.csv": 6984,
     "hellenic_iron_ore_pdf_spreads_series.csv": 3497,
     "hellenic_iron_ore_pdf_steel_mill_pnl_series.csv": 9627,
-    "hellenic_iron_ore_pdf_steel_series.csv": 8488,
+    "hellenic_iron_ore_pdf_steel_series.csv": 8509,
     "hellenic_iron_ore_table_series.csv": 5614,
     "hellenic_smm_market_drivers_series.csv": 28,
     "hellenic_vv_benchmark_sales_series.csv": 124,
-    "hellenic_vv_matrix_series.csv": 12373,
+    "hellenic_vv_matrix_series.csv": 19946,
     "hellenic_vv_sales_series.csv": 2091,
-    "intermodal_baltic_indices_series.csv": 1265,
+    "intermodal_baltic_indices_series.csv": 1270,
     "intermodal_bunkers_series.csv": 2314,
-    "intermodal_currencies_series.csv": 692,
-    "intermodal_demo_sales_series.csv": 581,
-    "intermodal_demolition_prices_series.csv": 2056,
-    "intermodal_demolition_series.csv": 2637,
-    "intermodal_indicative_values_series.csv": 2378,
+    "intermodal_currencies_series.csv": 696,
+    "intermodal_demo_sales_series.csv": 583,
+    "intermodal_demolition_prices_series.csv": 2064,
+    "intermodal_demolition_series.csv": 2647,
+    "intermodal_indicative_values_series.csv": 2397,
     "intermodal_macro_daily_series.csv": 23030,
     "intermodal_macro_series.csv": 4878,
     "intermodal_maritime_stocks_series.csv": 3185,
-    "intermodal_newbuilding_orders_series.csv": 1917,
-    "intermodal_newbuilding_prices_series.csv": 3213,
-    "intermodal_newbuilding_series.csv": 5130,
-    "intermodal_sales_series.csv": 3846,
-    "intermodal_tanker_spot_series.csv": 3915,
-    "intermodal_tc_rates_series.csv": 5273,
+    "intermodal_newbuilding_orders_series.csv": 1930,
+    "intermodal_newbuilding_prices_series.csv": 3225,
+    "intermodal_newbuilding_series.csv": 5155,
+    "intermodal_sales_series.csv": 3858,
+    "intermodal_tanker_spot_series.csv": 3930,
+    "intermodal_tc_rates_series.csv": 5293,
     "ism_coaster_freight_series.csv": 12491,
     "ism_handy_freight_series.csv": 17851,
     "lion_deals_series.csv": 1369,
     "lion_demo_sales_series.csv": 114,
-    "lion_demolition_series.csv": 516,
+    "lion_demolition_series.csv": 600,
     "lion_demometer_series.csv": 600,
     "lion_sales_series.csv": 1255,
     "poten_fixtures_series.csv": 100,
@@ -4015,14 +4102,15 @@
     "poten_top_charterers_series.csv": 776,
     "poten_vlcc_historical_rates_series.csv": 24,
     "seabrokers_catalog_metadata.csv": 98,
-    "seabrokers_feature_vessels_series.csv": 64,
-    "seabrokers_fleet_moves_series.csv": 197,
-    "seabrokers_osv_monthly_history_series.csv": 6376,
-    "seabrokers_osv_spot_rates_series.csv": 1895,
-    "seabrokers_osv_utilisation_series.csv": 2328,
+    "seabrokers_feature_vessels_series.csv": 79,
+    "seabrokers_fleet_moves_series.csv": 203,
+    "seabrokers_osv_monthly_history_series.csv": 6900,
+    "seabrokers_osv_spot_rates_series.csv": 1920,
+    "seabrokers_osv_utilisation_series.csv": 2352,
     "seabrokers_renewables_and_ets_series.csv": 16,
-    "seabrokers_rigs_market_series.csv": 4482,
-    "seabrokers_snp_auctions_series.csv": 251,
+    "seabrokers_rig_utilisation_monthly_series.csv": 4830,
+    "seabrokers_rigs_market_series.csv": 3139,
+    "seabrokers_snp_auctions_series.csv": 281,
     "signal_reports_metadata.csv": 454,
     "signal_vessel_counts_series.csv": 120,
     "singletons_sales_series.csv": 46,
@@ -4030,13 +4118,16 @@
     "ssy_capesize_index_time_series.csv": 523,
     "ssy_route_rates_series.csv": 5230,
     "star_asia_5y_history_series.csv": 784,
+    "star_asia_bunker_series.csv": 2969,
     "star_asia_deals_series.csv": 3548,
     "star_asia_demolition_series.csv": 3168,
     "star_asia_ferrous_scrap_series.csv": 1315,
+    "star_asia_fx_series.csv": 990,
     "star_asia_iron_ore_series.csv": 390,
     "star_asia_ldt_comparison_series.csv": 1320,
     "star_asia_metals_energy_series.csv": 1382,
-    "star_asia_snp_sales_series.csv": 3696,
+    "star_asia_snp_sales_series.csv": 3703,
+    "star_asia_tc_rates_series.csv": 999,
     "star_asia_valuation_matrix_series.csv": 3346,
     "xclusiv_baltic_indices_series.csv": 1036,
     "xclusiv_demo_sales_series.csv": 613,
