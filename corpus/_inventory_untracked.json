@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2950,
-      "untracked_bytes": 2299582615
+      "untracked_files": 2942,
+      "untracked_bytes": 2297431587
     },
     {
       "path": "corpus/02-hellenic",
@@ -47,26 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "path": "corpus/01-brokers/_digests/advanced_shipping/2026/advanced_shipping_24_10_2026_advanced_shipping_trading_weekly_shipping_marke.md",
-      "bytes": 17523,
-      "sha256": "a61d1c64771e1890ed8f018a23f1f48af013f2e59311c3a17ce872d8aae10610"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/ssy/2026/ssy_26_10_2026_ssy_atlantic_capesize_index_26_october_2026.md",
-      "bytes": 3147,
-      "sha256": "61c1d32df64db3a0a022c05fd263767c93e7eafd1c2f9bec86e5caa1a57c49da"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/ssy/2026/ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.md",
-      "bytes": 3132,
-      "sha256": "68f3821fe1a0ff263220e53de9bc9e37d580066ddd7f10bd1eeb25f03b9c4094"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/star_asia/2026/star_asia_26_10_2026_star_asia_shipbroking_weekly_market_report_week_43.md",
-      "bytes": 31532,
-      "sha256": "cf4449a248d3b98159420dc1a108819abbbf54762b383d4fa95867bfb0578b46"
-    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -1336,11 +1316,6 @@
       "path": "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_2026_W40_ADVANCED-MARKET-REPORT-WEEK-40.pdf",
       "bytes": 1023184,
       "sha256": "65cfe5f2afb8feb3b295356965e488d620377b628bb791b70b7c8be282126764"
-    },
-    {
-      "path": "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_24_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf",
-      "bytes": 1036546,
-      "sha256": "15a5ad3b3434de69613c676703949d3c544b1da8e41efca88463dca2b6855631"
     },
     {
       "path": "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_26_09_2026_advanced_shipping_trading_weekly_shipping_marke.pdf",
@@ -12418,16 +12393,6 @@
       "sha256": "3bc60455a95b5bcbbb49a074cb86e6f9acab02ea7bea1871b044aa5e9d8961db"
     },
     {
-      "path": "corpus/01-brokers/ssy/2026/ssy_26_10_2026_ssy_atlantic_capesize_index_26_october_2026.pdf",
-      "bytes": 191197,
-      "sha256": "37413e5f9d9216775f1e053cbc380fe3b877f18e79735a74e487092270e01c2a"
-    },
-    {
-      "path": "corpus/01-brokers/ssy/2026/ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.pdf",
-      "bytes": 191224,
-      "sha256": "fe1e4108fa9dc1904e3127873ddcc389230b74e9813ff6771550fb2b2af50dc2"
-    },
-    {
       "path": "corpus/01-brokers/ssy/2026/ssy_28_09_2026_ssy_atlantic_capesize_index_28_september_2026.pdf",
       "bytes": 190181,
       "sha256": "5c576eb88827a17116b3ff13aeb71fb53dd0d2fcafa924b7a9400947774fe501"
@@ -13431,11 +13396,6 @@
       "path": "corpus/01-brokers/star_asia/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf",
       "bytes": 656620,
       "sha256": "452212f4aa22aac105034f38ae5fd048aed262721ec883794e40c7a73b30a7ea"
-    },
-    {
-      "path": "corpus/01-brokers/star_asia/2026/star_asia_26_10_2026_star_asia_shipbroking_weekly_market_report_week_43.pdf",
-      "bytes": 676727,
-      "sha256": "c34622184709a2c7893ae11c17369e1dc7b1a755b721b01eb052c67584b83f4a"
     },
     {
       "path": "corpus/01-brokers/star_asia/2026/star_asia_28_09_2026_star_asia_shipbroking_weekly_market_report_week_39.pdf",

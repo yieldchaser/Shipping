@@ -392,7 +392,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/ssy`](../data/extracted/md/ssy)
 - **Publication Cadence:** Weekly (Monday) (Expected day: Monday)
 - **Coverage Span:** `2021-07-05` to `2026-10-26`
-- **Latest Ingested Document:** `ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.pdf` (Status: **CURRENT (0d)**)
+- **Latest Ingested Document:** `ssy_26_10_2026_ssy_atlantic_capesize_index_26_october_2026.pdf` (Status: **CURRENT (0d)**)
 - **Sample Ingested Report (Corpus):** [`ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.pdf`](../corpus/01-brokers/ssy/2026/ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.pdf)
 - **Sample Extracted Markdown (Digest):** [`ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.md`](../data/extracted/md/ssy/2026/ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.md)
 - **Raw Corpus Inventory:** 542 PDFs
@@ -472,7 +472,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/hellenic/iron_ore_pdf`](../data/extracted/md/hellenic/iron_ore_pdf)
 - **Publication Cadence:** Daily (Mon-Fri) (Expected day: Daily)
 - **Coverage Span:** `2021-07-14` to `2026-10-23`
-- **Latest Ingested Document:** `2026-10-23_mmi-daily-iron-ore-index-report-october-23-2026_mmi-daily-iron-ore-report-for-23th-o_1f25d84dabd0.pdf` (Status: **CURRENT (3d)**)
+- **Latest Ingested Document:** `2026-10-23_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-23th-October-2026.pdf` (Status: **CURRENT (3d)**)
 - **Sample Ingested Report (Corpus):** [`2026-10-23_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-23th-October-2026.pdf`](../corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-23_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-23th-October-2026.pdf)
 - **Sample Extracted Markdown (Digest):** [`2026-10-23_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-23th-October-2026.md`](../data/extracted/md/hellenic/iron_ore_pdf/2026/2026-10-23_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-23th-October-2026.md)
 - **Raw Corpus Inventory:** 3,551 PDFs
@@ -655,7 +655,7 @@ Drewry AIS reports are organized into 10 distinct vessel sectors, each with dedi
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/baltic`](../data/extracted/md/baltic)
 - **Publication Cadence:** Weekly (Friday) (Expected day: Friday)
 - **Coverage Span:** `2015-01-09` to `2026-10-23`
-- **Latest Ingested Document:** `2026-10-23_W43_bulk-report-week-43_dry.html` (Status: **CURRENT (3d)**)
+- **Latest Ingested Document:** `2026-10-23_W43_container-report-week-43_container.html` (Status: **CURRENT (3d)**)
 - **Sample Ingested Report (Corpus):** [`2026_tanker-report-week-9_tanker.html`](../corpus/08-baltic/tanker/2026/2026_tanker-report-week-9_tanker.html)
 - **Sample Extracted Markdown (Digest):** [`2026_tanker-report-week-9_tanker.md`](../data/extracted/md/baltic/tanker/2026/2026_tanker-report-week-9_tanker.md)
 - **Raw Corpus Inventory:** 3,064 HTML files, 2,244 Native Markdown files
