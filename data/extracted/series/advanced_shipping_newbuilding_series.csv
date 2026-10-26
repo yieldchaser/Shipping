@@ -1921,3 +1921,10 @@ issue_date,report_week,section,units,capacity,capacity_raw,capacity_unit,yard,de
 2026-10-09,41,Gas,2,174000.0,174.000,cbm,"Samsung, Korea",2029,"$ 247,5m",247.5,Japanese (K Line),LNG,4,advanced_shipping_2026_W41_ADVANCED-MARKET-REPORT-WEEK-41.pdf
 2026-10-09,41,Gas,3,90000.0,90.000,cbm,"Hengli, China",2029,$ 108m,108.0,UAE (ADNOC L&S),LPG,4,advanced_shipping_2026_W41_ADVANCED-MARKET-REPORT-WEEK-41.pdf
 2026-10-09,41,Gas,2,88000.0,88.000,cbm,"Samsung, Korea",2030,$ 113m,113.0,USA (JP Morgan),LPG,4,advanced_shipping_2026_W41_ADVANCED-MARKET-REPORT-WEEK-41.pdf
+2026-10-23,43,Bulk Carriers,4,212000.0,212.000,dwt,"Zhoushan Changhong, China",2030,$ 78m,78.0,Greek (Lavinia Bulkers),,4,advanced_shipping_24_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-23,43,Bulk Carriers,3,64000.0,64.000,dwt,"Nantong, China",2028/2029,Undisclosed,,Monaco based (Gestion Maritime),,4,advanced_shipping_24_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-23,43,Tankers,2,158000.0,158.000,dwt,"Penglai Jinglu, China",2029,$ 82m,82.0,Greek (Chemnav),,4,advanced_shipping_24_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-23,43,Tankers,4,115000.0,115.000,dwt,"DSIC, China",2029,Undisclosed,,Chinese (Nanjing Tanker),,4,advanced_shipping_24_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-23,43,Containers,8,13000.0,13.000,teu,"Hyundai, Korea",2029/2030,"$ 187,5m",187.5,Korean (HMM),LNG DF,4,advanced_shipping_24_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-23,43,Gas,5,174000.0,174.000,cbm,"Hudong-Zhonghua, China",2030,Undisclosed,,Malaysian (MISC),"LNG, Options exercised, 20years T/C to Petronas",4,advanced_shipping_24_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-23,43,Gas,2+1,88000.0,88.000,cbm,"Hengli, China",2029,Undisclosed,,Greek (Alpha Gas),Ammonia,4,advanced_shipping_24_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf

@@ -5229,3 +5229,23 @@ issue_date,report_week,year,basin,route,cargo_size,weight_pct,rates_date_prev,ra
 2022-07-25,30,2022,Atlantic,TUBARAO/QINGDAO,"160,000/10%",10.0%,2022-07-18,2022-07-25,32.1,30.75,-1.35,ssy_2022_A20220725.pdf
 2022-07-25,30,2022,Atlantic,T/C TRIP CONT/FAR EAST,"180,000 DWT",10.0%,2022-07-18,2022-07-25,9.06,7.94,-1.12,ssy_2022_A20220725.pdf
 2022-07-25,30,2022,Atlantic,T/C TRANSATLANTIC ROUND,"180,000 DWT",10.0%,2022-07-18,2022-07-25,5.8,5.11,-0.69,ssy_2022_A20220725.pdf
+2026-10-23,43,2026,Atlantic,NARVIK/ROTTERDAM,"150,000/10%",10%,2026-10-16,2026-10-23,9.1,9.25,0.15,ssy_26_10_2026_ssy_atlantic_capesize_index_26_october_2026.pdf
+2026-10-23,43,2026,Atlantic,TUBARAO/ROTTERDAM,"170,000/10%",10%,2026-10-16,2026-10-23,11.85,12.05,0.2,ssy_26_10_2026_ssy_atlantic_capesize_index_26_october_2026.pdf
+2026-10-23,43,2026,Atlantic,RICHARDS BAY/ROTTERDAM,"150,000/10%",10%,2026-10-16,2026-10-23,13.05,13.45,0.4,ssy_26_10_2026_ssy_atlantic_capesize_index_26_october_2026.pdf
+2026-10-23,43,2026,Atlantic,SEVEN ISLANDS/ROTTERDAM,"170,000/10%",10%,2026-10-16,2026-10-23,12.45,12.05,-0.4,ssy_26_10_2026_ssy_atlantic_capesize_index_26_october_2026.pdf
+2026-10-23,43,2026,Atlantic,PUERTO BOLIVAR/ROTTERDAM,"160,000/10%",10%,2026-10-16,2026-10-23,17.15,16.75,-0.4,ssy_26_10_2026_ssy_atlantic_capesize_index_26_october_2026.pdf
+2026-10-23,43,2026,Atlantic,NOUADHIBOU/QINGDAO,"170,000/10%",10%,2026-10-16,2026-10-23,31.7,34.15,2.45,ssy_26_10_2026_ssy_atlantic_capesize_index_26_october_2026.pdf
+2026-10-23,43,2026,Atlantic,TUBARAO/JAPAN,"160,000/10%",10%,2026-10-16,2026-10-23,29.8,33.55,3.75,ssy_26_10_2026_ssy_atlantic_capesize_index_26_october_2026.pdf
+2026-10-23,43,2026,Atlantic,TUBARAO/QINGDAO,"160,000/10%",10%,2026-10-16,2026-10-23,30.1,33.85,3.75,ssy_26_10_2026_ssy_atlantic_capesize_index_26_october_2026.pdf
+2026-10-23,43,2026,Atlantic,T/C TRIP CONT/FAR EAST,"180,000 DWT",10%,2026-10-16,2026-10-23,11.34,10.98,-0.36,ssy_26_10_2026_ssy_atlantic_capesize_index_26_october_2026.pdf
+2026-10-23,43,2026,Atlantic,T/C TRANSATLANTIC ROUND,"180,000 DWT",10%,2026-10-16,2026-10-23,5.32,5.01,-0.31,ssy_26_10_2026_ssy_atlantic_capesize_index_26_october_2026.pdf
+2026-10-23,43,2026,Pacific,RICHARDS BAY/MUNDRA,"150,000/10%",10%,2026-10-16,2026-10-23,14.0,16.2,2.2,ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.pdf
+2026-10-23,43,2026,Pacific,DAMPIER/QINGDAO,"170,000/10%",10%,2026-10-16,2026-10-23,11.7,14.1,2.4,ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.pdf
+2026-10-23,43,2026,Pacific,SALDAHNA BAY/QINGDAO,"170,000/10%",10%,2026-10-16,2026-10-23,22.95,25.15,2.2,ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.pdf
+2026-10-23,43,2026,Pacific,RICHARDS BAY/FANGCHENG,"150,000/10%",10%,2026-10-16,2026-10-23,22.5,24.7,2.2,ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.pdf
+2026-10-23,43,2026,Pacific,CAPE LAMBERT/ROTTERDAM,"160,000/10%",10%,2026-10-16,2026-10-23,13.25,13.45,0.2,ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.pdf
+2026-10-23,43,2026,Pacific,QUEENSLAND/JAPAN,"150,000/10%",10%,2026-10-16,2026-10-23,15.3,17.5,2.2,ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.pdf
+2026-10-23,43,2026,Pacific,QUEENSLAND/ROTTERDAM,"150,000/10%",10%,2026-10-16,2026-10-23,26.75,26.95,0.2,ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.pdf
+2026-10-23,43,2026,Pacific,NSW/ZHOUSHAN,"130,000/10%",10%,2026-10-16,2026-10-23,16.15,18.35,2.2,ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.pdf
+2026-10-23,43,2026,Pacific,T/C TRIP FAR EAST/CONT,"180,000 DWT",10%,2026-10-16,2026-10-23,0.31,0.59,0.28,ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.pdf
+2026-10-23,43,2026,Pacific,T/C TRANSPACIFIC ROUND,"180,000 DWT",10%,2026-10-16,2026-10-23,4.48,6.22,1.74,ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.pdf

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26 13:27:44Z",
+  "updated_at": "2026-10-26 13:52:15Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -666,7 +666,7 @@
     {
       "file": "advanced_shipping_demo_sales_series.csv",
       "target_metric": "Reported demolition sales fixtures ($/LDT)",
-      "rows": 606,
+      "rows": 608,
       "columns": [
         "issue_date",
         "report_week",
@@ -686,7 +686,7 @@
     {
       "file": "advanced_shipping_demolition_series.csv",
       "target_metric": "Indicative demolition prices ($/LDT)",
-      "rows": 2024,
+      "rows": 2032,
       "columns": [
         "issue_date",
         "issue",
@@ -701,7 +701,7 @@
     {
       "file": "advanced_shipping_newbuilding_series.csv",
       "target_metric": "Newbuilding reported contracting orders",
-      "rows": 1922,
+      "rows": 1929,
       "columns": [
         "issue_date",
         "report_week",
@@ -724,7 +724,7 @@
     {
       "file": "advanced_shipping_sales_series.csv",
       "target_metric": "Secondhand sales transactions ()",
-      "rows": 6857,
+      "rows": 6877,
       "columns": [
         "issue_date",
         "issue",
@@ -753,7 +753,7 @@
     {
       "file": "advanced_shipping_secondhand_matrix_series.csv",
       "target_metric": "Indicative secondhand price matrices ()",
-      "rows": 8157,
+      "rows": 8189,
       "columns": [
         "issue_date",
         "report_week",
@@ -3517,7 +3517,7 @@
     {
       "file": "ssy_capesize_index_series.csv",
       "target_metric": "SSY Capesize Index, spot routes, 1Y T/C",
-      "rows": 922,
+      "rows": 924,
       "columns": [
         "route",
         "basis",
@@ -3534,7 +3534,7 @@
     {
       "file": "ssy_capesize_index_time_series.csv",
       "target_metric": "SSY Capesize Index, historical changes, and T/C day rates",
-      "rows": 523,
+      "rows": 525,
       "columns": [
         "issue_date",
         "report_week",
@@ -3559,7 +3559,7 @@
     {
       "file": "ssy_route_rates_series.csv",
       "target_metric": "SSY assessed route freight rates ($/t) across Atlantic & Pacific",
-      "rows": 5230,
+      "rows": 5250,
       "columns": [
         "issue_date",
         "report_week",
@@ -3580,7 +3580,7 @@
     {
       "file": "star_asia_5y_history_series.csv",
       "target_metric": "5-Year historical bunker, freight & demolition trends",
-      "rows": 784,
+      "rows": 788,
       "columns": [
         "issue_date",
         "report_week",
@@ -3597,7 +3597,7 @@
     {
       "file": "star_asia_bunker_series.csv",
       "target_metric": "Star Asia Bunker",
-      "rows": 2969,
+      "rows": 2984,
       "columns": [
         "issue_date",
         "report_week",
@@ -3611,7 +3611,7 @@
     {
       "file": "star_asia_deals_series.csv",
       "target_metric": "Demolition beaching & arrival deals ($/LDT)",
-      "rows": 3548,
+      "rows": 3575,
       "columns": [
         "issue_date",
         "report_week",
@@ -3643,7 +3643,7 @@
     {
       "file": "star_asia_demolition_series.csv",
       "target_metric": "Indicative scrap prices by subcontinent yard ($/LDT)",
-      "rows": 3168,
+      "rows": 3184,
       "columns": [
         "issue_date",
         "report_week",
@@ -3661,7 +3661,7 @@
     {
       "file": "star_asia_ferrous_scrap_series.csv",
       "target_metric": "Ferrous scrap market insights ($/t HMS, billets, rebars)",
-      "rows": 1315,
+      "rows": 1327,
       "columns": [
         "issue_date",
         "report_week",
@@ -3684,7 +3684,7 @@
     {
       "file": "star_asia_fx_series.csv",
       "target_metric": "Star Asia Fx",
-      "rows": 990,
+      "rows": 995,
       "columns": [
         "issue_date",
         "report_week",
@@ -3700,7 +3700,7 @@
     {
       "file": "star_asia_iron_ore_series.csv",
       "target_metric": "Iron ore spot and derivative price benchmarks ($/t)",
-      "rows": 390,
+      "rows": 392,
       "columns": [
         "issue_date",
         "report_week",
@@ -3732,7 +3732,7 @@
     {
       "file": "star_asia_metals_energy_series.csv",
       "target_metric": "Metals and energy commodity market indicators",
-      "rows": 1382,
+      "rows": 1391,
       "columns": [
         "issue_date",
         "report_week",
@@ -3750,7 +3750,7 @@
     {
       "file": "star_asia_snp_sales_series.csv",
       "target_metric": "Secondhand sales transactions ()",
-      "rows": 3703,
+      "rows": 3719,
       "columns": [
         "issue_date",
         "report_week",
@@ -3790,7 +3790,7 @@
     {
       "file": "star_asia_valuation_matrix_series.csv",
       "target_metric": "Dry, tanker, container secondhand matrices ()",
-      "rows": 3346,
+      "rows": 3359,
       "columns": [
         "issue_date",
         "report_week",
@@ -3963,19 +3963,19 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 720464,
+  "total_master_stacked_rows": 720676,
   "total_master_series_csvs": 167,
-  "total_stacked_rows": 720464,
+  "total_stacked_rows": 720676,
   "total_series_csvs": 167,
   "total_master_workbooks": 1,
   "total_series_count": 167,
-  "total_rows_extracted": 720769,
+  "total_rows_extracted": 720981,
   "series_inventory": {
-    "advanced_shipping_demo_sales_series.csv": 606,
-    "advanced_shipping_demolition_series.csv": 2024,
-    "advanced_shipping_newbuilding_series.csv": 1922,
-    "advanced_shipping_sales_series.csv": 6857,
-    "advanced_shipping_secondhand_matrix_series.csv": 8157,
+    "advanced_shipping_demo_sales_series.csv": 608,
+    "advanced_shipping_demolition_series.csv": 2032,
+    "advanced_shipping_newbuilding_series.csv": 1929,
+    "advanced_shipping_sales_series.csv": 6877,
+    "advanced_shipping_secondhand_matrix_series.csv": 8189,
     "affinity_bda_series.csv": 753,
     "affinity_indices_series.csv": 502,
     "affinity_tce_series.csv": 4096,
@@ -4114,21 +4114,21 @@
     "signal_reports_metadata.csv": 454,
     "signal_vessel_counts_series.csv": 120,
     "singletons_sales_series.csv": 46,
-    "ssy_capesize_index_series.csv": 922,
-    "ssy_capesize_index_time_series.csv": 523,
-    "ssy_route_rates_series.csv": 5230,
-    "star_asia_5y_history_series.csv": 784,
-    "star_asia_bunker_series.csv": 2969,
-    "star_asia_deals_series.csv": 3548,
-    "star_asia_demolition_series.csv": 3168,
-    "star_asia_ferrous_scrap_series.csv": 1315,
-    "star_asia_fx_series.csv": 990,
-    "star_asia_iron_ore_series.csv": 390,
+    "ssy_capesize_index_series.csv": 924,
+    "ssy_capesize_index_time_series.csv": 525,
+    "ssy_route_rates_series.csv": 5250,
+    "star_asia_5y_history_series.csv": 788,
+    "star_asia_bunker_series.csv": 2984,
+    "star_asia_deals_series.csv": 3575,
+    "star_asia_demolition_series.csv": 3184,
+    "star_asia_ferrous_scrap_series.csv": 1327,
+    "star_asia_fx_series.csv": 995,
+    "star_asia_iron_ore_series.csv": 392,
     "star_asia_ldt_comparison_series.csv": 1320,
-    "star_asia_metals_energy_series.csv": 1382,
-    "star_asia_snp_sales_series.csv": 3703,
+    "star_asia_metals_energy_series.csv": 1391,
+    "star_asia_snp_sales_series.csv": 3719,
     "star_asia_tc_rates_series.csv": 999,
-    "star_asia_valuation_matrix_series.csv": 3346,
+    "star_asia_valuation_matrix_series.csv": 3359,
     "xclusiv_baltic_indices_series.csv": 1036,
     "xclusiv_demo_sales_series.csv": 613,
     "xclusiv_demolition_series.csv": 2106,

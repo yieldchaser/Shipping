@@ -605,3 +605,5 @@ issue_date,report_week,vessel_name,vessel_type,dwt,ldt,yob,price_usd_per_ldt,cou
 2026-09-11,37,Larus,GC,4896.0,2632.0,1997,515.0,Pakistan,,6,advanced_shipping_2026_W37_ADVANCED-MARKET-REPORT-WEEK-37.pdf
 2026-09-18,38,Uniorder,Bulker,47240.0,7060.0,1997,450.0,Undisclosed,"""As Is"" Indonesia",6,advanced_shipping_2026_W38_ADVANCED-MARKET-REPORT-WEEK-38.pdf
 2026-09-25,39,Maestro 1,Bulker,23994.0,5142.0,1998,507.0,Pakistan,,6,advanced_shipping_2026_W39_ADVANCED-MARKET-REPORT-WEEK-39.pdf
+2026-10-23,43,Long Hu,Bulker,73937.0,9798.0,1998,540.0,Bangladesh,,5,advanced_shipping_24_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
+2026-10-23,43,Fotex,GC,8668.0,2600.0,1997,530.0,Bangladesh,,5,advanced_shipping_24_10_2026_advanced_shipping_trading_weekly_shipping_marke.pdf
