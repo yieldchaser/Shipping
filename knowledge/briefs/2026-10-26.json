@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T16:19:21.235634+00:00",
+  "generated_at": "2026-10-26T17:06:53.168590+00:00",
   "brief_date": "2026-10-26",
   "constituent_holdings": {
     "bdry": {
@@ -52,9 +52,9 @@
     }
   },
   "generation": {
-    "mode": "llm",
-    "provider_used": "openrouter",
-    "model": "meta-llama/llama-3.3-70b-instruct",
+    "mode": "template",
+    "provider_used": "template",
+    "model": "",
     "provider_order": [
       "groq",
       "nim",
@@ -64,13 +64,14 @@
     "attempted_providers": [
       "groq",
       "nim",
-      "openrouter"
+      "openrouter",
+      "ollama"
     ]
   },
   "executive_tldr": [
     "Regime Split: Dry Bulk is in Neutral while Tankers exhibit Bull Confluence. Tankers outperform Dry Bulk on quantitative velocity (Z-differential -2.61σ), favoring energy freight over industrial dry bulk.",
     "Tactical Desk Strategy: Overweight Dirty Tankers (BDTI/VLCC) relative to Dry Bulk on resilient crude flows.",
-    "Catalyst & Risk Boundary: The November 1 customs commodity trade release, the OPEC+ ministerial meeting scheduled for mid-October, and the US EIA weekly crude inventory report on October 31 will be critical catalysts. Invalidation Trigger: If VLCC freight rates fall below $700,000/day and the BDTI drops below 3,000 points, it would confirm that geopolitical premiums are eroding and invalidate the bullish tanker thesis."
+    "Catalyst & Risk Boundary: Next weekly Baltic Exchange index revisions and Breakwave fundamental assessment. Invalidation Trigger: A rapid expansion beyond ±1.0σ Z-score would break the current range-bound regime."
   ],
   "market_snapshot": {
     "bdi": {
@@ -142,22 +143,20 @@
       "confluence_type": "NEUTRAL",
       "momentum_grade": "FLAT",
       "positioning_bias": "NEUTRAL",
-      "confidence_score": 0.5,
+      "confidence_score": 0.45,
       "confluence_note": "Signal alignment is mixed for dry bulk (Z=+0.25sigma); conviction remains limited. Of 6 Breakwave reports: Sentiment 1 pos/0 neg/5 neu; Momentum 2 pos/2 neg/2 neu; Fundamentals 0 pos/0 neg/6 neu.",
-      "summary": "Dry bulk sits at 2,660 points in DISTRIBUTION regime, 85th percentile, while tanker trades at 3,014 points in EXPANSION regime, 100th percentile, indicating divergent market phases. Dry bulk momentum is negative (ROC60 -0.5%) despite a +0.25σ Z-score, signaling a slowdown in an otherwise strong regime. Analyst consensus is NEUTRAL, conflicting with quant's +0.25σ Z-score and negative ROC60, highlighting fragility despite modest positive signal. Geopolitical tensions in the Middle East and operational inefficiencies constrain vessel supply, creating a structural tightness that supports current freight levels despite mixed sentiment.",
+      "summary": "Dry Bulk is in distribution regime at 2660.0, with z-score +0.25sigma and ROC60 -0.5%. Recent analyst sentiment skews neutral (positive:1, neutral:5). Signal alignment is mixed for dry bulk (Z=+0.25sigma); conviction remains limited. Of 6 Breakwave reports: Sentiment 1 pos/0 neg/5 neu; Momentum 2 pos/2 neg/2 neu; Fundamentals 0 pos/0 neg/6 neu.",
       "key_signals": [
-        "Dry bulk Z-score +0.25σ in DISTRIBUTION regime at 85th percentile historically signals a modest upward bias but the -0.5% ROC60 indicates slowing momentum, highlighting fragility.",
-        "Capesize leads Panamax by +1682 points, the widest spread since Q4 2023, indicating iron ore and coal demand concentration on large vessels and potential upside for Capesize if supply constraints ease.",
-        "Supramax and Handysize show strong momentum with ROC60 +17.2% and +14.6% respectively, placing them in the top 100th percentile and suggesting robust demand for smaller vessels despite broader market softness.",
-        "The -0.5% ROC60 despite +0.25σ Z-score reveals a contradictory signal of weakening momentum, a key fragility indicator that could trigger a correction if geopolitical supply constraints persist.",
-        "Analyst consensus is NEUTRAL, conflicting with the quant's +0.25σ Z-score and negative ROC60, underscoring market uncertainty and the need for caution.",
-        "Geopolitical tensions in the Middle East and operational inefficiencies constrain vessel supply, creating a structural tightness that supports current freight levels despite mixed sentiment."
+        "Quant: BDI value=2660.0, z=+0.25sigma, 5Y percentile=85.4%.",
+        "Qual: last 6 reports sentiment mix -> positive:1, neutral:5.",
+        "Cross-check: CAPESIZE value=3791.0, z=-0.22sigma.",
+        "Latest report 2026-10-13: momentum=negative, fundamentals=neutral."
       ],
-      "trade_idea": "No high-conviction setup: a sustained positive ROC60 (>5%) and Z-score >1.5 on Capesize 5TC FFA would be required to justify a long position.",
-      "outlook": "Dry bulk is expected to remain range-bound with upside potential if Middle East geopolitical tensions keep supply constrained, while tanker freight is projected to stay firm with upside if clean tanker supply tightens further.",
-      "catalyst_watch": "The November 1 customs commodity trade release, the OPEC+ ministerial meeting scheduled for mid-October, and the US EIA weekly crude inventory report on October 31 will be critical catalysts.",
-      "watch": "The November 1 customs commodity trade release, the OPEC+ ministerial meeting scheduled for mid-October, and the US EIA weekly crude inventory report on October 31 will be critical catalysts.",
-      "risk_note": "If VLCC freight rates fall below $700,000/day and the BDTI drops below 3,000 points, it would confirm that geopolitical premiums are eroding and invalidate the bullish tanker thesis.",
+      "trade_idea": "No high-conviction setup: Maintain neutral book positioning and await decisive alignment between momentum and freight fundamentals.",
+      "outlook": "dry bulk outlook is range-bound until either quant momentum or analyst tone breaks decisively.",
+      "catalyst_watch": "Next weekly Baltic Exchange index revisions and Breakwave fundamental assessment.",
+      "watch": "Next weekly Baltic Exchange index revisions and Breakwave fundamental assessment.",
+      "risk_note": "A rapid expansion beyond ±1.0σ Z-score would break the current range-bound regime.",
       "report_dates": [
         "2026-10-13",
         "2026-09-29",
@@ -170,23 +169,21 @@
     "tanker": {
       "confluence_type": "BULL_CONFLUENCE",
       "momentum_grade": "STRONG_UP",
-      "positioning_bias": "LONG_SPREAD_VS_DRY",
-      "confidence_score": 0.9,
+      "positioning_bias": "LONG",
+      "confidence_score": 0.8,
       "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+2.89sigma). Of 6 Breakwave reports: Sentiment 5 pos/0 neg/1 neu; Momentum 3 pos/2 neg/1 neu; Fundamentals 6 pos/0 neg/0 neu.",
-      "summary": "Tanker Z-score +2.89σ in EXPANSION regime at 100th percentile signals a strong bullish regime, with clean–dirty spread -4157 points showing dirty outperforming and tight supply of clean tonnage. Momentum is robust with ROC60 +110.3% for clean and +176.9% for dirty, confirming bullish sentiment. Analyst consensus is BULL_CONFLUENCE, aligning with quant signals of +2.89σ Z-score, 5 positive sentiment, 3 positive momentum, and 6 positive fundamentals, showing no divergence. Geopolitical risks, including Houthi attacks and US sanctions, keep supply constrained and support elevated freight rates, especially for VLCC and Suezmax segments.",
+      "summary": "Tanker is in expansion regime at 3014.0, with z-score +2.89sigma and ROC60 +110.3%. Recent analyst sentiment skews positive (positive:5, neutral:1). Quant momentum and analyst signals align bullishly for tanker (Z=+2.89sigma). Of 6 Breakwave reports: Sentiment 5 pos/0 neg/1 neu; Momentum 3 pos/2 neg/1 neu; Fundamentals 6 pos/0 neg/0 neu.",
       "key_signals": [
-        "Tanker Z-score +2.89σ in EXPANSION regime at 100th percentile, indicating a strong bullish regime with unprecedented momentum.",
-        "Clean–Dirty tanker spread -4157 points shows dirty tankers outperforming, reflecting stronger demand for dirty products and tighter supply of clean tonnage.",
-        "Tanker momentum is robust with ROC60 +110.3% for clean and +176.9% for dirty, placing them in the top percentile and confirming bullish sentiment.",
-        "Analyst consensus is BULL_CONFLUENCE, aligning with quant signals of +2.89σ Z-score, 5 positive sentiment, 3 positive momentum, and 6 positive fundamentals, showing no divergence.",
-        "Geopolitical risks, including Houthi attacks and US sanctions, keep supply constrained and support elevated freight rates, especially for VLCC and Suezmax segments.",
-        "The tightening VLCC list and rising Suezmax rates in the Atlantic reinforce the bullish outlook, while limited clean tanker supply amplifies price pressure."
+        "Quant: CLEAN_TANKER value=3014.0, z=+2.89sigma, 5Y percentile=100.0%.",
+        "Qual: last 6 reports sentiment mix -> positive:5, neutral:1.",
+        "Cross-check: DIRTY_TANKER value=7171.0, z=+2.86sigma.",
+        "Latest report 2026-10-20: momentum=negative, fundamentals=positive."
       ],
-      "trade_idea": "Go long VLCC 5TC FFA Dec 26 at $35,711/d with 0.6% backwardation carry, targeting $36,500/d if rates stay above $35,500 and geopolitical supply constraints persist, exit if rates drop below $35,000 or if geopolitical risk eases causing a rapid rate decline.",
-      "outlook": "Dry bulk is expected to remain range-bound with upside potential if Middle East geopolitical tensions keep supply constrained, while tanker freight is projected to stay firm with upside if clean tanker supply tightens further.",
-      "catalyst_watch": "The November 1 customs commodity trade release, the OPEC+ ministerial meeting scheduled for mid-October, and the US EIA weekly crude inventory report on October 31 will be critical catalysts.",
-      "watch": "The November 1 customs commodity trade release, the OPEC+ ministerial meeting scheduled for mid-October, and the US EIA weekly crude inventory report on October 31 will be critical catalysts.",
-      "risk_note": "If VLCC freight rates fall below $700,000/day and the BDTI drops below 3,000 points, it would confirm that geopolitical premiums are eroding and invalidate the bullish tanker thesis.",
+      "trade_idea": "Long DIRTY_TANKER vs CLEAN_TANKER spread to capture dirty tanker momentum outperformance.",
+      "outlook": "Bias stays constructive for tanker while momentum and sentiment remain aligned.",
+      "catalyst_watch": "Upcoming OPEC+ production quota decisions and Middle East route fixture volume are the near-term catalysts.",
+      "watch": "Upcoming OPEC+ production quota decisions and Middle East route fixture volume are the near-term catalysts.",
+      "risk_note": "A sudden compression in crude arbitrage margins or rapid fleet repositioning would invalidate the upside thesis.",
       "report_dates": [
         "2026-10-20",
         "2026-10-06",
