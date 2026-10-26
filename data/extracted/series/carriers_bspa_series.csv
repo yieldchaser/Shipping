@@ -791,3 +791,15 @@ issue_date,report_week,sector,vessel_class,size_dwt,price_usd_m,sentiment_arrow,
 2026-10-12,41,Bulkers,Capesize,180000,74.294,UP,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
 2026-10-12,41,Bulkers,Panamax,82500,41.675,UP,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
 2026-10-12,41,Bulkers,Ultramax,63500,38.926,UP,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-19,42,Tankers,Vlcc,305000,205.911,UP,carriers_2026_W42_WK-42-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-19,42,Tankers,Aframax,115000,95.317,UP,carriers_2026_W42_WK-42-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-19,42,Tankers,Mr Product,51000,51.851,UP,carriers_2026_W42_WK-42-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-19,42,Bulkers,Capesize,180000,74.396,UP,carriers_2026_W42_WK-42-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-19,42,Bulkers,Panamax,82500,41.699,UP,carriers_2026_W42_WK-42-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-19,42,Bulkers,Ultramax,63500,38.969,UP,carriers_2026_W42_WK-42-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-26,43,Tankers,Vlcc,305000,208.233,UP,carriers_2026_W43_WK-43-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-26,43,Tankers,Aframax,115000,98.568,UP,carriers_2026_W43_WK-43-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-26,43,Tankers,Mr Product,51000,52.388,UP,carriers_2026_W43_WK-43-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-26,43,Bulkers,Capesize,180000,74.986,UP,carriers_2026_W43_WK-43-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-26,43,Bulkers,Panamax,82500,41.869,UP,carriers_2026_W43_WK-43-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-26,43,Bulkers,Ultramax,63500,39.032,UP,carriers_2026_W43_WK-43-26-CARRIERS_SP-MARKET-REPORT.pdf

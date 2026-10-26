@@ -395,3 +395,9 @@ issue_date,report_week,segment,place,ldt_range,price_usd_per_ldt,sentiment_arrow
 2026-10-12,41,Tankers,Subcontinent,15000 - 25000,513.83,UP,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
 2026-10-12,41,Containers,Subcontinent,6000 - 10000,,,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
 2026-10-12,41,Bulkers,Subcontinent,7000 - 12000,498.02,UP,carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf
+2026-10-19,42,Tankers,Subcontinent,15000 - 25000,514.69,UP,carriers_2026_W42_WK-42-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-19,42,Containers,Subcontinent,6000 - 10000,,,carriers_2026_W42_WK-42-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-19,42,Bulkers,Subcontinent,7000 - 12000,499.27,UP,carriers_2026_W42_WK-42-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-26,43,Tankers,Subcontinent,15000 - 25000,515.55,UP,carriers_2026_W43_WK-43-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-26,43,Containers,Subcontinent,6000 - 10000,,,carriers_2026_W43_WK-43-26-CARRIERS_SP-MARKET-REPORT.pdf
+2026-10-26,43,Bulkers,Subcontinent,7000 - 12000,500.19,UP,carriers_2026_W43_WK-43-26-CARRIERS_SP-MARKET-REPORT.pdf

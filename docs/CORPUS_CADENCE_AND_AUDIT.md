@@ -7,14 +7,14 @@
 
 ## 1. Executive Summary
 
-- **Raw corpus:** 58,233 files across 32 sources: 12,052 PDF, 9,061 HTML, 23,232 images, 13,454 native MD.
-- **Parsed Markdown:** 20,566 MDs.
-  - Broker reports: 8,026 MDs from 16 brokers.
+- **Raw corpus:** 58,236 files across 32 sources: 12,055 PDF, 9,061 HTML, 23,232 images, 13,454 native MD.
+- **Parsed Markdown:** 20,569 MDs.
+  - Broker reports: 8,028 MDs from 16 brokers.
   - SEC filings: 1,339 MDs.
   - Reference books: 12 MDs for 12 PDFs.
 - **Status (2026-10-26)**, from each source's cadence (CURRENT within the allowed gap, DUE up to twice it, STALE beyond; PARSE BEHIND = a raw issue from the last 120 days has no MD near its date, or the newest MD is older than the newest issue):
-  - CURRENT: 26
-  - DUE: Carriers Chartering (General Broker), ISM Coasters & Mini-Bulkers, Seabrokers (Seabreeze Monthly Offshore), Pilbara Ports Authority (PPA)
+  - CURRENT: 27
+  - DUE: ISM Coasters & Mini-Bulkers, Seabrokers (Seabreeze Monthly Offshore), Pilbara Ports Authority (PPA)
   - STALE: none
   - PARSE BEHIND: none
   - REFERENCE (static): Maritime Reference Literature & Academic Textbooks (12 Books)
@@ -32,7 +32,7 @@
 | **Affinity Shipbrokers** | Weekly (Friday) | `2026-10-24` | `2026-10-23` | **CURRENT (2d)** | 261 PDF | 251 | 100.0% | 0 / 0 | [`data/extracted/md/affinity`](../data/extracted/md/affinity) | Yes (Baltic Dirty & Clean TCE trajectory curves) | `affinity_tce_series.csv (4,096 rows)` |
 | **Agora Shipbroking** | Weekly (Wednesday/Thursday) | `2026-10-23` | `2026-10-22` | **CURRENT (3d)** | 221 PDF | 216 | 100.0% | 0 / 0 | [`data/extracted/md/agora`](../data/extracted/md/agora) | No (Dense indicator tables across 5 pages) | `agora_indicators_series.csv (10,143 rows)` |
 | **Banchero Costa (Bancosta)** | Weekly (Wednesday) | `2026-10-21` | `2026-10-19` | **CURRENT (5d)** | 253 PDF | 250 | 100.0% | 0 / 0 | [`data/extracted/md/banchero_costa`](../data/extracted/md/banchero_costa) | Yes (Freight rates, FFA forward curves, ConTex index) | `bancosta_freight_rates_series.csv (20,677 rows)` |
-| **Carriers Chartering (General Broker)** | Weekly (Monday) | `2026-10-12` | `2026-10-12` | **DUE (14d, cadence weekly)** | 140 PDF | 134 | 100.0% | 0 / 0 | [`data/extracted/md/carriers`](../data/extracted/md/carriers) | No (Tabular S&P and Baltic BSPA/BDA indices) | `carriers_sales_series.csv (3,146 rows)` |
+| **Carriers Chartering (General Broker)** | Weekly (Monday) | `2026-10-12` | `2026-10-26` | **CURRENT (0d)** | 142 PDF | 136 | 100.0% | 0 / 0 | [`data/extracted/md/carriers`](../data/extracted/md/carriers) | No (Tabular S&P and Baltic BSPA/BDA indices) | `carriers_sales_series.csv (3,192 rows)` |
 | **Clarksons / Clarksons Hellas** | Weekly (Friday) | `2026-10-23` | `2026-10-23` | **CURRENT (3d)** | 16 PDF | 12 | 100.0% | 0 / 0 | [`data/extracted/md/clarksons`](../data/extracted/md/clarksons) | No (Bulker & Tanker reported sales transaction tables) | `clarksons_sales_series.csv (1,388 rows)` |
 | **Fearnleys Weekly** | Weekly (Wednesday/Thursday) | `2026-10-22` | `2026-10-22` | **CURRENT (4d)** | 268 PDF | 263 | 100.0% | 0 / 0 | [`data/extracted/md/fearnleys`](../data/extracted/md/fearnleys) | Yes (Tanker spot WS, Dry bulk BDI & TC, LPG/LNG) | `fearnleys_rates_series.csv (17,193 rows)` |
 | **Fearnleys Broker Voice (Hasura Desk Feeds)** | Weekly (Wednesday-Friday) | `n/a` | `2026-10-23` | **CURRENT (3d)** | 4,773 MD | 4,784 | 0.0% | 41 / 0 | [`data/extracted/md/fearnleys/voice`](../data/extracted/md/fearnleys/voice) | No (Dense narrative intelligence across 35 desks & routes) | `fearnleys_broker_comments.csv (11,759 comments), corpus/01-brokers/fearnleys/voice/ (4,748 files), data/extracted/md/fearnleys/voice/ (4,765 comment files)` |
@@ -50,7 +50,7 @@
 | **Hellenic: Shipbuilding & Contracting** | Weekly (Friday) | `2026-07-31` | `2026-07-31` | **SUPERSEDED (new issues arrive via corpus/01-brokers/clarksons (since 2026-08; last issue on this channel 2026-07-31))** | 1,041 PDF, 381 HTML, 180 IMG | 170 | 100.0% | 0 / 0 | [`data/extracted/md/clarksons`](../data/extracted/md/clarksons) | No (Shipyard contracting and orderbook tables) | `clarksons_snp_sales_series.csv (1,329 rows)` |
 | **Hellenic: Tanker Time Charter (Alibra)** | Weekly (Wednesday) | `2026-10-21` | `2026-10-21` | **CURRENT (5d)** | 282 HTML, 762 IMG | 268 | 0.0% | 0 / 0 | [`data/extracted/md/hellenic/tanker_charter`](../data/extracted/md/hellenic/tanker_charter) | Yes (Crude & clean period earnings comparison graphics) | `hellenic_alibra_tanker_tc_series.csv (7,504 rows)` |
 | **Hellenic: VesselsValue Valuations** | Weekly (Tuesday) | `2026-10-20` | `2026-10-20` | **CURRENT (6d)** | 278 HTML, 736 IMG | 258 | 0.0% | 0 / 0 | [`data/extracted/md/hellenic/vessel_valuations`](../data/extracted/md/hellenic/vessel_valuations) | Yes (VesselsValue fleet valuation index graphs) | `hellenic_vv_matrix_series.csv (19,946 rows)` |
-| **Breakwave Advisors** | Weekly (Tuesday) & Daily Insights | `2026-10-26` | `2026-10-26` | **CURRENT (0d)** | 307 PDF, 3,266 HTML, 15,137 IMG, 3,237 MD | 3,530 | 0.0% | 0 / 0 | [`data/extracted/md/breakwave`](../data/extracted/md/breakwave) | Yes (Dry bulk freight fundamentals, ETF trajectories, & localized Insights charts) | `breakwave_fundamentals_series.csv (2,769 rows)` |
+| **Breakwave Advisors** | Weekly (Tuesday) & Daily Insights | `2026-10-27` | `2026-10-27` | **CURRENT (0d)** | 308 PDF, 3,266 HTML, 15,137 IMG, 3,237 MD | 3,531 | 0.0% | 0 / 0 | [`data/extracted/md/breakwave`](../data/extracted/md/breakwave) | Yes (Dry bulk freight fundamentals, ETF trajectories, & localized Insights charts) | `breakwave_fundamentals_series.csv (2,781 rows)` |
 | **Poten & Partners (Tanker Opinions)** | Weekly (Friday) | `2026-10-16` | `2026-10-16` | **CURRENT (10d)** | 1,096 PDF, 6 MD | 1,092 | 100.0% | 0 / 0 | [`data/extracted/md/poten`](../data/extracted/md/poten) | Yes (Top Charterers annual/biannual volume rankings) | `poten_opinions_metadata.csv (1,096 rows)` |
 | **Seabrokers (Seabreeze Monthly Offshore)** | Monthly (1st of Month) | `2026-09-01` | `2026-09-01` | **DUE (55d, cadence monthly)** | 99 PDF, 99 MD | 98 | 100.0% | 0 / 0 | [`data/extracted/md/seabrokers`](../data/extracted/md/seabrokers) | Yes (OSV utilisation curves, rig dayrates, offshore wind) | `seabrokers_osv_monthly_history_series.csv (6,900 rows)` |
 | **Drewry Maritime AIS Fleet Performance** | Weekly (Tuesday) | `n/a` | `2026-10-21` | **CURRENT (5d)** | 297 PDF | 297 | 100.0% | 0 / 0 | [`data/extracted/md/drewry/ais`](../data/extracted/md/drewry/ais) | Yes (every left-axis chart line, read exactly from the vector paths; KPI tiles from the text layer) | `drewry_ais_chart_series.csv (83,396 rows)` |
@@ -63,7 +63,6 @@
 
 ### 2.1 Sources needing attention
 
-- **Carriers Chartering (General Broker)**: status **DUE (14d, cadence weekly)**
 - **ISM Coasters & Mini-Bulkers**: status **DUE (14d, cadence weekly)**
 - **Seabrokers (Seabreeze Monthly Offshore)**: status **DUE (55d, cadence monthly)**
 - **Pilbara Ports Authority (PPA)**: status **DUE (90d, cadence monthly)**
@@ -247,15 +246,15 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Corpus Directory (Raw Source):** [`corpus/01-brokers/carriers`](../corpus/01-brokers/carriers)
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/carriers`](../data/extracted/md/carriers)
 - **Publication Cadence:** Weekly (Monday) (Expected day: Monday)
-- **Coverage Span:** `2021-11-19` to `2026-10-12`
-- **Latest Ingested Document:** `carriers_12_10_2026_carriers_sales_purchase_market_report_week_41.pdf` (Status: **DUE (14d, cadence weekly)**)
-- **Sample Ingested Report (Corpus):** [`carriers_2026_W41_WK-41-26-CARRIERS_SP-MARKET-REPORT.pdf`](../corpus/01-brokers/carriers/2026/carriers_2026_W41_WK-41-26-CARRIERS_SP-MARKET-REPORT.pdf)
-- **Sample Extracted Markdown (Digest):** [`carriers_2026_W40_WK-40-26-CARRIERS_SP-MARKET-REPORT.md`](../data/extracted/md/carriers/2026/carriers_2026_W40_WK-40-26-CARRIERS_SP-MARKET-REPORT.md)
-- **Raw Corpus Inventory:** 140 PDFs
-- **Extracted Markdown Dossiers:** 134 Markdown files + 134 .tables.json sidecars
+- **Coverage Span:** `2021-11-19` to `2026-10-26`
+- **Latest Ingested Document:** `carriers_2026_W43_WK-43-26-CARRIERS_SP-MARKET-REPORT.md` (Status: **CURRENT (0d)**)
+- **Sample Ingested Report (Corpus):** [`carriers_2026_W43_WK-43-26-CARRIERS_SP-MARKET-REPORT.pdf`](../corpus/01-brokers/carriers/2026/carriers_2026_W43_WK-43-26-CARRIERS_SP-MARKET-REPORT.pdf)
+- **Sample Extracted Markdown (Digest):** [`carriers_2026_W43_WK-43-26-CARRIERS_SP-MARKET-REPORT.md`](../data/extracted/md/carriers/2026/carriers_2026_W43_WK-43-26-CARRIERS_SP-MARKET-REPORT.md)
+- **Raw Corpus Inventory:** 142 PDFs
+- **Extracted Markdown Dossiers:** 136 Markdown files + 136 .tables.json sidecars
 - **Chart Extraction:** No (Tabular S&P and Baltic BSPA/BDA indices)
 - **Chart Engine / Technique:** Native word geometry and dynamic anchor parser
-- **Stacked Series CSVs:** [`carriers_sales_series.csv`](../data/extracted/series/carriers_sales_series.csv) (3,146 rows), [`carriers_dry_tc_period_series.csv`](../data/extracted/series/carriers_dry_tc_period_series.csv) (3,168 rows), [`carriers_indices_series.csv`](../data/extracted/series/carriers_indices_series.csv) (1,848 rows), [`carriers_tanker_tce_series.csv`](../data/extracted/series/carriers_tanker_tce_series.csv) (807 rows), [`carriers_bspa_series.csv`](../data/extracted/series/carriers_bspa_series.csv) (792 rows), [`carriers_newbuilding_series.csv`](../data/extracted/series/carriers_newbuilding_series.csv) (304 rows), [`carriers_demolition_series.csv`](../data/extracted/series/carriers_demolition_series.csv) (172 rows)
+- **Stacked Series CSVs:** [`carriers_sales_series.csv`](../data/extracted/series/carriers_sales_series.csv) (3,192 rows), [`carriers_dry_tc_period_series.csv`](../data/extracted/series/carriers_dry_tc_period_series.csv) (3,216 rows), [`carriers_indices_series.csv`](../data/extracted/series/carriers_indices_series.csv) (1,876 rows), [`carriers_tanker_tce_series.csv`](../data/extracted/series/carriers_tanker_tce_series.csv) (819 rows), [`carriers_bspa_series.csv`](../data/extracted/series/carriers_bspa_series.csv) (804 rows), [`carriers_newbuilding_series.csv`](../data/extracted/series/carriers_newbuilding_series.csv) (308 rows), [`carriers_demolition_series.csv`](../data/extracted/series/carriers_demolition_series.csv) (174 rows)
 - **Extraction Script:** [`run_carriers_complete.py`](../scripts/extract/publishers/run_carriers_complete.py)
 - **Notes & Rules Applied:** Greek public equities & daily quote stripped per rules. En bloc sister-ship prices handled.
 
@@ -392,7 +391,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/ssy`](../data/extracted/md/ssy)
 - **Publication Cadence:** Weekly (Monday) (Expected day: Monday)
 - **Coverage Span:** `2021-07-05` to `2026-10-26`
-- **Latest Ingested Document:** `ssy_26_10_2026_ssy_atlantic_capesize_index_26_october_2026.pdf` (Status: **CURRENT (0d)**)
+- **Latest Ingested Document:** `ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.pdf` (Status: **CURRENT (0d)**)
 - **Sample Ingested Report (Corpus):** [`ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.pdf`](../corpus/01-brokers/ssy/2026/ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.pdf)
 - **Sample Extracted Markdown (Digest):** [`ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.md`](../data/extracted/md/ssy/2026/ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.md)
 - **Raw Corpus Inventory:** 542 PDFs
@@ -440,7 +439,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/hellenic/demolition`](../data/extracted/md/hellenic/demolition)
 - **Publication Cadence:** Weekly (Saturday/Sunday) (Expected day: Saturday)
 - **Coverage Span:** `2021-07-02` to `2026-10-24`
-- **Latest Ingested Document:** `2026-10-24_best-oasis-weekly-recycling-market-repor_Weekly-Ship-Recycling-Report-17-October-23-October-2026.pdf` (Status: **CURRENT (2d)**)
+- **Latest Ingested Document:** `2026-10-24_best-oasis-weekly-recycling-market-report-23-october-2026.html` (Status: **CURRENT (2d)**)
 - **Sample Ingested Report (Corpus):** [`2026-10-24_gms-week-43-freight-refuses-to-stay-down.html`](../corpus/02-hellenic/demolition/2026/2026-10-24_gms-week-43-freight-refuses-to-stay-down.html)
 - **Sample Extracted Markdown (Digest):** [`gms_2026-10-23_week-43_freight-refuses-to-stay-down.md`](../data/extracted/md/hellenic/demolition/gms/2026/gms_2026-10-23_week-43_freight-refuses-to-stay-down.md)
 - **Raw Corpus Inventory:** 1,953 PDFs, 818 HTML files, 1,214 Images
@@ -472,7 +471,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/hellenic/iron_ore_pdf`](../data/extracted/md/hellenic/iron_ore_pdf)
 - **Publication Cadence:** Daily (Mon-Fri) (Expected day: Daily)
 - **Coverage Span:** `2021-07-14` to `2026-10-26`
-- **Latest Ingested Document:** `2026-10-26_mmi-daily-iron-ore-index-report-october-26-2026_mmi-daily-iron-ore-report-for-26th-o_b1cb531d9a74.pdf` (Status: **CURRENT (0d)**)
+- **Latest Ingested Document:** `2026-10-26_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-26th-October-2026.pdf` (Status: **CURRENT (0d)**)
 - **Sample Ingested Report (Corpus):** [`2026-10-26_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-26th-October-2026.pdf`](../corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-26_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-26th-October-2026.pdf)
 - **Sample Extracted Markdown (Digest):** [`2026-10-26_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-26th-October-2026.md`](../data/extracted/md/hellenic/iron_ore_pdf/2026/2026-10-26_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-26th-October-2026.md)
 - **Raw Corpus Inventory:** 3,553 PDFs
@@ -488,7 +487,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/clarksons`](../data/extracted/md/clarksons)
 - **Publication Cadence:** Weekly (Friday) (Expected day: Friday)
 - **Coverage Span:** `2021-07-02` to `2026-07-31`
-- **Latest Ingested Document:** `2026-07-31_clarksons-hellas-snp-weekly-3_weekly-sales-31st-jul-2026_2ee0001b97f9.pdf` (Status: **SUPERSEDED (new issues arrive via corpus/01-brokers/clarksons (since 2026-08; last issue on this channel 2026-07-31))**)
+- **Latest Ingested Document:** `2026-07-31_clarksons-hellas-snp-weekly-3.html` (Status: **SUPERSEDED (new issues arrive via corpus/01-brokers/clarksons (since 2026-08; last issue on this channel 2026-07-31))**)
 - **Sample Ingested Report (Corpus):** [`2026-10-20_breakwave-tanker-report-10-20-2026.html`](../corpus/02-hellenic/shipbuilding/2026/2026-10-20_breakwave-tanker-report-10-20-2026.html)
 - **Sample Extracted Markdown (Digest):** [`clarksons_23_10_2026_clarksons_hellas_snp_weekly.md`](../data/extracted/md/clarksons/2026/clarksons_23_10_2026_clarksons_hellas_snp_weekly.md)
 - **Raw Corpus Inventory:** 1,041 PDFs, 381 HTML files, 180 Images
@@ -535,15 +534,15 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Corpus Directory (Raw Source):** [`corpus/03-breakwave`](../corpus/03-breakwave)
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/breakwave`](../data/extracted/md/breakwave)
 - **Publication Cadence:** Weekly (Tuesday) & Daily Insights (Expected day: Tuesday / Daily)
-- **Coverage Span:** `2018-07-03` to `2026-10-26`
-- **Latest Ingested Document:** `2026-10-26_diesel-drones-and-donald.html` (Status: **CURRENT (0d)**)
+- **Coverage Span:** `2018-07-03` to `2026-10-27`
+- **Latest Ingested Document:** `2026-10-27_Breakwave_Dry_Bulk.pdf` (Status: **CURRENT (0d)**)
 - **Sample Ingested Report (Corpus):** [`2026-10-20_Breakwave_Tankers.pdf`](../corpus/03-breakwave/tankers/2026/2026-10-20_Breakwave_Tankers.pdf)
 - **Sample Extracted Markdown (Digest):** [`2026-10-20_Breakwave_Tankers.md`](../data/extracted/md/breakwave/tankers/2026/2026-10-20_Breakwave_Tankers.md)
-- **Raw Corpus Inventory:** 307 PDFs, 3,266 HTML files, 15,137 Images, 3,237 Native Markdown files
-- **Extracted Markdown Dossiers:** 3,530 Markdown files
+- **Raw Corpus Inventory:** 308 PDFs, 3,266 HTML files, 15,137 Images, 3,237 Native Markdown files
+- **Extracted Markdown Dossiers:** 3,531 Markdown files
 - **Chart Extraction:** Yes (Dry bulk freight fundamentals, ETF trajectories, & localized Insights charts)
 - **Chart Engine / Technique:** BeautifulSoup DOM + Asset Linker (run_breakwave_insights.py) & PyMuPDF LiteParse (run_breakwave_clean_liteparse.py)
-- **Stacked Series CSVs:** [`breakwave_fundamentals_series.csv`](../data/extracted/series/breakwave_fundamentals_series.csv) (2,769 rows), [`breakwave_insights_metadata.csv`](../data/extracted/series/breakwave_insights_metadata.csv) (3,237 rows)
+- **Stacked Series CSVs:** [`breakwave_fundamentals_series.csv`](../data/extracted/series/breakwave_fundamentals_series.csv) (2,781 rows), [`breakwave_insights_metadata.csv`](../data/extracted/series/breakwave_insights_metadata.csv) (3,237 rows)
 - **Extraction Script:** [`run_breakwave_insights.py`](../scripts/extract/publishers/run_breakwave_insights.py) & [`run_breakwave_clean_liteparse.py`](../scripts/extract/publishers/run_breakwave_clean_liteparse.py)
 - **Notes & Rules Applied:** 100% 1:1 parity across 3,210 Insights articles (2020-2026) and 291 bi-weekly Dry Bulk/Tanker PDFs. Drybulk and Tankers partitioned by year (2018-2026 and 2023-2026). CI freshness comparison logic fixed to unblock automated workflow.
 
@@ -655,7 +654,7 @@ Drewry AIS reports are organized into 10 distinct vessel sectors, each with dedi
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/baltic`](../data/extracted/md/baltic)
 - **Publication Cadence:** Weekly (Friday) (Expected day: Friday)
 - **Coverage Span:** `2015-01-09` to `2026-10-23`
-- **Latest Ingested Document:** `2026-10-23_W43_tanker-report-week-43_tanker.html` (Status: **CURRENT (3d)**)
+- **Latest Ingested Document:** `2026-10-23_W43_container-report-week-43_container.html` (Status: **CURRENT (3d)**)
 - **Sample Ingested Report (Corpus):** [`2026_tanker-report-week-9_tanker.html`](../corpus/08-baltic/tanker/2026/2026_tanker-report-week-9_tanker.html)
 - **Sample Extracted Markdown (Digest):** [`2026_tanker-report-week-9_tanker.md`](../data/extracted/md/baltic/tanker/2026/2026_tanker-report-week-9_tanker.md)
 - **Raw Corpus Inventory:** 3,064 HTML files, 2,244 Native Markdown files
