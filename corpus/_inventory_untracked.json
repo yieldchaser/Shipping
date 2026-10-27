@@ -7,13 +7,13 @@
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4057,
-      "untracked_bytes": 2389108169
+      "untracked_files": 4061,
+      "untracked_bytes": 2391676196
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 9,
-      "untracked_bytes": 2035986
+      "untracked_files": 14,
+      "untracked_bytes": 2390683
     },
     {
       "path": "corpus/04-poten",
@@ -20223,6 +20223,16 @@
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
     },
     {
+      "path": "corpus/02-hellenic/iron_ore/2026/2026-10-27_mmi-daily-iron-ore-index-report-october-27-2026.html",
+      "bytes": 4501,
+      "sha256": "f5ec2eef735565aec969a3c70122982a097c0d135358f5f1dd72e4ca89f23401"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-10-27_mmi-daily-iron-ore-index-report-october-27-2026_27102026chinese2_d28c31eca3af.jpg",
+      "bytes": 188872,
+      "sha256": "b2aaad7f5e058f4384396563a1953e69fd802b1a44934165da42e859a181a358"
+    },
+    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
       "bytes": 1106014,
       "sha256": "b82a5abf0415bdb8da87e942ca7a69caa92b9e22ff1373ec591775898b1b0aa3"
@@ -30218,6 +30228,11 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
+      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-10-27_mmi-daily-iron-ore-index-report-october-27-2026_mmi-daily-iron-ore-report-for-27th-o_fd76b26c60e0.pdf",
+      "bytes": 1187327,
+      "sha256": "8518f1ac6c67545b1c3e6a220fd604689dcf2c0209c0b176ca65f8629870f0b0"
+    },
+    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31606,6 +31621,11 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
+    },
+    {
+      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-27_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-27th-October-2026.pdf",
+      "bytes": 1187327,
+      "sha256": "8518f1ac6c67545b1c3e6a220fd604689dcf2c0209c0b176ca65f8629870f0b0"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -35043,6 +35063,16 @@
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
     },
     {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-27_10272026db-reportj47-0o.html",
+      "bytes": 5854,
+      "sha256": "0c5642bb0f282272d27916bfcf98cfad159bc28443cdf165fb14637ae9e5976d"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-27_10272026db-reportj47-0o.md",
+      "bytes": 4451,
+      "sha256": "d889b79fb9cb4525a95b0ad87d95029f33b71fd90add23717c6c69997e4fdf3d"
+    },
+    {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
       "bytes": 69365,
       "sha256": "9848c9a3aaba37a9e84f8cd2263fff62c7771135c466216f51114381d1621e5f"
@@ -35086,6 +35116,21 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-27_10272026db-reportj47-0o_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e3bc811326f.png",
+      "bytes": 87513,
+      "sha256": "ff128b3aadc235d96a52a5100ba3c01f0f20ba326525330e7870d766f923b509"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-27_10272026db-reportj47-0o_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9d5796b44683.png",
+      "bytes": 47248,
+      "sha256": "b5071f45dc774f30d8cff5dba14accedf05827f638d1c2bc080dcd8e1cc88ca7"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-27_10272026db-reportj47-0o_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bba293086e02.png",
+      "bytes": 209631,
+      "sha256": "d5686ff7e664a7ce358ee2571fcf483eef81b3abe0438ac844efc3eb49f41e06"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
