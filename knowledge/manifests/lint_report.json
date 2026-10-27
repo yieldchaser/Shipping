@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T22:01:03Z",
-  "current_date": "2026-10-26",
+  "generated_at": "2026-10-27T15:15:44Z",
+  "current_date": "2026-10-27",
   "warning_count": 3,
   "high_severity_count": 0,
   "status_counts": {
@@ -21,7 +21,7 @@
       "severity": "watch",
       "kind": "source_freshness",
       "key": "hellenic/vessel_valuations",
-      "message": "hellenic/vessel_valuations is watch at 27 days since the latest dated document.",
+      "message": "hellenic/vessel_valuations is watch at 28 days since the latest dated document.",
       "details": {
         "label": "hellenic/vessel_valuations",
         "source": "hellenic",
@@ -29,7 +29,7 @@
         "status": "watch",
         "cadence_days": 14,
         "latest_date": "2026-09-29",
-        "age_days": 27,
+        "age_days": 28,
         "latest_gap_days": 6,
         "max_recent_gap_days": 8,
         "dated_doc_count": 274,
@@ -63,10 +63,10 @@
           },
           {
             "source": "breakwave_insights",
-            "avg_tone_score": 0.33,
+            "avg_tone_score": 0.21,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-10-26"
+            "latest_date": "2026-10-27"
           },
           {
             "source": "breakwave",
@@ -106,10 +106,10 @@
           },
           {
             "source": "breakwave_insights",
-            "avg_tone_score": 0.33,
+            "avg_tone_score": 0.21,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-10-26"
+            "latest_date": "2026-10-27"
           },
           {
             "source": "breakwave",
