@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T15:18:50Z",
+ "generated_at": "2026-10-27T21:35:41Z",
  "compiler_version": 2,
  "count": 106,
  "files": [
@@ -260,7 +260,7 @@
    "path": "knowledge/chunks/hellenic_demolition_2026.jsonl",
    "stem": "hellenic_demolition_2026",
    "year": 2026,
-   "bytes": 3349224
+   "bytes": 3356529
   },
   {
    "file": "hellenic_dry_charter.jsonl",
@@ -442,7 +442,7 @@
    "path": "knowledge/chunks/hellenic_shipbuilding_2026.jsonl",
    "stem": "hellenic_shipbuilding_2026",
    "year": 2026,
-   "bytes": 1163525
+   "bytes": 1164926
   },
   {
    "file": "hellenic_tanker_charter.jsonl",

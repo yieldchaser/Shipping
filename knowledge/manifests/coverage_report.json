@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-27T15:15:44Z",
+  "generated_at": "2026-10-27T21:32:39Z",
   "current_date": "2026-10-27",
   "corpus": {
-    "document_count": 11407,
-    "chunk_count": 113457,
-    "section_count": 39013,
+    "document_count": 11409,
+    "chunk_count": 113461,
+    "section_count": 39016,
     "topic_count": 10,
     "topic_evidence_count": 2500,
     "wiki_page_count": 10
@@ -172,11 +172,11 @@
       "category": "demolition",
       "status": "healthy",
       "cadence_days": 21,
-      "latest_date": "2026-10-24",
-      "age_days": 3,
-      "latest_gap_days": 0,
+      "latest_date": "2026-10-27",
+      "age_days": 0,
+      "latest_gap_days": 3,
       "max_recent_gap_days": 7,
-      "dated_doc_count": 817,
+      "dated_doc_count": 818,
       "undated_doc_count": 2
     },
     {
@@ -185,11 +185,11 @@
       "category": "shipbuilding",
       "status": "healthy",
       "cadence_days": 21,
-      "latest_date": "2026-10-20",
-      "age_days": 7,
-      "latest_gap_days": 14,
+      "latest_date": "2026-10-27",
+      "age_days": 0,
+      "latest_gap_days": 7,
       "max_recent_gap_days": 21,
-      "dated_doc_count": 381,
+      "dated_doc_count": 382,
       "undated_doc_count": 0
     },
     {
@@ -217,7 +217,7 @@
       "relevant_corpus_latest_date": "2026-10-27",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 83,
+      "document_count": 84,
       "source_counts": {
         "baltic": 16,
         "breakwave": 6,
@@ -230,8 +230,8 @@
         "dry_charter": 8,
         "drybulk": 6,
         "insights": 124,
-        "iron_ore": 63,
-        "shipbuilding": 5,
+        "iron_ore": 62,
+        "shipbuilding": 6,
         "vessel_valuations": 2
       },
       "recent_sources_present": [
@@ -243,8 +243,8 @@
       "missing_recent_sources": [],
       "tone_distribution": {
         "cautiously_bearish": 8,
-        "constructive": 59,
-        "neutral": 16
+        "constructive": 58,
+        "neutral": 18
       }
     },
     {
@@ -261,13 +261,13 @@
       "source_counts": {
         "baltic": 24,
         "breakwave": 6,
-        "breakwave_insights": 166,
-        "hellenic": 54
+        "breakwave_insights": 163,
+        "hellenic": 57
       },
       "category_counts": {
-        "demolition": 33,
-        "insights": 166,
-        "shipbuilding": 7,
+        "demolition": 35,
+        "insights": 163,
+        "shipbuilding": 8,
         "tanker": 24,
         "tanker_charter": 10,
         "tankers": 6,
@@ -282,8 +282,8 @@
       "missing_recent_sources": [],
       "tone_distribution": {
         "cautiously_bearish": 10,
-        "constructive": 54,
-        "neutral": 18
+        "constructive": 52,
+        "neutral": 20
       }
     },
     {
@@ -514,19 +514,19 @@
       "title": "LNG and LPG Shipping",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_evidence_date": "2026-10-23",
-      "latest_evidence_age_days": 4,
-      "relevant_corpus_latest_date": "2026-10-23",
+      "latest_evidence_date": "2026-10-27",
+      "latest_evidence_age_days": 0,
+      "relevant_corpus_latest_date": "2026-10-27",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 129,
+      "document_count": 130,
       "source_counts": {
-        "baltic": 212,
-        "hellenic": 38
+        "baltic": 211,
+        "hellenic": 39
       },
       "category_counts": {
-        "gas": 212,
-        "shipbuilding": 38
+        "gas": 211,
+        "shipbuilding": 39
       },
       "recent_sources_present": [
         "baltic",
@@ -536,7 +536,7 @@
       "tone_distribution": {
         "cautiously_bearish": 5,
         "constructive": 19,
-        "neutral": 17
+        "neutral": 18
       }
     },
     {
@@ -544,12 +544,12 @@
       "title": "Container and Ningbo Routes",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_evidence_date": "2026-10-23",
-      "latest_evidence_age_days": 4,
-      "relevant_corpus_latest_date": "2026-10-23",
+      "latest_evidence_date": "2026-10-27",
+      "latest_evidence_age_days": 0,
+      "relevant_corpus_latest_date": "2026-10-27",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 212,
+      "document_count": 213,
       "source_counts": {
         "baltic": 150,
         "hellenic": 100
@@ -557,8 +557,8 @@
       "category_counts": {
         "container": 87,
         "ningbo": 63,
-        "shipbuilding": 37,
-        "vessel_valuations": 63
+        "shipbuilding": 38,
+        "vessel_valuations": 62
       },
       "recent_sources_present": [
         "baltic",
@@ -568,7 +568,7 @@
       "tone_distribution": {
         "cautiously_bearish": 7,
         "constructive": 15,
-        "neutral": 61
+        "neutral": 62
       }
     }
   ],
