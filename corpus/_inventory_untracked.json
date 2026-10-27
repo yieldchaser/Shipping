@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2946,
-      "untracked_bytes": 2299223513
+      "untracked_files": 2942,
+      "untracked_bytes": 2297431587
     },
     {
       "path": "corpus/02-hellenic",
@@ -47,21 +47,6 @@
     }
   ],
   "entries": [
-    {
-      "path": "corpus/01-brokers/_digests/carriers/2026/carriers_19_10_2026_carriers_sales_purchase_market_report_week_42.md",
-      "bytes": 8751,
-      "sha256": "13e65204704deb34ab9875473b29424b22e3274c18d9ba8dfd1e8f634df7efe5"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/carriers/2026/carriers_26_10_2026_carriers_sales_purchase_market_report_week_43.md",
-      "bytes": 8988,
-      "sha256": "a825fe4d0ab026ca1e9d443be2530f773ea6c1ce6ed36f0237ffa5671389d066"
-    },
-    {
-      "path": "corpus/01-brokers/_digests/xclusiv/2026/xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.md",
-      "bytes": 23797,
-      "sha256": "d013ef88882dd3af216e9c7493e2ce079d45601378d9a6583e39e858af1d74ef"
-    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -14766,11 +14751,6 @@
       "path": "corpus/01-brokers/xclusiv/2026/xclusiv_22_09_2026_xclusiv_shipbrokers_weekly_21st_september_2026.pdf",
       "bytes": 1825129,
       "sha256": "ef0c8095f666657b720f699dff28ea2e7849f0e4419cac64265ad61b0e91dd9f"
-    },
-    {
-      "path": "corpus/01-brokers/xclusiv/2026/xclusiv_27_10_2026_xclusiv_shipbrokers_weekly_26th_october_2026.pdf",
-      "bytes": 1750390,
-      "sha256": "de60ddbe25ae5edd28d4425797d003d841f299d092c8802d85d270426ea0c2da"
     },
     {
       "path": "corpus/01-brokers/xclusiv/2026/xclusiv_29_09_2026_xclusiv_shipbrokers_weekly_28th_september_2026.pdf",
