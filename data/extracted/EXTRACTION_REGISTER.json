@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 15:58:55Z",
+  "updated_at": "2026-10-27 21:20:53Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -851,7 +851,7 @@
     {
       "file": "athenian_indicative_demolition_series.csv",
       "target_metric": "Athenian Indicative Demolition",
-      "rows": 3076,
+      "rows": 3088,
       "columns": [
         "issue_date",
         "report_week",
@@ -881,7 +881,7 @@
     {
       "file": "athenian_yearly_demolition_volume_series.csv",
       "target_metric": "Athenian Yearly Demolition Volume",
-      "rows": 4090,
+      "rows": 4106,
       "columns": [
         "issue_date",
         "report_week",
@@ -2631,7 +2631,7 @@
     {
       "file": "hellenic_vv_matrix_series.csv",
       "target_metric": "Hellenic Vv Matrix",
-      "rows": 19946,
+      "rows": 20024,
       "columns": [
         "issue_date",
         "sector",
@@ -2647,7 +2647,7 @@
     {
       "file": "hellenic_vv_sales_series.csv",
       "target_metric": "Hellenic Vv Sales",
-      "rows": 2091,
+      "rows": 2102,
       "columns": [
         "issue_date",
         "sector",
@@ -3963,13 +3963,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 721101,
+  "total_master_stacked_rows": 721218,
   "total_master_series_csvs": 167,
-  "total_stacked_rows": 721101,
+  "total_stacked_rows": 721218,
   "total_series_csvs": 167,
   "total_master_workbooks": 1,
   "total_series_count": 167,
-  "total_rows_extracted": 721406,
+  "total_rows_extracted": 721523,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 608,
     "advanced_shipping_demolition_series.csv": 2032,
@@ -3981,9 +3981,9 @@
     "affinity_tce_series.csv": 4096,
     "agora_indicators_series.csv": 10143,
     "athenian_historical_demolition_prices_series.csv": 240,
-    "athenian_indicative_demolition_series.csv": 3076,
+    "athenian_indicative_demolition_series.csv": 3088,
     "athenian_market_commentary_series.csv": 6,
-    "athenian_yearly_demolition_volume_series.csv": 4090,
+    "athenian_yearly_demolition_volume_series.csv": 4106,
     "baltic_ncfi_series.csv": 2057,
     "baltic_reports_metadata.csv": 2244,
     "bancosta_commodities_series.csv": 8573,
@@ -4069,8 +4069,8 @@
     "hellenic_iron_ore_table_series.csv": 5614,
     "hellenic_smm_market_drivers_series.csv": 30,
     "hellenic_vv_benchmark_sales_series.csv": 124,
-    "hellenic_vv_matrix_series.csv": 19946,
-    "hellenic_vv_sales_series.csv": 2091,
+    "hellenic_vv_matrix_series.csv": 20024,
+    "hellenic_vv_sales_series.csv": 2102,
     "intermodal_baltic_indices_series.csv": 1270,
     "intermodal_bunkers_series.csv": 2314,
     "intermodal_currencies_series.csv": 696,
