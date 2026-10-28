@@ -6,7 +6,7 @@ week: 41
 date_range: "2018-10-11 to 2018-10-11"
 comments_count: 1
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-27 21:26:07"
+generated_at: "2026-10-28 11:34:53"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 41, 2018
