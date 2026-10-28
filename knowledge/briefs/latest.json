@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T21:46:07.360563+00:00",
-  "brief_date": "2026-10-27",
+  "generated_at": "2026-10-28T17:09:31.842744+00:00",
+  "brief_date": "2026-10-28",
   "constituent_holdings": {
     "bdry": {
       "prompt_contract": {
@@ -52,9 +52,9 @@
     }
   },
   "generation": {
-    "mode": "llm",
-    "provider_used": "openrouter",
-    "model": "meta-llama/llama-3.3-70b-instruct",
+    "mode": "template",
+    "provider_used": "template",
+    "model": "",
     "provider_order": [
       "groq",
       "nim",
@@ -64,7 +64,8 @@
     "attempted_providers": [
       "groq",
       "nim",
-      "openrouter"
+      "openrouter",
+      "ollama"
     ]
   },
   "executive_tldr": [
@@ -140,19 +141,16 @@
   "vessel_classes": {
     "dry_bulk": {
       "confluence_type": "NEUTRAL",
-      "momentum_grade": "FLAT",
+      "momentum_grade": "DOWN",
       "positioning_bias": "NEUTRAL",
-      "confidence_score": 0.5,
+      "confidence_score": 0.45,
       "confluence_note": "Signal alignment is mixed for dry bulk (Z=+0.13sigma); conviction remains limited. Of 6 Breakwave reports: Sentiment 2 pos/0 neg/4 neu; Momentum 1 pos/3 neg/2 neu; Fundamentals 0 pos/0 neg/6 neu.",
-      "summary": "The BDI is at 2,603 points in a contraction regime, historically placing it in the top quartile of the five‑year range. Momentum is flat to mildly negative, with a Z‑score of +0.13σ and a 60‑point ROC decline, indicating a pause after a rapid six‑month recovery. Analyst consensus is neutral with mixed sentiment, while Capesize rates remain elevated versus Panamax, showing a split between larger vessel strength and broader market weakness. Geopolitical supply constraints and Chinese port congestion keep forward freight rates supported, suggesting a cautious long bias on Capesize 5TC FFA contracts with entry near $34,800/d and exit above $35,200/d.",
+      "summary": "Dry Bulk is in contraction regime at 2603.0, with z-score +0.13sigma and ROC60 -8.4%. Recent analyst sentiment skews neutral (positive:2, neutral:4). Signal alignment is mixed for dry bulk (Z=+0.13sigma); conviction remains limited. Of 6 Breakwave reports: Sentiment 2 pos/0 neg/4 neu; Momentum 1 pos/3 neg/2 neu; Fundamentals 0 pos/0 neg/6 neu.",
       "key_signals": [
-        "Capesize rates at 3,702 points (+0.32σ) sit near the 87th percentile, indicating a historically strong level that typically precedes sustained freight rate recovery.",
-        "The Capesize–Panamax spread of +1,681 points is the widest since Q4 2023, showing that iron ore and coal demand is crowding out grain traffic for smaller vessels.",
-        "Supramax and Handysize indices are in expansion territory at +1.68σ and +1.69σ respectively, with ROC60 gains of +17% and +15% signaling robust demand for smaller vessels.",
-        "BDI momentum grade is FLAT (Z=+0.13σ, ROC -8.4%) reflecting a pause after a 53.3% six‑month ROC recovery, implying limited upside potential in the near term.",
-        "The Capesize forward FFA 180kt contract for December 2026 trades at $34,779/d with a 0.93% monthly backwardation carry, offering a clear entry trigger above $34,800/d.",
-        "Geopolitical supply constraints in the South Atlantic and Chinese port congestion are limiting vessel availability, reinforcing the current rate floor despite weak spot demand.",
-        "The tanker market shows divergent performance with clean tankers outperforming dirty by 4,223 points, indicating stronger demand for refined products versus crude."
+        "Quant: BDI value=2603.0, z=+0.13sigma, 5Y percentile=84.4%.",
+        "Qual: last 6 reports sentiment mix -> positive:2, neutral:4.",
+        "Cross-check: CAPESIZE value=3702.0, z=-0.32sigma.",
+        "Latest report 2026-10-27: momentum=negative, fundamentals=neutral."
       ],
       "trade_idea": "No high-conviction setup: Maintain neutral book positioning and await decisive alignment between momentum and freight fundamentals.",
       "outlook": "dry bulk outlook is range-bound until either quant momentum or analyst tone breaks decisively.",
