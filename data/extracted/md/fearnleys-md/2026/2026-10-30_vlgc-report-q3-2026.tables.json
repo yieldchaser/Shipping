@@ -1,0 +1,48 @@
+{
+  "report_id": "11c2881e-5378-4c9d-b4d9-e41f5b47d558",
+  "issue_date": "2026-10-30",
+  "year": 2026,
+  "department": "LPG",
+  "report_title": "Fearnleys VLGC Report: Q3 2026",
+  "source_markdown": "2026-10-30_vlgc-report-q3-2026.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 7,
+  "charts": [
+    {
+      "section": "The Quiet Quarter?",
+      "title": "Global seaborne LPG by VLGCs",
+      "image": "11c2881e-5378-4c9d-b4d9-e41f5b47d558/Global seaborne LPG by VLGCs.png"
+    },
+    {
+      "section": "The Quiet Quarter?",
+      "title": "US LPG by VLGCs",
+      "image": "11c2881e-5378-4c9d-b4d9-e41f5b47d558/US LPG by VLGCs.png"
+    },
+    {
+      "section": "The Quiet Quarter?",
+      "title": "BLPG3 2024-2026",
+      "image": "11c2881e-5378-4c9d-b4d9-e41f5b47d558/BLPG3 2024-2026.png"
+    },
+    {
+      "section": "The Quiet Quarter?",
+      "title": "VLGC laden transits",
+      "image": "11c2881e-5378-4c9d-b4d9-e41f5b47d558/VLGC laden transits.png"
+    },
+    {
+      "section": "The Quiet Quarter?",
+      "title": "VLGC ballast transits",
+      "image": "11c2881e-5378-4c9d-b4d9-e41f5b47d558/VLGC ballast transits.png"
+    },
+    {
+      "section": "The Quiet Quarter?",
+      "title": "Chinese imports of LPG",
+      "image": "11c2881e-5378-4c9d-b4d9-e41f5b47d558/Chinese imports of LPG.png"
+    },
+    {
+      "section": "The Quiet Quarter?",
+      "title": "Historical fleet development",
+      "image": "11c2881e-5378-4c9d-b4d9-e41f5b47d558/Historical fleet development.png"
+    }
+  ]
+}

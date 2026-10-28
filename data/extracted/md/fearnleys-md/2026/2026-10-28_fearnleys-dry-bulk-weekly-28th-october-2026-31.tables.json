@@ -1,0 +1,123 @@
+{
+  "report_id": "8714678e-77de-41b2-886e-f2468e99d352",
+  "issue_date": "2026-10-28",
+  "year": 2026,
+  "department": "BULK",
+  "report_title": "Fearnleys Dry Bulk Weekly",
+  "source_markdown": "2026-10-28_fearnleys-dry-bulk-weekly-28th-october-2026-31.md",
+  "tables": [],
+  "printed_image_tables": [],
+  "charts_count": 22,
+  "charts": [
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Cape/Newc Composite Model",
+      "image": "8714678e-77de-41b2-886e-f2468e99d352/Cape Composite Model.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "Cape/Newc Composite Model - 4 Weeks Change",
+      "image": "8714678e-77de-41b2-886e-f2468e99d352/cape momentum model.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "cape model",
+      "image": "8714678e-77de-41b2-886e-f2468e99d352/cape model.png"
+    },
+    {
+      "section": "Capesize/Newcastlemax",
+      "title": "cape momentum model",
+      "image": "8714678e-77de-41b2-886e-f2468e99d352/cape momentum model.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "Weekly Shipment Volumes",
+      "image": "c9daa4e4-e8f7-4c94-9d27-7cd7c83f8315/panamax kamsarmax weekly shipment volumes.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)",
+      "image": "8714678e-77de-41b2-886e-f2468e99d352/P5 vs Newcastle Coal Futures Spread Lead.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "P5TC vs Pacific Vessel Tightness Indicator (Lead 3 Weeks)",
+      "image": "8714678e-77de-41b2-886e-f2468e99d352/P5TC vs Pacific Tightness Indicator Zoom In.png"
+    },
+    {
+      "section": "Panamax/Kamsarmax",
+      "title": "P6 vs South Atlantic Vessel Tightness Indicator (Lead 1 Month)",
+      "image": "8714678e-77de-41b2-886e-f2468e99d352/P6 vs SATL Tightness.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Weekly Shipment Volumes",
+      "image": "8714678e-77de-41b2-886e-f2468e99d352/SUPRAMAX ULTRAMAX WEEKLY SHIPMENT VOLUMES.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Ballaster/Laden Vessel Ratio vs S11TC",
+      "image": "8714678e-77de-41b2-886e-f2468e99d352/supraultra ballaster laden vessel ratio.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Industrial Metals Price Index vs Ultra/Supra 1 Year TC",
+      "image": "eaa9d164-ef32-4861-b3c3-7f93faf786de/Industrial Metals Index vs Ultramax 1 Year TC.png"
+    },
+    {
+      "section": "Supramax/Ultramax",
+      "title": "Copper Price vs Ultramax 1 Year TC",
+      "image": "eaa9d164-ef32-4861-b3c3-7f93faf786de/COPPER 9 MONTHS CHANGE VS ULTRAMAX 9 MONTHS CHANGE.png"
+    },
+    {
+      "section": "Handysize",
+      "title": "HS3 vs Ratio of HS3 and HS5",
+      "image": "8714678e-77de-41b2-886e-f2468e99d352/HS3 RATIO.png"
+    },
+    {
+      "section": "Handysize",
+      "title": "Weekly Shipment Volumes",
+      "image": "8714678e-77de-41b2-886e-f2468e99d352/HANDYSIZE WEEKLY SHIPMENT VOLUMES.png"
+    },
+    {
+      "section": "Handysize",
+      "title": "S11TC Shifted 1 Week Forward, vs HS7TC",
+      "image": "8714678e-77de-41b2-886e-f2468e99d352/ULTRA LEAD HANDY.png"
+    },
+    {
+      "section": "Handysize",
+      "title": "Copper Price 6 Months Change, 6 Months Lead, vs Handysize 10 Year Old 6 Months Change",
+      "image": "0c93677f-6535-4dce-9faf-4bd6057e8a69/copper vs handysize.png"
+    },
+    {
+      "section": "Fundamentals and Macro",
+      "title": "Economic Cycle Index vs Dry Bulk Ton-Time Growth",
+      "image": "8714678e-77de-41b2-886e-f2468e99d352/Commodity and Currency vs TonTime.png"
+    },
+    {
+      "section": "Fundamentals and Macro",
+      "title": "Economic Cycle Index vs Kamsarmax 10-Year Old",
+      "image": "8714678e-77de-41b2-886e-f2468e99d352/Commodity and Currency vs Kamsarmax.png"
+    },
+    {
+      "section": "Fundamentals and Macro",
+      "title": "Economic Cycle Index vs Dry Bulk Volume Growth",
+      "image": "8714678e-77de-41b2-886e-f2468e99d352/Commodity and Currency vs Volumes.png"
+    },
+    {
+      "section": "Fundamentals and Macro",
+      "title": "Economic Cycle Index vs BDI",
+      "image": "8714678e-77de-41b2-886e-f2468e99d352/Commodity and Currency vs BDI.png"
+    },
+    {
+      "section": "Fundamentals and Macro",
+      "title": "Fleet Age Profile",
+      "image": "8714678e-77de-41b2-886e-f2468e99d352/FLEET AGE PROFILE.png"
+    },
+    {
+      "section": "Fundamentals and Macro",
+      "title": "Ton-Time Growth vs DWT Supply Growth",
+      "image": "8714678e-77de-41b2-886e-f2468e99d352/dry bulk tontime VS supply.png"
+    }
+  ]
+}

@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2942,
-      "untracked_bytes": 2297431587
+      "untracked_files": 2977,
+      "untracked_bytes": 2312494040
     },
     {
       "path": "corpus/02-hellenic",
@@ -5668,6 +5668,141 @@
       "sha256": "ae4069231c5ba43de6b80c9312ef4d52770ecf74060768b1e66890a9067dbfd7"
     },
     {
+      "path": "corpus/01-brokers/fearnleys-md/2026/2026-10-30_vlgc-report-q3-2026.md",
+      "bytes": 10095,
+      "sha256": "1ff875961d1633583af894d96d13d9c594bbc83f161f11268bd28c2e3b336f92"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/11c2881e-5378-4c9d-b4d9-e41f5b47d558/BLPG3 2024-2026.png",
+      "bytes": 177172,
+      "sha256": "d30f170d736d01c6b157191b32dd2ce015e5329c535510aa892f64d207e575d0"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/11c2881e-5378-4c9d-b4d9-e41f5b47d558/Chinese imports of LPG.png",
+      "bytes": 88381,
+      "sha256": "c2c2372ecb1fbfda6516b4bb79a1d2921dee8028aefbbf843195555ea7b1f82e"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/11c2881e-5378-4c9d-b4d9-e41f5b47d558/Global seaborne LPG by VLGCs.png",
+      "bytes": 144164,
+      "sha256": "ae10586e8a1395b208d465a284149e3109f510f8b6eecd42a19038cc7fb17631"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/11c2881e-5378-4c9d-b4d9-e41f5b47d558/Historical fleet development.png",
+      "bytes": 74804,
+      "sha256": "115e4cc8035e91e86864b9801eb1ecb281feb93eea0ba66e8d701409e42d9f16"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/11c2881e-5378-4c9d-b4d9-e41f5b47d558/US LPG by VLGCs.png",
+      "bytes": 105031,
+      "sha256": "c04a02500b1d1c86f17e618a97f117d20921f63aa51a541f3e9a86520e134c8d"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/11c2881e-5378-4c9d-b4d9-e41f5b47d558/VLGC ballast transits.png",
+      "bytes": 144008,
+      "sha256": "cb4c9c44d73dcb016284907bed2cc28a763f7d38329fc9e664f5be8dd48229d3"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/11c2881e-5378-4c9d-b4d9-e41f5b47d558/VLGC laden transits.png",
+      "bytes": 132734,
+      "sha256": "9307c89648cfbb96ba96e7394c53bca057d5a9b2a42fc4987aac2ddc2b9b74dd"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/8714678e-77de-41b2-886e-f2468e99d352/Cape Composite Model.png",
+      "bytes": 297754,
+      "sha256": "893b387eed56888bd6eebb30bc73e1fdc801bd2bd9159b944b411bfb7952371c"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/8714678e-77de-41b2-886e-f2468e99d352/Commodity and Currency vs BDI.png",
+      "bytes": 250241,
+      "sha256": "e6fa58da63512775435e6f2bf86fe75c01bf2c0cd983c2db97e9f053348604f5"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/8714678e-77de-41b2-886e-f2468e99d352/Commodity and Currency vs Kamsarmax.png",
+      "bytes": 191808,
+      "sha256": "623d6eef88754f02c191e3a48fcca4679f7c73397418d97772700e37320d1eac"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/8714678e-77de-41b2-886e-f2468e99d352/Commodity and Currency vs TonTime.png",
+      "bytes": 218889,
+      "sha256": "9897de4e4c65821dd50870c62b6cdcb924770401a7df9f6332f4ab5d11acb3cf"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/8714678e-77de-41b2-886e-f2468e99d352/Commodity and Currency vs Volumes.png",
+      "bytes": 215824,
+      "sha256": "afd1f30f82d44121a043a008d8d7fcdb60758853888c28e802e1b0465d3f6256"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/8714678e-77de-41b2-886e-f2468e99d352/FLEET AGE PROFILE.png",
+      "bytes": 92618,
+      "sha256": "af723fc3fac93f48200d7c38c2c806b597c3b93695f3596e04b7110baf9c92b2"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/8714678e-77de-41b2-886e-f2468e99d352/HANDYSIZE WEEKLY SHIPMENT VOLUMES.png",
+      "bytes": 175144,
+      "sha256": "760e37739fa70dc0d79deb6f13a761a0d70cf991ae389b0cac769b181d8a9e58"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/8714678e-77de-41b2-886e-f2468e99d352/HS3 RATIO.png",
+      "bytes": 185584,
+      "sha256": "f85ea3cdb8f430dc20fde9b0c105ef67b40ee42c77ec37174f70b01e42e9ad8f"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/8714678e-77de-41b2-886e-f2468e99d352/P5 vs Newcastle Coal Futures Spread Lead.png",
+      "bytes": 226537,
+      "sha256": "5dc4ff73f74d14b937cc36b6865cceacbd36739825f6a1b162d71c4ab47f3ae9"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/8714678e-77de-41b2-886e-f2468e99d352/P5TC vs Pacific Tightness Indicator Zoom In.png",
+      "bytes": 232472,
+      "sha256": "fded11140a19c8b8cc734406fadece0fada8490961f4f921322fdcf429c31303"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/8714678e-77de-41b2-886e-f2468e99d352/P6 vs SATL Tightness.png",
+      "bytes": 220183,
+      "sha256": "01ff8bd62db6844b580036442b1683fa1e0e89322cbad42ff3c12b786daa0811"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/8714678e-77de-41b2-886e-f2468e99d352/SUPRAMAX ULTRAMAX WEEKLY SHIPMENT VOLUMES.png",
+      "bytes": 147091,
+      "sha256": "39688a61c4ace89f9138868713a4377f70645085ca06b0df3c2d935ce1f9a718"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/8714678e-77de-41b2-886e-f2468e99d352/ULTRA LEAD HANDY.png",
+      "bytes": 166344,
+      "sha256": "197a690c09b75c7010785f18ecab3adc1e13d120ca70307ac0344cceb79f4358"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/8714678e-77de-41b2-886e-f2468e99d352/cape model.png",
+      "bytes": 262921,
+      "sha256": "4ee40ecc01153706ba7eef8b7c314843235b10ef00cc4dc62dec2d88fdc0c0b2"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/8714678e-77de-41b2-886e-f2468e99d352/cape momentum model.png",
+      "bytes": 50589,
+      "sha256": "fa7139a76bf94ce0abba22f3b246d8ab0441a420427689c8ee2372a6e26b217a"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/8714678e-77de-41b2-886e-f2468e99d352/dry bulk tontime VS supply.png",
+      "bytes": 172244,
+      "sha256": "67219d59f2e50792dc02e14bd5e9163418b682d5618ccb0003fe570bc036d81c"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/images/8714678e-77de-41b2-886e-f2468e99d352/supraultra ballaster laden vessel ratio.png",
+      "bytes": 274290,
+      "sha256": "a5dd25964980ec9580c6932da8fea5afb65d57443b9e64d06a35d70afb922820"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/pdfs/2026/2026-10-28_fearnleys-dry-bulk-weekly-28th-october-2026-31.pdf",
+      "bytes": 7090317,
+      "sha256": "0ccea2b4f393e6d88ebe7b3b065490eb2fc3828e5e2dc2ffadb79bd1404b1e28"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys-md/pdfs/2026/2026-10-30_vlgc-report-q3-2026.pdf",
+      "bytes": 3702409,
+      "sha256": "fcf73dd9210a79d7ca01ddd257de93fe8d9806af7d9840c6293d4467662e99ab"
+    },
+    {
       "path": "corpus/01-brokers/fearnleys/2018/fearnleys_2018_W29_fw_week_29_2018b.pdf",
       "bytes": 756383,
       "sha256": "06209ccb382a1cdca483a8268ff6fd682ff796f26b8543f971ce22cde17a8ed6"
@@ -6998,6 +7133,11 @@
       "sha256": "ef822366237eae31d2312ea3f038d7d7b2200474c7ebd87c7b23a19799d3485d"
     },
     {
+      "path": "corpus/01-brokers/fearnleys/voice/aframax/2026/2026-10-28_aframax_63a8313a.md",
+      "bytes": 1549,
+      "sha256": "53c796aec96a41b1c644b0ab121ff2dc8f16c04e368e2d52b6aac23116aa3655"
+    },
+    {
       "path": "corpus/01-brokers/fearnleys/voice/capesize/2026/2026-10-07_capesize_a7d21452.md",
       "bytes": 1805,
       "sha256": "aeaaf648c666f879fd095177f4982f4a4180521a0f6540ed8d7a47652e5e18a0"
@@ -7013,6 +7153,11 @@
       "sha256": "c36ed03d0b0b9466f0a23bb768e8482a03d753116080d4addb36126200fc7e04"
     },
     {
+      "path": "corpus/01-brokers/fearnleys/voice/capesize/2026/2026-10-28_capesize_bfecc53e.md",
+      "bytes": 1652,
+      "sha256": "d8c3bcf9f022e9017040b03f9ff912434e8892808b3b95a4b844f545a1680688"
+    },
+    {
       "path": "corpus/01-brokers/fearnleys/voice/chartering/2026/2026-10-07_chartering_25575d2a.md",
       "bytes": 1049,
       "sha256": "5e15c7f6ed285350d0270ec4392a948675d53059f9c08916d369f9b0488294e5"
@@ -7026,6 +7171,11 @@
       "path": "corpus/01-brokers/fearnleys/voice/chartering/2026/2026-10-21_chartering_e5f2f88a.md",
       "bytes": 1413,
       "sha256": "36d0af16146473803e881e6e8b8e801296a2da38fd46e13b5965ea8fad123e8d"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys/voice/chartering/2026/2026-10-28_chartering_cbe94098.md",
+      "bytes": 1604,
+      "sha256": "7436fe47f90b62d62404aa9f62a8c104641057919c9244e2e748c86a0c3b5405"
     },
     {
       "path": "corpus/01-brokers/fearnleys/voice/lng/2026/2026-10-07_lng_c95e1439.md",
@@ -7058,9 +7208,19 @@
       "sha256": "724e050c5eb8343379da97da1c408e95d27558452fb0ead86dbc6e9c3f46150f"
     },
     {
+      "path": "corpus/01-brokers/fearnleys/voice/panamax/2026/2026-10-28_panamax_c2c095d7.md",
+      "bytes": 1425,
+      "sha256": "26bac0611a3cb4a1cb3bc08100ccd56e2325e15d2b553382de96eb032089f6a4"
+    },
+    {
       "path": "corpus/01-brokers/fearnleys/voice/snp/2026/2026-10-16_snp_8435d822.md",
       "bytes": 1918,
       "sha256": "f9a99744d6ac3a35c03b087793b403d3fd09b72c54777a52d3682eea328897c0"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys/voice/snp/2026/2026-10-23_snp_755e08e2.md",
+      "bytes": 2105,
+      "sha256": "ddc7e36ffeba41ec845646433372f68137e7ba74111679c1fb85790d2c6cb289"
     },
     {
       "path": "corpus/01-brokers/fearnleys/voice/suezmax/2026/2026-10-07_suezmax_90cee00b.md",
@@ -7078,6 +7238,11 @@
       "sha256": "3122a8b25291ed63ad6729757f870418ffc2517089a123b7b8b942b2aa5156e0"
     },
     {
+      "path": "corpus/01-brokers/fearnleys/voice/suezmax/2026/2026-10-28_suezmax_2b58066b.md",
+      "bytes": 1461,
+      "sha256": "b18322dd210512fb11107f25d5fe509c398afb2a66d1fbb94b4a1c8f4f606835"
+    },
+    {
       "path": "corpus/01-brokers/fearnleys/voice/supramax/2026/2026-10-07_supramax_3b64a519.md",
       "bytes": 1250,
       "sha256": "38a97c50a9269d585eb6a76a72e6bf296ac6b4daa6a9f5e9155a17f14d824f05"
@@ -7093,6 +7258,11 @@
       "sha256": "5d78e141cfc8dae71bb85b9d735f4ff01c93f66145086d50f6158e9d097af867"
     },
     {
+      "path": "corpus/01-brokers/fearnleys/voice/supramax/2026/2026-10-28_supramax_c475add3.md",
+      "bytes": 1381,
+      "sha256": "847d8170cca97a92ac766a24496e0e9669fc168573ced0a43f633580d39e6494"
+    },
+    {
       "path": "corpus/01-brokers/fearnleys/voice/vlcc/2026/2026-10-07_vlcc_b1f018bd.md",
       "bytes": 1452,
       "sha256": "9c4f58988470eda15867f2a463a7a91df5887334685c95e38ec05df64fba0fa0"
@@ -7106,6 +7276,11 @@
       "path": "corpus/01-brokers/fearnleys/voice/vlcc/2026/2026-10-21_vlcc_c2dcef55.md",
       "bytes": 1558,
       "sha256": "d0b41440f3e0f4731c168aff52f90b451d39ebd67e96505b0b1ae61032d486eb"
+    },
+    {
+      "path": "corpus/01-brokers/fearnleys/voice/vlcc/2026/2026-10-28_vlcc_20db6957.md",
+      "bytes": 1628,
+      "sha256": "4a70a834927fe1265b89b353ce715db66c069830c2bf13740401d00a278a736f"
     },
     {
       "path": "corpus/01-brokers/gibson/2021/gibson_2021_2021-02-07-Oil-production-its-a-game-of-two-halves.pdf",
