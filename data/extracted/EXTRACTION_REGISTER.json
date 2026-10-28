@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 13:49:09Z",
+  "updated_at": "2026-10-28 15:51:03Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -1214,7 +1214,7 @@
     {
       "file": "breakwave_insights_metadata.csv",
       "target_metric": "Breakwave Insights articles catalog, image references, tags, and full text metadata",
-      "rows": 3238,
+      "rows": 3240,
       "columns": [
         "issue_date",
         "year",
@@ -3963,13 +3963,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 721218,
+  "total_master_stacked_rows": 721220,
   "total_master_series_csvs": 167,
-  "total_stacked_rows": 721218,
+  "total_stacked_rows": 721220,
   "total_series_csvs": 167,
   "total_master_workbooks": 1,
   "total_series_count": 167,
-  "total_rows_extracted": 721523,
+  "total_rows_extracted": 721525,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 608,
     "advanced_shipping_demolition_series.csv": 2032,
@@ -4001,7 +4001,7 @@
     "best_oasis_exchange_rates_series.csv": 170,
     "best_oasis_market_commentary_series.csv": 1031,
     "breakwave_fundamentals_series.csv": 2781,
-    "breakwave_insights_metadata.csv": 3238,
+    "breakwave_insights_metadata.csv": 3240,
     "carriers_bda_series.csv": 402,
     "carriers_bspa_series.csv": 804,
     "carriers_demolition_series.csv": 174,

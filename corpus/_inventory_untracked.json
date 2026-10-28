@@ -12,8 +12,8 @@
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 9,
-      "untracked_bytes": 2035986
+      "untracked_files": 19,
+      "untracked_bytes": 2759418
     },
     {
       "path": "corpus/04-poten",
@@ -35043,6 +35043,26 @@
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
     },
     {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-28_is-an-atlantic-basin-crude-glut-on-the-cards.html",
+      "bytes": 17020,
+      "sha256": "0929cabb9daa68d1dd6086f1f7539ccb24548ba54d1afc7f978dcc23e7d5940d"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-28_is-an-atlantic-basin-crude-glut-on-the-cards.md",
+      "bytes": 19336,
+      "sha256": "6701a613de0f26d27aaf76525ccee421b9f881560ed255e97fd396e7581edf51"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-28_russian-diesel-returns-a-new-atlantic-trade-dynamic.html",
+      "bytes": 7600,
+      "sha256": "cf308b06c178f31d867f68f93d54de994ea872ba74c44b5a7e12b0aabd57ea9e"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/2026-10-28_russian-diesel-returns-a-new-atlantic-trade-dynamic.md",
+      "bytes": 5954,
+      "sha256": "d52f415faf16fbe96ffd6f868aadf13881c2243199cbe0ca5369fe8312d7617d"
+    },
+    {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
       "bytes": 69365,
       "sha256": "9848c9a3aaba37a9e84f8cd2263fff62c7771135c466216f51114381d1621e5f"
@@ -35086,6 +35106,36 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-28_is-an-atlantic-basin-crude-glut-on-the-cards_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1e882b17e861.png",
+      "bytes": 23109,
+      "sha256": "aebacec162e7269be37555448d3ea8fa3af277235880db4b4e8a35ef964d7d47"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-28_is-an-atlantic-basin-crude-glut-on-the-cards_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_560a7a790751.png",
+      "bytes": 92785,
+      "sha256": "2e1abbc4efb1c8111bfa5d80d20752af7d10d57294bf52d851e1adbcc5936c4d"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-28_is-an-atlantic-basin-crude-glut-on-the-cards_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8429a2df574d.png",
+      "bytes": 205257,
+      "sha256": "d8d911687ee36800f8d181493f5f66b0d154b672ca8a6543b03c98853b95d07e"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-28_is-an-atlantic-basin-crude-glut-on-the-cards_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_86197629d293.png",
+      "bytes": 104722,
+      "sha256": "fc2f04e7b080aab49e5801fc658c378cb4733301d263ae0a58447d64e549ce80"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-28_is-an-atlantic-basin-crude-glut-on-the-cards_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d3bb700e34e1.png",
+      "bytes": 86091,
+      "sha256": "a271454ec845ef9f23c1c64e901c85dd14214761fc34d3800b11d58498180e3f"
+    },
+    {
+      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-28_russian-diesel-returns-a-new-atlantic-trade-dynamic_img_unsplash-image-i1vglhw7oac_7bd4e04f86f8.jpg",
+      "bytes": 161558,
+      "sha256": "ac005b3bcbe3954a1aaca98fc0b91ef7161cf2d722507d1b01622db0d1198f04"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
