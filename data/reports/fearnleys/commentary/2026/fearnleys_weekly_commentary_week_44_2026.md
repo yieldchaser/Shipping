@@ -4,13 +4,13 @@ source: "Fearnleys Hasura GraphQL API (fearnpulse.com)"
 year: 2026
 week: 44
 date_range: "2026-10-28 to 2026-10-28"
-comments_count: 5
+comments_count: 8
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-28 14:08:45"
+generated_at: "2026-10-28 21:47:04"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 44, 2026
-*Coverage Period: 2026-10-28 to 2026-10-28 | Total Notes: 5*
+*Coverage Period: 2026-10-28 to 2026-10-28 | Total Notes: 8*
 
 ## Executive Summary
 Institutional desk intelligence harvested directly from the Fearnleys Hasura GraphQL backend, covering global Dry Bulk, Crude & Product Tankers, Gas/LNG markets, and Secondhand S&P deals for Week 44 (2026).
@@ -20,6 +20,13 @@ Institutional desk intelligence harvested directly from the Fearnleys Hasura Gra
 **Date:** 2026-10-28 | **Subtype:** Dry Bulk Weekly Comment | **Desk:** Fearnleys Research
 
 After a fairly flat start to the week, the Cape market surged following a flurry of fixtures since yesterday afternoon. Pacific C5 West Australia/China showed more buoyancy this morning after yesterday's late October and early November fixtures concluded in the low USD 14s range. Today some cargoes for early November were done in the mid-high USD 14s with one rumor of a fixture at USD 15 linked to Cargill (laycan to be confirmed). The Atlantic saw a similar story as the Baltic paper gained 5% today. A fresh wave of cargoes came to market, with charterers bidding in the USD 34-35s range for second half November laycans. December stems are bidding similarly in the USD 35 range. This morning we saw one fixture was reported at USD 35 for a 25 November stem from Cargill on a standard Cape, and a Newcastlemax fixed today at USD 34.25 for Brazil/China. More recently we hear reports of a fixture in the high USD 35s-36 range. Some owners are showing some reluctance to offer as bullish sentiment is expected to show some mild rate increases in the near term.
+
+---
+
+### Panamax Weekly Comment
+**Date:** 2026-10-28 | **Subtype:** Dry Bulk Weekly Comment | **Desk:** Fearnleys Research
+
+The Panamax market has weakened across both basins this week, with lower fixtures confirming that the Pacific’s earlier support is giving way. In the Atlantic, fresh grain and mineral demand remains too thin to absorb available tonnage, while the long November ECSA ballaster list continues to push transatlantic and fronthaul rates lower. The Pacific is now following, as fewer Aussie and NoPac cargoes compete for the ships available, and softer Indo coal demand gives charterers more room to press rates. Period interest remains selective, with owners’ ideas still above buyers’ levels and the weaker forward curve limiting commitments. Our vessel-tightness indicators suggest scope for a bounce after this correction, but shipment growth still trails fleet growth, leaving us cautious about how far any recovery can run into winter.
 
 ---
 
@@ -56,7 +63,23 @@ It's a rollercoaster week so far in the Med with replacements jobs done well abo
 ---
 
 ## 3. Gas & LNG Markets
-*No dedicated gas/LNG commentary published this week.*
+### LNG Market Report
+**Date:** 2026-10-28 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+
+There are significant global events underway or on the horizon, not least of which are the with elections in Israel and the midterms in the U.S., and increasing tensions again in the Middle East; the LNG and LNG shipping markets also find themselves at a similarly uncertain juncture in the short-term. LNG prices have continued to rise and with Europe now entering the heating season withdrawals from storage have begun. Forward gas prices have risen sharply and this coincides with the announced extension of the Force Majeure out of Qatar. How high LNG prices will go and whether Asian buyers will complete at such levels will go a long way to shaping how the freight market will react in the coming weeks.
+ 
+The spot market in the West has strengthened off the back of a number of fixtures and a slight drawdown on the position lists, although additional fresh requirements will be needed to maintain the momentum. Independent owners in the East have been actively targeting premium markets, resulting in a large clearout of prompt availability, with much of this tonnage unlikely to reappear before well into Q1 next year. Consequently, firm offers for non-Middle East business are becoming harder to extract, putting greater emphasis on sublet tonnage to provide liquidity and therefore set the pricing direction. In contrast to the Atlantic basin, November still looks broadly soft to flat from here, but the potential for upside increases into December. The firming cargo prices add another supportive element (subject to the impact on the arbitrage), while portfolios appear reluctant to release length too readily ahead of potential inter-basin swings further into Q1.
+
+---
 
 ## 4. Sale and Purchase (S&P) & Corporate Activity
-*No dedicated S&P commentary published this week.*
+### Chartering Weekly Comment
+**Date:** 2026-10-28 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+
+After a brief rally that saw cargoes conclude around the USD 330/t level in the middle of last week, freight rates have gradually softened, with recent fixtures reported below USD 315/t. Market activity remains subdued and some of the fixing is occurring behind closed doors, contributing to an overall quieter sentiment.
+
+We have registered 28 fixtures for Nov thus far (7/9/12 by decade), and market attention is now shifting toward December, where three spot fixtures ex-US Gulf have been concluded so far.
+
+The East-West arbitrage remains open and continues to support cargo economics at current freight levels. While vessel availability remains broadly balanced against demand, the recent correction suggests charterers have regained some negotiating power. Going forward, participants will be closely monitoring fixture volumes and fresh cargo emergence to determine whether rates have found support or if further downside remains likely in the weeks ahead.
+
+---

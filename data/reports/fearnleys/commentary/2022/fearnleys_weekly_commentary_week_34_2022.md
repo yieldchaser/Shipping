@@ -6,7 +6,7 @@ week: 34
 date_range: "2022-08-22 to 2022-08-23"
 comments_count: 14
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-28 14:08:41"
+generated_at: "2026-10-28 21:47:02"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 34, 2022
