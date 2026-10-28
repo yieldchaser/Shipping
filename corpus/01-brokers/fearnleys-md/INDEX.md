@@ -3,17 +3,17 @@
 This directory contains Fearnleys's proprietary weekly research publications and sector wrap-ups harvested directly from Fearnleys's Hasura API (`custom_report`).
 
 ## Summary Statistics
-- **Total Research Reports:** 186
-- **Total Indicator & Correlation Charts:** 3232
-- **Date Coverage:** 2024-03-25 to 2026-10-22
+- **Total Research Reports:** 187
+- **Total Indicator & Correlation Charts:** 3254
+- **Date Coverage:** 2024-03-25 to 2026-10-28
 
 ### Reports by Year
 - **2024:** 47 reports
 - **2025:** 74 reports
-- **2026:** 65 reports
+- **2026:** 66 reports
 
 ### Reports by Department
-- **BULK:** 125 reports
+- **BULK:** 126 reports
 - **GENERAL:** 2 reports
 - **LNG:** 24 reports
 - **LPG:** 9 reports
@@ -25,7 +25,8 @@ This directory contains Fearnleys's proprietary weekly research publications and
 
 | Date | Department | Title | Charts | Markdown | PDF |
 | :---: | :---: | :--- | :---: | :--- | :---: |
-| 2026-10-22 | BULK | Fearnleys Dry Bulk Weekly | 22 | [2026/2026-10-22_fearnleys-dry-bulk-weekly-22nd-october-2026-30.md](2026/2026-10-22_fearnleys-dry-bulk-weekly-22nd-october-2026-30.md) | [Cloud](https://pbrkapp.blob.core.windows.net/report/c9daa4e4-e8f7-4c94-9d27-7cd7c83f8315/report.pdf) |
+| 2026-10-28 | BULK | Fearnleys Dry Bulk Weekly | 22 | [2026/2026-10-28_fearnleys-dry-bulk-weekly-28th-october-2026-31.md](2026/2026-10-28_fearnleys-dry-bulk-weekly-28th-october-2026-31.md) | [Cloud](https://pbrkapp.blob.core.windows.net/report/8714678e-77de-41b2-886e-f2468e99d352/report.pdf) |
+| 2026-10-22 | BULK | Fearnleys Dry Bulk Weekly | 22 | [2026/2026-10-22_fearnleys-dry-bulk-weekly-22nd-october-2026-30.md](2026/2026-10-22_fearnleys-dry-bulk-weekly-22nd-october-2026-30.md) | [PDF](pdfs/2026/2026-10-22_fearnleys-dry-bulk-weekly-22nd-october-2026-30.pdf) |
 | 2026-10-14 | BULK | Fearnleys Dry Bulk Weekly | 22 | [2026/2026-10-14_fearnleys-dry-bulk-weekly-14th-october-2026-29.md](2026/2026-10-14_fearnleys-dry-bulk-weekly-14th-october-2026-29.md) | [PDF](pdfs/2026/2026-10-14_fearnleys-dry-bulk-weekly-14th-october-2026-29.pdf) |
 | 2026-10-07 | BULK | Fearnleys Dry Bulk Weekly | 22 | [2026/2026-10-07_fearnleys-dry-bulk-weekly-7th-october-2026-28.md](2026/2026-10-07_fearnleys-dry-bulk-weekly-7th-october-2026-28.md) | [PDF](pdfs/2026/2026-10-07_fearnleys-dry-bulk-weekly-7th-october-2026-28.pdf) |
 | 2026-10-05 | LNG | FSRU Quarterly - Q3/26 | 7 | [2026/2026-10-05_lng-fsru-quarterly-q326.md](2026/2026-10-05_lng-fsru-quarterly-q326.md) | [PDF](pdfs/2026/2026-10-05_lng-fsru-quarterly-q326.pdf) |
