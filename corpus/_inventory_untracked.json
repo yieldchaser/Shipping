@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2950,
-      "untracked_bytes": 2297444392
+      "untracked_files": 2956,
+      "untracked_bytes": 2300156401
     },
     {
       "path": "corpus/02-hellenic",
@@ -47,6 +47,21 @@
     }
   ],
   "entries": [
+    {
+      "path": "corpus/01-brokers/_digests/banchero_costa/2026/banchero_costa_28_10_2026_banchero_costa_weekly_market_report_week_43_2026.md",
+      "bytes": 55375,
+      "sha256": "7b539a2b644b279784fe61bee727a6c36fe02a92803cff07f1c6116aea551340"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.md",
+      "bytes": 11485,
+      "sha256": "fdf1fe11026f7860d701701b11e556d9916007782c450efa39ee83dbadbd30c7"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/intermodal/2026/intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.md",
+      "bytes": 24067,
+      "sha256": "80eb217d682176bcd701b5db0976aa13cba9ce1d8d4c17b0ce72db305c5bb3af"
+    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -4928,6 +4943,11 @@
       "sha256": "9a74ca876decbce3ddf24b3c93750fcce021120acf744cee31cb6c40ec30fcf0"
     },
     {
+      "path": "corpus/01-brokers/banchero_costa/2026/banchero_costa_28_10_2026_banchero_costa_weekly_market_report_week_43_2026.pdf",
+      "bytes": 997905,
+      "sha256": "9e9157ab5e38350e64568120e4200fa6660de1e15e69ed719fef335afca4019f"
+    },
+    {
       "path": "corpus/01-brokers/banchero_costa/2026/bancosta_30_09_2026_banchero_costa_weekly_market_report_week_39_2026.pdf",
       "bytes": 993374,
       "sha256": "0dbbac20e4046b218997739ca53aab2378103d23210e2626f5042fe7f1501fd9"
@@ -6983,6 +7003,11 @@
       "sha256": "24614954d9ec6b5e92654319bd404e9d99c74145e15555bdf1b76d301a2f8dac"
     },
     {
+      "path": "corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf",
+      "bytes": 445488,
+      "sha256": "4fd4a92b6c7c03c282a3bebad2cf2308da1c584f6bb4071b913a2961737d5128"
+    },
+    {
       "path": "corpus/01-brokers/fearnleys/voice/aframax/2026/2026-10-07_aframax_24aedf3f.md",
       "bytes": 1424,
       "sha256": "e621e3e03085ad71949a72a88ac71258d04a120ef6365d1d2ebc9cca85f341a7"
@@ -8971,6 +8996,11 @@
       "path": "corpus/01-brokers/intermodal/2026/intermodal_23_09_2026_intermodal_weekly_market_report_week_38_2026_broker_s_insi.pdf",
       "bytes": 1165846,
       "sha256": "e3842d0293c58098ef9a5ef5ecf03bb746acee0e6f9bd8adf32c69ff83566aec"
+    },
+    {
+      "path": "corpus/01-brokers/intermodal/2026/intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf",
+      "bytes": 1177689,
+      "sha256": "7553301338fc9ede413764699f3ee3df6adc3591873dd0bca0906d421ffb6233"
     },
     {
       "path": "corpus/01-brokers/intermodal/2026/intermodal_30_09_2026_intermodal_weekly_market_report_week_39_2026_broker_s_insi.pdf",

@@ -5154,3 +5154,24 @@ issue_date,report_week,record_type,sector,vessel_type,size,price_current_usd_m,p
 2026-10-20,42,reported_order,,Gas Carrier,"174,000 cbm",,,,5,"Hudong Zhonghua, China",2030,Malaysian (MISC),undisclosed,LNG,intermodal_21_10_2026_intermodal_weekly_market_report_week_42_2026_broker_s_insi.pdf
 2026-10-20,42,reported_order,,Gas Carrier,"93,000 cbm",116.7,,,4,"HD Hyundai HI, S. Korea",2030,Turkish (BGN International),$ 116.7m,LPG,intermodal_21_10_2026_intermodal_weekly_market_report_week_42_2026_broker_s_insi.pdf
 2026-10-20,42,reported_order,,Offshore,84 loa,,,,2+4,"Fujian Mawei Shipyard, China",2028,UK based (UVO),undisclosed,PSV,intermodal_21_10_2026_intermodal_weekly_market_report_week_42_2026_broker_s_insi.pdf
+2026-10-27,43,indicative_price,Bulkers,Newcastlemax,205k,80.0,80.0,0.0%,,,,,$80.0m,,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,indicative_price,Bulkers,Capesize,180k,76.5,76.5,0.0%,,,,,$76.5m,,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,indicative_price,Bulkers,Kamsarmax,82k,38.5,38.5,0.0%,,,,,$38.5m,,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,indicative_price,Bulkers,Ultramax,63k,36.0,36.0,0.0%,,,,,$36.0m,,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,indicative_price,Bulkers,Handysize,38k,31.0,31.0,0.0%,,,,,$31.0m,,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,indicative_price,Tankers,VLCC,300k,131.5,131.5,0.0%,,,,,$131.5m,,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,indicative_price,Tankers,Suezmax,160k,90.5,90.5,0.0%,,,,,$90.5m,,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,indicative_price,Tankers,Aframax,115k,79.5,79.5,0.0%,,,,,$79.5m,,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,indicative_price,Tankers,MR,50k,52.5,52.5,0.0%,,,,,$52.5m,,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,indicative_price,Gas,LNG 174k cbm,,245.0,245.5,-0.2%,,,,,$245.0m,,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,indicative_price,Gas,MGC LPG 55k cbm,,85.5,85.5,0.0%,,,,,$85.5m,,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,indicative_price,Gas,SGC LPG 25k cbm,,61.5,61.5,0.0%,,,,,$61.5m,,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,reported_order,,Bulker,"212,000 dwt",78.0,,,4,"Zhoushan Changhong, China",2030,Greek (Lavinia),$ 78.0m,,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,reported_order,,Tanker,"320,000 dwt",150.3,,,3,"IMI, Saudi Arabia",2029-2030,Saudi Arabian (Bahri),$ 150.3m,,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,reported_order,,Tanker,"50,000 dwt",,,,2,"Guangzhou Shipyard International, China",2029,Monaco-based (Transocean),undisclosed,,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,reported_order,,Containership,"13,400 teu",180.1,,,8,"HD Hyundai, S. Korea",2029,S. Korean (HMM),$ 180.1m,LNG dual fuel,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,reported_order,,Containership,"9,200 teu",109.0,,,2,"Hudong Zhonghua, China",2029,Greek (Danaos),$ 109.0m,"LNG/methanol ready, against T/C to Zim",intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,reported_order,,VLAC,"88,000 cbm",115.0,,,2,"Hengli Heavy Industries, China",2029,Greek (Alpha Gas),$ 115.0m,,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,reported_order,,PCTC,"8,600 ceu",100.0,,,2,"Zhoushan Changhong, China",2030,Swiss (Global Car Carriers),$ 100.0m,LNG dual fuel,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,reported_order,,General Cargo,"6,600 dwt",,,,1,"Jiangsu Dajin HI, China",2029,UK Based (Carisbrooke Shipping),undisclosed,,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,reported_order,,Offshore,144 loa,,,,2+2,"Fujian Mawei Shipbuilding, China",2029-2030,Norwegian (Siem Industries),undisclosed,400-tonne cranes,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf

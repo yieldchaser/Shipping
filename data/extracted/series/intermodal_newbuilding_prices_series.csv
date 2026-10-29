@@ -3224,3 +3224,15 @@ issue_date,report_week,sector,vessel_type,size,price_current_usd_m,price_previou
 2026-10-20,42,Gas,LNG 174k cbm,,245.5,246.0,-0.2%,intermodal_21_10_2026_intermodal_weekly_market_report_week_42_2026_broker_s_insi.pdf
 2026-10-20,42,Gas,MGC LPG 55k cbm,,85.5,85.5,0.0%,intermodal_21_10_2026_intermodal_weekly_market_report_week_42_2026_broker_s_insi.pdf
 2026-10-20,42,Gas,SGC LPG 25k cbm,,61.5,61.5,0.0%,intermodal_21_10_2026_intermodal_weekly_market_report_week_42_2026_broker_s_insi.pdf
+2026-10-27,43,Bulkers,Newcastlemax,205k,80.0,80.0,0.0%,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,Bulkers,Capesize,180k,76.5,76.5,0.0%,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,Bulkers,Kamsarmax,82k,38.5,38.5,0.0%,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,Bulkers,Ultramax,63k,36.0,36.0,0.0%,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,Bulkers,Handysize,38k,31.0,31.0,0.0%,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,Tankers,VLCC,300k,131.5,131.5,0.0%,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,Tankers,Suezmax,160k,90.5,90.5,0.0%,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,Tankers,Aframax,115k,79.5,79.5,0.0%,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,Tankers,MR,50k,52.5,52.5,0.0%,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,Gas,LNG 174k cbm,,245.0,245.5,-0.2%,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,Gas,MGC LPG 55k cbm,,85.5,85.5,0.0%,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,Gas,SGC LPG 25k cbm,,61.5,61.5,0.0%,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf

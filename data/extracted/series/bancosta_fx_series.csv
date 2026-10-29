@@ -339,3 +339,7 @@ issue_date,report_week,currency_pair,rate_current,rate_previous,pct_change_wow,p
 2026-10-12,42,JPY/USD,157.99,158.31,-0.2%,+4.5%,corpus/01-brokers/banchero_costa/2026/banchero_costa_21_10_2026_banchero_costa_weekly_market_report_week_42_2026.pdf
 2026-10-12,42,KRW/USD,1334.0,1340.0,-0.5%,-6.6%,corpus/01-brokers/banchero_costa/2026/banchero_costa_21_10_2026_banchero_costa_weekly_market_report_week_42_2026.pdf
 2026-10-12,42,CNY/USD,6.69,6.69,-0.1%,-6.3%,corpus/01-brokers/banchero_costa/2026/banchero_costa_21_10_2026_banchero_costa_weekly_market_report_week_42_2026.pdf
+2026-10-19,43,USD/EUR,1.12,1.12,-0.3%,-3.9%,corpus/01-brokers/banchero_costa/2026/banchero_costa_28_10_2026_banchero_costa_weekly_market_report_week_43_2026.pdf
+2026-10-19,43,JPY/USD,156.86,157.99,-0.7%,+4.1%,corpus/01-brokers/banchero_costa/2026/banchero_costa_28_10_2026_banchero_costa_weekly_market_report_week_43_2026.pdf
+2026-10-19,43,KRW/USD,1324.0,1334.0,-0.8%,-6.9%,corpus/01-brokers/banchero_costa/2026/banchero_costa_28_10_2026_banchero_costa_weekly_market_report_week_43_2026.pdf
+2026-10-19,43,CNY/USD,6.67,6.69,-0.2%,-6.4%,corpus/01-brokers/banchero_costa/2026/banchero_costa_28_10_2026_banchero_costa_weekly_market_report_week_43_2026.pdf

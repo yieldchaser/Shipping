@@ -17192,3 +17192,38 @@ issue_date,report_week,page,chapter,section,label,value,size,change,source_file
 2026-10-22,43,18,06 Market Brief,Commodity Prices,Brent Spot,83.97,Spot,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_22_10_2026_fearnleys_week_43_2026.pdf
 2026-10-22,43,18,06 Market Brief,Bunker Prices,380 CST,458.0,Fuel Oil,-1.0,corpus/01-brokers/fearnleys/2026/fearnleys_22_10_2026_fearnleys_week_43_2026.pdf
 2026-10-22,43,18,06 Market Brief,Bunker Prices,MGO,902.0,Gasoil,-1.0,corpus/01-brokers/fearnleys/2026/fearnleys_22_10_2026_fearnleys_week_43_2026.pdf
+2026-10-29,44,3,01 Tankers,Dirty Spot,MEG/WEST,725.0,280',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,3,01 Tankers,Dirty Spot,MEG/Japan,1250.0,280',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,3,01 Tankers,Dirty Spot,MEG/Singapore,1275.0,280',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,3,01 Tankers,Dirty Spot,WAF/FEAST,600.0,260',-15.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,3,01 Tankers,Dirty Spot,WAF/USAC,710.0,130',-75.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,3,01 Tankers,Dirty Spot,Sidi Kerir/W Med,850.0,135',-100.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,3,01 Tankers,Dirty Spot,N. Afr/Euromed,790.0,80',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,3,01 Tankers,Dirty Spot,UK/Cont,80.0,80',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,4,01 Tankers,Dirty Spot,Caribs/USG,730.0,70',1.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,4,01 Tankers,Period & Availability,1 Year T/C - ECO / SCRUBBER,220000.0,Modern,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,4,01 Tankers,Period & Availability,Fixed in all areas last week,72.0,-,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,7,02 Dry Bulk,Dry Spot,TCE Cont/Far East,64611.0,Capesize,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,7,02 Dry Bulk,Dry Spot,Australia/China,14.5,Capesize,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,7,02 Dry Bulk,Dry Spot,Pacific RV,38300.0,Capesize,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,7,02 Dry Bulk,Dry Spot,Transatlantic RV,15845.0,Panamax,-798.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,8,02 Dry Bulk,Dry Spot,TCE Far East RV,20232.0,Panamax,-462.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,8,02 Dry Bulk,Dry Spot,US Gulf - China/South Japan,29769.0,Supramax,-256.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,8,02 Dry Bulk,Dry Spot,South China - Indonesia RV,18131.0,Supramax,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,9,02 Dry Bulk,Dry Spot,Baltic Dry Index (BDI),2652.0,Index,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,11,03 Gas,LPG Spot,VLGC,6050000.0,84',-100000.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,11,03 Gas,LPG Spot,LGC,3800000.0,60',0.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,11,03 Gas,LPG Spot,MGC,2200000.0,38',-100000.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,12,03 Gas,LPG Spot,COASTER Europe,450000.0,3 500-5 000 cbm,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,12,03 Gas,LPG FOB,FOB North Sea/Ansi,664.5,Propane/Butane,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,12,03 Gas,LPG FOB,Saudi Arabia/CP,680.0,Propane/Butane,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,12,03 Gas,LPG FOB,MT Belvieu,617.38,Propane/Butane,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,13,03 Gas,LPG FOB,Sonatrach/Bethioua,750.0,Propane/Butane,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,17,06 Market Brief,Exchange Rates,USD/JPY,157.96,FX,-0.03,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,17,06 Market Brief,Exchange Rates,USD/NOK,9.29,FX,-0.03,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,18,06 Market Brief,Exchange Rates,USD/KRW,1235.5,FX,-7.3,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,18,06 Market Brief,Exchange Rates,EUR/USD,1.11,FX,-7.3,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,18,06 Market Brief,Interest Rates,SOFR USD,3.65,Rate,-0.01,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,18,06 Market Brief,Commodity Prices,Brent Spot,83.97,Spot,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,18,06 Market Brief,Bunker Prices,380 CST,458.0,Fuel Oil,-1.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf
+2026-10-29,44,19,06 Market Brief,Bunker Prices,MGO,902.0,Gasoil,0.0,corpus/01-brokers/fearnleys/2026/fearnleys_29_10_2026_fearnleys_week_44_2026.pdf

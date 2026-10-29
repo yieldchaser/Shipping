@@ -1929,3 +1929,12 @@ issue_date,report_week,sector,vessel_type,units,size,yard,delivery,buyer,price_r
 2026-10-20,42,,Gas Carrier,5,"174,000 cbm","Hudong Zhonghua, China",2030,Malaysian (MISC),undisclosed,LNG,intermodal_21_10_2026_intermodal_weekly_market_report_week_42_2026_broker_s_insi.pdf
 2026-10-20,42,,Gas Carrier,4,"93,000 cbm","HD Hyundai HI, S. Korea",2030,Turkish (BGN International),$ 116.7m,LPG,intermodal_21_10_2026_intermodal_weekly_market_report_week_42_2026_broker_s_insi.pdf
 2026-10-20,42,,Offshore,2+4,84 loa,"Fujian Mawei Shipyard, China",2028,UK based (UVO),undisclosed,PSV,intermodal_21_10_2026_intermodal_weekly_market_report_week_42_2026_broker_s_insi.pdf
+2026-10-27,43,,Bulker,4,"212,000 dwt","Zhoushan Changhong, China",2030,Greek (Lavinia),$ 78.0m,,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,,Tanker,3,"320,000 dwt","IMI, Saudi Arabia",2029-2030,Saudi Arabian (Bahri),$ 150.3m,,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,,Tanker,2,"50,000 dwt","Guangzhou Shipyard International, China",2029,Monaco-based (Transocean),undisclosed,,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,,Containership,8,"13,400 teu","HD Hyundai, S. Korea",2029,S. Korean (HMM),$ 180.1m,LNG dual fuel,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,,Containership,2,"9,200 teu","Hudong Zhonghua, China",2029,Greek (Danaos),$ 109.0m,"LNG/methanol ready, against T/C to Zim",intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,,VLAC,2,"88,000 cbm","Hengli Heavy Industries, China",2029,Greek (Alpha Gas),$ 115.0m,,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,,PCTC,2,"8,600 ceu","Zhoushan Changhong, China",2030,Swiss (Global Car Carriers),$ 100.0m,LNG dual fuel,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,,General Cargo,1,"6,600 dwt","Jiangsu Dajin HI, China",2029,UK Based (Carisbrooke Shipping),undisclosed,,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
+2026-10-27,43,,Offshore,2+2,144 loa,"Fujian Mawei Shipbuilding, China",2029-2030,Norwegian (Siem Industries),undisclosed,400-tonne cranes,intermodal_28_10_2026_intermodal_weekly_market_report_week_43_2026_broker_s_insi.pdf
