@@ -5,9 +5,9 @@ categories:
 - tanker_charter
 - tankers
 - vessel_valuations
-document_count: 103
+document_count: 104
 evidence_count: 250
-generated_at: '2026-10-28T16:34:44Z'
+generated_at: '2026-10-29T16:03:34Z'
 latest_evidence_date: '2026-10-28'
 page_type: topic_wiki
 related_topics:
@@ -23,7 +23,7 @@ topic_id: vlcc_and_suezmax
 ---
 
 ## Summary
-Benchmark crude tanker classes and routes, with emphasis on MEG-Asia and West Africa-Europe dynamics, vessel supply, and route-specific rate pressure. The current wiki page is grounded in 250 cited sections from 103 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-10-28, with the strongest recurring markers being meg, suezmax, vlcc, aframax, china. Primary coverage comes from categories such as insights, tanker, tanker_charter, tankers, vessel_valuations.
+Benchmark crude tanker classes and routes, with emphasis on MEG-Asia and West Africa-Europe dynamics, vessel supply, and route-specific rate pressure. The current wiki page is grounded in 250 cited sections from 104 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-10-28, with the strongest recurring markers being meg, suezmax, vlcc, aframax, china. Primary coverage comes from categories such as insights, tanker, tanker_charter, tankers, vessel_valuations.
 
 ## Why It Matters
 Benchmark crude tanker classes and routes, with emphasis on MEG-Asia and West Africa-Europe dynamics, vessel supply, and route-specific rate pressure.
@@ -44,20 +44,20 @@ Benchmark crude tanker classes and routes, with emphasis on MEG-Asia and West Af
 - Recurring evidence markers: meg, suezmax, vlcc, aframax, china, crude_oil
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 170, baltic: 56, hellenic: 14, breakwave: 10
-- Category coverage: insights: 170, tanker: 56, tankers: 10, tanker_charter: 7, vessel_valuations: 7
-- Tone distribution: constructive: 152, neutral: 57, cautiously_bearish: 41
+- Source coverage: breakwave_insights: 169, baltic: 56, hellenic: 15, breakwave: 10
+- Category coverage: insights: 169, tanker: 56, tankers: 10, tanker_charter: 8, vessel_valuations: 7
+- Tone distribution: constructive: 151, neutral: 58, cautiously_bearish: 41
 - Related topics: tanker_market, oil_and_opec
 
 ## Key Documents
 - 2026-10-28 | Is an Atlantic Basin crude glut on the cards? [doc_id: breakwave_insights_insights_2026-10-28_2026_10_28_is_an_atlantic_basin_crude_glut_on_the_cards | section_id: breakwave_insights_insights_2026-10-28_2026_10_28_is_an_atlantic_basin_crude_glut_on_the_cards__s06_freight_correction_could_ease_pressure_on_differentials | pages n/a]
 - 2026-10-28 | Russian Diesel Returns: A New Atlantic Trade Dynamic [doc_id: breakwave_insights_insights_2026-10-28_2026_10_28_russian_diesel_returns_a_new_atlantic_trade_dynamic | section_id: breakwave_insights_insights_2026-10-28_2026_10_28_russian_diesel_returns_a_new_atlantic_trade_dynamic__s01_main | pages n/a]
+- 2026-10-28 | Weekly Tanker Time Charter Estimates, October 28 2026 [doc_id: hellenic_tanker_charter_2026-10-28_2026_10_28_weekly_tanker_time_charter_estimates_october_28_2026 | section_id: hellenic_tanker_charter_2026-10-28_2026_10_28_weekly_tanker_time_charter_estimates_october_28_2026__s02_linked_asset_2026_10_28_weekly_tanker_time_charter_estimates_october_28_2026_28102026tanker_430bdf01053a_jpg | pages n/a]
 - 2026-10-27 | Breakwave Bi-Weekly Dry Bulk Report - October 27, 2026 [doc_id: breakwave_insights_insights_2026-10-27_2026_10_27_10272026db_reportj47_0o | section_id: breakwave_insights_insights_2026-10-27_2026_10_27_10272026db_reportj47_0o__s01_main | pages n/a]
 - 2026-10-26 | Diesel, Drones and Donald [doc_id: breakwave_insights_insights_2026-10-26_2026_10_26_diesel_drones_and_donald | section_id: breakwave_insights_insights_2026-10-26_2026_10_26_diesel_drones_and_donald__s01_main | pages n/a]
 - 2026-10-26 | China's economic trajectory [doc_id: breakwave_insights_insights_2026-10-26_2026_10_26_chinas_economic_trajectory | section_id: breakwave_insights_insights_2026-10-26_2026_10_26_chinas_economic_trajectory__s01_main | pages n/a]
 - 2026-10-23 | Tanker report - Week 43 [doc_id: baltic_tanker_2026-10-23_2026_10_23_w43_tanker_report_week_43_tanker | section_id: baltic_tanker_2026-10-23_2026_10_23_w43_tanker_report_week_43_tanker__s02_vlcc | pages n/a]
 - 2026-10-23 | VLCC Spot Rates: Softer, but far from soft [doc_id: breakwave_insights_insights_2026-10-23_2026_10_23_vlcc_spot_rates_softer_but_far_from_soft | section_id: breakwave_insights_insights_2026-10-23_2026_10_23_vlcc_spot_rates_softer_but_far_from_soft__s01_main | pages n/a]
-- 2026-10-23 | Softening risk appetite weighs on market [doc_id: breakwave_insights_insights_2026-10-23_2026_10_23_softening_risk_appetite_weighs_on_market | section_id: breakwave_insights_insights_2026-10-23_2026_10_23_softening_risk_appetite_weighs_on_market__s02_market_commentary | pages n/a]
 
 ## Related Topics
 - tanker_market
