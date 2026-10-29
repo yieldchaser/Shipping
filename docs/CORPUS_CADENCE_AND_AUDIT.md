@@ -46,7 +46,7 @@
 | **Xclusiv Shipbrokers** | Weekly (Monday) | `2026-10-27` | `2026-10-26` | **CURRENT (2d)** | 277 PDF | 267 | 100.0% | 0 / 0 | [`data/extracted/md/xclusiv`](../data/extracted/md/xclusiv) | Yes (Pages 2-3 freight curves, Pages 8-9 bunker spreads) | `xclusiv_secondhand_series.csv (8,657 rows)` |
 | **Hellenic: Demolition Market** | Weekly (Saturday/Sunday) | `2026-10-27` | `2026-10-25` | **CURRENT (2d)** | 1,955 PDF, 819 HTML, 1,214 IMG | 757 | 0.0% | 0 / 0 | [`data/extracted/md/hellenic/demolition`](../data/extracted/md/hellenic/demolition) | Yes (Port position queue charts, cash buyer price matrices) | `athenian_indicative_demolition_series.csv (3,088 rows)` |
 | **Hellenic: Dry Bulk Charter (Alibra)** | Weekly (Wednesday) | `2026-10-28` | `2026-10-28` | **CURRENT (1d)** | 283 HTML, 766 IMG | 269 | 0.0% | 0 / 0 | [`data/extracted/md/hellenic/dry_charter`](../data/extracted/md/hellenic/dry_charter) | Yes (Alibra rate fixture comparison graphics) | `hellenic_alibra_dry_tc_series.csv (6,611 rows)` |
-| **Hellenic: Iron Ore (MMI & SMM Daily)** | Daily (Mon-Fri) | `2026-10-29` | `2026-10-29` | **CURRENT (0d)** | 3,559 PDF | 1,199 | 2.4% | 0 / 0 | [`data/extracted/md/hellenic/iron_ore_pdf`](../data/extracted/md/hellenic/iron_ore_pdf) | Yes (4 SMM driver vector charts + MMi inventory/margin curves) | `hellenic_iron_ore_pdf_brands_series.csv (32,562 rows)` |
+| **Hellenic: Iron Ore (MMI & SMM Daily)** | Daily (Mon-Fri) | `2026-10-29` | `2026-10-29` | **CURRENT (0d)** | 3,559 PDF | 1,199 | 0.0% | 0 / 0 | [`data/extracted/md/hellenic/iron_ore_pdf`](../data/extracted/md/hellenic/iron_ore_pdf) | Yes (4 SMM driver vector charts + MMi inventory/margin curves) | `hellenic_iron_ore_pdf_brands_series.csv (32,562 rows)` |
 | **Hellenic: Shipbuilding & Contracting** | Weekly (Friday) | `2026-07-31` | `2026-07-31` | **SUPERSEDED (new issues arrive via corpus/01-brokers/clarksons (since 2026-08; last issue on this channel 2026-07-31))** | 1,041 PDF, 382 HTML, 180 IMG | 170 | 100.0% | 0 / 0 | [`data/extracted/md/clarksons`](../data/extracted/md/clarksons) | No (Shipyard contracting and orderbook tables) | `clarksons_snp_sales_series.csv (1,329 rows)` |
 | **Hellenic: Tanker Time Charter (Alibra)** | Weekly (Wednesday) | `2026-10-28` | `2026-10-28` | **CURRENT (1d)** | 283 HTML, 764 IMG | 269 | 0.0% | 0 / 0 | [`data/extracted/md/hellenic/tanker_charter`](../data/extracted/md/hellenic/tanker_charter) | Yes (Crude & clean period earnings comparison graphics) | `hellenic_alibra_tanker_tc_series.csv (7,532 rows)` |
 | **Hellenic: VesselsValue Valuations** | Weekly (Tuesday) | `2026-10-27` | `2026-10-27` | **CURRENT (2d)** | 279 HTML, 737 IMG | 259 | 0.0% | 0 / 0 | [`data/extracted/md/hellenic/vessel_valuations`](../data/extracted/md/hellenic/vessel_valuations) | Yes (VesselsValue fleet valuation index graphs) | `hellenic_vv_matrix_series.csv (20,024 rows)` |
@@ -440,7 +440,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/hellenic/demolition`](../data/extracted/md/hellenic/demolition)
 - **Publication Cadence:** Weekly (Saturday/Sunday) (Expected day: Saturday)
 - **Coverage Span:** `2021-07-02` to `2026-10-27`
-- **Latest Ingested Document:** `2026-10-27_athenian-shipbrokers-s-a-demolition-quick-update-week-43-2026.html` (Status: **CURRENT (2d)**)
+- **Latest Ingested Document:** `2026-10-27_athenian-shipbrokers-s-a-demolition-quick-update-week-43-2026_week-43-athenian-demolition-report-2_ddf0b242510d.pdf` (Status: **CURRENT (2d)**)
 - **Sample Ingested Report (Corpus):** [`2026-10-27_athenian-shipbrokers-s-a-demolition-quick-update-week-43-2026.html`](../corpus/02-hellenic/demolition/2026/2026-10-27_athenian-shipbrokers-s-a-demolition-quick-update-week-43-2026.html)
 - **Sample Extracted Markdown (Digest):** [`gms_2026-10-23_week-43_freight-refuses-to-stay-down.md`](../data/extracted/md/hellenic/demolition/gms/2026/gms_2026-10-23_week-43_freight-refuses-to-stay-down.md)
 - **Raw Corpus Inventory:** 1,955 PDFs, 819 HTML files, 1,214 Images
@@ -476,7 +476,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Sample Ingested Report (Corpus):** [`2026-10-29_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-29th-October-2026.pdf`](../corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-29_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-29th-October-2026.pdf)
 - **Sample Extracted Markdown (Digest):** [`2026-10-29_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-29th-October-2026.md`](../data/extracted/md/hellenic/iron_ore_pdf/2026/2026-10-29_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-29th-October-2026.md)
 - **Raw Corpus Inventory:** 3,559 PDFs
-- **Extracted Markdown Dossiers:** 1,199 Markdown files + 29 .tables.json sidecars
+- **Extracted Markdown Dossiers:** 1,199 Markdown files
 - **Chart Extraction:** Yes (4 SMM driver vector charts + MMi inventory/margin curves)
 - **Chart Engine / Technique:** PyMuPDF 2D spatial coordinate parser + SMM vector chart clipper
 - **Stacked Series CSVs:** [`hellenic_iron_ore_pdf_brands_series.csv`](../data/extracted/series/hellenic_iron_ore_pdf_brands_series.csv) (32,562 rows)
@@ -536,7 +536,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/breakwave`](../data/extracted/md/breakwave)
 - **Publication Cadence:** Weekly (Tuesday) & Daily Insights (Expected day: Tuesday / Daily)
 - **Coverage Span:** `2018-07-03` to `2026-10-29`
-- **Latest Ingested Document:** `2026-10-29_dry-bulks-hydropower-amp-coal-mining-saviors-in-china.html` (Status: **CURRENT (0d)**)
+- **Latest Ingested Document:** `2026-10-29_uschina-commodity-trade-and-the-atlantic-freight-outlook.html` (Status: **CURRENT (0d)**)
 - **Sample Ingested Report (Corpus):** [`2026-10-20_Breakwave_Tankers.pdf`](../corpus/03-breakwave/tankers/2026/2026-10-20_Breakwave_Tankers.pdf)
 - **Sample Extracted Markdown (Digest):** [`2026-10-20_Breakwave_Tankers.md`](../data/extracted/md/breakwave/tankers/2026/2026-10-20_Breakwave_Tankers.md)
 - **Raw Corpus Inventory:** 308 PDFs, 3,271 HTML files, 15,153 Images, 3,242 Native Markdown files
