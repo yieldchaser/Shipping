@@ -7,7 +7,7 @@
 
 ## 1. Executive Summary
 
-- **Raw corpus:** 58,299 files across 32 sources: 12,065 PDF, 9,067 HTML, 23,266 images, 13,467 native MD.
+- **Raw corpus:** 58,313 files across 32 sources: 12,066 PDF, 9,067 HTML, 23,277 images, 13,469 native MD.
 - **Parsed Markdown:** 20,590 MDs.
   - Broker reports: 8,043 MDs from 16 brokers.
   - SEC filings: 1,339 MDs.
@@ -35,8 +35,8 @@
 | **Carriers Chartering (General Broker)** | Weekly (Monday) | `2026-10-12` | `2026-10-26` | **CURRENT (3d)** | 142 PDF | 136 | 100.0% | 0 / 0 | [`data/extracted/md/carriers`](../data/extracted/md/carriers) | No (Tabular S&P and Baltic BSPA/BDA indices) | `carriers_sales_series.csv (3,192 rows)` |
 | **Clarksons / Clarksons Hellas** | Weekly (Friday) | `2026-10-23` | `2026-10-23` | **CURRENT (6d)** | 16 PDF | 12 | 100.0% | 0 / 0 | [`data/extracted/md/clarksons`](../data/extracted/md/clarksons) | No (Bulker & Tanker reported sales transaction tables) | `clarksons_sales_series.csv (1,388 rows)` |
 | **Fearnleys Weekly** | Weekly (Wednesday/Thursday) | `2026-10-29` | `2026-10-29` | **CURRENT (0d)** | 269 PDF | 264 | 100.0% | 0 / 0 | [`data/extracted/md/fearnleys`](../data/extracted/md/fearnleys) | Yes (Tanker spot WS, Dry bulk BDI & TC, LPG/LNG) | `fearnleys_rates_series.csv (17,228 rows)` |
-| **Fearnleys Broker Voice (Hasura Desk Feeds)** | Weekly (Wednesday-Friday) | `n/a` | `2026-10-28` | **CURRENT (1d)** | 4,781 MD | 4,792 | 0.0% | 41 / 0 | [`data/extracted/md/fearnleys/voice`](../data/extracted/md/fearnleys/voice) | No (Dense narrative intelligence across 35 desks & routes) | `fearnleys_broker_comments.csv (11,759 comments), corpus/01-brokers/fearnleys/voice/ (4,748 files), data/extracted/md/fearnleys/voice/ (4,765 comment files)` |
-| **Fearnleys-MD (Econometric Research)** | Monthly / Bespoke (Bi-weekly) | `2026-10-30` | `2026-10-30` | **CURRENT (0d)** | 186 PDF, 2,893 IMG, 189 MD | 189 | 100.0% | 2 / 0 | [`data/extracted/md/fearnleys-md`](../data/extracted/md/fearnleys-md) | No (raster PNG charts carry no data; chart titles and printed tables only) | `fearnleys-md .tables.json sidecars (56 exact API tables, 14 printed Cape composite-model tables, chart titles); earlier chart-calibrated series deleted` |
+| **Fearnleys Broker Voice (Hasura Desk Feeds)** | Weekly (Wednesday-Friday) | `n/a` | `2026-10-28` | **CURRENT (1d)** | 4,782 MD | 4,792 | 0.0% | 41 / 0 | [`data/extracted/md/fearnleys/voice`](../data/extracted/md/fearnleys/voice) | No (Dense narrative intelligence across 35 desks & routes) | `fearnleys_broker_comments.csv (11,759 comments), corpus/01-brokers/fearnleys/voice/ (4,748 files), data/extracted/md/fearnleys/voice/ (4,765 comment files)` |
+| **Fearnleys-MD (Econometric Research)** | Monthly / Bespoke (Bi-weekly) | `2026-10-30` | `2026-10-30` | **CURRENT (0d)** | 187 PDF, 2,904 IMG, 190 MD | 189 | 100.0% | 2 / 0 | [`data/extracted/md/fearnleys-md`](../data/extracted/md/fearnleys-md) | No (raster PNG charts carry no data; chart titles and printed tables only) | `fearnleys-md .tables.json sidecars (56 exact API tables, 14 printed Cape composite-model tables, chart titles); earlier chart-calibrated series deleted` |
 | **Gibson Shipbrokers** | Weekly (Friday) | `2026-10-23` | `2026-10-23` | **CURRENT (6d)** | 109 PDF, 167 HTML | 264 | 100.0% | 0 / 0 | [`data/extracted/md/gibson`](../data/extracted/md/gibson) | Yes (wpDataCharts daily vector curves for all 155 HTML reports in .charts.json) | `gibson_tanker_spot_series.csv (3,626 rows)` |
 | **Intermodal Shipbrokers** | Weekly (Tuesday) | `2026-10-28` | `2026-10-27` | **CURRENT (1d)** | 263 PDF | 259 | 100.0% | 0 / 0 | [`data/extracted/md/intermodal`](../data/extracted/md/intermodal) | Yes (Baltic & Time Charter vector curves, Page 3) | `intermodal_tc_rates_series.csv (5,313 rows)` |
 | **ISM Coasters & Mini-Bulkers** | Weekly (Monday) | `2026-10-12` | `2026-10-12` | **DUE (17d, cadence weekly)** | 117 PDF | 113 | 0.0% | 0 / 0 | [`data/extracted/md/ism`](../data/extracted/md/ism) | Yes (4 weekly freight indicator vector charts) | `ism_handy_freight_series.csv (17,851 rows)` |
@@ -297,9 +297,9 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Publication Cadence:** Weekly (Wednesday-Friday) (Expected day: Friday)
 - **Coverage Span:** `2018-09-16` to `2026-10-28`
 - **Latest Ingested Document:** `2026-10-28_chartering_cbe94098.md` (Status: **CURRENT (1d)**)
-- **Sample Ingested Report (Corpus):** [`2026-09-30_vlcc_weekly_comment.md`](../corpus/01-brokers/fearnleys/voice/vlcc/2026/2026-09-30_vlcc_weekly_comment.md)
+- **Sample Ingested Report (Corpus):** [`2026-10-28_vlcc_20db6957.md`](../corpus/01-brokers/fearnleys/voice/vlcc/2026/2026-10-28_vlcc_20db6957.md)
 - **Sample Extracted Markdown (Digest):** N/A
-- **Raw Corpus Inventory:** 4,781 Native Markdown files
+- **Raw Corpus Inventory:** 4,782 Native Markdown files
 - **Extracted Markdown Dossiers:** 4,792 Markdown files
 - **Chart Extraction:** No (Dense narrative intelligence across 35 desks & routes)
 - **Chart Engine / Technique:** Direct Hasura GraphQL feed parser with clean Markdown reformatting
@@ -315,7 +315,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Latest Ingested Document:** `2026-10-30_vlgc-report-q3-2026.pdf` (Status: **CURRENT (0d)**)
 - **Sample Ingested Report (Corpus):** [`2026-10-30_vlgc-report-q3-2026.md`](../corpus/01-brokers/fearnleys-md/2026/2026-10-30_vlgc-report-q3-2026.md)
 - **Sample Extracted Markdown (Digest):** [`2026-10-30_vlgc-report-q3-2026.md`](../data/extracted/md/fearnleys-md/2026/2026-10-30_vlgc-report-q3-2026.md)
-- **Raw Corpus Inventory:** 186 PDFs, 2,893 Images, 189 Native Markdown files
+- **Raw Corpus Inventory:** 187 PDFs, 2,904 Images, 190 Native Markdown files
 - **Extracted Markdown Dossiers:** 189 Markdown files + 189 .tables.json sidecars
 - **Chart Extraction:** No (raster PNG charts carry no data; chart titles and printed tables only)
 - **Chart Engine / Technique:** API content-block renderer (fearnleys_md_rebuild.py); chart values are not read
@@ -392,7 +392,7 @@ This table tracks sectors where the pipeline inspects and extracts numerical dat
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/extracted/md/ssy`](../data/extracted/md/ssy)
 - **Publication Cadence:** Weekly (Monday) (Expected day: Monday)
 - **Coverage Span:** `2021-07-05` to `2026-10-26`
-- **Latest Ingested Document:** `ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.pdf` (Status: **CURRENT (3d)**)
+- **Latest Ingested Document:** `ssy_26_10_2026_ssy_atlantic_capesize_index_26_october_2026.pdf` (Status: **CURRENT (3d)**)
 - **Sample Ingested Report (Corpus):** [`ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.pdf`](../corpus/01-brokers/ssy/2026/ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.pdf)
 - **Sample Extracted Markdown (Digest):** [`ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.md`](../data/extracted/md/ssy/2026/ssy_26_10_2026_ssy_pacific_capesize_index_26_october_2026.md)
 - **Raw Corpus Inventory:** 542 PDFs
@@ -671,7 +671,7 @@ Drewry AIS reports are organized into 10 distinct vessel sectors, each with dedi
 - **Extracted Markdown Path (Normalized Dossiers):** [`data/commodities`](../data/commodities)
 - **Publication Cadence:** Monthly (20th of Month) (Expected day: 20th of Month)
 - **Coverage Span:** `2016-03-11` to `2026-07-28`
-- **Latest Ingested Document:** `live_ppa_cargo-stats-by-destination_origin_july2026.pdf` (Status: **STALE (93d, cadence monthly)**)
+- **Latest Ingested Document:** `live_ppa_cargo_stats_by_destination_origin_july2026_pdf.pdf` (Status: **STALE (93d, cadence monthly)**)
 - **Sample Ingested Report (Corpus):** [`ff4753bc9213.pdf`](../corpus/09-ppa/ppa_pdf/ff4753bc9213.pdf)
 - **Sample Extracted Markdown (Digest):** [`world_crude_steel_monthly.csv`](../data/commodities/world_crude_steel_monthly.csv)
 - **Raw Corpus Inventory:** 518 PDFs
