@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated_at_utc": "2026-10-29T18:58:25.015396+00:00",
+  "updated_at_utc": "2026-10-29T19:32:02.156971+00:00",
   "quotes": {
     "BDRY": {
       "symbol": "BDRY",
@@ -10,7 +10,7 @@
       "change_percent": 0.1914,
       "regular_market_day_high": 12.595,
       "regular_market_day_low": 12.48,
-      "regular_market_volume": 8405,
+      "regular_market_volume": 8589,
       "market_time_utc": "2026-10-29T18:54:20+00:00",
       "currency": "USD",
       "exchange": "PCX",
@@ -21,14 +21,14 @@
     },
     "BWET": {
       "symbol": "BWET",
-      "price": 945.7,
+      "price": 947.2,
       "previous_close": 898.92,
-      "change": 46.78,
-      "change_percent": 5.204,
+      "change": 48.28,
+      "change_percent": 5.3709,
       "regular_market_day_high": 949.959,
       "regular_market_day_low": 932.72,
-      "regular_market_volume": 78814,
-      "market_time_utc": "2026-10-29T18:58:03+00:00",
+      "regular_market_volume": 88035,
+      "market_time_utc": "2026-10-29T19:30:12+00:00",
       "currency": "USD",
       "exchange": "PCX",
       "source": "yahoo_finance",
