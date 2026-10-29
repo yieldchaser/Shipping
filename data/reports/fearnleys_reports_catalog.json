@@ -1,5 +1,281 @@
 [
   {
+    "id": "91477503-1cec-4082-b23c-1f44c7a56040",
+    "date": "2026-10-30",
+    "title": " Fearnleys Dry Bulk Market Outlook",
+    "department": "BULK",
+    "slug": "fearnleys-dry-bulk-market-outlook-october-2026-7",
+    "status": "published",
+    "pdf_url": "https://pbrkapp.blob.core.windows.net/report/91477503-1cec-4082-b23c-1f44c7a56040/report.pdf",
+    "audio_url": "https://pbrkapp.blob.core.windows.net/report/91477503-1cec-4082-b23c-1f44c7a56040/summary-en.mp3",
+    "content": [
+      {
+        "id": "9d5e1f3",
+        "type": "heading2",
+        "content": "SUMMARY AND OUTLOOK "
+      },
+      {
+        "id": "6ftbzxd",
+        "type": "fullWidthParagraph",
+        "content": "Total global shipment volume growth remains weak, and quite significantly so. On a 3-month average basis, through week 43 of this year, volume growth was just 0.4 %. Ton-time growth remains higher, with preliminary estimates showing that growth was 5.0% through the same period – down from about 9.0% three months ago. DWT supply growth is 3.5%, rising slightly from the low of 2.8% earlier this year. \n\nIn our previous report, our comment to this development was *\"The decline in volume and ton-time growth has come in accordance with our expectations, but market levels have gone the opposite way, which is highly unusual to see. What explains this divergence? The answer is not entirely clear to us. Sentiment in commodity markets certainly explains some of it, and headline volume and ton-time figures might not capture the inefficiencies to the full extent. Regardless, we remain bearish on volume growth and therefore still expect lower markets in 2027.\"*\n\nIn the last month, some cracks have started to appear, with significant corrections in the Cape/Newc and Panamax/Kamsarmax markets. The Supra/Ultra and Handysize markets have kept pushing upwards, however. \n\nOverall outlook\n\nWe expect 2027 to be a weaker year for dry bulk, with average earnings somewhat below the average of the last three years. This is mainly a cyclical bearish call, not a structural bearish one.\nOver 2027–2029, we estimate that average earnings will be broadly in line with 2024–2026. A recovery looks possible during 2028, and 2H 2028 and 2029 stand out as the most likely next bullish period.\n\nMacro environment\n\nOver the last five years, dry bulk ton-time demand has grown by an average of 4.8% a year, while the fleet has grown by 3.1% per year.\nWe estimate fleet growth at around 3.8% a year over the next three years, which adds somewhat more supply pressure.\nAccording to OECD, global GDP growth should stay around 3% in the next years, which gives dry bulk demand a reasonable base. Export volume growth will come mostly from the Atlantic basin whereas demand will continue to be in the East, so it therefore seems likely that dry bulk demand growth will continue to exceed global GDP and industrial production growth. Higher interest rates and higher oil prices remain macro headwinds going into 2027. On the positive side, China could become an important upside catalyst. Its economic and credit indicators are very weak today, but conditions were similarly depressed in late 2022, about 9 months before the dry bulk market recovery that started in Q4 2023. \n\nIron ore\n\nThe near-term iron ore outlook remains relatively weak. Chinese iron ore consumption is below last year's level, inventories are higher, and steel mill profitability is close to record lows. Global seaborne iron ore exports are up only 0.3% Y/Y YTD. Iron ore prices have likely entered a bottoming process, however. To turn bullish on iron ore again, we would need to see stronger Chinese credit growth, falling iron ore inventories and better steel mill profitability. We expect these conditions to emerge during 2H 2027.\n\nBauxite\n\nBauxite remains a strong long-term growth story for dry bulk, but the near-term market looks oversupplied.\nChinese bauxite imports have run ahead of underlying Aluminium consumption. We estimate that the Chinese bauxite surplus will rise from 33 Mt in 2025 to 48 Mt in 2026. We also estimate inventories are around 92 days of consumption, so there is little immediate need for another major jump in imports.\n\n\nCoal\n\nGlobal coal trade is broadly flat, not in a major structural decline. YTD, global exports are up about 0.5% Y/Y and imports are down 0.3% year onyear. \nThe geographical mix has changed considerably. Indonesian exports are down 7.5%, while Russia, the US, South Africa and Colombia are all showing strong export growth. On the demand side, China (-4.6%) and India (-9.2%) are weaker, while Southeast Asia is comparatively strong at +6.4%.\nThe five-year coal/energy cycle suggests bullish development in prices and shipment volumes for another 1.5 to 2 years.\n\nGrains and minor bulks\n\nThe IGC expect grain shipments to weaken in the coming season. They estimate 2026/27 volumes at 450 Mt, compared with 467 Mt in 2025/26.\n\nMinor bulk growth has slowed significantly. The latest 12-month rolling growth rate is around 1.8%. This has yet to have any impact on the Ultramax and Handysize markets, but eventually it likely will. The macro backdrop of higher interest rates and energy costs makes it hard to expect any strong rebound in minor bulks shipments. \n\nCapesize / Newcastlemax\n\nDemand growth has averaged around 4% a year over the last decade.\nWe estimate fleet growth at around 5% in both 2027 and 2028, which makes the near-term supply-demand balance difficult. We therefore expect earnings to stay below the 2026 average through 2027 and most of 2028.\nThe longer-term picture is much stronger. Yard constraints currently limit fleet growth to roughly 2% in 2029 and 2030. Combined with potentially stronger demand growth, this creates a much more bullish setup from 2H 2028 into 2029 and beyond.\n\nKamsarmax / Ultramax / Handysize\n\nDemand growth has averaged about 5% a year over the last decade, but it has fallen sharply in recent months.\nWe estimate fleet growth at around 4% in 2027, falling to 3% in 2028 and currently 1.8% in 2029.\nWith the demand cycle weakening, we expect lower average earnings in 2027.",
+        "textAlignment": "left"
+      },
+      {
+        "id": "d6335810-f43e-4cd0-b4bd-95ccc1cbdecc",
+        "type": "halfWidthChartFromFile",
+        "title": "Earnings Forecasts 26 and 27",
+        "content": "https://pbrkapp.blob.core.windows.net/report/4d554557-4e28-4e1a-82f2-c7f9758d7fa6/Designer (2).png"
+      },
+      {
+        "id": "8fab0bdc-5f4a-4916-ad9b-e9878720207c",
+        "type": "halfWidthChartFromFile",
+        "title": "Dry Bulk Demand Growth vs Supply Growth (All Segments)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/91477503-1cec-4082-b23c-1f44c7a56040/supply vs demand.png"
+      },
+      {
+        "id": "bf1d5728-c357-41f7-aa71-1c21a4850df7",
+        "type": "pageBreak",
+        "content": ""
+      },
+      {
+        "id": "c8a0ba0e-8c38-4c29-b25f-e127c7087c5b",
+        "type": "heading2",
+        "content": "Fleet Statistics (In Million DWT)"
+      },
+      {
+        "id": "33af2607-5bdf-4a42-a9a1-d633126928a0",
+        "type": "fullWidthTable",
+        "content": "\tTotal Fleet \tCapeNewc\tPmx/Kmx\tSmx/Umx\tHandy\n2025\t\t\t\t\t\nDeliveries\t36\t7.2\t9.9\t13.1\t5.8\nScrapping \t3.7\t1\t1.3\t0.1\t1.1\nFleet Growth\t3.0%\t1.9%\t3.3%\t5.2%\t4.1%\n\t\t\t\t\t\n2026 YTD\t\t\t\t\t\nDeliveries\t38.1\t6.7\t12.6\t11.9\t4.6\nRemaining on Schedule\t11.5\t2.8\t3.6\t3\t1.1\nScrapping\t2.8\t0.6\t0.6\t0.3\t1\nYoY Fleet Growth (Oct)\t3.6%\t2.1%\t4.9%\t5.6%\t3.3%"
+      },
+      {
+        "id": "4ea0f62b-90cd-4c6e-adbc-d4fe4eee4afb",
+        "type": "fullWidthChartFromFile",
+        "content": "https://pbrkapp.blob.core.windows.net/report/436c0724-14ee-4032-bd46-544971cf69bf/SHIP SAILING.jfif"
+      },
+      {
+        "id": "0c08a2a4-b780-44c5-90da-a2fce76d047c",
+        "type": "pageBreak",
+        "content": ""
+      },
+      {
+        "id": "89b45499-2387-4edf-839a-cfe391b62e8f",
+        "type": "heading1",
+        "content": "Fleet Growth and Forward Estimates (ex Scrapping and Delivery Delays or Cancellations)"
+      },
+      {
+        "id": "2e3c781a-2333-4ebb-8c33-d1e237921401",
+        "type": "halfWidthChartFromFile",
+        "title": "Total Fleet ",
+        "content": "https://pbrkapp.blob.core.windows.net/report/91477503-1cec-4082-b23c-1f44c7a56040/Total Gross Fleet Growth Including Estimate.png"
+      },
+      {
+        "id": "dc4a4465-4fbf-4788-9208-99cc4dae5d8e",
+        "type": "halfWidthChartFromFile",
+        "title": "Capesize / Newcastlemax",
+        "content": "https://pbrkapp.blob.core.windows.net/report/91477503-1cec-4082-b23c-1f44c7a56040/Cape-Newc Gross Fleet Growth Including Estimate.png"
+      },
+      {
+        "id": "53ea19d4-807e-4c75-9e04-0f688f63a354",
+        "type": "halfWidthChartFromFile",
+        "title": "VLOC",
+        "content": "https://pbrkapp.blob.core.windows.net/report/91477503-1cec-4082-b23c-1f44c7a56040/vloc fleet growth.png"
+      },
+      {
+        "id": "e1ebedbb-3a3a-4fa5-9e44-3fadd388155b",
+        "type": "halfWidthChartFromFile",
+        "title": "Panamax / Kamsarmax",
+        "content": "https://pbrkapp.blob.core.windows.net/report/91477503-1cec-4082-b23c-1f44c7a56040/Panamax-Kamsarmax Gross Fleet Growth Including Estimate.png"
+      },
+      {
+        "id": "314ace90-8e79-4661-b008-14c9c37c90e1",
+        "type": "halfWidthChartFromFile",
+        "title": "Supramax / Ultramax ",
+        "content": "https://pbrkapp.blob.core.windows.net/report/91477503-1cec-4082-b23c-1f44c7a56040/Supramax-Ultramax Gross Fleet Growth Including Estimate.png"
+      },
+      {
+        "id": "b597919b-7c9d-4672-905b-639699ddca33",
+        "type": "halfWidthChartFromFile",
+        "title": "Handysize ",
+        "content": "https://pbrkapp.blob.core.windows.net/report/91477503-1cec-4082-b23c-1f44c7a56040/Handysize Gross Fleet Growth Including Estimate.png"
+      },
+      {
+        "id": "33ecf62a-a0b8-4206-a472-1349f8f8eea6",
+        "type": "sourceText",
+        "content": "IHS, Fearnleys "
+      },
+      {
+        "id": "0ea29252-a270-49f1-84ac-aaa810ae6457",
+        "type": "pageBreak",
+        "content": ""
+      },
+      {
+        "id": "17c6a2e7-60be-488f-bc1f-d3893dd3a9ef",
+        "type": "heading1",
+        "content": "PERIOD RATES AND ASSET VALUES"
+      },
+      {
+        "id": "66638a06-54d5-456f-ac46-ff194d9266dc",
+        "type": "fullWidthParagraph",
+        "content": "Period rates have come off over the last two months. The September rally has reversed in every segment, and the larger sizes have fallen furthest. Capesize and Newcastlemax rates are now below where they were in late August, and Panamax is back to its starting level. Geared rates are only slightly higher than two months ago.\n\n**Capesize / Newcastlemax.** Over the last two months, our Capesize 1-year TC assessment fell from $36,500 to $32,500 (-11%), and our Newcastlemax assessment from $49,600 to $44,600 (-10%). Both peaked in the second week of September ($39,000 and $52,700) and have since dropped by about 15–17%. Reported fixed levels are $33,000 for 2 years on a 2011-built Capesize and $35,000 for about 3 years on a 182k newbuilding. There is also a rumour of $38,500 for Newcastlemax newbuildings delivering in 2027. Second-hand values have kept rising even as rates eased. Since late August, 5-year-old Capesizes are up $6.5m and Newcastlemaxes up $3m.\n\n**Panamax / Kamsarmax.** Over the last two months, Kamsarmax 1-year TC fell from $21,750 to $20,850 (-4%), while Panamax is unchanged at $18,500. Both peaked in late September ($23,250 and $20,750) and are now about 10% lower. Activity is still quite high. One 1-year deal was done at $21,200. Owners' ideas for 1 year range from $18,500 to $22,000, and one modern Kamsarmax is asking $20,000 for 2 years. In our assessment, second-hand values are broadly stable, with 5-year-old Kamsarmaxes up about $0.5–1m in October.\n\n**Ultramax / Supramax / Handysize.** Over the last two months, Ultramax 1-year TC rose from $19,500 to $19,750 (+1%), Supramax from $17,000 to $17,250 (+1%), and Handysize from $14,500 to $15,000 (+3%). All three are about 6–7% below their late-September peaks. Second-hand values rose slightly in September, by about $0.5–1.5m for Ultramaxes and Handysizes, and have been flat since.",
+        "textAlignment": ""
+      },
+      {
+        "id": "fea1a6aa-7107-4a82-b2c5-eb42ebdf8fbd",
+        "type": "halfWidthChartFromFile",
+        "title": "Capesize 1 Year TC vs Capesize 10 Year Old (Japanese)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/91477503-1cec-4082-b23c-1f44c7a56040/Capesize 1 Year TC vs Capesize 10 Year Old (Japanese).png"
+      },
+      {
+        "id": "435e55e8-0a3f-4846-a658-af8a6bff8aef",
+        "type": "halfWidthChartFromFile",
+        "title": "Panamax/Kamsarmax 1 Year TC vs Panamax/Kamsarmax 10 Year Old (Japanese)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/91477503-1cec-4082-b23c-1f44c7a56040/Panamax-Kamsarmax 1 Year TC vs Panamax-Kamsarmax 10 Year Old (Japanese).png"
+      },
+      {
+        "id": "ba690467-8609-4529-a5df-2beb4eddcb92",
+        "type": "halfWidthChartFromFile",
+        "title": "Supramax/Ultramax 1 Year TC vs Supramax/Ultramax 10 Year Old (Japanese)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/91477503-1cec-4082-b23c-1f44c7a56040/Supramax-Ultramax 1 Year TC vs Supramax-Ultramax 10 Year Old (Japanese).png"
+      },
+      {
+        "id": "3dcfcdeb-05f7-46df-8d02-79ca71695284",
+        "type": "halfWidthChartFromFile",
+        "title": "Handysize 1 Year TC vs Handysize 10 Year Old (Japanese)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/91477503-1cec-4082-b23c-1f44c7a56040/Handysize 1 Year TC vs Handysize 10 Year Old (Japanese) (1).png"
+      },
+      {
+        "id": "1e58731f-a2e9-4a04-8c4e-a09bae485105",
+        "type": "pageBreak",
+        "content": ""
+      },
+      {
+        "id": "dec0b4d5-853c-4c6e-add0-2bcccadc9f40",
+        "type": "heading2",
+        "content": "Asset Values vs Commodity Prices "
+      },
+      {
+        "id": "11fd5759-c58c-4b92-803c-58d1c84f2f98",
+        "type": "fullWidthParagraph",
+        "content": "There is an observable loss of momentum in the asset value upturn, which follows from the loss of upward momentum in industrial metals prices. Going forward, the suggestion from industrial metals is that the trend will be a continued softening of momentum. There is an important difference between momentum and absolute levels, though. Industrial metals prices remain relatively firm and therefore suggest second-hand values will be stable at worst through the end of this year. \n"
+      },
+      {
+        "id": "d3344186-b2c1-4778-99f6-83ad2f8dd423",
+        "type": "halfWidthChartFromFile",
+        "title": "Copper Price 6 Months Change (Lead 6 Months) vs Capesize 10 Year Old ",
+        "content": "https://pbrkapp.blob.core.windows.net/report/4d554557-4e28-4e1a-82f2-c7f9758d7fa6/COPPER PRICE LEAD VS CAPESIZE 10 YEAR OLD.png"
+      },
+      {
+        "id": "f1927a17-8ef4-4e39-82a7-2869e43e7585",
+        "type": "halfWidthChartFromFile",
+        "title": "Copper Price 6 Months Change (Lead 6 Months) vs Kamsarmax 10 Year Old ",
+        "content": "https://pbrkapp.blob.core.windows.net/report/4d554557-4e28-4e1a-82f2-c7f9758d7fa6/COPPER PRICE LEAD VS KAMSARMAX 10 YEAR OLD.png"
+      },
+      {
+        "id": "5172351b-3cce-49af-bc55-8bc476ae1fe0",
+        "type": "halfWidthChartFromFile",
+        "title": "Copper Price 6 Months Change (Lead 6 Months) vs Ultramax 10 Year Old ",
+        "content": "https://pbrkapp.blob.core.windows.net/report/4d554557-4e28-4e1a-82f2-c7f9758d7fa6/COPPER PRICE LEAD VS SUPRAMAX 10 YEAR OLD.png"
+      },
+      {
+        "id": "8515db41-d679-418c-b64a-77c7d2ef6392",
+        "type": "halfWidthChartFromFile",
+        "title": "Copper Price 6 Months Change (Lead 6 Months) vs Handysize 10 Year Old",
+        "content": "https://pbrkapp.blob.core.windows.net/report/4d554557-4e28-4e1a-82f2-c7f9758d7fa6/COPPER PRICE LEAD VS HANDYSIZE 10 YEAR OLD.png"
+      },
+      {
+        "id": "bbb8e7e2-a3df-433e-8ff8-fd713a256032",
+        "type": "sourceText",
+        "content": "S&P Global, FRED, Fearnleys "
+      },
+      {
+        "id": "1e5b980b-c8f8-4a06-b0cf-1bf1fe0337d4",
+        "type": "pageBreak",
+        "content": ""
+      },
+      {
+        "id": "eb2258ea-4b53-4473-bc12-6024898b3be0",
+        "type": "heading1",
+        "content": "TRADE FLOWS YEAR ON YEAR GROWTH "
+      },
+      {
+        "id": "66219775-0959-4320-995a-728d851e5028",
+        "type": "fullWidthTable",
+        "content": "\tIron Ore\tCoal\tGrains\tOthers\tTotal\nJun-25\t1%\t-10%\t-2%\t7%\t-0.9%\nJul-25\t4%\t2%\t7%\t12%\t6.3%\nAug-25\t5%\t-2%\t10%\t5%\t4.4%\nSep-25\t4%\t0%\t20%\t8%\t5.1%\nOct-25\t14%\t-3%\t-1%\t3%\t4.6%\nNov-25\t6%\t-3%\t9%\t8%\t4.5%\nDec-25\t12%\t3%\t21%\t11%\t9.2%\nJan-26\t10%\t0%\t13%\t8%\t7%\nFeb-26\t7%\t-1%\t11%\t8%\t6%\nMar-26\t-9%\t-3%\t12%\t-3%\t-3%\nApr-26\t6%\t6%\t18%\t2%\t7%\nMay-26\t0%\t9%\t14%\t-4%\t3%\nJun-26\t-3%\t11%\t9%\t3%\t4%\nJul-26\t2%\t-3%\t1%\t0%\t0%\nAug-26\t-2%\t-5%\t-9%\t1%\t-2%\nSep-26\t-3%\t-3%\t-4%\t-1%\t-1%\n\n",
+        "colorMatrix": true
+      },
+      {
+        "id": "051e818d-d63b-476e-bca2-b8746f6b47bc",
+        "type": "halfWidthTable",
+        "content": "\t100 - 220 KDWT\t25 - 100 KDWT\nJun-25\t-2%\t0%\nJul-25\t3%\t8%\nAug-25\t-1%\t6%\nSep-25\t4%\t7%\nOct-25\t14%\t0%\nNov-25\t0%\t7%\nDec-25\t12%\t7%\nJan-26\t11%\t6%\nFeb-26\t10%\t4%\nMar-26\t-4%\t-2%\nApr-26\t11%\t5%\nMay-26\t3%\t4%\nJun-26\t0%\t6%\nJul-26\t5%\t-1%\nAug-26\t1%\t-3%\nSep-26\t-2%\t-1%\n\n",
+        "colorMatrix": true
+      },
+      {
+        "id": "891235e4-8d4a-4552-90e0-2683c736d97e",
+        "type": "halfWidthTable",
+        "content": "\tFar East\tIndia + MEG\tSoutheast Asia\nJun-25\t-1%\t6%\t6%\nJul-25\t-1%\t9%\t-3%\nAug-25\t4%\t10%\t1%\nSep-25\t8%\t19%\t0%\nOct-25\t0%\t6%\t6%\nNov-25\t3%\t15%\t0%\nDec-25\t6%\t4%\t6%\nJan-26\t9%\t4%\t5%\nFeb-26\t8%\t-1%\t5%\nMar-26\t-7%\t-15%\t11%\nApr-26\t7%\t-14%\t18%\nMay-26\t7%\t-17%\t14%\nJun-26\t5%\t-11%\t16%\nJul-26\t-1%\t-8%\t11%\nAug-26\t-3%\t-11%\t11%\nSep-26\t-6%\t-11%\t-1%\n\n",
+        "colorMatrix": true
+      },
+      {
+        "id": "0562efd1-d0f3-4ab7-b525-615ce4f6e0a5",
+        "type": "pageBreak",
+        "content": ""
+      },
+      {
+        "id": "2ee5d7ac-7931-43df-b321-4885f9fffce8",
+        "type": "heading1",
+        "content": "MACRO ECONOMIC OUTLOOK"
+      },
+      {
+        "id": "59860b1e-5ab3-4454-8879-884695148249",
+        "type": "fullWidthParagraph",
+        "content": "This page gives brief comments on what the charts on the next page tell us. We have pointed to an increasingly bearish picture being painted for the second half of this year and the next year over the last four months. The BDI year-on-year change has rolled over and is expected to continue falling. \n\nTop left chart:\n\nThe BDI year-on-year change has been strongly positive since September last year, as usual, lagging behind increased credit growth in China. \nHowever, the credit growth rate has tumbled sharply during the last few months, which suggests a negative BDI development going forward. Interest rates and reserve requirement ratio changes do not point to any imminent turnaround in China's liquidity conditions. Still, we do notice the increasing rumours and talks about fresh stimulus measures amongst economists. \n\nTop right chart:\n\nExcept for a decoupling in 2024, the change in bond yields in China and the US has been a good leading indicator for dry bulk demand growth. This year, it has so far called the demand growth development perfectly, as growth has tumbled sharply following the peak in Q2. \n\nMiddle left chart:\n\nLower crude oil prices are bullish for economic growth, and vice versa. The chart displays that since 2017, there has been a tight correlation between lower year-on-year oil prices and a higher year-on-year BDI, with the oil price change leading by 1 year. \nThe low oil prices of last year suggest the BDI could remain positive year-on-year throughout 2026. However, the increase in oil prices since late February suggest the market will be lower during the first three quarters of next year. \n\nMiddle right chart:\n\nThe OECD diffusion index momentum keeps falling, and suggest the year on year change of the BDI will turn less and less positive over the coming six months. \n\nBottom left chart:\n\nThe OECD diffusion index correlation with the BDI is very high, as usual. The OECD index reading is comparable to previous cycle peaks. The index seems to be rolling over, as the reading has fallen from 18 between January and April to 13 in September. \n\nBottom right chart:\n\nShipment volume growth has, as usual, tracked the development of the US dollar index (a very good proxy for global liquidity conditions). "
+      },
+      {
+        "id": "c3428b98-5cd6-4ba6-850a-0462dcc95dcf",
+        "type": "halfWidthChartFromFile",
+        "title": "Baltic Dry Index Year on Year Change vs China Credit Growth (12 Months Lead)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/4d554557-4e28-4e1a-82f2-c7f9758d7fa6/CHINA CREDIT vs BDI.png"
+      },
+      {
+        "id": "82e3aa9b-17a3-4363-a109-a7f143150193",
+        "type": "halfWidthChartFromFile",
+        "title": "China + US Gov Bond Yield Change, 18 Months Lead. vs Dry Bulk Demand Growth ",
+        "content": "https://pbrkapp.blob.core.windows.net/report/4dfb1920-1099-4251-adb9-9c625147d433/INTEREST RATES VS DRY BULK DEMAND.png"
+      },
+      {
+        "id": "ce6620c6-a254-4b0c-b3b3-4f5a4fd82577",
+        "type": "halfWidthChartFromFile",
+        "title": "WTI Crude Oil Price YoY, 1 Year Lead vs BDI YoY",
+        "content": "https://pbrkapp.blob.core.windows.net/report/4d554557-4e28-4e1a-82f2-c7f9758d7fa6/CRUDE OIL PRICE LEAD VS BDI.png"
+      },
+      {
+        "id": "cd8632e4-d6d5-4c8a-8bc4-ffd3311bdc76",
+        "type": "halfWidthChartFromFile",
+        "title": "OECD Diffusion Index 6 Months Change vs BDI YoY",
+        "content": "https://pbrkapp.blob.core.windows.net/report/4d554557-4e28-4e1a-82f2-c7f9758d7fa6/OECD Diffusion Index 6m change 6m lead vs BDI YoY.png"
+      },
+      {
+        "id": "cb2c9cba-fa63-495e-ae2f-bc29c0c07a7a",
+        "type": "halfWidthChartFromFile",
+        "title": "OECD G-20 Diffusion Index vs BDI YoY",
+        "content": "https://pbrkapp.blob.core.windows.net/report/4d554557-4e28-4e1a-82f2-c7f9758d7fa6/OECD Diffusion Index vs BDI YoY.png"
+      },
+      {
+        "id": "dc1b531e-3fc4-4738-b661-59e1125f9c0b",
+        "type": "halfWidthChartFromFile",
+        "title": "Broad US Dollar Index Year on Year vs Dry Bulk Shipment Volume Growth ",
+        "content": "https://pbrkapp.blob.core.windows.net/report/4d554557-4e28-4e1a-82f2-c7f9758d7fa6/dollar vs dry bulk demand.png"
+      },
+      {
+        "id": "cde3f2b5-6a23-4a36-9fc3-5c20f9bc0b06",
+        "type": "sourceText",
+        "content": "FRED, OECD, S&P Global, MySteel, AxsMarine, Baltic Exchange "
+      }
+    ],
+    "created_at": "2026-10-27T12:37:21.633+00:00",
+    "updated_at": "2026-10-29T09:23:09.503+00:00"
+  },
+  {
     "id": "11c2881e-5378-4c9d-b4d9-e41f5b47d558",
     "date": "2026-10-30",
     "title": "Fearnleys VLGC Report: Q3 2026",
