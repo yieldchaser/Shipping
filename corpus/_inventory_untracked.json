@@ -7,13 +7,13 @@
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4071,
-      "untracked_bytes": 2394634332
+      "untracked_files": 4057,
+      "untracked_bytes": 2389108169
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 20,
-      "untracked_bytes": 4156443
+      "untracked_files": 9,
+      "untracked_bytes": 2035986
     },
     {
       "path": "corpus/04-poten",
@@ -20263,44 +20263,9 @@
       "sha256": "94fe795675127664dd244b56e6220edc2549f31123d5660b14bc632eec0a1395"
     },
     {
-      "path": "corpus/02-hellenic/dry_charter/2026/2026-10-28_weekly-dry-time-charter-estimates-october-28-2026.html",
-      "bytes": 2639,
-      "sha256": "967c4363e4be28169a51c8a86cf2926942d359864f96e708316cf052b0c9a0af"
-    },
-    {
-      "path": "corpus/02-hellenic/dry_charter/2026/assets/2026-10-28_weekly-dry-time-charter-estimates-october-28-2026_28102026dry.jpg",
-      "bytes": 70099,
-      "sha256": "d73a1abea8f087b6b9fd98aaf0aeb383d365600827fdc10ed51132e93fe39947"
-    },
-    {
-      "path": "corpus/02-hellenic/dry_charter/2026/assets/2026-10-28_weekly-dry-time-charter-estimates-october-28-2026_28102026dry_ad143be828cf.jpg",
-      "bytes": 70099,
-      "sha256": "d73a1abea8f087b6b9fd98aaf0aeb383d365600827fdc10ed51132e93fe39947"
-    },
-    {
       "path": "corpus/02-hellenic/iron_ore/2024/assets/2024-07-12_mmi-daily-iron-ore-index-report-july-12-2024_img1_1207202\u03b4\u03c3_e133c3395525.jpg",
       "bytes": 469290,
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/2026-10-28_mmi-daily-iron-ore-index-report-october-28-2026.html",
-      "bytes": 4410,
-      "sha256": "c6e13c3a795c9771a667dce9d0cdd8e51fbd719654840258473992b6283a655b"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/2026-10-29_mmi-daily-iron-ore-index-report-october-29-2026.html",
-      "bytes": 4549,
-      "sha256": "68ec8868fd59852c8bf41e146bbaeb4b05c7e697cd124356d33705fbcfadd033"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-10-28_mmi-daily-iron-ore-index-report-october-28-2026_29102026chinese45_aa1771b6e899.jpg",
-      "bytes": 188548,
-      "sha256": "f67d7b0d9b579559649d8fdd76b90cb119bc9cc89389f40edf1930c60f910f62"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-10-29_mmi-daily-iron-ore-index-report-october-29-2026_img1_29102026chinese12_d212cd04d6eb.jpg",
-      "bytes": 186823,
-      "sha256": "4e181466f9313752a9ad757086f14758451fc15511be7f8b50a2363593a7756a"
     },
     {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
@@ -30298,16 +30263,6 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-10-28_mmi-daily-iron-ore-index-report-october-28-2026_mmi-daily-iron-ore-report-for-28th-o_4838b146eb5f.pdf",
-      "bytes": 1204925,
-      "sha256": "a804f82ecf973b393db2c70f29b304df96c93adac8906a6f8c4ae919d7e319ed"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-10-29_mmi-daily-iron-ore-index-report-october-29-2026_mmi-daily-iron-ore-report-for-29th-o_8808fa0a5639.pdf",
-      "bytes": 1208754,
-      "sha256": "d683e282f7a32e385b69088defc1af55cd84534753dd38a6b9f4c55e1da54043"
-    },
-    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31696,16 +31651,6 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-28_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-28th-October-2026.pdf",
-      "bytes": 1204925,
-      "sha256": "a804f82ecf973b393db2c70f29b304df96c93adac8906a6f8c4ae919d7e319ed"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-29_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-29th-October-2026.pdf",
-      "bytes": 1208754,
-      "sha256": "d683e282f7a32e385b69088defc1af55cd84534753dd38a6b9f4c55e1da54043"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -35138,44 +35083,9 @@
       "sha256": "5c5179782527d5b5d012add55657c36a653c42ef6af6b1216b205122d751e410"
     },
     {
-      "path": "corpus/02-hellenic/tanker_charter/2026/2026-10-28_weekly-tanker-time-charter-estimates-october-28-2026.html",
-      "bytes": 2666,
-      "sha256": "b53f4bf5e227773857ea406ecaea03548a6d65998f3df8b99ab1607b68d77794"
-    },
-    {
-      "path": "corpus/02-hellenic/tanker_charter/2026/assets/2026-10-28_weekly-tanker-time-charter-estimates-october-28-2026_28102026tanker.jpg",
-      "bytes": 84486,
-      "sha256": "bf25f099fbd70e7170450bf195a0005fd1411c57d5a94bd1eccb6fc3088b83cb"
-    },
-    {
-      "path": "corpus/02-hellenic/tanker_charter/2026/assets/2026-10-28_weekly-tanker-time-charter-estimates-october-28-2026_28102026tanker_430bdf01053a.jpg",
-      "bytes": 84486,
-      "sha256": "bf25f099fbd70e7170450bf195a0005fd1411c57d5a94bd1eccb6fc3088b83cb"
-    },
-    {
       "path": "corpus/02-hellenic/vessel_valuations/2022/assets/2022-02-15_weekly-vessel-valuations-report-february-15-2022_\u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03ae-4_8c0794a8805a.jpg",
       "bytes": 52460,
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-10-29_dry-bulks-hydropower-amp-coal-mining-saviors-in-china.html",
-      "bytes": 5307,
-      "sha256": "668395b3de19c655dc34aa9c62fd00b62bee9ac2b091bd4775b83345b5bee441"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-10-29_dry-bulks-hydropower-amp-coal-mining-saviors-in-china.md",
-      "bytes": 3886,
-      "sha256": "34900fa56e2fb83dc0968b411f25adf2df7fe1c1fe7db1a8dbc51161dbc30838"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-10-29_uschina-commodity-trade-and-the-atlantic-freight-outlook.html",
-      "bytes": 10595,
-      "sha256": "ccc17f79cf1e77381e30f06fbb73f069bd168a05f98a873a116c6c795735d7f6"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-10-29_uschina-commodity-trade-and-the-atlantic-freight-outlook.md",
-      "bytes": 9263,
-      "sha256": "49fd3905637bb426ba71107b4ea1fd5b802bba92038bd5ab02d917cd7d0ffbea"
     },
     {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
@@ -35221,41 +35131,6 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-29_dry-bulks-hydropower-amp-coal-mining-saviors-in-china_img_chart1_60705e16e011.jpg",
-      "bytes": 70036,
-      "sha256": "ffc2ad1d8731f682bb1947d994cf2faa3e8f50c713d2be14ab25a641b30d0cea"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-29_dry-bulks-hydropower-amp-coal-mining-saviors-in-china_img_chart2_4d0bebbdf284.jpg",
-      "bytes": 74549,
-      "sha256": "4b3ad9062485b6719310e436e04a992c5e0eb10e6e75892edcf9c7e4022c5f72"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-29_dry-bulks-hydropower-amp-coal-mining-saviors-in-china_img_chart3_16c4cbd34a73.jpg",
-      "bytes": 76232,
-      "sha256": "6d645095ec8292cba558065e2f34900efe53b7e1a39b8476beade4c6f368843f"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-29_dry-bulks-hydropower-amp-coal-mining-saviors-in-china_img_chart4_5332902d3e0a.jpg",
-      "bytes": 71698,
-      "sha256": "8f193a8877e988d793dee4e5c71a02dbbe7511ba6ba4f56eeae91dc4c50f0b02"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-29_uschina-commodity-trade-and-the-atlantic-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6bcd443af080.png",
-      "bytes": 1401273,
-      "sha256": "4bf0d7b3bfe4137c3f5bdcd8c0ff5abbd4ce0bdf75822b21a95db02532b0e8d0"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-29_uschina-commodity-trade-and-the-atlantic-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d4b4aa66eb9.png",
-      "bytes": 372676,
-      "sha256": "224e89d470751c5330d489d833f7aa44b9e0fe1884275f897a88ca04fcd5f5bf"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-29_uschina-commodity-trade-and-the-atlantic-freight-outlook_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cf2944030291.png",
-      "bytes": 24942,
-      "sha256": "198dff2f6347c53f3f8fc788dfb7af40cb39cc4cc410bb42225d374435eee523"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
