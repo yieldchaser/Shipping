@@ -3,14 +3,14 @@ title: "Fearnleys Weekly Broker Commentary - Week 44, 2026"
 source: "Fearnleys Hasura GraphQL API (fearnpulse.com)"
 year: 2026
 week: 44
-date_range: "2026-10-28 to 2026-10-28"
-comments_count: 8
+date_range: "2026-10-28 to 2026-10-30"
+comments_count: 9
 sectors: ["Dry Bulk", "Tankers", "Gas & LNG", "Sale and Purchase (S&P)"]
-generated_at: "2026-10-30 14:20:56"
+generated_at: "2026-10-30 21:40:12"
 ---
 
 # Fearnleys Weekly Broker Commentary - Week 44, 2026
-*Coverage Period: 2026-10-28 to 2026-10-28 | Total Notes: 8*
+*Coverage Period: 2026-10-28 to 2026-10-30 | Total Notes: 9*
 
 ## Executive Summary
 Institutional desk intelligence harvested directly from the Fearnleys Hasura GraphQL backend, covering global Dry Bulk, Crude & Product Tankers, Gas/LNG markets, and Secondhand S&P deals for Week 44 (2026).
@@ -73,6 +73,15 @@ The spot market in the West has strengthened off the back of a number of fixture
 ---
 
 ## 4. Sale and Purchase (S&P) & Corporate Activity
+### SnP Weekly Comment
+**Date:** 2026-10-30 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
+
+Tanker activity ramped up once again this week but with much more emphasis being placed on product carriers rather than crude, though one would be remiss to ignore the excellent prices achieved by two reported suezmax sales. Scrubber fitted CS FUJAIRAH/ROTTERDAM/SINGAPORE/HOUSTON (50k dwt Chengxi 2026/2027) achieved USD 55.75M each, which will help price modern resale tonnage, and displays the strength of earnings on offer for these units. Older MRs, particularly if they are equipped with COW, are in high demand given earnings to trade dirty, seen in 18-year-old MAYFAIR (49k dwt HMD 2008) selling at USD 27M. 
+
+As previously stated in this report, dry remains solid despite recent fluctuations in big ticket spot capesize earnings. Overall, values are elevated and sellers can pick and choose whether they cash in with willing suitors. It feels that sellers aren’t rushed but are safe in the knowledge a buyer is there if they do decide to put vessels on the chopping block. This week in the usually busy c.15-year-old Supramax sector, CHARADE (58k dwt Tess Cebu 2013) sold for USD 22.5M.
+
+---
+
 ### Chartering Weekly Comment
 **Date:** 2026-10-28 | **Subtype:** Market Commentary | **Desk:** Fearnleys Research
 
