@@ -27,8 +27,8 @@
     },
     {
       "path": "corpus/06-drewry",
-      "untracked_files": 288,
-      "untracked_bytes": 547682493
+      "untracked_files": 295,
+      "untracked_bytes": 553113429
     },
     {
       "path": "corpus/07-signal",
@@ -40628,6 +40628,11 @@
       "sha256": "d10c68122ee8f62c8750191304a4f3ed0ad56f12f1caed29d0578f83852b9b94"
     },
     {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Crude_VLCC_Week43_2026.pdf",
+      "bytes": 2072358,
+      "sha256": "537b30e84c64ac094d3c508a78d5dad303d5440b3740b6948af240d869049b60"
+    },
+    {
       "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Capesize_Week25_2026.pdf",
       "bytes": 1560575,
       "sha256": "551ebce5e78d764c946d2de3c01e3275928490e8c0ccfce223f57c9a60e63550"
@@ -40681,6 +40686,11 @@
       "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf",
       "bytes": 1633838,
       "sha256": "88160d172162865520664bf991fa57c4f844adaf24b90ec33358bd81450674e3"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Panamax_Week43_2026.pdf",
+      "bytes": 1641963,
+      "sha256": "516ff2f9d2c96243350e9fd41963a33acef028030402fa6e1f9d6e919661f531"
     },
     {
       "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Supramax_Week26_2026.pdf",
@@ -41978,6 +41988,11 @@
       "sha256": "dc54fe7bf4a397356c437fa70fbbcd08140cad2812b2ec537d2d14ff36a0d3e3"
     },
     {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR1_Week43_2026.pdf",
+      "bytes": 1692835,
+      "sha256": "599bae91208fe1a98ac561121efdcea62be713ec1f9d17f85f8cbcc144ab709d"
+    },
+    {
       "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR2_Week27_2026.pdf",
       "bytes": 1658825,
       "sha256": "5fe469aefc731c81dba4b0bcba47bfe7bd3d9f107bb7ec86b3351535221a54b8"
@@ -42001,6 +42016,26 @@
       "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR2_Week39_2026.pdf",
       "bytes": 1692736,
       "sha256": "cfb74c938d015edb12df749489317f64447354fc874abe5b10dbd3e604116a9e"
+    },
+    {
+      "path": "corpus/06-drewry/opinions/2026/2026-10-29_drewry_wci.md",
+      "bytes": 1398,
+      "sha256": "f224b9aa1c5f9b4ad6e58d7e7629720af00d71cce0a55985e1adbf932e5fd58b"
+    },
+    {
+      "path": "corpus/06-drewry/opinions/2026/2026-10-30_could-indias-steel-vision-2047-create-the-next-breakthrough-for-dry-bulk-demand.md",
+      "bytes": 8741,
+      "sha256": "f0081cce3d1a361ea17ed6a3e003ba50a696bb074cbb879d4fe2b72189bc2585"
+    },
+    {
+      "path": "corpus/06-drewry/opinions/2026/2026-10-30_ethanol-fuelled-vessels-enter-dry-bulk-orderbook-as-owners-seek-fuel-flexibility.md",
+      "bytes": 6196,
+      "sha256": "9e6755a63f3ca00e8f289b1f4475ba019bceefc0f664c50622abe66777a70bec"
+    },
+    {
+      "path": "corpus/06-drewry/opinions/2026/2026-10-30_imo-dcs-2025-is-shippings-decarbonisation-progress-fast-enough.md",
+      "bytes": 7445,
+      "sha256": "cc4608ac103d179aa1a935c4c6b643bada824f7f1015158e34debed6407f2b9c"
     },
     {
       "path": "corpus/07-signal/images/61ee8a276c973711129956ad_image (90).png",
