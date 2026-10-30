@@ -7,13 +7,13 @@
     },
     {
       "path": "corpus/02-hellenic",
-      "untracked_files": 4061,
-      "untracked_bytes": 2391661174
+      "untracked_files": 4057,
+      "untracked_bytes": 2389108169
     },
     {
       "path": "corpus/03-breakwave",
-      "untracked_files": 16,
-      "untracked_bytes": 2340362
+      "untracked_files": 9,
+      "untracked_bytes": 2035986
     },
     {
       "path": "corpus/04-poten",
@@ -34,11 +34,6 @@
       "path": "corpus/07-signal",
       "untracked_files": 298,
       "untracked_bytes": 174706385
-    },
-    {
-      "path": "corpus/08-baltic",
-      "untracked_files": 10,
-      "untracked_bytes": 45380
     },
     {
       "path": "corpus/09-ppa",
@@ -20273,16 +20268,6 @@
       "sha256": "e757ecbd71d56008a1f8334ba8f6a5d99b40e2733eba2fe68923a232f1f0249f"
     },
     {
-      "path": "corpus/02-hellenic/iron_ore/2026/2026-10-30_mmi-daily-iron-ore-index-report-october-30-2026.html",
-      "bytes": 4549,
-      "sha256": "ab96987a78a44c6ab299cde48e845112fb341b755c42ef939088aa4d42211204"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/2026/assets/2026-10-30_mmi-daily-iron-ore-index-report-october-30-2026_30102026chinese_9f23bcdea60f.jpg",
-      "bytes": 180512,
-      "sha256": "0a778dcdc6061745846574bd5ea6dbe53f292fb0bda43cd701cceef8da9af64b"
-    },
-    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2021/2021-07-14_MMi-Daily-Iron-Ore-Report-for-July-14th-2021_compressed.pdf",
       "bytes": 1106014,
       "sha256": "b82a5abf0415bdb8da87e942ca7a69caa92b9e22ff1373ec591775898b1b0aa3"
@@ -30278,11 +30263,6 @@
       "sha256": "085783c8c669fb306d0af2d31c697d8b9dffadec1da9d3e6822025ac6cbfda11"
     },
     {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026-10-30_mmi-daily-iron-ore-index-report-october-30-2026_mmi-daily-iron-ore-report-for-30th-o_bcddd008140a.pdf",
-      "bytes": 1183972,
-      "sha256": "34a8d7bcbfffdf54e9a41361ca9eb6e8238de599bcc6792137c96fe7e697b94f"
-    },
-    {
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-01-05_MMi-Daily-Iron-Ore-Report-for-5th-January-2026.pdf",
       "bytes": 339968,
       "sha256": "1a82662470772a13b5d44b34fe680717d9d0088aa09350a3bee101e1e4ef4223"
@@ -31671,11 +31651,6 @@
       "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-02_mmi-daily-iron-ore-index-report-october-_iron_ore_daily_20261002_en.pdf",
       "bytes": 1163474,
       "sha256": "ff8b0cf9c998338c0c353efa18b29ea97dafe5742813937e73ef1c0b357a924a"
-    },
-    {
-      "path": "corpus/02-hellenic/iron_ore/pdfs/2026/2026-10-30_mmi-daily-iron-ore-index-report-october-_MMi-Daily-Iron-Ore-Report-for-30th-October-2026.pdf",
-      "bytes": 1183972,
-      "sha256": "34a8d7bcbfffdf54e9a41361ca9eb6e8238de599bcc6792137c96fe7e697b94f"
     },
     {
       "path": "corpus/02-hellenic/shipbuilding/breakwave_pdfs/2021-07-07_BreakwaveJuly62021Report.pdf",
@@ -35113,26 +35088,6 @@
       "sha256": "066582db56bbda3fc184d7f0879b3c2f90d81558cb1f1296a1a3ab485ad21f66"
     },
     {
-      "path": "corpus/03-breakwave/insights/2026/2026-10-30_crude-freight-past-the-peak-but-the-floor-should-hold.html",
-      "bytes": 17036,
-      "sha256": "ca0955e1da8f9ae83ae1635748e0291062eea1acca77c5c9f85b275d9b288939"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-10-30_crude-freight-past-the-peak-but-the-floor-should-hold.md",
-      "bytes": 16992,
-      "sha256": "1c7569fcf28f0e4345f82c16134a47e3bf8f42362e8ca4619b42f3702f4c571b"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-10-30_supertankers-correct-from-the-extremes-but-the-floor-is-firm.html",
-      "bytes": 6590,
-      "sha256": "81be9db39958534b2f0b4d16137ebca16104202e43b5b8500131fbd6540c32a2"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/2026-10-30_supertankers-correct-from-the-extremes-but-the-floor-is-firm.md",
-      "bytes": 4847,
-      "sha256": "bb4a923c24a7896a2442030fdddbc44b7aa4a7b8f8a1483ad4975529d390446f"
-    },
-    {
       "path": "corpus/03-breakwave/insights/2026/assets/2026-09-21_vlccs-rewrite-the-record-books_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_55d694cfa169.png",
       "bytes": 69365,
       "sha256": "9848c9a3aaba37a9e84f8cd2263fff62c7771135c466216f51114381d1621e5f"
@@ -35176,21 +35131,6 @@
       "path": "corpus/03-breakwave/insights/2026/assets/2026-10-05_running-out-of-room_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d22e0173100.png",
       "bytes": 42299,
       "sha256": "a830e87a5263e40fc2f82fafdc9f3102ee9a4edbff2d7ea7e0258d547c5fd776"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-30_crude-freight-past-the-peak-but-the-floor-should-hold_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_05bd634d60b4.png",
-      "bytes": 90469,
-      "sha256": "b1bef22631e6d0187918c8640b403ee6f2bf4bae16de7d776832e1a84ad33512"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-30_crude-freight-past-the-peak-but-the-floor-should-hold_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d82b0613e378.png",
-      "bytes": 61213,
-      "sha256": "fb272f33d1696fd89ecf6c9e123b61f9f54b7974b2d2c88ffd7603ec93d7f5a2"
-    },
-    {
-      "path": "corpus/03-breakwave/insights/2026/assets/2026-10-30_crude-freight-past-the-peak-but-the-floor-should-hold_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e23b3e506bee.png",
-      "bytes": 107229,
-      "sha256": "48d4a8f9e1b42f78300f6522fc09f0ca67478c0d19d230cc79ff6026c0e2a232"
     },
     {
       "path": "corpus/04-poten/pdfs/2004/Tanker_Opinion_20040102.pdf",
@@ -43551,56 +43491,6 @@
       "path": "corpus/07-signal/images/6aab9b1af1afff7802ecc95b_Weeklies (Tanker & Dry).png",
       "bytes": 1548138,
       "sha256": "85b4a55553187dc53bebf16853fd14f226ba445c55f28d3b698e48b7abf032de"
-    },
-    {
-      "path": "corpus/08-baltic/container/2026/2026-10-30_W44_container-report-week-44_container.html",
-      "bytes": 2873,
-      "sha256": "b45588d93bc8b63e8bd65b39c95ea342fc2c850dd4a74471000b73e91f69c202"
-    },
-    {
-      "path": "corpus/08-baltic/container/2026/2026-10-30_W44_container-report-week-44_container.md",
-      "bytes": 1780,
-      "sha256": "1ef563bd81bf54c43591365b18046b28e95f24b7f9ca492608cf1ae16ee6c20a"
-    },
-    {
-      "path": "corpus/08-baltic/dry/2026/2026-10-30_W44_bulk-report-week-44_dry.html",
-      "bytes": 7283,
-      "sha256": "4731ec73b4d802f972b568ce15c44b358e394332fbb9ce4c9dbdf98a19deaed6"
-    },
-    {
-      "path": "corpus/08-baltic/dry/2026/2026-10-30_W44_bulk-report-week-44_dry.md",
-      "bytes": 6197,
-      "sha256": "b09ea8319bfd9981bf0c29f683164d929db5320db31fa8f5809fd4877b184753"
-    },
-    {
-      "path": "corpus/08-baltic/gas/2026/2026-10-30_W44_gas-report-week-44_gas.html",
-      "bytes": 3981,
-      "sha256": "c0b00416a900326ee4c20a0db4a1e3ee4f7524c19cf3d5fc7a1f446ad033755f"
-    },
-    {
-      "path": "corpus/08-baltic/gas/2026/2026-10-30_W44_gas-report-week-44_gas.md",
-      "bytes": 2828,
-      "sha256": "be3970ed646a4000fe46da2b2ad75c328f80c84a9cd6a7cd6293d0d3c6d9d2b4"
-    },
-    {
-      "path": "corpus/08-baltic/ningbo/2026/2026-10-30_ningbo-containerised-freight-index-30102_ningbo.html",
-      "bytes": 4973,
-      "sha256": "307aac0c51a8ca12cfc7602c1c35022d1b8aa7f293864ae127b7d7a879d0c3c2"
-    },
-    {
-      "path": "corpus/08-baltic/ningbo/2026/2026-10-30_ningbo-containerised-freight-index-30102_ningbo.md",
-      "bytes": 3135,
-      "sha256": "422be99a248d5cd8d3cea70053a9ab99035165e219c9445b08c70b19bc4bb140"
-    },
-    {
-      "path": "corpus/08-baltic/tanker/2026/2026-10-30_W44_tanker-report-week-44_tanker.html",
-      "bytes": 6751,
-      "sha256": "bbb5b15dd72563d1fe3238c53aad729588406f78280ec29288b10ff1ef460a81"
-    },
-    {
-      "path": "corpus/08-baltic/tanker/2026/2026-10-30_W44_tanker-report-week-44_tanker.md",
-      "bytes": 5579,
-      "sha256": "2facc3bc97e1dc25f2d2111576a42ebb076b7d95101bfa49d2cc7ac4c363a74a"
     },
     {
       "path": "corpus/09-ppa/_root_pdfs/dampier_2026_june.pdf",
