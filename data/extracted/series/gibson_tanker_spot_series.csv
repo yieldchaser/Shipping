@@ -3625,3 +3625,17 @@ issue_date,report_week,category,market_type,route_code,vessel_class,route_descri
 2026-10-23,43,Dirty Tanker Spot,Spot Worldscale,TD20,Suezmax,Suezmax WAF-UKC,-189.0,731.0,920.0,435.0,646.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-23_diesel-drones-and-donald.html
 2026-10-23,43,Dirty Tanker Spot,Spot Worldscale,TD25,Aframax,Aframax USG-UKC,-104.0,652.0,756.0,558.0,728.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-23_diesel-drones-and-donald.html
 2026-10-23,43,Dirty Tanker Spot,Spot Worldscale,TD3C,VLCC,VLCC AG-China,-73.0,1208.0,1281.0,1158.0,1109.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-23_diesel-drones-and-donald.html
+2026-10-30,44,Clean Tanker Spot,$/day TCE,TC1,LR2,LR2 AG-Japan,-25250.0,304000.0,329250.0,281750.0,,,corpus/01-brokers/gibson/html/2026/2026-10-30_freight-squeezes-naphtha-arb.html
+2026-10-30,44,Clean Tanker Spot,$/day TCE,TC18,MR,MR USG-Brazil,22750.0,84750.0,62000.0,65750.0,46500.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-30_freight-squeezes-naphtha-arb.html
+2026-10-30,44,Clean Tanker Spot,$/day TCE,TC5,LR1,LR1 AG-Japan,-21750.0,223000.0,244750.0,208500.0,197500.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-30_freight-squeezes-naphtha-arb.html
+2026-10-30,44,Clean Tanker Spot,$/day TCE,TC7,MR,MR Singapore-EC Aus,-2750.0,75500.0,78250.0,88250.0,66250.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-30_freight-squeezes-naphtha-arb.html
+2026-10-30,44,Clean Tanker Spot,Spot Worldscale,TC1,LR2,LR2 AG-Japan,-72.0,1003.0,1075.0,928.0,,,corpus/01-brokers/gibson/html/2026/2026-10-30_freight-squeezes-naphtha-arb.html
+2026-10-30,44,Clean Tanker Spot,Spot Worldscale,TC18,MR,MR USG-Brazil,129.0,582.0,453.0,467.0,391.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-30_freight-squeezes-naphtha-arb.html
+2026-10-30,44,Clean Tanker Spot,Spot Worldscale,TC5,LR1,LR1 AG-Japan,-84.0,1021.0,1105.0,951.0,935.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-30_freight-squeezes-naphtha-arb.html
+2026-10-30,44,Clean Tanker Spot,Spot Worldscale,TC7,MR,MR Singapore-EC Aus,-11.0,579.0,589.0,536.0,535.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-30_freight-squeezes-naphtha-arb.html
+2026-10-30,44,Dirty Tanker Spot,$/day TCE,TD20,Suezmax,Suezmax WAF-UKC,-11500.0,417750.0,429250.0,429250.0,392500.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-30_freight-squeezes-naphtha-arb.html
+2026-10-30,44,Dirty Tanker Spot,$/day TCE,TD25,Aframax,Aframax USG-UKC,20500.0,229750.0,209250.0,240250.0,225000.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-30_freight-squeezes-naphtha-arb.html
+2026-10-30,44,Dirty Tanker Spot,$/day TCE,TD3C,VLCC,VLCC AG-China,61250.0,1408750.0,1347500.0,1277000.0,1298750.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-30_freight-squeezes-naphtha-arb.html
+2026-10-30,44,Dirty Tanker Spot,Spot Worldscale,TD20,Suezmax,Suezmax WAF-UKC,-17.0,714.0,731.0,728.0,688.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-30_freight-squeezes-naphtha-arb.html
+2026-10-30,44,Dirty Tanker Spot,Spot Worldscale,TD25,Aframax,Aframax USG-UKC,56.0,707.0,652.0,729.0,715.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-30_freight-squeezes-naphtha-arb.html
+2026-10-30,44,Dirty Tanker Spot,Spot Worldscale,TD3C,VLCC,VLCC AG-China,54.0,1263.0,1208.0,1145.0,1177.0,Q4,corpus/01-brokers/gibson/html/2026/2026-10-30_freight-squeezes-naphtha-arb.html

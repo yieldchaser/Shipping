@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 21:24:04Z",
+  "updated_at": "2026-10-30 21:56:28Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -1562,7 +1562,7 @@
     {
       "file": "drewry_ais_chart_series.csv",
       "target_metric": "Drewry AIS chart lines read from the PDF vector paths, all 10 vessel classes (utilisation, tonne-miles, speeds, tonnage at anchor/underway/in port, % laden)",
-      "rows": 83396,
+      "rows": 83699,
       "columns": [
         "vessel_class",
         "sector",
@@ -1645,7 +1645,7 @@
     {
       "file": "drewry_ais_crude_vlcc_series.csv",
       "target_metric": "VLCC fleet intelligence, utilisation, speed & earnings",
-      "rows": 33,
+      "rows": 34,
       "columns": [
         "published_date",
         "report_year",
@@ -1741,7 +1741,7 @@
     {
       "file": "drewry_ais_drybulk_panamax_series.csv",
       "target_metric": "Panamax fleet intelligence, utilisation, speed & earnings",
-      "rows": 23,
+      "rows": 24,
       "columns": [
         "published_date",
         "report_year",
@@ -1837,7 +1837,7 @@
     {
       "file": "drewry_ais_product_lr1_series.csv",
       "target_metric": "LR1 Product tanker fleet intelligence & earnings",
-      "rows": 35,
+      "rows": 36,
       "columns": [
         "published_date",
         "report_year",
@@ -1901,7 +1901,7 @@
     {
       "file": "drewry_opinions_metadata.csv",
       "target_metric": "Drewry Opinions Metadata.Csv",
-      "rows": 558,
+      "rows": 562,
       "columns": [
         "issue_date",
         "year",
@@ -1917,7 +1917,7 @@
     {
       "file": "drewry_wci_series.csv",
       "target_metric": "Drewry Wci",
-      "rows": 9,
+      "rows": 10,
       "columns": [
         "date",
         "composite_index",
@@ -1967,7 +1967,7 @@
     {
       "file": "gibson_bunker_prices_series.csv",
       "target_metric": "Gibson Bunker Prices",
-      "rows": 1036,
+      "rows": 1040,
       "columns": [
         "issue_date",
         "report_week",
@@ -1984,7 +1984,7 @@
     {
       "file": "gibson_spot_chart_daily.csv",
       "target_metric": "Gibson Spot Chart Daily.Csv",
-      "rows": 9330,
+      "rows": 9375,
       "columns": [
         "date",
         "chart",
@@ -1997,7 +1997,7 @@
     {
       "file": "gibson_tanker_spot_series.csv",
       "target_metric": "Gibson Tanker Spot",
-      "rows": 3626,
+      "rows": 3640,
       "columns": [
         "issue_date",
         "report_week",
@@ -3083,7 +3083,7 @@
     {
       "file": "lion_demolition_series.csv",
       "target_metric": "Indicative scrap price assessments ($/LDT)",
-      "rows": 600,
+      "rows": 612,
       "columns": [
         "report_date",
         "week",
@@ -3963,13 +3963,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 721977,
+  "total_master_stacked_rows": 722363,
   "total_master_series_csvs": 167,
-  "total_stacked_rows": 721977,
+  "total_stacked_rows": 722363,
   "total_series_csvs": 167,
   "total_master_workbooks": 1,
   "total_series_count": 167,
-  "total_rows_extracted": 722282,
+  "total_rows_extracted": 722668,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 608,
     "advanced_shipping_demolition_series.csv": 2032,
@@ -4019,24 +4019,24 @@
     "clarksons_snp_sales_series.csv": 1329,
     "compare_vs_clarksons_sales_series.csv": 0,
     "compare_vs_clarksons_snp_sales_series.csv": 411,
-    "drewry_ais_chart_series.csv": 83396,
+    "drewry_ais_chart_series.csv": 83699,
     "drewry_ais_crude_aframax_series.csv": 32,
     "drewry_ais_crude_suezmax_series.csv": 31,
-    "drewry_ais_crude_vlcc_series.csv": 33,
+    "drewry_ais_crude_vlcc_series.csv": 34,
     "drewry_ais_drybulk_capesize_series.csv": 28,
     "drewry_ais_drybulk_handysize_series.csv": 26,
-    "drewry_ais_drybulk_panamax_series.csv": 23,
+    "drewry_ais_drybulk_panamax_series.csv": 24,
     "drewry_ais_drybulk_supramax_series.csv": 24,
     "drewry_ais_lpg_fr_series.csv": 33,
-    "drewry_ais_product_lr1_series.csv": 35,
+    "drewry_ais_product_lr1_series.csv": 36,
     "drewry_ais_product_lr2_series.csv": 32,
-    "drewry_opinions_metadata.csv": 558,
-    "drewry_wci_series.csv": 9,
+    "drewry_opinions_metadata.csv": 562,
+    "drewry_wci_series.csv": 10,
     "fearnleys_drybulk_growth_series.csv": 180,
     "fearnleys_rates_series.csv": 17228,
-    "gibson_bunker_prices_series.csv": 1036,
-    "gibson_spot_chart_daily.csv": 9330,
-    "gibson_tanker_spot_series.csv": 3626,
+    "gibson_bunker_prices_series.csv": 1040,
+    "gibson_spot_chart_daily.csv": 9375,
+    "gibson_tanker_spot_series.csv": 3640,
     "gms_demolition_rankings_series.csv": 1112,
     "gms_demolition_sales_series.csv": 161,
     "gms_market_commentary_series.csv": 1262,
@@ -4091,7 +4091,7 @@
     "ism_handy_freight_series.csv": 17851,
     "lion_deals_series.csv": 1385,
     "lion_demo_sales_series.csv": 115,
-    "lion_demolition_series.csv": 600,
+    "lion_demolition_series.csv": 612,
     "lion_demometer_series.csv": 612,
     "lion_sales_series.csv": 1270,
     "poten_fixtures_series.csv": 100,

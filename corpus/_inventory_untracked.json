@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2953,
-      "untracked_bytes": 2298435446
+      "untracked_files": 2954,
+      "untracked_bytes": 2297628486
     },
     {
       "path": "corpus/02-hellenic",
@@ -27,8 +27,8 @@
     },
     {
       "path": "corpus/06-drewry",
-      "untracked_files": 295,
-      "untracked_bytes": 553113429
+      "untracked_files": 288,
+      "untracked_bytes": 547682493
     },
     {
       "path": "corpus/07-signal",
@@ -47,6 +47,16 @@
     }
   ],
   "entries": [
+    {
+      "path": "corpus/01-brokers/_digests/clarksons/2026/clarksons_30_10_2026_clarksons_hellas_snp_weekly.md",
+      "bytes": 7865,
+      "sha256": "d73d784ff5c1859494bc7b107418d7c15f1f7ab920eeb4194ba3dbf3f860240c"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/lion/2026/lion_30_10_2026_lion_shipbrokers_weekly_market_report_week_44_2026.md",
+      "bytes": 9902,
+      "sha256": "5e79241c010785fee45cdf72b32fe664a2b2d5b72b7d946f9234661ff296a2ce"
+    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -5663,11 +5673,6 @@
       "sha256": "ea2f9d8190b075cb5bb74762a4f4056f8d202e9b112c6415af813fc5aa8e7346"
     },
     {
-      "path": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-30th-Oct-2026.pdf",
-      "bytes": 208497,
-      "sha256": "ea8bbb0eca5be575532ca3dd28d0503c2672a787f286ddbbe8f4a3eb91f6e1cc"
-    },
-    {
       "path": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-7th-August-2026.pdf",
       "bytes": 186084,
       "sha256": "ae4069231c5ba43de6b80c9312ef4d52770ecf74060768b1e66890a9067dbfd7"
@@ -7701,6 +7706,11 @@
       "path": "corpus/01-brokers/gibson/2023/gibson_2023_Gibson-Shipbrokers_week-34.pdf",
       "bytes": 960664,
       "sha256": "98705825d2fed4e4dd41bb9f492a44d129f8eb0333a3d62047701191060f5f7e"
+    },
+    {
+      "path": "corpus/01-brokers/gibson/html/2026/2026-10-30_freight-squeezes-naphtha-arb.html",
+      "bytes": 164091,
+      "sha256": "27bfb7bd87452ad697107d85169f23cb1ae4097e89c9c48f5f36d4c1069a40a8"
     },
     {
       "path": "corpus/01-brokers/intermodal/2021/intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf",
@@ -9801,11 +9811,6 @@
       "path": "corpus/01-brokers/lion/2026/lion_2026_W40_Lion-Weekly-Report-02-October-2026-W40.pdf",
       "bytes": 1852449,
       "sha256": "f6f19434443cd370be0109bd415ee4c6c8063d2565c376703dcdcd5979194806"
-    },
-    {
-      "path": "corpus/01-brokers/lion/2026/lion_2026_W44_Lion-Weekly-Report-30-October-2026-W44.pdf",
-      "bytes": 780321,
-      "sha256": "ac9b4547c5645d7180b1d4fe0c6eb4f269133594308e5cf5fde9c5e6507f30c7"
     },
     {
       "path": "corpus/01-brokers/ssy/2021/ssy_2021_A20210705.pdf",
@@ -40638,11 +40643,6 @@
       "sha256": "d10c68122ee8f62c8750191304a4f3ed0ad56f12f1caed29d0578f83852b9b94"
     },
     {
-      "path": "corpus/06-drewry/ais/Drewry_AIS_Crude_VLCC_Week43_2026.pdf",
-      "bytes": 2072358,
-      "sha256": "537b30e84c64ac094d3c508a78d5dad303d5440b3740b6948af240d869049b60"
-    },
-    {
       "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Capesize_Week25_2026.pdf",
       "bytes": 1560575,
       "sha256": "551ebce5e78d764c946d2de3c01e3275928490e8c0ccfce223f57c9a60e63550"
@@ -40696,11 +40696,6 @@
       "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Panamax_Week39_2026.pdf",
       "bytes": 1633838,
       "sha256": "88160d172162865520664bf991fa57c4f844adaf24b90ec33358bd81450674e3"
-    },
-    {
-      "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Panamax_Week43_2026.pdf",
-      "bytes": 1641963,
-      "sha256": "516ff2f9d2c96243350e9fd41963a33acef028030402fa6e1f9d6e919661f531"
     },
     {
       "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Supramax_Week26_2026.pdf",
@@ -41998,11 +41993,6 @@
       "sha256": "dc54fe7bf4a397356c437fa70fbbcd08140cad2812b2ec537d2d14ff36a0d3e3"
     },
     {
-      "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR1_Week43_2026.pdf",
-      "bytes": 1692835,
-      "sha256": "599bae91208fe1a98ac561121efdcea62be713ec1f9d17f85f8cbcc144ab709d"
-    },
-    {
       "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR2_Week27_2026.pdf",
       "bytes": 1658825,
       "sha256": "5fe469aefc731c81dba4b0bcba47bfe7bd3d9f107bb7ec86b3351535221a54b8"
@@ -42026,26 +42016,6 @@
       "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR2_Week39_2026.pdf",
       "bytes": 1692736,
       "sha256": "cfb74c938d015edb12df749489317f64447354fc874abe5b10dbd3e604116a9e"
-    },
-    {
-      "path": "corpus/06-drewry/opinions/2026/2026-10-29_drewry_wci.md",
-      "bytes": 1398,
-      "sha256": "f224b9aa1c5f9b4ad6e58d7e7629720af00d71cce0a55985e1adbf932e5fd58b"
-    },
-    {
-      "path": "corpus/06-drewry/opinions/2026/2026-10-30_could-indias-steel-vision-2047-create-the-next-breakthrough-for-dry-bulk-demand.md",
-      "bytes": 8741,
-      "sha256": "f0081cce3d1a361ea17ed6a3e003ba50a696bb074cbb879d4fe2b72189bc2585"
-    },
-    {
-      "path": "corpus/06-drewry/opinions/2026/2026-10-30_ethanol-fuelled-vessels-enter-dry-bulk-orderbook-as-owners-seek-fuel-flexibility.md",
-      "bytes": 6196,
-      "sha256": "9e6755a63f3ca00e8f289b1f4475ba019bceefc0f664c50622abe66777a70bec"
-    },
-    {
-      "path": "corpus/06-drewry/opinions/2026/2026-10-30_imo-dcs-2025-is-shippings-decarbonisation-progress-fast-enough.md",
-      "bytes": 7445,
-      "sha256": "cc4608ac103d179aa1a935c4c6b643bada824f7f1015158e34debed6407f2b9c"
     },
     {
       "path": "corpus/07-signal/images/61ee8a276c973711129956ad_image (90).png",

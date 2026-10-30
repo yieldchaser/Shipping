@@ -599,3 +599,15 @@ report_date,week,country,vessel_type,price_low,price_high,price_point,trend,unit
 2026-10-23,43,BANGLADESH,BULKER,500.0,500.0,500.0,very firm,USD_per_LDT,single,lion_23_10_2026_lion_shipbrokers_weekly_market_report_week_43_2026
 2026-10-23,43,BANGLADESH,TANKER,525.0,530.0,527.5,very firm,USD_per_LDT,range,lion_23_10_2026_lion_shipbrokers_weekly_market_report_week_43_2026
 2026-10-23,43,BANGLADESH,CONT/TWEEN,540.0,550.0,545.0,very firm,USD_per_LDT,range,lion_23_10_2026_lion_shipbrokers_weekly_market_report_week_43_2026
+2026-10-30,44,TURKEY,BULKER,290.0,290.0,290.0,stable,USD_per_LDT,single,lion_2026_W44_Lion-Weekly-Report-30-October-2026-W44
+2026-10-30,44,TURKEY,TANKER,300.0,300.0,300.0,stable,USD_per_LDT,single,lion_2026_W44_Lion-Weekly-Report-30-October-2026-W44
+2026-10-30,44,TURKEY,CONT/TWEEN,310.0,310.0,310.0,stable,USD_per_LDT,single,lion_2026_W44_Lion-Weekly-Report-30-October-2026-W44
+2026-10-30,44,PAKISTAN,BULKER,470.0,470.0,470.0,firm,USD_per_LDT,single,lion_2026_W44_Lion-Weekly-Report-30-October-2026-W44
+2026-10-30,44,PAKISTAN,TANKER,500.0,500.0,500.0,firm,USD_per_LDT,single,lion_2026_W44_Lion-Weekly-Report-30-October-2026-W44
+2026-10-30,44,PAKISTAN,CONT/TWEEN,510.0,520.0,515.0,firm,USD_per_LDT,range,lion_2026_W44_Lion-Weekly-Report-30-October-2026-W44
+2026-10-30,44,INDIA,BULKER,470.0,470.0,470.0,slight softening,USD_per_LDT,single,lion_2026_W44_Lion-Weekly-Report-30-October-2026-W44
+2026-10-30,44,INDIA,TANKER,490.0,490.0,490.0,slight softening,USD_per_LDT,single,lion_2026_W44_Lion-Weekly-Report-30-October-2026-W44
+2026-10-30,44,INDIA,CONT/TWEEN,500.0,510.0,505.0,slight softening,USD_per_LDT,range,lion_2026_W44_Lion-Weekly-Report-30-October-2026-W44
+2026-10-30,44,BANGLADESH,BULKER,500.0,500.0,500.0,firm,USD_per_LDT,single,lion_2026_W44_Lion-Weekly-Report-30-October-2026-W44
+2026-10-30,44,BANGLADESH,TANKER,525.0,530.0,527.5,firm,USD_per_LDT,range,lion_2026_W44_Lion-Weekly-Report-30-October-2026-W44
+2026-10-30,44,BANGLADESH,CONT/TWEEN,540.0,550.0,545.0,firm,USD_per_LDT,range,lion_2026_W44_Lion-Weekly-Report-30-October-2026-W44
