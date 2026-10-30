@@ -1,5 +1,270 @@
 [
   {
+    "id": "116a644a-73ea-4c4f-acea-193900281e3d",
+    "date": "2026-10-30",
+    "title": "Fearnleys Tanker Market Wrap-up Oct 2026",
+    "department": "TANK",
+    "slug": "fearnleys-tanker-market-wrap-up-oct-2026",
+    "status": "published",
+    "pdf_url": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/report.pdf",
+    "audio_url": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/summary-en.mp3",
+    "content": [
+      {
+        "id": "7f66c801-3174-407d-abd9-e231982a7105",
+        "type": "heading1",
+        "content": "Much ado - About everything"
+      },
+      {
+        "id": "32638052-70d8-452d-9124-eb455efac40e",
+        "type": "heading2",
+        "content": "Summary and outlook"
+      },
+      {
+        "id": "c33fb06e-72f1-4cbf-93e1-2098ae1973f0",
+        "type": "fullWidthParagraph",
+        "content": "Rates have continued to strengthen m/m, albeit with some volatility the last couple of weeks as freight has started to weigh on oil pricing. A continued stand-off both in the Middle East and Russia still supports tanker demand and risk premiums. In other words the conditions for a (near) best case scenario for high tanker rates persist. \n\nEventually fleet growth both through increasing newbuild deliveries and some return of former shadow tonnage to the compliant market may (slightly) alleviate market tightness. On the other hand, volumes in other areas than the Middle East are expected to continue rising. It does not take much, then, for historically elevated rates to persist for some time. Other downside risks are mainly geopolitical. A resolution of either the Middle East or Russia/Ukraine conflicts would likely reduce rates - to varying degrees depending on the scenario. Neither seems very likely in the near term, although diplomatic efforts continue on both fronts. \n\nFor the near-term, tight vessel availability and strong volumes keep supporting rates. Some help could be needed from oil products pricing for the staggeringly high rates to be 'sustainable', however, as freight is such a significant portion of the cargo value. ",
+        "textAlignment": "justify"
+      },
+      {
+        "id": "c3a471fa-3e80-4db7-b4f1-953a3f4463cc",
+        "type": "fullWidthChartFromFile",
+        "title": "Monthly average rates - keep adjusting that Y-axis",
+        "content": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/rates.png"
+      },
+      {
+        "id": "d6767c7c-4fa5-41db-8025-303d249b3465",
+        "type": "sourceText",
+        "content": "Source: Baltic Exchange, Fearnleys"
+      },
+      {
+        "id": "a61cee58-af65-42c0-bdb3-f1479098c9fe",
+        "type": "heading2",
+        "content": "Volumes above pre-war - demand at all-time-high"
+      },
+      {
+        "id": "86616e0b-ec37-48cc-8cd0-0bc12e4c43e2",
+        "type": "fullWidthParagraph",
+        "content": "Crude oil loadings remain above pre-war levels supported by re-routing and the Atlantic basin. Some U.S. SPR releases and the Errea Wittu FPSO (250 kbpd capacity) start-up expected shortly may add some upside near-term, potentially offset by slightly lower Middle East production if oil infrastructure keeps being attacked - mainly in Saudi Arabia. \n\nCPP loadings still lag, but are also closer to pre-war levels as high refinery margins and better crude availability incentivise higher throughput - where possible. Unless there is a resolution in the Middle East or Ukrainian attacks on Russian refineries subside, there may not be much change to flows near-term. ",
+        "textAlignment": "justify"
+      },
+      {
+        "id": "a0aacac5-46c7-4e18-8de0-2d9c0410818b",
+        "type": "halfWidthChartFromFile",
+        "title": "Global crude oil loadings vs. Dec'25 baseline",
+        "content": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/volc.png"
+      },
+      {
+        "id": "f0fd7951-314b-4dfb-8dcf-0a59aaf8c9e0",
+        "type": "halfWidthChartFromFile",
+        "title": "Global products loadings vs. Dec'25 baseline",
+        "content": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/volp.png"
+      },
+      {
+        "id": "40f3981a-dc6a-4b2b-a8af-c11626582493",
+        "type": "sourceText",
+        "content": "Source: Vortexa"
+      },
+      {
+        "id": "6e713d3e-282d-4688-b7d1-76c40a9cef86",
+        "type": "fullWidthParagraph",
+        "content": "With these rising volumes and continued inefficiencies, tanker demand measured in tonne-days has risen further over the last month. The median added time for Hormuz transits, STS etc. the last few months has been ten days. Then there are attacks on tankers which has taken out a meaningful portion of the transit fleet. Add some congestion and waiting time in other areas too, longer ballast legs etc. and there we are at record tanker demand, not just seasonally adjusted. The biggest gains have been seen for Suez, Afra/LR2 and MRs, partly because VLCCs have been 'sold out' in certain areas at times. \n\nThere are some indications that MEG production has slipped slightly, particularly in Saudi Arabia after Houthi attacks on oil infrastructure, and there has been some fewer Atlantic-East fixtures lately. Add in some more direct sailing from inside the MEG to Asian discharge ports, and demand may be close to a peak, for now. On the other hand, weather related delays, new production projects coming on and U.S. SPR releases may lend support to the upside. ",
+        "textAlignment": "justify"
+      },
+      {
+        "id": "5b7e5536-da1f-405c-b618-3a9d54857329",
+        "type": "fullWidthChartFromFile",
+        "title": "Total tanker tonne-days +2% YTD",
+        "content": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/TDT.png"
+      },
+      {
+        "id": "94ddbd0e-db2e-4445-b433-fe3e2e805580",
+        "type": "halfWidthChartFromFile",
+        "title": "Crude tanker tonne-days +6% YTD",
+        "content": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/TDC.png"
+      },
+      {
+        "id": "2a0666dc-59c1-4227-97aa-aeb5302ec2cd",
+        "type": "halfWidthChartFromFile",
+        "title": "Product tanker tonne-days -3% YTD",
+        "content": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/TDP.png"
+      },
+      {
+        "id": "e9f672c3-d3fe-4ff0-9f68-00ddf8d517f7",
+        "type": "halfWidthChartFromFile",
+        "title": "VLCC tonne-days -2% YTD",
+        "content": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/TDV.png"
+      },
+      {
+        "id": "2b25fdd0-1729-49d8-bd7f-3a3fe8c8d0b8",
+        "type": "halfWidthChartFromFile",
+        "title": "Suezmax tonne-days +6% YTD",
+        "content": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/TDS.png"
+      },
+      {
+        "id": "d70e3416-3b15-46d0-a9e9-d7457205c6a8",
+        "type": "halfWidthChartFromFile",
+        "title": "Afra/LR2 tonne-days +5% YTD",
+        "content": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/TDA.png"
+      },
+      {
+        "id": "f3fc2883-848b-4bee-ab03-ee756a038a47",
+        "type": "halfWidthChartFromFile",
+        "title": "MR tonne-days +5% YTD",
+        "content": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/TDM.png"
+      },
+      {
+        "id": "68f6c5a5-43f3-4b5e-83d7-d77addc7b3a7",
+        "type": "sourceText",
+        "content": "Source: Vortexa"
+      },
+      {
+        "id": "68898207-a82b-40b7-88af-e27ff08e4da6",
+        "type": "heading2",
+        "content": "When freight dominates the oil price"
+      },
+      {
+        "id": "ceead53f-ac3b-4ad5-ba36-14f585ba1d50",
+        "type": "fullWidthParagraph",
+        "content": "The main reason for the recent sell-off in rates was arguably a change in oil pricing. A drop in Dated Brent price vs. futures and diffs coming off too, gave less room for elevated freight, killing some arbitrage opportunities. Stronger relative WTI price after an outsized (though hurricane driven) draw in U.S. crude oil inventories also contributed. \n\nHigh freight, physical premiums vs. futures and some geopolitical developments (mainly U.S. suggestions) have partly weighed on refinery profitability. Freight making up $30-40/bbl at most may have been too rich. So, going forward, product prices may have to rise further for rates to be able to reach similarly elevated levels - or more. That said, if global seaborne flows keep growing and disruptions persist, tanker utilisation is at such high levels that new highs still cannot be ruled out. \n\nFor products the recent run-up in rates has been better accommodated, with high margins and increasing runs. Some open long-haul arbitrages  like gasoil East-West has also helped tie up tonnage, as has continued dirty-ups of clean tonnage. Due to high margins refinery runs have not dropped as much as normal given maintenance this autumn, hence the upside for volumes is slimmer than normal the next few months. On the flipside, if underlying demand recovers like normal, that may support higher margins again - although potentially limited if the el Nino gives a warm winter. ",
+        "textAlignment": "justify"
+      },
+      {
+        "id": "f0d670fd-6512-4546-a73b-747871e543ea",
+        "type": "thirdWidthChartFromFile",
+        "title": "Brent Dated vs. Futures",
+        "content": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/dated.png"
+      },
+      {
+        "id": "9b5c348f-ac11-44bf-bbd5-f15a9b7a207f",
+        "type": "thirdWidthChartFromFile",
+        "title": "WTI vs. Brent and Murban",
+        "content": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/arb.png"
+      },
+      {
+        "id": "a776c350-1c3a-4fc3-9760-664514f1893e",
+        "type": "thirdWidthChartFromFile",
+        "title": "NWE gasoil crack spread vs. Atlantic MR rates",
+        "content": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/crackmr.png"
+      },
+      {
+        "id": "21c4f201-c47f-4bb0-b991-684a0148b33c",
+        "type": "sourceText",
+        "content": "Source: Bloomberg, Baltic Exchange"
+      },
+      {
+        "id": "16e9c368-614a-4734-a3b7-1a3e0b822d2b",
+        "type": "fullWidthParagraph",
+        "content": "Refinery runs outside of the MEG, China and Russia are near maximum utilisation. According to the IEA global runs are 'only' about 1 mbpd lower than the same time last year. However, upside may be limited into the peak demand season, despite strong margins. \n\nDespite U.S. sanction easing, the upside for Russian runs and gasoil exports looks limited near term given refinery constraints. The diesel deal also faces pushback in Congress: Sen. Blumenthal has written to owners of tankers bound for the U.S., and a bipartisan group has warned banks and ports that the imports may violate the 2022 Russian oil import ban despite Treasury’s license, with Democrats raising the prospect of criminal liability. Prosecution under this administration is unlikely, but the legal uncertainty is already deterring U.S. counterparties, and a Democratic win in the midterms would bring subpoenas and investigations. As a result, any more cargoes may end up sold elsewhere in the Americas than delivered to the U.S.\n\nChinese refinery runs are partly constrained by low domestic demand and margins, and partly limited export quotas. Exports in October were on preliminary numbers 400 kbpd lower than September, and quotas going forward do not look to expand. Should they do so, however, this may unlock the next leg up for product tanker demand. Otherwise some refinery expansion in India (and China but impact potentially limited by export quotas) is the main upside, barring geopolitical developments. ",
+        "textAlignment": "justify"
+      },
+      {
+        "id": "dab0a5cf-19c6-48a0-b206-e715820580da",
+        "type": "halfWidthChartFromFile",
+        "title": "Global refinery runs",
+        "content": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/refrun.png"
+      },
+      {
+        "id": "f520936d-a30d-49fe-8e6b-26dd26b40cec",
+        "type": "halfWidthChartFromFile",
+        "title": "U.S. Gulf Coast crack spreads",
+        "content": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/cracksus.png"
+      },
+      {
+        "id": "79f34fa9-73cb-413b-8919-2d94d5f06051",
+        "type": "halfWidthChartFromFile",
+        "title": "Northwest Europe crack spreads",
+        "content": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/cracks.png"
+      },
+      {
+        "id": "38676af0-6424-4455-b3e0-86338c821cf6",
+        "type": "halfWidthChartFromFile",
+        "title": "China Bohai Bay crack spreads",
+        "content": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/cracksch.png"
+      },
+      {
+        "id": "9785ecde-2b57-4d5e-a591-4133ab223234",
+        "type": "sourceText",
+        "content": "Source: IEA, EIA, Bloomberg, Argus"
+      },
+      {
+        "id": "93e4738f-4d9a-4753-9c2e-195d62671e23",
+        "type": "heading2",
+        "content": "More oil to come"
+      },
+      {
+        "id": "48245603-3bb9-41f8-90bd-3b093c87faf5",
+        "type": "fullWidthParagraph",
+        "content": "Following nearly 1.7 mbpd of average growth this year, the EIA expect the main Americas producers and exporters to increase oil production by another 1.1 mbpd next year, the vast majority of which might be exported. With at least a decent portion of this likely to go East, tanker tonne-miles may be well supported. These growth numbers keep being lifted by the relevant energy agencies amid high prices. \n\nThe UAE is also expected to lift production, by more than 0.5 mbpd. The exports may be facilitated by the expanded pipeline (1.5 mbpd added capacity) to Fujairah. While this may boost tanker volumes it might also mean less inefficiencies with smoother logistics. \n\nThe bigger question for next year is if or when there is a resolution to the Middle East conflict. If there is one, there may be significant upside for OPEC production - which is still 6-7 mbpd lower than pre-war. If this all comes back, on top of supply growth elsewhere, it might offset a lot of the prospective tanker inefficiency loss. ",
+        "textAlignment": "justify"
+      },
+      {
+        "id": "2160f341-52f8-4a96-b0c9-c2305d19b0ac",
+        "type": "thirdWidthChartFromFile",
+        "title": "Americas quarterly production change",
+        "content": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/americas.png"
+      },
+      {
+        "id": "df93b882-48ce-4d9c-87fd-03352538902c",
+        "type": "thirdWidthChartFromFile",
+        "title": "UAE expected to ramp up more",
+        "content": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/UAE.png"
+      },
+      {
+        "id": "581626de-0ffe-4776-a4a3-1fc5cc7e2fd7",
+        "type": "thirdWidthChartFromFile",
+        "title": "OPEC production targets vs. actual production",
+        "content": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/opec.png"
+      },
+      {
+        "id": "d8174405-933d-4e7f-a0e0-de08d839cfe1",
+        "type": "sourceText",
+        "content": "Source: EIA"
+      },
+      {
+        "id": "6865e149-4049-41c3-ba90-d0b501350adc",
+        "type": "heading2",
+        "content": "Fleet growth continues, but somewhat offset by Hormuz attacks"
+      },
+      {
+        "id": "a05fef9c-4a2f-496d-b3a5-66e4d240422b",
+        "type": "fullWidthParagraph",
+        "content": "Fleet growth YTD has picked up vs. the last few years, with more coming the next couple of years too. Phase-out is likely to be negligible due to very high rates, unless something happens regulatory or with sanctions. \n\nSpeaking of sanctions, proposed U.S. easing of sanctions to help alleviate some of the pressure the recent shortage of tankers has put on oil pricing could also have some effect, if followed through. Although only a marginal portion of the fleet (3% of VLCCs, 0.6% of Suez and 1% of Afra/LR2) is sanctioned by the U.S. alone, below 20 years and not Iran controlled, there may be some flexibility which may add some more ships to the Hormuz shuttle 'service'. YTD about 20 VLCC which were previously part of the shadow fleet have been seen lifting compliant barrels, mostly out of Hormuz. \n\nOn the other hand, Iranian attacks have (seemingly) disabled nearly as many vessels - and have accelerated in October with Iran also threatening about more. Including the average 25 days added to a normal Hormuz transit turnaround for ships that have been hit, the net fleet addition is still negative combining shadow comeback and attacks. ",
+        "textAlignment": "justify"
+      },
+      {
+        "id": "2db68b75-ab7a-477d-b010-931381d6662c",
+        "type": "halfWidthChartFromFile",
+        "title": "Net fleet growth",
+        "content": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/fleet growth.png"
+      },
+      {
+        "id": "597dc522-93ea-4c94-837f-2893349d6344",
+        "type": "halfWidthChartFromFile",
+        "title": "Annual tanker deliveries",
+        "content": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/fleet.png"
+      },
+      {
+        "id": "f56fbfdf-bed7-494e-b4fb-90646f8554e1",
+        "type": "halfWidthChartFromFile",
+        "title": "Tanker attacks in the Hormuz strait",
+        "content": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/hits.png"
+      },
+      {
+        "id": "4af0289a-a84c-47c2-8107-8fe1ce6c5d46",
+        "type": "halfWidthChartFromFile",
+        "title": "VLCC fleet composition",
+        "content": "https://pbrkapp.blob.core.windows.net/report/116a644a-73ea-4c4f-acea-193900281e3d/share.png"
+      },
+      {
+        "id": "738cf0f6-f306-4f44-9202-2125f75d1905",
+        "type": "sourceText",
+        "content": "Source: Fearnleys, IMO, Signal"
+      }
+    ],
+    "created_at": "2026-10-28T09:05:06.829+00:00",
+    "updated_at": "2026-10-30T07:40:21.059+00:00"
+  },
+  {
     "id": "91477503-1cec-4082-b23c-1f44c7a56040",
     "date": "2026-10-30",
     "title": " Fearnleys Dry Bulk Market Outlook",
