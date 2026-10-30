@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 21:56:28Z",
+  "updated_at": "2026-10-30 22:40:05Z",
   "llamaparse_status": {
     "total_accounts": 11,
     "current_account": 10,
@@ -3458,7 +3458,7 @@
     {
       "file": "signal_reports_metadata.csv",
       "target_metric": "The Signal Group weekly monitors, market reviews, commodity radars, and newsletters metadata (2019\u20132026)",
-      "rows": 454,
+      "rows": 456,
       "columns": [
         "issue_date",
         "year",
@@ -3963,13 +3963,13 @@
       "status": "Verified"
     }
   ],
-  "total_master_stacked_rows": 722363,
+  "total_master_stacked_rows": 722365,
   "total_master_series_csvs": 167,
-  "total_stacked_rows": 722363,
+  "total_stacked_rows": 722365,
   "total_series_csvs": 167,
   "total_master_workbooks": 1,
   "total_series_count": 167,
-  "total_rows_extracted": 722668,
+  "total_rows_extracted": 722670,
   "series_inventory": {
     "advanced_shipping_demo_sales_series.csv": 608,
     "advanced_shipping_demolition_series.csv": 2032,
@@ -4111,7 +4111,7 @@
     "seabrokers_rig_utilisation_monthly_series.csv": 4830,
     "seabrokers_rigs_market_series.csv": 3139,
     "seabrokers_snp_auctions_series.csv": 281,
-    "signal_reports_metadata.csv": 454,
+    "signal_reports_metadata.csv": 456,
     "signal_vessel_counts_series.csv": 120,
     "singletons_sales_series.csv": 46,
     "ssy_capesize_index_series.csv": 924,
