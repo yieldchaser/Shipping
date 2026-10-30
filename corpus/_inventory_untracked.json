@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2951,
-      "untracked_bytes": 2297446628
+      "untracked_files": 2953,
+      "untracked_bytes": 2298435446
     },
     {
       "path": "corpus/02-hellenic",
@@ -5663,6 +5663,11 @@
       "sha256": "ea2f9d8190b075cb5bb74762a4f4056f8d202e9b112c6415af813fc5aa8e7346"
     },
     {
+      "path": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-30th-Oct-2026.pdf",
+      "bytes": 208497,
+      "sha256": "ea8bbb0eca5be575532ca3dd28d0503c2672a787f286ddbbe8f4a3eb91f6e1cc"
+    },
+    {
       "path": "corpus/01-brokers/clarksons/2026/clarksons_2026_Weekly-Sales-7th-August-2026.pdf",
       "bytes": 186084,
       "sha256": "ae4069231c5ba43de6b80c9312ef4d52770ecf74060768b1e66890a9067dbfd7"
@@ -9796,6 +9801,11 @@
       "path": "corpus/01-brokers/lion/2026/lion_2026_W40_Lion-Weekly-Report-02-October-2026-W40.pdf",
       "bytes": 1852449,
       "sha256": "f6f19434443cd370be0109bd415ee4c6c8063d2565c376703dcdcd5979194806"
+    },
+    {
+      "path": "corpus/01-brokers/lion/2026/lion_2026_W44_Lion-Weekly-Report-30-October-2026-W44.pdf",
+      "bytes": 780321,
+      "sha256": "ac9b4547c5645d7180b1d4fe0c6eb4f269133594308e5cf5fde9c5e6507f30c7"
     },
     {
       "path": "corpus/01-brokers/ssy/2021/ssy_2021_A20210705.pdf",
