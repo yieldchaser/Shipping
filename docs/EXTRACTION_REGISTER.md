@@ -25,11 +25,11 @@ This register is the authoritative single source of truth for the end-to-end ext
 | **ISM** | 112 | 2021–2026 | `CLOSED` | `ism_handy_freight_series.csv` (17,629 rows for Handy/Supramax routes)<br>`ism_coaster_freight_series.csv` (12,319 rows for coaster routes)<br>112 `.charts.json` + 112 `.md` files (29,948 rows total across 2 series) | General regional prose overview | 112/112 reports processed (100.0%); rolling 52-week axes and dual-axis least-squares calibration verified; separated into dedicated Coaster and Handy/Supramax series | PyMuPDF vector tick & polyline chart parser (`run_ism.py`, `run_ism_series.py`) |
 | **Poten & Partners** | 1,087 | 2004–2026 | `CLOSED` | `poten_opinions_metadata.csv` (1,096 rows)<br>`poten_top_charterers_series.csv` (776 rows)<br>`poten_fixtures_series.csv` (100 rows)<br>1,087 `.tables.json` + 1,087 `.md` files (1,942 rows across 3 series) | None (100% cover-to-cover across all 1,087 PDFs; 0 chart axis dumps; 0 hallucinated tables) | 1,087/1,087 reports stamped with exact ISO issue_date (100.0%, 0 unhandled date exceptions); 0 files with chart tick spam; 0 files with fake zero tables; all 1,087 synchronized to corpus/04-poten/; unbroken coverage from 2004 to 2026 | Local PyMuPDF geometry extraction ($0 cost, 0 credit burn) (`run_poten_clean.py`) |
 | **Drewry AIS** | 291 | 2022–2026 | `REBUILT 2026-10-12` | 10 per-class KPI CSVs, one row per report (291 rows):<br>`drewry_ais_product_lr1_series.csv` (35 rows)<br>`drewry_ais_crude_vlcc_series.csv` (33 rows)<br>`drewry_ais_lpg_fr_series.csv` (33 rows)<br>`drewry_ais_crude_aframax_series.csv` (32 rows)<br>`drewry_ais_product_lr2_series.csv` (32 rows)<br>`drewry_ais_crude_suezmax_series.csv` (31 rows)<br>`drewry_ais_drybulk_capesize_series.csv` (28 rows)<br>`drewry_ais_drybulk_handysize_series.csv` (26 rows)<br>`drewry_ais_drybulk_panamax_series.csv` (23 rows)<br>`drewry_ais_drybulk_supramax_series.csv` (24 rows)<br>`drewry_ais_chart_series.csv` (82,793 chart points)<br>291 `.tables.json` + 291 `.md` files | Right-axis lines (Baltic spot, bunker) and the trading-status bar chart; single-point lines (week 1 of a new year) have no path | KPI tiles, commentary and glossary read from the PDF text layer; every left-axis chart line read from the vector path end points, calibrated to the chart's own tick labels. 3,388 KPI tiles (issues from week 6) reproduced from the chart lines with no mismatch; 9 could not be checked (six tiles print -100%, one prints a level, two need a week-1 point, which is drawn without a path) | PyMuPDF text layer (`run_drewry_ais.py`) + vector path reader (`run_drewry_ais_charts.py`), no API cost |
-| **Hellenic Iron Ore & Freight** | 2,242 (1,171 dates) | 2021–2026 | `CLOSED` | `hellenic_iron_ore_daily_series.csv` (1,197 rows)<br>`hellenic_capesize_c3_c5_series.csv` (1,164 rows)<br>1,171 `.tables.json` + 1,171 `.md` files (2,335 rows across 2 series) | Duplicate issue uploads deduplicated to single authoritative issue per business day | 1,171/1,171 daily issues (100.0%); unbroken 5-year daily iron ore spot/futures and Capesize C3/C5 freight series; 2D coordinate grid parser 100% PASS | PyMuPDF 2D spatial coordinate parser (`run_hellenic_iron_ore.py`) |
+| **Hellenic Iron Ore & Freight** | 2,242 (1,171 dates) | 2021–2026 | `CLOSED` | `hellenic_iron_ore_daily_series.csv` (1,198 rows)<br>`hellenic_capesize_c3_c5_series.csv` (1,164 rows)<br>1,171 `.tables.json` + 1,171 `.md` files (2,335 rows across 2 series) | Duplicate issue uploads deduplicated to single authoritative issue per business day | 1,171/1,171 daily issues (100.0%); unbroken 5-year daily iron ore spot/futures and Capesize C3/C5 freight series; 2D coordinate grid parser 100% PASS | PyMuPDF 2D spatial coordinate parser (`run_hellenic_iron_ore.py`) |
 
 ---
 
-## 2. Master Stacked Series Inventory (722,169 Total Rows across 167 CSVs + 1 Master Workbook)
+## 2. Master Stacked Series Inventory (722,228 Total Rows across 167 CSVs + 1 Master Workbook)
 
 | Series CSV | Target Metric / Commodity / Segment | Total Stacked Rows | Status |
 | :--- | :--- | :---: | :---: |
@@ -46,8 +46,8 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [athenian_indicative_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/athenian_indicative_demolition_series.csv) |  | 3,088 | Verified |
 | [athenian_market_commentary_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/athenian_market_commentary_series.csv) |  | 6 | Verified |
 | [athenian_yearly_demolition_volume_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/athenian_yearly_demolition_volume_series.csv) |  | 4,106 | Verified |
-| [baltic_ncfi_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/baltic_ncfi_series.csv) |  | 2,057 | Verified |
-| [baltic_reports_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/baltic_reports_metadata.csv) |  | 2,244 | Verified |
+| [baltic_ncfi_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/baltic_ncfi_series.csv) |  | 2,061 | Verified |
+| [baltic_reports_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/baltic_reports_metadata.csv) |  | 2,249 | Verified |
 | [bancosta_commodities_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/bancosta_commodities_series.csv) | Energy, metals, agricultural benchmarks | 8,600 | Verified |
 | [bancosta_container_fixtures_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/bancosta_container_fixtures_series.csv) | Containership reported charter fixtures ($/day) | 946 | Verified |
 | [bancosta_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/bancosta_demolition_series.csv) | Indicative demolition assessments ($/LDT) | 1,059 | Verified |
@@ -63,7 +63,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [best_oasis_exchange_rates_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/best_oasis_exchange_rates_series.csv) |  | 170 | Verified |
 | [best_oasis_market_commentary_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/best_oasis_market_commentary_series.csv) |  | 1,031 | Verified |
 | [breakwave_fundamentals_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/breakwave_fundamentals_series.csv) |  | 2,781 | Verified |
-| [breakwave_insights_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/breakwave_insights_metadata.csv) |  | 3,242 | Verified |
+| [breakwave_insights_metadata.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/breakwave_insights_metadata.csv) |  | 3,244 | Verified |
 | [carriers_bda_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/carriers_bda_series.csv) | Subcontinent scrap price assessments ($/LDT) | 402 | Verified |
 | [carriers_bspa_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/carriers_bspa_series.csv) | Secondhand 5Y price assessments ($M) with visual sentiment | 804 | Verified |
 | [carriers_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/carriers_demolition_series.csv) | Demolition reported sales fixtures ($/LDT) | 174 | Verified |
@@ -110,18 +110,18 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [hellenic_capesize_c3_c5_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_capesize_c3_c5_series.csv) | Daily Capesize iron ore freight rates C3 & C5 ($/t) | 1,164 | Verified |
 | [hellenic_gms_demolition_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_gms_demolition_series.csv) |  | 1,112 | Verified |
 | [hellenic_gms_port_positions_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_gms_port_positions_series.csv) |  | 3,041 | Verified |
-| [hellenic_iron_ore_commentary_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_commentary_series.csv) |  | 1,205 | Verified |
-| [hellenic_iron_ore_daily_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_daily_series.csv) | Daily iron ore spot, futures (DCE, SGX), steel benchmarks | 1,197 | Verified |
-| [hellenic_iron_ore_pdf_averages_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_averages_series.csv) | MMi Daily Iron Ore weekly/monthly brand price averages & historical benchmarks | 11,819 | Verified |
+| [hellenic_iron_ore_commentary_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_commentary_series.csv) |  | 1,206 | Verified |
+| [hellenic_iron_ore_daily_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_daily_series.csv) | Daily iron ore spot, futures (DCE, SGX), steel benchmarks | 1,198 | Verified |
+| [hellenic_iron_ore_pdf_averages_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_averages_series.csv) | MMi Daily Iron Ore weekly/monthly brand price averages & historical benchmarks | 11,825 | Verified |
 | [hellenic_iron_ore_pdf_brand_specs_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_brand_specs_series.csv) | MMi Daily Iron Ore physical brand technical specifications (Fe, SiO2, Al2O3, P) | 32,564 | Verified |
-| [hellenic_iron_ore_pdf_brands_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_brands_series.csv) |  | 32,562 | Verified |
-| [hellenic_iron_ore_pdf_dashboard_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_dashboard_series.csv) |  | 17,904 | Verified |
+| [hellenic_iron_ore_pdf_brands_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_brands_series.csv) |  | 32,582 | Verified |
+| [hellenic_iron_ore_pdf_dashboard_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_dashboard_series.csv) |  | 17,916 | Verified |
 | [hellenic_iron_ore_pdf_domestic_concentrate_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_domestic_concentrate_series.csv) |  | 5,820 | Verified |
 | [hellenic_iron_ore_pdf_freight_rates_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_freight_rates_series.csv) | MMi Daily Iron Ore seaborne bulk freight rate benchmarks ($/t) | 22,781 | Verified |
-| [hellenic_iron_ore_pdf_futures_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_futures_series.csv) |  | 2,392 | Verified |
+| [hellenic_iron_ore_pdf_futures_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_futures_series.csv) |  | 2,393 | Verified |
 | [hellenic_iron_ore_pdf_import_volumes_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_import_volumes_series.csv) | MMi Daily Iron Ore major Chinese port import volumes & arrival statistics | 21,561 | Verified |
 | [hellenic_iron_ore_pdf_index_comparisons_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_index_comparisons_series.csv) | MMi Daily Iron Ore 62% vs 58% vs 65% spread and index comparisons | 14,826 | Verified |
-| [hellenic_iron_ore_pdf_indices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_indices_series.csv) |  | 11,642 | Verified |
+| [hellenic_iron_ore_pdf_indices_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_indices_series.csv) |  | 11,648 | Verified |
 | [hellenic_iron_ore_pdf_normalisations_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_normalisations_series.csv) | MMi Daily Iron Ore normalized value-in-use differentials across key brands | 28,990 | Verified |
 | [hellenic_iron_ore_pdf_port_differentials_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_port_differentials_series.csv) |  | 18,672 | Verified |
 | [hellenic_iron_ore_pdf_port_inventories_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_port_inventories_series.csv) |  | 6,984 | Verified |
@@ -129,7 +129,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [hellenic_iron_ore_pdf_steel_mill_pnl_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_steel_mill_pnl_series.csv) |  | 9,627 | Verified |
 | [hellenic_iron_ore_pdf_steel_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_pdf_steel_series.csv) |  | 8,509 | Verified |
 | [hellenic_iron_ore_table_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_iron_ore_table_series.csv) |  | 5,614 | Verified |
-| [hellenic_smm_market_drivers_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_smm_market_drivers_series.csv) |  | 32 | Verified |
+| [hellenic_smm_market_drivers_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_smm_market_drivers_series.csv) |  | 33 | Verified |
 | [hellenic_vv_benchmark_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_vv_benchmark_sales_series.csv) |  | 124 | Verified |
 | [hellenic_vv_matrix_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_vv_matrix_series.csv) |  | 20,024 | Verified |
 | [hellenic_vv_sales_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/hellenic_vv_sales_series.csv) |  | 2,102 | Verified |
@@ -202,7 +202,7 @@ This register is the authoritative single source of truth for the end-to-end ext
 | [xclusiv_secondhand_series.csv](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/xclusiv_secondhand_series.csv) | Dry bulk & tanker secondhand price matrix ($M) | 8,657 | Verified |
 | [corpus_publication_cadence_and_audit.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/corpus_publication_cadence_and_audit.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
 | [gibson_master_tanker_series.xlsx](file:///c:/Users/Dell/Github/Shipping/data/extracted/series/gibson_master_tanker_series.xlsx) | Master econometric workbook (6 sheets: Overview, Recurring Catalog, Coal Spread, Macro Lead, Vessel Tightness, Shipment Volume Growth) | 305 | Verified |
-| **TOTAL** | **Master Stacked Repository Footprint (167 CSVs + 1 Master Workbook)** | **722,169** | **100.0% Pass** |
+| **TOTAL** | **Master Stacked Repository Footprint (167 CSVs + 1 Master Workbook)** | **722,228** | **100.0% Pass** |
 
 ---
 
