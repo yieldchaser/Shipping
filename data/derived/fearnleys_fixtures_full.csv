@@ -581005,3 +581005,7 @@ id,date,charterer,owner,vessel,imo,rate,period,route,segment,department,commodit
 878199,2026-10-30,,,Dolphin,,,12 month,,Handysize,BULK,,,,,
 878200,2026-10-30,,,Montrachtet,,,14 to 17 month,,Panamax,BULK,,,,,
 878201,2026-10-30,,,Marit Selmer,,,,,Handymax,BULK,clean cargo,,,,
+878204,2026-10-30,,,,,,,,Panamax,BULK,Rapeseeds,,,,
+878205,2026-10-30,,,ADRIATA,,,,,Panamax,BULK,,,,,CAN GIVE PROMPT DELIVERY BY ARRANGEMENT
+878206,2026-10-30,Ternium,,,,,,,Panamax,BULK,Small Coke,,,,
+878207,2026-10-30,Exiros,,,,,,,Panamax,BULK,Metcoke,,,,CAN`T ACCEPT HANDY SIZE; CANT COMMINGLE; SF 72-73; TUP PRAIA MOLE CHRTRS ACCT
