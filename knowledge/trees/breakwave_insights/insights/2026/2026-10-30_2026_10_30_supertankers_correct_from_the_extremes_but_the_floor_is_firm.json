@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-10-30_2026_10_30_supertankers_correct_from_the_extremes_but_the_floor_is_firm__root",
+  "doc_id": "breakwave_insights_insights_2026-10-30_2026_10_30_supertankers_correct_from_the_extremes_but_the_floor_is_firm",
+  "parent_id": null,
+  "title": "Supertankers Correct from the Extremes, but the Floor Is Firm",
+  "section_path": [
+    "Supertankers Correct from the Extremes, but the Floor Is Firm"
+  ],
+  "section_path_text": "Supertankers Correct from the Extremes, but the Floor Is Firm",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Panagiota Kinti\nThe VLCC market spent the past week retreating from record highs, but it has not softened by much. Lloyd's List describes crude tankers as in correction after the Hormuz-driven \"super spike\", with spot rates still at levels unheard of before the crisis and no floor yet found. Clarksons reported VLCC spot earnings down almost 25% on the week to $541,000/day for eco-scrubber units.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "aframax",
+    "china",
+    "atlantic",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "are",
+    "gulf",
+    "iran",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 856,
+  "source_path": "reports/breakwave/2026/2026-10-30_supertankers-correct-from-the-extremes-but-the-floor-is-firm.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/10/30/supertankers-correct-from-the-extremes-but-the-floor-is-firm",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-10-30_2026_10_30_supertankers_correct_from_the_extremes_but_the_floor_is_firm__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-10-30_2026_10_30_supertankers_correct_from_the_extremes_but_the_floor_is_firm",
+      "parent_id": "breakwave_insights_insights_2026-10-30_2026_10_30_supertankers_correct_from_the_extremes_but_the_floor_is_firm__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Panagiota Kinti\nThe VLCC market spent the past week retreating from record highs, but it has not softened by much. Lloyd's List describes crude tankers as in correction after the Hormuz-driven \"super spike\", with spot rates still at levels unheard of before the crisis and no floor yet found.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "aframax",
+        "china",
+        "atlantic",
+        "europe",
+        "us_gulf",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 854,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "node_id": "baltic_dry_2026-10-30_2026_10_30_w44_bulk_report_week_44_dry__root",
+  "doc_id": "baltic_dry_2026-10-30_2026_10_30_w44_bulk_report_week_44_dry",
+  "parent_id": null,
+  "title": "Bulk report - Week 44",
+  "section_path": [
+    "Bulk report - Week 44"
+  ],
+  "section_path_text": "Bulk report - Week 44",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Capesize\nThe market gathered momentum through the week, with improving sentiment and stronger fixing activity across both basins driving a broad-based recovery. The Pacific initially remained relatively subdued, with C5 fixtures holding around the high $13s to $14 as miners maintained a measured approach. However, increased competition for tonnage saw rates push through the $14 mark midweek, eventually reaching the low $15s by Thursday, reflecting a noticeably stronger market.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "west_africa",
+    "europe",
+    "india"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1160,
+  "source_path": "reports/baltic/dry/2026/2026-10-30_W44_bulk-report-week-44_dry.html",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "baltic_dry_2026-10-30_2026_10_30_w44_bulk_report_week_44_dry__s01_capesize",
+      "doc_id": "baltic_dry_2026-10-30_2026_10_30_w44_bulk_report_week_44_dry",
+      "parent_id": "baltic_dry_2026-10-30_2026_10_30_w44_bulk_report_week_44_dry__root",
+      "title": "Capesize",
+      "section_path": [
+        "Capesize"
+      ],
+      "section_path_text": "Capesize",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The market gathered momentum through the week, with improving sentiment and stronger fixing activity across both basins driving a broad-based recovery. The Pacific initially remained relatively subdued, with C5 fixtures holding around the high $13s to $14 as miners maintained a measured approach.",
+      "keywords": [
+        "china",
+        "brazil",
+        "atlantic",
+        "pacific",
+        "west_africa",
+        "activity",
+        "sentiment",
+        "stronger"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 248,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_dry_2026-10-30_2026_10_30_w44_bulk_report_week_44_dry__s02_panamax_kamsarmax",
+      "doc_id": "baltic_dry_2026-10-30_2026_10_30_w44_bulk_report_week_44_dry",
+      "parent_id": "baltic_dry_2026-10-30_2026_10_30_w44_bulk_report_week_44_dry__root",
+      "title": "Panamax-Kamsarmax",
+      "section_path": [
+        "Panamax-Kamsarmax"
+      ],
+      "section_path_text": "Panamax-Kamsarmax",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Atlantic remained the weaker basin throughout the week, with limited cargo enquiry and a growing tonnage count keeping sentiment firmly in charterers' favour. Transatlantic demand remained thin, while subdued grain and mineral activity provided little support to rates.",
+      "keywords": [
+        "china",
+        "australia",
+        "atlantic",
+        "pacific",
+        "india",
+        "grain",
+        "dwt",
+        "coast"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 319,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_dry_2026-10-30_2026_10_30_w44_bulk_report_week_44_dry__s03_ultramax_supramax",
+      "doc_id": "baltic_dry_2026-10-30_2026_10_30_w44_bulk_report_week_44_dry",
+      "parent_id": "baltic_dry_2026-10-30_2026_10_30_w44_bulk_report_week_44_dry__root",
+      "title": "Ultramax/Supramax",
+      "section_path": [
+        "Ultramax/Supramax"
+      ],
+      "section_path_text": "Ultramax/Supramax",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The Atlantic was negative this week, with rates dropping in the US Gulf as grains and petcoke stems became scarce. A 64,000-dwt fixed a wood pellets stem to the UK at $31,000 and a similar type was fixed with petcoke via Panama Canal to China at $31,250, but another 63,000-dwt fixed a grains stem to China via Cape of Good Hope at $28,500, which was apparently the only direction the vessel was able to consider.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "atlantic",
+        "pacific",
+        "west_africa",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 359,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_dry_2026-10-30_2026_10_30_w44_bulk_report_week_44_dry__s04_handysize",
+      "doc_id": "baltic_dry_2026-10-30_2026_10_30_w44_bulk_report_week_44_dry",
+      "parent_id": "baltic_dry_2026-10-30_2026_10_30_w44_bulk_report_week_44_dry__root",
+      "title": "Handysize",
+      "section_path": [
+        "Handysize"
+      ],
+      "section_path_text": "Handysize",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The market was subdued all week, and the HS7TC average finished the week slightly below last week's close, amid positional trading. EC South America remained the firmest area of the Atlantic, but rates seemed to plateau amid slow trading, whilst the US Gulf dropped in the second half of the week with sources saying trips Skaw-Passero were now bid in the mid-teens, whilst a nice 40,000-dwt fixed basis SW Pass for a trip Atlantic Colombia at $16,000.",
+      "keywords": [
+        "atlantic",
+        "pacific",
+        "europe",
+        "us_gulf",
+        "dwt",
+        "fixed",
+        "was",
+        "america"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 212,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

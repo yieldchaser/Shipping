@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T16:06:33Z",
-  "current_date": "2026-10-29",
+  "generated_at": "2026-10-30T15:54:35Z",
+  "current_date": "2026-10-30",
   "warning_count": 3,
   "high_severity_count": 0,
   "status_counts": {
@@ -21,7 +21,7 @@
       "severity": "watch",
       "kind": "source_freshness",
       "key": "hellenic/vessel_valuations",
-      "message": "hellenic/vessel_valuations is watch at 30 days since the latest dated document.",
+      "message": "hellenic/vessel_valuations is watch at 31 days since the latest dated document.",
       "details": {
         "label": "hellenic/vessel_valuations",
         "source": "hellenic",
@@ -29,7 +29,7 @@
         "status": "watch",
         "cadence_days": 14,
         "latest_date": "2026-09-29",
-        "age_days": 30,
+        "age_days": 31,
         "latest_gap_days": 6,
         "max_recent_gap_days": 8,
         "dated_doc_count": 274,
@@ -40,13 +40,20 @@
       "severity": "watch",
       "kind": "topic_divergence",
       "key": "oil_and_opec",
-      "message": "Oil and OPEC shows recent tone divergence: breakwave reads cautiously_bullish while hellenic reads neutral.",
+      "message": "Oil and OPEC shows recent tone divergence: breakwave reads cautiously_bullish while baltic reads neutral.",
       "details": {
         "topic_id": "oil_and_opec",
         "title": "Oil and OPEC",
         "severity": "watch",
-        "score_diff": 0.77,
+        "score_diff": 0.81,
         "source_scores": [
+          {
+            "source": "baltic",
+            "avg_tone_score": -0.21,
+            "dominant_tone": "cautiously_bearish",
+            "doc_count": 6,
+            "latest_date": "2026-10-30"
+          },
           {
             "source": "hellenic",
             "avg_tone_score": -0.17,
@@ -55,18 +62,11 @@
             "latest_date": "2026-10-28"
           },
           {
-            "source": "baltic",
-            "avg_tone_score": -0.12,
-            "dominant_tone": "cautiously_bearish",
-            "doc_count": 6,
-            "latest_date": "2026-10-23"
-          },
-          {
             "source": "breakwave_insights",
-            "avg_tone_score": 0.5,
-            "dominant_tone": "constructive",
+            "avg_tone_score": 0.17,
+            "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-10-29"
+            "latest_date": "2026-10-30"
           },
           {
             "source": "breakwave",
@@ -76,20 +76,27 @@
             "latest_date": "2026-10-20"
           }
         ],
-        "message": "Oil and OPEC shows recent tone divergence: breakwave reads cautiously_bullish while hellenic reads neutral."
+        "message": "Oil and OPEC shows recent tone divergence: breakwave reads cautiously_bullish while baltic reads neutral."
       }
     },
     {
       "severity": "watch",
       "kind": "topic_divergence",
       "key": "vlcc_and_suezmax",
-      "message": "VLCC and Suezmax shows recent tone divergence: breakwave reads cautiously_bullish while hellenic reads neutral.",
+      "message": "VLCC and Suezmax shows recent tone divergence: breakwave reads cautiously_bullish while baltic reads neutral.",
       "details": {
         "topic_id": "vlcc_and_suezmax",
         "title": "VLCC and Suezmax",
         "severity": "watch",
-        "score_diff": 0.77,
+        "score_diff": 0.81,
         "source_scores": [
+          {
+            "source": "baltic",
+            "avg_tone_score": -0.21,
+            "dominant_tone": "cautiously_bearish",
+            "doc_count": 6,
+            "latest_date": "2026-10-30"
+          },
           {
             "source": "hellenic",
             "avg_tone_score": -0.17,
@@ -98,18 +105,11 @@
             "latest_date": "2026-10-28"
           },
           {
-            "source": "baltic",
-            "avg_tone_score": -0.12,
-            "dominant_tone": "cautiously_bearish",
-            "doc_count": 6,
-            "latest_date": "2026-10-23"
-          },
-          {
             "source": "breakwave_insights",
-            "avg_tone_score": 0.29,
-            "dominant_tone": "constructive",
+            "avg_tone_score": 0.17,
+            "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-10-28"
+            "latest_date": "2026-10-30"
           },
           {
             "source": "breakwave",
@@ -119,7 +119,7 @@
             "latest_date": "2026-10-20"
           }
         ],
-        "message": "VLCC and Suezmax shows recent tone divergence: breakwave reads cautiously_bullish while hellenic reads neutral."
+        "message": "VLCC and Suezmax shows recent tone divergence: breakwave reads cautiously_bullish while baltic reads neutral."
       }
     }
   ]
