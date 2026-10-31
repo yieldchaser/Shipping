@@ -581051,3 +581051,19 @@ id,date,charterer,owner,vessel,imo,rate,period,route,segment,department,commodit
 878265,2026-10-31,,EXODUS CHARTERING SERVICES,LIMCO SILVER,,,,,Panamax,BULK,PROJECT / STEELS,,,,"IMDG FITTED, IMO CLASS 1 ACCEPTED"
 878266,2026-10-31,,,,,,,,Panamax,BULK,Bulk Mnrls,,,,sdbc oa ok but grd
 878267,2026-10-31,HG Int'l,,,,,,,Panamax,BULK,,,,,Gless
+878268,2026-10-31,Comc,,,,,,,Panamax,BULK,Rice,,,,fully firm / Exclusive requirements; part cargo can try m/m
+878269,2026-10-31,Comc Or Nomi,,,,,,,Panamax,BULK,Rice,,,,chopt
+878270,2026-10-31,Comc Or Nomi,,,,,,,Panamax,BULK,Corn,,,,fully firm / Exclusive requirements
+878271,2026-10-31,Comc Or Nomi,,,,,,,Panamax,BULK,Rice,,,,fully firm / Exclusive requirements // Please do not circulate
+878272,2026-10-31,Comc Or Nomi,,,,,,,Panamax,BULK,Rice,,,,chopt
+878273,2026-10-31,Comc,,,,,,,Panamax,BULK,Rice,,,,fully firm / Exclusive requirements; chopt
+878274,2026-10-31,Comc,,,,,,,Panamax,BULK,Rice,,,,fully firm / Exclusive requirements; Please do not circulate; chopt; try vsls dates
+878275,2026-10-31,Comc,,,,,,,Panamax,BULK,Rice,,,,chopt
+878276,2026-10-31,Comc,,,,,,,Panamax,BULK,Corn,,,,fully firm / Exclusive requirements
+878277,2026-10-31,Comc Or Nomi,,,,,,,Panamax,BULK,Sand,,,,fully firm / Exclusive requirements
+878278,2026-10-31,Comc Or Nomi,,,,,,,Panamax,BULK,Rice,,,,fully firm / Exclusive requirements
+878279,2026-10-31,Comc Or Nomi,,,,,,,Panamax,BULK,Steel Billets,,,,fully firm / Exclusive requirements
+878280,2026-10-31,Comc,,,,,,,Panamax,BULK,Steel Billets,,,,Please do not circulate
+878281,2026-10-31,Comc,,,,,,,Panamax,BULK,Sand,,,,chopt
+878282,2026-10-31,Comc Or Nomi,,,,,,,Panamax,BULK,Steel Billets,,,,
+878283,2026-10-31,Comc Or Nomi,,,,,,,Panamax,BULK,Sugar,,,,1sp/1sp
