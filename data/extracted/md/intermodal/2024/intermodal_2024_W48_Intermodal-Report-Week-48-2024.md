@@ -278,3 +278,73 @@ Turkey appears to be close to entering a recession, as the country's GDP contrac
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LADY CEDROS | 151,249 | 17,870 | 1998 | NKK, Japan | BC | $ 467/Ldt | undisclosed |  |
 | JIMEI SHUNHAO | 91,443 | 23,441 | 1995 | MITSUBISHI, Japan | BC | $ 460/Ldt | undisclosed | as is UAE |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 29-Nov-24 | 28-Nov-24 | 27-Nov-24 | 26-Nov-24 | 25-Nov-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.194 | 4.242 | 4.242 | 4.302 | 4.263 | -4.9% |
+| Stock Exchange Data | S&P 500 | 6,032.38 | 5,998.74 | 5,998.74 | 6,021.63 | 5,987.37 | 1.1% |
+| Stock Exchange Data | Nasdaq | 20,930.37 | 20,744.49 | 20,744.49 | 20,922.90 | 20,804.89 | 0.7% |
+| Stock Exchange Data | Dow Jones | 44,910.65 | 44,722.06 | 44,722.06 | 44,860.31 | 44,736.57 | 1.4% |
+| Stock Exchange Data | FTSE 100 | 8,287.30 | 8,281.22 | 8,274.75 | 8,258.61 | 8,291.68 | 0.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,524.88 | 4,521.54 | 4,514.10 | 4,505.58 | 4,526.42 | 0.4% |
+| Stock Exchange Data | CAC40 | 7,235.11 | 7,179.25 | 7,143.03 | 7,194.51 | 7,257.47 | -0.3% |
+| Stock Exchange Data | Xetra Dax | 19,626.45 | 19,425.73 | 19,261.75 | 19,295.98 | 19,405.20 | 1.6% |
+| Stock Exchange Data | Nikkei | 38,208.03 | 38,349.06 | 38,134.97 | 38,442.00 | 38,780.14 | -0.2% |
+| Stock Exchange Data | Hang Seng | 19,423.61 | 19,366.96 | 19,603.13 | 19,159.20 | 19,150.99 | 1.0% |
+| Stock Exchange Data | DJ US Maritime | 415.27 | 414.78 | 414.78 | 426.04 | 428.30 | -1.4% |
+| Currencies | € / $ | 1.06 | 1.06 | 1.06 | 1.05 | 1.05 | 1.5% |
+| Currencies | £ / $ | 1.27 | 1.27 | 1.27 | 1.26 | 1.26 | 1.6% |
+| Currencies | $ / ¥ | 149.75 | 151.54 | 151.10 | 153.10 | 154.21 | -3.2% |
+| Currencies | $ / NoK | 11.02 | 11.05 | 11.03 | 11.15 | 11.06 | -0.5% |
+| Currencies | Yuan / $ | 7.24 | 7.24 | 7.25 | 7.25 | 7.24 | 0.0% |
+| Currencies | Won / $ | 1,394.67 | 1,393.73 | 1,388.58 | 1,396.24 | 1,398.06 | -0.6% |
+| Currencies | $ INDEX | 105.74 | 106.14 | 106.08 | 107.01 | 106.82 | -1.7% |
+
+## Bunker Prices
+
+| Grade | Port | 29-Nov-24 | 22-Nov-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 648.0 | 668.0 | -3.0% |
+| MGO | Houston | 673.0 | 671.0 | 0.3% |
+| MGO | Singapore | 659.0 | 680.0 | -3.1% |
+| 380cst | Rotterdam | 460.0 | 463.0 | -0.6% |
+| 380cst | Houston | 453.0 | 450.0 | 0.7% |
+| 380cst | Singapore | 469.0 | 468.0 | 0.2% |
+| VLSFO | Rotterdam | 501.0 | 511.0 | -2.0% |
+| VLSFO | Houston | 541.0 | 545.0 | -0.7% |
+| VLSFO | Singapore | 545.0 | 568.0 | -4.0% |
+
+## Oil Prices
+
+| Category | Indicator | 29-Nov-24 | 22-Nov-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 72.9 | 75.2 | -3.0% |
+| OIL | WTI | 68.0 | 71.2 | -4.5% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 29-Nov-24 | 22-Nov-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.30 | 18.27 | 0.2% |
+| COSTAMARE INC | NYSE | USD | 13.20 | 14.29 | -7.6% |
+| DANAOS CORPORATION | NYSE | USD | 79.38 | 85.91 | -7.6% |
+| DIANA SHIPPING | NYSE | USD | 1.78 | 2.14 | -16.8% |
+| EUROSEAS LTD. | NASDAQ | USD | 38.10 | 40.50 | -5.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.60 | 1.50 | 6.7% |
+| SAFE BULKERS INC | NYSE | USD | 3.87 | 4.17 | -7.2% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 8.08 | 8.34 | -3.1% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 17.32 | 18.63 | -7.0% |
+| STEALTHGAS INC | NASDAQ | USD | 5.43 | 6.05 | -10.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 18.17 | 20.05 | -9.4% |
+
+## Macro-economic headlines
+
+In China, factory activity shows signs of strengthening in November, with the Caixin Manufacturing PMI rising to 51.5, exceeding market expectations of 50.6 and October’s figure (50.3). This marks the second consecutive month of growth, following a contraction in September (49.3) and is the strongest expansion in factory activity since June. This positive performance is driven by increase in foreign orders, robust exports and elevated purchasing activity, as companies build up their inventories.
+
+In US, new orders for durable goods rose by 0.2% in October, exceeding market forecasts and recovering from a decline in September (both -0.8%). The increase was driven by higher demand for transportation equipment, electrical appliances, machinery, and capital goods. Additionally, the Conference Board Consumer Confidence Index stood at 111.7 in November, slightly missing market projections of 111.8 but still higher than October’s reading of 108.7.

@@ -258,3 +258,77 @@ In India, sentiment at Alang remained cautious as recyclers navigated both globa
 | PUTERI ZAMRUD SATU | 76,144 | 28,858 | 2004 | MITSUI, Japan | GAS TANKER | $381/Ldt | undisclosed | as is Malaysia |
 | PUTERI FIRUS SATU | 76,197 | 28,805 | 2004 | MITSUBISHI, Japan | GAS TANKER | $381/Ldt | undisclosed | as is Malaysia |
 | PUTERI MUTIARA SATU | 76,229 | 28,773 | 2005 | MITSUI, Japan | GAS TANKER | $381/Ldt | undisclosed | as is Malaysia |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 20-Mar-26 | 19-Mar-26 | 18-Mar-26 | 17-Mar-26 | 16-Mar-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.392 | 4.283 | 4.257 | 4.202 | 4.220 | 2.5% |
+| Stock Exchange Data | S&P 500 | 6,506.48 | 6,606.49 | 6,624.70 | 6,716.09 | 6,699.38 | -1.9% |
+| Stock Exchange Data | Nasdaq | 23,898.16 | 24,355.28 | 24,425.09 | 24,780.42 | 24,655.34 | -2.0% |
+| Stock Exchange Data | Dow Jones | 45,577.47 | 46,021.43 | 46,225.15 | 46,993.26 | 46,946.41 | -2.1% |
+| Stock Exchange Data | FTSE 100 | 9,918.33 | 10,063.50 | 10,305.29 | 10,403.60 | 10,317.69 | -3.3% |
+| Stock Exchange Data | FTSE All-Share UK | 5,312.34 | 5,387.43 | 5,516.59 | 5,566.18 | 5,520.97 | -3.3% |
+| Stock Exchange Data | CAC40 | 7,665.62 | 7,807.87 | 7,969.88 | 7,974.49 | 7,935.97 | -3.1% |
+| Stock Exchange Data | Xetra Dax | 22,380.19 | 22,839.56 | 23,502.25 | 23,730.92 | 23,564.01 | -4.6% |
+| Stock Exchange Data | Nikkei | 53,372.53 | 53,372.53 | 55,239.40 | 53,700.39 | 53,751.15 | -0.8% |
+| Stock Exchange Data | Hang Seng | 25,277.32 | 25,500.58 | 26,025.42 | 25,868.54 | 25,834.02 | -0.7% |
+| Stock Exchange Data | DJ US Maritime | 428.44 | 427.19 | 413.24 | 420.20 | 408.05 | 4.5% |
+| Currencies | € / $ | 1.16 | 1.16 | 1.15 | 1.15 | 1.15 | 1.3% |
+| Currencies | £ / $ | 1.33 | 1.34 | 1.33 | 1.34 | 1.33 | 0.9% |
+| Currencies | $ / ¥ | 159.22 | 157.72 | 159.86 | 158.98 | 159.06 | -0.3% |
+| Currencies | $ / NoK | 9.56 | 9.46 | 9.60 | 9.57 | 9.66 | -2.0% |
+| Currencies | Yuan / $ | 6.89 | 6.90 | 6.87 | 6.89 | 6.90 | -0.2% |
+| Currencies | Won / $ | 1,505.25 | 1,489.36 | 1,508.15 | 1,487.61 | 1,489.34 | 0.3% |
+| Currencies | $ INDEX | 99.65 | 99.23 | 100.09 | 99.58 | 99.71 | -0.7% |
+
+## Bunker Prices
+
+| Grade | Port | 20-Mar-26 | 13-Mar-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,343.8 | 1,127.0 | 19.2% |
+| MGO | Houston | 1,301.8 | 1,152.0 | 13.0% |
+| MGO | Singapore | 1,785.8 | 1,836.8 | -2.8% |
+| 380cst | Rotterdam | 727.0 | 706.8 | 2.9% |
+| 380cst | Houston | 702.0 | 633.0 | 10.9% |
+| 380cst | Singapore | 794.0 | 878.8 | -9.6% |
+| VLSFO | Rotterdam | 778.0 | 801.3 | -2.9% |
+| VLSFO | Houston | 800.0 | 755.5 | 5.9% |
+| VLSFO | Singapore | 970.0 | 1,120.3 | -13.4% |
+
+## Oil Prices
+
+| Category | Indicator | 20-Mar-26 | 13-Mar-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 112.2 | 103.1 | 8.8% |
+| OIL | WTI | 98.3 | 98.7 | -0.4% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 20-Mar-26 | 13-Mar-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 19.82 | 20.63 | -3.9% |
+| COSTAMARE INC | NYSE | USD | 16.77 | 16.08 | 4.3% |
+| DANAOS CORPORATION | NYSE | USD | 111.70 | 107.03 | 4.4% |
+| DIANA SHIPPING | NYSE | USD | 2.31 | 2.27 | 1.8% |
+| EUROSEAS LTD. | NASDAQ | USD | 65.50 | 63.00 | 4.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.72 | 1.67 | 3.0% |
+| SAFE BULKERS INC | NYSE | USD | 6.05 | 5.94 | 1.9% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 12.11 | 12.18 | -0.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 22.33 | 21.84 | 2.2% |
+| STEALTHGAS INC | NASDAQ | USD | 9.09 | 8.73 | 4.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 35.68 | 33.75 | 5.7% |
+
+## Macro-economic headlines
+
+In China, the PBoC held its benchmark lending rates steady in March for the tenth consecutive month, in line with market expectations. The 1-year LPR remained at 3.0%, while the 5-year LPR, the benchmark for mortgage rates, stayed at 3.5%.
+
+In Germany, PPI fell by 3.3% y-o-y in February, a steeper decline than the 2.7% expected and below January’s 3.0% drop.
+
+In the United States, PPI rose by 3.4% y-o-y in February, exceeding both market forecast and January’s 2.9% increase.
+
+In Japan, the Bank of Japan kept its policy rate unchanged at 0.75% in March for a third consecutive month, in line with market estimations.

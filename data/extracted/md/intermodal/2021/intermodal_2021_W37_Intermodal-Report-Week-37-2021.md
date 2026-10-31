@@ -335,3 +335,83 @@ Uncertainty remained in place across the main demolition nations last week. The 
 | GOLDEN SAILING | 4,042 | 1,508 | 1992 | DAE SUN, S. Korea | TWEEN DECKER | $ 580/Ldt | Bangladeshi |  |
 
 © Intermodal Research 21/09/2021 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 17-Sep-21 | 16-Sep-21 | 15-Sep-21 | 14-Sep-21 | 13-Sep-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.370 | 1.331 | 1.304 | 1.277 | 1.324 | 2.2% |
+| Stock Exchange Data | S&P 500 | 4,432.99 | 4,473.75 | 4,480.70 | 4,443.05 | 4,458.58 | -0.6% |
+| Stock Exchange Data | Nasdaq | 15,043.97 | 15,181.92 | 15,161.53 | 15,037.76 | 15,105.58 | -0.5% |
+| Stock Exchange Data | Dow Jones | 34,584.88 | 34,751.32 | 34,814.39 | 34,577.57 | 34,869.63 | -0.1% |
+| Stock Exchange Data | FTSE 100 | 6,963.64 | 7,027.48 | 7,016.49 | 7,034.06 | 7,068.43 | -0.9% |
+| Stock Exchange Data | FTSE All-Share UK | 4,023.33 | 4,051.44 | 4,039.44 | 4,056.45 | 4,075.27 | -0.8% |
+| Stock Exchange Data | CAC40 | 6,570.19 | 6,622.59 | 6,583.62 | 6,652.97 | 6,676.93 | -1.4% |
+| Stock Exchange Data | Xetra Dax | 15,490.17 | 15,651.75 | 15,616.00 | 15,722.99 | 15,701.42 | -1.3% |
+| Stock Exchange Data | Nikkei | 30,500.05 | 30,323.34 | 30,511.71 | 30,670.10 | 30,447.37 | 0.2% |
+| Stock Exchange Data | Hang Seng | 24,667.85 | 24,667.85 | 25,033.21 | 25,502.23 | 25,813.81 | -4.1% |
+| Stock Exchange Data | DJ US Maritime | 168.39 | 170.92 | 174.47 | 170.53 | 173.02 | -0.2% |
+| Currencies | € / $ | 1.17 | 1.18 | 1.18 | 1.18 | 1.18 | -0.7% |
+| Currencies | £ / $ | 1.37 | 1.38 | 1.38 | 1.38 | 1.38 | -0.7% |
+| Currencies | $ / ¥ | 109.93 | 109.70 | 109.38 | 109.72 | 109.99 | 0.0% |
+| Currencies | $ / NoK | 0.12 | 0.12 | 0.12 | 0.12 | 0.12 | -0.2% |
+| Currencies | Yuan / $ | 6.47 | 6.46 | 6.43 | 6.44 | 6.45 | 0.3% |
+| Currencies | Won / $ | 1,182.02 | 1,176.25 | 1,166.23 | 1,170.80 | 1,171.11 | 1.0% |
+| Currencies | $ INDEX | 93.19 | 92.93 | 92.55 | 92.62 | 92.68 | 0.7% |
+
+## Bunker Prices
+
+| Grade | Port | 17-Sep-21 | 10-Sep-21 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 609.5 | 586.0 | 4.0% |
+| MGO | Houston | 641.5 | 628.0 | 2.1% |
+| MGO | Singapore | 613.5 | 590.0 | 4.0% |
+| 380cst | Rotterdam | 421.5 | 408.0 | 3.3% |
+| 380cst | Houston | 412.5 | 409.0 | 0.9% |
+| 380cst | Singapore | 474.5 | 463.5 | 2.4% |
+| VLSFO | Rotterdam | 542.5 | 516.0 | 5.1% |
+| VLSFO | Houston | 532.5 | 519.0 | 2.6% |
+| VLSFO | Singapore | 572.5 | 544.0 | 5.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 17-Sep-21 | 10-Sep-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.17 | 13.75 | -4.2% |
+| COSTAMARE INC | NYSE | USD | 15.61 | 16.27 | -4.1% |
+| DANAOS CORPORATION | NYSE | USD | 81.30 | 84.98 | -4.3% |
+| DIANA SHIPPING | NYSE | USD | 5.85 | 5.52 | 6.0% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 50.58 | 50.92 | -0.7% |
+| EUROSEAS LTD. | NASDAQ | USD | 36.06 | 30.72 | 17.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 3.02 | 3.16 | -4.4% |
+| NAVIOS MARITIME ACQUISITIONS | NYSE | USD | 3.66 | 3.90 | -6.2% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 4.50 | 5.32 | -15.4% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 29.14 | 30.96 | -5.9% |
+| SAFE BULKERS INC | NYSE | USD | 4.87 | 4.13 | 17.9% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.49 | 1.25 | 19.2% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 22.94 | 23.60 | -2.8% |
+| STEALTHGAS INC | NASDAQ | USD | 2.65 | 2.78 | -4.7% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 8.11 | 7.96 | 1.9% |
+| TOP SHIPS INC | NASDAQ | USD | 1.41 | 1.38 | 2.2% |
+
+## Market News
+
+“Trafigura sells its cheapest perpetual bond in over-subscribed $400m deal
+
+Charterer and commodities trader Trafigura Group has clinched its cheapest ever perpetual bond after it reported "very strong and wide support" from investors.
+
+The $400m subordinated issue was over-subscribed 3.75 times by institutional backers and private banks in Asia and Europe, with more than 160 buyers taking part.
+
+Momentum during marketing and book-building allowed the company, which also owns ships, to cut the interest down from talk of 6.25% initially to 5.875%.
+
+This is its lowest ever coupon for a perpetual bond, which has no maturity date and pays interest until bought back, but ranks below senior debt in the event of default.
+
+The notes will be listed on the Singapore Stock Exchange, with Trafigura aiming to redeem the debt within six years.
+
+This would be the group's longest tenure in capital markets.
+
+The new instrument is the fifth perpetual subordinated bond issued by Trafigura...”(TradeWinds)

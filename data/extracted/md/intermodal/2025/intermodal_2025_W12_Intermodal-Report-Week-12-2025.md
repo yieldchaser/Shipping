@@ -235,3 +235,77 @@ In Turkey, political developments have taken center stage following the arrest o
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SHENG TAI | 5,210 | 2,225 | 1997 | ZHEJIANG, China | GENERAL CARGO | $ 333/Ldt | undisclosed | as is Shanghai |
 | VERTEX | 1,999 | 1,278 | 1981 | KOGUSHI ZOSEN, Japan | TANKER | $ 735/Ldt | Indian | Chemical tanker with some stainless steel content |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 21-Mar-25 | 20-Mar-25 | 19-Mar-25 | 18-Mar-25 | 17-Mar-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.252 | 4.233 | 4.256 | 4.281 | 4.306 | -1.3% |
+| Stock Exchange Data | S&P 500 | 5,667.56 | 5,662.89 | 5,675.29 | 5,614.66 | 5,675.12 | 0.5% |
+| Stock Exchange Data | Nasdaq | 19,753.97 | 19,677.61 | 19,736.66 | 19,483.36 | 19,812.24 | 0.3% |
+| Stock Exchange Data | Dow Jones | 41,985.35 | 41,935.32 | 41,964.63 | 41,581.31 | 41,841.63 | 1.3% |
+| Stock Exchange Data | FTSE 100 | 8,646.79 | 8,701.99 | 8,706.66 | 8,705.23 | 8,680.29 | 0.2% |
+| Stock Exchange Data | FTSE All-Share UK | 4,666.50 | 4,697.93 | 4,700.78 | 4,699.07 | 4,685.47 | 0.1% |
+| Stock Exchange Data | CAC40 | 8,042.95 | 8,094.20 | 8,171.47 | 8,114.57 | 8,073.98 | 0.2% |
+| Stock Exchange Data | Xetra Dax | 22,891.68 | 22,999.15 | 23,288.06 | 23,380.70 | 23,154.57 | -0.4% |
+| Stock Exchange Data | Nikkei | 37,677.06 | 37,751.88 | 37,751.88 | 37,845.42 | 37,396.52 | 1.7% |
+| Stock Exchange Data | Hang Seng | 23,689.72 | 24,219.95 | 24,771.14 | 24,740.57 | 24,145.57 | -1.1% |
+| Stock Exchange Data | DJ US Maritime | 332.62 | 328.71 | 329.93 | 324.61 | 328.68 | 2.3% |
+| Currencies | € / $ | 1.08 | 1.09 | 1.09 | 1.09 | 1.09 | -0.6% |
+| Currencies | £ / $ | 1.29 | 1.30 | 1.30 | 1.30 | 1.30 | -0.1% |
+| Currencies | $ / ¥ | 149.31 | 148.78 | 148.68 | 149.26 | 149.21 | 0.5% |
+| Currencies | $ / NoK | 10.51 | 10.55 | 10.56 | 10.55 | 10.53 | -1.0% |
+| Currencies | Yuan / $ | 7.25 | 7.25 | 7.23 | 7.23 | 7.23 | 0.2% |
+| Currencies | Won / $ | 1,463.32 | 1,465.72 | 1,460.70 | 1,448.83 | 1,442.95 | 0.9% |
+| Currencies | $ INDEX | 104.09 | 103.85 | 103.43 | 103.24 | 103.37 | 0.4% |
+
+## Bunker Prices
+
+| Grade | Port | 21-Mar-25 | 14-Mar-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 627.0 | 606.0 | 3.5% |
+| MGO | Houston | 663.0 | 662.0 | 0.2% |
+| MGO | Singapore | 630.0 | 624.0 | 1.0% |
+| 380cst | Rotterdam | 443.0 | 444.0 | -0.2% |
+| 380cst | Houston | 435.0 | 424.0 | 2.6% |
+| 380cst | Singapore | 458.0 | 471.0 | -2.8% |
+| VLSFO | Rotterdam | 490.0 | 492.0 | -0.4% |
+| VLSFO | Houston | 515.0 | 509.0 | 1.2% |
+| VLSFO | Singapore | 515.0 | 506.0 | 1.8% |
+
+## Oil Prices
+
+| Category | Indicator | 21-Mar-25 | 14-Mar-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 72.2 | 70.6 | 2.2% |
+| OIL | WTI | 68.3 | 67.2 | 1.6% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 21-Mar-25 | 14-Mar-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 19.63 | 19.61 | 0.1% |
+| COSTAMARE INC | NYSE | USD | 10.16 | 10.29 | -1.3% |
+| DANAOS CORPORATION | NYSE | USD | 81.28 | 79.60 | 2.1% |
+| DIANA SHIPPING | NYSE | USD | 1.73 | 1.83 | -5.5% |
+| EUROSEAS LTD. | NASDAQ | USD | 30.76 | 26.50 | 16.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.25 | 1.29 | -3.5% |
+| SAFE BULKERS INC | NYSE | USD | 3.74 | 3.80 | -1.6% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 7.07 | 7.31 | -3.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 16.58 | 16.60 | -0.1% |
+| STEALTHGAS INC | NASDAQ | USD | 5.78 | 5.55 | 4.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 16.72 | 16.55 | 1.0% |
+
+## Macro-economic headlines
+
+In Eurozone the CPI of February rose by 0.4%, slightly below market forecasts of 0.5%, reversing the 0.3% contraction witnessed in January.
+
+In Germany, PPI decreased by 0.2% in February, contrary to market estimations of a 0.2% rise. In January, a 0.1% decline
+
+In Japan the industrial production retreated by 1.1% in January, consistent with market expectations and marking a larger decrease than December’s 0.2%.
+
+In China, PBoC held its benchmark loan rate steady at 3.1% in March, in line with market forecasts. This marks the fifth consecutive month that the rate has remained unchanged.

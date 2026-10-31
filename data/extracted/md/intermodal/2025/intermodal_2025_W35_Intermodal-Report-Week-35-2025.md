@@ -263,3 +263,77 @@ A flat week for the Turkish market. Reports of increased steel mill activity did
 | TRADER II | 75,109 | 29,920 | 2002 | SAMSUNG, S. Korea | GAS TANKER | $480/Ldt | undisclosed | as is Singapore |
 | WOND | 6,750 | 2,229 | 1985 | HAKATA, Japan | TANKER | $390/Ldt | Bangladeshi |  |
 | SUNNY OAK | 5,800 | 2,255 | 1995 | KWANGYANG, S. Korea | CONTAINER | $300/Ldt | undisclosed | as is Korea |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 29-Aug-25 | 28-Aug-25 | 27-Aug-25 | 26-Aug-25 | 25-Aug-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.226 | 4.207 | 4.238 | 4.256 | 4.275 | -0.8% |
+| Stock Exchange Data | S&P 500 | 6,460.26 | 6,501.86 | 6,481.40 | 6,465.94 | 6,439.32 | -0.1% |
+| Stock Exchange Data | Nasdaq | 23,415.42 | 23,703.45 | 23,565.85 | 23,525.29 | 23,425.61 | -0.4% |
+| Stock Exchange Data | Dow Jones | 45,544.88 | 45,636.90 | 45,565.23 | 45,418.07 | 45,282.47 | -0.2% |
+| Stock Exchange Data | FTSE 100 | 9,187.34 | 9,216.82 | 9,255.50 | 9,265.80 | 9,321.40 | -1.4% |
+| Stock Exchange Data | FTSE All-Share UK | 4,972.79 | 4,990.63 | 5,010.50 | 5,017.13 | 5,049.47 | -1.5% |
+| Stock Exchange Data | CAC40 | 7,703.90 | 7,762.60 | 7,743.93 | 7,709.81 | 7,843.04 | -3.3% |
+| Stock Exchange Data | Xetra Dax | 23,902.21 | 24,039.92 | 24,046.21 | 24,152.87 | 24,273.12 | -1.9% |
+| Stock Exchange Data | Nikkei | 42,718.47 | 42,828.79 | 42,520.27 | 42,394.40 | 42,807.82 | 0.2% |
+| Stock Exchange Data | Hang Seng | 25,077.62 | 24,998.82 | 25,201.76 | 25,524.92 | 25,829.91 | -1.0% |
+| Stock Exchange Data | DJ US Maritime | 319.06 | 319.85 | 322.57 | 322.57 | 321.43 | -3.3% |
+| Currencies | € / $ | 1.17 | 1.17 | 1.16 | 1.16 | 1.16 | -0.3% |
+| Currencies | £ / $ | 1.35 | 1.35 | 1.35 | 1.35 | 1.35 | -0.1% |
+| Currencies | $ / ¥ | 147.02 | 146.92 | 147.39 | 147.40 | 147.77 | 0.1% |
+| Currencies | $ / NoK | 10.04 | 10.06 | 10.07 | 10.13 | 10.12 | -0.2% |
+| Currencies | Yuan / $ | 7.13 | 7.13 | 7.15 | 7.15 | 7.15 | -0.5% |
+| Currencies | Won / $ | 1,388.81 | 1,385.29 | 1,393.00 | 1,394.79 | 1,390.13 | 0.4% |
+| Currencies | $ INDEX | 97.77 | 97.81 | 98.23 | 98.23 | 98.43 | 0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 29-Aug-25 | 22-Aug-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 650.0 | 649.0 | 0.2% |
+| MGO | Houston | 665.0 | 663.0 | 0.3% |
+| MGO | Singapore | 648.0 | 648.0 | 0.0% |
+| 380cst | Rotterdam | 411.0 | 406.0 | 1.2% |
+| 380cst | Houston | 406.0 | 434.0 | -6.5% |
+| 380cst | Singapore | 412.0 | 405.0 | 1.7% |
+| VLSFO | Rotterdam | 465.0 | 461.0 | 0.9% |
+| VLSFO | Houston | 489.0 | 483.0 | 1.2% |
+| VLSFO | Singapore | 502.0 | 500.0 | 0.4% |
+
+## Oil Prices
+
+| Category | Indicator | 29-Aug-25 | 22-Aug-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 68.1 | 67.7 | 0.6% |
+| OIL | WTI | 64.0 | 63.7 | 0.5% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 29-Aug-25 | 22-Aug-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 21.10 | 21.59 | -2.3% |
+| COSTAMARE INC | NYSE | USD | 11.44 | 11.74 | -2.6% |
+| DANAOS CORPORATION | NYSE | USD | 91.97 | 93.55 | -1.7% |
+| DIANA SHIPPING | NYSE | USD | 1.64 | 1.61 | 1.9% |
+| EUROSEAS LTD. | NASDAQ | USD | 62.27 | 64.60 | -3.6% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.04 | 1.01 | 2.6% |
+| SAFE BULKERS INC | NYSE | USD | 4.25 | 4.33 | -1.8% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 7.79 | 7.81 | -0.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.65 | 19.12 | -2.5% |
+| STEALTHGAS INC | NASDAQ | USD | 7.63 | 7.24 | 5.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 22.25 | 21.40 | 4.0% |
+
+## Macro-economic headlines
+
+In China, the Caixin Manufacturing PMI registered 50.5 in August, surpassing the market's forecast of 49.7. This reading, which indicates an expansion in manufacturing activity, marks a reversal from the 49.5 contraction seen in July.
+
+India's GDP saw a significant growth of 7.8% q-o-q in the first quarter of 2025. This exceeded both the 7.4% growth from the previous quarter and market forecasts of 6.6%, pointing to strong underlying economic momentum.
+
+In Japan, Capital Spending rose 7.6% y-o-y in the second quarter of 2025. This figure not only surpassed market expectations of 6.3% but also represented an acceleration from the 6.4% increase recorded in the first quarter of 2025, suggesting increased investment confidence.
+
+In France, GDP up ticked by 0.3% in the second quarter of 2025, in line with market projections and higher than the 0.1% recorder in the first quarter, signaling a slight improvement.

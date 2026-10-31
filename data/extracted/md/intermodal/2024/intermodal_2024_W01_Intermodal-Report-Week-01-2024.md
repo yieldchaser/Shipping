@@ -247,3 +247,69 @@ ble this week, with breakers awaiting general elections in the first week of Feb
 | ICE RIVER | 14,519 | 6,981 | 1985 | HYUNDAI, S. Korea | REEFER | $ 573/Ldt | undisclosed | incl 250 MT Aluminium |
 | AT MIDDLE BRIDGE | 8,212 | 3,434 | 1989 | SHIN KURUSHIMA, Japan | GENERAL CARGO | $ 504/Ldt | Indian |  |
 | AL DHAFERAH | 5,040 | 6,040 | 1987 | BREMER VULKAN, Germany | FERRY | $ 387/Ldt | Indian | as is Oman |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 5-Jan-24 | 4-Jan-24 | 3-Jan-24 | 2-Jan-24 | 1-Jan-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.051 | 4.003 | 3.920 | 3.941 | 3.898 | 4.8% |
+| Stock Exchange Data | S&P 500 | 4,697.24 | 4,688.68 | 4,704.81 | 4,742.83 | 4,769.83 | -1.5% |
+| Stock Exchange Data | Nasdaq | 14,524.07 | 14,510.30 | 14,592.21 | 14,765.94 | 15,011.35 | -3.2% |
+| Stock Exchange Data | Dow Jones | 37,466.11 | 37,440.34 | 37,430.19 | 37,715.04 | 37,689.54 | -0.6% |
+| Stock Exchange Data | FTSE 100 | 7,689.61 | 7,723.07 | 7,682.33 | 7,721.52 | 7,733.24 | -0.6% |
+| Stock Exchange Data | FTSE All-Share UK | 4,196.35 | 4,217.03 | 4,196.69 | 4,220.90 | 4,232.01 | -0.8% |
+| Stock Exchange Data | CAC40 | 7,420.69 | 7,450.63 | 7,411.86 | 7,530.86 | 7,543.18 | -1.6% |
+| Stock Exchange Data | Xetra Dax | 16,594.21 | 16,617.29 | 16,538.39 | 16,769.36 | 16,751.64 | -0.9% |
+| Stock Exchange Data | Nikkei | 33,377.42 | 33,288.29 | 33,377.42 | 33,288.29 | 33,464.17 | -0.3% |
+| Stock Exchange Data | Hang Seng | 16,535.33 | 16,645.98 | 16,646.41 | 16,788.55 | 17,047.39 | -3.0% |
+| Stock Exchange Data | DJ US Maritime | 256.14 | 256.14 | 258.40 | 259.29 | 259.19 | -1.2% |
+| Currencies | € / $ | 1.10 | 1.09 | 1.09 | 1.09 | 1.10 | -0.9% |
+| Currencies | £ / $ | 1.27 | 1.27 | 1.27 | 1.26 | 1.27 | -0.1% |
+| Currencies | $ / ¥ | 144.64 | 144.73 | 143.00 | 142.16 | 141.13 | 2.6% |
+| Currencies | $ / NoK | 0.0971 | 0.0971 | 0.0967 | 0.0966 | 0.0982 | -1.3% |
+| Currencies | Yuan / $ | 7.10 | 7.12 | 7.11 | 7.10 | 7.08 | 0.3% |
+| Currencies | Won / $ | 1,314.75 | 1,312.25 | 1,310.26 | 1,308.85 | 1,294.54 | 1.6% |
+| Currencies | $ INDEX | 102.41 | 102.42 | 102.49 | 102.20 | 101.33 | 1.1% |
+
+## Bunker Prices
+
+| Grade | Port | 5-Jan-24 | 29-Dec-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 05-Jan-24 | 29-Dec-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 16.10 | 14.35 | 12.2% |
+| COSTAMARE INC | NYSE | USD | 11.35 | 10.68 | 6.3% |
+| DANAOS CORPORATION | NYSE | USD | 79.37 | 74.51 | 6.5% |
+| DIANA SHIPPING | NYSE | USD | 3.20 | 2.95 | 8.5% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 56.22 | 54.38 | 3.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 36.73 | 33.64 | 9.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.58 | 2.64 | -2.3% |
+| SAFE BULKERS INC | NYSE | USD | 4.16 | 3.95 | 5.3% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 7.42 | 6.74 | 10.1% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 21.71 | 20.91 | 3.8% |
+| STEALTHGAS INC | NASDAQ | USD | 7.47 | 6.99 | 6.9% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 24.06 | 22.54 | 6.7% |
+
+## Macro-economic headlines
+
+▪ US: The S&P Global US Manufacturing PMI fell to 47.9 in December, remaining far from expansionary territory. The corresponding services PMI rose to 51.4 in December. The labour market also remained strong, with non-farm payrolls rising to 216k in December from 173k the previous month.
+
+▪ EU: The bloc's composite HCOB PMI remained unchanged at 47.6 in December. The services and manufacturing PMIs were 48.8 and 44.4 respectively.
+
+▪ China: The Caixin manufacturing PMI for December edged up to 50.8, against market expectations for a slowdown. The Caixin services PMI rose to 52.9 in December, beating market expectations.

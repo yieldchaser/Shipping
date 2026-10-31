@@ -246,3 +246,77 @@ The Turkish market was on a standstill last week with not much to report. Steel 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | RELIANCE | 45,742 | 8,116 | 1996 | IMABARI, Japan | BC | $ 435/Ldt | undisclosed | as is Singapore |
 | ABRAHAM M | 34,167 | 8,958 | 1996 | JIANGNAN, China | BC | $ 439/Ldt | Bangladeshi |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 30-May-25 | 29-May-25 | 28-May-25 | 27-May-25 | 26-May-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.418 | 4.424 | 4.479 | 4.434 | 4.511 | -2.1% |
+| Stock Exchange Data | S&P 500 | 5,911.69 | 5,912.17 | 5,888.55 | 5,921.54 | 5,802.82 | 1.9% |
+| Stock Exchange Data | Nasdaq | 21,340.99 | 21,363.95 | 21,318.17 | 21,414.99 | 20,915.66 | 2.0% |
+| Stock Exchange Data | Dow Jones | 42,270.07 | 42,215.73 | 42,098.70 | 42,343.65 | 41,603.07 | 1.6% |
+| Stock Exchange Data | FTSE 100 | 8,772.38 | 8,716.45 | 8,726.01 | 8,778.05 | 8,717.97 | 0.6% |
+| Stock Exchange Data | FTSE All-Share UK | 4,759.54 | 4,731.98 | 4,735.08 | 4,759.12 | 4,724.01 | 0.8% |
+| Stock Exchange Data | CAC40 | 7,751.89 | 7,779.72 | 7,788.10 | 7,826.79 | 7,828.13 | 0.2% |
+| Stock Exchange Data | Xetra Dax | 23,997.48 | 23,933.23 | 24,038.19 | 24,226.49 | 24,027.65 | 1.6% |
+| Stock Exchange Data | Nikkei | 37,965.10 | 38,432.98 | 37,722.40 | 37,724.11 | 37,531.53 | 2.2% |
+| Stock Exchange Data | Hang Seng | 23,289.77 | 23,573.38 | 23,258.31 | 23,381.99 | 23,282.33 | -1.3% |
+| Stock Exchange Data | DJ US Maritime | 363.18 | 366.33 | 363.51 | 364.00 | 352.51 | 3.0% |
+| Currencies | € / $ | 1.13 | 1.14 | 1.13 | 1.13 | 1.14 | -0.1% |
+| Currencies | £ / $ | 1.35 | 1.35 | 1.35 | 1.35 | 1.36 | -0.6% |
+| Currencies | $ / ¥ | 144.04 | 144.19 | 144.82 | 144.32 | 142.84 | 1.1% |
+| Currencies | $ / NoK | 10.20 | 10.11 | 10.19 | 10.15 | 10.09 | 1.2% |
+| Currencies | Yuan / $ | 7.20 | 7.19 | 7.19 | 7.20 | 7.19 | 0.3% |
+| Currencies | Won / $ | 1,381.99 | 1,370.53 | 1,373.60 | 1,375.11 | 1,367.46 | 1.3% |
+| Currencies | $ INDEX | 99.33 | 99.28 | 99.88 | 99.52 | 99.11 | 0.2% |
+
+## Bunker Prices
+
+| Grade | Port | 30-May-25 | 23-May-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 607.0 | 606.0 | 0.2% |
+| MGO | Houston | 600.0 | 601.0 | -0.2% |
+| MGO | Singapore | 587.0 | 590.0 | -0.5% |
+| 380cst | Rotterdam | 422.0 | 424.0 | -0.5% |
+| 380cst | Houston | 403.0 | 402.0 | 0.2% |
+| 380cst | Singapore | 429.0 | 440.0 | -2.5% |
+| VLSFO | Rotterdam | 469.0 | 474.0 | -1.1% |
+| VLSFO | Houston | 460.0 | 450.0 | 2.2% |
+| VLSFO | Singapore | 497.0 | 510.0 | -2.5% |
+
+## Oil Prices
+
+| Category | Indicator | 30-May-25 | 23-May-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 63.9 | 64.8 | -1.4% |
+| OIL | WTI | 60.8 | 61.5 | -1.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 30-May-25 | 23-May-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 23.18 | 23.18 | 0.0% |
+| COSTAMARE INC | NYSE | USD | 8.57 | 8.30 | 3.3% |
+| DANAOS CORPORATION | NYSE | USD | 85.30 | 84.65 | 0.8% |
+| DIANA SHIPPING | NYSE | USD | 1.52 | 1.43 | 6.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 38.33 | 37.83 | 1.3% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.08 | 1.02 | 5.9% |
+| SAFE BULKERS INC | NYSE | USD | 3.80 | 3.66 | 3.8% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 6.23 | 6.02 | 3.5% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 16.51 | 16.18 | 2.0% |
+| STEALTHGAS INC | NASDAQ | USD | 5.96 | 5.34 | 11.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 18.16 | 17.93 | 1.3% |
+
+## Macro-economic headlines
+
+In China, the Caixin Manufacturing PMI declined to 48.3 in May, down from 50.4 in April and below market expectations of 50.7. This drop below the 50-point threshold, which separates expansion from contraction, marks the first contraction in the manufacturing sector since last September.
+
+In Japan, Capital Spending in Q1 2025 increased by 6.4% y-o-y, well above the expected 3.8%, and rebounding from a 0.2% decline in Q4 2024.
+
+In India, GDP growth for Q4 2025 reached 7.4% y-o-y, surpassing market expectations of 6.7% and improving on the 6.2% expansion in Q3 2024.
+
+In Eurozone, the PMI rose to 49.4 in May, outperforming both market projections of 48.4 and the previous month’s reading of 49.0.

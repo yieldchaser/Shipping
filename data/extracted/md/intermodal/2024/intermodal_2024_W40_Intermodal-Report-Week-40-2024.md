@@ -229,3 +229,75 @@ In Turkey, however, there was some improvement with local and imported scrap pri
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | MSC ADELE | 30,950 | 8,779 | 1986 | HDW AG - Kiel - GEU, Germany | CONTAINER | $ 500/Ldt | Indian |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 4-Oct-24 | 3-Oct-24 | 2-Oct-24 | 1-Oct-24 | 30-Sep-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.981 | 3.850 | 3.785 | 3.743 | 3.802 | 6.2% |
+| Stock Exchange Data | S&P 500 | 5,751.07 | 5,699.94 | 5,709.54 | 5,708.75 | 5,762.48 | 0.2% |
+| Stock Exchange Data | Nasdaq | 20,035.02 | 19,793.34 | 19,802.59 | 19,773.30 | 20,060.69 | 0.1% |
+| Stock Exchange Data | Dow Jones | 42,352.75 | 42,011.59 | 42,196.52 | 42,156.97 | 42,330.15 | 0.1% |
+| Stock Exchange Data | FTSE 100 | 8,280.63 | 8,282.52 | 8,290.86 | 8,276.65 | 8,236.95 | -0.5% |
+| Stock Exchange Data | FTSE All-Share UK | 4,527.24 | 4,523.17 | 4,528.14 | 4,525.27 | 4,511.00 | -0.6% |
+| Stock Exchange Data | CAC40 | 7,541.36 | 7,477.78 | 7,577.59 | 7,574.07 | 7,635.75 | -3.2% |
+| Stock Exchange Data | Xetra Dax | 19,120.93 | 19,015.41 | 19,164.75 | 19,213.14 | 19,324.93 | -1.8% |
+| Stock Exchange Data | Nikkei | 38,635.62 | 38,552.06 | 37,808.76 | 38,651.97 | 37,919.55 | -3.0% |
+| Stock Exchange Data | Hang Seng | 22,736.87 | 22,113.51 | 22,443.73 | 21,133.68 | 21,133.68 | 10.2% |
+| Stock Exchange Data | DJ US Maritime | 404.51 | 397.22 | 402.67 | 401.81 | 401.88 | -1.7% |
+| Currencies | € / $ | 1.10 | 1.10 | 1.10 | 1.11 | 1.11 | -1.7% |
+| Currencies | £ / $ | 1.31 | 1.31 | 1.33 | 1.33 | 1.34 | -1.9% |
+| Currencies | $ / ¥ | 148.71 | 146.92 | 146.46 | 143.56 | 143.62 | 4.6% |
+| Currencies | $ / NoK | 10.64 | 10.60 | 10.56 | 10.60 | 10.54 | 1.3% |
+| Currencies | Yuan / $ | 7.02 | 7.02 | 7.02 | 7.02 | 7.02 | 0.1% |
+| Currencies | Won / $ | 1,346.41 | 1,333.21 | 1,323.82 | 1,323.77 | 1,317.01 | 2.9% |
+| Currencies | $ INDEX | 102.52 | 101.99 | 101.68 | 101.19 | 100.78 | 2.1% |
+
+## Bunker Prices
+
+| Grade | Port | 4-Oct-24 | 27-Sep-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 678.0 | 610.0 | 11.1% |
+| MGO | Houston | 684.0 | 636.0 | 7.5% |
+| MGO | Singapore | 687.0 | 625.0 | 9.9% |
+| 380cst | Rotterdam | 501.0 | 437.0 | 14.6% |
+| 380cst | Houston | 460.0 | 417.0 | 10.3% |
+| 380cst | Singapore | 493.0 | 439.0 | 12.3% |
+| VLSFO | Rotterdam | 539.0 | 517.0 | 4.3% |
+| VLSFO | Houston | 544.0 | 501.0 | 8.6% |
+| VLSFO | Singapore | 600.0 | 571.0 | 5.1% |
+
+## Oil Prices
+
+| Category | Indicator | 4-Oct-24 | 27-Sep-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 78.1 | 72.0 | 8.4% |
+| OIL | WTI | 74.4 | 68.2 | 9.1% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 04-Oct-24 | 27-Sep-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 19.20 | 18.70 | 2.7% |
+| COSTAMARE INC | NYSE | USD | 14.68 | 15.53 | -5.5% |
+| DANAOS CORPORATION | NYSE | USD | 86.61 | 85.98 | 0.7% |
+| DIANA SHIPPING | NYSE | USD | 2.47 | 2.53 | -2.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 44.56 | 49.42 | -9.8% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.95 | 1.98 | -1.5% |
+| SAFE BULKERS INC | NYSE | USD | 5.15 | 5.16 | -0.2% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 12.18 | 12.08 | 0.8% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 22.71 | 23.54 | -3.5% |
+| STEALTHGAS INC | NASDAQ | USD | 7.09 | 6.86 | 3.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 26.17 | 25.41 | 3.0% |
+
+## Macro-economic headlines
+
+In US, the S&P Global US Manufacturing PMI for September fell to 47.3 (vs 47.9). The ISM Manufacturing PMI (Sep) remained stable m-o-m in the contraction territory at 47.2
+
+In Japan, the Household spending declined –1.9% y-o-y in August but increase by +2.0% m-om.
+
+In German, HCOB Germany Manufacturing PMI (Sep) declined to 40.6 from 42.4 in August while the Eurozone HCOB Manufacturing PMI (Sep) also declined to 45.0 from 45.8 in August

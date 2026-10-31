@@ -256,3 +256,77 @@ The Turkish market shows signs of recovery, as demand firmed and an increased nu
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | MAESTRO 1 | 23,994 | 5,035 | 1998 | KANDA | BC | $507/Ldt | Pakistani |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 18-Sep-26 | 17-Sep-26 | 16-Sep-26 | 15-Sep-26 | 14-Sep-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.996 | 4.947 | 5.004 | 4.996 | 4.961 | 0.4% |
+| Stock Exchange Data | S&P 500 | 7,650.50 | 7,637.76 | 7,551.81 | 7,585.73 | 7,619.98 | -0.1% |
+| Stock Exchange Data | Nasdaq | 29,644.17 | 29,446.98 | 28,945.06 | 28,937.84 | 29,127.16 | 0.9% |
+| Stock Exchange Data | Dow Jones | 51,682.64 | 51,778.04 | 51,461.90 | 52,093.11 | 52,421.20 | -1.7% |
+| Stock Exchange Data | FTSE 100 | 10,659.13 | 10,816.14 | 10,688.47 | 10,658.13 | 10,697.57 | 0.1% |
+| Stock Exchange Data | FTSE All-Share UK | 5,743.57 | 5,822.15 | 5,753.95 | 5,732.76 | 5,752.13 | 0.2% |
+| Stock Exchange Data | CAC40 | 8,065.02 | 8,186.93 | 8,140.59 | 8,090.28 | 8,117.78 | -1.4% |
+| Stock Exchange Data | Xetra Dax | 25,304.06 | 25,716.71 | 25,537.75 | 25,402.28 | 25,440.81 | -1.0% |
+| Stock Exchange Data | Nikkei | 65,018.95 | 64,136.25 | 63,923.00 | 63,484.10 | 63,492.99 | 1.6% |
+| Stock Exchange Data | Hang Seng | 24,750.78 | 24,604.29 | 24,713.78 | 24,667.24 | 24,917.60 | -0.2% |
+| Stock Exchange Data | DJ US Maritime | 454.14 | 454.27 | 449.51 | 456.14 | 454.60 | -0.8% |
+| Currencies | € / $ | 1.15 | 1.15 | 1.15 | 1.15 | 1.15 | -1.0% |
+| Currencies | £ / $ | 1.34 | 1.34 | 1.34 | 1.35 | 1.35 | -0.9% |
+| Currencies | $ / ¥ | 156.86 | 155.96 | 156.27 | 155.08 | 154.35 | 2.2% |
+| Currencies | $ / NoK | 9.41 | 9.41 | 9.43 | 9.34 | 9.32 | 1.4% |
+| Currencies | Yuan / $ | 6.70 | 6.71 | 6.71 | 6.71 | 6.71 | -0.2% |
+| Currencies | Won / $ | 1,385.61 | 1,380.30 | 1,376.88 | 1,362.11 | 1,347.03 | 3.3% |
+| Currencies | $ INDEX | 100.22 | 100.25 | 100.25 | 99.62 | 99.39 | 1.1% |
+
+## Bunker Prices
+
+| Grade | Port | 18-Sep-26 | 11-Sep-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,440.5 | 1,308.5 | 10.1% |
+| MGO | Houston | 1,478.0 | 1,438.0 | 2.8% |
+| MGO | Singapore | 1,340.0 | 1,284.0 | 4.4% |
+| 380cst | Rotterdam | 609.5 | 618.0 | -1.4% |
+| 380cst | Houston | 529.0 | 515.0 | 2.7% |
+| 380cst | Singapore | 721.5 | 678.5 | 6.3% |
+| VLSFO | Rotterdam | 712.8 | 717.5 | -0.7% |
+| VLSFO | Houston | 759.5 | 763.3 | -0.5% |
+| VLSFO | Singapore | 859.3 | 885.5 | -3.0% |
+
+## Oil Prices
+
+| Category | Indicator | 18-Sep-26 | 11-Sep-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 103.9 | 104.6 | -0.7% |
+| OIL | WTI | 100.3 | 100.1 | 0.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 18-Sep-26 | 11-Sep-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 21.66 | 22.32 | -3.0% |
+| COSTAMARE INC | NYSE | USD | 15.46 | 15.28 | 1.2% |
+| DANAOS CORPORATION | NYSE | USD | 161.19 | 159.33 | 1.2% |
+| DIANA SHIPPING | NYSE | USD | 3.11 | 2.97 | 4.7% |
+| EUROSEAS LTD. | NASDAQ | USD | 77.59 | 74.56 | 4.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 3.92 | 3.72 | 5.4% |
+| SAFE BULKERS INC | NYSE | USD | 9.18 | 8.51 | 7.9% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 18.59 | 18.41 | 1.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 32.48 | 31.17 | 4.2% |
+| STEALTHGAS INC | NASDAQ | USD | 9.46 | 9.42 | 0.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 52.09 | 47.90 | 8.7% |
+
+## Macro-economic headlines
+
+In Eurozone, CPI inflation accelerated to 3.2% y-o-y in August, up from 2.9% in July and broadly in line with market expectations of 3.3%.
+
+In USA, the Fed raised by 25bps its benchmark interest rates at its September meeting, representing the first policy rate increase since 2023. The main benchmark rate increased to 4%, in line with market estimations.
+
+In Germany, PPI increased by 4.6% in August, exceeding market forecasts and well above the previously reported 3.0% in July.
+
+In China, the PBoC kept its benchmark lending rates unchanged in September for the sixteenth consecutive month, in line with market expectations. The one-year LPR remained at 3.0%, while the five-year LPR, the benchmark for mortgage rates, was held at 3.5%.

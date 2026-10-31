@@ -323,3 +323,79 @@ The recent fall on steel plate prices continues to affect the Indian-subcontinen
 | HARIN NAVEE 8 | 1,693 | 758 | 1987 | YAMANAKA, Japan | GENERAL CARGO | $ 520/Ldt | Indian |  |
 
 © Intermodal Research 31/08/2021 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 27-Aug-21 | 26-Aug-21 | 25-Aug-21 | 24-Aug-21 | 23-Aug-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.312 | 1.342 | 1.342 | 1.290 | 1.255 | 4.1% |
+| Stock Exchange Data | S&P 500 | 4,509.37 | 4,470.00 | 4,496.19 | 4,486.23 | 4,441.67 | 1.5% |
+| Stock Exchange Data | Nasdaq | 15,129.50 | 14,945.81 | 15,041.86 | 15,019.80 | 14,942.65 | 2.8% |
+| Stock Exchange Data | Dow Jones | 35,455.80 | 35,213.12 | 35,405.50 | 35,366.26 | 35,335.71 | 1.0% |
+| Stock Exchange Data | FTSE 100 | 7,148.01 | 7,124.98 | 7,150.12 | 7,125.78 | 7,109.02 | 0.8% |
+| Stock Exchange Data | FTSE All-Share UK | 4,121.03 | 4,106.66 | 4,119.44 | 4,104.84 | 4,092.12 | 0.9% |
+| Stock Exchange Data | CAC40 | 6,681.92 | 6,666.03 | 6,676.48 | 6,664.31 | 6,683.10 | 0.8% |
+| Stock Exchange Data | Xetra Dax | 15,851.75 | 15,793.62 | 15,860.66 | 15,905.85 | 15,852.79 | 0.0% |
+| Stock Exchange Data | Nikkei | 27,641.14 | 27,742.29 | 27,724.80 | 27,732.10 | 27,494.24 | 0.5% |
+| Stock Exchange Data | Hang Seng | 25,415.69 | 25,415.69 | 25,693.95 | 25,727.92 | 25,109.59 | 0.4% |
+| Stock Exchange Data | DJ US Maritime | 182.64 | 176.63 | 180.67 | 181.13 | 176.07 | 5.6% |
+| Currencies | € / $ | 1.18 | 1.18 | 1.18 | 1.18 | 1.17 | 0.9% |
+| Currencies | £ / $ | 1.38 | 1.37 | 1.38 | 1.37 | 1.37 | 1.0% |
+| Currencies | $ / ¥ | 109.83 | 110.06 | 109.98 | 109.71 | 109.67 | 0.0% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.11 | 0.11 | 0.11 | 3.5% |
+| Currencies | Yuan / $ | 6.47 | 6.48 | 6.48 | 6.47 | 6.48 | -0.5% |
+| Currencies | Won / $ | 1,162.33 | 1,170.77 | 1,164.75 | 1,164.24 | 1,168.50 | -1.1% |
+| Currencies | $ INDEX | 92.69 | 93.06 | 92.82 | 92.89 | 92.96 | -0.9% |
+
+## Bunker Prices
+
+| Grade | Port | 27-Aug-21 | 20-Aug-21 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 575.5 | 544.5 | 5.7% |
+| MGO | Houston | 598.5 | 582.5 | 2.7% |
+| MGO | Singapore | 566.0 | 538.5 | 5.1% |
+| 380cst | Rotterdam | 403.5 | 379.0 | 6.5% |
+| 380cst | Houston | 407.0 | 384.0 | 6.0% |
+| 380cst | Singapore | 435.5 | 390.0 | 11.7% |
+| VLSFO | Rotterdam | 509.5 | 473.0 | 7.7% |
+| VLSFO | Houston | 515.0 | 479.5 | 7.4% |
+| VLSFO | Singapore | 535.0 | 493.5 | 8.4% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 27-Aug-21 | 20-Aug-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 12.43 | 11.54 | 7.7% |
+| COSTAMARE INC | NYSE | USD | 13.68 | 11.87 | 15.2% |
+| DANAOS CORPORATION | NYSE | USD | 84.89 | 76.41 | 11.1% |
+| DIANA SHIPPING | NYSE | USD | 5.14 | 4.29 | 19.8% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 50.98 | 42.23 | 20.7% |
+| EUROSEAS LTD. | NASDAQ | USD | 24.34 | 21.09 | 15.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 3.10 | 2.59 | 19.7% |
+| NAVIOS MARITIME ACQUISITIONS | NYSE | USD | 3.61 | 1.84 | 96.2% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 5.56 | 3.83 | 45.2% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 27.52 | 23.85 | 15.4% |
+| SAFE BULKERS INC | NYSE | USD | 4.19 | 3.56 | 17.7% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.26 | 1.07 | 17.8% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 23.74 | 20.31 | 16.9% |
+| STEALTHGAS INC | NASDAQ | USD | 2.84 | 2.38 | 19.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 7.49 | 7.15 | 4.8% |
+| TOP SHIPS INC | NASDAQ | USD | 1.25 | 1.15 | 8.7% |
+
+## Market News
+
+“Navios Acquisition shares surge on back of Navios Partners bailout
+
+Shares of New York-listed Navios Maritime Acquisition surged 71.9% on Friday, the first day of trading after the announcement of its takeover by another Angeliki Frangou-led company, Navios Maritime Partners.
+
+The all-shares combination creates the largest US-listed shipowner by vessel count and also rescues Navios Acquisition from what had been an impending November maturity deadline for $397.5m in ship mortgage bonds.
+
+Investors had traded 25m shares of 45-tanker Navios Acquisition by lunchtime in New York on Friday against an average volume of 188,000. By the day's end, 35m shares changed hands, sending the share to a closing price of $3.61, up from a previous close of $2.10 before the deal was disclosed.
+
+The merger valued Navios Acquisition at an implied price of $3.40 per share based on the previous closing prices of the two companies.
+
+Shares of Navios Partners at first headed the other way, though the movement was more modest. They reversed course and ended Friday with a 2% improvement, closing at $27.52...”(TradeWinds)

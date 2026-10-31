@@ -216,7 +216,8 @@ def parse_finance_page(doc: pymupdf.Document, page_no: int, issue_date: str, rep
                         t_clean = tokens[j].replace(",", "")
                         if "%" in t_clean: pct = t_clean
                         else:
-                            m = re.search(r"[-+]?\d+(?:\.\d+)?", t_clean)
+                            # bare table cells only: prose next to a port name ("$16.85m ... Piraeus") is not a price
+                            m = re.fullmatch(r"[-+]?\d+(?:\.\d+)?", t_clean)
                             if m: nums.append(float(m.group(0)))
                         j += 1
                     if nums:
@@ -424,10 +425,20 @@ def _write_series(path, fieldnames, rows, merge_sources):
     """Full run: rewrite. --files run: keep the CSV's rows from other reports, replace this run's reports."""
     if merge_sources is not None and path.exists():
         with open(path, newline="", encoding="utf-8") as fp:
-            kept = [r for r in csv.DictReader(fp) if r.get("source_file") not in merge_sources]
-        rows = kept + rows   # appended, not re-sorted: the diff shows only the new reports
+            old = list(csv.DictReader(fp))
+        by_src = {}
+        for r in rows:
+            by_src.setdefault(r.get("source_file"), []).append(r)
+        merged = []
+        for r in old:   # a re-run report replaces its rows in place; new reports are appended, not re-sorted
+            src = r.get("source_file")
+            if src not in merge_sources:
+                merged.append(r)
+            elif src in by_src:
+                merged.extend(by_src.pop(src))
+        rows = merged + [r for rs in by_src.values() for r in rs]
     with open(path, "w", newline="", encoding="utf-8") as fp:
-        writer = csv.DictWriter(fp, fieldnames=fieldnames)
+        writer = csv.DictWriter(fp, fieldnames=fieldnames, lineterminator="\n")
         writer.writeheader()
         writer.writerows(rows)
 
@@ -480,7 +491,7 @@ def run_all(only_files=None):
                     sc_data["tables"]["bunker_prices"] = bu
                     sc_data["tables"]["macro_indicators"] = ma
                     with open(sidecar_path, "w", encoding="utf-8") as fp:
-                        json.dump(sc_data, fp, indent=2)
+                        json.dump(sc_data, fp, indent=2, ensure_ascii=False)
             except Exception as e:
                 pass
 

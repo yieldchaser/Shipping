@@ -324,3 +324,77 @@ The recycling market has shown improved activity during the past few days, under
 | EIWA MARU NO. 2 | 1,120 | 593 | 1994 | MURAKAMI HIDE, Japan | TANKER | undisclosed | Bangladeshi |  |
 
 © Intermodal Research 30/08/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 26-Aug-22 | 25-Aug-22 | 24-Aug-22 | 23-Aug-22 | 22-Aug-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.035 | 3.026 | 3.106 | 3.054 | 3.037 | 1.5% |
+| Stock Exchange Data | S&P 500 | 4,057.66 | 4,199.12 | 4,140.77 | 4,128.73 | 4,228.48 | -4.0% |
+| Stock Exchange Data | Nasdaq | 12,141.71 | 12,639.27 | 12,431.53 | 12,381.30 | 12,381.57 | -4.4% |
+| Stock Exchange Data | Dow Jones | 32,283.40 | 33,291.78 | 32,969.23 | 32,909.59 | 33,063.61 | -4.2% |
+| Stock Exchange Data | FTSE 100 | 7,427.31 | 7,479.74 | 7,471.51 | 7,488.11 | 7,533.79 | -1.6% |
+| Stock Exchange Data | FTSE All-Share UK | 4,076.32 | 4,103.35 | 4,100.82 | 4,108.39 | 4,136.51 | -2.0% |
+| Stock Exchange Data | CAC40 | 6,274.26 | 6,381.56 | 6,386.76 | 6,362.02 | 6,378.74 | -3.4% |
+| Stock Exchange Data | Xetra Dax | 12,971.47 | 13,271.96 | 13,220.06 | 13,194.23 | 13,230.57 | -2.0% |
+| Stock Exchange Data | Nikkei | 28,641.38 | 28,479.01 | 28,313.47 | 28,452.75 | 28,794.50 | -0.5% |
+| Stock Exchange Data | Hang Seng | 19,968.38 | 19,968.38 | 19,268.74 | 19,503.25 | 19,656.98 | 1.0% |
+| Stock Exchange Data | DJ US Maritime | 226.20 | 233.85 | 220.45 | 220.26 | 217.63 | 1.1% |
+| Currencies | € / $ | 1.00 | 1.00 | 1.00 | 1.00 | 0.99 | -2.9% |
+| Currencies | £ / $ | 1.17 | 1.18 | 1.18 | 1.18 | 1.18 | -3.4% |
+| Currencies | $ / ¥ | 137.66 | 136.57 | 137.07 | 136.73 | 137.55 | 3.2% |
+| Currencies | $ / NoK | 0.10 | 0.10 | 0.10 | 0.10 | 0.10 | -3.8% |
+| Currencies | Yuan / $ | 6.87 | 6.85 | 6.86 | 6.84 | 6.85 | 1.9% |
+| Currencies | Won / $ | 1,342.18 | 1,334.81 | 1,341.00 | 1,339.45 | 1,343.70 | 3.1% |
+| Currencies | $ INDEX | 108.80 | 108.47 | 108.68 | 108.62 | 109.05 | 0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 26-Aug-22 | 19-Aug-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,186.0 | 1,082.0 | 9.6% |
+| MGO | Houston | 1,226.0 | 1,054.5 | 16.3% |
+| MGO | Singapore | 1,163.5 | 1,043.0 | 11.6% |
+| 380cst | Rotterdam | 532.0 | 532.5 | -0.1% |
+| 380cst | Houston | 560.5 | 573.0 | -2.2% |
+| 380cst | Singapore | 516.5 | 521.5 | -1.0% |
+| VLSFO | Rotterdam | 741.5 | 733.0 | 1.2% |
+| VLSFO | Houston | 763.0 | 734.0 | 4.0% |
+| VLSFO | Singapore | 791.0 | 763.5 | 3.6% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 26-Aug-22 | 19-Aug-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.17 | 14.91 | 1.7% |
+| COSTAMARE INC | NYSE | USD | 11.86 | 11.56 | 2.6% |
+| DANAOS CORPORATION | NYSE | USD | 66.15 | 70.90 | -6.7% |
+| DIANA SHIPPING | NYSE | USD | 5.08 | 5.51 | -7.8% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 46.86 | 47.77 | -1.9% |
+| EUROSEAS LTD. | NASDAQ | USD | 22.86 | 24.08 | -5.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.68 | 1.77 | -5.1% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.29 | 2.24 | 2.2% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 26.75 | 27.44 | -2.5% |
+| SAFE BULKERS INC | NYSE | USD | 3.35 | 3.60 | -6.9% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.57 | 0.66 | -13.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 21.53 | 24.99 | -13.8% |
+| STEALTHGAS INC | NASDAQ | USD | 3.08 | 2.55 | 20.8% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 15.00 | 14.98 | 0.1% |
+
+## Market News
+
+“It’s been a long road back to $3 for Overseas Shipholding Group
+
+As a US-flag tanker owner, Florida-based Overseas Shipholding Group (OSG) is not the most high-profile or heavily traded of shipping stocks, so a modest milestone reached on Thursday went largely unnoticed.
+
+But the New York-listed owner nonetheless broke through the $3 per share barrier for the first time since July 2021. With further gains on Friday, the stock was trending toward its first close above $3 since November 2018.
+
+OSG has benefitted from a recovery in the Jones Act cabotage market that has paralleled an improvement in international tanker trade, where stocks also have been on the rise.
+
+But there is more significance to the $3 figure.
+
+That is the per-share price OSG was offered by major shareholder Saltchuk Resources in July 2021 in a takeover bid that would have seen the Florida company go private...(TradeWinds)

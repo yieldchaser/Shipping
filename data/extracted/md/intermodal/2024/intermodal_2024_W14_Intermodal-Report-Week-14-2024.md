@@ -245,3 +245,78 @@ The ship recycling sector is currently undergoing a period of cautious optimism,
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SAWASDEE SINGAPORE | 20,156 | 7,098 | 1995 | THYSEEN N | CONTAINER | 602 | Bangladeshi | incl bunkers abt 550t |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 5-Apr-24 | 4-Apr-24 | 3-Apr-24 | 2-Apr-24 | 1-Apr-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.378 | 4.309 | 4.355 | 4.365 | 4.329 | 4.4% |
+| Stock Exchange Data | S&P 500 | 5,204.34 | 5,147.21 | 5,211.49 | 5,205.81 | 5,243.77 | -1.0% |
+| Stock Exchange Data | Nasdaq | 18,108.46 | 17,878.78 | 18,160.19 | 18,121.78 | 18,293.20 | -0.8% |
+| Stock Exchange Data | Dow Jones | 38,904.10 | 38,597.30 | 39,127.01 | 39,171.22 | 39,566.85 | -2.3% |
+| Stock Exchange Data | FTSE 100 | 7,911.16 | 7,975.89 | 7,937.44 | 7,935.09 | 7,952.62 | -0.5% |
+| Stock Exchange Data | FTSE All-Share UK | 4,313.94 | 4,348.49 | 4,326.83 | 4,324.53 | 4,338.05 | -0.6% |
+| Stock Exchange Data | CAC40 | 8,061.31 | 8,151.55 | 8,153.23 | 8,130.05 | 8,205.81 | -1.8% |
+| Stock Exchange Data | Xetra Dax | 18,175.04 | 18,403.13 | 18,367.72 | 18,283.13 | 18,492.49 | -1.7% |
+| Stock Exchange Data | Nikkei | 38,992.08 | 39,773.14 | 39,451.85 | 39,838.91 | 39,803.09 | -3.4% |
+| Stock Exchange Data | Hang Seng | 16,723.92 | 16,725.10 | 37,703.32 | 16,931.52 | 16,541.42 | 1.1% |
+| Stock Exchange Data | DJ US Maritime | 324.45 | 319.95 | 319.03 | 310.40 | mrkt closed | 3.7% |
+| Currencies | € / $ | 1.08 | 1.08 | 1.08 | 1.08 | 1.07 | 0.4% |
+| Currencies | £ / $ | 1.26 | 1.26 | 1.27 | 1.26 | 1.26 | 0.1% |
+| Currencies | $ / ¥ | 151.61 | 151.33 | 151.68 | 151.55 | 151.63 | 0.2% |
+| Currencies | $ / NoK | 10.71 | 10.72 | 10.71 | 10.83 | 10.95 | -1.0% |
+| Currencies | Yuan / $ | 7.23 | 7.23 | 7.23 | 7.23 | 7.23 | 0.2% |
+| Currencies | Won / $ | 1,350.91 | 1,351.08 | 1,344.74 | 1,351.45 | 1,353.34 | 0.4% |
+| Currencies | $ INDEX | 104.30 | 104.12 | 104.25 | 104.82 | 105.02 | -0.2% |
+
+## Bunker Prices
+
+| Grade | Port | 5-Apr-24 | 29-Mar-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 810.0 | 761.0 | 6.4% |
+| MGO | Houston | 500.0 | 470.0 | 6.4% |
+| MGO | Singapore | 810.0 | 774.0 | 4.7% |
+| 380cst | Rotterdam | 508.0 | 481.0 | 5.6% |
+| 380cst | Houston | 500.0 | 470.0 | 6.4% |
+| 380cst | Singapore | 510.0 | 490.0 | 4.1% |
+| VLSFO | Rotterdam | 620.0 | 594.0 | 4.4% |
+| VLSFO | Houston | 647.0 | 641.0 | 0.9% |
+| VLSFO | Singapore | 647.0 | 645.0 | 0.3% |
+
+## Oil Prices
+
+| Category | Indicator | 5-Apr-24 | 29-Mar-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 91.2 | 87.5 | 4.2% |
+| OIL | WTI | 86.9 | 83.2 | 4.5% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 05-Apr-24 | 29-Mar-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 17.19 | 17.40 | -1.2% |
+| COSTAMARE INC | NYSE | USD | 11.42 | 11.35 | 0.6% |
+| DANAOS CORPORATION | NYSE | USD | 73.90 | 72.20 | 2.4% |
+| DIANA SHIPPING | NYSE | USD | 2.95 | 2.89 | 2.1% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 0.00 | 0.00 | #DIV/0! |
+| EUROSEAS LTD. | NASDAQ | USD | 37.05 | 35.85 | 3.3% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.15 | 2.20 | -2.3% |
+| SAFE BULKERS INC | NYSE | USD | 4.90 | 4.96 | -1.2% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 8.24 | 8.70 | -5.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 23.88 | 23.87 | 0.0% |
+| STEALTHGAS INC | NASDAQ | USD | 6.05 | 5.94 | 1.9% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 26.38 | 25.39 | 3.9% |
+
+## Macro-economic headlines
+
+• In the euro area, the March HCOB Eurozone Services PMI rose to 51.5, up from the 50.2 in February.
+
+• In US, March S&P Global US Manufacturing PMI declined to 51.9 down from 52.2 in February.
+
+• In UK, the March S&P Global/CIPS UK Composite PMI slightly decreased to 52.8, down from 53.0 in March.
+
+• In China, the March Caixin Services PMI rose to 52.7, up from 52.5 in February.

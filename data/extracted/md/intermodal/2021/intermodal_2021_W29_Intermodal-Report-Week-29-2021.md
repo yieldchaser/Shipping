@@ -305,3 +305,87 @@ Last week, the Eid holidays period had its own negative impact on an already slu
 | SALTSTRAUM | 2,533 | 1,117 | 1980 | BOLSONES VERFT, Norway | TANKER | $ 605/Ldt | Indian |
 
 © Intermodal Research 27/07/2021 6
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 23-Jul-21 | 22-Jul-21 | 21-Jul-21 | 20-Jul-21 | 19-Jul-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.286 | 1.265 | 1.280 | 1.209 | 1.181 | -1.1% |
+| Stock Exchange Data | S&P 500 | 4,411.79 | 4,367.48 | 4,358.69 | 4,323.06 | 4,327.16 | 2.0% |
+| Stock Exchange Data | Nasdaq | 14,836.99 | 14,684.60 | 14,631.95 | 14,498.88 | 14,274.98 | 2.8% |
+| Stock Exchange Data | Dow Jones | 35,061.55 | 34,823.35 | 34,798.00 | 34,511.99 | 33,962.04 | 1.1% |
+| Stock Exchange Data | FTSE 100 | 7,027.58 | 6,968.30 | 6,998.28 | 6,881.13 | 6,844.39 | 0.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,025.12 | 3,991.48 | 4,000.08 | 3,932.84 | 3,909.88 | 0.6% |
+| Stock Exchange Data | CAC40 | 6,568.82 | 6,481.59 | 6,464.48 | 6,346.85 | 6,295.97 | 1.7% |
+| Stock Exchange Data | Xetra Dax | 15,669.29 | 15,514.54 | 15,422.50 | 15,216.27 | 15,133.20 | 3.5% |
+| Stock Exchange Data | Nikkei | 27,548.00 | 27,548.00 | 27,548.00 | 27,388.16 | 27,652.74 | -0.4% |
+| Stock Exchange Data | Hang Seng | 27,723.84 | 27,723.84 | 27,224.58 | 27,259.25 | 27,489.78 | -1.0% |
+| Stock Exchange Data | DJ US Maritime | 194.36 | 192.39 | 194.59 | 192.55 | 183.56 | 3.3% |
+| Currencies | € / $ | 1.18 | 1.18 | 1.18 | 1.18 | 1.18 | -0.3% |
+| Currencies | £ / $ | 1.37 | 1.38 | 1.37 | 1.36 | 1.37 | -0.3% |
+| Currencies | $ / ¥ | 110.55 | 110.13 | 110.26 | 109.92 | 109.54 | 0.4% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.11 | 0.11 | 0.11 | 0.0% |
+| Currencies | Yuan / $ | 6.48 | 6.47 | 6.47 | 6.49 | 6.49 | 0.0% |
+| Currencies | Won / $ | 1,152.12 | 1,150.87 | 1,149.69 | 1,148.50 | 1,151.13 | 0.8% |
+| Currencies | $ INDEX | 92.91 | 92.82 | 92.75 | 92.97 | 92.89 | 0.2% |
+
+## Bunker Prices
+
+| Grade | Port | 23-Jul-21 | 16-Jul-21 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 595.5 | 592.0 | 0.6% |
+| MGO | Houston | 617.0 | 610.0 | 1.1% |
+| MGO | Singapore | 590.0 | 588.0 | 0.3% |
+| 380cst | Rotterdam | 409.0 | 408.0 | 0.2% |
+| 380cst | Houston | 412.0 | 417.5 | -1.3% |
+| 380cst | Singapore | 421.0 | 419.0 | 0.5% |
+| VLSFO | Rotterdam | 525.0 | 527.5 | -0.5% |
+| VLSFO | Houston | 519.5 | 528.5 | -1.7% |
+| VLSFO | Singapore | 546.0 | 547.5 | -0.3% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 23-Jul-21 | 16-Jul-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 11.71 | 11.07 | 5.8% |
+| COSTAMARE INC | NYSE | USD | 10.31 | 10.54 | -2.2% |
+| DANAOS CORPORATION | NYSE | USD | 66.98 | 62.14 | 7.8% |
+| DIANA SHIPPING | NYSE | USD | 4.18 | 3.91 | 6.9% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 41.78 | 37.90 | 10.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 18.65 | 18.19 | 2.5% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.75 | 2.91 | -5.5% |
+| NAVIOS MARITIME ACQUISITIONS | NYSE | USD | 2.44 | 2.66 | -8.3% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 4.68 | 5.30 | -11.7% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 23.29 | 21.47 | 8.5% |
+| SAFE BULKERS INC | NYSE | USD | 3.32 | 3.10 | 7.1% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.04 | 1.02 | 2.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.53 | 17.34 | 6.9% |
+| STEALTHGAS INC | NASDAQ | USD | 2.59 | 2.61 | -0.8% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 7.55 | 7.64 | -1.2% |
+| TOP SHIPS INC | NASDAQ | USD | 1.33 | 1.30 | 2.3% |
+
+## Market News
+
+“Pictet and Newton funds sell $15.6m of Tufton stock after price jumps
+
+Two big UK investment funds have sold down stakes worth about $15.6m in Tufton Oceanic Assets.
+
+The UK shipowner has seen its stock price rise 33% over the last year.
+
+In a London stock exchange filing, London's Pictet Asset Management said it had cut its stake from 9.23% to 4.64% on 19 July, with 12.5m shares left.
+
+A day later, UK-based Newton Investment Management reduced its holding from 5.22% to 4.85%, retaining 13.1m shares.
+
+This is a combined disposal of about 5% of the shipowner.
+
+Share price climbing
+
+The share price was $0.82 in September 2020, but is now $1.16, up 33% over a year, and 2% over the last week.
+
+Tufton Oceanic's market cap is around £227m ($312m).
+
+Market Screener previously listed Pictet as the third and Newton as the fourth largest shareholders in Tufton Oceanic...”(TradeWinds)

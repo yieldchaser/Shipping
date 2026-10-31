@@ -253,3 +253,70 @@ The market seems to be taking a break, with few deals concluded and the healthie
 | FORTUNE TRADER | 24,444 | 7,192 | 1994 | IMABARI, Japan | CONTAINER | $ 612/Ldt | Indian | incl. 100T bunkers |
 | GSS YANGON | 18,166 | 6,121 | 1993 | IMABARI, Japan | CONTAINER | $ 530/Ldt | undisclosed | as is Singapore |
 | MSC MARIA | 8,780 | 3,952 | 1993 | BRAND H. KG, Germany | GENERAL CARGO | $ 547/Ldt | Indian | HKC recycling |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 29-Sep-23 | 28-Sep-23 | 27-Sep-23 | 26-Sep-23 | 25-Sep-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.573 | 4.597 | 4.626 | 4.558 | 4.542 | 2.1% |
+| Stock Exchange Data | S&P 500 | 4,288.05 | 4,299.70 | 4,274.51 | 4,273.53 | 4,337.44 | -0.7% |
+| Stock Exchange Data | Nasdaq | 13,219.32 | 13,201.28 | 13,092.85 | 13,063.61 | 13,271.32 | 0.1% |
+| Stock Exchange Data | Dow Jones | 33,507.50 | 33,666.34 | 33,550.27 | 33,618.88 | 34,006.88 | -1.3% |
+| Stock Exchange Data | FTSE 100 | 7,608.08 | 7,601.85 | 7,593.22 | 7,625.72 | 7,623.99 | -1.0% |
+| Stock Exchange Data | FTSE All-Share UK | 4,127.24 | 4,118.34 | 4,118.27 | 4,136.92 | 4,139.09 | -1.1% |
+| Stock Exchange Data | CAC40 | 7,135.06 | 7,116.24 | 7,071.79 | 7,074.02 | 7,123.88 | -0.7% |
+| Stock Exchange Data | Xetra Dax | 15,386.58 | 15,323.50 | 15,217.45 | 15,255.87 | 15,405.49 | -0.1% |
+| Stock Exchange Data | Nikkei | 31,857.62 | 31,872.52 | 32,371.90 | 32,315.05 | 32,678.62 | -2.5% |
+| Stock Exchange Data | Hang Seng | 17,809.66 | 17,373.03 | 17,611.87 | 17,466.90 | 17,729.29 | 0.5% |
+| Stock Exchange Data | DJ US Maritime | 275.90 | 275.90 | 273.63 | 273.63 | 276.00 | 0.4% |
+| Currencies | € / $ | 1.06 | 1.06 | 1.05 | 1.06 | 1.06 | -0.8% |
+| Currencies | £ / $ | 1.22 | 1.22 | 1.21 | 1.21 | 1.22 | -0.3% |
+| Currencies | $ / ¥ | 149.38 | 149.35 | 149.50 | 149.05 | 148.81 | 0.7% |
+| Currencies | $ / NoK | 0.0925 | 0.0932 | 0.0929 | 0.0924 | 0.0925 | -0.2% |
+| Currencies | Yuan / $ | 7.30 | 7.30 | 7.31 | 7.31 | 7.31 | 0.0% |
+| Currencies | Won / $ | 1,352.93 | 1,348.85 | 1,353.82 | 1,354.31 | 1,339.45 | 1.3% |
+| Currencies | $ INDEX | 106.22 | 106.22 | 106.67 | 106.23 | 106.00 | 0.8% |
+
+## Bunker Prices
+
+| Grade | Port | 29-Sep-23 | 22-Sep-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 29-Sep-23 | 22-Sep-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.01 | 13.99 | 0.1% |
+| COSTAMARE INC | NYSE | USD | 9.62 | 9.32 | 3.2% |
+| DANAOS CORPORATION | NYSE | USD | 66.22 | 66.28 | -0.1% |
+| DIANA SHIPPING | NYSE | USD | 3.47 | 3.47 | 0.0% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 42.03 | 39.92 | 5.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 26.66 | 25.72 | 3.7% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.84 | 1.49 | 23.5% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.00 | 1.91 | 4.7% |
+| SAFE BULKERS INC | NYSE | USD | 3.24 | 3.25 | -0.3% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 5.52 | 5.39 | 2.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.28 | 18.48 | 4.3% |
+| STEALTHGAS INC | NASDAQ | USD | 5.04 | 5.39 | -6.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 20.78 | 19.71 | 5.4% |
+
+## Macro-economic headlines
+
+• US: GDP rose by 2.1% in Q2, showing a steady increase. The US core PCE price index (excluding food and energy) rose by 3.9% on an annual basis in August, pointing to a slight decline in inflation. New home sales came in at 675k in September, down from 700k the previous month.
+
+• EU: In the eurozone, core CPI rose 0.3% on the month and 4.5% on the year, showing a robust disinflationary trend.
+
+• China: The manufacturing PMI came in at 50.2 in September, above the 50-point mark and not in expansionary territory, while the non-manufacturing PMI came in at 51.7 in September, up slightly from the previous month.

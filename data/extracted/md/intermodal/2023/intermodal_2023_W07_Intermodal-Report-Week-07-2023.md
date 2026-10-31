@@ -315,3 +315,76 @@ The demolition market is showing signs of strength with a healthy amount of mate
 | TANTO SENTOSA | 6,829 | 2,726 | 1984 | TAIHEI AKITSU, Japan | CONTAINER | $ 490/Ldt | undisclosed | "as is" Malaysia |
 
 © Intermodal Research 21/02/2023 6
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 17-Feb-23 | 16-Feb-23 | 15-Feb-23 | 14-Feb-23 | 13-Feb-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.828 | 3.843 | 3.809 | 3.761 | 3.717 | 2.2% |
+| Stock Exchange Data | S&P 500 | 4,079.09 | 4,090.41 | 4,147.60 | 4,136.13 | 3,990.97 | -0.3% |
+| Stock Exchange Data | Nasdaq | 11,787.27 | 11,855.83 | 12,070.59 | 11,960.15 | 11,891.79 | 0.6% |
+| Stock Exchange Data | Dow Jones | 33,826.69 | 33,696.85 | 34,128.05 | 34,089.27 | 34,245.93 | -0.1% |
+| Stock Exchange Data | FTSE 100 | 8,004.36 | 8,012.53 | 7,997.83 | 7,953.85 | 7,947.60 | 1.5% |
+| Stock Exchange Data | FTSE All-Share UK | 4,370.32 | 4,377.36 | 4,369.80 | 4,345.08 | 4,345.77 | 1.3% |
+| Stock Exchange Data | CAC40 | 7,347.72 | 7,366.16 | 7,300.86 | 7,213.81 | 7,208.59 | 3.1% |
+| Stock Exchange Data | Xetra Dax | 15,482.00 | 15,533.64 | 15,506.34 | 15,380.56 | 15,397.34 | 0.5% |
+| Stock Exchange Data | Nikkei | 27,513.13 | 27,696.44 | 27,501.86 | 27,602.77 | 27,427.32 | 0.3% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 20,987.67 | 20,812.17 | 21,113.76 | 21,164.42 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 239.85 | 242.02 | 241.79 | 239.85 | 240.02 | -0.3% |
+| Currencies | € / $ | 1.07 | 1.07 | 1.07 | 1.07 | 1.07 | 0.2% |
+| Currencies | £ / $ | 1.20 | 1.20 | 1.20 | 1.22 | 1.22 | -0.2% |
+| Currencies | $ / ¥ | 134.11 | 134.06 | 133.92 | 132.98 | 132.34 | 2.0% |
+| Currencies | $ / NoK | 0.0972 | 0.0974 | 0.0979 | 0.0986 | 0.0991 | -1.1% |
+| Currencies | Yuan / $ | 6.87 | 6.86 | 6.85 | 6.83 | 6.82 | 0.9% |
+| Currencies | Won / $ | 1,295.90 | 1,289.96 | 1,284.10 | 1,272.60 | 1,273.29 | 2.2% |
+| Currencies | $ INDEX | 103.86 | 103.86 | 103.92 | 103.23 | 103.35 | 0.2% |
+
+## Bunker Prices
+
+| Grade | Port | 17-Feb-23 | 10-Feb-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 17-Feb-23 | 10-Feb-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.35 | 13.91 | 3.2% |
+| COSTAMARE INC | NYSE | USD | 10.13 | 9.92 | 2.1% |
+| DANAOS CORPORATION | NYSE | USD | 59.65 | 60.84 | -2.0% |
+| DIANA SHIPPING | NYSE | USD | 4.21 | 4.07 | 3.4% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 57.30 | 58.19 | -1.5% |
+| EUROSEAS LTD. | NASDAQ | USD | 17.69 | 19.51 | -9.3% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.14 | 1.17 | -2.6% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.25 | 2.39 | -5.9% |
+| SAFE BULKERS INC | NYSE | USD | 3.25 | 3.27 | -0.6% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 5.27 | 5.98 | -11.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 21.62 | 22.91 | -5.6% |
+| STEALTHGAS INC | NASDAQ | USD | 2.66 | 2.79 | -4.7% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 20.86 | 19.51 | 6.9% |
+
+## Market News
+
+“Star Bulk halves dividend on profit dip but beats Baltic index
+
+Back in January Star Bulk Carriers co-chief financial officer Christos Begleris admitted his company could not guarantee consistent earnings in volatile markets.
+
+The US-listed company’s earnings during the fourth quarter of its 2022 financial year, announced on Thursday, have proven that statement to be true.
+
+The owner and operator of 128 vessels revealed that its net income for the quarter came in at $85.8m, or $0.84 earnings per share, compared to a net income for the fourth quarter of 2021 of $300.2m, or $2.93 earnings per share.
+
+Voyage revenues for the quarter fell to $294.8m from $499.9m in the corresponding period of 2021.
+
+These lacklustre earnings impacted Star Bulk’s overall performance for its full financial year, dragging net profit down to $566m on voyage revenues of $1.44bn, as compared to the...(TradeWinds)

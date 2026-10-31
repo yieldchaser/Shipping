@@ -289,3 +289,91 @@ The ship recycling market continues to witness impressive scrap levels from the 
 | ALBATROSS 07 | 1,819 | 1,241 | 1985 | ROBIN SHIPYARD, Singapore | OFFSHORE/TUG | $ 495/Ldt | Indian |  |
 
 © Intermodal Research 10/08/2021 6
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 6-Aug-21 | 5-Aug-21 | 4-Aug-21 | 3-Aug-21 | 2-Aug-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.290 | 1.217 | 1.184 | 1.176 | 1.174 | 4.1% |
+| Stock Exchange Data | S&P 500 | 4,436.52 | 4,429.10 | 4,402.66 | 4,423.15 | 4,395.26 | 0.9% |
+| Stock Exchange Data | Nasdaq | 14,835.76 | 14,895.12 | 14,780.53 | 14,761.30 | 14,681.07 | 1.1% |
+| Stock Exchange Data | Dow Jones | 35,208.51 | 35,064.25 | 34,792.67 | 35,116.40 | 34,838.16 | 0.8% |
+| Stock Exchange Data | FTSE 100 | 7,122.95 | 7,120.43 | 7,123.86 | 7,105.72 | 7,081.72 | 1.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,088.94 | 4,089.91 | 4,085.47 | 4,074.79 | 4,061.12 | 1.5% |
+| Stock Exchange Data | CAC40 | 6,816.96 | 6,781.19 | 6,746.23 | 6,723.81 | 6,675.90 | 3.1% |
+| Stock Exchange Data | Xetra Dax | 15,761.45 | 15,744.67 | 15,692.13 | 15,555.08 | 15,568.73 | 1.2% |
+| Stock Exchange Data | Nikkei | 27,820.04 | 27,728.12 | 27,584.08 | 27,641.83 | 27,781.02 | 0.1% |
+| Stock Exchange Data | Hang Seng | 26,204.69 | 26,204.69 | 26,426.55 | 26,194.82 | 26,235.80 | -0.4% |
+| Stock Exchange Data | DJ US Maritime | 189.27 | 186.78 | 184.45 | 188.35 | 186.55 | -0.4% |
+| Currencies | € / $ | 1.18 | 1.18 | 1.18 | 1.19 | 1.19 | -0.9% |
+| Currencies | £ / $ | 1.39 | 1.39 | 1.39 | 1.39 | 1.39 | -0.2% |
+| Currencies | $ / ¥ | 110.23 | 109.77 | 109.53 | 108.99 | 109.28 | 0.5% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.11 | 0.11 | 0.11 | -0.8% |
+| Currencies | Yuan / $ | 6.48 | 6.46 | 6.47 | 6.47 | 6.46 | 0.3% |
+| Currencies | Won / $ | 1,145.92 | 1,142.84 | 1,145.14 | 1,148.62 | 1,150.49 | -0.5% |
+| Currencies | $ INDEX | 92.80 | 92.24 | 92.27 | 92.08 | 92.05 | 0.7% |
+
+## Bunker Prices
+
+| Grade | Port | 6-Aug-21 | 30-Jul-21 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 581.0 | 592.0 | -1.9% |
+| MGO | Houston | 608.5 | 624.0 | -2.5% |
+| MGO | Singapore | 592.5 | 597.0 | -0.8% |
+| 380cst | Rotterdam | 410.0 | 423.0 | -3.1% |
+| 380cst | Houston | 405.0 | 431.5 | -6.1% |
+| 380cst | Singapore | 423.0 | 434.5 | -2.6% |
+| VLSFO | Rotterdam | 513.5 | 537.5 | -4.5% |
+| VLSFO | Houston | 515.5 | 541.0 | -4.7% |
+| VLSFO | Singapore | 537.0 | 554.0 | -3.1% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 06-Aug-21 | 30-Jul-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 11.69 | 11.97 | -2.3% |
+| COSTAMARE INC | NYSE | USD | 11.24 | 10.84 | 3.7% |
+| DANAOS CORPORATION | NYSE | USD | 71.25 | 67.39 | 5.7% |
+| DIANA SHIPPING | NYSE | USD | 4.24 | 4.34 | -2.3% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 41.60 | 41.70 | -0.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 19.80 | 19.04 | 4.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.90 | 2.84 | 2.1% |
+| NAVIOS MARITIME ACQUISITIONS | NYSE | USD | 2.20 | 2.39 | -7.9% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 4.00 | 4.23 | -5.4% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 22.45 | 22.26 | 0.9% |
+| SAFE BULKERS INC | NYSE | USD | 3.37 | 3.34 | 0.9% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.00 | 1.02 | -2.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.37 | 19.03 | 1.8% |
+| STEALTHGAS INC | NASDAQ | USD | 2.57 | 2.56 | 0.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 7.32 | 7.95 | -7.9% |
+| TOP SHIPS INC | NASDAQ | USD | 1.31 | 1.34 | -2.2% |
+
+## Market News
+
+“Star Bulk launches $50m buyback and lowers costs with $430m of loans
+
+Greece's Star Bulk Carriers is to return part of a mammoth second-quarter profit to shareholders.
+
+The New York-listed bulker owner is launching a $50m share buyback, as well as paying a $0.70 per share dividend.
+
+Star Bulk also revealed a series of new loans totalling about $430m.
+
+The moves come after the company logged net earnings of $124m in strong markets to 30 June, turning around a loss of $44m in 2020.
+
+Revenue jumped to $311m from $146m.
+
+Chief executive Petros Pappas said the quarter was a record for the company.
+
+The daily time-charter equivalent earnings figure was $22,927 per day.
+
+Charter coverage for the third quarter is even better at $28,345 per day for 65.7% of available days.
+
+Spot is where it's at
+
+"As we continue to expect a strong market for Q4, we have kept our fleet mostly spot trading," the CEO added.
+
+"In addition, we continue to...”(TradeWinds)

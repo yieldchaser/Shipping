@@ -246,3 +246,69 @@ With freight rates still competitive in all markets, owners are also reluctant t
 | BROTHER GLORY | 70,529 | 10,161 | 1998 | SANOYAS, Japan | BC | undisclosed | undisclosed |
 | WADI S | 70,087 | 10,247 | 1994 | DAEWOO, S. Korea | BC | $ 535/Ldt | Bangladeshi |
 | SAVIZ | 23,176 | 8,094 | 1999 | GSI, China | GENERAL CARGO | undisclosed | undisclosed |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 2-Feb-24 | 1-Feb-24 | 31-Jan-24 | 30-Jan-24 | 29-Jan-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.031 | 3.863 | 3.965 | 4.057 | 4.091 | -3.1% |
+| Stock Exchange Data | S&P 500 | 4,958.61 | 4,906.19 | 4,845.65 | 4,924.97 | 4,927.93 | 1.4% |
+| Stock Exchange Data | Nasdaq | 17,642.73 | 17,344.71 | 17,137.24 | 17,476.71 | 17,596.27 | 1.3% |
+| Stock Exchange Data | Dow Jones | 38,109.43 | 38,049.13 | 37,806.39 | 37,905.45 | 38,001.81 | 0.6% |
+| Stock Exchange Data | FTSE 100 | 7,615.54 | 7,622.16 | 7,630.57 | 7,666.31 | 7,632.74 | -0.3% |
+| Stock Exchange Data | FTSE All-Share UK | 1,833.94 | 1,827.89 | 1,821.99 | 1,837.10 | 1,834.35 | 0.4% |
+| Stock Exchange Data | CAC40 | 7,592.26 | 7,588.75 | 7,656.75 | 7,677.47 | 7,640.81 | -0.5% |
+| Stock Exchange Data | Xetra Dax | 16,918.21 | 16,859.04 | 16,903.76 | 16,972.34 | 16,941.71 | -0.3% |
+| Stock Exchange Data | Nikkei | 35,751.07 | 36,236.47 | 36,226.48 | 36,517.57 | 36,546.95 | -0.1% |
+| Stock Exchange Data | Hang Seng | 15,533.56 | 15,566.21 | 15,485.07 | 15,703.45 | 16,077.24 | -2.6% |
+| Stock Exchange Data | DJ US Maritime | 262.04 | 259.12 | 259.12 | 254.17 | 258.04 | 3.6% |
+| Currencies | € / $ | 1.08 | 1.09 | 1.08 | 1.08 | 1.08 | -0.6% |
+| Currencies | £ / $ | 1.26 | 1.27 | 1.27 | 1.27 | 1.27 | -0.6% |
+| Currencies | $ / ¥ | 148.37 | 146.42 | 146.88 | 147.60 | 147.49 | 0.1% |
+| Currencies | $ / NoK | 10.59 | 10.43 | 10.50 | 10.44 | 10.42 | 1.8% |
+| Currencies | Yuan / $ | 7.19 | 7.18 | 7.17 | 7.18 | 7.18 | 0.2% |
+| Currencies | Won / $ | 1,337.76 | 1,328.95 | 1,333.59 | 1,328.53 | 1,332.96 | 0.1% |
+| Currencies | $ INDEX | 103.92 | 103.05 | 103.27 | 103.40 | 103.61 | 0.5% |
+
+## Bunker Prices
+
+| Grade | Port | 2-Feb-24 | 26-Jan-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 777.0 | 796.0 | -2.4% |
+| MGO | Houston | 426.0 | 457.0 | -6.8% |
+| MGO | Singapore | 791.0 | 801.0 | -1.2% |
+| 380cst | Rotterdam | 441.0 | 451.0 | -2.2% |
+| 380cst | Houston | 426.0 | 457.0 | -6.8% |
+| 380cst | Singapore | 445.0 | 451.0 | -1.3% |
+| VLSFO | Rotterdam | 559.0 | 588.0 | -4.9% |
+| VLSFO | Houston | 624.0 | 619.0 | 0.8% |
+| VLSFO | Singapore | 631.0 | 652.0 | -3.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 02-Feb-24 | 26-Jan-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.35 | 18.25 | 0.5% |
+| COSTAMARE INC | NYSE | USD | 10.35 | 10.88 | -4.9% |
+| DANAOS CORPORATION | NYSE | USD | 74.30 | 77.13 | -3.7% |
+| DIANA SHIPPING | NYSE | USD | 2.90 | 3.09 | -6.1% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 54.00 | 55.95 | -3.5% |
+| EUROSEAS LTD. | NASDAQ | USD | 38.99 | 38.89 | 0.3% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.24 | 2.34 | -4.3% |
+| SAFE BULKERS INC | NYSE | USD | 3.91 | 4.14 | -5.6% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 7.34 | 8.01 | -8.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 21.52 | 22.04 | -2.4% |
+| STEALTHGAS INC | NASDAQ | USD | 7.21 | 7.95 | -9.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 24.17 | 24.90 | -2.9% |
+
+## Macro-economic headlines
+
+• China: The composite PMI stood at 50.9 in January, up slightly from 50.3 in the previous month. Both the manufacturing (49.20) and non-manufacturing (50.7) PMIs rose on the month.
+
+• EU: Euro area GDP rose by 0.1% on an annual basis in the fourth quarter, while the CPI was 2.8% in January. German GDP fell by 0.2% in the same period. Staying in Germany, the unemployment rate for January was 5.8%, while the CPI was 2.9%.
+
+• US: The Fed left interest rates unchanged at 5.50%. A cut is expected later this year. The Chicago PMI fell to 46.0 in January from 47.2 in December. The ISM Manufacturing PMI for January was 49.1, up from 47.1 the previous month. The labour market was also strong, with unemployment at 3.7% in January and non-farm payrolls rising to 353,000 in January from 333,000 in December.

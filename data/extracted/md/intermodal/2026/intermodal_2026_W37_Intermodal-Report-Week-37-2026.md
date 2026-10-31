@@ -244,3 +244,75 @@ The Turkish market improved modestly this week, with prices edging higher on the
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | UNIORDER | 47,240 | 7,060 | 1997 | OSHIMA, Japan | BC | $450/Ldt | Bangladeshi | as is Belawan |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 11-Sep-26 | 10-Sep-26 | 9-Sep-26 | 8-Sep-26 | 7-Sep-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.975 | 4.944 | 4.837 | 4.804 | 4.784 | 4.0% |
+| Stock Exchange Data | S&P 500 | 7,656.98 | 7,591.70 | 7,636.36 | 7,673.52 | 7,718.60 | -0.8% |
+| Stock Exchange Data | Nasdaq | 29,368.44 | 29,103.51 | 29,421.55 | 29,507.70 | 29,544.16 | -0.6% |
+| Stock Exchange Data | Dow Jones | 52,573.29 | 52,064.10 | 52,380.66 | 52,786.07 | 53,414.25 | -1.6% |
+| Stock Exchange Data | FTSE 100 | 10,650.44 | 10,608.92 | 10,670.06 | 10,811.66 | 10,822.13 | -1.7% |
+| Stock Exchange Data | FTSE All-Share UK | 5,733.64 | 5,711.50 | 5,746.58 | 5,820.54 | 5,829.78 | -1.8% |
+| Stock Exchange Data | CAC40 | 8,179.77 | 8,116.76 | 8,156.67 | 8,317.98 | 8,306.15 | -1.2% |
+| Stock Exchange Data | Xetra Dax | 25,568.56 | 25,361.15 | 25,576.45 | 26,007.63 | 26,006.53 | -1.8% |
+| Stock Exchange Data | Nikkei | 64,011.34 | 65,270.95 | 65,142.78 | 65,269.33 | 66,399.84 | -1.6% |
+| Stock Exchange Data | Hang Seng | 24,805.63 | 24,954.47 | 25,274.96 | 25,317.18 | 25,413.12 | -3.3% |
+| Stock Exchange Data | DJ US Maritime | 457.65 | 454.93 | 454.86 | 452.99 | 462.08 | -1.0% |
+| Currencies | € / $ | 1.16 | 1.16 | 1.16 | 1.16 | 1.16 | -0.1% |
+| Currencies | £ / $ | 1.35 | 1.35 | 1.35 | 1.35 | 1.35 | 0.0% |
+| Currencies | $ / ¥ | 153.54 | 154.42 | 153.54 | 153.96 | 154.35 | -1.7% |
+| Currencies | $ / NoK | 9.28 | 9.27 | 9.18 | 9.20 | 9.25 | -0.3% |
+| Currencies | Yuan / $ | 6.71 | 6.71 | 6.71 | 6.71 | 6.71 | 0.0% |
+| Currencies | Won / $ | 1,341.46 | 1,349.45 | 1,339.78 | 1,339.79 | 1,344.63 | -0.2% |
+| Currencies | $ INDEX | 99.12 | 99.05 | 98.82 | 98.79 | 99.18 | -0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 11-Sep-26 | 4-Sep-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,308.5 | 1,331.5 | -1.7% |
+| MGO | Houston | 1,438.0 | 1,273.8 | 12.9% |
+| MGO | Singapore | 1,284.0 | 1,230.0 | 4.4% |
+| 380cst | Rotterdam | 618.0 | 579.0 | 6.7% |
+| 380cst | Houston | 515.0 | 553.5 | -7.0% |
+| 380cst | Singapore | 678.5 | 623.5 | 8.8% |
+| VLSFO | Rotterdam | 717.5 | 666.3 | 7.7% |
+| VLSFO | Houston | 763.3 | 693.5 | 10.1% |
+| VLSFO | Singapore | 885.5 | 831.0 | 6.6% |
+
+## Oil Prices
+
+| Category | Indicator | 11-Sep-26 | 4-Sep-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 104.6 | 96.3 | 8.7% |
+| OIL | WTI | 100.1 | 91.5 | 9.4% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 11-Sep-26 | 04-Sep-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 22.32 | 22.65 | -1.5% |
+| COSTAMARE INC | NYSE | USD | 15.28 | 15.55 | -1.7% |
+| DANAOS CORPORATION | NYSE | USD | 159.33 | 155.26 | 2.6% |
+| DIANA SHIPPING | NYSE | USD | 2.97 | 3.01 | -1.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 74.56 | 76.35 | -2.3% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 3.72 | 3.69 | 0.8% |
+| SAFE BULKERS INC | NYSE | USD | 8.51 | 9.17 | -7.2% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 18.41 | 18.92 | -2.7% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 31.17 | 32.42 | -3.9% |
+| STEALTHGAS INC | NASDAQ | USD | 9.42 | 9.29 | 1.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 47.90 | 43.74 | 9.5% |
+
+## Macro-economic headlines
+
+In the EU, the ECB implemented a 25-bps increase in its benchmark interest rates at its September meeting, on a second increase since the outbreak of the Middle East conflict. The main benchmark rate was raised to 2.65%, while the deposit facility rate increased to 2.50%.
+
+In Germany, the CPI increased by 2.9% y-o-y in August, in line with market forecast and marginally above the 2.8% recorded in July.
+
+In China, the PPI rose by 3.8% y-o-y in August, accelerating from 3.5% in July and exceeding market expectations of 3.6%. Meanwhile, industrial production growth strengthened to 5.2% y-o-y, up from 4.5% in July and above the 4.8% forecast.

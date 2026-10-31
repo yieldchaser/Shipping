@@ -307,3 +307,83 @@ The majority of the cash buyers across the main demolition destinations are not 
 | INGRID | 105,528 | 15,954 | 2000 | SUMITOMO, Japan | TANKER | $ 514/Ldt | Pakistani |
 
 © Intermodal Research 28/09/2021 6
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 24-Sep-21 | 23-Sep-21 | 22-Sep-21 | 21-Sep-21 | 20-Sep-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.460 | 1.410 | 1.336 | 1.324 | 1.309 | 6.6% |
+| Stock Exchange Data | S&P 500 | 4,455.48 | 4,448.98 | 4,395.64 | 4,354.19 | 4,432.99 | 0.5% |
+| Stock Exchange Data | Nasdaq | 15,047.70 | 15,052.24 | 14,896.85 | 14,746.40 | 14,713.90 | 0.0% |
+| Stock Exchange Data | Dow Jones | 34,798.00 | 34,764.82 | 34,258.32 | 33,919.84 | 33,970.47 | 0.6% |
+| Stock Exchange Data | FTSE 100 | 7,051.48 | 7,078.35 | 7,083.37 | 6,980.98 | 6,903.91 | 1.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,062.20 | 4,081.25 | 4,081.81 | 4,029.01 | 3,986.90 | 1.0% |
+| Stock Exchange Data | CAC40 | 6,638.46 | 6,701.98 | 6,637.00 | 6,552.73 | 6,455.81 | 1.0% |
+| Stock Exchange Data | Xetra Dax | 15,531.75 | 15,643.97 | 15,506.74 | 15,348.53 | 15,132.06 | 2.6% |
+| Stock Exchange Data | Nikkei | 30,248.81 | 30,248.81 | 30,248.81 | 29,639.40 | 29,839.71 | 1.4% |
+| Stock Exchange Data | Hang Seng | 24,192.16 | 24,192.16 | 24,510.98 | 24,221.54 | 24,099.14 | -1.9% |
+| Stock Exchange Data | DJ US Maritime | 164.85 | 167.08 | 164.52 | 162.58 | 162.52 | -2.1% |
+| Currencies | € / $ | 1.17 | 1.17 | 1.17 | 1.17 | 1.17 | -0.1% |
+| Currencies | £ / $ | 1.37 | 1.37 | 1.36 | 1.37 | 1.37 | -0.5% |
+| Currencies | $ / ¥ | 110.75 | 110.33 | 109.82 | 109.15 | 109.44 | 0.7% |
+| Currencies | $ / NoK | 0.12 | 0.12 | 0.12 | 0.12 | 0.11 | 1.8% |
+| Currencies | Yuan / $ | 6.47 | 6.46 | 6.46 | 6.47 | 6.47 | 0.0% |
+| Currencies | Won / $ | 1,180.26 | 1,174.80 | 1,182.03 | 1,182.92 | 1,186.32 | -0.1% |
+| Currencies | $ INDEX | 93.33 | 93.46 | 93.46 | 93.20 | 93.28 | 0.2% |
+
+## Bunker Prices
+
+| Grade | Port | 24-Sep-21 | 17-Sep-21 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 628.0 | 609.5 | 3.0% |
+| MGO | Houston | 645.5 | 641.5 | 0.6% |
+| MGO | Singapore | 635.0 | 613.5 | 3.5% |
+| 380cst | Rotterdam | 436.0 | 421.5 | 3.4% |
+| 380cst | Houston | 419.5 | 412.5 | 1.7% |
+| 380cst | Singapore | 486.0 | 474.5 | 2.4% |
+| VLSFO | Rotterdam | 546.5 | 542.5 | 0.7% |
+| VLSFO | Houston | 547.5 | 532.5 | 2.8% |
+| VLSFO | Singapore | 565.5 | 572.5 | -1.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 24-Sep-21 | 17-Sep-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.12 | 13.17 | -0.4% |
+| COSTAMARE INC | NYSE | USD | 15.76 | 15.61 | 1.0% |
+| DANAOS CORPORATION | NYSE | USD | 78.67 | 81.30 | -3.2% |
+| DIANA SHIPPING | NYSE | USD | 5.24 | 5.85 | -10.4% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 49.91 | 50.58 | -1.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 35.45 | 36.06 | -1.7% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 3.14 | 3.02 | 4.0% |
+| NAVIOS MARITIME ACQUISITIONS | NYSE | USD | 3.78 | 3.66 | 3.3% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 4.16 | 4.50 | -7.6% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 29.78 | 29.14 | 2.2% |
+| SAFE BULKERS INC | NYSE | USD | 4.87 | 4.87 | 0.0% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.42 | 1.49 | -4.7% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 22.74 | 22.94 | -0.9% |
+| STEALTHGAS INC | NASDAQ | USD | 2.54 | 2.65 | -4.2% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 8.70 | 8.11 | 7.3% |
+| TOP SHIPS INC | NASDAQ | USD | 1.40 | 1.41 | -0.7% |
+
+## Market News
+
+“Eneti stacks shelf with $2.2bn of shares as it confirms all bulkers sold
+
+US-listed Eneti has confirmed it has offloaded its last bulkers as it filed a shelf registration for potential stock sales to fund its move into offshore wind vessels.
+
+The former Scorpio Bulkers has registered to sell 131.87m shares from time to time in the US, it revealed in a Securities and Exchange Commission filing.
+
+At the closing price of $16.67 on 24 September, this stock would be worth $2.2bn.
+
+The company is fresh from a major move into the wind turbine installation vessel (WTIV) sector through the $600m acquisition of Seajacks International of the UK.
+
+Current shareholders of Scorpio Group-backed Eneti have 58% of the combined company, with Seajacks investors taking 42%.
+
+Seajacks is owned by three Japanese entities: 50% by Marubeni, 45% by Innovation Network Corp of Japan (INCJ) and 5% by Mitsui OSK Lines.
+
+Eneti is paying for the acquisition with 8.13m shares, $299m of assumed net debt, $74m of newly issued redeemable notes and...”(TradeWinds)

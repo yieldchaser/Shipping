@@ -349,3 +349,85 @@ Scrap prices across the Indian-subcontinent markets remained at high levels for 
 | MOON SPRING | 7,657 | 2,722 | 1996 | JURONG, Singapore | TANKER | $ 568/Ldt | Bangladeshi | as-is Indonesia |
 
 © Intermodal Research 06/07/2021 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 2-Jul-21 | 1-Jul-21 | 30-Jun-21 | 29-Jun-21 | 28-Jun-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.431 | 1.480 | 1.443 | 1.480 | 1.478 | -6.8% |
+| Stock Exchange Data | S&P 500 | 4,352.34 | 4,319.94 | 4,297.50 | 4,291.80 | 4,280.70 | 1.7% |
+| Stock Exchange Data | Nasdaq | 14,639.33 | 14,522.38 | 14,503.95 | 14,528.34 | 14,500.51 | 1.9% |
+| Stock Exchange Data | Dow Jones | 34,786.35 | 34,633.53 | 34,502.51 | 34,292.29 | 34,283.27 | 1.0% |
+| Stock Exchange Data | FTSE 100 | 7,123.27 | 7,125.16 | 7,037.47 | 7,087.55 | 7,072.97 | -0.2% |
+| Stock Exchange Data | FTSE All-Share UK | 4,065.95 | 4,062.45 | 4,014.74 | 4,042.58 | 4,035.43 | 0.0% |
+| Stock Exchange Data | CAC40 | 6,552.86 | 6,553.82 | 6,507.83 | 6,567.43 | 6,558.02 | -1.1% |
+| Stock Exchange Data | Xetra Dax | 15,650.09 | 15,603.81 | 15,531.04 | 15,690.59 | 15,554.18 | 0.6% |
+| Stock Exchange Data | Nikkei | 28,783.28 | 28,707.04 | 28,791.53 | 28,812.61 | 29,048.02 | -0.9% |
+| Stock Exchange Data | Hang Seng | 28,310.42 | 28,310.42 | 28,827.95 | 28,994.10 | 29,268.30 | -2.0% |
+| Stock Exchange Data | DJ US Maritime | 200.23 | 202.11 | 199.05 | 197.58 | 201.28 | -3.9% |
+| Currencies | € / $ | 1.19 | 1.18 | 1.19 | 1.19 | 1.19 | -0.6% |
+| Currencies | £ / $ | 1.38 | 1.38 | 1.38 | 1.38 | 1.39 | -0.4% |
+| Currencies | $ / ¥ | 111.00 | 111.57 | 111.13 | 110.54 | 110.60 | 0.2% |
+| Currencies | $ / NoK | 0.12 | 0.12 | 0.12 | 0.12 | 0.12 | -1.5% |
+| Currencies | Yuan / $ | 6.47 | 6.47 | 6.46 | 6.46 | 6.46 | 0.3% |
+| Currencies | Won / $ | 1,130.77 | 1,134.47 | 1,130.55 | 1,131.19 | 1,130.04 | 0.3% |
+| Currencies | $ INDEX | 92.23 | 92.60 | 92.44 | 92.05 | 91.89 | 0.4% |
+
+## Bunker Prices
+
+| Grade | Port | 2-Jul-21 | 25-Jun-21 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 596.5 | 592.5 | 0.7% |
+| MGO | Houston | 623.5 | 630.5 | -1.1% |
+| MGO | Singapore | 609.0 | 604.0 | 0.8% |
+| 380cst | Rotterdam | 422.5 | 417.0 | 1.3% |
+| 380cst | Houston | 425.5 | 420.0 | 1.3% |
+| 380cst | Singapore | 433.5 | 429.0 | 1.0% |
+| VLSFO | Rotterdam | 534.0 | 528.5 | 1.0% |
+| VLSFO | Houston | 538.5 | 541.0 | -0.5% |
+| VLSFO | Singapore | 553.5 | 546.0 | 1.4% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 02-Jul-21 | 25-Jun-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 12.25 | 12.69 | -3.5% |
+| COSTAMARE INC | NYSE | USD | 11.79 | 12.32 | -4.3% |
+| DANAOS CORPORATION | NYSE | USD | 75.25 | 78.75 | -4.4% |
+| DIANA SHIPPING | NYSE | USD | 4.64 | 5.28 | -12.1% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 45.36 | 53.01 | -14.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 22.32 | 25.89 | -13.8% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 3.79 | 4.07 | -6.9% |
+| NAVIOS MARITIME ACQUISITIONS | NYSE | USD | 3.25 | 3.37 | -3.6% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 8.07 | 8.96 | -9.9% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 26.66 | 29.10 | -8.4% |
+| SAFE BULKERS INC | NYSE | USD | 3.74 | 4.13 | -9.4% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.07 | 1.23 | -13.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 20.58 | 23.56 | -12.6% |
+| STEALTHGAS INC | NASDAQ | USD | 2.77 | 2.80 | -1.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 8.33 | 8.88 | -6.2% |
+| TOP SHIPS INC | NASDAQ | USD | 1.56 | 1.70 | -8.2% |
+
+## Market News
+
+“Navios Maritime issues $80m of stock to settle inter-company loan
+
+Greece's Navios Maritime Holdings is continuing to reduce its financial costs in an $80m share deal.
+
+The US-listed company, which has $896m of debt maturing next year, said it has issued 9.3m shares to pay off a loan awarded to the company in 2019 by subsidiary Navios South American Logistics.
+
+The stock went to a Navios Logistics affiliate, Grimaud Ventures. A Securities and Exchange Commission (SEC) filing on Thursday revealed that Grimaud will now look to sell the shares from time to time at $8.60 each, compared to a closing price in New York of $8.90 at that point.
+
+Navios Holdings' stock fell 9.6% on Friday to $8.06.
+
+A positive move
+
+The move comes as Navios Logistics is looking to carry out an initial public offering in New York.
+
+Norwegian investment bank Fearnley Securities said it is "set to eliminate the inter-company loan...which in our view is positive for the contemplated [Navios Logistics] IPO and in turn positive for the Navios Maritime bonds".
+
+Navios Logistics owns eight small tankers and 332 river barges...”(TradeWinds)

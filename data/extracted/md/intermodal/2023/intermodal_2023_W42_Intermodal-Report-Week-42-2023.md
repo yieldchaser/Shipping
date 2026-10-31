@@ -238,3 +238,70 @@ After a slight increase in scrapping activity in August and September compared t
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | JAHAN | 45,665 | 7,516 | 1995 | TSUNEISHI, Japan | BC | undisclosed | Bangladeshi |
 | Nanta Bhum | 15,152 | 5,104 | 1990 | HANJIN HI, S. Korea | CONTAINER | undisclosed | Indian |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 20-Oct-23 | 19-Oct-23 | 18-Oct-23 | 17-Oct-23 | 16-Oct-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.914 | 4.990 | 4.911 | 4.836 | 4.700 | 6.5% |
+| Stock Exchange Data | S&P 500 | 4,224.16 | 4,278.00 | 4,314.60 | 4,373.20 | 4,373.63 | -2.4% |
+| Stock Exchange Data | Nasdaq | 12,983.81 | 13,186.18 | 13,314.30 | 13,533.75 | 13,567.98 | -3.2% |
+| Stock Exchange Data | Dow Jones | 33,127.28 | 33,414.17 | 33,665.08 | 33,997.65 | 33,984.54 | -1.6% |
+| Stock Exchange Data | FTSE 100 | 7,402.14 | 7,499.53 | 7,588.00 | 7,675.21 | 7,630.63 | -2.6% |
+| Stock Exchange Data | FTSE All-Share UK | 3,990.56 | 4,041.45 | 4,088.24 | 4,137.26 | 4,111.24 | -2.6% |
+| Stock Exchange Data | CAC40 | 6,816.22 | 6,921.37 | 6,965.99 | 7,029.70 | 7,022.19 | -2.7% |
+| Stock Exchange Data | Xetra Dax | 14,798.47 | 15,045.23 | 15,094.91 | 15,251.69 | 15,237.99 | -2.9% |
+| Stock Exchange Data | Nikkei | 31,259.36 | 31,430.62 | 32,042.25 | 32,040.29 | 31,659.03 | -1.3% |
+| Stock Exchange Data | Hang Seng | 17,172.13 | 17,295.89 | 17,732.52 | 17,773.34 | 17,640.36 | -2.7% |
+| Stock Exchange Data | DJ US Maritime | 267.76 | 270.68 | 271.63 | 273.07 | 269.17 | -0.2% |
+| Currencies | € / $ | 1.06 | 1.06 | 1.05 | 1.06 | 1.06 | 0.9% |
+| Currencies | £ / $ | 1.22 | 1.21 | 1.21 | 1.22 | 1.22 | 0.2% |
+| Currencies | $ / ¥ | 149.86 | 149.83 | 149.77 | 149.76 | 149.58 | 0.2% |
+| Currencies | $ / NoK | 0.0903 | 0.0909 | 0.0904 | 0.0913 | 0.0915 | -1.3% |
+| Currencies | Yuan / $ | 7.32 | 7.31 | 7.31 | 7.31 | 7.31 | 0.2% |
+| Currencies | Won / $ | 1,350.33 | 1,358.04 | 1,355.34 | 1,353.40 | 1,348.16 | -0.2% |
+| Currencies | $ INDEX | 106.16 | 106.25 | 106.57 | 106.25 | 106.24 | -0.3% |
+
+## Bunker Prices
+
+| Grade | Port | 20-Oct-23 | 13-Oct-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 20-Oct-23 | 13-Oct-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.90 | 14.34 | -3.1% |
+| COSTAMARE INC | NYSE | USD | 9.09 | 9.61 | -5.4% |
+| DANAOS CORPORATION | NYSE | USD | 65.75 | 66.21 | -0.7% |
+| DIANA SHIPPING | NYSE | USD | 3.35 | 3.39 | -1.2% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 42.19 | 42.76 | -1.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 25.60 | 26.52 | -3.5% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.75 | 2.24 | -21.9% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.89 | 1.87 | 1.1% |
+| SAFE BULKERS INC | NYSE | USD | 3.30 | 3.31 | -0.3% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 5.48 | 6.21 | -11.8% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.33 | 19.71 | -1.9% |
+| STEALTHGAS INC | NASDAQ | USD | 5.18 | 5.18 | 0.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 20.97 | 21.93 | -4.4% |
+
+## Macro-economic headlines
+
+• US: Retail sales rose by 0.7% on a monthly basis in September, which was better than expected. On the industrial production front, the metric rose by 0.3% m/m in September, while it was 0.8% higher on an annual basis. Building permits rose 4.4% month-on-month, indicating a strong housing market.
+
+• EU: The German WPI and PPI fell by 0.2% on the month.
+
+• UK: Annual inflation rose by 6.7% in September. Wage growth fell by 0.1% in August compared with July. Finally, retail sales fell by 0.9% mom in September.

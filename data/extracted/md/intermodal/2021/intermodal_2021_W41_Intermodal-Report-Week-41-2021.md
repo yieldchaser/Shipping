@@ -325,3 +325,82 @@ A rise in average offered scrap prices has materialized last week across the mai
 | ST. LEO THE GREAT | 3,520 | 6,833 | 1992 | KANASASHI, Japan | RO-RO/PASSENGER | $ 400/Ldt | undisclosed | as-is Manila |
 
 © Intermodal Research 19/10/2021 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 15-Oct-21 | 14-Oct-21 | 13-Oct-21 | 12-Oct-21 | 11-Oct-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.576 | 1.519 | 1.549 | 1.580 | 1.614 | -1.8% |
+| Stock Exchange Data | S&P 500 | 4,471.37 | 4,438.26 | 4,363.80 | 4,350.65 | 4,391.34 | 1.8% |
+| Stock Exchange Data | Nasdaq | 14,897.34 | 14,823.43 | 14,571.64 | 14,465.93 | 14,486.20 | 2.2% |
+| Stock Exchange Data | Dow Jones | 35,294.76 | 34,912.56 | 34,377.81 | 34,378.34 | 34,496.06 | 1.6% |
+| Stock Exchange Data | FTSE 100 | 7,234.03 | 7,207.71 | 7,141.82 | 7,130.23 | 7,146.85 | 2.0% |
+| Stock Exchange Data | FTSE All-Share UK | 4,123.97 | 4,107.88 | 4,070.20 | 4,059.54 | 4,068.12 | 1.9% |
+| Stock Exchange Data | CAC40 | 6,727.52 | 6,685.21 | 6,597.38 | 6,548.11 | 6,570.54 | 2.6% |
+| Stock Exchange Data | Xetra Dax | 15,587.36 | 15,462.72 | 15,249.38 | 15,146.87 | 15,199.14 | 2.6% |
+| Stock Exchange Data | Nikkei | 29,068.63 | 28,550.93 | 28,140.28 | 28,230.61 | 28,498.20 | 2.0% |
+| Stock Exchange Data | Hang Seng | 25,330.96 | 25,330.96 | 25,330.96 | 24,962.59 | 25,325.09 | 2.5% |
+| Stock Exchange Data | DJ US Maritime | 179.29 | 178.54 | 179.32 | 178.50 | 172.76 | 5.0% |
+| Currencies | € / $ | 1.16 | 1.16 | 1.16 | 1.15 | 1.16 | 0.2% |
+| Currencies | £ / $ | 1.37 | 1.37 | 1.37 | 1.36 | 1.36 | 0.6% |
+| Currencies | $ / ¥ | 114.38 | 113.85 | 113.30 | 113.52 | 113.39 | 1.9% |
+| Currencies | $ / NoK | 0.12 | 0.12 | 0.12 | 0.12 | 0.12 | 1.0% |
+| Currencies | Yuan / $ | 6.44 | 6.44 | 6.43 | 6.45 | 6.45 | -0.1% |
+| Currencies | Won / $ | 1,182.79 | 1,182.21 | 1,186.71 | 1,196.89 | 1,195.80 | -1.2% |
+| Currencies | $ INDEX | 93.94 | 93.96 | 94.08 | 94.52 | 94.32 | -0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 15-Oct-21 | 8-Oct-21 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 716.5 | 693.5 | 3.3% |
+| MGO | Houston | 755.0 | 739.0 | 2.2% |
+| MGO | Singapore | 713.0 | 696.5 | 2.4% |
+| 380cst | Rotterdam | 492.5 | 478.0 | 3.0% |
+| 380cst | Houston | 471.5 | 452.0 | 4.3% |
+| 380cst | Singapore | 527.5 | 519.5 | 1.5% |
+| VLSFO | Rotterdam | 606.0 | 578.0 | 4.8% |
+| VLSFO | Houston | 608.5 | 595.0 | 2.3% |
+| VLSFO | Singapore | 622.0 | 591.5 | 5.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 15-Oct-21 | 08-Oct-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 12.92 | 12.45 | 3.8% |
+| COSTAMARE INC | NYSE | USD | 13.94 | 14.85 | -6.1% |
+| DANAOS CORPORATION | NYSE | USD | 70.05 | 72.23 | -3.0% |
+| DIANA SHIPPING | NYSE | USD | 5.26 | 5.60 | -6.1% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 44.30 | 47.94 | -7.6% |
+| EUROSEAS LTD. | NASDAQ | USD | 27.11 | 29.92 | -9.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 3.29 | 2.95 | 11.5% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 5.75 | 6.39 | -10.0% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 27.37 | 30.56 | -10.4% |
+| SAFE BULKERS INC | NYSE | USD | 4.61 | 4.91 | -6.1% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.26 | 1.38 | -8.7% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 22.07 | 22.95 | -3.8% |
+| STEALTHGAS INC | NASDAQ | USD | 2.59 | 2.74 | -5.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 9.40 | 10.47 | -10.2% |
+| TOP SHIPS INC | NASDAQ | USD | 1.48 | 1.51 | -2.0% |
+
+## Market News
+
+“Berenberg launches ship mortgage funds to bring debt portfolio to $5.8bn
+
+Private German investment bank Berenberg has launched two new funds aimed at the ship mortgage loan market.
+
+The closed-end multi-investor funds are for institutional investors and have been set up in tandem with Universal-Investment in Luxembourg as alternative investment fund manager.
+
+Medium-sized shipowners will be financed with first lien ship mortgage loans in the major commercial shipping segments.
+
+The bank's debt fund portfolio will thus grow to 20 funds by the end of 2021, with a total value of more than €5bn ($5.8bn), it said.
+
+Investments in the new facilities can start at about €5m and are intended to "continue the successful history of the already existing funds", it added.
+
+"The new funds complement a series of debt funds that have been launched exclusively for large institutional investors such as insurance companies and pension funds since 2016," said Lars Hagemann, head of structured finance at Berenberg.
+
+"Through the funds, we provided...”(TradeWinds)

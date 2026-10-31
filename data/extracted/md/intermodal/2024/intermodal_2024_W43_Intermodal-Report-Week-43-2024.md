@@ -268,3 +268,77 @@ The Pakistani market remains lethargic with recycling buyers showing little appe
 | NING HUA | 69,607 | 9,713 | 1993 | HASHIHAMA, Japan | BC | $ 433/Ldt | undisclosed | as is Taishan, China |
 | MSC ALEXA | 50,855 | 10,655 | 1996 | FINCANTIERI ANCONA, Italy | CONTAINER | undisclosed | Indian |  |
 | TAHA | 29,319 | 8,603 | 1985 | SUMITOMO, Japan | GENERAL CARGO | $ 480/Ldt | Indian |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 25-Oct-24 | 24-Oct-24 | 23-Oct-24 | 22-Oct-24 | 21-Oct-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.232 | 4.202 | 4.242 | 4.206 | 4.182 | 3.9% |
+| Stock Exchange Data | S&P 500 | 5,808.12 | 5,809.86 | 5,797.42 | 5,851.20 | 5,853.98 | -1.0% |
+| Stock Exchange Data | Nasdaq | 20,352.02 | 20,232.87 | 20,066.96 | 20,383.65 | 20,361.47 | 0.1% |
+| Stock Exchange Data | Dow Jones | 43,275.91 | 43,239.05 | 43,077.70 | 42,740.42 | 43,065.22 | 1.0% |
+| Stock Exchange Data | FTSE 100 | 8,248.84 | 8,269.38 | 8,258.64 | 8,306.54 | 8,318.24 | -1.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,509.37 | 4,517.97 | 4,514.21 | 4,539.69 | 4,544.06 | -1.3% |
+| Stock Exchange Data | CAC40 | 7,497.54 | 7,503.28 | 7,497.48 | 7,535.10 | 7,536.23 | -1.5% |
+| Stock Exchange Data | Xetra Dax | 19,463.59 | 19,443.00 | 19,377.62 | 19,421.91 | 19,461.19 | -1.0% |
+| Stock Exchange Data | Nikkei | 38,981.75 | 38,911.19 | 39,180.30 | 39,910.55 | mrkt closed | -1.6% |
+| Stock Exchange Data | Hang Seng | 20,590.15 | 20,489.62 | 20,760.15 | 20,498.95 | 20,478.46 | -1.0% |
+| Stock Exchange Data | DJ US Maritime | 401.26 | 407.30 | 406.64 | 398.17 | 406.21 | -2.2% |
+| Currencies | € / $ | 1.08 | 1.08 | 1.08 | 1.08 | 1.08 | -0.7% |
+| Currencies | £ / $ | 1.30 | 1.30 | 1.29 | 1.30 | 1.30 | -0.7% |
+| Currencies | $ / ¥ | 152.30 | 151.82 | 152.75 | 151.06 | 150.83 | 1.9% |
+| Currencies | $ / NoK | 10.96 | 10.93 | 10.98 | 10.91 | 10.94 | 0.4% |
+| Currencies | Yuan / $ | 7.12 | 7.12 | 7.13 | 7.12 | 7.12 | 0.3% |
+| Currencies | Won / $ | 1,387.95 | 1,378.55 | 1,379.93 | 1,378.27 | 1,379.02 | 1.4% |
+| Currencies | $ INDEX | 104.26 | 104.06 | 104.43 | 104.08 | 104.01 | 0.7% |
+
+## Bunker Prices
+
+| Grade | Port | 25-Oct-24 | 18-Oct-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 667.0 | 637.0 | 4.7% |
+| MGO | Houston | 654.0 | 641.0 | 2.0% |
+| MGO | Singapore | 658.0 | 643.0 | 2.3% |
+| 380cst | Rotterdam | 510.0 | 473.0 | 7.8% |
+| 380cst | Houston | 475.0 | 455.0 | 4.4% |
+| 380cst | Singapore | 486.0 | 463.0 | 5.0% |
+| VLSFO | Rotterdam | 541.0 | 537.0 | 0.7% |
+| VLSFO | Houston | 527.0 | 521.0 | 1.2% |
+| VLSFO | Singapore | 592.0 | 583.0 | 1.5% |
+
+## Oil Prices
+
+| Category | Indicator | 25-Oct-24 | 18-Oct-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 76.1 | 73.1 | 4.1% |
+| OIL | WTI | 71.8 | 69.2 | 3.7% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 25-Oct-24 | 18-Oct-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 19.29 | 19.84 | -2.8% |
+| COSTAMARE INC | NYSE | USD | 13.66 | 14.38 | -5.0% |
+| DANAOS CORPORATION | NYSE | USD | 82.84 | 84.42 | -1.9% |
+| DIANA SHIPPING | NYSE | USD | 2.27 | 2.39 | -5.0% |
+| EUROSEAS LTD. | NASDAQ | USD | 41.94 | 43.31 | -3.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.77 | 1.81 | -2.2% |
+| SAFE BULKERS INC | NYSE | USD | 4.26 | 4.45 | -4.3% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 9.75 | 10.40 | -6.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.35 | 20.40 | -5.1% |
+| STEALTHGAS INC | NASDAQ | USD | 6.07 | 6.40 | -5.2% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 22.80 | 24.93 | -8.5% |
+
+## Macro-economic headlines
+
+In US, September leading Index dropped by 0.5% m-o-m. Year-On-Year the loss of the Index reads 3.4%.
+
+In China, FDI fell by 30.4% in September, marking the second-largest decline of the year, following a 31.5% drop in August.
+
+In the EU, the M3 Money Supply rose by 3.2% y-o-y in September. Private Sector Loans increased by only 0.7%. The Eurozone Consumer Confidence Index declined by 12.5 points.
+
+According to the latest IMF Economic Outlook the World GDP growth rate is estimated at 3.2% for both 2024 and 2025, with lackluster prospects. USA GDP growth rate was upwards revised at 3.2%. Eurozone GDP is forecasted to increase by 0.8% in full 2024 (0.1% downwards revised) and a higher 1.2% for 2025. Growth expectations for China were down by 0.2%, at 4.8% with concerns for the risks arising from the property sector crisis, and 4.5% projected for 2025.

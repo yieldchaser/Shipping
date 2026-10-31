@@ -258,3 +258,72 @@ The demolition market continues to be sluggish as few sales have been completed.
 | APJ UMA KISMAT | 74,107 | 7,451 | 2001 | IMABARI, Japan | BC | $ 510/Ldt | undisclosed | on 'as is' bss Colombo |
 | XIN DONG GUAN 3 | 69,512 | 9,700 | 1996 | TSUNEISHI, Japan | BC | $ 473/Ldt | undisclosed | BWTS fitted, as is' Hong Kong, incl. around 100T ROB |
 | XIN FENG NINGBO | 35,551 | 10,316 | 1995 | HYUNDAI HEAVY INDS - U, S. Korea | CONTAINER | $ 480/Ldt | undisclosed | on 'as is' bss Zhoushan |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 3-Nov-23 | 2-Nov-23 | 1-Nov-23 | 31-Oct-23 | 30-Oct-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.576 | 4.661 | 4.734 | 4.926 | 4.888 | -5.6% |
+| Stock Exchange Data | S&P 500 | 4,117.37 | 4,137.23 | 4,186.77 | 4,247.68 | 4,217.04 | 0.0% |
+| Stock Exchange Data | Nasdaq | 12,643.01 | 12,595.61 | 12,821.22 | 13,139.88 | 13,018.33 | 0.0% |
+| Stock Exchange Data | Dow Jones | 32,417.59 | 32,784.30 | 33,035.93 | 33,141.38 | 32,936.41 | 0.0% |
+| Stock Exchange Data | FTSE 100 | 7,291.28 | 7,354.57 | 7,414.34 | 7,389.70 | 7,374.83 | 0.0% |
+| Stock Exchange Data | FTSE All-Share UK | 3,933.17 | 3,959.51 | 3,990.54 | 3,983.20 | 3,978.44 | 0.0% |
+| Stock Exchange Data | CAC40 | 6,795.38 | 6,888.96 | 6,915.07 | 6,893.65 | 6,850.47 | 0.0% |
+| Stock Exchange Data | Xetra Dax | 14,687.41 | 14,731.05 | 14,892.18 | 14,879.94 | 14,800.72 | -0.8% |
+| Stock Exchange Data | Nikkei | 30,991.69 | 30,601.78 | 31,269.92 | 31,062.35 | 30,999.55 | 0.0% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 17,398.73 | 17,044.61 | 17,085.33 | 16,991.53 | 29.7% |
+| Stock Exchange Data | DJ US Maritime | 252.72 | 252.72 | 249.64 | 245.20 | 242.55 | -0.5% |
+| Currencies | € / $ | 1.07 | 1.06 | 1.06 | 1.06 | 1.06 | 1.5% |
+| Currencies | £ / $ | 1.24 | 1.22 | 1.22 | 1.22 | 1.22 | 2.1% |
+| Currencies | $ / ¥ | 149.37 | 150.50 | 150.61 | 151.30 | 149.12 | -0.2% |
+| Currencies | $ / NoK | 0.0906 | 0.0896 | 0.0897 | 0.0895 | 0.0897 | 1.2% |
+| Currencies | Yuan / $ | 7.30 | 7.32 | 7.32 | 7.32 | 7.31 | -0.2% |
+| Currencies | Won / $ | 1,309.02 | 1,334.32 | 1,348.84 | 1,351.16 | 1,346.52 | -3.5% |
+| Currencies | $ INDEX | 105.02 | 106.12 | 106.88 | 106.66 | 106.12 | -1.4% |
+
+## Bunker Prices
+
+| Grade | Port | 3-Nov-23 | 27-Oct-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 03-Nov-23 | 27-Oct-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.49 | 13.66 | -1.2% |
+| COSTAMARE INC | NYSE | USD | 9.28 | 9.10 | 2.0% |
+| DANAOS CORPORATION | NYSE | USD | 66.49 | 65.79 | 1.1% |
+| DIANA SHIPPING | NYSE | USD | 3.29 | 3.30 | -0.3% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 41.47 | 40.90 | 1.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 26.65 | 25.40 | 4.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.70 | 1.71 | -0.6% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.22 | 2.21 | 0.5% |
+| SAFE BULKERS INC | NYSE | USD | 3.23 | 3.18 | 1.6% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 5.10 | 5.55 | -8.1% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.79 | 18.48 | 1.7% |
+| STEALTHGAS INC | NASDAQ | USD | 5.77 | 5.74 | 0.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 22.94 | 22.60 | 1.5% |
+
+## Macro-economic headlines
+
+▪ In the US, the Federal reserve kept Interest Rates stable at the 5.25%-5.5% range, which is a 22-year high. Additionally, the ISM Manufacturing PMI for October fell to 46.7 significantly lower than last month (49).
+
+▪ In China, the Manufacturing PMI for October fell to 49.5, while the Non-Manufacturing PMI fell to 50.6, marginally above the contraction territory.
+
+▪ In the EU, The German GDP rose by 3.8% in October compared to the same period last year but remained the same from last month. The bloc’ GDP fell by -0.1% QoQ in Q3. Regarding inflation, EU’s CPI was up 2.9% in October compared to last year, but only 0.1% higher than last month.
+
+▪ In the UK, Bank of England kept the Interest rates stable at 5.25%

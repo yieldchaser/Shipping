@@ -263,3 +263,72 @@ The demolition market had a few sales last week, mainly for Bulk Carriers. Bangl
 | GOLDEN SUN | 27,760 | 6,000 | 1996 | SHIN KURUSHIMA, Japan | BC | $ 585/Ldt | Bangladeshi |  |
 | MAERSK ATLANTIC | 17,733 | 5,914 | 1999 | CSBC, Taiwan | CONTAINER | undisclosed | Indian |  |
 | DAEBOKGASHO | 1,432 | 1,112 | 1996 | MIURA SAIKI, Japan | GAS TANKER | undisclosed | undisclosed |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 2-Jun-23 | 1-Jun-23 | 31-May-23 | 30-May-23 | 29-May-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.691 | 3.608 | 3.637 | 3.700 | 3.810 | -3.1% |
+| Stock Exchange Data | S&P 500 | 4,282.37 | 4,282.37 | 4,221.02 | 4,179.83 | 3,990.97 | 1.8% |
+| Stock Exchange Data | Nasdaq | 13,240.77 | 13,240.77 | 13,100.98 | 12,935.29 | 13,017.43 | 2.0% |
+| Stock Exchange Data | Dow Jones | 33,762.76 | 33,762.76 | 33,061.57 | 32,908.27 | 33,042.78 | 2.0% |
+| Stock Exchange Data | FTSE 100 | 7,607.28 | 7,607.28 | 7,490.27 | 7,446.14 | 7,522.07 | -0.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,155.37 | 4,155.37 | 4,090.64 | 4,066.80 | 4,104.75 | 0.1% |
+| Stock Exchange Data | CAC40 | 7,270.69 | 7,137.43 | 7,098.70 | 7,209.75 | 7,303.81 | -0.7% |
+| Stock Exchange Data | Xetra Dax | 16,051.23 | 15,853.66 | 15,664.02 | 15,908.91 | 15,952.73 | 0.6% |
+| Stock Exchange Data | Nikkei | 31,524.22 | 31,148.01 | 30,887.88 | 31,328.16 | 31,233.54 | 0.9% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 18,216.91 | 18,234.27 | 18,595.78 | 18,551.11 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 244.22 | 244.94 | 234.90 | 242.32 | 238.97 | 1.5% |
+| Currencies | € / $ | 1.07 | 1.08 | 1.07 | 1.07 | 1.07 | 0.0% |
+| Currencies | £ / $ | 1.25 | 1.25 | 1.24 | 1.24 | 1.23 | 0.9% |
+| Currencies | $ / ¥ | 139.95 | 138.75 | 139.13 | 139.80 | 140.44 | -0.5% |
+| Currencies | $ / NoK | 0.0913 | 0.0904 | 0.0904 | 0.0894 | 0.0899 | -0.1% |
+| Currencies | Yuan / $ | 7.08 | 7.09 | 7.11 | 7.08 | 7.07 | 0.3% |
+| Currencies | Won / $ | 1,306.25 | 1,313.18 | 1,322.09 | 1,320.12 | 1,324.92 | -1.3% |
+| Currencies | $ INDEX | 104.02 | 103.56 | 104.33 | 104.17 | 104.21 | -0.2% |
+
+## Bunker Prices
+
+| Grade | Port | 2-Jun-23 | 26-May-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 02-Jun-23 | 26-May-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.29 | 13.00 | 2.2% |
+| COSTAMARE INC | NYSE | USD | 8.27 | 8.00 | 3.4% |
+| DANAOS CORPORATION | NYSE | USD | 60.99 | 58.20 | 4.8% |
+| DIANA SHIPPING | NYSE | USD | 3.90 | 3.78 | 3.2% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 42.24 | 40.60 | 4.0% |
+| EUROSEAS LTD. | NASDAQ | USD | 21.47 | 19.86 | 8.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 0.93 | 0.93 | 0.0% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.74 | 1.71 | 1.8% |
+| SAFE BULKERS INC | NYSE | USD | 3.42 | 3.34 | 2.4% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 1.08 | 1.08 | 0.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.64 | 17.80 | 4.7% |
+| STEALTHGAS INC | NASDAQ | USD | 3.09 | 3.05 | 1.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 18.10 | 17.64 | 2.6% |
+
+## Macro-economic headlines
+
+• In the US, the ISM Manufacturing for May, fell to 46.9, marginally lower than April (47). On the employment front, Nonfarm payrolls rose to 283K for May, up from 253K the previous month, while unemployment rate rose to 6.7%, up from 6.6 in April.
+
+• Core CPI was up 6.1% on an annual basis, way lower than last month’s calculation of 7%. The rate hike of 0.25 next week, is not expected to be avoided.
+
+• In China, the NBS PMI for May was at 52.9, lower than last month’s (54.4) and also in an expanding region, above 50.
+
+• In Brazil, Q1 GDP was up by 1.9 on a quarterly basis and the manufacturing PMI was at 47.1, showing a big increase than last month (44.3) but remains in contracting territory.

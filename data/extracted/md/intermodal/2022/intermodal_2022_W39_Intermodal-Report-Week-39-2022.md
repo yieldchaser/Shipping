@@ -307,3 +307,85 @@ Despite an overall sluggishness in demolition market activity, breakers hold the
 | MATHU BHUM | 15,152 | 5,103 | 1990 | HANJIN, S. Korea | CONTAINER | $ 620/Ldt | undisclosed |  |
 
 © Intermodal Research 04/10/2022 6
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 30-Sep-22 | 29-Sep-22 | 28-Sep-22 | 27-Sep-22 | 26-Sep-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.804 | 3.747 | 3.705 | 3.964 | 3.878 | 2.9% |
+| Stock Exchange Data | S&P 500 | 3,585.62 | 3,640.47 | 3,719.04 | 3,647.29 | 3,693.23 | -2.9% |
+| Stock Exchange Data | Nasdaq | 10,575.62 | 10,737.51 | 11,051.64 | 10,829.50 | 10,802.92 | -2.7% |
+| Stock Exchange Data | Dow Jones | 28,725.51 | 29,225.61 | 29,683.74 | 29,134.99 | 29,260.81 | -2.9% |
+| Stock Exchange Data | FTSE 100 | 6,893.81 | 6,881.59 | 7,005.39 | 6,984.59 | 7,020.95 | -1.8% |
+| Stock Exchange Data | FTSE All-Share UK | 3,763.48 | 3,745.11 | 3,820.23 | 3,810.44 | 3,841.45 | -2.2% |
+| Stock Exchange Data | CAC40 | 5,762.34 | 5,676.87 | 5,765.01 | 5,753.82 | 5,769.39 | -0.4% |
+| Stock Exchange Data | Xetra Dax | 12,114.36 | 11,975.55 | 12,183.28 | 12,139.68 | 12,227.92 | -0.9% |
+| Stock Exchange Data | Nikkei | 25,937.21 | 26,422.05 | 26,173.98 | 26,571.87 | 26,431.55 | -1.9% |
+| Stock Exchange Data | Hang Seng | 17,165.87 | 17,165.87 | 17,250.88 | 17,860.31 | 17,855.14 | -5.4% |
+| Stock Exchange Data | DJ US Maritime | 199.48 | 197.77 | 202.04 | 194.88 | 192.82 | 2.3% |
+| Currencies | € / $ | 0.98 | 0.98 | 0.97 | 0.96 | 0.96 | 1.1% |
+| Currencies | £ / $ | 1.12 | 1.12 | 1.08 | 1.07 | 1.08 | 2.9% |
+| Currencies | $ / ¥ | 144.74 | 144.43 | 144.40 | 144.70 | 144.50 | 1.0% |
+| Currencies | $ / NoK | 0.09 | 0.09 | 0.09 | 0.09 | 0.09 | -3.6% |
+| Currencies | Yuan / $ | 7.12 | 7.13 | 7.20 | 7.18 | 7.15 | -0.2% |
+| Currencies | Won / $ | 1,440.23 | 1,430.51 | 1,422.78 | 1,426.60 | 1,430.78 | 1.2% |
+| Currencies | $ INDEX | 112.12 | 112.25 | 112.60 | 114.11 | 114.10 | -0.8% |
+
+## Bunker Prices
+
+| Grade | Port | 30-Sep-22 | 23-Sep-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 947.5 | 1,002.5 | -5.5% |
+| MGO | Houston | 994.0 | 987.0 | 0.7% |
+| MGO | Singapore | 936.5 | 925.5 | 1.2% |
+| 380cst | Rotterdam | 416.0 | 430.0 | -3.3% |
+| 380cst | Houston | 410.0 | 446.5 | -8.2% |
+| 380cst | Singapore | 390.0 | 486.0 | -19.8% |
+| VLSFO | Rotterdam | 631.0 | 653.5 | -3.4% |
+| VLSFO | Houston | 625.0 | 652.0 | -4.1% |
+| VLSFO | Singapore | 696.0 | 690.0 | 0.9% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 30-Sep-22 | 23-Sep-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.39 | 14.17 | -5.5% |
+| COSTAMARE INC | NYSE | USD | 8.95 | 9.45 | -5.3% |
+| DANAOS CORPORATION | NYSE | USD | 55.68 | 57.36 | -2.9% |
+| DIANA SHIPPING | NYSE | USD | 3.61 | 4.22 | -14.5% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 43.18 | 43.07 | 0.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 20.81 | 19.85 | 4.8% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.26 | 1.31 | -3.8% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.90 | 2.04 | -6.9% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 24.52 | 24.47 | 0.2% |
+| SAFE BULKERS INC | NYSE | USD | 2.47 | 2.77 | -10.8% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.47 | 0.54 | -13.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 17.48 | 19.06 | -8.3% |
+| STEALTHGAS INC | NASDAQ | USD | 2.56 | 2.50 | 2.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 15.27 | 16.49 | -7.4% |
+
+## Market News
+
+“Scorpio Tankers hands back another $18m to investors with buybacks
+
+US-listed Scorpio Tankers is continuing to reward shareholders with stock buybacks in buoyant product carrier markets.
+
+The company said it had snapped up 220,504 shares last week at an average price of $40.90 each, and a deal for another 222,396 shares was announced on Monday at $41.27.
+
+This represents an outlay of $18.2m.
+
+The stock closed up more than 3% at $40.94 in New York on Monday.
+
+The deals follow the repurchase of 137,459 shares earlier in September, and 1.66m shares in August.
+
+The company has about $151m remaining under its securities repurchase programme.
+
+Article continues below the advert
+
+Scorpio Tankers is enjoying strong earnings from its fleet as product tanker rates rise.
+
+The its option to acquire the 110,000-dwt STI Sanctity (built 2016) from...(TradeWinds)

@@ -237,3 +237,77 @@ There is a noticeable resurgence in the ship demolition market, spurred by econo
 | SINOKOR HONGKONG | 17,468 | 5,300 | 1996 | IMABARI, Japan | CONTAINER | $ 598/Ldt | Bangladeshi | including ROB 380T |
 | MUDITA | 23,866 | 6,869 |  | KURUSHIMA, Japan | BC | $ 485/Ldt | undisclosed | as is Indonesia |
 | BORDER | 14,120 | 5,723 |  | SZCZECINSKA, Poland | CONTAINER | $ 454/Ldt | undisclosed | as is S. Africa |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 19-Apr-24 | 18-Apr-24 | 17-Apr-24 | 16-Apr-24 | 15-Apr-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.615 | 4.647 | 4.585 | 4.657 | 4.628 | 2.6% |
+| Stock Exchange Data | S&P 500 | 4,967.23 | 5,011.12 | 5,022.21 | 5,051.41 | 5,061.82 | -3.0% |
+| Stock Exchange Data | Nasdaq | 17,037.65 | 17,394.31 | 17,493.62 | 17,713.66 | 17,706.83 | -5.4% |
+| Stock Exchange Data | Dow Jones | 37,986.53 | 37,778.21 | 37,753.37 | 37,798.77 | 37,735.24 | 0.0% |
+| Stock Exchange Data | FTSE 100 | 7,895.85 | 7,877.05 | 7,847.99 | 7,820.36 | 7,965.53 | -1.2% |
+| Stock Exchange Data | FTSE All-Share UK | 4,296.41 | 4,290.02 | 4,273.02 | 4,260.41 | 4,338.90 | -1.3% |
+| Stock Exchange Data | CAC40 | 8,022.41 | 8,023.26 | 7,981.51 | 7,932.61 | 8,045.11 | 0.1% |
+| Stock Exchange Data | Xetra Dax | 17,737.36 | 17,837.40 | 17,770.02 | 17,766.23 | 18,026.58 | -1.1% |
+| Stock Exchange Data | Nikkei | 37,068.35 | 38,079.70 | 37,961.80 | 38,471.20 | 39,232.80 | -6.2% |
+| Stock Exchange Data | Hang Seng | 16,224.14 | 16,385.87 | 37,703.32 | 16,248.97 | 16,600.46 | -3.0% |
+| Stock Exchange Data | DJ US Maritime | 314.50 | 311.74 | 312.10 | 316.90 | 318.86 | -2.1% |
+| Currencies | € / $ | 1.07 | 1.06 | 1.07 | 1.06 | 1.06 | 0.1% |
+| Currencies | £ / $ | 1.24 | 1.24 | 1.24 | 1.24 | 1.24 | -0.6% |
+| Currencies | $ / ¥ | 154.63 | 154.63 | 154.38 | 154.71 | 154.27 | 0.9% |
+| Currencies | $ / NoK | 11.01 | 11.04 | 10.99 | 10.98 | 10.94 | 1.0% |
+| Currencies | Yuan / $ | 7.24 | 7.24 | 7.24 | 7.24 | 7.24 | 0.0% |
+| Currencies | Won / $ | 1,374.30 | 1,379.41 | 1,378.86 | 1,389.50 | 1,386.91 | -0.4% |
+| Currencies | $ INDEX | 106.15 | 106.15 | 105.95 | 106.26 | 106.21 | 0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 19-Apr-24 | 12-Apr-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 734.0 | 793.0 | -7.4% |
+| MGO | Houston | 486.0 | 490.0 | -0.8% |
+| MGO | Singapore | 760.0 | 809.0 | -6.1% |
+| 380cst | Rotterdam | 486.0 | 488.0 | -0.4% |
+| 380cst | Houston | 486.0 | 490.0 | -0.8% |
+| 380cst | Singapore | 512.0 | 510.0 | 0.4% |
+| VLSFO | Rotterdam | 595.0 | 616.0 | -3.4% |
+| VLSFO | Houston | 623.0 | 631.0 | -1.3% |
+| VLSFO | Singapore | 640.0 | 646.0 | -0.9% |
+
+## Oil Prices
+
+| Category | Indicator | 19-Apr-24 | 12-Apr-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 87.3 | 90.5 | -3.5% |
+| OIL | WTI | 83.1 | 85.7 | -2.9% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 19-Apr-24 | 12-Apr-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 16.90 | 16.48 | 2.5% |
+| COSTAMARE INC | NYSE | USD | 10.93 | 11.01 | -0.7% |
+| DANAOS CORPORATION | NYSE | USD | 72.96 | 72.26 | 1.0% |
+| DIANA SHIPPING | NYSE | USD | 2.90 | 2.91 | -0.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 33.11 | 35.24 | -6.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.01 | 2.16 | -6.9% |
+| SAFE BULKERS INC | NYSE | USD | 4.81 | 4.71 | 2.1% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 9.31 | 8.71 | 6.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 23.03 | 23.09 | -0.3% |
+| STEALTHGAS INC | NASDAQ | USD | 5.89 | 5.91 | -0.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 24.72 | 25.35 | -2.5% |
+
+## Macro-economic headlines
+
+• In the euro area, the CPI was 2.4% in March, down from 2.6% in the previous month, while the German PPI rose by 0.2% in March.
+
+• In US, retail sales rose by 0.7% in March, while core retail sales rose by 1.1% in the same period. On the housing front, existing home sales came in at 4.19 million in March, down from 4.38 million in the previous month.
+
+• In UK, the unemployment rate was 4.2% in February, up from 3.9% in January. The CPI eased to 3.2% in March from 3.4% in February.
+
+• In China, DP grew by 5.3% in Q1, while industrial production fell to 4.5% in March. The unemployment rate remained fairly stable at 5.2% in March, down from 5.3% in February.

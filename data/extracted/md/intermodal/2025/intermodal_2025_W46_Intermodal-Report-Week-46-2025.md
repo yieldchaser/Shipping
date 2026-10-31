@@ -247,3 +247,75 @@ Turkey experienced another muted week, with minimal activity and flat sentiment 
 | DELFINA | 72,344 | 2,003 | 2003 | HUDONG, China | TANKER | undisclosed | Indian |  |
 | STAR ADVANCE | 47,363 | 1,998 | 1998 | BRODOTROGIR, Croatia | TANKER | $441/Ldt | undisclosed | as is Singapore, incl 280 tons bunkers |
 | TARA | 9,038 | 1,994 | 1994 | HIGAKI, Japan | GENERAL CARGO | $370/Ldt | Indian |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 14-Nov-25 | 13-Nov-25 | 12-Nov-25 | 11-Nov-25 | 10-Nov-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.148 | 4.111 | 4.067 | 4.110 | 4.110 | 1.3% |
+| Stock Exchange Data | S&P 500 | 6,734.11 | 6,737.49 | 6,850.92 | 6,846.61 | 6,832.43 | 0.1% |
+| Stock Exchange Data | Nasdaq | 25,008.24 | 24,993.46 | 25,517.33 | 25,533.49 | 25,611.74 | -0.2% |
+| Stock Exchange Data | Dow Jones | 47,147.48 | 47,457.22 | 48,254.82 | 47,927.96 | 47,386.63 | 0.3% |
+| Stock Exchange Data | FTSE 100 | 9,698.37 | 9,807.68 | 9,911.42 | 9,899.60 | 9,787.15 | 0.2% |
+| Stock Exchange Data | FTSE All-Share UK | 5,220.97 | 5,277.65 | 5,330.64 | 5,325.22 | 5,266.93 | 0.2% |
+| Stock Exchange Data | CAC40 | 8,170.09 | 8,232.49 | 8,241.24 | 8,156.23 | 8,055.51 | 2.8% |
+| Stock Exchange Data | Xetra Dax | 23,876.55 | 24,041.62 | 24,381.46 | 24,088.06 | 23,959.99 | 1.3% |
+| Stock Exchange Data | Nikkei | 50,376.53 | 51,281.83 | 51,063.31 | 50,842.93 | 50,911.76 | 0.2% |
+| Stock Exchange Data | Hang Seng | 26,572.46 | 27,073.03 | 26,922.73 | 26,696.41 | 26,649.06 | 1.3% |
+| Stock Exchange Data | DJ US Maritime | 356.61 | 352.94 | 362.82 | 363.28 | 354.38 | 0.9% |
+| Currencies | € / $ | 1.16 | 1.16 | 1.16 | 1.16 | 1.16 | 0.5% |
+| Currencies | £ / $ | 1.32 | 1.32 | 1.31 | 1.32 | 1.32 | 0.1% |
+| Currencies | $ / ¥ | 154.54 | 154.55 | 154.77 | 154.15 | 154.14 | 0.7% |
+| Currencies | $ / NoK | 10.06 | 10.02 | 10.07 | 10.05 | 10.11 | -0.7% |
+| Currencies | Yuan / $ | 7.10 | 7.10 | 7.11 | 7.12 | 7.12 | -0.3% |
+| Currencies | Won / $ | 1,447.93 | 1,470.63 | 1,469.27 | 1,460.76 | 1,456.81 | -0.5% |
+| Currencies | $ INDEX | 99.30 | 99.16 | 99.50 | 99.44 | 99.59 | -0.3% |
+
+## Bunker Prices
+
+| Grade | Port | 14-Nov-25 | 7-Nov-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 725.0 | 731.0 | -0.8% |
+| MGO | Houston | 701.0 | 700.0 | 0.1% |
+| MGO | Singapore | 730.0 | 743.0 | -1.7% |
+| 380cst | Rotterdam | 388.0 | 395.0 | -1.8% |
+| 380cst | Houston | 388.0 | 383.0 | 1.3% |
+| 380cst | Singapore | 373.0 | 383.0 | -2.6% |
+| VLSFO | Rotterdam | 433.0 | 428.0 | 1.2% |
+| VLSFO | Houston | 446.0 | 441.0 | 1.1% |
+| VLSFO | Singapore | 461.0 | 465.0 | -0.9% |
+
+## Oil Prices
+
+| Category | Indicator | 14-Nov-25 | 7-Nov-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 64.4 | 63.6 | 1.2% |
+| OIL | WTI | 60.1 | 59.8 | 0.6% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 14-Nov-25 | 07-Nov-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 20.59 | 20.69 | -0.5% |
+| COSTAMARE INC | NYSE | USD | 14.61 | 13.42 | 8.9% |
+| DANAOS CORPORATION | NYSE | USD | 94.61 | 91.97 | 2.9% |
+| DIANA SHIPPING | NYSE | USD | 1.79 | 1.70 | 5.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 59.74 | 57.91 | 3.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.20 | 1.19 | 0.8% |
+| SAFE BULKERS INC | NYSE | USD | 4.83 | 4.78 | 1.0% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 9.37 | 8.61 | 8.8% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.92 | 18.19 | 4.0% |
+| STEALTHGAS INC | NASDAQ | USD | 6.75 | 6.78 | -0.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 25.46 | 24.65 | 3.3% |
+
+## Macro-economic headlines
+
+In China, industrial production in October rose by 4.9% year-on-year and 6.1% year-to-date (compared with 6.5% and 6.2%, respectively, in the previous month). The unemployment rate declined by 0.1 percentage points to 5.1% (from 5.2% in September).
+
+In Germany, the CPI in October increased by 0.3% month-on-month and 2.3% year-on-year (compared with 0.2% and 2.4%, respectively, in September).
+
+In Japan, GDP in Q3 recorded a quarter-on-quarter contraction of –0.4% and a year-on-year decline of – 1.8%, following increases of 0.6% and 2.3% in Q2.

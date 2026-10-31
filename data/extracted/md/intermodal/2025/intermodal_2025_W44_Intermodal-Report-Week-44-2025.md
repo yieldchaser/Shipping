@@ -255,3 +255,77 @@ ence for local scrap to mitigate foreign exchange risks as the Indian Rupee weak
 Pakistan's ship recycling market remains under strain, weighed down by headwinds of the domestic steel sector. The influx of low-cost Iranian steel continues to depress vessel prices. Muted buyer appetite further limits engagement, while the absence of fully HKC-compliant yards nearly four months after framework introduction raises concerns for shipowners and cash buyers. Provisional DASR approvals provide limited oversight, but recovery will hinge on the pace of full HKC implementation.
 
 Turkey's ship recycling sector remained quiet, with limited activity and stable conditions. High inflation continues to constrain steel resale potential, while market participants remain cautious amid reduced vessel arrivals.
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 31-Oct-25 | 30-Oct-25 | 29-Oct-25 | 28-Oct-25 | 27-Oct-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.101 | 4.093 | 4.058 | 3.983 | 3.997 | 2.6% |
+| Stock Exchange Data | S&P 500 | 6,840.20 | 6,822.34 | 6,890.59 | 6,890.89 | 6,875.16 | 0.7% |
+| Stock Exchange Data | Nasdaq | 25,858.13 | 25,734.81 | 26,119.85 | 26,012.16 | 25,821.55 | 2.0% |
+| Stock Exchange Data | Dow Jones | 47,562.87 | 47,522.12 | 47,632.00 | 47,706.37 | 47,544.59 | 0.8% |
+| Stock Exchange Data | FTSE 100 | 9,717.25 | 9,760.06 | 9,756.14 | 9,696.74 | 9,653.82 | 0.7% |
+| Stock Exchange Data | FTSE All-Share UK | 5,240.21 | 5,263.32 | 5,266.17 | 5,239.02 | 5,219.31 | 0.5% |
+| Stock Exchange Data | CAC40 | 8,121.07 | 8,157.29 | 8,200.88 | 8,216.58 | 8,239.18 | -1.3% |
+| Stock Exchange Data | Xetra Dax | 23,958.30 | 24,118.89 | 24,124.21 | 24,278.63 | 24,308.78 | -1.2% |
+| Stock Exchange Data | Nikkei | 52,411.34 | 51,325.61 | 51,307.65 | 50,219.18 | 50,512.32 | 6.3% |
+| Stock Exchange Data | Hang Seng | 25,906.65 | 26,282.69 | 26,346.14 | 26,346.14 | 26,433.70 | -1.0% |
+| Stock Exchange Data | DJ US Maritime | 339.68 | 342.47 | 331.50 | 290.96 | 291.19 | 19.1% |
+| Currencies | € / $ | 1.15 | 1.16 | 1.16 | 1.17 | 1.16 | -0.8% |
+| Currencies | £ / $ | 1.32 | 1.32 | 1.32 | 1.33 | 1.33 | -1.2% |
+| Currencies | $ / ¥ | 154.00 | 154.12 | 152.71 | 152.10 | 152.87 | 0.8% |
+| Currencies | $ / NoK | 10.11 | 10.04 | 10.01 | 9.98 | 9.98 | 1.3% |
+| Currencies | Yuan / $ | 7.12 | 7.11 | 7.10 | 7.10 | 7.11 | -0.1% |
+| Currencies | Won / $ | 1,428.91 | 1,429.25 | 1,426.06 | 1,431.40 | 1,429.35 | -0.7% |
+| Currencies | $ INDEX | 99.80 | 99.53 | 99.22 | 98.67 | 98.78 | 0.9% |
+
+## Bunker Prices
+
+| Grade | Port | 31-Oct-25 | 24-Oct-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 698.0 | 686.0 | 1.7% |
+| MGO | Houston | 658.0 | 680.0 | -3.2% |
+| MGO | Singapore | 735.0 | 718.0 | 2.4% |
+| 380cst | Rotterdam | 409.0 | 415.0 | -1.4% |
+| 380cst | Houston | 392.0 | 405.0 | -3.2% |
+| 380cst | Singapore | 387.0 | 407.0 | -4.9% |
+| VLSFO | Rotterdam | 429.0 | 448.0 | -4.2% |
+| VLSFO | Houston | 450.0 | 455.0 | -1.1% |
+| VLSFO | Singapore | 463.0 | 461.0 | 0.4% |
+
+## Oil Prices
+
+| Category | Indicator | 31-Oct-25 | 24-Oct-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 65.1 | 65.9 | -1.3% |
+| OIL | WTI | 61.0 | 61.5 | -0.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 31-Oct-25 | 24-Oct-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 21.33 | 22.15 | -3.7% |
+| COSTAMARE INC | NYSE | USD | 12.22 | 11.42 | 7.0% |
+| DANAOS CORPORATION | NYSE | USD | 91.01 | 87.57 | 3.9% |
+| DIANA SHIPPING | NYSE | USD | 1.75 | 1.71 | 2.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 57.54 | 55.47 | 3.7% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.22 | 1.18 | 3.4% |
+| SAFE BULKERS INC | NYSE | USD | 4.69 | 4.45 | 5.4% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 8.50 | 8.23 | 3.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.82 | 17.51 | 7.5% |
+| STEALTHGAS INC | NASDAQ | USD | 6.85 | 6.48 | 5.7% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 24.38 | 23.30 | 4.6% |
+
+## Macro-economic headlines
+
+In China, manufacturing PMI remained in contraction territory for the seventh consecutive month, registering 49.0 in October, below both market expectations of 49.6 and September’s reading of 49.8.
+
+In the Eurozone, the ECB maintained its benchmark interest rate at 2.15% in October for the third consecutive month.
+
+In the United States, the Federal Reserve eased its key interest rate by 25 bps to 4.0% in October 2025, following a similar reduction in September, marking its lowest level since 2022, amid concerns over inflationary pressures and downside risks in the employment market.
+
+In Brazil, industrial production expanded 2.0% y-o-y in September, exceeding market expectations of 1.7% growth and marking a reversal from August's 0.7% contraction.

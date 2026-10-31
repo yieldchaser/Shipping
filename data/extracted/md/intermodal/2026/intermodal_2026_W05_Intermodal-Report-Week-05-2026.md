@@ -259,3 +259,77 @@ Finally, in Turkey the yards remains active, driven by a steady flow of incoming
 | ABINSK | 38,110 | 8,264 | 1983 | IHI, Japan | BC | undisclosed | Turkish |
 | HONG LI | 26,435 | 6,132 | 1995 | IMABARI, Japan | BC | undisclosed | Bangladeshi |
 | GLOBAL STAR | 13,864 | 4,153 | 1999 | JIANGNAN, China | TANKER | undisclosed | Turkish |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 30-Jan-26 | 29-Jan-26 | 28-Jan-26 | 27-Jan-26 | 26-Jan-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.241 | 4.227 | 4.251 | 4.223 | 4.211 | 0.0% |
+| Stock Exchange Data | S&P 500 | 6,939.03 | 6,969.01 | 6,978.03 | 6,978.60 | 6,950.23 | 0.3% |
+| Stock Exchange Data | Nasdaq | 25,552.39 | 25,884.30 | 26,022.79 | 25,939.74 | 25,713.21 | -0.2% |
+| Stock Exchange Data | Dow Jones | 48,892.47 | 49,071.56 | 49,015.60 | 49,003.41 | 49,412.40 | -0.4% |
+| Stock Exchange Data | FTSE 100 | 10,223.54 | 10,171.76 | 10,154.43 | 10,207.80 | 10,148.85 | 0.8% |
+| Stock Exchange Data | FTSE All-Share UK | 5,511.52 | 5,487.32 | 5,482.42 | 5,507.98 | 5,478.52 | 0.7% |
+| Stock Exchange Data | CAC40 | 8,126.53 | 8,071.36 | 8,066.68 | 8,152.82 | 8,131.15 | -0.2% |
+| Stock Exchange Data | Xetra Dax | 24,538.81 | 24,309.46 | 24,822.79 | 24,894.44 | 24,933.08 | -1.5% |
+| Stock Exchange Data | Nikkei | 53,322.85 | 53,375.60 | 53,358.71 | 53,333.54 | 52,885.25 | -1.0% |
+| Stock Exchange Data | Hang Seng | 27,387.11 | 27,968.09 | 27,826.91 | 27,126.95 | 26,765.52 | 2.4% |
+| Stock Exchange Data | DJ US Maritime | 386.22 | 401.03 | 420.59 | 421.77 | 422.03 | -8.6% |
+| Currencies | € / $ | 1.18 | 1.20 | 1.20 | 1.20 | 1.19 | 0.2% |
+| Currencies | £ / $ | 1.37 | 1.38 | 1.38 | 1.38 | 1.37 | 0.3% |
+| Currencies | $ / ¥ | 154.76 | 153.09 | 153.40 | 152.19 | 154.15 | -0.6% |
+| Currencies | $ / NoK | 9.61 | 9.53 | 9.59 | 9.57 | 9.76 | -1.3% |
+| Currencies | Yuan / $ | 6.95 | 6.95 | 6.95 | 6.95 | 6.95 | -0.2% |
+| Currencies | Won / $ | 1,450.31 | 1,431.58 | 1,430.30 | 1,431.85 | 1,445.76 | 0.3% |
+| Currencies | $ INDEX | 96.99 | 96.28 | 96.45 | 96.22 | 97.04 | -0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 30-Jan-26 | 23-Jan-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 696.0 | 668.0 | 4.2% |
+| MGO | Houston | 693.0 | 640.0 | 8.3% |
+| MGO | Singapore | 670.0 | 628.0 | 6.7% |
+| 380cst | Rotterdam | 398.0 | 378.0 | 5.3% |
+| 380cst | Houston | 363.0 | 354.0 | 2.5% |
+| 380cst | Singapore | 426.0 | 397.0 | 7.3% |
+| VLSFO | Rotterdam | 444.0 | 426.0 | 4.2% |
+| VLSFO | Houston | 459.0 | 447.0 | 2.7% |
+| VLSFO | Singapore | 478.0 | 459.0 | 4.1% |
+
+## Oil Prices
+
+| Category | Indicator | 30-Jan-26 | 23-Jan-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 70.7 | 65.9 | 7.3% |
+| OIL | WTI | 65.2 | 61.1 | 6.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 30-Jan-26 | 23-Jan-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 21.89 | 21.45 | 2.0% |
+| COSTAMARE INC | NYSE | USD | 16.78 | 15.92 | 5.4% |
+| DANAOS CORPORATION | NYSE | USD | 103.45 | 100.71 | 2.7% |
+| DIANA SHIPPING | NYSE | USD | 2.32 | 2.19 | 5.9% |
+| EUROSEAS LTD. | NASDAQ | USD | 57.18 | 53.34 | 7.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.61 | 1.70 | -5.3% |
+| SAFE BULKERS INC | NYSE | USD | 5.71 | 5.36 | 6.5% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 10.80 | 9.78 | 10.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 22.95 | 21.40 | 7.2% |
+| STEALTHGAS INC | NASDAQ | USD | 7.73 | 7.74 | -0.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 27.17 | 25.99 | 4.5% |
+
+## Macro-economic headlines
+
+In China, the Manufacturing PMI moved into contraction territory in January, registering 49.3, below both market forecasts and December’s reading, which stood at 50.1.
+
+In United States, the PPI rose by 3% y-o-y in December, exceeding market estimates of 2.7% and matching November’s rate.
+
+In France, the Manufacturing PMI improved in January, reading 51.2 compared with 50.7 in December and marginally surpassing market forecasts of 51.
+
+In India, industrial production grew by 7.8% y-o-y in December, well above market expectations of 5.5% and November’s 6.7%.

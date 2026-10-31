@@ -337,3 +337,76 @@ The demolition market continues to be driven by the steel market, which is not i
 | SUDARSHAN | 2,286 | 1,775 | 1992 | PROMET, Singapore | OFFSHORE/Support | undisclosed | Indian |  |
 
 © Intermodal Research 09/05/2023 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 5-May-23 | 4-May-23 | 3-May-23 | 2-May-23 | 1-May-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.446 | 3.351 | 3.403 | 3.439 | 3.574 | -0.2% |
+| Stock Exchange Data | S&P 500 | 4,136.25 | 4,061.22 | 4,090.75 | 4,119.58 | 3,990.97 | -0.8% |
+| Stock Exchange Data | Nasdaq | 12,235.41 | 11,966.40 | 12,025.33 | 12,080.51 | 12,212.60 | 0.1% |
+| Stock Exchange Data | Dow Jones | 33,674.38 | 33,127.74 | 33,414.24 | 33,684.53 | 34,051.70 | -1.2% |
+| Stock Exchange Data | FTSE 100 | 7,778.38 | 7,778.38 | 7,702.64 | 7,788.37 | 7,773.03 | -1.2% |
+| Stock Exchange Data | FTSE All-Share UK | 4,242.40 | 4,242.40 | 4,201.23 | 4,244.29 | 4,235.67 | -1.0% |
+| Stock Exchange Data | CAC40 | 7,432.93 | 7,432.93 | 7,340.77 | 7,403.83 | 7,383.20 | -0.8% |
+| Stock Exchange Data | Xetra Dax | 15,961.02 | 15,961.02 | 15,734.24 | 15,815.06 | 15,726.94 | 1.5% |
+| Stock Exchange Data | Nikkei | 29,157.95 | 29,157.95 | 29,157.95 | 29,157.95 | 29,123.18 | 0.1% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 20,049.31 | 19,948.73 | 19,699.16 | 19,933.81 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 232.27 | 232.27 | 235.00 | 238.21 | 238.48 | -1.5% |
+| Currencies | € / $ | 1.12 | 1.10 | 1.11 | 1.10 | 1.10 | 3.4% |
+| Currencies | £ / $ | 1.26 | 1.26 | 1.26 | 1.25 | 1.25 | 2.5% |
+| Currencies | $ / ¥ | 134.84 | 134.19 | 134.55 | 136.47 | 137.54 | 2.9% |
+| Currencies | $ / NoK | 0.0946 | 0.0936 | 0.0929 | 0.0925 | 0.0930 | -2.0% |
+| Currencies | Yuan / $ | 6.91 | 6.91 | 6.91 | 6.91 | 6.91 | 0.5% |
+| Currencies | Won / $ | 1,317.96 | 1,321.15 | 1,335.51 | 1,342.63 | 1,343.12 | 1.6% |
+| Currencies | $ INDEX | 101.21 | 101.40 | 101.34 | 101.96 | 102.15 | -0.5% |
+
+## Bunker Prices
+
+| Grade | Port | 5-May-23 | 28-Apr-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 05-May-23 | 28-Apr-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 12.72 | 12.67 | 0.4% |
+| COSTAMARE INC | NYSE | USD | 8.39 | 9.03 | -7.1% |
+| DANAOS CORPORATION | NYSE | USD | 56.51 | 57.93 | -2.5% |
+| DIANA SHIPPING | NYSE | USD | 3.75 | 3.96 | -5.3% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 41.64 | 44.72 | -6.9% |
+| EUROSEAS LTD. | NASDAQ | USD | 18.42 | 19.39 | -5.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 0.97 | 1.01 | -4.0% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.89 | 1.91 | -1.0% |
+| SAFE BULKERS INC | NYSE | USD | 3.61 | 3.66 | -1.4% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 4.57 | 4.85 | -5.8% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.81 | 21.11 | -10.9% |
+| STEALTHGAS INC | NASDAQ | USD | 2.71 | 2.78 | -2.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 16.60 | 17.16 | -3.3% |
+
+## Market News
+
+“International Seaways shares the wealth with another special dividend
+
+New York-based tanker owner International Seaways has turned in another hugely profitable quarter while returning cash to shareholders through a special dividend of $1.50 per share.
+
+The 76-ship diversified operator crushed the consensus earnings estimates of Wall Street analysts with adjusted net income of $3.27 per share versus the predicted $2.82. Ebitda of $209m outstripped the analyst estimate of $189m.
+
+Seaways’ adjusted net income of $162.5m marks the third consecutive quarter that that figure topped $100m, following on a profit of $208.8m in the fourth quarter and $113.9m in the third quarter of 2022.
+
+Shipping revenues of $287m nearly trebled the $101.5m seen in the first quarter of 2022. Seaways lost about $13m, or $0.26 per share, in the year-ago quarter.
+
+Shareholders will be getting...(TradeWinds)

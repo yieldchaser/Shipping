@@ -250,3 +250,77 @@ Turkey experienced a modest pickup in ship recycling activity, though the Eid ho
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | OCEAN ROSEMARY | 43,769 | 8,783 | 1996 | DAEWOO, S. Korea | BC | $470/Ldt | Bangladeshi |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 27-Mar-26 | 26-Mar-26 | 25-Mar-26 | 24-Mar-26 | 23-Mar-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.440 | 4.416 | 4.328 | 4.392 | 4.336 | 1.1% |
+| Stock Exchange Data | S&P 500 | 6,368.85 | 6,477.16 | 6,591.90 | 6,556.37 | 6,581.00 | -2.1% |
+| Stock Exchange Data | Nasdaq | 23,132.77 | 23,587.00 | 24,162.98 | 24,002.45 | 24,188.59 | -3.2% |
+| Stock Exchange Data | Dow Jones | 45,166.64 | 45,960.11 | 46,429.49 | 46,124.06 | 46,208.47 | -0.9% |
+| Stock Exchange Data | FTSE 100 | 9,967.35 | 9,972.17 | 10,106.84 | 9,965.16 | 9,894.15 | 0.5% |
+| Stock Exchange Data | FTSE All-Share UK | 5,325.21 | 5,336.76 | 5,405.43 | 5,328.88 | 5,298.18 | 0.2% |
+| Stock Exchange Data | CAC40 | 7,701.95 | 7,769.31 | 7,846.55 | 7,743.92 | 7,726.20 | 0.5% |
+| Stock Exchange Data | Xetra Dax | 22,300.75 | 22,612.97 | 22,957.08 | 22,636.91 | 22,653.86 | -0.4% |
+| Stock Exchange Data | Nikkei | 53,373.07 | 53,603.65 | 53,749.62 | 52,252.28 | 51,515.49 | 0.0% |
+| Stock Exchange Data | Hang Seng | 24,951.88 | 24,856.43 | 25,335.95 | 25,063.71 | 24,382.47 | -1.3% |
+| Stock Exchange Data | DJ US Maritime | 440.25 | 446.92 | 446.03 | 447.57 | 429.22 | 2.8% |
+| Currencies | € / $ | 1.15 | 1.15 | 1.16 | 1.16 | 1.16 | -0.5% |
+| Currencies | £ / $ | 1.33 | 1.33 | 1.34 | 1.34 | 1.34 | -0.6% |
+| Currencies | $ / ¥ | 160.31 | 159.80 | 159.46 | 158.68 | 158.43 | 0.7% |
+| Currencies | $ / NoK | 9.72 | 9.68 | 9.68 | 9.68 | 9.73 | 1.7% |
+| Currencies | Yuan / $ | 6.91 | 6.91 | 6.90 | 6.89 | 6.88 | 0.4% |
+| Currencies | Won / $ | 1,508.15 | 1,507.26 | 1,504.61 | 1,496.03 | 1,486.70 | 0.2% |
+| Currencies | $ INDEX | 100.15 | 99.90 | 99.60 | 99.43 | 98.95 | 0.5% |
+
+## Bunker Prices
+
+| Grade | Port | 27-Mar-26 | 20-Mar-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,381.0 | 1,343.8 | 2.8% |
+| MGO | Houston | 1,305.0 | 1,301.8 | 0.2% |
+| MGO | Singapore | 1,783.5 | 1,785.8 | -0.1% |
+| 380cst | Rotterdam | 698.3 | 727.0 | -4.0% |
+| 380cst | Houston | 662.0 | 702.0 | -5.7% |
+| 380cst | Singapore | 726.0 | 794.0 | -8.6% |
+| VLSFO | Rotterdam | 731.0 | 778.0 | -6.0% |
+| VLSFO | Houston | 855.0 | 800.0 | 6.9% |
+| VLSFO | Singapore | 863.0 | 970.0 | -11.0% |
+
+## Oil Prices
+
+| Category | Indicator | 27-Mar-26 | 20-Mar-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 112.6 | 112.2 | 0.3% |
+| OIL | WTI | 99.6 | 98.3 | 1.3% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 27-Mar-26 | 20-Mar-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 20.40 | 19.82 | 2.9% |
+| COSTAMARE INC | NYSE | USD | 16.59 | 16.77 | -1.1% |
+| DANAOS CORPORATION | NYSE | USD | 110.74 | 111.70 | -0.9% |
+| DIANA SHIPPING | NYSE | USD | 2.41 | 2.31 | 4.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 60.81 | 65.50 | -7.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.94 | 1.72 | 12.8% |
+| SAFE BULKERS INC | NYSE | USD | 6.08 | 6.05 | 0.5% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 12.04 | 12.11 | -0.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 22.25 | 22.33 | -0.4% |
+| STEALTHGAS INC | NASDAQ | USD | 9.27 | 9.09 | 2.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 38.14 | 35.68 | 6.9% |
+
+## Macro-economic headlines
+
+In Germany, the Ifo Business Expectations Index declined to 86 in March from 90.5 in February, matching market expectations.
+
+In Japan, Core CPI increased 2.2% y-o-y in March, above both market estimates and February’s 1.7%.
+
+In the UK, CPI rose 3% y-o-y in February, in line with market forecast and same with January’s pace.
+
+In India, industrial production grew by 5.2% y-o-y in February, surpassing both the market forecast of 4.7% and January’s 4.8% expansion.

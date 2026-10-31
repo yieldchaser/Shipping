@@ -245,3 +245,71 @@ The recycling market is experiencing a subdued season and this is expected to co
 | ALGOMA TRANSPORT | 34,066 | 9,148 | 1979 | PORT WELLER, Canada | BC | undisclosed | undisclosed | as is Canada |
 | HABIBA M | 3,739 | 1,357 | 1975 | KRAMER & BOOY, Nehterlands | GENERAL CARGO | undisclosed | Turkish |  |
 | LEADER M | 4,240 | 1,593 | 1977 | SVENDBORG, Denmark | GENERAL CARGO | undisclosed | Turkish |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 12-Jan-24 | 11-Jan-24 | 10-Jan-24 | 9-Jan-24 | 8-Jan-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.916 | 3.968 | 3.979 | 3.996 | 3.966 | -3.3% |
+| Stock Exchange Data | S&P 500 | 4,783.83 | 4,780.24 | 4,783.45 | 4,756.50 | 4,763.54 | 1.8% |
+| Stock Exchange Data | Nasdaq | 14,972.76 | 14,970.19 | 14,969.65 | 14,857.71 | 14,843.77 | 3.1% |
+| Stock Exchange Data | Dow Jones | 37,592.98 | 37,711.02 | 37,695.73 | 37,525.16 | 37,683.01 | 0.3% |
+| Stock Exchange Data | FTSE 100 | 7,624.93 | 7,576.59 | 7,651.76 | 7,683.96 | 7,694.19 | -0.8% |
+| Stock Exchange Data | FTSE All-Share UK | 4,165.62 | 4,140.73 | 4,180.83 | 4,196.15 | 4,204.14 | -0.7% |
+| Stock Exchange Data | CAC40 | 7,465.14 | 7,387.62 | 7,426.08 | 7,426.62 | 7,450.24 | 0.6% |
+| Stock Exchange Data | Xetra Dax | 16,704.56 | 16,547.03 | 16,689.81 | 16,688.36 | 16,716.47 | -0.1% |
+| Stock Exchange Data | Nikkei | 35,577.11 | 35,049.86 | 34,441.72 | 33,763.18 | 33,377.42 | 6.6% |
+| Stock Exchange Data | Hang Seng | 16,244.58 | 16,302.04 | 16,097.28 | 16,190.02 | 16,224.45 | 0.1% |
+| Stock Exchange Data | DJ US Maritime | 253.71 | 253.71 | 247.08 | 248.62 | 257.32 | -0.9% |
+| Currencies | € / $ | 1.10 | 1.10 | 1.10 | 1.09 | 1.09 | 0.1% |
+| Currencies | £ / $ | 1.27 | 1.28 | 1.27 | 1.27 | 1.27 | 0.2% |
+| Currencies | $ / ¥ | 144.87 | 145.05 | 145.74 | 144.44 | 144.23 | 0.2% |
+| Currencies | $ / NoK | 0.0972 | 0.0972 | 0.0966 | 0.0965 | 0.0965 | 0.1% |
+| Currencies | Yuan / $ | 7.11 | 7.11 | 7.17 | 7.13 | 7.10 | 0.1% |
+| Currencies | Won / $ | 1,313.51 | 1,313.73 | 1,318.50 | 1,320.59 | 1,312.20 | -0.1% |
+| Currencies | $ INDEX | 102.40 | 102.29 | 102.36 | 102.57 | 102.21 | 0.0% |
+
+## Bunker Prices
+
+| Grade | Port | 12-Jan-24 | 5-Jan-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 12-Jan-24 | 05-Jan-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 17.05 | 16.10 | 5.9% |
+| COSTAMARE INC | NYSE | USD | 10.74 | 11.35 | -5.4% |
+| DANAOS CORPORATION | NYSE | USD | 75.99 | 79.37 | -4.3% |
+| DIANA SHIPPING | NYSE | USD | 3.01 | 3.20 | -5.9% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 53.34 | 56.22 | -5.1% |
+| EUROSEAS LTD. | NASDAQ | USD | 36.22 | 36.73 | -1.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.35 | 2.58 | -8.9% |
+| SAFE BULKERS INC | NYSE | USD | 7.59 | 8.07 | -5.9% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 6.40 | 7.42 | -13.7% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 20.48 | 21.71 | -5.7% |
+| STEALTHGAS INC | NASDAQ | USD | 7.06 | 7.47 | -5.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 24.43 | 24.06 | 1.5% |
+
+## Macro-economic headlines
+
+• US: Inflation continues to rise, with both CPI and core CPI up 0.3% for the month to 3.4% and 3.9% respectively. The Producer Price Index (PPI) was more positive, falling by -0.1% for the month in September.
+
+• EU: The unemployment rate fell slightly to 6.4% in November, showing resilience.
+
+• UK: GDP increased slightly by 0.3% in November, while industrial and manufacturing production rose by 0.3% and 0.4% respectively in the same month.
+
+• China:, inflation fell by 0.3% on an annual basis in December, while PPI also slowed by 2.7%, both pointing to a deflationary environment. On the trade front, exports rose by 2.3% in December, while imports fell by 0.2% on an annual basis, leaving the trade balance at 75.34 bn.

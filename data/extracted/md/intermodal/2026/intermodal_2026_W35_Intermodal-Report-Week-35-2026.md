@@ -256,3 +256,77 @@ Aliaga remains muted and little changed in the week, with the Lira continuing to
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | BR GLORY | 22,273 | 4,921 | 1990 | SAKI JUKOGYO, Japan | BC | $510/Ldt | Pakistani |
 | ATHENA | 7,902 | 2,557 | 1992 | HIGAKI ZOSEN, Japan | TANKER | $540/Ldt | Bangladeshi |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 28-Aug-26 | 27-Aug-26 | 26-Aug-26 | 25-Aug-26 | 24-Aug-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.722 | 4.672 | 4.664 | 4.639 | 4.704 | -0.3% |
+| Stock Exchange Data | S&P 500 | 7,711.76 | 7,730.99 | 7,675.70 | 7,677.28 | 7,652.86 | 0.5% |
+| Stock Exchange Data | Nasdaq | 29,433.43 | 29,641.56 | 29,224.52 | 29,209.23 | 29,023.18 | 0.4% |
+| Stock Exchange Data | Dow Jones | 53,559.99 | 53,569.44 | 53,463.88 | 53,577.40 | 53,417.16 | 0.5% |
+| Stock Exchange Data | FTSE 100 | 10,824.26 | 10,792.54 | 10,878.12 | 10,886.16 | 10,854.32 | 0.1% |
+| Stock Exchange Data | FTSE All-Share UK | 5,842.37 | 5,826.09 | 5,866.59 | 5,869.29 | 5,850.42 | 0.2% |
+| Stock Exchange Data | CAC40 | 8,401.18 | 8,319.87 | 8,462.39 | 8,439.20 | 8,453.01 | -1.0% |
+| Stock Exchange Data | Xetra Dax | 26,569.99 | 26,367.24 | 26,285.96 | 26,266.14 | 26,106.60 | 1.7% |
+| Stock Exchange Data | Nikkei | 66,405.56 | 66,131.98 | 66,262.16 | 65,856.43 | 65,528.09 | 0.6% |
+| Stock Exchange Data | Hang Seng | 25,584.79 | 25,565.74 | 25,652.97 | 25,511.10 | 25,517.33 | -1.6% |
+| Stock Exchange Data | DJ US Maritime | 456.47 | 459.09 | 456.34 | 451.81 | 455.35 | -0.6% |
+| Currencies | € / $ | 1.16 | 1.17 | 1.16 | 1.17 | 1.17 | -0.8% |
+| Currencies | £ / $ | 1.35 | 1.36 | 1.36 | 1.36 | 1.36 | -0.7% |
+| Currencies | $ / ¥ | 160.04 | 159.39 | 159.29 | 159.16 | 159.08 | 0.7% |
+| Currencies | $ / NoK | 9.36 | 9.32 | 9.35 | 9.31 | 9.29 | 0.8% |
+| Currencies | Yuan / $ | 6.73 | 6.72 | 6.72 | 6.72 | 6.72 | 0.1% |
+| Currencies | Won / $ | 1,376.49 | 1,381.40 | 1,384.86 | 1,382.21 | 1,382.89 | -0.7% |
+| Currencies | $ INDEX | 99.70 | 99.16 | 99.17 | 98.92 | 99.00 | 0.9% |
+
+## Bunker Prices
+
+| Grade | Port | 28-Aug-26 | 21-Aug-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,205.5 | 1,277.0 | -5.6% |
+| MGO | Houston | 1,205.5 | 1,285.3 | -6.2% |
+| MGO | Singapore | 1,149.8 | 1,230.3 | -6.5% |
+| 380cst | Rotterdam | 524.8 | 557.5 | -5.9% |
+| 380cst | Houston | 470.8 | 474.8 | -0.8% |
+| 380cst | Singapore | 612.0 | 654.0 | -6.4% |
+| VLSFO | Rotterdam | 668.0 | 673.3 | -0.8% |
+| VLSFO | Houston | 670.8 | 706.8 | -5.1% |
+| VLSFO | Singapore | 767.3 | 812.0 | -5.5% |
+
+## Oil Prices
+
+| Category | Indicator | 28-Aug-26 | 21-Aug-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 89.3 | 94.4 | -5.4% |
+| OIL | WTI | 83.4 | 87.1 | -4.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 28-Aug-26 | 21-Aug-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 22.72 | 22.61 | 0.5% |
+| COSTAMARE INC | NYSE | USD | 15.41 | 15.62 | -1.3% |
+| DANAOS CORPORATION | NYSE | USD | 150.68 | 149.75 | 0.6% |
+| DIANA SHIPPING | NYSE | USD | 2.78 | 2.71 | 2.6% |
+| EUROSEAS LTD. | NASDAQ | USD | 76.63 | 75.03 | 2.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 3.54 | 3.74 | -5.3% |
+| SAFE BULKERS INC | NYSE | USD | 8.52 | 8.53 | -0.1% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 17.79 | 17.50 | 1.7% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 30.48 | 30.50 | -0.1% |
+| STEALTHGAS INC | NASDAQ | USD | 9.49 | 9.63 | -1.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 42.52 | 42.71 | -0.4% |
+
+## Macro-economic headlines
+
+In China, the manufacturing PMI rose to 49.8 in August from 49.2 in July, exceeding market expectations of 49.5.
+
+In Germany, the Ifo Business Climate Index increased to 88.8 in August from July’s 86.6, surpassing estimations of 87.2.
+
+In Eurozone, the Manufacturing PMI climbed to 52.7 in August from 51.9 the month before, coming in just under the flash reading of 52.8, yet still the best print since May 2022. Germany led the gains, with its factory sector developing at the fastest pace in the last four years.
+
+In Japan, Tokyo Core CPI rose 1.8% y-o-y in August, in line with forecasts and slightly below July's 1.9%.

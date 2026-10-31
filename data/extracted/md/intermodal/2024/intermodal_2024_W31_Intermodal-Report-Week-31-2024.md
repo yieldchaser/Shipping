@@ -225,3 +225,77 @@ The ship recycling sector remained under pressure this week, with high freight r
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | MSC ANNAMARIA | 31,205 | 8,805 | 1987 | HDW AG - Kiel - GEU, Germany | CONTAINER | $ 535/Ldt | Indian |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 2-Aug-24 | 1-Aug-24 | 31-Jul-24 | 30-Jul-24 | 29-Jul-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.796 | 3.978 | 4.105 | 4.141 | 4.178 | -9.6% |
+| Stock Exchange Data | S&P 500 | 5,346.56 | 5,446.68 | 5,522.30 | 5,436.44 | 5,463.54 | -2.1% |
+| Stock Exchange Data | Nasdaq | 18,440.85 | 18,890.39 | 19,362.43 | 18,796.27 | 19,059.49 | -3.1% |
+| Stock Exchange Data | Dow Jones | 39,737.26 | 40,347.97 | 40,842.79 | 40,743.33 | 40,539.93 | -2.1% |
+| Stock Exchange Data | FTSE 100 | 8,174.71 | 8,283.36 | 8,367.98 | 8,274.41 | 8,292.35 | -1.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,474.40 | 4,544.95 | 4,588.31 | 4,539.49 | 4,542.18 | -1.5% |
+| Stock Exchange Data | CAC40 | 7,251.80 | 7,370.45 | 7,531.49 | 7,474.94 | 7,443.84 | -3.5% |
+| Stock Exchange Data | Xetra Dax | 17,661.22 | 18,083.05 | 18,508.65 | 18,411.18 | 18,320.67 | -4.1% |
+| Stock Exchange Data | Nikkei | 35,909.70 | 38,126.33 | 39,101.82 | 38,525.95 | 38,468.63 | -4.7% |
+| Stock Exchange Data | Hang Seng | 16,945.51 | 17,304.96 | 17,344.60 | 17,002.91 | 17,238.34 | -0.4% |
+| Stock Exchange Data | DJ US Maritime | 361.01 | 373.22 | 403.36 | 395.71 | 395.84 | -7.9% |
+| Currencies | € / $ | 1.09 | 1.08 | 1.08 | 1.08 | 1.08 | 0.5% |
+| Currencies | £ / $ | 1.28 | 1.27 | 1.29 | 1.28 | 1.29 | -0.6% |
+| Currencies | $ / ¥ | 146.54 | 149.36 | 149.98 | 152.76 | 154.01 | -4.7% |
+| Currencies | $ / NoK | 10.93 | 10.95 | 10.89 | 10.95 | 11.00 | -0.7% |
+| Currencies | Yuan / $ | 7.16 | 7.24 | 7.22 | 7.25 | 7.26 | -1.2% |
+| Currencies | Won / $ | 1,356.63 | 1,369.08 | 1,369.08 | 1,382.81 | 1,380.57 | -2.0% |
+| Currencies | $ INDEX | 103.21 | 104.42 | 104.10 | 104.55 | 104.56 | -1.1% |
+
+## Bunker Prices
+
+| Grade | Port | 2-Aug-24 | 26-Jul-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 693.0 | 711.0 | -2.5% |
+| MGO | Houston | 558.0 | 560.0 | -0.4% |
+| MGO | Singapore | 705.0 | 725.0 | -2.8% |
+| 380cst | Rotterdam | 480.0 | 488.0 | -1.6% |
+| 380cst | Houston | 467.0 | 470.0 | -0.6% |
+| 380cst | Singapore | 491.0 | 513.0 | -4.3% |
+| VLSFO | Rotterdam | 549.0 | 552.0 | -0.5% |
+| VLSFO | Houston | 558.0 | 560.0 | -0.4% |
+| VLSFO | Singapore | 607.0 | 616.0 | -1.5% |
+
+## Oil Prices
+
+| Category | Indicator | 2-Aug-24 | 26-Jul-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 76.8 | 81.1 | -5.3% |
+| OIL | WTI | 73.5 | 77.2 | -4.7% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 02-Aug-24 | 26-Jul-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 16.00 | 16.35 | -2.1% |
+| COSTAMARE INC | NYSE | USD | 13.63 | 14.10 | -3.3% |
+| DANAOS CORPORATION | NYSE | USD | 82.13 | 83.84 | -2.0% |
+| DIANA SHIPPING | NYSE | USD | 2.46 | 2.69 | -8.6% |
+| EUROSEAS LTD. | NASDAQ | USD | 35.95 | 37.42 | -3.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.70 | 1.78 | -4.8% |
+| SAFE BULKERS INC | NYSE | USD | 4.76 | 5.45 | -12.7% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 9.01 | 9.29 | -3.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 21.40 | 22.89 | -6.5% |
+| STEALTHGAS INC | NASDAQ | USD | 6.10 | 6.51 | -6.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 24.15 | 25.46 | -5.1% |
+
+## Macro-economic headlines
+
+• In the eurozone area, the July CPI increased by 2.6% y-o-y.
+
+• In US, the July ISM Manufacturing PMI was reported at 46.8 down from 48.5 in June. The unemployment July rate was increased to 4.3% from 4.1% in June while Fed kept Interest Rate unchanged to 5.5%
+
+• In Japan, Bank of Japan increased Interest Rate to 0.25% from 0.1%.
+
+• In China, the Caixin Services PMI rose to 52.1 in July, up from 51.2 last month while the Caixin Manufacturing PMI declined to 49.8 in July from 51.8 in June.

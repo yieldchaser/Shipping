@@ -247,3 +247,77 @@ In Turkey, ship dismantling activity was limited after Eid, while most yards app
 | USD/INR | 94.95 | 95.01 | -0.06% | 95.97 |
 | USD/PKR | 278.55 | 278.55 | 0.00% | 280.05 |
 | USD/TRY | 46.05 | 45.86 | 0.41% | 46.05 |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 5-Jun-26 | 4-Jun-26 | 3-Jun-26 | 2-Jun-26 | 1-Jun-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.536 | 4.477 | 4.491 | 4.455 | 4.477 | 1.9% |
+| Stock Exchange Data | S&P 500 | 7,383.74 | 7,584.31 | 7,553.68 | 7,609.78 | 7,599.96 | -2.6% |
+| Stock Exchange Data | Nasdaq | 28,957.60 | 30,407.81 | 30,571.24 | 30,660.60 | 30,513.86 | -4.5% |
+| Stock Exchange Data | Dow Jones | 50,866.78 | 51,561.93 | 50,687.07 | 51,307.79 | 51,078.88 | -0.3% |
+| Stock Exchange Data | FTSE 100 | 10,368.05 | 10,360.32 | 10,332.30 | 10,373.51 | 10,338.95 | -0.4% |
+| Stock Exchange Data | FTSE All-Share UK | 5,574.09 | 5,576.71 | 5,560.48 | 5,585.61 | 5,565.77 | -0.5% |
+| Stock Exchange Data | CAC40 | 8,218.24 | 8,244.29 | 8,150.42 | 8,209.09 | 8,146.59 | 0.4% |
+| Stock Exchange Data | Xetra Dax | 24,759.05 | 24,944.95 | 24,795.94 | 25,124.17 | 25,003.04 | -1.4% |
+| Stock Exchange Data | Nikkei | 66,588.12 | 67,470.69 | 68,402.13 | 66,734.24 | 66,934.33 | 0.4% |
+| Stock Exchange Data | Hang Seng | 24,961.95 | 25,253.40 | 25,633.21 | 26,038.32 | 25,398.18 | -0.9% |
+| Stock Exchange Data | DJ US Maritime | 463.00 | 468.52 | 475.31 | 470.65 | 466.87 | 0.3% |
+| Currencies | € / $ | 1.15 | 1.16 | 1.16 | 1.16 | 1.16 | -1.2% |
+| Currencies | £ / $ | 1.33 | 1.34 | 1.34 | 1.35 | 1.35 | -0.9% |
+| Currencies | $ / ¥ | 160.29 | 160.01 | 160.03 | 159.89 | 159.65 | 0.6% |
+| Currencies | $ / NoK | 9.44 | 9.34 | 9.32 | 9.29 | 9.27 | 2.2% |
+| Currencies | Yuan / $ | 6.77 | 6.77 | 6.77 | 6.76 | 6.77 | 0.0% |
+| Currencies | Won / $ | 1,559.08 | 1,531.88 | 1,534.62 | 1,516.93 | 1,513.50 | 3.4% |
+| Currencies | $ INDEX | 100.07 | 99.41 | 99.53 | 99.22 | 99.20 | 1.2% |
+
+## Bunker Prices
+
+| Grade | Port | 5-Jun-26 | 29-May-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,029.8 | 1,015.5 | 1.4% |
+| MGO | Houston | 1,133.5 | 1,070.8 | 5.9% |
+| MGO | Singapore | 1,099.3 | 1,062.0 | 3.5% |
+| 380cst | Rotterdam | 580.8 | 608.0 | -4.5% |
+| 380cst | Houston | 612.0 | 661.8 | -7.5% |
+| 380cst | Singapore | 613.8 | 634.0 | -3.2% |
+| VLSFO | Rotterdam | 663.8 | 695.8 | -4.6% |
+| VLSFO | Houston | 730.0 | 749.3 | -2.6% |
+| VLSFO | Singapore | 779.3 | 774.3 | 0.6% |
+
+## Oil Prices
+
+| Category | Indicator | 5-Jun-26 | 29-May-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 93.1 | 92.1 | 1.1% |
+| OIL | WTI | 90.5 | 87.4 | 3.6% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 05-Jun-26 | 29-May-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 22.21 | 22.24 | -0.1% |
+| COSTAMARE INC | NYSE | USD | 15.99 | 15.38 | 4.0% |
+| DANAOS CORPORATION | NYSE | USD | 129.17 | 125.21 | 3.2% |
+| DIANA SHIPPING | NYSE | USD | 2.34 | 2.36 | -0.8% |
+| EUROSEAS LTD. | NASDAQ | USD | 66.43 | 63.70 | 4.3% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.09 | 2.03 | 3.0% |
+| SAFE BULKERS INC | NYSE | USD | 6.50 | 6.25 | 4.0% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 15.45 | 15.50 | -0.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 27.32 | 27.25 | 0.3% |
+| STEALTHGAS INC | NASDAQ | USD | 9.62 | 9.18 | 4.8% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 37.00 | 37.58 | -1.5% |
+
+## Macro-economic headlines
+
+In China, the trade surplus widened to $105.43bn in May, well above the $84.80bn recorded in the previous month and market expectations of $92.10bn. The increase was driven by a strong export performance, with shipments rising 19.4% y-o-y, supported by firm demand for technology-related goods and EVs, alongside stockpiling by firms amid concerns over energy-cost pressures linked to the Middle East conflict. Imports also climbed by 27.4% y-o-y, underpinned by Beijing’s push to stimulate domestic demand.
+
+In the Eurozone, GDP growth slowed to 0.3% y-o-y in Q1 2026, falling short of market estimations and well below the 1.2% pace recorded in Q4 2025, pointing to a weaker start to the year for the bloc’s economy.
+
+In Germany, industrial production rose by 0.4% m-o-m in April, in line with expectations and reversing the 0.7% decline recorded in March.
+
+In the United States, the S&P Global Composite PMI eased to 51.5 in May, slightly below both forecasts and April’s reading of 51.7.

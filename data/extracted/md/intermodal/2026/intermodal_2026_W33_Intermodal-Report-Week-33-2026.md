@@ -253,3 +253,77 @@ At Gadani, demand remains strong but supply-constrained: recyclers are eager buy
 | USD/INR | 95.45 | 95.21 | *0.25%* | 96.57 |
 | USD/PKR | 277.75 | 277.87 | -0.04% | 280.05 |
 | USD/TRY | 47.88 | 47.70 | *0.38%* | 47.88 |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 14-Aug-26 | 13-Aug-26 | 12-Aug-26 | 11-Aug-26 | 10-Aug-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.696 | 4.641 | 4.682 | 4.684 | 4.698 | 0.8% |
+| Stock Exchange Data | S&P 500 | 7,785.76 | 7,798.99 | 7,748.50 | 7,728.20 | 7,753.11 | 0.4% |
+| Stock Exchange Data | Nasdaq | 30,046.14 | 30,084.50 | 29,742.60 | 29,525.48 | 29,621.80 | 1.1% |
+| Stock Exchange Data | Dow Jones | 53,732.41 | 53,839.99 | 53,770.27 | 53,791.85 | 53,795.98 | -0.6% |
+| Stock Exchange Data | FTSE 100 | 10,750.11 | 10,772.67 | 10,833.15 | 10,844.19 | 10,862.50 | -1.4% |
+| Stock Exchange Data | FTSE All-Share UK | 5,805.22 | 5,815.10 | 5,843.10 | 5,847.90 | 5,855.29 | -1.2% |
+| Stock Exchange Data | CAC40 | 8,636.80 | 8,650.56 | 8,674.94 | 8,714.94 | 8,726.03 | -0.9% |
+| Stock Exchange Data | Xetra Dax | 26,440.31 | 26,299.74 | 26,331.07 | 26,391.42 | 26,323.88 | 0.5% |
+| Stock Exchange Data | Nikkei | 68,713.80 | 68,308.59 | 67,254.06 | 67,215.00 | 66,970.22 | 4.7% |
+| Stock Exchange Data | Hang Seng | 25,116.85 | 25,396.51 | 25,440.17 | 25,652.82 | 25,937.49 | -2.1% |
+| Stock Exchange Data | DJ US Maritime | 455.02 | 451.51 | 446.19 | 435.43 | 434.90 | 5.6% |
+| Currencies | € / $ | 1.16 | 1.15 | 1.15 | 1.15 | 1.15 | 0.1% |
+| Currencies | £ / $ | 1.35 | 1.35 | 1.35 | 1.35 | 1.35 | 0.3% |
+| Currencies | $ / ¥ | 159.30 | 159.48 | 159.41 | 159.27 | 159.30 | 1.0% |
+| Currencies | $ / NoK | 9.42 | 9.51 | 9.49 | 9.49 | 9.49 | -0.7% |
+| Currencies | Yuan / $ | 6.74 | 6.74 | 6.74 | 6.75 | 6.75 | -0.1% |
+| Currencies | Won / $ | 1,416.50 | 1,417.94 | 1,417.99 | 1,411.08 | 1,417.51 | 0.6% |
+| Currencies | $ INDEX | 99.67 | 99.96 | 100.01 | 99.83 | 99.81 | 0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 14-Aug-26 | 7-Aug-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,253.3 | 1,133.5 | 10.6% |
+| MGO | Houston | 1,237.8 | 1,140.5 | 8.5% |
+| MGO | Singapore | 1,210.8 | 1,128.0 | 7.3% |
+| 380cst | Rotterdam | 553.3 | 503.5 | 9.9% |
+| 380cst | Houston | 449.3 | 479.3 | -6.3% |
+| 380cst | Singapore | 628.3 | 584.0 | 7.6% |
+| VLSFO | Rotterdam | 671.0 | 612.8 | 9.5% |
+| VLSFO | Houston | 689.0 | 667.3 | 3.3% |
+| VLSFO | Singapore | 821.3 | 798.3 | 2.9% |
+
+## Oil Prices
+
+| Category | Indicator | 14-Aug-26 | 7-Aug-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 88.5 | 83.6 | 5.9% |
+| OIL | WTI | 82.4 | 78.2 | 5.4% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 14-Aug-26 | 07-Aug-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 22.61 | 22.37 | 1.1% |
+| COSTAMARE INC | NYSE | USD | 14.64 | 14.66 | -0.1% |
+| DANAOS CORPORATION | NYSE | USD | 141.92 | 140.72 | 0.9% |
+| DIANA SHIPPING | NYSE | USD | 2.48 | 2.42 | 2.5% |
+| EUROSEAS LTD. | NASDAQ | USD | 73.80 | 75.29 | -2.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 3.64 | 3.19 | 14.1% |
+| SAFE BULKERS INC | NYSE | USD | 7.75 | 7.60 | 2.0% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 16.77 | 16.86 | -0.5% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 29.05 | 28.90 | 0.5% |
+| STEALTHGAS INC | NASDAQ | USD | 9.46 | 8.59 | 10.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 41.45 | 39.14 | 5.9% |
+
+## Macro-economic headlines
+
+In Eurozone, PPI eased to 4.6% y-o-y in June, down from 5.9% in May and in line with market forecasts.
+
+In Germany, the Composite PMI rose into expansion territory, reaching 51.3 in July from 49.5 in June and broadly matching the market forecast of 51.2.
+
+In China, CPI declined to 0.5% y-o-y in July, down from 1.0% in June and below the forecast of 0.8%.
+
+In United States, S&P Global Composite PMI increased to 54.5 in July from 51.9 in June, exceeding the forecast of 53.6.

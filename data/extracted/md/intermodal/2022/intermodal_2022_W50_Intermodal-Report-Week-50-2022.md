@@ -313,3 +313,80 @@ It seems that the demolition market has started to build positive momentum with 
 | HAI FENG 698 | 10,113 | 7,262 | 1984 | MATHIAS, Germany | FISHING | $ 435/Ldt | Bangladeshi |  |
 
 © Intermodal Research 20/12/2022 6
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 16-Dec-22 | 15-Dec-22 | 14-Dec-22 | 13-Dec-22 | 12-Dec-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.480 | 3.450 | 3.500 | 3.500 | 3.610 | -2.4% |
+| Stock Exchange Data | S&P 500 | 3,852.36 | 3,895.75 | 3,995.32 | 4,019.65 | 3,934.38 | -2.1% |
+| Stock Exchange Data | Nasdaq | 10,705.41 | 10,810.53 | 11,170.89 | 11,256.81 | 11,143.74 | -2.7% |
+| Stock Exchange Data | Dow Jones | 32,920.46 | 33,202.22 | 33,966.35 | 34,108.64 | 34,005.04 | -1.7% |
+| Stock Exchange Data | FTSE 100 | 7,332.12 | 7,426.17 | 7,495.93 | 7,502.89 | 7,445.97 | -1.9% |
+| Stock Exchange Data | FTSE All-Share UK | 4,010.49 | 4,063.59 | 4,100.26 | 4,105.09 | 4,070.00 | -1.9% |
+| Stock Exchange Data | CAC40 | 6,452.63 | 6,522.77 | 6,730.79 | 6,744.98 | 6,650.55 | -3.4% |
+| Stock Exchange Data | Xetra Dax | 13,893.07 | 13,986.23 | 14,460.20 | 14,497.89 | 14,306.63 | -2.9% |
+| Stock Exchange Data | Nikkei | 27,527.12 | 28,051.70 | 28,156.21 | 27,954.85 | 27,842.33 | -1.1% |
+| Stock Exchange Data | Hang Seng | 19,368.59 | 19,368.59 | 19,673.45 | 19,596.20 | 19,463.63 | -0.4% |
+| Stock Exchange Data | DJ US Maritime | 206.73 | 208.80 | 215.56 | 216.38 | 213.96 | -1.4% |
+| Currencies | € / $ | 1.06 | 1.06 | 1.07 | 1.06 | 1.05 | 0.5% |
+| Currencies | £ / $ | 1.21 | 1.22 | 1.24 | 1.24 | 1.23 | -0.9% |
+| Currencies | $ / ¥ | 136.71 | 137.75 | 135.36 | 135.59 | 137.51 | 0.1% |
+| Currencies | $ / NoK | 0.1010 | 0.1014 | 0.1028 | 0.1022 | 0.1002 | 1.1% |
+| Currencies | Yuan / $ | 6.97 | 6.97 | 6.95 | 6.94 | 6.98 | 0.2% |
+| Currencies | Won / $ | 1,309.96 | 1,318.10 | 1,296.01 | 1,289.36 | 1,306.92 | 0.4% |
+| Currencies | $ INDEX | 104.70 | 104.56 | 103.77 | 103.98 | 105.13 | -0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 16-Dec-22 | 9-Dec-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 16-Dec-22 | 09-Dec-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.24 | 13.94 | 2.2% |
+| COSTAMARE INC | NYSE | USD | 8.84 | 9.01 | -1.9% |
+| DANAOS CORPORATION | NYSE | USD | 53.55 | 54.51 | -1.8% |
+| DIANA SHIPPING | NYSE | USD | 3.78 | 3.54 | 6.8% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 49.14 | 50.72 | -3.1% |
+| EUROSEAS LTD. | NASDAQ | USD | 19.95 | 19.06 | 4.7% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.12 | 1.06 | 5.7% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.73 | 1.60 | 8.1% |
+| SAFE BULKERS INC | NYSE | USD | 2.80 | 2.73 | 2.6% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.51 | 0.52 | -1.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.54 | 19.51 | 0.2% |
+| STEALTHGAS INC | NASDAQ | USD | 2.96 | 2.79 | 6.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 16.86 | 17.04 | -1.1% |
+
+## Market News
+
+“Seaspan returns to bondholders with ‘best and final’ amendment offer
+
+Container ship owner Seaspan has gone back to bondholders with a better offer in a bid to avoid having to buy back its $300m notes series due in 2026.
+
+Earlier in December, the giant company, part of US-listed Atlas Corp, launched a bid to amend the terms of the debt, which carries a coupon of 6.5%.
+
+Seaspan’s imminent $10.9bn takeover by leading shareholders including Fairfax Financial Holdings and the Washington family would trigger a bond delisting clause that gives holders a put option at 1% above par.
+
+Seaspan had offered an 8% fee to change this clause.
+
+A new filing reveals that following talks with certain bondholders, this has been increased to 8.5%.
+
+Seaspan called this “commercially attractive”.
+
+Bond trustee Nordic Trust wrote to investors saying it had been told this was...(TradeWinds)

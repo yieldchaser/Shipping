@@ -245,3 +245,70 @@ The market is picking up pace, with India and Pakistan leading the way. Rates ar
 | Ratana Thida | 18,196 | 6,232 | 1996 | MITSUBISHI SHIMONOSEKI, Japan | CONTAINER | undisclosed | Bangladeshi |  |
 | CHERRY | 16,544 | 6,499 | 1998 | NAIKAI ZOSEN, Japan | CONTAINER | $ 545/Ldt | Bangladeshi | as is' bss S'pore, incl. 350mt bunkers |
 | 19 WINNER | 3,042 | 1,052 | 1986 | BANGUHJIN, S. Korea | TANKER | undisclosed | Bangladeshi |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 1-Sep-23 | 31-Aug-23 | 30-Aug-23 | 29-Aug-23 | 28-Aug-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.173 | 4.093 | 4.118 | 4.122 | 4.212 | -1.6% |
+| Stock Exchange Data | S&P 500 | 4,515.77 | 4,507.66 | 4,514.87 | 4,497.63 | 4,433.31 | 2.5% |
+| Stock Exchange Data | Nasdaq | 14,031.82 | 14,034.97 | 14,019.31 | 13,943.76 | 13,705.13 | 3.2% |
+| Stock Exchange Data | Dow Jones | 34,837.71 | 34,721.91 | 34,890.24 | 34,852.67 | 34,559.98 | 1.4% |
+| Stock Exchange Data | FTSE 100 | 7,464.54 | 7,464.54 | 7,439.13 | 7,473.67 | 7,464.99 | 1.7% |
+| Stock Exchange Data | FTSE All-Share UK | 4,069.21 | 4,069.21 | 4,059.53 | 4,074.20 | 4,067.20 | 1.8% |
+| Stock Exchange Data | CAC40 | 7,296.77 | 7,316.70 | 7,364.40 | 7,373.43 | 7,324.71 | 0.9% |
+| Stock Exchange Data | Xetra Dax | 15,840.34 | 15,947.08 | 15,891.93 | 15,930.88 | 15,792.61 | 0.3% |
+| Stock Exchange Data | Nikkei | 32,710.62 | 32,619.34 | 32,333.46 | 32,226.97 | 32,169.99 | 1.7% |
+| Stock Exchange Data | Hang Seng | 18,382.06 | 18,382.06 | 18,482.86 | 18,484.03 | 18,130.74 | 1.4% |
+| Stock Exchange Data | DJ US Maritime | 271.89 | 271.89 | 269.50 | 269.50 | 266.84 | 2.6% |
+| Currencies | € / $ | 1.08 | 1.08 | 1.09 | 1.09 | 1.08 | 0.0% |
+| Currencies | £ / $ | 1.26 | 1.27 | 1.27 | 1.26 | 1.26 | 0.0% |
+| Currencies | $ / ¥ | 146.20 | 145.47 | 146.10 | 146.00 | 146.47 | -0.2% |
+| Currencies | $ / NoK | 0.0938 | 0.0941 | 0.0943 | 0.0945 | 0.0933 | 0.4% |
+| Currencies | Yuan / $ | 7.26 | 7.26 | 7.28 | 7.28 | 7.29 | -0.4% |
+| Currencies | Won / $ | 1,318.45 | 1,325.64 | 1,324.03 | 1,320.90 | 1,320.88 | -0.5% |
+| Currencies | $ INDEX | 103.62 | 103.10 | 103.44 | 103.92 | 104.17 | -0.3% |
+
+## Bunker Prices
+
+| Grade | Port | 1-Sep-23 | 25-Aug-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 01-Sep-23 | 25-Aug-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.90 | 14.71 | 1.3% |
+| COSTAMARE INC | NYSE | USD | 10.42 | 10.15 | 2.7% |
+| DANAOS CORPORATION | NYSE | USD | 67.39 | 66.34 | 1.6% |
+| DIANA SHIPPING | NYSE | USD | 3.62 | 3.60 | 0.6% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 44.03 | 41.01 | 7.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 28.16 | 26.20 | 7.5% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 0.89 | 0.91 | -2.2% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.66 | 1.63 | 1.8% |
+| SAFE BULKERS INC | NYSE | USD | 3.20 | 3.08 | 3.9% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 5.40 | 5.15 | 4.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 17.62 | 16.91 | 4.2% |
+| STEALTHGAS INC | NASDAQ | USD | 4.91 | 4.78 | 2.7% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 20.47 | 20.54 | -0.3% |
+
+## Macro-economic headlines
+
+• US: GDP for Q2 in the United States rose to 2.1% QoQ, while Pending Home Sales rose by 0.9% for July.
+
+• EU: Core inflation decrease by 0.2% to 5.3% in August, while unemployment stood at 6.4%.
+
+• China: Manufacturing PMI for August rose to 49.7, while the Caixin Manufacturing PMI for August rose to 51, in expanding territory.

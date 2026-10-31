@@ -302,3 +302,81 @@ Market conditions in the demolition front remain unfavorable. Subdued global ste
 No fresh demolition deals were reported last week
 
 © Intermodal Research 01/11/2022 6
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 28-Oct-22 | 27-Oct-22 | 26-Oct-22 | 25-Oct-22 | 24-Oct-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.010 | 3.937 | 4.015 | 2.411 | 4.234 | -4.8% |
+| Stock Exchange Data | S&P 500 | 3,901.06 | 3,807.30 | 3,830.60 | 3,859.11 | 3,752.75 | 4.0% |
+| Stock Exchange Data | Nasdaq | 11,102.45 | 10,792.68 | 10,970.99 | 11,199.12 | 10,952.61 | 2.2% |
+| Stock Exchange Data | Dow Jones | 32,861.80 | 32,033.28 | 31,839.11 | 31,836.74 | 31,499.62 | 5.7% |
+| Stock Exchange Data | FTSE 100 | 7,047.67 | 7,073.69 | 7,056.07 | 7,013.48 | 7,013.99 | 1.1% |
+| Stock Exchange Data | FTSE All-Share UK | 3,855.75 | 3,873.27 | 3,866.01 | 3,837.27 | 3,820.96 | 1.6% |
+| Stock Exchange Data | CAC40 | 6,273.05 | 6,244.03 | 6,276.31 | 6,250.55 | 6,131.36 | 3.9% |
+| Stock Exchange Data | Xetra Dax | 13,243.33 | 13,211.23 | 13,195.81 | 13,052.96 | 12,931.45 | 2.4% |
+| Stock Exchange Data | Nikkei | 27,105.20 | 27,345.24 | 27,431.84 | 27,250.28 | 26,974.90 | 0.5% |
+| Stock Exchange Data | Hang Seng | 15,427.94 | 15,427.94 | 15,317.67 | 15,165.59 | 15,180.69 | -5.2% |
+| Stock Exchange Data | DJ US Maritime | 222.49 | 219.63 | 222.33 | 221.60 | 218.71 | -2.2% |
+| Currencies | € / $ | 1.00 | 1.00 | 1.01 | 1.00 | 0.99 | 1.1% |
+| Currencies | £ / $ | 1.16 | 1.16 | 1.16 | 1.15 | 1.13 | 2.7% |
+| Currencies | $ / ¥ | 147.46 | 146.30 | 146.14 | 148.00 | 148.89 | -0.1% |
+| Currencies | $ / NoK | 0.10 | 0.10 | 0.10 | 0.10 | 0.10 | 3.1% |
+| Currencies | Yuan / $ | 7.25 | 7.23 | 7.17 | 7.30 | 7.26 | 0.1% |
+| Currencies | Won / $ | 1,422.00 | 1,421.35 | 1,413.03 | 1,427.27 | 1,444.96 | -0.5% |
+| Currencies | $ INDEX | 110.75 | 110.59 | 109.70 | 110.95 | 111.99 | -1.1% |
+
+## Bunker Prices
+
+| Grade | Port | 28-Oct-22 | 21-Oct-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,060.5 | 1,012.0 | 4.8% |
+| MGO | Houston | 1,178.5 | 1,053.5 | 11.9% |
+| MGO | Singapore | 1,076.5 | 1,045.0 | 3.0% |
+| 380cst | Rotterdam | 397.0 | 375.5 | 5.7% |
+| 380cst | Houston | 462.0 | 450.5 | 2.6% |
+| 380cst | Singapore | 400.5 | 389.0 | 3.0% |
+| VLSFO | Rotterdam | 663.0 | 644.5 | 2.9% |
+| VLSFO | Houston | 674.5 | 651.0 | 3.6% |
+| VLSFO | Singapore | 720.5 | 712.5 | 1.1% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 28-Oct-22 | 21-Oct-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.29 | 15.08 | -5.2% |
+| COSTAMARE INC | NYSE | USD | 9.27 | 9.47 | -2.1% |
+| DANAOS CORPORATION | NYSE | USD | 57.61 | 58.60 | -1.7% |
+| DIANA SHIPPING | NYSE | USD | 4.30 | 4.17 | 3.1% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 48.83 | 49.82 | -2.0% |
+| EUROSEAS LTD. | NASDAQ | USD | 18.70 | 21.84 | -14.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.30 | 1.31 | -0.8% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.91 | 1.96 | -2.6% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 25.24 | 25.95 | -2.7% |
+| SAFE BULKERS INC | NYSE | USD | 2.65 | 2.70 | -1.9% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.46 | 0.49 | -6.1% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 17.67 | 19.25 | -8.2% |
+| STEALTHGAS INC | NASDAQ | USD | 3.08 | 3.07 | 0.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.11 | 17.92 | -4.5% |
+
+## Market News
+
+“Shareholder returns support stock prices as flurry of earnings due
+
+As a slew of owners prepare to report third-quarter results this week, shipping stocks are being supported by the sector’s focus on shareholder returns.
+
+Share buybacks and higher dividends have been much in evidence of late as companies bank healthy earnings from generally buoyant markets.
+
+Clarksons Securities said: “Despite persistent economic uncertainty, we believe the case for shipping remains compelling.
+
+“We anticipate that the sector’s broad focus on shareholder returns will be a clear support for shipping equities,” analysts Frode Morkedal and Even Kolsgaard said.
+
+They cited shipyard capacity constraints, the energy crisis, rerouting of the global trade map and new carbon regulations as underpinning much of the industry in the coming years.
+
+At least 12 shipowners are due to reveal financial results this week.
+
+Scorpio Tankers will set the...(TradeWinds)

@@ -237,3 +237,72 @@ Most scrapping destinations were affected by the Eid celebrations and the market
 | MSC FEDERICA | 60,350 | 23,740 | 1990 | ODENSE LINDO, Denmark | CONTAINER | $ 510/Ldt | Indian | HKC recycling |
 | JI YOU | 45,296 | 7,548 | 1994 | SHIN KURUSHIMA, Japan | BC | $ 510/Ldt | undisclosed | as is China |
 | JIN CHENG SHAN | 16,270 | 5,000 | 1973 | WESER SEEBECKWERFT, Germany | GENERAL CARGO | undisclosed | Bangladeshi |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 30-Jun-23 | 29-Jun-23 | 28-Jun-23 | 27-Jun-23 | 26-Jun-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.860 | 3.747 | 3.735 | 3.714 | 3.702 | 3.2% |
+| Stock Exchange Data | S&P 500 | 4,450.38 | 4,396.44 | 4,376.86 | 4,378.41 | 3,990.97 | 2.3% |
+| Stock Exchange Data | Nasdaq | 13,787.92 | 13,591.33 | 13,591.75 | 13,555.67 | 13,335.78 | 2.2% |
+| Stock Exchange Data | Dow Jones | 34,407.60 | 34,122.42 | 33,852.66 | 33,926.74 | 33,714.71 | 2.0% |
+| Stock Exchange Data | FTSE 100 | 7,531.53 | 7,471.69 | 7,500.49 | 7,461.46 | 7,453.58 | 0.9% |
+| Stock Exchange Data | FTSE All-Share UK | 4,096.26 | 4,064.45 | 4,082.27 | 4,052.97 | 4,046.84 | 1.1% |
+| Stock Exchange Data | CAC40 | 7,400.06 | 7,312.73 | 7,286.32 | 7,215.58 | 7,184.35 | 3.3% |
+| Stock Exchange Data | Xetra Dax | 16,147.90 | 15,946.72 | 15,949.00 | 15,846.86 | 15,813.06 | 2.1% |
+| Stock Exchange Data | Nikkei | 33,189.04 | 33,234.14 | 33,193.99 | 32,538.33 | 32,698.81 | 1.5% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 18,934.36 | 19,172.05 | 19,148.13 | 18,794.13 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 247.80 | 247.80 | 246.42 | 246.42 | 243.56 | 2.9% |
+| Currencies | € / $ | 1.09 | 1.09 | 1.09 | 1.10 | 1.09 | -0.1% |
+| Currencies | £ / $ | 1.26 | 1.26 | 1.26 | 1.27 | 1.27 | -0.6% |
+| Currencies | $ / ¥ | 144.31 | 144.79 | 144.38 | 143.88 | 143.46 | 0.4% |
+| Currencies | $ / NoK | 0.0925 | 0.0926 | 0.0929 | 0.0926 | 0.0931 | 0.1% |
+| Currencies | Yuan / $ | 7.25 | 7.25 | 7.24 | 7.22 | 7.24 | 1.0% |
+| Currencies | Won / $ | 1,316.30 | 1,323.40 | 1,309.34 | 1,298.02 | 1,303.66 | 0.6% |
+| Currencies | $ INDEX | 102.91 | 103.34 | 102.90 | 102.49 | 102.69 | 0.0% |
+
+## Bunker Prices
+
+| Grade | Port | 30-Jun-23 | 23-Jun-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 30-Jun-23 | 23-Jun-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.81 | 13.86 | -0.4% |
+| COSTAMARE INC | NYSE | USD | 9.67 | 9.32 | 3.8% |
+| DANAOS CORPORATION | NYSE | USD | 66.79 | 66.39 | 0.6% |
+| DIANA SHIPPING | NYSE | USD | 3.69 | 3.76 | -1.9% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 48.04 | 48.37 | -0.7% |
+| EUROSEAS LTD. | NASDAQ | USD | 21.69 | 21.58 | 0.5% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 0.90 | 0.95 | -5.3% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.64 | 1.69 | -3.0% |
+| SAFE BULKERS INC | NYSE | USD | 3.26 | 3.25 | 0.3% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 0.99 | 1.02 | -2.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 17.70 | 18.03 | -1.8% |
+| STEALTHGAS INC | NASDAQ | USD | 4.26 | 3.84 | 10.9% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.82 | 17.56 | 1.5% |
+
+## Macro-economic headlines
+
+• US: The core Personal Consumption Expenditures (PCE) price index fell to 4.6% (-0.1%) y-o-y in May, signalling deflation but still far from the 2% target. New home sales rose 12.2% m-o-m in May to 763K.
+
+• EU: Inflation fell by 0.6% to 5.5% in June, while core inflation (excluding energy and food) rose by 0.1% to 5.4%.
+
+• China: The manufacturing PMI for June was 49, still in contraction territory, while the non-manufacturing PMI was 53.2, down from 54.5 but still in expansion territory.
+
+• Japan: The Tokyo Core CPI, a proxy for nationwide inflation, rose 3.2% y/y in June, while industrial production fell -1.6% in May.

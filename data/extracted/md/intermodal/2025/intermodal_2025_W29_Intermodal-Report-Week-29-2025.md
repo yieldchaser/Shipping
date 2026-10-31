@@ -255,3 +255,77 @@ Turkey's ship recycling market remains sluggish with limited activity. A dull lo
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | GREEN EGERSUND | 6,120 | 2,990 | 1990 | KLEVEN LOLAND, Norway | REEFER | $440/Ldt | Indian |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 18-Jul-25 | 17-Jul-25 | 16-Jul-25 | 15-Jul-25 | 14-Jul-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.431 | 4.463 | 4.455 | 4.489 | 4.427 | 0.2% |
+| Stock Exchange Data | S&P 500 | 6,296.79 | 6,297.36 | 6,263.70 | 6,243.76 | 6,268.56 | 0.6% |
+| Stock Exchange Data | Nasdaq | 23,065.47 | 23,081.05 | 22,907.97 | 22,884.59 | 22,855.63 | 1.3% |
+| Stock Exchange Data | Dow Jones | 44,342.19 | 44,484.49 | 44,254.78 | 44,023.29 | 44,459.65 | -0.1% |
+| Stock Exchange Data | FTSE 100 | 8,992.12 | 8,972.64 | 8,926.55 | 8,938.32 | 8,998.06 | 0.6% |
+| Stock Exchange Data | FTSE All-Share UK | 4,889.48 | 4,876.74 | 4,850.40 | 4,858.53 | 4,887.57 | 0.7% |
+| Stock Exchange Data | CAC40 | 7,822.67 | 7,822.00 | 7,722.09 | 7,766.21 | 7,808.17 | -0.1% |
+| Stock Exchange Data | Xetra Dax | 24,289.51 | 24,370.93 | 24,009.38 | 24,060.29 | 24,160.64 | 0.1% |
+| Stock Exchange Data | Nikkei | 39,819.11 | 39,901.19 | 39,663.40 | 39,678.02 | 39,459.62 | 0.6% |
+| Stock Exchange Data | Hang Seng | 24,825.66 | 24,498.95 | 24,517.76 | 24,590.12 | 24,203.32 | 2.8% |
+| Stock Exchange Data | DJ US Maritime | 380.25 | 379.99 | 372.83 | 377.98 | 384.65 | -1.0% |
+| Currencies | € / $ | 1.16 | 1.16 | 1.16 | 1.16 | 1.17 | -0.5% |
+| Currencies | £ / $ | 1.34 | 1.34 | 1.34 | 1.34 | 1.34 | -0.7% |
+| Currencies | $ / ¥ | 148.81 | 148.60 | 147.86 | 148.86 | 147.70 | 1.0% |
+| Currencies | $ / NoK | 10.16 | 10.29 | 10.23 | 10.25 | 10.13 | 0.6% |
+| Currencies | Yuan / $ | 7.18 | 7.18 | 7.18 | 7.17 | 7.17 | 0.1% |
+| Currencies | Won / $ | 1,390.81 | 1,391.54 | 1,386.65 | 1,386.11 | 1,382.30 | 0.9% |
+| Currencies | $ INDEX | 98.48 | 98.73 | 98.39 | 98.62 | 98.08 | 0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 18-Jul-25 | 11-Jul-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 741.0 | 707.0 | 4.8% |
+| MGO | Houston | 715.0 | 698.0 | 2.4% |
+| MGO | Singapore | 693.0 | 670.0 | 3.4% |
+| 380cst | Rotterdam | 449.0 | 448.0 | 0.2% |
+| 380cst | Houston | 445.0 | 436.0 | 2.1% |
+| 380cst | Singapore | 415.0 | 411.0 | 1.0% |
+| VLSFO | Rotterdam | 507.0 | 509.0 | -0.4% |
+| VLSFO | Houston | 490.0 | 491.0 | -0.2% |
+| VLSFO | Singapore | 516.0 | 520.0 | -0.8% |
+
+## Oil Prices
+
+| Category | Indicator | 18-Jul-25 | 11-Jul-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 69.3 | 70.4 | -1.5% |
+| OIL | WTI | 67.3 | 68.5 | -1.6% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 18-Jul-25 | 11-Jul-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 23.93 | 24.23 | -1.2% |
+| COSTAMARE INC | NYSE | USD | 9.60 | 9.48 | 1.3% |
+| DANAOS CORPORATION | NYSE | USD | 89.89 | 90.02 | -0.1% |
+| DIANA SHIPPING | NYSE | USD | 1.60 | 1.62 | -1.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 49.42 | 49.11 | 0.6% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.13 | 1.15 | -1.7% |
+| SAFE BULKERS INC | NYSE | USD | 4.12 | 4.11 | 0.2% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 6.80 | 6.88 | -1.2% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.56 | 18.52 | 0.2% |
+| STEALTHGAS INC | NASDAQ | USD | 6.52 | 6.76 | -3.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 19.05 | 20.76 | -8.2% |
+
+## Macro-economic headlines
+
+In July, the People’s Bank of China held the benchmark Loan Prime Rate (LPR) and the 5-year LPR at the low levels of 3% and 3.5% respectively in July, for the third consecutive month, aligning with market forecasts. This decision reflects ongoing concerns over stalled economic growth weighed down by US tariffs, subdued domestic consumption and a persistent downturn in the property sector.
+
+In Eurozone, the CPI rose marginally by 0.3% m-o-m in June, matching market projections and following a flat reading (0%) in May.
+
+In USA the PPI remained unchanged in June, falling short of market estimations for a 0.2% m-o-m increase. This follows a modest 0.1% rise in May.
+
+Japan recorded a trade surplus of ¥153.1 billion in June, marking a sharp turnaround from May’s ¥637.6 billion deficit but well below market expectations of a ¥353.9 billion surplus.

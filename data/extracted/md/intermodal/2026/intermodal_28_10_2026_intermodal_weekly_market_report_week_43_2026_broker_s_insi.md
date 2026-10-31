@@ -262,3 +262,73 @@ Aliaga remained unchanged. Local steel prices corrected modestly with mills bein
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | LIAN YI DA 2 HAO | 24,132 | 5,560 | 1998 | SAIKI, Japan | BC | $512/Ldt | Bangladeshi |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 23-Oct-26 | 22-Oct-26 | 21-Oct-26 | 20-Oct-26 | 19-Oct-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.988 | 4.953 | 5.146 | 5.117 | 5.136 | -2.2% |
+| Stock Exchange Data | S&P 500 | 7,623.68 | 7,663.43 | 7,757.17 | 7,712.57 | 7,690.73 | -0.5% |
+| Stock Exchange Data | Nasdaq | 28,957.53 | 28,958.69 | 29,822.52 | 29,490.28 | 29,529.35 | -0.8% |
+| Stock Exchange Data | Dow Jones | 52,215.16 | 52,867.98 | 52,856.09 | 52,495.88 | 51,966.03 | 0.4% |
+| Stock Exchange Data | FTSE 100 | 10,690.36 | 10,725.03 | 10,752.88 | 10,733.00 | 10,764.69 | -1.8% |
+| Stock Exchange Data | FTSE All-Share UK | 5,760.23 | 5,776.13 | 5,795.87 | 5,784.22 | 5,799.96 | -1.7% |
+| Stock Exchange Data | CAC40 | 7,782.82 | 7,811.26 | 7,921.68 | 7,838.49 | 7,868.05 | -2.2% |
+| Stock Exchange Data | Xetra Dax | 25,181.65 | 25,371.75 | 25,645.04 | 25,304.42 | 25,319.77 | -1.7% |
+| Stock Exchange Data | Nikkei | 62,693.16 | 62,907.84 | 64,621.24 | 64,075.42 | 64,916.70 | -4.0% |
+| Stock Exchange Data | Hang Seng | 23,093.37 | 22,934.68 | 23,651.87 | 23,867.74 | 24,186.83 | -4.5% |
+| Stock Exchange Data | DJ US Maritime | 437.07 | 431.65 | 450.49 | 447.11 | 447.64 | -2.4% |
+| Currencies | € / $ | 1.12 | 1.12 | 1.12 | 1.12 | 1.12 | -0.3% |
+| Currencies | £ / $ | 1.34 | 1.34 | 1.34 | 1.34 | 1.33 | 0.3% |
+| Currencies | $ / ¥ | 156.86 | 156.76 | 158.13 | 158.16 | 158.48 | -0.7% |
+| Currencies | $ / NoK | 9.32 | 9.33 | 9.36 | 9.40 | 9.41 | -1.0% |
+| Currencies | Yuan / $ | 6.67 | 6.67 | 6.68 | 6.68 | 6.68 | -0.2% |
+| Currencies | Won / $ | 1,323.60 | 1,325.21 | 1,326.71 | 1,326.10 | 1,332.12 | -0.8% |
+| Currencies | $ INDEX | 101.81 | 101.61 | 101.78 | 101.70 | 101.98 | 0.0% |
+
+## Bunker Prices
+
+| Grade | Port | 23-Oct-26 | 16-Oct-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,426.8 | 1,372.8 | 3.9% |
+| MGO | Houston | 1,421.5 | 1,410.0 | 0.8% |
+| MGO | Singapore | 1,334.3 | 1,265.0 | 5.5% |
+| 380cst | Rotterdam | 702.3 | 672.8 | 4.4% |
+| 380cst | Houston | 613.5 | 602.3 | 1.9% |
+| 380cst | Singapore | 873.0 | 877.0 | -0.5% |
+| VLSFO | Rotterdam | 763.5 | 749.8 | 1.8% |
+| VLSFO | Houston | 814.0 | 772.8 | 5.3% |
+| VLSFO | Singapore | 958.3 | 919.3 | 4.2% |
+
+## Oil Prices
+
+| Category | Indicator | 23-Oct-26 | 16-Oct-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 116.7 | 109.9 | 6.2% |
+| OIL | WTI | 103.3 | 101.4 | 1.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 23-Oct-26 | 16-Oct-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 20.27 | 20.41 | -0.7% |
+| COSTAMARE INC | NYSE | USD | 14.02 | 13.97 | 0.4% |
+| DANAOS CORPORATION | NYSE | USD | 158.34 | 158.17 | 0.1% |
+| DIANA SHIPPING | NYSE | USD | 2.53 | 2.50 | 1.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 66.66 | 66.17 | 0.7% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.98 | 3.10 | -3.9% |
+| SAFE BULKERS INC | NYSE | USD | 8.09 | 7.83 | 3.3% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 15.79 | 15.28 | 3.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 28.98 | 27.79 | 4.3% |
+| STEALTHGAS INC | NASDAQ | USD | 8.26 | 8.57 | -3.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 53.48 | 51.18 | 4.5% |
+
+## Macro-economic headlines
+
+▪ In China, GDP expanded by 4.5% y-o-y in Q3 2026, marginally above market expectations of 4.4% and the 4.3% growth recorded in Q2. ▪ In Germany, the Ifo Business Climate Index reached 90.2 in October, slightly exceeding market expectations of 90 and September’s reading of 89.9.
+
+▪ In the UK, CPI inflation accelerated to 3.5% y-o-y in September, surpassing market forecasts of 3.4% and August’s 3.1%. ▪ In Japan, the Leading Index increased by 0.4% m-o-m in August, in line with market forecasts but below the 1.5% rise registered in July.

@@ -245,3 +245,77 @@ In Turkey, the market remained flat. Despite a steady flow of recycling candidat
 | USD/INR | 91.08 | 90.73 | 0.38% | 91.98 |
 | USD/PKR | 279.38 | 279.55 | -0.06% | 280.05 |
 | USD/TRY | 43.93 | 43.82 | 0.24% | 43.82 |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 27-Feb-26 | 26-Feb-26 | 25-Feb-26 | 24-Feb-26 | 23-Feb-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.962 | 4.017 | 4.048 | 4.033 | 4.027 | -3.0% |
+| Stock Exchange Data | S&P 500 | 6,878.88 | 6,908.86 | 6,946.13 | 6,890.07 | 6,837.75 | -0.4% |
+| Stock Exchange Data | Nasdaq | 24,960.04 | 25,034.37 | 25,329.04 | 24,977.04 | 24,708.94 | -0.2% |
+| Stock Exchange Data | Dow Jones | 48,977.92 | 49,499.20 | 49,482.15 | 49,174.50 | 48,804.06 | -1.3% |
+| Stock Exchange Data | FTSE 100 | 10,910.55 | 10,846.70 | 10,806.41 | 10,680.59 | 10,684.74 | 2.1% |
+| Stock Exchange Data | FTSE All-Share UK | 5,851.48 | 5,820.14 | 5,798.74 | 5,735.21 | 5,738.48 | 1.8% |
+| Stock Exchange Data | CAC40 | 8,580.75 | 8,620.93 | 8,559.07 | 8,519.21 | 8,497.17 | 0.8% |
+| Stock Exchange Data | Xetra Dax | 25,284.26 | 25,289.02 | 25,175.94 | 24,986.25 | 24,991.97 | 0.1% |
+| Stock Exchange Data | Nikkei | 58,850.27 | 58,753.39 | 58,583.12 | 57,321.09 | 56,703.00 | 3.6% |
+| Stock Exchange Data | Hang Seng | 26,630.54 | 26,381.02 | 26,765.72 | 26,590.32 | 27,081.91 | 0.8% |
+| Stock Exchange Data | DJ US Maritime | 426.07 | 425.61 | 427.12 | 427.71 | 421.67 | -0.9% |
+| Currencies | € / $ | 1.18 | 1.18 | 1.18 | 1.18 | 1.18 | 0.3% |
+| Currencies | £ / $ | 1.35 | 1.35 | 1.36 | 1.35 | 1.35 | 0.0% |
+| Currencies | $ / ¥ | 156.06 | 156.13 | 156.36 | 155.89 | 154.64 | 0.6% |
+| Currencies | $ / NoK | 9.51 | 9.55 | 9.54 | 9.57 | 9.57 | -0.2% |
+| Currencies | Yuan / $ | 6.86 | 6.84 | 6.87 | 6.88 | 6.91 | -0.7% |
+| Currencies | Won / $ | 1,439.80 | 1,432.14 | 1,426.69 | 1,441.42 | 2,444.20 | -0.4% |
+| Currencies | $ INDEX | 104.70 | 104.84 | 104.90 | 104.94 | 104.94 | -0.7% |
+
+## Bunker Prices
+
+| Grade | Port | 27-Feb-26 | 20-Feb-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 720.0 | 713.5 | 0.9% |
+| MGO | Houston | 710.0 | 695.0 | 2.2% |
+| MGO | Singapore | 709.5 | 712.0 | -0.4% |
+| 380cst | Rotterdam | 438.0 | 422.0 | 3.8% |
+| 380cst | Houston | 389.0 | 380.5 | 2.2% |
+| 380cst | Singapore | 436.5 | 452.0 | -3.4% |
+| VLSFO | Rotterdam | 489.5 | 473.0 | 3.5% |
+| VLSFO | Houston | 494.5 | 490.5 | 0.8% |
+| VLSFO | Singapore | 521.5 | 516.0 | 1.1% |
+
+## Oil Prices
+
+| Category | Indicator | 27-Feb-26 | 20-Feb-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 72.5 | 70.8 | 2.4% |
+| OIL | WTI | 67.0 | 65.2 | 2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 27-Feb-26 | 20-Feb-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 22.71 | 23.09 | -1.6% |
+| COSTAMARE INC | NYSE | USD | 17.57 | 17.19 | 2.2% |
+| DANAOS CORPORATION | NYSE | USD | 117.95 | 109.98 | 7.2% |
+| DIANA SHIPPING | NYSE | USD | 2.58 | 2.58 | 0.0% |
+| EUROSEAS LTD. | NASDAQ | USD | 68.74 | 60.88 | 12.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.14 | 1.93 | 10.9% |
+| SAFE BULKERS INC | NYSE | USD | 6.56 | 6.15 | 6.7% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 14.35 | 13.81 | 3.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 26.29 | 25.24 | 4.2% |
+| STEALTHGAS INC | NASDAQ | USD | 8.95 | 8.32 | 7.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 35.30 | 31.15 | 13.3% |
+
+## Macro-economic headlines
+
+In China, the PBoC held its benchmark lending rates steady in February for the ninth consecutive month, in line with market expectations. The 1-year LPR remained at 3.0%, while the 5-year LPR, the benchmark for mortgage rates, stayed at 3.5%.
+
+In Germany, GDP expanded 0.4% y-o-y in Q4 2025, matching market expectations and slightly above Q3 2025’s 0.3% growth.
+
+In the United States, PPI rose 2.9% y-o-y in January, surpassing market estimates of 2.6% and just below December’s 3.0% reading.
+
+In Japan, the Manufacturing PMI came in at 53 in February, exceeding both the market forecast of 52 and January’s 51.5.

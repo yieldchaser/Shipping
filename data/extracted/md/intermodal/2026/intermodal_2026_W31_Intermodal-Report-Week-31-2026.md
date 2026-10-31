@@ -247,3 +247,77 @@ At Aliaga it was a quiet week with little change in demand or sentiment, amid a 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | STOLT KIKYO | 11,545 | 3,305 | 1998 | FUKUOKA, Japan | TANKER | $455/Ldt | Indian |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 31-Jul-26 | 30-Jul-26 | 29-Jul-26 | 28-Jul-26 | 27-Jul-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.745 | 4.663 | 4.622 | 4.604 | 4.641 | 1.4% |
+| Stock Exchange Data | S&P 500 | 7,489.72 | 7,437.63 | 7,316.15 | 7,428.78 | 7,413.18 | 1.0% |
+| Stock Exchange Data | Nasdaq | 28,274.20 | 28,106.35 | 27,192.31 | 27,763.13 | 28,039.21 | 0.5% |
+| Stock Exchange Data | Dow Jones | 52,485.03 | 52,208.06 | 51,594.14 | 52,747.32 | 52,210.08 | 1.0% |
+| Stock Exchange Data | FTSE 100 | 10,868.05 | 10,897.27 | 10,908.41 | 10,871.02 | 10,781.75 | 1.2% |
+| Stock Exchange Data | FTSE All-Share UK | 5,836.47 | 5,853.32 | 5,856.59 | 5,839.12 | 5,793.94 | 1.2% |
+| Stock Exchange Data | CAC40 | 8,509.64 | 8,485.64 | 8,408.27 | 8,458.78 | 8,406.06 | 1.6% |
+| Stock Exchange Data | Xetra Dax | 25,629.24 | 25,612.03 | 25,460.48 | 25,464.01 | 25,361.03 | 2.1% |
+| Stock Exchange Data | Nikkei | 64,362.02 | 61,867.43 | 61,434.19 | 62,364.92 | 64,931.19 | -0.4% |
+| Stock Exchange Data | Hang Seng | 25,884.43 | 25,858.88 | 25,807.92 | 25,310.85 | 25,207.18 | 3.7% |
+| Stock Exchange Data | DJ US Maritime | 430.47 | 434.41 | 430.24 | 477.25 | 476.23 | -11.8% |
+| Currencies | € / $ | 1.15 | 1.15 | 1.15 | 1.14 | 1.14 | 1.4% |
+| Currencies | £ / $ | 1.35 | 1.35 | 1.34 | 1.33 | 1.33 | 1.2% |
+| Currencies | $ / ¥ | 157.57 | 159.51 | 163.38 | 163.82 | 163.74 | -3.8% |
+| Currencies | $ / NoK | 9.47 | 9.52 | 9.59 | 9.68 | 9.66 | -1.1% |
+| Currencies | Yuan / $ | 6.75 | 6.76 | 6.77 | 6.77 | 6.77 | -0.3% |
+| Currencies | Won / $ | 1,442.09 | 1,423.12 | 1,442.09 | 1,452.69 | 1,464.62 | -1.2% |
+| Currencies | $ INDEX | 99.91 | 99.86 | 100.89 | 101.42 | 101.54 | -1.5% |
+
+## Bunker Prices
+
+| Grade | Port | 31-Jul-26 | 24-Jul-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,278.3 | 1,243.0 | 2.8% |
+| MGO | Houston | 1,240.8 | 1,223.0 | 1.5% |
+| MGO | Singapore | 1,229.5 | 1,258.8 | -2.3% |
+| 380cst | Rotterdam | 542.3 | 567.3 | -4.4% |
+| 380cst | Houston | 500.0 | 515.5 | -3.0% |
+| 380cst | Singapore | 584.3 | 623.0 | -6.2% |
+| VLSFO | Rotterdam | 692.0 | 702.3 | -1.5% |
+| VLSFO | Houston | 729.0 | 762.0 | -4.3% |
+| VLSFO | Singapore | 825.3 | 845.3 | -2.4% |
+
+## Oil Prices
+
+| Category | Indicator | 31-Jul-26 | 24-Jul-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 90.1 | 96.8 | -6.9% |
+| OIL | WTI | 84.7 | 89.3 | -5.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 31-Jul-26 | 24-Jul-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 22.28 | 23.35 | -4.6% |
+| COSTAMARE INC | NYSE | USD | 15.58 | 15.72 | -0.9% |
+| DANAOS CORPORATION | NYSE | USD | 141.63 | 140.22 | 1.0% |
+| DIANA SHIPPING | NYSE | USD | 2.43 | 2.25 | 8.0% |
+| EUROSEAS LTD. | NASDAQ | USD | 78.94 | 76.99 | 2.5% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.87 | 3.01 | -4.7% |
+| SAFE BULKERS INC | NYSE | USD | 7.81 | 7.67 | 1.8% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 17.49 | 16.18 | 8.1% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 28.75 | 28.14 | 2.2% |
+| STEALTHGAS INC | NASDAQ | USD | 8.92 | 8.83 | 1.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 40.12 | 39.40 | 1.8% |
+
+## Macro-economic headlines
+
+In China, the Manufacturing PMI fell back into contraction territory, declining to 49.2 in July from 50.3 in June, missing market expectations of 50.1.
+
+In Japan, Tokyo Core CPI rose by 1.9% y-o-y in July, broadly in line with forecasts of 1.8% and above June's 1.6%.
+
+In Germany, Manufacturing PMI remained unchanged in expansion territory at 52.2 in July, aligning market expectations.
+
+In the United States, the trade deficit narrowed to $73.3bn in June from $77.6bn in May, broadly in line with market estimations of $73bn. Both imports and exports declined, with imports falling 1.8% m-o-m, driven by lower goods purchases, while exports decreased by a more modest 0.9% m-o-m, reflecting weaker shipments of energy commodities and industrial equipment.

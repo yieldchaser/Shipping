@@ -230,3 +230,77 @@ The Turkish market remains muted, characterized by minimal activity and prevaili
 | USD/INR | 87.51 | 87.49 | 0.0% | 87.63 |
 | USD/PKR | 283.72 | 283.80 | 0.0% | 284.95 |
 | USD/TRY | 40.80 | 40.65 | 0.4% | 40.80 |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 15-Aug-25 | 14-Aug-25 | 13-Aug-25 | 12-Aug-25 | 11-Aug-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.328 | 4.293 | 4.240 | 4.293 | 4.273 | 1.1% |
+| Stock Exchange Data | S&P 500 | 6,449.80 | 6,468.54 | 6,466.58 | 6,445.76 | 6,373.45 | 0.9% |
+| Stock Exchange Data | Nasdaq | 23,712.07 | 23,832.44 | 23,849.04 | 23,839.20 | 23,526.63 | 0.4% |
+| Stock Exchange Data | Dow Jones | 44,946.12 | 44,911.26 | 44,922.27 | 44,458.61 | 43,975.09 | 1.7% |
+| Stock Exchange Data | FTSE 100 | 9,138.90 | 9,177.24 | 9,165.23 | 9,147.81 | 9,129.71 | 0.5% |
+| Stock Exchange Data | FTSE All-Share UK | 4,954.22 | 4,973.43 | 4,969.19 | 4,960.59 | 4,953.10 | 0.3% |
+| Stock Exchange Data | CAC40 | 7,923.45 | 7,870.34 | 7,804.97 | 7,753.42 | 7,698.52 | 2.3% |
+| Stock Exchange Data | Xetra Dax | 24,359.30 | 24,377.50 | 24,185.59 | 24,024.78 | 24,081.34 | 0.8% |
+| Stock Exchange Data | Nikkei | 43,378.31 | 42,649.26 | 43,274.67 | 42,718.17 | 42,217.00 | 3.7% |
+| Stock Exchange Data | Hang Seng | 25,270.07 | 25,519.32 | 25,613.67 | 24,969.68 | 24,906.81 | 1.7% |
+| Stock Exchange Data | DJ US Maritime | 316.76 | 321.43 | 326.61 | 325.43 | 319.55 | -3.1% |
+| Currencies | € / $ | 1.17 | 1.16 | 1.17 | 1.17 | 1.16 | 0.5% |
+| Currencies | £ / $ | 1.36 | 1.35 | 1.36 | 1.35 | 1.34 | 0.8% |
+| Currencies | $ / ¥ | 147.18 | 147.76 | 147.38 | 147.83 | 148.14 | -0.4% |
+| Currencies | $ / NoK | 10.18 | 10.22 | 10.19 | 10.21 | 10.22 | -0.8% |
+| Currencies | Yuan / $ | 7.18 | 7.18 | 7.17 | 7.18 | 7.19 | 0.0% |
+| Currencies | Won / $ | 1,388.66 | 1,388.64 | 1,379.64 | 1,384.02 | 1,390.61 | 0.0% |
+| Currencies | $ INDEX | 97.85 | 98.25 | 97.84 | 98.10 | 98.52 | -0.3% |
+
+## Bunker Prices
+
+| Grade | Port | 15-Aug-25 | 8-Aug-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 641.0 | 659.0 | -2.7% |
+| MGO | Houston | 654.0 | 659.0 | -0.8% |
+| MGO | Singapore | 631.0 | 648.0 | -2.6% |
+| 380cst | Rotterdam | 412.0 | 426.0 | -3.3% |
+| 380cst | Houston | 430.0 | 435.0 | -1.1% |
+| 380cst | Singapore | 403.0 | 419.0 | -3.8% |
+| VLSFO | Rotterdam | 464.0 | 467.0 | -0.6% |
+| VLSFO | Houston | 479.0 | 483.0 | -0.8% |
+| VLSFO | Singapore | 494.0 | 507.0 | -2.6% |
+
+## Oil Prices
+
+| Category | Indicator | 15-Aug-25 | 8-Aug-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 65.9 | 66.6 | -1.1% |
+| OIL | WTI | 62.8 | 63.9 | -1.7% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 15-Aug-25 | 08-Aug-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 21.37 | 23.79 | -10.2% |
+| COSTAMARE INC | NYSE | USD | 11.11 | 10.66 | 4.2% |
+| DANAOS CORPORATION | NYSE | USD | 92.58 | 94.63 | -2.2% |
+| DIANA SHIPPING | NYSE | USD | 1.55 | 1.56 | -0.6% |
+| EUROSEAS LTD. | NASDAQ | USD | 59.75 | 49.93 | 19.7% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.01 | 1.00 | 1.0% |
+| SAFE BULKERS INC | NYSE | USD | 4.25 | 4.19 | 1.4% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 7.29 | 7.43 | -1.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.66 | 18.84 | -1.0% |
+| STEALTHGAS INC | NASDAQ | USD | 6.86 | 6.67 | 2.8% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 20.43 | 20.27 | 0.8% |
+
+## Macro-economic headlines
+
+In China the Trade Surplus narrowed to $98.24 bn in July, down from $114.77bn in June and below market forecasts of$105bn. Meanwhile, the CPI rose 0.4% m-o-m in July, exceeding market projections of 0.3% and reversing the previous month’s marginal decline of 0.1%.
+
+In USA the CPI increased by 0.2% m-o-m in July, in line with market expectations and slightly lower than June’s 0.3% gain.
+
+In UK, GDP grew by 0.4% m-o-m in June, beating market forecasts of 0.2% and reversing May’s 0.1% contraction.
+
+In Germany the CPI rose 0.3% m-o-m in July, matching market estimates and following a flat reading in June.

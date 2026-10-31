@@ -230,3 +230,70 @@ The demolition market remains subdued, with few transactions completed this week
 | XIN HAI HUI | 14,900 | 4,361 | 1989 | SHIN KURUSHIMA, Japan | CONTAINER | $ 625/Ldt | Bangladeshi |  |
 | YUN RUN 8 | 6,116 | 3,056 | 1990 | DIEPEN SCHEEPSWERNEN, Netherlands | REEFER | $ 475/Ldt | undisclosed | "as is" China |
 | TAUROGAS | 3,566 | 1,923 | 1993 | YVC YSSELWERF, Netherlands | GAS TANKER | $ 404/Ldt | Turkish |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 19-May-23 | 18-May-23 | 17-May-23 | 16-May-23 | 15-May-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.692 | 3.648 | 3.581 | 3.549 | 3.508 | 6.6% |
+| Stock Exchange Data | S&P 500 | 4,191.98 | 4,198.05 | 4,158.77 | 4,109.90 | 3,990.97 | 1.6% |
+| Stock Exchange Data | Nasdaq | 12,657.90 | 12,688.84 | 12,500.57 | 12,343.05 | 12,365.21 | 3.0% |
+| Stock Exchange Data | Dow Jones | 33,426.63 | 33,535.91 | 33,420.77 | 33,012.14 | 33,348.60 | 0.4% |
+| Stock Exchange Data | FTSE 100 | 7,756.87 | 7,742.30 | 7,723.23 | 7,751.08 | 7,777.70 | 0.0% |
+| Stock Exchange Data | FTSE All-Share UK | 4,228.25 | 4,221.45 | 4,210.17 | 4,224.76 | 4,236.96 | 0.1% |
+| Stock Exchange Data | CAC40 | 7,491.96 | 7,446.89 | 7,399.44 | 7,406.01 | 7,418.21 | 1.0% |
+| Stock Exchange Data | Xetra Dax | 16,275.38 | 16,163.36 | 15,951.30 | 15,897.93 | 15,917.24 | 2.3% |
+| Stock Exchange Data | Nikkei | 30,808.35 | 30,573.93 | 30,093.59 | 29,842.99 | 29,626.34 | 4.0% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 19,727.25 | 19,560.57 | 19,978.25 | 19,971.13 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 235.62 | 233.49 | 233.49 | 233.49 | 232.60 | 2.5% |
+| Currencies | € / $ | 1.08 | 1.08 | 1.08 | 1.09 | 1.09 | -1.1% |
+| Currencies | £ / $ | 1.24 | 1.24 | 1.25 | 1.25 | 1.25 | 0.0% |
+| Currencies | $ / ¥ | 137.97 | 138.63 | 137.62 | 136.43 | 136.05 | 1.6% |
+| Currencies | $ / NoK | 0.0919 | 0.0916 | 0.0928 | 0.0933 | 0.0944 | -0.7% |
+| Currencies | Yuan / $ | 7.01 | 7.04 | 7.00 | 6.98 | 6.95 | 0.7% |
+| Currencies | Won / $ | 1,325.21 | 1,335.09 | 1,334.90 | 1,342.80 | 1,335.75 | -1.3% |
+| Currencies | $ INDEX | 103.20 | 103.58 | 102.88 | 102.56 | 102.43 | 0.5% |
+
+## Bunker Prices
+
+| Grade | Port | 19-May-23 | 12-May-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 19-May-23 | 12-May-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.38 | 12.53 | 6.8% |
+| COSTAMARE INC | NYSE | USD | 8.51 | 8.33 | 2.2% |
+| DANAOS CORPORATION | NYSE | USD | 61.67 | 56.58 | 9.0% |
+| DIANA SHIPPING | NYSE | USD | 3.71 | 3.64 | 1.9% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 42.63 | 42.30 | 0.8% |
+| EUROSEAS LTD. | NASDAQ | USD | 20.58 | 18.63 | 10.5% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 0.94 | 0.93 | 1.1% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.71 | 1.76 | -2.8% |
+| SAFE BULKERS INC | NYSE | USD | 3.57 | 3.53 | 1.1% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 4.88 | 4.82 | 1.2% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.90 | 18.64 | 1.4% |
+| STEALTHGAS INC | NASDAQ | USD | 2.86 | 2.75 | 4.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.78 | 17.03 | 4.4% |
+
+## Macro-economic headlines
+
+• In China, retail sales rose 8.46% YTD in April, up from 5.76% in March. Industrial production came in at 5.6% YTD, well below the 10.9% forecast but up from the previous reading of 3.9%.
+
+• In the US, despite the lack of a debt ceiling deal, there is positive bipartisan sentiment that the issue will be resolved, sending the S&P500 to highs last seen in August 2020 (4165). US Core Retail Sales rose 0.4% in April, better than the 0.8% contraction in March.
+
+• In the Eurozone Industrial Production fell -4.1% m/m (-1.4% y/y) in March, indicating a recession, while Q1 GDP growth was just 0.1% q/q (1.3% y/y). Most recently, headline inflation was 7.0% y/y and core inflation was 5.6% y/y in April. Energy inflation is close to zero, while food inflation stands at 13.5%.

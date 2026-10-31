@@ -230,3 +230,75 @@ In Pakistan the focus for Gadani recyclers is on aligning yards with the HKC reg
 | USD/INR | 87.47 | 86.57 | 1.0% | 87.63 |
 | USD/PKR | 279.50 | 279.25 | 0.1% | 279.50 |
 | USD/TRY | 36.39 | 36.38 | 0.0% | 36.39 |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 28-Feb-25 | 27-Feb-25 | 26-Feb-25 | 25-Feb-25 | 24-Feb-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.229 | 4.287 | 4.249 | 4.298 | 4.393 | -4.3% |
+| Stock Exchange Data | S&P 500 | 5,954.50 | 5,861.57 | 5,956.06 | 5,955.25 | 5,983.25 | -1.0% |
+| Stock Exchange Data | Nasdaq | 20,884.41 | 20,550.95 | 21,132.92 | 21,087.25 | 21,352.08 | -3.4% |
+| Stock Exchange Data | Dow Jones | 43,840.91 | 43,239.50 | 43,433.12 | 43,621.16 | 43,641.21 | 1.0% |
+| Stock Exchange Data | FTSE 100 | 8,809.74 | 8,756.21 | 8,731.46 | 8,668.67 | 8,658.98 | 1.7% |
+| Stock Exchange Data | FTSE All-Share UK | 4,754.32 | 4,732.43 | 4,726.18 | 4,692.51 | 4,689.40 | 1.3% |
+| Stock Exchange Data | CAC40 | 8,111.63 | 8,102.52 | 8,143.92 | 8,051.07 | 8,090.99 | -0.5% |
+| Stock Exchange Data | Xetra Dax | 22,551.43 | 22,550.89 | 22,794.11 | 22,410.27 | 22,425.93 | 1.2% |
+| Stock Exchange Data | Nikkei | 37,155.50 | 38,256.17 | 38,142.37 | 38,237.79 | 38,776.94 | -4.2% |
+| Stock Exchange Data | Hang Seng | 22,941.32 | 23,718.29 | 23,787.93 | 23,034.02 | 23,341.61 | -2.3% |
+| Stock Exchange Data | DJ US Maritime | 342.11 | 335.90 | 335.18 | 331.01 | 331.21 | 1.3% |
+| Currencies | € / $ | 1.04 | 1.04 | 1.05 | 1.05 | 1.05 | -0.8% |
+| Currencies | £ / $ | 1.26 | 1.26 | 1.27 | 1.27 | 1.26 | -0.4% |
+| Currencies | $ / ¥ | 150.60 | 149.80 | 149.08 | 149.02 | 149.71 | 0.9% |
+| Currencies | $ / NoK | 11.22 | 11.24 | 11.13 | 11.10 | 11.11 | 1.0% |
+| Currencies | Yuan / $ | 7.28 | 7.29 | 7.26 | 7.25 | 7.25 | 0.5% |
+| Currencies | Won / $ | 1,461.28 | 1,450.48 | 1,433.20 | 1,433.00 | 1,428.64 | 2.0% |
+| Currencies | $ INDEX | 107.61 | 107.24 | 106.42 | 106.31 | 106.60 | 0.9% |
+
+## Bunker Prices
+
+| Grade | Port | 28-Feb-25 | 21-Feb-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 644.0 | 675.0 | -4.6% |
+| MGO | Houston | 697.0 | 725.0 | -3.9% |
+| MGO | Singapore | 651.0 | 682.0 | -4.5% |
+| 380cst | Rotterdam | 449.0 | 474.0 | -5.3% |
+| 380cst | Houston | 459.0 | 454.0 | 1.1% |
+| 380cst | Singapore | 485.0 | 501.0 | -3.2% |
+| VLSFO | Rotterdam | 506.0 | 531.0 | -4.7% |
+| VLSFO | Houston | 536.0 | 551.0 | -2.7% |
+| VLSFO | Singapore | 529.0 | 567.0 | -6.7% |
+
+## Oil Prices
+
+| Category | Indicator | 28-Feb-25 | 21-Feb-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 73.2 | 74.4 | -1.7% |
+| OIL | WTI | 69.8 | 70.4 | -0.9% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 28-Feb-25 | 21-Feb-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.49 | 18.12 | 2.0% |
+| COSTAMARE INC | NYSE | USD | 10.18 | 10.47 | -2.8% |
+| DANAOS CORPORATION | NYSE | USD | 78.62 | 84.72 | -7.2% |
+| DIANA SHIPPING | NYSE | USD | 1.86 | 1.82 | 2.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 35.40 | 33.83 | 4.6% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.30 | 1.33 | -2.6% |
+| SAFE BULKERS INC | NYSE | USD | 3.74 | 3.73 | 0.3% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 6.90 | 7.01 | -1.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 15.63 | 15.35 | 1.8% |
+| STEALTHGAS INC | NASDAQ | USD | 5.67 | 5.98 | -5.2% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 15.90 | 16.83 | -5.5% |
+
+## Macro-economic headlines
+
+In Eurozone, the Industrial Sentiment Index retreated by 11.4 points in February, following 12.9 points decline in January, marking 24th consecutive decline. Moreover, the Private Sector Loans increased by 1.3% in January, slightly above market forecasts (1.2%) and December’s print (1.1%).
+
+In Germany, the CPI Index declined by 0.2% in January, in line with market expectations, reversing the 0.5% rise recorded in December.
+
+In India, for Q3 2024 the Quarterly GDP grew by 6.2% YoY, marginally missing market expectations of 6.3%. The expansion of GDP in Q3 of 2023, read 8.4%.

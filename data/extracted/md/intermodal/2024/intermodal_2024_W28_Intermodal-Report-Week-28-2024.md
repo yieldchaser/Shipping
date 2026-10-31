@@ -239,3 +239,77 @@ The demolition market experienced another slow week, influenced by high freight 
 | USD/INR | 83.36 | 83.56 | -0.2% | 83.58 |
 | USD/PKR | 278.25 | 278.25 | 0.0% | 282.38 |
 | USD/TRY | 33.02 | 32.64 | 1.2% | 33.02 |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 12-Jul-24 | 11-Jul-24 | 10-Jul-24 | 9-Jul-24 | 8-Jul-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.187 | 4.193 | 4.280 | 4.300 | 4.269 | -2.0% |
+| Stock Exchange Data | S&P 500 | 5,615.35 | mrkt closed | 5,633.91 | 5,576.98 | 5,572.85 | 0.9% |
+| Stock Exchange Data | Nasdaq | 20,331.49 | mrkt closed | 20,675.38 | 20,453.02 | 20,439.54 | -0.3% |
+| Stock Exchange Data | Dow Jones | 40,000.90 | 39,753.75 | 39,721.36 | 39,291.97 | 39,344.79 | 1.6% |
+| Stock Exchange Data | FTSE 100 | 8,252.91 | 8,223.34 | 8,193.51 | 8,139.81 | 8,193.49 | 0.6% |
+| Stock Exchange Data | FTSE All-Share UK | 4,522.75 | 4,508.55 | 4,486.21 | 4,452.61 | 4,481.83 | 0.8% |
+| Stock Exchange Data | CAC40 | 7,724.32 | 7,627.13 | 7,573.55 | 7,508.66 | 7,627.45 | 0.6% |
+| Stock Exchange Data | Xetra Dax | 18,748.18 | 18,534.56 | 18,407.22 | 18,236.19 | 18,472.05 | 1.5% |
+| Stock Exchange Data | Nikkei | 41,190.68 | 42,224.02 | 41,831.99 | 41,580.17 | 40,780.70 | 0.7% |
+| Stock Exchange Data | Hang Seng | 18,293.38 | 17,832.33 | 17,471.67 | 17,523.23 | 17,524.06 | 2.8% |
+| Stock Exchange Data | DJ US Maritime | 397.45 | 398.76 | 392.07 | 389.37 | 395.12 | 0.8% |
+| Currencies | € / $ | 1.09 | 1.09 | 1.08 | 1.08 | 1.08 | 0.6% |
+| Currencies | £ / $ | 1.30 | 1.29 | 1.28 | 1.28 | 1.28 | 1.4% |
+| Currencies | $ / ¥ | 157.89 | 158.80 | 161.67 | 161.31 | 160.81 | -1.8% |
+| Currencies | $ / NoK | 10.73 | 10.71 | 10.70 | 10.54 | 10.59 | 1.6% |
+| Currencies | Yuan / $ | 7.25 | 7.26 | 7.28 | 7.27 | 7.27 | -0.2% |
+| Currencies | Won / $ | 1,373.67 | 1,370.96 | 1,382.81 | 1,382.92 | 1,383.27 | -0.2% |
+| Currencies | $ INDEX | 104.09 | 104.44 | 105.05 | 105.13 | 105.00 | -0.7% |
+
+## Bunker Prices
+
+| Grade | Port | 12-Jul-24 | 5-Jul-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 740.0 | 760.0 | -2.6% |
+| MGO | Houston | 600.0 | 608.0 | -1.3% |
+| MGO | Singapore | 740.0 | 764.0 | -3.1% |
+| 380cst | Rotterdam | 528.0 | 524.0 | 0.8% |
+| 380cst | Houston | 510.0 | 497.0 | 2.6% |
+| 380cst | Singapore | 530.0 | 537.0 | -1.3% |
+| VLSFO | Rotterdam | 571.0 | 589.0 | -3.1% |
+| VLSFO | Houston | 600.0 | 608.0 | -1.3% |
+| VLSFO | Singapore | 626.0 | 642.0 | -2.5% |
+
+## Oil Prices
+
+| Category | Indicator | 12-Jul-24 | 5-Jul-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 85.0 | 86.5 | -1.7% |
+| OIL | WTI | 82.2 | 83.2 | -1.1% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 12-Jul-24 | 05-Jul-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 16.43 | 16.78 | -2.1% |
+| COSTAMARE INC | NYSE | USD | 15.18 | 16.13 | -5.9% |
+| DANAOS CORPORATION | NYSE | USD | 87.25 | 89.68 | -2.7% |
+| DIANA SHIPPING | NYSE | USD | 2.81 | 2.88 | -2.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 39.15 | 40.20 | -2.6% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.75 | 1.88 | -6.9% |
+| SAFE BULKERS INC | NYSE | USD | 5.62 | 5.86 | -4.1% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 9.84 | 10.62 | -7.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 24.13 | 24.21 | -0.3% |
+| STEALTHGAS INC | NASDAQ | USD | 6.71 | 7.33 | -8.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 26.72 | 28.23 | -5.3% |
+
+## Macro-economic headlines
+
+• In the eurozone area, the May industrial production decreased by –0.6% m-o-m.
+
+• In US, the June CPI rose to 3.0% y-o-y, yet declined by –0.1% m-o-m.
+
+• In Germany, the June CPI increased by 0.1% m-o-m.
+
+• In China, the GDP for the second quarter increased by 4.7% y-o-y.

@@ -236,3 +236,77 @@ The Bangladesh market likewise paused for the holidays, with recycling prices re
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MOSHTARAKA 2 | 94,274 | 14,348 | 1995 | MITSUBISHI, Japan | BC | $ 540/Ldt | undisclosed | as is Khor Fakkan, incl 450 tons bunkers |
 | TROPICAL SKY | 11,935 | 5,358 | 1986 | KOREA SHBLDG, S. Korea | REEFER | $ 545/Ldt | Indian |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 21-Jun-24 | 20-Jun-24 | 19-Jun-24 | 18-Jun-24 | 17-Jun-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.257 | 4.254 | 4.217 | 4.217 | 4.279 | 1.0% |
+| Stock Exchange Data | S&P 500 | 5,464.62 | 5,473.17 | 5,487.03 | 5,487.03 | 5,473.23 | 0.6% |
+| Stock Exchange Data | Nasdaq | 19,700.43 | 19,752.30 | 19,908.86 | 19,908.86 | 19,902.75 | 0.2% |
+| Stock Exchange Data | Dow Jones | 39,150.33 | 39,134.76 | 38,834.86 | 38,834.86 | 38,778.10 | 1.5% |
+| Stock Exchange Data | FTSE 100 | 8,237.72 | 8,272.46 | 8,205.11 | 8,191.29 | 8,142.15 | 1.1% |
+| Stock Exchange Data | FTSE All-Share UK | 4,490.92 | 4,508.44 | 4,473.37 | 4,467.95 | 4,437.53 | 1.2% |
+| Stock Exchange Data | CAC40 | 7,628.57 | 7,671.34 | 7,570.20 | 7,628.80 | 7,571.57 | 1.7% |
+| Stock Exchange Data | Xetra Dax | 18,163.52 | 18,254.18 | 18,067.91 | 18,131.97 | 18,068.21 | 0.9% |
+| Stock Exchange Data | Nikkei | 38,596.47 | 38,633.02 | 38,570.76 | 38,482.11 | 38,102.44 | -0.6% |
+| Stock Exchange Data | Hang Seng | 18,028.52 | 18,335.32 | 18,430.39 | 17,915.55 | 17,936.12 | 0.5% |
+| Stock Exchange Data | DJ US Maritime | 386.68 | 388.72 | 389.28 | 389.28 | 389.64 | 1.5% |
+| Currencies | € / $ | 1.07 | 1.07 | 1.07 | 1.07 | 1.07 | -0.1% |
+| Currencies | £ / $ | 1.26 | 1.27 | 1.27 | 1.27 | 1.27 | -0.3% |
+| Currencies | $ / ¥ | 159.79 | 158.90 | 158.08 | 157.85 | 157.71 | 1.5% |
+| Currencies | $ / NoK | 10.56 | 10.55 | 10.56 | 10.57 | 10.66 | -1.0% |
+| Currencies | Yuan / $ | 7.26 | 7.26 | 7.26 | 7.25 | 7.26 | 0.1% |
+| Currencies | Won / $ | 1,387.01 | 1,391.93 | 1,380.97 | 1,378.64 | 1,378.46 | 0.4% |
+| Currencies | $ INDEX | 105.80 | 105.59 | 105.25 | 105.26 | 105.32 | 0.2% |
+
+## Bunker Prices
+
+| Grade | Port | 21-Jun-24 | 14-Jun-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 766.0 | 763.0 | 0.4% |
+| MGO | Houston | 588.0 | 579.0 | 1.6% |
+| MGO | Singapore | 741.0 | 726.0 | 2.1% |
+| 380cst | Rotterdam | 511.0 | 496.0 | 3.0% |
+| 380cst | Houston | 489.0 | 480.0 | 1.9% |
+| 380cst | Singapore | 523.0 | 510.0 | 2.5% |
+| VLSFO | Rotterdam | 576.0 | 546.0 | 5.5% |
+| VLSFO | Houston | 588.0 | 579.0 | 1.6% |
+| VLSFO | Singapore | 610.0 | 595.0 | 2.5% |
+
+## Oil Prices
+
+| Category | Indicator | 21-Jun-24 | 14-Jun-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 85.2 | 82.6 | 3.2% |
+| OIL | WTI | 80.7 | 78.5 | 2.9% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 21-Jun-24 | 14-Jun-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 17.29 | 17.16 | 0.8% |
+| COSTAMARE INC | NYSE | USD | 16.85 | 15.00 | 12.3% |
+| DANAOS CORPORATION | NYSE | USD | 92.05 | 90.26 | 2.0% |
+| DIANA SHIPPING | NYSE | USD | 2.83 | 2.85 | -0.7% |
+| EUROSEAS LTD. | NASDAQ | USD | 35.97 | 35.41 | 1.6% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.94 | 1.97 | -1.5% |
+| SAFE BULKERS INC | NYSE | USD | 5.79 | 5.73 | 1.0% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 10.58 | 10.50 | 0.8% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 24.10 | 23.77 | 1.4% |
+| STEALTHGAS INC | NASDAQ | USD | 7.39 | 7.47 | -1.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 28.38 | 28.59 | -0.7% |
+
+## Macro-economic headlines
+
+• In the euro area, the June HCOB Manufacturing PMI declined to 45.6 from 47.3 in May.
+
+• In US, the June S&P Global Services PMI rose to 55.1 up from 54.8 in May.
+
+• In UK, May CPI increase by 0.3% m-o-m.
+
+• In China, Chinese loan prime 5Y rate remained unchanged in June at 3.95%.

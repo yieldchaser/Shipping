@@ -336,3 +336,85 @@ Not much has changed in the demolition front which continues to see a scarcity o
 | NIIGATA | 4,977 | 2,085 | 1980 | USUKI, Japan | TANKER | $ 600/Ldt | Bangladeshi |  |
 
 © Intermodal Research 11/01/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 7-Jan-22 | 6-Jan-22 | 5-Jan-22 | 4-Jan-22 | 3-Jan-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.771 | 1.733 | 1.705 | 1.668 | 1.628 | 17.1% |
+| Stock Exchange Data | S&P 500 | 4,677.03 | 4,696.05 | 4,700.58 | 4,793.54 | 4,766.18 | -1.9% |
+| Stock Exchange Data | Nasdaq | 14,935.90 | 15,080.87 | 15,100.17 | 15,622.72 | 15,832.80 | -4.5% |
+| Stock Exchange Data | Dow Jones | 36,231.66 | 36,236.47 | 36,407.11 | 36,799.65 | 36,585.06 | -0.3% |
+| Stock Exchange Data | FTSE 100 | 7,485.28 | 7,485.28 | 7,450.37 | 7,516.87 | 7,505.15 | -0.4% |
+| Stock Exchange Data | FTSE All-Share UK | 4,249.43 | 4,249.43 | 4,235.63 | 4,277.51 | 4,276.18 | -0.7% |
+| Stock Exchange Data | CAC40 | 7,219.48 | 7,249.66 | 7,376.37 | 7,317.41 | 7,217.22 | 0.9% |
+| Stock Exchange Data | Xetra Dax | 15,947.74 | 16,052.03 | 16,271.75 | 16,152.61 | 16,020.73 | -0.5% |
+| Stock Exchange Data | Nikkei | 28,478.56 | 28,478.56 | 28,487.87 | 29,332.16 | 29,301.79 | -2.8% |
+| Stock Exchange Data | Hang Seng | 23,072.86 | 23,072.86 | 22,907.25 | 23,289.84 | 23,274.75 | -1.4% |
+| Stock Exchange Data | DJ US Maritime | 208.97 | 209.03 | 205.29 | 199.97 | 196.56 | 7.1% |
+| Currencies | € / $ | 1.14 | 1.13 | 1.13 | 1.13 | 1.13 | -0.1% |
+| Currencies | £ / $ | 1.36 | 1.35 | 1.36 | 1.35 | 1.35 | 0.5% |
+| Currencies | $ / ¥ | 115.62 | 115.86 | 116.12 | 116.16 | 115.33 | 0.4% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.11 | 0.11 | 0.11 | -0.2% |
+| Currencies | Yuan / $ | 6.38 | 6.38 | 6.36 | 6.36 | 6.36 | 0.3% |
+| Currencies | Won / $ | 1,197.66 | 1,205.91 | 1,200.25 | 1,197.50 | 1,195.68 | 0.7% |
+| Currencies | $ INDEX | 95.72 | 96.32 | 96.17 | 96.26 | 96.21 | -0.3% |
+
+## Bunker Prices
+
+| Grade | Port | 7-Jan-22 | 31-Dec-21 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 697.0 | 682.0 | 2.2% |
+| MGO | Houston | 729.5 | 724.5 | 0.7% |
+| MGO | Singapore | 704.5 | 679.0 | 3.8% |
+| 380cst | Rotterdam | 458.0 | 447.0 | 2.5% |
+| 380cst | Houston | 486.5 | 448.0 | 8.6% |
+| 380cst | Singapore | 469.0 | 461.5 | 1.6% |
+| VLSFO | Rotterdam | 580.5 | 570.5 | 1.8% |
+| VLSFO | Houston | 592.0 | 587.0 | 0.9% |
+| VLSFO | Singapore | 640.5 | 648.5 | -1.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 07-Jan-22 | 31-Dec-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.98 | 16.11 | -0.8% |
+| COSTAMARE INC | NYSE | USD | 12.65 | 12.65 | 0.0% |
+| DANAOS CORPORATION | NYSE | USD | 70.06 | 74.65 | -6.1% |
+| DIANA SHIPPING | NYSE | USD | 4.11 | 3.89 | 5.7% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 45.25 | 45.50 | -0.5% |
+| EUROSEAS LTD. | NASDAQ | USD | 25.79 | 24.91 | 3.5% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.14 | 2.10 | 1.9% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 3.70 | 3.69 | 0.3% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 25.06 | 25.09 | -0.1% |
+| SAFE BULKERS INC | NYSE | USD | 3.72 | 3.77 | -1.3% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.94 | 0.92 | 2.2% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 22.57 | 22.67 | -0.4% |
+| STEALTHGAS INC | NASDAQ | USD | 2.22 | 2.11 | 5.2% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 8.17 | 7.24 | 12.8% |
+
+## Market News
+
+“Vroon family loses control as banks take over in $1bn debt deal
+
+Future of tanker and offshore vessel owner secured through second refinancing in three years
+
+Private Dutch shipowner Vroon has been taken over by its lenders as part of a second refinancing in three years.
+
+The owner of about 100 tankers and offshore vessels said a deal has been reached with its banks to swap borrowings for equity.
+
+The founding Vroon family will lose majority control of the company as a result.
+
+The restructuring deal was reached to "secure financial flexibility to deliver on future growth and profitability," the shipowner said.
+
+"For several years Vroon has been in discussions with its lenders to resolve its over-indebtedness," the company added.
+
+Debt will be cut from almost €1bn ($1.1m) to €350m.
+
+Offshore ships 'warehoused'
+
+About 35 offshore vessels controlled through Vroon Offshore Services (VOS) are being transferred to a "warehouse" company set up...”(TradeWinds)

@@ -233,3 +233,78 @@ The demolition market is currently navigating through a period of caution, influ
 | PETROLEO NAUTIPA | 141,330 | 18,139 | 1975 | NKK CORP, Japan | OFFSHORE | 455 | undisclosed | as is Oman |
 | TORO BIANCO | 69,045 | 10,377 | 1995 | SUMITOMO, Japan | BC | 532 | Pakistani |  |
 | HE SHENG | 12,895 | 4,866 | 2002 | CONSTANTA, Romania | CONTAINER | 552 | Bangladeshi |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 29-Mar-24 | 28-Mar-24 | 27-Mar-24 | 26-Mar-24 | 25-Mar-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.194 | 4.194 | 4.196 | 4.234 | 4.253 | -0.6% |
+| Stock Exchange Data | S&P 500 | 5,254.35 | 5,254.35 | 5,248.49 | 5,203.58 | 5,218.19 | 0.4% |
+| Stock Exchange Data | Nasdaq | 18,254.69 | 18,254.69 | 18,280.84 | 18,210.54 | 18,277.06 | -0.5% |
+| Stock Exchange Data | Dow Jones | 39,807.18 | 39,807.18 | 39,760.41 | 39,282.59 | 39,313.77 | 0.8% |
+| Stock Exchange Data | FTSE 100 | 7,952.62 | 7,952.62 | 7,931.98 | 7,930.96 | 7,917.57 | 0.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,338.05 | 4,338.05 | 4,325.93 | 4,324.29 | 4,312.78 | 0.4% |
+| Stock Exchange Data | CAC40 | 8,205.81 | 8,205.81 | 8,204.81 | 8,184.75 | 8,151.60 | 0.7% |
+| Stock Exchange Data | Xetra Dax | 18,492.49 | 18,492.49 | 18,477.09 | 18,384.35 | 18,261.31 | 1.6% |
+| Stock Exchange Data | Nikkei | 40,369.44 | 40,168.07 | 40,762.73 | 40,398.03 | 40,414.12 | -1.3% |
+| Stock Exchange Data | Hang Seng | 16,541.42 | 16,541.42 | 37,703.32 | 16,618.32 | 16,473.64 | 0.3% |
+| Stock Exchange Data | DJ US Maritime | 312.89 | 312.89 | 311.94 | 312.20 | 303.54 | 2.6% |
+| Currencies | € / $ | 1.08 | 1.08 | 1.08 | 1.08 | 1.08 | -0.1% |
+| Currencies | £ / $ | 1.26 | 1.26 | 1.26 | 1.26 | 1.26 | 0.2% |
+| Currencies | $ / ¥ | 151.31 | 151.37 | 151.32 | 151.55 | 151.41 | -0.1% |
+| Currencies | $ / NoK | 10.82 | 10.85 | 10.77 | 10.75 | 10.70 | 0.7% |
+| Currencies | Yuan / $ | 7.22 | 7.23 | 7.23 | 7.22 | 7.21 | -0.1% |
+| Currencies | Won / $ | 1,345.09 | 1,349.48 | 1,349.82 | 1,342.89 | 1,338.84 | 0.1% |
+| Currencies | $ INDEX | 104.55 | 104.55 | 104.35 | 104.29 | 104.24 | 0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 29-Mar-24 | 22-Mar-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 761.0 | 777.0 | -2.1% |
+| MGO | Houston | 470.0 | 492.0 | -4.5% |
+| MGO | Singapore | 774.0 | 780.0 | -0.8% |
+| 380cst | Rotterdam | 481.0 | 478.0 | 0.6% |
+| 380cst | Houston | 470.0 | 492.0 | -4.5% |
+| 380cst | Singapore | 490.0 | 486.0 | 0.8% |
+| VLSFO | Rotterdam | 594.0 | 591.0 | 0.5% |
+| VLSFO | Houston | 641.0 | 641.0 | 0.0% |
+| VLSFO | Singapore | 645.0 | 639.0 | 0.9% |
+
+## Oil Prices
+
+| Category | Indicator | 29-Mar-24 | 22-Mar-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 87.5 | 85.4 | 2.4% |
+| OIL | WTI | 83.2 | 80.6 | 3.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 29-Mar-24 | 22-Mar-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 17.40 | 17.71 | -1.8% |
+| COSTAMARE INC | NYSE | USD | 11.35 | 11.16 | 1.7% |
+| DANAOS CORPORATION | NYSE | USD | 72.20 | 71.55 | 0.9% |
+| DIANA SHIPPING | NYSE | USD | 2.89 | 2.94 | -1.7% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 62.47 | 64.54 | -3.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 35.85 | 34.82 | 3.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.20 | 2.19 | 0.5% |
+| SAFE BULKERS INC | NYSE | USD | 4.96 | 5.12 | -3.1% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 8.70 | 9.33 | -6.8% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 23.87 | 24.67 | -3.2% |
+| STEALTHGAS INC | NASDAQ | USD | 5.94 | 5.85 | 1.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 25.39 | 25.73 | -1.3% |
+
+## Macro-economic headlines
+
+• In the euro area, German retail sales fell by 1.9% in February, while the unemployment rate remained unchanged at 5.9% in March.
+
+• In US, GDP rose by 3.4% quarter-on-quarter in Q3, while the Chicago PMI fell to 41.4 in March from 44 in February. Durable goods orders increased by 1.4% in February.
+
+• In UK, GDP contracted by 0.3% quarter on quarter in Q4 2023, while it also fell by 0.2% year on year.
+
+• In China, the composite PMI stood at 52.7 in March, up from 50.9 in the previous month. The manufacturing PMI was 50.8, while the non-manufacturing PMI was 53.

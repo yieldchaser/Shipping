@@ -250,3 +250,77 @@ In Turkey the market appears supply-constrained rather than demand-led, with sta
 | USD/INR | 94.25 | 92.60 | **1.78%** | 94.78 |
 | USD/PKR | 278.95 | 278.95 | 0.00% | 280.05 |
 | USD/TRY | 45.00 | 44.85 | **0.32%** | 45.00 |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 24-Apr-26 | 23-Apr-26 | 22-Apr-26 | 21-Apr-26 | 20-Apr-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.310 | 4.323 | 4.294 | 4.292 | 4.250 | 1.6% |
+| Stock Exchange Data | S&P 500 | 7,165.08 | 7,108.40 | 7,137.90 | 7,064.01 | 7,109.14 | 0.5% |
+| Stock Exchange Data | Nasdaq | 27,303.67 | 26,782.63 | 26,937.28 | 26,479.47 | 26,590.34 | 2.4% |
+| Stock Exchange Data | Dow Jones | 49,230.71 | 49,310.32 | 49,490.03 | 49,149.38 | 49,442.56 | -0.4% |
+| Stock Exchange Data | FTSE 100 | 10,379.08 | 10,457.01 | 10,476.46 | 10,498.09 | 10,609.08 | -2.7% |
+| Stock Exchange Data | FTSE All-Share UK | 5,565.82 | 5,607.72 | 5,622.86 | 5,633.04 | 5,685.06 | -2.7% |
+| Stock Exchange Data | CAC40 | 8,157.82 | 8,227.32 | 8,156.43 | 8,235.72 | 8,331.05 | -3.2% |
+| Stock Exchange Data | Xetra Dax | 24,128.98 | 24,155.45 | 24,194.90 | 24,270.87 | 24,417.80 | -2.3% |
+| Stock Exchange Data | Nikkei | 59,716.18 | 59,140.23 | 59,585.86 | 59,349.17 | 58,824.89 | 2.1% |
+| Stock Exchange Data | Hang Seng | 25,978.07 | 25,915.20 | 26,163.24 | 26,487.48 | 26,361.07 | -0.7% |
+| Stock Exchange Data | DJ US Maritime | 494.35 | 495.17 | 486.73 | 471.73 | 468.94 | 6.0% |
+| Currencies | € / $ | 1.17 | 1.17 | 1.17 | 1.17 | 1.18 | -0.4% |
+| Currencies | £ / $ | 1.35 | 1.35 | 1.35 | 1.35 | 1.35 | 0.1% |
+| Currencies | $ / ¥ | 159.37 | 159.71 | 159.48 | 159.37 | 158.79 | 0.5% |
+| Currencies | $ / NoK | 9.29 | 9.33 | 9.30 | 9.31 | 9.31 | -0.8% |
+| Currencies | Yuan / $ | 6.84 | 6.83 | 6.83 | 6.82 | 6.82 | 0.3% |
+| Currencies | Won / $ | 1,476.34 | 1,481.28 | 1,478.33 | 1,483.35 | 1,471.88 | 0.7% |
+| Currencies | $ INDEX | 98.53 | 98.77 | 98.59 | 98.39 | 98.10 | 0.4% |
+
+## Bunker Prices
+
+| Grade | Port | 24-Apr-26 | 17-Apr-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,284.0 | 1,177.5 | 9.0% |
+| MGO | Houston | 1,195.8 | 1,022.3 | 17.0% |
+| MGO | Singapore | 1,328.8 | 1,253.0 | 6.0% |
+| 380cst | Rotterdam | 636.3 | 601.8 | 5.7% |
+| 380cst | Houston | 634.8 | 562.0 | 12.9% |
+| 380cst | Singapore | 669.5 | 653.8 | 2.4% |
+| VLSFO | Rotterdam | 718.8 | 637.5 | 12.7% |
+| VLSFO | Houston | 840.8 | 766.0 | 9.8% |
+| VLSFO | Singapore | 748.3 | 714.8 | 4.7% |
+
+## Oil Prices
+
+| Category | Indicator | 24-Apr-26 | 17-Apr-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 105.3 | 90.4 | 16.5% |
+| OIL | WTI | 94.4 | 83.9 | 12.6% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 24-Apr-26 | 17-Apr-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 19.81 | 20.50 | -3.4% |
+| COSTAMARE INC | NYSE | USD | 16.50 | 17.47 | -5.6% |
+| DANAOS CORPORATION | NYSE | USD | 117.38 | 117.80 | -0.4% |
+| DIANA SHIPPING | NYSE | USD | 2.44 | 2.57 | -5.1% |
+| EUROSEAS LTD. | NASDAQ | USD | 68.03 | 72.18 | -5.7% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.12 | 2.07 | 2.4% |
+| SAFE BULKERS INC | NYSE | USD | 6.52 | 6.64 | -1.8% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 13.99 | 14.69 | -4.8% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 24.23 | 24.45 | -0.9% |
+| STEALTHGAS INC | NASDAQ | USD | 9.37 | 9.34 | 0.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 39.27 | 39.40 | -0.3% |
+
+## Macro-economic headlines
+
+In China, the PBoC held its benchmark lending rates steady in February for the eleventh consecutive month, in line with market expectations. The 1-year LPR remained at 3.0%, while the 5-year LPR, the benchmark for mortgage rates, stayed at 3.5%.
+
+In United Kingdom, CPI read 3.3% y-o-y in March, aligning with market forecasts and higher than February’s 3%.
+
+In Japan the Leading Index rose by 1.3% m-o-m in February, exceeding market estimates of 0.3% but below January’s pace of 1.7%.
+
+In India industrial production increased by 4.1% y-o-y in March, beating forecasts of 3.7% but easing from February’s 5.2%.

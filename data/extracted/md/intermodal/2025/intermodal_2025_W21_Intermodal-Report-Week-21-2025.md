@@ -253,3 +253,77 @@ In Turkey, the market witnessed action from one notable deal: the recycling sale
 | HYUNDAI AQUAPIA | 77,564 | 34,040 | 2000 | HYUNDAI, S. Korea | GAS TANKER | $567/Ldt | Indian | as is Korea |
 | HL SUR | 75,159 | 23,761 | 2000 | HANJIN, S. Korea | GAS TANKER | $ 490/Ldt | undisclosed | as is Korea |
 | HL RAS LAFFAN | 75,079 | 23,761 | 2000 | HANJIN, S. Korea | GAS TANKER | $ 490/Ldt | undisclosed | as is Korea |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 23-May-25 | 22-May-25 | 21-May-25 | 20-May-25 | 19-May-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.511 | 4.553 | 4.597 | 4.481 | 4.475 | 1.6% |
+| Stock Exchange Data | S&P 500 | 5,802.82 | 5,842.01 | 5,844.61 | 5,940.46 | 5,963.60 | -2.6% |
+| Stock Exchange Data | Nasdaq | 20,915.66 | 21,112.47 | 21,080.36 | 21,367.37 | 21,447.05 | -2.4% |
+| Stock Exchange Data | Dow Jones | 41,603.27 | 41,859.09 | 41,860.44 | 42,677.24 | 42,792.07 | -2.5% |
+| Stock Exchange Data | FTSE 100 | 8,717.97 | 8,739.26 | 8,786.46 | 8,781.12 | 8,699.31 | 0.4% |
+| Stock Exchange Data | FTSE All-Share UK | 4,724.01 | 4,736.94 | 4,763.15 | 4,764.63 | 4,722.01 | 0.2% |
+| Stock Exchange Data | CAC40 | 7,734.40 | 7,864.44 | 7,910.49 | 7,942.42 | 7,883.63 | -1.9% |
+| Stock Exchange Data | Xetra Dax | 23,629.58 | 23,999.17 | 24,122.40 | 24,036.11 | 23,934.98 | -0.6% |
+| Stock Exchange Data | Nikkei | 37,160.47 | 36,985.87 | 37,298.98 | 37,529.49 | 37,498.63 | -1.6% |
+| Stock Exchange Data | Hang Seng | 23,601.26 | 23,544.31 | 23,827.78 | 23,681.48 | 23,332.72 | 1.1% |
+| Stock Exchange Data | DJ US Maritime | 352.51 | 351.85 | 354.22 | 361.54 | 361.47 | -2.6% |
+| Currencies | € / $ | 1.14 | 1.13 | 1.13 | 1.13 | 1.12 | 1.8% |
+| Currencies | £ / $ | 1.35 | 1.34 | 1.34 | 1.34 | 1.34 | 2.0% |
+| Currencies | $ / ¥ | 142.54 | 144.01 | 143.67 | 144.50 | 144.85 | -2.1% |
+| Currencies | $ / NoK | 10.08 | 10.19 | 10.12 | 10.25 | 10.26 | -2.7% |
+| Currencies | Yuan / $ | 7.18 | 7.20 | 7.20 | 7.22 | 7.21 | -0.4% |
+| Currencies | Won / $ | 1,364.62 | 1,381.23 | 1,373.83 | 1,393.29 | 1,387.74 | -2.4% |
+| Currencies | $ INDEX | 99.11 | 99.96 | 99.56 | 100.12 | 100.43 | -2.0% |
+
+## Bunker Prices
+
+| Grade | Port | 23-May-25 | 16-May-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 606.0 | 613.0 | -1.1% |
+| MGO | Houston | 601.0 | 627.0 | -4.1% |
+| MGO | Singapore | 590.0 | 607.0 | -2.8% |
+| 380cst | Rotterdam | 424.0 | 418.0 | 1.4% |
+| 380cst | Houston | 402.0 | 394.0 | 2.0% |
+| 380cst | Singapore | 440.0 | 440.0 | 0.0% |
+| VLSFO | Rotterdam | 474.0 | 466.0 | 1.7% |
+| VLSFO | Houston | 450.0 | 450.0 | 0.0% |
+| VLSFO | Singapore | 510.0 | 515.0 | -1.0% |
+
+## Oil Prices
+
+| Category | Indicator | 23-May-25 | 16-May-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 64.8 | 65.4 | -1.0% |
+| OIL | WTI | 61.5 | 62.5 | -1.5% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 23-May-25 | 16-May-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 23.18 | 22.85 | 1.4% |
+| COSTAMARE INC | NYSE | USD | 8.30 | 8.80 | -5.7% |
+| DANAOS CORPORATION | NYSE | USD | 84.65 | 86.57 | -2.2% |
+| DIANA SHIPPING | NYSE | USD | 1.43 | 1.52 | -5.9% |
+| EUROSEAS LTD. | NASDAQ | USD | 37.83 | 38.75 | -2.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.02 | 1.05 | -2.9% |
+| SAFE BULKERS INC | NYSE | USD | 3.66 | 3.75 | -2.4% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 6.02 | 6.14 | -2.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 16.18 | 16.40 | -1.3% |
+| STEALTHGAS INC | NASDAQ | USD | 5.34 | 5.51 | -3.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.93 | 18.46 | -2.9% |
+
+## Macro-economic headlines
+
+In Japan, a trade deficit of ¥115.8 billion was recorded in April, falling short of market expectations for a ¥227.1 billion surplus and reversing the ¥544.1 billion surplus posted in March.
+
+In UK, the CPI rose by 3.5% in April, exceeding market forecasts of 3.3% and March’s reading of 2.6%.
+
+In France, Consumer Confidence Indicator stood at 88 in May, failing to meet market expectations for an improvement to 93 from April’s 92.
+
+In Germany, GDP for Q1 2025 grew by a marginal 0.4% q-o-q, slightly surpassing market estimations of 0.2% and reversing a 0.2% contraction recorded in Q4 2024.

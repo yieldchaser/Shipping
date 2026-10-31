@@ -245,3 +245,77 @@ Aliaga appears to have found steadier footing after the recent price correction,
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PINE ARROW | 48,041 | 12,574 | 1996 | STOCZNIA, Poland | GENERAL CARGO | $438/Ldt | Indian |  |
 | FRIO ANTARCTIC | 9,357 | 5,685 | 1995 | STOCZNIA, Poland | REEFER | $565/Ldt | Indian | including 150t IFO and 37t MGO |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 3-Jul-26 | 2-Jul-26 | 1-Jul-26 | 30-Jun-26 | 29-Jun-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.479 | 4.479 | 4.475 | 4.422 | 4.374 | 2.4% |
+| Stock Exchange Data | S&P 500 | 7,483.24 | 7,483.24 | 7,483.23 | 7,499.36 | 7,440.43 | 1.8% |
+| Stock Exchange Data | Nasdaq | 29,329.21 | 29,329.21 | 29,809.13 | 30,276.35 | 29,774.75 | 0.7% |
+| Stock Exchange Data | Dow Jones | 52,900.07 | 52,900.07 | 52,305.24 | 52,319.20 | 52,182.74 | 2.0% |
+| Stock Exchange Data | FTSE 100 | 10,679.03 | 10,652.87 | 10,478.34 | 10,497.12 | 10,484.22 | 1.6% |
+| Stock Exchange Data | FTSE All-Share UK | 5,735.46 | 5,719.53 | 5,634.42 | 5,635.05 | 5,628.78 | 1.6% |
+| Stock Exchange Data | CAC40 | 8,508.07 | 8,474.86 | 8,337.29 | 8,403.99 | 8,367.33 | 1.5% |
+| Stock Exchange Data | Xetra Dax | 25,779.31 | 25,580.88 | 25,040.28 | 24,995.81 | 24,626.89 | 4.5% |
+| Stock Exchange Data | Nikkei | 69,744.07 | 68,733.15 | 70,474.96 | 70,062.32 | 69,468.11 | 0.6% |
+| Stock Exchange Data | Hang Seng | 23,350.03 | 23,055.03 | 22,881.02 | 22,881.02 | 23,026.68 | 3.0% |
+| Stock Exchange Data | DJ US Maritime | 426.20 | 426.20 | 429.91 | 446.33 | 451.12 | -5.1% |
+| Currencies | € / $ | 1.14 | 1.14 | 1.14 | 1.14 | 1.14 | 0.5% |
+| Currencies | £ / $ | 1.34 | 1.33 | 1.33 | 1.33 | 1.33 | 1.1% |
+| Currencies | $ / ¥ | 161.37 | 161.09 | 162.56 | 162.54 | 161.94 | -0.2% |
+| Currencies | $ / NoK | 9.82 | 9.84 | 9.91 | 9.90 | 9.92 | -0.9% |
+| Currencies | Yuan / $ | 6.78 | 6.79 | 6.79 | 6.79 | 6.79 | -0.3% |
+| Currencies | Won / $ | 1,529.01 | 1,539.93 | 1,550.66 | 1,547.33 | 1,540.79 | -0.4% |
+| Currencies | $ INDEX | 100.86 | 100.86 | 101.39 | 101.19 | 101.11 | -0.5% |
+
+## Bunker Prices
+
+| Grade | Port | 3-Jul-26 | 26-Jun-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 916.5 | 870.3 | 5.3% |
+| MGO | Houston | 940.3 | 903.8 | 4.0% |
+| MGO | Singapore | 903.8 | 885.8 | 2.0% |
+| 380cst | Rotterdam | 444.3 | 455.8 | -2.5% |
+| 380cst | Houston | 420.5 | 491.3 | -14.4% |
+| 380cst | Singapore | 439.3 | 451.8 | -2.8% |
+| VLSFO | Rotterdam | 570.5 | 577.8 | -1.3% |
+| VLSFO | Houston | 565.3 | 585.0 | -3.4% |
+| VLSFO | Singapore | 634.0 | 690.0 | -8.1% |
+
+## Oil Prices
+
+| Category | Indicator | 3-Jul-26 | 26-Jun-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 72.1 | 72.0 | 0.2% |
+| OIL | WTI | 68.7 | 69.2 | -0.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 03-Jul-26 | 26-Jun-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 21.60 | 20.71 | 4.3% |
+| COSTAMARE INC | NYSE | USD | 14.26 | 14.43 | -1.2% |
+| DANAOS CORPORATION | NYSE | USD | 122.32 | 123.02 | -0.6% |
+| DIANA SHIPPING | NYSE | USD | 2.10 | 2.05 | 2.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 66.38 | 66.35 | 0.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 3.09 | 2.87 | 7.7% |
+| SAFE BULKERS INC | NYSE | USD | 6.40 | 6.39 | 0.2% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 13.43 | 14.16 | -5.2% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 25.15 | 24.40 | 3.1% |
+| STEALTHGAS INC | NASDAQ | USD | 8.21 | 8.16 | 0.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 37.37 | 36.72 | 1.8% |
+
+## Macro-economic headlines
+
+In Germany, the Manufacturing PMI stood at 50.3 in June, slightly above both the forecast of 50.0 and May’s reading of 50.1.
+
+In Eurozone, the Producer PPI accelerated in May, rising 5.9% y-o-y from 4.9% in April and surpassing market expectations of 5.7%.
+
+In Australia, a trade deficit of AUD 3.02bn was recorded in May, reversing a AUD 1.38bn surplus in April and missing expectations for a AUD 2.2bn surplus. This marked the country’s second deficit of 2026 and the widest shortfall since 2015, driven by a 6.9% monthly fall in exports and a 2.6% rise in imports.
+
+In Japan, the Manufacturing PMI edged up to 54.8 in June from 54.5 in May, broadly in line with the forecast of 54.9.

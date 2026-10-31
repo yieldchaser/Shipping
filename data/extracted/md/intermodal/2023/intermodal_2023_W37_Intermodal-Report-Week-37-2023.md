@@ -229,3 +229,70 @@ Despite the increased activity in the demolition market, only two of the four ma
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MARITIME RIYAL | 45,363 | 12,246 | 1998 | DALIAN, China | TANKER | undisclosed | Indian | HKC recycling |
 | WHITE PURL | 11,832 | 5,368 | 1972 | Moss Rosenberg, Norway | GAS TANKER | undisclosed | Indian |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 15-Sep-23 | 14-Sep-23 | 13-Sep-23 | 12-Sep-23 | 11-Sep-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.322 | 4.288 | 4.249 | 4.264 | 4.288 | 1.5% |
+| Stock Exchange Data | S&P 500 | 4,450.32 | 4,505.10 | 4,467.44 | 4,461.90 | 4,487.46 | -0.2% |
+| Stock Exchange Data | Nasdaq | 13,708.34 | 13,926.05 | 13,813.59 | 13,773.62 | 13,917.89 | -0.4% |
+| Stock Exchange Data | Dow Jones | 34,618.24 | 34,907.11 | 34,575.53 | 34,645.99 | 34,663.72 | 0.1% |
+| Stock Exchange Data | FTSE 100 | 7,711.38 | 7,673.08 | 7,525.99 | 7,527.53 | 7,496.87 | 3.1% |
+| Stock Exchange Data | FTSE All-Share UK | 4,190.41 | 4,175.91 | 4,097.89 | 4,097.97 | 4,083.23 | 2.9% |
+| Stock Exchange Data | CAC40 | 7,378.82 | 7,308.67 | 7,222.57 | 7,252.88 | 7,278.27 | 1.9% |
+| Stock Exchange Data | Xetra Dax | 15,893.53 | 15,805.29 | 15,654.03 | 15,715.53 | 15,800.99 | 0.6% |
+| Stock Exchange Data | Nikkei | 33,533.09 | 33,168.10 | 32,706.52 | 32,776.37 | 32,467.76 | 3.3% |
+| Stock Exchange Data | Hang Seng | 18,182.00 | 18,047.92 | 18,009.22 | 18,025.89 | 18,096.45 | 0.5% |
+| Stock Exchange Data | DJ US Maritime | 278.98 | 282.92 | 281.61 | 279.41 | 278.46 | 0.9% |
+| Currencies | € / $ | 1.07 | 1.06 | 1.07 | 1.08 | 1.07 | -0.4% |
+| Currencies | £ / $ | 1.24 | 1.24 | 1.25 | 1.25 | 1.25 | -0.6% |
+| Currencies | $ / ¥ | 147.78 | 147.48 | 147.35 | 147.16 | 146.68 | 0.0% |
+| Currencies | $ / NoK | 0.0935 | 0.0930 | 0.0933 | 0.0936 | 0.0939 | -0.2% |
+| Currencies | Yuan / $ | 7.27 | 7.28 | 7.27 | 7.29 | 7.29 | -0.9% |
+| Currencies | Won / $ | 1,329.41 | 1,328.06 | 1,330.77 | 1,326.45 | 1,322.84 | -0.5% |
+| Currencies | $ INDEX | 105.32 | 105.40 | 104.77 | 104.71 | 104.57 | 0.2% |
+
+## Bunker Prices
+
+| Grade | Port | 15-Sep-23 | 8-Sep-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 15-Sep-23 | 08-Sep-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.35 | 14.53 | -1.2% |
+| COSTAMARE INC | NYSE | USD | 9.57 | 9.75 | -1.8% |
+| DANAOS CORPORATION | NYSE | USD | 64.05 | 65.18 | -1.7% |
+| DIANA SHIPPING | NYSE | USD | 3.58 | 3.56 | 0.6% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 41.64 | 43.60 | -4.5% |
+| EUROSEAS LTD. | NASDAQ | USD | 25.50 | 26.91 | -5.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 0.96 | 0.90 | 6.7% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.93 | 1.59 | 21.4% |
+| SAFE BULKERS INC | NYSE | USD | 3.15 | 3.07 | 2.6% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 5.38 | 5.17 | 4.1% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.04 | 17.64 | 2.3% |
+| STEALTHGAS INC | NASDAQ | USD | 4.99 | 4.91 | 1.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 19.10 | 19.91 | -4.1% |
+
+## Macro-economic headlines
+
+• US: Core CPI for August rose by 0.3% since the previous month, while PPI also rose by 0.7% on a monthly basis in August.
+
+• UK: In the UK, plenty of data was out last week. Most Notably, GDP fell by -0.5% in July ion a monthly basis, while Trade Balance for the same month was at -14.06B.
+
+• China: The Industrial Production for August rose by 4.5% on an annual basis while Unemployment Rate stayed mostly flat at 5.2% for the same month.

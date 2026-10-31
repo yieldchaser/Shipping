@@ -242,3 +242,77 @@ Türkiye also showed no shift, with weak sentiment and minimal activity prevaili
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SALOME I | 30,553 | 7,052 | 1996 | SHIN KURUSHIMA, Japan | TANKER | $440/Ldt | undisclosed | as is Singapore |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 22-Aug-25 | 21-Aug-25 | 20-Aug-25 | 19-Aug-25 | 18-Aug-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.258 | 4.332 | 4.296 | 4.302 | 4.339 | -1.6% |
+| Stock Exchange Data | S&P 500 | 6,466.91 | 6,370.17 | 6,395.78 | 6,411.37 | 6,449.15 | 0.3% |
+| Stock Exchange Data | Nasdaq | 23,498.12 | 23,142.58 | 23,249.57 | 23,384.77 | 23,713.76 | -0.9% |
+| Stock Exchange Data | Dow Jones | 45,631.74 | 44,785.20 | 44,938.31 | 44,922.27 | 44,911.82 | 1.5% |
+| Stock Exchange Data | FTSE 100 | 9,321.40 | 9,309.20 | 9,288.14 | 9,189.22 | 9,157.74 | 2.0% |
+| Stock Exchange Data | FTSE All-Share UK | 5,049.47 | 5,036.27 | 5,028.28 | 4,980.36 | 4,963.21 | 1.9% |
+| Stock Exchange Data | CAC40 | 7,969.69 | 7,938.29 | 7,973.03 | 7,979.08 | 7,884.05 | 0.6% |
+| Stock Exchange Data | Xetra Dax | 24,363.09 | 24,293.34 | 24,276.97 | 24,423.07 | 24,314.77 | 0.0% |
+| Stock Exchange Data | Nikkei | 42,633.29 | 42,610.17 | 42,888.55 | 43,546.29 | 43,714.31 | -1.7% |
+| Stock Exchange Data | Hang Seng | 25,339.14 | 25,104.61 | 25,165.94 | 25,122.90 | 25,176.85 | 0.3% |
+| Stock Exchange Data | DJ US Maritime | 329.80 | 319.95 | 320.31 | 323.33 | 316.76 | 4.1% |
+| Currencies | € / $ | 1.17 | 1.16 | 1.17 | 1.16 | 1.17 | 0.2% |
+| Currencies | £ / $ | 1.35 | 1.34 | 1.35 | 1.35 | 1.35 | -0.2% |
+| Currencies | $ / ¥ | 146.93 | 148.37 | 147.32 | 147.66 | 147.86 | -0.2% |
+| Currencies | $ / NoK | 10.06 | 10.17 | 10.23 | 10.27 | 10.19 | -1.2% |
+| Currencies | Yuan / $ | 7.17 | 7.18 | 7.18 | 7.18 | 7.18 | -0.2% |
+| Currencies | Won / $ | 1,383.82 | 1,401.06 | 1,397.60 | 1,392.98 | 1,388.76 | -0.3% |
+| Currencies | $ INDEX | 97.72 | 98.62 | 98.22 | 98.27 | 98.17 | -0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 22-Aug-25 | 15-Aug-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 649.0 | 641.0 | 1.2% |
+| MGO | Houston | 663.0 | 654.0 | 1.4% |
+| MGO | Singapore | 648.0 | 631.0 | 2.7% |
+| 380cst | Rotterdam | 406.0 | 412.0 | -1.5% |
+| 380cst | Houston | 434.0 | 430.0 | 0.9% |
+| 380cst | Singapore | 405.0 | 403.0 | 0.5% |
+| VLSFO | Rotterdam | 461.0 | 464.0 | -0.6% |
+| VLSFO | Houston | 483.0 | 479.0 | 0.8% |
+| VLSFO | Singapore | 500.0 | 494.0 | 1.2% |
+
+## Oil Prices
+
+| Category | Indicator | 22-Aug-25 | 15-Aug-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 67.7 | 65.9 | 2.9% |
+| OIL | WTI | 63.7 | 62.8 | 1.4% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 22-Aug-25 | 15-Aug-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 21.59 | 21.37 | 1.0% |
+| COSTAMARE INC | NYSE | USD | 11.74 | 11.11 | 5.7% |
+| DANAOS CORPORATION | NYSE | USD | 93.55 | 92.58 | 1.0% |
+| DIANA SHIPPING | NYSE | USD | 1.61 | 1.55 | 3.9% |
+| EUROSEAS LTD. | NASDAQ | USD | 64.60 | 59.75 | 8.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.01 | 1.01 | 0.4% |
+| SAFE BULKERS INC | NYSE | USD | 4.33 | 4.25 | 1.9% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 7.81 | 7.29 | 7.1% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.12 | 18.66 | 2.5% |
+| STEALTHGAS INC | NASDAQ | USD | 7.24 | 6.86 | 5.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 21.40 | 20.43 | 4.7% |
+
+## Macro-economic headlines
+
+In the Eurozone, the CPI was flat at 0.0% m-o-m in July, in line with market expectations and following the previous month's 0.3% increase.
+
+In the US, Existing Home Sales rose to 4.01M in July, surpassing both the market forecast of 3.92M and the previous month's 3.93M sales.
+
+In Germany, GDP contracted by 0.3% QoQ in Q2, falling short of market forecasts of a 0.1% contraction and reversing the previous quarter's 0.3% growth.
+
+In Japan, the National CPI remained unchanged at 0.1% m-o-m in July, the same as the previous mont.

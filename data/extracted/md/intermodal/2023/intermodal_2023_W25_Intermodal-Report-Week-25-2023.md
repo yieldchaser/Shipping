@@ -247,3 +247,70 @@ Not much has changed in the market over the past week as scrappers in all major 
 | SEAPEAK POLAR | 48,817 | 23,707 | 1993 | IHI, Japan | GAS TANKER | $ 637/Ldt | undisclosed | as is Khor Fakkan, HKC recycling |
 | SHUN HANG WEI YE | 43,473 | 8,207 | 1991 | HASHIHAMA, Japan | BC | $ 510/Ldt | undisclosed | as is Zhoushan |
 | OCEANIC INSTALLER | 2, 100 | 2,899 | 1984 | ULSTEIN HATLO, Norway | OFFSHORE/Support | undisclosed | undisclosed | as is Sharjah |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 23-Jun-23 | 22-Jun-23 | 21-Jun-23 | 20-Jun-23 | 19-Jun-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.739 | 3.799 | 3.723 | 3.729 | 3.769 | -0.8% |
+| Stock Exchange Data | S&P 500 | 4,348.33 | 4,348.33 | 4,381.89 | 4,365.69 | 3,990.97 | -1.4% |
+| Stock Exchange Data | Nasdaq | 13,492.52 | 13,492.52 | 13,630.61 | 13,502.20 | 13,667.29 | -1.4% |
+| Stock Exchange Data | Dow Jones | 33,727.43 | 33,727.43 | 33,946.71 | 33,951.52 | 34,053.87 | -1.7% |
+| Stock Exchange Data | FTSE 100 | 7,461.87 | 7,502.03 | 7,559.18 | 7,569.31 | 7,588.48 | -2.4% |
+| Stock Exchange Data | FTSE All-Share UK | 4,053.65 | 4,081.03 | 4,115.41 | 4,125.41 | 4,137.73 | -2.7% |
+| Stock Exchange Data | CAC40 | 7,163.42 | 7,203.28 | 7,260.97 | 7,294.17 | 7,314.05 | -3.0% |
+| Stock Exchange Data | Xetra Dax | 15,829.94 | 15,988.16 | 16,023.13 | 16,111.32 | 16,201.20 | -2.3% |
+| Stock Exchange Data | Nikkei | 32,781.54 | 33,264.88 | 33,575.14 | 33,388.91 | 33,370.42 | -1.8% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 18,889.97 | 19,218.35 | 19,607.08 | 19,912.89 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 240.77 | 240.77 | 244.58 | 241.53 | 244.71 | -1.6% |
+| Currencies | € / $ | 1.09 | 1.10 | 1.10 | 1.09 | 1.09 | -0.3% |
+| Currencies | £ / $ | 1.27 | 1.27 | 1.28 | 1.28 | 1.28 | -0.9% |
+| Currencies | $ / ¥ | 143.70 | 143.03 | 141.69 | 141.34 | 141.90 | 1.3% |
+| Currencies | $ / NoK | 0.0924 | 0.0939 | 0.0939 | 0.0932 | 0.0936 | -2.4% |
+| Currencies | Yuan / $ | 7.18 | 7.18 | 7.18 | 7.18 | 7.16 | 0.8% |
+| Currencies | Won / $ | 1,308.52 | 1,298.54 | 1,288.73 | 1,288.69 | 1,283.59 | 2.4% |
+| Currencies | $ INDEX | 102.90 | 102.39 | 102.07 | 102.54 | 102.52 | 0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 23-Jun-23 | 16-Jun-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 23-Jun-23 | 16-Jun-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.86 | 13.82 | 0.3% |
+| COSTAMARE INC | NYSE | USD | 9.32 | 9.21 | 1.2% |
+| DANAOS CORPORATION | NYSE | USD | 66.39 | 65.33 | 1.6% |
+| DIANA SHIPPING | NYSE | USD | 3.76 | 3.90 | -3.6% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 48.37 | 45.31 | 6.8% |
+| EUROSEAS LTD. | NASDAQ | USD | 21.58 | 21.06 | 2.5% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 0.95 | 0.98 | -3.1% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.69 | 1.65 | 2.4% |
+| SAFE BULKERS INC | NYSE | USD | 3.25 | 3.35 | -3.0% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 1.02 | 1.08 | -5.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.03 | 18.41 | -2.1% |
+| STEALTHGAS INC | NASDAQ | USD | 3.84 | 3.39 | 13.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.56 | 18.66 | -5.9% |
+
+## Macro-economic headlines
+
+• US: The housing market seems to be picking up as building permits rose to 1.491 million in May, while housing starts rose 21.7% in the same month. Existing home sales rose marginally by 0.01 million to 4.3 million.
+
+• EU: Both the manufacturing and services PMIs for June fell last week. The manufacturing PMI stood at 43.6, remaining in contraction territory, while the services PMI stood at 52.4, down from 55.1 in May.
+
+• China: Not much data came out of China last week as the Dragon Boat Festival took place. The PBoC cut the 5-year benchmark rate by 10 basis points to 3.55%. The market was expecting a 10bp cut.

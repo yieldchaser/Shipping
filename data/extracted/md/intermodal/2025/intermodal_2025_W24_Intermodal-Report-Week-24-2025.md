@@ -252,3 +252,77 @@ In Turkey the ship recycling market was quiet, with economic uncertainty weighin
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | OCEAN STAR | 26,444 | 6,137 | 1995 | IMABARI, Japan | BC | $435/Ldt | Indian |
 | RUN FU 2 | 27,209 | 5,841 | 1995 | HANJIN, S. Korea | BC | $436/Ldt | Indian |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 13-Jun-25 | 12-Jun-25 | 11-Jun-25 | 10-Jun-25 | 9-Jun-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.424 | 4.357 | 4.414 | 4.474 | 4.484 | -1.9% |
+| Stock Exchange Data | S&P 500 | 5,976.97 | 6,045.26 | 6,022.24 | 6,038.81 | 6,005.88 | -0.4% |
+| Stock Exchange Data | Nasdaq | 21,631.04 | 21,913.32 | 21,860.80 | 21,941.92 | 21,797.87 | -0.6% |
+| Stock Exchange Data | Dow Jones | 42,197.79 | 42,967.62 | 42,865.77 | 42,866.87 | 42,761.76 | -1.3% |
+| Stock Exchange Data | FTSE 100 | 8,850.63 | 8,884.92 | 8,864.35 | 8,853.08 | 8,832.28 | 0.1% |
+| Stock Exchange Data | FTSE All-Share UK | 4,801.14 | 4,823.55 | 4,815.43 | 4,808.66 | 4,795.97 | 0.1% |
+| Stock Exchange Data | CAC40 | 7,684.68 | 7,765.11 | 7,775.90 | 7,804.33 | 7,791.47 | -1.5% |
+| Stock Exchange Data | Xetra Dax | 23,516.23 | 23,771.45 | 23,948.90 | 23,987.56 | 24,174.32 | -3.2% |
+| Stock Exchange Data | Nikkei | 37,834.25 | 38,173.09 | 38,421.19 | 38,211.51 | 38,088.57 | 0.2% |
+| Stock Exchange Data | Hang Seng | 23,892.56 | 24,035.38 | 24,366.94 | 24,162.87 | 24,181.43 | 0.4% |
+| Stock Exchange Data | DJ US Maritime | 363.80 | 369.55 | 370.11 | 369.55 | 368.73 | -1.2% |
+| Currencies | € / $ | 1.16 | 1.16 | 1.15 | 1.14 | 1.14 | 1.4% |
+| Currencies | £ / $ | 1.36 | 1.36 | 1.35 | 1.35 | 1.35 | 0.3% |
+| Currencies | $ / ¥ | 144.09 | 143.47 | 144.54 | 144.83 | 144.58 | -0.5% |
+| Currencies | $ / NoK | 9.85 | 9.93 | 10.04 | 10.10 | 10.05 | -2.4% |
+| Currencies | Yuan / $ | 7.18 | 7.17 | 7.19 | 7.19 | 7.18 | -0.1% |
+| Currencies | Won / $ | 1,366.61 | 1,354.91 | 1,369.79 | 1,365.94 | 1,354.04 | 0.5% |
+| Currencies | $ INDEX | 98.18 | 97.92 | 98.63 | 99.10 | 98.94 | -1.0% |
+
+## Bunker Prices
+
+| Grade | Port | 13-Jun-25 | 6-Jun-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 686.0 | 612.0 | 12.1% |
+| MGO | Houston | 668.0 | 612.0 | 9.2% |
+| MGO | Singapore | 660.0 | 604.0 | 9.3% |
+| 380cst | Rotterdam | 446.0 | 445.0 | 0.2% |
+| 380cst | Houston | 422.0 | 405.0 | 4.2% |
+| 380cst | Singapore | 474.0 | 432.0 | 9.7% |
+| VLSFO | Rotterdam | 510.0 | 481.0 | 6.0% |
+| VLSFO | Houston | 516.0 | 466.0 | 10.7% |
+| VLSFO | Singapore | 555.0 | 503.0 | 10.3% |
+
+## Oil Prices
+
+| Category | Indicator | 13-Jun-25 | 6-Jun-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 74.2 | 66.5 | 11.7% |
+| OIL | WTI | 73.0 | 64.6 | 13.0% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 13-Jun-25 | 06-Jun-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 21.47 | 21.80 | -1.5% |
+| COSTAMARE INC | NYSE | USD | 9.26 | 9.17 | 1.0% |
+| DANAOS CORPORATION | NYSE | USD | 89.19 | 86.87 | 2.7% |
+| DIANA SHIPPING | NYSE | USD | 1.68 | 1.55 | 8.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 43.61 | 40.85 | 6.8% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.35 | 1.17 | 15.4% |
+| SAFE BULKERS INC | NYSE | USD | 3.88 | 3.79 | 2.4% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 6.87 | 6.42 | 7.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 17.40 | 16.69 | 4.3% |
+| STEALTHGAS INC | NASDAQ | USD | 6.73 | 6.28 | 7.2% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 19.64 | 17.75 | 10.6% |
+
+## Macro-economic headlines
+
+In China, industrial production in May expanded by 5.8% y-o-y, falling just short of the 5.9% market forecast and marking a deceleration from the 6.1% increase recorded in April.
+
+In the Eurozone, the trade surplus narrowed sharply to €9.9 bn in April affected by the implementation of new U.S tariffs, well below the expected €18.2bn and significantly down from the previous record surplus of €37.3bn.
+
+In USA, the CPI for May rose by 0.1% m-o-m, below the market forecast and April’s increase, both at 0.2%.
+
+In UK, GDP declined by 0.3% m-o-m in April, below market forecast of a 0.1% contraction, reversing the 0.2% increase recorded in March.

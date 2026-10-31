@@ -239,3 +239,71 @@ A busy week in the recycling market with few sales completed, mainly in Banglade
 | RONG DA CHANG SHA | 22,271 | 9,346 | 1998 | 3 MAJ, Croatia | GENERAL CARGO | $ 535/Ldt | Bangladeshi |  |
 | MSC EAGLE F | 17,451 | 6,809 | 2000 | JINGJIANG, China | GENERAL CARGO | $ 505/Ldt | Indian |  |
 | MTT SINGAPORE | 10,354 | 3,827 | 1996 | HANJIN HI, S. Korea | CONTAINER | $ 512/Ldt | undisclosed | 'as is' Malaysia, incl 250MT ROB |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 19-Jan-24 | 18-Jan-24 | 17-Jan-24 | 16-Jan-24 | 15-Jan-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.130 | 4.142 | 4.106 | 4.054 | 3.986 | 5.5% |
+| Stock Exchange Data | S&P 500 | 4,839.81 | 4,780.94 | 4,739.21 | 4,765.98 | 4,783.83 | 1.2% |
+| Stock Exchange Data | Nasdaq | 15,310.97 | 15,055.65 | 14,855.62 | 14,944.35 | 14,972.76 | 2.3% |
+| Stock Exchange Data | Dow Jones | 37,863.80 | 37,468.61 | 37,266.67 | 37,361.12 | 37,592.98 | 0.7% |
+| Stock Exchange Data | FTSE 100 | 7,461.93 | 7,459.09 | 7,446.29 | 7,558.34 | 7,594.91 | -2.1% |
+| Stock Exchange Data | FTSE All-Share UK | 4,079.87 | 4,080.28 | 4,072.19 | 4,134.31 | 4,152.21 | -2.1% |
+| Stock Exchange Data | CAC40 | 7,371.64 | 7,401.35 | 7,318.69 | 7,398.00 | 7,411.68 | -1.3% |
+| Stock Exchange Data | Xetra Dax | 16,555.13 | 16,567.35 | 16,431.69 | 16,571.68 | 16,622.22 | -0.4% |
+| Stock Exchange Data | Nikkei | 35,963.27 | 35,466.17 | 35,477.75 | 35,619.18 | 35,577.11 | 1.1% |
+| Stock Exchange Data | Hang Seng | 15,308.69 | 15,391.79 | 15,276.90 | 15,865.92 | 16,216.33 | -5.6% |
+| Stock Exchange Data | DJ US Maritime | 253.02 | 253.02 | 252.59 | 252.59 | 251.70 | -0.3% |
+| Currencies | € / $ | 1.09 | 1.09 | 1.09 | 1.09 | 1.09 | -0.5% |
+| Currencies | £ / $ | 1.27 | 1.27 | 1.27 | 1.26 | 1.27 | -0.3% |
+| Currencies | $ / ¥ | 148.14 | 148.13 | 148.12 | 147.25 | 145.79 | 2.3% |
+| Currencies | $ / NoK | 0.0954 | 0.0950 | 0.0952 | 0.0956 | 0.0965 | -1.8% |
+| Currencies | Yuan / $ | 7.12 | 7.13 | 7.12 | 7.13 | 7.11 | 0.1% |
+| Currencies | Won / $ | 1,335.86 | 1,338.66 | 1,344.77 | 1,338.79 | 1,320.46 | 1.7% |
+| Currencies | $ INDEX | 103.29 | 103.54 | 103.45 | 103.36 | 102.40 | 0.9% |
+
+## Bunker Prices
+
+| Grade | Port | 19-Jan-24 | 12-Jan-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 19-Jan-24 | 12-Jan-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.10 | 17.05 | 6.2% |
+| COSTAMARE INC | NYSE | USD | 10.97 | 10.74 | 2.1% |
+| DANAOS CORPORATION | NYSE | USD | 75.58 | 75.99 | -0.5% |
+| DIANA SHIPPING | NYSE | USD | 3.02 | 3.01 | 0.3% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 55.06 | 53.34 | 3.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 36.55 | 36.22 | 0.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.35 | 2.35 | 0.0% |
+| SAFE BULKERS INC | NYSE | USD | 4.02 | 3.87 | 3.9% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 8.00 | 7.59 | 5.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 21.25 | 20.48 | 3.8% |
+| STEALTHGAS INC | NASDAQ | USD | 7.09 | 7.06 | 0.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 24.32 | 24.43 | -0.5% |
+
+## Macro-economic headlines
+
+• US: Retail sales rose by 0.6% month-on-month in December, while industrial production increased by 0.1% month-on-month and almost 1% year-on-year in December.
+
+• EU: Industrial production fell by -0.3% in November and the CPI for December 2023 rose by 2.9% compared with December 2022. The German CPI rose by a mediocre 0.1% in December.
+
+• UK: The CPI rose by 0.4% in December on a monthly basis and by 4% on an annual basis. Retail sales in December fell by - 2.4% compared with the same month of the previous year.
+
+• China: Q3 GDP grew by 5.2% on a quarterly basis, while industrial production rose by 6.8% year over-year in December.

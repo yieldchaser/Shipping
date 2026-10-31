@@ -231,3 +231,75 @@ The demolition market remains under pressure as fluctuations in the global freig
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | PRADA | 112,201 | 18,860 | 2001 | HYUNDAI, S. Korea | TANKER | $ 480/Ldt | undisclosed |
 | SOLA GRATIA | 4,582 | 2,052 | 1985 | HONDA SAIKI, Japan | BC | $ 468/Ldt | Bangladeshi |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 23-Aug-24 | 22-Aug-24 | 21-Aug-24 | 20-Aug-24 | 19-Aug-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.807 | 3.862 | 3.776 | 3.818 | 3.867 | -2.2% |
+| Stock Exchange Data | S&P 500 | 5,634.61 | 5,570.64 | 5,620.85 | 5,597.12 | 5,608.25 | 1.4% |
+| Stock Exchange Data | Nasdaq | 19,720.87 | 19,491.84 | 19,824.84 | 19,719.82 | 19,766.49 | 1.1% |
+| Stock Exchange Data | Dow Jones | 41,175.08 | 40,712.78 | 40,890.49 | 40,834.97 | 40,896.53 | 1.3% |
+| Stock Exchange Data | FTSE 100 | 8,327.78 | 8,288.00 | 8,283.43 | 8,273.32 | 8,356.94 | 0.2% |
+| Stock Exchange Data | FTSE All-Share UK | 4,557.24 | 4,536.02 | 4,536.49 | 4,525.70 | 4,569.52 | 0.3% |
+| Stock Exchange Data | CAC40 | 7,577.04 | 7,524.11 | 7,524.72 | 7,485.73 | 7,502.01 | 1.7% |
+| Stock Exchange Data | Xetra Dax | 18,633.10 | 18,493.39 | 18,448.95 | 18,357.52 | 18,421.69 | 1.7% |
+| Stock Exchange Data | Nikkei | 38,364.27 | 38,211.01 | 37,951.80 | 38,062.92 | 37,388.62 | 0.8% |
+| Stock Exchange Data | Hang Seng | 17,612.10 | 17,641.00 | 17,391.01 | 17,511.08 | 17,569.57 | 1.0% |
+| Stock Exchange Data | DJ US Maritime | 390.72 | 382.84 | 390.19 | 390.19 | 390.19 | -0.4% |
+| Currencies | € / $ | 1.12 | 1.11 | 1.12 | 1.11 | 1.11 | 1.5% |
+| Currencies | £ / $ | 1.32 | 1.31 | 1.31 | 1.30 | 1.30 | 2.0% |
+| Currencies | $ / ¥ | 144.37 | 146.26 | 145.26 | 145.25 | 146.57 | -2.2% |
+| Currencies | $ / NoK | 10.45 | 10.60 | 10.50 | 10.49 | 10.55 | -1.9% |
+| Currencies | Yuan / $ | 7.12 | 7.14 | 7.13 | 7.13 | 7.14 | -0.6% |
+| Currencies | Won / $ | 1,323.43 | 1,341.29 | 1,332.76 | 1,327.54 | 1,331.64 | -1.9% |
+| Currencies | $ INDEX | 100.72 | 101.51 | 101.04 | 101.44 | 101.89 | -1.7% |
+
+## Bunker Prices
+
+| Grade | Port | 23-Aug-24 | 16-Aug-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 641.0 | 690.0 | -7.1% |
+| MGO | Houston | 689.0 | 700.0 | -1.6% |
+| MGO | Singapore | 670.0 | 699.0 | -4.1% |
+| 380cst | Rotterdam | 444.0 | 467.0 | -4.9% |
+| 380cst | Houston | 454.0 | 461.0 | -1.5% |
+| 380cst | Singapore | 467.0 | 481.0 | -2.9% |
+| VLSFO | Rotterdam | 533.0 | 550.0 | -3.1% |
+| VLSFO | Houston | 546.0 | 553.0 | -1.3% |
+| VLSFO | Singapore | 631.0 | 601.0 | 5.0% |
+
+## Oil Prices
+
+| Category | Indicator | 23-Aug-24 | 16-Aug-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 79.0 | 79.7 | -0.8% |
+| OIL | WTI | 74.8 | 76.7 | -2.4% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 23-Aug-24 | 16-Aug-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 16.77 | 16.30 | 2.9% |
+| COSTAMARE INC | NYSE | USD | 13.72 | 13.85 | -0.9% |
+| DANAOS CORPORATION | NYSE | USD | 82.51 | 82.58 | -0.1% |
+| DIANA SHIPPING | NYSE | USD | 2.40 | 2.47 | -2.8% |
+| EUROSEAS LTD. | NASDAQ | USD | 46.24 | 44.21 | 4.6% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.54 | 1.57 | -2.2% |
+| SAFE BULKERS INC | NYSE | USD | 4.97 | 4.97 | 0.0% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 10.83 | 11.44 | -5.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 21.23 | 21.15 | 0.4% |
+| STEALTHGAS INC | NASDAQ | USD | 5.98 | 6.13 | -2.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 24.52 | 24.63 | -0.4% |
+
+## Macro-economic headlines
+
+In the UK, the S&P Global Composite PMI for August was at 53.4(vs 52.8 in July). Both Services and Manufacturing PMIs rose, standing at 53.3 (vs 52.5) and 52.5 (vs 52.1). In the US, the S&P Global Composite PMI for August stood at 54.1 (vs 54.3 in July). Delving deeper, the Services PMI rose to 55.2 (vs 55) and Manufacturing PMI fell to 48 (vs 49.6). Additionally, the Jackson Hole Symposium was held last week in the US, where Jerome
+
+Powell vowed for much awaited rate cuts before the year’s end. In EU, CPI was at 2.6% for July on an annual basis. The HCOB Eurozone Composite PMI for August was at 51.2 (vs 50.2) while the Services PMI was at 53.3 (vs 51.9) and Manufacturing PMI at 45.6 (vs 45.8).
+
+In China, the People's Bank of China, left the Loan Prime Rate unchanged at 3.35%.

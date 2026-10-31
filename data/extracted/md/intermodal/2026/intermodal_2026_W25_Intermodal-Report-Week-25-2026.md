@@ -255,3 +255,77 @@ In Turkey the market softened, pressured by tepid demand and less competitive pr
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ANDHIKA PARAMESTI | 73,726 | 9,369 | 1997 | SUMITOMO, Japan | BC | $451/Ldt | undisclosed | as is Indonesia |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 19-Jun-26 | 18-Jun-26 | 17-Jun-26 | 16-Jun-26 | 15-Jun-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.451 | 4.451 | 4.463 | 4.428 | 4.469 | -0.8% |
+| Stock Exchange Data | S&P 500 | 7,500.58 | 7,500.58 | 7,420.10 | 7,511.35 | 7,554.29 | 0.9% |
+| Stock Exchange Data | Nasdaq | 30,406.19 | 30,406.19 | 29,670.95 | 29,968.13 | 30,543.92 | 2.6% |
+| Stock Exchange Data | Dow Jones | 51,564.70 | 51,564.70 | 51,492.55 | 51,999.67 | 51,671.03 | 0.7% |
+| Stock Exchange Data | FTSE 100 | 10,363.27 | 10,399.70 | 10,508.61 | 10,494.21 | 10,430.62 | -1.0% |
+| Stock Exchange Data | FTSE All-Share UK | 5,576.38 | 5,597.04 | 5,649.69 | 5,641.63 | 5,612.60 | -1.0% |
+| Stock Exchange Data | CAC40 | 8,421.14 | 8,467.98 | 8,430.79 | 8,447.27 | 8,384.01 | 0.8% |
+| Stock Exchange Data | Xetra Dax | 24,985.82 | 25,026.80 | 24,934.67 | 24,910.41 | 24,894.01 | 1.4% |
+| Stock Exchange Data | Nikkei | 71,250.06 | 71,053.49 | 69,902.25 | 69,404.50 | 69,317.50 | 7.9% |
+| Stock Exchange Data | Hang Seng | 23,924.81 | 23,924.81 | 24,312.16 | 24,493.95 | 24,842.67 | -3.2% |
+| Stock Exchange Data | DJ US Maritime | 461.65 | 461.65 | 460.28 | 464.64 | 466.12 | -1.9% |
+| Currencies | € / $ | 1.15 | 1.15 | 1.15 | 1.16 | 1.16 | -0.9% |
+| Currencies | £ / $ | 1.32 | 1.32 | 1.33 | 1.34 | 1.34 | -1.3% |
+| Currencies | $ / ¥ | 161.28 | 161.37 | 160.63 | 160.45 | 160.32 | 0.7% |
+| Currencies | $ / NoK | 9.66 | 9.73 | 9.61 | 9.47 | 9.53 | 1.8% |
+| Currencies | Yuan / $ | 6.77 | 6.77 | 6.76 | 6.76 | 6.76 | 0.1% |
+| Currencies | Won / $ | 1,529.91 | 1,538.01 | 1,527.14 | 1,508.98 | 1,513.32 | 0.8% |
+| Currencies | $ INDEX | 100.85 | 100.85 | 100.09 | 99.54 | 99.63 | 1.1% |
+
+## Bunker Prices
+
+| Grade | Port | 19-Jun-26 | 12-Jun-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 879.8 | 988.8 | -11.0% |
+| MGO | Houston | 933.5 | 986.8 | -5.4% |
+| MGO | Singapore | 921.8 | 997.5 | -7.6% |
+| 380cst | Rotterdam | 491.3 | 515.5 | -4.7% |
+| 380cst | Houston | 498.3 | 557.3 | -10.6% |
+| 380cst | Singapore | 476.3 | 582.8 | -18.3% |
+| VLSFO | Rotterdam | 602.3 | 615.8 | -2.2% |
+| VLSFO | Houston | 668.5 | 686.3 | -2.6% |
+| VLSFO | Singapore | 688.0 | 699.3 | -1.6% |
+
+## Oil Prices
+
+| Category | Indicator | 19-Jun-26 | 12-Jun-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 80.6 | 87.3 | -7.7% |
+| OIL | WTI | 76.6 | 84.9 | -9.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 19-Jun-26 | 12-Jun-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 20.03 | 21.36 | -6.2% |
+| COSTAMARE INC | NYSE | USD | 15.19 | 16.60 | -8.5% |
+| DANAOS CORPORATION | NYSE | USD | 125.95 | 131.30 | -4.1% |
+| DIANA SHIPPING | NYSE | USD | 2.10 | 2.39 | -12.1% |
+| EUROSEAS LTD. | NASDAQ | USD | 68.60 | 71.52 | -4.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.75 | 2.35 | 17.0% |
+| SAFE BULKERS INC | NYSE | USD | 6.70 | 6.90 | -2.9% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 14.63 | 16.54 | -11.5% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 25.81 | 27.15 | -4.9% |
+| STEALTHGAS INC | NASDAQ | USD | 8.29 | 9.65 | -14.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 38.29 | 38.77 | -1.2% |
+
+## Macro-economic headlines
+
+In China, the PBoC held its benchmark lending rates steady in June for the thirteenth consecutive month, in line with market expectations. The 1-year LPR remained at 3.0%, while the 5-year LPR, the benchmark for mortgage rates, stayed at 3.5%.
+
+In the Eurozone, CPI rose by 3.2% y-o-y in May, matching market forecasts and up from 3.0% recorded in April.
+
+In Germany, PPI increased by 2.2% y-o-y in May, below market forecasts of 2.5% and higher than April’s 1.7%.
+
+In the United States, the Export Price Index rose by 11.2% y-o-y in May, up from 8.8% in April, while the Import Price Index grew by 6.7% y-o-y, above April’s 4.2%.

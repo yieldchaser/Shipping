@@ -292,3 +292,81 @@ The average demolition levels witnessed another w-o-w decline. Currencies across
 | TAI NING | 3,901 | 3,901 | 1983 | KOCHI JYUKO, Japan | REEFER | $ 630/Ldt | Bangladeshi |
 
 © Intermodal Research 31/05/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 27-May-22 | 26-May-22 | 25-May-22 | 24-May-22 | 23-May-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 2.743 | 2.756 | 2.749 | 2.760 | 2.859 | -1.6% |
+| Stock Exchange Data | S&P 500 | 4,158.24 | 4,057.84 | 3,978.73 | 3,941.48 | 3,901.36 | 6.6% |
+| Stock Exchange Data | Nasdaq | 12,131.13 | 11,740.65 | 11,434.74 | 11,264.45 | 11,535.28 | 6.8% |
+| Stock Exchange Data | Dow Jones | 33,212.96 | 32,637.19 | 32,120.28 | 31,928.62 | 31,880.24 | 6.2% |
+| Stock Exchange Data | FTSE 100 | 7,585.46 | 7,564.92 | 7,522.75 | 7,484.35 | 7,513.44 | 2.6% |
+| Stock Exchange Data | FTSE All-Share UK | 4,190.21 | 4,176.59 | 4,147.08 | 4,126.79 | 4,150.28 | 2.6% |
+| Stock Exchange Data | CAC40 | 6,515.75 | 6,410.58 | 6,298.64 | 6,253.14 | 6,358.74 | 3.7% |
+| Stock Exchange Data | Xetra Dax | 14,462.19 | 14,231.29 | 14,007.93 | 13,919.75 | 14,175.40 | 2.0% |
+| Stock Exchange Data | Nikkei | 26,781.68 | 26,604.84 | 26,677.80 | 26,748.14 | 27,001.52 | -0.8% |
+| Stock Exchange Data | Hang Seng | 20,116.20 | 20,116.20 | 20,171.27 | 20,112.10 | 20,470.06 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 224.43 | 220.39 | 210.67 | 212.22 | 209.98 | 8.7% |
+| Currencies | € / $ | 1.07 | 1.07 | 1.07 | 1.07 | 1.07 | 1.7% |
+| Currencies | £ / $ | 1.26 | 1.26 | 1.26 | 1.25 | 1.26 | 1.1% |
+| Currencies | $ / ¥ | 127.10 | 127.05 | 127.16 | 126.77 | 127.85 | -0.7% |
+| Currencies | $ / NoK | 0.11 | 0.10 | 0.10 | 0.10 | 0.10 | 4.0% |
+| Currencies | Yuan / $ | 6.70 | 6.74 | 6.69 | 6.65 | 6.65 | 0.1% |
+| Currencies | Won / $ | 1,258.37 | 1,259.89 | 1,266.70 | 1,261.12 | 1,258.95 | -1.2% |
+| Currencies | $ INDEX | 101.67 | 101.83 | 102.06 | 101.86 | 102.08 | -1.4% |
+
+## Bunker Prices
+
+| Grade | Port | 27-May-22 | 20-May-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,206.0 | 1,098.5 | 9.8% |
+| MGO | Houston | 1,211.0 | 1,135.5 | 6.6% |
+| MGO | Singapore | 1,159.5 | 1,122.5 | 3.3% |
+| 380cst | Rotterdam | 678.5 | 648.5 | 4.6% |
+| 380cst | Houston | 722.5 | 714.0 | 1.2% |
+| 380cst | Singapore | 670.0 | 668.5 | 0.2% |
+| VLSFO | Rotterdam | 858.0 | 843.0 | 1.8% |
+| VLSFO | Houston | 930.5 | 879.0 | 5.9% |
+| VLSFO | Singapore | 1,061.0 | 947.5 | 12.0% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 27-May-22 | 20-May-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.60 | 15.11 | 3.2% |
+| COSTAMARE INC | NYSE | USD | 14.35 | 13.95 | 2.9% |
+| DANAOS CORPORATION | NYSE | USD | 83.64 | 81.63 | 2.5% |
+| DIANA SHIPPING | NYSE | USD | 6.42 | 5.64 | 13.8% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 70.17 | 67.38 | 4.1% |
+| EUROSEAS LTD. | NASDAQ | USD | 32.80 | 26.71 | 22.8% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.99 | 2.05 | -2.9% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 3.32 | 3.30 | 0.6% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 30.46 | 28.88 | 5.5% |
+| SAFE BULKERS INC | NYSE | USD | 4.77 | 4.33 | 10.2% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.20 | 1.18 | 1.7% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 32.54 | 32.03 | 1.6% |
+| STEALTHGAS INC | NASDAQ | USD | 2.73 | 2.44 | 11.9% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 11.30 | 11.66 | -3.1% |
+
+## Market News
+
+“Costamare clinches $500m syndicated loan to refinance container ships
+
+Costamare revealed on Thursday a new bank loan that helps it refinance a considerable part of its debt and its container ship fleet.
+
+Twelve leading banks from the US, Europe and Asia took part in the syndicated loan with a volume reaching up to $500m, US-listed Costamare said.
+
+Most of them were lenders that the company has not had business with to date, chief financial officer Gregory Zikos said.
+
+Costamare expects to fully draw down the entire amount of the debt by the end of June.
+
+It did not reveal details of the borrowing costs, other than to say the syndicated loan was “significantly oversubscribed”. The loan was concluded at a “competitive cost” that “significantly” reduces its overall cost of funding.
+
+Proactive move
+
+With a tiny fraction of its total $2.6bn of debt maturing in 2022, Costamare was under no pressure to refinance existing debt...(TradeWinds)

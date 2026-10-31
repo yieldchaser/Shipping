@@ -343,3 +343,79 @@ Average scrap prices across the Indian subcontinent regions remained stable clos
 | PHARMONY | 10,749 | 3,193 | 1999 | ASAKAWA, Japan | TANKER | $ 855/Ldt | Indian | st-st tanks |
 
 © Intermodal Research 05/10/2021 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 1-Oct-21 | 30-Sep-21 | 29-Sep-21 | 28-Sep-21 | 27-Sep-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.529 | 1.529 | 1.541 | 1.534 | 1.484 | 4.7% |
+| Stock Exchange Data | S&P 500 | 4,357.04 | 4,307.54 | 4,359.46 | 4,352.63 | 4,455.48 | -2.2% |
+| Stock Exchange Data | Nasdaq | 14,566.70 | 14,448.58 | 14,512.44 | 14,546.68 | 14,969.97 | -3.2% |
+| Stock Exchange Data | Dow Jones | 34,326.46 | 33,843.92 | 34,390.72 | 34,299.99 | 34,869.37 | -1.4% |
+| Stock Exchange Data | FTSE 100 | 7,027.07 | 7,086.42 | 7,108.16 | 7,028.10 | 7,063.40 | -0.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,028.97 | 4,058.96 | 4,072.84 | 4,035.41 | 4,067.82 | -0.8% |
+| Stock Exchange Data | CAC40 | 6,517.69 | 6,520.01 | 6,560.80 | 6,506.50 | 6,650.91 | -1.8% |
+| Stock Exchange Data | Xetra Dax | 15,156.44 | 15,260.69 | 15,365.27 | 15,248.56 | 15,573.88 | -2.7% |
+| Stock Exchange Data | Nikkei | 28,771.07 | 29,452.66 | 29,544.29 | 30,183.96 | 30,240.06 | -4.9% |
+| Stock Exchange Data | Hang Seng | 24,575.64 | 24,575.64 | 24,663.50 | 24,500.39 | 24,208.78 | 1.6% |
+| Stock Exchange Data | DJ US Maritime | 160.09 | 157.43 | 164.95 | 167.05 | 169.05 | -2.9% |
+| Currencies | € / $ | 1.16 | 1.16 | 1.16 | 1.17 | 1.17 | -1.1% |
+| Currencies | £ / $ | 1.35 | 1.35 | 1.34 | 1.35 | 1.37 | -0.9% |
+| Currencies | $ / ¥ | 111.08 | 111.47 | 111.95 | 111.53 | 110.97 | 0.3% |
+| Currencies | $ / NoK | 0.12 | 0.11 | 0.11 | 0.12 | 0.12 | -1.2% |
+| Currencies | Yuan / $ | 6.45 | 6.45 | 6.47 | 6.46 | 6.46 | -0.3% |
+| Currencies | Won / $ | 1,182.62 | 1,185.11 | 1,188.44 | 1,187.91 | 1,178.28 | 0.2% |
+| Currencies | $ INDEX | 94.04 | 94.23 | 94.34 | 93.77 | 93.38 | 0.8% |
+
+## Bunker Prices
+
+| Grade | Port | 1-Oct-21 | 24-Sep-21 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 658.0 | 628.0 | 4.8% |
+| MGO | Houston | 689.0 | 645.5 | 6.7% |
+| MGO | Singapore | 663.5 | 635.0 | 4.5% |
+| 380cst | Rotterdam | 447.0 | 436.0 | 2.5% |
+| 380cst | Houston | 423.0 | 419.5 | 0.8% |
+| 380cst | Singapore | 496.0 | 486.0 | 2.1% |
+| VLSFO | Rotterdam | 556.0 | 546.5 | 1.7% |
+| VLSFO | Houston | 558.5 | 547.5 | 2.0% |
+| VLSFO | Singapore | 572.0 | 565.5 | 1.1% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 01-Oct-21 | 24-Sep-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 12.83 | 13.12 | -2.2% |
+| COSTAMARE INC | NYSE | USD | 15.78 | 15.76 | 0.1% |
+| DANAOS CORPORATION | NYSE | USD | 81.88 | 78.67 | 4.1% |
+| DIANA SHIPPING | NYSE | USD | 5.95 | 5.24 | 13.5% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 51.99 | 49.91 | 4.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 34.92 | 35.45 | -1.5% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.93 | 3.14 | -6.7% |
+| NAVIOS MARITIME ACQUISITIONS | NYSE | USD | 4.24 | 3.78 | 12.2% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 5.39 | 4.16 | 29.6% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 33.55 | 29.78 | 12.7% |
+| SAFE BULKERS INC | NYSE | USD | 5.28 | 4.87 | 8.4% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.43 | 1.42 | 0.7% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 25.27 | 22.74 | 11.1% |
+| STEALTHGAS INC | NASDAQ | USD | 2.74 | 2.54 | 7.9% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 11.61 | 8.70 | 33.4% |
+| TOP SHIPS INC | NASDAQ | USD | 1.57 | 1.40 | 12.1% |
+
+## Market News
+
+“Paying dividends? Coast is now clear for Eagle Bulk in wake of refinancing
+
+New bank deal believed to remove any restrictions on shareholder distributions from retired debt structure
+
+New York-listed Eagle Bulk Shipping is now in prime position to bring out something that's been on the minds of both investors and equity analysts — a quarterly shareholder dividend.
+
+A $400m refinancing disclosed by the Stamford, Connecticut-based shipowner on Friday is believed to remove any restrictions on such payouts, where there had been some under both the $176m Norwegian bond and existing credit facilities that are being retired.
+
+That paves the way for Gary Vogel-led Eagle to more efficiently return capital to shareholders. And while stock buy-backs are always an option, the drumbeat has been louder for Eagle to join the list of dry bulk peers paying out dividends in the current strong market.
+
+Eagle management declined comment on the refinancing disclosed in public filings in Norway and the US on Friday. Eagle owns 53 ultramax and supramax bulkers...”(TradeWinds)

@@ -338,3 +338,79 @@ The demolition market noted an increase in scrap levels offered from Indian subc
 | TELLUS | 109,390 | 19,864 | 2003 | DALIAN, China | TANKER | $ 580/Ldt | Bangladeshi |
 
 © Intermodal Research 12/07/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 8-Jul-22 | 7-Jul-22 | 6-Jul-22 | 5-Jul-22 | 4-Jul-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.101 | 3.008 | 2.913 | 2.809 | 2.889 | 7.3% |
+| Stock Exchange Data | S&P 500 | 3,899.38 | 3,899.38 | 3,902.62 | 3,845.08 | 3,825.33 | 1.9% |
+| Stock Exchange Data | Nasdaq | 11,635.31 | 11,635.31 | 11,621.35 | 11,361.85 | 11,322.24 | 4.6% |
+| Stock Exchange Data | Dow Jones | 31,338.15 | 31,338.15 | 31,384.55 | 31,037.68 | 30,967.82 | 0.8% |
+| Stock Exchange Data | FTSE 100 | 7,196.24 | 7,189.08 | 7,107.77 | 7,025.47 | 7,232.65 | 0.4% |
+| Stock Exchange Data | FTSE All-Share UK | 3,961.27 | 3,956.98 | 3,910.80 | 3,863.91 | 3,967.61 | 0.5% |
+| Stock Exchange Data | CAC40 | 6,033.13 | 6,006.70 | 5,912.38 | 5,794.96 | 5,954.65 | 1.7% |
+| Stock Exchange Data | Xetra Dax | 13,015.23 | 12,843.22 | 12,594.52 | 12,401.20 | 12,773.38 | 1.9% |
+| Stock Exchange Data | Nikkei | 26,517.19 | 26,490.53 | 26,107.65 | 26,423.47 | 26,153.81 | 1.4% |
+| Stock Exchange Data | Hang Seng | 21,643.58 | 21,643.58 | 21,586.66 | 21,853.07 | 21,830.35 | -1.0% |
+| Stock Exchange Data | DJ US Maritime | 193.57 | 194.56 | 186.78 | 191.11 | 199.48 | -3.0% |
+| Currencies | € / $ | 1.02 | 1.02 | 1.02 | 1.03 | 1.04 | -2.3% |
+| Currencies | £ / $ | 1.20 | 1.20 | 1.19 | 1.19 | 1.21 | -0.5% |
+| Currencies | $ / ¥ | 136.12 | 135.93 | 135.97 | 135.52 | 135.87 | 0.7% |
+| Currencies | $ / NoK | 0.10 | 0.10 | 0.10 | 0.10 | 0.10 | -3.1% |
+| Currencies | Yuan / $ | 6.70 | 6.70 | 6.71 | 6.72 | 6.70 | -0.1% |
+| Currencies | Won / $ | 1,294.79 | 1,298.00 | 1,305.20 | 1,308.99 | 1,295.96 | -0.3% |
+| Currencies | $ INDEX | 106.89 | 107.13 | 107.10 | 106.54 | 105.14 | 1.7% |
+
+## Bunker Prices
+
+| Grade | Port | 8-Jul-22 | 1-Jul-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,159.0 | 1,269.0 | -8.7% |
+| MGO | Houston | 1,141.5 | 1,325.0 | -13.8% |
+| MGO | Singapore | 1,063.0 | 1,274.0 | -16.6% |
+| 380cst | Rotterdam | 503.0 | 566.5 | -11.2% |
+| 380cst | Houston | 585.5 | 675.5 | -13.3% |
+| 380cst | Singapore | 513.0 | 588.0 | -12.8% |
+| VLSFO | Rotterdam | 808.0 | 897.5 | -10.0% |
+| VLSFO | Houston | 842.0 | 909.0 | -7.4% |
+| VLSFO | Singapore | 1,045.0 | 1,122.0 | -6.9% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 08-Jul-22 | 01-Jul-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.55 | 14.89 | -9.0% |
+| COSTAMARE INC | NYSE | USD | 10.88 | 11.85 | -8.2% |
+| DANAOS CORPORATION | NYSE | USD | 60.48 | 61.91 | -2.3% |
+| DIANA SHIPPING | NYSE | USD | 4.53 | 4.59 | -1.3% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 44.75 | 47.30 | -5.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 23.22 | 23.00 | 1.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.62 | 1.70 | -4.7% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.11 | 2.10 | 0.5% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 21.33 | 22.95 | -7.1% |
+| SAFE BULKERS INC | NYSE | USD | 3.37 | 3.65 | -7.7% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.71 | 0.78 | -9.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 22.46 | 23.40 | -4.0% |
+| STEALTHGAS INC | NASDAQ | USD | 2.70 | 3.10 | -12.9% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 9.25 | 9.56 | -3.2% |
+
+## Market News
+
+“Angeliki Frangou tightens grip on Navios Holdings after major refinancing
+
+Chief executive Angeliki Frangou has further grown her stake in Navios Maritime Holdings by converting more bonds into shares as part of a massive refinancing that closed at the beginning of the year.
+
+Companies affiliated to Frangou now control 46% of the New York-listed owner and operator of 36 bulkers, according to a document filed with the Securities and Exchange Commission filing on Friday.
+
+A previous filing made on Monday showed that the chief executive owned 13.2m shares, or 40.8%, of Navios Holdings.
+
+Frangou owns the shares through Raymar Investments, Amadeus Maritime and her ship management company Navios Shipmanagement (NSM).
+
+The holding includes 6.5m shares under a convertible debenture of $24m that comes with a strike price of $3.90 per share that Frangou can convert into common stock for further ownership in Navios Holdings.
+
+According to the SEC filing...(TradeWinds)

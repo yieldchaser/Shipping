@@ -257,3 +257,77 @@ Turkey experienced a quiet week, with activity unchanged and few candidates circ
 | CHANG MING YANG | 99,761 | 19,529 | 1993 | MITSUI, Japan | BC | $ 380/Ldt | undisclosed | as is China |
 | RUI TIGER | 70,136 | 10,019 | 1995 | DAEWOO, S. Korea | BC | undisclosed | undisclosed | as is HK |
 | GOLD ORIGIN | 8,300 | 2,485 | 2005 | NANJING SHENHGUA, China | GENERAL CARGO | $ 330/Ldt | Bangladeshi | as is SE Asia |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 19-Dec-25 | 18-Dec-25 | 17-Dec-25 | 16-Dec-25 | 15-Dec-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.151 | 4.116 | 4.151 | 4.149 | 4.182 | -1.1% |
+| Stock Exchange Data | S&P 500 | 6,834.50 | 6,774.76 | 6,721.43 | 6,800.26 | 6,816.51 | 0.1% |
+| Stock Exchange Data | Nasdaq | 25,346.18 | 25,019.37 | 24,647.61 | 25,132.94 | 25,067.27 | 0.6% |
+| Stock Exchange Data | Dow Jones | 48,134.89 | 47,951.85 | 47,885.97 | 48,114.26 | 48,416.56 | -0.7% |
+| Stock Exchange Data | FTSE 100 | 9,897.42 | 9,837.77 | 9,774.32 | 9,684.79 | 9,751.31 | 2.6% |
+| Stock Exchange Data | FTSE All-Share UK | 5,329.48 | 5,301.39 | 5,266.90 | 5,220.98 | 5,252.90 | 2.5% |
+| Stock Exchange Data | CAC40 | 8,151.38 | 8,150.64 | 8,086.05 | 8,106.16 | 8,124.88 | 1.0% |
+| Stock Exchange Data | Xetra Dax | 24,288.40 | 24,199.50 | 23,960.59 | 24,076.87 | 24,229.91 | 0.4% |
+| Stock Exchange Data | Nikkei | 49,507.21 | 49,001.50 | 49,512.28 | 49,383.29 | 50,168.11 | -2.6% |
+| Stock Exchange Data | Hang Seng | 25,690.53 | 25,498.13 | 25,468.78 | 25,235.41 | 25,628.88 | -1.1% |
+| Stock Exchange Data | DJ US Maritime | 364.16 | 366.72 | 360.39 | 357.96 | 362.46 | -0.1% |
+| Currencies | € / $ | 1.17 | 1.17 | 1.17 | 1.17 | 1.18 | -0.3% |
+| Currencies | £ / $ | 1.34 | 1.34 | 1.34 | 1.34 | 1.34 | 0.1% |
+| Currencies | $ / ¥ | 157.75 | 155.54 | 155.67 | 154.71 | 155.21 | 1.2% |
+| Currencies | $ / NoK | 10.14 | 10.15 | 10.20 | 10.19 | 10.14 | 0.1% |
+| Currencies | Yuan / $ | 7.04 | 7.04 | 7.04 | 7.04 | 7.05 | -0.2% |
+| Currencies | Won / $ | 1,475.42 | 1,475.50 | 1,475.28 | 1,472.94 | 1,468.69 | 0.0% |
+| Currencies | $ INDEX | 98.60 | 98.43 | 98.37 | 98.15 | 98.31 | 0.2% |
+
+## Bunker Prices
+
+| Grade | Port | 19-Dec-25 | 12-Dec-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 583.0 | 600.0 | -2.8% |
+| MGO | Houston | 611.0 | 613.0 | -0.3% |
+| MGO | Singapore | 599.0 | 623.0 | -3.9% |
+| 380cst | Rotterdam | 333.0 | 345.0 | -3.5% |
+| 380cst | Houston | 335.0 | 323.0 | 3.7% |
+| 380cst | Singapore | 355.0 | 347.0 | 2.3% |
+| VLSFO | Rotterdam | 384.0 | 388.0 | -1.0% |
+| VLSFO | Houston | 431.0 | 404.0 | 6.7% |
+| VLSFO | Singapore | 418.0 | 430.0 | -2.8% |
+
+## Oil Prices
+
+| Category | Indicator | 19-Dec-25 | 12-Dec-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 60.5 | 61.1 | -1.1% |
+| OIL | WTI | 56.5 | 57.4 | -1.6% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 19-Dec-25 | 12-Dec-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 20.96 | 21.03 | -0.3% |
+| COSTAMARE INC | NYSE | USD | 15.23 | 15.61 | -2.4% |
+| DANAOS CORPORATION | NYSE | USD | 92.19 | 93.91 | -1.8% |
+| DIANA SHIPPING | NYSE | USD | 1.67 | 1.75 | -4.6% |
+| EUROSEAS LTD. | NASDAQ | USD | 54.01 | 55.14 | -2.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.70 | 1.46 | 16.4% |
+| SAFE BULKERS INC | NYSE | USD | 4.80 | 4.91 | -2.2% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 9.38 | 9.82 | -4.5% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.30 | 18.27 | 0.2% |
+| STEALTHGAS INC | NASDAQ | USD | 6.82 | 7.18 | -5.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 22.03 | 23.47 | -6.1% |
+
+## Macro-economic headlines
+
+In Eurozone, ECB in its December meeting decided to leave benchmark interest rate unchanged for a fourth consecutive month, at 2.15%, in line with market expectations.
+
+In Germany the PPI retreated by 2.3% y-o-y in November, close to market estimations of 2.2% decline and lower than October’s decline of 1.8%.
+
+In China, PBoC kept its benchmark lending rates at record low levels in December for a seventh month in a row, in line with forecasts. The 1-year and 5-year loan prime rates remained at 3.0% and 3.50%, respectively.
+
+In UK the GDP grew by 1.3% q-o-q in Q3 2025, matching market projections and slightly below Q2 2025’s 1.4% growth.

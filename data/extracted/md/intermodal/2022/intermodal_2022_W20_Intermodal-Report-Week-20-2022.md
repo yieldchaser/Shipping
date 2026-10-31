@@ -351,3 +351,79 @@ The current economic conditions across all the subcontinent nations continue to 
 | XIANG SHUN | 9,273 | 3,175 | 1996 | HIGAKI, Japan | TANKER | $ 640/Ldt | Bangladeshi |  |
 
 © Intermodal Research 24/05/2022 8
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 20-May-22 | 19-May-22 | 18-May-22 | 17-May-22 | 16-May-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 2.787 | 2.855 | 2.886 | 2.968 | 2.877 | -5.0% |
+| Stock Exchange Data | S&P 500 | 3,901.36 | 3,900.79 | 3,923.68 | 4,088.85 | 4,023.89 | -3.0% |
+| Stock Exchange Data | Nasdaq | 11,354.62 | 11,388.50 | 11,418.15 | 11,984.52 | 11,662.79 | -3.8% |
+| Stock Exchange Data | Dow Jones | 31,261.90 | 31,253.13 | 31,490.07 | 32,654.59 | 32,223.42 | -2.9% |
+| Stock Exchange Data | FTSE 100 | 7,389.98 | 7,302.74 | 7,438.09 | 7,518.35 | 7,464.80 | -0.4% |
+| Stock Exchange Data | FTSE All-Share UK | 4,083.84 | 4,038.94 | 4,110.49 | 4,149.88 | 4,120.34 | -0.4% |
+| Stock Exchange Data | CAC40 | 6,285.24 | 6,272.71 | 6,352.94 | 6,430.19 | 6,347.77 | -1.2% |
+| Stock Exchange Data | Xetra Dax | 13,981.91 | 13,882.30 | 14,007.76 | 14,185.94 | 13,964.38 | 0.1% |
+| Stock Exchange Data | Nikkei | 26,739.03 | 26,402.84 | 26,911.20 | 26,659.75 | 26,547.05 | 0.7% |
+| Stock Exchange Data | Hang Seng | 20,120.68 | 20,120.68 | 20,644.28 | 20,602.52 | 19,950.21 | 1.1% |
+| Stock Exchange Data | DJ US Maritime | 206.47 | 207.46 | 211.10 | 216.42 | 210.41 | -0.2% |
+| Currencies | € / $ | 1.06 | 1.06 | 1.05 | 1.05 | 1.04 | 1.4% |
+| Currencies | £ / $ | 1.25 | 1.25 | 1.23 | 1.25 | 1.23 | 1.8% |
+| Currencies | $ / ¥ | 127.94 | 127.83 | 127.92 | 129.46 | 128.93 | -1.0% |
+| Currencies | $ / NoK | 0.10 | 0.10 | 0.10 | 0.10 | 0.10 | -1.0% |
+| Currencies | Yuan / $ | 6.69 | 6.71 | 6.75 | 6.74 | 6.79 | -1.4% |
+| Currencies | Won / $ | 1,273.75 | 1,263.65 | 1,275.86 | 1,266.76 | 1,280.85 | -0.4% |
+| Currencies | $ INDEX | 103.15 | 102.72 | 103.81 | 103.36 | 104.19 | -1.3% |
+
+## Bunker Prices
+
+| Grade | Port | 20-May-22 | 13-May-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,098.5 | 1,152.5 | -4.7% |
+| MGO | Houston | 1,135.5 | 1,332.5 | -14.8% |
+| MGO | Singapore | 1,122.5 | 1,128.0 | -0.5% |
+| 380cst | Rotterdam | 648.5 | 627.5 | 3.3% |
+| 380cst | Houston | 714.0 | 719.0 | -0.7% |
+| 380cst | Singapore | 668.5 | 677.5 | -1.3% |
+| VLSFO | Rotterdam | 843.0 | 795.0 | 6.0% |
+| VLSFO | Houston | 879.0 | 871.5 | 0.9% |
+| VLSFO | Singapore | 947.5 | 867.0 | 9.3% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 20-May-22 | 13-May-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.11 | 15.74 | -4.0% |
+| COSTAMARE INC | NYSE | USD | 13.95 | 13.47 | 3.6% |
+| DANAOS CORPORATION | NYSE | USD | 81.63 | 79.82 | 2.3% |
+| DIANA SHIPPING | NYSE | USD | 5.64 | 5.17 | 9.1% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 67.38 | 63.78 | 5.6% |
+| EUROSEAS LTD. | NASDAQ | USD | 26.71 | 23.52 | 13.6% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.05 | 2.06 | -0.5% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 3.30 | 3.27 | 0.9% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 28.88 | 27.92 | 3.4% |
+| SAFE BULKERS INC | NYSE | USD | 4.33 | 4.03 | 7.4% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.18 | 1.10 | 7.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 32.03 | 29.88 | 7.2% |
+| STEALTHGAS INC | NASDAQ | USD | 2.44 | 2.47 | -1.2% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 11.66 | 11.13 | 4.8% |
+
+## Market News
+
+“HCOB raises €500m from first bonds backed by ship mortgages since sell-off
+
+Hamburg Commercial Bank (HCOB) has added €500m ($528m) to its coffers with a new bond series backed by vessel mortgages.
+
+The major shipping lender said the so-called Pfandbrief placement is a continuation of its regular issuance activities.
+
+But this was the first shipping issue since the former state-controlled HSH Nordbank was bought in November 2018 for $1.2bn by a consortium led by Cerberus Capital Management and JC Flowers.
+
+The bond has a maturity of three years and a coupon of 1.375%.
+
+The issue was placed mainly in Germany, with 71% of the total, as well as Scandinavia (18%) and the UK (7%).
+
+Barclays, Commerzbank, Danske Bank, Deutsche Bank and JP Morgan closed the well-oversubscribed order book at noon on Wednesday....(TradeWinds)

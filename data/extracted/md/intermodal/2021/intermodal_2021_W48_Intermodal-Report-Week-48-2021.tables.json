@@ -1926,7 +1926,7 @@
       {
         "issue_date": "2021-12-07",
         "report_week": 48,
-        "fuel_grade": "Bunker",
+        "fuel_grade": "MGO",
         "port": "Rotterdam",
         "price_usd_per_mt": 580.0,
         "prior_price_usd_per_mt": 642.0,
@@ -1936,7 +1936,7 @@
       {
         "issue_date": "2021-12-07",
         "report_week": 48,
-        "fuel_grade": "Bunker",
+        "fuel_grade": "MGO",
         "port": "Houston",
         "price_usd_per_mt": 642.5,
         "prior_price_usd_per_mt": 701.5,
@@ -1946,7 +1946,7 @@
       {
         "issue_date": "2021-12-07",
         "report_week": 48,
-        "fuel_grade": "Bunker",
+        "fuel_grade": "MGO",
         "port": "Singapore",
         "price_usd_per_mt": 603.5,
         "prior_price_usd_per_mt": 674.0,
@@ -1956,7 +1956,7 @@
       {
         "issue_date": "2021-12-07",
         "report_week": 48,
-        "fuel_grade": "Bunker",
+        "fuel_grade": "380cst",
         "port": "Rotterdam",
         "price_usd_per_mt": 394.5,
         "prior_price_usd_per_mt": 428.0,
@@ -1966,7 +1966,7 @@
       {
         "issue_date": "2021-12-07",
         "report_week": 48,
-        "fuel_grade": "Bunker",
+        "fuel_grade": "380cst",
         "port": "Houston",
         "price_usd_per_mt": 438.0,
         "prior_price_usd_per_mt": 467.5,
@@ -1976,7 +1976,7 @@
       {
         "issue_date": "2021-12-07",
         "report_week": 48,
-        "fuel_grade": "Bunker",
+        "fuel_grade": "380cst",
         "port": "Singapore",
         "price_usd_per_mt": 409.0,
         "prior_price_usd_per_mt": 457.0,
@@ -1986,7 +1986,7 @@
       {
         "issue_date": "2021-12-07",
         "report_week": 48,
-        "fuel_grade": "Bunker",
+        "fuel_grade": "VLSFO",
         "port": "Rotterdam",
         "price_usd_per_mt": 538.0,
         "prior_price_usd_per_mt": 566.0,
@@ -1996,7 +1996,7 @@
       {
         "issue_date": "2021-12-07",
         "report_week": 48,
-        "fuel_grade": "Bunker",
+        "fuel_grade": "VLSFO",
         "port": "Houston",
         "price_usd_per_mt": 551.5,
         "prior_price_usd_per_mt": 594.0,
@@ -2006,21 +2006,11 @@
       {
         "issue_date": "2021-12-07",
         "report_week": 48,
-        "fuel_grade": "Bunker",
+        "fuel_grade": "VLSFO",
         "port": "Singapore",
         "price_usd_per_mt": 607.0,
         "prior_price_usd_per_mt": 627.0,
         "change_pct": "-3.2%",
-        "source_file": "intermodal_2021_W48_Intermodal-Report-Week-48-2021.pdf"
-      },
-      {
-        "issue_date": "2021-12-07",
-        "report_week": 48,
-        "fuel_grade": "Bunker",
-        "port": "Piraeus",
-        "price_usd_per_mt": 16.85,
-        "prior_price_usd_per_mt": null,
-        "change_pct": null,
         "source_file": "intermodal_2021_W48_Intermodal-Report-Week-48-2021.pdf"
       }
     ],

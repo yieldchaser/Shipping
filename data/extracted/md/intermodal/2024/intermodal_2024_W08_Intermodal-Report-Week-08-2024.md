@@ -244,3 +244,76 @@ The demolition market retains a rather sluggish pace entering 2024. Vessel suppl
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | XIN XIANG RUI | 22,154 | 5,119 | 1992 | SAIKI, Japan | BC | undisclosed | Bangladeshi |
 | NAND RAJGADI | 2,255 | 813 | 1991 | MAGDALLA, India | GENERAL CARGO | undisclosed | Indian |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 23-Feb-24 | 22-Feb-24 | 21-Feb-24 | 20-Feb-24 | 19-Feb-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.248 | 4.331 | 4.319 | 4.275 | 4.317 | -0.8% |
+| Stock Exchange Data | S&P 500 | 5,088.80 | 5,087.03 | 4,981.80 | 4,975.51 | market closed | 1.7% |
+| Stock Exchange Data | Nasdaq | 17,937.61 | 18,004.70 | 17,478.91 | 17,546.10 | market closed | 1.4% |
+| Stock Exchange Data | Dow Jones | 39,131.53 | 39,068.98 | 38,612.18 | 38,564.03 | market closed | 1.0% |
+| Stock Exchange Data | FTSE 100 | 7,706.28 | 7,684.49 | 7,662.51 | 7,719.21 | 7,728.50 | -0.1% |
+| Stock Exchange Data | FTSE All-Share UK | 4,202.76 | 4,195.17 | 4,180.19 | 4,206.04 | 4,213.95 | -0.1% |
+| Stock Exchange Data | CAC40 | 7,966.68 | 7,911.60 | 7,812.09 | 7,795.22 | 7,768.55 | 2.6% |
+| Stock Exchange Data | Xetra Dax | 17,419.33 | 17,370.45 | 17,118.12 | 17,068.43 | 17,092.26 | 1.8% |
+| Stock Exchange Data | Nikkei | 39,098.68 | 39,098.68 | 38,262.16 | 38,363.61 | 38,470.38 | 1.6% |
+| Stock Exchange Data | Hang Seng | 16,742.95 | 16,742.95 | 16,503.10 | 16,247.51 | 16,155.61 | 2.5% |
+| Stock Exchange Data | DJ US Maritime | 288.60 | 281.31 | 281.31 | 278.82 | 280.82 | 2.1% |
+| Currencies | € / $ | 1.08 | 1.08 | 1.08 | 1.08 | 1.08 | 0.4% |
+| Currencies | £ / $ | 1.27 | 1.26 | 1.26 | 1.26 | 1.26 | 0.6% |
+| Currencies | $ / ¥ | 150.50 | 150.51 | 150.28 | 149.99 | 150.11 | 0.2% |
+| Currencies | $ / NoK | 10.54 | 10.49 | 10.48 | 10.48 | 10.48 | 0.4% |
+| Currencies | Yuan / $ | 7.20 | 7.19 | 7.19 | 7.19 | 7.20 | 0.0% |
+| Currencies | Won / $ | 1,329.95 | 1,327.25 | 1,333.04 | 1,333.79 | 1,333.72 | -0.1% |
+| Currencies | $ INDEX | 103.94 | 103.96 | 104.01 | 104.08 | 104.29 | -0.3% |
+
+## Bunker Prices
+
+| Grade | Port | 23-Feb-24 | 16-Feb-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 813.0 | 827.0 | -1.7% |
+| MGO | Houston | 837.0 | 870.5 | -3.8% |
+| MGO | Singapore | 808.5 | 822.0 | -1.6% |
+| 380cst | Rotterdam | 466.5 | 462.0 | 1.0% |
+| 380cst | Houston | 469.5 | 466.5 | 0.6% |
+| 380cst | Singapore | 451.0 | 450.5 | 0.1% |
+| VLSFO | Rotterdam | 581.0 | 577.5 | 0.6% |
+| VLSFO | Houston | 636.5 | 638.5 | -0.3% |
+| VLSFO | Singapore | 642.5 | 652.5 | -1.5% |
+
+## Oil Prices
+
+| Category | Indicator | 23-Feb-24 | 16-Feb-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 81.6 | 83.5 | -2.2% |
+| OIL | WTI | 76.5 | 79.2 | -3.4% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 23-Feb-24 | 16-Feb-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.12 | 18.35 | -1.3% |
+| COSTAMARE INC | NYSE | USD | 11.34 | 11.15 | 1.7% |
+| DANAOS CORPORATION | NYSE | USD | 73.40 | 71.67 | 2.4% |
+| DIANA SHIPPING | NYSE | USD | 2.96 | 2.87 | 3.1% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 61.00 | 56.33 | 8.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 33.31 | 35.73 | -6.8% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.12 | 2.21 | -4.1% |
+| SAFE BULKERS INC | NYSE | USD | 4.53 | 4.28 | 5.8% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 8.04 | 7.51 | 7.1% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 23.83 | 22.04 | 8.1% |
+| STEALTHGAS INC | NASDAQ | USD | 6.32 | 7.06 | -10.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 23.78 | 24.94 | -4.7% |
+
+## Macro-economic headlines
+
+• EU: the HCOB euro area composite PMI stood at 48.9 in February, compared with 47.9 in the previous month. The same index fell to 46.1 in the manufacturing sector (from 46.6) and to 50 in the services sector (from 48.8). The bloc's CPI was 2.8% in January.
+
+• US: The S&P Global Composite PMI was 51.4 in February, down from 52 in the previous month. The services PMI fell to 51.3 (from 52.5), while the manufacturing PMI was 51.5 (from 50.7). Home sales rose 3.1% to 4 million in January.
+
+• UK: The S&P Global/CIPS UK Composite PMI stood at 53.3 in February, up from 52.9 in the previous month. The manufacturing PMI stood at 47.1 (47 previously), while the services PMI was unchanged at 54.3.

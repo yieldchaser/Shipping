@@ -257,3 +257,77 @@ Turkey's ship recycling market remains steady, supported by a healthy flow of ca
 | USD/INR | 90.56 | 90.60 | -0.05% | 91.98 |
 | USD/PKR | 279.60 | 279.88 | -0.10% | 280.05 |
 | USD/TRY | 43.68 | 43.60 | 0.17% | 43.68 |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 6-Mar-26 | 5-Mar-26 | 4-Mar-26 | 3-Mar-26 | 2-Mar-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.132 | 4.146 | 4.082 | 4.057 | 4.052 | 4.3% |
+| Stock Exchange Data | S&P 500 | 6,740.02 | 6,830.71 | 6,869.50 | 6,816.63 | 6,881.62 | -2.0% |
+| Stock Exchange Data | Nasdaq | 24,643.02 | 25,020.41 | 25,093.68 | 24,720.08 | 24,992.60 | -1.3% |
+| Stock Exchange Data | Dow Jones | 47,501.55 | 47,954.74 | 48,739.41 | 48,501.27 | 48,904.78 | -3.0% |
+| Stock Exchange Data | FTSE 100 | 10,284.75 | 10,413.94 | 10,567.65 | 10,484.13 | 10,780.11 | -5.7% |
+| Stock Exchange Data | FTSE All-Share UK | 5,519.58 | 5,586.55 | 5,664.60 | 5,619.28 | 5,780.25 | -5.7% |
+| Stock Exchange Data | CAC40 | 7,993.49 | 8,045.80 | 8,167.73 | 8,103.84 | 8,394.32 | -6.8% |
+| Stock Exchange Data | Xetra Dax | 23,591.03 | 23,815.75 | 24,205.36 | 23,790.65 | 24,638.00 | -6.7% |
+| Stock Exchange Data | Nikkei | 55,620.84 | 55,278.06 | 54,245.54 | 56,279.05 | 58,057.24 | -3.3% |
+| Stock Exchange Data | Hang Seng | 25,757.29 | 25,321.34 | 25,249.48 | 25,768.08 | 26,059.85 | -3.3% |
+| Stock Exchange Data | DJ US Maritime | 418.85 | 427.65 | 438.28 | 439.30 | 436.48 | -1.7% |
+| Currencies | € / $ | 1.16 | 1.16 | 1.16 | 1.16 | 1.17 | -1.7% |
+| Currencies | £ / $ | 1.34 | 1.34 | 1.34 | 1.34 | 1.34 | -0.5% |
+| Currencies | $ / ¥ | 157.80 | 157.59 | 157.06 | 157.74 | 157.37 | 1.1% |
+| Currencies | $ / NoK | 9.59 | 9.68 | 9.63 | 9.67 | 9.58 | 0.8% |
+| Currencies | Yuan / $ | 6.90 | 6.89 | 6.90 | 6.90 | 6.88 | 0.6% |
+| Currencies | Won / $ | 1,482.03 | 1,481.15 | 1,462.32 | 1,480.86 | 1,453.65 | 2.9% |
+| Currencies | $ INDEX | 98.99 | 99.32 | 98.77 | 99.05 | 98.38 | 1.1% |
+
+## Bunker Prices
+
+| Grade | Port | 6-Mar-26 | 27-Feb-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,053.5 | 720.0 | 46.3% |
+| MGO | Houston | 1,138.5 | 710.0 | 60.4% |
+| MGO | Singapore | 1,383.0 | 709.5 | 94.9% |
+| 380cst | Rotterdam | 607.0 | 438.0 | 38.6% |
+| 380cst | Houston | 564.5 | 389.0 | 45.1% |
+| 380cst | Singapore | 722.0 | 436.5 | 65.4% |
+| VLSFO | Rotterdam | 631.5 | 489.5 | 29.0% |
+| VLSFO | Houston | 668.0 | 494.5 | 35.1% |
+| VLSFO | Singapore | 822.5 | 521.5 | 57.7% |
+
+## Oil Prices
+
+| Category | Indicator | 6-Mar-26 | 27-Feb-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 92.7 | 85.4 | 8.5% |
+| OIL | WTI | 90.9 | 81.0 | 12.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 06-Mar-26 | 27-Feb-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 21.96 | 22.71 | -3.3% |
+| COSTAMARE INC | NYSE | USD | 16.70 | 17.57 | -5.0% |
+| DANAOS CORPORATION | NYSE | USD | 109.92 | 117.95 | -6.8% |
+| DIANA SHIPPING | NYSE | USD | 2.36 | 2.58 | -8.5% |
+| EUROSEAS LTD. | NASDAQ | USD | 64.76 | 68.74 | -5.8% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.95 | 2.14 | -8.9% |
+| SAFE BULKERS INC | NYSE | USD | 6.10 | 6.56 | -7.0% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 13.28 | 14.35 | -7.5% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 23.66 | 26.29 | -10.0% |
+| STEALTHGAS INC | NASDAQ | USD | 10.16 | 8.95 | 13.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 34.75 | 35.30 | -1.6% |
+
+## Macro-economic headlines
+
+In China, the Manufacturing PMI remained in the contraction zone in February, registering 49, slightly below market expectations of 49.1 and down from January’s 49.3. Meanwhile, CPI in February rose by 1.3% y-o-y, surpassing estimations of 0.9% and January’s pace of 0.2%.
+
+In Germany, industrial production declined 0.5% month-on-month in January, improving from December’s 1.9% drop but missing the expected 1% increase.
+
+In the United States, the S&P Global Composite PMI came in at 51.9 in February, below forecasts of 52.3 and down from January’s 53.
+
+In Japan, GDP rose 0.3% q-o-q in Q4 2025, exceeding market forecasts of 0.1% and rebounding from a 0.6% contraction in Q3.

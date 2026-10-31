@@ -347,3 +347,79 @@ The demolition market enjoyed another improvement on levels offered by the India
 | CHEM TRANSIA | 1,204 | 541 | 1991 | SHITANOE, Japan | TANKER | undisclosed | undisclosed |  |
 
 © Intermodal Research 01/02/2022 8
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 28-Jan-22 | 27-Jan-22 | 26-Jan-22 | 25-Jan-22 | 24-Jan-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.782 | 1.807 | 1.848 | 1.783 | 1.735 | 2.0% |
+| Stock Exchange Data | S&P 500 | 4,431.85 | 4,326.51 | 4,349.93 | 4,356.45 | 4,397.94 | 0.8% |
+| Stock Exchange Data | Nasdaq | 13,770.57 | 13,352.78 | 13,542.12 | 13,539.30 | 13,855.13 | 0.0% |
+| Stock Exchange Data | Dow Jones | 34,725.47 | 34,160.78 | 34,168.09 | 34,297.73 | 34,364.50 | 1.3% |
+| Stock Exchange Data | FTSE 100 | 7,466.07 | 7,554.31 | 7,469.78 | 7,371.46 | 7,297.15 | -0.4% |
+| Stock Exchange Data | FTSE All-Share UK | 4,182.58 | 4,230.83 | 4,192.70 | 4,139.47 | 4,099.16 | -0.8% |
+| Stock Exchange Data | CAC40 | 6,965.88 | 7,023.80 | 6,981.96 | 6,837.96 | 6,787.79 | -1.5% |
+| Stock Exchange Data | Xetra Dax | 15,318.95 | 15,524.27 | 15,459.39 | 15,123.87 | 15,011.13 | 2.1% |
+| Stock Exchange Data | Nikkei | 26,717.34 | 26,170.30 | 27,011.33 | 27,131.34 | 27,588.37 | -3.2% |
+| Stock Exchange Data | Hang Seng | 23,807.00 | 23,807.00 | 24,289.90 | 24,243.61 | 24,656.46 | -4.6% |
+| Stock Exchange Data | DJ US Maritime | 216.61 | 210.11 | 203.62 | 205.22 | 206.93 | 5.7% |
+| Currencies | € / $ | 1.11 | 1.11 | 1.12 | 1.13 | 1.13 | -1.7% |
+| Currencies | £ / $ | 1.34 | 1.34 | 1.35 | 1.35 | 1.35 | -1.1% |
+| Currencies | $ / ¥ | 115.22 | 115.35 | 114.72 | 113.88 | 114.00 | 1.4% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.11 | 0.11 | 0.11 | -1.3% |
+| Currencies | Yuan / $ | 6.36 | 6.37 | 6.32 | 6.33 | 6.33 | 0.4% |
+| Currencies | Won / $ | 1,209.81 | 1,203.60 | 1,200.81 | 1,196.30 | 1,195.76 | 1.4% |
+| Currencies | $ INDEX | 97.27 | 97.25 | 96.39 | 95.95 | 95.92 | 1.7% |
+
+## Bunker Prices
+
+| Grade | Port | 28-Jan-22 | 21-Jan-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 793.0 | 758.5 | 4.5% |
+| MGO | Houston | 875.0 | 840.0 | 4.2% |
+| MGO | Singapore | 780.5 | 750.5 | 4.0% |
+| 380cst | Rotterdam | 518.0 | 491.5 | 5.4% |
+| 380cst | Houston | 558.5 | 514.5 | 8.6% |
+| 380cst | Singapore | 526.0 | 504.0 | 4.4% |
+| VLSFO | Rotterdam | 659.0 | 652.0 | 1.1% |
+| VLSFO | Houston | 669.5 | 664.5 | 0.8% |
+| VLSFO | Singapore | 686.0 | 687.5 | -0.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 28-Jan-22 | 21-Jan-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.33 | 15.18 | 1.0% |
+| COSTAMARE INC | NYSE | USD | 13.23 | 12.11 | 9.2% |
+| DANAOS CORPORATION | NYSE | USD | 91.46 | 78.12 | 17.1% |
+| DIANA SHIPPING | NYSE | USD | 3.62 | 3.57 | 1.4% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 45.61 | 40.43 | 12.8% |
+| EUROSEAS LTD. | NASDAQ | USD | 29.61 | 25.78 | 14.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.79 | 1.73 | 3.5% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 3.33 | 3.31 | 0.6% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 28.47 | 24.71 | 15.2% |
+| SAFE BULKERS INC | NYSE | USD | 3.51 | 3.34 | 5.1% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.00 | 0.88 | 13.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 22.47 | 20.10 | 11.8% |
+| STEALTHGAS INC | NASDAQ | USD | 2.20 | 2.09 | 5.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 7.34 | 7.23 | 1.5% |
+
+## Market News
+
+“Safe Bulkers unveils Athens €100m bond sale plan
+
+Greek shipowners cash in on their aura to achieve low funding costs in their home market
+
+US-listed Safe Bulkers is taking the well-trodden path opened last year by Greek peers Costamare and Capital Product Partners (CPLP) to raise funds on Athens’ fledgling shipping bond market.
+
+The owner of nearly 50 bulkers unveiled on 31 January plans to raise up to €100m ($113m) in its home country through unsecured, five-year paper.
+
+Bookbuilding will run between 9 and 11 February led by local lenders Piraeus, Alpha and Optima Bank and broker Euroxx Securities.
+
+The bonds are to start trading on the Athens Exchange on Valentine’s day, 14 February.
+
+Formally, Safe Bulkers intends to use bond proceeds to finance the acquisition of four ships that are already in its fleet.Deeper down, however, it sells the bonds to diversify its sources of funding in a local market keen to invest in shipping debt.In contrast to sentiment other countries, Greece’s monied classes consider shipping...”(TradeWinds)

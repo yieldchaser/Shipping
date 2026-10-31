@@ -238,3 +238,77 @@ Turkey's market remains subdued, with currency weakness limiting buyers' purchas
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | MARIA | 27,369 | 5,681 | 1997 | HANJIN, S. Korea | BC | $520/Ldt | Pakistani |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 21-Aug-26 | 20-Aug-26 | 19-Aug-26 | 18-Aug-26 | 17-Aug-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.738 | 4.698 | 4.653 | 4.706 | 4.724 | 0.9% |
+| Stock Exchange Data | S&P 500 | 7,674.37 | 7,641.16 | 7,707.98 | 7,691.76 | 7,745.06 | -1.4% |
+| Stock Exchange Data | Nasdaq | 29,308.86 | 29,213.17 | 29,426.02 | 29,490.96 | 29,995.38 | -2.5% |
+| Stock Exchange Data | Dow Jones | 53,277.01 | 52,759.21 | 53,463.05 | 53,343.40 | 53,459.78 | -0.8% |
+| Stock Exchange Data | FTSE 100 | 10,816.56 | 10,748.16 | 10,743.35 | 10,728.04 | 10,720.30 | 0.6% |
+| Stock Exchange Data | FTSE All-Share UK | 5,832.63 | 5,794.50 | 5,795.89 | 5,786.40 | 5,786.82 | 0.5% |
+| Stock Exchange Data | CAC40 | 8,484.43 | 8,453.09 | 8,501.91 | 8,509.36 | 8,579.60 | -1.8% |
+| Stock Exchange Data | Xetra Dax | 26,136.56 | 25,983.04 | 26,091.33 | 26,128.36 | 26,338.61 | -1.1% |
+| Stock Exchange Data | Nikkei | 66,016.36 | 66,216.79 | 65,326.42 | 67,460.73 | 69,220.25 | -3.9% |
+| Stock Exchange Data | Hang Seng | 26,009.46 | 25,698.49 | 25,495.07 | 25,471.15 | 25,453.23 | 3.6% |
+| Stock Exchange Data | DJ US Maritime | 459.32 | 456.99 | 455.19 | 458.70 | 463.26 | 0.9% |
+| Currencies | € / $ | 1.17 | 1.17 | 1.17 | 1.16 | 1.16 | 1.0% |
+| Currencies | £ / $ | 1.36 | 1.36 | 1.36 | 1.35 | 1.35 | 0.8% |
+| Currencies | $ / ¥ | 158.93 | 159.05 | 158.16 | 159.62 | 159.43 | -0.2% |
+| Currencies | $ / NoK | 9.29 | 9.34 | 9.32 | 9.41 | 9.41 | -1.4% |
+| Currencies | Yuan / $ | 6.72 | 6.72 | 6.73 | 6.74 | 6.74 | -0.3% |
+| Currencies | Won / $ | 1,385.80 | 1,393.85 | 1,387.97 | 1,412.64 | 1,415.48 | -2.2% |
+| Currencies | $ INDEX | 98.80 | 98.90 | 98.83 | 99.66 | 99.64 | -0.9% |
+
+## Bunker Prices
+
+| Grade | Port | 21-Aug-26 | 14-Aug-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,277.0 | 1,253.3 | 1.9% |
+| MGO | Houston | 1,285.3 | 1,237.8 | 3.8% |
+| MGO | Singapore | 1,230.3 | 1,210.8 | 1.6% |
+| 380cst | Rotterdam | 557.5 | 553.3 | 0.8% |
+| 380cst | Houston | 474.8 | 449.3 | 5.7% |
+| 380cst | Singapore | 654.0 | 628.3 | 4.1% |
+| VLSFO | Rotterdam | 673.3 | 671.0 | 0.3% |
+| VLSFO | Houston | 706.8 | 689.0 | 2.6% |
+| VLSFO | Singapore | 812.0 | 821.3 | -1.1% |
+
+## Oil Prices
+
+| Category | Indicator | 21-Aug-26 | 14-Aug-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 94.4 | 88.5 | 6.6% |
+| OIL | WTI | 87.1 | 82.4 | 5.7% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 21-Aug-26 | 14-Aug-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 22.61 | 22.61 | 0.0% |
+| COSTAMARE INC | NYSE | USD | 15.62 | 14.64 | 6.7% |
+| DANAOS CORPORATION | NYSE | USD | 149.75 | 141.92 | 5.5% |
+| DIANA SHIPPING | NYSE | USD | 2.71 | 2.48 | 9.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 75.03 | 73.80 | 1.7% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 3.74 | 3.64 | 2.7% |
+| SAFE BULKERS INC | NYSE | USD | 8.53 | 7.75 | 10.1% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 17.50 | 16.77 | 4.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 30.50 | 29.05 | 5.0% |
+| STEALTHGAS INC | NASDAQ | USD | 9.63 | 9.46 | 1.8% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 42.71 | 41.45 | 3.0% |
+
+## Macro-economic headlines
+
+In the Eurozone, CPI rose by 2.9% y-o-y in July, in line with market forecasts and slightly above June’s 2.8% increase.
+
+In China, the PBoC kept its benchmark lending rates unchanged in August for the fifteenth consecutive month, in line with market expectations. The one-year LPR remained at 3.0%, while the five-year LPR, the benchmark for mortgage rates, was held at 3.5%.
+
+In Germany, PPI increased by 3% y-o-y in July, surpassing estimations of 2.7% and June’s 1.8%.
+
+In Japan imports rose by 27.8% y-o-y in July, exceeding market forecasts of 26.5% and June’s 25.4%

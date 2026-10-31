@@ -381,3 +381,79 @@ Activity in the demolition sector was slow last week due to a very short supply 
 | CAMILLA D | 7,480 | 4,821 | 1982 | KROEGERWERFT RENDSBURG, Germany | RORO | undisclosed | undisclosed | sub-cont options |
 
 © Intermodal Research 05/04/2022 8
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 1-Apr-22 | 31-Mar-22 | 30-Mar-22 | 29-Mar-22 | 28-Mar-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 2.377 | 2.327 | 2.358 | 2.400 | 2.477 | -4.6% |
+| Stock Exchange Data | S&P 500 | 4,545.86 | 4,530.41 | 4,602.45 | 4,631.60 | 4,543.06 | 0.1% |
+| Stock Exchange Data | Nasdaq | 14,261.50 | 14,220.52 | 14,442.28 | 14,619.64 | 14,354.90 | 0.7% |
+| Stock Exchange Data | Dow Jones | 34,818.27 | 34,678.35 | 35,228.81 | 35,294.19 | 34,955.89 | -0.1% |
+| Stock Exchange Data | FTSE 100 | 7,537.90 | 7,515.68 | 7,578.75 | 7,537.25 | 7,473.14 | 0.7% |
+| Stock Exchange Data | FTSE All-Share UK | 4,199.48 | 4,187.78 | 4,219.75 | 4,208.38 | 4,164.50 | 0.8% |
+| Stock Exchange Data | CAC40 | 6,684.31 | 6,659.87 | 6,741.59 | 6,792.16 | 6,589.11 | 2.0% |
+| Stock Exchange Data | Xetra Dax | 14,446.48 | 14,414.75 | 14,606.05 | 14,820.33 | 14,417.37 | 0.2% |
+| Stock Exchange Data | Nikkei | 27,665.98 | 27,821.43 | 28,027.25 | 28,252.42 | 27,943.89 | -1.0% |
+| Stock Exchange Data | Hang Seng | 21,996.85 | 21,996.85 | 22,232.03 | 21,927.63 | 21,684.97 | 0.2% |
+| Stock Exchange Data | DJ US Maritime | 232.60 | 236.97 | 243.92 | 245.86 | 240.35 | -3.7% |
+| Currencies | € / $ | 1.11 | 1.11 | 1.12 | 1.11 | 1.10 | 0.6% |
+| Currencies | £ / $ | 1.31 | 1.31 | 1.31 | 1.31 | 1.31 | -0.7% |
+| Currencies | $ / ¥ | 122.51 | 121.76 | 122.07 | 123.13 | 123.67 | 0.3% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.12 | 0.12 | 0.11 | -1.2% |
+| Currencies | Yuan / $ | 6.36 | 6.34 | 6.35 | 6.36 | 6.37 | -0.1% |
+| Currencies | Won / $ | 1,219.77 | 1,214.60 | 1,210.54 | 1,209.41 | 1,223.80 | -0.5% |
+| Currencies | $ INDEX | 98.63 | 98.31 | 97.79 | 98.40 | 99.09 | -0.2% |
+
+## Bunker Prices
+
+| Grade | Port | 1-Apr-22 | 25-Mar-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,084.5 | 1,244.0 | -12.8% |
+| MGO | Houston | 1,107.0 | 1,267.5 | -12.7% |
+| MGO | Singapore | 1,076.0 | 1,122.0 | -4.1% |
+| 380cst | Rotterdam | 647.0 | 703.5 | -8.0% |
+| 380cst | Houston | 657.5 | 733.5 | -10.4% |
+| 380cst | Singapore | 670.0 | 691.0 | -3.0% |
+| VLSFO | Rotterdam | 873.0 | 911.5 | -4.2% |
+| VLSFO | Houston | 857.5 | 931.5 | -7.9% |
+| VLSFO | Singapore | 853.0 | 903.5 | -5.6% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 01-Apr-22 | 25-Mar-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.76 | 18.49 | 1.5% |
+| COSTAMARE INC | NYSE | USD | 17.13 | 17.02 | 0.6% |
+| DANAOS CORPORATION | NYSE | USD | 104.34 | 102.37 | 1.9% |
+| DIANA SHIPPING | NYSE | USD | 5.24 | 5.23 | 0.2% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 69.20 | 65.29 | 6.0% |
+| EUROSEAS LTD. | NASDAQ | USD | 29.00 | 27.95 | 3.8% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.11 | 2.37 | -11.0% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 3.66 | 3.69 | -0.8% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 35.41 | 33.34 | 6.2% |
+| SAFE BULKERS INC | NYSE | USD | 4.77 | 4.59 | 3.9% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.15 | 1.15 | 0.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 30.36 | 29.42 | 3.2% |
+| STEALTHGAS INC | NASDAQ | USD | 2.37 | 2.72 | -12.9% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 9.24 | 8.85 | 4.4% |
+
+## Market News
+
+“Oslo Exchange’s shipping market cap tops $20bn as more listings secured
+
+Bourse boss Oivind Amundsen says Norway has cemented its leading position for public shipowners
+
+Norway has firmly cemented itself as the leader in publicly listed shipping companies after a string of successes in recent months.
+
+Oivind Amundsen, chief executive of the Oslo Stock Exchange (Oslo Bors), said the country offers unmatched infrastructure for raising capital amid a market uptick in new listing sectors such as container ships and car carriers.
+
+The bourse, part of the Euronext group, now hosts about 40 maritime companies that boast a combined market cap of close to €20bn ($22m).
+
+This is up from less than 30 companies a few years ago.
+
+The owners have also been raising large amounts of money through follow-on offerings and the Oslo bond market...(TradeWinds)

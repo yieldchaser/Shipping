@@ -320,3 +320,85 @@ Momentum was negative on the demolition front for another week, as global steel 
 | PROSPERITY | 27,652 | 5,903 | 1986 | MITSUBISHI NAGASAKI, Japan | BC | undisclosed | Bangladeshi |
 
 © Intermodal Research 25/10/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 21-Oct-22 | 20-Oct-22 | 19-Oct-22 | 18-Oct-22 | 17-Oct-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.213 | 4.226 | 4.127 | 3.998 | 4.015 | 5.1% |
+| Stock Exchange Data | S&P 500 | 3,752.75 | 3,665.78 | 3,695.16 | 3,719.98 | 3,583.07 | 4.7% |
+| Stock Exchange Data | Nasdaq | 10,859.72 | 10,614.84 | 10,680.51 | 10,772.40 | 10,675.80 | 5.2% |
+| Stock Exchange Data | Dow Jones | 31,082.56 | 30,333.59 | 30,423.81 | 30,523.80 | 30,185.82 | 4.9% |
+| Stock Exchange Data | FTSE 100 | 6,969.73 | 6,943.91 | 6,924.99 | 6,936.74 | 6,920.24 | 1.6% |
+| Stock Exchange Data | FTSE All-Share UK | 3,796.89 | 3,790.95 | 3,777.93 | 3,792.79 | 3,784.45 | 1.5% |
+| Stock Exchange Data | CAC40 | 6,035.39 | 6,086.90 | 6,040.72 | 6,067.00 | 6,040.66 | 1.7% |
+| Stock Exchange Data | Xetra Dax | 12,730.90 | 12,767.41 | 12,741.41 | 12,765.61 | 12,649.03 | 0.6% |
+| Stock Exchange Data | Nikkei | 26,890.58 | 27,006.96 | 27,257.38 | 27,156.14 | 26,775.79 | 0.4% |
+| Stock Exchange Data | Hang Seng | 16,280.22 | 16,280.22 | 16,511.28 | 16,914.58 | 16,612.90 | -0.7% |
+| Stock Exchange Data | DJ US Maritime | 227.48 | 223.57 | 225.71 | 224.26 | 220.42 | 7.6% |
+| Currencies | € / $ | 0.99 | 0.98 | 0.98 | 0.99 | 0.98 | 1.4% |
+| Currencies | £ / $ | 1.13 | 1.12 | 1.12 | 1.13 | 1.14 | 1.1% |
+| Currencies | $ / ¥ | 147.68 | 150.19 | 149.81 | 149.22 | 148.97 | -0.7% |
+| Currencies | $ / NoK | 0.09 | 0.09 | 0.09 | 0.09 | 0.10 | -1.1% |
+| Currencies | Yuan / $ | 7.24 | 7.22 | 7.23 | 7.20 | 7.20 | 0.7% |
+| Currencies | Won / $ | 1,429.13 | 1,430.65 | 1,435.35 | 1,425.41 | 1,431.25 | -0.9% |
+| Currencies | $ INDEX | 112.01 | 112.88 | 112.98 | 112.13 | 112.04 | -1.1% |
+
+## Bunker Prices
+
+| Grade | Port | 21-Oct-22 | 14-Oct-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,012.0 | 1,077.5 | -6.1% |
+| MGO | Houston | 1,053.5 | 1,247.5 | -15.6% |
+| MGO | Singapore | 1,045.0 | 1,079.0 | -3.2% |
+| 380cst | Rotterdam | 375.5 | 390.5 | -3.8% |
+| 380cst | Houston | 450.5 | 446.0 | 1.0% |
+| 380cst | Singapore | 389.0 | 397.5 | -2.1% |
+| VLSFO | Rotterdam | 644.5 | 668.0 | -3.5% |
+| VLSFO | Houston | 651.0 | 679.5 | -4.2% |
+| VLSFO | Singapore | 712.5 | 738.5 | -3.5% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 21-Oct-22 | 14-Oct-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.08 | 14.16 | 6.5% |
+| COSTAMARE INC | NYSE | USD | 9.47 | 9.57 | -1.0% |
+| DANAOS CORPORATION | NYSE | USD | 58.60 | 58.38 | 0.4% |
+| DIANA SHIPPING | NYSE | USD | 4.17 | 4.18 | -0.2% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 49.82 | 49.47 | 0.7% |
+| EUROSEAS LTD. | NASDAQ | USD | 21.84 | 20.18 | 8.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.31 | 1.35 | -3.0% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.96 | 1.93 | 1.6% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 25.95 | 25.21 | 2.9% |
+| SAFE BULKERS INC | NYSE | USD | 2.70 | 2.70 | 0.0% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.49 | 0.49 | 0.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.25 | 20.43 | -5.8% |
+| STEALTHGAS INC | NASDAQ | USD | 3.07 | 3.09 | -0.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.92 | 17.60 | 1.8% |
+
+## Market News
+
+“Top Ships shares fall 14% after stock offering expanded
+
+Greek tanker owner Top Ships has seen its share price drop after it upsized a dilutive new stock offering.
+
+The Evangelos Pistiolis-led company said it would now be selling 3.26m units consisting of one share and one warrant to buy another.
+
+This is up from 2m units when the transaction was announced in September.
+
+The stock fell nearly 14% to $4.74 on the Nasdaq exchange in the US on Thursday.
+
+Top Ships will bank $15m from the deal, it said in a filing.
+
+This is based on a price of $4.60 per unit.
+
+The September offering was set to be priced at $4.50 to raise $8.3m.
+
+Proceeds will be used for general corporate purposes, the company has said.
+
+Last week, the owner halted a share offer... (TradeWinds)

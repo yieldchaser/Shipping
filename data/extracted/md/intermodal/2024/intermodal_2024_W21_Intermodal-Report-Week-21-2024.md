@@ -236,3 +236,75 @@ The current recycling market is characterized by limited activity, resulting in 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ANDHIKA NARESWARI | 71,290 | 10,308 | 1996 | NAMURA, Japan | BC | 515 | undisclosed |
 | POSEIDON M | 38,858 | 7,170 | 1994 | IHI, Japan | BC | undisclosed | Pakistani |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 31-May-24 | 30-May-24 | 29-May-24 | 28-May-24 | 27-May-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.503 | 4.550 | 4.616 | 4.548 | 4.461 | 0.7% |
+| Stock Exchange Data | S&P 500 | 5,277.51 | 5,235.48 | 5,266.95 | 5,306.04 | mrkt closed | -0.5% |
+| Stock Exchange Data | Nasdaq | 16,735.02 | 16,737.08 | 16,920.58 | 17,019.88 | mrkt closed | -11.0% |
+| Stock Exchange Data | Dow Jones | 38,686.32 | 38,111.48 | 38,441.54 | 38,852.86 | mrkt closed | -3.3% |
+| Stock Exchange Data | FTSE 100 | 8,275.38 | 8,231.05 | 8,183.07 | 8,254.18 | mrkt closed | -0.5% |
+| Stock Exchange Data | FTSE All-Share UK | 4,517.08 | 4,494.75 | 4,465.63 | 4,506.79 | mrkt closed | -0.5% |
+| Stock Exchange Data | CAC40 | 7,992.87 | 7,978.51 | 7,935.03 | 8,057.80 | 8,132.49 | -1.3% |
+| Stock Exchange Data | Xetra Dax | 18,497.94 | 18,496.79 | 18,473.29 | 18,677.87 | 18,774.71 | -1.0% |
+| Stock Exchange Data | Nikkei | 38,487.90 | 38,054.13 | 38,855.37 | 38,855.37 | 38,900.02 | -0.8% |
+| Stock Exchange Data | Hang Seng | 18,079.61 | 18,230.19 | 18,477.01 | 18,821.16 | 18,827.35 | -2.8% |
+| Stock Exchange Data | DJ US Maritime | 407.59 | 403.95 | 396.79 | 398.63 | mrkt closed | 5.6% |
+| Currencies | € / $ | 1.08 | 1.08 | 1.08 | 1.09 | 1.09 | 0.0% |
+| Currencies | £ / $ | 1.27 | 1.27 | 1.27 | 1.28 | 1.28 | 0.0% |
+| Currencies | $ / ¥ | 157.31 | 156.81 | 157.60 | 157.16 | 156.86 | 0.2% |
+| Currencies | $ / NoK | 10.47 | 10.54 | 10.59 | 10.51 | 10.48 | -1.1% |
+| Currencies | Yuan / $ | 7.24 | 7.23 | 7.25 | 7.24 | 7.24 | 0.0% |
+| Currencies | Won / $ | 1,381.68 | 1,374.74 | 1,370.08 | 1,362.42 | 1,359.93 | 1.2% |
+| Currencies | $ INDEX | 104.67 | 104.72 | 105.10 | 104.61 | 104.60 | -0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 31-May-24 | 24-May-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 740.5 | 731.0 | 1.3% |
+| MGO | Houston | 740.5 | 749.0 | -1.1% |
+| MGO | Singapore | 723.0 | 722.5 | 0.1% |
+| 380cst | Rotterdam | 481.5 | 468.0 | 2.9% |
+| 380cst | Houston | 479.0 | 473.0 | 1.3% |
+| 380cst | Singapore | 528.5 | 515.5 | 2.5% |
+| VLSFO | Rotterdam | 556.0 | 551.0 | 0.9% |
+| VLSFO | Houston | 586.0 | 571.5 | 2.5% |
+| VLSFO | Singapore | 599.0 | 602.0 | -0.5% |
+
+## Oil Prices
+
+| Category | Indicator | 31-May-24 | 24-May-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 81.6 | 82.1 | -0.6% |
+| OIL | WTI | 77.0 | 77.7 | -0.9% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 31-May-24 | 24-May-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 17.88 | 17.53 | 2.0% |
+| COSTAMARE INC | NYSE | USD | 16.01 | 15.07 | 6.2% |
+| DANAOS CORPORATION | NYSE | USD | 96.77 | 90.59 | 6.8% |
+| DIANA SHIPPING | NYSE | USD | 2.99 | 3.15 | -5.1% |
+| EUROSEAS LTD. | NASDAQ | USD | 38.08 | 37.73 | 0.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.33 | 2.25 | 3.6% |
+| SAFE BULKERS INC | NYSE | USD | 5.67 | 5.40 | 5.0% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 12.20 | 12.01 | 1.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 27.08 | 26.99 | 0.3% |
+| STEALTHGAS INC | NASDAQ | USD | 8.48 | 7.37 | 15.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 31.20 | 30.89 | 1.0% |
+
+## Macro-economic headlines
+
+• In the euro area, the Unemployment Rate was at 6.4% in April, slightly lower than in March (6.5%). CPI for May was up 2.6% on an annual basis and rose by 0.2% on the month. German CPI for May was at 2.4% yoy and 0.1% on the month.
+
+• In the US, the CB Consumer Confidence Index for May was at 102, up from 97.5 in April. GDP for Q1 rose by 1.3%, while Core PCE Price Index rose by 2.8% in April on an annual basis. Trade Balance for April was at -99.41bn. Lat, the Chicago PMI stood at 35.4 for May.
+
+• In China, the Composite PMI stood at 51.0 for May while Manufacturing PMI was at 49.5, down from 50.4 and Non- Manufacturing PMI was at 51.1, slightly down from 51.2.

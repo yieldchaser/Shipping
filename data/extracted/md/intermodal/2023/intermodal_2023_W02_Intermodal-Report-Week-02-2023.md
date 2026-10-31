@@ -343,3 +343,80 @@ This year's beginning seems like the perfect storm for the steel market and cons
 | SUPER SHUTTLE RORO | 6,897 | 5,382 | 1986 | FREDERIKSHAVN, Denmark | RORO | undisclosed | Indian |  |
 
 © Intermodal Research 17/01/2023 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 13-Jan-23 | 12-Jan-23 | 11-Jan-23 | 10-Jan-23 | 9-Jan-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.511 | 3.449 | 3.554 | 3.621 | 3.517 | -1.6% |
+| Stock Exchange Data | S&P 500 | 3,892.09 | 3,895.08 | 3,808.10 | 3,852.97 | 0.00 | -0.1% |
+| Stock Exchange Data | Nasdaq | 10,635.65 | 10,569.29 | 10,305.24 | 10,458.76 | 10,386.99 | 0.6% |
+| Stock Exchange Data | Dow Jones | 33,517.65 | 33,630.61 | 32,930.08 | 33,269.77 | 33,136.37 | -0.3% |
+| Stock Exchange Data | FTSE 100 | 7,724.94 | 7,699.49 | 7,633.45 | 7,585.19 | 7,554.09 | 0.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,221.46 | 4,210.58 | 4,178.67 | 4,154.17 | 4,131.41 | 0.3% |
+| Stock Exchange Data | CAC40 | 6,860.95 | 6,761.50 | 6,776.43 | 6,623.89 | 6,594.57 | 0.0% |
+| Stock Exchange Data | Xetra Dax | 14,610.02 | 14,436.31 | 14,490.78 | 14,181.67 | 14,069.26 | 3.8% |
+| Stock Exchange Data | Nikkei | 26,446.00 | 26,175.56 | 25,973.85 | 25,820.80 | 25,716.86 | 2.8% |
+| Stock Exchange Data | Hang Seng | 20,991.64 | 20,991.64 | 21,052.17 | 20,793.11 | 20,145.29 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 210.38 | 210.38 | 204.07 | 207.03 | 210.80 | 0.3% |
+| Currencies | € / $ | 1.08 | 1.09 | 1.08 | 1.07 | 1.07 | 1.7% |
+| Currencies | £ / $ | 1.22 | 1.22 | 1.22 | 1.22 | 1.22 | 1.1% |
+| Currencies | $ / ¥ | 127.90 | 129.10 | 131.98 | 132.11 | 131.73 | -3.2% |
+| Currencies | $ / NoK | 0.1017 | 0.1011 | 0.1001 | 0.1001 | 0.1009 | 1.5% |
+| Currencies | Yuan / $ | 6.70 | 6.74 | 6.77 | 6.78 | 6.77 | -2.0% |
+| Currencies | Won / $ | 1,237.69 | 1,239.46 | 1,242.35 | 1,241.16 | 1,239.66 | -1.3% |
+| Currencies | $ INDEX | 102.20 | 102.25 | 103.19 | 103.24 | 103.00 | -1.6% |
+
+## Bunker Prices
+
+| Grade | Port | 13-Jan-23 | 6-Jan-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 13-Jan-23 | 06-Jan-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.57 | 13.55 | 0.1% |
+| COSTAMARE INC | NYSE | USD | 9.55 | 9.43 | 1.3% |
+| DANAOS CORPORATION | NYSE | USD | 54.28 | 54.60 | -0.6% |
+| DIANA SHIPPING | NYSE | USD | 3.63 | 3.80 | -4.5% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 49.95 | 49.99 | -0.1% |
+| EUROSEAS LTD. | NASDAQ | USD | 19.05 | 18.64 | 2.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.13 | 1.13 | 0.0% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.70 | 1.71 | -0.6% |
+| SAFE BULKERS INC | NYSE | USD | 2.90 | 2.97 | -2.4% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.53 | 0.54 | -1.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.90 | 19.60 | 1.5% |
+| STEALTHGAS INC | NASDAQ | USD | 2.58 | 2.59 | -0.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 15.84 | 15.71 | 0.8% |
+
+## Market News
+
+“Staying put? Fredriksen buys $74m of Euronav stock after dumping merger deal
+
+Shipping magnate John Fredriksen has signalled he is going nowhere for now as a Euronav investor following his decision to pull out of a merger plan.
+
+The backer of tanker company Frontline has increased his stake in his Belgian rival to 20.31% from 17.78% after selling a 1% holding in December.
+
+Stock in Euronav crashed after the combination with Frontline collapsed earlier this month, as shareholders feared a Fredriksen sell-off.
+
+The deal consolidates the Fredriksen group as the second largest shareholder behind the Saverys family on 25%.
+
+That stake was enough to block a full legal merger of Frontline and Euronav.
+
+A filing by Fredriksen's private Famatown Finance shows an increased holding of 13.54%, with Frontline unchanged at 6.67%.
+
+The extra 2.53% would have...(TradeWinds)

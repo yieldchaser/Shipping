@@ -325,3 +325,81 @@ Realignments on average levels materialized last week in the demolition market a
 | HANCHANG GANGWON | 5,851 | 11,121 | 1996 | IHI, Japan | RO-RO/PASSENGER | undisclosed | undisclosed | as-is Korea basis, vessel was laid up - towage required |
 
 © Intermodal Research 29/03/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 25-Mar-22 | 24-Mar-22 | 23-Mar-22 | 22-Mar-22 | 21-Mar-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 2.492 | 2.341 | 2.321 | 2.373 | 2.315 | 16.0% |
+| Stock Exchange Data | S&P 500 | 4,543.06 | 4,520.16 | 4,456.24 | 4,511.61 | 4,463.12 | 1.8% |
+| Stock Exchange Data | Nasdaq | 14,169.30 | 14,191.84 | 13,922.60 | 14,108.82 | 13,838.46 | 2.0% |
+| Stock Exchange Data | Dow Jones | 34,861.24 | 34,707.94 | 34,358.50 | 34,807.46 | 34,552.99 | 0.3% |
+| Stock Exchange Data | FTSE 100 | 7,483.35 | 7,467.38 | 7,460.63 | 7,476.72 | 7,442.39 | 1.1% |
+| Stock Exchange Data | FTSE All-Share UK | 4,165.33 | 4,155.88 | 4,156.60 | 4,167.60 | 4,148.21 | 0.7% |
+| Stock Exchange Data | CAC40 | 6,553.68 | 6,555.77 | 6,581.43 | 6,659.41 | 6,582.33 | -1.0% |
+| Stock Exchange Data | Xetra Dax | 14,305.76 | 14,273.79 | 14,283.65 | 14,473.20 | 14,326.97 | -0.1% |
+| Stock Exchange Data | Nikkei | 28,149.84 | 28,149.84 | 28,110.39 | 28,040.16 | 27,224.11 | 3.4% |
+| Stock Exchange Data | Hang Seng | 21,945.95 | 21,945.95 | 22,154.08 | 21,889.28 | 21,221.34 | 2.1% |
+| Stock Exchange Data | DJ US Maritime | 241.53 | 237.75 | 237.92 | 235.23 | 235.78 | 4.1% |
+| Currencies | € / $ | 1.10 | 1.10 | 1.10 | 1.10 | 1.10 | -0.7% |
+| Currencies | £ / $ | 1.32 | 1.32 | 1.32 | 1.33 | 1.32 | 0.2% |
+| Currencies | $ / ¥ | 122.09 | 122.35 | 121.14 | 121.38 | 119.62 | 2.4% |
+| Currencies | $ / NoK | 0.12 | 0.12 | 0.12 | 0.11 | 0.11 | 1.7% |
+| Currencies | Yuan / $ | 6.37 | 6.37 | 6.37 | 6.37 | 6.36 | 0.1% |
+| Currencies | Won / $ | 1,225.45 | 1,220.65 | 1,219.01 | 1,215.05 | 1,219.88 | 1.2% |
+| Currencies | $ INDEX | 98.79 | 98.79 | 98.62 | 98.49 | 98.50 | 0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 25-Mar-22 | 18-Mar-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,244.0 | 1,023.0 | 21.6% |
+| MGO | Houston | 1,267.5 | 1,186.5 | 6.8% |
+| MGO | Singapore | 1,122.0 | 990.0 | 13.3% |
+| 380cst | Rotterdam | 703.5 | 643.5 | 9.3% |
+| 380cst | Houston | 733.5 | 707.5 | 3.7% |
+| 380cst | Singapore | 691.0 | 612.5 | 12.8% |
+| VLSFO | Rotterdam | 911.5 | 847.5 | 7.6% |
+| VLSFO | Houston | 931.5 | 891.5 | 4.5% |
+| VLSFO | Singapore | 903.5 | 842.5 | 7.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 25-Mar-22 | 18-Mar-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.49 | 15.18 | 21.8% |
+| COSTAMARE INC | NYSE | USD | 17.02 | 16.78 | 1.4% |
+| DANAOS CORPORATION | NYSE | USD | 102.37 | 105.23 | -2.7% |
+| DIANA SHIPPING | NYSE | USD | 5.23 | 4.66 | 12.2% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 65.29 | 62.31 | 4.8% |
+| EUROSEAS LTD. | NASDAQ | USD | 27.95 | 29.70 | -5.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.37 | 2.34 | 1.3% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 3.69 | 3.76 | -1.9% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 33.34 | 32.78 | 1.7% |
+| SAFE BULKERS INC | NYSE | USD | 4.59 | 4.50 | 2.0% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.15 | 1.17 | -1.7% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 29.42 | 29.29 | 0.4% |
+| STEALTHGAS INC | NASDAQ | USD | 2.72 | 2.32 | 17.2% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 8.85 | 8.87 | -0.2% |
+
+## Market News
+
+“Odfjell to pay dividends after four-year hiatus as bosses handed stock
+
+Norwegian chemical tanker specialist Odfjell is reinstating a dividend after four years following a profitable fourth quarter.
+
+The company said the board is proposing a payout of NOK 1 ($0.11) per share for 2021, to be voted on at its annual general meeting on 4 May.
+
+A new policy is also being implemented. This will see Odfjell hand back 50% of net income to investors in future.
+
+The figure will be adjusted for extraordinary items, the shipowner said.
+
+“Other excess capital will be earmarked for extraordinary debt reductions, but may also be used for value-creative investments, share buy-backs and dividends,” Odfjell added.
+
+Dividends will be paid twice a year, “always contingent on the financial strength of the company,” the owner said.
+
+The Oslo-listed company made a net profit of $15.6m in the final three months of...(TradeWinds)

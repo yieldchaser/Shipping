@@ -242,3 +242,70 @@ As we approach the New Year, the shipbreaking industry is becoming quieter, with
 | OCEAN SILKWAY | 21,813 | 7,036 | 1996 | MITSUBISHI SHIMONOSEKI, Japan | CONTAINER | $ 550/Ldt | India |  |
 | STAR-1 | 7,120 | 2,950 | 1985 | NOBISKRUG WERFT | GENERAL CARGO | $ 450/Ldt | undisclosed | as is UAE |
 | CORSICA | 6,404 | 3,937 | 2001 | JIANGDONG, China | GENERAL CARGO | undisclosed | undisclosed | as is Singapore |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 15-Dec-23 | 14-Dec-23 | 13-Dec-23 | 12-Dec-23 | 11-Dec-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.915 | 3.921 | 4.024 | 4.210 | 4.237 | -7.4% |
+| Stock Exchange Data | S&P 500 | 4,719.19 | 4,719.55 | 4,707.09 | 4,643.70 | 4,622.44 | 2.5% |
+| Stock Exchange Data | Nasdaq | 14,813.92 | 14,761.56 | 14,733.96 | 14,533.40 | 14,432.49 | 2.8% |
+| Stock Exchange Data | Dow Jones | 37,305.16 | 37,248.35 | 37,090.24 | 36,577.94 | 36,404.93 | 2.9% |
+| Stock Exchange Data | FTSE 100 | 7,576.36 | 7,648.98 | 7,548.44 | 7,542.77 | 7,544.89 | 0.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,142.92 | 4,176.90 | 4,112.17 | 4,108.53 | 4,112.31 | 0.7% |
+| Stock Exchange Data | CAC40 | 7,596.91 | 7,575.85 | 7,531.22 | 7,543.55 | 7,551.53 | 0.9% |
+| Stock Exchange Data | Xetra Dax | 16,751.44 | 16,752.23 | 16,766.05 | 16,791.74 | 16,794.43 | -0.3% |
+| Stock Exchange Data | Nikkei | 32,970.55 | 32,686.25 | 32,926.35 | 32,843.70 | 32,791.80 | 0.5% |
+| Stock Exchange Data | Hang Seng | 16,792.19 | 16,402.19 | 16,228.75 | 16,374.50 | 16,201.49 | 3.6% |
+| Stock Exchange Data | DJ US Maritime | 253.38 | 253.38 | 239.10 | 239.10 | 242.71 | 6.0% |
+| Currencies | € / $ | 1.09 | 1.10 | 1.09 | 1.08 | 1.08 | 1.3% |
+| Currencies | £ / $ | 1.27 | 1.28 | 1.26 | 1.26 | 1.26 | 1.1% |
+| Currencies | $ / ¥ | 142.13 | 142.28 | 142.74 | 145.28 | 146.09 | -1.9% |
+| Currencies | $ / NoK | 0.0956 | 0.0952 | 0.0928 | 0.0912 | 0.0912 | 4.3% |
+| Currencies | Yuan / $ | 7.08 | 7.08 | 7.17 | 7.18 | 7.18 | -1.2% |
+| Currencies | Won / $ | 1,298.70 | 1,293.92 | 1,293.01 | 1,311.14 | 1,314.91 | -1.4% |
+| Currencies | $ INDEX | 102.55 | 101.96 | 102.87 | 103.86 | 104.10 | -1.4% |
+
+## Bunker Prices
+
+| Grade | Port | 15-Dec-23 | 8-Dec-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 15-Dec-23 | 08-Dec-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.80 | 13.41 | 2.9% |
+| COSTAMARE INC | NYSE | USD | 10.08 | 9.51 | 6.0% |
+| DANAOS CORPORATION | NYSE | USD | 70.89 | 68.14 | 4.0% |
+| DIANA SHIPPING | NYSE | USD | 2.96 | 2.95 | 0.3% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 54.68 | 44.85 | 21.9% |
+| EUROSEAS LTD. | NASDAQ | USD | 27.04 | 27.96 | -3.3% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.74 | 2.81 | -2.5% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.27 | 2.25 | 0.9% |
+| SAFE BULKERS INC | NYSE | USD | 3.88 | 3.68 | 5.4% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 7.28 | 7.02 | 3.7% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 21.18 | 20.07 | 5.5% |
+| STEALTHGAS INC | NASDAQ | USD | 6.50 | 6.43 | 1.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 21.04 | 19.69 | 6.9% |
+
+## Macro-economic headlines
+
+▪ US: headline CPI was 3.1% y/y in November, down from 3.2% in October, while core CPI was 4%. The composite PMI was 51 in November, up from 50.7 in October, driven by the services PMI, which rose from 50.8 to 51.3, while the manufacturing PMI fell from 49.4 to 48.2.
+
+▪ UK: GDP fell by 0.3% m/m in October, while on an annualised basis it rose slightly by 0.3%. The central bank left interest rates unchanged at 5.25%, while industrial production fell by 0.8% in October.
+
+▪ China: industrial production was up 6.6% y/y in November, while retail sales rose 10.1% y/y. The unemployment rate remained unchanged at 5%.

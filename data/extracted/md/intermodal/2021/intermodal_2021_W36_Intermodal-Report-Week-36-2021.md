@@ -323,3 +323,79 @@ The overall sentiment in the demolition market remains stable as the scarcity of
 | HAFID | 47,228 | 9,246 | 2000 | ONOMICHI, Japan | TANKER | $ 605/Ldt | Pakistani |  |
 
 © Intermodal Research 14/09/2021 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 10-Sep-21 | 9-Sep-21 | 8-Sep-21 | 7-Sep-21 | 6-Sep-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.341 | 1.299 | 1.334 | 1.730 | 1.322 | 1.4% |
+| Stock Exchange Data | S&P 500 | 4,458.58 | 4,458.58 | 4,493.28 | 4,514.07 | 4,535.43 | -1.7% |
+| Stock Exchange Data | Nasdaq | 15,115.49 | 15,115.49 | 15,248.25 | 15,286.64 | 15,374.33 | -1.6% |
+| Stock Exchange Data | Dow Jones | 34,607.72 | 34,607.72 | 34,879.38 | 35,031.07 | 35,100.00 | -2.2% |
+| Stock Exchange Data | FTSE 100 | 7,029.20 | 7,024.21 | 7,095.53 | 7,149.37 | 7,187.18 | -1.5% |
+| Stock Exchange Data | FTSE All-Share UK | 4,056.19 | 4,055.82 | 4,089.76 | 4,122.43 | 4,144.51 | -1.6% |
+| Stock Exchange Data | CAC40 | 6,663.77 | 6,684.72 | 6,668.89 | 6,726.07 | 6,743.50 | -0.4% |
+| Stock Exchange Data | Xetra Dax | 15,609.81 | 15,623.15 | 15,610.28 | 15,843.09 | 15,932.12 | -2.0% |
+| Stock Exchange Data | Nikkei | 30,381.84 | 30,008.19 | 30,181.21 | 29,916.14 | 29,659.89 | 2.4% |
+| Stock Exchange Data | Hang Seng | 25,716.00 | 25,716.00 | 26,320.93 | 26,353.63 | 26,163.63 | -1.4% |
+| Stock Exchange Data | DJ US Maritime | 168.75 | 170.95 | 170.95 | 173.48 | 174.60 | -3.4% |
+| Currencies | € / $ | 1.18 | 1.18 | 1.18 | 1.18 | 1.19 | -0.6% |
+| Currencies | £ / $ | 1.38 | 1.38 | 1.38 | 1.38 | 1.38 | -0.2% |
+| Currencies | $ / ¥ | 109.93 | 109.78 | 110.23 | 110.30 | 109.82 | 0.2% |
+| Currencies | $ / NoK | 0.12 | 0.12 | 0.11 | 0.12 | 0.12 | -0.1% |
+| Currencies | Yuan / $ | 6.44 | 6.46 | 6.46 | 6.47 | 6.46 | -0.1% |
+| Currencies | Won / $ | 1,170.38 | 1,170.13 | 1,167.53 | 1,162.19 | 1,156.92 | 1.3% |
+| Currencies | $ INDEX | 92.64 | 92.48 | 92.65 | 92.51 | 92.04 | 0.7% |
+
+## Bunker Prices
+
+| Grade | Port | 10-Sep-21 | 3-Sep-21 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 586.0 | 603.0 | -2.8% |
+| MGO | Houston | 628.0 | 627.0 | 0.2% |
+| MGO | Singapore | 590.0 | 590.5 | -0.1% |
+| 380cst | Rotterdam | 408.0 | 412.0 | -1.0% |
+| 380cst | Houston | 409.0 | 416.5 | -1.8% |
+| 380cst | Singapore | 463.5 | 450.0 | 3.0% |
+| VLSFO | Rotterdam | 516.0 | 522.5 | -1.2% |
+| VLSFO | Houston | 519.0 | 521.0 | -0.4% |
+| VLSFO | Singapore | 544.0 | 544.5 | -0.1% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 10-Sep-21 | 03-Sep-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.75 | 13.24 | 3.9% |
+| COSTAMARE INC | NYSE | USD | 16.27 | 15.30 | 6.3% |
+| DANAOS CORPORATION | NYSE | USD | 84.98 | 86.59 | -1.9% |
+| DIANA SHIPPING | NYSE | USD | 5.52 | 5.06 | 9.1% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 50.92 | 49.77 | 2.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 30.72 | 23.45 | 31.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 3.16 | 3.18 | -0.6% |
+| NAVIOS MARITIME ACQUISITIONS | NYSE | USD | 3.90 | 4.01 | -2.7% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 5.32 | 5.67 | -6.2% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 30.96 | 31.43 | -1.5% |
+| SAFE BULKERS INC | NYSE | USD | 4.13 | 4.18 | -1.2% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.25 | 1.27 | -1.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 23.60 | 23.88 | -1.2% |
+| STEALTHGAS INC | NASDAQ | USD | 2.78 | 2.76 | 0.7% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 7.96 | 8.15 | -2.3% |
+| TOP SHIPS INC | NASDAQ | USD | 1.38 | 1.29 | 7.0% |
+
+## Market News
+
+“KKR to take Ocean Yield private as Kjell Inge Rokke cashes out in $829.5m takeover
+
+Private equity giant Kohlberg Kravis Roberts (KKR) has pledged to expand Norwegian shipowner Ocean Yield after it agreed a NOK 7.2bn ($829.5m) takeover.
+
+A KKR unit called Octopus Bidco has reached a deal with major Ocean Yield shareholder Kjell Inge Rokke to launch a cash offer at NOK 41 per share, 26% more than the NOK 32.54 at which the stock was trading on Monday.
+
+The group will get its hands on 63 vessels worth $2.1bn owned by the sale and leaseback specialist, whose independent directors have accepted the offer following a "strategic process", Oslo-listed Ocean Yield said.
+
+Rokke's Aker, the largest shareholder through subsidiary Aker Capital, owns 61.65% in Ocean Yield.
+
+Vincent Policard, partner and co-head of European infrastructure at US giant KKR, said the group had been impressed by what Ocean Yield’s management team and employees have achieved since the company was formed a decade ago, through the strategy of investments in modern fuel-efficient vessels on long-term charters...”(TradeWinds)

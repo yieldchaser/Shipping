@@ -260,3 +260,77 @@ The Turkish market remains stagnant, showing little movement compared to last we
 | YEOMAN BANK | 38,997 | 9,179 | 1982 | ELEUSIS, Greece | BC | $250/Ldt | Turkish |
 | MANASSA MOON M | 9,578 | 2,725 | 1984 | TUZLA, Tukey | GENERAL CARGO | $240/Ldt | Turkish |
 | KAPITAN MIRONOV | 4,618 | 3,293 | 1995 | VYBORSGKIY, Russia | GENERAL CARGO | undisclosed | Turkish |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 5-Sep-25 | 4-Sep-25 | 3-Sep-25 | 2-Sep-25 | 1-Sep-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.086 | 4.176 | 4.211 | 4.277 | 4.226 | -3.3% |
+| Stock Exchange Data | S&P 500 | 6,481.50 | 6,502.08 | 6,448.26 | 6,415.54 | 6,460.26 | 0.3% |
+| Stock Exchange Data | Nasdaq | 23,652.44 | 23,633.01 | 23,414.84 | 23,231.11 | 23,415.42 | 1.0% |
+| Stock Exchange Data | Dow Jones | 45,400.86 | 45,621.29 | 45,271.23 | 45,295.81 | 45,544.88 | -0.3% |
+| Stock Exchange Data | FTSE 100 | 9,208.21 | 9,216.87 | 9,177.99 | 9,116.69 | 9,196.34 | 0.2% |
+| Stock Exchange Data | FTSE All-Share UK | 4,981.40 | 4,982.58 | 4,959.96 | 4,926.97 | 4,977.76 | 0.2% |
+| Stock Exchange Data | CAC40 | 7,674.78 | 7,698.92 | 7,719.71 | 7,654.25 | 7,707.90 | -0.4% |
+| Stock Exchange Data | Xetra Dax | 23,596.98 | 23,770.33 | 23,594.80 | 23,487.33 | 24,037.33 | -1.3% |
+| Stock Exchange Data | Nikkei | 43,018.75 | 42,580.27 | 41,938.89 | 42,310.49 | 42,188.79 | 0.7% |
+| Stock Exchange Data | Hang Seng | 25,417.98 | 25,058.51 | 25,343.43 | 25,496.55 | 25,617.42 | 1.4% |
+| Stock Exchange Data | DJ US Maritime | 292.41 | 296.08 | 291.13 | 311.87 | 319.06 | -8.4% |
+| Currencies | € / $ | 1.17 | 1.16 | 1.17 | 1.16 | 1.17 | 0.3% |
+| Currencies | £ / $ | 1.35 | 1.34 | 1.34 | 1.34 | 1.35 | 0.0% |
+| Currencies | $ / ¥ | 147.38 | 148.48 | 148.08 | 148.33 | 147.17 | 0.2% |
+| Currencies | $ / NoK | 10.03 | 10.08 | 10.04 | 10.03 | 10.00 | -0.1% |
+| Currencies | Yuan / $ | 7.13 | 7.14 | 7.14 | 7.14 | 7.14 | 0.0% |
+| Currencies | Won / $ | 1,386.18 | 1,393.40 | 1,390.13 | 1,395.42 | 1,392.71 | -0.2% |
+| Currencies | $ INDEX | 97.77 | 98.35 | 98.14 | 98.40 | 97.77 | 0.0% |
+
+## Bunker Prices
+
+| Grade | Port | 5-Sep-25 | 29-Aug-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 661.0 | 650.0 | 1.7% |
+| MGO | Houston | 661.0 | 665.0 | -0.6% |
+| MGO | Singapore | 664.0 | 648.0 | 2.5% |
+| 380cst | Rotterdam | 390.0 | 411.0 | -5.1% |
+| 380cst | Houston | 399.0 | 406.0 | -1.7% |
+| 380cst | Singapore | 400.0 | 412.0 | -2.9% |
+| VLSFO | Rotterdam | 446.0 | 465.0 | -4.1% |
+| VLSFO | Houston | 469.0 | 489.0 | -4.1% |
+| VLSFO | Singapore | 486.0 | 502.0 | -3.2% |
+
+## Oil Prices
+
+| Category | Indicator | 5-Sep-25 | 29-Aug-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 65.5 | 68.1 | -3.8% |
+| OIL | WTI | 61.9 | 64.0 | -3.3% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 05-Sep-25 | 29-Aug-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 21.78 | 21.10 | 3.2% |
+| COSTAMARE INC | NYSE | USD | 12.08 | 11.44 | 5.6% |
+| DANAOS CORPORATION | NYSE | USD | 95.46 | 91.97 | 3.8% |
+| DIANA SHIPPING | NYSE | USD | 1.67 | 1.64 | 1.8% |
+| EUROSEAS LTD. | NASDAQ | USD | 61.89 | 62.27 | -0.6% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.06 | 1.04 | 1.4% |
+| SAFE BULKERS INC | NYSE | USD | 4.45 | 4.25 | 4.7% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 7.99 | 7.79 | 2.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.31 | 18.65 | 3.5% |
+| STEALTHGAS INC | NASDAQ | USD | 7.43 | 7.63 | -2.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 22.22 | 22.25 | -0.1% |
+
+## Macro-economic headlines
+
+China’s trade surplus widened in August to $102.33bn from July’s $98.24bn, exceeding market expectations of $99.40bn. Exports slowed to 4.4% y-o-y (Jul: 7.2%) with the tariff truce effect tapering off, but still outpaced imports, which grew by 1.3% y-o-y (Jul: 4.1%), weighed by real estate sector weakness.
+
+In Germany, Industrial Production increased by 1.3% m-o-m in July, reversing June’s 1.9% contraction and surpassing the 1.1% market forecast.
+
+In Eurozone, GDP edged up by 0.1% q-o-q in Q2 2025, in line with expectations but slowing from Q1’s 0.6% q-o-q.
+
+In United States, the trade deficit rose in July, reaching $78.30bn, from June’s $60.20bn, missing market expectations of $77.70bn. Exports inched up by 0.3% m-o-m, while imports grew by 5.9% m-o-m. The gap reflected strong import growth outpacing marginal export gains.

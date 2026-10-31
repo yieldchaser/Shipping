@@ -251,3 +251,77 @@ After a strong start to the year, activity at Aliaga ship recycling yards has sl
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | WANTONG SUMMER | 45,950 | 8,196 | 1996 | CHINA SHIPBUILDING, Taiwan | BC | $433/Ldt | Bangladeshi |  |
 | OCEAN AMAZING | 47,243 | 6,217 | 1998 | OSHIMA, Japan | BC | $300/Ldt | Bangladeshi | as is Jakarta, Indonesia |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 13-Mar-26 | 12-Mar-26 | 11-Mar-26 | 10-Mar-26 | 9-Mar-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.285 | 4.273 | 4.206 | 4.136 | 4.134 | 3.7% |
+| Stock Exchange Data | S&P 500 | 6,632.19 | 6,672.62 | 6,775.80 | 6,781.48 | 6,795.99 | -1.6% |
+| Stock Exchange Data | Nasdaq | 24,380.73 | 24,533.58 | 24,965.01 | 24,956.47 | 24,967.25 | -1.1% |
+| Stock Exchange Data | Dow Jones | 46,558.47 | 46,677.85 | 47,417.27 | 47,706.51 | 47,740.80 | -2.0% |
+| Stock Exchange Data | FTSE 100 | 10,261.15 | 10,305.15 | 10,353.77 | 10,412.24 | 10,249.52 | -0.2% |
+| Stock Exchange Data | FTSE All-Share UK | 5,495.74 | 5,519.52 | 5,548.60 | 5,579.60 | 5,491.34 | -0.4% |
+| Stock Exchange Data | CAC40 | 7,911.53 | 7,984.44 | 8,041.81 | 8,057.36 | 7,915.36 | -1.0% |
+| Stock Exchange Data | Xetra Dax | 23,447.29 | 23,589.65 | 23,640.03 | 23,968.63 | 23,409.37 | -0.6% |
+| Stock Exchange Data | Nikkei | 53,819.61 | 54,452.96 | 55,025.37 | 54,248.39 | 52,728.72 | -3.2% |
+| Stock Exchange Data | Hang Seng | 25,465.60 | 25,716.76 | 25,898.76 | 25,959.90 | 25,408.46 | -1.1% |
+| Stock Exchange Data | DJ US Maritime | 410.15 | 407.72 | 414.65 | 415.44 | 412.98 | -2.1% |
+| Currencies | € / $ | 1.14 | 1.15 | 1.16 | 1.16 | 1.16 | -1.7% |
+| Currencies | £ / $ | 1.32 | 1.33 | 1.34 | 1.34 | 1.34 | -1.4% |
+| Currencies | $ / ¥ | 159.71 | 159.33 | 158.94 | 158.04 | 157.64 | 1.2% |
+| Currencies | $ / NoK | 9.76 | 9.70 | 9.63 | 9.63 | 9.57 | 2.1% |
+| Currencies | Yuan / $ | 6.90 | 6.87 | 6.87 | 6.88 | 6.91 | 0.0% |
+| Currencies | Won / $ | 1,501.24 | 1,492.89 | 1,477.76 | 1,473.24 | 1,461.31 | 1.4% |
+| Currencies | $ INDEX | 100.36 | 99.74 | 99.23 | 98.83 | 99.18 | 1.4% |
+
+## Bunker Prices
+
+| Grade | Port | 13-Mar-26 | 6-Mar-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,127.0 | 1,070.3 | 5.3% |
+| MGO | Houston | 1,152.0 | 1,182.5 | -2.6% |
+| MGO | Singapore | 1,836.8 | 1,411.0 | 30.2% |
+| 380cst | Rotterdam | 706.8 | 654.3 | 8.0% |
+| 380cst | Houston | 633.0 | 604.3 | 4.8% |
+| 380cst | Singapore | 878.8 | 752.3 | 16.8% |
+| VLSFO | Rotterdam | 801.3 | 674.0 | 18.9% |
+| VLSFO | Houston | 755.5 | 689.3 | 9.6% |
+| VLSFO | Singapore | 1,120.3 | 894.0 | 25.3% |
+
+## Oil Prices
+
+| Category | Indicator | 13-Mar-26 | 6-Mar-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 103.1 | 92.7 | 11.3% |
+| OIL | WTI | 98.7 | 90.9 | 8.6% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 13-Mar-26 | 06-Mar-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 20.63 | 21.96 | -6.1% |
+| COSTAMARE INC | NYSE | USD | 16.08 | 16.70 | -3.7% |
+| DANAOS CORPORATION | NYSE | USD | 107.03 | 109.92 | -2.6% |
+| DIANA SHIPPING | NYSE | USD | 2.27 | 2.36 | -3.8% |
+| EUROSEAS LTD. | NASDAQ | USD | 63.00 | 64.76 | -2.7% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.67 | 1.95 | -14.4% |
+| SAFE BULKERS INC | NYSE | USD | 5.94 | 6.10 | -2.6% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 12.18 | 13.28 | -8.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 21.84 | 23.66 | -7.7% |
+| STEALTHGAS INC | NASDAQ | USD | 8.73 | 10.16 | -14.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 33.75 | 34.75 | -2.9% |
+
+## Macro-economic headlines
+
+In China, the Trade Surplus widened to $213.62bn in the first two months of 2026 from $114.1bn in December, significantly exceeding market estimations of $177.4bn. The increase was driven by a sharp rise in exports, which surged 21.8% y-o-y marking the strongest expansion since 2021 amid robust external demand. Meanwhile, imports also accelerated, rising by 19.8% y-o-y, signaling solid domestic demand. To mitigate statistical distortions from the shifting timing of the Lunar New Year, China reports January–
+
+February trade data on a combined basis.
+
+In India, inflation accelerated in February, with CPI rising by 3.21% y-o-y, above market expectations of 3.10% and January’s 2.75%.
+
+In United States, the Trade Deficit narrowed to $54.50bn in January from $70.30bn in December, significantly exceeding market forecasts of $66.60bn deficit. The improvement was driven by a 5.4% m-o-m increase in exports, while imports declined by 0.7%.

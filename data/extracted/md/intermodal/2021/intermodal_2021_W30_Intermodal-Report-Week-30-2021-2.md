@@ -348,3 +348,85 @@ The demolition market activity continues to oscillate between an apparent shorta
 | SISTRAUM | 2,550 | 1,430 | 1981 | BOLSONES VERFT, Norway | TANKER | $ 605/Ldt | Indian |  |
 
 © Intermodal Research 03/08/2021 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 30-Jul-21 | 29-Jul-21 | 28-Jul-21 | 27-Jul-21 | 26-Jul-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.239 | 1.269 | 1.261 | 1.234 | 1.276 | -3.7% |
+| Stock Exchange Data | S&P 500 | 4,395.26 | 4,419.15 | 4,400.64 | 4,401.46 | 4,411.79 | -0.4% |
+| Stock Exchange Data | Nasdaq | 14,672.68 | 14,778.26 | 14,762.58 | 14,660.58 | 14,840.71 | -1.1% |
+| Stock Exchange Data | Dow Jones | 34,935.47 | 35,084.53 | 34,930.93 | 35,058.52 | 35,144.31 | -0.4% |
+| Stock Exchange Data | FTSE 100 | 7,032.30 | 7,078.42 | 7,016.63 | 6,996.08 | 7,025.43 | 0.1% |
+| Stock Exchange Data | FTSE All-Share UK | 4,030.24 | 4,054.12 | 4,024.08 | 4,010.29 | 4,025.99 | 0.1% |
+| Stock Exchange Data | CAC40 | 6,612.76 | 6,633.77 | 6,609.31 | 6,531.92 | 6,578.60 | 0.7% |
+| Stock Exchange Data | Xetra Dax | 15,544.39 | 15,640.47 | 15,570.36 | 15,519.13 | 15,618.98 | -0.5% |
+| Stock Exchange Data | Nikkei | 27,283.59 | 27,782.42 | 27,581.66 | 27,970.22 | 27,833.29 | -2.0% |
+| Stock Exchange Data | Hang Seng | 26,315.32 | 26,315.32 | 25,473.88 | 25,086.43 | 26,192.32 | -5.1% |
+| Stock Exchange Data | DJ US Maritime | 190.09 | 197.67 | 195.08 | 193.08 | 196.30 | -2.2% |
+| Currencies | € / $ | 1.19 | 1.19 | 1.18 | 1.18 | 1.18 | 0.8% |
+| Currencies | £ / $ | 1.39 | 1.40 | 1.39 | 1.39 | 1.38 | 1.2% |
+| Currencies | $ / ¥ | 109.69 | 109.42 | 109.89 | 109.81 | 110.31 | -0.8% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.11 | 0.11 | 0.11 | 0.7% |
+| Currencies | Yuan / $ | 6.46 | 6.46 | 6.49 | 6.51 | 6.48 | -0.3% |
+| Currencies | Won / $ | 1,151.93 | 1,142.92 | 1,150.47 | 1,154.46 | 1,152.76 | 0.0% |
+| Currencies | $ INDEX | 92.17 | 91.86 | 92.32 | 92.43 | 92.65 | -0.8% |
+
+## Bunker Prices
+
+| Grade | Port | 30-Jul-21 | 23-Jul-21 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 592.0 | 595.5 | -0.6% |
+| MGO | Houston | 624.0 | 617.0 | 1.1% |
+| MGO | Singapore | 597.0 | 590.0 | 1.2% |
+| 380cst | Rotterdam | 423.0 | 409.0 | 3.4% |
+| 380cst | Houston | 431.5 | 412.0 | 4.7% |
+| 380cst | Singapore | 434.5 | 421.0 | 3.2% |
+| VLSFO | Rotterdam | 537.5 | 525.0 | 2.4% |
+| VLSFO | Houston | 541.0 | 519.5 | 4.1% |
+| VLSFO | Singapore | 554.0 | 546.0 | 1.5% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 30-Jul-21 | 23-Jul-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 11.97 | 11.71 | 2.2% |
+| COSTAMARE INC | NYSE | USD | 10.84 | 10.31 | 5.1% |
+| DANAOS CORPORATION | NYSE | USD | 67.39 | 66.98 | 0.6% |
+| DIANA SHIPPING | NYSE | USD | 4.34 | 4.18 | 3.8% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 41.70 | 41.78 | -0.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 19.04 | 18.65 | 2.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.84 | 2.75 | 3.3% |
+| NAVIOS MARITIME ACQUISITIONS | NYSE | USD | 2.39 | 2.44 | -2.0% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 4.23 | 4.68 | -9.6% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 22.26 | 23.29 | -4.4% |
+| SAFE BULKERS INC | NYSE | USD | 3.34 | 3.32 | 0.6% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.02 | 1.04 | -1.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.03 | 18.53 | 2.7% |
+| STEALTHGAS INC | NASDAQ | USD | 2.56 | 2.59 | -1.2% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 7.95 | 7.55 | 5.3% |
+| TOP SHIPS INC | NASDAQ | USD | 1.34 | 1.33 | 0.8% |
+
+## Market News
+
+“Containership owner Borealis Finance to delist after redeeming $200m bond
+
+Containership owner Borealis Finance will repay a $200m bond early and delist from the Oslo Stock Exchange.
+
+The company will prepay the remaining $188m of an outstanding bond issue, of which $12m has already been paid.
+
+Borealis Finance will then be delisted, but will remain the owner of a fleet of 15 vessels that are all unleveraged, chief executive Christoph Toepfer confirmed.
+
+The move follows the sale in June of a dozen container vessels for $234m to New York-listed owner Global Ship Lease (GSL).
+
+The last 10 of those vessels, which have an average size of around 3,000 teu, were sold and delivered this week for a combined sale price of $203.5m.
+
+Two other vessels that were sold for a total of $30m — the 2,741-teu Haydn (built 2006) and 2,824-teu Bomar Bellini (built 2007) — were delivered earlier this month.
+
+'Extraordinary transformation'
+
+The 12 ships were part of a fleet of 25 containerships, ranging in size from 1,118...”(TradeWinds)

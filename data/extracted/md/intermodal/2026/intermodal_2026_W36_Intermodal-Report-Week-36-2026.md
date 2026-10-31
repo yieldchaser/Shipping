@@ -252,3 +252,75 @@ The Turkish market remains unchanged, with yards maintaining healthy workloads a
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | HERO SD | 23,726 | 5,010 | 1995 | KANASASHI, Japan | BC | $512/Ldt | Pakistani |
 | PORTLAND II | 42,586 | 8,182 | 1985 | MITSUI, Japan | BC | $517/Ldt | Pakistani |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 4-Sep-26 | 3-Sep-26 | 2-Sep-26 | 1-Sep-26 | 31-Aug-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.784 | 4.762 | 4.794 | 4.796 | 4.758 | 1.3% |
+| Stock Exchange Data | S&P 500 | 7,718.60 | 7,747.71 | 7,666.60 | 7,631.47 | 7,686.14 | 0.1% |
+| Stock Exchange Data | Nasdaq | 29,544.16 | 29,482.32 | 29,143.33 | 29,077.22 | 29,456.97 | 0.4% |
+| Stock Exchange Data | Dow Jones | 53,414.25 | 53,686.11 | 53,061.95 | 52,766.88 | 53,185.90 | -0.3% |
+| Stock Exchange Data | FTSE 100 | 10,831.09 | 10,831.52 | 10,756.45 | 10,789.28 | 10,824.26 | 0.1% |
+| Stock Exchange Data | FTSE All-Share UK | 5,836.04 | 5,833.84 | 5,793.71 | 5,814.48 | 5,842.37 | -0.1% |
+| Stock Exchange Data | CAC40 | 8,278.77 | 8,286.40 | 8,280.63 | 8,301.85 | 8,334.50 | -1.5% |
+| Stock Exchange Data | Xetra Dax | 26,046.40 | 26,003.32 | 25,839.33 | 25,970.11 | 26,258.11 | -2.0% |
+| Stock Exchange Data | Nikkei | 65,020.94 | 64,214.48 | 64,325.64 | 66,215.34 | 66,311.93 | -2.1% |
+| Stock Exchange Data | Hang Seng | 25,650.87 | 25,213.31 | 25,311.21 | 25,329.73 | 25,566.99 | 0.3% |
+| Stock Exchange Data | DJ US Maritime | 462.08 | 470.29 | 464.87 | 462.67 | 465.66 | 1.2% |
+| Currencies | € / $ | 1.16 | 1.16 | 1.16 | 1.16 | 1.16 | 0.3% |
+| Currencies | £ / $ | 1.35 | 1.35 | 1.35 | 1.35 | 1.35 | -0.1% |
+| Currencies | $ / ¥ | 156.24 | 155.79 | 158.70 | 160.17 | 159.73 | -2.4% |
+| Currencies | $ / NoK | 9.31 | 9.28 | 9.31 | 9.32 | 9.34 | -0.6% |
+| Currencies | Yuan / $ | 6.71 | 6.72 | 6.72 | 6.72 | 6.72 | -0.2% |
+| Currencies | Won / $ | 1,344.20 | 1,356.27 | 1,358.35 | 1,373.07 | 1,367.08 | -2.3% |
+| Currencies | $ INDEX | 99.18 | 98.91 | 99.60 | 99.68 | 99.43 | -0.5% |
+
+## Bunker Prices
+
+| Grade | Port | 4-Sep-26 | 28-Aug-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,331.5 | 1,205.5 | 10.5% |
+| MGO | Houston | 1,273.8 | 1,205.5 | 5.7% |
+| MGO | Singapore | 1,230.0 | 1,149.8 | 7.0% |
+| 380cst | Rotterdam | 579.0 | 524.8 | 10.3% |
+| 380cst | Houston | 553.5 | 470.8 | 17.6% |
+| 380cst | Singapore | 623.5 | 612.0 | 1.9% |
+| VLSFO | Rotterdam | 666.3 | 668.0 | -0.3% |
+| VLSFO | Houston | 693.5 | 670.8 | 3.4% |
+| VLSFO | Singapore | 831.0 | 767.3 | 8.3% |
+
+## Oil Prices
+
+| Category | Indicator | 4-Sep-26 | 28-Aug-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 96.3 | 89.3 | 7.8% |
+| OIL | WTI | 91.5 | 83.4 | 9.7% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 04-Sep-26 | 28-Aug-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 22.65 | 22.72 | -0.3% |
+| COSTAMARE INC | NYSE | USD | 15.55 | 15.41 | 0.9% |
+| DANAOS CORPORATION | NYSE | USD | 155.26 | 150.68 | 3.0% |
+| DIANA SHIPPING | NYSE | USD | 3.01 | 2.78 | 8.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 76.35 | 76.63 | -0.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 3.69 | 3.54 | 4.2% |
+| SAFE BULKERS INC | NYSE | USD | 9.17 | 8.52 | 7.6% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 18.92 | 17.79 | 6.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 32.42 | 30.48 | 6.4% |
+| STEALTHGAS INC | NASDAQ | USD | 9.29 | 9.49 | -2.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 43.74 | 42.52 | 2.9% |
+
+## Macro-economic headlines
+
+In China, the trade surplus widened to $119.09 bn in August from $112.50 bn in July, exceeding market forecasts of $118.6bn. Exports surged 25% y-o-y, following a nearly 24% rise in July, largely driven by global demand for AI infrastructure, which continued to support Asian trade. Meanwhile, imports rose 28.2%, below the estimated 30% but above the previous month’s 27.5% pace.
+
+In Germany, factory orders rose 2.5% m-o-m in July, well above market expectations of 0.3% but easing from June’s 3.1% increase.
+
+In the Eurozone, the HCOB Composite PMI stood at 52 in August, broadly in line with forecasts of 52.1 and unchanged from the previous month.

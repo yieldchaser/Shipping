@@ -241,3 +241,71 @@ ever, the market could revive quickly if the political climate calms down. One b
 | KONSTANTINOS | 43,222 | 7,979 | 1995 | HYUNDAI HEAVY INDS - U, S. Korea | BC | undisclosed | Bangladeshi |
 | EZ FORTUNA | 43,108 | 7,371 | 1995 | OSHIMA, Japan | BC | $ 522/Ldt | Bangladeshi |
 | BUKHTA NAGAEVA | 2,397 | 2,399 | 1984 | KOMUNY PARYSKIEJ STOCZ, Poland | REEFER | undisclosed | Bangladeshi |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 9-Feb-24 | 8-Feb-24 | 7-Feb-24 | 6-Feb-24 | 5-Feb-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.187 | 4.170 | 4.108 | 4.092 | 4.164 | 3.9% |
+| Stock Exchange Data | S&P 500 | 5,026.61 | 4,997.91 | 4,995.06 | 4,954.23 | 4,942.81 | 1.4% |
+| Stock Exchange Data | Nasdaq | 17,962.41 | 17,783.17 | 17,755.07 | 17,572.73 | 17,613.04 | 1.8% |
+| Stock Exchange Data | Dow Jones | 38,671.30 | 38,726.13 | 38,677.36 | 38,520.96 | 38,379.59 | 0.0% |
+| Stock Exchange Data | FTSE 100 | 7,572.58 | 7,595.48 | 7,628.75 | 7,681.01 | 7,612.86 | -0.6% |
+| Stock Exchange Data | FTSE All-Share UK | 1,838.47 | 1,840.60 | 1,843.38 | 1,848.68 | 1,838.16 | 0.2% |
+| Stock Exchange Data | CAC40 | 7,647.52 | 7,665.63 | 7,611.26 | 7,638.97 | 7,589.96 | 0.7% |
+| Stock Exchange Data | Xetra Dax | 16,926.50 | 16,963.83 | 16,921.96 | 17,033.24 | 16,904.06 | 0.0% |
+| Stock Exchange Data | Nikkei | 36,897.42 | 36,863.28 | 36,119.92 | 36,160.66 | 36,354.16 | 2.0% |
+| Stock Exchange Data | Hang Seng | 15,746.58 | 15,878.07 | 16,081.89 | 16,136.87 | 15,510.01 | 1.4% |
+| Stock Exchange Data | DJ US Maritime | 279.08 | 276.75 | 276.75 | 276.82 | 275.77 | 1.5% |
+| Currencies | € / $ | 1.08 | 1.08 | 1.08 | 1.08 | 1.07 | 0.0% |
+| Currencies | £ / $ | 1.26 | 1.26 | 1.26 | 1.26 | 1.25 | -0.1% |
+| Currencies | $ / ¥ | 149.30 | 149.31 | 148.18 | 147.94 | 148.67 | 0.6% |
+| Currencies | $ / NoK | 10.54 | 10.61 | 10.58 | 10.58 | 10.67 | -0.5% |
+| Currencies | Yuan / $ | 7.19 | 7.20 | 7.19 | 7.19 | 7.20 | 0.0% |
+| Currencies | Won / $ | 1,330.07 | 1,331.29 | 1,328.29 | 1,326.87 | 1,333.13 | -0.6% |
+| Currencies | $ INDEX | 104.11 | 104.17 | 104.06 | 104.21 | 104.45 | 0.2% |
+
+## Bunker Prices
+
+| Grade | Port | 9-Feb-24 | 2-Feb-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 836.0 | 777.0 | 7.6% |
+| MGO | Houston | 456.0 | 426.0 | 7.0% |
+| MGO | Singapore | 820.0 | 791.0 | 3.7% |
+| 380cst | Rotterdam | 457.0 | 441.0 | 3.6% |
+| 380cst | Houston | 456.0 | 426.0 | 7.0% |
+| 380cst | Singapore | 455.0 | 445.0 | 2.2% |
+| VLSFO | Rotterdam | 577.0 | 559.0 | 3.2% |
+| VLSFO | Houston | 631.0 | 624.0 | 1.1% |
+| VLSFO | Singapore | 643.0 | 631.0 | 1.9% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 09-Feb-24 | 02-Feb-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.32 | 18.35 | -0.1% |
+| COSTAMARE INC | NYSE | USD | 11.08 | 10.35 | 7.1% |
+| DANAOS CORPORATION | NYSE | USD | 74.34 | 74.30 | 0.1% |
+| DIANA SHIPPING | NYSE | USD | 2.92 | 2.90 | 0.7% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 57.80 | 54.00 | 7.0% |
+| EUROSEAS LTD. | NASDAQ | USD | 39.40 | 38.99 | 1.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.16 | 2.24 | -3.6% |
+| SAFE BULKERS INC | NYSE | USD | 4.17 | 3.91 | 6.6% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 7.20 | 7.34 | -1.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 22.63 | 21.52 | 5.2% |
+| STEALTHGAS INC | NASDAQ | USD | 7.04 | 7.21 | -2.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 23.76 | 24.17 | -1.7% |
+
+## Macro-economic headlines
+
+• China: CPI rose by 0.3% on a monthly basis in January, but fell by 0.8% on an annual basis. The PPI also fell in January, falling -2.5% on the month. Friday saw the start of the Chinese New Year celebrations.
+
+• EU: HCOB eurozone composite PMI stood at 47.9 in January, up slightly from 47.6 in the previous month. In Germany, CPI fell by 2.9% on an annual basis.
+
+• US: The ISM Non-Manufacturing PMI for January was 53.4, while the S&P Global Composite PMI for the same month was 52. The trade balance for December showed a deficit of 62.20bn.
+
+• India: The central bank left interest rates unchanged at 6.50%.

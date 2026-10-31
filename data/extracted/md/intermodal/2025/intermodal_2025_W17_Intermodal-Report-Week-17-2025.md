@@ -251,3 +251,77 @@ Finally, in Turkey, the ship recycling market remains under considerable strain.
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CHARLENE | 28,249 | 6,068 | 1996 | KANASASHI, Japan | BC | $465/Ldt | Bangladeshi |  |
 | GOLD EAGLE | 6,914 | 2,396 | 1997 | NISHI, Japan | GENERAL CARGO | $354/Ldt | undisclosed | as is Vietnam |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 25-Apr-25 | 24-Apr-25 | 23-Apr-25 | 22-Apr-25 | 21-Apr-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.266 | 4.305 | 4.387 | 4.389 | 4.405 | -1.4% |
+| Stock Exchange Data | S&P 500 | 5,525.21 | 5,484.77 | 5,375.86 | 5,287.76 | 5,158.20 | 4.6% |
+| Stock Exchange Data | Nasdaq | 19,432.56 | 19,214.40 | 18,693.26 | 18,276.41 | 17,808.30 | 6.4% |
+| Stock Exchange Data | Dow Jones | 40,113.50 | 40,093.40 | 39,606.57 | 39,186.98 | 38,170.41 | 2.5% |
+| Stock Exchange Data | FTSE 100 | 8,415.25 | 8,407.44 | 8,403.18 | 8,328.60 | 8,275.66 | 1.7% |
+| Stock Exchange Data | FTSE All-Share UK | 4,548.44 | 4,541.71 | 4,538.87 | 4,496.57 | 4,472.12 | 1.7% |
+| Stock Exchange Data | CAC40 | 7,536.26 | 7,502.78 | 7,482.36 | 7,326.47 | 7,285.86 | 3.4% |
+| Stock Exchange Data | Xetra Dax | 22,242.45 | 22,064.51 | 21,961.97 | 21,293.53 | 21,205.86 | 4.9% |
+| Stock Exchange Data | Nikkei | 35,705.74 | 35,039.15 | 34,868.63 | 34,220.60 | 34,279.92 | 2.8% |
+| Stock Exchange Data | Hang Seng | 21,980.74 | 21,909.76 | 22,072.62 | 21,562.32 | 21,395.14 | 2.7% |
+| Stock Exchange Data | DJ US Maritime | 317.68 | 322.34 | 314.56 | 311.09 | 304.85 | 1.5% |
+| Currencies | € / $ | 1.14 | 1.14 | 1.13 | 1.14 | 1.15 | -0.2% |
+| Currencies | £ / $ | 1.33 | 1.33 | 1.33 | 1.33 | 1.34 | 0.2% |
+| Currencies | $ / ¥ | 143.67 | 142.62 | 143.44 | 141.58 | 140.85 | 1.1% |
+| Currencies | $ / NoK | 10.42 | 10.39 | 10.52 | 10.39 | 10.35 | -0.3% |
+| Currencies | Yuan / $ | 7.29 | 7.29 | 7.29 | 7.31 | 7.29 | -0.2% |
+| Currencies | Won / $ | 1,437.36 | 1,429.42 | 1,426.18 | 1,429.19 | 1,421.63 | 1.0% |
+| Currencies | $ INDEX | 99.47 | 99.38 | 99.84 | 98.92 | 98.28 | 0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 25-Apr-25 | 18-Apr-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 616.0 | 617.0 | -0.2% |
+| MGO | Houston | 621.0 | 626.0 | -0.8% |
+| MGO | Singapore | 611.0 | 605.0 | 1.0% |
+| 380cst | Rotterdam | 427.0 | 425.0 | 0.5% |
+| 380cst | Houston | 403.0 | 406.0 | -0.7% |
+| 380cst | Singapore | 437.0 | 440.0 | -0.7% |
+| VLSFO | Rotterdam | 460.0 | 450.0 | 2.2% |
+| VLSFO | Houston | 461.0 | 476.0 | -3.2% |
+| VLSFO | Singapore | 500.0 | 493.0 | 1.4% |
+
+## Oil Prices
+
+| Category | Indicator | 25-Apr-25 | 18-Apr-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 66.9 | 68.0 | -1.6% |
+| OIL | WTI | 63.0 | 64.7 | -2.6% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 25-Apr-25 | 18-Apr-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 17.88 | 17.00 | 5.2% |
+| COSTAMARE INC | NYSE | USD | 9.18 | 8.93 | 2.8% |
+| DANAOS CORPORATION | NYSE | USD | 80.46 | 76.71 | 4.9% |
+| DIANA SHIPPING | NYSE | USD | 1.47 | 1.49 | -1.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 31.13 | 29.40 | 5.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.15 | 1.12 | 2.7% |
+| SAFE BULKERS INC | NYSE | USD | 3.39 | 3.30 | 2.7% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 5.73 | 5.47 | 4.8% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 14.49 | 13.79 | 5.1% |
+| STEALTHGAS INC | NASDAQ | USD | 5.45 | 5.14 | 6.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 16.88 | 16.22 | 4.1% |
+
+## Macro-economic headlines
+
+In Eurozone the Trade Surplus rose to €24 billion in February, significantly above January’s figure of €1 billion, marking the highest surplus recorded since March 2024.
+
+In USA the CB Consumer Confidence stood at 86 in April, falling short of market expectations at 87.7 and below the March reading of 92.9.
+
+In Japan, the Bank of Japan’s Core CPI increased by 2.2% y-o-y in April, slightly below market forecast of 2.4% rise and unchanged from March.
+
+In Germany, the Ifo Business Climate Index read 86.9 in April, exceeding both the market forecast of 85.1 and the previous month's figure of 86.7.

@@ -251,3 +251,77 @@ At Aliaga, prices and sentiment remained weak as the continued depreciation of t
 | USD/INR | 95.33 | 95.22 | 0.12% | 95.97 |
 | USD/PKR | 278.15 | 278.03 | 0.04% | 280.05 |
 | USD/TRY | 46.98 | 46.80 | 0.37% | 46.98 |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 10-Jul-26 | 9-Jul-26 | 8-Jul-26 | 7-Jul-26 | 6-Jul-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.569 | 4.539 | 4.567 | 4.529 | 4.479 | 2.0% |
+| Stock Exchange Data | S&P 500 | 7,575.39 | 7,543.64 | 7,482.71 | 7,503.85 | 7,537.43 | 1.2% |
+| Stock Exchange Data | Nasdaq | 29,825.11 | 29,727.10 | 29,252.56 | 29,173.02 | 29,697.87 | 1.7% |
+| Stock Exchange Data | Dow Jones | 52,637.01 | 52,487.41 | 52,348.39 | 52,925.15 | 53,055.91 | -0.5% |
+| Stock Exchange Data | FTSE 100 | 10,497.29 | 10,472.45 | 10,489.04 | 10,665.88 | 10,651.77 | -1.7% |
+| Stock Exchange Data | FTSE All-Share UK | 5,644.60 | 5,629.27 | 5,631.48 | 5,724.86 | 5,721.53 | -1.6% |
+| Stock Exchange Data | CAC40 | 8,338.97 | 8,326.62 | 8,252.66 | 8,436.24 | 8,479.87 | -2.0% |
+| Stock Exchange Data | Xetra Dax | 25,067.09 | 25,118.27 | 24,897.45 | 25,465.25 | 25,817.89 | -2.8% |
+| Stock Exchange Data | Nikkei | 68,557.73 | 67,743.85 | 66,819.05 | 68,256.96 | 69,737.69 | -1.7% |
+| Stock Exchange Data | Hang Seng | 24,175.12 | 24,030.18 | 24,199.46 | 23,496.89 | 23,616.32 | 3.5% |
+| Stock Exchange Data | DJ US Maritime | 471.86 | 468.19 | 464.51 | 439.56 | 436.48 | 10.7% |
+| Currencies | € / $ | 1.14 | 1.14 | 1.14 | 1.14 | 1.14 | -0.2% |
+| Currencies | £ / $ | 1.34 | 1.34 | 1.34 | 1.34 | 1.34 | 0.4% |
+| Currencies | $ / ¥ | 161.69 | 162.37 | 162.58 | 162.09 | 162.08 | 0.2% |
+| Currencies | $ / NoK | 9.77 | 9.71 | 9.76 | 9.80 | 9.78 | -0.5% |
+| Currencies | Yuan / $ | 6.78 | 6.79 | 6.80 | 6.79 | 6.80 | 0.0% |
+| Currencies | Won / $ | 1,498.85 | 1,505.11 | 1,504.85 | 1,513.90 | 1,528.49 | -2.0% |
+| Currencies | $ INDEX | 100.95 | 100.90 | 100.99 | 101.02 | 100.85 | 0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 10-Jul-26 | 3-Jul-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,025.8 | 916.5 | 11.9% |
+| MGO | Houston | 990.8 | 940.3 | 5.4% |
+| MGO | Singapore | 955.5 | 903.8 | 5.7% |
+| 380cst | Rotterdam | 470.5 | 444.3 | 5.9% |
+| 380cst | Houston | 466.8 | 420.5 | 11.0% |
+| 380cst | Singapore | 469.0 | 439.3 | 6.8% |
+| VLSFO | Rotterdam | 599.0 | 570.5 | 5.0% |
+| VLSFO | Houston | 606.3 | 565.3 | 7.3% |
+| VLSFO | Singapore | 667.5 | 634.0 | 5.3% |
+
+## Oil Prices
+
+| Category | Indicator | 10-Jul-26 | 3-Jul-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 76.0 | 72.1 | 5.4% |
+| OIL | WTI | 71.4 | 68.7 | 4.0% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 10-Jul-26 | 03-Jul-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 22.31 | 21.60 | 3.3% |
+| COSTAMARE INC | NYSE | USD | 14.94 | 14.26 | 4.8% |
+| DANAOS CORPORATION | NYSE | USD | 128.39 | 122.32 | 5.0% |
+| DIANA SHIPPING | NYSE | USD | 2.14 | 2.10 | 1.9% |
+| EUROSEAS LTD. | NASDAQ | USD | 70.21 | 66.38 | 5.8% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.71 | 3.09 | -12.3% |
+| SAFE BULKERS INC | NYSE | USD | 6.90 | 6.40 | 7.8% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 14.96 | 13.43 | 11.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 26.35 | 25.15 | 4.8% |
+| STEALTHGAS INC | NASDAQ | USD | 8.90 | 8.21 | 8.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 39.66 | 37.37 | 6.1% |
+
+## Macro-economic headlines
+
+In China, CPI eased to 1.0% y-o-y in June, below the 1.1% forecast and May’s 1.2% reading. Meanwhile, PPI increased to 4.1%, matching market expectations and rising from 3.9% in May.
+
+In Germany, industrial production grew by 0.9% m-o-m in May, well above the 0.1% forecast and stronger than April’s 0.4% increase.
+
+In the United States, the trade deficit widened significantly to $77.6bn in May from $55.9bn in April, marking the largest shortfall since March 2025 and coming close to expectations of $78.3bn. The increase reflected a 3.2% m-o-m rise in imports, led mainly by consumer goods, alongside a 2.9% decline in exports.
+
+In India, CPI accelerated to 4.38% y-o-y in June from 3.93% in May, exceeding expectations of 4.30%. The increase reflected the gradual transmission of higher energy costs due to Middle East disruption.

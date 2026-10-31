@@ -232,3 +232,77 @@ The demolition market saw little action this week, owing to high freight charges
 | HUA KAI | 6,819 | 2,408 | 1994 | DAE SUN, S. Korea | CONTAINER | $ 530/Ldt | Bangladeshi |
 | MARZUK | 2,750 | 1,850 | 1974 | HOOGEZAND, Netherlands | GENERAL CARGO | undisclosed | Turkish |
 | BLUE STAR | 2,362 | 846 | 1986 | BIJLSMA SCHEEPSWERF, Netherlands | GENERAL CARGO | undisclosed | Turkish |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 5-Jul-24 | 4-Jul-24 | 3-Jul-24 | 2-Jul-24 | 1-Jul-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.273 | 4.347 | 4.347 | 4.436 | 4.479 | -1.6% |
+| Stock Exchange Data | S&P 500 | 5,567.19 | mrkt closed | 5,537.02 | 5,509.01 | 5,475.09 | 2.0% |
+| Stock Exchange Data | Nasdaq | 20,391.97 | mrkt closed | 20,186.63 | 20,011.89 | 19,812.22 | 3.6% |
+| Stock Exchange Data | Dow Jones | 39,375.87 | mrkt closed | 39,308.00 | 39,331.85 | 39,169.52 | 0.7% |
+| Stock Exchange Data | FTSE 100 | 8,203.93 | 8,241.26 | 8,171.12 | 8,121.20 | 8,166.76 | 0.5% |
+| Stock Exchange Data | FTSE All-Share UK | 4,486.08 | 4,497.97 | 4,463.09 | 4,429.66 | 4,451.48 | 0.8% |
+| Stock Exchange Data | CAC40 | 7,675.62 | 7,695.78 | 7,632.08 | 7,538.29 | 7,561.13 | 2.6% |
+| Stock Exchange Data | Xetra Dax | 18,475.45 | 18,450.48 | 18,374.53 | 18,164.06 | 18,290.66 | 1.3% |
+| Stock Exchange Data | Nikkei | 40,912.37 | 40,913.65 | 40,580.76 | 40,074.69 | 39,631.06 | 3.4% |
+| Stock Exchange Data | Hang Seng | 17,799.61 | 18,028.28 | 17,978.57 | 17,769.14 | 17,718.61 | 0.5% |
+| Stock Exchange Data | DJ US Maritime | 394.23 | mrkt closed | 399.09 | 396.50 | 397.35 | 0.0% |
+| Currencies | € / $ | 1.08 | 1.08 | 1.08 | 1.07 | 1.07 | 1.1% |
+| Currencies | £ / $ | 1.28 | 1.28 | 1.27 | 1.27 | 1.26 | 1.3% |
+| Currencies | $ / ¥ | 160.72 | 161.25 | 161.68 | 161.44 | 161.45 | -0.1% |
+| Currencies | $ / NoK | 10.56 | 10.57 | 10.55 | 10.67 | 10.65 | -1.0% |
+| Currencies | Yuan / $ | 7.27 | 7.27 | 7.27 | 7.27 | 7.27 | 0.0% |
+| Currencies | Won / $ | 1,376.57 | 1,380.22 | 1,386.80 | 1,386.03 | 1,382.50 | -0.3% |
+| Currencies | $ INDEX | 104.88 | 105.13 | 105.40 | 105.72 | 105.90 | -0.9% |
+
+## Bunker Prices
+
+| Grade | Port | 5-Jul-24 | 28-Jun-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 760.0 | 756.0 | 0.5% |
+| MGO | Houston | 608.0 | 581.0 | 4.6% |
+| MGO | Singapore | 764.0 | 758.0 | 0.8% |
+| 380cst | Rotterdam | 524.0 | 503.0 | 4.2% |
+| 380cst | Houston | 497.0 | 485.0 | 2.5% |
+| 380cst | Singapore | 537.0 | 522.0 | 2.9% |
+| VLSFO | Rotterdam | 589.0 | 570.0 | 3.3% |
+| VLSFO | Houston | 608.0 | 581.0 | 4.6% |
+| VLSFO | Singapore | 642.0 | 627.0 | 2.4% |
+
+## Oil Prices
+
+| Category | Indicator | 5-Jul-24 | 28-Jun-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 86.5 | 86.4 | 0.2% |
+| OIL | WTI | 83.2 | 81.5 | 2.0% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 05-Jul-24 | 28-Jun-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 16.78 | 17.03 | -1.5% |
+| COSTAMARE INC | NYSE | USD | 16.13 | 16.43 | -1.8% |
+| DANAOS CORPORATION | NYSE | USD | 89.68 | 92.36 | -2.9% |
+| DIANA SHIPPING | NYSE | USD | 2.88 | 2.86 | 0.7% |
+| EUROSEAS LTD. | NASDAQ | USD | 40.20 | 34.91 | 15.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.88 | 1.88 | 0.0% |
+| SAFE BULKERS INC | NYSE | USD | 5.86 | 5.82 | 0.7% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 10.62 | 9.87 | 7.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 24.21 | 24.38 | -0.7% |
+| STEALTHGAS INC | NASDAQ | USD | 7.33 | 7.35 | -0.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 28.23 | 29.28 | -3.6% |
+
+## Macro-economic headlines
+
+• In the euro area, the June HCOB Eurozone Composite PMI declined to 50.9 from 52.2 in May.
+
+• In US, the June S&P Global Services PMI rose to 55.3 up from 54.8 in May while the ISM Non-Manufacturing PMI fell to 48.8 in June from 53.8 in May.
+
+• In Germany, May Trade Balance increased to 24.9 Billion from 22.2 Billion in April.
+
+• In China, the June CPI remained flat m-o-m while marked a rise by 0.4% y-o-y.

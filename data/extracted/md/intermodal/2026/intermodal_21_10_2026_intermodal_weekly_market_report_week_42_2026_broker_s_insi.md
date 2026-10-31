@@ -275,3 +275,73 @@ Aliaga remained stable. Local steel demand slowed slightly, with steel prices ea
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ASIA CEMENT NO. 3 | 12,332 | 3,626 | 1989 | SHIN KURUSHIMA, Japan | BC | $446/Ldt | Bangladeshi |
 | FOTEX | 8,668 | 2,600 | 1997 | SHIN KURUSHIMA, Japan | BC | $530/Ldt | Bangladeshi |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 16-Oct-26 | 15-Oct-26 | 14-Oct-26 | 13-Oct-26 | 12-Oct-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 5.098 | 5.087 | 5.190 | 5.217 | 5.244 | -2.8% |
+| Stock Exchange Data | S&P 500 | 7,659.44 | 7,744.06 | 7,718.94 | 7,805.45 | 7,807.24 | -1.9% |
+| Stock Exchange Data | Nasdaq | 29,187.55 | 29,935.60 | 29,950.82 | 30,569.48 | 30,664.70 | -5.5% |
+| Stock Exchange Data | Dow Jones | 52,002.41 | 52,177.69 | 51,621.48 | 51,670.10 | 51,850.55 | 0.7% |
+| Stock Exchange Data | FTSE 100 | 10,881.90 | 10,840.35 | 10,724.86 | 10,650.33 | 10,656.28 | 3.1% |
+| Stock Exchange Data | FTSE All-Share UK | 5,859.84 | 5,837.10 | 5,780.46 | 5,744.29 | 5,746.57 | 2.9% |
+| Stock Exchange Data | CAC40 | 7,956.70 | 7,934.70 | 7,873.11 | 7,827.63 | 7,832.88 | 2.0% |
+| Stock Exchange Data | Xetra Dax | 25,622.61 | 25,382.62 | 25,298.61 | 25,259.90 | 25,277.68 | 2.1% |
+| Stock Exchange Data | Nikkei | 65,324.29 | 64,425.95 | 67,744.29 | 67,777.52 | 67,946.50 | -5.4% |
+| Stock Exchange Data | Hang Seng | 24,186.83 | 24,062.72 | 24,314.17 | 24,345.22 | 24,271.20 | -0.1% |
+| Stock Exchange Data | DJ US Maritime | 447.84 | 450.20 | 452.43 | 448.95 | 446.03 | 0.1% |
+| Currencies | € / $ | 1.12 | 1.12 | 1.12 | 1.12 | 1.12 | 0.3% |
+| Currencies | £ / $ | 1.33 | 1.33 | 1.32 | 1.33 | 1.32 | 0.7% |
+| Currencies | $ / ¥ | 157.99 | 157.98 | 158.31 | 158.29 | 158.61 | -0.2% |
+| Currencies | $ / NoK | 9.41 | 9.45 | 9.51 | 9.51 | 9.56 | -1.5% |
+| Currencies | Yuan / $ | 6.69 | 6.69 | 6.69 | 6.69 | 6.69 | -0.1% |
+| Currencies | Won / $ | 1,334.19 | 1,341.28 | 1,338.17 | 1,341.02 | 1,334.58 | -0.5% |
+| Currencies | $ INDEX | 101.84 | 102.06 | 102.55 | 102.18 | 102.59 | -0.4% |
+
+## Bunker Prices
+
+| Grade | Port | 16-Oct-26 | 9-Oct-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,372.8 | 1,364.8 | 0.6% |
+| MGO | Houston | 1,410.0 | 1,378.0 | 2.3% |
+| MGO | Singapore | 1,265.0 | 1,262.0 | 0.2% |
+| 380cst | Rotterdam | 672.8 | 653.0 | 3.0% |
+| 380cst | Houston | 602.3 | 569.3 | 5.8% |
+| 380cst | Singapore | 877.0 | 800.5 | 9.6% |
+| VLSFO | Rotterdam | 749.8 | 721.8 | 3.9% |
+| VLSFO | Houston | 772.8 | 757.0 | 2.1% |
+| VLSFO | Singapore | 919.3 | 877.8 | 4.7% |
+
+## Oil Prices
+
+| Category | Indicator | 16-Oct-26 | 9-Oct-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 109.9 | 104.7 | 4.9% |
+| OIL | WTI | 101.4 | 91.9 | 10.4% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 16-Oct-26 | 09-Oct-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 20.41 | 20.63 | -1.1% |
+| COSTAMARE INC | NYSE | USD | 13.97 | 15.12 | -7.6% |
+| DANAOS CORPORATION | NYSE | USD | 158.17 | 164.10 | -3.6% |
+| DIANA SHIPPING | NYSE | USD | 2.50 | 2.82 | -11.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 66.17 | 71.24 | -7.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 3.10 | 3.35 | -7.5% |
+| SAFE BULKERS INC | NYSE | USD | 7.83 | 8.53 | -8.2% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 15.28 | 17.11 | -10.7% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 27.79 | 29.70 | -6.4% |
+| STEALTHGAS INC | NASDAQ | USD | 8.57 | 9.05 | -5.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 51.18 | 51.40 | -0.4% |
+
+## Macro-economic headlines
+
+▪ In China, the PBoC kept its benchmark lending rates unchanged in October for the seventeenth consecutive month, in line with market expectations. The one-year LPR remained at 3.0%, while the five-year LPR, the benchmark for mortgage rates, was held at 3.5%. ▪ In the Eurozone, CPI inflation accelerated to 3.8% y-o-y in September, matching market forecasts, up from 3.2% in August.
+
+▪ In Germany, the PPI rose by 6.7% y-o-y in September, exceeding market forecasts of 6.3% and accelerating from 4.6% in August. ▪ In the UK, GDP grew by 2.1% y-o-y in August, surpassing market expectations of 1.7% and the 1.6% growth recorded in July.

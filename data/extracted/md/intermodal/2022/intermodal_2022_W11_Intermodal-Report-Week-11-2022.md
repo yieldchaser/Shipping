@@ -299,3 +299,79 @@ The ongoing volatility on the commodities prices amidst the Russia-Ukraine war h
 | DELPHIN | 2,901 | 8,594 | 1978 | OY WARTSILA TURKU, Finland | ROPAX | undisclosed | undisclosed |  |
 
 © Intermodal Research 22/03/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 18-Mar-22 | 17-Mar-22 | 16-Mar-22 | 15-Mar-22 | 14-Mar-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 2.148 | 2.192 | 2.188 | 2.160 | 2.140 | 7.2% |
+| Stock Exchange Data | S&P 500 | 4,463.12 | 4,411.67 | 4,357.86 | 4,262.45 | 4,204.31 | 6.2% |
+| Stock Exchange Data | Nasdaq | 13,893.84 | 13,614.78 | 13,436.55 | 12,948.62 | 12,581.22 | 8.2% |
+| Stock Exchange Data | Dow Jones | 34,754.93 | 34,480.76 | 34,063.10 | 33,544.34 | 32,945.24 | 5.5% |
+| Stock Exchange Data | FTSE 100 | 7,404.73 | 7,385.34 | 7,291.68 | 7,175.70 | 7,193.47 | 3.5% |
+| Stock Exchange Data | FTSE All-Share UK | 4,135.37 | 4,120.17 | 4,074.09 | 3,999.12 | 4,014.87 | 3.7% |
+| Stock Exchange Data | CAC40 | 6,620.24 | 6,612.52 | 6,588.64 | 6,355.00 | 6,369.94 | 5.8% |
+| Stock Exchange Data | Xetra Dax | 14,413.09 | 14,388.06 | 14,440.74 | 13,917.27 | 13,929.11 | 3.5% |
+| Stock Exchange Data | Nikkei | 26,827.43 | 26,652.89 | 25,762.01 | 25,346.48 | 25,307.85 | 6.0% |
+| Stock Exchange Data | Hang Seng | 21,501.23 | 21,501.23 | 20,087.50 | 18,415.08 | 19,531.66 | 2.9% |
+| Stock Exchange Data | DJ US Maritime | 232.07 | 227.28 | 223.41 | 223.51 | 226.07 | -2.6% |
+| Currencies | € / $ | 1.11 | 1.11 | 1.10 | 1.10 | 1.09 | 1.4% |
+| Currencies | £ / $ | 1.32 | 1.32 | 1.31 | 1.30 | 1.30 | 1.1% |
+| Currencies | $ / ¥ | 119.21 | 118.49 | 118.88 | 118.29 | 118.22 | 1.6% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.11 | 0.11 | 0.11 | 2.6% |
+| Currencies | Yuan / $ | 6.36 | 6.35 | 6.35 | 6.37 | 6.37 | 0.3% |
+| Currencies | Won / $ | 1,211.37 | 1,210.61 | 1,223.05 | 1,241.76 | 1,242.10 | -2.1% |
+| Currencies | $ INDEX | 98.23 | 97.97 | 98.62 | 99.10 | 99.00 | -0.9% |
+
+## Bunker Prices
+
+| Grade | Port | 18-Mar-22 | 11-Mar-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,023.0 | 1,078.5 | -5.1% |
+| MGO | Houston | 1,186.5 | 1,209.5 | -1.9% |
+| MGO | Singapore | 990.0 | 1,007.5 | -1.7% |
+| 380cst | Rotterdam | 643.5 | 654.0 | -1.6% |
+| 380cst | Houston | 707.5 | 748.0 | -5.4% |
+| 380cst | Singapore | 612.5 | 632.5 | -3.2% |
+| VLSFO | Rotterdam | 847.5 | 957.0 | -11.4% |
+| VLSFO | Houston | 891.5 | 923.0 | -3.4% |
+| VLSFO | Singapore | 842.5 | 882.5 | -4.5% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 18-Mar-22 | 11-Mar-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.18 | 15.53 | -2.3% |
+| COSTAMARE INC | NYSE | USD | 16.78 | 15.96 | 5.1% |
+| DANAOS CORPORATION | NYSE | USD | 105.23 | 95.13 | 10.6% |
+| DIANA SHIPPING | NYSE | USD | 4.66 | 4.93 | -5.5% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 62.31 | 65.88 | -5.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 29.70 | 28.72 | 3.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.34 | 2.13 | 9.9% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 3.76 | 3.76 | 0.0% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 32.78 | 36.49 | -10.2% |
+| SAFE BULKERS INC | NYSE | USD | 4.50 | 4.62 | -2.6% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.17 | 1.28 | -8.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 29.29 | 30.13 | -2.8% |
+| STEALTHGAS INC | NASDAQ | USD | 2.32 | 2.21 | 5.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 8.87 | 8.08 | 9.8% |
+
+## Market News
+
+“ANZ Bank hands U-Ming another $50m in green financing
+
+Taiwanese bulker owner U-Ming Marine Transport has sealed more sustainability-linked funding in a deal with Australia’s ANZ Bank.
+
+The $50m loan will be used to progress the shipping company#s fleet renewal plan.
+
+This includes the delivery of 11 new bulk carriers by the end of 2022.
+
+The vessels have an optimised hull design, together with energy-saving main engines and devices, ultra-low friction paint hull-coating and a fleet safety management system designed by U-Ming.
+
+“We want to assure our customers that we are working towards the goal of operating an environmental-friendly fleet for the benefit of the next generation so that shipping is sustainable for our planet over the long term,” said U-Ming president CK Ong.
+
+“We are committed to making significant investments in this goal and we aim to be a leader in our market,”...(TradeWinds)

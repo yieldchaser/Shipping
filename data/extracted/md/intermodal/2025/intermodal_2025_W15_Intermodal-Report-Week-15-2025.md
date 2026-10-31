@@ -231,3 +231,77 @@ The Turkish ship recycling sector is experiencing a modest yet consistent influx
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | FIRSTEC | 34,074 | 8,110 | 1997 | IMABARI, Japan | BC | $448/Ldt | undisclosed | as is Hong Kong |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 11-Apr-25 | 10-Apr-25 | 9-Apr-25 | 8-Apr-25 | 7-Apr-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.493 | 4.392 | 4.396 | 4.260 | 4.157 | 12.6% |
+| Stock Exchange Data | S&P 500 | 5,363.36 | 5,268.05 | 5,456.90 | 4,982.77 | 5,062.25 | 5.7% |
+| Stock Exchange Data | Nasdaq | 18,690.05 | 18,343.57 | 19,145.06 | 17,090.40 | 17,430.68 | 7.4% |
+| Stock Exchange Data | Dow Jones | 40,212.71 | 39,593.66 | 40,608.45 | 37,645.59 | 37,965.60 | 5.0% |
+| Stock Exchange Data | FTSE 100 | 7,964.18 | 7,913.25 | 7,679.48 | 7,910.53 | 7,702.08 | -1.1% |
+| Stock Exchange Data | FTSE All-Share UK | 4,303.84 | 4,279.89 | 4,151.42 | 4,273.88 | 4,158.48 | -0.9% |
+| Stock Exchange Data | CAC40 | 7,104.80 | 7,126.02 | 6,863.02 | 7,100.42 | 6,927.12 | -2.3% |
+| Stock Exchange Data | Xetra Dax | 20,374.10 | 20,562.73 | 19,670.88 | 20,280.26 | 19,789.62 | -1.3% |
+| Stock Exchange Data | Nikkei | 33,585.58 | 34,609.00 | 31,714.03 | 33,012.58 | 31,136.58 | -0.6% |
+| Stock Exchange Data | Hang Seng | 20,914.69 | 20,681.78 | 20,264.49 | 20,127.68 | 19,828.30 | -8.5% |
+| Stock Exchange Data | DJ US Maritime | 317.13 | 306.00 | 315.06 | 286.63 | 290.77 | 8.3% |
+| Currencies | € / $ | 1.14 | 1.12 | 1.10 | 1.10 | 1.09 | 3.7% |
+| Currencies | £ / $ | 1.31 | 1.30 | 1.28 | 1.28 | 1.27 | 1.5% |
+| Currencies | $ / ¥ | 143.51 | 144.45 | 147.72 | 146.28 | 147.84 | -2.3% |
+| Currencies | $ / NoK | 10.61 | 10.80 | 10.75 | 10.94 | 10.94 | -1.3% |
+| Currencies | Yuan / $ | 7.29 | 7.31 | 7.35 | 7.34 | 7.31 | 0.1% |
+| Currencies | Won / $ | 1,419.53 | 1,452.73 | 1,445.80 | 1,485.83 | 1,469.91 | -2.7% |
+| Currencies | $ INDEX | 100.10 | 100.87 | 102.90 | 102.96 | 103.26 | -2.8% |
+
+## Bunker Prices
+
+| Grade | Port | 11-Apr-25 | 4-Apr-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 587.0 | 608.0 | -3.5% |
+| MGO | Houston | 606.0 | 645.0 | -6.0% |
+| MGO | Singapore | 582.0 | 603.0 | -3.5% |
+| 380cst | Rotterdam | 400.0 | 416.0 | -3.8% |
+| 380cst | Houston | 398.0 | 427.0 | -6.8% |
+| 380cst | Singapore | 415.0 | 431.0 | -3.7% |
+| VLSFO | Rotterdam | 435.0 | 443.0 | -1.8% |
+| VLSFO | Houston | 453.0 | 490.0 | -7.6% |
+| VLSFO | Singapore | 481.0 | 497.0 | -3.2% |
+
+## Oil Prices
+
+| Category | Indicator | 11-Apr-25 | 4-Apr-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 64.8 | 65.6 | -1.3% |
+| OIL | WTI | 61.5 | 62.0 | -0.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 11-Apr-25 | 04-Apr-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 16.95 | 18.23 | -7.0% |
+| COSTAMARE INC | NYSE | USD | 8.99 | 8.95 | 0.4% |
+| DANAOS CORPORATION | NYSE | USD | 73.45 | 69.29 | 6.0% |
+| DIANA SHIPPING | NYSE | USD | 1.43 | 1.35 | 5.9% |
+| EUROSEAS LTD. | NASDAQ | USD | 29.54 | 27.20 | 8.6% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.12 | 1.15 | -2.7% |
+| SAFE BULKERS INC | NYSE | USD | 3.48 | 3.23 | 7.7% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 5.37 | 5.14 | 4.5% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 14.24 | 13.08 | 8.9% |
+| STEALTHGAS INC | NASDAQ | USD | 5.17 | 5.12 | 1.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 15.96 | 13.81 | 15.6% |
+
+## Macro-economic headlines
+
+In India RBI eased monetary policy at its April meeting by reducing the benchmark interest rate by 25 basis points to 6%, aligning with market expectations. This represents the second consecutive reduction of equal magnitude.
+
+In USA the CPI declined by 0.1% in March, contrary to market forecasts which predicted a 0.1% increase. This downturn follows February's 0.2% rise.
+
+In China a Trade Surplus of $102.64bn was recorded in March, well exceeding market projections of a $74.30bn surplus, though lower than February’s record surplus of $170.52bn. The surplus was primarily driven by a sharp increase in exports, as shippers frontloaded products ahead of impending US tariffs.
+
+In Germany the CPI rose by 0.3% in March, consistent with market expectations and below than February’s rate of 0.4%.

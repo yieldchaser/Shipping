@@ -327,3 +327,81 @@ The recycling market activity remains positive with breakers' bids following an 
 | GLOBAL MARINER | 7,168 | 4,010 | 1989 | SHIKOKU, Japan | REEFER | $ 626/Ldt | undisclosed |  |
 
 © Intermodal Research 12/04/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 8-Apr-22 | 7-Apr-22 | 6-Apr-22 | 5-Apr-22 | 4-Apr-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 2.713 | 2.652 | 2.609 | 2.556 | 2.412 | 14.1% |
+| Stock Exchange Data | S&P 500 | 4,488.28 | 4,500.21 | 4,481.15 | 4,525.12 | 4,545.86 | -1.3% |
+| Stock Exchange Data | Nasdaq | 13,711.00 | 13,897.30 | 13,888.82 | 14,204.17 | 14,532.55 | -3.9% |
+| Stock Exchange Data | Dow Jones | 34,721.12 | 34,583.57 | 34,496.51 | 34,641.18 | 34,921.88 | -0.3% |
+| Stock Exchange Data | FTSE 100 | 7,669.56 | 7,551.81 | 7,587.70 | 7,613.72 | 7,558.92 | 1.7% |
+| Stock Exchange Data | FTSE All-Share UK | 4,258.23 | 4,199.46 | 4,218.12 | 4,238.74 | 4,213.27 | 1.4% |
+| Stock Exchange Data | CAC40 | 6,548.22 | 6,461.68 | 6,498.83 | 6,645.51 | 6,731.37 | -2.0% |
+| Stock Exchange Data | Xetra Dax | 14,283.67 | 14,078.15 | 14,151.69 | 14,424.36 | 14,518.16 | -1.6% |
+| Stock Exchange Data | Nikkei | 26,985.80 | 26,888.57 | 27,350.30 | 27,787.98 | 27,736.47 | -2.7% |
+| Stock Exchange Data | Hang Seng | 21,872.01 | 21,872.01 | 21,808.98 | 22,080.52 | 22,502.31 | -0.6% |
+| Stock Exchange Data | DJ US Maritime | 216.81 | 213.59 | 213.76 | 221.51 | 228.73 | -6.8% |
+| Currencies | € / $ | 1.09 | 1.09 | 1.09 | 1.09 | 1.09 | -1.6% |
+| Currencies | £ / $ | 1.30 | 1.30 | 1.31 | 1.31 | 1.31 | -0.6% |
+| Currencies | $ / ¥ | 124.30 | 124.30 | 124.13 | 123.75 | 123.67 | 1.5% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.11 | 0.11 | 0.11 | -0.3% |
+| Currencies | Yuan / $ | 6.37 | 6.37 | 6.36 | 6.36 | 6.36 | 0.0% |
+| Currencies | Won / $ | 1,229.16 | 1,229.16 | 1,222.80 | 1,217.70 | 1,218.85 | 0.8% |
+| Currencies | $ INDEX | 99.80 | 99.75 | 99.60 | 99.47 | 99.00 | 1.2% |
+
+## Bunker Prices
+
+| Grade | Port | 8-Apr-22 | 1-Apr-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,131.5 | 1,084.5 | 4.3% |
+| MGO | Houston | 1,160.0 | 1,107.0 | 4.8% |
+| MGO | Singapore | 1,096.5 | 1,076.0 | 1.9% |
+| 380cst | Rotterdam | 622.0 | 647.0 | -3.9% |
+| 380cst | Houston | 668.5 | 657.5 | 1.7% |
+| 380cst | Singapore | 682.0 | 670.0 | 1.8% |
+| VLSFO | Rotterdam | 836.0 | 873.0 | -4.2% |
+| VLSFO | Houston | 864.5 | 857.5 | 0.8% |
+| VLSFO | Singapore | 823.0 | 853.0 | -3.5% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 08-Apr-22 | 01-Apr-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 17.17 | 18.76 | -8.5% |
+| COSTAMARE INC | NYSE | USD | 15.16 | 17.13 | -11.5% |
+| DANAOS CORPORATION | NYSE | USD | 90.21 | 104.34 | -13.5% |
+| DIANA SHIPPING | NYSE | USD | 5.06 | 5.24 | -3.4% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 66.57 | 69.20 | -3.8% |
+| EUROSEAS LTD. | NASDAQ | USD | 25.44 | 29.00 | -12.3% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.05 | 2.11 | -2.8% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 3.29 | 3.66 | -10.1% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 32.39 | 35.41 | -8.5% |
+| SAFE BULKERS INC | NYSE | USD | 4.08 | 4.77 | -14.5% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.12 | 1.15 | -2.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 28.30 | 30.36 | -6.8% |
+| STEALTHGAS INC | NASDAQ | USD | 2.37 | 2.37 | 0.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 10.67 | 9.24 | 15.5% |
+
+## Market News
+
+“Stronger shipping markets boost profits at Hamburg Commercial Bank
+
+Hamburg Commercial Bank (HCOB) has doubled the amount of new shipping business on the back of stronger shipping markets.
+
+New business with both German and international shipping companies grew to €1.9bn ($2.07bn) in the 2021 fiscal year — up from €900,000 in the previous corresponding period.
+
+The former HSH Nordbank, once the world’s largest ship financier, was able to take advantage of strong demand for ship transport capacity.
+
+That was reflected in the bank’s bottom line where profits from its shipping desk more than trebled.
+
+Net income after taxes from the shipping desk rose to €62m for the 2021 fiscal year, up from €17m in the previous year.
+
+The results are the first in the year in which the bank completed its transformation from public to private ownership.
+
+The transformation was successfully completed at the end of 2021, with a switch to...(TradeWinds)

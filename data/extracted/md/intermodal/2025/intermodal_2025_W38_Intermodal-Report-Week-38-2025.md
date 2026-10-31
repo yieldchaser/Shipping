@@ -251,3 +251,77 @@ Another muted week for the Turkey, with market participants adopting a wait and 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ASIAN ENTERPRISE | 42,529 | 9,016 | 1995 | NAMURA, Japan | BC | $420/Ldt | Bangladeshi |
 | TUTUK | 13,500 | 2,948 | 1996 | HITACHI ZOSEN, Japan | TANKER | undisclosed | Bangladeshi |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 19-Sep-25 | 18-Sep-25 | 17-Sep-25 | 16-Sep-25 | 15-Sep-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.139 | 4.104 | 4.076 | 4.026 | 4.034 | 1.9% |
+| Stock Exchange Data | S&P 500 | 6,664.36 | 6,631.96 | 6,600.35 | 6,606.76 | 6,615.28 | 1.2% |
+| Stock Exchange Data | Nasdaq | 24,626.25 | 24,454.89 | 24,223.69 | 24,274.25 | 24,293.78 | 2.2% |
+| Stock Exchange Data | Dow Jones | 46,315.27 | 46,142.42 | 46,018.32 | 45,757.90 | 45,883.45 | 1.0% |
+| Stock Exchange Data | FTSE 100 | 9,216.67 | 9,228.11 | 9,208.37 | 9,195.66 | 9,277.03 | -0.7% |
+| Stock Exchange Data | FTSE All-Share UK | 4,986.34 | 4,995.35 | 4,983.02 | 4,973.34 | 5,016.09 | -0.6% |
+| Stock Exchange Data | CAC40 | 7,853.59 | 7,854.61 | 7,786.98 | 7,818.22 | 7,896.93 | 0.4% |
+| Stock Exchange Data | Xetra Dax | 23,639.41 | 23,674.53 | 23,359.18 | 23,329.24 | 23,748.86 | -0.2% |
+| Stock Exchange Data | Nikkei | 45,045.81 | 45,303.43 | 44,790.38 | 44,902.27 | 44,938.00 | 0.6% |
+| Stock Exchange Data | Hang Seng | 26,545.10 | 26,544.85 | 26,908.39 | 26,438.51 | 26,446.56 | 0.6% |
+| Stock Exchange Data | DJ US Maritime | 275.90 | 275.86 | 271.27 | 277.64 | 277.24 | -2.3% |
+| Currencies | € / $ | 1.17 | 1.18 | 1.18 | 1.19 | 1.18 | 0.1% |
+| Currencies | £ / $ | 1.35 | 1.36 | 1.36 | 1.36 | 1.36 | -0.7% |
+| Currencies | $ / ¥ | 147.94 | 147.99 | 146.97 | 146.48 | 147.40 | 0.2% |
+| Currencies | $ / NoK | 9.93 | 9.88 | 9.81 | 9.75 | 9.82 | 0.9% |
+| Currencies | Yuan / $ | 7.12 | 7.11 | 7.10 | 7.11 | 7.12 | -0.1% |
+| Currencies | Won / $ | 1,397.09 | 1,388.11 | 1,380.12 | 1,378.66 | 1,384.99 | 0.3% |
+| Currencies | $ INDEX | 97.64 | 97.35 | 96.87 | 96.63 | 97.30 | 0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 19-Sep-25 | 12-Sep-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 676.0 | 675.0 | 0.1% |
+| MGO | Houston | 669.0 | 667.0 | 0.3% |
+| MGO | Singapore | 673.0 | 671.0 | 0.3% |
+| 380cst | Rotterdam | 398.0 | 396.0 | 0.5% |
+| 380cst | Houston | 400.0 | 404.0 | -1.0% |
+| 380cst | Singapore | 409.0 | 406.0 | 0.7% |
+| VLSFO | Rotterdam | 461.0 | 465.0 | -0.9% |
+| VLSFO | Houston | 463.0 | 471.0 | -1.7% |
+| VLSFO | Singapore | 482.0 | 472.0 | 2.1% |
+
+## Oil Prices
+
+| Category | Indicator | 19-Sep-25 | 12-Sep-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 66.7 | 67.0 | -0.5% |
+| OIL | WTI | 62.7 | 62.7 | 0.0% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 19-Sep-25 | 12-Sep-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 22.05 | 20.56 | 7.2% |
+| COSTAMARE INC | NYSE | USD | 12.28 | 12.30 | -0.2% |
+| DANAOS CORPORATION | NYSE | USD | 92.60 | 94.63 | -2.1% |
+| DIANA SHIPPING | NYSE | USD | 1.85 | 1.94 | -4.6% |
+| EUROSEAS LTD. | NASDAQ | USD | 62.54 | 63.97 | -2.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.30 | 1.05 | 23.7% |
+| SAFE BULKERS INC | NYSE | USD | 4.53 | 4.55 | -0.4% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 8.77 | 8.68 | 1.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.70 | 19.21 | 2.6% |
+| STEALTHGAS INC | NASDAQ | USD | 7.02 | 7.30 | -3.8% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 22.72 | 22.29 | 1.9% |
+
+## Macro-economic headlines
+
+In Eurozone, the CPI upticked by 0.1% in August, slightly below market forecasts of 0.2% but higher than July’s flat reading.
+
+In United States, the Federal Reserve lowered the benchmark interest rate by 25 bps in September to 4.25%, as expected. This marked the first rate cut since December.
+
+In China, PBoC decided to maintain lending rate at a record low of 3% for a fourth consecutive month, in line with market estimations.
+
+In Germany the PPI declined by 0.5% m-o-m in August, a steeper decline than July’s decline and market expectations, both at 0.1%.

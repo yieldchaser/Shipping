@@ -255,3 +255,77 @@ Pakistan saw a similarly muted market. Local steel prices softened slightly, and
 | PRINCESS LOTUS | 70,189 | 9,214 | 1996 | SUMITOMO, Japan | BC | $ 430/Ldt | Bangladeshi | 'as is' China with 200 ts bunkers |
 | MSC MALIN | 21,370 | 10,655 | 1982 | WARNOWWERFT, Germany | CONTAINER | undisclosed | Turkish |  |
 | HAPPY BUCCANEER | 13,740 | 9,900 | 1984 | HITACHI ZOSEN, Japan | GENERAL CARGO | undisclosed | Turkish |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 18-Oct-24 | 17-Oct-24 | 16-Oct-24 | 15-Oct-24 | 14-Oct-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.075 | 4.096 | 4.016 | 4.038 | 4.073 | 0.0% |
+| Stock Exchange Data | S&P 500 | 5,864.67 | 5,841.47 | 5,842.47 | 5,815.26 | 5,859.85 | 0.9% |
+| Stock Exchange Data | Nasdaq | 20,324.04 | 20,190.42 | 20,174.05 | 20,159.83 | 20,439.05 | 0.3% |
+| Stock Exchange Data | Dow Jones | 43,275.91 | 43,239.05 | 43,077.70 | 42,740.42 | 43,065.22 | 1.0% |
+| Stock Exchange Data | FTSE 100 | 8,358.25 | 8,385.13 | 8,329.07 | 8,249.28 | 8,292.66 | 1.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,570.30 | 4,581.39 | 4,551.77 | 4,509.11 | 4,530.10 | 1.3% |
+| Stock Exchange Data | CAC40 | 7,613.05 | 7,583.73 | 7,492.00 | 7,521.97 | 7,602.06 | 0.5% |
+| Stock Exchange Data | Xetra Dax | 19,657.37 | 19,583.39 | 19,432.81 | 19,486.19 | 19,508.29 | 1.5% |
+| Stock Exchange Data | Nikkei | 38,981.75 | 38,911.19 | 39,180.30 | 39,910.55 | mrkt close | -1.6% |
+| Stock Exchange Data | Hang Seng | 20,804.11 | 20,079.10 | 20,286.85 | 20,318.79 | 21,092.87 | -2.1% |
+| Stock Exchange Data | DJ US Maritime | 401.26 | 407.30 | 406.64 | 398.17 | 406.21 | -2.2% |
+| Currencies | € / $ | 1.09 | 1.08 | 1.09 | 1.09 | 1.09 | -0.6% |
+| Currencies | £ / $ | 1.30 | 1.30 | 1.30 | 1.31 | 1.31 | -0.1% |
+| Currencies | $ / ¥ | 149.52 | 150.20 | 149.62 | 149.19 | 149.75 | 0.3% |
+| Currencies | $ / NoK | 10.92 | 10.91 | 10.91 | 10.80 | 10.80 | 2.2% |
+| Currencies | Yuan / $ | 7.10 | 7.12 | 7.12 | 7.12 | 7.09 | 0.5% |
+| Currencies | Won / $ | 1,368.37 | 1,369.84 | 1,363.70 | 1,363.65 | 1,356.26 | 1.5% |
+| Currencies | $ INDEX | 103.49 | 103.83 | 103.59 | 103.26 | 103.30 | 0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 18-Oct-24 | 11-Oct-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 637.0 | 687.0 | -7.3% |
+| MGO | Houston | 641.0 | 701.0 | -8.6% |
+| MGO | Singapore | 643.0 | 685.0 | -6.1% |
+| 380cst | Rotterdam | 473.0 | 521.0 | -9.2% |
+| 380cst | Houston | 455.0 | 478.0 | -4.8% |
+| 380cst | Singapore | 463.0 | 497.0 | -6.8% |
+| VLSFO | Rotterdam | 537.0 | 562.0 | -4.4% |
+| VLSFO | Houston | 521.0 | 551.0 | -5.4% |
+| VLSFO | Singapore | 583.0 | 615.0 | -5.2% |
+
+## Oil Prices
+
+| Category | Indicator | 18-Oct-24 | 11-Oct-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 73.1 | 79.0 | -7.6% |
+| OIL | WTI | 69.2 | 75.6 | -8.4% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 18-Oct-24 | 11-Oct-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 19.84 | 18.56 | 6.9% |
+| COSTAMARE INC | NYSE | USD | 14.38 | 14.65 | -1.8% |
+| DANAOS CORPORATION | NYSE | USD | 84.42 | 86.96 | -2.9% |
+| DIANA SHIPPING | NYSE | USD | 2.39 | 2.42 | -1.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 43.31 | 43.30 | 0.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.81 | 1.82 | -0.5% |
+| SAFE BULKERS INC | NYSE | USD | 4.45 | 4.72 | -5.7% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 10.40 | 10.78 | -3.5% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 20.40 | 21.05 | -3.1% |
+| STEALTHGAS INC | NASDAQ | USD | 6.40 | 6.64 | -3.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 24.93 | 25.37 | -1.7% |
+
+## Macro-economic headlines
+
+In US, Core Retail Sales increased by 0.5% m-o-m in September while Retail Sales recorded an increase of 0.4% m-o-m in September.
+
+In China, y-o-y Q3 GDP growth was reported at 4.6%.
+
+In the EU, the CPI rose y-o-y by 1.7% in September. The Deposit Facility Rate declined to 3.25% in October from 3.5% in September while the ECB interest Rate also declined by 0.15 points to 3.40% in September
+
+In UK, the CPI rose by 1.7% y-o-y in September.

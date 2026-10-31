@@ -252,3 +252,77 @@ Turkey's ship recycling market showed mild improvement, lending some optimism to
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MONICA P | 46,667 | 7,813 | 1998 | MITSUI, Japan | BC | $380/Ldt | Bangladeshi | as is Belawan |
 | PREMIUM BAHARI | 10,300 | 2,627 | 2000 | JINLING, China | GENERAL CARGO | $275/Ldt | undisclosed | as is Jakarta, Indonesia |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 24-Oct-25 | 23-Oct-25 | 22-Oct-25 | 21-Oct-25 | 20-Oct-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.997 | 3.989 | 3.953 | 3.963 | 3.988 | -0.3% |
+| Stock Exchange Data | S&P 500 | 6,791.69 | 6,738.44 | 6,699.40 | 6,735.35 | 6,735.13 | 1.9% |
+| Stock Exchange Data | Nasdaq | 25,358.16 | 25,097.42 | 24,879.01 | 25,127.13 | 25,141.02 | 2.2% |
+| Stock Exchange Data | Dow Jones | 47,207.12 | 46,734.61 | 46,590.41 | 46,924.74 | 46,706.58 | 2.2% |
+| Stock Exchange Data | FTSE 100 | 9,645.62 | 9,578.57 | 9,515.00 | 9,426.99 | 9,403.57 | 3.1% |
+| Stock Exchange Data | FTSE All-Share UK | 5,215.78 | 5,179.30 | 5,145.32 | 5,094.85 | 5,082.78 | 3.1% |
+| Stock Exchange Data | CAC40 | 8,225.63 | 8,225.78 | 8,206.87 | 8,258.86 | 8,206.07 | 0.6% |
+| Stock Exchange Data | Xetra Dax | 24,239.89 | 24,207.79 | 24,151.13 | 24,330.03 | 24,258.80 | 1.7% |
+| Stock Exchange Data | Nikkei | 49,299.65 | 48,641.61 | 49,307.79 | 49,316.06 | 49,185.50 | 3.6% |
+| Stock Exchange Data | Hang Seng | 26,160.15 | 25,967.98 | 25,781.77 | 26,027.55 | 25,858.83 | 3.6% |
+| Stock Exchange Data | DJ US Maritime | 285.15 | 281.84 | 280.89 | 284.92 | 283.77 | 1.5% |
+| Currencies | € / $ | 1.16 | 1.16 | 1.16 | 1.16 | 1.16 | -0.2% |
+| Currencies | £ / $ | 1.33 | 1.33 | 1.34 | 1.34 | 1.34 | -0.9% |
+| Currencies | $ / ¥ | 152.85 | 152.58 | 151.97 | 151.93 | 150.74 | 1.5% |
+| Currencies | $ / NoK | 9.97 | 9.96 | 10.01 | 10.05 | 10.04 | -0.6% |
+| Currencies | Yuan / $ | 7.12 | 7.12 | 7.13 | 7.12 | 7.12 | -0.1% |
+| Currencies | Won / $ | 1,438.82 | 1,436.55 | 1,431.85 | 1,431.17 | 1,421.03 | 1.2% |
+| Currencies | $ INDEX | 98.95 | 98.94 | 98.90 | 98.93 | 98.59 | 0.5% |
+
+## Bunker Prices
+
+| Grade | Port | 24-Oct-25 | 17-Oct-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 686.0 | 609.0 | 12.6% |
+| MGO | Houston | 680.0 | 626.0 | 8.6% |
+| MGO | Singapore | 718.0 | 647.0 | 11.0% |
+| 380cst | Rotterdam | 415.0 | 391.0 | 6.1% |
+| 380cst | Houston | 405.0 | 391.0 | 3.6% |
+| 380cst | Singapore | 407.0 | 376.0 | 8.2% |
+| VLSFO | Rotterdam | 448.0 | 400.0 | 12.0% |
+| VLSFO | Houston | 455.0 | 442.0 | 2.9% |
+| VLSFO | Singapore | 461.0 | 440.0 | 4.8% |
+
+## Oil Prices
+
+| Category | Indicator | 24-Oct-25 | 17-Oct-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 65.9 | 61.3 | 7.6% |
+| OIL | WTI | 61.5 | 57.5 | 6.9% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 24-Oct-25 | 17-Oct-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 22.15 | 22.75 | -2.7% |
+| COSTAMARE INC | NYSE | USD | 11.42 | 11.58 | -1.4% |
+| DANAOS CORPORATION | NYSE | USD | 87.57 | 86.80 | 0.9% |
+| DIANA SHIPPING | NYSE | USD | 1.71 | 1.69 | 1.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 55.47 | 55.52 | -0.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.18 | 1.21 | -2.5% |
+| SAFE BULKERS INC | NYSE | USD | 4.45 | 4.31 | 3.2% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 8.23 | 8.03 | 2.5% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 17.51 | 17.68 | -1.0% |
+| STEALTHGAS INC | NASDAQ | USD | 6.48 | 6.34 | 2.2% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 23.30 | 22.37 | 4.2% |
+
+## Macro-economic headlines
+
+In United States, the CPI rose by 0.3% m-o-m in September, slightly below market expectations and August’s 0.4% increase.
+
+In Germany, the Ifo Business Climate Index stood at 88.4 in October, exceeding both market forecasts (88.1) and September’s figure (87.7).
+
+In India, Manufacturing Output expanded by 4.8% in September, outpacing August’s 3.8% growth.
+
+In UK, Core CPI remained unchanged in September, defying market estimations of a 0.2% increase and below August’s 0.3% reading.

@@ -255,3 +255,70 @@ The demolition market activity improved last week, yet the overall sentiment is 
 | HAVEN GUARDER | 27,860 | 6,079 | 1995 | KANASASHI, Japan | BC | $ 554/Ldt | Bangladeshi |  |
 | HENG YANG | 8,143 | 3,535 | 1994 | BOELWERF TEMSE, Belgium | TANKER | $ 930/Ldt | undisclosed | as is Indonesia, incl StSt |
 | KOKURYU MARU | 2,700 | 3,950 | 1992 | IMABARI, Japan | GENERAL CARGO | $ 325/Ldt | undisclosed | as is Japan |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 14-Jul-23 | 13-Jul-23 | 12-Jul-23 | 11-Jul-23 | 10-Jul-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.819 | 3.761 | 3.861 | 3.980 | 4.006 | -5.7% |
+| Stock Exchange Data | S&P 500 | 4,505.42 | 4,510.04 | 4,472.16 | 4,439.26 | 3,990.97 | 2.4% |
+| Stock Exchange Data | Nasdaq | 14,113.70 | 14,138.57 | 13,918.96 | 13,760.70 | 13,685.48 | 3.3% |
+| Stock Exchange Data | Dow Jones | 34,509.03 | 34,395.14 | 34,347.43 | 34,261.42 | 33,944.40 | 2.3% |
+| Stock Exchange Data | FTSE 100 | 7,434.57 | 7,440.21 | 7,416.11 | 7,282.52 | 7,273.79 | 2.4% |
+| Stock Exchange Data | FTSE All-Share UK | 4,056.48 | 4,061.27 | 4,048.29 | 3,973.18 | 3,965.80 | 2.5% |
+| Stock Exchange Data | CAC40 | 7,374.54 | 7,369.80 | 7,333.01 | 7,220.01 | 7,143.69 | 3.7% |
+| Stock Exchange Data | Xetra Dax | 16,105.07 | 16,141.03 | 16,023.00 | 15,790.34 | 15,673.16 | 2.8% |
+| Stock Exchange Data | Nikkei | 32,391.26 | 32,419.33 | 31,943.93 | 32,203.57 | 32,189.73 | 0.6% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 19,350.62 | 18,860.95 | 18,659.83 | 18,479.72 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 247.34 | 249.37 | 249.37 | 247.77 | 247.50 | -1.1% |
+| Currencies | € / $ | 1.12 | 1.12 | 1.11 | 1.10 | 1.10 | 2.5% |
+| Currencies | £ / $ | 1.31 | 1.31 | 1.30 | 1.29 | 1.29 | 1.9% |
+| Currencies | $ / ¥ | 138.70 | 138.08 | 138.32 | 140.12 | 141.30 | -2.4% |
+| Currencies | $ / NoK | 0.0995 | 0.1005 | 0.0989 | 0.0966 | 0.0955 | 6.0% |
+| Currencies | Yuan / $ | 7.14 | 7.15 | 7.17 | 7.21 | 7.23 | -1.1% |
+| Currencies | Won / $ | 1,269.33 | 1,267.18 | 1,275.03 | 1,291.86 | 1,299.87 | -2.3% |
+| Currencies | $ INDEX | 99.91 | 99.77 | 100.52 | 101.73 | 101.97 | -2.3% |
+
+## Bunker Prices
+
+| Grade | Port | 14-Jul-23 | 7-Jul-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 14-Jul-23 | 07-Jul-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.33 | 13.79 | 11.2% |
+| COSTAMARE INC | NYSE | USD | 9.81 | 10.14 | -3.3% |
+| DANAOS CORPORATION | NYSE | USD | 66.66 | 68.29 | -2.4% |
+| DIANA SHIPPING | NYSE | USD | 3.77 | 3.79 | -0.5% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 44.32 | 46.39 | -4.5% |
+| EUROSEAS LTD. | NASDAQ | USD | 20.90 | 21.84 | -4.3% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 0.87 | 0.89 | -2.2% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.65 | 1.64 | 0.6% |
+| SAFE BULKERS INC | NYSE | USD | 3.29 | 3.31 | -0.6% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 0.99 | 1.00 | -1.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 17.79 | 17.21 | 3.4% |
+| STEALTHGAS INC | NASDAQ | USD | 4.59 | 4.38 | 4.8% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.51 | 18.66 | -6.2% |
+
+## Macro-economic headlines
+
+• US: Both nominal and core inflation for June declined, reaching 3.0% and 4.8% respectively, showing early signs that inflation is finally easing.
+
+• EU: The Industrial Production for May rose marginally at 0.2%, below expectations (1%), suggesting a slower recovery than initially expected.
+
+• China: GDP data came out last week, showing a slowdown in the second Quarter at 0.8%, vs 2.2% the previous Quarter. The Year-over-Year increase was at 6.3%, again below expectations of 7.1%. Other data shows that Industrial production rose from 3.5% to 4.4%, while retail sales plunged from 12.7% to 3.1%.

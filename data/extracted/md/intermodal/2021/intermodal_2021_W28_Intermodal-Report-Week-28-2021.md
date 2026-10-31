@@ -336,3 +336,77 @@ A combination of rising steel plate prices and a small number of offered vintage
 | SABAHAT TELLI | 4,563 | 2,167 | 1982 | MENZER-WERFT GEESTHACHT, Germany | TANKER | undisclosed | Indian |
 
 © Intermodal Research 20/07/2021 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 16-Jul-21 | 15-Jul-21 | 14-Jul-21 | 13-Jul-21 | 12-Jul-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.300 | 1.297 | 1.356 | 1.415 | 1.363 | -4.1% |
+| Stock Exchange Data | S&P 500 | 4,327.16 | 4,360.03 | 4,374.30 | 4,369.21 | 4,369.55 | -1.0% |
+| Stock Exchange Data | Nasdaq | 14,427.24 | 14,543.13 | 14,644.95 | 14,677.65 | 14,733.24 | -1.9% |
+| Stock Exchange Data | Dow Jones | 34,687.85 | 34,987.02 | 34,933.23 | 34,888.79 | 34,996.18 | -0.5% |
+| Stock Exchange Data | FTSE 100 | 7,008.09 | 7,012.02 | 7,091.19 | 7,124.72 | 7,125.42 | -1.6% |
+| Stock Exchange Data | FTSE All-Share UK | 4,002.80 | 4,005.80 | 4,049.86 | 4,071.21 | 4,070.34 | -1.6% |
+| Stock Exchange Data | CAC40 | 6,460.08 | 6,493.36 | 6,558.38 | 6,558.47 | 6,559.25 | -1.1% |
+| Stock Exchange Data | Xetra Dax | 15,540.31 | 15,629.66 | 15,788.98 | 15,789.64 | 15,790.51 | -1.6% |
+| Stock Exchange Data | Nikkei | 28,003.08 | 28,279.09 | 28,608.49 | 28,718.24 | 28,569.02 | -2.0% |
+| Stock Exchange Data | Hang Seng | 27,996.27 | 27,996.27 | 27,787.46 | 27,963.41 | 27,515.24 | 3.1% |
+| Stock Exchange Data | DJ US Maritime | 188.06 | 189.57 | 191.01 | 193.73 | 198.17 | -5.1% |
+| Currencies | € / $ | 1.18 | 1.18 | 1.18 | 1.18 | 1.19 | -0.6% |
+| Currencies | £ / $ | 1.38 | 1.38 | 1.39 | 1.38 | 1.39 | -1.0% |
+| Currencies | $ / ¥ | 110.08 | 109.78 | 109.99 | 110.59 | 110.34 | 0.0% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.11 | 0.11 | 0.12 | -2.9% |
+| Currencies | Yuan / $ | 6.48 | 6.46 | 6.47 | 6.47 | 6.48 | 0.0% |
+| Currencies | Won / $ | 1,142.50 | 1,141.09 | 1,144.41 | 1,149.85 | 1,147.51 | -0.2% |
+| Currencies | $ INDEX | 92.69 | 92.62 | 92.41 | 92.75 | 92.26 | 0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 16-Jul-21 | 9-Jul-21 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 592.0 | 613.0 | -3.4% |
+| MGO | Houston | 610.0 | 604.5 | 0.9% |
+| MGO | Singapore | 588.0 | 592.5 | -0.8% |
+| 380cst | Rotterdam | 408.0 | 413.5 | -1.3% |
+| 380cst | Houston | 417.5 | 418.0 | -0.1% |
+| 380cst | Singapore | 419.0 | 421.0 | -0.5% |
+| VLSFO | Rotterdam | 527.5 | 537.0 | -1.8% |
+| VLSFO | Houston | 528.5 | 536.0 | -1.4% |
+| VLSFO | Singapore | 547.5 | 543.0 | 0.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 16-Jul-21 | 09-Jul-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 11.07 | 11.95 | -7.4% |
+| COSTAMARE INC | NYSE | USD | 10.54 | 11.74 | -10.2% |
+| DANAOS CORPORATION | NYSE | USD | 62.14 | 73.16 | -15.1% |
+| DIANA SHIPPING | NYSE | USD | 3.91 | 4.31 | -9.3% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 37.90 | 43.99 | -13.8% |
+| EUROSEAS LTD. | NASDAQ | USD | 18.19 | 21.76 | -16.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.91 | 3.45 | -15.7% |
+| NAVIOS MARITIME ACQUISITIONS | NYSE | USD | 2.66 | 3.18 | -16.4% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 5.30 | 7.37 | -28.1% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 21.47 | 26.51 | -19.0% |
+| SAFE BULKERS INC | NYSE | USD | 3.10 | 3.54 | -12.4% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.02 | 1.10 | -7.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 17.34 | 20.35 | -14.8% |
+| STEALTHGAS INC | NASDAQ | USD | 2.61 | 2.88 | -9.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 7.64 | 8.14 | -6.1% |
+| TOP SHIPS INC | NASDAQ | USD | 1.30 | 1.49 | -12.8% |
+
+## Market News
+
+“ABN Amro chief explains call to sell $700m US book
+
+When it made a strategic decision in August 2020 to pull back from shipping clients in the US and Asia and retrench to key customers in its European core, lender ABN Amro had a choice: preside over the run-off of existing loans over time, or sell the portfolio.
+
+In the end, it would up doing a little bit of both, global shipping head Joep Gorgels explained after his bank's announcement of a $700m sale to French lender Societe Generale. ABN Amro said the loans were sold near book value.
+
+"Back in August 2020 we made the decision to completely exit the global commodities financing segment, as well as to stop our natural resources, energy, shipping and intermodal activities in the Americas and Asia. We will continue to focus on expanding our European based shipping and intermodal and (renewable) energy product offering from offices [in] Amsterdam, Athens and Oslo," Gorgels said in a message to TradeWinds.
+
+"With regards to pulling back from shipping and intermodal in the USA, there were indeed several options. One of them is letting the loans mature and wait for a natural run-off. Actually we did so the last 11 months with some of the...”(TradeWinds)

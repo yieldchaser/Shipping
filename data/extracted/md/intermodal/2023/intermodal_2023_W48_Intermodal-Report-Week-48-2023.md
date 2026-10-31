@@ -234,3 +234,70 @@ Last week was very quiet, with subdued activity in the major scrapping areas. St
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | G HARMONY | 35,014 | 11,248 | 2005 | KOUAN, China | GENERAL CARGO | $ 531/Ldt | Pakistani |
 | DEVASHREE | 7,849 | 2,650 | 2000 | FUKUOKA, Japan | TANKER | $ 480/Ldt | Indian |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 1-Dec-23 | 30-Nov-23 | 29-Nov-23 | 28-Nov-23 | 27-Nov-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.209 | 4.330 | 4.259 | 4.325 | 4.390 | -5.9% |
+| Stock Exchange Data | S&P 500 | 4,594.63 | 4,567.80 | 4,550.58 | 4,554.89 | 4,550.43 | 0.8% |
+| Stock Exchange Data | Nasdaq | 14,305.03 | 14,226.22 | 14,258.49 | 14,281.76 | 14,241.02 | 0.4% |
+| Stock Exchange Data | Dow Jones | 36,245.50 | 35,950.89 | 35,430.42 | 35,416.98 | 35,333.47 | 2.4% |
+| Stock Exchange Data | FTSE 100 | 7,529.35 | 7,453.75 | 7,423.46 | 7,455.24 | 7,460.70 | 0.5% |
+| Stock Exchange Data | FTSE All-Share UK | 4,094.48 | 4,053.80 | 4,047.89 | 4,059.87 | 4,064.18 | 0.4% |
+| Stock Exchange Data | CAC40 | 7,346.15 | 7,310.77 | 7,267.64 | 7,250.13 | 7,265.49 | 0.7% |
+| Stock Exchange Data | Xetra Dax | 16,397.52 | 16,215.43 | 16,166.45 | 15,992.67 | 15,966.37 | 2.7% |
+| Stock Exchange Data | Nikkei | 33,431.51 | 33,486.89 | 33,321.22 | 33,408.39 | 33,447.67 | 0.0% |
+| Stock Exchange Data | Hang Seng | 16,830.30 | 17,042.88 | 16,993.44 | 17,354.14 | 17,526.64 | -4.0% |
+| Stock Exchange Data | DJ US Maritime | 251.93 | 251.93 | 247.96 | 250.16 | 254.53 | -0.8% |
+| Currencies | € / $ | 1.09 | 1.09 | 1.10 | 1.10 | 1.10 | -0.5% |
+| Currencies | £ / $ | 1.27 | 1.26 | 1.27 | 1.27 | 1.26 | 0.8% |
+| Currencies | $ / ¥ | 146.82 | 148.04 | 147.04 | 147.05 | 148.45 | -1.8% |
+| Currencies | $ / NoK | 0.0939 | 0.0925 | 0.0938 | 0.0943 | 0.0940 | 0.3% |
+| Currencies | Yuan / $ | 7.07 | 7.09 | 7.09 | 7.07 | 7.13 | -0.3% |
+| Currencies | Won / $ | 1,294.84 | 1,297.66 | 1,290.10 | 1,300.22 | 1,304.53 | -0.9% |
+| Currencies | $ INDEX | 103.27 | 103.50 | 102.76 | 102.75 | 103.20 | -0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 1-Dec-23 | 24-Nov-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 01-Dec-23 | 24-Nov-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.64 | 14.32 | -4.7% |
+| COSTAMARE INC | NYSE | USD | 10.61 | 9.71 | 9.3% |
+| DANAOS CORPORATION | NYSE | USD | 71.48 | 69.35 | 3.1% |
+| DIANA SHIPPING | NYSE | USD | 3.45 | 3.39 | 1.8% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 47.87 | 44.19 | 8.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 30.02 | 28.55 | 5.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.44 | 1.95 | 25.1% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.25 | 2.24 | 0.4% |
+| SAFE BULKERS INC | NYSE | USD | 3.98 | 3.71 | 7.3% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 7.34 | 6.58 | 11.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 21.90 | 20.24 | 8.2% |
+| STEALTHGAS INC | NASDAQ | USD | 6.81 | 6.85 | -0.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 20.51 | 20.83 | -1.5% |
+
+## Macro-economic headlines
+
+• US: The production levels of the US manufacturing sector, as measured by the ISM Manufacturing Purchasing Managers' Index (PMI), were at 46.7 in November - below the level which indicates expansion. Meanwhile, the Gross Domestic Product (GDP) for the third quarter of the year grew by 5.2%, exceeding expectations, and Building Permits rose to 1,498 million, which is 1.8% greater than the previous month's level.
+
+• EU: Consumer Price Index (CPI) was recorded 2.4% in November, indicating a decrease of 0.5% compared to the previous month. In Germany, the CPI also fell by -0.4% at 3.2%, whereas in France it fell by -0.2%. Additionally, the GDP of France contracted by -0.1% on a monthly basis.
+
+• China: The Chinese Manufacturing PMI was 49.4 in November, and the Non-Manufacturing PMI was 50.2.

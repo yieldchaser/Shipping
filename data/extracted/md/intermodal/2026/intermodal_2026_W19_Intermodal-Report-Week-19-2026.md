@@ -236,3 +236,77 @@ Turkey remains largely sidelined, with a sliding lira, re-accelerating inflation
 | USD/INR | 94.444 | 94.91 | -0.49% | 94.91 |
 | USD/PKR | 278.63 | 278.83 | -0.07% | 280.05 |
 | USD/TRY | 45.35 | 45.17 | 0.40% | 45.35 |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 8-May-26 | 7-May-26 | 6-May-26 | 5-May-26 | 4-May-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.364 | 4.394 | 4.354 | 4.416 | 4.446 | -0.3% |
+| Stock Exchange Data | S&P 500 | 7,398.93 | 7,337.11 | 7,365.12 | 7,259.22 | 7,200.75 | 2.3% |
+| Stock Exchange Data | Nasdaq | 29,234.99 | 28,563.95 | 28,599.17 | 28,015.06 | 27,651.82 | 5.5% |
+| Stock Exchange Data | Dow Jones | 49,609.16 | 49,596.97 | 49,910.59 | 49,298.25 | 48,941.90 | 0.2% |
+| Stock Exchange Data | FTSE 100 | 10,233.07 | 10,276.95 | 10,438.66 | 10,219.11 | 10,363.93 | -1.3% |
+| Stock Exchange Data | FTSE All-Share UK | 5,504.53 | 5,526.27 | 5,601.60 | 5,486.96 | 5,557.81 | -1.0% |
+| Stock Exchange Data | CAC40 | 8,112.57 | 8,202.08 | 8,299.42 | 8,062.31 | 7,976.12 | 0.0% |
+| Stock Exchange Data | Xetra Dax | 24,338.63 | 24,663.61 | 24,918.69 | 24,401.70 | 23,991.27 | 0.2% |
+| Stock Exchange Data | Nikkei | 62,713.65 | 62,833.84 | 61,858.00 | 59,513.12 | 59,513.12 | 5.4% |
+| Stock Exchange Data | Hang Seng | 26,393.71 | 26,626.28 | 26,213.78 | 25,898.61 | 26,095.88 | 2.4% |
+| Stock Exchange Data | DJ US Maritime | 466.91 | 466.84 | 467.92 | 470.62 | 474.26 | -3.4% |
+| Currencies | € / $ | 1.18 | 1.17 | 1.17 | 1.17 | 1.17 | 0.5% |
+| Currencies | £ / $ | 1.36 | 1.36 | 1.36 | 1.35 | 1.35 | 0.4% |
+| Currencies | $ / ¥ | 156.65 | 156.91 | 156.39 | 157.87 | 157.22 | -0.2% |
+| Currencies | $ / NoK | 9.20 | 9.31 | 9.30 | 9.25 | 9.27 | -0.7% |
+| Currencies | Yuan / $ | 6.80 | 6.80 | 6.81 | 6.83 | 6.83 | -0.4% |
+| Currencies | Won / $ | 1,461.49 | 1,458.47 | 1,444.93 | 1,468.58 | 1,475.52 | -0.6% |
+| Currencies | $ INDEX | 97.90 | 98.07 | 98.02 | 98.44 | 98.37 | -0.3% |
+
+## Bunker Prices
+
+| Grade | Port | 8-May-26 | 1-May-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,171.3 | 1,317.3 | -11.1% |
+| MGO | Houston | 1,117.5 | 1,217.3 | -8.2% |
+| MGO | Singapore | 1,158.5 | 1,285.5 | -9.9% |
+| 380cst | Rotterdam | 677.8 | 655.3 | 3.4% |
+| 380cst | Houston | 623.3 | 666.8 | -6.5% |
+| 380cst | Singapore | 662.8 | 710.8 | -6.8% |
+| VLSFO | Rotterdam | 769.0 | 791.0 | -2.8% |
+| VLSFO | Houston | 788.0 | 869.0 | -9.3% |
+| VLSFO | Singapore | 798.5 | 801.3 | -0.3% |
+
+## Oil Prices
+
+| Category | Indicator | 8-May-26 | 1-May-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 101.3 | 108.2 | -6.4% |
+| OIL | WTI | 95.4 | 101.9 | -6.4% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 08-May-26 | 01-May-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 20.39 | 20.61 | -1.0% |
+| COSTAMARE INC | NYSE | USD | 17.62 | 16.47 | 7.0% |
+| DANAOS CORPORATION | NYSE | USD | 134.63 | 119.77 | 12.4% |
+| DIANA SHIPPING | NYSE | USD | 2.71 | 2.56 | 5.9% |
+| EUROSEAS LTD. | NASDAQ | USD | 73.19 | 70.57 | 3.7% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.17 | 2.22 | -2.3% |
+| SAFE BULKERS INC | NYSE | USD | 7.03 | 6.67 | 5.4% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 16.61 | 15.47 | 7.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 26.83 | 25.28 | 6.1% |
+| STEALTHGAS INC | NASDAQ | USD | 9.90 | 10.07 | -1.7% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 43.80 | 42.40 | 3.3% |
+
+## Macro-economic headlines
+
+In China, the trade surplus widened to $84.82bn in April from $51.13bn in March, exceeding market expectations of $83.1bn. The increase was driven by a 14% y-o-y rise in exports, amid stockpiling rush linked to geopolitical concerns over potentially higher input costs stemming from the Middle East crisis. Imports also surged by 25.3% y-o-y, marking a second consecutive month of exceptionally strong growth.
+
+In USA, CPI accelerated to 3.8% y-o-y in April, close to forecasts of 3.7% and above March’s 3.3% reading.
+
+In the Eurozone, PPI rose by 2.1% y-o-y in March, surpassing market estimations of a 1.8% increase and reversing February’s 3% decline.
+
+In Germany, industrial production contracted by 0.7% in March, slightly deeper than February’s 0.5% decline and contrary to market expectations for a 0.4% expansion.

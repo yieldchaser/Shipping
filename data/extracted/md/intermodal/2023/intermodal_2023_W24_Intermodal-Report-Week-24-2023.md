@@ -261,3 +261,72 @@ The demolition market remained tight with only 3 vessels being sold for scrap. B
 | SCO QINGDAO | 10,010 | 3,759 | 1997 | QIUIXIN, China | CONTAINER | $ 610/Ldt | Bangladeshi |
 | EDRICKO 3 | 1,390 | undisclosed | 1994 | KURINOURA, Japan | TANKER | undisclosed | undisclosed |
 | SW DIAMOND | 1,172 | 3,028 | 1993 | FLEKKEFJORD, Norway | RESEARCH | undisclosed | Turkish |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 16-Jun-23 | 15-Jun-23 | 14-Jun-23 | 13-Jun-23 | 12-Jun-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.769 | 3.728 | 3.796 | 3.839 | 3.765 | 0.6% |
+| Stock Exchange Data | S&P 500 | 4,409.59 | 4,425.84 | 4,372.59 | 4,369.01 | 3,990.97 | 2.6% |
+| Stock Exchange Data | Nasdaq | 13,689.57 | 13,782.82 | 13,626.48 | 13,573.32 | 13,461.92 | 3.2% |
+| Stock Exchange Data | Dow Jones | 34,299.12 | 34,408.06 | 33,979.33 | 34,212.12 | 34,066.33 | 1.2% |
+| Stock Exchange Data | FTSE 100 | 7,642.72 | 7,628.26 | 7,602.74 | 7,594.78 | 7,570.69 | 1.1% |
+| Stock Exchange Data | FTSE All-Share UK | 4,168.12 | 4,161.92 | 4,154.38 | 4,151.46 | 4,140.42 | 0.8% |
+| Stock Exchange Data | CAC40 | 7,388.65 | 7,290.91 | 7,328.53 | 7,290.80 | 7,250.35 | 2.4% |
+| Stock Exchange Data | Xetra Dax | 16,357.63 | 16,290.12 | 16,310.79 | 16,230.68 | 16,097.87 | 1.6% |
+| Stock Exchange Data | Nikkei | 33,706.08 | 33,485.49 | 33,502.42 | 33,018.65 | 32,434.00 | 3.9% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 19,828.92 | 19,408.42 | 19,521.42 | 19,404.31 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 244.71 | 245.89 | 245.89 | 244.91 | 246.09 | -0.6% |
+| Currencies | € / $ | 1.10 | 1.09 | 1.08 | 1.08 | 1.08 | 1.9% |
+| Currencies | £ / $ | 1.28 | 1.28 | 1.27 | 1.26 | 1.25 | 2.1% |
+| Currencies | $ / ¥ | 141.85 | 140.26 | 139.98 | 140.18 | 139.46 | 1.8% |
+| Currencies | $ / NoK | 0.0946 | 0.0952 | 0.0940 | 0.0939 | 0.0926 | 1.8% |
+| Currencies | Yuan / $ | 7.13 | 7.12 | 7.16 | 7.17 | 7.15 | 0.0% |
+| Currencies | Won / $ | 1,277.30 | 1,270.38 | 1,274.34 | 1,267.95 | 1,284.93 | -0.8% |
+| Currencies | $ INDEX | 102.24 | 102.11 | 102.95 | 103.65 | 103.65 | -1.3% |
+
+## Bunker Prices
+
+| Grade | Port | 16-Jun-23 | 9-Jun-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 16-Jun-23 | 09-Jun-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.82 | 14.05 | -1.6% |
+| COSTAMARE INC | NYSE | USD | 9.21 | 9.05 | 1.8% |
+| DANAOS CORPORATION | NYSE | USD | 65.33 | 64.94 | 0.6% |
+| DIANA SHIPPING | NYSE | USD | 3.90 | 3.78 | 3.2% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 45.31 | 43.25 | 4.8% |
+| EUROSEAS LTD. | NASDAQ | USD | 21.06 | 21.48 | -2.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 0.98 | 0.91 | 7.7% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.65 | 1.75 | -5.7% |
+| SAFE BULKERS INC | NYSE | USD | 3.35 | 3.30 | 1.5% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 1.08 | 1.07 | 0.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.41 | 18.12 | 1.6% |
+| STEALTHGAS INC | NASDAQ | USD | 3.39 | 3.12 | 8.7% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 18.66 | 17.17 | 8.7% |
+
+## Macro-economic headlines
+
+• US: The Fed decided to pause rate hikes for June as fundamentals were strong. They hinted at further rate hikes in the future. Inflation was 4% year-on-year in May, down from 4.9% in April. On the employment front, initial jobless claims were at 262,000.
+
+• EU: The European Central Bank raised interest rates by 25bps to 3.5% and indicated further increases. Inflation was forecast at 0.5% for 2023 and 2024, and core inflation at 2.3% for 2025.
+
+• Japan: Exports rose 0.6% y/y in May, while the tertiary industry activity index rose 1.2% m/m in May.
+
+• China: Industrial production fell by 3.5% on an annual basis in May. At the same time, new loans in May were 1,360.0 billion, higher than the previous month's 718.8 billion.

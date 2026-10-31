@@ -346,3 +346,81 @@ The demolition scrap levels lost further ground last week heavily burdened by th
 | MASCOT 8 | 107,261 | 16,616 | 1998 | KOYO MIHARA, Japan | TANKER | $ 640/Ldt | Bangladeshi | dely as-is Singapore |
 
 © Intermodal Research 17/05/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 13-May-22 | 12-May-22 | 11-May-22 | 10-May-22 | 9-May-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 2.935 | 2.817 | 2.921 | 2.993 | 3.079 | -6.0% |
+| Stock Exchange Data | S&P 500 | 4,023.89 | 3,930.08 | 3,935.18 | 4,001.05 | 4,123.34 | -2.4% |
+| Stock Exchange Data | Nasdaq | 11,805.00 | 11,370.96 | 11,364.24 | 11,737.67 | 11,623.25 | -2.8% |
+| Stock Exchange Data | Dow Jones | 32,196.66 | 31,730.30 | 31,834.11 | 32,160.74 | 32,245.70 | -2.1% |
+| Stock Exchange Data | FTSE 100 | 7,418.15 | 7,233.34 | 7,347.66 | 7,243.22 | 7,216.58 | 0.4% |
+| Stock Exchange Data | FTSE All-Share UK | 4,099.06 | 3,999.79 | 4,058.67 | 4,002.22 | 3,987.87 | 0.4% |
+| Stock Exchange Data | CAC40 | 6,362.68 | 6,206.26 | 6,269.73 | 6,116.91 | 6,086.02 | 1.7% |
+| Stock Exchange Data | Xetra Dax | 14,027.93 | 13,739.64 | 13,828.64 | 13,534.74 | 13,380.67 | 4.8% |
+| Stock Exchange Data | Nikkei | 26,427.65 | 25,748.72 | 26,213.64 | 26,167.10 | 26,319.34 | 0.4% |
+| Stock Exchange Data | Hang Seng | 19,898.77 | 19,898.77 | 19,380.34 | 19,824.57 | 19,633.69 | -0.5% |
+| Stock Exchange Data | DJ US Maritime | 206.80 | 203.25 | 202.86 | 202.63 | 204.11 | -3.5% |
+| Currencies | € / $ | 1.04 | 1.04 | 1.05 | 1.05 | 1.06 | -1.2% |
+| Currencies | £ / $ | 1.23 | 1.22 | 1.22 | 1.23 | 1.23 | -0.6% |
+| Currencies | $ / ¥ | 129.27 | 128.60 | 129.85 | 130.33 | 130.42 | -1.0% |
+| Currencies | $ / NoK | 0.10 | 0.10 | 0.10 | 0.10 | 0.10 | -2.3% |
+| Currencies | Yuan / $ | 6.79 | 6.79 | 6.72 | 6.73 | 6.73 | 1.8% |
+| Currencies | Won / $ | 1,278.57 | 1,290.85 | 1,279.15 | 1,276.65 | 1,275.00 | 0.6% |
+| Currencies | $ INDEX | 104.56 | 104.85 | 103.85 | 103.92 | 103.65 | 0.9% |
+
+## Bunker Prices
+
+| Grade | Port | 13-May-22 | 6-May-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,152.5 | 1,258.0 | -8.4% |
+| MGO | Houston | 1,332.5 | 1,390.0 | -4.1% |
+| MGO | Singapore | 1,128.0 | 1,236.5 | -8.8% |
+| 380cst | Rotterdam | 627.5 | 643.5 | -2.5% |
+| 380cst | Houston | 719.0 | 740.0 | -2.8% |
+| 380cst | Singapore | 677.5 | 749.5 | -9.6% |
+| VLSFO | Rotterdam | 795.0 | 829.0 | -4.1% |
+| VLSFO | Houston | 871.5 | 856.5 | 1.8% |
+| VLSFO | Singapore | 867.0 | 880.0 | -1.5% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 13-May-22 | 06-May-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.74 | 15.70 | 0.3% |
+| COSTAMARE INC | NYSE | USD | 13.47 | 13.63 | -1.2% |
+| DANAOS CORPORATION | NYSE | USD | 79.82 | 84.60 | -5.7% |
+| DIANA SHIPPING | NYSE | USD | 5.17 | 5.17 | 0.0% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 63.78 | 68.10 | -6.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 23.52 | 25.10 | -6.3% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.06 | 2.38 | -13.4% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 3.27 | 3.65 | -10.4% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 27.92 | 32.16 | -13.2% |
+| SAFE BULKERS INC | NYSE | USD | 4.03 | 4.30 | -6.3% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.10 | 1.12 | -1.8% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 29.88 | 30.39 | -1.7% |
+| STEALTHGAS INC | NASDAQ | USD | 2.47 | 2.40 | 2.9% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 11.13 | 13.13 | -15.2% |
+
+## Market News
+
+“Solstad stock jumps 40% as Christen Sveaas buys a chunk of shares
+
+Norwegian investor Christen Sveaas has made another big offshore move by taking a major stake in domestic giant Solstad Offshore.
+
+A stock exchange filing reveals that Sveaas’ Kistefos company bought 4m shares in the restructured Oslo-listed offshore support vessel player on Friday.
+
+This gives the investment company a stake of 5.17%.
+
+The slice is now worth NOK 138.8m ($14.1m) after the Solstad share price rocketed nearly 40% on Friday to NOK 34.70.
+
+Another Norwegian tycoon, Kjell Inge Rokke, is the biggest shareholder at 24.84%, with DNB Markets second on 11.27%.
+
+Kistefos now ranks third, narrowly ahead of lender SEB.
+
+Sveaas already controls Swedish OSV owner Viking Supply Ships, as well as bulker operator Western Bulk...(TradeWinds)

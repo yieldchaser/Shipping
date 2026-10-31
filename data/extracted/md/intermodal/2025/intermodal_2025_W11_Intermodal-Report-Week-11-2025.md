@@ -250,3 +250,77 @@ Another lethargic week for the Turkish market, with the landscape remaining unch
 | RUN FU 6 | 28,294 | 6,262 | 1995 | NKK, Japan | BC | $ 435/Ldt | Bangladeshi |  |
 | SUNNY LINDEN | 5,845 | 2,210 | 1995 | SHINA, S. Korea | CONTAINER | $ 443/Ldt | undisclosed | as is Korea |
 | SEAWORLD MARINE | 5,601 | 5,541 | 1997 | ONOMICHI, Japan | RORO | $ 450/Ldt | undisclosed | as is Korea |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 14-Mar-25 | 13-Mar-25 | 12-Mar-25 | 11-Mar-25 | 10-Mar-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.308 | 4.276 | 4.316 | 4.288 | 4.213 | -0.2% |
+| Stock Exchange Data | S&P 500 | 5,638.94 | 5,521.52 | 5,599.30 | 5,572.07 | 5,614.56 | -2.3% |
+| Stock Exchange Data | Nasdaq | 19,704.64 | 19,225.48 | 19,596.02 | 19,376.96 | 19,430.95 | -2.5% |
+| Stock Exchange Data | Dow Jones | 41,488.19 | 40,813.57 | 41,350.93 | 41,433.48 | 41,911.71 | -3.1% |
+| Stock Exchange Data | FTSE 100 | 8,632.33 | 8,542.56 | 8,540.97 | 8,495.99 | 8,600.22 | -0.5% |
+| Stock Exchange Data | FTSE All-Share UK | 4,661.70 | 4,610.54 | 4,615.39 | 4,590.97 | 4,642.82 | -0.6% |
+| Stock Exchange Data | CAC40 | 8,028.28 | 7,938.21 | 7,988.96 | 7,941.91 | 8,047.60 | -1.1% |
+| Stock Exchange Data | Xetra Dax | 22,986.82 | 22,567.14 | 22,676.41 | 22,328.77 | 22,620.95 | -0.1% |
+| Stock Exchange Data | Nikkei | 37,053.10 | 36,790.03 | 36,819.09 | 36,793.11 | 37,028.27 | 0.4% |
+| Stock Exchange Data | Hang Seng | 23,959.98 | 23,462.65 | 23,600.31 | 23,782.14 | 23,783.49 | -1.1% |
+| Stock Exchange Data | DJ US Maritime | 325.07 | 315.68 | 317.22 | 316.34 | 312.17 | 2.0% |
+| Currencies | € / $ | 1.09 | 1.09 | 1.09 | 1.09 | 1.08 | 0.4% |
+| Currencies | £ / $ | 1.29 | 1.29 | 1.30 | 1.29 | 1.29 | 0.1% |
+| Currencies | $ / ¥ | 148.62 | 147.81 | 148.25 | 147.77 | 147.26 | 0.4% |
+| Currencies | $ / NoK | 10.61 | 10.66 | 10.63 | 10.64 | 10.75 | -2.2% |
+| Currencies | Yuan / $ | 7.24 | 7.24 | 7.24 | 7.23 | 7.26 | 0.1% |
+| Currencies | Won / $ | 1,450.62 | 1,453.23 | 1,451.00 | 1,451.08 | 1,459.23 | 0.1% |
+| Currencies | $ INDEX | 103.72 | 103.83 | 103.61 | 103.29 | 103.98 | -0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 14-Mar-25 | 7-Mar-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 606.0 | 620.0 | -2.3% |
+| MGO | Houston | 662.0 | 670.0 | -1.2% |
+| MGO | Singapore | 624.0 | 632.0 | -1.3% |
+| 380cst | Rotterdam | 444.0 | 435.0 | 2.1% |
+| 380cst | Houston | 424.0 | 430.0 | -1.4% |
+| 380cst | Singapore | 471.0 | 470.0 | 0.2% |
+| VLSFO | Rotterdam | 492.0 | 494.0 | -0.4% |
+| VLSFO | Houston | 509.0 | 511.0 | -0.4% |
+| VLSFO | Singapore | 506.0 | 499.0 | 1.4% |
+
+## Oil Prices
+
+| Category | Indicator | 14-Mar-25 | 7-Mar-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 70.6 | 70.4 | 0.3% |
+| OIL | WTI | 67.2 | 67.0 | 0.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 14-Mar-25 | 07-Mar-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 19.61 | 19.53 | 0.4% |
+| COSTAMARE INC | NYSE | USD | 10.29 | 10.36 | -0.7% |
+| DANAOS CORPORATION | NYSE | USD | 79.60 | 80.70 | -1.4% |
+| DIANA SHIPPING | NYSE | USD | 1.83 | 1.81 | 1.1% |
+| EUROSEAS LTD. | NASDAQ | USD | 32.58 | 33.45 | -2.6% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.29 | 1.29 | 0.0% |
+| SAFE BULKERS INC | NYSE | USD | 3.80 | 3.80 | 0.0% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 7.31 | 7.09 | 3.1% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 16.60 | 16.07 | 3.3% |
+| STEALTHGAS INC | NASDAQ | USD | 5.55 | 5.57 | -0.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 16.55 | 16.57 | -0.1% |
+
+## Macro-economic headlines
+
+In India, the trade deficit narrowed to $14.05 billion in February, down from $22.99 billion in January. This represents the lowest deficit since 2021.
+
+In China, industrial production rose by 5.9% YoY in January- February, exceeding market expectations of 5.3%, but lower than the 6.2% recorded in December 2024.
+
+In USA the CPI increased by 0.2% MoM in February, close to market forecast of 0.3% and below January’s 0.5% rise.
+
+In Eurozone, industrial production grew by 0.8% in January, surpassing market estimations of 0.5% and reversing the - 1.1% contraction witnessed in December 2024. This marked the largest growth rate since last August.

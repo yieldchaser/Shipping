@@ -249,3 +249,77 @@ Amidst the Diwali festivities, the recycling market witnessed another week of su
 | BOSS 7 | 18,469 | 4,531 | 1996 | CHEUNGGU MARINE, S. Korea | GENERAL CARGO | $ 473/Ldt | Indian |  |
 | SOFIA 3 | 12,839 | 3,732 | 1992 | SHIN KURUSHIMA, Japan | CONTAINER | $ 455/Ldt | Indian | 'as is' Khor Fakkan |
 | ARMADA SEJATI | 8,528 | 3,322 | 1991 | HAKATA, Japan | CONTAINER | $ 470/Ldt | Bangladeshi |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 1-Nov-24 | 31-Oct-24 | 30-Oct-24 | 29-Oct-24 | 28-Oct-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.363 | 4.284 | 4.264 | 4.274 | 4.278 | 3.1% |
+| Stock Exchange Data | S&P 500 | 5,728.80 | 5,705.45 | 5,813.67 | 5,832.92 | 5,823.52 | -1.4% |
+| Stock Exchange Data | Nasdaq | 20,033.14 | 19,890.42 | 20,387.70 | 20,550.65 | 20,351.07 | -1.6% |
+| Stock Exchange Data | Dow Jones | 42,052.19 | 41,763.46 | 42,141.54 | 42,233.05 | 42,387.57 | -0.1% |
+| Stock Exchange Data | FTSE 100 | 8,177.15 | 8,110.10 | 8,159.63 | 8,219.61 | 8,285.62 | -0.9% |
+| Stock Exchange Data | FTSE All-Share UK | 4,465.61 | 4,431.83 | 4,464.19 | 4,489.39 | 4,526.60 | -1.0% |
+| Stock Exchange Data | CAC40 | 7,409.11 | 7,350.37 | 7,428.36 | 7,511.11 | 7,556.94 | -1.2% |
+| Stock Exchange Data | Xetra Dax | 19,254.97 | 19,077.54 | 19,257.34 | 19,478.07 | 19,531.62 | -1.1% |
+| Stock Exchange Data | Nikkei | 38,053.67 | 39,081.25 | 39,277.39 | 38,903.68 | 38,605.53 | 0.4% |
+| Stock Exchange Data | Hang Seng | 20,506.43 | 20,317.33 | 20,380.64 | 20,701.14 | 20,599.36 | -0.4% |
+| Stock Exchange Data | DJ US Maritime | 375.13 | 376.70 | 379.43 | 403.92 | 409.59 | -8.9% |
+| Currencies | € / $ | 1.08 | 1.09 | 1.09 | 1.08 | 1.08 | 0.4% |
+| Currencies | £ / $ | 1.29 | 1.29 | 1.30 | 1.30 | 1.30 | -0.3% |
+| Currencies | $ / ¥ | 152.98 | 152.03 | 153.41 | 153.35 | 153.28 | 0.4% |
+| Currencies | $ / NoK | 11.03 | 10.99 | 10.95 | 10.95 | 10.99 | 0.6% |
+| Currencies | Yuan / $ | 7.12 | 7.12 | 7.12 | 7.13 | 7.13 | 0.0% |
+| Currencies | Won / $ | 1,378.48 | 1,372.58 | 1,378.27 | 1,383.24 | 1,382.09 | -0.7% |
+| Currencies | $ INDEX | 104.28 | 103.98 | 103.99 | 104.32 | 104.32 | 0.0% |
+
+## Bunker Prices
+
+| Grade | Port | 1-Nov-24 | 25-Oct-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 661.0 | 667.0 | -0.9% |
+| MGO | Houston | 666.0 | 654.0 | 1.8% |
+| MGO | Singapore | 684.0 | 658.0 | 4.0% |
+| 380cst | Rotterdam | 507.0 | 510.0 | -0.6% |
+| 380cst | Houston | 463.0 | 475.0 | -2.5% |
+| 380cst | Singapore | 482.0 | 486.0 | -0.8% |
+| VLSFO | Rotterdam | 521.0 | 541.0 | -3.7% |
+| VLSFO | Houston | 524.0 | 527.0 | -0.6% |
+| VLSFO | Singapore | 594.0 | 592.0 | 0.3% |
+
+## Oil Prices
+
+| Category | Indicator | 1-Nov-24 | 25-Oct-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 73.1 | 76.1 | -3.9% |
+| OIL | WTI | 69.5 | 71.8 | -3.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 01-Nov-24 | 25-Oct-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.46 | 19.29 | -4.3% |
+| COSTAMARE INC | NYSE | USD | 13.73 | 13.66 | 0.5% |
+| DANAOS CORPORATION | NYSE | USD | 81.95 | 82.84 | -1.1% |
+| DIANA SHIPPING | NYSE | USD | 2.21 | 2.27 | -2.6% |
+| EUROSEAS LTD. | NASDAQ | USD | 41.21 | 41.94 | -1.7% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.68 | 1.77 | -5.1% |
+| SAFE BULKERS INC | NYSE | USD | 4.19 | 4.26 | -1.6% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 9.32 | 9.75 | -4.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.04 | 19.35 | -1.6% |
+| STEALTHGAS INC | NASDAQ | USD | 5.67 | 6.07 | -6.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 21.67 | 22.80 | -5.0% |
+
+## Macro-economic headlines
+
+In US, the trade deficit of United States in September surged to $108.2 billion, notably above previous month ($94.3 billion) and market estimations ($95.9 billion). This figure marks the largest trade gap since March 2022, when the commodity supply disruptions stemming from the Russian invasion to Ukraine resulted to a deficit high of $125.3 billion.
+
+In China, the Manufacturing PMI for October read 50.1, the highest level since April, closely aligned with the market forecast of 49.8. This marks the second consecutive month of growth (September: 49.8), indicating a slight expansion in manufacturing activity.
+
+In the EU, Q3 2024 GDP increased by 0.4%, exceeding both Q2 2024 rate and market expectations (0.2%). This is the strongest growth rate since Q2 2022.
+
+In German, the Gfk German Consumer Climate Index increased to -18.3 compared to -21.2 in October, surpassing market expectations (-20.4).

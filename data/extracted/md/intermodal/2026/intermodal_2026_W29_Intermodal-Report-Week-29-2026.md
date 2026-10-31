@@ -254,3 +254,77 @@ Turkey stayed subdued, with a tight pool of candidates and a weak currency erodi
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | DINA OCEAN | 24,247 | 4,865 | 1998 | TSUNEISHI CEBU, Philippines | BC | $480/Ldt | Bangladeshi |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 17-Jul-26 | 16-Jul-26 | 15-Jul-26 | 14-Jul-26 | 13-Jul-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.541 | 4.569 | 4.545 | 4.585 | 4.610 | -0.6% |
+| Stock Exchange Data | S&P 500 | 7,457.69 | 7,533.77 | 7,572.40 | 7,543.59 | 7,515.34 | -1.6% |
+| Stock Exchange Data | Nasdaq | 28,592.66 | 29,025.77 | 29,502.60 | 29,586.29 | 29,264.10 | -4.1% |
+| Stock Exchange Data | Dow Jones | 52,146.42 | 52,552.97 | 52,658.64 | 52,508.27 | 52,498.64 | -0.9% |
+| Stock Exchange Data | FTSE 100 | 10,600.37 | 10,572.24 | 10,515.92 | 10,529.39 | 10,498.29 | 1.0% |
+| Stock Exchange Data | FTSE All-Share UK | 5,699.87 | 5,689.57 | 5,656.23 | 5,661.11 | 5,646.05 | 1.0% |
+| Stock Exchange Data | CAC40 | 8,338.81 | 8,377.86 | 8,382.43 | 8,366.85 | 8,364.65 | 0.0% |
+| Stock Exchange Data | Xetra Dax | 24,830.98 | 24,915.49 | 24,999.53 | 25,147.03 | 25,114.25 | -0.9% |
+| Stock Exchange Data | Nikkei | 64,141.12 | 66,835.54 | 68,751.51 | 67,743.50 | 67,242.73 | -6.4% |
+| Stock Exchange Data | Hang Seng | 24,562.24 | 25,008.60 | 24,681.10 | 24,340.73 | 24,213.72 | 1.6% |
+| Stock Exchange Data | DJ US Maritime | 473.21 | 470.58 | 465.76 | 476.10 | 468.61 | 0.3% |
+| Currencies | € / $ | 1.14 | 1.14 | 1.15 | 1.14 | 1.14 | 0.2% |
+| Currencies | £ / $ | 1.35 | 1.35 | 1.35 | 1.34 | 1.33 | 0.4% |
+| Currencies | $ / ¥ | 162.39 | 162.38 | 162.18 | 162.23 | 162.42 | 0.4% |
+| Currencies | $ / NoK | 9.63 | 9.66 | 9.64 | 9.69 | 9.78 | -1.4% |
+| Currencies | Yuan / $ | 6.78 | 6.77 | 6.77 | 6.77 | 6.78 | 0.0% |
+| Currencies | Won / $ | 1,487.44 | 1,479.37 | 1,485.04 | 1,489.06 | 1,497.56 | -0.8% |
+| Currencies | $ INDEX | 100.77 | 100.76 | 100.49 | 100.92 | 101.24 | -0.2% |
+
+## Bunker Prices
+
+| Grade | Port | 17-Jul-26 | 10-Jul-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,160.5 | 1,025.8 | 13.1% |
+| MGO | Houston | 1,180.0 | 990.8 | 19.1% |
+| MGO | Singapore | 1,136.0 | 955.5 | 18.9% |
+| 380cst | Rotterdam | 532.5 | 470.5 | 13.2% |
+| 380cst | Houston | 537.3 | 466.8 | 15.1% |
+| 380cst | Singapore | 552.0 | 469.0 | 17.7% |
+| VLSFO | Rotterdam | 652.3 | 599.0 | 8.9% |
+| VLSFO | Houston | 679.5 | 606.3 | 12.1% |
+| VLSFO | Singapore | 753.0 | 667.5 | 12.8% |
+
+## Oil Prices
+
+| Category | Indicator | 17-Jul-26 | 10-Jul-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 88.1 | 76.0 | 15.9% |
+| OIL | WTI | 82.5 | 71.4 | 15.5% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 17-Jul-26 | 10-Jul-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 22.19 | 22.31 | -0.5% |
+| COSTAMARE INC | NYSE | USD | 14.74 | 14.94 | -1.3% |
+| DANAOS CORPORATION | NYSE | USD | 125.87 | 128.39 | -2.0% |
+| DIANA SHIPPING | NYSE | USD | 2.05 | 2.14 | -4.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 69.23 | 70.21 | -1.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.77 | 2.71 | 2.2% |
+| SAFE BULKERS INC | NYSE | USD | 6.82 | 6.90 | -1.2% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 14.01 | 14.96 | -6.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 24.90 | 26.35 | -5.5% |
+| STEALTHGAS INC | NASDAQ | USD | 8.53 | 8.90 | -4.2% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 37.62 | 39.66 | -5.1% |
+
+## Macro-economic headlines
+
+In China, the trade surplus increased further in June to $125.62bn, up from $105.43bn in May and above the $119.50bn forecast. Both exports and imports grew faster than expected: exports rose 27% y-o-y, supported by strong demand for AI data-center equipment and hardware, while imports surged 36%, marking their fastest growth in five years.
+
+In Eurozone, the CPI rose by 2.8% y-o-y in June, in line with estimations and down from 3.2% recorded in May.
+
+In United States, the PPI decelerated to 5.5% y-o-y in June, below market forecasts of 6.2% and May’s print of 6.5%.
+
+In UK, GDP rose by 1.3% y-o-y in May, broadly in line with market expectations of 1.4% and slightly above April’s 1.2%.

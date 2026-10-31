@@ -254,3 +254,77 @@ The Turkish market remained stable. The influx of candidates over the last month
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | PUTERI DELIMA | 73,519 | 26,915 | 1995 | Chantiers de l'Atlantique - St-Nazaire, France | GAS TANKER | undisclosed | Bangladeshi |
 | PUTERI NILAM | 73,519 | 26,915 | 1995 | Chantiers de l'Atlantique - St-Nazaire, France | GAS TANKER | undisclosed | Bangladeshi |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 17-Oct-25 | 16-Oct-25 | 15-Oct-25 | 14-Oct-25 | 13-Oct-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.009 | 3.976 | 4.045 | 4.022 | 4.051 | -1.0% |
+| Stock Exchange Data | S&P 500 | 6,664.01 | 6,629.07 | 6,671.06 | 6,644.31 | 6,654.72 | 1.7% |
+| Stock Exchange Data | Nasdaq | 24,817.95 | 24,657.24 | 24,745.36 | 24,579.32 | 24,750.25 | 2.5% |
+| Stock Exchange Data | Dow Jones | 46,190.61 | 45,952.24 | 46,253.31 | 46,270.46 | 46,067.58 | 1.6% |
+| Stock Exchange Data | FTSE 100 | 9,354.57 | 9,436.09 | 9,424.75 | 9,452.77 | 9,442.87 | -0.8% |
+| Stock Exchange Data | FTSE All-Share UK | 5,057.07 | 5,101.70 | 5,097.10 | 5,110.22 | 5,106.84 | -0.7% |
+| Stock Exchange Data | CAC40 | 8,174.20 | 8,188.59 | 8,077.00 | 7,919.62 | 7,934.26 | 3.2% |
+| Stock Exchange Data | Xetra Dax | 23,830.99 | 24,272.19 | 24,181.37 | 24,236.94 | 24,387.93 | -1.7% |
+| Stock Exchange Data | Nikkei | 47,582.15 | 48,277.74 | 47,672.67 | 46,847.32 | 47,187.50 | -1.1% |
+| Stock Exchange Data | Hang Seng | 25,247.10 | 25,888.51 | 25,910.60 | 25,441.35 | 25,889.48 | -4.0% |
+| Stock Exchange Data | DJ US Maritime | 280.85 | 278.19 | 276.78 | 269.86 | 267.53 | 7.0% |
+| Currencies | € / $ | 1.17 | 1.17 | 1.16 | 1.16 | 1.16 | 0.3% |
+| Currencies | £ / $ | 1.34 | 1.34 | 1.34 | 1.33 | 1.33 | 0.5% |
+| Currencies | $ / ¥ | 150.62 | 150.42 | 151.04 | 151.83 | 152.27 | -0.4% |
+| Currencies | $ / NoK | 10.03 | 10.07 | 10.07 | 10.15 | 10.08 | -0.6% |
+| Currencies | Yuan / $ | 7.13 | 7.12 | 7.13 | 7.14 | 7.13 | -0.1% |
+| Currencies | Won / $ | 1,421.58 | 1,416.64 | 1,421.05 | 1,428.60 | 1,426.28 | -0.5% |
+| Currencies | $ INDEX | 98.43 | 98.34 | 98.79 | 99.05 | 99.27 | -0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 17-Oct-25 | 10-Oct-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 609.0 | 652.0 | -6.6% |
+| MGO | Houston | 626.0 | 650.0 | -3.7% |
+| MGO | Singapore | 647.0 | 670.0 | -3.4% |
+| 380cst | Rotterdam | 391.0 | 413.0 | -5.3% |
+| 380cst | Houston | 391.0 | 402.0 | -2.7% |
+| 380cst | Singapore | 376.0 | 394.0 | -4.6% |
+| VLSFO | Rotterdam | 400.0 | 421.0 | -5.0% |
+| VLSFO | Houston | 442.0 | 430.0 | 2.8% |
+| VLSFO | Singapore | 440.0 | 463.0 | -5.0% |
+
+## Oil Prices
+
+| Category | Indicator | 17-Oct-25 | 10-Oct-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 61.3 | 62.7 | -2.3% |
+| OIL | WTI | 57.5 | 58.9 | -2.3% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 17-Oct-25 | 10-Oct-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 22.75 | 20.55 | 10.7% |
+| COSTAMARE INC | NYSE | USD | 11.58 | 10.87 | 6.5% |
+| DANAOS CORPORATION | NYSE | USD | 86.80 | 84.19 | 3.1% |
+| DIANA SHIPPING | NYSE | USD | 1.69 | 1.57 | 7.6% |
+| EUROSEAS LTD. | NASDAQ | USD | 55.52 | 53.40 | 4.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.21 | 1.13 | 7.1% |
+| SAFE BULKERS INC | NYSE | USD | 4.31 | 4.14 | 4.1% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 8.03 | 7.71 | 4.2% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 17.68 | 16.79 | 5.3% |
+| STEALTHGAS INC | NASDAQ | USD | 6.34 | 6.26 | 1.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 22.37 | 21.04 | 6.3% |
+
+## Macro-economic headlines
+
+In China, Industrial Production rose by 6.5% y-o-y in September, well above market expectations of 5% and August’s 5.2% growth. The manufacturing sector’s value-added output advanced by 7.3%, while mining expanded by 6.4%.
+
+In Eurozone, CPI edged by 0.1% m-o-m in September matching both market forecasts and the August reading.
+
+India’s trade deficit widened to $32.15bn in September from $26.49bn in August, as imports surged 16.7% y-o-y outpacing exports, which grew 6.1% y-o-y.
+
+In Germany, PPI declined by 0.1% m-o-m in September, missing market forecasts for a 0.1% increase, though easing from August’s 0.5% decline.

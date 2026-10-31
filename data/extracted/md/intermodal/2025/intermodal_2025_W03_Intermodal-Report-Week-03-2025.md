@@ -227,3 +227,77 @@ The ship recycling market remains constrained, characterized by limited activity
 | OCEAN PEACE | 72,338 | 11,654 | 1994 | HYUNDAI, S. Korea | BC | $ 455/Ldt | Bangladeshi | with 200 Ts bunkers |
 | RONG YUAN | 70,257 | 9,165 | 1997 | SANOYAS, Japan | BC | $ 450/Ldt | Bangladeshi |  |
 | GOLDEN ORIENT | 73,326 | 10,664 | 1998 | HALLA ENG & HI, S. Korea | BC | $ 418/Ldt | undisclosed | as is Hong Kong |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 17-Jan-25 | 16-Jan-25 | 15-Jan-25 | 14-Jan-25 | 13-Jan-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.611 | 4.606 | 4.653 | 4.788 | 4.805 | -3.4% |
+| Stock Exchange Data | S&P 500 | 5,996.66 | 5,937.34 | 5,949.91 | 5,842.91 | 5,836.22 | 2.9% |
+| Stock Exchange Data | Nasdaq | 21,441.16 | 21,091.25 | 21,237.85 | 20,757.41 | 20,784.72 | 2.8% |
+| Stock Exchange Data | Dow Jones | 43,487.83 | 43,153.13 | 43,221.55 | 42,518.28 | 42,297.12 | 3.7% |
+| Stock Exchange Data | FTSE 100 | 8,505.22 | 8,391.90 | 8,301.13 | 8,201.54 | 8,224.19 | 3.1% |
+| Stock Exchange Data | FTSE All-Share UK | 4,621.70 | 4,566.59 | 4,518.39 | 4,454.99 | 4,464.14 | 3.2% |
+| Stock Exchange Data | CAC40 | 7,709.75 | 7,634.74 | 7,474.59 | 7,423.67 | 7,408.64 | 3.8% |
+| Stock Exchange Data | Xetra Dax | 20,903.39 | 20,655.39 | 20,574.68 | 20,271.33 | 20,132.85 | 3.4% |
+| Stock Exchange Data | Nikkei | 38,451.46 | 38,572.60 | 38,444.58 | 38,474.30 | 39,190.40 | -1.9% |
+| Stock Exchange Data | Hang Seng | 19,584.06 | 19,522.89 | 19,286.07 | 19,219.78 | 18,874.14 | 2.7% |
+| Stock Exchange Data | DJ US Maritime | 367.45 | 365.97 | 357.37 | 347.92 | 343.68 | 7.7% |
+| Currencies | € / $ | 1.03 | 1.03 | 1.03 | 1.03 | 1.02 | 0.3% |
+| Currencies | £ / $ | 1.22 | 1.22 | 1.22 | 1.22 | 1.22 | -0.3% |
+| Currencies | $ / ¥ | 156.30 | 155.12 | 156.47 | 157.96 | 157.47 | -0.9% |
+| Currencies | $ / NoK | 11.45 | 11.36 | 11.33 | 11.36 | 11.43 | -0.1% |
+| Currencies | Yuan / $ | 7.32 | 7.33 | 7.33 | 7.33 | 7.33 | -0.1% |
+| Currencies | Won / $ | 1,456.03 | 1,455.75 | 1,454.54 | 1,458.16 | 1,464.38 | -1.2% |
+| Currencies | $ INDEX | 109.35 | 108.96 | 109.09 | 109.27 | 109.96 | -0.3% |
+
+## Bunker Prices
+
+| Grade | Port | 17-Jan-25 | 10-Jan-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 707.0 | 680.0 | 4.0% |
+| MGO | Houston | 761.0 | 731.0 | 4.1% |
+| MGO | Singapore | 735.0 | 701.0 | 4.9% |
+| 380cst | Rotterdam | 469.0 | 456.0 | 2.9% |
+| 380cst | Houston | 488.0 | 471.0 | 3.6% |
+| 380cst | Singapore | 517.0 | 478.0 | 8.2% |
+| VLSFO | Rotterdam | 551.0 | 547.0 | 0.7% |
+| VLSFO | Houston | 584.0 | 561.0 | 4.1% |
+| VLSFO | Singapore | 602.0 | 585.0 | 2.9% |
+
+## Oil Prices
+
+| Category | Indicator | 17-Jan-25 | 10-Jan-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 80.8 | 79.8 | 1.3% |
+| OIL | WTI | 77.9 | 76.6 | 1.7% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 17-Jan-25 | 10-Jan-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.75 | 18.33 | 2.3% |
+| COSTAMARE INC | NYSE | USD | 12.29 | 12.49 | -1.6% |
+| DANAOS CORPORATION | NYSE | USD | 77.46 | 78.21 | -1.0% |
+| DIANA SHIPPING | NYSE | USD | 1.85 | 1.90 | -2.6% |
+| EUROSEAS LTD. | NASDAQ | USD | 33.01 | 35.08 | -5.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.31 | 1.37 | -4.4% |
+| SAFE BULKERS INC | NYSE | USD | 3.42 | 3.54 | -3.4% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 7.07 | 7.23 | -2.2% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 14.68 | 15.25 | -3.7% |
+| STEALTHGAS INC | NASDAQ | USD | 5.86 | 5.93 | -1.2% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 18.70 | 19.18 | -2.5% |
+
+## Macro-economic headlines
+
+In USA, CPI of December rose by 0.4%, aligning with market forecasts and slightly exceeding November’s 0.3% increase.
+
+In Eurozone, a Trade Surplus of €16.4 billion was recorded in November, surpassing market projections of €11.8 billion and October’s €6.8 billion. This marks the highest surplus since July.
+
+In Germany December’s CPI registered at 0.5%, marginally above the market forecast of 0.4%, rebounding to positive territory after November’s -0.2%.
+
+In China, the People’s Bank of China, held the Loan Prime Rate steady at 3.1% for the fourth consecutive month in December, consistent with market expectations. Moreover, Q4 2024 GDP growth reached 5.4%, exceeding forecasts of 5% and accelerating from the 4.6% growth recorded in the previous quarter.

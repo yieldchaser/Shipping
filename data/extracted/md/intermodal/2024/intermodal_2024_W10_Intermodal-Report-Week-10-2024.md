@@ -235,3 +235,78 @@ The demolition industry is facing a severe shortage of vessels suitable for recy
 | SUVARNA SWARAJYA | 32,902 | 8,542 | 1998 | HYUNDAI HEAVY INDS - U, S. Korea | TANKER | $ 540/Ldt | BANGLADESH | 'as is' Colombo |
 | YAMTAI | 28,460 | 6,003 | 1994 | IMABARI, Japan | BC | $ 480/Ldt | BANGLADESH | 'as is' Singapore |
 | FAR EAST CHEER | 7,747 | 3,652 | 2007 | ZHEJIANG, China | CONTAINER | $ 530/Ldt | BANGLADESH |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 8-Mar-24 | 7-Mar-24 | 6-Mar-24 | 5-Mar-24 | 4-Mar-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.088 | 4.092 | 4.104 | 4.137 | 4.219 | -2.2% |
+| Stock Exchange Data | S&P 500 | 5,123.69 | 5,157.36 | 5,104.76 | 5,078.65 | 5,130.95 | -0.3% |
+| Stock Exchange Data | Nasdaq | 18,018.45 | 18,297.99 | 18,017.58 | 17,897.87 | 18,226.48 | -1.6% |
+| Stock Exchange Data | Dow Jones | 38,776.80 | 38,784.30 | 38,721.15 | 38,906.98 | 38,968.77 | -0.5% |
+| Stock Exchange Data | FTSE 100 | 7,659.74 | 7,692.46 | 7,679.31 | 7,646.16 | 7,640.33 | -0.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,194.47 | 4,208.82 | 4,199.15 | 4,177.42 | 4,174.28 | -0.1% |
+| Stock Exchange Data | CAC40 | 8,028.01 | 8,016.22 | 7,954.74 | 7,932.82 | 7,956.41 | 1.2% |
+| Stock Exchange Data | Xetra Dax | 17,814.51 | 17,842.85 | 17,716.71 | 17,698.40 | 17,716.17 | 0.4% |
+| Stock Exchange Data | Nikkei | 39,688.94 | 39,598.71 | 40,090.78 | 40,097.63 | 40,109.23 | -0.6% |
+| Stock Exchange Data | Hang Seng | 16,353.39 | 16,229.78 | 37,703.32 | 16,162.64 | 37,963.97 | -1.4% |
+| Stock Exchange Data | DJ US Maritime | 288.70 | 291.62 | 291.62 | 289.65 | 293.26 | 0.2% |
+| Currencies | € / $ | 1.09 | 1.09 | 1.09 | 1.09 | 1.09 | 0.9% |
+| Currencies | £ / $ | 1.29 | 1.28 | 1.27 | 1.27 | 1.27 | 1.6% |
+| Currencies | $ / ¥ | 147.07 | 148.03 | 149.37 | 150.04 | 150.51 | -2.0% |
+| Currencies | $ / NoK | 10.42 | 10.40 | 10.49 | 10.56 | 10.57 | -0.8% |
+| Currencies | Yuan / $ | 7.19 | 7.19 | 7.20 | 7.20 | 7.20 | -0.1% |
+| Currencies | Won / $ | 1,316.00 | 1,323.09 | 1,329.03 | 1,335.40 | 1,330.89 | -1.1% |
+| Currencies | $ INDEX | 102.71 | 102.82 | 103.37 | 103.80 | 103.83 | -1.1% |
+
+## Bunker Prices
+
+| Grade | Port | 8-Mar-24 | 1-Mar-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 759.0 | 777.0 | -2.3% |
+| MGO | Houston | 463.0 | 462.0 | 0.2% |
+| MGO | Singapore | 780.0 | 781.0 | -0.1% |
+| 380cst | Rotterdam | 466.0 | 459.0 | 1.5% |
+| 380cst | Houston | 463.0 | 462.0 | 0.2% |
+| 380cst | Singapore | 469.0 | 448.0 | 4.7% |
+| VLSFO | Rotterdam | 570.0 | 580.0 | -1.7% |
+| VLSFO | Houston | 627.0 | 635.0 | -1.3% |
+| VLSFO | Singapore | 633.0 | 668.0 | -5.2% |
+
+## Oil Prices
+
+| Category | Indicator | 8-Mar-24 | 1-Mar-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 82.1 | 83.6 | -1.8% |
+| OIL | WTI | 78.0 | 80.0 | -2.5% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 08-Mar-24 | 01-Mar-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 17.45 | 17.29 | 0.9% |
+| COSTAMARE INC | NYSE | USD | 11.39 | 11.49 | -0.9% |
+| DANAOS CORPORATION | NYSE | USD | 70.60 | 72.46 | -2.6% |
+| DIANA SHIPPING | NYSE | USD | 3.02 | 3.10 | -2.6% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 64.46 | 62.98 | 2.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 37.56 | 39.62 | -5.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.25 | 2.24 | 0.4% |
+| SAFE BULKERS INC | NYSE | USD | 4.96 | 4.71 | 5.3% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 8.44 | 8.33 | 1.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 24.89 | 24.32 | 2.3% |
+| STEALTHGAS INC | NASDAQ | USD | 6.16 | 6.15 | 0.2% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 23.78 | 23.99 | -0.9% |
+
+## Macro-economic headlines
+
+• In the euro area, the HCOB euro area composite PMI stood at 49.2 in February, up from 47.9 in the previous month. Similarly, in Germany, the HCOB Services PMI rose to 48.3 in February from 47.7 in January. Staying in Germany, industrial production rose by 1% in January.
+
+• In China, the CPI rose by 1% in February compared with the previous month, and by 0.7% on an annual basis. Most recently, the PPI fell by 2.7% in February.
+
+• In the US, the S&P Global Composite PMI was 52.5 in February, up slightly from 52 in January. The services PMI fell slightly to 52.3 from 52.5 in the previous month. There was also employment data, with ADP Nonfarm Employment Change for February at 140K, while JOLTs Job Openings for January was at 8.863M.
+
+• In Japan, the Tokyo Core CPI was up 2.5% y/y, while the Services PMI for February was at 52.9, slightly lower than the previous month's 53.1. Household spending fell by 6.3% on a yearly basis in January.

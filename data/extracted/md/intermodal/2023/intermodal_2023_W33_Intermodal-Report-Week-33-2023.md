@@ -235,3 +235,70 @@ The demolition market has seen an increase in activity with a notable number of 
 | SOL HIND | 23,043 | 7,792 | 1996 | SZCZEC INSKA, Poland | CONTAINER | $ 565/Ldt | Bangladeshi |  |
 | SINOKOR AKITA | 11,031 | 4,672 | 1998 | SWS, China | CONTAINER | $ 564/Ldt | Indian |  |
 | VILA DHAURU | 2,235 | 1,253 | 1983 | WAKAMATSU, Japan | REEFER | undisclosed | Bangladeshi |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 18-Aug-23 | 17-Aug-23 | 16-Aug-23 | 15-Aug-23 | 14-Aug-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.251 | 4.308 | 4.258 | 4.221 | 4.184 | 2.0% |
+| Stock Exchange Data | S&P 500 | 4,369.71 | 4,370.36 | 4,404.33 | 4,437.86 | 4,489.72 | -2.1% |
+| Stock Exchange Data | Nasdaq | 13,290.78 | 13,316.93 | 13,474.63 | 13,631.05 | 13,788.33 | -2.6% |
+| Stock Exchange Data | Dow Jones | 34,500.66 | 34,474.83 | 34,765.74 | 34,946.39 | 35,307.63 | -2.2% |
+| Stock Exchange Data | FTSE 100 | 7,262.43 | 7,310.21 | 7,356.88 | 7,389.64 | 7,507.15 | -3.5% |
+| Stock Exchange Data | FTSE All-Share UK | 3,961.94 | 3,992.88 | 4,021.57 | 4,039.10 | 4,096.80 | -3.5% |
+| Stock Exchange Data | CAC40 | 7,164.11 | 7,191.74 | 7,260.25 | 7,267.70 | 7,348.84 | -2.4% |
+| Stock Exchange Data | Xetra Dax | 15,574.26 | 15,676.90 | 15,789.45 | 15,767.28 | 15,904.25 | -2.1% |
+| Stock Exchange Data | Nikkei | 31,450.76 | 31,626.00 | 31,766.82 | 32,238.89 | 32,059.91 | -1.9% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 18,326.63 | 18,329.30 | 18,581.11 | 18,773.55 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 262.67 | 260.76 | 263.49 | 265.13 | 271.43 | -3.5% |
+| Currencies | € / $ | 1.09 | 1.09 | 1.09 | 1.09 | 1.09 | -0.7% |
+| Currencies | £ / $ | 1.27 | 1.27 | 1.27 | 1.27 | 1.27 | 0.3% |
+| Currencies | $ / ¥ | 145.42 | 145.69 | 146.32 | 145.61 | 145.44 | 0.4% |
+| Currencies | $ / NoK | 0.0939 | 0.0945 | 0.0942 | 0.0950 | 0.0954 | -2.1% |
+| Currencies | Yuan / $ | 7.28 | 7.28 | 7.30 | 7.28 | 7.26 | 0.6% |
+| Currencies | Won / $ | 1,340.16 | 1,339.83 | 1,343.68 | 1,339.07 | 1,335.74 | 0.7% |
+| Currencies | $ INDEX | 103.57 | 103.57 | 103.43 | 103.21 | 103.19 | 0.7% |
+
+## Bunker Prices
+
+| Grade | Port | 18-Aug-23 | 11-Aug-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 18-Aug-23 | 11-Aug-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.70 | 14.54 | 1.1% |
+| COSTAMARE INC | NYSE | USD | 10.74 | 11.12 | -3.4% |
+| DANAOS CORPORATION | NYSE | USD | 69.43 | 69.59 | -0.2% |
+| DIANA SHIPPING | NYSE | USD | 3.75 | 3.77 | -0.5% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 45.51 | 45.44 | 0.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 24.88 | 24.56 | 1.3% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 0.90 | 0.87 | 3.4% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.64 | 1.78 | -7.9% |
+| SAFE BULKERS INC | NYSE | USD | 3.21 | 3.38 | -5.0% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 5.40 | 5.29 | 2.1% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.36 | 18.62 | -1.4% |
+| STEALTHGAS INC | NASDAQ | USD | 5.10 | 5.29 | -3.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 21.56 | 21.37 | 0.9% |
+
+## Macro-economic headlines
+
+• US: Retail Sales rose by 0.7% in July compared to the previous month, while housing starts rose by 3.9%. Industrial production rose by 1% in July, compared to the previous month, while it fell by 0.23% compared to the same period last year. On Friday, the Jackson Hole Economic Symposium is being held in the US, providing further guidance on the Fed’s strategy on interest rates.
+
+• UK: CPI fell by 0.4% in July, while the annual rate is standing at 6.8%
+
+• Japan: GDP growth was up by 1.5% in Q2 quarter over quarter, while it rose by 6% on an annual basis.

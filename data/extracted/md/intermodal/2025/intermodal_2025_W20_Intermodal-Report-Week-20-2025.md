@@ -237,3 +237,77 @@ The ship recycling market remained generally subdued this week, characterized by
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ASMAA | 45,228 | 7,616 | 1994 | SHIN KURUSHIMA, Japan | BC | $438/Ldt | Indian |  |
 | GLOBAL NUBIRA | 4,900 | 2,062 | 1998 | SHINA, S. Korea | CONTAINER | $410/Ldt | undisclosed | as is Singapore |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 16-May-25 | 15-May-25 | 14-May-25 | 13-May-25 | 12-May-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.439 | 4.455 | 4.528 | 4.499 | 4.457 | 1.5% |
+| Stock Exchange Data | S&P 500 | 5,958.38 | 5,916.93 | 5,892.58 | 5,886.55 | 5,844.19 | 5.3% |
+| Stock Exchange Data | Nasdaq | 21,427.94 | 21,335.82 | 21,319.21 | 21,197.70 | 20,868.15 | 6.8% |
+| Stock Exchange Data | Dow Jones | 42,654.74 | 42,322.75 | 42,051.06 | 42,140.43 | 42,410.10 | 3.4% |
+| Stock Exchange Data | FTSE 100 | 8,684.56 | 8,633.75 | 8,585.01 | 8,602.92 | 8,604.98 | 1.5% |
+| Stock Exchange Data | FTSE All-Share UK | 4,715.63 | 4,688.16 | 4,664.63 | 4,671.35 | 4,668.75 | 1.6% |
+| Stock Exchange Data | CAC40 | 7,886.69 | 7,853.47 | 7,836.79 | 7,873.83 | 7,850.10 | 1.8% |
+| Stock Exchange Data | Xetra Dax | 23,767.43 | 23,695.59 | 23,527.01 | 23,638.56 | 23,566.54 | 1.1% |
+| Stock Exchange Data | Nikkei | 37,753.72 | 37,755.51 | 38,128.13 | 38,183.26 | 37,644.26 | 0.7% |
+| Stock Exchange Data | Hang Seng | 23,345.05 | 23,453.16 | 23,640.65 | 23,108.27 | 23,549.46 | 2.1% |
+| Stock Exchange Data | DJ US Maritime | 361.90 | 358.32 | 357.47 | 356.25 | 357.17 | 6.2% |
+| Currencies | € / $ | 1.12 | 1.12 | 1.12 | 1.12 | 1.11 | -0.7% |
+| Currencies | £ / $ | 1.33 | 1.33 | 1.33 | 1.33 | 1.32 | -0.2% |
+| Currencies | $ / ¥ | 145.62 | 145.66 | 146.75 | 147.47 | 148.45 | 0.2% |
+| Currencies | $ / NoK | 10.36 | 10.39 | 10.36 | 10.35 | 10.42 | 0.2% |
+| Currencies | Yuan / $ | 7.21 | 7.21 | 7.21 | 7.21 | 7.20 | -0.4% |
+| Currencies | Won / $ | 1,398.12 | 1,396.21 | 1,407.31 | 1,415.99 | 1,415.13 | 0.2% |
+| Currencies | $ INDEX | 101.09 | 100.88 | 101.04 | 101.00 | 101.79 | 0.8% |
+
+## Bunker Prices
+
+| Grade | Port | 16-May-25 | 9-May-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 613.0 | 595.0 | 3.0% |
+| MGO | Houston | 627.0 | 585.0 | 7.2% |
+| MGO | Singapore | 607.0 | 597.0 | 1.7% |
+| 380cst | Rotterdam | 418.0 | 406.0 | 3.0% |
+| 380cst | Houston | 394.0 | 392.0 | 0.5% |
+| 380cst | Singapore | 440.0 | 416.0 | 5.8% |
+| VLSFO | Rotterdam | 466.0 | 449.0 | 3.8% |
+| VLSFO | Houston | 450.0 | 432.0 | 4.2% |
+| VLSFO | Singapore | 515.0 | 506.0 | 1.8% |
+
+## Oil Prices
+
+| Category | Indicator | 16-May-25 | 9-May-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 65.4 | 63.9 | 2.3% |
+| OIL | WTI | 62.5 | 61.0 | 2.4% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 16-May-25 | 09-May-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 22.85 | 20.53 | 11.3% |
+| COSTAMARE INC | NYSE | USD | 8.80 | 7.77 | 13.3% |
+| DANAOS CORPORATION | NYSE | USD | 86.57 | 83.24 | 4.0% |
+| DIANA SHIPPING | NYSE | USD | 1.52 | 1.39 | 9.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 38.75 | 35.34 | 9.6% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.05 | 1.18 | -10.6% |
+| SAFE BULKERS INC | NYSE | USD | 3.75 | 3.42 | 9.6% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 6.14 | 5.60 | 9.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 16.40 | 15.52 | 5.7% |
+| STEALTHGAS INC | NASDAQ | USD | 5.51 | 5.37 | 2.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 18.46 | 17.54 | 5.2% |
+
+## Macro-economic headlines
+
+In Germany, the April CPI rose by 0.4% m-o-m, in line with market expectations and slightly above the 0.3% recorded in March.
+
+In USA, the PPI declined by 0.5% m-o-m, contrary to market expectations of a 0.2% increase, and below the -0.4% recorded in March. Meanwhile, the Import Price Index rose marginally by 0.1% month-on-month, defying forecasts of a 0.4% decline and reversing the 0.1% decrease seen in March.
+
+In China, industrial production grew by 6.1% year-on-year, surpassing the expected 5.7%, though below the 7.7% recorded in March.
+
+In Eurozone, CPI stood at 0.6% m-o-m in April, consistent with both market expectations and the March reading.

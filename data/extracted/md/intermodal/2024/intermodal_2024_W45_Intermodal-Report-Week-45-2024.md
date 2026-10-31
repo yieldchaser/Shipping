@@ -241,3 +241,77 @@ In Turkey, market conditions remained at a standstill, with muted demand and lim
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MERATUS SIBOLGA | 3,650 | 1,340 | 1993 | PAL INDONESIA, Indonesia | GENERAL CARGO | undisclosed | undisclosed | as is Batam, Indonesia |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 8-Nov-24 | 7-Nov-24 | 6-Nov-24 | 5-Nov-24 | 4-Nov-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.308 | 4.343 | 4.426 | 4.291 | 4.309 | -1.3% |
+| Stock Exchange Data | S&P 500 | 5,995.54 | 5,973.10 | 5,929.04 | 5,782.76 | 5,712.69 | 4.7% |
+| Stock Exchange Data | Nasdaq | 21,117.18 | 21,101.57 | 20,781.33 | 20,227.46 | 19,963.60 | 5.4% |
+| Stock Exchange Data | Dow Jones | 43,988.99 | 43,729.34 | 43,729.93 | 42,221.88 | 41,794.60 | 4.6% |
+| Stock Exchange Data | FTSE 100 | 8,072.39 | 8,140.74 | 8,166.68 | 8,172.39 | 8,184.24 | -1.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,417.83 | 4,453.48 | 4,460.03 | 4,460.27 | 4,468.37 | -1.1% |
+| Stock Exchange Data | CAC40 | 7,338.67 | 7,425.60 | 7,369.61 | 7,407.15 | 7,371.71 | -1.0% |
+| Stock Exchange Data | Xetra Dax | 19,215.48 | 19,362.52 | 19,039.31 | 19,256.27 | 19,147.85 | -0.2% |
+| Stock Exchange Data | Nikkei | 39,500.37 | 39,381.41 | 39,480.67 | 38,474.90 | 38,053.67 | 3.8% |
+| Stock Exchange Data | Hang Seng | 20,728.19 | 20,953.34 | 20,538.38 | 21,006.97 | 20,567.52 | 1.1% |
+| Stock Exchange Data | DJ US Maritime | 417.83 | 412.88 | 416.82 | 384.19 | 378.57 | 11.4% |
+| Currencies | € / $ | 1.07 | 1.08 | 1.07 | 1.09 | 1.09 | -1.1% |
+| Currencies | £ / $ | 1.29 | 1.30 | 1.29 | 1.30 | 1.30 | 0.0% |
+| Currencies | $ / ¥ | 152.63 | 152.93 | 154.63 | 151.60 | 152.13 | -0.2% |
+| Currencies | $ / NoK | 11.00 | 10.86 | 11.07 | 10.93 | 10.99 | -0.3% |
+| Currencies | Yuan / $ | 7.18 | 7.14 | 7.18 | 7.10 | 7.10 | 0.8% |
+| Currencies | Won / $ | 1,396.23 | 1,379.89 | 1,400.36 | 1,376.88 | 1,372.60 | 1.3% |
+| Currencies | $ INDEX | 105.00 | 104.51 | 105.09 | 103.42 | 103.89 | 0.7% |
+
+## Bunker Prices
+
+| Grade | Port | 8-Nov-24 | 1-Nov-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 670.0 | 661.0 | 1.4% |
+| MGO | Houston | 656.0 | 666.0 | -1.5% |
+| MGO | Singapore | 671.0 | 684.0 | -1.9% |
+| 380cst | Rotterdam | 473.0 | 507.0 | -6.7% |
+| 380cst | Houston | 439.0 | 463.0 | -5.2% |
+| 380cst | Singapore | 475.0 | 482.0 | -1.5% |
+| VLSFO | Rotterdam | 519.0 | 521.0 | -0.4% |
+| VLSFO | Houston | 539.0 | 524.0 | 2.9% |
+| VLSFO | Singapore | 582.0 | 594.0 | -2.0% |
+
+## Oil Prices
+
+| Category | Indicator | 8-Nov-24 | 1-Nov-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 73.9 | 73.1 | 1.1% |
+| OIL | WTI | 70.4 | 69.5 | 1.3% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 08-Nov-24 | 01-Nov-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.50 | 18.46 | 0.2% |
+| COSTAMARE INC | NYSE | USD | 14.31 | 13.73 | 4.2% |
+| DANAOS CORPORATION | NYSE | USD | 81.96 | 81.95 | 0.0% |
+| DIANA SHIPPING | NYSE | USD | 2.22 | 2.21 | 0.5% |
+| EUROSEAS LTD. | NASDAQ | USD | 41.68 | 41.21 | 1.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.54 | 1.68 | -8.3% |
+| SAFE BULKERS INC | NYSE | USD | 4.34 | 4.19 | 3.6% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 9.56 | 9.32 | 2.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 20.10 | 19.04 | 5.6% |
+| STEALTHGAS INC | NASDAQ | USD | 5.76 | 5.67 | 1.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 21.03 | 21.67 | -3.0% |
+
+## Macro-economic headlines
+
+In US, Factory Orders were reduced by 0.5% in November, in line with market expectations (-0.4%), after a 0.2% decline in October and a 5% increase in September. At its November meeting, the US Federal Reserve opted to lower interest rates by an additional 25 basis points to 4.75%, following a 50-basis point cut in September.
+
+In China, the Caixin Manufacturing PMI, stood at 52 in October, exceeding market projections (50.5) and improving from 50.3 in September.
+
+In the UK, the Bank of England reduced interest rates by 25 basis points, from 5% to 4.75% in November. This marks the second rate cut this year, following a similar reduction in August.
+
+In German, the October PMI was revised upwards, at 43, from 42.6 previously. Germany’s Factory Orders rose by 4.2%, surpassing market’s expectations (1.6%), after a 5.8% decline recorded in the prior month. This raise is mainly attributed to large orders placed for aircrafts, ships and trains.

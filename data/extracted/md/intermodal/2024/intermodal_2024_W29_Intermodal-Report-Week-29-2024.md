@@ -231,3 +231,77 @@ The demolition market remained subdued this past week, impacted by strong freigh
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MSC IRIS | 21,370 | 10,655 | 1982 | WARNOWWERFT, Germany | CONTAINER | $ 526/Ldt | Indian | Green recycling |
 | EMPIRE PERSIA | 612 | 1,805 | 1972 | CLELANDS, UK | OFFSHORE/Support | undisclosed | undisclosed | As is Denmark |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 19-Jul-24 | 18-Jul-24 | 17-Jul-24 | 16-Jul-24 | 15-Jul-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.239 | 4.188 | 4.146 | 4.167 | 4.229 | 1.2% |
+| Stock Exchange Data | S&P 500 | 5,505.00 | 5,544.59 | 5,588.27 | 5,667.20 | 5,631.22 | -2.0% |
+| Stock Exchange Data | Nasdaq | 19,522.62 | 19,705.09 | 19,799.14 | 20,398.62 | 20,386.88 | -4.0% |
+| Stock Exchange Data | Dow Jones | 40,287.53 | 40,665.02 | 41,198.08 | 40,954.48 | 40,211.72 | 0.7% |
+| Stock Exchange Data | FTSE 100 | 8,155.72 | 8,204.89 | 8,187.46 | 8,164.90 | 8,182.96 | -1.2% |
+| Stock Exchange Data | FTSE All-Share UK | 4,473.44 | 4,501.39 | 4,489.24 | 4,482.44 | 4,490.19 | -1.1% |
+| Stock Exchange Data | CAC40 | 7,534.52 | 7,586.55 | 7,570.81 | 7,580.03 | 7,632.71 | -2.5% |
+| Stock Exchange Data | Xetra Dax | 18,171.93 | 18,354.76 | 18,437.30 | 18,518.03 | 18,590.89 | -3.1% |
+| Stock Exchange Data | Nikkei | 40,063.79 | 40,126.35 | 41,097.69 | 41,275.08 | mrkt closed | -2.7% |
+| Stock Exchange Data | Hang Seng | 17,417.68 | 17,778.41 | 17,739.41 | 17,727.98 | 18,015.94 | -4.8% |
+| Stock Exchange Data | DJ US Maritime | 403.55 | 401.45 | 407.30 | 425.38 | 406.34 | 1.5% |
+| Currencies | € / $ | 1.09 | 1.09 | 1.09 | 1.09 | 1.09 | -0.3% |
+| Currencies | £ / $ | 1.29 | 1.29 | 1.30 | 1.30 | 1.30 | -0.6% |
+| Currencies | $ / ¥ | 157.49 | 157.37 | 156.16 | 158.34 | 158.01 | -0.3% |
+| Currencies | $ / NoK | 10.92 | 10.81 | 10.72 | 10.79 | 10.81 | 1.8% |
+| Currencies | Yuan / $ | 7.27 | 7.26 | 7.26 | 7.27 | 7.26 | 0.3% |
+| Currencies | Won / $ | 1,388.79 | 1,384.48 | 1,378.51 | 1,382.77 | 1,384.17 | 1.1% |
+| Currencies | $ INDEX | 104.40 | 104.17 | 103.75 | 104.27 | 104.19 | 0.3% |
+
+## Bunker Prices
+
+| Grade | Port | 19-Jul-24 | 12-Jul-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 709.0 | 740.0 | -4.2% |
+| MGO | Houston | 598.0 | 600.0 | -0.3% |
+| MGO | Singapore | 708.0 | 740.0 | -4.3% |
+| 380cst | Rotterdam | 501.0 | 528.0 | -5.1% |
+| 380cst | Houston | 476.0 | 510.0 | -6.7% |
+| 380cst | Singapore | 508.0 | 530.0 | -4.2% |
+| VLSFO | Rotterdam | 568.0 | 571.0 | -0.5% |
+| VLSFO | Houston | 598.0 | 600.0 | -0.3% |
+| VLSFO | Singapore | 613.0 | 626.0 | -2.1% |
+
+## Oil Prices
+
+| Category | Indicator | 19-Jul-24 | 12-Jul-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 82.6 | 85.0 | -2.8% |
+| OIL | WTI | 80.1 | 82.2 | -2.5% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 19-Jul-24 | 12-Jul-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 16.55 | 16.43 | 0.7% |
+| COSTAMARE INC | NYSE | USD | 14.36 | 15.18 | -5.4% |
+| DANAOS CORPORATION | NYSE | USD | 84.97 | 87.25 | -2.6% |
+| DIANA SHIPPING | NYSE | USD | 2.81 | 2.81 | 0.0% |
+| EUROSEAS LTD. | NASDAQ | USD | 38.00 | 39.15 | -2.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.75 | 1.75 | 0.0% |
+| SAFE BULKERS INC | NYSE | USD | 5.47 | 5.62 | -2.7% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 9.08 | 9.84 | -7.7% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 23.81 | 24.13 | -1.3% |
+| STEALTHGAS INC | NASDAQ | USD | 6.55 | 6.71 | -2.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 26.48 | 26.72 | -0.9% |
+
+## Macro-economic headlines
+
+• In the eurozone area, the June CPI increased by 2.5% m-o-m. The ECB main refinancing operations rate remained at 4.25% in July.
+
+• In US, the June industrial production increased by 0.6% m-o-m and by 1.58% y-o-y.
+
+• In UK, the June CPI increased by 2.0% y-o-y and by 0.1% m-o-m.
+
+• In China, the Loan Prime Rate 5Y decreased by 0.10% to 3.85% in July.

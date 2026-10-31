@@ -264,3 +264,77 @@ In Turkey, the ship recycling market experienced a sluggish week, with declined 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SUNNY SPRUCE | 5,821 | 2,243 | 1996 | SHINA, S. Korea | CONTAINER | $380/Ldt | undisclosed | as is Busan |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 13-Feb-26 | 12-Feb-26 | 11-Feb-26 | 10-Feb-26 | 9-Feb-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.056 | 4.104 | 4.172 | 4.145 | 4.198 | -3.6% |
+| Stock Exchange Data | S&P 500 | 6,836.17 | 6,832.76 | 6,941.47 | 6,941.81 | 6,964.82 | -1.4% |
+| Stock Exchange Data | Nasdaq | 24,732.73 | 24,687.61 | 25,201.26 | 25,127.64 | 25,268.14 | -1.4% |
+| Stock Exchange Data | Dow Jones | 49,500.93 | 49,451.98 | 50,121.40 | 50,188.14 | 50,135.87 | -1.2% |
+| Stock Exchange Data | FTSE 100 | 10,446.35 | 10,402.44 | 10,472.11 | 10,353.84 | 10,386.23 | 0.7% |
+| Stock Exchange Data | FTSE All-Share UK | 5,622.26 | 5,598.38 | 5,634.33 | 5,579.84 | 5,591.38 | 0.8% |
+| Stock Exchange Data | CAC40 | 8,311.74 | 8,340.56 | 8,313.24 | 8,327.88 | 8,323.28 | 0.5% |
+| Stock Exchange Data | Xetra Dax | 24,914.88 | 24,852.69 | 24,856.15 | 24,987.85 | 25,014.87 | 0.8% |
+| Stock Exchange Data | Nikkei | 56,941.97 | 57,639.84 | 57,903.00 | 57,650.54 | 56,363.94 | 5.0% |
+| Stock Exchange Data | Hang Seng | 26,567.12 | 27,032.54 | 27,266.38 | 27,183.15 | 27,027.16 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 410.09 | 398.43 | 401.39 | 394.69 | 395.41 | 2.1% |
+| Currencies | € / $ | 1.19 | 1.19 | 1.19 | 1.19 | 1.19 | 0.4% |
+| Currencies | £ / $ | 1.36 | 1.36 | 1.36 | 1.36 | 1.37 | 0.3% |
+| Currencies | $ / ¥ | 152.68 | 152.73 | 153.24 | 154.38 | 155.86 | -2.9% |
+| Currencies | $ / NoK | 9.48 | 9.51 | 9.47 | 9.51 | 9.55 | -1.8% |
+| Currencies | Yuan / $ | 6.91 | 6.90 | 6.91 | 6.91 | 6.92 | -0.4% |
+| Currencies | Won / $ | 1,440.40 | 1,440.00 | 1,446.02 | 1,456.47 | 1,457.53 | -1.6% |
+| Currencies | $ INDEX | 96.92 | 96.93 | 96.83 | 96.80 | 96.82 | -0.7% |
+
+## Bunker Prices
+
+| Grade | Port | 13-Feb-26 | 6-Feb-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 648.5 | 675.3 | -4.0% |
+| MGO | Houston | 625.3 | 644.0 | -2.9% |
+| MGO | Singapore | 649.3 | 660.0 | -1.6% |
+| 380cst | Rotterdam | 392.3 | 400.0 | -1.9% |
+| 380cst | Houston | 354.5 | 369.8 | -4.1% |
+| 380cst | Singapore | 433.3 | 430.3 | 0.7% |
+| VLSFO | Rotterdam | 448.3 | 445.0 | 0.7% |
+| VLSFO | Houston | 452.8 | 454.5 | -0.4% |
+| VLSFO | Singapore | 481.3 | 476.3 | 1.0% |
+
+## Oil Prices
+
+| Category | Indicator | 13-Feb-26 | 6-Feb-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 67.8 | 68.1 | -0.4% |
+| OIL | WTI | 62.9 | 63.6 | -1.0% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 13-Feb-26 | 06-Feb-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 22.73 | 20.46 | 11.1% |
+| COSTAMARE INC | NYSE | USD | 16.94 | 15.92 | 6.4% |
+| DANAOS CORPORATION | NYSE | USD | 108.05 | 102.08 | 5.8% |
+| DIANA SHIPPING | NYSE | USD | 2.39 | 2.29 | 4.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 56.55 | 53.50 | 5.7% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.71 | 1.56 | 9.6% |
+| SAFE BULKERS INC | NYSE | USD | 5.99 | 5.58 | 7.3% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 11.51 | 10.67 | 7.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 23.80 | 22.72 | 4.8% |
+| STEALTHGAS INC | NASDAQ | USD | 7.86 | 7.96 | -1.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 28.32 | 26.99 | 4.9% |
+
+## Macro-economic headlines
+
+In the United States, CPI rose by 0.2% m-o-m in January, coming in slightly below both market expectations and December’s reading of 0.3%.
+
+In Japan, PPI increased by 0.2% m-o-m in January, in line with market forecasts and higher than December’s 0.1% rise.
+
+In China new house prices across 70 cities fell 3.1% y-o-y in January, worsening from a 2.7% decline in December, marking the 31st consecutive month of decline and the steepest drop since June.
+
+In Germany, CPI edged up by 0.1% m-o-m in January, matching expectations, after remaining flat in December.

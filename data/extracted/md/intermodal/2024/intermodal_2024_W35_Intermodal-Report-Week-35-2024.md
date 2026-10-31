@@ -225,3 +225,77 @@ Yet another week with minimal activity in the demolition market as a result of s
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MEDELIN EXPO | 17,712 | 5,270 | 1993 | SHIN KURUSHIMA, Japan | TANKER | $ 653/Ldt | Indian | 'as is' Belawan with 275 Ts solid SUS 316 + 469 Ts |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 30-Aug-24 | 29-Aug-24 | 28-Aug-24 | 27-Aug-24 | 26-Aug-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.911 | 3.867 | 3.841 | 3.833 | 3.818 | 2.7% |
+| Stock Exchange Data | S&P 500 | 5,648.40 | 5,591.96 | 5,592.18 | 5,625.80 | 5,616.84 | 0.2% |
+| Stock Exchange Data | Nasdaq | 19,574.64 | 19,325.45 | 19,350.78 | 19,581.52 | 19,516.44 | -0.7% |
+| Stock Exchange Data | Dow Jones | 41,563.08 | 41,335.05 | 41,091.42 | 41,250.50 | 41,240.52 | 0.9% |
+| Stock Exchange Data | FTSE 100 | 8,376.63 | 8,379.64 | 8,343.85 | 8,345.46 | 8,327.78 | 0.6% |
+| Stock Exchange Data | FTSE All-Share UK | 4,576.73 | 4,576.34 | 4,560.74 | 4,564.68 | 4,557.24 | 0.4% |
+| Stock Exchange Data | CAC40 | 7,630.95 | 7,640.95 | 7,577.67 | 7,565.78 | 7,590.37 | 0.7% |
+| Stock Exchange Data | Xetra Dax | 18,906.92 | 18,912.57 | 18,782.29 | 18,681.81 | 18,617.02 | 1.5% |
+| Stock Exchange Data | Nikkei | 38,647.75 | 38,362.53 | 38,371.76 | 38,288.62 | 38,110.22 | 0.7% |
+| Stock Exchange Data | Hang Seng | 17,989.07 | 17,786.32 | 17,692.45 | 17,874.67 | 17,798.73 | 2.1% |
+| Stock Exchange Data | DJ US Maritime | 393.64 | 389.77 | 386.71 | 387.73 | 384.94 | 0.7% |
+| Currencies | € / $ | 1.10 | 1.11 | 1.11 | 1.12 | 1.12 | -1.3% |
+| Currencies | £ / $ | 1.31 | 1.32 | 1.32 | 1.33 | 1.32 | -0.6% |
+| Currencies | $ / ¥ | 146.16 | 144.98 | 144.57 | 143.95 | 144.52 | 1.2% |
+| Currencies | $ / NoK | 10.59 | 10.50 | 10.50 | 10.46 | 10.53 | 1.4% |
+| Currencies | Yuan / $ | 7.09 | 7.10 | 7.12 | 7.12 | 7.12 | -0.5% |
+| Currencies | Won / $ | 1,336.56 | 1,333.24 | 1,335.98 | 1,325.77 | 1,327.48 | 1.0% |
+| Currencies | $ INDEX | 101.70 | 101.34 | 101.09 | 100.55 | 100.85 | 1.0% |
+
+## Bunker Prices
+
+| Grade | Port | 30-Aug-24 | 23-Aug-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 665.0 | 641.0 | 3.7% |
+| MGO | Houston | 683.0 | 689.0 | -0.9% |
+| MGO | Singapore | 673.0 | 670.0 | 0.4% |
+| 380cst | Rotterdam | 458.0 | 444.0 | 3.2% |
+| 380cst | Houston | 447.0 | 454.0 | -1.5% |
+| 380cst | Singapore | 468.0 | 467.0 | 0.2% |
+| VLSFO | Rotterdam | 552.0 | 533.0 | 3.6% |
+| VLSFO | Houston | 536.0 | 546.0 | -1.8% |
+| VLSFO | Singapore | 624.0 | 631.0 | -1.1% |
+
+## Oil Prices
+
+| Category | Indicator | 30-Aug-24 | 23-Aug-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 78.8 | 79.0 | -0.3% |
+| OIL | WTI | 73.6 | 74.8 | -1.7% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 30-Aug-24 | 23-Aug-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 17.75 | 16.77 | 5.8% |
+| COSTAMARE INC | NYSE | USD | 14.19 | 13.72 | 3.4% |
+| DANAOS CORPORATION | NYSE | USD | 82.04 | 82.51 | -0.6% |
+| DIANA SHIPPING | NYSE | USD | 2.50 | 2.40 | 4.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 45.24 | 46.24 | -2.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.53 | 1.54 | 0.0% |
+| SAFE BULKERS INC | NYSE | USD | 5.11 | 4.97 | 2.8% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 11.50 | 10.83 | 6.2% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 21.37 | 21.23 | 0.7% |
+| STEALTHGAS INC | NASDAQ | USD | 5.97 | 5.98 | -0.2% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 24.97 | 24.52 | 1.8% |
+
+## Macro-economic headlines
+
+In US, the second-quarter GDP revised higher to 3.0%, supported by strong consumer spending and business investment, the government said Thursday in an upgrade of its initial assessment.
+
+In China, Manufacturing PMI in August declined to 49.1 from 49.5.
+
+In EU, CPI was at 2.2% for August on an annual basis and 0.2% on a monthly basis.
+
+In German, the CPI decline by –0.1% in August m-o-m.

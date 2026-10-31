@@ -315,3 +315,79 @@ Offered scrap levels were posted unchanged during the last week. Subdued steel d
 | STOLT GROENLAND | 43,478 | 12,154 | 2009 | WADAN YARDS, Ukraine | TANKER | undisclosed | undisclosed | "as-is" Korea, fire damaged condition |
 
 © Intermodal Research 06/09/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 2-Sep-22 | 1-Sep-22 | 31-Aug-22 | 30-Aug-22 | 29-Aug-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.258 | 3.217 | 3.127 | 3.073 | 3.099 | 7.3% |
+| Stock Exchange Data | S&P 500 | 3,924.26 | 3,966.85 | 3,955.00 | 3,986.16 | 4,057.66 | -3.3% |
+| Stock Exchange Data | Nasdaq | 11,630.86 | 11,785.13 | 11,816.20 | 11,883.14 | 12,017.67 | -4.2% |
+| Stock Exchange Data | Dow Jones | 31,318.44 | 31,656.42 | 31,510.43 | 31,790.87 | 32,098.99 | -3.0% |
+| Stock Exchange Data | FTSE 100 | 7,281.19 | 7,281.19 | 7,148.50 | 7,284.15 | 7,361.63 | -2.0% |
+| Stock Exchange Data | FTSE All-Share UK | 3,998.48 | 3,998.48 | 3,926.25 | 4,007.46 | 4,045.21 | -1.9% |
+| Stock Exchange Data | CAC40 | 6,167.51 | 6,034.31 | 6,125.10 | 6,210.22 | 6,222.28 | -1.7% |
+| Stock Exchange Data | Xetra Dax | 13,050.27 | 12,630.23 | 12,834.96 | 12,961.14 | 12,892.99 | 1.2% |
+| Stock Exchange Data | Nikkei | 27,650.84 | 27,661.47 | 28,091.53 | 28,195.58 | 27,878.96 | -0.8% |
+| Stock Exchange Data | Hang Seng | 19,597.31 | 19,597.31 | 19,954.39 | 19,949.03 | 20,023.22 | -1.9% |
+| Stock Exchange Data | DJ US Maritime | 219.54 | 218.35 | 220.13 | 223.51 | 226.20 | -2.9% |
+| Currencies | € / $ | 1.00 | 1.00 | 1.00 | 1.00 | 1.00 | -0.1% |
+| Currencies | £ / $ | 1.15 | 1.15 | 1.16 | 1.17 | 1.17 | -1.9% |
+| Currencies | $ / ¥ | 140.21 | 140.10 | 139.35 | 138.74 | 138.60 | 1.8% |
+| Currencies | $ / NoK | 0.10 | 0.10 | 0.10 | 0.10 | 0.10 | -0.2% |
+| Currencies | Yuan / $ | 6.90 | 6.91 | 6.89 | 6.91 | 6.91 | 0.4% |
+| Currencies | Won / $ | 1,362.72 | 1,356.20 | 1,342.60 | 1,350.55 | 1,346.07 | 1.5% |
+| Currencies | $ INDEX | 109.61 | 109.60 | 108.86 | 108.76 | 108.83 | 0.7% |
+
+## Bunker Prices
+
+| Grade | Port | 2-Sep-22 | 26-Aug-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,098.5 | 1,186.0 | -7.4% |
+| MGO | Houston | 1,119.0 | 1,226.0 | -8.7% |
+| MGO | Singapore | 1,049.5 | 1,163.5 | -9.8% |
+| 380cst | Rotterdam | 455.0 | 532.0 | -14.5% |
+| 380cst | Houston | 515.5 | 560.5 | -8.0% |
+| 380cst | Singapore | 451.5 | 516.5 | -12.6% |
+| VLSFO | Rotterdam | 679.0 | 741.5 | -8.4% |
+| VLSFO | Houston | 713.5 | 763.0 | -6.5% |
+| VLSFO | Singapore | 699.0 | 791.0 | -11.6% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 02-Sep-22 | 26-Aug-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.54 | 15.17 | 2.4% |
+| COSTAMARE INC | NYSE | USD | 11.08 | 11.86 | -6.6% |
+| DANAOS CORPORATION | NYSE | USD | 67.31 | 66.15 | 1.8% |
+| DIANA SHIPPING | NYSE | USD | 4.82 | 5.08 | -5.1% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 43.52 | 46.86 | -7.1% |
+| EUROSEAS LTD. | NASDAQ | USD | 23.21 | 22.86 | 1.5% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.60 | 1.68 | -4.8% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.16 | 2.29 | -5.7% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 26.15 | 26.75 | -2.2% |
+| SAFE BULKERS INC | NYSE | USD | 3.21 | 3.35 | -4.2% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.53 | 0.57 | -7.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.89 | 21.53 | -7.6% |
+| STEALTHGAS INC | NASDAQ | USD | 3.03 | 3.08 | -1.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 15.40 | 15.00 | 2.7% |
+
+## Market News
+
+“Goldman Sachs reveals big stakes in Frontline and Magseis Fairfield
+
+US investment banking behemoth Goldman Sachs appears to have broadened its shipping interests by revealing holdings in John Fredriksen’s Frontline and seismic survey player Magseis Fairfield.
+
+Filings made to the Oslo stock exchange state that the company now has 5.26% of the tanker company, with 271.7m shares. This slice is worth $139m.
+
+And Goldman Sachs also controls 11.29% of Magseis Fairfield, giving it a holding worth $27m.
+
+The disclosures were classed as a “newly disclosable position” as a result of changes to the European Union's substantial shareholding rules relating to transparency on 1 September.
+
+But the filings do not necessarily mean the investment bank controls the shares.
+
+In March, the group made a similar filing about passing the 5% threshold in Oslo-listed MPC Container Ships, but it later emerged this stake was being held on behalf of...(TradeWinds)

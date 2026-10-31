@@ -348,3 +348,83 @@ Average scrap prices across the Indian-subcontinent nations fell for another wee
 | AMBITION JOURNEY | 51,029 | 7,929 | 2001 | OSHIMA, Japan | BULKER | undisclosed | undisclosed | as-is Philippines |
 
 © Intermodal Research 14/12/2021 8
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 10-Dec-21 | 9-Dec-21 | 8-Dec-21 | 7-Dec-21 | 6-Dec-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.489 | 1.487 | 1.509 | 1.480 | 1.434 | 10.9% |
+| Stock Exchange Data | S&P 500 | 4,712.02 | 4,667.45 | 4,701.21 | 4,686.75 | 4,538.43 | 3.8% |
+| Stock Exchange Data | Nasdaq | 15,630.60 | 15,517.37 | 15,786.99 | 15,686.92 | 15,225.15 | 3.6% |
+| Stock Exchange Data | Dow Jones | 35,970.99 | 35,754.69 | 35,754.75 | 35,719.43 | 35,227.03 | 4.0% |
+| Stock Exchange Data | FTSE 100 | 7,291.78 | 7,321.26 | 7,337.05 | 7,339.90 | 7,232.28 | 2.4% |
+| Stock Exchange Data | FTSE All-Share UK | 4,146.90 | 4,167.39 | 4,177.78 | 4,178.76 | 4,117.60 | 2.2% |
+| Stock Exchange Data | CAC40 | 6,991.68 | 7,008.23 | 7,014.57 | 7,065.39 | 6,865.78 | 3.3% |
+| Stock Exchange Data | Xetra Dax | 15,623.31 | 15,639.26 | 15,687.09 | 15,813.94 | 15,380.79 | 1.6% |
+| Stock Exchange Data | Nikkei | 28,437.77 | 28,725.47 | 28,860.62 | 28,455.60 | 27,927.37 | 1.8% |
+| Stock Exchange Data | Hang Seng | 24,254.86 | 24,254.86 | 23,996.87 | 23,983.66 | 23,349.38 | 2.0% |
+| Stock Exchange Data | DJ US Maritime | 190.22 | 190.42 | 184.81 | 181.95 | 181.39 | 6.6% |
+| Currencies | € / $ | 1.13 | 1.13 | 1.13 | 1.13 | 1.13 | 0.0% |
+| Currencies | £ / $ | 1.33 | 1.32 | 1.32 | 1.32 | 1.33 | 0.3% |
+| Currencies | $ / ¥ | 113.39 | 113.46 | 113.69 | 113.52 | 113.47 | 0.5% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.11 | 0.11 | 0.11 | 2.3% |
+| Currencies | Yuan / $ | 6.37 | 6.38 | 6.34 | 6.37 | 6.38 | -0.1% |
+| Currencies | Won / $ | 1,181.00 | 1,178.33 | 1,172.65 | 1,176.95 | 1,180.65 | -0.3% |
+| Currencies | $ INDEX | 96.10 | 96.27 | 95.89 | 96.37 | 96.33 | 0.0% |
+
+## Bunker Prices
+
+| Grade | Port | 10-Dec-21 | 3-Dec-21 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 622.0 | 580.0 | 7.2% |
+| MGO | Houston | 655.5 | 642.5 | 2.0% |
+| MGO | Singapore | 660.0 | 603.5 | 9.4% |
+| 380cst | Rotterdam | 416.0 | 394.5 | 5.4% |
+| 380cst | Houston | 425.5 | 438.0 | -2.9% |
+| 380cst | Singapore | 426.5 | 409.0 | 4.3% |
+| VLSFO | Rotterdam | 545.5 | 538.0 | 1.4% |
+| VLSFO | Houston | 556.5 | 551.5 | 0.9% |
+| VLSFO | Singapore | 598.5 | 607.0 | -1.4% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 10-Dec-21 | 03-Dec-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 16.01 | 16.06 | -0.3% |
+| COSTAMARE INC | NYSE | USD | 12.08 | 11.82 | 2.2% |
+| DANAOS CORPORATION | NYSE | USD | 71.84 | 68.59 | 4.7% |
+| DIANA SHIPPING | NYSE | USD | 4.00 | 3.81 | 5.0% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 41.51 | 40.60 | 2.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 23.97 | 24.48 | -2.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.24 | 2.30 | -2.6% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 4.80 | 4.59 | 4.6% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 27.31 | 26.15 | 4.4% |
+| SAFE BULKERS INC | NYSE | USD | 3.79 | 3.59 | 5.6% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.02 | 0.89 | 14.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 21.09 | 21.66 | -2.6% |
+| STEALTHGAS INC | NASDAQ | USD | 2.27 | 2.83 | -19.8% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 7.94 | 7.18 | 10.6% |
+
+## Market News
+
+“Safe Bulkers seals second sustainability-linked loan of $100m
+
+Greek owner Safe Bulkers has fixed its second sustainability-linked finance package in a deal worth $100m.
+
+The New York-listed company said six of its 46 bulk carriers have been refinanced over five years.
+
+Half of the amount is in the form of a term loan and the rest is a reducing revolving credit facility.
+
+The shipowner said the package incorporates a discount or increase on the interest rate depending on its independently verified emissions performance.
+
+The proceeds will replace other debt deals worth $70.4m over shorter periods tied to the same ships.
+
+The company does not intend to draw down the full revolver at this point.
+
+Safe Bulkers president Loukas Barmparis said: "This is the second sustainability-linked refinancing action.
+
+"In parallel, the company further reduces its debt, reaching an optimum level by the year-end, while it maintains quick access to capital through the reducing revolving credit facility...”(TradeWinds)

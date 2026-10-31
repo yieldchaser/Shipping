@@ -340,3 +340,80 @@ Ramadan came to an end last week, meaning that activity in the market and top de
 | GREEN KARMOY | 6,120 | 2,990 | 1989 | KLEVEN LOLAND, Norway | REEFER | undisclosed | Indian |  |
 
 © Intermodal Research 25/04/2023 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 21-Apr-23 | 20-Apr-23 | 19-Apr-23 | 18-Apr-23 | 17-Apr-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.570 | 3.545 | 3.602 | 3.572 | 3.591 | 1.4% |
+| Stock Exchange Data | S&P 500 | 4,133.52 | 4,129.79 | 4,154.52 | 4,154.87 | 3,990.97 | -0.1% |
+| Stock Exchange Data | Nasdaq | 12,072.46 | 12,059.56 | 12,157.23 | 12,153.41 | 12,157.72 | -0.4% |
+| Stock Exchange Data | Dow Jones | 33,808.96 | 33,786.62 | 33,897.01 | 33,976.63 | 33,987.18 | -0.2% |
+| Stock Exchange Data | FTSE 100 | 7,914.13 | 7,902.61 | 7,898.77 | 7,909.44 | 7,879.51 | 0.4% |
+| Stock Exchange Data | FTSE All-Share UK | 4,298.24 | 4,289.09 | 4,289.38 | 4,297.39 | 4,283.51 | 0.3% |
+| Stock Exchange Data | CAC40 | 7,577.00 | 7,538.71 | 7,549.44 | 7,533.63 | 7,498.18 | 1.1% |
+| Stock Exchange Data | Xetra Dax | 15,881.66 | 15,795.97 | 15,895.20 | 15,882.67 | 15,789.53 | 0.6% |
+| Stock Exchange Data | Nikkei | 28,564.37 | 28,657.57 | 28,606.76 | 28,658.83 | 28,514.78 | 0.2% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 20,396.97 | 20,367.76 | 20,650.51 | 20,782.45 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 223.61 | 227.18 | 225.64 | 225.90 | 227.71 | -2.0% |
+| Currencies | € / $ | 1.08 | 1.07 | 1.07 | 1.08 | 1.08 | 0.4% |
+| Currencies | £ / $ | 1.22 | 1.23 | 1.22 | 1.22 | 1.22 | 0.6% |
+| Currencies | $ / ¥ | 132.35 | 131.39 | 132.29 | 131.85 | 131.85 | -1.5% |
+| Currencies | $ / NoK | 0.0948 | 0.0939 | 0.0937 | 0.0937 | 0.0935 | 0.1% |
+| Currencies | Yuan / $ | 6.88 | 6.88 | 6.89 | 6.89 | 6.89 | 0.2% |
+| Currencies | Won / $ | 1,303.81 | 1,304.92 | 1,308.75 | 1,308.75 | 1,308.75 | -0.1% |
+| Currencies | $ INDEX | 101.72 | 101.84 | 101.97 | 101.75 | 102.10 | 0.2% |
+
+## Bunker Prices
+
+| Grade | Port | 21-Apr-23 | 14-Apr-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 21-Apr-23 | 14-Apr-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 12.89 | 13.10 | -1.6% |
+| COSTAMARE INC | NYSE | USD | 9.50 | 10.00 | -5.0% |
+| DANAOS CORPORATION | NYSE | USD | 57.06 | 59.28 | -3.7% |
+| DIANA SHIPPING | NYSE | USD | 4.03 | 4.17 | -3.4% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 46.05 | 47.14 | -2.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 19.79 | 19.52 | 1.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.02 | 1.05 | -2.9% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.88 | 1.75 | 7.4% |
+| SAFE BULKERS INC | NYSE | USD | 3.66 | 3.84 | -4.7% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 5.16 | 4.88 | 5.7% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 20.72 | 22.18 | -6.6% |
+| STEALTHGAS INC | NASDAQ | USD | 2.65 | 2.75 | -3.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 18.06 | 18.30 | -1.3% |
+
+## Market News
+
+“Petros Panagiotidis buying $19.5m shares in spin-off Toro to fund tanker buys
+
+Petros Panagiotidis is pumping $19.47m into the tanker company he split off from Castor Maritime so that it can pursue fleet renewal.
+
+Toro Corp debuted on the Nasdaq in New York last month with a fleet of seven vessels built between 2004 and 2006.
+
+It has now said the chairman and chief executive's company Pani Corp will buy 8.5m shares at $2.29 each, against a closing price of $3.27 on Monday.
+
+The purchase price was the level of the stock on 13 April.
+
+Toro intends to use the net proceeds for vessel acquisitions, including to renew its fleet.
+
+Money will also go to other capital expenditures and be used for working capital and general corporate purposes.
+
+Panagiotidis will control 47.4% of the common shares and 100% of the preferred shares, giving him 99.8% of...(TradeWinds)

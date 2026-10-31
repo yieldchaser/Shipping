@@ -317,3 +317,81 @@ A fall in steel prices strongly driven by a slower demand from China had an adve
 | QUEEN EMATHA | 13,937 | 4,163 | 1989 | INCHON, S. Korea | TANKER | $ 615/Ldt | Pakistani |  |
 
 © Intermodal Research 30/11/2021 6
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 26-Nov-21 | 25-Nov-21 | 24-Nov-21 | 23-Nov-21 | 22-Nov-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.645 | 1.645 | 1.645 | 1.667 | 1.625 | 7.1% |
+| Stock Exchange Data | S&P 500 | 4,594.62 | 4,594.62 | 4,701.46 | 4,690.70 | 4,697.96 | -2.2% |
+| Stock Exchange Data | Nasdaq | 15,491.66 | 15,491.66 | 15,845.23 | 15,775.14 | 15,854.76 | -3.5% |
+| Stock Exchange Data | Dow Jones | 34,899.34 | 34,899.34 | 35,804.38 | 35,813.80 | 35,619.25 | -2.0% |
+| Stock Exchange Data | FTSE 100 | 7,044.03 | 7,310.37 | 7,286.32 | 7,266.69 | 7,255.46 | -2.5% |
+| Stock Exchange Data | FTSE All-Share UK | 4,020.38 | 4,167.28 | 4,152.43 | 4,144.90 | 4,147.35 | -2.8% |
+| Stock Exchange Data | CAC40 | 6,739.73 | 7,075.87 | 7,042.23 | 7,044.62 | 7,105.00 | -5.2% |
+| Stock Exchange Data | Xetra Dax | 15,257.04 | 15,917.98 | 15,878.39 | 15,937.00 | 16,115.69 | -5.3% |
+| Stock Exchange Data | Nikkei | 28,751.62 | 28,751.62 | 29,499.28 | 29,302.66 | 29,774.11 | -3.4% |
+| Stock Exchange Data | Hang Seng | 24,740.16 | 24,740.16 | 24,685.50 | 24,651.58 | 24,951.34 | -2.3% |
+| Stock Exchange Data | DJ US Maritime | 177.52 | 189.43 | 189.43 | 187.14 | 183.23 | -1.2% |
+| Currencies | € / $ | 1.13 | 1.12 | 1.12 | 1.12 | 1.12 | 0.3% |
+| Currencies | £ / $ | 1.33 | 1.33 | 1.33 | 1.34 | 1.34 | -0.8% |
+| Currencies | $ / ¥ | 113.37 | 115.05 | 115.41 | 115.16 | 114.82 | -0.6% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.11 | 0.11 | 0.11 | -2.1% |
+| Currencies | Yuan / $ | 6.39 | 6.39 | 6.39 | 6.39 | 6.39 | 0.1% |
+| Currencies | Won / $ | 1,195.84 | 1,190.30 | 1,188.88 | 1,190.06 | 1,190.49 | 0.3% |
+| Currencies | $ INDEX | 96.07 | 96.77 | 96.88 | 96.49 | 96.55 | 0.0% |
+
+## Bunker Prices
+
+| Grade | Port | 26-Nov-21 | 19-Nov-21 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 642.0 | 665.0 | -3.5% |
+| MGO | Houston | 701.5 | 701.0 | 0.1% |
+| MGO | Singapore | 674.0 | 683.5 | -1.4% |
+| 380cst | Rotterdam | 428.0 | 432.0 | -0.9% |
+| 380cst | Houston | 467.5 | 458.0 | 2.1% |
+| 380cst | Singapore | 457.0 | 462.0 | -1.1% |
+| VLSFO | Rotterdam | 566.0 | 564.5 | 0.3% |
+| VLSFO | Houston | 594.0 | 586.0 | 1.4% |
+| VLSFO | Singapore | 627.0 | 616.0 | 1.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 26-Nov-21 | 19-Nov-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.84 | 15.66 | 1.1% |
+| COSTAMARE INC | NYSE | USD | 12.08 | 12.18 | -0.8% |
+| DANAOS CORPORATION | NYSE | USD | 71.79 | 72.62 | -1.1% |
+| DIANA SHIPPING | NYSE | USD | 4.21 | 3.97 | 6.0% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 40.03 | 37.62 | 6.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 24.94 | 26.26 | -5.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.58 | 2.49 | 3.6% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 4.55 | 4.59 | -0.9% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 26.34 | 25.78 | 2.2% |
+| SAFE BULKERS INC | NYSE | USD | 3.53 | 3.44 | 2.6% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.92 | 0.94 | -2.1% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 20.95 | 18.88 | 11.0% |
+| STEALTHGAS INC | NASDAQ | USD | 2.66 | 2.70 | -1.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 7.34 | 7.80 | -5.9% |
+
+## Market News
+
+“Hoegh Autoliners banks $152m as IPO values company at $444m
+
+Hoegh Autoliners is $152m richer after completing an over-subscribed initial public offering (IPO) in Oslo.
+
+The car carrier company's upsized bookbuilding ended on 24 November with 57.5m new shares sold, and managers DNB Markets and ABG Sundal Collier awarded another 7.5m shares in over-allotment options.
+
+The price of NOK 21 per share means proceeds of NOK 1.365bn ($152.45m).
+
+Leif Hoegh & Co Holdings will retain ownership of 48.4% in the company after buying stock worth NOK 250m.
+
+But this will shrink to 46.5% if a greenshoe option of 7.5m more shares awarded to DNB Markets to cover short positions is declared within 30 days.
+
+Leif Hoegh is one of four cornerstone investors that bought NOK 425m of shares. The others were pension fund KLP Kapitalforvaltning, Intertrade Shipping and Global Value Investment Corp.
+
+The free float will be 25% of the shares, or 27.9% including the greenshoe stock...”(TradeWinds)

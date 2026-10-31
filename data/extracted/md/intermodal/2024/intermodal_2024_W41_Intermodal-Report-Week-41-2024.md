@@ -239,3 +239,77 @@ Overall, the ship recycling market remains quiet, with regional differences shap
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | GREEN MALOY | 6,120 | 2,990 | 1990 | KLEVEN LOLAND, Norway | REEFER | $ 488/Ldt | Indian |  |
 | ATLAS WIND | 5,351 | 2,486 | 1997 | JIANGXI JIANGZHOU, China | GENERAL CARGO | $ 445/Ldt | undisclosed | as is Port Klang |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 11-Oct-24 | 10-Oct-24 | 9-Oct-24 | 8-Oct-24 | 7-Oct-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.073 | 4.094 | 4.067 | 4.035 | 4.026 | 2.3% |
+| Stock Exchange Data | S&P 500 | 5,815.03 | 5,780.05 | 5,792.04 | 5,751.13 | 5,695.94 | 1.1% |
+| Stock Exchange Data | Nasdaq | 20,271.97 | 20,241.76 | 20,268.86 | 20,107.78 | 19,800.74 | 1.2% |
+| Stock Exchange Data | Dow Jones | 42,352.75 | 42,011.59 | 42,196.52 | 42,156.97 | 42,330.15 | 0.1% |
+| Stock Exchange Data | FTSE 100 | 8,253.65 | 8,237.73 | 8,243.74 | 8,190.61 | 8,303.62 | -0.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,510.35 | 4,501.37 | 4,507.44 | 4,477.15 | 4,536.43 | -0.4% |
+| Stock Exchange Data | CAC40 | 7,577.89 | 7,541.59 | 7,560.09 | 7,521.32 | 7,576.02 | 0.5% |
+| Stock Exchange Data | Xetra Dax | 19,373.83 | 19,210.90 | 19,254.93 | 19,066.47 | 19,104.10 | 1.3% |
+| Stock Exchange Data | Nikkei | 38,635.62 | 38,552.06 | 37,808.76 | 38,651.97 | 37,919.55 | -3.0% |
+| Stock Exchange Data | Hang Seng | 21,251.98 | 21,251.98 | 20,637.24 | 20,926.79 | 23,099.78 | -6.5% |
+| Stock Exchange Data | DJ US Maritime | 42,352.75 | 42,011.59 | 42,196.52 | 42,156.97 | 42,330.15 | 0.1% |
+| Currencies | € / $ | 1.09 | 1.09 | 1.09 | 1.10 | 1.10 | -0.4% |
+| Currencies | £ / $ | 1.31 | 1.31 | 1.31 | 1.31 | 1.31 | -0.4% |
+| Currencies | $ / ¥ | 149.13 | 148.56 | 149.29 | 148.19 | 148.18 | 0.3% |
+| Currencies | $ / NoK | 10.68 | 10.72 | 10.78 | 10.69 | 10.64 | 0.5% |
+| Currencies | Yuan / $ | 7.07 | 7.08 | 7.08 | 7.06 | 7.02 | 0.7% |
+| Currencies | Won / $ | 1,348.41 | 1,349.15 | 1,345.70 | 1,339.28 | 1,345.15 | 0.1% |
+| Currencies | $ INDEX | 102.89 | 102.99 | 102.93 | 102.55 | 102.54 | 0.4% |
+
+## Bunker Prices
+
+| Grade | Port | 11-Oct-24 | 4-Oct-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 687.0 | 678.0 | 1.3% |
+| MGO | Houston | 701.0 | 684.0 | 2.5% |
+| MGO | Singapore | 685.0 | 687.0 | -0.3% |
+| 380cst | Rotterdam | 521.0 | 501.0 | 4.0% |
+| 380cst | Houston | 478.0 | 460.0 | 3.9% |
+| 380cst | Singapore | 497.0 | 493.0 | 0.8% |
+| VLSFO | Rotterdam | 562.0 | 539.0 | 4.3% |
+| VLSFO | Houston | 551.0 | 544.0 | 1.3% |
+| VLSFO | Singapore | 615.0 | 600.0 | 2.5% |
+
+## Oil Prices
+
+| Category | Indicator | 11-Oct-24 | 4-Oct-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 79.0 | 78.1 | 1.3% |
+| OIL | WTI | 75.6 | 74.4 | 1.6% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 11-Oct-24 | 04-Oct-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.56 | 19.20 | -3.4% |
+| COSTAMARE INC | NYSE | USD | 14.65 | 14.68 | -0.2% |
+| DANAOS CORPORATION | NYSE | USD | 86.96 | 86.61 | 0.4% |
+| DIANA SHIPPING | NYSE | USD | 2.42 | 2.47 | -2.0% |
+| EUROSEAS LTD. | NASDAQ | USD | 43.30 | 44.56 | -2.8% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.82 | 1.95 | -6.7% |
+| SAFE BULKERS INC | NYSE | USD | 4.72 | 5.15 | -8.3% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 10.78 | 12.18 | -11.5% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 21.05 | 22.71 | -7.3% |
+| STEALTHGAS INC | NASDAQ | USD | 6.64 | 7.09 | -6.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 25.37 | 26.17 | -3.1% |
+
+## Macro-economic headlines
+
+In US, the Trade Balance for August was at -70.40bn, falling from last month (-78.9bn), with exports rising and Imports falling. CPI for September was 0.2% higher on the week and 2.4% higher on an annual basis.
+
+In Japan, Household Spending for August was 2.0% higher than a month ago, while I was down by 1.9% compared to the same period last year.
+
+In China, CPI for September was flat on a monthly basis and rose by 0.4% on an annual basis.
+
+In the EU, the German Industrial Production for August was 2.9% on the month. The German CPI for September was flat on the month and rose by 1,6% on an annual basis.

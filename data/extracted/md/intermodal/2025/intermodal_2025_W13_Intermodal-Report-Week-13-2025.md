@@ -228,3 +228,77 @@ The Turkish ship recycling market remains under pressure, heavily impacted by po
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | DUKHAN | 72,533 | 32,467 | 2004 | MITSUI, Japan | GAS TANKER | $ 610/Ldt | Bangladeshi | Incl 3,000t alum |
 | XIE HAI CHONG HE | 71,252 | 10,346 | 1995 | NAMURA, Japan | BC | $400/Ldt | undisclosed | as is China |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 28-Mar-25 | 27-Mar-25 | 26-Mar-25 | 25-Mar-25 | 24-Mar-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.255 | 4.369 | 4.338 | 4.308 | 4.331 | 0.1% |
+| Stock Exchange Data | S&P 500 | 5,580.94 | 5,693.31 | 5,712.20 | 5,776.65 | 5,767.57 | -1.5% |
+| Stock Exchange Data | Nasdaq | 19,281.40 | 19,798.62 | 19,916.99 | 20,287.83 | 20,180.45 | -2.4% |
+| Stock Exchange Data | Dow Jones | 41,583.90 | 42,299.70 | 42,454.79 | 42,587.50 | 42,583.32 | -1.0% |
+| Stock Exchange Data | FTSE 100 | 8,658.85 | 8,666.12 | 8,689.59 | 8,663.80 | 8,638.01 | 0.1% |
+| Stock Exchange Data | FTSE All-Share UK | 4,671.27 | 4,676.28 | 4,690.61 | 4,676.87 | 4,662.85 | 0.1% |
+| Stock Exchange Data | CAC40 | 7,916.08 | 7,990.11 | 8,030.68 | 8,108.59 | 8,022.33 | -1.6% |
+| Stock Exchange Data | Xetra Dax | 22,461.52 | 22,678.74 | 22,839.03 | 23,109.79 | 22,852.66 | -1.9% |
+| Stock Exchange Data | Nikkei | 37,120.33 | 37,799.97 | 38,027.29 | 37,780.54 | 37,608.49 | -1.5% |
+| Stock Exchange Data | Hang Seng | 23,426.60 | 23,578.80 | 23,483.32 | 23,344.25 | 23,905.56 | -1.1% |
+| Stock Exchange Data | DJ US Maritime | 330.26 | 337.74 | 339.51 | 342.70 | 342.30 | -0.7% |
+| Currencies | € / $ | 1.08 | 1.08 | 1.08 | 1.08 | 1.08 | 0.1% |
+| Currencies | £ / $ | 1.29 | 1.29 | 1.29 | 1.29 | 1.29 | 0.2% |
+| Currencies | $ / ¥ | 149.81 | 151.05 | 150.58 | 149.90 | 150.69 | 0.3% |
+| Currencies | $ / NoK | 10.42 | 10.48 | 10.53 | 10.50 | 10.51 | -0.8% |
+| Currencies | Yuan / $ | 7.26 | 7.26 | 7.27 | 7.26 | 7.25 | 0.2% |
+| Currencies | Won / $ | 1,469.87 | 1,464.66 | 1,467.87 | 1,462.98 | 1,466.98 | 0.4% |
+| Currencies | $ INDEX | 104.04 | 104.34 | 104.55 | 104.18 | 104.26 | 0.0% |
+
+## Bunker Prices
+
+| Grade | Port | 28-Mar-25 | 21-Mar-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 653.0 | 627.0 | 4.1% |
+| MGO | Houston | 672.0 | 663.0 | 1.4% |
+| MGO | Singapore | 645.0 | 630.0 | 2.4% |
+| 380cst | Rotterdam | 453.0 | 443.0 | 2.3% |
+| 380cst | Houston | 443.0 | 435.0 | 1.8% |
+| 380cst | Singapore | 461.0 | 458.0 | 0.7% |
+| VLSFO | Rotterdam | 491.0 | 490.0 | 0.2% |
+| VLSFO | Houston | 516.0 | 515.0 | 0.2% |
+| VLSFO | Singapore | 525.0 | 515.0 | 1.9% |
+
+## Oil Prices
+
+| Category | Indicator | 28-Mar-25 | 21-Mar-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 73.6 | 72.2 | 2.0% |
+| OIL | WTI | 69.4 | 68.3 | 1.6% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 28-Mar-25 | 21-Mar-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 19.79 | 19.63 | 0.8% |
+| COSTAMARE INC | NYSE | USD | 9.96 | 10.16 | -2.0% |
+| DANAOS CORPORATION | NYSE | USD | 79.32 | 81.28 | -2.4% |
+| DIANA SHIPPING | NYSE | USD | 1.63 | 1.73 | -5.8% |
+| EUROSEAS LTD. | NASDAQ | USD | 30.72 | 30.76 | -0.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.21 | 1.25 | -3.2% |
+| SAFE BULKERS INC | NYSE | USD | 3.76 | 3.74 | 0.5% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 6.64 | 7.07 | -6.1% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 15.98 | 16.58 | -3.6% |
+| STEALTHGAS INC | NASDAQ | USD | 5.79 | 5.78 | 0.2% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.17 | 16.72 | 2.7% |
+
+## Macro-economic headlines
+
+In China, the PMI rose to 50.5 in March, slightly above market expectations of 50.4 and February’s reading of 50.2, marking its highest level in the past 12 months.
+
+In USA, the GDP grew by 2.4% QoQ in Q4 2024, marginally exceeding market expectations of 2.3%, but lower than the 3.1% growth recorded in Q3 2024.
+
+In Japan, CPI increased by 2.9% in March, maintaining the same growth rate as in February.
+
+In Eurozone, Consumer Confidence declined to -14.5 in March, aligning with market expectations and down from - 13.6 in February.

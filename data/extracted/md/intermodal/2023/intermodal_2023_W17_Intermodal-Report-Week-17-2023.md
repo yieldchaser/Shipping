@@ -324,3 +324,78 @@ Last week was a strong one for the recycling market with several deals taking pl
 | YUNG DA FA 102 | 3,984 | 1,736 | 1984 | KOCHI, Japan | REEFER | $ 573/Ldt | Bangladeshi |  |
 
 © Intermodal Research 02/05/2023 6
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 28-Apr-23 | 27-Apr-23 | 26-Apr-23 | 25-Apr-23 | 24-Apr-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.452 | 3.528 | 3.432 | 3.396 | 3.515 | -3.3% |
+| Stock Exchange Data | S&P 500 | 4,169.48 | 4,135.35 | 4,055.99 | 4,071.63 | 3,990.97 | 0.9% |
+| Stock Exchange Data | Nasdaq | 12,226.58 | 12,142.24 | 11,854.35 | 11,799.16 | 12,037.20 | 1.3% |
+| Stock Exchange Data | Dow Jones | 34,098.16 | 33,826.16 | 33,301.87 | 33,530.83 | 33,875.40 | 0.9% |
+| Stock Exchange Data | FTSE 100 | 7,870.57 | 7,831.58 | 7,852.64 | 7,891.13 | 7,912.20 | -0.6% |
+| Stock Exchange Data | FTSE All-Share UK | 4,283.83 | 4,259.55 | 4,267.92 | 4,285.93 | 4,295.89 | -0.3% |
+| Stock Exchange Data | CAC40 | 7,491.50 | 7,483.84 | 7,466.66 | 7,531.61 | 7,573.86 | -1.1% |
+| Stock Exchange Data | Xetra Dax | 15,922.38 | 15,800.45 | 15,795.73 | 15,872.13 | 15,863.95 | 0.4% |
+| Stock Exchange Data | Nikkei | 28,856.44 | 28,457.68 | 28,416.47 | 28,620.07 | 28,593.52 | 0.9% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 19,840.28 | 19,757.27 | 19,617.88 | 19,959.94 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 235.82 | 218.62 | 218.62 | 226.92 | 226.92 | 5.5% |
+| Currencies | € / $ | 1.08 | 1.08 | 1.08 | 1.08 | 1.08 | 0.6% |
+| Currencies | £ / $ | 1.23 | 1.23 | 1.22 | 1.22 | 1.22 | 0.9% |
+| Currencies | $ / ¥ | 131.06 | 131.24 | 130.87 | 130.75 | 130.75 | -1.0% |
+| Currencies | $ / NoK | 0.0965 | 0.0956 | 0.0955 | 0.0955 | 0.0955 | 1.8% |
+| Currencies | Yuan / $ | 6.87 | 6.89 | 6.87 | 6.87 | 6.87 | -0.1% |
+| Currencies | Won / $ | 1,297.33 | 1,298.18 | 1,295.83 | 1,295.83 | 1,295.83 | -0.5% |
+| Currencies | $ INDEX | 101.67 | 101.50 | 101.47 | 101.86 | 101.35 | 0.0% |
+
+## Bunker Prices
+
+| Grade | Port | 28-Apr-23 | 21-Apr-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 28-Apr-23 | 21-Apr-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 12.67 | 12.89 | -1.7% |
+| COSTAMARE INC | NYSE | USD | 9.03 | 9.50 | -4.9% |
+| DANAOS CORPORATION | NYSE | USD | 57.93 | 57.06 | 1.5% |
+| DIANA SHIPPING | NYSE | USD | 3.96 | 4.03 | -1.7% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 44.72 | 46.05 | -2.9% |
+| EUROSEAS LTD. | NASDAQ | USD | 19.39 | 19.79 | -2.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.01 | 1.02 | -1.0% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.91 | 1.88 | 1.6% |
+| SAFE BULKERS INC | NYSE | USD | 3.66 | 3.66 | 0.0% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 4.85 | 5.16 | -6.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 21.11 | 20.72 | 1.9% |
+| STEALTHGAS INC | NASDAQ | USD | 2.78 | 2.65 | 4.9% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.16 | 18.06 | -5.0% |
+
+## Market News
+
+“DNB’s shipping book dips by $58m but offshore impairments reversed
+
+Major Norwegian lender DNB Bank has seen a slight fall in overall loans to shipping companies during the first quarter.
+
+But impairments in oil, gas and offshore have been reversed.
+
+The maritime portfolio dropped NOK 620m ($58.5m) over the three months, reaching NOK 35.88bn, from NOK 36.5bn at the end of December.
+
+Loans in the final stage of restructuring totalled NOK 204m, up a little from NOK 189m in 2022.
+
+Oil, gas and offshore lending totalled NOK 40.9bn, against NOK 41.8bn three months earlier, with NOK 2.1bn in stage 3 restructuring, compared to NOK 2.6bn.
+
+Net impairment reversals in this improving market amounted to NOK 515m for the quarter, compared with NOK 760m in the first quarter of 2022, and NOK 152m in the final three months...(TradeWinds)

@@ -328,3 +328,84 @@ The demolition market across the Indian-subcontinent regions continues to offer 
 | YUHUA STAR | 16,026 | 4,603 | 1997 | SHIN KURUSHIMA AKITSU, Japan | TANKER | $ 1040/Ldt | Indian | St-St, as-is UAE |
 
 © Intermodal Research 16/11/2021 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 12-Nov-21 | 11-Nov-21 | 10-Nov-21 | 9-Nov-21 | 8-Nov-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.582 | 1.560 | 1.560 | 1.432 | 1.497 | 8.9% |
+| Stock Exchange Data | S&P 500 | 4,682.85 | 4,649.27 | 4,646.71 | 4,685.25 | 4,697.53 | -0.3% |
+| Stock Exchange Data | Nasdaq | 15,860.96 | 15,704.28 | 15,622.71 | 15,886.54 | 15,982.36 | -0.7% |
+| Stock Exchange Data | Dow Jones | 36,100.31 | 35,921.23 | 36,079.94 | 36,319.98 | 36,432.22 | -0.6% |
+| Stock Exchange Data | FTSE 100 | 7,347.91 | 7,384.18 | 7,340.15 | 7,274.04 | 7,300.40 | 0.6% |
+| Stock Exchange Data | FTSE All-Share UK | 4,194.89 | 4,212.39 | 4,187.58 | 4,155.40 | 4,172.82 | 0.5% |
+| Stock Exchange Data | CAC40 | 7,091.40 | 7,059.55 | 7,045.16 | 7,043.27 | 7,047.48 | 0.7% |
+| Stock Exchange Data | Xetra Dax | 16,094.07 | 16,083.11 | 16,067.83 | 16,040.47 | 16,046.52 | 0.3% |
+| Stock Exchange Data | Nikkei | 29,609.97 | 29,277.86 | 29,106.78 | 29,285.46 | 29,507.05 | 0.3% |
+| Stock Exchange Data | Hang Seng | 25,247.99 | 25,247.99 | 24,996.14 | 24,813.13 | 24,763.77 | 0.1% |
+| Stock Exchange Data | DJ US Maritime | 191.44 | 190.62 | 190.42 | 188.61 | 189.27 | -0.9% |
+| Currencies | € / $ | 1.15 | 1.14 | 1.15 | 1.16 | 1.16 | -0.9% |
+| Currencies | £ / $ | 1.34 | 1.34 | 1.34 | 1.36 | 1.36 | -0.7% |
+| Currencies | $ / ¥ | 113.87 | 114.04 | 113.88 | 112.91 | 113.26 | 0.4% |
+| Currencies | $ / NoK | 0.12 | 0.12 | 0.12 | 0.12 | 0.12 | -1.3% |
+| Currencies | Yuan / $ | 6.38 | 6.39 | 6.39 | 6.39 | 6.39 | -0.3% |
+| Currencies | Won / $ | 1,179.95 | 1,184.10 | 1,185.06 | 1,178.51 | 1,201.43 | -0.1% |
+| Currencies | $ INDEX | 95.13 | 95.18 | 94.85 | 93.96 | 94.05 | 0.9% |
+
+## Bunker Prices
+
+| Grade | Port | 12-Nov-21 | 5-Nov-21 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 675.5 | 682.5 | -1.0% |
+| MGO | Houston | 737.5 | 734.0 | 0.5% |
+| MGO | Singapore | 719.0 | 700.0 | 2.7% |
+| 380cst | Rotterdam | 433.0 | 439.0 | -1.4% |
+| 380cst | Houston | 474.0 | 462.5 | 2.5% |
+| 380cst | Singapore | 464.5 | 462.0 | 0.5% |
+| VLSFO | Rotterdam | 571.0 | 570.5 | 0.1% |
+| VLSFO | Houston | 595.5 | 587.0 | 1.4% |
+| VLSFO | Singapore | 628.5 | 606.0 | 3.7% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 12-Nov-21 | 05-Nov-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.66 | 13.83 | 6.0% |
+| COSTAMARE INC | NYSE | USD | 13.11 | 13.19 | -0.6% |
+| DANAOS CORPORATION | NYSE | USD | 73.94 | 70.84 | 4.4% |
+| DIANA SHIPPING | NYSE | USD | 4.85 | 4.77 | 1.7% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 39.55 | 40.64 | -2.7% |
+| EUROSEAS LTD. | NASDAQ | USD | 35.10 | 31.21 | 12.5% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.81 | 2.89 | -2.8% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 5.13 | 4.93 | 4.1% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 29.05 | 29.14 | -0.3% |
+| SAFE BULKERS INC | NYSE | USD | 3.75 | 3.80 | -1.3% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.04 | 1.09 | -4.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.17 | 19.28 | -0.6% |
+| STEALTHGAS INC | NASDAQ | USD | 2.79 | 2.53 | 10.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 8.48 | 8.70 | -2.5% |
+| TOP SHIPS INC | NASDAQ | USD | 1.23 | 1.29 | -4.7% |
+
+## Market News
+
+“Tufton Oceanic raises $39m from over-subscribed stock sale
+
+UK shipping fund Tufton Oceanic Assets has another $39m to spend on vessel acquisitions after selling out an over-subscribed tap issue of new shares.
+
+The London-listed company said on 4 November it was launching an offer to capitalise on attractive sale and purchase opportunities.
+
+Tufton has now revealed 28.05m shares were sold at $1.39 each.
+
+"The tap issue was well supported by new and existing shareholders and was materially oversubscribed," the shipowner said.
+
+Demand for stock was above the authority granted by shareholders earlier this year for the sale of up to 10% of the equity.
+
+Key staff and affiliates of investment manager Tufton Investment Management have been allocated 671,567 shares.
+
+Tufton brought in joint brokers Hudnall Capital and Singer Capital Markets to run a bookbuilding process for the issue.
+
+The sale price was a 1.4% discount to the closing price of $1.41 on 3 November...”(TradeWinds)

@@ -263,3 +263,77 @@ This week's ship recycling market saw little action; some owners delayed scrappi
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | SERANO II | 106,552 | 16,290 | 1,999 | NKK CORP, Japan | TANKER | undisclosed | undisclosed |
 | JEPPESSEN MAERSK | 35,097 | 6,314 | 2001 | VOLKSWERFT STRALSUND, GERMANY | CONTAINER | undisclosed | Turkish |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 7-Jun-24 | 6-Jun-24 | 5-Jun-24 | 4-Jun-24 | 3-Jun-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.433 | 4.287 | 4.277 | 4.330 | 4.392 | -1.6% |
+| Stock Exchange Data | S&P 500 | 5,346.99 | 5,352.96 | 5,354.03 | 5,291.34 | 5,283.40 | 1.3% |
+| Stock Exchange Data | Nasdaq | 19,000.95 | 19,035.05 | 19,035.05 | 18,654.84 | 18,600.97 | 2.5% |
+| Stock Exchange Data | Dow Jones | 38,798.99 | 38,886.17 | 38,807.33 | 38,711.29 | 38,571.03 | 0.3% |
+| Stock Exchange Data | FTSE 100 | 8,245.37 | 8,285.34 | 8,246.95 | 8,232.04 | 8,262.75 | -0.4% |
+| Stock Exchange Data | FTSE All-Share UK | 4,498.20 | 4,521.73 | 4,502.58 | 4,496.88 | 4,517.03 | -0.4% |
+| Stock Exchange Data | CAC40 | 8,001.80 | 8,040.12 | 8,006.57 | 7,937.90 | 7,998.02 | 0.1% |
+| Stock Exchange Data | Xetra Dax | 18,583.00 | 18,677.00 | 18,610.00 | 18,461.00 | 18,655.00 | 0.3% |
+| Stock Exchange Data | Nikkei | 38,683.93 | 38,703.51 | 38,490.17 | 38,837.46 | 38,923.03 | 0.5% |
+| Stock Exchange Data | Hang Seng | 18,366.95 | 18,476.80 | 18,424.96 | 18,444.11 | 18,403.04 | 1.6% |
+| Stock Exchange Data | DJ US Maritime | 389.34 | 392.43 | 395.32 | 389.14 | 394.86 | -4.5% |
+| Currencies | € / $ | 1.08 | 1.09 | 1.09 | 1.09 | 1.09 | -0.4% |
+| Currencies | £ / $ | 1.27 | 1.28 | 1.28 | 1.28 | 1.28 | -0.1% |
+| Currencies | $ / ¥ | 156.70 | 155.60 | 156.10 | 154.87 | 156.10 | -0.4% |
+| Currencies | $ / NoK | 10.70 | 10.54 | 10.58 | 10.57 | 10.44 | 2.2% |
+| Currencies | Yuan / $ | 7.25 | 7.24 | 7.25 | 7.24 | 7.24 | 0.1% |
+| Currencies | Won / $ | 1,378.80 | 1,363.71 | 1,368.48 | 1,372.93 | 1,370.36 | -0.2% |
+| Currencies | $ INDEX | 104.89 | 104.10 | 104.27 | 104.11 | 104.14 | 0.2% |
+
+## Bunker Prices
+
+| Grade | Port | 7-Jun-24 | 31-May-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 721.0 | 740.5 | -2.6% |
+| MGO | Houston | 727.0 | 740.5 | -1.8% |
+| MGO | Singapore | 701.5 | 723.0 | -3.0% |
+| 380cst | Rotterdam | 465.0 | 481.5 | -3.4% |
+| 380cst | Houston | 462.5 | 479.0 | -3.4% |
+| 380cst | Singapore | 502.5 | 528.5 | -4.9% |
+| VLSFO | Rotterdam | 530.5 | 556.0 | -4.6% |
+| VLSFO | Houston | 570.5 | 586.0 | -2.6% |
+| VLSFO | Singapore | 581.0 | 599.0 | -3.0% |
+
+## Oil Prices
+
+| Category | Indicator | 7-Jun-24 | 31-May-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 79.6 | 81.6 | -2.5% |
+| OIL | WTI | 75.5 | 77.0 | -1.9% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 07-Jun-24 | 31-May-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 17.29 | 17.88 | 0.0% |
+| COSTAMARE INC | NYSE | USD | 15.47 | 16.01 | -3.4% |
+| DANAOS CORPORATION | NYSE | USD | 94.30 | 96.77 | -2.6% |
+| DIANA SHIPPING | NYSE | USD | 2.99 | 2.99 | 0.0% |
+| EUROSEAS LTD. | NASDAQ | USD | 38.13 | 38.08 | 0.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.20 | 2.33 | -5.6% |
+| SAFE BULKERS INC | NYSE | USD | 6.02 | 5.67 | 6.2% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 11.89 | 12.20 | -2.5% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 25.58 | 26.32 | -2.8% |
+| STEALTHGAS INC | NASDAQ | USD | 8.28 | 8.48 | -2.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 30.69 | 31.20 | -1.6% |
+
+## Macro-economic headlines
+
+In the euro area, HCOB Eurozone Manufacturing PMI for May stood at 47.3, higher than in April (45.7) and the Services PMI marginally fell to 53.2. The ECB started cutting Interest Rates, with lowering it to 4.25%, from 4.5%, while it also cut the Deposit Facility Rate from 4% to 3.75%.
+
+In the US, the S&P Global Composite PMI for May stood at 54.6, higher than last month at 51.3. Both Services and Manufacturing PMIs were higher this month, standing at 54.8 and 51.3 respectively.
+
+In Japan, Capital Spending rose by 6.8% in Q1 compared to a year ago, while the Services PMI for May was at 53.8, slightly down from the previous reading (54.3). Additionally,
+
+In China, the Caixin Manufacturing PMI for May was at 51.7, slightly higher than previous month, while Caixin Services PMI stood at 54.0, higher than April’s at 52.5. Exports rose by 7.6% and imports rose by only 1.8% in May, leaving the trade balance with a surplus of $82.62bn.

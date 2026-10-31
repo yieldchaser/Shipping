@@ -233,3 +233,77 @@ The ship demolition market continues to face significant challenges with subdued
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | GUNDOGDU 1 | 3,499 | 1,047 | 1984 | HIDRODINAMIK TUZLA, Turkey | GENERAL CARGO | undisclosed | Turkish |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 6-Sep-24 | 5-Sep-24 | 4-Sep-24 | 3-Sep-24 | 2-Sep-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.710 | 3.733 | 3.768 | 3.844 | mrkt closed | -5.1% |
+| Stock Exchange Data | S&P 500 | 5,408.42 | 5,503.41 | 5,520.07 | 5,528.93 | mrkt closed | -4.2% |
+| Stock Exchange Data | Nasdaq | 18,421.31 | 18,930.33 | 18,921.40 | 18,958.74 | mrkt closed | -5.9% |
+| Stock Exchange Data | Dow Jones | 40,345.41 | 40,755.75 | 40,974.97 | 40,936.93 | mrkt closed | -2.9% |
+| Stock Exchange Data | FTSE 100 | 8,181.47 | 8,241.71 | 8,269.60 | 8,298.46 | 8,363.84 | -2.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,467.47 | 4,503.76 | 4,518.05 | 4,531.63 | 4,567.46 | -2.4% |
+| Stock Exchange Data | CAC40 | 7,352.30 | 7,431.96 | 7,500.97 | 7,575.10 | 7,646.42 | -3.7% |
+| Stock Exchange Data | Xetra Dax | 18,301.90 | 18,576.50 | 18,591.85 | 18,747.11 | 18,930.85 | -3.2% |
+| Stock Exchange Data | Nikkei | 36,391.47 | 36,657.09 | 37,047.61 | 38,686.31 | 38,700.87 | -5.8% |
+| Stock Exchange Data | Hang Seng | 17,444.30 | 17,444.30 | 17,457.34 | 17,651.49 | 17,691.97 | -3.0% |
+| Stock Exchange Data | DJ US Maritime | 375.92 | 385.63 | 378.15 | 378.97 | mrkt closed | -4.5% |
+| Currencies | € / $ | 1.11 | 1.11 | 1.11 | 1.10 | 1.11 | 0.3% |
+| Currencies | £ / $ | 1.31 | 1.32 | 1.31 | 1.31 | 1.31 | 0.0% |
+| Currencies | $ / ¥ | 142.27 | 143.44 | 143.73 | 145.47 | 146.90 | -2.7% |
+| Currencies | $ / NoK | 10.70 | 10.61 | 10.60 | 10.68 | 10.58 | 1.0% |
+| Currencies | Yuan / $ | 7.09 | 7.09 | 7.11 | 7.12 | 7.12 | 0.0% |
+| Currencies | Won / $ | 1,337.26 | 1,333.04 | 1,333.34 | 1,339.29 | 1,337.48 | 0.1% |
+| Currencies | $ INDEX | 101.18 | 101.11 | 101.36 | 101.83 | 101.65 | -0.5% |
+
+## Bunker Prices
+
+| Grade | Port | 6-Sep-24 | 30-Aug-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 624.0 | 665.0 | -6.2% |
+| MGO | Houston | 642.0 | 683.0 | -6.0% |
+| MGO | Singapore | 630.0 | 673.0 | -6.4% |
+| 380cst | Rotterdam | 418.0 | 458.0 | -8.7% |
+| 380cst | Houston | 408.0 | 447.0 | -8.7% |
+| 380cst | Singapore | 429.0 | 468.0 | -8.3% |
+| VLSFO | Rotterdam | 517.0 | 552.0 | -6.3% |
+| VLSFO | Houston | 502.0 | 536.0 | -6.3% |
+| VLSFO | Singapore | 614.0 | 624.0 | -1.6% |
+
+## Oil Prices
+
+| Category | Indicator | 6-Sep-24 | 30-Aug-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 71.1 | 78.8 | -9.8% |
+| OIL | WTI | 67.7 | 73.6 | -8.0% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 06-Sep-24 | 30-Aug-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 17.28 | 17.75 | -2.6% |
+| COSTAMARE INC | NYSE | USD | 13.15 | 14.19 | -7.3% |
+| DANAOS CORPORATION | NYSE | USD | 77.07 | 82.04 | -6.1% |
+| DIANA SHIPPING | NYSE | USD | 2.31 | 2.50 | -7.6% |
+| EUROSEAS LTD. | NASDAQ | USD | 42.80 | 45.24 | -5.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.42 | 1.53 | -7.6% |
+| SAFE BULKERS INC | NYSE | USD | 4.60 | 5.11 | -10.0% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 10.28 | 11.50 | -10.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.87 | 21.37 | -7.0% |
+| STEALTHGAS INC | NASDAQ | USD | 6.12 | 5.97 | 2.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 23.19 | 24.97 | -7.1% |
+
+## Macro-economic headlines
+
+In US, Nonfarm Payrolls for August were at 142k, higher than the previous month, when the US created 89k new jobs. The unemployment rate fell slightly to 4.2% in August (4.3% in July).
+
+In China, the Caixin Services PMI fell slightly to 51.6 (vs 51.9) for August.
+
+In EU, the German manufacturing PMI for August was at 42.4, higher than last month at 42.1. Additionally, German Industrial Production softened by 2.4% in July.
+
+In Japan, capital spending in Q2 rose by 7.4%, lower than the previous reading of 9.6%. As far as Household spending is concerned, the figure was at -1.7% on a monthly basis in July.

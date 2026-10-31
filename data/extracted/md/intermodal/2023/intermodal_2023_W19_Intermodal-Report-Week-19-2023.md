@@ -302,3 +302,78 @@ The market has remained somewhat subdued over the past week, with few transactio
 
 © Intermodal Research
 16/05/2023 6
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 12-May-23 | 11-May-23 | 10-May-23 | 9-May-23 | 8-May-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.463 | 3.397 | 3.439 | 3.521 | 3.521 | 0.5% |
+| Stock Exchange Data | S&P 500 | 4,124.08 | 4,130.62 | 4,137.64 | 4,119.17 | 3,990.97 | -0.3% |
+| Stock Exchange Data | Nasdaq | 12,284.74 | 12,328.51 | 12,306.44 | 12,179.55 | 12,256.92 | 0.4% |
+| Stock Exchange Data | Dow Jones | 33,300.62 | 33,309.51 | 33,531.33 | 33,561.81 | 33,618.69 | -1.1% |
+| Stock Exchange Data | FTSE 100 | 7,754.62 | 7,754.62 | 7,730.58 | 7,741.33 | 7,764.09 | -0.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,224.06 | 4,224.06 | 4,215.22 | 4,220.42 | 4,231.12 | -0.4% |
+| Stock Exchange Data | CAC40 | 7,414.85 | 7,381.78 | 7,361.20 | 7,397.17 | 7,440.91 | -0.2% |
+| Stock Exchange Data | Xetra Dax | 15,913.82 | 15,834.91 | 15,896.23 | 15,955.48 | 15,952.83 | -0.2% |
+| Stock Exchange Data | Nikkei | 29,388.30 | 29,126.72 | 29,122.18 | 29,242.82 | 28,949.88 | 1.5% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 19,743.79 | 19,762.20 | 19,867.58 | 20,297.03 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 229.97 | 229.05 | 231.42 | 233.03 | 234.67 | -1.0% |
+| Currencies | € / $ | 1.09 | 1.09 | 1.10 | 1.10 | 1.10 | -2.4% |
+| Currencies | £ / $ | 1.25 | 1.25 | 1.26 | 1.26 | 1.26 | -1.5% |
+| Currencies | $ / ¥ | 135.75 | 134.50 | 134.09 | 135.29 | 135.07 | 0.7% |
+| Currencies | $ / NoK | 0.0926 | 0.0936 | 0.0952 | 0.0946 | 0.0952 | -2.1% |
+| Currencies | Yuan / $ | 6.96 | 6.95 | 6.93 | 6.92 | 6.91 | 0.7% |
+| Currencies | Won / $ | 1,342.55 | 1,330.88 | 1,318.40 | 1,326.40 | 1,323.16 | 1.9% |
+| Currencies | $ INDEX | 102.71 | 102.10 | 101.41 | 101.63 | 101.44 | 1.5% |
+
+## Bunker Prices
+
+| Grade | Port | 12-May-23 | 5-May-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 12-May-23 | 05-May-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 12.53 | 12.72 | -1.5% |
+| COSTAMARE INC | NYSE | USD | 8.33 | 8.39 | -0.7% |
+| DANAOS CORPORATION | NYSE | USD | 56.58 | 56.51 | 0.1% |
+| DIANA SHIPPING | NYSE | USD | 3.64 | 3.75 | -2.9% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 42.30 | 41.64 | 1.6% |
+| EUROSEAS LTD. | NASDAQ | USD | 18.63 | 18.42 | 1.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 0.93 | 0.97 | -4.1% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.76 | 1.89 | -6.9% |
+| SAFE BULKERS INC | NYSE | USD | 3.53 | 3.61 | -2.2% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 4.82 | 4.57 | 5.5% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.64 | 18.81 | -0.9% |
+| STEALTHGAS INC | NASDAQ | USD | 2.75 | 2.71 | 1.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.03 | 16.60 | 2.6% |
+
+## Market News
+
+“Navios Partners lays ground for $500m fundraiser as it sells LR1 tanker
+
+Greek shipping giant Navios Maritime Partners has lined up a fundraising programme worth up to $500m.
+
+The US-listed owner, led by Angeliki Frangou, said in an F-3 form filing to the US Securities and Exchange Commission (SEC) that offerings of stock or other debt securities could be made from time to time through underwriters.
+
+The stock in New York closed at $22.88 on Thursday, up 0.6%.
+
+The company also said that on 10 May it had agreed to sell the 64,000-dwt LR1 product tanker Lumen N (built 2008).
+
+The buyer is an unrelated third party for a price of $22.3m.
+
+VesselsValue has a value of $25m on the ship, up from $13m a year ago...(TradeWinds)

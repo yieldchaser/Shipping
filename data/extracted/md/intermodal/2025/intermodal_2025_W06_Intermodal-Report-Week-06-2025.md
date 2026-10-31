@@ -237,3 +237,75 @@ The Turkish market remains subdued, with little change from the previous week as
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AREL 2 | 3,152 | 972 | 1983 | BODEWESS GRUNO, Netherlands | GENERAL CARGO | $ 280/Ldt | Turkish |  |
 | TALENT BLU | 9,750 | 3,532 | 2008 | ZHEJIANG ZHENGHE, China | BC | $ 453/Ldt | Indian | incl. 140 mt FO/15 mt MGO |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 7-Feb-25 | 6-Feb-25 | 5-Feb-25 | 4-Feb-25 | 3-Feb-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.487 | 4.438 | 4.420 | 4.513 | 4.543 | -1.8% |
+| Stock Exchange Data | S&P 500 | 6,025.99 | 6,083.57 | 6,061.48 | 6,037.88 | 5,994.57 | -0.2% |
+| Stock Exchange Data | Nasdaq | 21,491.31 | 21,774.07 | 21,658.16 | 21,566.92 | 21,297.58 | 0.1% |
+| Stock Exchange Data | Dow Jones | 44,303.40 | 44,747.63 | 44,873.28 | 44,556.04 | 44,421.91 | -0.5% |
+| Stock Exchange Data | FTSE 100 | 8,700.53 | 8,727.28 | 8,623.29 | 8,570.77 | 8,583.56 | 0.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,718.95 | 4,735.93 | 4,680.98 | 4,653.17 | 4,660.82 | 0.2% |
+| Stock Exchange Data | CAC40 | 7,973.03 | 8,007.62 | 7,891.68 | 7,906.40 | 7,854.92 | 0.3% |
+| Stock Exchange Data | Xetra Dax | 21,787.00 | 21,902.42 | 21,585.93 | 21,505.70 | 21,428.24 | 0.3% |
+| Stock Exchange Data | Nikkei | 38,787.02 | 39,066.53 | 38,831.48 | 38,798.37 | 38,520.09 | -2.0% |
+| Stock Exchange Data | Hang Seng | 21,133.54 | 20,891.62 | 20,597.09 | 20,789.96 | 20,217.26 | 4.5% |
+| Stock Exchange Data | DJ US Maritime | 349.00 | 351.72 | 356.81 | 350.97 | 351.69 | -2.6% |
+| Currencies | € / $ | 1.03 | 1.04 | 1.04 | 1.04 | 1.03 | -0.3% |
+| Currencies | £ / $ | 1.24 | 1.24 | 1.25 | 1.25 | 1.25 | 0.2% |
+| Currencies | $ / ¥ | 151.40 | 151.44 | 152.60 | 154.33 | 154.75 | -2.4% |
+| Currencies | $ / NoK | 11.23 | 11.20 | 11.21 | 11.24 | 11.32 | -0.7% |
+| Currencies | Yuan / $ | 7.29 | 7.29 | 7.27 | 7.25 | 7.25 | 0.5% |
+| Currencies | Won / $ | 1,453.44 | 1,445.55 | 1,443.76 | 1,452.53 | 1,458.57 | -0.2% |
+| Currencies | $ INDEX | 108.04 | 107.69 | 107.58 | 107.96 | 108.99 | -0.3% |
+
+## Bunker Prices
+
+| Grade | Port | 7-Feb-25 | 31-Jan-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 658.0 | 653.0 | 0.8% |
+| MGO | Houston | 716.0 | 716.0 | 0.0% |
+| MGO | Singapore | 678.0 | 690.0 | -1.7% |
+| 380cst | Rotterdam | 467.0 | 459.0 | 1.7% |
+| 380cst | Houston | 459.0 | 459.0 | 0.0% |
+| 380cst | Singapore | 501.0 | 506.0 | -1.0% |
+| VLSFO | Rotterdam | 540.0 | 551.0 | -2.0% |
+| VLSFO | Houston | 550.0 | 558.0 | -1.4% |
+| VLSFO | Singapore | 569.0 | 580.0 | -1.9% |
+
+## Oil Prices
+
+| Category | Indicator | 7-Feb-25 | 31-Jan-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 74.7 | 76.8 | -2.7% |
+| OIL | WTI | 71.0 | 72.5 | -2.1% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 07-Feb-25 | 31-Jan-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 19.24 | 19.19 | 0.3% |
+| COSTAMARE INC | NYSE | USD | 10.54 | 11.66 | -9.6% |
+| DANAOS CORPORATION | NYSE | USD | 80.03 | 79.23 | 1.0% |
+| DIANA SHIPPING | NYSE | USD | 1.85 | 1.82 | 1.6% |
+| EUROSEAS LTD. | NASDAQ | USD | 32.85 | 31.01 | 5.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.29 | 1.32 | -2.3% |
+| SAFE BULKERS INC | NYSE | USD | 3.60 | 3.55 | 1.4% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 6.66 | 6.93 | -4.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 15.38 | 15.37 | 0.1% |
+| STEALTHGAS INC | NASDAQ | USD | 5.64 | 5.64 | 0.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 18.32 | 17.88 | 2.5% |
+
+## Macro-economic headlines
+
+In China, the CPI rose by 0.7% m-o-m in January, aligning closely with market expectations of 0.8%. December’s CPI remained unchanged. This marks the largest increase since February 2024.
+
+In Eurozone PMI read 50.2 in January, in line with market expectations and improving from December’s reading of 49.6.
+
+In Germany, a Trade Surplus of €20.7 billion was recorded in December, surpassing both market expectations of €17 billion and November’s figure of €19.7 billion. Meanwhile, industrial production declined by 2.4%, significantly exceeding market forecasts of a 0.7% decrease, and reversing the 1.5% increase recorded in November.

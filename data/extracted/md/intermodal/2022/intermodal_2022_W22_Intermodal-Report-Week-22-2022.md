@@ -311,3 +311,79 @@ The demolition market remains shadowed by the uncertainty that the ongoing war h
 | DAHLIA | 64,991 | 33,140 | 1979 | NEWPORT, United States of America | LNG | undisclosed | Indian | for Green Recycling |
 
 © Intermodal Research 07/06/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 3-Jun-22 | 2-Jun-22 | 1-Jun-22 | 31-May-22 | 30-May-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 2.957 | 2.913 | 2.931 | 2.844 | 2.743 | 7.8% |
+| Stock Exchange Data | S&P 500 | 4,108.54 | 4,108.54 | 4,176.82 | 4,101.23 | 4,158.24 | -1.2% |
+| Stock Exchange Data | Nasdaq | 12,012.73 | 12,012.73 | 12,316.90 | 11,994.46 | 12,081.39 | -1.0% |
+| Stock Exchange Data | Dow Jones | 32,899.70 | 32,899.70 | 33,248.28 | 32,813.23 | 32,990.12 | -0.9% |
+| Stock Exchange Data | FTSE 100 | 7,532.95 | 7,532.95 | 7,532.95 | 7,607.66 | 7,600.06 | -0.7% |
+| Stock Exchange Data | FTSE All-Share UK | 4,164.00 | 4,164.00 | 4,164.00 | 4,201.96 | 4,202.96 | -0.6% |
+| Stock Exchange Data | CAC40 | 6,485.30 | 6,500.44 | 6,418.89 | 6,468.80 | 6,562.39 | -0.5% |
+| Stock Exchange Data | Xetra Dax | 14,460.09 | 14,485.17 | 14,340.47 | 14,388.35 | 14,575.98 | -0.8% |
+| Stock Exchange Data | Nikkei | 27,761.57 | 27,413.88 | 27,457.89 | 27,279.80 | 27,369.43 | 1.4% |
+| Stock Exchange Data | Hang Seng | 21,082.13 | 21,082.13 | 21,294.94 | 21,415.20 | 21,123.93 | 4.8% |
+| Stock Exchange Data | DJ US Maritime | 225.38 | 224.95 | 224.23 | 221.67 | 224.43 | 0.4% |
+| Currencies | € / $ | 1.07 | 1.08 | 1.07 | 1.07 | 1.08 | -0.1% |
+| Currencies | £ / $ | 1.25 | 1.26 | 1.25 | 1.26 | 1.26 | -1.1% |
+| Currencies | $ / ¥ | 130.83 | 129.91 | 130.13 | 128.74 | 127.79 | 2.9% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.11 | 0.11 | 0.11 | 0.0% |
+| Currencies | Yuan / $ | 6.66 | 6.66 | 6.69 | 6.67 | 6.66 | -0.6% |
+| Currencies | Won / $ | 1,251.83 | 1,241.21 | 1,247.30 | 1,242.73 | 1,237.18 | -0.5% |
+| Currencies | $ INDEX | 102.14 | 101.82 | 102.50 | 101.75 | 101.67 | 0.5% |
+
+## Bunker Prices
+
+| Grade | Port | 3-Jun-22 | 27-May-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,323.0 | 1,206.0 | 9.7% |
+| MGO | Houston | 1,371.0 | 1,211.0 | 13.2% |
+| MGO | Singapore | 1,257.5 | 1,159.5 | 8.5% |
+| 380cst | Rotterdam | 668.0 | 678.5 | -1.5% |
+| 380cst | Houston | 717.0 | 722.5 | -0.8% |
+| 380cst | Singapore | 655.0 | 670.0 | -2.2% |
+| VLSFO | Rotterdam | 915.5 | 858.0 | 6.7% |
+| VLSFO | Houston | 950.0 | 930.5 | 2.1% |
+| VLSFO | Singapore | 1,095.0 | 1,061.0 | 3.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 03-Jun-22 | 27-May-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 16.06 | 15.60 | 2.9% |
+| COSTAMARE INC | NYSE | USD | 14.53 | 14.35 | 1.3% |
+| DANAOS CORPORATION | NYSE | USD | 84.35 | 83.64 | 0.8% |
+| DIANA SHIPPING | NYSE | USD | 6.35 | 6.42 | -1.1% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 76.10 | 70.17 | 8.5% |
+| EUROSEAS LTD. | NASDAQ | USD | 33.39 | 32.80 | 1.8% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.34 | 1.99 | 17.6% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 3.37 | 3.32 | 1.5% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 31.22 | 30.46 | 2.5% |
+| SAFE BULKERS INC | NYSE | USD | 4.92 | 4.77 | 3.1% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.18 | 1.20 | -1.7% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 32.51 | 32.54 | -0.1% |
+| STEALTHGAS INC | NASDAQ | USD | 3.34 | 2.73 | 22.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 11.10 | 11.30 | -1.8% |
+
+## Market News
+
+“Shares better than cash’: Golar LNG to retain NFE holding for now
+
+Golar LNG has no current plans to cash in any more of its shares in the US energy company New Fortress Energy (NFE).
+
+The London and Oslo-based owner of LNG storage and regasification vessels received a big chunk of stock in 2021 when it sold its Hygo Energy Transition business to the Wes Edens-led company.
+
+Golar offloaded about a third of its 8.9% holding earlier in May, raising $253m, but it retains 12.4m NFE shares.
+
+Chief executive Karl Staubo told a conference call: “We liked the development of NFE. We like the direction they are taking the company.”
+
+He added: “However, we have no lock-up and no board system, no access to any non-public information. Hence, we’re pretty much free to do what we want with that shareholding.
+
+But Staubo said: “The way we see it...(TradeWinds)

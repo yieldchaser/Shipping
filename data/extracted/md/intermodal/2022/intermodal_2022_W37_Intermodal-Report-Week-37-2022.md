@@ -307,3 +307,77 @@ It seems that the demolition market activity has yet to catch a positive momentu
 | JIN SHING | 4,785 | 1,711 | 1991 | KURINOURA, Japan | TANKER | $ 505/Ldt | undisclosed | "as-is" Batam |
 
 © Intermodal Research 20/09/2022 6
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 16-Sep-22 | 15-Sep-22 | 14-Sep-22 | 13-Sep-22 | 12-Sep-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.448 | 3.459 | 3.412 | 3.422 | 3.362 | 5.3% |
+| Stock Exchange Data | S&P 500 | 3,873.33 | 3,901.35 | 3,946.01 | 3,932.69 | 4,067.36 | -4.8% |
+| Stock Exchange Data | Nasdaq | 11,448.40 | 11,552.36 | 11,719.68 | 11,633.57 | 12,266.41 | -5.5% |
+| Stock Exchange Data | Dow Jones | 30,822.42 | 30,961.82 | 31,135.09 | 31,104.97 | 32,381.34 | -4.1% |
+| Stock Exchange Data | FTSE 100 | 7,236.68 | 7,282.07 | 7,277.30 | 7,385.86 | 7,473.03 | -1.6% |
+| Stock Exchange Data | FTSE All-Share UK | 3,976.66 | 4,000.33 | 3,996.83 | 4,056.12 | 4,108.19 | -1.6% |
+| Stock Exchange Data | CAC40 | 6,077.30 | 6,157.84 | 6,222.41 | 6,245.69 | 6,333.59 | -2.2% |
+| Stock Exchange Data | Xetra Dax | 12,741.26 | 12,956.66 | 13,028.00 | 13,188.95 | 13,402.27 | -4.9% |
+| Stock Exchange Data | Nikkei | 27,567.65 | 27,875.91 | 27,818.62 | 28,614.63 | 28,542.11 | -3.4% |
+| Stock Exchange Data | Hang Seng | 18,761.69 | 18,761.69 | 18,930.38 | 18,847.10 | 19,326.86 | -0.5% |
+| Stock Exchange Data | DJ US Maritime | 220.22 | 220.22 | 228.10 | 222.95 | 228.66 | -2.8% |
+| Currencies | € / $ | 1.00 | 1.00 | 1.00 | 1.00 | 1.01 | -1.3% |
+| Currencies | £ / $ | 1.14 | 1.15 | 1.15 | 1.15 | 1.17 | -1.5% |
+| Currencies | $ / ¥ | 142.93 | 143.37 | 142.92 | 144.41 | 142.59 | 0.3% |
+| Currencies | $ / NoK | 0.10 | 0.10 | 0.10 | 0.10 | 0.10 | -2.5% |
+| Currencies | Yuan / $ | 6.98 | 6.99 | 6.96 | 6.93 | 6.93 | 0.8% |
+| Currencies | Won / $ | 1,386.49 | 1,399.13 | 1,391.55 | 1,393.75 | 1,376.19 | 0.5% |
+| Currencies | $ INDEX | 109.64 | 109.80 | 109.60 | 109.83 | 108.22 | 0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 16-Sep-22 | 9-Sep-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,007.5 | 1,063.5 | -5.3% |
+| MGO | Houston | 1,000.0 | 1,095.5 | -8.7% |
+| MGO | Singapore | 891.0 | 1,071.5 | -16.8% |
+| 380cst | Rotterdam | 430.0 | 429.0 | 0.2% |
+| 380cst | Houston | 467.5 | 478.5 | -2.3% |
+| 380cst | Singapore | 410.5 | 405.0 | 1.4% |
+| VLSFO | Rotterdam | 672.0 | 654.5 | 2.7% |
+| VLSFO | Houston | 671.0 | 679.0 | -1.2% |
+| VLSFO | Singapore | 686.5 | 670.5 | 2.4% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 16-Sep-22 | 09-Sep-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.09 | 15.50 | -2.6% |
+| COSTAMARE INC | NYSE | USD | 10.33 | 11.08 | -6.8% |
+| DANAOS CORPORATION | NYSE | USD | 63.77 | 70.02 | -8.9% |
+| DIANA SHIPPING | NYSE | USD | 4.73 | 4.91 | -3.7% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 43.07 | 43.58 | -1.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 21.48 | 24.00 | -10.5% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.53 | 1.69 | -9.5% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.22 | 2.45 | -9.4% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 26.01 | 26.29 | -1.1% |
+| SAFE BULKERS INC | NYSE | USD | 3.05 | 3.26 | -6.4% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.55 | 0.54 | 1.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.60 | 20.47 | -4.3% |
+| STEALTHGAS INC | NASDAQ | USD | 3.06 | 3.10 | -1.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.90 | 17.84 | 0.3% |
+
+## Market News
+
+“Tsakos boosts dividend by half after record tanker profit
+
+Tsakos Energy Navigation (TEN), a US-listed owner of more than 60 tankers and a few LNG carriers, reported on Wednesday a record set of earnings and announced a 50% increase in its dividend.
+
+Net income at the Nikolas Tsakos-led company more than quadrupled year-on-year between April and June to $46.2m.
+
+According to available figures, this is the highest profit reading in TEN’s 29 years as a public company.
+
+“As global oil demand seems to be recovering from the Covid-19 pandemic, the severe and largely unexpected geopolitical events that unfolded in the first quarter of the year led to dislocations in global trading patterns that boosted all regional and international tanker trades and created a long-term energy shift,” the company said in its earnings release.
+
+This shift in trading patterns since the outbreak of the Ukraine war and the...(TradeWinds)

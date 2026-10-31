@@ -307,3 +307,79 @@ Activity in the demolition front remained limited. A combination of the Eid fest
 | GOLD CLUB | 3,130 | 8,700 | 1977 | BURMEISTER & WAIN'S SK, Denmark | PASSENGER | undisclosed | Turkish |
 
 © Intermodal Research 19/07/2022 6
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 15-Jul-22 | 14-Jul-22 | 13-Jul-22 | 12-Jul-22 | 11-Jul-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 2.930 | 2.960 | 2.904 | 2.958 | 2.991 | -5.5% |
+| Stock Exchange Data | S&P 500 | 3,863.16 | 3,790.38 | 3,801.78 | 3,818.80 | 3,899.38 | -0.9% |
+| Stock Exchange Data | Nasdaq | 11,452.42 | 11,251.19 | 11,247.58 | 11,264.73 | 11,372.60 | -1.6% |
+| Stock Exchange Data | Dow Jones | 31,288.26 | 30,630.17 | 30,772.79 | 30,981.33 | 31,173.84 | -0.2% |
+| Stock Exchange Data | FTSE 100 | 7,159.01 | 7,039.81 | 7,156.37 | 7,209.86 | 7,196.59 | -0.5% |
+| Stock Exchange Data | FTSE All-Share UK | 3,940.87 | 3,874.73 | 3,935.82 | 3,965.15 | 3,958.92 | -0.5% |
+| Stock Exchange Data | CAC40 | 6,036.00 | 5,915.41 | 6,000.24 | 6,044.20 | 5,996.30 | 0.0% |
+| Stock Exchange Data | Xetra Dax | 12,864.72 | 12,519.66 | 12,756.32 | 12,905.48 | 12,832.44 | 0.3% |
+| Stock Exchange Data | Nikkei | 26,788.47 | 26,643.39 | 26,478.77 | 26,336.66 | 26,812.30 | -0.1% |
+| Stock Exchange Data | Hang Seng | 20,751.21 | 20,751.21 | 20,797.95 | 20,844.74 | 21,124.20 | -4.1% |
+| Stock Exchange Data | DJ US Maritime | 189.57 | 184.77 | 187.30 | 187.70 | 191.01 | -2.1% |
+| Currencies | € / $ | 1.01 | 1.00 | 1.00 | 1.00 | 1.00 | -1.0% |
+| Currencies | £ / $ | 1.19 | 1.18 | 1.19 | 1.19 | 1.19 | -1.4% |
+| Currencies | $ / ¥ | 138.53 | 138.98 | 137.63 | 136.73 | 137.39 | 1.8% |
+| Currencies | $ / NoK | 0.10 | 0.10 | 0.10 | 0.10 | 0.10 | -1.0% |
+| Currencies | Yuan / $ | 6.76 | 6.76 | 6.72 | 6.72 | 6.72 | 0.9% |
+| Currencies | Won / $ | 1,319.00 | 1,316.35 | 1,305.15 | 1,306.16 | 1,311.21 | 1.9% |
+| Currencies | $ INDEX | 107.98 | 108.57 | 108.27 | 108.21 | 108.16 | 1.0% |
+
+## Bunker Prices
+
+| Grade | Port | 15-Jul-22 | 8-Jul-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,131.0 | 1,159.0 | -2.4% |
+| MGO | Houston | 1,154.5 | 1,141.5 | 1.1% |
+| MGO | Singapore | 1,092.0 | 1,063.0 | 2.7% |
+| 380cst | Rotterdam | 451.5 | 503.0 | -10.2% |
+| 380cst | Houston | 564.0 | 585.5 | -3.7% |
+| 380cst | Singapore | 456.0 | 513.0 | -11.1% |
+| VLSFO | Rotterdam | 782.5 | 808.0 | -3.2% |
+| VLSFO | Houston | 803.0 | 842.0 | -4.6% |
+| VLSFO | Singapore | 997.0 | 1,045.0 | -4.6% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 15-Jul-22 | 08-Jul-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.52 | 13.55 | -0.2% |
+| COSTAMARE INC | NYSE | USD | 10.87 | 10.88 | -0.1% |
+| DANAOS CORPORATION | NYSE | USD | 61.00 | 60.48 | 0.9% |
+| DIANA SHIPPING | NYSE | USD | 4.58 | 4.53 | 1.1% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 47.21 | 44.75 | 5.5% |
+| EUROSEAS LTD. | NASDAQ | USD | 21.52 | 23.22 | -7.3% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.62 | 1.62 | 0.0% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.18 | 2.11 | 3.3% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 21.61 | 21.33 | 1.3% |
+| SAFE BULKERS INC | NYSE | USD | 3.37 | 3.37 | 0.0% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.73 | 0.71 | 2.8% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 23.76 | 22.46 | 5.8% |
+| STEALTHGAS INC | NASDAQ | USD | 2.43 | 2.70 | -10.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 9.61 | 9.25 | 3.9% |
+
+## Market News
+
+“Petrobras makes green finance debut with $1.25bn loan
+
+Brazilian oil major Petrobras has secured its first sustainability-linked loan as the company seeks to focus on decarbonising its operations.
+
+The five-year $1.25bn facility was signed with the Bank of China, MUFG and The Bank of Nova Scotia, the Brazilian oil major said.
+
+The terms were not disclosed, but Petrobras will pay a lower interest rate if it meets goals to reduce per-barrel emissions of methane and other greenhouse gases, while it will pay a higher rate if it misses the targets.
+
+Institutional Shareholder Services will function as a third party to monitor the company’s performance.
+
+“This is the first time Petrobras has contracted financing associated with its corporate sustainability targets,” the Rio de Janeiro-based company said.
+
+It added that the move also expands its “liability management strategy by diversifying financing models, in line with the sustainability requirements that are increasingly present in...(TradeWinds)

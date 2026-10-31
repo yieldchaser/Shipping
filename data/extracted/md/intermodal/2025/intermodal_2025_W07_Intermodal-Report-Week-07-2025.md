@@ -229,3 +229,77 @@ Another week of limited activity for the Turkish ship recycling market with poor
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | RUN FU 7 | 38,852 | 7,236 | 1990 | IHI, Japan | BC | $ 445/Ldt | Bangladeshi |
 | BEST UNITY | 69,034 | 9,816 | 1997 | IMABARI, Japan | BC | $ 443/Ldt | Bangladeshi |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 14-Feb-25 | 13-Feb-25 | 12-Feb-25 | 11-Feb-25 | 10-Feb-25 | W-O-W Change % | 7-Feb-25 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.477 | 4.532 | 4.625 | 4.536 | 4.500 | -0.4% | 4.494 |
+| Stock Exchange Data | S&P 500 | 6,114.63 | 6,115.07 | 6,051.97 | 6,068.50 | 6,066.44 | 1.5% | 6,025.99 |
+| Stock Exchange Data | Nasdaq | 20,026.77 | 19,945.64 | 19,649.95 | 19,643.86 | 19,714.27 | 2.6% | 19,523.40 |
+| Stock Exchange Data | Dow Jones | 44,546.08 | 44,711.43 | 44,368.56 | 44,593.65 | 44,470.41 | 0.5% | 44,303.40 |
+| Stock Exchange Data | FTSE 100 | 8,732.46 | 8,764.72 | 8,807.44 | 8,777.39 | 8,767.80 | 0.4% | 8,700.53 |
+| Stock Exchange Data | FTSE All-Share UK | 4,639.90 | 4,655.88 | 4,676.29 | 4,661.43 | 4,659.23 | 0.4% | 4,623.16 |
+| Stock Exchange Data | CAC40 | 8,178.54 | 8,164.11 | 8,042.19 | 8,028.90 | 8,006.22 | 2.6% | 7,973.03 |
+| Stock Exchange Data | Xetra Dax | 22,513.42 | 22,612.02 | 22,148.03 | 22,037.83 | 21,911.74 | 3.3% | 21,787.00 |
+| Stock Exchange Data | Nikkei | 39,149.43 | 39,461.47 | 38,963.70 | 39,062.50 | 38,801.17 | 0.9% | 38,787.02 |
+| Stock Exchange Data | Hang Seng | 22,620.33 | 21,814.37 | 21,857.92 | 21,294.86 | 21,521.98 | 7.0% | 21,133.54 |
+| Stock Exchange Data | DJ US Maritime | 355.86 | 353.13 | 348.21 | 353.36 | 353.40 | 2.0% | 349.00 |
+| Currencies | € / $ | 1.05 | 1.05 | 1.04 | 1.04 | 1.03 | 1.6% | 1.03 |
+| Currencies | £ / $ | 1.26 | 1.26 | 1.24 | 1.24 | 1.24 | 1.4% | 1.24 |
+| Currencies | $ / ¥ | 152.33 | 152.79 | 154.41 | 152.48 | 151.99 | 0.6% | 151.40 |
+| Currencies | $ / NoK | 11.10 | 11.15 | 11.27 | 11.18 | 11.21 | -1.2% | 11.23 |
+| Currencies | $ / Yuan | 7.25 | 7.29 | 7.31 | 7.31 | 7.30 | -0.5% | 7.29 |
+| Currencies | $ / Won | 1,439.43 | 1,439.33 | 1,450.74 | 1,450.86 | 1,450.55 | -1.0% | 1,453.44 |
+| Currencies | $ INDEX | 106.71 | 107.31 | 107.94 | 107.96 | 108.32 | -1.2% | 108.04 |
+
+## Bunker Prices
+
+| Grade | Port | 14-Feb-25 | 7-Feb-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 696.0 | 719.5 | -3.3% |
+| MGO | Houston | 756.0 | 779.5 | -3.0% |
+| MGO | Singapore | 724.0 | 752.5 | -3.8% |
+| 380cst | Rotterdam | 470.0 | 476.5 | -1.4% |
+| 380cst | Houston | 475.5 | 485.5 | -2.1% |
+| 380cst | Singapore | 515.5 | 521.0 | -1.1% |
+| VLSFO | Rotterdam | 547.5 | 557.0 | -1.7% |
+| VLSFO | Houston | 581.5 | 601.5 | -3.3% |
+| VLSFO | Singapore | 597.0 | 613.0 | -2.6% |
+
+## Oil Prices
+
+| Category | Indicator | 14-Feb-25 | 7-Feb-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 74.7 | 74.7 | 0.1% |
+| OIL | WTI | 70.7 | 71.0 | -0.4% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 14-Feb-25 | 07-Feb-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.30 | 19.24 | -4.9% |
+| COSTAMARE INC | NYSE | USD | 10.65 | 10.54 | 1.0% |
+| DANAOS CORPORATION | NYSE | USD | 83.97 | 80.03 | 4.9% |
+| DIANA SHIPPING | NYSE | USD | 1.83 | 1.85 | -1.1% |
+| EUROSEAS LTD. | NASDAQ | USD | 34.13 | 32.85 | 3.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.29 | 1.29 | 0.0% |
+| SAFE BULKERS INC | NYSE | USD | 3.59 | 3.60 | -0.3% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 7.00 | 6.66 | 5.2% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 16.10 | 15.38 | 4.7% |
+| STEALTHGAS INC | NASDAQ | USD | 5.56 | 5.64 | -1.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.36 | 18.32 | -5.2% |
+
+## Macro-economic headlines
+
+In Eurozone, a trade surplus of €15.5 billion was recorded in December, surpassing projections of €14.4 billion. Meanwhile, the industrial production decreased by 1.1% in December, reversing November’s 0.2% expansion and falling short of the expected 0.6% decline
+
+In USA, CPI rose by 0.5% in January, exceeding both the market forecast of 0.3% and December’s 0.4%. Moreover, the industrial production grew by 0.5%, above the forecasted 0.3% but below December’s 0.9%.
+
+In Japan, a JPY130.9 billion trade surplus was recorded in December, defying market expectations of a JPY55 billion deficit, marking the first surplus since June.
+
+In Germany, inflation slowed as the CPI declined by 0.2% in January aligning with market estimations and following a 0.5% increase in December.

@@ -334,3 +334,79 @@ Slow activity materialized in the demolition front amidst the ongoing Ramadan pe
 | SPLENDOUR SAPPHIRE | 47,314 | 9,697 | 1998 | BRODOGRADILISTE, Croatia | TANKER | $ 722/Ldt | Pakistani |  |
 
 © Intermodal Research 19/04/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 15-Apr-22 | 14-Apr-22 | 13-Apr-22 | 12-Apr-22 | 11-Apr-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 2.828 | 2.828 | 2.687 | 2.725 | 2.780 | 4.2% |
+| Stock Exchange Data | S&P 500 | 4,392.59 | 4,392.59 | 4,446.59 | 4,397.45 | 4,488.28 | -2.1% |
+| Stock Exchange Data | Nasdaq | 13,351.08 | 13,351.08 | 13,643.59 | 13,371.57 | 13,411.96 | -2.6% |
+| Stock Exchange Data | Dow Jones | 34,451.23 | 34,451.23 | 34,564.59 | 34,220.36 | 34,308.08 | -0.8% |
+| Stock Exchange Data | FTSE 100 | 7,616.38 | 7,616.38 | 7,580.80 | 7,576.66 | 7,618.31 | -0.7% |
+| Stock Exchange Data | FTSE All-Share UK | 4,232.12 | 4,232.12 | 4,211.90 | 4,210.28 | 4,232.53 | -0.6% |
+| Stock Exchange Data | CAC40 | 6,589.35 | 6,589.35 | 6,542.14 | 6,537.41 | 6,555.81 | 0.6% |
+| Stock Exchange Data | Xetra Dax | 14,163.85 | 14,163.85 | 14,076.44 | 14,124.95 | 14,192.78 | -0.2% |
+| Stock Exchange Data | Nikkei | 27,093.19 | 27,172.00 | 26,843.49 | 26,334.98 | 26,821.52 | 1.0% |
+| Stock Exchange Data | Hang Seng | 21,518.08 | 21,518.08 | 21,374.37 | 21,319.13 | 21,208.30 | -1.6% |
+| Stock Exchange Data | DJ US Maritime | 218.52 | 218.52 | 215.73 | 213.76 | 211.95 | 0.8% |
+| Currencies | € / $ | 1.08 | 1.08 | 1.09 | 1.08 | 1.09 | -0.6% |
+| Currencies | £ / $ | 1.31 | 1.31 | 1.31 | 1.30 | 1.30 | 0.2% |
+| Currencies | $ / ¥ | 126.44 | 126.18 | 125.38 | 125.41 | 125.47 | 1.7% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.11 | 0.11 | 0.11 | -0.7% |
+| Currencies | Yuan / $ | 6.37 | 6.38 | 6.37 | 6.37 | 6.37 | 0.1% |
+| Currencies | Won / $ | 1,229.09 | 1,230.23 | 1,223.25 | 1,228.70 | 1,235.19 | 0.0% |
+| Currencies | $ INDEX | 100.32 | 100.32 | 99.88 | 100.29 | 99.93 | 0.5% |
+
+## Bunker Prices
+
+| Grade | Port | 15-Apr-22 | 8-Apr-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,198.5 | 1,131.5 | 5.9% |
+| MGO | Houston | 1,298.0 | 1,160.0 | 11.9% |
+| MGO | Singapore | 1,175.5 | 1,096.5 | 7.2% |
+| 380cst | Rotterdam | 631.0 | 622.0 | 1.4% |
+| 380cst | Houston | 708.5 | 668.5 | 6.0% |
+| 380cst | Singapore | 744.5 | 682.0 | 9.2% |
+| VLSFO | Rotterdam | 849.5 | 836.0 | 1.6% |
+| VLSFO | Houston | 913.0 | 864.5 | 5.6% |
+| VLSFO | Singapore | 913.5 | 823.0 | 11.0% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 15-Apr-22 | 08-Apr-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 16.62 | 17.17 | -3.2% |
+| COSTAMARE INC | NYSE | USD | 15.91 | 15.16 | 4.9% |
+| DANAOS CORPORATION | NYSE | USD | 88.77 | 90.21 | -1.6% |
+| DIANA SHIPPING | NYSE | USD | 5.26 | 5.06 | 4.0% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 68.06 | 66.57 | 2.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 24.71 | 25.44 | -2.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.31 | 2.05 | 12.7% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 3.58 | 3.29 | 8.8% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 32.83 | 32.39 | 1.4% |
+| SAFE BULKERS INC | NYSE | USD | 4.26 | 4.08 | 4.4% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.18 | 1.12 | 5.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 30.46 | 28.30 | 7.6% |
+| STEALTHGAS INC | NASDAQ | USD | 2.42 | 2.37 | 2.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 12.15 | 10.67 | 13.9% |
+
+## Market News
+
+“CMB buys more Euronav as De Stoop calls hydrogen plan ‘impossible toxic marriage
+
+Saverys family-controlled shipowner CMB has upped its stake in tanker giant Euronav once again as it tries to halt a merger with John Fredriksen's Frontline.
+
+A Securities and Exchange Commission (SEC) filing reveals that CMB and the family’s holding company Saverco now own 14.39% of the Belgian VLCC and suezmax specialist.
+
+The biggest shareholder had 13.22% earlier this month, ahead of Fredriksen on about 10%.
+
+Between 4 February and 11 April, CMB spent $206m on the stock.
+
+CMB’s chief executive Alexander Saverys is trying to convince Euronav shareholders to reject the merger and combine the company with CMB.Tech, the Belgian group's shipping decarbonisation company instead.
+
+CMB said in the filing that it will “further endeavour to convince all stakeholders … of the benefits of this alternative strategy.”...(TradeWinds)

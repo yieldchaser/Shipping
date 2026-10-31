@@ -248,3 +248,70 @@ The demolition market has been slow for a number of weeks, with the leading dest
 | JIN YUAN SHENG 9 | 14,776 | 3,000 | 2007 |  | GENERAL CARGO | undisclosed | Indian |  |
 | CMA CGM TANGER | 13,702 | 5,245 | 2003 | JIANGDONG, China | CONTAINER | undisclosed | Turkish |  |
 | GAS DOLLART | 4,998 | 2,491 | 1990 | PATTJE, Netherlands | GAS TANKER | $ 700/Ldt | Indian |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 10-Nov-23 | 9-Nov-23 | 8-Nov-23 | 7-Nov-23 | 6-Nov-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.646 | 4.632 | 4.492 | 4.569 | 4.647 | 1.5% |
+| Stock Exchange Data | S&P 500 | 4,415.24 | 4,347.35 | 4,382.78 | 4,378.38 | 4,365.98 | 7.2% |
+| Stock Exchange Data | Nasdaq | 13,798.11 | 13,521.45 | 13,650.41 | 13,639.86 | 13,518.78 | 9.1% |
+| Stock Exchange Data | Dow Jones | 34,283.10 | 33,891.94 | 34,112.27 | 34,152.60 | 34,095.86 | 5.8% |
+| Stock Exchange Data | FTSE 100 | 7,360.55 | 7,455.67 | 7,401.72 | 7,410.04 | 7,417.76 | 1.0% |
+| Stock Exchange Data | FTSE All-Share UK | 3,997.59 | 4,047.13 | 4,016.24 | 4,017.63 | 4,020.77 | 1.6% |
+| Stock Exchange Data | CAC40 | 7,045.04 | 7,113.66 | 7,034.16 | 6,986.23 | 7,013.73 | 3.7% |
+| Stock Exchange Data | Xetra Dax | 15,234.39 | 15,352.54 | 15,229.60 | 15,152.64 | 15,135.97 | 0.7% |
+| Stock Exchange Data | Nikkei | 32,568.11 | 32,646.46 | 32,166.48 | 32,271.82 | 32,708.48 | -0.4% |
+| Stock Exchange Data | Hang Seng | 17,203.26 | 17,511.29 | 17,568.46 | 17,670.16 | 17,966.59 | -4.2% |
+| Stock Exchange Data | DJ US Maritime | 251.28 | 250.65 | 251.77 | 251.90 | 256.46 | -0.6% |
+| Currencies | € / $ | 1.07 | 1.07 | 1.07 | 1.07 | 1.07 | -0.2% |
+| Currencies | £ / $ | 1.22 | 1.22 | 1.23 | 1.23 | 1.23 | -1.2% |
+| Currencies | $ / ¥ | 151.53 | 151.35 | 150.87 | 150.38 | 149.99 | 1.4% |
+| Currencies | $ / NoK | 0.0900 | 0.0891 | 0.0895 | 0.0894 | 0.0904 | -0.7% |
+| Currencies | Yuan / $ | 7.29 | 7.28 | 7.28 | 7.28 | 7.27 | -0.1% |
+| Currencies | Won / $ | 1,320.17 | 1,315.54 | 1,308.37 | 1,304.98 | 1,299.11 | 0.9% |
+| Currencies | $ INDEX | 105.86 | 105.91 | 105.59 | 105.54 | 105.21 | 0.8% |
+
+## Bunker Prices
+
+| Grade | Port | 10-Nov-23 | 3-Nov-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 10-Nov-23 | 03-Nov-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.00 | 13.49 | -3.6% |
+| COSTAMARE INC | NYSE | USD | 8.71 | 9.28 | -6.1% |
+| DANAOS CORPORATION | NYSE | USD | 63.40 | 66.49 | -4.6% |
+| DIANA SHIPPING | NYSE | USD | 3.06 | 3.29 | -7.0% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 41.57 | 41.47 | 0.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 23.92 | 26.65 | -10.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.52 | 1.70 | -10.6% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.23 | 2.22 | 0.5% |
+| SAFE BULKERS INC | NYSE | USD | 3.24 | 3.23 | 0.3% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 5.11 | 5.10 | 0.2% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.40 | 18.79 | -2.1% |
+| STEALTHGAS INC | NASDAQ | USD | 5.46 | 5.77 | -5.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 21.84 | 22.94 | -4.8% |
+
+## Macro-economic headlines
+
+• US: Exports rose to USD 261.10bn while imports rose to USD 322.70bn for September. The Trade Balance for the period was at -61.50bn.
+
+• China: Exports in October fell by -6.4% in October, while Imports rose by 3.0%. The Trade balance for the period stood at USD 56.53bn, below markets expectations. The CPI for October fell slightly by -0.1% in October on a monthly basis, while tit fell by -0.2% on annual basis.
+
+• EU: The Composite PMI and the Services PMI remained unchanged at 46.5 and 47.8 respectively. The German industrial production fell by -1.4% on an a monthly basis in September. The German CPI was flat in October compared to September, while it rose by 3.8% on an annual basis.

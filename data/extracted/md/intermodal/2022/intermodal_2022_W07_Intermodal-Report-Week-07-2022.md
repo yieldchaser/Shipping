@@ -331,3 +331,79 @@ The demolition sector enjoyed increased activity amidst an injection of fresh vi
 | NUSA MERDEKA | 104,875 | 17,297 | 2003 | SAMSUNG, S. Korea | TANKER | $ 670/Ldt | Bangladeshi |  |
 
 © Intermodal Research 22/02/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 18-Feb-22 | 17-Feb-22 | 16-Feb-22 | 15-Feb-22 | 14-Feb-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.932 | 1.972 | 2.047 | 2.045 | 1.996 | -1.2% |
+| Stock Exchange Data | S&P 500 | 4,348.87 | 4,380.26 | 4,475.01 | 4,471.07 | 4,418.64 | -1.6% |
+| Stock Exchange Data | Nasdaq | 13,548.07 | 13,716.72 | 14,124.10 | 14,139.76 | 13,790.92 | -1.8% |
+| Stock Exchange Data | Dow Jones | 34,079.18 | 34,312.03 | 34,934.27 | 34,988.84 | 34,566.17 | -1.9% |
+| Stock Exchange Data | FTSE 100 | 7,513.62 | 7,537.37 | 7,603.78 | 7,608.92 | 7,531.59 | -1.9% |
+| Stock Exchange Data | FTSE All-Share UK | 4,195.45 | 4,212.87 | 4,251.96 | 4,254.78 | 4,211.74 | -2.1% |
+| Stock Exchange Data | CAC40 | 6,929.63 | 6,946.82 | 6,964.98 | 6,979.97 | 6,852.20 | -1.2% |
+| Stock Exchange Data | Xetra Dax | 15,042.51 | 15,267.63 | 15,370.30 | 15,412.71 | 15,113.97 | -0.5% |
+| Stock Exchange Data | Nikkei | 27,122.07 | 27,232.87 | 27,460.40 | 26,865.19 | 27,079.59 | 0.2% |
+| Stock Exchange Data | Hang Seng | 24,792.77 | 24,792.77 | 24,718.90 | 24,355.71 | 24,556.57 | -0.5% |
+| Stock Exchange Data | DJ US Maritime | 219.37 | 219.93 | 222.59 | 214.19 | 208.18 | 5.4% |
+| Currencies | € / $ | 1.13 | 1.14 | 1.14 | 1.14 | 1.13 | -0.3% |
+| Currencies | £ / $ | 1.36 | 1.36 | 1.36 | 1.35 | 1.35 | 0.2% |
+| Currencies | $ / ¥ | 115.00 | 114.88 | 115.39 | 115.64 | 115.54 | -0.5% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.11 | 0.11 | 0.11 | -1.5% |
+| Currencies | Yuan / $ | 6.33 | 6.34 | 6.34 | 6.34 | 6.36 | -0.5% |
+| Currencies | Won / $ | 1,195.73 | 1,198.81 | 1,196.76 | 1,196.91 | 1,197.50 | -0.3% |
+| Currencies | $ INDEX | 96.04 | 95.80 | 95.70 | 95.99 | 96.37 | 0.0% |
+
+## Bunker Prices
+
+| Grade | Port | 18-Feb-22 | 11-Feb-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 815.5 | 814.5 | 0.1% |
+| MGO | Houston | 879.5 | 895.0 | -1.7% |
+| MGO | Singapore | 827.0 | 823.0 | 0.5% |
+| 380cst | Rotterdam | 510.0 | 514.5 | -0.9% |
+| 380cst | Houston | 544.0 | 525.5 | 3.5% |
+| 380cst | Singapore | 526.5 | 516.0 | 2.0% |
+| VLSFO | Rotterdam | 676.0 | 683.5 | -1.1% |
+| VLSFO | Houston | 704.5 | 706.5 | -0.3% |
+| VLSFO | Singapore | 735.5 | 729.0 | 0.9% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 18-Feb-22 | 11-Feb-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.84 | 16.08 | -7.7% |
+| COSTAMARE INC | NYSE | USD | 13.93 | 13.85 | 0.6% |
+| DANAOS CORPORATION | NYSE | USD | 95.07 | 98.34 | -3.3% |
+| DIANA SHIPPING | NYSE | USD | 4.23 | 4.16 | 1.7% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 54.05 | 52.32 | 3.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 30.26 | 32.04 | -5.6% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.04 | 2.10 | -2.9% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 3.37 | 3.48 | -3.2% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 30.35 | 31.35 | -3.2% |
+| SAFE BULKERS INC | NYSE | USD | 4.31 | 4.11 | 4.9% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.16 | 1.15 | 0.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 29.36 | 26.43 | 11.1% |
+| STEALTHGAS INC | NASDAQ | USD | 1.95 | 2.01 | -3.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 7.50 | 7.50 | 0.0% |
+
+## Market News
+
+“Star Bulk Carriers to ‘protect the dividend’ amid high cash balance
+
+Star Bulk Carriers has made giving a shareholder dividend its top priority as cash on hand reached into the hundreds of millions of dollars at the end of its most profitable year ever.
+
+The Petros Pappas-led owner posted $300m in fourth-quarter profit on Thursday versus $27.1m in earnings a year ago, allowing it to give a $2 payout for the last three months of 2021.
+
+New York-listed Star Bulk plans to keep providing a dividend, having raised it from $1.50 in the third quarter, after recording a full-year profit of $681m versus $9.67m in earnings for 2020.
+
+“Strategically, we will protect the dividend,” president Hamish Norton said during a conference call with analysts.
+
+The dividend is very important to us and to all the shareholders. … It’s a continuation of the strategy we’ve had.”
+
+Chief executive Petros Pappas said that Star Bulk, which owns 128 bulkers, also plans...”(TradeWinds)

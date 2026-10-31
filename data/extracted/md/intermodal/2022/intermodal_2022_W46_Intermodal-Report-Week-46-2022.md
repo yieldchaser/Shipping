@@ -291,3 +291,76 @@ Offered levels from the Indian subcontinent breakers further declined this past 
 | R. M. THORSTENSON | 2,054 | 3,567 | 1,980 | EQUITABLE SHIPYARDS, USA | FISHING | $ 576/Ldt | Indian |
 
 © Intermodal Research 22/11/2022 6
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 18-Nov-22 | 17-Nov-22 | 16-Nov-22 | 15-Nov-22 | 14-Nov-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.818 | 3.775 | 3.692 | 3.799 | 3.865 | 0.1% |
+| Stock Exchange Data | S&P 500 | 3,965.34 | 3,946.56 | 3,958.79 | 3,991.73 | 3,992.93 | -0.7% |
+| Stock Exchange Data | Nasdaq | 11,146.06 | 11,144.96 | 11,183.66 | 11,358.41 | 11,196.22 | -1.6% |
+| Stock Exchange Data | Dow Jones | 33,745.69 | 33,546.32 | 33,553.83 | 33,592.92 | 33,536.70 | 0.0% |
+| Stock Exchange Data | FTSE 100 | 7,385.52 | 7,346.54 | 7,351.19 | 7,369.44 | 7,385.17 | 0.9% |
+| Stock Exchange Data | FTSE All-Share UK | 4,056.59 | 4,033.92 | 4,035.87 | 4,055.88 | 4,067.93 | 0.5% |
+| Stock Exchange Data | CAC40 | 6,644.46 | 6,576.12 | 6,607.22 | 6,641.66 | 6,609.17 | 0.8% |
+| Stock Exchange Data | Xetra Dax | 14,431.86 | 14,266.38 | 14,234.03 | 14,378.51 | 14,313.30 | 0.8% |
+| Stock Exchange Data | Nikkei | 27,899.77 | 27,930.57 | 28,028.30 | 27,990.17 | 27,963.47 | -0.2% |
+| Stock Exchange Data | Hang Seng | 18,045.66 | 18,045.66 | 18,256.48 | 18,343.12 | 17,619.71 | 12.2% |
+| Stock Exchange Data | DJ US Maritime | 226.17 | 223.84 | 226.23 | 224.92 | 223.31 | 1.8% |
+| Currencies | € / $ | 1.03 | 1.04 | 1.04 | 1.04 | 1.03 | -0.3% |
+| Currencies | £ / $ | 1.19 | 1.19 | 1.19 | 1.19 | 1.18 | 0.7% |
+| Currencies | $ / ¥ | 140.35 | 140.37 | 139.31 | 138.87 | 140.13 | 1.1% |
+| Currencies | $ / NoK | 0.0981 | 0.0988 | 0.1000 | 0.1002 | 0.0996 | -2.5% |
+| Currencies | Yuan / $ | 7.12 | 7.16 | 7.09 | 7.04 | 7.07 | 0.2% |
+| Currencies | Won / $ | 1,340.01 | 1,343.10 | 1,336.83 | 1,316.60 | 1,324.46 | 2.0% |
+| Currencies | $ INDEX | 106.97 | 106.69 | 106.28 | 106.40 | 106.66 | 0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 18-Nov-22 | 11-Nov-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 18-Nov-22 | 11-Nov-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.80 | 15.15 | -2.3% |
+| COSTAMARE INC | NYSE | USD | 9.69 | 10.02 | -3.3% |
+| DANAOS CORPORATION | NYSE | USD | 55.54 | 61.75 | -10.1% |
+| DIANA SHIPPING | NYSE | USD | 4.30 | 4.45 | -3.4% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 49.43 | 55.49 | -10.9% |
+| EUROSEAS LTD. | NASDAQ | USD | 20.56 | 21.31 | -3.5% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.35 | 1.34 | 0.7% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.20 | 2.27 | -3.1% |
+| SAFE BULKERS INC | NYSE | USD | 2.94 | 3.00 | -2.0% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.49 | 0.48 | 2.1% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.53 | 21.00 | -7.0% |
+| STEALTHGAS INC | NASDAQ | USD | 3.11 | 3.23 | -3.7% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 19.43 | 17.99 | 8.0% |
+
+## Market News
+
+“QVT sells down at a discount as Okeanis share builds value
+
+New York investor QVT Family Office has sold a substantial piece of its Okeanis Eco Tankers shareholding after a steady increase in value at the VLCC and suezmax owner.
+
+The fund managed by Daniel Gold-led QVT Financial remains the second largest shareholder in Okeanis.
+
+In an announcement to the Oslo Stock Exchange late Wednesday, Okeanis reported that QVT had sold 415,000 shares or 1.26% of the company for some NOK 73.46m ($7.29m), reducing its holding to 6.39%. Alafouzos family interests have a majority stake in the public company they founded in 2018.
+
+Pareto Securities acted as manager for the offering.
+
+QVT sold at a discount to the market price. The Okeanis share touched NOK 200 at one point in trading on Wednesday and stood at NOK 181 at NOK 40 and NOK 100. The appreciation of the share in US dollar terms has been less, however, because of currency fluctuations...(TradeWinds)

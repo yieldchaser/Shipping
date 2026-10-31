@@ -236,3 +236,77 @@ In Turkey, the landscape remains largely unchanged from last week, with activity
 | AL KHAZNAH | 71,543 | 33,457 | 1994 | MITSUI, Japan | GAS TANKER | $615/Ldt | Indian | as is Malaysia |
 | RISING FALCON | 27,308 | 5,964 | 1995 | MITSUBISHI, Japan | BC | $450/Ldt | Pakistani | incl about 250-300 Tons ROB |
 | RISING EAGLE | 26,758 | 5,448 | 1995 | HAKODATE, Japan | BC | $450/Ldt | Pakistani | incl about 250-300 Tons ROB |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 25-Jul-25 | 24-Jul-25 | 23-Jul-25 | 22-Jul-25 | 21-Jul-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.386 | 4.408 | 4.388 | 4.336 | 4.370 | -1.0% |
+| Stock Exchange Data | S&P 500 | 6,388.64 | 6,363.35 | 6,358.91 | 6,309.62 | 6,305.60 | 1.5% |
+| Stock Exchange Data | Nasdaq | 23,272.25 | 23,219.87 | 23,162.41 | 23,063.58 | 23,180.06 | 0.9% |
+| Stock Exchange Data | Dow Jones | 44,901.92 | 44,693.91 | 45,010.29 | 44,502.44 | 44,323.07 | 1.3% |
+| Stock Exchange Data | FTSE 100 | 9,120.31 | 9,138.37 | 9,061.49 | 9,023.81 | 9,012.99 | 1.4% |
+| Stock Exchange Data | FTSE All-Share UK | 4,955.99 | 4,965.38 | 4,925.46 | 4,905.37 | 4,902.46 | 1.4% |
+| Stock Exchange Data | CAC40 | 7,834.58 | 7,818.28 | 7,850.43 | 7,744.41 | 7,798.22 | 0.2% |
+| Stock Exchange Data | Xetra Dax | 24,217.50 | 24,295.93 | 24,240.82 | 24,041.90 | 24,307.80 | -0.3% |
+| Stock Exchange Data | Nikkei | 41,456.23 | 41,826.34 | 41,171.32 | 39,774.92 | 39,790.50 | 4.1% |
+| Stock Exchange Data | Hang Seng | 25,388.35 | 25,667.18 | 25,538.07 | 25,130.03 | 24,994.14 | 2.3% |
+| Stock Exchange Data | DJ US Maritime | 388.91 | 380.74 | 384.12 | 377.46 | 380.22 | 2.3% |
+| Currencies | € / $ | 1.17 | 1.18 | 1.18 | 1.18 | 1.17 | 1.0% |
+| Currencies | £ / $ | 1.34 | 1.35 | 1.36 | 1.35 | 1.35 | 0.2% |
+| Currencies | $ / ¥ | 147.66 | 147.00 | 146.49 | 146.63 | 147.38 | -0.8% |
+| Currencies | $ / NoK | 10.15 | 10.12 | 10.10 | 10.07 | 10.15 | -0.1% |
+| Currencies | Yuan / $ | 7.17 | 7.15 | 7.16 | 7.17 | 7.18 | -0.1% |
+| Currencies | Won / $ | 1,383.30 | 1,372.61 | 1,374.59 | 1,380.62 | 1,382.58 | -0.5% |
+| Currencies | $ INDEX | 97.65 | 97.38 | 97.21 | 97.39 | 97.85 | -0.8% |
+
+## Bunker Prices
+
+| Grade | Port | 25-Jul-25 | 18-Jul-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 711.0 | 741.0 | -4.0% |
+| MGO | Houston | 696.0 | 715.0 | -2.7% |
+| MGO | Singapore | 684.0 | 693.0 | -1.3% |
+| 380cst | Rotterdam | 443.0 | 449.0 | -1.3% |
+| 380cst | Houston | 440.0 | 445.0 | -1.1% |
+| 380cst | Singapore | 423.0 | 415.0 | 1.9% |
+| VLSFO | Rotterdam | 487.0 | 507.0 | -3.9% |
+| VLSFO | Houston | 490.0 | 490.0 | 0.0% |
+| VLSFO | Singapore | 515.0 | 516.0 | -0.2% |
+
+## Oil Prices
+
+| Category | Indicator | 25-Jul-25 | 18-Jul-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 68.4 | 69.3 | -1.2% |
+| OIL | WTI | 65.2 | 67.3 | -3.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 25-Jul-25 | 18-Jul-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 22.93 | 23.93 | -4.2% |
+| COSTAMARE INC | NYSE | USD | 9.63 | 9.60 | 0.3% |
+| DANAOS CORPORATION | NYSE | USD | 92.24 | 89.89 | 2.6% |
+| DIANA SHIPPING | NYSE | USD | 1.63 | 1.60 | 1.9% |
+| EUROSEAS LTD. | NASDAQ | USD | 51.77 | 49.42 | 4.7% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.11 | 1.13 | -1.8% |
+| SAFE BULKERS INC | NYSE | USD | 4.24 | 4.12 | 2.9% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 7.14 | 6.80 | 5.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.80 | 18.56 | 1.3% |
+| STEALTHGAS INC | NASDAQ | USD | 6.72 | 6.52 | 3.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 19.40 | 19.05 | 1.8% |
+
+## Macro-economic headlines
+
+In the Eurozone, the ECB kept interest rates unchanged in July, at 2.15%, in line with market expectations. The overall trend remains downward, with the ECB having delivered eight rate cuts since April 2024.
+
+In Japan, the Core CPI YoY rose 2.9% in July, slightly below both market forecasts of 3.0% and June’s reading of 3.1%, indicating a marginal ease of inflation.
+
+In India, the Industrial Production increased by 1.5% YoY in June, falling short of the 2.0% forecast but improving from May’s 1.2% growth.
+
+In Germany, the Business Expectations Index remained unchanged at 90.7 in July, missing the market estimate of 91.1 and reflecting cautious sentiment among firms.

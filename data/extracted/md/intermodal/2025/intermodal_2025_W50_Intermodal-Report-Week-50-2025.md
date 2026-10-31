@@ -248,3 +248,77 @@ In Turkey, activity is slowing ahead of year-end. Despite recyclers' interest, f
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | SAGE SAGITTARIUS | 105,708 | 19,628 | 2001 | IMABARI, Japan | BC | $ 426/Ldt | Indian |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 12-Dec-25 | 11-Dec-25 | 10-Dec-25 | 9-Dec-25 | 8-Dec-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.196 | 4.141 | 4.164 | 4.186 | 4.172 | 1.4% |
+| Stock Exchange Data | S&P 500 | 6,827.41 | 6,901.00 | 6,886.68 | 6,840.51 | 6,846.51 | -0.6% |
+| Stock Exchange Data | Nasdaq | 25,196.73 | 25,686.69 | 25,776.44 | 25,668.69 | 25,627.95 | -1.9% |
+| Stock Exchange Data | Dow Jones | 48,458.05 | 48,704.01 | 48,057.75 | 47,560.29 | 47,739.32 | 1.0% |
+| Stock Exchange Data | FTSE 100 | 9,649.03 | 9,703.16 | 9,655.53 | 9,642.01 | 9,645.09 | -0.2% |
+| Stock Exchange Data | FTSE All-Share UK | 5,200.02 | 5,225.07 | 5,201.95 | 5,197.51 | 5,199.18 | -0.3% |
+| Stock Exchange Data | CAC40 | 8,068.62 | 8,085.76 | 8,022.69 | 8,052.51 | 8,108.43 | -0.6% |
+| Stock Exchange Data | Xetra Dax | 24,186.49 | 24,294.61 | 24,130.14 | 24,162.65 | 24,046.01 | 0.7% |
+| Stock Exchange Data | Nikkei | 50,836.55 | 50,148.82 | 50,602.80 | 50,655.10 | 50,581.94 | 0.7% |
+| Stock Exchange Data | Hang Seng | 25,976.79 | 25,530.51 | 25,540.78 | 25,434.23 | 25,765.36 | -0.4% |
+| Stock Exchange Data | DJ US Maritime | 364.39 | 367.94 | 369.25 | 367.09 | 367.91 | -1.7% |
+| Currencies | € / $ | 1.17 | 1.17 | 1.17 | 1.16 | 1.16 | 0.8% |
+| Currencies | £ / $ | 1.34 | 1.34 | 1.34 | 1.33 | 1.33 | 0.3% |
+| Currencies | $ / ¥ | 155.81 | 155.57 | 156.01 | 156.86 | 155.92 | 0.3% |
+| Currencies | $ / NoK | 10.12 | 10.06 | 10.07 | 10.14 | 10.12 | 0.5% |
+| Currencies | Yuan / $ | 7.05 | 7.06 | 7.06 | 7.06 | 7.07 | -0.2% |
+| Currencies | Won / $ | 1,474.78 | 1,471.17 | 1,468.94 | 1,469.55 | 1,469.52 | 0.1% |
+| Currencies | $ INDEX | 98.40 | 98.35 | 98.79 | 99.22 | 99.09 | -0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 12-Dec-25 | 5-Dec-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 600.0 | 636.0 | -5.7% |
+| MGO | Houston | 613.0 | 643.0 | -4.7% |
+| MGO | Singapore | 623.0 | 650.0 | -4.2% |
+| 380cst | Rotterdam | 345.0 | 370.0 | -6.8% |
+| 380cst | Houston | 323.0 | 356.0 | -9.3% |
+| 380cst | Singapore | 347.0 | 350.0 | -0.9% |
+| VLSFO | Rotterdam | 388.0 | 415.0 | -6.5% |
+| VLSFO | Houston | 404.0 | 420.0 | -3.8% |
+| VLSFO | Singapore | 430.0 | 435.0 | -1.1% |
+
+## Oil Prices
+
+| Category | Indicator | 12-Dec-25 | 5-Dec-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 61.1 | 63.8 | -4.1% |
+| OIL | WTI | 57.4 | 60.1 | -4.4% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 12-Dec-25 | 05-Dec-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 21.03 | 20.75 | 1.3% |
+| COSTAMARE INC | NYSE | USD | 15.61 | 16.13 | -3.2% |
+| DANAOS CORPORATION | NYSE | USD | 93.91 | 98.07 | -4.2% |
+| DIANA SHIPPING | NYSE | USD | 1.75 | 1.93 | -9.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 55.14 | 61.78 | -10.7% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.46 | 1.80 | -18.9% |
+| SAFE BULKERS INC | NYSE | USD | 4.91 | 5.31 | -7.5% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 9.82 | 10.52 | -6.7% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.27 | 20.45 | -10.7% |
+| STEALTHGAS INC | NASDAQ | USD | 7.18 | 7.03 | 2.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 23.47 | 24.74 | -5.1% |
+
+## Macro-economic headlines
+
+In United States, the trade deficit narrowed to $52.8bn in September, from $59.6bn in August and beating market expectations of $62.5bn gap. September’s figure marks the lowest since June 2020.
+
+In China the industrial production grew by 4.8% y-o-y in November, slightly below market forecasts and October’s pace, of 5% and 4.9% respectively.
+
+In Eurozone, industrial production increased 2% y-o-y in October, up from September’s 1.2%.
+
+In Germany the CPI declined by 0.2% m-o-m in November, in line with market estimations and reversing October’s 0.3% increase.

@@ -240,3 +240,77 @@ In Turkey, the ship recycling market continues to be at a standstill, affected b
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | BITUMEN PRINCESS | 5,416 | 2,680 | 1995 | DAE SUN, S. Korea | TANKER | undisclosed | Indian |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 27-Jun-25 | 26-Jun-25 | 25-Jun-25 | 24-Jun-25 | 23-Jun-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.283 | 4.253 | 4.293 | 4.293 | 4.322 | -2.1% |
+| Stock Exchange Data | S&P 500 | 6,173.07 | 6,141.02 | 6,092.16 | 6,092.18 | 6,025.17 | 3.4% |
+| Stock Exchange Data | Nasdaq | 22,534.20 | 22,447.29 | 22,237.74 | 22,190.52 | 21,856.33 | 4.2% |
+| Stock Exchange Data | Dow Jones | 43,819.27 | 43,386.84 | 42,982.43 | 43,089.02 | 42,581.78 | 3.8% |
+| Stock Exchange Data | FTSE 100 | 8,798.91 | 8,735.60 | 8,718.75 | 8,758.99 | 8,758.04 | 0.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,793.13 | 4,756.33 | 4,743.40 | 4,763.16 | 4,756.52 | 0.6% |
+| Stock Exchange Data | CAC40 | 7,691.55 | 7,557.31 | 7,558.16 | 7,615.99 | 7,537.57 | 1.3% |
+| Stock Exchange Data | Xetra Dax | 24,033.22 | 23,649.30 | 23,498.33 | 23,641.58 | 23,269.01 | 2.9% |
+| Stock Exchange Data | Nikkei | 40,150.79 | 39,584.58 | 38,942.07 | 38,790.56 | 38,354.09 | 4.6% |
+| Stock Exchange Data | Hang Seng | 24,284.15 | 24,325.40 | 24,474.67 | 24,177.07 | 23,689.13 | 3.2% |
+| Stock Exchange Data | DJ US Maritime | 377.46 | 376.54 | 368.66 | 372.60 | 374.44 | 2.5% |
+| Currencies | € / $ | 1.17 | 1.17 | 1.17 | 1.16 | 1.16 | 1.7% |
+| Currencies | £ / $ | 1.37 | 1.37 | 1.37 | 1.36 | 1.35 | 2.0% |
+| Currencies | $ / ¥ | 144.65 | 144.37 | 145.25 | 144.91 | 146.14 | -1.0% |
+| Currencies | $ / NoK | 10.05 | 10.07 | 10.12 | 10.11 | 10.07 | -0.2% |
+| Currencies | Yuan / $ | 7.17 | 7.17 | 7.18 | 7.17 | 7.18 | -0.1% |
+| Currencies | Won / $ | 1,364.33 | 1,357.57 | 1,359.03 | 1,358.64 | 1,370.68 | -0.6% |
+| Currencies | $ INDEX | 97.40 | 97.15 | 97.68 | 97.86 | 98.42 | -1.3% |
+
+## Bunker Prices
+
+| Grade | Port | 27-Jun-25 | 20-Jun-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 671.0 | 746.0 | -10.1% |
+| MGO | Houston | 670.0 | 738.0 | -9.2% |
+| MGO | Singapore | 657.0 | 723.0 | -9.1% |
+| 380cst | Rotterdam | 429.0 | 486.0 | -11.7% |
+| 380cst | Houston | 430.0 | 455.0 | -5.5% |
+| 380cst | Singapore | 431.0 | 484.0 | -11.0% |
+| VLSFO | Rotterdam | 486.0 | 522.0 | -6.9% |
+| VLSFO | Houston | 471.0 | 533.0 | -11.6% |
+| VLSFO | Singapore | 516.0 | 566.0 | -8.8% |
+
+## Oil Prices
+
+| Category | Indicator | 27-Jun-25 | 20-Jun-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 67.8 | 77.0 | -12.0% |
+| OIL | WTI | 65.5 | 74.9 | -12.6% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 27-Jun-25 | 20-Jun-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 23.00 | 24.14 | -4.7% |
+| COSTAMARE INC | NYSE | USD | 9.24 | 9.19 | 0.5% |
+| DANAOS CORPORATION | NYSE | USD | 87.48 | 87.30 | 0.2% |
+| DIANA SHIPPING | NYSE | USD | 1.51 | 1.57 | -3.8% |
+| EUROSEAS LTD. | NASDAQ | USD | 45.53 | 44.78 | 1.7% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.17 | 1.15 | 1.8% |
+| SAFE BULKERS INC | NYSE | USD | 3.69 | 3.74 | -1.3% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 6.56 | 6.57 | -0.2% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 17.12 | 16.47 | 3.9% |
+| STEALTHGAS INC | NASDAQ | USD | 6.56 | 6.59 | -0.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 19.77 | 20.72 | -4.6% |
+
+## Macro-economic headlines
+
+In the United States, Q1 2025 GDP contracted by 0.5% q-o-q, a sharper decline than the market expectation of 0.2% decline and reversing the 2.4% growth recorded in Q4 2024.
+
+In China, The Caixin Manufacturing PMI rose to 50.4 in June, beating market expectations of 49.2 and up from 48.3 in May, signaling a return to modest expansion.
+
+In India, the trade deficit narrowed to $59.50bn for Q1 2025, reflecting an improvement from the Q4 2024 deficit of $79.20bn reported in March.
+
+In UK, Q1 2025 GDP grew by 0.7%, matching market forecasts and improving from the 0.1% marginal growth seen in Q4 2024.

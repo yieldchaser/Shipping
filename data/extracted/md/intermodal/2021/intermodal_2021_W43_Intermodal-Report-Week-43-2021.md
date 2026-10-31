@@ -336,3 +336,84 @@ The recent scrap prices offered by the Indian-subcontinent buyers have improved 
 | OSTROV RUSSKIY | 7,000 | 2,197 | 1985 | FUKUOKA, Japan | TANKER | $ 658/Ldt | Bangladeshi |  |
 
 © Intermodal Research 02/11/2021 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 29-Oct-21 | 28-Oct-21 | 27-Oct-21 | 26-Oct-21 | 25-Oct-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.557 | 1.568 | 1.529 | 1.619 | 1.635 | -5.9% |
+| Stock Exchange Data | S&P 500 | 4,605.38 | 4,596.42 | 4,551.68 | 4,574.79 | 4,544.90 | 1.3% |
+| Stock Exchange Data | Nasdaq | 15,498.39 | 15,448.12 | 15,235.84 | 15,235.72 | 15,226.71 | 2.7% |
+| Stock Exchange Data | Dow Jones | 35,819.56 | 35,730.48 | 35,490.69 | 35,756.88 | 35,741.15 | 0.4% |
+| Stock Exchange Data | FTSE 100 | 7,237.57 | 7,249.47 | 7,253.27 | 7,277.62 | 7,222.82 | 0.5% |
+| Stock Exchange Data | FTSE All-Share UK | 4,129.16 | 4,137.54 | 4,138.68 | 4,149.81 | 4,117.93 | 0.5% |
+| Stock Exchange Data | CAC40 | 6,830.34 | 6,804.22 | 6,753.52 | 6,766.51 | 6,712.87 | 1.4% |
+| Stock Exchange Data | Xetra Dax | 15,688.77 | 15,696.33 | 15,705.81 | 15,757.06 | 15,599.23 | 0.6% |
+| Stock Exchange Data | Nikkei | 28,892.69 | 28,820.09 | 29,098.24 | 29,106.01 | 28,600.41 | 1.0% |
+| Stock Exchange Data | Hang Seng | 25,555.73 | 25,555.73 | 25,628.74 | 26,038.27 | 26,132.03 | -1.8% |
+| Stock Exchange Data | DJ US Maritime | 172.04 | 178.04 | 182.57 | 183.00 | 185.23 | -7.8% |
+| Currencies | € / $ | 1.16 | 1.17 | 1.16 | 1.16 | 1.16 | -0.8% |
+| Currencies | £ / $ | 1.37 | 1.38 | 1.37 | 1.38 | 1.38 | -0.7% |
+| Currencies | $ / ¥ | 113.94 | 113.59 | 113.76 | 114.18 | 113.78 | 0.3% |
+| Currencies | $ / NoK | 0.12 | 0.12 | 0.12 | 0.12 | 0.12 | -1.1% |
+| Currencies | Yuan / $ | 6.41 | 6.39 | 6.39 | 6.38 | 6.39 | 0.3% |
+| Currencies | Won / $ | 1,174.61 | 1,168.20 | 1,172.19 | 1,168.28 | 1,167.98 | -0.2% |
+| Currencies | $ INDEX | 94.12 | 93.35 | 93.80 | 93.95 | 93.81 | 0.5% |
+
+## Bunker Prices
+
+| Grade | Port | 29-Oct-21 | 22-Oct-21 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 702.5 | 706.0 | -0.5% |
+| MGO | Houston | 744.5 | 753.0 | -1.1% |
+| MGO | Singapore | 704.0 | 710.5 | -0.9% |
+| 380cst | Rotterdam | 465.5 | 476.5 | -2.3% |
+| 380cst | Houston | 480.5 | 486.5 | -1.2% |
+| 380cst | Singapore | 474.0 | 502.5 | -5.7% |
+| VLSFO | Rotterdam | 589.5 | 607.0 | -2.9% |
+| VLSFO | Houston | 623.5 | 612.0 | 1.9% |
+| VLSFO | Singapore | 617.0 | 625.0 | -1.3% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 29-Oct-21 | 22-Oct-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.50 | 14.15 | -4.6% |
+| COSTAMARE INC | NYSE | USD | 13.41 | 14.39 | -6.8% |
+| DANAOS CORPORATION | NYSE | USD | 74.60 | 73.42 | 1.6% |
+| DIANA SHIPPING | NYSE | USD | 5.01 | 5.25 | -4.6% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 43.05 | 45.71 | -5.8% |
+| EUROSEAS LTD. | NASDAQ | USD | 31.21 | 30.55 | 2.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 3.03 | 3.01 | 0.7% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 5.63 | 5.83 | -3.4% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 29.93 | 29.53 | 1.4% |
+| SAFE BULKERS INC | NYSE | USD | 4.46 | 4.67 | -4.5% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.11 | 1.16 | -4.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 20.69 | 21.58 | -4.1% |
+| STEALTHGAS INC | NASDAQ | USD | 2.51 | 2.52 | -0.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 9.25 | 9.24 | 0.1% |
+| TOP SHIPS INC | NASDAQ | USD | 1.33 | 1.44 | -7.6% |
+
+## Market News
+
+“Taylor Maritime starts dividend payments as fleet grows $79m in value
+
+London-listed Taylor Maritime Investments (TMI) has kickstarted dividend payments as rates and its fleet value continue to rise.
+
+The interim payout for the period from its initial public offering in May to 30 September is 1.75 cents per share.
+
+The bulker owner's net asset value at the end of the third quarter was $1.40 per share, an increase of about 24% since 30 June and 43% since the company listed. This compares to a trading price of $1.31.
+
+The fleet stands at 24 delivered vessels, with eight more to come. All are handysizes bar two supramaxes.
+
+The average net time charter rate was $17,000 per day at 30 September, with an average duration of eight months and average annualised unlevered returns in excess of 20%.
+
+The current rate is $19,500 per day.
+
+Big jump in vessel values
+
+The value of the first 25 ships acquired has risen by $68m or 19% since 30 June...”(TradeWinds)

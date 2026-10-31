@@ -351,3 +351,78 @@ The market continues to be in a good shape as numerous deals took place last wee
 | WAN HAI 162 | 17,697 | 5,235 | 1996 | SHIN KOCHI, Japan | CONTAINER | $ 510/Ldt | Indian |  |
 
 © Intermodal Research 24/01/2023 6
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 20-Jan-23 | 19-Jan-23 | 18-Jan-23 | 17-Jan-23 | 16-Jan-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.484 | 3.397 | 3.375 | 3.535 | 3.511 | -0.8% |
+| Stock Exchange Data | S&P 500 | 3,972.61 | 3,972.61 | 3,898.85 | 3,928.86 | 3,892.09 | 2.1% |
+| Stock Exchange Data | Nasdaq | 11,140.43 | 11,140.43 | 10,852.27 | 10,957.01 | 11,095.11 | 4.7% |
+| Stock Exchange Data | Dow Jones | 33,375.49 | 33,375.49 | 33,044.56 | 33,296.96 | 33,910.85 | -0.4% |
+| Stock Exchange Data | FTSE 100 | 7,770.59 | 7,747.29 | 7,830.70 | 7,851.03 | 7,860.07 | 0.6% |
+| Stock Exchange Data | FTSE All-Share UK | 4,250.10 | 4,234.86 | 4,283.23 | 4,294.53 | 4,302.91 | 0.7% |
+| Stock Exchange Data | CAC40 | 6,995.99 | 6,951.87 | 7,083.39 | 7,077.16 | 7,043.31 | 2.0% |
+| Stock Exchange Data | Xetra Dax | 15,033.56 | 14,920.36 | 15,181.80 | 15,187.07 | 15,134.04 | -0.7% |
+| Stock Exchange Data | Nikkei | 26,553.53 | 26,405.23 | 26,791.12 | 26,138.68 | 25,822.32 | 2.8% |
+| Stock Exchange Data | Hang Seng | 21,650.98 | 21,650.98 | 21,678.00 | 21,577.64 | 21,746.72 | 3.1% |
+| Stock Exchange Data | DJ US Maritime | 209.29 | 203.85 | 199.05 | 206.37 | 210.38 | -0.5% |
+| Currencies | € / $ | 1.09 | 1.08 | 1.08 | 1.08 | 1.08 | 0.3% |
+| Currencies | £ / $ | 1.24 | 1.24 | 1.23 | 1.23 | 1.22 | 1.3% |
+| Currencies | $ / ¥ | 129.56 | 128.39 | 128.58 | 128.28 | 128.32 | 1.3% |
+| Currencies | $ / NoK | 0.1024 | 0.1009 | 0.1008 | 0.1011 | 0.1009 | 0.7% |
+| Currencies | Yuan / $ | 6.78 | 6.78 | 6.75 | 6.77 | 6.73 | 1.2% |
+| Currencies | Won / $ | 1,231.03 | 1,232.56 | 1,238.26 | 1,237.35 | 1,241.71 | -0.5% |
+| Currencies | $ INDEX | 102.01 | 102.06 | 102.36 | 102.90 | 102.20 | -0.2% |
+
+## Bunker Prices
+
+| Grade | Port | 20-Jan-23 | 13-Jan-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 20-Jan-23 | 13-Jan-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.90 | 13.57 | 2.4% |
+| COSTAMARE INC | NYSE | USD | 10.04 | 9.55 | 5.1% |
+| DANAOS CORPORATION | NYSE | USD | 57.09 | 54.28 | 5.2% |
+| DIANA SHIPPING | NYSE | USD | 3.86 | 3.63 | 6.3% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 54.66 | 49.95 | 9.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 19.72 | 19.05 | 3.5% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.20 | 1.13 | 6.2% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.85 | 1.70 | 8.8% |
+| SAFE BULKERS INC | NYSE | USD | 3.19 | 2.90 | 10.0% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.62 | 0.53 | 17.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 22.45 | 19.90 | 12.8% |
+| STEALTHGAS INC | NASDAQ | USD | 2.86 | 2.58 | 10.9% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 18.20 | 15.84 | 14.9% |
+
+## Market News
+
+“SFL moves fast on raising $150m in sustainability-linked bonds
+
+SFL Corp has raised more than expected in a bond issue, just days after a series of meetings with investors.
+
+The John Fredriksen-backed sale-and-leaseback specialist announced on Wednesday that it placed a $150m sustainability-linked unsecured bond due in 2027, with the funds expected to refinance existing debt or general corporate purposes.
+
+The bond comes with a coupon of 8.875% and will be issued at a price of 99.58%.
+
+The New York- and Oslo-listed company intends to list the bonds on the Oslo Stock Exchange.
+
+The announcement follows a disclosure from last week that it had engaged with Norwegian investment banks Arctic Securities and DNB Markets to arrange a series of meetings with fixed-income investors beginning on 13 January.
+
+Then, SFL Corp suggested a four-year, unsecured, sustainability-linked dollar...(TradeWinds)

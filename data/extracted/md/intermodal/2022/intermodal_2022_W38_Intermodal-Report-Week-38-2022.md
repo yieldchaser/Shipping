@@ -324,3 +324,81 @@ With the exception of the Bangladeshi breakers whose offers noted a w-o-w improv
 | KRONSHTADTSKIY | 1,169 | 1,797 | 1990 | BALTIYA, Lithuania | FISHING | $ 675/Ldt | Bangladeshi |  |
 
 © Intermodal Research 27/09/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 23-Sep-22 | 22-Sep-22 | 21-Sep-22 | 20-Sep-22 | 19-Sep-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.697 | 3.708 | 3.510 | 0.357 | 3.490 | 7.2% |
+| Stock Exchange Data | S&P 500 | 3,693.23 | 3,757.99 | 3,789.93 | 3,855.93 | 3,873.33 | -4.6% |
+| Stock Exchange Data | Nasdaq | 10,867.93 | 11,066.81 | 11,220.19 | 11,425.05 | 11,535.02 | -5.1% |
+| Stock Exchange Data | Dow Jones | 29,590.41 | 30,076.68 | 30,183.78 | 30,706.23 | 31,019.68 | -4.0% |
+| Stock Exchange Data | FTSE 100 | 7,018.60 | 7,018.60 | 7,159.52 | 7,237.64 | 7,192.66 | -3.0% |
+| Stock Exchange Data | FTSE All-Share UK | 3,848.68 | 3,848.68 | 3,924.91 | 3,973.75 | 3,947.56 | -3.2% |
+| Stock Exchange Data | CAC40 | 5,783.41 | 5,918.50 | 6,031.33 | 5,979.47 | 6,061.59 | -4.8% |
+| Stock Exchange Data | Xetra Dax | 12,284.19 | 12,531.63 | 12,767.15 | 12,670.83 | 12,803.24 | -4.1% |
+| Stock Exchange Data | Nikkei | 27,153.83 | 27,153.83 | 27,153.83 | 27,313.13 | 27,688.42 | -1.9% |
+| Stock Exchange Data | Hang Seng | 18,147.95 | 18,147.95 | 18,444.62 | 18,781.42 | 18,565.97 | -3.3% |
+| Stock Exchange Data | DJ US Maritime | 195.08 | 204.73 | 215.43 | 217.27 | 220.68 | -10.1% |
+| Currencies | € / $ | 0.97 | 0.98 | 0.98 | 1.00 | 1.00 | -3.2% |
+| Currencies | £ / $ | 1.08 | 1.13 | 1.13 | 1.14 | 1.14 | -5.0% |
+| Currencies | $ / ¥ | 143.34 | 142.30 | 144.31 | 143.60 | 143.23 | 0.3% |
+| Currencies | $ / NoK | 0.10 | 0.10 | 0.10 | 0.10 | 0.10 | -2.9% |
+| Currencies | Yuan / $ | 7.13 | 7.08 | 7.05 | 7.02 | 7.01 | 2.1% |
+| Currencies | Won / $ | 1,422.99 | 1,404.66 | 1,397.76 | 1,392.85 | 1,390.45 | 2.6% |
+| Currencies | $ INDEX | 113.02 | 111.35 | 110.64 | 110.21 | 109.74 | 3.0% |
+
+## Bunker Prices
+
+| Grade | Port | 23-Sep-22 | 16-Sep-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,002.5 | 1,007.5 | -0.5% |
+| MGO | Houston | 987.0 | 1,000.0 | -1.3% |
+| MGO | Singapore | 925.5 | 891.0 | 3.9% |
+| 380cst | Rotterdam | 430.0 | 430.0 | 0.0% |
+| 380cst | Houston | 446.5 | 467.5 | -4.5% |
+| 380cst | Singapore | 486.0 | 410.5 | 18.4% |
+| VLSFO | Rotterdam | 653.5 | 672.0 | -2.8% |
+| VLSFO | Houston | 652.0 | 671.0 | -2.8% |
+| VLSFO | Singapore | 690.0 | 686.5 | 0.5% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 23-Sep-22 | 16-Sep-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.17 | 15.09 | -6.1% |
+| COSTAMARE INC | NYSE | USD | 9.45 | 10.33 | -8.5% |
+| DANAOS CORPORATION | NYSE | USD | 57.36 | 63.77 | -10.1% |
+| DIANA SHIPPING | NYSE | USD | 4.22 | 4.73 | -10.8% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 43.07 | 43.07 | 0.0% |
+| EUROSEAS LTD. | NASDAQ | USD | 19.85 | 21.48 | -7.6% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.31 | 1.53 | -14.4% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.04 | 2.22 | -8.1% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 24.47 | 26.01 | -5.9% |
+| SAFE BULKERS INC | NYSE | USD | 2.77 | 3.05 | -9.2% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.54 | 0.55 | -1.8% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.06 | 19.60 | -2.8% |
+| STEALTHGAS INC | NASDAQ | USD | 2.50 | 3.06 | -18.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 16.49 | 17.90 | -7.9% |
+
+## Market News
+
+“Hoegh family directors raise $20m secured against entire Autoliners shareholding
+
+Members of the Leif Hoegh family and a key executive have arranged new private financing by pledging their entire $352m stake in car carrier company Hoegh Autoliners.
+
+The Oslo-listed shipowner said in a filing that Leif Hoegh & Co Holdings, controlled by Hoegh Autoliners chairman Leif O Hoegh and directors Morten W Hoegh and Martine Vice Holter, has put 91.5m shares up as security.
+
+They have entered into a three-year financing facility worth $20m.
+
+Holter is also chief executive of Hoegh Capital Partners (HCP), the family investment office located in London and Oslo, and a director of Hoegh LNG.
+
+A spokesman for Hoegh Autoliners said the deal had no impact for the company.
+
+But he did not provide information as to what the money would be used for.
+
+The share slice represents...(TradeWinds)

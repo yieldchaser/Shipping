@@ -334,3 +334,79 @@ The sentiment was subdued across the Indian subcontinent demolition markets for 
 | ONSAN GAS | 3,009 | 2,095 | 1995 | WATANABE ZOSEN, Japan | GAS TANKER | undisclosed | Bangladeshi |  |
 
 © Intermodal Research 26/07/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 22-Jul-22 | 21-Jul-22 | 20-Jul-22 | 19-Jul-22 | 18-Jul-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 2.783 | 2.910 | 3.036 | 3.019 | 2.960 | -5.0% |
+| Stock Exchange Data | S&P 500 | 3,961.63 | 3,998.95 | 3,959.90 | 3,936.69 | 3,863.16 | 2.5% |
+| Stock Exchange Data | Nasdaq | 11,834.11 | 12,059.61 | 11,897.65 | 11,713.15 | 11,360.05 | 3.3% |
+| Stock Exchange Data | Dow Jones | 31,899.29 | 32,036.90 | 31,874.84 | 31,827.05 | 31,072.61 | 2.0% |
+| Stock Exchange Data | FTSE 100 | 7,276.37 | 7,270.51 | 7,264.31 | 7,296.28 | 7,223.24 | 1.6% |
+| Stock Exchange Data | FTSE All-Share UK | 4,028.28 | 4,021.50 | 4,009.11 | 4,018.64 | 3,976.51 | 2.2% |
+| Stock Exchange Data | CAC40 | 6,216.82 | 6,201.11 | 6,184.66 | 6,201.22 | 6,091.91 | 3.0% |
+| Stock Exchange Data | Xetra Dax | 13,253.68 | 13,246.64 | 13,281.98 | 13,308.41 | 12,959.81 | 2.3% |
+| Stock Exchange Data | Nikkei | 27,914.66 | 27,914.66 | 27,803.00 | 27,680.26 | 26,961.68 | 3.5% |
+| Stock Exchange Data | Hang Seng | 20,574.63 | 20,574.63 | 20,890.22 | 20,661.06 | 20,846.18 | -0.9% |
+| Stock Exchange Data | DJ US Maritime | 200.83 | 203.45 | 203.78 | 201.42 | 193.47 | 5.9% |
+| Currencies | € / $ | 1.02 | 1.02 | 1.02 | 1.02 | 1.01 | 1.2% |
+| Currencies | £ / $ | 1.20 | 1.20 | 1.20 | 1.20 | 1.19 | 1.2% |
+| Currencies | $ / ¥ | 136.27 | 137.13 | 138.40 | 138.19 | 138.23 | -1.6% |
+| Currencies | $ / NoK | 0.10 | 0.10 | 0.10 | 0.10 | 0.10 | 0.7% |
+| Currencies | Yuan / $ | 6.75 | 6.77 | 6.76 | 6.74 | 6.74 | -0.1% |
+| Currencies | Won / $ | 1,310.35 | 1,307.00 | 1,313.02 | 1,305.80 | 1,319.24 | -0.7% |
+| Currencies | $ INDEX | 106.54 | 106.61 | 107.07 | 106.68 | 107.44 | -1.3% |
+
+## Bunker Prices
+
+| Grade | Port | 22-Jul-22 | 15-Jul-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,089.5 | 1,131.0 | -3.7% |
+| MGO | Houston | 1,143.0 | 1,154.5 | -1.0% |
+| MGO | Singapore | 1,042.5 | 1,092.0 | -4.5% |
+| 380cst | Rotterdam | 481.0 | 451.5 | 6.5% |
+| 380cst | Houston | 583.0 | 564.0 | 3.4% |
+| 380cst | Singapore | 479.0 | 456.0 | 5.0% |
+| VLSFO | Rotterdam | 780.0 | 782.5 | -0.3% |
+| VLSFO | Houston | 836.0 | 803.0 | 4.1% |
+| VLSFO | Singapore | 924.5 | 997.0 | -7.3% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 22-Jul-22 | 15-Jul-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.38 | 13.52 | 6.4% |
+| COSTAMARE INC | NYSE | USD | 11.28 | 10.87 | 3.8% |
+| DANAOS CORPORATION | NYSE | USD | 66.12 | 61.00 | 8.4% |
+| DIANA SHIPPING | NYSE | USD | 4.90 | 4.58 | 7.0% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 51.12 | 47.21 | 8.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 22.81 | 21.52 | 6.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.60 | 1.62 | -1.2% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.17 | 2.18 | -0.5% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 23.02 | 21.61 | 6.5% |
+| SAFE BULKERS INC | NYSE | USD | 3.58 | 3.37 | 6.2% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.71 | 0.73 | -2.7% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 25.44 | 23.76 | 7.1% |
+| STEALTHGAS INC | NASDAQ | USD | 2.45 | 2.43 | 0.8% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 10.92 | 9.61 | 13.6% |
+
+## Market News
+
+“Star Bulk Carriers: big dividends coming even in a cooler dry market
+
+he dry bulk market may not be heading for a repeat of near-record rates seen during 2021, but its biggest player is equipped to pay outsized dividends even with more-moderate rates.
+
+Greece’s Star Bulk Carriers appears able to award $7 per share in dividends for each of 2023 and 2024, according to a client note from Deutsche Bank lead shipping analyst Amit Mehrotra.
+
+The payout would be slightly below the $2 Star Bulk was able to deliver in last year’s strong fourth quarter if extrapolated over a year, but a little better than the $1.65 paid for the seasonally weak first quarter on the same basis.
+
+Scrubber effect plays key role
+
+Deutsche Bank’s premise is that average time charter equivalent rates for Star’s fleet of 128 bulkers will remain “in the high $20,000 per day level” through 2024.
+
+Compared to an actual TCE figure of $27,405 per day in the first...(TradeWinds)

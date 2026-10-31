@@ -308,3 +308,78 @@ The demolition market remained subdued last week with a small number of scrappin
 | WIN SHUEN SHING | 3,742 | 2,197 | 1973 | SHIKOKU, Japan | REEFER | $ 390/Ldt | Bangladeshi | "as-is" Kaohsiung |
 
 © Intermodal Research 11/04/2023 6
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 7-Apr-23 | 6-Apr-23 | 5-Apr-23 | 4-Apr-23 | 3-Apr-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.288 | 3.288 | 3.287 | 3.337 | 3.430 | -5.9% |
+| Stock Exchange Data | S&P 500 | 4,105.02 | 4,105.02 | 4,090.38 | 4,100.60 | 3,990.97 | -0.1% |
+| Stock Exchange Data | Nasdaq | 12,087.96 | 12,087.96 | 11,996.86 | 12,126.33 | 12,189.45 | -1.1% |
+| Stock Exchange Data | Dow Jones | 33,485.29 | 33,485.29 | 33,482.72 | 33,402.38 | 33,601.15 | 0.6% |
+| Stock Exchange Data | FTSE 100 | 7,741.56 | 7,741.56 | 7,662.94 | 7,634.52 | 7,673.00 | 1.4% |
+| Stock Exchange Data | FTSE All-Share UK | 4,203.91 | 4,203.91 | 4,161.56 | 4,155.57 | 4,175.71 | 1.1% |
+| Stock Exchange Data | CAC40 | 7,324.75 | 7,324.75 | 7,316.30 | 7,344.96 | 7,345.96 | 0.0% |
+| Stock Exchange Data | Xetra Dax | 15,597.89 | 15,597.89 | 15,520.17 | 15,603.47 | 15,580.92 | 0.1% |
+| Stock Exchange Data | Nikkei | 27,518.31 | 27,472.63 | 27,813.26 | 28,287.42 | 28,188.15 | -2.4% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 20,331.20 | 20,331.20 | 20,274.59 | 20,409.18 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 222.29 | 222.29 | 225.41 | 222.85 | 231.65 | -2.8% |
+| Currencies | € / $ | 1.05 | 1.05 | 1.07 | 1.06 | 1.07 | -3.0% |
+| Currencies | £ / $ | 1.18 | 1.18 | 1.20 | 1.20 | 1.20 | -4.0% |
+| Currencies | $ / ¥ | 137.22 | 137.39 | 135.99 | 135.99 | 135.85 | 3.4% |
+| Currencies | $ / NoK | 0.0937 | 0.0935 | 0.0960 | 0.0960 | 0.0963 | -1.7% |
+| Currencies | Yuan / $ | 6.95 | 6.96 | 6.93 | 6.91 | 6.91 | 1.2% |
+| Currencies | Won / $ | 1,316.80 | 1,318.20 | 1,299.35 | 1,295.78 | 1,295.78 | 0.8% |
+| Currencies | $ INDEX | 102.09 | 101.82 | 101.85 | 101.59 | 102.09 | -0.5% |
+
+## Bunker Prices
+
+| Grade | Port | 7-Apr-23 | 31-Mar-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 07-Apr-23 | 31-Mar-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 12.94 | 13.42 | -3.6% |
+| COSTAMARE INC | NYSE | USD | 9.11 | 9.41 | -3.2% |
+| DANAOS CORPORATION | NYSE | USD | 54.32 | 54.62 | -0.5% |
+| DIANA SHIPPING | NYSE | USD | 3.81 | 3.90 | -2.3% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 42.93 | 45.50 | -5.6% |
+| EUROSEAS LTD. | NASDAQ | USD | 18.19 | 18.51 | -1.7% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.06 | 1.12 | -5.4% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.75 | 1.81 | -3.3% |
+| SAFE BULKERS INC | NYSE | USD | 3.60 | 3.69 | -2.4% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 4.46 | 5.06 | -11.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 20.66 | 21.12 | -2.2% |
+| STEALTHGAS INC | NASDAQ | USD | 2.65 | 2.61 | 1.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.76 | 19.43 | -8.6% |
+
+## Market News
+
+“Performance Shipping plots share buyback worth 21% of the company
+
+Greek tanker owner Performance Shipping is plotting a share repurchase drive equal to 21% of its market capitalisation.
+
+The Nasdaq-listed owner of nine aframax/LR2 tankers said it could spend up to $2m on the shares.
+
+TradeWinds has reported the company has come under fire from some investors for a series of dilutive stock issues that has expanded the fleet but tanked the share price.
+
+The stock was trading at $41 a year ago, but closed at $0.88 in New York on Tuesday, up 14.8% on the day.
+
+Chief executive Andreas Michalopoulos said rising interest rates, global economic uncertainty and the recent banking crisis have impacted capital markets and near-term sentiment.
+
+"Following the recent share price development, we find it in our shareholders’ interest that the company has the flexibility to repurchase...(TradeWinds)

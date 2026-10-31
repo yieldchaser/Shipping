@@ -343,3 +343,81 @@ As the steel market remains volatile so did the demolition prices have been so f
 | OCEAN 02 | 3,796 | 2,394 | 1990 | KLEVEN LOLAND, Norway | OFFSHORE | $ 615/Ldt | Bangladeshi |  |
 
 © Intermodal Research 23/08/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 19-Aug-22 | 18-Aug-22 | 17-Aug-22 | 16-Aug-22 | 15-Aug-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 2.989 | 2.880 | 2.893 | 2.824 | 2.791 | 4.9% |
+| Stock Exchange Data | S&P 500 | 4,228.48 | 4,283.74 | 4,274.04 | 4,305.20 | 4,145.19 | -1.2% |
+| Stock Exchange Data | Nasdaq | 12,705.22 | 12,965.34 | 12,938.12 | 13,102.55 | 13,128.05 | -2.6% |
+| Stock Exchange Data | Dow Jones | 33,706.74 | 33,999.04 | 33,980.32 | 34,152.01 | 33,912.44 | -0.2% |
+| Stock Exchange Data | FTSE 100 | 7,550.37 | 7,541.85 | 7,515.75 | 7,536.06 | 7,509.15 | 0.7% |
+| Stock Exchange Data | FTSE All-Share UK | 4,157.79 | 4,162.11 | 4,146.49 | 4,166.38 | 4,155.09 | 0.2% |
+| Stock Exchange Data | CAC40 | 6,495.83 | 6,557.40 | 6,528.32 | 6,592.58 | 6,569.95 | -0.9% |
+| Stock Exchange Data | Xetra Dax | 13,544.52 | 13,697.41 | 13,626.71 | 13,910.12 | 13,816.61 | -2.0% |
+| Stock Exchange Data | Nikkei | 28,930.33 | 28,942.14 | 29,222.77 | 28,868.91 | 28,871.78 | 0.2% |
+| Stock Exchange Data | Hang Seng | 19,763.91 | 19,763.91 | 19,922.45 | 19,830.52 | 20,040.86 | -1.6% |
+| Stock Exchange Data | DJ US Maritime | 223.74 | 228.14 | 222.00 | 220.98 | 218.98 | 0.5% |
+| Currencies | € / $ | 1.03 | 1.03 | 1.03 | 1.02 | 1.02 | 0.7% |
+| Currencies | £ / $ | 1.21 | 1.22 | 1.22 | 1.21 | 1.21 | 0.6% |
+| Currencies | $ / ¥ | 133.44 | 132.98 | 132.84 | 135.19 | 134.84 | -1.1% |
+| Currencies | $ / NoK | 0.10 | 0.10 | 0.11 | 0.10 | 0.10 | 2.6% |
+| Currencies | Yuan / $ | 6.74 | 6.74 | 6.72 | 6.75 | 6.75 | -0.3% |
+| Currencies | Won / $ | 1,302.38 | 1,307.60 | 1,296.90 | 1,307.86 | 1,299.76 | -0.1% |
+| Currencies | $ INDEX | 108.17 | 107.48 | 106.57 | 106.50 | 106.55 | 2.3% |
+
+## Bunker Prices
+
+| Grade | Port | 19-Aug-22 | 12-Aug-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,082.0 | 1,044.5 | 3.6% |
+| MGO | Houston | 1,054.5 | 1,045.5 | 0.9% |
+| MGO | Singapore | 1,043.0 | 1,017.0 | 2.6% |
+| 380cst | Rotterdam | 532.5 | 537.5 | -0.9% |
+| 380cst | Houston | 573.0 | 610.5 | -6.1% |
+| 380cst | Singapore | 521.5 | 535.5 | -2.6% |
+| VLSFO | Rotterdam | 733.0 | 754.5 | -2.8% |
+| VLSFO | Houston | 734.0 | 758.0 | -3.2% |
+| VLSFO | Singapore | 763.5 | 797.0 | -4.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 19-Aug-22 | 12-Aug-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.91 | 14.35 | 3.9% |
+| COSTAMARE INC | NYSE | USD | 11.56 | 11.96 | -3.3% |
+| DANAOS CORPORATION | NYSE | USD | 70.90 | 75.38 | -5.9% |
+| DIANA SHIPPING | NYSE | USD | 5.51 | 5.79 | -4.8% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 47.77 | 55.54 | -14.0% |
+| EUROSEAS LTD. | NASDAQ | USD | 24.08 | 25.25 | -4.6% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.77 | 1.71 | 3.5% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.24 | 2.38 | -5.9% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 27.44 | 30.33 | -9.5% |
+| SAFE BULKERS INC | NYSE | USD | 3.60 | 3.81 | -5.5% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.66 | 0.74 | -10.8% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 24.99 | 26.68 | -6.3% |
+| STEALTHGAS INC | NASDAQ | USD | 2.55 | 2.57 | -0.8% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 14.98 | 14.07 | 6.5% |
+
+## Market News
+
+“Eneti takes in $83m through sale of entire stakeholding in sister Scorpio Tankers
+
+Call it a little something for everyone in the Scorpio Group’s pair of public companies.
+
+For wind-power specialist Eneti, it has $83.3m more in cash on its balance sheet after selling its entire holding of 2.16m shares in sister company Scorpio Tankers, one of the world’s largest product carrier owners.
+
+A standard discount
+
+Meanwhile Scorpio Tankers has news for all the equity analysts and shareholders who’ve been looking for stock buybacks. It is the buyer of 1.3m of those shares, and it is quickly retiring them.
+
+The remaining 860,000 or so Scorpio shares in Eneti's cash have been sold into the open market at the same price of $38.65 per share.
+
+The price represents about a 5% discount to Scorpio’s closing price of $40.68 on Monday, which is a fairly standard number for an en bloc shares sale.
+
+Eneti’s shareholding in Scorpio Tankers dates back to October 2018...(TradeWinds)

@@ -258,3 +258,75 @@ The Turkish segment was consistent last week, though affected by continued lira 
 | USD/INR | 95.70 | 95.97 | -0.28% | 95.97 |
 | USD/PKR | 278.55 | 278.59 | -0.01% | 280.05 |
 | USD/TRY | 45.71 | 45.50 | 0.48% | 45.71 |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 22-May-26 | 21-May-26 | 20-May-26 | 19-May-26 | 18-May-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.572 | 4.584 | 4.570 | 4.669 | 4.623 | -0.5% |
+| Stock Exchange Data | S&P 500 | 7,473.47 | 7,445.72 | 7,432.97 | 7,353.61 | 7,403.05 | 0.9% |
+| Stock Exchange Data | Nasdaq | 29,481.64 | 29,357.27 | 29,297.70 | 28,818.84 | 28,994.37 | 1.2% |
+| Stock Exchange Data | Dow Jones | 50,579.70 | 50,285.66 | 50,009.35 | 49,363.88 | 49,686.12 | 2.1% |
+| Stock Exchange Data | FTSE 100 | 10,466.26 | 10,443.47 | 10,432.34 | 10,330.55 | 10,323.75 | 2.7% |
+| Stock Exchange Data | FTSE All-Share UK | 5,623.92 | 5,607.09 | 5,598.85 | 5,543.09 | 5,541.24 | 2.6% |
+| Stock Exchange Data | CAC40 | 8,115.75 | 8,086.00 | 8,117.42 | 7,981.76 | 7,987.49 | 2.1% |
+| Stock Exchange Data | Xetra Dax | 24,888.56 | 24,606.77 | 24,737.24 | 24,400.65 | 24,307.92 | 3.9% |
+| Stock Exchange Data | Nikkei | 63,339.07 | 61,684.14 | 59,804.41 | 60,550.59 | 60,815.95 | 3.1% |
+| Stock Exchange Data | Hang Seng | 25,606.03 | 25,386.52 | 25,651.12 | 25,797.85 | 25,675.18 | -1.4% |
+| Stock Exchange Data | DJ US Maritime | 470.52 | 478.00 | 488.08 | 481.28 | 481.38 | -1.6% |
+| Currencies | € / $ | 1.16 | 1.16 | 1.16 | 1.16 | 1.17 | -0.2% |
+| Currencies | £ / $ | 1.34 | 1.34 | 1.34 | 1.34 | 1.34 | 0.8% |
+| Currencies | $ / ¥ | 159.19 | 158.96 | 158.91 | 159.04 | 158.83 | 0.3% |
+| Currencies | $ / NoK | 9.26 | 9.23 | 9.26 | 9.27 | 9.25 | -0.5% |
+| Currencies | Yuan / $ | 6.79 | 6.80 | 6.80 | 6.81 | 6.80 | -0.2% |
+| Currencies | Won / $ | 1,520.10 | 1,503.70 | 1,497.47 | 1,507.28 | 1,489.17 | 1.5% |
+| Currencies | $ INDEX | 99.24 | 99.26 | 99.09 | 99.33 | 99.19 | 0.0% |
+
+## Bunker Prices
+
+| Grade | Port | 22-May-26 | 15-May-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,144.0 | 1,218.8 | -6.1% |
+| MGO | Houston | 1,155.3 | 1,211.3 | -4.6% |
+| MGO | Singapore | 1,182.3 | 1,222.3 | -3.3% |
+| 380cst | Rotterdam | 669.8 | 711.8 | -5.9% |
+| 380cst | Houston | 651.0 | 668.5 | -2.6% |
+| 380cst | Singapore | 658.3 | 705.0 | -6.6% |
+| VLSFO | Rotterdam | 736.0 | 777.3 | -5.3% |
+| VLSFO | Houston | 813.3 | 856.5 | -5.0% |
+| VLSFO | Singapore | 812.8 | 859.5 | -5.4% |
+
+## Oil Prices
+
+| Category | Indicator | 22-May-26 | 15-May-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 103.5 | 109.3 | -5.2% |
+| OIL | WTI | 96.6 | 105.4 | -8.4% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 22-May-26 | 15-May-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 22.31 | 20.94 | 6.5% |
+| COSTAMARE INC | NYSE | USD | 16.42 | 17.17 | -4.4% |
+| DANAOS CORPORATION | NYSE | USD | 130.85 | 130.18 | 0.5% |
+| DIANA SHIPPING | NYSE | USD | 2.60 | 2.67 | -2.6% |
+| EUROSEAS LTD. | NASDAQ | USD | 65.21 | 69.64 | -6.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.05 | 2.07 | -1.0% |
+| SAFE BULKERS INC | NYSE | USD | 6.57 | 7.04 | -6.7% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 15.12 | 15.86 | -4.7% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 26.40 | 26.47 | -0.3% |
+| STEALTHGAS INC | NASDAQ | USD | 9.92 | 10.07 | -1.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 42.61 | 42.55 | 0.1% |
+
+## Macro-economic headlines
+
+• In China, the PBoC held its benchmark lending rates steady in May for the twelfth consecutive month, in line with market expectations. The 1-year LPR remained at 3.0%, while the 5-year LPR, the benchmark for mortgage rates, stayed at 3.5%. • In the Eurozone, CPI rose by 3.0% y-o-y in April, the highest level since September 2023, matching market forecasts and up from 2.6% in March.
+
+In Germany, PPI increased by 1.7% y-o-y in April, slightly exceeding market expectations of 1.5% and reversing the 0.2% decline recorded in March.
+
+In the United States, CPI growth eased to 2.8% y-o-y in April, below market estimations of 3.0% and down from 3.3% in March.

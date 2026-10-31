@@ -280,3 +280,70 @@ Despite the weak fundamentals across all the main Indian-subcontinent destinatio
 | OTTAWA EXPRESS | 40,879 | 15,647 | 1998 | DAEWOO, S. Korea | CONTAINER | $ 385/Ldt each | Turkish |  |
 | MILAN EXPRESS | 33,659 | 14,161 | 1996 | SAMSUNG, S. Korea | CONTAINER |  | Turkish |  |
 | ELEKTRON II | 624 | undisclosed | 1969 | TRONDHJEMS MEKANISKE VERKSTED, Norway | RORO | undisclosed | undisclosed |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 26-May-23 | 25-May-23 | 24-May-23 | 23-May-23 | 22-May-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.810 | 3.814 | 3.719 | 3.698 | 3.719 | 3.2% |
+| Stock Exchange Data | S&P 500 | 4,205.45 | 4,151.28 | 4,115.24 | 4,145.58 | 3,990.97 | 0.3% |
+| Stock Exchange Data | Nasdaq | 12,975.69 | 12,698.09 | 12,484.16 | 12,560.25 | 12,720.78 | 2.5% |
+| Stock Exchange Data | Dow Jones | 33,093.34 | 32,764.65 | 32,799.92 | 33,055.51 | 33,286.58 | -1.0% |
+| Stock Exchange Data | FTSE 100 | 7,627.20 | 7,570.87 | 7,627.10 | 7,762.95 | 7,770.99 | -1.7% |
+| Stock Exchange Data | FTSE All-Share UK | 4,152.54 | 4,128.33 | 4,156.82 | 4,228.38 | 4,234.14 | -1.8% |
+| Stock Exchange Data | CAC40 | 7,319.18 | 7,229.27 | 7,253.46 | 7,378.71 | 7,478.16 | -2.3% |
+| Stock Exchange Data | Xetra Dax | 15,983.97 | 15,793.80 | 15,842.13 | 16,152.86 | 16,223.99 | -1.5% |
+| Stock Exchange Data | Nikkei | 30,916.31 | 30,801.13 | 30,682.68 | 30,957.77 | 31,086.82 | -0.5% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 18,746.92 | 19,115.93 | 19,431.25 | 19,678.17 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 240.58 | 238.97 | 237.72 | 240.77 | 241.56 | 2.1% |
+| Currencies | € / $ | 1.07 | 1.07 | 1.08 | 1.08 | 1.08 | -0.9% |
+| Currencies | £ / $ | 1.23 | 1.23 | 1.24 | 1.24 | 1.24 | -0.8% |
+| Currencies | $ / ¥ | 140.66 | 140.02 | 139.29 | 138.60 | 138.67 | 1.9% |
+| Currencies | $ / NoK | 0.0915 | 0.0904 | 0.0913 | 0.0912 | 0.0917 | -0.5% |
+| Currencies | Yuan / $ | 7.06 | 7.08 | 7.06 | 7.06 | 7.03 | 0.8% |
+| Currencies | Won / $ | 1,323.43 | 1,331.22 | 1,318.82 | 1,320.19 | 1,314.18 | -0.1% |
+| Currencies | $ INDEX | 104.21 | 104.25 | 103.89 | 103.49 | 103.20 | 1.0% |
+
+## Bunker Prices
+
+| Grade | Port | 26-May-23 | 19-May-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 26-May-23 | 19-May-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.00 | 13.38 | -2.8% |
+| COSTAMARE INC | NYSE | USD | 8.00 | 8.51 | -6.0% |
+| DANAOS CORPORATION | NYSE | USD | 58.20 | 61.67 | -5.6% |
+| DIANA SHIPPING | NYSE | USD | 3.78 | 3.71 | 1.9% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 40.60 | 42.63 | -4.8% |
+| EUROSEAS LTD. | NASDAQ | USD | 19.86 | 20.58 | -3.5% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 0.93 | 0.94 | -1.1% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.71 | 1.71 | 0.0% |
+| SAFE BULKERS INC | NYSE | USD | 3.34 | 3.57 | -6.4% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.08 | 4.88 | -77.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 17.80 | 18.90 | -5.8% |
+| STEALTHGAS INC | NASDAQ | USD | 3.05 | 2.86 | 6.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.64 | 17.78 | -0.8% |
+
+## Macro-economic headlines
+
+• A deal has been reached in the US for the raising of the debt ceiling. It now has to be ratified by House of Representatives and the Senate.
+
+• In the US, PMI data for May stood at 54.5, showing growth, with the Manufacturing PMI falling (48.5) and the Services PMI increasing (55.1).
+
+• In the Eurozone, PMI data for May revealed a contraction, falling from 54.1 in April to 53.3 in May. The German GDP for Q1 showed a contraction of -0.3% QoQ. • Japan’s Services PMI for May stood at 56.3, while the Manufacturing PMI for may stood at 50.8, showing an increase and improving sentiment.

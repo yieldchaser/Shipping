@@ -237,3 +237,73 @@ In Turkey, inflation rate improved in November, marking the sixth consecutive mo
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MEDELIN MASTER | 13,940 | 3,852 | 1992 | SHIN KURUSHIMA, Japan | TANKER | $ 655/Ldt | Indian | incl 273 Ts solid SUS 316L on board |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 6-Dec-24 | 5-Dec-24 | 4-Dec-24 | 3-Dec-24 | 2-Dec-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.153 | 4.182 | 4.182 | 4.221 | 4.194 | -1.0% |
+| Stock Exchange Data | S&P 500 | 6,090.27 | 6,075.11 | 6,086.49 | 6,049.88 | 6,047.15 | 1.0% |
+| Stock Exchange Data | Nasdaq | 21,622.25 | 21,425.22 | 21,492.36 | 21,229.32 | 21,164.60 | 3.3% |
+| Stock Exchange Data | Dow Jones | 44,642.52 | 44,765.71 | 45,014.04 | 44,705.53 | 44,782.00 | -0.6% |
+| Stock Exchange Data | FTSE 100 | 8,308.61 | 8,349.38 | 8,335.81 | 8,359.41 | 8,312.89 | 0.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,543.98 | 4,561.21 | 4,554.94 | 4,562.54 | 4,536.91 | 0.4% |
+| Stock Exchange Data | CAC40 | 7,426.88 | 7,330.54 | 7,303.28 | 7,255.42 | 7,236.89 | 2.7% |
+| Stock Exchange Data | Xetra Dax | 20,384.61 | 20,358.80 | 20,232.14 | 20,016.75 | 19,933.62 | 3.9% |
+| Stock Exchange Data | Nikkei | 39,091.17 | 39,395.60 | 39,276.39 | 39,248.86 | 38,513.02 | 2.3% |
+| Stock Exchange Data | Hang Seng | 19,865.85 | 19,560.44 | 19,742.46 | 19,746.32 | 19,550.29 | 2.3% |
+| Stock Exchange Data | DJ US Maritime | 390.65 | 394.30 | 397.25 | 405.00 | 409.96 | -5.9% |
+| Currencies | € / $ | 1.06 | 1.06 | 1.05 | 1.05 | 1.05 | -0.1% |
+| Currencies | £ / $ | 1.27 | 1.28 | 1.27 | 1.27 | 1.27 | 0.0% |
+| Currencies | $ / ¥ | 150.03 | 150.08 | 150.60 | 149.59 | 149.59 | 0.2% |
+| Currencies | $ / NoK | 11.15 | 11.03 | 11.05 | 11.05 | 11.09 | 1.2% |
+| Currencies | Yuan / $ | 7.27 | 7.26 | 7.26 | 7.29 | 7.27 | 0.4% |
+| Currencies | Won / $ | 1,424.14 | 1,413.28 | 1,411.13 | 1,414.47 | 1,403.96 | 2.1% |
+| Currencies | $ INDEX | 106.06 | 105.71 | 106.32 | 106.37 | 106.45 | 0.3% |
+
+## Bunker Prices
+
+| Grade | Port | 6-Dec-24 | 29-Nov-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 627.0 | 648.0 | -3.2% |
+| MGO | Houston | 633.0 | 673.0 | -5.9% |
+| MGO | Singapore | 646.0 | 659.0 | -2.0% |
+| 380cst | Rotterdam | 434.0 | 460.0 | -5.7% |
+| 380cst | Houston | 442.0 | 453.0 | -2.4% |
+| 380cst | Singapore | 448.0 | 469.0 | -4.5% |
+| VLSFO | Rotterdam | 496.0 | 501.0 | -1.0% |
+| VLSFO | Houston | 529.0 | 541.0 | -2.2% |
+| VLSFO | Singapore | 540.0 | 545.0 | -0.9% |
+
+## Oil Prices
+
+| Category | Indicator | 6-Dec-24 | 29-Nov-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 71.1 | 72.9 | -2.5% |
+| OIL | WTI | 67.2 | 68.0 | -1.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 06-Dec-24 | 29-Nov-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.18 | 18.30 | -0.7% |
+| COSTAMARE INC | NYSE | USD | 13.21 | 13.20 | 0.1% |
+| DANAOS CORPORATION | NYSE | USD | 81.37 | 79.38 | 2.5% |
+| DIANA SHIPPING | NYSE | USD | 1.86 | 1.78 | 4.5% |
+| EUROSEAS LTD. | NASDAQ | USD | 39.11 | 38.10 | 2.7% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.35 | 1.60 | -15.6% |
+| SAFE BULKERS INC | NYSE | USD | 3.84 | 3.87 | -0.8% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 7.38 | 8.08 | -8.7% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 15.98 | 17.32 | -7.7% |
+| STEALTHGAS INC | NASDAQ | USD | 5.14 | 5.43 | -5.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 18.24 | 18.17 | 0.4% |
+
+## Macro-economic headlines
+
+In China, November’s CPI declined for the second consecutive month by 0.6%, worse than the expected 0.4% shortfall and 0.3% contraction in October. This marks the largest reduction since 2020. Moreover, PPI retreated by 2.5% in November, slightly better than the market forecast of a 2.8% decrease. November’s PPI performance is improved compared to September and October (down by 2.8% and 2.9% respectively).
+
+In US, Manufacturing PMI was revised upward for November from 48.8 to 49.7, surpassing market expectations. This marks the highest figure since June, reflecting stronger sector confidence and optimism for economic growth in the coming year. Furthermore, October’s Trade Balance data revealed a narrowing of the trade gap, from the previous month's $84.4 billion to $73.8 billion, exceeding the market forecast of a $75.7 billion shortfall. Notably, exports of transport equipment, telecommunications, computers, and IT goods increased, while imports of computers, semiconductors, automobiles, crude oil, and engines decreased.

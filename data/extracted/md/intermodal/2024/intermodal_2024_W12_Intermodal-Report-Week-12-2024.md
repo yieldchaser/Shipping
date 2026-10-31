@@ -237,3 +237,78 @@ The global ship demolition industry is navigating turbulent waters as it faces a
 | USD/INR | 83.58 | 82.88 | 0.8% | 83.58 |
 | USD/PKR | 277.90 | 278.60 | -0.3% | 282.38 |
 | USD/TRY | 32.01 | 32.11 | -0.3% | 32.11 |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 22-Mar-24 | 21-Mar-24 | 20-Mar-24 | 19-Mar-24 | 18-Mar-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.218 | 4.271 | 4.271 | 4.296 | 4.340 | -2.0% |
+| Stock Exchange Data | S&P 500 | 5,234.18 | 5,241.53 | 5,224.62 | 5,178.51 | 5,149.42 | 2.3% |
+| Stock Exchange Data | Nasdaq | 18,339.44 | 18,320.38 | 18,240.11 | 18,032.21 | 17,985.01 | 3.0% |
+| Stock Exchange Data | Dow Jones | 39,475.64 | 39,781.50 | 39,512.13 | 39,110.21 | 38,790.43 | 2.0% |
+| Stock Exchange Data | FTSE 100 | 7,930.92 | 7,882.55 | 7,737.38 | 7,738.30 | 7,722.55 | 2.6% |
+| Stock Exchange Data | FTSE All-Share UK | 4,322.51 | 4,300.46 | 4,225.49 | 4,224.36 | 4,218.89 | 2.4% |
+| Stock Exchange Data | CAC40 | 8,151.92 | 8,179.72 | 8,161.41 | 8,201.05 | 8,148.14 | -0.2% |
+| Stock Exchange Data | Xetra Dax | 18,205.94 | 18,179.25 | 18,015.13 | 17,987.49 | 17,932.68 | 1.5% |
+| Stock Exchange Data | Nikkei | 40,888.43 | 40,815.66 | 40,003.60 | 40,003.60 | 39,740.44 | 5.6% |
+| Stock Exchange Data | Hang Seng | 16,499.47 | 16,863.10 | 37,703.32 | 16,529.48 | 16,737.12 | -1.3% |
+| Stock Exchange Data | DJ US Maritime | 304.91 | 299.79 | 298.84 | 295.56 | 291.19 | 5.1% |
+| Currencies | € / $ | 1.08 | 1.09 | 1.09 | 1.09 | 1.09 | -0.8% |
+| Currencies | £ / $ | 1.26 | 1.27 | 1.28 | 1.27 | 1.27 | -1.1% |
+| Currencies | $ / ¥ | 151.42 | 151.61 | 151.25 | 150.85 | 149.14 | 1.6% |
+| Currencies | $ / NoK | 10.74 | 10.66 | 10.55 | 10.65 | 10.65 | 1.2% |
+| Currencies | Yuan / $ | 7.23 | 7.20 | 7.20 | 7.20 | 7.20 | 0.5% |
+| Currencies | Won / $ | 1,343.43 | 1,334.07 | 1,329.18 | 1,337.24 | 1,336.21 | 1.0% |
+| Currencies | $ INDEX | 104.00 | 103.41 | 103.84 | 103.59 | 103.43 | 0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 22-Mar-24 | 15-Mar-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 777.0 | 771.0 | 0.8% |
+| MGO | Houston | 492.0 | 478.0 | 2.9% |
+| MGO | Singapore | 780.0 | 782.0 | -0.3% |
+| 380cst | Rotterdam | 478.0 | 471.0 | 1.5% |
+| 380cst | Houston | 492.0 | 478.0 | 2.9% |
+| 380cst | Singapore | 486.0 | 483.0 | 0.6% |
+| VLSFO | Rotterdam | 591.0 | 590.0 | 0.2% |
+| VLSFO | Houston | 641.0 | 633.0 | 1.3% |
+| VLSFO | Singapore | 639.0 | 639.0 | 0.0% |
+
+## Oil Prices
+
+| Category | Indicator | 22-Mar-24 | 15-Mar-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 85.4 | 85.3 | 0.1% |
+| OIL | WTI | 80.6 | 81.0 | -0.5% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 22-Mar-24 | 15-Mar-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 17.71 | 17.84 | -0.7% |
+| COSTAMARE INC | NYSE | USD | 11.16 | 11.17 | -0.1% |
+| DANAOS CORPORATION | NYSE | USD | 71.55 | 70.13 | 2.0% |
+| DIANA SHIPPING | NYSE | USD | 2.94 | 2.99 | -1.7% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 64.54 | 61.42 | 5.1% |
+| EUROSEAS LTD. | NASDAQ | USD | 34.82 | 34.57 | 0.7% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.19 | 2.23 | -1.8% |
+| SAFE BULKERS INC | NYSE | USD | 5.12 | 4.96 | 3.2% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 9.33 | 8.66 | 7.7% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 24.67 | 23.64 | 4.4% |
+| STEALTHGAS INC | NASDAQ | USD | 5.85 | 6.09 | -3.9% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 25.73 | 24.27 | 6.0% |
+
+## Macro-economic headlines
+
+• In the euro area, the bloc’s CPI was at 2.6% on an annual basis in February. The HCOB Eurozone Services PMI for March was 51.1, up from 50.2 in February.
+
+• In US, the Fed kept interest rates unchanged at 5.5% and are on track to lower it 3 times in 2024. The S&P Global Composite PMI for March stood at 52.2, slightly lower than previous month at 52.5.
+
+• In UK, CPI for February was at 3.4%, on an annual basis, while the S&P Global/CIPS UK Composite PMI stood at 52.9 for March.
+
+• In China, Industrial Production was up by 7% on the year in February, while the unemployment rate rose slightly to 5.3%.

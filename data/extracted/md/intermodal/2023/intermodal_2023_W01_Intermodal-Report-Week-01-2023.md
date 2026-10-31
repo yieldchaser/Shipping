@@ -320,3 +320,72 @@ The new year kicked off with positive sentiment as we mentioned in our last repo
 | SEA EAGLE | 4,281 | 1,300 | 1984 | SIETAS KG, Germany | GENERAL CARGO | undisclosed | Turkish |  |
 
 © Intermodal Research 10/01/2023 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 6-Jan-23 | 5-Jan-23 | 4-Jan-23 | 3-Jan-23 | 2-Jan-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.569 | 3.720 | 3.709 | 3.793 | 3.879 | -8.0% |
+| Stock Exchange Data | S&P 500 | 3,895.08 | 3,808.10 | 3,852.97 | 3,824.14 | 3,824.14 | 1.9% |
+| Stock Exchange Data | Nasdaq | 10,569.29 | 10,305.24 | 10,458.76 | 10,386.99 | 10,386.99 | 1.8% |
+| Stock Exchange Data | Dow Jones | 33,630.61 | 32,930.08 | 33,269.77 | 33,136.37 | 33,136.37 | 1.5% |
+| Stock Exchange Data | FTSE 100 | 7,699.49 | 7,633.45 | 7,585.19 | 7,554.09 | 7,585.19 | 1.5% |
+| Stock Exchange Data | FTSE All-Share UK | 4,210.58 | 4,178.67 | 4,154.17 | 4,131.41 | 4,154.17 | 1.4% |
+| Stock Exchange Data | CAC40 | 6,860.95 | 6,761.50 | 6,776.43 | 6,623.89 | 6,594.57 | 4.0% |
+| Stock Exchange Data | Xetra Dax | 14,610.02 | 14,436.31 | 14,490.78 | 14,181.67 | 14,069.26 | 3.8% |
+| Stock Exchange Data | Nikkei | 25,973.85 | 25,820.80 | 25,716.86 | 26,094.50 | 26,094.50 | -0.5% |
+| Stock Exchange Data | Hang Seng | 20,991.64 | 21,052.17 | 20,793.11 | 20,145.29 | 20,145.29 | 4.2% |
+| Stock Exchange Data | DJ US Maritime | 209.79 | 203.02 | 207.46 | 207.98 | 210.87 | -0.5% |
+| Currencies | € / $ | 1.07 | 1.05 | 1.06 | 1.05 | 1.07 | -0.6% |
+| Currencies | £ / $ | 1.21 | 1.19 | 1.21 | 1.20 | 1.21 | -0.1% |
+| Currencies | $ / ¥ | 132.09 | 133.34 | 132.20 | 131.25 | 130.82 | 0.7% |
+| Currencies | $ / NoK | 0.1002 | 0.0975 | 0.0991 | 0.0991 | 0.1015 | -1.9% |
+| Currencies | Yuan / $ | 6.84 | 6.88 | 6.89 | 6.92 | 6.90 | -0.9% |
+| Currencies | Won / $ | 1,253.88 | 1,274.51 | 1,271.41 | 1,279.41 | 1,270.11 | -0.6% |
+| Currencies | $ INDEX | 103.88 | 105.04 | 104.25 | 104.52 | 103.49 | 0.3% |
+
+## Bunker Prices
+
+| Grade | Port | 6-Jan-23 | 30-Dec-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 06-Jan-23 | 30-Dec-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.55 | 13.65 | -0.7% |
+| COSTAMARE INC | NYSE | USD | 9.43 | 9.28 | 1.6% |
+| DANAOS CORPORATION | NYSE | USD | 54.60 | 52.66 | 3.7% |
+| DIANA SHIPPING | NYSE | USD | 3.80 | 3.90 | -2.6% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 49.99 | 49.94 | 0.1% |
+| EUROSEAS LTD. | NASDAQ | USD | 18.64 | 18.45 | 1.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.13 | 1.05 | 7.6% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.71 | 1.75 | -2.3% |
+| SAFE BULKERS INC | NYSE | USD | 2.97 | 2.91 | 2.1% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.54 | 0.50 | 8.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.60 | 19.23 | 1.9% |
+| STEALTHGAS INC | NASDAQ | USD | 2.59 | 2.68 | -3.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 15.71 | 16.93 | -7.2% |
+
+## Market News
+
+“Eagle Bulk has landed at the corner of Wall Street and Broad
+
+Major dry-trade owner Eagle Bulk Shipping has finished a short flight from the Nasdaq in New York’s Times Square to its new home on the New York Stock Exchange.
+
+Executives of Eagle were expected to ring a bell on the floor of the NYSE to mark the opening of the trading day on Wednesday. This is different from the ceremonial “opening bell” ritual staged on the exchange’s balcony, which may yet be in the owner’s future.
+
+The significance of the move is seen as largely symbolic, reflecting both Eagle's vintage as a public company and its growth as a shipowner.Eagle took wing in 2005 during an unprecedented wave of shipping IPOs — largely within the dry bulk sector — seen as an investor proxy play on the growing Chinese economy.The outfit originally was led by chief executive Sophocles Zoullas and chief financial officer Alan Ginsberg, with...(TradeWinds)

@@ -331,3 +331,78 @@ The much-awaited freight rates rebound after the Chinese New Year break has yet 
 | TRAMOLA-1 | 2,860 | 2,500 | 1973 | LA ROCHELLE-PALLICE, France | RO-RO/PASSENGER | undisclosed | Turkish |  |
 
 © Intermodal Research 08/02/2023 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 3-Feb-23 | 2-Feb-23 | 1-Feb-23 | 31-Jan-23 | 30-Jan-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.532 | 3.396 | 3.397 | 3.529 | 3.551 | 0.4% |
+| Stock Exchange Data | S&P 500 | 4,136.48 | 4,179.76 | 4,119.21 | 4,076.60 | 3,990.97 | 1.6% |
+| Stock Exchange Data | Nasdaq | 12,006.96 | 12,200.82 | 11,816.32 | 11,584.55 | 11,393.81 | 3.3% |
+| Stock Exchange Data | Dow Jones | 33,926.01 | 34,053.94 | 34,092.96 | 34,086.04 | 33,717.09 | -0.2% |
+| Stock Exchange Data | FTSE 100 | 7,901.80 | 7,820.16 | 7,761.11 | 7,771.70 | 7,784.87 | 1.8% |
+| Stock Exchange Data | FTSE All-Share UK | 4,339.71 | 4,302.89 | 4,252.85 | 4,255.72 | 4,265.16 | 1.9% |
+| Stock Exchange Data | CAC40 | 7,233.94 | 7,166.27 | 7,077.11 | 7,082.42 | 7,082.01 | 1.9% |
+| Stock Exchange Data | Xetra Dax | 15,476.43 | 15,509.19 | 15,180.74 | 15,128.27 | 15,126.08 | 2.3% |
+| Stock Exchange Data | Nikkei | 27,509.46 | 27,402.05 | 27,346.88 | 27,327.11 | 27,433.40 | 0.3% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 21,958.36 | 22,072.18 | 21,842.33 | 22,069.73 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 242.81 | 240.18 | 236.77 | 232.34 | 213.00 | 13.6% |
+| Currencies | € / $ | 1.08 | 1.09 | 1.10 | 1.09 | 1.09 | -0.4% |
+| Currencies | £ / $ | 1.20 | 1.22 | 1.24 | 1.23 | 1.23 | -2.7% |
+| Currencies | $ / ¥ | 131.20 | 128.76 | 128.65 | 130.12 | 130.52 | 1.0% |
+| Currencies | $ / NoK | 0.0985 | 0.0995 | 0.1011 | 0.1002 | 0.1002 | -2.6% |
+| Currencies | Yuan / $ | 6.78 | 6.73 | 6.74 | 6.75 | 6.75 | -0.1% |
+| Currencies | Won / $ | 1,247.85 | 1,225.25 | 1,222.28 | 1,232.55 | 1,231.85 | 1.4% |
+| Currencies | $ INDEX | 102.92 | 101.75 | 101.22 | 102.10 | 102.28 | 1.0% |
+
+## Bunker Prices
+
+| Grade | Port | 3-Feb-23 | 27-Jan-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 03-Feb-23 | 27-Jan-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.91 | 14.49 | -4.0% |
+| COSTAMARE INC | NYSE | USD | 10.32 | 10.26 | 0.6% |
+| DANAOS CORPORATION | NYSE | USD | 60.00 | 59.34 | 1.1% |
+| DIANA SHIPPING | NYSE | USD | 4.17 | 3.80 | 9.7% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 56.27 | 54.91 | 2.5% |
+| EUROSEAS LTD. | NASDAQ | USD | 19.98 | 19.99 | -0.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.16 | 1.16 | 0.0% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.10 | 1.89 | 11.1% |
+| SAFE BULKERS INC | NYSE | USD | 3.32 | 3.23 | 2.8% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.58 | 0.57 | 1.8% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 22.18 | 23.39 | -5.2% |
+| STEALTHGAS INC | NASDAQ | USD | 2.71 | 2.75 | -1.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.56 | 17.00 | 3.3% |
+
+## Market News
+
+“DOF shareholders wiped out in bankruptcy as lenders take over $1bn fleet
+
+Shipping tycoon Helge Mogster and other DOF shareholders will lose everything after banks moved in and began bankruptcy proceedings.
+
+The new board of the Oslo-listed offshore vessel shipping giant admitted defeat on Wednesday night after a last-ditch $2.25bn debt-for-equity financial restructuring plan was scuppered by a lack of support from rebel investors.
+
+Shipping operations have been spun off into a new holding company, DOF Services, which will continue business as usual under the ownership of lenders.
+
+This company will now seek a separate Oslo listing.
+
+Trading in DOF’s shares was suspended on Wednesday after a fall of 11%.
+
+The stock is languishing at NOK 0.67 ($0.06) now, with a market cap of NOK 214m. This compares to a share price of NOK 9.20 even in the tough markets of 2018...(TradeWinds)

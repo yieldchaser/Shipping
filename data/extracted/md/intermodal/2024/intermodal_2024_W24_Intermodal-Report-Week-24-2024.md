@@ -265,3 +265,75 @@ Strong asset values, strong earnings and an optimistic short-term outlook for th
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | MSC TIA II |  | 10,421 | 1999 | GDYNIA STOCZNIA, Poland | CONTAINER | $ 570/Ldt | Indian |
 | WAN TONG |  | 5,111 | 1990 | KANASASHI, Japan | REEFER | $ 425/Ldt | undisclosed |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 14-Jun-24 | 13-Jun-24 | 12-Jun-24 | 11-Jun-24 | 10-Jun-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.213 | 4.240 | 4.295 | 4.402 | 4.469 | -4.9% |
+| Stock Exchange Data | S&P 500 | 5,431.60 | 5,433.74 | 5,421.03 | 5,375.32 | 5,360.79 | 1.6% |
+| Stock Exchange Data | Nasdaq | 19,659.80 | 19,576.92 | 19,465.18 | 19,210.19 | 19,074.68 | 3.5% |
+| Stock Exchange Data | Dow Jones | 38,589.16 | 38,647.10 | 38,712.21 | 38,747.42 | 38,868.04 | -0.5% |
+| Stock Exchange Data | FTSE 100 | 8,146.86 | 8,163.67 | 8,215.48 | 8,147.81 | 8,228.48 | -1.2% |
+| Stock Exchange Data | FTSE All-Share UK | 4,438.37 | 4,448.69 | 4,482.40 | 4,444.07 | 4,487.00 | -1.3% |
+| Stock Exchange Data | CAC40 | 7,503.27 | 7,708.02 | 7,864.70 | 7,789.21 | 7,893.98 | -6.2% |
+| Stock Exchange Data | Xetra Dax | 18,002.02 | 18,265.68 | 18,630.86 | 18,369.94 | 18,494.89 | -3.0% |
+| Stock Exchange Data | Nikkei | 38,814.56 | 38,720.47 | 38,876.71 | 39,134.79 | 39,038.16 | 0.3% |
+| Stock Exchange Data | Hang Seng | 17,941.78 | 18,112.63 | 17,937.84 | 18,176.34 | 18,366.95 | -2.3% |
+| Stock Exchange Data | DJ US Maritime | 381.13 | 393.12 | 393.02 | 386.52 | 392.56 | -2.1% |
+| Currencies | € / $ | 1.07 | 1.07 | 1.08 | 1.07 | 1.08 | -0.9% |
+| Currencies | £ / $ | 1.27 | 1.28 | 1.28 | 1.27 | 1.27 | -0.3% |
+| Currencies | $ / ¥ | 157.37 | 157.02 | 156.71 | 157.07 | 157.02 | 0.4% |
+| Currencies | $ / NoK | 10.66 | 10.66 | 10.57 | 10.69 | 10.64 | -0.4% |
+| Currencies | Yuan / $ | 7.26 | 7.25 | 7.24 | 7.25 | 7.25 | 0.1% |
+| Currencies | Won / $ | 1,381.84 | 1,375.35 | 1,369.84 | 1,377.50 | 1,373.60 | 0.2% |
+| Currencies | $ INDEX | 105.55 | 105.20 | 104.65 | 105.23 | 105.15 | 0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 14-Jun-24 | 7-Jun-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 763.0 | 720.0 | 6.0% |
+| MGO | Houston | 579.0 | 540.0 | 7.2% |
+| MGO | Singapore | 726.0 | 696.0 | 4.3% |
+| 380cst | Rotterdam | 496.0 | 464.0 | 6.9% |
+| 380cst | Houston | 480.0 | 467.0 | 2.8% |
+| 380cst | Singapore | 510.0 | 497.0 | 2.6% |
+| VLSFO | Rotterdam | 546.0 | 528.0 | 3.4% |
+| VLSFO | Houston | 579.0 | 540.0 | 7.2% |
+| VLSFO | Singapore | 595.0 | 574.0 | 3.7% |
+
+## Oil Prices
+
+| Category | Indicator | 14-Jun-24 | 7-Jun-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 82.6 | 79.6 | 3.8% |
+| OIL | WTI | 78.5 | 75.5 | 3.9% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 14-Jun-24 | 07-Jun-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 17.16 | 17.29 | -0.8% |
+| COSTAMARE INC | NYSE | USD | 15.00 | 15.47 | -3.0% |
+| DANAOS CORPORATION | NYSE | USD | 90.26 | 94.30 | -4.3% |
+| DIANA SHIPPING | NYSE | USD | 2.85 | 2.99 | -4.7% |
+| EUROSEAS LTD. | NASDAQ | USD | 35.41 | 38.13 | -7.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.97 | 2.20 | -10.5% |
+| SAFE BULKERS INC | NYSE | USD | 5.73 | 6.02 | -4.8% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 10.63 | 11.89 | -10.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 23.77 | 25.58 | -7.1% |
+| STEALTHGAS INC | NASDAQ | USD | 7.47 | 8.28 | -9.8% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 28.59 | 30.69 | -6.8% |
+
+## Macro-economic headlines
+
+• In the euro area, the May CPI rose by +2.6% y-o-y. • In US, May CPI rose by +3.3% y-o-y.
+
+• In UK, April Manufacturing Production declined by –1.4% m-o-m.
+
+• In China, Chinese Industrial Production rose by +6.2% y-o-y.

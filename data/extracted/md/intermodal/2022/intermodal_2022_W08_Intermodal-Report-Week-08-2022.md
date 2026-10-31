@@ -326,3 +326,79 @@ The cloud of uncertainty that the Russian-Ukraine war has brought to the world c
 | OCEAN FORCE | 1,983 | 4,393 | 1983 | HUSUMER KROEGER, Germany | HEAVY LOAD CARRIER | $ 198/Ldt | undisclosed | as-is Delaware |
 
 © Intermodal Research 01/03/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 25-Feb-22 | 24-Feb-22 | 23-Feb-22 | 22-Feb-22 | 21-Feb-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.986 | 1.969 | 1.977 | 1.948 | 1.932 | 2.8% |
+| Stock Exchange Data | S&P 500 | 4,384.65 | 4,384.65 | 4,288.70 | 4,225.50 | 4,348.87 | 0.8% |
+| Stock Exchange Data | Nasdaq | 13,694.62 | 13,694.62 | 13,473.59 | 13,037.49 | 13,381.52 | 1.1% |
+| Stock Exchange Data | Dow Jones | 34,058.75 | 34,058.75 | 33,223.83 | 33,131.76 | 33,596.61 | -0.1% |
+| Stock Exchange Data | FTSE 100 | 7,489.46 | 7,207.01 | 7,498.18 | 7,494.21 | 7,484.33 | -0.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,167.09 | 4,015.81 | 4,169.64 | 4,172.35 | 4,172.09 | -0.7% |
+| Stock Exchange Data | CAC40 | 6,752.43 | 6,521.05 | 6,780.67 | 6,787.60 | 6,788.34 | -2.6% |
+| Stock Exchange Data | Xetra Dax | 14,567.23 | 14,052.10 | 14,631.36 | 14,693.00 | 14,731.12 | -1.1% |
+| Stock Exchange Data | Nikkei | 26,476.50 | 26,476.50 | 25,970.82 | 26,449.61 | 26,910.87 | -1.6% |
+| Stock Exchange Data | Hang Seng | 22,901.56 | 22,901.56 | 23,660.28 | 23,520.00 | 24,170.07 | -7.6% |
+| Stock Exchange Data | DJ US Maritime | 212.05 | 210.18 | 208.93 | 216.65 | 219.37 | -3.3% |
+| Currencies | € / $ | 1.13 | 1.12 | 1.13 | 1.13 | 1.13 | -0.4% |
+| Currencies | £ / $ | 1.34 | 1.34 | 1.35 | 1.36 | 1.36 | -1.3% |
+| Currencies | $ / ¥ | 115.56 | 115.57 | 114.89 | 115.10 | 114.64 | 0.5% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.11 | 0.11 | 0.11 | 0.8% |
+| Currencies | Yuan / $ | 6.32 | 6.33 | 6.31 | 6.33 | 6.34 | -0.1% |
+| Currencies | Won / $ | 1,197.83 | 1,206.06 | 1,192.50 | 1,193.00 | 1,194.73 | 0.2% |
+| Currencies | $ INDEX | 96.61 | 97.14 | 96.19 | 96.03 | 96.08 | 0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 25-Feb-22 | 18-Feb-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 873.5 | 815.5 | 7.1% |
+| MGO | Houston | 932.0 | 879.5 | 6.0% |
+| MGO | Singapore | 881.5 | 827.0 | 6.6% |
+| 380cst | Rotterdam | 544.5 | 510.0 | 6.8% |
+| 380cst | Houston | 602.5 | 544.0 | 10.8% |
+| 380cst | Singapore | 552.0 | 526.5 | 4.8% |
+| VLSFO | Rotterdam | 724.0 | 676.0 | 7.1% |
+| VLSFO | Houston | 768.5 | 704.5 | 9.1% |
+| VLSFO | Singapore | 768.5 | 735.5 | 4.5% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 25-Feb-22 | 18-Feb-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.35 | 14.84 | 3.4% |
+| COSTAMARE INC | NYSE | USD | 13.90 | 13.93 | -0.2% |
+| DANAOS CORPORATION | NYSE | USD | 94.20 | 95.07 | -0.9% |
+| DIANA SHIPPING | NYSE | USD | 4.75 | 4.23 | 12.3% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 56.50 | 54.05 | 4.5% |
+| EUROSEAS LTD. | NASDAQ | USD | 27.83 | 30.26 | -8.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.05 | 2.04 | 0.5% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 3.84 | 3.37 | 13.9% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 33.67 | 30.35 | 10.9% |
+| SAFE BULKERS INC | NYSE | USD | 4.33 | 4.31 | 0.5% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.15 | 1.16 | -0.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 31.76 | 29.36 | 8.2% |
+| STEALTHGAS INC | NASDAQ | USD | 2.08 | 1.95 | 6.7% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 7.81 | 7.50 | 4.1% |
+
+## Market News
+
+“Shipping stocks rise amid swathe of sanctions against Russia
+
+Shipping equities across maritime improved on Friday amid US, UK and European Union sanctions imposed against Russia for its heavy-handed invasion of Ukraine.
+
+Tanker stocks continued to advance from notable gains seen on Thursday in the hours after Russian forces stormed into Europe’s largest country.
+
+Bulker stocks also moved forward, building on Thursday’s late-day rebound that offset sharp declines earlier in the day.
+
+Shares of New York-listed bulker owner Diana Shipping saw the biggest leap, jumping 15.6% to close at $4.75 after posting a fourth-quarter net profit of $41.1m on Friday morning.
+
+Equities held by Teekay Tankers came in a distant second, still bounding 8.7% to end trading at $13.73.
+
+Stock for bulker owner Navios Maritime Partners gained 8.4% to close at $33.67, while Star Bulk Carriers’ shares moved up 8.3% to finish the day at $31.76...”(TradeWinds)

@@ -312,3 +312,79 @@ The steel price volatility continues to shape the gloomy outlook in the demoliti
 | SUNTUDSAMUT 5 | 2,500 | 1,020 | 2001 | ZHEJIANG YUEQING, China | GENERAL CARGO | $ 593/Ldt | Bangladeshi |  |
 
 © Intermodal Research 05/07/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 1-Jul-22 | 30-Jun-22 | 29-Jun-22 | 28-Jun-22 | 27-Jun-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 2.889 | 2.972 | 3.093 | 3.206 | 3.194 | -7.6% |
+| Stock Exchange Data | S&P 500 | 3,825.33 | 3,785.38 | 3,818.83 | 3,821.55 | 3,911.74 | -2.2% |
+| Stock Exchange Data | Nasdaq | 11,127.85 | 11,028.74 | 11,177.89 | 11,181.54 | 11,524.55 | -4.1% |
+| Stock Exchange Data | Dow Jones | 31,097.26 | 30,775.43 | 31,029.31 | 30,946.99 | 31,438.26 | -1.3% |
+| Stock Exchange Data | FTSE 100 | 7,168.65 | 7,169.28 | 7,312.32 | 7,323.41 | 7,258.32 | -0.6% |
+| Stock Exchange Data | FTSE All-Share UK | 3,940.03 | 3,940.90 | 4,019.53 | 4,035.24 | 4,004.23 | -0.9% |
+| Stock Exchange Data | CAC40 | 5,931.06 | 5,922.86 | 6,031.48 | 6,086.02 | 6,047.31 | -2.3% |
+| Stock Exchange Data | Xetra Dax | 12,813.03 | 12,783.77 | 13,003.35 | 13,231.82 | 13,186.07 | -2.8% |
+| Stock Exchange Data | Nikkei | 25,935.62 | 26,393.04 | 26,804.60 | 27,049.47 | 26,871.27 | -3.5% |
+| Stock Exchange Data | Hang Seng | 21,859.79 | 21,859.79 | 21,996.89 | 22,418.97 | 22,229.52 | 2.8% |
+| Stock Exchange Data | DJ US Maritime | 199.48 | 199.71 | 200.17 | 205.95 | 206.34 | 0.5% |
+| Currencies | € / $ | 1.04 | 1.05 | 1.04 | 1.05 | 1.06 | -1.3% |
+| Currencies | £ / $ | 1.21 | 1.22 | 1.21 | 1.22 | 1.23 | -1.4% |
+| Currencies | $ / ¥ | 135.23 | 135.79 | 136.59 | 136.05 | 135.44 | 0.0% |
+| Currencies | $ / NoK | 0.10 | 0.10 | 0.10 | 0.10 | 0.10 | 0.9% |
+| Currencies | Yuan / $ | 6.70 | 6.70 | 6.70 | 6.71 | 6.69 | 0.2% |
+| Currencies | Won / $ | 1,298.89 | 1,288.04 | 1,302.06 | 1,292.40 | 1,286.53 | 0.7% |
+| Currencies | $ INDEX | 105.14 | 104.68 | 105.11 | 104.51 | 103.94 | 0.9% |
+
+## Bunker Prices
+
+| Grade | Port | 1-Jul-22 | 24-Jun-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,269.0 | 1,337.0 | -5.1% |
+| MGO | Houston | 1,325.0 | 1,354.5 | -2.2% |
+| MGO | Singapore | 1,274.0 | 1,356.0 | -6.0% |
+| 380cst | Rotterdam | 566.5 | 573.5 | -1.2% |
+| 380cst | Houston | 675.5 | 690.5 | -2.2% |
+| 380cst | Singapore | 588.0 | 589.0 | -0.2% |
+| VLSFO | Rotterdam | 897.5 | 885.0 | 1.4% |
+| VLSFO | Houston | 909.0 | 883.5 | 2.9% |
+| VLSFO | Singapore | 1,122.0 | 1,077.0 | 4.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 01-Jul-22 | 24-Jun-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.89 | 15.41 | -3.4% |
+| COSTAMARE INC | NYSE | USD | 11.85 | 11.50 | 3.0% |
+| DANAOS CORPORATION | NYSE | USD | 61.91 | 62.02 | -0.2% |
+| DIANA SHIPPING | NYSE | USD | 4.59 | 4.57 | 0.4% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 47.30 | 49.28 | -4.0% |
+| EUROSEAS LTD. | NASDAQ | USD | 23.00 | 24.19 | -4.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.70 | 1.86 | -8.6% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.10 | 2.24 | -6.3% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 22.95 | 22.57 | 1.7% |
+| SAFE BULKERS INC | NYSE | USD | 3.65 | 3.81 | -4.2% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.78 | 0.83 | -6.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 23.40 | 24.26 | -3.5% |
+| STEALTHGAS INC | NASDAQ | USD | 3.10 | 3.27 | -5.2% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 9.56 | 9.12 | 4.8% |
+
+## Market News
+
+“Navios Holdings reduces bond burden to $80m ahead of August deadline
+
+Greece’s Navios Maritime Holdings has continued to take debt off its balance sheet with another bond redemption.
+
+The New York-listed owner of 36 bulkers said it has spent $10m buying back at par its 11.25% notes due in August.
+
+This means $80m is still outstanding on the only bond series left, following a major refinancing in the first quarter.
+
+Navios Holdings has cash of $50m, of which $33m is “trapped” in the logistics subsidiary NSAL, investment bank Fearnley Securities said.
+
+Recent bond redemptions worth $50m in total demonstrate “an impressive financial flexibility once again”, analysts Oystein Vaagen, Erik Gabriel Hovi and Ulrik Mannhart said.
+
+The redemptions are being partly funded by operating cash flows from healthy contract fixtures, they added...(TradeWinds)

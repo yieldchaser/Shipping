@@ -255,3 +255,78 @@ The global demolition market continues to face supply constraints in key recycli
 | EL YOUSSEF | 4,106 | 1,995 | 1975 | SIETAS KG, Germany | GENERAL CARGO |  | Turkish |  |
 | SINAR TARAKAN | 3,821 | 2,163 | 1995 | MIYOSHI, Japan | GAS TANKER | 540 | Bangladeshi |  |
 | OSCAR I | 3,376 | 1,010 | 1981 | DENIZ, Turkey | GENERAL CARGO | 475 | Indian |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 1-Mar-24 | 29-Feb-24 | 28-Feb-24 | 27-Feb-24 | 26-Feb-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.182 | 4.252 | 4.274 | 4.315 | 4.299 | -1.8% |
+| Stock Exchange Data | S&P 500 | 5,137.08 | 5,096.27 | 5,069.76 | 5,078.18 | 5,069.53 | 0.9% |
+| Stock Exchange Data | Nasdaq | 18,302.91 | 18,043.85 | 17,874.50 | 17,971.05 | 17,933.33 | 2.0% |
+| Stock Exchange Data | Dow Jones | 39,087.38 | 38,995.93 | 38,949.29 | 38,972.74 | 39,069.30 | -0.1% |
+| Stock Exchange Data | FTSE 100 | 7,682.50 | 7,630.02 | 7,624.98 | 7,683.02 | 7,684.30 | -0.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,197.12 | 4,163.21 | 4,159.57 | 4,191.43 | 4,190.80 | -0.1% |
+| Stock Exchange Data | CAC40 | 7,934.17 | 7,927.43 | 7,954.39 | 7,948.40 | 7,929.82 | -0.4% |
+| Stock Exchange Data | Xetra Dax | 17,735.07 | 17,678.19 | 17,601.22 | 17,556.49 | 17,423.23 | 1.8% |
+| Stock Exchange Data | Nikkei | 39,910.82 | 39,166.19 | 39,208.03 | 39,239.52 | 39,233.71 | 2.1% |
+| Stock Exchange Data | Hang Seng | 16,589.44 | 16,511.44 | 37,703.32 | 16,790.80 | 37,963.97 | -0.8% |
+| Stock Exchange Data | DJ US Maritime | 288.01 | 285.88 | 285.88 | 286.76 | 288.73 | -0.2% |
+| Currencies | € / $ | 1.08 | 1.08 | 1.08 | 1.08 | 1.08 | 0.2% |
+| Currencies | £ / $ | 1.27 | 1.26 | 1.27 | 1.27 | 1.27 | -0.2% |
+| Currencies | $ / ¥ | 150.11 | 149.98 | 150.67 | 150.50 | 150.69 | -0.3% |
+| Currencies | $ / NoK | 10.51 | 10.60 | 10.59 | 10.52 | 10.51 | -0.3% |
+| Currencies | Yuan / $ | 7.20 | 7.19 | 7.20 | 7.20 | 7.20 | 0.0% |
+| Currencies | Won / $ | 1,330.52 | 1,334.78 | 1,334.05 | 1,332.05 | 1,331.90 | 0.0% |
+| Currencies | $ INDEX | 103.86 | 104.16 | 103.98 | 103.83 | 103.83 | -0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 1-Mar-24 | 23-Feb-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 777.0 | 777.0 | 0.0% |
+| MGO | Houston | 462.0 | 460.0 | 0.4% |
+| MGO | Singapore | 781.0 | 796.0 | -1.9% |
+| 380cst | Rotterdam | 459.0 | 457.0 | 0.4% |
+| 380cst | Houston | 462.0 | 460.0 | 0.4% |
+| 380cst | Singapore | 448.0 | 444.0 | 0.9% |
+| VLSFO | Rotterdam | 580.0 | 564.0 | 2.8% |
+| VLSFO | Houston | 635.0 | 623.0 | 1.9% |
+| VLSFO | Singapore | 668.0 | 632.0 | 5.7% |
+
+## Oil Prices
+
+| Category | Indicator | 1-Mar-24 | 23-Feb-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 83.6 | 81.6 | 2.4% |
+| OIL | WTI | 80.0 | 76.5 | 4.5% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 01-Mar-24 | 23-Feb-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 17.29 | 18.12 | -4.6% |
+| COSTAMARE INC | NYSE | USD | 11.49 | 11.34 | 1.3% |
+| DANAOS CORPORATION | NYSE | USD | 72.46 | 73.40 | -1.3% |
+| DIANA SHIPPING | NYSE | USD | 3.10 | 2.96 | 4.7% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 62.98 | 61.00 | 3.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 39.62 | 33.31 | 18.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.24 | 2.12 | 5.7% |
+| SAFE BULKERS INC | NYSE | USD | 4.71 | 4.53 | 4.0% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 8.33 | 8.04 | 3.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 24.32 | 23.83 | 2.1% |
+| STEALTHGAS INC | NASDAQ | USD | 6.15 | 6.32 | -2.7% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 23.99 | 23.78 | 0.9% |
+
+## Macro-economic headlines
+
+In the eurozone, CPI rose by 0.6% on a monthly basis and by 3.1% on an annual basis in February.
+
+In the US, GDP rose by 3.2% in Q4, while the Chicago PMI came in at 44, well below the previous month's reading of 46. New Home Sales for January rose slightly to 661k from 651k the month before. Finally, durable goods orders fell by 6.1% in January.
+
+In the UK, the S&P Global/CIPS UK Manufacturing PMI for February was 47.5, slightly higher than the previous month (47).
+
+In China, the Composite PMI for February was 50.9. The manufacturing PMI was 49.1 in February, while the non-

@@ -256,3 +256,77 @@ Turkey's market is subdued, though improving steel fundamentals offer a glimmer 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BOW CEDAR | 37,455 | 11,043 | 1996 | Kvaerner, Norway | TANKER | $940/Ldt | Indian | incl 2,300 Ts solid stainless steel and 700 Ts bunkers |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 3-Oct-25 | 2-Oct-25 | 1-Oct-25 | 30-Sep-25 | 29-Sep-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.119 | 4.090 | 4.106 | 4.150 | 4.141 | -1.6% |
+| Stock Exchange Data | S&P 500 | 6,715.79 | 6,715.35 | 6,711.20 | 6,688.46 | 6,661.21 | 1.1% |
+| Stock Exchange Data | Nasdaq | 24,785.52 | 24,892.76 | 24,800.86 | 24,679.99 | 24,611.35 | 1.1% |
+| Stock Exchange Data | Dow Jones | 46,758.28 | 46,519.72 | 46,441.10 | 46,397.89 | 46,316.07 | 1.1% |
+| Stock Exchange Data | FTSE 100 | 9,491.25 | 9,427.73 | 9,446.43 | 9,350.43 | 9,299.84 | 2.2% |
+| Stock Exchange Data | FTSE All-Share UK | 5,133.41 | 5,099.28 | 5,108.07 | 5,061.73 | 5,033.61 | 2.2% |
+| Stock Exchange Data | CAC40 | 8,081.54 | 8,056.63 | 7,966.95 | 7,895.94 | 7,880.87 | 2.7% |
+| Stock Exchange Data | Xetra Dax | 24,378.80 | 24,422.56 | 24,113.62 | 23,880.72 | 23,745.06 | 2.7% |
+| Stock Exchange Data | Nikkei | 45,769.50 | 44,936.73 | 44,550.85 | 44,932.63 | 45,043.75 | 0.9% |
+| Stock Exchange Data | Hang Seng | 27,140.92 | 27,287.12 | 26,855.56 | 26,855.56 | 26,622.88 | 3.9% |
+| Stock Exchange Data | DJ US Maritime | 272.35 | 274.78 | 276.06 | 273.93 | 277.28 | -2.1% |
+| Currencies | € / $ | 1.17 | 1.17 | 1.17 | 1.17 | 1.17 | 0.3% |
+| Currencies | £ / $ | 1.35 | 1.34 | 1.35 | 1.34 | 1.34 | 0.6% |
+| Currencies | $ / ¥ | 147.44 | 147.23 | 147.05 | 147.90 | 148.58 | -1.4% |
+| Currencies | $ / NoK | 9.93 | 9.96 | 9.91 | 9.98 | 9.97 | -0.3% |
+| Currencies | Yuan / $ | 7.12 | 7.12 | 7.12 | 7.12 | 7.12 | -0.2% |
+| Currencies | Won / $ | 1,407.40 | 1,405.86 | 1,402.69 | 1,403.85 | 1,399.88 | -0.1% |
+| Currencies | $ INDEX | 97.72 | 97.85 | 97.71 | 97.78 | 97.91 | -0.4% |
+
+## Bunker Prices
+
+| Grade | Port | 3-Oct-25 | 26-Sep-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 659.0 | 695.0 | -5.2% |
+| MGO | Houston | 657.0 | 694.0 | -5.3% |
+| MGO | Singapore | 670.0 | 702.0 | -4.6% |
+| 380cst | Rotterdam | 398.0 | 418.0 | -4.8% |
+| 380cst | Houston | 403.0 | 421.0 | -4.3% |
+| 380cst | Singapore | 401.0 | 424.0 | -5.4% |
+| VLSFO | Rotterdam | 428.0 | 463.0 | -7.6% |
+| VLSFO | Houston | 457.0 | 486.0 | -6.0% |
+| VLSFO | Singapore | 475.0 | 497.0 | -4.4% |
+
+## Oil Prices
+
+| Category | Indicator | 3-Oct-25 | 26-Sep-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 64.5 | 70.1 | -8.0% |
+| OIL | WTI | 60.9 | 65.7 | -7.4% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 03-Oct-25 | 26-Sep-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 21.35 | 22.18 | -3.7% |
+| COSTAMARE INC | NYSE | USD | 11.93 | 12.50 | -4.6% |
+| DANAOS CORPORATION | NYSE | USD | 88.83 | 91.95 | -3.4% |
+| DIANA SHIPPING | NYSE | USD | 1.69 | 1.77 | -4.5% |
+| EUROSEAS LTD. | NASDAQ | USD | 57.78 | 61.98 | -6.8% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.07 | 1.11 | -3.5% |
+| SAFE BULKERS INC | NYSE | USD | 4.47 | 4.60 | -2.8% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 8.28 | 8.65 | -4.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.41 | 19.27 | -4.5% |
+| STEALTHGAS INC | NASDAQ | USD | 6.49 | 6.74 | -3.7% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 22.21 | 22.84 | -2.8% |
+
+## Macro-economic headlines
+
+In Germany, the HCOB Manufacturing PMI registered 49.5 in September, indicating a marginal contraction in the industrial sector. This reading surpassed market expectations of 48.5 but was lower than August’s 49.8.
+
+In the Eurozone, the PPI declined by 0.3% m-o-m in August, larger than the market-expected decline of 0.1%, and reversing July’s 0.3% increase.
+
+In the United Kingdom, Q2 2025 GDP grew by 0.3% q-o-q, in line with market forecasts but below the Q1 2025 growth rate of 0.7%.
+
+In the United States, Manufacturing PMI stood at 52 in September, consistent with market expectations but slightly below August’s 53.

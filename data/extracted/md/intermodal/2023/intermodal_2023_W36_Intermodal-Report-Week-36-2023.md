@@ -249,3 +249,70 @@ The recycling market continues to rise as it did last week, although not all des
 | UGL HONGKONG | 22,000 | 8,800 | 1993 | NAIKAI ZOSEN, Japan | CONTAINER | $ 530/Ldt | Indian |  |
 | UNI-ASPIRE | 15,511 | 7,099 | 1998 | EVERGREEN, Japan | CONTAINER | $ 585/Ldt | Indian |  |
 | SINOKOR VLADIVOSTOK | 11,400 | 4,691 | 1998 | SHANDONG WEIHAI, China | CONTAINER | $ 589/Ldt | Indian |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 8-Sep-23 | 7-Sep-23 | 6-Sep-23 | 5-Sep-23 | 4-Sep-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.258 | 4.260 | 4.290 | 4.268 | 4.173 | 2.0% |
+| Stock Exchange Data | S&P 500 | 4,457.49 | 4,451.14 | 4,465.48 | 4,496.83 | 4,515.77 | -1.3% |
+| Stock Exchange Data | Nasdaq | 13,761.53 | 13,748.83 | 13,872.47 | 14,020.95 | 14,031.82 | -1.9% |
+| Stock Exchange Data | Dow Jones | 34,576.59 | 34,500.73 | 34,443.19 | 34,641.97 | 34,837.71 | -0.7% |
+| Stock Exchange Data | FTSE 100 | 7,478.19 | 7,441.72 | 7,426.14 | 7,437.93 | 7,452.76 | 0.2% |
+| Stock Exchange Data | FTSE All-Share UK | 4,072.74 | 4,053.60 | 4,048.70 | 4,055.78 | 4,063.70 | 0.1% |
+| Stock Exchange Data | CAC40 | 7,240.77 | 7,196.10 | 7,194.09 | 7,254.72 | 7,279.51 | -0.8% |
+| Stock Exchange Data | Xetra Dax | 15,740.30 | 15,718.66 | 15,741.37 | 15,771.71 | 15,824.85 | -0.5% |
+| Stock Exchange Data | Nikkei | 32,606.84 | 32,991.08 | 33,241.02 | 33,036.76 | 32,939.18 | -1.0% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 18,202.07 | 18,449.98 | 18,456.91 | 18,844.16 | 17.0% |
+| Stock Exchange Data | DJ US Maritime | 276.39 | 274.39 | 275.70 | 276.22 | 276.22 | 1.7% |
+| Currencies | € / $ | 1.07 | 1.07 | 1.07 | 1.07 | 1.08 | -0.8% |
+| Currencies | £ / $ | 1.25 | 1.25 | 1.25 | 1.26 | 1.26 | -1.0% |
+| Currencies | $ / ¥ | 147.79 | 147.34 | 147.72 | 147.44 | 146.54 | 1.1% |
+| Currencies | $ / NoK | 0.0936 | 0.0934 | 0.0933 | 0.0933 | 0.0940 | -0.2% |
+| Currencies | Yuan / $ | 7.34 | 7.33 | 7.32 | 7.30 | 7.27 | 1.1% |
+| Currencies | Won / $ | 1,336.31 | 1,337.91 | 1,334.47 | 1,332.08 | 1,318.95 | 1.4% |
+| Currencies | $ INDEX | 105.09 | 105.06 | 104.86 | 104.81 | 104.24 | 1.4% |
+
+## Bunker Prices
+
+| Grade | Port | 8-Sep-23 | 1-Sep-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 08-Sep-23 | 01-Sep-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.53 | 14.90 | -2.5% |
+| COSTAMARE INC | NYSE | USD | 9.75 | 10.42 | -6.4% |
+| DANAOS CORPORATION | NYSE | USD | 65.18 | 67.39 | -3.3% |
+| DIANA SHIPPING | NYSE | USD | 3.56 | 3.62 | -1.7% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 43.60 | 44.03 | -1.0% |
+| EUROSEAS LTD. | NASDAQ | USD | 26.91 | 28.16 | -4.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 0.90 | 0.89 | 1.1% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.59 | 1.66 | -4.2% |
+| SAFE BULKERS INC | NYSE | USD | 3.07 | 3.20 | -4.1% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 5.17 | 5.40 | -4.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 17.64 | 17.62 | 0.1% |
+| STEALTHGAS INC | NASDAQ | USD | 4.91 | 4.91 | 0.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 19.91 | 20.47 | -2.7% |
+
+## Macro-economic headlines
+
+• US: The ISM Non-Manufacturing PMI for August rose to 54.5 from 52.5 last month, the highest reading since February, showing strength in the services sector. In a similar vein, initial jobless claims for last week (216K) returned to February lows.
+
+• EU: The bloc's GDP fell by 0.5% on an annual basis. The barometer Germany, posted a mediocre 0.3% rise in CPI for August on a monthly basis, while the figure was at 6.1% year on year.
+
+• Japan: GDP for Q2 rose by 4.8% on an annual basis, while it fell by 1.2% on a quarterly basis.

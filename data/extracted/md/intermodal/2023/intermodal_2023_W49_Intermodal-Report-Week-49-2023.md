@@ -251,3 +251,72 @@ It has been a week of very slow activity in the recycling market with few vintag
 | ONE STORY | 45,406 | 7,775 | 1995 | TSUNEISHI, Japan | BC | $ 530/Ldt | INDIA |  |
 | SSL DELHI | 33,912 | 10,669 | 2000 | AKER MTW, Germany | CONTAINER | $ 530/Ldt | INDIA | as is Jebel Ali, incl. bunkers |
 | TJ ORHAN | 20,087 | 7,360 | 1998 | GUANGZHOU WENCHONG, China | CONTAINER | $ 560/Ldt | INDIA |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 8-Dec-23 | 7-Dec-23 | 6-Dec-23 | 5-Dec-23 | 4-Dec-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.229 | 4.148 | 4.114 | 4.167 | 4.259 | 0.5% |
+| Stock Exchange Data | S&P 500 | 4,604.37 | 4,585.59 | 4,549.34 | 4,567.18 | 4,569.78 | 0.2% |
+| Stock Exchange Data | Nasdaq | 14,403.97 | 14,339.99 | 14,146.71 | 14,229.91 | 14,185.49 | 0.7% |
+| Stock Exchange Data | Dow Jones | 36,247.87 | 36,117.38 | 36,054.43 | 36,124.56 | 36,204.44 | 0.0% |
+| Stock Exchange Data | FTSE 100 | 7,554.47 | 7,513.72 | 7,515.38 | 7,489.84 | 7,512.96 | 0.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,115.38 | 4,093.96 | 4,096.16 | 4,078.65 | 4,083.13 | 0.5% |
+| Stock Exchange Data | CAC40 | 7,526.55 | 7,428.52 | 7,435.99 | 7,386.99 | 7,332.59 | 2.5% |
+| Stock Exchange Data | Xetra Dax | 16,759.22 | 16,628.99 | 16,656.44 | 16,533.11 | 16,404.76 | 2.2% |
+| Stock Exchange Data | Nikkei | 32,307.86 | 32,858.31 | 33,445.90 | 32,775.82 | 33,231.27 | -2.8% |
+| Stock Exchange Data | Hang Seng | 16,334.37 | 16,345.89 | 16,463.26 | 16,327.86 | 16,646.05 | -1.9% |
+| Stock Exchange Data | DJ US Maritime | 238.94 | 238.94 | 240.18 | 249.34 | 258.24 | -5.2% |
+| Currencies | € / $ | 1.08 | 1.08 | 1.08 | 1.08 | 1.08 | -1.1% |
+| Currencies | £ / $ | 1.25 | 1.26 | 1.26 | 1.26 | 1.26 | -1.2% |
+| Currencies | $ / ¥ | 144.86 | 144.28 | 147.15 | 147.17 | 147.33 | -1.3% |
+| Currencies | $ / NoK | 0.0917 | 0.0920 | 0.0911 | 0.0915 | 0.0922 | -2.4% |
+| Currencies | Yuan / $ | 7.16 | 7.15 | 7.15 | 7.15 | 7.14 | 1.3% |
+| Currencies | Won / $ | 1,317.66 | 1,319.91 | 1,314.72 | 1,313.76 | 1,308.86 | 1.8% |
+| Currencies | $ INDEX | 104.01 | 103.54 | 104.15 | 104.05 | 103.71 | 0.7% |
+
+## Bunker Prices
+
+| Grade | Port | 8-Dec-23 | 1-Dec-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 08-Dec-23 | 01-Dec-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.41 | 13.64 | -1.7% |
+| COSTAMARE INC | NYSE | USD | 9.51 | 10.61 | -10.4% |
+| DANAOS CORPORATION | NYSE | USD | 68.14 | 71.48 | -4.7% |
+| DIANA SHIPPING | NYSE | USD | 2.95 | 3.45 | -14.5% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 44.85 | 47.87 | -6.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 27.96 | 30.02 | -6.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.81 | 2.44 | 15.2% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.25 | 2.25 | 0.0% |
+| SAFE BULKERS INC | NYSE | USD | 3.68 | 3.98 | -7.5% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 7.02 | 7.34 | -4.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 20.07 | 21.90 | -8.4% |
+| STEALTHGAS INC | NASDAQ | USD | 6.43 | 6.81 | -5.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 19.69 | 20.51 | -4.0% |
+
+## Macro-economic headlines
+
+▪ In the US, the S&P Global Services PMI for November was at 50.8, higher than last month, (50,6) and still in expanding territory. The ISM Non-Manufacturing PMI for November was at 52.7 higher than last month at 51.8.
+
+▪ In the EU, the German Trade Balance for last month was at 17.8bn, with exports falling by 0.2% and imports falling by 1.2%. The bloc’s HCOB Eurozone Composite PMI for November was at 47.6, higher than last month at 46.5/
+
+▪ In Japan, GDP fell by 0.7% in Q3 on a quarterly basis, while it fell by 2.9% on an annual basis.
+
+▪ In China, the Trade Balance for November was at 490.82bn, higher than last month at 405.47bn, with exports rising by 0.5% and imports falling by 0.6%.

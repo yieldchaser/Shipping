@@ -248,3 +248,77 @@ The Turkish ship recycling market remains steady but constrained, with weaker pr
 | USD/INR | 94.91 | 94.25 | 0.69% | 94.91 |
 | USD/PKR | 278.83 | 278.95 | -0.04% | 280.05 |
 | USD/TRY | 45.17 | 45.00 | 0.39% | 45.00 |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 1-May-26 | 30-Apr-26 | 29-Apr-26 | 28-Apr-26 | 27-Apr-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.378 | 4.390 | 4.416 | 4.354 | 4.336 | 1.6% |
+| Stock Exchange Data | S&P 500 | 7,230.12 | 7,209.01 | 7,135.95 | 7,138.80 | 7,173.91 | 0.9% |
+| Stock Exchange Data | Nasdaq | 27,710.36 | 27,452.12 | 27,186.99 | 27,029.01 | 27,305.68 | 1.5% |
+| Stock Exchange Data | Dow Jones | 49,499.27 | 49,652.14 | 48,861.81 | 49,141.93 | 49,167.79 | 0.5% |
+| Stock Exchange Data | FTSE 100 | 10,363.93 | 10,378.82 | 10,213.11 | 10,332.79 | 10,321.09 | -0.1% |
+| Stock Exchange Data | FTSE All-Share UK | 5,557.81 | 5,562.78 | 5,477.20 | 5,538.98 | 5,538.29 | -0.1% |
+| Stock Exchange Data | CAC40 | 8,114.84 | 8,114.84 | 8,072.13 | 8,104.09 | 8,141.92 | -0.5% |
+| Stock Exchange Data | Xetra Dax | 24,292.38 | 24,292.38 | 23,954.56 | 24,018.26 | 24,083.53 | 0.7% |
+| Stock Exchange Data | Nikkei | 59,513.12 | 59,284.92 | 59,159.50 | 59,917.46 | 60,537.36 | -0.3% |
+| Stock Exchange Data | Hang Seng | 25,776.53 | 25,776.53 | 26,111.84 | 25,679.78 | 25,925.65 | -0.8% |
+| Stock Exchange Data | DJ US Maritime | 483.25 | 494.15 | 500.88 | 495.47 | 500.19 | -2.2% |
+| Currencies | € / $ | 1.17 | 1.17 | 1.17 | 1.17 | 1.17 | 0.0% |
+| Currencies | £ / $ | 1.36 | 1.36 | 1.35 | 1.35 | 1.35 | 0.3% |
+| Currencies | $ / ¥ | 157.03 | 156.57 | 160.39 | 159.61 | 159.42 | -1.5% |
+| Currencies | $ / NoK | 9.26 | 9.25 | 9.33 | 9.30 | 9.28 | -0.4% |
+| Currencies | Yuan / $ | 6.83 | 6.83 | 6.84 | 6.84 | 6.82 | -0.1% |
+| Currencies | Won / $ | 1,470.84 | 1,473.57 | 1,488.46 | 1,472.66 | 1,473.63 | -0.4% |
+| Currencies | $ INDEX | 98.16 | 98.06 | 98.96 | 98.64 | 98.50 | -0.4% |
+
+## Bunker Prices
+
+| Grade | Port | 1-May-26 | 24-Apr-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,317.3 | 1,284.0 | 2.6% |
+| MGO | Houston | 1,217.3 | 1,195.8 | 1.8% |
+| MGO | Singapore | 1,285.5 | 1,328.8 | -3.3% |
+| 380cst | Rotterdam | 655.3 | 636.3 | 3.0% |
+| 380cst | Houston | 666.8 | 634.8 | 5.0% |
+| 380cst | Singapore | 710.8 | 669.5 | 6.2% |
+| VLSFO | Rotterdam | 791.0 | 718.8 | 10.1% |
+| VLSFO | Houston | 869.0 | 840.8 | 3.4% |
+| VLSFO | Singapore | 801.3 | 748.3 | 7.1% |
+
+## Oil Prices
+
+| Category | Indicator | 1-May-26 | 24-Apr-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 108.2 | 105.3 | 2.7% |
+| OIL | WTI | 101.9 | 94.4 | 8.0% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 01-May-26 | 24-Apr-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 20.61 | 19.81 | 4.0% |
+| COSTAMARE INC | NYSE | USD | 16.47 | 16.50 | -0.2% |
+| DANAOS CORPORATION | NYSE | USD | 119.77 | 117.38 | 2.0% |
+| DIANA SHIPPING | NYSE | USD | 2.56 | 2.44 | 4.9% |
+| EUROSEAS LTD. | NASDAQ | USD | 70.57 | 68.03 | 3.7% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.22 | 2.12 | 4.7% |
+| SAFE BULKERS INC | NYSE | USD | 6.67 | 6.52 | 2.3% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 15.47 | 13.99 | 10.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 25.28 | 24.23 | 4.3% |
+| STEALTHGAS INC | NASDAQ | USD | 10.07 | 9.37 | 7.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 42.40 | 39.27 | 8.0% |
+
+## Macro-economic headlines
+
+In the Eurozone, the ECB kept its benchmark interest rates unchanged for a seventh consecutive month, in line with market expectations, as concerns persist over elevated inflation and slowing GDP growth. The main refinancing rate remains at 2.15%, while the deposit facility rate stands at 2%.
+
+In China, the Manufacturing PMI edged down to 50.3 in April from 50.4 in March, remaining in expansionary territory and slightly exceeding market expectations of 50.1.
+
+In the United States, the trade deficit widened to $60.3bn in March, from $57.3bn in February, broadly in line with market expectations of $61bn. Both exports and imports increased m-o-m, with imports rising at a faster pace.
+
+In the UK, the Bank of England kept the Bank Rate unchanged at 3.75% in April for the third consecutive month, meeting market expectations.

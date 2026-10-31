@@ -254,3 +254,77 @@ In Turkey, despite improving conditions in the steel market, activity remains fl
 | USD/INR | 96.57 | 96.29 | 0.29% | 96.57 |
 | USD/PKR | 277.85 | 278.03 | -0.06% | 280.05 |
 | USD/TRY | 47.33 | 47.14 | 0.41% | 47.33 |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 24-Jul-26 | 23-Jul-26 | 22-Jul-26 | 21-Jul-26 | 20-Jul-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.679 | 4.703 | 4.657 | 4.628 | 4.598 | 3.0% |
+| Stock Exchange Data | S&P 500 | 7,411.98 | 7,408.30 | 7,498.96 | 7,509.20 | 7,443.28 | -0.6% |
+| Stock Exchange Data | Nasdaq | 28,128.34 | 28,454.81 | 28,998.10 | 29,155.18 | 28,604.24 | -1.6% |
+| Stock Exchange Data | Dow Jones | 51,947.25 | 51,711.65 | 52,218.58 | 52,224.64 | 51,839.26 | -0.4% |
+| Stock Exchange Data | FTSE 100 | 10,736.23 | 10,639.17 | 10,716.97 | 10,585.91 | 10,524.76 | 1.3% |
+| Stock Exchange Data | FTSE All-Share UK | 5,769.36 | 5,718.72 | 5,763.69 | 5,697.15 | 5,662.28 | 1.2% |
+| Stock Exchange Data | CAC40 | 8,372.28 | 8,299.09 | 8,437.89 | 8,363.14 | 8,340.11 | 0.4% |
+| Stock Exchange Data | Xetra Dax | 25,099.00 | 24,763.12 | 25,155.41 | 25,011.35 | 24,846.69 | 1.1% |
+| Stock Exchange Data | Nikkei | 64,611.15 | 66,422.60 | 66,115.60 | 66,232.19 | 64,787.50 | 0.7% |
+| Stock Exchange Data | Hang Seng | 24,963.23 | 25,210.81 | 24,892.66 | 25,132.29 | 25,143.05 | 1.6% |
+| Stock Exchange Data | DJ US Maritime | 487.95 | 489.43 | 489.79 | 488.11 | 474.42 | 3.1% |
+| Currencies | € / $ | 1.14 | 1.14 | 1.14 | 1.14 | 1.14 | -0.6% |
+| Currencies | £ / $ | 1.33 | 1.33 | 1.34 | 1.34 | 1.34 | -1.0% |
+| Currencies | $ / ¥ | 163.84 | 163.85 | 163.13 | 163.16 | 162.49 | 0.9% |
+| Currencies | $ / NoK | 9.58 | 9.60 | 9.59 | 9.63 | 9.67 | -0.6% |
+| Currencies | Yuan / $ | 6.77 | 6.77 | 6.77 | 6.77 | 6.77 | -0.1% |
+| Currencies | Won / $ | 1,459.23 | 1,474.92 | 1,477.12 | 1,481.42 | 1,475.55 | -1.9% |
+| Currencies | $ INDEX | 101.47 | 101.44 | 101.13 | 101.17 | 100.95 | 0.7% |
+
+## Bunker Prices
+
+| Grade | Port | 24-Jul-26 | 17-Jul-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,243.0 | 1,160.5 | 7.1% |
+| MGO | Houston | 1,223.0 | 1,180.0 | 3.6% |
+| MGO | Singapore | 1,258.8 | 1,136.0 | 10.8% |
+| 380cst | Rotterdam | 567.3 | 532.5 | 6.5% |
+| 380cst | Houston | 515.5 | 537.3 | -4.0% |
+| 380cst | Singapore | 623.0 | 552.0 | 12.9% |
+| VLSFO | Rotterdam | 702.3 | 652.3 | 7.7% |
+| VLSFO | Houston | 762.0 | 679.5 | 12.1% |
+| VLSFO | Singapore | 845.3 | 753.0 | 12.3% |
+
+## Oil Prices
+
+| Category | Indicator | 24-Jul-26 | 17-Jul-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 96.8 | 88.1 | 9.9% |
+| OIL | WTI | 89.3 | 82.5 | 8.3% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 24-Jul-26 | 17-Jul-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 23.35 | 22.19 | 5.2% |
+| COSTAMARE INC | NYSE | USD | 15.72 | 14.74 | 6.6% |
+| DANAOS CORPORATION | NYSE | USD | 140.22 | 125.87 | 11.4% |
+| DIANA SHIPPING | NYSE | USD | 2.25 | 2.05 | 9.8% |
+| EUROSEAS LTD. | NASDAQ | USD | 76.99 | 69.23 | 11.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 3.01 | 2.77 | 8.7% |
+| SAFE BULKERS INC | NYSE | USD | 7.67 | 6.82 | 12.5% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 16.18 | 14.01 | 15.5% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 28.14 | 24.90 | 13.0% |
+| STEALTHGAS INC | NASDAQ | USD | 8.83 | 8.53 | 3.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 39.40 | 37.62 | 4.7% |
+
+## Macro-economic headlines
+
+In China, the PBoC held its benchmark lending rates steady in July for the fourteenth consecutive month, in line with market expectations. The 1-year LPR remained at 3.0%, while the 5-year LPR, the benchmark for mortgage rates, stayed at 3.5%.
+
+In Germany, the Ifo Business Climate Index rose to 86.6 in July, up from 85.6 in June and surpassing market forecasts of 86.1.
+
+In UK, CPI rose by 2.6% y-o-y in June, broadly in line with forecasts and marginally easing from 2.8% in May.
+
+In the United States, durable goods orders edged up by 0.3% m-o-m in June, falling short of market expectations but reversing May’s 4.5% decline.

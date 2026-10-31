@@ -227,3 +227,77 @@ A subdued sentiment was reflected in major ship recycling markets this week. The
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ITAUGUA | 300,361 | 48,100 | 1997 | MITSUBISHI, Japan | TANKER | $ 447/Ldt | Indian |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 10-Jan-25 | 9-Jan-25 | 8-Jan-25 | 7-Jan-25 | 6-Jan-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.774 | 4.681 | 4.693 | 4.685 | 4.616 | 3.9% |
+| Stock Exchange Data | S&P 500 | 5,827.04 | 5,918.25 | 5,918.25 | 5,909.03 | 5,975.38 | -1.9% |
+| Stock Exchange Data | Nasdaq | 20,847.58 | 21,180.97 | 21,180.97 | 21,173.04 | 21,559.50 | -2.2% |
+| Stock Exchange Data | Dow Jones | 41,938.45 | 42,635.20 | 42,635.20 | 42,528.36 | 42,706.56 | -1.9% |
+| Stock Exchange Data | FTSE 100 | 8,248.49 | 8,319.69 | 8,251.03 | 8,245.28 | 8,249.66 | 0.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,476.42 | 4,517.93 | 4,484.17 | 4,493.46 | 4,503.56 | -0.3% |
+| Stock Exchange Data | CAC40 | 7,431.04 | 7,490.28 | 7,452.42 | 7,489.35 | 7,445.69 | 2.0% |
+| Stock Exchange Data | Xetra Dax | 20,214.79 | 20,317.10 | 20,329.94 | 20,340.57 | 20,216.19 | 1.6% |
+| Stock Exchange Data | Nikkei | 39,190.40 | 39,605.09 | 39,981.06 | 40,083.30 | 39,307.05 | -1.8% |
+| Stock Exchange Data | Hang Seng | 19,064.29 | 19,240.89 | 19,279.84 | 19,447.58 | 19,688.29 | -3.5% |
+| Stock Exchange Data | DJ US Maritime | 341.05 | 344.80 | 344.80 | 341.55 | 351.20 | -2.2% |
+| Currencies | € / $ | 1.02 | 1.03 | 1.03 | 1.03 | 1.04 | -0.6% |
+| Currencies | £ / $ | 1.22 | 1.23 | 1.24 | 1.25 | 1.25 | -1.7% |
+| Currencies | $ / ¥ | 157.69 | 158.14 | 158.35 | 158.02 | 157.60 | 0.3% |
+| Currencies | $ / NoK | 11.46 | 11.39 | 11.40 | 11.33 | 11.29 | 0.9% |
+| Currencies | Yuan / $ | 7.33 | 7.33 | 7.33 | 7.33 | 7.32 | 0.2% |
+| Currencies | Won / $ | 1,473.08 | 1,457.41 | 1,458.48 | 1,453.11 | 1,461.08 | 0.3% |
+| Currencies | $ INDEX | 109.65 | 109.18 | 109.09 | 108.54 | 108.26 | 0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 10-Jan-25 | 3-Jan-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 680.0 | 654.0 | 4.0% |
+| MGO | Houston | 731.0 | 705.0 | 3.7% |
+| MGO | Singapore | 701.0 | 690.0 | 1.6% |
+| 380cst | Rotterdam | 456.0 | 454.0 | 0.4% |
+| 380cst | Houston | 471.0 | 452.0 | 4.2% |
+| 380cst | Singapore | 478.0 | 472.0 | 1.3% |
+| VLSFO | Rotterdam | 547.0 | 522.0 | 4.8% |
+| VLSFO | Houston | 561.0 | 563.0 | -0.4% |
+| VLSFO | Singapore | 585.0 | 562.0 | 4.1% |
+
+## Oil Prices
+
+| Category | Indicator | 10-Jan-25 | 3-Jan-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 79.8 | 76.5 | 4.2% |
+| OIL | WTI | 76.6 | 74.0 | 3.5% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 10-Jan-25 | 03-Jan-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.33 | 18.58 | -1.4% |
+| COSTAMARE INC | NYSE | USD | 12.49 | 13.02 | -4.1% |
+| DANAOS CORPORATION | NYSE | USD | 78.21 | 81.54 | -4.1% |
+| DIANA SHIPPING | NYSE | USD | 1.90 | 1.95 | -2.6% |
+| EUROSEAS LTD. | NASDAQ | USD | 35.08 | 35.98 | -2.5% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.37 | 1.32 | 3.8% |
+| SAFE BULKERS INC | NYSE | USD | 3.54 | 3.54 | 0.0% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 7.23 | 6.87 | 5.2% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 15.25 | 15.22 | 0.2% |
+| STEALTHGAS INC | NASDAQ | USD | 5.93 | 6.01 | -1.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 19.18 | 17.40 | 10.2% |
+
+## Macro-economic headlines
+
+In China, the trade surplus expanded to CNY 752.91 billion in December, up from CNY 692.80 billion in November and surpassing market expectations of CNY 730 billion, marking the highest figure since February. Moreover, December’s CPI remained unchanged compared to the previous month.
+
+In EU, Eurozone November’s PPI increased by 1.6% m-o-m, slightly above the 1.5% forecast, reaching the highest level since Q3 2022.
+
+In Germany, the Trade Surplus of November rose as well to €19.7 billion from €13.4 billion in October, exceeding market forecasts as well (€14.7 billion). This is the largest surplus since August. Additionally, Industrial production expanded by 1.5% m-o-m after two consecutive declines, outperforming the projected 0.5% increase.
+
+In India, Manufacturing Output grew by 5.8% in November, improving from October’s 4.1% and hitting its strongest level since Q4 2023.

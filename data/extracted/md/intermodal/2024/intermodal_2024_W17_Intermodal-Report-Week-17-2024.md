@@ -236,3 +236,77 @@ The ship demolition market is still experiencing limited vessel availability and
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MSC NILGUN | 42,413 | 12,553 | 1994 | AESA SEVILLA, Spain | CONTAINER | $ 565/Ldt | Indian |  |
 | NEW COURAGE | 9,433 | 4,426 | 1994 | MITSUBISHI SHIMONOSEKI, Japan | GENERAL CARGO | $ 540/Ldt | Bangladeshi | Ctg |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 26-Apr-24 | 25-Apr-24 | 24-Apr-24 | 23-Apr-24 | 22-Apr-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.669 | 4.706 | 4.654 | 4.598 | 4.623 | 1.2% |
+| Stock Exchange Data | S&P 500 | 5,099.96 | 5,048.42 | 5,071.63 | 5,070.55 | 5,010.60 | 2.7% |
+| Stock Exchange Data | Nasdaq | 17,718.30 | 17,430.50 | 17,526.80 | 17,471.47 | 17,210.89 | 4.0% |
+| Stock Exchange Data | Dow Jones | 38,239.59 | 38,085.66 | 38,460.66 | 38,503.69 | 38,240.57 | 0.7% |
+| Stock Exchange Data | FTSE 100 | 8,139.83 | 8,078.86 | 8,040.38 | 8,044.81 | 8,023.87 | 3.1% |
+| Stock Exchange Data | FTSE All-Share UK | 4,423.59 | 4,387.94 | 4,374.06 | 4,378.75 | 4,362.60 | 3.0% |
+| Stock Exchange Data | CAC40 | 8,088.24 | 8,016.65 | 8,091.86 | 8,105.78 | 8,040.36 | 0.8% |
+| Stock Exchange Data | Xetra Dax | 18,161.01 | 17,917.28 | 18,088.70 | 18,137.65 | 17,860.80 | 2.4% |
+| Stock Exchange Data | Nikkei | 37,934.76 | 37,628.48 | 38,460.08 | 37,552.16 | 37,438.61 | 2.3% |
+| Stock Exchange Data | Hang Seng | 17,651.15 | 17,284.54 | 37,703.32 | 16,828.93 | 16,511.69 | 8.8% |
+| Stock Exchange Data | DJ US Maritime | 367.64 | 368.17 | 331.70 | 334.62 | 325.43 | 16.9% |
+| Currencies | € / $ | 1.07 | 1.07 | 1.07 | 1.07 | 1.07 | 0.4% |
+| Currencies | £ / $ | 1.25 | 1.25 | 1.25 | 1.24 | 1.23 | 1.0% |
+| Currencies | $ / ¥ | 158.33 | 155.65 | 155.34 | 154.82 | 154.84 | 2.4% |
+| Currencies | $ / NoK | 11.04 | 10.95 | 10.98 | 10.90 | 10.98 | 0.3% |
+| Currencies | Yuan / $ | 7.25 | 7.24 | 7.25 | 7.24 | 7.24 | 0.1% |
+| Currencies | Won / $ | 1,376.43 | 1,371.41 | 1,377.03 | 1,373.05 | 1,378.73 | 0.2% |
+| Currencies | $ INDEX | 105.94 | 105.60 | 105.86 | 105.68 | 106.08 | -0.2% |
+
+## Bunker Prices
+
+| Grade | Port | 26-Apr-24 | 19-Apr-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 754.0 | 734.0 | 2.7% |
+| MGO | Houston | 499.0 | 486.0 | 2.7% |
+| MGO | Singapore | 760.0 | 760.0 | 0.0% |
+| 380cst | Rotterdam | 514.0 | 486.0 | 5.8% |
+| 380cst | Houston | 499.0 | 486.0 | 2.7% |
+| 380cst | Singapore | 525.0 | 512.0 | 2.5% |
+| VLSFO | Rotterdam | 601.0 | 595.0 | 1.0% |
+| VLSFO | Houston | 614.0 | 623.0 | -1.4% |
+| VLSFO | Singapore | 644.0 | 640.0 | 0.6% |
+
+## Oil Prices
+
+| Category | Indicator | 26-Apr-24 | 19-Apr-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 89.5 | 87.3 | 2.5% |
+| OIL | WTI | 83.9 | 83.1 | 0.9% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 26-Apr-24 | 19-Apr-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 16.65 | 16.90 | -1.5% |
+| COSTAMARE INC | NYSE | USD | 11.78 | 10.93 | 7.8% |
+| DANAOS CORPORATION | NYSE | USD | 75.21 | 72.96 | 3.1% |
+| DIANA SHIPPING | NYSE | USD | 2.95 | 2.90 | 1.7% |
+| EUROSEAS LTD. | NASDAQ | USD | 33.91 | 33.11 | 2.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.95 | 2.01 | -3.0% |
+| SAFE BULKERS INC | NYSE | USD | 5.06 | 4.81 | 5.2% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 9.57 | 9.31 | 2.8% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 24.71 | 23.03 | 7.3% |
+| STEALTHGAS INC | NASDAQ | USD | 6.07 | 5.89 | 3.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 25.91 | 24.72 | 4.8% |
+
+## Macro-economic headlines
+
+• In the euro area, HCOB Eurozone Composite PMI for April rose to51.4, fueled by the Services PMI (52.9 in April vs 51.5 the prior month) while the Manufacturing PMI fell to 45.6, from 46.1 in the prior month.
+
+• In US, the S&P Global Composite PMI for April, fell to 50.9, down from 52.1. The Services PMI fell to 50.9 (vs 51.7 in March), while the manufacturing PMI fell to 49.9 (vs 51.7 in March). GDP fell by 1.6% in Q1, compared to the previous quarter.
+
+• In Japan, Services PMI slightly rose to 54.6 in April, compared to 54.1 in the previous month. The Tokyo Core CPI fell to 1.6%, compared to 2.4% in April.
+
+• In China, both the Loan Prime rate (5year) and the Loan Prime Rate stood unchanged at 3.95% and 3.45% respectively.

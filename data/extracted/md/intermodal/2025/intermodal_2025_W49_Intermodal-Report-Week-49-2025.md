@@ -245,3 +245,77 @@ In Turkey, sentiment edged higher, supported by improving conditions in both the
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | MORALITY | 49,474 | 9,824 | 2003 | STX, S. Korea | TANKER | $ 416/Ldt | Indian |
 | SEA STAR | 6,150 | 2,041 | 1980 | MIHO SHIMIZU, Japan | GENERAL CARGO | $ 260/Ldt | Turkish |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 5-Dec-25 | 4-Dec-25 | 3-Dec-25 | 2-Dec-25 | 1-Dec-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.139 | 4.108 | 4.058 | 4.088 | 4.096 | 3.0% |
+| Stock Exchange Data | S&P 500 | 6,870.40 | 6,857.12 | 6,849.72 | 6,829.37 | 6,812.63 | 0.3% |
+| Stock Exchange Data | Nasdaq | 25,692.05 | 25,581.70 | 25,606.55 | 25,555.86 | 25,342.85 | 1.0% |
+| Stock Exchange Data | Dow Jones | 47,954.99 | 47,850.94 | 47,882.90 | 47,474.46 | 47,289.33 | 0.5% |
+| Stock Exchange Data | FTSE 100 | 9,667.01 | 9,710.87 | 9,692.07 | 9,701.80 | 9,702.53 | -0.6% |
+| Stock Exchange Data | FTSE All-Share UK | 5,213.58 | 5,234.31 | 5,223.52 | 5,227.60 | 5,228.96 | -0.5% |
+| Stock Exchange Data | CAC40 | 8,114.74 | 8,122.03 | 8,087.42 | 8,074.61 | 8,097.00 | -0.1% |
+| Stock Exchange Data | Xetra Dax | 24,028.14 | 23,882.03 | 23,693.71 | 23,710.86 | 23,589.44 | 0.8% |
+| Stock Exchange Data | Nikkei | 50,491.87 | 51,028.42 | 49,864.68 | 49,303.45 | 49,303.28 | 0.5% |
+| Stock Exchange Data | Hang Seng | 26,085.08 | 25,935.90 | 25,760.73 | 26,095.05 | 26,033.26 | 0.9% |
+| Stock Exchange Data | DJ US Maritime | 370.66 | 366.43 | 370.79 | 372.37 | 373.29 | -0.5% |
+| Currencies | € / $ | 1.16 | 1.16 | 1.17 | 1.16 | 1.16 | 0.4% |
+| Currencies | £ / $ | 1.33 | 1.33 | 1.34 | 1.32 | 1.32 | 0.7% |
+| Currencies | $ / ¥ | 155.34 | 155.08 | 155.24 | 155.85 | 155.42 | -0.5% |
+| Currencies | $ / NoK | 10.08 | 10.11 | 10.05 | 10.12 | 10.13 | -0.3% |
+| Currencies | Yuan / $ | 7.07 | 7.07 | 7.06 | 7.07 | 7.07 | -0.1% |
+| Currencies | Won / $ | 1,473.39 | 1,474.56 | 1,466.02 | 1,468.38 | 1,471.62 | 0.4% |
+| Currencies | $ INDEX | 98.99 | 98.99 | 98.85 | 99.36 | 99.41 | -0.5% |
+
+## Bunker Prices
+
+| Grade | Port | 5-Dec-25 | 28-Nov-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 636.0 | 654.0 | -2.8% |
+| MGO | Houston | 643.0 | 662.0 | -2.9% |
+| MGO | Singapore | 650.0 | 663.0 | -2.0% |
+| 380cst | Rotterdam | 370.0 | 362.0 | 2.2% |
+| 380cst | Houston | 356.0 | 353.0 | 0.8% |
+| 380cst | Singapore | 350.0 | 353.0 | -0.8% |
+| VLSFO | Rotterdam | 415.0 | 409.0 | 1.5% |
+| VLSFO | Houston | 420.0 | 440.0 | -4.5% |
+| VLSFO | Singapore | 435.0 | 435.0 | 0.0% |
+
+## Oil Prices
+
+| Category | Indicator | 5-Dec-25 | 28-Nov-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 63.8 | 63.2 | 0.9% |
+| OIL | WTI | 60.1 | 58.6 | 2.6% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 05-Dec-25 | 28-Nov-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 20.75 | 20.57 | 0.9% |
+| COSTAMARE INC | NYSE | USD | 16.13 | 15.27 | 5.6% |
+| DANAOS CORPORATION | NYSE | USD | 98.07 | 97.80 | 0.3% |
+| DIANA SHIPPING | NYSE | USD | 1.93 | 1.97 | -2.0% |
+| EUROSEAS LTD. | NASDAQ | USD | 61.78 | 60.29 | 2.5% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.80 | 1.36 | 32.4% |
+| SAFE BULKERS INC | NYSE | USD | 5.31 | 5.29 | 0.4% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 10.52 | 10.57 | -0.5% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 20.45 | 19.90 | 2.8% |
+| STEALTHGAS INC | NASDAQ | USD | 7.03 | 6.86 | 2.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 24.74 | 24.49 | 1.0% |
+
+## Macro-economic headlines
+
+In China the trade surplus widened to $111.68 billion in November, up from $90.07 billion in October and above market expectations of $105 billion. Exports rose by 5.9% y/y, driven largely by stronger shipments to non-US markets such as ASEAN and the EU. outpacing the 1.9% increase of imports.
+
+In Eurozone the GDP expanded by 1.4% y-o-y in Q3 2025, broadly in line with market expectations and only slightly below the Q2 growth rate of 1.5%.
+
+In Germany the trade surplus increased to €16.9 billion in October, from €15.3 billion in September and above estimates of €15.9 billion. The improvement reflected a 1.2% m-o-m decline in imports, while exports edged up by 0.1%.
+
+In United States, the industrial production rose modestly by 0.1% m-o-m in September, matching both market forecasts and the previous month’s performance.

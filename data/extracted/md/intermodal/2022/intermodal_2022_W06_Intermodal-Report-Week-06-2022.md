@@ -339,3 +339,79 @@ The average scrap levels across the main Indian-subcontinent demo nations have s
 | AL SALAM | 47,065 | 9,409 | 2001 | ONOMICHI, Japan | TANKER | $ 662/Ldt | Pakistani | incl. 750mt of bunkers |
 
 © Intermodal Research 15/02/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 11-Feb-22 | 10-Feb-22 | 9-Feb-22 | 8-Feb-22 | 7-Feb-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.955 | 2.031 | 1.929 | 1.954 | 1.916 | 1.3% |
+| Stock Exchange Data | S&P 500 | 4,418.64 | 4,504.08 | 4,587.18 | 4,521.54 | 4,500.53 | -1.8% |
+| Stock Exchange Data | Nasdaq | 13,791.15 | 14,185.64 | 14,490.37 | 14,194.46 | 14,015.67 | -2.2% |
+| Stock Exchange Data | Dow Jones | 34,738.06 | 35,241.59 | 35,768.06 | 35,462.78 | 35,091.13 | -1.0% |
+| Stock Exchange Data | FTSE 100 | 7,661.02 | 7,672.40 | 7,643.42 | 7,567.07 | 7,573.47 | 1.9% |
+| Stock Exchange Data | FTSE All-Share UK | 4,286.38 | 4,296.96 | 4,282.76 | 4,233.62 | 4,236.88 | 1.8% |
+| Stock Exchange Data | CAC40 | 7,011.60 | 7,101.55 | 7,130.88 | 7,028.41 | 7,009.25 | 0.9% |
+| Stock Exchange Data | Xetra Dax | 15,425.12 | 15,490.44 | 15,482.01 | 15,242.38 | 15,206.64 | 1.4% |
+| Stock Exchange Data | Nikkei | 27,696.08 | 27,696.08 | 27,579.87 | 27,284.52 | 27,248.87 | 1.6% |
+| Stock Exchange Data | Hang Seng | 24,924.35 | 24,924.35 | 24,829.99 | 24,329.49 | 24,579.55 | 1.4% |
+| Stock Exchange Data | DJ US Maritime | 208.21 | 206.80 | 209.20 | 208.77 | 209.79 | -2.5% |
+| Currencies | € / $ | 1.14 | 1.14 | 1.14 | 1.14 | 1.14 | -0.9% |
+| Currencies | £ / $ | 1.36 | 1.36 | 1.35 | 1.35 | 1.35 | 0.2% |
+| Currencies | $ / ¥ | 115.60 | 116.05 | 115.59 | 115.58 | 115.07 | 0.3% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.11 | 0.11 | 0.11 | -1.0% |
+| Currencies | Yuan / $ | 6.35 | 6.35 | 6.36 | 6.37 | 6.36 | -0.1% |
+| Currencies | Won / $ | 1,199.80 | 1,199.45 | 1,194.18 | 1,196.51 | 1,197.00 | 0.1% |
+| Currencies | $ INDEX | 96.08 | 95.55 | 95.49 | 95.64 | 95.40 | 0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 11-Feb-22 | 4-Feb-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 814.5 | 828.0 | -1.6% |
+| MGO | Houston | 895.0 | 885.5 | 1.1% |
+| MGO | Singapore | 823.0 | 810.5 | 1.5% |
+| 380cst | Rotterdam | 514.5 | 520.5 | -1.2% |
+| 380cst | Houston | 525.5 | 553.0 | -5.0% |
+| 380cst | Singapore | 516.0 | 524.5 | -1.6% |
+| VLSFO | Rotterdam | 683.5 | 692.0 | -1.2% |
+| VLSFO | Houston | 706.5 | 698.0 | 1.2% |
+| VLSFO | Singapore | 729.0 | 731.5 | -0.3% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 11-Feb-22 | 04-Feb-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 16.08 | 15.80 | 1.8% |
+| COSTAMARE INC | NYSE | USD | 13.85 | 13.14 | 5.4% |
+| DANAOS CORPORATION | NYSE | USD | 98.34 | 95.08 | 3.4% |
+| DIANA SHIPPING | NYSE | USD | 4.16 | 3.75 | 10.9% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 52.32 | 47.23 | 10.8% |
+| EUROSEAS LTD. | NASDAQ | USD | 32.04 | 33.20 | -3.5% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.10 | 1.90 | 10.5% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 3.48 | 3.49 | -0.3% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 31.35 | 30.54 | 2.7% |
+| SAFE BULKERS INC | NYSE | USD | 4.11 | 3.60 | 14.2% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.15 | 1.05 | 9.5% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 26.43 | 23.83 | 10.9% |
+| STEALTHGAS INC | NASDAQ | USD | 2.01 | 2.04 | -1.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 7.50 | 7.31 | 2.6% |
+
+## Market News
+
+“Safe Bulkers enchants Greek retail investors with €100m bond
+
+Safe Bulkers has become the third shipping company to sell bonds on the Athens Exchange.
+
+The Polys Hajioannou-led company successfully raised €100m ($114m) in a sale of unsecured, five-year paper, according to a statement by book runners late on Wednesday.
+
+This is about the same amount and paper as that issued last year by Greek peers Costamare and Capital Product Partners (CPLP), which broke the market open.
+
+However, the Safe Bulkers' bonds met less interest and paid a higher coupon than the two earlier sales.
+
+The owner — with nearly 50 bulkers in the water and under construction — offered bondholders 2.95% interest in an issue oversubscribed by a factor of 1.95 times.
+
+In comparison, Costamare sold its bonds in May at an annual coupon of 2.7% and CPLP in October at 2.65% in deals oversubscribed by between five and seven times...”(TradeWinds)

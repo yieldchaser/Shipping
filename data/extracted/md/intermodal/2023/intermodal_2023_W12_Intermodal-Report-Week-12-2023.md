@@ -333,3 +333,82 @@ The market is currently facing a combination of firm freight rates in all segmen
 | FERRY KUNIGA | 470 | 1,820 | 1987 | HAYASHIKANE, Japan | RO-RO/PASSENGER | undisclosed | Bangladeshi |  |
 
 © Intermodal Research 28/03/2023 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 24-Mar-23 | 23-Mar-23 | 22-Mar-23 | 21-Mar-23 | 20-Mar-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.380 | 3.406 | 3.500 | 3.606 | 3.481 | -0.4% |
+| Stock Exchange Data | S&P 500 | 3,970.99 | 3,948.72 | 3,936.97 | 4,002.87 | 3,990.97 | 1.4% |
+| Stock Exchange Data | Nasdaq | 11,823.96 | 11,787.40 | 11,669.96 | 11,860.11 | 11,675.54 | 1.7% |
+| Stock Exchange Data | Dow Jones | 32,237.53 | 32,105.25 | 32,030.11 | 32,560.60 | 32,244.58 | 1.2% |
+| Stock Exchange Data | FTSE 100 | 7,405.45 | 7,499.60 | 7,566.84 | 7,536.22 | 7,403.85 | 1.0% |
+| Stock Exchange Data | FTSE All-Share UK | 4,039.73 | 4,090.90 | 4,122.70 | 4,109.20 | 4,039.44 | 0.8% |
+| Stock Exchange Data | CAC40 | 7,015.10 | 7,139.25 | 7,131.12 | 7,112.91 | 7,013.14 | 1.3% |
+| Stock Exchange Data | Xetra Dax | 14,957.23 | 15,210.39 | 15,216.19 | 15,195.34 | 14,933.38 | 0.2% |
+| Stock Exchange Data | Nikkei | 27,385.25 | 27,419.61 | 27,466.61 | 26,945.67 | 26,945.67 | 1.6% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 20,049.64 | 19,591.43 | 19,258.76 | 19,000.71 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 218.94 | 218.88 | 226.89 | 226.89 | 221.11 | 2.5% |
+| Currencies | € / $ | 1.08 | 1.08 | 1.09 | 1.08 | 1.07 | 0.0% |
+| Currencies | £ / $ | 1.22 | 1.23 | 1.23 | 1.22 | 1.23 | 0.4% |
+| Currencies | $ / ¥ | 130.75 | 130.79 | 131.19 | 132.35 | 131.39 | -0.8% |
+| Currencies | $ / NoK | 0.0955 | 0.0961 | 0.0957 | 0.0948 | 0.0939 | 2.2% |
+| Currencies | Yuan / $ | 6.87 | 6.82 | 6.88 | 6.88 | 6.88 | -0.3% |
+| Currencies | Won / $ | 1,295.83 | 1,286.64 | 1,298.95 | 1,303.81 | 1,304.92 | -1.0% |
+| Currencies | $ INDEX | 103.12 | 102.53 | 102.35 | 103.26 | 103.28 | -0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 24-Mar-23 | 17-Mar-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 24-Mar-23 | 17-Mar-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 12.70 | 12.01 | 5.7% |
+| COSTAMARE INC | NYSE | USD | 9.20 | 9.08 | 1.3% |
+| DANAOS CORPORATION | NYSE | USD | 52.50 | 51.90 | 1.2% |
+| DIANA SHIPPING | NYSE | USD | 4.03 | 3.71 | 8.6% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 47.60 | 45.28 | 5.1% |
+| EUROSEAS LTD. | NASDAQ | USD | 18.42 | 17.03 | 8.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.11 | 1.09 | 1.8% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.93 | 1.79 | 7.8% |
+| SAFE BULKERS INC | NYSE | USD | 3.64 | 3.33 | 9.3% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 5.55 | 5.47 | 1.5% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 21.31 | 20.46 | 4.2% |
+| STEALTHGAS INC | NASDAQ | USD | 2.58 | 2.59 | -0.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 19.30 | 17.85 | 8.1% |
+
+## Market News
+
+“Teekay Corp buys back $30m of shares and goes for another $30m
+
+Teekay Corp is aiming to hand back more cash to investors through another share buyback.
+
+The New York-listed tanker player said it has completed a $30m repurchase programme that began in August, for the full amount.
+
+The board has now authorised a new buyback scheme targeting another $30m.
+
+In the previous programme, Teekay acquired 6.45m shares, or 6.3% of its equity.
+
+This equated to an average price of $4.64 per share.
+
+The stock closed up 6% at $6.40 on Wednesday.
+
+New repurchase deals will be done from time to time in the open market, through privately negotiated transactions and other means, Teekay said.
+
+The company and sister operation Teekay Tankers manage and operate 65 conventional vessels and other marine assets, including ships run for the Australian...(TradeWinds)

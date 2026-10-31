@@ -242,3 +242,77 @@ Turkish recycling yards staged a notable comeback last week, marked by the final
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AN SHUN | 74,761 | 9,881 | 1998 | NKK, Japan | BC | $412/Ldt | Pakistani | Incl 150Ts ROB |
 | SHENG LE C | 27,940 | 7,125 | 1996 | NAIKAI ZOSEN, Japan | BC | $398/Ldt | undisclosed | Incl 250Ts ROB |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 16-Jan-26 | 15-Jan-26 | 14-Jan-26 | 13-Jan-26 | 12-Jan-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.231 | 4.160 | 4.140 | 4.171 | 4.187 | 1.4% |
+| Stock Exchange Data | S&P 500 | 6,940.01 | 6,944.47 | 6,926.60 | 6,963.74 | 6,977.27 | -0.4% |
+| Stock Exchange Data | Nasdaq | 25,529.26 | 25,547.08 | 25,465.94 | 25,741.95 | 25,787.66 | -0.9% |
+| Stock Exchange Data | Dow Jones | 49,359.33 | 49,442.44 | 49,149.63 | 49,191.63 | 49,590.20 | -0.3% |
+| Stock Exchange Data | FTSE 100 | 10,235.29 | 10,238.94 | 10,184.35 | 10,137.35 | 10,140.70 | 1.1% |
+| Stock Exchange Data | FTSE All-Share UK | 5,517.96 | 5,518.66 | 5,483.97 | 5,460.99 | 5,465.32 | 1.1% |
+| Stock Exchange Data | CAC40 | 8,258.94 | 8,313.12 | 8,330.97 | 8,347.20 | 8,358.76 | -1.2% |
+| Stock Exchange Data | Xetra Dax | 25,297.13 | 25,352.39 | 25,286.24 | 25,420.66 | 25,405.34 | 0.1% |
+| Stock Exchange Data | Nikkei | 53,936.17 | 54,110.50 | 54,341.23 | 53,549.16 | 51,939.89 | 3.8% |
+| Stock Exchange Data | Hang Seng | 26,844.96 | 26,923.62 | 26,999.81 | 26,848.47 | 26,608.48 | 2.3% |
+| Stock Exchange Data | DJ US Maritime | 413.20 | 414.62 | 408.08 | 406.51 | 411.79 | 0.3% |
+| Currencies | € / $ | 1.16 | 1.16 | 1.16 | 1.16 | 1.17 | -0.3% |
+| Currencies | £ / $ | 1.34 | 1.34 | 1.34 | 1.34 | 1.35 | -0.1% |
+| Currencies | $ / ¥ | 158.09 | 158.64 | 158.43 | 159.12 | 158.15 | 0.1% |
+| Currencies | $ / NoK | 10.08 | 10.09 | 10.05 | 10.08 | 10.06 | 0.1% |
+| Currencies | Yuan / $ | 6.97 | 6.97 | 6.97 | 6.98 | 6.97 | -0.1% |
+| Currencies | Won / $ | 1,473.29 | 1,469.97 | 1,462.89 | 1,475.07 | 1,466.87 | 1.1% |
+| Currencies | $ INDEX | 99.39 | 99.32 | 99.13 | 99.13 | 98.86 | 0.3% |
+
+## Bunker Prices
+
+| Grade | Port | 16-Jan-26 | 9-Jan-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 625.0 | 622.0 | 0.5% |
+| MGO | Houston | 608.0 | 603.0 | 0.8% |
+| MGO | Singapore | 613.0 | 596.0 | 2.9% |
+| 380cst | Rotterdam | 366.0 | 353.0 | 3.7% |
+| 380cst | Houston | 334.0 | 322.0 | 3.7% |
+| 380cst | Singapore | 375.0 | 361.0 | 3.9% |
+| VLSFO | Rotterdam | 431.0 | 419.0 | 2.9% |
+| VLSFO | Houston | 412.0 | 411.0 | 0.2% |
+| VLSFO | Singapore | 444.0 | 433.0 | 2.5% |
+
+## Oil Prices
+
+| Category | Indicator | 16-Jan-26 | 9-Jan-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 64.1 | 63.3 | 1.2% |
+| OIL | WTI | 59.4 | 59.1 | 0.5% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 16-Jan-26 | 09-Jan-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 21.51 | 20.15 | 6.7% |
+| COSTAMARE INC | NYSE | USD | 15.51 | 16.19 | -4.2% |
+| DANAOS CORPORATION | NYSE | USD | 99.36 | 98.73 | 0.6% |
+| DIANA SHIPPING | NYSE | USD | 2.05 | 1.86 | 10.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 53.87 | 55.06 | -2.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.67 | 1.65 | 1.2% |
+| SAFE BULKERS INC | NYSE | USD | 5.12 | 5.17 | -1.0% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 9.37 | 9.43 | -0.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 20.37 | 19.64 | 3.7% |
+| STEALTHGAS INC | NASDAQ | USD | 7.84 | 7.86 | -0.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 25.52 | 25.15 | 1.5% |
+
+## Macro-economic headlines
+
+In China, the PBoC kept its benchmark loan rates unchanged for the eighth consecutive month in January, in line with market expectations. The one-year LPR, reference rate for most business and consumer loans, stayed at 3.0%, while the five-year LPR, basis for mortgage pricing, remained at 3.5%.
+
+In Japan, Industrial Production retreated by 2.7% m-o-m in November, close to market forecasts of a 2.6% decline, reversing October’s 1.5% expansion.
+
+In Germany, the CPI remained unchanged m-o-m in December, in line with market expectations, following November’s contraction of 0.2%.
+
+In the United States, Manufacturing Production rose by 0.2% m-o-m in December, defying market expectations of a 0.2% decline, while November remained unchanged.

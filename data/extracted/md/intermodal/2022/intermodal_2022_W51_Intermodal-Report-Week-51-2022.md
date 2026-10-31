@@ -311,3 +311,80 @@ With this turbulent year coming to an end, key fundamentals seem that are holdin
 | JAMILA | 46,601 | 7,765 | 1995 | SANOYAS, Japan | BC | $ 511/Ldt | Pakistani |  |
 
 © Intermodal Research 27/12/2022 6
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 23-Dec-22 | 22-Dec-22 | 21-Dec-22 | 20-Dec-22 | 19-Dec-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.751 | 3.669 | 3.684 | 3.684 | 3.581 | 7.7% |
+| Stock Exchange Data | S&P 500 | 3,844.82 | 3,822.39 | 3,878.44 | 3,821.62 | 3,852.36 | -0.2% |
+| Stock Exchange Data | Nasdaq | 10,497.86 | 10,476.12 | 10,709.37 | 10,547.11 | 10,546.03 | -1.9% |
+| Stock Exchange Data | Dow Jones | 33,203.93 | 33,027.49 | 33,376.48 | 32,849.74 | 32,757.54 | 0.9% |
+| Stock Exchange Data | FTSE 100 | 7,473.01 | 7,469.28 | 7,497.32 | 7,370.62 | 7,361.31 | 1.9% |
+| Stock Exchange Data | FTSE All-Share UK | 4,083.66 | 4,079.25 | 4,095.42 | 4,026.91 | 4,025.87 | 1.8% |
+| Stock Exchange Data | CAC40 | 6,504.90 | 6,517.97 | 6,580.24 | 6,450.43 | 6,473.29 | 0.8% |
+| Stock Exchange Data | Xetra Dax | 13,940.93 | 13,914.07 | 14,097.82 | 13,884.66 | 13,942.87 | 0.0% |
+| Stock Exchange Data | Nikkei | 26,235.25 | 26,507.87 | 26,387.72 | 26,568.03 | 27,237.64 | -3.7% |
+| Stock Exchange Data | Hang Seng | 19,679.22 | 19,679.22 | 19,160.49 | 19,094.80 | 19,352.81 | 1.6% |
+| Stock Exchange Data | DJ US Maritime | 211.43 | 206.04 | 209.92 | 204.24 | 204.86 | 2.3% |
+| Currencies | € / $ | 1.07 | 1.06 | 1.06 | 1.06 | 1.06 | 0.7% |
+| Currencies | £ / $ | 1.21 | 1.20 | 1.21 | 1.22 | 1.22 | -0.7% |
+| Currencies | $ / ¥ | 132.77 | 132.36 | 132.38 | 131.90 | 136.98 | -2.9% |
+| Currencies | $ / NoK | 0.1012 | 0.1013 | 0.1017 | 0.1013 | 0.1010 | 0.1% |
+| Currencies | Yuan / $ | 6.99 | 6.98 | 6.98 | 6.96 | 6.98 | 0.2% |
+| Currencies | Won / $ | 1,280.24 | 1,291.20 | 1,281.13 | 1,283.98 | 1,301.68 | -2.3% |
+| Currencies | $ INDEX | 104.31 | 104.43 | 104.16 | 103.96 | 104.72 | -0.4% |
+
+## Bunker Prices
+
+| Grade | Port | 23-Dec-22 | 16-Dec-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 23-Dec-22 | 16-Dec-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.88 | 14.24 | -2.5% |
+| COSTAMARE INC | NYSE | USD | 9.06 | 8.84 | 2.5% |
+| DANAOS CORPORATION | NYSE | USD | 54.56 | 53.55 | 1.9% |
+| DIANA SHIPPING | NYSE | USD | 3.99 | 3.78 | 5.6% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 51.14 | 49.14 | 4.1% |
+| EUROSEAS LTD. | NASDAQ | USD | 19.31 | 19.95 | -3.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.19 | 1.12 | 6.2% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.70 | 1.73 | -1.7% |
+| SAFE BULKERS INC | NYSE | USD | 2.95 | 2.80 | 5.4% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.57 | 0.51 | 11.8% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 20.36 | 19.54 | 4.2% |
+| STEALTHGAS INC | NASDAQ | USD | 2.72 | 2.96 | -8.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 16.84 | 16.86 | -0.1% |
+
+## Market News
+
+“Seaspan admits defeat in $300m investment-grade bond battle
+
+Giant container ship owner Seaspan Corp has scrapped a meeting at which it was hoping to avoid buying back a $300m issue.
+
+The company, part of US-listed Atlas Corp, wanted to amend the terms of the 6.5% series due in 2026.
+
+Seaspan had even upped its fee for the change from 8% to 8.5% in a bid to bring investors onside.
+
+But the owner said in a filing on Friday that it was withdrawing the proposal.
+
+“As agreement could not be reached with certain bondholders, amounting to more than one third of the outstanding bonds, the company is providing notice that the bondholder vote scheduled for December 16 is cancelled,” Seaspan added.
+
+A two-thirds majority would have been needed to carry the day at any vote.
+
+The amendment was considered necessary due to Seaspan’s imminent $10.9bn takeover by leading shareholders including...(TradeWinds)

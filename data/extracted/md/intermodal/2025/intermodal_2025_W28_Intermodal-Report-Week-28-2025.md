@@ -252,3 +252,77 @@ The Turkish market continues to mirror the subdued tone of previous weeks, with 
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | HYUNDAI COSMOPIA | 77,591 | 34,040 | 2000 | HYUNDAI, S. Korea | GAS TANKER | $580/Ldt | undisclosed | as is Indonesia, incl ROB and 3000mt of aluminum |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 11-Jul-25 | 10-Jul-25 | 9-Jul-25 | 8-Jul-25 | 7-Jul-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.423 | 4.346 | 4.342 | 4.417 | 4.395 | 1.9% |
+| Stock Exchange Data | S&P 500 | 6,259.75 | 6,280.46 | 6,263.26 | 6,225.52 | 6,229.98 | -0.3% |
+| Stock Exchange Data | Nasdaq | 22,780.60 | 22,829.26 | 22,864.91 | 22,702.25 | 22,685.57 | -0.4% |
+| Stock Exchange Data | Dow Jones | 44,371.51 | 44,650.64 | 44,458.30 | 44,240.76 | 44,406.36 | -1.0% |
+| Stock Exchange Data | FTSE 100 | 8,941.12 | 8,975.66 | 8,867.02 | 8,854.18 | 8,806.53 | 1.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,857.64 | 4,876.19 | 4,821.19 | 4,815.58 | 4,791.71 | 1.2% |
+| Stock Exchange Data | CAC40 | 7,829.29 | 7,902.25 | 7,878.46 | 7,766.71 | 7,723.47 | 1.7% |
+| Stock Exchange Data | Xetra Dax | 24,255.31 | 24,456.81 | 24,549.56 | 24,206.91 | 24,073.67 | 2.0% |
+| Stock Exchange Data | Nikkei | 39,569.68 | 39,646.36 | 39,821.28 | 39,688.81 | 39,587.68 | -0.6% |
+| Stock Exchange Data | Hang Seng | 24,139.57 | 24,028.37 | 23,892.32 | 24,148.07 | 23,887.83 | 0.9% |
+| Stock Exchange Data | DJ US Maritime | 383.96 | 384.22 | 382.64 | 384.32 | 380.02 | 0.1% |
+| Currencies | € / $ | 1.17 | 1.17 | 1.17 | 1.17 | 1.17 | -0.8% |
+| Currencies | £ / $ | 1.35 | 1.36 | 1.36 | 1.36 | 1.36 | -1.1% |
+| Currencies | $ / ¥ | 147.40 | 146.25 | 146.31 | 146.55 | 146.02 | 2.0% |
+| Currencies | $ / NoK | 10.10 | 10.06 | 10.09 | 10.09 | 10.13 | 0.4% |
+| Currencies | Yuan / $ | 7.17 | 7.17 | 7.18 | 7.17 | 7.17 | 0.1% |
+| Currencies | Won / $ | 1,378.95 | 1,371.37 | 1,373.77 | 1,369.81 | 1,375.21 | 1.2% |
+| Currencies | $ INDEX | 97.85 | 97.65 | 97.56 | 97.52 | 97.48 | 0.9% |
+
+## Bunker Prices
+
+| Grade | Port | 11-Jul-25 | 4-Jul-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 707.0 | 690.0 | 2.5% |
+| MGO | Houston | 698.0 | 686.0 | 1.7% |
+| MGO | Singapore | 670.0 | 663.0 | 1.1% |
+| 380cst | Rotterdam | 448.0 | 429.0 | 4.4% |
+| 380cst | Houston | 436.0 | 440.0 | -0.9% |
+| 380cst | Singapore | 411.0 | 416.0 | -1.2% |
+| VLSFO | Rotterdam | 509.0 | 502.0 | 1.4% |
+| VLSFO | Houston | 491.0 | 485.0 | 1.2% |
+| VLSFO | Singapore | 520.0 | 526.0 | -1.1% |
+
+## Oil Prices
+
+| Category | Indicator | 11-Jul-25 | 4-Jul-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 70.4 | 68.3 | 3.0% |
+| OIL | WTI | 68.5 | 67.0 | 2.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 11-Jul-25 | 04-Jul-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 24.23 | 23.65 | 2.5% |
+| COSTAMARE INC | NYSE | USD | 9.48 | 9.29 | 2.0% |
+| DANAOS CORPORATION | NYSE | USD | 90.02 | 87.77 | 2.6% |
+| DIANA SHIPPING | NYSE | USD | 1.62 | 1.52 | 6.6% |
+| EUROSEAS LTD. | NASDAQ | USD | 49.11 | 47.51 | 3.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.15 | 1.17 | -1.7% |
+| SAFE BULKERS INC | NYSE | USD | 4.11 | 3.78 | 8.7% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 6.88 | 6.47 | 6.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.52 | 18.04 | 2.7% |
+| STEALTHGAS INC | NASDAQ | USD | 6.76 | 6.44 | 5.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 20.76 | 20.51 | 1.2% |
+
+## Macro-economic headlines
+
+In China the Trade Surplus expanded to $114.8 billion in June, beating both market estimations of $113.2 billion and May’s figure of $103.2 billion. The increase was largely driven by a 5.8% y-o-y rise in exports, supported by the temporary pause in U.S. tariffs.
+
+In India the CPI read 2.10% in June, below market projections and May’s reading, at 2.50% and 2.82% respectively.
+
+In the UK, GDP contracted slightly by 0.1% m-o-m in May, missing market forecasts of a 0.1% increase. However, the decline was less pronounced than in April, which saw a 0.3% reduction.
+
+In Germany, a Trade Surplus of €18.4 billion was recorded for May, exceeding both market expectations and April’s surplus, at €15.7 billion and €14.6 billion respectively. The wider surplus was primarily due to a sharper decline in imports compared to exports.

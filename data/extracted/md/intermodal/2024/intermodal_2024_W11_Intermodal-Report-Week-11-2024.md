@@ -235,3 +235,78 @@ The global ship demolition industry is facing an acute shortage of end-of-life v
 | LIAN FENG 6 | 22,279 | 6,357 | 1999 | WUHU, China | GENERAL CARGO | undisclosed | Bangladeshi |  |
 | BOS LINA | 11,695 | 3,287 | 1991 | HONDA SAIKI, Japan | GENERAL CARGO | 505 | Indian |  |
 | HONG YUN YOU 19 | 6,413 | 2,579 | 1999 | FUJIAN, China | TANKER | undisclosed | Bangladeshi |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 15-Mar-24 | 14-Mar-24 | 13-Mar-24 | 12-Mar-24 | 11-Mar-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.304 | 4.298 | 4.192 | 4.155 | 4.104 | 5.3% |
+| Stock Exchange Data | S&P 500 | 5,117.09 | 5,150.48 | 5,165.31 | 5,175.27 | 5,117.94 | -0.1% |
+| Stock Exchange Data | Nasdaq | 17,808.25 | 18,014.81 | 18,068.47 | 18,219.12 | 17,951.69 | -1.2% |
+| Stock Exchange Data | Dow Jones | 38,714.77 | 38,905.92 | 39,043.39 | 39,005.40 | 38,769.73 | 0.0% |
+| Stock Exchange Data | FTSE 100 | 7,727.42 | 7,743.15 | 7,772.17 | 7,747.81 | 7,669.23 | 0.9% |
+| Stock Exchange Data | FTSE All-Share UK | 4,222.09 | 4,228.42 | 4,243.71 | 4,233.33 | 4,196.01 | 0.7% |
+| Stock Exchange Data | CAC40 | 8,164.35 | 8,161.42 | 8,137.58 | 8,087.48 | 8,019.73 | 1.7% |
+| Stock Exchange Data | Xetra Dax | 17,936.65 | 17,942.04 | 17,961.38 | 17,965.11 | 17,746.27 | 0.7% |
+| Stock Exchange Data | Nikkei | 38,707.64 | 38,807.38 | 38,695.97 | 38,797.51 | 38,820.49 | -2.5% |
+| Stock Exchange Data | Hang Seng | 16,720.89 | 16,961.66 | 37,703.32 | 17,093.50 | 37,963.97 | 2.2% |
+| Stock Exchange Data | DJ US Maritime | 290.01 | 290.01 | 289.39 | 287.88 | 284.07 | 0.5% |
+| Currencies | € / $ | 1.09 | 1.09 | 1.09 | 1.09 | 1.09 | -0.5% |
+| Currencies | £ / $ | 1.27 | 1.28 | 1.28 | 1.28 | 1.28 | -0.9% |
+| Currencies | $ / ¥ | 149.02 | 148.32 | 147.74 | 147.68 | 146.94 | 1.3% |
+| Currencies | $ / NoK | 10.61 | 10.54 | 10.48 | 10.52 | 10.45 | 1.8% |
+| Currencies | Yuan / $ | 7.20 | 7.19 | 7.19 | 7.18 | 7.18 | 0.1% |
+| Currencies | Won / $ | 1,330.63 | 1,323.43 | 1,313.79 | 1,311.68 | 1,310.74 | 1.1% |
+| Currencies | $ INDEX | 103.43 | 103.36 | 102.79 | 102.96 | 102.87 | 0.7% |
+
+## Bunker Prices
+
+| Grade | Port | 15-Mar-24 | 8-Mar-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 771.0 | 759.0 | 1.6% |
+| MGO | Houston | 478.0 | 463.0 | 3.2% |
+| MGO | Singapore | 782.0 | 780.0 | 0.3% |
+| 380cst | Rotterdam | 471.0 | 466.0 | 1.1% |
+| 380cst | Houston | 478.0 | 463.0 | 3.2% |
+| 380cst | Singapore | 483.0 | 469.0 | 3.0% |
+| VLSFO | Rotterdam | 590.0 | 570.0 | 3.5% |
+| VLSFO | Houston | 633.0 | 627.0 | 1.0% |
+| VLSFO | Singapore | 639.0 | 633.0 | 0.9% |
+
+## Oil Prices
+
+| Category | Indicator | 15-Mar-24 | 8-Mar-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 85.3 | 82.1 | 4.0% |
+| OIL | WTI | 81.0 | 78.0 | 3.9% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 15-Mar-24 | 08-Mar-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 17.84 | 17.45 | 2.2% |
+| COSTAMARE INC | NYSE | USD | 11.17 | 11.39 | -1.9% |
+| DANAOS CORPORATION | NYSE | USD | 70.13 | 70.60 | -0.7% |
+| DIANA SHIPPING | NYSE | USD | 2.99 | 3.02 | -1.0% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 61.42 | 64.46 | -4.7% |
+| EUROSEAS LTD. | NASDAQ | USD | 34.57 | 37.56 | -8.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.23 | 2.25 | -0.9% |
+| SAFE BULKERS INC | NYSE | USD | 4.96 | 4.96 | 0.0% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 8.73 | 8.44 | 3.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 23.64 | 24.89 | -5.0% |
+| STEALTHGAS INC | NASDAQ | USD | 6.09 | 6.16 | -1.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 24.27 | 23.78 | 2.1% |
+
+## Macro-economic headlines
+
+• In the euro area, industrial production fell by 3.2% in January.
+
+• In US, CPI came in at 3.2% in February, up slightly from the previous reading. However, the Fed is still targeting three rate cuts in 2024 to bring it down to 4.6%. Retail sales slowed by 0.6% on a monthly basis, while PPI rose by 0.6% in February.
+
+• In Japan, Q4 GDP grew by 0.4% y/y.
+
+• In India, WPI inflation eased by 0.2%, while CPI rose by 5.09% in February.

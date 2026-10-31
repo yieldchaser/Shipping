@@ -298,3 +298,76 @@ The previous week was quiet as long as tonnage supply is concerned as recyclers 
 | OKRA 1 | 171,199 | 20,737 | 1999 | KOYO MIHARA, Japan | BC | undisclosed | Indian |
 
 © Intermodal Research 31/01/2023 6
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 27-Jan-23 | 26-Jan-23 | 25-Jan-23 | 24-Jan-23 | 23-Jan-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.518 | 3.493 | 3.462 | 3.469 | 3.525 | 1.0% |
+| Stock Exchange Data | S&P 500 | 4,070.56 | 4,060.43 | 4,016.22 | 4,016.95 | 3,990.97 | 2.5% |
+| Stock Exchange Data | Nasdaq | 11,621.71 | 11,512.41 | 11,313.36 | 11,334.27 | 11,364.41 | 4.3% |
+| Stock Exchange Data | Dow Jones | 33,978.08 | 33,949.41 | 33,743.84 | 33,733.96 | 33,629.56 | 1.8% |
+| Stock Exchange Data | FTSE 100 | 7,765.15 | 7,761.11 | 7,744.87 | 7,757.36 | 7,784.67 | -0.1% |
+| Stock Exchange Data | FTSE All-Share UK | 4,258.97 | 4,253.35 | 4,241.85 | 4,249.40 | 4,259.96 | 0.2% |
+| Stock Exchange Data | CAC40 | 7,097.21 | 7,095.99 | 7,043.88 | 7,050.48 | 7,032.02 | 1.4% |
+| Stock Exchange Data | Xetra Dax | 15,150.03 | 15,132.85 | 15,081.64 | 15,093.11 | 15,102.95 | 0.3% |
+| Stock Exchange Data | Nikkei | 27,382.56 | 27,362.75 | 27,395.01 | 27,299.19 | 26,906.04 | 1.8% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 22,069.73 | 22,069.73 | 22,688.90 | 22,566.78 | 1.8% |
+| Stock Exchange Data | DJ US Maritime | 213.76 | 213.76 | 213.23 | 210.97 | 210.97 | 2.1% |
+| Currencies | € / $ | 1.09 | 1.09 | 1.09 | 1.09 | 1.09 | 0.0% |
+| Currencies | £ / $ | 1.24 | 1.24 | 1.24 | 1.23 | 1.24 | -0.1% |
+| Currencies | $ / ¥ | 129.89 | 129.78 | 129.25 | 130.21 | 130.55 | 0.3% |
+| Currencies | $ / NoK | 0.1011 | 0.1014 | 0.1011 | 0.1013 | 0.1018 | -1.3% |
+| Currencies | Yuan / $ | 6.78 | 6.78 | 6.78 | 6.78 | 6.78 | 0.0% |
+| Currencies | Won / $ | 1,230.05 | 1,232.20 | 1,232.94 | 1,233.16 | 1,230.28 | -0.1% |
+| Currencies | $ INDEX | 101.93 | 101.84 | 101.64 | 101.92 | 102.14 | -0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 27-Jan-23 | 20-Jan-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 27-Jan-23 | 20-Jan-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.49 | 13.90 | 4.2% |
+| COSTAMARE INC | NYSE | USD | 10.26 | 10.04 | 2.2% |
+| DANAOS CORPORATION | NYSE | USD | 59.34 | 57.09 | 3.9% |
+| DIANA SHIPPING | NYSE | USD | 3.80 | 3.86 | -1.6% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 54.91 | 54.66 | 0.5% |
+| EUROSEAS LTD. | NASDAQ | USD | 19.99 | 19.72 | 1.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.16 | 1.20 | -3.3% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.89 | 1.85 | 2.2% |
+| SAFE BULKERS INC | NYSE | USD | 3.23 | 3.19 | 1.3% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.57 | 0.62 | -8.1% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 23.39 | 22.45 | 4.2% |
+| STEALTHGAS INC | NASDAQ | USD | 2.75 | 2.86 | -3.8% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.00 | 18.20 | -6.6% |
+
+## Market News
+
+“GasLog Partners conflicts committee to review buyout offer from parent
+
+US-listed GasLog Partners has authorised its conflicts committee to examine an offer from parent GasLog to take the company private.
+
+In a fourth-quarter results statement, the company said it has instructed the committee, which consists of only of non-GasLog affiliated directors, to review, evaluate, negotiate and accept or reject the proposed transaction.
+
+On 24 January parent GasLog, which was bought by BlackRock’s Global Energy & Power Infrastructure in 2021 and later de-listed, made a $398m offer to take GasLog Partners private.
+
+GasLog Ltd said it was offering $7.70 per share, including a $2.33 per share special dividend to take the company off public markets.
+
+GasLog Partners said the proposal is non-binding and there can be no assurance that any transaction will materialise...(TradeWinds)

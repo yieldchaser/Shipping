@@ -246,3 +246,68 @@ Owners are still keeping their tonnage away from scrapping. In India, the local 
 | ZHENG HAO | 73,049 | 10,784 | 1997 | Samsung Heavy Inds - Geoje | BC |  |  |  |
 | YANG FAN | 64,976 | 9,687 | 1997 | KOYO MIHARA | BC | $ 540/Ldt | Bangladeshi | as is Batam, including bunkers |
 | Green Explorer | 5,129 | 2,556 | 1991 | Diepen Scheepswerven Bv | REEFER | undisclosed | Indian |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 21-Jul-23 | 20-Jul-23 | 19-Jul-23 | 18-Jul-23 | 17-Jul-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.837 | 3.854 | 3.742 | 3.789 | 3.797 | 0.5% |
+| Stock Exchange Data | S&P 500 | 4,536.34 | 4,534.87 | 4,565.72 | 4,554.98 | 3,990.97 | 0.7% |
+| Stock Exchange Data | Nasdaq | 14,032.81 | 14,063.31 | 14,358.02 | 14,353.64 | 14,244.95 | -0.6% |
+| Stock Exchange Data | Dow Jones | 35,227.69 | 35,225.18 | 35,061.21 | 34,951.93 | 34,585.35 | 2.1% |
+| Stock Exchange Data | FTSE 100 | 7,663.73 | 7,646.05 | 7,588.20 | 7,453.69 | 7,406.42 | 3.1% |
+| Stock Exchange Data | FTSE All-Share UK | 4,182.58 | 4,177.94 | 4,151.54 | 4,066.80 | 4,038.23 | 3.1% |
+| Stock Exchange Data | CAC40 | 7,432.77 | 7,384.91 | 7,326.94 | 7,319.18 | 7,291.66 | 0.8% |
+| Stock Exchange Data | Xetra Dax | 16,177.22 | 16,204.22 | 16,108.93 | 16,125.49 | 16,068.65 | 0.7% |
+| Stock Exchange Data | Nikkei | 32,304.25 | 32,304.25 | 32,490.52 | 32,896.03 | 32,493.89 | -0.6% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 19,075.26 | 18,928.02 | 18,952.31 | 19,015.72 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 251.97 | 251.97 | 250.59 | 248.72 | 247.37 | 1.9% |
+| Currencies | € / $ | 1.11 | 1.11 | 1.12 | 1.12 | 1.12 | -1.0% |
+| Currencies | £ / $ | 1.29 | 1.29 | 1.29 | 1.30 | 1.31 | -1.8% |
+| Currencies | $ / ¥ | 141.78 | 139.87 | 139.61 | 139.03 | 138.73 | 2.2% |
+| Currencies | $ / NoK | 0.0992 | 0.0993 | 0.0996 | 0.0995 | 0.0993 | -0.3% |
+| Currencies | Yuan / $ | 7.19 | 7.18 | 7.23 | 7.18 | 7.17 | 0.7% |
+| Currencies | Won / $ | 1,286.65 | 1,278.73 | 1,266.09 | 1,265.29 | 1,265.80 | 1.4% |
+| Currencies | $ INDEX | 101.07 | 100.88 | 100.28 | 99.94 | 99.84 | 1.2% |
+
+## Bunker Prices
+
+| Grade | Port | 21-Jul-23 | 14-Jul-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 21-Jul-23 | 14-Jul-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.13 | 15.33 | -1.3% |
+| COSTAMARE INC | NYSE | USD | 9.56 | 9.81 | -2.5% |
+| DANAOS CORPORATION | NYSE | USD | 65.83 | 66.66 | -1.2% |
+| DIANA SHIPPING | NYSE | USD | 3.69 | 3.77 | -2.1% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 43.51 | 44.32 | -1.8% |
+| EUROSEAS LTD. | NASDAQ | USD | 20.95 | 20.90 | 0.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 0.89 | 0.87 | 2.3% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.73 | 1.65 | 4.8% |
+| SAFE BULKERS INC | NYSE | USD | 3.24 | 3.29 | -1.5% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 0.99 | 0.99 | 0.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 17.06 | 17.79 | -4.1% |
+| STEALTHGAS INC | NASDAQ | USD | 4.26 | 4.59 | -7.2% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.62 | 17.51 | 0.6% |
+
+## Macro-economic headlines
+
+• US: Retail sales for June rose marginally by 0.2% vs. May, while jobless claims for the week came in at 228K. The Fed is expected to raise interest rates by 0.25% this week.
+
+• UK: UK inflation fell, with the CPI for June at 7.9%, significantly lower than the previous month's 8.7%, showing signs of easing inflation.

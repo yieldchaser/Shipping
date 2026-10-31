@@ -246,3 +246,70 @@ The recycling market remains healthy, although all major markets are growing. Ma
 | FORTUNE TRADER | 24,444 | 7,192 | 1994 | IMABARI, Japan | CONTAINER | $ 612/Ldt | Indian | incl. 100T bunkers |
 | GSS YANGON | 18,166 | 6,121 | 1993 | IMABARI, Japan | CONTAINER | $ 530/Ldt | undisclosed | as is Singapore |
 | MSC MARIA | 8,780 | 3,952 | 1993 | BRAND H. KG, Germany | GENERAL CARGO | $ 547/Ldt | Indian | HKC recycling |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 22-Sep-23 | 21-Sep-23 | 20-Sep-23 | 19-Sep-23 | 18-Sep-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.480 | 4.480 | 4.349 | 4.365 | 4.319 | 3.7% |
+| Stock Exchange Data | S&P 500 | 4,320.06 | 4,330.00 | 4,402.20 | 4,443.95 | 4,453.53 | -2.9% |
+| Stock Exchange Data | Nasdaq | 13,211.81 | 13,223.99 | 13,469.13 | 13,678.19 | 13,710.24 | -3.6% |
+| Stock Exchange Data | Dow Jones | 33,963.84 | 34,070.42 | 34,440.88 | 34,517.73 | 34,624.30 | -1.9% |
+| Stock Exchange Data | FTSE 100 | 7,683.91 | 7,678.62 | 7,731.65 | 7,660.20 | 7,652.94 | -0.4% |
+| Stock Exchange Data | FTSE All-Share UK | 4,172.44 | 4,171.07 | 4,197.78 | 4,155.46 | 4,152.91 | -0.4% |
+| Stock Exchange Data | CAC40 | 7,184.82 | 7,213.90 | 7,330.79 | 7,282.12 | 7,276.14 | -2.6% |
+| Stock Exchange Data | Xetra Dax | 15,557.29 | 15,571.86 | 15,781.59 | 15,664.48 | 15,727.12 | -1.1% |
+| Stock Exchange Data | Nikkei | 32,402.41 | 32,402.41 | 32,571.03 | 33,023.78 | 33,242.59 | -2.5% |
+| Stock Exchange Data | Hang Seng | 18,057.00 | 17,655.41 | 17,885.60 | 17,997.17 | 17,930.55 | 0.7% |
+| Stock Exchange Data | DJ US Maritime | 274.75 | 274.75 | 274.58 | 274.52 | 274.52 | -1.5% |
+| Currencies | € / $ | 1.07 | 1.07 | 1.07 | 1.07 | 1.07 | 0.0% |
+| Currencies | £ / $ | 1.22 | 1.23 | 1.23 | 1.24 | 1.24 | -1.2% |
+| Currencies | $ / ¥ | 148.28 | 147.65 | 148.32 | 147.75 | 147.61 | 0.3% |
+| Currencies | $ / NoK | 0.0928 | 0.0928 | 0.0927 | 0.0928 | 0.0925 | -0.8% |
+| Currencies | Yuan / $ | 7.30 | 7.31 | 7.29 | 7.30 | 7.29 | 0.3% |
+| Currencies | Won / $ | 1,335.66 | 1,341.74 | 1,333.34 | 1,328.91 | 1,331.12 | 0.5% |
+| Currencies | $ INDEX | 105.36 | 105.36 | 105.12 | 105.16 | 105.20 | 0.0% |
+
+## Bunker Prices
+
+| Grade | Port | 22-Sep-23 | 15-Sep-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 22-Sep-23 | 15-Sep-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.99 | 14.35 | -2.5% |
+| COSTAMARE INC | NYSE | USD | 9.32 | 9.57 | -2.6% |
+| DANAOS CORPORATION | NYSE | USD | 66.28 | 64.05 | 3.5% |
+| DIANA SHIPPING | NYSE | USD | 3.47 | 3.58 | -3.1% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 39.92 | 41.64 | -4.1% |
+| EUROSEAS LTD. | NASDAQ | USD | 25.72 | 25.50 | 0.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.49 | 0.96 | 55.2% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.91 | 1.93 | -1.0% |
+| SAFE BULKERS INC | NYSE | USD | 3.25 | 3.15 | 3.2% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 5.03 | 5.38 | -6.5% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.48 | 18.04 | 2.4% |
+| STEALTHGAS INC | NASDAQ | USD | 5.39 | 5.36 | 0.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 19.71 | 19.10 | 3.2% |
+
+## Macro-economic headlines
+
+• US: Building Permits in the US for August rose to by 6.9% at 1.543million, showing a modest rebound in the housing market. On the interest rate front, the central bank left the rate unchanged but hinted for a last hike until the end of 2023.
+
+• EU: The CPI for August rose to 5.2% on an annual basis. On PMIs, the HCOB Composite PMI for September rose to 47.1, up from 46.7 last month. The HCOB Manufacturing PMI stood at 43.3, while the one for services stood at 48.8.
+
+• Japan: Trade data for August cam out during last week, showing a slight decrease of 0.8% in Exports, resulting in a trade balance standing at -930.5 billion, way below market’s expectations and previous reading.

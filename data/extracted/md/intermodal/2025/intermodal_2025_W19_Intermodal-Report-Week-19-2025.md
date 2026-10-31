@@ -238,3 +238,77 @@ It was a relatively quiet week for Turkey's ship recycling market. Buyer interes
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CORSO MARINE | 6,847 | 3,161 | 2000 | SEVERNAYA, Russia | GENERAL CARGO | undisclosed | Indian | as is Alang |
 | DAE WON | 16,466 | 5,237 | 1998 | KURINOURA, Japan | TANKER | $935/Ldt | Indian | Including 390 mt bunkers ROB, StSt |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 9-May-25 | 8-May-25 | 7-May-25 | 6-May-25 | 5-May-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.375 | 4.373 | 4.275 | 4.308 | 4.343 | 1.3% |
+| Stock Exchange Data | S&P 500 | 5,659.91 | 5,663.94 | 5,631.28 | 5,606.91 | 5,650.38 | -0.5% |
+| Stock Exchange Data | Nasdaq | 20,061.45 | 20,063.57 | 19,867.97 | 19,791.35 | 19,967.94 | -0.2% |
+| Stock Exchange Data | Dow Jones | 41,249.38 | 41,368.45 | 41,113.97 | 40,829.00 | 41,218.83 | -0.2% |
+| Stock Exchange Data | FTSE 100 | 8,554.80 | 8,531.61 | 8,559.33 | 8,597.42 | 8,596.35 | -0.5% |
+| Stock Exchange Data | FTSE All-Share UK | 4,641.11 | 4,628.77 | 4,637.91 | 4,656.54 | 4,652.38 | -0.2% |
+| Stock Exchange Data | CAC40 | 7,743.75 | 7,694.44 | 7,626.84 | 7,696.92 | 7,727.93 | -0.3% |
+| Stock Exchange Data | Xetra Dax | 23,499.32 | 23,352.69 | 23,115.96 | 23,249.65 | 23,344.54 | 1.8% |
+| Stock Exchange Data | Nikkei | 37,503.33 | 36,928.63 | 36,779.66 | 36,830.69 | 36,830.69 | 1.8% |
+| Stock Exchange Data | Hang Seng | 22,867.74 | 22,775.92 | 22,691.88 | 22,662.71 | 22,504.68 | 1.6% |
+| Stock Exchange Data | DJ US Maritime | 340.89 | 341.02 | 335.47 | 335.51 | 343.12 | -0.6% |
+| Currencies | € / $ | 1.12 | 1.12 | 1.13 | 1.14 | 1.13 | -0.4% |
+| Currencies | £ / $ | 1.33 | 1.32 | 1.33 | 1.34 | 1.33 | 0.2% |
+| Currencies | $ / ¥ | 145.34 | 145.91 | 143.82 | 142.41 | 143.70 | 0.3% |
+| Currencies | $ / NoK | 10.34 | 10.43 | 10.34 | 10.26 | 10.36 | -0.4% |
+| Currencies | Yuan / $ | 7.24 | 7.23 | 7.23 | 7.22 | 7.27 | -0.5% |
+| Currencies | Won / $ | 1,395.15 | 1,403.82 | 1,397.38 | 1,374.78 | 1,374.04 | -0.2% |
+| Currencies | $ INDEX | 100.34 | 100.64 | 99.61 | 99.24 | 99.83 | 0.3% |
+
+## Bunker Prices
+
+| Grade | Port | 9-May-25 | 2-May-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 595.0 | 581.0 | 2.4% |
+| MGO | Houston | 585.0 | 579.0 | 1.0% |
+| MGO | Singapore | 597.0 | 582.0 | 2.6% |
+| 380cst | Rotterdam | 406.0 | 400.0 | 1.5% |
+| 380cst | Houston | 392.0 | 391.0 | 0.3% |
+| 380cst | Singapore | 416.0 | 412.0 | 1.0% |
+| VLSFO | Rotterdam | 449.0 | 434.0 | 3.5% |
+| VLSFO | Houston | 432.0 | 420.0 | 2.9% |
+| VLSFO | Singapore | 506.0 | 485.0 | 4.3% |
+
+## Oil Prices
+
+| Category | Indicator | 9-May-25 | 2-May-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 63.9 | 61.3 | 4.3% |
+| OIL | WTI | 61.0 | 58.3 | 4.7% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 09-May-25 | 02-May-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 20.53 | 19.75 | 3.9% |
+| COSTAMARE INC | NYSE | USD | 7.77 | 7.10 | 9.4% |
+| DANAOS CORPORATION | NYSE | USD | 83.24 | 82.47 | 0.9% |
+| DIANA SHIPPING | NYSE | USD | 1.39 | 1.47 | -5.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 35.34 | 32.34 | 9.3% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.18 | 1.11 | 5.9% |
+| SAFE BULKERS INC | NYSE | USD | 3.42 | 3.45 | -0.9% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 5.60 | 5.74 | -2.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 15.52 | 15.03 | 3.3% |
+| STEALTHGAS INC | NASDAQ | USD | 5.37 | 5.45 | -1.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.54 | 17.07 | 2.8% |
+
+## Macro-economic headlines
+
+In China, the CPI declined by 0.1% y-o-y in April, marking the third consecutive monthly drop. The figure was in line with both market expectations and March’s reading. Meanwhile, the trade surplus narrowed to $96.18 billion in April, down from $102.64 billion in March and slightly below market forecasts of $97 billion.
+
+In Germany, the trade surplus widened to €21.1 billion in
+
+March, surpassing both market expectations (€19 billion) and the previous month’s figure (€17.7 billion). Additionally, industrial production rose by 3% m-o-m in March, significantly beating forecasts of a 0.9% increase and rebounding from a -1.3% contraction in February.
+
+In USA, following its May meeting, the Federal Reserve opted to maintain interest rates at 4.50% for a fourth consecutive month, in line with market expectations.

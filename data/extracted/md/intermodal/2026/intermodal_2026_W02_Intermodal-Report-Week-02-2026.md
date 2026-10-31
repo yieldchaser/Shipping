@@ -291,3 +291,77 @@ The Turkish market was flat last week, with little activity. In the steel sector
 | DIMPLE | 13,770 | 4,866 | 1992 | SZCZECINSKA, Poland | BC | $ 387,5/Ldt | Indian |
 | SIRRAH | 47,263 | 8,536 | 1999 | OSHIMA, Japan | BC | $ 405/Ldt | Indian |
 | SALTLAKE | 4,269 | 2,100 | 1986 | KOCHI, Japan | REEFER | $ 380/Ldt | Indian |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 9-Jan-26 | 8-Jan-26 | 7-Jan-26 | 6-Jan-26 | 5-Jan-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.171 | 4.183 | 4.138 | 4.179 | 4.163 | -0.4% |
+| Stock Exchange Data | S&P 500 | 6,966.28 | 6,921.46 | 6,920.93 | 6,944.82 | 6,902.05 | 1.6% |
+| Stock Exchange Data | Nasdaq | 25,766.26 | 25,507.10 | 25,653.90 | 25,639.71 | 25,401.32 | 2.2% |
+| Stock Exchange Data | Dow Jones | 49,504.07 | 49,266.11 | 48,996.08 | 49,462.08 | 48,977.18 | 2.3% |
+| Stock Exchange Data | FTSE 100 | 10,124.60 | 10,044.69 | 10,048.21 | 10,122.73 | 10,004.57 | 1.7% |
+| Stock Exchange Data | FTSE All-Share UK | 5,457.79 | 5,415.83 | 5,417.07 | 5,450.03 | 5,388.52 | 1.9% |
+| Stock Exchange Data | CAC40 | 8,362.09 | 8,243.47 | 8,233.92 | 8,237.43 | 8,211.50 | 2.0% |
+| Stock Exchange Data | Xetra Dax | 25,261.64 | 25,127.46 | 25,122.26 | 24,892.20 | 24,868.69 | 2.9% |
+| Stock Exchange Data | Nikkei | 51,939.89 | 51,117.26 | 51,961.98 | 52,518.08 | 51,832.80 | 3.2% |
+| Stock Exchange Data | Hang Seng | 26,231.79 | 26,149.31 | 26,458.95 | 26,710.45 | 26,347.24 | -0.4% |
+| Stock Exchange Data | DJ US Maritime | 411.86 | 413.57 | 404.60 | 388.72 | 384.55 | 12.1% |
+| Currencies | € / $ | 1.16 | 1.17 | 1.17 | 1.17 | 1.17 | -0.7% |
+| Currencies | £ / $ | 1.34 | 1.34 | 1.35 | 1.35 | 1.35 | -0.4% |
+| Currencies | $ / ¥ | 157.88 | 156.87 | 156.76 | 156.62 | 156.38 | 0.7% |
+| Currencies | $ / NoK | 10.08 | 10.07 | 10.07 | 10.04 | 10.01 | 0.1% |
+| Currencies | Yuan / $ | 6.98 | 6.98 | 7.00 | 6.98 | 6.99 | -0.2% |
+| Currencies | Won / $ | 1,457.02 | 1,451.85 | 1,448.64 | 1,446.91 | 1,444.88 | 1.0% |
+| Currencies | $ INDEX | 99.13 | 98.93 | 98.68 | 98.58 | 98.27 | 0.7% |
+
+## Bunker Prices
+
+| Grade | Port | 9-Jan-26 | 2-Jan-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 622.0 | 628.0 | -1.0% |
+| MGO | Houston | 603.0 | 605.0 | -0.3% |
+| MGO | Singapore | 596.0 | 602.0 | -1.0% |
+| 380cst | Rotterdam | 353.0 | 361.0 | -2.2% |
+| 380cst | Houston | 322.0 | 328.0 | -1.8% |
+| 380cst | Singapore | 361.0 | 349.0 | 3.4% |
+| VLSFO | Rotterdam | 419.0 | 412.0 | 1.7% |
+| VLSFO | Houston | 411.0 | 415.0 | -1.0% |
+| VLSFO | Singapore | 433.0 | 423.0 | 2.4% |
+
+## Oil Prices
+
+| Category | Indicator | 9-Jan-26 | 2-Jan-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 63.3 | 60.8 | 4.3% |
+| OIL | WTI | 59.1 | 57.3 | 3.1% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 09-Jan-26 | 02-Jan-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 20.15 | 20.41 | -1.3% |
+| COSTAMARE INC | NYSE | USD | 16.19 | 15.68 | 3.3% |
+| DANAOS CORPORATION | NYSE | USD | 98.73 | 95.25 | 3.7% |
+| DIANA SHIPPING | NYSE | USD | 1.86 | 1.68 | 10.7% |
+| EUROSEAS LTD. | NASDAQ | USD | 55.06 | 54.22 | 1.5% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.65 | 1.66 | -0.6% |
+| SAFE BULKERS INC | NYSE | USD | 5.17 | 4.83 | 7.0% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 9.43 | 9.12 | 3.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.64 | 19.37 | 1.4% |
+| STEALTHGAS INC | NASDAQ | USD | 7.86 | 7.04 | 11.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 25.15 | 21.89 | 14.9% |
+
+## Macro-economic headlines
+
+In China the CPI rose by 0.8% y-o-y in December, in line with market estimations and slightly above than November’s 0.7%.
+
+In Germany, the trade surplus narrowed in November to €13.1bn from €16.9bn recorded in October and below market forecasts of €16.3bn. Exports fell by 2.5% m-o-m, reaching a 13-month low.
+
+In United States, the trade deficit narrowed significantly to $29.4bn in October, the lowest since 2009, down from $52.8bn recorded in October and well below market estimations of a $58.1bn trade gap. Exports rose 4.4% m-o-m, while imports declined 3.2% m-o-m.
+
+In UK, the Composite PMI read 51.4 in December, missing market expectations of 52.1 but above the previous figure of 51.2.

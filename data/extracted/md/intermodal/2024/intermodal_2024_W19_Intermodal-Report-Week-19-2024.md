@@ -247,3 +247,77 @@ ladesh presents a mixed outlook, with prices retaining robustness yet tempered b
 | PINE EXPRESS | 42,968 | 9,543 | 1990 | HASHIHAMA, Japan | BC | $ 560/Ldt | Bangladeshi |  |
 | HONG XI | 10,440 | 3,621 | 2008 | WUHAN SANYANG, China | GENERAL CARGO | $ 515/Ldt | Bangladeshi |  |
 | HEUNG-A TOKYO | 7,040 | 2,446 | 1996 | DAEDONG, S. Korea | CONTAINER | $ 581/Ldt | Bangladeshi |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 17-May-24 | 16-May-24 | 15-May-24 | 14-May-24 | 13-May-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.420 | 4.377 | 4.356 | 4.445 | 4.481 | -1.9% |
+| Stock Exchange Data | S&P 500 | 5,303.27 | 5,297.10 | 5,308.15 | 5,246.68 | 5,221.42 | 1.5% |
+| Stock Exchange Data | Nasdaq | 18,546.23 | 18,557.96 | 18,596.65 | 18,322.77 | 18,198.61 | 2.1% |
+| Stock Exchange Data | Dow Jones | 40,004.35 | 39,869.38 | 39,908.00 | 39,558.11 | 39,431.64 | 1.2% |
+| Stock Exchange Data | FTSE 100 | 8,420.26 | 8,438.65 | 8,445.80 | 8,428.13 | 8,414.99 | -0.2% |
+| Stock Exchange Data | FTSE All-Share UK | 4,584.23 | 4,594.70 | 4,596.71 | 4,583.23 | 4,575.33 | 0.0% |
+| Stock Exchange Data | CAC40 | 8,167.50 | 8,188.49 | 8,239.99 | 8,225.80 | 8,209.28 | -0.6% |
+| Stock Exchange Data | Xetra Dax | 18,704.42 | 18,738.81 | 18,869.36 | 18,716.42 | 18,742.22 | -0.4% |
+| Stock Exchange Data | Nikkei | 38,787.38 | 38,920.26 | 38,380.50 | 38,356.06 | 38,179.46 | 1.5% |
+| Stock Exchange Data | Hang Seng | 19,553.61 | 19,376.53 | 37,703.32 | 19,073.71 | 19,115.06 | 3.1% |
+| Stock Exchange Data | DJ US Maritime | 378.80 | 378.80 | 381.00 | 375.62 | 375.55 | 0.4% |
+| Currencies | € / $ | 1.09 | 1.09 | 1.09 | 1.08 | 1.08 | 0.9% |
+| Currencies | £ / $ | 1.27 | 1.27 | 1.27 | 1.26 | 1.26 | 1.4% |
+| Currencies | $ / ¥ | 155.65 | 155.38 | 154.87 | 156.42 | 156.20 | 0.0% |
+| Currencies | $ / NoK | 10.67 | 10.69 | 10.66 | 10.81 | 10.81 | -1.5% |
+| Currencies | Yuan / $ | 7.22 | 7.22 | 7.22 | 7.23 | 7.23 | 0.0% |
+| Currencies | Won / $ | 1,351.76 | 1,348.49 | 1,352.96 | 1,364.79 | 1,366.11 | -1.3% |
+| Currencies | $ INDEX | 104.45 | 104.46 | 104.35 | 105.01 | 105.22 | -0.8% |
+
+## Bunker Prices
+
+| Grade | Port | 17-May-24 | 10-May-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 745.0 | 735.0 | 1.4% |
+| MGO | Houston | 483.0 | 503.0 | -4.0% |
+| MGO | Singapore | 721.0 | 733.0 | -1.6% |
+| 380cst | Rotterdam | 468.0 | 482.0 | -2.9% |
+| 380cst | Houston | 483.0 | 503.0 | -4.0% |
+| 380cst | Singapore | 524.0 | 530.0 | -1.1% |
+| VLSFO | Rotterdam | 562.0 | 566.0 | -0.7% |
+| VLSFO | Houston | 581.0 | 586.0 | -0.9% |
+| VLSFO | Singapore | 617.0 | 632.0 | -2.4% |
+
+## Oil Prices
+
+| Category | Indicator | 17-May-24 | 10-May-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 84.0 | 82.8 | 1.4% |
+| OIL | WTI | 80.1 | 78.3 | 2.3% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 17-May-24 | 10-May-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 16.21 | 16.28 | -0.4% |
+| COSTAMARE INC | NYSE | USD | 14.65 | 13.37 | 9.6% |
+| DANAOS CORPORATION | NYSE | USD | 85.15 | 82.82 | 2.8% |
+| DIANA SHIPPING | NYSE | USD | 3.15 | 3.08 | 2.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 38.62 | 37.70 | 2.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.11 | 2.05 | 2.9% |
+| SAFE BULKERS INC | NYSE | USD | 5.57 | 5.44 | 2.4% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 12.03 | 10.55 | 14.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 26.05 | 25.67 | 1.5% |
+| STEALTHGAS INC | NASDAQ | USD | 7.02 | 6.52 | 7.7% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 30.17 | 28.75 | 4.9% |
+
+## Macro-economic headlines
+
+• In the euro area, Q1 GDP was up by 0.4% on an annual basis and 0.3% on the quarter. CPI data showed a 0.6% m-o-m increase and 2.4% y-o-y increase in April.
+
+• In US, PPI for April was up by 0.5% on a monthly basis. April CPI showed a marginal increase of 0.3% on the month, while it was up by 3.6% on the year.
+
+• In India, CPI reduced slightly to 4.83% in April, compared to the same period last year. The Wholesale Price Index increased by 1.26% y-o-y in April compared to last year.
+
+• In China, Industrial Production was up by 6.7% in April, compared to April-23, while fixed asset investments were up by 4.2% y-o-y in April. Last, unemployment rate fell marginally to 5% in the same month.

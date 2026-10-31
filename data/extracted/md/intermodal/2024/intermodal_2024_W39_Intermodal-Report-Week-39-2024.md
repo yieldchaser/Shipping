@@ -234,3 +234,77 @@ The ship recycling market showed mixed dynamics last week, with India leading th
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MY MERAY | 39,110 | 6,978 | 1992 | IHI, Japan | BC | $ 480/Ldt | Indian | incl 150 Ts bunkers |
 | ANDULUS 1 | 28,399 | 6,064 | 1995 | IMABARI, Japan | BC | $ 470/Ldt | Indian |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 27-Sep-24 | 26-Sep-24 | 25-Sep-24 | 24-Sep-24 | 23-Sep-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.749 | 3.789 | 3.781 | 3.736 | 3.738 | 0.6% |
+| Stock Exchange Data | S&P 500 | 5,738.17 | 5,745.37 | 5,722.26 | 5,732.93 | 5,718.57 | 0.6% |
+| Stock Exchange Data | Nasdaq | 20,008.62 | 20,115.54 | 19,972.61 | 19,944.84 | 19,852.20 | 1.1% |
+| Stock Exchange Data | Dow Jones | 42,313.00 | 42,175.11 | 41,914.75 | 42,208.22 | 42,124.65 | 0.6% |
+| Stock Exchange Data | FTSE 100 | 8,320.76 | 8,284.91 | 8,268.70 | 8,282.76 | 8,259.71 | 1.1% |
+| Stock Exchange Data | FTSE All-Share UK | 4,555.44 | 4,531.55 | 4,516.21 | 4,523.37 | 4,515.00 | 1.2% |
+| Stock Exchange Data | CAC40 | 7,791.79 | 7,742.09 | 7,565.62 | 7,604.01 | 7,508.08 | 3.9% |
+| Stock Exchange Data | Xetra Dax | 19,473.63 | 19,238.36 | 18,918.50 | 18,996.63 | 18,846.79 | 4.0% |
+| Stock Exchange Data | Nikkei | 39,829.56 | 38,925.63 | 37,870.26 | 37,940.59 | mrkt closed | 5.6% |
+| Stock Exchange Data | Hang Seng | 20,632.30 | 19,924.58 | 19,129.10 | 19,000.56 | 18,247.11 | 13.0% |
+| Stock Exchange Data | DJ US Maritime | 411.40 | 403.19 | 405.06 | 409.69 | 408.94 | 0.7% |
+| Currencies | € / $ | 1.12 | 1.12 | 1.11 | 1.12 | 1.11 | 0.0% |
+| Currencies | £ / $ | 1.34 | 1.34 | 1.33 | 1.34 | 1.33 | 0.4% |
+| Currencies | $ / ¥ | 142.19 | 144.80 | 144.75 | 143.21 | 143.60 | -1.2% |
+| Currencies | $ / NoK | 10.50 | 10.53 | 10.57 | 10.40 | 10.48 | 0.3% |
+| Currencies | Yuan / $ | 7.01 | 7.01 | 7.03 | 7.03 | 7.05 | -0.6% |
+| Currencies | Won / $ | 1,308.30 | 1,312.72 | 1,333.54 | 1,325.18 | 1,333.62 | -1.8% |
+| Currencies | $ INDEX | 100.38 | 100.52 | 100.91 | 100.47 | 100.85 | -0.3% |
+
+## Bunker Prices
+
+| Grade | Port | 27-Sep-24 | 20-Sep-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 610.0 | 622.0 | -1.9% |
+| MGO | Houston | 636.0 | 644.0 | -1.2% |
+| MGO | Singapore | 625.0 | 625.0 | 0.0% |
+| 380cst | Rotterdam | 437.0 | 436.0 | 0.2% |
+| 380cst | Houston | 417.0 | 423.0 | -1.4% |
+| 380cst | Singapore | 439.0 | 477.0 | -8.0% |
+| VLSFO | Rotterdam | 517.0 | 519.0 | -0.4% |
+| VLSFO | Houston | 501.0 | 508.0 | -1.4% |
+| VLSFO | Singapore | 571.0 | 595.0 | -4.0% |
+
+## Oil Prices
+
+| Category | Indicator | 27-Sep-24 | 20-Sep-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 72.0 | 74.5 | -3.4% |
+| OIL | WTI | 68.2 | 71.9 | -5.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 27-Sep-24 | 20-Sep-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.70 | 17.48 | 7.0% |
+| COSTAMARE INC | NYSE | USD | 15.53 | 14.43 | 7.6% |
+| DANAOS CORPORATION | NYSE | USD | 85.98 | 80.74 | 6.5% |
+| DIANA SHIPPING | NYSE | USD | 2.53 | 2.38 | 6.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 49.42 | 46.65 | 5.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.98 | 2.18 | -9.2% |
+| SAFE BULKERS INC | NYSE | USD | 5.16 | 4.84 | 6.6% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 12.08 | 11.34 | 6.5% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 23.54 | 21.59 | 9.0% |
+| STEALTHGAS INC | NASDAQ | USD | 6.86 | 6.87 | -0.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 25.41 | 25.04 | 1.5% |
+
+## Macro-economic headlines
+
+In US, the S&P Global US Manufacturing PMI for September fell to 47 (vs 47.9). The Services PMI on the other hand, fell to 55.4 (vs 55.7). USAs GDP rose by 3% in Q2 on a quarterly basis.
+
+In China, the PBoC cut the reserve requirement ratio (RRR) for banks by 0.5% to release 1 trillion yuan ($142B) in liquidity. The central bank also lowered the seven-day reverse repurchase rate by 20 basis points to 1.5%. Additionally, mortgage rates for existing loans were reduced by 0.5%, while the minimum down payment for second homes was cut from 25% to 15%.
+
+In Japan, the au Jibun Bank Japan Services PMI for September rose to 53.9 (vs 53.7). The Tokyo Core CPI fell to 2%in September on an annual basis.
+
+In the EU, the HCOB Eurozone Composite PMI for September fell to 48.9 (vs 51). Both Manufacturing and Services PMIs were down, standing at 44.8 and 50.5.

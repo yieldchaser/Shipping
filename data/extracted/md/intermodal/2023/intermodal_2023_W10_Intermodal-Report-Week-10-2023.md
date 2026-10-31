@@ -327,3 +327,78 @@ Another strong week for the demolition market with a healthy number of deals mat
 | LEVANT HORIZON | 6,917 | 3,391 | 1997 | SELAH, Turkey | GENERAL CARGO | $ 585/Ldt | Indian | incl. 170 MT ROB |
 
 © Intermodal Research 14/03/2023 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 10-Mar-23 | 9-Mar-23 | 8-Mar-23 | 7-Mar-23 | 6-Mar-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.695 | 3.925 | 3.976 | 3.975 | 3.983 | -6.8% |
+| Stock Exchange Data | S&P 500 | 3,861.59 | 3,918.32 | 3,992.01 | 3,986.37 | 3,990.97 | -4.5% |
+| Stock Exchange Data | Nasdaq | 11,138.89 | 11,338.36 | 11,576.00 | 11,530.33 | 11,675.74 | -4.7% |
+| Stock Exchange Data | Dow Jones | 31,909.64 | 32,254.86 | 32,798.40 | 32,856.46 | 33,431.44 | -4.4% |
+| Stock Exchange Data | FTSE 100 | 7,748.35 | 7,879.98 | 7,929.92 | 7,919.48 | 7,929.79 | -2.5% |
+| Stock Exchange Data | FTSE All-Share UK | 4,226.46 | 4,298.63 | 4,327.19 | 4,326.07 | 4,334.66 | -2.6% |
+| Stock Exchange Data | CAC40 | 7,220.67 | 7,315.88 | 7,324.76 | 7,339.27 | 7,373.21 | -1.7% |
+| Stock Exchange Data | Xetra Dax | 15,427.97 | 15,633.21 | 15,631.87 | 15,559.53 | 15,653.58 | -1.4% |
+| Stock Exchange Data | Nikkei | 28,143.97 | 28,623.15 | 28,444.19 | 28,309.16 | 28,237.78 | -0.3% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 19,925.74 | 20,051.25 | 20,534.48 | 20,603.19 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 231.88 | 237.43 | 240.58 | 240.58 | 246.16 | -6.6% |
+| Currencies | € / $ | 1.07 | 1.06 | 1.05 | 1.05 | 1.07 | 0.1% |
+| Currencies | £ / $ | 1.20 | 1.19 | 1.18 | 1.18 | 1.20 | 0.0% |
+| Currencies | $ / ¥ | 135.00 | 136.40 | 137.22 | 137.39 | 135.99 | -0.6% |
+| Currencies | $ / NoK | 0.0947 | 0.0938 | 0.0937 | 0.0935 | 0.0960 | -1.7% |
+| Currencies | Yuan / $ | 6.91 | 6.96 | 6.95 | 6.96 | 6.93 | 0.0% |
+| Currencies | Won / $ | 1,320.63 | 1,325.90 | 1,316.80 | 1,318.20 | 1,299.35 | 1.9% |
+| Currencies | $ INDEX | 104.58 | 105.31 | 105.66 | 105.61 | 104.35 | 0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 10-Mar-23 | 3-Mar-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 10-Mar-23 | 03-Mar-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.35 | 14.77 | -9.6% |
+| COSTAMARE INC | NYSE | USD | 9.85 | 10.58 | -6.9% |
+| DANAOS CORPORATION | NYSE | USD | 55.50 | 58.98 | -5.9% |
+| DIANA SHIPPING | NYSE | USD | 4.08 | 4.70 | -13.2% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 51.06 | 55.39 | -7.8% |
+| EUROSEAS LTD. | NASDAQ | USD | 18.56 | 20.03 | -7.3% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.10 | 1.18 | -6.8% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.20 | 2.83 | -22.3% |
+| SAFE BULKERS INC | NYSE | USD | 3.58 | 3.77 | -5.0% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 6.31 | 6.79 | -7.1% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 21.68 | 23.73 | -8.6% |
+| STEALTHGAS INC | NASDAQ | USD | 2.86 | 2.99 | -4.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 23.11 | 24.51 | -5.7% |
+
+## Market News
+
+“Japanese shipping giant NYK Line reveals $1.4bn treasury stock acquisition as it launches business plan
+
+NYK Line has allocated ¥200bn ($1.4bn) to acquire treasury stocks in its new medium-term business plan “Sail Green, Drive Transformations 2026 — a Passion for Planetary Wellbeing”.
+
+The Tokyo Stock Exchange-listed company said it would acquire the shares in 2023 and 2024 as part of its aim to improve the capital efficiency of the company.
+
+Details of shareholder returns will be made at its annual earnings announcement.
+
+Last year, compatriot company K Line also announced a ¥100bn share buy-back programme.
+
+Under the new business plan, NYK hopes to reward shareholders by increasing its payout ratio from 25% to 30% and setting a minimum dividend of ¥100 per share.
+
+NYK is lining up a total of ¥1.2trn in capital and business development investment to 2026 under the plan...(TradeWinds)

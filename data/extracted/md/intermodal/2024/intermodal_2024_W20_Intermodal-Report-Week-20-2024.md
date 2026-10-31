@@ -233,3 +233,77 @@ Another subdued week for the recycling industry with signs of recovery, particul
 | SURYA AKI | 11,612 | 8,168 | 1996 | KAWASAKI, Japan | GAS TANKER | $ 660/Ldt | undisclosed | HKC recycling & 1100 bunkers |
 | BAO DI LONG 8 | 10,327 | 3,133 | 2006 | LINHAI HONGZHOU, China | GENERAL CARGO | $ 485/Ldt | Bangladeshi |  |
 | SKYMOON KING | 4,336 | 1,240 | 1988 | ZHONGHUA, China | GENERAL CARGO | undisclosed | Turkish |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 24-May-24 | 23-May-24 | 22-May-24 | 21-May-24 | 20-May-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.473 | 4.475 | 4.434 | 4.414 | 4.437 | 1.2% |
+| Stock Exchange Data | S&P 500 | 5,304.72 | 5,267.84 | 5,307.01 | 5,321.41 | 5,308.13 | 0.0% |
+| Stock Exchange Data | Nasdaq | 18,808.35 | 18,623.39 | 18,705.20 | 18,713.80 | 18,674.19 | 1.4% |
+| Stock Exchange Data | Dow Jones | 39,069.20 | 39,065.26 | 39,671.50 | 39,873.58 | 39,807.69 | -2.3% |
+| Stock Exchange Data | FTSE 100 | 8,317.59 | 8,339.23 | 8,370.33 | 8,416.45 | 8,424.20 | -1.2% |
+| Stock Exchange Data | FTSE All-Share UK | 4,538.02 | 4,543.84 | 4,560.55 | 4,584.40 | 4,590.38 | -1.0% |
+| Stock Exchange Data | CAC40 | 8,094.97 | 8,102.33 | 8,092.11 | 8,141.46 | 8,195.97 | -0.9% |
+| Stock Exchange Data | Xetra Dax | 18,693.37 | 18,691.32 | 18,680.20 | 18,726.76 | 18,768.96 | -0.1% |
+| Stock Exchange Data | Nikkei | 38,646.11 | 39,103.22 | 38,617.10 | 38,946.93 | 39,069.68 | -0.4% |
+| Stock Exchange Data | Hang Seng | 18,608.94 | 18,868.71 | 19,195.60 | 19,220.62 | 19,636.22 | -4.8% |
+| Stock Exchange Data | DJ US Maritime | 401.75 | 397.81 | 400.99 | 399.62 | 389.28 | 4.1% |
+| Currencies | € / $ | 1.08 | 1.08 | 1.08 | 1.09 | 1.09 | -0.2% |
+| Currencies | £ / $ | 1.27 | 1.27 | 1.27 | 1.27 | 1.27 | 0.3% |
+| Currencies | $ / ¥ | 156.99 | 156.93 | 156.77 | 156.15 | 156.24 | 0.9% |
+| Currencies | $ / NoK | 10.58 | 10.67 | 10.71 | 10.67 | 10.70 | -0.8% |
+| Currencies | Yuan / $ | 7.24 | 7.24 | 7.24 | 7.24 | 7.23 | 0.3% |
+| Currencies | Won / $ | 1,365.93 | 1,367.34 | 1,364.73 | 1,363.00 | 1,359.97 | 1.0% |
+| Currencies | $ INDEX | 104.72 | 105.11 | 104.93 | 104.66 | 104.57 | 0.3% |
+
+## Bunker Prices
+
+| Grade | Port | 24-May-24 | 17-May-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 728.0 | 745.0 | -2.3% |
+| MGO | Houston | 481.0 | 483.0 | -0.4% |
+| MGO | Singapore | 710.0 | 721.0 | -1.5% |
+| 380cst | Rotterdam | 468.0 | 468.0 | 0.0% |
+| 380cst | Houston | 481.0 | 483.0 | -0.4% |
+| 380cst | Singapore | 516.0 | 524.0 | -1.5% |
+| VLSFO | Rotterdam | 540.0 | 562.0 | -3.9% |
+| VLSFO | Houston | 577.0 | 581.0 | -0.7% |
+| VLSFO | Singapore | 590.0 | 617.0 | -4.4% |
+
+## Oil Prices
+
+| Category | Indicator | 24-May-24 | 17-May-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 82.1 | 84.0 | -2.2% |
+| OIL | WTI | 77.7 | 80.1 | -2.9% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 24-May-24 | 17-May-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 17.53 | 16.21 | 8.1% |
+| COSTAMARE INC | NYSE | USD | 15.07 | 14.65 | 2.9% |
+| DANAOS CORPORATION | NYSE | USD | 90.59 | 85.15 | 6.4% |
+| DIANA SHIPPING | NYSE | USD | 3.15 | 3.15 | 0.0% |
+| EUROSEAS LTD. | NASDAQ | USD | 37.73 | 38.62 | -2.3% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.25 | 2.11 | 6.6% |
+| SAFE BULKERS INC | NYSE | USD | 5.40 | 5.57 | -3.1% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 12.01 | 12.03 | -0.2% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 26.99 | 26.05 | 3.6% |
+| STEALTHGAS INC | NASDAQ | USD | 7.37 | 7.02 | 5.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 30.89 | 30.17 | 2.4% |
+
+## Macro-economic headlines
+
+• In the euro area, PMI data for May was out last week and it showed a resilient EU economy. The HCOB composite PMI rose to 52.3 (vs 51.7 in April). The manufacturing PMI was 47.4 (vs 45.7), while Services PMI stood at unchanged at 53.3. German GDP was up by 0.2% q/q in Q1, while it fell by - 0.2% on the year.
+
+• In US, S&P Global PMI data was positive as well, as the Composite PMI rose to 54.4 (vs 51.3 in April), manufacturing and Services stood at 50.9 and 54.8, both up from last month.
+
+• In UK, stood at 2.3% in April, up by 0.3% from March, showing that BoE is controlling inflation. The UK PM, Rishi Sunak, called elections in the 4th July.
+
+• In China, People's Bank of China Loan Prime Rate stood unchanged at 3.45%.

@@ -269,3 +269,77 @@ As we approach the end of 2024, the recycling markets have shown limited sales a
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | GUO YUAN 9 | 48,218 | 9,326 | 1994 | DANYARD, Denmark | BC | $ 465/Ldt | Bangladeshi |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 20-Dec-24 | 19-Dec-24 | 18-Dec-24 | 17-Dec-24 | 16-Dec-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.524 | 4.570 | 4.498 | 4.385 | 4.399 | 2.8% |
+| Stock Exchange Data | S&P 500 | 5,930.85 | 5,867.08 | 5,872.16 | 6,050.61 | 6,074.08 | -2.0% |
+| Stock Exchange Data | Nasdaq | 21,289.15 | 21,110.51 | 21,209.32 | 22,001.08 | 22,096.66 | -2.3% |
+| Stock Exchange Data | Dow Jones | 42,840.26 | 42,342.24 | 42,326.87 | 43,449.90 | 43,717.48 | -2.3% |
+| Stock Exchange Data | FTSE 100 | 8,084.61 | 8,105.32 | 8,199.11 | 8,195.20 | 8,262.05 | -2.6% |
+| Stock Exchange Data | FTSE All-Share UK | 4,421.11 | 4,428.91 | 4,478.99 | 4,475.55 | 4,515.16 | -2.5% |
+| Stock Exchange Data | CAC40 | 7,274.48 | 7,294.37 | 7,384.62 | 7,365.70 | 7,357.08 | -1.8% |
+| Stock Exchange Data | Xetra Dax | 19,884.75 | 19,969.86 | 20,242.57 | 20,246.37 | 20,313.81 | -2.6% |
+| Stock Exchange Data | Nikkei | 38,701.90 | 38,813.58 | 39,081.71 | 39,364.68 | 39,457.49 | -1.9% |
+| Stock Exchange Data | Hang Seng | 19,720.70 | 19,752.51 | 19,864.55 | 19,700.48 | 19,795.49 | -1.3% |
+| Stock Exchange Data | DJ US Maritime | 341.84 | 349.16 | 346.73 | 363.64 | 373.32 | -11.3% |
+| Currencies | € / $ | 1.04 | 1.04 | 1.04 | 1.05 | 1.05 | -0.7% |
+| Currencies | £ / $ | 1.26 | 1.25 | 1.26 | 1.27 | 1.27 | -0.4% |
+| Currencies | $ / ¥ | 156.41 | 157.43 | 154.80 | 153.48 | 154.15 | 1.8% |
+| Currencies | $ / NoK | 11.28 | 11.43 | 11.38 | 11.19 | 11.14 | 1.4% |
+| Currencies | Yuan / $ | 7.30 | 7.30 | 7.29 | 7.28 | 7.28 | 0.3% |
+| Currencies | Won / $ | 1,444.57 | 1,444.52 | 1,452.70 | 1,437.39 | 1,436.81 | 0.7% |
+| Currencies | $ INDEX | 107.62 | 108.41 | 108.03 | 106.96 | 106.86 | 0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 20-Dec-24 | 13-Dec-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 638.0 | 650.0 | -1.8% |
+| MGO | Houston | 670.0 | 677.0 | -1.0% |
+| MGO | Singapore | 667.0 | 674.0 | -1.0% |
+| 380cst | Rotterdam | 453.0 | 456.0 | -0.7% |
+| 380cst | Houston | 452.0 | 471.0 | -4.0% |
+| 380cst | Singapore | 460.0 | 460.0 | 0.0% |
+| VLSFO | Rotterdam | 505.0 | 511.0 | -1.2% |
+| VLSFO | Houston | 538.0 | 546.0 | -1.5% |
+| VLSFO | Singapore | 544.0 | 544.0 | 0.0% |
+
+## Oil Prices
+
+| Category | Indicator | 20-Dec-24 | 13-Dec-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 72.9 | 74.5 | -2.1% |
+| OIL | WTI | 69.5 | 71.3 | -2.6% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 20-Dec-24 | 13-Dec-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.49 | 18.60 | -0.6% |
+| COSTAMARE INC | NYSE | USD | 12.39 | 12.95 | -4.3% |
+| DANAOS CORPORATION | NYSE | USD | 76.40 | 79.21 | -3.5% |
+| DIANA SHIPPING | NYSE | USD | 1.85 | 1.85 | 0.0% |
+| EUROSEAS LTD. | NASDAQ | USD | 34.22 | 35.71 | -4.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.14 | 1.21 | -5.5% |
+| SAFE BULKERS INC | NYSE | USD | 3.51 | 3.68 | -4.6% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 6.95 | 7.31 | -4.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 14.80 | 15.15 | -2.3% |
+| STEALTHGAS INC | NASDAQ | USD | 4.88 | 5.09 | -4.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 16.14 | 17.97 | -10.2% |
+
+## Macro-economic headlines
+
+In China, the People’s Bank of China, kept the Loan Prime Rate steady at 3.1% for the third consecutive month in December, aligning with market expectations.
+
+In EU, a Trade Surplus of €6.8 billion was recorded in October, falling short of market expectations (€11.7 billion) and below September’s figure (€12.5 billion). Moreover, the November CPI rose by 2.2% y-o-y, below market projections of 2.3% and exceeding October’s 2% increase.
+
+In US, the GDP in Q3 2024 grew by 3.1% on a quarterly basis, surpassing market forecasts of 2.8% and closely to Q2 growth rate (3%). The industrial production in November declined by 0.1%, contrary to estimations for a 0.3% rise and improved comparing to October’s 0.3% decrease.
+
+In Japan, November’s trade gap was ¥117.6 billion supported by robust exports, smaller than market forecasts of a ¥688.9 billion deficit and an improvement from October's ¥461.2 billion deficit.

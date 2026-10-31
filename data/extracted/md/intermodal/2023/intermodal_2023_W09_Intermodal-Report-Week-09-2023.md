@@ -322,3 +322,78 @@ The demolition market activity was steady last week, with Bangladesh being the p
 | MONET | 3,201 | 1,816 | 1995 | KANREI NARUTO, Japan | GAS TANKER | undisclosed | Indian |  |
 
 © Intermodal Research 07/03/2023 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 3-Mar-23 | 2-Mar-23 | 1-Mar-23 | 28-Feb-23 | 27-Feb-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.964 | 4.073 | 3.994 | 3.916 | 3.922 | 0.4% |
+| Stock Exchange Data | S&P 500 | 4,045.64 | 3,981.35 | 3,951.39 | 3,970.15 | 3,990.97 | 1.6% |
+| Stock Exchange Data | Nasdaq | 11,689.01 | 11,462.98 | 11,379.48 | 11,455.54 | 11,466.98 | 1.9% |
+| Stock Exchange Data | Dow Jones | 33,390.97 | 33,003.57 | 32,661.84 | 32,656.70 | 32,889.09 | 1.5% |
+| Stock Exchange Data | FTSE 100 | 7,947.11 | 7,944.04 | 7,914.93 | 7,876.28 | 7,935.11 | 0.9% |
+| Stock Exchange Data | FTSE All-Share UK | 4,338.33 | 4,334.01 | 4,321.10 | 4,304.48 | 4,331.26 | 0.9% |
+| Stock Exchange Data | CAC40 | 7,348.12 | 7,284.22 | 7,234.25 | 7,267.93 | 7,295.55 | 2.2% |
+| Stock Exchange Data | Xetra Dax | 15,578.39 | 15,327.64 | 15,305.02 | 15,365.14 | 15,381.43 | 1.3% |
+| Stock Exchange Data | Nikkei | 27,927.47 | 27,498.87 | 27,516.53 | 27,445.56 | 27,423.96 | 1.8% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 20,429.46 | 20,619.71 | 19,785.94 | 19,943.51 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 248.29 | 243.79 | 239.85 | 238.08 | 239.03 | 3.9% |
+| Currencies | € / $ | 1.06 | 1.06 | 1.07 | 1.06 | 1.06 | 0.6% |
+| Currencies | £ / $ | 1.20 | 1.20 | 1.20 | 1.20 | 1.21 | 0.8% |
+| Currencies | $ / ¥ | 135.85 | 136.71 | 136.20 | 136.35 | 136.32 | -0.5% |
+| Currencies | $ / NoK | 0.0963 | 0.0957 | 0.0963 | 0.0963 | 0.0967 | 0.2% |
+| Currencies | Yuan / $ | 6.91 | 6.92 | 6.87 | 6.93 | 6.95 | -0.7% |
+| Currencies | Won / $ | 1,295.78 | 1,311.41 | 1,306.06 | 1,322.00 | 1,318.70 | -1.4% |
+| Currencies | $ INDEX | 104.49 | 104.39 | 104.09 | 104.42 | 104.55 | -0.7% |
+
+## Bunker Prices
+
+| Grade | Port | 3-Mar-23 | 24-Feb-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 03-Mar-23 | 24-Feb-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.77 | 14.48 | 2.0% |
+| COSTAMARE INC | NYSE | USD | 10.58 | 10.35 | 2.2% |
+| DANAOS CORPORATION | NYSE | USD | 58.98 | 59.51 | -0.9% |
+| DIANA SHIPPING | NYSE | USD | 4.70 | 4.67 | 0.6% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 55.39 | 65.51 | -15.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 20.03 | 18.79 | 6.6% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.18 | 1.15 | 2.6% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.83 | 2.70 | 4.8% |
+| SAFE BULKERS INC | NYSE | USD | 3.77 | 3.64 | 3.6% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 6.79 | 6.27 | 8.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 23.73 | 24.58 | -3.5% |
+| STEALTHGAS INC | NASDAQ | USD | 2.99 | 3.00 | -0.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 24.51 | 22.14 | 10.7% |
+
+## Market News
+
+“Frontline stock to soar as investors wake up to duration of tanker boom
+
+A “remarkable surge” in tanker owner Frontline’s share price this year could be just the start, analysts believe.
+
+The John Fredriksen company's stock has jumped 44% since the start of 2023.
+
+On Thursday it stood at around NOK 191 ($18.30), having come close to reaching Clarksons Securities’ previously predicted target price of NOK 200 per share.
+
+The investment bank’s analysts Frode Morkedal and Even Kolsgaard said: “We remain optimistic about the stock’s upside potential as valuations detach from the current net asset value (NAV) and investors welcome the return of dividends.”
+
+Shareholder payouts had previously been halted as the company worked to tie up a merger with Belgian rival Euronav, but Frontline has now pulled out of this deal.
+
+The shipowner has just...(TradeWinds)

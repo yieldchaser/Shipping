@@ -248,3 +248,75 @@ Overall, while India and Bangladesh remain subdued, Pakistan's sharper positioni
 | LEONID | 74,999 | 13,606 | 2000 | DAEWOO, S. Korea | TANKER | undisclosed | Bangladeshi |
 | BOCEANICA | 71,864 | 14,211 | 2004 | STX, S. Korea | TANKER | undisclosed | Turkish |
 | SENAZ | 9,076 | 2,866 | 1993 | YVC, Netherlands | TANKER | undisclosed | Indian |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 1-Aug-25 | 31-Jul-25 | 30-Jul-25 | 29-Jul-25 | 28-Jul-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.220 | 4.360 | 4.378 | 4.328 | 4.420 | -3.8% |
+| Stock Exchange Data | S&P 500 | 6,238.01 | 6,339.39 | 6,362.90 | 6,370.86 | 6,389.77 | -2.4% |
+| Stock Exchange Data | Nasdaq | 22,763.31 | 23,218.12 | 23,345.41 | 23,308.30 | 23,356.27 | -2.2% |
+| Stock Exchange Data | Dow Jones | 43,588.58 | 44,130.98 | 44,461.28 | 44,632.99 | 44,837.56 | -2.9% |
+| Stock Exchange Data | FTSE 100 | 9,068.58 | 9,132.81 | 9,136.94 | 9,136.32 | 9,081.44 | -0.6% |
+| Stock Exchange Data | FTSE All-Share UK | 4,919.14 | 4,957.18 | 4,954.11 | 4,954.56 | 4,933.23 | -0.7% |
+| Stock Exchange Data | CAC40 | 7,546.16 | 7,771.97 | 7,861.96 | 7,857.36 | 7,800.88 | -3.7% |
+| Stock Exchange Data | Xetra Dax | 23,425.97 | 24,065.47 | 24,262.22 | 24,217.37 | 23,970.36 | -3.3% |
+| Stock Exchange Data | Nikkei | 40,799.60 | 41,069.82 | 40,654.70 | 40,674.55 | 40,998.27 | -1.6% |
+| Stock Exchange Data | Hang Seng | 24,507.81 | 24,773.33 | 25,176.93 | 25,524.45 | 25,562.13 | -3.5% |
+| Stock Exchange Data | DJ US Maritime | 313.48 | 312.86 | 393.90 | 393.48 | 396.63 | -19.4% |
+| Currencies | € / $ | 1.16 | 1.14 | 1.14 | 1.15 | 1.16 | -1.3% |
+| Currencies | £ / $ | 1.33 | 1.32 | 1.32 | 1.33 | 1.34 | -1.2% |
+| Currencies | $ / ¥ | 147.36 | 150.74 | 149.50 | 148.44 | 148.53 | -0.2% |
+| Currencies | $ / NoK | 10.18 | 10.32 | 10.31 | 10.18 | 10.19 | 0.3% |
+| Currencies | Yuan / $ | 7.21 | 7.20 | 7.19 | 7.18 | 7.18 | 0.6% |
+| Currencies | Won / $ | 1,388.78 | 1,392.07 | 1,392.85 | 1,388.09 | 1,389.42 | 0.4% |
+| Currencies | $ INDEX | 99.14 | 99.97 | 99.82 | 98.89 | 98.63 | 1.5% |
+
+## Bunker Prices
+
+| Grade | Port | 1-Aug-25 | 25-Jul-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 701.0 | 711.0 | -1.4% |
+| MGO | Houston | 692.0 | 696.0 | -0.6% |
+| MGO | Singapore | 690.0 | 684.0 | 0.9% |
+| 380cst | Rotterdam | 445.0 | 443.0 | 0.5% |
+| 380cst | Houston | 433.0 | 440.0 | -1.6% |
+| 380cst | Singapore | 422.0 | 423.0 | -0.2% |
+| VLSFO | Rotterdam | 501.0 | 487.0 | 2.9% |
+| VLSFO | Houston | 508.0 | 490.0 | 3.7% |
+| VLSFO | Singapore | 519.0 | 515.0 | 0.8% |
+
+## Oil Prices
+
+| Category | Indicator | 1-Aug-25 | 25-Jul-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 69.7 | 68.4 | 1.8% |
+| OIL | WTI | 67.3 | 65.2 | 3.3% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 01-Aug-25 | 25-Jul-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 22.36 | 22.93 | -2.5% |
+| COSTAMARE INC | NYSE | USD | 10.28 | 9.63 | 6.7% |
+| DANAOS CORPORATION | NYSE | USD | 91.21 | 92.24 | -1.1% |
+| DIANA SHIPPING | NYSE | USD | 1.49 | 1.63 | -8.6% |
+| EUROSEAS LTD. | NASDAQ | USD | 51.44 | 51.77 | -0.6% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.04 | 1.11 | -6.3% |
+| SAFE BULKERS INC | NYSE | USD | 3.92 | 4.24 | -7.5% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 6.83 | 7.14 | -4.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.42 | 18.80 | -2.0% |
+| STEALTHGAS INC | NASDAQ | USD | 6.59 | 6.72 | -1.9% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 19.45 | 19.40 | 0.3% |
+
+## Macro-economic headlines
+
+In the US, the CB Consumer Confidence Index increased to 97.2 in July, surpassing market forecasts of 95.9 and continuing its modest rebound from June's reading of 95.2. In parallel, the Federal Reserve decided to maintain its target range for the federal funds rate at 4.50% in July, marking the fifth consecutive meeting without a change.
+
+In Japan, the Bank of Japan (BOJ) unanimously decided to keep its short-term policy interest rate unchanged at 0.50% following its monetary policy meeting on July 31, 2025.
+
+In China, the Manufacturing Purchasing Managers' Index (PMI) registered 49.3 in July, falling further into contraction territory and undershooting both market forecasts and June's reading of 49.7. This marks the fourth consecutive month of contraction.

@@ -253,3 +253,72 @@ The recycling market continues to be sluggish, with only a few sales being compl
 | SOUL OF LUCK | 21,519 | 6,961 | 1997 | HANJIN HI, S. Korea | CONTAINER | undisclosed | undisclosed | buyer's option Sub-continent |
 | MTT TAWAU | 14,099 | 5,730 | 1997 | Szczecinska Stocznia SA | CONTAINER | $ 520/Ldt | undisclosed | 'as is' Malaysia, incl. ROB, enbloc |
 | MTT TANJUNG MANIS | 12,171 | 5,468 | 1999 | Sedef Tuzla | CONTAINER | $ 520/Ldt | undisclosed | 'as is' Malaysia, incl. ROB, enbloc |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 17-Nov-23 | 16-Nov-23 | 15-Nov-23 | 14-Nov-23 | 13-Nov-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.439 | 4.441 | 4.537 | 4.453 | 4.638 | -4.5% |
+| Stock Exchange Data | S&P 500 | 4,514.02 | 4,508.24 | 4,502.88 | 4,495.70 | 4,411.55 | 2.2% |
+| Stock Exchange Data | Nasdaq | 14,125.48 | 14,113.67 | 14,103.84 | 14,094.38 | 13,767.74 | 2.4% |
+| Stock Exchange Data | Dow Jones | 34,947.28 | 34,945.47 | 34,991.21 | 34,827.70 | 34,337.87 | 1.9% |
+| Stock Exchange Data | FTSE 100 | 7,504.25 | 7,410.97 | 7,486.91 | 7,440.47 | 7,425.83 | 2.0% |
+| Stock Exchange Data | FTSE All-Share UK | 4,088.05 | 4,037.99 | 4,083.22 | 4,056.79 | 4,029.83 | 2.3% |
+| Stock Exchange Data | CAC40 | 7,233.91 | 7,168.40 | 7,209.61 | 7,185.68 | 7,087.06 | 2.7% |
+| Stock Exchange Data | Xetra Dax | 15,919.16 | 15,786.61 | 15,748.17 | 15,614.43 | 15,345.00 | 3.7% |
+| Stock Exchange Data | Nikkei | 33,585.20 | 33,424.41 | 33,519.70 | 32,695.93 | 32,585.11 | 3.1% |
+| Stock Exchange Data | Hang Seng | 17,454.19 | 17,832.82 | 18,079.00 | 17,396.86 | 17,426.21 | 0.2% |
+| Stock Exchange Data | DJ US Maritime | 249.51 | 249.51 | 250.59 | 249.70 | 249.70 | -0.7% |
+| Currencies | € / $ | 1.09 | 1.09 | 1.09 | 1.09 | 1.07 | 1.9% |
+| Currencies | £ / $ | 1.25 | 1.24 | 1.24 | 1.25 | 1.23 | 1.9% |
+| Currencies | $ / ¥ | 149.54 | 150.72 | 151.23 | 150.46 | 151.65 | -1.3% |
+| Currencies | $ / NoK | 0.0925 | 0.0914 | 0.0925 | 0.0920 | 0.0902 | 2.9% |
+| Currencies | Yuan / $ | 7.21 | 7.24 | 7.25 | 7.25 | 7.29 | -1.1% |
+| Currencies | Won / $ | 1,296.38 | 1,292.85 | 1,304.23 | 1,305.24 | 1,319.59 | -1.8% |
+| Currencies | $ INDEX | 103.92 | 104.35 | 104.39 | 104.05 | 105.63 | -1.8% |
+
+## Bunker Prices
+
+| Grade | Port | 17-Nov-23 | 10-Nov-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 17-Nov-23 | 10-Nov-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.10 | 13.00 | 8.5% |
+| COSTAMARE INC | NYSE | USD | 9.47 | 8.71 | 8.7% |
+| DANAOS CORPORATION | NYSE | USD | 68.28 | 63.40 | 7.7% |
+| DIANA SHIPPING | NYSE | USD | 3.49 | 3.06 | 14.1% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 42.63 | 41.57 | 2.5% |
+| EUROSEAS LTD. | NASDAQ | USD | 28.00 | 23.92 | 17.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.83 | 1.52 | 20.4% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.24 | 2.23 | 0.4% |
+| SAFE BULKERS INC | NYSE | USD | 3.56 | 3.24 | 9.9% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 4.80 | 5.11 | -6.1% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.01 | 18.40 | 3.3% |
+| STEALTHGAS INC | NASDAQ | USD | 5.62 | 5.46 | 2.9% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 21.19 | 21.84 | -3.0% |
+
+## Macro-economic headlines
+
+• US: The core CPI fell by 0.2% m-o-m in October, but rose by 4.0% y-o-y. The CPI was unchanged m-o-m in October, while it is up 3.2% y-o-y. Core retail sales rose slightly by 0.1% in the same month.
+
+• China: Fixed asset investment fell by 2.9% y/y in October 2022. Chinese industrial production rose by 4.1% YTD in October.
+
+• EU: GDP fell by -0.1% in Q3, while it was 0.1% higher than in the same quarter of the previous year.
+
+• UK: The CPI was unchanged in October compared with the previous month, while it is still up by 4.6% year on year.

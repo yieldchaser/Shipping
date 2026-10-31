@@ -259,3 +259,77 @@ Turkey remained steady but largely inactive, with fully utilized yards limiting 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | HONGKONG ENERGY | 73,659 | 31,341 | 2004 | DAEWOO, S. Korea | GAS TANKER | $510/Ldt | undisclosed |  |
 | ANDHIKA KANISHKA | 73,220 | 10,026 | 1998 | SUMITOMO, Japan | BC | $460/Ldt | undisclosed | as is Indonesia |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 17-Apr-26 | 16-Apr-26 | 15-Apr-26 | 14-Apr-26 | 13-Apr-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.244 | 4.309 | 4.279 | 4.256 | 4.297 | -1.7% |
+| Stock Exchange Data | S&P 500 | 7,126.06 | 7,041.28 | 7,022.95 | 6,967.38 | 6,886.24 | 4.5% |
+| Stock Exchange Data | Nasdaq | 26,672.43 | 26,333.00 | 26,204.58 | 25,842.00 | 25,383.72 | 6.2% |
+| Stock Exchange Data | Dow Jones | 49,447.43 | 48,578.72 | 48,463.72 | 48,535.99 | 48,218.25 | 3.2% |
+| Stock Exchange Data | FTSE 100 | 10,667.63 | 10,589.99 | 10,559.58 | 10,609.06 | 10,582.96 | 0.6% |
+| Stock Exchange Data | FTSE All-Share UK | 5,720.01 | 5,671.46 | 5,653.82 | 5,678.74 | 5,654.09 | 1.0% |
+| Stock Exchange Data | CAC40 | 8,425.13 | 8,262.70 | 8,274.57 | 8,327.86 | 8,235.98 | 2.0% |
+| Stock Exchange Data | Xetra Dax | 24,702.24 | 24,154.47 | 24,066.70 | 24,044.22 | 23,742.44 | 3.8% |
+| Stock Exchange Data | Nikkei | 58,475.90 | 59,518.34 | 58,134.24 | 57,877.39 | 56,502.77 | 2.7% |
+| Stock Exchange Data | Hang Seng | 26,160.33 | 26,394.26 | 25,947.32 | 25,872.32 | 25,660.85 | 1.0% |
+| Stock Exchange Data | DJ US Maritime | 446.16 | 470.98 | 467.73 | 468.19 | 465.79 | -3.2% |
+| Currencies | € / $ | 1.18 | 1.18 | 1.18 | 1.18 | 1.18 | 0.4% |
+| Currencies | £ / $ | 1.35 | 1.35 | 1.36 | 1.36 | 1.35 | 0.4% |
+| Currencies | $ / ¥ | 158.61 | 159.18 | 158.96 | 158.77 | 159.44 | -0.4% |
+| Currencies | $ / NoK | 9.37 | 9.35 | 9.38 | 9.44 | 9.44 | -1.7% |
+| Currencies | Yuan / $ | 6.82 | 6.82 | 6.82 | 6.82 | 6.83 | -0.2% |
+| Currencies | Won / $ | 1,466.77 | 1,479.41 | 1,474.99 | 1,472.31 | 1,479.08 | -1.2% |
+| Currencies | $ INDEX | 98.10 | 98.22 | 98.06 | 98.12 | 98.37 | -0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 17-Apr-26 | 10-Apr-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,177.5 | 1,188.5 | -0.9% |
+| MGO | Houston | 1,022.3 | 1,187.5 | -13.9% |
+| MGO | Singapore | 1,253.0 | 1,486.0 | -15.7% |
+| 380cst | Rotterdam | 601.8 | 615.0 | -2.2% |
+| 380cst | Houston | 562.0 | 596.0 | -5.7% |
+| 380cst | Singapore | 653.8 | 673.0 | -2.9% |
+| VLSFO | Rotterdam | 637.5 | 631.0 | 1.0% |
+| VLSFO | Houston | 766.0 | 828.0 | -7.5% |
+| VLSFO | Singapore | 714.8 | 769.3 | -7.1% |
+
+## Oil Prices
+
+| Category | Indicator | 17-Apr-26 | 10-Apr-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 90.4 | 95.2 | -5.1% |
+| OIL | WTI | 83.9 | 96.6 | -13.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 17-Apr-26 | 10-Apr-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 20.50 | 18.00 | 13.9% |
+| COSTAMARE INC | NYSE | USD | 17.47 | 17.22 | 1.5% |
+| DANAOS CORPORATION | NYSE | USD | 117.80 | 115.02 | 2.4% |
+| DIANA SHIPPING | NYSE | USD | 2.57 | 2.42 | 6.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 72.18 | 68.20 | 5.8% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.07 | 1.99 | 4.0% |
+| SAFE BULKERS INC | NYSE | USD | 6.64 | 6.43 | 3.3% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 14.69 | 14.34 | 2.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 24.45 | 24.22 | 0.9% |
+| STEALTHGAS INC | NASDAQ | USD | 9.34 | 9.36 | -0.2% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 39.40 | 39.01 | 1.0% |
+
+## Macro-economic headlines
+
+In China, GDP expanded by 5.0% y-o-y in Q1 2026, surpassing market expectations of 4.8% and accelerating from 4.5% in Q4 2025. Meanwhile, industrial production rose by 5.7% y-o-y in March, exceeding forecasts of 5.4% but moderating from February’s 6.3%.
+
+In the United States, CPI increased by 3.3% y-o-y in March, slightly below market expectations of 3.4% but accelerating from February’s 2.4%.
+
+In Japan, industrial production contracted by 2.0% m-o-m in February, broadly in line with expectations for a 2.1% decline and reversing January’s 4.3% expansion.
+
+In the Eurozone, CPI rose by 2.6% y-o-y in March, marginally above market forecasts of 2.5% and accelerating from February’s 1.9%.

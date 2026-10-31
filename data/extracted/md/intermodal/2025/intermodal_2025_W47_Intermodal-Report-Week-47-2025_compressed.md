@@ -261,3 +261,77 @@ It was a subdued week for the Bangladesh ship recycling sector. The market featu
 ance. Meanwhile, the steel market remains sluggish, with weak demand reflecting broader economic challenges and a lack of public infrastructure investment. In Gadani, despite stagnant market, the week brought landmark news for Pakistan's ship recycling sector, with the first domestic yard set to receive HKC approval. It is expected that several additional yards could achieve HKC compliance over the next two quarters, potentially enhancing the sector's competitiveness. While this development provides a boost to sentiment, it is insufficient to drive meaningful market momentum, as buying interest remains poor. Meanwhile, in the steel market, subdued demand and competition from low-cost imports weighed on local prices.
 
 The Turkish market remains on a standstill. By contrast, the steel sector is showing encouraging signs, as domestic scrap demand continues to rise. Notably, on a positive development for recyclers, local scrap price offers by mills are higher than those for imported material, reflecting a preference for local steel.
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 21-Nov-25 | 20-Nov-25 | 19-Nov-25 | 18-Nov-25 | 17-Nov-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.063 | 4.104 | 4.131 | 4.121 | 4.133 | -2.0% |
+| Stock Exchange Data | S&P 500 | 6,602.99 | 6,538.76 | 6,642.16 | 6,617.32 | 6,672.41 | -1.9% |
+| Stock Exchange Data | Nasdaq | 24,239.57 | 24,054.38 | 24,640.52 | 24,503.10 | 24,799.92 | -3.1% |
+| Stock Exchange Data | Dow Jones | 46,245.41 | 45,752.26 | 46,138.77 | 46,091.74 | 46,590.24 | -1.9% |
+| Stock Exchange Data | FTSE 100 | 9,539.71 | 9,527.65 | 9,507.41 | 9,552.30 | 9,675.43 | -1.6% |
+| Stock Exchange Data | FTSE All-Share UK | 5,132.92 | 5,128.20 | 5,118.99 | 5,140.62 | 5,206.63 | -1.7% |
+| Stock Exchange Data | CAC40 | 7,982.65 | 7,981.07 | 7,953.77 | 7,967.93 | 8,119.02 | -2.3% |
+| Stock Exchange Data | Xetra Dax | 23,091.87 | 23,278.85 | 23,162.92 | 23,180.53 | 23,590.52 | -3.3% |
+| Stock Exchange Data | Nikkei | 48,625.88 | 49,823.94 | 48,537.70 | 48,702.98 | 50,323.91 | -3.5% |
+| Stock Exchange Data | Hang Seng | 25,220.02 | 25,835.57 | 25,830.65 | 25,930.03 | 26,384.28 | -5.1% |
+| Stock Exchange Data | DJ US Maritime | 353.40 | 347.42 | 354.28 | 352.84 | 352.25 | -0.9% |
+| Currencies | € / $ | 1.15 | 1.15 | 1.15 | 1.16 | 1.16 | -0.9% |
+| Currencies | £ / $ | 1.31 | 1.31 | 1.31 | 1.31 | 1.32 | -0.6% |
+| Currencies | $ / ¥ | 156.39 | 157.46 | 157.15 | 155.50 | 155.24 | 1.2% |
+| Currencies | $ / NoK | 10.23 | 10.20 | 10.16 | 10.10 | 10.10 | 1.6% |
+| Currencies | Yuan / $ | 7.11 | 7.12 | 7.11 | 7.11 | 7.11 | 0.1% |
+| Currencies | Won / $ | 1,469.56 | 1,474.23 | 1,467.03 | 1,459.29 | 1,462.17 | 1.5% |
+| Currencies | $ INDEX | 100.18 | 100.16 | 100.23 | 99.55 | 99.59 | 0.9% |
+
+## Bunker Prices
+
+| Grade | Port | 21-Nov-25 | 14-Nov-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 690.0 | 725.0 | -4.8% |
+| MGO | Houston | 676.0 | 701.0 | -3.6% |
+| MGO | Singapore | 697.0 | 730.0 | -4.5% |
+| 380cst | Rotterdam | 359.0 | 388.0 | -7.5% |
+| 380cst | Houston | 366.0 | 388.0 | -5.7% |
+| 380cst | Singapore | 357.0 | 373.0 | -4.3% |
+| VLSFO | Rotterdam | 411.0 | 433.0 | -5.1% |
+| VLSFO | Houston | 430.0 | 446.0 | -3.6% |
+| VLSFO | Singapore | 444.0 | 461.0 | -3.7% |
+
+## Oil Prices
+
+| Category | Indicator | 21-Nov-25 | 14-Nov-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 62.6 | 64.4 | -2.8% |
+| OIL | WTI | 58.1 | 60.1 | -3.4% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 21-Nov-25 | 14-Nov-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 19.03 | 20.59 | -7.6% |
+| COSTAMARE INC | NYSE | USD | 14.57 | 14.61 | -0.3% |
+| DANAOS CORPORATION | NYSE | USD | 93.43 | 94.61 | -1.2% |
+| DIANA SHIPPING | NYSE | USD | 1.68 | 1.79 | -6.1% |
+| EUROSEAS LTD. | NASDAQ | USD | 57.92 | 59.74 | -3.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.18 | 1.20 | -2.1% |
+| SAFE BULKERS INC | NYSE | USD | 4.85 | 4.83 | 0.4% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 9.50 | 9.37 | 1.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.14 | 18.92 | 1.2% |
+| STEALTHGAS INC | NASDAQ | USD | 6.78 | 6.75 | 0.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 24.65 | 25.46 | -3.2% |
+
+## Macro-economic headlines
+
+In China, the PBoC kept its benchmark loan rates unchanged for the sixth consecutive month in November, in line with expectations. The one-year LPR, reference rate for most business and consumer loans, stayed at 3.0%, while the five-year LPR, basis for mortgage pricing, remained at 3.5%.
+
+In Eurozone, inflation eased slightly in October, with CPI rising 2.1% y-o-y, matching market estimations and just below September’s 2.2%.
+
+In United States, the trade deficit narrowed to $59.6bn in August from $78.2bn in July, outperforming forecasts of $61.3bn. While exports inched by 0.1% m-o-m, imports declined notably by 5.1%, driving the improvement.
+
+In Germany, the Ifo Business Climate Index read 88.1 in November, below market estimations and October’s figure of 88.6 and 88.4 respectively.

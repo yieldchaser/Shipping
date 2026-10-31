@@ -241,3 +241,70 @@ During the preceding week, there was a discernible increase in demolition market
 | SOL STRAITS | 22,900 | 7,808 | 1997 | Szczecinska Stocznia SA | CONTAINER | $ 592/Ldt | Bangladeshi | incl. 250T ROB |
 | TESSA | 4,706 | 1,917 | 1992 | SEDEF GEBZE, Turkey | GENERAL CARGO | $ 560/Ldt | Bangladeshi |  |
 | TAI HWA | 2,296 | 4,043 | 1989 | HAYASHIKANE, Japan | RO-RO/PASSENGER | $ 460/Ldt | Bangladeshi | as-is' Kaohsiung |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 4-Aug-23 | 3-Aug-23 | 2-Aug-23 | 1-Aug-23 | 31-Jul-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.192 | 4.145 | 4.039 | 4.001 | 3.967 | 5.9% |
+| Stock Exchange Data | S&P 500 | 4,478.03 | 4,501.89 | 4,513.39 | 4,576.73 | 3,990.97 | -2.3% |
+| Stock Exchange Data | Nasdaq | 13,909.24 | 13,959.72 | 13,973.45 | 14,283.91 | 14,346.02 | -2.8% |
+| Stock Exchange Data | Dow Jones | 35,065.62 | 35,215.89 | 35,282.52 | 35,630.68 | 35,559.53 | -1.1% |
+| Stock Exchange Data | FTSE 100 | 7,564.37 | 7,529.16 | 7,561.63 | 7,666.27 | 7,699.41 | -1.7% |
+| Stock Exchange Data | FTSE All-Share UK | 4,129.32 | 4,109.59 | 4,124.04 | 4,180.41 | 4,198.02 | -1.6% |
+| Stock Exchange Data | CAC40 | 7,315.07 | 7,260.53 | 7,312.84 | 7,406.08 | 7,497.78 | -2.2% |
+| Stock Exchange Data | Xetra Dax | 15,951.86 | 15,893.38 | 16,020.02 | 16,240.40 | 16,446.83 | -3.0% |
+| Stock Exchange Data | Nikkei | 32,192.75 | 32,159.28 | 32,707.69 | 33,476.58 | 33,172.22 | -3.0% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 19,420.87 | 19,517.38 | 20,011.12 | 20,078.94 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 269.46 | 266.41 | 266.41 | 267.23 | 265.92 | 1.3% |
+| Currencies | € / $ | 1.10 | 1.10 | 1.09 | 1.10 | 1.10 | -0.1% |
+| Currencies | £ / $ | 1.27 | 1.27 | 1.27 | 1.28 | 1.28 | -0.8% |
+| Currencies | $ / ¥ | 141.76 | 142.60 | 143.32 | 142.95 | 142.32 | 0.4% |
+| Currencies | $ / NoK | 0.0986 | 0.0977 | 0.0972 | 0.0983 | 0.0987 | 0.6% |
+| Currencies | Yuan / $ | 7.17 | 7.16 | 7.19 | 7.18 | 7.11 | 0.3% |
+| Currencies | Won / $ | 1,304.04 | 1,298.38 | 1,296.37 | 1,289.40 | 1,278.28 | 2.4% |
+| Currencies | $ INDEX | 102.45 | 102.59 | 101.96 | 101.87 | 101.70 | 0.7% |
+
+## Bunker Prices
+
+| Grade | Port | 4-Aug-23 | 28-Jul-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 04-Aug-23 | 28-Jul-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.99 | 15.42 | -2.8% |
+| COSTAMARE INC | NYSE | USD | 11.42 | 11.59 | -1.5% |
+| DANAOS CORPORATION | NYSE | USD | 68.13 | 71.19 | -4.3% |
+| DIANA SHIPPING | NYSE | USD | 3.92 | 3.91 | 0.3% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 44.76 | 45.86 | -2.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 21.49 | 21.94 | -2.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 0.92 | 0.92 | 0.0% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.89 | 1.89 | 0.0% |
+| SAFE BULKERS INC | NYSE | USD | 3.29 | 3.34 | -1.5% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 5.17 | 5.87 | -11.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.28 | 18.17 | 0.6% |
+| STEALTHGAS INC | NASDAQ | USD | 5.18 | 4.76 | 8.8% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 20.86 | 19.67 | 6.0% |
+
+## Macro-economic headlines
+
+• US: The ISM Manufacturing PMI for July rose marginally month-on-month to 46.4 from 46 in June. Crude oil inventories fell by 17.049 million barrels, a historic draw.
+
+• EU: GDP and inflation data were released last week, with the CPI down 0.2% in July and 5.3% on an annual basis. Q2 GDP rose 0.3% on a quarterly basis and 0.6% on an annual basis.
+
+• China: The Chinese manufacturing PMI for July was 49.3, slightly better than the previous reading but still below 50. China's composite PMI fell to 51.1 in July from 52.5 a year earlier.

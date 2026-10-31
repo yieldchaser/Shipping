@@ -334,3 +334,81 @@ The rally in demo values continued this past week, with Indian subcontinent buye
 | NOAH HANA | 2,618 | 1,364 | 1996 | BANGUHUJIN, S. Korea | TANKER | undisclosed | undisclosed |  |
 
 © Intermodal Research 08/02/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 4-Feb-22 | 3-Feb-22 | 2-Feb-22 | 1-Feb-22 | 31-Jan-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.930 | 1.827 | 1.766 | 1.800 | 1.782 | 8.3% |
+| Stock Exchange Data | S&P 500 | 4,500.53 | 4,477.44 | 4,589.38 | 4,546.54 | 4,431.85 | 1.5% |
+| Stock Exchange Data | Nasdaq | 14,098.01 | 13,878.82 | 14,417.55 | 14,346.00 | 14,239.88 | 2.4% |
+| Stock Exchange Data | Dow Jones | 35,089.74 | 35,111.16 | 35,629.33 | 35,405.24 | 35,131.86 | 1.0% |
+| Stock Exchange Data | FTSE 100 | 7,516.40 | 7,528.84 | 7,583.00 | 7,535.78 | 7,464.37 | 0.7% |
+| Stock Exchange Data | FTSE All-Share UK | 4,208.61 | 4,222.74 | 4,257.23 | 4,232.48 | 4,191.81 | 0.6% |
+| Stock Exchange Data | CAC40 | 6,951.38 | 7,005.63 | 7,115.27 | 7,099.49 | 6,999.20 | -0.2% |
+| Stock Exchange Data | Xetra Dax | 15,099.56 | 15,368.47 | 15,613.77 | 15,619.39 | 15,471.20 | -2.4% |
+| Stock Exchange Data | Nikkei | 27,439.99 | 27,241.31 | 27,533.60 | 27,078.48 | 27,001.98 | 1.6% |
+| Stock Exchange Data | Hang Seng | 24,573.29 | 24,573.29 | 24,573.29 | 24,573.29 | 23,802.26 | 3.2% |
+| Stock Exchange Data | DJ US Maritime | 213.59 | 211.99 | 211.76 | 216.32 | 213.96 | -1.4% |
+| Currencies | € / $ | 1.14 | 1.14 | 1.13 | 1.13 | 1.12 | 2.7% |
+| Currencies | £ / $ | 1.35 | 1.36 | 1.36 | 1.35 | 1.34 | 1.1% |
+| Currencies | $ / ¥ | 115.23 | 114.97 | 114.37 | 114.74 | 115.13 | 0.0% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.11 | 0.11 | 0.11 | 2.5% |
+| Currencies | Yuan / $ | 6.36 | 6.36 | 6.36 | 6.36 | 6.36 | 0.0% |
+| Currencies | Won / $ | 1,198.39 | 1,200.65 | 1,200.10 | 1,202.55 | 1,206.11 | -0.9% |
+| Currencies | $ INDEX | 95.49 | 95.38 | 95.94 | 96.39 | 96.54 | -1.8% |
+
+## Bunker Prices
+
+| Grade | Port | 4-Feb-22 | 28-Jan-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 828.0 | 793.0 | 4.4% |
+| MGO | Houston | 885.5 | 875.0 | 1.2% |
+| MGO | Singapore | 810.5 | 780.5 | 3.8% |
+| 380cst | Rotterdam | 520.5 | 518.0 | 0.5% |
+| 380cst | Houston | 553.0 | 558.5 | -1.0% |
+| 380cst | Singapore | 524.5 | 526.0 | -0.3% |
+| VLSFO | Rotterdam | 692.0 | 659.0 | 5.0% |
+| VLSFO | Houston | 698.0 | 669.5 | 4.3% |
+| VLSFO | Singapore | 731.5 | 686.0 | 6.6% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 04-Feb-22 | 28-Jan-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.80 | 15.33 | 3.1% |
+| COSTAMARE INC | NYSE | USD | 13.14 | 13.23 | -0.7% |
+| DANAOS CORPORATION | NYSE | USD | 95.08 | 91.46 | 4.0% |
+| DIANA SHIPPING | NYSE | USD | 3.75 | 3.62 | 3.6% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 47.23 | 45.61 | 3.6% |
+| EUROSEAS LTD. | NASDAQ | USD | 33.20 | 29.61 | 12.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.90 | 1.79 | 6.1% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 3.49 | 3.33 | 4.8% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 30.54 | 28.47 | 7.3% |
+| SAFE BULKERS INC | NYSE | USD | 3.60 | 3.51 | 2.6% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.05 | 1.00 | 5.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 23.83 | 22.47 | 6.1% |
+| STEALTHGAS INC | NASDAQ | USD | 2.04 | 2.20 | -7.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 7.31 | 7.34 | -0.4% |
+
+## Market News
+
+“Dorian LPG continues shareholder reward drive with $100m buyback
+
+New York-listed Dorian LPG is continuing to return capital to investors despite earnings dropping in the final three months of 2021.
+
+The VLGC owner said its board has authorised a share buyback of up to $100m, following on from a one-off dividend payment of $40m in January.
+
+That came after a $1-per-share payout and $120m of stock buybacks announced over the past 12 months as rates remained high.
+
+Chief executive John Hadjipateras said: “Our solid results in the quarter have allowed us to return capital to shareholders with the payment of a dividend in January and we have approved a new authority to repurchase our shares.
+
+“Our liquidity continues to be strong and our view of the market for 2022 is sanguine,” he added.
+
+Net profit in the company’s third quarter ending 31 December fell to $16.6m from $35.8m, as revenue declined to $68.6m, against $88.5m in 2020.
+
+The time charter equivalent rate...”(TradeWinds)

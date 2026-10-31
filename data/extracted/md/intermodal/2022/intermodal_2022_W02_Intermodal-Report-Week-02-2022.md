@@ -341,3 +341,79 @@ The Indian-subcontinent demolition market witnessed an increase in offered level
 | LINDA | 3,100 | 1,833 | 2003 | AKER BRAILA SC SA, Romania | OFFSHORE/TUG | $ 661/Ldt | Indian | auction sale, delivery as-is India |
 
 © Intermodal Research 18/01/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 14-Jan-22 | 13-Jan-22 | 12-Jan-22 | 11-Jan-22 | 10-Jan-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.772 | 1.711 | 1.725 | 1.746 | 1.780 | 0.1% |
+| Stock Exchange Data | S&P 500 | 4,662.85 | 4,659.03 | 4,726.35 | 4,713.07 | 4,677.03 | -0.3% |
+| Stock Exchange Data | Nasdaq | 14,893.75 | 14,806.81 | 15,188.39 | 15,153.45 | 14,942.83 | -0.3% |
+| Stock Exchange Data | Dow Jones | 35,911.81 | 36,113.62 | 36,290.32 | 36,252.02 | 36,068.87 | -0.9% |
+| Stock Exchange Data | FTSE 100 | 7,542.95 | 7,563.85 | 7,551.72 | 7,488.09 | 7,445.25 | 0.8% |
+| Stock Exchange Data | FTSE All-Share UK | 4,256.59 | 4,273.23 | 4,270.79 | 4,239.91 | 4,219.71 | 0.2% |
+| Stock Exchange Data | CAC40 | 7,143.00 | 7,201.14 | 7,237.19 | 7,183.38 | 7,115.77 | -1.1% |
+| Stock Exchange Data | Xetra Dax | 15,883.24 | 16,031.59 | 16,010.32 | 15,941.81 | 15,768.27 | 0.7% |
+| Stock Exchange Data | Nikkei | 28,124.28 | 28,124.28 | 28,489.13 | 28,765.66 | 28,222.48 | -0.3% |
+| Stock Exchange Data | Hang Seng | 24,429.77 | 24,429.77 | 24,402.17 | 23,739.06 | 23,746.54 | 5.9% |
+| Stock Exchange Data | DJ US Maritime | 219.70 | 214.51 | 209.69 | 209.98 | 208.11 | 5.1% |
+| Currencies | € / $ | 1.14 | 1.15 | 1.14 | 1.14 | 1.13 | 0.5% |
+| Currencies | £ / $ | 1.37 | 1.37 | 1.37 | 1.36 | 1.36 | 0.7% |
+| Currencies | $ / ¥ | 114.24 | 114.12 | 114.68 | 115.33 | 115.27 | -1.2% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.12 | 0.11 | 0.11 | 0.9% |
+| Currencies | Yuan / $ | 6.35 | 6.36 | 6.36 | 6.37 | 6.38 | -0.4% |
+| Currencies | Won / $ | 1,190.26 | 1,186.83 | 1,185.96 | 1,189.51 | 1,198.16 | -0.6% |
+| Currencies | $ INDEX | 95.17 | 94.79 | 94.92 | 95.62 | 95.99 | -0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 14-Jan-22 | 7-Jan-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 749.0 | 697.0 | 7.5% |
+| MGO | Houston | 796.0 | 729.5 | 9.1% |
+| MGO | Singapore | 738.0 | 704.5 | 4.8% |
+| 380cst | Rotterdam | 471.0 | 458.0 | 2.8% |
+| 380cst | Houston | 533.5 | 486.5 | 9.7% |
+| 380cst | Singapore | 480.5 | 469.0 | 2.5% |
+| VLSFO | Rotterdam | 618.0 | 580.5 | 6.5% |
+| VLSFO | Houston | 626.0 | 592.0 | 5.7% |
+| VLSFO | Singapore | 677.5 | 640.5 | 5.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 14-Jan-22 | 07-Jan-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.90 | 15.98 | -0.5% |
+| COSTAMARE INC | NYSE | USD | 13.38 | 12.65 | 5.8% |
+| DANAOS CORPORATION | NYSE | USD | 74.05 | 70.06 | 5.7% |
+| DIANA SHIPPING | NYSE | USD | 4.11 | 4.11 | 0.0% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 44.48 | 45.25 | -1.7% |
+| EUROSEAS LTD. | NASDAQ | USD | 27.76 | 25.79 | 7.6% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.05 | 2.14 | -4.2% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 3.47 | 3.70 | -6.2% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 25.24 | 25.06 | 0.7% |
+| SAFE BULKERS INC | NYSE | USD | 3.65 | 3.72 | -1.9% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.92 | 0.94 | -2.1% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 22.28 | 22.57 | -1.3% |
+| STEALTHGAS INC | NASDAQ | USD | 2.25 | 2.22 | 1.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 8.15 | 8.17 | -0.2% |
+
+## Market News
+
+“Teekay LNG and Stonepeak complete $6.2bn merger deal
+
+Teekay LNG's $6.2bn take-private deal has closed.
+
+Parent Teekay Corp announced on Thursday that the gas carrier spin-off and Stonepeak Limestone Holdings — formerly known as Stonepeak Infrastructure Fund IV Cayman — completed the merger announced on 4 October.
+
+The agreement saw the Stonepeak Infrastructure Partners fund buy all outstanding Teekay LNG shares for $17 each.
+
+As part of the deal, Teekay Corp received $641m.
+
+"We believe the significant financial strength we now have following this transaction puts us in an excellent position to pursue a range of attractive investment opportunities that leverage Teekay’s core competencies and institutional knowledge to create long-term shareholder value," said Teekay president and chief executive Kenneth Hvid.
+
+Hvid further trumpeted the company's cash stores of roughly $325m following its decision to redeem $112m in bonds due in November and its 30% holding in Teekay...”(TradeWinds)

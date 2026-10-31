@@ -226,3 +226,75 @@ In Turkey, the market is significantly impacted by the broader economic environm
 | USD/INR | 83.80 | 83.74 | 0.1% | 83.80 |
 | USD/PKR | 275.99 | 278.21 | -0.8% | 282.38 |
 | USD/TRY | 33.10 | 32.95 | 0.5% | 33.12 |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 22-Nov-24 | 21-Nov-24 | 20-Nov-24 | 19-Nov-24 | 18-Nov-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.410 | 4.432 | 4.406 | 4.379 | 4.414 | -0.4% |
+| Stock Exchange Data | S&P 500 | 5,969.34 | 5,948.71 | 5,917.11 | 5,916.98 | 5,893.62 | 1.7% |
+| Stock Exchange Data | Nasdaq | 20,776.23 | 20,740.78 | 20,667.10 | 20,684.59 | 20,539.19 | 1.9% |
+| Stock Exchange Data | Dow Jones | 44,296.51 | 43,870.35 | 43,408.47 | 43,268.94 | 43,389.60 | 2.0% |
+| Stock Exchange Data | FTSE 100 | 8,262.08 | 8,149.27 | 8,085.07 | 8,099.02 | 8,109.32 | 2.5% |
+| Stock Exchange Data | FTSE All-Share UK | 4,507.57 | 4,448.06 | 4,414.95 | 4,427.06 | 4,431.13 | 2.2% |
+| Stock Exchange Data | CAC40 | 7,255.01 | 7,213.32 | 7,198.45 | 7,229.64 | 7,278.23 | -0.2% |
+| Stock Exchange Data | Xetra Dax | 19,322.59 | 19,146.17 | 19,004.78 | 19,060.31 | 19,189.19 | 0.6% |
+| Stock Exchange Data | Nikkei | 38,283.85 | 38,026.17 | 38,352.34 | 38,414.43 | 38,220.85 | -0.9% |
+| Stock Exchange Data | Hang Seng | 19,229.97 | 19,601.11 | 19,705.01 | 19,663.67 | 19,576.61 | -1.0% |
+| Stock Exchange Data | DJ US Maritime | 421.15 | 422.82 | 424.43 | 421.15 | 418.92 | 0.2% |
+| Currencies | € / $ | 1.04 | 1.05 | 1.05 | 1.06 | 1.06 | -1.2% |
+| Currencies | £ / $ | 1.25 | 1.26 | 1.27 | 1.27 | 1.27 | -0.7% |
+| Currencies | $ / ¥ | 154.74 | 154.51 | 155.43 | 154.65 | 154.65 | 0.3% |
+| Currencies | $ / NoK | 11.07 | 11.07 | 11.04 | 10.96 | 10.99 | 0.0% |
+| Currencies | Yuan / $ | 7.25 | 7.24 | 7.25 | 7.24 | 7.24 | 0.2% |
+| Currencies | Won / $ | 1,402.40 | 1,399.15 | 1,398.02 | 1,392.32 | 1,390.50 | 0.6% |
+| Currencies | $ INDEX | 107.55 | 106.97 | 106.68 | 106.21 | 106.28 | 0.8% |
+
+## Bunker Prices
+
+| Grade | Port | 22-Nov-24 | 15-Nov-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 668.0 | 659.0 | 1.4% |
+| MGO | Houston | 671.0 | 660.0 | 1.7% |
+| MGO | Singapore | 680.0 | 649.0 | 4.8% |
+| 380cst | Rotterdam | 463.0 | 480.0 | -3.5% |
+| 380cst | Houston | 450.0 | 448.0 | 0.4% |
+| 380cst | Singapore | 468.0 | 457.0 | 2.4% |
+| VLSFO | Rotterdam | 511.0 | 504.0 | 1.4% |
+| VLSFO | Houston | 545.0 | 533.0 | 2.3% |
+| VLSFO | Singapore | 568.0 | 557.0 | 2.0% |
+
+## Oil Prices
+
+| Category | Indicator | 22-Nov-24 | 15-Nov-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 75.2 | 71.0 | 5.8% |
+| OIL | WTI | 71.2 | 67.0 | 6.3% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 22-Nov-24 | 15-Nov-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.27 | 18.79 | -2.8% |
+| COSTAMARE INC | NYSE | USD | 14.29 | 14.39 | -0.7% |
+| DANAOS CORPORATION | NYSE | USD | 85.91 | 85.76 | 0.2% |
+| DIANA SHIPPING | NYSE | USD | 2.14 | 2.19 | -2.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 40.50 | 42.77 | -5.3% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.50 | 1.52 | -1.3% |
+| SAFE BULKERS INC | NYSE | USD | 4.17 | 4.27 | -2.3% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 8.34 | 9.04 | -7.7% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.63 | 20.29 | -8.2% |
+| STEALTHGAS INC | NASDAQ | USD | 6.05 | 5.74 | 5.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 20.05 | 20.23 | -0.9% |
+
+## Macro-economic headlines
+
+In China, the Loan Prime Rate, reference rate for most corporate and household lending, remained at a historic low of 3.1% in November, unchanged from October and in line with market expectations. This interest rate policy is part of PBoC broader efforts to stimulate economic activity and accelerate GDP growth.
+
+In Japan, the core CPI for October rose by 2.3% YoY, exceeding the 2.2% forecast but lower than the 2.4% recorded in September. The trade deficit for the month posted JPY 461.2 billion, surpassing market expectations of JPY 360.4 billion.
+
+In Eurozone, the trade surplus for September reached EUR 12.5 billion, exceeding both the EUR 7.9 billion forecast and the EUR 4.6 billion recorded in August. The European CPI for October stood at 0.3%, reversing from a slight 0.1% decline in September and in line with forecasts. However, a decline in consumer confidence was observed, suggesting potential risks to future consumer spending. November’s consumer confidence index dropped by 1.2 points from October, settling at -13.7, below market’s consensus of -12.4.

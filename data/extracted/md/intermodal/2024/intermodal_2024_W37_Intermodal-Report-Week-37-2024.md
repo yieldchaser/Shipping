@@ -230,3 +230,77 @@ The ship demolition market has faced significant challenges this week, with weak
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | CORAL ENERGY | 72,629 | 28,525 | 1979 | GENERAL DYNAMICS QC, USA | GAS TANKER | $ 555/Ldt | undisclosed | as is Labuan |
 | AQUILA | 35,841 | 8,481 | 1999 | DAEDONG, S. Korea | TANKER | $ 520/Ldt | Indian |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 13-Sep-24 | 12-Sep-24 | 11-Sep-24 | 10-Sep-24 | 9-Sep-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.649 | 3.680 | 3.653 | 3.644 | 3.699 | -1.6% |
+| Stock Exchange Data | S&P 500 | 5,626.02 | 5,595.76 | 5,554.13 | 5,495.52 | 5,471.05 | 4.0% |
+| Stock Exchange Data | Nasdaq | 19,514.59 | 19,423.07 | 19,237.30 | 18,829.14 | 18,660.78 | 5.9% |
+| Stock Exchange Data | Dow Jones | 41,393.78 | 41,096.77 | 40,861.71 | 40,736.96 | 40,829.59 | 2.6% |
+| Stock Exchange Data | FTSE 100 | 8,273.09 | 8,240.97 | 8,193.94 | 8,205.98 | 8,270.84 | 1.1% |
+| Stock Exchange Data | FTSE All-Share UK | 4,522.48 | 4,501.27 | 4,474.25 | 4,483.76 | 4,513.72 | 1.2% |
+| Stock Exchange Data | CAC40 | 7,465.25 | 7,435.07 | 7,396.83 | 7,407.55 | 7,425.26 | 1.5% |
+| Stock Exchange Data | Xetra Dax | 18,699.40 | 18,518.39 | 18,330.27 | 18,265.92 | 18,443.56 | 2.2% |
+| Stock Exchange Data | Nikkei | 36,581.76 | 36,833.27 | 35,619.77 | 36,159.16 | 36,215.75 | 0.5% |
+| Stock Exchange Data | Hang Seng | 17,369.09 | 17,240.39 | 17,108.71 | 17,234.09 | 17,196.96 | -0.4% |
+| Stock Exchange Data | DJ US Maritime | 390.72 | 382.02 | 376.28 | 375.13 | 376.01 | 3.9% |
+| Currencies | € / $ | 1.11 | 1.11 | 1.10 | 1.10 | 1.10 | -0.1% |
+| Currencies | £ / $ | 1.31 | 1.31 | 1.30 | 1.31 | 1.31 | 0.0% |
+| Currencies | $ / ¥ | 140.82 | 141.79 | 142.35 | 142.43 | 143.17 | -1.0% |
+| Currencies | $ / NoK | 10.63 | 10.71 | 10.85 | 10.84 | 10.83 | -0.6% |
+| Currencies | Yuan / $ | 7.09 | 7.12 | 7.12 | 7.12 | 7.11 | 0.1% |
+| Currencies | Won / $ | 1,328.21 | 1,335.56 | 1,338.99 | 1,343.21 | 1,341.66 | -0.7% |
+| Currencies | $ INDEX | 101.11 | 101.37 | 101.68 | 101.63 | 101.55 | -0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 13-Sep-24 | 6-Sep-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 605.0 | 624.0 | -3.0% |
+| MGO | Houston | 626.0 | 642.0 | -2.5% |
+| MGO | Singapore | 612.0 | 630.0 | -2.9% |
+| 380cst | Rotterdam | 400.0 | 418.0 | -4.3% |
+| 380cst | Houston | 412.0 | 408.0 | 1.0% |
+| 380cst | Singapore | 447.0 | 429.0 | 4.2% |
+| VLSFO | Rotterdam | 503.0 | 517.0 | -2.7% |
+| VLSFO | Houston | 503.0 | 502.0 | 0.2% |
+| VLSFO | Singapore | 572.0 | 614.0 | -6.8% |
+
+## Oil Prices
+
+| Category | Indicator | 13-Sep-24 | 6-Sep-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 71.6 | 71.1 | 0.8% |
+| OIL | WTI | 68.7 | 67.7 | 1.4% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 13-Sep-24 | 06-Sep-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 17.36 | 17.28 | 0.5% |
+| COSTAMARE INC | NYSE | USD | 13.60 | 13.15 | 3.4% |
+| DANAOS CORPORATION | NYSE | USD | 78.84 | 77.07 | 2.3% |
+| DIANA SHIPPING | NYSE | USD | 2.35 | 2.31 | 1.7% |
+| EUROSEAS LTD. | NASDAQ | USD | 43.29 | 42.80 | 1.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.74 | 1.42 | 22.7% |
+| SAFE BULKERS INC | NYSE | USD | 4.75 | 4.60 | 3.3% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 10.27 | 10.28 | -0.1% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 20.80 | 19.87 | 4.7% |
+| STEALTHGAS INC | NASDAQ | USD | 6.85 | 6.12 | 11.8% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 25.27 | 23.19 | 9.0% |
+
+## Macro-economic headlines
+
+In US, the CPI for August increased by 0.2% monthly and the annual reading was 2.5%
+
+In China, CPI increased by 0.4% in August on a monthly basis, while it increased by 0.6% on the year. The Trade Balance totaled $91.02bn, while exports surged by 8.7% in August annually. Additionally, Industrial production for August rose by 4.5% while the unemployment rate was at 5.3%, slightly higher than the previous month (5.2%)
+
+In Japan, GDP increased by 0.7% for Q2 on a quarterly basis and 2.9% on an annual basis, while Industrial production for July increased by 3.1%
+
+In the EU, the Central Bank cut the interest rate to by 25bps to 3.5%. EU’s industrial production fell by 0.3% in July. In Germany, the CPI fell slightly by -0.1% in August on a monthly basis, while it was up on the year by +1.9%

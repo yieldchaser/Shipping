@@ -225,3 +225,77 @@ In Bangladesh, recycling prices declined and steel prices remained under pressur
 | MSC GABRIELLA | 31,290 | 8,911 | 1985 | HDW AG - Kiel - GEU, Germany | CONTAINER | $ 499/Ldt | Indian | 320 Ts ROB on arrival |
 | MSC AGATA II | 22,450 | 7,364 | 1994 | SZCZECINSKA, Poland | CONTAINER | $ 505/Ldt | Indian | 200 Ts ROB on arrival |
 | OMAR TRADER | 6,358 | 1,800 | 1980 | ATLANTICO SANTADER, Spain | GENERAL CARGO | $ 310/Ldt | Turkish |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 20-Sep-24 | 19-Sep-24 | 18-Sep-24 | 17-Sep-24 | 16-Sep-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.728 | 3.740 | 3.687 | 3.642 | 3.621 | 2.2% |
+| Stock Exchange Data | S&P 500 | 5,702.55 | 5,713.64 | 5,618.26 | 5,634.58 | 5,633.09 | 1.4% |
+| Stock Exchange Data | Nasdaq | 19,791.49 | 19,839.83 | 19,344.49 | 19,432.40 | 19,423.06 | 1.4% |
+| Stock Exchange Data | Dow Jones | 42,063.36 | 42,025.19 | 41,503.10 | 41,606.18 | 41,622.08 | 1.6% |
+| Stock Exchange Data | FTSE 100 | 8,229.99 | 8,328.72 | 8,253.68 | 8,309.86 | 8,278.44 | -0.5% |
+| Stock Exchange Data | FTSE All-Share UK | 4,501.08 | 4,556.59 | 4,511.60 | 4,541.00 | 4,525.95 | -0.5% |
+| Stock Exchange Data | CAC40 | 7,500.26 | 7,615.41 | 7,444.90 | 7,487.42 | 7,449.44 | 0.5% |
+| Stock Exchange Data | Xetra Dax | 18,720.01 | 19,002.38 | 18,711.49 | 18,726.08 | 18,633.11 | 0.1% |
+| Stock Exchange Data | Nikkei | 37,723.91 | 37,155.33 | 36,380.17 | 36,203.22 | mrkt closed | 3.1% |
+| Stock Exchange Data | Hang Seng | 18,258.57 | 18,013.16 | 17,660.02 | 17,660.02 | 17,422.12 | 5.1% |
+| Stock Exchange Data | DJ US Maritime | 408.67 | 416.95 | 403.95 | 403.36 | 394.95 | 4.6% |
+| Currencies | € / $ | 1.12 | 1.12 | 1.11 | 1.11 | 1.11 | 0.8% |
+| Currencies | £ / $ | 1.33 | 1.33 | 1.32 | 1.32 | 1.32 | 1.5% |
+| Currencies | $ / ¥ | 143.91 | 142.62 | 142.27 | 142.40 | 140.60 | 2.2% |
+| Currencies | $ / NoK | 10.46 | 10.48 | 10.59 | 10.59 | 10.59 | -1.6% |
+| Currencies | Yuan / $ | 7.05 | 7.07 | 7.08 | 7.09 | 7.09 | -0.6% |
+| Currencies | Won / $ | 1,331.64 | 1,326.86 | 1,319.09 | 1,318.60 | 1,320.45 | 0.3% |
+| Currencies | $ INDEX | 100.72 | 100.61 | 100.60 | 100.89 | 100.76 | -0.4% |
+
+## Bunker Prices
+
+| Grade | Port | 20-Sep-24 | 13-Sep-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 622.0 | 605.0 | 2.8% |
+| MGO | Houston | 644.0 | 626.0 | 2.9% |
+| MGO | Singapore | 625.0 | 612.0 | 2.1% |
+| 380cst | Rotterdam | 436.0 | 400.0 | 9.0% |
+| 380cst | Houston | 423.0 | 412.0 | 2.7% |
+| 380cst | Singapore | 477.0 | 447.0 | 6.7% |
+| VLSFO | Rotterdam | 519.0 | 503.0 | 3.2% |
+| VLSFO | Houston | 508.0 | 503.0 | 1.0% |
+| VLSFO | Singapore | 595.0 | 572.0 | 4.0% |
+
+## Oil Prices
+
+| Category | Indicator | 20-Sep-24 | 13-Sep-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 74.5 | 71.6 | 4.0% |
+| OIL | WTI | 71.9 | 68.7 | 4.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 20-Sep-24 | 13-Sep-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 17.48 | 17.36 | 0.7% |
+| COSTAMARE INC | NYSE | USD | 14.43 | 13.60 | 6.1% |
+| DANAOS CORPORATION | NYSE | USD | 80.74 | 78.84 | 2.4% |
+| DIANA SHIPPING | NYSE | USD | 2.38 | 2.35 | 1.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 46.65 | 43.29 | 7.8% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.18 | 1.74 | 25.3% |
+| SAFE BULKERS INC | NYSE | USD | 4.84 | 4.75 | 1.9% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 11.34 | 10.27 | 10.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 21.59 | 20.80 | 3.8% |
+| STEALTHGAS INC | NASDAQ | USD | 6.87 | 6.85 | 0.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 25.04 | 25.27 | -0.9% |
+
+## Macro-economic headlines
+
+In US, the Fed Interest Rate declined by 0.5 points to 5.0%
+
+In China, the Loan Prime Rate 5Y for September remained unchanged to 3.85%.
+
+In UK, the S&P Global/CIPS UK Manufacturing PMI in September decline to 51.5 points down from 52.5 in August
+
+In the EU, the CPI for August rose by 2.2% y-o-y. The HCOB Eurozone Manufacturing PMI for September declined to 44.8 from 45.8 in August while the Composite PMI decline to 48.9 in September down from the 51.0 in August

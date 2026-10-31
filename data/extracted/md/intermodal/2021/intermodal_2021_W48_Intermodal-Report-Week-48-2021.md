@@ -324,3 +324,79 @@ There was an overall decrease in the offered average scrap prices across the mai
 | NORTH EAST 33 | 5,497 | 1,900 | 1993 | SHIN KURUSHIMA, Japan | TANKER | undisclosed | Bangladeshi |  |
 
 © Intermodal Research 07/12/2021 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 3-Dec-21 | 2-Dec-21 | 1-Dec-21 | 30-Nov-21 | 29-Nov-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.343 | 1.448 | 1.434 | 1.443 | 1.530 | -9.4% |
+| Stock Exchange Data | S&P 500 | 4,538.43 | 4,577.10 | 4,513.04 | 4,567.00 | 4,594.62 | -1.2% |
+| Stock Exchange Data | Nasdaq | 15,085.47 | 15,381.32 | 15,254.05 | 15,537.69 | 15,782.83 | -2.6% |
+| Stock Exchange Data | Dow Jones | 34,580.08 | 34,639.79 | 34,022.04 | 34,483.72 | 35,135.94 | -0.9% |
+| Stock Exchange Data | FTSE 100 | 7,122.32 | 7,129.21 | 7,168.68 | 7,059.45 | 7,109.95 | 1.1% |
+| Stock Exchange Data | FTSE All-Share UK | 4,059.32 | 4,063.89 | 4,089.19 | 4,025.87 | 4,057.63 | 1.0% |
+| Stock Exchange Data | CAC40 | 6,765.52 | 6,795.75 | 6,881.87 | 6,721.16 | 6,776.25 | 0.4% |
+| Stock Exchange Data | Xetra Dax | 15,169.98 | 15,263.11 | 15,472.67 | 15,100.13 | 15,280.86 | -0.7% |
+| Stock Exchange Data | Nikkei | 28,029.57 | 27,753.37 | 27,935.62 | 27,821.76 | 28,283.92 | -0.9% |
+| Stock Exchange Data | Hang Seng | 23,788.93 | 23,788.93 | 23,658.92 | 23,475.26 | 23,852.24 | -3.8% |
+| Stock Exchange Data | DJ US Maritime | 178.44 | 174.50 | 166.82 | 171.41 | 178.83 | 0.5% |
+| Currencies | € / $ | 1.13 | 1.13 | 1.13 | 1.13 | 1.13 | 0.0% |
+| Currencies | £ / $ | 1.32 | 1.33 | 1.33 | 1.33 | 1.33 | -0.8% |
+| Currencies | $ / ¥ | 112.81 | 113.01 | 112.88 | 113.27 | 113.79 | -0.5% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.11 | 0.11 | 0.11 | -0.7% |
+| Currencies | Yuan / $ | 6.38 | 6.38 | 6.37 | 6.36 | 6.39 | -0.3% |
+| Currencies | Won / $ | 1,184.38 | 1,176.88 | 1,177.20 | 1,182.96 | 1,190.96 | -1.0% |
+| Currencies | $ INDEX | 96.15 | 96.16 | 96.03 | 95.99 | 96.34 | 0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 3-Dec-21 | 26-Nov-21 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 580.0 | 642.0 | -9.7% |
+| MGO | Houston | 642.5 | 701.5 | -8.4% |
+| MGO | Singapore | 603.5 | 674.0 | -10.5% |
+| 380cst | Rotterdam | 394.5 | 428.0 | -7.8% |
+| 380cst | Houston | 438.0 | 467.5 | -6.3% |
+| 380cst | Singapore | 409.0 | 457.0 | -10.5% |
+| VLSFO | Rotterdam | 538.0 | 566.0 | -4.9% |
+| VLSFO | Houston | 551.5 | 594.0 | -7.2% |
+| VLSFO | Singapore | 607.0 | 627.0 | -3.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 03-Dec-21 | 26-Nov-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 16.06 | 15.84 | 1.4% |
+| COSTAMARE INC | NYSE | USD | 11.82 | 12.08 | -2.2% |
+| DANAOS CORPORATION | NYSE | USD | 68.59 | 71.79 | -4.5% |
+| DIANA SHIPPING | NYSE | USD | 3.81 | 4.21 | -9.5% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 40.60 | 40.03 | 1.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 24.48 | 24.94 | -1.8% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.30 | 2.58 | -10.9% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 4.59 | 4.55 | 0.9% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 26.15 | 26.34 | -0.7% |
+| SAFE BULKERS INC | NYSE | USD | 3.59 | 3.53 | 1.7% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.89 | 0.92 | -3.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 21.66 | 20.95 | 3.4% |
+| STEALTHGAS INC | NASDAQ | USD | 2.83 | 2.66 | 6.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 7.18 | 7.34 | -2.2% |
+
+## Market News
+
+“Piraeus Bank unmasked as Seanergy lender in its first sustainable loan deal
+
+Piraeus Bank has been revealed as the lender behind a $16.85m green loan to Greek bulker owner Seanergy Maritime Holdings.
+
+The financing of a secondhand capesize purchase for the US-listed company marked the Greek lender's first sustainability-linked deal, according to UK-headquartered law firm Watson Farley & Williams (WFW), which advised the bank.
+
+The loan, announced by Seanergy in October, includes a margin-adjustment mechanism based on carbon intensity ratings as an incentive for the owner to reduce emissions.
+
+"It also incorporated disincentives for non-compliance, demonstrating Piraeus Bank's commitment to promoting sustainable ship financing," WFW added.
+
+Piraeus Bank is a multinational financial services company that holds a leading position in the financing of Greek-owned merchant shipping.
+
+Its cash went towards the financing of the 181,000- dwt bulker Worldship (built 2012), bought in May. Seanergy paid $33.7m for the...”(TradeWinds)

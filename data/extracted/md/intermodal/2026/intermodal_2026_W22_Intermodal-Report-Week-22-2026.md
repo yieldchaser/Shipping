@@ -251,3 +251,77 @@ tions that June's national budget may include new infrastructure projects, has e
 At Gadani, the ship recycling market stood at a standstill due to Eid, while the local steel market was also closed, leaving steel prices unchanged. Activity is expected to resume next week, although the monsoon season is now approaching. Market fundamentals appear broadly healthy , supported by currency stability and steady buying appetite. However, overall momentum remains constrained by the limited supply of available candidates.
 
 The Turkish market remained quiet, with Eid keeping activity across both ship recycling and steel segments muted. Sentiment continues to be cautious, as challenging economic conditions weigh on the outlook.
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 29-May-26 | 28-May-26 | 27-May-26 | 26-May-26 | 25-May-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.453 | 4.455 | 4.481 | 4.491 | 4.572 | -2.6% |
+| Stock Exchange Data | S&P 500 | 7,580.06 | 7,563.63 | 7,520.36 | 7,519.12 | 7,473.47 | 1.4% |
+| Stock Exchange Data | Nasdaq | 30,333.18 | 30,223.89 | 29,973.57 | 30,001.32 | 29,481.64 | 2.9% |
+| Stock Exchange Data | Dow Jones | 51,032.46 | 50,668.97 | 50,644.28 | 50,461.68 | 50,579.70 | 0.9% |
+| Stock Exchange Data | FTSE 100 | 10,409.28 | 10,425.96 | 10,505.01 | 10,491.39 | 10,466.26 | -0.5% |
+| Stock Exchange Data | FTSE All-Share UK | 5,604.03 | 5,609.15 | 5,648.29 | 5,640.23 | 5,623.92 | -0.4% |
+| Stock Exchange Data | CAC40 | 8,183.34 | 8,188.87 | 8,207.89 | 8,173.11 | 8,258.26 | 0.8% |
+| Stock Exchange Data | Xetra Dax | 25,104.70 | 25,092.25 | 25,177.80 | 25,184.89 | 25,389.10 | 0.9% |
+| Stock Exchange Data | Nikkei | 66,329.50 | 64,693.12 | 64,999.41 | 64,996.09 | 65,158.19 | 4.7% |
+| Stock Exchange Data | Hang Seng | 25,182.39 | 25,006.16 | 25,328.23 | 25,599.45 | 25,606.03 | -1.7% |
+| Stock Exchange Data | DJ US Maritime | 461.49 | 461.06 | 470.48 | 473.83 | 470.52 | -1.9% |
+| Currencies | € / $ | 1.17 | 1.17 | 1.16 | 1.16 | 1.16 | 0.5% |
+| Currencies | £ / $ | 1.35 | 1.34 | 1.34 | 1.34 | 1.35 | 0.2% |
+| Currencies | $ / ¥ | 159.26 | 159.23 | 159.51 | 159.29 | 158.89 | 0.0% |
+| Currencies | $ / NoK | 9.24 | 9.24 | 9.28 | 9.25 | 9.22 | -0.2% |
+| Currencies | Yuan / $ | 6.77 | 6.78 | 6.78 | 6.79 | 6.78 | -0.4% |
+| Currencies | Won / $ | 1,507.09 | 1,495.98 | 1,501.57 | 1,506.95 | 1,512.24 | -0.9% |
+| Currencies | $ INDEX | 98.91 | 99.02 | 99.21 | 99.17 | 99.24 | -0.3% |
+
+## Bunker Prices
+
+| Grade | Port | 29-May-26 | 22-May-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,015.5 | 1,144.0 | -11.2% |
+| MGO | Houston | 1,070.8 | 1,155.3 | -7.3% |
+| MGO | Singapore | 1,062.0 | 1,182.3 | -10.2% |
+| 380cst | Rotterdam | 608.0 | 669.8 | -9.2% |
+| 380cst | Houston | 661.8 | 651.0 | 1.7% |
+| 380cst | Singapore | 634.0 | 658.3 | -3.7% |
+| VLSFO | Rotterdam | 695.8 | 736.0 | -5.5% |
+| VLSFO | Houston | 749.3 | 813.3 | -7.9% |
+| VLSFO | Singapore | 774.3 | 812.8 | -4.7% |
+
+## Oil Prices
+
+| Category | Indicator | 29-May-26 | 22-May-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 92.1 | 103.5 | -11.1% |
+| OIL | WTI | 87.4 | 96.6 | -9.6% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 29-May-26 | 22-May-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 22.24 | 22.31 | -0.3% |
+| COSTAMARE INC | NYSE | USD | 15.38 | 16.42 | -6.3% |
+| DANAOS CORPORATION | NYSE | USD | 125.21 | 130.85 | -4.3% |
+| DIANA SHIPPING | NYSE | USD | 2.36 | 2.60 | -9.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 63.70 | 65.21 | -2.3% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.03 | 2.05 | -1.0% |
+| SAFE BULKERS INC | NYSE | USD | 6.25 | 6.57 | -4.9% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 15.50 | 15.12 | 2.5% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 27.25 | 26.40 | 3.2% |
+| STEALTHGAS INC | NASDAQ | USD | 9.18 | 9.92 | -7.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 37.58 | 42.61 | -11.8% |
+
+## Macro-economic headlines
+
+In China, the RatingDog Manufacturing PMI remained in expansionary territory at 51.8, exceeding market expectations of 51.4, although moderating from April’s 52.2 reading, its highest level in five years.
+
+In India, industrial production increased by 4.9% y-o-y in April, exceeding market estimations of 3.8% and up from the 4.1% recorded in March.
+
+In the Eurozone, the Manufacturing PMI stood at 51.6 in May, slightly above the forecast of 51.4, but below April’s 52.2 reading.
+
+In Germany the Import Price Index accelerated in April, rising by 5.3% y-o-y, in line with market estimations and well above the 2.3% recorded in March.

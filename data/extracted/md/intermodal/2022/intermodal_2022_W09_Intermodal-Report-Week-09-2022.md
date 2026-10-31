@@ -341,3 +341,77 @@ Scrap prices in the demolition market witnessed another w-o-w improvement. Owner
 | GREATSHIP ROHINI | 3,656 | 2,456 | 2010 | COLOMBO DRY, Sri Lanka | OFFSHORE/PSV | $ 649/Ldt | undisclosed | as-is Mumbai |
 
 © Intermodal Research 08/03/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 4-Mar-22 | 3-Mar-22 | 2-Mar-22 | 1-Mar-22 | 28-Feb-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.724 | 1.844 | 1.865 | 1.707 | 1.839 | -13.2% |
+| Stock Exchange Data | S&P 500 | 4,328.87 | 4,363.49 | 4,386.54 | 4,306.26 | 4,384.65 | -1.3% |
+| Stock Exchange Data | Nasdaq | 13,313.44 | 13,537.94 | 13,752.02 | 13,532.46 | 13,751.40 | -2.8% |
+| Stock Exchange Data | Dow Jones | 33,614.80 | 33,794.66 | 33,891.35 | 33,294.95 | 33,892.60 | -1.3% |
+| Stock Exchange Data | FTSE 100 | 6,987.14 | 7,238.85 | 7,429.56 | 7,330.20 | 7,458.25 | -6.7% |
+| Stock Exchange Data | FTSE All-Share UK | 3,884.43 | 4,023.90 | 4,134.87 | 4,079.97 | 4,157.77 | -6.8% |
+| Stock Exchange Data | CAC40 | 6,061.66 | 6,378.37 | 6,498.02 | 6,396.49 | 6,658.83 | -10.2% |
+| Stock Exchange Data | Xetra Dax | 13,094.54 | 13,698.40 | 14,000.11 | 13,904.85 | 14,461.02 | -9.4% |
+| Stock Exchange Data | Nikkei | 25,985.47 | 26,577.27 | 26,393.03 | 26,844.72 | 26,526.82 | -2.0% |
+| Stock Exchange Data | Hang Seng | 22,467.34 | 22,467.34 | 22,343.92 | 22,761.71 | 22,713.02 | -1.9% |
+| Stock Exchange Data | DJ US Maritime | 229.25 | 221.83 | 215.73 | 209.39 | 213.86 | 8.1% |
+| Currencies | € / $ | 1.09 | 1.11 | 1.11 | 1.11 | 1.12 | -3.0% |
+| Currencies | £ / $ | 1.32 | 1.34 | 1.34 | 1.33 | 1.34 | -1.4% |
+| Currencies | $ / ¥ | 114.82 | 115.48 | 115.51 | 114.83 | 115.08 | -0.6% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.11 | 0.11 | 0.11 | -0.5% |
+| Currencies | Yuan / $ | 6.32 | 6.32 | 6.32 | 6.31 | 6.31 | 0.0% |
+| Currencies | Won / $ | 1,216.93 | 1,206.99 | 1,203.28 | 1,205.38 | 1,201.16 | 1.6% |
+| Currencies | $ INDEX | 98.65 | 97.79 | 97.39 | 97.41 | 96.71 | 2.1% |
+
+## Bunker Prices
+
+| Grade | Port | 4-Mar-22 | 25-Feb-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,051.0 | 873.5 | 20.3% |
+| MGO | Houston | 1,078.0 | 932.0 | 15.7% |
+| MGO | Singapore | 1,096.0 | 881.5 | 24.3% |
+| 380cst | Rotterdam | 627.0 | 544.5 | 15.2% |
+| 380cst | Houston | 674.0 | 602.5 | 11.9% |
+| 380cst | Singapore | 619.0 | 552.0 | 12.1% |
+| VLSFO | Rotterdam | 828.5 | 724.0 | 14.4% |
+| VLSFO | Houston | 852.0 | 768.5 | 10.9% |
+| VLSFO | Singapore | 892.5 | 768.5 | 16.1% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 04-Mar-22 | 25-Feb-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.12 | 15.35 | -1.5% |
+| COSTAMARE INC | NYSE | USD | 14.20 | 13.90 | 2.2% |
+| DANAOS CORPORATION | NYSE | USD | 88.97 | 94.20 | -5.6% |
+| DIANA SHIPPING | NYSE | USD | 5.00 | 4.75 | 5.3% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 55.37 | 56.50 | -2.0% |
+| EUROSEAS LTD. | NASDAQ | USD | 28.78 | 27.83 | 3.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.08 | 2.05 | 1.5% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 3.67 | 3.84 | -4.4% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 31.45 | 33.67 | -6.6% |
+| SAFE BULKERS INC | NYSE | USD | 4.27 | 4.33 | -1.4% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.14 | 1.15 | -0.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 28.27 | 31.76 | -11.0% |
+| STEALTHGAS INC | NASDAQ | USD | 2.49 | 2.08 | 19.7% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 10.04 | 7.81 | 28.6% |
+
+## Market News
+
+“Trafigura refinances with $5.3bn revolver amid ‘profound’ geopolitical tensions
+
+Swiss trading and chartering giant Trafigura has clinched an over-subscribed refinancing to boost liquidity in volatile markets.
+
+The company said it closed new European multi-currency syndicated revolving credit facilities worth $5.295bn.
+
+The refinancing was targeting a total of $4.5bn, but was “very well received by the bank market and closed substantially oversubscribed,” Trafigura added.
+
+Chief financial officer Christophe Salmon said the revolvers are a key pillar of its financial model, designed to give the group sustained access to liquidity and capital, “including during periods of extreme volatility in the global economy and at times of profound geopolitical tensions”.
+
+“Trafigura continues to maintain significant available liquidity to manage price volatility currently being seen in oil and natural gas,” the CFO added...”(TradeWinds)

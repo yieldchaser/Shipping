@@ -256,3 +256,75 @@ In anticipation of the Hong Kong Convention taking effect in forthcoming June an
 | SK SUPREME | 75,319 | 29,017 | 2000 | SAMSUNG, S. Korea | GAS TANKER | 469,5/ldt | undisclosed | as is Singapore |
 | SK SPLENDOR | 75,154 | 29,920 | 2000 | SAMSUNG, S. Korea | GAS TANKER | 469,5/ldt | undisclosed |  |
 | SK STELLAR | 75,135 | 29,920 | 2000 | SAMSUNG, S. Korea | GAS TANKER | 469,5/ldt | undisclosed |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 15-Nov-24 | 14-Nov-24 | 13-Nov-24 | 12-Nov-24 | 11-Nov-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.426 | 4.420 | 4.451 | 4.433 | 4.308 | 2.7% |
+| Stock Exchange Data | S&P 500 | 5,870.62 | 5,949.17 | 5,985.38 | 5,983.99 | 6,001.35 | -2.1% |
+| Stock Exchange Data | Nasdaq | 20,394.13 | 20,896.67 | 21,036.16 | 21,070.79 | 21,106.59 | -3.4% |
+| Stock Exchange Data | Dow Jones | 43,444.99 | 43,750.86 | 43,958.19 | 43,910.98 | 44,293.13 | -1.2% |
+| Stock Exchange Data | FTSE 100 | 8,063.61 | 8,071.19 | 8,030.33 | 8,025.77 | 8,125.19 | -0.1% |
+| Stock Exchange Data | FTSE All-Share UK | 4,412.19 | 4,417.25 | 4,392.88 | 4,393.14 | 4,448.67 | -0.1% |
+| Stock Exchange Data | CAC40 | 7,269.63 | 7,311.80 | 7,216.83 | 7,226.98 | 7,426.88 | -0.9% |
+| Stock Exchange Data | Xetra Dax | 19,210.81 | 19,263.70 | 19,003.11 | 19,033.64 | 19,448.60 | 0.0% |
+| Stock Exchange Data | Nikkei | 38,642.91 | 38,535.70 | 38,721.66 | 39,376.09 | 39,533.32 | -2.2% |
+| Stock Exchange Data | Hang Seng | 19,426.34 | 19,435.81 | 19,823.45 | 19,846.88 | 20,426.93 | -6.3% |
+| Stock Exchange Data | DJ US Maritime | 420.30 | 426.56 | 421.74 | 427.32 | 428.53 | 0.6% |
+| Currencies | € / $ | 1.05 | 1.05 | 1.06 | 1.06 | 1.07 | -1.7% |
+| Currencies | £ / $ | 1.26 | 1.27 | 1.27 | 1.27 | 1.29 | -2.4% |
+| Currencies | $ / ¥ | 154.34 | 156.25 | 155.45 | 154.60 | 153.71 | 1.1% |
+| Currencies | $ / NoK | 11.07 | 11.14 | 11.14 | 11.05 | 11.03 | 0.7% |
+| Currencies | Yuan / $ | 7.23 | 7.23 | 7.22 | 7.23 | 7.21 | 0.7% |
+| Currencies | Won / $ | 1,393.68 | 1,404.75 | 1,404.09 | 1,405.80 | 1,399.08 | -0.2% |
+| Currencies | $ INDEX | 106.69 | 106.67 | 106.48 | 106.02 | 105.54 | 1.6% |
+
+## Bunker Prices
+
+| Grade | Port | 15-Nov-24 | 8-Nov-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 659.0 | 670.0 | -1.6% |
+| MGO | Houston | 660.0 | 656.0 | 0.6% |
+| MGO | Singapore | 649.0 | 671.0 | -3.3% |
+| 380cst | Rotterdam | 480.0 | 473.0 | 1.5% |
+| 380cst | Houston | 448.0 | 439.0 | 2.1% |
+| 380cst | Singapore | 457.0 | 475.0 | -3.8% |
+| VLSFO | Rotterdam | 504.0 | 519.0 | -2.9% |
+| VLSFO | Houston | 533.0 | 539.0 | -1.1% |
+| VLSFO | Singapore | 557.0 | 582.0 | -4.3% |
+
+## Oil Prices
+
+| Category | Indicator | 15-Nov-24 | 8-Nov-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 71.0 | 73.9 | -3.8% |
+| OIL | WTI | 67.0 | 70.4 | -4.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 15-Nov-24 | 08-Nov-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.79 | 18.50 | 1.6% |
+| COSTAMARE INC | NYSE | USD | 14.39 | 14.31 | 0.6% |
+| DANAOS CORPORATION | NYSE | USD | 85.76 | 81.96 | 4.6% |
+| DIANA SHIPPING | NYSE | USD | 2.19 | 2.22 | -1.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 42.77 | 41.68 | 2.6% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.52 | 1.54 | -1.3% |
+| SAFE BULKERS INC | NYSE | USD | 4.27 | 4.34 | -1.6% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 9.04 | 9.56 | -5.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 20.29 | 20.10 | 0.9% |
+| STEALTHGAS INC | NASDAQ | USD | 5.74 | 5.76 | -0.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 20.23 | 21.03 | -3.8% |
+
+## Macro-economic headlines
+
+In US, the CPI grew by 0.2%, in line with market forecast and consistent with the previous 3 months. The US Industrial Production decreased by 0.3% in October, matching expectations and remaining unchanged from September. The slowdown of manufacturing activity witnessed in October was driven by a strike of a major manufacturer in the aircraft industry combined with some residual impacts of the Hurricane Helene.
+
+In China, CNY500 billion of New Loans were granted in October 2024, a decline compared to September’s new credit (CNY1.59 trillion) and below market estimations of CNY770 billion. October’s figure, marking a 15-year low, suggests a weak appetite for new investments, despite the economic stimulus measures announced by the Chinese government in late September. Moreover, the YTD Industrial Production, grew by 5.8% in October, maintaining the same pace as recorded in September and August.
+
+In the EU, Q-o-Q GDP increased by 0.4%, the highest rate since Q2 2022. Defying expectations for the contrary, German economy grew by 0.2%. France’s GDP advanced by 0.4% (up from 0.2% in Q2)

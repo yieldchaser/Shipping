@@ -244,3 +244,72 @@ LC regulations have become stricter with banks requiring a list of goods before 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | SEA SMILE | 45,744 | 7,371 | 1995 | IMABARI, Japan | BC | $ 498/Ldt | Bangladeshi |
 | MSC LEVINA | 43,140 | 12,858 | 1989 | SAMSUNG, S. Korea | CONTAINER | $ 565/Ldt | Indian |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 13-Oct-23 | 12-Oct-23 | 11-Oct-23 | 10-Oct-23 | 9-Oct-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.616 | 4.697 | 4.558 | 4.657 | 4.628 | -3.7% |
+| Stock Exchange Data | S&P 500 | 4,327.78 | 4,349.61 | 4,376.95 | 4,358.24 | 4,335.66 | 0.4% |
+| Stock Exchange Data | Nasdaq | 13,407.23 | 13,574.22 | 13,659.68 | 13,562.84 | 13,484.24 | -0.2% |
+| Stock Exchange Data | Dow Jones | 33,670.29 | 33,631.14 | 33,804.87 | 33,739.30 | 33,604.65 | 0.8% |
+| Stock Exchange Data | FTSE 100 | 7,599.60 | 7,644.78 | 7,620.03 | 7,628.21 | 7,492.21 | 1.4% |
+| Stock Exchange Data | FTSE All-Share UK | 4,095.50 | 4,128.49 | 4,118.20 | 4,124.72 | 4,049.14 | 1.0% |
+| Stock Exchange Data | CAC40 | 7,003.53 | 7,104.53 | 7,131.21 | 7,162.43 | 7,021.40 | -0.8% |
+| Stock Exchange Data | Xetra Dax | 15,186.66 | 15,425.03 | 15,460.01 | 15,423.52 | 15,128.11 | 0.4% |
+| Stock Exchange Data | Nikkei | 32,315.99 | 32,315.99 | 32,494.66 | 31,936.51 | 31,746.53 | 1.8% |
+| Stock Exchange Data | Hang Seng | 17,813.45 | 18,238.21 | 17,893.10 | 17,664.73 | 17,517.40 | 1.7% |
+| Stock Exchange Data | DJ US Maritime | 268.35 | 265.46 | 270.64 | 269.76 | 269.76 | 0.7% |
+| Currencies | € / $ | 1.05 | 1.05 | 1.06 | 1.06 | 1.06 | -0.8% |
+| Currencies | £ / $ | 1.21 | 1.22 | 1.23 | 1.23 | 1.23 | -0.9% |
+| Currencies | $ / ¥ | 149.56 | 149.79 | 149.04 | 148.63 | 148.34 | 0.2% |
+| Currencies | $ / NoK | 0.0915 | 0.0912 | 0.0921 | 0.0925 | 0.0928 | -0.2% |
+| Currencies | Yuan / $ | 7.30 | 7.30 | 7.30 | 7.30 | 7.29 | 1.5% |
+| Currencies | Won / $ | 1,353.07 | 1,346.82 | 1,338.87 | 1,342.55 | 1,347.50 | 0.6% |
+| Currencies | $ INDEX | 106.43 | 106.37 | 105.57 | 105.56 | 105.81 | 0.4% |
+
+## Bunker Prices
+
+| Grade | Port | 13-Oct-23 | 6-Oct-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 13-Oct-23 | 06-Oct-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.34 | 13.91 | 3.1% |
+| COSTAMARE INC | NYSE | USD | 9.61 | 9.41 | 2.1% |
+| DANAOS CORPORATION | NYSE | USD | 66.21 | 66.39 | -0.3% |
+| DIANA SHIPPING | NYSE | USD | 3.39 | 3.44 | -1.5% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 42.76 | 43.04 | -0.7% |
+| EUROSEAS LTD. | NASDAQ | USD | 26.52 | 27.51 | -3.6% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.24 | 2.19 | 2.3% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.87 | 1.90 | -1.6% |
+| SAFE BULKERS INC | NYSE | USD | 3.31 | 3.31 | 0.0% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 6.21 | 5.95 | 4.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.71 | 19.82 | -0.6% |
+| STEALTHGAS INC | NASDAQ | USD | 5.18 | 5.06 | 2.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 21.93 | 20.51 | 6.9% |
+
+## Macro-economic headlines
+
+• US: The CPI rose by 3.7% on an annual basis in September, while the core CPI increased by 4.1%
+
+• EU: In the euro area, German industrial production fell by 0.2% mom in August. The CPI rose by 4.5% year on year in September.
+
+• China: The trade balance showed a surplus of 77.71 bn in September. Both imports and exports fell by 6.2% in the same period.
+
+• UK: GDP rose by 0.2% m-o-m in August, while the trade balance was -15.95 bn in the same month

@@ -259,3 +259,77 @@ In Turkey, the market remains flat with a sluggish flow of recycling candidates,
 | ARK PRESTIGE | 10,314 | 3,307 | 1996 | IMABARI, Japan | TANKER | $ 725/Ldt | Indian | Stainless Steel |
 | BOLD MARINER | 45,674 | 7,507 | 1996 | TSUNEISHI, Japan | BC | $ 430/Ldt | Bangladeshi |  |
 | SEAPEAK ASIA | 77,204 | 29,686 | 2003 | IZAR SESTAO, Spain | GAS TANKER | $ 420/Ldt | undisclosed | as is Oman |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 28-Nov-25 | 27-Nov-25 | 26-Nov-25 | 25-Nov-25 | 24-Nov-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.019 | 3.998 | 3.998 | 4.002 | 4.036 | -1.1% |
+| Stock Exchange Data | S&P 500 | 6,849.09 | 6,812.61 | 6,812.61 | 6,765.88 | 6,705.12 | 3.7% |
+| Stock Exchange Data | Nasdaq | 25,434.89 | 25,236.94 | 25,236.94 | 25,018.36 | 24,873.85 | 4.9% |
+| Stock Exchange Data | Dow Jones | 47,716.42 | 47,427.12 | 47,427.12 | 47,112.45 | 46,448.27 | 3.2% |
+| Stock Exchange Data | FTSE 100 | 9,720.51 | 9,693.93 | 9,691.58 | 9,609.53 | 9,534.91 | 1.9% |
+| Stock Exchange Data | FTSE All-Share UK | 5,241.31 | 5,226.42 | 5,219.51 | 5,173.36 | 5,132.28 | 2.1% |
+| Stock Exchange Data | CAC40 | 8,122.71 | 8,099.47 | 8,096.43 | 8,025.80 | 7,959.67 | 1.8% |
+| Stock Exchange Data | Xetra Dax | 23,836.79 | 23,767.96 | 23,726.22 | 23,464.63 | 23,239.18 | 3.2% |
+| Stock Exchange Data | Nikkei | 50,253.91 | 50,167.10 | 49,559.07 | 48,659.52 | 49,504.00 | 3.3% |
+| Stock Exchange Data | Hang Seng | 25,858.89 | 25,945.93 | 25,928.08 | 25,894.55 | 25,716.50 | 2.5% |
+| Stock Exchange Data | DJ US Maritime | 372.63 | 371.22 | 371.22 | 367.91 | 354.64 | 5.4% |
+| Currencies | € / $ | 1.16 | 1.16 | 1.16 | 1.16 | 1.15 | 0.7% |
+| Currencies | £ / $ | 1.32 | 1.32 | 1.32 | 1.32 | 1.31 | 1.1% |
+| Currencies | $ / ¥ | 156.15 | 156.30 | 156.47 | 156.04 | 156.89 | -0.2% |
+| Currencies | $ / NoK | 10.10 | 10.14 | 10.20 | 10.22 | 10.22 | -1.2% |
+| Currencies | Yuan / $ | 7.08 | 7.08 | 7.08 | 7.08 | 7.10 | -0.4% |
+| Currencies | Won / $ | 1,467.47 | 1,462.23 | 1,471.35 | 1,465.51 | 1,474.60 | -0.1% |
+| Currencies | $ INDEX | 99.44 | 99.60 | 99.60 | 99.66 | 100.14 | -0.7% |
+
+## Bunker Prices
+
+| Grade | Port | 28-Nov-25 | 21-Nov-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 654.0 | 690.0 | -5.2% |
+| MGO | Houston | 662.0 | 676.0 | -2.1% |
+| MGO | Singapore | 663.0 | 697.0 | -4.9% |
+| 380cst | Rotterdam | 362.0 | 359.0 | 0.8% |
+| 380cst | Houston | 353.0 | 366.0 | -3.6% |
+| 380cst | Singapore | 353.0 | 357.0 | -1.1% |
+| VLSFO | Rotterdam | 409.0 | 411.0 | -0.5% |
+| VLSFO | Houston | 440.0 | 430.0 | 2.3% |
+| VLSFO | Singapore | 435.0 | 444.0 | -2.0% |
+
+## Oil Prices
+
+| Category | Indicator | 28-Nov-25 | 21-Nov-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 63.2 | 62.6 | 1.0% |
+| OIL | WTI | 58.6 | 58.1 | 0.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 28-Nov-25 | 21-Nov-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 20.57 | 19.03 | 8.1% |
+| COSTAMARE INC | NYSE | USD | 15.27 | 14.57 | 4.8% |
+| DANAOS CORPORATION | NYSE | USD | 97.80 | 93.43 | 4.7% |
+| DIANA SHIPPING | NYSE | USD | 1.97 | 1.68 | 17.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 60.29 | 57.92 | 4.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.36 | 1.18 | 15.7% |
+| SAFE BULKERS INC | NYSE | USD | 5.29 | 4.85 | 9.1% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 10.57 | 9.50 | 11.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.90 | 19.14 | 4.0% |
+| STEALTHGAS INC | NASDAQ | USD | 6.86 | 6.78 | 1.2% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 24.49 | 24.65 | -0.6% |
+
+## Macro-economic headlines
+
+In China, the Caixin Manufacturing PMI edged into contraction at 49.9 in November, underperforming forecasts of 50.5 and October’s 50.6.
+
+In Eurozone, the Industrial Sentiment Index retreated to -9.3 in November, failing to meet market estimations of -8 and October’s reading of -8.2.
+
+In India, Industrial Production rose modestly by 0.4% y-o-y in October, falling short of market expectations of 3.6% and September’s 4% pace.
+
+In France, GDP grew by 0.9% y-o-y in Q3 2025, in line with market forecasts and marginally higher than the 0.8% recorded in Q2.

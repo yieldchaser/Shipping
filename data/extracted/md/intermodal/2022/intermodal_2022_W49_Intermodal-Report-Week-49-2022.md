@@ -320,3 +320,76 @@ Across the main Indian-subcontinent nations, offered levels in India increased w
 | GASCHEM PHOENIX | 5,560 | 2,111 | 1993 | JIANGNAN, China | GAS TANKER | undisclosed | undisclosed | as is Singapore |
 
 © Intermodal Research 13/12/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 9-Dec-22 | 8-Dec-22 | 7-Dec-22 | 6-Dec-22 | 5-Dec-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.567 | 3.491 | 3.408 | 3.513 | 3.599 | 1.7% |
+| Stock Exchange Data | S&P 500 | 3,934.38 | 3,963.51 | 3,933.92 | 3,941.26 | 4,071.70 | -3.4% |
+| Stock Exchange Data | Nasdaq | 11,004.62 | 11,082.00 | 10,958.55 | 11,014.89 | 11,239.94 | -4.0% |
+| Stock Exchange Data | Dow Jones | 33,476.46 | 33,781.48 | 33,597.92 | 33,596.34 | 33,947.10 | -2.8% |
+| Stock Exchange Data | FTSE 100 | 7,476.63 | 7,472.17 | 7,489.19 | 7,521.39 | 7,567.54 | -1.1% |
+| Stock Exchange Data | FTSE All-Share UK | 4,087.39 | 4,082.24 | 4,093.68 | 4,114.48 | 4,143.21 | -1.2% |
+| Stock Exchange Data | CAC40 | 6,677.64 | 6,647.31 | 6,660.59 | 6,687.79 | 6,696.96 | -1.0% |
+| Stock Exchange Data | Xetra Dax | 14,370.72 | 14,264.56 | 14,261.19 | 14,343.19 | 14,447.61 | -0.5% |
+| Stock Exchange Data | Nikkei | 27,901.01 | 27,574.43 | 27,686.40 | 27,885.87 | 27,820.40 | 0.3% |
+| Stock Exchange Data | Hang Seng | 19,450.23 | 19,450.23 | 18,814.82 | 19,441.18 | 19,518.29 | 3.8% |
+| Stock Exchange Data | DJ US Maritime | 209.62 | 215.10 | 215.73 | 218.81 | 225.02 | -10.2% |
+| Currencies | € / $ | 1.05 | 1.06 | 1.05 | 1.05 | 1.05 | 0.1% |
+| Currencies | £ / $ | 1.23 | 1.22 | 1.22 | 1.21 | 1.22 | -0.3% |
+| Currencies | $ / ¥ | 136.57 | 136.62 | 136.38 | 136.92 | 136.66 | 1.7% |
+| Currencies | $ / NoK | 0.0999 | 0.1004 | 0.0998 | 0.0998 | 0.1005 | -2.5% |
+| Currencies | Yuan / $ | 6.96 | 6.97 | 6.97 | 7.00 | 6.96 | -1.0% |
+| Currencies | Won / $ | 1,304.27 | 1,317.01 | 1,314.50 | 1,320.04 | 1,305.35 | 0.5% |
+| Currencies | $ INDEX | 104.81 | 104.77 | 105.10 | 105.58 | 105.29 | 0.3% |
+
+## Bunker Prices
+
+| Grade | Port | 9-Dec-22 | 2-Dec-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 09-Dec-22 | 02-Dec-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.94 | 14.60 | -4.5% |
+| COSTAMARE INC | NYSE | USD | 9.01 | 9.48 | -5.0% |
+| DANAOS CORPORATION | NYSE | USD | 54.51 | 55.03 | -0.9% |
+| DIANA SHIPPING | NYSE | USD | 3.54 | 3.59 | -1.4% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 50.72 | 50.45 | 0.5% |
+| EUROSEAS LTD. | NASDAQ | USD | 19.06 | 20.31 | -6.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.06 | 1.23 | -13.8% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.60 | 1.90 | -15.8% |
+| SAFE BULKERS INC | NYSE | USD | 2.73 | 2.73 | 0.0% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.52 | 0.52 | 0.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.51 | 18.76 | 4.0% |
+| STEALTHGAS INC | NASDAQ | USD | 2.79 | 2.96 | -5.7% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.04 | 18.92 | -9.9% |
+
+## Market News
+
+“Belgian block: Saverys family reaches key 25% Euronav stake in merger war
+
+The Saverys family has reached a pivotal 25% stake in tanker owner Euronav, sealing its ability to block a standard merger between the Belgian company and John Fredriksen’s Frontline.
+
+Saverys entities have purchased a further 2.04m Euronav shares for just under $39m since its last public filing at 6 December revealed it had accumulated a 23.9% stake.
+
+They now hold 50.45m shares or exactly 25% of the company, according to a filing with US securities regulators after the close of trading on Monday.
+
+While that is enough to stymie a regular-way merger between Frontline and Euronav, the two shipowners can still combine fleets by attracting just one vote over 50% of all holders.
+
+The disclosure is the latest piece of drama tied to a combination that would create the world's largest tanker owner under the Frontline name but with Euronav in...(TradeWinds)

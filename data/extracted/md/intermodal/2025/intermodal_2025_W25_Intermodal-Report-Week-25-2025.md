@@ -237,3 +237,77 @@ In Turkey, the market remains largely stagnant, with growing uncertainty fueled 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MAHARSHI PARASHURAM | 93,322 | 18,264 | 2002 | COCHIN SHIPYARD, India | TANKER | $ 395/Ldt | undisclosed | as is Colombo |
 | FP FUTURE | 49,957 | 9,799 | 2002 | SHIN KURUSHIMA, Japan | BC | $ 457/Ldt | Indian |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 20-Jun-25 | 19-Jun-25 | 18-Jun-25 | 17-Jun-25 | 16-Jun-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.375 | 4.395 | 4.395 | 4.391 | 4.454 | -1.1% |
+| Stock Exchange Data | S&P 500 | 5,967.84 | 5,980.87 | 5,980.87 | 5,982.72 | 6,033.11 | -0.2% |
+| Stock Exchange Data | Nasdaq | 21,626.39 | 21,719.69 | 21,719.69 | 21,719.08 | 21,937.57 | 0.0% |
+| Stock Exchange Data | Dow Jones | 42,206.82 | 42,171.66 | 42,171.66 | 42,215.80 | 42,515.09 | 0.0% |
+| Stock Exchange Data | FTSE 100 | 8,774.65 | 8,791.80 | 8,843.47 | 8,834.03 | 8,875.22 | -0.9% |
+| Stock Exchange Data | FTSE All-Share UK | 4,765.29 | 4,770.68 | 4,801.26 | 4,795.37 | 4,816.02 | -0.7% |
+| Stock Exchange Data | CAC40 | 7,589.66 | 7,553.45 | 7,656.12 | 7,683.73 | 7,742.24 | -1.2% |
+| Stock Exchange Data | Xetra Dax | 23,350.55 | 23,057.38 | 23,317.81 | 23,434.65 | 23,699.12 | -0.7% |
+| Stock Exchange Data | Nikkei | 38,403.23 | 38,488.34 | 38,885.15 | 38,536.74 | 38,311.33 | 1.5% |
+| Stock Exchange Data | Hang Seng | 23,530.48 | 23,237.74 | 23,710.69 | 23,980.30 | 24,060.99 | -1.5% |
+| Stock Exchange Data | DJ US Maritime | 368.27 | 370.50 | 370.50 | 371.62 | 371.32 | 1.2% |
+| Currencies | € / $ | 1.15 | 1.15 | 1.15 | 1.15 | 1.16 | -0.3% |
+| Currencies | £ / $ | 1.34 | 1.35 | 1.34 | 1.34 | 1.36 | -0.8% |
+| Currencies | $ / ¥ | 146.07 | 145.45 | 145.10 | 145.25 | 144.72 | 1.4% |
+| Currencies | $ / NoK | 10.07 | 10.02 | 9.97 | 9.93 | 9.91 | 2.2% |
+| Currencies | Yuan / $ | 7.18 | 7.19 | 7.19 | 7.18 | 7.18 | 0.0% |
+| Currencies | Won / $ | 1,372.84 | 1,376.44 | 1,375.70 | 1,381.26 | 1,359.04 | 0.5% |
+| Currencies | $ INDEX | 98.71 | 98.91 | 98.91 | 98.82 | 98.00 | 0.5% |
+
+## Bunker Prices
+
+| Grade | Port | 20-Jun-25 | 13-Jun-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 746.0 | 686.0 | 8.7% |
+| MGO | Houston | 738.0 | 668.0 | 10.5% |
+| MGO | Singapore | 723.0 | 660.0 | 9.5% |
+| 380cst | Rotterdam | 486.0 | 446.0 | 9.0% |
+| 380cst | Houston | 455.0 | 422.0 | 7.8% |
+| 380cst | Singapore | 484.0 | 474.0 | 2.1% |
+| VLSFO | Rotterdam | 522.0 | 510.0 | 2.4% |
+| VLSFO | Houston | 533.0 | 516.0 | 3.3% |
+| VLSFO | Singapore | 566.0 | 555.0 | 2.0% |
+
+## Oil Prices
+
+| Category | Indicator | 20-Jun-25 | 13-Jun-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 77.0 | 74.2 | 3.7% |
+| OIL | WTI | 74.9 | 73.0 | 2.7% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 20-Jun-25 | 13-Jun-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 24.14 | 21.47 | 12.4% |
+| COSTAMARE INC | NYSE | USD | 9.19 | 9.26 | -0.8% |
+| DANAOS CORPORATION | NYSE | USD | 87.30 | 89.19 | -2.1% |
+| DIANA SHIPPING | NYSE | USD | 1.57 | 1.68 | -6.5% |
+| EUROSEAS LTD. | NASDAQ | USD | 44.78 | 43.61 | 2.7% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.15 | 1.35 | -14.8% |
+| SAFE BULKERS INC | NYSE | USD | 3.74 | 3.88 | -3.6% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 6.57 | 6.87 | -4.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 16.47 | 17.40 | -5.3% |
+| STEALTHGAS INC | NASDAQ | USD | 6.59 | 6.73 | -2.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 20.72 | 19.64 | 5.5% |
+
+## Macro-economic headlines
+
+In the United States, the FED in June maintained the interest rates at 4.50%. The rate has remained unchanged since December 2024.
+
+In the Eurozone, the CPI rose by 1.9% y-o-y in May, matching market expectations and down from a 2.2% increase recorded in April.
+
+In China, FDI declined markedly by 13.20% in May, deepening the slowdown compared to the 10.90% drop seen in April.
+
+In the UK, the CPI increased by 3.4% y-o-y in May, marginally surpassing market expectations of 3.3%, but slightly below than April’s 3.5% rise.

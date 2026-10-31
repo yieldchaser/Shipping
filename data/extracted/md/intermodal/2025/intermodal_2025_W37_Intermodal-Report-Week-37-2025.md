@@ -269,3 +269,77 @@ Another flat week for the Turkish ship recycling market, with minimal shifts. We
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LNG JAMAL | 72,692 | 31,711 | 2000 | MITSUBISHI, Japan | GAS TANKER | $650/Ldt | Indian | High aluminum content |
 | BONITA | 76,623 | 10,201 | 2001 | IMABARI, Japan | BC | $468/Ldt | Pakistani | incl 280 mt bunkers |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 12-Sep-25 | 11-Sep-25 | 10-Sep-25 | 9-Sep-25 | 8-Sep-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.060 | 4.011 | 4.032 | 4.074 | 4.046 | -0.6% |
+| Stock Exchange Data | S&P 500 | 6,584.29 | 6,587.47 | 6,532.04 | 6,512.61 | 6,495.15 | 1.6% |
+| Stock Exchange Data | Nasdaq | 24,092.19 | 23,992.56 | 23,849.27 | 23,839.80 | 23,762.30 | 1.9% |
+| Stock Exchange Data | Dow Jones | 45,834.22 | 46,108.00 | 45,490.92 | 45,711.34 | 45,514.95 | 1.0% |
+| Stock Exchange Data | FTSE 100 | 9,283.29 | 9,297.58 | 9,225.39 | 9,242.53 | 9,221.44 | 0.8% |
+| Stock Exchange Data | FTSE All-Share UK | 5,018.21 | 5,026.79 | 4,988.37 | 4,998.02 | 4,990.69 | 0.7% |
+| Stock Exchange Data | CAC40 | 7,825.24 | 7,823.52 | 7,761.32 | 7,749.39 | 7,734.84 | 2.0% |
+| Stock Exchange Data | Xetra Dax | 23,698.15 | 23,703.65 | 23,632.95 | 23,718.45 | 23,807.13 | 0.4% |
+| Stock Exchange Data | Nikkei | 44,768.12 | 44,372.50 | 43,837.67 | 43,459.29 | 43,643.81 | 4.1% |
+| Stock Exchange Data | Hang Seng | 26,388.16 | 26,086.32 | 26,200.26 | 25,938.13 | 25,633.91 | 3.8% |
+| Stock Exchange Data | DJ US Maritime | 282.53 | 288.86 | 285.55 | 288.44 | 293.13 | -3.4% |
+| Currencies | € / $ | 1.17 | 1.17 | 1.17 | 1.17 | 1.18 | 0.1% |
+| Currencies | £ / $ | 1.36 | 1.36 | 1.35 | 1.35 | 1.35 | 0.4% |
+| Currencies | $ / ¥ | 147.66 | 147.20 | 147.46 | 147.41 | 147.51 | 0.2% |
+| Currencies | $ / NoK | 9.83 | 9.85 | 9.92 | 9.98 | 9.96 | -1.9% |
+| Currencies | Yuan / $ | 7.12 | 7.12 | 7.12 | 7.12 | 7.13 | -0.1% |
+| Currencies | Won / $ | 1,392.70 | 1,389.44 | 1,389.07 | 1,389.03 | 1,385.08 | 0.5% |
+| Currencies | $ INDEX | 97.55 | 97.53 | 97.78 | 97.79 | 97.45 | -0.2% |
+
+## Bunker Prices
+
+| Grade | Port | 12-Sep-25 | 5-Sep-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 675.0 | 661.0 | 2.1% |
+| MGO | Houston | 667.0 | 661.0 | 0.9% |
+| MGO | Singapore | 671.0 | 664.0 | 1.1% |
+| 380cst | Rotterdam | 396.0 | 390.0 | 1.5% |
+| 380cst | Houston | 404.0 | 399.0 | 1.3% |
+| 380cst | Singapore | 406.0 | 400.0 | 1.5% |
+| VLSFO | Rotterdam | 465.0 | 446.0 | 4.3% |
+| VLSFO | Houston | 471.0 | 469.0 | 0.4% |
+| VLSFO | Singapore | 472.0 | 486.0 | -2.9% |
+
+## Oil Prices
+
+| Category | Indicator | 12-Sep-25 | 5-Sep-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 67.0 | 65.5 | 2.3% |
+| OIL | WTI | 62.7 | 61.9 | 1.3% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 12-Sep-25 | 05-Sep-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 20.56 | 21.78 | -5.6% |
+| COSTAMARE INC | NYSE | USD | 12.30 | 12.08 | 1.8% |
+| DANAOS CORPORATION | NYSE | USD | 94.63 | 95.46 | -0.9% |
+| DIANA SHIPPING | NYSE | USD | 1.94 | 1.67 | 16.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 63.97 | 61.89 | 3.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.05 | 1.06 | -0.4% |
+| SAFE BULKERS INC | NYSE | USD | 4.55 | 4.45 | 2.2% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 8.68 | 7.99 | 8.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.21 | 19.31 | -0.5% |
+| STEALTHGAS INC | NASDAQ | USD | 7.30 | 7.43 | -1.7% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 22.29 | 22.22 | 0.3% |
+
+## Macro-economic headlines
+
+In China, Industrial Production declined for a second consecutive month in August, reading 5.2% below both market expectations and July’s rate of 5.7%.
+
+In Germany the CPI rose marginally 0.1% m-o-m in August, matching market forecasts and down from July’s 0.3% increase.
+
+In US, the CPI increased by 0.4% m-o-m in August, exceeding market expectations of 0.3% and July’s 0.2% rise.
+
+In Eurozone, ECB kept its key interest rate unchanged at 2.15%. for the third consecutive month.

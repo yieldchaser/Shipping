@@ -336,3 +336,83 @@ The demolition activity was for another week under pressure due to a volatile st
 | PETROGAS 05 | 1,042 | 904 | 1989 | HIGAKI, Japan | GAS TANKER | undisclosed | Bangladeshi |
 
 © Intermodal Research 11/10/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 7-Oct-22 | 6-Oct-22 | 5-Oct-22 | 4-Oct-22 | 3-Oct-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.883 | 3.826 | 3.759 | 3.617 | 3.651 | 2.1% |
+| Stock Exchange Data | S&P 500 | 3,639.66 | 3,744.52 | 3,783.28 | 3,790.93 | 3,585.62 | 1.5% |
+| Stock Exchange Data | Nasdaq | 10,652.41 | 11,073.31 | 11,148.64 | 11,176.41 | 10,815.44 | 0.7% |
+| Stock Exchange Data | Dow Jones | 29,296.79 | 29,926.94 | 30,273.87 | 30,316.32 | 29,490.89 | 2.0% |
+| Stock Exchange Data | FTSE 100 | 6,991.09 | 6,997.27 | 7,052.62 | 7,086.46 | 6,908.76 | 1.4% |
+| Stock Exchange Data | FTSE All-Share UK | 3,814.26 | 3,826.39 | 3,848.67 | 3,873.21 | 3,773.80 | 1.3% |
+| Stock Exchange Data | CAC40 | 5,866.94 | 5,936.42 | 5,985.46 | 6,039.69 | 5,794.15 | 1.8% |
+| Stock Exchange Data | Xetra Dax | 12,273.00 | 12,470.78 | 12,517.18 | 12,670.48 | 12,209.48 | 0.5% |
+| Stock Exchange Data | Nikkei | 27,116.11 | 27,311.30 | 27,120.53 | 26,992.21 | 26,215.79 | 3.4% |
+| Stock Exchange Data | Hang Seng | 17,740.05 | 17,740.05 | 18,012.15 | 18,087.97 | 17,079.51 | 3.3% |
+| Stock Exchange Data | DJ US Maritime | 215.40 | 220.62 | 220.32 | 219.04 | 215.14 | 8.0% |
+| Currencies | € / $ | 0.97 | 0.98 | 0.99 | 1.00 | 0.98 | -0.7% |
+| Currencies | £ / $ | 1.11 | 1.12 | 1.13 | 1.15 | 1.13 | -0.7% |
+| Currencies | $ / ¥ | 145.40 | 145.04 | 144.47 | 143.79 | 144.50 | 0.5% |
+| Currencies | $ / NoK | 0.09 | 0.09 | 0.10 | 0.10 | 0.09 | 1.6% |
+| Currencies | Yuan / $ | 7.12 | 7.12 | 7.12 | 7.12 | 7.12 | 0.0% |
+| Currencies | Won / $ | 1,424.91 | 1,408.65 | 1,417.10 | 1,416.85 | 1,433.54 | -1.1% |
+| Currencies | $ INDEX | 112.79 | 112.26 | 111.07 | 110.07 | 111.75 | 0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 7-Oct-22 | 30-Sep-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,094.5 | 947.5 | 15.5% |
+| MGO | Houston | 1,188.5 | 994.0 | 19.6% |
+| MGO | Singapore | 1,092.0 | 936.5 | 16.6% |
+| 380cst | Rotterdam | 432.0 | 416.0 | 3.8% |
+| 380cst | Houston | 448.5 | 410.0 | 9.4% |
+| 380cst | Singapore | 416.5 | 390.0 | 6.8% |
+| VLSFO | Rotterdam | 665.0 | 631.0 | 5.4% |
+| VLSFO | Houston | 673.5 | 625.0 | 7.8% |
+| VLSFO | Singapore | 764.0 | 696.0 | 9.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 07-Oct-22 | 30-Sep-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.55 | 13.39 | 1.2% |
+| COSTAMARE INC | NYSE | USD | 9.17 | 8.95 | 2.5% |
+| DANAOS CORPORATION | NYSE | USD | 57.31 | 55.68 | 2.9% |
+| DIANA SHIPPING | NYSE | USD | 4.17 | 3.61 | 15.5% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 49.63 | 43.18 | 14.9% |
+| EUROSEAS LTD. | NASDAQ | USD | 20.72 | 20.81 | -0.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.45 | 1.26 | 15.1% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.01 | 1.90 | 5.8% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 24.73 | 24.52 | 0.9% |
+| SAFE BULKERS INC | NYSE | USD | 2.63 | 2.47 | 6.5% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.51 | 0.47 | 8.5% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.92 | 17.48 | 14.0% |
+| STEALTHGAS INC | NASDAQ | USD | 2.87 | 2.56 | 12.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 15.98 | 15.27 | 4.6% |
+
+## Market News
+
+“MR owner TNG’s stock jumps as Tankerska Plovidba holding hits 80%
+
+Croatian MR tanker specialist Tankerska Next Generation (TNG) has seen its share price rise again after continued aggressive purchases by parent Tankerska Plovidba.
+
+The stock has jumped from HRK 52 ($6.61) to HRK 78 in a month on the Zagreb bourse following a stream of filings revealing share deals.
+
+The shipping company was spun-off from tanker and bulker owner Tankerska Plovidba in 2015.
+
+The parent has increased its holding from 51% to nearly 80% in a matter of days.
+
+On Tuesday, it snapped up a 13.7% slice from seven pension funds under the management of Austria’s Raffeisen Bank.
+
+The 1,192,666 shares were bought at HRK 75 each.
+
+Before this, Tankerska bought an 11% stake at the same price
+
+Part of this tranche, a nearly 10% chunk, was... (TradeWinds)

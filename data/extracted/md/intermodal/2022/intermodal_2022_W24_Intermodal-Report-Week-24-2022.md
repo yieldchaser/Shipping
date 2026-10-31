@@ -331,3 +331,81 @@ The demolition market activity remained low with cash buyers unable to keep up t
 | KIM SENG 3 | 3,529 | 1,371 | 1992 | RAUMA-REPOLA, Finland | PLATFORM | $ 740/Ldt | Bangladeshi | StSt |
 
 © Intermodal Research 21/06/2022 8
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 17-Jun-22 | 16-Jun-22 | 15-Jun-22 | 14-Jun-22 | 13-Jun-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.239 | 3.310 | 3.395 | 3.483 | 3.366 | 2.6% |
+| Stock Exchange Data | S&P 500 | 3,674.84 | 3,666.77 | 3,789.99 | 3,735.48 | 3,900.86 | -5.8% |
+| Stock Exchange Data | Nasdaq | 10,798.35 | 10,646.10 | 11,099.16 | 10,828.35 | 10,809.23 | -4.8% |
+| Stock Exchange Data | Dow Jones | 29,888.78 | 29,927.07 | 30,668.53 | 30,364.83 | 30,516.74 | -4.8% |
+| Stock Exchange Data | FTSE 100 | 7,016.25 | 7,044.98 | 7,273.41 | 7,187.46 | 7,205.81 | -4.1% |
+| Stock Exchange Data | FTSE All-Share UK | 3,881.92 | 3,888.27 | 4,013.14 | 3,965.54 | 3,977.61 | -4.1% |
+| Stock Exchange Data | CAC40 | 5,882.65 | 5,886.24 | 6,030.13 | 5,949.84 | 6,022.32 | -4.9% |
+| Stock Exchange Data | Xetra Dax | 13,126.26 | 13,038.49 | 13,485.29 | 13,304.39 | 13,427.03 | -2.2% |
+| Stock Exchange Data | Nikkei | 25,963.00 | 26,431.20 | 26,326.16 | 26,629.86 | 26,987.44 | -3.8% |
+| Stock Exchange Data | Hang Seng | 20,845.43 | 20,845.43 | 21,308.21 | 21,067.99 | 21,067.58 | -4.7% |
+| Stock Exchange Data | DJ US Maritime | 197.94 | 197.94 | 210.34 | 210.48 | 211.53 | -11.3% |
+| Currencies | € / $ | 1.05 | 1.05 | 1.05 | 1.04 | 1.04 | -0.5% |
+| Currencies | £ / $ | 1.22 | 1.24 | 1.22 | 1.20 | 1.21 | -0.8% |
+| Currencies | $ / ¥ | 134.96 | 132.43 | 134.12 | 135.30 | 134.25 | 0.4% |
+| Currencies | $ / NoK | 0.10 | 0.10 | 0.10 | 0.10 | 0.10 | -3.0% |
+| Currencies | Yuan / $ | 6.72 | 6.70 | 6.71 | 6.74 | 6.75 | 0.1% |
+| Currencies | Won / $ | 1,291.56 | 1,288.46 | 1,278.49 | 1,289.81 | 1,291.95 | 0.9% |
+| Currencies | $ INDEX | 104.70 | 103.63 | 105.16 | 105.52 | 105.08 | 0.5% |
+
+## Bunker Prices
+
+| Grade | Port | 17-Jun-22 | 10-Jun-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,367.0 | 1,351.0 | 1.2% |
+| MGO | Houston | 1,355.5 | 1,370.5 | -1.1% |
+| MGO | Singapore | 1,407.5 | 1,338.5 | 5.2% |
+| 380cst | Rotterdam | 639.0 | 633.0 | 0.9% |
+| 380cst | Houston | 717.0 | 737.5 | -2.8% |
+| 380cst | Singapore | 623.0 | 610.5 | 2.0% |
+| VLSFO | Rotterdam | 925.5 | 965.0 | -4.1% |
+| VLSFO | Houston | 933.5 | 968.0 | -3.6% |
+| VLSFO | Singapore | 1,087.0 | 1,149.0 | -5.4% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 17-Jun-22 | 10-Jun-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.32 | 16.32 | -6.1% |
+| COSTAMARE INC | NYSE | USD | 11.95 | 12.72 | -6.1% |
+| DANAOS CORPORATION | NYSE | USD | 67.43 | 71.04 | -5.1% |
+| DIANA SHIPPING | NYSE | USD | 5.02 | 5.44 | -7.7% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 57.46 | 63.45 | -9.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 24.98 | 28.09 | -11.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.92 | 2.30 | -16.5% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.55 | 3.03 | -15.8% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 23.95 | 27.60 | -13.2% |
+| SAFE BULKERS INC | NYSE | USD | 4.07 | 4.42 | -7.9% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.97 | 1.05 | -7.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 26.78 | 26.96 | -0.7% |
+| STEALTHGAS INC | NASDAQ | USD | 3.21 | 3.58 | -10.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 8.84 | 10.42 | -15.2% |
+
+## Market News
+
+“Swedbank teams with Sparebank to build shipping book after $562m portfolio sale
+
+Sweden’s Swedbank has strengthened its Nordic shipping reach through a strategic partnership in Norway with Sparebank 1 SR-Bank.
+
+The maritime specialists want to build their ocean industries business together, including boosting financing of environmentally friendly vessels.
+
+The two sides said that the partnership is built on a shared commitment to sustainable growth to enable improved services for corporate clients in Sweden and Norway.
+
+Part of the deal is the transfer of a portfolio worth NOK 5.6bn ($562m) by Swedbank to SpareBank.
+
+This consists of shipping, renewables and property loans.
+
+A Swedbank spokesman told TradeWinds less than a third of the amount is shipping and offshore related.
+
+The Swedish lender will also divest its high yield and equity capital market operations in Norway to “Swedbank’s Norwegian branch...(TradeWinds)

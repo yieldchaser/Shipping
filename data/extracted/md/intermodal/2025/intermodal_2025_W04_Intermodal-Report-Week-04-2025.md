@@ -227,3 +227,77 @@ In Pakistan, the central bank reduced its key policy rate for the sixth consecut
 | LEENA | 22,050 | 5,552 | 1994 | SAIKI, Japan | BC | $ 441/Ldt | Indian |  |
 | MARTHA OPTION | 13,940 | 3,868 | 1993 | SHIN KURUSHIMA, Japan | TANKER | $ 660/Ldt | Indian | as is Belawan, StSt |
 | HYUNDAI GREENPIA | 71,684 | 30,457 | 1996 | HYUNDAI, S. Korea | GAS TANKER | $ 580/Ldt | undisclosed | as is Singapore (option dely Subcont US$ 635/ldt) |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 24-Jan-25 | 23-Jan-25 | 22-Jan-25 | 21-Jan-25 | 20-Jan-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.616 | 4.645 | 4.612 | 4.572 | 4.622 | -0.1% |
+| Stock Exchange Data | S&P 500 | 6,101.24 | 6,118.71 | 6,086.37 | 6,049.24 | 5,996.66 | 1.7% |
+| Stock Exchange Data | Nasdaq | 21,774.01 | 21,900.93 | 21,853.00 | 21,566.51 | 21,441.16 | 1.6% |
+| Stock Exchange Data | Dow Jones | 44,424.25 | 44,565.07 | 44,156.73 | 44,025.81 | 43,487.83 | 2.2% |
+| Stock Exchange Data | FTSE 100 | 8,502.35 | 8,565.20 | 8,545.13 | 8,548.29 | 8,520.54 | 0.0% |
+| Stock Exchange Data | FTSE All-Share UK | 4,617.93 | 4,647.52 | 4,639.77 | 4,641.76 | 4,625.74 | -0.1% |
+| Stock Exchange Data | CAC40 | 7,927.62 | 7,892.61 | 7,837.40 | 7,770.95 | 7,733.50 | 2.8% |
+| Stock Exchange Data | Xetra Dax | 21,394.93 | 21,411.53 | 21,254.27 | 21,042.00 | 20,990.31 | 2.4% |
+| Stock Exchange Data | Nikkei | 39,931.98 | 39,958.87 | 39,646.25 | 39,027.98 | 38,902.50 | 3.9% |
+| Stock Exchange Data | Hang Seng | 20,066.19 | 19,700.56 | 19,778.77 | 20,106.55 | 19,925.81 | 2.5% |
+| Stock Exchange Data | DJ US Maritime | 358.09 | 359.44 | 362.75 | 370.30 | 367.45 | -2.5% |
+| Currencies | € / $ | 1.05 | 1.04 | 1.04 | 1.04 | 1.04 | 1.9% |
+| Currencies | £ / $ | 1.25 | 1.24 | 1.23 | 1.24 | 1.23 | 2.8% |
+| Currencies | $ / ¥ | 155.98 | 156.05 | 156.53 | 155.50 | 155.59 | -0.2% |
+| Currencies | $ / NoK | 11.17 | 11.27 | 11.28 | 11.28 | 11.29 | -2.4% |
+| Currencies | $ / Yuan | 7.24 | 7.29 | 7.27 | 7.27 | 7.30 | -1.1% |
+| Currencies | $ / Won | 1,427.98 | 1,434.30 | 1,435.12 | 1,431.65 | 1,436.67 | -1.9% |
+| Currencies | $ INDEX | 107.44 | 108.05 | 108.17 | 108.06 | 109.35 | -1.7% |
+
+## Bunker Prices
+
+| Grade | Port | 24-Jan-25 | 17-Jan-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 696.0 | 719.5 | -3.3% |
+| MGO | Houston | 756.0 | 779.5 | -3.0% |
+| MGO | Singapore | 724.0 | 752.5 | -3.8% |
+| 380cst | Rotterdam | 470.0 | 476.5 | -1.4% |
+| 380cst | Houston | 475.5 | 485.5 | -2.1% |
+| 380cst | Singapore | 515.5 | 521.0 | -1.1% |
+| VLSFO | Rotterdam | 547.5 | 557.0 | -1.7% |
+| VLSFO | Houston | 581.5 | 601.5 | -3.3% |
+| VLSFO | Singapore | 597.0 | 613.0 | -2.6% |
+
+## Oil Prices
+
+| Category | Indicator | 24-Jan-25 | 17-Jan-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 77.6 | 79.9 | -3.0% |
+| OIL | WTI | 74.4 | 77.3 | -3.7% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 24-Jan-25 | 17-Jan-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.23 | 18.75 | -2.8% |
+| COSTAMARE INC | NYSE | USD | 11.81 | 12.29 | -3.9% |
+| DANAOS CORPORATION | NYSE | USD | 77.46 | 77.46 | 0.0% |
+| DIANA SHIPPING | NYSE | USD | 1.78 | 1.85 | -3.8% |
+| EUROSEAS LTD. | NASDAQ | USD | 31.61 | 33.01 | -4.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.38 | 1.31 | 5.3% |
+| SAFE BULKERS INC | NYSE | USD | 3.38 | 3.42 | -1.2% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 7.00 | 7.07 | -1.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 14.81 | 14.68 | 0.9% |
+| STEALTHGAS INC | NASDAQ | USD | 5.73 | 5.86 | -2.2% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.21 | 18.70 | -8.0% |
+
+## Macro-economic headlines
+
+In USA, the Manufacturing PMI for January rose to 50.1, up from 49.4 in December and surpassing market estimation of 49.8, signalling an improvement in manufacturing activity.
+
+In China the Manufacturing PMI for January registered at 49.1, falling short of market expectations and below the previous month's reading of 50.1.
+
+In Japan a trade surplus of JPY 130.9 billion was recorded in January, reversing the market expectation of a JPY 55 billion deficit. This marks the first surplus since June. Additionally, Japan's CPI for December rose by 3.6% year-over-year, surpassing the November increase of 2.9%.
+
+After two consecutive months of decline, Germany's Ifo Business Climate Index increased to 85.1 in January, slightly exceeding market forecasts of 84.9.

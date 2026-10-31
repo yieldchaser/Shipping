@@ -304,3 +304,80 @@ The market in general is firmer as there are increased flows of tonnage for brea
 | BUNGA MAS ENAM | 8,668 | 4,751 | 1997 | MALAYSIA SHIPYARD, Malaysia | CONTAINER | $ 320/Ldt | Indian | as-is Malaysia, HKC recycling |
 
 © Intermodal Research 14/02/2023 6
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 10-Feb-23 | 9-Feb-23 | 8-Feb-23 | 7-Feb-23 | 6-Feb-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.744 | 3.683 | 3.653 | 3.674 | 3.634 | 6.0% |
+| Stock Exchange Data | S&P 500 | 4,090.46 | 4,081.50 | 4,117.86 | 4,164.00 | 3,990.97 | -1.1% |
+| Stock Exchange Data | Nasdaq | 11,718.12 | 11,789.58 | 11,910.52 | 12,113.79 | 11,887.45 | -2.4% |
+| Stock Exchange Data | Dow Jones | 33,869.27 | 33,699.88 | 33,949.01 | 34,156.69 | 33,891.02 | -0.2% |
+| Stock Exchange Data | FTSE 100 | 7,882.45 | 7,911.15 | 7,885.17 | 7,864.71 | 7,836.71 | -0.2% |
+| Stock Exchange Data | FTSE All-Share UK | 4,312.89 | 4,334.09 | 4,322.83 | 4,309.87 | 4,303.90 | -0.6% |
+| Stock Exchange Data | CAC40 | 7,129.73 | 7,188.36 | 7,119.83 | 7,132.35 | 7,137.10 | -1.4% |
+| Stock Exchange Data | Xetra Dax | 15,307.98 | 15,523.42 | 15,412.05 | 15,320.88 | 15,345.91 | -0.2% |
+| Stock Exchange Data | Nikkei | 27,670.98 | 27,584.35 | 27,606.46 | 27,685.47 | 27,693.65 | -0.1% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 21,624.36 | 21,283.52 | 21,298.70 | 21,222.16 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 240.51 | 236.77 | 239.39 | 241.50 | 241.20 | -0.9% |
+| Currencies | € / $ | 1.07 | 1.07 | 1.07 | 1.07 | 1.07 | -1.2% |
+| Currencies | £ / $ | 1.21 | 1.21 | 1.21 | 1.21 | 1.20 | 0.1% |
+| Currencies | $ / ¥ | 131.43 | 131.52 | 131.38 | 131.05 | 132.63 | 0.2% |
+| Currencies | $ / NoK | 0.0983 | 0.0982 | 0.0970 | 0.0969 | 0.0967 | -0.2% |
+| Currencies | Yuan / $ | 6.81 | 6.78 | 6.79 | 6.79 | 6.80 | 0.5% |
+| Currencies | Won / $ | 1,267.97 | 1,264.90 | 1,260.85 | 1,255.70 | 1,261.56 | 1.6% |
+| Currencies | $ INDEX | 103.63 | 103.22 | 103.41 | 103.43 | 103.62 | 0.7% |
+
+## Bunker Prices
+
+| Grade | Port | 10-Feb-23 | 3-Feb-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 10-Feb-23 | 03-Feb-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.91 | 13.91 | 0.0% |
+| COSTAMARE INC | NYSE | USD | 9.92 | 10.32 | -3.9% |
+| DANAOS CORPORATION | NYSE | USD | 60.84 | 60.00 | 1.4% |
+| DIANA SHIPPING | NYSE | USD | 4.07 | 4.17 | -2.4% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 58.19 | 56.27 | 3.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 19.51 | 19.98 | -2.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.17 | 1.16 | 0.9% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.39 | 2.10 | 13.8% |
+| SAFE BULKERS INC | NYSE | USD | 3.27 | 3.32 | -1.5% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.60 | 0.58 | 3.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 22.91 | 22.18 | 3.3% |
+| STEALTHGAS INC | NASDAQ | USD | 2.79 | 2.71 | 3.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 19.51 | 17.56 | 11.1% |
+
+## Market News
+
+“DNB shipping book shrinks by $806m on impairment reversals
+
+Major Norwegian lender DNB Bank has continued to write back earlier provisions in shipping and offshore as its overall exposure to the sector fell in the fourth quarter.
+
+The Oslo-listed group said shipping lending dropped NOK 8.19bn ($806m) to NOK 36.5bn by 31 December, compared to three months earlier.
+
+Of this total, only NOK 189m of loans are classed as stage 3, the final level of restructuring before default.
+
+The lender has explained shipping book reductions as a natural process through ships sales or loans not being refinanced, rather than a strategic move.
+
+The oil, gas and offshore portfolio stood at NOK 41.8bn, down from NOK 46.3bn in 2021.
+
+Stage 3 loans totalled NOK 2.6bn.
+
+The bank said it had made NOK 2m of impairment reversals in shipping in the...(TradeWinds)

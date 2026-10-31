@@ -312,3 +312,78 @@ Activity in the demolition market remained weak, however, an uptick in both stee
 | VIVEKA | 9,776 | 2,782 | 1994 | UNL VALENCIA, Spain | TANKER | undisclosed | Bangladeshi |
 
 © Intermodal Research 06/12/2022 6
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 2-Dec-22 | 1-Dec-22 | 30-Nov-22 | 29-Nov-22 | 28-Nov-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.506 | 3.529 | 3.703 | 3.748 | 3.703 | -5.0% |
+| Stock Exchange Data | S&P 500 | 4,071.70 | 4,076.57 | 4,080.11 | 3,957.63 | 4,026.12 | 1.1% |
+| Stock Exchange Data | Nasdaq | 11,461.50 | 11,482.45 | 11,468.00 | 10,983.78 | 11,049.50 | 2.1% |
+| Stock Exchange Data | Dow Jones | 34,429.88 | 34,395.01 | 34,589.77 | 33,852.53 | 33,849.46 | 0.2% |
+| Stock Exchange Data | FTSE 100 | 7,556.23 | 7,558.49 | 7,573.05 | 7,512.00 | 7,474.02 | 0.9% |
+| Stock Exchange Data | FTSE All-Share UK | 4,138.81 | 4,141.04 | 4,139.65 | 4,112.30 | 4,098.49 | 0.6% |
+| Stock Exchange Data | CAC40 | 6,742.25 | 6,753.97 | 6,738.55 | 6,668.97 | 6,665.20 | 0.4% |
+| Stock Exchange Data | Xetra Dax | 14,529.39 | 14,490.30 | 14,397.04 | 14,355.45 | 14,383.36 | 1.0% |
+| Stock Exchange Data | Nikkei | 27,777.90 | 28,226.08 | 27,968.99 | 28,027.84 | 28,162.83 | -1.4% |
+| Stock Exchange Data | Hang Seng | 18,736.44 | 18,736.44 | 18,597.23 | 18,204.68 | 17,297.94 | 6.1% |
+| Stock Exchange Data | DJ US Maritime | 233.36 | 225.90 | 229.09 | 220.42 | 219.44 | 1.3% |
+| Currencies | € / $ | 1.05 | 1.05 | 1.04 | 1.03 | 1.03 | 1.2% |
+| Currencies | £ / $ | 1.23 | 1.23 | 1.21 | 1.19 | 1.20 | 1.7% |
+| Currencies | $ / ¥ | 134.32 | 135.17 | 137.43 | 138.75 | 138.75 | -3.5% |
+| Currencies | $ / NoK | 0.1024 | 0.1029 | 0.1018 | 0.0998 | 0.0998 | 1.2% |
+| Currencies | Yuan / $ | 7.02 | 7.04 | 7.08 | 7.16 | 7.21 | -2.1% |
+| Currencies | Won / $ | 1,298.35 | 1,304.25 | 1,306.58 | 1,325.67 | 1,341.18 | -2.8% |
+| Currencies | $ INDEX | 104.54 | 104.73 | 105.95 | 106.82 | 106.68 | -1.4% |
+
+## Bunker Prices
+
+| Grade | Port | 2-Dec-22 | 25-Nov-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 02-Dec-22 | 25-Nov-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.60 | 14.85 | -1.7% |
+| COSTAMARE INC | NYSE | USD | 9.48 | 9.98 | -5.0% |
+| DANAOS CORPORATION | NYSE | USD | 55.03 | 57.26 | -3.9% |
+| DIANA SHIPPING | NYSE | USD | 3.59 | 3.97 | -9.6% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 50.45 | 53.14 | -5.1% |
+| EUROSEAS LTD. | NASDAQ | USD | 20.31 | 20.15 | 0.8% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.23 | 1.34 | -8.2% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.90 | 2.03 | -6.4% |
+| SAFE BULKERS INC | NYSE | USD | 2.73 | 2.94 | -7.1% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.52 | 0.52 | 0.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.76 | 21.50 | -12.7% |
+| STEALTHGAS INC | NASDAQ | USD | 2.96 | 3.17 | -6.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 18.92 | 18.09 | 4.6% |
+
+## Market News
+
+“Stronger for longer: DNB tips Frontline dividends of nearly $2bn to 2024
+
+Frontline may have delayed its third-quarter dividend due to its imminent tie-up with Euronav, but analysts are expecting huge payouts in the future.
+
+DNB Markets is projecting shareholder returns approaching $2bn through to the end of 2024 as tanker markets stay "stronger for longer."
+
+This is dependent on Frontline combining its operations with its Belgian partner to create the world’s biggest crude tanker company.
+
+Dividends could reach 30% of the new entity's market cap, analysts led by Jorgen Lian said.
+
+“The combination agreement with Euronav will limit Frontline’s ability to distribute cash dividends near-term, but Frontline still intends to pay out 80% of Q3 adjusted net profit ($66m) once the tender offer is finalised,” they added.
+
+A similar 80% pay-out ratio for the final three fleet),” Lian and his...(TradeWinds)

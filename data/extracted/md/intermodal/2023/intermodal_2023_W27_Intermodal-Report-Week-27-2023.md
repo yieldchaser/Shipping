@@ -255,3 +255,70 @@ During the past week, the demolition market has continued to witness inactivity,
 | LAUREN OCEAN | 41,712 | 8,400 | 1996 | BRODOGRAD ILISTE, Croatia | BC | $ 575/Ldt | Bangladeshi |
 | HONG DA XIN 18 | 9,865 | 3,857 | 2000 | TORGEM, Turkey | CONTAINER | $ 608/Ldt | Bangladeshi |
 | BUSAN GAS | 1,283 | 998 | 1989 | SASAKI, Japan | GAS TANKER | undisclosed | Bangladeshi |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 7-Jul-23 | 6-Jul-23 | 5-Jul-23 | 4-Jul-23 | 3-Jul-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.050 | 4.041 | 3.945 | 3.858 | 3.858 | 4.9% |
+| Stock Exchange Data | S&P 500 | 4,398.95 | 4,398.95 | 4,411.59 | 4,446.82 | 3,990.97 | -1.2% |
+| Stock Exchange Data | Nasdaq | 13,660.72 | 13,660.72 | 13,679.04 | 13,791.65 | 13,816.77 | -0.9% |
+| Stock Exchange Data | Dow Jones | 33,734.88 | 33,734.88 | 33,922.26 | 34,288.64 | 34,418.47 | -2.0% |
+| Stock Exchange Data | FTSE 100 | 7,256.94 | 7,280.50 | 7,442.10 | 7,519.72 | 7,527.26 | -3.6% |
+| Stock Exchange Data | FTSE All-Share UK | 3,957.08 | 3,965.25 | 4,055.33 | 4,095.31 | 4,097.65 | -3.4% |
+| Stock Exchange Data | CAC40 | 7,111.88 | 7,082.29 | 7,310.81 | 7,369.93 | 7,386.70 | -3.9% |
+| Stock Exchange Data | Xetra Dax | 15,603.40 | 15,528.54 | 15,937.58 | 16,039.17 | 16,081.04 | -3.0% |
+| Stock Exchange Data | Nikkei | 32,388.42 | 32,773.02 | 33,338.70 | 33,422.52 | 33,753.33 | -4.0% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 18,533.05 | 19,110.38 | 19,415.68 | 19,306.59 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 250.13 | 245.04 | 247.34 | 252.59 | 252.59 | 0.9% |
+| Currencies | € / $ | 1.10 | 1.09 | 1.09 | 1.09 | 1.09 | 0.5% |
+| Currencies | £ / $ | 1.28 | 1.27 | 1.27 | 1.27 | 1.27 | 1.6% |
+| Currencies | $ / ¥ | 142.10 | 143.95 | 144.49 | 144.41 | 144.59 | -1.5% |
+| Currencies | $ / NoK | 0.0939 | 0.0929 | 0.0936 | 0.0939 | 0.0935 | 1.5% |
+| Currencies | Yuan / $ | 7.22 | 7.25 | 7.25 | 7.21 | 7.24 | -0.4% |
+| Currencies | Won / $ | 1,298.66 | 1,309.55 | 1,303.97 | 1,296.50 | 1,306.45 | -1.3% |
+| Currencies | $ INDEX | 102.27 | 103.07 | 103.37 | 103.04 | 102.96 | -0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 7-Jul-23 | 30-Jun-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 07-Jul-23 | 30-Jun-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.79 | 13.81 | -0.1% |
+| COSTAMARE INC | NYSE | USD | 10.14 | 9.67 | 4.9% |
+| DANAOS CORPORATION | NYSE | USD | 68.29 | 66.79 | 2.2% |
+| DIANA SHIPPING | NYSE | USD | 3.79 | 3.69 | 2.7% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 46.39 | 48.04 | -3.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 21.84 | 21.69 | 0.7% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 0.89 | 0.90 | -1.1% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.64 | 1.64 | 0.0% |
+| SAFE BULKERS INC | NYSE | USD | 3.31 | 3.26 | 1.5% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 1.00 | 0.99 | 1.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 17.21 | 17.70 | -2.8% |
+| STEALTHGAS INC | NASDAQ | USD | 4.38 | 4.26 | 2.8% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 18.66 | 17.82 | 4.7% |
+
+## Macro-economic headlines
+
+• US: US Q1 GDP growth was revised up substantially from 1.3% QoQ to 2%, up from the second estimate of 1.3%.
+
+• EU: The annual Eurozone Harmonised Index of Consumer Prices (HICP) accelerated 5.5% in June vs. May’s 6.1% increase, the latest data published by Eurostat showed on Friday. The HICP inflation gauge beat expectations for a 5.6% increase.
+
+• China: China’s consumer price index (CPI) remained flat in June, year on year, while the producer price index (PPI) fell by 5.4 per cent last month.

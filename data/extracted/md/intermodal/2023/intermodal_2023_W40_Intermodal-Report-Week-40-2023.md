@@ -254,3 +254,68 @@ In India, the market seems to be softening as prices offered by recyclers are fa
 | MSC DENISSE | 41,771 | 13,977 | 1988 | ATLANTIQUE CHS, France | CONTAINER | $ 575/Ldt | Indian | MSC approved yards only |
 | MARSA IRIS | 22,982 | 7,852 | 1996 | SZCZECIŃSKA STOCZNIA, Poland | CONTAINER |  | Indian |  |
 | FORESIGHTER | 13,898 | 11,257 | 1987 | HASHIHAMA, Japan | RORO | $ 512/Ldt | undisclosed | as is' Japan, NK HKC recyclin |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 6-Oct-23 | 5-Oct-23 | 4-Oct-23 | 3-Oct-23 | 2-Oct-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.795 | 4.721 | 4.735 | 4.795 | 4.685 | 4.9% |
+| Stock Exchange Data | S&P 500 | 4,308.50 | 4,258.19 | 4,263.75 | 4,229.45 | 4,288.39 | 0.5% |
+| Stock Exchange Data | Nasdaq | 13,431.34 | 13,219.83 | 13,236.01 | 13,059.47 | 13,307.77 | 1.6% |
+| Stock Exchange Data | Dow Jones | 33,407.58 | 33,119.57 | 33,129.55 | 33,002.38 | 33,433.35 | -0.3% |
+| Stock Exchange Data | FTSE 100 | 7,494.58 | 7,451.54 | 7,412.45 | 7,470.16 | 7,510.72 | -1.5% |
+| Stock Exchange Data | FTSE All-Share UK | 4,055.73 | 4,031.93 | 4,010.91 | 4,043.72 | 4,072.35 | -1.7% |
+| Stock Exchange Data | CAC40 | 7,060.15 | 6,998.25 | 6,996.73 | 6,997.05 | 7,068.16 | -1.0% |
+| Stock Exchange Data | Xetra Dax | 15,229.77 | 15,070.22 | 15,099.92 | 15,085.21 | 15,247.21 | -0.1% |
+| Stock Exchange Data | Nikkei | 30,994.67 | 31,075.36 | 30,526.88 | 31,237.94 | 31,759.88 | -2.4% |
+| Stock Exchange Data | Hang Seng | 17,484.98 | 17,213.87 | 17,195.84 | 17,331.22 | 17,809.66 | -1.8% |
+| Stock Exchange Data | DJ US Maritime | 266.57 | 265.33 | 268.58 | 268.58 | 267.00 | -3.4% |
+| Currencies | € / $ | 1.06 | 1.05 | 1.05 | 1.05 | 1.05 | 0.1% |
+| Currencies | £ / $ | 1.22 | 1.22 | 1.21 | 1.21 | 1.21 | 0.3% |
+| Currencies | $ / ¥ | 149.23 | 148.47 | 148.97 | 149.19 | 149.86 | -0.1% |
+| Currencies | $ / NoK | 0.0917 | 0.0912 | 0.0908 | 0.0913 | 0.0921 | -0.9% |
+| Currencies | Yuan / $ | 7.19 | 7.20 | 7.20 | 7.20 | 7.19 | -1.4% |
+| Currencies | Won / $ | 1,344.36 | 1,346.52 | 1,351.96 | 1,360.07 | 1,355.04 | -0.6% |
+| Currencies | $ INDEX | 106.04 | 106.33 | 106.80 | 107.00 | 106.90 | -0.2% |
+
+## Bunker Prices
+
+| Grade | Port | 6-Oct-23 | 29-Sep-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 06-Oct-23 | 29-Sep-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.91 | 14.01 | -0.7% |
+| COSTAMARE INC | NYSE | USD | 9.41 | 9.62 | -2.2% |
+| DANAOS CORPORATION | NYSE | USD | 66.39 | 66.22 | 0.3% |
+| DIANA SHIPPING | NYSE | USD | 3.44 | 3.47 | -0.9% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 43.04 | 42.03 | 2.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 27.51 | 26.66 | 3.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.19 | 1.84 | 19.0% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.90 | 2.00 | -5.0% |
+| SAFE BULKERS INC | NYSE | USD | 3.31 | 3.24 | 2.2% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 5.95 | 5.52 | 7.8% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.82 | 19.28 | 2.8% |
+| STEALTHGAS INC | NASDAQ | USD | 5.06 | 5.04 | 0.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 20.51 | 20.78 | -1.3% |
+
+## Macro-economic headlines
+
+• US: The ISM Manufacturing PMI, stood at 49, in September showing that a rebound is on the cards. Additionally, JOLTs Job Openings for August were at 9.6m, suggesting a robust labor market.
+
+• EU: The Eurozone Composite PMI stood at 47.2, still below 50, but the image is improving in various EU countries. In Germany, the construction PMI stood at 39.3, which is even lower than the pandemic period. The dire picture points to declining GDP for Q3.

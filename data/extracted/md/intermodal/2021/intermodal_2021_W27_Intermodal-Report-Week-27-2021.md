@@ -311,3 +311,81 @@ Recent demo sales with scrap levels close to \$600 per ldt worth a thousand word
 | JETSTAR | 9,677 | 2,843 | 1994 | DAEDONG, S. Korea | TANKER | $ 575/Ldt | Bangladeshi |  |
 
 © Intermodal Research 13/07/2021 6
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 9-Jul-21 | 8-Jul-21 | 7-Jul-21 | 6-Jul-21 | 5-Jul-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.356 | 1.288 | 1.321 | 1.370 | 1.431 | -5.2% |
+| Stock Exchange Data | S&P 500 | 4,369.55 | 4,369.55 | 4,320.82 | 4,358.13 | 4,352.34 | 0.4% |
+| Stock Exchange Data | Nasdaq | 14,701.92 | 14,701.92 | 14,559.79 | 14,665.06 | 14,663.64 | 0.4% |
+| Stock Exchange Data | Dow Jones | 34,870.16 | 34,870.16 | 34,421.93 | 34,681.79 | 34,577.37 | 0.2% |
+| Stock Exchange Data | FTSE 100 | 7,121.88 | 7,030.66 | 7,151.02 | 7,100.88 | 7,164.91 | 0.0% |
+| Stock Exchange Data | FTSE All-Share UK | 4,069.79 | 4,019.72 | 4,085.50 | 4,060.82 | 4,093.99 | 0.1% |
+| Stock Exchange Data | CAC40 | 6,529.42 | 6,396.73 | 6,527.72 | 6,507.48 | 6,567.54 | -0.4% |
+| Stock Exchange Data | Xetra Dax | 15,687.93 | 15,420.64 | 15,692.71 | 15,511.38 | 15,661.97 | 0.2% |
+| Stock Exchange Data | Nikkei | 27,940.42 | 28,118.03 | 28,366.95 | 28,643.21 | 28,598.19 | -2.3% |
+| Stock Exchange Data | Hang Seng | 27,153.13 | 27,153.13 | 27,960.62 | 28,072.86 | 28,143.50 | -4.1% |
+| Stock Exchange Data | DJ US Maritime | 198.10 | 192.06 | 193.47 | 194.65 | 200.23 | -1.1% |
+| Currencies | € / $ | 1.19 | 1.18 | 1.18 | 1.18 | 1.19 | 0.1% |
+| Currencies | £ / $ | 1.39 | 1.38 | 1.38 | 1.38 | 1.39 | 0.6% |
+| Currencies | $ / ¥ | 110.10 | 109.78 | 110.63 | 110.61 | 110.92 | -0.8% |
+| Currencies | $ / NoK | 0.12 | 0.11 | 0.11 | 0.11 | 0.12 | 0.3% |
+| Currencies | Yuan / $ | 6.48 | 6.49 | 6.47 | 6.48 | 6.46 | 0.1% |
+| Currencies | Won / $ | 1,145.31 | 1,146.14 | 1,141.57 | 1,137.13 | 1,130.49 | 1.3% |
+| Currencies | $ INDEX | 92.13 | 92.42 | 92.64 | 92.55 | 92.21 | -0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 9-Jul-21 | 2-Jul-21 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 613.0 | 596.5 | 2.8% |
+| MGO | Houston | 604.5 | 623.5 | -3.0% |
+| MGO | Singapore | 592.5 | 609.0 | -2.7% |
+| 380cst | Rotterdam | 413.5 | 422.5 | -2.1% |
+| 380cst | Houston | 418.0 | 425.5 | -1.8% |
+| 380cst | Singapore | 421.0 | 433.5 | -2.9% |
+| VLSFO | Rotterdam | 537.0 | 534.0 | 0.6% |
+| VLSFO | Houston | 536.0 | 538.5 | -0.5% |
+| VLSFO | Singapore | 543.0 | 553.5 | -1.9% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 09-Jul-21 | 02-Jul-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 11.95 | 12.25 | -2.4% |
+| COSTAMARE INC | NYSE | USD | 11.74 | 11.79 | -0.4% |
+| DANAOS CORPORATION | NYSE | USD | 73.16 | 75.25 | -2.8% |
+| DIANA SHIPPING | NYSE | USD | 4.31 | 4.64 | -7.1% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 43.99 | 45.36 | -3.0% |
+| EUROSEAS LTD. | NASDAQ | USD | 21.76 | 22.32 | -2.5% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 3.45 | 3.79 | -9.0% |
+| NAVIOS MARITIME ACQUISITIONS | NYSE | USD | 3.18 | 3.25 | -2.2% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 7.37 | 8.07 | -8.7% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 26.51 | 26.66 | -0.6% |
+| SAFE BULKERS INC | NYSE | USD | 3.54 | 3.74 | -5.3% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.10 | 1.07 | 2.8% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 20.35 | 20.58 | -1.1% |
+| STEALTHGAS INC | NASDAQ | USD | 2.88 | 2.77 | 4.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 8.14 | 8.33 | -2.3% |
+| TOP SHIPS INC | NASDAQ | USD | 1.49 | 1.56 | -4.5% |
+
+## Market News
+
+“BN Amro sells $700m in US shipping loans to Credit Agricole
+
+Dutch bank ABN Amro has taken an important but largely anticipated step toward its withdrawal from the US lending market with the sale of some $700m in shipping and intermodal loans to fellow European lender Credit Agricole.
+
+The sale has been expected since ABN Amro told clients in August 2020 that it was retrenching to serve core shipping clients based in Europe, with plans to close offices in New York and Singapore.
+
+While there was some thought ABN Amro might simply wind down the existing portfolio, a sale was the other lead option. The transfer to another traditional ship-mortgage lender rather than, for example, a private-equity firm drew positive comments on Monday.
+
+"Absolutely," said one official with a US-based company. "I would be surprised if private equity looked at it as this portfolio was not distressed. Credit Agricole is a current lender and we have a good relationship with them."
+
+A second owner added: "It landed in good hands."
+
+ABN Amro said in a brief release on Monday that the loans are being sold "at around book value resulting in a negligible impact on...”(TradeWinds)

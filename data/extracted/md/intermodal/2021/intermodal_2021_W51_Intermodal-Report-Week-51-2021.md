@@ -300,3 +300,77 @@ As we are reaching the end of 2021, the outlook in the demolition market remains
 | CHEMTRANS STAR | 63,331 | 13,260 | 2000 | DALIAN, China | TANKER | undisclosed | Bangladeshi |  |
 
 © Intermodal Research 28/12/2021 6
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 24-Dec-21 | 23-Dec-21 | 22-Dec-21 | 21-Dec-21 | 20-Dec-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.493 | 1.493 | 1.457 | 1.487 | 1.419 | 6.5% |
+| Stock Exchange Data | S&P 500 | 4,725.79 | 4,725.79 | 4,696.56 | 4,649.23 | 4,620.64 | 2.3% |
+| Stock Exchange Data | Nasdaq | 15,653.37 | 15,653.37 | 15,521.89 | 15,341.09 | 14,980.94 | 3.2% |
+| Stock Exchange Data | Dow Jones | 35,950.56 | 35,950.56 | 35,753.89 | 35,492.70 | 34,932.16 | 1.7% |
+| Stock Exchange Data | FTSE 100 | 7,372.10 | 7,373.34 | 7,341.66 | 7,297.41 | 7,198.03 | 1.4% |
+| Stock Exchange Data | FTSE All-Share UK | 4,194.35 | 4,194.71 | 4,173.84 | 4,144.88 | 4,089.84 | 1.5% |
+| Stock Exchange Data | CAC40 | 7,086.58 | 7,106.15 | 7,051.67 | 6,964.99 | 6,870.10 | 2.3% |
+| Stock Exchange Data | Xetra Dax | 15,756.31 | 15,756.31 | 15,593.47 | 15,447.44 | 15,239.67 | 3.4% |
+| Stock Exchange Data | Nikkei | 28,782.59 | 28,798.37 | 28,562.21 | 28,517.59 | 27,937.81 | 3.0% |
+| Stock Exchange Data | Hang Seng | 23,193.64 | 23,193.64 | 23,102.33 | 22,971.33 | 22,744.86 | -1.2% |
+| Stock Exchange Data | DJ US Maritime | 195.97 | 195.97 | 195.97 | 192.06 | 186.91 | 2.0% |
+| Currencies | € / $ | 1.13 | 1.13 | 1.13 | 1.13 | 1.13 | 0.7% |
+| Currencies | £ / $ | 1.34 | 1.34 | 1.34 | 1.33 | 1.32 | 1.1% |
+| Currencies | $ / ¥ | 114.41 | 114.46 | 114.12 | 113.99 | 113.67 | 0.6% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.11 | 0.11 | 0.11 | 1.9% |
+| Currencies | Yuan / $ | 6.37 | 6.37 | 6.37 | 6.37 | 6.38 | -0.1% |
+| Currencies | Won / $ | 1,187.02 | 1,185.65 | 1,187.96 | 1,191.35 | 1,190.27 | -0.1% |
+| Currencies | $ INDEX | 96.02 | 96.02 | 96.08 | 96.49 | 96.55 | -0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 24-Dec-21 | 17-Dec-21 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 655.5 | 621.0 | 5.6% |
+| MGO | Houston | 651.5 | 655.0 | -0.5% |
+| MGO | Singapore | 664.5 | 646.5 | 2.8% |
+| 380cst | Rotterdam | 431.5 | 421.0 | 2.5% |
+| 380cst | Houston | 445.0 | 410.0 | 8.5% |
+| 380cst | Singapore | 438.5 | 429.5 | 2.1% |
+| VLSFO | Rotterdam | 548.5 | 547.0 | 0.3% |
+| VLSFO | Houston | 564.5 | 557.0 | 1.3% |
+| VLSFO | Singapore | 620.0 | 608.0 | 2.0% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 24-Dec-21 | 17-Dec-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.87 | 15.24 | 4.1% |
+| COSTAMARE INC | NYSE | USD | 12.20 | 11.91 | 2.4% |
+| DANAOS CORPORATION | NYSE | USD | 70.07 | 70.07 | 0.0% |
+| DIANA SHIPPING | NYSE | USD | 3.94 | 3.81 | 3.4% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 41.39 | 40.53 | 2.1% |
+| EUROSEAS LTD. | NASDAQ | USD | 22.82 | 22.65 | 0.8% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.41 | 2.11 | 14.2% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 3.68 | 3.44 | 7.0% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 24.50 | 23.83 | 2.8% |
+| SAFE BULKERS INC | NYSE | USD | 3.69 | 3.61 | 2.2% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.92 | 0.91 | 1.1% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 21.05 | 19.86 | 6.0% |
+| STEALTHGAS INC | NASDAQ | USD | 2.26 | 2.26 | 0.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 7.54 | 7.35 | 2.6% |
+
+## Market News
+
+“Chinese-Dutch loan leaves just one Avenir ship to be funded
+
+LNG supplier and specialist LNG shipowner Avenir LNG has secured a 12-year, $94m mortgage financing from ABN Amro and the Export-Import Bank of China (China Exim Bank) for three of its six delivered or soon to be delivered newbuildings.
+
+China Exim Bank is providing 60% and ABN Amro 40% of the funds, with an 80% guarantee from China Export & Credit Insurance Corp (Sinosure), covering 70% of the cost of the 7,500-cbm Avenir Ascension and Avenir Aspiration and the 20,000-cbm Avenir Allegiance (all built 2021).
+
+That represents a change of lenders from Avenir's first two ships and also a change of plans from a facility earlier approved for the four remaining ones.
+
+London-based, Norway-backed Avenir financed its first two ships with a three-year, $53.5m balloon-payment mortgage from Danske Bank.
+
+Avenir wrote in its 2020 annual report in August that it had "obtained credit approval for the financing of its four remaining vessels due from the second half of 2021 for up to $133m"...”(TradeWinds)

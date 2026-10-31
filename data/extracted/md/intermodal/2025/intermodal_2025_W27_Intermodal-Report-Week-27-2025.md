@@ -245,3 +245,77 @@ In Turkey the market remains lethargic, amid minimum activity and reduced steel 
 | BONTRUP PEARL | 43,952 | 11,334 | 1984 | SANOYAS, Japan | BC | $432/Ldt | Indian |  |
 | TIAN LONG XING | 37,532 | 9,234 | 1995 | BREMER VULKAN, Germany | BC | undisclosed | Chinese | domestic sale in China |
 | WINCA | 27,308 | 5,964 | 1994 | MITSUBISHI, Japan | BC | undisclosed | Pakistani |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 4-Jul-25 | 3-Jul-25 | 2-Jul-25 | 1-Jul-25 | 30-Jun-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.340 | 4.340 | 4.293 | 4.249 | 4.226 | 1.3% |
+| Stock Exchange Data | S&P 500 | 6,279.35 | 6,279.35 | 6,227.42 | 6,198.01 | 6,204.95 | 1.7% |
+| Stock Exchange Data | Nasdaq | 22,866.97 | 22,866.97 | 22,641.89 | 22,478.14 | 22,679.01 | 1.5% |
+| Stock Exchange Data | Dow Jones | 44,828.53 | 44,828.53 | 44,484.42 | 44,494.94 | 44,094.77 | 2.3% |
+| Stock Exchange Data | FTSE 100 | 8,822.91 | 8,823.20 | 8,774.69 | 8,785.33 | 8,760.96 | 0.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,799.96 | 4,804.18 | 4,774.38 | 4,787.23 | 4,772.78 | 0.1% |
+| Stock Exchange Data | CAC40 | 7,696.27 | 7,754.55 | 7,738.42 | 7,662.59 | 7,665.91 | 0.1% |
+| Stock Exchange Data | Xetra Dax | 23,787.45 | 23,934.13 | 23,790.11 | 23,673.29 | 23,909.61 | -1.0% |
+| Stock Exchange Data | Nikkei | 39,810.88 | 39,785.90 | 39,762.48 | 39,986.33 | 40,487.39 | -0.8% |
+| Stock Exchange Data | Hang Seng | 23,916.06 | 24,069.94 | 24,221.41 | 24,072.28 | 24,072.28 | -1.5% |
+| Stock Exchange Data | DJ US Maritime | 383.73 | 383.73 | 385.34 | 377.82 | 372.27 | 1.7% |
+| Currencies | € / $ | 1.18 | 1.18 | 1.18 | 1.18 | 1.18 | 0.5% |
+| Currencies | £ / $ | 1.37 | 1.37 | 1.36 | 1.37 | 1.37 | -0.5% |
+| Currencies | $ / ¥ | 144.55 | 144.92 | 143.67 | 143.43 | 144.01 | -0.1% |
+| Currencies | $ / NoK | 10.06 | 10.03 | 10.06 | 10.05 | 10.05 | 0.1% |
+| Currencies | Yuan / $ | 7.16 | 7.17 | 7.16 | 7.16 | 7.16 | -0.1% |
+| Currencies | Won / $ | 1,362.29 | 1,363.25 | 1,355.94 | 1,356.17 | 1,352.45 | -0.1% |
+| Currencies | $ INDEX | 96.97 | 97.18 | 96.78 | 96.82 | 96.88 | -0.4% |
+
+## Bunker Prices
+
+| Grade | Port | 4-Jul-25 | 27-Jun-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 690.0 | 671.0 | 2.8% |
+| MGO | Houston | 686.0 | 670.0 | 2.4% |
+| MGO | Singapore | 663.0 | 657.0 | 0.9% |
+| 380cst | Rotterdam | 429.0 | 429.0 | 0.0% |
+| 380cst | Houston | 440.0 | 430.0 | 2.3% |
+| 380cst | Singapore | 416.0 | 431.0 | -3.5% |
+| VLSFO | Rotterdam | 502.0 | 486.0 | 3.3% |
+| VLSFO | Houston | 485.0 | 471.0 | 3.0% |
+| VLSFO | Singapore | 526.0 | 516.0 | 1.9% |
+
+## Oil Prices
+
+| Category | Indicator | 4-Jul-25 | 27-Jun-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 68.3 | 67.8 | 0.8% |
+| OIL | WTI | 67.0 | 65.5 | 2.3% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 04-Jul-25 | 27-Jun-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 23.65 | 23.00 | 2.8% |
+| COSTAMARE INC | NYSE | USD | 9.29 | 9.24 | 0.5% |
+| DANAOS CORPORATION | NYSE | USD | 87.77 | 87.48 | 0.3% |
+| DIANA SHIPPING | NYSE | USD | 1.52 | 1.51 | 0.7% |
+| EUROSEAS LTD. | NASDAQ | USD | 47.51 | 45.53 | 4.3% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.17 | 1.17 | 0.0% |
+| SAFE BULKERS INC | NYSE | USD | 3.78 | 3.69 | 2.4% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 6.47 | 6.56 | -1.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.04 | 17.12 | 5.4% |
+| STEALTHGAS INC | NASDAQ | USD | 6.44 | 6.56 | -1.8% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 20.51 | 19.77 | 3.7% |
+
+## Macro-economic headlines
+
+In the United States, the Trade Deficit widened to $71.5 billion in May, up from $61.6 billion shortfall recorded in April and missing market expectations of a $69.9 billion gap. This increase was primarily driven by a 4% m-o-m decline of US exports.
+
+In China, the FX reserves in June stood at $3.317 trillion, marginally exceeding market expectations of $3.313 trillion and up from May’s $3.285 trillion.
+
+In Eurozone, PPI stood at -0.6% m-o-m in May, in line with market expectations and higher than April’s - 2.2%.
+
+In Germany, Industrial Production rose by 1.2% m-o-m in May, defying market estimations of 0.6% decline and reversing April’s contraction of 1.4%.

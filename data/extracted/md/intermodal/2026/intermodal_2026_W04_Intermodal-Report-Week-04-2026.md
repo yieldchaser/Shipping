@@ -262,3 +262,77 @@ In Turkey, Aliaga's anchorage is busy following the recent arrival of European R
 | SEAPEAK MARS | 77,213 | 29,686 | 2004 | IZAR SESTAO, Spain | GAS TANKER | $412/Ldt | undisclosed |
 | QUARTZ | 46,166 | 9,453 | 1996 | BRODOTROGIR, Croatia | TANKER | $435/Ldt | undisclosed |
 | GLORY SUN | 45,216 | 7,628 | 1994 | KANASASHI, Japan | BC | $375/Ldt | undisclosed |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 23-Jan-26 | 22-Jan-26 | 21-Jan-26 | 20-Jan-26 | 19-Jan-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.239 | 4.251 | 4.253 | 4.295 | 4.231 | 0.2% |
+| Stock Exchange Data | S&P 500 | 6,915.61 | 6,913.35 | 6,875.62 | 6,796.86 | 6,940.01 | -0.4% |
+| Stock Exchange Data | Nasdaq | 25,605.47 | 25,518.35 | 25,326.58 | 24,987.57 | 25,529.26 | 0.3% |
+| Stock Exchange Data | Dow Jones | 49,098.71 | 49,384.01 | 49,077.23 | 48,488.59 | 49,359.33 | -0.5% |
+| Stock Exchange Data | FTSE 100 | 10,143.44 | 10,150.05 | 10,138.09 | 10,126.78 | 10,195.35 | -0.9% |
+| Stock Exchange Data | FTSE All-Share UK | 5,475.00 | 5,479.59 | 5,465.36 | 5,456.67 | 5,493.53 | -0.8% |
+| Stock Exchange Data | CAC40 | 8,143.05 | 8,148.89 | 8,069.17 | 8,062.58 | 8,112.02 | -1.4% |
+| Stock Exchange Data | Xetra Dax | 24,900.71 | 24,856.47 | 24,560.98 | 24,703.12 | 24,959.06 | -1.6% |
+| Stock Exchange Data | Nikkei | 53,846.87 | 53,688.89 | 52,774.64 | 52,991.10 | 53,583.57 | -0.2% |
+| Stock Exchange Data | Hang Seng | 26,749.51 | 26,629.96 | 26,585.06 | 26,487.51 | 26,563.90 | -0.4% |
+| Stock Exchange Data | DJ US Maritime | 422.46 | 429.06 | 425.15 | 416.55 | 413.20 | 2.2% |
+| Currencies | € / $ | 1.18 | 1.18 | 1.17 | 1.17 | 1.16 | 2.0% |
+| Currencies | £ / $ | 1.36 | 1.35 | 1.34 | 1.34 | 1.34 | 1.9% |
+| Currencies | $ / ¥ | 155.71 | 158.40 | 158.25 | 158.15 | 158.10 | -1.5% |
+| Currencies | $ / NoK | 9.74 | 9.84 | 9.95 | 9.99 | 10.05 | -3.4% |
+| Currencies | Yuan / $ | 6.96 | 6.97 | 6.96 | 6.96 | 6.96 | -0.1% |
+| Currencies | Won / $ | 1,446.00 | 1,464.04 | 1,465.03 | 1,480.82 | 1,473.70 | -1.9% |
+| Currencies | $ INDEX | 97.60 | 98.36 | 98.76 | 98.64 | 99.39 | -1.8% |
+
+## Bunker Prices
+
+| Grade | Port | 23-Jan-26 | 16-Jan-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 668.0 | 625.0 | 6.9% |
+| MGO | Houston | 640.0 | 608.0 | 5.3% |
+| MGO | Singapore | 628.0 | 613.0 | 2.4% |
+| 380cst | Rotterdam | 378.0 | 366.0 | 3.3% |
+| 380cst | Houston | 354.0 | 334.0 | 6.0% |
+| 380cst | Singapore | 397.0 | 375.0 | 5.9% |
+| VLSFO | Rotterdam | 426.0 | 431.0 | -1.2% |
+| VLSFO | Houston | 447.0 | 412.0 | 8.5% |
+| VLSFO | Singapore | 459.0 | 444.0 | 3.4% |
+
+## Oil Prices
+
+| Category | Indicator | 23-Jan-26 | 16-Jan-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 65.9 | 64.1 | 2.7% |
+| OIL | WTI | 61.1 | 59.4 | 2.7% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 23-Jan-26 | 16-Jan-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 21.45 | 21.51 | -0.3% |
+| COSTAMARE INC | NYSE | USD | 15.92 | 15.51 | 2.6% |
+| DANAOS CORPORATION | NYSE | USD | 100.71 | 99.36 | 1.4% |
+| DIANA SHIPPING | NYSE | USD | 2.19 | 2.05 | 6.8% |
+| EUROSEAS LTD. | NASDAQ | USD | 53.34 | 53.87 | -1.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.70 | 1.67 | 1.8% |
+| SAFE BULKERS INC | NYSE | USD | 5.36 | 5.12 | 4.7% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 9.78 | 9.37 | 4.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 21.40 | 20.37 | 5.1% |
+| STEALTHGAS INC | NASDAQ | USD | 7.74 | 7.84 | -1.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 25.99 | 25.52 | 1.8% |
+
+## Macro-economic headlines
+
+In United Kingdom, CPI rose by 3.4% y-o-y in December, exceeding market expectations of 3.3% November’s pace of 3.2%.
+
+In United States, GDP increased by 4.4% q-o-q in Q3 2025, above market forecasts of 4.3% and higher than the Q2 reading of 3.8%.
+
+In Japan, the trade surplus narrowed to ¥105.7bn in December from ¥322.2bn in November, below the forecasted ¥357bn, as imports outpaced exports.
+
+In Germany, the Ifo Business Climate Index remained unchanged m-o-m at 87.6 in January, falling short of market expectations of 88.3.

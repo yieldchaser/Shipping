@@ -275,3 +275,77 @@ ports may indirectly improve demand for domestic recycling, although the direct 
 At Gadani, the market conditions continue to weigh on recyclers' sentiment and buying appetite. Weaker demand pushes local plate prices and currency down, however still at supportive levels. Buying interest remains selective, as most facilities are currently occupied, following additional vessel arrivals. Further pressure is added to recyclers, as availability of alternative steel products due to renewed steel-product supply from Iran and favorable tax incentives on imported scrap supports steel supply.
 
 Aliaga's market sentiment modestly improved with firmer scrap markets and better, though seasonal, steel demand. Recycling tonnage supply remained moderate, pending greater clarity on market movements.
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 25-Sep-26 | 24-Sep-26 | 23-Sep-26 | 22-Sep-26 | 21-Sep-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 5.181 | 5.162 | 5.114 | 4.967 | 4.963 | 3.7% |
+| Stock Exchange Data | S&P 500 | 7,743.41 | 7,704.13 | 7,706.03 | 7,764.64 | 7,764.70 | 1.2% |
+| Stock Exchange Data | Nasdaq | 30,608.13 | 30,478.86 | 30,470.29 | 30,732.40 | 30,482.35 | 3.3% |
+| Stock Exchange Data | Dow Jones | 51,828.62 | 51,349.98 | 51,511.59 | 51,863.69 | 52,048.83 | 0.3% |
+| Stock Exchange Data | FTSE 100 | 10,695.25 | 10,679.99 | 10,705.26 | 10,708.33 | 10,739.01 | 0.3% |
+| Stock Exchange Data | FTSE All-Share UK | 5,763.08 | 5,752.89 | 5,770.30 | 5,775.83 | 5,789.48 | 0.3% |
+| Stock Exchange Data | CAC40 | 8,077.80 | 8,081.43 | 8,123.41 | 8,154.91 | 8,138.94 | 0.2% |
+| Stock Exchange Data | Xetra Dax | 25,408.64 | 25,266.53 | 25,410.63 | 25,578.85 | 25,575.01 | 0.4% |
+| Stock Exchange Data | Nikkei | 66,364.20 | 65,513.99 | 66,057.00 | 65,018.95 | 65,018.95 | 2.1% |
+| Stock Exchange Data | Hang Seng | 24,510.09 | 24,761.13 | 24,834.12 | 25,087.75 | 25,042.71 | -1.0% |
+| Stock Exchange Data | DJ US Maritime | 423.05 | 427.75 | 426.86 | 434.84 | 445.21 | -6.8% |
+| Currencies | € / $ | 1.14 | 1.14 | 1.14 | 1.14 | 1.15 | -0.8% |
+| Currencies | £ / $ | 1.33 | 1.32 | 1.32 | 1.33 | 1.34 | -1.1% |
+| Currencies | $ / ¥ | 157.26 | 158.83 | 158.29 | 157.37 | 157.36 | 0.3% |
+| Currencies | $ / NoK | 9.50 | 9.51 | 9.48 | 9.42 | 9.44 | 1.0% |
+| Currencies | Yuan / $ | 6.71 | 6.71 | 6.71 | 6.70 | 6.70 | 0.2% |
+| Currencies | Won / $ | 1,353.68 | 1,366.15 | 1,365.74 | 1,353.92 | 1,374.54 | -2.3% |
+| Currencies | $ INDEX | 100.97 | 101.29 | 101.10 | 100.60 | 100.43 | 0.7% |
+
+## Bunker Prices
+
+| Grade | Port | 25-Sep-26 | 18-Sep-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,388.3 | 1,440.5 | -3.6% |
+| MGO | Houston | 1,383.0 | 1,478.0 | -6.4% |
+| MGO | Singapore | 1,280.0 | 1,340.0 | -4.5% |
+| 380cst | Rotterdam | 622.5 | 609.5 | 2.1% |
+| 380cst | Houston | 535.5 | 529.0 | 1.2% |
+| 380cst | Singapore | 721.8 | 721.5 | 0.0% |
+| VLSFO | Rotterdam | 676.5 | 712.8 | -5.1% |
+| VLSFO | Houston | 721.3 | 759.5 | -5.0% |
+| VLSFO | Singapore | 855.5 | 859.3 | -0.4% |
+
+## Oil Prices
+
+| Category | Indicator | 25-Sep-26 | 18-Sep-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 104.3 | 103.9 | 0.4% |
+| OIL | WTI | 92.4 | 100.3 | -7.9% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 25-Sep-26 | 18-Sep-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 21.75 | 21.66 | 0.4% |
+| COSTAMARE INC | NYSE | USD | 14.53 | 15.46 | -6.0% |
+| DANAOS CORPORATION | NYSE | USD | 154.14 | 161.19 | -4.4% |
+| DIANA SHIPPING | NYSE | USD | 2.80 | 3.11 | -10.0% |
+| EUROSEAS LTD. | NASDAQ | USD | 69.70 | 77.59 | -10.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 3.44 | 3.92 | -12.2% |
+| SAFE BULKERS INC | NYSE | USD | 8.14 | 9.18 | -11.3% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 16.60 | 18.59 | -10.7% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 29.54 | 32.48 | -9.1% |
+| STEALTHGAS INC | NASDAQ | USD | 8.89 | 9.46 | -6.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 46.23 | 52.09 | -11.2% |
+
+## Macro-economic headlines
+
+In Japan, the Leading Index rose to 117.7 in September, from 116.5 in August, falling short of market forecasts of 118.1.
+
+In Russia, industrial production declined by 0.6% y-o-y in August, reversing July’s 0.4% increase and missing market expectations for a 0.5% rise.
+
+In Germany, the Ifo Business Climate Index rose to 89.9 in September, from 88.8 in August, exceeding market forecasts of 89.1.
+
+In the Eurozone, industrial sentiment improved to -3.8 in September from -5.0 in August, comfortably ahead of the -4.8 consensus.

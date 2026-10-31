@@ -235,3 +235,70 @@ The market appears to be gaining momentum as more tonnage is sold for scrapping 
 | FRIO OLYMPIC | 9,734 | 4,698 | 1988 | SHIN KURUSHIMA ONISHI | REEFER | $ 510/Ldt | Indian |
 | ZEFYROS REEFER | 8,946 | 4,731 | 1990 | SASEBO, Japan | REEFER | $ 510/Ldt | Indian |
 | SEIN STAR | 4,173 | 2,197 | 1984 | KITANIHON, Japan | REEFER | undisclosed | Indian |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 25-Aug-23 | 24-Aug-23 | 23-Aug-23 | 22-Aug-23 | 21-Aug-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.239 | 4.235 | 4.198 | 4.328 | 4.342 | -0.3% |
+| Stock Exchange Data | S&P 500 | 4,405.71 | 4,376.31 | 4,436.01 | 4,387.55 | 4,399.77 | 0.8% |
+| Stock Exchange Data | Nasdaq | 13,590.65 | 13,463.97 | 13,721.03 | 13,505.87 | 13,497.59 | 2.3% |
+| Stock Exchange Data | Dow Jones | 34,346.90 | 34,099.42 | 34,472.98 | 34,288.83 | 34,463.69 | -0.4% |
+| Stock Exchange Data | FTSE 100 | 7,338.58 | 7,333.63 | 7,320.53 | 7,270.76 | 7,257.82 | 1.0% |
+| Stock Exchange Data | FTSE All-Share UK | 3,998.05 | 3,997.66 | 3,992.96 | 3,963.58 | 3,953.40 | 0.9% |
+| Stock Exchange Data | CAC40 | 7,229.60 | 7,214.46 | 7,246.62 | 7,240.88 | 7,198.06 | 0.9% |
+| Stock Exchange Data | Xetra Dax | 15,631.82 | 15,621.49 | 15,728.41 | 15,705.62 | 15,603.28 | 0.2% |
+| Stock Exchange Data | Nikkei | 31,624.28 | 32,287.21 | 32,010.26 | 31,856.71 | 31,565.64 | 0.2% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 18,212.17 | 17,845.92 | 17,791.01 | 17,623.29 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 264.97 | 264.97 | 261.55 | 259.09 | 263.75 | 0.9% |
+| Currencies | € / $ | 1.08 | 1.08 | 1.09 | 1.08 | 1.09 | -0.9% |
+| Currencies | £ / $ | 1.26 | 1.26 | 1.27 | 1.27 | 1.28 | -1.2% |
+| Currencies | $ / ¥ | 146.44 | 146.02 | 144.68 | 145.76 | 146.24 | 0.7% |
+| Currencies | $ / NoK | 0.0934 | 0.0932 | 0.0944 | 0.0941 | 0.0942 | -0.5% |
+| Currencies | Yuan / $ | 7.29 | 7.28 | 7.18 | 7.29 | 7.21 | 0.1% |
+| Currencies | Won / $ | 1,324.61 | 1,326.78 | 1,327.14 | 1,340.61 | 1,340.74 | -1.2% |
+| Currencies | $ INDEX | 103.98 | 103.98 | 103.56 | 103.30 | 103.30 | 0.4% |
+
+## Bunker Prices
+
+| Grade | Port | 25-Aug-23 | 18-Aug-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 25-Aug-23 | 18-Aug-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.71 | 14.70 | 0.1% |
+| COSTAMARE INC | NYSE | USD | 10.15 | 10.74 | -5.5% |
+| DANAOS CORPORATION | NYSE | USD | 66.34 | 69.43 | -4.5% |
+| DIANA SHIPPING | NYSE | USD | 3.60 | 3.75 | -4.0% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 41.01 | 45.51 | -9.9% |
+| EUROSEAS LTD. | NASDAQ | USD | 26.20 | 24.88 | 5.3% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 0.91 | 0.90 | 1.1% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.63 | 1.64 | -0.6% |
+| SAFE BULKERS INC | NYSE | USD | 3.08 | 3.21 | -4.0% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 5.15 | 5.40 | -4.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 16.91 | 18.36 | -7.9% |
+| STEALTHGAS INC | NASDAQ | USD | 4.78 | 5.10 | -6.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 20.54 | 21.56 | -4.7% |
+
+## Macro-economic headlines
+
+• US: The S&P Global US Manufacturing PMI, fell to 47 in August vs 49 in the previous month, while the S&P Global US Services PMI for August fell to 51, lower than July at 52.3. Existing Home Sales in July fell to 4.07m compared to 4.16m the previous month.
+
+• China: The People’s Bank of China lowered the loan prime rate (LPR) to 3.45% from 3.55%.
+
+• Japan: The composite PMI rose to 52.6 in August, gaining 0.4 since last month, while the Tokyo PMI stood at 2.8% y-o-y in August.

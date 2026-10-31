@@ -254,3 +254,77 @@ Turkey's segment held steady last week, however, rising energy costs, are weighi
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ETERNAL ACE | 24,801 | 5,349 | 1997 | KANASASHI, Japan | BC | undisclosed | undisclosed | as is Singapore |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 3-Apr-26 | 2-Apr-26 | 1-Apr-26 | 31-Mar-26 | 30-Mar-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.346 | 4.313 | 4.321 | 4.311 | 4.342 | -2.1% |
+| Stock Exchange Data | S&P 500 | 6,582.69 | 6,582.69 | 6,575.32 | 6,528.52 | 6,343.72 | 3.4% |
+| Stock Exchange Data | Nasdaq | 24,045.53 | 24,045.53 | 24,019.99 | 23,740.19 | 22,953.38 | 3.9% |
+| Stock Exchange Data | Dow Jones | 46,504.67 | 46,504.67 | 46,565.74 | 46,341.51 | 45,216.14 | 3.0% |
+| Stock Exchange Data | FTSE 100 | 10,436.29 | 10,436.29 | 10,364.79 | 10,176.45 | 10,127.96 | 4.7% |
+| Stock Exchange Data | FTSE All-Share UK | 5,566.13 | 5,566.13 | 5,533.60 | 5,430.69 | 5,401.02 | 4.5% |
+| Stock Exchange Data | CAC40 | 7,962.39 | 7,962.39 | 7,981.27 | 7,816.94 | 7,772.45 | 3.4% |
+| Stock Exchange Data | Xetra Dax | 23,168.08 | 23,168.08 | 23,298.89 | 22,680.04 | 22,562.88 | 3.9% |
+| Stock Exchange Data | Nikkei | 53,123.49 | 52,463.27 | 53,739.68 | 51,063.72 | 51,885.85 | -0.5% |
+| Stock Exchange Data | Hang Seng | 25,116.53 | 25,116.53 | 25,294.03 | 24,788.14 | 24,750.79 | 0.7% |
+| Stock Exchange Data | DJ US Maritime | 446.16 | 446.16 | 442.55 | 436.18 | 440.45 | 1.3% |
+| Currencies | € / $ | 1.15 | 1.15 | 1.16 | 1.16 | 1.15 | 0.1% |
+| Currencies | £ / $ | 1.32 | 1.32 | 1.33 | 1.32 | 1.32 | -0.5% |
+| Currencies | $ / ¥ | 159.56 | 159.59 | 158.78 | 158.71 | 159.72 | -0.5% |
+| Currencies | $ / NoK | 9.71 | 9.72 | 9.70 | 9.67 | 9.72 | -0.1% |
+| Currencies | Yuan / $ | 6.88 | 6.89 | 6.87 | 6.90 | 6.91 | -0.4% |
+| Currencies | Won / $ | 1,510.56 | 1,509.80 | 1,512.55 | 1,506.20 | 1,517.25 | 0.2% |
+| Currencies | $ INDEX | 100.03 | 100.03 | 99.65 | 99.96 | 100.51 | -0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 3-Apr-26 | 27-Mar-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,406.3 | 1,381.0 | 1.8% |
+| MGO | Houston | 1,325.3 | 1,305.0 | 1.6% |
+| MGO | Singapore | 2,084.8 | 1,783.5 | 16.9% |
+| 380cst | Rotterdam | 697.0 | 698.3 | -0.2% |
+| 380cst | Houston | 659.8 | 662.0 | -0.3% |
+| 380cst | Singapore | 814.0 | 726.0 | 12.1% |
+| VLSFO | Rotterdam | 727.8 | 731.0 | -0.4% |
+| VLSFO | Houston | 907.3 | 855.0 | 6.1% |
+| VLSFO | Singapore | 886.8 | 863.0 | 2.8% |
+
+## Oil Prices
+
+| Category | Indicator | 3-Apr-26 | 27-Mar-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 109.0 | 112.6 | -3.1% |
+| OIL | WTI | 112.1 | 99.6 | 12.5% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 03-Apr-26 | 27-Mar-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.75 | 20.40 | -8.1% |
+| COSTAMARE INC | NYSE | USD | 17.28 | 16.59 | 4.2% |
+| DANAOS CORPORATION | NYSE | USD | 115.43 | 110.74 | 4.2% |
+| DIANA SHIPPING | NYSE | USD | 2.56 | 2.41 | 6.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 67.28 | 60.81 | 10.6% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.37 | 1.94 | 22.2% |
+| SAFE BULKERS INC | NYSE | USD | 6.59 | 6.08 | 8.4% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 14.00 | 12.04 | 16.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 24.32 | 22.25 | 9.3% |
+| STEALTHGAS INC | NASDAQ | USD | 9.54 | 9.27 | 2.9% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 40.19 | 38.14 | 5.4% |
+
+## Macro-economic headlines
+
+In China, the Manufacturing PMI rose to 50.4 in March, up from 49.0 in February and above market expectations of 50.1, marking its strongest reading in a year. The return to expansion territory, following two consecutive months of contraction, reflects a post- Chinese New Year pickup in industrial activity.
+
+France’s industrial production declined by 0.7% m-o-m in February, falling short of market expectations for a 0.1% decrease and reversing January’s 0.5% gain.
+
+In United Stated, the Trade Deficit widened in February to $57.3bn from $54.50bn in January, however less than market estimations of $60.5bn trade gap. Exports rose 4.2% m-o-m to a record $314.8bn, while imports increased 4.3% m-o-m to $372.1bn, their highest level in eleven months.
+
+In the Eurozone, the Manufacturing PMI increased to 51.6 in March, marginally above the market forecast of 51.4 and up from 50.8 in February.

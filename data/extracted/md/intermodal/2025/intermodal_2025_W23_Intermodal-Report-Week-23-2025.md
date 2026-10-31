@@ -235,3 +235,77 @@ The Turkish market experienced constrained activity, primarily stemming from sub
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | BERGE FUJI | 268,025 | 40,658 | 1996 | HITACHI ZOSEN, Japan | BC | $440/Ldt | Bangladeshi |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 6-Jun-25 | 5-Jun-25 | 4-Jun-25 | 3-Jun-25 | 2-Jun-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.510 | 4.395 | 4.365 | 4.460 | 4.462 | 2.1% |
+| Stock Exchange Data | S&P 500 | 6,000.36 | 5,939.30 | 5,970.81 | 5,970.37 | 5,935.94 | 1.5% |
+| Stock Exchange Data | Nasdaq | 21,761.79 | 21,547.43 | 21,721.92 | 21,662.58 | 21,491.75 | 2.0% |
+| Stock Exchange Data | Dow Jones | 42,762.87 | 42,319.74 | 42,427.74 | 42,519.64 | 42,305.48 | 1.2% |
+| Stock Exchange Data | FTSE 100 | 8,837.91 | 8,811.04 | 8,801.29 | 8,787.02 | 8,774.26 | 0.7% |
+| Stock Exchange Data | FTSE All-Share UK | 4,794.84 | 4,779.55 | 4,775.89 | 4,766.13 | 4,760.42 | 0.7% |
+| Stock Exchange Data | CAC40 | 7,804.87 | 7,790.27 | 7,804.67 | 7,763.84 | 7,737.20 | 0.7% |
+| Stock Exchange Data | Xetra Dax | 24,304.46 | 24,323.58 | 24,276.48 | 24,091.62 | 23,930.67 | 1.3% |
+| Stock Exchange Data | Nikkei | 37,741.61 | 37,554.49 | 37,747.45 | 37,446.81 | 37,470.67 | -0.6% |
+| Stock Exchange Data | Hang Seng | 23,792.54 | 23,906.97 | 23,654.03 | 23,512.49 | 23,157.97 | 2.2% |
+| Stock Exchange Data | DJ US Maritime | 368.23 | 363.61 | 365.77 | 372.04 | 367.09 | 1.4% |
+| Currencies | € / $ | 1.14 | 1.14 | 1.14 | 1.14 | 1.14 | 0.4% |
+| Currencies | £ / $ | 1.35 | 1.36 | 1.36 | 1.35 | 1.35 | 0.5% |
+| Currencies | $ / ¥ | 144.85 | 143.52 | 142.76 | 144.00 | 142.69 | 0.6% |
+| Currencies | $ / NoK | 10.10 | 10.06 | 10.09 | 10.15 | 10.07 | -1.0% |
+| Currencies | Yuan / $ | 7.19 | 7.18 | 7.18 | 7.19 | 7.20 | -0.1% |
+| Currencies | Won / $ | 1,359.18 | 1,354.53 | 1,361.04 | 1,377.71 | 1,376.05 | -1.7% |
+| Currencies | $ INDEX | 99.19 | 98.74 | 98.79 | 99.23 | 98.71 | -0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 6-Jun-25 | 30-May-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 612.0 | 607.0 | 0.8% |
+| MGO | Houston | 612.0 | 600.0 | 2.0% |
+| MGO | Singapore | 604.0 | 587.0 | 2.9% |
+| 380cst | Rotterdam | 445.0 | 422.0 | 5.5% |
+| 380cst | Houston | 405.0 | 403.0 | 0.5% |
+| 380cst | Singapore | 432.0 | 429.0 | 0.7% |
+| VLSFO | Rotterdam | 481.0 | 469.0 | 2.6% |
+| VLSFO | Houston | 466.0 | 460.0 | 1.3% |
+| VLSFO | Singapore | 503.0 | 497.0 | 1.2% |
+
+## Oil Prices
+
+| Category | Indicator | 6-Jun-25 | 30-May-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 66.5 | 63.9 | 4.0% |
+| OIL | WTI | 64.6 | 60.8 | 6.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 06-Jun-25 | 30-May-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 21.80 | 23.18 | -6.0% |
+| COSTAMARE INC | NYSE | USD | 9.17 | 8.57 | 7.0% |
+| DANAOS CORPORATION | NYSE | USD | 86.87 | 85.30 | 1.8% |
+| DIANA SHIPPING | NYSE | USD | 1.55 | 1.52 | 2.0% |
+| EUROSEAS LTD. | NASDAQ | USD | 40.85 | 38.33 | 6.6% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.17 | 1.08 | 8.3% |
+| SAFE BULKERS INC | NYSE | USD | 3.79 | 3.80 | -0.3% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 6.42 | 6.23 | 3.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 16.69 | 16.51 | 1.1% |
+| STEALTHGAS INC | NASDAQ | USD | 6.28 | 5.96 | 5.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.75 | 18.16 | -2.3% |
+
+## Macro-economic headlines
+
+In USA the trade deficit narrowed significantly to $61.6bn in April, down from $140.5bn in March, beating market expectations for a $67.60bn deficit. This marks the lowest trade deficit since September 2023, primarily driven by a notable decline in imports.
+
+In Eurozone the GDP of Q1 2025 grew by 1.5% y-o-y, exceeding both market estimations and Q4 2024 growth, of 1.2% y-o-y. Meanwhile the HCOB Composite PMI read 50.2 in May, surpassing market projections of 49.5 and marginally lower than April’s reading of 50.4.
+
+In Germany, industrial production decreased by 1.4%, steeper decline than the 0.9% contraction expected and reversing the 3% growth recorded in March.
+
+In UK, Composite PMI rose to 50.3 in May, exceeding market expectations of 49.4 and April’s print of 48.5.

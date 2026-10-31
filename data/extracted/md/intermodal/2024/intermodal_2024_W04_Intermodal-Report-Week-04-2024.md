@@ -252,3 +252,71 @@ The ship recycling industry has faced difficulties in key hubs such as in India,
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | XIN XIANG AN | 22,160 | 5,113 | 1992 | SAIKI, Japan | BC | $ 490/Ldt | Bangladeshi |
 | FUKUDA | 2,217 | 674 | 1992 | GREENBAY, Singapore | TANKER | undisclosed | Bangladeshi |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 26-Jan-24 | 25-Jan-24 | 24-Jan-24 | 23-Jan-24 | 22-Jan-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.139 | 4.120 | 4.180 | 4.132 | 4.107 | 0.2% |
+| Stock Exchange Data | S&P 500 | 4,890.97 | 4,894.16 | 4,868.55 | 4,864.60 | 4,850.43 | 1.1% |
+| Stock Exchange Data | Nasdaq | 15,455.36 | 15,510.50 | 15,481.92 | 15,425.94 | 15,360.29 | 0.9% |
+| Stock Exchange Data | Dow Jones | 38,109.43 | 38,049.13 | 37,806.39 | 37,905.45 | 38,001.81 | 0.6% |
+| Stock Exchange Data | FTSE 100 | 7,635.09 | 7,529.73 | 7,527.67 | 7,485.73 | 7,487.71 | 2.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,174.89 | 4,122.73 | 4,120.13 | 4,095.09 | 4,098.31 | 2.3% |
+| Stock Exchange Data | CAC40 | 7,634.14 | 7,464.20 | 7,455.64 | 7,388.04 | 7,413.25 | 3.6% |
+| Stock Exchange Data | Xetra Dax | 16,961.39 | 16,906.92 | 16,889.92 | 16,627.09 | 16,683.36 | 1.7% |
+| Stock Exchange Data | Nikkei | 35,751.07 | 36,236.47 | 36,226.48 | 36,517.57 | 36,546.95 | -2.2% |
+| Stock Exchange Data | Hang Seng | 15,952.23 | 16,211.96 | 15,899.87 | 15,353.98 | 14,961.18 | 6.6% |
+| Stock Exchange Data | DJ US Maritime | 262.04 | 259.12 | 254.17 | 254.17 | 258.04 | 3.6% |
+| Currencies | € / $ | 1.09 | 1.08 | 1.09 | 1.09 | 1.09 | -0.5% |
+| Currencies | £ / $ | 1.27 | 1.27 | 1.27 | 1.27 | 1.27 | 0.1% |
+| Currencies | $ / ¥ | 148.19 | 147.72 | 147.55 | 148.27 | 148.15 | 0.0% |
+| Currencies | $ / NoK | 0.0958 | 0.0958 | 0.0955 | 0.0952 | 0.0950 | 0.4% |
+| Currencies | Yuan / $ | 7.10 | 7.09 | 7.09 | 7.09 | 7.19 | -0.3% |
+| Currencies | Won / $ | 1,337.39 | 1,337.03 | 1,331.40 | 1,340.53 | 1,339.64 | 0.1% |
+| Currencies | $ INDEX | 103.43 | 103.57 | 103.24 | 103.62 | 103.33 | 0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 26-Jan-24 | 19-Jan-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 26-Jan-24 | 19-Jan-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.25 | 18.10 | 0.8% |
+| COSTAMARE INC | NYSE | USD | 10.88 | 10.97 | -0.8% |
+| DANAOS CORPORATION | NYSE | USD | 77.13 | 75.58 | 2.1% |
+| DIANA SHIPPING | NYSE | USD | 3.09 | 3.02 | 2.3% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 55.95 | 55.06 | 1.6% |
+| EUROSEAS LTD. | NASDAQ | USD | 38.89 | 36.55 | 6.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.34 | 2.35 | -0.4% |
+| SAFE BULKERS INC | NYSE | USD | 4.14 | 4.02 | 3.0% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 8.01 | 8.00 | 0.1% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 22.04 | 21.25 | 3.7% |
+| STEALTHGAS INC | NASDAQ | USD | 7.95 | 7.09 | 12.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 24.90 | 24.32 | 2.4% |
+
+## Macro-economic headlines
+
+• US: Q4 GDP growth came in at a robust 3.3% annualised rate, ahead of expectations (2%).. The composite PMI stood at 52.3 in January, with both the services and manufacturing sectors in expansionary territory at 52.9 and 50.3 respectively.
+
+• EU: composite PMI edged up to 47.9, while the German manufacturing PMI rose to 45.4 and the services PMI fell to 47.6. The ECB kept policy unchanged, but shifted to a more data dependent outlook.
+
+• Japan: Core CPI inflation unexpectedly fell to 1.6% y/y in January from 2.1% y/y. The Bank of Japan kept policy steady but signalled a move away from negative interest rates.
+
+• China: China's central bank cut the reserve requirement ratio by 50bps, leaving it at 10% to inject liquidity into the economy. The authorities also announced a stock market support package.

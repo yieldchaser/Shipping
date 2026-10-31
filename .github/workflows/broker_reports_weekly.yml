@@ -60,6 +60,8 @@ jobs:
           python scripts/extract/orchestrate_incremental_ingest.py || true
           # Intermodal finance page (stocks, bunkers, macro): merge new issues into the series CSVs
           python scripts/extract/publishers/run_intermodal_finance.py --new-only || true
+          # ...and the same page as text: append "Commodities & Ship Finance" to MDs that lack it (idempotent)
+          python scripts/extract/publishers/render_intermodal_finance_md.py --apply || true
           # Intermodal: rebuild tables the parse left as a header row only (new issues; checked against the PDF page)
           python scripts/md_cleanup/intermodal_table_rebuild.py --untracked --parse -j 2 --apply || true
           python scripts/md_cleanup/intermodal_chart_guess_note.py --apply || true

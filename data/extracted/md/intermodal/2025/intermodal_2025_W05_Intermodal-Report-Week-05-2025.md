@@ -231,3 +231,75 @@ In Turkey the ship recycling market faced downwards pressures on prices offered 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | TASOS | 75,100 | 10,569 | 2000 | HITACHI ZOSEN, Japan | BC | $ 475/Ldt | undisclosed |
 | AK HAMBURG | 8,828 | 2,600 | 1982 | TAIHEI HASHIHAMA, Japan | GENERAL CARGO | $ 440/Ldt | Indian |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 31-Jan-25 | 30-Jan-25 | 29-Jan-25 | 28-Jan-25 | 27-Jan-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.567 | 4.512 | 4.555 | 4.549 | 4.528 | -1.2% |
+| Stock Exchange Data | S&P 500 | 6,040.53 | 6,071.17 | 6,039.31 | 6,067.70 | 6,012.28 | -1.0% |
+| Stock Exchange Data | Nasdaq | 21,478.05 | 21,508.12 | 21,411.46 | 21,463.04 | 21,127.28 | -1.4% |
+| Stock Exchange Data | Dow Jones | 44,544.66 | 44,882.13 | 44,713.58 | 44,850.35 | 44,713.58 | 0.3% |
+| Stock Exchange Data | FTSE 100 | 8,673.96 | 8,646.88 | 8,557.81 | 8,533.87 | 8,503.71 | 2.0% |
+| Stock Exchange Data | FTSE All-Share UK | 4,710.58 | 4,693.65 | 4,644.88 | 4,634.83 | 4,613.88 | 2.0% |
+| Stock Exchange Data | CAC40 | 7,950.17 | 7,941.64 | 7,872.48 | 7,897.37 | 7,906.58 | 0.3% |
+| Stock Exchange Data | Xetra Dax | 21,732.05 | 21,727.20 | 21,637.53 | 21,430.58 | 21,282.18 | 1.6% |
+| Stock Exchange Data | Nikkei | 39,572.49 | 39,513.97 | 39,414.78 | 39,016.87 | 39,565.80 | -0.9% |
+| Stock Exchange Data | Hang Seng | 20,225.11 | 20,225.11 | 20,225.11 | 20,225.11 | 20,197.77 | 0.8% |
+| Stock Exchange Data | DJ US Maritime | 358.29 | 368.04 | 349.79 | 348.60 | 350.08 | 0.1% |
+| Currencies | € / $ | 1.04 | 1.04 | 1.04 | 1.04 | 1.05 | -1.2% |
+| Currencies | £ / $ | 1.24 | 1.24 | 1.24 | 1.24 | 1.25 | -0.7% |
+| Currencies | $ / ¥ | 155.18 | 154.30 | 155.20 | 155.52 | 154.49 | -0.5% |
+| Currencies | $ / NoK | 11.32 | 11.32 | 11.28 | 11.27 | 11.24 | 1.3% |
+| Currencies | Yuan / $ | 7.25 | 7.25 | 7.25 | 7.25 | 7.25 | 0.1% |
+| Currencies | Won / $ | 1,455.70 | 1,443.57 | 1,441.66 | 1,445.37 | 1,432.84 | 1.9% |
+| Currencies | $ INDEX | 108.37 | 107.80 | 108.00 | 107.87 | 107.34 | 0.9% |
+
+## Bunker Prices
+
+| Grade | Port | 31-Jan-25 | 24-Jan-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 653.0 | 684.0 | -4.5% |
+| MGO | Houston | 716.0 | 731.0 | -2.1% |
+| MGO | Singapore | 690.0 | 710.0 | -2.8% |
+| 380cst | Rotterdam | 459.0 | 470.0 | -2.3% |
+| 380cst | Houston | 459.0 | 470.0 | -2.3% |
+| 380cst | Singapore | 506.0 | 514.0 | -1.6% |
+| VLSFO | Rotterdam | 551.0 | 547.0 | 0.7% |
+| VLSFO | Houston | 558.0 | 563.0 | -0.9% |
+| VLSFO | Singapore | 580.0 | 590.0 | -1.7% |
+
+## Oil Prices
+
+| Category | Indicator | 31-Jan-25 | 24-Jan-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 76.8 | 78.5 | -2.2% |
+| OIL | WTI | 72.5 | 74.7 | -2.9% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 31-Jan-25 | 24-Jan-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 19.19 | 18.23 | 5.3% |
+| COSTAMARE INC | NYSE | USD | 11.66 | 11.81 | -1.3% |
+| DANAOS CORPORATION | NYSE | USD | 79.23 | 77.46 | 2.3% |
+| DIANA SHIPPING | NYSE | USD | 1.82 | 1.78 | 2.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 31.01 | 31.61 | -1.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.32 | 1.38 | -4.3% |
+| SAFE BULKERS INC | NYSE | USD | 3.55 | 3.38 | 5.0% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 6.93 | 7.00 | -1.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 15.37 | 14.81 | 3.8% |
+| STEALTHGAS INC | NASDAQ | USD | 5.64 | 5.73 | -1.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.88 | 17.21 | 3.9% |
+
+## Macro-economic headlines
+
+In USA the Trade Deficit widened in December to $122.11 billion, surpassing the forecast of $105.6 billion and the previous month's figure of $102.86 billion.
+
+In the Eurozone, GDP stalled in Q4 2024, showing no growth and falling short of the 0.1% market forecast. This follows a 0.3% QoQ expansion in Q3 2024. Germany and France, Eurozone’s two largest economies, saw GDP contractions of 0.2% and 0.1% QoQ, respectively.
+
+In Japan, the CPI rose by 3.4% in January, exceeding market expectations and December’s growth, both at 3%.

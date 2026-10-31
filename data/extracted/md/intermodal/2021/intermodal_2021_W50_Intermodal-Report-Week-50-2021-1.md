@@ -309,3 +309,83 @@ The demolition prices have stabilized during the past days amidst a continuing s
 | BANDA SEA | 22,239 | 10,571 | 1982 | MITSUBISHI, Japan | RORO | $ 440/Ldt | undisclosed | as-is USA |
 
 © Intermodal Research 21/12/2021 6
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 17-Dec-21 | 16-Dec-21 | 15-Dec-21 | 14-Dec-21 | 13-Dec-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.402 | 1.422 | 1.463 | 1.438 | 1.424 | -5.8% |
+| Stock Exchange Data | S&P 500 | 4,620.64 | 4,668.67 | 4,709.85 | 4,634.09 | 4,712.02 | -1.9% |
+| Stock Exchange Data | Nasdaq | 15,169.68 | 15,180.44 | 15,565.58 | 15,237.64 | 15,413.28 | -2.9% |
+| Stock Exchange Data | Dow Jones | 35,365.44 | 35,897.64 | 35,927.43 | 35,544.18 | 35,650.95 | -1.7% |
+| Stock Exchange Data | FTSE 100 | 7,269.92 | 7,260.61 | 7,170.75 | 7,218.64 | 7,231.44 | -0.3% |
+| Stock Exchange Data | FTSE All-Share UK | 4,130.94 | 4,122.09 | 4,074.13 | 4,100.24 | 4,109.33 | -0.4% |
+| Stock Exchange Data | CAC40 | 6,926.63 | 7,005.07 | 6,927.63 | 6,895.31 | 6,942.91 | -0.9% |
+| Stock Exchange Data | Xetra Dax | 15,531.69 | 15,636.40 | 15,476.35 | 15,453.56 | 15,621.72 | -0.6% |
+| Stock Exchange Data | Nikkei | 28,545.68 | 29,066.32 | 28,459.72 | 28,432.64 | 28,640.49 | -0.3% |
+| Stock Exchange Data | Hang Seng | 23,475.50 | 23,475.50 | 23,420.76 | 23,635.95 | 23,954.58 | -3.2% |
+| Stock Exchange Data | DJ US Maritime | 192.06 | 191.54 | 190.26 | 190.68 | 189.04 | 1.0% |
+| Currencies | € / $ | 1.12 | 1.13 | 1.13 | 1.13 | 1.13 | -0.7% |
+| Currencies | £ / $ | 1.32 | 1.33 | 1.33 | 1.32 | 1.32 | -0.3% |
+| Currencies | $ / ¥ | 113.72 | 113.67 | 114.15 | 113.74 | 113.58 | 0.3% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.11 | 0.11 | 0.11 | -0.8% |
+| Currencies | Yuan / $ | 6.38 | 6.37 | 6.37 | 6.37 | 6.37 | 0.1% |
+| Currencies | Won / $ | 1,187.89 | 1,186.23 | 1,185.41 | 1,185.23 | 1,185.18 | 0.6% |
+| Currencies | $ INDEX | 96.57 | 96.04 | 96.51 | 96.57 | 96.32 | 0.5% |
+
+## Bunker Prices
+
+| Grade | Port | 17-Dec-21 | 10-Dec-21 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 621.0 | 622.0 | -0.2% |
+| MGO | Houston | 655.0 | 655.5 | -0.1% |
+| MGO | Singapore | 646.5 | 660.0 | -2.0% |
+| 380cst | Rotterdam | 421.0 | 416.0 | 1.2% |
+| 380cst | Houston | 410.0 | 425.5 | -3.6% |
+| 380cst | Singapore | 429.5 | 426.5 | 0.7% |
+| VLSFO | Rotterdam | 547.0 | 545.5 | 0.3% |
+| VLSFO | Houston | 557.0 | 556.5 | 0.1% |
+| VLSFO | Singapore | 608.0 | 598.5 | 1.6% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 17-Dec-21 | 10-Dec-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.24 | 16.01 | -4.8% |
+| COSTAMARE INC | NYSE | USD | 11.91 | 12.08 | -1.4% |
+| DANAOS CORPORATION | NYSE | USD | 70.07 | 71.84 | -2.5% |
+| DIANA SHIPPING | NYSE | USD | 3.81 | 4.00 | -4.8% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 40.53 | 41.51 | -2.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 22.65 | 23.97 | -5.5% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.11 | 2.24 | -5.8% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 3.44 | 4.80 | -28.3% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 23.83 | 27.31 | -12.7% |
+| SAFE BULKERS INC | NYSE | USD | 3.61 | 3.79 | -4.7% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.91 | 1.02 | -10.8% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.86 | 21.09 | -5.8% |
+| STEALTHGAS INC | NASDAQ | USD | 2.26 | 2.27 | -0.4% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 7.35 | 7.94 | -7.4% |
+
+## Market News
+
+“Seanergy brings in Asian bank for cheaper $15m capesize refinancing
+
+Greece's Seanergy Maritime Holdings has more than halved its finance costs for one of its capesize bulkers.
+
+The Nasdaq-listed company said it is tapping a major Asian bank for a $15m loan to replace a facility from US alternative finance group EnTrust Global, of which $14.6m remains outstanding.
+
+The cash is secured by, and refinances, the 170,000- dwt Geniuship (built 2010).
+
+The EnTrust finance would have cost 10.5% in interest over the next three and a half years, while the new facility has been fixed at Libor plus 3.5%.
+
+The Asian loan has a five-year term.
+
+It will amortise through four quarterly instalments of $530,000 followed by 16 quarterly payments of $385,000.
+
+"The significantly lower interest rate, as well as the reduced quarterly repayments agreed for 2023 onwards, will further improve the break-even rates of the underlying vessel," the company said.
+
+Interest savings are expected to be $900,000 for 2020 and $500,000 per year from...”(TradeWinds)

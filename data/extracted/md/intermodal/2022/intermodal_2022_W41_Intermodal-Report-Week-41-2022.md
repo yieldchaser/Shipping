@@ -328,3 +328,79 @@ The volume of the materialized deals in the demolition market remains low despit
 | MING ZHOU 68 | 69,950 | 9,450 | 1989 | SANOYAS, Japan | BC | undisclosed | undisclosed |  |
 
 © Intermodal Research 18/10/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 14-Oct-22 | 13-Oct-22 | 12-Oct-22 | 11-Oct-22 | 10-Oct-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.010 | 3.952 | 3.902 | 3.939 | 3.888 | 3.3% |
+| Stock Exchange Data | S&P 500 | 3,583.07 | 3,669.91 | 3,577.03 | 3,588.84 | 3,639.66 | -1.6% |
+| Stock Exchange Data | Nasdaq | 10,321.39 | 10,649.15 | 10,417.10 | 10,426.19 | 10,542.10 | -3.1% |
+| Stock Exchange Data | Dow Jones | 29,634.83 | 30,038.72 | 29,210.85 | 29,239.19 | 29,202.88 | 1.2% |
+| Stock Exchange Data | FTSE 100 | 6,858.79 | 6,850.27 | 6,826.15 | 6,885.23 | 6,959.31 | -1.9% |
+| Stock Exchange Data | FTSE All-Share UK | 3,740.85 | 3,732.93 | 3,712.50 | 3,749.50 | 3,791.94 | -1.9% |
+| Stock Exchange Data | CAC40 | 5,931.92 | 5,879.19 | 5,818.47 | 5,833.20 | 5,840.55 | 1.1% |
+| Stock Exchange Data | Xetra Dax | 12,437.81 | 12,355.58 | 12,172.26 | 12,220.25 | 12,272.94 | 1.3% |
+| Stock Exchange Data | Nikkei | 27,090.76 | 27,090.76 | 26,237.42 | 26,396.83 | 26,401.25 | 2.6% |
+| Stock Exchange Data | Hang Seng | 16,389.11 | 16,389.11 | 16,701.03 | 16,832.36 | 17,216.66 | -7.6% |
+| Stock Exchange Data | DJ US Maritime | 211.43 | 214.51 | 207.98 | 209.85 | 211.66 | -1.8% |
+| Currencies | € / $ | 0.97 | 0.98 | 0.97 | 0.97 | 0.97 | -0.2% |
+| Currencies | £ / $ | 1.12 | 1.13 | 1.11 | 1.10 | 1.11 | 0.8% |
+| Currencies | $ / ¥ | 148.79 | 147.31 | 146.74 | 145.87 | 145.68 | 2.3% |
+| Currencies | $ / NoK | 0.09 | 0.09 | 0.09 | 0.09 | 0.09 | 0.8% |
+| Currencies | Yuan / $ | 7.19 | 7.17 | 7.18 | 7.17 | 7.15 | 1.1% |
+| Currencies | Won / $ | 1,441.69 | 1,431.30 | 1,424.90 | 1,431.80 | 1,428.75 | 1.2% |
+| Currencies | $ INDEX | 113.31 | 112.36 | 113.32 | 113.22 | 113.14 | 0.5% |
+
+## Bunker Prices
+
+| Grade | Port | 14-Oct-22 | 7-Oct-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,077.5 | 1,094.5 | -1.6% |
+| MGO | Houston | 1,247.5 | 1,188.5 | 5.0% |
+| MGO | Singapore | 1,079.0 | 1,092.0 | -1.2% |
+| 380cst | Rotterdam | 390.5 | 432.0 | -9.6% |
+| 380cst | Houston | 446.0 | 448.5 | -0.6% |
+| 380cst | Singapore | 397.5 | 416.5 | -4.6% |
+| VLSFO | Rotterdam | 668.0 | 665.0 | 0.5% |
+| VLSFO | Houston | 679.5 | 673.5 | 0.9% |
+| VLSFO | Singapore | 738.5 | 764.0 | -3.3% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 14-Oct-22 | 07-Oct-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.16 | 13.55 | 4.5% |
+| COSTAMARE INC | NYSE | USD | 9.57 | 9.17 | 4.4% |
+| DANAOS CORPORATION | NYSE | USD | 58.38 | 57.31 | 1.9% |
+| DIANA SHIPPING | NYSE | USD | 4.18 | 4.17 | 0.2% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 49.47 | 49.63 | -0.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 20.18 | 20.72 | -2.6% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.35 | 1.45 | -6.9% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.93 | 2.01 | -4.0% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 25.21 | 24.73 | 1.9% |
+| SAFE BULKERS INC | NYSE | USD | 2.70 | 2.63 | 2.7% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.49 | 0.51 | -3.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 20.43 | 19.92 | 2.6% |
+| STEALTHGAS INC | NASDAQ | USD | 3.09 | 2.87 | 7.7% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.60 | 15.98 | 10.1% |
+
+## Market News
+
+“Saverys’ CMB grabs more shares as tug of war for Euronav continues
+
+The Saverys family is not going down without a fight in its battle for Euronav.
+
+The Belgian shipowning dynasty’s Compagnie Maritime Belge (CMB) spent the last three months growing its stake in the John Fredriksen target by 2.8m shares to 43.7m in an effort to block a blockbuster merger with the Norwegian tycoon’s Frontline.
+
+CMB now owns just under 22% of the company.
+
+“CMB acquired additional ordinary shares with the purpose and intent of seeking the election of one or more directors to the supervisory board [of Euronav],” the Saverys company said in a filing with the US Securities and Exchange Commission.
+
+“[The Saverys] continue to desire to more actively participate in decisions concerning the strategic direction of the issuer and seek to maximize shareholder value to the benefit of the issuer and its shareholders, including CMB.”
+
+The $4.2bn, all-share merger between Frontline and...(TradeWinds)

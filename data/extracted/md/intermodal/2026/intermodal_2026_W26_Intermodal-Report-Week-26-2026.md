@@ -247,3 +247,77 @@ Overall, demolition supply is gradually building in the background, however, ste
 | USD/INR | 94.36 | 94.33 | 0.04% | 95.97 |
 | USD/PKR | 278.22 | 278.20 | 0.01% | 280.05 |
 | USD/TRY | 46.62 | 46.43 | 0.40% | 46.62 |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 26-Jun-26 | 25-Jun-26 | 24-Jun-26 | 23-Jun-26 | 22-Jun-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.372 | 4.392 | 4.400 | 4.493 | 4.507 | -1.8% |
+| Stock Exchange Data | S&P 500 | 7,354.02 | 7,357.49 | 7,358.22 | 7,365.46 | 7,472.79 | -2.0% |
+| Stock Exchange Data | Nasdaq | 29,118.24 | 29,440.32 | 29,220.06 | 29,347.27 | 30,347.08 | -4.2% |
+| Stock Exchange Data | Dow Jones | 51,876.11 | 51,920.62 | 51,848.90 | 51,666.84 | 51,712.71 | 0.6% |
+| Stock Exchange Data | FTSE 100 | 10,508.02 | 10,529.89 | 10,461.63 | 10,428.85 | 10,437.85 | 1.4% |
+| Stock Exchange Data | FTSE All-Share UK | 5,643.44 | 5,654.18 | 5,619.86 | 5,599.56 | 5,611.44 | 1.2% |
+| Stock Exchange Data | CAC40 | 8,384.87 | 8,431.61 | 8,385.49 | 8,340.71 | 8,400.11 | -0.4% |
+| Stock Exchange Data | Xetra Dax | 24,671.22 | 24,994.83 | 24,740.36 | 24,893.58 | 25,139.69 | -1.3% |
+| Stock Exchange Data | Nikkei | 69,360.88 | 72,366.34 | 69,174.97 | 69,788.38 | 72,353.96 | -2.7% |
+| Stock Exchange Data | Hang Seng | 22,671.86 | 23,076.91 | 23,412.18 | 23,336.28 | 23,768.52 | -5.2% |
+| Stock Exchange Data | DJ US Maritime | 448.98 | 454.79 | 450.13 | 453.74 | 463.89 | -2.7% |
+| Currencies | € / $ | 1.14 | 1.14 | 1.14 | 1.14 | 1.14 | -0.7% |
+| Currencies | £ / $ | 1.32 | 1.32 | 1.32 | 1.32 | 1.32 | -0.2% |
+| Currencies | $ / ¥ | 161.73 | 161.78 | 161.77 | 161.57 | 161.54 | 0.3% |
+| Currencies | $ / NoK | 9.91 | 9.87 | 9.84 | 9.79 | 9.68 | 2.5% |
+| Currencies | Yuan / $ | 6.80 | 6.80 | 6.81 | 6.79 | 6.77 | 0.4% |
+| Currencies | Won / $ | 1,535.02 | 1,544.71 | 1,542.22 | 1,532.51 | 1,538.00 | 0.3% |
+| Currencies | $ INDEX | 101.36 | 101.43 | 101.61 | 101.41 | 101.02 | 0.5% |
+
+## Bunker Prices
+
+| Grade | Port | 26-Jun-26 | 19-Jun-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 870.3 | 879.8 | -1.1% |
+| MGO | Houston | 903.8 | 933.5 | -3.2% |
+| MGO | Singapore | 885.8 | 921.8 | -3.9% |
+| 380cst | Rotterdam | 455.8 | 491.3 | -7.2% |
+| 380cst | Houston | 491.3 | 498.3 | -1.4% |
+| 380cst | Singapore | 451.8 | 476.3 | -5.1% |
+| VLSFO | Rotterdam | 577.8 | 602.3 | -4.1% |
+| VLSFO | Houston | 585.0 | 668.5 | -12.5% |
+| VLSFO | Singapore | 690.0 | 688.0 | 0.3% |
+
+## Oil Prices
+
+| Category | Indicator | 26-Jun-26 | 19-Jun-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 72.0 | 80.6 | -10.6% |
+| OIL | WTI | 69.2 | 76.6 | -9.6% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 26-Jun-26 | 19-Jun-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 20.71 | 20.03 | 3.4% |
+| COSTAMARE INC | NYSE | USD | 14.43 | 15.19 | -5.0% |
+| DANAOS CORPORATION | NYSE | USD | 123.02 | 125.95 | -2.3% |
+| DIANA SHIPPING | NYSE | USD | 2.05 | 2.10 | -2.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 66.35 | 68.60 | -3.3% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.87 | 2.75 | 4.4% |
+| SAFE BULKERS INC | NYSE | USD | 6.39 | 6.70 | -4.6% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 14.16 | 14.63 | -3.2% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 24.40 | 25.81 | -5.5% |
+| STEALTHGAS INC | NASDAQ | USD | 8.16 | 8.29 | -1.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 36.72 | 38.29 | -4.1% |
+
+## Macro-economic headlines
+
+In China, the Manufacturing PMI stood at 50.3 in June, remaining marginally in expansionary territory and exceeding both the forecast of 50.1 and May’s reading of 50.
+
+In United Stated, GDP increased by 2.1% q-o-q in Q1 2026, surpassing market estimations of 1.6% and accelerating from the 0.5% pace recorded in Q4 2026.
+
+In Japan, the Tokyo core CPI rose by 1.6% y-o-y in June, in line with market forecasts and above May’s 1.3% increase.
+
+In Germany, the Ifo Business Climate Index rose to 85.6 in June from 84.9 in May, matching market expectations.

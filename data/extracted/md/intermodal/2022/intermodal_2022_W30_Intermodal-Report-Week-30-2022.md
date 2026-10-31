@@ -331,3 +331,77 @@ Sentiment in the demolition sector across the main Indian subcontinent markets r
 | PEARL II | 2,952 | 9,590 | 1981 | HDW AG, Germany | BC | undisclosed | Turkish |  |
 
 © Intermodal Research 02/08/2022 8
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 29-Jul-22 | 28-Jul-22 | 27-Jul-22 | 26-Jul-22 | 25-Jul-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 2.642 | 2.681 | 2.734 | 2.787 | 2.820 | -5.1% |
+| Stock Exchange Data | S&P 500 | 4,130.29 | 4,072.43 | 4,023.61 | 3,921.05 | 3,961.63 | 4.3% |
+| Stock Exchange Data | Nasdaq | 12,390.69 | 12,162.59 | 12,032.42 | 11,562.58 | 11,782.67 | 4.7% |
+| Stock Exchange Data | Dow Jones | 32,845.13 | 32,529.63 | 32,197.59 | 31,761.54 | 31,990.04 | 3.0% |
+| Stock Exchange Data | FTSE 100 | 7,423.43 | 7,345.25 | 7,348.23 | 7,306.28 | 7,306.30 | 2.0% |
+| Stock Exchange Data | FTSE All-Share UK | 4,107.01 | 4,061.26 | 4,055.16 | 4,033.75 | 4,041.31 | 2.0% |
+| Stock Exchange Data | CAC40 | 6,448.50 | 6,339.21 | 6,257.94 | 6,211.45 | 6,237.55 | 3.7% |
+| Stock Exchange Data | Xetra Dax | 13,484.05 | 13,282.11 | 13,166.38 | 13,096.93 | 13,210.32 | 2.1% |
+| Stock Exchange Data | Nikkei | 27,801.64 | 27,815.48 | 27,715.75 | 27,655.21 | 27,699.25 | 0.4% |
+| Stock Exchange Data | Hang Seng | 20,622.68 | 20,622.68 | 20,670.04 | 20,905.88 | 20,562.94 | 0.2% |
+| Stock Exchange Data | DJ US Maritime | 208.24 | 205.98 | 217.80 | 207.85 | 205.65 | 3.7% |
+| Currencies | € / $ | 1.02 | 1.02 | 1.02 | 1.01 | 1.02 | 0.3% |
+| Currencies | £ / $ | 1.22 | 1.22 | 1.22 | 1.20 | 1.21 | 1.5% |
+| Currencies | $ / ¥ | 133.25 | 134.43 | 136.12 | 136.97 | 136.42 | -2.2% |
+| Currencies | $ / NoK | 0.10 | 0.10 | 0.10 | 0.10 | 0.10 | 4.4% |
+| Currencies | Yuan / $ | 6.74 | 6.75 | 6.76 | 6.76 | 6.75 | -0.1% |
+| Currencies | Won / $ | 1,303.28 | 1,296.05 | 1,306.25 | 1,311.25 | 1,310.84 | -0.5% |
+| Currencies | $ INDEX | 105.83 | 106.22 | 106.36 | 107.14 | 106.43 | -0.7% |
+
+## Bunker Prices
+
+| Grade | Port | 29-Jul-22 | 22-Jul-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,108.0 | 1,089.5 | 1.7% |
+| MGO | Houston | 1,150.5 | 1,143.0 | 0.7% |
+| MGO | Singapore | 1,086.0 | 1,042.5 | 4.2% |
+| 380cst | Rotterdam | 490.5 | 481.0 | 2.0% |
+| 380cst | Houston | 610.5 | 583.0 | 4.7% |
+| 380cst | Singapore | 507.0 | 479.0 | 5.8% |
+| VLSFO | Rotterdam | 767.5 | 780.0 | -1.6% |
+| VLSFO | Houston | 831.5 | 836.0 | -0.5% |
+| VLSFO | Singapore | 894.0 | 924.5 | -3.3% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 29-Jul-22 | 22-Jul-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.98 | 14.38 | 4.2% |
+| COSTAMARE INC | NYSE | USD | 11.73 | 11.28 | 4.0% |
+| DANAOS CORPORATION | NYSE | USD | 73.13 | 66.12 | 10.6% |
+| DIANA SHIPPING | NYSE | USD | 5.65 | 4.90 | 15.3% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 52.93 | 51.12 | 3.5% |
+| EUROSEAS LTD. | NASDAQ | USD | 24.70 | 22.81 | 8.3% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.65 | 1.60 | 3.1% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.43 | 2.17 | 12.0% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 29.66 | 23.02 | 28.8% |
+| SAFE BULKERS INC | NYSE | USD | 3.86 | 3.58 | 7.8% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.71 | 0.71 | 0.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 26.03 | 25.44 | 2.3% |
+| STEALTHGAS INC | NASDAQ | USD | 2.70 | 2.45 | 10.2% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 12.35 | 10.92 | 13.1% |
+
+## Market News
+
+“Safe Bulkers buys back stock after quarterly profit surges 55%
+
+Safe Bulkers, Polys Hajioannou’s US-listed company, reported another quarter of solid profit and revealed the first share buy-backs under a programme announced last month.
+
+The Limassol-based owner of about 50 bulkers in the water or under construction announced net income of $50.3m for the second quarter, up 55% compared to the same period of last year.
+
+The company also announced that it has bought back and cancelled 1m of its own shares as of 22 July, exactly one month into a programme to buy back up to 5m shares.
+
+Safe Bulkers did not disclosed the price for the share purchases. Its stock closed at $3.78 on the New York Stock Exchange on Wednesday.
+
+“We believe, our strong liquidity and relatively low leverage will enable us to be flexible with our capital, while still rewarding our shareholders,” company president Loukas Barmparis said in a press release...(TradeWinds)

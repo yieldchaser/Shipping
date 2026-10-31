@@ -304,3 +304,76 @@ Activity in the demolition market remains subdued, while further declines were r
 | TIAN YU 2 | 22,271 | 5,002 | 1989 | SAIKI, Japan | BULKER | $ 560/Ldt | Bangladeshi |  |
 
 © Intermodal Research 15/11/2022 6
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 11-Nov-22 | 10-Nov-22 | 9-Nov-22 | 8-Nov-22 | 7-Nov-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.813 | 3.829 | 4.151 | 4.126 | 4.214 | -8.3% |
+| Stock Exchange Data | S&P 500 | 3,992.93 | 3,956.37 | 3,748.57 | 3,828.11 | 3,770.55 | 5.9% |
+| Stock Exchange Data | Nasdaq | 11,323.33 | 11,114.15 | 10,353.17 | 10,616.20 | 10,564.52 | 8.1% |
+| Stock Exchange Data | Dow Jones | 33,747.86 | 33,715.37 | 32,513.94 | 33,160.83 | 32,827.00 | 4.1% |
+| Stock Exchange Data | FTSE 100 | 7,318.04 | 7,375.34 | 7,296.25 | 7,306.14 | 7,299.99 | -0.2% |
+| Stock Exchange Data | FTSE All-Share UK | 4,036.84 | 4,054.69 | 3,994.13 | 4,000.38 | 3,993.09 | 0.9% |
+| Stock Exchange Data | CAC40 | 6,594.62 | 6,556.83 | 6,430.57 | 6,441.50 | 6,416.61 | 2.8% |
+| Stock Exchange Data | Xetra Dax | 14,224.86 | 14,146.09 | 13,666.32 | 13,688.75 | 13,533.52 | 5.1% |
+| Stock Exchange Data | Nikkei | 28,263.57 | 27,446.10 | 27,716.43 | 27,872.11 | 27,527.64 | 2.7% |
+| Stock Exchange Data | Hang Seng | 16,081.04 | 16,081.04 | 16,358.52 | 16,557.31 | 16,595.91 | 4.8% |
+| Stock Exchange Data | DJ US Maritime | 222.23 | 225.48 | 216.38 | 224.82 | 226.99 | -2.0% |
+| Currencies | € / $ | 1.04 | 1.02 | 1.00 | 1.01 | 1.00 | 4.7% |
+| Currencies | £ / $ | 1.18 | 1.17 | 1.14 | 1.16 | 1.15 | 3.8% |
+| Currencies | $ / ¥ | 138.80 | 141.64 | 146.20 | 145.34 | 146.65 | -5.3% |
+| Currencies | $ / NoK | 0.1006 | 0.0990 | 0.0964 | 0.0977 | 0.0978 | 3.1% |
+| Currencies | Yuan / $ | 7.11 | 7.19 | 7.24 | 7.25 | 7.23 | -1.1% |
+| Currencies | Won / $ | 1,314.13 | 1,350.13 | 1,371.05 | 1,374.55 | 1,393.10 | -6.4% |
+| Currencies | $ INDEX | 106.29 | 108.21 | 110.55 | 109.64 | 110.12 | -4.1% |
+
+## Bunker Prices
+
+| Grade | Port | 11-Nov-22 | 4-Nov-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 11-Nov-22 | 4-Nov-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.15 | 15.15 | 0.0% |
+| COSTAMARE INC | NYSE | USD | 10.02 | 9.83 | 1.9% |
+| DANAOS CORPORATION | NYSE | USD | 61.75 | 60.80 | 1.6% |
+| DIANA SHIPPING | NYSE | USD | 4.45 | 4.30 | 3.5% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 55.49 | 51.84 | 7.0% |
+| EUROSEAS LTD. | NASDAQ | USD | 21.31 | 19.86 | 7.3% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.34 | 1.20 | 11.7% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.27 | 1.98 | 14.6% |
+| SAFE BULKERS INC | NYSE | USD | 3.00 | 2.71 | 10.7% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.48 | 0.48 | 0.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 21.00 | 19.44 | 8.0% |
+| STEALTHGAS INC | NASDAQ | USD | 3.23 | 3.25 | -0.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.99 | 18.85 | -4.6% |
+
+## Market News
+
+“Genco Shipping delivers another profit, and fatter dividend, as expenses dip
+
+New York-listed Genco Shipping & Trading rolled to another profit in a softer third quarter and continued to build on its new high-payout dividend model.
+
+The John Wobensmith-led company is handing out a dividend of $0.78 per share – 56% higher than the $0.50 per share it managed in the second quarter and equivalent to a yield of 21%. Genco has now paid dividends of $2.74 per share over the last four quarters since implementing the model.
+
+The payout came as Genco reported adjusted net income of $42.7m, or $1 per share. This was down from $57.1m, or $1.36 per share, in the third quarter of 2021.
+
+Revenue declined to $136m from $155m in the third quarter of 2021, which Genco laid primarily to lower rates earned by its capesizes.
+
+While solidly profitable, the result fell short of the... (TradeWinds)

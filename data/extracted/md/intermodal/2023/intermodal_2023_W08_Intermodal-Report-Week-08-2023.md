@@ -316,3 +316,76 @@ Last week a small number of materialized deals took place in the demolition real
 | TAI FU NO. 1 | 6,044 | 3,670 | 1979 | MINAMI-NIPPON, Japan | REEFER | undisclosed | undisclosed | as is Bangkok |
 
 © Intermodal Research 28/02/2023 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 24-Feb-23 | 23-Feb-23 | 22-Feb-23 | 21-Feb-23 | 20-Feb-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.949 | 3.879 | 3.923 | 3.955 | 3.828 | 3.2% |
+| Stock Exchange Data | S&P 500 | 3,982.24 | 3,970.04 | 4,012.32 | 3,991.05 | 3,990.97 | -2.4% |
+| Stock Exchange Data | Nasdaq | 11,466.98 | 11,394.94 | 11,590.40 | 11,507.07 | 11,492.30 | -2.7% |
+| Stock Exchange Data | Dow Jones | 32,889.09 | 32,816.92 | 33,153.91 | 33,045.09 | 33,129.59 | -2.8% |
+| Stock Exchange Data | FTSE 100 | 7,878.66 | 7,907.72 | 7,930.63 | 7,977.75 | 8,014.31 | -1.6% |
+| Stock Exchange Data | FTSE All-Share UK | 4,299.29 | 4,315.82 | 4,322.65 | 4,349.62 | 4,375.01 | -1.6% |
+| Stock Exchange Data | CAC40 | 7,187.27 | 7,317.43 | 7,299.26 | 7,308.65 | 7,335.61 | -2.2% |
+| Stock Exchange Data | Xetra Dax | 15,209.74 | 15,475.69 | 15,399.89 | 15,397.62 | 15,477.55 | -1.7% |
+| Stock Exchange Data | Nikkei | 27,423.96 | 27,453.48 | 27,104.32 | 27,473.10 | 27,531.94 | -0.4% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 20,351.35 | 20,423.84 | 20,529.49 | 20,886.96 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 238.87 | 238.87 | 234.44 | 234.86 | 239.85 | -0.4% |
+| Currencies | € / $ | 1.06 | 1.06 | 1.06 | 1.07 | 1.07 | -1.3% |
+| Currencies | £ / $ | 1.19 | 1.20 | 1.20 | 1.21 | 1.20 | -0.8% |
+| Currencies | $ / ¥ | 136.48 | 134.64 | 134.93 | 134.98 | 134.29 | 1.8% |
+| Currencies | $ / NoK | 0.0961 | 0.0970 | 0.0966 | 0.0971 | 0.0977 | -1.1% |
+| Currencies | Yuan / $ | 6.96 | 6.91 | 6.89 | 6.87 | 6.86 | 1.3% |
+| Currencies | Won / $ | 1,314.80 | 1,298.43 | 1,303.16 | 1,306.18 | 1,296.46 | 1.5% |
+| Currencies | $ INDEX | 105.21 | 104.60 | 104.58 | 104.18 | 103.86 | 1.3% |
+
+## Bunker Prices
+
+| Grade | Port | 24-Feb-23 | 17-Feb-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 24-Feb-23 | 17-Feb-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.48 | 14.35 | 0.9% |
+| COSTAMARE INC | NYSE | USD | 10.35 | 10.13 | 2.2% |
+| DANAOS CORPORATION | NYSE | USD | 59.51 | 59.65 | -0.2% |
+| DIANA SHIPPING | NYSE | USD | 4.67 | 4.21 | 10.9% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 65.51 | 57.30 | 14.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 18.79 | 17.69 | 6.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.15 | 1.14 | 0.9% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.70 | 2.25 | 20.0% |
+| SAFE BULKERS INC | NYSE | USD | 3.64 | 3.25 | 12.0% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 6.27 | 5.27 | 19.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 24.58 | 21.62 | 13.7% |
+| STEALTHGAS INC | NASDAQ | USD | 3.00 | 2.66 | 12.8% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 22.14 | 20.86 | 6.1% |
+
+## Market News
+
+“Samudera Shipping to pay out bumper dividend as profit soars
+
+Indonesian shipowner Samudera Shipping is to reward investors with a bumper dividend after its 2022 full-year profit surged almost 150%.
+
+The Singapore-listed shipowner said net profit for the 12 months was $323.1m against the $130.1m seen in the corresponding period a year earlier.
+
+Improvements in container volumes handled and freight rates helped Samudera Shipping increase revenue by 88% year-on-year to $990.6m.
+
+Container shipping revenues were up 88.8% to $963.4m on significantly higher average freight rates, while container volumes increased 28.5% to 1.9m-teu.
+
+“While freight rates softened in the second half of 2022, average freight rates for the year were significantly higher than that for 2021, as demand for shipping services outpaced supply, especially for the shipment of carrier-owned container cargo,” Samudera...(TradeWinds)

@@ -285,3 +285,73 @@ This week the ship recycling market remains under considerable strain in key reg
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | NAHIDE-M | 27,917 | 7,125 | 1995 | NAIKAI ZOSEN, Japan | BC | $ 510/Ldt | Bangladeshi |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 16-Aug-24 | 15-Aug-24 | 14-Aug-24 | 13-Aug-24 | 12-Aug-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.892 | 3.926 | 3.822 | 3.854 | 3.909 | -1.3% |
+| Stock Exchange Data | S&P 500 | 5,554.25 | 5,543.22 | 5,455.21 | 5,434.43 | 5,344.39 | 3.9% |
+| Stock Exchange Data | Nasdaq | 19,508.52 | 19,490.15 | 19,022.68 | 19,006.43 | 18,542.03 | 5.4% |
+| Stock Exchange Data | Dow Jones | 40,659.76 | 40,563.06 | 40,008.39 | 39,765.64 | 39,357.01 | 2.9% |
+| Stock Exchange Data | FTSE 100 | 8,311.41 | 8,347.35 | 8,281.05 | 8,235.23 | 8,210.25 | 1.8% |
+| Stock Exchange Data | FTSE All-Share UK | 4,544.97 | 4,562.82 | 4,527.66 | 4,500.11 | 4,486.47 | 1.8% |
+| Stock Exchange Data | CAC40 | 7,449.70 | 7,423.37 | 7,333.36 | 7,275.87 | 7,250.67 | 2.5% |
+| Stock Exchange Data | Xetra Dax | 18,322.40 | 18,183.24 | 17,885.60 | 17,812.05 | 17,726.47 | 3.4% |
+| Stock Exchange Data | Nikkei | 38,062.67 | 36,726.64 | 36,442.43 | 36,232.51 | mrkt closed | 8.7% |
+| Stock Exchange Data | Hang Seng | 17,430.16 | 17,109.14 | 17,113.36 | 17,174.06 | 17,111.65 | 2.0% |
+| Stock Exchange Data | DJ US Maritime | 392.20 | 388.32 | 381.56 | 383.56 | 382.45 | 2.4% |
+| Currencies | € / $ | 1.10 | 1.10 | 1.10 | 1.10 | 1.09 | 1.0% |
+| Currencies | £ / $ | 1.29 | 1.29 | 1.28 | 1.29 | 1.28 | 1.4% |
+| Currencies | $ / ¥ | 147.58 | 149.27 | 147.31 | 146.82 | 147.19 | 0.7% |
+| Currencies | $ / NoK | 10.66 | 10.74 | 10.71 | 10.73 | 10.80 | -1.2% |
+| Currencies | Yuan / $ | 7.16 | 7.17 | 7.14 | 7.16 | 7.17 | 0.0% |
+| Currencies | Won / $ | 1,349.11 | 1,364.22 | 1,356.00 | 1,361.41 | 1,368.88 | -1.1% |
+| Currencies | $ INDEX | 102.46 | 102.98 | 102.57 | 102.56 | 103.14 | -0.7% |
+
+## Bunker Prices
+
+| Grade | Port | 16-Aug-24 | 9-Aug-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 690.0 | 683.0 | 1.0% |
+| MGO | Houston | 553.0 | 550.0 | 0.5% |
+| MGO | Singapore | 699.0 | 691.0 | 1.2% |
+| 380cst | Rotterdam | 467.0 | 454.0 | 2.9% |
+| 380cst | Houston | 461.0 | 472.0 | -2.3% |
+| 380cst | Singapore | 481.0 | 481.0 | 0.0% |
+| VLSFO | Rotterdam | 550.0 | 544.0 | 1.1% |
+| VLSFO | Houston | 553.0 | 550.0 | 0.5% |
+| VLSFO | Singapore | 601.0 | 599.0 | 0.3% |
+
+## Oil Prices
+
+| Category | Indicator | 16-Aug-24 | 9-Aug-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 79.7 | 79.7 | 0.0% |
+| OIL | WTI | 76.7 | 76.8 | -0.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 16-Aug-24 | 09-Aug-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 16.30 | 16.37 | -0.4% |
+| COSTAMARE INC | NYSE | USD | 13.85 | 13.93 | -0.6% |
+| DANAOS CORPORATION | NYSE | USD | 82.58 | 80.51 | 2.6% |
+| DIANA SHIPPING | NYSE | USD | 2.47 | 2.48 | -0.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 44.21 | 41.70 | 6.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.57 | 1.55 | 1.3% |
+| SAFE BULKERS INC | NYSE | USD | 4.97 | 4.78 | 4.0% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 11.44 | 10.26 | 11.5% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 21.15 | 20.97 | 0.9% |
+| STEALTHGAS INC | NASDAQ | USD | 6.13 | 5.83 | 5.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 24.63 | 23.76 | 3.7% |
+
+## Macro-economic headlines
+
+In the UK, GDP for Q2 was up by 0.6% on a quarterly basis and 0.9% on an annual basis. CPI was up 2.2% in July compared to the same period last year, while the unemployment rate was at 4.2% in June. In the US, the CPI for July fell to 2.9% on an annual basis, while Retail Sales jumped by 1% in July. Additionally, housing starts in July were at 1.238m, slightly lower than the previous month.
+
+In Japan, Q2 GDP was 3.1% up on annual basis and 0.8% higher than Q1. In China, Industrial Production in July was 5.1% higher than a year ago, while the unemployment rate was slightly higher in July at 5.2% (vs 5% in June)

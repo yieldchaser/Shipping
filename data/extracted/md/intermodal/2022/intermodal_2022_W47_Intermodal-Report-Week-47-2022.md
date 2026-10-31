@@ -301,3 +301,82 @@ Sentiment in the demolition market remained subdued for another week while no fu
 | BERGE APO | 171,012 | 20,668 | 2000 | NAMURA, Japan | BC | $ 523/Ldt | Indian | HKC recycling |
 
 © Intermodal Research 29/11/2022 6
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 25-Nov-22 | 24-Nov-22 | 23-Nov-22 | 22-Nov-22 | 21-Nov-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.691 | 3.706 | 3.706 | 3.758 | 3.825 | -3.3% |
+| Stock Exchange Data | S&P 500 | 4,026.12 | 4,026.12 | 4,027.26 | 4,003.58 | 3,965.34 | 1.5% |
+| Stock Exchange Data | Nasdaq | 11,226.36 | 11,226.36 | 11,285.32 | 11,174.41 | 11,024.51 | 0.7% |
+| Stock Exchange Data | Dow Jones | 34,347.03 | 34,347.03 | 34,194.06 | 34,098.10 | 33,700.28 | 1.8% |
+| Stock Exchange Data | FTSE 100 | 7,486.67 | 7,466.60 | 7,465.24 | 7,452.84 | 7,376.85 | 1.4% |
+| Stock Exchange Data | FTSE All-Share UK | 4,112.31 | 4,102.66 | 4,100.46 | 4,092.33 | 4,057.01 | 1.4% |
+| Stock Exchange Data | CAC40 | 6,712.48 | 6,707.32 | 6,679.09 | 6,657.53 | 6,634.45 | 1.0% |
+| Stock Exchange Data | Xetra Dax | 14,541.38 | 14,539.56 | 14,427.59 | 14,422.35 | 14,379.93 | 1.1% |
+| Stock Exchange Data | Nikkei | 28,283.03 | 28,283.03 | 28,383.09 | 28,115.74 | 27,944.79 | 1.2% |
+| Stock Exchange Data | Hang Seng | 17,660.90 | 17,660.90 | 17,523.81 | 17,424.41 | 17,655.91 | -2.1% |
+| Stock Exchange Data | DJ US Maritime | 230.39 | 226.36 | 226.36 | 226.36 | 220.29 | 1.9% |
+| Currencies | € / $ | 1.04 | 1.04 | 1.04 | 1.03 | 1.02 | 0.7% |
+| Currencies | £ / $ | 1.21 | 1.21 | 1.21 | 1.19 | 1.18 | 1.6% |
+| Currencies | $ / ¥ | 139.13 | 138.60 | 139.33 | 141.16 | 142.14 | -0.9% |
+| Currencies | $ / NoK | 0.1012 | 0.1009 | 0.1006 | 0.0990 | 0.0974 | 3.2% |
+| Currencies | Yuan / $ | 7.18 | 7.15 | 7.17 | 7.14 | 7.17 | 0.8% |
+| Currencies | Won / $ | 1,335.56 | 1,326.64 | 1,337.15 | 1,353.06 | 1,359.76 | -0.3% |
+| Currencies | $ INDEX | 106.06 | 105.87 | 106.10 | 107.15 | 107.78 | -0.9% |
+
+## Bunker Prices
+
+| Grade | Port | 25-Nov-22 | 18-Nov-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 25-Nov-22 | 18-Nov-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.85 | 14.80 | 0.3% |
+| COSTAMARE INC | NYSE | USD | 9.98 | 9.69 | 3.0% |
+| DANAOS CORPORATION | NYSE | USD | 57.26 | 55.54 | 3.1% |
+| DIANA SHIPPING | NYSE | USD | 3.97 | 4.30 | -7.7% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 53.14 | 49.43 | 7.5% |
+| EUROSEAS LTD. | NASDAQ | USD | 20.15 | 20.56 | -2.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.34 | 1.35 | -0.7% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.03 | 2.20 | -7.7% |
+| SAFE BULKERS INC | NYSE | USD | 2.94 | 2.94 | 0.0% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.52 | 0.49 | 6.1% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 21.50 | 19.53 | 10.1% |
+| STEALTHGAS INC | NASDAQ | USD | 3.17 | 3.11 | 1.9% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 18.09 | 19.43 | -6.9% |
+
+## Market News
+
+“Viking Line becomes biggest shareholder in compatriot owner Eckero for €10m
+
+Finland’s Viking Line has spent €10.3m ($10.54m) to become the major shareholder in loss-making compatriot shipowner Rederiaktiebolaget Eckero.
+
+The cruise ferry and ro-pax group said it acquired 17.1% of the shares at €30 each.
+
+The company explained that it had received information that a large stake in Eckero was up for sale.
+
+In order to ensure that ownership stayed on the island of Aland, Viking Line chose to acquire the stock, it added.
+
+Viking Line chief executive Jan Hanses told TradeWinds Viking Line will become the biggest single shareholder.
+
+The company had no shares in Eckero previously, he added.
+
+"Eckero is a well-run and well-regarded shipping company whose main ownership is welcome to remain on the Aland Islands," the CEO said.
+
+Eckero has been....(TradeWinds)

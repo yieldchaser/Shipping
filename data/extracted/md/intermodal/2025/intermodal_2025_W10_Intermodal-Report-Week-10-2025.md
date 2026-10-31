@@ -249,3 +249,75 @@ In Turkey, the ship recycling market remained flat, without any notable shifts, 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | SEA WISE | 23,825 | 5,533 | 1995 | NAIKAI ZOSEN, Japan | BC | $ 420/Ldt | Bangladeshi |
 | KRITI II | 5,339 | 12,923 | 1979 | KOYO MIHARA, Japan | RO-RO/PASSENGER | $ 278/Ldt | Turkish |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 7-Mar-25 | 6-Mar-25 | 5-Mar-25 | 4-Mar-25 | 3-Mar-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.318 | 4.282 | 4.267 | 4.210 | 4.180 | 2.1% |
+| Stock Exchange Data | S&P 500 | 5,770.20 | 5,738.52 | 5,842.63 | 5,778.15 | 5,849.72 | -3.1% |
+| Stock Exchange Data | Nasdaq | 20,201.37 | 20,052.64 | 20,628.46 | 20,352.53 | 20,425.58 | -3.3% |
+| Stock Exchange Data | Dow Jones | 42,801.72 | 42,579.08 | 43,006.59 | 42,520.99 | 43,191.24 | -2.4% |
+| Stock Exchange Data | FTSE 100 | 8,679.88 | 8,682.84 | 8,755.84 | 8,759.00 | 8,871.31 | -1.5% |
+| Stock Exchange Data | FTSE All-Share UK | 4,687.76 | 4,689.88 | 4,723.11 | 4,719.21 | 4,784.79 | -1.4% |
+| Stock Exchange Data | CAC40 | 8,120.80 | 8,197.67 | 8,173.75 | 8,047.92 | 8,199.71 | 0.1% |
+| Stock Exchange Data | Xetra Dax | 23,008.94 | 23,419.48 | 23,081.03 | 22,326.81 | 23,147.02 | 2.0% |
+| Stock Exchange Data | Nikkei | 36,887.17 | 37,704.93 | 37,418.24 | 37,331.18 | 37,785.47 | -0.7% |
+| Stock Exchange Data | Hang Seng | 24,231.30 | 24,369.71 | 23,594.21 | 22,941.77 | 23,006.27 | 5.6% |
+| Stock Exchange Data | DJ US Maritime | 318.83 | 321.66 | 327.43 | 324.58 | 329.07 | -6.8% |
+| Currencies | € / $ | 1.08 | 1.08 | 1.08 | 1.06 | 1.05 | 4.4% |
+| Currencies | £ / $ | 1.29 | 1.29 | 1.29 | 1.28 | 1.27 | 2.7% |
+| Currencies | $ / ¥ | 148.03 | 147.95 | 148.88 | 149.80 | 149.50 | -1.7% |
+| Currencies | $ / NoK | 10.86 | 10.88 | 10.90 | 11.07 | 11.18 | -3.3% |
+| Currencies | Yuan / $ | 7.23 | 7.25 | 7.25 | 7.27 | 7.28 | -0.7% |
+| Currencies | Won / $ | 1,449.00 | 1,447.34 | 1,445.00 | 1,453.15 | 1,457.94 | -0.8% |
+| Currencies | $ INDEX | 103.84 | 104.06 | 104.30 | 105.74 | 106.75 | -3.5% |
+
+## Bunker Prices
+
+| Grade | Port | 7-Mar-25 | 28-Feb-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 620.0 | 644.0 | -3.7% |
+| MGO | Houston | 670.0 | 697.0 | -3.9% |
+| MGO | Singapore | 632.0 | 651.0 | -2.9% |
+| 380cst | Rotterdam | 435.0 | 449.0 | -3.1% |
+| 380cst | Houston | 430.0 | 459.0 | -6.3% |
+| 380cst | Singapore | 470.0 | 485.0 | -3.1% |
+| VLSFO | Rotterdam | 494.0 | 506.0 | -2.4% |
+| VLSFO | Houston | 511.0 | 536.0 | -4.7% |
+| VLSFO | Singapore | 499.0 | 529.0 | -5.7% |
+
+## Oil Prices
+
+| Category | Indicator | 7-Mar-25 | 28-Feb-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 70.4 | 73.2 | -3.9% |
+| OIL | WTI | 67.0 | 69.8 | -3.9% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 07-Mar-25 | 28-Feb-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 19.53 | 18.49 | 5.6% |
+| COSTAMARE INC | NYSE | USD | 10.36 | 10.18 | 1.8% |
+| DANAOS CORPORATION | NYSE | USD | 80.70 | 78.62 | 2.6% |
+| DIANA SHIPPING | NYSE | USD | 1.81 | 1.86 | -2.7% |
+| EUROSEAS LTD. | NASDAQ | USD | 33.45 | 35.40 | -5.5% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.29 | 1.30 | -0.8% |
+| SAFE BULKERS INC | NYSE | USD | 3.80 | 3.74 | 1.6% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 7.09 | 6.90 | 2.8% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 16.07 | 15.63 | 2.8% |
+| STEALTHGAS INC | NASDAQ | USD | 5.57 | 5.67 | -1.8% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 16.57 | 15.90 | 4.2% |
+
+## Macro-economic headlines
+
+In China the CPI in February declined by 0.2%, slightly below market estimates of a 0.1% decline and following a 0.7% increase recorded in January. Additionally, the Trade Surplus for January-February reached $170.52 bn, exceeding market forecasts of $147.5bn surplus, mainly driven by a drop in imports, due to US tariffs and declined domestic demand. Notably, this marks the fourth consecutive month of an expanding Trade Surplus for China.
+
+In Eurozone, the PPI rose by 0.8% in January, surpassing market projections of 0.3% and December’s figure of 0.4%. Meanwhile, in March ECB lowered the deposit facility rate by 25 basis points to 2.50%, aligning with market forecasts.
+
+In USA the Trade Deficit widened to $131.40bn in January, exceeding market estimates of $128.30bn deficit and December’s figure of $98.40 bn. This is the fourth consecutive month of a growing deficit.

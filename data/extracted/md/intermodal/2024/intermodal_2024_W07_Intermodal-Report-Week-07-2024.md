@@ -231,3 +231,71 @@ The demolition market continues to be challenging, with cautious sentiment preva
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | BONTRUP EMIRATES | 42,497 | 13,200 | 1986 | SAMSUNG, S. Korea | GENERAL CARGO | 520 | Bangladeshi |
 | SINAR TARAKAN | 3,821 | 2,163 | 1995 | MIYOSHI, Japan | GAS TANKER | 540 | Bangladeshi |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 16-Feb-24 | 15-Feb-24 | 14-Feb-24 | 13-Feb-24 | 12-Feb-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.295 | 4.240 | 4.267 | 4.316 | 4.170 | 2.6% |
+| Stock Exchange Data | S&P 500 | 5,005.57 | 5,029.73 | 5,000.62 | 4,953.17 | 5,021.84 | -0.4% |
+| Stock Exchange Data | Nasdaq | 17,685.98 | 17,845.72 | 17,807.63 | 17,600.42 | 17,882.66 | -1.5% |
+| Stock Exchange Data | Dow Jones | 38,751.71 | 38,397.94 | 38,372.67 | 38,699.17 | 38,656.76 | 0.1% |
+| Stock Exchange Data | FTSE 100 | 7,711.71 | 7,597.53 | 7,568.40 | 7,512.28 | 7,573.69 | 1.8% |
+| Stock Exchange Data | FTSE All-Share UK | 1,865.03 | 1,851.13 | 1,840.97 | 1,825.26 | 1,840.94 | 1.4% |
+| Stock Exchange Data | CAC40 | 7,768.18 | 7,743.42 | 7,677.35 | 7,625.31 | 7,689.80 | 1.6% |
+| Stock Exchange Data | Xetra Dax | 17,117.44 | 17,046.69 | 16,945.48 | 16,880.83 | 17,037.35 | 1.1% |
+| Stock Exchange Data | Nikkei | 38,487.24 | 38,157.94 | 36,119.92 | 37,963.97 | 37,963.97 | 4.3% |
+| Stock Exchange Data | Hang Seng | 16,339.96 | 15,944.63 | 37,703.32 | 15,746.58 | 37,963.97 | 3.8% |
+| Stock Exchange Data | DJ US Maritime | 282.72 | 282.72 | 278.16 | 274.75 | 278.36 | 1.3% |
+| Currencies | € / $ | 1.08 | 1.08 | 1.07 | 1.07 | 1.08 | -0.1% |
+| Currencies | £ / $ | 1.26 | 1.26 | 1.26 | 1.26 | 1.26 | -0.2% |
+| Currencies | $ / ¥ | 150.21 | 149.91 | 150.55 | 150.79 | 149.34 | 0.6% |
+| Currencies | $ / NoK | 10.50 | 10.52 | 10.58 | 10.67 | 10.50 | -0.4% |
+| Currencies | Yuan / $ | 7.19 | 7.19 | 7.19 | 7.19 | 7.19 | 0.0% |
+| Currencies | Won / $ | 1,331.29 | 1,328.55 | 1,329.91 | 1,340.73 | 1,328.66 | 0.1% |
+| Currencies | $ INDEX | 104.30 | 104.30 | 104.72 | 104.96 | 104.17 | 0.2% |
+
+## Bunker Prices
+
+| Grade | Port | 16-Feb-24 | 9-Feb-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 803.0 | 836.0 | -3.9% |
+| MGO | Houston | 452.0 | 456.0 | -0.9% |
+| MGO | Singapore | 805.0 | 820.0 | -1.8% |
+| 380cst | Rotterdam | 458.0 | 457.0 | 0.2% |
+| 380cst | Houston | 452.0 | 456.0 | -0.9% |
+| 380cst | Singapore | 443.0 | 455.0 | -2.6% |
+| VLSFO | Rotterdam | 576.0 | 577.0 | -0.2% |
+| VLSFO | Houston | 627.0 | 631.0 | -0.6% |
+| VLSFO | Singapore | 645.0 | 643.0 | 0.3% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 16-Feb-24 | 09-Feb-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.35 | 18.32 | 0.2% |
+| COSTAMARE INC | NYSE | USD | 11.15 | 11.08 | 0.6% |
+| DANAOS CORPORATION | NYSE | USD | 71.67 | 74.34 | -3.6% |
+| DIANA SHIPPING | NYSE | USD | 2.87 | 2.92 | -1.7% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 56.33 | 57.80 | -2.5% |
+| EUROSEAS LTD. | NASDAQ | USD | 35.73 | 39.40 | -9.3% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.21 | 2.16 | 2.3% |
+| SAFE BULKERS INC | NYSE | USD | 4.28 | 4.17 | 2.6% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 7.51 | 7.20 | 4.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 22.04 | 22.63 | -2.6% |
+| STEALTHGAS INC | NASDAQ | USD | 7.06 | 7.04 | 0.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 24.94 | 23.76 | 5.0% |
+
+## Macro-economic headlines
+
+• India: CPI was 5.10% in January, down from 5.69% in the previous month.
+
+• EU: Q4 GDP rose slightly by 0.1% on an annual basis. Industrial production for December rose by 2.6% on a monthly basis. The trade balance for December was 16.8 bn.
+
+• US: The CPI for January was 3.1%, down from 3.4% in the previous month.
+
+• UK: CPI was 4.0% in January, while GDP fell by 0.1% in December.

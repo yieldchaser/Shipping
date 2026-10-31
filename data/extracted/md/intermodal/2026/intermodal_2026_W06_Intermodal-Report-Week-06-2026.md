@@ -251,3 +251,77 @@ The Turkish market experienced a flat week following a period of higher activity
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ISA GOLDEN | 28,255 | 6,262 | 1995 | NKK, Japan | BC | $ 425/Ldt | Bangladeshi |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 6-Feb-26 | 5-Feb-26 | 4-Feb-26 | 3-Feb-26 | 2-Feb-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.206 | 4.210 | 4.278 | 4.273 | 4.277 | -0.8% |
+| Stock Exchange Data | S&P 500 | 6,932.30 | 6,798.40 | 6,882.72 | 6,917.81 | 6,976.44 | -0.1% |
+| Stock Exchange Data | Nasdaq | 25,075.77 | 24,548.69 | 24,891.24 | 25,338.62 | 25,738.61 | -1.9% |
+| Stock Exchange Data | Dow Jones | 50,115.67 | 48,908.72 | 49,501.30 | 49,240.99 | 49,407.66 | 2.5% |
+| Stock Exchange Data | FTSE 100 | 10,369.75 | 10,309.22 | 10,402.34 | 10,314.59 | 10,341.56 | 1.4% |
+| Stock Exchange Data | FTSE All-Share UK | 5,579.71 | 5,548.22 | 5,598.46 | 5,555.63 | 5,571.95 | 1.2% |
+| Stock Exchange Data | CAC40 | 8,273.84 | 8,238.17 | 8,262.16 | 8,179.50 | 8,181.17 | 1.8% |
+| Stock Exchange Data | Xetra Dax | 24,721.46 | 24,491.06 | 24,603.04 | 24,780.79 | 24,797.52 | 0.7% |
+| Stock Exchange Data | Nikkei | 54,253.68 | 53,818.04 | 54,293.36 | 54,720.66 | 52,655.18 | 1.7% |
+| Stock Exchange Data | Hang Seng | 26,559.95 | 26,885.24 | 26,847.32 | 26,834.77 | 26,775.57 | -3.0% |
+| Stock Exchange Data | DJ US Maritime | 401.72 | 389.80 | 398.86 | 396.14 | 392.00 | 4.0% |
+| Currencies | € / $ | 1.18 | 1.18 | 1.18 | 1.18 | 1.18 | -0.3% |
+| Currencies | £ / $ | 1.36 | 1.35 | 1.37 | 1.37 | 1.37 | -0.6% |
+| Currencies | $ / ¥ | 157.20 | 157.03 | 156.85 | 155.73 | 155.60 | 1.6% |
+| Currencies | $ / NoK | 9.65 | 9.81 | 9.65 | 9.61 | 9.69 | 0.4% |
+| Currencies | Yuan / $ | 6.94 | 6.94 | 6.94 | 6.94 | 6.95 | -0.2% |
+| Currencies | Won / $ | 1,463.35 | 1,471.62 | 1,462.03 | 1,450.33 | 1,454.38 | 0.9% |
+| Currencies | $ INDEX | 97.63 | 97.82 | 97.62 | 97.44 | 97.63 | 0.7% |
+
+## Bunker Prices
+
+| Grade | Port | 6-Feb-26 | 30-Jan-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 675.3 | 696.0 | -3.0% |
+| MGO | Houston | 644.0 | 693.0 | -7.1% |
+| MGO | Singapore | 660.0 | 670.0 | -1.5% |
+| 380cst | Rotterdam | 400.0 | 398.0 | 0.5% |
+| 380cst | Houston | 369.8 | 363.0 | 1.9% |
+| 380cst | Singapore | 430.3 | 426.0 | 1.0% |
+| VLSFO | Rotterdam | 445.0 | 444.0 | 0.2% |
+| VLSFO | Houston | 454.5 | 459.0 | -1.0% |
+| VLSFO | Singapore | 476.3 | 478.0 | -0.4% |
+
+## Oil Prices
+
+| Category | Indicator | 6-Feb-26 | 30-Jan-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 68.1 | 70.7 | -3.7% |
+| OIL | WTI | 63.6 | 65.2 | -2.5% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 06-Feb-26 | 30-Jan-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 20.46 | 21.89 | -6.5% |
+| COSTAMARE INC | NYSE | USD | 15.92 | 16.78 | -5.1% |
+| DANAOS CORPORATION | NYSE | USD | 102.08 | 103.45 | -1.3% |
+| DIANA SHIPPING | NYSE | USD | 2.29 | 2.32 | -1.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 53.50 | 57.18 | -6.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.56 | 1.61 | -3.1% |
+| SAFE BULKERS INC | NYSE | USD | 5.58 | 5.71 | -2.3% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 10.67 | 10.80 | -1.2% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 22.72 | 22.95 | -1.0% |
+| STEALTHGAS INC | NASDAQ | USD | 7.96 | 7.73 | 3.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 26.99 | 27.17 | -0.7% |
+
+## Macro-economic headlines
+
+In Germany, the trade surplus widened to €17.1bn in December from €13.1bn in November, surpassing expectations of €14.1bn. The improvement was driven by exports rising 4% m-o-m, outpacing imports up 1.4% m-o-m.
+
+In the United States, the S&P Global Composite PMI registered 53 in January, above market forecasts of 52.8 and slightly higher than December’s reading of 52.7.
+
+In the United Kingdom, the Bank of England kept its benchmark interest rate unchanged at 3.75% in February, in line with market forecasts, as inflationary pressures remained a concern.
+
+In Japan, the Manufacturing and Services PMI read 53.1 in January, exceeding market estimations of 52.8 and December’s 51.1.

@@ -362,3 +362,81 @@ Offered scrap levels across the Indian-subcontinent markets increased for anothe
 | KIGORIAK | 2,066 | 4,855 | 1979 | SAINT JOHN SHIPBUILDING, Canada | ICE BREAKER-AHTS | $ 752/Ldt | Indian | incl. 26 ton prop, 4 spare blades, 4 generators, 16,800 BHP |
 
 © Intermodal Research 25/01/2022 8
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 21-Jan-22 | 20-Jan-22 | 19-Jan-22 | 18-Jan-22 | 17-Jan-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.747 | 1.833 | 1.827 | 1.865 | 1.772 | -1.4% |
+| Stock Exchange Data | S&P 500 | 4,397.94 | 4,397.94 | 4,482.73 | 4,532.76 | 4,662.85 | -5.7% |
+| Stock Exchange Data | Nasdaq | 13,768.92 | 13,768.92 | 14,154.02 | 14,340.26 | 14,506.90 | -7.6% |
+| Stock Exchange Data | Dow Jones | 34,265.37 | 34,265.37 | 34,715.39 | 35,028.65 | 35,368.47 | -4.6% |
+| Stock Exchange Data | FTSE 100 | 7,494.13 | 7,585.01 | 7,589.66 | 7,563.55 | 7,611.23 | -0.6% |
+| Stock Exchange Data | FTSE All-Share UK | 4,217.31 | 4,274.52 | 4,273.79 | 4,263.04 | 4,292.58 | -0.9% |
+| Stock Exchange Data | CAC40 | 7,068.59 | 7,194.16 | 7,172.98 | 7,133.83 | 7,201.64 | -1.0% |
+| Stock Exchange Data | Xetra Dax | 15,603.88 | 15,912.33 | 15,809.72 | 15,772.56 | 15,933.72 | -2.1% |
+| Stock Exchange Data | Nikkei | 27,522.26 | 27,772.93 | 27,467.23 | 28,257.25 | 28,333.52 | -2.9% |
+| Stock Exchange Data | Hang Seng | 24,952.35 | 24,952.35 | 24,127.85 | 24,112.78 | 24,218.03 | 2.1% |
+| Stock Exchange Data | DJ US Maritime | 204.86 | 213.23 | 216.35 | 218.71 | 219.70 | -6.8% |
+| Currencies | € / $ | 1.13 | 1.13 | 1.13 | 1.13 | 1.14 | -0.6% |
+| Currencies | £ / $ | 1.36 | 1.36 | 1.36 | 1.36 | 1.36 | -0.9% |
+| Currencies | $ / ¥ | 113.67 | 113.97 | 114.35 | 114.58 | 114.57 | -0.5% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.11 | 0.11 | 0.11 | -1.2% |
+| Currencies | Yuan / $ | 6.34 | 6.34 | 6.35 | 6.35 | 6.35 | -0.2% |
+| Currencies | Won / $ | 1,192.60 | 1,192.51 | 1,188.25 | 1,193.06 | 1,191.06 | 0.2% |
+| Currencies | $ INDEX | 95.64 | 95.74 | 95.51 | 95.73 | 96.26 | 0.5% |
+
+## Bunker Prices
+
+| Grade | Port | 21-Jan-22 | 14-Jan-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 758.5 | 749.0 | 1.3% |
+| MGO | Houston | 840.0 | 796.0 | 5.5% |
+| MGO | Singapore | 750.5 | 738.0 | 1.7% |
+| 380cst | Rotterdam | 491.5 | 471.0 | 4.4% |
+| 380cst | Houston | 514.5 | 533.5 | -3.6% |
+| 380cst | Singapore | 504.0 | 480.5 | 4.9% |
+| VLSFO | Rotterdam | 652.0 | 618.0 | 5.5% |
+| VLSFO | Houston | 664.5 | 626.0 | 6.2% |
+| VLSFO | Singapore | 687.5 | 677.5 | 1.5% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 21-Jan-22 | 14-Jan-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.18 | 15.90 | -4.5% |
+| COSTAMARE INC | NYSE | USD | 12.11 | 13.38 | -9.5% |
+| DANAOS CORPORATION | NYSE | USD | 78.12 | 74.05 | 5.5% |
+| DIANA SHIPPING | NYSE | USD | 3.57 | 4.11 | -13.1% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 40.43 | 44.48 | -9.1% |
+| EUROSEAS LTD. | NASDAQ | USD | 25.78 | 27.76 | -7.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.73 | 2.05 | -15.6% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 3.31 | 3.47 | -4.6% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 24.71 | 25.24 | -2.1% |
+| SAFE BULKERS INC | NYSE | USD | 3.34 | 3.65 | -8.5% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.88 | 0.92 | -4.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 20.10 | 22.28 | -9.8% |
+| STEALTHGAS INC | NASDAQ | USD | 2.09 | 2.25 | -7.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 7.23 | 8.15 | -11.3% |
+
+## Market News
+
+“Golar spin-off CoolCo seals $570m loan as it eyes second listing
+
+Golar LNG has revealed more details of the formation of its LNG carrier spin-off Cool Company (CoolCo).
+
+A deal for CoolCo to buy Tor Olav Troim-backed Golar's eight tri-fuel diesel electric-powered ships was agreed in December with Idan Ofer's Eastern Pacific Shipping.
+
+CoolCo will have an initial market capitalisation of $375m, Golar said.
+
+Eastern Pacific will take a minimum of $150m of this, or 40%, by taking part in a $250m private share placement, making it the largest shareholder.
+
+Golar is retaining a stake of at least $125m, or 33%.
+
+The formation of the company will be completed in the first quarter, but it will list immediately on the Oslo over-the-counter exchange following the placement.
+
+CoolCo then expects to list on Oslo's Euronext Growth board next month...”(TradeWinds)

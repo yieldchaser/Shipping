@@ -320,3 +320,79 @@ The unfavorable market conditions that continue to prevail in the demolition mar
 | AN PING 8 | 69,057 | 9,793 | 1995 | IMABARI, Japan | BC | $ 619/Ldt | Bangladeshi |
 
 © Intermodal Research 08/11/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 4-Nov-22 | 3-Nov-22 | 2-Nov-22 | 1-Nov-22 | 31-Oct-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.156 | 4.156 | 4.124 | 4.059 | 4.052 | 3.6% |
+| Stock Exchange Data | S&P 500 | 3770.55 | 3719.89 | 3759.69 | 3856.1 | 3,901.06 | -3.3% |
+| Stock Exchange Data | Nasdaq | 10475.25 | 10342.94 | 10524.80 | 10890.85 | 10988.15 | -5.6% |
+| Stock Exchange Data | Dow Jones | 32403.22 | 32001.25 | 32147.76 | 32653.2 | 32732.95 | -1.4% |
+| Stock Exchange Data | FTSE 100 | 7334.84 | 7188.63 | 7144.14 | 7186.16 | 7094.53 | 4.1% |
+| Stock Exchange Data | FTSE All-Share UK | 4001.84 | 3926.87 | 3910.01 | 3928.75 | 3876.48 | 3.8% |
+| Stock Exchange Data | CAC40 | 6416.44 | 6243.28 | 6276.88 | 6328.25 | 6266.77 | 2.3% |
+| Stock Exchange Data | Xetra Dax | 13459.85 | 13130.19 | 13256.74 | 13338.74 | 13253.74 | 1.6% |
+| Stock Exchange Data | Nikkei | 27199.74 | 27199.74 | 27663.39 | 27678.92 | 27587.46 | -1.4% |
+| Stock Exchange Data | Hang Seng | 15339.49 | 15339.49 | 15827.17 | 15455.27 | 14687.02 | -0.6% |
+| Stock Exchange Data | DJ US Maritime | 226.79 | 225.18 | 223.57 | 229.65 | 228.96 | 1.9% |
+| Currencies | € / $ | 0.99074 | 0.9749 | 0.9816 | 0.987885 | 0.98867 | -0.6% |
+| Currencies | £ / $ | 1.138 | 1.11715 | 1.138435 | 1.148975 | 1.14685 | -2.0% |
+| Currencies | $ / ¥ | 146.605 | 148.3795 | 147.883 | 147.9 | 148.724 | -0.6% |
+| Currencies | $ / NoK | 0.097 | 0.095 | 0.095 | 0.097 | 0.096 | 1.8% |
+| Currencies | Yuan / $ | 7.1851 | 7.3018 | 7.2897 | 7.2776 | 7.3029 | -0.9% |
+| Currencies | Won / $ | 1403.91 | 1424.05 | 1423.9 | 1,417.00 | 1425.45 | -1.3% |
+| Currencies | $ INDEX | 110.88 | 112.93 | 111.35 | 111.48 | 111.53 | 0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 4-Nov-22 | 28-Oct-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 04-Nov-22 | 28-Oct-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.15 | 14.29 | 6.0% |
+| COSTAMARE INC | NYSE | USD | 9.83 | 9.27 | 6.0% |
+| DANAOS CORPORATION | NYSE | USD | 60.80 | 57.61 | 5.5% |
+| DIANA SHIPPING | NYSE | USD | 4.30 | 4.30 | 0.0% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 51.84 | 48.83 | 6.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 19.86 | 18.70 | 6.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.20 | 1.30 | -7.7% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.98 | 1.91 | 3.7% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 26.23 | 25.24 | 3.9% |
+| SAFE BULKERS INC | NYSE | USD | 2.71 | 2.65 | 2.3% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.48 | 0.46 | 4.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.44 | 17.67 | 10.0% |
+| STEALTHGAS INC | NASDAQ | USD | 3.25 | 3.08 | 5.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 18.85 | 17.11 | 10.2% |
+
+## Market News
+
+“Norden pays upsized dividend after surge in product tanker rates
+
+Bulker and tanker firm Norden has declared another dividend and initiated more share buybacks after reporting more stellar quarterly results.
+
+The Copenhagen-listed company, which owns and operates product tankers and bulkers, said it will pay an interim dividend of DKK 30 per share to shareholders for the third quarter, the same as for the previous three months.
+
+This trumps the DKK 25 payment that had been rumoured in late October, as TradeWinds reported.
+
+Norden also plans to buy back another $50m of its shares from now until February, swiftly following a $40m buyback scheme that began in August and was completed on Tuesday.
+
+Chief executive Jan Rindbo said the company’s 64% return on equity during the third quarter “is a testimony to our unique trading model”.
+
+“During the quarter, Norden generated high dry-cargo earnings in a weakening market. In addition, our large exposure to tankers...(TradeWinds)

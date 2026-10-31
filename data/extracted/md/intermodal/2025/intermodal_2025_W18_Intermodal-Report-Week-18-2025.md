@@ -237,3 +237,77 @@ In Turkey the market remains under pressure with minimal activity and limited to
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PETER S | 71,550 | 10,176 | 1995 | HITACHI ZOSEN, Japan | BC | $468/Ldt | undisclosed | as-is Khor Fakkan |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 2-May-25 | 1-May-25 | 30-Apr-25 | 29-Apr-25 | 28-Apr-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.320 | 4.231 | 4.175 | 4.174 | 4.216 | 1.3% |
+| Stock Exchange Data | S&P 500 | 5,686.67 | 5,604.14 | 5,569.06 | 5,560.83 | 5,528.75 | 2.9% |
+| Stock Exchange Data | Nasdaq | 20,102.61 | 19,786.71 | 19,571.02 | 19,544.95 | 19,427.29 | 3.4% |
+| Stock Exchange Data | Dow Jones | 41,317.43 | 40,752.96 | 40,669.36 | 40,527.62 | 40,227.59 | 3.0% |
+| Stock Exchange Data | FTSE 100 | 8,596.35 | 8,496.80 | 8,494.85 | 8,463.46 | 8,417.34 | 2.2% |
+| Stock Exchange Data | FTSE All-Share UK | 4,652.38 | 4,602.34 | 4,594.05 | 4,577.12 | 4,553.16 | 2.3% |
+| Stock Exchange Data | CAC40 | 7,770.48 | 7,593.87 | 7,593.87 | 7,555.87 | 7,573.76 | 3.1% |
+| Stock Exchange Data | Xetra Dax | 23,086.65 | 22,496.98 | 22,496.98 | 22,425.83 | 22,271.67 | 3.8% |
+| Stock Exchange Data | Nikkei | 36,830.69 | 36,452.30 | 36,045.38 | 35,839.99 | 35,839.99 | 3.2% |
+| Stock Exchange Data | Hang Seng | 22,504.68 | 22,119.41 | 22,119.41 | 22,008.11 | 21,971.96 | 2.4% |
+| Stock Exchange Data | DJ US Maritime | 342.96 | 326.87 | 316.34 | 315.02 | 314.40 | 8.0% |
+| Currencies | € / $ | 1.13 | 1.13 | 1.13 | 1.14 | 1.14 | -0.6% |
+| Currencies | £ / $ | 1.33 | 1.33 | 1.33 | 1.34 | 1.34 | -0.3% |
+| Currencies | $ / ¥ | 144.93 | 145.43 | 143.07 | 142.34 | 142.01 | 0.9% |
+| Currencies | $ / NoK | 10.39 | 10.41 | 10.39 | 10.35 | 10.31 | -0.3% |
+| Currencies | Yuan / $ | 7.27 | 7.27 | 7.27 | 7.27 | 7.29 | -0.2% |
+| Currencies | Won / $ | 1,397.90 | 1,435.09 | 1,423.69 | 1,431.30 | 1,435.83 | -2.7% |
+| Currencies | $ INDEX | 100.03 | 100.25 | 99.47 | 99.24 | 99.01 | 0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 2-May-25 | 25-Apr-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 581.0 | 616.0 | -5.7% |
+| MGO | Houston | 579.0 | 621.0 | -6.8% |
+| MGO | Singapore | 582.0 | 611.0 | -4.7% |
+| 380cst | Rotterdam | 400.0 | 427.0 | -6.3% |
+| 380cst | Houston | 391.0 | 403.0 | -3.0% |
+| 380cst | Singapore | 412.0 | 437.0 | -5.7% |
+| VLSFO | Rotterdam | 434.0 | 460.0 | -5.7% |
+| VLSFO | Houston | 420.0 | 461.0 | -8.9% |
+| VLSFO | Singapore | 485.0 | 500.0 | -3.0% |
+
+## Oil Prices
+
+| Category | Indicator | 2-May-25 | 25-Apr-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 61.3 | 66.9 | -8.3% |
+| OIL | WTI | 58.3 | 63.0 | -7.5% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 2-May-25 | 25-Apr-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 19.75 | 17.88 | 10.5% |
+| COSTAMARE INC | NYSE | USD | 9.57 | 9.18 | 4.2% |
+| DANAOS CORPORATION | NYSE | USD | 82.47 | 80.46 | 2.5% |
+| DIANA SHIPPING | NYSE | USD | 1.47 | 1.47 | 0.0% |
+| EUROSEAS LTD. | NASDAQ | USD | 32.34 | 31.13 | 3.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.11 | 1.15 | -3.1% |
+| SAFE BULKERS INC | NYSE | USD | 3.45 | 3.39 | 1.8% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 5.74 | 5.73 | 0.2% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 15.03 | 14.49 | 3.7% |
+| STEALTHGAS INC | NASDAQ | USD | 5.45 | 5.45 | 0.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.07 | 16.88 | 1.1% |
+
+## Macro-economic headlines
+
+In Japan, the Bank of Japan held its benchmark interest rate steady, at 0.50% for a third consecutive month, in line with market expectations.
+
+In USA the ISM Manufacturing PMI edged down to 48.7 in April from 49 in March, though it remained above the market projection of 48.
+
+In Germany the Import Price Index declined by 1% in March, exceeding the expected 0.7% drop and reversing the 0.3% increase seen in February.
+
+China’s Manufacturing PMI dropped to 49.0 in April, falling short of the 49.7 forecast and declining from 50.5 in March.

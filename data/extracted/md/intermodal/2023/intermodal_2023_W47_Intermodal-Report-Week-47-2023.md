@@ -255,3 +255,72 @@ tals are pointing to better days as the country has signed a \$1bn deal with the
 | DIAMOND WAY | 42,529 | 9,016 | 1995 | NAMURA, Japan | BC | undisclosed | Indian |  |
 | ZE HONG | 41,553 | 11,614 | 1995 | THYSEEN N | CONTAINER | $ 520/Ldt | Indian | as is Zhoushan with 285 Ts bunkers |
 | NEPTUNE STAR | 25,398 | 5,471 | 1996 | IMABARI, Japan | BC | $ 512/Ldt | Indian |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 24-Nov-23 | 23-Nov-23 | 22-Nov-23 | 21-Nov-23 | 20-Nov-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.472 | 4.453 | 4.408 | 4.398 | 4.426 | 0.7% |
+| Stock Exchange Data | S&P 500 | 4,559.34 | 4,556.62 | 4,556.62 | 4,538.19 | 4,547.38 | 1.0% |
+| Stock Exchange Data | Nasdaq | 14,250.86 | 14,265.86 | 14,265.86 | 14,199.98 | 14,284.53 | 0.9% |
+| Stock Exchange Data | Dow Jones | 35,390.15 | 35,273.03 | 35,273.03 | 35,088.29 | 35,151.04 | 1.3% |
+| Stock Exchange Data | FTSE 100 | 7,488.20 | 7,483.58 | 7,469.51 | 7,481.99 | 7,496.36 | -0.2% |
+| Stock Exchange Data | FTSE All-Share UK | 4,077.47 | 4,076.10 | 4,069.60 | 4,071.11 | 4,085.46 | -0.3% |
+| Stock Exchange Data | CAC40 | 7,292.80 | 7,277.93 | 7,260.73 | 7,229.45 | 7,246.93 | 0.8% |
+| Stock Exchange Data | Xetra Dax | 16,029.49 | 15,994.73 | 15,957.82 | 15,900.53 | 15,901.33 | 0.8% |
+| Stock Exchange Data | Nikkei | 33,625.53 | 33,451.83 | 33,451.83 | 33,354.14 | 33,388.03 | 0.7% |
+| Stock Exchange Data | Hang Seng | 17,559.42 | 17,910.84 | 17,734.60 | 17,733.89 | 17,778.07 | -1.2% |
+| Stock Exchange Data | DJ US Maritime | 253.90 | 253.54 | 253.54 | 253.48 | 253.48 | 1.8% |
+| Currencies | € / $ | 1.09 | 1.09 | 1.09 | 1.09 | 1.09 | 0.3% |
+| Currencies | £ / $ | 1.26 | 1.25 | 1.25 | 1.25 | 1.25 | 1.2% |
+| Currencies | $ / ¥ | 149.47 | 149.64 | 149.46 | 148.16 | 148.36 | 0.0% |
+| Currencies | $ / NoK | 0.0936 | 0.0928 | 0.0930 | 0.0937 | 0.0935 | 1.1% |
+| Currencies | Yuan / $ | 7.09 | 7.10 | 7.15 | 7.10 | 7.17 | -1.7% |
+| Currencies | Won / $ | 1,306.62 | 1,299.58 | 1,297.23 | 1,296.16 | 1,288.58 | 0.8% |
+| Currencies | $ INDEX | 103.36 | 103.54 | 103.48 | 103.18 | 103.38 | -0.5% |
+
+## Bunker Prices
+
+| Grade | Port | 24-Nov-23 | 17-Nov-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 24-Nov-23 | 17-Nov-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.32 | 14.10 | 1.6% |
+| COSTAMARE INC | NYSE | USD | 9.71 | 9.47 | 2.5% |
+| DANAOS CORPORATION | NYSE | USD | 69.35 | 68.28 | 1.6% |
+| DIANA SHIPPING | NYSE | USD | 3.39 | 3.49 | -2.9% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 44.19 | 42.63 | 3.7% |
+| EUROSEAS LTD. | NASDAQ | USD | 28.55 | 28.00 | 2.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.95 | 1.83 | 6.6% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.24 | 2.24 | 0.0% |
+| SAFE BULKERS INC | NYSE | USD | 3.71 | 3.56 | 4.2% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 6.66 | 5.51 | 20.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 20.24 | 19.01 | 6.5% |
+| STEALTHGAS INC | NASDAQ | USD | 6.85 | 5.62 | 21.9% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 20.83 | 21.19 | -1.7% |
+
+## Macro-economic headlines
+
+• US: Existing home sales fell to 3.79m (3.95m in Sept).
+
+• Japan: Inflation rose to 3.3% in October (3% previously). Among the PMIs, the manufacturing PMI fell to 48.1 (47.5 in Oct), while the services PMI rose to 51.7.
+
+• EU: The PMIs rose in November but remained below 50. Specifically, the composite PMI stood at 47.1 (46.9 in Oct.), the services PMI at 48.2 (48.1 in Oct.) and the manufacturing PMI at 43.8 (43.4 in Oct.).
+
+• UK: the composite PMI rose to 50.1, in expansionary territory. The manufacturing PMI rose to 46.7 in November (44.8 in October), while the services PMI was 50.5 in November (49.5 in October).

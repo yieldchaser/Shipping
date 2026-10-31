@@ -222,3 +222,75 @@ The robust freight market limited vessel recycling supply, hurting the demolitio
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | APJ MAHAKALI | 70,296 | 9,126 | 1996 | SANOYAS HISHINO, Japan | BC | $ 525/Ldt | Sri Lankan |
 | KMAX PRO | 48,227 | 7,226 | 1997 | OSHIMA, Japan | BC | undisclosed | Malaysian |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 28-Jun-24 | 27-Jun-24 | 26-Jun-24 | 25-Jun-24 | 24-Jun-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.343 | 4.288 | 4.316 | 4.238 | 4.248 | 2.0% |
+| Stock Exchange Data | S&P 500 | 5,460.48 | 5,482.87 | 5,477.90 | 5,469.30 | 5,447.87 | -0.1% |
+| Stock Exchange Data | Nasdaq | 19,682.87 | 19,789.03 | 19,751.05 | 19,701.13 | 19,474.62 | -0.1% |
+| Stock Exchange Data | Dow Jones | 39,118.86 | 39,164.06 | 39,127.80 | 39,112.16 | 39,411.21 | -0.1% |
+| Stock Exchange Data | FTSE 100 | 8,164.12 | 8,179.68 | 8,225.33 | 8,247.79 | 8,281.55 | -0.9% |
+| Stock Exchange Data | FTSE All-Share UK | 4,451.92 | 4,460.27 | 4,480.66 | 4,493.07 | 4,514.76 | -0.9% |
+| Stock Exchange Data | CAC40 | 7,479.40 | 7,530.72 | 7,609.15 | 7,662.30 | 7,706.89 | -2.0% |
+| Stock Exchange Data | Xetra Dax | 18,235.45 | 18,210.55 | 18,155.24 | 18,177.62 | 18,325.58 | 0.4% |
+| Stock Exchange Data | Nikkei | 39,583.08 | 39,341.54 | 39,667.07 | 39,173.15 | 38,804.65 | 2.6% |
+| Stock Exchange Data | Hang Seng | 17,718.61 | 17,716.47 | 18,089.93 | 18,072.90 | 18,027.71 | -1.7% |
+| Stock Exchange Data | DJ US Maritime | 393.02 | 394.07 | 391.61 | 391.74 | 390.33 | 1.6% |
+| Currencies | € / $ | 1.07 | 1.07 | 1.07 | 1.07 | 1.07 | 0.2% |
+| Currencies | £ / $ | 1.26 | 1.26 | 1.26 | 1.27 | 1.27 | 0.0% |
+| Currencies | $ / ¥ | 160.83 | 160.74 | 160.79 | 159.69 | 159.59 | 0.7% |
+| Currencies | $ / NoK | 10.66 | 10.62 | 10.68 | 10.61 | 10.54 | 1.0% |
+| Currencies | Yuan / $ | 7.27 | 7.27 | 7.27 | 7.26 | 7.26 | 0.1% |
+| Currencies | Won / $ | 1,380.73 | 1,386.35 | 1,392.90 | 1,390.44 | 1,386.37 | -0.5% |
+| Currencies | $ INDEX | 105.87 | 105.91 | 106.05 | 105.61 | 105.47 | 0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 28-Jun-24 | 21-Jun-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 756.0 | 766.0 | -1.3% |
+| MGO | Houston | 581.0 | 588.0 | -1.2% |
+| MGO | Singapore | 758.0 | 741.0 | 2.3% |
+| 380cst | Rotterdam | 503.0 | 511.0 | -1.6% |
+| 380cst | Houston | 485.0 | 489.0 | -0.8% |
+| 380cst | Singapore | 522.0 | 523.0 | -0.2% |
+| VLSFO | Rotterdam | 570.0 | 576.0 | -1.0% |
+| VLSFO | Houston | 581.0 | 588.0 | -1.2% |
+| VLSFO | Singapore | 627.0 | 610.0 | 2.8% |
+
+## Oil Prices
+
+| Category | Indicator | 28-Jun-24 | 21-Jun-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 86.4 | 85.2 | 1.4% |
+| OIL | WTI | 81.5 | 80.7 | 1.0% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 28-Jun-24 | 21-Jun-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 17.03 | 17.29 | -1.5% |
+| COSTAMARE INC | NYSE | USD | 16.43 | 16.85 | -2.5% |
+| DANAOS CORPORATION | NYSE | USD | 92.36 | 92.05 | 0.3% |
+| DIANA SHIPPING | NYSE | USD | 2.86 | 2.83 | 1.1% |
+| EUROSEAS LTD. | NASDAQ | USD | 34.91 | 35.97 | -2.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.88 | 1.94 | -3.1% |
+| SAFE BULKERS INC | NYSE | USD | 5.82 | 5.79 | 0.5% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 9.87 | 10.58 | -6.7% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 24.38 | 24.10 | 1.2% |
+| STEALTHGAS INC | NASDAQ | USD | 7.35 | 7.39 | -0.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 29.28 | 28.38 | 3.2% |
+
+## Macro-economic headlines
+
+• In the euro area, the June Consumer Price Index (CPI) rose by 2.5% y-o-y.
+
+• In US, the June S&P Global US Manufacturing PMI rose to 51.6 up from 51.3 in May while the ISM Manufacturing PMI falls to 48.5 in June from 48.7
+
+• In Germany, May CPI increase by 0.3% m-o-m. • In China, the Manufacturing PMI remained flat at 49.5 in June.

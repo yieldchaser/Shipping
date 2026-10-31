@@ -347,3 +347,80 @@ Fundamentals continue to drive the recycling market with only one small vessel s
 | SHANG HANG 68 | 22,928 | 7,379 | 1998 | DALIAN, China | GENERAL CARGO | undisclosed | undisclosed | "as-is" China |
 
 © Intermodal Research 04/04/2023 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 31-Mar-23 | 30-Mar-23 | 29-Mar-23 | 28-Mar-23 | 27-Mar-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.494 | 3.551 | 3.566 | 3.564 | 3.528 | 3.4% |
+| Stock Exchange Data | S&P 500 | 4,109.31 | 4,050.83 | 4,027.81 | 3,971.27 | 3,990.97 | 3.5% |
+| Stock Exchange Data | Nasdaq | 12,221.91 | 12,013.47 | 11,926.24 | 11,716.08 | 11,768.84 | 3.4% |
+| Stock Exchange Data | Dow Jones | 33,274.15 | 32,859.03 | 32,717.60 | 32,394.25 | 32,432.08 | 3.2% |
+| Stock Exchange Data | FTSE 100 | 7,631.74 | 7,620.43 | 7,564.27 | 7,484.25 | 7,471.77 | 3.1% |
+| Stock Exchange Data | FTSE All-Share UK | 4,157.88 | 4,151.91 | 4,116.63 | 4,072.46 | 4,071.07 | 2.9% |
+| Stock Exchange Data | CAC40 | 7,322.39 | 7,263.37 | 7,186.99 | 7,088.34 | 7,078.27 | 4.4% |
+| Stock Exchange Data | Xetra Dax | 15,628.84 | 15,522.40 | 15,328.78 | 15,142.02 | 15,127.68 | 3.3% |
+| Stock Exchange Data | Nikkei | 28,041.48 | 27,782.93 | 27,883.78 | 27,518.25 | 27,476.87 | 2.1% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 20,309.13 | 20,192.40 | 19,784.65 | 19,567.69 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 228.79 | 224.13 | 223.67 | 222.88 | 221.90 | 4.5% |
+| Currencies | € / $ | 1.09 | 1.09 | 1.08 | 1.08 | 1.08 | 0.8% |
+| Currencies | £ / $ | 1.23 | 1.24 | 1.23 | 1.23 | 1.23 | 1.0% |
+| Currencies | $ / ¥ | 132.78 | 133.21 | 132.59 | 131.06 | 131.24 | 1.5% |
+| Currencies | $ / NoK | 0.0953 | 0.0962 | 0.0960 | 0.0965 | 0.0956 | -0.2% |
+| Currencies | Yuan / $ | 6.87 | 6.87 | 6.89 | 6.87 | 6.89 | 0.0% |
+| Currencies | Won / $ | 1,306.47 | 1,296.88 | 1,307.46 | 1,297.33 | 1,298.18 | 0.8% |
+| Currencies | $ INDEX | 102.59 | 102.14 | 102.64 | 102.43 | 102.86 | -0.5% |
+
+## Bunker Prices
+
+| Grade | Port | 31-Mar-23 | 24-Mar-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 31-Mar-23 | 24-Mar-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.42 | 12.70 | 5.7% |
+| COSTAMARE INC | NYSE | USD | 9.41 | 9.20 | 2.3% |
+| DANAOS CORPORATION | NYSE | USD | 54.62 | 52.50 | 4.0% |
+| DIANA SHIPPING | NYSE | USD | 3.90 | 4.03 | -3.2% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 45.50 | 47.60 | -4.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 18.51 | 18.42 | 0.5% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.12 | 1.11 | 0.9% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.81 | 1.93 | -6.2% |
+| SAFE BULKERS INC | NYSE | USD | 3.69 | 3.64 | 1.4% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 5.06 | 5.55 | -8.8% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 21.12 | 21.31 | -0.9% |
+| STEALTHGAS INC | NASDAQ | USD | 2.61 | 2.58 | 1.2% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 19.43 | 19.30 | 0.7% |
+
+## Market News
+
+“Klaveness Marine frees $96m by selling 50% stake in NOCC to JP Morgan
+
+Norwegian investor Tom Erik Klaveness and his family have sold out of Norwegian Car Carriers (NOCC) amid record markets.
+
+The company has offloaded its 50% stake to US bank JP Morgan, which already owned the other half.
+
+Klaveness Marine chief executive Jon Christian Syvertsen confirmed the deal to Finansavisen, but is not revealing a price.
+
+He said however the transaction releases more than NOK 1bn ($96m).
+
+The company has owned half of NOCC since 2014. The shipping company, which has three vessels valued at $246m by VesselsValue, will now be owned by JP Morgan’s Global Transportation Group.
+
+NOCC will remain in Oslo under the leadership of Olav Sollie.
+
+Sollie told Finansavisen...(TradeWinds)

@@ -232,3 +232,72 @@ The previous week was another weak one with minimal sales. In India, the steel m
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ONE DESTINY | 45,483 | 7,698 | 1995 | TSUNEISHI, Japan | BC | $ 535/Ldt | Indian |  |
 | LUCKY DRAGON | 22,198 | 8,170 | 1996 | GDANSKA STOCZNIA, Poland | CONTAINER | $ 512/Ldt | undisclosed | as is Singapore |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 27-Oct-23 | 26-Oct-23 | 25-Oct-23 | 24-Oct-23 | 23-Oct-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.845 | 4.849 | 4.961 | 4.819 | 4.848 | -1.4% |
+| Stock Exchange Data | S&P 500 | 4,117.37 | 4,137.23 | 4,186.77 | 4,247.68 | 4,217.04 | -2.5% |
+| Stock Exchange Data | Nasdaq | 12,643.01 | 12,595.61 | 12,821.22 | 13,139.88 | 13,018.33 | -2.6% |
+| Stock Exchange Data | Dow Jones | 32,417.59 | 32,784.30 | 33,035.93 | 33,141.38 | 32,936.41 | -2.1% |
+| Stock Exchange Data | FTSE 100 | 7,291.28 | 7,354.57 | 7,414.34 | 7,389.70 | 7,374.83 | -1.5% |
+| Stock Exchange Data | FTSE All-Share UK | 3,933.17 | 3,959.51 | 3,990.54 | 3,983.20 | 3,978.44 | -1.4% |
+| Stock Exchange Data | CAC40 | 6,795.38 | 6,888.96 | 6,915.07 | 6,893.65 | 6,850.47 | -0.3% |
+| Stock Exchange Data | Xetra Dax | 14,687.41 | 14,731.05 | 14,892.18 | 14,879.94 | 14,800.72 | -0.8% |
+| Stock Exchange Data | Nikkei | 30,991.69 | 30,601.78 | 31,269.92 | 31,062.35 | 30,999.55 | 0.0% |
+| Stock Exchange Data | Hang Seng | 17,398.73 | 17,398.73 | 17,044.61 | 17,085.33 | 16,991.53 | 2.4% |
+| Stock Exchange Data | DJ US Maritime | 253.97 | 253.97 | 260.67 | 264.28 | 264.24 | -5.2% |
+| Currencies | € / $ | 1.06 | 1.06 | 1.06 | 1.06 | 1.07 | -0.2% |
+| Currencies | £ / $ | 1.21 | 1.21 | 1.21 | 1.22 | 1.22 | -0.2% |
+| Currencies | $ / ¥ | 149.65 | 150.37 | 150.09 | 149.86 | 149.78 | -0.1% |
+| Currencies | $ / NoK | 0.0896 | 0.0894 | 0.0892 | 0.0896 | 0.0903 | -0.9% |
+| Currencies | Yuan / $ | 7.32 | 7.32 | 7.32 | 7.31 | 7.32 | 0.0% |
+| Currencies | Won / $ | 1,356.22 | 1,351.34 | 1,353.07 | 1,344.13 | 1,343.83 | 0.4% |
+| Currencies | $ INDEX | 106.56 | 106.60 | 106.53 | 106.27 | 105.54 | 0.4% |
+
+## Bunker Prices
+
+| Grade | Port | 27-Oct-23 | 20-Oct-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 27-Oct-23 | 20-Oct-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.66 | 13.90 | -1.7% |
+| COSTAMARE INC | NYSE | USD | 9.10 | 9.09 | 0.1% |
+| DANAOS CORPORATION | NYSE | USD | 65.79 | 65.75 | 0.1% |
+| DIANA SHIPPING | NYSE | USD | 3.30 | 3.35 | -1.5% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 40.90 | 42.19 | -3.1% |
+| EUROSEAS LTD. | NASDAQ | USD | 25.40 | 25.60 | -0.8% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.71 | 1.75 | -2.3% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.21 | 1.89 | 16.9% |
+| SAFE BULKERS INC | NYSE | USD | 3.18 | 3.30 | -3.6% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 5.22 | 5.48 | -4.7% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.48 | 19.33 | -4.4% |
+| STEALTHGAS INC | NASDAQ | USD | 5.74 | 5.18 | 10.8% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 22.60 | 20.97 | 7.8% |
+
+## Macro-economic headlines
+
+• US: GDP grew by 4.9% on an annual basis. The S&P composite PMI rose to 51 in October, up from 50.2 in September. Core PCE inflation was 3.7% on an annual basis
+
+• China: The Ministry of Finance issued RMB 1tn of government bonds, which are expected to support local governments.
+
+• EU: The central bank kept interest rates unchanged at 4.50%.
+
+• UK: The S&P Global/CIPS UK Manufacturing PMI rose to 45.2 in October from 44.3 the previous month.

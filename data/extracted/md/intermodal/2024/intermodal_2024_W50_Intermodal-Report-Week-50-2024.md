@@ -245,3 +245,75 @@ The global recycling market remains sensitive to broader trade dynamics, economi
 | TRUE CONFIDENCE | 50,448 | 8,907 | 2011 | OSHIMA, Japan | BC | $ 353/Ldt | undisclosed | Damaged condition/total loss - as is Sharjah, UAE |
 | KELP | 8,424 | 3,248 | 2002 | KURINOURA, Japan | TANKER | $ 620/Ldt | Indian | high quantity of StSt |
 | NEW SMILE | 6,902 | 2,227 | 1995 | JURONG, Singapore | TANKER | $ 510/Ldt | Bangladeshi |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 13-Dec-24 | 12-Dec-24 | 11-Dec-24 | 10-Dec-24 | 9-Dec-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.399 | 4.324 | 4.271 | 4.221 | 4.199 | 5.9% |
+| Stock Exchange Data | S&P 500 | 6,051.09 | 6,051.25 | 6,084.19 | 6,034.91 | 6,052.85 | -0.6% |
+| Stock Exchange Data | Nasdaq | 21,780.25 | 21,615.27 | 21,763.98 | 21,368.18 | 21,440.82 | 0.7% |
+| Stock Exchange Data | Dow Jones | 43,828.06 | 43,914.12 | 44,148.56 | 44,247.83 | 44,401.93 | -1.8% |
+| Stock Exchange Data | FTSE 100 | 8,300.33 | 8,311.76 | 8,301.62 | 8,280.36 | 8,352.08 | -0.1% |
+| Stock Exchange Data | FTSE All-Share UK | 4,535.41 | 4,542.56 | 4,538.41 | 4,528.64 | 4,564.38 | -0.2% |
+| Stock Exchange Data | CAC40 | 7,409.57 | 7,420.94 | 7,423.40 | 7,394.78 | 7,480.14 | -0.2% |
+| Stock Exchange Data | Xetra Dax | 20,405.92 | 20,426.27 | 20,399.16 | 20,329.16 | 20,345.96 | 0.1% |
+| Stock Exchange Data | Nikkei | 39,470.44 | 39,849.14 | 39,372.23 | 39,367.58 | 39,160.50 | 1.0% |
+| Stock Exchange Data | Hang Seng | 19,971.24 | 20,397.05 | 20,155.05 | 20,311.28 | 20,414.09 | 0.5% |
+| Stock Exchange Data | DJ US Maritime | 385.53 | 387.04 | 386.94 | 387.50 | 386.75 | -1.3% |
+| Currencies | € / $ | 1.05 | 1.05 | 1.05 | 1.05 | 1.06 | -0.6% |
+| Currencies | £ / $ | 1.26 | 1.27 | 1.28 | 1.28 | 1.27 | -1.0% |
+| Currencies | $ / ¥ | 153.64 | 152.62 | 152.45 | 151.95 | 151.19 | 2.4% |
+| Currencies | $ / NoK | 11.13 | 11.16 | 11.14 | 11.15 | 11.12 | -0.2% |
+| Currencies | Yuan / $ | 7.28 | 7.27 | 7.26 | 7.25 | 7.26 | 0.1% |
+| Currencies | Won / $ | 1,434.03 | 1,430.67 | 1,427.81 | 1,434.30 | 1,428.40 | 0.7% |
+| Currencies | $ INDEX | 107.00 | 106.96 | 106.71 | 106.40 | 106.15 | 0.9% |
+
+## Bunker Prices
+
+| Grade | Port | 13-Dec-24 | 6-Dec-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 650.0 | 627.0 | 3.7% |
+| MGO | Houston | 677.0 | 633.0 | 7.0% |
+| MGO | Singapore | 674.0 | 646.0 | 4.3% |
+| 380cst | Rotterdam | 456.0 | 434.0 | 5.1% |
+| 380cst | Houston | 471.0 | 442.0 | 6.6% |
+| 380cst | Singapore | 460.0 | 448.0 | 2.7% |
+| VLSFO | Rotterdam | 511.0 | 496.0 | 3.0% |
+| VLSFO | Houston | 546.0 | 529.0 | 3.2% |
+| VLSFO | Singapore | 544.0 | 540.0 | 0.7% |
+
+## Oil Prices
+
+| Category | Indicator | 13-Dec-24 | 6-Dec-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 74.5 | 71.1 | 4.7% |
+| OIL | WTI | 71.3 | 67.2 | 6.1% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 13-Dec-24 | 06-Dec-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.60 | 18.18 | 2.3% |
+| COSTAMARE INC | NYSE | USD | 12.95 | 13.21 | -2.0% |
+| DANAOS CORPORATION | NYSE | USD | 79.21 | 81.37 | -2.7% |
+| DIANA SHIPPING | NYSE | USD | 1.85 | 1.86 | -0.5% |
+| EUROSEAS LTD. | NASDAQ | USD | 35.71 | 39.11 | -8.7% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.21 | 1.35 | -10.7% |
+| SAFE BULKERS INC | NYSE | USD | 3.68 | 3.84 | -4.2% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 7.31 | 7.38 | -0.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 15.15 | 15.98 | -5.2% |
+| STEALTHGAS INC | NASDAQ | USD | 5.09 | 5.14 | -1.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.97 | 18.24 | -1.5% |
+
+## Macro-economic headlines
+
+In China, the trade balance in November increased for the second consecutive month, reaching a $97.44 billion surplus, surpassing expectations of $94 billion. This marks the largest surplus recorded since June. Additionally, industrial production grew by 5.4%, aligning with market expectations and remaining consistent with the levels observed in September and October. Finally, outstanding bank loans to consumers and companies continued to rise YoY, at a slower single-digit pace, growing 7.7% in November, below market forecasts of 7.9% and lower than October’s 8% growth.
+
+In EU, industrial production remained unchanged in October, following a 2% decrease in September and a 1.8% increase in August. Furthermore, the ECB decreased the Deposit Facility rate by 0.25% since last quarter, to 3%, in line with market forecasts. This was the fourth reduction within 2024 with the rate standing at 4% at the beginning of the year.
+
+In US, the MoM CPI rose by 0.3%, matching market predictions and above the 0.2%, the rate recorded in the past 4 months

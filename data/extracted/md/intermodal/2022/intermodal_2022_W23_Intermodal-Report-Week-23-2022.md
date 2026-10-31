@@ -328,3 +328,79 @@ Last week we saw an increase in bids from Bangladeshi and Pakistani buyers amids
 | SMOOTH SEA 2 | 3,044 | 1,096 | 1983 | MITSUBISHI, Japan | TANKER | undisclosed | Bangladeshi |  |
 
 © Intermodal Research 14/06/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 10-Jun-22 | 9-Jun-22 | 8-Jun-22 | 7-Jun-22 | 6-Jun-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.156 | 3.044 | 3.029 | 2.972 | 3.038 | 6.7% |
+| Stock Exchange Data | S&P 500 | 3,900.86 | 4,017.82 | 4,115.77 | 4,160.68 | 4,108.54 | -5.1% |
+| Stock Exchange Data | Nasdaq | 11,340.02 | 11,754.23 | 12,086.27 | 12,175.23 | 12,061.37 | -5.6% |
+| Stock Exchange Data | Dow Jones | 31,392.79 | 32,272.79 | 32,910.90 | 33,180.14 | 32,915.78 | -4.6% |
+| Stock Exchange Data | FTSE 100 | 7,317.52 | 7,476.21 | 7,593.00 | 7,598.93 | 7,608.22 | -2.9% |
+| Stock Exchange Data | FTSE All-Share UK | 4,046.16 | 4,132.16 | 4,193.26 | 4,198.60 | 4,206.23 | -2.8% |
+| Stock Exchange Data | CAC40 | 6,187.23 | 6,358.46 | 6,448.63 | 6,500.35 | 6,548.78 | -4.6% |
+| Stock Exchange Data | Xetra Dax | 13,761.83 | 14,198.80 | 14,445.99 | 14,556.62 | 14,653.81 | -6.1% |
+| Stock Exchange Data | Nikkei | 27,824.29 | 28,246.53 | 28,234.29 | 27,943.95 | 27,915.89 | -0.3% |
+| Stock Exchange Data | Hang Seng | 21,869.05 | 21,869.05 | 22,014.59 | 21,531.67 | 21,653.90 | 3.7% |
+| Stock Exchange Data | DJ US Maritime | 223.24 | 226.63 | 235.49 | 240.68 | 226.03 | -0.9% |
+| Currencies | € / $ | 1.05 | 1.06 | 1.07 | 1.07 | 1.07 | -1.9% |
+| Currencies | £ / $ | 1.23 | 1.25 | 1.25 | 1.26 | 1.25 | -1.4% |
+| Currencies | $ / ¥ | 134.40 | 134.41 | 134.43 | 132.82 | 132.18 | 2.7% |
+| Currencies | $ / NoK | 0.10 | 0.10 | 0.11 | 0.11 | 0.11 | -2.8% |
+| Currencies | Yuan / $ | 6.71 | 6.69 | 6.68 | 6.67 | 6.65 | 0.7% |
+| Currencies | Won / $ | 1,279.53 | 1,264.37 | 1,257.11 | 1,254.91 | 1,254.81 | 2.2% |
+| Currencies | $ INDEX | 104.15 | 103.22 | 102.54 | 102.32 | 102.44 | 2.0% |
+
+## Bunker Prices
+
+| Grade | Port | 10-Jun-22 | 3-Jun-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,351.0 | 1,323.0 | 2.1% |
+| MGO | Houston | 1,370.5 | 1,371.0 | 0.0% |
+| MGO | Singapore | 1,338.5 | 1,257.5 | 6.4% |
+| 380cst | Rotterdam | 633.0 | 668.0 | -5.2% |
+| 380cst | Houston | 737.5 | 717.0 | 2.9% |
+| 380cst | Singapore | 610.5 | 655.0 | -6.8% |
+| VLSFO | Rotterdam | 965.0 | 915.5 | 5.4% |
+| VLSFO | Houston | 968.0 | 950.0 | 1.9% |
+| VLSFO | Singapore | 1,149.0 | 1,095.0 | 4.9% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 10-Jun-22 | 03-Jun-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 16.32 | 16.06 | 1.6% |
+| COSTAMARE INC | NYSE | USD | 12.72 | 14.53 | -12.5% |
+| DANAOS CORPORATION | NYSE | USD | 71.04 | 84.35 | -15.8% |
+| DIANA SHIPPING | NYSE | USD | 5.44 | 6.35 | -14.3% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 63.45 | 76.10 | -16.6% |
+| EUROSEAS LTD. | NASDAQ | USD | 28.09 | 33.39 | -15.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.30 | 2.34 | -1.7% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 3.03 | 3.37 | -10.1% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 27.60 | 31.22 | -11.6% |
+| SAFE BULKERS INC | NYSE | USD | 4.42 | 4.92 | -10.2% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.05 | 1.18 | -11.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 26.96 | 32.51 | -17.1% |
+| STEALTHGAS INC | NASDAQ | USD | 3.58 | 3.34 | 7.2% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 10.42 | 11.10 | -6.1% |
+
+## Market News
+
+“Investors trading $1.1bn of shipping shares per week as liquidity soars
+
+Investment bank Clarksons Platou Securities cited Refinitiv data for the 42 shipowners it covers as showing a “significant” improvement in trading through 2022.
+
+In the five days ending 10 June, the average daily share turnover was $1.1bn, the third week in a row with such high liquidity.
+
+Israeli container line Zim saw stock worth $500m change hands in New York, analysts Frode Morkedal and Even Kolsgaard said.
+
+Boxship owners, in general, have averaged $437m in daily turnover this year, up 152% from the average for 2021.
+
+Dry bulk equity trading has been $151m per day, a 104% increase from last year.
+
+And the figure for vessel leasing companies is $120m, up 60%, while crude tanker companies have averaged $67m so far in 2022, a jump of 52% as freight rates improve...(TradeWinds)

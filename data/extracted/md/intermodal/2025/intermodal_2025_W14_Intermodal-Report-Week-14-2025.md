@@ -245,3 +245,77 @@ Turkish steel and ship recycling markets remained stagnant, with activity expect
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | FUTONG EXPRESS | 43,924 | 8,857 | 1995 | SANOYAS, Japan | BC | $ 485/Ldt | Bangladeshi |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 4-Apr-25 | 3-Apr-25 | 2-Apr-25 | 1-Apr-25 | 31-Mar-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.991 | 4.055 | 4.195 | 4.156 | 4.245 | -6.2% |
+| Stock Exchange Data | S&P 500 | 5,074.08 | 5,396.52 | 5,670.97 | 5,633.07 | 5,611.85 | -9.1% |
+| Stock Exchange Data | Nasdaq | 17,397.70 | 18,521.48 | 19,581.78 | 19,436.42 | 19,278.45 | -9.8% |
+| Stock Exchange Data | Dow Jones | 38,314.86 | 40,545.93 | 42,225.32 | 41,989.96 | 42,001.76 | -7.9% |
+| Stock Exchange Data | FTSE 100 | 8,054.98 | 8,474.74 | 8,608.48 | 8,634.80 | 8,582.81 | -7.0% |
+| Stock Exchange Data | FTSE All-Share UK | 4,341.85 | 4,564.31 | 4,640.50 | 4,651.47 | 4,623.62 | -7.1% |
+| Stock Exchange Data | CAC40 | 7,274.95 | 7,598.98 | 7,858.83 | 7,876.36 | 7,790.71 | -8.1% |
+| Stock Exchange Data | Xetra Dax | 20,641.72 | 21,717.39 | 22,390.84 | 22,539.98 | 22,163.49 | -8.1% |
+| Stock Exchange Data | Nikkei | 33,780.58 | 34,735.93 | 35,725.87 | 35,624.48 | 35,617.56 | -9.0% |
+| Stock Exchange Data | Hang Seng | 22,849.81 | 22,849.81 | 23,202.53 | 23,206.84 | 23,119.58 | -2.5% |
+| Stock Exchange Data | DJ US Maritime | 292.70 | 304.95 | 338.59 | 333.54 | 331.57 | -11.4% |
+| Currencies | € / $ | 1.10 | 1.11 | 1.09 | 1.08 | 1.08 | 1.2% |
+| Currencies | £ / $ | 1.29 | 1.31 | 1.30 | 1.29 | 1.29 | -0.4% |
+| Currencies | $ / ¥ | 146.90 | 146.06 | 149.24 | 149.61 | 149.95 | -1.9% |
+| Currencies | $ / NoK | 10.75 | 10.32 | 10.40 | 10.43 | 10.50 | 3.1% |
+| Currencies | Yuan / $ | 7.28 | 7.28 | 7.27 | 7.27 | 7.26 | 0.3% |
+| Currencies | Won / $ | 1,458.51 | 1,450.57 | 1,463.19 | 1,469.94 | 1,472.05 | -0.8% |
+| Currencies | $ INDEX | 103.02 | 102.07 | 103.81 | 104.26 | 104.21 | -1.0% |
+
+## Bunker Prices
+
+| Grade | Port | 4-Apr-25 | 28-Mar-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 608.0 | 653.0 | -6.9% |
+| MGO | Houston | 645.0 | 672.0 | -4.0% |
+| MGO | Singapore | 603.0 | 645.0 | -6.5% |
+| 380cst | Rotterdam | 416.0 | 453.0 | -8.2% |
+| 380cst | Houston | 427.0 | 443.0 | -3.6% |
+| 380cst | Singapore | 431.0 | 461.0 | -6.5% |
+| VLSFO | Rotterdam | 443.0 | 491.0 | -9.8% |
+| VLSFO | Houston | 490.0 | 516.0 | -5.0% |
+| VLSFO | Singapore | 497.0 | 525.0 | -5.3% |
+
+## Oil Prices
+
+| Category | Indicator | 4-Apr-25 | 28-Mar-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 65.6 | 73.6 | -10.9% |
+| OIL | WTI | 62.0 | 69.4 | -10.6% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 04-Apr-25 | 28-Mar-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.23 | 19.79 | -7.9% |
+| COSTAMARE INC | NYSE | USD | 8.95 | 9.96 | -10.1% |
+| DANAOS CORPORATION | NYSE | USD | 69.29 | 79.32 | -12.6% |
+| DIANA SHIPPING | NYSE | USD | 1.35 | 1.63 | -17.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 27.20 | 30.72 | -11.5% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.15 | 1.21 | -4.6% |
+| SAFE BULKERS INC | NYSE | USD | 3.23 | 3.76 | -14.1% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 5.14 | 6.64 | -22.6% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 13.08 | 15.98 | -18.1% |
+| STEALTHGAS INC | NASDAQ | USD | 5.12 | 5.79 | -11.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 13.81 | 17.17 | -19.6% |
+
+## Macro-economic headlines
+
+In Eurozone, the PPI rose by 0.2% m-o-m in February, slightly below both market expectations and January’s increase of 0.8%.
+
+In the United States, the trade deficit narrowed to $122.70 billion in February, down from $131.40 billion in January and close to market forecasts of $122.50 billion.
+
+Germany recorded a trade surplus of €17.7 billion in February, below market estimates of €18.4 billion but higher than January’s figure of €16 billion.
+
+In China, the Caixin Services PMI read 51.9 in March, surpassing market expectations of 51.5 and February’s reading of 51.4.

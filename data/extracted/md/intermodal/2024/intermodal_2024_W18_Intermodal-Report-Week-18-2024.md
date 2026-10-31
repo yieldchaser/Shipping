@@ -245,3 +245,77 @@ The ship demolition market continues to operate in a cautious manner, largely in
 | PINE EXPRESS | 42,968 | 9,543 | 1990 | HASHIHAMA, Japan | BC | $ 560/Ldt | Bangladeshi |  |
 | HONG XI | 10,440 | 3,621 | 2008 | WUHAN SANYANG, China | GENERAL CARGO | $ 515/Ldt | Bangladeshi |  |
 | HEUNG-A TOKYO | 7,040 | 2,446 | 1996 | DAEDONG, S. Korea | CONTAINER | $ 581/Ldt | Bangladeshi |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 10-May-24 | 9-May-24 | 8-May-24 | 7-May-24 | 6-May-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.504 | 4.449 | 4.492 | 4.461 | 4.489 | 0.1% |
+| Stock Exchange Data | S&P 500 | 5,222.68 | 5,214.08 | 5,187.67 | 5,187.70 | 5,180.74 | 1.9% |
+| Stock Exchange Data | Nasdaq | 18,161.18 | 18,113.46 | 18,085.01 | 18,091.45 | 18,093.57 | 1.5% |
+| Stock Exchange Data | Dow Jones | 39,512.84 | 39,387.76 | 39,055.73 | 38,883.94 | 38,851.94 | 2.2% |
+| Stock Exchange Data | FTSE 100 | 8,433.76 | 8,381.35 | 8,354.05 | 8,313.67 | 8,213.49 | 2.7% |
+| Stock Exchange Data | FTSE All-Share UK | 4,586.29 | 4,558.37 | 4,544.24 | 4,522.99 | 4,469.09 | 2.6% |
+| Stock Exchange Data | CAC40 | 8,219.14 | 8,187.65 | 8,131.41 | 8,075.68 | 7,996.64 | 3.3% |
+| Stock Exchange Data | Xetra Dax | 18,772.85 | 18,686.60 | 18,498.38 | 18,430.05 | 18,175.21 | 4.3% |
+| Stock Exchange Data | Nikkei | 38,257.00 | 38,070.50 | 38,202.37 | 38,835.10 | 38,835.10 | 0.1% |
+| Stock Exchange Data | Hang Seng | 18,963.68 | 18,537.81 | 37,703.32 | 18,479.37 | 18,578.30 | 2.6% |
+| Stock Exchange Data | DJ US Maritime | 377.39 | 377.52 | 377.52 | 372.01 | 367.64 | 4.0% |
+| Currencies | € / $ | 1.08 | 1.08 | 1.07 | 1.08 | 1.08 | 0.1% |
+| Currencies | £ / $ | 1.25 | 1.25 | 1.25 | 1.25 | 1.26 | -0.2% |
+| Currencies | $ / ¥ | 155.72 | 155.46 | 155.48 | 154.69 | 153.88 | 1.8% |
+| Currencies | $ / NoK | 10.82 | 10.84 | 10.90 | 10.90 | 10.82 | -0.5% |
+| Currencies | Yuan / $ | 7.23 | 7.22 | 7.22 | 7.22 | 7.21 | -0.2% |
+| Currencies | Won / $ | 1,369.65 | 1,365.09 | 1,364.39 | 1,358.79 | 1,354.91 | 1.1% |
+| Currencies | $ INDEX | 105.30 | 105.23 | 105.55 | 105.41 | 105.05 | 0.3% |
+
+## Bunker Prices
+
+| Grade | Port | 10-May-24 | 3-May-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 735.0 | 718.0 | 2.4% |
+| MGO | Houston | 503.0 | 492.0 | 2.2% |
+| MGO | Singapore | 733.0 | 725.0 | 1.1% |
+| 380cst | Rotterdam | 482.0 | 481.0 | 0.2% |
+| 380cst | Houston | 503.0 | 492.0 | 2.2% |
+| 380cst | Singapore | 530.0 | 520.0 | 1.9% |
+| VLSFO | Rotterdam | 566.0 | 567.0 | -0.2% |
+| VLSFO | Houston | 586.0 | 584.0 | 0.3% |
+| VLSFO | Singapore | 632.0 | 618.0 | 2.3% |
+
+## Oil Prices
+
+| Category | Indicator | 10-May-24 | 3-May-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 82.8 | 83.0 | -0.2% |
+| OIL | WTI | 78.3 | 78.1 | 0.2% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 10-May-24 | 03-May-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 16.28 | 16.70 | -2.5% |
+| COSTAMARE INC | NYSE | USD | 13.37 | 12.48 | 7.1% |
+| DANAOS CORPORATION | NYSE | USD | 82.82 | 78.54 | 5.4% |
+| DIANA SHIPPING | NYSE | USD | 3.08 | 3.00 | 2.7% |
+| EUROSEAS LTD. | NASDAQ | USD | 37.70 | 35.70 | 5.6% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.05 | 1.88 | 9.0% |
+| SAFE BULKERS INC | NYSE | USD | 5.44 | 5.19 | 4.8% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 10.55 | 9.65 | 9.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 25.67 | 24.82 | 3.4% |
+| STEALTHGAS INC | NASDAQ | USD | 6.52 | 6.18 | 5.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 28.75 | 26.23 | 9.6% |
+
+## Macro-economic headlines
+
+• In the euro area, HCOB Eurozone Composite PMI, showing manufacturing or services output, rose to 51.7 in April, from 50.3 in the previous month. More specifically, the Services PMI rose to 53.3 this month, compared to 51.5 last month.
+
+• In UK, GDP data was out, with the figure rising by 0.4% in March on a monthly basis. On a quarterly basis, Q1 was up by 0.6% compared to the previous quarter and 0.2% higher than the same period last year. The Bank of England left the Interest rate unchanged at 5.25%.
+
+• In Japan, Jibun Bank Services PMI rose to 54.3 in April, compared to 54.1 the previous month. Household spending was up in March by 1.2%, compared to February, but the figure is still 1.2% lower than the same period last year.
+
+• In China, the Caixin PMI fell slightly to 52.5 in April compared to the previous month of 52.7. As far as Trade Balance is concerned, China had a positive balance of 72.35 bn, with exports and imports rising sharply, at 1.5% and 8.5% respectively.

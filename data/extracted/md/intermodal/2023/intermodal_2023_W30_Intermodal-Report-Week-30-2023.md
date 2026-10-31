@@ -245,3 +245,70 @@ The market remains subdued due to stable freight rates and the traditional summe
 | SINOKOR TIANJIN | 11,031 | 4,672 | 1998 | MAWEI SHIPYARD - CHR, China | CONTAINER | $ 622/Ldt | Bangladeshi | incl. 250T ROB |
 | E os | 6,198 | 2,222 | 1976 | Vujik Scheepswerven BV | TANKER | undisclosed | Turkish |  |
 | ASTERDEA | 2,738 | 1,231 | 1976 | NIEUWE NOORD, Netherlands | BC | undisclosed | Turkish |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 28-Jul-23 | 27-Jul-23 | 26-Jul-23 | 25-Jul-23 | 24-Jul-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.957 | 4.002 | 3.873 | 3.890 | 3.878 | 3.1% |
+| Stock Exchange Data | S&P 500 | 4,582.23 | 4,537.41 | 4,566.75 | 4,567.46 | 3,990.97 | 1.0% |
+| Stock Exchange Data | Nasdaq | 14,316.66 | 14,050.11 | 14,127.28 | 14,144.56 | 14,058.87 | 2.0% |
+| Stock Exchange Data | Dow Jones | 35,459.29 | 35,282.72 | 35,520.12 | 35,438.07 | 35,411.24 | 0.7% |
+| Stock Exchange Data | FTSE 100 | 7,694.27 | 7,692.76 | 7,676.89 | 7,691.80 | 7,678.59 | 0.4% |
+| Stock Exchange Data | FTSE All-Share UK | 4,195.17 | 4,198.69 | 4,188.48 | 4,194.39 | 4,187.55 | 0.3% |
+| Stock Exchange Data | CAC40 | 7,476.47 | 7,465.24 | 7,315.07 | 7,415.45 | 7,427.31 | 0.6% |
+| Stock Exchange Data | Xetra Dax | 16,469.75 | 16,406.03 | 16,131.46 | 16,211.59 | 16,190.95 | 1.7% |
+| Stock Exchange Data | Nikkei | 32,759.23 | 32,891.16 | 32,668.34 | 32,682.51 | 32,700.94 | 0.2% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 19,639.11 | 19,365.14 | 19,434.40 | 18,668.15 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 263.78 | 263.78 | 255.61 | 255.61 | 251.97 | 4.7% |
+| Currencies | € / $ | 1.10 | 1.10 | 1.11 | 1.11 | 1.11 | -0.9% |
+| Currencies | £ / $ | 1.28 | 1.28 | 1.29 | 1.29 | 1.28 | -0.1% |
+| Currencies | $ / ¥ | 141.15 | 138.78 | 140.37 | 140.92 | 141.52 | -0.4% |
+| Currencies | $ / NoK | 0.0981 | 0.0982 | 0.0987 | 0.0994 | 0.0994 | -1.2% |
+| Currencies | Yuan / $ | 7.15 | 7.17 | 7.15 | 7.14 | 7.19 | -0.5% |
+| Currencies | Won / $ | 1,273.38 | 1,284.23 | 1,275.45 | 1,274.52 | 1,280.88 | -1.0% |
+| Currencies | $ INDEX | 101.70 | 101.77 | 100.89 | 101.35 | 101.35 | 0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 28-Jul-23 | 21-Jul-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 28-Jul-23 | 21-Jul-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.42 | 15.13 | 1.9% |
+| COSTAMARE INC | NYSE | USD | 11.59 | 9.56 | 21.2% |
+| DANAOS CORPORATION | NYSE | USD | 71.19 | 65.83 | 8.1% |
+| DIANA SHIPPING | NYSE | USD | 3.91 | 3.69 | 6.0% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 45.86 | 43.51 | 5.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 21.94 | 20.95 | 4.7% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 0.92 | 0.89 | 3.4% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.89 | 1.73 | 9.2% |
+| SAFE BULKERS INC | NYSE | USD | 3.34 | 3.24 | 3.1% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 0.98 | 0.99 | -1.0% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.17 | 17.06 | 6.5% |
+| STEALTHGAS INC | NASDAQ | USD | 4.76 | 4.26 | 11.7% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 19.67 | 17.62 | 11.6% |
+
+## Macro-economic headlines
+
+• US: The central bank raised interest rates to a range of 5.25% to 5.5%, the highest since 2001. Both the composite and services PMIs fell in July, with the former at 52 (53.2 in June) and the latter at 52.4 (54.4 in June).
+
+• EU: The ECB raised interest rates by 25 bps to 4.25%. Among the PMIs, the manufacturing PMI fell to 42.7 in July from 43.4 in June, while the services PMI fell to 51.1 from 52.0 in June.
+
+• China: The country's Politburo announced that measures will be taken to support the economy. The measures will focus on spending, fiscal expansion and housing. China's NBS manufacturing PMI rose marginally to 49.3 from 49 in June, remaining in contractionary territory.

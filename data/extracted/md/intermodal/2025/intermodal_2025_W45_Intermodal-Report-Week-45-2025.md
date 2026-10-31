@@ -261,3 +261,75 @@ Turkey witnesses low activity, as the substantial reduction in vessel candidates
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ZENITH | 105,162 | 17,013 | 1998 | SAMSUNG, S. Korea | TANKER | $359/Ldt | Indian |
 | RAISSA | 47,343 | 9,711 | 1998 | Ulkanik, Croatia | TANKER | $473/Ldt | Bangladeshi |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 7-Nov-25 | 6-Nov-25 | 5-Nov-25 | 4-Nov-25 | 3-Nov-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.093 | 4.093 | 4.157 | 4.091 | 4.107 | -0.2% |
+| Stock Exchange Data | S&P 500 | 6,728.80 | 6,720.32 | 6,796.29 | 6,771.55 | 6,851.97 | -1.6% |
+| Stock Exchange Data | Nasdaq | 25,059.81 | 25,130.04 | 25,620.03 | 25,435.70 | 25,972.94 | -3.1% |
+| Stock Exchange Data | Dow Jones | 46,987.10 | 46,912.30 | 47,311.00 | 47,085.24 | 47,336.68 | -1.2% |
+| Stock Exchange Data | FTSE 100 | 9,682.57 | 9,735.78 | 9,777.08 | 9,714.96 | 9,701.37 | -0.4% |
+| Stock Exchange Data | FTSE All-Share UK | 5,211.88 | 5,240.90 | 5,265.74 | 5,233.82 | 5,231.01 | -0.5% |
+| Stock Exchange Data | CAC40 | 7,950.18 | 7,964.77 | 8,074.23 | 8,067.53 | 8,109.79 | -2.1% |
+| Stock Exchange Data | Xetra Dax | 23,569.96 | 23,734.02 | 24,049.74 | 23,949.11 | 24,132.41 | -1.6% |
+| Stock Exchange Data | Nikkei | 50,276.37 | 50,883.68 | 50,212.27 | 51,497.20 | 52,431.00 | -4.1% |
+| Stock Exchange Data | Hang Seng | 26,241.83 | 26,485.90 | 25,935.41 | 25,952.40 | 26,158.36 | 1.3% |
+| Stock Exchange Data | DJ US Maritime | 353.36 | 348.83 | 348.77 | 342.86 | 342.53 | 4.0% |
+| Currencies | € / $ | 1.16 | 1.15 | 1.15 | 1.15 | 1.15 | 0.3% |
+| Currencies | £ / $ | 1.32 | 1.31 | 1.30 | 1.30 | 1.31 | 0.0% |
+| Currencies | $ / ¥ | 153.40 | 153.06 | 154.11 | 153.67 | 154.21 | -0.4% |
+| Currencies | $ / NoK | 10.14 | 10.18 | 10.21 | 10.20 | 10.12 | 0.3% |
+| Currencies | Yuan / $ | 7.12 | 7.12 | 7.13 | 7.13 | 7.12 | 0.1% |
+| Currencies | Won / $ | 1,455.84 | 1,448.83 | 1,440.61 | 1,443.70 | 1,429.90 | 1.9% |
+| Currencies | $ INDEX | 99.60 | 99.73 | 100.20 | 100.22 | 99.87 | -0.2% |
+
+## Bunker Prices
+
+| Grade | Port | 7-Nov-25 | 31-Oct-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 731.0 | 698.0 | 4.7% |
+| MGO | Houston | 700.0 | 658.0 | 6.4% |
+| MGO | Singapore | 743.0 | 735.0 | 1.1% |
+| 380cst | Rotterdam | 395.0 | 409.0 | -3.4% |
+| 380cst | Houston | 383.0 | 392.0 | -2.3% |
+| 380cst | Singapore | 383.0 | 387.0 | -1.0% |
+| VLSFO | Rotterdam | 428.0 | 429.0 | -0.2% |
+| VLSFO | Houston | 441.0 | 450.0 | -2.0% |
+| VLSFO | Singapore | 465.0 | 463.0 | 0.4% |
+
+## Oil Prices
+
+| Category | Indicator | 7-Nov-25 | 31-Oct-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 63.6 | 65.1 | -2.2% |
+| OIL | WTI | 59.8 | 61.0 | -2.0% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 07-Nov-25 | 31-Oct-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 20.69 | 21.33 | -3.0% |
+| COSTAMARE INC | NYSE | USD | 13.42 | 12.22 | 9.8% |
+| DANAOS CORPORATION | NYSE | USD | 91.97 | 91.01 | 1.1% |
+| DIANA SHIPPING | NYSE | USD | 1.70 | 1.75 | -2.9% |
+| EUROSEAS LTD. | NASDAQ | USD | 57.91 | 57.54 | 0.6% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.19 | 1.22 | -2.5% |
+| SAFE BULKERS INC | NYSE | USD | 4.78 | 4.69 | 1.9% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 8.61 | 8.50 | 1.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.19 | 18.82 | -3.3% |
+| STEALTHGAS INC | NASDAQ | USD | 6.78 | 6.85 | -1.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 24.65 | 24.38 | 1.1% |
+
+## Macro-economic headlines
+
+China’s trade surplus narrowed to $90.07bn in October from $90.45bn recorded in September, falling short of forecasts of $96.9bn. Exports unexpectedly declined 1.1% y-o-y, the first drop since February, reversing September’s 8.3% rise, impacted by slowing overseas orders and Golden Week. Imports increased 1.0% y-o-y, below the expected 3.2% and September’s 7.4%, marking the weakest growth since May.
+
+In the Eurozone, the HCOB Composite PMI rose to 52.5 in October, exceeding both market expectations of 52.2 and September’s 51.2 reading.
+
+In Germany, the trade surplus fell to €15.3bn in September from €17.2bn in August, below market expectations of €16.7bn. Exports rose 1.4% m-o-m, rebounding from a 0.5% decline in August on stronger demand within the EU. Imports increased 3.1% m-o-m, after a 1.3% drop in August, driven by higher purchases from non-EU countries.

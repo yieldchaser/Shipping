@@ -244,3 +244,77 @@ The shipbreaking market has been relatively subdued recently, largely due to the
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | SINOKOR HONGKONG | 17,468 | 5,300 | 1996 | IMABARI, Japan | CONTAINER | $ 598/Ldt | Bangladeshi | including ROB 380T |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 12-Apr-24 | 11-Apr-24 | 10-Apr-24 | 9-Apr-24 | 8-Apr-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.499 | 4.576 | 4.560 | 4.366 | 4.424 | 2.8% |
+| Stock Exchange Data | S&P 500 | 5,123.41 | 5,199.06 | 5,160.64 | 5,209.91 | 5,202.39 | -1.6% |
+| Stock Exchange Data | Nasdaq | 18,003.49 | 18,307.98 | 18,011.66 | 18,169.91 | 18,100.19 | -0.6% |
+| Stock Exchange Data | Dow Jones | 37,983.24 | 38,459.08 | 38,461.51 | 38,883.94 | 38,892.80 | -2.4% |
+| Stock Exchange Data | FTSE 100 | 7,995.58 | 7,923.80 | 7,961.21 | 7,934.79 | 7,943.47 | 1.1% |
+| Stock Exchange Data | FTSE All-Share UK | 4,353.66 | 4,322.37 | 4,339.84 | 4,326.48 | 4,333.28 | 0.9% |
+| Stock Exchange Data | CAC40 | 8,010.83 | 8,023.74 | 8,045.38 | 8,049.17 | 8,119.30 | -0.6% |
+| Stock Exchange Data | Xetra Dax | 17,930.32 | 17,954.48 | 18,097.30 | 18,076.69 | 18,318.97 | -1.3% |
+| Stock Exchange Data | Nikkei | 39,523.55 | 39,442.63 | 39,581.81 | 39,773.13 | 39,347.04 | 1.4% |
+| Stock Exchange Data | Hang Seng | 16,721.69 | 17,095.03 | 37,703.32 | 16,828.07 | 16,732.85 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 321.39 | 325.13 | 325.76 | 328.25 | 326.78 | -0.9% |
+| Currencies | € / $ | 1.06 | 1.07 | 1.07 | 1.09 | 1.09 | -1.8% |
+| Currencies | £ / $ | 1.25 | 1.26 | 1.25 | 1.27 | 1.27 | -1.5% |
+| Currencies | $ / ¥ | 153.28 | 153.27 | 153.17 | 151.77 | 151.79 | 1.1% |
+| Currencies | $ / NoK | 10.90 | 10.83 | 10.82 | 10.67 | 10.68 | 1.7% |
+| Currencies | Yuan / $ | 7.24 | 7.24 | 7.23 | 7.23 | 7.23 | 0.1% |
+| Currencies | Won / $ | 1,379.69 | 1,367.01 | 1,363.43 | 1,351.03 | 1,353.78 | 2.1% |
+| Currencies | $ INDEX | 106.04 | 105.28 | 105.25 | 104.15 | 104.14 | 1.7% |
+
+## Bunker Prices
+
+| Grade | Port | 12-Apr-24 | 5-Apr-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 793.0 | 810.0 | -2.1% |
+| MGO | Houston | 490.0 | 500.0 | -2.0% |
+| MGO | Singapore | 809.0 | 810.0 | -0.1% |
+| 380cst | Rotterdam | 488.0 | 508.0 | -3.9% |
+| 380cst | Houston | 490.0 | 500.0 | -2.0% |
+| 380cst | Singapore | 510.0 | 510.0 | 0.0% |
+| VLSFO | Rotterdam | 616.0 | 620.0 | -0.6% |
+| VLSFO | Houston | 631.0 | 647.0 | -2.5% |
+| VLSFO | Singapore | 646.0 | 647.0 | -0.2% |
+
+## Oil Prices
+
+| Category | Indicator | 12-Apr-24 | 5-Apr-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 90.5 | 91.2 | -0.8% |
+| OIL | WTI | 85.7 | 86.9 | -1.4% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 12-Apr-24 | 05-Apr-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 16.48 | 17.19 | -4.1% |
+| COSTAMARE INC | NYSE | USD | 11.01 | 11.42 | -3.6% |
+| DANAOS CORPORATION | NYSE | USD | 72.26 | 73.90 | -2.2% |
+| DIANA SHIPPING | NYSE | USD | 2.91 | 2.95 | -1.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 35.24 | 37.05 | -4.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.16 | 2.15 | 0.5% |
+| SAFE BULKERS INC | NYSE | USD | 4.71 | 4.90 | -3.9% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 8.71 | 8.24 | 5.7% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 23.09 | 23.88 | -3.3% |
+| STEALTHGAS INC | NASDAQ | USD | 5.91 | 6.05 | -2.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 25.35 | 26.38 | -3.9% |
+
+## Macro-economic headlines
+
+• In the euro area, the ECB left interest rate unchanged at 4.75% in the latest meeting. German Industrial Production was up in February by 2.1% on the month. On the CPI front, German CPI was up 2.2% on the year and 0.4% up on the month in March.
+
+• In US, CPI rose by 3,5% yearly on March, while it gained 0.4% on a monthly basis. On the PPI front, the metric rose by 0.2% in March compared to the previous month.
+
+• In UK, the March S&P Global/CIPS UK Composite PMI slightly decreased to 52.8, down from 53.0 in March.
+
+• In China, CPI for March was up by 0.1% on an annual basis in March but fell by 1% on the month. As far as PPI is concerned, it fell by 2.8% on an annual basis in March.

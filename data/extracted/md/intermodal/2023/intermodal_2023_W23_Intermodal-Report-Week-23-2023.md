@@ -235,3 +235,72 @@ The demolition market had another solid week with sales mainly in India. In term
 | MSC NICOLE | 41,787 | 13,961 | 1989 | NORMED DU LITTORAL, France | CONTAINER | $ 521/Ldt | Indian | HKC |
 | OCEAN PHENIX | 2,858 | 2,529 | 1992 | ISHIKAWAJIMA, Japan | GAS TANKER | undisclosed | Indian |  |
 | ERA | 2,550 | undisclosed | 1983 | ANKERLOKKEN VERFT, NORWAY | OFFSHORE | undisclosed | Pakistani |  |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 9-Jun-23 | 8-Jun-23 | 7-Jun-23 | 6-Jun-23 | 5-Jun-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.745 | 3.714 | 3.784 | 3.699 | 3.693 | 1.5% |
+| Stock Exchange Data | S&P 500 | 4,298.86 | 4,293.93 | 4,267.52 | 4,283.85 | 3,990.97 | 0.4% |
+| Stock Exchange Data | Nasdaq | 13,259.14 | 13,238.52 | 13,104.90 | 13,276.42 | 13,229.43 | 0.1% |
+| Stock Exchange Data | Dow Jones | 33,876.78 | 33,833.61 | 33,665.02 | 33,573.28 | 33,562.86 | 0.3% |
+| Stock Exchange Data | FTSE 100 | 7,562.36 | 7,599.74 | 7,624.34 | 7,628.10 | 7,599.99 | -0.6% |
+| Stock Exchange Data | FTSE All-Share UK | 4,133.32 | 4,150.90 | 4,163.52 | 4,167.20 | 4,150.89 | -0.5% |
+| Stock Exchange Data | CAC40 | 7,213.14 | 7,222.15 | 7,202.79 | 7,209.00 | 7,200.91 | -0.8% |
+| Stock Exchange Data | Xetra Dax | 15,949.84 | 15,989.96 | 15,960.56 | 15,992.44 | 15,963.89 | -0.1% |
+| Stock Exchange Data | Nikkei | 32,265.17 | 31,641.27 | 31,913.74 | 32,506.78 | 32,217.43 | 0.1% |
+| Stock Exchange Data | Hang Seng | 22,044.65 | 19,299.18 | 19,252.00 | 19,099.28 | 19,108.50 | 0.0% |
+| Stock Exchange Data | DJ US Maritime | 246.09 | 250.82 | 250.82 | 246.85 | 244.22 | 0.8% |
+| Currencies | € / $ | 1.08 | 1.08 | 1.07 | 1.07 | 1.07 | 0.4% |
+| Currencies | £ / $ | 1.26 | 1.26 | 1.24 | 1.24 | 1.24 | 0.9% |
+| Currencies | $ / ¥ | 139.41 | 138.88 | 139.91 | 139.53 | 139.38 | -0.4% |
+| Currencies | $ / NoK | 0.0930 | 0.0917 | 0.0905 | 0.0901 | 0.0906 | 1.8% |
+| Currencies | Yuan / $ | 7.13 | 7.11 | 7.13 | 7.12 | 7.11 | 0.6% |
+| Currencies | Won / $ | 1,287.68 | 1,296.68 | 1,308.67 | 1,299.55 | 1,300.89 | -1.4% |
+| Currencies | $ INDEX | 103.56 | 103.34 | 104.10 | 104.13 | 104.00 | -0.4% |
+
+## Bunker Prices
+
+| Grade | Port | 9-Jun-23 | 2-Jun-23 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,066.0 | 1,060.5 | 0.5% |
+| MGO | Houston | 1,116.5 | 1,178.5 | -5.3% |
+| MGO | Singapore | 1,068.5 | 1,076.5 | -0.7% |
+| 380cst | Rotterdam | 409.0 | 397.0 | 3.0% |
+| 380cst | Houston | 432.5 | 462.0 | -6.4% |
+| 380cst | Singapore | 420.5 | 400.5 | 5.0% |
+| VLSFO | Rotterdam | 652.0 | 663.0 | -1.7% |
+| VLSFO | Houston | 682.5 | 674.5 | 1.2% |
+| VLSFO | Singapore | 700.0 | 720.5 | -2.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 09-Jun-23 | 02-Jun-23 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 14.05 | 13.29 | 5.7% |
+| COSTAMARE INC | NYSE | USD | 9.05 | 8.27 | 9.4% |
+| DANAOS CORPORATION | NYSE | USD | 64.94 | 60.99 | 6.5% |
+| DIANA SHIPPING | NYSE | USD | 3.78 | 3.90 | -3.1% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 43.25 | 42.24 | 2.4% |
+| EUROSEAS LTD. | NASDAQ | USD | 21.48 | 21.47 | 0.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 0.91 | 0.93 | -2.2% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 1.75 | 1.74 | 0.6% |
+| SAFE BULKERS INC | NYSE | USD | 3.30 | 3.42 | -3.5% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 1.07 | 1.08 | -0.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 18.12 | 18.64 | -2.8% |
+| STEALTHGAS INC | NASDAQ | USD | 3.12 | 3.09 | 1.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.17 | 18.10 | -5.1% |
+
+## Macro-economic headlines
+
+• In the US, ISM Services index fell to 50.3 in May, from 51.9 in April. This comes after he contraction in manufacturing indices last week. At the same time, initial jobless claims for the week rose to 261k, the highest since October 2021.
+
+• In EU, the services PMI fell to 55.1 in May, from 56.2 in April. The Q1 GDP growth was at -0.1%, which means that Eurozone was on a technical recession after two consecutive quarterly GDP contractions.
+
+• In Australia, the central bank hiked interest rates to 4.1% (+25bps).
+
+• In China, exports in May were down 7,5% y-o-y. CPI increased by 0.2% y-o-y and PPI decreased by -4.6% y-o-y in May.

@@ -344,3 +344,77 @@ The ongoing Russia-Ukraine war continues to strengthen the offered scrap levels 
 | CLIPPER ODIN | 29,216 | 11,957 | 2005 | DAEWOO, S. Korea | GAS TANKER | undisclosed | Bangladeshi |  |
 
 © Intermodal Research 15/03/2022 8
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 11-Mar-22 | 10-Mar-22 | 9-Mar-22 | 8-Mar-22 | 7-Mar-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 2.004 | 2.011 | 1.948 | 1.872 | 1.751 | 16.2% |
+| Stock Exchange Data | S&P 500 | 4,204.31 | 4,259.52 | 4,277.88 | 4,170.70 | 4,328.87 | -2.9% |
+| Stock Exchange Data | Nasdaq | 12,843.81 | 13,129.96 | 13,255.55 | 12,795.55 | 12,830.96 | -3.5% |
+| Stock Exchange Data | Dow Jones | 32,944.19 | 33,174.07 | 33,286.25 | 32,632.64 | 32,817.38 | -2.0% |
+| Stock Exchange Data | FTSE 100 | 7,155.64 | 7,099.09 | 7,190.72 | 6,964.11 | 6,959.48 | 2.4% |
+| Stock Exchange Data | FTSE All-Share UK | 3,988.90 | 3,954.30 | 3,999.43 | 3,867.24 | 3,862.39 | 2.7% |
+| Stock Exchange Data | CAC40 | 6,260.25 | 6,207.20 | 6,387.83 | 5,962.96 | 5,982.27 | 3.3% |
+| Stock Exchange Data | Xetra Dax | 13,628.11 | 13,442.10 | 13,847.93 | 12,831.51 | 12,834.65 | 6.2% |
+| Stock Exchange Data | Nikkei | 25,162.78 | 25,690.40 | 24,717.53 | 24,790.95 | 25,221.41 | -0.2% |
+| Stock Exchange Data | Hang Seng | 20,890.26 | 20,890.26 | 20,627.71 | 20,765.87 | 21,057.63 | -7.0% |
+| Stock Exchange Data | DJ US Maritime | 238.28 | 240.51 | 234.04 | 230.43 | 226.33 | 3.9% |
+| Currencies | € / $ | 1.09 | 1.10 | 1.11 | 1.09 | 1.09 | -0.1% |
+| Currencies | £ / $ | 1.30 | 1.31 | 1.32 | 1.31 | 1.31 | -1.4% |
+| Currencies | $ / ¥ | 117.32 | 116.19 | 115.92 | 115.72 | 115.38 | 2.2% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.11 | 0.11 | 0.11 | -0.2% |
+| Currencies | Yuan / $ | 6.34 | 6.32 | 6.32 | 6.32 | 6.32 | 0.3% |
+| Currencies | Won / $ | 1,237.11 | 1,228.74 | 1,223.28 | 1,234.00 | 1,232.35 | 1.7% |
+| Currencies | $ INDEX | 99.12 | 98.51 | 97.97 | 99.06 | 99.29 | 0.5% |
+
+## Bunker Prices
+
+| Grade | Port | 11-Mar-22 | 4-Mar-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,078.5 | 1,051.0 | 2.6% |
+| MGO | Houston | 1,209.5 | 1,078.0 | 12.2% |
+| MGO | Singapore | 1,007.5 | 1,096.0 | -8.1% |
+| 380cst | Rotterdam | 654.0 | 627.0 | 4.3% |
+| 380cst | Houston | 748.0 | 674.0 | 11.0% |
+| 380cst | Singapore | 632.5 | 619.0 | 2.2% |
+| VLSFO | Rotterdam | 957.0 | 828.5 | 15.5% |
+| VLSFO | Houston | 923.0 | 852.0 | 8.3% |
+| VLSFO | Singapore | 882.5 | 892.5 | -1.1% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 11-Mar-22 | 04-Mar-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.53 | 15.12 | 2.7% |
+| COSTAMARE INC | NYSE | USD | 15.96 | 14.20 | 12.4% |
+| DANAOS CORPORATION | NYSE | USD | 95.13 | 88.97 | 6.9% |
+| DIANA SHIPPING | NYSE | USD | 4.93 | 5.00 | -1.4% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 65.88 | 55.37 | 19.0% |
+| EUROSEAS LTD. | NASDAQ | USD | 28.72 | 28.78 | -0.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.13 | 2.08 | 2.4% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 3.76 | 3.67 | 2.5% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 36.49 | 31.45 | 16.0% |
+| SAFE BULKERS INC | NYSE | USD | 4.62 | 4.27 | 8.2% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.28 | 1.14 | 12.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 30.13 | 28.27 | 6.6% |
+| STEALTHGAS INC | NASDAQ | USD | 2.21 | 2.49 | -11.2% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 8.08 | 10.04 | -19.5% |
+
+## Market News
+
+“Seanergy Maritime pays first dividend since 2008 after record quarter
+
+The final three months of 2021 were so good for Seanergy Maritime Holdings that the capesize owner is rewarding shareholders with a bumper payout.
+
+Last year was the Nasdaq-listed firm’s best ever, according to its chief executive.
+
+Seanergy is paying out $0.05 per share for the last three months of 2021, comprising a quarterly dividend of $0.025 plus the same amount in a special dividend. The firm has not paid a dividend to shareholders since 2008.
+
+It has also spent $5m on additional repurchases of its outstanding 5.5% convertible note. The prepayment was effected on Thursday, which follows another $5m repurchase made in January.
+
+Stamatis Tsantanis, Seanergy’s chairman and CEO, said the company remains committed to “distributing a significant portion of our earnings” to shareholders, but said any future payouts will be subject to performance and the decision of its board...”(TradeWinds)

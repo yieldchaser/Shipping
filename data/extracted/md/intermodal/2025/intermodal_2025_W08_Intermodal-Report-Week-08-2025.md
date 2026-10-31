@@ -223,3 +223,77 @@ Ship recycling markets experienced a generally muted performance last week, amid
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | EPONYMA | 6,013 | 2,689 | 1993 | HAKATA, Japan | GENERAL CARGO | undisclosed | undisclosed | as is Singapore |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 21-Feb-25 | 20-Feb-25 | 19-Feb-25 | 18-Feb-25 | 17-Feb-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.420 | 4.499 | 4.535 | 4.544 | 4.476 | -1.3% |
+| Stock Exchange Data | S&P 500 | 6,013.13 | 6,117.52 | 6,144.15 | 6,129.58 | 6,114.63 | -1.7% |
+| Stock Exchange Data | Nasdaq | 21,614.08 | 22,068.06 | 22,175.60 | 22,164.61 | 22,114.69 | -2.3% |
+| Stock Exchange Data | Dow Jones | 43,428.02 | 44,176.65 | 44,627.59 | 44,556.34 | 44,546.08 | -2.5% |
+| Stock Exchange Data | FTSE 100 | 8,659.37 | 8,662.97 | 8,712.53 | 8,766.73 | 8,768.01 | -0.8% |
+| Stock Exchange Data | FTSE All-Share UK | 4,693.35 | 4,694.99 | 4,721.15 | 4,751.49 | 4,753.94 | -0.9% |
+| Stock Exchange Data | CAC40 | 8,154.51 | 8,122.58 | 8,110.54 | 8,206.56 | 8,189.13 | -0.3% |
+| Stock Exchange Data | Xetra Dax | 22,287.56 | 22,314.65 | 22,433.63 | 22,844.50 | 22,798.09 | -1.0% |
+| Stock Exchange Data | Nikkei | 38,776.94 | 38,678.04 | 39,164.61 | 39,270.40 | 39,174.25 | -1.0% |
+| Stock Exchange Data | Hang Seng | 23,477.92 | 22,576.98 | 22,944.24 | 22,976.81 | 22,616.23 | 3.8% |
+| Stock Exchange Data | DJ US Maritime | 337.58 | 348.44 | 354.64 | 360.85 | 355.86 | -5.1% |
+| Currencies | € / $ | 1.05 | 1.05 | 1.04 | 1.04 | 1.05 | -0.3% |
+| Currencies | £ / $ | 1.26 | 1.27 | 1.26 | 1.26 | 1.26 | 0.4% |
+| Currencies | $ / ¥ | 149.29 | 149.63 | 151.47 | 152.05 | 151.50 | -2.0% |
+| Currencies | $ / NoK | 11.11 | 11.09 | 11.12 | 11.15 | 11.10 | 0.1% |
+| Currencies | Yuan / $ | 7.25 | 7.26 | 7.28 | 7.28 | 7.26 | 0.0% |
+| Currencies | Won / $ | 1,433.00 | 1,430.70 | 1,439.00 | 1,440.71 | 1,441.28 | -0.4% |
+| Currencies | $ INDEX | 106.61 | 106.37 | 107.17 | 107.05 | 106.58 | -0.1% |
+
+## Bunker Prices
+
+| Grade | Port | 21-Feb-25 | 14-Feb-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 675.0 | 667.0 | 1.2% |
+| MGO | Houston | 725.0 | 726.0 | -0.1% |
+| MGO | Singapore | 682.0 | 682.0 | 0.0% |
+| 380cst | Rotterdam | 474.0 | 466.0 | 1.7% |
+| 380cst | Houston | 454.0 | 453.0 | 0.2% |
+| 380cst | Singapore | 501.0 | 496.0 | 1.0% |
+| VLSFO | Rotterdam | 531.0 | 532.0 | -0.2% |
+| VLSFO | Houston | 551.0 | 556.0 | -0.9% |
+| VLSFO | Singapore | 567.0 | 570.0 | -0.5% |
+
+## Oil Prices
+
+| Category | Indicator | 21-Feb-25 | 14-Feb-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 74.4 | 74.7 | -0.4% |
+| OIL | WTI | 70.4 | 70.7 | -0.5% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 21-Feb-25 | 14-Feb-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 18.12 | 18.30 | -1.0% |
+| COSTAMARE INC | NYSE | USD | 10.47 | 10.65 | -1.7% |
+| DANAOS CORPORATION | NYSE | USD | 84.72 | 83.97 | 0.9% |
+| DIANA SHIPPING | NYSE | USD | 1.82 | 1.83 | -0.5% |
+| EUROSEAS LTD. | NASDAQ | USD | 33.83 | 34.13 | -0.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.33 | 1.29 | 3.5% |
+| SAFE BULKERS INC | NYSE | USD | 3.73 | 3.59 | 3.9% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 7.01 | 7.00 | 0.1% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 15.35 | 16.10 | -4.7% |
+| STEALTHGAS INC | NASDAQ | USD | 5.98 | 5.56 | 7.6% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 16.83 | 17.36 | -3.1% |
+
+## Macro-economic headlines
+
+In Eurozone the CPI in January increased by 2.5% y-o-y, matching market forecasts and slightly higher than in December’s 2.4% rise.
+
+In China, the PBOC loan prime rate remained unchanged, at 3.10%, in line with market expectations.
+
+In Japan, the National CPI, rose by 3.2% in January, slightly above market estimations of 3.1% and surpassing December’s figure of 3.0%..
+
+In Germany, the Business Expectations Index reached 85.4 in February, marginally exceeding market projections of 85.2 and improving from January’s reading of 84.2.

@@ -312,3 +312,79 @@ Dry bulk units have caught the attention of some scrap yards as the recent downw
 | CHANG SHENG | 75,752 | 9,824 | 1998 | SANOYAS HISHINO, Japan | BC | $ 595/Ldt | undisclosed | "as is" Singapore |
 
 © Intermodal Research 13/09/2022 6
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 9-Sep-22 | 8-Sep-22 | 7-Sep-22 | 6-Sep-22 | 5-Sep-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.273 | 3.231 | 3.323 | 3.250 | 3.258 | 0.5% |
+| Stock Exchange Data | S&P 500 | 4,067.36 | 4,067.36 | 4,006.18 | 3,979.87 | 3,924.26 | 3.6% |
+| Stock Exchange Data | Nasdaq | 12,112.31 | 12,112.31 | 11,862.13 | 11,791.90 | 11,544.91 | 4.1% |
+| Stock Exchange Data | Dow Jones | 32,151.71 | 32,151.71 | 31,774.52 | 31,581.28 | 31,145.30 | 2.7% |
+| Stock Exchange Data | FTSE 100 | 7,351.07 | 7,262.06 | 7,237.83 | 7,300.44 | 7,287.43 | 1.0% |
+| Stock Exchange Data | FTSE All-Share UK | 4,041.46 | 3,990.56 | 3,976.83 | 4,005.61 | 3,993.66 | 1.1% |
+| Stock Exchange Data | CAC40 | 6,212.33 | 6,125.90 | 6,105.92 | 6,104.61 | 6,093.22 | 0.7% |
+| Stock Exchange Data | Xetra Dax | 13,088.21 | 12,904.32 | 12,915.97 | 12,871.44 | 12,760.78 | 2.6% |
+| Stock Exchange Data | Nikkei | 28,214.75 | 28,065.28 | 27,430.30 | 27,626.51 | 27,619.61 | 2.2% |
+| Stock Exchange Data | Hang Seng | 18,854.62 | 18,854.62 | 19,044.30 | 19,202.73 | 19,225.70 | -3.8% |
+| Stock Exchange Data | DJ US Maritime | 226.49 | 223.41 | 219.34 | 218.98 | 219.54 | 3.2% |
+| Currencies | € / $ | 1.02 | 1.00 | 1.00 | 0.99 | 1.00 | 2.0% |
+| Currencies | £ / $ | 1.16 | 1.15 | 1.15 | 1.15 | 1.16 | 0.8% |
+| Currencies | $ / ¥ | 142.51 | 143.86 | 144.13 | 143.15 | 140.44 | 1.6% |
+| Currencies | $ / NoK | 0.10 | 0.10 | 0.10 | 0.10 | 0.10 | 0.3% |
+| Currencies | Yuan / $ | 6.93 | 6.96 | 6.97 | 6.95 | 6.93 | 0.4% |
+| Currencies | Won / $ | 1,380.06 | 1,384.10 | 1,374.65 | 1,378.51 | 1,367.32 | 1.3% |
+| Currencies | $ INDEX | 108.97 | 109.52 | 109.69 | 110.34 | 109.60 | -0.6% |
+
+## Bunker Prices
+
+| Grade | Port | 9-Sep-22 | 2-Sep-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,063.5 | 1,098.5 | -3.2% |
+| MGO | Houston | 1,095.5 | 1,119.0 | -2.1% |
+| MGO | Singapore | 1,071.5 | 1,049.5 | 2.1% |
+| 380cst | Rotterdam | 429.0 | 455.0 | -5.7% |
+| 380cst | Houston | 478.5 | 515.5 | -7.2% |
+| 380cst | Singapore | 405.0 | 451.5 | -10.3% |
+| VLSFO | Rotterdam | 654.5 | 679.0 | -3.6% |
+| VLSFO | Houston | 679.0 | 713.5 | -4.8% |
+| VLSFO | Singapore | 670.5 | 699.0 | -4.1% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 09-Sep-22 | 02-Sep-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.50 | 15.54 | -0.3% |
+| COSTAMARE INC | NYSE | USD | 11.08 | 11.08 | 0.0% |
+| DANAOS CORPORATION | NYSE | USD | 70.02 | 67.31 | 4.0% |
+| DIANA SHIPPING | NYSE | USD | 4.91 | 4.82 | 1.9% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 43.58 | 43.52 | 0.1% |
+| EUROSEAS LTD. | NASDAQ | USD | 24.00 | 23.21 | 3.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.69 | 1.60 | 5.6% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.45 | 2.16 | 13.4% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 26.29 | 26.15 | 0.5% |
+| SAFE BULKERS INC | NYSE | USD | 3.26 | 3.21 | 1.6% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.54 | 0.53 | 1.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 20.47 | 19.89 | 2.9% |
+| STEALTHGAS INC | NASDAQ | USD | 3.10 | 3.03 | 2.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 17.84 | 15.40 | 15.8% |
+
+## Market News
+
+“Goldman Sachs cuts Global Ship Lease stake by 49% in a month
+
+Goldman Sachs has reduced its investment in container ship owner Global Ship Lease (GSL) by 49% a month, after acquiring the position in late July, according to regulatory documents.
+
+The New York-based investment bank sold 1.92m shares of Ian Webber-led GSL on 31 August after revealing a 3.9m shares on 29 July, filings with the US Securities and Exchange Commission show.
+
+That means Goldman Sachs lowered its stake from 10.6% to 5.4% in about four weeks, though the bank still remains GSL’s top shareholder as of Friday, according to Fintel.
+
+The moves come on the back of Goldman Sachs’ May deal with CMA GCM to buy up the liner operator’s shares in GSL.
+
+With GSL’s share price at $19.78 on Friday’s close, its remaining stake is worth almost $38m.
+
+As TradeWinds has reported, CMA CGM sold a remaining 3.05m GSL shares worth $54.5m on 5 August...(TradeWinds)

@@ -238,3 +238,77 @@ Pakistan's ship recycling market remains relatively well positioned within the S
 | USD/INR | 95.11 | 94.95 | 0.17% | 95.97 |
 | USD/PKR | 278.30 | 278.55 | -0.09% | 280.05 |
 | USD/TRY | 46.27 | 46.05 | 0.48% | 46.27 |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 12-Jun-26 | 11-Jun-26 | 10-Jun-26 | 9-Jun-26 | 8-Jun-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.485 | 4.465 | 4.540 | 4.528 | 4.550 | -1.1% |
+| Stock Exchange Data | S&P 500 | 7,431.46 | 7,394.30 | 7,266.99 | 7,386.65 | 7,405.73 | 0.6% |
+| Stock Exchange Data | Nasdaq | 29,635.95 | 29,446.18 | 28,508.03 | 29,084.50 | 29,414.26 | 2.3% |
+| Stock Exchange Data | Dow Jones | 51,202.26 | 50,848.75 | 49,918.78 | 50,872.11 | 50,786.01 | 0.7% |
+| Stock Exchange Data | FTSE 100 | 10,471.72 | 10,303.88 | 10,254.81 | 10,227.33 | 10,373.20 | 1.0% |
+| Stock Exchange Data | FTSE All-Share UK | 5,630.91 | 5,541.44 | 5,517.44 | 5,501.19 | 5,575.22 | 1.0% |
+| Stock Exchange Data | CAC40 | 8,350.87 | 8,200.80 | 8,161.83 | 8,203.43 | 8,199.29 | 1.6% |
+| Stock Exchange Data | Xetra Dax | 24,635.30 | 24,209.71 | 24,195.31 | 24,433.06 | 24,616.22 | -0.5% |
+| Stock Exchange Data | Nikkei | 66,020.04 | 64,217.27 | 64,179.27 | 65,416.63 | 64,024.60 | -0.9% |
+| Stock Exchange Data | Hang Seng | 24,718.10 | 24,249.29 | 24,407.96 | 24,565.90 | 24,657.06 | -1.0% |
+| Stock Exchange Data | DJ US Maritime | 470.78 | 460.60 | 458.11 | 469.60 | 464.90 | 1.7% |
+| Currencies | € / $ | 1.16 | 1.16 | 1.15 | 1.15 | 1.15 | 0.4% |
+| Currencies | £ / $ | 1.34 | 1.34 | 1.34 | 1.34 | 1.33 | 0.5% |
+| Currencies | $ / ¥ | 160.21 | 159.92 | 160.53 | 160.36 | 160.17 | 0.0% |
+| Currencies | $ / NoK | 9.50 | 9.47 | 9.46 | 9.51 | 9.47 | 0.6% |
+| Currencies | Yuan / $ | 6.76 | 6.78 | 6.77 | 6.77 | 6.78 | 0.0% |
+| Currencies | Won / $ | 1,517.76 | 1,515.83 | 1,522.31 | 1,522.48 | 1,526.40 | -2.7% |
+| Currencies | $ INDEX | 99.75 | 99.86 | 99.95 | 99.91 | 100.05 | -0.3% |
+
+## Bunker Prices
+
+| Grade | Port | 12-Jun-26 | 5-Jun-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 988.8 | 1,029.8 | -4.0% |
+| MGO | Houston | 986.8 | 1,133.5 | -12.9% |
+| MGO | Singapore | 997.5 | 1,099.3 | -9.3% |
+| 380cst | Rotterdam | 515.5 | 580.8 | -11.2% |
+| 380cst | Houston | 557.3 | 612.0 | -8.9% |
+| 380cst | Singapore | 582.8 | 613.8 | -5.1% |
+| VLSFO | Rotterdam | 615.8 | 663.8 | -7.2% |
+| VLSFO | Houston | 686.3 | 730.0 | -6.0% |
+| VLSFO | Singapore | 699.3 | 779.3 | -10.3% |
+
+## Oil Prices
+
+| Category | Indicator | 12-Jun-26 | 5-Jun-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 87.3 | 93.1 | -6.2% |
+| OIL | WTI | 84.9 | 90.5 | -6.3% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 12-Jun-26 | 05-Jun-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 21.36 | 22.21 | -3.8% |
+| COSTAMARE INC | NYSE | USD | 16.60 | 15.99 | 3.8% |
+| DANAOS CORPORATION | NYSE | USD | 131.30 | 129.17 | 1.6% |
+| DIANA SHIPPING | NYSE | USD | 2.39 | 2.34 | 2.1% |
+| EUROSEAS LTD. | NASDAQ | USD | 71.52 | 66.43 | 7.7% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.35 | 2.09 | 12.4% |
+| SAFE BULKERS INC | NYSE | USD | 6.90 | 6.50 | 6.2% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 16.54 | 15.45 | 7.1% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 27.15 | 27.32 | -0.6% |
+| STEALTHGAS INC | NASDAQ | USD | 9.65 | 9.62 | 0.3% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 38.77 | 37.00 | 4.8% |
+
+## Macro-economic headlines
+
+In China, CPI increased by 1.2% y-o-y in May, unchanged from the previous month and slightly below the 1.3% forecast. Meanwhile, industrial production rose by 4.5% y-o-y, marginally above expectations of 4.4% and up from 4.1% in April.
+
+In the United States, PPI rose by 6.5% y-o-y in May, slightly above the 6.4% forecast and accelerating from 6.0% in April.
+
+In the Eurozone, the ECB lifted interest rates by 25 bps in June, marking the first rate increase since 2023, as it sought to contain inflationary pressures. The benchmark interest rate rose to 2.40%, while the deposit facility rate increased to 2.25%, both in line with market estimations.
+
+In Germany, CPI was recorded at 2.6% y-o-y in May, in line with market expectations and below April’s 2.9%.

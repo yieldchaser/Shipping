@@ -322,3 +322,82 @@ The demolition market activity took a short break last week amid the Diwali cele
 | WIN LOTUS | 7,078 | 2,468 | 1990 | KURINOURA, Japan | TANKER | $ 695/Ldt | Indian | St-St |
 
 © Intermodal Research 09/11/2021 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 5-Nov-21 | 4-Nov-21 | 3-Nov-21 | 2-Nov-21 | 1-Nov-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.453 | 1.453 | 1.524 | 1.579 | 1.549 | -6.7% |
+| Stock Exchange Data | S&P 500 | 4,697.53 | 4,680.06 | 4,660.57 | 4,630.65 | 4,605.38 | 2.0% |
+| Stock Exchange Data | Nasdaq | 15,971.59 | 15,940.31 | 15,811.58 | 15,649.60 | 15,595.92 | 3.1% |
+| Stock Exchange Data | Dow Jones | 36,327.95 | 36,124.23 | 36,157.58 | 36,052.63 | 35,913.84 | 1.4% |
+| Stock Exchange Data | FTSE 100 | 7,303.96 | 7,279.91 | 7,248.89 | 7,274.81 | 7,288.62 | 0.9% |
+| Stock Exchange Data | FTSE All-Share UK | 4,175.97 | 4,160.90 | 4,135.30 | 4,148.09 | 4,156.48 | 1.1% |
+| Stock Exchange Data | CAC40 | 7,040.79 | 6,987.79 | 6,950.65 | 6,927.03 | 6,893.29 | 3.1% |
+| Stock Exchange Data | Xetra Dax | 16,054.36 | 16,029.65 | 15,959.98 | 15,954.45 | 15,806.29 | 1.6% |
+| Stock Exchange Data | Nikkei | 29,611.57 | 29,611.57 | 29,794.37 | 29,520.90 | 29,647.08 | -0.1% |
+| Stock Exchange Data | Hang Seng | 25,225.19 | 25,225.19 | 25,024.75 | 25,099.67 | 25,154.32 | -1.3% |
+| Stock Exchange Data | DJ US Maritime | 193.24 | 188.45 | 189.04 | 183.59 | 180.31 | 12.3% |
+| Currencies | € / $ | 1.16 | 1.16 | 1.16 | 1.16 | 1.16 | 0.0% |
+| Currencies | £ / $ | 1.35 | 1.35 | 1.37 | 1.36 | 1.37 | -1.4% |
+| Currencies | $ / ¥ | 113.42 | 113.85 | 114.06 | 113.97 | 114.11 | -0.5% |
+| Currencies | $ / NoK | 0.12 | 0.12 | 0.12 | 0.12 | 0.12 | -1.6% |
+| Currencies | Yuan / $ | 6.40 | 6.40 | 6.41 | 6.40 | 6.40 | -0.1% |
+| Currencies | Won / $ | 1,181.50 | 1,185.93 | 1,179.91 | 1,179.04 | 1,177.58 | 0.6% |
+| Currencies | $ INDEX | 94.32 | 94.35 | 93.86 | 94.09 | 93.88 | 0.2% |
+
+## Bunker Prices
+
+| Grade | Port | 5-Nov-21 | 29-Oct-21 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 682.5 | 702.5 | -2.8% |
+| MGO | Houston | 734.0 | 744.5 | -1.4% |
+| MGO | Singapore | 700.0 | 704.0 | -0.6% |
+| 380cst | Rotterdam | 439.0 | 465.5 | -5.7% |
+| 380cst | Houston | 462.5 | 480.5 | -3.7% |
+| 380cst | Singapore | 462.0 | 474.0 | -2.5% |
+| VLSFO | Rotterdam | 570.5 | 589.5 | -3.2% |
+| VLSFO | Houston | 587.0 | 623.5 | -5.9% |
+| VLSFO | Singapore | 606.0 | 617.0 | -1.8% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 05-Nov-21 | 29-Oct-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 13.83 | 13.50 | 2.4% |
+| COSTAMARE INC | NYSE | USD | 13.19 | 13.41 | -1.6% |
+| DANAOS CORPORATION | NYSE | USD | 70.84 | 74.60 | -5.0% |
+| DIANA SHIPPING | NYSE | USD | 4.77 | 5.01 | -4.8% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 40.64 | 43.05 | -5.6% |
+| EUROSEAS LTD. | NASDAQ | USD | 31.21 | 31.21 | 0.0% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.89 | 3.03 | -4.6% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 4.93 | 5.63 | -12.4% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 29.14 | 29.93 | -2.6% |
+| SAFE BULKERS INC | NYSE | USD | 3.80 | 4.46 | -14.8% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.09 | 1.11 | -1.8% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.28 | 20.69 | -6.8% |
+| STEALTHGAS INC | NASDAQ | USD | 2.53 | 2.51 | 0.8% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 8.70 | 9.25 | -5.9% |
+| TOP SHIPS INC | NASDAQ | USD | 1.29 | 1.33 | -3.0% |
+
+## Market News
+
+“NYK Line mulls share buyback programme
+
+Japan's NYK Line has told investors it is considering a share buyback programme after reporting soaring profits from its liner subsidiary.
+
+The move would follow AP Moller-Maersk, which announced a $1.6bn share buyback last November, topped up by an additional two-year $5bn programme in May this year.
+
+NYK announced the move as part of its dividend strategy following its half-year earnings statement.
+
+"The year-end dividend will be decided based on the future financial results, financial condition and direction of shareholder returns, and considering additional shareholder returns such as a share buy-back after May 2022," it said.
+
+Shareholders could expect a year-end dividend of about 25%, "or exceeding a pay-out ratio of 25% in the event of a share buyback".
+
+NYK did not offer any further indication of the scale of the possible share buyback.
+
+The Tokyo-listed company announced a half-year ¥411bn ($3.6bn) profit attributable to owners of the parent company, or net profit...”(TradeWinds)

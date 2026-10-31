@@ -271,3 +271,75 @@ The demolition market activity remained weak for another week, with only one dea
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ICE RUNNER | 14,499 | 7,001 | 1984 | HYUNDAI HEAVY INDS - U, S. Korea | REEFER | $ 587/Ldt | undisclosed |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 26-Jul-24 | 25-Jul-24 | 24-Jul-24 | 23-Jul-24 | 22-Jul-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.243 | 4.256 | 4.286 | 4.239 | 4.260 | 0.1% |
+| Stock Exchange Data | S&P 500 | 5,399.22 | 5,399.22 | 5,427.13 | 5,555.74 | 5,564.41 | -1.9% |
+| Stock Exchange Data | Nasdaq | 18,830.59 | 18,830.59 | 19,032.39 | 19,754.34 | 19,822.87 | -3.5% |
+| Stock Exchange Data | Dow Jones | 40,589.34 | 39,935.07 | 39,853.87 | 40,358.09 | 40,415.44 | 0.7% |
+| Stock Exchange Data | FTSE 100 | 8,186.35 | 8,186.35 | 8,153.69 | 8,167.37 | 8,198.78 | 0.4% |
+| Stock Exchange Data | FTSE All-Share UK | 4,481.63 | 4,481.63 | 4,468.59 | 4,479.49 | 4,495.46 | 0.2% |
+| Stock Exchange Data | CAC40 | 7,427.02 | 7,427.02 | 7,513.73 | 7,598.63 | 7,622.02 | -1.4% |
+| Stock Exchange Data | Xetra Dax | 18,298.72 | 18,298.72 | 18,387.46 | 18,557.70 | 18,407.07 | 0.7% |
+| Stock Exchange Data | Nikkei | 37,667.41 | 37,869.51 | 39,154.85 | 39,594.39 | 39,599.00 | -6.0% |
+| Stock Exchange Data | Hang Seng | 17,021.31 | 17,004.97 | 17,311.05 | 17,469.36 | 17,635.88 | -2.3% |
+| Stock Exchange Data | DJ US Maritime | 392.07 | 387.21 | 395.58 | 411.89 | 410.68 | -2.8% |
+| Currencies | € / $ | 1.08 | 1.08 | 1.08 | 1.09 | 1.09 | -0.3% |
+| Currencies | £ / $ | 1.29 | 1.29 | 1.29 | 1.29 | 1.29 | -0.4% |
+| Currencies | $ / ¥ | 153.93 | 153.93 | 153.87 | 155.58 | 157.00 | -2.3% |
+| Currencies | $ / NoK | 11.03 | 11.03 | 11.03 | 11.01 | 10.94 | 1.0% |
+| Currencies | Yuan / $ | 7.23 | 7.23 | 7.26 | 7.27 | 7.27 | -0.5% |
+| Currencies | Won / $ | 1,382.22 | 1,382.22 | 1,382.17 | 1,384.59 | 1,386.99 | -0.5% |
+| Currencies | $ INDEX | 104.36 | 104.36 | 104.39 | 104.45 | 104.31 | 0.0% |
+
+## Bunker Prices
+
+| Grade | Port | 26-Jul-24 | 19-Jul-24 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 706.0 | 709.0 | -0.4% |
+| MGO | Houston | 570.0 | 598.0 | -4.7% |
+| MGO | Singapore | 713.0 | 708.0 | 0.7% |
+| 380cst | Rotterdam | 483.0 | 501.0 | -3.6% |
+| 380cst | Houston | 472.0 | 476.0 | -0.8% |
+| 380cst | Singapore | 506.0 | 508.0 | -0.4% |
+| VLSFO | Rotterdam | 557.0 | 568.0 | -1.9% |
+| VLSFO | Houston | 570.0 | 598.0 | -4.7% |
+| VLSFO | Singapore | 606.0 | 613.0 | -1.1% |
+
+## Oil Prices
+
+| Category | Indicator | 26-Jul-24 | 19-Jul-24 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 82.4 | 82.6 | -0.3% |
+| OIL | WTI | 78.3 | 80.1 | -2.3% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 26-Jul-24 | 19-Jul-24 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 16.70 | 16.55 | 0.9% |
+| COSTAMARE INC | NYSE | USD | 14.29 | 14.36 | -0.5% |
+| DANAOS CORPORATION | NYSE | USD | 84.10 | 84.97 | -1.0% |
+| DIANA SHIPPING | NYSE | USD | 2.68 | 2.81 | -4.6% |
+| EUROSEAS LTD. | NASDAQ | USD | 37.09 | 38.00 | -2.4% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.79 | 1.75 | 2.3% |
+| SAFE BULKERS INC | NYSE | USD | 5.50 | 5.47 | 0.5% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 9.20 | 9.08 | 1.3% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 22.80 | 23.81 | -4.2% |
+| STEALTHGAS INC | NASDAQ | USD | 6.62 | 6.55 | 1.1% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 25.61 | 26.48 | -3.3% |
+
+## Macro-economic headlines
+
+• In the eurozone area, the July HCOB Eurozone Manufacturing PMI was reported at 45.6 down from 45.8 in June.
+
+• In US, the July S&P Global US Manufacturing PMI was reported at 49.5 down from 51.6 in June.
+
+• In German, the July CPI increased by 0.3% m-o-m.

@@ -320,3 +320,79 @@ Breakers scrap levels were under pressure for another week as, despite the short
 > **Chart (not transcribed):** Indicative Demolition Prices ($/ldt). The report prints no values for it.
 
 © Intermodal Research 28/06/2022 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 24-Jun-22 | 23-Jun-22 | 22-Jun-22 | 21-Jun-22 | 20-Jun-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 3.125 | 3.068 | 3.156 | 3.307 | 3.239 | -3.5% |
+| Stock Exchange Data | S&P 500 | 3,911.74 | 3,911.74 | 3,795.73 | 3,759.89 | 3,674.84 | 6.4% |
+| Stock Exchange Data | Nasdaq | 11,607.62 | 11,607.62 | 11,232.19 | 11,053.08 | 11,069.30 | 7.5% |
+| Stock Exchange Data | Dow Jones | 31,500.68 | 31,500.68 | 30,677.36 | 30,483.13 | 30,530.25 | 5.4% |
+| Stock Exchange Data | FTSE 100 | 7,208.81 | 7,020.45 | 7,089.22 | 7,152.05 | 7,121.81 | 2.7% |
+| Stock Exchange Data | FTSE All-Share UK | 3,975.07 | 3,874.68 | 3,913.28 | 3,943.98 | 3,932.64 | 2.4% |
+| Stock Exchange Data | CAC40 | 6,073.35 | 5,883.33 | 5,916.63 | 5,964.66 | 5,920.09 | 3.2% |
+| Stock Exchange Data | Xetra Dax | 13,118.13 | 12,912.59 | 13,144.28 | 13,292.40 | 13,265.60 | -1.1% |
+| Stock Exchange Data | Nikkei | 26,491.97 | 26,171.25 | 26,149.55 | 26,246.31 | 25,771.22 | 2.8% |
+| Stock Exchange Data | Hang Seng | 21,273.87 | 21,273.87 | 21,008.34 | 21,559.59 | 21,163.91 | 2.1% |
+| Stock Exchange Data | DJ US Maritime | 198.40 | 189.80 | 189.27 | 195.47 | 186.74 | 0.2% |
+| Currencies | € / $ | 1.06 | 1.05 | 1.06 | 1.05 | 1.05 | 0.9% |
+| Currencies | £ / $ | 1.23 | 1.23 | 1.22 | 1.23 | 1.23 | 0.4% |
+| Currencies | $ / ¥ | 135.21 | 134.84 | 136.02 | 136.30 | 135.09 | 0.2% |
+| Currencies | $ / NoK | 0.10 | 0.10 | 0.10 | 0.10 | 0.10 | 1.6% |
+| Currencies | Yuan / $ | 6.69 | 6.70 | 6.70 | 6.69 | 6.69 | -0.4% |
+| Currencies | Won / $ | 1,289.29 | 1,300.15 | 1,297.83 | 1,291.96 | 1,292.66 | -0.2% |
+| Currencies | $ INDEX | 104.18 | 104.43 | 104.20 | 104.43 | 104.70 | -0.5% |
+
+## Bunker Prices
+
+| Grade | Port | 24-Jun-22 | 17-Jun-22 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,337.0 | 1,367.0 | -2.2% |
+| MGO | Houston | 1,354.5 | 1,355.5 | -0.1% |
+| MGO | Singapore | 1,356.0 | 1,407.5 | -3.7% |
+| 380cst | Rotterdam | 573.5 | 639.0 | -10.3% |
+| 380cst | Houston | 690.5 | 717.0 | -3.7% |
+| 380cst | Singapore | 589.0 | 623.0 | -5.5% |
+| VLSFO | Rotterdam | 885.0 | 925.5 | -4.4% |
+| VLSFO | Houston | 883.5 | 933.5 | -5.4% |
+| VLSFO | Singapore | 1,077.0 | 1,087.0 | -0.9% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 24-Jun-22 | 17-Jun-22 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 15.41 | 15.32 | 0.6% |
+| COSTAMARE INC | NYSE | USD | 11.50 | 11.95 | -3.8% |
+| DANAOS CORPORATION | NYSE | USD | 62.02 | 67.43 | -8.0% |
+| DIANA SHIPPING | NYSE | USD | 4.57 | 5.02 | -9.0% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 49.28 | 57.46 | -14.2% |
+| EUROSEAS LTD. | NASDAQ | USD | 24.19 | 24.98 | -3.2% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.86 | 1.92 | -3.1% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 2.24 | 2.55 | -12.2% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 22.57 | 23.95 | -5.8% |
+| SAFE BULKERS INC | NYSE | USD | 3.81 | 4.07 | -6.4% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 0.83 | 0.97 | -14.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 24.26 | 26.78 | -9.4% |
+| STEALTHGAS INC | NASDAQ | USD | 3.27 | 3.21 | 1.9% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 9.12 | 8.84 | 3.2% |
+
+## Market News
+
+“Imperial Petroleum runs afoul of Nasdaq share price rules
+
+Following multiple rounds of controversial equity raises, Imperial Petroleum has been handed a share price notice by Nasdaq.
+
+The Harry Vafias-led tanker owner announced after the close on Friday that the company was warned by the exchange on 17 June that its share price had closed below $1 for 30 consecutive days.
+
+“The company intends to monitor the closing bid price of its common stock during this grace period and will consider its options,” Imperial Petroleum said in the announcement.
+
+“The company intends to cure the deficiency within the prescribed grace period. During this time, the company’s common stock will continue to be listed and trade on the Nasdaq capital market.”
+
+Imperial will be considered back in compliance if its shares close at or above $1 for 10 consecutive business days before 14 December.
+
+In the last several weeks, the StealthGas spin-off issued more than 100m shares...(TradeWinds)

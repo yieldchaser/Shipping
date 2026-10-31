@@ -339,3 +339,81 @@ Weakened steel prices across both Bangladesh and Pakistan have shaken the demoli
 | GEO HINDSAGAR | 836 | 2,108 | 1980 | FALKENBERGS, Sweden | RESEARCH | $ 555/Ldt | Indian | as-is Mumbai |
 
 © Intermodal Research 24/08/2021 7
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 20-Aug-21 | 19-Aug-21 | 18-Aug-21 | 17-Aug-21 | 16-Aug-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 1.260 | 1.242 | 1.273 | 1.258 | 1.257 | -2.9% |
+| Stock Exchange Data | S&P 500 | 4,441.67 | 4,405.80 | 4,400.27 | 4,448.08 | 4,468.00 | -0.6% |
+| Stock Exchange Data | Nasdaq | 14,714.66 | 14,541.79 | 14,525.91 | 14,656.18 | 14,793.76 | -0.7% |
+| Stock Exchange Data | Dow Jones | 35,120.08 | 34,894.12 | 34,960.69 | 35,343.28 | 35,625.40 | -1.1% |
+| Stock Exchange Data | FTSE 100 | 7,087.90 | 7,058.86 | 7,169.32 | 7,181.11 | 7,153.98 | -1.8% |
+| Stock Exchange Data | FTSE All-Share UK | 4,082.53 | 4,064.14 | 4,122.61 | 4,123.45 | 4,111.89 | -1.5% |
+| Stock Exchange Data | CAC40 | 6,626.11 | 6,605.89 | 6,770.11 | 6,819.84 | 6,838.77 | -3.9% |
+| Stock Exchange Data | Xetra Dax | 15,808.04 | 15,765.81 | 15,965.97 | 15,921.95 | 15,925.73 | -0.7% |
+| Stock Exchange Data | Nikkei | 27,013.25 | 27,281.17 | 27,585.91 | 27,424.47 | 27,523.19 | -1.9% |
+| Stock Exchange Data | Hang Seng | 25,316.33 | 25,316.33 | 25,867.01 | 25,745.87 | 26,181.46 | -4.5% |
+| Stock Exchange Data | DJ US Maritime | 172.89 | 173.35 | 179.16 | 182.51 | 186.15 | -8.8% |
+| Currencies | € / $ | 1.17 | 1.17 | 1.17 | 1.17 | 1.18 | -0.9% |
+| Currencies | £ / $ | 1.36 | 1.36 | 1.37 | 1.37 | 1.38 | -1.8% |
+| Currencies | $ / ¥ | 109.79 | 109.77 | 109.85 | 109.56 | 109.30 | 0.2% |
+| Currencies | $ / NoK | 0.11 | 0.11 | 0.11 | 0.11 | 0.11 | -2.5% |
+| Currencies | Yuan / $ | 6.50 | 6.49 | 6.48 | 6.49 | 6.47 | 0.4% |
+| Currencies | Won / $ | 1,175.08 | 1,176.36 | 1,170.69 | 1,177.45 | 1,164.50 | 1.1% |
+| Currencies | $ INDEX | 93.50 | 93.57 | 93.14 | 93.13 | 92.63 | 1.1% |
+
+## Bunker Prices
+
+| Grade | Port | 20-Aug-21 | 13-Aug-21 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 544.5 | 569.0 | -4.3% |
+| MGO | Houston | 582.5 | 595.0 | -2.1% |
+| MGO | Singapore | 538.5 | 572.5 | -5.9% |
+| 380cst | Rotterdam | 379.0 | 403.5 | -6.1% |
+| 380cst | Houston | 384.0 | 399.5 | -3.9% |
+| 380cst | Singapore | 390.0 | 412.0 | -5.3% |
+| VLSFO | Rotterdam | 473.0 | 504.0 | -6.2% |
+| VLSFO | Houston | 479.5 | 503.0 | -4.7% |
+| VLSFO | Singapore | 493.5 | 527.0 | -6.4% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 20-Aug-21 | 13-Aug-21 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 11.54 | 11.51 | 0.3% |
+| COSTAMARE INC | NYSE | USD | 11.87 | 12.04 | -1.4% |
+| DANAOS CORPORATION | NYSE | USD | 76.41 | 71.07 | 7.5% |
+| DIANA SHIPPING | NYSE | USD | 4.29 | 4.30 | -0.2% |
+| EAGLE BULK SHIPPING | NASDAQ | USD | 42.23 | 42.35 | -0.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 21.09 | 21.06 | 0.1% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.59 | 2.83 | -8.5% |
+| NAVIOS MARITIME ACQUISITIONS | NYSE | USD | 1.84 | 2.13 | -13.6% |
+| NAVIOS MARITIME HOLDINGS | NYSE | USD | 3.83 | 3.58 | 7.0% |
+| NAVIOS MARITIME PARTNERS LP | NYSE | USD | 23.85 | 25.50 | -6.5% |
+| SAFE BULKERS INC | NYSE | USD | 3.56 | 3.45 | 3.2% |
+| SEANERGY MARITIME HOLDINGS CORP | NASDAQ | USD | 1.07 | 1.17 | -8.5% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 20.31 | 20.48 | -0.8% |
+| STEALTHGAS INC | NASDAQ | USD | 2.38 | 2.61 | -8.8% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 7.15 | 7.56 | -5.4% |
+| TOP SHIPS INC | NASDAQ | USD | 1.15 | 1.39 | -17.3% |
+
+## Market News
+
+“Booming market helps Wallenius Wilhelmsen sell $166m in bonds
+
+Car carrier and terminal owner Wallenius Wilhelmsen has followed a solid second-quarter result by placing a NOK 1.5bn ($166m) unsecured bond.
+
+The "significantly oversubscribed" offering jointly led by Danske Bank, DNB Markets, Nordea, SEB and Swedbank bears a floating interest rate of three-month Nibor plus 3.9%, the company announced on Friday. The bond has a maturity date of 3 March 2026.
+
+Proceeds go to refinancing existing debt and general corporate purposes.
+
+In presentations to potential investors, the car carrier giant detailed a pattern of recovery that has seen the company's results and its markets recover to pre-Covid-19 levels.
+
+The company's fresh second quarter results came in with $17m of net profit, flipping a $69m loss in the second quarter of 2020.
+
+Based on the company's chosen measure of adjusted Ebitda, which corrects for extraordinary items such in other words provisions related to antitrust cases against Wallenius Wilhelmsen, the development of business across the Covid-19 period becomes clearer...”(TradeWinds)

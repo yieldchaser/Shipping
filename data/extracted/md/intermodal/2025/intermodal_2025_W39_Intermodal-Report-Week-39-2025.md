@@ -255,3 +255,77 @@ In Turkey the market witnessed some action after weeks of stagnation, mainly by 
 | RISING HARRIER | 47,195 | 8,690 | 1997 | DAEDONG, S. Korea | BC | $445/Ldt | Pakistani | incl 150 Ts bunkers |
 | PUTERI KIRANA | 43,598 | 8,082 | 1994 | TSUNEISHI, Japan | BC | $390/Ldt | Pakistani | As is Surabaya |
 | NIIGATA TRADER | 13,109 | 4,810 | 1997 | YVC, Netherlands | CONTAINER | $480/Ldt | Indian | incl 120 Ts bunkers ROB |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 26-Sep-25 | 25-Sep-25 | 24-Sep-25 | 23-Sep-25 | 22-Sep-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.187 | 4.174 | 4.147 | 4.118 | 4.145 | 1.2% |
+| Stock Exchange Data | S&P 500 | 6,643.70 | 6,604.72 | 6,637.97 | 6,656.92 | 6,693.75 | -0.3% |
+| Stock Exchange Data | Nasdaq | 24,503.85 | 24,397.31 | 24,503.57 | 24,580.17 | 24,761.07 | -0.5% |
+| Stock Exchange Data | Dow Jones | 46,247.29 | 45,947.32 | 46,121.28 | 46,292.78 | 46,381.54 | -0.1% |
+| Stock Exchange Data | FTSE 100 | 9,284.83 | 9,213.98 | 9,250.43 | 9,223.32 | 9,226.68 | 0.7% |
+| Stock Exchange Data | FTSE All-Share UK | 5,021.32 | 4,985.46 | 5,005.57 | 4,993.00 | 4,991.61 | 0.7% |
+| Stock Exchange Data | CAC40 | 7,870.68 | 7,795.42 | 7,827.45 | 7,872.02 | 7,830.11 | 0.2% |
+| Stock Exchange Data | Xetra Dax | 23,739.47 | 23,534.83 | 23,666.81 | 23,611.33 | 23,527.05 | 0.4% |
+| Stock Exchange Data | Nikkei | 45,354.99 | 45,754.93 | 45,630.31 | 45,464.00 | 45,493.66 | 0.7% |
+| Stock Exchange Data | Hang Seng | 26,128.20 | 26,484.68 | 26,518.65 | 26,159.12 | 26,344.14 | -1.6% |
+| Stock Exchange Data | DJ US Maritime | 278.13 | 276.13 | 273.86 | 283.58 | 281.90 | 0.8% |
+| Currencies | € / $ | 1.17 | 1.17 | 1.17 | 1.18 | 1.18 | -0.4% |
+| Currencies | £ / $ | 1.34 | 1.33 | 1.34 | 1.35 | 1.35 | -0.5% |
+| Currencies | $ / ¥ | 149.49 | 149.79 | 148.90 | 147.62 | 147.71 | 1.0% |
+| Currencies | $ / NoK | 9.96 | 10.03 | 9.93 | 9.88 | 9.91 | 0.3% |
+| Currencies | Yuan / $ | 7.13 | 7.13 | 7.13 | 7.11 | 7.11 | 0.2% |
+| Currencies | Won / $ | 1,409.45 | 1,409.00 | 1,404.76 | 1,394.16 | 1,390.89 | 0.9% |
+| Currencies | $ INDEX | 98.15 | 98.55 | 97.87 | 97.26 | 97.34 | 0.5% |
+
+## Bunker Prices
+
+| Grade | Port | 26-Sep-25 | 19-Sep-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 695.0 | 676.0 | 2.8% |
+| MGO | Houston | 694.0 | 669.0 | 3.7% |
+| MGO | Singapore | 702.0 | 673.0 | 4.3% |
+| 380cst | Rotterdam | 418.0 | 398.0 | 5.0% |
+| 380cst | Houston | 421.0 | 400.0 | 5.3% |
+| 380cst | Singapore | 424.0 | 409.0 | 3.7% |
+| VLSFO | Rotterdam | 463.0 | 461.0 | 0.4% |
+| VLSFO | Houston | 486.0 | 463.0 | 5.0% |
+| VLSFO | Singapore | 497.0 | 482.0 | 3.1% |
+
+## Oil Prices
+
+| Category | Indicator | 26-Sep-25 | 19-Sep-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 70.1 | 66.7 | 5.2% |
+| OIL | WTI | 65.7 | 62.7 | 4.9% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 26-Sep-25 | 19-Sep-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 22.18 | 22.05 | 0.6% |
+| COSTAMARE INC | NYSE | USD | 12.50 | 12.28 | 1.8% |
+| DANAOS CORPORATION | NYSE | USD | 91.95 | 92.60 | -0.7% |
+| DIANA SHIPPING | NYSE | USD | 1.77 | 1.85 | -4.3% |
+| EUROSEAS LTD. | NASDAQ | USD | 61.98 | 62.54 | -0.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.11 | 1.30 | -14.6% |
+| SAFE BULKERS INC | NYSE | USD | 4.60 | 4.53 | 1.5% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 8.65 | 8.77 | -1.4% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 19.27 | 19.70 | -2.2% |
+| STEALTHGAS INC | NASDAQ | USD | 6.74 | 7.02 | -4.0% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 22.84 | 22.72 | 0.5% |
+
+## Macro-economic headlines
+
+In United States, GDP of Q2 2025 expanded by 3.8% q-o-q, surpassing market expectations of 3.3% and reversing the 0.5% contraction seen in Q1.
+
+In China, the Manufacturing PMI read 49.8 in September, slightly above forecasts of 49.6 and August figure of 49.4. Industrial output continued to shrink for the sixth consecutive month, but the rate of contraction eased slightly, as manufacturing firms expect government support to stimulate demand.
+
+In Japan, the Tokyo Core CPI rose by 2.5% y-o-y in September, unchanged from August, but below market expectations of 2.8%.
+
+In India, Industrial Production increased by 4% in August, up from 3.5% in July, yet below market forecasts of 5%.

@@ -260,3 +260,75 @@ The Turkish market continues to be constrained by the ongoing currency depreciat
 | Name | Size | Ldt | Built | Yard | Type | $/ldt | Breakers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | MAYMEI | 44,936 | 9,728 | 1997 | HALLA, S. Korea | TANKER | $510/Ldt | Bangladeshi |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 15-May-26 | 14-May-26 | 13-May-26 | 12-May-26 | 11-May-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.595 | 4.459 | 4.479 | 4.463 | 4.412 | 5.3% |
+| Stock Exchange Data | S&P 500 | 7,408.50 | 7,501.24 | 7,444.25 | 7,400.96 | 7,412.84 | 0.1% |
+| Stock Exchange Data | Nasdaq | 29,125.20 | 29,580.30 | 29,366.94 | 29,064.80 | 29,320.66 | -0.4% |
+| Stock Exchange Data | Dow Jones | 49,526.17 | 50,063.46 | 49,693.20 | 49,760.56 | 49,704.47 | -0.2% |
+| Stock Exchange Data | FTSE 100 | 10,195.37 | 10,372.93 | 10,325.35 | 10,265.32 | 10,269.43 | -0.4% |
+| Stock Exchange Data | FTSE All-Share UK | 5,479.78 | 5,570.37 | 5,539.85 | 5,509.65 | 5,520.95 | -0.4% |
+| Stock Exchange Data | CAC40 | 7,952.55 | 8,082.27 | 8,007.97 | 7,979.92 | 8,056.38 | -2.0% |
+| Stock Exchange Data | Xetra Dax | 23,950.57 | 24,456.26 | 24,136.81 | 23,954.93 | 24,350.28 | -1.6% |
+| Stock Exchange Data | Nikkei | 61,409.29 | 62,654.05 | 63,272.11 | 62,742.57 | 62,417.88 | -2.1% |
+| Stock Exchange Data | Hang Seng | 25,962.73 | 26,389.04 | 26,388.44 | 26,347.91 | 26,406.84 | -1.6% |
+| Stock Exchange Data | DJ US Maritime | 478.26 | 483.75 | 481.55 | 469.63 | 479.54 | 2.4% |
+| Currencies | € / $ | 1.16 | 1.17 | 1.17 | 1.17 | 1.18 | -1.3% |
+| Currencies | £ / $ | 1.33 | 1.34 | 1.35 | 1.35 | 1.36 | -2.3% |
+| Currencies | $ / ¥ | 158.76 | 158.35 | 157.85 | 157.61 | 157.16 | 1.3% |
+| Currencies | $ / NoK | 9.31 | 9.22 | 9.17 | 9.18 | 9.18 | 1.2% |
+| Currencies | Yuan / $ | 6.81 | 6.79 | 6.79 | 6.79 | 6.79 | 0.1% |
+| Currencies | Won / $ | 1,497.73 | 1,493.17 | 1,489.56 | 1,493.19 | 1,473.98 | 2.5% |
+| Currencies | $ INDEX | 99.28 | 98.82 | 98.52 | 98.30 | 97.96 | 1.4% |
+
+## Bunker Prices
+
+| Grade | Port | 15-May-26 | 8-May-26 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 1,218.8 | 1,171.3 | 4.1% |
+| MGO | Houston | 1,211.3 | 1,117.5 | 8.4% |
+| MGO | Singapore | 1,222.3 | 1,158.5 | 5.5% |
+| 380cst | Rotterdam | 711.8 | 677.8 | 5.0% |
+| 380cst | Houston | 668.5 | 623.3 | 7.3% |
+| 380cst | Singapore | 705.0 | 662.8 | 6.4% |
+| VLSFO | Rotterdam | 777.3 | 769.0 | 1.1% |
+| VLSFO | Houston | 856.5 | 788.0 | 8.7% |
+| VLSFO | Singapore | 859.5 | 798.5 | 7.6% |
+
+## Oil Prices
+
+| Category | Indicator | 15-May-26 | 8-May-26 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 109.3 | 101.3 | 7.9% |
+| OIL | WTI | 105.4 | 95.4 | 10.5% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 15-May-26 | 08-May-26 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 20.94 | 20.39 | 2.7% |
+| COSTAMARE INC | NYSE | USD | 17.17 | 17.62 | -2.6% |
+| DANAOS CORPORATION | NYSE | USD | 130.18 | 134.63 | -3.3% |
+| DIANA SHIPPING | NYSE | USD | 2.67 | 2.71 | -1.5% |
+| EUROSEAS LTD. | NASDAQ | USD | 69.64 | 73.19 | -4.9% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 2.07 | 2.17 | -4.6% |
+| SAFE BULKERS INC | NYSE | USD | 7.04 | 7.03 | 0.1% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 15.86 | 16.61 | -4.5% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 26.47 | 26.83 | -1.3% |
+| STEALTHGAS INC | NASDAQ | USD | 10.07 | 9.90 | 1.7% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 42.55 | 43.80 | -2.9% |
+
+## Macro-economic headlines
+
+In Germany, CPI rose by 2.9% y-o-y in April, in line with market expectations and slightly above the March reading of 2.7%.
+
+In the United States, PPI rose by 6% y-o-y in April, above market expectations of 4.9% and the March figure of 4.3%.
+
+• In Japan, PPI accelerated by 4.9% in April, well above market expectations of 3% and the March print of 2.9%. • In China, industrial production increased by 4.1% y-o-y in April, missing market expectations of 6% and slowing from 5.7% in March.

@@ -250,3 +250,77 @@ In Turkey, the market remains largely unchanged from the previous week, though t
 | USD/INR | 88.76 | 88.74 | 0.02% | 88.76 |
 | USD/PKR | 283.23 | 283.33 | -0.04% | 284.95 |
 | USD/TRY | 41.85 | 41.69 | 0.37% | 41.85 |
+
+---
+
+# Commodities & Ship Finance
+
+## Market Data
+
+| Category | Indicator | 10-Oct-25 | 9-Oct-25 | 8-Oct-25 | 7-Oct-25 | 6-Oct-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stock Exchange Data | 10year US Bond | 4.051 | 4.148 | 4.131 | 4.127 | 4.162 | -1.7% |
+| Stock Exchange Data | S&P 500 | 6,552.51 | 6,735.11 | 6,753.72 | 6,714.59 | 6,740.28 | -2.4% |
+| Stock Exchange Data | Nasdaq | 24,221.75 | 25,098.18 | 25,136.62 | 24,840.23 | 24,978.56 | -2.3% |
+| Stock Exchange Data | Dow Jones | 45,479.60 | 46,358.42 | 46,601.78 | 46,602.98 | 46,694.97 | -2.7% |
+| Stock Exchange Data | FTSE 100 | 9,427.47 | 9,509.40 | 9,548.87 | 9,483.58 | 9,479.14 | -0.7% |
+| Stock Exchange Data | FTSE All-Share UK | 5,092.26 | 5,138.16 | 5,156.49 | 5,124.51 | 5,125.18 | -0.8% |
+| Stock Exchange Data | CAC40 | 7,918.00 | 8,041.36 | 8,060.13 | 7,974.85 | 7,971.78 | -2.0% |
+| Stock Exchange Data | Xetra Dax | 24,241.46 | 24,611.25 | 24,597.13 | 24,385.78 | 24,378.29 | -0.6% |
+| Stock Exchange Data | Nikkei | 48,088.80 | 48,580.44 | 47,734.99 | 47,950.88 | 47,944.76 | 5.1% |
+| Stock Exchange Data | Hang Seng | 26,290.32 | 26,752.59 | 26,829.46 | 26,957.77 | 26,957.77 | -3.1% |
+| Stock Exchange Data | DJ US Maritime | 262.44 | 268.25 | 269.92 | 267.66 | 273.83 | -3.6% |
+| Currencies | € / $ | 1.16 | 1.16 | 1.16 | 1.17 | 1.17 | -1.0% |
+| Currencies | £ / $ | 1.34 | 1.33 | 1.34 | 1.34 | 1.35 | -0.9% |
+| Currencies | $ / ¥ | 151.15 | 153.06 | 152.68 | 151.90 | 150.35 | 2.5% |
+| Currencies | $ / NoK | 10.09 | 10.05 | 9.97 | 9.95 | 9.91 | 1.6% |
+| Currencies | Yuan / $ | 7.13 | 7.13 | 7.12 | 7.12 | 7.12 | 0.2% |
+| Currencies | Won / $ | 1,429.04 | 1,422.72 | 1,421.34 | 1,415.87 | 1,410.51 | 1.5% |
+| Currencies | $ INDEX | 98.98 | 99.54 | 98.92 | 98.58 | 98.11 | 1.3% |
+
+## Bunker Prices
+
+| Grade | Port | 10-Oct-25 | 3-Oct-25 | Change % |
+| --- | --- | --- | --- | --- |
+| MGO | Rotterdam | 652.0 | 659.0 | -1.1% |
+| MGO | Houston | 650.0 | 657.0 | -1.1% |
+| MGO | Singapore | 670.0 | 670.0 | 0.0% |
+| 380cst | Rotterdam | 413.0 | 398.0 | 3.8% |
+| 380cst | Houston | 402.0 | 403.0 | -0.2% |
+| 380cst | Singapore | 394.0 | 401.0 | -1.7% |
+| VLSFO | Rotterdam | 421.0 | 428.0 | -1.6% |
+| VLSFO | Houston | 430.0 | 457.0 | -5.9% |
+| VLSFO | Singapore | 463.0 | 475.0 | -2.5% |
+
+## Oil Prices
+
+| Category | Indicator | 10-Oct-25 | 3-Oct-25 | Change % |
+| --- | --- | --- | --- | --- |
+| OIL | Brent | 62.7 | 64.5 | -2.8% |
+| OIL | WTI | 58.9 | 60.9 | -3.3% |
+
+## Maritime Stock Data
+
+| Company | Stock Exchange | Curr. | 10-Oct-25 | 03-Oct-25 | W-O-W Change % |
+| --- | --- | --- | --- | --- | --- |
+| CAPITAL PRODUCT PARTNERS LP | NASDAQ | USD | 20.55 | 21.35 | -3.7% |
+| COSTAMARE INC | NYSE | USD | 10.87 | 11.93 | -8.9% |
+| DANAOS CORPORATION | NYSE | USD | 84.19 | 88.83 | -5.2% |
+| DIANA SHIPPING | NYSE | USD | 1.57 | 1.69 | -7.1% |
+| EUROSEAS LTD. | NASDAQ | USD | 53.40 | 57.78 | -7.6% |
+| GLOBUS MARITIME LIMITED | NASDAQ | USD | 1.13 | 1.07 | 5.5% |
+| SAFE BULKERS INC | NYSE | USD | 4.14 | 4.47 | -7.4% |
+| SEANERGY MARITIME HOLDINGS | NASDAQ | USD | 7.71 | 8.28 | -6.9% |
+| STAR BULK CARRIERS CORP | NASDAQ | USD | 16.79 | 18.41 | -8.8% |
+| STEALTHGAS INC | NASDAQ | USD | 6.26 | 6.49 | -3.5% |
+| TSAKOS ENERGY NAVIGATION | NYSE | USD | 21.04 | 22.21 | -5.3% |
+
+## Macro-economic headlines
+
+In China, the Trade Surplus narrowed to $90.45 bn in September, slightly below market expectations of $98.50 bn and down from August’s $102.33 bn. Exports grew at a robust pace of 8.3% y-o-y, surpassing the forecasted 6%, outpacing imports, which rose 7.4%, well above the projected 1.5%, supported by stronger domestic demand linked to the Golden Week holidays.
+
+In Japan, PPI increased by 0.3% m-o-m in September, exceeding market expectations of a 0.1% rise and reversing August’s 0.2% contraction.
+
+In Germany, CPI rose by 0.2% m-o-m in September, in line with market forecasts and slightly above August’s 0.1% increase.
+
+In India, CPI grew by 1.54% y-o-y in September, below both market expectations of 1.70% and August’s 2.07%.
