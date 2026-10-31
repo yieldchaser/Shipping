@@ -33,7 +33,7 @@ The vote is a political risk, calculated for a “win” or “blame”. Bayrou 
 
 ### Why Is There Pressure on French Debt?
 
-There are**four significant pressures**on French borrowing costs, only one of which is internal.
+There are **four significant pressures** on French borrowing costs, only one of which is internal.
 
 1. **Worries over debt buildup**. This is the only internal factor, and the only one the government can address by cutting spending.
 2. **American trade wars,**which are slowing down global growth and putting pressure on US borrowing yields, are then spilling over to borrowing costs across the board.

@@ -31,13 +31,13 @@ source_file: "corpus/03-breakwave/insights/2024/2024-02-02_the-big-picture-steel
 > **Figure 1: 241**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-02_the-big-picture-steel-production-outside-china-stagnation-or-recovery_img_241_da3e46adec5c.png)
 
-After the rebound from the collapse of April 2020, a pattern of**declining monthly peaks emerges through the course of 2021-23**.
+After the rebound from the collapse of April 2020, a pattern of **declining monthly peaks emerges through the course of 2021-23**.
 
 Last year’s monthly high for the world excluding China, for example, was 7% short of the peak month in 2021.
 
-The other conspicuous feature of the first chart is the**softness towards the end of 2022**. This is what shapes the upturn in the second chart, lending the appearance of an early-stage recovery through the course of 2023. In the 2H 2022, post-lockdown lows were recorded in Europe, Japan, North America and South Korea.
+The other conspicuous feature of the first chart is the **softness towards the end of 2022**. This is what shapes the upturn in the second chart, lending the appearance of an early-stage recovery through the course of 2023. In the 2H 2022, post-lockdown lows were recorded in Europe, Japan, North America and South Korea.
 
-As a result, this may disguise some underlying weaknesses. Closer examination of national data shows that upward trends in production were scarce in the last months of 2023, with**one very notable exception—India**.
+As a result, this may disguise some underlying weaknesses. Closer examination of national data shows that upward trends in production were scarce in the last months of 2023, with **one very notable exception—India**.
 
 According to initial estimates from the Joint Plan Committee of the Ministry of Steel,**India’s steel consumption jumped 14%**last year (to 132m tonnes).
 
@@ -50,7 +50,7 @@ At the same time steel exports from India retreated 16% to 6.7m tonnes, whereas 
 
 Perhaps one of the downside risks for the country’s steelmakers could be competition from China across Asian export markets.
 
-We anticipate**further expansion in India this year**, even if the rapid growth of 2023 is not matched.
+We anticipate **further expansion in India this year**, even if the rapid growth of 2023 is not matched.
 
 ### What Then Are the Prospects for Other Leading Steel Producers This Year?
 
@@ -64,7 +64,7 @@ As China drove iron ore import demand in 2023, can the rest of the world contrib
 
 **In Europe, blast furnace restarts**(from Belgium and Germany to the Czech Republic and Romania) will spur iron ore and coking coal demand.
 
-The charts below demonstrate it**would not require a return to 2021 steel output levels for coking coal and import demand growth in Europe, Japan and South Korea to be generated**in 2024. A partial upturn would suffice.
+The charts below demonstrate it **would not require a return to 2021 steel output levels for coking coal and import demand growth in Europe, Japan and South Korea to be generated** in 2024. A partial upturn would suffice.
 
 ![243](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-02_the-big-picture-steel-production-outside-china-stagnation-or-recovery_img_243_0036b6013d90.png)
 
@@ -73,9 +73,9 @@ The charts below demonstrate it**would not require a return to 2021 steel output
 
 ### China
 
-Finally, China’s December data point was important in a longer-term context: thanks to a -15% year-on-year dive, for the first time since 2021, the**Chinese monthly total slipped below 50% of the global figure**.
+Finally, China’s December data point was important in a longer-term context: thanks to a -15% year-on-year dive, for the first time since 2021, the **Chinese monthly total slipped below 50% of the global figure**.
 
-While we are certainly not glossing over signs of softness in China’s steel sector, December’s total resulted in**annual production in 2023 being held at the 2022 level**.
+While we are certainly not glossing over signs of softness in China’s steel sector, December’s total resulted in **annual production in 2023 being held at the 2022 level**.
 
 This reminds us of the reports from China-based media groups, such as Caixin, back in April, which suggested the country’s authorities planned to limit 2023 output at 2022 levels. Part of the aim was to “limit oversupply”.
 

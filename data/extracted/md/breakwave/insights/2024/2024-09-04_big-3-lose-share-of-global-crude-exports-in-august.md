@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-09-04_big-3-lose-share-of-g
 
 Saudi Arabia, Russia and the US reduced crude/condensates exports in August (m-o-m), pushing their combined share of global seaborne exports to a multiyear low. In this insight we explore some of the drivers behind each producer’s loss of market share in August and key factors to consider for supply from these countries going forwards.
 
-*By*[Jay Maroo](https://www.linkedin.com/in/jay-m-336a3633/)
+*By* [Jay Maroo](https://www.linkedin.com/in/jay-m-336a3633/)
 
 Total combined crude/condensates exports from the ‘Big-3’ (Saudi Arabia, Russia and the US) stood at 12.7mbd in August, down almost 700kbd m-o-m. Amongst the big three, US exports fell the most sharply m-o-m, down by around 540kbd, while Saudi and Russian declines were more modest at 110kbd and 40kbd respectively.
 

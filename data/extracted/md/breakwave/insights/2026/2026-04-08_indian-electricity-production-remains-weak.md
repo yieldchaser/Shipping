@@ -29,7 +29,7 @@ As we discussed in Commodore Research's most recent Weekly Executive Report, Ind
 > **Figure 1: 241**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-08_indian-electricity-production-remains-weak_img_241_016609f3adee.jpg)
 
-Coal-derived electricity generation totaled approximately 119.9 billion kilowatt hours. This is up month-on-month by 12.9 billion kilowatt hours (12%) but is down year-on-year by 2.7 billion kilowatt hours (-2%). Coal-derived generation has now declined a year-on-year basis during nine of the last twelve months. This has marked the**only time this decade**that such an event has occurred, and remains troubling for India’s thermal coal demand prospects. Warmer than usual weather has continued throughout parts of India and remains a headwind on overall electricity demand. Hydropower output has also continued to grow. India’s economy has also faced struggles at times recently.
+Coal-derived electricity generation totaled approximately 119.9 billion kilowatt hours. This is up month-on-month by 12.9 billion kilowatt hours (12%) but is down year-on-year by 2.7 billion kilowatt hours (-2%). Coal-derived generation has now declined a year-on-year basis during nine of the last twelve months. This has marked the **only time this decade** that such an event has occurred, and remains troubling for India’s thermal coal demand prospects. Warmer than usual weather has continued throughout parts of India and remains a headwind on overall electricity demand. Hydropower output has also continued to grow. India’s economy has also faced struggles at times recently.
 
 ![242](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-04-08_indian-electricity-production-remains-weak_img_242_a76dbddfdc8f.jpg)
 

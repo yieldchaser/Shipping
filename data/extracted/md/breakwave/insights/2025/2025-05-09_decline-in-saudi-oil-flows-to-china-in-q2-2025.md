@@ -50,31 +50,31 @@ In summary, the Q2 2025 decline in Saudi oil flows to China reflects a mix of se
 
 Crude oil tanker freight market sentiment weakened in the second week of May. The Suezmax segment indicated a more pronounced downward trend compared to the start of the month.
 
-- **VLCC**freight rates on the**MEG–China**dropped to WS 60, reflecting a 12% weekly decrease. Meanwhile, Suezmax rates from West Africa to continental Europe dropped below WS100, showing an 18% weekly decrease. Meanwhile, rates on the**Baltic–Mediterranean route**dropped to WS110, standing 17% lower than a week ago.
-- **Aframax**freight rates in the**Mediterranean**dropped below WS170, showing 7% weekly decrease.
+- **VLCC** freight rates on the **MEG–China** dropped to WS 60, reflecting a 12% weekly decrease. Meanwhile, Suezmax rates from West Africa to continental Europe dropped below WS100, showing an 18% weekly decrease. Meanwhile, rates on the **Baltic–Mediterranean route** dropped to WS110, standing 17% lower than a week ago.
+- **Aframax** freight rates in the **Mediterranean** dropped below WS170, showing 7% weekly decrease.
 
 ![Στιγμιότυπο Οθόνης 2025 05 09 112054](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6bd01ff6dfe1.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 05 09 112054**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6bd01ff6dfe1.png)
 
-- **LR2**AG freight rates dropped to WS110, reflecting a monthly drop of 25%.
+- **LR2** AG freight rates dropped to WS110, reflecting a monthly drop of 25%.
 
 ![Στιγμιότυπο Οθόνης 2025 05 09 112105](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4124dea95ad4.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 05 09 112105**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4124dea95ad4.png)
 
-- **Panamax**Carib-to-USG rates showed a slight upward trend, reaching approximately WS180. However, these rates are still 10% lower compared to the levels observed a month prior.
+- **Panamax** Carib-to-USG rates showed a slight upward trend, reaching approximately WS180. However, these rates are still 10% lower compared to the levels observed a month prior.
 
 ![Στιγμιότυπο Οθόνης 2025 05 09 112113](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_690c3a4588bf.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 05 09 112113**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_690c3a4588bf.png)
 
-- **MR1**freight rates for Baltic-to-Continent shipments hovered around WS140, representing a 7% monthly decrease.
+- **MR1** freight rates for Baltic-to-Continent shipments hovered around WS140, representing a 7% monthly decrease.
 
-- **MR2**freight rates for shipments from the Continent to the US Atlantic Coast (USAC) reached WS125, a 15% monthly decrease. Meanwhile, MR2 rates from the US Gulf to the Continent remained stable around WS110, consistent with the previous week's sentiment and levels observed a month prior.
+- **MR2** freight rates for shipments from the Continent to the US Atlantic Coast (USAC) reached WS125, a 15% monthly decrease. Meanwhile, MR2 rates from the US Gulf to the Continent remained stable around WS110, consistent with the previous week's sentiment and levels observed a month prior.
 
 ![Στιγμιότυπο Οθόνης 2025 05 09 112120](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_827a90fcc74c.png)
 
@@ -107,16 +107,16 @@ Crude oil tanker freight market sentiment weakened in the second week of May. Th
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 05 09 112151**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2d1e073f7bb.png)
 
-- **Dirty**tonne days: Tonne-day growth is sharply declining in early May, particularly for VLCCs. Aframax tonne days are also trending downwards after a brief recovery two weeks prior. Suezmax tonne-day growth remains near its annual average for over six weeks, with the last peak occurring at the end of week 11.
+- **Dirty** tonne days: Tonne-day growth is sharply declining in early May, particularly for VLCCs. Aframax tonne days are also trending downwards after a brief recovery two weeks prior. Suezmax tonne-day growth remains near its annual average for over six weeks, with the last peak occurring at the end of week 11.
 
 ![Στιγμιότυπο Οθόνης 2025 05 09 112158](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5df7c841733e.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 05 09 112158**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_decline-in-saudi-oil-flows-to-china-in-q2-2025_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5df7c841733e.png)
 
-- **Panamax**tonne days: Over the past seven weeks, the growth rate has remained below this year's weekly average, in contrast to the end of Week 8, when levels were close to surpassing the annual average.
+- **Panamax** tonne days: Over the past seven weeks, the growth rate has remained below this year's weekly average, in contrast to the end of Week 8, when levels were close to surpassing the annual average.
 
-- **MR**tonne-days: The growth rate in the MR segment has been steadily decreasing since the end of Week 5, and this downward trend has continued through the first half of the current month without any indication of recovery.
+- **MR** tonne-days: The growth rate in the MR segment has been steadily decreasing since the end of Week 5, and this downward trend has continued through the first half of the current month without any indication of recovery.
 
 Data Source:[Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform)
 

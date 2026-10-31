@@ -123,7 +123,7 @@ Iran, a significant global oil exporter, primarily sends its oil to China, a cru
 > *- SignalOcean Tanker Dashboard: https://app.signalocean.com/tanker/dynamic/oil_prices- Congestion Reports: https://app.signalocean.com/tanker/dynamic/congestion_report_tanker_download- VLCC Market Prices: https://app.signalocean.com/tanker/dynamic/market-prices-tankers-downloadable- EIA Data: https://www.eia.gov- JP Morgan Oil Forecast (2024-2026)*  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://app.signalocean.com/tanker/dynamic/oilflows) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-06-18_geopolitical-spillover-assessing-the-impact-of-iran-israel-tensions-on-the-tanke_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_efa72497d0e2.png)
 
-While the dashboard indicates that the**primary discharge area is "Singapore/Malaysia" (64.7%)**, this does**not reflect the final destination**of the cargo. In reality, most of this oil is**transshipped to China**, using Singapore and Malaysian ports as intermediate storage or blending points.
+While the dashboard indicates that the **primary discharge area is "Singapore/Malaysia" (64.7%)**, this does **not reflect the final destination** of the cargo. In reality, most of this oil is **transshipped to China**, using Singapore and Malaysian ports as intermediate storage or blending points.
 ‍
 
 ## 5. Bypassing the Strait: Strategic Alternatives and Pipeline Options

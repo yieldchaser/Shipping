@@ -28,7 +28,7 @@ The capesize market this week continued its range-bound trading as neither bulls
 
 ### Panamax
 
-A solid performance from the panamax market this week, with all routes posting gains, driven by the Atlantic. The timecharter average climbed $2,015 to close at $16,415. The TA round voyage - and north Atlantic fronthaul routes - stood out in particular on a limited tonnage supply, with those willing to consider a fronthaul able to secure a decent premium. Kamsarmaxes were offered north of $30,000 whilst an LME was said to have been bid $26,000 basis delivery Gibraltar twice on Thursday. Meanwhile, quick Baltic rounds were being bid low to mid $20,000s dependent on spec. There were clouds on the horizon, however, with some brokers suggesting demand from the USGulf for the first half ofSeptember remained scarce. EC South America, after an active week, also appeared to have fewer enquiries for early September.
+A solid performance from the panamax market this week, with all routes posting gains, driven by the Atlantic. The timecharter average climbed $2,015 to close at $16,415. The TA round voyage - and north Atlantic fronthaul routes - stood out in particular on a limited tonnage supply, with those willing to consider a fronthaul able to secure a decent premium. Kamsarmaxes were offered north of $30,000 whilst an LME was said to have been bid $26,000 basis delivery Gibraltar twice on Thursday. Meanwhile, quick Baltic rounds were being bid low to mid $20,000s dependent on spec. There were clouds on the horizon, however, with some brokers suggesting demand from the USGulf for the first half of September remained scarce. EC South America, after an active week, also appeared to have fewer enquiries for early September.
 
 ### Ultramax/Supramax
 

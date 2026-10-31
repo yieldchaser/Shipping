@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-06-27_breakwave-weekend-rea
 
 ## Breakwave Shipping Report
 
-**Capesize Spike Fades as Market Balance Loosens**– The recent rally that pushed spot**Capesize rates to the $30,000**mark is beginning to lose steam, with signs of weakness emerging in the Pacific market.
+**Capesize Spike Fades as Market Balance Loosens**– The recent rally that pushed spot **Capesize rates to the $30,000** mark is beginning to lose steam, with signs of weakness emerging in the Pacific market.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2025624-drybulk)
 

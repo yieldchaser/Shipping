@@ -57,7 +57,7 @@ The story is similar when one looks at Panamax futures, a relatively more stable
 
 So, is the market too pessimistic or are we again set up for a significant drop in spot rates that will drag all the way to the middle of next year?
 
-For Capesizes, the last two years offered some of the most challenging times in terms of iron ore exports. In 2018, the[Brumadinho dam rapture](https://en.wikipedia.org/wiki/Brumadinho_dam_disaster)in late January threw the Capesize market into a tailspin, something that is affecting Brazilian iron ore exports up to this day. In 2020, the global pandemic had a profound impact on every aspect of the global economy, naturally also affecting shipping.
+For Capesizes, the last two years offered some of the most challenging times in terms of iron ore exports. In 2018, the [Brumadinho dam rapture](https://en.wikipedia.org/wiki/Brumadinho_dam_disaster) in late January threw the Capesize market into a tailspin, something that is affecting Brazilian iron ore exports up to this day. In 2020, the global pandemic had a profound impact on every aspect of the global economy, naturally also affecting shipping.
 
 ![Brazil 1h Exports](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-10-28_can-q1-dry-bulk-rates-surprise_img_brazil1hexports_93f2c9e053b6.png)
 

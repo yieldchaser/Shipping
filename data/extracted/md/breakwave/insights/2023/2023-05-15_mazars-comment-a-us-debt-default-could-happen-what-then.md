@@ -25,7 +25,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-05-15_mazars-comment-a-us-d
 
 1. *A US debt default is a real, non-zero probability. Partisanship appears to be at an all-time high, skewing legislative priorities away from cooperation and towards acrimony.*
 2. *In 2011, when a debt default was threatened, US stocks fell by 16%. In a 2013 study, the Fed simulated the effects of a stoppage of payments. It calculated a 30% drop in equities, a 10% drop in the Dollar and a roughly 6%-10% in bonds. GDP growth would be cut by about 1.5% in the same year and unemployment would rise also by about 1.3% a year after.*
-3. ***Our******base case scenario is that the event itself won’t happen******. There are powerful incentives for a last-minute deal. And if it does, central banks will probably deploy their balance sheets once again to help global stocks and bonds****. However,**Over the longer term, a wanton US default would probably force asset managers to reconsider the natural primacy of US assets in their portfolios.*
+3. ***Our*** ***base case scenario is that the event itself won’t happen******. There are powerful incentives for a last-minute deal. And if it does, central banks will probably deploy their balance sheets once again to help global stocks and bonds****. However,**Over the longer term, a wanton US default would probably force asset managers to reconsider the natural primacy of US assets in their portfolios.*
 
 ## A Us Debt Default Could Happen. What Then?
 
@@ -46,7 +46,7 @@ What happened in 2011? The last big debt ceiling crisis. Twelve years ago, Repub
 
 The two parties struck a complex and constrictive twelfth-hour deal to curtail expenditure. Ever since the debt ceiling negotiation has become a contentious point. While we never really saw a repeat of 2011, parties now routinely threaten to cause a default in US payments in order to obtain political leverage. PIMCO has calculated that whenever there are debt ceiling negotiations, stocks fall 6.5% in the prior month[[1]](https://mail.google.com/mail/u/2/#m_8147196430957211678__ftn1).
 
-Looking at the issue from a bird’s eye view, there are plenty of reasons to believe that a replay of 2011 is likely. It is also not unfathomable that, unlike 2011, a deal might**not**be reached in time. In 2011, a routine process turned into a fight. Now the question is whether the fight, the new status quo, will evolve into its next step, an all-out war. And a US default.
+Looking at the issue from a bird’s eye view, there are plenty of reasons to believe that a replay of 2011 is likely. It is also not unfathomable that, unlike 2011, a deal might **not** be reached in time. In 2011, a routine process turned into a fight. Now the question is whether the fight, the new status quo, will evolve into its next step, an all-out war. And a US default.
 
 Why do we think this time might be the same as 2011, or even worse?
 

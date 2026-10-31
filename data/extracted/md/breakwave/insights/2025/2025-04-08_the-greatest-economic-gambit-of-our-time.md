@@ -23,7 +23,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-04-08_the-greatest-economic
 The three things investors need to focus on, in this very crucial week:
 
 1. The risk-off is mostly focused on equities. Bonds are still a safe haven and businesses, though worried, have prepared inventories ahead of the Trade War.
-2. Our House View, for the time being, is that tariffs are likely still intended to be a negotiating tool, a way to apply pressure. Why? Because the tariff hike is so sharp that makes little economic sense*except*as a negotiating tool.
+2. Our House View, for the time being, is that tariffs are likely still intended to be a negotiating tool, a way to apply pressure. Why? Because the tariff hike is so sharp that makes little economic sense *except* as a negotiating tool.
 3. What can halt the equity market meltdown – long enough for talks to begin? A) An affirmation of the central bank put and/or B) Mr Trump pausing tariff implementation.
 
 *By*[*George Lagarias*](https://www.linkedin.com/in/george-lagarias-mba-3baa769/)
@@ -34,9 +34,9 @@ The three things investors need to focus on, in this very crucial week:
 
 *Global equity markets have been in risk-off mode since Mr Trump’s announcement of worldwide tariffs on 185 countries. US large caps had one of their worst 2-day performance in recent history. Despite the equity meltdown, the good news is that in this risk-off year (so far) markets, and diversified portfolios, behave the way they are supposed to, with bonds being a safe asset. What should investors do? Think long-term. Investors who invest in weakness are not always rewarded (for no one can capture the exact bottom), but they don’t necessarily suffer either.*
 
-*However, we understand it’s difficult not to be afraid. One can argue that “this time is different”. This is the point where we need to be very cautious. There is damage done, and there is damage that**may**happen. There is also economic risk and there is investment risk. These notions need to be distinguished. What’s the actual damage? For one, the market retrenchment, however, can very well revert. The only true actual damage comes from uncertainty: is the market still central to Washington? What’s the possible damage? Markets suggest that pursuing trade wars could cause an initial bump in core US inflation to 4.5%-5% which could lead to even a 7% in headline inflation. Estimates also suggest that US growth could slow by about 1%, to just north of 1%-1.5% per annum. Meanwhile, Europe (and the UK) could lose about 1% of its own growth, effectively stagnating or going into recession, and China could lose half its stated growth, before accounting for any retaliation.*
+*However, we understand it’s difficult not to be afraid. One can argue that “this time is different”. This is the point where we need to be very cautious. There is damage done, and there is damage that* *may* *happen. There is also economic risk and there is investment risk. These notions need to be distinguished. What’s the actual damage? For one, the market retrenchment, however, can very well revert. The only true actual damage comes from uncertainty: is the market still central to Washington? What’s the possible damage? Markets suggest that pursuing trade wars could cause an initial bump in core US inflation to 4.5%-5% which could lead to even a 7% in headline inflation. Estimates also suggest that US growth could slow by about 1%, to just north of 1%-1.5% per annum. Meanwhile, Europe (and the UK) could lose about 1% of its own growth, effectively stagnating or going into recession, and China could lose half its stated growth, before accounting for any retaliation.*
 
-*Our House View, for the time being, is that tariffs are likely still a negotiating tool.**Why? Because the tariff hike is so sharp that makes little economic sense**except**as a negotiating tool. But the true $2tn question lies not in the intention, or the plan, but the execution: Can the US achieve strategic gains before the equity sell-off metastasises to the real economy? What can buy Mr Trump some extra time and act as a backstop to the market pullback? A) A postponement or b) A possible affirmation of the Fed Put*
+*Our House View, for the time being, is that tariffs are likely still a negotiating tool.**Why? Because the tariff hike is so sharp that makes little economic sense* *except* *as a negotiating tool. But the true $2tn question lies not in the intention, or the plan, but the execution: Can the US achieve strategic gains before the equity sell-off metastasises to the real economy? What can buy Mr Trump some extra time and act as a backstop to the market pullback? A) A postponement or b) A possible affirmation of the Fed Put*
 
 **What to look out for this week.**
 
@@ -65,11 +65,11 @@ US large caps had one of their worst 2-day performance in recent history. Only t
 > **Figure 3: Market Chart 3**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-08_the-greatest-economic-gambit-of-our-time_img_image003_a9839964b63d.png)
 
-So, before reading on, it’s good to remember that**diversification exists precisely for events like that.**
+So, before reading on, it’s good to remember that **diversification exists precisely for events like that.**
 
 What should investors do? Think long-term. Ignoring any timing, if an investor bought US large caps a few days after Lehman’s collapse, they would have still made 10.94% per annum since that point – including the last two-day retrenchment. The average return since 1950? 11.2%. Investors who invest in weakness are not always rewarded (for no one can capture the exact bottom), but they don’t necessarily suffer either.
 
-Over the shorter term, of course, all outcomes are open, especially in such a volatile environment. Over the long-term, however, there are**three types of investors who more often than not lose money or lag performance:**
+Over the shorter term, of course, all outcomes are open, especially in such a volatile environment. Over the long-term, however, there are **three types of investors who more often than not lose money or lag performance:**
 
 - **Those who run for the hills**, crystallising losses and never really getting back until all the good news are priced in again.
 - **Those who fall in love and forget to diversify.**They would bet everything on one theme, becoming so immersed that they often forget to sell before said theme inevitably turns around.
@@ -77,7 +77,7 @@ Over the shorter term, of course, all outcomes are open, especially in such a vo
 
 **However, we understand it’s difficult not to be afraid.**One can argue that “this time is different”. The global trading system, the driving force behind Western economic disinflation, >10% equity returns per annum in the past couple of decades, as well as a massive upgrade in our way of life, is undergoing a secular (non-cyclical) shift which could cause long-term damage.
 
-This is the point where we, as investors, need to be very cautious. There is**damage done**, and there is**damage that****may****happen**. There is also**economic risk**and there is**investment risk**. These notions need to be distinguished.
+This is the point where we, as investors, need to be very cautious. There is **damage done**, and there is **damage that** **may** **happen**. There is also **economic risk** and there is **investment risk**. These notions need to be distinguished.
 
 Mr Trump’s agenda is on the table for everyone to see: the reindustrialisation of the American North and a shift from growth overwhelmingly dependent on services to a recipe which would see more manufacturing in the mix. Why? Because in growth times, companies with operational leverage (manufacturing, shipping, anything which depends on large fixed investments) can really outperform. For Republicans, capturing the hearts and minds of northern states and traditionally Democratic strongholds could be the holy grail to ensure political dominance.
 
@@ -89,7 +89,7 @@ To answer that, we must first answer three questions:
 2. What is the potential damage?
 3. Are tariffs still a negotiating tool?
 
-1. **What’s the actual damage?**So far the actual damage is two-fold:**one is a market retrenchment,**as well as a shock to US and global economic consumer confidence. All these effects, however, can be easily reversed if the market bounces – say on a Fed intervention. The more important damage, however, is the**loss of investor confidence**. The reason why investors prefer the US stock markets and the Dollar to any other economy is not just market depth. It is the long-time assurance that the US is the ultimate capitalist state: wealth generation through the stock market is engraved in policy decisions. A perceived shift from this pledge could have economic repercussions, as well as long-term effects on the Dollar and the premiums applied to US-listed equities (and even positive effects on European and Asian risk assets).**The only true actual damage comes from uncertainty: is the market still central to Washington?**
+1. **What’s the actual damage?**So far the actual damage is two-fold:**one is a market retrenchment,**as well as a shock to US and global economic consumer confidence. All these effects, however, can be easily reversed if the market bounces – say on a Fed intervention. The more important damage, however, is the **loss of investor confidence**. The reason why investors prefer the US stock markets and the Dollar to any other economy is not just market depth. It is the long-time assurance that the US is the ultimate capitalist state: wealth generation through the stock market is engraved in policy decisions. A perceived shift from this pledge could have economic repercussions, as well as long-term effects on the Dollar and the premiums applied to US-listed equities (and even positive effects on European and Asian risk assets).**The only true actual damage comes from uncertainty: is the market still central to Washington?**
 
 ![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-08_the-greatest-economic-gambit-of-our-time_img_image004_7cb604bf6f68.png)
 
@@ -102,7 +102,7 @@ To answer that, we must first answer three questions:
 
 Which brings us to the ostensible $2tn question:
 
-**Are Tariffs a negotiating tool?**In other words, can he take it back? We have always avoided trying to peek through Mr Trump’s mind, save for an understanding that policy changes happen, and the people around the President change more often than in other administrations.**Our House View, for the time being, is that tariffs are likely still a negotiating tool.**Why?**Because the tariff hike is so sharp that makes little economic sense****except****as a negotiating tool.**competition with China is real, and applying pressure at a rate that supply chains can re-orientate, even at the cost of short-term pain, might be a legitimate goal.
+**Are Tariffs a negotiating tool?**In other words, can he take it back? We have always avoided trying to peek through Mr Trump’s mind, save for an understanding that policy changes happen, and the people around the President change more often than in other administrations.**Our House View, for the time being, is that tariffs are likely still a negotiating tool.**Why?**Because the tariff hike is so sharp that makes little economic sense** **except** **as a negotiating tool.**competition with China is real, and applying pressure at a rate that supply chains can re-orientate, even at the cost of short-term pain, might be a legitimate goal.
 
 ![To Be Sure, Strategic](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-08_the-greatest-economic-gambit-of-our-time_img_image005_95db653ee28b.png)
 

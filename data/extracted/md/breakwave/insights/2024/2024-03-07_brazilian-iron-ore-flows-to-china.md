@@ -38,11 +38,11 @@ Despite entering the peak construction season, there are few indications of outp
 
 ​​​​​​In the initial days of March, there was notable firmness observed, particularly with remarkable increases noted in the Capesize Brazil to NChina and Handy NOPAC FE routes.
 
-- **Capesize**vessel freight rates for shipments from Brazil to North China rose to $28 per ton, showcasing a 40% increase compared to the rates observed a month ago.
-- **Panamax**vessel freight rates from the Continent to the Far East stayed nearly $38 per ton, marking almost similar levels compared to the rates recorded during the same week last year.
-- **Supramax**vessel freight rates on the Indo-ECI route maintained their strength from the previous days, registering a $13/ton increase, which marks a significant 30% rise compared to rates observed a month ago.
+- **Capesize** vessel freight rates for shipments from Brazil to North China rose to $28 per ton, showcasing a 40% increase compared to the rates observed a month ago.
+- **Panamax** vessel freight rates from the Continent to the Far East stayed nearly $38 per ton, marking almost similar levels compared to the rates recorded during the same week last year.
+- **Supramax** vessel freight rates on the Indo-ECI route maintained their strength from the previous days, registering a $13/ton increase, which marks a significant 30% rise compared to rates observed a month ago.
 
-- **Handysize**freight rates for the NOPAC Far East route surged to $37 per ton, marking a $5 increase from the previous week and representing a remarkable 30% upturn from rates observed a month ago.
+- **Handysize** freight rates for the NOPAC Far East route surged to $37 per ton, marking a $5 increase from the previous week and representing a remarkable 30% upturn from rates observed a month ago.
 
 ![Screenshot 2024 03 07 10.11.23](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-03-07_brazilian-iron-ore-flows-to-china_img_screenshot2024-03-07101123_1ec3370d5a92.png)
 

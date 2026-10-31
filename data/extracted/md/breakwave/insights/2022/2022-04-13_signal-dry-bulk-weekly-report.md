@@ -39,10 +39,10 @@ Chicago wheat futures rose past $10.70 per bushel, a two-week high and over 25% 
 
 A weaker sentiment of freight rates is sustained for the second week of April with losses on small and large vessel size categories. Handysize presents the sharpest decrease among the vessel sizes.
 
-- **Capesize**Brazil-to-North China freight rates dropped to less than $25/t, but are still above the lows of Week 10 of this year at levels of around $18/t.
-- **Panamax**Continent-to-Far East freight hovers at levels less than $55/t but still keeps robust levels compared to the bottom of $39/t at the ending of Week 4.
-- **Supramax**Indo-to-ECI freight rates continue their free-fall with levels now less than $24/t, which is around $6/t less than the peak of Week 12 ~ $30/t.
-- **Handysize**NOPAC-to-Far East freight rates continued their decrease since the ending of Week 11. Rates decreased to less than $60/t in the second week of April, which is almost $10/t down from the peak of Week 11.
+- **Capesize** Brazil-to-North China freight rates dropped to less than $25/t, but are still above the lows of Week 10 of this year at levels of around $18/t.
+- **Panamax** Continent-to-Far East freight hovers at levels less than $55/t but still keeps robust levels compared to the bottom of $39/t at the ending of Week 4.
+- **Supramax** Indo-to-ECI freight rates continue their free-fall with levels now less than $24/t, which is around $6/t less than the peak of Week 12 ~ $30/t.
+- **Handysize** NOPAC-to-Far East freight rates continued their decrease since the ending of Week 11. Rates decreased to less than $60/t in the second week of April, which is almost $10/t down from the peak of Week 11.
 
 ## Section 2 - Supply - Ballasters View
 
@@ -57,10 +57,10 @@ Supply Trend Lines for Key Load Areas
 
 The number of ballasters signals a decreasing trend for all vessel size categories for the second week of April at levels below the one-year average in all vessel size categories, despite the upward movement last week.
 
-- **Capesize**SE Africa: The number of vessels sailing in ballast held a pace of around 70 vessels, which is 12 vessels less than the last peak of Week 11.
-- **Panamax**SE Africa: The number of vessels sailing in ballast is now around 76 vessels, which is 50% down from the accelerated figure during Week 5.
-- **Supramax**SE Asia: The number of vessels sailing in ballast dropped to 70 vessels, which is around 19 vessels less than the last week, while it seems that the trend will continue with a sharp decrease over the next few days.
-- **Handysize**NOPAC: The number of vessels sailing in ballast despite indications of an increase remains below the one-year average of 64 vessels and is now around 59 vessels.
+- **Capesize** SE Africa: The number of vessels sailing in ballast held a pace of around 70 vessels, which is 12 vessels less than the last peak of Week 11.
+- **Panamax** SE Africa: The number of vessels sailing in ballast is now around 76 vessels, which is 50% down from the accelerated figure during Week 5.
+- **Supramax** SE Asia: The number of vessels sailing in ballast dropped to 70 vessels, which is around 19 vessels less than the last week, while it seems that the trend will continue with a sharp decrease over the next few days.
+- **Handysize** NOPAC: The number of vessels sailing in ballast despite indications of an increase remains below the one-year average of 64 vessels and is now around 59 vessels.
 
 ## Section 3 - Demand - In Ton Days
 
@@ -73,10 +73,10 @@ The number of ballasters signals a decreasing trend for all vessel size categori
 
 The overall trend of demand ton-days keeps decreasing, while there is a sharp downward trajectory in the Capesize and Panamax segment.
 
-- **Capesize**demand ton-days: There is a sustained decrease for two consecutive weeks compared to the peak during Week 12.
-- **Panamax**demand ton-days: The downward trend comes almost in the same timeline as the demand evolution of the Capesize segment.
-- **Supramax**demand ton-days: There is a sustained downward trend but with a softer pace of decrease compared to the large vessel sizes.
-- **Handysize**demand ton-days: Ton days growth continues slowing while there are no signs of a rebound since the ending of Week 10.
+- **Capesize** demand ton-days: There is a sustained decrease for two consecutive weeks compared to the peak during Week 12.
+- **Panamax** demand ton-days: The downward trend comes almost in the same timeline as the demand evolution of the Capesize segment.
+- **Supramax** demand ton-days: There is a sustained downward trend but with a softer pace of decrease compared to the large vessel sizes.
+- **Handysize** demand ton-days: Ton days growth continues slowing while there are no signs of a rebound since the ending of Week 10.
 
 ## Section 4 - Chinese Port Congestions -
 

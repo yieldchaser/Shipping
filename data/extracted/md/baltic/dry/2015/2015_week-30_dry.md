@@ -24,7 +24,7 @@ source_file: "corpus/08-baltic/dry/2015/2015_week-30_dry.html"
 
 ### Capesize
 
-A promising start to the week with sharp improvements in the Atlantic and steady rises in the East, but rates slipped as the week drew to a close with some aggressive numbers talked. Both fronthaul and transatlantic rates climbed, with the Puerto Bolivar/Rotterdam rate talked well into the $9.00s and fronthaul rates around $30,000 daily. As the week closed out a Cargill vessel fixed with GdF at $8.40 and suggesting something in the low $8.00 range has been agreed. Rio Tinto secured the *Ekaterini*2012 built (which had previously fixed and failed around $17,500 daily for a transatlantic round) for a 170,000 tonne 10% cargo from Seven Islands to Qingdao at an easier $18.00.
+A promising start to the week with sharp improvements in the Atlantic and steady rises in the East, but rates slipped as the week drew to a close with some aggressive numbers talked. Both fronthaul and transatlantic rates climbed, with the Puerto Bolivar/Rotterdam rate talked well into the $9.00s and fronthaul rates around $30,000 daily. As the week closed out a Cargill vessel fixed with GdF at $8.40 and suggesting something in the low $8.00 range has been agreed. Rio Tinto secured the *Ekaterini* 2012 built (which had previously fixed and failed around $17,500 daily for a transatlantic round) for a 170,000 tonne 10% cargo from Seven Islands to Qingdao at an easier $18.00.
 
 Brazil/China rates moved higher with a hiccup as week drew on and then talk today that business was negotiating for 20 August in the $15.00 range.
 

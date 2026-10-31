@@ -51,10 +51,10 @@ Freight Market, Supply, Demand and Port Congestion
 
 The third week of July begins with a still weaker sentiment of freight rates, while there has been an upward movement for the Panamax Cont-FE rates.
 
-- **Capesize**vessel freight rates from Brazil to North China have fallen below $20 per tonne since the end of the previous week, with the last low in week 22 when rates fell below $19 per tonne.
-- **Panamax**vessel freight rates from the Continent to the Far East moved upward to $34 per tonne at the beginning of the week, although it remains to be seen whether the upward trend will continue during the week.
-- **Supramax**vessel freight rates for the Indo-ECI route fell below $9.5 per tonne, while the latest level resembles week 23 sentiment.
-- **Handysize**freight rates for the NOPAC Far East route hovering around the previous week's level of $26.5 per tonne, and it is questionable whether the downward trend will continue through the end of the month.
+- **Capesize** vessel freight rates from Brazil to North China have fallen below $20 per tonne since the end of the previous week, with the last low in week 22 when rates fell below $19 per tonne.
+- **Panamax** vessel freight rates from the Continent to the Far East moved upward to $34 per tonne at the beginning of the week, although it remains to be seen whether the upward trend will continue during the week.
+- **Supramax** vessel freight rates for the Indo-ECI route fell below $9.5 per tonne, while the latest level resembles week 23 sentiment.
+- **Handysize** freight rates for the NOPAC Far East route hovering around the previous week's level of $26.5 per tonne, and it is questionable whether the downward trend will continue through the end of the month.
 
 ## Section 2/ Supply ​​​
 

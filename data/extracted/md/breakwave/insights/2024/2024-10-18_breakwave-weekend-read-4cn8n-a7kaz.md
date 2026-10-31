@@ -27,7 +27,7 @@ and more.
 
 ## Breakwave Dry Bulk Report
 
-**Sentiment Turns Sour as Capesize Futures Drop**– Following a long period of stability,**volatility**in the dry bulk market**jumped**last week as freight futures dropped to**eight-month lows**, a rather unexpected development succeeding a long period of rangebound pricing.
+**Sentiment Turns Sour as Capesize Futures Drop**– Following a long period of stability,**volatility** in the dry bulk market **jumped** last week as freight futures dropped to **eight-month lows**, a rather unexpected development succeeding a long period of rangebound pricing.
 
 [Read More](https://www.breakwaveadvisors.com/insights/20241015dry-87w325)
 

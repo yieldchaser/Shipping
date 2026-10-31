@@ -41,10 +41,10 @@ In the last days, the surging of grain prices was eased following the proposal o
 
 The freight sentiment emerged firmer for the first days of May, however, the current signs of revival remain below the levels seen five weeks ago.
 
-- **Capesize**Brazil-to-North China freight rates held levels around $26/t, while the last peak was during Weeks 10 and 11 at levels of $29/t.
-- **Panamax**Continent-to-Far East freight increased to $57/t, with a trend of a further rebound in the next few days. The current evolution resembles the performance of Week 10 when rates accelerated till week 16.
-- **Supramax**Indo-to-ECI freight rates held almost a flat momentum with signs of soft increase during the last days. Rates are now around $25/t, $5/t less than Week 12.
-- **Handysize**NOPAC-to-Far East freight rates posted firmer signs of increase than last week at levels around $60/t, $4/t more than Week 16.
+- **Capesize** Brazil-to-North China freight rates held levels around $26/t, while the last peak was during Weeks 10 and 11 at levels of $29/t.
+- **Panamax** Continent-to-Far East freight increased to $57/t, with a trend of a further rebound in the next few days. The current evolution resembles the performance of Week 10 when rates accelerated till week 16.
+- **Supramax** Indo-to-ECI freight rates held almost a flat momentum with signs of soft increase during the last days. Rates are now around $25/t, $5/t less than Week 12.
+- **Handysize** NOPAC-to-Far East freight rates posted firmer signs of increase than last week at levels around $60/t, $4/t more than Week 16.
 
 ## Section 2 - Supply - Ballasters View
 
@@ -57,10 +57,10 @@ The freight sentiment emerged firmer for the first days of May, however, the cur
 
 The number of ballasters signals a sharp increase in the Supramax and Handysize segments for the last two weeks, while in the Capesize, there are still levels below the one-year average.
 
-- **Capesize**SE Africa: The number of vessels sailing in ballast posted a slight drop to around 66 vessels, 6 vessels less than the previous week with a 20% decrease from the last peak of Week 11.
-- **Panamax**SE Africa: The number of vessels sailing in ballast surpassed this week the one-year average and increased to 111 vessels, a 60% increase from the low of Week 13.
-- **Supramax**SE Asia: The number of vessels sailing in ballast is now around 99 vessels, posting a 27% increase over the last two weeks.
-- **Handysize**NOPAC: The number of vessels recorded the highest increase to around 73 vessels, a 38% increase from the low of Week 13.
+- **Capesize** SE Africa: The number of vessels sailing in ballast posted a slight drop to around 66 vessels, 6 vessels less than the previous week with a 20% decrease from the last peak of Week 11.
+- **Panamax** SE Africa: The number of vessels sailing in ballast surpassed this week the one-year average and increased to 111 vessels, a 60% increase from the low of Week 13.
+- **Supramax** SE Asia: The number of vessels sailing in ballast is now around 99 vessels, posting a 27% increase over the last two weeks.
+- **Handysize** NOPAC: The number of vessels recorded the highest increase to around 73 vessels, a 38% increase from the low of Week 13.
 
 ## Section 3 - Demand - In Ton Days
 
@@ -73,10 +73,10 @@ The number of ballasters signals a sharp increase in the Supramax and Handysize 
 
 The overall trend of demand ton-days posted a further decrease since the last week, with signs of revival only seen in the Capesize segment since Week 14.
 
-- **Capesize**demand ton-days: There is a remarkable growth with levels nearing the days of the last peak during Week 12.
-- **Panamax**demand ton-days: There is still a strong downward revision since the last days of April, with levels of growth far below the peak of Week 12.
-- **Supramax**demand ton-days: The first days of May came with a soft decrease following a flat momentum for the last three consecutive weeks.
-- **Handysize**demand ton-days: The evolution of demand is now in a clear downward trend with the last spike during Week 14. It is interesting to note that for the current year, we haven't seen any remarkable weekly growth apart from the first 15 days of January.
+- **Capesize** demand ton-days: There is a remarkable growth with levels nearing the days of the last peak during Week 12.
+- **Panamax** demand ton-days: There is still a strong downward revision since the last days of April, with levels of growth far below the peak of Week 12.
+- **Supramax** demand ton-days: The first days of May came with a soft decrease following a flat momentum for the last three consecutive weeks.
+- **Handysize** demand ton-days: The evolution of demand is now in a clear downward trend with the last spike during Week 14. It is interesting to note that for the current year, we haven't seen any remarkable weekly growth apart from the first 15 days of January.
 
 ## Section 4 - Chinese Port Congestions -
 

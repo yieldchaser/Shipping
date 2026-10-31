@@ -39,10 +39,10 @@ In the grain market, Chicago wheat futures were above the $11 per bushel level i
 
 The revival continues with a significant upturn of freight rates in the Capesize segment, whereas there is a sustained steadiness in the Supramax.
 
-- **Capesize**Brazil-to-North China freight rates increased to $31/t, $5/t more than the ending of Week 17.
-- **Panamax**Continent-to-Far East freight recorded a slight increase to $58/t, surpassing the peak of Week 10 (~$56/t).
-- **Supramax**Indo-to-ECI freight rates continued flat as seen over the last four weeks at around $25/t.
-- **Handysize**NOPAC-to-Far East freight rates fetched this week $60/t for the first time since the ending of Week 14.
+- **Capesize** Brazil-to-North China freight rates increased to $31/t, $5/t more than the ending of Week 17.
+- **Panamax** Continent-to-Far East freight recorded a slight increase to $58/t, surpassing the peak of Week 10 (~$56/t).
+- **Supramax** Indo-to-ECI freight rates continued flat as seen over the last four weeks at around $25/t.
+- **Handysize** NOPAC-to-Far East freight rates fetched this week $60/t for the first time since the ending of Week 14.
 
 ## Section 2 - Supply - Ballasters View
 
@@ -57,10 +57,10 @@ Supply Trend Lines for Key Load Areas
 
 The number of ballasters increased sharply in the Panamax and Handysize segment for the second week of May, while in the Capesize, levels remain below the one-year average since the ending of Week 9.
 
-- **Capesize**SE Africa: The number of vessels sailing in ballast decreased further to 61 vessels, 10 vessels less than the ending of Week 17 with a 25% decrease from the last peak of Week 11.
-- **Panamax**SE Africa: The number of vessels sailing in ballast increased to 126 vessels, an 80% increase from the low of Week 13.
-- **Supramax**SE Asia: The number of vessels sailing in ballast is now around 90 vessels, 4 vessels more than the one-year average.
-- **Handysize**NOPAC: The number of vessels held the sharp increase of previous days and rose to around 80 vessels, a 50% increase from the low of Week 13.
+- **Capesize** SE Africa: The number of vessels sailing in ballast decreased further to 61 vessels, 10 vessels less than the ending of Week 17 with a 25% decrease from the last peak of Week 11.
+- **Panamax** SE Africa: The number of vessels sailing in ballast increased to 126 vessels, an 80% increase from the low of Week 13.
+- **Supramax** SE Asia: The number of vessels sailing in ballast is now around 90 vessels, 4 vessels more than the one-year average.
+- **Handysize** NOPAC: The number of vessels held the sharp increase of previous days and rose to around 80 vessels, a 50% increase from the low of Week 13.
 
 ## Section 3 - Demand - In Ton Days
 
@@ -73,10 +73,10 @@ The number of ballasters increased sharply in the Panamax and Handysize segment 
 
 The overall trend of demand ton-days sustained the decreasing trend for the last four weeks.
 
-- **Capesize**demand ton-days: The revival seems to hold but with a softer pace than last week.
-- **Panamax**demand ton-days: The downward revision remains with a further decrease during the second week of May.
-- **Supramax**demand ton-days: There is a slight fall from the previous week, while it seems that the last peak will remain within week 12.
-- **Handysize**demand ton-days: There is a sustained decrease week over week, and seems likely to continue through the end of the current month.
+- **Capesize** demand ton-days: The revival seems to hold but with a softer pace than last week.
+- **Panamax** demand ton-days: The downward revision remains with a further decrease during the second week of May.
+- **Supramax** demand ton-days: There is a slight fall from the previous week, while it seems that the last peak will remain within week 12.
+- **Handysize** demand ton-days: There is a sustained decrease week over week, and seems likely to continue through the end of the current month.
 
 ## Section 4 - Chinese Port Congestions -
 

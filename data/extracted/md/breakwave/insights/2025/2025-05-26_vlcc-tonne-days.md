@@ -35,7 +35,7 @@ Week 21, 23 May, 2025
 
 Examining seasonal trends of VLCC tonne days using a 7-day moving average indicates a steady decline since late April. Current estimates show figures falling below those recorded in the past two years, with recent data reflecting nearly 61 million tonnes compared to 70 million during the same timeframe in 2023 and 2024. Given the persistent drop in oil prices and OPEC+'s plans to increase supply, there is uncertainty regarding possible recovery during the summer season, particularly amid growing concerns about economic prospects in China and the U.S.
 
-Meanwhile, the latest weekly change in**net vessel supply**(spot-relet vessels available to load Ras Tanura 30 days) held levels around 128. This follows a significant rise of 190 vessels noted in mid-March. However, TD3 rates have not yet shown signs of recovery, while an increase is likely when net supply drops below 100 vessels and even further down, as a similar case was experienced in mid-January with TD3 rates at an excess of WS70.
+Meanwhile, the latest weekly change in **net vessel supply**(spot-relet vessels available to load Ras Tanura 30 days) held levels around 128. This follows a significant rise of 190 vessels noted in mid-March. However, TD3 rates have not yet shown signs of recovery, while an increase is likely when net supply drops below 100 vessels and even further down, as a similar case was experienced in mid-January with TD3 rates at an excess of WS70.
 
 Despite the ongoing economic and trade headwinds, the IEA adjusted its 2025 oil demand growth forecast to reach 740,000 barrels per day in its May report, an increase from the previous estimate of 730,000 barrels per day reported in April. However, this revision does not ease the challenges posed by heightened trade uncertainties affecting the global economy and oil demand, while the IEA has emphasised that demand growth is expected to decelerate for the remainder of the year.
 
@@ -48,31 +48,31 @@ In parallel, updated EIA forecasts for oil demand growth have been released amid
 
 Crude oil tanker freight rates on the MEG-China route experienced a decline in momentum. Conversely, the Aframax Mediterranean route showed a slight recovery.
 
-- **VLCC**freight rates on the**MEG–China**dropped to WS 60, reflecting a 4% weekly increase. Meanwhile, Suezmax rates from West Africa to continental Europe dropped below WS80, showing a 10% weekly decrease. Meanwhile, rates on the**Baltic–Mediterranean route**dropped below WS110, standing 20% lower than a month ago.
-- **Aframax**freight rates in the**Mediterranean**indicated signs of rebound at WS130, showing a 10% weekly increase.
+- **VLCC** freight rates on the **MEG–China** dropped to WS 60, reflecting a 4% weekly increase. Meanwhile, Suezmax rates from West Africa to continental Europe dropped below WS80, showing a 10% weekly decrease. Meanwhile, rates on the **Baltic–Mediterranean route** dropped below WS110, standing 20% lower than a month ago.
+- **Aframax** freight rates in the **Mediterranean** indicated signs of rebound at WS130, showing a 10% weekly increase.
 
 ![Στιγμιότυπο Οθόνης 2025 05 26 090732](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b9a6976a59c3.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 05 26 090732**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b9a6976a59c3.png)
 
-- **LR2**AG freight rates rose to WS155, reflecting a monthly increase of 20%.
+- **LR2** AG freight rates rose to WS155, reflecting a monthly increase of 20%.
 
 ![Στιγμιότυπο Οθόνης 2025 05 26 090825](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ba6ee77a147a.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 05 26 090825**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ba6ee77a147a.png)
 
-- **Panamax**Carib-to-USG rates decreased to WS170, indicating a weakening trend from the prior week. This level is 15% lower than the rates seen a month ago.
+- **Panamax** Carib-to-USG rates decreased to WS170, indicating a weakening trend from the prior week. This level is 15% lower than the rates seen a month ago.
 
 ![Στιγμιότυπο Οθόνης 2025 05 26 090916](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c9c904b7ac7.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 05 26 090916**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c9c904b7ac7.png)
 
-- **MR1**freight rates for Baltic-to-Continent shipments hovered around WS180, representing a 30% weekly increase.
+- **MR1** freight rates for Baltic-to-Continent shipments hovered around WS180, representing a 30% weekly increase.
 
-- **MR2**freight rates for shipments from the Continent to the US Atlantic Coast (USAC) reached WS150, reflecting a 30% weekly increase. MR2 rates from the US Gulf to the Continent saw a notable rise to WS100, which marks an 11% increase week-on-week and a 5% decrease compared to rates from a month ago.
+- **MR2** freight rates for shipments from the Continent to the US Atlantic Coast (USAC) reached WS150, reflecting a 30% weekly increase. MR2 rates from the US Gulf to the Continent saw a notable rise to WS100, which marks an 11% increase week-on-week and a 5% decrease compared to rates from a month ago.
 
 ![Στιγμιότυπο Οθόνης 2025 05 26 091012](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b935a26b45ec.png)
 
@@ -98,23 +98,23 @@ Aframax Baltic: The current number of ships is approximately 21, a decrease of n
 
 - **Clean LR2 AG Jubail**: The number of vessels in the third decade of May has significantly decreased, falling 37% below the average trend.
 
-- **Clean MR**: Skikda, Algeria continued the downward trend of the previous week, reaching 31, 5 lower than the prior week. In**Amsterdam**, MR2 vessels are now above the annual average of 32 for a sixth consecutive week, confirming a sustained increase throughout May.
+- **Clean MR**: Skikda, Algeria continued the downward trend of the previous week, reaching 31, 5 lower than the prior week. In **Amsterdam**, MR2 vessels are now above the annual average of 32 for a sixth consecutive week, confirming a sustained increase throughout May.
 
 ![Στιγμιότυπο Οθόνης 2025 05 26 091230](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b0545b689657.png)
 
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 05 26 091230**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b0545b689657.png)
 
-- **Dirty**tonne days: Growth in VLCC tonne days declined sharply in the third decade of May. In the Suezmax segment, recent tonne-days growth is below the average trend line, with the latest peak recorded at the end of week 11, while Aframax tonne-days growth is above the average trend but still weaker than the peak at the end of week 17.
+- **Dirty** tonne days: Growth in VLCC tonne days declined sharply in the third decade of May. In the Suezmax segment, recent tonne-days growth is below the average trend line, with the latest peak recorded at the end of week 11, while Aframax tonne-days growth is above the average trend but still weaker than the peak at the end of week 17.
 
 ![Στιγμιότυπο Οθόνης 2025 05 26 091333](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72661c49971d.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 05 26 091333**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-26_vlcc-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72661c49971d.png)
 
-- **Panamax**tonne days: The growth rate is still below the average annual trend from the end of week 14, with the last increase recorded last year.
+- **Panamax** tonne days: The growth rate is still below the average annual trend from the end of week 14, with the last increase recorded last year.
 
-- **MR**tonne-days: The growth rate in the MR tanker segment has been decreasing since the end of Week 14 of 2025, with MR1 vessels continuously experiencing a particularly sharp decline.
+- **MR** tonne-days: The growth rate in the MR tanker segment has been decreasing since the end of Week 14 of 2025, with MR1 vessels continuously experiencing a particularly sharp decline.
 
 Data Source:[Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform)
 

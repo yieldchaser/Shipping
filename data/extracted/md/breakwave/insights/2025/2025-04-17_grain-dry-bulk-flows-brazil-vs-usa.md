@@ -48,10 +48,10 @@ In sharp contrast, Brazilian soybean exports to China have surged in 2025, with 
 
 ​​​​Sentiment in the Capesize freight market is softening as the number of ballasters rises, while early signs also point to a weakening outlook in the Panamax segment.
 
-- **Capesize**vessel freight rates from Brazil to North China closed at $19 per tonne, showing a 20% decrease compared to last month.
-- **Panamax**from the Continent remained at nearly $30 per tonne, showing a 6% monthly decrease, and a 30% decrease compared to last month.
-- **Supramax**vessel freight rates on the Indonesia–East Coast India (ECI) route held firm at approximately $9 per tonne, marking a 5% increase month-on-month.
-- **Handysize**freight rates for the NOPAC Far East route slipped slightly below $30 per tonne, registering a 6% decline month-on-month.
+- **Capesize** vessel freight rates from Brazil to North China closed at $19 per tonne, showing a 20% decrease compared to last month.
+- **Panamax** from the Continent remained at nearly $30 per tonne, showing a 6% monthly decrease, and a 30% decrease compared to last month.
+- **Supramax** vessel freight rates on the Indonesia–East Coast India (ECI) route held firm at approximately $9 per tonne, marking a 5% increase month-on-month.
+- **Handysize** freight rates for the NOPAC Far East route slipped slightly below $30 per tonne, registering a 6% decline month-on-month.
 
 ![Στιγμιότυπο Οθόνης 2025 04 16 160448](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-17_grain-dry-bulk-flows-brazil-vs-usa_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_eaedd84e85ed.png)
 

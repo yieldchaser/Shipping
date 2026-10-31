@@ -56,7 +56,7 @@ In the last few weeks, however, large US tech stocks have lagged their large-cap
 
 **Is the so-called “AI-Bubble” finally ready to burst? We don’t think so. Primarily because we don’t see a bubble” per se.**
 
-This time is not like the Wild West of the[dot.com](http://dot.com/)bubble. Behind these transactions lie helpful regulation, the implicit and explicit promises of the US government to help the AI industry, in order to achieve a strategic victory in the global geopolitical and geoeconomic race. Also, there is a US central bank which still, at least implicitly, remains determined to help in times of financial market stress.
+This time is not like the Wild West of the [dot.com](http://dot.com/) bubble. Behind these transactions lie helpful regulation, the implicit and explicit promises of the US government to help the AI industry, in order to achieve a strategic victory in the global geopolitical and geoeconomic race. Also, there is a US central bank which still, at least implicitly, remains determined to help in times of financial market stress.
 
 Second, valuations of some of the key companies after this extraordinary Magnificent Seven rally have come down to much more palatable levels. They deflated, but didn’t burst.
 

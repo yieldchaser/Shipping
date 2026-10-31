@@ -58,10 +58,10 @@ The lack of available vessels and increased iron ore shipments from Brazil have 
 
 ​​​​The diminishing number of ballasters continued to drive the accelerated rise in Capesize rates from Brazil to North China during the third week of March.
 
-- **Capesize**vessel freight rates from Brazil to North China have climbed to over $24 per tonne. This surge follows a mid-February dip to roughly $16 per tonne and represents a weekly increase of 8%, significantly boosting market sentiment.
-- **Panamax**vessel freight rates from the Continent to the Far East saw a 13% increase this week, climbing to over $30 per tonne.
-- **Supramax**vessel freight rates on the Indo-ECI route saw a 13% increase week-over-week, holding firm above $9 per tonne.
-- **Handysize**freight rates for the NOPAC Far East route saw a 10% increase over the month, remaining above almost $30 per tonne since the end of February.
+- **Capesize** vessel freight rates from Brazil to North China have climbed to over $24 per tonne. This surge follows a mid-February dip to roughly $16 per tonne and represents a weekly increase of 8%, significantly boosting market sentiment.
+- **Panamax** vessel freight rates from the Continent to the Far East saw a 13% increase this week, climbing to over $30 per tonne.
+- **Supramax** vessel freight rates on the Indo-ECI route saw a 13% increase week-over-week, holding firm above $9 per tonne.
+- **Handysize** freight rates for the NOPAC Far East route saw a 10% increase over the month, remaining above almost $30 per tonne since the end of February.
 
 ![Στιγμιότυπο Οθόνης 2025 03 19 230154](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-19_capesize-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3e3a9e63f840.png)
 

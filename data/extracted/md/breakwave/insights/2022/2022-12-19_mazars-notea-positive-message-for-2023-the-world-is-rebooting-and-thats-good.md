@@ -37,7 +37,7 @@ Good short-term returns at low volatility don’t come for free. Global debt soa
 
 **he pandemic beat them to it. High supply-side inflation caused the system to reboot itself. It’s a brave new world before us. New ways to work, new global alliances, new supply chains, new dynamics altogether. Quantitative Easing may yet again come back, but then it may not.**
 
-Yet this is good. Meme tech stocks descended from their mythic origins narrative towards fairer valuations, allowing their real competitors to also find funding and move the world forward. This is positive for discerning investors as well. A QE-turbo-charged financial market was too quick to stop and think of fundamentals. It’s not just the limitations of current tech industry models, which can always be overcome with cash and acquisitions. The reckoning is coming for the management models themselves. Already Wall Street scrapped the guru-style-led WeWork before private investors had had a chance to poor money into a disastrous business model. Already investors are taking a[closer look](https://www.ft.com/content/45497315-ea1c-438a-803d-5a30ed8dd1e5)at dual-class shares, which allow founders (and presumably their offspring) to control the fates of the very influential and highly valued tech behemoths. A model that ascribed lower valuations for Europe’s family-oriented businesses could well do the same to today’s unassailable Silicon Valley legends,[fight back as they may](https://www.ft.com/content/45497315-ea1c-438a-803d-5a30ed8dd1e5). It happened to the Vanderbilts, the Rockefellers and the Morgans, it happened to steel and the auto industry, it happened to banks, it is happening to tech.**Nothing bad about a spot of creative destruction.**
+Yet this is good. Meme tech stocks descended from their mythic origins narrative towards fairer valuations, allowing their real competitors to also find funding and move the world forward. This is positive for discerning investors as well. A QE-turbo-charged financial market was too quick to stop and think of fundamentals. It’s not just the limitations of current tech industry models, which can always be overcome with cash and acquisitions. The reckoning is coming for the management models themselves. Already Wall Street scrapped the guru-style-led WeWork before private investors had had a chance to poor money into a disastrous business model. Already investors are taking a[closer look](https://www.ft.com/content/45497315-ea1c-438a-803d-5a30ed8dd1e5) at dual-class shares, which allow founders (and presumably their offspring) to control the fates of the very influential and highly valued tech behemoths. A model that ascribed lower valuations for Europe’s family-oriented businesses could well do the same to today’s unassailable Silicon Valley legends,[fight back as they may](https://www.ft.com/content/45497315-ea1c-438a-803d-5a30ed8dd1e5). It happened to the Vanderbilts, the Rockefellers and the Morgans, it happened to steel and the auto industry, it happened to banks, it is happening to tech.**Nothing bad about a spot of creative destruction.**
 
 Meanwhile, yield has returned, and with it the benefits of a diversified portfolio. If the yield curves steepen (and remain thus) the next paradigm will be founded on a more ‘normal’ and stable basis. With it, credit could begin to flow again not just to stocks and bonds, but the real economy as well, ending an era dismally called ‘Secular Stagnation’.
 
@@ -50,8 +50,8 @@ Rebooting means volatility and uncertainty, but investors should remember that v
 
 So the lesson is simple.
 
-- A changing of paradigm is**unavoidable**and usually**necessary**.
-- It may be**painful**, even very painful for some time (one year to three if history is anything to go by), but
-- the**returns over the longer term tend**to balance out the short term losses.
+- A changing of paradigm is **unavoidable** and usually **necessary**.
+- It may be **painful**, even very painful for some time (one year to three if history is anything to go by), but
+- the **returns over the longer term tend** to balance out the short term losses.
 
-Merry[Christmas to all](https://www.youtube.com/watch?v=0FJU4GrXztE)[…](https://www.youtube.com/watch?v=0FJU4GrXztE)
+Merry [Christmas to all](https://www.youtube.com/watch?v=0FJU4GrXztE)[…](https://www.youtube.com/watch?v=0FJU4GrXztE)

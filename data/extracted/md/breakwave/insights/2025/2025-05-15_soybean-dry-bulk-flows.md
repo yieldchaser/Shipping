@@ -48,10 +48,10 @@ Although we have seen strong volumes of soybean voyage shipments to China, Balti
 
 Capesize freight market sentiment continued to weaken, while the Panamax market on the Continent–Far East route records a noticeable upward trend.
 
-- **Capesize**vessel freight rates from Brazil to North China hovered around $18 per tonne, showing a 4% decrease compared to last month.
-- **Panamax**from the Continent held recovered levels at nearly $31 per tonne, showing an 8% monthly increase.
-- **Supramax**vessel freight rates for the Indonesia to East Coast remained stable at approximately $9 per tonne. This figure reflects a 20% increase over the last quarter.
-- **Handysize**freight rates for the NOPAC Far East route held similar sentiment to the previous week at around $28 per tonne, registering a 4% decline month-on-month.
+- **Capesize** vessel freight rates from Brazil to North China hovered around $18 per tonne, showing a 4% decrease compared to last month.
+- **Panamax** from the Continent held recovered levels at nearly $31 per tonne, showing an 8% monthly increase.
+- **Supramax** vessel freight rates for the Indonesia to East Coast remained stable at approximately $9 per tonne. This figure reflects a 20% increase over the last quarter.
+- **Handysize** freight rates for the NOPAC Far East route held similar sentiment to the previous week at around $28 per tonne, registering a 4% decline month-on-month.
 
 ![Στιγμιότυπο Οθόνης 2025 05 15 104315](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7893606f7464.png)
 

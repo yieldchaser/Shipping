@@ -45,10 +45,10 @@ For more information on this week's trends, see the analysis sections below: Fre
 
 Strength continued across all vessel size categories during the second week of March, and further upside is expected in the coming days based on increasing growth in ton-days demand.
 
-- **Capesize**vessel freight rates are now approaching the $20/tonne mark, nearly $3.5/tonne higher than 5 weeks ago.
-- **Panamax**vessel freight rates fromtheContinent to the Far East peaked at $38/tonne last week and held at that level, up $6/tonne from the week 7 low.
-- **Supramax**freight rates for the Indo-ECI route rose nearly $12.5/tonne, with signs of further firming in the second half of March.
-- **Handysize**freight rates for the NOPAC Far East route are now at $32/tonne, up $3/tonne from week 7, and continue to show signs of a slow recovery in March.
+- **Capesize** vessel freight rates are now approaching the $20/tonne mark, nearly $3.5/tonne higher than 5 weeks ago.
+- **Panamax** vessel freight rates fromtheContinent to the Far East peaked at $38/tonne last week and held at that level, up $6/tonne from the week 7 low.
+- **Supramax** freight rates for the Indo-ECI route rose nearly $12.5/tonne, with signs of further firming in the second half of March.
+- **Handysize** freight rates for the NOPAC Far East route are now at $32/tonne, up $3/tonne from week 7, and continue to show signs of a slow recovery in March.
 
 ## Section 2/ Supply -Ballasters (# Vessels) Increasing
 
@@ -59,9 +59,9 @@ Strength continued across all vessel size categories during the second week of M
 
 The number of ballast ships has increased in all size classes, with only supramax ships showing a slowdown.
 
-- **Capesize**SE Africa: The number of vessels now stands at 103, which is 16% more than in week 7 and 29% more than the annual average.
-- **Panamax**SE Africa: The number of vessels increased to 113, 26 more than two weeks ago, with a tendency to increase further in the second half of March.
-- **Supramax**SE Asia: The number of vessels decreased to 100, 10 less than a week ago and 15% above the year-end 2022 low.
+- **Capesize** SE Africa: The number of vessels now stands at 103, which is 16% more than in week 7 and 29% more than the annual average.
+- **Panamax** SE Africa: The number of vessels increased to 113, 26 more than two weeks ago, with a tendency to increase further in the second half of March.
+- **Supramax** SE Asia: The number of vessels decreased to 100, 10 less than a week ago and 15% above the year-end 2022 low.
 - **Handys**ize NOPAC: The number of vessels now stands at 88, which is 11 above the annual average and has been rising steadily since week 6.
 
 ## Section 3/ Demand -TonDays Increasing
@@ -73,10 +73,10 @@ The number of ballast ships has increased in all size classes, with only suprama
 
 The second week of March surprised with the strong upward trend observed in the Capesize segment.
 
-- **Capesize**demand ton-days: The upward trend has now reached the growth level of the end of last year, and it remains to be seen whether this momentum will continue in the coming days.
-- **Panamax**demand ton-days: The level of growth is continuously higher than in the previous weeks of February, while sentiment is increasing, even if the latest level is still well below the peak of the end of last year.
-- **Supramax**demand ton-days: The upward trend continued with the same strength as the previous week, reaching the highest level with the recovery of freight rates in the last three weeks.
-- **Handysize**demand ton-days: Similar to Supramax tonnage, the growth trend continued, with signs of a further increase by the end of March.
+- **Capesize** demand ton-days: The upward trend has now reached the growth level of the end of last year, and it remains to be seen whether this momentum will continue in the coming days.
+- **Panamax** demand ton-days: The level of growth is continuously higher than in the previous weeks of February, while sentiment is increasing, even if the latest level is still well below the peak of the end of last year.
+- **Supramax** demand ton-days: The upward trend continued with the same strength as the previous week, reaching the highest level with the recovery of freight rates in the last three weeks.
+- **Handysize** demand ton-days: Similar to Supramax tonnage, the growth trend continued, with signs of a further increase by the end of March.
 
 ## Section 4/ Port Congestion -No of Vesselsincreasingdry Bulk Ships Congested at Chinese Ports
 

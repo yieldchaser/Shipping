@@ -54,9 +54,9 @@ With Savannah as the only major port reporting pre-Covid discharge conditions, o
 
 In reality, the solution is likely more lorry drivers and warehouse workers instead of more containers and bigger ships.
 
-A look at[our platform](http://xeneta.com/)illustrates that box rates in the past 30 days (Jan-13-Feb 13) are mixed, depending on the destination and the premiums charged:
+A look at [our platform](http://xeneta.com/) illustrates that box rates in the past 30 days (Jan-13-Feb 13) are mixed, depending on the destination and the premiums charged:
 
-Shanghai-Los Angeles Ports are up approx 5.27%, from**US$ 8,139 – 8, 568**plus additional surcharges of**US$ 1,130-1,711**while Shanghai-North European Main ports are down approx 2.55%**(US$ 14,436-14,068)**plus**$ 862-2,545**. The good news is the premiums/surcharges have lessened in both locations.
+Shanghai-Los Angeles Ports are up approx 5.27%, from **US$ 8,139 – 8, 568** plus additional surcharges of **US$ 1,130-1,711** while Shanghai-North European Main ports are down approx 2.55%**(US$ 14,436-14,068)**plus**$ 862-2,545**. The good news is the premiums/surcharges have lessened in both locations.
 
 However, that might be in response to the multi-billion dollar profits reported by the carriers in 2021 and growing governmental awareness of these profits as supply chains collapsed worldwide.
 

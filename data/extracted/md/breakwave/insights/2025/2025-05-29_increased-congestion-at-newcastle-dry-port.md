@@ -48,10 +48,10 @@ In the scenario of a delayed resolution, the debris issue could lead to further 
 
 Freight market sentiment for the Capesize Brazil/North China and Panamax Continent/Far East routes remained flat compared to the previous week.
 
-- **Capesize**vessel freight rates from Brazil to North China were around $19 per tonne, showing a 4% annual decrease.
-- **Panamax**vessel freight rates from the Continent remained stable at approximately $31 per tonne, mirroring the recovery seen in the third week of May. This level indicates a slight downward trend compared to the previous month, aligning with market momentum observed at the end of May in the prior year.
-- **Supramax**vessel freight rates from Indonesia to the East Coast declined by 3% week-on-week, falling below $9 per tonne.
-- **Handysize**vessel freight rates for the NOPAC Far East route held steady for the fourth consecutive week, continuing a modest upward trend near $29 per tonne. However, rates have not yet returned to the $30 per tonne level recorded in early April.
+- **Capesize** vessel freight rates from Brazil to North China were around $19 per tonne, showing a 4% annual decrease.
+- **Panamax** vessel freight rates from the Continent remained stable at approximately $31 per tonne, mirroring the recovery seen in the third week of May. This level indicates a slight downward trend compared to the previous month, aligning with market momentum observed at the end of May in the prior year.
+- **Supramax** vessel freight rates from Indonesia to the East Coast declined by 3% week-on-week, falling below $9 per tonne.
+- **Handysize** vessel freight rates for the NOPAC Far East route held steady for the fourth consecutive week, continuing a modest upward trend near $29 per tonne. However, rates have not yet returned to the $30 per tonne level recorded in early April.
 
 ![Στιγμιότυπο Οθόνης 2025 05 29 142527](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-29_increased-congestion-at-newcastle-dry-port_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d24e8862d987.png)
 

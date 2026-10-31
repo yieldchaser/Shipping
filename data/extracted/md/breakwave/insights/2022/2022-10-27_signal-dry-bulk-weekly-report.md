@@ -45,10 +45,10 @@ Data Source: The Signal Ocean Platform, Dry Bulk Flows
 
 In the last week of October, the downward trend of the previous week continued in all size classes, with Panamax rates remaining stable.
 
-- **Capesize**freight rates from Brazil to North China fell to $21.57/tonne, down nearly $4/tonne from week 40.
-- **Panamax**freight rates from the Continent to the Far East remained stable at around $42/tonne, down $2/t from the week 40 peak.
-- **Supramax**freight rates for the Indo-ECI route fell to $18/tonne, which appears to be the lowest since the end of week 37.
-- **Handysize**freight rates from NOPAC to the Far East fell to $37/tonne, down 42% from the week 21 peak.
+- **Capesize** freight rates from Brazil to North China fell to $21.57/tonne, down nearly $4/tonne from week 40.
+- **Panamax** freight rates from the Continent to the Far East remained stable at around $42/tonne, down $2/t from the week 40 peak.
+- **Supramax** freight rates for the Indo-ECI route fell to $18/tonne, which appears to be the lowest since the end of week 37.
+- **Handysize** freight rates from NOPAC to the Far East fell to $37/tonne, down 42% from the week 21 peak.
 
 ## Section 2/ Supply -Ballasters (# Vessels) Increasing
 
@@ -59,10 +59,10 @@ In the last week of October, the downward trend of the previous week continued i
 
 The number of ships in ballast was below the annual average for the Panamax size, while the trend for the other size classes is upward, and there is a clear upward trend for the Handysize size.
 
-- **Capesize**SE Africa: The number of vessels increased to 90, up 36% from the low in week 39 and 10 above the annual average of 79 vessels.
-- **Panamax**SE Africa: The number of vessels is 95, which is only 10 vessels below the annual average of 105.
-- **Supramax**SE Asia: Vessel count is up to 106, 11 more than the previous week.
-- **Handysize**NOPAC: The number of vessels has increased to 106, 11 more than the previous week.
+- **Capesize** SE Africa: The number of vessels increased to 90, up 36% from the low in week 39 and 10 above the annual average of 79 vessels.
+- **Panamax** SE Africa: The number of vessels is 95, which is only 10 vessels below the annual average of 105.
+- **Supramax** SE Asia: Vessel count is up to 106, 11 more than the previous week.
+- **Handysize** NOPAC: The number of vessels has increased to 106, 11 more than the previous week.
 
 ## Section 3/ Demand -TonDays Decreasing
 
@@ -73,10 +73,10 @@ The number of ships in ballast was below the annual average for the Panamax size
 
 October will end with a downward trend after a significant upswing in Capesize in the previous month. However, Capesize demand growth is still higher than in the second quarter, while Panamax remains relatively stable.
 
-- **Capesize**demand ton-days: The percentage increase continued the declining pace of previous weeks, while freight rates have yet to show an upswing. It remains to be seen whether November will see stronger growth.
-- **Panamax**demand ton-days: There are signs of stronger growth, albeit with strong fluctuations, with the last peak reached in week 10.
-- **Supramax**demand ton-days: There is still slower growth rate and no immediate signs of a short-term upturn.
-- **Handysize**demand ton-days: The decline has continued since week 40, and there are no signs of recovery yet.
+- **Capesize** demand ton-days: The percentage increase continued the declining pace of previous weeks, while freight rates have yet to show an upswing. It remains to be seen whether November will see stronger growth.
+- **Panamax** demand ton-days: There are signs of stronger growth, albeit with strong fluctuations, with the last peak reached in week 10.
+- **Supramax** demand ton-days: There is still slower growth rate and no immediate signs of a short-term upturn.
+- **Handysize** demand ton-days: The decline has continued since week 40, and there are no signs of recovery yet.
 
 ## Section 4/ Port Congestion -No of Vesselsincreasing
 

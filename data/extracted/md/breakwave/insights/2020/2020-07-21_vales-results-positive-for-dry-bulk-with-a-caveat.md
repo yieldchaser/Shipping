@@ -40,14 +40,14 @@ When it comes to guidance, Vale reaffirmed their 310-330 mt annual guidance for 
 
 For dry bulk, the results are promising:
 
-- With second half production guidance now at approximately 185mt (always based on the low end of their 310-330mt guidance) the swing in production versus the first half will be almost 55 mt, which means**an additional 140 Capesize fixtures****versus first half**, all else being equal.
+- With second half production guidance now at approximately 185mt (always based on the low end of their 310-330mt guidance) the swing in production versus the first half will be almost 55 mt, which means **an additional 140 Capesize fixtures** **versus first half**, all else being equal.
 - More importantly, the guidance now puts Vale’s second half production some 20mt above the comparable period of last year. That would translate to**a need of roughly 55 more Capesizes**.
 
 However,**Vale’s iron ore sales figures continue to lag production**. That is worrisome, as what matters for shipping is actual sales and not production. We estimate an equal ratio of sales to production for the second half, but given the Q2 results, additional inventory buildup will not be favorable for shipping (however, we believe Vale holds most of its inventory in Asia, thus they still would need to ship it by sea).
 
 The above factors combined with the fact that the average mile traveled has been increasing due to higher long haul exports from East Coast Canada and West Africa, points to a stronger Capesize demand during the second half of the year.
 
-Finally, with**port congestion now at double last year’s level**, the active Capesize fleet is lower, tilting the demand/supply balance to the benefit of the owners. Overall, Vale’s guidance is quite supportive for Capesizes for the rest of the year, and we anticipate another upswing in spot rates as we enter the month of August.
+Finally, with **port congestion now at double last year’s level**, the active Capesize fleet is lower, tilting the demand/supply balance to the benefit of the owners. Overall, Vale’s guidance is quite supportive for Capesizes for the rest of the year, and we anticipate another upswing in spot rates as we enter the month of August.
 
 ---
 

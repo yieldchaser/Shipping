@@ -266,6 +266,6 @@ For the first half of 2022, dry bulk market was echoing the fertile 2021 trading
 > **Figure 19: 1 (16)**  
 > **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-12-29_doric-dry-bulk-review-2022-part-23_img_1281629_93f2b426bd43.png)
 
--You can find Part1[here](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13)
+-You can find Part1 [here](https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13)
 
 Data source:[Doric](https://www.doric.gr/)

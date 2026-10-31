@@ -42,7 +42,7 @@ In terms of geopolitics (Venezuela, Iran), it has been one of the most interesti
 
 Yet, markets seem unfazed by these events. Are our portfolios oblivious to rising risks as the world becomes evidently more unstable? Stocks have been going up since the back end of 2025
 
-while the US Federal Reserve is once again buying securities in the open market, to[make sure that market turbulence](https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation/treasury-securities/treasury-securities-operational-details#:~:text=Based%20on%20the%20December%2010,and%2C%20if%20needed%2C%20other%20Treasury), as it stabilises its reserves, remains well managed (to be sure, this is risk management, not Quantitative Easing, as reserves may drop as well as rise).
+while the US Federal Reserve is once again buying securities in the open market, to [make sure that market turbulence](https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation/treasury-securities/treasury-securities-operational-details#:~:text=Based%20on%20the%20December%2010,and%2C%20if%20needed%2C%20other%20Treasury), as it stabilises its reserves, remains well managed (to be sure, this is risk management, not Quantitative Easing, as reserves may drop as well as rise).
 
 A weak employment market suggests that the Fed will also continue to cut rates in 2026, possibly more than once, as it has previously suggested.
 
@@ -52,7 +52,7 @@ Still, my economic brain can’t relax. Last year’s trade war should have wrou
 
 Adding to inflation worries is China, which is seeing a resurgence in inflation. Producer prices are still negative year-on-year, but they have been rising in the past few months.
 
-Companies may also want to increase the amount of tariffs they pass on to their customers, as their pre-tariff inventories run out. Morgan Stanley, Goldman Sachs and other investment firms have said that their thesis for 2026 is that prices will increase as consumers will be called upon to pay more than[37% of the cost of tariffs](https://www.cfobrew.com/stories/2026/01/06/how-cfos-should-be-approaching-tariffs-in-2026), which they did in 2025.
+Companies may also want to increase the amount of tariffs they pass on to their customers, as their pre-tariff inventories run out. Morgan Stanley, Goldman Sachs and other investment firms have said that their thesis for 2026 is that prices will increase as consumers will be called upon to pay more than [37% of the cost of tariffs](https://www.cfobrew.com/stories/2026/01/06/how-cfos-should-be-approaching-tariffs-in-2026), which they did in 2025.
 
 Of course, to be clear, there remains one big disinflationary force: lower employment in the United States. Despite the Trade War, we feel that a jobless boom will likely not be an inflationary boom.
 

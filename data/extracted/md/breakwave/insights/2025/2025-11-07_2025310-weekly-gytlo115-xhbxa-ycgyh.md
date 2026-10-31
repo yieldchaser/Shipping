@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-11-07_2025310-weekly-gytlo1
 
 ## Breakwave Shipping Report
 
-**VLCCs Go from Strength to Strength as Sanctions Drive Strong Sentiment**– VLCC rates continued their**surge into late October**, led by the Arabian Gulf–China and West Africa–China routes.
+**VLCCs Go from Strength to Strength as Sanctions Drive Strong Sentiment**– VLCC rates continued their **surge into late October**, led by the Arabian Gulf–China and West Africa–China routes.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2025114wetreport5kji24-kk875)
 

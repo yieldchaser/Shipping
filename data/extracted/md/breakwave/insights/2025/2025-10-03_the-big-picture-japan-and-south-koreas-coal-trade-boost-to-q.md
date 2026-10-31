@@ -26,11 +26,11 @@ source_file: "corpus/03-breakwave/insights/2025/2025-10-03_the-big-picture-japan
 
 ### Subdued Activity Prior to the Q3 Thermal Coal Import Jump
 
-**The positive Q3**for thermal coal imports into Japan and South Korea**contrasted with sliding volumes during the 1H 2025**.
+**The positive Q3** for thermal coal imports into Japan and South Korea **contrasted with sliding volumes during the 1H 2025**.
 
 At the same time, though positive, coking coal has been a less significant part of the import story.
 
-In its*Coal Mid-Year Update*, the International Energy Agency (IEA) noted**South Korean coal consumption was down 17%**during the 1H 2025.
+In its*Coal Mid-Year Update*, the International Energy Agency (IEA) noted **South Korean coal consumption was down 17%**during the 1H 2025.
 
 Moreover, at 15.5m tonnes, South Korean coking coal imports in the first eight months of the year lagged the year-ago level by 1.0m tonnes, while crude steel output fell -3.5%.
 
@@ -42,7 +42,7 @@ As with South Korea, Japan’s crude steel production fell in January-August, do
 
 Japan’s Q3 import gains are eye-catching when compared with preceding months, but less so in relation to the Q3 last year.
 
-**Japan’s energy mix is unique**in the sense that nuclear power capacity idled in the aftermath of the Fukushima earthquake and tsunami in 2011 did not return fully.
+**Japan’s energy mix is unique** in the sense that nuclear power capacity idled in the aftermath of the Fukushima earthquake and tsunami in 2011 did not return fully.
 
 Renewable energy is growing in Japan. By mid-September, McCloskey commented that heat waves in Japan was doing little to raise coal burn.
 
@@ -52,7 +52,7 @@ In December last year the IEA reported Japan’s goal of phasing out inefficient
 
 Last year, inefficient coal-fired power plants (efficiency below 40%) accounted for around 20% of Japan's total power plant fleet.
 
-With the exception of nuclear power, which is expanding, many of the overall trends evident in Japan’s power sector can be applied to**South Korea**.
+With the exception of nuclear power, which is expanding, many of the overall trends evident in Japan’s power sector can be applied to **South Korea**.
 
 **The IEA expects coal demand in South Korea to reduce by 4% next year**, with higher nuclear and renewable power generation in prospect. Nuclear generation was up 6.2% year-on-year in January–July.
 

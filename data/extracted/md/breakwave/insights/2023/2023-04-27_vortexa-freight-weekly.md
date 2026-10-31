@@ -19,7 +19,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-04-27_vortexa-freight-weekl
 
 ---
 
-By[Dylan Simpson](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=false&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACDtdn0BzHNR8syu_G8WxL-JXL-9PRT5AP4&keywords=dylan%20simpson&origin=RICH_QUERY_SUGGESTION&position=0&searchId=55ecee69-a408-47b2-8686-68f172e21af1&sid=mVl)
+By [Dylan Simpson](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=false&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACDtdn0BzHNR8syu_G8WxL-JXL-9PRT5AP4&keywords=dylan%20simpson&origin=RICH_QUERY_SUGGESTION&position=0&searchId=55ecee69-a408-47b2-8686-68f172e21af1&sid=mVl)
 
 ### Analysis / East of Suez / Dirty
 
@@ -31,9 +31,9 @@ By[Dylan Simpson](https://www.linkedin.com/search/results/all/?fetchDeterministi
 > *Weekly VLCC average waiting times in Shandong Province vs VLCC availability in the Middle East (RHS)*  
 > **Interactive Data & Source:** [Marketingmail Vortexa](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGLXVVK9SpMveHfoDkEEuOMRBU_1mawBoM3vZuHaxKkUjw_J0awJ7VVudjsMCB-iHEd-ftPpMc=) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-04-27_vortexa-freight-weekly_img_unnamed-2023-04-27t134401461_946ab48aa976.png)
 
-- Refineries in China (and other Asian countries) have commenced their planned refinery maintenance schedule, and[departures](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGLXVVK9SpMveHfoDkEEuOMRBU_1mawBoM3vZuHaxKkUjw_J0awJ7VVudjsMCB-iHEd-ftPpMc=)of crude towards China are set to decline for a second month in April and VLCC[tanker demand](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGLXVVK9liTrwTfwRwKUOZgwYUK4uoILWf1CPV33lW2JosTOuf7rU6VlSW6iO2P-KuIXuW6UnY=)towards China has remained flat.
-- This has kept VLCC rates on the decline, despite an uptick in VLCC[congestion](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGLXVVK9ropiV4aVgWpFQGTK_62td-Xmq0T6LFXl45jZ_U6TBFH_XmkUNAO5mO37n-TOWRhbkY=)in the Shandong Province as authorities carry out lab checks on crude cargoes.
-- Looking ahead, Chinese crude demand is likely to remain low until at least H2 this year. This could add to already high[availability](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGLXVVK9UpY1UsMXCA1cfT6gpGGQKZyUYJZJ1VLHTBsDG_7c9vaqOPZw1UQ9lACNaHB0SgYhbg=)of VLCCs in the Middle East, however, if congestion in China persists, this could tighten VLCC supply in the short term and offer support to rates.
+- Refineries in China (and other Asian countries) have commenced their planned refinery maintenance schedule, and [departures](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGLXVVK9SpMveHfoDkEEuOMRBU_1mawBoM3vZuHaxKkUjw_J0awJ7VVudjsMCB-iHEd-ftPpMc=) of crude towards China are set to decline for a second month in April and VLCC [tanker demand](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGLXVVK9liTrwTfwRwKUOZgwYUK4uoILWf1CPV33lW2JosTOuf7rU6VlSW6iO2P-KuIXuW6UnY=) towards China has remained flat.
+- This has kept VLCC rates on the decline, despite an uptick in VLCC [congestion](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGLXVVK9ropiV4aVgWpFQGTK_62td-Xmq0T6LFXl45jZ_U6TBFH_XmkUNAO5mO37n-TOWRhbkY=) in the Shandong Province as authorities carry out lab checks on crude cargoes.
+- Looking ahead, Chinese crude demand is likely to remain low until at least H2 this year. This could add to already high [availability](https://marketingmail.vortexa.com/ODM3LU1aRS01NzgAAAGLXVVK9UpY1UsMXCA1cfT6gpGGQKZyUYJZJ1VLHTBsDG_7c9vaqOPZw1UQ9lACNaHB0SgYhbg=) of VLCCs in the Middle East, however, if congestion in China persists, this could tighten VLCC supply in the short term and offer support to rates.
 
 ### Analysis / West of Suez / Dirty
 

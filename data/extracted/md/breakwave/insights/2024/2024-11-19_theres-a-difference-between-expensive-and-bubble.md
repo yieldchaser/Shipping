@@ -90,7 +90,7 @@ Having said that, looking closer at 3-year returns (a good horizon for a particu
 > **Figure 3: Market Chart 3**  
 > **Interactive Data & Source:** [Dot](http://dot.com/) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-19_theres-a-difference-between-expensive-and-bubble_img_image003_69bde0c2bcdd.png)
 
-When did this happen? Mostly in 1992, 1998 and 2021. In 1992 and 2021, the economy was reeling from a recession. Central banks had become more helpful and accommodative, allowing stock market to rally well ahead of actual earnings growth, which exploded valuations until earnings were allowed to catch up to expectations. Conversely, 1998 was the beginning (or maybe the middle?) of the[dot.com](http://dot.com/)bubble. Since we are no longer reeling from a recession, 1998, a bona fide bubble, is the more relevant example.
+When did this happen? Mostly in 1992, 1998 and 2021. In 1992 and 2021, the economy was reeling from a recession. Central banks had become more helpful and accommodative, allowing stock market to rally well ahead of actual earnings growth, which exploded valuations until earnings were allowed to catch up to expectations. Conversely, 1998 was the beginning (or maybe the middle?) of the [dot.com](http://dot.com/) bubble. Since we are no longer reeling from a recession, 1998, a bona fide bubble, is the more relevant example.
 
 Is the economy at least supportive? Not really. US Large cap market cap as a percentage of next years GDP is at the highest level since 2000 that we have full data for.
 

@@ -28,7 +28,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-08-31_1v71f81xvhwp37vgvkzui
 
 China has also turned a net importer of steel. Strong demand for steel as the country unleashed stimulus programs has ramped up consumption of raw materials. China is buying all the iron ore, the main ingredient for steel, they can find. In Vale we trust/pray to deliver.
 
-[Truck sales in China surged](https://www.reuters.com/article/us-china-autos/china-auto-sales-surge-in-july-log-fourth-straight-month-of-gains-idUSKCN257039)by 65% year-on-year in July, the fastest rate since Dec-09. Its high level of correlation with electricity generation provides an early warning of an increase in industrial activity.
+[Truck sales in China surged](https://www.reuters.com/article/us-china-autos/china-auto-sales-surge-in-july-log-fourth-straight-month-of-gains-idUSKCN257039) by 65% year-on-year in July, the fastest rate since Dec-09. Its high level of correlation with electricity generation provides an early warning of an increase in industrial activity.
 
 It’s not a secret that dry bulk shipping is mainly a China play and dry bulk trade is expected to recover, propelled by the global infrastructure stimulus response to Covid-19.
 

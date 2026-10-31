@@ -33,7 +33,7 @@ Shipping is highly cyclical, and once again, such cyclicality is evident with th
 
 With September loading dates only a few weeks away, we believe a potential upturn will materialize soon. The shape of the freight futures market turned from a backwardation to contango in less than a week, as now the market is anticipating such a bottoming process to take place. The question is how high can rates go from here once (and always of course if) spot rates turn.
 
-An interesting chart that was posted recently by[2020 Bulkers](https://www.linkedin.com/posts/magnus-halvorsen-0518381_newcastlemax-2020bulkers-ironore-activity-6691603131089870848-9CaE/)might provide some clues on that front. Currently second half average Capesize rates are priced at approximately 18,000/day based in the futures curve. If true that would be the lowest 2H in four years for Capesize rates. With Vale 2H production expected to reach 180mt+, the upside based on historical relationships seems to outweigh the potential risk:
+An interesting chart that was posted recently by [2020 Bulkers](https://www.linkedin.com/posts/magnus-halvorsen-0518381_newcastlemax-2020bulkers-ironore-activity-6691603131089870848-9CaE/) might provide some clues on that front. Currently second half average Capesize rates are priced at approximately 18,000/day based in the futures curve. If true that would be the lowest 2H in four years for Capesize rates. With Vale 2H production expected to reach 180mt+, the upside based on historical relationships seems to outweigh the potential risk:
 
 ![Vale Production vs Capesize Rates](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-07-23_capesize-decline-to-slow-down-but-turnaround-still-weeks-away_img_valeproductionvscapesizerates_06932f480f2e.jpg)
 

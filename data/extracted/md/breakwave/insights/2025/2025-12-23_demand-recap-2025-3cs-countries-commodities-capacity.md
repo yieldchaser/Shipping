@@ -71,7 +71,7 @@ Although the EU has rebounded over the past two years, this recovery largely ref
 
 ### Commodities
 
-**Iron ore trade volumes**continue to push higher this year, with a y-o-y growth of 2.4% (+37.7 mln mt) for January to November. Australian exports contributed an additional 13.2 mln mt while Brazil upped it with 16.6 mln mt gains, giving ore carriers firm support at the Pacific and Atlantic basin. On the import end, China drove bulk of the gains at +30.0 mln mt. As mentioned earlier, developed countries such as Japan and South Korea continue to dampen the growth brought by China and other countries.
+**Iron ore trade volumes** continue to push higher this year, with a y-o-y growth of 2.4% (+37.7 mln mt) for January to November. Australian exports contributed an additional 13.2 mln mt while Brazil upped it with 16.6 mln mt gains, giving ore carriers firm support at the Pacific and Atlantic basin. On the import end, China drove bulk of the gains at +30.0 mln mt. As mentioned earlier, developed countries such as Japan and South Korea continue to dampen the growth brought by China and other countries.
 
 ![Στιγμιότυπο Οθόνης 2025 12 23 124047](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d33c5a7c8f5.png)
 
@@ -80,7 +80,7 @@ Although the EU has rebounded over the past two years, this recovery largely ref
 
 Over the past two years, a surge in Chinese steel exports pressured Japanese and Korean steelmakers, impacting their profitability and thus, raw material needs. Furthermore, Japan and South Korea are also heavily investing in Electric Arc Furnaces (EAFs) which use more scrap steel.
 
-**Coal trade volumes**in 2025 dropped by 57.8 mln mt across January-November, representing a 4.6% annual contraction. The majority of this decline was driven by China, where imports fell by 60.8 mln mt. The sharp fall in domestic coal prices to four-year lows has reduced the attractiveness of imported coal, particularly given Indonesia’s efforts to raise coal prices by gaining greater control over HBA index-based pricing.
+**Coal trade volumes** in 2025 dropped by 57.8 mln mt across January-November, representing a 4.6% annual contraction. The majority of this decline was driven by China, where imports fell by 60.8 mln mt. The sharp fall in domestic coal prices to four-year lows has reduced the attractiveness of imported coal, particularly given Indonesia’s efforts to raise coal prices by gaining greater control over HBA index-based pricing.
 
 ![Στιγμιότυπο Οθόνης 2025 12 23 124058](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a878d183d1b6.png)
 
@@ -91,7 +91,7 @@ At the same time, Chinese utilities have increasingly prioritized long term offt
 
 The contraction in Chinese coal imports has been further compounded by concurrent declines in Japan and South Korea, while miniscule increases from Vietnam, India and others have been insufficient to offset the broader weakness.
 
-**Grain (soybeans, corn, wheat etc) trade volumes**have remained relatively subdued this year compared with recent peaks, declining by 3.5 mln mt over the first eleven months, equivalent to a 0.7% y-o-y contraction. As with coal, China accounted for the bulk of the weakness, with grain imports falling by 15.2 mln mt in 2025, while the shortfall was largely absorbed by the rest of the world.
+**Grain (soybeans, corn, wheat etc) trade volumes** have remained relatively subdued this year compared with recent peaks, declining by 3.5 mln mt over the first eleven months, equivalent to a 0.7% y-o-y contraction. As with coal, China accounted for the bulk of the weakness, with grain imports falling by 15.2 mln mt in 2025, while the shortfall was largely absorbed by the rest of the world.
 
 ![Στιγμιότυπο Οθόνης 2025 12 23 124115](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9b1cf8e39bcf.png)
 

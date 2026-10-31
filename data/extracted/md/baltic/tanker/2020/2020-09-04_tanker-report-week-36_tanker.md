@@ -38,7 +38,7 @@ In the Mediterranean market, the 80,000mt Ceyhan/Med trade saw owners able to cl
 
 Owners in the Middle East Gulf had a reality check this week with rates for 75,000mt to Japan easing around six points to barely WS90, while in the 55,000mt trade the market which ended the previous week in the high WS90s came under heavy downward pressure and has seen a number of deals subsequently concluded at WS76.
 
-After the sharp fluctuations last week in the West, the market for 37,000mt UKC/USAC started the week down almost 10 points at just above WS105 before subsequently recovering to WS120 as tonnage in the natural fixing window tightened somewhat. In the backhaul business for 38,000mt USGulf/UKC, the negative trend continued with the market losing another 22.5 points to sit now at around WS67.5. Brazil discharge ratesfollowed suitlosing over 20 points to very low WS100s. The 30,000mt clean cross-Med trade continued its revival gaining over 32.5 points to be assessed now in the high WS120s.
+After the sharp fluctuations last week in the West, the market for 37,000mt UKC/USAC started the week down almost 10 points at just above WS105 before subsequently recovering to WS120 as tonnage in the natural fixing window tightened somewhat. In the backhaul business for 38,000mt USGulf/UKC, the negative trend continued with the market losing another 22.5 points to sit now at around WS67.5. Brazil discharge rates followed suit losing over 20 points to very low WS100s. The 30,000mt clean cross-Med trade continued its revival gaining over 32.5 points to be assessed now in the high WS120s.
 
 ---
 

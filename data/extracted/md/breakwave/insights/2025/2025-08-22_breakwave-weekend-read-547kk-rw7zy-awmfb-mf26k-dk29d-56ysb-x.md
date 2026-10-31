@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-08-22_breakwave-weekend-rea
 
 ## Breakwave Shipping Report
 
-**August Blues Depress Volatility but Rates Hold Strong**– An**uneventful****fortnight**in terms of cargo flow has reduced near-term activity, contributing to a**decline**in spot rate**volatility**.
+**August Blues Depress Volatility but Rates Hold Strong**– An **uneventful** **fortnight** in terms of cargo flow has reduced near-term activity, contributing to a**decline** in spot rate **volatility**.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2025819db-5cnlk458)
 

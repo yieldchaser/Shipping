@@ -36,10 +36,10 @@ Interestingly, in the Capesize South Atlantic region, there has been a notable r
 
 During the third week of February, the freight market has exhibited more robust indications in the Capesize Brazil to North China route, accompanied by emerging signs of an uptick in the Panamax Continent to the Far East route as well.
 
-- **Capesize**vessel freight rates for shipments from Brazil to North China have surged to $22 per ton, marking a notable 10% monthly uptick. Despite this rise, current rates stand $5 per ton below the previous peak observed at the outset of January.
-- **Panamax**vessel freight rates from the Continent to the Far East have maintained a level of approximately $39 per ton, marking an 18% increase compared to the rates recorded during the same week last year.
-- **Supramax**vessel freight rates on the Indo-ECI route have experienced a downward trend, settling around $10 per tonne, marking a consistent decline since the beginning of the year.
-- **Handysize**freight rates for the NOPAC Far East route have remained resilient, maintaining stability at approximately $29 per tonne since mid-January. Currently, there are no clear indications of an imminent upturn in rates.
+- **Capesize** vessel freight rates for shipments from Brazil to North China have surged to $22 per ton, marking a notable 10% monthly uptick. Despite this rise, current rates stand $5 per ton below the previous peak observed at the outset of January.
+- **Panamax** vessel freight rates from the Continent to the Far East have maintained a level of approximately $39 per ton, marking an 18% increase compared to the rates recorded during the same week last year.
+- **Supramax** vessel freight rates on the Indo-ECI route have experienced a downward trend, settling around $10 per tonne, marking a consistent decline since the beginning of the year.
+- **Handysize** freight rates for the NOPAC Far East route have remained resilient, maintaining stability at approximately $29 per tonne since mid-January. Currently, there are no clear indications of an imminent upturn in rates.
 
 ![Screenshot 2024 02 14 18.22.44](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-02-14_dry-weekly-market-monitor_img_screenshot2024-02-14182244_ac829f743618.png)
 

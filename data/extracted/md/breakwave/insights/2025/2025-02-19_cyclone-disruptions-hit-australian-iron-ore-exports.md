@@ -40,10 +40,10 @@ From a market perspective, the immediate impact of these disruptions has been re
 
 The overall trend for Capesize Brazil to North China rates remains bearish, while signs of a gradual recovery are emerging in the smaller vessel size segments.
 
-- **Capesize**vessel freight rates for shipments from Brazil to North China continue to show a bearish trend, with rates below the $17/tonne mark.
-- **Panamax**vessel freight rates from the Continent to the Far East declined to $29 per ton, representing a 27% drop year-over-year.
-- **Supramax**vessel freight rates on the Indo-ECI route have been revised above $8 per ton, reflecting a 9% increase compared to the previous month.
-- **Handysize**freight rates for the NOPAC Far East route have risen to $28 per ton, reflecting a 13% increase from the previous week.
+- **Capesize** vessel freight rates for shipments from Brazil to North China continue to show a bearish trend, with rates below the $17/tonne mark.
+- **Panamax** vessel freight rates from the Continent to the Far East declined to $29 per ton, representing a 27% drop year-over-year.
+- **Supramax** vessel freight rates on the Indo-ECI route have been revised above $8 per ton, reflecting a 9% increase compared to the previous month.
+- **Handysize** freight rates for the NOPAC Far East route have risen to $28 per ton, reflecting a 13% increase from the previous week.
 
 ![Στιγμιότυπο Οθόνης 2025 02 19 165248](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-19_cyclone-disruptions-hit-australian-iron-ore-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2f469886d23a.png)
 

@@ -29,9 +29,9 @@ Once again, the iron ore market find itself in a position where macroeconomic fo
 
 Fast forward to today, and a number of analysts are revising such assumptions. Yesterday, JP Morgan raised its iron ore price forecasts for 2020 and 2021 by ~10%, with China steel production growth expected now to be up 1.2%, versus -1.5% previously. The bank highlighted Vale’s difficulty in lifting their run rate following heavy rains during the first half of the year but also the better than expected Chinese demand coming from steel mills despite the relatively low margins.
 
-Interestingly, strong demand from China has lifted exports from a number of other regions, as[Europe’s steel sector remains in a “industrial depression](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/global-steel-sector-faces-uncertain-road-to-recovery-in-wake-of-pandemic-58611532)”, thus demand for iron ore has waned quite a bit.
+Interestingly, strong demand from China has lifted exports from a number of other regions, as [Europe’s steel sector remains in a “industrial depression](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/global-steel-sector-faces-uncertain-road-to-recovery-in-wake-of-pandemic-58611532)”, thus demand for iron ore has waned quite a bit.
 
-From Arrow Research:*“Dire conditions in the European steel industry**is forcing its major iron ore**suppliers to divert cargoes to China. Ukraine, Canada and Russia saw their exports to China rise by 166%, 77% and 12% respectively during Jan-May”*
+From Arrow Research:*“Dire conditions in the European steel industry* *is forcing its major iron ore* *suppliers to divert cargoes to China. Ukraine, Canada and Russia saw their exports to China rise by 166%, 77% and 12% respectively during Jan-May”*
 
 ![“Some Are Skeptical](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-09_chasing-the-rally-analysts-raising-their-iron-ore-forecasts_img_arrow_d2d09ee0d34a.jpg)
 
@@ -41,7 +41,7 @@ From Arrow Research:*“Dire conditions in the European steel industry**is forci
 
 Still a number of bullish voices remain, citing the chronic inability of Vale to deliver results in line with their guidance. As Bloomberg reports, this is what continues to drive bullish sentiment:
 
-Finally, the question is what happens to iron ore prices if Europe recovers faster and stronger than anticipated? Or, even worse, what happens if the[relationship between China and Australia worsens](https://www.abc.net.au/news/2020-06-07/australia-china-racism-coronavirus-how-did-relationship-get-here/12330250)leading to even the slightest curtailment of iron ore trade between the two countries? Can we see iron ore above $150/t again, a level not seen since 2011?
+Finally, the question is what happens to iron ore prices if Europe recovers faster and stronger than anticipated? Or, even worse, what happens if the [relationship between China and Australia worsens](https://www.abc.net.au/news/2020-06-07/australia-china-racism-coronavirus-how-did-relationship-get-here/12330250) leading to even the slightest curtailment of iron ore trade between the two countries? Can we see iron ore above $150/t again, a level not seen since 2011?
 
 ![Market Chart 3](../../../../../../corpus/03-breakwave/insights/2020/assets/2020-06-09_chasing-the-rally-analysts-raising-their-iron-ore-forecasts_img_image-asset_06e250205128.jpeg)
 

@@ -49,10 +49,10 @@ For more information on this week's trends, see the analysis sections below: Fre
 
 In early April, the strength of recent days in the smaller vessel categories has weakened, while rates for Capesize and Panamax vessels continue to rise.
 
-- **Capesize**vessel freight rates are now at $21/tonne, up nearly $5/tonne from 5 weeks ago.
-- **Panamax**vessel freight rates fromtheContinent to the Far East are now just above $38/tonne, while current rates are nearly $7/tonne above the week 7 low.
-- **Supramax**freight rates for the Indo-ECI route fell slightly below $12/tonne, with signs of weakening in the first half of April.
-- **Handysize**freight rates for the NOPAC Far East route moved slightly below $34/tonne, but were still $4/tonne above the week 7 low, marking six consecutive weeks of significant firming.
+- **Capesize** vessel freight rates are now at $21/tonne, up nearly $5/tonne from 5 weeks ago.
+- **Panamax** vessel freight rates fromtheContinent to the Far East are now just above $38/tonne, while current rates are nearly $7/tonne above the week 7 low.
+- **Supramax** freight rates for the Indo-ECI route fell slightly below $12/tonne, with signs of weakening in the first half of April.
+- **Handysize** freight rates for the NOPAC Far East route moved slightly below $34/tonne, but were still $4/tonne above the week 7 low, marking six consecutive weeks of significant firming.
 
 ## Section 2/ Supply -Ballasters (# Vessels)capesize - Panamax Decreasing | Supramax Increasing
 
@@ -63,10 +63,10 @@ In early April, the strength of recent days in the smaller vessel categories has
 
 The number of ballast ships continues to decrease in the Capesize and Panamax segments, while increasing in the smaller ship categories.
 
-- **Capesize**SE Africa: The number of vessels now stands at 70, down 2 from the previous week and 10 below the annual average.​​​​​​
-- **Panamax**SE Africa: The number of vessels has fallen to 89, 23 less than three weeks ago, with a tendency to remain below the annual average of 100 in the coming days.
-- **Supramax**SE Asia: The number of vessels increased to 107, almost 10 more than a week ago and 20 above the annual average.​
-- **Handysize**NOPAC: The number of vessels is now 85, 20% above the annual average and the highest level in the last year.
+- **Capesize** SE Africa: The number of vessels now stands at 70, down 2 from the previous week and 10 below the annual average.​​​​​​
+- **Panamax** SE Africa: The number of vessels has fallen to 89, 23 less than three weeks ago, with a tendency to remain below the annual average of 100 in the coming days.
+- **Supramax** SE Asia: The number of vessels increased to 107, almost 10 more than a week ago and 20 above the annual average.​
+- **Handysize** NOPAC: The number of vessels is now 85, 20% above the annual average and the highest level in the last year.
 
 ## Section 3/ Demand -TonDays Increasing
 
@@ -77,10 +77,10 @@ The number of ballast ships continues to decrease in the Capesize and Panamax se
 
 April marks a continued recovery in demand growth in the Panamax segment, and the Supramax segment also gives reason for further optimism, as recent growth appears to be the highest compared to the beginning of the year and last year.
 
-- **Capesize**demand ton-days: The upward trend of the last six weeks continues, but we expect even higher growth rates in the second half of the year.
-- **Panamax**demand ton-days: Growth reached its highest level since the first week of this year and is expected to continue as Australian coal shipments to China boost demand.
-- **Supramax**demand ton-days: The upward trend in supramax vessel demand is outpacing growth in demand for other vessel categories, signalling an upward cycle for the smaller vessel categories.
-- **Handysize**demand ton-days: We continue to see positive signs of stronger momentum, with growth well above the week 6 low and a stronger recovery in the first days of April.
+- **Capesize** demand ton-days: The upward trend of the last six weeks continues, but we expect even higher growth rates in the second half of the year.
+- **Panamax** demand ton-days: Growth reached its highest level since the first week of this year and is expected to continue as Australian coal shipments to China boost demand.
+- **Supramax** demand ton-days: The upward trend in supramax vessel demand is outpacing growth in demand for other vessel categories, signalling an upward cycle for the smaller vessel categories.
+- **Handysize** demand ton-days: We continue to see positive signs of stronger momentum, with growth well above the week 6 low and a stronger recovery in the first days of April.
 
 ## Section 4/ Port Congestion -No of Vesselsincreasingdry Bulk Ships Congested at Chinese Ports
 

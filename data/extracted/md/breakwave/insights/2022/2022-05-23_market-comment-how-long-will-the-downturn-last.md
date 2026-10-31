@@ -55,7 +55,7 @@ For the Fed It will take one of two conditions- whichever comes first.
 
 Now, we don't believe that supply-side inflation can really be directly controlled by the Fed. It would take an extreme crunch in American demand for the whole global product cycle to be meaningfully affected. The Fed could have changed its stance well before things turned that bad. Which means that inflation may rise or fall, independently of what the Fed does. This would make the window between Fed decisions and the fall of inflation random.
 
-But where the Fed has power, is to affect US demand. That's why the second scenario is more likely: That**the Fed will turn dovish only when it feels that present economic and financial risks outweigh the risks of residual inflation**. And because US employment conditions are likely to remain tight for structural reasons, ultimately, it will probably be growth that may force the Fed's hand.
+But where the Fed has power, is to affect US demand. That's why the second scenario is more likely: That **the Fed will turn dovish only when it feels that present economic and financial risks outweigh the risks of residual inflation**. And because US employment conditions are likely to remain tight for structural reasons, ultimately, it will probably be growth that may force the Fed's hand.
 
 In other words, market returns will likely depend on how quickly the US central bank can put the breaks on consumer demand.**The key indicator to watch is consumer resilience**. If the underlying post-pandemic economy is weak, it won't be long before the central bank turns dovish again. If consumers are stronger than we think (see last week's UK retail data), it could be longer.
 

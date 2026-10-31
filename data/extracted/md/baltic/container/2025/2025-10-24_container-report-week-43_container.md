@@ -24,9 +24,9 @@ source_file: "corpus/08-baltic/container/2025/2025-10-24_container-report-week-4
 
 In the last 7 days overall Baltic / FBX container shipping rates have held steady with a small 0.6% increase in the headline rate.
 
-The China/East Asia to North America West Coast**FBX01**saw a $74 fall or 3.6%, but conversely the**FBX03** to North America East Coast saw a $226 or 6.73% rise.
+The China/East Asia to North America West Coast **FBX01** saw a $74 fall or 3.6%, but conversely the **FBX03** to North America East Coast saw a $226 or 6.73% rise.
 
-Rates from China/East Asia to North Europe**FBX11** saw modest gains of 0.4%, while China/East Asia to Mediterranean fell 0.7%
+Rates from China/East Asia to North Europe **FBX11** saw modest gains of 0.4%, while China/East Asia to Mediterranean fell 0.7%
 
 These small gains are not as large as last weeks, but carriers will be pleased of the change in recent direction and will be pushing for more in following weeks.
 

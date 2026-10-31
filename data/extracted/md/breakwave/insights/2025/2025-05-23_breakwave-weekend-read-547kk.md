@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-05-23_breakwave-weekend-rea
 
 ## Breakwave Shipping Report
 
-**Stability Brings Optimism**– The VLCC market has shown signs of**stabilization**, particularly on Eastern routes.
+**Stability Brings Optimism**– The VLCC market has shown signs of **stabilization**, particularly on Eastern routes.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2025205wet855547pp)
 

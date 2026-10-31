@@ -45,10 +45,10 @@ For more information on this week's trends, see the analysis sections below: Fre
 
 February ended with stronger momentum in rates, having previously declined on a weekly basis, with clear signs of an upturn in the Panamax segment.
 
-- **Capesize**vessel freight rates are now at $17/tonne, trending above $17/tonne for the first time since the end of the third week.
-- **Panamax**vessel freight rates fromtheContinent to the Far East are over $36/tonne, $4/tonne more than two weeks ago.
-- **Supramax**freight rates for the Indo-ECI route held above $11/tonne, with signs of further firming in early March.
-- **Handysize**freight rates for the NOPAC route to the Far East are now at $31/tonne, with slight signs of slow recovery for early March.
+- **Capesize** vessel freight rates are now at $17/tonne, trending above $17/tonne for the first time since the end of the third week.
+- **Panamax** vessel freight rates fromtheContinent to the Far East are over $36/tonne, $4/tonne more than two weeks ago.
+- **Supramax** freight rates for the Indo-ECI route held above $11/tonne, with signs of further firming in early March.
+- **Handysize** freight rates for the NOPAC route to the Far East are now at $31/tonne, with slight signs of slow recovery for early March.
 
 ## Section 2/ Supply -Ballasters (# Vessels) Increasing
 
@@ -59,10 +59,10 @@ February ended with stronger momentum in rates, having previously declined on a 
 
 The number of ballast vessels continued to increase significantly in the Handysize segment, with an upward trend in all size classes, with the exception of Panamax vessels, which saw a downward trend for two consecutive weeks.
 
-- **Capesize**SE Africa: The number of vessels now stands at 93, which is 14 more than the average for the year and 57% more than the lowest level in week 51.
-- **Panamax**SE Africa: The number of vessels has fallen to 83, 18 below the annual average and 43% below the level of week 5.
-- **Supramax**SE Asia: The number of vessels increased to 97, 8 more than week 5 and 23% above the year-end 2022 low.
-- **Handysize**NOPAC: The number of ships has risen to over 90 in the last three weeks, with a tendency for another sharp increase in the first days of March.
+- **Capesize** SE Africa: The number of vessels now stands at 93, which is 14 more than the average for the year and 57% more than the lowest level in week 51.
+- **Panamax** SE Africa: The number of vessels has fallen to 83, 18 below the annual average and 43% below the level of week 5.
+- **Supramax** SE Asia: The number of vessels increased to 97, 8 more than week 5 and 23% above the year-end 2022 low.
+- **Handysize** NOPAC: The number of ships has risen to over 90 in the last three weeks, with a tendency for another sharp increase in the first days of March.
 
 ## Section 3/ Demand -TonDays Increasing
 

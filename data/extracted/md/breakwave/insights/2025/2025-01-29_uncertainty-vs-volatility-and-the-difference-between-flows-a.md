@@ -48,7 +48,7 @@ The swing in volumes is unprecedented. Between September and November the change
 
 This reshuffling in Wider Arabian Sea flows has a huge knock-on effect on clean freight markets, as voyages to the East are typically (much) shorter than to the West, especially in times of avoidance of the Bab-el-Mandeb.
 
-Amid these steep shifts in freight market fundamentals – that are not necessarily visible in aggregate global and regional import and export figures – it comes as no surprise that our clients (including in particular the financial players) are expressing more and more interest in our[freight analytics toolset](https://www.vortexa.com/product-freight-analytics/).
+Amid these steep shifts in freight market fundamentals – that are not necessarily visible in aggregate global and regional import and export figures – it comes as no surprise that our clients (including in particular the financial players) are expressing more and more interest in our [freight analytics toolset](https://www.vortexa.com/product-freight-analytics/).
 
 ## Potential Tariffs Are Again Primarily a Freight and Not an S/d Factor…
 

@@ -45,10 +45,10 @@ Data Source: The Signal Ocean Platform, Chinese dry bulk port congestion
 
 In the last days of February, rates are at similar levels as last week, while the general sentiment continues to weaken, with the Supramax segment offering stronger resistance to a downward trend.
 
-- **Capesize**vessel freight rates are now at $16/tonne, with March sentiment even weaker.
-- **Panamax**vessel freight rates fromtheContinent to the Far East are hovering below $32/tonne, and there is no sign yet of firmer pricing.
-- **Supramax**freight rates for the Indo-ECI route held at levels near $10/tonne, with indications that they will not drop significantly through late February/early March.
-- **Handysize**freight rates for the NOPAC route to the Far East are now at $29.5/tonne, with slight signs of gradual recovery for early March.
+- **Capesize** vessel freight rates are now at $16/tonne, with March sentiment even weaker.
+- **Panamax** vessel freight rates fromtheContinent to the Far East are hovering below $32/tonne, and there is no sign yet of firmer pricing.
+- **Supramax** freight rates for the Indo-ECI route held at levels near $10/tonne, with indications that they will not drop significantly through late February/early March.
+- **Handysize** freight rates for the NOPAC route to the Far East are now at $29.5/tonne, with slight signs of gradual recovery for early March.
 
 ## Section 2/ Supply -Ballasters (# Vessels) Increasing
 
@@ -59,10 +59,10 @@ In the last days of February, rates are at similar levels as last week, while th
 
 The number of ballast ships has continued to increase significantly, apart from the Panamax segment.
 
-- **Capesize**SE Africa: The number of vessels now stands at 91, which is 12 more than the average for the year and 55% more than the lowest level in week 51.
-- **Panamax**SE Africa: The number of vessels has dropped to 103, only 2 above the annual average and 30% below the week 5 level.
-- **Supramax**SE Asia: The number of vessels increased to 108, 22 more than week 5 and 35% above the year-end 2022 low.
-- **Handysize**NOPAC: The number of ships accelerated to 90, the highest level since the beginning of the year, with a tendency for a further sharp increase towards the end of February.
+- **Capesize** SE Africa: The number of vessels now stands at 91, which is 12 more than the average for the year and 55% more than the lowest level in week 51.
+- **Panamax** SE Africa: The number of vessels has dropped to 103, only 2 above the annual average and 30% below the week 5 level.
+- **Supramax** SE Asia: The number of vessels increased to 108, 22 more than week 5 and 35% above the year-end 2022 low.
+- **Handysize** NOPAC: The number of ships accelerated to 90, the highest level since the beginning of the year, with a tendency for a further sharp increase towards the end of February.
 
 ## Section 3/ Demand -TonDays Decreasing
 
@@ -73,10 +73,10 @@ The number of ballast ships has continued to increase significantly, apart from 
 
 February saw a significant decline in demand growth, with the Capesize segment showing the strongest downward trend.
 
-- **Capesize**demand ton-days: The downward trend remained as strong as in early February, with weak expectations for an upturn.
-- **Panamax**demand ton-days: The trend is still flattening, but with signs of a downward movement in the last days of February.
-- **Supramax**demand ton-days: Volatility remains, but now with clear signs of a downward trend in early March.
-- **Handysize**demand ton-days: The decline continues, but it is interesting to note that the trend seems to be weakening compared to the largest Capesize segment.
+- **Capesize** demand ton-days: The downward trend remained as strong as in early February, with weak expectations for an upturn.
+- **Panamax** demand ton-days: The trend is still flattening, but with signs of a downward movement in the last days of February.
+- **Supramax** demand ton-days: Volatility remains, but now with clear signs of a downward trend in early March.
+- **Handysize** demand ton-days: The decline continues, but it is interesting to note that the trend seems to be weakening compared to the largest Capesize segment.
 
 ## Section 4/ Port Congestion -No of Vesselssteady
 

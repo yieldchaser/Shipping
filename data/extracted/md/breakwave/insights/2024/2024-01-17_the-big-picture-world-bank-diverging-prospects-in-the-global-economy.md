@@ -29,7 +29,7 @@ Perhaps the best way to approach the World Bank’s conclusions is to arrange th
 
 ### Positives
 
-Though marking a slowing from 2022,**the 2023 global GDP growth estimate was revised higher**by half a percentage point from the previous forecast in June to 2.6%.**Better-than-expected growth in the US**was behind the upgrade.
+Though marking a slowing from 2022,**the 2023 global GDP growth estimate was revised higher** by half a percentage point from the previous forecast in June to 2.6%.**Better-than-expected growth in the US** was behind the upgrade.
 
 A bottoming out of advanced economies’ performance is expected this year, with 2025 forecast at 1.6% (up from 1.2% in 2024). This is mainly the result of ongoing recovery in the euro area and the US economy returning towards its long-term trend rate, with falling inflation and supportive monetary policy in place.
 
@@ -57,7 +57,7 @@ Food prices too are expected to soften further in 2024 thanks to ample supplies.
 
 **Global economic growth is projected by the World Bank to slow to 2.4% in 2024—from an estimate of 2.6% last year, 3.0% in 2022 and the strong rebound of 6.2% in 2021.**
 
-Economic growth in**advanced economies and China**this year is forecast to slow to well below the average of 2010-19.
+Economic growth in **advanced economies and China** this year is forecast to slow to well below the average of 2010-19.
 
 Indeed, if the World Bank’s forecasts are proved correct, then 2020-24 would mark the weakest start to a decade since the 1990s (in an era characterised by geopolitical strains and a global recession).
 

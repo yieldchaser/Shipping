@@ -40,7 +40,7 @@ It has been a similarly slow week in the Black Sea with rates largely unchanged 
 
 The Mediterranean has been stable with Ceyhan and also Black Sea loaders achieving rates of WS 75 for Mediterranean discharge while longer voyages from Sidi Kerir to Spain are reported to have been covered at WS 70. Unipec managed to fix at WS 65 for a straight Sidi/UK-Cont on *NS Champion*.
 
-Despite a heavy program in the Baltic, there was little initial change with rates holding around WS 67.5/70, as a number of ships that were fixed only went short, putting them quickly back in fixing position. However rates have now subsequently eased with Trafigura taking *Olib*from Ust Luga at WS 62.5.
+Despite a heavy program in the Baltic, there was little initial change with rates holding around WS 67.5/70, as a number of ships that were fixed only went short, putting them quickly back in fixing position. However rates have now subsequently eased with Trafigura taking *Olib* from Ust Luga at WS 62.5.
 
 The 80,000 tonnes cross North Sea market been steady throughout the week at WS 95.
 

@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-06-24_bearish-sentiment-tak
 
 Freight futures dipped, as nervousness about the near term direction of spot led to some profit taking following the significant advances over the last few days. At the end of the trading day,**Capesize futures were down ~7% while Panamax futures closed down 5%**with the Capesize spot now at almost 29,000,but it seems there is more caution on further advances as the month comes to a close with the July futures marked at around 23,500. The potential pause in the rate of increase was enough to bring sellers, even if there is no real indication of weaker spot anytime soon.
 
-Still, the difference between spot prices and futures is massive, with the**July contract now more than 5,000 below spot**. Although this inside the historical range, it shows the increased caution in the market for the direction of spot prices near term.
+Still, the difference between spot prices and futures is massive, with the **July contract now more than 5,000 below spot**. Although this inside the historical range, it shows the increased caution in the market for the direction of spot prices near term.
 
 The tightness in the Atlantic remains, with still not a lot of Capesize ships able to make it for July loadings.
 
@@ -35,7 +35,7 @@ Thurlestone explains on Panamax:
 
 *That resistance may well be tested though with China off for the remainder of the week and therefore even further reduced activity / fresh cargoes hitting the market. As the tonnage list starts to grow some Owners may bite the bullet and accept reduced levels to find some cover before the weekend. However, that being said with the North Atlantic still looking tight…perhaps we will see more charterers picking off far eastern tonnage to cover their requirements out of the US Gulf…*
 
-End of day futures from[Braemar Screen](https://braemarscreen.com/home):
+End of day futures from [Braemar Screen](https://braemarscreen.com/home):
 
 Finally, today’s futures activity combined with a plunge in oil prices and a generally bearish mood in markets across the board points to flattish/down indices for tomorrow for all vessel sizes. However, this seems to be a balanced act for now. Thurlestone remains optimistic, as sees the slower activity today more as a pause rather as a reversal:
 

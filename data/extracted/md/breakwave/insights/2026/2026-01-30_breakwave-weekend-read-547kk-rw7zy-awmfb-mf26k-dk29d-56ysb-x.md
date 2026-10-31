@@ -110,7 +110,7 @@ Each Lunar New Year is characterized by one of 12 animals which appear in the Ch
 
 [Read More](https://www.breakwaveadvisors.com/insights/2026/1/30/riding-the-fire-horse-without-getting-burned)
 
-Feng Shui analysis for the**Year of the Horse**
+Feng Shui analysis for the **Year of the Horse**
 
 ## Asia Adjusts to Shifts in Heavy Crude Availability
 

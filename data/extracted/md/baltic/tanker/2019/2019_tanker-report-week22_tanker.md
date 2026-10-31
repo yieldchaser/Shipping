@@ -24,7 +24,7 @@ source_file: "corpus/08-baltic/tanker/2019/2019_tanker-report-week22_tanker.html
 
 ### VLCC
 
-Reduced enquiry in the Middle East Gulf saw rates for 270,000mt to China ease 2.5 points to WS 39, before a modest recovery to around WS 40. Korea discharge was hovering around WS 36/37 region.  US Gulf discharge was fixed by Valero at WS 18 Cape to Cape for 280,000mt. Day Harvest covered 260,000mt from West Africa to China three points lower at WS 40.5. US Gulf to China rates are hovering just above $5.0 million. Unipec fixed *Seeb*from Skaw to China at $4.0 million.
+Reduced enquiry in the Middle East Gulf saw rates for 270,000mt to China ease 2.5 points to WS 39, before a modest recovery to around WS 40. Korea discharge was hovering around WS 36/37 region.  US Gulf discharge was fixed by Valero at WS 18 Cape to Cape for 280,000mt. Day Harvest covered 260,000mt from West Africa to China three points lower at WS 40.5. US Gulf to China rates are hovering just above $5.0 million. Unipec fixed *Seeb* from Skaw to China at $4.0 million.
 
 ### Suezmax
 

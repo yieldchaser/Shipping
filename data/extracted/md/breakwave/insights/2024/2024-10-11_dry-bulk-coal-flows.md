@@ -48,10 +48,10 @@ Southeast Asia’s growing demand for coal has broader implications for global e
 
 The dry bulk freight market has displayed mixed sentiment in the second week of October, with a softening trend observed in the Capesize Brazil–North China route, while signs of an upward trend are emerging in the Panamax Continent–Far East route.
 
-- **Capesize**vessel freight rates for shipments from Brazil to North China settled at $26 per ton, reflecting a 6% decline week-over-week.
-- **Panamax**vessel freight rates from the Continent to the Far East remained around $37 per ton, defying expectations of a downward trend from the previous week.
-- **Supramax**vessel freight rates on the Indo-ECI route remain around $11 per ton, reflecting an 8% increase compared to the previous month.
-- **Handysize**freight rates for the NOPAC Far East route have remained steady at $35 per ton since April, marking a 15% increase compared to the same period last year.
+- **Capesize** vessel freight rates for shipments from Brazil to North China settled at $26 per ton, reflecting a 6% decline week-over-week.
+- **Panamax** vessel freight rates from the Continent to the Far East remained around $37 per ton, defying expectations of a downward trend from the previous week.
+- **Supramax** vessel freight rates on the Indo-ECI route remain around $11 per ton, reflecting an 8% increase compared to the previous month.
+- **Handysize** freight rates for the NOPAC Far East route have remained steady at $35 per ton since April, marking a 15% increase compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2024 10 11 154837](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-11_dry-bulk-coal-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13113c500e6b.png)
 

@@ -28,7 +28,7 @@ As we conclude the workweek and head into the weekend, take a moment to review t
 
 ## Breakwave Tanker Report
 
-**Clouded Horizons: Crude Tanker Freight Market Struggles Amid Weak Demand and Geopolitical Uncertainty**– December continues to cast a**shadow of pessimism**over the crude tanker freight market, with VLCC (Very Large Crude Carrier) rates**struggling to gain momentum**during what is typically the peak winter demand season.
+**Clouded Horizons: Crude Tanker Freight Market Struggles Amid Weak Demand and Geopolitical Uncertainty**– December continues to cast a**shadow of pessimism** over the crude tanker freight market, with VLCC (Very Large Crude Carrier) rates **struggling to gain momentum** during what is typically the peak winter demand season.
 
 [Read More](https://www.breakwaveadvisors.com/insights/20241217wet-kji289)
 

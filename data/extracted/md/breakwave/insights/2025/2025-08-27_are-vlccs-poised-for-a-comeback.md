@@ -51,7 +51,7 @@ VLCCs are structurally better positioned than ever:
 
 - **Trade patterns are shifting toward longer haul flows**, boosting tonne-mile demand.
 
-- **Spot market fundamentals and loadings suggest pricing power is returning**to the largest vessels.
+- **Spot market fundamentals and loadings suggest pricing power is returning** to the largest vessels.
 
 For investors monitoring shipping cycles, VLCC-centric strategies or exposure to freight rate-linked instruments may offer compelling upside as we move into Q4.
 

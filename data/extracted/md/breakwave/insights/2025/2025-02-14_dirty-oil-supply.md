@@ -41,33 +41,33 @@ The macroeconomic landscape remains mixed, with the US energy market influenced 
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 02 14 162834**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e954e8aa0a0.png)
 
-​​​​​Sentiment in the**dirty freight market**remains**mixed**, with**VLCC MEG/China routes attempting to establish firmer momentum**, driven by tightening vessel supply and fluctuating demand.
+​​​​​Sentiment in the **dirty freight market** remains **mixed**, with **VLCC MEG/China routes attempting to establish firmer momentum**, driven by tightening vessel supply and fluctuating demand.
 
-- VLCC freight rates for**MEG-China**routes stood at WS60, marking a 13% weekly decrease. Suezmax rates for**West Africa to continental Europe**reached WS88, reflecting a 9% monthly gain. Meanwhile, Suezmax rates on the Baltic-Mediterranean route have remained slightly above WS90 for the past three weeks, up 12% month-over-month.
-- **Aframax**freight rates in the**Mediterranean**continue to maintain their bullish momentum, with rates at WS150, marking a 46% increase month-over-month.
+- VLCC freight rates for **MEG-China** routes stood at WS60, marking a 13% weekly decrease. Suezmax rates for **West Africa to continental Europe** reached WS88, reflecting a 9% monthly gain. Meanwhile, Suezmax rates on the Baltic-Mediterranean route have remained slightly above WS90 for the past three weeks, up 12% month-over-month.
+- **Aframax** freight rates in the **Mediterranean** continue to maintain their bullish momentum, with rates at WS150, marking a 46% increase month-over-month.
 
 ![Στιγμιότυπο Οθόνης 2025 02 14 162921](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0a43af95d2b4.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 02 14 162921**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0a43af95d2b4.png)
 
-- **LR2**AG freight rates continued to decrease with rates around WS 120, which corresponds to a drop of 50% compared with the same period last year.
+- **LR2** AG freight rates continued to decrease with rates around WS 120, which corresponds to a drop of 50% compared with the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2025 02 14 163039](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d989943aaf4b.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 02 14 163039**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d989943aaf4b.png)
 
-- **Panamax**Carib-to-USG rates have found a bottom at WS120. This marks a decline of over 60% compared to the same period last year.
+- **Panamax** Carib-to-USG rates have found a bottom at WS120. This marks a decline of over 60% compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2025 02 14 163150](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_346a036c9636.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 02 14 163150**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_346a036c9636.png)
 
-- **MR1**freight rates for Baltic-to-Continent shipments remained hovering around WS180—a decrease of 35% compared to the same week last year.
+- **MR1** freight rates for Baltic-to-Continent shipments remained hovering around WS180—a decrease of 35% compared to the same week last year.
 
-- Meanwhile,**MR2**rates for shipments from the Continent to the US Atlantic Coast (USAC) stood at WS115, marking a 30% weekly decrease.**MR2**rates on the US Gulf-to-Continent route remained weak, falling below WS 100 — 40% decline compared to the same period last year.
+- Meanwhile,**MR2** rates for shipments from the Continent to the US Atlantic Coast (USAC) stood at WS115, marking a 30% weekly decrease.**MR2** rates on the US Gulf-to-Continent route remained weak, falling below WS 100 — 40% decline compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2025 02 14 163246](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_076e37494c47.png)
 
@@ -100,16 +100,16 @@ The macroeconomic landscape remains mixed, with the US energy market influenced 
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 02 14 163450**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c0eefbb58e1a.png)
 
-- **Dirty**tonne days: The growth rate of dirty tonne-days remains well below the annual trend for the VLCC and Suezmax markets, which can create downward pressure in the coming days, while tonne-days show signs of a mild recovery from the previous week, now surpassing the annual average for the first time since the beginning of this year.
+- **Dirty** tonne days: The growth rate of dirty tonne-days remains well below the annual trend for the VLCC and Suezmax markets, which can create downward pressure in the coming days, while tonne-days show signs of a mild recovery from the previous week, now surpassing the annual average for the first time since the beginning of this year.
 
 ![Στιγμιότυπο Οθόνης 2025 02 14 163547](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4c51b2b2f69.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 02 14 163547**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4c51b2b2f69.png)
 
-- **Panamax**tonne days: The growth rate remained well below the recent weekly annual average, showing no definitive signs of a rebound at this stage.
+- **Panamax** tonne days: The growth rate remained well below the recent weekly annual average, showing no definitive signs of a rebound at this stage.
 
-- **MR**tonne-days: The growth rate for the MR segment has continued to fall, although there have been signs of recovery in the last two weeks.
+- **MR** tonne-days: The growth rate for the MR segment has continued to fall, although there have been signs of recovery in the last two weeks.
 
 Data Source:[Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform)
 

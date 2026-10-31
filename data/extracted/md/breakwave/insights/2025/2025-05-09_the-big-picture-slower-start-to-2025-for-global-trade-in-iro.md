@@ -28,17 +28,17 @@ The most severe supply-side constraint in early 2025 was in Australia, caused by
 
 Rio Tinto, the mining company, whose operations faced the greatest disruption, did not change their production guidance for the 2025 calendar year.
 
-The process of catch-up, as operations normalised, helped lift**Australian iron ore exports from the lowest month in almost six years in February**(60.2m tonnes) to the**second-highest month on record in March**(85.5m tonnes), as ore shipments caught up.
+The process of catch-up, as operations normalised, helped lift **Australian iron ore exports from the lowest month in almost six years in February**(60.2m tonnes) to the **second-highest month on record in March**(85.5m tonnes), as ore shipments caught up.
 
 *All volumes have been converted into standard wet basis from Australian Bureau of Statistics figures.*
 
-**Brazil’s exports in the first four months registered a slight yearly rise**to 114.9m tonnes, according to official data (see chart below).
+**Brazil’s exports in the first four months registered a slight yearly rise** to 114.9m tonnes, according to official data (see chart below).
 
 While seasonal Q1 rains in Brazil have frequently hampered mining and supply chain operations in previous Q1s, the country’s iron ore production levels are not solely determined by rainfall.
 
 The National Oceanic and Atmospheric Administration (NOAA) in the US described this year’s La Niña as “very brief” and had ended by March.
 
-La Niña is associated with more rainfall than normal in the north of Brazil and less in the south; iron ore is mined in**both**regions.
+La Niña is associated with more rainfall than normal in the north of Brazil and less in the south; iron ore is mined in **both** regions.
 
 As it happened, this year—despite drier conditions in the south and southeast compared with the previous year—Q1 output from the country’s largest miner Vale fell year-on-year “as planned” due to the company (1) prioritising higher-margin products and (2) undertaking corrective maintenance work.
 

@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-06-06_breakwave-weekend-rea
 
 ## Breakwave Shipping Report
 
-**VLCC Market Under Pressure Amid Summer Lull and Weak Demand**– Despite some mid-May signs of rate stabilization that briefly lifted sentiment, the end of May paints a negative picture for the**VLCC freight market**across both Eastern and Western routes.
+**VLCC Market Under Pressure Amid Summer Lull and Weak Demand**– Despite some mid-May signs of rate stabilization that briefly lifted sentiment, the end of May paints a negative picture for the **VLCC freight market** across both Eastern and Western routes.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2025306wet855jjej587)
 

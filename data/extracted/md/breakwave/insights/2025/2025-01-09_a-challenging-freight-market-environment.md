@@ -48,10 +48,10 @@ In summary, the iron ore market faces a tough start to the year, with low prices
 
 The dry bulk freight market displayed mixed momentum at the start of January, with a notable strengthening in Panamax rates from the Continent to the Far East.
 
-- **Capesize**vessel freight rates for shipments from Brazil to North China have stabilized at $17 per ton since mid-December, reflecting a 36% decline compared to the same week at the start of the previous year.
-- **Panamax**vessel freight rates from the Continent to the Far East remain around $32 per ton, showing a 7% weekly increase but a 19% decline compared to the same period last year.
-- **Supramax**vessel freight rates on the Indo-ECI route dropped below $8 per ton, reflecting a monthly decrease of 13%.
-- **Handysize**freight rates for the NOPAC Far East route have dropped $29 per ton, reflecting a 10% decline month-over-month, with a downward trend continuing into early January.
+- **Capesize** vessel freight rates for shipments from Brazil to North China have stabilized at $17 per ton since mid-December, reflecting a 36% decline compared to the same week at the start of the previous year.
+- **Panamax** vessel freight rates from the Continent to the Far East remain around $32 per ton, showing a 7% weekly increase but a 19% decline compared to the same period last year.
+- **Supramax** vessel freight rates on the Indo-ECI route dropped below $8 per ton, reflecting a monthly decrease of 13%.
+- **Handysize** freight rates for the NOPAC Far East route have dropped $29 per ton, reflecting a 10% decline month-over-month, with a downward trend continuing into early January.
 
 ![Στιγμιότυπο Οθόνης 2025 01 09 133657](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-01-09_a-challenging-freight-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bef548ba62b9.png)
 

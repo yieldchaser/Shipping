@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-10-22_2021-dry-bulk-outlook
 
 ---
 
-*By*[Peter Lindström](mailto:pel@klaveness.com)
+*By* [Peter Lindström](mailto:pel@klaveness.com)
 
 In the following weeks Klaveness Research will in a series of articles have a look at how we believe the fundamentals impacting dry bulk freight rates are shaping up for 2021.
 
@@ -35,7 +35,7 @@ In this week’s article we start with having a look at the big picture. In subs
 
 Dry bulk freight was in a super cycle between 2001 and 2008 as the growth in global yard capacity was unable to keep up with the seaborne demand growth triggered by China joining the World Trade Organization in 2001. Between 2008 and 2016 the general trend in dry bulk freight was negative as global fleet growth reached unprecedented levels. The dry bulk market bottomed out in Q1-2016 and has since been trending upwards.
 
-However, the black swan events of the[Brumadinho dam disaster](https://en.wikipedia.org/wiki/Brumadinho_dam_disaster)and covid-19 stalled the recovery in 2019 and 2020. The Brumadinho dam disaster was a negative shock for the dry bulk market as the long-distance iron ore export out of Brazil contracted about 13%* year on year (yoy) in 2019. The Brazilian iron ore export has been trending higher in recent months and is expected to climb further in 2021 and 2022. Total seaborne iron ore export volume is up 4.3% year to date (ytd) due to strong export growth in Australia and in other minor export countries.
+However, the black swan events of the [Brumadinho dam disaster](https://en.wikipedia.org/wiki/Brumadinho_dam_disaster) and covid-19 stalled the recovery in 2019 and 2020. The Brumadinho dam disaster was a negative shock for the dry bulk market as the long-distance iron ore export out of Brazil contracted about 13%* year on year (yoy) in 2019. The Brazilian iron ore export has been trending higher in recent months and is expected to climb further in 2021 and 2022. Total seaborne iron ore export volume is up 4.3% year to date (ytd) due to strong export growth in Australia and in other minor export countries.
 
 The black swan event of the covid-19 pandemic has greatly reduced global industrial production for most of 2020 and has had a negative impact on the demand for coal and minor bulks. The first chart below shows our metric on Global Dry Bulk Import weighted PMI vs the Baltic Dry Index.
 

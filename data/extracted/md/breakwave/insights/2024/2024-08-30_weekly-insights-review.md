@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-08-30_weekly-insights-revie
 
 ## Breakwave Tanker Report
 
-**Uncertainty Looms for VLCCs as Activity Slows Down**– Another rally in spot VLCC rates ended up being just a**short-term spike,**as spot rates are back to**mid-August lows after hitting multi-month highs**.
+**Uncertainty Looms for VLCCs as Activity Slows Down**– Another rally in spot VLCC rates ended up being just a**short-term spike,**as spot rates are back to **mid-August lows after hitting multi-month highs**.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2024730wet-87w332-rgmm3-nbyem)
 

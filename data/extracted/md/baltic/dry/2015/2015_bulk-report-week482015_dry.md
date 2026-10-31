@@ -26,7 +26,7 @@ source_file: "corpus/08-baltic/dry/2015/2015_bulk-report-week482015_dry.html"
 
 The second half of the week saw better gains across all the routes. With Rio Tinto, BHP and FMG all active, the key west Australia to China route jumped over $1 to just under $5. Midweek vessels were being fixed at $4.50-4.60 level but there was talk today of Classic fixing a vessel at $5.25, basis max $299,000 port costs. At the end of last week the Brazil to China route was marked around $7.85 and today it is almost $9.50, although the majority of the fixing has been concluded on T/C basis with Classic Maritime fixing five to six vessels midweek basis delivery in the south Africa area at levels around $10,750. In the last couple of days there has been talk of MOSK fixing the *Anangel Odyssey* 171,681 blt 2006 basis aps Ponta de Madeira for trip to China at $11,000 + $385,000bb and Cargill fixing the *Deep Blue* 182,608 blt 2015 delivery Cape of Good Hope prompt for trip via Brazil to China at $16,000.
 
-Saldanha Bay to China was fixed a couple of times by Anglo on the *Pigi*and the *Zorbas* both around the $6.90 level and end November/early December dates.
+Saldanha Bay to China was fixed a couple of times by Anglo on the *Pigi* and the *Zorbas* both around the $6.90 level and end November/early December dates.
 There was less activity in the Atlantic but the transatlantic round voyage route saw a considerable increase of almost $4,000 to $8,750. There was also talk that the *Leopold LD* was fixed on subjects for Porto Nuevo to Iskenderun for 15/24 December at $5.20 basis no discharge port costs.
 
 ### Panamax

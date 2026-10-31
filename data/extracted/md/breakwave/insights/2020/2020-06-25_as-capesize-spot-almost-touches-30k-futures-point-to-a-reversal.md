@@ -27,7 +27,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-06-25_as-capesize-spot-almo
 
 Spot indices continue to advance, but the rate of increase has slowed down and small cracks are showing up in certain routes that might drag the spot indices lower next week. The futures market has anticipating such move for days now, as Capesize futures for the third quarter are trading at the sharpest discount to spot in at least five years, now at a staggering 30%(it is not unheard off to see such discounts during the fourth quarter, as seasonally the first quarter of each year is much weaker than the fourth and thus Q1 usually trades at a discount to spot. However, the third quarter is seasonally strong, so the discount here appears excessive versus history).
 
-There are a lot of reasons to remain constructive on Capesizes, and as a result, on the broader dry bulk market. One driver of recent increases in rates that has not been much talked about is the**significant port congestion**in China. Congestion reduces effective supply as ships wait in ports to unload.
+There are a lot of reasons to remain constructive on Capesizes, and as a result, on the broader dry bulk market. One driver of recent increases in rates that has not been much talked about is the **significant port congestion** in China. Congestion reduces effective supply as ships wait in ports to unload.
 
 BRS currently sees more than 80 Capes waiting outside China’s major ports, one of the highest levels versus history:
 
@@ -43,7 +43,7 @@ Arrow Research also remains constructive on dry bulk for the second half of the 
 
 From Arrow:
 
-Although the level of rates at a given supply/demand balance is difficult to pinpoint, it is fair to say that there has been significant improvements versus the first half of this year, and given all the incremental drivers versus last year (stimulus, low inventories, congestion, Brazilian capacity, etc) the second half of 2020 should**at least match**(we believe exceed) last year’s levels.
+Although the level of rates at a given supply/demand balance is difficult to pinpoint, it is fair to say that there has been significant improvements versus the first half of this year, and given all the incremental drivers versus last year (stimulus, low inventories, congestion, Brazilian capacity, etc) the second half of 2020 should **at least match**(we believe exceed) last year’s levels.
 
 Currently, freight futures are pricing average Capesize rates for the second half of the year at 18,000/day; in 2019, average realized Capesize rate during the second half was approximately 26,000/day. This 45% difference basically reflects the very weak market we have experienced so far this year that is still alive and well in the memory of most market participants.
 

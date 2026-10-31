@@ -56,10 +56,10 @@ The combination of tariff-induced trade shifts, monthly export fluctuations, and
 
 ​​​​The upward trend in Capesize rates from Brazil to North China gained momentum in early March, driven by a decline in the number of ballasters, which is now supporting firmer market conditions.
 
-- **Capesize**vessel freight rates for shipments from Brazil to North China exceeded $20 per tonne, boosting market sentiment after dipping to around $16 per tonne in mid-February.
-- **Panamax**vessel freight rates from the Continent to the Far East stood at $29 per ton, representing a slight downward trend from the end of the previous week.
-- **Supramax**vessel freight rates on the Indo-ECI route held firm levels around $9 per tonne, with an upward trend in early March.
-- **Handysize**freight rates for the NOPAC Far East route continued above nearly $30 per tonne from the end of February, marking a 25% monthly increase. ​​​​​​
+- **Capesize** vessel freight rates for shipments from Brazil to North China exceeded $20 per tonne, boosting market sentiment after dipping to around $16 per tonne in mid-February.
+- **Panamax** vessel freight rates from the Continent to the Far East stood at $29 per ton, representing a slight downward trend from the end of the previous week.
+- **Supramax** vessel freight rates on the Indo-ECI route held firm levels around $9 per tonne, with an upward trend in early March.
+- **Handysize** freight rates for the NOPAC Far East route continued above nearly $30 per tonne from the end of February, marking a 25% monthly increase. ​​​​​​
 
 ![Στιγμιότυπο Οθόνης 2025 03 06 133600](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_us-steel-tariffs-on-chinese-steel-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_958a80608e47.png)
 
@@ -90,7 +90,7 @@ The first days of March show a reversal in sentiment within the Capesize segment
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 03 06 133731**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-06_us-steel-tariffs-on-chinese-steel-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b5dc22910d4b.png)
 
-**Congestion**at Chinese dry bulk ports trended upward, with an increasing number of vessels in the Capesize, Supramax and Handysize segments.
+**Congestion** at Chinese dry bulk ports trended upward, with an increasing number of vessels in the Capesize, Supramax and Handysize segments.
 
 - **Capesize**: Capesize vessel congestion rose 90, marking an increase of 6 compared to the end of the previous week.
 - **Panamax**: Panamax vessel congestion fell below 160, defying expectations of higher congestion levels by early March, initially projected for late February.

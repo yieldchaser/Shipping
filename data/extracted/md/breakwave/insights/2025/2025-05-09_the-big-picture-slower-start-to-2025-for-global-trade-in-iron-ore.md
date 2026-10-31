@@ -34,9 +34,9 @@ Rio Tinto, the mining company, whose operations faced the greatest disruption, d
 > *All volumes have been converted into standard wet basis from Australian Bureau of Statistics figures.*  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_the-big-picture-slower-start-to-2025-for-global-trade-in-iron-ore_img_778a-image-0-1746720803245_7a28ce15444a.png)
 
-The process of catch-up, as operations normalised, helped lift**Australian iron ore exports from the lowest month in almost six years in February**(60.2m tonnes) to the**second-highest month on record in March**(85.5m tonnes), as ore shipments caught up.
+The process of catch-up, as operations normalised, helped lift **Australian iron ore exports from the lowest month in almost six years in February**(60.2m tonnes) to the **second-highest month on record in March**(85.5m tonnes), as ore shipments caught up.
 
-**Brazil’s exports in the first four months registered a slight yearly rise**to 114.9m tonnes, according to official data (see chart below).
+**Brazil’s exports in the first four months registered a slight yearly rise** to 114.9m tonnes, according to official data (see chart below).
 
 ![1d0a Image 0 1746720766838](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-09_the-big-picture-slower-start-to-2025-for-global-trade-in-iron-ore_img_1d0a-image-0-1746720766838_14aedc95d1a3.png)
 
@@ -47,7 +47,7 @@ While seasonal Q1 rains in Brazil have frequently hampered mining and supply cha
 
 The National Oceanic and Atmospheric Administration (NOAA) in the US described this year’s La Niña as “very brief” and had ended by March.
 
-La Niña is associated with more rainfall than normal in the north of Brazil and less in the south; iron ore is mined in**both**regions.
+La Niña is associated with more rainfall than normal in the north of Brazil and less in the south; iron ore is mined in **both** regions.
 
 As it happened, this year—despite drier conditions in the south and southeast compared with the previous year—Q1 output from the country’s largest miner Vale fell year-on-year “as planned” due to the company (1) prioritising higher-margin products and (2) undertaking corrective maintenance work.
 

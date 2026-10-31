@@ -24,7 +24,7 @@ source_file: "corpus/08-baltic/tanker/2016/2016_tanker-report-week172016_tanker.
 
 ### VLCCs
 
-The market has continued to soften significantly in the Middle East Gulf, despite improved levels of enquiry, as a healthy supply of tonnage has continued to take its toll. There have also been a number of less preferred ships around, being ex dry dock or over 15 years of age. Consequently, rates for 270,000 tonnes short east have lost between 10/11 points and now sit at close to WS 50. Going further east, a run to the Philippines is understood to have been covered at WS 46 level. Unipec took *Maran Callisto* at WS 49 for China, while the 2000 built *New Kassos*which is also ex-drydock agreed WS 45 to China.
+The market has continued to soften significantly in the Middle East Gulf, despite improved levels of enquiry, as a healthy supply of tonnage has continued to take its toll. There have also been a number of less preferred ships around, being ex dry dock or over 15 years of age. Consequently, rates for 270,000 tonnes short east have lost between 10/11 points and now sit at close to WS 50. Going further east, a run to the Philippines is understood to have been covered at WS 46 level. Unipec took *Maran Callisto* at WS 49 for China, while the 2000 built *New Kassos* which is also ex-drydock agreed WS 45 to China.
 
 Going west, rates have lost around four points with Shell paying WS 34.5 cape/cape for US Gulf discharge basis 280,000 tonnes, but this business was fixed with wide discharge options which subsequently tend to pay a premium.
 

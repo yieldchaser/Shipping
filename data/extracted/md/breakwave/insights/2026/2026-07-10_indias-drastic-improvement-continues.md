@@ -29,7 +29,7 @@ As we discussed in Commodore Research's most recent Weekly Executive Report, Ind
 > **Figure 1: Chart 1**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-10_indias-drastic-improvement-continues_img_chart1_145aa7c2cc7c.jpg)
 
-Coal-derived electricity generation totaled approximately 122.4 billion kilowatt hours. This is down month-on-month by 1.6 billion kilowatt hours (-1%), up year-on-year by 13.8 billion kilowatt hours (13%), and is the largest amount ever produced in June. Coal-derived generation has grown year-on-year for three straight months. Previously, it had fallen on a year-on-year basis in nine of the prior twelve months, which marked the**only time this decade**that such an event had occurred. As we have stressed in our Weekly Executive Reports, the war in Iran has been drastically changing thermal coal demand. Temperatures in India have also been warmer than usual.
+Coal-derived electricity generation totaled approximately 122.4 billion kilowatt hours. This is down month-on-month by 1.6 billion kilowatt hours (-1%), up year-on-year by 13.8 billion kilowatt hours (13%), and is the largest amount ever produced in June. Coal-derived generation has grown year-on-year for three straight months. Previously, it had fallen on a year-on-year basis in nine of the prior twelve months, which marked the **only time this decade** that such an event had occurred. As we have stressed in our Weekly Executive Reports, the war in Iran has been drastically changing thermal coal demand. Temperatures in India have also been warmer than usual.
 
 ![Chart 2](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-07-10_indias-drastic-improvement-continues_img_chart2_411e031d290c.jpg)
 

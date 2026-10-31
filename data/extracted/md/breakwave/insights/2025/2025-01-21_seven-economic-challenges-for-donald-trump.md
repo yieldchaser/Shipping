@@ -70,7 +70,7 @@ As a result, the new President may have to contend with high interest rates. In 
 
 ### 4. the Great Debt Roll
 
-Within 2025, especially in the second half, $7tn of debt[will have to be rolled over](https://www.bloomberg.com/opinion/articles/2024-11-27/bessent-has-6-7-trillion-mountain-of-worry-waiting-at-treasury?sref=EiJDOcNb). This is nearly a quarter of all US debt (almost 21 times the entirety of Greek debt). A choice of higher deficits to fund extra spending needs could create a supply glut, leading the US to borrow at higher rates for longer maturities, further upsetting bond markets and accelerating US debt accumulation.
+Within 2025, especially in the second half, $7tn of debt [will have to be rolled over](https://www.bloomberg.com/opinion/articles/2024-11-27/bessent-has-6-7-trillion-mountain-of-worry-waiting-at-treasury?sref=EiJDOcNb). This is nearly a quarter of all US debt (almost 21 times the entirety of Greek debt). A choice of higher deficits to fund extra spending needs could create a supply glut, leading the US to borrow at higher rates for longer maturities, further upsetting bond markets and accelerating US debt accumulation.
 
 **5. A debt ceiling battle may test the President’s limitations.**
 

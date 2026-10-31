@@ -30,7 +30,7 @@ Week 28, 2025 | Date: July 9, 2025
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 07 10 103619**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/st-of-safrinha-corn-in-brazil-/2r8dzh/509387504/h/ybFWKzeboEdjbjnePvzX7-PjPUOEBEwmU7xf9suzv00) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-10_spotlight-on-brazilian-corn-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1c1ed249cbd9.png)
 
-This week’s Chart Monitor highlights increasing constraints on Brazilian corn exports, even as the country nears its second-largest harvest on record. Brazil’s National Supply Company (Conab) projects 2024–2025 corn production at nearly 5 billion bushels (about 126.2 million metric tons), a 10% year-over-year increase fueled by favorable weather in April and May, which boosted yields across key producing states, especially for the[second crop](https://go.signalocean.com/e/983831/st-of-safrinha-corn-in-brazil-/2r8dzh/509387504/h/ybFWKzeboEdjbjnePvzX7-PjPUOEBEwmU7xf9suzv00)(safrinha), which makes up roughly 78% of national output.
+This week’s Chart Monitor highlights increasing constraints on Brazilian corn exports, even as the country nears its second-largest harvest on record. Brazil’s National Supply Company (Conab) projects 2024–2025 corn production at nearly 5 billion bushels (about 126.2 million metric tons), a 10% year-over-year increase fueled by favorable weather in April and May, which boosted yields across key producing states, especially for the [second crop](https://go.signalocean.com/e/983831/st-of-safrinha-corn-in-brazil-/2r8dzh/509387504/h/ybFWKzeboEdjbjnePvzX7-PjPUOEBEwmU7xf9suzv00)(safrinha), which makes up roughly 78% of national output.
 
 Despite this bumper harvest, export momentum is waning. After peaking in the second half of 2023, corn shipments have slowed significantly throughout 2024 and are likely to stay subdued through 2025. The main reason is rising domestic demand, particularly from Brazil’s livestock sector and a rapidly growing corn ethanol industry, both of which are absorbing a larger share of the crop. As a result, the exportable surplus is shrinking, and Brazil is expected to focus more on domestic consumption rather than exports, possibly limiting its role as a global corn supplier through 2025.
 
@@ -43,18 +43,18 @@ The declining trend is now also reflected in the growth of tonne-days for Brazil
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 07 10 103854**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-10_spotlight-on-brazilian-corn-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b492f70e19d.png)
 
-The Baltic Dry Index (BDI) continued to soften from mid-June, with the BCI dropping below the 1,500-point mark, as oversupply continues to weigh on sentiment, despite a demand boost from miners and a rise in shipments from Western Australia. Although June ended with approximately 31 million metric tons of**South Atlantic**cargo volumes bound for China, 7 million more than at the end of April, the increasing number of ballasters, currently estimated at around 260, is exerting downward pressure on Brazil–China freight rates, now at around $18.5/ton.
+The Baltic Dry Index (BDI) continued to soften from mid-June, with the BCI dropping below the 1,500-point mark, as oversupply continues to weigh on sentiment, despite a demand boost from miners and a rise in shipments from Western Australia. Although June ended with approximately 31 million metric tons of **South Atlantic** cargo volumes bound for China, 7 million more than at the end of April, the increasing number of ballasters, currently estimated at around 260, is exerting downward pressure on Brazil–China freight rates, now at around $18.5/ton.
 
-On the**C5**route, we’ve seen signs of firmness, with rates exceeding $7/ton, supported by June cargo volumes surpassing 60 million metric tons, up from 49 million metric tons at the end of April.
+On the **C5** route, we’ve seen signs of firmness, with rates exceeding $7/ton, supported by June cargo volumes surpassing 60 million metric tons, up from 49 million metric tons at the end of April.
 
 ![Στιγμιότυπο Οθόνης 2025 07 10 103958](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-10_spotlight-on-brazilian-corn-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7f9206561696.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 07 10 103958**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-10_spotlight-on-brazilian-corn-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7f9206561696.png)
 
-Panamax - ECSA / Far East**Firmer**
+Panamax - ECSA / Far East **Firmer**
 
-**Panamax**freight rates from East Coast South America (ECSA) to the Far East have regained ground, supported by firm demand that is helping to rebalance the continued rise in ballaster counts.**ECSA–Far East**spot rates rose by 8% week-on-week to reach $36/tonne, marking a 13% increase month-on-month.
+**Panamax** freight rates from East Coast South America (ECSA) to the Far East have regained ground, supported by firm demand that is helping to rebalance the continued rise in ballaster counts.**ECSA–Far East** spot rates rose by 8% week-on-week to reach $36/tonne, marking a 13% increase month-on-month.
 
 ![Στιγμιότυπο Οθόνης 2025 07 10 104117](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-10_spotlight-on-brazilian-corn-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a76fd040fc29.png)
 
@@ -71,7 +71,7 @@ Panamax - ECSA / Far East**Firmer**
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 07 10 104131**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-10_spotlight-on-brazilian-corn-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1a91afef28ef.png)
 
-**Supramax**spot rates ex-USG to the Far East have risen to $39/tonne, marking an 8% weekly increase. An upward trend is also observed on the ECSA/Skaw-Pass and ECSA/Far East routes, likely supported by a downward correction in the number of ballasters to the USG/USEC, which has fallen to around 100. Meanwhile, monthly cargo volumes loaded at the end of June rose to approximately 7,7 million metric tons, matching the highs recorded in March and April, the strongest levels seen so far this year.
+**Supramax** spot rates ex-USG to the Far East have risen to $39/tonne, marking an 8% weekly increase. An upward trend is also observed on the ECSA/Skaw-Pass and ECSA/Far East routes, likely supported by a downward correction in the number of ballasters to the USG/USEC, which has fallen to around 100. Meanwhile, monthly cargo volumes loaded at the end of June rose to approximately 7,7 million metric tons, matching the highs recorded in March and April, the strongest levels seen so far this year.
 
 ![Στιγμιότυπο Οθόνης 2025 07 10 104233](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-07-10_spotlight-on-brazilian-corn-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fff83c231bba.png)
 

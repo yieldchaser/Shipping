@@ -26,7 +26,7 @@ As we conclude the workweek and head into the weekend, take a moment to review t
 
 ## Breakwave Tanker Report
 
-**VLCC Market Strengthens as Geopolitical Tensions Rise and Winter Demand Looms**– The third week of October closed with signs of firmer market sentiment for VLCC owners in both the East and West regions, as**geopolitical tensions**in the Middle East**persisted**despite oil prices edging lower.
+**VLCC Market Strengthens as Geopolitical Tensions Rise and Winter Demand Looms**– The third week of October closed with signs of firmer market sentiment for VLCC owners in both the East and West regions, as **geopolitical tensions** in the Middle East **persisted** despite oil prices edging lower.
 
 [Read More](https://www.breakwaveadvisors.com/insights/20241022wet-87574l)
 

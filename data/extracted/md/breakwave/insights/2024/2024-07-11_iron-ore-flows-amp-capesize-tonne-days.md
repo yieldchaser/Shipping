@@ -31,7 +31,7 @@ July 10, 2024
 
 The second week of July brings a downward revision in the performance of the Capesize segment, while the decreasing count of ballasters fosters optimism for the coming days. This reduction in available ballast vessels could tighten supply and potentially support higher freight rates.
 Regarding the monthly volume of Brazilian iron ore shipments to China, June concluded with a significant 20% increase over May's levels. This upward trend in iron ore shipments is noteworthy, as the second quarter of the year saw consistently higher monthly volumes compared to those recorded at the end of March.
-In the[iron ore marke](https://go.signalocean.com/e/983831/ish-china-demand-stimulus-eyed/2qchv1/422161374/h/JYzHQfQcHHrbuvqLpYNOw7FiBTpGbuKX7LoOcBSy8T0)t, Dalian iron ore futures prices fell on Tuesday, pressured by concerns about demand in top consumer China. However, investors remain hopeful for more stimulus from a key meeting next week. The most-traded September iron ore contract on China’s Dalian Commodity Exchange (DCE) ended daytime trading 0.5% lower at 834 yuan ($114.70) per metric ton. Conversely, the benchmark August iron ore on the Singapore Exchange rose 1% to $109.4 per ton.
+In the [iron ore marke](https://go.signalocean.com/e/983831/ish-china-demand-stimulus-eyed/2qchv1/422161374/h/JYzHQfQcHHrbuvqLpYNOw7FiBTpGbuKX7LoOcBSy8T0)t, Dalian iron ore futures prices fell on Tuesday, pressured by concerns about demand in top consumer China. However, investors remain hopeful for more stimulus from a key meeting next week. The most-traded September iron ore contract on China’s Dalian Commodity Exchange (DCE) ended daytime trading 0.5% lower at 834 yuan ($114.70) per metric ton. Conversely, the benchmark August iron ore on the Singapore Exchange rose 1% to $109.4 per ton.
 Economists and investors are eagerly awaiting the Third Plenum, scheduled for July 15-18, where hundreds of China’s top Communist Party officials will gather in Beijing for this significant five-yearly meeting. The outcomes of this meeting could have substantial implications for economic policy and market sentiment.
 
 ![Στιγμιότυπο Οθόνης 2024 07 11 085237](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2fa3566c95bd.png)
@@ -41,10 +41,10 @@ Economists and investors are eagerly awaiting the Third Plenum, scheduled for Ju
 
 In the second week of July, the dry bulk freight market experienced a decline in rates for larger vessel sizes, while the Handy NOPAC FE rates continued to show a relatively stable outlook for the second consecutive week.
 
-- **Capesize**vessel freight rates shipments from Brazil to North China fell once more, dipping below $30 per ton. Despite this drop, the rates still represent a significant 30% increase compared to the same week last year.
-- **Panamax**vessel freight rates from the Continent to the Far East remained below $40 per ton, maintaining their momentum. Despite this dip, recent data indicates that these rates are still 20% higher than those recorded a year ago.
-- **Supramax**vessel freight rates on the Indo-ECI route dropped by $10 per ton, marking a 5% decrease from the previous week. However, these rates are still 35% higher compared to the same period last year.
-- **Handysize**freight rates for the NOPAC Far East route have remained consistent over the past eight weeks, holding steady at approximately $36 per ton. This marks a notable 36% increase compared to rates observed one year ago.
+- **Capesize** vessel freight rates shipments from Brazil to North China fell once more, dipping below $30 per ton. Despite this drop, the rates still represent a significant 30% increase compared to the same week last year.
+- **Panamax** vessel freight rates from the Continent to the Far East remained below $40 per ton, maintaining their momentum. Despite this dip, recent data indicates that these rates are still 20% higher than those recorded a year ago.
+- **Supramax** vessel freight rates on the Indo-ECI route dropped by $10 per ton, marking a 5% decrease from the previous week. However, these rates are still 35% higher compared to the same period last year.
+- **Handysize** freight rates for the NOPAC Far East route have remained consistent over the past eight weeks, holding steady at approximately $36 per ton. This marks a notable 36% increase compared to rates observed one year ago.
 
 ![Στιγμιότυπο Οθόνης 2024 07 11 085359](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13dea97b85ba.png)
 

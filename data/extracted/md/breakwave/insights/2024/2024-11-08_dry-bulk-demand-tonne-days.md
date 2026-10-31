@@ -45,13 +45,13 @@ In the Supramax segment, minerals cargoes have shown consistent growth in tonne-
 
 The dry bulk freight market continues to show weakening momentum in the larger vessel categories, though Capesize rates from Brazil to North China are displaying subtle indications of a possible upward shift.
 
-- **Capesize**vessel freight rates for shipments from Brazil to North China appeared to have found a floor at $21 per ton. This represents a significant 24% decline compared to rates from the previous month, reflecting ongoing challenges in the market and shifting demand dynamics.
+- **Capesize** vessel freight rates for shipments from Brazil to North China appeared to have found a floor at $21 per ton. This represents a significant 24% decline compared to rates from the previous month, reflecting ongoing challenges in the market and shifting demand dynamics.
 
-- **Panamax**vessel freight rates from the Continent to the Far East stood around $33 per ton, reflecting a monthly decline of 14%.
+- **Panamax** vessel freight rates from the Continent to the Far East stood around $33 per ton, reflecting a monthly decline of 14%.
 
-- **Supramax**vessel freight rates on the Indo-ECI route dropped below $10 per ton, reflecting a monthly decrease of 13%.
+- **Supramax** vessel freight rates on the Indo-ECI route dropped below $10 per ton, reflecting a monthly decrease of 13%.
 
-- **Handysize**freight rates for the NOPAC Far East route have dropped below $34 per ton, reflecting a 4% decline month-over-month, with a downward trend continuing into November.
+- **Handysize** freight rates for the NOPAC Far East route have dropped below $34 per ton, reflecting a 4% decline month-over-month, with a downward trend continuing into November.
 
 ![Στιγμιότυπο Οθόνης 2024 11 08 103222](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b555d23cc2e.png)
 

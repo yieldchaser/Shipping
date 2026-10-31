@@ -26,19 +26,19 @@ source_file: "corpus/03-breakwave/insights/2025/2025-08-08_the-big-picture-guine
 
 ·*In the light of these new development we look at how Guinea’s bauxite sector is evolving.*
 
-Owing to disruption caused by seasonal heavy rainfall, the**Q3 has consistently been the lowest quarter**for Guinea’s bauxite exports.
+Owing to disruption caused by seasonal heavy rainfall, the **Q3 has consistently been the lowest quarter** for Guinea’s bauxite exports.
 
 Now more than half the size of Brazil’s iron ore exports, Guinea’s bauxite export influence on Atlantic Capesize demand is increasingly apparent.
 
-This year, however, the picture of rapid expansion in Guinea’s bauxite mining has been**clouded by bauxite mining licence revocations by the government**.
+This year, however, the picture of rapid expansion in Guinea’s bauxite mining has been **clouded by bauxite mining licence revocations by the government**.
 
-First, in**October 2024**, a dispute emerged between Guinea’s authorities and Dubai-based Emirates Global Aluminium (EGA) which halted shipments of bauxite from its mining subsidiary, Guinea Alumina Corporation (GAC), which were partly used in EGA’s UAE alumina refinery.
+First, in **October 2024**, a dispute emerged between Guinea’s authorities and Dubai-based Emirates Global Aluminium (EGA) which halted shipments of bauxite from its mining subsidiary, Guinea Alumina Corporation (GAC), which were partly used in EGA’s UAE alumina refinery.
 
 On 4 August GAC’s mining licence for the 11.9m tonne/year Boké bauxite mine was officially revoked and was transferred to a new state-owned entity, named Nimba Mining.
 
 The move finalises EGA’s enforced switch in sourcing bauxite for its alumina refinery in the UAE away from Guinea to Australia for most of its requirements. AXSMarine data show Panamaxes employed most often.
 
-Then, in**May 2025**, Guinea’s government announced the repossession of around 50 mining concessions (see our*360 Degrees*from 27 May).
+Then, in **May 2025**, Guinea’s government announced the repossession of around 50 mining concessions (see our *360 Degrees* from 27 May).
 
 ![Screenshot 2025 08 08 10.28.19](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-08_the-big-picture-guineas-q3-bauxite-supply_img_screenshot2025-08-08102819_988226e95244.png)
 
@@ -50,7 +50,7 @@ Then, in**May 2025**, Guinea’s government announced the repossession of around
 > **Figure 2: Screenshot 2025 08 08 10.28.30**  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-08_the-big-picture-guineas-q3-bauxite-supply_img_screenshot2025-08-08102830_86b956facecd.png)
 
-While some of the May concessions were dismissed at the time as including projects not in operation and some previously expired permits, the mines run by**Guinea Investment Corporation (GIC) and SD (Sunda) Mining**, which were originally part of a joint venture (AGB2A) in the Boffa-Fria corridor, were affected.
+While some of the May concessions were dismissed at the time as including projects not in operation and some previously expired permits, the mines run by **Guinea Investment Corporation (GIC) and SD (Sunda) Mining**, which were originally part of a joint venture (AGB2A) in the Boffa-Fria corridor, were affected.
 
 According to Shanghai Metals Market (SMM), these projects were expanding rapidly.
 
@@ -62,9 +62,9 @@ At end-July SMM estimated that, if SD Mining were allowed to resume mining in th
 
 SMM added that, while robust, even this total would be 10.5m tonnes lower than its expectations at the start of the year.
 
-Guinea’s aim is not**merely to expand bauxite exports**, but to**refine more bauxite into alumina**.
+Guinea’s aim is not **merely to expand bauxite exports**, but to **refine more bauxite into alumina**.
 
-March marked the official start of construction of the State Power Investment Corporation (SPIC)’s**alumina refinery**with production capacity of 1.2m tonnes/year, with commissioning due in June 2028.
+March marked the official start of construction of the State Power Investment Corporation (SPIC)’s**alumina refinery** with production capacity of 1.2m tonnes/year, with commissioning due in June 2028.
 
 This would be Guinea’s second alumina refinery and provides another example of value extraction by the government from the country’s huge bauxite supply.
 
@@ -74,7 +74,7 @@ This would be Guinea’s second alumina refinery and provides another example of
 > *An annual production cap of 45m tonnes was announced by China’s authorities in 2017 and reportedly reconfirmed in the aluminium sector’sAction Plan for 2025-27.*  
 > [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-08_the-big-picture-guineas-q3-bauxite-supply_img_screenshot2025-08-08102847_27c1c293dd7a.png)
 
-Moreover, China’s appetite for bauxite might run up against**self-imposed limitations on aluminium output by the end of next year**.
+Moreover, China’s appetite for bauxite might run up against **self-imposed limitations on aluminium output by the end of next year**.
 
 In the last 12 months the country’s smelters produced 43.9m tonnes of aluminium (which followed 42.7m tonnes in the preceding 12-month period), data from the International Aluminium Institute show.
 

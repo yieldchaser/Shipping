@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-02-13_breakwave-weekend-rea
 
 ## Breakwave Shipping Report
 
-**VLCC Rates Remain Strong, Next Leg Depends on Demand**– The sharp acceleration in VLCC freight seen**in late January appears to have peaked**for now.
+**VLCC Rates Remain Strong, Next Leg Depends on Demand**– The sharp acceleration in VLCC freight seen **in late January appears to have peaked** for now.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2102026wetreport2026ll47)
 

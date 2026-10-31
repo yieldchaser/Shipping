@@ -24,7 +24,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-05-17_weekly-insights-revie
 
 ## Read Here Everything You Need to Know
 
-**Dry Bulk Spot Rate Volatility Points to Ongoing Positional Imbalances Amidst Solid Volumes –**After bottoming in the high-teens, the Capesize Spot Index posted a**solid recovery**, pushing freight rates back towards the high-20,000 level,**in line with**where the**futures market**has been trading for weeks now.
+**Dry Bulk Spot Rate Volatility Points to Ongoing Positional Imbalances Amidst Solid Volumes –**After bottoming in the high-teens, the Capesize Spot Index posted a**solid recovery**, pushing freight rates back towards the high-20,000 level,**in line with** where the **futures market** has been trading for weeks now.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2024514dry)
 

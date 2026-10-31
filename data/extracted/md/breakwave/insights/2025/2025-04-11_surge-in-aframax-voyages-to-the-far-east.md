@@ -64,31 +64,31 @@ Signal Ocean’s granular voyage data provides valuable real-time insight into t
 
 The first half of April saw mixed momentum in crude oil freight market sentiment, with downward trends in the VLCC and Aframax segments, while the Suezmax segment maintained a degree of firmness.
 
-- **VLCC**freight rates on the**MEG–China route**dropped to WS53, marking a 7% monthly decline.**Suezmax rates**from**West Africa to continental Europe**remained strong, holding above WS100 and marking a 17% month-on-month increase. Meanwhile, rates on the**Baltic–Mediterranean**route held steady at WS130, reflecting the same firm sentiment seen in mid-March and standing 24% higher than the previous month.
-- **Aframax**freight rates in the**Mediterranean**fell to WS160, representing a 10% decline week-on-week, yet remaining 30% higher than the levels recorded last month.
+- **VLCC** freight rates on the **MEG–China route** dropped to WS53, marking a 7% monthly decline.**Suezmax rates** from **West Africa to continental Europe** remained strong, holding above WS100 and marking a 17% month-on-month increase. Meanwhile, rates on the **Baltic–Mediterranean** route held steady at WS130, reflecting the same firm sentiment seen in mid-March and standing 24% higher than the previous month.
+- **Aframax** freight rates in the **Mediterranean** fell to WS160, representing a 10% decline week-on-week, yet remaining 30% higher than the levels recorded last month.
 
 ![Στιγμιότυπο Οθόνης 2025 04 11 113618](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_20eaa3213d0e.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 04 11 113618**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_20eaa3213d0e.png)
 
-- **LR2**AG freight rates continued a soft downward trend from the end of March with rates at WS135, reflecting a 13% weekly decrease.
+- **LR2** AG freight rates continued a soft downward trend from the end of March with rates at WS135, reflecting a 13% weekly decrease.
 
 ![Στιγμιότυπο Οθόνης 2025 04 11 113733](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cc75f760c1fb.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 04 11 113733**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cc75f760c1fb.png)
 
-- **Panamax**Carib-to-USG settled at approximately 210 WS, reflecting a 40% increase for the week.
+- **Panamax** Carib-to-USG settled at approximately 210 WS, reflecting a 40% increase for the week.
 
 ![Στιγμιότυπο Οθόνης 2025 04 11 113819](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1f211151933c.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 04 11 113819**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1f211151933c.png)
 
-- **MR1**freight rates for Baltic-to-Continent shipments hovered around WS150, representing a 20% monthly decrease.
+- **MR1** freight rates for Baltic-to-Continent shipments hovered around WS150, representing a 20% monthly decrease.
 
-- **MR2**freight rates for shipments from the Continent to the US Atlantic Coast (USAC) reached WS145, reflecting a 15% weekly decrease. Meanwhile, MR2 rates on the US Gulf–to–Continent route dropped to WS100, marking a 20% weekly decrease.
+- **MR2** freight rates for shipments from the Continent to the US Atlantic Coast (USAC) reached WS145, reflecting a 15% weekly decrease. Meanwhile, MR2 rates on the US Gulf–to–Continent route dropped to WS100, marking a 20% weekly decrease.
 
 ![Στιγμιότυπο Οθόνης 2025 04 11 113912](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3e3c71cc80b2.png)
 
@@ -128,9 +128,9 @@ The first half of April saw mixed momentum in crude oil freight market sentiment
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 04 11 114508**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-11_surge-in-aframax-voyages-to-the-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_005af99a1247.png)
 
-- **Panamax**tonne days: The growth rate remains below this year's weekly average, extending a downward trend that has persisted since early March.
+- **Panamax** tonne days: The growth rate remains below this year's weekly average, extending a downward trend that has persisted since early March.
 
-- **MR**tonne-days: The MR segment has seen a sustained decline in growth rate since the end of week 5, with the onset of the second quarter further reinforcing this downward momentum.
+- **MR** tonne-days: The MR segment has seen a sustained decline in growth rate since the end of week 5, with the onset of the second quarter further reinforcing this downward momentum.
 
 Data Source:[Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform)
 

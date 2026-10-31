@@ -19,7 +19,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-04-23_the-big-picture-supra
 
 ---
 
-By[Mark Nugent](https://www.linkedin.com/in/mark-nugent-3724a3192/)
+By [Mark Nugent](https://www.linkedin.com/in/mark-nugent-3724a3192/)
 
 ### Holding Steady
 

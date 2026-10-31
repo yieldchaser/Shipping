@@ -49,10 +49,10 @@ Market Rates ($/t) Softer**
 
 During the third week of June, the dry freight market displayed a varied performance. The Capesize segment exhibited strength, indicating positive market conditions. However, a softer outlook was observed for the Panamax segment, suggesting a slightly less favorable market environment. Meanwhile, Handysize rates continued their downward correction trend, indicating ongoing price adjustments in that particular segment.
 
-- **Capesize**vessel freight rates experienced a notable increase, reaching $20.4 per tonne, which reflects a rise of approximately $2.5 per tonne compared to three weeks ago. This upward trend in rates has been observed throughout the month of June.
-- **Panamax**vessel freight rates from the Continent to the Far East have recently declined, dropping below $33 per tonne. This marks the lowest point since the peak in week 15 when rates were close to $42 per tonne.
-- **Supramax**freight rates for the Indo-ECI route have reached $10 per tonne, marking the first time since the end of week 21. However, it is uncertain whether rates will continue to rise beyond $10 per tonne.
-- ​**Handysize**freight rates for the NOPAC Far East route have continued to linger at lower levels, with rates hovering around $27 per tonne. This reflects a decline of $7 per tonne from the peak observed in week 13. The market for this route is currently characterized by sustained lower rates compared to previous weeks.
+- **Capesize** vessel freight rates experienced a notable increase, reaching $20.4 per tonne, which reflects a rise of approximately $2.5 per tonne compared to three weeks ago. This upward trend in rates has been observed throughout the month of June.
+- **Panamax** vessel freight rates from the Continent to the Far East have recently declined, dropping below $33 per tonne. This marks the lowest point since the peak in week 15 when rates were close to $42 per tonne.
+- **Supramax** freight rates for the Indo-ECI route have reached $10 per tonne, marking the first time since the end of week 21. However, it is uncertain whether rates will continue to rise beyond $10 per tonne.
+- ​**Handysize** freight rates for the NOPAC Far East route have continued to linger at lower levels, with rates hovering around $27 per tonne. This reflects a decline of $7 per tonne from the peak observed in week 13. The market for this route is currently characterized by sustained lower rates compared to previous weeks.
 
 ## Section 2/ Supply ​​​
 

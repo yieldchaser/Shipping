@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-03-13_20breakwave-weekend-r
 
 ## Breakwave Shipping Report
 
-**VLCC Rates Explode Higher as the Worst-Case Scenario becomes Reality**– The global oil market is**currently experiencing an unprecedented disruption**in supply flows.
+**VLCC Rates Explode Higher as the Worst-Case Scenario becomes Reality**– The global oil market is **currently experiencing an unprecedented disruption** in supply flows.
 
 [Read More](https://www.breakwaveadvisors.com/insights/3102026wetreport2026kmarll5)
 

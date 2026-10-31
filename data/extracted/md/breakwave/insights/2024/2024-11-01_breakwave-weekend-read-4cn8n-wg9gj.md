@@ -26,7 +26,7 @@ As we conclude the workweek and head into the weekend, take a moment to review t
 
 ## Breakwave Dry Bulk Report
 
-**Bottom is In; Trajectory of Recovery Depends on the Atlantic**– We believe the significant**correction**in spot Capesize ratesthat pushed the Index down some 50% in a month’s time is**now over**.
+**Bottom is In; Trajectory of Recovery Depends on the Atlantic**– We believe the significant **correction** in spot Capesize ratesthat pushed the Index down some 50% in a month’s time is **now over**.
 
 [Read More](https://www.breakwaveadvisors.com/insights/20241029dry-87w326)
 

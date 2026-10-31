@@ -46,22 +46,22 @@ As Chevron exits Venezuela, the broader oil trade between the two countries cont
 
 Crude oil freight market sentiment shows signs of strengthening momentum in May; however, there has been a soft downward revision for the beginning of the month.
 
-- **VLCC**freight rates on the**MEG–China**remained steady at WS68, reflecting a similar momentum to the previous week and a 3% decline month-on-month. Meanwhile, Suezmax rates from**West Africa to continental Europe**stayed above WS100, posting a 6% drop on the week but showing a 13% increase compared to the previous month. Meanwhile, rates on the**Baltic–Mediterranean route**held steady at WS132, reflecting the same firm sentiment seen a week ago and standing 16% higher than a year ago.
-- **Aframax**freight rates in the Mediterranean held steady at WS180, matching the previous week's level but showing an 8% decrease compared to last month.
+- **VLCC** freight rates on the **MEG–China** remained steady at WS68, reflecting a similar momentum to the previous week and a 3% decline month-on-month. Meanwhile, Suezmax rates from **West Africa to continental Europe** stayed above WS100, posting a 6% drop on the week but showing a 13% increase compared to the previous month. Meanwhile, rates on the **Baltic–Mediterranean route** held steady at WS132, reflecting the same firm sentiment seen a week ago and standing 16% higher than a year ago.
+- **Aframax** freight rates in the Mediterranean held steady at WS180, matching the previous week's level but showing an 8% decrease compared to last month.
 
 ![Στιγμιότυπο Οθόνης 2025 05 02 164203](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aa79d657563a.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 05 02 164203**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aa79d657563a.png)
 
-- **LR2**AG freight rates held nearly steady from the previous week at WS125, though they reflected a monthly drop of 20%.
+- **LR2** AG freight rates held nearly steady from the previous week at WS125, though they reflected a monthly drop of 20%.
 
 ![Στιγμιότυπο Οθόνης 2025 05 02 164214](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aa896b9b2d5e.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 05 02 164214**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aa896b9b2d5e.png)
 
-- **Panamax**Carib-to-USG rates experienced a further decline, settling near WS170. Despite this recent softening, these rates still represent a 15% increase compared to the previous month.
+- **Panamax** Carib-to-USG rates experienced a further decline, settling near WS170. Despite this recent softening, these rates still represent a 15% increase compared to the previous month.
 
 ![Στιγμιότυπο Οθόνης 2025 05 02 164223](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5df2a39f6bad.png)
 
@@ -103,16 +103,16 @@ Crude oil freight market sentiment shows signs of strengthening momentum in May;
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 05 02 164310**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4913cd609d2.png)
 
-- **Dirty**tonne days: The end of the month followed a similar pattern to the previous week, with VLCC and Suezmax rates continuing to decline, while the Aframax segment maintained its earlier sharp upswing, though signs of a slight downward correction have begun to emerge.
+- **Dirty** tonne days: The end of the month followed a similar pattern to the previous week, with VLCC and Suezmax rates continuing to decline, while the Aframax segment maintained its earlier sharp upswing, though signs of a slight downward correction have begun to emerge.
 
 ![Στιγμιότυπο Οθόνης 2025 05 02 164318](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_94b6b0e4805b.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 05 02 164318**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-02_venezuelas-crude-oil-exports-trends_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_94b6b0e4805b.png)
 
-- **Panamax**tonne days: Over the past six weeks, the growth rate has remained below this year's weekly average, in contrast to the end of Week 8, when levels were close to surpassing the annual average.
+- **Panamax** tonne days: Over the past six weeks, the growth rate has remained below this year's weekly average, in contrast to the end of Week 8, when levels were close to surpassing the annual average.
 
-- **MR**tonne-days: The MR segment has experienced a steady decline in growth rate since the end of Week 5, with no signs of an upward reversal by the end of the month.
+- **MR** tonne-days: The MR segment has experienced a steady decline in growth rate since the end of Week 5, with no signs of an upward reversal by the end of the month.
 
 Data Source:[Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform)
 

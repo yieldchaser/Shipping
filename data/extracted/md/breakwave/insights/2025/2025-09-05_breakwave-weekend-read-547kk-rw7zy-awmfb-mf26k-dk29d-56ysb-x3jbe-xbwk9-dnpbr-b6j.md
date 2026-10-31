@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-09-05_breakwave-weekend-rea
 
 ## Breakwave Shipping Report
 
-**Capesize Enters September on a High Note**– Following one of the strongest Augusts in recent history for Capesize spot rates,**early September appears equally promising**for large bulk carriers.
+**Capesize Enters September on a High Note**– Following one of the strongest Augusts in recent history for Capesize spot rates,**early September appears equally promising** for large bulk carriers.
 
 [Read More](https://www.breakwaveadvisors.com/insights/202592db-5cnlk417)
 

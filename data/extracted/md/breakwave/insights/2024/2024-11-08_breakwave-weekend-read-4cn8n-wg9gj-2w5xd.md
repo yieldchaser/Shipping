@@ -26,7 +26,7 @@ As we conclude the workweek and head into the weekend, take a moment to review t
 
 ## Breakwave Tanker Report
 
-**VLCC Market Sees Unseasonal Downturn Amid Overcapacity and Rising Preference for Chinese Shipowners**– The VLCC (Very Large Crude Carrier) market is experiencing**an unusual downturn**for this time of year, marked by**low activity**and a**persistent**drop in rates across both Eastern and Western markets.
+**VLCC Market Sees Unseasonal Downturn Amid Overcapacity and Rising Preference for Chinese Shipowners**– The VLCC (Very Large Crude Carrier) market is experiencing **an unusual downturn** for this time of year, marked by **low activity** and a**persistent** drop in rates across both Eastern and Western markets.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2024115wet-875587)
 

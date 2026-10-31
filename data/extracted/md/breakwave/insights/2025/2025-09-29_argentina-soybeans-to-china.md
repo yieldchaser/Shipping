@@ -31,7 +31,7 @@ Week 39, 25 Sept, 2025
 > **Figure 1: Στιγμιότυπο Οθόνης 2025 09 29 105344**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-29_argentina-soybeans-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bdffeb9b2e57.png)
 
-**Soybean**flows from Argentina to China in 2025 tell a striking turnaround story. Early in the year, shipments (blue line) lagged 2024 levels (grey line), but from April onward, they overtook them and stayed strong through Q3. The April harvest ignited momentum, and the mid-year slump that weighed on 2024 was largely avoided. Soybeans now account for 67% of Argentina’s agricultural dry bulk exports, with China absorbing 86% of that volume.
+**Soybean** flows from Argentina to China in 2025 tell a striking turnaround story. Early in the year, shipments (blue line) lagged 2024 levels (grey line), but from April onward, they overtook them and stayed strong through Q3. The April harvest ignited momentum, and the mid-year slump that weighed on 2024 was largely avoided. Soybeans now account for 67% of Argentina’s agricultural dry bulk exports, with China absorbing 86% of that volume.
 
 ![Στιγμιότυπο Οθόνης 2025 09 29 105534](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-29_argentina-soybeans-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ffe851307b8.png)
 
@@ -66,9 +66,9 @@ In the final days of September, both the C3 and C5 routes are continuing their u
 > **Figure 6: Στιγμιότυπο Οθόνης 2025 09 29 105752**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-29_argentina-soybeans-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c38e77d87e4.png)
 
-Panamax - ECSA / Far East | USG / China**Weaker**
+Panamax - ECSA / Far East | USG / China **Weaker**
 
-**Panamax**spot rates for routes from East Coast South America (ECSA) and the US Gulf (USG) to the Far East have recently experienced downward pressure as the month concludes. Specifically, ECSA to Far East prices are down to $35/ton from the peak seen in mid-July of $38/ton. Panamax ballasters heading to ECSA are now indicating an increase to a 7-day MA of nearly 240 from the lows of 210 in early September.
+**Panamax** spot rates for routes from East Coast South America (ECSA) and the US Gulf (USG) to the Far East have recently experienced downward pressure as the month concludes. Specifically, ECSA to Far East prices are down to $35/ton from the peak seen in mid-July of $38/ton. Panamax ballasters heading to ECSA are now indicating an increase to a 7-day MA of nearly 240 from the lows of 210 in early September.
 
 ![Στιγμιότυπο Οθόνης 2025 09 29 105855](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-29_argentina-soybeans-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_060dadb24d5c.png)
 

@@ -36,7 +36,7 @@ The three things investors should know about this week:
 
 -------------------------
 
-The thing with war is that it epitomises Mike Tyson’s saying: “Everyone has a plan until they get punched in the face”. Once started, outcomes of a conflict[are unpredictable](https://www.youtube.com/watch?v=41cJUliIuH0), especially at an age when a £300 drone can take out a £3m tank. So we’ll do the smart thing this week and avoid assumptions. How might it end? How many countries might be drawn in? What will happen if?...
+The thing with war is that it epitomises Mike Tyson’s saying: “Everyone has a plan until they get punched in the face”. Once started, outcomes of a conflict [are unpredictable](https://www.youtube.com/watch?v=41cJUliIuH0), especially at an age when a £300 drone can take out a £3m tank. So we’ll do the smart thing this week and avoid assumptions. How might it end? How many countries might be drawn in? What will happen if?...
 
 Financial markets have been jittery about it, and equities lost some momentum, to be sure, but in the past few years, investors have consistently seen that geopolitical conflict tends to remain a regionalised event, and are presently pricing in such an outcome.
 

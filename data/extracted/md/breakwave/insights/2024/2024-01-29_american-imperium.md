@@ -56,7 +56,7 @@ The world’s first democracy (not Republic which is representative) was Athens.
 
 Fast forward five centuries and the Roman Republic struggled with its imperial destiny too. Victories over Carthage, the Teutons, Spain, Greece and Gaul gave the Republic a lot of power. The Senate decided against the empire and promptly stabbed Julius Caesar in the back (and the front for that matter). Seventeen years later, Caesar’s adopted son, Augustus, became emperor anyway.
 
-The next major democracy sprung two millennia later. The French Revolution, which preached liberty, equality, brotherhood*and ownership*(liberte, egalite, fraternite et propriete), quickly turned into an empire under Napoleon.
+The next major democracy sprung two millennia later. The French Revolution, which preached liberty, equality, brotherhood *and ownership*(liberte, egalite, fraternite et propriete), quickly turned into an empire under Napoleon.
 
 The victor of the Napoleonic wars, the world’s oldest parliamentary monarchy, the United Kingdom, did not shun empire either. At its height, the British Empire ruled over 13% of the world’s land mass, literally the empire where the sun never set.
 

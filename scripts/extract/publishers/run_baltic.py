@@ -25,6 +25,36 @@ from datetime import datetime
 from concurrent.futures import ProcessPoolExecutor
 from bs4 import BeautifulSoup, NavigableString, Tag
 
+
+_MARK_END = re.compile(r'(?:\*+|\]\([^)]*\))$')
+_MARK_START = re.compile(r'^(?:\*+|\[)')
+
+
+def _join(parts):
+    """Concatenate inline markdown runs. Where the source lost the space at an emphasis/link boundary
+    ("declared<em>force majeure</em>at", "rates<b> </b>followed") the words would glue, so a space goes
+    between a run ending in a word and one starting with one when either side is a marker."""
+    out = ''
+    for p in parts:
+        if not p:
+            continue
+        left, right = _MARK_END.sub('', out), _MARK_START.sub('', p)
+        tail, head = re.search(r'[A-Za-z0-9]*$', left).group(), re.match(r'^[A-Za-z0-9]*', right).group()
+        if (left != out or right != p) and len(tail) >= 2 and len(head) >= 2:  # "<b>Contrac</b>t" stays one word
+            out += ' '
+        out += p
+    return out
+
+
+def _wrap(raw, left, right):
+    """Wrap inline text in markers, keeping the boundary whitespace the markers would otherwise swallow."""
+    inner = raw.strip()
+    if not inner:
+        return ' ' if raw else ''
+    lead = ' ' if raw[:1].isspace() else ''
+    trail = ' ' if raw[-1:].isspace() else ''
+    return f'{lead}{left}{inner}{right}{trail}'
+
 if sys.stdout.encoding.lower() != 'utf-8':
     sys.stdout.reconfigure(encoding='utf-8')
 
@@ -479,16 +509,14 @@ def process_single_baltic_report(html_path):
             return '\n'
 
         if tag in ['strong', 'b']:
-            inner = ''.join(to_md(c) for c in node.children).strip()
-            return f'**{inner}**' if inner else ''
+            return _wrap(_join(to_md(c) for c in node.children), '**', '**')
 
         if tag in ['em', 'i']:
-            inner = ''.join(to_md(c) for c in node.children).strip()
-            return f'*{inner}*' if inner else ''
+            return _wrap(_join(to_md(c) for c in node.children), '*', '*')
 
         if tag == 'a':
             href = node.get('href', '').strip()
-            inner = ''.join(to_md(c) for c in node.children).strip()
+            inner = _join(to_md(c) for c in node.children).strip()
             if not href or href.startswith('#') or href.startswith('javascript:'):
                 return inner
             return f'[{inner}]({href})' if inner else ''
@@ -507,7 +535,7 @@ def process_single_baltic_report(html_path):
                 txt = node.get_text().strip()
                 hdr = format_title_case(txt)
                 return f'\n\n### {hdr}\n\n'
-            inner = ''.join(to_md(c) for c in node.children).strip()
+            inner = _join(to_md(c) for c in node.children).strip()
             if not inner:
                 return ''
             return f'\n\n{inner}\n\n'
@@ -515,7 +543,7 @@ def process_single_baltic_report(html_path):
         if tag == 'ul':
             items = []
             for li in node.find_all('li', recursive=False):
-                it = ''.join(to_md(c) for c in li.children).strip()
+                it = _join(to_md(c) for c in li.children).strip()
                 if it:
                     items.append(f'- {it}')
             return '\n\n' + '\n'.join(items) + '\n\n' if items else ''
@@ -523,7 +551,7 @@ def process_single_baltic_report(html_path):
         if tag == 'ol':
             items = []
             for i, li in enumerate(node.find_all('li', recursive=False), 1):
-                it = ''.join(to_md(c) for c in li.children).strip()
+                it = _join(to_md(c) for c in li.children).strip()
                 if it:
                     items.append(f'{i}. {it}')
             return '\n\n' + '\n'.join(items) + '\n\n' if items else ''
@@ -531,7 +559,7 @@ def process_single_baltic_report(html_path):
         if tag == 'table':
             rows = []
             for tr in node.find_all('tr'):
-                cells = [clean_cell(''.join(to_md(c) for c in td.children).strip())
+                cells = [clean_cell(_join(to_md(c) for c in td.children).strip())
                          for td in tr.find_all(['th', 'td'])]
                 if any(cells):
                     rows.append(cells)
@@ -550,7 +578,7 @@ def process_single_baltic_report(html_path):
             return ''
 
         parts = [to_md(c) for c in node.children]
-        return ''.join(parts)
+        return _join(parts)
 
     body_md = to_md(content_div).strip()
     body_md = re.sub(r'\n{3,}', '\n\n', body_md).strip()

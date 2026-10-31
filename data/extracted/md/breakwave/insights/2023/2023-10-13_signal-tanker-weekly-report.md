@@ -76,7 +76,7 @@ VLCC - Suezmax - Aframax Firmer
 
 - **MR1 rate**s for the Baltic continent dropped to WS 190, down 19% from the previous week.
 
-- **MR2 rates**for shipments from the continent to the U.S. fell to WS170, 30% lower than a year ago in a similar week, but at the same level as a month ago.
+- **MR2 rates** for shipments from the continent to the U.S. fell to WS170, 30% lower than a year ago in a similar week, but at the same level as a month ago.
 
 ## Section 2/ Supply
 

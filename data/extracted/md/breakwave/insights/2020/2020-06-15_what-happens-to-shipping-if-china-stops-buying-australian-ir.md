@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-06-15_what-happens-to-shipp
 
 ---
 
-The[weekend article in Global Times](http://www.globaltimes.cn/content/1191579.shtml)that touched on China-Australia relations and the impact on iron ore trade is of particular importance for the dry bulk market. Australia ships more than 700 million tons of iron ore per year to China, and thus such trade is one the most important demand drivers for dry bulk shipping globally. The article discusses the potential for a disruption in iron ore trade between the two countries due to recent trade frictions and how Australia’s economy will be equally hurt in such a scenario.
+The [weekend article in Global Times](http://www.globaltimes.cn/content/1191579.shtml) that touched on China-Australia relations and the impact on iron ore trade is of particular importance for the dry bulk market. Australia ships more than 700 million tons of iron ore per year to China, and thus such trade is one the most important demand drivers for dry bulk shipping globally. The article discusses the potential for a disruption in iron ore trade between the two countries due to recent trade frictions and how Australia’s economy will be equally hurt in such a scenario.
 
 For dry bulk shipping, such a development will be catastrophic.
 

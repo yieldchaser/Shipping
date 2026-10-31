@@ -50,31 +50,31 @@ Looking ahead, the continued enforcement of U.S. tariffs, coupled with Europe’
 
 The final week of March brought positive momentum to the Aframax Mediterranean route, while downward pressure persisted on the VLCC front, and signs of recovery emerged on the Suezmax West Africa to Continent route.
 
-- **VLCC**freight rates on the**MEG–China**route dropped to WS60, marking a 10% weekly decline. Suezmax rates from**West Africa**to continental Europe maintained their momentum above WS100, reflecting a 20% increase month-on-month. Meanwhile, Suezmax rates on the Baltic–Mediterranean route held steady at WS130, in line with the previous week and up 30% compared to last month.
-- **Aframax**freight rates in the**Mediterranean**surged to WS200, continuing their recent upward trend and marking a 65% increase month-on-month.
+- **VLCC** freight rates on the **MEG–China** route dropped to WS60, marking a 10% weekly decline. Suezmax rates from **West Africa** to continental Europe maintained their momentum above WS100, reflecting a 20% increase month-on-month. Meanwhile, Suezmax rates on the Baltic–Mediterranean route held steady at WS130, in line with the previous week and up 30% compared to last month.
+- **Aframax** freight rates in the **Mediterranean** surged to WS200, continuing their recent upward trend and marking a 65% increase month-on-month.
 
 ![Στιγμιότυπο Οθόνης 2025 03 28 142104](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b078237c48a6.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 03 28 142104**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b078237c48a6.png)
 
-- **LR2**AG freight rates recorded a soft downward trend with rates at WS145, reflecting a 10% weekly decrease.
+- **LR2** AG freight rates recorded a soft downward trend with rates at WS145, reflecting a 10% weekly decrease.
 
 ![Στιγμιότυπο Οθόνης 2025 03 28 142113](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e50ac62152b5.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 03 28 142113**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e50ac62152b5.png)
 
-- **Panamax**Carib-to-USG settled at around 145 WS, which corresponds to an increase of 20 % compared to the previous month.
+- **Panamax** Carib-to-USG settled at around 145 WS, which corresponds to an increase of 20 % compared to the previous month.
 
 ![Στιγμιότυπο Οθόνης 2025 03 28 142121](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91f4649d2cf3.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 03 28 142121**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91f4649d2cf3.png)
 
-- **MR1**freight rates for Baltic-to-Continent shipments hovered around WS210, holding the same firmness as the previous week.
+- **MR1** freight rates for Baltic-to-Continent shipments hovered around WS210, holding the same firmness as the previous week.
 
-- **MR2**freight rates for shipments from the**Continent to the US Atlantic Coast (USAC)**reached WS190, reflecting a 19% weekly increase. Meanwhile,**MR2**rates on the US Gulf–to–Continent route rose to WS130, marking a 20% gain month-on-month.
+- **MR2** freight rates for shipments from the **Continent to the US Atlantic Coast (USAC)**reached WS190, reflecting a 19% weekly increase. Meanwhile,**MR2** rates on the US Gulf–to–Continent route rose to WS130, marking a 20% gain month-on-month.
 
 ![Στιγμιότυπο Οθόνης 2025 03 28 142132](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3d86ee3e057.png)
 
@@ -107,16 +107,16 @@ The final week of March brought positive momentum to the Aframax Mediterranean r
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 03 28 142202**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b1c37f72813.png)
 
-- **Dirty**tonne days: The final week of March appears to shift the positive momentum from the Suezmax segment towards the Aframax. This marks the first recorded increase in the growth of Aframax tonne days since the year began, now surpassing the annual average. Meanwhile, in the VLCC segment, the decline in growth continues, and there is a notable downward revision in the growth of Suezmax tonne days.
+- **Dirty** tonne days: The final week of March appears to shift the positive momentum from the Suezmax segment towards the Aframax. This marks the first recorded increase in the growth of Aframax tonne days since the year began, now surpassing the annual average. Meanwhile, in the VLCC segment, the decline in growth continues, and there is a notable downward revision in the growth of Suezmax tonne days.
 
 ![Στιγμιότυπο Οθόνης 2025 03 28 142210](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66bfffd9b3d3.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 03 28 142210**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-28_surge-in-canadian-crude-oil-exports-to-europe_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66bfffd9b3d3.png)
 
-- **Panamax**tonne days: The growth rate remains below this year's weekly average, with the downward trend persisting throughout March.
+- **Panamax** tonne days: The growth rate remains below this year's weekly average, with the downward trend persisting throughout March.
 
-- **MR**tonne-days: The growth rate of the MR segment continues to decline, though it remains above the annual average, despite indications last week that it might dip below. The previous peak was observed at the end of Week 5.
+- **MR** tonne-days: The growth rate of the MR segment continues to decline, though it remains above the annual average, despite indications last week that it might dip below. The previous peak was observed at the end of Week 5.
 
 Data Source:[Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform)
 

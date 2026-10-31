@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-12-30_dry-tonne-days.html"
 
 ---
 
-The final Dry Market Monitor of the year focuses on tonne-day demand growth as a leading indicator for freight market evolution and an early signal for market direction at the start of next year. You can find further end-of-year insights on geopolitical and freight trends in our[Annual Review](https://go.signalocean.com/e/983831/-commodities-geopolitical-risk/2rqj1n/564103489/h/TrnIACz1JOKYqZCsE97Kz8wuhEW39b93m1ywp4XxEbs).
+The final Dry Market Monitor of the year focuses on tonne-day demand growth as a leading indicator for freight market evolution and an early signal for market direction at the start of next year. You can find further end-of-year insights on geopolitical and freight trends in our [Annual Review](https://go.signalocean.com/e/983831/-commodities-geopolitical-risk/2rqj1n/564103489/h/TrnIACz1JOKYqZCsE97Kz8wuhEW39b93m1ywp4XxEbs).
 
 ![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-12-30_dry-tonne-days_img_unnamed_32552bcbd2cb.png)
 

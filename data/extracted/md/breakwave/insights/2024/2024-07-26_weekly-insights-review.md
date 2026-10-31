@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-07-26_weekly-insights-revie
 
 ## Breakwave Dry Bulk Report
 
-**Freight Futures Volatility Collapses to Record Lows as Spot Rates Remain Rangebound**– The highly volatile dry bulk freight market has been in**a deep summer hibernation**for the past two months with freight futures volatility recently hitting record lows.
+**Freight Futures Volatility Collapses to Record Lows as Spot Rates Remain Rangebound**– The highly volatile dry bulk freight market has been in**a deep summer hibernation** for the past two months with freight futures volatility recently hitting record lows.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2024625dry-87w458)
 
@@ -162,7 +162,7 @@ Heavy selling in equity markets triggered a risk-off tone across the commodity s
 
 Braemar Weekly Dry Market Report
 
-In the third week of July, crude oil freight rates continued their downward trajectory, with the clean segment showing early signs of gaining momentum.Combined,**Japan, South Korea and Taiwan**were on course to import around 93m tonnes of iron ore in the 1H 2024, plus 37m tonnes of coking coal, according to customs data. This represents a slight year-on-year fall.
+In the third week of July, crude oil freight rates continued their downward trajectory, with the clean segment showing early signs of gaining momentum.Combined,**Japan, South Korea and Taiwan** were on course to import around 93m tonnes of iron ore in the 1H 2024, plus 37m tonnes of coking coal, according to customs data. This represents a slight year-on-year fall.
 
 ![Unsplash Image D1kyo7kcrm](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-07-26_weekly-insights-review_img_unsplash-image-d1kyo7kcrm_295e949c6217.jpg)
 

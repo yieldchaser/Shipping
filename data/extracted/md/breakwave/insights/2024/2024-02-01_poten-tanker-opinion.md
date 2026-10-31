@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-02-01_poten-tanker-opinion.
 
 ## Brazil’s Oil Boom
 
-By[Erik Broekhuizen](https://www.linkedin.com/in/erikfbroekhuizen/)
+By [Erik Broekhuizen](https://www.linkedin.com/in/erikfbroekhuizen/)
 
 ### Continued Growth in Brazilian Exports Support Tanker Markets
 

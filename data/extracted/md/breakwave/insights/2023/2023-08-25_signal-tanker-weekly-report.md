@@ -49,8 +49,8 @@ Freight Market, Supply and Demand
 Downward pressure on VLCC MEG -China rates continued in the third week of August, while Suzemax and Aframax segments experienced a gradual upswing.
 
 - **VLCC MEG-China f**reight rates fell to levels around WS45, and remained below the 50 mark for four consecutive weeks.
-- **Suezmax**freight rates for shipments from**West Africa**to continental Europe rose above WS70, a level almost similar to four weeks ago, and it remains to be seen whether similar firmness will follow in the coming days of August. On the Suez-Baltic-Med route, rates also hovered around 70WS, but were still weaker than the WS90 recorded in week 30.
-- **Aframax**Med freight rates rates rose above 100WS, 17 points higher than the previous week.
+- **Suezmax** freight rates for shipments from **West Africa** to continental Europe rose above WS70, a level almost similar to four weeks ago, and it remains to be seen whether similar firmness will follow in the coming days of August. On the Suez-Baltic-Med route, rates also hovered around 70WS, but were still weaker than the WS90 recorded in week 30.
+- **Aframax** Med freight rates rates rose above 100WS, 17 points higher than the previous week.
 
 ![‘Product’ Wslr Firmer](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-25_signal-tanker-weekly-report_img_unnamed-2023-08-24t235148900_e2d5c846016a.png)
 
@@ -64,16 +64,16 @@ Downward pressure on VLCC MEG -China rates continued in the third week of August
 > **Figure 4: PANAMAX (Sentiment: Weaker)**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-25_signal-tanker-weekly-report_img_unnamed-2023-08-24t235433632_7ba0a09a280d.png)
 
-- **Panamax**Carib-to-USG rates fell below WS150, with a steady decline over the last seven weeks.
+- **Panamax** Carib-to-USG rates fell below WS150, with a steady decline over the last seven weeks.
 
 ![‘Clean’mr1 Steady - MR2 Firmer](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-25_signal-tanker-weekly-report_img_unnamed-2023-08-24t235658791_2df93df718a4.png)
 
 > **Figure 5: ‘Clean’mr1 Steady - MR2 Firmer**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-25_signal-tanker-weekly-report_img_unnamed-2023-08-24t235658791_2df93df718a4.png)
 
-- **MR1**rates for the**Baltic**continent have shown steady momentum since last week at levels around WS190 in mid-week, though it remains to be seen if firmer momentum develops towards the end of the month.
+- **MR1** rates for the **Baltic** continent have shown steady momentum since last week at levels around WS190 in mid-week, though it remains to be seen if firmer momentum develops towards the end of the month.
 
-- **MR2**rates for shipments from the continent to the U.S. rose to WS198, up nearly 38 points from three weeks ago.
+- **MR2** rates for shipments from the continent to the U.S. rose to WS198, up nearly 38 points from three weeks ago.
 
 ## Section 2/ Supplysupply Trend Lines for Key Load Areas
 
@@ -117,8 +117,8 @@ Crude oil tanker supply presented a mixed picture in August with some signs of a
 > **Figure 10: ‘Clean’tonne Days Panamax Decreasing / MR Mixed**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-08-25_signal-tanker-weekly-report_img_unnamed-2023-08-25t000655549_06f277f331bc.png)
 
-- **Panamax**tonne days: While there was an upward trend in the previous days of August, there was a downward trend in the third week, with the last high recorded seven weeks ago.
+- **Panamax** tonne days: While there was an upward trend in the previous days of August, there was a downward trend in the third week, with the last high recorded seven weeks ago.
 
-- **Clean**MR tonne days: In the last days of August, the picture is mixed, with an upward trend in MR1 and a downward trend in MR2.
+- **Clean** MR tonne days: In the last days of August, the picture is mixed, with an upward trend in MR1 and a downward trend in MR2.
 
 Data Source:[Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform)

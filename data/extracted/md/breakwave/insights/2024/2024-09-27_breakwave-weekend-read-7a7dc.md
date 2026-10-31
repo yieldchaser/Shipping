@@ -22,7 +22,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-09-27_breakwave-weekend-rea
 
 ## Welcome Tobreakwave Advisorsweekend Read
 
-As we conclude the workweek and head into the weekend, take a moment to review the key articles from this week, including those you've highlighted.[All segments stayed out of the red](https://www.breakwaveadvisors.com/insights/2024/9/23/h0tsg5eo09i2vaqeqz7bgonbrh4bhk),[We can’t fight the Fed. We can’t listen to it either. Welcome to the Old Normal](https://www.breakwaveadvisors.com/insights/2024/9/24/we-cant-fight-the-fed-we-cant-listen-to-it-either-welcome-to-the-old-normal),[Ballast speed Dry All vessel classes Vs Capesize](https://www.breakwaveadvisors.com/insights/2024/9/26/ballast-speed-dry-all-vessel-classes-vs-capesize)and more.
+As we conclude the workweek and head into the weekend, take a moment to review the key articles from this week, including those you've highlighted.[All segments stayed out of the red](https://www.breakwaveadvisors.com/insights/2024/9/23/h0tsg5eo09i2vaqeqz7bgonbrh4bhk),[We can’t fight the Fed. We can’t listen to it either. Welcome to the Old Normal](https://www.breakwaveadvisors.com/insights/2024/9/24/we-cant-fight-the-fed-we-cant-listen-to-it-either-welcome-to-the-old-normal),[Ballast speed Dry All vessel classes Vs Capesize](https://www.breakwaveadvisors.com/insights/2024/9/26/ballast-speed-dry-all-vessel-classes-vs-capesize) and more.
 
 ## Breakwave Tanker Report
 
@@ -37,7 +37,7 @@ As we conclude the workweek and head into the weekend, take a moment to review t
 
 ## Highlight of This Week
 
-[John Kartsonas](https://www.linkedin.com/in/john-kartsonas/), Managing Partner of Breakwave Advisors, participated in Maritime CEO Forum in Singapore with[Sam Chambers](https://www.linkedin.com/in/sam-chambers-b628714/), sharing valuable insights on the tanker market outlook.
+[John Kartsonas](https://www.linkedin.com/in/john-kartsonas/), Managing Partner of Breakwave Advisors, participated in Maritime CEO Forum in Singapore with [Sam Chambers](https://www.linkedin.com/in/sam-chambers-b628714/), sharing valuable insights on the tanker market outlook.
 
 ![1727078675353](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-27_breakwave-weekend-read-7a7dc_img_1727078675353_211db0a68d3b.jpeg)
 

@@ -61,33 +61,33 @@ The right-hand chart, "Dirty Russia - India," shows a less pronounced decline co
 > **Figure 2: Screenshot 2025 02 27 10.50.04**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105004_b08af4a76df8.png)
 
-Sentiment in the**dirty freight market**weakened toward the end of the month, with VLCC MEG/China routes struggling to maintain the momentum of the previous week.
+Sentiment in the **dirty freight market** weakened toward the end of the month, with VLCC MEG/China routes struggling to maintain the momentum of the previous week.
 
-- **VLCC**freight rates for**MEG-China**routes stood below WS60, marking a 14% weekly decrease. Suezmax rates for**West Africa to continental Europe**reached WS88, reflecting a 13% monthly decrease Meanwhile, Suezmax rates on the Baltic-Mediterranean route held levels above WS100, up 20% month-over-month.
-- **Aframax**freight rates in the**Mediterranean**have struggled to sustain the bullish momentum seen in previous days, currently standing at WS130, marking a 4% decline from the past week.
+- **VLCC** freight rates for **MEG-China** routes stood below WS60, marking a 14% weekly decrease. Suezmax rates for **West Africa to continental Europe** reached WS88, reflecting a 13% monthly decrease Meanwhile, Suezmax rates on the Baltic-Mediterranean route held levels above WS100, up 20% month-over-month.
+- **Aframax** freight rates in the **Mediterranean** have struggled to sustain the bullish momentum seen in previous days, currently standing at WS130, marking a 4% decline from the past week.
 
 ![Screenshot 2025 02 27 10.50.16](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105016_b2f607a60926.png)
 
 > **Figure 3: Screenshot 2025 02 27 10.50.16**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105016_b2f607a60926.png)
 
-**LR2**AG freight rates have dropped to approximately WS120, reflecting a 7% decline compared to the previous week.
+**LR2** AG freight rates have dropped to approximately WS120, reflecting a 7% decline compared to the previous week.
 
 ![Screenshot 2025 02 27 10.50.24](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105024_6c99acd57c06.png)
 
 > **Figure 4: Screenshot 2025 02 27 10.50.24**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105024_6c99acd57c06.png)
 
-**Panamax**Carib-to-USG rates held steady at WS120 for another week, though they remain 65% lower than the same period last year.
+**Panamax** Carib-to-USG rates held steady at WS120 for another week, though they remain 65% lower than the same period last year.
 
 ![Screenshot 2025 02 27 10.50.51](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105051_124eb91ac6b5.png)
 
 > **Figure 5: Screenshot 2025 02 27 10.50.51**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105051_124eb91ac6b5.png)
 
-**MR1**freight rates for Baltic-to-Continent shipments remained firm above WS200, maintaining similar momentum to that of a month ago.
+**MR1** freight rates for Baltic-to-Continent shipments remained firm above WS200, maintaining similar momentum to that of a month ago.
 
-Meanwhile,**MR2**rates for shipments from the Continent to the US Atlantic Coast (USAC) recorded a weekly downward revision and stood at WS155, marking a 9% weekly monthly decrease.**MR2**rates on the US Gulf-to-Continent route remained steady above WS100, showing signs of resilience as February approaches its end.
+Meanwhile,**MR2** rates for shipments from the Continent to the US Atlantic Coast (USAC) recorded a weekly downward revision and stood at WS155, marking a 9% weekly monthly decrease.**MR2** rates on the US Gulf-to-Continent route remained steady above WS100, showing signs of resilience as February approaches its end.
 
 ### Section 2/ Supply
 
@@ -123,15 +123,15 @@ The availability of crude tankers continued to decline, with recent estimates in
 > **Figure 9: Screenshot 2025 02 27 10.51.30**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105130_141e37e736b0.png)
 
-**Dirty**tonne days: The growth rate of dirty tonne-days for VLCCs remained weak, continuing to lag well below the annual trend. In contrast, the Suezmax segment has shown a stronger recovery since the end of the previous week, while Aframax activity has picked up pace, surpassing the annual trend for the first time since late last year.
+**Dirty** tonne days: The growth rate of dirty tonne-days for VLCCs remained weak, continuing to lag well below the annual trend. In contrast, the Suezmax segment has shown a stronger recovery since the end of the previous week, while Aframax activity has picked up pace, surpassing the annual trend for the first time since late last year.
 
 ![Screenshot 2025 02 27 10.51.35](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105135_9a1c6bf1d254.png)
 
 > **Figure 10: Screenshot 2025 02 27 10.51.35**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-02-27_russian-oil-flows_img_screenshot2025-02-27105135_9a1c6bf1d254.png)
 
-**Panamax**tonne days: The growth rate remained well below the recent weekly annual average, with not yet signs of a rebound.
+**Panamax** tonne days: The growth rate remained well below the recent weekly annual average, with not yet signs of a rebound.
 
-**MR**tonne-days: The growth rate for the MR segment has continued to decline, with levels struggling to maintain a sentiment above the annual average for the end of the month.
+**MR** tonne-days: The growth rate for the MR segment has continued to decline, with levels struggling to maintain a sentiment above the annual average for the end of the month.
 
 Data Source:[Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform)

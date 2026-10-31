@@ -20,7 +20,7 @@ source_file: "corpus/03-breakwave/insights/2020/2020-06-22_krskswagmtg8pc1kw0kk6
 
 ---
 
-Soybeans dipped in overnight trading following a[Reuters report](https://mobile.reuters.com/article/amp/idUSKBN23U02Q?__twitter_impression=true)quoting White House trade advisor Peter Navarro saying that the China trade deal “is over”.
+Soybeans dipped in overnight trading following a[Reuters report](https://mobile.reuters.com/article/amp/idUSKBN23U02Q?__twitter_impression=true) quoting White House trade advisor Peter Navarro saying that the China trade deal “is over”.
 
 From Reuters:
 

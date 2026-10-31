@@ -26,9 +26,9 @@ As another week comes to a close attention remains focused on the conflict in th
 
 Market analysts had plenty to say on this week’s developments:
 
-According to**Pareto**, while geopolitical tensions currently dominate, crude tanker markets have entered Q4 at significantly higher levels compared to the same period last year. It wasn’t until this week rates started to move in 2023, and the last five-week average for VLCCs reaching approximately $40,000 per day (on an eco, non-scrubber basis). This is a notable increase from last year’s figure, which was below $30,000 per day.
+According to **Pareto**, while geopolitical tensions currently dominate, crude tanker markets have entered Q4 at significantly higher levels compared to the same period last year. It wasn’t until this week rates started to move in 2023, and the last five-week average for VLCCs reaching approximately $40,000 per day (on an eco, non-scrubber basis). This is a notable increase from last year’s figure, which was below $30,000 per day.
 
-Research Analyst at**Intermodal**conclude: “If hostilities escalate and key oil facilities are hit, much of the world’s oil will be taken offline, leaving room for other exporters to take market share. In addition, the tankers currently dedicated to the Iranian trade will find it extremely difficult to be employed in other trades, adding to the upside risk for crude tankers. It will be crucial to monitor how the situation unfolds and what the actual impact on shipping may be.”
+Research Analyst at **Intermodal** conclude: “If hostilities escalate and key oil facilities are hit, much of the world’s oil will be taken offline, leaving room for other exporters to take market share. In addition, the tankers currently dedicated to the Iranian trade will find it extremely difficult to be employed in other trades, adding to the upside risk for crude tankers. It will be crucial to monitor how the situation unfolds and what the actual impact on shipping may be.”
 
 **Jefferies**’ Omar Nokta pointed out that OPEC’s has signalled a shift away from price protection and focused their strategy towards fighting for market share. Mr Nokta suggested oil supply could grow by 3.3m barrels per day next year, boosting VLCC utilization that could cause rates to climb to $100,000 per day.
 
@@ -36,7 +36,7 @@ Research Analyst at**Intermodal**conclude: “If hostilities escalate and key oi
 
 This statement adds another positive forecast, similar to those made by Clarksons Securities and Signal Group last week.
 
-**Clarksons Securities**believe VLCC rates could surge to $100,000 per day if each OPEC+ members follow through on production rises. Additionally, the Greek analytics platform**Signal Group**is also expecting rates to rise as available tonnage begins to shrink.
+**Clarksons Securities** believe VLCC rates could surge to $100,000 per day if each OPEC+ members follow through on production rises. Additionally, the Greek analytics platform **Signal Group** is also expecting rates to rise as available tonnage begins to shrink.
 
 **Breakwave’s**analysts conclude that with the news flow changing by the hour, it is quite difficult to make any predictions with a reasonable degree of certainly. The reality is that uncertainty has a cost, which is reflected in both oil as well as freight prices.
 

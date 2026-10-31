@@ -32,7 +32,7 @@ The eagle is finally about to land. In the past week, a number of key Fed offici
 
 The Fed has said what it plans to do, and investors can now ignore it at their own peril.
 
-This brings us to the real crux of the question. What will prompt the Fed to**cut**rates and when will that be?
+This brings us to the real crux of the question. What will prompt the Fed to **cut** rates and when will that be?
 
 Fed officials know that policy transmission may take close to a year. i.e. hiking in September, for example, means that conditions should become more tight until around September 2024. With banks eying more regulation and buttoning down the (credit) hatches, and Quantitative Tightening, conditions should continue to tighten for some time, possibly even until inflation returns near the target. This is surely part of the planning.**Which means that, all other things being equal, it doesn’t make sense to cut before the end of 2024 or the beginning of 2025.**
 

@@ -19,9 +19,9 @@ source_file: "corpus/03-breakwave/insights/2022/2022-09-08_signal-dry-bulk-weekl
 
 ---
 
-The dry bulk market remains in the doldrums, with signs of recovery in the Capesize segment. Towards the end of the third quarter, the Baltic Dry Index saw an upswing at the end of week 35, driven by large ship segments. The Capesize and Panamax Freight Indexes posted gains, while the Supramax Freight Index continued to decrease. In the first Weekly Dry Market Monitor of September, we look at supply/demand trends for the**Capesize C3**from Brazil to China route and**Panamax P6**Singapore RV, which could trigger an upswing in the performance of the dry freight index.
+The dry bulk market remains in the doldrums, with signs of recovery in the Capesize segment. Towards the end of the third quarter, the Baltic Dry Index saw an upswing at the end of week 35, driven by large ship segments. The Capesize and Panamax Freight Indexes posted gains, while the Supramax Freight Index continued to decrease. In the first Weekly Dry Market Monitor of September, we look at supply/demand trends for the **Capesize C3** from Brazil to China route and **Panamax P6** Singapore RV, which could trigger an upswing in the performance of the dry freight index.
 
-For this weekly monitor, we have used the brand new[C3](https://go.signalocean.com/e/983831/dry-reports-c3/2j8tsc/271683412?h=Zj3GNXMVMW54fogm8wkyIdveX1C17EhLQYtAqZTPGUg)and[P6_82 Dashboards](https://go.signalocean.com/e/983831/dry-reports-p6/2j8tsg/271683412?h=Zj3GNXMVMW54fogm8wkyIdveX1C17EhLQYtAqZTPGUg)(now available to all Signal clients for a limited period) to view the latest trends on freight rates, supply/demand, and port congestion.
+For this weekly monitor, we have used the brand new [C3](https://go.signalocean.com/e/983831/dry-reports-c3/2j8tsc/271683412?h=Zj3GNXMVMW54fogm8wkyIdveX1C17EhLQYtAqZTPGUg) and [P6_82 Dashboards](https://go.signalocean.com/e/983831/dry-reports-p6/2j8tsg/271683412?h=Zj3GNXMVMW54fogm8wkyIdveX1C17EhLQYtAqZTPGUg)(now available to all Signal clients for a limited period) to view the latest trends on freight rates, supply/demand, and port congestion.
 
 ![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2022/assets/2022-09-08_signal-dry-bulk-weekly-report_img_unnamed285829_3bbf5af231dc.png)
 
@@ -123,6 +123,6 @@ A look at the latest weekly trends in waiting days for discharging shows that th
 
 Overall, September supply/demand trends indicate that freight rates for the C3 and P6_82 routes are very likely to continue to increase, while demand for Panamax vessels has not yet peaked. It is clear that the number of ballast vessels in the Capesize route from Brazil to China has reached a level that could sustain the recent revival of rates($/ton) and lead to a significant increase in the overall dry cargo index at the end of this quarter.
 
-You can monitor the upcoming trends in freight rates, supply/demand and port congestion rates in the[C3](https://go.signalocean.com/e/983831/dry-reports-c3/2j8tsc/271683412?h=Zj3GNXMVMW54fogm8wkyIdveX1C17EhLQYtAqZTPGUg)and[P6_82 Dashboards](https://go.signalocean.com/e/983831/dry-reports-p6/2j8tsg/271683412?h=Zj3GNXMVMW54fogm8wkyIdveX1C17EhLQYtAqZTPGUg).
+You can monitor the upcoming trends in freight rates, supply/demand and port congestion rates in the [C3](https://go.signalocean.com/e/983831/dry-reports-c3/2j8tsc/271683412?h=Zj3GNXMVMW54fogm8wkyIdveX1C17EhLQYtAqZTPGUg) and [P6_82 Dashboards](https://go.signalocean.com/e/983831/dry-reports-p6/2j8tsg/271683412?h=Zj3GNXMVMW54fogm8wkyIdveX1C17EhLQYtAqZTPGUg).
 
 Data Source:[Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform)

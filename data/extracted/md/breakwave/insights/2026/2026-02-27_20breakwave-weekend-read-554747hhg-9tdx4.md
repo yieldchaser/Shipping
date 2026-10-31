@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-02-27_20breakwave-weekend-r
 
 ## Breakwave Shipping Report
 
-**VLCC: Risk Rally or Structural Shift?**– Since early February, when we observed that the VLCC market appeared to be consolidating at elevated levels, freight rates have moved**decisively higher**, extending what was already an extraordinary rally that began in mid-January.
+**VLCC: Risk Rally or Structural Shift?**– Since early February, when we observed that the VLCC market appeared to be consolidating at elevated levels, freight rates have moved **decisively higher**, extending what was already an extraordinary rally that began in mid-January.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2242026wetreport20264754)
 
@@ -150,7 +150,7 @@ From Commodore's Weekly Dry Bulk Reports
 > **Figure 12: Pexels Fabrizio Zini 606841368 19500299**  
 > **Interactive Data & Source:** [Breakwave Advisors Market Insights](https://www.breakwaveadvisors.com/insights/2026/2/27/panamax-freight-view-on-indonesian-thermal-coal-flows) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2026/assets/2026-02-27_20breakwave-weekend-read-554747hhg-9tdx4_img_pexels-fabrizio-zini-606841368-19500_1771ea054d64.jpg)
 
-This week's focus highlights the softening trend in**Signal Ocean Platform**data flows for Indonesian thermal coal shipments to India, particularly within the Panamax vessel segment, toward the end of February.
+This week's focus highlights the softening trend in **Signal Ocean Platform** data flows for Indonesian thermal coal shipments to India, particularly within the Panamax vessel segment, toward the end of February.
 
 Signal Ocean Dry Weekly Market Monitor
 

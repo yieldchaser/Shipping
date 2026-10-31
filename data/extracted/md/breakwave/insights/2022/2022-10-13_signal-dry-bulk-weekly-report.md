@@ -44,10 +44,10 @@ Meanwhile, iron ore prices recorded a rise on Monday as stocks at Chinese ports 
 
 The second week of October saw a continuation of the upward trend in freight rates for Panamax vessels, with firmer signs for Capesize vessels, while a downward trend was observed for smaller vessel size classes.
 
-- **Capesize**freight rates from Brazil to North China rose $25/tonne, up $1.5/tonne from week 39 and nearly $5.5/tonne from the week 35 low.
-- **Panamax**freight rates from the continent to the Far East rose to $45.5/tonne, up $10.5/tonne from the week 35 low.
-- **Supramax**freight rates for the Indo-ECI route remained at $19/tonne for the last three consecutive weeks, with no sign of a downward trend so far.
-- **Handysize**vessel freight rates from NOPAC to the Far East have remained below $42/tonne for more than a month, with signs of a continued decline in the coming days.
+- **Capesize** freight rates from Brazil to North China rose $25/tonne, up $1.5/tonne from week 39 and nearly $5.5/tonne from the week 35 low.
+- **Panamax** freight rates from the continent to the Far East rose to $45.5/tonne, up $10.5/tonne from the week 35 low.
+- **Supramax** freight rates for the Indo-ECI route remained at $19/tonne for the last three consecutive weeks, with no sign of a downward trend so far.
+- **Handysize** vessel freight rates from NOPAC to the Far East have remained below $42/tonne for more than a month, with signs of a continued decline in the coming days.
 
 ## Section 2/ Supply -Ballasters (# Vessels) Increasing
 
@@ -58,10 +58,10 @@ The second week of October saw a continuation of the upward trend in freight rat
 
 The number of Capesize and Panamax vessels sailing with ballast remains below the annual average for the past five weeks, while the number of Supramax vessels appears to be down slightly from the previous week's annual high.
 
-- **Capesize**SE Africa: The number of vessels is now at 67, down 45% from the high in week 32.
-- **Panamax**SE Africa: The number of vessels is at 77, up 6 from three weeks ago, but still well below the yearly average of 105.
-- **Supramax**SE Asia: The number of vessels decreased to 110, 6 fewer than the previous week.
-- **Handysize**NOPAC: Vessel count remained at an accelerated level of 69, 16 more than week 39.
+- **Capesize** SE Africa: The number of vessels is now at 67, down 45% from the high in week 32.
+- **Panamax** SE Africa: The number of vessels is at 77, up 6 from three weeks ago, but still well below the yearly average of 105.
+- **Supramax** SE Asia: The number of vessels decreased to 110, 6 fewer than the previous week.
+- **Handysize** NOPAC: Vessel count remained at an accelerated level of 69, 16 more than week 39.
 
 ## Section 3/ Demand -TonDays Decreasing
 
@@ -72,10 +72,10 @@ The number of Capesize and Panamax vessels sailing with ballast remains below th
 
 The trend for Capesize vessels has slowed in the first two weeks of October, and there has also been a significant decline for Panamax vessels.
 
-- **Capesize**demand ton-days: The percentage increase has slowed in October, but is still well above the low in week 35.
-- **Panamax**demand ton-days: The volatility of recorded growth has not yet shown a significant upward or downward trend in the first half of October.
-- **Supramax**demand ton-days: The sudden decline recorded last week has intensified and dropped to the lowest level of the year.
-- **Handysize**demand ton-days: The percentage increase recorded at the beginning of October does not seem to continue, as the values show a downward correction in the first half of the month.
+- **Capesize** demand ton-days: The percentage increase has slowed in October, but is still well above the low in week 35.
+- **Panamax** demand ton-days: The volatility of recorded growth has not yet shown a significant upward or downward trend in the first half of October.
+- **Supramax** demand ton-days: The sudden decline recorded last week has intensified and dropped to the lowest level of the year.
+- **Handysize** demand ton-days: The percentage increase recorded at the beginning of October does not seem to continue, as the values show a downward correction in the first half of the month.
 
 ## Section 4/ Port Congestion -No of Vesselsincreasing
 

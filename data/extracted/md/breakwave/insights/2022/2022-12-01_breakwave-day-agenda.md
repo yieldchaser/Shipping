@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2022/2022-12-01_breakwave-day-agenda.
 
 𝗜𝘁'𝘀 𝘁𝗼𝗱𝗮𝘆! A must watch two-hour LIVE discussion on the tanker and dry bulk markets with some of the brightest minds in the business.
 
-No registration required. To access the live stream, simply visit our[homepage](https://www.breakwaveadvisors.com).
+No registration required. To access the live stream, simply visit our [homepage](https://www.breakwaveadvisors.com).
 
 ## December 1st, 2022
 

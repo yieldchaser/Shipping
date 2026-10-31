@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-06-20_breakwave-weekend-rea
 
 ## Breakwave Shipping Report
 
-**Black Swans Everywhere as VLCCs Surge**– The most**severe conflict**in the Middle East in decades has introduced considerable instability into the oil markets, which in turn**has impacted tanker shipping operations.**
+**Black Swans Everywhere as VLCCs Surge**– The most **severe conflict** in the Middle East in decades has introduced considerable instability into the oil markets, which in turn **has impacted tanker shipping operations.**
 
 [Read More](https://www.breakwaveadvisors.com/insights/2025176wetjhyu514)
 

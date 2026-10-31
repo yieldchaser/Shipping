@@ -26,7 +26,7 @@ As we conclude the workweek and head into the weekend, take a moment to review t
 
 ## Breakwave Dry Bulk Report
 
-**Capesize Activity Picks Up as Winter Market Takes Hold**- The October slump in Capesize spot rates is now behind us, and we anticipate rates will soon reach the**mid-$20,000 range**.
+**Capesize Activity Picks Up as Winter Market Takes Hold**- The October slump in Capesize spot rates is now behind us, and we anticipate rates will soon reach the **mid-$20,000 range**.
 
 [Read More](https://www.breakwaveadvisors.com/insights/20241112dry-87w355)
 

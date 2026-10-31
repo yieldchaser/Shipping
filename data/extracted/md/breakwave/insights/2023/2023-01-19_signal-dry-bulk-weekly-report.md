@@ -39,10 +39,10 @@ In the iron market, prices rose above $120/t earlier this year, up nearly 50% fr
 
 In January, a weaker trend in spot freight rates emerged for all ship size classes, with the decline in the Supramax segment appearing to be more pronounced at the beginning of the new year.
 
-- **Capesize**vessel freight rates fell to $17.7/tonne, down $3.5/tonne from the last few days of December, while today's level is similar to the sentiment that prevailed on similar days a year ago.
-- **Panamax**vessel freight rates fromtheContinent to the Far East reached $35/tonne, down nearly $9/tonne from the Week 40 peak.
-- **Supramax**freight rates for the Indo-ECI route fell to $9/tonne, down nearly $8/tonne from week 34, and today's decline is the largest in a 12-month period.
-- **Handysize**freight rates for the NOPAC route to the Far East settled at levels around $30/tonne in the second and third weeks of January, although there were some signs of an upturn before the end of the year.
+- **Capesize** vessel freight rates fell to $17.7/tonne, down $3.5/tonne from the last few days of December, while today's level is similar to the sentiment that prevailed on similar days a year ago.
+- **Panamax** vessel freight rates fromtheContinent to the Far East reached $35/tonne, down nearly $9/tonne from the Week 40 peak.
+- **Supramax** freight rates for the Indo-ECI route fell to $9/tonne, down nearly $8/tonne from week 34, and today's decline is the largest in a 12-month period.
+- **Handysize** freight rates for the NOPAC route to the Far East settled at levels around $30/tonne in the second and third weeks of January, although there were some signs of an upturn before the end of the year.
 
 ## Section 2/ Supply -Ballasters (# Vessels) Increasing
 
@@ -53,10 +53,10 @@ In January, a weaker trend in spot freight rates emerged for all ship size class
 
 The number of ballast ships in the Handysize, Supramax and Panamax size classes has increased and has been above the annual average since the end of the second week of January.
 
-- **Capesize**SE Africa: The number of vessels is now 72, 14 more than in the last week of December, continues to increase and is approaching the annual average of 78.
-- **Panamax**SE Africa: The number of vessels is now at 115, up 40 from week 50, exceeding the annual average of 100 for the first time since week 34 last year.
-- **Supramax**SE Asia: The number of vessels remains above the annual average of 85, although there are signs of a downward trend.
-- **Handysize**NOPAC: The number of vessels increased significantly to 82, almost 15 more than the previous week, and there are signs of a further increase towards the end of January.
+- **Capesize** SE Africa: The number of vessels is now 72, 14 more than in the last week of December, continues to increase and is approaching the annual average of 78.
+- **Panamax** SE Africa: The number of vessels is now at 115, up 40 from week 50, exceeding the annual average of 100 for the first time since week 34 last year.
+- **Supramax** SE Asia: The number of vessels remains above the annual average of 85, although there are signs of a downward trend.
+- **Handysize** NOPAC: The number of vessels increased significantly to 82, almost 15 more than the previous week, and there are signs of a further increase towards the end of January.
 
 ## Section 3/ Demand -TonDays Decreasing
 
@@ -67,13 +67,13 @@ The number of ballast ships in the Handysize, Supramax and Panamax size classes 
 
 Demand growth slowed significantly with the start of the new year, with the sharpest decline in demand for Handysize vessels.
 
-- **Capesize**demand ton-days: The downward trend in the three weeks of January supported weaker sentiment in freight rates, which are expected to weaken further by the end of the month.
+- **Capesize** demand ton-days: The downward trend in the three weeks of January supported weaker sentiment in freight rates, which are expected to weaken further by the end of the month.
 
-- **Panamax**demand ton-days: January saw a similar downward trend in the Panamax segment as in the Capesize, although it remains to be seen whether the recent weakness will continue in the first quarter of this year.
+- **Panamax** demand ton-days: January saw a similar downward trend in the Panamax segment as in the Capesize, although it remains to be seen whether the recent weakness will continue in the first quarter of this year.
 
-- **Supramax**demand ton-days: There are signs of weakness and strong volatility with no clear signs of an upward or downward trend in the coming days.
+- **Supramax** demand ton-days: There are signs of weakness and strong volatility with no clear signs of an upward or downward trend in the coming days.
 
-- **Handysize**demand ton-days: The decline seems to be strongest since the end of November, with a stronger downward correction for the whole of January.
+- **Handysize** demand ton-days: The decline seems to be strongest since the end of November, with a stronger downward correction for the whole of January.
 
 ## Section 4/ Port Congestion -No of Vesselsincreasing
 

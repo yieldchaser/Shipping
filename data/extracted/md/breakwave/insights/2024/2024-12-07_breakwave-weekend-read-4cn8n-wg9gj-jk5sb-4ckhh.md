@@ -33,7 +33,7 @@ As we conclude the workweek and head into the weekend, take a moment to review t
 
 ## Breakwave Tanker Report
 
-**VLCC Freight Market Struggles Amid Weak Demand; Hopes Pinned on China's Import Rebound**– The VLCC (Very Large Crude Carrier) dirty freight market**experienced significant challenges**in late November, with rates in the Arabian Gulf (AG) dropping to**new annual lows.**
+**VLCC Freight Market Struggles Amid Weak Demand; Hopes Pinned on China's Import Rebound**– The VLCC (Very Large Crude Carrier) dirty freight market **experienced significant challenges** in late November, with rates in the Arabian Gulf (AG) dropping to **new annual lows.**
 
 ![Στιγμιότυπο Οθόνης 2024 12 03 123111](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-12-07_breakwave-weekend-read-4cn8n-wg9gj-jk5sb-4ckhh_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_73bbf306bb41.png)
 

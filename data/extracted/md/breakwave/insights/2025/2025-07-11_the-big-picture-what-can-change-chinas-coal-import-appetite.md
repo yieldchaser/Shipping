@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-07-11_the-big-picture-what-
 
 Using industry price and Braemar’s own freight rate assessments as a basis, the current implied spot delivered price into South China of domestic thermal coal (6,000kc) is similar to the corresponding landed price for Indonesian material.
 
-However, the same price comparison for**this point last year**showed**domestic coal to be costlier by more than $6/t**.
+However, the same price comparison for **this point last year** showed **domestic coal to be costlier by more than $6/t**.
 
 Such comparisons are risky. Of course, 6,000kc is a high cv (calorific value) coal, with most of Indonesia’s coal offered with lower cv, and we have not taken into account the involvement of term contracts, other differences in grade, plus costs such as taxes.
 
@@ -48,13 +48,13 @@ The State Grid Energy Research Institute has forecast a 5% gain in China’s pow
 
 For perspective, power demand rose at an annual rate of 5.5% in 2016-20 and 6.8% in 2020-24 inclusive (see chart below).
 
-**Renewable energy’s share**of Chinese power capacity will continue to expand.
+**Renewable energy’s share** of Chinese power capacity will continue to expand.
 
-This month a senior representative from the National Coal Industry Association in China estimated that a yearly increase in generation from solar, wind, and hydropower during January-May had**displaced around 50m tonnes of coal burn**at power stations.
+This month a senior representative from the National Coal Industry Association in China estimated that a yearly increase in generation from solar, wind, and hydropower during January-May had **displaced around 50m tonnes of coal burn** at power stations.
 
 **Heatwaves**, which have pushed average temperatures across China some 0.9°C above the usual level, have already been linked to May’s rise in power demand and coal-fired generation.
 
-**Hydro power generation**also fell by –14% YoY in May, supporting thermal generation (see second chart on page 1).
+**Hydro power generation** also fell by –14% YoY in May, supporting thermal generation (see second chart on page 1).
 
 Earlier this year, the National Energy Administration forecast the average temperature to climb 0.5-1.5°C above the summer norm, with some northern and central regions experiencing extreme highs of 45°C.
 
@@ -62,7 +62,7 @@ Indeed, Chinese media reported that the national electricity load surged to reco
 
 Given healthy inventory levels, much will depend on whether China’s domestic coal mines can lift production in coming weeks.
 
-Alongside other swing factors, such as the duration of current port congestion at Newcastle and East Coast South American grain chartering activity (and potential for lengthening vessel queues),**China’s coal import interest**forms a**key influence for Panamax market balances in the Q3**.
+Alongside other swing factors, such as the duration of current port congestion at Newcastle and East Coast South American grain chartering activity (and potential for lengthening vessel queues),**China’s coal import interest** forms a**key influence for Panamax market balances in the Q3**.
 
 ---
 

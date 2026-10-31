@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2026/2026-03-06_20breakwave-weekend-r
 
 ## Breakwave Shipping Report
 
-**Positive Sentiment Supports Rates Despite Dark Macro Clouds**– The dry bulk chartering market has finally reached a phase of**institutional maturity**where freight derivatives increasingly dictate spot market trajectory, mirroring the evolution of other global commodity markets.
+**Positive Sentiment Supports Rates Despite Dark Macro Clouds**– The dry bulk chartering market has finally reached a phase of **institutional maturity** where freight derivatives increasingly dictate spot market trajectory, mirroring the evolution of other global commodity markets.
 
 [Read More](https://www.breakwaveadvisors.com/insights/332026db-report2026kkji33lo)
 

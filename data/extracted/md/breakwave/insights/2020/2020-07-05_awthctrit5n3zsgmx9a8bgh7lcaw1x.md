@@ -46,4 +46,4 @@ Smaller size vessels are also catching up, and both Panamax and Supramax spot ra
 
 The second half of 2020 should be one of the best periods for dry bulk shipping rates in quite sometime, as the macroeconomic picture is supportive, inventories for raw materials are low, and pend up demand for shipping due to delays in the first half is increasing quite rapidly.
 
-Finally, in my opinion,**the best way to follow freight rates**is through BDRY, the Dry Bulk ETF. It follows actual rates, so for someone who believes that rates are going higher, BDRY offers that simple pure exposure without the noise coming from the Wall Street narrative, headline news and investor expectations. Check it out: www.drybulketf.com
+Finally, in my opinion,**the best way to follow freight rates** is through BDRY, the Dry Bulk ETF. It follows actual rates, so for someone who believes that rates are going higher, BDRY offers that simple pure exposure without the noise coming from the Wall Street narrative, headline news and investor expectations. Check it out: www.drybulketf.com

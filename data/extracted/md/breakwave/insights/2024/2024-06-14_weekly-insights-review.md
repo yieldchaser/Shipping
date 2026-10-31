@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-06-14_weekly-insights-revie
 
 ## Breakwave Dry Bulk Report
 
-**Steady as it goes while curve inverses and sentiment moderates –**The past few weeks have been**uncharacteristically calm**for the otherwise volatile dry bulk market.
+**Steady as it goes while curve inverses and sentiment moderates –**The past few weeks have been **uncharacteristically calm** for the otherwise volatile dry bulk market.
 
 ![Dry+report+top](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-14_weekly-insights-review_img_dry2breport2btop_e1683f2a3964.png)
 

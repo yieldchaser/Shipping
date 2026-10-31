@@ -42,7 +42,7 @@ Rates overall were down on last done with US Gulf/Continent now paying $14,000
 
 Black Sea to Spain paid $7,450 for a 58,716 dwt and a similar size secured $11,000 per day for a leg from Port Said to West Africa. For the smaller sizes there were reports of a 32,000 tonner concluding a Continent delivery for trip to Far East at $11,000 daily. Nordic fixed the *Bianco Venture* 2004 built 33,733 dwt from Damietta to West Africa at $8,500 daily.
 
-Louis Dreyfus took the *Athena*2011 built 61,150 dwt delivery Santos with sugar to Chittagong at $10,750 plus a $150,000 ballast bonus.
+Louis Dreyfus took the *Athena* 2011 built 61,150 dwt delivery Santos with sugar to Chittagong at $10,750 plus a $150,000 ballast bonus.
 
 In the East, Indonesia/India paid $7,250 daily for a 57,000 dwt while a Singapore delivery for the same business/size paid $6,500 daily. A Tess 58 fixed to Western Bulk Carriers from Vancouver to Bangladesh at $7,400 daily plus a $150,000 ballast bonus.
 

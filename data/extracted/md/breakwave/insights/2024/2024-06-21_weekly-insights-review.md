@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-06-21_weekly-insights-revie
 
 ## Breakwave Tanker Report
 
-**The VLCC Market Remains under Persistent Downward Pressure Amid Oversupply, Reduced Demand**– As we move into the second half of June and the final stretch of the first half of the year,**renewed downward pressure**is again the main dynamic for the**VLCC market**with sluggish performance in both the Atlantic and Pacific basins.
+**The VLCC Market Remains under Persistent Downward Pressure Amid Oversupply, Reduced Demand**– As we move into the second half of June and the final stretch of the first half of the year,**renewed downward pressure** is again the main dynamic for the **VLCC market** with sluggish performance in both the Atlantic and Pacific basins.
 
 ![Στιγμιότυπο Οθόνης 2024 06 18 104500](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-21_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d8836552a97e.png)
 

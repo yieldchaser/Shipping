@@ -48,7 +48,7 @@ Market crises fall broadly into two categories: exogenous and endogenous.
 
 **Exogenous shocks,**wars, pandemics etc, are, as a rule, manageable. Precisely because the cause is external and identifiable, central banks and the financial system can mobilise to absorb the impact. Capitalism has survived countless wars and external shocks since the seventeenth century.
 
-The second type of crisis is**endogenous**: one in which the system itself exhibits a dysfunction. Because such crises do not generate the same immediate headlines as an external shock, the response typically sometimes lags, allowing the problem to compound.
+The second type of crisis is **endogenous**: one in which the system itself exhibits a dysfunction. Because such crises do not generate the same immediate headlines as an external shock, the response typically sometimes lags, allowing the problem to compound.
 
 In the aftermath of the Great Financial Crisis of 2007–2008, governments substantially tightened the regulatory framework, curtailing banks’ capacity to lend. However, demand for credit, particularly from start-ups and the technology sector, remained robust. Combined with historically low interest rates, this created fertile conditions for private investors to step in, either by taking equity stakes (Private Equity) or by extending loans outside the banking system under bespoke contractual terms (Private Credit).
 

@@ -46,7 +46,7 @@ The announcement sent stocks down and was the final blow in wiping out all the g
 > **Figure 3: Market Chart 3**  
 > **Interactive Data & Source:** [Mazars Co](https://www.mazars.co.uk/Home/Services/Financial-Planning/Investment-News/Quarterly-investment-outlook-Q1-2023) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-02-28_mazars-comment-sticky-growth-or-a-wiley-e-consumer-moment_img_image00828329_f8c7894059d8.jpg)
 
-In our latest[Quarterly](https://www.mazars.co.uk/Home/Services/Financial-Planning/Investment-News/Quarterly-investment-outlook-Q1-2023)we stated very clearly that we expect increased macroeconomic volatility in 2023, which means we also expect numbers to vary widely from forecasts. So we are not surprised by the numbers themselves. But we are surprised by the resilience of consumers.
+In our latest [Quarterly](https://www.mazars.co.uk/Home/Services/Financial-Planning/Investment-News/Quarterly-investment-outlook-Q1-2023) we stated very clearly that we expect increased macroeconomic volatility in 2023, which means we also expect numbers to vary widely from forecasts. So we are not surprised by the numbers themselves. But we are surprised by the resilience of consumers.
 
 ### The Larger Question Is: Why Is the Us Economy Accelerating Instead of Decelerating?
 

@@ -36,9 +36,9 @@ Combining all coal types with bauxite, and chrome, copper, iron, manganese and n
 
 Turning to the chart on the right, last year’s estimated total for other ores (confirmed customs data for December is not yet available) is double 2016 and four times the 2009 level.
 
-Like the overall coal and ore total,**nickel ore**imports are also on course for an increase of 17% in 2023, but will fail to match the 2019 peak of 56m tonnes, because 2019 was the last full year of Indonesian availability. Since 2020, the Philippines has raised exports into China to meet demand.
+Like the overall coal and ore total,**nickel ore** imports are also on course for an increase of 17% in 2023, but will fail to match the 2019 peak of 56m tonnes, because 2019 was the last full year of Indonesian availability. Since 2020, the Philippines has raised exports into China to meet demand.
 
-Since 2017,**bauxite**imports have grown by an average of 12m tonnes annually. As Indonesia placed an export ban on bauxite from June 2023, China has become even more reliant on Guinea.
+Since 2017,**bauxite** imports have grown by an average of 12m tonnes annually. As Indonesia placed an export ban on bauxite from June 2023, China has become even more reliant on Guinea.
 
 With one month of data remaining, imports from Guinea into China have already registered a record annual increase of 20m+ tonnes and will likely approach 30m tonnes with the release of final data for 2023.
 

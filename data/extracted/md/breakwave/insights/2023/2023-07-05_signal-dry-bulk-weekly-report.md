@@ -64,10 +64,10 @@ Supply Trend Lines for Key Load Areas
 
 The initial week of July remains consistent with the declining pattern observed towards the end of June, as the number of ballasters hovers around the annual average for most vessel sizes. However, it is noteworthy that the Panamax vessel size deviates from this trend, showcasing a distinct pattern in contrast to the other vessel categories.
 
-- **​​Capesize**SE Africa: Presently, the ship count stands only 2 vessels above the annual average of 84, indicating a close alignment with typical levels. However, it is worth noting that during week 13, the count dipped to its lowest point, with a recorded figure of approximately 71 vessels.
-- **Panamax**SE Africa: The number of vessels has fallen below the threshold of 150, yet it continues to maintain a significantly higher trend when compared to the annual average of 107 vessels. Despite the decline, the observed figures emphasize the sustained elevation in vessel count, surpassing the typical levels observed throughout the year.
-- **Supramax**SE Asia: The current vessel count has sharply declined to 92, positioning it nearly 3 vessels below the annual average. This downward trend suggests an imminent decrease in the forthcoming days, highlighting a potential continuation of diminishing vessel numbers.
-- **Handysize**NOPAC: The vessel count stands close to the annual average of 70, reflecting a decline that has dipped below the expected trend for the initial days of July.​​​
+- **​​Capesize** SE Africa: Presently, the ship count stands only 2 vessels above the annual average of 84, indicating a close alignment with typical levels. However, it is worth noting that during week 13, the count dipped to its lowest point, with a recorded figure of approximately 71 vessels.
+- **Panamax** SE Africa: The number of vessels has fallen below the threshold of 150, yet it continues to maintain a significantly higher trend when compared to the annual average of 107 vessels. Despite the decline, the observed figures emphasize the sustained elevation in vessel count, surpassing the typical levels observed throughout the year.
+- **Supramax** SE Asia: The current vessel count has sharply declined to 92, positioning it nearly 3 vessels below the annual average. This downward trend suggests an imminent decrease in the forthcoming days, highlighting a potential continuation of diminishing vessel numbers.
+- **Handysize** NOPAC: The vessel count stands close to the annual average of 70, reflecting a decline that has dipped below the expected trend for the initial days of July.​​​
 
 ## Section 3/ Demand
 

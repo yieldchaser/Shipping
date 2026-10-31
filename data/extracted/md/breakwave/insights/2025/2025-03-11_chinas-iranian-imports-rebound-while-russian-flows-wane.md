@@ -45,7 +45,7 @@ In contrast, Chinese oil majors have adopted a more cautious approach toward Rus
 
 This conservative stance has also dampened demand for other Russian crude grades, including Urals and Arctic crude.
 
-Notably, January-loading Far East Sokol cargoes—transferred onto[a non-sanctioned VLCC](https://analytics.vortexa.com/Historical?dateRange=2025-01-01T00%3A00%3A00.000Z__2025-03-31T23%3A59%3A59.999Z&metric=t&movementEvent=unloading_start&page=Historical&tabId=0bbf96e8-e0ac-4e55-abb9-b77745cb51ab&v=3&vessels=%5B%225f898da6ead4d4933397ffdaaae7441f767facdc44b108b5b06a338409202a03%22%5D)via STS in Russia Far East —remain floating offshore Shandong awaiting orders.
+Notably, January-loading Far East Sokol cargoes—transferred onto[a non-sanctioned VLCC](https://analytics.vortexa.com/Historical?dateRange=2025-01-01T00%3A00%3A00.000Z__2025-03-31T23%3A59%3A59.999Z&metric=t&movementEvent=unloading_start&page=Historical&tabId=0bbf96e8-e0ac-4e55-abb9-b77745cb51ab&v=3&vessels=%5B%225f898da6ead4d4933397ffdaaae7441f767facdc44b108b5b06a338409202a03%22%5D) via STS in Russia Far East —remain floating offshore Shandong awaiting orders.
 
 ![Στιγμιότυπο Οθόνης 2025 03 11 120044](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-11_chinas-iranian-imports-rebound-while-russian-flows-wane_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e1d6550cde17.png)
 

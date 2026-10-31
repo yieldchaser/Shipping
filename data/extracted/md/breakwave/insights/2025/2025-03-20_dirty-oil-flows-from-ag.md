@@ -60,31 +60,31 @@ Conversely, Europe's conservative posture reflects a wait-and-see approach. Euro
 
 VLCC MEG/China rates are striving to maintain the firm sentiment of previous weeks, while the Suezmax segment continues to show signs of strengthening as the month comes to a close.
 
-- **VLCC**freight rates for**MEG-China**routes climbed to WS68, marking a 17% weekly increase. Suezmax rates for West Africa to continental Europe maintained their momentum from the previous week at WS100, reflecting an 8% monthly gain. Meanwhile, Suezmax rates on the Baltic-Mediterranean route rose to WS130, up 16% month-on-month.
-- **Aframax**freight rates in the**Mediterranean**slipped below WS115, extending their downward trend since late February, marking a 17% month-on-month decline.
+- **VLCC** freight rates for **MEG-China** routes climbed to WS68, marking a 17% weekly increase. Suezmax rates for West Africa to continental Europe maintained their momentum from the previous week at WS100, reflecting an 8% monthly gain. Meanwhile, Suezmax rates on the Baltic-Mediterranean route rose to WS130, up 16% month-on-month.
+- **Aframax** freight rates in the **Mediterranean** slipped below WS115, extending their downward trend since late February, marking a 17% month-on-month decline.
 
 ![Στιγμιότυπο Οθόνης 2025 03 20 224806](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fc5a2b58d3ff.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 03 20 224806**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fc5a2b58d3ff.png)
 
-- **LR2**AG freight rates held firmer levels of the previous three weeks and rose to WS165, reflecting a 30% monthly increase.
+- **LR2** AG freight rates held firmer levels of the previous three weeks and rose to WS165, reflecting a 30% monthly increase.
 
 ![Στιγμιότυπο Οθόνης 2025 03 20 224859](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_54f7c58ebb47.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2025 03 20 224859**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_54f7c58ebb47.png)
 
-- **Panamax**Carib-to-USG remained at around 150 WS, which corresponds to an increase of 25 % compared to the previous month.
+- **Panamax** Carib-to-USG remained at around 150 WS, which corresponds to an increase of 25 % compared to the previous month.
 
 ![Στιγμιότυπο Οθόνης 2025 03 20 224947](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_148d07f9751b.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2025 03 20 224947**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_148d07f9751b.png)
 
-- **MR1**freight rates for**Baltic-to-Continent**shipments hovered around WS210, rising 5% week-on-week and demonstrating firmer momentum than the previous week.
+- **MR1** freight rates for **Baltic-to-Continent** shipments hovered around WS210, rising 5% week-on-week and demonstrating firmer momentum than the previous week.
 
-- **MR2**freight rates from the**Continent to the US Atlantic**Coast (USAC) shipments reached WS160, registering a 7% weekly rise. Meanwhile, MR2 rates on the US Gulf-to-Continent route climbed to WS120, marking a substantial 40% increase over the week.
+- **MR2** freight rates from the **Continent to the US Atlantic** Coast (USAC) shipments reached WS160, registering a 7% weekly rise. Meanwhile, MR2 rates on the US Gulf-to-Continent route climbed to WS120, marking a substantial 40% increase over the week.
 
 ![Στιγμιότυπο Οθόνης 2025 03 20 225035](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_408c67fdd562.png)
 
@@ -117,16 +117,16 @@ VLCC MEG/China rates are striving to maintain the firm sentiment of previous wee
 > **Figure 9: Στιγμιότυπο Οθόνης 2025 03 20 225243**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_938717903495.png)
 
-- **Dirty**tonne days: The remarkable surge in the Suezmax segment is raising hopes for a strong market recovery. Meanwhile, the VLCC and Aframax freight markets appear to be driven primarily by the number of prompt vessels, as demand growth remains sluggish in March.
+- **Dirty** tonne days: The remarkable surge in the Suezmax segment is raising hopes for a strong market recovery. Meanwhile, the VLCC and Aframax freight markets appear to be driven primarily by the number of prompt vessels, as demand growth remains sluggish in March.
 
 ![Στιγμιότυπο Οθόνης 2025 03 20 225332](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_370f1a5a4cc3.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2025 03 20 225332**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-03-20_dirty-oil-flows-from-ag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_370f1a5a4cc3.png)
 
-- **Panamax**tonne days: The growth rate remains below this year's weekly average, but it seems to have bottomed out eight weeks ago. The pace is gradually approaching the annual average, particularly in the latter half of the month.
+- **Panamax** tonne days: The growth rate remains below this year's weekly average, but it seems to have bottomed out eight weeks ago. The pace is gradually approaching the annual average, particularly in the latter half of the month.
 
-- **MR**tonne-days: The growth rate of the MR segment continues to decline, now falling below the annual average for MR1 vessels. Meanwhile, the MR2 vessel size segment remains near the annual average, though there are no signs of a rebound yet.
+- **MR** tonne-days: The growth rate of the MR segment continues to decline, now falling below the annual average for MR1 vessels. Meanwhile, the MR2 vessel size segment remains near the annual average, though there are no signs of a rebound yet.
 
 Data Source:[Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform)
 

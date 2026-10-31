@@ -53,10 +53,10 @@ Market Rates ($/t) Firmer
 
 The second week of September saw Panamax rates continuing to recover and sentiment remaining buoyant, while signs of a weekly revamp emerged in the Capesize market.
 
-- **Capesize**vessel freight rates from Brazil to North China exceeded $17/tonne, representing a 3% w-o-w increase, although still below early summer levels.
-- **Panamax**vessel freight rates from the Continent to the Far East reached $38 per tonne, maintaining the same peak as a month ago and displaying a continued upward trend.
-- **Supramax**vessel freight rates on the Indo-ECI route rose to $11.4/tonne, a 3% weekly increase. Monthly rates are up 9% compared to a similar week in August.
-- **Handysize**freight rates for the NOPAC Far East route remained stable at $29.8/tonne, the highest level since week 22, and up 6% month over month.
+- **Capesize** vessel freight rates from Brazil to North China exceeded $17/tonne, representing a 3% w-o-w increase, although still below early summer levels.
+- **Panamax** vessel freight rates from the Continent to the Far East reached $38 per tonne, maintaining the same peak as a month ago and displaying a continued upward trend.
+- **Supramax** vessel freight rates on the Indo-ECI route rose to $11.4/tonne, a 3% weekly increase. Monthly rates are up 9% compared to a similar week in August.
+- **Handysize** freight rates for the NOPAC Far East route remained stable at $29.8/tonne, the highest level since week 22, and up 6% month over month.
 
 ## Section 2/ Supply ​​​
 

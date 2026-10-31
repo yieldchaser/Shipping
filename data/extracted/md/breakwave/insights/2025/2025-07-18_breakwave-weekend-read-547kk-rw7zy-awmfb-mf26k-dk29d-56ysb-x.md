@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-07-18_breakwave-weekend-rea
 
 ## Breakwave Shipping Report
 
-**VLCC Freight Market Stabilizes Amid Geopolitics and Tariff Uncertainty**– The VLCC market continues to be**highly susceptible**to external**shocks**arising from geopolitical risks, escalating marine insurance costs, and potential tariff threats.
+**VLCC Freight Market Stabilizes Amid Geopolitics and Tariff Uncertainty**– The VLCC market continues to be **highly susceptible** to external **shocks** arising from geopolitical risks, escalating marine insurance costs, and potential tariff threats.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2025157wreport114kio-j14)
 

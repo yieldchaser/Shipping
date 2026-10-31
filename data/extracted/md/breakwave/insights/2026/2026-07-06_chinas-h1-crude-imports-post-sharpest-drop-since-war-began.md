@@ -71,7 +71,7 @@ As of early July 2026, the Baltic Dirty Tanker Index had eased sharply to 1,850 
 
 ## Dirty VLCC
 
-**VLCC |****TD2**Middle East Gulf to Singapore |**TD3C**Middle East Gulf to China |**TD15**West African to China |**TD34**Gulf of Oman to China
+**VLCC |****TD2** Middle East Gulf to Singapore |**TD3C** Middle East Gulf to China |**TD15** West African to China |**TD34** Gulf of Oman to China
 
 ### Baltic Rates Comparison Timeseries
 

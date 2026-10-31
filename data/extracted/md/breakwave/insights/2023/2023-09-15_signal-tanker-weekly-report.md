@@ -50,32 +50,32 @@ Freight Market, Supply and Demand
 
 The crude oil freight market sentiment remains uncertain with no clear shift towards stability. It's unclear how the upcoming winter season will impact Asian energy demand dynamics.
 
-- **VLCC MEG-China**freight rates dropped below WS 37, the lowest since the beginning of the year. A similar weakness was observed in early September.
-- **Suezmax**freight rates for shipments from West Africa to continental Europe remain at WS70. Rates on the Suez-Baltic-Med route have remained flat, reflecting the sentiment of a month ago.
-- **Aframax**Med freight rates fell 11% in a week to below 90WS, while recent readings signalled a 42% year-over-year decline.
+- **VLCC MEG-China** freight rates dropped below WS 37, the lowest since the beginning of the year. A similar weakness was observed in early September.
+- **Suezmax** freight rates for shipments from West Africa to continental Europe remain at WS70. Rates on the Suez-Baltic-Med route have remained flat, reflecting the sentiment of a month ago.
+- **Aframax** Med freight rates fell 11% in a week to below 90WS, while recent readings signalled a 42% year-over-year decline.
 
 ![‘Product’ Wslr2 Firmer](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-15_signal-tanker-weekly-report_img_unnamed-2023-09-15t115758790_752ce6807aae.png)
 
 > **Figure 3: ‘Product’ Wslr2 Firmer**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-15_signal-tanker-weekly-report_img_unnamed-2023-09-15t115758790_752ce6807aae.png)
 
-- **LR2**AG freight rates peaked at 147.5 WS, up 7.5 points from the end of the previous week after holding steady for three weeks.
+- **LR2** AG freight rates peaked at 147.5 WS, up 7.5 points from the end of the previous week after holding steady for three weeks.
 
 ![Market Chart 4](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-15_signal-tanker-weekly-report_img_unnamed-2023-09-15t115852643_4c88f8d03db3.png)
 
 > **Figure 4: Market Chart 4**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-15_signal-tanker-weekly-report_img_unnamed-2023-09-15t115852643_4c88f8d03db3.png)
 
-- **Panamax**Carib-to-USG rates fell to 133 WS, down 66% from a year ago, with the downward trend continuing since the end of Week 27.
+- **Panamax** Carib-to-USG rates fell to 133 WS, down 66% from a year ago, with the downward trend continuing since the end of Week 27.
 
 ![‘Clean’mr1 Steady - MR2 Weaker](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-15_signal-tanker-weekly-report_img_unnamed-2023-09-15t120008350_20872f7e0c62.png)
 
 > **Figure 5: ‘Clean’mr1 Steady - MR2 Weaker**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-09-15_signal-tanker-weekly-report_img_unnamed-2023-09-15t120008350_20872f7e0c62.png)
 
-- **MR1**rates for the**Baltic**continent remained at the previous week's level of about WS 183, while the upward trend seems to be flattening.
+- **MR1** rates for the **Baltic** continent remained at the previous week's level of about WS 183, while the upward trend seems to be flattening.
 
-- **MR2**rates for shipments from the continent to the U.S. have firmed at WS180, but are still below late August highs (200 WS).
+- **MR2** rates for shipments from the continent to the U.S. have firmed at WS180, but are still below late August highs (200 WS).
 
 ## Section 2/ Supplysupply Trend Lines for Key Load Areas
 

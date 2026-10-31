@@ -48,7 +48,7 @@ In the latter half of September, both the C3 and C5 routes are consistently main
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 09 18 155518**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-09-18_indonesian-coal-flows-gradually-rebound_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_049e9526e4fc.png)
 
-Panamax - ECSA / Far East | USG / China**Softer**
+Panamax - ECSA / Far East | USG / China **Softer**
 
 Panamax spot rates have softened on the East Coast South America (ECSA) and US Gulf (USG) to Far East routes. Specifically, ECSA to Far East prices are down 3% week-on-week, though still up 7% month-on-month. The USG-China route saw a 4% weekly decline but remains 7% firmer than a month ago. Panamax ballasters heading to ECSA have remained low since mid-August, with daily loaded volumes slightly under 0.8M tonnes. This trend is evident when examining both the vessel count and the ECSA's daily loaded volume.
 

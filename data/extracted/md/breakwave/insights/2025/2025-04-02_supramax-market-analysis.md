@@ -63,10 +63,10 @@ In summary, the recent surge in the S8 rate underscores the sensitivity of the S
 
 ​​​​The freight market sentiment for large vessels was boosted at the end of March due to a combination of fewer ballasters and increased tonne-day demand growth.
 
-- **Capesize**vessel freight rates from Brazil to North China remained close to $23 per tonne, showing a 16% increase compared to last month, despite a slight decline.
-- **Panamax**from the Continent remained above $30 per tonne, showing an 11% increase compared to last month.
-- **Supramax**vessel freight rates on the Indo-ECI route experienced a 9% increase month-over-month, nearing $10 per tonne.
-- **Handysize**freight rates for the NOPAC Far East route have been over $30 per tonne since the end of February, and saw a 5% increase over the last month.
+- **Capesize** vessel freight rates from Brazil to North China remained close to $23 per tonne, showing a 16% increase compared to last month, despite a slight decline.
+- **Panamax** from the Continent remained above $30 per tonne, showing an 11% increase compared to last month.
+- **Supramax** vessel freight rates on the Indo-ECI route experienced a 9% increase month-over-month, nearing $10 per tonne.
+- **Handysize** freight rates for the NOPAC Far East route have been over $30 per tonne since the end of February, and saw a 5% increase over the last month.
 
 ![Στιγμιότυπο Οθόνης 2025 04 02 150958](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-04-02_supramax-market-analysis_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5332436ce856.png)
 

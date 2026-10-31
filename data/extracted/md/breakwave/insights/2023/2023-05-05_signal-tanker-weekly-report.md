@@ -46,9 +46,9 @@ Freight Market, Supply and Demand
 
 Crude oil freight rate sentiment weakened in early May, with the Aframax-Med route experiencing a slight upward correction over the past two weeks.
 
-- **VLCC**AG-FE freight rates were at WS54, down nearly 14 points from the recent peak two weeks ago.
-- **Suezmax**freight rates from West Africa to continental Europe fell to WS 89, almost 57 points lower than four weeks ago, with a trend of weakness emerging for the next few days.
-- **Aframax**Med freight rates remained above WS 155 with similar momentum over the last three weeks.
+- **VLCC** AG-FE freight rates were at WS54, down nearly 14 points from the recent peak two weeks ago.
+- **Suezmax** freight rates from West Africa to continental Europe fell to WS 89, almost 57 points lower than four weeks ago, with a trend of weakness emerging for the next few days.
+- **Aframax** Med freight rates remained above WS 155 with similar momentum over the last three weeks.
 
 ## ‘Product’ LR2 - LR1 -Steady
 
@@ -57,13 +57,13 @@ Crude oil freight rate sentiment weakened in early May, with the Aframax-Med rou
 > **Figure 3: Steady**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140159683_b8b458f4aa67.png)
 
-- **LR2**AG freight rates hovered around WS 160, 10 points higher than a week ago.
+- **LR2** AG freight rates hovered around WS 160, 10 points higher than a week ago.
 
-- **LR1**MEG -to-Japan freight rates recorded firm momentum, consistently hovering around WS 200 for the last three consecutive weeks.
+- **LR1** MEG -to-Japan freight rates recorded firm momentum, consistently hovering around WS 200 for the last three consecutive weeks.
 
 ## Product’ Panamax -Weaker
 
-- **Panamax**Carib-to-USG rates have weakened further since late April. Rates are now at WS 240, 39% below the recent peak in weeks 12 and 13.
+- **Panamax** Carib-to-USG rates have weakened further since late April. Rates are now at WS 240, 39% below the recent peak in weeks 12 and 13.
 
 ## ‘Clean’ MR2 - MR1 - Weaker
 
@@ -72,9 +72,9 @@ Crude oil freight rate sentiment weakened in early May, with the Aframax-Med rou
 > **Figure 4: Clean**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-05-05_signal-tanker-weekly-report_img_unnamed-2023-05-05t140250602_ec44b15dbcd3.png)
 
-- **MR1**rates Algeria-to-Med are now at WS150, almost 50% lower than mid-April, and Baltic-to-Cont MR1 rates are at ~ WS160, with stronger weakening dynamics since early April.
+- **MR1** rates Algeria-to-Med are now at WS150, almost 50% lower than mid-April, and Baltic-to-Cont MR1 rates are at ~ WS160, with stronger weakening dynamics since early April.
 
-- **MR2**rates Cont-to-US are now at WS170, indicating similar dynamics to late April and down nearly 50% from early April.
+- **MR2** rates Cont-to-US are now at WS170, indicating similar dynamics to late April and down nearly 50% from early April.
 
 ## Section 2/ Supply -(# Vessels)'dirty'supply Trend Lines for Key Load Areasvlcc Increasing | Aframax - Suezmaxdecreasing
 

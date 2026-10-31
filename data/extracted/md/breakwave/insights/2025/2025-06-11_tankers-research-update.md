@@ -50,7 +50,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-06-11_tankers-research-upda
 
 ### Japanese Refiner Taiyo Oil Takes Russian Crude First Time After Two Years
 
-- The*Voyager*, formerly known as the*Vernadsky Prospect*and once operated by sanctioned Russian state tanker giant Sovcomflot, is now listed under the management of Starfish Ship Management, a Dubai-based entity. The vessel loaded approximately 600,000 barrels of Sakhalin crude at the Prigorodnoye terminal on Sakhalin Island on May 25 and discharged at Kikuma, Japan, earlier this week.
+- The *Voyager*, formerly known as the *Vernadsky Prospect* and once operated by sanctioned Russian state tanker giant Sovcomflot, is now listed under the management of Starfish Ship Management, a Dubai-based entity. The vessel loaded approximately 600,000 barrels of Sakhalin crude at the Prigorodnoye terminal on Sakhalin Island on May 25 and discharged at Kikuma, Japan, earlier this week.
 - This marks Japan’s first import of Russian crude in over two years, reflecting Tokyo’s strategic prioritisation of energy security amid ongoing global market volatility. Japan continues to allow imports from the Sakhalin-2 project under a national security exemption, particularly given its longstanding investment and reliance on the project.
 - Waivers issued by both US and EU authorities for these shipments are currently valid through the end of June but are expected to be extended. A spokesperson for Taiyo Oil confirmed the transaction, noting the crude was procured at the request of Japan’s Ministry of Economy, Trade and Industry.
 - Before the invasion of Ukraine, Japan regularly imported around four cargoes per month from Sakhalin.

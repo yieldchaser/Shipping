@@ -46,7 +46,7 @@ Price cap compliant owners have generally been pushed out of the trade in Russia
 
 In contrast to India, China has been willing to find ways around sanctions as the main importer of Iranian barrels. Iranian crude oil exportsincreased by around half from 828k b/d in 2022 to 1.22m b/d in 2023 and have kept pace so far this year, with many sanctioned tankers trading well-beyond their typical retirement dates. A weakening economy and thin refining margins are likely to incentivise China’s private-sector refiners to replace more expensive grades with attractively priced Iranian oil.
 
-Lower oil prices could, however, give sanctions enforcers the opportunity to enforce existing sanctions more strictly and to find new ways of tackling the fleet carrying Iranian oil as high-profile accidentssuch as the*Pablo*and the*Ceres I*have highlighted the environmental and safety risks of these tankers. Tighter sanctions and greater difficulties involved in trading them should force some of the older ships out of the sanctioned fleet and limit the attractiveness of Iranian exports, necessitating replacement barrels on compliant tankers.
+Lower oil prices could, however, give sanctions enforcers the opportunity to enforce existing sanctions more strictly and to find new ways of tackling the fleet carrying Iranian oil as high-profile accidentssuch as the *Pablo* and the *Ceres I*have highlighted the environmental and safety risks of these tankers. Tighter sanctions and greater difficulties involved in trading them should force some of the older ships out of the sanctioned fleet and limit the attractiveness of Iranian exports, necessitating replacement barrels on compliant tankers.
 
 ---
 

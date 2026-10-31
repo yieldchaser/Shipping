@@ -26,7 +26,7 @@ As we conclude the workweek and head into the weekend, take a moment to review t
 
 ## Breakwave Tanker Report
 
-**VLCC Market Faces Mixed Signals: Rate Rebound Amid China's Shifting Crude Strategy and Weaker Demand**– The beginning of Bahri week brought**encouraging developments**for Very Large Crude Carrier (**VLCC**) owners, as rates improved in both East and West African markets.
+**VLCC Market Faces Mixed Signals: Rate Rebound Amid China's Shifting Crude Strategy and Weaker Demand**– The beginning of Bahri week brought **encouraging developments** for Very Large Crude Carrier (**VLCC**) owners, as rates improved in both East and West African markets.
 
 [Read More](https://www.breakwaveadvisors.com/insights/20241112dry-87w355-gtr32)
 

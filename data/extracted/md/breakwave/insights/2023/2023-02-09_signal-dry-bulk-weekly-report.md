@@ -47,10 +47,10 @@ Data Source: The Signal Ocean Platform, Dry Bulk Port Congestion, Baltic Sea
 
 Mixed signals for the second week of February, as there seems to be a slight upswing in the smaller ship size segments, while Capesize and Panamax segments continue to show a decline.
 
-- **Capesize**vessel freight rates fell to $16/tonne, down $1/tonne from the previous week and down $4.5/tonne from the last few days of December.
-- **Panamax**vessel freight rates fromtheContinent to the Far East fell to less than $34/tonne, down $5/tonne from the end of January, with the overall trend easing in February.
-- **Supramax**freight rates for the Indo-ECI route rose to levels above $10/tonne, and there are signs of further firming in February.
-- **Handysize**freight rates for the NOPAC route to the Far East rose to $30/tonne, while January's downward trend from the previous week continues to smooth out.
+- **Capesize** vessel freight rates fell to $16/tonne, down $1/tonne from the previous week and down $4.5/tonne from the last few days of December.
+- **Panamax** vessel freight rates fromtheContinent to the Far East fell to less than $34/tonne, down $5/tonne from the end of January, with the overall trend easing in February.
+- **Supramax** freight rates for the Indo-ECI route rose to levels above $10/tonne, and there are signs of further firming in February.
+- **Handysize** freight rates for the NOPAC route to the Far East rose to $30/tonne, while January's downward trend from the previous week continues to smooth out.
 
 ## Section 2/ Supply -Ballasters (# Vessels) Increasing
 
@@ -61,10 +61,10 @@ Mixed signals for the second week of February, as there seems to be a slight ups
 
 The number of ballast ships has continued to increase significantly since the end of the third week, while the Capesize, Panamax and Handysize segments have seen a surprising increase in the last two weeks.
 
-- **Capesize**SE Africa: The number of vessels now stands at 95, which is 17 more than the average for the year and 62% more than the lowest level in week 51.
-- **Panamax**SE Africa: The number of vessels is now 141, 90% higher than in week 50.
-- **Supramax**SE Asia: The number of vessels increased to 98, 6 more than the previous week and 20% above the year-end 2022 low.
-- **Handysize**NOPAC: The number of vessels reached a peak of 89, 20 above the annual average and the highest since the end of week 4.
+- **Capesize** SE Africa: The number of vessels now stands at 95, which is 17 more than the average for the year and 62% more than the lowest level in week 51.
+- **Panamax** SE Africa: The number of vessels is now 141, 90% higher than in week 50.
+- **Supramax** SE Asia: The number of vessels increased to 98, 6 more than the previous week and 20% above the year-end 2022 low.
+- **Handysize** NOPAC: The number of vessels reached a peak of 89, 20 above the annual average and the highest since the end of week 4.
 
 ## Section 3/ Demand -TonDays Decreasing
 
@@ -75,10 +75,10 @@ The number of ballast ships has continued to increase significantly since the en
 
 February saw a continuation of the significant decline in demand growth seen since the end of January, with only the Panamax segment recording a slight upward trend in two consecutive weeks.
 
-- **Capesize**demand ton-days: The downward trend observed in January now seems to have found a bottom and sustained the weakening growth for the first half of February.
-- **Panamax**demand ton-days: In January, the downward trend in the Panamax segment continued in January, while it gradually turned into an upward trend in February.
-- **Supramax**demand ton-days: Volatility remains and there are no clear signs yet of an upward or downward trend in the coming days.
-- **Handysize**demand ton-days: The decline continues, with a lower percentage increase than other vessel sizes.
+- **Capesize** demand ton-days: The downward trend observed in January now seems to have found a bottom and sustained the weakening growth for the first half of February.
+- **Panamax** demand ton-days: In January, the downward trend in the Panamax segment continued in January, while it gradually turned into an upward trend in February.
+- **Supramax** demand ton-days: Volatility remains and there are no clear signs yet of an upward or downward trend in the coming days.
+- **Handysize** demand ton-days: The decline continues, with a lower percentage increase than other vessel sizes.
 
 ## Section 4/ Port Congestion -No of Vesselsincreasing
 

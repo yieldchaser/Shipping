@@ -48,10 +48,10 @@ This dynamic interplay between vessel availability, congestion levels, and commo
 
 The dry bulk freight market showed mixed sentiment in the third week of October. A softening trend was confirmed on the Capesize Brazil–North China route, while early signs of an upward trend on the Panamax Continent–Far East route have now reversed, stabilising near last week's levels.
 
-- **Capesize**vessel freight rates for shipments from Brazil to North China settled at $25 per ton, reflecting a 7% decline week-over-week.
-- **Panamax**vessel freight rates from the Continent to the Far East remained steady at approximately $35 per ton, defying expectations of a downward trend in the first half of October. However, there was a slight monthly decline of 2%.
-- **Supramax**vessel freight rates on the Indo-ECI route remain around $11 per ton, reflecting a 3% increase compared to the previous month.
-- **Handysize**freight rates for the NOPAC Far East route have remained steady at $35 per ton since April, marking a 12% increase compared to the same period last year.
+- **Capesize** vessel freight rates for shipments from Brazil to North China settled at $25 per ton, reflecting a 7% decline week-over-week.
+- **Panamax** vessel freight rates from the Continent to the Far East remained steady at approximately $35 per ton, defying expectations of a downward trend in the first half of October. However, there was a slight monthly decline of 2%.
+- **Supramax** vessel freight rates on the Indo-ECI route remain around $11 per ton, reflecting a 3% increase compared to the previous month.
+- **Handysize** freight rates for the NOPAC Far East route have remained steady at $35 per ton since April, marking a 12% increase compared to the same period last year.
 
 ![Στιγμιότυπο Οθόνης 2024 10 17 103745](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-10-17_iron-ore-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e60938ecd9db.png)
 

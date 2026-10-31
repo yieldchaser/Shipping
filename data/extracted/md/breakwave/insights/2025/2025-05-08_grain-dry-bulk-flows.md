@@ -46,10 +46,10 @@ In summary, the current growth of exports to Mexico and the prominence of smalle
 
 Capesize freight market sentiment remains stable, supported by a slight decrease in the number of ballast vessels.
 
-- **Capesize**vessel freight rates from Brazil to North China continue hovering around $19 per tonne, showing a 10% decrease compared to last month.
-- **Panamax**from the Continent remained at nearly $31 per tonne, showing a similar trend to the previous month.
-- **Supramax**vessel freight rates for the Indonesia to East Coast India route remained stable at around $9.5 per tonne, representing a 45% rise over the quarter.
-- **Handysize**freight rates for the NOPAC Far East route slipped slightly below $28 per tonne, registering a 12% decline month-on-month.
+- **Capesize** vessel freight rates from Brazil to North China continue hovering around $19 per tonne, showing a 10% decrease compared to last month.
+- **Panamax** from the Continent remained at nearly $31 per tonne, showing a similar trend to the previous month.
+- **Supramax** vessel freight rates for the Indonesia to East Coast India route remained stable at around $9.5 per tonne, representing a 45% rise over the quarter.
+- **Handysize** freight rates for the NOPAC Far East route slipped slightly below $28 per tonne, registering a 12% decline month-on-month.
 
 ![Στιγμιότυπο Οθόνης 2025 05 08 093653](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-05-08_grain-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_812297bc1298.png)
 

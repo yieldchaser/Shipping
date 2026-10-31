@@ -38,10 +38,10 @@ In the grain segment, the first ship carrying grain left a Ukrainian port early 
 
 Bearish sentiment continued for Capesize and Supramax in early August, while Panamax freight rates trended firmer over the past two weeks.
 
-- **Capesize**Brazil-to-North China freight rates fell to $26.5/tonne, down $5.5/tonne from week 29, with the recession continuing in early August.
-- **Panamax**Continent-to-Far East freight rates held above $46/tonne, trending upward.
-- **Supramax**Indo-to-ECI freight rates fell to $22/tonne in early August, the lowest level since the end of Week 15.
-- **Handysize**NOPAC-to-Far East freight rates fell to $52/tonne, down 12 points from the week 21 peak.
+- **Capesize** Brazil-to-North China freight rates fell to $26.5/tonne, down $5.5/tonne from week 29, with the recession continuing in early August.
+- **Panamax** Continent-to-Far East freight rates held above $46/tonne, trending upward.
+- **Supramax** Indo-to-ECI freight rates fell to $22/tonne in early August, the lowest level since the end of Week 15.
+- **Handysize** NOPAC-to-Far East freight rates fell to $52/tonne, down 12 points from the week 21 peak.
 
 ## Section 2 - Supply - Ballasters View
 
@@ -54,10 +54,10 @@ Bearish sentiment continued for Capesize and Supramax in early August, while Pan
 
 Early August saw a significant increase in the number of Capesize vessels and a continued upward trend in Handysize vessels.
 
-- **Capesize**SE Africa: The number of vessels increased to 112, up 37% from week 29.
-- **Panamax**SE Africa: The number of vessels has fallen below the annual average since last week and now stands at 92 vessels, down 30 from week 27.
-- **Supramax**SE Asia: The number of vessels increased to 98 ships, 11 more than the previous week.
-- **Handysize**NOPAC: The number of vessels remained high (60) from the previous week, 16 more than the low of week 27.
+- **Capesize** SE Africa: The number of vessels increased to 112, up 37% from week 29.
+- **Panamax** SE Africa: The number of vessels has fallen below the annual average since last week and now stands at 92 vessels, down 30 from week 27.
+- **Supramax** SE Asia: The number of vessels increased to 98 ships, 11 more than the previous week.
+- **Handysize** NOPAC: The number of vessels remained high (60) from the previous week, 16 more than the low of week 27.
 
 ## Section 3 - Demand - In Ton Days
 
@@ -70,10 +70,10 @@ Early August saw a significant increase in the number of Capesize vessels and a 
 
 The downward trend has continued more strongly in the Capesize segment since the last days of July, while an upward trend has been seen in Panamax and Supramax.
 
-- **Capesize**demand ton-days: The percentage increase is now at its lowest level since the end of week 6 with a tendency for a further decline in the coming days.
-- **Panamax**demand ton-days: The potential upward trend that has been emerging since last week is confirmed by signs of further recovery in early August.
-- **Supramax**demand ton-days: Percentage growth held firmer than the low point in week 27.
-- **Handysize**demand ton-days: The downward trend continues over the last four weeks and is now approaching the weakest point for this year.
+- **Capesize** demand ton-days: The percentage increase is now at its lowest level since the end of week 6 with a tendency for a further decline in the coming days.
+- **Panamax** demand ton-days: The potential upward trend that has been emerging since last week is confirmed by signs of further recovery in early August.
+- **Supramax** demand ton-days: Percentage growth held firmer than the low point in week 27.
+- **Handysize** demand ton-days: The downward trend continues over the last four weeks and is now approaching the weakest point for this year.
 
 ## Section 4 - Chinese Port Congestions -
 

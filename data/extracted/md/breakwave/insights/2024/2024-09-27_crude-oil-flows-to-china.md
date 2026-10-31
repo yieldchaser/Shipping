@@ -39,7 +39,7 @@ Another crucial element to watch is the gradual absorption of vessel supply. In 
 
 As we move closer to the winter season, the interplay between these factors—seasonal demand, higher shipment volumes from the Arabian Gulf, and tightening vessel availability—will likely shape the trajectory of the VLCC market. Market participants should keep a close eye on how these dynamics evolve, as the potential for a firm freight market heading into the fourth quarter appears increasingly strong.
 
-Meanwhile in the[oil market](https://go.signalocean.com/e/983831/global-demand-woes-2024-09-26-/2ql98p/439223237/h/TohlXSIyAMVicA2RUIOSjsH8-xDk5glvmjcLjGDSBsE), oil prices tumbled by over 3% on Thursday following a media report suggesting that Saudi Arabia, the world's largest crude exporter, is preparing to abandon its price target in anticipation of boosting production. Additionally, OPEC+ appeared poised to raise output in December. Brent crude futures had dropped $2.26, or 3.1%, to $71.20 per barrel, while U.S. West Texas Intermediate crude fell by $2.31, or 3.3%, to $67.38 per barrel. According to a report from the Financial Times, citing sources familiar with the situation, Saudi Arabia is getting ready to move away from its informal target of $100 per barrel as it gears up for increased production.
+Meanwhile in the [oil market](https://go.signalocean.com/e/983831/global-demand-woes-2024-09-26-/2ql98p/439223237/h/TohlXSIyAMVicA2RUIOSjsH8-xDk5glvmjcLjGDSBsE), oil prices tumbled by over 3% on Thursday following a media report suggesting that Saudi Arabia, the world's largest crude exporter, is preparing to abandon its price target in anticipation of boosting production. Additionally, OPEC+ appeared poised to raise output in December. Brent crude futures had dropped $2.26, or 3.1%, to $71.20 per barrel, while U.S. West Texas Intermediate crude fell by $2.31, or 3.3%, to $67.38 per barrel. According to a report from the Financial Times, citing sources familiar with the situation, Saudi Arabia is getting ready to move away from its informal target of $100 per barrel as it gears up for increased production.
 
 ![Στιγμιότυπο Οθόνης 2024 09 27 122132](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b4b032c02110.png)
 
@@ -48,30 +48,30 @@ Meanwhile in the[oil market](https://go.signalocean.com/e/983831/global-demand-w
 
 ​​​​​Sentiment in the dirty freight market remained strong in the last days of September, with current levels fueling optimism for a stronger VLCC fourth quarter.
 
-- The**VLCC**MEG-China freight rates rose to 57 WS, a monthly increase of 10%, and up 12% compared to the same week last September.
-- Suezmax freight rates for shipments from**West Africa to continental Europe**remained steady at 76 WS, reflecting a 9% annual increase. On the Suezmax**Baltic-Mediterranean**route, rates held almost similar momentum of the previous week, reaching 85 WS, a 17% increase year-over-year.
-- Aframax**Mediterranean**freight rates despite the softening trend of this week held levels above WS100, reflecting a 10% decrease compared to the same week a month ago
+- The **VLCC** MEG-China freight rates rose to 57 WS, a monthly increase of 10%, and up 12% compared to the same week last September.
+- Suezmax freight rates for shipments from **West Africa to continental Europe** remained steady at 76 WS, reflecting a 9% annual increase. On the Suezmax **Baltic-Mediterranean** route, rates held almost similar momentum of the previous week, reaching 85 WS, a 17% increase year-over-year.
+- Aframax **Mediterranean** freight rates despite the softening trend of this week held levels above WS100, reflecting a 10% decrease compared to the same week a month ago
 
 ![Στιγμιότυπο Οθόνης 2024 09 27 122218](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e883aa2619d1.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2024 09 27 122218**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e883aa2619d1.png)
 
-- **LR2**AG freight rates are approximately WS145, marking a 12% increase from the previous week and a 16% rise compared to the same week last year.
+- **LR2** AG freight rates are approximately WS145, marking a 12% increase from the previous week and a 16% rise compared to the same week last year.
 
 ![Στιγμιότυπο Οθόνης 2024 09 27 122230](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e816ba02e198.png)
 
 > **Figure 4: Στιγμιότυπο Οθόνης 2024 09 27 122230**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e816ba02e198.png)
 
-- **Panamax**Carib-to-USG rates, which had previously maintained levels around WS148, have recently begun to decline, dropping below WS140. It remains uncertain whether this downward trend will persist into early October.
+- **Panamax** Carib-to-USG rates, which had previously maintained levels around WS148, have recently begun to decline, dropping below WS140. It remains uncertain whether this downward trend will persist into early October.
 
 ![Στιγμιότυπο Οθόνης 2024 09 27 122405](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_202e733cfd3c.png)
 
 > **Figure 5: Στιγμιότυπο Οθόνης 2024 09 27 122405**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_202e733cfd3c.png)
 
-- **MR1**rates for shipments from the Baltic to the continent began the week with firm momentum, approaching WS230. However, by the week's end, they had decreased to around WS210. Meanwhile,**MR2**rates for shipments from the Continent to the USAC fell WS105, indicating a 43% annual decrease. On the USG-Continent route,**MR2**rates fell to WS120, reflecting a 25% monthly decrease.
+- **MR1** rates for shipments from the Baltic to the continent began the week with firm momentum, approaching WS230. However, by the week's end, they had decreased to around WS210. Meanwhile,**MR2** rates for shipments from the Continent to the USAC fell WS105, indicating a 43% annual decrease. On the USG-Continent route,**MR2** rates fell to WS120, reflecting a 25% monthly decrease.
 
 ![Στιγμιότυπο Οθόνης 2024 09 27 122503](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_171f9466a1b0.png)
 
@@ -104,16 +104,16 @@ Meanwhile in the[oil market](https://go.signalocean.com/e/983831/global-demand-w
 > **Figure 9: Στιγμιότυπο Οθόνης 2024 09 27 122723**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1c41bd9d9c5f.png)
 
-- **Dirty**tonne days: The decrease in VLCC tonne-days growth has persisted through the first half of September extending the weakening trend for the second half of the month, and strengthening uncertainties about the recovery for dirty freight rates in the fourth quarter of the year with the winter season. Similarly, Suezmax tonne-days growth continued on a downward trajectory, whereas signs for a higher growth of tonne days emerged in the Aframax segment lately, but still recent estimates are below the annual trend.
+- **Dirty** tonne days: The decrease in VLCC tonne-days growth has persisted through the first half of September extending the weakening trend for the second half of the month, and strengthening uncertainties about the recovery for dirty freight rates in the fourth quarter of the year with the winter season. Similarly, Suezmax tonne-days growth continued on a downward trajectory, whereas signs for a higher growth of tonne days emerged in the Aframax segment lately, but still recent estimates are below the annual trend.
 
 ![Στιγμιότυπο Οθόνης 2024 09 27 122818](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_daf984c9a2f4.png)
 
 > **Figure 10: Στιγμιότυπο Οθόνης 2024 09 27 122818**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-09-27_crude-oil-flows-to-china_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_daf984c9a2f4.png)
 
-- **Panamax**tonne days: The growth rate has been revised slightly upward after experiencing a sharp decline in week 37.
+- **Panamax** tonne days: The growth rate has been revised slightly upward after experiencing a sharp decline in week 37.
 
-- **MR**tonne-days: The growth rate for both MR1 and MR2 vessel sizes has continued to decline, remaining below the annual average and at the lowest weekly percentage growth recorded this year.
+- **MR** tonne-days: The growth rate for both MR1 and MR2 vessel sizes has continued to decline, remaining below the annual average and at the lowest weekly percentage growth recorded this year.
 
 Data Source:[Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform)
 

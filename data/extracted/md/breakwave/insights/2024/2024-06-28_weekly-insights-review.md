@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2024/2024-06-28_weekly-insights-revie
 
 ## Breakwave Tanker Report
 
-**Volatility Declines as Spot Rates Remain Rangebound**– Not much has changed over the past fortnight, as Capesize spot rates hover in the mid/low-20,000s range and the**futures**curve remains relatively**flat to spot.**
+**Volatility Declines as Spot Rates Remain Rangebound**– Not much has changed over the past fortnight, as Capesize spot rates hover in the mid/low-20,000s range and the **futures** curve remains relatively **flat to spot.**
 
 ![Στιγμιότυπο Οθόνης 2024 06 25 122324](../../../../../../corpus/03-breakwave/insights/2024/assets/2024-06-28_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f0721b611ce5.png)
 

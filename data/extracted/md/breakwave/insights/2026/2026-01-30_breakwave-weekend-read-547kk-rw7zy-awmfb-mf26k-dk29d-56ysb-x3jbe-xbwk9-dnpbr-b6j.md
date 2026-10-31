@@ -153,7 +153,7 @@ Signal Ocean Dry Weekly Market Monitor
 
 Each Lunar New Year is characterized by one of 12 animals which appear in the Chinese zodiac.
 
-Feng Shui analysis for the**Year of the Horse**
+Feng Shui analysis for the **Year of the Horse**
 
 ## Asia Adjusts to Shifts in Heavy Crude Availability
 

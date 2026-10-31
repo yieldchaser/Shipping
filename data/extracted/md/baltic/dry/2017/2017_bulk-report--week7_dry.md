@@ -52,9 +52,9 @@ A 34,146-dwt 2011-built was rumoured to have booked a wheat cargo basis delivery
 
 A 33,000-tonner open US Gulf was fixed for a trip to the east Mediterranean in the low $9,000s.
 
-A 38,243-dwt that ballasted from Durban fixed an east coast South American coastal trade at about $8,000 daily. The *Strategic Equity*2014 39,521-dwt was reported covered at $7,750 aps Recalada for a trip to the Caribbean while a similar size vessel went to the Mediterranean at $8,250 daily. Also this week a 34,111-dwt concluded a trip delivery Rio Grande trip to West Africa at $7,750.
+A 38,243-dwt that ballasted from Durban fixed an east coast South American coastal trade at about $8,000 daily. The *Strategic Equity* 2014 39,521-dwt was reported covered at $7,750 aps Recalada for a trip to the Caribbean while a similar size vessel went to the Mediterranean at $8,250 daily. Also this week a 34,111-dwt concluded a trip delivery Rio Grande trip to West Africa at $7,750.
 
-The *Kotor*32.987-dwt was linked to a trip delivery Hong Kong to Persian Gulf at $7,250 per day.
+The *Kotor* 32.987-dwt was linked to a trip delivery Hong Kong to Persian Gulf at $7,250 per day.
 
 A 37,000-dwt was reported booked basis delivery Kosichang for a trip via Thailand redelivery China with tapioca in the mid $5,000s. A cargo of salt was concluded on a 34,000 tonner delivery Singapore via Australia to China at $5,850 daily while an inter Asia trip paid $5,000 with a 29,516-dwt vessel.
 

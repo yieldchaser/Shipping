@@ -32,7 +32,7 @@ In the North Sea, BP reportedly took *Mazyzonah* for a fuel oil run from Rotterd
 
 ### Suezmaxes
 
-In West Africa, healthy demand for 3rd decade loading saw rates to Europe for 130,000 tonnes nudge back up to WS 95, while Shell paid WS 97 for a replacement cargo on *Petalidi*on 19 July.
+In West Africa, healthy demand for 3rd decade loading saw rates to Europe for 130,000 tonnes nudge back up to WS 95, while Shell paid WS 97 for a replacement cargo on *Petalidi* on 19 July.
 
 In the Black Sea rates initially edged up modestly at the start of the week before easing back again. Chevtex took *Aegean Dignity* for 135,000 tonnes at WS 95, Gazprom paid WS 97.5 for *Yasa Polaris* and Transway subsequently took *Bermuda Spirit* at WS 99.5, both for 140,000 tonnes cargo, before Chevtex reportedly covered on *Afroditi* at a softer WS 92.5 basis 135,000 tonnes. There has also been long haul business from the Mediterranean with Unipec covering a Sidi Kerir/east run at $4 million, while an Algeria/Indonesia run went at $4.85 million. Clearlake fixed a 130,000 tonne fuel oil cargo from Cyprus to US Gulf at WS 70.
 

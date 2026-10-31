@@ -21,7 +21,7 @@ source_file: "corpus/03-breakwave/insights/2023/2023-10-25_signal-dry-bulk-weekl
 
 ## Chart of the Week : Dry Bulk Grain Flows From Brazil to China​​​​​
 
-*Monthly tonnes of grain from Brazil to China with Panamax vessel class surpassed volumes of the**previous years*
+*Monthly tonnes of grain from Brazil to China with Panamax vessel class surpassed volumes of the* *previous years*
 
 ![Market Chart 1](../../../../../../corpus/03-breakwave/insights/2023/assets/2023-10-25_signal-dry-bulk-weekly-report_img_unnamed-2023-10-25t135854159_c70997c2a0c2.png)
 

@@ -61,7 +61,7 @@ Ordering activities for coal loading in the largest exporting countries have bee
 
 Source: Shipfix
 
-As previously discussed in Shipfix's weekly blog,[India remains the key](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-4-india-key-to-changing-trade-patterns)to how the global seaborne coal trade develops in the coming weeks and months. Should India go ahead and buy discounted Russian coal, despite diplomatic pressures, much of the expected squeeze on global supplies may not materialise, as it could free up export capacity from both Australia and Indonesia. It would also increase the tonne-mile demand in the dry bulk sector. Given India’s current low inventories and rising risks of power cuts due to coal shortages, the proposition of cheap supplies from its longstanding ally may prove too tempting to ignore.
+As previously discussed in Shipfix's weekly blog,[India remains the key](https://blog.shipfix.com/market/shipfixs-weekly-market-blog-4-india-key-to-changing-trade-patterns) to how the global seaborne coal trade develops in the coming weeks and months. Should India go ahead and buy discounted Russian coal, despite diplomatic pressures, much of the expected squeeze on global supplies may not materialise, as it could free up export capacity from both Australia and Indonesia. It would also increase the tonne-mile demand in the dry bulk sector. Given India’s current low inventories and rising risks of power cuts due to coal shortages, the proposition of cheap supplies from its longstanding ally may prove too tempting to ignore.
 
 Data Source:[Shipfix](https://shipfix.com/)
 

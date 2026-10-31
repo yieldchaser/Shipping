@@ -43,12 +43,12 @@ Data Source: The Signal Ocean Platform, Demand Ton Charts, Capesize & Panamax
 
 The third week of December signaled an upswing in the large vessel categories, while slowing momentum in the supramax and handysize segments remained steady since late November.
 
-- **Capesize**vessel freight rates rose to $21/tonne, up $3/tonne from the week 47 level, while the last peak was $20/tonne 6 weeks ago.
+- **Capesize** vessel freight rates rose to $21/tonne, up $3/tonne from the week 47 level, while the last peak was $20/tonne 6 weeks ago.
 
-- **Panamax**vessel freight rates fromtheContinent to the Far East reached $39.5/tonne, up almost $2/tonne from the week 47 low.
-- **Supramax**freight rates for the Indo-ECI route fell to $9.6/tonne, down nearly $2/tonne from the week 48 level, with a steady downward correction for the entire month of December.
+- **Panamax** vessel freight rates fromtheContinent to the Far East reached $39.5/tonne, up almost $2/tonne from the week 47 low.
+- **Supramax** freight rates for the Indo-ECI route fell to $9.6/tonne, down nearly $2/tonne from the week 48 level, with a steady downward correction for the entire month of December.
 
-- **Handysize**freight rates for the NOPAC route to the Far East have now been below $31/ton for six consecutive weeks, and there are still no signs of an upturn.
+- **Handysize** freight rates for the NOPAC route to the Far East have now been below $31/ton for six consecutive weeks, and there are still no signs of an upturn.
 
 ## Section 2/ Supply -Ballasters (# Vessels) Increasing
 
@@ -59,12 +59,12 @@ The third week of December signaled an upswing in the large vessel categories, w
 
 There is an upward trend in all vessel size categories except Capesize, while the number of ballast vessels in the Handysize and Supramax size categories has been above the annual average for the past eight weeks.
 
-- **Capesize**SE Africa: The number of vessels now stands at 58, 22 fewer than two weeks ago and below the annual average for the past three weeks.
+- **Capesize** SE Africa: The number of vessels now stands at 58, 22 fewer than two weeks ago and below the annual average for the past three weeks.
 
-- **Panamax**SE Africa: The number of vessels is 86, 19 more than in week 47, with an increasing trend to be above the annual average in the remaining days of December.
-- **Supramax**SE Asia: The number of ships has fluctuated between and above 95 in the last five weeks, almost 10 more than the annual average.
+- **Panamax** SE Africa: The number of vessels is 86, 19 more than in week 47, with an increasing trend to be above the annual average in the remaining days of December.
+- **Supramax** SE Asia: The number of ships has fluctuated between and above 95 in the last five weeks, almost 10 more than the annual average.
 
-- **Handysize**NOPAC: The number of vessels rose sharply in the last two weeks to 90, nearly 13 more than the previous week, with signs of a further increase toward the end of December.
+- **Handysize** NOPAC: The number of vessels rose sharply in the last two weeks to 90, nearly 13 more than the previous week, with signs of a further increase toward the end of December.
 
 ## Section 3/ Demand -TonDays Increasing
 
@@ -75,13 +75,13 @@ There is an upward trend in all vessel size categories except Capesize, while th
 
 Capesize demand growth has accelerated significantly since the end of week 48, while Panamax demand has gradually increased.
 
-- **Capesize**demand ton-days: The upward trend of the last three weeks supported the rebound in freight rates in early December, which continued through the end of the month.
+- **Capesize** demand ton-days: The upward trend of the last three weeks supported the rebound in freight rates in early December, which continued through the end of the month.
 
-- **Panamax**demand ton-days: A slight upward trend was seen in the last two weeks, although it remains to be seen whether the upturn will be stronger in the remaining days of the year.
+- **Panamax** demand ton-days: A slight upward trend was seen in the last two weeks, although it remains to be seen whether the upturn will be stronger in the remaining days of the year.
 
-- **Supramax**demand ton-days: There are still signs of weakness and no pickup to fuel expectations for firmer freight rates.
+- **Supramax** demand ton-days: There are still signs of weakness and no pickup to fuel expectations for firmer freight rates.
 
-- **Handysize**demand ton-days: The decline has remained significant since the end of November, with a stronger downward revision for the whole of December.
+- **Handysize** demand ton-days: The decline has remained significant since the end of November, with a stronger downward revision for the whole of December.
 
 ## Section 4/ Port Congestion -No of Vesselsincreasing
 

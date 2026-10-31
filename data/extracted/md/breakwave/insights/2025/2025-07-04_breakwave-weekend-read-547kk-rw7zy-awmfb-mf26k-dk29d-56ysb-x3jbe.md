@@ -26,7 +26,7 @@ source_file: "corpus/03-breakwave/insights/2025/2025-07-04_breakwave-weekend-rea
 
 ## Breakwave Shipping Report
 
-**VLCC Rates Face Reality Amid De-escalation, Lack of Disruptions**– Following weeks of geopolitical tensions, the VLCC market is entering a**phase of normalization**after the landmark ceasefire agreement between Iran and Israel.
+**VLCC Rates Face Reality Amid De-escalation, Lack of Disruptions**– Following weeks of geopolitical tensions, the VLCC market is entering a**phase of normalization** after the landmark ceasefire agreement between Iran and Israel.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2025177wreport114kio)
 

@@ -33,7 +33,7 @@ Weekly composite index covering 20ft, 40ft and Hi Cube box rates by
 | Ningbo - East Mediterranean | 1584.01 | 1604.98 | -1.31 |
 | Ningbo - Middle East | 1541.62 | 1588.58 | -2.96 |
 
-The weekly***Ningbo Containerised Freight Index*** is compiled by the Ningbo Shipping Exchange and promoted by the Baltic Exchange.
+The weekly ***Ningbo Containerised Freight Index*** is compiled by the Ningbo Shipping Exchange and promoted by the Baltic Exchange.
 
 The index is reported every Friday (except Chinese holidays) at 1600 (Beijing).
 
@@ -44,7 +44,7 @@ The index is reported every Friday (except Chinese holidays) at 1600 (Beijing).
 | Ningbo - East Mediterranean | Piraeus & Istanbul |
 | Ningbo - Middle East | Dammam & Dubai |
 
-The ***Ningbo Containerised Freight Index***is based on transactional data submitted by:
+The ***Ningbo Containerised Freight Index*** is based on transactional data submitted by:
 
 - CCL Logistics Co
 - Headwin Logistics Co., Ltd

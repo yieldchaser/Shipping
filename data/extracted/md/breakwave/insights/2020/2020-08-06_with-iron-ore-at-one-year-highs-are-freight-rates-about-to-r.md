@@ -28,7 +28,7 @@ Dow Jones quoting Citi Research also agrees, and is out with similar comments ea
 
 *“Strengthening demand for iron ore should trump concerns around rising supply as the global economy recovers from the shock of the coronavirus pandemic. Data points suggest steel consumption in China is expanding, on an improvement in housing starts and swollen order books for infrastructure contractors. Also, Chinese steel mills operating Basic Oxygen Furnaces are making US$100/ton profit margins despite high iron-ore prices while scrap is relatively unattractive. On the supply side, Vale's iron-ore exports are likely to rise over the next two years, but are likely to be taken up by the recovery in steel production outside of China.”*
 
-Citi is not alone. Iron ore is supported by real buying activity, and as[Platts discusses further](https://www.spglobal.com/platts/en/market-insights/latest-news/metals/080620-capesize-rates-stage-v-shaped-recovery-on-china-iron-ore-demand-vessel-delays), demand for the material remains robust:
+Citi is not alone. Iron ore is supported by real buying activity, and as [Platts discusses further](https://www.spglobal.com/platts/en/market-insights/latest-news/metals/080620-capesize-rates-stage-v-shaped-recovery-on-china-iron-ore-demand-vessel-delays), demand for the material remains robust:
 
 *“China is buying all the iron ore that they can find, and supply of iron ore is tight," a ship chartering source with a miner said. "Also, the fact that they have turned a net importer of steel shows there is demand for steel within China," the source added.”*
 

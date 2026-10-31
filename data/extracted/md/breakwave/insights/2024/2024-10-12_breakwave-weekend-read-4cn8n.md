@@ -27,7 +27,7 @@ and more.
 
 ## Breakwave Tanker Report
 
-**VLCC Rates Jump Amid Geopolitical Turmoil but Demand Risks Remain**– The VLCC market in the Arabian Gulf (AG) experienced**two distinct halves**at the beginning of October.
+**VLCC Rates Jump Amid Geopolitical Turmoil but Demand Risks Remain**– The VLCC market in the Arabian Gulf (AG) experienced **two distinct halves** at the beginning of October.
 
 [Read More](https://www.breakwaveadvisors.com/insights/2024924wet-87578j-sbtjm)
 

@@ -47,12 +47,12 @@ Data Source: The Signal Ocean Platform, Grain Flows from Ukraine to all destinat
 
 We see an upward trend in freight rates for late November after a sustained decline throughout the month.
 
-- **Capesize**vessel freight rates rose to $20/tonne, up almost $1/tonne from a week ago and nearly the same level as earlier in the month.
+- **Capesize** vessel freight rates rose to $20/tonne, up almost $1/tonne from a week ago and nearly the same level as earlier in the month.
 
-- **Panamax**vessel freight rates fromtheContinent to the Far East reached $36/tonne, down nearly $9/tonne from the week 40 peak.
-- **Supramax**freight rates for the Indo-ECI route rose to $14/tonne, up $1/tonne from the previous week, and there appears to be a further upward trend for the next few days.
+- **Panamax** vessel freight rates fromtheContinent to the Far East reached $36/tonne, down nearly $9/tonne from the week 40 peak.
+- **Supramax** freight rates for the Indo-ECI route rose to $14/tonne, up $1/tonne from the previous week, and there appears to be a further upward trend for the next few days.
 
-- **Handysize**freight rates from NOPAC to the Far East continued to hover below $32/tonne, with no signs of a pickup yet.
+- **Handysize** freight rates from NOPAC to the Far East continued to hover below $32/tonne, with no signs of a pickup yet.
 
 ## Section 2/ Supply -Ballasters (# Vessels) Increasing
 
@@ -63,12 +63,12 @@ We see an upward trend in freight rates for late November after a sustained decl
 
 The Capesize, Panamax, and Supramax segments have seen an increase in the number of ballast ships, while Handysize has seen an unexpectedly significant decrease.
 
-- **Capesize**SE Africa: The number of vessels now stands at 91, 14 more than in week 45 and 11 above the annual average.
+- **Capesize** SE Africa: The number of vessels now stands at 91, 14 more than in week 45 and 11 above the annual average.
 
-- **Panamax**SE Africa: The number of vessels remains below the annual average, but with a slight increase to 67 vessels, 2 more than the previous week.
-- **Supramax**SE Asia: The number of ships increased to 102, almost 7 more than the previous week.
+- **Panamax** SE Africa: The number of vessels remains below the annual average, but with a slight increase to 67 vessels, 2 more than the previous week.
+- **Supramax** SE Asia: The number of ships increased to 102, almost 7 more than the previous week.
 
-- **Handysize**NOPAC: The number of vessels dropped to 62, almost 4 below the annual average. It remains to be seen if the downward trend will continue in December.
+- **Handysize** NOPAC: The number of vessels dropped to 62, almost 4 below the annual average. It remains to be seen if the downward trend will continue in December.
 
 ## Section 3/ Demand -TonDays Decreasing
 
@@ -79,12 +79,12 @@ The Capesize, Panamax, and Supramax segments have seen an increase in the number
 
 Demand growth in the Capesize segment continues to decline significantly, although there have been signs of an upturn in the Panamax segment over the past two weeks.
 
-- **Capesize**demand ton-days: The trend finally showed no signs of upward movement in November, and growth declined significantly at the end of the month.
-- **Panamax**demand ton-days: There is a clear upward trend with signs of further strong growth in the first days of December.
+- **Capesize** demand ton-days: The trend finally showed no signs of upward movement in November, and growth declined significantly at the end of the month.
+- **Panamax** demand ton-days: There is a clear upward trend with signs of further strong growth in the first days of December.
 
-- **Supramax**demand ton-days: The downward trend reversed before the end of November, with a slight upward movement.t.
+- **Supramax** demand ton-days: The downward trend reversed before the end of November, with a slight upward movement.t.
 
-- **Handysize**demand ton-days: The decline remains similar to the previous November days, with a stronger downward correction than the previous week.
+- **Handysize** demand ton-days: The decline remains similar to the previous November days, with a stronger downward correction than the previous week.
 
 ## Section 4/ Port Congestion -No of Vesselsincreasing
 

@@ -32,7 +32,7 @@ FBX continued to see a weakening of rates on services from Far East to both coas
 
 FBX rates to the Continent and Med from the Far East remained pretty steady all week, with just the Med slightly off.
 
-**FBX11**(China/East Asia – North Europe), finished the week at $2,971/FEU, up $5 on last week and**FBX13**(China/East Asia to Mediterranean) rates ended at $4,171/FEU down $189 on the end of last week.
+**FBX11**(China/East Asia – North Europe), finished the week at $2,971/FEU, up $5 on last week and **FBX13**(China/East Asia to Mediterranean) rates ended at $4,171/FEU down $189 on the end of last week.
 
 ---
 

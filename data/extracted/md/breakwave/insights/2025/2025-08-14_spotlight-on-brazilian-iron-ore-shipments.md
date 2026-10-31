@@ -43,14 +43,14 @@ On the demand side, a Reuters survey indicates that Chinese iron ore imports are
 > **Figure 2: Στιγμιότυπο Οθόνης 2025 08 14 140847**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/y-minor-bulk-radar-august-2025/2rbzh4/519675312/h/WYvhNiwfS1BJxa96Qpxkb7IWxV3FEYHAOHeY6b1De8I) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-14_spotlight-on-brazilian-iron-ore-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e92860c909f5.png)
 
-A new factor is also emerging in the trade flow: India has begun importing Brazilian iron ore. This diversification of end-market demand adds another layer of support to the already bullish Capesize freight sentiment, alongside the additional tonnage movements from projects such as Simandou’s new[bauxite](https://go.signalocean.com/e/983831/y-minor-bulk-radar-august-2025/2rbzh4/519675312/h/WYvhNiwfS1BJxa96Qpxkb7IWxV3FEYHAOHeY6b1De8I)activity.
+A new factor is also emerging in the trade flow: India has begun importing Brazilian iron ore. This diversification of end-market demand adds another layer of support to the already bullish Capesize freight sentiment, alongside the additional tonnage movements from projects such as Simandou’s new [bauxite](https://go.signalocean.com/e/983831/y-minor-bulk-radar-august-2025/2rbzh4/519675312/h/WYvhNiwfS1BJxa96Qpxkb7IWxV3FEYHAOHeY6b1De8I) activity.
 
 ![Στιγμιότυπο Οθόνης 2025 08 14 140948](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-14_spotlight-on-brazilian-iron-ore-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30a69827cc29.png)
 
 > **Figure 3: Στιγμιότυπο Οθόνης 2025 08 14 140948**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/y-minor-bulk-radar-august-2025/2rbzh4/519675312/h/WYvhNiwfS1BJxa96Qpxkb7IWxV3FEYHAOHeY6b1De8I) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-14_spotlight-on-brazilian-iron-ore-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30a69827cc29.png)
 
-Signs of an upward correction are primarily observed on the**C3**route. Rates are currently at $25/ton for Brazil–China and $10.6/ton for Australia–China. The oversupply issues in the South Atlantic have begun to alleviate, evidenced by a decrease of almost 15 ballasters, now totaling 255, while daily loaded volumes remain low at approximately 1.1 million tonnes.
+Signs of an upward correction are primarily observed on the **C3** route. Rates are currently at $25/ton for Brazil–China and $10.6/ton for Australia–China. The oversupply issues in the South Atlantic have begun to alleviate, evidenced by a decrease of almost 15 ballasters, now totaling 255, while daily loaded volumes remain low at approximately 1.1 million tonnes.
 
 ![Στιγμιότυπο Οθόνης 2025 08 14 141037](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-14_spotlight-on-brazilian-iron-ore-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_becb5e78f7f5.png)
 
@@ -59,7 +59,7 @@ Signs of an upward correction are primarily observed on the**C3**route. Rates ar
 
 ### Panamax - Ecsa / Far East | USG / China Weaker
 
-Mid-August has seen a continued decline in spot rates for**Panamax**vessels on routes from East Coast South America (ECSA) and the US Gulf (USG) to the Far East, with monthly drops of 11% and 8% respectively. This weak momentum is exacerbated by an increasing trend in ECSA Panamax ballasters, now numbering 260, approaching the early February high of 280. Despite the rise in ballasters, the ECSA daily loaded volume remains high, contributing to owners' resistance against a stronger freight market.
+Mid-August has seen a continued decline in spot rates for **Panamax** vessels on routes from East Coast South America (ECSA) and the US Gulf (USG) to the Far East, with monthly drops of 11% and 8% respectively. This weak momentum is exacerbated by an increasing trend in ECSA Panamax ballasters, now numbering 260, approaching the early February high of 280. Despite the rise in ballasters, the ECSA daily loaded volume remains high, contributing to owners' resistance against a stronger freight market.
 
 ![Στιγμιότυπο Οθόνης 2025 08 14 142527](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-14_spotlight-on-brazilian-iron-ore-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_de08eecf4f8b.png)
 
@@ -113,7 +113,7 @@ Mid-August has seen a continued decline in spot rates for**Panamax**vessels on r
 > **Figure 12: Στιγμιότυπο Οθόνης 2025 08 14 143201**  
 > **Interactive Data & Source:** [Signal Ocean Platform](https://go.signalocean.com/e/983831/y-minor-bulk-radar-august-2025/2rbzh4/519675312/h/WYvhNiwfS1BJxa96Qpxkb7IWxV3FEYHAOHeY6b1De8I) | [Local Asset](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-14_spotlight-on-brazilian-iron-ore-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d1e50e92b617.png)
 
-A notable decline has been observed in the tonne-days seasonal analysis for coal cargo, reaching the lowest levels in three years. This downward trend is anticipated to continue as China and India focus on boosting domestic production and reducing imports. Conversely, a significant upward trend has been recorded in minor bulk tonne-days growth, as highlighted in a previous weekly insight. This week, particular attention is drawn to the increase in chemical bulks tonne-days. Furthermore,[our latest minor radar commodities insights](https://go.signalocean.com/e/983831/y-minor-bulk-radar-august-2025/2rbzh4/519675312/h/WYvhNiwfS1BJxa96Qpxkb7IWxV3FEYHAOHeY6b1De8I)indicate a rise in fertilizer tonne-days destined for Brazil or India.
+A notable decline has been observed in the tonne-days seasonal analysis for coal cargo, reaching the lowest levels in three years. This downward trend is anticipated to continue as China and India focus on boosting domestic production and reducing imports. Conversely, a significant upward trend has been recorded in minor bulk tonne-days growth, as highlighted in a previous weekly insight. This week, particular attention is drawn to the increase in chemical bulks tonne-days. Furthermore,[our latest minor radar commodities insights](https://go.signalocean.com/e/983831/y-minor-bulk-radar-august-2025/2rbzh4/519675312/h/WYvhNiwfS1BJxa96Qpxkb7IWxV3FEYHAOHeY6b1De8I) indicate a rise in fertilizer tonne-days destined for Brazil or India.
 
 ![Στιγμιότυπο Οθόνης 2025 08 14 143249](../../../../../../corpus/03-breakwave/insights/2025/assets/2025-08-14_spotlight-on-brazilian-iron-ore-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_73ca7421c85d.png)
 
