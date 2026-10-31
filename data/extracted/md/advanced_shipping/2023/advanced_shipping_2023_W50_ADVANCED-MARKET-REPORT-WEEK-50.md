@@ -109,6 +109,13 @@ A generally quiet week for this segment. Continental trips into Mediterranean wi
 | Aframax | Aegean Power | 115.754 | 2007 | Samsung, Korea | 04/2027 | MAN-B&W | $ 42m | Undisclosed | BWTS fitted |
 | MR | Rundemanen | 34.614 | 2004 | Kitanihon, Japan | 04/2028 | Mitsubishi | Region $ 20m | Chinese | St St |
 
+### Containers
+
+| Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Panamax | Zhong Gu Fu Jian | 4.963 | 2010 | Daewoo- Mangalia, Romania | 02/2025 | MAN-B&W | - | $ 18m | Chinese |  |
+| Feeder | Hermann Schepers | 1.025 | 2003 | Daewoo- Mangalia, Romania | 02/2024 | MaK | - | $ 3,75m | Turkish | BWTS fitted, Ice Class 1A |
+
 ### Gas
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |

@@ -117,6 +117,12 @@ Trips from China into Southeast Asia were reported at the level of usd 10,000/12
 | Chemical/Oil Products | DS Cougar | 12.585 | 2009 | Shitanoe, Japan | 09/2024 | MAN- B&W | $ 13,5m | Undisclosed | St St |
 | Chemical/Oil Products | Mis 3 | 3.842 | 2005 | Miura, Japan | 04/2025 | Daihatsu | $ 3m | Korean |  |
 
+### Gas
+
+| Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LPG | Gas Aries | 53.688 | 2016 | Jiangnan, China | 03/2026 | MAN-B&W | 81.429 | Undisclosed | Chinese (COSCO Shipping) |  |
+
 ## Page 5
 
 ### Indicative Demolition Prices ($/ldt)

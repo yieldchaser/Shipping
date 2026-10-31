@@ -99,6 +99,12 @@ North Pacific rounds ranged at the usd 12,000/14,000 pd. West African trips into
 | Chemical/Oil Products | Maersk Bering | 29.057 | 2005 | Guangzhou, China | 08/2025 | MAN-B&W | High $ 15m | Chinese | BWTS fitted, Ice Class 1C |
 | Chemical/Oil Products | Valley Oak | 13.131 | 2008 | Sekwang, Korea | 06/2027 | MAN-B&W | $ 10,5m | Singaporean | BWTS fitted |
 
+### Containers
+
+| Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sub Panamax | Intersea Traveler | 2.702 | 2008 | HDW- Gaarden, Germany | 09/2028 | MAN-B&W | - | $ 22,5m | Chinese |  |
+
 ## Page 4
 
 ### Gas

@@ -118,6 +118,12 @@ No fixture reported for this segment. No period activity to report here.
 | Chemical/Oil Products | Super Eastern | 12.825 | 2009 | Stx Offshore, Korea | 09/2024 | MAN-B&W | $ 9m | Undisclosed | BWTS fitted |
 | Chemical/Oil Products | Super Forte | 12.814 | 2010 | Stx Offshore, Korea | 01/2025 | MAN-B&W | $ 9m | Undisclosed | BWTS fitted |
 
+### Gas
+
+| Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LNG | BW Everett | 77.410 | 2003 | Daewoo, Korea | 06/2028 | Kawasaki | 135.267 | $ 45,5m | Taiwanese (Eddie Steamship) | BWTS fitted |
+
 ### General Cargo
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |

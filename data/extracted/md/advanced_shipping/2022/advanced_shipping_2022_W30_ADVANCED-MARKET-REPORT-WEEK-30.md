@@ -134,6 +134,7 @@ A number of East Coast South American trips into Continent were reported fixed a
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | G. Symphony | 54.867 | 2011 | Mitsubishi, Japan | 11/2026 | Mitsubishi | 81.608 | $ 56m | UAE | BWTS fitted, Scrubber fitted |
 | LPG | Global Capricorn | 53.208 | 2005 | Daewoo, Korea | 01/2025 | Sulzer | 77.105 | $ 43,5m | Undisclosed | BWTS fitted |
+| LPG | Boomerang Gas | 7.200 | 2022 | Sasaki, Japan |  | MAN-B&W | 7.350 | $ 25,15m | Croatian (Jadroplov) | BWTS fitted, 3years TCB |
 
 ## Page 5
 

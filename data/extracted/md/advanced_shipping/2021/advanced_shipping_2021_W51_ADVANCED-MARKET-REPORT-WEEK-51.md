@@ -116,6 +116,12 @@ South American trips into Mediterranean were reported at the level of usd 34,000
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Feeder | Melbourne Strait | 1.794 | 2008 | Taizhou, China | 10/2023 | MAN-B&W | 2x40T | Region $ 27m | European |  |
 
+### General Cargo
+
+| Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| General Cargo | Splendor Taipei | 11.300 | 2007 | Nihin, Japan | 01/2022 | MAN-B&W | 1x70T Cr 2x35T Cr 1x30T Der | $ 7m | Korean | Basis SS/DD passed & BWTS fitted |
+
 ## Page 5
 
 ### Demolition Sales

@@ -122,6 +122,12 @@ A number of Continental trips into West Africa were reported at the level of usd
 | Post Panamax | Northern Jupiter | 8.814 | 2010 | Daewoo, Korea | 02/2025 | MAN-B&W | - | Low-Mid $ 130's m | Danish (Maersk) |  |
 | Panamax | Guenther Schulte | 3.534 | 2008 | Shanghai, China | 05/2023 | MAN-B&W | - | $ 55m | Middle Eastern |  |
 
+### Gas
+
+| Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LPG | Eco Nebula | 29.536 | 2007 | Daewoo, Korea | 07/2022 | MAN-B&W | 38.197 | Mid-High $ 27m | Turkish (Manta Denizcilik) |  |
+
 ## Page 5
 
 ### Indicative Demolition Prices ($/ldt)

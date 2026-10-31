@@ -102,6 +102,8 @@ Arabian Gulf trips into East Coast India were reported at the level of usd 12,00
 | Panamax | Ice Energy | 70.377 | 2006 | Onomichi, Japan | 06/2029 | B&W | Region $24m |  | Ice Class 1A |
 | Panamax | Ice Victory | 70.372 | 2006 | Onomichi, Japan | 04/2026 | MAN-B&W | Region $24m | Middle Eastern | Ice Class 1A |
 | Panamax | Ice Fighter | 70.347 | 2006 | Onomichi, Japan | 09/2026 | MAN-B&W | Region $24m |  | Ice Class 1A |
+| Type | Name | Teu Y | YoB | Yard SS | M/ | /E Gea | ar Price |  | Comments |
+| Post Panamax | Brussels | 6.078 2 | 000 H | Hanjin, Korea 05/202 | 25 Sulz | er - | Region $ 26m | Chinese (Zhoushan Baozhou) | On T/C till Feb-Apr'25, Ice Class II |
 
 ### Containers
 

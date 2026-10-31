@@ -115,6 +115,12 @@ A number of trips from North China into South China with steels were fixed aroun
 | Post Panamax | Joseph Schulte | 9.403 | 2013 | Shanghai, China | 11/2023 | MAN-B&W | - | $ 55m | Swiss based (MSC) | BWTS fitted |
 | Feeder | Hamburg Trader | 1.118 | 2005 | Jinling, China | 11/2025 | MAN | 2x45T | Region $ 6m | Undisclosed | Ice Class II |
 
+### Gas
+
+| Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LPG | Saltram | 54.627 | 2015 | Hyundai, Korea | 07/2025 | MAN-B&W | 82.441 | $ 73,5m | Greek (Naftomar Shipping) | Dely Q1 2024 |
+
 ## Page 5
 
 ### Demolition Sales

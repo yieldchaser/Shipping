@@ -121,6 +121,12 @@ Trips from China into Continent were reported at the level of usd 14,000/15,000 
 | Feeder | Honrise | 1.675 | 2001 | Shin Kurushima, Japan | 07/2026 | B&W | - | $ 13m | Undisclosed |  |
 | Feeder | Easline Dalian | 1.675 | 1998 | Kanasashi, Japan | 10/2028 | Mitsubishi | - | $ 10m | Undisclosed |  |
 
+### Gas
+
+| Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LPG | Feng Yi 6 | 5.184 | 2024 | Taizhou, China | 10/2029 | Yanmar | 5.398 | Rgn $ 17m | UAE (Peninsula Energy FZE) | Ice Class II |
+
 ## Page 5
 
 ### Tankers

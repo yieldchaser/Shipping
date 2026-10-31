@@ -812,6 +812,28 @@
       "COMMENTS": "BWTS fitted",
       "source_file": "advanced_shipping_2022_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf",
       "extra_json": "{\"issue_date\": \"2022-07-29\", \"report_week\": \"30\", \"source_file\": \"advanced_shipping_2022_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf\", \"raw_price\": \"$ 43,5m\"}"
+    },
+    {
+      "issue": "2022-07-29",
+      "report_week": "30",
+      "section": "Gas",
+      "page": "4",
+      "NAME": "Boomerang Gas",
+      "TYPE": "LPG",
+      "DWT": "7,200",
+      "TEU": null,
+      "CBM": 7350.0,
+      "BUILT": "2022",
+      "YARD": "Sasaki, Japan",
+      "M_E": "MAN-B&W",
+      "GEAR": "",
+      "PRICE": "$ 25,15m",
+      "PRICE_USD_MILL": 25.15,
+      "BUYERS": "Croatian (Jadroplov)",
+      "SS": "",
+      "COMMENTS": "BWTS fitted, 3years TCB",
+      "source_file": "advanced_shipping_2022_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf",
+      "extra_json": "{\"issue_date\": \"2022-07-29\", \"report_week\": \"30\", \"source_file\": \"advanced_shipping_2022_W30_ADVANCED-MARKET-REPORT-WEEK-30.pdf\", \"raw_price\": \"$ 25,15m\"}"
     }
   ],
   "newbuilding": [

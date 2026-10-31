@@ -99,6 +99,12 @@ Trips from Japan into West Coast South America were fixed around usd 7,000/8,000
 | Aframax | Amax Avenue | 115.785 | 2010 | Samsung, Korea | 06/2025 | MAN-B&W | $ 39,5m | Undisclosed |  |
 | Chemical/Oil Products | Woolim 3 | 11.460 | 2018 | Stx, Korea | 10/2028 | MAN-B&W | $ 24m | Undisclosed |  |
 
+### Gas
+
+| Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LNG | Alto Acrux | 80.229 | 2008 | Mitsubishi, Japan | 03/2028 | Mitsubishi | 146.024 | $ 42,3m | Turkish (Karadeniz Holding) |  |
+
 ## Page 4
 
 ### Bulk Carriers

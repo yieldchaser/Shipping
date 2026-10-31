@@ -149,8 +149,8 @@ A generally quiet week for this segment. US Gulf trips into East Coast Mexico wi
 | 2+2 | 5.300 | Zhoushan Changhong, China | 2024 | $ 62,5m | Greek (Navios) |  |
 | 10 | 2.000 | Hyundai Mipo, Korea | 2023/2024 | $ 62,8m | French (CMA CGM) | LNG dual fuelled, Ice Class 1A |
 | 2 | 1.900 | Yangfan, China | 2023 | $ 28,2m | Chinese (Shanghai Jinjiang) | Options declared |
-| 8 | 1.170 | New Dayang, China | 2023/2024 | Undisclosed | Singaporean | Methanol dual |
-| 8 | 1.170 | Ningbo Xinle, China | 2023/2024 | Undisclosed | g p (X-Press Feeders) | fuelled |
+| 8 | 1.170 | New Dayang, China | 2023/2024 | Undisclosed | Singaporean (X-Press Feeders) | Methanol dual fuelled |
+| 8 | 1.170 | Ningbo Xinle, China | 2023/2024 | Undisclosed | Singaporean (X-Press Feeders) | Methanol dual fuelled |
 
 ### Gas
 

@@ -131,6 +131,12 @@ Trips from China into Australia were reported at the level of usd 9,000/11,000 p
 | Feeder | Ela | 1.740 | 2012 | Guangzhou, China | 04/2027 | MAN-B&W | 2x40T | $ 45m enbloc | Greek (Erasmus) | Ice Class II |
 | Feeder | Panda Vega | 1.060 | 2006 | Hakata, Japan | 02/2026 | MAN-B&W | - | $ 9,9m | HK based (Kawa Shipping) |  |
 
+### Gas
+
+| Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LPG | Gas Cerberus | 5.002 | 2011 | Kanrei Naruto, Japan | 04/2026 | MAN-B&W | 4.918 | $ 12,5m | Undisclosed |  |
+
 ## Page 5
 
 ### Bulk Carriers

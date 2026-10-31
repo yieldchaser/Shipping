@@ -105,6 +105,8 @@ US Gulf trips into West Coast Central America were fixed around usd 12,000/14,00
 | MR | Tamiat Navigator | 46.625 | 2010 | Hyundai Mipo, Korea | 08/2025 | MAN-B&W | Region $ 18m | Undisclosed |  |
 | MR | MD Miranda | 46.408 | 1999 | Daedong, Korea | 10/2029 | B&W | $ 8,3m | Undisclosed |  |
 | MR | Golden Daisy | 34.810 | 2021 | Fujian Mawei, China | 12/2026 | WinGD | $ 32,93m | HK based (SeaKapital) | Shallow draft |
+| Type | Name | Teu Y | YoB | Yard SS | M/E | E Gear | r Price |  | Comments |
+| Feeder | Contship Win | 1.118 2 | 2008 | Qingshan, China 01/2028 | 8 MAN | N - | $ 8,5m | Undisclosed | DD 10/2025 |
 
 ### Containers
 
@@ -125,6 +127,12 @@ US Gulf trips into West Coast Central America were fixed around usd 12,000/14,00
 | Units | Dwt | Yard | Delivery | Price | Owner | Comments |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2 | 320.000 | Hanwha Ocean, Korea | 2027 | $ 127m | Turkish (Advantage Tankers) | LNG ready |
+
+### Containers
+
+| Units | Teu | Yard | Delivery | Price | Owner | Comments |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4 | 16.000 | Samsung, Korea | 2027/2028 | Undisclosed | Taiwanese (Wan Hai Lines) | Methanol ready |
 
 ### Gas
 

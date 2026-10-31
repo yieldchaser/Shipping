@@ -107,6 +107,12 @@ A number of trips from Japan into South East Asia were fixed around usd 2,000/3,
 
 ## Page 4
 
+### Containers
+
+| Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Feeder | Asian Ace | 1.740 | 2005 | Guangzhou, China | 05/2025 | MAN-B&W | 2x45T | $ 9,5m | Greek (Erasmus Corp) | Ice Class 1C |
+
 ### Gas
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |

@@ -161,8 +161,8 @@ A number of Continental trips into West Africa were reported at the level of usd
 
 | Units | Teu | Yard | Delivery | Price | Owner | Comments |
 | --- | --- | --- | --- | --- | --- | --- |
-| 5 | 13.700 | Hyundai, Korea | 2025 | Undisclosed | Singaporean (ONE) | Scrubber fitted, Ammonia & |
-| 5 | 13.700 | Nihon, Korea | 2025 | Undisclosed | Singaporean (ONE) | Ammonia & Methanol ready |
+| 5 | 13.700 | Hyundai, Korea | 2025 | Undisclosed | Singaporean (ONE) | Scrubber fitted, Ammonia & Methanol ready |
+| 5 | 13.700 | Nihon, Korea | 2025 | Undisclosed | Singaporean (ONE) | Scrubber fitted, Ammonia & Methanol ready |
 | 4 | 1.800 | Hyundai Mipo, Korea | 2024 | $ 32,2m | Korean (Pan Ocean) |  |
 
 ## Page 7

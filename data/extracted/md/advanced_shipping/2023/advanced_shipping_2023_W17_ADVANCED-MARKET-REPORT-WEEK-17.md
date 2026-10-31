@@ -127,6 +127,12 @@ No fixture reported for this segment. No period activity to report here.
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Feeder | ASL Peony | 1.911 | 2023 | Guangzhou, China | 02/2028 | MAN- B&W | - | Undisclosed | Thai (RCL) | Scrubber fitted |
 
+### Gas
+
+| Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LPG | Navigator Orion | 23.495 | 2000 | Jiangnan, China | 04/2025 | Sulzer | 21.650 | Low $ 20m | German (Chemikalien Seetransport) |  |
+
 ## Page 5
 
 ### Demolition Sales

@@ -154,6 +154,14 @@ A generally quiet week for this segment. Mediterranean trips into East Coast Sou
 | Panamax | ALS Ceres | 4.380 | 2010 | Daewoo, Korea | 04/2025 | MAN-B&W | - | Undisclosed | Israeli (Zim) |  |
 | Sub Panamax | AS Patricia | 2.496 | 2006 | Crist SP Z PP, Poland | 09/2026 | MAN-B&W | 3x45T | $ 34,3m | Danish (Maersk) |  |
 
+### Gas
+
+| Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LPG | Captain Nicholas ML | 58.690 | 2008 | Hyundai, Korea | 07/2023 | MAN-B&W | 80.595 | $ 47m | Indian (Sakura Energy) | BWTS fitted |
+| LPG | Thetis Glory | 54.789 | 2008 | Daewoo, Korea | 04/2023 | MAN-B&W | 82.026 | $ 47,5m | Indonesian (PT Arcadia Shipping) |  |
+| LPG | Epic St. George | 5.350 | 2007 | Shitanoe, Japan | 05/2022 | Mitsubishi | 4.919 | $ 10,6m | Vietnamese (Blue Energy) |  |
+
 ## Page 6
 
 ### Demolition Sales

@@ -93,6 +93,12 @@ A generally quiet week for this segment. A number of trips from US Gulf into UK-
 | Handysize | Global Serenity | 32.313 | 2008 | Kanda, Japan | 11/2026 | Mitsubishi | 4x30,5T | $ 12,1m | Undisclosed | OHBS, BWTS fitted |
 | Handysize | Boshi 56 | 28.520 | 2000 | Imabari, Japan | 03/2025 | B&W | 4x30,5T | High $ 5m | Undisclosed | BWTS fitted |
 
+### Tankers
+
+| Type | Name | Dwt | YoB | Yard | SS | M/E | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Aframax | Aurviken | 112.802 | 2019 | Samsung, Korea | 10/2024 | MAN-B&W | $ 73m | Greek | Auction sale, BWTS fitted, Scrubber fitted |
+
 ### Containers
 
 | Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |

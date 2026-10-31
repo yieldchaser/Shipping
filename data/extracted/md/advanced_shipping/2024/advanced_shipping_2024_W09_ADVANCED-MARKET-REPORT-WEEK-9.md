@@ -99,6 +99,12 @@ Australian trips into China were fixed around usd 15,000 pd. Trips from Black Se
 
 ## Page 4
 
+### Containers
+
+| Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Panamax | ALS Clivia | 4.400 | 2010 | Hyundai Samho, Korea | 03/2025 | Wartsila | - | Low-Mid $ 20m | Italian (Ignazio Messina) |  |
+
 ### Gas
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |

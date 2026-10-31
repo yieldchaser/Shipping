@@ -99,6 +99,7 @@ Trips from China via Indonesia into Continent were reported at the level of usd 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Sub Panamax | Najade | 2.702 | 2007 | Nordseewerke, Germany | 03/2027 | MAN-B&W | - | Region $ 20m | German | BWTS fitted, Ice Class II, Dely Q1 2025 |
 | Feeder | Green Ace | 1.740 | 2005 | Guangzhou, China | 09/2025 | MAN-B&W | 2x45T | $ 11,5m | Undisclosed | BWTS fitted, Ice Class 1C |
+| Type | Name |  |  |  | SS | M/E | Cbm | Price |  |  |
 
 ### Gas
 

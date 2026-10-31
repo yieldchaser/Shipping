@@ -121,6 +121,13 @@ A number of trips from Black Sea into China with soda ash were reported at the l
 | Feeder | Robert Rickmers | 1.730 | 2003 | Szczecinska, Poland | 06/2023 | Sulzer | 3x40T | $ 20m | Swiss (MSC) |  |
 | Feeder | AS Riccarda | 1.496 | 2012 | Zhejiang, China | 02/2022 | MAN | - | $ 24m | Swiss (MSC) |  |
 
+### Gas
+
+| Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LPG | Kentmere | 9.197 | 2007 | Asakawa, Japan | 10/2022 | MAN-B&W | 8.554 | Region $ 11m | Canada based (Transgas) |  |
+| LPG | Epic Barbados | 6.618 | 2001 | Murakami, Japan | 12/2021 | B&W | 7.076 | Undisclosed | Bagnladeshi (Bashundhara LP Gas) |  |
+
 ## Page 5
 
 ### Demolition Sales

@@ -106,6 +106,12 @@ A Handysize was fixed for a trip from South Africa for inter South African busin
 
 ## Page 4
 
+### Containers
+
+| Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Feeder | Nickie B | 1.368 | 2011 | Avic, China | 07/2026 | MAN-B&W | 2x40T | Undisclosed | German (Hermann Lohmann) | Incl. T/C |
+
 ### Gas
 
 | Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |

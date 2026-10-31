@@ -117,6 +117,12 @@ A generally quiet week for this segment. Trips from Southeast Asia for 2 laden l
 | Chemical/Oil Products | Sto Camellia | 11.679 | 2000 | Higaki, Japan | 09/2025 | Mitsubishi | $ 5,6m | Indonesian | St St, BWTS fitted |
 | Chemical/Oil Products | Chem Luck | 11.564 | 1997 | Fukuoka, Japan | 12/2022 | B&W | $ 3,3m | Chinese | St St, online auction |
 
+### Gas
+
+| Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LPG | Promise | 54.633 | 2009 | Daewoo, Korea | 01/2024 | MAN-B&W | 82.423 | $ 40,8m | Undisclosed | Incl. T/C attached at 30.000 usd/pd |
+
 ## Page 5
 
 ### Demolition Sales

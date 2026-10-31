@@ -176,6 +176,7 @@ No fixture reported for this segment. No period activity to report here.
 | Units | Teu | Yard | Delivery | Price | Owner | Comments |
 | --- | --- | --- | --- | --- | --- | --- |
 | 4 | 15.000 | Yangzijiang, China | 2023/2024 | Undisclosed | Greek (Costamare) | Options exercised, against long term T/C |
+| 4 | 13.000 | Yangzijiang, China | 2023/2024 | Undisclosed | Greek (Costamare) | 2 new orders + 2 options exercised, against long term T/C |
 
 ### Gas
 

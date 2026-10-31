@@ -114,6 +114,12 @@ Trips from Japan into West Coast South America were fixed around usd 12,000/13,0
 | Post Panamax | Marcos V | 6.350 | 2005 | Koyo, Japan | 10/2025 | MAN-B&W | - | $ 50m | Undisclosed |  |
 | Feeder | H Mercury | 1.781 | 2022 | Jiangsu, China | 04/2027 | MAN-B&W | - | $ 34,5m | Undisclosed |  |
 
+### Gas
+
+| Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LPG | Forbin | 5.072 | 2011 | Kanrei Naruto, Japan | 01/2026 | MAN-B&W | 4.915 | $ 11m | Greek |  |
+
 ## Page 5
 
 ### Tankers

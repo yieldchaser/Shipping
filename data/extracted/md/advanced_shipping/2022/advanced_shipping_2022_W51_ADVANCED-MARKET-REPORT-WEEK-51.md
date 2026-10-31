@@ -118,6 +118,7 @@ A number of trips from China into East Coast India were reported at the level of
 
 | Type | Vessel | Dwt | YoB | Ldt | Price $/ldt | Country | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulker | Paschalis D | 170.188 | 2002 | 22.908 | 525 | Undisclosed | "As Is" Singapore, Incl. bunkers for delivery voyage to Indian subcontinent |
 | Fishing | Hai Feng 698 | 11.871 | 1984 | 7.262 | 435 | Bangladesh |  |
 | Container | Venus C | 14.867 | 1989 | 4.394 | 525 | India | "As Is" Singapore, Incl. 150T bunkers ROB |
 

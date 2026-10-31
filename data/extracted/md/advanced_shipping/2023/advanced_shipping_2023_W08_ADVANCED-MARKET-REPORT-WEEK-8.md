@@ -150,6 +150,7 @@ A number of Australian trips into Japan were reported at the level of usd 13,000
 
 | Type | Vessel | Dwt | YoB | Ldt | Price $/ldt | Country | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Gas | Seapeak Arctic | 48.857 | 1993 | 23.667 | 643 | Bangladesh | "As Is" Malaysia, 3.678MT aluminium content, HKC recycling |
 | Container | MSC Giovanna | 25.904 | 1987 | 11.197 | 500 | India | HKC recycling |
 | Bulker | Vadi | 64.214 | 1994 | 10.247 | 575 | Bangladesh | Incl. 300MT bunkers and spare propeller |
 | Tanker | Da Qing 439 | 37.603 | 1999 | 9.828 | 500 | Undisclosed | "As Is" China |

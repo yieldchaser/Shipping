@@ -108,6 +108,12 @@ A number of trips from Japan into South East Asia were fixed around usd 10,000/1
 | MR | Nord Supreme | 49.552 | 2015 | Stx, Korea | 02/2025 | MAN-B&W | $ 39m | Greek | BWTS fitted |
 | MR | Tradewind Energy | 47.128 | 2009 | Hyundai Mipo, Korea | 02/2024 | MAN-B&W | $ 24,1m | Undisclosed | BWTS fitted |
 
+### Containers
+
+| Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sub Panamax | Leo Perdana | 2.553 | 2007 | Naikai, Japan | 08/2025 | MAN-B&W | - | $ 11m | UAE (Simatech Shipping) |  |
+
 ## Page 5
 
 ### Demolition Sales

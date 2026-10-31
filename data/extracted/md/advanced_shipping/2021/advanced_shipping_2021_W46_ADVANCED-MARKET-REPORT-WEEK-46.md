@@ -126,6 +126,7 @@ South East Asian trips into India were reported at the level of usd 24,000 pd. W
 
 | Type | Vessel | Dwt | YoB | Ldt | Price $/ldt | Country | Comments |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bulker | Berge Kangchenjunga | 263.237 | 1994 | 33.703 | 630 | Undisclosed | "As Is" Singapore, Incl. bunkers for voyage to recycling location |
 | Tanker | Yuhua Star | 16.026 | 1997 | 4.603 | 1040 | India | "As Is" UAE, St St |
 
 ### Indicative Demolition Prices ($/ldt)

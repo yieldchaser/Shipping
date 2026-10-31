@@ -123,6 +123,12 @@ A number of Inter-Mediterranean trips via Black Sea were reported at the level o
 | Panamax | CO Nagoya | 4.506 | 2008 | Samsung, Korea | 05/2026 | MAN- B&W | - | Undisclosed | Swiss based (MSC) |  |
 | Feeder | Neuburg | 1.740 | 2010 | Guangzhou, China | 03/2025 | MAN- B&W | 2x45T | $ 14m | Undisclosed | BWTS fitted |
 
+### Gas
+
+| Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LNG | LNG Alliance | 74.300 | 2007 | Atlantique, France | 03/2027 | Wartsila | 151.383 | $ 68m | Korean (Sinokor) | Incl. T/C to Total for 15 months |
+
 ## Page 5
 
 ### Demolition Sales

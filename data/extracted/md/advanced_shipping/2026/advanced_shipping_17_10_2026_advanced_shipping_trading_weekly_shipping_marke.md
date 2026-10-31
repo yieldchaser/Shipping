@@ -126,18 +126,18 @@ In the Pacific, regional departures from North China to South East Asia fixed at
 
 ### Bulk Carriers
 
-| Units | Dwt | Yard | Delivery | Price | Owner |
-| --- | --- | --- | --- | --- | --- |
-| 4+2 | 82.000 | Jiangsu Watts Energy, China | 2029/2030 | Undisclosed | Chinese (Yangzijiang Maritime) |
-| 1 | 82.000 | Hengli, China | 2029 | $ 37m | Greek (EuroDry) |
+| Units | Dwt | Yard | Delivery | Price | Owner | Comments |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4+2 | 82.000 | Jiangsu Watts Energy, China | 2029/2030 | Undisclosed | Chinese (Yangzijiang Maritime) |  |
+| 1 | 82.000 | Hengli, China | 2029 | $ 37m | Greek (EuroDry) |  |
 
 ### Tankers
 
-| Units | Dwt | Yard | Delivery | Price | Owner |
-| --- | --- | --- | --- | --- | --- |
-| 3 | 157.000 | Jiangsu New Hantong, China | 2030 | Undisclosed | Greek (Liquimar Tankers) |
-| 6 | 74.000 | Jiangsu New Hantong, China | 2029/2030 | Undisclosed | UAE (Emarat Maritime) |
-| 4 | 50.000 | GSI, China | 2029/2030 | Undisclosed | Greek (Top Ships) |
+| Units | Dwt | Yard | Delivery | Price | Owner | Comments |
+| --- | --- | --- | --- | --- | --- | --- |
+| 3 | 157.000 | Jiangsu New Hantong, China | 2030 | Undisclosed | Greek (Liquimar Tankers) |  |
+| 6 | 74.000 | Jiangsu New Hantong, China | 2029/2030 | Undisclosed | UAE (Emarat Maritime) |  |
+| 4 | 50.000 | GSI, China | 2029/2030 | Undisclosed | Greek (Top Ships) |  |
 
 ### Containers
 
@@ -158,9 +158,9 @@ In the Pacific, regional departures from North China to South East Asia fixed at
 
 ### Demolition Sales
 
-| Type | Vessel | Dwt | YoB | Ldt | Price $/ldt | Country |
-| --- | --- | --- | --- | --- | --- | --- |
-| Gas | LNG Kano | 83.961 | 2007 | 38.616 | 530 | India |
+| Type | Vessel | Dwt | YoB | Ldt | Price $/ldt | Country | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Gas | LNG Kano | 83.961 | 2007 | 38.616 | 530 | India |  |
 
 ### Indicative Demolition Prices ($/ldt)
 

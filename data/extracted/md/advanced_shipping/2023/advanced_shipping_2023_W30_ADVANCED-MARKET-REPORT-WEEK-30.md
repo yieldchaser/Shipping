@@ -109,7 +109,7 @@ A number of Indonesian trips with alumina were reported at the level of usd 4,00
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Bulker | Yang Fan | 69.163 | 1997 | 10.934 | 540 | Bangladesh | "As Is" Batam" incl. bunkers |
 | Bulker | Zheng Jie | 73.409 | 1997 | 10.783 | 495 | Bangladesh | "As Is" China |
-| Bulker | Zheng Hao | 73.049 | 1997 | 10.750 | 495 | Bangladesh | As Is China |
+| Bulker | Zheng Hao | 73.049 | 1997 | 10.750 | 495 | Bangladesh | "As Is" China |
 
 ### Indicative Demolition Prices ($/ldt)
 

@@ -136,6 +136,7 @@ A generally quiet week for this segment. A number of Chinese trips into South Ea
 | Tanker | New Inspiration | 298.399 | 2002 | 40.737 | 660 | Pakistan |  |
 | Tanker | Petrogaruda | 112.045 | 2003 | 19.015 | 650 | Bangladesh |  |
 | Tanker | Hippo | 46.092 | 1997 | 12.141 | 642 | Bangladesh |  |
+| Tanker | Chemtrans Rugen | 34.861 | 2001 | 8.866 | 635 | Undisclosed | "As Is" Singapore/Batam, Including extra payments for bunkers & lubes |
 
 ### Indicative Demolition Prices ($/ldt)
 

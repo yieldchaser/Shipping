@@ -130,6 +130,12 @@ A generally quiet week for this segment. A number of trips from Black Sea into M
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LPG | Rodberg | 23.292 | 1998 | Mitsui, Japan | 05/2025 | B&W | 20.510 | Region $ 15m | Undisclosed | BWTS fitted |
 
+### General Cargo
+
+| Type | Name | Dwt | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| General Cargo | Rui Hai 1 | 6.175 | 1998 | Sanyo Onomichi, Japan | 01/2027 | Akasaka | 2x30,7T Cr 1x30T Der | $ 2,5m | Undisclosed | BWTS fitted |
+
 ## Page 5
 
 ### Demolition Sales

@@ -142,11 +142,11 @@ In the Pacific, regional departures from South East Asia and North China to Japa
 
 ### Bulk Carriers
 
-| Units | Dwt | Yard | Delivery | Price | Owner |
-| --- | --- | --- | --- | --- | --- |
-| 2 | 82.000 | Tsuneishi, Japan | 2029 | Undisclosed | Greek (DryDel) |
-| 4 | 64.500 | Taizhou Sanfu, China | 2030/2031 | $ 35,5m | Thai (Precious Shipping) |
-| 2 | 64.500 | Jiangsu SOHO, China | 2029 | Undisclosed | German (DSH) |
+| Units | Dwt | Yard | Delivery | Price | Owner | Comments |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2 | 82.000 | Tsuneishi, Japan | 2029 | Undisclosed | Greek (DryDel) |  |
+| 4 | 64.500 | Taizhou Sanfu, China | 2030/2031 | $ 35,5m | Thai (Precious Shipping) |  |
+| 2 | 64.500 | Jiangsu SOHO, China | 2029 | Undisclosed | German (DSH) |  |
 
 ### Tankers
 
@@ -163,9 +163,9 @@ In the Pacific, regional departures from South East Asia and North China to Japa
 
 ### Gas
 
-| Units | Cbm | Yard | Delivery | Price | Owner |
-| --- | --- | --- | --- | --- | --- |
-| 2+2 | 174.000 | Hanwha Ocean, Korea | 2029/2030 | $ 250m | UK (Zodiac Maritime) |
+| Units | Cbm | Yard | Delivery | Price | Owner | Comments |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2+2 | 174.000 | Hanwha Ocean, Korea | 2029/2030 | $ 250m | UK (Zodiac Maritime) |  |
 
 ## Page 6
 

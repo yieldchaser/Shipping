@@ -190,7 +190,7 @@ A number of Japanese trips via Australia into Continent with steels were fixed a
 | --- | --- | --- | --- | --- | --- | --- |
 | 3 | 174.000 | Samsung, Korea | 2025 or 2026 | $ 223,5m | Korean (H-Line Shipping) | LNG, T/C to Petronas |
 | 2 | 174.000 | Samsung, Korea | 2026 | $ 230,7m | Greek (TMS Cardiff Gas) | LNG |
-| 2 | 174.000 | Hyundai Samho, Korea | 2025 | $ 222,5m | Korean (SK Shipping) | LNG T/C to Petronas |
+| 2 | 174.000 | Hyundai Samho, Korea | 2025 | $ 222,5m | Korean (SK Shipping) | LNG, T/C to Petronas |
 | 2 | 174.000 | Hyundai, Korea | 2025 | $ 222,5m | Korean (SK Shipping) | LNG, T/C to Petronas |
 
 ## Page 8

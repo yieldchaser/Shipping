@@ -126,6 +126,12 @@ A number of Indonesian trips into China were reported at the level of usd 18,000
 | Panamax | Vermont Trader | 4.992 | 2004 | Hanjin, Korea | 09/2024 | B&W | - | $ 37m | Thai (RCL) |  |
 | Panamax | Burgundy | 3.426 | 2008 | Nordseewerke, Germany | 12/2023 | MAN-B&W | - | Excess $ 24m | Italian (RifLine) | Incl. T/C |
 
+### Gas
+
+| Type | Name | Dwt | YoB | Yard | SS | M/E | Cbm | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LNG | Kmarin Diamond | 84.553 | 2008 | Hyundai Samho, Korea | 10/2023 | Wartsila | 151.883 | Undisclosed | Greek |  |
+
 ## Page 5
 
 ### Demolition Sales

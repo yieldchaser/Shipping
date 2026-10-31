@@ -111,6 +111,12 @@ A generally quiet week for this segment. US Gulf trips into West Africa were rep
 | Chemical/Oil Products | Northsea Beta | 8.647 | 2010 | Yangzhou, China | 05/2025 | MAN | $ 8,9m enbloc | Undisclosed |  |
 | Chemical/Oil Products | Northsea Alpha | 8.615 | 2010 | Yangzhou, China | 05/2025 | MAN | $ 8,9m enbloc | Undisclosed |  |
 
+### Containers
+
+| Type | Name | Teu | YoB | Yard | SS | M/E | Gear | Price | Buyer | Comments |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Panamax | Chesapeake Bay | 4.253 | 2003 | Samsung, Korea | 04/2023 | B&W | - | $ 55m | German (Hapag- Lloyd) |  |
+
 ## Page 5
 
 ### Demolition Sales
