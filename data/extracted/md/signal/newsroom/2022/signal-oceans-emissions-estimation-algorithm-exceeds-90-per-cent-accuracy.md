@@ -25,7 +25,7 @@ tags:
 ## Signal Ocean's Emissions Estimation Algorithm Exceeds 90% Accuracy
 
 
-### Signal Maritime Enhances Emission Tracking with Accurate Co2 Estimates
+### Signal Maritime Enhances Emission Tracking with Accurate CO2 Estimates
 
 Detailed back testing of actual CO2 emissions of circa 40 tankers that have been part of the Signal Maritime pool against Signal Ocean’s algorithm-based estimates has shown that real-time emission estimates are accurate within less than a 10% margin of error.
 

@@ -25,7 +25,7 @@ tags:
 
 *Published on 25 May 2023*
 
-## Despite Signs of Recovery in the 1q, the Volume of Flows Is Still Lower Than Last Year
+## Despite Signs of Recovery in the 1Q, the Volume of Flows Is Still Lower Than Last Year
 
 
 ![Data Source: The Signal Ocean Platform, Dry Bulk Flows Https://app.signalocean.com/dry/dynamic/drybulkflows](../../images/646f38c09ef0ffbf89d9d400_ukraine grains logo.png)

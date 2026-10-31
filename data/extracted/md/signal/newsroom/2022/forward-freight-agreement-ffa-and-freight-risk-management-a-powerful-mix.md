@@ -103,7 +103,7 @@ We examined the correlation of spot freight rates in the spot and futures market
 Options and Futures rates are shown through graphs in all main dry bulk ship sizes, Capesize, Panamax, Supramax, and Handysize, for all key trading routes, per month, quarter and year, for the expired and non-expired contracts. The forward prices are quoted for the spot ($/t)-Image 1 and time charter rates ($/d)- Image 2. Additionally, with the **Signal Ocean FFA Report** (Available for our Paid plans) powered by SSY, you can monitor the bid and offer FFA quotes, and FFA prices comparisons between the current month, one month forward, two months forward, one quarter ahead, and two quarters ahead.
 
 
-#### Signal Ocean Platform, FFA Data by Ssy: Spot Market
+#### Signal Ocean Platform, FFA Data by SSY: Spot Market
 
 Capesize/ Routes- Tubarao/Beilun and Baoshan | W Australia/ Beilun and Baoshan | Bolivar/Rotterdam
 
@@ -117,7 +117,7 @@ Panamax/ Routes- Skaw-Gib/Far East | Japan-SK-NOPAC round voyage)
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/forward-freight-agreement-ffa-and-freight-risk-management-a-powerful-mix) | [Local Asset](../../../../../../corpus/07-signal/images/66b51e31f8de648a4579328b_62442f75726d58dd74109e95_FFA%2520report%2520from%2520signal%2520ocean%2520platform.avif)
 
 
-#### Signal Ocean Platform, FFA Data by Ssy: Time Charter Market
+#### Signal Ocean Platform, FFA Data by SSY: Time Charter Market
 
 Cape 5tc - The freight future settlement prices are based on the Capesize time charter index by the Baltic Exchange (weighted average of spot rates on 5 benchmark routes)
 

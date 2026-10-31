@@ -26,7 +26,7 @@ tags:
 
 *Published on 27 November 2025*
 
-## Tanker Market Monitor|tracking Vlccfreightmomentum and the Latest Russianflowshifts
+## TANKER MARKET MONITOR |tracking VLCC Freight Momentum and the Latest Russian Flow Shifts
 
 
 - TD3C and TD15 stay at multi-year seasonal highs as the rally continues to push on
@@ -49,7 +49,7 @@ In this follow-up, we examine how freight prices and vessel supply interact to i
 ## Spotlight of the Week
 
 
-## Russian Dirtyoil Flows| India
+## Russian Dirty Oil Flows | India
 
 
 - Trend Reversal: Late November shows a noticeable easing, with the 21-day MA around 30% below end-October.
@@ -68,10 +68,10 @@ India has not completely halted purchases of Russian crude. November arrivals ar
 - [Indian Oil Corporation](https://www.indiandefensenews.in/2025/10/indian-oil-resumes-russian-crude.html) (IOC) has successfully procured approximately five December-arrival Russian crude cargoes from suppliers not subject to sanctions. While this confirms that Russian crude flows continue, the secured volume, around 3.5 million barrels of ESPO-grade, is small compared to IOC's previous intake before sanctions. IOC's policy is to buy Russian crude *only* if the associated sellers and shipping lines are not sanctioned. This emphasizes that the continuity of future inflows is wholly dependent on finding compliant, non-designated counterparties, rather than being driven solely by underlying demand or pricing.
 
 
-## Netsupplyvs Baltic Rates
+## Net Supply vs Baltic Rates
 
 
-## AG | Last 12m Avg: 107 Vessels
+## AG | Last 12M Avg: 107 Vessels
 
 
 - In the AG, even as supply increased from ~76 in early September to over 100, rates remained elevated. TD3 was already near WS 98 in mid-September and continues to display firmness into late November.
@@ -83,7 +83,7 @@ India has not completely halted purchases of Russian crude. November arrivals ar
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-48-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6928951635317d479e5ec0d3_dc1139df.png)
 
 
-## Wafr | Last 12m Avg: 13 Vessels
+## WAFR | Last 12M Avg: 13 Vessels
 
 
 - In WAF, TD15 has surged as net supply dropped to multi-month lows, with rates holding firm around WS 120 even as availability began to pick up in late November.
@@ -95,7 +95,7 @@ India has not completely halted purchases of Russian crude. November arrivals ar
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-48-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6928951635317d479e5ec0d6_d33b70cf.png)
 
 
-## Vlcccongestion| Discharge China +11% WoW
+## VLCC Congestion | Discharge China +11% WoW
 
 
 - Discharge congestion in China has climbed sharply from early-autumn lows to the highest levels of the year, tightening effective tonnage supply and adding to the firmer sentiment on long-haul crude routes.

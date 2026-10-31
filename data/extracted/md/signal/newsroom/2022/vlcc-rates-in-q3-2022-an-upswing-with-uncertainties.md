@@ -69,7 +69,7 @@ Routes: **AG** to the Far East - Spore - USG | **WAfr** to East
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/vlcc-rates-in-q3-2022-an-upswing-with-uncertainties) | [Local Asset](../../../../../../corpus/07-signal/images/66b51ea4a66777d777fdf989_637dd65ec6933b68a4d5ba24_image%25202%2520rate%2520indications.avif)
 
 
-## Ii. Crude Oil Seaborne Flows
+## II. Crude Oil Seaborne Flows
 
 *1.* ***VLCC*** *- Monthly Volume of Shipments from All Origin Countries to All Destinations*
 
@@ -105,7 +105,7 @@ It is interesting to note the increase in the monthly volume of shipments from t
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/vlcc-rates-in-q3-2022-an-upswing-with-uncertainties) | [Local Asset](../../../../../../corpus/07-signal/images/66b51ea5a66777d777fdf99d_637dd7534af670050bb85608_image%25205%2520vlcc%2520from%2520uae%2520to%2520india%2520china.avif)
 
 
-## Iii. Demand - Ton Chart
+## III. Demand - Ton Chart
 
 *1.* ***VLCC*** *- Ton Miles / Ton Days from All Origin Countries to All Destinations*
 
@@ -130,7 +130,7 @@ Looking specifically at Chinese demand growth in tonne-miles and -days, we find 
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/vlcc-rates-in-q3-2022-an-upswing-with-uncertainties) | [Local Asset](../../../../../../corpus/07-signal/images/66b51ea5a66777d777fdf9b0_637dd7b270dfeb957b9f1e21_image%25207%2520usg%2520china.avif)
 
 
-## Iv. Vessel Speed (ballast-Laden)
+## IV. Vessel Speed (Ballast-Laden)
 
 The recovery in freight rates and the increase in oil demand led to an increase in the number of loaded and ballasted ocean-going vessels, with the speed of ocean-going vessels reaching their highest level since early 2021 (Figure 8). For ballasted vessels, the speed (7-day moving average) exceeded 12 knots in early October, and for loaded vessels, the speed was nearly 12 knots. It appears that the lows recorded in the second and third quarters of this year will not be matched in the final quarter, as crude oil freight rates may increase despite signs of lower oil demand. There is still a shortage of oil supply that will weigh on the global economy during the winter months when developed and developing countries will look to sources of supply from the United States and OPEC+ countries to meet their energy needs.
 

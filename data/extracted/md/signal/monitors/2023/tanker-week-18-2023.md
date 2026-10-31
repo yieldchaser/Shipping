@@ -29,7 +29,7 @@ tags:
 ## Crude Oil Freight Rates Have Lost Momentum Since the End of April But Demand From Asian Countries Continues Unabated
 
 
-##### U.s. Exporting More Crude Oil to Europe and Asia
+##### U.S. Exporting More Crude Oil to Europe and Asia
 
 
 ![Data Source: The Signal Ocean Platform- Oil Flows Https://app.signalocean.com/tanker/dynamic/oilflows](../../images/6454fc704745996b49233197_oil flows us europe vs china logoed.png)

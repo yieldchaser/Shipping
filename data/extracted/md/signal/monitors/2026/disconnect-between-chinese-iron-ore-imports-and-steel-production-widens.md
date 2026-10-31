@@ -22,7 +22,7 @@ tags:
 
 *Published on 04 June 2026*
 
-## Commodity Radar | Spotlight: Iron Ore
+## COMMODITY RADAR | Spotlight: IRON ORE
 
 
 ## Disconnect Between Chinese Iron Ore Imports and Steel Production Widens

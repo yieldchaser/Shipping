@@ -25,7 +25,7 @@ tags:
 
 *Published on 15 May 2024*
 
-## Building on Ourcapesize Market Insightsfrom the End of April, This Week We Are Monitoring Panamax Vessel Count of Ballasters in the Ecsa Region versus Baltic Rates
+## Building on Our Capesize Market Insights From the End of April, This Week We Are Monitoring Panamax Vessel Count of Ballasters in the ECSA Region versus Baltic Rates
 
 
 ![6644b83d184f2859e2a8ec57 Chart of the Week Dry (2)](../../images/6644b83d184f2859e2a8ec57_CHART OF THE WEEK DRY (2).png)

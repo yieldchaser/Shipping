@@ -33,7 +33,7 @@ Looking ahead, the next five years will be crucial for the shipping industry as 
 In the following sections, we will analyse the latest trends observed over the past year within the dry bulk and tanker segments, as these developments will play a pivotal role in shaping the evolution of the freight market in the coming year. While global shipping faces many uncertainties, the performance of these two segments will be particularly crucial in determining the overall trajectory of the industry.
 
 
-## Section I: The Challenge From the Growth of the Global Fleet
+## SECTION I: The Challenge From the Growth of the Global Fleet
 
 Over the past eight years, the growth of the global fleet has been notable, driven by substantial investments in both the dry bulk and tanker segments. However, while the number of vessels has steadily increased, a concerning trend has emerged: the average age of the fleet has gradually risen (see **image 1**). This is largely due to a significant decline in the scrapping activity of older vessels, which has reached almost negligible levels over the past three years. The sharp reduction in the decommissioning of aging ships has had a dual impact on the market.
 
@@ -54,7 +54,7 @@ The threat posed by the Houthis is part of a broader set of security challenges 
 Looking ahead, the security situation in the Middle East, along with the broader geopolitical landscape, will continue to have a significant impact on the maritime industry. The trends in both the dry bulk and tanker markets, combined with these security challenges, suggest that 2025 may bring a year of caution and strategic adjustments for shipping companies as they navigate both market volatility, escalating regulation and increased risk in critical regions. These evolving dynamics will require careful monitoring and adaptation, as the global freight market adjusts to shifting demand, security risks, and changing geopolitical realities.
 
 
-## Fleet in Service & Average Age
+## FLEET IN SERVICE & AVERAGE AGE
 
 As we can observe in **Image 1**, there has been a steady increase in the number of vessels in the dry bulk (counting vessels larger than 20,000 deadweight) and tanker (larger than 25,000 deadweight) segments, with dry bulk vessels surpassing 12,000 and tankers exceeding 6,000 in total. This growth trend highlights the sustained expansion of the global fleet, even as challenges like oversupply and market volatility persist. At the same time, the average age of the fleet in service has continued to rise, with 2024 closing out with the tanker fleet averaging nearly 15 years of service and the dry bulk fleet exceeding 12 years.
 
@@ -67,7 +67,7 @@ The aging profile of these vessels adds complexity to the market dynamics. Older
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/6763140f5cd21404366783ef_AD_4nXeG76KHg6qoh95d-u0hlQM4ecoWl9IlDvESPSzTsJJzRqrbEGArHGYepArLOuKUIXThQsCtvVqRwaLE4vzro-sqNHh0vbx_I0lC8DW0r3uXjzRshC0huvihvQqtPNrSW6RMXqVK4A.avif)
 
 
-## Fleet Growth (Dry)
+## FLEET GROWTH (DRY)
 
 Looking ahead, the dry bulk segment is projected to continue its fleet growth trajectory, driven by a robust delivery schedule and a noticeable decline in scrapping activity compared to the peaks recorded in the year 2020. A breakdown by vessel size reveals nuanced trends that will shape the segment’s future dynamics.
 
@@ -88,7 +88,7 @@ For the **smaller vessel categories**, such as Supramax and Handysize, there has
 For the **Capesize vessels**, the picture is more stable. While only a limited number of vessel deliveries are anticipated in the Very Large Ore Carrier (VLOC) category, with the current schedule indicating new additions in 2026, the standard Capesize segment is projected to experience a moderate influx of new deliveries. The standard Capesize segment is forecasted to see a moderate delivery schedule. The annual number of new Capesize vessels is not expected to exceed 40, representing a more controlled expansion compared to the surge observed in 2020, which marked the peak year for Capesize deliveries. One key challenge across the larger vessel segments lies in **minimal scrapping activity**. Despite the aging profile of many vessels, scrapping levels have remained low, sustaining the fleet at historically high levels for the past three years. This lack of fleet contraction could exacerbate competition among vessels, particularly for employment in critical routes such as the South Atlantic to Asia, where ballasters vie for limited cargo availability to meet Asian demand.
 
 
-## Fleet Growth (Tanker)
+## FLEET GROWTH (TANKER)
 
 When it comes to the growth of the tanker fleet, it’s evident that there are significant scheduled deliveries ahead, particularly for the next two years. Both the dirty and clean tanker segments are expected to see a steady flow of new vessel deliveries. The projected fleet in service is anticipated to grow steadily through 2026, especially as scrapping activity has dropped to historically low levels over the past two years. In the clean tanker segment, the MR2 vessel class is poised to experience the highest volume of scheduled deliveries, with over 100 vessels expected in the coming two years. On the other hand, the dirty tanker segment is set to see a higher volume of deliveries in the Aframax class, surpassing those of the VLCC and Suezmax segments.
 
@@ -107,7 +107,7 @@ Interestingly, for the coming year, the VLCC segment does not appear to face the
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/6763140fe1b90cda22a84107_AD_4nXerRkYUIUpnOOku-DII49yx71x4ymIpRMPOWgC_dn_CT0iAfA1zA9Pjn-VsdzSecdJr_EL1Q0RjWCSG-0R-bSSmTvtjgLbGhv_RR_VnV572QxNFAPu75_RzuK7oR0UDsrZPBZ8U.avif)
 
 
-## Section Ii: Review of Seaborne Trade Evolution - Cargo Count and Voyages to the Far East
+## SECTION II: Review of Seaborne Trade Evolution - Cargo Count and Voyages to the Far East
 
 In this section, we will analyse the evolution of seaborne trade, with a particular focus on cargo volumes destined for the Far East. This region, a pivotal hub for global maritime trade, plays a significant role in shaping demand for shipping services. Understanding these trade dynamics is essential for evaluating the balance between cargo availability and vessel deployment, as well as for anticipating market trends.
 
@@ -116,7 +116,7 @@ Fluctuations in voyage volumes to the Far East have a direct and profound impact
 *"The Signal Ocean Platform data presented in this section covers the first two decades of December 2024, as of the release of this piece. Updated trends for the entire month will be provided at the start of the New Year."*
 
 
-## Dry
+## DRY
 
 In **image 4**, we observe a steady flow in the volume of cargo count in terms of voyages from all load locations to the Far East. The thermal coal and iron ore fines have consistently led the charge in this trade. Despite this stable flow, the percentage share of Capesize vessels in the total number of voyages has not shown any significant increase. This suggests that the anticipated recovery in the freight market or a firmer market environment has yet to materialize. The lack of growth in Capesize voyages implies that the market conditions for these larger vessels remain challenging, with no clear sign of improvement in the short term.
 
@@ -147,7 +147,7 @@ October and November closed with record-high monthly coal cargo volumes, the hig
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/2024-annual-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/6763140fa49bc732299aa13f_AD_4nXfSpMHe8hhn0u-6QzehV_i_y7Z6mYSLvECfSAaVLFOGGFuBMMVyvv1BEvgIOcPbXCI9AiNyg93g5Q4rZcNPo1mLZeQe9V65QdOAhVg7I3n_z-q1ZmfvIRUqG4uLFGbNlQbqmLQLiQ.avif)
 
 
-## Oil
+## OIL
 
 Looking at the volume of dirty and clean oil flows from all loading points to the Far East (**image 6**), there were certain standout months, such as August and November, that recorded an increase in volume, surpassing the figures observed in prior years. Despite these cases of increases, the overall annual trend remained relatively stable, with volumes fluctuating within a narrow range. This steadiness indicates that the market has yet to demonstrate clear signs of recovery, with the sporadic swings likely driven by external factors rather than a sustained upward momentum.
 
@@ -195,7 +195,7 @@ A recent development underscores this shift: Rosneft, Russia’s state-owned oil
 Moreover, the growing dominance of Russian crude oil exports to the Far East also has implications for the broader dirty tanker market. The increasing reliance on Aframax vessels may limit the potential growth for larger tanker categories, such as VLCCs, which are less suited for the specific needs of these trade routes. The strength of this Russian-Pacific-to-Far-East trade flow will continue to shape the global tanker market, as oil-exporting nations and trading partners adjust their strategies to meet both changing energy demands and the evolving geopolitical landscape.
 
 
-## Section Iii: Ship Prices
+## SECTION III: SHIP PRICES
 
 At this section of the analysis, it is important to emphasise an intriguing market dynamic: despite the absence of significant spikes in the volumes of voyages and cargo flows across both the dry and tanker vessel segments—indicators that typically suggest a rise in demand, tonne-day growth, and a firmer outlook for the freight market—ship prices have remained remarkably resilient. In fact, when compared to the levels observed in 2022, current ship prices show a firmer upward trend. In **Image 8**, we observe the evolution of secondhand values for key vessel types, offering valuable insights into the dynamics of asset pricing across the dry bulk and tanker segments. For **Example A**, a Capesize bulk carrier built in 2020 in Japan, the market value has climbed significantly, reaching approximately **$64 million**, which represents a **$7 million increase** compared to its valuation at the start of 2023. In the tanker segment, **Example B**, the secondhand value of a 2020-built VLCC (Very Large Crude Carrier) in Japan has seen an even steeper appreciation. Its market value has risen to over **$110 million**, a substantial increase from the sub-**$90 million** levels observed at the beginning of 2020.
 

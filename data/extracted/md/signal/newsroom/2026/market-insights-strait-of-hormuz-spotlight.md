@@ -46,7 +46,7 @@ A sharp decline in tanker transits through the Strait of Hormuz and rising float
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-strait-of-hormuz-spotlight) | [Local Asset](../../../../../../corpus/07-signal/images/69aea6f445834bc47efbd326_0f904dd3.png)
 
 
-## Scenario Matrixscenario 1: De Facto Restriction of Transit with Rising Floating Storage
+## Scenario Matrix Scenario 1 : De Facto Restriction of Transit with Rising Floating Storage
 
 Probability: very high ( already developing)
 
@@ -57,7 +57,7 @@ Floating storage is becoming part of this adjustment. Tankers that would normall
 Navigation through the corridor remains open, but activity may continue at reduced levels as shipping companies adapt to the prevailing security and insurance environment. At this stage, the situation reflects a commercial response to uncertainty rather than any formal restriction on transit.
 
 
-## Scenario 2: A Two-Route Export Structure
+## Scenario 2 : A Two-Route Export Structure
 
 Probability: high
 
@@ -68,7 +68,7 @@ Pipeline infrastructure that bypasses the strait gains strategic importance, par
 As a result, some tanker movements continνue, although typically under tighter scheduling and higher risk premiums.
 
 
-## Scenario 3:security-Led Stabilization of Tanker Movements
+## Scenario 3: Security-Led Stabilization of Tanker Movements
 
 Probability: medium–high
 
@@ -79,7 +79,7 @@ Such measures are typically intended to reinforce confidence in commercial shipp
 In practical terms, this could allow tanker movements to resume gradually, although under conditions where maritime security plays a more visible role in supporting the continuity of trade routes.
 
 
-## Scenario 4: Market Shock and Temporary Pricing Power
+## Scenario 4 : Market Shock and Temporary Pricing Power
 
 Probability: high
 
@@ -97,7 +97,7 @@ A useful historical comparison can be found in the tanker attacks of the 1980s, 
 Today, AIS data provides near-real-time visibility into tanker movements and can quickly indicate when commercial traffic through critical routes is slowing or changing patterns, although coverage is not always complete.
 
 
-## Scenario 5: Quiet Operational Coordination
+## Scenario 5 : Quiet Operational Coordination
 
 Probability: medium–high
 
@@ -106,7 +106,7 @@ During maritime disruptions, it is common to see quiet coordination among export
 Producers such as Saudi Arabia and the United Arab Emirates have a strong incentive to keep exports flowing, while maritime powers like the United States provide security support.
 
 
-## Scenario 6: China’s Potential Diplomatic Involvement
+## Scenario 6 : China’s Potential Diplomatic Involvement
 
 Probability: medium
 
@@ -115,7 +115,7 @@ Another factor increasingly shaping the situation is the role of China. As the l
 Rather than deploying military power in the region, Beijing is more likely to act through diplomacy and economic engagement. That could include discussions with producers, consultations with importers such as India, or mediation efforts aimed at keeping energy flows stable. So far, the evidence points to diplomatic influence rather than a formal coalition.
 
 
-## Scenario 7: Expansion of the Maritime Crisis
+## Scenario 7 : Expansion of the Maritime Crisis
 
 Probability: medium
 
@@ -131,7 +131,7 @@ The most serious escalation scenario would involve sustained disruption in the G
 A further escalation, such as sustained attacks, mining of shipping lanes, or broader regional instability, could significantly affect transit through Bab el-Mandeb. In such a case, the disruption would extend beyond a single corridor and affect multiple maritime routes linking the Middle East, Europe, and Asia. This would force more vessels to divert around the Cape of Good Hope, increasing transit times, costs, and pressure on global supply chains.
 
 
-## Scenario 8:disruption to Bunker Fuel Supply in the Arabian Gulf
+## Scenario 8: Disruption to Bunker Fuel Supply in the Arabian Gulf
 
 Probability: Low–Medium
 

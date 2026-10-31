@@ -26,7 +26,7 @@ tags:
 
 *Published on 10 May 2023*
 
-## Signal Maritime Clean Tanker Review: Lr2 Market Outlook & Clean Oil Flows
+## Signal Maritime Clean Tanker Review: LR2 Market Outlook & Clean Oil Flows
 
 *Signal Maritime examines the impact of clean commodity flows and the new trends coming to freight using data from [Signal Ocean*](https://app.signalocean.com/tanker/vessels)
 
@@ -47,14 +47,14 @@ This Signal Maritime analysis, powered by [Signal Ocean](https://app.signalocean
 - [Frequently Asked Questions](#frequently-asked-questions)
 
 
-## I. Market Rates - Lr2 AG
+## I. Market Rates - LR2 AG
 
 The beginning of the year was disappointing for LR2 tankers, as rates slumped before and after the ban went into effect, but in March and April, rate trends were more optimistic and sentiment was better. Although recent momentum has yet to reach the peak of over 300 WS (image 1) seen late in the fourth quarter of last year, stable sentiment of around 150 WS has been seen recently. Today's supply and demand fundamentals, as well as the volume of clean oil flows, underscore that a collapse similar to the February lows is not likely to occur soon.
 
 Image 1:[Market Prices - LR2 AG, Signal Assessments](https://app.signalocean.com/tanker/reports/tankermarketrates)
 
 
-## Ii. Clean Oil Flows From East to West
+## II. Clean Oil Flows From East to West
 
 **Main Origin Countries**
 
@@ -81,7 +81,7 @@ Today's volume of clean oil from the East destined for Western countries has a p
 [Image 5: Clean oil Flows, (Saudi Arabia, UAE, China, India, Oman, Qatar) to West (U.S., U.K., NETH, Italy, France, Spain, Belgium), by Vessel Class](https://app.signalocean.com/tanker/dynamic/oilflows)
 
 
-## Iii. Vessel Supply Market Trends
+## III. Vessel Supply Market Trends
 
 A look at vessel supply for Jubail, Saudi Arabia, with Max ETA 14 days ahead, **image** 6, shows that in April there was relatively low supply between the middle and end of the month, which caused market prices for LR2 AG to rise to levels of WS180 and above. However, in early May, the number of vessels jumped to 30 and above, reducing the previous firmness of LR2 rates. The recent increase in vessel supply fuels uncertainty about rate trends, although demand sentiment and clean oil flows offer optimistic potential for the outlook for LR2 market rates.
 
@@ -90,7 +90,7 @@ Image 6: [Vessel Supply, LR2 AG](https://app.signalocean.com/tanker/reports/hist
 **Latest AIS since:** Maximum number of days from latest AIS received. **Trade**: This selection includes all vessels competing for cargoes in the selected trade: **i.** Vessels that are currently in this trade. **ii.** Vessels that are willing to compete for this trade. **Market deployment:** Market deployment based on Signal Ocean information. **Market Rates:** Market rates for the relevant route. **Commercial Status:** Commercial status of the vessel at each point in time. **Max ETA:** ETA window for available vessels to reach the loading port 14 days. **Last 90 days:**Number of days back (from today) to start the chart.
 
 
-## Iv. Clean Demand Ton Miles
+## IV. Clean Demand Ton Miles
 
 The optimistic outlook for the LR2 segment can be clearly seen in the year-over-year growth in tonne-miles (**image** 7), as the trend is consistently higher than in any month last year, while the MR clean segment shows a downward trend in May after peaking in February. At the end of the first quarter of the year, the challenge of substituting Russian oil products for LR2 tankers is developing positively with growth in tonne miles from all areas to all destinations.
 

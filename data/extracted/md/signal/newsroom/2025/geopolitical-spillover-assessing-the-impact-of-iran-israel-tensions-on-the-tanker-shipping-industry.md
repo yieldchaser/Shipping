@@ -133,7 +133,7 @@ Forward Freight Agreement (FFA) market analysts are projecting a significant inc
 Given the daily importance of crude oil shipments via the Strait to China, a short-lived closure with increased vessel traffic disruptions is a more likely scenario.
 
 
-## Scenario B:partial Disruption
+## Scenario B: Partial Disruption
 
 In a scenario where shipping passage disruptions occur, Iran could implement measures such as attacks or hijacking, along with overall strategies to impede oil vessel movements. Iran is also expected to utilize the Houthis' increasing attacks against Red Sea shipping activities, although the Houthis' strength remains uncertain following U.S. efforts to degrade their capabilities since the end of last year. In this scenario, some shipowners may choose to avoid involvement in oil transits through Hormuz, leading to a tighter supply of available vessels for East loadings as they seek safer loading zones in the Atlantic. In such a scenario, Middle Eastern oil exports would be maintained, but the limited availability of vessels would drive up AG dirty oil freight costs, with shipowners pushing for higher freight rates for oil exports through Hormuz. The disruption of oil transit would further extend the rise in oil prices, benefiting U.S. and other global oil producers, particularly those in the Atlantic, who could capitalize on the situation.
 
@@ -185,7 +185,7 @@ Early reports confirmed escalating tensions, with Israel facing intense Iranian 
 - JP Morgan Oil Forecast (2024-2026) **
 
 
-## Faqs
+## FAQs
 
 
 ### What Is the Strait of Hormuz and Why Does It Matter to Tanker Shipping?

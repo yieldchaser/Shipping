@@ -22,7 +22,7 @@ tags:
 
 *Published on 28 July 2026*
 
-## Commodity Radar | Agriculture Look Back 2026 Q2
+## COMMODITY RADAR | Agriculture Look Back 2026 Q2
 
 The second quarter of 2026 saw strong growth in soybean and corn flows driven by a record Brazilian harvest, while fertilizer flows fell sharply as Arabian Gulf supply disruptions hit Saudi Arabian exports and Brazilian import demand softened.
 

@@ -25,7 +25,7 @@ tags:
 
 *Published on 22 May 2024*
 
-## Resilience of Chinese Coal Imports From Australia Confirms a Continued Resurgence Year to Date Echoing the Trend Observed Before Theend of March.
+## Resilience of Chinese Coal Imports From Australia Confirms a Continued Resurgence Year to Date Echoing the Trend Observed Before the End of March .
 
 
 ![664df49b270f6e1067032dfc Chart of the Week 21](../../images/664df49b270f6e1067032dfc_chart of the week 21.avif)

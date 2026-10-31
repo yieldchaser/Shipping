@@ -22,7 +22,7 @@ tags:
 
 *Published on 11 March 2026*
 
-## Commodity Radar | Spotlight: Coal
+## COMMODITY RADAR | Spotlight: COAL
 
 
 ## Coal Demand Could Be Supported by War in the Arabian Gulf

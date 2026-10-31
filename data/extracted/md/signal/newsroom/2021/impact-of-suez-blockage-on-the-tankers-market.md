@@ -26,7 +26,7 @@ tags:
 
 *Published on 27 March 2021*
 
-## Partial Refloating of M/v Ever Given Eases Suez Canal Blockage
+## Partial Refloating of M/V EVER GIVEN Eases Suez Canal Blockage
 
 One of the largest container ships in the world has been partially refloated after it ran aground in the Suez canal, causing a traffic jam of vessels at both ends of this vital international trade artery.
 

@@ -22,7 +22,7 @@ tags:
 
 *Published on 16 February 2026*
 
-## Commodity Radar | Spotlight: Steel
+## COMMODITY RADAR | Spotlight: STEEL
 
 
 ## China Drives Growth in Steel Flows as the Rest of the World Sees a Small Contraction

@@ -22,7 +22,7 @@ tags:
 
 *Published on 20 October 2026*
 
-## Commodity Radar | Spotlight: Bauxite
+## COMMODITY RADAR | Spotlight: BAUXITE
 
 
 ## The Final Quarter of 2026 Is Expected to See Softer Bauxite Flows

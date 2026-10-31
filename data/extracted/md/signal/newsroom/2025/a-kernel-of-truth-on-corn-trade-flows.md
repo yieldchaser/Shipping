@@ -22,7 +22,7 @@ tags:
 
 *Published on 10 June 2025*
 
-## Through Our Dry Bulk Flow Tool, We Have Identified Changing Trends in the Trade of Corn. Similar to Soybeans, Both the U.s. and Brazil Dominate the Export Market; However, Unlike That Market, the U.s. Is Seeing Its Exports Strengthen. This Report Looks at Whether the Increase in U.s. Corn Exports Is Enough to Make Up for a Much Softer Soybean Export Outlook in the Globalcommodity Tradinglandscape.
+## Through Our Dry Bulk Flow Tool, We Have Identified Changing Trends in the Trade of Corn. Similar to Soybeans, Both the U.S. and Brazil Dominate the Export Market; However, Unlike That Market, the U.S. Is Seeing Its Exports Strengthen. This Report Looks at Whether the Increase in U.S. Corn Exports Is Enough to Make Up for a Much Softer Soybean Export Outlook in the Global Commodity Trading Landscape.
 
 
 ![68488e86c4a8bbef8295af93 Ad 4nxe9wrrsj3pmrooamh6y1e164nkohoz Wz Vumitmyn 5luxxmed8 Knsuszqplcdrnzoawstx9cxlihv4hfr9etsl0 Mbnrc4fm3erfb1tzbsp6meury7epw4t0fii5nncmexe7](../../../../../../corpus/07-signal/images/68488e86c4a8bbef8295af93_AD_4nXe9wRRSJ3PMrooAmh6Y1e164nkohoZ-wz_VUMitmYN_5LuxXMed8_KNSUszqPlcdrnZoAwstX9cxlihV4HFr9eTSl0-mBNrC4FM3ERfB1TZbsP6MEUry7epW4T0fIi5NNcMexe7.png)
@@ -31,7 +31,7 @@ tags:
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-kernel-of-truth-on-corn-trade-flows) | [Local Asset](../../../../../../corpus/07-signal/images/68488e86c4a8bbef8295af93_AD_4nXe9wRRSJ3PMrooAmh6Y1e164nkohoZ-wz_VUMitmYN_5LuxXMed8_KNSUszqPlcdrnZoAwstX9cxlihV4HFr9eTSl0-mBNrC4FM3ERfB1TZbsP6MEUry7epW4T0fIi5NNcMexe7.png)
 
 
-## U.s. Corn Production Indicates Exports Are Set to Grow
+## U.S. Corn Production Indicates Exports Are Set to Grow
 
 Our recent insight highlighted [the decline](https://www.thesignalgroup.com/newsroom/the-impact-of-recent-argentine-soybean-production-losses-on-the-dry-freight-market) in [U.S. soybean exports as China looks to secure supply from Brazil.](https://www.thesignalgroup.com/newsroom/soybean-flows-are-changing-but-who-reaps-the-rewards) However, corn exports from the U.S. have been performing well, with 2025 Q1 figures indicating that exports could reach levels above those of 2022, 2023, and 2024.
 

@@ -60,7 +60,7 @@ Wheat, corn, and soybeans are the major grain commodities with significant perce
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-impact-of-recent-argentine-soybean-production-losses-on-the-dry-freight-market) | [Local Asset](../../../../../../corpus/07-signal/images/66b51eda8e0cdfc8bf26a934_63a457f91b7271111ac208f6_image%25202.avif)
 
 
-## Ii. Freight Market: Ballasters to South Africa vs Panamax ($/d) Rates
+## II. Freight Market: Ballasters to South Africa vs Panamax ($/d) Rates
 
 The latest picture of the Panamax market for a Singapore roundtrip via Altantic shows a downward trend, as the number of ballast vessels has increased to over 70 since mid-December and rates have fallen to $13.5k/day. However, it appears that the freight market is less influenced by the trend in the number of ballast vessels and more by daily cargo volumes, demand. (image 4).
 
@@ -76,7 +76,7 @@ As shown in the chart below, the number of ballast ships was even higher in prev
 In our third and final section of this analysis, we show a sensitivity analysis on supply and demand scenarios that will have a decisive impact on freight rates in the coming months of the new year.
 
 
-## Iii. Supply vs Demand Scenarios
+## III. Supply vs Demand Scenarios
 
 The recent weakness in daily cargo volumes that we have observed for the Panamax South Atlantic market has heightened concerns about freight rate trends. In our pessimistic scenario (Figure 5) with daily loadings of 380,000 tons, the supply of vessels for the next 20 and 40 days is lower than the demand and risks weaker dynamics in expected freight rates. However, the baseline scenario with 480k tonnes of daily cargo from the South Atlantic is the level that can potentially lead the market to firmness, as we have also seen in the second quarter of 2022.
 

@@ -25,7 +25,7 @@ tags:
 
 *Published on 14 February 2024*
 
-## The 14-Day Moving Average of Loaded Daily Volumes in the Capesize South Atlantic Exceeded the 1 Million Tons Demand Benchmark
+## The 14-day Moving Average of Loaded Daily Volumes in the Capesize South Atlantic Exceeded the 1 Million Tons Demand Benchmark
 
 
 ![65cc8f32fdbaf1865d6bb241 Chart of the Week (1)](../../images/65cc8f32fdbaf1865d6bb241_chart of the week (1).png)

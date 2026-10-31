@@ -25,7 +25,7 @@ tags:
 
 *Published on 08 December 2025*
 
-## Chart of the Week|russian Wheatflowsto All Destinations
+## Chart of the Week | Russian Wheat Flows to All Destinations
 
 As international diplomatic efforts around the Russia–Ukraine conflict continue, we are closely monitoring the year-over-year changes in Russian grain shipment volumes.
 
@@ -42,7 +42,7 @@ As international diplomatic efforts around the Russia–Ukraine conflict continu
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-50-2025) | [Local Asset](../../../../../../corpus/07-signal/images/693693b708ba8b1e45b361f6_48f6a7ee.png)
 
 
-## Egypt|top Destination for Russian Wheat
+## EGYPT | Top Destination for Russian Wheat
 
 
 ![Egypt| Top Destination for Russian Wheat](../../../../../../corpus/07-signal/images/693693b708ba8b1e45b361f9_a56226a1.png)

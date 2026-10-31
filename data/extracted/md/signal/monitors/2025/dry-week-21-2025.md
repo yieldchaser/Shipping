@@ -25,7 +25,7 @@ tags:
 
 *Published on 21 May 2025*
 
-## With Growing Industry Attention Focused on the Latest Ustr Port Fees, We Take a Closer Look at the Evolution of the Dry Bulk Fleet (with Delivery Country and Shipyards in China), Particularly in Light of a Noticeable Slowdown in New Contracting Activity.
+## With Growing Industry Attention Focused on the Latest USTR Port Fees, We Take a Closer Look at the Evolution of the Dry Bulk Fleet (with Delivery Country and Shipyards in China), Particularly in Light of a Noticeable Slowdown in New Contracting Activity.
 
 
 ![682f1d4a2323b13a7943ee23 Ad 4nxcxooi6amm0hlrsfbmrn7ouyuldwfsee76nnh5lc64 Lcqbixnfxgi3ukefoemdt1b8jcyonpqlbaqjsdbrw Bcs Elxxexjzqef B1 Ed65dadw1efrg Bxj4nkbzrkjyht9rydq](../../../../../../corpus/07-signal/images/682f1d4a2323b13a7943ee23_AD_4nXcxOOi6AMM0HLRSfbMRn7OuYUlDwFSEE76NnH5lC64-LCQbiXnFxGi3uKEfoEmDT1b8JcyONpQLBaqjsDbrw-bcs-elxXExJZqEf_b1-ED65dadW1eFrg-bxJ4NKbzRKjYHT9RydQ.png)

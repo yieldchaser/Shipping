@@ -25,7 +25,7 @@ tags:
 
 *Published on 23 December 2025*
 
-## Chart of the Week|drytonnedays
+## Chart of the Week | Dry Tonne Days
 
 
 ![Chart of the Week| Dry Tonne Days](../../../../../../corpus/07-signal/images/694acc7dd1d9bcb15f9eff8a_0ff41a44.png)
@@ -41,7 +41,7 @@ tags:
 - [Freight](https://app.signalocean.com/dry/dynamic/market-prices-dry) market trends ahead of the Christmas period indicate strengthening momentum on Brazil–China and South Africa–China Capesize routes, pointing to a firmer tone into year-end. Although Brazil–China Capesize rates peaked on 3 December at nearly $26/ton, the subsequent pullback has been contained, with current levels holding at about $24/ton rather than signaling a broader deterioration, supported by ongoing long-haul cargo demand.
 
 
-## Freight | Capesize | Atlantic Firmer
+## FREIGHT | Capesize | Atlantic Firmer
 
 
 ![Freight | Capesize | Atlantic Firmer](../../../../../../corpus/07-signal/images/694acc7dd1d9bcb15f9eff81_1a29ab26.png)
@@ -84,7 +84,7 @@ By year-end, downward revisions were observed in full-year tonne-day growth for 
 However, a clear rebound emerged in the fourth quarter, with coal tonne-days reaching around 90 million following a pronounced decline at the end of the summer season. This recovery aligns with the typical winter seasonal upturn, although the magnitude remains lower compared with previous years, suggesting a more moderate seasonal effect on freight demand rather than a significant shift.
 
 
-## Freight | Panamax | Pacific Weaker
+## FREIGHT | Panamax | Pacific Weaker
 
 
 ![Freight | Panamax | Pacific Weaker](../../../../../../corpus/07-signal/images/694acc7dd1d9bcb15f9eff90_7a75b99c.png)
@@ -116,7 +116,7 @@ From a freight standpoint, long-haul demand is moderating as China’s agri self
 Supramax Atlantic routes are closing the final quarter under sustained downward pressure. On a quarter-on-quarter basis, US Gulf–Far East rates are down *14.6%*, while US Gulf–Skaw/Pass has declined by *14.9%*. ECSA–Far East has also weakened, posting an *8.9%* QoQ contraction, though the magnitude of the decline remains smaller relative to US Gulf–origin routes. As a result, the Supramax market enters the start of the new year from a weaker Atlantic-driven base, limiting upside at the beginning of Q1.
 
 
-## Freight | Supramax | Atlantic Weaker
+## FREIGHT | Supramax | Atlantic Weaker
 
 
 ![Freight | Supramax | Atlantic Weaker](../../../../../../corpus/07-signal/images/694acc7dd1d9bcb15f9eff93_4bd4ee5d.png)

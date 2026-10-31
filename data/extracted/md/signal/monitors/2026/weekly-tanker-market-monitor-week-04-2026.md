@@ -26,7 +26,7 @@ tags:
 
 *Published on 23 January 2026*
 
-## Chart of the Week| Dirty Oilflowsrussia - India
+## Chart of the Week| Dirty Oil Flows Russia - India
 
 The downward trend in the 7-day moving average points to easing demand momentum
 
@@ -57,7 +57,7 @@ Spot [freight](https://app.signalocean.com/tanker/dynamic/market-prices-tankers)
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](../../../../../../corpus/07-signal/images/697384ad38ec0feeb4681166_e3cc55c4.png)
 
 
-## Vlccweaker
+## VLCC Weaker
 
 
 ![VLCC Weaker](../../../../../../corpus/07-signal/images/697384ad38ec0feeb4681175_b2a06a5b.png)
@@ -75,7 +75,7 @@ Spot [freight](https://app.signalocean.com/tanker/dynamic/market-prices-tankers)
 - WS rates for MEG–China (TD3C) and WAF–China (TD15) have rebounded from recent lows, but current levels remain below last Friday’s close. Both routes are now trading below WS 130, suggesting that the recent upside correction has yet to be fully confirmed. While near-term gains point to improving sentiment, the market will need to be tested through the remainder of the month to assess whether this upward correction can be sustained.
 
 
-## Suezmaxweaker
+## Suezmax Weaker
 
 
 ![Suezmax Weaker](../../../../../../corpus/07-signal/images/697384ad38ec0feeb468116c_db78842b.png)
@@ -99,7 +99,7 @@ Spot [freight](https://app.signalocean.com/tanker/dynamic/market-prices-tankers)
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](../../../../../../corpus/07-signal/images/697384ad38ec0feeb468117e_33c120ae.png)
 
 
-## Aframaxfirmer
+## Aframax Firmer
 
 
 ![Aframax Firmer](../../../../../../corpus/07-signal/images/697384ad38ec0feeb4681178_e7cb8676.png)
@@ -123,7 +123,7 @@ Spot [freight](https://app.signalocean.com/tanker/dynamic/market-prices-tankers)
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](../../../../../../corpus/07-signal/images/697384ad38ec0feeb4681172_b28edaec.png)
 
 
-## Ballasters| Ag/indiasupply
+## Ballasters| AG/India Supply
 
 *VLCC AG/India Supply Builds, Weighing on recent rate firmness*
 
@@ -143,7 +143,7 @@ Spot [freight](https://app.signalocean.com/tanker/dynamic/market-prices-tankers)
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-04-2026) | [Local Asset](../../../../../../corpus/07-signal/images/697384ad38ec0feeb4681181_64153fe1.png)
 
 
-## Demand|tonne Days
+## Demand| Tonne Days
 
 
 ## Dirty | Decreasing

@@ -86,7 +86,7 @@ Liquefied Natural Gas (LNG) infrastructure has seen significant growth in recent
 Ammonia, as a marine fuel, currently faces limitations in availability. The production, storage, and handling infrastructure for ammonia need further development to support its widespread use in the shipping industry.Methanol, on the other hand, is already a commercially available fuel and has been used as a blend with conventional fuels in some ships. However, its availability as a standalone marine fuel can still be limited in certain regions. Bureau Veritas in October 2022 published a White Paper for the [Alternative Fuels Outlook](http://mission-innovation.net/missions/zero-emission-shipping/#:~:text=The%20Zero%2DEmission%20Shipping%20Mission,when%20they%20renew%20their%20fleet.). This white paper provides a comprehensive overview of alternative fuels for the shipping industry, taking into account key factors such as technological maturity, availability, safety, emissions, and regulations.
 
 
-## The Role of Thesignal Ocean Platformon Emissions Monitoring for Vessels
+## The Role of the Signal Ocean Platform on Emissions Monitoring for Vessels
 
 The vessel emission features provided by the Signal Ocean platform, combined with the Vessel Emissions API, offer valuable tools for participants in the shipping industry. These features enable users to easily access and analyse emissions data for any planned voyage, promoting a simple, systematic, and consistent approach to understanding and comparing emissions.
 

@@ -31,7 +31,7 @@ China is now restricting vessels arriving from nine countries including the U.S.
 What if the whole world — or a large part of the world — started imposing such quarantines? What would longer voyages mean for overall vessel availability?
 
 
-## Mr1s, with Shorter Average Voyage Lengths, Would Be Most Impacted
+## MR1s, with Shorter Average Voyage Lengths, Would Be Most Impacted
 
 
 ![“partial Quarantine”= a 14 Day Quarantine Imposed Only on Vessels Which Originated in Japan, Korea, Iran, France, Germany, Spain, the U.s.a, Singapore, and Italy](../../images/66b5209a515a6ee9692e2ce3_5fc15be53f2172a18875e44a_voyage%2520durations%2520per%2520vessel%2520class%2520during%2520covid.avif)

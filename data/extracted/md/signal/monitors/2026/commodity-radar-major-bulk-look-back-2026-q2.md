@@ -22,7 +22,7 @@ tags:
 
 *Published on 02 July 2026*
 
-## Commodity Radar | Major Bulk Look Back 2026 Q2
+## COMMODITY RADAR | Major Bulk Look Back 2026 Q2
 
 The second quarter of 2026 saw coal flows accelerate as Arabian Gulf supply disruptions redirected Asian power demand, while iron ore held flat and bauxite continued its steady climb.
 

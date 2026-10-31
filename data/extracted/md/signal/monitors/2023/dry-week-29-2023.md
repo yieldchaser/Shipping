@@ -25,7 +25,7 @@ tags:
 
 *Published on 19 July 2023*
 
-## Iron Ore and Coal Dry Bulk Flows to China Daily (25d Ma) Above Year-Earlier Level
+## Iron Ore and Coal Dry Bulk Flows to China Daily (25d MA) Above Year-Earlier Level
 
 
 ![Data Source: The Signal Ocean Platform Data](../../images/64b796be49971de7ab1ef333_Dry_Chart of the Week_Iron Ore & Coal to China.png)

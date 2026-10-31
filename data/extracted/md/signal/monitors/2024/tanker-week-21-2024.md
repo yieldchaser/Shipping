@@ -26,7 +26,7 @@ tags:
 
 *Published on 23 May 2024*
 
-## This Week's Chart Underscores the Declining Trend in Aframax Tonne-Days Growth, Which Has Recently Fallen to Levels Below Those of Last Year. It's Worth Noting That Back Infebruary,we Highlighted the Growth Recorded From the Mediterranean/uk Continent to the Baltic/black Sea.
+## This Week's Chart Underscores the Declining Trend in Aframax Tonne-Days Growth, Which Has Recently Fallen to Levels Below Those of Last Year. It's Worth Noting That Back in February, We Highlighted the Growth Recorded From the Mediterranean/UK Continent to the Baltic/Black Sea.
 
 
 ![664f50f7c250d3421600c872 Chart of the Week 21. Tanker](../../images/664f50f7c250d3421600c872_chart of the week 21. tanker.avif)

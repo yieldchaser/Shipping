@@ -22,7 +22,7 @@ tags:
 
 *Published on 03 July 2025*
 
-## In Our Recent Report Onhow Bauxite Exports From Guinea Are Driving Capesize Demand, We Explored How Surging Demand for Bauxite From China Has Led to the Aluminium Ore Overtaking Coal as the Second-Largest Capesize-Shipped Product. This Report Provides an Update and Gives a Short-Term Outlook on How the Wet Season on Africa’s West Coast May Dampen Vessel Demand.
+## In Our Recent Report on How Bauxite Exports From Guinea Are Driving Capesize Demand , We Explored How Surging Demand for Bauxite From China Has Led to the Aluminium Ore Overtaking Coal as the Second-Largest Capesize-Shipped Product. This Report Provides an Update and Gives a Short-Term Outlook on How the Wet Season on Africa’s West Coast May Dampen Vessel Demand.
 
 
 ![6866655f2d9f122b78cba3e8 Ad 4nxdlkpsppijlkrtx7qs0de4eoxec3ez3un7c Zo9at9twev1pwh6lmnt4iyyzp9hkb2o Cc1nmqkpndmqc0cqb P2nbuihkm1rwq5qg8adushzmdsvghike41dm1mk7urqtt2skzcq](../../../../../../corpus/07-signal/images/6866655f2d9f122b78cba3e8_AD_4nXdLkpspPijLkrTX7Qs0dE4EOXEc3EZ3un7c-ZO9At9TweV1pwH6lMNt4iyyzP9hKB2O-CC1NMQKPndMqc0CQB-P2NbUiHKM1RWq5qG8aDUshZMDSvGHIKE41Dm1mk7URQtT2SkZcQ.png)

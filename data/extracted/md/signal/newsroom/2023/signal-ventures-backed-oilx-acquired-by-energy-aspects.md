@@ -22,7 +22,7 @@ tags:
 
 *Published on 01 February 2023*
 
-## Oilx Is the First Startup Incubated Through Signal Ventures
+## OilX Is the First Startup Incubated Through Signal Ventures
 
 Today marks an important milestone for AI-driven analytics startup, [OilX](https://www.oilx.co/), and its incubator, [Signal Ventures](https://www.thesignalgroup.com/signal-ventures). OilX is acquired by [Energy Aspects](https://www.energyaspects.com/energy-markets/oil-market-analysis/oilx-nowcasting), a leading energy consultancy providing research, analysis and data of all the key energy commodities.
 

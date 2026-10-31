@@ -72,7 +72,7 @@ Looking at Asia (image 2), it is clear that China and India, as well as the main
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/crude-tanker-annual-review-2022) | [Local Asset](../../../../../../corpus/07-signal/images/66b51ee8de06fef35588c36f_63a1692f3de9af8e526cf7c3_image%25202.avif)
 
 
-## Ii. Demand Growth - Tonne Charts
+## II. Demand Growth - Tonne Charts
 
 The changing geopolitical situation, with Russia looking to Asian trading partners, has seen demand tonne days rise to historic record levels this year, (image 3), with a significant boom beginning in August. Since the end of the third quarter of this year, there has been a steady increase to over 240 million metric tonne days, and it is very likely that these spectacular levels will continue as Russia looks for alternative buyers for its oil. The fourth quarter of this year has seen slower growth, but levels are still much higher than November and December last year (around 220-225 million tonnes).
 
@@ -93,7 +93,7 @@ The upward trend in aggregate demand is largely due to the increase in VLCC tonn
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/crude-tanker-annual-review-2022) | [Local Asset](../../../../../../corpus/07-signal/images/66b51ee8de06fef35588c36c_63a169913810de844ff70f45_image%25204.avif)
 
 
-## Iii. Freight Market - WS
+## III. Freight Market - WS
 
 A comparison of freight rates during 2020 to current year levels (image 5) reveals that the market's upturn in 2020 exceeded all expectations. The third quarter of 2022 saw crude oil market rates in the Baltic/Med route for the Suezmax and Aframax segments reach new record highs not seen since early 2020. In the Suezmax segment, BSea/Med Worldscale (WS) rates rose to over 300 and in the Aframax segment to over WS400.
 
@@ -109,7 +109,7 @@ Interestingly, the third quarter of this year brought an upswing for the VLCC se
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/crude-tanker-annual-review-2022) | [Local Asset](../../../../../../corpus/07-signal/images/66b51ee8de06fef35588c35e_63a169bb51a51d2d404a14f2_image%25205.avif)
 
 
-## Iv. Vessel Speeds
+## IV. Vessel Speeds
 
 The upward cycle in the freight market this year has seen crude oil tanker ballast speeds rise steadily since the end of the summer season. The average ballast speed of crude oil tankers at sea is now 11.9 knots, up from 11.3 knots during the same period last year. (image 6) The latest figures are the highest since the beginning of 2020, with the VLCC segment playing an important role in the current increase in seagoing vessel ballast speed.
 

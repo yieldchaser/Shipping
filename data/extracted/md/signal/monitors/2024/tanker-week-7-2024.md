@@ -26,7 +26,7 @@ tags:
 
 *Published on 15 February 2024*
 
-## A Decrease in the Suezmax Dirty Tonne Days From Africa to Med/uk Continent and TCE in February
+## A Decrease in the Suezmax Dirty Tonne Days From Africa to Med/UK Continent and TCE in February
 
 
 ![65ce293a6083aec8b552e8a8 Chart of the Week Tanker (2)](../../images/65ce293a6083aec8b552e8a8_chart of the week tanker (2).png)

@@ -22,7 +22,7 @@ tags:
 
 *Published on 03 December 2025*
 
-## Commodity Radar | Spotlight: Coal
+## COMMODITY RADAR | Spotlight: COAL
 
 
 ## Coal Continues to Lose Power in the China-Bound Capesize Market

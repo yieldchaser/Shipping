@@ -25,10 +25,10 @@ tags:
 
 *Published on 13 August 2026*
 
-## Spotlight of the Week
+## SPOTLIGHT OF THE WEEK
 
 
-## Chinese Buying Builds the Next U.s. Soybean Export Programme
+## Chinese Buying Builds the Next U.S. Soybean Export Programme
 
 
 ![Chinese Buying Builds the Next U.s. Soybean Export Programme](../../../../../../corpus/07-signal/images/6a7d7cfe275ea2a12a268977_9edd697e.png)
@@ -44,7 +44,7 @@ According to USDA export-sale data, China returned to the U.S. new-crop market i
 Physical U.S.–China soybean departures nonetheless remained subdued in Signal Ocean Platform vessel data, with the 7-day moving average at about 11,000 tonnes/day at the end of July. The increase in forward buying has therefore yet to be matched by a comparable rise in physical departures. This leaves part of the recently contracted volume ahead of the physical shipping curve as the U.S. export season approaches.
 
 
-## Freight Market Overview | BDI & Segment Metrics
+## FREIGHT MARKET OVERVIEW | BDI & SEGMENT METRICS
 
 
 ![Freight Market Overview | BDI & Segment Metrics](../../images/6a7d7a5deeb2f0d4d93f0890_Screenshot 2026-08-13 at 09.03.25.png)
@@ -62,7 +62,7 @@ Physical U.S.–China soybean departures nonetheless remained subdued in Signal 
 The BDI rose to 3,089 (+32 day-on-day, +357 WoW) on a strong week for the larger sizes. **Capesize** extended its rally for a third week, the BCI up to 5,105 (+541 WoW) with average C5TC earnings climbing to about $42,797/day (+$4,905 WoW). **Panamax** also strengthened, with the BPI rising to 2,298 (+211 WoW) and the P5TC average up roughly 10% WoW to $20,684/day. The geared sizes lagged: **Supramax** was flat (BSI 1,603, −6 WoW) and **Handysize** softened (BHSI 874, −13 WoW).
 
 
-## Capesize | Analysis
+## CAPESIZE | ANALYSIS
 
 **Freight.** The BCI extended its rally to 5,105 (−23 day-on-day; +541 week-on-week), a third consecutive strong week, with average C5TC earnings up to $42,797/day (+$4,905 WoW). The move stayed Pacific-led: C5 (West Australia–Qingdao) rose to $16.23/mt (+$1.79 WoW, about +12%) and the C10\_182 transpacific round jumped nearly $9,700/day WoW, while C3 (Tubarao–Qingdao) firmed to $35.57/mt (+$0.76 WoW).
 
@@ -101,7 +101,7 @@ The BDI rose to 3,089 (+32 day-on-day, +357 WoW) on a strong week for the larger
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-32-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a7d7cfe275ea2a12a26897a_872481fe.png)
 
 
-## Panamax | Analysis
+## PANAMAX | ANALYSIS
 
 **Freight.** The BPI rose to 2,298 (+23 day-on-day; +211 week-on-week) and the P5TC average gained about 10% WoW to $20,684/day. The rally was broad: P1A\_82 +$2,959, P5\_82 +$2,027, P2A\_82 +$2,124, P6\_82 +$1,650 and P3A\_82 +$1,559 WoW. The grain routes firmed too — P7 (US Gulf–Qingdao) to $73.81/mt and P8 (Santos–Qingdao) to $51.98/mt.
 
@@ -140,7 +140,7 @@ The BDI rose to 3,089 (+32 day-on-day, +357 WoW) on a strong week for the larger
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-32-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a7d7cff275ea2a12a2689a3_4f327907.png)
 
 
-## Supramax | Analysis
+## SUPRAMAX | ANALYSIS
 
 **Freight.** The BSI was essentially flat at 1,603 (−5 day-on-day; −6 week-on-week), but the tape masked a sharp split. US Gulf routes surged — S1C (US Gulf–China/Japan) +$1,639 and S4A (US Gulf–Skaw-Passero) +$2,868 WoW — while Asia/Pacific routes fell, S10 −$706, S8 −$693, S15 −$813 and S1B −$682 WoW. The S10TC average was little changed at $18,224/day (−$78 WoW).
 
@@ -179,7 +179,7 @@ The BDI rose to 3,089 (+32 day-on-day, +357 WoW) on a strong week for the larger
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-32-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a7d7cff275ea2a12a268996_25264eac.png)
 
 
-## Handysize | Analysis
+## HANDYSIZE | ANALYSIS
 
 **Freight.** The BHSI eased to 874 (−2 day-on-day; −13 week-on-week), with the split running the other way: the Atlantic softened — HS4\_38 (US Gulf) −$1,290, HS3\_38 (Rio de Janeiro–Recalada) −$423 and HS2\_38 (Skaw-Passero–Boston) −$214 WoW — while the Pacific held up (HS5, HS6 and HS7 modestly higher). The HS7TC average slipped to $15,729/day (−$240 WoW).
 
@@ -218,7 +218,7 @@ The BDI rose to 3,089 (+32 day-on-day, +357 WoW) on a strong week for the larger
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-32-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a7d7cff275ea2a12a2689a9_c62ad48e.png)
 
 
-## Overall Market Trend | Conclusions
+## OVERALL MARKET TREND | CONCLUSIONS
 
 
 ![Overall Market Trend | Conclusions](../../images/6a7d7b4dda8a11e1de705ee4_Screenshot 2026-08-13 at 09.07.19.png)

@@ -22,7 +22,7 @@ tags:
 
 *Published on 26 March 2026*
 
-## Commodity Radar | Spotlight: Steel
+## COMMODITY RADAR | Spotlight: STEEL
 
 
 ## The War in Iran Will Have Knock-On Effects for the Steel Markets in the Upcoming Months.

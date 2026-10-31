@@ -26,7 +26,7 @@ tags:
 
 *Published on 17 May 2024*
 
-## This Week's Chart Highlights the Trend in VLCC (Very Large Crude Carrier) Tonne-Days Growth, Which Has Been Decreasing Consistently Since Ourlast Review in Week 17, Just Before the End of April.
+## This Week's Chart Highlights the Trend in VLCC (Very Large Crude Carrier) Tonne-Days Growth, Which Has Been Decreasing Consistently Since Our Last Review in Week 17 , Just Before the End of April.
 
 
 ![6647396c558f9905522d380f Screenshot 2024 05 17 at 11.55.44](../../images/6647396c558f9905522d380f_Screenshot 2024-05-17 at 11.55.44.png)

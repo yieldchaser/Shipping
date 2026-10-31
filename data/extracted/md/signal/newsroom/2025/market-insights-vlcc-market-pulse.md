@@ -22,13 +22,13 @@ tags:
 
 *Published on 07 October 2025*
 
-## Market Insights: VLCC Market Pulse
+## MARKET INSIGHTS: VLCC Market Pulse
 
 
-## 1-Week Ahead Market Sentiment: TD3C Outlook Turnsmoderately Bullish
+## 1-Week Ahead Market Sentiment: TD3C Outlook Turns Moderately Bullish
 
 
-#### Arabian Gulf–china VLCC Rates (TD3C) Appear Set for a Modest Rebound as Vessel Supply Tightens and Chinese Port Congestion Rises.
+#### Arabian Gulf–China VLCC Rates (TD3C) Appear Set for a Modest Rebound as Vessel Supply Tightens and Chinese Port Congestion Rises.
 
 
 - The **TD3C spot rate** has declined **19.8% WoW**. **Forward levels show clear premiums**, with the **current month FFA trading +6.7 WS**, the **balance of the month +6.0 WS**, and the **one-month forward contract +6.5 WS** above the spot rate.

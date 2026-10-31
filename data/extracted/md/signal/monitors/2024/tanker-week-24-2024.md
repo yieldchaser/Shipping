@@ -26,7 +26,7 @@ tags:
 
 *Published on 14 June 2024*
 
-## This Week's Chart Highlights the Declining Trend in the Quarterly Volume of Dirty Oil Flows to China for the Second Quarter of This Year, Primarily Driven by a Slowdown in Russian Oil Exports Compared to Last Year's Record Pace. in Contrast, Saudi Arabia Has Maintained a Strong Pace, with Quarterly Volumes Not Falling Below Last Year's Levels. in Earlymarch, We Noted a Strengthening Momentum in Market Rates for the VLCC-AG China Route, Which Did Not Last. However, This Trend May Firm Up as the Quarterly Volume of Dirty Oil Shipments From Saudi Arabia Stabilises.
+## This Week's Chart Highlights the Declining Trend in the Quarterly Volume of Dirty Oil Flows to China for the Second Quarter of This Year, Primarily Driven by a Slowdown in Russian Oil Exports Compared to Last Year's Record Pace. in Contrast, Saudi Arabia Has Maintained a Strong Pace, with Quarterly Volumes Not Falling Below Last Year's Levels. in Early March , We Noted a Strengthening Momentum in Market Rates for the VLCC-AG China Route, Which Did Not Last. However, This Trend May Firm Up as the Quarterly Volume of Dirty Oil Shipments From Saudi Arabia Stabilises.
 
 
 ![666c045013b7abb0c962e1d7 Tanker Chart](../../images/666c045013b7abb0c962e1d7_tanker chart.png)

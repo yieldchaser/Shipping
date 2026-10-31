@@ -46,7 +46,7 @@ BunkerEx oil bunker price is global, and covers the largest bunkering hubs in th
 The optimal time to refuel a vessel is when it is between earning periods (i.e. during her ballast leg). While not common, it is also possible to refuel en route during a voyage (the laden leg) should the Charter Party allow. In certain ports (e.g. Sines, Antwerp, Amsterdam) vessels can stem (load) bunkers concurrently with cargo operations. This optionality is crucial in the decision making process when estimating profitability of Time Charter Equivalent (TCE) earnings on a commercial voyage. The Signal Ocean Platform provides confidence to the decision maker by presenting a data driven insight into bunkering options for their voyage.
 
 
-## Technology Can Help - A Day of a Bunkers Purchaser/buyer
+## Technology Can Help - A Day of a Bunkers Purchaser/Buyer
 
 
 ![Bunkering Ports Report at the Signal Ocean Platform.](../../images/66b51d200e11607ea71d5fbc_60c0c9489dbe7a55f04bdbef_bunkering%2520port%2520report%2520signal%2520ocean.avif)

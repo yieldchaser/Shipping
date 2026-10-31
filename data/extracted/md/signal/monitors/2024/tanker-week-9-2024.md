@@ -26,7 +26,7 @@ tags:
 
 *Published on 29 February 2024*
 
-## The Aframax Dirty Tonne Days Experienced a Significant Surge in Growth Starting From Mid-January, Particularly in the Route From the Mediterranean to the Baltic/black Sea
+## The Aframax Dirty Tonne Days Experienced a Significant Surge in Growth Starting From Mid-January, Particularly in the Route From the Mediterranean to the Baltic/Black Sea
 
 
 ![65e08116c0a662247b8dab81 Gqfqnni08xlsyghyzq4ouby3gjmfodlrcevicpjwulxlxce 85cekvlf9pxviwfg1looycdvoqjs2jede3txnbbkxqyfnjwwilm4alztqhwz6r0hjudg9nlpkbazcbf9sqcr33cob9zhoqrifxxewbi](../../../../../../corpus/07-signal/images/65e08116c0a662247b8dab81_gqfQnnI08XlsYGhYZq4OUby3GJmFodlRCEvicPjwULxLxCE-85cEKvLf9pxviWFG1lOoYCdVOqjs2JEde3TXnBBkxqYFNJwwILm4aLztqhWz6r0HJUDG9nlPKbaZCBf9SqcR33CoB9zhOqrifXXEWbI.png)

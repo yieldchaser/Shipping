@@ -22,7 +22,7 @@ tags:
 
 *Published on 19 May 2026*
 
-## Commodity Radar | Spotlight: Bauxite
+## COMMODITY RADAR | Spotlight: BAUXITE
 
 
 ## China Drives Increased Bauxite Flows, But Guinea's Cutback Could Drag on Growth

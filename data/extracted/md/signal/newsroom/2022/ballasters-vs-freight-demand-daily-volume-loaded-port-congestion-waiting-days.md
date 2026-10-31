@@ -35,7 +35,7 @@ For this article, we have used the brand new [C3](https://app.signalocean.com/dr
 Looking at commodity trends, the outlook for iron ore prices remains bearish due to concerns over new Covid 19 restrictions and the real estate sector depressing Chinese demand for ferrous metals. Prices for iron ore cargoes with an iron content of 63.5% for delivery to Tianjin fell to $98/tonne in early September, a level not seen in nearly 10 months, as power outages at Chinese manufacturers and construction companies reduced capacity for steel production and demand for steel inputs. Iron demand from steel producers has also been depressed by decarbonization requirements that cities must implement. Authorities in Tangshan, China's largest steel-producing city, met with steel mills to discuss capacity for the rest of the year, with the goal of reducing output by 8.3 million tonnes per year.
 
 
-## Capesize-Brazil to China (C3)
+## CAPESIZE - Brazil to China (C3)
 
 
 ### I. Supply: Ballasters View vs Freight Rate ($/ton) Firmer
@@ -50,7 +50,7 @@ Looking at commodity trends, the outlook for iron ore prices remains bearish due
 Fewer than 100 ballast ships have sailed to South Africa since August 24, resulting in firmer freight rates from Brazil to China in the first days of September. The number of Capesize ballast vessels is now at its lowest level since January 2022, and rates for the Brazil- North China route have risen to $20/tonne. Overall, the average number of ballast vessels has dropped to 79 in the last 12 days from 131 vessels in the first half of August.
 
 
-### Ii. Demand: Daily Volume Loaded Increasing
+### II. Demand: Daily Volume Loaded Increasing
 
 Daily volumes shipped have risen to 1 million tons since the end of August, a level not seen since July 18, 2022, and there are signs of a further increase in the coming days of September, which could support the recent upward trend given the lower number of ballast vessels.
 
@@ -64,7 +64,7 @@ Daily volumes shipped have risen to 1 million tons since the end of August, a le
 The current trend in daily volume loaded (3w moving average) appears to be one of the highest since the beginning of the year after the last highs were reached in the first 20 days of July. ****
 
 
-### Iii. Capes Congestion: Per Discharging Country & Waiting Days
+### III. Capes Congestion: Per Discharging Country & Waiting Days
 
 The number of congested ships in both Brazil and China has declined, but there are signs of an increase in waiting days for unloading in Brazil, which could lead to an escalation of congestion in the coming weeks of September.
 
@@ -93,10 +93,10 @@ The number of congested ships in Brazil dropped to 22 in the first week of Septe
 In China, the number is now 93,  a 50% decrease from the congested status we observed earlier this year, with the current trend pointing steeply downward. Recent estimates of congestion in China suggest that freight rates from Brazil to North China are more likely to improve in the third quarter due to fewer ballast vessels and stronger demand for daily cargo volumes.
 
 
-## Panamax-Singapore Rv (P682)
+## PANAMAX - Singapore RV (P6\_82)
 
 
-### Iv.supply: Ballasters View vs Freight Rate ($/ton) Firmer
+### IV. Supply: Ballasters View vs Freight Rate ($/ton) Firmer
 
 Ballast shipments are averaging about 70 vessels, 16 vessels below the August 22, 2022 peak (~86 vessels), while P6\_82 prices have risen to $12/tonne. The first few days of September indicate an upswing in freight rates, although ballast vessels have not yet reached the lows last recorded in the second week of June.
 
@@ -120,7 +120,7 @@ In the first days of September, the growth of daily shipped volume slowed down c
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ballasters-vs-freight-demand-daily-volume-loaded-port-congestion-waiting-days) | [Local Asset](../../../../../../corpus/07-signal/images/66b51e99da739356d2505da7_63185da60164366ecabd3818_panamax%2520daily%2520loaded.avif)
 
 
-### Vi. Panamax Congestion: Per Discharging Country & Waiting Days Brazil - China - India: Decreasing
+### VI. Panamax Congestion: Per Discharging Country & Waiting Days Brazil - China - India: Decreasing
 
 The number of congested vessels has decreased significantly since the last peak on August 27, 2022. The number of congested Panamax vessels decreased to 126 vessels in China (~40 fewer compared to the previous peak), 34 in India (~10 fewer), and 11 in Brazil (~2fewer).
 

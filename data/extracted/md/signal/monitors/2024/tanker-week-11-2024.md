@@ -26,7 +26,7 @@ tags:
 
 *Published on 15 March 2024*
 
-## The Announcements of Opec Oil Productions in January and February Appeared to Have Little Impact on the Volume of Dirty Shipments to Asian Destinations.
+## The Announcements of OPEC Oil Productions in January and February Appeared to Have Little Impact on the Volume of Dirty Shipments to Asian Destinations.
 
 
 ![Data Source: The Signal Ocean Platform](../../../../../../corpus/07-signal/images/65f425fe653c89d7955420e8_tanker.png)

@@ -71,7 +71,7 @@ In the top origin countries, we can view Saudi Arabia ranking in the first posit
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/russias-seaborne-oil-flows-changing-patterns) | [Local Asset](../../../../../../corpus/07-signal/images/66b51e500b93d843e74a8cdc_628f5929e1a3035a8edb3a07_image%25203.avif)
 
 
-## Oil Flows to the U.s. Destination Country | Their Dependence on Russian Supply
+## Oil Flows to the U.S. Destination Country | Their Dependence on Russian Supply
 
 After the official announcement of the U.S. ban on Russian oil imports, the daily exported volume of crude flows from Russia to the U.S. dropped instantly, reflecting the declining reliance on Russian crude, (Image 4). It is noteworthy to remind here that the U.S. turned to Russian oil after sanctions were imposed on Venezuela in 2019 as Venezuelan crude oil has similar characteristics to Russian crude. However, the latest Russia-Ukraine tensions triggered the decision of the U.S. to end their relationship with the world’s second-largest oil exporter and increase their self-dependence in the short term. In the below image, we can view the US decrease in Russian oil imports during March and April, while the last high was seen in February.
 

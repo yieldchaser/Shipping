@@ -22,7 +22,7 @@ tags:
 
 *Published on 14 August 2026*
 
-## Market Insights | China Supply and Demand Outlook | August 2026
+## MARKET INSIGHTS | CHINA SUPPLY AND DEMAND OUTLOOK | AUGUST 2026
 
 
 ## China Thermal Coal Outlook: Domestic Supply Keeps Import Needs Contained

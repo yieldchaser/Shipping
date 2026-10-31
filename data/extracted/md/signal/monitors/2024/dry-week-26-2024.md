@@ -25,7 +25,7 @@ tags:
 
 *Published on 26 June 2024*
 
-## This Week's Chart (on the Right) Illustrates the Relationship Between the Number of Ballast Vessels on the Capesize C3 Route and the Evolution of C3 $/mt Freight Rates (Brazil - Nchina). We Observe a Gradual Decline in the Number of Ballasters Following a Sudden Spike at the Beginning of June, Alongside a Strengthening Trend in Freight Market Rates as We Approach the End of the Second Quarter.
+## This Week's Chart (on the Right) Illustrates the Relationship Between the Number of Ballast Vessels on the Capesize C3 Route and the Evolution of C3 $/mt Freight Rates (Brazil - NChina). We Observe a Gradual Decline in the Number of Ballasters Following a Sudden Spike at the Beginning of June, Alongside a Strengthening Trend in Freight Market Rates as We Approach the End of the Second Quarter.
 
 
 ## Meanwhile, the Left Chart Analyses the Number of Ballasters for the C5 Route (Australia - China), Showing a Similar Trend with a Recent Decrease in Ballast Vessels. However, Unlike the C3 Route, Freight Rates for the C5 Route Have Not Yet Shown Signs of Recovery.

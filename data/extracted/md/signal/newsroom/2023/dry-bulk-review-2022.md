@@ -97,7 +97,7 @@ Looking at China as the main destination for bulk flows and demand growth, **ima
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-review-2022) | [Local Asset](../../../../../../corpus/07-signal/images/66b51f0722b99415d77d9b27_63bc1e052f1b692076f1487f_image%25205%2520iron%2520ore%2520-%2520coal%2520to%2520china.avif)
 
 
-## Ii. Demand Growth - Tonne Charts
+## II. Demand Growth - Tonne Charts
 
 The higher volume of iron ore and coal dry bulk flows to China is reflected in the growth of dry bulk demand tonne-days, where the fourth quarter of the year ended with increasing momentum in the Capesize and Panamax segments. Overall, the tonne-days trend for the larger vessel categories was higher than in 2021 and 2020, and December suggests similar strength for the first days of 2023, (**image** 6).
 
@@ -118,7 +118,7 @@ Looking at the smaller ship segments (**image** 7), growth in tonne-days was als
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/dry-bulk-review-2022) | [Local Asset](../../../../../../corpus/07-signal/images/66b51f0722b99415d77d9b43_63bc1e8b0f5db04879554367_image%25207.demand%2520ton%2520charts%2520supra%2520-%2520handy.avif)
 
 
-## Iii. Freight Market - $/tonne
+## III. Freight Market - $/tonne
 
 Overall, 2022 was a year of strong growth in freight rates for the larger vessel categories, although rates for Capesize vessels grew at a slower pace after the exceptionally high levels of 2021 (**image** 8). Although the freight market for the larger vessel categories was above 2020 levels, rates for the Supramax and Handysize vessel classes were very weak, while the Panamax segment appears to be the winner in 2022. In the last days of the year ending, Panamax freight rates showed a strong performance and Asian coal demand paved the way for stronger demand and higher freight rates in the upcoming first quarter of the New Year.
 

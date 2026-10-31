@@ -25,7 +25,7 @@ tags:
 
 *Published on 07 October 2026*
 
-## Spotlight of the Week
+## SPOTLIGHT OF THE WEEK
 
 
 ## Coal in Focus — China’s 2027–28 US Coal Commitment
@@ -45,7 +45,7 @@ tags:
 **What would have to happen for this to reach freight.** Any Atlantic employment effect is conditional on the loading coast. Only the share of the programme loading at US Gulf or East Coast terminals would add cargo to Atlantic loading programmes; volumes loading on the Pacific coast would produce a different employment pattern. Where Atlantic stems displace shorter Pacific coal voyages they would raise tonne-mile demand per tonne carried, but a US cargo sold to China instead of an existing customer changes the route without necessarily adding global volume.
 
 
-## Freight Market Overview | BDI & Segment Metrics
+## FREIGHT MARKET OVERVIEW | BDI & SEGMENT METRICS
 
 
 ![Freight Market Overview | BDI & Segment Metrics](../../images/6ac6006f8588599db95ae20f_Screenshot 2026-10-07 at 09.17.52.png)
@@ -83,7 +83,7 @@ Panamax Pacific routes eased, P3A\_82 down $766 and P5\_82 down $225, a pattern 
 The largest single regional concentration of the week was 235 Capesize ballasters in Australasia, followed by 213 Panamax in the same region. Panamax carried the largest global count at 780 and Capesize the smallest at 620, with Capesize open tonnage heavily weighted to the Pacific. Within Handysize, the North Atlantic including the Mediterranean and Black Sea held that segment’s largest pool at 174 vessels.
 
 
-## Capesize | Analysis
+## CAPESIZE | ANALYSIS
 
 **Freight.** The BCI fell 742 points to 5,042 (+32 on the day). C5TC(180), the 180,000 dwt timecharter average, lost $6,726 to $42,228/day, the largest weekly decline of the four segments; C5TC(182), the 182,000 dwt benchmark that became the market standard in January 2026, closed at $45,731/day. Losses were spread across the basket, with the China–Brazil/West Africa round (C14\_182, −$8,880 to $41,814/day) and the China–Japan transpacific round (C10\_182, −$7,017 to $38,846/day) leading. The Cont-Med trip to China–Japan (C9\_182) remained the highest-paid route in the basket at $87,400/day; the transatlantic round (C8\_182) was the highest-paying round-voyage route at $57,719/day despite a $5,219 fall. The index finished 1,121 points above its level a quarter ago and 2,322 points above a year ago, against a 52-week high of 6,427 and a low of 2,175.
 
@@ -125,7 +125,7 @@ On the forward balance the two supply measures diverge: for C3, total supply run
 *Figure 6: Capesize — demand-to-supply ratio (LHS bars, four-week-average year-on-year growth; above 1.00 = tonne-mile demand growing faster than available tonnage) against the C5TC weekly average (RHS line). Available tonnage excludes VLOC tonnage on long-term contract. Shaded band = latest six provisional weeks. The annotated $48,901/day is the settled weekly average for the week ending 1 October 2026 as supplied in the research input; it is not the 2 October closing assessment quoted above, and the underlying series is not reproduced in this report (Source: Signal; Baltic Exchange).*
 
 
-## Panamax | Analysis
+## PANAMAX | ANALYSIS
 
 **Freight.** The BPI eased 35 points to 2,372 and the P5TC average fell $313 to $21,349/day. Every route in the basket finished lower. P3A\_82 (Hong Kong–South Korea transpacific) fell $766 to $20,597/day, P2A\_82 (Skaw–Gibraltar trip to Taiwan–Japan) $271 to $30,622/day and P6\_82 (Singapore round via Atlantic) $268 to $21,407/day. P5\_82 (South China/Indonesian round) eased $225 to $19,081/day, P4\_82 $73 to $13,106/day and P1A\_82 (Skaw–Gibraltar transatlantic round) just $27 to $21,618/day. The grain routes softened marginally, P7 (US Gulf–Qingdao) down $0.16 to $76.88/mt and P8 (Santos–Qingdao) down $0.28 to $56.94/mt. The index remains 177 points above its level a quarter ago, against a 52-week high of 2,521 and a low of 1,266.
 
@@ -168,7 +168,7 @@ On the forward balance, total supply finishes below expected demand on all four 
 *Figure 10: Panamax — demand-to-supply ratio (LHS bars, four-week-average year-on-year growth) against the P5TC weekly average (RHS line). Shaded band = latest three provisional weeks. The annotated $21,568/day is the settled weekly average for the week ending 1 October 2026 as supplied in the research input; it is not the 2 October closing assessment quoted above (Source: Signal; Baltic Exchange).*
 
 
-## Supramax | Analysis
+## SUPRAMAX | ANALYSIS
 
 **Freight.** The BSI was all but unchanged, three points higher at 1,789 and eight points below its 52-week high of 1,797. The S11TC average rose $40 to $22,619/day and the Asia index S3TC\_63 gained $159 to $21,213/day. The gains came from both basins. In the Atlantic, S9 (West Africa trip via East Coast South America to Skaw-Passero) rose $503 to $23,981/day, S4B (Skaw-Passero to US Gulf) $210 to $15,519/day and S5 (West Africa via East Coast South America) $59 to $28,100/day.
 
@@ -213,7 +213,7 @@ On the forward balance, total supply ends above expected demand on all four pane
 *Figure 14: Supramax — demand-to-supply ratio (LHS bars, four-week-average year-on-year growth) against the S11TC weekly average (RHS line). Shaded band = latest three provisional weeks. The annotated $22,637/day is the settled weekly average for the week ending 1 October 2026 as supplied in the research input; it is not the 2 October closing assessment quoted above (Source: Signal; Baltic Exchange).*
 
 
-## Handysize | Analysis
+## HANDYSIZE | ANALYSIS
 
 **Freight.** The BHSI slipped four points to 1,007, six points below its 52-week high of 1,013, and the HS7TC average eased $73 to $18,117/day. The split within the basket was clear. Continent departure routes firmed, HS2\_38 (Skaw-Passero to Boston–Galveston) rising $500 to $14,514/day and HS1\_38 (Skaw-Passero to Rio de Janeiro) $357 to $10,607/day, while HS7\_38 (North China–South Korea–Japan) added $119 to $18,169/day.
 
@@ -258,7 +258,7 @@ On the forward balance, total supply sits comfortably above expected demand on t
 *Figure 18: Handysize — demand-to-supply ratio (LHS bars, four-week-average year-on-year growth) against the HS7TC weekly average (RHS line). Shaded band = latest five provisional weeks. The annotated $18,194/day is the settled weekly average for the week ending 1 October 2026 as supplied in the research input; it is not the 2 October closing assessment quoted above (Source: Signal; Baltic Exchange).*
 
 
-## Overall Market Trend | Conclusions
+## OVERALL MARKET TREND | CONCLUSIONS
 
 
 ![Overall Market Trend | Conclusions](../../images/6ac60110a5edd3c4dcbcce20_Screenshot 2026-10-07 at 09.18.22.png)

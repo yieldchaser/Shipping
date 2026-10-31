@@ -25,7 +25,7 @@ tags:
 
 *Published on 03 September 2026*
 
-## Spotlight of the Week
+## SPOTLIGHT OF THE WEEK
 
 
 ## Black Sea Disruption Redirects Russian Wheat Towards the Baltic
@@ -52,7 +52,7 @@ The decline extended across vessel-size categories, with the geared segments bea
 **Data coverage.** The analysis covers wheat only; records containing other grain commodities have been excluded. Load ports are the four deep-sea terminals of Novorossiysk, Taman, Kavkaz and Tuapse. Sea of Azov, rivers, and shallower-draft ports are outside the scope. Voyages are counted once and identified by vessel, voyage number, load date, and load port. Cargo is assigned by load date. The 2026 bars separate cargo on completed voyages from cargo still underway; the 2025 comparison is 99.7% completed. These are vessel movements rather than customs statistics and do not include grain moving by rail or through land borders. Period covered. The analysis covers 23 July to 28 August 2026—the five weeks from the escalation in attacks on shipping and port infrastructure to the latest common load date in the dataset. 2025 comparison. The comparison uses the identical calendar dates in 2025, the same terminals, and the same wheat-only cargo filter. The 2025 period represents only the equivalent five-week window and not the full calendar year.
 
 
-## Freight Market Overview | BDI & Segment Metrics
+## FREIGHT MARKET OVERVIEW | BDI & SEGMENT METRICS
 
 
 ![Baltic Dry Index - Spot Rate Summary Across Segments and BDI Performance as of 28 Aug 2026](../../images/6a993c893b3cbeb27ba7860e_Screenshot 2026-09-03 at 10.23.08.png)
@@ -70,7 +70,7 @@ The decline extended across vessel-size categories, with the geared segments bea
 The BDI rose to 3,186 (+79 day-on-day, +345 WoW) on a stronger week for the larger sizes. Capesize led the increase, with the BCI rising to 5,336 (+784 WoW) and average C5TC earnings climbing to $44,896/day (+$7,111 WoW). Panamax also strengthened, with the BPI rising to 2,315 (+212 WoW) and the P5TC average up to $20,834/day (+$1,906 WoW). The geared sizes were steady: Supramax was flat (BSI 1,647, +7 WoW) and Handysize unchanged on the day (BHSI 881, +7 WoW).
 
 
-## Capesize | Analysis
+## CAPESIZE | ANALYSIS
 
 **Freight.** The BCI rose to 5,336 (+198 day-on-day; +784 week-on-week), with average C5TC earnings up to $44,896/day (+$7,111 WoW) and the 180,000 dwt adjusted average at $48,399/day. The move extended to the Atlantic: C8\_182 (Gibraltar/Hamburg transatlantic round) rose $10,000/day WoW to $50,188/day, while C2 (Tubarao–Rotterdam) firmed to $16.89/mt (+$1.65 WoW) and C7 (Bolivar–Rotterdam) to $21.30/mt (+$2.44 WoW). C3 (Tubarao–Qingdao) rose to $38.36/mt (+$2.58 WoW) and C5 (West Australia–Qingdao) to $16.18/mt (+$1.59 WoW, about +11%).
 
@@ -109,7 +109,7 @@ The BDI rose to 3,186 (+79 day-on-day, +345 WoW) on a stronger week for the larg
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a993e0ccb228466bb3b48e2_084abdbd.png)
 
 
-## Panamax | Analysis
+## PANAMAX | ANALYSIS
 
 **Freight.** The BPI rose to 2,315 (+23 day-on-day; +212 week-on-week) and the P5TC average gained $1,906 WoW to $20,834/day. The rally was broad: P3A\_82 +$2,372 to $19,300/day, P1A\_82 +$2,023 to $20,541/day, P6\_82 +$1,897 to $22,033/day, P5\_82 +$1,742 to $16,981/day and P2A\_82 +$1,594 to $30,339/day. P4\_82 lagged at $12,300/day (+$789 WoW).
 
@@ -148,7 +148,7 @@ The BDI rose to 3,186 (+79 day-on-day, +345 WoW) on a stronger week for the larg
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a993e0ccb228466bb3b48eb_1e91e3e3.png)
 
 
-## Supramax | Analysis
+## SUPRAMAX | ANALYSIS
 
 **Freight.** The BSI was essentially flat at 1,647 (+2 day-on-day; +7 week-on-week), with a split across the basins. Asia firmed — S3TC\_63 +$385 to $19,205/day and S2 +$444 to $19,050/day — while the Mediterranean and West Africa routes eased, S1B −$929 to $23,371/day and S3 −$200 to $19,400/day. S1C slipped $66 to $30,356/day. The S10TC average rose to $18,785/day (+$91 WoW), with S11TC at $20,819/day.
 
@@ -187,7 +187,7 @@ The BDI rose to 3,186 (+79 day-on-day, +345 WoW) on a stronger week for the larg
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a993e0ccb228466bb3b48f7_67f367d8.png)
 
 
-## Handysize | Analysis
+## HANDYSIZE | ANALYSIS
 
 **Freight.** The BHSI was unchanged on the day and +7 on the week at 881, with the HS7TC average up to $15,855/day (+$126 WoW). The gains were in South America and Asia — HS3\_38 (Rio de Janeiro–Recalada) +$1,238 to $22,494/day, HS2\_38 +$264 to $10,721/day and HS5\_38 +$200 to $18,081/day — while the US Gulf and North European legs eased: HS4\_38 −$672 to $14,964/day, HS1\_38 −$171 to $7,993/day and HS6\_38 −$81 to $17,225/day.
 
@@ -226,7 +226,7 @@ The BDI rose to 3,186 (+79 day-on-day, +345 WoW) on a stronger week for the larg
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-35-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a993e0ccb228466bb3b4900_54ae7deb.png)
 
 
-## Overall Market Trend | Conclusions
+## OVERALL MARKET TREND | CONCLUSIONS
 
 
 ![Overall Market Trend | Conclusions](../../images/6a993dbb8e93de031de2baf9_Screenshot 2026-09-03 at 10.28.12.png)

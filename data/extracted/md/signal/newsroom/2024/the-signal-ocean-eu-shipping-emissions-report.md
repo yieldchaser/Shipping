@@ -36,7 +36,7 @@ This exclusive report dive into the critical role of dry bulk and tanker vessel 
 Let's initiate our analysis  with a broader perspective and juxtaposing EU shipping emissions against the total CO₂ tons emitted to evaluate the scale and environmental implications of maritime activities within the European Union.
 
 
-## EU vs Global Co2 Tons Emitted
+## EU vs Global CO2 Tons Emitted
 
 When examining the overall EU emissions in comparison to global emissions for both dry and wet segments, as depicted in **Image** 1, it's evident that less than 4% of global tanker emissions originate from Europe, with dry vessels contributing less than 2%. However, it's essential not to interpret these figures as a justification for European shipowners to remain passive. Instead, European shipowners have made a commitment to themselves starting from January 2024 to uphold their dedication to implementing and championing initiatives that promote cleaner and more sustainable practices within the maritime sector. By taking proactive steps, they will not only play a pivotal role in shaping a greener future for the EU but also contribute significantly to global sustainability efforts.
 

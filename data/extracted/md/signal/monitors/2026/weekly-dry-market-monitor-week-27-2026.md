@@ -25,7 +25,7 @@ tags:
 
 *Published on 07 July 2026*
 
-## Spotlight of the Week
+## SPOTLIGHT OF THE WEEK
 
 
 ## Capesize C3 & C5 Supply vs Demand
@@ -42,7 +42,7 @@ tags:
 **C5 (West Australia–Qingdao):** The current forward balance shows cumulative vessel supply tracking above expected demand across most of the forward window, indicating relatively greater vessel availability under current conditions.
 
 
-## Freight Market Overview | BDI & Segment Metrics
+## FREIGHT MARKET OVERVIEW | BDI & SEGMENT METRICS
 
 
 ![Freight Market Overview | BDI & Segment Metrics](../../images/6a4cd3f4c741fad54137f86f_Screenshot 2026-07-07 at 11.24.22.png)
@@ -55,7 +55,7 @@ Capesize led the market up: BCI rose to 4,100 (Day +179, Week +460), lifting the
 All data and commentary reflect market conditions as of [3 July 2026], unless otherwise stated.
 
 
-## Capesize | Analysis
+## CAPESIZE | ANALYSIS
 
 This week, the analysis focuses on the Capesize supply vs demand balance. On the two iron-ore benchmarks, the C3 (Tubarão–Qingdao) route shows supply initially below expected demand through early to late July 2026 before gradually exceeding it into early August, indicating increasing forward vessel availability, while C5 (West Australia–Qingdao) shows supply above expected demand across most of the forward window, indicating higher forward vessel availability.
 
@@ -87,7 +87,7 @@ Capesize and VLOC tonne-mile indices converge toward the low-90% range, with the
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a4cd55e6c0d056548119363_0dbb8294.png)
 
 
-## Panamax | Analysis
+## PANAMAX | ANALYSIS
 
 BPI 2,203 (Day +8, Week +93) — marginally firmer, round-voyage-led. P1A\_82 (+385) and P2A\_82 (+365) are firm on the transatlantic and Pacific rounds. P5TC TC avg 19,825 $/day. The index continues to trade above the 5-year average of 1,894 and well above the 2025 low of 748. 52-wk high 2,521.
 
@@ -167,7 +167,7 @@ Global ballaster fleet rose to 705 vessels (+23% WoW). Australasia (+39% WoW) re
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a4cd55e6c0d05654811936f_e6d36c22.jpeg)
 
 
-## Supramax | Demand
+## SUPRAMAX | DEMAND
 
 Handymax is the standout with the strongest tonne-mile signal; Supramax firm but spot easing off its high; Handysize softer on tonne-miles even as spot consolidates near highs.
 
@@ -185,7 +185,7 @@ Handymax is the standout with the strongest tonne-mile signal; Supramax firm but
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a4cd48c6c0d056548112016_Screenshot%202026-07-07%20at%2011.27.06.png)
 
 
-## Handysize | Analysis
+## HANDYSIZE | ANALYSIS
 
 BHSI edged lower to 942 (-2 day-on-day; -3 week-on-week) following a recent test of 52-week highs. Average HS7TC earnings eased to $16,960/day (-$30 day-on-day), with firmer Atlantic activity partly offsetting weaker Pacific routes. Despite the recent pullback, the index remains close to its 52-week high (947), above the 52-week low (588) and its 5-year average (877).
 
@@ -217,7 +217,7 @@ Global ballaster fleet rose to 682 vessels (+12% WoW). The North Atlantic (223) 
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-27-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a4cd55e6c0d05654811938f_7b6f8ac8.jpeg)
 
 
-## Overall Market Trend | Conclusions
+## OVERALL MARKET TREND | CONCLUSIONS
 
 
 ![Overall Market Trend | Conclusions](../../images/6a4cd4d355a76a7d6ff73bef_Screenshot 2026-07-07 at 11.28.24.png)

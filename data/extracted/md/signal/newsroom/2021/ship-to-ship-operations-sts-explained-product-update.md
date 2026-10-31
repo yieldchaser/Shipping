@@ -40,7 +40,7 @@ That said, STS procedures require robust shipping operations management to mitig
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ship-to-ship-operations-sts-explained-product-update) | [Local Asset](../../../../../../corpus/07-signal/images/66b51f522e7da8e9b64fbfbe_60b8bf47334993946610de05_shutterstock_1701584185%2520(1)%2520(1).avif)
 
 
-## How Sts Operations Report Work in the Signal Ocean Platform
+## How STS Operations Report Work in the Signal Ocean Platform
 
 The STS Operations report displays all Ship-to-Ship Operations carried out at specific areas or ports, within a selected time frame, going back 12 months. Users can select a combination of areas and/or ports to focus on.
 
@@ -61,12 +61,12 @@ The report focuses on 3 types of STS operations, including Lightering (when a bi
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ship-to-ship-operations-sts-explained-product-update) | [Local Asset](../../../../../../corpus/07-signal/images/66b51f522e7da8e9b64fbfb0_60b8c05c2747675ba2dc6f07_STS%2520in%2520voyage%2520history.avif)
 
 
-## Why Is Monitoring Sts Operations Useful for Players Involved in Commercial Shipping and Commodities Trading?
+## Why Is Monitoring STS Operations Useful for Players Involved in Commercial Shipping and Commodities Trading?
 
 Understanding STS load and/or/ discharge operations can be very useful when trying to track vessels and understand cargo flows. There are well-known areas (like the US Gulf and Singapore) that constitute key hubs for STS operations, mainly due to port restrictions preventing larger vessels from entering. Monitoring STS operations is critical for charterers, traders, and analysts involved in vessel operations and broader shipping company strategies. Hubs such as the US Gulf and Singapore frequently serve as STS hotspots due to port limitations.
 
 
-## How Are Sts Operations Identified, Using Data and Technology?
+## How Are STS Operations Identified, Using Data and Technology?
 
 Signal has developed state-of-the-art Machine Learning algorithms that fuse different data sources like [AIS data](https://en.wikipedia.org/wiki/Automatic\_identification\_system), commercial market data, and a proprietary geofencing, to accurately identify when two vessels are in the process of conducting STS operations. The algorithms exhibit generic and robust performance and are capable to efficiently recognise STS operations across the globe. Complex scenarios can also be recognised like STS operations involving multiple active or storage vessels.
 

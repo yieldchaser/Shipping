@@ -26,7 +26,7 @@ tags:
 
 *Published on 01 December 2023*
 
-## The Congestion in the Panama Canal Remained Significant for Mr, Which Had a Positive Impact on Usg Rates
+## The Congestion in the Panama Canal Remained Significant for MR, Which Had a Positive Impact on USG Rates
 
 
 ![6569b3c761c0e4a60a51fc16 Panama Congestion](../../images/6569b3c761c0e4a60a51fc16_PANAMA CONGESTION.png)

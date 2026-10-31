@@ -22,7 +22,7 @@ tags:
 
 *Published on 03 February 2026*
 
-## Market Insights: Crude Oil
+## Market Insights: CRUDE OIL
 
 
 ## Energy Realignment: India Drops Russian Crude, Secures US Tariff Relief

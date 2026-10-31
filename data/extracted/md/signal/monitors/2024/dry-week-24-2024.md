@@ -25,7 +25,7 @@ tags:
 
 *Published on 12 June 2024*
 
-## This Week's Chart Visualises the 14-Day Moving Average of Actual Port Days for Energy Cargo at Far Eastern Ports, Comparing the Capesize, Panamax, and Supramax Segments. as Shown in the Image Below, There Is a Notable Decreasing Trend in the Capesize Segment, with the Number of Days Recently Dropping to One of the Lowest Points Since Early 2021.
+## This Week's Chart Visualises the 14-day Moving Average of Actual Port Days for Energy Cargo at Far Eastern Ports, Comparing the Capesize, Panamax, and Supramax Segments. as Shown in the Image Below, There Is a Notable Decreasing Trend in the Capesize Segment, with the Number of Days Recently Dropping to One of the Lowest Points Since Early 2021.
 
 
 ![6669c51e85660f53a602bb6b Untitled (1)](../../images/6669c51e85660f53a602bb6b_Untitled (1).avif)

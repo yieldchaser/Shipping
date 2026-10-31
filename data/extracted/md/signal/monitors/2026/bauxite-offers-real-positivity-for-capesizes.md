@@ -22,7 +22,7 @@ tags:
 
 *Published on 10 February 2026*
 
-## Commodity Radar | Spotlight: Bauxite
+## COMMODITY RADAR | Spotlight: BAUXITE
 
 
 ## Bauxite Offers Real Positivity for Capesizes

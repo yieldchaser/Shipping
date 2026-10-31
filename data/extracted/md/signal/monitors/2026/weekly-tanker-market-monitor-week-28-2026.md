@@ -26,10 +26,10 @@ tags:
 
 *Published on 10 July 2026*
 
-## Spotlight of the Week
+## SPOTLIGHT OF THE WEEK
 
 
-## Crude Tanker Orderbook Broke Its 2008 Record in 1h
+## Crude Tanker Orderbook Broke Its 2008 Record in 1H
 
 With the United States and Iran breaking the ceasefire again this week, the freight market has reacted sharply, resuming its upward trend within days as risk premia around the Strait of Hormuz returned. The Baltic Dirty Tanker Index and the benchmark Middle East Gulf-to-China VLCC route (TD3C) both firmed on the week. This week, however, the focus shifts beyond short-term freight rate movements to the exceptional pace of VLCC newbuilding orders recorded during the first half of 2026.
 
@@ -41,7 +41,7 @@ With the United States and Iran breaking the ceasefire again this week, the frei
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-28-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a50c959112c83b85a9a9389_168f4c33.png)
 
 
-## Executive Summary
+## EXECUTIVE SUMMARY
 
 **•  2008 record broken in a single half-year:** Driven by the robust contracting activity observed during the first half of 2026, the crude tanker orderbook has exceeded its 2008 historical maximum, expanding beyond 600 dirty tankers.
 

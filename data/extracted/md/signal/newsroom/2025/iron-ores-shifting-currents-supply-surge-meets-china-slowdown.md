@@ -39,7 +39,7 @@ In the Pilbara, BHP is doubling down on growth, pledging A$1.4 billion to enhanc
 Brazil’s Vale posted 94.4 Mt in Q3 2025, its strongest quarterly output since 2018, keeping it on track for the top end of its 325–335 Mt guidance. Stronger performance from the Northern System and better weather lifted loadings from Ponta da Madeira and Tubarao, cementing Brazil’s role in the Atlantic-to-Asia trade.
 
 
-## Simandou Nears Launch, Redefining Atlantic–pacific Iron Ore Trade Routes
+## Simandou Nears Launch, Redefining Atlantic–Pacific Iron Ore Trade Routes
 
 In West Africa, momentum is finally building. Simandou in Guinea is moving from construction to early stockpiling, with first shipments expected in late 2025. The long-awaited, high-grade project could redefine trade patterns, positioning West Africa as a new long-haul supplier to China.
 

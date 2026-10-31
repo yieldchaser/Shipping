@@ -40,7 +40,7 @@ Additionally, the Baltic Dry Index continues to reflect fluctuations in demand a
 In the below sections, we will examine the evolution of seaborne grain trade flows, the dynamics of the Brazilian, Ukrainian and U.S. grain markets, the vessel supply - demand dynamics and the freight market rate trends.
 
 
-## Section I : Grain Flows the Global View
+## SECTION I : GRAIN FLOWS THE GLOBAL VIEW
 
 The year 2024 confirms the previous trend recorded in 2023, where Brazil appeared at the top ranking of origin countries, surpassing the percentage share of the United States with 27% instead of 18%. (**Image** 1) A year ago, the United States competed closely with Brazil, each having a similar percentage share of about 21%. In the current year, the trend continues to highlight the strength of the Brazilian market, which holds a 24% share for the first seven months of the year, compared to 19% for the U.S. This solidifies Brazil's position as a leading origin for grain shipments.
 
@@ -78,7 +78,7 @@ This strategic development, combined with favourable agricultural conditions, su
 As we move into the latter half of the year, continued monitoring of the Ukrainian situation will be essential. The trends observed so far suggest that Ukraine is on a strong trajectory, but geopolitical uncertainties and potential disruptions still pose risks. Nevertheless, the current indicators point towards a successful year for Ukrainian exports, contributing positively to the global supply chain and economic stability in the region.
 
 
-## The Impact of Brazil and the U.s. on the Growth of Chinese Imports
+## The Impact of Brazil and the U.S. on the Growth of Chinese Imports
 
 
 ![Image 3: Grain Flows From Brazil and the United States, Years 2023 & Jan-Jul 2024, on a Quarterly Basis](../../images/66b350f21e72aba6309714c6_66b34c1f2d1553e62b69d83a_IMAGE%25203%2520FROM%2520BRAZIL%2520US.avif)
@@ -94,7 +94,7 @@ In contrast, the U.S. market exhibited an opposite trend. The quarterly quantity
 These trends underscore the shifting dynamics in global grain trade. While Brazil strengthens its position as a key supplier to China, the U.S. compensates for its reduced share in the Chinese market by increasing its exports to Japan. The contrasting performances in these markets reflect broader strategic adjustments by both countries in response to global trade demands and geopolitical factors. As the year progresses, it will be crucial to monitor how these trends evolve and their implications for global grain supply chains.
 
 
-## Section Ii : Freight Market Insights
+## SECTION II : FREIGHT MARKET INSIGHTS
 
 This year's strength in Brazilian grain exports to all destinations appears to have a minor impact on the percentage share of shipments by vessel class category, with Panamax vessels still dominating the market. At the end of 2021, when the U.S. was the leading origin country instead of Brazil, the Panamax vessel size accounted for 80% of the business, compared to 12% for the Supramax vessel size.
 

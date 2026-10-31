@@ -22,7 +22,7 @@ tags:
 
 *Published on 25 May 2021*
 
-## Opec Navigates Uneven Oil Demand Recovery Amid Global Shifts
+## OPEC Navigates Uneven Oil Demand Recovery Amid Global Shifts
 
 The patchy pick up in oil demand shows little sign of changing. This month oil deliveries to the Far East recovered but only after dipping in April. It’s likely to stay jittery for a while as regions and industries emerge from the pandemic at differing rates.
 

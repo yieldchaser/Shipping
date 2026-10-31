@@ -25,7 +25,7 @@ tags:
 
 *Published on 18 July 2024*
 
-## This Week's Chart Illustrates the Increase in the Monthly Volume of Ukrainian Grain Shipments During the First Half of This Year (Left Chart), Following Russia's Withdrawal From Theblack Sea Grain Initiativein the Summer of 2023. Despite the Heightened Security Risks and Logistical Challenges, Ukraine Has Managed to Significantly Boost Its Grain Exports Through Alternative Routes and Increased Efficiency.
+## This Week's Chart Illustrates the Increase in the Monthly Volume of Ukrainian Grain Shipments During the First Half of This Year (Left Chart), Following Russia's Withdrawal From the Black Sea Grain Initiative in the Summer of 2023. Despite the Heightened Security Risks and Logistical Challenges, Ukraine Has Managed to Significantly Boost Its Grain Exports Through Alternative Routes and Increased Efficiency.
 
 
 ## The Data Reveal That Spain and China Have Become the Top Destinations for Ukrainian Grain, Each Accounting for 20% of the Total Exports, Followed by Egypt with a 10% Share (Right Chart). This Diversification of Export Destinations Highlights Ukraine's Efforts to Maintain Its Agricultural Trade Flows Amidst Geopolitical Disruptions.

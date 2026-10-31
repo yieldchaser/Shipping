@@ -22,7 +22,7 @@ tags:
 
 *Published on 21 November 2022*
 
-## Thesignal Oceanhas Added Whatsapp Messages as a Way to Update the Vessel Fixtures and Positions in the Signal Ocean Platform.
+## The Signal Ocean Has Added WhatsApp Messages as a Way to Update the Vessel Fixtures and Positions in the Signal Ocean Platform.
 
 Brokers, operators and charterers often use messaging services including WhatsApp as a quick communication channel to update vessel fixtures and positions throughout the day and night: it is an instantaneous way to distribute market data. Typically an email with market updates is then written at the end of the working day, if not the morning after. But if a number of vessels go on subs mid afternoon, then the market can quickly move. Having recent up-to-date information injected into the platform provides our customers with a decision-making edge. At Signal we are obsessed with keeping an accurate count of commercially available vessels at all times. Integrating with instant messaging services takes us another step forward.
 

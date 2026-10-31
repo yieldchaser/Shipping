@@ -22,7 +22,7 @@ tags:
 
 *Published on 23 July 2026*
 
-## Commodity Radar | Steel Chain Look Back 2026 Q2
+## COMMODITY RADAR | Steel Chain Look Back 2026 Q2
 
 The second quarter of 2026 saw sharp divergence across the steel chain. Alloying commodities saw noticeably strong increases in bulk seaborne flows, while bulk steel flows declined by close to 8%.
 

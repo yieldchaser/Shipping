@@ -22,7 +22,7 @@ tags:
 
 *Published on 26 May 2026*
 
-## Market Insights | Russian Crude Exports — Who Carries the Barrels, Jan–apr 2026
+## MARKET INSIGHTS | Russian Crude Exports — Who Carries the Barrels, Jan–Apr 2026
 
 
 ![Signal Ocean Platform — Oil Flows Dashboard, Russian Crude Exports, January–april 2026](../../../../../../corpus/07-signal/images/6a157a6f70609542444348f6_5d346aa5.jpeg)
@@ -39,7 +39,7 @@ Over the first four months of 2026, the Signal Ocean Platform recorded **787 cru
 Three findings stand out. First, Western (G7-coalition) commercial operators are involved in 38% of Russian-port liftings, but only 26% once CPC Blend is stripped. Second, the sanctioned share of total flow rises from 47% on the headline (including CPC) to 57% on a true-Russian-crude basis. Third, the Western fleet active in this trade is mainly old: 53% of the 162 Western vessels involved are over ten years old, rising to 58% of the 110 vessels that touched true-Russian cargo at any point in the period.
 
 
-## Commercial Operators — Western Share Falls Sharply Once Cpc Is Removed
+## Commercial Operators — Western Share Falls Sharply Once CPC Is Removed
 
 
 ![Source: Voyage Records, Jan–apr 2026](../../images/6a1579e067cd794807f32b0a_Screenshot 2026-05-26 at 10.27.45.png)
@@ -53,7 +53,7 @@ The Western market share, initially recorded at 38%, decreases to **25.7%** upon
 Conversely, the Unknown / Unattributed category remains largely unchanged across both analytical perspectives, adjusting from 290 to 287 voyages. Consequently, the activity within this group is almost entirely composed of true-Russian-origin exports. This segment exhibits the highest concentration of sanctions risk, as 90.3% of Unknown voyages involve vessels designated by the EU, OFAC, or OFSI.
 
 
-## Western (g7-Coalition) - Higher Exposure to True Russian Crude per Vessel Size
+## Western (G7-coalition) - Higher Exposure to True Russian Crude per Vessel Size
 
 
 - **CPC Blend:** 134 voyages (44.8% of Western total).

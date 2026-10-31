@@ -25,7 +25,7 @@ tags:
 
 *Published on 22 September 2026*
 
-## Spotlight of the Week
+## SPOTLIGHT OF THE WEEK
 
 
 ## Grain in Focus - US Soybean Sailings to China Recover Through September
@@ -44,7 +44,7 @@ USDA figures put China’s total US soybean commitments for the **2026/27 market
 Private Chinese crushers have largely avoided US cargoes because of the additional **10% tariff** and weak processing margins. Assessments reported in early September indicated that US soybeans for October–January shipment would generate losses even without the additional duty. At those prices, tariff relief alone would offer little incentive for private crushers to book further US shipments, limiting the potential for additional cargo demand beyond the reported state purchases.[https://www.thepoultrysite.com/news/2026/09/chinas-soybean-processors-face-q4-supply-squeeze](https://www.thepoultrysite.com/news/2026/09/chinas-soybean-processors-face-q4-supply-squeeze)
 
 
-## Freight Market Overview | BDI & Segment Metrics
+## FREIGHT MARKET OVERVIEW | BDI & SEGMENT METRICS
 
 **A second week of divergence between the larger and geared sizes.** The BDI eased to 3,370 points (+34 daily, −137 WoW), a second consecutive weekly decline, though the composite finished the week on a positive day. **Panamax** led the fall, the BPI down 156 points to 2,251 with P5TC at $20,262/day (−$1,400 WoW). **Capesize** also eased, the BCI 312 points lower at 5,768 with the C5TC average, on the 180,000 dwt basis, at $48,812/day (−$2,824 WoW); the 182,000 dwt weighted average stood at $52,315/day. Both larger segments nonetheless closed the final session higher, the BCI by 112 points. The geared sizes extended their gains for a second week: **Supramax** firmed (BSI 1,767, +48 WoW) with S11TC at $22,332/day (+$604 WoW) and **Handysize** rose (BHSI 988, +48 WoW) with HS7TC at $17,776/day (+$851 WoW).
 
@@ -79,7 +79,7 @@ Private Chinese crushers have largely avoided US cargoes because of the addition
 **Supramax** carried the largest open tonnage pool at 757 vessels, with 230 in FEAST/NOPAC and 204 in Australasia. **Handysize** stood at 724, with the North Atlantic, including Med/Black Sea, its largest single pool at 210 — the region where the week’s strongest route gains were recorded. **Panamax** totalled 803, split evenly between 212 in the Indian Ocean/South Africa, 208 in FEAST/NOPAC and 204 in Australasia. **Capesize** was the smallest fleet at 589, of which 236 were positioned in Australasia and only 27 in the North Atlantic.
 
 
-## Capesize | Analysis
+## CAPESIZE | ANALYSIS
 
 **Freight.** The BCI eased to 5,768 (+112 day-on-day; −312 week-on-week), with the C5TC average, on the 180,000 dwt basis, at $48,812/day (−$2,824 WoW). The 182,000 dwt weighted average stood at $52,315/day.
 
@@ -124,7 +124,7 @@ The **Pacific** timecharter routes led the decline: C10\_182 (China–Japan tran
 *Figure 6: Capesize — demand-to-supply ratio (LHS bars, four-week-average year-on-year growth; above 1.00 = tonne-mile demand growing faster than available tonnage) against the C5TC weekly average (RHS line). Available tonnage excludes VLOC tonnage on long-term contract. Shaded band = latest six provisional weeks. The line and its annotated value are the settled weekly average for the week ending 17 September 2026 and cover a different period from the 18 September closing assessments quoted above (Source: Signal). The reading is provisional, and the side of 1.00 may still shift on revision; the final loading day of the week is incomplete, and the Capesize demand leg carries no settlement nowcast.*
 
 
-## Panamax | Analysis
+## PANAMAX | ANALYSIS
 
 **Freight.** The BPI fell to 2,251 (−31 day-on-day; −156 week-on-week) and the P5TC average declined $1,400 WoW to $20,262/day, the largest weekly fall of the four segments. Every route in the basket was lower. P3A\_82 (Hong Kong–South Korea transpacific) fell $1,763 to $20,400/day, P6\_82 (Singapore round via Atlantic) $1,703 to $20,640/day, P1A\_82 (Skaw–Gibraltar transatlantic round) $1,218 to $18,859/day and P2A\_82 (Skaw–Gibraltar trip to Taiwan–Japan) $1,105 to $29,598/day. P5\_82 (South China/Indonesian round) eased $783 to $19,461/day, and P4\_82 eased $333 to $12,955/day. The grain routes also softened, with P7 (US Gulf–Qingdao) down $0.34 to $75.95/mt and P8 (Santos–Qingdao) down $0.72 to $56.53/mt.
 
@@ -167,7 +167,7 @@ The **Pacific** timecharter routes led the decline: C10\_182 (China–Japan tran
 *Figure 10: Panamax — demand-to-supply ratio (LHS bars, four-week-average year-on-year growth; above 1.00 = tonne-mile demand growing faster than available tonnage) against the P5TC weekly average (RHS line). Available tonnage excludes VLOC tonnage on long-term contract. Shaded band = latest six provisional weeks. The line and its annotated value are the settled weekly average for the week ending 17 September 2026 and cover a different period from the 18 September closing assessments quoted above (Source: Signal). The reading is provisional, and the tonne-mile leg carries a settlement nowcast for the incomplete final loading day.*
 
 
-## Supramax | Analysis
+## SUPRAMAX | ANALYSIS
 
 **Freight.** The BSI rose to 1,767 (+5 day-on-day; +48 week-on-week), with the S10TC average at $20,298/day and S11TC at $22,332/day, both up $604 WoW. The Asian and West African routes led: S8 (South China via Indonesia) rose $1,560 to $25,229/day, S3 (North China to West Africa) $1,109 to $20,892/day, S1B (Canakkale trip via Mediterranean) $950 to $25,621/day, S3TC\_63 $941 to $20,802/day and S2 (North China one Australian round) $931 to $20,919/day. S4B gained $481 to $15,100/day, and S9 gained $369 to $22,838/day. The US Gulf routes were the exception, with S1C easing $363 to $33,331/day and S4A easing $337 to $32,763/day.
 
@@ -210,7 +210,7 @@ The **Pacific** timecharter routes led the decline: C10\_182 (China–Japan tran
 *Figure 14: Supramax — demand-to-supply ratio (LHS bars, four-week-average year-on-year growth; above 1.00 = tonne-mile demand growing faster than available tonnage) against the S11TC weekly average (RHS line). Available tonnage excludes VLOC tonnage on long-term contract. Shaded band = latest six provisional weeks. The line and its annotated value are the settled weekly average for the week ending 17 September 2026 and cover a different period from the 18 September closing assessments quoted above (Source: Signal). The reading is provisional, and the tonne-mile leg carries a settlement nowcast for the incomplete final loading day.*
 
 
-## Handysize | Analysis
+## HANDYSIZE | ANALYSIS
 
 **Freight.** The BHSI rose to 988 (+8 day-on-day; +48 week-on-week), with the HS7TC average up $851 WoW to $17,776/day. The Atlantic again carried the move: HS4\_38 (US Gulf) jumped $5,221 to $24,000/day, HS3\_38 (Rio de Janeiro–Recalada) rose $945 to $25,167/day, HS2\_38 (Skaw-Passero to Boston-Galveston) $536 to $12,700/day and HS1\_38 (Skaw-Passero to Rio de Janeiro) $471 to $9,464/day. The Pacific was flat to marginally lower; HS7\_38 up $13 to $18,019/day, HS6\_38 down $31 to $17,244/day, and HS5\_38 down $206 to $18,044/day.
 

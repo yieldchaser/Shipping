@@ -80,7 +80,7 @@ A demand benchmark of 8 cargoes per day is applied, reflecting recent observed A
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-03-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69690e633304d4de7497f018_1dd22a16.png)
 
 
-## Vlccmeg- Chinafirmer
+## VLCC MEG- China Firmer
 
 
 ![VLCC MEG- China Firmer](../../../../../../corpus/07-signal/images/69690e633304d4de7497f01e_252fb485.png)
@@ -92,7 +92,7 @@ A demand benchmark of 8 cargoes per day is applied, reflecting recent observed A
 - Spot rates across MEG–China (TD3C), MEG–Singapore (TD2), and WAF–China (TD15) have recorded strong short-term gains, with WoW increases of +18.5%, +16.2%, and +15.1%, respectively, alongside robust YoY growth. However, the strength fades when viewed on a broader time horizon. All three routes remain materially weaker on a MoM basis, with TD2 and TD3C down ~16% MoM and TD15 down ~7% MoM, while QoQ performance remains well below the magnitude of weekly gains.
 
 
-## Ballasters| Ag/indiasupply
+## Ballasters| AG/India Supply
 
 *AG/India Supply Builds, Testing Market Recovery*
 
@@ -112,7 +112,7 @@ A demand benchmark of 8 cargoes per day is applied, reflecting recent observed A
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-03-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69690e633304d4de7497f027_444fd0df.png)
 
 
-## Congestion| Discharge:china
+## Congestion| Discharge: China
 
 
 ![Congestion| Discharge: China](../../../../../../corpus/07-signal/images/69690e633304d4de7497f021_fdd0dc53.png)

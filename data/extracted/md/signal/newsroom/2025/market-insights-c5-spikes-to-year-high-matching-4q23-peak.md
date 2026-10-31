@@ -22,10 +22,10 @@ tags:
 
 *Published on 04 December 2025*
 
-## Market Insights | C5 Spikes to Year-High, Matching 4q23 Peak
+## Market Insights | C5 Spikes to Year-High, Matching 4Q23 Peak
 
 
-### Rising Australian Ore Loadings Keep Upward Pressure on Wa–chinafreight.
+### Rising Australian Ore Loadings Keep Upward Pressure on WA–China Freight.
 
 *In our previous market insights, we explored the* [*Simandou*](https://www.thesignalgroup.com/newsroom/iron-ores-shifting-currents-supply-surge-meets-china-slowdown) *iron ore story and whether it could meaningfully challenge the long-standing dominance of Australian and Brazilian exporters. This week, we shift focus to Western Australia’s iron ore dynamics behind the recent strength in the C5 freight route assessment. With year-end approaching, we review how shipment volumes have evolved and whether Q4 is on track to deliver a firm close for Australia’s iron ore industry.*
 
@@ -42,7 +42,7 @@ tags:
 - Iron ore stockpiles across China’s 45 major ports (tracked by Mysteel) increased by 1.6 million tonnes, or 1%, in the week of Nov 21–27, reaching 152.1 million tonnes, the highest level in nine months and 1% above last year’s level, marking the first year-on-year increase since mid-April.
 
 
-## Spotlight on West Australian Iron Oreflows| China
+## Spotlight on West Australian Iron Ore Flows | China
 
 
 - Seasonal High: China’s Iron Ore Intake from Western Australia exceeded 70M mt in Q4

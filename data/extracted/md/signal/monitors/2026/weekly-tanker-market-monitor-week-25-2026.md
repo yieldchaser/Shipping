@@ -87,7 +87,7 @@ The **Baltic Dirty Tanker Index** (BDTI) surged to a multi-year high of 3,737 po
 By **17 June 2026**, the index had eased to 1,953 points, as diplomatic progress between the United States and Iran reduced concerns over potential disruptions to Gulf crude exports. The decline reflects a partial normalization of freight markets following the unwinding of extreme geopolitical risk premiums. Nevertheless, tanker earnings remain elevated relative to historical averages, suggesting that residual geopolitical uncertainty, ongoing fleet inefficiencies, and the critical role of Middle Eastern exports in global oil balances continue to provide underlying support to freight markets.
 
 
-## Dirtyvlcc
+## Dirty VLCC
 
 **VLCC |**
 
@@ -115,7 +115,7 @@ The outperformance of these Gulf-linked routes indicates that freight sentiment 
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-25-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a3aad779ecdbb816cf27b45_3bd07eb3.png)
 
 
-## Supply Market Trends
+## SUPPLY MARKET TRENDS
 
 This week, the VLCC USG market takes centre stage, where signals of an oversupplied picture have started to reflect in the freight market sentiment.
 
@@ -142,7 +142,7 @@ This week, the VLCC USG market takes centre stage, where signals of an oversuppl
 Persistent vessel surpluses in both the US Gulf and West Africa are likely to limit upside potential for VLCC freight rates in the near term, particularly on TD22 and TD15, unless cargo demand accelerates materially.
 
 
-## Dirty Demand(tonne Miles)| 7d Ma - Index View
+## DIRTY DEMAND (TONNE MILES) | 7D MA - INDEX VIEW
 
 **VLCC ↓** 1.7% WoW **| Suezmax ↑** 7.0% WoW **| Aframax ↓** 1.1% WoW
 

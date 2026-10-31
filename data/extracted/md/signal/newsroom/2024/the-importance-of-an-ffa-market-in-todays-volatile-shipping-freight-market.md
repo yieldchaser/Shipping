@@ -130,7 +130,7 @@ Signal Ocean delivers live FFA price tracking across all major dry bulk routes â
 **[Request a Demo of The Signal Group â†’](https://www.thesignalgroup.com/contact)**
 
 
-## Faq
+## FAQ
 
 **What is a Forward Freight Agreement (FFA)?** A Forward Freight Agreement is a financial derivative that allows shipping market participants to buy or sell freight rates at a fixed price for a future date. FFAs settle against published freight indices such as the Baltic Exchange rates, without any physical cargo or vessel changing hands.
 

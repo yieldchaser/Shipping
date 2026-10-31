@@ -59,7 +59,7 @@ Introducing new tailored advanced shipping analytics insights to enable data-dri
 For Dry, this also includes an overall evaluation of the performance of each vessel class, complemented by advanced insights. Similar enhancements for Tankers are planned for 2025.
 
 
-### Ui/ux Improvements
+### UI/UX Improvements
 
 
 - **Smart Zoom**: Automatic screen-size-based zoom adjustments for enhanced navigation.

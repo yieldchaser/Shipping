@@ -49,7 +49,7 @@ The shipping industry has been relying on inefficient means to process and excha
 ###### Request a Demo
 
 
-## Howsignal Maritimeuses the Signal Ocean Commercial Shipping Platform
+## How Signal Maritime Uses the Signal Ocean Commercial Shipping Platform
 
 
 ### Monitoring the Competition

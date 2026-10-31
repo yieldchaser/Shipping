@@ -25,7 +25,7 @@ tags:
 
 *Published on 28 October 2026*
 
-## Spotlight of the Week | Fujairah
+## SPOTLIGHT OF THE WEEK | FUJAIRAH
 
 
 ## Gulf Congestion Rises, Fujairah Takes 28%
@@ -78,7 +78,7 @@ tags:
 **Congestion has intensified since mid-year.** Fujairah's daily waiting count remained largely below 40 vessels during the first half of 2026 before rising through July and August. The fleet subsequently reached approximately 80–95 vessels during September and October, before easing to 74 by 28 October. Despite the recent moderation, waiting levels remain elevated compared with the first half of the year.
 
 
-## Spotlight of the Week | Fujairah
+## SPOTLIGHT OF THE WEEK | FUJAIRAH
 
 Capesize iron ore routes and Asian Supramax tightened, Panamax Atlantic shortfalls deepened, while Handysize HS7 (North China) and Panamax P6 moved into balance; HS6 remains in surplus. The US Gulf remains oversupplied for Supramax.
 
@@ -90,7 +90,7 @@ Capesize iron ore routes and Asian Supramax tightened, Panamax Atlantic shortfal
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-43-2026) | [Local Asset](../../images/6ae1e72f0f3b68ac98cd7160_53d05400.png)
 
 
-## Freight Market Overview
+## FREIGHT MARKET OVERVIEW
 
 
 ![Freight Market Overview](../../images/6ae1e808cbca9f72e34faa83_a93e8863.png)
@@ -117,7 +117,7 @@ Capesize iron ore routes and Asian Supramax tightened, Panamax Atlantic shortfal
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-43-2026) | [Local Asset](../../images/6ae1e8369b8bd9d1397b3f35_ab0a9b0d.png)
 
 
-## Key Takeaway
+## KEY TAKEAWAY
 
 
 - Capesize rates recovered a portion of their Week 42 declines as vessel availability tightened relative to cargo demand on the C3 and C5 iron ore routes.
@@ -129,7 +129,7 @@ Capesize iron ore routes and Asian Supramax tightened, Panamax Atlantic shortfal
 - Across 29 Middle Eastern ports, 265 vessels are currently waiting—74 at Fujairah, mostly Supramaxes, and mostly on stop calls. With regional congestion running 75% above last year's levels, available geared tonnage outside the Strait of Hormuz could face persistent operational constraints as long as these ships remain idle.
 
 
-## Capesize
+## CAPESIZE
 
 **Freight.** The BCI rose 361 points to 3,726 and C5TC(180) $3,277 to $30,292/day (C5TC(182) $33,795). The Pacific led: C10\_182 +$7,163 to $35,868/day and C5 +$1.49 to $13.94/mt. C3 gained $2.92 to $33.64/mt, and C14\_182 gained $4,546 to $33,064/day; C8\_182 fell $1,850 to $29,550/day. C9\_182 remains the top route at $64,200/day.
 
@@ -150,7 +150,7 @@ Capesize iron ore routes and Asian Supramax tightened, Panamax Atlantic shortfal
 **Ships vs cargoes.** On C3, there are now fewer ships than cargoes for about the next 30 days, evening out only around day 40 (~330 each), against about 16 days in the previous reading. On C5, ships fall short of cargoes between days 6 and 14. Australasia ballasters fell 21% while FEAST/NOPAC rose 29%, so open tonnage is shifting north rather than disappearing.
 
 
-## Panamax
+## PANAMAX
 
 **Freight.** The BPI fell 205 points to 2,109 and P5TC fell from $1,846 to $18,981/day, with all routes lower. The Atlantic led the fall: P1A\_82 −$2,809 to $17,736/day and P2A\_82 −$2,577 to $26,520/day (still the top route); P6\_82 −$2,455. P7 and P8 eased to $71.94/mt and $53.69/mt.
 
@@ -171,7 +171,7 @@ Capesize iron ore routes and Asian Supramax tightened, Panamax Atlantic shortfal
 **Ships vs cargoes.** Forward vessel supply continues to lag behind expected demand across the P1/P2/P7 (~63 vessels against ~102 by day 20), P3, and P5 routes, whereas P6 has approached market balance. Despite these ongoing deficit conditions, freight rates trended lower. Although an influx of ballasters into the South Atlantic (+25%) and Indian Ocean/South Africa region (+7%). The divergence between forward supply–demand balances and declining freight rates suggests that the projected shortages have yet to translate into sustained support for earnings.
 
 
-## Supramax
+## SUPRAMAX
 
 **Freight.** The BSI edged up 22 points to 1,887, just below its 52-week high of 1,890, and S11TC $276 to $23,849/day. Asia led: S3 +$2,050 to $24,167/day, S8 +$514 to $27,900/day and S10 +$456. The US Gulf eased: S1C −$1,475 to $30,169/day and S4A −$1,066 to $30,853/day (still the top route).
 
@@ -192,7 +192,7 @@ Capesize iron ore routes and Asian Supramax tightened, Panamax Atlantic shortfal
 **Ships vs cargoes.** The US Gulf routes (S4A/S1C, S4B) still have more ships than cargoes, and North Atlantic ballasters jumped 38% to 113. In Asia (S8/S10), ships fall short of cargoes throughout (~111 vs ~128 by day 10), and West Africa (S5) is short for the first ~16 days.
 
 
-## Handysize
+## HANDYSIZE
 
 **Freight.** The BHSI rose 9 points to 1,020, a 52-week high, and HS7TC rose from $161 to $18,361/day. HS3\_38 (South Atlantic) gained $1,550 to $30,022/day and remains the top route; HS4\_38 (US Gulf) fell $772 to $19,657/day. Asia firmed modestly (HS5 +$200, HS6 and HS7 +$163).
 

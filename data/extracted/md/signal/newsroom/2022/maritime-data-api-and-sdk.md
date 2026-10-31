@@ -27,7 +27,7 @@ The last few years have seen significant developments in the area of shipping te
 Before diving into details, let’s start with the basics.
 
 
-## What Is Maritime Data, and Why Use Anapior Sdk?
+## What Is Maritime Data, and Why Use an API or SDK?
 
 Maritime Data obviously pertains to and describes the seaborne transportation domain. Vessel-related data are key, data such as vessel name and/or other global identifiers (IMO numbers, call signs, etc) alongside a rich set of data on vessel specifications/characteristics/particulars. Historical positioning data, speeds, headings, coordinates follow suit coming primarily from the Automatic Identification System (AIS)[. Maritime datasets](https://www.thesignalgroup.com/signal-ocean/data-warehouse-api) also include a wide spectrum of operational and commercial data, such as ship destinations or stops, loading/discharging operations, cargo on board, quantities, emissions, commercial operators, charterers, freight rates, and much more. A critical component of this data is the maritime AIS system, which provides real-time information about vessel positions, movements, and status, essential for navigation safety, maritime security, and environmental protection.
 
@@ -35,7 +35,7 @@ Moving beyond data content, and onto the data delivery methods, APIs are very po
 From performing ad-hoc analysis, building a data lake, or integrating with your own or third-party systems like PowerBI or Tableau, our [APIs](https://www.thesignalgroup.com/signal-ocean/data-warehouse-api) are optimised for simplicity, facilitating seamless integration and data flow.
 
 
-## AIS Data - Why Does It Matter? What Types of AIS Data Do We Source and Use Insignal Ocean?
+## AIS Data - Why Does It Matter? What Types of AIS Data Do We Source and Use in Signal Ocean ?
 
 At Signal we source AIS data from a variety of terrestrial and satellite sources. Not all AIS feeds are equal in coverage and quality. We have worked hard to curate the right sources, but more importantly to use and combine them in a way that elevates quality and extends coverage. Our integration includes visual representation on marine maps, providing an intuitive way to monitor vessel movements globally.
 
@@ -53,7 +53,7 @@ The change has been partly driven by the wide availability of AIS data, no longe
 The true potential of such deeply analytical approaches in shipping is starting to be evident and one can draw analogies from the effect of big data on adjacent domains to understand what this could mean for the maritime industry going forward. What is certainly interesting is that many if not most market participants have high volumes of data that remain idle, unconnected and largely untapped. Organising it into productive insights can truly be a game-changer for those who will go after the opportunity.
 
 
-## Signal Ocean APIs
+## Si G Nal Ocean APIs
 
 
 ## Voyages Data API

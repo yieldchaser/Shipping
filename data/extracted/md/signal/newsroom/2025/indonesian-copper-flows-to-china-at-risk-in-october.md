@@ -22,7 +22,7 @@ tags:
 
 *Published on 07 October 2025*
 
-## Market Insights: Dry Bulk Flows | Copper
+## MARKET INSIGHTS: DRY BULK FLOWS | COPPER
 
 
 ## Indonesian Copper Flows to China at Risk in October

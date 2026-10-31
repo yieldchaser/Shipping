@@ -22,7 +22,7 @@ tags:
 
 *Published on 19 November 2025*
 
-## Market Insights: Oversupply Ahead? Early Signs Signal Weaker U.s. Crude Oil Flows
+## MARKET INSIGHTS: Oversupply Ahead? Early Signs Signal Weaker U.S. Crude Oil Flows
 
 *Signal Ocean’s preliminary data, derived directly from Voyage Details movements, indicate a sharp reversal in U.S. crude oil flows in November, following a standout performance in October.*
 

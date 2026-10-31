@@ -26,7 +26,7 @@ tags:
 
 *Published on 07 September 2026*
 
-## Spotlight of the Week
+## SPOTLIGHT OF THE WEEK
 
 
 ## Vintage Tonnage Captures the Freight Premium

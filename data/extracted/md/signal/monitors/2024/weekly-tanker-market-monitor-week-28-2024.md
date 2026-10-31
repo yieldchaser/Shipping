@@ -26,7 +26,7 @@ tags:
 
 *Published on 11 July 2024*
 
-## This Week's Data Underscores a Noticeable Decline in the Growth of Tonne Days Across Both the Dirty and Clean Tanker Segments. Particularly Noteworthy Is the VLCC Tonne Days' Growth Rate for July, Which Is Currently Maintaining a Weaker Weekly Pace Compared to a Year Ago. Meanwhile, the Clean Tanker Segment Has Reached One of Its Lowest Points Not Only for This Year But Also for the Past Two Years. Today’s Demand Outlook Is Challenging the Performance of the VLCC Freight Market. in the Previous Week, Ras Tanura Recorded Anincrease in the Number of Vessels, Coinciding with a Weakening Momentum in Freight Rates.
+## This Week's Data Underscores a Noticeable Decline in the Growth of Tonne Days Across Both the Dirty and Clean Tanker Segments. Particularly Noteworthy Is the VLCC Tonne Days' Growth Rate for July, Which Is Currently Maintaining a Weaker Weekly Pace Compared to a Year Ago. Meanwhile, the Clean Tanker Segment Has Reached One of Its Lowest Points Not Only for This Year But Also for the Past Two Years. Today’s Demand Outlook Is Challenging the Performance of the VLCC Freight Market. in the Previous Week, Ras Tanura Recorded an Increase in the Number of Vessels , Coinciding with a Weakening Momentum in Freight Rates.
 
 
 ![668ff24cea39bfb7fc672bc1 Chart of the Week Tanker (1)](../../images/668ff24cea39bfb7fc672bc1_chart of the week tanker (1).avif)

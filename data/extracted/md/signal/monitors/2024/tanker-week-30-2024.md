@@ -26,7 +26,7 @@ tags:
 
 *Published on 26 July 2024*
 
-## This Week's Chart Underscores Signs of a Slight Upward Movement in the Growth of Dirty VLCC Tonne Days From the Arabian Gulf to the Far East, Rebounding From the Bottom Low Seen at the Beginning of July. This Positive Trend Is Mirrored in WS Rates for the MEG-China Route, Which Recorded an Uptick This Week. While This Development Is Encouraging, It Remains to Be Seen If the Supply-Demand Dynamics Will Further Enhance the Recent Freight Market Sentiment. We Are Actively Tracking the Correlation Between Vessel Availability and Cargo Demand to Better Anticipate Emerging Trends, Which Is Reflected in Ourvlcc Insights Dashboard.
+## This Week's Chart Underscores Signs of a Slight Upward Movement in the Growth of Dirty VLCC Tonne Days From the Arabian Gulf to the Far East, Rebounding From the Bottom Low Seen at the Beginning of July. This Positive Trend Is Mirrored in WS Rates for the MEG-China Route, Which Recorded an Uptick This Week. While This Development Is Encouraging, It Remains to Be Seen If the Supply-Demand Dynamics Will Further Enhance the Recent Freight Market Sentiment. We Are Actively Tracking the Correlation Between Vessel Availability and Cargo Demand to Better Anticipate Emerging Trends, Which Is Reflected in Our VLCC Insights Dashboard.
 
 
 ![66a38f9d030394320602d19e 66a38f590b19d58cad20d24a Chart%20of%20the%20week%20tanker](../../images/66a38f9d030394320602d19e_66a38f590b19d58cad20d24a_chart%2520of%2520the%2520week%2520tanker.avif)

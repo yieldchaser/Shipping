@@ -22,7 +22,7 @@ tags:
 
 *Published on 17 December 2020*
 
-## Signal Ocean Platform Enhances Co2 Impact Assessment for Chartering
+## Signal Ocean Platform Enhances CO2 Impact Assessment for Chartering
 
 Tanker and dry bulk market participants are now able to assess the CO2 impact when chartering ships optimally positioned for their cargo, thanks to a new update on the [Signal Ocean platform](https://www.thesignalgroup.com/signal-ocean/platform). The service is used by shipowners, traders and oil majors who control around half of the world’s crude oil spot tonnage and cargoes to support their chartering decisions. The upgrade provides an independent estimate of CO2 emissions alongside Time Charter Equivalent (TCE) ratings.
 

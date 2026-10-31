@@ -22,7 +22,7 @@ tags:
 
 *Published on 18 March 2026*
 
-## Commodity Radar | Spotlight: Bauxite
+## COMMODITY RADAR | Spotlight: BAUXITE
 
 
 ## Bauxite Flows Are Redirected as the War in the Arabian Gulf Closes the Strait of Hormuz.

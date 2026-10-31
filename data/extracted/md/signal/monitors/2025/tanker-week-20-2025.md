@@ -33,7 +33,7 @@ tags:
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-20-2025) | [Local Asset](../../../../../../corpus/07-signal/images/68270a3f3ef6a0318c59ac63_AD_4nXcZV6xWnm7PGXpgCSPH1eRv1I7BasrBRJP4Damo9KqqNCzchx-PeubcEAa7qSkHfWJjXNkNy2EKd4vi5514JWBibsI47AY-XxR3rDc165t64Dsj5EKkmA-frIekEKJ05q0kKhV6bQ.png)
 
 
-## Shift in Cpc Crude Exports Towards Suezmax Utilization
+## Shift in CPC Crude Exports Towards Suezmax Utilization
 
 The 2025 outlook for crude oil exports from the CPC terminal at Novorossiysk indicates a decisive structural shift toward Suezmax utilization, with a marked decline in Aframax deployment. Data visualizations from Signal Ocean reveal that **Q1 2025 recorded the highest quarterly volume of Suezmax loadings** across the past four years, significantly surpassing figures for 2022 through 2024.
 

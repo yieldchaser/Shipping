@@ -22,7 +22,7 @@ tags:
 
 *Published on 23 October 2026*
 
-## Signal Ocean · Market Insights
+## SIGNAL OCEAN · MARKET INSIGHTS
 
 
 ## Commodity Freight Watch
@@ -41,7 +41,7 @@ Key factors in dry bulk include Chinese and Indian coal policies, Indonesian exp
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-commodity-freight-watch) | [Local Asset](../../../../../../corpus/07-signal/images/6adb1156203c4cd3caa95aa6_929e61fd.png)
 
 
-## Spotlight of the Week | Grain
+## SPOTLIGHT OF THE WEEK | GRAIN
 
 **US–China Grain: The Shipment Pattern Behind the New Purchases**
 
@@ -56,7 +56,7 @@ Key factors in dry bulk include Chinese and Indian coal policies, Indonesian exp
 **US–China grain shipments recovered in September following a summer slowdown.** Signal Ocean Platform data show stronger monthly US–China grain exports during the first five months of 2026 compared with 2025, followed by weaker summer activity and a September rebound. The earlier soybean-specific selection recorded **10.87 million tonnes during January–August, up 86% year on year**, before the subsequent recovery in shipments. Panamax vessels account for the largest share of the displayed grain movements, with the **US Gulf remaining the principal loading region** alongside Pacific coast exports.
 
 
-## Coal | Policy and Quotas Reshape Asian Supply
+## COAL | POLICY AND QUOTAS RESHAPE ASIAN SUPPLY
 
 **China** is balancing tighter mine-safety oversight with efforts to maintain domestic coal supply ahead of the winter heating season. September raw coal output fell **6.8% y/y to 385 Mt**, a decline attributed in reporting to stricter safety inspections after the May accident in Shanxi and a fatal accident in Hunan in August. On 16 October, the NDRC and the National Energy Administration urged Shanxi to bring idled mines back into operation and raise output before winter.
 
@@ -65,7 +65,7 @@ Key factors in dry bulk include Chinese and Indian coal policies, Indonesian exp
 **Indonesia** 2027 coal production quotas under review: Indonesia opened applications for its 2027 production plans (RKAB) on 1 October, with submissions due by 15 November. The government is assessing production allocations, while uncertainty over approved volumes has already slowed negotiations for 2027 coal supply contracts. For the dry bulk freight market, the outcome will be important for Indonesian export commitments and prospective coal cargo availability across Asian routes.
 
 
-## Iron Ore and Grain | Supply Risks
+## IRON ORE AND GRAIN | SUPPLY RISKS
 
 **Iron ore -** Saldanha terminal reaches scheduled maintenance deadline. South Africa's Saldanha Iron Ore Terminal is scheduled to complete its 16-day maintenance programme on 21 October, following repairs to shiploaders, conveyors and rail tipplers. Separately, maintenance on the Sishen–Saldanha railway was scheduled to conclude on 16 October. With the terminal handling more than 50 million tonnes of iron ore annually, Capesize employment will focus on resuming loading operations and timing export cargoes after the shutdown. Transnet's longer-term investment in rail and terminal infrastructure aims to improve the reliability of South Africa's iron ore export corridor.
 
@@ -76,7 +76,7 @@ Key factors in dry bulk include Chinese and Indian coal policies, Indonesian exp
 Worsening Black Sea security has increased reliance on alternative export corridors, particularly the Danube route through Izmail, Reni and Romania’s Constanța, while Baltic ports are also being explored. Congestion at the Sulina Canal has added to the pressure, with vessel waiting times previously exceeding two weeks. The European Council called on 16 October for the restoration of safe commercial navigation and further support for the EU–Ukraine Solidarity Lanes. For Handysize and smaller bulk carriers, the shift towards alternative loading ports, longer waiting times and higher freight costs is changing voyage economics, although additional corridor capacity remains constrained by security risks and inland logistics bottlenecks.
 
 
-## Oil | Crude Flows in Focus
+## OIL | CRUDE FLOWS IN FOCUS
 
 **Crude Trade Geography: Shifting Origin and Loading-Port Shares**
 
@@ -93,7 +93,7 @@ Geopolitical disruptions are reshaping the geography of seaborne crude trade, wi
 **2026** - A different supply ranking and a shift in loading geography. Russia (12.3%) and the UAE (11.0%) have moved ahead of Saudi Arabia (10.3%) in the January–September origin distribution, while Iraq's share has fallen from 7.5% to 3.6%. The most pronounced change is at the loading-port level: Fujairah's share has risen from 2.8% to 9.2%, overtaking Ras Tanura, whose share has declined from 11.3% to 4.0%. This redistribution is particularly relevant for tanker deployment, as greater loading activity outside the Strait of Hormuz changes where vessels need to position for their next cargo. On the destination side, China remains the largest market, although its share has declined from 22.9% to 17.6%, while India's has increased from 10.6% to 11.8%.
 
 
-## Oil | Regulatory Environment
+## OIL | REGULATORY ENVIRONMENT
 
 **Crude and fleet**
 
@@ -114,7 +114,7 @@ Geopolitical disruptions are reshaping the geography of seaborne crude trade, wi
 **Easing export restrictions in Russia, lower diesel export duties in India and new Chinese export approvals improve the outlook for clean petroleum product shipments. IEA stock releases, however, may limit immediate import demand in receiving markets.**
 
 
-## Oil | Disruptions and Recovery
+## OIL | DISRUPTIONS AND RECOVERY
 
 **Crude**
 
@@ -131,7 +131,7 @@ Geopolitical disruptions are reshaping the geography of seaborne crude trade, wi
 **US Gulf production recovery improves crude availability, while attacks on Russian energy infrastructure raise uncertainty over Baltic product shipments despite the easing of diesel export restrictions.**
 
 
-## Key Takeaway
+## KEY TAKEAWAY
 
 Recent developments highlight how freight conditions can tighten without a corresponding increase in cargo volumes. Disruptions to loading schedules, port operations and export programmes can delay vessel turnaround and temporarily reduce available tonnage. In a market where cargo flows and vessel positioning are changing rapidly, operational efficiency is becoming an important factor in short-term freight performance, alongside underlying supply-demand fundamentals.
 

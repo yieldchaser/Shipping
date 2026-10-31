@@ -25,7 +25,7 @@ tags:
 
 *Published on 12 February 2026*
 
-## Chart of the Week|capesizedaily Volume Loaded
+## Chart of the Week | Capesize Daily Volume Loaded
 
 
 ## South Atlantic / West Australia
@@ -44,7 +44,7 @@ The **BCI** (182k) 5TC declined by approximately USD 5,000 over the week, from a
 Looking ahead to Lunar New Year, supply-side pressure remains particularly evident in the South/North Atlantic, Australasia, and the Indian Ocean/South Africa, affecting mainly the larger vessel segments. Conversely, the South Atlantic showed comparative support for the Supramax and Handysize segments, driven primarily by momentum in the USG freight market.
 
 
-## Freight Market Overview
+## FREIGHT MARKET OVERVIEW
 
 The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline seen in early February. This is a notable drop from the peak near 2,500 points recorded in early December. However, as highlighted in our recent Market Insights report ("[BDI VS BCI Ahead of the Lunar New Year](https://www.thesignalgroup.com/newsroom/market-insights-bdi-vs-bci-ahead-of-the-lunar-new-year)"), the dry bulk freight market is currently exhibiting a stronger performance than has typically been observed in periods preceding the Chinese New Year. (BDI Index Value +130% YoY).
 
@@ -55,13 +55,13 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-07-2026) | [Local Asset](../../../../../../corpus/07-signal/images/698da72a923fc4dec2ddd75e_832ad9fc.png)
 
 
-## Freight Atlantic
+## FREIGHT ATLANTIC
 
 
 ## Capesize | Weaker
 
 
-## C3tubarao–qingdao /c17saldanha Bay–qingdao
+## C3 Tubarao–Qingdao / C17 Saldanha Bay–Qingdao
 
 
 ![C3 Tubarao–qingdao / C17 Saldanha Bay–qingdao](../../../../../../corpus/07-signal/images/698da72a923fc4dec2ddd767_d7699761.png)
@@ -73,10 +73,10 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 - Capesize rates have softened to $23/ton after a strong late-January rally, although sentiment remains 34% stronger year-on-year. This downward trend is also evident on the Saldanha Bay-Qingdao route, where rates have dropped to $17/ton. Despite weakening momentum, current levels remain above the mid-January low of $14/ton.
 
 
-## Panamax | Firmer
+## PANAMAX | Firmer
 
 
-## P7usg–qingdao Grain ($/mt) /p8santos–qingdao ($/mt)
+## P7 USG–Qingdao Grain ($/mt) / P8 Santos–Qingdao ($/mt)
 
 
 ![‍](../../../../../../corpus/07-signal/images/698da72a923fc4dec2ddd773_c094beea.png)
@@ -88,10 +88,10 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 - Rates for the USG-Qingdao and Santos-Qingdao routes remain firm, with both seeing an annual increase of approximately 17%. The USG-Qingdao rate, in particular, continues to hover around a $50/ton premium, a level sustained since early February. Meanwhile, the Santos-Qingdao rate is still nearing $40/ton.
 
 
-## Supramax | Firmer
+## SUPRAMAX | Firmer
 
 
-## S4aus Gulf Trip to Skaw-Passero
+## S4A US Gulf Trip to Skaw-Passero
 
 
 ![S4A US Gulf Trip to Skaw-Passero](../../../../../../corpus/07-signal/images/698da72a923fc4dec2ddd77c_cd41faf4.png)
@@ -103,10 +103,10 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 - The USG-to-Skaw-Passero route showed exceptional firmness at approximately $28k/day, a 24% week-over-week (WoW) increase. This rate is notably about $8k/d higher than the levels seen at the start of the year.
 
 
-## Handysize | Firmer
+## HANDYSIZE | Firmer
 
 
-## Hs438 -US Gulf Trip Via US Gulf or North Coast of South America to Skaw-Passero
+## HS4\_38 - US Gulf Trip Via US Gulf or North Coast of South America to Skaw-Passero
 
 
 ![698da72a923fc4dec2ddd770 A712c557](../../../../../../corpus/07-signal/images/698da72a923fc4dec2ddd770_a712c557.png)
@@ -118,13 +118,13 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 - USG trip to Skaw-Passero recorded levels of around $20k/d, an increase of $4k/d in a month and +$9k/d YoY, with the increase continuous since mid-January.
 
 
-## Freight Pacific
+## FREIGHT PACIFIC
 
 
 ## Capesize | C5 Weaker
 
 
-## C5west Australia–qingdao
+## C5 West Australia–Qingdao
 
 
 ![C5 West Australia–qingdao](../../../../../../corpus/07-signal/images/698da72a923fc4dec2ddd76a_da1801b0.png)
@@ -136,13 +136,13 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 - The West Australia-Qingdao rates experienced a decline, falling below $9/ton and reaching a mid-$8/ton level midway through the week. This drop follows a peak observed at the close of the previous week. Current daily loading volumes from West Africa suggest that this downward pressure may persist through the remainder of February.
 
 
-## Panamax | Firmer
+## PANAMAX | Firmer
 
 
-## P3a82- Hk-S Korea Incl Taiwan, One Pacific Rv
+## P3A\_82 - HK-S Korea Incl Taiwan, One Pacific RV
 
 
-## P582- South China, One Indonesian Round Voyage
+## P5\_82 - South China, One Indonesian Round Voyage
 
 
 ![P582 - South China, One Indonesian Round Voyage](../../../../../../corpus/07-signal/images/698da72a923fc4dec2ddd779_abdb1b68.png)
@@ -154,13 +154,13 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 - The Panamax Pacific market holds the exceptional gains of the previous week, with rates on the P3A\_82 route still exceeding $14k/day, representing a year-on-year increase of $5.5k/day.
 
 
-## Supramax | Weaker
+## SUPRAMAX | Weaker
 
 
-## S2north China One Australian or Pacific Round Voyage
+## S2 North China One Australian or Pacific Round Voyage
 
 
-## S10south China Trip Via Indonesia to South China
+## S10 South China Trip Via Indonesia to South China
 
 
 ![S10 South China Trip Via Indonesia to South China](../../../../../../corpus/07-signal/images/698da72a923fc4dec2ddd776_37b5b3dd.png)
@@ -172,16 +172,16 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 - The Supramax Pacific market reversed the upward trend seen the previous week. Levels are now around $11.8k/d on the S2 route, marking a 9% weekly decrease but a +40% YoY increase.
 
 
-## Handysize | Weaker
+## HANDYSIZE | Weaker
 
 
-## Hs538- South East Asia Trip to Singapore-Japan
+## HS5\_38 - South East Asia Trip to Singapore-Japan
 
 
-## Hs638- North China-South Korea-Japan Trip to North China-South Korea-Japan
+## HS6\_38 - North China-South Korea-Japan Trip to North China-South Korea-Japan
 
 
-## Hs738- North China-South Korea-Japan Trip to Southeast Asia
+## HS7\_38 - North China-South Korea-Japan Trip to Southeast Asia
 
 
 ![‍](../../../../../../corpus/07-signal/images/698da72a923fc4dec2ddd76d_2fc857b4.png)
@@ -193,10 +193,10 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 - The Handysize Pacific freight market is currently showing losses, with the HS5\_38 route dropping significantly. This route is now valued at approximately $9.5k/day, falling from its last week’s mid-week high of over $10k. Despite the recent dip, the current rate remains a substantial 34% increase over the same period last year.
 
 
-## Ballasters Overview
+## BALLASTERS OVERVIEW
 
 
-## Capesize | 5d Ma Increasing
+## Capesize | 5D MA Increasing
 
 
 ![Capesize | 5d Ma Increasing](../../../../../../corpus/07-signal/images/698da72a923fc4dec2ddd761_8f7e7f7d.png)
@@ -208,7 +208,7 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 - Supply pressure continues to build across both basins. The 5-day moving average is up approximately 15% WoW in the South Atlantic, while the increase is even more pronounced in the North Atlantic, where ballaster vessel counts are up 32% WoW. In the Pacific, the vessel count of ballasters remains accelerated, with only a marginal softening visible in Australasia of 3% and 1% in the Indian Ocean.
 
 
-## Panamax | 5d Ma Increasing
+## Panamax | 5D MA Increasing
 
 
 ![Panamax | 5d Ma Increasing](../../../../../../corpus/07-signal/images/698da72a923fc4dec2ddd764_1228025b.png)
@@ -220,7 +220,7 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 - The Indian Ocean is experiencing significantly increased supply pressure, with the current vessel count surpassing 280. This represents a 15% increase week-on-week, continuing the upward trend observed over the last two weeks. In the South Atlantic, the number of ballasters has also increased, surpassing 70 vessels (+10% week-on-week). Meanwhile, the North Atlantic is showing a slight correction, with figures falling below 110 vessels, although supply remains elevated overall.
 
 
-## Supramax| 5d Ma Increasing
+## Supramax| 5D MA Increasing
 
 
 ![Supramax| 5d Ma Increasing](../../../../../../corpus/07-signal/images/698da72a923fc4dec2ddd780_09a2f125.png)
@@ -232,7 +232,7 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 - Supramax supply is experiencing significant pressure in the North Atlantic and Indian Ocean, with the number of ballasting vessels increasing by approximately 30% week over week in both regions. In Australasia, although some softening is visible, the correction remains marginal relative to the sharp decline since January, with the 5-day moving average near 150.
 
 
-## Handysize| 5d Ma Increasing
+## Handysize| 5D MA Increasing
 
 
 ![Handysize| 5d Ma Increasing](../../../../../../corpus/07-signal/images/698da72a923fc4dec2ddd783_ff57e372.png)
@@ -244,7 +244,7 @@ The Baltic Dry Index (BDI) has dipped below 1,900 points, sustaining the decline
 - Handysize vessels are experiencing significant supply pressure in the North Atlantic, with the number of ballasting vessels now exceeding 230. Intense pressure is also noticeable in the Far East/NOPAC and Australasia regions.
 
 
-## Demand | Tonne Miles - Index View
+## DEMAND | TONNE MILES - INDEX VIEW
 
 
 ## Capesize | Panamax | Supramax WoW Decreasing

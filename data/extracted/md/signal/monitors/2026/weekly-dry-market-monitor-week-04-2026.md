@@ -25,7 +25,7 @@ tags:
 
 *Published on 21 January 2026*
 
-## Chart of the Week|capesizeballasters
+## Chart of the Week | Capesize Ballasters
 
 South Atlantic Vs Pacific
 
@@ -47,7 +47,7 @@ South Atlantic Vs Pacific
 ## Market Overview
 
 
-### Spot Dryfreightindices Showed Modest Daily Gains.
+### Spot Dry Freight Indices Showed Modest Daily Gains.
 
 
 ![Spot Dry Freight Indices Showed Modest Daily Gains.](../../../../../../corpus/07-signal/images/6970decaa3c704b9300e8298_49e0c0fb.png)
@@ -64,10 +64,10 @@ In parallel, developments in the coal sector continue to underline China’s cen
 Agricultural trade activity also remained firm. China was active in the soybean market, with up to 20 cargoes of US and Brazilian soybeans reportedly traded in the week ending 16 January. Market sources indicated that China is nearing completion of its 12 million metric tonne US soybean purchase target, with some participants suggesting total commitments could exceed this level.
 
 
-## Freight Market
+## FREIGHT MARKET
 
 
-### Capesize |firmer
+### Capesize | Firmer
 
 
 ![Capesize | Firmer](../../../../../../corpus/07-signal/images/6970decaa3c704b9300e8292_8cc4e6fe.png)
@@ -80,7 +80,7 @@ Agricultural trade activity also remained firm. China was active in the soybean 
 - **C5** – West Australia to Qingdao is currently assessed at around $8.5/mt, with recent day-on-day (+4.7%) and week-on-week (+13.0%) increases. Over longer horizons, rates remain lower, standing 13.3% below month-ago levels and 18.9% below quarter-ago levels. Year-on-year comparisons are higher at +36.8%. Similar to C3, C5 continues to trade below its 52-week average of approximately $9.1/mt.
 
 
-## Ballasters|c3increasingvs Baltic Rates
+## BALLASTERS | C3 Increasing vs Baltic Rates
 
 
 ![Ballasters | C3 Increasing vs Baltic Rates](../../../../../../corpus/07-signal/images/6970decaa3c704b9300e8295_eeab6883.png)
@@ -92,7 +92,7 @@ Agricultural trade activity also remained firm. China was active in the soybean 
 - Between 24 Dec 2025 and 20 Jan 2026, ballaster counts increased from 246 to 282 vessels, reaching a peak during the period between these two observation points, while C3 declined from $23.62/mt to $20.93/mt. This highlights higher vessel availability being observed alongside lower freight levels during January. With ballaster counts having reached a peak during January, subsequent changes typically reflect vessels being absorbed into employment, altering the level of visible ballaster availability.
 
 
-## Demand | South Atlantic Daily Volume Loaded
+## DEMAND | South Atlantic Daily Volume Loaded
 
 
 ![Demand | South Atlantic Daily Volume Loaded](../../../../../../corpus/07-signal/images/6970decaa3c704b9300e829b_60f50a75.png)
@@ -104,7 +104,7 @@ Agricultural trade activity also remained firm. China was active in the soybean 
 - When examining daily volume loaded in the South Atlantic for C3, recent data indicate that loadings have been occurring above the 1.0 million-ton benchmark. This suggests that cargo activity remains present, which may contribute to the absorption of vessel availability as the month progresses.
 
 
-## Ballasters|c5steadyvs Baltic Rates
+## BALLASTERS | C5 Steady vs Baltic Rates
 
 
 ![Ballasters | C5 Steady vs Baltic Rates](../../../../../../corpus/07-signal/images/6970decaa3c704b9300e829e_c8fb7eb5.png)
@@ -116,7 +116,7 @@ Agricultural trade activity also remained firm. China was active in the soybean 
 - In contrast to the Atlantic, the Pacific market presents a different picture. As of 20 Jan 2026, ballaster counts stand at approximately 163 vessels, showing an almost steady trend for January, while C5 is assessed at around $8.50/mt.
 
 
-## Demand | West Australia Daily Volume Loaded
+## DEMAND | West Australia Daily Volume Loaded
 
 
 ![Demand | West Australia Daily Volume Loaded](../../../../../../corpus/07-signal/images/6970decaa3c704b9300e82a1_305b5cd7.png)
@@ -128,7 +128,7 @@ Agricultural trade activity also remained firm. China was active in the soybean 
 - Recent data indicate that Capesize demand in both the Atlantic and Pacific has been tracking close to, and at times above, established demand benchmarks. For West Australia, daily volumes have recently been recorded above the 2.0 million-ton level, highlighting sustained cargo activity in the region.
 
 
-## Port Congestion | Discharge China
+## PORT CONGESTION | Discharge China
 
 
 ![Port Congestion | Discharge China](../../../../../../corpus/07-signal/images/6970decaa3c704b9300e82a4_ec329d3b.png)

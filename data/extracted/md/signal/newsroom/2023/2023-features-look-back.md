@@ -22,12 +22,12 @@ tags:
 
 *Published on 28 December 2023*
 
-## A Year of Maritime Innovation Atsignal Ocean
+## A Year of Maritime Innovation at Signal Ocean
 
 We've always believed in pushing the boundaries of what's possible in maritime analytics, and 2023 has been a testament to that vision. Here's a look back at the key [features](https://www.thesignalgroup.com/signal-ocean/platform) we've introduced:
 
 
-## Workbooks in Voyage Calculator (Tanker&dry)
+## Workbooks in Voyage Calculator ( Tanker & Dry )
 
 
 - Manage complex maritime calculations with unprecedented ease and precision. Ideal for tanker and dry cargo operations, these workbooks simplify scenario analysis and decision-making processes.
@@ -35,7 +35,7 @@ We've always believed in pushing the boundaries of what's possible in maritime a
 **Key Advantage**: For streamlined, error-free calculations and enhanced operational efficiency.
 
 
-## Voyage Calculator Updates (Tanker&dry)
+## Voyage Calculator Updates ( Tanker & Dry )
 
 
 - Enjoy an enhanced user experience with our updated 'All-in-One screen' layout, making voyage planning more intuitive and efficient.
@@ -51,7 +51,7 @@ We've always believed in pushing the boundaries of what's possible in maritime a
 **Key Advantage**: Empowers real-time, data-driven decision-making in maritime operations.
 
 
-## Cargo List 2.0 (Tanker&dry)
+## Cargo List 2.0 ( Tanker & Dry )
 
 
 - Revolutionise your cargo management with improved archiving, merging, and validating capabilities, ensuring seamless tracking and organisation of cargo data.
@@ -60,7 +60,7 @@ We've always believed in pushing the boundaries of what's possible in maritime a
 **Key Advantage**: For efficient, organised cargo management and time-saving processes.
 
 
-## Vessel List 2.0 (Tanker&dry)
+## Vessel List 2.0 ( Tanker & Dry )
 
 
 - An enhanced version of the Vessel List, now featuring a redesigned Landing Page for a more efficient overview and a Dense View for streamlined data presentation.
@@ -69,7 +69,7 @@ We've always believed in pushing the boundaries of what's possible in maritime a
 **Key Advantage**: Improves user experience with advanced functionalities, optimising vessel tracking and data management.
 
 
-## Vessel Emissions in Vessel List (Tanker&dry)
+## Vessel Emissions in Vessel List ( Tanker & Dry )
 
 
 - Stay ahead of 2024 environmental regulations with our advanced emissions metrics. This feature empowers fleet managers to proactively align with upcoming standards and adopt sustainable practices.
@@ -85,7 +85,7 @@ We've always believed in pushing the boundaries of what's possible in maritime a
 **Key Advantage**: Offers deep, actionable insights critical for informed maritime strategies.
 
 
-## Port Insights&congestion(dry, Tanker, LNG, LPG)
+## Port Insights & Congestion (Dry, Tanker, LNG, LPG)
 
 
 - Get a 360-degree view of port activities and metrics with our comprehensive Port Insights, from congestion data to terminal information. Navigate through port congestion challenges with our detailed analysis tools, optimising your logistical planning and route strategies.
@@ -93,7 +93,7 @@ We've always believed in pushing the boundaries of what's possible in maritime a
 **Key Advantage:** Crucial for informed port operations and logistics planning where you can see what’s happening currently and benchmark it with what has happened in the past. Vital for effective port management and congestion mitigation.
 
 
-## Vessel Count Report (Tanker&dry)
+## Vessel Count Report ( Tanker & Dry )
 
 
 - Keep a pulse on vessel supply trends and market rates, enabling strategic market positioning and informed rate negotiation. (This is an assessment based on AIS information)
@@ -101,7 +101,7 @@ We've always believed in pushing the boundaries of what's possible in maritime a
 **Key Advantage:** Crucial for market trend analysis and strategic business planning.
 
 
-## Capes Insights Report - (Dry)
+## Capes Insights Report - ( Dry )
 
 
 - The Capes Insights Report enhances the Freight Analytics dashboards with deep insights into key market drivers for C3 and C5 (BETA) routes, including demand-supply dynamics & port congestion. Set for expansion in 2024 to include Supramax, Panamax, and Handysize, this tool provides comprehensive market analysis with a user-friendly interface.
@@ -109,7 +109,7 @@ We've always believed in pushing the boundaries of what's possible in maritime a
 **Key Advantage:** Offers an in-depth understanding of the capesize market, paving the way for strategic decision-making in various vessel segments.
 
 
-## Fleets Report (Tanker)
+## Fleets Report ( Tanker )
 
 
 - Benchmark and optimise tanker fleet performance with comprehensive analytics on geographical deployment and critical KPIs.
@@ -117,7 +117,7 @@ We've always believed in pushing the boundaries of what's possible in maritime a
 **Key Advantage**: Key to strategic fleet management and competitive positioning.
 
 
-## Position Locking in Vessel List Dashboard (Tanker&dry)
+## Position Locking in Vessel List Dashboard ( Tanker & Dry )
 
 
 - Achieve higher accuracy in vessel tracking with improved clarity for manual updates in vessel positioning.
@@ -125,7 +125,7 @@ We've always believed in pushing the boundaries of what's possible in maritime a
 **Key Advantage:** Ensures precise vessel tracking and data integrity.
 
 
-## Intake Calculator in Fleet (Tanker)
+## Intake Calculator in Fleet ( Tanker )
 
 
 - Versatility in operational planning with an intake calculator accommodating both metric and imperial units.
@@ -133,7 +133,7 @@ We've always believed in pushing the boundaries of what's possible in maritime a
 **Key Advantage**: Enhances operational flexibility and international compatibility.
 
 
-## Revamped Signal Oceanmobile App& Enhancements
+## Revamped Signal Ocean Mobile App & Enhancements
 
 
 - Our App has been significantly revamped to ensure seamless access to maritime data on-the-move. With continuous updates and user-friendly enhancements, the app keeps you connected to vital insights and decision-making tools no matter where you are.
@@ -158,7 +158,7 @@ We've always believed in pushing the boundaries of what's possible in maritime a
 **Key Advantage**: Supports sustainable shipping practices and emissions management.
 
 
-## Whatsapp Integration
+## WhatsApp Integration
 
 
 - Integrates WhatsApp messages for updating vessel fixtures and positions in The Signal Ocean Platform, streamlining the data update process.
@@ -166,7 +166,7 @@ We've always believed in pushing the boundaries of what's possible in maritime a
 **Key Advantage**: Enhances efficiency in data management and decision-making.
 
 
-## Excel Add-In (Tanker&dry)
+## Excel Add-In ( Tanker & Dry )
 
 
 - A Microsoft-approved Excel add-in for easy creation of pivot tables and graphs for shipping analytics, directly from The Signal Ocean Platform's data.
@@ -182,7 +182,7 @@ We've always believed in pushing the boundaries of what's possible in maritime a
 **Key Advantage**: Customises vessel tracking and market analysis.
 
 
-## Multi TCE Functionality in Voyage Calculator (Tanker&dry)
+## Multi TCE Functionality in Voyage Calculator ( Tanker & Dry )
 
 
 - Allows for multiple load and discharge options in the Voyage Calculator, enhancing TCE estimation.
@@ -190,7 +190,7 @@ We've always believed in pushing the boundaries of what's possible in maritime a
 **Key Advantage**: Streamlines voyage planning and financial estimation.
 
 
-## Global Searchwith Enhanced Features
+## Global Search with Enhanced Features
 
 
 - The Global Search now includes advanced capabilities like searching vessels by their ex-name, identifying scrapped vessels with a red highlight, and marking order book vessels with their status in green.

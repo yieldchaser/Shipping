@@ -22,7 +22,7 @@ tags:
 
 *Published on 28 October 2019*
 
-## The Signal Group & Ssy Announce Strategic Partnership in Dry-Bulk Shipping Intelligence
+## The Signal Group & SSY Announce Strategic Partnership in Dry-Bulk Shipping Intelligence
 
 
 ### Signal Ocean Forms Strategic Alliance with Simpson Spence Young
@@ -38,7 +38,7 @@ Signal Ocean is a technology start-up with a strong shipping pedigree that has s
 *For further details, please contact our Media office ([marketing@thesignalgroup.com](mailto:marketing@thesignalgroup.com))*
 
 
-## Learn More About Signal Ocean's Partnership with Ssy
+## Learn More About Signal Ocean's Partnership with SSY
 
 The Signal Ocean Platform is available to chartering professionals across tanker and dry-bulk segments. To explore how Signal Ocean's decision-support technology can improve your freight market performance, contact the team at [marketing@thesignalgroup.com](mailto:marketing@thesignalgroup.com) or visit [thesignalgroup.com](https://www.thesignalgroup.com).
 

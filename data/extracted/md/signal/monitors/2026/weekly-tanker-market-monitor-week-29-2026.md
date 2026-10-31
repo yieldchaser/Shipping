@@ -26,7 +26,7 @@ tags:
 
 *Published on 20 July 2026*
 
-## Spotlight of the Week
+## SPOTLIGHT OF THE WEEK
 
 
 ## Tanker Count on Both Sides of Hormuz Exceeds 700 as Strait Tensions Reignite
@@ -57,7 +57,7 @@ Of the 728 tankers tracked, 381 vessels (52.3%) were at anchorage, while 234 (32
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-29-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a5e22b1569536d2de214897_Figure%201c%20-%20Live%20AG-Strait%20fleet%20tracker.png)
 
 
-## Executive Summary
+## EXECUTIVE SUMMARY
 
 **•  AG fleet:** 728 tankers were tracked on both sides of Hormuz, with crude tankers accounting for 179 vessels (24.6%). VLCCs remained the dominant crude class with 123 vessels (68.7%), followed by Suezmax (34) and Aframax/LR2 (18).
 
@@ -106,7 +106,7 @@ Suezmax ballasters stand at 46 vessels, up 10% week-on-week, from the last high 
 AG ballasters, 15 Jul '26 (w/w):  VLCC 115 (-1%) · Aframax/LR2 75 (+21%) · Suezmax 46 (+10%) · VLCC March 2026 peak ~150
 
 
-## Net Supply — Spot/relet Availability by Class
+## Net Supply — Spot/Relet Availability by Class
 
 Since June 2025, the 7-day moving average of commercially available spot and relet vessels in the Arabian Gulf has followed different trajectories across the VLCC, Suezmax and Aframax segments. Aframax availability reached a high of more than 28 vessels in October 2025 before declining to around 10 vessels in February 2026 and subsequently fluctuating within a 13–17 vessel range. Suezmax availability remained relatively constrained for much of the period, varying between approximately 4 and 14 vessels, before rising sharply to around 20 vessels in July 2026. The most pronounced change occurred in the VLCC segment, where available spot and relet supply increased from fewer than two vessels in November 2025 to more than 36 vessels in early July 2026.
 
@@ -129,7 +129,7 @@ A year-on-year comparison over the same 1 June–16 July window shows average da
 **Net spot/relet supply (7d MA):  VLCC low <2 (Nov '25) → high 36+ (early Jul '26) · Jun 1-Jul 16 avg 14.5→26.9 vessels y/y**
 
 
-## Freight Market — Ag–china vs. Usg–china
+## Freight Market — AG–China vs. USG–China
 
 The VLCC time-charter-equivalent differential between the AG–China benchmark (TD3C) and the USG–China route (TD22) moved from -$24,423/day in early January 2026 — its 52-week low — to a 52-week high of $490,824/day on 16 March 2026, as the strikes resumed. It has since traded mostly in a $150,000–$400,000/day range, last printing $260,369/day (a 3.4x ratio) on 15 July. Monthly averages show the same pattern: -$1,420/day in January 2026, +$271,692/day in March, a peak of +$332,104/day in April, and +$215,256/day in July.
 
@@ -143,7 +143,7 @@ The VLCC time-charter-equivalent differential between the AG–China benchmark (
 **TD3C–TD22 VLCC TCE differential:** 52-wk high $490,824/day (16 Mar '26) · 52-wk low -$24,423/day · latest $260,369/day (ratio 3.4x)
 
 
-## Tonne-Miles — Saudi Arabia Vs.usg to China
+## Tonne-Miles — Saudi Arabia vs.USG to China
 
 Dirty tonne-miles on the Saudi Arabia–China (VLCC, Suezmax and Aframax combined) opened 2026 in line with prior years, at 41.4bn in January, before falling to 19.6bn in May, the lowest May reading in the three-year series, and recovering to 23.0bn in June.
 
@@ -166,7 +166,7 @@ On the US–China, tonne-miles had fallen from a 2023 high of 65.0bn (April 2023
 **Tonne-miles (VLCC+Suez+Aframax):** Saudi Arabia→China: May '26 19.6bn, Jun '26 23.0bn · US→China: Jun '26 41.5bn (vs 2-8bn Jan-May '26)
 
 
-## Strait of Hormuz Crossings — Ownership Transparency Through the Mou Cycle
+## Strait of Hormuz Crossings — Ownership Transparency Through the MoU Cycle
 
 AXSMarine crossing records for the Strait of Hormuz capture 759 tanker passages between 27 February and 15 July 2026, spanning the pre-agreement war phase, the Islamabad Memorandum of Understanding signed on 17 June, and the renewed escalation that began when Iran resumed attacks on commercial tankers in the Strait on 6–7 July. The ownership and transit profile of these crossings tracks the diplomatic cycle closely.
 

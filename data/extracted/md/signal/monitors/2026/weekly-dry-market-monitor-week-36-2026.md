@@ -25,7 +25,7 @@ tags:
 
 *Published on 09 September 2026*
 
-## Spotlight of the Week
+## SPOTLIGHT OF THE WEEK
 
 
 ## Capesize in Focus — C3 at a Multi-Year High as Ordering Accelerates
@@ -44,7 +44,7 @@ The Capesize market strengthened sharply over the week, led by sustained momentu
 **Stronger earnings coincide with renewed contracting.** Capesize newbuilding orders have reached 123 vessels so far in 2026, already exceeding the full-year totals of 103 in 2024 and 115 in 2025. Chinese yards account for approximately 117 of this year’s orders. The increase points to renewed owner confidence in the segment and will add to Capesize fleet capacity over the longer term. In the near term, however, shipyard delivery schedules mean that the additional supply will have limited bearing on current Atlantic availability.
 
 
-## Freight Market Overview | BDI & Segment Metrics
+## FREIGHT MARKET OVERVIEW | BDI & SEGMENT METRICS
 
 
 ![Freight Market Overview | BDI & Segment Metrics](../../images/7df2b330-ecef-4a44-94d0-9f6b9f88246b.png)
@@ -74,7 +74,7 @@ The Capesize market strengthened sharply over the week, led by sustained momentu
 Open tonnage rose in every segment week-on-week — Supramax most of all (+24% to 772, led by the North Atlantic +44% and Australasia +37%), followed by Panamax (+10% to 820) and Capesize and Handysize (both +9%, to 624 and 714).
 
 
-## Capesize | Analysis
+## CAPESIZE | ANALYSIS
 
 **Freight.** The BCI surged to 6,286 (−141 day-on-day; +950 week-on-week) with average C5TC earnings up to $53,508/day (+$8,612 WoW). The Atlantic led: C3 (Tubarao–Qingdao) rose to $41.55/mt (+$3.19 WoW), and the Cont-Med and transatlantic rounds jumped (C9\_182 +$12,722, C16\_182 +$9,917, C8\_182 +$8,887 WoW), while C5 (West Australia–Qingdao) added $2.03 WoW to $18.21/mt.
 
@@ -115,7 +115,7 @@ Open tonnage rose in every segment week-on-week — Supramax most of all (+24% t
 *Figure 6: Capesize — demand-to-supply ratio (LHS bars, four-week-average YoY growth; above 1.00 = tonne-mile demand growing faster than available tonnage) vs weekly TC earnings (RHS line). Shaded = latest provisional weeks. (Source: Baltic Exchange; Signal Ocean — Voyage API, Vessel Daily Status). (Source: Signal).*
 
 
-## Panamax | Analysis
+## PANAMAX | ANALYSIS
 
 **Freight.** The BPI rose to 2,448 (−9 day-on-day; +133 week-on-week), and the P5TC average gained $1,201 WoW to $22,035/day. The rally was broad, led by the Pacific — P3A\_82 +$2,294, P5\_82 +$2,213 WoW — with P2A\_82 +$1,054 and the grain routes firmer (P7 US Gulf–Qingdao $75.89/mt, +$2.04 WoW).
 
@@ -158,7 +158,7 @@ Open tonnage rose in every segment week-on-week — Supramax most of all (+24% t
 *Figure 10: Panamax — demand-to-supply ratio (LHS bars, four-week-average YoY growth; above 1.00 = tonne-mile demand growing faster than available tonnage) vs weekly TC earnings (RHS line). Shaded = latest provisional weeks. (Source: Baltic Exchange; Signal Ocean — Voyage API, Vessel Daily Status). (Source: Signal).*
 
 
-## Supramax | Analysis
+## SUPRAMAX | ANALYSIS
 
 **Freight.** The BSI firmed to 1,675 (+7 day-on-day; +28 week-on-week), led by the US Gulf — S1C (US Gulf–China/Japan) +$2,025 and S4A (US Gulf–Skaw-Passero) +$1,512 WoW — with Asia routes also higher (S2 +$563, S8 +$532, S15 +$578); the S10TC average rose $358 WoW to $19,143/day, though the Continent backhaul S4B eased (−$397).
 
@@ -201,7 +201,7 @@ Open tonnage rose in every segment week-on-week — Supramax most of all (+24% t
 *Figure 14: Supramax — demand-to-supply ratio (LHS bars, four-week-average YoY growth; above 1.00 = tonne-mile demand growing faster than available tonnage) vs weekly TC earnings (RHS line). Shaded = latest provisional weeks. (Source: Baltic Exchange; Signal Ocean — Voyage API, Vessel Daily Status). (Source: Signal).*
 
 
-## Handysize | Analysis
+## HANDYSIZE | ANALYSIS
 
 **Freight.** The BHSI rose to 900 (+7 day-on-day; +19 week-on-week), led by an Atlantic rebound — HS3\_38 (Rio de Janeiro–Recalada) +$856, HS4\_38 (US Gulf) +$850 and HS2\_38 (Skaw-Passero–Boston) +$500 WoW — with the Pacific routes modestly higher; the HS7TC average gained $344 WoW to $16,199/day.
 
@@ -244,6 +244,6 @@ Open tonnage rose in every segment week-on-week — Supramax most of all (+24% t
 *Figure 168: Handysize — demand-to-supply ratio (LHS bars, four-week-average YoY growth; above 1.00 = tonne-mile demand growing faster than available tonnage) vs weekly TC earnings (RHS line). Shaded = latest provisional weeks. (Source: Baltic Exchange; Signal Ocean — Voyage API, Vessel Daily Status). (Source: Signal).*
 
 
-## Overall Market Trend | Conclusions
+## OVERALL MARKET TREND | CONCLUSIONS
 
 **Key takeaway:** The rally is stronger at the top end of the market. Capesize and Panamax rate gains are accompanied by forward supply deficits on C3 and several Panamax routes. Supramax and Handysize rates also moved higher, but most of their route balances continue to show surplus tonnage, while their demand-to-supply indicators remain below 1.00. The findings therefore point to a two-speed market, with the larger vessel segments showing stronger alignment between freight performance and forward fundamentals than the smaller sizes.

@@ -27,7 +27,7 @@ tags:
 Signal Ocean is making it easier for anyone to integrate powerful analytics within their existing infrastructure. The popular maritime software platform is making its advanced technology more readily available with the launch of its new API Suite. Initially incorporating eight different data sets including shipping emissions, freight rates and tonnage lists, the service allows a wider range of end-users than ever before to integrate unique and proven solutions into their systems quickly and easily. Further sets including port data and vessel information will be added soon.
 
 
-## List Ofsignal APIs
+## List of Signal APIs
 
 **You can find more information in** [**Signal’s**](https://www.thesignalgroup.com/signal-ocean/platform) **dedicated** [**API webpage**](https://www.thesignalgroup.com/signal-ocean/data-warehouse-api) **.**
 

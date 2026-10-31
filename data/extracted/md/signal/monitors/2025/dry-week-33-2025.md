@@ -25,7 +25,7 @@ tags:
 
 *Published on 14 August 2025*
 
-## Chart of the Week:spotlight on Brazilian Iron Ore Shipments and C3 Market Rates
+## Chart of the Week: Spotlight on Brazilian Iron Ore Shipments and C3 Market Rates
 
 
 ![Https://app.signalocean.com/dry/dynamic/drybulkflows](../../../../../../corpus/07-signal/images/689da46ada4931610d8f4e84_AD_4nXeMF7Piy7RzsRcja8xBrjz9gLLWXwDC28EjcJ9mjvJ38YezYKEhYD82wYvnO_onJn3o5r-llLCnkkTmUNWRKCDyVbY1Dy9o2YFN8sKweD7lhLRxoGBOAzJUMpWQ74-TQ3xa_5Vg.png)

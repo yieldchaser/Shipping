@@ -26,7 +26,7 @@ tags:
 
 *Published on 31 July 2026*
 
-## Spotlight of the Week
+## SPOTLIGHT OF THE WEEK
 
 
 ## Venezuela Steps in as the Hormuz Crisis Re-Routes VLCC Trade Out of the Gulf

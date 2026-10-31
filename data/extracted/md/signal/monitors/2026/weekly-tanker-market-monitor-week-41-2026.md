@@ -26,7 +26,7 @@ tags:
 
 *Published on 16 October 2026*
 
-## Spotlight of the Week- Faster Ballast, Slower Laden: VLCC Supply Signals Diverge
+## SPOTLIGHT OF THE WEEK- Faster Ballast, Slower Laden: VLCC Supply Signals Diverge
 
 This week’s Tanker Market Monitor examines divergence in VLCC sailing speeds, regional vessel supply, and freight earnings. In the Arabian Gulf, ballast vessels are accelerating while laden ships are slowing, with no clear improvement in overall voyage turnaround. Meanwhile, the western VLCC ballast surplus has narrowed, in contrast to rising ballast numbers East of Suez. Despite this increase in eastern vessel supply, Gulf VLCC earnings remain exceptionally high, and dirty-tanker freight continues to outperform the clean market by a substantial margin. The findings highlight why faster repositioning and higher ballast counts have yet to translate into meaningful freight relief.
 

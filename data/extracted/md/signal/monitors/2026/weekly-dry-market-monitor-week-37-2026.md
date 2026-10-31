@@ -25,7 +25,7 @@ tags:
 
 *Published on 17 September 2026*
 
-## Spotlight of the Week
+## SPOTLIGHT OF THE WEEK
 
 
 ## Panamax in Focus - Pacific Routes Gain as the Index Eases and China-Bound Thermal Coal Flows Weaken
@@ -48,7 +48,7 @@ tags:
 The IEA expects domestic mine output to recover during the remainder of the year and describes inventories at major ports and power plants as healthy. Its full-year forecast still puts China’s seaborne thermal coal imports at 310 million tonnes, down 4.6% from 2025, reflecting inventory use and increased supplies from Mongolia. For autumn and winter, stronger heating demand could support renewed seaborne buying if domestic supply and available stocks cannot cover the increase in consumption. The scale of any recovery will also depend on imported coal’s price advantage against domestic supplies. A seasonal increase in China-bound thermal coal flows therefore remains possible, although the evidence does not yet establish a return to year-on-year growth.
 
 
-## Freight Market Overview | BDI & Segment Metrics
+## FREIGHT MARKET OVERVIEW | BDI & SEGMENT METRICS
 
 
 ![Freight Market Overview | BDI & Segment Metrics](../../images/6aab98a9ad2a73c5e6060e32_Screenshot 2026-09-17 at 08.36.46.png)
@@ -78,7 +78,7 @@ The IEA expects domestic mine output to recover during the remainder of the year
 Supramax carried the largest open tonnage pool of the geared segments at 731 vessels, with 217 in FEAST/NOPAC and 200 in Australasia. Panamax stood at 812, its largest regional pools being Australasia at 222 and the Indian Ocean/South Africa at 213. Handysize totalled 706, with the North Atlantic including Med/Black Sea the largest single pool at 204. Capesize was the smallest fleet at 604, of which 234 were positioned in Australasia.
 
 
-## Capesize | Analysis
+## CAPESIZE | ANALYSIS
 
 **Freight.** The BCI eased to 6,080 (−42 day-on-day; −347 week-on-week), with the C5TC average, on the 180,000 dwt basis, at $51,636/day (−$3,155 WoW). The 182,000 dwt weighted average stands at $55,139/day, a differential of $3,503 that follows the Baltic Exchange methodology. The timecharter routes led the decline: C10\_182 (China–Japan transpacific round) fell $5,807/day WoW to $57,379/day, C9\_182 (Cont–Med trip China–Japan) fell $5,500 to $87,611/day, and C8\_182 (Gibraltar/Hamburg transatlantic round) fell $2,843 to $56,313/day. The voyage routes were mixed: C3 (Tubarao–Qingdao) firmed $0.65 to $42.12/mt, C2 (Tubarao–Rotterdam) $0.08 to $19.69/mt and C17 (Saldanha Bay–Qingdao) $1.18 to $31.47/mt, while C5 (West Australia–Qingdao) eased $1.11 to $17.85/mt and C7 (Bolivar–Rotterdam) $0.58 to $23.46/mt.
 
@@ -117,7 +117,7 @@ Supramax carried the largest open tonnage pool of the geared segments at 731 ves
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-37-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6aab9b29804676e613b06fe4_995ecc83.png)
 
 
-## Panamax | Analysis
+## PANAMAX | ANALYSIS
 
 **Freight.** The BPI eased to 2,407 (−2 day-on-day; −41 week-on-week) and the P5TC average slipped $373 WoW to $21,662/day on the 11 September assessment. The basins diverged. The Atlantic softened: P1A\_82 (Skaw–Gibraltar transatlantic round) fell $1,273 to $20,077/day, P2A\_82 (Skaw–Gibraltar trip to Taiwan–Japan) fell $690 to $30,703/day, and P6\_82 (Singapore round via Atlantic) fell $484 to $22,343/day. The Pacific firmed: P5\_82 (South China/Indonesian round) rose $1,145 to $20,339/day, P3A\_82 (Hong Kong–South Korea transpacific) rose $569 to $22,163/day, and P4\_82 rose $172 to $13,288/day. The grain routes were little changed: P7 (US Gulf–Qingdao) at $76.29/mt and P8 (Santos–Qingdao) at $57.25/mt.
 
@@ -156,7 +156,7 @@ Supramax carried the largest open tonnage pool of the geared segments at 731 ves
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-37-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6aab9b29804676e613b06fd8_ab9595bf.png)
 
 
-## Supramax | Analysis
+## SUPRAMAX | ANALYSIS
 
 **Freight.** The BSI rose to 1,719 (+6 day-on-day; +44 week-on-week), with the S10TC average at $19,694/day and S11TC at $21,728/day, both up $551 WoW. The gains were broad. S1C (US Gulf to China–South Japan) rose $1,313 to $33,694/day, S1B (Canakkale trip via Mediterranean) rose $1,303 to $24,671/day, and S4A (US Gulf to Skaw-Passero) rose $1,116 to $33,100/day. In Asia and West Africa, S5 rose $682 to $27,313/day, S2 (North China one Australian round) rose $512 to $20,125/day, S9 rose $425 to $22,469/day, S3 rose $400 to $19,783/day, and S8 (South China via Indonesia) rose $343 to $23,639/day. S10 was the only route lower, easing from $34 to $15,863/day.
 
@@ -195,7 +195,7 @@ Supramax carried the largest open tonnage pool of the geared segments at 731 ves
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-37-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6aab9b29804676e613b06ff7_abee54e6.png)
 
 
-## Handysize | Analysis
+## HANDYSIZE | ANALYSIS
 
 **Freight.** The BHSI rose to 940 (+9 day-on-day; +40 week-on-week), the largest weekly percentage gain of the four segments, with the HS7TC average up $726 WoW to $16,925/day. The Atlantic carried the move: HS4\_38 (US Gulf) rose $2,965 to $18,779/day, HS2\_38 (Skaw-Passero to Boston) $943 to $12,164/day, HS3\_38 (Rio de Janeiro–Recalada) $872 to $24,222/day and HS1\_38 (Skaw-Passero to Rio de Janeiro) $764 to $8,993/day. The Pacific was steadier, with HS7\_38 up $187 to $18,006/day and HS5\_38 up $81 to $18,250/day, while HS6\_38 was effectively unchanged at $17,275/day (−$6).
 
@@ -234,7 +234,7 @@ Supramax carried the largest open tonnage pool of the geared segments at 731 ves
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-37-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6aab9b29804676e613b07009_358f7ab4.png)
 
 
-## Overall Market Trend | Conclusions
+## OVERALL MARKET TREND | CONCLUSIONS
 
 
 ![Index Levels, Route Rates and Time Charter Averages Are the Published Assessments of 11 September 2026; Ballaster Counts Are as of the Same Date](../../images/6aab99c040652533a5a007a8_Screenshot 2026-09-17 at 08.41.42.png)

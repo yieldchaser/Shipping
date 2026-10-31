@@ -22,7 +22,7 @@ tags:
 
 *Published on 07 April 2021*
 
-## Opec Eases Production Cuts Amid Signs of Growing Oil Demand
+## OPEC Eases Production Cuts Amid Signs of Growing Oil Demand
 
 OPEC has bowed to the inevitable. Last week the oil producers group decided to ease self-imposed production cuts it implemented last year due to the Coronavirus pandemic. Faced with rapid demand growth the cartel - together with Russia and other countries - will add over 2 million barrels per day (mln bpd) to supplies by July.
 

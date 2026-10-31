@@ -69,7 +69,7 @@ In light of these developments, we reviewed U.S. crude oil shipments to India us
 ## Freight Market Overview - Dirty
 
 
-## Baltic Dirty Tanker Indextrending Exceptionally Higher (+87% YoY)
+## Baltic Dirty Tanker Index Trending Exceptionally Higher ( +87 % YoY)
 
 
 ![Baltic Dirty Tanker Index Trending Exceptionally Higher (+87% YoY)](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f18_fc2013e7.png)
@@ -78,13 +78,13 @@ In light of these developments, we reviewed U.S. crude oil shipments to India us
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f18_fc2013e7.png)
 
 
-## Dirtytce$/day
+## Dirty TCE$/DAY
 
 
 ## VLCC | Suezmax | Aframax
 
 
-## Td3cmiddle East Gulf to China |td6black Sea to Mediterranean |td7north Sea to Continent
+## TD3C Middle East Gulf to China | TD6 Black Sea to Mediterranean | TD7 North Sea to Continent
 
 
 - Freight sentiment remains strong, despite a slight easing of momentum compared to recent levels. This sustained optimism is reflected when contrasting current figures with weekly, monthly, and annual performance.
@@ -110,7 +110,7 @@ In light of these developments, we reviewed U.S. crude oil shipments to India us
 ## Freight Market Overview - Clean
 
 
-## Baltic Clean Tanker Index(+30% YoY)
+## Baltic Clean Tanker Index ( +30 % YoY)
 
 
 - The current index value shows remarkable strength, posting a significant increase that places it notably higher than last year. However, it is crucial to temper this enthusiasm by recalling the exceptionally high peak observed just two years ago. While the current level is firmer on an annual basis, it has not yet reached the remarkable heights of 2024. During that period, the index surged to an unprecedented 1,400 points by the close of January.
@@ -122,13 +122,13 @@ In light of these developments, we reviewed U.S. crude oil shipments to India us
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f1e_da2e54ce.png)
 
 
-## Cleantce$/day
+## CLEAN TCE$/DAY
 
 
-## Lr2 | Lr1 |mr
+## LR2 | LR1 |MR
 
 
-## Tc1 75kmiddle East Gulf to Japan |tc5 55kmiddle East Gulf to Japan|tc1438k US Gulf to Japan
+## TC1 75k Middle East Gulf to Japan | TC5 55k Middle East Gulf to Japan| TC14 38k US Gulf to Japan
 
 
 - In the **clean** segment, the standout route for annual growth is MR USG to Continent, with earnings up 337% annually and latest indications at about $43k/day.
@@ -146,12 +146,12 @@ In light of these developments, we reviewed U.S. crude oil shipments to India us
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f36_d1745161.png)
 
 
-## Supply Market Trends
+## SUPPLY MARKET TRENDS
 
 In this section, we highlight the areas of the dirty Baltic routes where TSOP signals show the latest upward trend, contrary to the direction of freight market movements.
 
 
-## VLCC |wafrvsag
+## VLCC | Wafr vs AG
 
 
 - **West Africa:** The increasing availability of spot/relet vessels on the TD15 route, which has surged by approximately 78% in the last week, may begin to weigh on market sentiment and increase downward pressure on freight rates. This upward trend in availability has been evident over the past 15 days, with the vessel count now nearing 20, a significant increase from a low of 6 vessels at the end of the third week of January.
@@ -166,7 +166,7 @@ In this section, we highlight the areas of the dirty Baltic routes where TSOP si
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f2d_41b8d833.png)
 
 
-## Suezmax | Wafrvsblack Sea
+## Suezmax | Wafr vs Black Sea
 
 
 - **West Africa**: Supply pressure is evident, with the availability of spot/relet vessels on the TD20 route now exceeding 30. This marks a 100% increase from the exceptionally low levels observed in mid-January.
@@ -181,10 +181,10 @@ In this section, we highlight the areas of the dirty Baltic routes where TSOP si
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-06-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6985e3bd658ed643736a6f1b_f5b005b8.png)
 
 
-## Dirty Demand | Tonne Miles - Index View
+## DIRTY DEMAND | TONNE MILES - INDEX VIEW
 
 
-## VLCC | Suezmax | Aframax 7d Ma Mixed
+## VLCC | Suezmax | Aframax 7D MA Mixed
 
 The VLCC segment's year-on-year tonne-mile index growth has recently fallen below 100%, lagging behind the Suezmax and Aframax segments. Furthermore, this trend has been in steady decline since its mid-November peak, raising early caution signals regarding the freight market's ability to sustain strength as we approach the end of the first quarter.
 
@@ -197,10 +197,10 @@ The VLCC segment's year-on-year tonne-mile index growth has recently fallen belo
 Metrics Description: [Index View](https://app.signalocean.com/dry/dynamic/timeseries\_dry) (Base 100) by total Tonne Miles over the selected period. This facilitates relative performance comparisons between segments of different sizes (e.g., comparing the growth rate of VLCC vs Suezmax)
 
 
-## Clean Demand | Tonne Miles - Index View
+## CLEAN DEMAND | TONNE MILES - INDEX VIEW
 
 
-## Aframax | Panamax | Mr 7d Ma Mixed
+## Aframax | Panamax | MR 7D MA Mixed
 
 The Aframax segment is experiencing a significant downward trend in its growth index, recently dropping to a low of 80%. This contrasts sharply with the firmer performance observed in the dirty tonne-miles growth rate.
 

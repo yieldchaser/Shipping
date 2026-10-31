@@ -25,7 +25,7 @@ tags:
 
 *Published on 20 March 2024*
 
-## Reduction in the Count of Panamax Vessels in Ballast Status with the Ecsa Daily Volume Loaded Surpassing the Demand Benchmark
+## Reduction in the Count of Panamax Vessels in Ballast Status with the ECSA Daily Volume Loaded Surpassing the Demand Benchmark
 
 
 ![65fae87806ce42a5b031e6be Chart of the Week Dry (1)](../../images/65fae87806ce42a5b031e6be_chart of the week dry (1).png)

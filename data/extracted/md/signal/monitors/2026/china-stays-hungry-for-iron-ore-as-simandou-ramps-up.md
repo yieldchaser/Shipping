@@ -22,7 +22,7 @@ tags:
 
 *Published on 03 March 2026*
 
-## Commodity Radar | Spotlight: Iron Ore
+## COMMODITY RADAR | Spotlight: IRON ORE
 
 
 ## China Stays Hungry for Iron Ore as Simandou Ramps-Up

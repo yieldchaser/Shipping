@@ -146,6 +146,14 @@ def format_title_case(s):
 
     return ' '.join(out)
 
+def format_heading(s):
+    """Title-case a heading but keep tokens printed with digits or 2+ capitals (U.S., 1Q, TC14, USG) as printed."""
+    words = re.sub(r'[*_`]', '', s).split()
+    out = format_title_case(s).split()
+    if len(out) != len(words):
+        return format_title_case(s)
+    return ' '.join(w if (re.search(r'\d', w) or sum(c.isupper() for c in w) >= 2) else o for w, o in zip(words, out))
+
 def parse_iso_date(raw_str):
     if not raw_str:
         return None
@@ -464,11 +472,11 @@ def convert_report_file(html_path, manifest_dict):
             continue
 
         if elem.name in ['h2', 'h3', 'h4', 'h5', 'h6']:
-            raw_h = elem.get_text(strip=True)
-            raw_h = raw_h.replace('\u200d', '').replace('\ufeff', '').strip()
+            # Join inline runs with spaces: "<strong>TC14 </strong>38k" must not glue to "TC1438k".
+            raw_h = ' '.join(elem.get_text(' ', strip=True).replace('\u200d', '').replace('\ufeff', '').split())
             if raw_h:
                 lvl = '#' * int(elem.name[1])
-                clean_h = format_title_case(raw_h)
+                clean_h = format_heading(raw_h)
                 clean_h = re.sub(r'(\w)_(\w)', r'\1\\_\2', clean_h)
                 md_content_blocks.append(f"\n{lvl} {clean_h}\n")
         elif elem.name == 'p':

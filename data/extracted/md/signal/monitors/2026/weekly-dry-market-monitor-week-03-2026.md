@@ -25,7 +25,7 @@ tags:
 
 *Published on 15 January 2026*
 
-## Chart of the Week|dailyfreightassessments: BCI
+## Chart of the Week | Daily Freight Assessments: BCI
 
 Sharp correction since the December peak highlights near-term pressure, though levels remain above last year (+51%)
 
@@ -51,7 +51,7 @@ The start of the year has seen the BDI come under renewed pressure, with Capesiz
 Despite the recent weakness, the market pulse remains stronger than it was a year ago. Looking ahead, sentiment is expected to improve gradually. Iron ore prices have strengthened in recent sessions amid growing expectations that the Chinese cabinet will announce a new package of stimulus measures aimed at supporting economic growth and infrastructure activity. If confirmed, such policy support could help strengthen Capesize earnings and provide a near-term floor for the BDI as the quarter progresses.
 
 
-## Brazilian Iron Ore Shipments |early-Yearflowsturning Lower
+## Brazilian Iron Ore Shipments | Early-Year Flows Turning Lower
 
 As of 12 January, Brazilian iron ore shipments on a 7-day moving-average basis are estimated to be ~2.6% lower year-on-year versus the same early-January period in 2024. The latest 7-day average also suggests early-2026 shipments are running ~16% below early-2025 levels and ~18% below early-2024, based on Signal Ocean data.
 
@@ -62,12 +62,12 @@ As of 12 January, Brazilian iron ore shipments on a 7-day moving-average basis a
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-03-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6968ac2f08061425805d45d2_df65c315.png)
 
 
-## Freight Market Weaker
+## FREIGHT MARKET Weaker
 
 Market price trends depicted are based on Signal Ocean Assessments. For real-time updates and historical comparisons, access our Freight Market Analytics dashboard here:[Signal Ocean Freight Market Analytics](https://app.signalocean.com/dry/dynamic/market-prices-dry).
 
 
-### Baltic Ratescomparison
+### Baltic Rates Comparison
 
 
 ![Baltic Rates Comparison](../../../../../../corpus/07-signal/images/6968ac2f08061425805d45cf_0bb21f3d.png)
@@ -105,10 +105,10 @@ Market price trends depicted are based on Signal Ocean Assessments. For real-tim
 - Latest estimates for Brazilian iron ore production in Q1 also point to solid output levels, This soft start to the year occurs against a backdrop of record Brazilian iron ore exports in 2025, which grew about 7.1% y/y and surpassed 400 million tonnes for the first time, and production guidance for 2026 that remains robust, with leading miners projecting similar output bands to 2025. Vale expects iron ore production in 2026 to be in the range of 335–345 million tons, reflecting output continuity and industry capacity, even as some forecasts were revised downward.
 
 
-## Ballasters Overview
+## BALLASTERS OVERVIEW
 
 
-### Capesize| Vessel Count Grows in Io / Sa
+### Capesize | Vessel Count Grows in IO / SA
 
 
 ![Capesize | Vessel Count Grows in Io / Sa](../../../../../../corpus/07-signal/images/6968ac2f08061425805d45c0_3dda41d6.png)

@@ -26,7 +26,7 @@ tags:
 
 *Published on 04 July 2024*
 
-## This Week's Data Highlights an Increasing Trend in VLCC Available Spot Relet Vessels to Load in Ras Tanura in the Next 30 Days (Left Chart), Coinciding with Weakening AG-China Freight Market Rates Throughout June. This Trend Appears to Be Persisting Into July, Pushing WS Td3 Rates to a New Low for This Year. in the Right Chart, Data Illustrate the Weekly Arrivals of Vessels in the AG for the Next 30 Days per Week, Showing an Increase From the Second Week Onwards. the Weaker Outlook of the VLCC Dirty Segment in the AG Is Further Corroborated by the Previous Two Weekly Charts, Which Depict a Decline Invlcc Dirty Tonne Daysand the Consequent Impact Onballast Speed.
+## This Week's Data Highlights an Increasing Trend in VLCC Available Spot Relet Vessels to Load in Ras Tanura in the Next 30 Days (Left Chart), Coinciding with Weakening AG-China Freight Market Rates Throughout June. This Trend Appears to Be Persisting Into July, Pushing WS TD3 Rates to a New Low for This Year. in the Right Chart, Data Illustrate the Weekly Arrivals of Vessels in the AG for the Next 30 Days per Week, Showing an Increase From the Second Week Onwards. the Weaker Outlook of the VLCC Dirty Segment in the AG Is Further Corroborated by the Previous Two Weekly Charts, Which Depict a Decline in VLCC Dirty Tonne Days and the Consequent Impact on Ballast Speed .
 
 
 ![6686adcd47c3cf55ddfd3c2d Chart of the Week Tanker](../../images/6686adcd47c3cf55ddfd3c2d_chart of the week tanker.png)

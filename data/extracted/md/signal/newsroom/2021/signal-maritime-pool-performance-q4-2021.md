@@ -47,7 +47,7 @@ Visit our [website](https://www.thesignalgroup.com). For the latest updates and 
 ## Frequently Asked Questions
 
 
-### What Is the Signal Maritime Aframax Pool (Smap)?
+### What Is the Signal Maritime Aframax Pool (SMAP)?
 
 The Signal Maritime Aframax Pool (SMAP) is a commercially managed pool of Aframax tankers operated by Signal Maritime. Pool partners benefit from optimised voyage scheduling, market intelligence, and collective earnings that outperform single-vessel trading.
 

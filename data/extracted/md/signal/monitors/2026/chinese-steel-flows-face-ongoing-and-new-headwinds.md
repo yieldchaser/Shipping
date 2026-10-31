@@ -22,7 +22,7 @@ tags:
 
 *Published on 27 May 2026*
 
-## Commodity Radar | Spotlight: Steel
+## COMMODITY RADAR | Spotlight: STEEL
 
 
 ## Chinese Steel Flows Face Ongoing and New Headwinds

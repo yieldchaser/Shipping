@@ -26,7 +26,7 @@ tags:
 
 *Published on 07 September 2026*
 
-## Spotlight of the Week - India and the Widening Tanker Freight Squeeze
+## SPOTLIGHT OF THE WEEK - India and the Widening Tanker Freight Squeeze
 
 This week’s Tanker Market Monitor tracks India’s return to Iraqi supply as Gulf oil movements recover amid persistent shipping risk. Yanbu is rebuilding its role as an export outlet, but insurance costs and the onward Red Sea voyage remain important constraints. At the same time, freight strength is spreading through Suezmax and Aframax markets in both the East and West.
 
@@ -77,7 +77,7 @@ Crude loadings at Yanbu stopped after Saudi Aramco shut the East–West pipeline
 On 1 October, a projectile struck inside Yanbu port, causing a fire and a temporary suspension of loading with the reporting tanker before operations resumed. Southbound cargoes from Yanbu to India and Asia still pass Bab el-Mandeb, where UKMTO reported multiple explosions close to a tanker 60 nautical miles south of Al Mukha on 4 October.
 
 
-## Opec+ and Gulf Supply
+## OPEC+ and Gulf Supply
 
 OPEC+’s decision to **keep November production targets at September levels** puts the focus on how much supply producers can restore within existing allowances. The seven participating countries, Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman, agreed on 4 October to maintain those targets and reaffirmed their commitment to compliance. Their next monthly review on **1 November** will provide another opportunity to assess the recovery, with infrastructure repairs and export access remaining central to the supply outlook.
 
@@ -144,7 +144,7 @@ The clean market shows a widening divergence between LR2 and MR earnings. East o
 *Freight/TCE: Signal, latest weekly spot assessment (CSV export of 9 October 2026). Labels show the current rate and the weekly change.*
 
 
-## Spot Rate Summary: Clean TCE, Lr2, Lr1, Mr and Handy
+## Spot Rate Summary: Clean TCE, LR2, LR1, MR and Handy
 
 
 ![Spot Rate Summary: Clean TCE, Lr2, Lr1, Mr and Handy](../../images/6ac8d8ff7f1d3e344fef4f77_Screenshot 2026-10-09 at 13.04.56.png)

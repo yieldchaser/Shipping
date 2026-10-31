@@ -25,7 +25,7 @@ tags:
 
 *Published on 05 February 2025*
 
-## This Week's Highlight Explores the Evolving Dynamics of U.s. Coal Exports to Europe From 2023 to 2024, Along with the Emerging Trend for 2025.
+## This Week's Highlight Explores the Evolving Dynamics of U.S. Coal Exports to Europe From 2023 to 2024, Along with the Emerging Trend for 2025.
 
 
 ![67a33361f7411ece2945a4aa Ad 4nxczxlylsjd Oodnsszet0zorq Shtnyzhk3q4uqt5p2fwssu95rmrwrvnj R Dimknu Fzo5loo8bs3zuhxeqe0sg13cpjkir29ilfgkpylcwoqxlyr1fa3kvcrvwywh7l 6jaliq](../../images/67a33361f7411ece2945a4aa_AD_4nXczxLYLsJd_OODNsszeT0ZOrq_sHtnYzHK3Q4uqt5p2FWSSu95rmrwRVNj_r-diMknU_FZO5lOo8Bs3zUHXEQe0SG13cpJKir29ilFGKPyLcWoQxLYR1FA3kvCrvWyWh7l_6jAliQ.avif)

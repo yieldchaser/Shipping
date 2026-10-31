@@ -46,7 +46,7 @@ In March 2025, a total of 44 Aframax voyages were recorded discharging in the Fa
 ## Drivers Behind the March 2025 Surge
 
 
-## Geopolitical Pressure: U.s. Threatens Tariffs
+## Geopolitical Pressure: U.S. Threatens Tariffs
 
 In late March 2025, the United States escalated its stance on Russian energy exports by reiterating threats to impose secondary sanctions and steep tariffs—ranging from 25% to 50%—on international buyers of Russian crude. This geopolitical development likely triggered a tactical response from both Russian exporters and Asian refiners, who moved swiftly to secure cargoes ahead of any policy implementation. While the year-on-year export volumes dipped slightly in March, the sharp month-on-month increase suggests that the tariff threat played a significant role in the end-of-quarter surge, as market participants sought to front-run potential disruptions to trade flows.
 

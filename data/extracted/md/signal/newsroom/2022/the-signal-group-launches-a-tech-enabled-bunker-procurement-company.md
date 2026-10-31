@@ -65,7 +65,7 @@ Shipergy is a tech-enabled bunkering company launched by The Signal Group. It so
 Shipergy's longer-term roadmap targets decarbonisation and fuel transition — positioning the company to support owners navigating alternative fuels and evolving compliance requirements.
 
 
-## Faq
+## FAQ
 
 
 ### What Is Shipergy?

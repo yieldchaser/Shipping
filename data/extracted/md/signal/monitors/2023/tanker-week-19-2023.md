@@ -26,7 +26,7 @@ tags:
 
 *Published on 12 May 2023*
 
-## Number of Ships at Ras Tanura Port of Loading Increases as Demand Ton-Miles Drops to Fe
+## Number of Ships at Ras Tanura Port of Loading Increases as Demand Ton-Miles Drops to FE
 
 
 ![Data Source: The Signal Ocean Platform - Supply / Demand Ton Charts Https://app.signalocean.com/tanker/reports/historicaltl](../../images/645de7a133351959b3b8c14d_chart of the week wet logo.png)

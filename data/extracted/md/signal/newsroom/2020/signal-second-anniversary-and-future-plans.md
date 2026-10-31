@@ -29,7 +29,7 @@ Since its launch, Signal’s platform has continued evolving and now tracks more
 “We are very proud of how quickly our solution for the larger crude oil tankers caught on. More than 70 of the world’s most significant players, including oil majors, traders, brokers and shipowners are using us to track global freight markets daily. We want to offer a comprehensive solution  for the shipping industry, so we have been hard at work to increase our coverage. Our technology actually helps us do this efficiently, but our clients and partners have been indispensable, too,” said Signal’s COO, Dimitris Tsapoulis.
 
 
-## Thesignal Maritimeaframax Pool
+## The Signal Maritime Aframax Pool
 
 The Signal Maritime Aframax [Pool](https://www.thesignalgroup.com/signal-maritime#smartpool) launched in July 2018 as an independent part of the Signal Group. Licensing the software like any other client, Signal Maritime has showcased the kind of impact this type of technology can have on performance. The Pool has consistently produced top daily earnings (TCE) performance globally and has grown to include 27 vessels from 13 pool partners.  The pool’s expansion occurred both organically and through a partnership with Heidmar in January 2020.  The Signal Pool is now one of the largest Aframax pools in the world and offers  flexibility for entry and exit, a novel approach, in addition to leading performance..
 
@@ -48,7 +48,7 @@ To further support Signal’s push into the Dry Commodities space, the company h
 This is a proven model for innovation: in 2017, Signal Ocean partnered with crude oil expert analyst, Florian Thaler, another Entrepreneur-in-Residence, who leveraged Signal’s environment and solution to incubate oil data analytics company OilX. OilX has recently raised a funding round from investors such as Citigroup and GS Caltex. In addition, it is backed by the European Space Agency and continues to steadily gain user adoption in the oil trading space.
 
 
-## Post Covid-19 Landscape
+## Post COVID-19 Landscape
 
 During the time of disruption and tremendous economic uncertainty caused by the COVID-19 outbreak, Signal achieved one of its most productive and creative periods, quickly adapting to the realities of remote work. In fact, The Signal Ocean Platform itself has played a significant role in this, for us and for many of our clients, through its collaboration and communication enhancing features.
 

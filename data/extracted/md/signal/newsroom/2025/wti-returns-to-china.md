@@ -22,7 +22,7 @@ tags:
 
 *Published on 06 October 2025*
 
-## Market Insights: Oil Flowswti Returns to China
+## MARKET INSIGHTS: OIL FLOWS WTI Returns to China
 
 
 ![Signal Ocean Oil Flows](../../../../../../corpus/07-signal/images/68e39111bb933e1d4e0dbc23_ac1d90d4.png)

@@ -27,7 +27,7 @@ The maritime industry faces both challenges and opportunities, with efficiency a
 By leveraging cutting-edge technology and unparalleled data analytics, Signal delivers superior performance compared to other commercial operators while meeting the industry’s growing regulatory demands for improvement of the Carbon Intensity Indicator (CII) and overall GHG emissions reduction in maritime shipping.
 
 
-## Exceptionalpool Fleetperformance: A Benchmark for Success
+## Exceptional Pool Fleet Performance: A Benchmark for Success
 
 In a competitive maritime landscape, Signal sets a high standard not only through the performance of the Pool’s fleet but also by upholding values that guide responsible business practices. Historically, Signal has achieved significant over performance relative to the market average and peers, while maintaining a transparent operational approach.
 
@@ -36,12 +36,12 @@ Since its inception in 2018, Signal’s Aframax Pool has managed to outperform t
 These impressive figures are backed by Signal’s analytically-driven global trading strategies, cutting-edge pool infrastructure, and strong relationships with top-tier oil majors and traders. This combination highlights the tangible value created for Pool Partners, even in complex and competitive markets. But Signal’s commitment doesn’t stop there. Performance metrics are not just about spot performance, they’re also about sustainability and compliance with regulations.
 
 
-## Adapting to Cii, EU ETS and Fuel EU Emissions Regulations
+## Adapting to CII, EU ETS and Fuel EU Emissions Regulations
 
 As the maritime industry undergoes a profound transformation toward greater sustainability, compliance with frameworks such as the Carbon Intensity Indicator (CII), the EU ETS and the recently launched Fuel EU regulations has become essential. Signal recognises this new norm and has positioned its brand as a leader in supporting this transition through comprehensive operational strategies and systems.
 
 
-## Cii Compliance and Commitment
+## CII Compliance and Commitment
 
 More than 90% of the [fleet managed by Signal](https://www.thesignalgroup.com/signal-maritime), traded for at least nine months in the Pool, has achieved a CII rating of C or higher for 2024, reflecting Signal's commitment to balancing sustainability and operational excellence.
 

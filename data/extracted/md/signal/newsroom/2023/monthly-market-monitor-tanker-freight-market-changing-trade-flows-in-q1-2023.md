@@ -74,7 +74,7 @@ In contrast to the main European oil importing countries, where there was a stea
 *The next two sections, focusing on Russian oil exports, examine the new patterns in oil flows for Russia's losses and the alternative sources of European energy demand in the first quarter of the year.*
 
 
-## Section Ii: Russian Oil Flows to Other Non-European Destinations
+## Section II: Russian Oil Flows to Other Non-European Destinations
 
 
 ##### Increase of Russian Crude Oil to China & India
@@ -110,7 +110,7 @@ MR1 tankers seemed to capture nearly half of the business. However, the new dire
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/monthly-market-monitor-tanker-freight-market-changing-trade-flows-in-q1-2023) | [Local Asset](../../../../../../corpus/07-signal/images/642afcaafc0b524c65ab70b7_image%205.%20diesel%20from%20Russia%20to%20North%20Africa,Med%20logo.avif)
 
 
-## Section Iii: European Countries and Oil Imports
+## Section III: European Countries and Oil Imports
 
 *(sources other than Russian oil purchases)*
 

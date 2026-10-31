@@ -22,7 +22,7 @@ tags:
 
 *Published on 18 August 2026*
 
-## Commodity Radar | Spotlight: Coal
+## COMMODITY RADAR | Spotlight: COAL
 
 
 ## Divergence in the Coal Market Offers Opportunities

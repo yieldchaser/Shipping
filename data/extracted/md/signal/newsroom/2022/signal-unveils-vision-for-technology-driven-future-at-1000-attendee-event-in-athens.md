@@ -22,7 +22,7 @@ tags:
 
 *Published on 10 June 2022*
 
-## Signal Unveils Vision for Technology-Driven Future at 1000-Attendee Event in Athens
+## Signal Unveils Vision for Technology-Driven Future at 1000-attendee Event in Athens
 
 Signal, the diversified shipping services group, reflected on recent milestones and offered a vision of a technology-driven future underpinning relationships and human decision-making by shipping professionals.
 

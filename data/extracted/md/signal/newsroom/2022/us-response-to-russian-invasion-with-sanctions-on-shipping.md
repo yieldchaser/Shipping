@@ -95,7 +95,7 @@ Signal Ocean's platform delivers real-time vessel tracking, supply-demand analyt
 [Request a Signal Ocean Demo](https://www.thesignalgroup.com/contact)
 
 
-## Faq: Russia Sanctions & Shipping
+## FAQ: Russia Sanctions & Shipping
 
 **What sanctions affect shipping?** The U.S. sanctioned five vessels owned by PSB Leasing (a Promsvyazbank subsidiary) and imposed debt and equity restrictions on 13 major Russian enterprises via OFAC. SWIFT sanctions further threatened the banking rails used to settle Russian export transactions.
 

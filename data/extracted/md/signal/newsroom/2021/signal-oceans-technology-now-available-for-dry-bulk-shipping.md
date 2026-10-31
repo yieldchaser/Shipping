@@ -25,7 +25,7 @@ tags:
 
 *Published on 06 October 2021*
 
-## The Signal Oceanplatformhas a New Dry Bulk Module.
+## The Signal Ocean Platform Has a New Dry Bulk Module.
 
 The move follows nearly two years of development in close partnership with shipbroker Simpson Spence Young (SSY) and detailed beta testing with more than 30 shipowners and charterers. The Signal Ocean Platform is already successfully used in the tanker market by shipbrokers, shipowners, traders and energy majors who manage around half of the world’s crude oil spot tonnage and cargoes.
 

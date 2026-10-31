@@ -22,10 +22,10 @@ tags:
 
 *Published on 03 April 2025*
 
-## U.s. Steel Industry: Market Outlook, Trade War Implications & Dry Bulk Freight Impact
+## U.S. Steel Industry: Market Outlook, Trade War Implications & Dry Bulk Freight Impact
 
 
-## The March Edition of Signal Ocean Research Offers an In-Depth Analysis of the U.s. Steel Industry. It Examines How Recent Developments Such as Tariffs and Trade Tensions Could Reshape Globalcommoditymarkets,commodity Trading, and the Dry Bulk Freight Sector. Leveraging Data From the Signal Ocean Platform, We Explore Current Steel Trade Flows and Assess the Potential for Structural Shifts in the Existing Market Framework.
+## The March Edition of Signal Ocean Research Offers an In-Depth Analysis of the U.S. Steel Industry. It Examines How Recent Developments Such as Tariffs and Trade Tensions Could Reshape Global Commodity Markets, Commodity Trading , and the Dry Bulk Freight Sector. Leveraging Data From the Signal Ocean Platform, We Explore Current Steel Trade Flows and Assess the Potential for Structural Shifts in the Existing Market Framework.
 
 **In This Article**
 

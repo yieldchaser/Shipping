@@ -25,10 +25,10 @@ tags:
 
 *Published on 15 July 2026*
 
-## Spotlight of the Week
+## SPOTLIGHT OF THE WEEK
 
 
-## Panamax Spot Comparison — P2a82 vs P5TC vs P682
+## Panamax Spot Comparison — P2A\_82 vs P5TC vs P6\_82
 
 
 ![Baltic Rates Comparison Timeseries — P2a82, P5TC and P682 Timecharter-Equivalent Rates ($/day), 12-Month View](../../../../../../corpus/07-signal/images/6a5769e20c95ffe42235fd8e_af096584.jpeg)
@@ -44,7 +44,7 @@ tags:
 Early-week assessments as of 14 July place P5TC at approximately $20,260/day, P6\_82 at $20,283/day, and P5\_82 at $15,761/day, suggesting that the Panamax market has so far preserved the earnings levels recorded during the week to 10 July
 
 
-## Freight Market Overview | BDI & Segment Metrics
+## FREIGHT MARKET OVERVIEW | BDI & SEGMENT METRICS
 
 
 ![Freight Market Overview | BDI & Segment Metrics](../../images/6a576b1afc42c011649a2f08_Table 1.png)
@@ -57,7 +57,7 @@ Capesize remained the primary driver of the market, with the BCI rising to 4,655
 *All data and commentary reflect market conditions as of 10 July 2026, unless otherwise stated.*
 
 
-## Capesize | Analysis
+## CAPESIZE | ANALYSIS
 
 BCI rose to 4,655 (+86 day-on-day; +555 week-on-week), extending the rally that is driving the dry bulk market higher. Average C5TC earnings climbed to $38,711/day (+$780 day-on-day). Iron ore routes firmed further, with C3 (Tubarao–Qingdao) at $33.00/mt and C5 (West Australia–Qingdao) at $13.32/mt, both recovering strongly month-on-month. BCI 52-wk high 5,517 / low 2,104; 5-yr avg 2,728.
 
@@ -96,7 +96,7 @@ Capesize and VLOC tonne-mile indices both eased toward the low-90% range into ea
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-28-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a576c1e2343417ec3821051_d8556bde.jpeg)
 
 
-## Panamax | Analysis
+## PANAMAX | ANALYSIS
 
 BPI 2,253 (Day 0, Week +50) — flat on the day but firmer over the week, led by the Pacific round. P2A\_82 reached 32,005 $/day and P6\_82 19,990 $/day, while the transatlantic P1A\_82 eased to 23,073 $/day. P5TC TC avg 20,273 $/day. The index continues to trade above the 5-year average of 1,887 and well above the 2025 low of 748, with a 52-wk high of 2,521.
 
@@ -144,7 +144,7 @@ Panamax and Post-Panamax tonne-mile indices remained close to the 100% level aft
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-28-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a576cc50be201ada12dd08e_fb61cb15.jpeg)
 
 
-## Supramax | Analysis
+## SUPRAMAX | ANALYSIS
 
 BSI firmed to 1,706 (+6 day-on-day; +33 week-on-week), recovering after the prior week's pullback and pushing back toward its 52-week high (1,718). Average S10TC earnings rose to $19,536/day (+$80 day-on-day), with monthly, quarterly and annual performance all above year-ago levels. The index sits well above the 52-week low (952) and its 5-year average (1,503).
 
@@ -198,7 +198,7 @@ The tonne-mile indices continue to differentiate the smaller dry bulk segments. 
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-28-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a576f2e8c7f85ed0c1585c9_Table%202.png)
 
 
-## Handysize | Analysis
+## HANDYSIZE | ANALYSIS
 
 BHSI edged lower to 915 (-2 day-on-day; -27 week-on-week), extending its consolidation below the recent 52-week high of 947. Average HS7TC earnings eased to $16,466/day (-$40 day-on-day), with firmer South Atlantic sentiment (HS1\_38 +72, HS2\_38 +179 on the day) partly offsetting weaker Pacific routes. Despite the pullback, the index remains above the 52-week low (588) and its 5-year average (874).
 
@@ -237,7 +237,7 @@ The global ballaster count declined to 659 vessels from 682. The North Atlantic 
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-28-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a576f9ef5fdb5c0f48cb935_c316ec10.jpeg)
 
 
-## Overall Market Trend | Conclusions
+## OVERALL MARKET TREND | CONCLUSIONS
 
 
 ![Overall Market Trend | Conclusions](../../images/6a576fca044cb361910fe295_Table 3.png)

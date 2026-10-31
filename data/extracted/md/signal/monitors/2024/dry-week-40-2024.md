@@ -25,7 +25,7 @@ tags:
 
 *Published on 02 October 2024*
 
-## This Week's Focus Is on the U.s. Port Congestion Amid Recent Port Strikes. the Ongoing U.s. Port Strikes, Particularly at the Port of New Orleans, Are Causing Significant Congestion and Delays. as One of the Key Gulf Coast Ports, New Orleans Handles a Substantial Amount of Dry Bulk Commodities, Including Agricultural Exports Like Grains. Ships Are Facing Long Wait Times to Unload and Load Cargo, Leading to Increased Costs for Shipping Companies and Potential Shortages in Supply Chains. the Longer the Strike Continues, the More Severe the Congestion and Economic Impacts on Industries Reliant on These Critical Trade Flows.
+## This Week's Focus Is on the U.S. Port Congestion Amid Recent Port Strikes. the Ongoing U.S. Port Strikes, Particularly at the Port of New Orleans, Are Causing Significant Congestion and Delays. as One of the Key Gulf Coast Ports, New Orleans Handles a Substantial Amount of Dry Bulk Commodities, Including Agricultural Exports Like Grains. Ships Are Facing Long Wait Times to Unload and Load Cargo, Leading to Increased Costs for Shipping Companies and Potential Shortages in Supply Chains. the Longer the Strike Continues, the More Severe the Congestion and Economic Impacts on Industries Reliant on These Critical Trade Flows.
 
 
 ![66fe524ffb91dd2728683d85 66fe5209894b4e5a5012396c Congestion](../../images/66fe524ffb91dd2728683d85_66fe5209894b4e5a5012396c_congestion.avif)

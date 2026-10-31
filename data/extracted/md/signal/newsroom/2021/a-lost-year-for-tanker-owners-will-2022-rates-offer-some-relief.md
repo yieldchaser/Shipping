@@ -74,7 +74,7 @@ One factor that is unlikely to support rates in the coming year is slow-steaming
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-lost-year-for-tanker-owners-will-2022-rates-offer-some-relief) | [Local Asset](../../../../../../corpus/07-signal/images/66b51dc9da739356d24f6a0b_61c5a0b44c32b423eaaa02e9_3%2520Signal%2520Ocean%2520Data%2520%2520Weekly%2520average%2520vessel%2520speed%2520by%2520tonnage%2520segment%2520laden%2520and%2520ballast%2520in%2520knots.avif)
 
 
-#### Clean Mr2
+#### Clean MR2
 
 While the dirty tanker sector has had a challenging year, the freight market for tankers transporting refined petroleum products has eventually endured a less problematic year. Unlike their dirty siblings, clean tankers have enjoyed quite a revival during the last month. Freight rates for clean MR2 tankers on the Continent to US Atlantic Coast route have enjoyed the best rates since May 2020 in the recent days.
 

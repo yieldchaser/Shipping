@@ -25,7 +25,7 @@ tags:
 
 *Published on 18 September 2024*
 
-## This Week's Charts Focus on the Monthly Volume of Soybeans and Corn Exported From Brazil and the U.s. to China for the Current Year, Compared to the Previous Two Years.
+## This Week's Charts Focus on the Monthly Volume of Soybeans and Corn Exported From Brazil and the U.S. to China for the Current Year, Compared to the Previous Two Years.
 
 
 ![Https://app.signalocean.com/dry/dynamic/drybulkflows-Downloadable](../../images/66eac67271eae28e9451ee17_66eac645345abd59ec88dbf2_Untitled%2520(2).avif)

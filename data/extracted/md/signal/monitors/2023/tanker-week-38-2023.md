@@ -26,7 +26,7 @@ tags:
 
 *Published on 21 September 2023*
 
-##### Higher Growth Rates of Dirty Libyan Exports to Italy, Spain, France and the Netherlands in 2q - 3q 2023
+##### Higher Growth Rates of Dirty Libyan Exports to Italy, Spain, France and the Netherlands in 2Q - 3Q 2023
 
 
 ![Heading](../../images/650c3000060d2c2bc8513067_OIL LIBYA.png)

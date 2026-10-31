@@ -30,7 +30,7 @@ tags:
 In 2025, seaborne dry bulk flows showed mixed trends across major commodities. Iron ore exports grew modestly, with China remaining the dominant importer despite a slowdown in domestic steel production. Coal shipments fell, reflecting China’s rising domestic production and shift toward renewables. Bauxite flows surged, driven by strong Chinese aluminium production and, more recently, due to substitution for higher-cost copper. Chinese steel exports rose as domestic demand softened, with India emerging as a key destination.
 
 
-## Dry Bulk Flows| Iron Ore
+## Dry Bulk Flows | Iron Ore
 
 In 2025, Signal Ocean recorded that seaborne iron ore flows increased by 2.5% to reach 1.8 billion tons. Australia was the origin for 55% of all seaborne iron ore exports, consistent with the previous year. China remained the top destination for flows, accounting for 75%, which was consistent with the figure in 2024. Given that the global overall volumes increased by 2.5%, China imported 23mt more seaborne iron ore in 2025 than in 2024.
 
@@ -49,7 +49,7 @@ Lower iron ore prices could incentivize buyers to replenish their inventories, s
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-commodities-geopolitical-risk) | [Local Asset](../../../../../../corpus/07-signal/images/695d2e184b3cbf7dc0e6875e_8d9904e5.png)
 
 
-## Dry Bulk Flows| Coal
+## Dry Bulk Flows | Coal
 
 In 2025, Signal Ocean recorded that seaborne coal flows decreased 3.4% to 1.4 billion tonnes. Indonesia was the origin for 37% of all seaborne coal tonnage recorded by TSOP, softening slightly from a 38% share in 2024. China remained the largest receiver of seaborne coal from TSOP, but it did soften in 2025 to 29% from 31% in 2024.
 
@@ -68,7 +68,7 @@ This will have consequences on capesize demand, with the outlook for iron ore al
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-commodities-geopolitical-risk) | [Local Asset](../../../../../../corpus/07-signal/images/695d2e184b3cbf7dc0e68764_fb5bacb3.png)
 
 
-## Dry Bulk Flows| Bauxite
+## Dry Bulk Flows | Bauxite
 
 In 2025, Signal Ocean recorded that seaborne bauxite flows increased by 18% to 257mt. Guinea was the origin for the majority of these bauxite flows this year, increasing its share from 65% to 68%. China was the destination for the majority of these seaborne flows, and its proportion of total seaborne imports increased from 83% in 2024 to 85% in 2025.
 
@@ -85,7 +85,7 @@ Bauxite, therefore, provides some positivity in the capesize market. The outlook
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/annual-review-2025-commodities-geopolitical-risk) | [Local Asset](../../../../../../corpus/07-signal/images/695d2e184b3cbf7dc0e68761_e5ddbd3b.png)
 
 
-## Dry Bulk Flows| Steel
+## Dry Bulk Flows | Steel
 
 In 2025, Signal Ocean recorded that seaborne steel flows increased by 4% to reach 233mt. Unlike the other commodities mentioned above, China is not a top destination. Rather, the countries taking the highest proportion of seaborne flows are the U.S., 9%, Turkey, 8%, and India, 4%. Both the U.S. and Turkey were in the same position in 2024, but India has broken into the top three, over-taking Mexico, Indonesia, and China, which sat above it.
 

@@ -26,7 +26,7 @@ tags:
 
 *Published on 27 June 2024*
 
-## This Week's Data Highlights a Declining Trend in VLCC Tonne Days Growth (Left Chart), Coinciding with Weakening AG-China Freight Market Rates Throughout June and a Reduction in Tonne Day Growth From the AG to China. This Weaker Outlook Was Also Depicted in Last Week's Chart, Illustrating the Impact Onballast Speeds.notably, the Recent Decline in Growth of VLCC Dirty Tonne Days From the AG to Far East (Right Chart) Has Hit a Year-Low and Represents the Lowest Growth Rates Observed Since 2022 and 2023.
+## This Week's Data Highlights a Declining Trend in VLCC Tonne Days Growth (Left Chart), Coinciding with Weakening AG-China Freight Market Rates Throughout June and a Reduction in Tonne Day Growth From the AG to China. This Weaker Outlook Was Also Depicted in Last Week's Chart, Illustrating the Impact on Ballast Speeds. Notably, the Recent Decline in Growth of VLCC Dirty Tonne Days From the AG to Far East (Right Chart) Has Hit a Year-Low and Represents the Lowest Growth Rates Observed Since 2022 and 2023.
 
 
 ![667d965e7aee9955f364a7bf Tanker Chart](../../images/667d965e7aee9955f364a7bf_tanker chart.avif)

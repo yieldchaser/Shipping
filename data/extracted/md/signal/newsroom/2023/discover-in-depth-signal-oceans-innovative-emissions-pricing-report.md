@@ -66,7 +66,7 @@ The following image illustrates the dynamic changes in emissions volume (in MT) 
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/discover-in-depth-signal-oceans-innovative-emissions-pricing-report) | [Local Asset](../../../../../../corpus/07-signal/images/66b51c37a59e94dbefe21c9c_651d3c76d8d6919f050e28e7_Untitled%2520dirty.avif)
 
 
-## Emission Prices Mr2 and Mr1 Clean Tankers
+## Emission Prices MR2 and MR1 Clean Tankers
 
 The following image illustrates the dynamic changes in emissions volume (in MT) and associated cost (in USD) for the MR2 US Gulf to Continent full voyage route from 2019 to the present day (depicted in the left chart) and the downward adjustment observed in the MR1 Central Med route (as depicted in the right chart) from the end of the first quarter this year.
 

@@ -22,7 +22,7 @@ tags:
 
 *Published on 10 August 2026*
 
-## Commodity Radar | Spotlight: Iron Ore
+## COMMODITY RADAR | Spotlight: IRON ORE
 
 
 ## Chinese Port Stocks Rise Further as Steel Demand Softens

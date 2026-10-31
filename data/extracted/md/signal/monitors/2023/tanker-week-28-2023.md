@@ -26,7 +26,7 @@ tags:
 
 *Published on 13 July 2023*
 
-## Decline in U.s. Crude Oil Exports to China From May Puts Downward Pressure on VLCC Tonne-Mile Growth
+## Decline in U.S. Crude Oil Exports to China From May Puts Downward Pressure on VLCC Tonne-Mile Growth
 
 
 ![Data Source: The Signal Ocean Platform](../../images/64b018fe80726168bd513424_chart of the week tankers.png)

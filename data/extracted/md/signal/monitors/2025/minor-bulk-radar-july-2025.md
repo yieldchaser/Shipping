@@ -82,7 +82,7 @@ BauxiteNickel OreSugar
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/minor-bulk-radar-july-2025) | [Local Asset](../../../../../../corpus/07-signal/images/68777bafa5c19f0f25f109a4_AD_4nXdeGTd7qtUQ6jCubE5qwZ2MDj0umIt3DPaCM_o6phSi4X302YZa3NubwgMQh3aZCJtcm-bXvj6EjOHBtooTni61AOGDH_vE76inLglboqetcvY5cff7_bRSX7yF1WBl4OrMyJK9dg.png)
 
 
-### Exchange Ratesusd Vs:
+### Exchange Rates USD Vs:
 
 
 ![Exchange Ratesusd Vs:](../../images/68777a8fd3a19dc27d6d73ef_Screenshot 2025-07-16 at 11.09.04.png)
@@ -91,7 +91,7 @@ BauxiteNickel OreSugar
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/minor-bulk-radar-july-2025) | [Local Asset](../../../../../../corpus/07-signal/images/68777a8fd3a19dc27d6d73ef_Screenshot%202025-07-16%20at%2011.09.04.png)
 
 
-### Rmb Vs:
+### RMB Vs:
 
 
 ![Rmb Vs:](../../images/68777aa63e77d929a1aa0a77_Screenshot 2025-07-16 at 11.09.13.png)

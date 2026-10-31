@@ -43,7 +43,7 @@ Before the Ukraine war, Russia had a diverse oil export market, supplying crude 
 During 2023 and much of 2024, China and India absorbed large volumes of Russian crude, benefiting from discounts that at times ranged from $15 to $30 per barrel below Brent crude prices. India emerged as a major player, refining Russian crude and even re-exporting some refined products to Western markets. Russia also used a "shadow fleet" of aging tankers operating under obscure registries, helping circumvent sanctions and transport crude without relying on Western insurance and financial services.
 
 
-## The Impact of Tightened U.s. Sanctions on Current Trade
+## The Impact of Tightened U.S. Sanctions on Current Trade
 
 The latest round of U.S. sanctions, particularly those imposed on January 10, 2025, have significantly disrupted this trade. Targeting 183 vessels linked to Russian oil shipments, as well as key Russian companies like Gazprom Neft and Surgutneftegas, the restrictions have raised transportation costs and risks associated with moving Russian oil to China and India. For India, these new sanctions have introduced uncertainty. While pre-contracted shipments are allowed until March 12, 2025, traders are now struggling with increased freight costs and a shrinking pool of vessels willing to handle Russian oil. The sanctions have also impacted payment mechanisms, with Indian refiners facing difficulties settling transactions outside the U.S. financial system. As a result, some Indian refineries are considering diversifying their crude sources, turning to Middle Eastern and African suppliers to mitigate risks.
 

@@ -41,7 +41,7 @@ Our review, using [Signal Ocean](https://www.thesignalgroup.com/signal-ocean-pla
 The first part (**I. Benchmark Assessments**) emphasizes on the trend of benchmark values for the main age groups 5 -10 year old ships for dry and tankers per main ship size. The second part (**II. Estimated Market Ship Valuations**), analyzes the evolution of ship valuations for active and inactive vessels, current and historical, per age class category, 0-5, 5-10 and 10-15 year old ships.
 
 
-## I.benchmark Assessments
+## I.Benchmark Assessments
 
 Using Signal Ocean benchmark values, we can see the current trend of values in the dry compared to the wet segment, based on the aggregation of a widely distributed list of Sales & Purchases transactions. The benchmark assessments are published weekly at the Signal Ocean Platform for all vessel classes for the main age groups. The price curve of benchmark assessments reflects the pricing sentiment between a willing seller and buyer for a potential second hand sale and purchase transaction.
 
@@ -55,7 +55,7 @@ The image (1) displays the price assessments for dry and tanker vessels classes,
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/ship-valuation-review-industry-analysis-ship-prices-and-rates) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d6a474bb048e3c1943b_6151b8c3b97f4035b5d43271_Signal%2520ocean%2520platform%2520benchmark%2520ship%2520valuation%2520per%2520class%2520and%2520deadweight.avif)
 
 
-## Ii. Estimated Market Ship Valuations | Dry Bulkers in Focus
+## II. Estimated Market Ship Valuations | Dry Bulkers in Focus
 
 Using Signal Ocean’s algorithmic approach to Valuations, we can view how the sale and purchase price for dry bulk ships affected the market ship valuations in response to  the upward cycle of freight rates during the first 8 months of 2021.
 
@@ -138,7 +138,7 @@ To generate the same insights for your business and learn more about.[https://ww
 -Republishing is allowed with active link to source
 
 
-## Faq Section
+## FAQ Section
 
 **What drives dry bulk ship valuations?**
 Dry bulk vessel prices are largely influenced by freight market earnings, commodity demand such as iron ore and grains, fleet supply, and investor expectations about future shipping cycles.
@@ -153,4 +153,4 @@ Higher freight earnings improve expected cash flow from ships, which increases s
 Signal Ocean valuations combine benchmark sale and purchase data with vessel specific factors such as age, engine type, scrubbers, shipyard and build country.
 
 
-### Request a Demo Fromthe Signal Ocean Platform.
+### Request a Demo From the Signal Ocean Platform.

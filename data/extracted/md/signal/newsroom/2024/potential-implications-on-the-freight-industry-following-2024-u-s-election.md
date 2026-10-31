@@ -22,7 +22,7 @@ tags:
 
 *Published on 14 November 2024*
 
-## How the 2024 U.s. Election Could Reshape Global Freight Routes and Demand
+## How the 2024 U.S. Election Could Reshape Global Freight Routes and Demand
 
 
 ![How the 2024 U.s. Election Could Reshape Global Freight Routes and Demand](../../images/673601c5cc84d003f6fd1729_AD_4nXdq0-pSjobI7AjLSF51YqCOJFOEgT8IwH34vs_cpZurgp2AzBA8Vt2dTSJ3zejgGpzr3i8vSewTa3Z4fCTavwlAuTITHb4m5Tfqeri0aBVHIcE5FZ-G1eHXn0EvGBLhM4jJdKbv.avif)
@@ -88,7 +88,7 @@ Over recent years, monthly grain shipments from the U.S. Gulf to China have tren
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/potential-implications-on-the-freight-industry-following-2024-u-s-election) | [Local Asset](../../../../../../corpus/07-signal/images/673601c5eeb6e1ec365c417e_AD_4nXchiwfBiSyBVmDneWHcpc2Id6B8LaU7H6hzqj289MKfSCqPeC1ZzYIUPIZmfbKP6Bxdd_DxFBbe71jKEiL2nFizECA36-lGAPQyD-gTgaZhDOoJ3p99l9KGx5yKh-PuoavS3UkI_Q.avif)
 
 
-## Impact of the 2024 U.s. Election and Speculation on Trade Policies
+## Impact of the 2024 U.S. Election and Speculation on Trade Policies
 
 **** The 2024 U.S. election introduces added uncertainty to theU.S.-China agricultural trade. If Trump returns to office, there is speculation that additional tariffs could be placed on U.S. agricultural exports to China, potentially reducing Chinese grain purchases from the U.S. Gulf. This scenario could dampen sentiment in the dry bulk freight market, particularly for Panamax and Supramax vessels, which are commonly used for grain cargo.
 

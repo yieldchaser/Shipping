@@ -22,7 +22,7 @@ tags:
 
 *Published on 09 March 2026*
 
-## Iran- Usa/israel Conflict Impact on Fertiliser Markets
+## Iran- USA/Israel Conflict Impact on Fertiliser Markets
 
 While global markets are currently preoccupied with the potential impact of escalating Middle East tensions on oil, the crisis also poses a significant, though less discussed, risk to fertiliser supply chains. This disruption could ultimately affect global agriculture and food prices. Given the Arabian Gulf's crucial role in global fertilizer production and export, it is essential to consider the implications of the current crisis for the agricultural sector, apart from the primary focus on energy.
 

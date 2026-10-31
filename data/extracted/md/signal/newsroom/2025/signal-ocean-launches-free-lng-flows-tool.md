@@ -27,7 +27,7 @@ tags:
 The LNG Flows tool aggregates and visualises a static window of **LNG shipping data from January 2024 to January 2025**, delivering a comprehensive, recent view of the LNG market. Users can analyse cargo movements, identify key trade routes, and monitor supply and demand dynamics in the global LNG sector—all through an intuitive and interactive interface.
 
 
-## Key Features of Thelng Flows Tool
+## Key Features of the LNG Flows Tool
 
 
 - **Global Trade Flow Insights**: Track top origin and destination countries, along with the busiest LNG ports.
@@ -46,6 +46,6 @@ As part of Signal Ocean’s commitment to transparency and innovation in maritim
 “Shipping and commodities trading is getting more complex by the day. We want to encourage and help as many people to actively engage with data that can help.” said Dimitris Tsapoulis, COO at Signal Ocean. “Because of the vital role it can play in energy transition, LNG is of interest to so many stakeholders from students and researchers, to professionals, governments and societies. Our simple to use tool can offer real time perspectives and hopefully help initiate dialogue and insight.”
 
 
-## Explore Thelng Flows Tooltoday
+## Explore the LNG Flows Tool Today
 
 The LNG Flows tool is now live and accessible via the Signal Ocean website. To start exploring real-time LNG shipping data, [click here](https://www.thesignalgroup.com/lng-flows).

@@ -117,7 +117,7 @@ The **Baltic Dirty Tanker Index** (BDTI) reached a new historical high of  3,72
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-14-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69cd22c454534930f86506c4_a61ed478.png)
 
 
-## Dirtytce$/day
+## Dirty TCE$/DAY
 
 
 ## VLCC | Suezmax | Aframax Mixed Trends
@@ -152,7 +152,7 @@ In contrast, the Atlantic market is showing signs of softness. The TD15-TCE (Wes
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-14-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69cd22c454534930f86506d0_3f13b591.png)
 
 
-## Supply Market Trends
+## SUPPLY MARKET TRENDS
 
 This week, the VLCC West African market takes centre stage, where a pronounced build-up of ballast tonnage across both the 10- and 20-day availability windows is pointing to an increasingly competitive fixing environment. In contrast, the Aframax segment tells a different story; the USG area continues to stand out with a tightening tonnage picture.
 
@@ -197,7 +197,7 @@ This week, the VLCC West African market takes centre stage, where a pronounced b
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-14-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69cd22c454534930f86506dc_99f1f9dc.png)
 
 
-## Dirty Demand(tonne Miles)| 7d Ma - Index View
+## DIRTY DEMAND (TONNE MILES) | 7D MA - INDEX VIEW
 
 **VLCC ↓** 3.0% WoW **| Suezmax ↓** 2.5% WoW **| Aframax ↑5.1%** WoW
 

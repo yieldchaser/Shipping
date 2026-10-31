@@ -25,7 +25,7 @@ tags:
 
 *Published on 22 July 2026*
 
-## Spotlight of the Week
+## SPOTLIGHT OF THE WEEK
 
 
 ## Port Hedland Average Waiting Time - Iron-Ore Congestion Meets Labour Action
@@ -44,7 +44,7 @@ The increase coincided with the **first major industrial action at BHP's Port He
 **Attention now turns to the ongoing negotiations between BHP and the unions.** Further discussions are scheduled following the initial industrial action, with unions warning that additional stoppages remain possible if no agreement is reached. Any escalation would represent the principal near-term risk to West Australian iron ore export flows and port waiting times. **Closing Week 29**, the **Capesize C5 (West Australia–Qingdao)** route eased to **US$11.81/mt** (**–US$1.51 WoW**), while the **C5TC** time-charter average fell by approximately **US$5,100/day week-on-week**. Although the operational impact of the one-day stoppage remained limited, the labour dispute remains an important near-term risk factor for Australian iron ore exports and Capesize freight.
 
 
-## Freight Market Overview | BDI & Segment Metrics
+## FREIGHT MARKET OVERVIEW | BDI & SEGMENT METRICS
 
 
 ![Freight Market Overview | BDI & Segment Metrics](../../images/6a6080f30cda1ed2842adbf2_Screenshot 2026-07-22 at 09.35.40.png)
@@ -64,7 +64,7 @@ The market cooled from the prior week’s highs, led lower by **Capesize**: the 
 *All data and commentary reflect market conditions as of 17 Jul 2026, unless otherwise stated.*
 
 
-## Capesize | Analysis
+## CAPESIZE | ANALYSIS
 
 BCI eased to 4,097 (–242 day-on-day; –558 week-on-week), unwinding part of the prior week’s rally. Average C5TC earnings fell to $33,653/day (–$2,196 day-on-day; –$5,058 week-on-week). Iron-ore routes softened, with C3 (Tubarao–Qingdao) at $32.72/mt (–$0.28 WoW) and C5 (West Australia–Qingdao) at $11.81/mt (–$1.51 WoW), the sharper mover. BCI 52-week high 5,517 / low 2,175; 52-week average 3,552.
 
@@ -103,7 +103,7 @@ The Capesize tonne-mile index edged slightly higher (+0.3 percentage points), wh
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-29-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a608226563fd105bc1d3896_a0bdce73.png)
 
 
-## Panamax | Analysis
+## PANAMAX | ANALYSIS
 
 The Baltic Panamax Index (BPI) settled at 2,248 (-9 day-on-day; –5 week-on-week), remaining essentially flat but maintaining its position above the 5-year average of 1,887. Earnings were led by the Pacific round, where P2A\_82 stood at $31,099/day (–3% WoW), and P6\_82 rose to $20,341/day (+2% WoW). In contrast, the transatlantic P1A\_82 route softened to $21,941/day (–5% WoW). P5\_82 strengthened by 13% WoW to $16,861/day, while the P5TC time-charter average remained stable at $20,236/day.
 
@@ -151,7 +151,7 @@ Panamax and Post-Panamax tonne-mile indices remained above the 100% baseline but
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-29-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a608226563fd105bc1d3899_4ff39cb8.png)
 
 
-## Supramax | Analysis
+## SUPRAMAX | ANALYSIS
 
 BSI firmed to 1,737 (+7 day-on-day; +31 week-on-week), extending its recovery back toward recent 52-week highs. Average S10TC earnings rose to $19,926/day (+2% WoW) and S11TC to $21,960/day (+2% WoW). Route strength was broad: S1B +18% MoM / +59% YoY, S2 +7% WoW, and S3TC\_63 +8% WoW, while the US Gulf routes S1C ($32,079/day) and S4A ($31,961/day) eased about 5% WoW from elevated levels.
 
@@ -204,7 +204,7 @@ The tonne-mile indices continued to differentiate the smaller dry bulk segments.
 *Figure 16: Supramax · Handymax · Handysize — Tonne-Miles Index view by vessel class (Source: The Signal Ocean Platform).*
 
 
-## Handysize | Analysis
+## HANDYSIZE | ANALYSIS
 
 BHSI edged lower to 903 (–1 day-on-day; –12 week-on-week), continuing to ease from its recent 52-week high. Average HS7TC earnings eased to $16,261/day (–1% WoW). The route picture was mixed: HS1\_38 ($8,429/day, +5% WoW) and HS2\_38 ($11,064/day, +6% WoW) firmed, while HS3\_38 ($22,928/day, –6% WoW) and HS4\_38 ($20,550/day, –5% WoW) softened. Year-on-year performance remained strong across the board (HS6\_38 +44%, HS7\_38 +45% YoY).
 

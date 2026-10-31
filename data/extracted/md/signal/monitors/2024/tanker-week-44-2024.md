@@ -26,7 +26,7 @@ tags:
 
 *Published on 01 November 2024*
 
-## This Week’s Focus Highlights a Decrease in the Growth of Dirty Tonne Days Throughout This Year at a Pace Lower Than Seen in the Previous Two Years. for VLCC From Arabian Gulf to the Far East, There Has Been a Late Rebound with Levels Nearing to Surpass the Pace of October in 2023, However, the Weakening Trend From West Africa to the Far East, Remains Showing Sharp Decreasing Pace, with a Notable Downward Movement of the Previous Annual Levels. It Remains to Be Seen How the Winter Demand in November Will Eventually Impact the Crude Oil Demand Growth From the Asian Economies Along with the Volatility in Theoil Prices.
+## This Week’s Focus Highlights a Decrease in the Growth of Dirty Tonne Days Throughout This Year at a Pace Lower Than Seen in the Previous Two Years. for VLCC From Arabian Gulf to the Far East, There Has Been a Late Rebound with Levels Nearing to Surpass the Pace of October in 2023, However, the Weakening Trend From West Africa to the Far East, Remains Showing Sharp Decreasing Pace, with a Notable Downward Movement of the Previous Annual Levels. It Remains to Be Seen How the Winter Demand in November Will Eventually Impact the Crude Oil Demand Growth From the Asian Economies Along with the Volatility in the Oil Prices .
 
 
 ![6724b888ce9582d939d3d678 6724b8600351d1e3869fd9d8 Dirty%20tonne%20days](../../images/6724b888ce9582d939d3d678_6724b8600351d1e3869fd9d8_dirty%2520tonne%2520days.avif)

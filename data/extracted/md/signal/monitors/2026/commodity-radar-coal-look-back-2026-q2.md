@@ -22,7 +22,7 @@ tags:
 
 *Published on 07 July 2026*
 
-## Commodity Radar | Coal Look Back 2026 Q2
+## COMMODITY RADAR | Coal Look Back 2026 Q2
 
 The second quarter of 2026 saw both thermal and met coal flows accelerate, driven by Arabian Gulf supply disruptions redirecting Asian power demand toward coal and strong met coal demand from Japan and China.
 

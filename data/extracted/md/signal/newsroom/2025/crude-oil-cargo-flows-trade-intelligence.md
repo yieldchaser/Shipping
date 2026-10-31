@@ -22,7 +22,7 @@ tags:
 
 *Published on 29 August 2025*
 
-## Tl;dr
+## TL;DR
 
 
 - AIS transponder data, mandated by the IMO on every ship over 300 gross tonnes since 2004, gives traders a near-real-time view of the seaborne trade that carries [over 80% of merchandise by volume](https://medium.com/@mcraddock/the-ships-that-count-the-world-5ef05e5c6ec9).
@@ -147,7 +147,7 @@ Five signals carry most of the analytical weight in crude cargo tracking.
 Start with Signal Ocean's free [LNG Flows tool](https://www.thesignalgroup.com/lng-flows), which tracks LNG carrier movements across single vessels, commercial operator fleets, and vessel class views with no login required. It gives commodity desks a working sample of the vessel intelligence Signal Ocean produces. For crude tanker coverage, port call data, and API access to the full data warehouse, [request a demo](https://www.thesignalgroup.com) of the Signal Ocean platform.
 
 
-## Faqs
+## FAQs
 
 
 ### What Is AIS Data and How Is It Used in Crude Oil Trading?

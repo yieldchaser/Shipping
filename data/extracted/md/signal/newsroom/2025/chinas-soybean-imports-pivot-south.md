@@ -22,7 +22,7 @@ tags:
 
 *Published on 22 October 2025*
 
-## China’s Soybean Imports Pivot South: U.s. Shipments Vanish in September as South America Fills the Gap
+## China’s Soybean Imports Pivot South: U.S. Shipments Vanish in September as South America Fills the Gap
 
 China’s soybean supply chain took a sharp turn south in September.
 
@@ -31,7 +31,7 @@ China’s soybean supply chain took a sharp turn south in September.
 - Signal Ocean cargo flow analytics confirm U.S. volumes collapsing while South American loadings surged, coinciding with a jump in CBOT soybean futures on renewed U.S.–China deal hopes.
 
 
-## U.s. Cargo Flows to China - Collapse by September 2025
+## U.S. Cargo Flows to China - Collapse by September 2025
 
 Shipments reached a peak of 4.1 Mt in January and decreased to 2.7 Mt in February, then fell to zero in September 2025; 2025 clearly differs from 2024, confirming customs reports of no U.S. soybean arrivals.
 

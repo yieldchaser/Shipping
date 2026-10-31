@@ -25,7 +25,7 @@ tags:
 
 *Published on 19 March 2026*
 
-## U.s. Overtakes Brazil in Corn Exports to China Ahead of End-Q1 2026
+## U.S. Overtakes Brazil in Corn Exports to China Ahead of End-Q1 2026
 
 
 ![Source: Signal Ocean Platform | Dry Flows Data (Last Update: March 18, 2026)](../../../../../../corpus/07-signal/images/69bc2289cb64b968b0e4e2c9_727d4605.png)
@@ -35,7 +35,7 @@ tags:
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-12-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69bc2289cb64b968b0e4e2c9_727d4605.png)
 
 
-## Breakdown of Corn Flows to China by Vessel Classpanamax Accounts for Approximately 80% of Total Volumes
+## Breakdown of Corn Flows to China by Vessel Class Panamax Accounts for Approximately 80% of Total Volumes
 
 
 ![Source: Signal Ocean Platform | Dry Flows Data (Last Update: March 18, 2026)](../../../../../../corpus/07-signal/images/69bc2289cb64b968b0e4e2c3_195c0e2b.png)
@@ -65,7 +65,7 @@ While Brazil was the primary supplier of corn to China in 2025, early Q1 2026 da
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-12-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69bc2289cb64b968b0e4e2e4_9ac4f75b.png)
 
 
-## Freight Market Overview
+## FREIGHT MARKET OVERVIEW
 
 The Baltic Dry Index (BDI) recorded an uptick in sentiment before the end of the week, with the index value moving above the 2,000-point mark, driven by weekly gains in the Capesize and Panamax segments.
 
@@ -76,7 +76,7 @@ The Baltic Dry Index (BDI) recorded an uptick in sentiment before the end of the
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-12-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69bc2289cb64b968b0e4e2cf_42e92603.png)
 
 
-## Freight Atlantic
+## FREIGHT ATLANTIC
 
 **Capesize | Firmer**
 
@@ -131,7 +131,7 @@ The Baltic Dry Index (BDI) recorded an uptick in sentiment before the end of the
 - The USG trip to Skaw–Passero recorded levels of around $18k/day, a decrease of approximately $5k/day from the previous week, which contrasts with the annual rebound of $7.7k/day.
 
 
-## Freight Pacific
+## FREIGHT PACIFIC
 
 **Capesize | C5 Softer**
 
@@ -194,7 +194,7 @@ The Baltic Dry Index (BDI) recorded an uptick in sentiment before the end of the
 - The Pacific Handysize freight market appears to have reached its highest point since the lows recorded in January and February. Rates for the HS5\_38 and HS6\_38 routes have strengthened to around $12–13k/day each compared with the previous week, while the HS7\_38 rate confirmed the sentiment of the previous week at $12k/day.
 
 
-## Ballasters Overview
+## BALLASTERS OVERVIEW
 
 **Capesize | 5D MA Mixed**
 
@@ -247,7 +247,7 @@ Available [here](https://app.signalocean.com/dry/dynamic/supramax\_insights)
 - Handysize vessels continued to face elevated supply pressure since the end of February. In the North Atlantic, the vessel count remained high, exceeding 220 and now nearing 230 (+29% WoW). In the Pacific, pressure intensified in Australasia, where the vessel count surpassed 160 (+20% WoW).
 
 
-## Demand|tonne Miles- 7d Ma- Index View
+## DEMAND| TONNE MILES - 7D MA- INDEX VIEW
 
 **Capesize ↓ 0.2%** WoW **| Panamax ↓ 2.5%** WoW
 

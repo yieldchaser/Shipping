@@ -26,7 +26,7 @@ tags:
 
 *Published on 15 December 2023*
 
-## Increase in the Tonne Days for VLCC-US Dirty Shipments From the Usg to the Far East at the End of the Year
+## Increase in the Tonne Days for VLCC-US Dirty Shipments From the USG to the Far East at the End of the Year
 
 
 ![657c1c0b80e998fd38706447 Dirty VLCC](../../images/657c1c0b80e998fd38706447_dirty vlcc.png)

@@ -25,7 +25,7 @@ tags:
 
 *Published on 16 April 2025*
 
-## This Week’s Highlight Focuses on the Shifting Trends in Soybean Dry Bulk Flows From Brazil and the U.s. to China, Following the Latest Round of Tariffs Imposed Amid Escalating Trade Tensions. We Had Already Anticipated These Changes in Agricultural Trade Dynamics Innovember 2024, Following the Outcome of the U.s. Elections.
+## This Week’s Highlight Focuses on the Shifting Trends in Soybean Dry Bulk Flows From Brazil and the U.S. to China, Following the Latest Round of Tariffs Imposed Amid Escalating Trade Tensions. We Had Already Anticipated These Changes in Agricultural Trade Dynamics in November 2024 , Following the Outcome of the U.S. Elections.
 
 
 ![Https://app.signalocean.com/dry/dynamic/drybulkflows-Downloadable](../../../../../../corpus/07-signal/images/67ff74218dd3c0d5f0d00e4c_AD_4nXe5TDIyH-IPcC_H6L8MbhNs9ptXba8swnMUC6yZGDn-WlRKxLlQb3m4Lh3p95vMA2qoWKvPh5sZOlazzQd5LNB2RvLBnTJ_S9WYgMihe5rPTA8W7PckE1XY7A5H1Yes0krnLSgd.png)
@@ -40,7 +40,7 @@ tags:
 Voyage data from the Signal Ocean Platform reveals a clear structural shift in the global soybean trade, underscoring China’s increasing reliance on Brazilian imports. In recent years, Brazil has steadily emerged as China’s primary soybean supplier—a trend closely tied to broader macroeconomic dynamics, notably the ongoing trade tensions between the United States and China. Brazil’s competitive edge stems from record harvests, favorable pricing, and a lack of trade barriers, positioning it as a more dependable and cost-effective source for meeting China's growing soybean demand.
 
 
-## U.s. Soybean Exports: Declining Share and Strategic Setback
+## U.S. Soybean Exports: Declining Share and Strategic Setback
 
 U.S. soybean exports to China have traditionally adhered to a clear seasonal pattern, with peak shipments occurring in the first and last quarters of each year. However, this trend is showing signs of disruption. In March 2025, export volumes plummeted to approximately 2 million tonnes—significantly lower than during the same periods in 2023 and 2024. This decline highlights the enduring consequences of the U.S.-China trade war. As tariffs and geopolitical tensions continued, Chinese importers increasingly turned to alternative suppliers, especially Brazil. The outcome has been a persistent decrease in U.S. market share, leaving American farmers and agribusinesses struggling with diminished demand, decreasing prices, and increasing financial pressure.
 

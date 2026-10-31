@@ -26,7 +26,7 @@ tags:
 
 *Published on 09 November 2023*
 
-## U.s. Crude Oil Exports Record Remarkable Rise Destined to Korea
+## U.S. Crude Oil Exports Record Remarkable Rise Destined to Korea
 
 
 ![U.s. Crude Oil Exports Record Remarkable Rise Destined to Korea](../../images/654cf18a1a5b63b85d9a2d5c_us crude oil flows.png)

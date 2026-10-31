@@ -25,7 +25,7 @@ tags:
 
 *Published on 14 October 2026*
 
-## Spotlight of the Week | Steel
+## SPOTLIGHT OF THE WEEK | STEEL
 
 
 ## Black Sea Steel Flows Weaken as Shipping Risks Rise
@@ -66,7 +66,7 @@ tags:
 **Smaller bulkers face fewer steel cargoes and higher Black Sea voyage risk.** Small bulkers carried **91.0% of recorded Ukrainian steel tonnes** in January–September, while Handysize accounted for **37.2% of Russian steel shipments**, alongside Supramax at 43.9%. The reduction in Russian Handysize employment is substantial: recorded steel tonnage fell **53.4% to 1.25 Mt**, with voyages declining from **109 to 49**. Against a wider reference supply of **193 Handysize ballasters across the North Atlantic, Mediterranean and Black Sea**, the loss of Black Sea cargoes adds to downward pressure on employment and freight for vessels seeking business in the region. Fewer steel sailings narrow loading opportunities for small bulkers and Handysize vessels, while attacks on merchant shipping and higher war-risk quotations increase the costs and risks of regional trading. These vessels face a shrinking steel cargo base within a security environment affecting Black Sea shipping across cargo types.
 
 
-## Supply & Demand | What Changed vs Week 40
+## SUPPLY & DEMAND | WHAT CHANGED VS WEEK 40
 
 **Ratios softened together; fundamentals split by basin.** All 4 demand-to-supply (D/S) ratios eased by 0.01–0.02, and Capesize moved to 0.99 from 1.01, so demand growth now trails supply growth across all 4 segment indices. That does not mean demand is falling: Capesize demand is +0.1% y/y against supply +1.0%.
 
@@ -79,7 +79,7 @@ tags:
 **Handysize — US Gulf weakens as South Atlantic gains ground.** In Week 40, strength centred on the Continent. In **Week 41**, subdued US Gulf demand and ample vessel availability pushed **HS4\_38 down $2,671 to $21,436/day**, while North Atlantic ballasters increased to **193, from 174 in Week 40**. The South Atlantic strengthened, with healthy cargo enquiry and tighter tonnage, lifting **HS3\_38 by $1,006 to $26,600/day**. In the Pacific, the forward balance was mixed: **HS6 moved from a projected vessel deficit to a surplus**, while **HS7 remained in deficit**.
 
 
-## Freight Market Overview
+## FREIGHT MARKET OVERVIEW
 
 
 ![Freight Market Overview](../../images/6acf82ce2864b7b4b7f40201_Screenshot 2026-10-14 at 14.23.48.png)
@@ -107,7 +107,7 @@ The BDI fell 231 points to 2,917, its 2nd weekly decline, as the BCI lost 702 po
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-41-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6acf82fdd4c5c096fb3901ec_Screenshot 2026-10-14 at 14.23.56.png)
 
 
-## Capesize
+## CAPESIZE
 
 **Freight.** The BCI fell 702 points to 4,340, C5TC(180) $6,368 to $35,860/day, and C5TC(182) to $39,363/day. All routes fell, led by the Atlantic: C8\_182 −$13,813 to $43,906/day, C14\_182 −$7,784 to $34,030/day, C16\_182 −$6,650 to $10,139/day, and C3 −$4.36 to $33.29/mt. The Pacific held: C10\_182 −$1,171 to $37,675/day and C5 −$0.19 to $14.24/mt. C9\_182 remains the top route at $78,528/day.
 
@@ -142,7 +142,7 @@ The BDI fell 231 points to 2,917, its 2nd weekly decline, as the BCI lost 702 po
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-41-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0d0_7b83f33b.png)
 
 
-## Panamax
+## PANAMAX
 
 **Freight.** The BPI rose 52 points to 2,424 and P5TC $464 to $21,813/day, with all routes higher. P3A\_82 led, +$739 to $21,336/day, followed by P1A\_82 (+$652 to $22,270/day) and P5\_82 (+$311 to $19,392/day); P2A\_82 remains the top route at $30,691/day. P7 and P8 firmed to $77.44/mt (+$0.56) and $57.48/mt (+$0.54).
 
@@ -177,7 +177,7 @@ The BDI fell 231 points to 2,917, its 2nd weekly decline, as the BCI lost 702 po
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-41-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0e2_3c463b01.png)
 
 
-## Supramax
+## SUPRAMAX
 
 **Freight.** The BSI rose 25 points to a 52-week high of 1,814 and S11TC $310 to $22,929/day, with S3TC\_63 +$948. Asia led: S2 +$1,525 to $22,969/day, S8 +$650 to $26,200/day and S10 +$410 to $16,953/day. The US Gulf eased: S4A −$332 to $31,706/day (still the top route) and S1C −$275 to $31,519/day; S1B −$565 to $25,221/day.
 
@@ -212,7 +212,7 @@ The BDI fell 231 points to 2,917, its 2nd weekly decline, as the BCI lost 702 po
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-41-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0ef_b585d9b7.png)
 
 
-## Handysize
+## HANDYSIZE
 
 **Freight.** The BHSI slipped 11 points to 996 and HS7TC $191 to $17,926/day. The Atlantic split: HS4\_38 (US Gulf) fell $2,671 to $21,436/day while HS3\_38 (South Atlantic to Skaw) rose $1,006 to $26,600/day, now the top route. Continent routes edged up (HS1\_38 +$243, HS2\_38 +$150); Asia eased (HS7\_38 −$156, HS5\_38 −$112).
 
@@ -240,7 +240,7 @@ The BDI fell 231 points to 2,917, its 2nd weekly decline, as the BCI lost 702 po
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-41-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6acf83c15da195f3a193f0f8_8dfc90ed.png)
 
 
-## Key Takeaway
+## KEY TAKEAWAY
 
 **Capesize led the downward freight correction in Week 41, while its D/S ratio fell from 1.01 to 0.99, leaving all four segments below 1.00.** Demand growth trailed supply growth across the four segment indices, and rising vessel availability added pressure: South Atlantic Capesize ballasters reached **64**, while North Atlantic Supramax and Handysize counts increased to **124 and 193**, respectively. Freight gains remained concentrated in routes with tighter availability: Panamax and Asian Supramax strengthened as forward supply fell short of expected demand, while South Atlantic Handysize benefited from stronger cargo enquiry and fewer available vessels.
 

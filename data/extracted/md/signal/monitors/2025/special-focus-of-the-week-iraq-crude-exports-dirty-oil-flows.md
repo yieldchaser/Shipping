@@ -22,7 +22,7 @@ tags:
 
 *Published on 08 August 2025*
 
-## Asia Realigns as Iraq Expands and the U.s. Targets Russian Oil Imports From Indian Buyers
+## Asia Realigns as Iraq Expands and the U.S. Targets Russian Oil Imports From Indian Buyers
 
 In late July 2025, the United States announced a 25 percent tariff on Indian exports, explicitly citing India’s continued purchases of Russian crude oil and military equipment. The move was widely interpreted as part of a broader strategy targeting countries that maintain strong commercial ties with Moscow.
 

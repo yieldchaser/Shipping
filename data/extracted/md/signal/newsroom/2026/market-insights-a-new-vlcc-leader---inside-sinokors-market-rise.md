@@ -22,7 +22,7 @@ tags:
 
 *Published on 18 February 2026*
 
-## Market Insights | VLCCs - Entering the Sinokor Era
+## MARKET INSIGHTS | VLCCs - Entering the Sinokor Era
 
 
 ## Executive Overview

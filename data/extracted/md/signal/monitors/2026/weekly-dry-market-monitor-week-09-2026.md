@@ -25,7 +25,7 @@ tags:
 
 *Published on 26 February 2026*
 
-## Chart of the Week|panamax Freight View - Indonesia Thermal Coal to India
+## Chart of the Week | Panamax Freight View - Indonesia Thermal Coal to India
 
 **↓32%** Month-on-Month - **↓40%** Year-on-Year
 
@@ -185,7 +185,7 @@ The Baltic Dry Index (BDI) has maintained momentum from the previous week, stabi
 - The Pacific Handysize freight market has shown early signs of recovery from its prior weaker trend. Rates for the HS5\_38 and HS6\_38 have firmed up to approximately $10k/d each, with the HS7\_38 rate close behind at nearly $9.7k/d.
 
 
-## Ballasters Overview
+## BALLASTERS OVERVIEW
 
 **Capesize | 5D MA Mixed**
 

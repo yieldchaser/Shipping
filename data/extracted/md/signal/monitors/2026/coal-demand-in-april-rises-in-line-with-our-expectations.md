@@ -22,7 +22,7 @@ tags:
 
 *Published on 13 May 2026*
 
-## Commodity Radar | Spotlight: Coalcoal Demand in April Rises in Line with Our Expectations
+## COMMODITY RADAR | Spotlight: COAL Coal Demand in April Rises in Line with Our Expectations
 
 The war in Iran and subsequent constriction of energy commodity flows appear to have been supportive of coal demand, as flows in April rise y/y for only the second time in 2026 so far.
 

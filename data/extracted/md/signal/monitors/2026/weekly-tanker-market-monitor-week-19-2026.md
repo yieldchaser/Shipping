@@ -26,7 +26,7 @@ tags:
 
 *Published on 07 May 2026*
 
-## Spotlight |asset Benchmark Assessments— Nb vs 5y & Nb vs Resale
+## Spotlight |asset Benchmark Assessments — NB vs 5Y & NB vs Resale
 
 Asset market anomaly - not just freight
 
@@ -103,7 +103,7 @@ Hormuz transit risk is no longer a temporary overhang, and the East-West split d
 Two producer-side developments complicate the picture. The UAE's departure from OPEC signals a longer-term pivot toward unconstrained output growth, relevant for post-normalisation supply, less so for today's constrained flows. Meanwhile, the 188kbd OPEC+ increase agreed by remaining members, including Kuwait, appears to be too small to significantly offset Hormuz-scale disruption and reads more as a political signal than a market intervention. Asian importers are feeling the squeeze most acutely, with Middle Eastern crude arrivals down sharply and U.S. barrels partially, but not fully, filling the gap.
 
 
-## Freight | VLCC Latest Signal Trends
+## FREIGHT | VLCC Latest Signal Trends
 
 
 ![Freight | VLCC Latest Signal Trends](../../../../../../corpus/07-signal/images/69fc67022b88f96aecc1d847_4a74bb04.png)

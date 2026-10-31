@@ -22,7 +22,7 @@ tags:
 
 *Published on 28 January 2026*
 
-## Signal Ocean Announces Strategic Acquisition of Axsmarine to Accelerate Innovation in Shipping.
+## Signal Ocean Announces Strategic Acquisition of AXSMarine to Accelerate Innovation in Shipping.
 
 Paris & London 28th Jan - Signal Ocean announces the strategic acquisition of AXSMarine, a recognized leader in the maritime freight and commodities tracking space. The move reflects Signal's commitment to advancing technology, innovation, and collaboration across the global shipping ecosystem.
 

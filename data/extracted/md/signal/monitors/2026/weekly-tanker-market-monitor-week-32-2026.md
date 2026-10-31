@@ -26,7 +26,7 @@ tags:
 
 *Published on 07 August 2026*
 
-## Spotlight of the Week
+## SPOTLIGHT OF THE WEEK
 
 
 ## Dark Tanker Transits Dominate Hormuz Since 14 July
@@ -48,14 +48,14 @@ Transit tracking: The Signal Group · data to 3 Aug 2026
 ## Hormuz Transits Since 14 Jul: 102 Total · 62% Dark (Crude 79% vs Clean 50%) · 56% Non-Transparent Ownership · 45 Iran-Side / 4 Oman-Side / 53 Untraceable
 
 
-## Iran–oman Route Agreement - Not Yet a Pathway
+## Iran–Oman Route Agreement - Not Yet a Pathway
 
 On 5 August, Iran announced that it had reached an understanding with Oman on the geographic coordinates of a proposed shipping corridor through the Strait of Hormuz, with inbound traffic routed along the Iranian side and outbound traffic along the Omani side. According to Iranian officials, a joint statement covering the technical, legal, security and environmental framework is being finalised. However, the proposed routing arrangements and any associated service fee mechanism remain unconfirmed and continue to face significant legal and commercial obstacles.
 
 The proposal does not, by itself, point to a near-term increase in commercial vessel traffic. The United States has publicly opposed any transit fees, while the International Maritime Organization has maintained that international law provides no basis for discriminatory transit charges in the Strait of Hormuz. Adding to the uncertainty, an Iranian parliamentary committee is reviewing a preliminary bill that would prohibit U.S., Israeli and other "hostile" vessels from transiting the Strait and impose fines of up to 20% of cargo value for violations. The draft legislation remains under expert review and has not been adopted. Taken together, these developments suggest that the regulatory and legal environment for commercial shipping through the Strait remains uncertain, limiting the prospects for a meaningful recovery in vessel transits until greater clarity emerges.
 
 
-## Iran–oman Route (5-6 Aug): Proposed Routing Remains Unconfirmed • US Opposes Transit Fees, IMO Rejects Tolls • No Clear Path to a Sustained Recovery in Commercial Transits.
+## Iran–Oman Route (5-6 Aug): Proposed Routing Remains Unconfirmed • US Opposes Transit Fees, IMO Rejects Tolls • No Clear Path to a Sustained Recovery in Commercial Transits.
 
 
 ## Freight - East vs West of Suez
@@ -72,7 +72,7 @@ The proposal does not, by itself, point to a near-term increase in commercial ve
 Freight/TCE: The Signal Group / Baltic Exchange · 6 Aug 2026
 
 
-## Dirty TCE ($/day): East of Suez — TD3C 481k (+58k), TD2 502k (+44k), TD23 320k · West — TD22 119k (-9k), TD15 107k (-10k), Td27 74k (-29k), Caribbean Aframax ~89k (-24k)
+## Dirty TCE ($/day): East of Suez — TD3C 481k (+58k), TD2 502k (+44k), TD23 320k · West — TD22 119k (-9k), TD15 107k (-10k), TD27 74k (-29k), Caribbean Aframax ~89k (-24k)
 
 
 ## VLCC Fleet Utilization and Asset Values
@@ -89,7 +89,7 @@ Asset values followed a different trajectory. Nearly 80% of this year's apprecia
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-32-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a758c2cc6bfd12f7d497695_b8bf3ae5.png)
 
 
-## VLCC Fleet: Ttilization 48.4% (vs 39% 3y Avg.) • 5y $143m / 10y $113m • 5y +21%, 10y +28% • 5y–10y Gap Back to ~$30m (From ~$26m in Q1)
+## VLCC Fleet: Ttilization 48.4% (vs 39% 3Y Avg.) • 5Y $143M / 10Y $113M • 5Y +21%, 10Y +28% • 5Y–10Y Gap Back to ~$30M (From ~$26M in Q1)
 
 
 ## Ballast vs Laden - East vs West of Suez
@@ -113,7 +113,7 @@ The East of Suez ballast to laden ratio reversed sharply after 14 July, rising f
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-32-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a758c2cc6bfd12f7d49769b_af615a81.png)
 
 
-## Ballast : Laden (VLCC): East of Suez B/l Ratio 1.0 (14 Jul) → 1.5 (6 Aug) • Back to Early-April Levels After Reaching Near Parity in Mid-July.
+## Ballast : Laden (VLCC): East of Suez B/L Ratio 1.0 (14 Jul) → 1.5 (6 Aug) • Back to Early-April Levels After Reaching Near Parity in Mid-July.
 
 
 ## Takeaway

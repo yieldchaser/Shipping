@@ -22,7 +22,7 @@ tags:
 
 *Published on 20 July 2022*
 
-## The Algorithm Underpinning Signal Ocean's Estimates of Vessel Co2 Emissions Has Been Verified as Meeting IMO Guidelines by the Independent Classification Society Dnv.
+## The Algorithm Underpinning Signal Ocean's Estimates of Vessel CO2 Emissions Has Been Verified as Meeting IMO Guidelines by the Independent Classification Society DNV.
 
 The calculation considers all aspects of any voyage as well as any route deviations already taken by any given available vessel. Other factors include the vessel’s size, age, speed, loading conditions, shipyard, use of scrubbers and the type of fuel used are also considered and represented in the algorithm's output. The service is used by many in the industry including tanker, dry bulk and LPG shipowners and traders to support their chartering decisions. Users can view historical estimates back to 2018 for all tankers above 25k dwt, dry cargo vessels above 20k dwt and all LPG vessels.
 

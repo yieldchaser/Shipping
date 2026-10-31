@@ -25,7 +25,7 @@ tags:
 
 *Published on 06 June 2024*
 
-## Capesize Vessels on the Brazil to North China Route for May, Compared to the Baltic Rates. Our Last Update, Before Theend of April, Noted a Decreasing Trend in the Number of Ballast Vessels Recorded.
+## Capesize Vessels on the Brazil to North China Route for May, Compared to the Baltic Rates. Our Last Update, Before the End of April , Noted a Decreasing Trend in the Number of Ballast Vessels Recorded.
 
 
 ![6661b11c049c22ee58a391af Chart of the Week Dry (4)](../../images/6661b11c049c22ee58a391af_chart of the week dry (4).avif)

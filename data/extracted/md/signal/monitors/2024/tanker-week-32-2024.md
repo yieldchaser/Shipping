@@ -26,7 +26,7 @@ tags:
 
 *Published on 08 August 2024*
 
-## This Week's Chart Shows That the Growth in Tonne Days for Dirty Tankers Has Slowed Since May Compared to Last Year, with a Continued Decline Into August. This Suggests That Dirty Tanker Demand Is Weakening as the Summer Season Ends, Confirming the Downward Trend We Noted in Early July in Ourweek 28tanker Weekly Market Monitor. in the Clean Segment (Right Chart), It's Noteworthy That Despite the Sharp Downward Trend Following the Peak at the End of the First Quarter, Recent Growth Estimates Are Still Outpacing Last Year's Monthly Growth.
+## This Week's Chart Shows That the Growth in Tonne Days for Dirty Tankers Has Slowed Since May Compared to Last Year, with a Continued Decline Into August. This Suggests That Dirty Tanker Demand Is Weakening as the Summer Season Ends, Confirming the Downward Trend We Noted in Early July in Our Week 28 Tanker Weekly Market Monitor. in the Clean Segment (Right Chart), It's Noteworthy That Despite the Sharp Downward Trend Following the Peak at the End of the First Quarter, Recent Growth Estimates Are Still Outpacing Last Year's Monthly Growth.
 
 
 ![Https://app.signalocean.com/tanker/dynamic/timeseriestankerdownloadable](../../images/66b4df072fcb862ff4a11df8_66b4deda271ee7f3340eaef0_tanker%2520chart%2520of%2520the%2520week.avif)

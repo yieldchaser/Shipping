@@ -33,7 +33,7 @@ tags:
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-13-2025) | [Local Asset](../../../../../../corpus/07-signal/images/67e573f6c2ce19d2725536d5_AD_4nXfL4uEuI9Ib1Y6LgYSubIrsJM9vHVaMilFXfKGYa-J7jtsdlcWYo6FE02saKGh9Sh_knv-hWeO1zkCJuqd3vgJuSDZQ2mmRsSperwV01EOm0BJXcuC-EkoGHo6VLEk-4LxFL6TdLQ.png)
 
 
-## Following the Recent Imposition of U.s. Tariffs on Canadian Crude Oil Imports, Trade Flows Have Undergone a Significant Shift, with Canadian Barrels Increasingly Redirected Toward European Markets.this Trend Is Evident in the March 2025 Data, Which Shows Seaborne Crude Exports From Canada Surging to Nearly 8 Million Barrels—more Than Double the Monthly Average Recorded in 2024.
+## Following the Recent Imposition of U.S. Tariffs on Canadian Crude Oil Imports, Trade Flows Have Undergone a Significant Shift, with Canadian Barrels Increasingly Redirected Toward European Markets. This Trend Is Evident in the March 2025 Data, Which Shows Seaborne Crude Exports From Canada Surging to Nearly 8 Million Barrels—more Than Double the Monthly Average Recorded in 2024.
 
 The new tariffs have severely eroded the competitiveness of Canadian crude in the U.S., compelling exporters to seek alternative outlets. European refiners—grappling with tight supply due to instability in traditional sourcing regions and a seasonal rise in demand—have stepped in to absorb the redirected volumes. Notably, the Netherlands and the United Kingdom together accounted for approximately 69% of European imports, reinforcing Northwest Europe’s role as a key receiving hub.
 
@@ -44,7 +44,7 @@ Aframax tankers have emerged as the primary beneficiaries, accounting for 75.8% 
 Looking ahead, the continued enforcement of U.S. tariffs, coupled with Europe’s need for secure crude sources, suggests this trend could persist into Q2 2025. Mediterranean freight rates are also expected to remain elevated in the short term—particularly if Canadian barrels continue to displace volumes from West Africa or the Middle East.
 
 
-## In Summary, the Interplay Between Geopolitical Trade Barriers and Regional Tanker Market Dynamics Is Reshaping Global Crude Flows.as Canada Reorients Its Exports Toward Europe, the Impact Is Rippling Across Cargo Volumes, Vessel Deployment Patterns, and Rate Structures—most Notably Within the Aframax Segment.
+## In Summary, the Interplay Between Geopolitical Trade Barriers and Regional Tanker Market Dynamics Is Reshaping Global Crude Flows. as Canada Reorients Its Exports Toward Europe, the Impact Is Rippling Across Cargo Volumes, Vessel Deployment Patterns, and Rate Structures—most Notably Within the Aframax Segment.
 
 For the latest updates and insights, make sure to visit the [Signal Ocean Newsroom](https://www.thesignalgroup.com/newsroom) website page. Click [here to request a demo](https://www.thesignalgroup.com/request-demo?utm\_source=oceanhome&utm\_medium=website&utm\_campaign=demo). Read [last week's tanker monitor here.](https://www.thesignalgroup.com/weekly-market-monitor/tanker-week-12-2025)
 

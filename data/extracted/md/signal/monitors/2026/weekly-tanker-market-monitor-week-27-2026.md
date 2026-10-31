@@ -51,7 +51,7 @@ Preliminary tracking for July 2026, combined with a modeled month-end estimate, 
 China crude imports, trailing 6-month view. Platform-reported tracked volume of **1.4B barrels, down 26.6% YoY** on a rolling 6-month basis.
 
 
-## Key Year-on-Year Moves: Jan +13.5%·may -46.8%·july -41.0% (Est.)
+## Key Year-on-Year Moves: Jan +13.5% · May -46.8% · July -41.0% (Est.)
 
 **Monthly Import Volumes - China (Year-on-Year)**
 
@@ -76,7 +76,7 @@ As of early July 2026, the **Baltic Dirty Tanker Index** had eased sharply to 1,
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-27-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a4790f879bf3382d3f3291a_9cc9e5b7.png)
 
 
-## Dirtyvlcc
+## Dirty VLCC
 
 **VLCC | TD2** Middle East Gulf to Singapore **| TD3C** Middle East Gulf to China | **TD15** West African to China | **TD34** Gulf of Oman to China
 
@@ -88,7 +88,7 @@ As of early July 2026, the **Baltic Dirty Tanker Index** had eased sharply to 1,
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-27-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a4790f879bf3382d3f32911_69726b35.png)
 
 
-## Time-Charter-Equivalent Earnings: The Ag–china Route Correction
+## Time-Charter-Equivalent Earnings: The AG–China Route Correction
 
 The correction was especially pronounced on time-charter-equivalent (TCE) earnings for the Middle East Gulf-to-China VLCC route (TD3C-TCE), the benchmark most directly tied to Chinese crude buying. As of July 2, 2026, daily earnings on the route stood at approximately $286,500 per day, still elevated at roughly 44% above the 52-week average, but down about $117,000 (‑29%) over the past month and more than 52% below the 52-week high of $601,569 recorded at the height of the crisis. On a year-on-year basis, earnings remained sharply higher (+$258,772), reflecting how depressed the pre-conflict starting point had been.
 
@@ -104,7 +104,7 @@ The latest round of indirect US–Iran talks in Doha on July 1 underscored that 
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-27-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a4790f879bf3382d3f32917_02560c4b.png)
 
 
-## Supply Market Trends
+## SUPPLY MARKET TRENDS
 
 This week, the VLCC AG market takes centre stage, where signals of an oversupplied picture have started to reflect in the freight market sentiment.
 
@@ -130,7 +130,7 @@ The latest indicators point to an upward trend in the net supply for the Arabian
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-27-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a4790f879bf3382d3f3290b_3abdd7d8.png)
 
 
-## Dirty Demand(tonne Miles)| 7d Ma - Index View
+## DIRTY DEMAND (TONNE MILES) | 7D MA - INDEX VIEW
 
 **VLCC  ↑** 4.5% WoW **| Suezmax  ↑** 4.8% WoW **| Aframax ↓** 0.6% WoW
 

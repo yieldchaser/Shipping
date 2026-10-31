@@ -49,7 +49,7 @@ An initial look at European coal imports (Figure 1) shows that total shipments h
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/seaborne-coal-flows-in-2022) | [Local Asset](../../../../../../corpus/07-signal/images/637cf900b7f5cf8f79440627_Picture1.avif)
 
 
-## Ii. Europe Ramping Up Coal Imports From South Africa
+## II. Europe Ramping Up Coal Imports From South Africa
 
 Today we are talking about replacing Russian coal flows to Europe, as we approach the middle of winter, and many European countries are expected to burn more coal due to the energy crisis. It is incredible that South African coal exports to Europe have jumped this year, reaching spectacular annual growth. September ended with record monthly shipments (image 2), the highest this year, but the last three quarters also saw the most increased volumes compared to similar months in the previous two years.
 
@@ -61,7 +61,7 @@ Today we are talking about replacing Russian coal flows to Europe, as we approac
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/seaborne-coal-flows-in-2022) | [Local Asset](../../../../../../corpus/07-signal/images/637cf93e92f85451fcdda2b2_Picture2.avif)
 
 
-## Iii. the Netherlands Emerged as the Top Destination for US Coal Exports
+## III. the Netherlands Emerged as the Top Destination for US Coal Exports
 
 We took a look at the Netherlands to examine how the main European coal importer from Russia is gradually switching to other primary sources to replace the Russian loss. As can be seen in image (3) below, the United States has been aggressively seeking to meet the energy needs of the Netherlands. After the end of the second quarter of this year, Russian coal imports to the Netherlands fell to almost zero in September and October, while the United States increased its exports to the highest level in two years
 
@@ -73,7 +73,7 @@ We took a look at the Netherlands to examine how the main European coal importer
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/seaborne-coal-flows-in-2022) | [Local Asset](../../../../../../corpus/07-signal/images/637cf966a916153100c845c9_Picture3.avif)
 
 
-## Iv. Russian Coal Gains Share in Asia: China and India
+## IV. Russian Coal Gains Share in Asia: China and India
 
 Russia appears to remain an important source of Chinese coal even after Australia's export ban, but India has also increased its Russian coal imports at favorable prices. The Asian market is expected to absorb the lion's share of Russian coal imports in the coming days as geopolitical tensions increase and the European Union is already in the process of reducing its dependence on coal and oil imports from Russia.
 

@@ -25,7 +25,7 @@ tags:
 
 *Published on 06 August 2026*
 
-## Spotlight of the Week
+## SPOTLIGHT OF THE WEEK
 
 
 ## Strait of Hormuz - A Renewed Blockade Impairs Dry-Bulk Crossings
@@ -42,7 +42,7 @@ On **13** **July** **2026**, US Central Command announced a renewed naval blocka
 Crossings had recovered only partially in June, after the 18 June ceasefire and the lifting of the previous blockade. The 13 July action reversed that recovery. Comparing equal windows on either side of the announcement — the 24 days before (19 June–12 July) against the 24 days after (13 July–5 August) — average daily dry-bulk transits fell by roughly half: **eastbound** **from** **1.04** **to** **0.54** **crossings/day** **(−48%)** and **westbound** **from** **1.42** **to** **0.71** **(−50%)**.
 
 
-## Freight Market Overview | BDI & Segment Metrics
+## FREIGHT MARKET OVERVIEW | BDI & SEGMENT METRICS
 
 
 ![Freight Market Overview | BDI & Segment Metrics](../../images/6a746029ca4d71698fa00635_Screenshot 2026-08-06 at 11.21.13.png)
@@ -62,7 +62,7 @@ Driven by a robust performance in the **Capesize** sector that offset softer res
 All data reflect market conditions as of 31 Jul 2026 unless otherwise stated.
 
 
-## Capesize | Analysis
+## CAPESIZE | ANALYSIS
 
 The BCI extended its rally to 4,564 (+268 day-on-day; +364 week-on-week), a second consecutive strong week, and average C5TC earnings rose to $37,892/day (+$2,435 day-on-day; +$3,305 week-on-week). The gains were Pacific-led: C5 (West Australia–Qingdao) jumped to $14.45/mt (+$1.82 WoW, about +14%), while C3 (Tubarao–Qingdao) firmed more modestly to $34.81/mt (+$0.45 WoW).
 
@@ -101,7 +101,7 @@ Capesize tonne-mile demand held firm around 102–103%, but the VLOC index fell 
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-31-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a7461cf4308b9794752fbce_4e51a6aa.png)
 
 
-## Panamax | Analysis
+## PANAMAX | ANALYSIS
 
 The BPI firmed to 2,087 (+47 day-on-day; +63 week-on-week). Earnings rose on the fronthaul and Atlantic routes — P1A\_82 +5% WoW to $21,205/day, P2A\_82 +5% to $30,840/day and P3A\_82 +7% to $15,618/day — while P5\_82 (−2%) and P6\_82 (−2%) eased; the P5TC average rose 3% WoW to $18,780/day. Most routes trade well above year-ago levels (P6\_82 +33% YoY).
 
@@ -147,7 +147,7 @@ Panamax and Post-Panamax tonne-mile indices declined to around 96–100% by the 
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-31-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a7461cf4308b9794752fbe4_0a810467.png)
 
 
-## Supramax | Analysis
+## SUPRAMAX | ANALYSIS
 
 The BSI fell to 1,609 (−1 day-on-day; −85 week-on-week), reversing recent gains. Average S10TC earnings dropped 6% WoW to $18,302/day, with declines across most routes — S2 −9%, S3TC\_63 −7%, S4A −7% and S5 −6%. The US Gulf routes S1C ($28,418/day) and S4A ($27,311/day) led lower, though year-on-year comparisons remain strongly positive (S1B +59% YoY).
 
@@ -193,7 +193,7 @@ A softer forward outlook is reinforced by fading tonne-mile momentum across the 
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-31-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a7461cf4308b9794752fbf3_65572ee1.png)
 
 
-## Handysize | Analysis
+## HANDYSIZE | ANALYSIS
 
 The BHSI eased to 887 (−3 day-on-day; −18 week-on-week). Average HS7TC earnings slipped 2% WoW to $15,969/day. The softness was led by the South Atlantic (HS3\_38 −4%, HS4\_38 −7% WoW), while the Continent/Baltic and Pacific routes (HS1, HS2, HS5, HS6, HS7) were nearly flat. Year-on-year gains remain strong (HS6\_38 +38%, HS7\_38 +36% YoY).
 
@@ -230,7 +230,7 @@ Net vessel supply was highest in the UK Continent/Baltic (HS1/HS2, 119, +7% WoW)
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-31-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a7461cf4308b9794752fbff_f6490473.png)
 
 
-## Overall Market Trend | Conclusions
+## OVERALL MARKET TREND | CONCLUSIONS
 
 
 ![Overall Market Trend | Conclusions](../../images/6a74614547358638875310ac_Screenshot 2026-08-06 at 11.25.49.png)

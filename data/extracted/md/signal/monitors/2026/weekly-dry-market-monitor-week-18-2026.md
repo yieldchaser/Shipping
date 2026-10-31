@@ -40,7 +40,7 @@ April ends with firm sentiment in both Capesize and Panamax segments. On the C3 
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-18-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69f211216a6c5db147716614_1fa4e61b.png)
 
 
-## Freight Market Overview
+## FREIGHT MARKET OVERVIEW
 
 The Baltic Dry Index is approaching 2,700 points, with gains recorded across all sub-indices: Capesize leading at +117.4% YoY, followed by Supramax +58.2%, Handysize +41.8%, and Panamax +40.9%.
 
@@ -52,7 +52,7 @@ The Baltic Dry Index is approaching 2,700 points, with gains recorded across all
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-18-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69f211216a6c5db14771662a_2bf53669.png)
 
 
-## Freight Atlantic
+## FREIGHT ATLANTIC
 
 **Capesize C3 / Panamax P7 Firmer**
 
@@ -91,7 +91,7 @@ The Baltic Dry Index is approaching 2,700 points, with gains recorded across all
 - **HS4\_38** | US Gulf trip via US Gulf or North Coast South America | 14,071 $/day | Day: +392 | Week: +1,600 | Year: +3,850
 
 
-## Freight Pacific
+## FREIGHT PACIFIC
 
 **Capesize | C5 Firmer**
 
@@ -125,7 +125,7 @@ The Baltic Dry Index is approaching 2,700 points, with gains recorded across all
 - **S10** | South China trip via Indonesia to South China | 17,668 $/day | Day: -216 | Week: +1,305 | Year: +5,832
 
 
-## Ballasters Overview
+## BALLASTERS OVERVIEW
 
 We take a closer look at the basins of ballast count increases per vessel size segment.
 
@@ -162,7 +162,7 @@ We take a closer look at the basins of ballast count increases per vessel size s
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-18-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69f211216a6c5db147716632_6fbf73c8.png)
 
 
-## Demand|tonne Miles- 7d Ma- Index View
+## DEMAND| TONNE MILES - 7D MA- INDEX VIEW
 
 **Capesize ↓ 0.9%** WoW **| Panamax ↓ 1.5%** WoW **| Supramax ↓0.3%** WoW
 

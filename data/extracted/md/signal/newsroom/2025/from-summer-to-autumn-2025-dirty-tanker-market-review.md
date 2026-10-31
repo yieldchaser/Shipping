@@ -46,7 +46,7 @@ The summer of 2025 surprised with earnings, as VLCC rates climbed well above sea
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/68de40606393fea8f75bdf63_Screenshot%202025-10-02%20at%2010.05.11.png)
 
 
-### Dynamic 1 – Brent-Dubai Efs Swings and Shifting Arbitrage
+### Dynamic 1 – Brent-Dubai EFS Swings and Shifting Arbitrage
 
 Mid-summer dynamics were driven largely by price spreads and shifting arbitrage flows. The Brent–Dubai Exchange of Futures for Swaps (EFS) briefly turned negative, opening a short-lived window for West African and U.S. Gulf crudes into Asia. That opportunity closed quickly as TD22 (USG–Far East) freight surged and the Brent–Dubai spread rebounded into positive territory.
 
@@ -55,7 +55,7 @@ The temporary dip in EFS reflected firmer Dubai pricing and lingering uncertaint
 At the same time, Indian refiners came under heightened scrutiny as Washington threatened secondary sanctions on Russian crude. This raised the prospect of reduced spot purchases from Russia and greater reliance on alternative suppliers such as the Middle East Gulf, West Africa, and potentially the U.S. Gulf. With Dubai time-spreads firming and sour benchmarks tightening, Atlantic sweet crudes gained relative appeal.
 
 
-### Dynamic 2 – Usg Flows: Europe vs Asia
+### Dynamic 2 – USG Flows: Europe vs Asia
 
 The third quarter was among the strongest for European crude imports in recent years. However, U.S. Gulf Coast exports to the region moved in the opposite direction. In July, liftings dropped to 47.7 million barrels, almost 30% below the previous year. August recorded a partial recovery to 56 million barrels, but this was short-lived. September volumes eased again, leaving all three months trailing 2024 levels (see **Figure** 1).
 
@@ -125,7 +125,7 @@ On the TD3C benchmark (MEG–China), Worldscale levels climbed sharply, peaking 
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/from-summer-to-autumn-2025-dirty-tanker-market-review) | [Local Asset](../../../../../../corpus/07-signal/images/68de43e7c6d7da74cd0548ec_d634b07d.png)
 
 
-### Usg–china (TD22)
+### USG–China (TD22)
 
 On the TD22 benchmark (US Gulf–China), rates surged through September, peaking near USD 12M mid-month before easing back towards USD 10M by September 30. Despite the late pullback, current levels remain substantially above historical averages, highlighting strong US export activity and limited tonnage availability for long-haul voyages to Asia. (see **Figure** 7)
 

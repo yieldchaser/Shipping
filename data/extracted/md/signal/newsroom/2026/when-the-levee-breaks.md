@@ -22,7 +22,7 @@ tags:
 
 *Published on 24 September 2026*
 
-## Signal Ocean · Market Insights
+## SIGNAL OCEAN · MARKET INSIGHTS
 
 
 ## When the Levee Breaks

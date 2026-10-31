@@ -55,7 +55,7 @@ Let’s now have a look at the overall supply for VLCCs in the Arabian Gulf. Onc
 On the demand side, VLCC fixtures in the Arabian Gulf were strong in January, March and May ranging between 105 and143 fixtures per month but dropped below 90 in the remaining months, with the lowest number of fixtures for the year recorded in August, with 63 fixed VLCCs. Demand has dropped by about 24% for the second half of the year.
 
 
-### Clean Tankers – Lr2s
+### Clean Tankers – LR2s
 
 
 ![Lr2 Supply Rates and Fixtures](../../images/66b520cde30bbfa2120271fe_5feb035cec1dd18780562479_LR2%2520-%2520Combined%2520v2.avif)

@@ -22,7 +22,7 @@ tags:
 
 *Published on 29 October 2026*
 
-## Signal Ocean · Market Insights
+## SIGNAL OCEAN · MARKET INSIGHTS
 
 
 ## Ramble on: Who Pays the Freight?

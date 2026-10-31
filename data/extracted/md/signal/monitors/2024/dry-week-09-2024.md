@@ -25,7 +25,7 @@ tags:
 
 *Published on 28 February 2024*
 
-## A Decreasing Trend in the Number of Ballasters to Ecsa with a Recent Peak in the Daily Volume Loaded
+## A Decreasing Trend in the Number of Ballasters to ECSA with a Recent Peak in the Daily Volume Loaded
 
 
 ![65df0c904af41304c53e8892 Chart of the Week Dry](../../images/65df0c904af41304c53e8892_chart of the week dry.png)

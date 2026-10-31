@@ -22,7 +22,7 @@ tags:
 
 *Published on 26 August 2026*
 
-## Commodity Radar | Spotlight: Bauxite
+## COMMODITY RADAR | Spotlight: BAUXITE
 
 
 ## Front-Loading Masks a Market at a Crossroads

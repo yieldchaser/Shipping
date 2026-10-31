@@ -25,7 +25,7 @@ tags:
 
 *Published on 10 July 2024*
 
-## This Week's Chart Illustrates the Increase in the Monthly Volume of Brazilian Iron Ore During the Second Quarter of This Year (Left Chart), Alongside the Growth in Capesize Tonne Days From Brazil to China Since the End of May. While This Growth Indicates Potential for the Market, Its Impact on the Performance of the Baltic Capesize Index Within July Remains Uncertain. Thedecline in Available Ballastersmay Lead to Tighter Supply Conditions, Potentially Driving Rates Higher, But the Exact Effect on the Baltic Capesize Index Will Depend on Various Factors, Including Ongoing Demand and Port Congestion Levels.
+## This Week's Chart Illustrates the Increase in the Monthly Volume of Brazilian Iron Ore During the Second Quarter of This Year (Left Chart), Alongside the Growth in Capesize Tonne Days From Brazil to China Since the End of May. While This Growth Indicates Potential for the Market, Its Impact on the Performance of the Baltic Capesize Index Within July Remains Uncertain. the Decline in Available Ballasters May Lead to Tighter Supply Conditions, Potentially Driving Rates Higher, But the Exact Effect on the Baltic Capesize Index Will Depend on Various Factors, Including Ongoing Demand and Port Congestion Levels.
 
 
 ![668e5f3d248f2783a5ded931 Chart of the Week Dry (3)](../../images/668e5f3d248f2783a5ded931_chart of the week dry (3).avif)

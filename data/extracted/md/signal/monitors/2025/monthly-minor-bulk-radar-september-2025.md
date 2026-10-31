@@ -43,7 +43,7 @@ Minor bulk, made up of all dry cargo types that are not categorised as iron ore,
 ## Economic Environment
 
 
-## Manufacturing Pmi’s
+## Manufacturing PMI’s
 
 
 ![Source: National Bureau of Statistics of China, Institute for Supply Management, Hcob, Hbsc India Manufacturing Pmi](../../../../../../corpus/07-signal/images/68dd29e50b69f9b3e28cb899_378d79ca.png)
@@ -56,7 +56,7 @@ Minor bulk, made up of all dry cargo types that are not categorised as iron ore,
 ## Exchange Rates
 
 
-## Usd Vs:
+## USD Vs:
 
 
 ![Usd Vs:](../../../../../../corpus/07-signal/images/68dd29e50b69f9b3e28cb89c_92e245a1.png)
@@ -65,7 +65,7 @@ Minor bulk, made up of all dry cargo types that are not categorised as iron ore,
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-minor-bulk-radar-september-2025) | [Local Asset](../../../../../../corpus/07-signal/images/68dd29e50b69f9b3e28cb89c_92e245a1.png)
 
 
-## Rmb Vs:
+## RMB Vs:
 
 
 ![Source: Imf](../../../../../../corpus/07-signal/images/68dd29e50b69f9b3e28cb89f_9875de5c.png)

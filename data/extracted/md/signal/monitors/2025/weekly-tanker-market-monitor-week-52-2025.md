@@ -36,7 +36,7 @@ Ballast positioning | Supply Vs Cargo Demand | Tonne-day dynamics
 - Tanker freight markets continue to diverge, with dirty segments losing momentum, while clean markets retain a firmer undertone.
 
 
-## Dirtyfreightmarket Sentiment
+## Dirty Freight Market Sentiment
 
 **VLCC** MEG- China **Weaker**
 
@@ -91,7 +91,7 @@ Ballast positioning | Supply Vs Cargo Demand | Tonne-day dynamics
 (Last update December 24th)
 
 
-## Dirty Market Signals(ws | Ballast Positioning | Demand Volumes)
+## Dirty Market Signals (WS | Ballast Positioning | Demand Volumes)
 
 
 - What current fundamentals imply for the days ahead
@@ -107,7 +107,7 @@ Signal [Assessment](https://app.signalocean.com/tanker/dynamic/market-prices-tan
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0ab9a_989f7e62.png)
 
 
-## Ballasters| AG & Wafrsupplybuilding
+## Ballasters| AG & WAFR Supply Building
 
 *Bearish for near-term freight*
 
@@ -152,7 +152,7 @@ Lack of incremental volume growth caps freight support
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0abb5_5dae7243.png)
 
 
-## Vlcctonnedays | AG to Far East
+## VLCC Tonne Days | AG to Far East
 
 Momentum fading after recent highs
 
@@ -166,7 +166,7 @@ Momentum fading after recent highs
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-52-2025) | [Local Asset](../../../../../../corpus/07-signal/images/6954f1dcda38923316d0abb9_eeda3c75.png)
 
 
-## Firmer Tonne-Day Trends | Dirty Aframax & Clean Mr
+## Firmer Tonne-Day Trends | Dirty Aframax & Clean MR
 
 
 - In Dirty Aframax and Clean MR, elevated tonne-days point to improving utilisation and a healthier market balance heading into year-end.

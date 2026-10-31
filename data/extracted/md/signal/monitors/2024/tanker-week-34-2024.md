@@ -32,7 +32,7 @@ tags:
 ## In the Second Quarter of This Year, There Was a Clear Downward Trend From the Levels Recorded in the First Three Months. After Hitting a Low in June, Volumes Rebounded in July, Showing a Notable Adjustment. Overall, for the First Seven Months of This Year, There Has Been a 3% Decline in the Total Quantity of Dirty Crude Oil Shipments From the Arabian Gulf to All Destinations. Despite the Escalating Middle East Tensions, There Has Not Yet Been Significant Downward Pressure on Overall Tonnage, as July Saw a Recovery. It Remains to Be Seen Whether the Impact Will Be Greater in August and September.
 
 
-## When Analysing Trends by Vessel Class, It Is Noteworthy That Large Vessel Categories Like VLCC, Suezmax, and Aframax Have Maintained Volumes Close to Last Year’s Levels, However, with a Slight Downward Trend. Interestingly, Mr2 Tankers Have Doubled Their Share of Dirty Oil Shipments From the Arabian Gulf Compared to Last Year.
+## When Analysing Trends by Vessel Class, It Is Noteworthy That Large Vessel Categories Like VLCC, Suezmax, and Aframax Have Maintained Volumes Close to Last Year’s Levels, However, with a Slight Downward Trend. Interestingly, MR2 Tankers Have Doubled Their Share of Dirty Oil Shipments From the Arabian Gulf Compared to Last Year.
 
 
 ![66c71d4d753685254895efe1 66c71d0de98af700f725f47f Tanker%20chart%20week%2034](../../images/66c71d4d753685254895efe1_66c71d0de98af700f725f47f_tanker%2520chart%2520week%252034.avif)

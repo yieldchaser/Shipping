@@ -22,7 +22,7 @@ tags:
 
 *Published on 08 April 2026*
 
-## One Month of AIS-Derived Data From the World's Most Consequential Chokepoint and What It Revealed About a Dry Bulk Market Frozen in Place.
+## One Month of AIS-derived Data From the World's Most Consequential Chokepoint and What It Revealed About a Dry Bulk Market Frozen in Place.
 
 Оn 28 February 2026, the Persian Gulf was running a normal book of business. Panamaxes were completing grain discharges at Bandar Imam Khomeini. Supramaxes were working fertilizer parcels. Handysizers were loading industrial minerals for Southeast Asian ports. Then the United States and Israel launched coordinated strikes on Iran — including the killing of Supreme Leader Ali Khamenei — and within seventy-two hours, the Islamic Revolutionary Guard Corps had formally declared the Strait of Hormuz closed. Only four vessels had crossed in either direction. The month that followed was unlike anything the dry bulk market had seen.
 

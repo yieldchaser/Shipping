@@ -38,7 +38,7 @@ The main problem will be insurance coverage for port calls. Currently, there is 
 The current situation of blocked Ukrainian grain exports has led to a decrease in monthly grain flows by sea, with the current level significantly lower than in the comparable period of the last two years. (Chart below 1).
 
 
-## Seaborne Dry Bulk Flows, Grain, From All Countries to All Destinations, Monthly Volume (Tonnes)
+## Seaborne Dry Bulk Flows, Grain, From ALL Countries to ALL Destinations, Monthly Volume (Tonnes)
 
 
 ![Graph 1 Data Source: The Signal Ocean Platform, Years 2020-2022](../../images/62eb997f5de0597d340e36b7_Chart 1 Grain_Logo.PNG)
@@ -62,7 +62,7 @@ It is interesting to see that the share of Russian grain exports by sea to Turke
 The impact of geopolitical tensions on Ukrainian grain exports is illustrated in the third chart, where monthly volumes by the sea in the fourth quarter of 2021 and the first two months of this year were significantly higher than in previous years.
 
 
-## Seaborne Dry Bulk Flows, Grain, From Ukraine to All Countries, Monthly Volume (Tonnes)
+## Seaborne Dry Bulk Flows, Grain, From Ukraine to ALL Countries, Monthly Volume (Tonnes)
 
 
 ![Graph 3 Data Source: The Signal Ocean Platform, Years 2020-2022](../../images/62eb9ab2e8d1165bed4ea8ea_chart 3_logo.png)
@@ -74,7 +74,7 @@ The impact of geopolitical tensions on Ukrainian grain exports is illustrated in
 Under the grain agreement between Russia and Ukraine, [the first ship carrying grain](https://www.washingtonpost.com/world/2022/08/01/ukraine-grain-deal-odessa-shipments-resume/) left a Ukrainian port, raising hopes that the agreement would alleviate the global food crisis and lower grain prices. The chart below (4) provides an overview of the volumes that came out of the main Ukrainian grain ports this year and shows how the recent agreement affects volumes in the last days of July. It remains to be seen whether the agreement will further smooth Ukrainian grain exports across the Black Sea and recoup the food security losses in recent months for both developed and developing countries.
 
 
-## Seaborne Dry Bulk Flows, Grain, From Ukraine to All Countries, Monthly Volume (Tonnes)
+## Seaborne Dry Bulk Flows, Grain, From Ukraine to ALL Countries, Monthly Volume (Tonnes)
 
 
 ##### Ports: Chormonsk, Odessa, Yuzhnyy

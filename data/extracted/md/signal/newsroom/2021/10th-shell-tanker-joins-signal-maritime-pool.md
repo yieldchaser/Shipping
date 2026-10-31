@@ -26,7 +26,7 @@ tags:
 
 *Published on 20 October 2021*
 
-## Signal Maritime Expands Fleet with Shell's Mr Tankers
+## Signal Maritime Expands Fleet with Shell's MR Tankers
 
 [Signal Maritime](https://www.thesignalgroup.com/signal-maritime), the Signal Group’s shipping arm, has taken commercial management of *MT* *Silver London*, its 10th Shell medium-range (MR) tanker, increasing the pool’s fleet size to 15. The partnership allows Shell to benefit from Signal’s seven year investment in the development of digital technology that underpins a highly effective system for chartering vessels.
 

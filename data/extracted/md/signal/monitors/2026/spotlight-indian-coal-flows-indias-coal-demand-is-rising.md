@@ -47,7 +47,7 @@ At the production level, domestic supply remains robust but has shown signs of a
 Looking ahead, with demand rising into the peak summer months, gas-based generation facing constraints, and temperatures expected to remain above normal, coal-fired plants will require a sustained fuel supply. Although current stock levels are high, they are being drawn against a significantly stronger demand environment than when they were accumulated. As inventories gradually normalize from elevated levels, India is likely to re-engage more actively in the seaborne market. Recent strengthening in import flows may represent an early indication of this transition, although a full restocking cycle is not yet evident in the data.
 
 
-## Freight Market Overview
+## FREIGHT MARKET OVERVIEW
 
 The Baltic Dry Index has moved back above 2,000, with Capesize and Panamax driving gains, particularly in the Atlantic basin.
 
@@ -58,7 +58,7 @@ The Baltic Dry Index has moved back above 2,000, with Capesize and Panamax drivi
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/spotlight-indian-coal-flows-indias-coal-demand-is-rising) | [Local Asset](../../../../../../corpus/07-signal/images/69d8ce3c853714ba25d6bbc8_0e09b48c.png)
 
 
-## Freight Atlantic
+## FREIGHT ATLANTIC
 
 
 ## Capesize C3 / Panamax P7
@@ -80,7 +80,7 @@ The Baltic Dry Index has moved back above 2,000, with Capesize and Panamax drivi
 - **P7** | US Gulf to Qingdao grain | 68.76 $/MT | Day: +0.09 | Week: +0.08 | Bullish momentum
 
 
-## Supramax S4A / Handysize Hs438 Weaker
+## Supramax S4A / Handysize HS4\_38 Weaker
 
 
 ![Supramax S4A / Handysize Hs438 Weaker](../../../../../../corpus/07-signal/images/69d8ce3c853714ba25d6bbc5_b0957e79.png)
@@ -99,7 +99,7 @@ The Baltic Dry Index has moved back above 2,000, with Capesize and Panamax drivi
 - **HS4\_38** | US Gulf trip via US Gulf or North Coast South America | 11,664 $/day | Day: -157 | Week: -1,403 | Strongly bearish sentiment.
 
 
-## Freight Pacific
+## FREIGHT PACIFIC
 
 
 ## Capesize | C5 Softer
@@ -116,7 +116,7 @@ The Baltic Dry Index has moved back above 2,000, with Capesize and Panamax drivi
 - **C5** | West Australia to Qingdao | 11.93 $/MT | Day: -0.23 | Week: +0.29 | Mixed picture, the daily dip is a minor blip against a positive week.
 
 
-## Panamax P582 / Supramax S10 Firmer
+## Panamax P5\_82 / Supramax S10 Firmer
 
 
 ![Panamax P582 / Supramax S10 Firmer](../../../../../../corpus/07-signal/images/69d8ce3c853714ba25d6bbbf_960a2a36.png)
@@ -138,7 +138,7 @@ The Baltic Dry Index has moved back above 2,000, with Capesize and Panamax drivi
 - **S10** | South China trip via Indonesia to South China | 13,200 $/day | Day: +612 | Week: +1,334
 
 
-## Ballasters Overview
+## BALLASTERS OVERVIEW
 
 A bullish sentiment has emerged in rates this week, particularly when comparing the dry market's ballasters overview with the performance of the C3 index.
 
@@ -154,7 +154,7 @@ A bullish sentiment has emerged in rates this week, particularly when comparing 
 - **China congestion** fell 18% WoW to 112 vs 133 avg, vessels clearing faster, adding near-term tonnage pressure.
 
 
-## Demand|tonne Miles- 7d Ma- Index View
+## DEMAND| TONNE MILES - 7D MA- INDEX VIEW
 
 **Capesize ↓ 0.6%** WoW **| Panamax Flat** WoW **| Supramax ↓3.4%** WoW
 

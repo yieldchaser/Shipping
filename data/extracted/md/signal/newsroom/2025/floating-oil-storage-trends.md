@@ -36,7 +36,7 @@ The floating oil storage sector has undergone marked fluctuations since 2020, at
 ## The Historical Timeline of Key Events Influencing Floating Oil Storage Trends
 
 
-#### The Impact of Covid-19 (2020-2021)
+#### The Impact of COVID-19 (2020-2021)
 
 At the onset of the COVID-19 pandemic, the oil tanker storage market witnessed an unprecedented surge as global lockdowns and travel restrictions drastically reduced oil demand. The sharp drop in consumption led to a supply glut that overwhelmed onshore storage capacity, making floating storage units a crucial alternative for oil traders and producers. As storage terminals filled up, companies turned to Very Large Crude Carriers (VLCCs) and other oil tanker storage to store unsold crude, significantly altering the dynamics of global energy markets.
 
@@ -47,7 +47,7 @@ In **April 2020**, oil prices experienced a historic collapse, with West Texas I
 By **late 2021 and into 2022**, as widespread vaccination programs facilitated economic recovery, global oil demand rebounded. The gradual reopening of industries, resumption of travel, and increased energy consumption led to a steady drawdown of stored crude. As a result, floating storage volumes declined, and tanker charter rates began to stabilise. Market normalisation followed, with oil supply and demand dynamics returning to more traditional patterns.
 
 
-## Sanctions, Geopolitics, and the Role of Opec+ (2022-Present)
+## Sanctions, Geopolitics, and the Role of OPEC+ (2022-Present)
 
 
 #### Russia-Ukraine Conflict and Sanctions on Russian Oil
@@ -66,7 +66,7 @@ The geopolitical crisis has triggered a major shift in global crude trade, leadi
 Sanctions on **Iran** and **Venezuela** have continued to shape floating storage trends, as both nations navigate restrictions to sustain their oil exports. Despite U.S. sanctions, Iran has expanded its crude shipments, primarily to China, relying heavily on offshore storage solutions and ship-to-ship (STS) transfers to circumvent regulatory barriers. The rise in " **dark fleet** " activity, characterized by aging tankers operating without insurance, has not only heightened risks in maritime transport but also prompted tighter compliance measures from the International Maritime Organisation (IMO).
 
 
-## Opec+ Strategies and Saudi-Iranian Influence on Floating Storage
+## OPEC+ Strategies and Saudi-Iranian Influence on Floating Storage
 
 **OPEC+** has played a decisive role in shaping oil supply trends, which directly impact floating storage dynamics. **Saudi Arabia,** as the world's leading oil exporter, has been at the forefront of these efforts, particularly through voluntary production cuts implemented between 2023 and 2024. These reductions, aimed at stabilising prices, temporarily tightened global supply and led to fluctuations in floating storage levels.
 

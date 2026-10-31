@@ -48,7 +48,7 @@ The first half of the year is shaping up to deliver the strongest Baltic Dry Ind
 All data and commentary reflect market conditions as of [Friday, 29 May 2026], unless otherwise stated.
 
 
-## Freight Market Overview | Capesize Snapshot
+## FREIGHT MARKET OVERVIEW | Capesize Snapshot
 
 
 ![Real-Time Capesize Spot Price Summary and BCI Seasonal Performance as of May 29, 2026](../../../../../../corpus/07-signal/images/6a1d5b95dfe69a6480ddab10_a43a6e44.png)
@@ -119,7 +119,7 @@ In February 2026, India and Brazil signed a mining and minerals cooperation agre
 Geopolitical tensions in the Middle East also contributed to shifting procurement patterns during the period. Concerns over the reliability of some pellet supply flows from the region encouraged Indian buyers to diversify sourcing and rely more heavily on established long-haul suppliers, including Brazil.
 
 
-## Demand| Tonne-Miles Index View & Billions
+## DEMAND| TONNE-MILES INDEX VIEW & BILLIONS
 
 *Capesize • Cargo: Iron Ore (Ores & Rocks) • Route: All to India • Timeframe: 2-Year Trend (Mid-2024 to Mid-2026)*
 

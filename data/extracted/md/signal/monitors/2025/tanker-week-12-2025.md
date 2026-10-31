@@ -38,7 +38,7 @@ tags:
 In recent months, the global oil market has experienced notable shifts, particularly in the dynamics of dirty tanker flows from the Arabian Gulf (AG) to both Europe and the Far East/India. These changes are intricately linked to fluctuations in crude oil prices and projections of a tightening global oil supply.​
 
 
-## Dirty Tanker Flows: AG to Far East/india vs. Europe
+## Dirty Tanker Flows: AG to Far East/India vs. Europe
 
 The chart above illustrates the **dirty oil flow of the Arabian** **Gulf** **(AG)** to the **Far East/India** and **Europe**, comparing data from **2024 (gray bars)** and **2025 (blue bars)**. The trends indicate differences in demand and distribution patterns across these two key regions, with notable variations in early 2025.
 

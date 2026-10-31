@@ -25,7 +25,7 @@ tags:
 
 *Published on 29 July 2026*
 
-## Spotlight of the Week
+## SPOTLIGHT OF THE WEEK
 
 
 ## Capesize Vessel-Age Share of Tonne-Mile Demand: Iron Ore vs Bauxite
@@ -79,7 +79,7 @@ Tonne-mile demand for Capesize vessels within the bauxite sector is predominantl
 The clearest contrast is modern versus old tonnage, for Capesize ships specifically. In 2026, iron-ore Capesize demand is driven by younger vessels (under-10-year bands 46%, ahead of 33% for the 16-plus bands), whereas bauxite is driven by older vessels (16-plus 45%, ahead of 39% for under-10). During the last decade, the iron ore sector experienced fleet renewal as the 21-plus age bracket decreased by 16 points, in contrast to bauxite, which aged as its 21-plus segment rose by 5 points. In the week to 24 July, iron-ore rates rose: C3 (Tubarao–Qingdao) up $1.96 to $34.68/mt and C5 (West Australia–Qingdao) up $1.05 to $12.86/mt, with Capesize tonne-miles near 101%.
 
 
-## Freight Market Overview | BDI & Segment Metrics
+## FREIGHT MARKET OVERVIEW | BDI & SEGMENT METRICS
 
 
 ![Freight Market Overview | BDI & Segment Metrics](../../images/6a69bb17378bca1cfb1a5315_Screenshot 2026-07-29 at 09.34.10.png)
@@ -99,7 +99,7 @@ The BDI was essentially flat at 2,743 (+18 day-on-day, –9 week-on-week), with 
 *All data reflect market conditions as of 24 Jul 2026 unless otherwise stated.*
 
 
-## Capesize | Analysis
+## CAPESIZE | ANALYSIS
 
 The BCI recovered to 4,285 (+87 day-on-day; +188 week-on-week) and average C5TC earnings rose to $35,357/day (+$788 day-on-day; +$1,704 week-on-week), reversing most of the prior week’s $5,058/day decline. Iron-ore routes firmed: C3 (Tubarao–Qingdao) rose to $34.68/mt (+$1.96 WoW, from –$0.28 the week before) and C5 (West Australia–Qingdao) to $12.86/mt (+$1.05 WoW). BCI 52-week high 5,517 / low 2,175; 52-week average 3,566.
 
@@ -138,7 +138,7 @@ Capesize tonne-mile demand held around 101%, and VLOC eased to roughly 95% into 
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-30-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a69bb59d2406297ee03c344_56dfe517.png)
 
 
-## Panamax | Analysis
+## PANAMAX | ANALYSIS
 
 The BPI fell to 2,024 (–40 day-on-day; –224 week-on-week) from a near-flat prior week. A widespread drop in earnings was recorded across all sectors: P5TC –10% WoW to $18,213/day (from about $20,236 last week), P2A\_82 –5% to $29,478/day, the transatlantic P1A\_82 –8% to $20,141/day, and the ECSA-facing P6\_82 –9% to $18,413/day. The largest route falls were P3A\_82 (–17% WoW) and P5\_82 (–15% WoW).
 
@@ -186,7 +186,7 @@ Panamax and Post-Panamax tonne-mile indices fell to around 101% and 100% respect
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-30-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a69bb59d2406297ee03c369_4eb3e96a.png)
 
 
-## Supramax | Analysis
+## SUPRAMAX | ANALYSIS
 
 The BSI eased to 1,694 (–8 day-on-day; –43 week-on-week), reversing the prior week’s +31 gain. Average S10TC earnings slipped to $19,374/day (–3% WoW) and S11TC to $21,408/day (–3% WoW). The decline was led by the US Gulf, with S1C –9% WoW to $29,279/day and S4A –8% WoW to $29,407/day, while S4B (+2% WoW) and S1B (+2% WoW, +58% YoY) held firmer. Year-on-year comparisons remained positive across routes.
 
@@ -234,7 +234,7 @@ On tonne-miles, Handymax was the highest at about 139% (off a ~146% peak), Supra
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-30-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a69bb59d2406297ee03c375_1336b92c.png)
 
 
-## Handysize | Analysis
+## HANDYSIZE | ANALYSIS
 
 The BHSI held at 905 (–1 day-on-day; +2 week-on-week), stabilising after last week’s 27-point decline. Average HS7TC earnings were flat at $16,290/day (from $16,261 last week). Routes were mixed: the UK Continent/Baltic routes firmed (HS1\_38 +3% WoW to $8,668/day, HS2\_38 +3% to $11,346/day), along with the Pacific HS5\_38 (+3%) and HS6/HS7 (+2%), while the South Atlantic HS3\_38 (–5% WoW) and HS4\_38 (–5%) softened. Year-on-year gains remained strong (HS6\_38 +41%, HS7\_38 +39% YoY).
 
@@ -273,7 +273,7 @@ The global ballaster count eased to about 664 vessels (from ~684). The North Atl
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-30-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6a69bb59d2406297ee03c3aa_cf3afb36.png)
 
 
-## Overall Market Trend | Conclusions
+## OVERALL MARKET TREND | CONCLUSIONS
 
 
 ![Overall Market Trend | Conclusions](../../images/6a69bb4b1138ce6c36f7310c_Screenshot 2026-07-29 at 09.34.51.png)

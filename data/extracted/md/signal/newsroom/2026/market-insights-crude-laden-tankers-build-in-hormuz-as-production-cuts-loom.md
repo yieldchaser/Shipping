@@ -74,7 +74,7 @@ Recent AIS data show a sharp reversal in the typical ballast–laden balance in 
 During March 2026, owing to the effective closure of the Strait of Hormuz, a clear divergence emerged between ballast and laden tanker counts. Ballast tanker numbers declined sharply, falling from an average of 135 vessels to around 75. Over the same period, laden tanker counts increased significantly, rising from an average of 85 vessels to roughly 145.
 
 
-## Chart 2: Recent Breakdown in Ballast–laden Traffic Balance (2026)
+## Chart 2: Recent Breakdown in Ballast–Laden Traffic Balance (2026)
 
 
 ![Source: Signal Ocean Data Warehouse (Tsop); Based on AIS Data](../../../../../../corpus/07-signal/images/69b924223c9f2b3057de7e7d_55868250.png)
@@ -133,7 +133,7 @@ In January 2026, under normal operating conditions, the number of daily tanker t
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-crude-laden-tankers-build-in-hormuz-as-production-cuts-loom) | [Local Asset](../../../../../../corpus/07-signal/images/69b924223c9f2b3057de7e8c_d5a7a878.png)
 
 
-## Today’s Reality| Average Daily Transit <2 per Vessel Class, (March 1-16)
+## Today’s Reality | Average Daily Transit <2 per Vessel Class, (March 1-16)
 
 **Chart 6: Estimated Daily Transit Capacity (Observed, March 1–16)**
 

@@ -26,7 +26,7 @@ tags:
 
 *Published on 13 February 2026*
 
-## Chart of the Week| Congestion per Discharge Area(wow Change)
+## Chart of the Week| Congestion per Discharge Area (WoW Change)
 
 This week’s spotlight reviews the latest congestion trends in major dirty and clean discharge areas, highlighting notable weekly shifts.
 
@@ -77,7 +77,7 @@ For now, freight performance appears more directly driven by regional vessel ava
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026) | [Local Asset](../../../../../../corpus/07-signal/images/698f2f34668f9bd10bfee877_828c8cdc.png)
 
 
-## Dirtytce$/day
+## Dirty TCE$/DAY
 
 **VLCC | Suezmax | Aframax ↓**
 
@@ -120,7 +120,7 @@ For now, freight performance appears more directly driven by regional vessel ava
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026) | [Local Asset](../../../../../../corpus/07-signal/images/698f2f34668f9bd10bfee871_f7f31057.png)
 
 
-## Cleantce$/day
+## CLEAN TCE$/DAY
 
 **LR2 | LR1 |MR ↓**
 
@@ -143,12 +143,12 @@ For now, freight performance appears more directly driven by regional vessel ava
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-07-2026) | [Local Asset](../../../../../../corpus/07-signal/images/698f2f34668f9bd10bfee87a_f959ed30.png)
 
 
-## Supply Market Trends
+## SUPPLY MARKET TRENDS
 
 In this section, we highlight the areas of the dirty Baltic routes where TSOP signals show the latest upward trend, contrary to the direction of freight market movements.
 
 
-## VLCC |usgvsag&wafr
+## VLCC | USG vs AG & WAfr
 
 Building on last week's observation of emerging oversupply in West Africa, current data indicate developing net supply pressure in the US Gulf. Specifically, the latest [TSOP](https://app.signalocean.com/tanker/dynamic/vlcc\_insights\_downloadable) figures indicate an oversupplied market on the TD22 route (24% above the 3-month average). This elevated supply level appears to be already restraining any further spike in recent freight market indications.
 
@@ -165,7 +165,7 @@ Building on last week's observation of emerging oversupply in West Africa, curre
 - **AG:** The sustained downward trajectory in net vessel supply within the Arabian Gulf (AG) region remains a notable market feature. Current data indicate a substantial reduction in the vessel count, now approximately 45% below the peak level recorded at the end of December 2025. This significant decline has accelerated recently, in contrast to the 26% decrease observed just before the close of the previous week.
 
 
-## Suezmax | Wafrvsblack Sea
+## Suezmax | Wafr vs Black Sea
 
 
 ![Suezmax | Wafr vs Black Sea](../../../../../../corpus/07-signal/images/698f2f34668f9bd10bfee880_f97a5fec.png)
@@ -180,7 +180,7 @@ Building on last week's observation of emerging oversupply in West Africa, curre
 - **Black Sea**: Current volatility continues, averaging around 25 vessels, down from the peak of just over 30 vessels recorded in mid-November 2025.
 
 
-## Dirty Demand(tonne Miles)| 7d Ma - Index View
+## DIRTY DEMAND (TONNE MILES) | 7D MA - INDEX VIEW
 
 **VLCC ↓** 3.3% WoW **| Suezmax ↑ 2.8%** WoW **| Aframax ↓ 6.0**% WoW
 
@@ -196,7 +196,7 @@ Building on last week's observation of emerging oversupply in West Africa, curre
 Metrics Description: [Index View](https://app.signalocean.com/dry/dynamic/timeseries\_dry) (Base 100) by total Tonne Miles over the selected period. This facilitates relative performance comparisons between segments of different sizes (e.g., comparing the growth rate of VLCC vs Suezmax)
 
 
-## Clean Demand(tonne Miles)| 7d Ma - Index View
+## CLEAN DEMAND (TONNE MILES) | 7D MA - INDEX VIEW
 
 **Aframax ↓** 1.5% WoW **| Panamax ↓ 2.8**% WoW **| MR2 ↓** 2.0% WoW
 

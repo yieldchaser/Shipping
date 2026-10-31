@@ -22,7 +22,7 @@ tags:
 
 *Published on 06 June 2022*
 
-## Signal Oceanandgeneral Indexforge Partnership for New Maritime Benchmarks
+## Signal Ocean and General Index Forge Partnership for New Maritime Benchmarks
 
 Leading benchmark provider, [General Index](https://www.general-index.com/), and maritime data specialist and software platform, [Signal Ocean](https://www.thesignalgroup.com/signal-ocean-platform), have today (6 June) signed an agreement to publish a revolutionary set of ocean freight and CO2 benchmarks. The new benchmarks will provide a series of unique indexes which combine Signal’s vessel and voyage data with General Index’s quantitative and well-established methodologies.
 

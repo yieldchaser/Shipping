@@ -32,7 +32,7 @@ tags:
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/dry-week-15-2025) | [Local Asset](../../../../../../corpus/07-signal/images/67f635afb1de1996f925833d_AD_4nXfrZTZD7fK6bw1oZvtDwn050IuDPnKIbqJ0BCovP_PSgv02bIwlHeeGdbfsI_Bt8FxcgCZZvcYzalcCJtQSC-FX_Q2KKIiNGo28vHy_TO5gmShZRxvpxTtP5JwRnzMgfkLKt9485g.png)
 
 
-## Escalation of U.s.-China Trade Tensions: Implications for Dry Bulk Freight
+## Escalation of U.S.-China Trade Tensions: Implications for Dry Bulk Freight
 
 **On April 4th, China announced a 34% tariff on all U.S. imports**, a retaliatory response to recent U.S. protectionist trade measures, effective April 10th. This escalation in the trade dispute is set to have a direct impact on key U.S. dry bulk exports—particularly soybeans and corn—based on recent cargo flow and vessel deployment data from the Signal Ocean Platform and supporting trade intelligence.
 
@@ -50,7 +50,7 @@ Comparing quarterly performance, U.S. grain shipments to Far East destinations d
 This downward trend is likely to accelerate as the newly imposed tariffs deter Chinese buyers, potentially redirecting volumes to alternative markets such as Southeast Asia. However, these substitute markets may offer lower margins and may not be able to fully absorb the volume previously destined for China.
 
 
-## U.s. Coal May Also See Dampened Demand
+## U.S. Coal May Also See Dampened Demand
 
 While China is not the top importer of U.S. coal, it does source **10.3%** of U.S. coal exports, making it the second-largest Asian destination after India (**25.2%**). The coal trade—split between **metallurgical (54.4%)** and **thermal coal (45.6%)**—has so far shown relative stability, with only modest contractions:
 

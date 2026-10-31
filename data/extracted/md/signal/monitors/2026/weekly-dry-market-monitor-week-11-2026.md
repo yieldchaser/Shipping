@@ -48,7 +48,7 @@ As tensions in the Middle East persist, concerns continue to grow over the risk 
 Recent data indicate a sharp decline in West-to-East bulk carrier movements through the strait. The average weekly transit count fell from seven vessels on February 26 to just one by the end of the previous week, although the figure now appears to be trending slightly higher at around two vessels.
 
 
-## Average Weekly Transits(january - March 2026)
+## Average Weekly Transits (January - March 2026)
 
 
 ![Source: Signal Ocean | Waypoints API Data (Last Update: March 12, 2026)](../../../../../../corpus/07-signal/images/69b40854fdc21ae7f2d078cf_23f4128a.png)
@@ -58,7 +58,7 @@ Recent data indicate a sharp decline in West-to-East bulk carrier movements thro
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-11-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69b40854fdc21ae7f2d078cf_23f4128a.png)
 
 
-## Vessel Count Inside Hormuz(dwt >=25k DWT)
+## Vessel Count Inside Hormuz (DWT >=25k DWT)
 
 
 ![Vessel Count Inside Hormuz (DWT >=25k DWT)](../../../../../../corpus/07-signal/images/69b40854fdc21ae7f2d078cc_f3f96b39.png)
@@ -93,7 +93,7 @@ The escalation has contributed to growing concerns across the maritime sector, i
 Current indicators suggest that if the uncertainty continues over the coming weeks, transit patterns could partially gradually adjust, with the average number of weekly passages potentially increasing from the present levels, likely exceeding an average of one vessel per day. One of the folding scenarios could be that more and more Iranian and Chinese-linked vessels will ensure the passage, while vessels trapped inside Hormuz in ballast status will face serious difficulties in managing their safe passage.
 
 
-## Freight Market Overview
+## FREIGHT MARKET OVERVIEW
 
 The Baltic Dry Index (BDI) has maintained momentum above the 1,900-point mark, with daily gains on the Capesize and Panamax segments, while downward trends are evidenced in all vessel size segments.
 
@@ -104,7 +104,7 @@ The Baltic Dry Index (BDI) has maintained momentum above the 1,900-point mark, w
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-11-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69b40854fdc21ae7f2d078d5_914bf54a.png)
 
 
-## Freight Atlantic
+## FREIGHT ATLANTIC
 
 **Capesize | Firmer**
 
@@ -159,7 +159,7 @@ The Baltic Dry Index (BDI) has maintained momentum above the 1,900-point mark, w
 - USG trip to Skaw-Passero recorded levels of around $22k/d, a decrease of around $11k/d on an annual basis and $3.3k/d within a week.
 
 
-## Freight Pacific
+## FREIGHT PACIFIC
 
 **Capesize | C5 Softer**
 
@@ -222,7 +222,7 @@ The Baltic Dry Index (BDI) has maintained momentum above the 1,900-point mark, w
 - The Pacific Handysize freight market is confirming the firmer trend we anticipated when we forecast its recovery in [late February](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-09-2026). Rates for the HS5\_38 and HS6\_38 have strengthened to around $12.5-13k/d each, while the HS7\_38 rate is now nearing $12k/d.
 
 
-## Ballasters Overview
+## BALLASTERS OVERVIEW
 
 **Capesize | 5D MA Mixed**
 
@@ -276,7 +276,7 @@ Available [here](https://app.signalocean.com/dry/dynamic/supramax\_insights)
 - Handysize vessels continued to face elevated supply pressure from the end of February. In the North Atlantic, the vessel count remained high, exceeding 220 (+20% WoW). In the Pacific, pressure intensified considerably across two key regions: the Far East/NOPAC, where the ballast vessel count held above 180 (+20% WoW), and in Australasia, which saw its vessel count reach more than 160 (+20% WoW).
 
 
-## Demand |tonne Miles- 7d Ma- Index View
+## DEMAND | TONNE MILES - 7D MA- INDEX VIEW
 
 **Capesize ↓ 5.1%** WoW **| Panamax ↓ 1.1%** WoW
 

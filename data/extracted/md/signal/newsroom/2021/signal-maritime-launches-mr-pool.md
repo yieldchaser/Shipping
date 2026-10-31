@@ -22,7 +22,7 @@ tags:
 
 *Published on 26 May 2021*
 
-## Signal Maritimelaunches New Mr Product Tanker Pool
+## Signal Maritime Launches New MR Product Tanker Pool
 
 Commercial ship manager Signal Maritime is expanding its services and launching a [new pool](https://www.thesignalgroup.com/signal-maritime#smartpool) for MR product tankers. The move follows the success of its Aframax pool, which has been running since 2018 and consistently delivering above market returns to its members.
 

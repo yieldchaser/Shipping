@@ -25,7 +25,7 @@ tags:
 
 *Published on 07 May 2025*
 
-## This Week’s Highlight Focuses on the Shifting Trends in Grain Dry Bulk Flows From the U.s. to Mexico
+## This Week’s Highlight Focuses on the Shifting Trends in Grain Dry Bulk Flows From the U.S. to Mexico
 
 
 ![Https://app.signalocean.com/dry/dynamic/drybulkflows-Downloadable](../../../../../../corpus/07-signal/images/6819e9609b6a097138d32d38_AD_4nXdXzXecyQ-NfR7w_4Vq3YhArhC6fc4PsN49yDN0bCL5C_YgcBg-rClbwMelSCn4mCuafsMdgC5uFMsYpXbxX4uwpChSfxRZgR4WiEjcxEpu9LKG2couW6nbNepoAWizizQPeuCD.png)

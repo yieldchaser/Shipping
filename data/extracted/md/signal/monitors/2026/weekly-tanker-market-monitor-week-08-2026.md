@@ -166,7 +166,7 @@ The clean segment is concluding the final week of February with a clear upward m
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-tanker-market-monitor-week-08-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69a1c6f450433bad7cdb540b_db5f727c.png)
 
 
-## Supply Market Trends
+## SUPPLY MARKET TRENDS
 
 Previous weekly market monitors concentrated on routes where our [TSOP](https://www.thesignalgroup.com/signal-ocean/signal-ocean-platform) signals indicated an oversupplied market. This week, however, we shift our focus from oversupply to routes showing an undersupplied picture.
 
@@ -220,7 +220,7 @@ The latest [TSOP](https://app.signalocean.com/tanker/dynamic/vlcc\_insights\_dow
 Metrics Description: [Index View](https://app.signalocean.com/dry/dynamic/timeseries\_dry) (Base 100) by total Tonne Miles over the selected period. This facilitates relative performance comparisons between segments of different sizes (e.g., comparing the growth rate of VLCC vs Suezmax)
 
 
-## Clean Demand(tonne Miles)| 7d Ma - Index View
+## CLEAN DEMAND (TONNE MILES) | 7D MA - INDEX VIEW
 
 **Aframax ↑** 4.1% WoW **| Panamax** ↓ 3.2% WoW **| MR2 ↓ 10.4%** WoW
 

@@ -38,7 +38,7 @@ In addition, the ongoing natural gas and coal shortages across Asia and Europe h
 In China, the supply issues surrounding coal and natural gas have led to a shortage of diesel, prompting the fuel to become rationed. Chinese authorities have met with the nation’s refiners in a bid to stave off further disruptions and surging prices. According to reports, officials questioned the refiners if they could raise processing rates to produce more fuel and import more diesel and gasoline. In addition, the ability to source additional crude oil at reasonable prices to avoid adding to the nation’s inflationary pressures remains a concern. In a well-published attempt to control the rising prices, China also released seven million barrels of crude from its strategic reserves. While being a historic first, the quantities account for less than a day’s consumption in the country.
 
 
-## Opec+ Production
+## OPEC+ Production
 
 The [oil-producing countries](https://www.thesignalgroup.com/newsroom/opec-is-back-in-control-but-needs-to-avoid-scoring-an-own-goal) are unlikely to come to the rescue anytime soon with increased output, with OPEC+ intent on remaining the custodian of price support. The organisation remains fully committed to the [production deal reached in July](https://www.opec.org/opec\_web/en/press\_room/6512.htm), which sees the group adding 400,000 barrels a day to supply each month. The pact will see all production cuts removed in September next year, assuming that demand is recovering as projected and there is no significant resurgence of the coronavirus affecting the economic growth materially. Despite increasing diplomatic pressures, notably from the US, there are no indications of the organisation relenting, with the agreement reaffirmed multiple times. The cartel’s Joint Technical Committee has also softened its expectations for how tight global oil markets will be this quarter, ahead of the next ministerial meeting in early November. Its original forecast of 1.1 million barrel daily deficit during the fourth quarter was downgraded to an average of 300,000 barrels per day. However, the committee expects the shortage to turn to a surplus of 1.6 million barrels a day next year as non-OPEC production recovers.
 
@@ -63,7 +63,7 @@ While other shipping sectors, most notably container and [dry bulk](https://www.
 The relative outperformance of the eastbound trade from the Arabian Gulf highlights the importance of the rapid Chinese economic recovery to the global demand growth. The unfolding energy squeeze also contributes, as refiners have come under pressure to increase output to make up for coal and natural gas shortages. In addition, the Chinese habit of opportunistic purchases for its strategic reserves has also supported freight rates to the Far East.
 
 
-##### VLCC Freight Market Performance - AG to Far East / AG to Usg
+##### VLCC Freight Market Performance - AG to Far East / AG to USG
 
 
 ![Image 2: Signal Ocean Data|dirty Tanker Market Rates (WS) 2018-2022](../../images/66b51d92735333b5f1672680_618536eb27077f84f29222df_VLCCs%2520freight.avif)
@@ -73,7 +73,7 @@ The relative outperformance of the eastbound trade from the Arabian Gulf highlig
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/economic-recovery-and-energy-crunch-fuel-oil-demand-recovery) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d92735333b5f1672680_618536eb27077f84f29222df_VLCCs%2520freight.avif)
 
 
-##### Mr2 Clean Freight Market Performance - Cont to US Atlantic, US to Continent - MEG to East Africa
+##### MR2 Clean Freight Market Performance - Cont to US Atlantic, US to Continent - MEG to East Africa
 
 
 ![Image 3: Signal Ocean Data | Mr2 Clean Tanker Market Rates (WS) 2018-2022](../../images/66b51d92735333b5f167267d_61853730d3bec049b98b2167_MR%2520clean%2520freight.avif)
@@ -102,7 +102,7 @@ A continued arrival of new tonnage and an absence of extensive scrapping are add
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/economic-recovery-and-energy-crunch-fuel-oil-demand-recovery) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d94735333b5f1672b8a_61853d1f95bac6da9e4cf6d9_Market%2520monitor%2520Signal%2520ocean%2520plartform%2520VLCC.avif)
 
 
-##### Mr2 Clean Supply & Market Rates (WS)
+##### MR2 Clean Supply & Market Rates (WS)
 
 
 ![Image 4: Signal Ocean Data | Mr2 Clean Supply Continent, Rotterdam, Neth Loading Port, Market Deployment Relet-Spot, Market Rates: Clean - Cont to USA Atlantic](../../images/66b51d92735333b5f167267a_61853dd5f5fd0d63c2ace23f_Market%2520monitor%2520Signal%2520ocean%2520plartform%2520MR2%2520clean.avif)

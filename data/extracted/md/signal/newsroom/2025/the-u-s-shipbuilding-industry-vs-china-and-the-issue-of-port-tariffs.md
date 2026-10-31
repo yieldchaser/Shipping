@@ -22,7 +22,7 @@ tags:
 
 *Published on 17 April 2025*
 
-## The Signal Ocean Voyages API Offers a Deep Dive Into Global versus U.s. Port Calls for Both Dry Bulk and Tanker Vessels, Providing Valuable Insights Into Which Vessel Size Segments and Commodity Types Are Most Exposed to Recent Policy Developments. in Light of These Shifts, a Critical Question Emerges:is the U.s. Shipbuilding Industry Truly Positioned to Play a Pivotal Role in the Freight Market at This Moment?
+## The Signal Ocean Voyages API Offers a Deep Dive Into Global versus U.S. Port Calls for Both Dry Bulk and Tanker Vessels, Providing Valuable Insights Into Which Vessel Size Segments and Commodity Types Are Most Exposed to Recent Policy Developments. in Light of These Shifts, a Critical Question Emerges: Is the U.S. Shipbuilding Industry Truly Positioned to Play a Pivotal Role in the Freight Market at This Moment?
 
 
 ![68010831b7c56ef4c0ea7494 Ad 4nxeyfxihnikd2fj 8mokwk8qko6qeix1gyceew7dieq7qdh75feqduyx6ure Tgvsm2xflaftkqdfqlqys3td1tgl6o8wsy 9nblufuyb7yib054rbgvazgsw2hvly8jkebtforg9w](../../../../../../corpus/07-signal/images/68010831b7c56ef4c0ea7494_AD_4nXeyfXiHniKd2FJ_8MOKWk8QkO6qeix1GyCeew7DIeq7qDh75fEqdUyx6uRE-tGvSM2XflAFtkQdfqLqys3Td1tgL6o8wSY_9NblUFUYb7YiB054rBGVAzGsW2hVlY8jkEbTForG9w.png)
@@ -38,7 +38,7 @@ The shipbuilding industry is a critical sector for the economic and geopolitical
 ​The recent proposal by the U.S. Trade Representative (USTR) to impose substantial port fees on Chinese-built and Chinese-operated vessels is poised to significantly impact the global freight market. The proposed fees include charges of up to $1.5 million per port call for operators using Chinese-built ships and up to $1 million per port call for Chinese maritime transport operators. Additionally, operators with existing or pending orders from Chinese shipyards may face similar fees. Implementing these fees is expected to lead to increased operational costs for shipping companies, which will likely be passed on to consumers through higher freight rates. The World Shipping Council estimates that these fees could add approximately $600–$800 per container, effectively doubling the cost of shipping U.S. exports. This escalation in shipping costs may reduce the competitiveness of U.S. exports, potentially leading to decreased trade volumes and shifts in global trade patterns.
 
 
-## The U.s. Shipbuilding Industry: Limited in Scope, Strategic in Value
+## The U.S. Shipbuilding Industry: Limited in Scope, Strategic in Value
 
 The United States has a rich history in shipbuilding, particularly in the military and domestic commercial sectors. The Jones Act of 1920—which requires that vessels operating between U.S. ports be built in the country, owned by American entities, and crewed by U.S. citizens—has long shielded the domestic industry from foreign competition. Yet despite this protection, America’s commercial shipbuilding capacity has shrunk dramatically. Today, only a handful of shipyards remain active, hampered by high construction costs and limited global competitiveness. Nevertheless, the sector remains strategically vital, deeply intertwined with national security and supply chain resilience.
 
@@ -54,7 +54,7 @@ In contrast, China has emerged as the dominant force in global commercial shipbu
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/the-u-s-shipbuilding-industry-vs-china-and-the-issue-of-port-tariffs) | [Local Asset](../../../../../../corpus/07-signal/images/68010831c5475ff4841284a7_AD_4nXeGfS4f2FbJqYATZM67V7RlD6VYXWiXrEpGeaC3j6jqCgEyjCs8YX148ud2F-W7I_XG1afCOMrt3vzg2gaQ6eREzkWbH0aPyv02sM6wl-oT0vBpJ3EEikaW8bC91o_qvegPs1R_.png)
 
 
-## Prospects for a U.s. Shipbuilding Revival
+## Prospects for a U.S. Shipbuilding Revival
 
 Rebuilding the U.S. commercial shipbuilding sector presents formidable challenges. Currently, the United States accounts for just 0.13% of global commercial vessel production, while China, Japan, and South Korea together command more than 90% of the market. Further compounding this disparity, ship construction costs in the U.S. are estimated to be three to four times higher than in East Asia. Revitalising the domestic industry would demand large-scale investments in infrastructure, advanced manufacturing, and skilled labor development.
 
@@ -83,7 +83,7 @@ Increased tariffs on Chinese shipbuilding exports and potential port duties on C
 *Based on The Signal Ocean Voyages API data and in connection with the recent U.S. proposal to impose port fees of up to $1.5 million per call on Chinese-built ships, here's a comprehensive market impact analysis of U.S. port fees on Chinese-built vessels.*
 
 
-## Market Impact Analysis of U.s. Port Fees on Chinese-Built Vessels
+## Market Impact Analysis of U.S. Port Fees on Chinese-Built Vessels
 
 ***Vessel Size Segments Most Exposed:***
 
@@ -96,7 +96,7 @@ Increased tariffs on Chinese shipbuilding exports and potential port duties on C
 In 2024, there were a total of 640,305 global port calls, of which 18,386 occurred at U.S. ports—representing approximately 2.87% of the global total. Notably, Chinese-built ships accounted for 6,480 of these U.S. port calls, comprising 35.24% of overall U.S. port activity. **This indicates that more than a third of vessel calls in the United States were made by Chinese-built ships**, highlighting the significant exposure of the U.S. freight market to the proposed fees targeting such vessels. Segment analysis reveals that Supramax (24.65%) and Handysize (36.16%) vessels dominate the U.S. port landscape. Among Chinese-built vessel calls specifically, Handysize, Supramax, and Panamax are the top three contributing classes, underscoring the broad segmental exposure within U.S. ports.
 
 
-#### U.s. Port Activity Overview
+#### U.S. Port Activity Overview
 
 
 - Total global port calls in 2024: 640,305

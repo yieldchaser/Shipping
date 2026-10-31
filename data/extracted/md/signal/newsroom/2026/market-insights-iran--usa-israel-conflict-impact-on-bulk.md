@@ -22,7 +22,7 @@ tags:
 
 *Published on 05 March 2026*
 
-## Iran- Usa/israel Conflict Impact on Bulk
+## Iran- USA/Israel Conflict Impact on Bulk
 
 Dry bulk trade through the Strait of Hormuz faces disruption, with the impact largely concentrated in minor bulk trades.
 

@@ -46,7 +46,7 @@ A data-driven review facilitated by the [**Floating Storage platform report**](h
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/market-insights-floating-storage-hits-three-year-high) | [Local Asset](../../../../../../corpus/07-signal/images/6932e5f58e58320271a431dd_2ab5a4ca.png)
 
 
-## Floatingstorage Trends | Per Vessel Size Segment
+## Floating Storage Trends | Per Vessel Size Segment
 
 
 - As of 3 December, VLCCs dominate floating storage with a 48% share, while Suezmax and Aframax fleets contribute 28% and 24%, highlighting the heavier concentration of crude held on larger tonnage.

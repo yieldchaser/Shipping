@@ -22,7 +22,7 @@ tags:
 
 *Published on 20 January 2026*
 
-## Commodity Radar | Spotlight: Iron Ore
+## COMMODITY RADAR | Spotlight: IRON ORE
 
 
 ## How Long Can China Continue to Grow Its Iron Ore Stocks?

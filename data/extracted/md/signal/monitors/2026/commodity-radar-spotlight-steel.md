@@ -22,7 +22,7 @@ tags:
 
 *Published on 13 January 2026*
 
-## Commodity Radar | Spotlight: Steel
+## COMMODITY RADAR | Spotlight: STEEL
 
 
 ## China Continues to Target Export Markets

@@ -25,7 +25,7 @@ tags:
 
 *Published on 29 January 2026*
 
-## Chart of the Week|u.s. Grainflowsto China
+## Chart of the Week | U.S. Grain Flows to China
 
 
 ## China Continues to Favour Brazilian and South American Supplies Into Early 2026
@@ -59,14 +59,14 @@ Brazil’s 2025/26 soybean harvest is currently projected at approximately 160�
 The moderation in Brazilian shipments observed late in 2025 is consistent with typical seasonal patterns, as export volumes often ease following the main mid-year shipping window and ahead of the next harvest cycle. This timing aligns with the gradual drawdown of old-crop supplies rather than a deterioration in import demand. Import activity during this period appears consistent with advance coverage and scheduling decisions linked to expected early-2026 harvest availability, rather than short-term changes in consumption.
 
 
-## U.s. Shipment Pattern
+## U.S. Shipment Pattern
 
 Data from early January 2026 indicate a resumption of U.S.–China soybean shipments, although volumes remain below earlier peaks and lower than Brazilian loadings. Viewed alongside the 2025 shipment pattern, U.S. exports to China continue to occur primarily within defined seasonal or pricing-driven periods.
 
 Based on shipment timing and volume distribution, there is no clear evidence of a structural change in China’s sourcing behaviour. Brazil’s production scale and export timing continue to underpin its position in China’s import mix, while U.S. shipments remain intermittent.
 
 
-## Freight
+## FREIGHT
 
 
 ## Capesize | Atlantic Firmer
@@ -153,10 +153,10 @@ Based on shipment timing and volume distribution, there is no clear evidence of 
 - Handysize Atlantic routes showed renewed weekly firmness, despite remaining softer on a month-on-month basis. Brazil–Skaw/Pass firmed to around $42.2/tonne (+2.2% w/w; -5.2% m/m), while USG–NCSA/Skaw-Pass strengthened to approximately $30.3/tonne (+2.0% w/w; -10.1% m/m)
 
 
-## Ballasters Overview
+## BALLASTERS OVERVIEW
 
 
-## Capesize | 5d Ma Increasing
+## Capesize | 5D MA Increasing
 
 
 ![Capesize | 5d Ma Increasing](../../../../../../corpus/07-signal/images/697b73e72fb494e1c951d1e2_aaa938bf.png)
@@ -168,7 +168,7 @@ Based on shipment timing and volume distribution, there is no clear evidence of 
 - Supply pressure in the Atlantic significantly increased week-on-week, evidenced by a sharp rise in ballasters. Specifically, North Atlantic ballasters jumped to 33, marking a 26% week-on-week increase, while South Atlantic ballasters climbed to 57, an increase of 30% week-on-week.
 
 
-## Panamax | 5d Ma Mixed
+## Panamax | 5D MA Mixed
 
 
 ![Panamax | 5d Ma Mixed](../../../../../../corpus/07-signal/images/697b73e72fb494e1c951d1e5_b5f6853e.png)
@@ -180,7 +180,7 @@ Based on shipment timing and volume distribution, there is no clear evidence of 
 - Supply pressure in the Pacific and Indian Ocean increased week-on-week. SE Asia/Australasia ballasters rose to 197 (+14% WoW), while Indian Ocean/South Africa ballasters climbed sharply to 225 (+18% WoW). FEAST/NOPAC ballasters stood at 166, remaining elevated despite an 8% WoW pullback.
 
 
-## Supramax| 5d Ma Increasing
+## Supramax| 5D MA Increasing
 
 
 ![Supramax| 5d Ma Increasing](../../../../../../corpus/07-signal/images/697b73e72fb494e1c951d1e8_07353574.png)
@@ -192,7 +192,7 @@ Based on shipment timing and volume distribution, there is no clear evidence of 
 - Supramax supply pressure increased both the Atlantic and Pacific week-on-week. North Atlantic ballasters climbed to 110 (+17% WoW) and South Atlantic rose to 77 (+31% WoW). In the Pacific, FEAST/NOPAC ballasters jumped to 227 (+19% WoW), while Australasia increased to 177 (+16% WoW).
 
 
-## Handysize| 5d Ma Increasing
+## Handysize| 5D MA Increasing
 
 
 ![Handysize| 5d Ma Increasing](../../../../../../corpus/07-signal/images/697b73e72fb494e1c951d1eb_2ea3f812.png)
@@ -204,10 +204,10 @@ Based on shipment timing and volume distribution, there is no clear evidence of 
 - Handysize supply pressure remained elevated week-on-week, with increases seen in both the Pacific and Indian Ocean, while the North Atlantic was the sole area to see a decline. FEAST/NOPAC ballasters rose to 169 (+17% WoW), and Australasia increased to 161 (+12% WoW), while Indian Ocean/South Africa also increased to 109 (+25% WoW).
 
 
-## Port Congestion
+## PORT CONGESTION
 
 
-## Supramaxchittagong| Increasing
+## Supramax Chittagong | Increasing
 
 
 ![Supramax Chittagong| Increasing](../../../../../../corpus/07-signal/images/697b73e72fb494e1c951d1ee_4a8d166f.png)

@@ -40,7 +40,7 @@ In the second week of April, the crude oil freight market maintained a relativel
 In the clean segment, it's noteworthy to observe the growth of Russian clean oil exports to Brazil and Turkey, which have emerged as the primary destinations since last year. Meanwhile, US crude oil prices have intriguingly displayed signs of pulling back to $85/bbl, with market concerns about inflation pushing back expectations for Fed rate cuts to later in the year. At present, worries about inflation seem to have overshadowed concerns about a potential Iranian strike on Israel.
 
 
-## Faq Section
+## FAQ Section
 
 
 ### Frequently Asked Questions

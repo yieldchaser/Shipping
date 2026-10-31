@@ -22,7 +22,7 @@ tags:
 
 *Published on 04 June 2026*
 
-## Signal and Axsmarine Welcome the Shipping Community to "a New Course" at Posidonia 2026
+## Signal and AXSMarine Welcome the Shipping Community to "a New Course" at Posidonia 2026
 
 
 ![6a21775562ddfd58423b8690 0a1eb9b3](../../../../../../corpus/07-signal/images/6a21775562ddfd58423b8690_0a1eb9b3.jpeg)

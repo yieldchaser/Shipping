@@ -35,7 +35,7 @@ Major bulk, made up of iron ore, coal, and grains, exports ended 2025 Q3 above t
 ## Economic Environment
 
 
-## Manufacturing Pmi’s
+## Manufacturing PMI’s
 
 
 ![Source: National Bureau of Statistics of China, Institute for Supply Management, Hcob, Hbsc India Manufacturing Pmi](../../../../../../corpus/07-signal/images/690347d0df099eda2275f6f4_c89f17b3.png)

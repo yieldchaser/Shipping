@@ -38,7 +38,7 @@ The world economy is said to be experiencing just 0.7% growth, in the final thre
 With our annual review this year, we monitor the sentiment of demand and supply in the dry and tanker for crude and product segments. We initially focus on demand to capture the dynamics before we examine the supply trend lines with impact on freight rates and how the movements of the fourth quarter of this year could lead to euphoria in 2022.
 
 
-## Section 1: Demand
+## SECTION 1: Demand
 
 
 #### Dry - The Big Picture and Smaller Vessels
@@ -76,7 +76,7 @@ There are fears of the impact of the Omicron variant on oil demand with [EIA, OP
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-tale-of-two-cities-2021-dry-and-tanker-market-analysis) | [Local Asset](../../../../../../corpus/07-signal/images/66b51dd9b6efa2bad33f5728_61cd6740870c959c38206d37_3%2520demand.avif)
 
 
-##### Demand - Toncharts Methodology
+##### Demand - TonCharts Methodology
 
 
 - The **TonDays** time-series graph presents ton days of the seagoing and stopped vessels (Laden) for the user-selected vessel class range that have loaded (Area From) and discharged (Area To) the selected areas.
@@ -84,7 +84,7 @@ There are fears of the impact of the Omicron variant on oil demand with [EIA, OP
 - To compute the **TonDays** time-series, we aggregate for each day the **TonDaysPerDay** for all the seagoing and idle vessels for the given historical time window.
 
 
-## Section 2: Freight Rates
+## SECTION 2: Freight Rates
 
 
 #### Dry- Capesize, Panamax, Supramax, Handysize
@@ -120,7 +120,7 @@ In the product segment, November shifted the sentiment to stronger rates, chart 
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/a-tale-of-two-cities-2021-dry-and-tanker-market-analysis) | [Local Asset](../../../../../../corpus/07-signal/images/66b51dd8b6efa2bad33f56c6_61cc712527734bbaa3be76e8_freight%25206.avif)
 
 
-## Section 3: Supply Trend
+## SECTION 3: Supply Trend
 
 In this section, we monitor the evolution of ballasters for dry bulker vessels at key main trading routes with impact on benchmark freight route rate assessments, and in the tanker segment, the supply trend for the crude and product tanker vessel sizes at selective key trading routes in line with the performance of WS rates. We illustrate the issue of port congestion for dry bulk vessels in China and the number of last days of the year. For 2021, the volume of vessel congestion at Chinese ports had a significant impact on the spikes of dry bulk freight rates the market experienced during the second and third quarters.
 

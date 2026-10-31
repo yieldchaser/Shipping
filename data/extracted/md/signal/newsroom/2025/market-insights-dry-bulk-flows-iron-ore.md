@@ -25,10 +25,10 @@ tags:
 
 *Published on 07 October 2025*
 
-## Market Insights: Dry Bulk Flows | Iron Ore
+## MARKET INSIGHTS: DRY BULK FLOWS | IRON ORE
 
 
-## China Hits Bhp’s West Australian Flow - Rio Reinforces Pilbara Output
+## China Hits BHP’s West Australian Flow - Rio Reinforces Pilbara Output
 
 
 - China’s state-controlled buyer, **CMRG**, is reported to have instructed steelmakers and traders to **suspend new dollar-denominated BHP iron ore cargoes**, a sharp escalation in pricing negotiations that raises concerns about disruptions to BHP’s China supply.

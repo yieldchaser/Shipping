@@ -26,7 +26,7 @@ tags:
 
 *Published on 04 October 2024*
 
-## This Week’s Chart Highlights a Notable Decline in the Quarterly Vessel Count for Dirty Tanker Transits Through the Red Sea, Underscoring Growing Concerns Over the Region’s Shipping Activity. the 7-Day Moving Average (Left Chart) Shows a Clear Downward Trajectory in the Vessel Count Throughout the Year Compared to the Previous Year’s Daily Transits for Key Dirty Tanker Categories Such as Very Large Crude Carriers (VLCCs), Suezmax, and Aframax Tankers. Notably, There Has Been a Significant 26% Annual Decrease in Vessel Transits.
+## This Week’s Chart Highlights a Notable Decline in the Quarterly Vessel Count for Dirty Tanker Transits Through the Red Sea, Underscoring Growing Concerns Over the Region’s Shipping Activity. the 7-day Moving Average (Left Chart) Shows a Clear Downward Trajectory in the Vessel Count Throughout the Year Compared to the Previous Year’s Daily Transits for Key Dirty Tanker Categories Such as Very Large Crude Carriers (VLCCs), Suezmax, and Aframax Tankers. Notably, There Has Been a Significant 26% Annual Decrease in Vessel Transits.
 
 
 ![66ffcafed5588a00128f3cf1 66ffcad534d70290b6bf709e Tankers%20red%20sea](../../images/66ffcafed5588a00128f3cf1_66ffcad534d70290b6bf709e_tankers%2520red%2520sea.avif)

@@ -28,7 +28,7 @@ tags:
 ## Chart of the Week: Iron Ore Freight Market Trends
 
 
-## This Week’s Analysis Examines Iron Ore Freight Market Trends with a Special Focus on the Emerging Iron Ore Supply Powerplay: Simandou’s Rise, Vale’s Moves, and Bhp’s Growing Risk
+## This Week’s Analysis Examines Iron Ore Freight Market Trends with a Special Focus on the Emerging Iron Ore Supply Powerplay: Simandou’s Rise, Vale’s Moves, and BHP’s Growing Risk
 
 
 - The Simandou project is advancing through key development milestones and is set to introduce a significant new stream of high-grade iron ore into the global market.

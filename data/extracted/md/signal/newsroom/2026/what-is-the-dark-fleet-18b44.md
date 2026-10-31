@@ -25,7 +25,7 @@ tags:
 **Meta description:** Dark fleet tracking explained: how sanctioned vessel monitoring works, the AIS anomaly signals analysts watch, and what to expect from maritime data platforms.
 
 
-## Tl;dr
+## TL;DR
 
 
 - The dark fleet is a network of aging tankers that carry sanctioned crude oil while hiding their movements, ownership, and cargo origin to avoid regulatory detection. These vessels operate outside mainstream insurance, financing, and flag registries, primarily moving Russian, Iranian, and Venezuelan oil.

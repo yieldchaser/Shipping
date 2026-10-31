@@ -22,7 +22,7 @@ tags:
 
 *Published on 11 May 2026*
 
-## Commodity Radar | Spotlight: Iron Ore
+## COMMODITY RADAR | Spotlight: IRON ORE
 
 
 ## Simandou Ships Record Quantity of Iron Ore, Swelling Chinese Stocks

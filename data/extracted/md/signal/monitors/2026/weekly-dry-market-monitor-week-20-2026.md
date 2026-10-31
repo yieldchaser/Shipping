@@ -25,7 +25,7 @@ tags:
 
 *Published on 14 May 2026*
 
-## Dry Market Insights |weak Indonesian Coal Exports Pressurepanamax Tonne Days
+## DRY Market Insights |weak Indonesian Coal Exports Pressure Panamax Tonne Days
 
 
 - Indonesia–China coal trade weakness is negatively impacting Panamax tonne-mile demand, particularly on northern discharge routes.
@@ -46,7 +46,7 @@ tags:
 All data and commentary reflect market conditions as of [ 13 May 2026], unless otherwise stated.
 
 
-## Spotlight | China's Appetite Forindonesian Coalhits New Low
+## Spotlight | China's Appetite for Indonesian Coal Hits New Low
 
 
 ![Spotlight | China's Appetite for Indonesian Coal Hits New Low](../../../../../../corpus/07-signal/images/6a0583c2c1763411fa5a2904_38f1b676.png)

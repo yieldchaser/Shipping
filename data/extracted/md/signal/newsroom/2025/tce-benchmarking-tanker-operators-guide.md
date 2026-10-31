@@ -26,7 +26,7 @@ tags:
 
 *Published on 01 August 2025*
 
-## Tl;dr
+## TL;DR
 
 
 - TCE converts any charter into a single $/day earnings figure by taking voyage revenue, subtracting voyage expenses, and dividing by round-trip days. It strips out route-specific cost differences so two voyages can be compared like for like.

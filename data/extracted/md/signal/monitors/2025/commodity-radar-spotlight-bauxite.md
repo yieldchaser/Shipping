@@ -22,7 +22,7 @@ tags:
 
 *Published on 23 December 2025*
 
-## Commodity Radar | Spotlight: Bauxite
+## COMMODITY RADAR | Spotlight: BAUXITE
 
 
 ## Bauxite Helps to Hold the Capesize Market

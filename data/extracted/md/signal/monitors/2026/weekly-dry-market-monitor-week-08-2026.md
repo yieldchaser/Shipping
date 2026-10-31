@@ -25,7 +25,7 @@ tags:
 
 *Published on 19 February 2026*
 
-## Dry Market Monitor
+## DRY MARKET MONITOR
 
 Freight Market Signals, Ballasters’ Overview & Tonne Charts
 
@@ -40,7 +40,7 @@ Freight Market Signals, Ballasters’ Overview & Tonne Charts
 - Tonne-mile growth softens for Capesize and Panamax, while smaller segments continue to outperform.
 
 
-## Spotlight of the Week|argentina–china Wheat Corridor Emerges
+## Spotlight of the Week | Argentina–China Wheat Corridor Emerges
 
 China’s wheat import program has historically been concentrated mostly on Canada and Australia, which together account for roughly 70% of total volumes, while the United States, France, and Russia contribute smaller shares. [TSOP](https://app.signalocean.com/dry/dynamic/drybulkflows) flow data mirrors this concentration on the freight side. Approximately 70% of China-bound wheat shipments move on Panamax vessels, with around 20% carried on Supramax vessels (TSOP Seaborne Grain Flow Database, 2023–2025).
 
@@ -64,7 +64,7 @@ A key operational factor is Argentina’s inland export system. Most agricultura
 Overall, Argentina’s entry into China’s wheat supplier base is unlikely to materially alter the core structure of the trade as the Panamax vessel size segment remains favored. Future shifts in the Panamax–Supramax balance will depend on river conditions, parcel-size decisions, and the scale of Argentine exports from 2026 onward.
 
 
-## Freight Market Overview
+## FREIGHT MARKET OVERVIEW
 
 Despite the Chinese New Year period, the Baltic Dry Index (BDI) showed strength, recovering to nearly 2,000 points after dipping to 1,900 points mid-last week. The index currently indicates robust momentum, showing an exceptional +160% year-on-year increase compared to the same period last year.
 
@@ -77,7 +77,7 @@ While the Capesize segment saw a downward correction, it is still firmer than it
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-08-2026) | [Local Asset](../../../../../../corpus/07-signal/images/6997138e9b960d8765ef4b8f_01bf3371.png)
 
 
-## Freight Atlantic
+## FREIGHT ATLANTIC
 
 **Capesize | Weaker**
 
@@ -194,7 +194,7 @@ While the Capesize segment saw a downward correction, it is still firmer than it
 - The Handysize Pacific freight market is still showing a weaker trend from the beginning of the year, with the HS5\_38 and HS6\_38 rates dropping to around $9k/day each, and HS7\_38 nearly $8.5k/d.
 
 
-## Ballasters Overview
+## BALLASTERS OVERVIEW
 
 **Capesize | 5D MA Increasing**
 
@@ -249,7 +249,7 @@ While the Capesize segment saw a downward correction, it is still firmer than it
 - Pressure intensified noticeably in both the **Far East/NOPAC** and **Australasia** regions. The **Far East/NOPAC** region now sees a ballast vessel count exceeding 180, a rise from 157 in the previous week's assessment, while **Australasia's** count increased to nearly 160 from approximately 150 a week ago.
 
 
-## Demand |tonne Miles- 7d Ma- Index View
+## DEMAND | TONNE MILES - 7D MA- INDEX VIEW
 
 **Capesize↓ 2.2%** WoW **| Panamax ↓ 3.0%** WoW **Decreasing**
 

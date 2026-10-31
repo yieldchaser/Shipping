@@ -22,7 +22,7 @@ tags:
 
 *Published on 02 February 2026*
 
-## Commodity Radar | Spotlight: Coal
+## COMMODITY RADAR | Spotlight: COAL
 
 
 ## Seaborne Coal Suffers in 2025 as China Burns Less and Produces More

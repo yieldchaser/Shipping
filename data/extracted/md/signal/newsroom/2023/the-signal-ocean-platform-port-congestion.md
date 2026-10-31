@@ -62,7 +62,7 @@ We conducted an extensive examination of port congestion [a year ago](https://ww
 **CHINA** Congestion Impacting Small, Handysize, Supramax, and Panamax Vessels
 
 
-##### The Current Situation in China Reveals Congestion Issues Particularly Affecting Vessels of Smaller Sizes, Including Handysize, Supramax, and Panamax. This Congestion Has Implications for the Efficient Movement of Goods and Trade in These Specific Vessel Categories, Affecting Theglobal Supply Chain.
+##### The Current Situation in China Reveals Congestion Issues Particularly Affecting Vessels of Smaller Sizes, Including Handysize, Supramax, and Panamax. This Congestion Has Implications for the Efficient Movement of Goods and Trade in These Specific Vessel Categories, Affecting the Global Supply Chain .
 
 In Image 1, we can observe that apart from the exceptional year of 2021, which witnessed a significant surge in Chinese port congestion for dry bulk vessels, the recent year shows notably lower volumes compared to the same period in the previous two years. Interestingly, the escalation of congestion now appears to be shifting away from the Capesize vessel category and more towards Panamax and Supramax vessels, exerting upward pressure on congestion levels since late April.
 

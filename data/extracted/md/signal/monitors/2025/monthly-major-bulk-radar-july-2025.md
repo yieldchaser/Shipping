@@ -37,7 +37,7 @@ Major bulk, made up of iron ore, coal, and grains, export volumes through the fi
 ## Economic Environment
 
 
-### Manufacturing Pmi’s
+### Manufacturing PMI’s
 
 
 ![Source: National Bureau of Statistics of China, Institute for Supply Management, Hcob, Hbsc India Manufacturing Pmi](../../../../../../corpus/07-signal/images/68889fede0f111af92216fb6_AD_4nXdrFMoJ6TZ3SBebKNaaYslsowjpVjYLC2w6XAD5eArhL9w-YMohnKjm30HCuq3RnfpMNKfMAuq-bDmn9h1QKxrf54HYWKp1ToDdqe73KjqnyCkQt21U1P-z_wZ6tRspcNI2z5OH.png)
@@ -50,7 +50,7 @@ Major bulk, made up of iron ore, coal, and grains, export volumes through the fi
 ## Exchange Rates
 
 
-### Usd Vs:
+### USD Vs:
 
 
 ![Usd Vs:](../../../../../../corpus/07-signal/images/68889fece0f111af92216f7f_AD_4nXfNno6ClWgePtJelPtD72oWobBZvU-X1yGDd67-UXvighNeHWJ8znUx-CPLP9XoLKhY371-vFiaOvDNPANQadHer1QB0-w_rwknl99CrZx3HleSMf9-QyXaB1DI2IUFB71hGRjpeg.png)
@@ -59,7 +59,7 @@ Major bulk, made up of iron ore, coal, and grains, export volumes through the fi
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/monthly-major-bulk-radar-july-2025) | [Local Asset](../../../../../../corpus/07-signal/images/68889fece0f111af92216f7f_AD_4nXfNno6ClWgePtJelPtD72oWobBZvU-X1yGDd67-UXvighNeHWJ8znUx-CPLP9XoLKhY371-vFiaOvDNPANQadHer1QB0-w_rwknl99CrZx3HleSMf9-QyXaB1DI2IUFB71hGRjpeg.png)
 
 
-### Rmb Vs:
+### RMB Vs:
 
 
 ![Source: Imf](../../../../../../corpus/07-signal/images/68889fede0f111af92216f9e_AD_4nXcpoxFO3TPxCRNoMJGZFJCDnfadcx1MMEXEGUsSxtusFYUkcholmlotBvasgSy5R3_qHoTYzP0WXyPSDq_jKNzFde4yIvjRNWgX7-9xXBe1Qp5k2G_oIFnxWKMbLJVw3qcG01dLvA.png)

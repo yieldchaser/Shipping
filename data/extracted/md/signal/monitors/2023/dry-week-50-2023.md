@@ -25,7 +25,7 @@ tags:
 
 *Published on 13 December 2023*
 
-## A Significant Decrease in the U.s. Grain Exports to China Following the Spike in October
+## A Significant Decrease in the U.S. Grain Exports to China Following the Spike in October
 
 
 ![Data Source: The Signal Ocean Platform Data](../../images/657980ac6f8d3db95b8ba83b_grain us.png)

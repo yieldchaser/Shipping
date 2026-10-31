@@ -67,7 +67,7 @@ Rather than going silent, vessels broadcast false position data or assume fake i
 Common spoofing patterns include transmitting positions hundreds of miles from actual locations, broadcasting while claiming to be in port, or cycling through multiple vessel identities on a single voyage. Advanced operators coordinate spoofing across multiple vessels to create false cargo transfer narratives that confuse sanctions investigators.
 
 
-### Ship-to-Ship (Sts) Transfers
+### Ship-to-Ship (STS) Transfers
 
 Cargo transfers between vessels at sea obscure the origin and destination of sanctioned oil and gas. [Dark fleet operators conducted 316 STS events in 2025](https://example.com/sts-transfers-2025), averaging 224 transfers monthly from January through November, a 129% jump from established baselines.
 
@@ -92,7 +92,7 @@ Re-flagging occurs with suspicious frequency, sometimes multiple times per year 
 OFAC expanded its reach beyond ship operators in August 2025, targeting P&I insurance clubs, classification societies, flag registries, and brokers. This network-wide approach acknowledged that dark fleet operations depend on maritime service providers who enable sanctions evasion. The April ban on reusing IMO numbers from decommissioned vessels closed another loophole exploited by shadow operators.
 
 
-### Ofac Red Flags: How to Identify a High-Risk Vessel
+### OFAC Red Flags: How to Identify a High-Risk Vessel
 
 OFAC's enforcement actions reveal consistent patterns that signal high-risk vessels. Use this checklist to identify potential dark fleet assets:
 

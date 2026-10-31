@@ -22,7 +22,7 @@ tags:
 
 *Published on 06 August 2021*
 
-## Shell Tankers Joins Signal Maritime's Mr Pool to Enhance Digital Integration
+## Shell Tankers Joins Signal Maritime's MR Pool to Enhance Digital Integration
 
 Shell Tankers (Singapore) Private Limited will contribute 10 medium-range product tankers (MRs) to the [Signal Maritime](https://www.thesignalgroup.com/signal-maritime)MR pool in a partnership that reflects the increasing role that digital technology is playing in global shipping.
 

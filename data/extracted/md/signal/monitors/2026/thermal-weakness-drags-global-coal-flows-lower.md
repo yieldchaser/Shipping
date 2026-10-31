@@ -22,7 +22,7 @@ tags:
 
 *Published on 08 October 2026*
 
-## Commodity Radar | Spotlight: Coal
+## COMMODITY RADAR | Spotlight: COAL
 
 
 ## Thermal Weakness Drags Global Coal Flows Lower

@@ -22,7 +22,7 @@ tags:
 
 *Published on 06 March 2026*
 
-### Strait of Hormuz | From Vital Energy Chokepoint Point to Pressurepointthe Sustained Tensions Since Saturday Continue to Diminish the Prospects for De-Escalation.
+### Strait of Hormuz | From Vital Energy Chokepoint Point to Pressure Point the Sustained Tensions Since Saturday Continue to Diminish the Prospects for De-Escalation.
 
 
 ![69a9ebc44049e2ee27eb877d F5c7ebfd](../../../../../../corpus/07-signal/images/69a9ebc44049e2ee27eb877d_f5c7ebfd.png)

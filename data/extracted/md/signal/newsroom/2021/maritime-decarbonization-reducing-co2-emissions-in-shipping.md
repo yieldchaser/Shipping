@@ -27,7 +27,7 @@ Decarbonization is now one of the most critical challenges for the maritime indu
 IMO concluded its [76th Marine Environment Protection Committee (MEPC)](https://www.imo.org/en/MediaCentre/IMOMediaAccreditation/Pages/MEPC-76-preview.aspx)during 10-17 June with discussions focusing on actions to tackle climate change, including the adoption of short term measures to reduce carbon intensity of ships and on the more general way forward. This report summarises the latest trends seen this year in the transition to a greener future for shipping. It also covers the concluding remarks of MEPC 76 and some statistical data on the to-date CO2 performance of the maritime industry.
 
 
-## Co2 Emissions From 2012 to 2018
+## CO2 Emissions From 2012 to 2018
 
 According to the [fourth IMO greenhouse gas study](https://wwwcdn.imo.org/localresources/en/MediaCentre/Documents/Fourth%20IMO%20GHG%20Study%202020%20Executive%20Summary.pdf), total CO2 emissions grew by almost 10 percent from 2012 to 2018, accounting for 2.89 percent of total global anthropogenic emissions. The analysis confirms that while total emissions have grown, the carbon intensity of shipping improved between 2008 and 2018, both for international shipping and for the majority of ship types. On average, carbon intensity for international shipping was between 21 and 29 percent lower in 2018 than in 2008, the figures show.
 
@@ -48,14 +48,14 @@ Data monitoring is essential for all players,  owners and charterers alike, to 
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-decarbonization-reducing-co2-emissions-in-shipping) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d3dda739356d24ea52a_60ed87a0a9010bc64f5506c3_maritime%2520decarbonasation%2520signal%2520ocean%2520platform%2520data%2520v2.avif)
 
 
-## Co2 Emissions Monitoring with the Signal Ocean Platform
+## CO2 Emissions Monitoring with the Signal Ocean Platform
 
 In December 2020,[a new tool in the Signal Ocean Platform was launched](https://www.thesignalgroup.com/signal-ocean/signal-ocean-platform)covering the tanker and dry bulk segments. Industry participants are now able to consider the CO2 impact when chartering ships alongside their Time Charter Equivalent (TCE) rates. Key influencing factors include not only the emissions during the laden sea passage of a voyage, but also ballasting, route deviations and other operations, all in conjunction with technical ship characteristics, age, shipyard/design, use of scrubbers and type of fuel used.
 
 The Signal Ocean Platform estimates CO2 emissions from AIS data converted into voyages, where all stops for [bunkering operations](https://www.thesignalgroup.com/newsroom/bunkering-ports-competing-on-price-product-update), idle times, repairs, loads and discharge operations have been taken into account. At sea, ballast and laden legs and SECA navigation times are clearly defined. Models that estimate consumptions for each distinct operation have included vessel particulars including country built, year built, scrubber fitting, operational conditions and vessel speeds. Fuel consumption is mapped to different types (VLSFO, MGO, HSFO) based on the area that vessels have been trading as well as the information about if a vessel is scrubber fitted or not and emissions are derived from consumptions using IMO references.
 
 
-## Statistics Data on Wet Co2 Emissions Reduction
+## Statistics Data on Wet CO2 Emissions Reduction
 
 The below geographical distribution (Chart 1), using The Signal Ocean Platform data, demonstrates the level of CO2 maritime emissions for the year 2020, million tons per load area, for VLCC, Suezmax, Aframax fleets compared to Panamax and MR fleets. The same dataset can be used to aggregate information by segment, route or industry player (charterer or commercial operator), as a useful proxy to their comparative environmental performance. Such perspectives can enable participants to track and adjust their operational practices and decision making as they look to achieve the interim 2030 IMO objectives.
 
@@ -81,7 +81,7 @@ The figures for year 2020 indicate highest average triangulation time for MR2: 5
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-decarbonization-reducing-co2-emissions-in-shipping) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d3dda739356d24ea52f_60ee98b3d5512e7b81b8a266_total%2520co2%2520emission%2520per%2520vessel%2520class%2520signal%2520ocean%2520platform%2520decarbonasation%2520and%2520shipping%2520v2.avif)
 
 
-## The Impact of Vessel Speed on the Reduction of Co2 Emissions
+## The Impact of Vessel Speed on the Reduction of CO2 Emissions
 
 The industry is used to adjusting the speed based on market conditions as shown at the chart 4 below. The commercial decision of vessel speed follows the volatility of the spot freight market and market expectations for future earnings. It is worth noting that establishing slow steaming could have a significant impact on the overall CO2 emissions. With [The Signal Ocean Platform](https://www.thesignalgroup.com/signal-ocean-platform/features), users can navigate and monitor cases of CO2 savings in the ballast and laden leg of voyages adjusting vessel speed. We can say that with a 1 knot reduction in vessel speed in the laden leg, there is potential to save around 2 millions tons of CO2 on a yearly basis for tankers, however this can fluctuate with market conditions and is strongly influenced by the decisions of commercial operators as they navigate the challenges of supply and demand.
 
@@ -93,7 +93,7 @@ The industry is used to adjusting the speed based on market conditions as shown 
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/newsroom/maritime-decarbonization-reducing-co2-emissions-in-shipping) | [Local Asset](../../../../../../corpus/07-signal/images/66b51d3dda739356d24ea53f_60ed8d4f85dae95285bf5ebf_vessel%2520speeds%2520signal%2520ocean%2520platform%2520decarbonasation%2520maritime.avif)
 
 
-## The Steps for Lower Co2 Emissions Transition
+## The Steps for Lower CO2 Emissions Transition
 
 The establishment of alliances for zero emissions is a milestone for the industry and contributes to the development of green shipping. One of the most powerful alliances is the “[Getting to Zero Coalition](https://www.globalmaritimeforum.org/getting-to-zero-coalition/)” . The coalition builds on the [Call to Action](https://www.globalmaritimeforum.org/press/34-maritime-ceos-sign-call-for-action-in-support-of-decarbonization) in Support of Decarbonization launched in October 2018 and signed by more than 70 leaders from across the maritime industry, financial institutions and other stakeholders, as well as on the [Poseidon Principles](https://www.poseidonprinciples.org/).
 
@@ -107,7 +107,7 @@ Apart from the existence of above alliances for the transition to green friendly
 The International Advisory Panel on Maritime Decarbonisation (IAP) formed in July 2020 by the Singapore Maritime Foundation (SMF), with the support of the Maritime and Port Authority of Singapore (MPA), has identified nine pathways for decarbonisation, including policy options to accelerate the transition and ways in which Maritime Singapore can support the industry’s decarbonisation. To achieve this vision, the IAP has recommended focusing on four strategic objectives: (1) harmonise standards; (2) implement new solutions; (3) finance projects; and (4) collaborate with partners.
 
 
-## IMO Mepc 76 Concluding Remarks
+## IMO MEPC 76 Concluding Remarks
 
 The [MEPC 76](https://www.imo.org/en/MediaCentre/PressBriefings/pages/MEPC76.aspx) adopted amendments to the international Convention for the Prevention of Pollution from Ships (MARPOL) Annex VI that will require ships to reduce their greenhouse gas emissions. These amendments combine technical and operational approaches to improve the energy efficiency of ships, also providing important building blocks for future GHG reduction measures.
 

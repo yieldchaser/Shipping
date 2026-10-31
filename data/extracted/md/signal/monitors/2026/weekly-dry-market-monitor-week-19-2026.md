@@ -43,7 +43,7 @@ tags:
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-19-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69fdb28eceed790ab38f5835_b99b6311.png)
 
 
-## Freight Market Overview
+## FREIGHT MARKET OVERVIEW
 
 The Baltic Dry Index is approaching the 3,000-point threshold, supported by sustained gains across all major vessel segments, with the **Capesize** market continuing to lead the rally at +**149**% year-on-year. Current index levels represent the strongest performance recorded since 2023, reflecting a marked improvement in freight market sentiment, particularly in the Capesize sector, which has driven consistent upward momentum since the end of the first quarter of this year.
 
@@ -57,7 +57,7 @@ The Panamax segment is also demonstrating robust annual growth, with index level
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-19-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69fdb28eceed790ab38f5838_c7102352.png)
 
 
-## Freight Atlantic
+## FREIGHT ATLANTIC
 
 **Capesize C3 / Panamax P7 Firmer**
 
@@ -100,7 +100,7 @@ Australian iron ore exports recorded a monthly increase of 5%, while Brazilian v
 - **HS4\_38** | US Gulf trip via US Gulf or North Coast South America | 15,336 $/day | Day: +929 | Week: +2,893 | Year: +5,957
 
 
-## Freight Pacific
+## FREIGHT PACIFIC
 
 **Capesize | C5 Firmer**
 
@@ -134,7 +134,7 @@ Australian iron ore exports recorded a monthly increase of 5%, while Brazilian v
 - **S10** | South China trip via Indonesia to South China | 17,191 $/day | Day: +95 | Week: -247 | Year: +6,228
 
 
-## Ballasters Overview
+## BALLASTERS OVERVIEW
 
 We take a closer look at the basins of ballast count increases per vessel size segment.
 
@@ -171,7 +171,7 @@ We take a closer look at the basins of ballast count increases per vessel size s
 > **Interactive Data & Source:** [Signal Ocean Platform](https://www.thesignalgroup.com/weekly-market-monitor/weekly-dry-market-monitor-week-19-2026) | [Local Asset](../../../../../../corpus/07-signal/images/69fdb28eceed790ab38f5851_0a0562be.png)
 
 
-## Demand|tonne Miles- 7d Ma- Index View
+## DEMAND| TONNE MILES - 7D MA- INDEX VIEW
 
 **Capesize ↓ 1.3%** WoW **| Panamax ↑ 0.3%** WoW **| Supramax ↓1.1%** WoW
 
