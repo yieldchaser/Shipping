@@ -4095,3 +4095,22 @@ issue_date,report_week,sector,route,description,quantity_mt,tce_usd_per_day,tren
 2026-10-23,43,Clean,TC17,ME Gulf / EAFR,35000,113387.0,↑ Firmer,affinity_24_10_2026_affinity_tanker_weekly_23_october_2026.pdf
 2026-10-23,43,Clean,TC20,ME Gulf / UKC,90000,341933.0,↑ Firmer,affinity_24_10_2026_affinity_tanker_weekly_23_october_2026.pdf
 2026-10-23,43,Clean,TC21,USG / Caribs,38000,64418.0,↑ Firmer,affinity_24_10_2026_affinity_tanker_weekly_23_october_2026.pdf
+2026-10-30,44,Dirty,TD3C,ME Gulf / China,270000,1351405.0,↑ Firmer,affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.pdf
+2026-10-30,44,Dirty,TD7,UKC / UKC,80000,457742.0,↓ Softer,affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.pdf
+2026-10-30,44,Dirty,TD15,WAF / China,260000,641064.0,↑ Firmer,affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.pdf
+2026-10-30,44,Dirty,TD19,Med / Med,80000,306471.0,↓ Softer,affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.pdf
+2026-10-30,44,Dirty,TD20,WAF / Cont,130000,387888.0,↓ Softer,affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.pdf
+2026-10-30,44,Dirty,TD22,USG / China,270000,495725.0,↑ Firmer,affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.pdf
+2026-10-30,44,Dirty,TD25,USG / Cont,70000,212107.0,↓ Softer,affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.pdf
+2026-10-30,44,Dirty,TD26,EC Mex / USG,70000,241589.0,↓ Softer,affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.pdf
+2026-10-30,44,Dirty,TD27,Guyana / UKC,130000,393333.0,↓ Softer,affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.pdf
+2026-10-30,44,Clean,TC1,ME Gulf / Japan,75000,291884.0,↓ Softer,affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.pdf
+2026-10-30,44,Clean,TC2,Cont / USAC,37000,16961.0,↓ Softer,affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.pdf
+2026-10-30,44,Clean,TC5,ME Gulf / Japan,55000,211870.0,↓ Softer,affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.pdf
+2026-10-30,44,Clean,TC6,Algeria / EU Med,30000,108335.0,↓ Softer,affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.pdf
+2026-10-30,44,Clean,TC7,Sing. / ECA,30000,68196.0,↓ Softer,affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.pdf
+2026-10-30,44,Clean,TC8,ME Gulf / UKC,65000,251289.0,↑ Firmer,affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.pdf
+2026-10-30,44,Clean,TC14,USG / UKC,38000,69329.0,↑ Firmer,affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.pdf
+2026-10-30,44,Clean,TC17,ME Gulf / EAFR,35000,112859.0,↓ Softer,affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.pdf
+2026-10-30,44,Clean,TC20,ME Gulf / UKC,90000,336121.0,↓ Softer,affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.pdf
+2026-10-30,44,Clean,TC21,USG / Caribs,38000,69094.0,↑ Firmer,affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.pdf
