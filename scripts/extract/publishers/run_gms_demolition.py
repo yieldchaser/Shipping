@@ -815,15 +815,10 @@ def run_pipeline():
             writer.writerow(row)
     logger.info(f"Written {len(all_sales)} rows to {sales_csv.name}")
 
-    # 4. GMS Market Commentary Series
-    comm_csv = OUT_SERIES_DIR / "gms_market_commentary_series.csv"
-    comm_cols = ["issue_date", "report_week", "section", "headline", "highlights", "body_text", "source_file"]
-    with open(comm_csv, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=comm_cols)
-        writer.writeheader()
-        for row in sorted(all_commentaries, key=lambda x: (str(x["issue_date"]), x["section"])):
-            writer.writerow(row)
-    logger.info(f"Written {len(all_commentaries)} rows to {comm_csv.name}")
+    # 4. GMS Market Commentary Series: built from the issue MDs (this parse dropped each editorial's lead
+    # paragraph, leaked the rankings table into it and took the first "Week N" on the cover as the week)
+    import gms_commentary_series
+    gms_commentary_series.main_write(gms_commentary_series.OUT)
 
 
 if __name__ == "__main__":
