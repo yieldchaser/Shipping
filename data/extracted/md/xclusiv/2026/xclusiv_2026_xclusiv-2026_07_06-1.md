@@ -209,16 +209,16 @@ This week saw limited activity in the tanker sector with only 2 sales to report.
 
 ### Indicative Demolition Scrap Prices ($/LDT)
 
-| Segment | Country | Price ($/LDT) |
-|---|---|---|
-| Bulkers | India | $415.0 |
-| Bulkers | Bangladesh | $460.0 |
-| Bulkers | Pakistan | $440.0 |
-| Bulkers | Turkey | $270.0 |
-| Tankers | India | $435.0 |
-| Tankers | Bangladesh | $480.0 |
-| Tankers | Pakistan | $460.0 |
-| Tankers | Turkey | $280.0 |
+| Segment | Country | Price ($/LDT) | Week 26 ($/LDT) |
+|---|---|---|---|
+| Bulkers | India | $415.0 | $415.0 |
+| Bulkers | Bangladesh | $460.0 | $460.0 |
+| Bulkers | Pakistan | $440.0 | $440.0 |
+| Bulkers | Turkey | $270.0 | $270.0 |
+| Tankers | India | $435.0 | $435.0 |
+| Tankers | Bangladesh | $480.0 | $480.0 |
+| Tankers | Pakistan | $460.0 | $460.0 |
+| Tankers | Turkey | $280.0 | $280.0 |
 
 ### Reported Demolition Sales
 

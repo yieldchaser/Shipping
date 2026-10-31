@@ -1008,8 +1008,24 @@
       "issue_date": "2024-02-19",
       "report_week": 7,
       "sector": "Dry",
+      "vessel_type": "Capesize",
+      "price_usd_mill": 67.4,
+      "source_file": "xclusiv_2024_xclusiv-2024_02_19.pdf"
+    },
+    {
+      "issue_date": "2024-02-19",
+      "report_week": 7,
+      "sector": "Dry",
+      "vessel_type": "Kamsarmax",
+      "price_usd_mill": 36.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_02_19.pdf"
+    },
+    {
+      "issue_date": "2024-02-19",
+      "report_week": 7,
+      "sector": "Dry",
       "vessel_type": "Ultramax",
-      "price_usd_mill": 19.0,
+      "price_usd_mill": 33.6,
       "source_file": "xclusiv_2024_xclusiv-2024_02_19.pdf"
     },
     {
@@ -1017,7 +1033,47 @@
       "report_week": 7,
       "sector": "Dry",
       "vessel_type": "Handysize",
-      "price_usd_mill": 10.0,
+      "price_usd_mill": 31.6,
+      "source_file": "xclusiv_2024_xclusiv-2024_02_19.pdf"
+    },
+    {
+      "issue_date": "2024-02-19",
+      "report_week": 7,
+      "sector": "Tanker",
+      "vessel_type": "VLCC",
+      "price_usd_mill": 127.8,
+      "source_file": "xclusiv_2024_xclusiv-2024_02_19.pdf"
+    },
+    {
+      "issue_date": "2024-02-19",
+      "report_week": 7,
+      "sector": "Tanker",
+      "vessel_type": "Suezmax",
+      "price_usd_mill": 85.0,
+      "source_file": "xclusiv_2024_xclusiv-2024_02_19.pdf"
+    },
+    {
+      "issue_date": "2024-02-19",
+      "report_week": 7,
+      "sector": "Tanker",
+      "vessel_type": "Aframax",
+      "price_usd_mill": 69.8,
+      "source_file": "xclusiv_2024_xclusiv-2024_02_19.pdf"
+    },
+    {
+      "issue_date": "2024-02-19",
+      "report_week": 7,
+      "sector": "Tanker",
+      "vessel_type": "Panamax",
+      "price_usd_mill": 57.6,
+      "source_file": "xclusiv_2024_xclusiv-2024_02_19.pdf"
+    },
+    {
+      "issue_date": "2024-02-19",
+      "report_week": 7,
+      "sector": "Tanker",
+      "vessel_type": "MR2",
+      "price_usd_mill": 47.3,
       "source_file": "xclusiv_2024_xclusiv-2024_02_19.pdf"
     }
   ]

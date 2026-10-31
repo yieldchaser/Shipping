@@ -89,20 +89,24 @@ Products: The LR2 route (TC1) from Middle East to Japan is this week greatly inc
 
 ### Indicative Newbuilding Prices ($ mills)
 
-| Sector | Vessel Type | Price ($M) |
-|---|---|---|
-| Dry | Capesize | $68.3M |
-| Dry | Kamsarmax | $37.3M |
-| Dry | Ultramax | $34.3M |
-| Dry | Handysize | $30.8M |
-| Tanker | VLCC | $130.0M |
-| Tanker | Suezmax | $86.5M |
-| Tanker | Aframax | $72.0M |
-| Tanker | Panamax | $59.0M |
-| Tanker | MR2 | $49.3M |
+| Sector | Vessel Type | Mar 2024 | Mar 2023 | ±% | Avg 2024 | Avg 2023 | Avg 2022 |
+|---|---|---|---|---|---|---|---|
+| Dry | Capesize | 68.3 | 61.1 | 12% | 67.6 | 63.0 | 62.5 |
+| Dry | Kamsarmax | 37.3 | 34.0 | 10% | 36.4 | 34.9 | 36.4 |
+| Dry | Ultramax | 34.3 | 32.2 | 6% | 33.8 | 32.8 | 33.4 |
+| Dry | Handysize | 30.8 | 29.9 | 3% | 30.7 | 30.2 | 30.3 |
+| Tanker | VLCC | 130.0 | 120.0 | 8% | 128.9 | 124.2 | 117.2 |
+| Tanker | Suezmax | 86.5 | 80.2 | 8% | 86.0 | 83.2 | 78.7 |
+| Tanker | Aframax | 72.0 | 63.0 | 14% | 71.2 | 66.5 | 61.0 |
+| Tanker | Panamax | 59.0 | 54.5 | 8% | 58.3 | 56.1 | 52.7 |
+| Tanker | MR2 | 49.3 | 44.5 | 11% | 48.3 | 45.9 | 42.3 |
 
 *Above prices/trends refer to Chinese shipbuilding*
 *Above prices/trends refer to S. Korean shipbuilding*
+
+### Newbuilding Activity Commentary
+
+Tankers captured the lion's share of newbuilding activity this week. Euronav ordered a single 319k DWT VLCC at Qing- dao Beihai shipyard in China. Delivery is expected within 2027. Dynacom Tankers has increased its orderbook with eight Suezmaxes from New Times Shipyard, priced low/mid USD 80s million each and delivered from 2027 to 2028. Union Maritime has placed an order with Wuhu Shipyard in China for two 49k DWT MR2s and four 18,5k DWT tankers costing USD 45 million each and USD 30 million each respectively. Seacon contracted Wuhu Shipyard for a single 18,5k DWT tanker for approximately USD 30.1 million, with delivery scheduled for 2025. Bocimar signed a contract for two ammonia-ready Newcastlemaxes at Qingdao Beihai shipyard, while Newport placed an order for three Kam- sarmaxes at Oshina Shipyard. Finally, Atlas Maritime put ink to a paper for three LNG dual fuelled 88k CBM VLAC at HHI for USD 123 million each, with delivery within 2027.
 
 ### Newbuilding Orders
 
@@ -206,16 +210,16 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 
 ### Indicative Demolition Scrap Prices ($/LDT)
 
-| Segment | Country | Price ($/LDT) |
-|---|---|---|
-| Bulkers | India | $505.0 |
-| Bulkers | Bangladesh | $520.0 |
-| Bulkers | Pakistan | $525.0 |
-| Bulkers | Turkey | $355.0 |
-| Tankers | India | $510.0 |
-| Tankers | Bangladesh | $530.0 |
-| Tankers | Pakistan | $535.0 |
-| Tankers | Turkey | $365.0 |
+| Segment | Country | Price ($/LDT) | Week 11 ($/LDT) |
+|---|---|---|---|
+| Bulkers | India | $505.0 | $510.0 |
+| Bulkers | Bangladesh | $520.0 | $525.0 |
+| Bulkers | Pakistan | $525.0 | $530.0 |
+| Bulkers | Turkey | $355.0 | $355.0 |
+| Tankers | India | $510.0 | $515.0 |
+| Tankers | Bangladesh | $530.0 | $535.0 |
+| Tankers | Pakistan | $535.0 | $540.0 |
+| Tankers | Turkey | $365.0 | $365.0 |
 
 ### Reported Demolition Sales
 

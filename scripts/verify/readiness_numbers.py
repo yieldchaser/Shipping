@@ -37,6 +37,7 @@ PHONE = re.compile(r"\+\s?\d|\b(?:tel|mob|mobile|fax|phone)\b", re.I)
 # values carry thousands separators (12,345) and do not.
 GARBLED = re.compile(r"\S;\S|[<=>]|\)\d|0123|1234|2345|3456|4567|5678|6789")
 # Characters printed numbers never sit next to; a span with digits and one of these is glyph codes.
+UNIT = re.compile(r"(?<=\d)(?:mn|bn|M|m|k)\b")
 ODD = re.compile(r'["#*!?@\^_{}|~]')
 
 
@@ -69,6 +70,7 @@ def numbers(text: str, page: bool = False) -> set[str]:
     out = set()
     if page:
         text = "\n".join(ln for ln in text.splitlines() if not PHONE.search(ln))
+    text = UNIT.sub("", text)  # "$63.2M", "177.3k/day": the value, not the integer part before the unit
     for m in NUM.findall(text):
         s = m.replace(",", "").lstrip("-")
         if sum(c.isdigit() for c in s) < 2:

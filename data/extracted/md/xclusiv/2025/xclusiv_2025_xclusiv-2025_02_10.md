@@ -92,17 +92,17 @@ Products: The LR2 route (TC1) Middle East to Ja- pan is this week lower by 7k/da
 
 ### Indicative Newbuilding Prices ($ mills)
 
-| Sector | Vessel Type | Price ($M) |
-|---|---|---|
-| Dry | Capesize | $75.0M |
-| Dry | Kamsarmax | $38.8M |
-| Dry | Ultramax | $35.8M |
-| Dry | Handysize | $31.4M |
-| Tanker | VLCC | $129.0M |
-| Tanker | Suezmax | $89.7M |
-| Tanker | Aframax | $74.7M |
-| Tanker | Panamax | $61.6M |
-| Tanker | MR2 | $51.7M |
+| Sector | Vessel Type | Feb 2025 | Feb 2024 | ±% | Avg 2025 | Avg 2024 | Avg 2023 |
+|---|---|---|---|---|---|---|---|
+| Dry | Capesize | 75.0 | 67.4 | 11% | 75.4 | 73.2 | 63.0 |
+| Dry | Kamsarmax | 38.8 | 36.0 | 8% | 39.0 | 38.0 | 35.0 |
+| Dry | Ultramax | 35.8 | 33.6 | 7% | 36.0 | 35.1 | 32.8 |
+| Dry | Handysize | 31.4 | 30.6 | 3% | 31.5 | 31.1 | 30.2 |
+| Tanker | VLCC | 129.0 | 129.0 | 0% | 129.2 | 129.4 | 124.2 |
+| Tanker | Suezmax | 89.7 | 86.3 | 4% | 89.6 | 87.6 | 83.2 |
+| Tanker | Aframax | 74.7 | 71.6 | 4% | 74.6 | 72.7 | 66.5 |
+| Tanker | Panamax | 61.6 | 58.4 | 6% | 61.5 | 60.2 | 56.1 |
+| Tanker | MR2 | 51.7 | 48.4 | 7% | 51.6 | 50.2 | 45.9 |
 
 *Above prices/trends refer to Chinese shipbuilding*
 *Above prices/trends refer to S. Korean shipbuilding*
@@ -202,16 +202,16 @@ On the VLCC sector, the Scrubber fitted “FPMC C In- telligence” - 302K/2010 
 
 ### Indicative Demolition Scrap Prices ($/LDT)
 
-| Segment | Country | Price ($/LDT) |
-|---|---|---|
-| Bulkers | India | $475.0 |
-| Bulkers | Bangladesh | $480.0 |
-| Bulkers | Pakistan | $480.0 |
-| Bulkers | Turkey | $310.0 |
-| Tankers | India | $485.0 |
-| Tankers | Bangladesh | $490.0 |
-| Tankers | Pakistan | $490.0 |
-| Tankers | Turkey | $320.0 |
+| Segment | Country | Price ($/LDT) | Week 5 ($/LDT) |
+|---|---|---|---|
+| Bulkers | India | $475.0 | $475.0 |
+| Bulkers | Bangladesh | $480.0 | $480.0 |
+| Bulkers | Pakistan | $480.0 | $475.0 |
+| Bulkers | Turkey | $310.0 | $305.0 |
+| Tankers | India | $485.0 | $485.0 |
+| Tankers | Bangladesh | $490.0 | $485.0 |
+| Tankers | Pakistan | $490.0 | $485.0 |
+| Tankers | Turkey | $320.0 | $315.0 |
 
 ### Reported Demolition Sales
 

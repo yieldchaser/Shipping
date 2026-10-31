@@ -209,16 +209,16 @@ The tanker S&P activity remained relatively quiet this week, with sales concentr
 
 ### Indicative Demolition Scrap Prices ($/LDT)
 
-| Segment | Country | Price ($/LDT) |
-|---|---|---|
-| Bulkers | India | $415.0 |
-| Bulkers | Bangladesh | $460.0 |
-| Bulkers | Pakistan | $440.0 |
-| Bulkers | Turkey | $275.0 |
-| Tankers | India | $435.0 |
-| Tankers | Bangladesh | $480.0 |
-| Tankers | Pakistan | $460.0 |
-| Tankers | Turkey | $285.0 |
+| Segment | Country | Price ($/LDT) | Week 22 ($/LDT) |
+|---|---|---|---|
+| Bulkers | India | $415.0 | $410.0 |
+| Bulkers | Bangladesh | $460.0 | $460.0 |
+| Bulkers | Pakistan | $440.0 | $440.0 |
+| Bulkers | Turkey | $275.0 | $275.0 |
+| Tankers | India | $435.0 | $430.0 |
+| Tankers | Bangladesh | $480.0 | $480.0 |
+| Tankers | Pakistan | $460.0 | $460.0 |
+| Tankers | Turkey | $285.0 | $285.0 |
 
 ### Reported Demolition Sales
 

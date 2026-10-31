@@ -208,16 +208,16 @@ On the Aframax sector, KOTC acquired the coated “Kastos” - 114K/2025 SWS for
 
 ### Indicative Demolition Scrap Prices ($/LDT)
 
-| Segment | Country | Price ($/LDT) |
-|---|---|---|
-| Bulkers | India | $455.0 |
-| Bulkers | Bangladesh | $500.0 |
-| Bulkers | Pakistan | $500.0 |
-| Bulkers | Turkey | $290.0 |
-| Tankers | India | $475.0 |
-| Tankers | Bangladesh | $520.0 |
-| Tankers | Pakistan | $520.0 |
-| Tankers | Turkey | $300.0 |
+| Segment | Country | Price ($/LDT) | Week 42 ($/LDT) |
+|---|---|---|---|
+| Bulkers | India | $455.0 | $455.0 |
+| Bulkers | Bangladesh | $500.0 | $500.0 |
+| Bulkers | Pakistan | $500.0 | $500.0 |
+| Bulkers | Turkey | $290.0 | $290.0 |
+| Tankers | India | $475.0 | $475.0 |
+| Tankers | Bangladesh | $520.0 | $520.0 |
+| Tankers | Pakistan | $520.0 | $520.0 |
+| Tankers | Turkey | $300.0 | $300.0 |
 
 ### Reported Demolition Sales
 

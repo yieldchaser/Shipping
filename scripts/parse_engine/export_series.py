@@ -282,6 +282,10 @@ def sidecar_payload(tables: list[dict[str, Any]], issue_date: str | None, source
     """tables.json for one issue: object schema parse_engine/v1, readable by the legacy consumers
     (dict root, `sales`, `demolitions`, `sales_count`, `demo_count`) and carrying the geometric tables."""
     week = date.fromisoformat(issue_date).isocalendar()[1] if issue_date else None
+    # the week the issue prints wins: Xclusiv dated 2021-08-09 is "Week 31" (its ISO week is 32)
+    printed = next((t["weeks"][0] for t in tables if t.get("weeks")), None)
+    if printed and str(printed).isdigit():
+        week = int(printed)
     meta = {"issue_date": issue_date, "report_week": week, "source_file": source_file, "source_sha256": source_sha256}
     sales, demo = issue_rows(tables, meta) if vessel_rows else ([], [])
     return {"schema": "parse_engine/v1", "issue_date": issue_date, "report_week": week, "source_file": source_file,

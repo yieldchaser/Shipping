@@ -211,16 +211,16 @@ On the Aframax sector, the “GREEN ATTITUDE” - 113K/2018 Cosco found new owne
 
 ### Indicative Demolition Scrap Prices ($/LDT)
 
-| Segment | Country | Price ($/LDT) |
-|---|---|---|
-| Bulkers | India | $390.0 |
-| Bulkers | Bangladesh | $410.0 |
-| Bulkers | Pakistan | $410.0 |
-| Bulkers | Turkey | $270.0 |
-| Tankers | India | $410.0 |
-| Tankers | Bangladesh | $430.0 |
-| Tankers | Pakistan | $430.0 |
-| Tankers | Turkey | $280.0 |
+| Segment | Country | Price ($/LDT) | Week 9 ($/LDT) |
+|---|---|---|---|
+| Bulkers | India | $390.0 | $390.0 |
+| Bulkers | Bangladesh | $410.0 | $410.0 |
+| Bulkers | Pakistan | $410.0 | $410.0 |
+| Bulkers | Turkey | $270.0 | $270.0 |
+| Tankers | India | $410.0 | $410.0 |
+| Tankers | Bangladesh | $430.0 | $430.0 |
+| Tankers | Pakistan | $430.0 | $430.0 |
+| Tankers | Turkey | $280.0 | $280.0 |
 
 ### Reported Demolition Sales
 

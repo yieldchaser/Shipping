@@ -132,24 +132,24 @@ Products: The LR2 route (TC1) Middle East to Ja- pan is this week higher by 6.6k
 
 ### Dry Secondhand Prices ($ mills)
 
-| Vessel Type | Tenor | Price ($M) |
-|---|---|---|
-| Capesize | Resale | $81.5M |
-| Capesize | 5 Year | $74.0M |
-| Capesize | 10 Year | $56.0M |
-| Capesize | 15 Year | $37.0M |
-| Kamsarmax | Resale | $45.9M |
-| Kamsarmax | 5 Year | $40.0M |
-| Kamsarmax | 10 Year | $31.0M |
-| Kamsarmax | 15 Year | $21.0M |
-| Ultramax | Resale | $43.5M |
-| Ultramax | 5 Year | $38.5M |
-| Ultramax | 10 Year | $30.0M |
-| Ultramax | 15 Year | $18.5M |
-| Handysize | Resale | $37.5M |
-| Handysize | 5 Year | $31.5M |
-| Handysize | 10 Year | $24.0M |
-| Handysize | 15 Year | $15.0M |
+| Vessel Type | Tenor | Aug 2026 | Aug 2025 | ±% | Avg 2026 | Avg 2025 | Avg 2024 |
+|---|---|---|---|---|---|---|---|
+| Capesize | Resale | 81.5 | 76.0 | 7% | 80.8 | 75.7 | 75.7 |
+| Capesize | 5 Year | 74.0 | 62.0 | 19% | 70.8 | 62.6 | 62.6 |
+| Capesize | 10 Year | 56.0 | 45.5 | 23% | 54.5 | 45.6 | 43.1 |
+| Capesize | 15 Year | 37.0 | 25.9 | 43% | 35.8 | 27.4 | 27.9 |
+| Kamsarmax | Resale | 45.9 | 39.0 | 18% | 43.5 | 38.7 | 41.8 |
+| Kamsarmax | 5 Year | 40.0 | 31.5 | 27% | 37.3 | 32.3 | 32.3 |
+| Kamsarmax | 10 Year | 31.0 | 24.8 | 25% | 28.4 | 24.8 | 27.3 |
+| Kamsarmax | 15 Year | 21.0 | 16.0 | 31% | 19.7 | 15.6 | 18.1 |
+| Ultramax | Resale | 43.5 | 38.1 | 14% | 42.1 | 37.8 | 40.6 |
+| Ultramax | 5 Year | 38.5 | 30.7 | 25% | 36.5 | 31.1 | 31.1 |
+| Ultramax | 10 Year | 30.0 | 22.1 | 36% | 27.9 | 22.9 | 26.0 |
+| Supramax | 15 Year | 18.5 | 15.2 | 22% | 17.2 | 15.0 | 15.9 |
+| Handysize | Resale | 37.5 | 33.0 | 14% | 35.7 | 33.0 | 34.0 |
+| Handysize | 5 Year | 31.5 | 26.2 | 20% | 29.3 | 25.9 | 25.9 |
+| Handysize | 10 Year | 24.0 | 20.1 | 20% | 22.5 | 19.0 | 19.8 |
+| Handysize | 15 Year | 15.0 | 12.0 | 25% | 13.3 | 11.7 | 12.3 |
 
 ### Dry S&P Activity Commentary
 
@@ -172,24 +172,24 @@ In dry bulk, activity was spread mainly across the Ultra- max and Supramax secto
 
 ### Tanker Secondhand Prices ($ mills)
 
-| Vessel Type | Tenor | Price ($M) |
-|---|---|---|
-| VLCC | Resale | $182.3M |
-| VLCC | 5 Year | $157.3M |
-| VLCC | 10 Year | $132.3M |
-| VLCC | 15 Year | $100.0M |
-| Suezmax | Resale | $127.5M |
-| Suezmax | 5 Year | $106.0M |
-| Suezmax | 10 Year | $85.0M |
-| Suezmax | 15 Year | $67.0M |
-| Aframax | Resale | $95.0M |
-| Aframax | 5 Year | $85.0M |
-| Aframax | 10 Year | $72.5M |
-| Aframax | 15 Year | $50.0M |
-| MR2 | Resale | $56.8M |
-| MR2 | 5 Year | $48.3M |
-| MR2 | 10 Year | $38.3M |
-| MR2 | 15 Year | $26.3M |
+| Vessel Type | Tenor | Aug 2026 | Aug 2025 | ±% | Avg 2026 | Avg 2025 | Avg 2024 |
+|---|---|---|---|---|---|---|---|
+| VLCC | Resale | 182.3 | 146.5 | 24% | 172.7 | 146.6 | 144.2 |
+| VLCC | 5 Year | 157.3 | 117.0 | 34% | 142.5 | 115.4 | 115.4 |
+| VLCC | 10 Year | 132.3 | 86.0 | 54% | 114.8 | 85.3 | 84.1 |
+| VLCC | 15 Year | 100.0 | 57.5 | 74% | 82.7 | 56.2 | 57.1 |
+| Suezmax | Resale | 127.5 | 93.5 | 36% | 111.3 | 94.3 | 98.4 |
+| Suezmax | 5 Year | 106.0 | 76.0 | 39% | 94.9 | 76.5 | 76.5 |
+| Suezmax | 10 Year | 85.0 | 61.5 | 38% | 78.3 | 61.0 | 66.3 |
+| Suezmax | 15 Year | 67.0 | 40.0 | 68% | 58.4 | 40.8 | 47.4 |
+| Aframax | Resale | 95.0 | 74.6 | 27% | 89.1 | 75.6 | 84.3 |
+| Aframax | 5 Year | 85.0 | 62.0 | 37% | 77.0 | 62.8 | 62.8 |
+| Aframax | 10 Year | 72.5 | 50.0 | 45% | 66.0 | 50.9 | 58.2 |
+| Aframax | 15 Year | 50.0 | 35.0 | 43% | 46.2 | 35.1 | 41.6 |
+| MR2 | Resale | 56.8 | 52.0 | 9% | 54.3 | 51.3 | 54.3 |
+| MR2 | 5 Year | 48.3 | 42.0 | 15% | 47.7 | 41.5 | 41.5 |
+| MR2 | 10 Year | 38.3 | 32.0 | 20% | 37.8 | 31.4 | 37.5 |
+| MR2 | 15 Year | 26.3 | 19.5 | 35% | 26.6 | 20.5 | 26.5 |
 
 ### Tanker S&P Activity Commentary
 
@@ -215,16 +215,16 @@ The tanker S&P market saw activity mainly across the MR sector. On the Suezmax s
 
 ### Indicative Demolition Scrap Prices ($/LDT)
 
-| Segment | Country | Price ($/LDT) |
-|---|---|---|
-| Bulkers | India | $450.0 |
-| Bulkers | Bangladesh | $490.0 |
-| Bulkers | Pakistan | $500.0 |
-| Bulkers | Turkey | $270.0 |
-| Tankers | India | $470.0 |
-| Tankers | Bangladesh | $510.0 |
-| Tankers | Pakistan | $520.0 |
-| Tankers | Turkey | $280.0 |
+| Segment | Country | Price ($/LDT) | Week 34 ($/LDT) |
+|---|---|---|---|
+| Bulkers | India | $450.0 | $430.0 |
+| Bulkers | Bangladesh | $490.0 | $470.0 |
+| Bulkers | Pakistan | $500.0 | $480.0 |
+| Bulkers | Turkey | $270.0 | $270.0 |
+| Tankers | India | $470.0 | $450.0 |
+| Tankers | Bangladesh | $510.0 | $490.0 |
+| Tankers | Pakistan | $520.0 | $500.0 |
+| Tankers | Turkey | $280.0 | $280.0 |
 
 ### Reported Demolition Sales
 

@@ -593,6 +593,7 @@ def extract_demo_sales_tables(
                         line_buckets[matched] = []
                     line_buckets[matched].append(bw)
 
+                lines: List[Tuple[float, Dict[str, str]]] = []
                 for by in sorted(line_buckets.keys()):
                     lw = sorted(line_buckets[by], key=lambda x: x[0])
                     row: Dict[str, List[str]] = {b[0]: [] for b in bounds}
@@ -602,8 +603,26 @@ def extract_demo_sales_tables(
                             if b_left <= wx < b_right:
                                 row[b_name].append(bw[4])
                                 break
+                    lines.append((by, {k: clean_str(" ".join(v)) for k, v in row.items()}))
 
-                    row_clean = {k: clean_str(" ".join(v)) for k, v in row.items()}
+                # A name printed on two lines ('WATERMARK ST.' / 'GEORGE', 2024-07-22) puts the row's values on a
+                # line of their own between the halves: join the halves to that line.
+                name_only = lambda r: r.get("NAME") and not any(v for k, v in r.items() if k != "NAME")
+                merged: List[Dict[str, str]] = []
+                for k, (by, rc) in enumerate(lines):
+                    if rc.get("NAME") or not any(rc.values()):
+                        if not (name_only(rc) and k + 1 < len(lines) and not lines[k + 1][1].get("NAME")
+                                and any(lines[k + 1][1].values()) and lines[k + 1][0] - by <= 12):
+                            if not (name_only(rc) and k > 0 and not lines[k - 1][1].get("NAME")
+                                    and any(lines[k - 1][1].values()) and by - lines[k - 1][0] <= 12):
+                                merged.append(rc)
+                        continue
+                    parts = [lines[k - 1][1]["NAME"]] if k > 0 and name_only(lines[k - 1][1]) and by - lines[k - 1][0] <= 12 else []
+                    if k + 1 < len(lines) and name_only(lines[k + 1][1]) and lines[k + 1][0] - by <= 12:
+                        parts.append(lines[k + 1][1]["NAME"])
+                    merged.append(dict(rc, NAME=" ".join(parts)))
+
+                for row_clean in merged:
                     name = row_clean.get("NAME", "")
                     if name and not any(
                         bad in name.upper()
@@ -649,6 +668,9 @@ def extract_indicative_demolition(
             words = _dedupe_words(pg.get_text("words"))
             for sec_name, (y_min, y_max) in [("Bulkers", (100, 310)), ("Tankers", (340, 560))]:
                 sec_words = [w for w in words if y_min <= w[1] <= y_max and w[0] >= 320]
+                # legend 'Week 34  Week 33': this week's bar, then last week's (whose level is sometimes restated)
+                weeks = [n[4] for w in sorted(sec_words, key=lambda w: w[0]) if w[4] == "Week"
+                         for n in sec_words if re.fullmatch(r"\d{1,2}", n[4]) and 0 < n[0] - w[2] < 20 and abs(n[1] - w[1]) < 3]
                 regions = [
                     ("India", 320, 380),
                     ("Bangladesh", 380, 445),
@@ -668,14 +690,18 @@ def extract_indicative_demolition(
                     if nums:
                         nums_by_x = sorted(nums, key=lambda x: x[0])
                         curr_price = nums_by_x[0][1]
-                        records.append({
+                        rec = {
                             "issue_date": issue_date,
                             "report_week": report_week,
                             "segment": sec_name,
                             "country": cname,
                             "price_usd_per_ldt": curr_price,
                             "source_file": source_file,
-                        })
+                        }
+                        if len(nums_by_x) == 2 and len(weeks) == 2:
+                            rec["prev_week"] = f"Week {weeks[1]}"
+                            rec["prev_price_usd_per_ldt"] = nums_by_x[1][1]
+                        records.append(rec)
             if records:
                 return records
 
@@ -771,22 +797,68 @@ def _parse_secondhand_text(page_text: str, title: str) -> Optional[Dict[str, Any
     return {"cur": f"{m.group(1)} {m.group(2)}", "prev": f"{m.group(3)} {m.group(4)}", "avg": list(yrs[-1]), "rows": rows}
 
 
+_MONTH_ABBR = {"Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"}
+
+
+def _parse_secondhand_words(page: pymupdf.Page) -> Optional[Dict[str, Any]]:
+    """The same box from the word boxes, for pages whose text order defeats the text parse (2025-02-24 puts the
+    class names and the header after the rows; 2024-04-08 splits a row). A row is a tenor at the box's tenor
+    column with its values on the same line; a class name printed on a row's line labels that row."""
+    words = _dedupe_words(page.get_text("words"))
+    mid = lambda w: (w[1] + w[3]) / 2
+    tenors = []
+    for w in words:
+        if w[4] == "Resale":
+            tenors.append((w, "Resale"))
+        elif w[4].isdigit() and any(v[4] == "Year" and 0 < v[0] - w[2] < 8 and abs(mid(v) - mid(w)) < 2 for v in words):
+            tenors.append((w, f"{w[4]} Year"))
+    if not tenors:
+        return None
+    xs = [round(w[0]) for w, _ in tenors]
+    x_ten = max(set(xs), key=lambda v: sum(abs(u - v) < 4 for u in xs))  # the box column, not a stray "5 Year" in prose
+    tenors = sorted(((w, t) for w, t in tenors if abs(w[0] - x_ten) < 4), key=lambda r: r[0][1])
+    top = tenors[0][0][1]
+    head = [w for w in words if top - 60 < w[1] < top - 2 and w[0] > x_ten]
+    years = sorted((w for w in head if re.fullmatch(r"(19|20)\d{2}", w[4])), key=lambda w: w[0])
+    # a month heads the year printed under it; prose beside the box ('in May with SS/DD due') does not
+    above = lambda y: next((w for w in head if w[4] in _MONTH_ABBR and abs(w[0] - y[0]) < 8 and 0 < y[1] - w[1] < 25), None)
+    months = [above(y) for y in years if above(y)]
+    if len(months) != 2 or len(years) != 5 or any(above(y) for y in years[2:]):
+        return None
+    years = [y for y in years if above(y)] + [y for y in years if not above(y)]
+    right = years[-1][2] + 3  # the last column's values end under its year; prose or another box follows
+    rows: List[Dict[str, Any]] = []
+    for w, tenor in tenors:
+        vals = [v[4] for v in sorted(words, key=lambda v: v[0])
+                if w[2] + 8 < v[0] < right and abs(mid(v) - mid(w)) <= 5
+                and (_SH_NUM.match(v[4]) or v[4] in _NB_PLACEHOLDERS)]
+        label = next((v[4] for v in words if v[4] in _SH_CLASSES and v[0] < x_ten and abs(mid(v) - mid(w)) <= 3), None)
+        rows.append({"tenor": tenor, "vals": vals, "label": label})
+    return {"cur": f"{months[0][4]} {years[0][4]}", "prev": f"{months[1][4]} {years[1][4]}",
+            "avg": [w[4] for w in years[2:]], "rows": rows}
+
+
 def enrich_secondhand_from_text(doc: pymupdf.Document, sh_prices: List[Dict[str, Any]]) -> None:
     """Add the five columns the word-box extractor drops, and the printed 15-year class labels.
 
-    Applied per sector only when the text parse has the same rows, tenors and current prices as the
-    existing extraction (so it can never change a value, only add the printed ones next to it)."""
+    Applied per sector only when the text parse (else the word-box parse) has the same rows, tenors and current
+    prices as the existing extraction (so it can never change a value, only add the printed ones next to it)."""
+    def fits(parsed, recs):
+        return parsed and len(parsed["rows"]) == len(recs) and all(
+            _nb_box_row(r["vals"]) and r["tenor"].replace(" ", "").lower() == str(rec.get("tenor", "")).replace(" ", "").lower()
+            and rec.get("price_usd_mill") is not None and abs(float(r["vals"][0]) - float(rec["price_usd_mill"])) < 1e-6
+            for r, rec in zip(parsed["rows"], recs))
+
     for sector, title in (("Dry", "DRY SECONDHAND PRICES"), ("Tanker", "TANKER SECONDHAND PRICES")):
         recs = [r for r in sh_prices if r.get("sector") == sector]
-        page = next((pg.get_text() for pg in doc if title in pg.get_text()), None)
-        parsed = _parse_secondhand_text(page, title) if page and recs else None
-        if not parsed or len(parsed["rows"]) != len(recs):
+        page = next((pg for pg in doc if title in pg.get_text()), None)
+        if not page or not recs:
             continue
-        ok = all(len(r["vals"]) == 6 and r["tenor"].replace(" ", "").lower() == str(rec.get("tenor", "")).replace(" ", "").lower()
-                 and rec.get("price_usd_mill") is not None and abs(float(r["vals"][0]) - float(rec["price_usd_mill"])) < 1e-6
-                 for r, rec in zip(parsed["rows"], recs))
-        if not ok:
-            continue
+        parsed = _parse_secondhand_text(page.get_text(), title)
+        if not fits(parsed, recs):
+            parsed = _parse_secondhand_words(page)
+            if not fits(parsed, recs):
+                continue
         for r, rec in zip(parsed["rows"], recs):
             if r["label"]:
                 rec["vessel_type"] = r["label"]
@@ -797,53 +869,79 @@ def enrich_secondhand_from_text(doc: pymupdf.Document, sh_prices: List[Dict[str,
 _NB_NOTE = re.compile(r"Above prices/trends refer to [^\n]*?shipbuilding")
 
 
-def _parse_newbuilding_text(page_text: str, types: List[str]) -> Optional[Dict[str, Any]]:
-    """The 2024+ newbuilding box from the page text: per type this month, same month last year, ±% and
-    three yearly averages (the same layout as the secondhand box)."""
-    m = re.search(_SH_MONTHS, page_text)
-    yrs = re.search(r"(?m)^\s*(\d{4})\s*\n\s*(\d{4})\s*\n\s*(\d{4})\s*$", page_text)
-    if not m or not yrs:
-        return None
-    lines = [x.strip() for x in page_text.splitlines()]
+_NB_TABLE_RIGHT = 285.0  # the box ends here; the price chart (its axis ticks from x~290) fills the right half
+_NB_PLACEHOLDERS = ("#N/A", "N/A", "-")  # printed in a cell with no value (2026-01-05 MR2 Avg 2025)
+
+
+def _parse_newbuilding_words(page: pymupdf.Page, types: List[str]) -> Optional[Dict[str, Any]]:
+    """The 2024+ newbuilding box from the word boxes: per type this month, same month last year, ±% and three
+    yearly averages. The page text order cannot be used: the chart legend repeats the type names before the
+    box, and its header reads 'Feb 2025 / Average Prices / Size / ±% / Feb 2024'."""
+    words = _dedupe_words(page.get_text("words"))
     rows: Dict[str, List[str]] = {}
+    top = None
+    def line(lw):
+        ym = (lw[1] + lw[3]) / 2
+        return [w[4] for w in sorted(words, key=lambda w: w[0]) if lw[2] < w[0] < _NB_TABLE_RIGHT
+                and abs((w[1] + w[3]) / 2 - ym) <= 5 and (_SH_NUM.match(w[4]) or w[4] in _NB_PLACEHOLDERS)]
+
     for vt in types:
-        if vt not in lines:
+        # the type can be printed again at the left edge further down (the orders table): keep the box row
+        lab = [w for w in words if w[4] == vt and w[0] < 60 and len(line(w)) >= 5]
+        if len(lab) != 1:
             return None
-        vals: List[str] = []
-        for ln in lines[lines.index(vt) + 1:]:
-            toks = [t for t in ln.split() if _SH_NUM.match(t)]
-            if ln and not toks:
-                break
-            vals += toks[: 6 - len(vals)]
-            if len(vals) == 6:
-                break
-        rows[vt] = vals
-    return {"cur": f"{m.group(1)} {m.group(2)}", "prev": f"{m.group(3)} {m.group(4)}",
-            "avg": [yrs.group(1), yrs.group(2), yrs.group(3)], "rows": rows}
+        top = lab[0][1] if top is None else min(top, lab[0][1])
+        rows[vt] = line(lab[0])
+    head = [w for w in words if top - 60 < w[1] < top - 2 and w[0] < _NB_TABLE_RIGHT]
+    months = sorted((w for w in head if re.fullmatch(r"[A-Z][a-z]{2}", w[4]) and w[0] < 170), key=lambda w: w[0])
+    years = sorted((w for w in head if re.fullmatch(r"(19|20)\d{2}", w[4])), key=lambda w: w[0])
+    if len(months) != 2 or len(years) != 5 or not all(years[i][0] < 170 for i in (0, 1)):
+        return None
+    return {"cur": f"{months[0][4]} {years[0][4]}", "prev": f"{months[1][4]} {years[1][4]}",
+            "avg": [w[4] for w in years[2:]], "rows": rows}
+
+
+def _nb_box_row(v: List[str]) -> bool:
+    """Six printed values: a current price, the ±% in the third place and nowhere else."""
+    return len(v) == 6 and v[2].endswith("%") and not any(t.endswith("%") for t in v[:2] + v[3:]) \
+        and v[0] not in _NB_PLACEHOLDERS
 
 
 def enrich_newbuilding_from_text(doc: pymupdf.Document, nb_prices: List[Dict[str, Any]]) -> List[str]:
     """Add the five printed columns next to each newbuilding price; return the printed notes
     ("Above prices/trends refer to Chinese shipbuilding"). Applied per sector only when every row's
     current price equals the existing extraction, so a value can never change, only be joined by the printed ones."""
-    page = next((pg.get_text() for pg in doc if "NEWBUILDING" in pg.get_text().upper()
+    page = next((pg for pg in doc if "NEWBUILDING" in pg.get_text().upper()
                  and "PRICES" in pg.get_text().upper() and "Average Prices" in pg.get_text()), None)
     if not page:
         return []
     for sector in ("Dry", "Tanker"):
         recs = [r for r in nb_prices if r.get("sector") == sector]
-        parsed = _parse_newbuilding_text(page, [r["vessel_type"] for r in recs]) if recs else None
+        parsed = _parse_newbuilding_words(page, [r["vessel_type"] for r in recs]) if recs else None
         if not parsed:
             continue
-        if not all(len(parsed["rows"][r["vessel_type"]]) == 6 and r.get("price_usd_mill") is not None
-                   and not parsed["rows"][r["vessel_type"]][0].endswith("%")
-                   and abs(float(parsed["rows"][r["vessel_type"]][0]) - float(r["price_usd_mill"])) < 1e-6
-                   for r in recs):
+        if not all(_nb_box_row(v) and r.get("price_usd_mill") is not None
+                   and abs(float(v[0]) - float(r["price_usd_mill"])) < 1e-6
+                   for r, v in ((r, parsed["rows"][r["vessel_type"]]) for r in recs)):
             continue
         for r in recs:
             r["printed_cols"] = [parsed["cur"], parsed["prev"], "±%"] + [f"Avg {y}" for y in parsed["avg"]]
             r["printed_vals"] = parsed["rows"][r["vessel_type"]]
-    return _NB_NOTE.findall(page)
+    return _NB_NOTE.findall(page.get_text())
+
+
+def render_demolition_prices(demo_prices: List[Dict[str, Any]]) -> List[str]:
+    """The price table under its heading; last week's printed level as a column when the box carries it (2024+)."""
+    prev = {dp.get("prev_week") for dp in demo_prices}
+    if demo_prices and len(prev) == 1 and None not in prev:
+        lines = [f"| Segment | Country | Price ($/LDT) | {prev.pop()} ($/LDT) |", "|---|---|---|---|"]
+        lines += [f"| {dp.get('segment', '')} | {dp.get('country', '')} | ${dp.get('price_usd_per_ldt', '')} | "
+                  f"${dp['prev_price_usd_per_ldt']} |" for dp in demo_prices]
+    else:
+        lines = ["| Segment | Country | Price ($/LDT) |", "|---|---|---|"]
+        lines += [f"| {dp.get('segment', '')} | {dp.get('country', '')} | ${dp.get('price_usd_per_ldt', '')} |"
+                  for dp in demo_prices] or ["| - | - | No indicative demolition prices reported |"]
+    return lines + [""]
 
 
 def render_newbuilding_prices(nb_prices: List[Dict[str, Any]], notes: List[str]) -> List[str]:
@@ -1116,6 +1214,27 @@ def extract_newbuilding_prices(
     records: List[Dict[str, Any]] = []
 
     max_pages = min(5, len(doc) - 2) if len(doc) >= 6 else min(5, len(doc))
+    # 2024+ box: read every row from its own line, on whichever page carries it. The nearest-number rule below
+    # took chart ticks, or stopped at an earlier page naming the section (2024-01-29 VLCC 114.0 for a printed
+    # 127.7; 2024-02-26 two rows, 70.0 and 47.0, for nine).
+    for pno in range(max_pages):
+        pg = doc[pno]
+        txt = pg.get_text()
+        if "Average Prices" not in txt or "NEWBUILDING PRICES" not in re.sub(r"\s+", " ", txt.upper()):
+            continue  # the secondhand boxes carry 'Average Prices' and the class names too
+        for sector, types in (("Dry", ["Capesize", "Kamsarmax", "Ultramax", "Handysize"]),
+                              ("Tanker", ["VLCC", "Suezmax", "Aframax", "Panamax", "MR2"])):
+            parsed = _parse_newbuilding_words(pg, types)
+            if parsed and all(_nb_box_row(v) for v in parsed["rows"].values()):
+                records += [{"issue_date": issue_date, "report_week": report_week, "sector": sector,
+                             "vessel_type": vt, "price_usd_mill": float(parsed["rows"][vt][0]),
+                             "source_file": source_file,
+                             "printed_cols": [parsed["cur"], parsed["prev"], "±%"] + [f"Avg {y}" for y in parsed["avg"]],
+                             "printed_vals": parsed["rows"][vt]} for vt in types]
+        if len(records) == 9:
+            return records
+        records = []
+
     for pno in range(max_pages):
         pg = doc[pno]
         txt = pg.get_text()
@@ -1386,6 +1505,25 @@ def extract_snp_activity(doc: pymupdf.Document) -> Tuple[str, str]:
     return "\n\n".join(dry_activity), "\n\n".join(wet_activity)
 
 
+def extract_newbuilding_activity(doc: pymupdf.Document) -> str:
+    """The 2024+ 'Newbuilding Activity:' prose on the newbuilding page: the text blocks between that heading and
+    the NEWBUILDING ORDERS table (some issues print the heading with no prose)."""
+    for pg in doc:
+        blocks = pg.get_text("blocks")
+        head = next((b for b in blocks if re.match(r"Newbuilding\s+Activity:", b[4].strip())), None)
+        if head is None:
+            continue
+        end = min((b[1] for b in blocks if "NEWBUILDING ORDERS" in b[4] and b[1] > head[1]), default=pg.rect.height)
+        out: List[str] = []
+        rem = re.sub(r"Newbuilding\s+Activity:\s*", "", head[4]).strip()
+        for btxt in ([rem] if rem else []) + [b[4] for b in blocks if b[6] == 0 and head[1] < b[1] < end]:
+            clean = re.sub(r"\s+", " ", btxt.replace("�", "'")).strip()
+            if len(clean) > 25 and "xclusiv.gr" not in clean and not _NB_NOTE.search(clean) and clean not in out:
+                out.append(clean)
+        return "\n\n".join(out)
+    return ""
+
+
 def extract_freight_commentary(doc: pymupdf.Document) -> Dict[str, str]:
     """Extract prose commentary for dry bulk and tankers from pages 2 and 3."""
     freight: Dict[str, str] = {}
@@ -1441,6 +1579,7 @@ def generate_markdown(
     demo_prices: List[Dict[str, Any]],
     demo_sales: List[Dict[str, Any]],
     nb_notes: Optional[List[str]] = None,
+    nb_activity: str = "",
 ) -> str:
     year = issue_date[:4] if issue_date and issue_date[:4].isdigit() else "2026"
     max_useful = max(1, len(doc) - 2) if len(doc) >= 6 else len(doc)
@@ -1528,7 +1667,10 @@ def generate_markdown(
     
     if nb_prices:
         lines.extend(render_newbuilding_prices(nb_prices, nb_notes or []))
-        
+
+    if nb_activity:
+        lines.extend(["### Newbuilding Activity Commentary", "", nb_activity, ""])
+
     if nb_orders:
         lines.extend([
             "### Newbuilding Orders",
@@ -1666,15 +1808,8 @@ def generate_markdown(
         "",
         "### Indicative Demolition Scrap Prices ($/LDT)",
         "",
-        "| Segment | Country | Price ($/LDT) |",
-        "|---|---|---|",
     ])
-    if demo_prices:
-        for dp in demo_prices:
-            lines.append(f"| {dp.get('segment', '')} | {dp.get('country', '')} | ${dp.get('price_usd_per_ldt', '')} |")
-    else:
-        lines.append("| - | - | No indicative demolition prices reported |")
-    lines.append("")
+    lines.extend(render_demolition_prices(demo_prices))
 
     lines.extend([
         "### Reported Demolition Sales",
@@ -1728,6 +1863,7 @@ def process_pdf(pdf_path: Path) -> Dict[str, Any]:
     nb_orders = extract_newbuilding_orders(doc, issue_date, report_week, pdf_path.name)
     nb_prices = extract_newbuilding_prices(doc, issue_date, report_week, pdf_path.name)
     nb_notes = enrich_newbuilding_from_text(doc, nb_prices)
+    nb_activity = extract_newbuilding_activity(doc)
 
     max_useful = max(1, len(doc) - 2) if len(doc) >= 6 else len(doc)
 
@@ -1745,6 +1881,7 @@ def process_pdf(pdf_path: Path) -> Dict[str, Any]:
         "freight_commentary": freight,
         "dry_snp_activity": dry_act,
         "wet_snp_activity": wet_act,
+        "newbuilding_activity": nb_activity,
         "reported_sales": sales,
         "demo_sales": demo_sales,
         "newbuilding_orders": nb_orders,
@@ -1757,7 +1894,7 @@ def process_pdf(pdf_path: Path) -> Dict[str, Any]:
         stem, pdf_path, doc, issue_date, report_week,
         editorial_title, nutshell, commentary, baltic, freight,
         nb_prices, nb_orders, sh_prices, dry_act, wet_act,
-        sales, demo_prices, demo_sales, nb_notes
+        sales, demo_prices, demo_sales, nb_notes, nb_activity
     )
 
     # Macro page (Commodities & Currencies, Bunker Prices, markets commentary): appended as the last section,

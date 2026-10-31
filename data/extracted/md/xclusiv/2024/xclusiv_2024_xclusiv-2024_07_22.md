@@ -95,20 +95,24 @@ Products: The LR2 route (TC1) Middle East to Ja- pan is this week lower by USD 4
 
 ### Indicative Newbuilding Prices ($ mills)
 
-| Sector | Vessel Type | Price ($M) |
-|---|---|---|
-| Dry | Capesize | $76.8M |
-| Dry | Kamsarmax | $38.0M |
-| Dry | Ultramax | $35.3M |
-| Dry | Handysize | $31.0M |
-| Tanker | VLCC | $130.0M |
-| Tanker | Suezmax | $87.7M |
-| Tanker | Aframax | $71.8M |
-| Tanker | Panamax | $61.0M |
-| Tanker | MR2 | $50.8M |
+| Sector | Vessel Type | Jul 2024 | Jul 2023 | ±% | Avg 2024 | Avg 2023 | Avg 2022 |
+|---|---|---|---|---|---|---|---|
+| Dry | Capesize | 76.8 | 63.2 | 21% | 70.8 | 63.0 | 62.5 |
+| Dry | Kamsarmax | 38.0 | 34.7 | 10% | 37.3 | 34.9 | 36.4 |
+| Dry | Ultramax | 35.3 | 33.0 | 7% | 34.4 | 32.8 | 33.4 |
+| Dry | Handysize | 31.0 | 30.5 | 2% | 30.8 | 30.2 | 30.3 |
+| Tanker | VLCC | 130.0 | 125.4 | 4% | 129.5 | 124.2 | 117.2 |
+| Tanker | Suezmax | 87.7 | 84.7 | 4% | 86.3 | 83.2 | 78.7 |
+| Tanker | Aframax | 71.8 | 67.3 | 7% | 71.5 | 66.5 | 61.0 |
+| Tanker | Panamax | 61.0 | 57.5 | 6% | 59.2 | 56.1 | 52.7 |
+| Tanker | MR2 | 50.8 | 46.6 | 9% | 49.2 | 45.9 | 42.3 |
 
 *Above prices/trends refer to Chinese shipbuilding*
 *Above prices/trends refer to S. Korean shipbuilding*
+
+### Newbuilding Activity Commentary
+
+The dry bulk sector saw a flurry of Ultramax orders this week. Drydel, Sea Traders, and Executive Ship Management ordered one, six, and three vessels, respectively. In the container segment, CMA CGM placed a substantial order for twelve 16,000 TEU ships, split between two Hyundai shipyards and ONE ordered ten 13,000 TEU vessels, with five go- ing to Yangzijang and five to Jiangnan. Finally, Monte Nero placed an order for four MR2 product tankers
 
 ### Newbuilding Orders
 
@@ -229,16 +233,16 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 
 ### Indicative Demolition Scrap Prices ($/LDT)
 
-| Segment | Country | Price ($/LDT) |
-|---|---|---|
-| Bulkers | India | $515.0 |
-| Bulkers | Bangladesh | $520.0 |
-| Bulkers | Pakistan | $515.0 |
-| Bulkers | Turkey | $355.0 |
-| Tankers | India | $520.0 |
-| Tankers | Bangladesh | $530.0 |
-| Tankers | Pakistan | $525.0 |
-| Tankers | Turkey | $365.0 |
+| Segment | Country | Price ($/LDT) | Week 28 ($/LDT) |
+|---|---|---|---|
+| Bulkers | India | $515.0 | $520.0 |
+| Bulkers | Bangladesh | $520.0 | $525.0 |
+| Bulkers | Pakistan | $515.0 | $520.0 |
+| Bulkers | Turkey | $355.0 | $355.0 |
+| Tankers | India | $520.0 | $525.0 |
+| Tankers | Bangladesh | $530.0 | $535.0 |
+| Tankers | Pakistan | $525.0 | $530.0 |
+| Tankers | Turkey | $365.0 | $365.0 |
 
 ### Reported Demolition Sales
 
@@ -246,8 +250,7 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 |---|---|---|---|---|---|---|---|---|
 | DIAA | GC | 1977 | 3,663 |  | JAPAN | N/A | TURKEY | - |
 | EVER EXPRESS | GC | 2004 | 3,800 |  | CHINA | $490.0 | BANGLADESH | - |
-| WATERMARK ST. |  |  |  |  |  | N/A | - | - |
-| GEORGE |  |  |  |  |  | N/A | - | - |
+| WATERMARK ST. GEORGE | CONTAINER | 1998 | 12,310 | 5,468 | TURKEY | $300.0 | UNDISCLOSED | AS IS CURACAO |
 | MSC IRIS | CONTAINER | 1982 | 21,370 | 10,655 | GERMANY | N/A | UNDISCLOSED | - |
 
 ---

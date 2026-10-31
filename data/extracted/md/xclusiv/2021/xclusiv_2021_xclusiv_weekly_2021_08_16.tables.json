@@ -1,7 +1,7 @@
 {
   "schema": "parse_engine/v1",
   "issue_date": "2021-08-16",
-  "report_week": 33,
+  "report_week": 32,
   "source_file": "corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_08_16.pdf",
   "source_sha256": "106c0328e426e5ad567a3c81f60a54a9919c719e1327a4fed019fa2efa6bc717",
   "sales_count": 0,

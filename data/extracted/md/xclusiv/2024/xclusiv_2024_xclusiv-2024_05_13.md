@@ -94,20 +94,24 @@ Products: The LR2 route (TC1) Middle East to Ja- pan is this week higher by USD 
 
 ### Indicative Newbuilding Prices ($ mills)
 
-| Sector | Vessel Type | Price ($M) |
-|---|---|---|
-| Dry | Capesize | $71.1M |
-| Dry | Kamsarmax | $37.9M |
-| Dry | Ultramax | $34.8M |
-| Dry | Handysize | $31.0M |
-| Tanker | VLCC | $130.0M |
-| Tanker | Suezmax | $85.8M |
-| Tanker | Aframax | $71.6M |
-| Tanker | Panamax | $59.0M |
-| Tanker | MR2 | $49.5M |
+| Sector | Vessel Type | May 2024 | May 2023 | ±% | Avg 2024 | Avg 2023 | Avg 2022 |
+|---|---|---|---|---|---|---|---|
+| Dry | Capesize | 71.1 | 62.1 | 15% | 68.4 | 63.0 | 62.5 |
+| Dry | Kamsarmax | 37.9 | 34.6 | 9% | 36.9 | 34.9 | 36.4 |
+| Dry | Ultramax | 34.8 | 32.5 | 7% | 34.1 | 32.8 | 33.4 |
+| Dry | Handysize | 31.0 | 30.4 | 2% | 30.8 | 30.2 | 30.3 |
+| Tanker | VLCC | 130.0 | 123.5 | 5% | 129.3 | 124.2 | 117.2 |
+| Tanker | Suezmax | 85.8 | 83.3 | 3% | 85.9 | 83.2 | 78.7 |
+| Tanker | Aframax | 71.6 | 66.8 | 7% | 71.4 | 66.5 | 61.0 |
+| Tanker | Panamax | 59.0 | 56.3 | 5% | 58.6 | 56.1 | 52.7 |
+| Tanker | MR2 | 49.5 | 45.8 | 8% | 48.7 | 45.9 | 42.3 |
 
 *Above prices/trends refer to Chinese shipbuilding*
 *Above prices/trends refer to S. Korean shipbuilding*
+
+### Newbuilding Activity Commentary
+
+Seatankers has placed an order for 2x 210,000 DWT Newcastlemaxes at Qingdao Yangfan with delivery within 2028. Elsewhere, Itochu Corp has ordered 2x 63,000 DWT Ultramaxes at New Dayang with delivery in 2027. Moreover, Ka- suga Kaiun has placed an order for 1x 64,000 DWT Ultramax at New Dayang with 2027 delivery. On the tanker sector, Seatankers has ordered 2x 306,000 DWT VLCCs at DISC Tianjin, and the vessels will be delivered in 2028. Finally, Southwest Maritime has placed an order for 2x 25,000 CBM LPG at CSSC Huangpu Wenchong with 2025 delivery.
 
 ### Newbuilding Orders
 
@@ -213,16 +217,16 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 
 ### Indicative Demolition Scrap Prices ($/LDT)
 
-| Segment | Country | Price ($/LDT) |
-|---|---|---|
-| Bulkers | India | $525.0 |
-| Bulkers | Bangladesh | $530.0 |
-| Bulkers | Pakistan | $530.0 |
-| Bulkers | Turkey | $345.0 |
-| Tankers | India | $530.0 |
-| Tankers | Bangladesh | $540.0 |
-| Tankers | Pakistan | $540.0 |
-| Tankers | Turkey | $355.0 |
+| Segment | Country | Price ($/LDT) | Week 18 ($/LDT) |
+|---|---|---|---|
+| Bulkers | India | $525.0 | $520.0 |
+| Bulkers | Bangladesh | $530.0 | $530.0 |
+| Bulkers | Pakistan | $530.0 | $530.0 |
+| Bulkers | Turkey | $345.0 | $345.0 |
+| Tankers | India | $530.0 | $525.0 |
+| Tankers | Bangladesh | $540.0 | $540.0 |
+| Tankers | Pakistan | $540.0 | $540.0 |
+| Tankers | Turkey | $355.0 | $355.0 |
 
 ### Reported Demolition Sales
 

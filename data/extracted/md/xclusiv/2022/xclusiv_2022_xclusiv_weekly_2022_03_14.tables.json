@@ -1,7 +1,7 @@
 {
   "schema": "parse_engine/v1",
   "issue_date": "2022-03-14",
-  "report_week": 11,
+  "report_week": 10,
   "source_file": "corpus/01-brokers/xclusiv/2022/xclusiv_2022_xclusiv_weekly_2022_03_14.pdf",
   "source_sha256": "aaaba2869b90c477a52c1c35044a9d9c6e7e630c8cfff1c494fa48fc654f549d",
   "sales_count": 0,

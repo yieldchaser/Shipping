@@ -90,7 +90,7 @@ Products: The LR2 route (TC1) Middle East to Ja- pan is this week lower by 7.5k/
 
 ### Indicative Newbuilding Prices ($ mills)
 
-| Sector | Vessel Type | Feb 2026 | Jan 2025 | ±% | Avg 2028 | Avg 2026 | Avg 2025 |
+| Sector | Vessel Type | Feb 2026 | Jan 2025 | ±% | Avg 2026 | Avg 2025 | Avg 2024 |
 |---|---|---|---|---|---|---|---|
 | Dry | Capesize | 74.5 | 75.5 | -1% | 74.2 | 74.2 | 73.2 |
 | Dry | Kamsarmax | 36.5 | 39.0 | -6% | 36.4 | 38.1 | 38.0 |
@@ -124,24 +124,24 @@ Products: The LR2 route (TC1) Middle East to Ja- pan is this week lower by 7.5k/
 
 ### Dry Secondhand Prices ($ mills)
 
-| Vessel Type | Tenor | Price ($M) |
-|---|---|---|
-| Capesize | Resale | $80.5M |
-| Capesize | 5 Year | $68.5M |
-| Capesize | 10 Year | $52.5M |
-| Capesize | 15 Year | $34.0M |
-| Kamsarmax | Resale | $42.0M |
-| Kamsarmax | 5 Year | $34.0M |
-| Kamsarmax | 10 Year | $24.0M |
-| Kamsarmax | 15 Year | $18.0M |
-| Ultramax | Resale | $41.0M |
-| Ultramax | 5 Year | $34.0M |
-| Ultramax | 10 Year | $26.0M |
-| Ultramax | 15 Year | $15.8M |
-| Handysize | Resale | $34.0M |
-| Handysize | 5 Year | $27.0M |
-| Handysize | 10 Year | $20.5M |
-| Handysize | 15 Year | $11.8M |
+| Vessel Type | Tenor | Feb 2026 | Jan 2025 | ±% | Avg 2026 | Avg 2025 | Avg 2024 |
+|---|---|---|---|---|---|---|---|
+| Capesize | Resale | 80.5 | 75.0 | 7% | 78.8 | 75.7 | 75.7 |
+| Capesize | 5 Year | 68.5 | 61.7 | 11% | 66.9 | 62.6 | 62.6 |
+| Capesize | 10 Year | 52.5 | 42.5 | 24% | 51.4 | 45.6 | 43.1 |
+| Capesize | 15 Year | 34.0 | 26.3 | 29% | 33.1 | 27.4 | 27.9 |
+| Kamsarmax | Resale | 42.0 | 39.4 | 7% | 41.3 | 38.7 | 41.8 |
+| Kamsarmax | 5 Year | 34.0 | 33.8 | 1% | 33.6 | 32.3 | 32.3 |
+| Kamsarmax | 10 Year | 24.0 | 24.5 | -2% | 24.7 | 24.8 | 27.3 |
+| Kamsarmax | 15 Year | 18.0 | 14.8 | 22% | 17.5 | 15.6 | 18.1 |
+| Ultramax | Resale | 41.0 | 38.0 | 8% | 39.8 | 37.8 | 40.6 |
+| Ultramax | 5 Year | 34.0 | 31.4 | 8% | 32.4 | 31.1 | 31.1 |
+| Ultramax | 10 Year | 26.0 | 22.7 | 15% | 25.2 | 22.9 | 26.0 |
+| Supramax | 15 Year | 15.8 | 14.5 | 9% | 15.8 | 15.0 | 15.9 |
+| Handysize | Resale | 34.0 | 33.2 | 2% | 34.0 | 33.0 | 34.0 |
+| Handysize | 5 Year | 27.0 | 25.6 | 5% | 27.0 | 25.9 | 25.9 |
+| Handysize | 10 Year | 20.5 | 17.4 | 18% | 20.7 | 19.0 | 19.8 |
+| Handysize | 15 Year | 11.8 | 11.1 | 6% | 11.9 | 11.7 | 12.3 |
 
 ### Dry S&P Activity Commentary
 
@@ -168,24 +168,24 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 
 ### Tanker Secondhand Prices ($ mills)
 
-| Vessel Type | Tenor | Price ($M) |
-|---|---|---|
-| VLCC | Resale | $160.0M |
-| VLCC | 5 Year | $130.0M |
-| VLCC | 10 Year | $105.0M |
-| VLCC | 15 Year | $83.0M |
-| Suezmax | Resale | $102.0M |
-| Suezmax | 5 Year | $84.0M |
-| Suezmax | 10 Year | $69.0M |
-| Suezmax | 15 Year | $50.0M |
-| Aframax | Resale | $85.0M |
-| Aframax | 5 Year | $72.5M |
-| Aframax | 10 Year | $60.0M |
-| Aframax | 15 Year | $40.0M |
-| MR2 | Resale | $55.0M |
-| MR2 | 5 Year | $43.5M |
-| MR2 | 10 Year | $35.0M |
-| MR2 | 15 Year | $25.0M |
+| Vessel Type | Tenor | Feb 2026 | Jan 2025 | ±% | Avg 2026 | Avg 2025 | Avg 2024 |
+|---|---|---|---|---|---|---|---|
+| VLCC | Resale | 160.0 | 148.0 | 8% | 156.2 | 146.6 | 144.2 |
+| VLCC | 5 Year | 130.0 | 114.0 | 14% | 127.5 | 115.4 | 115.4 |
+| VLCC | 10 Year | 105.0 | 84.0 | 25% | 103.3 | 85.3 | 84.1 |
+| VLCC | 15 Year | 83.0 | 53.0 | 57% | 77.2 | 56.2 | 57.1 |
+| Suezmax | Resale | 102.0 | 96.0 | 6% | 100.3 | 94.3 | 98.4 |
+| Suezmax | 5 Year | 84.0 | 76.0 | 11% | 83.2 | 76.5 | 76.5 |
+| Suezmax | 10 Year | 69.0 | 58.8 | 17% | 68.0 | 61.0 | 66.3 |
+| Suezmax | 15 Year | 50.0 | 39.5 | 27% | 48.8 | 40.8 | 47.4 |
+| Aframax | Resale | 85.0 | 80.0 | 6% | 80.3 | 75.6 | 84.3 |
+| Aframax | 5 Year | 72.5 | 64.4 | 13% | 70.5 | 62.8 | 62.8 |
+| Aframax | 10 Year | 60.0 | 51.3 | 17% | 58.8 | 50.9 | 58.2 |
+| Aframax | 15 Year | 40.0 | 35.0 | 14% | 38.8 | 35.1 | 41.6 |
+| MR2 | Resale | 55.0 | 51.3 | 7% | 53.3 | 51.3 | 54.3 |
+| MR2 | 5 Year | 43.5 | 41.4 | 5% | 43.3 | 41.5 | 41.5 |
+| MR2 | 10 Year | 35.0 | 31.2 | 12% | 34.5 | 31.4 | 37.5 |
+| MR2 | 15 Year | 25.0 | 21.5 | 16% | 24.5 | 20.5 | 26.5 |
 
 ### Tanker S&P Activity Commentary
 
@@ -213,16 +213,16 @@ Activity remained firm this week with a total of 10 tanker transactions reported
 
 ### Indicative Demolition Scrap Prices ($/LDT)
 
-| Segment | Country | Price ($/LDT) |
-|---|---|---|
-| Bulkers | India | $390.0 |
-| Bulkers | Bangladesh | $410.0 |
-| Bulkers | Pakistan | $410.0 |
-| Bulkers | Turkey | $270.0 |
-| Tankers | India | $410.0 |
-| Tankers | Bangladesh | $430.0 |
-| Tankers | Pakistan | $430.0 |
-| Tankers | Turkey | $280.0 |
+| Segment | Country | Price ($/LDT) | Week 5 ($/LDT) |
+|---|---|---|---|
+| Bulkers | India | $390.0 | $390.0 |
+| Bulkers | Bangladesh | $410.0 | $410.0 |
+| Bulkers | Pakistan | $410.0 | $410.0 |
+| Bulkers | Turkey | $270.0 | $270.0 |
+| Tankers | India | $410.0 | $410.0 |
+| Tankers | Bangladesh | $430.0 | $430.0 |
+| Tankers | Pakistan | $430.0 | $430.0 |
+| Tankers | Turkey | $280.0 | $280.0 |
 
 ### Reported Demolition Sales
 

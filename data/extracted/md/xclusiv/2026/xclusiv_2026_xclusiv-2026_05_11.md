@@ -211,16 +211,16 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 
 ### Indicative Demolition Scrap Prices ($/LDT)
 
-| Segment | Country | Price ($/LDT) |
-|---|---|---|
-| Bulkers | India | $420.0 |
-| Bulkers | Bangladesh | $460.0 |
-| Bulkers | Pakistan | $445.0 |
-| Bulkers | Turkey | $275.0 |
-| Tankers | India | $440.0 |
-| Tankers | Bangladesh | $480.0 |
-| Tankers | Pakistan | $465.0 |
-| Tankers | Turkey | $285.0 |
+| Segment | Country | Price ($/LDT) | Week 18 ($/LDT) |
+|---|---|---|---|
+| Bulkers | India | $420.0 | $415.0 |
+| Bulkers | Bangladesh | $460.0 | $460.0 |
+| Bulkers | Pakistan | $445.0 | $445.0 |
+| Bulkers | Turkey | $275.0 | $280.0 |
+| Tankers | India | $440.0 | $435.0 |
+| Tankers | Bangladesh | $480.0 | $480.0 |
+| Tankers | Pakistan | $465.0 | $465.0 |
+| Tankers | Turkey | $285.0 | $290.0 |
 
 ### Reported Demolition Sales
 

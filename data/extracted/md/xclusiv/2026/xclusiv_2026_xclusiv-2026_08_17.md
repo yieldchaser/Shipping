@@ -94,7 +94,7 @@ Products: The LR2 route (TC1) Middle East to Ja- pan is this week lower by 4.7k/
 
 ### Indicative Newbuilding Prices ($ mills)
 
-| Sector | Vessel Type | Aug 2026 | Aug 2025 | ±% | Avg 2028 | Avg 2026 | Avg 2025 |
+| Sector | Vessel Type | Aug 2026 | Aug 2025 | ±% | Avg 2026 | Avg 2025 | Avg 2024 |
 |---|---|---|---|---|---|---|---|
 | Dry | Capesize | 76.0 | 74.0 | 3% | 74.8 | 74.2 | 73.2 |
 | Dry | Kamsarmax | 38.0 | 36.5 | 4% | 37.1 | 36.6 | 37.5 |
@@ -211,16 +211,16 @@ On the Suezmax sector, Greek buyers acquired the “BRISTOL” - 157K/2024 Hyund
 
 ### Indicative Demolition Scrap Prices ($/LDT)
 
-| Segment | Country | Price ($/LDT) |
-|---|---|---|
-| Bulkers | India | $420.0 |
-| Bulkers | Bangladesh | $450.0 |
-| Bulkers | Pakistan | $440.0 |
-| Bulkers | Turkey | $270.0 |
-| Tankers | India | $440.0 |
-| Tankers | Bangladesh | $470.0 |
-| Tankers | Pakistan | $460.0 |
-| Tankers | Turkey | $280.0 |
+| Segment | Country | Price ($/LDT) | Week 32 ($/LDT) |
+|---|---|---|---|
+| Bulkers | India | $420.0 | $415.0 |
+| Bulkers | Bangladesh | $450.0 | $445.0 |
+| Bulkers | Pakistan | $440.0 | $435.0 |
+| Bulkers | Turkey | $270.0 | $270.0 |
+| Tankers | India | $440.0 | $435.0 |
+| Tankers | Bangladesh | $470.0 | $465.0 |
+| Tankers | Pakistan | $460.0 | $455.0 |
+| Tankers | Turkey | $280.0 | $280.0 |
 
 ### Reported Demolition Sales
 

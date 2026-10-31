@@ -92,20 +92,24 @@ Products: The LR2 route (TC1) Middle East to Ja- pan is this week lower by USD 7
 
 ### Indicative Newbuilding Prices ($ mills)
 
-| Sector | Vessel Type | Price ($M) |
-|---|---|---|
-| Dry | Capesize | $75.6M |
-| Dry | Kamsarmax | $37.9M |
-| Dry | Ultramax | $35.0M |
-| Dry | Handysize | $31.0M |
-| Tanker | VLCC | $130.0M |
-| Tanker | Suezmax | $87.1M |
-| Tanker | Aframax | $71.8M |
-| Tanker | Panamax | $60.2M |
-| Tanker | MR2 | $50.0M |
+| Sector | Vessel Type | Jun 2024 | Jun 2023 | ±% | Avg 2024 | Avg 2023 | Avg 2022 |
+|---|---|---|---|---|---|---|---|
+| Dry | Capesize | 75.6 | 63.2 | 20% | 70.1 | 63.0 | 62.5 |
+| Dry | Kamsarmax | 37.9 | 34.7 | 9% | 37.2 | 34.9 | 36.4 |
+| Dry | Ultramax | 35.0 | 33.0 | 6% | 34.3 | 32.8 | 33.4 |
+| Dry | Handysize | 31.0 | 30.4 | 2% | 30.8 | 30.2 | 30.3 |
+| Tanker | VLCC | 130.0 | 125.2 | 4% | 129.5 | 124.2 | 117.2 |
+| Tanker | Suezmax | 87.1 | 84.6 | 3% | 86.1 | 83.2 | 78.7 |
+| Tanker | Aframax | 71.8 | 67.2 | 7% | 71.5 | 66.5 | 61.0 |
+| Tanker | Panamax | 60.2 | 56.9 | 6% | 59.0 | 56.1 | 52.7 |
+| Tanker | MR2 | 50.0 | 46.2 | 8% | 49.0 | 45.9 | 42.3 |
 
 *Above prices/trends refer to Chinese shipbuilding*
 *Above prices/trends refer to S. Korean shipbuilding*
+
+### Newbuilding Activity Commentary
+
+The highlight of this week’s newbuilding activity are the six 320,000 dwt VLOCs that Winning Shipping ordered in Hen- gli Hi Shipyard for USD 116 millions each and delivery from the second half of 2027 onwards. China Merchant and Ming Wah shipping companies have placed orders for Newcastlemaxes. Each company ordered two 210,000 dwt ves- sels from Qingdao Yangfan, scheduled for delivery at the end of 2027.In a separate deal, Quis Holding ordered two LR2 tanker vessels from Hengli Heavy Industries for USD 72.5 million each, with the option to buy two more. Addition- ally, EPS signed a contract with SWS for one LR2 tanker, with delivery date late 2026.
 
 ### Newbuilding Orders
 
@@ -205,16 +209,16 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 
 ### Indicative Demolition Scrap Prices ($/LDT)
 
-| Segment | Country | Price ($/LDT) |
-|---|---|---|
-| Bulkers | India | $530.0 |
-| Bulkers | Bangladesh | $525.0 |
-| Bulkers | Pakistan | $520.0 |
-| Bulkers | Turkey | $350.0 |
-| Tankers | India | $535.0 |
-| Tankers | Bangladesh | $535.0 |
-| Tankers | Pakistan | $530.0 |
-| Tankers | Turkey | $360.0 |
+| Segment | Country | Price ($/LDT) | Week 25 ($/LDT) |
+|---|---|---|---|
+| Bulkers | India | $530.0 | $530.0 |
+| Bulkers | Bangladesh | $525.0 | $525.0 |
+| Bulkers | Pakistan | $520.0 | $530.0 |
+| Bulkers | Turkey | $350.0 | $350.0 |
+| Tankers | India | $535.0 | $535.0 |
+| Tankers | Bangladesh | $535.0 | $535.0 |
+| Tankers | Pakistan | $530.0 | $540.0 |
+| Tankers | Turkey | $360.0 | $360.0 |
 
 ### Reported Demolition Sales
 

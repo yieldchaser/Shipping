@@ -202,16 +202,16 @@ On the VLCC sector, clients of ADNOC acquired the “OLYMPIC LEOPARD” - 319K/2
 
 ### Indicative Demolition Scrap Prices ($/LDT)
 
-| Segment | Country | Price ($/LDT) |
-|---|---|---|
-| Bulkers | India | $430.0 |
-| Bulkers | Bangladesh | $470.0 |
-| Bulkers | Pakistan | $480.0 |
-| Bulkers | Turkey | $270.0 |
-| Tankers | India | $450.0 |
-| Tankers | Bangladesh | $490.0 |
-| Tankers | Pakistan | $500.0 |
-| Tankers | Turkey | $280.0 |
+| Segment | Country | Price ($/LDT) | Week 33 ($/LDT) |
+|---|---|---|---|
+| Bulkers | India | $430.0 | $420.0 |
+| Bulkers | Bangladesh | $470.0 | $450.0 |
+| Bulkers | Pakistan | $480.0 | $455.0 |
+| Bulkers | Turkey | $270.0 | $270.0 |
+| Tankers | India | $450.0 | $440.0 |
+| Tankers | Bangladesh | $490.0 | $470.0 |
+| Tankers | Pakistan | $500.0 | $475.0 |
+| Tankers | Turkey | $280.0 | $280.0 |
 
 ### Reported Demolition Sales
 

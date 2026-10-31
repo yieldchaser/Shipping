@@ -98,7 +98,7 @@ Products: The LR2 route (TC1) Middle East to Ja- pan is this week higher by 28.9
 
 ### Indicative Newbuilding Prices ($ mills)
 
-| Sector | Vessel Type | Apr 2026 | Apr 2025 | ±% | Avg 2029 | Avg 2026 | Avg 2025 |
+| Sector | Vessel Type | Apr 2026 | Apr 2025 | ±% | Avg 2026 | Avg 2025 | Avg 2024 |
 |---|---|---|---|---|---|---|---|
 | Dry | Capesize | 75.0 | 74.9 | 0% | 74.6 | 74.2 | 73.2 |
 | Dry | Kamsarmax | 37.0 | 36.5 | 1% | 36.5 | 36.6 | 37.5 |
@@ -224,16 +224,16 @@ On the Suezmax sector, the “STENA SURPRISE” - 158K/2012 Sungdong was sold fo
 
 ### Indicative Demolition Scrap Prices ($/LDT)
 
-| Segment | Country | Price ($/LDT) |
-|---|---|---|
-| Bulkers | India | $390.0 |
-| Bulkers | Bangladesh | $410.0 |
-| Bulkers | Pakistan | $410.0 |
-| Bulkers | Turkey | $270.0 |
-| Tankers | India | $410.0 |
-| Tankers | Bangladesh | $430.0 |
-| Tankers | Pakistan | $430.0 |
-| Tankers | Turkey | $280.0 |
+| Segment | Country | Price ($/LDT) | Week 14 ($/LDT) |
+|---|---|---|---|
+| Bulkers | India | $390.0 | $390.0 |
+| Bulkers | Bangladesh | $410.0 | $410.0 |
+| Bulkers | Pakistan | $410.0 | $410.0 |
+| Bulkers | Turkey | $270.0 | $270.0 |
+| Tankers | India | $410.0 | $410.0 |
+| Tankers | Bangladesh | $430.0 | $430.0 |
+| Tankers | Pakistan | $430.0 | $430.0 |
+| Tankers | Turkey | $280.0 | $280.0 |
 
 ### Reported Demolition Sales
 

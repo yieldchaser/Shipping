@@ -209,16 +209,16 @@ The tanker S&P activity was focused on the VLCC sector this week, with 7 sales r
 
 ### Indicative Demolition Scrap Prices ($/LDT)
 
-| Segment | Country | Price ($/LDT) |
-|---|---|---|
-| Bulkers | India | $415.0 |
-| Bulkers | Bangladesh | $445.0 |
-| Bulkers | Pakistan | $435.0 |
-| Bulkers | Turkey | $270.0 |
-| Tankers | India | $435.0 |
-| Tankers | Bangladesh | $465.0 |
-| Tankers | Pakistan | $455.0 |
-| Tankers | Turkey | $280.0 |
+| Segment | Country | Price ($/LDT) | Week 30 ($/LDT) |
+|---|---|---|---|
+| Bulkers | India | $415.0 | $415.0 |
+| Bulkers | Bangladesh | $445.0 | $445.0 |
+| Bulkers | Pakistan | $435.0 | $435.0 |
+| Bulkers | Turkey | $270.0 | $270.0 |
+| Tankers | India | $435.0 | $435.0 |
+| Tankers | Bangladesh | $465.0 | $465.0 |
+| Tankers | Pakistan | $455.0 | $455.0 |
+| Tankers | Turkey | $280.0 | $280.0 |
 
 ### Reported Demolition Sales
 

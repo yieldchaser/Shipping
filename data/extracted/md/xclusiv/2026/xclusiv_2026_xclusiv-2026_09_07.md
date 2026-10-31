@@ -224,16 +224,16 @@ On the Suezmax sector, the “OCEAN START” - 158K/2005 Hyundai Heavy was sold 
 
 ### Indicative Demolition Scrap Prices ($/LDT)
 
-| Segment | Country | Price ($/LDT) |
-|---|---|---|
-| Bulkers | India | $450.0 |
-| Bulkers | Bangladesh | $470.0 |
-| Bulkers | Pakistan | $490.0 |
-| Bulkers | Turkey | $270.0 |
-| Tankers | India | $470.0 |
-| Tankers | Bangladesh | $490.0 |
-| Tankers | Pakistan | $510.0 |
-| Tankers | Turkey | $280.0 |
+| Segment | Country | Price ($/LDT) | Week 35 ($/LDT) |
+|---|---|---|---|
+| Bulkers | India | $450.0 | $450.0 |
+| Bulkers | Bangladesh | $470.0 | $490.0 |
+| Bulkers | Pakistan | $490.0 | $500.0 |
+| Bulkers | Turkey | $270.0 | $270.0 |
+| Tankers | India | $470.0 | $470.0 |
+| Tankers | Bangladesh | $490.0 | $510.0 |
+| Tankers | Pakistan | $510.0 | $520.0 |
+| Tankers | Turkey | $280.0 | $280.0 |
 
 ### Reported Demolition Sales
 

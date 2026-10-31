@@ -212,16 +212,16 @@ In VLCC sector there is only the old sale of “Seeb” - 319K/2011 Daewoo and �
 
 ### Indicative Demolition Scrap Prices ($/LDT)
 
-| Segment | Country | Price ($/LDT) |
-|---|---|---|
-| Bulkers | India | $460.0 |
-| Bulkers | Bangladesh | $495.0 |
-| Bulkers | Pakistan | $500.0 |
-| Bulkers | Turkey | $290.0 |
-| Tankers | India | $480.0 |
-| Tankers | Bangladesh | $515.0 |
-| Tankers | Pakistan | $520.0 |
-| Tankers | Turkey | $300.0 |
+| Segment | Country | Price ($/LDT) | Week 39 ($/LDT) |
+|---|---|---|---|
+| Bulkers | India | $460.0 | $460.0 |
+| Bulkers | Bangladesh | $495.0 | $495.0 |
+| Bulkers | Pakistan | $500.0 | $500.0 |
+| Bulkers | Turkey | $290.0 | $290.0 |
+| Tankers | India | $480.0 | $480.0 |
+| Tankers | Bangladesh | $515.0 | $515.0 |
+| Tankers | Pakistan | $520.0 | $520.0 |
+| Tankers | Turkey | $300.0 | $300.0 |
 
 ### Reported Demolition Sales
 

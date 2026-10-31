@@ -93,7 +93,7 @@ Products: The LR2 route (TC1) Middle East to Ja- pan is this week higher by 16.7
 
 ### Indicative Newbuilding Prices ($ mills)
 
-| Sector | Vessel Type | Sep 2026 | Sep 2025 | ±% | Avg 2029 | Avg 2026 | Avg 2025 |
+| Sector | Vessel Type | Sep 2026 | Sep 2025 | ±% | Avg 2026 | Avg 2025 | Avg 2024 |
 |---|---|---|---|---|---|---|---|
 | Dry | Capesize | 76.1 | 74.0 | 3% | 75.0 | 74.2 | 73.2 |
 | Dry | Kamsarmax | 38.5 | 36.3 | 6% | 37.3 | 36.6 | 37.5 |
@@ -215,16 +215,16 @@ The tanker S&P market saw significant activity this week, particularly in the VL
 
 ### Indicative Demolition Scrap Prices ($/LDT)
 
-| Segment | Country | Price ($/LDT) |
-|---|---|---|
-| Bulkers | India | $460.0 |
-| Bulkers | Bangladesh | $495.0 |
-| Bulkers | Pakistan | $500.0 |
-| Bulkers | Turkey | $290.0 |
-| Tankers | India | $480.0 |
-| Tankers | Bangladesh | $515.0 |
-| Tankers | Pakistan | $520.0 |
-| Tankers | Turkey | $300.0 |
+| Segment | Country | Price ($/LDT) | Week 38 ($/LDT) |
+|---|---|---|---|
+| Bulkers | India | $460.0 | $460.0 |
+| Bulkers | Bangladesh | $495.0 | $485.0 |
+| Bulkers | Pakistan | $500.0 | $490.0 |
+| Bulkers | Turkey | $290.0 | $280.0 |
+| Tankers | India | $480.0 | $480.0 |
+| Tankers | Bangladesh | $515.0 | $505.0 |
+| Tankers | Pakistan | $520.0 | $510.0 |
+| Tankers | Turkey | $300.0 | $290.0 |
 
 ### Reported Demolition Sales
 

@@ -12,7 +12,7 @@ editorial_title: "MARKET COMMENTARY:"
 sales_count: 24
 demo_sales_count: 3
 secondhand_prices_count: 32
-newbuilding_prices_count: 2
+newbuilding_prices_count: 9
 demolition_prices_count: 8
 baltic_indices_count: 7
 ---
@@ -92,10 +92,21 @@ Products: The LR2 route (TC1) M.East to Japan is this week lower by 21k/day at U
 
 ### Indicative Newbuilding Prices ($ mills)
 
-| Sector | Vessel Type | Price ($M) |
-|---|---|---|
-| Tanker | VLCC | $70.0M |
-| Tanker | Suezmax | $47.0M |
+| Sector | Vessel Type | Feb 2024 | Feb 2023 | ±% | Avg 2024 | Avg 2023 | Avg 2022 |
+|---|---|---|---|---|---|---|---|
+| Dry | Capesize | 67.4 | 60.5 | 11% | 67.3 | 63.0 | 62.5 |
+| Dry | Kamsarmax | 36.0 | 33.8 | 7% | 36.0 | 34.9 | 36.4 |
+| Dry | Ultramax | 33.6 | 31.5 | 7% | 33.6 | 32.8 | 33.4 |
+| Dry | Handysize | 31.6 | 29.2 | 8% | 31.6 | 30.3 | 30.3 |
+| Tanker | VLCC | 127.8 | 120.0 | 7% | 127.7 | 124.2 | 117.2 |
+| Tanker | Suezmax | 85.0 | 80.3 | 6% | 85.0 | 83.2 | 78.7 |
+| Tanker | Aframax | 69.8 | 62.5 | 12% | 69.8 | 66.5 | 61.0 |
+| Tanker | Panamax | 57.6 | 54.0 | 7% | 57.6 | 56.1 | 52.7 |
+| Tanker | MR2 | 47.3 | 44.1 | 7% | 47.3 | 45.9 | 42.3 |
+
+### Newbuilding Activity Commentary
+
+VLCCs dominated newbuilding activity. Clients of Evalend ordered one pair of scrubber-fitted VLCCs from Hanwha Ocean for USD 128.1 million each, scheduled for delivery at the end of 2026. Additionally, Seatankers placed an order for six VLCCs with an option for two more from Dalian Shipbuilding, with deliveries staggered from Q3 2026 to Q2 2027. Evalend also ordered two 83,000 CBM VLACs from HHI at USD 121 million each, with deliveries scheduled be- tween Q4 2026 and Q1 2027. Seacon placed an order for four 18,500 DWT product/chemical tankers from Fujian Southeast Shipbuilding, with each methanol-ready vessel costing around USD 32.3 million and deliveries set for late 2025 to early 2026.
 
 ### Newbuilding Orders
 
@@ -206,16 +217,16 @@ NAME DWT YEAR COUNTRY YARD BUYERS PRICE ($ mills) COMMENTS
 
 ### Indicative Demolition Scrap Prices ($/LDT)
 
-| Segment | Country | Price ($/LDT) |
-|---|---|---|
-| Bulkers | India | $520.0 |
-| Bulkers | Bangladesh | $530.0 |
-| Bulkers | Pakistan | $525.0 |
-| Bulkers | Turkey | $370.0 |
-| Tankers | India | $525.0 |
-| Tankers | Bangladesh | $540.0 |
-| Tankers | Pakistan | $535.0 |
-| Tankers | Turkey | $380.0 |
+| Segment | Country | Price ($/LDT) | Week 7 ($/LDT) |
+|---|---|---|---|
+| Bulkers | India | $520.0 | $515.0 |
+| Bulkers | Bangladesh | $530.0 | $530.0 |
+| Bulkers | Pakistan | $525.0 | $525.0 |
+| Bulkers | Turkey | $370.0 | $375.0 |
+| Tankers | India | $525.0 | $520.0 |
+| Tankers | Bangladesh | $540.0 | $540.0 |
+| Tankers | Pakistan | $535.0 | $535.0 |
+| Tankers | Turkey | $380.0 | $385.0 |
 
 ### Reported Demolition Sales
 

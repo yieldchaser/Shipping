@@ -1,7 +1,7 @@
 {
   "schema": "parse_engine/v1",
   "issue_date": "2023-01-30",
-  "report_week": 5,
+  "report_week": 4,
   "source_file": "corpus/01-brokers/xclusiv/2023/xclusiv_2023_xclusiv_weekly_2023_01_30.pdf",
   "source_sha256": "6b608829cad12a03f3705ef3ef78ba2ffe6a0dc603b3d92fc0e711739b762261",
   "sales_count": 0,
