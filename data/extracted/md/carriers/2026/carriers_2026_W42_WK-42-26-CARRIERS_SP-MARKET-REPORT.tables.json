@@ -12,7 +12,7 @@
     "sales": 23,
     "demolition": 1,
     "newbuilding": 1,
-    "bspa": 6,
+    "bspa": 7,
     "bda": 3,
     "indices": 14,
     "weighted_routes": 5,
@@ -433,6 +433,17 @@
         "size_dwt": 305000,
         "price_usd_m": 205.911,
         "price_raw": "205.911",
+        "sentiment_arrow": "UP",
+        "source_file": "carriers_2026_W42_WK-42-26-CARRIERS_SP-MARKET-REPORT.pdf"
+      },
+      {
+        "issue_date": "2026-10-19",
+        "report_week": 42,
+        "sector": "Tankers",
+        "vessel_class": "Suezmax",
+        "size_dwt": 158000,
+        "price_usd_m": 128.384,
+        "price_raw": "128.384",
         "sentiment_arrow": "UP",
         "source_file": "carriers_2026_W42_WK-42-26-CARRIERS_SP-MARKET-REPORT.pdf"
       },

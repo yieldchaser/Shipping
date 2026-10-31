@@ -59,11 +59,13 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W43_WK-43-26-CARRIERS_SP-
 | Sector | Vessel Class | Size (DWT) | Price ($M) | Sentiment |
 | --- | --- | --- | --- | --- |
 | Tankers | Vlcc | 305000 | 208.233 | UP |
+| Tankers | Suezmax | 158000 | 130.889 | UP |
 | Tankers | Aframax | 115000 | 98.568 | UP |
 | Tankers | Mr Product | 51000 | 52.388 | UP |
 | Bulkers | Capesize | 180000 | 74.986 | UP |
 | Bulkers | Panamax | 82500 | 41.869 | UP |
 | Bulkers | Ultramax | 63500 | 39.032 | UP |
+| Bulkers | Handysize | 38200 | 30.935 | DOWN |
 
 ## BDA Baltic Demolition Assessments
 

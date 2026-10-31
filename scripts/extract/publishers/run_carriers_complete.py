@@ -678,7 +678,8 @@ def extract_bspa_and_bda(
         # BSPA: left side (x < 280)
         ln_bspa = [w for w in ln if w[0] < 280]
         b_str = " ".join(w[4] for w in ln_bspa)
-        for vc in ["VLCC", "AFRAMAX", "MR PRODUCT", "CAPESIZE", "PANAMAX", "ULTRAMAX", "SUPRAMAX"]:
+        # 2026 W42+ add SUEZMAX and HANDYSIZE rows to the box
+        for vc in ["VLCC", "SUEZMAX", "AFRAMAX", "MR PRODUCT", "CAPESIZE", "PANAMAX", "ULTRAMAX", "SUPRAMAX", "HANDYSIZE"]:
             if vc in b_str.upper():
                 nums = re.findall(r"\d+(?:\.\d+)?", b_str)
                 size = None
@@ -691,7 +692,7 @@ def extract_bspa_and_bda(
                         price, price_raw = f, n  # keep the printed token ('25.400')
                 if size or price:
                     arrow = line_sentiment(arrows, ln_bspa, 0, 280) or "STEADY"
-                    sector = "Tankers" if vc in ["VLCC", "AFRAMAX", "MR PRODUCT"] else "Bulkers"
+                    sector = "Tankers" if vc in ["VLCC", "SUEZMAX", "AFRAMAX", "MR PRODUCT"] else "Bulkers"
                     bspa_recs.append({
                         "issue_date": issue_date,
                         "report_week": report_week,

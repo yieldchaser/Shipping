@@ -54,6 +54,18 @@ class TestSentimentByColour(unittest.TestCase):
         self.assertEqual((bspa[0]["price_raw"], bspa[0]["sentiment_arrow"]), ("96.42", "DOWN"))
         self.assertEqual(bda[0]["sentiment_arrow"], "UP")
 
+    def test_bspa_rows_added_in_2026_w42(self):
+        page = pymupdf.open().new_page(width=595, height=842)
+        for y, (cls, size, price, colour) in ((100, ("SUEZMAX", "158000", "130.889", GREEN)),
+                                              (112, ("HANDYSIZE", "38200", "30.935", RED))):
+            put(page, 45, y, cls)
+            put(page, 150, y, size)
+            put(page, 200, y, price)
+            arrow(page, 235, y, colour)
+        bspa, _ = rcc.extract_bspa_and_bda(page, 90, 120, "2026-10-26", 43, "x.pdf")
+        self.assertEqual([(b["sector"], b["vessel_class"], b["size_dwt"], b["price_raw"], b["sentiment_arrow"]) for b in bspa],
+                         [("Tankers", "Suezmax", 158000, "130.889", "UP"), ("Bulkers", "Handysize", 38200, "30.935", "DOWN")])
+
     def test_two_index_boxes_on_one_line(self):
         page = pymupdf.open().new_page(width=595, height=842)
         put(page, 62, 100, "DSPA")

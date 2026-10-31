@@ -57,6 +57,7 @@ source: `corpus/01-brokers/carriers/2026/carriers_2026_W42_WK-42-26-CARRIERS_SP-
 | Sector | Vessel Class | Size (DWT) | Price ($M) | Sentiment |
 | --- | --- | --- | --- | --- |
 | Tankers | Vlcc | 305000 | 205.911 | UP |
+| Tankers | Suezmax | 158000 | 128.384 | UP |
 | Tankers | Aframax | 115000 | 95.317 | UP |
 | Tankers | Mr Product | 51000 | 51.851 | UP |
 | Bulkers | Capesize | 180000 | 74.396 | UP |

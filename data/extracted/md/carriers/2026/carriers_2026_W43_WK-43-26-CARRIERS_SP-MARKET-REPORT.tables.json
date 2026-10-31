@@ -12,7 +12,7 @@
     "sales": 23,
     "demolition": 1,
     "newbuilding": 3,
-    "bspa": 6,
+    "bspa": 8,
     "bda": 3,
     "indices": 14,
     "weighted_routes": 5,
@@ -470,6 +470,17 @@
         "issue_date": "2026-10-26",
         "report_week": 43,
         "sector": "Tankers",
+        "vessel_class": "Suezmax",
+        "size_dwt": 158000,
+        "price_usd_m": 130.889,
+        "price_raw": "130.889",
+        "sentiment_arrow": "UP",
+        "source_file": "carriers_2026_W43_WK-43-26-CARRIERS_SP-MARKET-REPORT.pdf"
+      },
+      {
+        "issue_date": "2026-10-26",
+        "report_week": 43,
+        "sector": "Tankers",
         "vessel_class": "Aframax",
         "size_dwt": 115000,
         "price_usd_m": 98.568,
@@ -519,6 +530,17 @@
         "price_usd_m": 39.032,
         "price_raw": "39.032",
         "sentiment_arrow": "UP",
+        "source_file": "carriers_2026_W43_WK-43-26-CARRIERS_SP-MARKET-REPORT.pdf"
+      },
+      {
+        "issue_date": "2026-10-26",
+        "report_week": 43,
+        "sector": "Bulkers",
+        "vessel_class": "Handysize",
+        "size_dwt": 38200,
+        "price_usd_m": 30.935,
+        "price_raw": "30.935",
+        "sentiment_arrow": "DOWN",
         "source_file": "carriers_2026_W43_WK-43-26-CARRIERS_SP-MARKET-REPORT.pdf"
       }
     ],
