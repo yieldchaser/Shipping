@@ -28,7 +28,25 @@ The modern vessel in our example saves 7 tons/day in laden condition compared to
 
 On the round trip, the fuel efficient vessel saves $116,200 in fuel with current prices and $151,500 in the higher price environment compared to the 2007 built vessel. This represents savings of $2,179/day in time charter equivalent (TCE) at current bunker prices and $2,839 at 2014H1 bunker prices.
 
-In order to improve TCE, owners have made operational adjustments by slow steaming during the ballast leg of the voyages, and during the laden leg where it was permitted in the charter party. This helps the owners by 2007 VLCC 2013 VLCC Difference Laden Speed 13 Kn 13 Kn Ballast Speed 11 Kn 11 Kn Laden Consumption 72 MT 65 MT Ballast Consumption 40 MT 36 MT WS Rate 55.0 55.0 TCE @ $460/MT 48,001 50,180 2,179 TCE @ $609/MT 40,635 43,474 2,839 improving the economics on individual voyages as the fuel cost savings more than offset the longer steaming time when the market is low. An added benefit is that slow steaming reduces the efficiency or the fleet as more vessels are needed to move the same volume of cargo.
+In order to improve TCE, owners have made operational adjustments by slow steaming during the ballast leg of the voyages, and during the laden leg where it was permitted in the charter party. This helps the owners by
+
+esv
+
+*Chart: Fig. 1 Bunker Prices in Fujairah 2004-2014*
+
+*Source: LQM*
+
+|  | 2007 VLCC | 2013 VLCC | Difference |
+| --- | --- | --- | --- |
+| Laden Speed | 13 Kn | 13 Kn |  |
+| Ballast Speed | 11 Kn | 11 Kn |  |
+| Laden Consumption | 72 MT | 65 MT |  |
+| Ballast Consumption | 40 MT | 36 MT |  |
+| WS Rate | 55.0 | 55.0 |  |
+| TCE @ $460/MT | 48,001 | 50,180 | 2,179 |
+| TCE @ $609/MT | 40,635 | 43,474 | 2,839 |
+
+improving the economics on individual voyages as the fuel cost savings more than offset the longer steaming time when the market is low. An added benefit is that slow steaming reduces the efficiency or the fleet as more vessels are needed to move the same volume of cargo.
 
 Earlier in the year, when the rates were lower, slow steaming made more sense as the additional revenue that could be earned during the additional 3.9 ballasting days was lower than the fuel savings. At current market rates and lower bunker prices, this situation has shifted. At least for the vessel and voyage combination in our example, increasing the ballast speed could prove to be beneficial. The situation could be different for other vessels and voyages, but it makes the case for owners to run the numbers.
 

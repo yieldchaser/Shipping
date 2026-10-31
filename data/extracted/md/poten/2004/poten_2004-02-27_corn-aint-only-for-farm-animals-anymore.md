@@ -14,6 +14,8 @@ charts_count: 1
 
 # Corn Ain't Only for Farm Animals Anymore
 
+### February 27, 2004
+
 Laws in 17 US states enacted during the past four years and expected to be implemented through 2006 require the oil industry to add ethanol, a corn-based substance to gasoline in lieu of methyl tertiary butyl ether or MTBE. The net effect of this change will be increased reliance on imported gasoline this summer and beyond. The federal government is subsidizing what amounts to moonshine-fueled vehicles for 53 cents per gallon of ethanol. That subsidy will cost US taxpayers about $2 billion a year. Critics of this subsidy contend that ethanol actually takes more energy to produce than it creates. The law of unintended consequences would suggest that this subsidy benefits oil companies because it increases the demand for energy!
 
 ### How Does This Affect the Gasoline Chain?
@@ -22,21 +24,29 @@ The additive has little benefit for coastal refineries in the way of delivery si
 
 ### More Volatile than MTBE-blended Gas
 
-Ethanol is more volatile than MTBE and releases more photo reactive compounds into the earth's atmosphere that contribute to smog. Gasoline blended with MTBE also contains lighter compounds found at the top of a crude oil barrel. The problem affecting gasoline production in US refineries with regard to ethanol is that these lighter compounds cannot be used with ethanol at all due to the high level of volatility this mixture creates. This reduces the overall volume of gasoline that can be produced in the United States and will push up US reliance on imports of base gasoline.
+Ethanol is more volatile than MTBE and releases more photo reactive compounds into the earth’s atmosphere that contribute to smog. Gasoline blended with MTBE also contains lighter compounds found at the top of a crude oil barrel. The problem affecting gasoline production in US refineries with regard to ethanol is that these lighter compounds cannot be used with ethanol at all due to the high level of volatility this mixture creates. This reduces the overall volume of gasoline that can be produced in the United States and will push up US reliance on imports of base gasoline.
 
-### Let's Look at the Facts
+### Let’s Look at the Facts
 
-There is no question that the United States' thirst for gasoline has incrementally risen during the past 20 years, along with its vehicle purchases. The following graph shows the increase in the population of gas- guzzling SUVs and automobiles.
+There is no question that the United States’ thirst for gasoline has incrementally risen during the past 20 years, along with its vehicle purchases. The following graph shows the increase in the population of gas-guzzling SUVs and automobiles.
+
+*Chart: Number of Vehicles in US*
 
 With less fuel-efficient vehicles making up a larger portion of the vehicle population, gasoline consumption has risen by 200,000 bpd per year, on average, during the last three years.
 
+*Chart: US Gasoline Consumption*
+
 While US imports have risen on average by 50,000 bpd per year as seen in the graph below.
+
+*Chart: US Gasoline Imports*
 
 When considered only in summer months, consumption has dramatically increased from 8.8 million bpd in 2000 to 9.1 million bpd last summer, as seen in the graph below.
 
+*Chart: US Gasoline Consumption in Summer Months*
+
 ### Conclusion
 
-If ethanol use spreads further across the US, domestic production of gasoline will be adversely affected because refinery capacity is not being built and the volume of gasoline throughput is limited by ethanol's compounds. At the very least, this coming summer driving season will be a good litmus test as to how the use of ethanol will affect gasoline imports. We expect significantly increased exports from Europe - just in time to absorb the incremental increase in the supply of product tankers.
+If ethanol use spreads further across the US, domestic production of gasoline will be adversely affected because refinery capacity is not being built and the volume of gasoline throughput is limited by ethanol’s compounds. At the very least, this coming summer driving season will be a good litmus test as to how the use of ethanol will affect gasoline imports. We expect significantly increased exports from Europe - just in time to absorb the incremental increase in the supply of product tankers.
 
 ## Market Exhibits & Charts
 

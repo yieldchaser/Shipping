@@ -14,69 +14,55 @@ charts_count: 1
 
 # Curb Your Enthusiasm
 
-### Some owners aggressively advocating targeted newbuildings
+The shipping industry has been working the conference circuit in the New York metropolitan area this week, and some of the heavier hitters have not hesitated to offer Some owners strong opinions about the direction in which tanker ordering should be headed. They aggressively advocating varied across the spectrum of course, but there was no shortage of advocates of viewing targeted newbuildings the current earnings environment as an opportunity to purchase new vessels in anticipation of a future rate recovery. Many owners, relying on sometimes generations’ worth of experience, are confident of the inevitability of substantial future rate increases and are determined not to miss the boat. When viewing rate distributions over a longer time horizon – since the start of the century for instance – it is easy to see why this conclusion is drawn. The current rate backdrop could suggest little risk and significant upside when taken in that context.
 
-The shipping industry has been working the conference circuit in the New York metropolitan area this week, and some of the heavier hitters have not hesitated to offer strong opinions about the direction in which tanker ordering should be headed. They varied across the spectrum of course, but there was no shortage of advocates of viewing the current earnings environment as an opportunity to purchase new vessels in anticipation of a future rate recovery.
+*Chart: Suezmax Spot Rate Distributions*
 
-Longer-term rate distribution would suggest only room for rates to rise...
+### Longer-term rate distribution would suggest only room for rates to rise…
 
-...but is this distribution indicative of the future?
+Source: Poten
 
-Many owners, relying on sometimes generations' worth of experience, are confident of the inevitability of substantial future rate increases and are determined not to miss the boat. When viewing rate distributions over a longer time horizon - since the start of the century for instance - it is easy to see why this conclusion is drawn. The current rate backdrop could suggest little risk and significant upside when taken in that context.
+Although the above example refers specifically to Suezmaxes, these sorts of distributions are common across dirty tanker sectors. The distributions skew to the right …but is this distribution as they are bound on the low end by marginal cost and coupled with a lower frequency, indicative of the future?
 
-### Suezmax Spot Rate Distributions
+but highly profitable tail. Spare shipyard capacity paired with a capital markets sector that may view an uptick in rates as a signal that is safe to lend again would cut into the tail, though, while also shortening any recovery in rates. It is our view that the range of the distribution in today’s environment, and in the next upturn, is narrower than in past cycles. While capital markets have predictably retrenched, the shipping community is currently Reluctance of financial divided into a world of “haves” and “have nots.” In the West, owners with access are markets helped to mainly those whose major maturities are farther out into the future and therefore eventually slow the perceived to be able to survive the current prolonged earnings slump. Product tankers bleeding are also currently in favor of equity markets on the view that they are in a position to take advantage of increasingly complex and dynamic product trade routes.
 
-### Daily Assessment, 2000-present
+*Chart: Top 40 Bank Lending to Shipping Industry*
 
-### Relative Frequency
+*Source: Petrofin Research*
 
-TD5 TD6 CAR/USG Although the above example refers specifically to Suezmaxes, these sorts of distributions are common across dirty tanker sectors. The distributions skew to the right as they are bound on the low end by marginal cost and coupled with a lower frequency, but highly profitable tail. Spare shipyard capacity paired with a capital markets sector that may view an uptick in rates as a signal that is safe to lend again would cut into the Reluctance of financial markets helped to eventually slow the bleeding Lending portfolio from largest traditional players has fallen considerably Are Eastern lending options being overlooked when considering the velocity of a recovery in orders?
+### Lending portfolio from largest traditional players has fallen considerably
 
-tail, though, while also shortening any recovery in rates. It is our view that the range of the distribution in today's environment, and in the next upturn, is narrower than in past cycles.
+However, the wild card is the role of Asian sources of capital, specifically those that are Are Eastern lending state-backed and have domestic policy agendas (see 1 March 2013 Opinion). Financiers options being in the Middle East have played more pronounced roles in lending to the space as well. It overlooked when was announced earlier this week that Bahri was able to structure sukuk to refinance its considering the velocity recent $1.3 billion purchase of Vela’s fleet by turning to financial markets in Saudi of a recovery in orders?
 
-While capital markets have predictably retrenched, the shipping community is currently divided into a world of "haves" and "have nots." In the West, owners with access are mainly those whose major maturities are farther out into the future and therefore perceived to be able to survive the current prolonged earnings slump. Product tankers are also currently in favor of equity markets on the view that they are in a position to take advantage of increasingly complex and dynamic product trade routes.
+Arabia. Not surprisingly, a significant part of dirty orderbooks are currently slated to go to Asian and Middle Eastern owners. Much of the aforementioned Eastern sources of lending are perceived to be nationalistic and largely unavailable to Western owners.
 
-### Top 40 Bank Lending to Shipping Industry
+VLCCs largely heading to Eastern owners
 
-### Annual Estimate
+It did not take much to incite ordering in 2010
 
-### $ bn
+### VLCC Orderbook
 
-However, the wild card is the role of Asian sources of capital, specifically those that are state-backed and have domestic policy agendas (see 1 March 2013 Opinion). Financiers in the Middle East have played more pronounced roles in lending to the space as well. It was announced earlier this week that Bahri was able to structure sukuk to refinance its recent $1.3 billion purchase of Vela's fleet by turning to financial markets in Saudi Arabia.
+by Currently Listed Owner Nationality
 
-Not surprisingly, a significant part of dirty orderbooks are currently slated to go to Asian and Middle Eastern owners. Much of the aforementioned Eastern sources of lending are perceived to be nationalistic and largely unavailable to Western owners.
+*Chart*
 
-VLCCs largely heading to Eastern owners It did not take much to incite ordering in 2010
+Source: Poten
 
-### Earnings per Day (000s)
+The concern from an owner’s perspective should be that when there is access to capital, signs of even slight rate improvement can unnecessarily spur ordering. Ordering in 2010 that was brought about in response to a rate recovery early in that year was particularly egregious.
 
-Asia/Middle East Other
+*Chart: VLCC Time Charter Rates v. Orderbook*
 
-### Monthly Data, 2008-present
-
-### Vessel Count
-
-The concern from an owner's perspective should be that when there is access to capital, signs of even slight rate improvement can unnecessarily spur ordering. Ordering in 2010 that was brought about in response to a rate recovery early in that year was particularly egregious.
+Source: Poten
 
 The developed world, not only coping with shifts in demography, is also increasingly prioritizing environmental protection and energy efficiency. This leads to slowing increases in global oil demand relative to macroeconomic growth. Europe and, to a lesser extent, the United States are cases in point. ExxonMobil noted in their recently released Outlook for Energy that energy intensity is expected to fall precipitously in those areas, and even to stabilize across Asia. While this phenomenon should not be a major factor in the current rate cycle, the industry should consider that potential growth on the demand side is not unlimited and slows as countries mature.
 
-Oil per capita demand growth slows as countries modernize Upside of rates overstated by many
+*Chart: Regional Income vs. Oil Demand*
 
-### Regional Income vs. Oil Demand
+*Sources: IEA, IMF, Poten*
 
-### Annual Data, 2011
+### Oil per capita demand growth slows as countries modernize
 
-### R² = 0.7416
-
-### Oil Demand per Capita (bbls)
-
-$0 $10,000 $20,000 $30,000 $40,000
-
-### Per Capita Income
-
-### Sources: IEA, IMF, Poten
-
-All sectors are not created equal and there may well be speculative opportunities moving forward. Rates do not have much room to fall as they appear to have largely found a support level over the past few years. Purchases by oil majors, charterers, and trading companies seem reasonable right now for this reason. There are furthermore limited opportunities for owners to replace older vessels with newbuilds, back them with long-term time charters, and come out above breakeven levels. From a speculative perspective, however, this does not mean that any recovery will be particularly pronounced or as lucrative as some have suggested Capital markets are frequently the correcting mechanism for other markets that are out of balance. The pullback by traditional lenders has in fact helped rates reach aforementioned support levels. Prudent restraint in ordering across dirty sectors will continue to be critical in order for any kind of meaningful and prolonged rate recovery. Spare yard capacity and the willingness of state-backed and non-traditional sources of capital to be in the space leads us to believe that any recovery will be short and muted when compared to rallies of years' past.
+All sectors are not created equal and there may well be speculative opportunities moving forward. Rates do not have much room to fall as they appear to have largely found a support level over the past few years. Purchases by oil majors, charterers, and trading companies seem reasonable right now for this reason. There are furthermore limited opportunities for owners to replace older vessels with newbuilds, back them with long-term time charters, and come out above breakeven levels. From a speculative perspective, however, this does not mean that any recovery will be particularly pronounced or as lucrative as some have suggested Upside of rates overstated by many Capital markets are frequently the correcting mechanism for other markets that are out of balance. The pullback by traditional lenders has in fact helped rates reach aforementioned support levels. Prudent restraint in ordering across dirty sectors will continue to be critical in order for any kind of meaningful and prolonged rate recovery. Spare yard capacity and the willingness of state-backed and non-traditional sources of capital to be in the space leads us to believe that any recovery will be short and muted when compared to rallies of years’ past.
 
 ## Market Exhibits & Charts
 

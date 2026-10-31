@@ -14,15 +14,11 @@ charts_count: 1
 
 # Happy Thanksgiving!
 
-It's a nice tradition to take a day off with the intent of counting all that we should be thankful for. This year, as clearly shown below in freight rates and tanker stock prices we can be thankful for:
+It’s a nice tradition to take a day off with the intent of counting all that we should be thankful for. This year, as clearly shown below in freight rates and tanker stock prices we can be thankful for:
 
-### PTI vs Lazard Index
+*Chart: PTI vs Lazard Index*
 
-### Poten Freight Index
-
-### Lazard Equity Index
-
-Jan-2002 Jun-2002 Dec-2002 Jun-2003 Dec-2003 May-2004 Nov-2004 A record-breaking tanker market with rates at all time highs.
+A record-breaking tanker market with rates at all time highs.
 
 A strong year for the downstream side of the oil business with a goodly spread between the prices of refined products and crude oil costs.
 
@@ -32,11 +28,9 @@ The economies of China and India for continued expansion.
 
 Traders doing wonders with arbitrages adding to the volume of cargoes moving about, further increasing tanker demand.
 
-Tanker company stock prices at all time highs reflecting investors' belief that consistent earnings and solid dividends are something that should be rewarded.
+Tanker company stock prices at all time highs reflecting investors’ belief that consistent earnings and solid dividends are something that should be rewarded.
 
-### To All Our Friends, We Wish You the Very Best
-
-### On This Thanksgiving Day
+To All Our Friends, We Wish You the Very Best On This Thanksgiving Day
 
 ## Market Exhibits & Charts
 

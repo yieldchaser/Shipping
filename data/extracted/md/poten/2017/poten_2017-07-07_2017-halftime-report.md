@@ -14,15 +14,19 @@ charts_count: 3
 
 # 2017 Halftime Report
 
-### Top Reported Dirty Spot Charterers for the first half of 2017* Reported % of Total 2017 YTD Total Cargo Dirty 2016 Rank 2017 Rank Charterer (MT 000's) Cargoes Fixtures
+### Top Reported Dirty Spot Charterers for the first half of 2017*
 
-Top Reported Dirty Spot Charterers for the first half of 2017* Now that the 4th of July Holiday in the U.S. is behind us, it is time to make up the balance for the first half of the year. It was hard to get excited about the spot rates during the first six months, but the focus here is on the spot fixture volumes*.
+Now that the 4th of July Holiday in the U.S. is behind us, it is time to make up the balance for the first half of the year. It was hard to get excited about the spot rates during the first six months, but the focus here is on the spot fixture volumes*.
 
-In the VLCC segment, Unipec continues to be in a league of its own. In the first half of 2017, we counted 285 reported fixtures for the Chinese charterer, 32 more than over the same period in 2016. The top four VLCC charterers are based either in China or in India. However, while both of the large Chinese charterers logged more fixtures than in 2016, the Indian charterers remained roughly at last year's level. The total number of reported VLCC spot fixtures increased from 981 in 2016 to 1,133 this year.
+*Chart*
+
+In the VLCC segment, Unipec continues to be in a league of its own. In the first half of 2017, we counted 285 reported fixtures for the Chinese charterer, 32 more than over the same period in 2016. The top four VLCC charterers are based either in China or in India. However, while both of the large Chinese charterers logged more fixtures than in 2016, the Indian charterers remained roughly at last year’s level. The total number of reported VLCC spot fixtures increased from 981 in 2016 to 1,133 this year.
+
+*Chart*
 
 Chevron was the largest Suezmax charterer in the first half of the year, just like they were last year, followed again by Repsol. Shell moved up to third, replacing Unipec, who fell out of the top 10 this year. The top four charterers all increased their number of spot fixtures compared to last year. In contrast to the VLCC market which is dominated by Asian charterers, the Suezmax market is still controlled by Western charterers, even though the Pacific Suezmax trades are gaining on the Atlantic. The total number of reported Suezmax fixtures in the first half of 2017 also increased: from 1,176 to 1,322.
 
-| Rank | Charterer | Reported Total Cargo (MT 000s) | % of Total Dirty Cargoes | Prev Rank | Fixtures |
+| 2017 YTD Rank | Charterer | Reported Total Cargo (MT 000's) | % of Total Dirty Cargoes | 2016 Rank | 2017 Fixtures |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Unipec | 88,805 | 13.0% | 1 | 425 |
 | 2 | Shell | 37,934 | 5.5% | 2 | 317 |
@@ -44,10 +48,17 @@ Chevron was the largest Suezmax charterer in the first half of the year, just li
 | 18 | Petrobras | 10,155 | 1.5% | 19 | 69 |
 | 19 | GS Caltex | 8,560 | 1.3% | 18 | 39 |
 | 20 | BPCL | 8,068 | 1.2% | 21 | 65 |
+|  | Top 20 | 435,484 | 66.7% |  | 3,306 |
+|  | Others | 248,350 | 33.3% |  | 2,061 |
+|  | Total | 683,834 | 100.0% |  | 5,367 |
+
+*Chart*
+
+*Source: Poten & Partners*
 
 Vitol remained the largest spot Aframax charterer, but behind them the spots have reshuffled, even though the players are the same as last year. Shell moved up two spots displacing Glencore from the runner up position. Lukoil moved up from seventh to fourth in the ranking. The total number of reported Aframax spot fixtures during the first half declined by 40 to 2,085.
 
-* The above report has been assembled from market intelligence and reported spot market activity. As such, it may not provide a complete picture of the market due to the private nature of many spot market fixtures.
+\* The above report has been assembled from market intelligence and reported spot market activity. As such, it may not provide a complete picture of the market due to the private nature of many spot market fixtures.
 
 ## Market Exhibits & Charts
 

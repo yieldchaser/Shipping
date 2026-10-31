@@ -14,41 +14,21 @@ charts_count: 2
 
 # OPEC Quotas: Staying Steady
 
-On the eve of this Monday's OPEC meeting, some speculation remains as to whether production quotas will officially change. Despite record crude prices, the past twelve months have seen steady quota levels and the results of this meeting are not expected to buck the trend. Changes in the political climates in these producing countries have recently proven to be far more influential on actual production than the official OPEC quota system. Revisions to quota levels today serve more as an expression of member countries' sentiments regarding global crude oil demand rather than a pricing mechanism.
+On the eve of this Monday’s OPEC meeting, some speculation remains as to whether production quotas will officially change. Despite record crude prices, the past twelve months have seen steady quota levels and the results of this meeting are not expected to buck the trend. Changes in the political climates in these producing countries have recently proven to be far more influential on actual production than the official OPEC quota system. Revisions to quota levels today serve more as an expression of member countries’ sentiments regarding global crude oil demand rather than a pricing mechanism.
 
-### (Bbl/day)
+*Chart*
 
-### Nov-05
+**OPEC 10 Crude Production**
 
-### Jan-06
+**OPEC Quota**
 
-### Jun-06
-
-### Feb-06
-
-### Mar-06
-
-### Dec-05
-
-### Sep-05
-
-### Jul-06
-
-### Jul-05
-
-### Aug-05
-
-### Apr-06
-
-### May-06
-
-### Oct-05
-
-OPEC 10 Crude Production OPEC Quota Poten & Partners | new york • london • athens • perth • hong kong • guangzhou 1 The graph on the previous page shows the total OPEC crude production level as compared to the official quota level. The quota has remained steady at 28 million barrels per day for the past year, but overall production has been below this level recently. Last month, the OPEC 10 crude oil production was reported by the EIA to be 27.3 million barrels per day.
+The graph on the previous page shows the total OPEC crude production level as compared to the official quota level. The quota has remained steady at 28 million barrels per day for the past year, but overall production has been below this level recently. Last month, the OPEC 10 crude oil production was reported by the EIA to be 27.3 million barrels per day.
 
 ### Under or Over
 
 The below-quota output is due in part to the fact that countries are not currently able to reach quota levels and spare capacity is limited. The map below shows the total amount of crude oil produced in July 2006, versus their OPEC quotas. Venezuela, Nigeria, Indonesia and Iran are currently producing under their quotas, while the other nations are compensating and producing more.
+
+*Chart*
 
 Indonesia has experienced declining output over the past month to around 890,000 bbl per day. Venezuela and Nigeria have experienced unplanned supply disruptions. It appears that Indonesia will continue to experience an overall decline as little new production comes on line and fields mature. Nigeria has bright prospects in terms of production capacity and reserves but remains hindered by political turmoil.
 

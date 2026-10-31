@@ -14,27 +14,25 @@ charts_count: 2
 
 # A Broken Record
 
-st, also known as April Fool's Day, the United States House of Representatives' Select Committee on Energy Independence and Global Warming hosted executives from ExxonMobil, Shell, Chevron, ConocoPhillips, and BP. The goal was yet again to interrogate these big five integrated oil majors regarding the causes of gasoline prices that, as the graph below shows, have reached $3.29 per gallon (WTI crude has fluctuated between $100 and $110 for much of the last month). While this session did little to lower consumers' transportation costs, it did show that some lawmakers may be unfamiliar with the oil and gas business, especially via some of the suggested measures to lower voters' gasoline prices.
+st, also known as April Fool’s Day, the United On Tuesday April 1 States House of Representatives’ Select Committee on Energy Independence and Global Warming hosted executives from ExxonMobil, Shell, Chevron, ConocoPhillips, and BP. The goal was yet again to interrogate these big five integrated oil majors regarding the causes of gasoline prices that, as the graph below shows, have reached $3.29 per gallon (WTI crude has fluctuated between $100 and $110 for much of the last month). While this session did little to lower consumers’ transportation costs, it did show that some lawmakers may be unfamiliar with the oil and gas business, especially via some of the suggested measures to lower voters’ gasoline prices.
 
-### On Tuesday April 1
+*Chart: Crude and Gasoline Prices, 2000-Present*
 
-### Crude and Gasoline Prices, 2000-Present
-
-### Gasoline $/gal
-
-### WTI $/bbl
-
-Jan-00 Jan-02 Jan-04 Jan-06 Jan-08 Crude Gasoline Poten & Partners | • athens • guangzhou • hong kong • london • new york • perth • singapore 1
+*Source: EIA*
 
 ### Start with the Facts
 
-As the oil company executives (and several well informed Members of Congress) pointed out, the main cause for record high gasoline prices is record high crude prices: WTI crude prices have been consistently above $100 per barrel and have even reached $110 per barrel on occasion over the last month. In fact, the R-Squared correlation between gasoline prices and crude prices from Jan 2000 to the present has been 91%. The below graphic from the US Government's own EIA website shows the components of the February 2008 gasoline price. After crude oil, which comprised nearly 70% of the gasoline price, the next largest component was taxes, followed by distribution and marketing costs, and also refining costs. At current levels of $3.29 per gallon gasoline and $106 per barrel WTI, crude comprises 77% of the current gasoline price.
+As the oil company executives (and several well informed Members of Congress) pointed out, the main cause for record high gasoline prices is record high crude prices: WTI crude prices have been consistently above $100 per barrel and have even reached $110 per barrel on occasion over the last month. In fact, the R-Squared correlation between gasoline prices and crude prices from Jan 2000 to the present has been 91%. The below graphic from the US Government’s own EIA website shows the components of the February 2008 gasoline price. After crude oil, which comprised nearly 70% of the gasoline price, the next largest component was taxes, followed by distribution and marketing costs, and also refining costs. At current levels of $3.29 per gallon gasoline and $106 per barrel WTI, crude comprises 77% of the current gasoline price.
 
-### The Ol' Bait and Switch
+*Chart*
 
-Members of the special House Committee recommended several steps to lower gasoline prices, including forcing big oil companies to pledge 10% of profits to renewable energy, supporting legislation to promote energy independence, and ceasing the filling of the SPR. Unfortunately, vague legislation to promote energy independence won't likely fix the problem; equally, ceasing to fill the SPR, which has increased by approximately 1 million barrels over the last month (equal to approximately 0.2% of US consumption over that period) will not likely lower gasoline prices. Nor will diverting profits to renewable energy abet the problem: renewable energy investment does not immediately lower gasoline prices. Nor does such investment address the main structural hindrance to growth for both renewable and fossil fuel energy: a lack of sufficient infrastructure to engage projects. Just as wind power companies cannot get turbine blades quickly enough, oil companies cannot quickly lease or acquire the offshore rigs they require to drill in deepwater.
+Source: EIA
 
-These suggestions to lower gasoline prices highlight a systemic problem: the proposed solutions do not address the problem at hand. How will pumping money into renewables and "promoting energy independence" lower pump prices in the short term? No matter whether one believes in the future of renewable energies, pumping billions of dollars into these efforts now will not produce immediately lower gasoline prices.
+### The Ol’ Bait and Switch
+
+Members of the special House Committee recommended several steps to lower gasoline prices, including forcing big oil companies to pledge 10% of profits to renewable energy, supporting legislation to promote energy independence, and ceasing the filling of the SPR. Unfortunately, vague legislation to promote energy independence won’t likely fix the problem; equally, ceasing to fill the SPR, which has increased by approximately 1 million barrels over the last month (equal to approximately 0.2% of US consumption over that period) will not likely lower gasoline prices. Nor will diverting profits to renewable energy abet the problem: renewable energy investment does not immediately lower gasoline prices. Nor does such investment address the main structural hindrance to growth for both renewable and fossil fuel energy: a lack of sufficient infrastructure to engage projects. Just as wind power companies cannot get turbine blades quickly enough, oil companies cannot quickly lease or acquire the offshore rigs they require to drill in deepwater.
+
+These suggestions to lower gasoline prices highlight a systemic problem: the proposed solutions do not address the problem at hand. How will pumping money into renewables and “promoting energy independence” lower pump prices in the short term? No matter whether one believes in the future of renewable energies, pumping billions of dollars into these efforts now will not produce immediately lower gasoline prices.
 
 ### Is There a Solution?
 

@@ -14,11 +14,9 @@ charts_count: 2
 
 # Will Canada Spark a Tanker Rally
 
-### What will be the impact of the wildfires in Alberta? Fig. 1: Western Canadian Select (WCS) vs WTI Crude Oil Prices
-
 ### What will be the impact of the wildfires in Alberta?
 
-The oil market has been oversupplied for much of the last 18 months, resulting in a significant decline in oil prices. Strong oil demand growth in 2015 was more than offset by supply growth as projects sanctioned during the industry's heyday continued to come onstream. In recent months a number of supply disruptions, combined with production decreases in U.S. shale production, have tightened the supply demand balance. Since early this week, a new and unexpected supply disruption has caught the headlines in the form of wildfires in one of the main oil producing regions in Alberta in Western Canada. The U.S. is by far the largest importer of Canadian barrels. When will the forest fires affect U.S. imports and how will this impact the shipping markets?
+The oil market has been oversupplied for much of the last 18 months, resulting in a significant decline in oil prices. Strong oil demand growth in 2015 was more than offset by supply growth as projects sanctioned during the industry’s heyday continued to come onstream. In recent months a number of supply disruptions, combined with production decreases in U.S. shale production, have tightened the supply demand balance. Since early this week, a new and unexpected supply disruption has caught the headlines in the form of wildfires in one of the main oil producing regions in Alberta in Western Canada. The U.S. is by far the largest importer of Canadian barrels. When will the forest fires affect U.S. imports and how will this impact the shipping markets?
 
 The total production from Western Canadian oil sand fields amounts to about 2.5 million barrels per day (Mb/d). Although the fires are currently to the south of the main production areas, several companies have reduced their production. The fires have caused pipeline shutdowns and closed the only access road into the area. Several producers in the area have evacuated all but the most essential employees. News reports estimate that about 1.0 Mb/d of production is currently affected.
 
@@ -26,7 +24,15 @@ Almost all of the oil from the tar sands production is shipped to the U.S., main
 
 The total volume of crude production that will be affected by the outages will depend largely on the duration of the disruptions and whether the fires cause damage to actual production facilities. Currently, the expectation is that the majority of the production sites will remain outside of the zones directly affected by the fires, as they are located about 20 miles north of the damaged areas and the prevailing winds are pushing the fires further south. However, it is impossible to predict how long and how much the fires will affect the region. According to local officials, it is unlikely that they will get the wildfires under control without the help of significant rainfalls. According to regional pipeline maps, there are several pipelines that run through the areas east and west of the current fire locations and at least one crude oil pipeline as well as several refined product pipelines that run through the affected area.
 
-### According to Genscape, an oil analysis firm that monitors
+According to Genscape, an oil analysis firm that monitors
+
+*Chart: Fig. 1: Western Canadian Select (WCS) vs WTI Crude Oil Prices*
+
+*Source: Bloomberg*
+
+*Chart*
+
+*Source: National Post, Poten*
 
 storage and pipeline throughput, crude oil inventories in the region stood at 26.5 million barrels at the end of April, up about 4 million barrels from a year earlier. This suggests that there is ample room to continue supplying the market for a number of days.
 

@@ -18,43 +18,23 @@ The issue of peak oil has received considerable attention over the past year or 
 
 ### In The Beginning
 
-Kuwait's geographic location at the top of the Arabian Gulf helped establish the country as a trading hub. Oil was first discovered in the 1930s and the first export of crude oil was in 1946. Kuwait has shared in the ups and downs of the oil market since then, but with clear vision, strong leadership and fairly strict adherence to goals and plans, Kuwait today is a stabilizing force in the world crude oil market.
+Kuwait’s geographic location at the top of the Arabian Gulf helped establish the country as a trading hub. Oil was first discovered in the 1930s and the first export of crude oil was in 1946. Kuwait has shared in the ups and downs of the oil market since then, but with clear vision, strong leadership and fairly strict adherence to goals and plans, Kuwait today is a stabilizing force in the world crude oil market.
 
 ### Keeping up the Pace
 
-With estimated reserves at about 100 billion barrels, Kuwait holds about 10% of the world's reserves. Despite producing over 2.0 million barrels per day for the past several years, the proven reserves have remained steady.
+With estimated reserves at about 100 billion barrels, Kuwait holds about 10% of the world’s reserves. Despite producing over 2.0 million barrels per day for the past several years, the proven reserves have remained steady.
 
-By the end of 2005 the country's production reached five-year highs at about 2.6 million barrels per day. Estimates are that sustainable crude production capacity for Kuwait is currently around 2.6 million bpd, but Kuwait has much more aggressive plans for its major export - crude oil.
+By the end of 2005 the country’s production reached five-year highs at about 2.6 million barrels per day. Estimates are that sustainable crude production capacity for Kuwait is currently around 2.6 million bpd, but Kuwait has much more aggressive plans for its major export – crude oil.
 
-### Kuwait Crude Production
+*Chart: Kuwait Crude Production*
 
-### Outlook
+### Ambitious Plans – Project Kuwait
 
-### EIA/IEA/Poten
-
-### Ambitious Plans - Project Kuwait
-
-Kuwait's primary fields are those known as Greater Burgan and those fields under exploration in the North of the country. Greater Burgan is thought to be the second largest deposit of oil in the world. Production out of Greater Burgan, comprised of Magwa, Burgan and Ahmadi fields, is around 1.6 million bpd making up the major source of the country's current output. But Kuwait has very ambitious expansion plans over the next 15 to 20 years that call for capital expenditures of an estimated $40 billion. It is expected that with this type of investment, the total production from Kuwait will reach the project's goal of 4.0 million barrels per day by 2020.
+Kuwait’s primary fields are those known as Greater Burgan and those fields under exploration in the North of the country. Greater Burgan is thought to be the second largest deposit of oil in the world. Production out of Greater Burgan, comprised of Magwa, Burgan and Ahmadi fields, is around 1.6 million bpd making up the major source of the country’s current output. But Kuwait has very ambitious expansion plans over the next 15 to 20 years that call for capital expenditures of an estimated $40 billion. It is expected that with this type of investment, the total production from Kuwait will reach the project’s goal of 4.0 million barrels per day by 2020.
 
 The map on the next page shows the relative sizes of the fields as well as some of the current production. With careful planning and cooperation, it is expected that these fields will keep Kuwait on pace for meeting the challenges of meeting the worlds increasing demand for crude oil and refined products.
 
-North Fields Raudhatain, Bahra,
-
-### Ratqa, Abdali,
-
-Sabriyah 550 k bpd
-
-### Kuwait City
-
-Greater Burgan Magwa, Ahmadi,
-
-### Minagish
-
-Burgan 1.6 M bpd
-
-### Umm Gudair
-
-### Al Wahfra
+*Chart: North Fields Raudhatain, Bahra, Ratqa, Abdali, Sabriyah 550 k bpd*
 
 ### Key Role in Refining
 
@@ -64,15 +44,13 @@ In December 2005, Kuwait signed a memorandum of understanding with PetroChina fo
 
 ### Helping Crude and Products Get to the Market
 
-Kuwait Petroleum Company (KPC) has a strong presence in the spot market where they are among the top 5 for the crucial Arabian Gulf/West trade. In addition to spot and term chartering VLCC's, KPC maintains an active presence in the clean products and fuel oil market. KOTC, the Kuwait Government owned tanker-company serves as the transportation arm for KPC. The company is currently undergoing a newbuilding program for VLCC's and product tankers that will keep it in the forefront of safety and technological innovation.
+Kuwait Petroleum Company (KPC) has a strong presence in the spot market where they are among the top 5 for the crucial Arabian Gulf/West trade. In addition to spot and term chartering VLCC’s, KPC maintains an active presence in the clean products and fuel oil market. KOTC, the Kuwait Government owned tanker-company serves as the transportation arm for KPC. The company is currently undergoing a newbuilding program for VLCC’s and product tankers that will keep it in the forefront of safety and technological innovation.
 
-### VLCC Fixtures AG - West
-
-Vela Shell Total ExxonMobil KPC
+*Chart: VLCC Fixtures AG - West March 2005 - March 2006*
 
 ### The Future Looks Bright
 
-With long-term crude production plans in place, sophisticated refinery expansions and grass roots refining projects on schedule, aggressive international refinery expansion plans, a well respected worldwide marketing group, Kuwait will be at the forefront of meeting the "Peak Oil" challenge.
+With long-term crude production plans in place, sophisticated refinery expansions and grass roots refining projects on schedule, aggressive international refinery expansion plans, a well respected worldwide marketing group, Kuwait will be at the forefront of meeting the “Peak Oil” challenge.
 
 ## Market Exhibits & Charts
 

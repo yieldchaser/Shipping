@@ -24,7 +24,17 @@ The slowdown in oil demand growth coincided with rising prices. Brent crude oil 
 
 So, where do we go from here? Is the world heading towards a significant slowdown in oil demand growth, which would not bode well for the tanker market, or is there an alternative narrative that is more positive and equally credible?
 
-Demand growth in China and India may be more resilient than the pessimists expect despite the on-going trade wars. China is particularly vulnerable to oil price shocks given its rapidly growing oil dependence and especially in light of the recent US oil sanctions on China's allies Iran and Venezuela. Therefore, it is possible that China will use the lower oil prices to boost oil imports and add to its Strategic Petroleum reserves on national security grounds. This would support tanker ton-mile demand.
+Demand growth in China and India may be more resilient than the pessimists expect despite the on-going trade wars. China is particularly vulnerable to oil price shocks given its rapidly growing oil dependence and especially in light of the recent
+
+*Chart*
+
+*Source: Morgan Stanley*
+
+*Chart*
+
+*Source: Bloomberg*
+
+US oil sanctions on China’s allies Iran and Venezuela. Therefore, it is possible that China will use the lower oil prices to boost oil imports and add to its Strategic Petroleum reserves on national security grounds. This would support tanker ton-mile demand.
 
 The growth in US crude oil stocks is having a big impact on market sentiment, but it is not necessarily an indication of lower oil demand. Prolonged and extensive seasonal refinery maintenance in the US in anticipation of the IMO 2020 change in bunker fuel specifications is an important factor as well. There has also been a slew of unplanned refinery outages this spring due to the extensive flooding in the US Midwest.
 

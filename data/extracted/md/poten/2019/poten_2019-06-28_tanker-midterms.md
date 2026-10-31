@@ -18,11 +18,15 @@ charts_count: 2
 
 We have reached the middle of the year, so it is time to take stock of the spot fixture volumes in the tanker market and see if we can observe any movements in the rankings of the largest dirty spot charterers (yes, Unipec is still on top). The overall volume of reported dirty spot fixtures in H1 2019 showed an unusual decline compared to the same period in 2018 (from 5,409 to 4,623). The total cargo volume fixed on spot voyages also declined by 13%, similar to the decline in overall cargo volumes (using AIS data), mainly due to lower AG exports and lower imports into the US Gulf.
 
+*Chart*
+
 In the VLCC segment, Unipec continues to be in a league of its own, although the number of spot fixtures declined somewhat, but fixtures of smaller ships increased, and their total cargo volume increased. More reported VLCC fixtures are attributed to the Chinese giant than to the next eight largest VLCC charterers combined. It should be noted though that reported fixture activity does not always equal market presence. Charterers with a large controlled fleet and/or a preference for private deals keep a low profile in these rankings. The total number of reported VLCC spot fixtures decreased from 1,193 in H1 2018 to 1,156 in H1 2019 (-3%).
+
+*Chart*
 
 In the Suezmax segment, Shell took over the top spot from Chevron. Unipec is a notable newcomer to the top Suezmax charterer list, mainly due to increased Suezmax imports from
 
-| Rank | Charterer | Reported Total Cargo (MT 000s) | % of Total Dirty Cargoes | Prev Rank | Fixtures |
+| 2019 H1 Rank | Charterer | Reported Total Cargo (MT 000's) | % of Total Dirty Cargoes | 2018 H1 Rank | 2019 H1 Fixtures |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Unipec | 112,406 | 17.2% | 1 | 523 |
 | 2 | Shell | 26,153 | 4.0% | 3 | 300 |
@@ -41,17 +45,24 @@ In the Suezmax segment, Shell took over the top spot from Chevron. Unipec is a n
 | 15 | BPCL | 12,652 | 2.0% | 15 | 101 |
 | 16 | Reliance | 12,545 | 1.9% | 10 | 68 |
 | 17 | Trafigura | 9,275 | 1.4% | 14 | 81 |
-| 18 | SK Corp | 9,135 | 1.4% |  | 33 |
+| 18 | SK Corp | 9,135 | 1.4% | 33 | 39 |
 | 19 | PTT | 8,800 | 1.3% | 21 | 69 |
 | 20 | Hyundai | 8,728 | 1.3% | 22 | 35 |
+|  | Top 20 | 418,149 | 66.0% |  | 2,903 |
+|  | Others | 234,963 | 34.0% |  | 1,720 |
+|  | Total | 653,112 | 100.0% |  | 4,623 |
+
+Source: Poten & Partners
 
 Libya and more intra-Asian shipments. Exxon also increased their position mainly due to higher U.S. Gulf exports to UKC. The total number of reported Suezmax spot fixtures in H1 2019 (1,287) was significantly lower than in the first half of 2018 (1,628); more in line with 2017 levels (1,320).
 
-### Fixtures
+**No. Spot**
+
+*Chart: Top 10 Aframax Spot Charterers*
 
 In the Aframax segment, Shell and Vitol traded places. Unipec also made the Aframax list this year as they became more active in Atlantic trades. The total number of reported Aframax spot fixtures declined in H1 2019 to 1,809 fixtures from 2,039 in 2018 (-11%).
 
-* The above report has been assembled from market intelligence and reported spot market activity. As such, it may not provide a complete picture of the market due to the private nature of many spot market fixtures.
+\* The above report has been assembled from market intelligence and reported spot market activity. As such, it may not provide a complete picture of the market due to the private nature of many spot market fixtures.
 
 ## Market Exhibits & Charts
 

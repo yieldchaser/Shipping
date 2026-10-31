@@ -14,39 +14,11 @@ charts_count: 1
 
 # Burgeoning Bunkers
 
-The growing industry awareness of air quality and emissions in the world's ports could be a catalyst for major change in the bunker market. In the next few weeks the International Maritime Organization (IMO) is expected to meet and try to reach some agreement on both the specification of marine fuels and standards to be imposed. This issue has been hotly contested among shipowners and refiners as these parties can expect to bear the brunt of any increased costs that may result from higher spec fuels. With bunker prices already substantially higher than where they were even a year ago, shipowners seem justified in being jittery about a further price increases. The chart below shows the average price of bunker fuels, Intermediate Fuel Oil 380 (CST) and Marine Diesel Oil (MDO). MDO prices in some markets topped $1,000 per metric ton this week, perhaps a sign of shrinking availability of supplies.
+The growing industry awareness of air quality and emissions in the world’s ports could be a catalyst for major change in the bunker market. In the next few weeks the International Maritime Organization (IMO) is expected to meet and try to reach some agreement on both the specification of marine fuels and standards to be imposed. This issue has been hotly contested among shipowners and refiners as these parties can expect to bear the brunt of any increased costs that may result from higher spec fuels. With bunker prices already substantially higher than where they were even a year ago, shipowners seem justified in being jittery about a further price increases. The chart below shows the average price of bunker fuels, Intermediate Fuel Oil 380 (CST) and Marine Diesel Oil (MDO). MDO prices in some markets topped $1,000 per metric ton this week, perhaps a sign of shrinking availability of supplies.
 
-### Singapore Bunker Prices
+*Chart: Singapore Bunker Prices*
 
-### Sep-06
-
-### Sep-07
-
-### Jul-06
-
-### Jul-07
-
-### Jan-06
-
-### Jan-08
-
-### Jan-07
-
-### May-06
-
-### May-07
-
-### Nov-07
-
-### Nov-06
-
-### Mar-06
-
-### Mar-08
-
-### Mar-07
-
-Singapore Day Price - MDO Singapore Day Price - CST Poten & Partners _ x athens x guangzhou x hong kong x london x new york x perth x singapore 1
+Singapore Day Price - MDO Singapore Day Price - CST
 
 ### Speculating on Specs
 
@@ -58,9 +30,7 @@ The likely outcome of the IMO meeting will be proposals that address the bunker 
 
 As part of the debate on policy, there are a number of practical considerations that must be taken into account. The bunker market is growing quite rapidly worldwide. The chart below shows the annual amount of bunker sales in Singapore, the largest bunkering market. From 2006 to 2007, total sales increased 11%.
 
-### Singapore Bunker Sales 2003 - 2007
-
-### Thousand Metric Tons
+*Chart: Singapore Bunker Sales 2003 - 2007*
 
 With the expected growth of seaborne trade worldwide, an expanding market for bunkers is expected. While in general this demand is expected to grow, the availability of suitable supply could be a mounting concern. There are worries that higher costs could be incurred as refiners have to upgrade facilities in order to produce the bunker fuels with the acceptable sulfur content.
 

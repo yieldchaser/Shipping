@@ -20,11 +20,21 @@ Crude oil exports from the U.S. Gulf continue to increase as tight oil productio
 
 U.S. crude oil is attractive to European refiners as it is a good quality crude oil, relatively close in specifications to North Sea crude or West African grades. In recent years, WTI, the main pricing benchmark for U.S. crudes, has traded at a discount to Brent (used to price North Sea and West African crudes) which makes U.S. grades more competitive relative to these alternative crudes.
 
-According to tanker trade statistics from Lloyd's List Intelligence, 131 Million barrels (Mbbl) of crude oil and condensates were shipped from the U.S. to NW Europe in 2018. Aframax tankers were used for 66% of these volumes and Suezmaxes carried 32%. In December 2018 the first VLCC cargo was loaded in the U.S. Gulf destined for NW Europe. Since then, four other VLCCs have discharged USG crude in the UKC area and several more have been fixed on the same route. Most of these cargoes come from Corpus Christi, where VLCCs can load a partial cargo at Moda's Ingleside terminal and finish loading using reverse lightering off the coast.
+According to tanker trade statistics from Lloyd’s List Intelligence, 131 Million barrels (Mbbl) of crude oil and condensates were shipped from the U.S. to NW Europe in 2018. Aframax tankers were used for 66% of these volumes and Suezmaxes carried 32%. In December 2018 the first VLCC cargo was loaded in the U.S. Gulf destined for NW Europe. Since then, four other VLCCs have discharged USG crude in the UKC area and several more have been fixed on the same route. Most of these cargoes come from Corpus Christi, where VLCCs can load a partial cargo at Moda’s Ingleside terminal and finish loading using reverse lightering off the coast.
 
 Almost all ports in the U.S. Gulf area have draft restrictions (typically 40-45ft), which make it impossible to fully load large tankers. The exception is LOOP, which is a facility offshore Louisiana that can accommodate VLCCs. LOOP was built as a discharge port, but VLCCs have started to load cargoes in 2018. The use of LOOP as a load port has so far been limited to offshore crudes (like Mars) because LOOP is not well connected to the tight oil resources in the Permian. As a result, almost all larger tankers are reverse lightered (smaller tankers shuttle cargo to the ship) or utilize only a part of their carrying capacity.
 
-We estimate that the current freight costs of using an Aframax for a USG to UKC voyage amounts to about $20.32/ton while the same voyage using a light-loaded Suezmax tanker costs about $17.68/ton. For a VLCC, the transportation cost would be about $16.47/ton plus about $1.30/ton for lightering (basis Corpus Christi scenario).
+We estimate that the current freight costs of using an Aframax for a USG to UKC voyage amounts to about $20.32/ton while the same voyage using a light-loaded Suezmax tanker costs
+
+*Chart*
+
+*Source: US Dept. Of Commerce*
+
+*Chart*
+
+*Source: Lloyd’s List Intelligence*
+
+about $17.68/ton. For a VLCC, the transportation cost would be about $16.47/ton plus about $1.30/ton for lightering (basis Corpus Christi scenario).
 
 Using VLCCs for Trans-Atlantic voyages rarely makes sense due to lightering costs. The fact that the Ingleside terminal can accommodate VLCCs to partially load a cargo and just requires one additional Aframax cargo to be loaded off the coast of Corpus Christi makes this port more competitive for such voyages than most other load ports.
 

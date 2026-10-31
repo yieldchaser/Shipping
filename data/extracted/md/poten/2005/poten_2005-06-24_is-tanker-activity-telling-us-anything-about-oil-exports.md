@@ -14,31 +14,15 @@ charts_count: 1
 
 # Is Tanker Activity Telling Us Anything About Oil Exports?
 
-### Is Tanker Activity Telling Us Anything About Oil
-
-### Exports?
-
 Crude oil prices are hovering around $60 a barrel and the expectation is that $70 a barrel will be the next plateau. Below is the NYMEX trading of West Texas Intermediate (WTI) over the past year. Two points are of interest.
 
-LIGHT CRUDE Continuous (58.1500, 60.0000, 58.1400, 59.4200, +1.33000)
+*Chart: Spot Fixtures Rising*
 
-### Spot Fixtures Rising
-
-### Spot Fixtures Fell
-
-### NYMEX
-
-July August September October November December 2005 February March April May June July The climb from under $40 per barrel to $60 per barrel was not one continuous upward sweeping trend- there were plenty of opportunities to lose money buying crude oil futures.
+The climb from under $40 per barrel to $60 per barrel was not one continuous upward sweeping trend– there were plenty of opportunities to lose money buying crude oil futures.
 
 The following chart shows weekly VLCC AG spot fixture activity. The two points of interest are of the record low number of fixtures in February of this year and the recent near-record high that occurred this week.
 
-### # Weekly  VLCC AG Spot Fixtures
-
-### Record High
-
-When Prices Were Spiking!
-
-Record Low When Prices Were Sinking!
+*Chart: # Weekly VLCC AG Spot Fixtures*
 
 The drop in fixture activity in February of this year was severe with one week having only four fixtures compared to the weekly average of 25 per week so far this year. This drop meant far less liftings in March. Comparing the low in fixture activity in February with oil prices, one can conclude that the oil exporters were anxious to stop the fall in prices. Reduced shipments in effect cut production. Oil prices reversed in March and resumed climbing.
 
@@ -46,17 +30,13 @@ This week we had a near-record high of 48 fixtures, double the average of 24.7 f
 
 On the next page we can see the positive influence of heightened spot fixture activity over the last 30 days on VLCC rates.
 
-### VLCC $/Day vs AG VLCC Fixture Activity
+*Chart: VLCC $/Day vs AG VLCC Fixture Activity*
 
-5/23 5/25 5/27 6/1 6/3 6/7 6/9 6/13 6/15 6/17 6/21 6/23 $14,000 The next chart shows that vessel availability in the Arabian Gulf, which had peaked in March as a consequence of low fixture activity over the last 30 days, is declining somewhat.
+The next chart shows that vessel availability in the Arabian Gulf, which had peaked in March as a consequence of low fixture activity over the last 30 days, is declining somewhat.
 
-### VLCC $/Day vs AG VLCC Availability
+*Chart: VLCC $/Day vs AG VLCC Availability*
 
-$/Day # VLCCs
-
-### #VLCCs
-
-5/23 5/25 5/27 6/1 6/3 6/7 6/9 6/13 6/15 6/17 6/21 6/23 $14,000 Previous analysis has shown that VLCC rates tend to get much stronger when the number of available vessels falls below 30.
+Previous analysis has shown that VLCC rates tend to get much stronger when the number of available vessels falls below 30.
 
 ### So What Can We Conclude?
 

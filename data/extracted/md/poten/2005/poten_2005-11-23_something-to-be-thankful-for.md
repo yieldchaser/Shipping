@@ -16,21 +16,17 @@ charts_count: 1
 
 VLCC and Suezmax rates have reversed a decline for most of the year and have again surged upward since last August; and oil is materially higher today than it was a year ago.
 
-Oil Prices & Tanker Rates Thanksgiving to Thanksgiving
+*Chart: Oil Prices & Tanker Rates Thanksgiving to Thanksgiving*
 
-Oil Prices VLCC Suezmax
+And so have Aframaxes and Panamaxes– Handymaxes fell off recently, but we expect rates to reverse and advance further.
 
-Nov-04 Jan-05 Mar-05 May-05 Jul-05 Sep-05 Nov-05 $0
+*Chart: Tanker Rates Thanksgiving to Thanksgiving*
 
-Poten & Partners | new york • london • athens • perth • hong kong • guangzhou 1 And so have Aframaxes and Panamaxes- Handymaxes fell off recently, but we expect rates to reverse and advance further.
+**We Wish All of You**
 
-Tanker Rates Thanksgiving to Thanksgiving
+Whether Charterer or Owner Be
 
-Aframax Panamax Handymax
-
-We Wish All of You Whether Charterer or Owner Be
-
-### Happy Thanksgiving Day!
+**Happy Thanksgiving Day!**
 
 ## Market Exhibits & Charts
 

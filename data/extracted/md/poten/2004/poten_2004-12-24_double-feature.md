@@ -18,21 +18,19 @@ charts_count: 2
 
 In The Christmas Carol by Charles Dickens, Scrooge was given a glimpse of Christmas Past and of Christmas Present. Unlike the visions seen by Scrooge, Christmas Present is a lot different than Christmas Past.
 
-### December
+*Chart: December WS Rates*
 
-The Ghosts of Decembers Past And The Reality of
+### It’s a Wonderful Life
 
-### Christmas
+Jimmy Stewart starred in this Christmas movie of what life would have been like if Jimmy Stewart, playing an individual who doubted his self-worth, had not been born. Only then could Stewart see the positive influence he had on so many lives that touched his own. If we did not have a Christmas Present as we do now, we would not have–
 
-### Present!
+O VLCCs selling for $125 million O Aframaxes selling for $63 million O Handymaxes selling for $45 million
 
-### December
+O December average WS200 for VLCCs O December average WS360 for Aframaxes O December average WS450 for Handymaxes
 
-1996 1997 1998 1999 2000 2001 2002 2003 2004 $0
+O $130,000 per day for VLCCs O $53,000 per day for Aframaxes O $37,000 per day for Handymaxes
 
-### It's a Wonderful Life
-
-Jimmy Stewart starred in this Christmas movie of what life would have been like if Jimmy Stewart, playing an individual who doubted his self-worth, had not been born. Only then could Stewart see the positive influence he had on so many lives that touched his own. If we did not have a Christmas Present as we do now, we would not haveO VLCCs selling for $125 million O Aframaxes selling for $63 million O Handymaxes selling for $45 million O December average WS200 for VLCCs O December average WS360 for Aframaxes O December average WS450 for Handymaxes O $130,000 per day for VLCCs O $53,000 per day for Aframaxes O $37,000 per day for Handymaxes From all of Us to all of You The Very Best this Christmas Season
+*Chart: From all of Us to all of You The Very Best this Christmas Season*
 
 ## Market Exhibits & Charts
 

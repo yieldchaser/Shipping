@@ -26,9 +26,21 @@ The increased throughput has made the Basrah terminal more prone to delays and d
 
 In contrast to many other state owned oil producers, Iraq does not operate a significant crude tanker fleet. Therefore, the crude transportation is done by international shipping companies, mainly using spot market tonnage.
 
-Iraq's government budget has suffered a double blow over the last 12 months: The decline in oil prices and the cost of fighting militants from the Islamic State of Iraq and the Levant (ISIL) in the northwestern areas of the country. As a result, Iraq has urged foreign oil companies, working as contractors on the southern oil fields in Iraq, to reduce their budgets as the country runs short on cash to reimburse them for their costs. As a result, BP agreed to reduce its 2015 budget on the Rumaila field, the largest in the country, from $3.5 Billion to $2.5 Billion. The field currently produces about 1.3 Mb/d and is expected to increase production to 1.4 Mb/d in 2016. The budget for the West Qurna 1 field, which produces about 400 Kb/d, has been reduced from $1.6 billion to $1.1 billion. Iraq has also started to pay with crude rather than cash. Since its launch in June, Iraq has used the new heavy Basrah grade as payment to remunerate international oil companies such as Shell, BP, Total, Lukoil, Petronas and China National Petroleum Corporation for their development of Iraqi oil fields.
+Iraq’s government budget has suffered a double blow over the last 12 months: The decline in oil prices and the cost of fighting militants from the Islamic State of Iraq and the Levant (ISIL) in the northwestern areas of the country. As a result, Iraq has urged foreign oil companies, working as contractors
 
-Iraq is an example of the dilemma facing many oil producers currently: They need to produce more oil to meet their budgets, but by doing so, crude prices remain under pressure, which again undermines these countries' finances.
+Fleet esv
+
+*Chart: Fig 1: Basrah Crude Loadings*
+
+*Source: Bloomberg*
+
+*Chart: Fig. 2: Destination of Iraq Crude Exports in 2014*
+
+*Source: EIA*
+
+on the southern oil fields in Iraq, to reduce their budgets as the country runs short on cash to reimburse them for their costs. As a result, BP agreed to reduce its 2015 budget on the Rumaila field, the largest in the country, from $3.5 Billion to $2.5 Billion. The field currently produces about 1.3 Mb/d and is expected to increase production to 1.4 Mb/d in 2016. The budget for the West Qurna 1 field, which produces about 400 Kb/d, has been reduced from $1.6 billion to $1.1 billion. Iraq has also started to pay with crude rather than cash. Since its launch in June, Iraq has used the new heavy Basrah grade as payment to remunerate international oil companies such as Shell, BP, Total, Lukoil, Petronas and China National Petroleum Corporation for their development of Iraqi oil fields.
+
+Iraq is an example of the dilemma facing many oil producers currently: They need to produce more oil to meet their budgets, but by doing so, crude prices remain under pressure, which again undermines these countries’ finances.
 
 Iraqi production and exports are expected to keep growing and since Iraqi crude is sold worldwide (both in the Atlantic and the Pacific Basins), their volumes will continue to contribute to ton-mile demand for both VLCC and Suezmax tankers.
 

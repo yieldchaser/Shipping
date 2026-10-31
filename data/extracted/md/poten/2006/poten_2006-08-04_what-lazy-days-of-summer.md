@@ -14,21 +14,19 @@ charts_count: 2
 
 # What Lazy Days of Summer?
 
-For most of the United States, this past week saw one of the seasonal characteristics of summer- a brutal heat wave. This follows on from the heat wave that gripped Europe a few weeks ago. While most things slow to an easy pace during this weather, the tanker market, refinery operations and those that work in the industry are realizing that there may not be any "lazy days of summer" this year.
+For most of the United States, this past week saw one of the seasonal characteristics of summer- a brutal heat wave. This follows on from the heat wave that gripped Europe a few weeks ago. While most things slow to an easy pace during this weather, the tanker market, refinery operations and those that work in the industry are realizing that there may not be any “lazy days of summer” this year.
 
 The Gulf Coast states, aside from being blanketed by heat, are also getting prepared for the impending hurricane season. The threat of Tropical Storm Chris, although no longer of imminent concern, served as a reminder that hurricane season may be closer than perhaps anticipated.
 
-Poten & Partners | new york • london • athens • perth • hong kong • guangzhou 1
+*Chart*
 
 ### Up and Running
 
 U.S. refiners have been aggressively restoring capacity since outages resulting from the past hurricane season. Refinery utilization has now consistently been over 90% for two months, levels not seen since a year ago August.
 
-### US Refinery Utilization
+*Chart: US Refinery Utilization*
 
-### % Utilization
-
-Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Today, refineries are currently processing over 17.3 million barrels per day of crude, higher than the average operating capacity for 2005 of 16.6 million barrels per day and better than the average for 2004 of 16.8 million barrels per day.
+Today, refineries are currently processing over 17.3 million barrels per day of crude, higher than the average operating capacity for 2005 of 16.6 million barrels per day and better than the average for 2004 of 16.8 million barrels per day.
 
 ### Products Craze
 
@@ -38,13 +36,13 @@ Even with refinery capacity at relative highs as compared to the last year, the 
 
 As summer is typically the high season for gasoline consumption, product stocks are lower as a result of increased demand and the changeover from MTBE to ethanol blended gasoline. The graph below shows the price for retail gasoline in 2005 and year to date 2006 versus the gasoline stocks both years.
 
-### Gasoline Prices and Stocks
+*Chart: Gasoline Prices and Stocks*
 
-### Price Per Gallon
+**2006 - Prices**
 
-### (000 Barrels)
+### 2005 - Prices
 
-Jan Feb Mar Apr May Jun Aug Sep Oct Nov Dec 2006 - Gasoline Stocks 2005 - Gasoline Stocks 2006 - Prices 2005 - Prices In terms of total gasoline stocks, this year looks very similar to 2005, but the price of gasoline is much higher. With the relatively tight stock levels of today, there is less of a cushion in the face of hurricane season. Given that the forward market for gasoline is in backwardation, meaning that future prices are lower than current spot prices, there is less incentive to build up storage. The effects of a hurricane are physically devastating to a region, but with today's supply picture being what it is, expect the upward price implications on gasoline at the pump to be just as drastic.
+In terms of total gasoline stocks, this year looks very similar to 2005, but the price of gasoline is much higher. With the relatively tight stock levels of today, there is less of a cushion in the face of hurricane season. Given that the forward market for gasoline is in backwardation, meaning that future prices are lower than current spot prices, there is less incentive to build up storage. The effects of a hurricane are physically devastating to a region, but with today’s supply picture being what it is, expect the upward price implications on gasoline at the pump to be just as drastic.
 
 ## Market Exhibits & Charts
 

@@ -20,45 +20,19 @@ Throughout 2009, crude oil stored on tankers fell from levels of over 80 million
 
 Today, about 57 million barrels of clean refined products ply waters worldwide waiting to find a home in the market. The chart below shows the historical storage trends for the past few months, highlighting the scale of clean product storage relative to crude oil. Recent movement in clean storage activity, specifically the release of some charters, jostled the market in January but is this a trend that can be expected to continue?
 
-### Floating Storage Volumes
+*Chart: Floating Storage Volumes*
 
-### Million Barrels
+Source: Poten & Partners
 
-Oct‐09 Nov‐09 Dec‐09 Jan‐10 Current Clean Storage Dirty Storage In January, freezing temperatures across North America, Europe and Asia gave a boost to distillate demand. At the same time, spot freight rates for clean product tankers began to rise, creating short‐lived optimism among ship owners that may have otherwise renewed storage charters. With product moving through the system, bullish signals rippled through the supply chain.
+In January, freezing temperatures across North America, Europe and Asia gave a boost to distillate demand. At the same time, spot freight rates for clean product tankers began to rise, creating short‐lived optimism among ship owners that may have otherwise renewed storage charters. With product moving through the system, bullish signals rippled through the supply chain.
 
-The chart below shows interplay between distillate demand in North America, freight rates for large clean product tankers on their benchmark trade (Arabian Gulf - Far East) and the amount of vessels fixed for storage.
+The chart below shows interplay between distillate demand in North America, freight rates for large clean product tankers on their benchmark trade (Arabian Gulf – Far East) and the amount of vessels fixed for storage.
 
-### AG ‐ FE LR2 & L1 Spot Voyage Earnings
+*Chart: AG ‐ FE LR2 & L1 Spot Voyage Earnings*
 
-### Storage Up
+*Source: Poten & Partners*
 
-### MBD
-
-### Storage Down
-
-### Sep‐09
-
-### Aug‐09
-
-### Dec‐09
-
-### Jun‐09
-
-### Jan‐10
-
-### Jul‐09
-
-### Nov‐09
-
-### Apr‐09
-
-### Oct‐09
-
-### Mar‐09
-
-### May‐09
-
-US Distillate Demand AG ‐ FE (75kt) AG ‐ FE (55kt) The release of some vessels back into the spot market seemed to be enough to negatively impact the supply‐demand balance. Perhaps hopeful for a sustained recovery in tanker demand, shipowners opportunistically decided to take their chances in the spot market.
+The release of some vessels back into the spot market seemed to be enough to negatively impact the supply‐demand balance. Perhaps hopeful for a sustained recovery in tanker demand, shipowners opportunistically decided to take their chances in the spot market.
 
 ### Still room to contango
 

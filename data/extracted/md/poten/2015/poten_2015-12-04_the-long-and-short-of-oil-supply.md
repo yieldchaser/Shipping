@@ -26,7 +26,17 @@ The oil price developments of the last 18 months have created little incentive t
 
 However, there are mitigating factors: There is currently more oil in storage than there has been in the past and U.S. shale wells are relatively flexible and can be brought back online or increase production more quickly than conventional oil fields. Additionally, Iran is likely to add capacity when sanctions are lifted sometime in early 2016.
 
-Total OECD oil stocks have increased from 91 days forward cover in Q4 2013 to 98 days in the most recent quarter and it is likely that Non-OECD countries have also increased their oil stocks. For example, China is in the middle of a multi-year program to increase their Strategic Petroleum Reserves (SPR). In the last 18 months, they have taken advantage of relatively low oil prices to accelerate the filling of their SPR.
+Total OECD oil stocks have increased from 91 days forward cover in Q4 2013 to 98 days in the most recent quarter and it
+
+*Chart: Fig. 1: 2015 Crude Oil Production Growth and Forecasted Growth as of Nov 2014*
+
+*Source: IEA*
+
+*Chart: Fig 2: OPEC Crude Oil Production and Spare Capacity*
+
+*Source: IEA*
+
+is likely that Non-OECD countries have also increased their oil stocks. For example, China is in the middle of a multi-year program to increase their Strategic Petroleum Reserves (SPR). In the last 18 months, they have taken advantage of relatively low oil prices to accelerate the filling of their SPR.
 
 U.S. shale production ramped up quickly in the period from 2011 to 2015 and there is likely capacity to increase production in the future when prices rise due to a production short fall. Currently, there is no shortage of resources to increase production, as many people that worked in the oil boom lost their jobs and other resources such as raw materials, rigs, and transportation capacity are underutilized. However, this capacity will likely erode over time as resources are gradually redeployed elsewhere.
 

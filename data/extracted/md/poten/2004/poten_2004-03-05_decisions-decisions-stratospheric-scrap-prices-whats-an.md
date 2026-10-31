@@ -14,11 +14,7 @@ charts_count: 1
 
 # Decisions, Decisions, Stratospheric Scrap Prices: What's An Owner to Do?
 
-Decisions, Decisions, Stratospheric Scrap Prices:
-
-### What's An Owner to Do?
-
-It's a good time to own a ship that needs scrapping. With rates reaching $400 per ton, and in some cases even higher, the industry has never seen such high prices paid for scrap vessels. This increase in scrap prices is being driven by China, which needs steel for reinforcing bar (or rebar) to provide support for the concrete used in infrastructure projects such as buildings and bridges. Secondly, alternative steel is not being produced fast enough as coal and iron ore are also in high demand. And, with tanker earnings still at strong levels, owners of older tonnage want "one more voyage," and need a significant scrap incentive to forego the earnings available on the spot market, thereby reducing available supply.
+It’s a good time to own a ship that needs scrapping. With rates reaching $400 per ton, and in some cases even higher, the industry has never seen such high prices paid for scrap vessels. This increase in scrap prices is being driven by China, which needs steel for reinforcing bar (or rebar) to provide support for the concrete used in infrastructure projects such as buildings and bridges. Secondly, alternative steel is not being produced fast enough as coal and iron ore are also in high demand. And, with tanker earnings still at strong levels, owners of older tonnage want “one more voyage,” and need a significant scrap incentive to forego the earnings available on the spot market, thereby reducing available supply.
 
 ### Asset Prices are Up!
 
@@ -28,27 +24,25 @@ Four years ago when scrap was $125 LDT, a VLCC of 35,000 tons was worth about $4
 
 Since the start of 2002, the rising value of rebar (the most common use of scrap steel) has had a very strong influence on scrap prices. Steel prices are going up in response to the enormous pace of economic development taking place in China. China is responsible for a general rise in world commodity prices, not just steel alone. Commodity prices are likely to remain high as long as China keeps expanding at its torrid pace. This pace cannot continue forever, so if an owner is in the mood for scrapping a vessel, maybe this is the time to do it.
 
-### Scrap Prices vs Steel Prices
+*Chart: Scrap Prices vs Steel Prices*
 
-$/Ton Rebar $/Ldt
+### Scrap Prices and WS Rates Neck in Neck
 
 Historically, owners have scrapped vessels when Worldscale (WS) rates are low, and have kept ships afloat when rates are robust. As shown on the next page, owners are now facing a difficult decision. Namely do they continue to trade in the high spot market, or sell at historically high scrap prices?
 
-$/Ldt WS Rate
+*Chart: Scrap Prices Vs WS Rates*
 
 ### When Tonnage is Low, Scrap Prices are High
 
 One conclusion we can draw from the graph below is that the lack of available vessels for scrapping is also driving prices up. Since spot market rates are so high right now, this is a logical conclusion. The graph also suggests that when scrapping activity is low, scrap prices are high. When the supply of vessels to be scrapped is high, scrap prices generally decline in line with supply and demand.
 
-### Scrap Prices vs LDT Scrapped
-
-$/Ldt 000 Tons
+*Chart: Scrap Prices vs LDT Scrapped*
 
 ### Do Tanker Rates Drive Scrapping?
 
 The chart below shows that scrapping activity does inversely follow tanker rates. Scrapping activity tends to rise when tanker rates are low and vice-versa. Owners often have to scrap around the fifth special survey when the market cannot justify a further investment in a vessel, particularly if steel has to be replaced in the hull. In a high market, an owner can economically justify the cost of the special survey, which subdues scrapping activity. In recent years, mandatory phase out of single hull tankers has also pushed some tankers into scrap yards independent of the level of market rates.
 
-### VLCC Rates vs LDT Scrapped
+*Chart: VLCC Rates vs LDT Scrapped*
 
 ### What to Do?
 

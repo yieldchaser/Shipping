@@ -18,19 +18,19 @@ charts_count: 0
 
 When reviewing our latest rankings, nobody will be surprised to see that Unipec remained the largest dirty spot charterer in 2015, a position they are unlikely to lose anytime soon, despite slowing oil demand growth in China. The most significant movers in the ranking last year were IOC (from 10th in 2014 to 4th 2015, Litasco (from 11th to 8th) and Bahri (from 23rd to 12th). Some of the large, established supermajors are dropping down the list. ExxonMobil fell modestly from 4th to 5th, while BP dropped from 5th to 10th in the ranking. A notable new entrant on number 17 in the top 20 was commodities trader Trafigura. As a reminder, these rankings are all based on reported spot fixtures.
 
-### Fixtures
+**No. Spot**
+
+*Chart: Top 10 VLCC Spot Charterers*
 
 In the VLCC segment, Unipec continues to be the dominant charterer with 511 reported fixtures, more than four times the second largest player in this segment (the Indian Oil Company), for which we recorded 118 fixtures in 2015. IOC is followed closely by Bahri (114 fixtures), Reliance (111) and Petrochina (107).
 
-### Fixtures
+**No. Spot**
 
-Chevron continues to lead the pack in the Suezmax segment (same as last year), followed by Repsol (2nd) and Unipec (3rd). The Chinese charterer moved up from 8th spot last year. The western supermajors are generally well represented in the top Reported Total Cargo
+*Chart: Top 10 Suezmax Spot Charterers*
 
-### % of Total
+Chevron continues to lead the pack in the Suezmax segment (same as last year), followed by Repsol (2nd) and Unipec (3rd). The Chinese charterer moved up from 8th spot last year. The western supermajors are generally well represented in the top
 
-2015 Rank Charterer Dirty Cargo 2014 Rank
-
-| Rank | Charterer | Reported Total Cargo (MT 000s) | % of Total Dirty Cargoes | Prev Rank | Fixtures |
+| 2015 Rank | Charterer | Reported Total Cargo (MT 000's) | % of Total Dirty Cargo | 2014 Rank | 2015 No. Fixtures |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Unipec | 168,425 | 13.4% | 1 | 809 |
 | 2 | Shell | 62,003 | 4.9% | 2 | 605 |
@@ -48,19 +48,24 @@ Chevron continues to lead the pack in the Suezmax segment (same as last year), f
 | 14 | Repsol | 29,308 | 2.3% | 12 | 270 |
 | 15 | Petrobras | 26,870 | 2.1% | 14 | 196 |
 | 16 | CNR | 26,683 | 2.1% | 15 | 245 |
-| 17 | Trafigura | 23,265 | 1.9% |  | 31 |
+| 17 | Trafigura | 23,265 | 1.9% | 31 | 218 |
 | 18 | Clearlake | 20,672 | 1.6% | 20 | 264 |
 | 19 | Socar | 19,671 | 1.6% | 16 | 231 |
 | 20 | PTT | 18,345 | 1.5% | 22 | 115 |
+| Top 20 |  | 832,565 | 66.2% |  | 6,374 |
+| Others |  | 424,540 | 33.8% |  | 3,676 |
+| Total |  | 1,257,106 |  |  | 10,050 |
 
-### (MT 000's)
+Source: Poten & Partners
 
 Suezmax rankings, with Chevron, Repsol, ExxonMobil, Shell, CSSA (Total) and BP all in the top 10.
 
-### Fixtures
+**No. Spot**
+
+*Chart: Top 10 Aframax Spot Charterers*
 
 Moving on to the Aframax segment, where Vitol vaulted past Shell for the number one spot. Like last year, the Aframax segment is the one where the traders are best represented. Five of the top ten charterers are considered international trading companies.
 
 2016 started with a bang! In the first week of the year we have already seen significant gyrations in the stock market in combination with falling oil prices and increasing geopolitical tension. This is shaping up to be another interesting year in the oil and tanker market.
 
-* The above report has been assembled from market intelligence and reported spot market activity. As such, it may not provide a complete picture of the market due to the private nature of many spot market fixtures.
+\* The above report has been assembled from market intelligence and reported spot market activity. As such, it may not provide a complete picture of the market due to the private nature of many spot market fixtures.

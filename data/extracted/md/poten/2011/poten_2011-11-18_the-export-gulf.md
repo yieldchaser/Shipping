@@ -18,47 +18,35 @@ The high price of imported crude oil and decreased domestic consumer demand seen
 
 Finished petroleum product exports out of the US Gulf reached historic highs over 2011. According to the Energy Intelligence Agency (EIA), total export volumes reached over 1.9 mbd in the month of August, as seen in the chart below.
 
-### PADD III Exports 2000 to August 2011
+*Chart: PADD III Exports 2000 to August 2011*
 
-### PADD III Exports, (mbd)
+*Source: EIA/Poten*
 
-### Total US Demand, (mbd)
+**Gasoline**
 
-### Jan‐00
+**Jet Fuel**
 
-### Jan‐01
+**Distillate Fuel Oil**
 
-### Jan‐02
+Residual Fuel Oil
 
-### Jan‐03
+**Total US Demand**
 
-### Jan‐04
+### Total Product
 
-### Jan‐05
-
-### Jan‐06
-
-### Jan‐07
-
-### Jan‐08
-
-### Jan‐09
-
-### Jan‐10
-
-### Jan‐11
-
-Gasoline Jet Fuel Distillate Fuel Oil Residual Fuel Oil Total US Demand Total Product Distillate fuel oil exports, which include both heating oil and diesel, averaged almost 600 kbd over 2011 and reached almost 640 kbd in August of this year.
+Distillate fuel oil exports, which include both heating oil and diesel, averaged almost 600 kbd over 2011 and reached almost 640 kbd in August of this year.
 
 The US Energy Intelligence Agency (EIA) has projected that total US liquid fuels consumption will have fallen by 250 kbd year on year over 2011. However, worldwide demand continues to rise, and some refiners have been able to adjust their slates and export product to international markets.
 
-With six weeks left in 2011, total refined petroleum product spot fixture volumes out of the US Gulf have reached nearly 21 million MT - or some 4.5 percent more than in all of 2010. About one third of these barrels were bound for markets in the UK Continent and Mediterranean, as seen in the chart below.
+With six weeks left in 2011, total refined petroleum product spot fixture volumes out of the US Gulf have reached nearly 21 million MT – or some 4.5 percent more than in all of 2010. About one third of these barrels were bound for markets in the UK Continent and Mediterranean, as seen in the chart below.
 
-### Reported CPP Spot Fixture Tonnage ex‐US Gulf by Destination
+*Chart: Reported CPP Spot Fixture Tonnage ex‐US Gulf by Destination*
 
-### million Metric Tons
+*Source: Poten*
 
-2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 YTD UK Continent Mediterranean Caribbean EC South America WC South America Other In addition to growth on the traditional TransAtlantic backhaul trade, both spot fixture data and information released by the EIA suggest that developing economies in South and Central America are also increasingly sourcing barrels from the US Gulf coast. Combined reported clean fixture volumes to the Caribbean and South America grew from 4.4 million MT in 2008 to almost 10 million MT 2011 year to date, reflecting an increase of over 120%.
+UK Continent Mediterranean Caribbean EC South America WC South America Other
+
+In addition to growth on the traditional TransAtlantic backhaul trade, both spot fixture data and information released by the EIA suggest that developing economies in South and Central America are also increasingly sourcing barrels from the US Gulf coast. Combined reported clean fixture volumes to the Caribbean and South America grew from 4.4 million MT in 2008 to almost 10 million MT 2011 year to date, reflecting an increase of over 120%.
 
 As long as current refining market dynamics persist, higher volumes of US supplies are likely to continue being sent abroad in the form of finished products, particularly if Brazilian demand for American distillates remains high.
 

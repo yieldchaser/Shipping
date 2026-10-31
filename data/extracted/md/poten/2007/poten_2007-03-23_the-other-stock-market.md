@@ -14,15 +14,25 @@ charts_count: 1
 
 # The Other Stock Market
 
-Since they attained 5-year highs 7 weeks ago, US gasoline stock levels have fallen by more than 8% to 210 million barrels. At the same time crude oil stocks (excluding the SPR) have risen from 314 million barrels to 329 million barrels thus far in 2007. We can trace this simultaneous increase in crude stocks and decrease in gasoline stocks to low refinery utilization - the question is, where will the market go from here, given that peak summer driving season is quickly approaching?
+Since they attained 5-year highs 7 weeks ago, US gasoline stock levels have fallen by more than 8% to 210 million barrels. At the same time crude oil stocks (excluding the SPR) have risen from 314 million barrels to 329 million barrels thus far in 2007. We can trace this simultaneous increase in crude stocks and decrease in gasoline stocks to low refinery utilization – the question is, where will the market go from here, given that peak summer driving season is quickly approaching?
 
-### US Stock Levels
+*Chart: US Stock Levels*
 
-### k bbl
+*Source: EIA*
 
-Jan-02 Nov-02 Sep-03 Aug-04 Jun-05 Apr-06 Mar-07 Crude Oil (Excl SPR) Gasoline Poten & Partners _ x athens x guangzhou x hong kong x london x new york x perth x singapore 1 Current refinery utilization of 86.3% is well below the 5-year average utilization rate of 90.6%; in fact US refinery utilization has been below 5-year averages for all of 2007. At the same time, gasoline imports have actually been quite low relative to historical levels, remaining below historical average imports for each of the past four weeks.
+Crude Oil (Excl SPR)
 
-### Refinery Utilization
+Gasoline
+
+### Refinery Utilization and Gasoline Imports
+
+Current refinery utilization of 86.3% is well below the 5-year average utilization rate of 90.6%; in fact US refinery utilization has been below 5-year averages for all of 2007. At the same time, gasoline imports have actually been quite low relative to historical levels, remaining below historical average imports for each of the past four weeks.
+
+*Chart: US Refinery Utilization versus Gasoline Imports*
+
+*Source: EIA*
+
+Gasoline Imports Refinery Utilization
 
 ### What is the Net Effect
 

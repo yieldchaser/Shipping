@@ -14,17 +14,15 @@ charts_count: 1
 
 # A Midsummer Night's Dream!
 
-As in the Shakespearian play where reality seems a dream, VLCC rates this July are the real thing, though seem something pulled from a dream. July rates are the highest they've been in any July over the past ten years. A combination of factors is causing this phenomenon not the least of which is tight tonnage supply and a significant increase in oil flowing worldwide. Rates, which in 2002 averaged less than 40 WS for July, and WS 50 in July 2003, are now solidly averaging in the mid-100 WS range.
+As in the Shakespearian play where reality seems a dream, VLCC rates this July are the real thing, though seem something pulled from a dream. July rates are the highest they’ve been in any July over the past ten years. A combination of factors is causing this phenomenon not the least of which is tight tonnage supply and a significant increase in oil flowing worldwide. Rates, which in 2002 averaged less than 40 WS for July, and WS 50 in July 2003, are now solidly averaging in the mid-100 WS range.
 
-Jul-96 Jul-97 Jul-98 Jul-99 Jul-00 Jul-01 Jul-02 Jul-03 Jul-04 0
+*Chart: VLCC WS Rates AG-Far East*
 
 ### The Iraq Factor
 
-Crude oil output from Iraq's Basra Oil Terminal, which was under siege in early summer with a barrage of attacks that halted, then halved exports, is back up to export levels of 1.7 million bpd from lows of about 800,000 bpd in June. Still, charterers are not all that eager to fix vessels to Basra because of the attacks and this has caused rates to increase for those who are willing. As a consequence, the average cost per barrel of shipping oil in July is also at the highest recorded level, as seen in the graph below. During the past 10 years, the highest shipping cost per barrel was $1.41. This month that cost reached $2.28 per barrel.
+Crude oil output from Iraq’s Basra Oil Terminal, which was under siege in early summer with a barrage of attacks that halted, then halved exports, is back up to export levels of 1.7 million bpd from lows of about 800,000 bpd in June. Still, charterers are not all that eager to fix vessels to Basra because of the attacks and this has caused rates to increase for those who are willing. As a consequence, the average cost per barrel of shipping oil in July is also at the highest recorded level, as seen in the graph below. During the past 10 years, the highest shipping cost per barrel was $1.41. This month that cost reached $2.28 per barrel.
 
-### VLCC Shipping Costs AG-Far East
-
-### $ per Barrel
+*Chart: VLCC Shipping Costs AG-Far East*
 
 ### Worldwide Oil Demand Highest in 10 Years
 
@@ -34,21 +32,15 @@ In addition, Japan has just completed its refinery turnaround and is now importi
 
 ### OPEC Production Moving to Meet Demand
 
-OPEC's output is also currently at its highest output since 1990 at 29 million bpd. Worldwide oil production is also up by about 1.2 million bpd. All this oil needs to be transported. If Worldscale rates are at their July peak and per barrel costs are the highest for July in recent memory, owners earnings are not surprisingly also topping the charts at over $80,000 per day - a long way from the $17,000 per day of earnings last year. This movement of crude translates into high daily earnings for owners, as seen in the graph below.
+OPEC’s output is also currently at its highest output since 1990 at 29 million bpd. Worldwide oil production is also up by about 1.2 million bpd. All this oil needs to be transported. If Worldscale rates are at their July peak and per barrel costs are the highest for July in recent memory, owners earnings are not surprisingly also topping the charts at over $80,000 per day - a long way from the $17,000 per day of earnings last year. This movement of crude translates into high daily earnings for owners, as seen in the graph below.
 
-### VLCC TCE Rates AG-Far East
-
-### $ per Day
+*Chart: VLCC TCE Rates AG-Far East*
 
 ### The Dream
 
 Currently, the number of available vessels looking ahead 30 days is around 30, also an anomaly looking back at the past three years, where vessels figures have tended to be about 40-45 vessels, as seen in the graph below.
 
-### # VLCCs Arriving AG Next 30 Days
-
-### # VLCCs
-
-### Average
+*Chart: # VLCCs Arriving AG Next 30 Days*
 
 The VLCC market is reaping the benefit of high oil demand fueled by developing economies. It looks as if VLCCs will maintain a high level of employment through the remainder of this year and early next year. Demand growth is predicted to slow down a bit in 2005 and this should affect the VLCC market rates. If the normally tepid July is producing record rates, we can only dream about the reality of rates this winter and into next year.
 

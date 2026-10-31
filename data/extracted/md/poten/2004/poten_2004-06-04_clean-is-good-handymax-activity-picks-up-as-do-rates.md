@@ -14,49 +14,35 @@ charts_count: 1
 
 # Clean Is Good Handymax Activity Picks Up As Do Rates
 
-Long-haul trans-Atlantic clean tanker rates are moving up faster than short- haul rates from the Caribbean to the US Gulf. The cause of this is a combination of rising U.S. import and falling clean products production in Venezuela. Moving more product from a source further away does wonders to rates. The following chart shows weekly assessed rates for two popular clean routes - UKC to US - and Caribbean to US. But these are weekly assessments, in terms of individual fixtures, some have been as high as WS340 on the UKC to US trade.
+Long-haul trans-Atlantic clean tanker rates are moving up faster than short-haul rates from the Caribbean to the US Gulf. The cause of this is a combination of rising U.S. import and falling clean products production in Venezuela. Moving more product from a source further away does wonders to rates. The following chart shows weekly assessed rates for two popular clean routes - UKC to US - and Caribbean to US. But these are weekly assessments, in terms of individual fixtures, some have been as high as WS340 on the UKC to US trade.
 
-### Handymax Spot Rates
-
-UKC/U.S. Caribs/U.S.
+*Chart: Handymax Spot Rates*
 
 ### Handymax Steps Up a Notch
 
 Handymax voyages on the whole have been increasing during the past five years at an impressive average growth rate of 5.8% per year. The primary cause is refinery capacity growth lagging growth in demand. This tightens up refinery utilization and increases the seaborne movement of refined products. Note that 2004 data has been annualized.
 
-### Handymax Fixture Activity
+*Chart: Handymax Fixture Activity*
 
 ### Trade Routes Change Focus
 
 The changing nature of clean product trade is apparent in the next chart. There has been remarkable growth in the intra-Southeast Asia trade dominated by
 
-### Handymax Spot Fixtures by Principal Trades
+*Chart: Handymax Spot Fixtures by Principal Trades*
 
-Carib/U.S. UKC/U.S. Intra-Asia growth in oil demand in China. China has an active refinery building program, but it is insufficient to cover growth in demand for oil products. The Caribbean - US trade collapsed in 2002 from Venezuelan civil unrest, but overall, this important trade for clean product tankers has not exhibited much in the way of growth. On the other hand, the UKC trade is rapidly expanding and its volume of fixtures is currently exceeding Caribbean fixtures.
+growth in oil demand in China. China has an active refinery building program, but it is insufficient to cover growth in demand for oil products. The Caribbean - US trade collapsed in 2002 from Venezuelan civil unrest, but overall, this important trade for clean product tankers has not exhibited much in the way of growth. On the other hand, the UKC trade is rapidly expanding and its volume of fixtures is currently exceeding Caribbean fixtures.
 
 ### Evident Impact
 
 The Caribbean has lost 4% of its share of fixtures between 1999 and 2004, whereas the UK fixtures grew 8%. While the share of intra-Asia fixtures has remained the same, the number of fixtures has increased along with the aggregate number of fixtures.
 
-Carib/U.S.
+*Chart*
 
-UKC/U.S.
+Handymax Spot Fixtures By Principal Trades
 
-### Other
+*Chart: Carib/U.S.*
 
-### Handymax Spot Fixtures
-
-### By Principal Trades
-
-### Intra-Asia
-
-Carib/U.S.
-
-UKC/U.S.
-
-### Other
-
-### Intra-Asia
+**Poten & Partners**
 
 ### Where Do We Go From Here?
 

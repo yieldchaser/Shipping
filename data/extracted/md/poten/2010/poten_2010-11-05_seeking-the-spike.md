@@ -14,25 +14,25 @@ charts_count: 0
 
 # Seeking the Spike
 
-Some slight upward rate pressure has been felt in the VLCC market in the early part of this week, however the sustainability of the upward pressure came into question as spot market rates waffled somewhat mid‐week. With shipowners hoping this could be the spark for a market spike, at this point it seems the position lists are the key to the fate of freight rates. Although there still seems to be ample tonnage for the likely required cargoes, VLCC freight rates have managed to edge higher. The chart below shows the Arabian Gulf cargo count at the start of each month overlaid with the balance of the month versus the average Worldscale rate for the Arabian Gulf to Far East voyage on 260kt. The cargoes number represents those that are reported in the spot market as of the first of each month. Interestingly, the number of cargoes which by the first day of each month are already covered by tonnage have varied significantly since the start of the year. Whereas the total number of cargoes per month has stayed relatively steady. April saw as many as 80 cargoes scheduled by the first of the month, whereas January, March, August and October set out with fewer than 50. The tone of the market and the charterer's strategy is set by comparing the forthcoming volumes against a suitable tonnage list.
+Some slight upward rate pressure has been felt in the VLCC market in the early part of this week, however the sustainability of the upward pressure came into question as spot market rates waffled somewhat mid‐week. With shipowners hoping this could be the spark for a market spike, at this point it seems the position lists are the key to the fate of freight rates. Although there still seems to be ample tonnage for the likely required cargoes, VLCC freight rates have managed to edge higher. The chart below shows the Arabian Gulf cargo count at the start of each month overlaid with the balance of the month versus the average Worldscale rate for the Arabian Gulf to Far East voyage on 260kt. The cargoes number represents those that are reported in the spot market as of the first of each month. Interestingly, the number of cargoes which by the first day of each month are already covered by tonnage have varied significantly since the start of the year. Whereas the total number of cargoes per month has stayed relatively steady. April saw as many as 80 cargoes scheduled by the first of the month, whereas January, March, August and October set out with fewer than 50. The tone of the market and the charterer’s strategy is set by comparing the forthcoming volumes against a suitable tonnage list.
 
-### Cargo Count vs. Worldscale Rate
+*Chart: Cargo Count vs. Worldscale Rate*
 
-### Month Average WS Rate
+Jan‐10 Feb‐10 Mar‐10 Apr‐10 May‐10 Jun‐10 Jul‐10 Aug‐10 Sep‐10 Oct‐10 Nov‐10
 
-### Cargo Count
+Source: Poten & Partners
 
-Jan‐10 Feb‐10 Mar‐10 Apr‐10 May‐10 Jun‐10 Jul‐10 Aug‐10 Sep‐10 Oct‐10 Nov‐10 Cargo Count Balance of Month WS Rate The noticeable decline in freight rates began in July and has carried through October. Although the total number of cargoes lifted in those months declined to around the 100 mark, the real damper on the market was likely the change in tonnage supply. Toward the end of the summer, crude oil contango diminished resulting in many ships reentering the trading fleet. The resulting near‐term tonnage supply increase, coupled with the ongoing newbuilding deliveries resulted in a tonnage supply increase during a time of waning demand.
+The noticeable decline in freight rates began in July and has carried through October. Although the total number of cargoes lifted in those months declined to around the 100 mark, the real damper on the market was likely the change in tonnage supply. Toward the end of the summer, crude oil contango diminished resulting in many ships reentering the trading fleet. The resulting near‐term tonnage supply increase, coupled with the ongoing newbuilding deliveries resulted in a tonnage supply increase during a time of waning demand.
 
 ### Supplies Keep Creeping
 
 New additions to the VLCC fleet have impacted the spot freight rates most directly as the incremental newbuilding deliveries will tend to trade in the spot market. As is shown in the below graph, the average level of available ship supply has increased throughout the year, generally in line with the total number of VLCC deliveries (44 year‐to‐date). Vessel availability for the next 30 days peaked at the start of October; 128 VLCCs with potential to position to the Arabian Gulf over the coming month.
 
-### Vessel Availability
+*Chart: Vessel Availability*
 
-### No. of Ships
+Vessels Available (Next 15 Days)
 
-Vessels Available (Next 15 Days) Vessels Available (Next 30 Days)
+Vessels Available (Next 30 Days)
 
 ### Rate Recovery?
 

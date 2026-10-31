@@ -24,11 +24,19 @@ Looking at the details, there were three load areas with significant growth: The
 
 MR trade growth in the Middle East was mainly driven by intra-regional growth, rather than by long haul exports. The product trade from the Middle East to UKC declined marginally for MRs but increased for larger vessel classes, especially LR2s for an overall increase in trade.
 
-### U.S. exports to Latin America accounted for an important
-
-share of the MR trade growth. Reported MR fixtures from the U.S. to the Caribbean and to EC Mexico almost doubled during the analysis period, compared to the prior year, from 108 to 192 cargoes. Fixtures to the other Latin American countries all increased, especially the relatively long haul trade to Chile, which more than doubled from 9 to 21 fixtures.
+U.S. exports to Latin America accounted for an important share of the MR trade growth. Reported MR fixtures from the U.S. to the Caribbean and to EC Mexico almost doubled during the analysis period, compared to the prior year, from 108 to 192 cargoes. Fixtures to the other Latin American countries all increased, especially the relatively long haul trade to Chile, which more than doubled from 9 to 21 fixtures.
 
 The most significant growth area for MRs during this period was the intra-regional trade around Europe, both in the UK/Continent (UKC) and in the Mediterranean (Med). Total spot MR fixtures originating in UKC and Med increased by 207 (+30%), of which 145 were regional fixtures, predominantly in the Med.
+
+Fleet esv
+
+*Chart: Fig. 1: MR Spot Market Rates*
+
+*Source: Poten*
+
+*Chart*
+
+*Source: Poten*
 
 Indian exports also contributed to MR demand growth, although LR1s play a more significant role in this market. Trade from India to the Middle East contributed to MR demand growth as reported fixtures in the analysis period increased from 43 to 74.
 

@@ -24,11 +24,33 @@ The system traces its roots back to World War II and was originally developed to
 
 The voyage costs included in the calculation are port costs, canal costs and bunkers. Port and canal costs are typically a smaller component of the total voyage costs and relatively constant. Volatility is mainly caused by changes in bunker prices. Worldscale uses the average bunker costs from the beginning of October of the prior year to end September of the current year to establish the bunker cost assumptions for the calculations.
 
-### Sources: Ship&Bunker, Bunkerworld, Worldscale
+*Chart*
 
-Worldscale Bunker Prices and Flat Rate changes for Major Routes (2017=100) Change 2017 2018 2019 IMO2019 '17-'18 '18-'19 '18-IMO19 Bunker Prices used for Flat Rate: 0.1% MGO Avg 3.5%Sulfur HFO Price 219.69 314.99 417.77 665.35 +43% +33% +59% From To 2017 2018 2019 Est IMO2019 '17-'18 '18-'19 '18-IMO19 Flat Rates (Indexed, 2017=100): Ras Tanura Ningbo 100.0 118.5 141.2 195.4 +19% +19% +65% Bonny Philadelphia 100.0 118.0 140.5 186.1 +18% +19% +58% Puerto La Cruz Houston 100.0 101.1 118.3 145.5 +1% +17% +44% Rotterdam New York 100.0 113.1 136.4 152.8 +13% +21% +35% Average: +13% +19% +50% Bunker prices for the period 1 October 2017 - 30 September 2018 averaged $418 per ton for 3.5% sulphur HFO, $103 higher than bunker prices for the same period one year earlier. Based on this, flat rates will increase about 19% on average (see table). This is a similar increase as last year.
+*Sources: Ship&Bunker, Bunkerworld, Worldscale*
 
-What could be the impact, if we assume that Worldscale will switch to low sulphur bunker fuel in its calculation? In the absence of data for 0.5% sulphur bunker fuel, we will use the 0.1% sulphur fuel as a proxy. As you would expect, the results are quite dramatic. The average of the 0.1% sulphur bunker prices that Worldscale uses for the ECA zones in 2019 is $665 per ton. If this fuel was the basis for the calculation, average flat rates would jump by 50% next year. While this doesn't mean that freight rates would increase by the same amount (Worldscale rates may adjust), it does give an indication of the potential impact of the switch to low sulphur bunkers.
+**Worldscale Bunker Prices and Flat Rate changes for Major Routes (2017=100)**
+
+| Bunker Prices used for Flat Rate: | 2017 | 2018 | 2019 IMO2019 0.1% MGO | '17-'18 | Change '18-'19 | '18-IMO19 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Avg 3.5%Sulfur HFO Price | 219.69 | 314.99 | 417.77 665.35 | +43% | +33% | +59% |
+| From To | 2017 | 2018 | 2019 Est IMO2019 | '17-'18 | '18-'19 | '18-IMO19 |
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Avg 3.5%Sulfur HFO Price | 219.69 | 314.99 | 417.77 665.35 | +43% | +33% | +59% |
+| From To | 2017 | 2018 | 2019 Est IMO2019 | '17-'18 | '18-'19 | '18-IMO19 |
+| Flat Rates (Indexed, 2017=100): |  |  |  |  |  |  |
+| Ras Tanura Ningbo | 100.0 | 118.5 | 141.2 195.4 | +19% | +19% | +65% |
+| Bonny Philadelphia | 100.0 | 118.0 | 140.5 186.1 | +18% | +19% | +58% |
+| Puerto La Cruz Houston | 100.0 | 101.1 | 118.3 145.5 | +1% | +17% | +44% |
+| Rotterdam New York | 100.0 | 113.1 | 136.4 152.8 | +13% | +21% | +35% |
+|  |  |  | Average: | +13% | +19% | +50% |
+
+Source: Worldscale, Poten & Partners
+
+Bunker prices for the period 1 October 2017 – 30 September 2018 averaged $418 per ton for 3.5% sulphur HFO, $103 higher than bunker prices for the same period one year earlier. Based on this, flat rates will increase about 19% on average (see table). This is a similar increase as last year.
+
+What could be the impact, if we assume that Worldscale will switch to low sulphur bunker fuel in its calculation? In the absence of data for 0.5% sulphur bunker fuel, we will use the 0.1% sulphur fuel as a proxy. As you would expect, the results are quite dramatic. The average of the 0.1% sulphur bunker prices that Worldscale uses for the ECA zones in 2019 is $665 per ton. If this fuel was the basis for the calculation, average flat rates would jump by 50% next year. While this doesn’t mean that freight rates would increase by the same amount (Worldscale rates may adjust), it does give an indication of the potential impact of the switch to low sulphur bunkers.
 
 Worldscale has not reached a definitive agreement on whether, how and when to make the switch, but it is more likely than not that some type of low sulphur bunker fuel will become the de-facto standard in 2020. Charterers will look towards 2020 with some trepidation.
 

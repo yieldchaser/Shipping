@@ -14,15 +14,19 @@ charts_count: 3
 
 # Tanker Midterms   2024 Edition
 
-### Reported % of Total 2024 H1 Total Cargo Dirty 2023  H1 2024 H1 Rank Charterer (MT 000's) Cargoes Rank Fixtures Top Reported Dirty Spot Charterers for 1H 2024*
+### Top Reported Dirty Spot Charterers for 1H 2024*
 
 The oil tanker markets are still largely driven by the Russian invasion of Ukraine and related sanctions and by the Red Sea crisis caused by Houthi attacks on ships travelling near the Red Sea. Fixtures related to Russian trades are usually not reported in the market but represent substantial volumes. Not unexpected, Unipec remains by far the largest charterer, even though the Chinese economy and oil demand growth is still below the trend of previous years. We recorded 8.7% less volume for Unipec spot fixtures while the total number of reported fixtures increased by 3.5% compared to the first half of 2023.
 
+*Chart*
+
 Unipec maintained its position at the top of the VLCC segment, despite a decrease in its number of VLCC fixtures from 369 in H1 2023 to 344 in H1 2024. Petrobras (52 fixtures) moved up from sixth position to second, reflecting their oil production growth. Shell and IOC share the third position with 43 fixtures each. Overall, the number of reported VLCC spot fixtures increased slightly from 1,561 in H1 2023 to 1,576 this year.
+
+*Chart*
 
 Chevron takes top spot in the Suezmax segment with 51 fixtures, moving up from the number six spot last year, closely followed by Shell (48) and Exxon with 47. IOC re-appeared in the top 10 after dropping out last year.
 
-| Rank | Charterer | Reported Total Cargo (MT 000s) | % of Total Dirty Cargoes | Prev Rank | Fixtures |
+| 2024 H1 Rank | Charterer | Reported Total Cargo (MT 000's) | % of Total Dirty Cargoes | 2023 H1 Rank | 2024 H1 Fixtures |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Unipec | 99,205 | 15.5% | 1 | 422 |
 | 2 | Chevron | 22,720 | 3.6% | 5 | 166 |
@@ -44,8 +48,17 @@ Chevron takes top spot in the Suezmax segment with 51 fixtures, moving up from t
 | 18 | Aramco | 7,555 | 1.2% | 24 | 64 |
 | 19 | Sinochem | 7,550 | 1.2% | 16 | 31 |
 | 20 | Equinor | 7,400 | 1.2% | 21 | 54 |
+|  | Top 20 | 346,475 | 54.3% |  | 2,123 |
+|  | Others | 291,880 | 45.7% |  | 1,724 |
+|  | Total | 638,355 | 100.0% |  | 3,847 |
 
-In the Aframax segment, Chevron also takes the first spot with 74 fixtures during the first six months of 2024. Total (62 fixtures) moved up one spot to second while PTT (59) gained 3 positions to end third this year. PK Orlen entered the top 10 this year as they replace Russian pipeline imports with shipping. * The above report has been assembled from market intelligence and reported spot market activity. As such, it may not provide a complete picture of the market due to the private nature of many spot market fixtures.
+*Chart*
+
+*Source: Poten & Partners*
+
+In the Aframax segment, Chevron also takes the first spot with 74 fixtures during the first six months of 2024. Total (62 fixtures) moved up one spot to second while PTT (59) gained 3 positions to end third this year. PK Orlen entered the top 10 this year as they replace Russian pipeline imports with shipping.
+
+\* The above report has been assembled from market intelligence and reported spot market activity. As such, it may not provide a complete picture of the market due to the private nature of many spot market fixtures.
 
 ## Market Exhibits & Charts
 

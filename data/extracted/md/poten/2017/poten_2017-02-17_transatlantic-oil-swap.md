@@ -28,7 +28,17 @@ In Europe, similar developments apply; middle distillate demand has declined ste
 
 North American product imports from Europe and the Med have gradually declined from 42.9 million tons per year in 2006 to an estimated 22.3 million tons in 2016 (see figure 1) as U.S. refineries became more competitive and expanded capacity through additions to existing refineries. The largest product exporters to North America are the UK (4.7 Mt in 2016) and the Netherlands (3.8 Mt).
 
-On the other hand, North American exports to Europe (see figure 2) have increased from 2.8 million tons in 2006 to an estimated 13.8 million tons. The largest product importers in Europe are the U.K. (3.3 Mt in 2016) and France (4.4 Mt).
+On the other hand, North American exports to Europe (see figure 2) have increased from 2.8 million tons in 2006 to an estimated 13.8 million tons. The largest product importers in
+
+*Chart: Fig. 1: Product Exports from Europe to North America vs Freight (UKC-USAC)*
+
+*Source: IEA*
+
+*Chart: Fig. 2: Product Exports from North America to Europe vs Freight (USG-UKC)*
+
+*Source: IEA*
+
+Europe are the U.K. (3.3 Mt in 2016) and France (4.4 Mt).
 
 Analysts generally believe that refining margins will remain under pressure in the coming years and some anticipate that weaker refineries might close. Some of the European refineries are seen as likely candidates for closure or conversions to terminals. The impact of the IMO sulfur regulations taking effect in 2020 on the Heavy Fuel Oil (HFO) market could further affect the competitiveness of simple refineries in Europe. For example, in a recent report, OPEC forecasted another 1.0 Mb/d of refinery capacity closures in Europe by 2021. Refinery closures would increase the distillate shortage in the region and will be supportive for product tanker movements.
 

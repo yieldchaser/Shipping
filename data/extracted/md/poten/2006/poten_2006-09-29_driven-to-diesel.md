@@ -14,49 +14,23 @@ charts_count: 1
 
 # Driven to Diesel?
 
-In a recent interview with the Wall Street Journal, President Bush reiterated his position on decreasing the United States' reliance on foreign oil and changing driving habits to curb gasoline consumption. Homegrown ethanol technology was offered as a solution. He remarked, "It's interesting, this [energy] diversification has required federal involvement-federal involvement through tax credits for ethanol, as well as research dollars." In a market economy, price should be the ultimate determinant of widespread interest in an alternative fuel source in the United States. The market has been clear: today's gasoline prices simply are not high enough to be a catalyst toward an appreciable switch to ethanol or another feasible substitute, like diesel. Perhaps the need for federally funded research is not as surprising after all.
+In a recent interview with the Wall Street Journal, President Bush reiterated his position on decreasing the United States’ reliance on foreign oil and changing driving habits to curb gasoline consumption. Homegrown ethanol technology was offered as a solution. He remarked, “It’s interesting, this [energy] diversification has required federal involvement-federal involvement through tax credits for ethanol, as well as research dollars.” In a market economy, price should be the ultimate determinant of widespread interest in an alternative fuel source in the United States. The market has been clear: today’s gasoline prices simply are not high enough to be a catalyst toward an appreciable switch to ethanol or another feasible substitute, like diesel. Perhaps the need for federally funded research is not as surprising after all.
 
-### Gasoline more valuable
+*Chart: Gasoline more valuable*
 
-### Effects of 2005 hurricanes
-
-### cents/gallon
-
-### Jan
-
-### Jun
-
-### Jul
-
-### Dec
-
-### Nov
-
-### Oct
-
-### May
-
-### Aug
-
-### Apr
-
-### Mar
-
-### Feb
-
-### Sep
-
-### Diesel more valuable
-
-Poten & Partners | new york • london • athens • perth • hong kong • guangzhou 1 The graph on the previous page shows the price spread between the spot US Gulf Coast gasoline and No. 2 low-sulfur diesel. When the line is above the x-axis it indicates that gasoline is more expensive and thus more valuable to refiners than diesel. When the line is below the axis, diesel is more expensive. What is interesting is that in the last two years, diesel has been more valuable to refiners even during peak driving season. If this trend continues, the supposed savings to consumers for switching to diesel vehicles may not be realized.
+The graph on the previous page shows the price spread between the spot US Gulf Coast gasoline and No. 2 low-sulfur diesel. When the line is above the x-axis it indicates that gasoline is more expensive and thus more valuable to refiners than diesel. When the line is below the axis, diesel is more expensive. What is interesting is that in the last two years, diesel has been more valuable to refiners even during peak driving season. If this trend continues, the supposed savings to consumers for switching to diesel vehicles may not be realized.
 
 ### Picking A Pump
 
 Automakers have been publicizing the advantages of driving diesel cars in the United States, and have particularly focused on fuel economy. While diesel engines generally get better mileage, the price of diesel relative to gasoline may jeopardize any savings.
 
-The chart above shows the nationwide average prices of retail gasoline versus the prices of retail diesel over the last two years. For the time series above, the average price of gasoline is $2.42/gallon while the average price of diesel is $2.49/gallon.
+*Chart*
 
-Retail Gasoline Price Retail Diesel Price
+**Retail Gasoline Price**
+
+### Retail Diesel Price
+
+The chart above shows the nationwide average prices of retail gasoline versus the prices of retail diesel over the last two years. For the time series above, the average price of gasoline is $2.42/gallon while the average price of diesel is $2.49/gallon.
 
 ### Changing the Mix
 

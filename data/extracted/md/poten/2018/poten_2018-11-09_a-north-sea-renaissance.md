@@ -16,7 +16,7 @@ charts_count: 2
 
 ### North Sea crude oil exports remain relevant
 
-On Thursday, an Aframax crude oil tanker and a Norwegian navy frigate collided off Norway's west coast, just north of the Sture oil terminal. While the frigate, the "KNM Helge Ingstad", sustained significant damage, the oil tanker only reported minor damage, no injuries and no pollution. As a precaution, Equinor temporary closed the Sture oil terminal and the Kollsnes gas processing plant. While the incident will likely have a limited impact on the oil & tanker market, it has focused our attention on the continued importance of the North Sea oil market.
+On Thursday, an Aframax crude oil tanker and a Norwegian navy frigate collided off Norway’s west coast, just north of the Sture oil terminal. While the frigate, the “KNM Helge Ingstad”, sustained significant damage, the oil tanker only reported minor damage, no injuries and no pollution. As a precaution, Equinor temporary closed the Sture oil terminal and the Kollsnes gas processing plant. While the incident will likely have a limited impact on the oil & tanker market, it has focused our attention on the continued importance of the North Sea oil market.
 
 Large scale oil production in the North Sea dates back to the late 1960s/early 1970s when large discoveries were made in the Norwegian and UK waters of the North Sea. Ekofisk, Montrose, Forties, Brent, Piper and Statfjord were all discovered in a span of five years. Starting in the mid-1970s, production ramped up very quickly, from 226,000 b/d in 1975 to 3.7 million b/d in 1986 and ultimately reaching a peak of 6.3 million b/d in 1999. Current output is less than half of what it was during the peak years, but in recent years, North Sea producers have been able to arrest the decline in output. After dipping below 3 million b/d in 2013, North Sea production increased again as volumes from both the UK and the Norwegian sections have been growing.
 
@@ -26,7 +26,15 @@ It should not be a surprise that the market share of the various tanker segments
 
 For VLCCs, the two main destinations for North Sea crude in Asia are China and Korea, with occasional deliveries to other destinations like Thailand, Malaysia and Taiwan.
 
-Suezmaxes have a more diverse group of destinations. Most of the Suezmax cargoes end up in the United Kingdom and the Netherlands, followed by Norway, Germany, Sweden, France and Denmark. Across the Atlantic, both the U.S. and Canada regularly receive Suezmaxes with North Sea crudes. The Mediterranean is a not a popular destination for North Sea barrels. This is mostly due to the configuration of the refineries in the region. They are not set up to run North Sea crudes.
+Suezmaxes have a more diverse group of destinations. Most of the Suezmax cargoes end up in the United Kingdom and the
+
+*Chart*
+
+*Source: BP/IEA*
+
+*Source: Lloyd’s List Intelligence*
+
+Netherlands, followed by Norway, Germany, Sweden, France and Denmark. Across the Atlantic, both the U.S. and Canada regularly receive Suezmaxes with North Sea crudes. The Mediterranean is a not a popular destination for North Sea barrels. This is mostly due to the configuration of the refineries in the region. They are not set up to run North Sea crudes.
 
 Despite the fact that the North Sea is considered a mature region, the outlook for production and exports in the coming years is positive. In their Medium Term Outlook, the IEA expects renewed growth in the area. Projects that were undertaken both before the collapse of oil prices in 2014, and more recently in the case of Norway, slowly come online. New projects are also expected to provide a significant boost to Norwegian output in the medium term. Total oil output is forecast to grow by 450,000 b/d to 2.4 mb/d by 2023, the highest level since 2008. The IEA is less optimistic about the United Kingdom. The short-term outlook is good, but due to a lack of investment, there is a risk of sharp declines in the not too distant future.
 

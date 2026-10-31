@@ -20,23 +20,23 @@ Tougher standards by charterers were not enough to calm the public outcry. The E
 
 In addition to the ongoing fleet renewal that is occurring, regulatory changes are clearly impacting the Panamax sector. As show below, the role of single hull Panamax tankers is clearly declining.
 
-### Worldwide Panamax Spot Dirty Fixture Activity
+*Chart: Worldwide Panamax Spot Dirty Fixture Activity by Hull Type*
 
-### by Hull Type
-
-Other* Single Double * Includes double bottom and double sided tankers.
+\* Includes double bottom and double sided tankers.
 
 As shown on the next page, the current level of fixture activity amounts to only 10%, compared to over 60% of spot dirty fixtures at the beginning of 2004.
 
-### % Participation Single Hull Panamaxes in Spot Dirty Fixtures
+*Chart: % Participation Single Hull Panamaxes in Spot Dirty Fixtures*
 
 Single hull Panamax tankers remain active in the Caribs/U.S. trade. Tankers calling on U.S. ports must comply with the U.S. Oil Pollution Act of 1990, with its own single hull tanker phase out schedule. There are, however, no special restrictions for fuel oil cargoes.
 
 A comparison of Worldscale rates for single and double hull tankers on this trade is below.
 
-### Panamax Dirty Spot Fixture Rates Carib/USA
+*Chart: Panamax Dirty Spot Fixture Rates Carib/USA*
 
-Double Single The average Worldscale point spread between double and single hull Panamaxes trading dirty Carib/US since January 2004 has been 34 WS points, or an estimated $10,000-$12,000 per day. The point spread is indicative of two phenomena: O Single hull tankers excluded from EU and IMO nations are concentrating in areas where employment is available. However in order to obtain employment, owners of single hull tankers must compete against one another for the available cargoes.
+The average Worldscale point spread between double and single hull Panamaxes trading dirty Carib/US since January 2004 has been 34 WS points, or an estimated $10,000-$12,000 per day. The point spread is indicative of two phenomena:
+
+O Single hull tankers excluded from EU and IMO nations are concentrating in areas where employment is available. However in order to obtain employment, owners of single hull tankers must compete against one another for the available cargoes.
 
 O Charterers are concerned about the potential liabilities that can be incurred by an oil spill in U.S. waters. Double hull tankers would result in no oil spill for low energy collisions or groundings where only the outer hull is breeched. Some charterers are willing to pay a premium for double hull tankers for the added protection.
 
@@ -44,7 +44,7 @@ O Charterers are concerned about the potential liabilities that can be incurred 
 
 The shift in preference by charterers for newer double hull tankers in the wake of the Erika and Prestige spills, the unilateral EU ban on single hull tankers for heavy oil cargoes, and the new IMO shipping regulations with regard to heavy fuel oil cargoes have established a trend. The consequence of this trend is that double hull tankers are and will be able to command better rates than single hull tankers for fuel oil transport.
 
-Poten's monthly multi-client report Fuel Oil in World Markets keeps subscribers abreast of regulatory developments affecting fuel oil transport. For information about this report, please contact Ms. Saida Seddaoui at sseddaoui@poten.com or at 1-212-230-5410.
+Poten’s monthly multi-client report Fuel Oil in World Markets keeps subscribers abreast of regulatory developments affecting fuel oil transport. For information about this report, please contact Ms. Saida Seddaoui at sseddaoui@poten.com or at 1-212-230-5410.
 
 ## Market Exhibits & Charts
 

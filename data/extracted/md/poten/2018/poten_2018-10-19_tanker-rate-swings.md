@@ -16,7 +16,7 @@ charts_count: 2
 
 ### What caused the tanker rate spike and is it sustainable?
 
-VLCC rates on the benchmark TD3c (Ras Tanura - Ningbo) averaged around $16,500 per day during September. Rates for the week ending September 28, were $18,825/day. One week later, rates jumped to more than $40,000/day. Since then, VLCC rates have been maintained at these levels, while Suezmax and Aframax rates have followed VLCC rates in their upward trajectory about a week later. What caused this sudden spike in rates and will it be sustainable?
+VLCC rates on the benchmark TD3c (Ras Tanura – Ningbo) averaged around $16,500 per day during September. Rates for the week ending September 28, were $18,825/day. One week later, rates jumped to more than $40,000/day. Since then, VLCC rates have been maintained at these levels, while Suezmax and Aframax rates have followed VLCC rates in their upward trajectory about a week later. What caused this sudden spike in rates and will it be sustainable?
 
 Tanker rates are volatile and cyclical. In addition, they also typically show a clear seasonal pattern. Almost every year, VLCC rates bottom out during the late summer in August/September, before picking up again in the fourth quarter. Sometimes the strength of the tanker cycle overwhelms the seasonal factors, while at other times external factors reinforce and/or enhance the seasonality of rates.
 
@@ -24,7 +24,15 @@ While it is impossible to pinpoint the precise reasons for the recent increase i
 
 In addition to higher crude oil flows, there are also the typical seasonal patterns. Oil demand always increases during the winter months in the northern hemisphere since colder weather stimulates heating oil demand. At the same time vessel productivity typically declines in the winter as weather delays are more frequent. This year, bad weather has had an impact as well. The U.S. was hit by hurricane Florence in September and hurricane Michael in early October. At the same time a cyclone hit the East Coast of India. These extreme weather events caused delays in vessels loading and discharging. This created inefficiencies and dislocations.
 
-There has been a significant pickup in the number of fixtures in the early weeks of October. Reports from Poten's VLCC desk show at least 157 vessels fixed out of the Arabian Gulf in October 2018, the highest monthly volume since at least 2016. This compares to an average of 135 per month in 2018 YTD and 124 in 2017. Volumes from West Africa have picked up as well.
+There has been a significant pickup in the number of fixtures in the early weeks of October. Reports from Poten’s VLCC desk show at least 157 vessels fixed out of the Arabian Gulf in October 2018, the highest monthly volume since at least 2016. This compares to an average of 135 per month in 2018 YTD and 124 in 2017. Volumes from West Africa have picked up as well.
+
+*Chart*
+
+*Source: Poten & Partners*
+
+*Chart*
+
+*Source: Poten & Partners*
 
 The number of 1 million-barrel stems reached 75 in October, equivalent to about 37 VLCC cargoes, the highest monthly number since at least 2013 and well above the year-to-date monthly average of 32 cargoes. Last, but not least, there has been a steady flow of activity from the U.S. Gulf/Caribbean area, primarily (long-haul) U.S. crude oil exports.
 

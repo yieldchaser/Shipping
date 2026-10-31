@@ -18,7 +18,7 @@ charts_count: 1
 
 In the coming weeks, Worldscale will publish the 2023 Flat Rates. In most other years, bunker prices are the primary driver for changes in the flat rates. However, this year the Worldscale organization decided to make additional changes to their assumptions. This week we will take a look at the estimated impact of these changes on the 2023 Flat Rates.
 
-We will start with a brief explanation of how the Worldscale system works. The roots of the system go back to the second world war when the U.S. and U.K governments used a similar system to relet requisitioned tonnage for voyage charters to oil companies. This system was adapted to the commercial world and in the late 1960's became known as the Worldscale system. The objective of the system is to equalize the net daily revenue for a voyage, even though the actual destination port(s) might change during the voyage.
+We will start with a brief explanation of how the Worldscale system works. The roots of the system go back to the second world war when the U.S. and U.K governments used a similar system to relet requisitioned tonnage for voyage charters to oil companies. This system was adapted to the commercial world and in the late 1960’s became known as the Worldscale system. The objective of the system is to equalize the net daily revenue for a voyage, even though the actual destination port(s) might change during the voyage.
 
 The system consists of two components: A. The Flat Rate is an amount that typically remains constant for a year and is calculated by the Worldscale organization and B. a negotiated percentage called the Worldscale rate that changes continually and depends largely on the tonnage supply and demand situation and the vessel characteristics. The actual freight paid for a ton of cargo is calculated by multiplying the Flat Rate for the specific ports with the Worldscale rate (divided by 100).
 
@@ -28,9 +28,34 @@ Normally, the bunker prices are the main factor influencing changes in the flat 
 
 Over the last twelve months, bunker prices have increased significantly, as the world generally reduced COVID-19 restrictions, oil demand recovered but also due to the fallout of the Russian invasion of Ukraine. Worldscale uses VLSFO and
 
-### Worldscale Bunker Prices and Flat Rates for Major Routes
+**Change**
 
-Change 2020 2021 2022 2023 '20-'21 '21-'22 '22-'23 Bunker Prices used for Flat Rate: Average Bunker Price (VLSFO) 550.42 412.28 473.95 790.34 -25% +15% +67% From To 2020 2021 2022 2023 Est '20-'21 '21-'22 '22-'23 Flat Rates: Ras Tanura Ningbo 100 83 91 113 -17% +9% +24% Bonny Rotterdam 100 84 91 131 -16% +9% +44% Puerto La Cruz Houston 100 87 94 130 -13% +8% +39% Rotterdam New York 100 84 92 151 -16% +10% +64% Average: -16% +9% +43% Index, 2020 = 100 MGO for the voyage calculations and both of these commodities increased in price as the availability of low sulfur fuel tightened.
+*Chart: Worldscale Bunker Prices and Flat Rates for Major Routes*
+
+**'21-'22**
+
+**'22-'23**
+
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Average Bunker Price (VLSFO) | 550.42 | 412.28 | 473.95 | 790.34 | -25% | +15% | +67% |
+| From To | 2020 | 2021 | 2022 | 2023 Est | '20-'21 | '21-'22 | '22-'23 |
+| Flat Rates: |  |  |  |  |  |  |  |
+| Ras Tanura Ningbo | 100 | 83 | 91 | 113 | -17% | +9% | +24% |
+| Bonny Rotterdam | 100 | 84 | 91 | 131 | -16% | +9% | +44% |
+| Puerto La Cruz Houston | 100 | 87 | 94 | 130 | -13% | +8% | +39% |
+| Rotterdam New York | 100 | 84 | 92 | 151 | -16% | +10% | +64% |
+|  |  |  |  | Average: | -16% | +9% | +43% |
+
+Index, 2020 = 100
+
+*Chart*
+
+*Source: Worldscale, Poten & Partners*
+
+*Source: Poten & Partners*
+
+MGO for the voyage calculations and both of these commodities increased in price as the availability of low sulfur fuel tightened.
 
 The table above summarizes the change in flat rates and the bunker prices for some main voyages (due to Worldscale copyright restrictions we can not publish the actual values). As the table shows, the increases are expected to be more significant than in recent years.
 

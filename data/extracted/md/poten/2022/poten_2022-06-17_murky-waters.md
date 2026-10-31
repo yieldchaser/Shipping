@@ -24,11 +24,15 @@ The IEA estimates global oil production to increase by 4.4 Mb/d in 2022 and by a
 
 OPEC+ front loaded its scheduled production growth, but only Saudi Arabia and the UAE have spare capacity. Libyan production is more of a question mark after recent civil unrest. However, both Nigeria and Angola are facing operational problems to meet their quota allocation and production is expected to slide further in 2023. Once the 2020 OPEC+ production cuts are unwound, very little spare capacity will remain.
 
+*Chart*
+
+*Source: International Energy Agency*
+
 The key supply uncertainty is in Russia. Even though the IEA and EIA have a similar estimate for the production decline for Russia: 2.1 Mb/d (IEA) vs 2.0 Mb/d (EIA), both agencies state that there is significant uncertainty in these numbers, especially around the impact of the insurance ban on Russian cargoes, which was not yet reflected in the EIA outlook.
 
 As far as the tanker market is concerned, there are also significant unknowns. These oil market changes will likely have a major impact on crude and products flows, but both the impact and the duration are hard to predict. Europe will likely buy more medium haul crude from the Americas and West Africa to replace Russian imports, affecting long haul sales to Asia by these exporters.
 
-The big question is how successful Russia is in selling crude to Asian buyers, most likely in India and China. This trade would be positive for Suezmax tankers for Black Sea exports and for Aframaxes (for reverse lightering) and VLCCs for Baltic Sea exports. Depending on the implementation and effectiveness of the insurance ban, we could end up with a much expanded 'rogue' tanker fleet operating in Russian, Iranian and Venezuelan trades.
+The big question is how successful Russia is in selling crude to Asian buyers, most likely in India and China. This trade would be positive for Suezmax tankers for Black Sea exports and for Aframaxes (for reverse lightering) and VLCCs for Baltic Sea exports. Depending on the implementation and effectiveness of the insurance ban, we could end up with a much expanded ‘rogue’ tanker fleet operating in Russian, Iranian and Venezuelan trades.
 
 If Russia manages to divert its export volumes to Asia, the changes should be a net positive for tankers. However, if insurance bans limit Russian exports and production falls significantly, the crude tanker market could be in trouble with much higher bunker prices and lower trade volumes.
 

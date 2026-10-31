@@ -22,13 +22,19 @@ There are a lot of moving parts in the U.S. crude oil production, transportation
 
 Booming LTO production has led to a substantial increase in crude oil exports (see figure 2), but limited export capacity could hamper future increases, although significant investment in new pipelines and terminals is planned. The IEA estimates that export capacity will increase to 2.5 mb/d by the end of 2018, 4.7 mb/d in 2020 and 4.9 mb/d in 2023. The major ports
 
-### Planned Permian/Eagle Ford Pipeline Capacity and LTO Production
+*Chart: Planned Permian/Eagle Ford Pipeline Capacity and LTO Production*
+
+*Source: IEA*
+
+*Chart*
+
+*Source: Lloyd’s List Intelligence*
 
 in the U.S. Gulf that are currently handling crude oil exports: Houston, Beaumont/Port Arthur and Corpus Christi in Texas and St. James in Louisiana. St. James is the smallest in terms of capacity.
 
 Outside of these ports, there is the Louisiana Offshore Oil Port (LOOP), which operates a single buoy mooring (SBM) 18 miles off the coast of Louisiana near the town of Port Fourchon. LOOP, which was built as an import terminal, is the only facility in the U.S. that can accommodate fully loaded VLCCs. At the moment, vessels that load in LOOP export U.S. Gulf of Mexico crude, not LTO. LOOP started to export crude oil at a rate of about one (2 million barrel) cargo per month in February, but it is expected to ramp up to 300,000 b/d (at least 4 cargoes per month) in due course.
 
-Production growth, pipeline expansion and terminal export availability all need to come together to make the process run smooth. However, since many of these projects are undertaken by different companies, chances are that there will be timing differences that will cause temporary bottlenecks. Many of these bottlenecks will be resolved through the pricing mechanism: temporary lack of export capacity will increase the price differentials between Midland, TX and Houston. Expanding price differentials will facilitate short- term remedies, such as crude-by rail.
+Production growth, pipeline expansion and terminal export availability all need to come together to make the process run smooth. However, since many of these projects are undertaken by different companies, chances are that there will be timing differences that will cause temporary bottlenecks. Many of these bottlenecks will be resolved through the pricing mechanism: temporary lack of export capacity will increase the price differentials between Midland, TX and Houston. Expanding price differentials will facilitate short-term remedies, such as crude-by rail.
 
 ## Market Exhibits & Charts
 

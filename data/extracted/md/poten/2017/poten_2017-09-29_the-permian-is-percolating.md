@@ -20,7 +20,17 @@ The rollercoaster ride of U.S. shale production continues. Drilling activity and
 
 There are several factors that are contributing to the change in fortunes for U.S. shale. We already mentioned the increase in WTI prices and we previously discussed the elimination of the crude oil export ban. Another driver is the reduction in breakeven cost for shale producers. According to Morgan Stanley, corporate level breakevens have nearly halved from ~$80/bbl to ~$43/bbl since 2012, while the average single-well shale breakevens (with a 10% IRR) have dropped from ~$75/bbl to ~$33/bbl. Most analysts expect that, despite inflationary pressures on production costs, higher well productivity and efficiency gains will continue to drive breakevens down.
 
-The Permian Basin has benefited the most from productivity gains since 2014 and is now (by far) the most productive shale basin in the U.S. Since January 2015, production has grown from a little over 1 mb/d to more than 1.9 mb/d. Over the same time period, output from most of the other large basins has remained largely flat (Bakken) or declined (Eagle Ford). The Permian also has the most room to grow, with most analysts pegging the recoverable resources in this basin in the range of 20 billion barrels of oil equivalent. There are 566 different companies that hold Permian acreage, but less than 10 producers account for 50% of the basin's output. The most dominant positions are held by Occidental, Chevron, Apache, ConocoPhillips and ExxonMobil. The oil industry continues to invest heavily in the Permian. Earlier this week, Chevron announced that they will spend another $4 billion next year to ramp up their production in the Permian from 90,000 b/d (2016) to over 400,000 b/d over the next few years. They expect output from all producers to rise by 1.4 mb/d by 2020.
+The Permian Basin has benefited the most from productivity gains since 2014 and is now (by far) the most productive shale basin in the U.S. Since January 2015, production has grown from a little over 1 mb/d to more than 1.9 mb/d. Over the same time period, output from most of the other large basins has remained largely flat (Bakken) or declined (Eagle Ford). The Permian also has the most room to grow, with most analysts pegging the recoverable resources in this basin in the range of
+
+*Chart*
+
+*Source: EIA*
+
+*Chart*
+
+*Source: EIA*
+
+20 billion barrels of oil equivalent. There are 566 different companies that hold Permian acreage, but less than 10 producers account for 50% of the basin’s output. The most dominant positions are held by Occidental, Chevron, Apache, ConocoPhillips and ExxonMobil. The oil industry continues to invest heavily in the Permian. Earlier this week, Chevron announced that they will spend another $4 billion next year to ramp up their production in the Permian from 90,000 b/d (2016) to over 400,000 b/d over the next few years. They expect output from all producers to rise by 1.4 mb/d by 2020.
 
 The impact of the shale oil boom is increasingly felt in the tanker industry. The rapid increase in shale production has facilitated the surge in crude oil exports since the ban was lifted in January 2016. Last week, U.S. crude oil exports surged to a record 1.49 mb/d. While this was partly due to a rebound after hurricane Harvey restricted exports in the weeks prior, it clearly demonstrates that the U.S. has the capacity to become an increasingly important player in the crude export markets. Some experts forecast U.S. crude oil exports to reach 2.25 mb/d by 2020.
 

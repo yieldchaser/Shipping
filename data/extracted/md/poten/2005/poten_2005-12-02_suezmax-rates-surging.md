@@ -14,23 +14,15 @@ charts_count: 1
 
 # Suezmax Rates Surging
 
-With tanker rates across all sectors currently at levels well above long-term averages, it is impressive to note the rally in Suezmax rates over the past three months. Suezmax owners' earnings have surged by more than 350% on average worldwide since the beginning of September. Charterers are currently paying $3.92 per barrel (WS245), as opposed to $1.84 (WS115) in early September for a Suezmax cargo West Africa-U.S. Gulf, and $1.61 per barrel (WS240) for an intra- Med cargo, versus $0.77 per barrel (WS108) at the beginning of September.
+With tanker rates across all sectors currently at levels well above long-term averages, it is impressive to note the rally in Suezmax rates over the past three months. Suezmax owners’ earnings have surged by more than 350% on average worldwide since the beginning of September. Charterers are currently paying $3.92 per barrel (WS245), as opposed to $1.84 (WS115) in early September for a Suezmax cargo West Africa-U.S. Gulf, and $1.61 per barrel (WS240) for an intra-Med cargo, versus $0.77 per barrel (WS108) at the beginning of September.
 
-### The Surge in Suezmax TCE Earnings
-
-North Sea Med Average W. Africa Far East
-
-05-Aug 19-Aug 02-Sep 16-Sep 30-Sep 14-Oct 28-Oct 11-Nov 25-Nov $0
+*Chart: The Surge in Suezmax TCE Earnings*
 
 ### Why the Surge?
 
-Not surprisingly, one major reason is that delays at the Bosphorus have been steadily climbing and are now longer than they were this time last year. The delays started to increase at the end of October when fog closed the Bosphorus for three Poten & Partners | new york • london • athens • perth • hong kong • guangzhou 1 days. Transit time delays through the Straits then steadily increased from 4 to 5 days in October to an estimated 14 days for ships waiting there today. According to Boutros Maritime, 40 tankers (including 11 Suezmaxes) are currently awaiting permission to transit the Bosphorus.
+Not surprisingly, one major reason is that delays at the Bosphorus have been steadily climbing and are now longer than they were this time last year. The delays started to increase at the end of October when fog closed the Bosphorus for three days. Transit time delays through the Straits then steadily increased from 4 to 5 days in October to an estimated 14 days for ships waiting there today. According to Boutros Maritime, 40 tankers (including 11 Suezmaxes) are currently awaiting permission to transit the Bosphorus.
 
-### Days Delay Bosphorus Transits
-
-### Days
-
-### Boutros/Poten
+*Chart: Days Delay Bosphorus Transits*
 
 ### Volume is Up as Well!
 
@@ -42,17 +34,13 @@ As a consequence, tanker time charter equivalent (TCE) rates have increased from
 
 The chart on the next page shows average Suezmax earnings on four trades (North Sea, intra-Mediterranean, West Africa-U.S. Gulf, and the Far East) were higher at the end of last year than they are now. On average, Suezmax charterers were paying around $2.50 per barrel on average this week versus $3.45 per barrel same time last year.
 
-### Shipping Cost & Suezmax Earnings
+*Chart: Shipping Cost & Suezmax Earnings*
 
-$/Bbl $/Day
-
-### It's All Relative
+### It’s All Relative
 
 As shown below, the relatively high tanker rates as a percentage of the delivered cost of crude are only half of their peak from a year ago, thanks to higher crude prices and lower rates than a year ago.
 
-### Crude Price & Shipping Cost as % of Crude Price
-
-% of Crude Crude Oil Price
+*Chart: Crude Price & Shipping Cost as % of Crude Price*
 
 Since the weather will remain a factor throughout the winter, crude oil demand will remain strong, and with deliveries coming slowly, expect the market to remain firm!
 

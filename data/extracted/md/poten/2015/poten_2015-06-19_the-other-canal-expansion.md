@@ -22,11 +22,19 @@ The Suez Canal expansion, which was first announced in August 2014, will allow m
 
 The project is expected to cost $8.5 billion and was financed by bonds issued to the Egyptian population. In 2014, the canal generated $5.5 Bln in revenue, which the government hopes to increase to $13.5 Bln by 2023. As the Suez Canal does not have locks, the expansion is simpler and can be done significantly faster than the Panama canal expansion. The project has a very aggressive timeline of 12 months.
 
-Currently, the canal is almost exclusively used for one way traffic that moves in convoy, either North-South or vice versa with two small areas where the convoys meet and south bound vessels need to wait for north bound vessels to pass. The new section will allow for two-way traffic over about half of the total length of the canal, reducing the transit time from 18 hours to 11 hours and reducing the maximum waiting time to enter the canal from 8-11 hours to three hours.
+Currently, the canal is almost exclusively used for one way traffic that moves in convoy, either North–South or vice versa with two small areas where the convoys meet and south bound vessels need to wait for north bound vessels to pass. The new section will allow for two-way traffic over about half of the total length of the canal, reducing the transit time from 18 hours to 11 hours and reducing the maximum waiting time to enter the canal from 8-11 hours to three hours.
 
 In 2014, a total of 15,302 laden vessels passed through the canal, 7,986 South bound and 7,316 North bound. This is an average of almost 42 vessels per day. 3,389 of these vessels where tankers (1,552 South bound and 1,837 North bound). Additionally, 1,846 vessels passed through in ballast condition (of which 664 were tankers).
 
-### If more tankers can pass through the Suez Canal, tonnage
+If more tankers can pass through the Suez Canal, tonnage
+
+*Chart: Fig. 1: Suez Canal Traffic*
+
+*Source: Suez Canal Authorities*
+
+*Chart*
+
+*Source: Suez Canal Authorities*
 
 can be used more efficiently. A trip from Ras Tanura to LOOP is 12,300 miles (39 days at 13 knots) around the cape and 9,600 through the canal (31 days + 1 day for canal passage), representing savings of about 20%. The savings for voyages to NW Europe are even more significant: about 40%.
 

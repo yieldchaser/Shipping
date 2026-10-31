@@ -22,9 +22,19 @@ The oil markets have gone through dramatic changes in the last 5 years. The exte
 
 The tanker market in general and the VLCC market in particular were going up in unison with Middle East OPEC production through the end of 2015. While crude oil exports from the Arabian Gulf continued to increase, VLCC rates started to weaken. There are several reasons for this apparent disconnect.
 
-Firstly, the source of most of the incremental crude in 2016 is Iran, which boosted production and exports when international sanctions were lifted earlier this year. However, the Iranians also own a significant VLCC fleet, which gradually re-entered the international markets at the same time. Secondly, oil import demand growth in China has started to level off in 2016 as economic growth is slowing. Throughout 2015, crude oil imports in China were also underpinned by a desire to build up strategic petroleum reserves. As the tanks are filling up, this supplementary demand (estimated to be around 250,000 b/d) is dissipating. Another factor has to do with the declining output from Venezuela. Since most of PDVSA's exports are currently transported to long-haul destinations in China, India and Singapore, a reduction in output can have a profound impact on ton-mile demand. Last, but not least, fleet growth has resumed, leading to more tonnage availability.
+Firstly, the source of most of the incremental crude in 2016 is Iran, which boosted production and exports when international sanctions were lifted earlier this year. However,
 
-In conclusion, we don't believe that the link between VLCC rates and OPEC exports is permanently broken. The long-haul trades from the Middle East will remain the bread and butter for the large tanker segment for decades to come. Oil demand will continue to grow and the fleet size will adjust. Throw in some geopolitical event and the market can turn unexpectedly.
+*Chart: Fig. 1: OPEC Production by Country*
+
+*Source: OPEC*
+
+*Chart*
+
+*Source: Poten & Partners*
+
+the Iranians also own a significant VLCC fleet, which gradually re-entered the international markets at the same time. Secondly, oil import demand growth in China has started to level off in 2016 as economic growth is slowing. Throughout 2015, crude oil imports in China were also underpinned by a desire to build up strategic petroleum reserves. As the tanks are filling up, this supplementary demand (estimated to be around 250,000 b/d) is dissipating. Another factor has to do with the declining output from Venezuela. Since most of PDVSA’s exports are currently transported to long-haul destinations in China, India and Singapore, a reduction in output can have a profound impact on ton-mile demand. Last, but not least, fleet growth has resumed, leading to more tonnage availability.
+
+In conclusion, we don’t believe that the link between VLCC rates and OPEC exports is permanently broken. The long-haul trades from the Middle East will remain the bread and butter for the large tanker segment for decades to come. Oil demand will continue to grow and the fleet size will adjust. Throw in some geopolitical event and the market can turn unexpectedly.
 
 ## Market Exhibits & Charts
 

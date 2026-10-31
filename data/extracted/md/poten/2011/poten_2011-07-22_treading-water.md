@@ -14,49 +14,19 @@ charts_count: 0
 
 # Treading Water
 
-As we settle into the third quarter of 2011, outlooks for the health of the global economy have been erratic at best upon headlines out of control debts, stagnant growth, and rising unemployment in developed economies. Despite recent gains in stock market performance, the grim state of macroeconomic affairs does not inspire much investor optimism in European and American markets. Tanker owners have proven incredibly resourceful in getting by, however a look into the economics of vessel ownership suggests that creative solutions may soon be required to navigate the market's choppy waters.
+As we settle into the third quarter of 2011, outlooks for the health of the global economy have been erratic at best upon headlines out of control debts, stagnant growth, and rising unemployment in developed economies. Despite recent gains in stock market performance, the grim state of macroeconomic affairs does not inspire much investor optimism in European and American markets. Tanker owners have proven incredibly resourceful in getting by, however a look into the economics of vessel ownership suggests that creative solutions may soon be required to navigate the market’s choppy waters.
 
-The low freight rate environment seen since the latter half of 2009 has caused real problems for some owners' cash flows, particularly when combined with rising bunker fuel bills. As seen in the chart below, bunker prices and operating expense are near the same levels seen in 2008, however total voyage earnings have decreased 70 % over the past three years.
+The low freight rate environment seen since the latter half of 2009 has caused real problems for some owners’ cash flows, particularly when combined with rising bunker fuel bills. As seen in the chart below, bunker prices and operating expense are near the same levels seen in 2008, however total voyage earnings have decreased 70 % over the past three years.
 
-### VLCC Revenue vs. Voyage Costs
+**VLCC Revenue vs. Voyage Costs**
 
-### Ras Tanura ‐ Yokohama (260kt)
+*Chart: Ras Tanura ‐ Yokohama (260kt)*
 
-### $M
+Fuel Costs Total Voyage Opex Voyage Revenue
 
-### Jan‐96
+Source: Poten
 
-### Jan‐97
-
-### Jan‐98
-
-### Jan‐99
-
-### Jan‐00
-
-### Jan‐01
-
-### Jan‐02
-
-### Jan‐03
-
-### Jan‐04
-
-### Jan‐05
-
-### Jan‐06
-
-### Jan‐07
-
-### Jan‐08
-
-### Jan‐09
-
-### Jan‐10
-
-### Jan‐11
-
-Fuel Costs Total Voyage Opex Voyage Revenue The price spike in bunkers seen over the course of this year has drastically eroded profitability, particularly for owners with considerable spot market exposure. With these economics, owners must apply the vast majority of voyage earnings to pay for the voyage itself, and there is very little revenue left for shipowners to meet obligations outside of immediate operating costs.
+The price spike in bunkers seen over the course of this year has drastically eroded profitability, particularly for owners with considerable spot market exposure. With these economics, owners must apply the vast majority of voyage earnings to pay for the voyage itself, and there is very little revenue left for shipowners to meet obligations outside of immediate operating costs.
 
 ### What is Yet to Come
 
@@ -64,16 +34,12 @@ Trickling revenues may be particularly challenging for highly leveraged companie
 
 The chart below shows estimated 20 year breakeven levels given assessed historical newbuilding prices. Although actual break even levels will vary on a deal by deal basis, the estimated rate level required for owners to break even on ships delivering between 2011 and 2012 is around $40,000 per day.
 
-### VLCC Breakeven vs. Spot Charter Rates
+*Chart: VLCC Breakeven vs. Spot Charter Rates*
 
-### Earnings ($/Day)
+Newbuilding Breakeven Spot Rate: AG‐FE (260kt)
 
-### Asset Price ($M)
+Source: Poten
 
-### 2011 YTD
-
-Newbuilding Breakeven Spot Rate: AG‐FE (260kt) This is over 135% higher than current spot market earnings on the benchmark Arabian Gulf to Far East trade, which have averaged about $17,500 in 2011 year to date, and over 48% higher than the current 1 year time charter rate for a modern VLCC.
+This is over 135% higher than current spot market earnings on the benchmark Arabian Gulf to Far East trade, which have averaged about $17,500 in 2011 year to date, and over 48% higher than the current 1 year time charter rate for a modern VLCC.
 
 Although macro fundamentals appear strained for the near term and some tanker owners are facing real financial challenges, the bulk of the most expensive ships on the books have yet to deliver. As such, there is still time for companies to seek solutions to their cash flow woes. And rest assured that there is plenty of money of the sidelines that may be willing to capitalize on opportunities resulting from the squeeze.
-
-information on the services and research products offered by our Marine Projects & Consulting department or to contact

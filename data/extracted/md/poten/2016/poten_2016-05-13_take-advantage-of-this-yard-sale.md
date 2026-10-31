@@ -24,7 +24,17 @@ The tanker industry has benefited from limited fleet growth in recent years and 
 
 The combination of these factors has led to the unusual situation with healthy freight rates and relatively low vessel values. Figure 1 compares the estimated newbuilding contract prices and second-hand prices for 5 year old VLCCs with assessed 3 year time charter rates, as a proxy for the anticipated freight market for the coming years. The graph shows a healthy recovery in the charter rates from early 2014 through the middle of 2015, while asset prices moved up initially, but have been in a slow decline ever since.
 
-rate, expressed in years. As the graph indicates, this theoretical "payback period" is currently approaching the shortest it has been in the last 10 years.
+Figure 2 shows the relationship between the freight rate and the newbuilding resale value of a VLCC. The line simply represents the division of the vessel price by the 3 year TC
+
+*Chart: Fig. 1: VLCC Market Values vs 3 Year TC Rate*
+
+*Source: Poten & Partners*
+
+*Chart*
+
+*Source: Poten & Partners*
+
+rate, expressed in years. As the graph indicates, this theoretical “payback period” is currently approaching the shortest it has been in the last 10 years.
 
 There is significant uncertainty in the market (what was the last time there was any certainty in the tanker market?) for the coming 1-2 years as the oil markets are looking for equilibrium and healthy oil inventories are expected to be drawn down to more common levels. Also, the tanker orderbook is relatively high (around 19% of the fleet for VLCCs), and if tanker demand growth slows down, higher deliveries of newbuilding tonnage could negatively affect the supply demand balance.
 

@@ -14,41 +14,31 @@ charts_count: 0
 
 # Suez Maxed - Out
 
-As the political situation in Egypt intensifies, the world's attention has focused on the possible fallout of a revolutionary movement gripping the region. Unrest that began in Tunisia and crossed the Egyptian border escalated this week, causing concern among many for the future of social, economic and political stability of the region as a whole. The effects of the unrest have not gone unnoticed in the commodities complex as everything from corn to crude oil saw prices rise in dramatic fashion as traders positioned themselves in anticipation of several possible outcomes. For the shipping markets, all eyes are on Suez, and for good reason. History shows us that events in the Suez have a material impact on world tanker markets.
+As the political situation in Egypt intensifies, the world’s attention has focused on the possible fallout of a revolutionary movement gripping the region. Unrest that began in Tunisia and crossed the Egyptian border escalated this week, causing concern among many for the future of social, economic and political stability of the region as a whole. The effects of the unrest have not gone unnoticed in the commodities complex as everything from corn to crude oil saw prices rise in dramatic fashion as traders positioned themselves in anticipation of several possible outcomes. For the shipping markets, all eyes are on Suez, and for good reason. History shows us that events in the Suez have a material impact on world tanker markets.
 
 The immediate impact on tanker markets of a potential canal closure first became evident this week as shipping equities rallied on notes from investment banks regarding the possibility of a closure in the face of continued turmoil. The underlying assumption in shipping is that any closure will result in higher tanker rates as additional tonnage will require longer voyages around the Cape of Good Hope to access western markets. The map below shows the relative transit times for several possible voyages from the Arabian Gulf to the Mediterranean along with the average number of days required for each one‐way voyage.
 
-### Possible Routing from Arabian Gulf to the Mediterranean
+**Possible Routing from Arabian Gulf to the Mediterranean**
 
-### Mediterranean Sea
+**Mediterranean Sea**
 
-### Sidi Kerir - Central
+Sidi Kerir – Central Mediterranean 4.5 days
 
-### Mediterranean
+Sumed Pipeline Arabian Gulf
 
-### 4.5 days
+### Arabian Gulf – Ain Sukhna
 
-### Sumed Pipeline
+10 days Red Sea
 
-### Arabian Gulf
+### Arabian Gulf ‐ Mediterranean
 
-### Arabian Gulf -
+Shortest Voyage 34 days
 
-### Ain Sukhna
+### Arabian Gulf ‐ Mediterranean
 
-### 10 days
+Piracy Avoidance Route around Cape of Good Hope 37 days
 
-### Red Sea
-
-Arabian Gulf ‐ Mediterranean Piracy Avoidance Route around Cape Arabian Gulf ‐ Mediterranean Shortest Voyage
-
-### of Good Hope
-
-### 34 days
-
-### 37 days
-
-There are currently several routing options to move a 2 million barrel crude oil from the Arabian Gulf to Western markets. However, on a practical basis several factors are already minimizing the role of the Suez Canal in this trade. Draft restrictions do not permit a fully laden VLCC to transit the Suez Canal. Charterers may choose to partially discharge the cargo into the SuMed pipeline, transit the Canal light loaded, and then reload their cargo at Sidi Kerir. This scenario entails paying both pipeline tariffs and Suez tolls, and is unlikely to prove economical in most situations. Alternatively a shipper could move a VLCC cargo from the Arabian Gulf on a VLCC, incur SuMed pipeline tariffs and then hire two Suezmaxes from Sidi Kerir in the Mediterranean. Just the seaborne cost component of this transportation scenario would sum to approximately $1.60 per barrel under the current freight conditions. The overall weak freight market environment may actually favor voyage routing around the Cape of Good Hope. For example, transportation costs from the Arabian Gulf to the Mediterranean on a VLCC basis 280,000 metric tons are approximately $1.90 per barrel at Worldscale 37.5, today's assessment.
+There are currently several routing options to move a 2 million barrel crude oil from the Arabian Gulf to Western markets. However, on a practical basis several factors are already minimizing the role of the Suez Canal in this trade. Draft restrictions do not permit a fully laden VLCC to transit the Suez Canal. Charterers may choose to partially discharge the cargo into the SuMed pipeline, transit the Canal light loaded, and then reload their cargo at Sidi Kerir. This scenario entails paying both pipeline tariffs and Suez tolls, and is unlikely to prove economical in most situations. Alternatively a shipper could move a VLCC cargo from the Arabian Gulf on a VLCC, incur SuMed pipeline tariffs and then hire two Suezmaxes from Sidi Kerir in the Mediterranean. Just the seaborne cost component of this transportation scenario would sum to approximately $1.60 per barrel under the current freight conditions. The overall weak freight market environment may actually favor voyage routing around the Cape of Good Hope. For example, transportation costs from the Arabian Gulf to the Mediterranean on a VLCC basis 280,000 metric tons are approximately $1.90 per barrel at Worldscale 37.5, today’s assessment.
 
 ### Clean Complications
 
@@ -61,5 +51,3 @@ Spot fixture activity captures only a percentage of the total market, but provid
 ### Conclusive Correlations?
 
 Although the past has seen dramatic spikes develop from closures and various events affecting the Suez Canal, several factors today would likely mitigate any recurrence of the rate spike seen during the 1967‐1975 closure. A weak freight rate environment and piracy concerns have already precluded use of the Suez Canal on a practical basis, indicating that the tanker market may have already priced in increased sustained geopolitical risks. To date, we have yet to see a reaction in freight rates. If history provides any pretext, a closure of the Canal would serve more as a psychological catalyst to drive freight rates rather than an incremental driver of tanker demand.
-
-information on the services and research products offered by our Marine Projects & Consulting department or to contact

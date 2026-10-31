@@ -14,33 +14,29 @@ charts_count: 0
 
 # Proposing to Iran
 
-The building tension within the borders of Iran is creating a challenge for world leaders and policy setters, and brightening the spotlight on the large oil producer. This Middle‐ Eastern nation has recently been faced with scarring political tumult which has once again cast a shadow on its stability. Furthermore, international trade sanctions continue to tear at the country's growth, allowing outside powers to flex economic muscles to a certain extent. For years the US has imposed sanctions on Iran while other nations have remained relatively passive. The latest proposal, the Iran Refined Petroleum Sanctions Act, is a measure brought forth by the US legislature with the ultimate goal of halting nuclear proliferation. The legislation would impose a sanction on any companies who sold or delivered gasoline to Iran by barring it from selling to the US Government (as well as any financing or vessel insurance).
+The building tension within the borders of Iran is creating a challenge for world leaders and policy setters, and brightening the spotlight on the large oil producer. This Middle‐Eastern nation has recently been faced with scarring political tumult which has once again cast a shadow on its stability. Furthermore, international trade sanctions continue to tear at the country's growth, allowing outside powers to flex economic muscles to a certain extent. For years the US has imposed sanctions on Iran while other nations have remained relatively passive. The latest proposal, the Iran Refined Petroleum Sanctions Act, is a measure brought forth by the US legislature with the ultimate goal of halting nuclear proliferation. The legislation would impose a sanction on any companies who sold or delivered gasoline to Iran by barring it from selling to the US Government (as well as any financing or vessel insurance).
 
 For Iranian citizens, the prospect of a widespread halt of gasoline imports to their country would equate to roughly a 40% decrease in supply instantaneously. For a country that is so oil‐rich, a lack of infrastructure has left them as a net importer of gasoline. Even government subsidies could have difficulty muting resultant price hikes at the pump for a sustained period of time. The chart below gives an indication of the effect of political unrest on Iranian production.
 
-### Iranian Oil Production
+*Chart: Iranian Oil Production*
 
-1979: Iranian Revolution 2009: Next Revolution?
-
-1965 1967 1969 1971 1973 1975 1977 1979 1981 1983 1985 1987 1989 1991 1993 1995 1997 1999 2001 2003 2005 2007 2009
-
-### Oil Production
+Source: EIA
 
 In response, Iranian leaders have countered with such drastic measures as eliminating oil exports and/or threatening to stop shipping traffic through the Strait of Hormuz. In the first instance, the halt of oil exports would no doubt be a lose‐lose as oil prices would skyrocket and Iranians would squander their source of economic livelihood. Currently Iran produces 4.1 mbd or roughly 5% of worldwide production.
 
 Any threats made by the Iranian government, however empty they may be, should be carefully considered as the country will need to maintain a stable business environment to attract foreign investment and trading partners. The riots which occurred in the streets of Iran in 2007 due to gasoline rationing provide a reminder of what could develop.
 
-### Walk Softly
+Walk Softly
 
-For the US gaining the support of other countries and members of the industry, especially Iran's trading partners is key. For nations such as China and Russia and the multiple oil majors and global refiners with a vested interest in the oil‐rich nation, closing one of their markets takes a chunk out of the bottom line.
+For the US gaining the support of other countries and members of the industry, especially Iran’s trading partners is key. For nations such as China and Russia and the multiple oil majors and global refiners with a vested interest in the oil‐rich nation, closing one of their markets takes a chunk out of the bottom line.
 
-Although the US has abstained from trade with Iran, there are certainly others who have picked up the slack. The chart below shows the reported spot crude oil fixtures in total volume helping to demonstrate Iran's reach and trading partners.
+Although the US has abstained from trade with Iran, there are certainly others who have picked up the slack. The chart below shows the reported spot crude oil fixtures in total volume helping to demonstrate Iran’s reach and trading partners.
 
-### Reported Dirty Spot Fixtures Ex‐Iran
+*Chart: Reported Dirty Spot Fixtures Ex‐Iran*
 
-### Million MT
+Source: Poten
 
-2004 2005 2006 2007 2008 2009 YTD FE MED AG RS SAF SEA SOUTH ASIA UKC There is no doubt that an attempted closure of the Strait of Hormuz would have very ugly repercussions. Ceasing ship traffic through the Strait would not only cripple trade, commerce and the export capacity of all Arabian Gulf producers; it could have even more dire repercussions ‐ a war or revolution.
+There is no doubt that an attempted closure of the Strait of Hormuz would have very ugly repercussions. Ceasing ship traffic through the Strait would not only cripple trade, commerce and the export capacity of all Arabian Gulf producers; it could have even more dire repercussions ‐ a war or revolution.
 
 If the proposal becomes finalized, President Mahmoud Ahmadinejad will find himself at a crossroads. He will be forced between the inclusion of Iran in the global community or his own national objectives.
 

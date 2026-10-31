@@ -24,7 +24,19 @@ Over the years, several maritime researchers have investigated the existence and
 
 As one would suspect, the seasonality patterns change under different market circumstances. In a rising market with a tighter supply-demand balance, seasonal rate movements are more pronounced than in a falling market.
 
-The summer is typically a slower period in the tanker markets, in particular during the August and September months (see One phenomenon that seems to counter the notion of a "summer lull" is the U.S. driving season, the period that traditionally extends from the Memorial Day holiday weekend in late May to the Labor Day holiday in early September. U.S. gasoline consumption peaks during this period (see Fig. 2) and given the size of the gasoline market in this country, the impact could be substantial. U.S. gasoline demand reached almost 9.8 million b/d in mid-June. This represents more than 10% of global oil demand. As can be seen in the chart, U.S. gasoline demand has been particularly strong in 2015 and 2016 YTD, no doubt helped by low prices at the pump. How does this translate into crude oil and transportation demand?
+The summer is typically a slower period in the tanker markets, in particular during the August and September months (see Fig. 1). Demand for a commodity like heating oil is obviously low during the period, while economic activity in Europe is significantly reduced due to the summer vacations. On the oil supply side, there are also factors that impact the tanker market. Each summer, for example, maintenance on offshore production platforms and pipelines in the North Sea temporarily reduces the supply of North Sea crude oil. This affects in particular the Aframax shipments in the area.
+
+One phenomenon that seems to counter the notion of a “summer lull” is the U.S. driving season, the period that traditionally extends from the Memorial Day holiday weekend in late May to the Labor Day holiday in early September. U.S. gasoline consumption peaks during this period (see Fig. 2) and given the size of the gasoline market in this country, the
+
+*Chart: Fig. 1: Weekly VLCC Rates (Arabian Gulf - Japan)*
+
+*Source: Poten*
+
+*Chart: Fig. 2: Weekly U.S. Gasoline Sales*
+
+*Source: EIA*
+
+impact could be substantial. U.S. gasoline demand reached almost 9.8 million b/d in mid-June. This represents more than 10% of global oil demand. As can be seen in the chart, U.S. gasoline demand has been particularly strong in 2015 and 2016 YTD, no doubt helped by low prices at the pump. How does this translate into crude oil and transportation demand?
 
 Counter to what one might expect, the increase in gasoline demand during the U.S. driving season does not translate into higher crude oil imports. U.S. refiners typically schedule their maintenance during the first quarter, when gasoline demand is lowest. This is also the time that refineries retool for summer-blend fuels, which must be available at the pump no later than June 1, and should arrive at terminals and storage facilities one month prior. So, by the time summer arrives, the oil industry has done its heavy lifting and tanker demand throughout the summer period remains relatively subdued. Demand will start to pick up by the middle of September, when retailer can switch back to the (cheaper) winter-blend fuels.
 

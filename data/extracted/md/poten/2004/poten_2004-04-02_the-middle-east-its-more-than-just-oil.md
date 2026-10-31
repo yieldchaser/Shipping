@@ -18,7 +18,7 @@ The Middle East has always been an important and strategic trading region throug
 
 Giant reserves found in the early 1950s in Saudi Arabia and surrounding nations have rendered the Middle East and oil synonymous in energy parlance. Increasing Russian and West African supplies to Europe and North America have recently shifted some of the Middle East supply focus to the Far East with incremental exports to China and India growing regionally, but the west is an important customer base.
 
-In total, the world relies on the Middle East for 20-25% of its daily crude oil imports and with 65% of the world's estimated reserves, it will remain a huge component of future energy requirements.
+In total, the world relies on the Middle East for 20-25% of its daily crude oil imports and with 65% of the world’s estimated reserves, it will remain a huge component of future energy requirements.
 
 ### Causes, Consequences and Tanker Owners
 
@@ -26,29 +26,23 @@ The tanker business is a consequence of a cause. The economic well being for tan
 
 As shown below again in the form of VLCC spot market activity, during the past three years, most of the Middle East crude has gone to the Far East.
 
-### Ex-Arabian Gulf VLCC Fixturs
-
-Far East SE&S Asia USA Europe 0
+*Chart: Ex-Arabian Gulf VLCC Fixturs*
 
 ### Communication is the Key!
 
-This important region will be the center of attention for Columbia University's School for International and Public Affairs Center for Energy, Marine Transportation and Public Policy. The Energy Center is hosting an executive regional briefing program entitled "Focus: The Middle East." This executive development program is scheduled to take place April 18-24 at the IBM Conference Center in Palisades, NY. The five-day conference will explore in depth: Ø The history of the Middle East up to and including present day
+This important region will be the center of attention for Columbia University’s School for International and Public Affairs Center for Energy, Marine Transportation and Public Policy. The Energy Center is hosting an executive regional briefing program entitled “Focus: The Middle East.” This executive development program is scheduled to take place April 18-24 at the IBM Conference Center in Palisades, NY. The five-day conference will explore in depth:
 
-### Ø What the term "Middle East" means
+Ø The history of the Middle East up to and including present day
 
-Ø The implications of the energy business and of oil market power on
+Ø What the term “Middle East” means
 
-### national policies
+Ø The implications of the energy business and of oil market power on national policies
 
-### Ø Water's central role in the region
+Ø Water’s central role in the region
 
-Ø The political, economic, social and religious climate in the wake of the
+Ø The political, economic, social and religious climate in the wake of the Iraq War
 
-### Iraq War
-
-### Ø Practical considerations for doing business in the region including
-
-### cultural and social norms that must be understood and accommodated
+Ø Practical considerations for doing business in the region including cultural and social norms that must be understood and accommodated
 
 With the professional and educational resources of a leading university, this program promises to deliver a clear and comprehensive picture of the region today.
 

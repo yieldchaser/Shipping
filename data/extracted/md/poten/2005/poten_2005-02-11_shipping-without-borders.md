@@ -14,9 +14,9 @@ charts_count: 1
 
 # Shipping without Borders
 
-This past week, the Eleventh Annual Shipping Conference sponsored by the Hellenic-American and the Norwegian-American Chambers of Commerce was held in New York. This relatively low key conference is one of the jewels of the industry. This year's conference on "Shipping without Borders" featured leading luminaries from a cross section of the maritime industry. While impossible to highlight every speaker, the following tidbits are offered to encompass the principal themes of the conference.
+This past week, the Eleventh Annual Shipping Conference sponsored by the Hellenic-American and the Norwegian-American Chambers of Commerce was held in New York. This relatively low key conference is one of the jewels of the industry. This year’s conference on “Shipping without Borders” featured leading luminaries from a cross section of the maritime industry. While impossible to highlight every speaker, the following tidbits are offered to encompass the principal themes of the conference.
 
-Although speaking near the end, perhaps the spirit of the conference was best captured by Peter Georgiopoulos, Chairman and President of General Maritime. He showed a slide of Aristotle Onassis standing by his yacht. To Peter, this epitomized the world of shipping when he began his distinguished career. Then the reality of shipping was in the next slide jammed with acronyms of all the organizations, regulations, and laws that shipowners have to contend with. The final slide was of Aristotle wistfully looking into the distance captioned, "What would he do now?"
+Although speaking near the end, perhaps the spirit of the conference was best captured by Peter Georgiopoulos, Chairman and President of General Maritime. He showed a slide of Aristotle Onassis standing by his yacht. To Peter, this epitomized the world of shipping when he began his distinguished career. Then the reality of shipping was in the next slide jammed with acronyms of all the organizations, regulations, and laws that shipowners have to contend with. The final slide was of Aristotle wistfully looking into the distance captioned, “What would he do now?”
 
 ### Perspectives on National Identity
 
@@ -28,7 +28,7 @@ Barry Bednar, trading guru of J. Aron & Company, a wholly owned subsidiary of Go
 
 ### Doing Business in America
 
-Robert Malone, Chief Executive of BP Shipping, emphasized that quality of operation starts with quality of people. He pointed out that great care is exercised in selecting personnel at all levels of BP Shipping. A large portion of bonuses reflects an individual's performance and contribution that bear on safety.
+Robert Malone, Chief Executive of BP Shipping, emphasized that quality of operation starts with quality of people. He pointed out that great care is exercised in selecting personnel at all levels of BP Shipping. A large portion of bonuses reflects an individual’s performance and contribution that bear on safety.
 
 Derick Betts of Seward & Kissel and Richard Du Moulin of Intrepid Shipping discussed the American Jobs Creation Act of 2004. This Act restored tax benefits for U.S. companies with qualified foreign shipping subsidiaries. Deferred earnings in so-called certified foreign corporations (CFCs) had become subject to direct taxation by changes to tax laws in 1976 and 1986. While the purpose of these changes was to collect more tax revenue, their effect was to reduce U.S. influence in world shipping. The 2004 Act reestablishes tax deferral of profits until repatriated to the U.S. parent. CFCs must be at least 50% owned by Americans or U.S. corporations with each individual entity having a minimum 10% ownership interest to count in the 50% total. Ships in this program must be U.S. flagged and manned by U.S. citizens and cannot be employed in cabotage (Jones Act) trades.
 
@@ -40,9 +40,8 @@ The Sarbanes-Oxley Act was passed in the wake of some of the greatest corporate 
 
 Shipping companies with U.S. traded securities may well decide that the requirements of the Sarbanes-Oxley Act are too onerous. These requirements can be avoided if the number of U.S. shareholders is less than 300, or reducing the number of U.S. shareholders to less than 300, or delisting.
 
-### It's Worth Attending
+### It’s Worth Attending
 
-The conference subjects were timely and interesting and presented in a forthright and challenging manner. It is the Trojan horse for observers to get a good peek at the inner world of Norwegian and Greek shipowners. This conference is something that definitely should be placed on one's calendar.
+The conference subjects were timely and interesting and presented in a forthright and challenging manner. It is the Trojan horse for observers to get a good peek at the inner world of Norwegian and Greek shipowners. This conference is something that definitely should be placed on one’s calendar.
 
 ## Market Exhibits & Charts
-

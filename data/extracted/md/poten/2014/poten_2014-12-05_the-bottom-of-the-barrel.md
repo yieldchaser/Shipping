@@ -28,6 +28,16 @@ Unplanned geopolitical events could also lead to production outages. Some countr
 
 Most analysts estimate that much of the current US shale oil production is still safe at $70 oil price levels but many believe that future growth might be reduced if prices stay where they are now or decline even further.
 
+esv
+
+*Chart: Fig. 1 VLCC Rates vs Oil Prices*
+
+*Source: Bloomberg, Poten*
+
+*Chart*
+
+*Source: Poten, IEA*
+
 OPEC may decide at a future meeting to reduce production quotas to restore market balance. Figure 2 shows the relationship between Middle East OPEC production and VLCC rates. Up to the financial crisis in 2008 the correlation was strong but the tanker oversupply in the years following the crisis weakened this correlation. We believe this may be temporary.
 
 Over the last year, deliveries of newbuilding tonnage have slowed and the tanker market has started to rebalance. Volatility has increased and rates have been fairly healthy across the board. Starting from historically high levels of Middle East OPEC production, we think that the tanker market may be able to cope surprisingly well with a possible OPEC production cut.

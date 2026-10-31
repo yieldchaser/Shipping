@@ -16,15 +16,9 @@ charts_count: 1
 
 When looking at the mounting tanker orderbook, the International Maritime Organization (IMO) phase-out regulation for single-hull tonnage serves as a natural check for a potential oversupply of ships in the future. Owners, charterers and analysts use this phase-out schedule in developing predictions about the future supply of tonnage in the world market. The question facing the tanker market is most likely one that the IMO and other regulatory bodies do not want to address: will these ships really stop trading?
 
-### Tanker Fleet Profile 30 -  300,000 DWT
+*Chart: Tanker Fleet Profile 30 - 300,000 DWT*
 
-### % of Fleet Over 25 Years Old
-
-### % of Spot Fixtures Non-DH
-
-### % of Fleet Non-DH
-
-2004 2005 2006 YTD Poten & Partners | new york • london • athens • perth • hong kong • guangzhou 1 The chart on the previous page shows the relative percentage of the reported fixtures on non-double hull tonnage. Today about 30% of the fleet is single- hull, double-bottomed or double-sided.
+The chart on the previous page shows the relative percentage of the reported fixtures on non-double hull tonnage. Today about 30% of the fleet is single-hull, double-bottomed or double-sided.
 
 ### Playing by the Rules
 

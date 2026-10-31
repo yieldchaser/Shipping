@@ -18,43 +18,15 @@ charts_count: 1
 
 The tanker market has experienced one of the strongest 12 month earnings periods ever. But the collapse of the financial markets and the tumultuous state of many economies has thrown a curve ball to tanker market players. The outlook for crude oil and refined product demand remains clouded by a weaker near-term economic forecast. Contracting demand in mature markets coupled with slower growth in emerging markets is a radical departure from the expectations of just a few months ago. General project delays and potential shipyard cancellations have added a new wrinkle of uncertainty to a once relatively-transparent supply picture. Most tanker freight rates have remained volatile as the relationship between supply and demand for ships has stayed relatively narrow through 2008.
 
-### VLCC Spot Market Rates
+*Chart: VLCC Spot Market Rates*
 
-### Time Charter Equivalent ($/day)
+AG - FE (260kt)
 
-### Sep-07
+**Source: Poten & Partners**
 
-### Sep-06
+Poten & Partners Marine Research and Consulting is pleased to provide a comprehensive and thoroughly researched review and th consecutive year. outlook for the tanker market for the 12
 
-### Sep-05
-
-### Sep-08
-
-### Sep-04
-
-### Jan-08
-
-### Jan-07
-
-### Jan-06
-
-### Jan-05
-
-### Jan-04
-
-### May-08
-
-### May-07
-
-### May-06
-
-### May-05
-
-### May-04
-
-Poten & Partners | • athens • guangzhou • hong kong • london • new york • perth • singapore 1 provide a comprehensive and thoroughly researched review and outlook for the tanker market for the 12 th consecutive year.
-
-Tanker Prospects 2009 - 2013 explores the key issues facing the industry today. The publication provides a medium-term outlook and is an essential tool in commercial strategy development. The study provides an overview of the VLCC, Suezmax, Aframax, Panamax and product carrier segments, including current fleet information and projections, freight rate outlooks, asset price outlooks and other critical details.
+Tanker Prospects 2009 – 2013 explores the key issues facing the industry today. The publication provides a medium-term outlook and is an essential tool in commercial strategy development. The study provides an overview of the VLCC, Suezmax, Aframax, Panamax and product carrier segments, including current fleet information and projections, freight rate outlooks, asset price outlooks and other critical details.
 
 The publication is planned for release in January 2009. The cost for this publication is $5,750. A special promotional discounted price of $4,500 per primary subscriber is being offered for orders placed by January 12, 2009. For further information please contact Mr. William Rexer at wrexer@poten.com or telephone +1 (212) 230-5410.
 

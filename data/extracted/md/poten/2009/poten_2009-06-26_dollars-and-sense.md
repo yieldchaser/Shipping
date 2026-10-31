@@ -20,19 +20,21 @@ Although it is tough to say that a recovery is imminent, the sentiment has certa
 
 Slight positive movements in a broader economic recovery will yield immediate results in the physical oil markets. For example, the number of Arabian Gulf spot market VLCC liftings has seen a very slight increase month‐on‐month. Additionally, the highly liquid and fairly consolidated spot market complicates and obscures the available tanker supply. The map below demonstrates the spot market trades that characterize the VLCC market.
 
-### Reported Spot Fixture Activity Past 12 Months
+*Chart*
+
+*Source: Poten*
+
+**Reported Spot Fixture Activity Past 12 Months**
 
 ### Beyond Fundamentals
 
 A purely fundamental approach, meaning a comparison of the expected increase in oil demand to the forward supply of tankers, is far from sufficient for determining a view on the future of freight rates and asset prices.
 
-Within the ten‐year historical range the fundamentals suggest that the closer ratio of demand to supply yields greater volatility, but does not necessarily translate into higher average rates. Even in a seemingly over‐tonnaged environment, regional imbalances and the incremental ship out of position can still create a significant ripple effect. The following chart highlights the role of the supply/demand ratio with respect to rate volatility within each year. Volatility is defined here as the range between the highest and lowest average monthly spot market rates for Arabian Gulf - Far East, basis 260 k MT.
+Within the ten‐year historical range the fundamentals suggest that the closer ratio of demand to supply yields greater volatility, but does not necessarily translate into higher average rates. Even in a seemingly over‐tonnaged environment, regional imbalances and the incremental ship out of position can still create a significant ripple effect. The following chart highlights the role of the supply/demand ratio with respect to rate volatility within each year. Volatility is defined here as the range between the highest and lowest average monthly spot market rates for Arabian Gulf – Far East, basis 260 k MT.
 
-### VLCC Fleet Utilization & Volatility
+*Chart: VLCC Fleet Utilization & Volatility*
 
-### Ratio (Demand/Supply)
-
-### TCE (000$/day)
+Source: Poten
 
 Furthermore, discontinuous events certainly drive the most dramatic spikes in the market: an oil spill, a war, even a trade agreement will have significant impacts.
 

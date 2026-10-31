@@ -26,11 +26,19 @@ In 2018, Mexico exported about 1.2 Mb/d of crude oil. The U.S imported slightly 
 
 According to Bloomberg, Maya crude is currently trading at about $58 per barrel. At this price, a 5% tariff represents a price increase of about $3 and a 25% tariff would increase the price by about $15, which will make Mexican crude oil uncompetitive in the U.S. market. U.S refiners would need to look for alternative crude oil sources. Logical replacement crudes would be Western Canadian crudes which have similar properties to Mexican crude. However, pipeline capacity constraints have limited the availability of Canadian crudes, as Canada has had trouble to get additional export pipelines built. These constraints became so dire that the government of Alberta instituted a production cap in an effort to reduce the price discount of Western Canadian crude to other crudes. Canada could raise their export volumes by using more rail shipments but the growth potential will be limited.
 
+*Chart*
+
+*Source: Lloyd’s List Intelligence*
+
+*Chart*
+
+*Source: EIA*
+
 With Venezuelan grades off limits for U.S. refiners, alternatives in the region are few and far between. Oriente crude from Ecuador could fill some of the requirements but is now rarely used in the U.S. Gulf region. As U.S. refiners have already increased their intake of light sweet crudes and have limited capacity to further lighten their crude slate, it is likely that Middle Eastern grades will need to make up some of the shortfall if the Mexican tariffs are indeed implemented.
 
 Mexico, in turn, will need to look for other customers for their crude. Selling more to existing buyers might be the first choice as they are already familiar with processing the crudes. This would be positive for VLCCs for Asian volumes and for Suezmax tankers for European buyers.
 
-The other question is, what will be the reaction of Mexico to U.S. tariffs?. Currently, there is no indication if and how Mexico will react. However, the U.S. currently exports about 1.1 Mb/d of petroleum products to Mexico. If Mexico raises tariffs on these products in retaliation, the main replacement source would likely be European refiners. Since this is a much longer haul trade, this would be a positive development for the product tanker market, in particular MR's.
+The other question is, what will be the reaction of Mexico to U.S. tariffs?. Currently, there is no indication if and how Mexico will react. However, the U.S. currently exports about 1.1 Mb/d of petroleum products to Mexico. If Mexico raises tariffs on these products in retaliation, the main replacement source would likely be European refiners. Since this is a much longer haul trade, this would be a positive development for the product tanker market, in particular MR’s.
 
 ## Market Exhibits & Charts
 

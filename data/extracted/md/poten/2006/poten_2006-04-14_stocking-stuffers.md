@@ -16,27 +16,19 @@ charts_count: 1
 
 Crude stocks in the US have been reaching levels not seen since April 1999 when they were at roughly the same levels and crude prices much lower. What is surprising is that even though crude prices have seen a rapid increase over the month of March, the US has yet to determine that enough is enough. Last week, stocks accumulated to over 345 million barrels.
 
-### Barrels (M)
-
-JAN FEB MAR APR MAY JUN JUL SEP OCT NOV DEC
+*Chart: US Crude Stocks*
 
 ### Refinery Demand
 
 To complicate matters for the shipping industry, the run-up in stocks has come at the time of the year that exhibits the lowest refinery utilization. In 2005 the first half of the year refinery utilization in the US was between 90 - 95%, as shown on the graph below. The third and fourth quarters of 2005 pushed new lows and US refining operations have yet to recover. In the same week last year, refineries were operating at 93%, this year refineries are operating under 85%.
 
-BP's refinery of Texas City was damaged by Hurricane Rita and was scheduled to reopen the first week of April, but will most likely do so later in the month. Similarly ConocoPhillips' Alliance refinery and Murphy Oil's Meraux refinery have yet to resume operations, but are expected to do so this month. Simultaneous openings of these major refineries could conceivably boost the crude demand by 775,000 barrels per day.
+*Chart: US Refinery Utilization %*
+
+BP’s refinery of Texas City was damaged by Hurricane Rita and was scheduled to reopen the first week of April, but will most likely do so later in the month. Similarly ConocoPhillips’ Alliance refinery and Murphy Oil’s Meraux refinery have yet to resume operations, but are expected to do so this month. Simultaneous openings of these major refineries could conceivably boost the crude demand by 775,000 barrels per day.
 
 ### Spring Cleaning
 
-Regularly scheduled maintenance on refineries in the US and Europe is also lowering utilization and therefore demand for incremental crude. Europe, similar to the US, is experiencing some additional unplanned outages. The
-
-### US Refinery Utilization %
-
-### Hurricane Rita
-
-### Hurricane Katrina
-
-seasonal maintenance in Europe is earlier in the year than in the US, yet capacity is not expected to fully resume until May.
+Regularly scheduled maintenance on refineries in the US and Europe is also lowering utilization and therefore demand for incremental crude. Europe, similar to the US, is experiencing some additional unplanned outages. The seasonal maintenance in Europe is earlier in the year than in the US, yet capacity is not expected to fully resume until May.
 
 In the Pacific, refinery turnaround season is expected to begin in April and peak in June. The overall reduction in capacity due to maintenance is anticipated to be around 12% and largely concentrated in Japan.
 
@@ -46,11 +38,7 @@ Traders and Wall Street are also creating pressure on the market as futures pric
 
 Current oil prices have increased to near $70 per barrel, a level that many analysts consider a psychological threshold for market pricing. After reaching $70 per barrel there is suggestion that the next range in which oil will comfortably trade is $75 to $80 per barrel. But it is far from certain that these price levels will reduce demand.
 
-### Days
-
-### Days Inventory
-
-### Worldscale Rate
+*Chart: # of Days of US Crude Inventory vs. Worldscale rate AG - USG*
 
 With crude stocks are at a relatively high level, it is perhaps not surprising that the number of days of crude inventory is also rising. Since the beginning of the year the days coverage provided by the inventory has been increasing. The decrease in Worldscale rates in March through the second week of April may be an indication that the days of inventory will be going even higher, pushing the demand for incremental crude even lower.
 

@@ -24,35 +24,21 @@ Current delay expectations northbound are about 6 days (4-5 days in the Dardanel
 
 Before 2001 there were very few handymaxes fixed out of the Black Sea and 2002 saw a small step up. Since 2003, the number of spot fixtures has increased significantly, and continues to do so.
 
-### Handymax Spot Fixture Activity
-
-### Black Sea/Med Trade
-
-### 2004 Average 8.2/Month
-
-### 2003 Average 4.9/Month
+*Chart: Handymax Spot Fixture Activity Black Sea/Med Trade*
 
 A comparison of handymax spot fixture rates between the Black Sea and the Caribbean load areas shows that it is sometimes better to be in the Caribbean and sometimes not.
 
-### Black Sea vs Caribs
-
-Black Sea Caribs
-
-### WS Rate
+*Chart: Comparative Spot Fixture WS Rates Black Sea vs Caribs*
 
 The differential in WS points for handymaxes trading in the two load areas shows considerable variation over time. Whereas the differential in rates averaged 25 WS points over the entire period, it is obvious that the rate spread escalates greatly during the short days of winter when congestion becomes a significant problem in the Bosphorus. This is the time when handymaxes are most needed to sail in and out of the Bosphorus while their larger brethren languish at anchor.
 
-### Differential Spot Fixture WS Points
-
-### Black Sea vs Caribs
-
-### WS Points
+*Chart: Differential Spot Fixture WS Points Black Sea vs Caribs*
 
 Dirty trading in the Black Sea offers other inducements. Parcel sizes for Black Sea are 44,000 tons whereas parcel sizes in the Caribbean are about 37,000 tons. Larger parcel sizes combined with shorter Black Sea/Med voyages increase the daily TCE earnings rate for Black Sea trading. This might be the explanation of why the average age of handymaxes trading with Black Sea cargoes has declined from 13.3 years in 2001 to the current relatively young age of 5 years.
 
 ### Conclusion
 
-Perhaps we shouldn't disparage handymaxes giving up the joys of clean living for a little down and dirty trading. After all tankers are for making money, not for keeping up appearances.
+Perhaps we shouldn’t disparage handymaxes giving up the joys of clean living for a little down and dirty trading. After all tankers are for making money, not for keeping up appearances.
 
 ## Market Exhibits & Charts
 

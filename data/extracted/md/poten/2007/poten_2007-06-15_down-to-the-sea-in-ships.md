@@ -14,17 +14,15 @@ charts_count: 1
 
 # Down to the Sea in Ships
 
-It is generally agreed that the quality of petroleum shipping has improved greatly in recent years due to tanker owners' commitment to quality in combination with the stringent standards of charterers. While there have been changes in ship design in efforts to meet safety and environmental standards, one concern remains on the horizon. As the world fleet of ships continues to grow, some are apprehensive about the human element and the ability to crew ships. The chart below shows the expected shortage and surplus of officers and ratings (unlicensed crew members) by the year 2015. With the incremental demand for officers growing quite substantially, the shipping community is certainly faced with an interesting set of challenges.
+It is generally agreed that the quality of petroleum shipping has improved greatly in recent years due to tanker owners’ commitment to quality in combination with the stringent standards of charterers. While there have been changes in ship design in efforts to meet safety and environmental standards, one concern remains on the horizon. As the world fleet of ships continues to grow, some are apprehensive about the human element and the ability to crew ships. The chart below shows the expected shortage and surplus of officers and ratings (unlicensed crew members) by the year 2015. With the incremental demand for officers growing quite substantially, the shipping community is certainly faced with an interesting set of challenges.
 
-### Seafarer Supply/Demand Balances
+*Chart: Seafarer Supply/Demand Balances*
 
-### Surplus or Deficit in Thousands
+*Source: BIMCO/ISF estimates*
 
-Officers Ratings Poten & Partners _ x athens x guangzhou x hong kong x london x new york x perth x singapore 1 It is interesting to note that while there is not an overall shortage of seafarers, a shortage of officers exists today and is expected to worsen in the longer term. Regardless, shipowners continue to place orders and book berth space. The chart below shows the current orderbook for tankers by total deadweight.
+It is interesting to note that while there is not an overall shortage of seafarers, a shortage of officers exists today and is expected to worsen in the longer term. Regardless, shipowners continue to place orders and book berth space. The chart below shows the current orderbook for tankers by total deadweight.
 
-### Million DWT
-
-VLCC Suezmax Aframax Panamax Handymax
+*Chart: Tanker Orderbook*
 
 ### Staying Seaborne
 

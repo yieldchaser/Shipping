@@ -22,9 +22,19 @@ In the North East, record cold winter weather raised the demand for heating oil.
 
 This also happened last year. The winter of 2014 was also relatively cold in the North East, leading to imports of 295 Kb/d of middle distillates in Q1, more than double the volumes imported in the first quarter of the prior two years.
 
-On the west coast, two refineries in California are currently out of service or running at significantly reduced rates. Reportedly, the 156 Kb/day Torrance refinery shut down after an explosion and the 166 KB/day Martinez refinery is not operating as a result of the ongoing labour dispute. The two refineries represent about 16% of California's refining capacity.
+On the west coast, two refineries in California are currently out of service or running at significantly reduced rates. Reportedly, the 156 Kb/day Torrance refinery shut down after an explosion and the 166 KB/day Martinez refinery is not operating as a result of the ongoing labour dispute. The two refineries represent about 16% of California’s refining capacity.
 
-Environmental regulations in California require the use of special gasoline: California Reformulated Blendstock for Oxygenate Blending (CARBOB). This limits the sourcing options of replacement barrels. Additionally, the geographical isolation of California's gasoline market from the large refining centers in the world makes it even more difficult to quickly replace local production. As a result, gasoline imports into PADD 5 (U.S. West Coast) are typically minimal. In 2014, only 2,000 b/d of finished gasoline was imported.
+Environmental regulations in California require the use of special gasoline: California Reformulated Blendstock for Oxygenate Blending (CARBOB). This limits the sourcing options of replacement barrels. Additionally, the geographical isolation of California’s gasoline market from the large refining centers in the world makes it even more difficult to quickly replace local production. As a result, gasoline imports into PADD 5 (U.S. West Coast)
+
+*Chart: Fig. 1: US Oil Product Imports and Exports*
+
+*Source: EIA*
+
+*Chart*
+
+*Source: Bloomberg*
+
+are typically minimal. In 2014, only 2,000 b/d of finished gasoline was imported.
 
 As a result of the arbitrage opportunity, the cost of blending components to manufacture California spec gasoline has quickly increased to capture at least a part of the potential profits.
 

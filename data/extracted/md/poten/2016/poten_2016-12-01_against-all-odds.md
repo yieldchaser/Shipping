@@ -22,11 +22,37 @@ The key highlights of the new OPEC deal are as follows: a new OPEC-14 production
 
 Even after cutting production by 1.2 mb/d, 2017 OPEC output remains well above the levels of November 2014, when OPEC shifted strategy and decided to focus on protecting market share rather than price. Since then, Saudi Arabia, Iraq and Iran (after the sanctions were lifted) have added more than 3.0 mb/d in production (Fig. 2).
 
-In the short to medium term, the deal seems to be a winner for OPEC. The 8-10% increase in prices (if they stick) already more than compensates for the 4-5% reduction in output that most countries have committed to. If several non-OPEC producers join as promised (and everybody complies with their new quota's), this production agreement could indeed reduce the oversupply and high inventories that have plagued the oil markets in recent years.
+In the short to medium term, the deal seems to be a winner for OPEC. The 8-10% increase in prices (if they stick) already more than compensates for the 4-5% reduction in output that most countries have committed to. If several non-OPEC producers join as promised (and everybody complies with their new quota’s), this production agreement could indeed reduce the oversupply and high inventories that have plagued the oil markets in recent years.
 
 Beyond the next 6 months (the initial period for which this agreement is valid), the outlook is more uncertain. Compliance from OPEC and non-OPEC participants is key and the track record of these producers to stick to quotas is not great. It is also uncertain what a sharp increase in prices will do to world oil demand. Lower oil prices supported global oil demand in 2015 and 2016, while anecdotal evidence suggests that it also provided a boost to Chinese stock building.
 
-Published Reference October Production Secondary January January (Mb/d) Level Sources Change Target Production % Cut Comment Algeria 1,089 1,088 -50 1,039 1,039 -4.6% Angola 1,753 1,586 -78 1,673 1,673 -4.4% Ecuador 548 549 -26 522 522 -4.7% Gabon 202 202 -9 193 193 -4.5% Indonesia 722 722 Suspended Iran 3,975 3,690 90 3,797 3,797 2.3% Base = 3.707 Iraq 4,561 4,561 -210 4,351 4,351 -4.6% Kuwait 2,838 2,838 -131 2,707 2,707 -4.6% Libya 528 528 Jan. assumed same as Oct Nigeria 1,628 1,628 Jan. assumed same as Oct Quatar 648 646 -30 618 618 -4.6% Saudi Arabia 10,544 10,532 -486 10,058 10,058 -4.6% UAE 3,013 3,007 -139 2,874 2,874 -4.6% Venezuela 2,067 2,067 -95 1,972 1,972 -4.6% 31,238 33,644 -1,164 29,804 32,682 The most significant variable impacted by the production cuts and associated price increase will be the reaction of the American shale oil producers. U.S. tight oil production has already started to recover and a sustained price increase could quickly result in material additions to U.S. output, which is about a million b/d below its first half 2015 peak.
+Fig. 1: OPEC November 30 Production Agreement
+
+| (Mb/d) | Reference Production Level | Published October Secondary Sources | Change | January Target | January Production | % Cut Comment |
+| --- | --- | --- | --- | --- | --- | --- |
+| Algeria | 1,089 | 1,088 | -50 | 1,039 | 1,039 | -4.6% |
+| Angola | 1,753 | 1,586 | -78 | 1,673 | 1,673 | -4.4% |
+| Ecuador | 548 | 549 | -26 | 522 | 522 | -4.7% |
+| Gabon | 202 | 202 | -9 | 193 | 193 | -4.5% |
+| Indonesia |  | 722 |  |  | 722 | Suspended |
+| Iran | 3,975 | 3,690 | 90 | 3,797 | 3,797 | 2.3% Base = 3.707 |
+| Iraq | 4,561 | 4,561 | -210 | 4,351 | 4,351 | -4.6% |
+| Kuwait | 2,838 | 2,838 | -131 | 2,707 | 2,707 | -4.6% |
+| Libya |  | 528 |  |  | 528 | Jan. assumed same as Oct |
+| Nigeria |  | 1,628 |  |  | 1,628 | Jan. assumed same as Oct |
+| Quatar | 648 | 646 | -30 | 618 | 618 | -4.6% |
+| Saudi Arabia | 10,544 | 10,532 | -486 | 10,058 | 10,058 | -4.6% |
+| UAE | 3,013 | 3,007 | -139 | 2,874 | 2,874 | -4.6% |
+| Venezuela | 2,067 | 2,067 | -95 | 1,972 | 1,972 | -4.6% |
+|  | 31,238 | 33,644 | -1,164 | 29,804 | 32,682 |  |
+
+Source: OPEC, Bloomberg
+
+*Chart: Fig. 2: OPEC Production Increases since November 2014 OPEC Meeting*
+
+*Source: IEA*
+
+The most significant variable impacted by the production cuts and associated price increase will be the reaction of the American shale oil producers. U.S. tight oil production has already started to recover and a sustained price increase could quickly result in material additions to U.S. output, which is about a million b/d below its first half 2015 peak.
 
 The impact of the OPEC cuts on the tanker market will tend to be negative, in particular in the first half of 2017. In the short term, the impact will be muted. Chances are that producers will try to put as much oil on the water as they can to take advantage of the higher prices before the cuts kick in and this could provide a short-term stimulus for the tanker market. Starting in January, however, exports will need to be reduced and early compliance with the cuts is expected to be high. Long-haul trades out of the Middle East will be affected the most and VLCC and Suezmax rates in particular are expected to suffer, especially since these vessel segments also have to deal with significant fleet growth in 2017.
 

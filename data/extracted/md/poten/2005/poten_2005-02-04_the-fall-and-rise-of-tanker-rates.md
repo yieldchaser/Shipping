@@ -16,13 +16,7 @@ charts_count: 1
 
 The last week of 2004 saw a precipitous fall in VLCC rates from over $200,000 per day to $35,000 per day. Does this presage the end of the era of high rates and a return to the doldrums that normally prevail in this industry? Or is it merely a pause that refreshes?
 
-### VLCC Spot Rates Versus Vessel Availability
-
-Rates Fall as Vessel Availability Increases
-
-### # Vessels
-
-### Very Low from Past Experience
+*Chart: VLCC Spot Rates Versus Vessel Availability*
 
 We have noted in past reports that VLCC rates tend to increase when the number of ships spot in the Arabian Gulf plus those that are expected to arrive within 30 days falls below 30 vessels. The exigency of matching a ship to a cargo clearly works against charterers when there is a reduced pool of vessels to chose from. In November 2004 the market experienced an extended period of relative scarcity of vessel availability. Clearly the rise in vessel availability in late December correspondingly contributed to the fall in rates.
 
@@ -30,31 +24,13 @@ We have noted in past reports that VLCC rates tend to increase when the number o
 
 Another reason rates fall is when less cargo is moving. The following chart is the daily fixture activity over this period of time.
 
-### VLCC Spot Rates Versus Fixture Activity
+*Chart: VLCC Spot Rates Versus Fixture Activity*
 
-### On the Rise!
+The Holiday Season at the end of December was actually not the time that charterers and owners took it easy– fixture activity actually fell significantly before Christmas. This coincided with the appearance of a larger number of available vessels.
 
-Fall in Fixture Activity As Number of Vessels
+Predictably as shown below, when fixture activity drops VLCC’s begin to pile up in the Arabian Gulf.
 
-### Increasing
-
-The Holiday Season at the end of December was actually not the time that charterers and owners took it easy- fixture activity actually fell significantly before Christmas. This coincided with the appearance of a larger number of available vessels.
-
-Predictably as shown below, when fixture activity drops VLCC's begin to pile up in the Arabian Gulf.
-
-### Fixture Activity versus VLCCs Expected in AG
-
-Fixture Activity Rising as Vessel
-
-### Availability
-
-### Shrinks!!
-
-Fall in Fixture Activtiy As Number of Vessels
-
-### Increasing
-
-### # Vessels
+*Chart: Fixture Activity versus VLCCs Expected in AG*
 
 ### We Are All Connected
 
@@ -64,11 +40,11 @@ Spot market West Africa liftings have steadily increased from about 25 per month
 
 ### What About Now?
 
-The analysis suggests that in a market with a tight supply/demand balance rate moves can be quite volatile. It appears that just as a combination of greater ship availability and falling fixture activity led to a fall in rates at the end of December, less tanker availability and rising fixture activity has resulted in, well, let's see, a rise in rates.
+The analysis suggests that in a market with a tight supply/demand balance rate moves can be quite volatile. It appears that just as a combination of greater ship availability and falling fixture activity led to a fall in rates at the end of December, less tanker availability and rising fixture activity has resulted in, well, let’s see, a rise in rates.
 
 ### What Next?
 
-Rates have come up quickly and decisively since reaching their 18- month lows in January on the back of stronger vessel demand on both sides of the Suez and a tighter tonnage supply picture. Rates seem to have paused their ascent though but will probably stay strong in the near term as long as the tonnage supply picture remains tight and crude oil liftings from the Arabian Gulf and West Africa keep on growing.
+Rates have come up quickly and decisively since reaching their 18-month lows in January on the back of stronger vessel demand on both sides of the Suez and a tighter tonnage supply picture. Rates seem to have paused their ascent though but will probably stay strong in the near term as long as the tonnage supply picture remains tight and crude oil liftings from the Arabian Gulf and West Africa keep on growing.
 
 ## Market Exhibits & Charts
 

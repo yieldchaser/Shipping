@@ -24,9 +24,17 @@ On the U.S. Atlantic Coast, domestic supplies are supplemented by imports. In th
 
 Since there is strong demand for gasoline in the U.S., one would expect import volumes from Europe to be high. However, that has not been the case recently. At the moment the European gasoline market is in steep backwardation, which means that demand is outstripping supply. High crude oil and natural gas prices have lowered crack spreads, so despite higher prices, refiners in Europe are not incentivized to increase runs. On top of that, several European refineries went down for maintenance and as a result, gasoline inventories in Europe have been depleting. Because of this, Europe does not currently have surplus gasoline and exports have been more limited. This has pushed up prices and reduced gasoline arbitrage opportunities. This could be temporary and indications are that exports to the U.S. have increased again from a very low October number.
 
-One of the risks facing future product exports from Europe is the possibility of a "fourth wave" of Covid infections in Europe. Whether this is due to complacency or (in some countries) vaccine hesitancy, the Covid infection rate in Europe has increased again and some countries are re-introducing movement restrictions. If this trend continues and spreads to other parts of the world, like the U.S., this could put a significant damper on the recovery in product demand.
+*Chart*
 
-On a positive note, MR scrapping has picked up markedly in 2021. Year to date, we have recorded the demolition of 25 MRs, which is the highest number in more than 10 years. This compares to only 12 MRs sold for scrap in 2020 and 17 in 2019. If this trend continues, it will help rebalance the market, especially since the MR orderbook is only 4.7% of the fleet, which is well below historical averages. One year ago, the orderbook still represented 7.9% of the fleet When everything is said and done, the impact on the Transatlantic product tanker market has been muted because there is still a lot of tonnage available in the area. However, we are about to enter the period of the year that is historically the strongest for MRs in the Atlantic. Assuming the refiners and traders can make enough product available, product tanker owners may be able to take advantage of stronger rates this winter period, especially since fleet growth should be limited.
+*Source: EIA*
+
+*Source: Poten & Partners*
+
+One of the risks facing future product exports from Europe is the possibility of a “fourth wave” of Covid infections in Europe. Whether this is due to complacency or (in some countries) vaccine hesitancy, the Covid infection rate in Europe has increased again and some countries are re-introducing movement restrictions. If this trend continues and spreads to other parts of the world, like the U.S., this could put a significant damper on the recovery in product demand.
+
+On a positive note, MR scrapping has picked up markedly in 2021. Year to date, we have recorded the demolition of 25 MRs, which is the highest number in more than 10 years. This compares to only 12 MRs sold for scrap in 2020 and 17 in 2019. If this trend continues, it will help rebalance the market, especially since the MR orderbook is only 4.7% of the fleet, which is well below historical averages. One year ago, the orderbook still represented 7.9% of the fleet
+
+When everything is said and done, the impact on the Transatlantic product tanker market has been muted because there is still a lot of tonnage available in the area. However, we are about to enter the period of the year that is historically the strongest for MRs in the Atlantic. Assuming the refiners and traders can make enough product available, product tanker owners may be able to take advantage of stronger rates this winter period, especially since fleet growth should be limited.
 
 ## Market Exhibits & Charts
 

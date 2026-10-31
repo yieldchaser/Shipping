@@ -18,11 +18,21 @@ charts_count: 2
 
 There is a strong correlation between tanker newbuilding activity and tanker rates. Shipowners tend to order more vessels during periods of high rates, when they are flush with cash and banks are more willing to provide financing. However, if the industry orders too many vessels, the subsequent oversupply (when all this new capacity hits the market) tends to push rates down, pessimism sets in and owners stop ordering. Provided that oil and tanker demand continue to grow (and demolition picks up as well) this reduction in ordering will typically sow the seeds for the next recovery in rates. For the tanker market, the last good year with healthy rates was 2015. Rates across all segments have been depressed since then. 2017 and 2018 were particularly bad. After a relatively strong winter market, rates in 2019 have dropped again and we are firmly in the summer doldrums now. Shipowners are looking at the next winter market with a sense of guarded optimism, especially since it will coincide with the implementation of the IMO 2020 Sulphur regulations on January 1. Is that warranted?
 
-Tanker ordering has been relatively modest so far this year. According to our data, only 61 tankers of all sizes were ordered in the first 6 months of 2019 (41 in Q1 and 20 in Q2). This is the 2nd lowest tally for the first half of the year since 2011. Only 1H 2016 was lower (24 total), but that came right after a record year of 2015, when no less than 503 (!) tankers were contracted. Ordering in 2015 was the highest since 637 tankers were contracted in 2006, in the middle of the tanker "Supercycle". The 2015 ordering bonanza created the tanker oversupply that the market is currently suffering from. The more modest ordering in recent years could set the scene for a more balanced tanker market in the coming years.
+Tanker ordering has been relatively modest so far this year. According to our data, only 61 tankers of all sizes were ordered in the first 6 months of 2019 (41 in Q1 and 20 in Q2). This is the 2nd lowest tally for the first half of the year since 2011. Only 1H 2016 was lower (24 total), but that came right after a record year of 2015, when no less than 503 (!) tankers were contracted. Ordering in 2015 was the highest since 637 tankers were contracted in 2006, in the middle of the tanker “Supercycle”. The 2015 ordering bonanza created the tanker oversupply that the market is currently suffering from. The more modest ordering in recent years could set the scene for a more balanced tanker market in the coming years.
 
 To see which tanker segments may benefit the most, we need to look at size specific data. For the crude segments, ordering in the VLCC segment has reduced the most. Only 14 new VLCCs were contracted in 1H 2019, compared to 35 in the same period of 2018 and 31 in 2017. VLCCs have also benefited the most from the acceleration of demolition in 2018. After many years of little or no scrapping, 33 VLCCs were removed from the fleet last year (about the same number as the prior 5 years combined). Demolition activity has slowed again this year. Only 4 VLCCs were sent to the breakers in 2019 to date. Despite the slowdown in ordering, VLCCs still have the highest orderbook, representing 11.2% of the current fleet (90 vessels). A number of these were ordered in 2014/2015 and some of them may never deliver.
 
-For Suezmaxes, the numbers are more modest. Since 2015, when a record 89 Suezmaxes were ordered (leading to record deliveries and fleet growth in 2017), newbuilding contracts in this segment have dropped dramatically. In the first half of 2019, 9 Suezmax tankers have been contracted. The current orderbook is a relatively modest 45 vessels (7.7% of the fleet). The Suezmax scrapping rate is running slightly ahead of the VLCCs this year (5 versus 4).
+For Suezmaxes, the numbers are more modest. Since 2015, when a record 89 Suezmaxes were ordered (leading to record
+
+*Chart*
+
+*Source: Poten & Partners*
+
+*Chart*
+
+*Source: Poten & Partners*
+
+deliveries and fleet growth in 2017), newbuilding contracts in this segment have dropped dramatically. In the first half of 2019, 9 Suezmax tankers have been contracted. The current orderbook is a relatively modest 45 vessels (7.7% of the fleet). The Suezmax scrapping rate is running slightly ahead of the VLCCs this year (5 versus 4).
 
 Aframax/LR2 ordering has been modest so far this year, while Panamax/LR1 contracting dried up completely. It appears that the larger product tankers, which were very popular with owners in 2015 and 2016, have fallen out of favor. The orderbook for Aframaxes/LR2 combined stands at 9.2%, while the Panamax/LR1 orderbook is only 5.9%.
 

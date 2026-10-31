@@ -24,7 +24,17 @@ Suezmax tonnage has been popular as they significantly increased their trading r
 
 It is remarkable that the orderbook has not grown more as freight rates have been fairly healthy, especially in recent months and because newbuilding prices have remained under pressure, as demand from some other sectors, such as dry bulk and offshore, has vanished. Second hand prices, which are more immediately influenced by freight markets, on the other hand, have increased in recent months.
 
-The Aframax and Panamax fleets, which operate in clean and dirty markets, both decreased in size as the scrapping of older tonnage exceeded deliveries in 2014. Both fleets are in a transition phase as older crude tankers are scrapped and are being replaced by new, predominantly clean capable tonnage. This is especially true for the Panamax market where the orderbook consists almost exclusively of "clean" LR1 vessels. The orderbook for both segments has decreased since the beginning of 2014 and is currently lower as a percentage of the trading fleet than for any of the other segments.
+The Aframax and Panamax fleets, which operate in clean and dirty markets, both decreased in size as the scrapping of older tonnage exceeded deliveries in 2014. Both fleets are in a transition phase as older crude tankers are scrapped and are being replaced by new, predominantly clean capable tonnage. This is especially true for the Panamax market where the orderbook consists almost exclusively of “clean” LR1 vessels. The orderbook for both segments has decreased since the beginning of 2014 and is currently lower as a percentage of the trading fleet than for any of the other segments.
+
+Fleet esv
+
+*Chart: Fig. 1: VLCC Newbuilding and Second Hand Prices*
+
+*Source: Poten & Partners*
+
+*Chart: Fig. 2: Orderbook Change since Jan 2014 and Current Orderbook %*
+
+*Source: Poten & Partners*
 
 Several years ago, the prospects for the product tanker market looked better than the crude tanker markets as new export oriented refineries were expected to generate longer haul trade growth. While product trade volumes have generally increased and freight rates have been fairly healthy, rates and second hand values have not yet met the expectations of several years ago. This is partially due to the deliveries of vessels preceding the refinery expansions and partially due to the scaling back of some refinery expansions in China, which could have turned the country into a product exporter. As a result of these orders placed in 2010-2013, the MR fleet has grown more rapidly than the various crude sectors.
 

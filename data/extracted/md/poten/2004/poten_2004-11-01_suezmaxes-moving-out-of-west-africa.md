@@ -16,11 +16,11 @@ charts_count: 1
 
 Something is happening to Suezmax tankers on one of their most important trades. The following chart shows that while the combined total of Suezmax and Vlcc spot fixtures is a little ahead of where they were five years ago (2004 data has been annualized), the number of Suezmax spot fixtures is declining.
 
-### # Suezmax & Vlcc Fixtures ex-West Africa
+*Chart: # Suezmax & Vlcc Fixtures ex-West Africa*
 
 Vlcc fixtures have climbed from 220 in 1999 to an anticipated 320 in 2004 while Suezmax spot fixtures have declined from 620 in 1999 to an anticipated 540 in 2004. As shown on the next page, Vlccs 36% share of West Africa spot fixtures in 1999 has grown to 59% in 2004. Focusing on Vlcc fixtures, 15% were backhaul cargoes to Asia in 1999 and now is 20%. And again, 22% of all Vlcc fixtures in 1999 were to the U.S. and now is 31%.
 
-% Share Vlccs for: All Fixtures Fixtures to Asia Fixtures to US
+*Chart: % Share Vlccs for:*
 
 ### Why Is This So?
 
@@ -28,13 +28,7 @@ At the end of the day, all this may be driven by charterers seeking the best dea
 
 If charterers are driven by a desire to minimize shipping costs, then Suezmaxes will pick up more cargoes if the rate spread reverts closer to the average and remains relatively stable. But if Suezmaxes can do better elsewhere, then Vlccs will continue to do better in West Africa.
 
-### WS Point Spread Suezmax vs VLCC
-
-West Africa to U.S.
-
-### Now the rate spread is high/erratic!
-
-When the trend was up for Suezmaxes, The rate spread was narrow and stable.
+*Chart: WS Point Spread Suezmax vs VLCC West Africa to U.S.*
 
 ## Market Exhibits & Charts
 

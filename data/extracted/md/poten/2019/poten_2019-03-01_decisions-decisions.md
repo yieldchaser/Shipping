@@ -24,22 +24,27 @@ For 2019, deliveries are still elevated; our orderbook currently has 79 VLCCs an
 
 The current VLCC fleet consists of 756 vessels, of which 170 are 16 years or older and 19 are older than 20 years. The Suezmax fleet is smaller, 583 vessels with 124 of 16 years and older. Ships that are older than 15 years are more difficult to employ as some charterers reject tankers older than 15 years.
 
-The owners of these older vessels will have to make a decision in the coming years. By September, all ships engaging in international trade need to have Ballast Water Treatment Systems (BWTS) installed at the first upcoming special survey. For larger tankers, these systems require an investment of $2- $3 million, depending on the size of the ship and the configuration of the system.
+The owners of these older vessels will have to make a decision in the coming years. By September, all ships engaging in international trade need to have Ballast Water Treatment Systems (BWTS) installed at the first upcoming special survey. For larger tankers, these systems require an investment of $2-$3 million, depending on the size of the ship and the configuration of the system.
 
-Additionally, on 1 January 2020, new sulfur emission regulations for ships will come into force. After this date, ships will have to switch to more expensive lower sulfur fuel or have exhaust gas cleaning equipment installed. Many of the older tankers have higher fuel consumption than modern vessels, so they will become less competitive when they are required to burn more expensive fuel. It is less likely that these vessels will have scrubbers installed as the age of the vessels will make it harder to recover the investment than with younger vessels.
+Additionally, on 1 January 2020, new sulfur emission regulations for ships will come into force. After this date, ships will have to switch to more expensive lower sulfur fuel or have exhaust gas cleaning equipment installed. Many of the older tankers have higher fuel consumption than modern vessels, so they will become less competitive when they are required to
+
+*Chart*
+
+*Source: Poten & Partners*
+
+*Chart: VLCC & Suezmax Age Profile*
+
+*Chart*
+
+*Source: Poten & Partners*
+
+burn more expensive fuel. It is less likely that these vessels will have scrubbers installed as the age of the vessels will make it harder to recover the investment than with younger vessels.
 
 In preparation for the implementation of IMO 2020, owners will try to have the scrubbers installed and operational by the start of 2020 as the fuel cost differential between HFO and low sulfur fuel will most likely be highest early on, while the market adjusts to the new requirements. If 10% of VLCCs and Suezmaxes install scrubbers and each vessel is out of service for several weeks, the operational fleet will be reduced materially. This will tighten the market and could offset some of the anticipated deliveries.
 
 It is likely that the combination of these regulatory requirements will lead to accelerated scrapping of tonnage, but it is impossible to quantify what the exact impact will be. By far the most important consideration for an owner deciding whether to scrap a vessel is the expected freight rates. If an owner expects a healthy market, it is easier to justify the required investment.
 
 However, even though the supply side may have a significant impact on freight rates this year and next, ton-mile demand will remain the key driver. As they are deciding about how to respond to the new regulations, tanker owners will also need to keep a keen eye on OPEC production and U.S. exports in the context of overall global oil demand.
-
-### VLCC & Suezmax Fleet Age Profile
-
-| Segment | 0-5 Yrs Old | 6-10 Yrs Old | 11-15 Yrs Old | 16+ Yrs Old | Total Fleet | 2019 Deliveries |
-|---|---|---|---|---|---|---|
-| VLCC | 25% | 33% | 19% | 22% | 756 vessels | 79 scheduled |
-| Suezmax | 24% | 35% | 20% | 21% | 583 vessels | 44 scheduled |
 
 ## Market Exhibits & Charts
 

@@ -14,37 +14,42 @@ charts_count: 1
 
 # The Aframax Family Tree
 
-Family trees allow us to figure out who is related to whom- here we are going to figure out the statistical relationships between Aframax rates, timecharter rates, newbuilding prices, and second hand values. The chart below shows the relationship between newbuilding prices and second hand values.
+Family trees allow us to figure out who is related to whom– here we are going to figure out the statistical relationships between Aframax rates, timecharter rates, newbuilding prices, and second hand values. The chart below shows the relationship between newbuilding prices and second hand values.
 
-### Newbuilding Prices vs Second Hand Values
+*Chart: Newbuilding Prices vs Second Hand Values*
 
-Newbuilding Prices Second Hand (5 Yr) Values
+There is a strong relationship between newbuilding prices and second hand values. Normally there is a discount between the two reflecting the age difference, but in strong markets, having a ship is better than waiting for a ship 18 or more months after it has been ordered. Thus the discount has virtually disappeared since
 
-Jan-00 Jan-01 Jan-02 Jan-03 Jan-04 Jan-05 $0 There is a strong relationship between newbuilding prices and second hand values. Normally there is a discount between the two reflecting the age difference, but in strong markets, having a ship is better than waiting for a ship 18 or more months after it has been ordered. Thus the discount has virtually disappeared since 2003. Tanker owners who had purchased a five-year old Aframax in 2002 have doubled their investment. Of course to realize that profit, they would have to sell at this time.
+\2003. Tanker owners who had purchased a five-year old Aframax in 2002 have doubled their investment. Of course to realize that profit, they would have to sell at this time.
 
 ### Family Relationship Between Newbuilding Prices and Timecharters
 
 The next chart shows the relationship between newbuilding prices and timecharters of 1 and 3 year duration.
 
-### Newbuilding Prices vs Timecharter Rates
+*Chart: Newbuilding Prices vs Timecharter Rates*
 
-Newbuilding Prices 1 Yr Timecharter 3 Yr Timecharter
-
-While not quite as strong as the relationship between newbuilding prices and second hand values, there was a strong family resemblance between the three up to last year. The logic of the relationship is that a strong market drives up term charter rates, which in turn increases owners' desires for new tonnage. Their inquiries and orders provide an incentive for shipyards to increase quotes for newbuildings. Recently newbuilding prices seem to be departing from term charter rates reflecting continuing orders to shipyards whose order books are full.
+While not quite as strong as the relationship between newbuilding prices and second hand values, there was a strong family resemblance between the three up to last year. The logic of the relationship is that a strong market drives up term charter rates, which in turn increases owners’ desires for new tonnage. Their inquiries and orders provide an incentive for shipyards to increase quotes for newbuildings. Recently newbuilding prices seem to be departing from term charter rates reflecting continuing orders to shipyards whose order books are full.
 
 ### Family Relationship Between Timecharters and Spot Rates
 
 This relationship is shown below.
 
-Caribs Upcoast 1 Yr Timecharter 3 Yr Timecharter
+*Chart: Spot WS Rates vs Timecharter Rates*
 
 The relationship is relatively weak because the term charter market is not nearly as volatile as spot rates, although one can see that term charter rates follow the general trend in spot rates.
 
 ### Summary
 
-If we treat R Square values above 95% as a very strong (VS) relationship, 85-90% as a strong relationship (S), 50-85% as a moderately strong relationship (MS), 40-50% as moderately weak (MW) and anything below 40% as weak (W), then the Aframax family tree is: 5-Yr Second Hand Spot $/Day N.B. Prices VS MS S W W 5-Yr S.H. - MS S W W 3-Year T/C MS - S W MW 1-Year T/C MS S - W MW Spot WS W W W - VS 3-Year T/C 1-Year T/C
+If we treat R Square values above 95% as a very strong (VS) relationship, 85-90% as a strong relationship (S), 50-85% as a moderately strong relationship (MS), 40-50% as moderately weak (MW) and anything below 40% as weak (W), then the Aframax family tree is:
 
-### Spot
+|  | 5-Yr | 3-Year | 1-Year | Spot | Spot |
+| --- | --- | --- | --- | --- | --- |
+|  | Second Hand | T/C | T/C | WS | $/Day |
+| N.B. Prices | VS | MS | S | W | W |
+| 5-Yr S.H. | - | MS | S | W | W |
+| 3-Year T/C | MS | - | S | W | MW |
+| 1-Year T/C | MS | S | - | W | MW |
+| Spot WS | W | W | W | - | VS |
 
 The relatively weak relationship does not mean that there is no relationship between the spot market and term charter rates because as seen on the previous page, term charter rates track the general trend of spot market rates.
 

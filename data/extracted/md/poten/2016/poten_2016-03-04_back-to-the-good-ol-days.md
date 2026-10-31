@@ -20,7 +20,17 @@ In 2011, growing U.S. crude production from shale fields started to exceed domes
 
 PADD 1 has 6 major refineries, mainly in the Mid-Atlantic area, with a total, theoretical crude processing capacity of about 1.2 Million barrels per day (Mb/d). In the early part of the decade, several of these refineries closed and others threatened to close as they were uncompetitive compared to U.S. Gulf refineries and imported oil products. For example, the Trainer refinery in Pennsylvania closed in Sep 2011 and was acquired in April 2012 by Delta Airlines who invested in the refinery to optimize its jet fuel production. The shale oil developments changed the economics as the refineries started to use light domestic crude that was shipped by rail from oil fields in the Bakken region.
 
-domestic crude production, but once they started de- bottlenecking existing infrastructure and adding new pipeline capacity, the cost advantages of domestic crude versus imported crude started to gradually decline. By early 2015, the price spread had all but disappeared and foreign imports have started to regain market share in PADD 1. It is now more cost effective to move crude from the Mid Continent to the US Gulf area via pipeline and import crude into PADD 1.
+Figure 1 shows the imports into the region compared to the spread between WTI and Brent. PADD 1 refineries operated almost exclusively on imported crude until crudes pricing on WTI crude gained a significant cost advantage over imported crudes. At this point, rail infrastructure expanded rapidly to provide transportation options to the East Coast. Domestic crude gradually gained market share until domestic crudes reached about 45-50% of the total crude slate. Initially, pipeline companies were unprepared for the rapid growth of domestic crude production, but once they started debottlenecking existing infrastructure and adding new pipeline capacity, the cost advantages of domestic crude versus imported crude started to gradually decline. By early 2015, the price spread had all but disappeared and foreign imports have started to regain market share in PADD 1. It is now more cost effective to move crude from the Mid Continent to the US Gulf area via pipeline and import crude into PADD 1.
+
+Figure 2 shows the sources of foreign imports for the last 10 years. West African imports suffered the brunt of the decline, although this trend had already started before the shale oil development took off. Over the last two years, West African
+
+*Chart: Fig. 1: PADD 1 Crude Sourcing vs WTI-Brent Spread*
+
+*Source: EIA*
+
+*Chart*
+
+*Source: EIA*
 
 crudes have lost market share to domestic production and to short haul Canadian crude. West African crudes started to regain some market share in recent months as they started replacing mainly reduced domestic crude sources.
 

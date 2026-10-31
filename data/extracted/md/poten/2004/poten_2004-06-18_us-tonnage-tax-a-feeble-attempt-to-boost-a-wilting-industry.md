@@ -20,17 +20,9 @@ The program provides subsidies up to $50 million per vessel to be built in US sh
 
 The legislation is said to be gaining momentum, though the exact form has not been mentioned. What also has not been in discussion is the cost of a US crew per day to operate a medium-size product carrier compared to a foreign crew. The difference in operating costs could be as much as $2 million for US-flagged ships versus foreign flagged.
 
-The following chart attests to the lack of the success of the U.S. maritime program (intermodal refers mostly to container and ro-ro carriers). The low cost in operating a foreign flag vessel compared to the high costs of manning a US- flagged ship has slowly chipped away at the US fleet.
+The following chart attests to the lack of the success of the U.S. maritime program (intermodal refers mostly to container and ro-ro carriers). The low cost in operating a foreign flag vessel compared to the high costs of manning a US-flagged ship has slowly chipped away at the US fleet.
 
-### Privately Owned U.S. Flag Fleet
-
-### Active Vessels Only
-
-Passenger Bulk Carrier General Cargo Intermodal Tanker
-
-### # Vessels
-
-### Marad/Poten
+*Chart: Privately Owned U.S. Flag Fleet Active Vessels Only*
 
 ### Not the First Attempt to Build the Fleet
 
@@ -38,7 +30,7 @@ The MARAD proposal is not the first time the US government has tried to build up
 
 Several programs were set up to maintain a U.S. flag presence to support the nation in times of national emergencies. One was the long-standing cabotage law, the Jones Act, which restricts the movement of cargoes between U.S. ports to U.S. flag vessels. Jones Act trades have their own unique rate structure that reflects the underlying costs of U.S. flag vessels. Too many U.S. flag vessels in relation to cargoes would cause rates and profit margins to fall, and too few vessels would create small fortunes for their owners.
 
-Oil is the most important cargo moving between U.S. ports. The primary trade routes are crude oil from Alaska to U.S. refineries and clean products from the U.S. Gulf to the Northeast. The falloff in Alaskan output created a surplus for U.S. flag crude carriers until in recent years when single hull phase out requirements under OPA'90 trimmed the fleet to a point where ship replacement was necessary. The U.S. Gulf to US East Coast trade was dealt a deathblow in 1980 when President Reagan permitted the exports of U.S. refined products. This gave oil companies a choice of exporting refined products to Mexico and Europe in non-U.S. flag product carriers or in U.S. flag product carriers to the US East Coast. This exposed the protected Jones Act trade to competition from foreign product carriers.
+Oil is the most important cargo moving between U.S. ports. The primary trade routes are crude oil from Alaska to U.S. refineries and clean products from the U.S. Gulf to the Northeast. The falloff in Alaskan output created a surplus for U.S. flag crude carriers until in recent years when single hull phase out requirements under OPA’90 trimmed the fleet to a point where ship replacement was necessary. The U.S. Gulf to US East Coast trade was dealt a deathblow in 1980 when President Reagan permitted the exports of U.S. refined products. This gave oil companies a choice of exporting refined products to Mexico and Europe in non-U.S. flag product carriers or in U.S. flag product carriers to the US East Coast. This exposed the protected Jones Act trade to competition from foreign product carriers.
 
 To protect U.S. flag tankers in foreign trade, a number of programs were initiated. One was cargo preference for Public Law 480 for grain cargoes to foreign nations. A percentage of these cargoes was reserved for U.S. flag bulk carriers whose rates for carrying the grain reflected their higher capital and operating costs. Grain exporters have long opposed this program because Public Law 480 funds spent on reimbursing higher cost vessels reduced the quantity of grain exports.
 
@@ -50,7 +42,7 @@ The last remaining support for the U.S. flag fleet is actually a shipbuilding pr
 
 The capital and operating cost structure of the U.S. flag fleet is prohibitively expensive. Manning costs of U.S. flag vessels are the highest in the world and may get higher if crew size has to be expanded to handle the administrative requirements from the increased regulatory load such as the recent ISPS code. Construction costs are also the highest in the world with 115,000 dwt Aframax tankers being priced for the Alaska trade at a cost that is about four times the cost in Far Eastern yards.
 
-We feel that the proposed tonnage tax and bringing back tax deferrals are equivalent to a band-aid on an amputated arm. It simply doesn't address the overwhelming construction and operating cost differentials that U.S. owners must contend with in competing with foreign flag operators. More drastic changes must be put in place.
+We feel that the proposed tonnage tax and bringing back tax deferrals are equivalent to a band-aid on an amputated arm. It simply doesn’t address the overwhelming construction and operating cost differentials that U.S. owners must contend with in competing with foreign flag operators. More drastic changes must be put in place.
 
 ## Market Exhibits & Charts
 

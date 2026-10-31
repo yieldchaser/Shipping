@@ -16,35 +16,34 @@ charts_count: 1
 
 Investors around the world are collectively holding their breath watching the values of equities deteriorate daily. The credit crisis has transcended into a rapid slide in the broader equity indexes and stock prices are getting crushed by the minute. Shipping equities have been swept up in the tide, despite how these companies are performing in the freight markets. The chart below shows the closing equity prices for a few of the major publicly traded shipowners relative to their prices on September 10, 2008. Although each of these companies may adopt a different approach to using debt, charter coverage (spot versus term) and clientele (counter party risk), it seems that the stock market appears to be making little distinction.
 
-### Change in Equity Prices
+*Chart: Change in Equity Prices*
 
-### Price Relative to Month Ago
+OSG FRO
 
-OSG FRO TK VLCCF TNP GMR Poten & Partners | • athens • guangzhou • hong kong • london • new york • perth • singapore 1 The disconnect between market value of the equities and the potential value of the assets is very striking and cannot be sustained in the longer-run.
+Source: Poten & Bloomberg
+
+TK VLCCF TNP GMR
+
+The disconnect between market value of the equities and the potential value of the assets is very striking and cannot be sustained in the longer-run.
 
 ### Value is in the eye of the beholder
 
-At present, the market capitalization of many tanker stocks are at levels far less than what the physical value of the ships would suggest. Net asset value is defined as the price of the ships net of any debt. As such, net asset value is somewhat subjective and can be difficult to determine - particularly in a market that is seeing little or no transactions. The market price of anything can be defined as the level at which there is a willing buyer and a willing seller. Today, it seems the inactivity levels have led to bearish sentiments where asset prices are concerned, but these price levels remain untested to a large extent.
+At present, the market capitalization of many tanker stocks are at levels far less than what the physical value of the ships would suggest. Net asset value is defined as the price of the ships net of any debt. As such, net asset value is somewhat subjective and can be difficult to determine – particularly in a market that is seeing little or no transactions. The market price of anything can be defined as the level at which there is a willing buyer and a willing seller. Today, it seems the inactivity levels have led to bearish sentiments where asset prices are concerned, but these price levels remain untested to a large extent.
 
-Many companies today are perceived as trading at or below net asset value. Add in the fact that it is unlikely many public companies will see an interruption in cash flow. Term coverage for the public shipping companies enables a visible and guaranteed flow of income for the duration of the charter period - a fact it would appear Wall Street has temporarily forgotten. The chart below shows some key statistics for tanker stocks: shares outstanding, market capitalization as well as size of fleet and coverage strategy.
+Many companies today are perceived as trading at or below net asset value. Add in the fact that it is unlikely many public companies will see an interruption in cash flow. Term coverage for the public shipping companies enables a visible and guaranteed flow of income for the duration of the charter period – a fact it would appear Wall Street has temporarily forgotten. The chart below shows some key statistics for tanker stocks: shares outstanding, market capitalization as well as size of fleet and coverage strategy.
 
-Shares Outstanding 10/10/08 Market Capitalization
+| Company | Shares Outstanding (Millions) | 10/10/08 Market Capitalization (Millions) | Controlled Crude Oil Tankers | Coverage Strategy |
+| --- | --- | --- | --- | --- |
+| OSG | 30.4 | $1,149 | 93 | Spot & Term |
+| FRO | 74.9 | $2,324 | 82 | Spot & Term |
+| TK | 72.3 | $1,351 | 90 | Spot & Term |
+| VLCCF | 17.1 | $223 | 4 | Term |
+| TNP | 37.7 | $797 | 25 | Term |
+| GMR | 31.3 | $345 | 23 | Spot & Term |
 
-### Controlled Crude
+### Source: Poten & Bloomberg
 
-### Coverage
-
-Strategy OSG 30.4 $1,149 93 Spot & Term FRO 74.9 $2,324 82 Spot & Term TK 72.3 $1,351 90 Spot & Term VLCCF 17.1 $223 4 Term TNP 37.7 $797 25 Term GMR 31.3 $345 23 Spot & Term For example, General Maritime has 23 tankers mixed between Suezmaxes and Aframaxes. Just looking at the Suezmax fleet alone, the 11 owned ships could have an average value of around $100 million per ship, or about one billion for just this part of the fleet. Subtract debt, and the implication is that the Aframax fleet is free! The stock
-
-### Company
-
-### (Millions)
-
-### (Millions)
-
-### Oil Tankers
-
-market is completely discounting the term coverage strategy for these ships as General Maritime has over 70% of the fleet on charter.
+For example, General Maritime has 23 tankers mixed between Suezmaxes and Aframaxes. Just looking at the Suezmax fleet alone, the 11 owned ships could have an average value of around $100 million per ship, or about one billion for just this part of the fleet. Subtract debt, and the implication is that the Aframax fleet is free! The stock market is completely discounting the term coverage strategy for these ships as General Maritime has over 70% of the fleet on charter.
 
 ### The next move
 

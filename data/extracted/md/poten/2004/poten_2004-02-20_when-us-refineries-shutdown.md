@@ -14,23 +14,29 @@ charts_count: 1
 
 # When U.S. Refineries Shutdown...
 
-US refineries have been closing up shop for spring maintenance and it's going to be a tight squeeze between facilitating supply and satisfying demand. This year is particularly difficult since, according to a report issued last month by the International Energy Agency, rather than cutting back the customary 2.6%, refineries are expected to cut capacity utilization by about 6%.
+US refineries have been closing up shop for spring maintenance and it’s going to be a tight squeeze between facilitating supply and satisfying demand. This year is particularly difficult since, according to a report issued last month by the International Energy Agency, rather than cutting back the customary 2.6%, refineries are expected to cut capacity utilization by about 6%.
 
 ### Oil Input Going Down
 
 The chart on the next page shows that refinery throughput has been falling since last spring and is now down to about 14.7 million bpd. If 14 million bpd is the low point, then throughput could have another 700,000 bpd to fall. This would mean a drop of as much as 1.4 million bpd in refinery throughput since this past December. The worst of all possible worlds for tanker owners would be for this entire falloff in refinery throughput to be compensated with Middle East exports. Assuming 1 VLCC can handle 25,000 bpd between the AG and the United States, then the falloff in demand from peak refinery throughput would be the equivalent of about 55 vessels. This would mean a drop of more than 10% in VLCC demand.
 
-### So Let's Look at the Rates
+### So Let’s Look at the Rates
 
 After peaking earlier in the market at WS 145, VLCC rates AG/East have leveled off at WS 125. Surprisingly VLCC rates are not that clearly correlated to US refinery throughput even after allowing for a lag between the load and arrival dates.
+
+*Chart: U.S. Refinery Throughput vs. WS Rates*
 
 ### Crude Imports
 
 As seen in the graph on the next page, a rolling average of US crude imports have been trending downward. The average imports are down to 9.3 million barrels per day from the 10 million barrels per day needed to satisfy expected summer demand.
 
+*Chart: Weekly Rolling Average U.S. Crude Imports*
+
 ### And Where Are Inventories?
 
 The graph on the next page shows that US crude inventories have fallen to about 250 million barrels, the lowest point during the past three years. While refineries can do little to bring these levels back up right now, eventually inventories will need to be replenished and may send rates back up once refineries resume running at full capacity. With the forward price lower than the current price for crude, we do not expect inventory levels to significantly increase.
+
+*Chart: Weekly U.S. Crude Inventories*
 
 ### So Where Does This Leave The Tanker Market?
 

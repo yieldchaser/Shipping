@@ -14,19 +14,13 @@ charts_count: 0
 
 # Crude Oil: More - a - Torium
 
-With the Macondo well successfully capped and the cleanup operation in the U.S. Gulf of Mexico moving into its next phase, a clearer picture of the spill's impact on the tanker market is starting to emerge. Recent attempts to pass restructurings of U.S. energy policy and oil spill regulation have left the long‐term effects of the Deepwater Horizon oil spill uncertain as Congress takes its summer vacation. In the near term, it appears that the moratorium will provide a boost to ton‐ mile demand as the U.S. continues its economic recovery.
+With the Macondo well successfully capped and the cleanup operation in the U.S. Gulf of Mexico moving into its next phase, a clearer picture of the spill’s impact on the tanker market is starting to emerge. Recent attempts to pass restructurings of U.S. energy policy and oil spill regulation have left the long‐term effects of the Deepwater Horizon oil spill uncertain as Congress takes its summer vacation. In the near term, it appears that the moratorium will provide a boost to tonmile demand as the U.S. continues its economic recovery.
 
 In July, the Energy Information Administration (EIA) updated its estimates of how much it expected domestic crude oil production to decline as a result of the moratorium on deepwater drilling in the U.S. Gulf. The EIA estimated that the six month stoppage would result in 31 kb/d of lost production this year and an additional 82 kb/d reduction in 2011. Development of deepwater resources in the U.S. Gulf had been expected to remain the largest source of domestic production growth, and the moratorium is expected to lead to a decrease in overall growth of U.S. crude oil production, as shown in the chart below.
 
-### Annual Changes in U.S. Crude Oil Production
+*Chart: Annual Changes in U.S. Crude Oil Production*
 
-### million barrels per day
-
-### ‐0.2
-
-### ‐0.4
-
-Crude Oil Fuel Ethanol LPG
+Source: Energy Information Administration
 
 ### Deeply‐Held Divisions
 
@@ -34,8 +28,8 @@ In late May, the Interior Department announced a six month moratorium on deepwat
 
 The fact that reductions in domestic crude oil output growth are expected to occur alongside a strengthening in U.S. demand means that they will likely lead to an increase in imports. The EIA expects demand to increase by about 140 kb/d this year, breaking a four year streak of declining liquid fuels consumption before increasing by a further 170 thousand barrels per day to more than 19 million barrels per day in 2011, as shown in the chart below. While it is too soon to say whether the shortfall created by the moratorium is made up for through crude oil or refined product imports, it is clear that the aftermath of the drilling moratorium will support ton‐mile demand in the near term.
 
-### U.S. Liquid Fuels Consumption & Production
+*Chart: U.S. Liquid Fuels Consumption & Production*
 
-### million barrels per day
+Source: Energy Information Administration
 
 Over the long term, the repercussions of the spill will no doubt come to play a prominent role in crafting new energy and oil spill legislation. It is still unclear what those repercussions will be, but there have been clear signs that the energy industry intends to resume business as usual by the end of 2010 or beginning of 2011 (albeit with a modified process for approval of permits). In the meantime, the tanker market will be more than happy to meet additional demand crated by the moratorium.

@@ -14,39 +14,17 @@ charts_count: 1
 
 # Fuel Oil Prospects 2008-2013
 
-### A Mid-Term Outlook
+A Mid-Term Outlook
 
-The fuel oil industry will continue its pace of fast-changing developments. Fuel oil, "the bottom of the barrel product", has experienced supply swings reflecting the offsetting effects of heavier crude slates and refinery upgrades which favor production of lighter and more profitable petroleum products. At the same time, residual fuel is experiencing a rapid increase in consumption by the marine industry and a decline in consumption by the electricity and manufacturing industries. Fuel oil specifications requirements are being modified to reflect increasing environmental concerns. The market has also seen a significant increase in terminal and storage activity as trading companies capitalize on arbitrage opportunities. In addition, the price of fuel oil has increased significantly, increasing risks.
+The fuel oil industry will continue its pace of fast-changing developments. Fuel oil, “the bottom of the barrel product”, has experienced supply swings reflecting the offsetting effects of heavier crude slates and refinery upgrades which favor production of lighter and more profitable petroleum products. At the same time, residual fuel is experiencing a rapid increase in consumption by the marine industry and a decline in consumption by the electricity and manufacturing industries. Fuel oil specifications requirements are being modified to reflect increasing environmental concerns. The market has also seen a significant increase in terminal and storage activity as trading companies capitalize on arbitrage opportunities. In addition, the price of fuel oil has increased significantly, increasing risks.
 
-### Singapore IFO-380
+Singapore IFO-380
 
-### July 2003 - July 2008
+*Chart*
 
-### Monthly Average $/MT
+*Source: Platts*
 
-### Jul-08
-
-### Jul-07
-
-### Jan-07
-
-### Jul-06
-
-### Jan-08
-
-### Jul-05
-
-### Jul-04
-
-### Jan-06
-
-### Jul-03
-
-### Jan-05
-
-### Jan-04
-
-Poten & Partners _ x athens x guangzhou x hong kong x london x new york x perth x singapore 1 comprehensive and thoroughly researched review and outlook for the fuel oil market.
+Poten & Partners Fuel Oil Department is pleased to provide the most comprehensive and thoroughly researched review and outlook for the fuel oil market.
 
 Fuel Oil Prospects 2008-2013 explores the key issues facing residual fuel industry professionals today. This publication provides a medium term outlook on the global fuel oil market with particular focus on refining implications and the marine bunker market. It examines the evolving changes in the regulatory environment, and their impacts on fuel oil quality and refining capability. The study also includes a detailed assessment of the trends in marine transportation for residual fuel by vessel class. Each section of this book contains an in-depth analysis of historical trends and the projected macro and micro market drivers that shape future expectations.
 

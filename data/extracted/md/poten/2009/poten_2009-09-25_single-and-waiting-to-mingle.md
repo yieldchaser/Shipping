@@ -18,7 +18,26 @@ Heading into the fourth quarter, it is becoming apparent that 2009 is not shapin
 
 The market for single hulls is certainly dwindling, however it is debatable whether regulations or market forces are at hand. The charts below show reported spot single hull VLCC activity by discharge country. As shown, 2009 saw South Korea cede its top spot among single hull discharge countries to India while other countries disappeared from the list altogether.
 
-2009 YTD Top Discharge Countries Discharge Country Single Hull India 53 Thailand 46 Taiwan 33 South Korea 27 China 20 Egypt 5 Far East 4 Top 7 Total 188 Other 0 Total 188 2007 Top Discharge Countries Discharge Country Single Hull South Korea 182 India 115 China 103 Taiwan 80 Thailand 73 Japan 52 Other Far East 29 Egypt 20 Phillipines 19 Singapore 14 Top 10 Total 687 Other 12 Total 699
+**2007 Top Discharge Countries**
+
+**2009 YTD Top Discharge Countries**
+
+| Discharge Country | Single Hull | Discharge Country | Single Hull |
+| --- | --- | --- | --- |
+| South Korea | 182 | India | 53 |
+| India | 115 | Thailand | 46 |
+| China | 103 | Taiwan | 33 |
+| Taiwan | 80 | South Korea | 27 |
+| Thailand | 73 | China | 20 |
+| Japan | 52 | Egypt | 5 |
+| Other Far East | 29 | Far East | 4 |
+| Egypt | 20 | Top 7 Total | 188 |
+| Phillipines | 19 | Other | 0 |
+| Singapore | 14 | Total | 188 |
+
+Top 10 Total 687 Other 12 Total 699
+
+Source: Poten & Partners
 
 ### On Incident
 
@@ -30,42 +49,18 @@ At present, IMO regulations ban single hull tankers from trading after 2010 or w
 
 ### Making the Market
 
-The economics supporting the continued trade in single hull tankers are being seriously tested in the current market. Historically, the advantage offered by single hull tankers was that they traded at a discount compared to their double hulled counterparts. The spread between spot rates for the two hull types has narrowed by about 65 percent from last year, due largely to the historically weak freight environment and less tanker demand. This narrowing, shown in the chart below, has essentially eradicated the incentive to charter single hulls and will be the central factor contributing to significantly lower utilization. Charterers can largely have their pick of modern ships, so why tempt hull - type fate?
+The economics supporting the continued trade in single hull tankers are being seriously tested in the current market. Historically, the advantage offered by single hull tankers was that they traded at a discount compared to their double hulled counterparts. The spread between spot rates for the two hull types has narrowed by about 65 percent from last year, due largely to the historically weak freight environment and less tanker demand. This narrowing, shown in the chart below, has essentially eradicated the incentive to charter single hulls and will be the central factor contributing to significantly lower utilization. Charterers can largely have their pick of modern ships, so why tempt hull – type fate?
 
-### VLCC Rates by Hull Type
+*Chart: VLCC Rates by Hull Type*
 
-### Worldscale Rate
+Differential AG‐FE (260kt) DH AG‐FE (260kt) Non‐DH
 
-### Differential
+Source: Poten & Partners
 
-### Jan‐09
+Lower capital expenses of single hull tankers has enabled shipowners to keep the older ships operational until the practice is banned altogether. Shipowners will take their chances and hold onto these ships in hopes they will be the beneficiaries of future market spikes. While demolitions will undoubtedly continue to take place, it is unlikely that market will see a marked increase in removals in the immediate term, especially given the fourth quarter is the traditional season for large swings in market rates.
 
-### Jan‐08
+The key to the future of the single hull markets is at the load terminals. The majority of single hull liftings are on the Arabian Gulf – Far East route and nothing to the contrary has stated that Saudi Arabia, Kuwait, and many other key supplier nations will prohibit the single hull lifting of cargoes before 2015.
 
-### Jan‐07
-
-### Jan‐06
-
-### Jan‐05
-
-### Jan‐04
-
-### Jul‐09
-
-### Jul‐08
-
-### Jul‐07
-
-### Jul‐06
-
-### Jul‐05
-
-### Jul‐04
-
-Differential AG‐FE (260kt) DH AG‐FE (260kt) Non‐DH Lower capital expenses of single hull tankers has enabled shipowners to keep the older ships operational until the practice is banned altogether. Shipowners will take their chances and hold onto these ships in hopes they will be the beneficiaries of future market spikes. While demolitions will undoubtedly continue to take place, it is unlikely that market will see a marked increase in removals in the immediate term, especially given the fourth quarter is the traditional season for large swings in market rates.
-
-The key to the future of the single hull markets is at the load terminals. The majority of single hull liftings are on the Arabian Gulf - Far East route and nothing to the contrary has stated that Saudi Arabia, Kuwait, and many other key supplier nations will prohibit the single hull lifting of cargoes before 2015.
-
-Even when the phase out of these ships hits the market, two factors will mitigate the widespread effects of a shock to the system. First, utilization and overall capacity of this fleet has proven to be of decreasing commercial relevance. Based on a sample of vessels, the frequency of with which these vessels are fixed puts the utilization in the 20 - 30 % range. For all intents and purposes, these vessels have been phased out of the market. Secondly, the nations that have explicitly moved to their phase‐out deadline forward have already drastically cut the level of imports on these vessels.
+Even when the phase out of these ships hits the market, two factors will mitigate the widespread effects of a shock to the system. First, utilization and overall capacity of this fleet has proven to be of decreasing commercial relevance. Based on a sample of vessels, the frequency of with which these vessels are fixed puts the utilization in the 20 – 30 % range. For all intents and purposes, these vessels have been phased out of the market. Secondly, the nations that have explicitly moved to their phase‐out deadline forward have already drastically cut the level of imports on these vessels.
 
 Single hull ships will likely get increased attention over the next several years, but it can be argued that the market is well‐prepared for their exit.

@@ -14,21 +14,23 @@ charts_count: 1
 
 # The Pacific Arbitrage
 
-When considering the current clean market it is difficult not to notice the development of new trade patterns that have emerged over the past several years. In addition to these new trade routes the more established routes have been seeing more traffic. The primary drivers in this evolution have been the regional supply and demand imbalances of clean refined products and the resulting price arbitrages. One market in particular that has seen significant growth as a result of both product demand and price arbitrage is the Far East to US West Coast trade. The chart below shows the annual amount of clean products based on reported spot fixtures since 2002 for the FE - USWC trade. If current fixture activity continues as it has so far in 2007, the amount of cargo moved on the spot market in 2007 could top 5.5 million tons.
+When considering the current clean market it is difficult not to notice the development of new trade patterns that have emerged over the past several years. In addition to these new trade routes the more established routes have been seeing more traffic. The primary drivers in this evolution have been the regional supply and demand imbalances of clean refined products and the resulting price arbitrages. One market in particular that has seen significant growth as a result of both product demand and price arbitrage is the Far East to US West Coast trade. The chart below shows the annual amount of clean products based on reported spot fixtures since 2002 for the FE – USWC trade. If current fixture activity continues as it has so far in 2007, the amount of cargo moved on the spot market in 2007 could top 5.5 million tons.
 
-### Million Tons
+*Chart*
 
-2002 2003 2004 2005 2006 2007 YTD Total Reported Tons Fixed Annualized Projection Poten & Partners _ x athens x guangzhou x hong kong x london x new york x perth x singapore 1 It is anticipated that strong demand for high quality refined products will continue on the US West Coast, but there is uncertainty as to how long the price arbitrage window will remain. According to the EIA, total imports for gasoline, diesel and kerosene topped 8.6 million tons for the first 11 months of 2006, which equates to nearly 250 Handymax parcels. At today's growth rate and with the arbitrage opportunity in place, there could be demand for between 15 and 20 Handymaxes required in the spot market trade alone.
+It is anticipated that strong demand for high quality refined products will continue on the US West Coast, but there is uncertainty as to how long the price arbitrage window will remain. According to the EIA, total imports for gasoline, diesel and kerosene topped 8.6 million tons for the first 11 months of 2006, which equates to nearly 250 Handymax parcels. At today’s growth rate and with the arbitrage opportunity in place, there could be demand for between 15 and 20 Handymaxes required in the spot market trade alone.
 
 ### Paying Their Way
 
-At current market levels, transportation costs roughly $41 per metric ton. While the freight market certainly has its swings, when compared to the product price market, freight looks relatively steady. For the past 12 months, charterers' transportation costs have stayed between $30-40 per metric ton overall. The chart below shows the charterers' transportation costs basis 40,000 MT and the arbitrage between Japanese and US West Coast gasoline and diesel.
+At current market levels, transportation costs roughly $41 per metric ton. While the freight market certainly has its swings, when compared to the product price market, freight looks relatively steady. For the past 12 months, charterers’ transportation costs have stayed between $30-40 per metric ton overall. The chart below shows the charterers’ transportation costs basis 40,000 MT and the arbitrage between Japanese and US West Coast gasoline and diesel.
 
-### ($/MT)
+*Chart*
 
-### ** Basis Ulsan - Los Angeles (40kt); 90% utilization
+\** Basis Ulsan - Los Angeles (40kt); 90% utilization
 
-Charterers' Transportation Costs Diesel Gasoline For the first three quarters of 2006, the arbitrage did not support the transportation of diesel on this trade, while the price disparity for gasoline tended to stay above freight costs justifying movement.
+Charterers' Transportation Costs Diesel Gasoline
+
+For the first three quarters of 2006, the arbitrage did not support the transportation of diesel on this trade, while the price disparity for gasoline tended to stay above freight costs justifying movement.
 
 What is most interesting, however, is how prices have been structured so far in 2007. According to the chart above, the price differential for both products has increased substantially to nearly $160 per metric ton on gasoline, and nearly $90 per metric ton on diesel.
 

@@ -16,7 +16,7 @@ charts_count: 2
 
 ### Is there still a future for dirty Panamax tankers?
 
-Panamax trades have been changing in the last 10-15 years as more and more of the fleet is coated and capable of trading refined products. Over time, the uncoated Panamax fleet has become a minority. This week we will take a look what the future might hold for the vessels still trading "on the dark side".
+Panamax trades have been changing in the last 10-15 years as more and more of the fleet is coated and capable of trading refined products. Over time, the uncoated Panamax fleet has become a minority. This week we will take a look what the future might hold for the vessels still trading “on the dark side”.
 
 Panamax tankers have been around for a long time: the first vessel of this size range, which is named after the Panama Canal, started operations in 1914, the year the canal opened. Panamax tankers have traditionally been designed to comply with the strict size regulations set by the Panama Canal Authority: 965 feet length overall (LOA), 106 feet width and 39.5 feet draft. However, these restrictions are about to change significantly due to the Panama Canal expansion project, which involves a new set of locks with new size regulations: 1,200 feet LOA, 161 feet width and 50 feet draft. Based on the new dimensions, fully-laden Aframaxes and even light-loaded Suezmax tankers will be able to traverse the Panama Canal. The expansion project is scheduled to be finished in early 2016.
 
@@ -26,11 +26,19 @@ However, the overall volume of reported dirty Panamax spot fixtures has declined
 
 The fleet and the orderbook both reflect the diminishing opportunities for the dirty Panamax trade. Only about 25% of the existing fleet is uncoated and according to our information, 35 of the 37 Panamax vessels on order are
 
-### coated tankers (see Figure 2)
+*Chart: Fig. 1: Panamax Fixtures (Clean versus Dirty Cargoes)*
+
+*Source: Poten*
+
+*Chart: Fig. 2: Panamax Age Profile (number of vessels)*
+
+*Source: Poten*
+
+coated tankers (see Figure 2)
 
 This does not mean that the dirty Panamax trade will disappear altogether, as several ports in the Caribbean and on the West Coast of South America have size restrictions that limit them to vessels up to maximum Panamax size. Also, when the crude Aframax market skyrockets, Panamaxes may be drawn into the dirty trade, since all coated vessels have that flexibility.
 
-So what is the owner of a dirty Panamax tanker to do? Stay close to the key charterers that trade to some of the restricted ports around the Americas, try to take advantage of the Panama Canal restrictions while they last, and if somebody for some reason wants to buy your vessel ... consider their offer carefully!
+So what is the owner of a dirty Panamax tanker to do? Stay close to the key charterers that trade to some of the restricted ports around the Americas, try to take advantage of the Panama Canal restrictions while they last, and if somebody for some reason wants to buy your vessel … consider their offer carefully!
 
 ## Market Exhibits & Charts
 

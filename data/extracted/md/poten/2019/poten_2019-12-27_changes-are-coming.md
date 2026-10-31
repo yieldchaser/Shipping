@@ -14,8 +14,6 @@ charts_count: 1
 
 # Changes Are Coming
 
-### IMO 2020 will become reality on January 1
-
 ### IMO 2020 will become reality on January 1st
 
 When the clock strikes 12 midnight on December 31st, the new IMO 2020 bunker fuel regulations will become effective. To be compliant, shipowners worldwide will have to switch to low sulphur fuels (0.5%) or use scrubbers to clean their exhaust gasses. Obviously, shipowners, charterers, refiners, bunker suppliers and other market participants do not wait until December 31st to make changes. Significant preparations have been underway for weeks, months and, for some companies, years to make sure that the changeover will be as smooth as possible. The IMO has stated that they are ready, and they have expressed confidence that IMO member states and the shipping sector are ready as well for January 1. However, a transformation of this magnitude will likely create problems, uncertainties, risks as well as opportunities.
@@ -24,11 +22,30 @@ Shipowners have had to decide how to comply with the new regulation, which will 
 
 Market reports indicate that a growing portion of compliant VLSFO has been locked up on term contracts by shipowners that want to guarantee availability and do not want to be exposed to spot market pricing risk. Owners have agreed term contracts for VLSFO with pricing based on a fixed discount relative to LSMGO. Bunker suppliers have also secured spot barrels, and these will likely be sold at premium prices.
 
-Major integrated oil companies and most refiners worldwide have also been preparing for the transition to compliant fuels. In addition to maximizing diesel production, many of them have also developed and are marketing their own IMO compliant fuels in the major bunkering hubs around the world. Some of the more complex refineries, especially those Comparison of HSFO and VLSFO Voyage Time Charter Equivalent (TCE) (27-Dec-2019) Voyage WS Rate VLSFO HSFO TCE (HSFO) TCE (VLSFO) Difference % ($/ton) ($/ton) ($/day) ($/day) ($/day) AG - China (270Kt) 122.50 $710 $320 $108,118 $83,660 $24,458 -23% WAF - UKC (130Kt) 165.00 $655 $290 $72,668 $58,145 $14,523 -20% Caribs - US Gulf (70Kt) 290.00 $641 $365 $81,459 $74,860 $6,599 -8% AG - Japan (75Kt) 187.50 $710 $320 $45,568 $31,609 $13,959 -31% AG - Japan (55Kt) 190.00 $710 $320 $32,431 $20,345 $12,086 -37% UKC - USAC (38Kt) 205.00 $603 $313 $27,261 $23,997 $3,264 -12% that are equipped with cokers, are looking to utilize certain types of residual fuel oil in lieu of heavier sour crudes. Falling HSFO prices have made this a potential alternative feedstock.
+Major integrated oil companies and most refiners worldwide have also been preparing for the transition to compliant fuels. In addition to maximizing diesel production, many of them have also developed and are marketing their own IMO compliant fuels in the major bunkering hubs around the world. Some of the more complex refineries, especially those
 
-Most market pundits expect that enough compliant fuel will be available and that the bunker market will settle down eventually. However, in the short- term, disruptions are likely and current pricing signals indicate that if a shipowner needs to buy compliant fuel on the spot market, he will need to pay premium prices. Quoted spot prices vary considerably based on the geographical location and are very volatile. Today's prices for HSFO range from $281/MT in Rotterdam to $365/MT in Houston, while VLSFO is priced at $576/MT in Rotterdam and $734/MT in Fujairah.
+*Chart*
 
-The wide range of fuel prices makes it difficult to gauge shipowners returns in this market. In Poten's Daily Market Report we have always used HSFO as the standard fuel. However, the market has gradually started to transition to VLSFO as the standard for most tankers and the difference in TCE's is quite significant as the table above shows. To better reflect this new reality, Poten will start reporting TCE's based on both VLSFO and HSFO prices in January 2020, based on the assumption that these will be the most commonly used fuels going forward.
+*Source: Ship & Bunker / Peninsula*
+
+**Comparison of HSFO and VLSFO Voyage Time Charter Equivalent (TCE) (27-Dec-2019)**
+
+| Voyage | WS Rate | VLSFO ($/ton) | HSFO ($/ton) | TCE (HSFO) TCE (VLSFO) Difference ($/day) ($/day) ($/day) | % |
+| --- | --- | --- | --- | --- | --- |
+| AG - China (270Kt) | 122.50 | $710 | $320 | $108,118 $83,660 $24,458 | -23% |
+| WAF - UKC (130Kt) | 165.00 | $655 | $290 | $72,668 $58,145 $14,523 | -20% |
+| Caribs - US Gulf (70Kt) | 290.00 | $641 | $365 | $81,459 $74,860 $6,599 | -8% |
+| AG - Japan (75Kt) | 187.50 | $710 | $320 | $45,568 $31,609 $13,959 | -31% |
+| AG - Japan (55Kt) | 190.00 | $710 | $320 | $32,431 $20,345 $12,086 | -37% |
+| UKC - USAC (38Kt) | 205.00 | $603 | $313 | $27,261 $23,997 $3,264 | -12% |
+
+Source: Poten & Partners
+
+that are equipped with cokers, are looking to utilize certain types of residual fuel oil in lieu of heavier sour crudes. Falling HSFO prices have made this a potential alternative feedstock.
+
+Most market pundits expect that enough compliant fuel will be available and that the bunker market will settle down eventually. However, in the short-term, disruptions are likely and current pricing signals indicate that if a shipowner needs to buy compliant fuel on the spot market, he will need to pay premium prices. Quoted spot prices vary considerably based on the geographical location and are very volatile. Today’s prices for HSFO range from $281/MT in Rotterdam to $365/MT in Houston, while VLSFO is priced at $576/MT in Rotterdam and $734/MT in Fujairah.
+
+The wide range of fuel prices makes it difficult to gauge shipowners returns in this market. In Poten’s Daily Market Report we have always used HSFO as the standard fuel. However, the market has gradually started to transition to VLSFO as the standard for most tankers and the difference in TCE’s is quite significant as the table above shows. To better reflect this new reality, Poten will start reporting TCE’s based on both VLSFO and HSFO prices in January 2020, based on the assumption that these will be the most commonly used fuels going forward.
 
 ## Market Exhibits & Charts
 

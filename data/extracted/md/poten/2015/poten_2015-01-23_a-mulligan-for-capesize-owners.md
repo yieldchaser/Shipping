@@ -24,13 +24,21 @@ We caution against expecting too many additional conversions to come to fruition
 
 A look at the current Capesize orderbook will help us to scale the possible impact of these conversions. We defined a Capesize bulk carrier as a vessel of at least 120,000 dwt. As of January 1, 2015 there were some 336 Capesize bulk carriers on order. For 69 of these vessels (about 20%) construction has already started, so conversion to another vessel type is no longer an option.
 
-Even if construction has not yet started, a switch to another vessel type is only feasible if the same yard has an existing design and a proven track record of building such vessels. A careful review of the shipyards where these capesize vessels are on order shows that out of the 38 yards only 11 are also (capable of) building similar- sized tankers. Excluding these "dry cargo only" yards removes another 104 vessels from the conversion pool.
+Even if construction has not yet started, a switch to another vessel type is only feasible if the same yard has an existing design and a proven track record of building such vessels. A careful review of the shipyards where these capesize vessels are on order shows that out of the 38 yards only 11 are also (capable of) building similar-sized tankers. Excluding these “dry cargo only” yards removes another 104 vessels from the conversion pool.
+
+*Chart: Fig. 1: Capesize vs Suezmax Spot Earnings*
+
+*Source: Baltic Exchange*
+
+*Chart: Fig. 2: Capesize (> 120,000 dwt) Orderbook Analysis*
+
+*Source: Poten and Partners*
 
 Next, we looked at the owners involved. If one assumes, which we believe to be reasonable, that the owners that will most aggressively push for conversions are the ones with experience in both dry bulk and tanker markets, the field is whittled down even further, since 113 of the Capesize vessels remaining on order are owned by dry cargo specialists.
 
 Based on the above analysis we estimate that out of the 336 Capesize vessels currently on order, about 50 ships are potential conversion candidates and a significant portion of these orders are already subject to active negotiations.
 
-More conversions will likely be negotiated, however, at the moment, we don't expect that this development will become so widespread that it will pose an immediate threat to the health of the tanker market.
+More conversions will likely be negotiated, however, at the moment, we don’t expect that this development will become so widespread that it will pose an immediate threat to the health of the tanker market.
 
 ## Market Exhibits & Charts
 

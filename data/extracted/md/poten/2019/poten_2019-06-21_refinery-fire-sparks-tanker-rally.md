@@ -24,7 +24,17 @@ While the U.S. crude oil production and refining markets have changed dramatical
 
 The U.S. Energy statistics use geographical regions called Petroleum Administration for Defense Districts (PADDs) and PADD1 covers the East Coast. In 2018, PADD1 consumed 5.8 Mb/d of petroleum products (3.8 Mb/d of Gasoline, 1.3 Mb/d of distillates and 0.4 Mb/d of LPG). About 995 Kb/d of these products were imported; 585 Kb/d of gasoline, 146 Kb/d of distillates and 46 Kb/d of jet fuel. About 40% of the product imports come from East Coast refiners in Canada and most of the remainder comes from Europe.
 
-The region also exports some petroleum products, but the volumes are much smaller than the imports. A decade ago, diesel was the main export commodity as the refiners focused on gasoline production and they could sell surplus diesel to Europe. Exports of diesel have declined recently and the main exports commodities from the region are now LPG (about 40% of the total product exports).
+The region also exports some petroleum products, but the volumes are much smaller than the imports. A decade ago, diesel was the main export commodity as the refiners focused on gasoline production and they could sell surplus diesel to
+
+*Chart*
+
+*Chart*
+
+*Source: EIA*
+
+*Source: EIA*
+
+Europe. Exports of diesel have declined recently and the main exports commodities from the region are now LPG (about 40% of the total product exports).
 
 The refineries in the region normally import most of their crude oil as it is expensive to ship domestic crude. In 2018, they imported 850 Kb/d. On occasion, when the Brent - WTI spread widens significantly, they will increase the consumption of domestic oil by shipping crude by rail from the Bakken region or by tanker from the U.S. Gulf.
 

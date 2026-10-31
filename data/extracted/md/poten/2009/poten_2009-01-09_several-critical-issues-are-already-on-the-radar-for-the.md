@@ -14,84 +14,76 @@ charts_count: 0
 
 # Several critical issues are already on the radar for the coming year and being closely monitored by those in the tanker market.  The following attempts to highlight several important issues that will
 
-### Your Opinion
+**Your Opinion**
 
-Welcome to Poten's first interactive Weekly Tanker Opinion. Several critical issues are already on the radar for the coming year and being closely monitored by those in the tanker market. The following attempts to highlight several important issues that will have an impact. Please cast your vote through the link at the end. It's easy and quick. We have already surveyed Poten's brokers, analysts and consultants and if you want to see what their consensus was, take a look at the end of this Opinion. Good luck and happy predicting!
+Welcome to Poten’s first interactive Weekly Tanker Opinion.
 
-Here are the questions...
+have an impact. Please cast your vote through the link at the end. It’s easy and quick. We have already surveyed Poten’s brokers, analysts and consultants and if you want to see what their consensus was, take a look at the end of this Opinion. Good luck and happy predicting!
 
-1. The economy in the United States will improve in:
+**Here are the questions…**
 
-### a. 3 months
+### 1. The economy in the United States will improve in:
 
-### b. 6 months
+a. 3 months b. 6 months c. 1 year d. 2 years
 
-### c. 1 year
+### 2. The next investment bank failure will occur:
 
-### d. 2 years
+a. Within the next month b. Within the next three months c. By the end of 2009 d. Not in the foreseeable future
 
-2. The next investment bank failure will occur:
+### 3. Average worldwide crude oil demand will:
 
-### a. Within the next month
+a. Increase b. Decrease c. Remain flat
 
-### b. Within the next three months
+### 4. During 2009 crude oil prices will hit:
 
-### c. By the end of 2009
+a. $15 per barrel
 
-### d. Not in the foreseeable future
+b. $100 per barrel
 
-3. Average worldwide crude oil demand will:
+c. $200 per barrel
 
-### a. Increase
+d. All of the above
 
-### b. Decrease
-
-### c. Remain flat
-
-4. During 2009 crude oil prices will hit:
-
-### a. $15 per barrel
-
-### b. $100 per barrel
-
-### c. $200 per barrel
-
-### d. All of the above
-
-### e. None of the above
+e. None of the above
 
 ### 5. Which event will occur first?
 
-a. The Big 5 oil companies will become the Big 4 b. The Big 5 tanker companies will become the Big 4 6. The 2009 average VLCC spot market rate will be:
+a. The Big 5 oil companies will become the Big 4
 
-### a. $20,000 per day
+b. The Big 5 tanker companies will become the Big 4
 
-### b. $50,000 per day
+### 6. The 2009 average VLCC spot market rate will be:
 
-### c. $75,000 per day
+a. $20,000 per day
 
-### d. $200,000 per day
+b. $50,000 per day
 
-7. Newbuilding VLCC prices in December 2009 will be:
+c. $75,000 per day
 
-### a. Below $100 million
+d. $200,000 per day
 
-### b. Between $100 - $124 million
+### 7. Newbuilding VLCC prices in December 2009 will be:
 
-### c. Between $125 - $149 million
+a. Below $100 million
 
-### d. Above $150 million
+b. Between $100 - $124 million
 
-8. The number of VLCC orders in 2009 will be:
+c. Between $125 - $149 million
 
-### a. Less than 5
+d. Above $150 million
 
-### b. 10 to 20
+### 8. The number of VLCC orders in 2009 will be:
 
-### c. 20 to 30
+a. Less than 5
 
-### d. Greater than 30
+b. 10 to 20
 
-### ...And our consensus predictions for 2009 are
+c. 20 to 30
 
-1. C; 2. B; 3. A; 4. B; 5. A; 6. B; 7. B; 8. B
+d. Greater than 30
+
+**...And our consensus predictions for 2009 are**
+
+\1. C; 2. B; 3. A; 4. B; 5. A; 6. B; 7. B; 8. B
+
+**http://www.poten.com/potensurvey.aspx**

@@ -20,9 +20,17 @@ The current state of the tanker market is nothing to write home about, so this w
 
 In the EIA Reference Case (the terminology the EIA uses for their Base Case), U.S. oil production falls from 9.4 million barrels per day (mb/d) in 2015 to 8.6 mb/d in 2017, before recovering to 11.3 mb/d in 2040. The recovery in U.S. oil production happens mostly in the Lower 48 states, with tight oil from the Bakken, Western Gulf Basin (including Eagle Ford) and Permian Basin leading the charge. From 2017 onwards, higher oil prices provide the main incentive for continued advances in industry practices, better technology and increased recovery of tight oil reserves. By 2040, tight oil represents 63% of U.S. crude oil production, up from 52% in 2015.
 
-While oil production stages a strong recovery over the next 25 years, U.S. oil demand is expected to remain flat over the forecast horizon. U.S. energy demand continues to gradually shift away from oil and (in particular) coal to natural gas and renewables. Total energy consumption will rise from 96.7 quadrillion Btu in 2015 to 107.1 quadrillion Btu in 2040 (+10.8%). There is only a small increase in the consumption of petroleum and other liquids (2.7% over 15 years) and as a result, the market share of oil in U.S. total energy supply declines from 38% to 35% during this period. Not surprisingly, natural gas and renewables are the big winners, although - in the case of renewables - from a very low base. The output of other energy sources, like nuclear and hydroelectric power remains stable but they are gradually losing market share.
+While oil production stages a strong recovery over the next 25 years, U.S. oil demand is expected to remain flat over the forecast horizon. U.S. energy demand continues to gradually shift away from oil and (in particular) coal to natural gas and renewables. Total energy consumption will rise from 96.7 quadrillion Btu in 2015 to 107.1 quadrillion Btu in 2040 (+10.8%). There is only a small increase in the consumption of petroleum and other liquids (2.7% over 15 years) and as a result, the market share of oil in U.S. total energy supply declines from 38% to 35% during this period. Not surprisingly, natural gas and renewables are the big winners, although – in the case of renewables – from a very low base. The output of other energy sources, like nuclear and hydroelectric power remains stable but they are gradually losing market share.
 
 The situation as painted in the EIA Reference Case is a boon to the tanker market (both crude and products). Growing crude oil production in the face of negligible domestic demand growth makes more volumes available for exports.
+
+*Chart: Fig. 1: U.S. Crude Oil Trade (2014-2040)*
+
+*Source: EIA*
+
+*Chart*
+
+*Source: EIA*
 
 The EIA expects U.S. crude oil exports to expand from an average 400,000 b/d in 2015 to more than one million b/d in 2040. One would expect that the increase in domestic production would also lead to lower crude oil imports, but this is hardly the case. Throughout the forecast horizon, crude oil imports remain fairly steady between 7 and 8 million barrels per day. As the ban on crude oil exports has been lifted and the export infrastructure in the U.S. improves, producers are increasingly able to market and sell the light sweet tight oil in world markets, while U.S. refiners, especially the ones in the U.S. Gulf with upgrade capacity will continue to import heavier (and cheaper) grades of crude from foreign suppliers. This scenario provides ongoing support for medium sized crude oil tankers, primarily in the Atlantic Basin. If additional investments in export infrastructure are made, VLCCs may also benefit.
 

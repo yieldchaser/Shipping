@@ -18,13 +18,17 @@ charts_count: 1
 
 We have reached the middle of the year. It is time to take stock of the fixture volumes in the tanker and see if we can observe any movements in the rankings of the largest dirty spot charterers (yes, Unipec is still on top). The overall volume of reported dirty spot fixtures in H1 2018 was only slightly higher (+0.6%) than in the same period last year (5,401 vs 5,367). However, the volume of cargo that was moved increased by 9%, indicating an underlying trend favouring the utilization of larger vessels (more VLCCs and Suezmaxes).
 
+*Chart*
+
 In the VLCC segment, Unipec continues to be in a league of its own. More reported VLCC fixtures are attributed to the Chinese giant than to the next eight largest VLCC charterers combined. It should be noted though that reported fixture activity does not equal market presence. Charterers with a large controlled fleet and/or a preference for private deals keep a low profile in these rankings. The total number of reported VLCC spot fixtures increased from 1,132 in H1 2017 to 1,190 in H1 2018 (+5.1%).
 
-### Fixtures
+**No. Spot**
 
-Chevron remained the largest Suezmax charterer in H1 2018, Repsol and Shell remained 2nd and 3rd respectively. There were a few changes in the other positions, but the established order remained largely intact. The only notable changes were that Turkish charterer Tupras and Italy's ENI disappeared from
+*Chart: Top 10 Suezmax Spot Charterers*
 
-| Rank | Charterer | Reported Total Cargo (MT 000s) | % of Total Dirty Cargoes | Prev Rank | Fixtures |
+Chevron remained the largest Suezmax charterer in H1 2018, Repsol and Shell remained 2nd and 3rd respectively. There were a few changes in the other positions, but the established order remained largely intact. The only notable changes were that Turkish charterer Tupras and Italy’s ENI disappeared from
+
+| 2018 H1 Rank | Charterer | Reported Total Cargo (MT 000's) | % of Total Dirty Cargoes | 2017 H1 Rank | 2018 H1 Fixtures |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Unipec | 106,342 | 14.3% | 1 | 471 |
 | 2 | Ioc | 44,392 | 6.0% | 4 | 156 |
@@ -46,12 +50,21 @@ Chevron remained the largest Suezmax charterer in H1 2018, Repsol and Shell rema
 | 18 | Valero | 10,095 | 1.4% | 23 | 85 |
 | 19 | GS Caltex | 9,820 | 1.3% | 19 | 52 |
 | 20 | Socar | 9,300 | 1.2% | 16 | 80 |
+|  | Top 20 | 488,323 | 68.1% |  | 3,351 |
+|  | Others | 257,700 | 31.9% |  | 2,050 |
+|  | Total | 746,023 | 100.0% |  | 5,401 |
+
+Source: Poten & Partners
 
 the top 10 ranking and were replaced by BPCL and ExxonMobil. The total number of reported Suezmax spot fixtures in H1 2018 (1,624) was 23% higher than in the first half of 2017 (1,320), a significant increase.
 
-### Fixtures
+**No. Spot**
 
-Similar to the other segments, there is no change in the top spot for Aframaxes. Vitol remained the largest spot charterer, staying well ahead of fellow traders Glencore (8rd) and Trafigura (9th). The Majors continue to feature prominently in this segment, with Shell, BP, Total, Chevron and ExxonMobil all represented in the top 10. The total number of reported Aframax spot fixtures during H1 2018 declined by 42 to 2,044 (-2.0%). * The above report has been assembled from market intelligence and reported spot market activity. As such, it may not provide a complete picture of the market due to the private nature of many spot market fixtures.
+*Chart: Top 10 Aframax Spot Charterers*
+
+Similar to the other segments, there is no change in the top spot for Aframaxes. Vitol remained the largest spot charterer, staying well ahead of fellow traders Glencore (8rd) and Trafigura (9th). The Majors continue to feature prominently in this segment, with Shell, BP, Total, Chevron and ExxonMobil all represented in the top 10. The total number of reported Aframax spot fixtures during H1 2018 declined by 42 to 2,044 (-2.0%).
+
+\* The above report has been assembled from market intelligence and reported spot market activity. As such, it may not provide a complete picture of the market due to the private nature of many spot market fixtures.
 
 ## Market Exhibits & Charts
 

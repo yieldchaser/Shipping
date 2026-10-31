@@ -14,13 +14,15 @@ charts_count: 1
 
 # No Longer Kings of the Road
 
-In a huge upset, it was recently announced that sales of Ford's dominant F-series truck lagged smaller, more fuel efficient cars like the Honda Civic and Accord, and the Toyota Camry and Corolla. In fact, the Ford F-series's fifth place showing in May 2008 US auto sales data marks the first time these trucks have failed to hold onto the top spot since June 2005 (when another truck briefly topped it). Ford sold just under 43,000 F-series trucks in May 2008, a 30% drop from May 2007.
+In a huge upset, it was recently announced that sales of Ford’s dominant F-series truck lagged smaller, more fuel efficient cars like the Honda Civic and Accord, and the Toyota Camry and Corolla. In fact, the Ford F-series’s fifth place showing in May 2008 US auto sales data marks the first time these trucks have failed to hold onto the top spot since June 2005 (when another truck briefly topped it). Ford sold just under 43,000 F-series trucks in May 2008, a 30% drop from May 2007.
 
-The graph below shows US gasoline consumption since 2000. Though the overall trend has been increasing overall consumption, it is clear that change is coming. With gasoline at $4+/gallon, consumers' driving habits appear to be changing to more car pooling, public transportation, and of course the purchasing of more fuel efficient automobiles. The question is: how big of an impact will this vehicle sales shift actually have, and how will the tanker market be affected?
+The graph below shows US gasoline consumption since 2000. Though the overall trend has been increasing overall consumption, it is clear that change is coming. With gasoline at $4+/gallon, consumers’ driving habits appear to be changing to more car pooling, public transportation, and of course the purchasing of more fuel efficient automobiles. The question is: how big of an impact will this vehicle sales shift actually have, and how will the tanker market be affected?
 
-### thousand bbl/d
+*Chart: US Daily Gasoline Consumption*
 
-Jan-00 Oct-00 Jul-01 Apr-02 Jan-03 Oct-03 Jul-04 Apr-05 Jan-06 Oct-06 Jul-07 Apr-08 Poten & Partners | • athens • guangzhou • hong kong • london • new york • perth • singapore 1 It would appear to the casual observer that this change in auto sale trends will significantly affect gasoline consumption and thus tanker demand. That supposition may only be half-right, however, if at all.
+*Source: EIA*
+
+It would appear to the casual observer that this change in auto sale trends will significantly affect gasoline consumption and thus tanker demand. That supposition may only be half-right, however, if at all.
 
 If we take data on the top 10 best selling autos in the US in May 2008, we calculate a weighted average fuel economy of 27.9 miles per gallon. Compare that figure with the weighted average fuel economy of 24.2 miles per gallon for the top selling cars from full-year 2006, and it is clear that fuel economy is a more important factor in auto sales than in previous years.
 

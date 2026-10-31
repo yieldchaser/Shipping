@@ -22,7 +22,7 @@ Companies try to improve the financial ratios that are used by investors and ban
 
 Another, possibly more important, reason to bring inventories down is the fact that some local governments in the U.S. impose a Personal Property Tax on the value of oil inventories as of a particular date, typically December 31st. This type of tax is most common in the U.S. Gulf Area (in U.S. petroleum statistics categorized as PADD 3), one of the largest refining and storage areas in the United States.
 
-Analysing the oil stock information from the EIA since 1982 shows that in 32 of the last 33 years crude oil inventories (excluding Strategic Petroleum Reserves) in PADD 3 declined in December (see Figure 1) while they increased again in January in 28 of the years. For other months of the year, the pattern is much more random, suggesting that the stock draw is a year- end phenomenon.
+Analysing the oil stock information from the EIA since 1982 shows that in 32 of the last 33 years crude oil inventories (excluding Strategic Petroleum Reserves) in PADD 3 declined in December (see Figure 1) while they increased again in January in 28 of the years. For other months of the year, the pattern is much more random, suggesting that the stock draw is a year-end phenomenon.
 
 The average crude oil stock draw in December in PADD 3 over the period was 8.7 Million barrels while the average build-up in January was 7.8 million barrels.
 
@@ -30,9 +30,21 @@ Other PADDs do not show such a strong pattern, although the U.S. as a whole is v
 
 Foreign imports into PADD 3 in December are often lower than the average for the year but the difference is not as significant and consistent as the inventory levels. In 22 of the 33 years since 1982, December imports were below the annual average while they were higher in the other 11 years.
 
-The question is how companies are going to treat the yearend inventory in 2015. Non SPR crude oil inventories in the U.S. are currently about 108 Million barrels (29%) higher than they were a year ago. EIA data shows that about 40% of the total inventory increase is located in PADD 3 (see figure 2).
+The question is how companies are going to treat the year-
 
-Lower oil prices will help in reducing companies' tax bill as WTI is currently priced about $10 lower than at the end of 2014. However, given past years, it is likely that oil companies will still try to reduce their tax liability and working capital for 2015 by reducing inventories, especially in counties and parishes that impose a tax on inventories. However, it is unlikely that they can do so without temporary reducing imports as available storage capacity outside of these parishes will likely be limited given the current high storage capacity utilization in the U.S.
+Fig. 1: PADD 3 Non SPR Crude Oil Inventory Build/Draw by Month (1982 – 2014)
+
+*Chart: Fig 2: PADD 3 Crude Oil Inventories (excl SPR)*
+
+*Source: EIA/Poten and Partners*
+
+*Chart*
+
+*Source: EIA*
+
+end inventory in 2015. Non SPR crude oil inventories in the U.S. are currently about 108 Million barrels (29%) higher than they were a year ago. EIA data shows that about 40% of the total inventory increase is located in PADD 3 (see figure 2).
+
+Lower oil prices will help in reducing companies’ tax bill as WTI is currently priced about $10 lower than at the end of 2014. However, given past years, it is likely that oil companies will still try to reduce their tax liability and working capital for 2015 by reducing inventories, especially in counties and parishes that impose a tax on inventories. However, it is unlikely that they can do so without temporary reducing imports as available storage capacity outside of these parishes will likely be limited given the current high storage capacity utilization in the U.S.
 
 ## Market Exhibits & Charts
 

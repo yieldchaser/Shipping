@@ -18,15 +18,19 @@ charts_count: 0
 
 For many people, it will be a relief to put 2020 in the rear-view mirror. It was a year like no other, with many extraordinary events, some highs, but mostly lows. Some of these events reinforced the rankings, while others changed them. Because China was less impacted by Covid-19 than Europe and the Americas, Unipec strengthened its position on top of the leader board (despite a lower fixture count). In 2020, they controlled 18% of total dirty spot cargoes, versus 17% in 2019. Overall, spot market activity was down 16% due to Covid-19.
 
-### Fixtures
+**No. Spot**
+
+*Chart: Top 10 VLCC Spot Charterers*
 
 It remains lonely at the top of the VLCC segment. In 2020, Unipec did more (reported) spot fixtures that the next twelve largest VLCC charterers combined. There were some notable changes relative to the previous year: Petrobras moved up from fifth to third and Equinor moved into the top ten (from 14th in 2019). Another new entry is Bahri, due to the unusually high Saudi spot fixture activity in March/April. We recorded a total of 2,266 reported VLCC spot fixtures in 2020 (down 7% from 2019).
 
-### Fixtures
+**No. Spot**
+
+*Chart: Top 10 Suezmax Spot Charterers*
 
 In the Suezmax segment, several of the top players switched position. ExxonMobil came out on top (they were 4th the previous year and 9th in 2018), while Shell moved in opposite direction (from 1st to 4th). The Indian Oil Company (Ioc) jumped from 6th to 2nd. Petrobras entered the top 10, a
 
-| Rank | Charterer | Reported Total Cargo (MT 000s) | % of Total Dirty Cargoes | Prev Rank | Fixtures |
+| 2020 Rank | Charterer | Reported Total Cargo (MT 000's) | % of Total Dirty Cargoes | 2019 Rank | 2020 Fixtures |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Unipec | 211,147 | 18.0% | 1 | 966 |
 | 2 | Shell | 57,274 | 4.9% | 2 | 478 |
@@ -48,11 +52,18 @@ In the Suezmax segment, several of the top players switched position. ExxonMobil
 | 18 | Reliance | 18,465 | 1.6% | 12 | 105 |
 | 19 | Mercuria | 14,985 | 1.3% | 24 | 126 |
 | 20 | Bahri | 13,815 | 1.2% | New | 50 |
+|  | Top 20 | 736,578 | 62.8% |  | 4,957 |
+|  | Others | 435,700 | 37.2% |  | 3,144 |
+|  | Total | 1,172,278 | 100.0% |  | 8,101 |
+
+Source: Poten & Partners
 
 testament to the continued growth of Brazilian crude oil production and exports in 2020. The total number of reported Suezmax spot fixtures in 2020 (2,055) was 23% lower than in 2019 (2,675).
 
-### Fixtures
+**No. Spot**
+
+*Chart: Top 10 Aframax Spot Charterers*
 
 Vitol, Shell and BP maintained their position on top of the rankings in the Aframax segment. Chevron dropped back a few places, while Unipec gained one spot. Trafigura entered the top ten in 6th spot. The total number of reported Aframax spot fixtures fell 20% in 2020 to 2,983 fixtures.
 
-* The above report has been assembled from market intelligence and reported spot market activity. As such, it may not provide a complete picture of the market due to the private nature of many spot market fixtures.
+\* The above report has been assembled from market intelligence and reported spot market activity. As such, it may not provide a complete picture of the market due to the private nature of many spot market fixtures.

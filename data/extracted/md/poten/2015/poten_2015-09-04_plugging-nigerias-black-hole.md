@@ -24,7 +24,19 @@ Some initial changes have been announced already. NNPC cancelled unfavourable cr
 
 On July 15th, the Nigerian government announced that 113 tankers, mainly VLCCs, are no longer allowed to trade in Nigeria. So far, they have provided no reason for the ban, but the general thinking is that the ban was also related to a crackdown on corruption and theft. However, the list of tankers is confusing, as some vessels are listed twice and it seems that some of the tankers on the list have not called Nigerian ports in years.
 
-Pipeline theft is so prevalent that the NNPC announced they intend to employ drones to monitor pipelines to prevent siphoning of crude. The government stated that in one year they identified between 3,400 and 4,000 attacks on its various pipelines. Just last week, Shell declared force majeure on crude export contracts as a result of shutting down two crude pipelines: the Trans Niger Pipeline (TNP) and the Nembe Creek Trunk Line (NCTL). The TNP was closed due to a leak resulting from a failed illegal connection while the NCTL was closed to remove crude theft points. On September 2nd, Shell announced that the pipelines were now operational again.
+Pipeline theft is so prevalent that the NNPC announced they intend to employ drones to monitor pipelines to prevent siphoning of crude. The government stated that in one year they identified between 3,400 and 4,000 attacks on its various pipelines. Just last week, Shell declared force majeure on crude export contracts as a result of shutting down two crude pipelines: the Trans Niger Pipeline (TNP) and the Nembe Creek Trunk Line (NCTL). The TNP was closed due to a leak resulting from a failed illegal connection while the NCTL was closed to
+
+Fleet esv
+
+*Chart: Fig 1: Nigerian Crude Exports 2010 – 2015 ytd*
+
+*Source: JODI, IEA*
+
+*Chart*
+
+*Source: IEA*
+
+remove crude theft points. On September 2nd, Shell announced that the pipelines were now operational again.
 
 In recent years, Nigerian exports have been redirected away from the U.S. where plentiful local light sweet production has displaced imports. Imports of Nigerian crude declined from 1.0 Mb/d in 2010 to 0.1 Mb/d in 2014. A part of this decrease has been absorbed by Europe, which increased imports from 450 Kb/d to 950 Kb/d, while the remainder went to Asia, mainly China and India.
 

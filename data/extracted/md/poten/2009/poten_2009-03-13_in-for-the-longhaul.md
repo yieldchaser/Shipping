@@ -16,47 +16,19 @@ charts_count: 0
 
 The Organization of Petroleum Exporting Countries (OPEC) will hold their 152nd meeting in Vienna, Austria on Sunday to discuss current market conditions and business strategy. Production cuts will no doubt top the agenda and moreover the necessity for countries to adhere to the quota. Many will be closely paying attention to the decisions made at the meeting ‐ specifically those in the tanker market.
 
-OPEC is already supposed to have curtailed production by 4.2 million barrels per day, but sources such as the International Energy Agency (IEA) and the Energy Intelligence Agency (EIA) have reported production cuts of only 1 - 1.2 million barrels per day. Based on the latest IEA oil market report OPEC production in January was 29.0 million barrels per day, down 1.3 million barrels per day from November 2008.
+OPEC is already supposed to have curtailed production by 4.2 million barrels per day, but sources such as the International Energy Agency (IEA) and the Energy Intelligence Agency (EIA) have reported production cuts of only 1 – 1.2 million barrels per day. Based on the latest IEA oil market report OPEC production in January was 29.0 million barrels per day, down 1.3 million barrels per day from November 2008.
 
-While it is difficult to know the magnitude of the actual cutbacks, VLCC reported spot market lifting volume in the Arabian Gulf can provide a good indication. As seen in the chart below, lifting volume in the first two months of 2009 is lower than levels seen throughout 2008. The expectation is for March 2009 liftings to be approximately 84 in total, 17 fewer than March 2008's total of 101.
+While it is difficult to know the magnitude of the actual cutbacks, VLCC reported spot market lifting volume in the Arabian Gulf can provide a good indication. As seen in the chart below, lifting volume in the first two months of 2009 is lower than levels seen throughout 2008. The expectation is for March 2009 liftings to be approximately 84 in total, 17 fewer than March 2008’s total of 101.
 
-### Arabian Gulf Liftings
+*Chart: Arabian Gulf Liftings*
 
-### No. Liftings
+*Source: Poten*
 
-### May‐08
+Feb‐08 ‐ Feb‐09 Avg.
 
-### Aug‐08
+Dec‐08 ‐ Feb‐09 Avg.
 
-### Nov‐08
-
-### Jul‐08
-
-### Sep‐08
-
-### Feb‐09
-
-### Oct‐08
-
-### Apr‐08
-
-### Feb‐08
-
-### Dec‐08
-
-### Mar‐09
-
-### Mar‐08
-
-### Jun‐08
-
-### Jan‐09
-
-### Jan‐08
-
-Feb‐08 ‐ Feb‐09 Avg. Dec‐08 ‐ Feb‐09 Avg.
-
-While the Arabian Gulf does not represent the entire OPEC pie, powerhouse producers Saudi Arabia, Kuwait and Iran can help set the tone for the tanker market. Saudi Arabia is the largest producer among the OPEC members and the latest IEA numbers reveal that November 2008 through January 2009 saw reduced production by 710,000 barrels per day; roughly one third of a full VLCC cargo per day. This single country's cuts could translate into roughly 10 VLCC cargoes per month, or 120 per year if sustained.
+While the Arabian Gulf does not represent the entire OPEC pie, powerhouse producers Saudi Arabia, Kuwait and Iran can help set the tone for the tanker market. Saudi Arabia is the largest producer among the OPEC members and the latest IEA numbers reveal that November 2008 through January 2009 saw reduced production by 710,000 barrels per day; roughly one third of a full VLCC cargo per day. This single country’s cuts could translate into roughly 10 VLCC cargoes per month, or 120 per year if sustained.
 
 ### The World is Round
 
@@ -66,15 +38,37 @@ In general, 75% of reported spot Arabian Gulf VLCC liftings head East and the re
 
 The table below hypothetically shows the necessary change in VLCC demand that would result from OPEC production cuts in the Arabian Gulf. Assuming the incremental replacement barrels would be distributed evenly amongst each of the four trades below, on a net basis. OPEC cuts could actually result in more demand for VLCCs.
 
-### Shown in VLCC Equivalent Units
+**Shown in VLCC Equivalent Units**
 
-(M Bbls/day) 0.5 1 1.5 2 2.5 3 3.5 4 4.5 4.2
+**(M Bbls/day)**
 
-### OPEC
+**0.5**
 
-CUTS Replacement AG - Far East ‐9 ‐17 ‐26 ‐35 ‐43 ‐52 ‐61 ‐69 ‐78 ‐73 AG - US Gulf ‐4 ‐9 ‐13 ‐18 ‐22 ‐27 ‐31 ‐36 ‐40 ‐38 Caribbean - Far East 4 7 11 15 19 22 26 30 34 31 EC South America - Far East 6 12 17 23 29 35 41 47 52 49 UK Continent - US Gulf 2 3 5 7 9 10 12 14 16 15 Mediterranean- US Gulf 2 5 7 9 11 14 16 18 21 19 Net Demand for VLCCs 0 1 1 2 2 3 3 4 4 4
+**1**
 
-### Barrels
+**1.5**
+
+**2**
+
+**2.5**
+
+**3**
+
+**3.5**
+
+**4**
+
+**4.5**
+
+**4.2**
+
+| AG – Far East AG – US Gulf | ‐9 ‐4 | ‐17 ‐9 | ‐26 ‐13 | ‐35 ‐18 | ‐43 ‐22 | ‐52 ‐27 | ‐61 ‐31 | ‐69 ‐36 | ‐78 ‐40 | ‐73 ‐38 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Caribbean – Far East | 4 | 7 | 11 | 15 | 19 | 22 | 26 | 30 | 34 | 31 |
+| EC South America – Far East | 6 | 12 | 17 | 23 | 29 | 35 | 41 | 47 | 52 | 49 |
+| UK Continent – US Gulf | 2 | 3 | 5 | 7 | 9 | 10 | 12 | 14 | 16 | 15 |
+| Mediterranean– US Gulf | 2 | 5 | 7 | 9 | 11 | 14 | 16 | 18 | 21 | 19 |
+| Net Demand for VLCCs | 0 | 1 | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 4 |
 
 ### Repositioning
 

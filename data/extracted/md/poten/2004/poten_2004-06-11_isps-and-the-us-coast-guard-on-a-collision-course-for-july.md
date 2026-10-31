@@ -22,27 +22,28 @@ A couple of the more onerous procedures are gathering Declarations of Security f
 
 While the Coast Guard will be busy implementing these security measures, charterers may incur demurrage charges if a ship is delayed from reaching a port. Various new charter party clauses have been introduced to clarify whether owners or charterers will be responsible for inspection/compliance charges for any delays. The acceptance of such clauses is negotiable between charterers and owners. Depending on the violation, the Coast Guard could allow a ship to wait outside of US waters for an undetermined amount of time to have documentation delivered onto the vessel. Last week, daily demurrage rates were $80,000 for a VLCC; $54,000 for a Suezmax; $35,000 for an Aframax; $23,000 for a Panamax and $20,000 for a Handymax. With crude oil prices at their current levels, these additional costs would probably not be welcome.
 
-The responsibilities between owner and charterer are split within the code. The charterer is to provide security officers. Some companies are following the Baltic and International Maritime Council's ISPS clause that holds the charterer responsible for demurrage charges in the event of a delay. Chartering departments of some oil majors will split the demurrage costs with owners, while other owners have refused to incur the charges.
+The responsibilities between owner and charterer are split within the code. The charterer is to provide security officers. Some companies are following the Baltic and International Maritime Council’s ISPS clause that holds the charterer responsible for demurrage charges in the event of a delay. Chartering departments of some oil majors will split the demurrage costs with owners, while other owners have refused to incur the charges.
 
 ### ISPS Code Summarized
 
 Starting on July 1st and lasting through September 30, 2004, port state control will carry out a concentrated inspection campaign (CIC). The CIC is not limited to the United States, but includes the nations who are signatories to the Paris, Tokyo and Black Sea Memoranda of Understanding (MOU). The Paris MOU includes most of the nations of Europe, the Tokyo MOU includes Australia, Canada, China, Japan and a host of other Asian nations, and the Black Sea MOU which includes Russia, Turkey, Bulgaria, Romania, Georgia and Ukraine. The United States is not a signatory to any of these MOUs, but will participate in the CIC through the U.S. Coast Guard.
 
-As background the objectives of the ISPS Code are: 1. Establish an international framework of laws and procedures involving cooperation between contracting (or local) governments, government agencies, local administration and the shipping and port industries to detect/assess security threats and take preventive measures against security incidents affecting ships or port facilities used in international trade.
+As background the objectives of the ISPS Code are:
 
-2. Establish the respective roles and responsibilities of all these parties concerned, at the national and international level, for ensuring maritime security.
+\1. Establish an international framework of laws and procedures involving cooperation between contracting (or local) governments, government agencies, local administration and the shipping and port industries to detect/assess security threats and take preventive measures against security incidents affecting ships or port facilities used in international trade.
 
-3. Ensure the early and efficient collation and exchange of security-related information.
+\2. Establish the respective roles and responsibilities of all these parties concerned, at the national and international level, for ensuring maritime security.
 
-4. Provide a methodology for security assessments so as to have in place plans and procedures to react to changing security levels.
+\3. Ensure the early and efficient collation and exchange of security-related information.
 
-5. Ensure that adequate and proportionate maritime security measures are in place.
+\4. Provide a methodology for security assessments so as to have in place plans and procedures to react to changing security levels.
 
-Other aspects of the CIC are under owners' control such as monitoring access to the vessel and sensitive areas within the vessel, complying with the applicable security level, maintaining records of the last 10 ship-to-port or ship-to- ship interfaces, the conduct of security drills and exercises and ensuring the ship's personnel are familiar with ship security procedures, the ability to communicate among ship's personnel, and posting of the ship's identification number in a visible place. One other matter that can vex an owner is whether a port/terminal is itself in compliance with the ISPS Code.
+\5. Ensure that adequate and proportionate maritime security measures are in place.
+
+Other aspects of the CIC are under owners’ control such as monitoring access to the vessel and sensitive areas within the vessel, complying with the applicable security level, maintaining records of the last 10 ship-to-port or ship-to-ship interfaces, the conduct of security drills and exercises and ensuring the ship’s personnel are familiar with ship security procedures, the ability to communicate among ship’s personnel, and posting of the ship’s identification number in a visible place. One other matter that can vex an owner is whether a port/terminal is itself in compliance with the ISPS Code.
 
 ### Conclusion
 
-The development of the code has given the industry a regulatory framework that has clearly improved communication of the various regulatory bodies around the world. The ISPS implementation will generally go off without a hitch the same way OPA '90, ISO9000 and SCTW did. It is likely that a couple of high profile detentions will occur, probably on a bulk carrier or container vessel. And as is nearly always the case, the top-tier professional owners and charterers have plans in place and the deadline will pass without causing the industry much difficulty.
+The development of the code has given the industry a regulatory framework that has clearly improved communication of the various regulatory bodies around the world. The ISPS implementation will generally go off without a hitch the same way OPA ’90, ISO9000 and SCTW did. It is likely that a couple of high profile detentions will occur, probably on a bulk carrier or container vessel. And as is nearly always the case, the top-tier professional owners and charterers have plans in place and the deadline will pass without causing the industry much difficulty.
 
 ## Market Exhibits & Charts
-

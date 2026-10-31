@@ -14,21 +14,19 @@ charts_count: 2
 
 # BTC (Bound To China?)
 
-The loading of 600,000 barrels of Azeri crude from the terminus of the Baku-Tbilisi-Ceyhan (BTC) pipeline marked an important milestone in the crude oil and potentially the tanker markets. "At capacity" is a commonly used phrase when discussing today's worldwide crude and refined products markets. It's no secret that with very little spare capacity, crude markets have been increasingly jittery. However, the operational commencement of the BTC pipeline may alleviate some pressure on oil prices, while increasing demand for tanker tonnage.
+The loading of 600,000 barrels of Azeri crude from the terminus of the Baku-Tbilisi-Ceyhan (BTC) pipeline marked an important milestone in the crude oil and potentially the tanker markets. “At capacity” is a commonly used phrase when discussing today’s worldwide crude and refined products markets. It’s no secret that with very little spare capacity, crude markets have been increasingly jittery. However, the operational commencement of the BTC pipeline may alleviate some pressure on oil prices, while increasing demand for tanker tonnage.
 
-### Baku-Tbilisi-Ceyhan Pipeline
+*Chart: Baku-Tbilisi-Ceyhan Pipeline*
 
-Poten & Partners | new york • london • athens • perth • hong kong • guangzhou 1 It's A Long Way From Baku...
+### It’s A Long Way From Baku…
 
-Starting in Azerbaijan at Baku, the pipeline runs through Tbilisi, Georgia ending up at Ceyhan, a Turkish port on the eastern side of the Mediterranean. The pipeline runs just over 1,000 miles and the pipeline itself has a capacity of 10 million barrels of oil. The inventory holding cost of filling this pipeline is about $700 million at today's crude prices. It will take several months to reach throughput capacity of 1 million barrels per day, as enough pressure must be generated to move the massive amount of cargo. It is estimated that the pipeline will meet intended capacity by the end of 2006.
+Starting in Azerbaijan at Baku, the pipeline runs through Tbilisi, Georgia ending up at Ceyhan, a Turkish port on the eastern side of the Mediterranean. The pipeline runs just over 1,000 miles and the pipeline itself has a capacity of 10 million barrels of oil. The inventory holding cost of filling this pipeline is about $700 million at today’s crude prices. It will take several months to reach throughput capacity of 1 million barrels per day, as enough pressure must be generated to move the massive amount of cargo. It is estimated that the pipeline will meet intended capacity by the end of 2006.
 
-### ...And Even Longer to China
+### …And Even Longer to China
 
 The type of crude to be produced from the pipeline is relatively light and low in sulfur, similar to the crude produced in West Africa. The crude is expected to end up in refineries on the East Coast of the United States as well as Europe and even the Far East- particularly China. Due to proximity, some refineries in the Mediterranean will also be looking into these cargoes, although these refineries are typically designed for heavier crude.
 
-### Fixtures Ex- Ceyhan
-
-### Number of Fixtures
+*Chart: Fixtures Ex- Ceyhan*
 
 The chart on the previous page shows the historical number of fixtures out of Ceyhan for Suezmaxes and VLCCs. The number of liftings has declined significantly as supply to the port from the Iraq-Turkey Crude Pipeline has experienced interruption in the past few years. This year has not seen any spot market fixtures!
 

@@ -18,70 +18,30 @@ For the past year, discussions of the Arabian Gulf to United States VLCC market 
 
 The chart below shows the total reported spot market lifting on a monthly basis since 2009. The February 2012 schedule is a clear outlier with 28 overall liftings, versus the three‐year average of 11 per month.
 
-### Arabian Gulf ‐ US Gulf VLCC Liftings
+*Chart: Arabian Gulf ‐ US Gulf VLCC Liftings*
 
-### No. Reported Spot Liftings
+*Source: Poten & Partners*
 
-Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec The second highest number of liftings in the past three years occurred in July of 2011. Crude oil liftings have historically been a leading indicator of PADD III crude oil refinery demand due to voyage transit time.
+*Source: Poten & Partners*
 
-While refinery utilization levels will continue to ebb and flow, the new capacity addition at Port Arthur will increase baseline import volumes. Two attributes of the Port Arthur refinery expansion are working in favor of Arabian Gulf exports as the supply source. First and foremost, Motiva is a partnership between Shell and Saudi Aramco. Second, the heavy processing units at the expanded facility will be better suited for Saudi Arabian grades or oil sand crude rather than domestically available shale oils. At least for the near term, Canadian heavy grade shipments to Port Arthur are currently embroiled in Keystone Pipeline XL politics (see, Key‐Stonewalled) The additional call on Arabian Gulf crude oil could create demand for upwards of 13 to 15 fully‐ employed VLCCs on an annual basis.
+The second highest number of liftings in the past three years occurred in July of 2011. Crude oil liftings have historically been a leading indicator of PADD III crude oil refinery demand due to voyage transit time.
+
+While refinery utilization levels will continue to ebb and flow, the new capacity addition at Port Arthur will increase baseline import volumes. Two attributes of the Port Arthur refinery expansion are working in favor of Arabian Gulf exports as the supply source. First and foremost, Motiva is a partnership between Shell and Saudi Aramco. Second, the heavy processing units at the expanded facility will be better suited for Saudi Arabian grades or oil sand crude rather than domestically available shale oils. At least for the near term, Canadian heavy grade shipments to Port Arthur are currently embroiled in Keystone Pipeline XL politics (see, Key‐Stonewalled)
+
+The additional call on Arabian Gulf crude oil could create demand for upwards of 13 to 15 fully‐employed VLCCs on an annual basis.
 
 ### A thirsty Gulf to feed
 
-Although market conditions have changed significantly since the official announcement of Motiva's expansion in September 2007, new appetite for US Gulf refined products abroad has luckily supplanted growth in domestic markets.
+Although market conditions have changed significantly since the official announcement of Motiva’s expansion in September 2007, new appetite for US Gulf refined products abroad has luckily supplanted growth in domestic markets.
 
 The chart below shows the role of exports versus domestic demand in the United States. Export volumes have climbed to 16% of domestic demand levels.
 
-### United States Refined Product Position
+*Chart: United States Refined Product Position*
 
-### Exports as a % of Demand
+Source: EIA
 
-### Product Exports (kbd)
+US Product Exports (4 Wk. Moving Average)
 
-### May‐11
+Exports/Domestic Demand
 
-### May‐08
-
-### Aug‐11
-
-### Aug‐08
-
-### Nov‐11
-
-### Nov‐08
-
-### Jul‐09
-
-### Oct‐09
-
-### Feb‐11
-
-### Sep‐10
-
-### Feb‐08
-
-### Sep‐07
-
-### Apr‐09
-
-### Dec‐10
-
-### Dec‐07
-
-### Mar‐10
-
-### Mar‐07
-
-### Jun‐10
-
-### Jun‐07
-
-### Jan‐12
-
-### Jan‐10
-
-### Jan‐09
-
-### Jan‐07
-
-As the refined product exports continue to offset decreases in U.S. domestic demand, it seems Motiva's expansion could help both VLCC and MR ship owners alike.
+As the refined product exports continue to offset decreases in U.S. domestic demand, it seems Motiva’s expansion could help both VLCC and MR ship owners alike.
