@@ -58,7 +58,7 @@ sectors:
 | TC5 | ME Gulf / Japan | 55,000 | $16,703 | ↓ Softer |
 | TC6 | Algeria / EU Med | 30,000 | WS 204.38 | ↑ Firmer |
 | TC7 | Sing. / ECA | 30,000 | $19,252 | ↑ Firmer |
-| TC8 | ME Gulf / UKC | 65,000 | $44 | ↓ Softer |
+| TC8 | ME Gulf / UKC | 65,000 | $43.95 | ↓ Softer |
 | TC9 | Baltic / UKC | 30,000 | WS 345.71 | ↑ Firmer |
 
 ## Tanker Market Commentary

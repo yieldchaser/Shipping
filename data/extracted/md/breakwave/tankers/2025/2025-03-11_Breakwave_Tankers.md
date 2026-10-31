@@ -45,6 +45,10 @@ indicators:
 
 The last few years have been characterized by increased geopolitical uncertainty. Going forward, we expect such events to continue to affect global trade and have a meaningful impact on effective vessel supply. Combined with the potential for a multi-year cyclical rebound in China’s economic activity following the recent economic turmoil, dry bulk shipping should experience higher volatility on top of a secular tightness driven by stable bulk commodity demand and a slower fleet growth owing to a relatively low orderbook.
 
+## Index Composition & Methodology
+
+> The Baltic TD3C Index measures the spot rate in USD per ton for Very Large Crude Carriers (VLLCC) operating in the Middle East to Asia route. The Breakwave Tanker Futures Index (BDRYFF) is designed to track freight futures contracts with a sector weighting of 90% VLCC TD3C and 10% Suezmax TD20 and a weighted average maturity of approximately 50-70 days.
+
 ## Tankers Fundamentals
 
 | Category | Metric | YTD Value | YoY Change |

@@ -269,7 +269,25 @@ def parse_breakwave_clean(pdf_path):
             text = text.strip()
             if not text:
                 continue
-            
+
+            # One block can hold the Freight Rates rows AND the Note line (Tankers 2023-07..2025-02): the rows
+            # before "Note:" are fundamentals, the rest is notes.
+            notes_text = text
+            head = text.split("Note:", 1)[0]
+            if "Note:" in text and any(k in head.split("\n")[0] for k in ("Demand", "Supply", "Freight Rates")):
+                text, notes_text = head.strip(), text[len(head):]
+                for l in notes_text.split("\n"):
+                    l = l.strip()
+                    if l.startswith("Disclaimer:") or "Please visit" in l or "Contact:" in l:
+                        break
+                    if l.startswith("Note:") or l.startswith("Sources:"):
+                        notes_and_sources.append(l)
+
+            # 2025+ prints the index methodology in the Note/Sources block: "Chart: The Baltic TD3C Index measures ..."
+            m_meth = re.search(r"Chart:\s*(The .*?(?:measures the|weighting of).*)", notes_text, re.S)
+            if m_meth and not methodology_note:
+                methodology_note = " ".join(m_meth.group(1).split())
+
             # Notes & Sources (strictly stopping before Disclaimer / Contact boilerplate)
             if "Note:" in text or "Sources:" in text:
                 for l in text.split("\n"):
@@ -280,7 +298,7 @@ def parse_breakwave_clean(pdf_path):
                         notes_and_sources.append(l)
 
             # Methodology note directly under graph (Era 2)
-            elif len(text) > 80 and ("measures the" in text or "weighting of" in text) and not text.startswith("Disclaimer") and "LLC" not in text:
+            elif len(text) > 80 and ("measures the" in text or "weighting of" in text) and not text.startswith("Disclaimer") and not re.search(r"\bLLC\b", text):  # 2025 prints "VLLCC"
                 methodology_note = " ".join(text.split())
                 
             # Fundamentals tables (Demand, Supply, Freight Rates)

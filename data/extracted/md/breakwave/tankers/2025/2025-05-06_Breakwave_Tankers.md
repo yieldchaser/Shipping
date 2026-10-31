@@ -49,6 +49,10 @@ Recent developments in the oil markets may appear surprising to those accustomed
 
 The tanker market is recovering from a long period of staggered rates as the growth in new vessel supply shrinks while oil demand remains elevated in line with the global economy. A historically low orderbook combined with favorable shifting trade patterns should continue to support increased spot rate volatility, which combined with the ongoing geopolitical turmoil, should sustain freight rates in the medium to long term.
 
+## Index Composition & Methodology
+
+> The Baltic TD3C Index measures the spot rate in USD per ton for Very Large Crude Carriers (VLLCC) operating in the Middle East to Asia route. The Breakwave Tanker Futures Index (BDRYFF) is designed to track freight futures contracts with a sector weighting of 90% VLCC TD3C and 10% Suezmax TD20 and a weighted average maturity of approximately 50-70 days.
+
 ## Tankers Fundamentals
 
 | Category | Metric | YTD Value | YoY Change |

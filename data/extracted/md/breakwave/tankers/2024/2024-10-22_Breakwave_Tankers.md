@@ -67,6 +67,8 @@ The tanker market is recovering from a long period of staggered rates as the gro
 | Demand | China Oil Imports | 412.4 MMbls | -2.8% |
 | Demand | Global Crude Oil Floating Storage | 58.8 MMbls | 0.9% |
 | Supply | Tanker Fleet | 693.8 mdwt | 0.9% |
+| Freight Rates | VLCC Middle East-Asia, USD/ton | 12.96 | -6.1% |
+| Freight Rates | Suezmax West Africa-Europe, USD/ton | 17.57 | -10.5% |
 
 ---
 

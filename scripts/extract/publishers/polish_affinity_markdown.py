@@ -108,12 +108,12 @@ def parse_quantity_mt(val: Any) -> Optional[int]:
 
 
 def format_rate(val: Optional[float]) -> str:
-    """Format TCE dollar rate with commas and dollar sign."""
+    """Format TCE dollar rate with commas and dollar sign. A rate printed with decimals keeps them: TC8 is
+    quoted per tonne ("58.85", 2022-07-01), which a whole-dollar format turned into "$59"."""
     if val is None:
         return "-"
-    if val < 0:
-        return f"-${abs(val):,.0f}"
-    return f"${val:,.0f}"
+    body = f"{abs(val):,.0f}" if float(val).is_integer() else f"{abs(val):,.2f}".rstrip("0")
+    return f"-${body}" if val < 0 else f"${body}"
 
 
 def format_rate_cell(raw_val: Any, val: Optional[float], unit_source: Any = None) -> str:
@@ -133,6 +133,9 @@ def format_rate_cell(raw_val: Any, val: Optional[float], unit_source: Any = None
         if val is None:
             return raw or "-"
         return f"WS {val:g}"
+    printed = raw.lstrip("$").strip()
+    if val is not None and re.fullmatch(r"-?[\d,]*\d\.\d+", printed):  # decimals as printed ("58.85", "58.70")
+        return f"-${printed.lstrip('-')}" if printed.startswith("-") else f"${printed}"
     return format_rate(val)
 
 

@@ -33,7 +33,43 @@ High freight rates and demand for older tonnage (much of which will likely trade
 
 Overall, the tanker market in 2022 has been transformed owing to terrible circumstances. It is impossible to say how long the war will persist, but for now, with few signs of peace, and permanent changes to the world’s relationship with Russia, shipowners have good reason to remain bullish into 2023.
 
-*Chart: Summary Table - Market & Fleet Data*
+### Summary Table - Market & Fleet Data
+
+| Rates (TCEs at 'market speed') | Route | Dec-21 WS | Dec-21 TCE/day* | Dec-22 MTD WS | Dec-22 MTD TCE/day* | 2022 WS Low | 2022 WS High |
+|---|---|---|---|---|---|---|---|
+| VLCC | Middle East - Ningpo | 40 | $750 | 79 | $47,750 | 31.5 | 127.5 |
+| Suezmax | West Africa - UKCont | 67 | $7,500 | 182 | $75,000 | 52.5 | 230 |
+| Aframax | North Sea - UKCont | 107 | $4,500 | 323 | $163,750 | 92.5 | 330 |
+| LR2 | Middle East - Japan | 123 | $12,500 | 295 | $73,750 | 70 | 325 |
+| LR1 | Middle East - Japan | 132 | $9,750 | 343 | $63,750 | 92.5 | 375 |
+| MR | UKCont - USAC | 170 | $10,500 | 399 | $53,000 | 120 | 405 |
+
+| Fleet | Dec-21 Fleet Size | Dec-22 Fleet Size |
+|---|---|---|
+| VLCC | 843 | 880 |
+| Suez / LR3 | 617 | 652 |
+| Aframax / LR2 | 1,085 | 1,102 |
+| Panamax / LR1 | 455 | 456 |
+| Handy / MR | 2,185 | 2,221 |
+| Tanker Firm Orderbook (25kdwt+) | 375 / 49.4m dwt | 265 / 29.2m dwt |
+| New Deliveries (25kdwt+) | 179 / 23.8m dwt | 184 / 26.7m dwt |
+
+| Item | | |
+|---|---|---|
+| Brent Oil Price | End 2021: $78.98 | End 2022 latest: $79.12 |
+| Bunkers VLSFO (end Dec) | Singapore: $601.5 | Rotterdam: $526.5 |
+| Tankers Demolished (25kdwt dwt)** | 2021: 137 / 15m dwt | 2022: 59 / 5.2m dwt |
+| Scrap Prices | Subcont Dec 2021: $601 | Subcont Latest 2022: $555 |
+
+| Oil Market | 2021 | 2021 (%) | Q4-22 | Q4-22 (%) |
+|---|---|---|---|---|
+| World Oil Supply | 95.3 | 1.60% | 101.6 | 6.6% |
+| OPEC crude production | 31.5 | 2.30% | 34.7 | 10.2% |
+| Non OPEC | 63.8 | 1.30% | 66.9 | 4.9% |
+| World Oil Demand (full year) | 97.7 | 6.80% | 100.8 | 3.2% |
+
+*Reported VLSFO prices used in earnings calculation non-ECA areas. Non Scrubber, Non Eco Tonnage
+** excludes storage units
 
 ## Crude Oil
 

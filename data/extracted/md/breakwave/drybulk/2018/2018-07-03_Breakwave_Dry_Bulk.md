@@ -12,9 +12,25 @@ source_file: "corpus/03-breakwave/drybulk/2018/2018-07-03_Breakwave_Dry_Bulk.pdf
 **Date:** July 3, 2018  
 **Publisher:** Breakwave Advisors | **Sector:** Drybulk  
 
+## Short-term Indicators
+
+### Market Stance
+
+| Indicator | Assessment |
+| :--- | :---: |
+| **Momentum** | Positive |
+| **Sentiment** | Positive |
+| **Fundamentals** | Neutral |
+
+### Freight & Futures Indices
+
+| Index | Current Value | 30-Day Trend | YTD Change | YoY Change |
+| :--- | :---: | :---: | :---: | :---: |
+| **Breakwave Futures Index** | 1,557 | 7.3% ↑ | 29.1% ↑ | 51.1% ↑ |
+| **Baltic Dry Index (spot)** | 1,422 | 23.0% ↑ | 4.1% ↑ | 57.8% ↑ |
+
 ## Market Overview & Analysis
 
-The Baltic Dry Index (BDI) measures the average spot rates for dry bulk freight with a sector weighting of 40% Capesize, 30% Panamax and 30% Supramax. The Breakwave Dry Futures Index (BDRYFF) is designed to track freight futures contracts with a sector weighting of 50% Capesize, 40% Panamax and 10% Supramax and a weighted average maturity of approximately 50-70 days. **Baltic Dry Index (spot): 1,422 ↑** 30D: 23.0% **↑** YTD: 4.1% **↑** YOY: 57.8% **Short-term Indicators:** Momentum: **Positive** Sentiment: **Positive** Fundamentals: **Neutral Bi-weekly Report**
 
 **Dry bulk rates continue to hover in recent ranges -** Capesize rates reached 19,000/d, breaking out of the recent 16,000/d-18,000/d range, while smaller vessel size volatility remains compressed, with Panamax rates in the 10,000/d-11,000/d range.
 

@@ -25,7 +25,43 @@ Trading conditions in the product tanker market have also been weak this year; h
 
 With 2022 almost upon us, what should we expect from next year? Owners will be hopeful that fundamentals will continue to improve. Although short term turbulence is inevitable due to a spread of Omicron and a fresh wave of lockdowns, global demand is still widely expected to continue to recover next year. In line with the demand projections, OPEC+ and non-OPEC output will also continue to increase, supporting incremental seaborne trade. However, the scheduled delivery profile is robust for next year and this could slow the recovery pace. Yet, what about demolition? The fleet is ageing, earnings are dismal, scrap prices are attractive. This year’s lack of demolition for larger sizes has been underpinned by sales into sanctioned trades; however, demand for illicit business is finite and at some point will be saturated, if it hasn’t been already. This coupled with the new EEXI and CII regulations mean that ageing and inefficient tankers might be forced to take tough decisions sooner rather than later. So surely, 2022 cannot be any worse than 2021?
 
-*Chart: Summary Table - Market & Fleet Data*
+### Summary Table - Market & Fleet Data
+
+| Rates (TCEs at 'market speed') | Route | Dec-20 WS | Dec-20 TCE/day* | Dec-21 MTD WS | Dec-21 MTD TCE/day* | 2021 WS Low | 2021 WS High |
+|---|---|---|---|---|---|---|---|
+| VLCC | Middle East - Ningpo | 35 | $16,000 | 39 | $500 | 27.5 | 46.5 |
+| Suezmax | West Africa - UKCont | 38 | $4,500 | 69 | $9,250 | 37.5 | 80 |
+| Aframax | North Sea - UKCont | 74 | -$3,000 | 102 | $2,500 | 75 | 132.5 |
+| LR2 | Middle East - Japan | 79 | $12,500 | 111 | $9,750 | 62.5 | 142.5 |
+| LR1 | Middle East - Japan | 101 | $14,000 | 129 | $9,750 | 70 | 140 |
+| MR | UKCont - USAC | 77 | $2,500 | 176 | $11,500 | 115.5 | 210 |
+
+| Fleet | Dec-20 Fleet Size | Dec-21 Fleet Size |
+|---|---|---|
+| VLCC | 823 | 843 |
+| Suez / LR3 | 610 | 617 |
+| Aframax / LR2 | 1,064 | 1,085 |
+| Panamax / LR1 | 466 | 455 |
+| Handy / MR | 2,169 | 2,185 |
+| Tanker Firm Orderbook (25kdwt+) | 427 60.9m dwt | 375 49.4m dwt |
+| New Deliveries (25kdwt+) | 167 22.06m dwt | 177 23.8m dwt |
+
+| Item | | |
+|---|---|---|
+| Brent Oil Price | End 2020: 47.42 | End 2021 latest: 74.69 |
+| Bunkers VLSFO (end Dec) | Singapore: 598 | Rotterdam: 527 |
+| Tankers Demolished (25kdwt dwt)** | 2021: 119 12m dwt | |
+| Scrap Prices | Subcont Dec 2020: 403 | Subcont Latest 2021: 613 |
+
+| Oil Market | 2020 | 2020 (%) | Nov 2021 | Nov 2021 (%) |
+|---|---|---|---|---|
+| World Oil Supply | 93.84 | -6.67% | 98.37 | 4.8% |
+| OPEC crude production | 25.69 | -12.80% | 27.75 | 8.0% |
+| Non OPEC | 63.01 | -3.96% | 65.41 | 3.8% |
+| World Oil Demand (full year) | 90.83 | -9.21% | 96.19 | 5.9% |
+
+*Reported VLSFO prices used in earnings calculation non-ECA areas
+** excludes storage units
 
 ## Crude Oil
 

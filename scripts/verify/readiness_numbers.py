@@ -39,6 +39,16 @@ GARBLED = re.compile(r"\S;\S|[<=>]|\)\d|0123|1234|2345|3456|4567|5678|6789")
 # Characters printed numbers never sit next to; a span with digits and one of these is glyph codes.
 UNIT = re.compile(r"(?<=\d)(?:mn|bn|M|m|k)\b")
 ODD = re.compile(r'["#*!?@\^_{}|~]')
+# European print: period thousands, comma decimals. Advanced prints the BHSI as "1.503", USD/JPY as "160,62" and
+# gold as "2.336,60"; its MDs carry 1503, 160.62, 2336.60. A page is also read that way, and the reading that
+# finds more of it in the MD counts.
+EURO = re.compile(r"(?<![\w.,])\d{1,3}(?:\.\d{3})*(?:,\d+)?(?![\w.,]\d)")
+# An MD that leaves pages out by design says so ("Content: Pages 1 to 7; Final 3 pages excluded").
+CONTENT = re.compile(r"Content: Pages 1 to (\d+)")
+
+
+def euro(text: str) -> str:
+    return EURO.sub(lambda m: m.group(0).replace(".", "").replace(",", "."), text)
 
 
 def page_text(page) -> str | None:
@@ -125,7 +135,9 @@ def check(args):
     if path is None:
         row["status"] = "pdf_missing"
         return row, []
-    md_nums = numbers(md.read_text(encoding="utf-8", errors="ignore").replace("\\", ""))
+    md_text = md.read_text(encoding="utf-8", errors="ignore")
+    md_nums = numbers(md_text.replace("\\", "")) | numbers(euro(md_text.replace("\\", "")))  # prose keeps "50,5"
+    last = int(m.group(1)) if (m := CONTENT.search(md_text[:3000])) else None
     flagged = []
     try:
         doc = pymupdf.open(path)
@@ -136,10 +148,15 @@ def check(args):
     for pno, page in enumerate(doc, 1):
         text = page_text(page)
         row["pages"] += 1
+        if last is not None and pno > last:
+            continue
         if text is None or len(text.strip()) < 40:
             row["no_text"] += 1
             continue
         nums = numbers(text, page=True) - axis_ticks(text)
+        alt = numbers(euro(text), page=True) - axis_ticks(euro(text))
+        if len(alt - md_nums) < len(nums - md_nums):
+            nums = alt
         lost = sorted(nums - md_nums, key=lambda s: float(s))
         total += len(nums)
         miss += len(lost)
