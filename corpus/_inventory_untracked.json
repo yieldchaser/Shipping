@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2951,
-      "untracked_bytes": 2297446628
+      "untracked_files": 2954,
+      "untracked_bytes": 2297733998
     },
     {
       "path": "corpus/02-hellenic",
@@ -32,8 +32,8 @@
     },
     {
       "path": "corpus/07-signal",
-      "untracked_files": 322,
-      "untracked_bytes": 178237532
+      "untracked_files": 298,
+      "untracked_bytes": 174706385
     },
     {
       "path": "corpus/09-ppa",
@@ -47,6 +47,16 @@
     }
   ],
   "entries": [
+    {
+      "path": "corpus/01-brokers/_digests/affinity/2026/affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.md",
+      "bytes": 12708,
+      "sha256": "3c9c8e81f4a963d52380fc8cd679d1770795145c8e036838fd27010672ab0782"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/gibson/2026/gibson_31_10_2026_gibson_tanker_report_freight_squeezes_naphtha_arb.md",
+      "bytes": 818,
+      "sha256": "cb0e153846ea92e72a1fb1e59d76219767cdade699471179efecf76ec11eb0be"
+    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -2601,6 +2611,11 @@
       "path": "corpus/01-brokers/affinity/2026/affinity_26_09_2026_affinity_tanker_weekly_25_september_2026.pdf",
       "bytes": 273401,
       "sha256": "8a67890265f1ebe52080804ede7fa77ceb875c633ac51a542c1da65010fae052"
+    },
+    {
+      "path": "corpus/01-brokers/affinity/2026/affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.pdf",
+      "bytes": 273844,
+      "sha256": "bbd92ce9033801ff7c2899051e5011b4845aaa173af12be7de00d4123abcd472"
     },
     {
       "path": "corpus/01-brokers/agora/2021/agora_2021_W25_AGORA.-Week-25.-2021.-Snapshot-of-Commercial-Indicators.pdf",
@@ -42003,16 +42018,6 @@
       "sha256": "cfb74c938d015edb12df749489317f64447354fc874abe5b10dbd3e604116a9e"
     },
     {
-      "path": "corpus/07-signal/html/ramble-on-who-pays-the-freight.html",
-      "bytes": 230250,
-      "sha256": "995cb00a9dbe7f5db1be167ed4b705e92cee5075cd402efc9d1fa769dbda5a2d"
-    },
-    {
-      "path": "corpus/07-signal/html/weekly-dry-market-monitor-week-43-2026.html",
-      "bytes": 232178,
-      "sha256": "ae3137eb6b6a22c94afa68d5e4b0ac0fc7ee9ca3288e6ada0511f3cdcdf86516"
-    },
-    {
       "path": "corpus/07-signal/images/61ee8a276c973711129956ad_image (90).png",
       "bytes": 298514,
       "sha256": "11bbc769a2164d34cbb31e7e4795412aeb91dc285fb7ee3376aa33bacc388c3b"
@@ -43501,116 +43506,6 @@
       "path": "corpus/07-signal/images/6aab9b1af1afff7802ecc95b_Weeklies (Tanker & Dry).png",
       "bytes": 1548138,
       "sha256": "85b4a55553187dc53bebf16853fd14f226ba445c55f28d3b698e48b7abf032de"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae1e539338e479a5bf8f831_1cf3c763.png",
-      "bytes": 21067,
-      "sha256": "0030141887969e740a101b2f25d531cc13103cd4bb6b739409e89c9f66ad15a6"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae1e590713df988726bbd3a_ab93f8be.png",
-      "bytes": 528323,
-      "sha256": "bc75a3d93162196e5c7aded0281f6587c6131452bf70795a18fb64300deb7d4d"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae1e5af2354b4c62150ee7b_c05f3979.png",
-      "bytes": 170721,
-      "sha256": "0e1ffbb1a367fb89ada0990698b5ed2d705e480a2727e57a98022e90dfc3080f"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae1e67ac8aed5b6a6f84bbe_77d7ffc3.png",
-      "bytes": 509571,
-      "sha256": "f6250c9a21d8669a21206e727c01dd1b3baa8be1e7fd2df68a68afd69a389097"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae1e6be0f42b203077bb586_c8c04ac8.png",
-      "bytes": 31061,
-      "sha256": "e0555f230bce4b23d96011b0dde44c5fee234dd56d7f892d0f5110d1ad205255"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae1e72f0f3b68ac98cd7160_53d05400.png",
-      "bytes": 101904,
-      "sha256": "390dca7f8838607d8aeb16be851bf04de41945f9b7260fa7afd4a89e6e3c55b9"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae1e808cbca9f72e34faa83_a93e8863.png",
-      "bytes": 49022,
-      "sha256": "adbd853553595c7715162bb161043405dfd38cb78a8ade74a020b5d5b630a43a"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae1e815fddc02027c85ae7e_72bea95a.png",
-      "bytes": 55465,
-      "sha256": "1cd490ac50fa0d21e033afff8497821b2fa4b2ca66c1d4c363e193bc436522a2"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae1e8369b8bd9d1397b3f35_ab0a9b0d.png",
-      "bytes": 40835,
-      "sha256": "88f0538b1bacce70bc0d78f65e117b8fd839b437c270dcaa665b0a4d773f4ae0"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae1e90126b80ec561678c5b_236f2aee.png",
-      "bytes": 77389,
-      "sha256": "5621843b7262c06abbe5c5cd68397c588cef1c737ffb243c4a5454479c98fd96"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae1e97c100e5483a356581a_92d6d0fa.png",
-      "bytes": 73974,
-      "sha256": "b8e9ab0b19b348736bab3b7a0c715daad4cc601868a497743ec8c67caeb6f9cb"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae1e9ccbf4dfc276e217584_22d9ea51.png",
-      "bytes": 60935,
-      "sha256": "0cb34b2c7ccbe80c63a6e7d622dc0c936a12c6e6b766a66e56c2d677ca3f0994"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae1ea08100e5483a356c2b7_ef38247c.png",
-      "bytes": 146336,
-      "sha256": "22752f36aceff5068b9f3095878f1a736765b9db273b0c47f496e5a33cabc4cb"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae1ea6136e3df31bb0d5587_3abfad3c.png",
-      "bytes": 88867,
-      "sha256": "a0758b0b36329e0000e430845e1a94398ceeaa29f2d95b45590bc792831d374c"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae1eaa62420a015053b661c_a0716bb8.png",
-      "bytes": 144820,
-      "sha256": "130409b5bd95d081a16c44639b350590310b0434bbb4215e9ead5a2e03e584a2"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae1eae5f2cc9abae10952ef_21ed3f94.png",
-      "bytes": 57769,
-      "sha256": "44bfe0467f45d7d16bf9e5254f0e69e59e5710441a220df824db2156e57f85e2"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae1eb243612134ca55eed31_7f8745c1.png",
-      "bytes": 141082,
-      "sha256": "5641e014700c2e1f5350b7097ef56a572d6567d9c448dd539402ecee07f0ffb0"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae3120711b7a64b9634be1e_9f79098b.png",
-      "bytes": 284871,
-      "sha256": "4be132bb7a4377d01d6fecb1d232b9e095598319a26ab227891bf5867932e3dd"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae3153b2bd44e5831d57ae6_95603e71.png",
-      "bytes": 171821,
-      "sha256": "50e45151984f4b176b3aebc188b90c513d87efe4cc0e30d53d652e18509ce242"
-    },
-    {
-      "path": "corpus/07-signal/images/6ae3156102de6ef484c796fe_587ac579.png",
-      "bytes": 283892,
-      "sha256": "906f98ec4195d5ec52dd94fa78bbf1166f710255a3b49a8a05428493bbb30d26"
-    },
-    {
-      "path": "corpus/07-signal/monitors/2026/weekly-dry-market-monitor-week-43-2026.md",
-      "bytes": 18527,
-      "sha256": "8ad31dcfc29be7e753243ea1f6500f3b3d4df77d66b0c05d7be9cb87dfb700f8"
-    },
-    {
-      "path": "corpus/07-signal/newsroom/2026/ramble-on-who-pays-the-freight.md",
-      "bytes": 10467,
-      "sha256": "93d5b03f53db96d1536d8662a5cd2f253682966601c7b1c063278602c29f0056"
     },
     {
       "path": "corpus/09-ppa/_root_pdfs/dampier_2026_june.pdf",

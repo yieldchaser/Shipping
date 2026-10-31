@@ -752,3 +752,6 @@ issue_date,report_week,segment,price_usd_per_ldt,change_wow,source_file
 2026-10-23,43,TKR/LRG,507.3,1.7,affinity_24_10_2026_affinity_tanker_weekly_23_october_2026.pdf
 2026-10-23,43,TKR/MED,515.6,1.7,affinity_24_10_2026_affinity_tanker_weekly_23_october_2026.pdf
 2026-10-23,43,TKR/SML,518.9,2.4,affinity_24_10_2026_affinity_tanker_weekly_23_october_2026.pdf
+2026-10-30,44,TKR/LRG,512.6,6.1,affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.pdf
+2026-10-30,44,TKR/MED,521.0,6.3,affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.pdf
+2026-10-30,44,TKR/SML,525.7,7.9,affinity_31_10_2026_affinity_tanker_weekly_30_october_2026.pdf
