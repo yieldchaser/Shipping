@@ -147,7 +147,13 @@ def main() -> int:
             m7 = SECRET_RE.search(text)
             r7 = f"secret-shaped string at char {m7.start()}" if m7 else ""
             if tok is not None:
-                ntok = len(tok.encode(body, add_special_tokens=False).ids)
+                # chunked at line breaks: one encode of a multi-MB filing exhausts the tokenizer's memory
+                ntok, i = 0, 0
+                while i < len(body):
+                    j = body.find("\n", i + 50_000)
+                    j = len(body) if j < 0 else j + 1
+                    ntok += len(tok.encode(body[i:j], add_special_tokens=False).ids)
+                    i = j
             else:
                 ntok = round(pb / 4 + tb / 2.5)
             relp = p.relative_to(ROOT).as_posix()

@@ -71,13 +71,18 @@ def get_candidate_editions() -> list[dict]:
         ("september", "09", "10"),
         ("december", "12", "01"),
     ]
+    # Newest edition first: the first edition that downloads wins, so oldest-first order made the June workbook
+    # (via Wayback) win before September was ever tried. DISR files an edition under its own month's folder
+    # (September 2026 -> /2026-09/) or the publication month's (June 2026 -> /2026-07/), so both are tried.
     for y in [year, year - 1]:
-        for m_name, q_m, pub_m in months_map:
+        for m_name, q_m, pub_m in reversed(months_map):
             tag = f"{m_name[:3]}{y}"
             pub_year = y if pub_m != "01" else y + 1
+            if (y, int(q_m)) > (now.year, now.month):
+                continue
             urls = [
-                f"https://www.industry.gov.au/sites/default/files/{pub_year}-{pub_m}/resources-and-energy-quarterly-{m_name[:3]}-{y}-historical-data.xlsx",
-                f"https://www.industry.gov.au/sites/default/files/{pub_year}-{pub_m}/resources-and-energy-quarterly-{m_name}-{y}-historical-data.xlsx",
+                f"https://www.industry.gov.au/sites/default/files/{folder}/resources-and-energy-quarterly-{name}-{y}-historical-data.xlsx"
+                for folder in (f"{y}-{q_m}", f"{pub_year}-{pub_m}") for name in (m_name, m_name[:3])
             ]
             if tag == "jun2026":
                 urls.append("https://web.archive.org/web/20260727061548if_/https://www.industry.gov.au/sites/default/files/2026-07/resources-and-energy-quarterly-june-2026-historical-data.xlsx")
@@ -110,7 +115,7 @@ TARGETS = [
 def _download(url: str, dest: Path) -> bool:
     try:
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-        with urllib.request.urlopen(req, timeout=10, context=_CTX) as r:
+        with urllib.request.urlopen(req, timeout=30, context=_CTX) as r:
             raw = r.read()
         if len(raw) < 100_000:  # xlsx is ~3.6MB; anything smaller is an error page
             logging.warning("Suspiciously small payload (%d bytes) from %s", len(raw), url[:80])
